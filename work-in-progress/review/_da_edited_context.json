@@ -1,0 +1,14 @@
+{
+  "1": {
+    "id": "date_kart_24e2a451:0",
+    "identifier": "date_kart_24e2a451",
+    "index": 0,
+    "file": "da/date_mall.rpy",
+    "line": 178,
+    "label": "_call_expression_290",
+    "who": null,
+    "source": "I race [active_girl.name].",
+    "code_template": "\"__LSSB_TRANSLATION__\"",
+    "existing": "Я участвую в гонке с [active_girl.name]."
+  }
+}

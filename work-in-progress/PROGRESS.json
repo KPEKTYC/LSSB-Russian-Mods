@@ -1,0 +1,210 @@
+{
+  "updated_utc": "2026-10-20T21:44:06.875954+00:00",
+  "active_character": null,
+  "groups": {
+    "alexis": {
+      "reviewed": 6686,
+      "total": 6686,
+      "corrections": 913,
+      "installed_corrections": 396,
+      "pending_corrections": 517,
+      "excluded_from_retranslation": [
+        1970,
+        1977,
+        1993,
+        1997,
+        2014,
+        2015,
+        2016,
+        2017,
+        6633
+      ]
+    },
+    "audrey": {
+      "reviewed": 6721,
+      "total": 6721,
+      "corrections": 1271,
+      "installed_corrections": 0,
+      "pending_corrections": 1271,
+      "excluded_from_retranslation": []
+    },
+    "bree": {
+      "reviewed": 10698,
+      "total": 10698,
+      "corrections": 1281,
+      "installed_corrections": 0,
+      "pending_corrections": 1281,
+      "excluded_from_retranslation": []
+    },
+    "sasha": {
+      "reviewed": 8101,
+      "total": 8101,
+      "corrections": 1296,
+      "installed_corrections": 0,
+      "pending_corrections": 1296,
+      "excluded_from_retranslation": []
+    },
+    "harems_full": {
+      "reviewed": 351,
+      "total": 351,
+      "corrections": 34,
+      "installed_corrections": 0,
+      "pending_corrections": 34,
+      "excluded_from_retranslation": []
+    },
+    "_ac": {
+      "reviewed": 301,
+      "total": 301,
+      "corrections": 21,
+      "installed_corrections": 0,
+      "pending_corrections": 21,
+      "excluded_from_retranslation": []
+    },
+    "_bg": {
+      "reviewed": 2358,
+      "total": 2358,
+      "corrections": 101,
+      "installed_corrections": 0,
+      "pending_corrections": 101,
+      "excluded_from_retranslation": []
+    },
+    "_da": {
+      "reviewed": 6,
+      "total": 6,
+      "corrections": 1,
+      "installed_corrections": 0,
+      "pending_corrections": 1,
+      "excluded_from_retranslation": []
+    },
+    "_ev": {
+      "reviewed": 15,
+      "total": 15,
+      "corrections": 1,
+      "installed_corrections": 0,
+      "pending_corrections": 1,
+      "excluded_from_retranslation": []
+    },
+    "_root": {
+      "reviewed": 2,
+      "total": 2,
+      "corrections": 0,
+      "installed_corrections": 0,
+      "pending_corrections": 0,
+      "excluded_from_retranslation": []
+    }
+  },
+  "remaining_limit_at_checkpoint": 31,
+  "stop_at_remaining_percent": 7,
+  "shutdown": false,
+  "wiki_translation": false,
+  "installed_versions": {
+    "localization": "1.79.0",
+    "manager": "1.2.76"
+  },
+  "isolated_candidate": {
+    "profile": "own-mods-only",
+    "alexis_corrections": 517,
+    "workspace": "finalreview_20261020",
+    "corrections": 4543,
+    "groups": {
+      "alexis": {
+        "reviewed": 6686,
+        "total": 6686,
+        "corrected": 517,
+        "installed_reviewed": 3000,
+        "excluded": [
+          1970,
+          1977,
+          1993,
+          1997,
+          2014,
+          2015,
+          2016,
+          2017,
+          6633
+        ]
+      },
+      "audrey": {
+        "reviewed": 6721,
+        "total": 6721,
+        "corrected": 1271,
+        "installed_reviewed": 0,
+        "excluded": []
+      },
+      "bree": {
+        "reviewed": 10698,
+        "total": 10698,
+        "corrected": 1281,
+        "installed_reviewed": 0,
+        "excluded": []
+      },
+      "sasha": {
+        "reviewed": 8101,
+        "total": 8101,
+        "corrected": 1296,
+        "installed_reviewed": 0,
+        "excluded": []
+      },
+      "harems_full": {
+        "reviewed": 351,
+        "total": 351,
+        "corrected": 34,
+        "installed_reviewed": 0,
+        "excluded": []
+      },
+      "_ac": {
+        "reviewed": 301,
+        "total": 301,
+        "corrected": 21,
+        "installed_reviewed": 0,
+        "excluded": []
+      },
+      "_bg": {
+        "reviewed": 2358,
+        "total": 2358,
+        "corrected": 101,
+        "installed_reviewed": 0,
+        "excluded": []
+      },
+      "_da": {
+        "reviewed": 6,
+        "total": 6,
+        "corrected": 1,
+        "installed_reviewed": 0,
+        "excluded": []
+      },
+      "_ev": {
+        "reviewed": 15,
+        "total": 15,
+        "corrected": 1,
+        "installed_reviewed": 0,
+        "excluded": []
+      },
+      "_root": {
+        "reviewed": 2,
+        "total": 2,
+        "corrected": 0,
+        "installed_reviewed": 0,
+        "excluded": []
+      }
+    },
+    "audrey_reviewed": 6721,
+    "audrey_corrections": 1271,
+    "native_check": "passed",
+    "status": "passed isolated native, UI and disable/enable checks; not installed; no full playthrough",
+    "versions": {
+      "localization": "1.83.0-own",
+      "manager": "1.2.80-own"
+    },
+    "dynamic_statements": 24,
+    "display_strings": 44,
+    "random_phrases": 15,
+    "native_say_coverage": {
+      "original_say": 211603,
+      "russian_say": 211499,
+      "deferred": 104,
+      "deferred_identifiers_and_source_hashes_unchanged": true
+    },
+    "sources_in_mods": true
+  }
+}

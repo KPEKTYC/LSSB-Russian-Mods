@@ -1,0 +1,2 @@
+init 1124 python:
+    renpy.game.script.translator.strings['russian'].translations.update(lssb_textphone.strings)

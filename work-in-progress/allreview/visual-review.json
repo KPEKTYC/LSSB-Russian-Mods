@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "method": "All 31 native dialogue screenshots inspected in full-resolution dialogue crops; two shortened rows additionally inspected as full screenshots after enable.",
+  "images": {
+    "alexis_5282.png": "0f9264bbd4a3b7d1fcab35f460901b1a5535c85e06dd235c63d8e3a61ce8a4dc",
+    "alexis_6202.png": "2e44c6268dfa45c9547aeea3e3826d150e58e6289019e5c4d9592e83419bd3b7",
+    "audrey_1264.png": "fae7e0c40b03298018a0d476b6664d1a387614579f446615dab817bb4924b33d",
+    "audrey_1333.png": "ffd15fdbed35d7733ddf44c716f1d258a87bb835cedd87fca1555006f3e770cf",
+    "audrey_1435.png": "0b2c9b65992d7bdcb803042013ebc122ac5538573de6502f2905bca24b07058a",
+    "audrey_1474.png": "effbfa356546aa1bf7e654f51195926914a0db8b1045840229998f83ff78a7d5",
+    "audrey_3186.png": "3ebaa6ba14f06d7aaaa11d32f568491678d0a97780b98fe6199ce3c8455666b9",
+    "audrey_342.png": "4b9886ada6b5e6490b6331855185a21052be5ec15f66f724972c15f5de32f99f",
+    "audrey_416.png": "ff2764a4e5f0d0f83e77172fa159afe37692ab8e3260be9bfff471fffe5fe39f",
+    "audrey_5656.png": "bf01a91b027bb4e49cc748b946bc7729e231efc1e23a41af3e24576b6e0b18e4",
+    "audrey_6254.png": "f244e3b34b88b3ce991e6c581354e7c70296fa9edaa4e8d0a092ebf76b536617",
+    "audrey_6399.png": "fa51445708705ad0f341b204f1a978a8f292f8f79824d2ed2f9b28726117e237",
+    "audrey_6425.png": "ee9b366430f5be36a861606b195a2258eeed9b808d00b61fd180ae83e8e2478d",
+    "audrey_6548.png": "e10d154521804a1aeb87ae824f43149d10f14453173ca52da52b618b115047f1",
+    "audrey_6586.png": "545a94906ee139cf63bd5fd05a42b4a9c56114fc50cf615b829179d888bc177c",
+    "audrey_6641.png": "ed7c184bd5cf864e1af3adde081e0ba64900811b7a6e67b02e125a1719e215bd",
+    "audrey_923.png": "0f95ac6d36e6aab2c72ab2fb59c2d24103e263f06a06069e29eecda9c6489731",
+    "audrey_979.png": "acbd6f07a51990acc7bf3374ddb5fb258f6ccf60af98c0dad3759e4592c35c8f",
+    "bree_1492.png": "6bcbd7fdc687b64e6aa47f052ef61237d8ce4cf756b18efae47effd08a5e328c",
+    "bree_5234.png": "03c06f58a8c0c53c91b2883b6cd06ea4cc7605093cdfaf90dfa7be99fd282484",
+    "bree_6291.png": "0f235218b5c77cd7a80b4d579a102132e50837008d1969296451af6e3d19fa98",
+    "harems_full_0.png": "d14a38a4ced888d5bfba11eeb8b1d14e7df60581ded06c797b51aed2b647420b",
+    "harems_full_167.png": "e0c180ac3ac76eb4d704e08868d7fe1be8ee2b8143ad574a7893bfa0e0df0e0a",
+    "sasha_2599.png": "9c76b36b53694c2e6d437719cc59c62e559ca7944f756d743a0e26babc91abd8",
+    "_ac_57.png": "c5efbe1abc0d9fc6ea8290929dbb2cf7d136c687142408653a319b8a6393afe9",
+    "_bg_1501.png": "3f61a3b9b0d585d75e5a0c277736935603f91fc43ebefcfd10ebf14d21a4bfb6",
+    "_bg_1505.png": "3d1ddf9abf32b9ff8eb4243e72d84d5d884f51163ced5f1b23837be70e03f1e7",
+    "_bg_434.png": "8ef5f619d7b0fad80efe7968adf7c94ec406539318656e9405010d9b373b0479",
+    "_bg_883.png": "f763e443f9b1feb149a647666dec3bcebd86f4d4e9ff87a3c7442741742e4417",
+    "_da_1.png": "0fdf8346eaa9943c2c8236bb8e6b2150659df459f5248934640285d95bb0d5a8",
+    "_ev_6.png": "e601d6b4a6bd07a47daf7c6989824ba954e21b32ef77728951e118c7076c6730"
+  },
+  "additional_after_enable_images": {
+    "sasha_2850.png": "c10c86cee1dfa84a2d39f821a49b2622e206036e6bc48f9a4fdcad180f8045cf",
+    "_bg_11.png": "2d62e6ddbb12fbbc82cd7b42f0d0c6e654ebef5c2de633d9b8b2ab75d7398fe8"
+  }
+}

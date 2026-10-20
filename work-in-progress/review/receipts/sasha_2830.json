@@ -1,0 +1,12 @@
+{
+  "reviewed_range": [
+    2830,
+    2960
+  ],
+  "end_exclusive": true,
+  "method": "Direct bilingual review of rehearsal and first concert: restored earning back studio costs, carrying amplifiers, speaker gender, backstage pass, packed venue, encore and figurative language; corrected pronoun referents and malformed Russian.",
+  "layout_revision": {
+    "index": 2850,
+    "reason": "Native rendering exceeded stock panel at 140 px; shortened wording while preserving source meaning. Revalidation pending."
+  }
+}

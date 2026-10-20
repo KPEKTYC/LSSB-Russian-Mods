@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "record_scope": "Historical permissive licensing checkpoint at commit 2862d2e; not the current project policy.",
+  "current_policy_record": "provenance/licensing-noncommercial-2026-10-21.json",
+  "earlier_license_grants_automatically_revoked": false,
+  "date": "2026-10-21",
+  "credit": "KPEKTYC",
+  "software_license": "MIT",
+  "original_translation_contributions_license": "CC-BY-4.0",
+  "scope": "Original project contributions to the extent of rights held; imported base, original game and third-party materials excluded.",
+  "licensing_files": {
+    "LICENSE": "e50de226b6d07e9a60e96cb20a6bca9839929d86b5777a8e01b7b0daf4659433",
+    "LICENSE_SCOPE.md": "eccc8749bb4e73bebf54aac89403da2a9cb21089088d4d427013ae55573a5423",
+    "NOTICE": "091c5b11d04967256b96f0593f532a2a1caa63d1159484b18ee38dad0d634086",
+    "LICENSES/CC-BY-4.0.txt": "16edf22647507ff74f7c0b685763234d54b1fd9c12a2894ef8e11349bf5867f8"
+  },
+  "build_copy_readback": true,
+  "tests": {
+    "total": 61,
+    "passed": 60,
+    "skipped": 1
+  },
+  "snapshot_files": 1860,
+  "original_release_assets_preserved": true,
+  "installed_rpa_bytes_unchanged": true,
+  "game_installation_modified": false,
+  "repository_visibility_changed": false,
+  "sources": [
+    "https://opensource.org/license/mit",
+    "https://creativecommons.org/licenses/by/4.0/",
+    "https://creativecommons.org/licenses/by/4.0/legalcode.en",
+    "https://creativecommons.org/faq/"
+  ]
+}

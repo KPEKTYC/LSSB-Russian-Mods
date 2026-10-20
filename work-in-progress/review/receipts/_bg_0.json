@@ -1,0 +1,12 @@
+{
+  "reviewed_range": [
+    0,
+    100
+  ],
+  "end_exclusive": true,
+  "method": "Direct bilingual review of locations and beach events; corrected office idiom, work sentence and gender-neutral shark sighting. Dynamic bath fragments retained pending native interpolation audit.",
+  "layout_revision": {
+    "index": 11,
+    "reason": "Native rendering exceeded stock panel at 140 px; shortened wording while preserving source meaning. Revalidation pending."
+  }
+}

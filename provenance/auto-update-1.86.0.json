@@ -1,0 +1,139 @@
+{
+  "status": "passed_with_scope",
+  "created_utc": "2026-10-20T23:07:49.594747+00:00",
+  "game_version": "26.9.0e",
+  "renpy_version": "8.5.3.26051504",
+  "localization": "1.86.0-own",
+  "manager": "1.3.0-own",
+  "protocol": {
+    "schema": 1,
+    "signature": "RSA-PSS-SHA256",
+    "salt_bytes": 32,
+    "key_bits": 3072,
+    "runtime_dependencies": "Python standard library only",
+    "rpa_pickle_executed_for_discovery": false
+  },
+  "native_matrix": {
+    "status": "passed",
+    "versions": [
+      "1.86.0-own",
+      "99.0.0-test",
+      "100.0.0-test",
+      "1.86.0-own"
+    ],
+    "manager_sha256": "cca5a4b5d601042995f125364d4ed3f66585a1a749eb8c01f0accef953b617da",
+    "manager_rebuilt_between_updates": false,
+    "disabled_update_preserved": true,
+    "actual_exit_disable_enable_verified": true
+  },
+  "native_full_pack_manager_sha256": "efa90263ae22cd426989f4e235d7a4d9dbbfb8d22fd29beec4caed42c10f661e",
+  "installed_profile": {
+    "status": "installed_and_verified",
+    "localization": "1.86.0-own",
+    "manager": "1.3.0-own",
+    "recognition": "signed-release",
+    "sha256": {
+      "zzzzzz_lssb_localization_ru.rpa": "382efbc1b88a2d4fdc28a60197520c5fb935ddfee8380bd7668c8feba55feaa5",
+      "zzzzzzzz_lssb_mod_manager.rpa": "cca5a4b5d601042995f125364d4ed3f66585a1a749eb8c01f0accef953b617da"
+    }
+  },
+  "evidence": {
+    "clean-coverage/coverage.json": {
+      "status": "passed",
+      "sha256": "f935bffd8e2bb454125ce6013e6e24c7fc7577ad72ce1936cb76527267068dd1"
+    },
+    "native-current02/auto-update.json": {
+      "status": "passed",
+      "sha256": "b8a2e3bafaa04c181b2292149259082bd0bfe74e7710a26af8f6a611bca29001"
+    },
+    "future99-disable/auto-update.json": {
+      "status": "passed",
+      "sha256": "033cc7ba0d2e98991bfa84ce8bf75d4ba4209af42edf5a31a7c28c57566ccd98"
+    },
+    "future99-disable/verified-transition.json": {
+      "status": "passed",
+      "sha256": "fce0d157a29886bdfe607b938c0866849b480d9d7ff915665e57cd66df1762ec"
+    },
+    "future100-enable/auto-update.json": {
+      "status": "passed",
+      "sha256": "e9185bbff4de1d5f7f32da2628bbabb32af99479f94eae24ac946dcf204e1dcb"
+    },
+    "future100-enable/verified-transition.json": {
+      "status": "passed",
+      "sha256": "19d366f4b4fa8b6c87e13ae835b68cc0613440101335ab2d38824ee75c40fbc5"
+    },
+    "native-restored/auto-update.json": {
+      "status": "passed",
+      "sha256": "b8a2e3bafaa04c181b2292149259082bd0bfe74e7710a26af8f6a611bca29001"
+    },
+    "full-pack/current-compatibility.json": {
+      "status": "passed",
+      "sha256": "09a153264377e7a12146daf32344b64802311cdbd5ef2ca11bc3a7e5f4d399f6"
+    }
+  },
+  "coverage": {
+    "status": "passed",
+    "original_say": 211603,
+    "russian_say": 211603,
+    "missing": 0,
+    "expected_exclusions_unchanged": true,
+    "external_translation_files": false,
+    "fonts_available": true,
+    "fresh_preferences_language": "russian",
+    "screens": [
+      "main_menu",
+      "preferences"
+    ],
+    "dialogue_verified_and_rendered": 114,
+    "new_queue_translations": 66,
+    "additional_context": 1,
+    "age_changes": 0,
+    "scope": "Dialogue-node coverage in the clean-game fixture; not a full story playthrough or 100% of all game text."
+  },
+  "tests": {
+    "status": "passed",
+    "snapshot_files": 1859,
+    "manager_tests": 45,
+    "passed": 44,
+    "skipped": 1,
+    "sources": {
+      "tools/manager/manager_core.py": "5e2261a07c515ea2951bb49e7010a7f07ec2c67d58e5b4b3c9818453cc9e73ef",
+      "tools/manager/test_release_updates.py": "6e684eb621ececc639957a9eef600f1673a421f54cce1628356ab855a96e90bb",
+      "tools/build.py": "0cd02c34b114e10ac0f41a9b768c0ea1fe265d5d69e831f6f0d53e5063b432d0",
+      "tools/release_metadata.py": "5c6e0ef8a43126908845741030deb3a75051eeaabd5ed77aae99d506084fd78f"
+    }
+  },
+  "archives": {
+    "lssb_localization_ru": {
+      "sha256": "382efbc1b88a2d4fdc28a60197520c5fb935ddfee8380bd7668c8feba55feaa5",
+      "entries": 145,
+      "contents_match_manifest": true
+    },
+    "lssb_visual_quality": {
+      "sha256": "311687f149793a15cc0c44ba277de3c81c9bf7af20358921931b6e7cc0d9d8dd",
+      "entries": 796,
+      "contents_match_manifest": true
+    },
+    "lssb_startup_fix": {
+      "sha256": "f113fd79ffe1c69a1d9184f6bbc34865f5704608572b221f5d0eafa88419d65b",
+      "entries": 1,
+      "contents_match_manifest": true
+    },
+    "lssb_mod_manager": {
+      "sha256": "efa90263ae22cd426989f4e235d7a4d9dbbfb8d22fd29beec4caed42c10f661e",
+      "entries": 1,
+      "contents_match_manifest": true
+    }
+  },
+  "archive_readback_sha256": "de453aff42a8c91e9c0cb909c85a77778434bef0a095ec1591076e622bdc99a5",
+  "installed_readback_sha256": "6cf51ba8c30b2ab147607d87f9b686936898354419db9c71f050159ff193de10",
+  "limitations": [
+    "Automatic recognition applies to signed localization releases using the supported schema and trusted public key.",
+    "Other mods retain exact catalogue hashes.",
+    "A pending action still pins the entire archive hash; an intervening replacement cannot be silently applied.",
+    "Duplicate active/disabled files and interrupted journals remain conflicts.",
+    "Synthetic versions 99 and 100 are localization metadata; arbitrary future game-code compatibility is not claimed.",
+    "No new dialogue translations in 1.86.0; prior 1.85.0 adaptations remain disclosed. No full story playthrough."
+  ],
+  "test_harness_note": "Initial custom UI command omitted normal language/style initialization; the test setup was corrected and the native matrix rerun. No product change was required."
+}

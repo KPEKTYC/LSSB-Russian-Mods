@@ -1,0 +1,135 @@
+{
+  "status": "passed_with_scope",
+  "created_utc": "2026-10-20T23:24:55.807207+00:00",
+  "versions": {
+    "lssb_localization_ru": "1.87.0-own",
+    "lssb_visual_quality": "1.5.2-own",
+    "lssb_startup_fix": "1.1.1-own",
+    "lssb_mod_manager": "1.4.0-own"
+  },
+  "game_version": "26.9.0e",
+  "renpy_version": "8.5.3.26051504",
+  "tests": {
+    "total": 61,
+    "passed": 60,
+    "skipped": 1,
+    "skip_reason": "Windows symlink creation permission"
+  },
+  "snapshot_files": 1860,
+  "official_metadata": {
+    "localization_schema": 1,
+    "other_mods_schema": 2,
+    "signature": "RSA-PSS-SHA256-salt32",
+    "key_bits": 3072,
+    "component_filename_binding": true
+  },
+  "third_party_metadata": {
+    "schema": 1,
+    "namespace": "zz_mod_<id>.rpa",
+    "companion": "zz_mod_<id>.lssb-mod.json",
+    "publisher_key_required": false,
+    "authenticity_claimed": false,
+    "archive_sha256_verified": true,
+    "max_descriptors": 64,
+    "max_json_bytes": 8192
+  },
+  "native_matrix": {
+    "status": "passed",
+    "versions": [
+      "current",
+      "99.0.0-test",
+      "100.0.0-test",
+      "current"
+    ],
+    "components": [
+      "localization_ru",
+      "visual_quality",
+      "startup_fast",
+      "external_author_demo"
+    ],
+    "manager_sha256": "8fd31e6703e26f4ee7ccb303bc936fce1d79bc1068b8f29ef9d5122566fa7896",
+    "manager_rebuilt_between_updates": false,
+    "disabled_update_preserved": true,
+    "actual_exit_disable_enable_verified": true,
+    "third_party_requires_publisher_key": false
+  },
+  "evidence": {
+    "native-current": {
+      "status": "passed",
+      "sha256": "74e2b7e4594ed8b408098d3795ef7480682f7f7c8ccac568069879884d7ca074"
+    },
+    "future99-disable": {
+      "status": "passed",
+      "sha256": "503a1aef936109e71faf16124dcd764f3a97105bdf9167c2f6f1d7d96dc7ce20"
+    },
+    "future100-enable": {
+      "status": "passed",
+      "sha256": "2dbb657654518207af6d5b535fa2d18c44a6c30869a436ee970deb94e3c5515b"
+    },
+    "native-restored": {
+      "status": "passed",
+      "sha256": "74e2b7e4594ed8b408098d3795ef7480682f7f7c8ccac568069879884d7ca074"
+    }
+  },
+  "native_full_pack": {
+    "status": "passed",
+    "sha256": "09a153264377e7a12146daf32344b64802311cdbd5ef2ca11bc3a7e5f4d399f6"
+  },
+  "installation": {
+    "status": "installed_and_verified",
+    "independent_readback_sha256": "7d43360930401e1ced84e27638b7fd70384497b4160cd4e0347dea7a8b9058f0",
+    "archives": {
+      "lssb_localization_ru": {
+        "version": "1.87.0-own",
+        "sha256": "ea840c4100c5ca67fad460b209eaa8fec76af9ca7214947a92f48ab84b4bbeeb",
+        "entries": 145,
+        "signature_independently_verified": true,
+        "backup_verified": true
+      },
+      "lssb_visual_quality": {
+        "version": "1.5.2-own",
+        "sha256": "be89295c3ec8791ac4b998ba5ace9b2bb821bc9439e8318c1c06e9f0b270dc06",
+        "entries": 796,
+        "signature_independently_verified": true,
+        "backup_verified": true
+      },
+      "lssb_startup_fix": {
+        "version": "1.1.1-own",
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "entries": 1,
+        "signature_independently_verified": true,
+        "backup_verified": true
+      },
+      "lssb_mod_manager": {
+        "version": "1.4.0-own",
+        "sha256": "8fd31e6703e26f4ee7ccb303bc936fce1d79bc1068b8f29ef9d5122566fa7896",
+        "entries": 1,
+        "signature_independently_verified": false,
+        "backup_verified": true
+      }
+    }
+  },
+  "source_sha256": {
+    "tools/manager/manager_core.py": "fc5bbc432a28c46356730073ee68330685168dc04c542505424bbdb14f555ff7",
+    "tools/build.py": "c4301c33e5ecec1faf30dc65daf385d7ea9ed241c5b9fab1d3ad7200ede087ae",
+    "tools/release_metadata.py": "489223f8629166e1ac215fad04321546a11e1e989d4911a31c2db9e9223c1d0d",
+    "tools/register_mod.py": "01743efd9d1244c86c3358ff5091217565169a5100742b3e9ecbb0937de6acb0",
+    "tools/manager/test_external_mods.py": "96580f5aac289235c78a588068ee66d18a70e35a344ad769f5c22f55842ba9c3",
+    "tools/manager/test_release_updates.py": "7c7130d14ba1520243b8f1e491eb3f56c4ea664813e79d75f1757a6c498f339c"
+  },
+  "safeguards": [
+    "Exact whole-file hash remains pinned in each action.",
+    "Replacement after staging is blocked.",
+    "Existing journals, duplicate copies, unsafe paths and rollback remain guarded.",
+    "External identities cannot rename original or first-party archives.",
+    "Discovery never executes archive code or unpickles an index."
+  ],
+  "limitations": [
+    "Metadata recognition does not establish compatibility with arbitrary future game code.",
+    "Third-party authors must provide a matching companion JSON for every update.",
+    "Third-party companion JSON is a local checksum declaration, not publisher authentication.",
+    "Synthetic versions 99/100 retain original mod code; they test update discovery and native lifecycle.",
+    "No dialogue text changes or full story playthrough in this release."
+  ],
+  "harness_note": "First full-pack run omitted LSSB_STARTUP_VERIFY=1; verified-query assertion failed as expected for disabled instrumentation. Corrected test environment passed without a product change."
+}

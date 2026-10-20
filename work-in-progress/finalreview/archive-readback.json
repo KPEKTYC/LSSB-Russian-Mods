@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "components": {
+    "lssb_localization_ru": {
+      "version": "1.83.0-own",
+      "sha256": "b97220a674154d457f6ad240e06444ea07dea9df90f1f2032906aeab6164eca7",
+      "files": 141
+    },
+    "lssb_visual_quality": {
+      "version": "1.5.1-own",
+      "sha256": "f3d583ba264e0f6c56ee097c68568a4addec1870b7df0e18a3c6f0be9e449cdc",
+      "files": 796
+    },
+    "lssb_startup_fix": {
+      "version": "1.1.0-own",
+      "sha256": "0d9cb30ef8118d43bf78d39b2ec8a3a6999001531784cc95e8094cd368f675ea",
+      "files": 1
+    },
+    "lssb_mod_manager": {
+      "version": "1.2.80-own",
+      "sha256": "64063f080ad4eb447e0ba5608c1a83b992c47777c469b1b0f8f8cfc6782a2422",
+      "files": 1
+    }
+  },
+  "installed_game_changed": false
+}

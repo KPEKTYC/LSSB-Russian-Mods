@@ -1,0 +1,15 @@
+{
+  "reviewed_range": [
+    390,
+    520
+  ],
+  "end_exclusive": true,
+  "method": "Direct bilingual review: existing dialogue retained. Row 405 verified against the initialized native AST in the isolated fullreview tree: the menu names Kleio, Anna and Sasha, and the subsequent calls target kleioannafoursome/kleioannafoursome2. Existing Russian correctly names Anna and Kleio while speaking to Sasha.",
+  "context_verified": {
+    "index": 405,
+    "source": "lssb_localization_ru/fullreview_20261020/results/sasha-context02/sasha_context.json",
+    "sha256": "15828228891b04ebc1e61420802f0659cfc3a88a860f689d112839ca453ed282",
+    "run_exit": 0,
+    "scope": "Native AST inspection only; no full scene playthrough"
+  }
+}

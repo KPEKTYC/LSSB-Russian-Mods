@@ -1,0 +1,63 @@
+LSSB Noncommercial Attribution License 1.0
+Project licensing policy dated 2026-10-21
+
+Copyright (c) 2026 KPEKTYC
+Project: https://github.com/KPEKTYC/LSSB-Russian-Mods
+
+1. Scope and permission
+
+"Content" means original software, documentation and Russian translation
+contributions for which KPEKTYC holds the rights, as described in
+LICENSE_SCOPE.md. Subject to the conditions below, you may use, study,
+copy, modify and redistribute the Content, in source or compiled form,
+free of charge and for noncommercial purposes only.
+
+This license does not grant rights in the original game, imported translation
+base, third-party material or trademarks. It does not revoke rights already
+granted under an earlier license. Previously MIT- or CC-BY-licensed copies
+remain usable under those earlier grants; unchanged portions do not become
+exclusively noncommercial merely because this notice has changed.
+
+2. Free distribution and noncommercial use
+
+You must not sell the Content or access to it, charge a license fee, require
+a subscription or purchase to obtain it, sell features or early access, or
+include the Content in a paid product or paid mod package. You must not
+require advertising interactions or other revenue-generating conditions to
+download, access or use the Content. Commercial exploitation of the Content
+is not permitted by this license.
+
+Using this free software privately with a lawfully obtained commercial game
+or separately obtained third-party mod is permitted. This license does not
+change the terms of independently developed third-party software merely
+because that software is used with the manager.
+
+3. Voluntary donations
+
+Voluntary, unconditional donations are expressly permitted. The same Content,
+features, updates and release timing must remain available without payment.
+An optional donation must not be required to download, use or update the
+Content or to receive any promised feature, access or other paid entitlement.
+A simple acknowledgement or thank-you does not make a donation conditional.
+
+4. Attribution and redistribution
+
+When redistributing the Content or modified copies containing it, retain
+"Copyright (c) 2026 KPEKTYC", the project name and URL, this license,
+LICENSE_SCOPE.md and NOTICE. Identify your modifications and do not imply
+that KPEKTYC endorses them. Original licensed portions and their modifications
+may be redistributed under this grant only with these noncommercial,
+free-distribution, donation and attribution conditions preserved.
+No splash screen or attribution next to every translated line is required.
+
+5. No warranty and other rights
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. TO THE EXTENT PERMITTED BY LAW, THE RIGHTS HOLDER IS NOT LIABLE
+FOR CLAIMS OR DAMAGES ARISING FROM THE CONTENT OR ITS USE.
+
+No rights beyond those expressly granted are provided. These permissions
+apply only while their conditions are met. Statutory exceptions and rights
+that cannot lawfully be limited are unaffected. This is a project-specific
+source-available license, not the MIT license or an OSI-approved open-source
+license. See LICENSES/HISTORICAL.md for the earlier licensing checkpoint.

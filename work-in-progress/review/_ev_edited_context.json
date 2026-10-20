@@ -1,0 +1,14 @@
+{
+  "6": {
+    "id": "bree_sasha_pet_request_89d2bf47:0",
+    "identifier": "bree_sasha_pet_request_89d2bf47",
+    "index": 0,
+    "file": "ev/general_events.rpy",
+    "line": 1836,
+    "label": "bree_sasha_pet_request",
+    "who": "mike.say",
+    "source": "You...",
+    "code_template": "mike.say \"__LSSB_TRANSLATION__\"",
+    "existing": "Нужно..."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "date": "2026-10-21",
+  "credit": "KPEKTYC",
+  "current_license": "LSSB Noncommercial Attribution License 1.0",
+  "scope": "New original project contributions to the extent of held rights; original game, imported base and third-party materials excluded.",
+  "free_use_and_distribution": true,
+  "attribution_required": true,
+  "commercial_use_permitted": false,
+  "paid_features_or_access_permitted": false,
+  "unconditional_voluntary_donations_permitted": true,
+  "source_available_not_osi_open_source": true,
+  "prior_mit_cc_by_grants_automatically_revoked": false,
+  "permissive_checkpoint": "2862d2e",
+  "unchanged_previously_licensed_portions_retain_earlier_grants": true,
+  "licensing_files": {
+    "LICENSE": "f20a9fdefee2559cb0cb1b7637e786d832699cf1bbdd1c9fe266fde19cb87497",
+    "LICENSE_SCOPE.md": "257ba8d2902e6782e392108329962d952d79227eb7d959db32ec0695df023f71",
+    "NOTICE": "0667fe566683c8a1d39a84dab70bb795adbb779277eaf3cde7c1d0f9d136e9a5",
+    "LICENSES/HISTORICAL.md": "9d97c98dad731b8504d80a3bd0a02bd1fb4f1785c7256a8daf709f2ce13e7f00"
+  },
+  "build_copy_readback": true,
+  "tests": {
+    "total": 61,
+    "passed": 60,
+    "skipped": 1
+  },
+  "snapshot_files": 1860,
+  "original_release_assets_preserved": true,
+  "installed_rpa_bytes_unchanged": true,
+  "game_installation_modified": false,
+  "sources": [
+    "https://opensource.org/osd",
+    "https://creativecommons.org/licenses/by/4.0/",
+    "https://creativecommons.org/faq/"
+  ]
+}

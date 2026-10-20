@@ -1,0 +1,552 @@
+{
+  "reviewed": 66,
+  "direct_translations": 23,
+  "non_graphic_adaptations": 43,
+  "adjacent_context_adaptations": 1,
+  "remaining_from_this_queue": 0,
+  "age_changes": 0,
+  "decisions": [
+    {
+      "identifier": "cassidy_arrange_party_f4f9d72b",
+      "source_sha256": "063f439db854c7c9341c11d17110f2600b385585d874e1497073a2ea6ef0f51c",
+      "who": "cassidy.say",
+      "target": "Я и в подростковом возрасте этого наслушалась.",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_ca339c2f",
+      "source_sha256": "610215b0d32bc4eedaf1c810091ff4fc1d02a98ad1de15e838a3854e7739ea78",
+      "who": "cassidy.say",
+      "target": "Да. За стеной было всё слышно, а моя спальня находилась рядом.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_c68ce494",
+      "source_sha256": "34fab6036d6b02a274d7d7a32b7d8538382f71ef7478bd9b52246e3a6cfc8427",
+      "who": null,
+      "target": "Кэссиди неловко ёрзает, но отвращением это не назовёшь.",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_f14bff49",
+      "source_sha256": "b1838b2e05f4278672deca7fd42f13c6dd3b0fb7dff4fb2282635c21a7e408d1",
+      "who": "mike.say",
+      "target": "Погоди, ты что… подслушивала их?",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_4a45a8d0",
+      "source_sha256": "c9ed6ad032378459420288be032af6f50b007ed8284c12050e135efce826430f",
+      "who": "cassidy.say",
+      "target": "И что с того? Мне было четырнадцать, ясно? Я ещё мало понимала в отношениях взрослых и слышала то, чего ребёнку слышать не следовало.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_b9805e21",
+      "source_sha256": "1622acbb2094da35913bf2052c646aaa465e8eb4a1a633cb03e3f606fcb426cc",
+      "who": "mike.say",
+      "target": "И как ты тогда с этим справлялась?",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_c3f9fe66",
+      "source_sha256": "bb2001688d98e2e2a6ce6799002d434891cf01a7b91cf10932dd6a650a18885c",
+      "who": null,
+      "target": "Она и без того смущалась, но после этого вопроса покраснела ещё сильнее.",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_bd371ca7",
+      "source_sha256": "fe6a0ad6a29ab11d188b1ad2e5715b5d82a1fe728893d14abc00261dd7679f68",
+      "who": "mike.say",
+      "target": "Ты тогда завидовала Шери?!",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_71d13d2a",
+      "source_sha256": "896d7ae4b592f1fe44c061c3484f85613eee7258610d4ec459ac25bad61f03ac",
+      "who": "cassidy.say",
+      "target": "Мне было четырнадцать!",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_b4969d5f",
+      "source_sha256": "f37b956df2755ec815167510ef0544681d3471ef05c228f09c5dc8e38e768a73",
+      "who": "mike.say",
+      "target": "Ты ведь ждёшь этого с нетерпением, да?",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_6f676271",
+      "source_sha256": "7dbb39e58024b2d56530eab56576408de559503e07caf8b3bed9e7614c0919ce",
+      "who": "cassidy.say",
+      "target": "Нет. Сейчас мне нужен только ты.",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_86caea87",
+      "source_sha256": "3bf9fd12de5c481edf39cc108e26fbe8e89743373a1627d3326beda0a4d07266",
+      "who": "cassidy.say",
+      "target": "Послушай, если я смогу разрушить его жизнь {b}и{/b} втянуть его самого в семейный скандал, это будет прекрасной иронией.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_arrange_party_90de7f06",
+      "source_sha256": "2cf1590dd72f138acf583425648b23dc2d822649c43085551fbfc42d429465d1",
+      "who": "mike.say",
+      "target": "Серьёзно, Кэссиди, это нездоровая затея. Тебе уже не четырнадцать. Оставь те переживания в прошлом. Ты заслуживаешь нормальных отношений. У тебя есть я. Прошу, не делай этого.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_chat_about_cherie_027edaad",
+      "source_sha256": "470c99d589555b057920d1ff2901b124de0b9d2d3abfe5981581ad1304fc73fe",
+      "who": "cassidy.say",
+      "target": "Ну да. А потом я рассказала тебе о своих подростковых переживаниях и задумалась.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "cassidy_chat_about_cherie_6513556a",
+      "source_sha256": "f860d231613169ce49c955e34bd0f9a81ed69417f258572b8009c92046391628",
+      "who": "cassidy.say",
+      "target": "Наверняка я не знаю. Несколько раз я случайно видела их наедине. Похоже, их отношения были сложнее, чем мне тогда казалось.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_03_2ba96d08",
+      "source_sha256": "32be64cab157fa96942839067f19962085106ccd3df4457fb71943b8123ebb16",
+      "who": null,
+      "target": "Но перед тем, как передать записку, она рассказала о случае из детства, который до сих пор её тревожит.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_03_2c70b31a",
+      "source_sha256": "2f4b29c8a8892e698d3b24032725d9b96e2b42d6e0a4d9d3188d7e9f299a22c7",
+      "who": null,
+      "target": "В ту грозовую ночь она случайно увидела нас с Алексис наедине. Этот случай надолго остался у неё в памяти.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_03_c94b7727",
+      "source_sha256": "cf63568902e61f9e1f4d074dd6b44077ec9c20b5536341f9477e961de5efbf19",
+      "who": null,
+      "target": "Взрослый человек понимал бы, что нарушает чужие границы. Но она тогда была ребёнком.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_03_c5ef6c05",
+      "source_sha256": "9fd1d206ee34cb9bae63822cfb9b86fae642644c4407855328f470828b667a49",
+      "who": null,
+      "target": "Но, насколько я знаю, это случилось лишь однажды и совершенно случайно, так что судить её столь строго было бы несправедливо.",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_03_3346c824",
+      "source_sha256": "1419b063606016bdddce42c85e8f8c3ae6c24bc3a1532a1e5214205faf47c0d3",
+      "who": "mike.say",
+      "target": "Погоди, это как-то связано с твоим рассказом о том, как ты видела нас с Алексис?",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_03_c0d0aaca",
+      "source_sha256": "c8e2fe9e1c5ab0ccdcc3920454e956e8a7b96bd6fe6e8b9fa1e9b67832c466ab",
+      "who": "kylie.say",
+      "target": "Ага… Когда ты не позвонил в тот вечер, я решила, что ты считаешь меня какой-то ненормальной!",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_03_faf06815",
+      "source_sha256": "ed3182f662f51243087c789ecaa2da64b9d87860afb38eb64f6bbe78c8f21ce8",
+      "who": "mike.say",
+      "target": "Разве я не сказал, что твоё признание меня сильно удивило? Я не хотел тебя осуждать.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_03_82112b4d",
+      "source_sha256": "cbf56dc344621cd0b0bcbaf8f366b6add844871851295c54fce54274100be3f8",
+      "who": "kylie.say",
+      "target": "Помнишь, я рассказывала, как случайно увидела тебя с моей сестрой?",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_03_8ea408b6",
+      "source_sha256": "b22f6dc373d4dc873baaef0c4df7911c11ed02a36c38bae32df2d9db02d16aaa",
+      "who": "kylie.say",
+      "target": "А теперь я хочу, чтобы ты представил меня рядом с собой.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_03_661f91a9",
+      "source_sha256": "3770731f23160d4c09ac18195024fa9a223ab54d008d1e0282286239846a2cc6",
+      "who": "kylie.say",
+      "target": "Только на этот раз это будет наша с тобой история.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_02_123c2b1a",
+      "source_sha256": "9c0c0a632a3deb6f318476cfa644e5e9825aa068cffdde95c61f7b83420a9f53",
+      "who": "kylie.say",
+      "target": "Однажды я случайно увидела вас с Алексис наедине. Я долго не могла рассказать об этом…",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_02_be59c16a",
+      "source_sha256": "a8aa57a557d704501b287766f96f8ebf0107f211c8e5eb7a7c0c5df5e768299e",
+      "who": null,
+      "target": "С одной стороны, мне неприятно думать, что она стала свидетельницей нашей личной жизни.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_02_6902f94b",
+      "source_sha256": "6346d3ba041466c4e18916e05430f8cb1e7a4a6c4ba808673b66828c2aa05ce4",
+      "who": null,
+      "target": "С другой стороны, её многолетняя привязанность ко мне оказалась неожиданной. Я не знаю, как на это реагировать.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_02_32dc9d1c",
+      "source_sha256": "c1481b9c5d5d8f5aff1a1e5f43467a3ec4fcf4b38ed5713f9242919f144a988e",
+      "who": null,
+      "target": "Тогда она была ещё ребёнком. Меня тревожит, что ей пришлось столкнуться с тем, чего она ещё не могла понять.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_02_f82db4d2",
+      "source_sha256": "fbf8dae8afc771901ebe2abeaa1bae8ec92a739d8bd7fbae0ba3c7daf3c133ff",
+      "who": null,
+      "target": "И всё же её рассказ не выходит у меня из головы. Не представляю, как она столько времени держала это в себе.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_02_67639f85",
+      "source_sha256": "ed4c6a35d8005a60b62c8f035e4317280d1295bcf3602e6742ee8a7cb02d1e35",
+      "who": "mike.say",
+      "target": "Мне трудно представить, что ты тогда пережила. Спасибо, что решилась рассказать.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_02_42943832",
+      "source_sha256": "e2f75045ee6b923c95862b10b3c0f614542953d5a1b304dff0e5e198d854a445",
+      "who": null,
+      "target": "Кайли широко улыбается и тихонько смеётся. Кажется, напряжение понемногу спадает.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_02_be581593",
+      "source_sha256": "87e8271669a4bc53fa05d1b049c887acd892b77de4a2f986e10cee33dd3dcaef",
+      "who": "kylie.say",
+      "target": "Ведь я была всего лишь младшей сестрёнкой, правда?",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_02_4c807333",
+      "source_sha256": "9ac8d92e0336b78faace2c6a22e0e7c083b2b002879a58b845d0da135e69ced4",
+      "who": "mike.say",
+      "target": "Теперь ты уже не маленькая!",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_522a26c3",
+      "source_sha256": "aaa13b4676819ac8f8490c2db3b17e8c26035cca0cd27cc42049510feca3eda2",
+      "who": "morgan.say",
+      "target": "Я тогда… мечтала о тебе!",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_0dfb33dd",
+      "source_sha256": "0ef90f9fc13f2f3c553895f2a27896739974e4beb4262235034779426568ea75",
+      "who": "mike.say",
+      "target": "Теперь эта песня всегда будет напоминать мне о твоём признании!",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_78e82c6f",
+      "source_sha256": "f734219f768136b73ca6295a8e0d27fb0a59a242dc47a16e014feb2ef7451ddb",
+      "who": "morgan.say",
+      "target": "И в этих мечтах рядом со мной был ты.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_7e6005ba",
+      "source_sha256": "04874209c837caa4d25d7b88484473997958514dc8e144d236fe1a4cc009d083",
+      "who": "morgan.say",
+      "target": "Я представляла, что мы вместе!",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_fe16d6a9",
+      "source_sha256": "6609e4cd1b52d44282235ede4c7bd26a119df52b8035f249d49fb2076e90bdc2",
+      "who": null,
+      "target": "От мысли, что я столько значил для Морган, у меня захватывает дух.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_b331bbcc",
+      "source_sha256": "0b2463dfbc5b9add9a8729a0e0a2593ab9ad3723e0cac3c2b9fb15f7c81862b1",
+      "who": "mike.say",
+      "target": "Просто… твоё признание меня взволновало.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_298b39d9",
+      "source_sha256": "1e82282b4844cf8fa0a84038d4746a1dc09bd089c59a6a0b20946ebcaa7fcd9c",
+      "who": "morgan.say",
+      "target": "Хочешь исполнить одну мою мечту?",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_879df797",
+      "source_sha256": "6d4c2168d88ae61fbf508675f50e3d177f37d4f262202547c3f8aa25cfeec6e0",
+      "who": null,
+      "target": "После такого признания как я могу ей отказать?",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_011e52cc",
+      "source_sha256": "036c77236f4353622b76b14a9a8ee5a23afd7acfcfd268c567cf79b16e433f23",
+      "who": "mike.say",
+      "target": "Я знаю, что прошлого уже не вернуть, Морган.",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_cedc7e0b",
+      "source_sha256": "c9057cfb0ea0966f265b218ce52a6d9d6c08e073246bb2c53bd0c8b684821240",
+      "who": "mike.say",
+      "target": "Но мне так жаль, что тогда я не понимал твоих чувств.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_48dc917e",
+      "source_sha256": "9e2b0010f949a4401d1795f7e45e960a9fccdce08e64d5b90c0d2909f0c55b43",
+      "who": "mike.say",
+      "target": "Так что расслабься и позволь мне наверстать упущенное, ладно?",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_nightclub_7e39d4cb",
+      "source_sha256": "cfa254f9fcc7677099f6ada4a4f990b50bf6ae0fd1427c7c40aa76cdbbad7c1c",
+      "who": "morgan.say",
+      "target": "Я об этом мечтала!",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_date_cunnilingus_d251b5bc",
+      "source_sha256": "54203e3beb0abbc099d29b7f32606d5498eda83149749c1891ce17befb44336a",
+      "who": "morgan.say",
+      "target": "Ну, это было одной из тех вещей, о которых я раньше думала.",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_date_cunnilingus_69d6c67f",
+      "source_sha256": "2f9f5af4848b3b1ed5027dd9874aaa727eb7c30f76e6498bdf9a3b5eb1b12437",
+      "who": "morgan.say",
+      "target": "Одной из моих давних мечтаний о нас с тобой…",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_date_cunnilingus_e870aa4e",
+      "source_sha256": "33a5ec702ed0d6c7c4bb9b6e54d8dc95adc17e4c8e97ccd153990a753daceb97",
+      "who": null,
+      "target": "Она только что призналась, что давно мечтала быть со мной?!",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_date_cunnilingus_8a8f9509",
+      "source_sha256": "6705f47c0f1f6017e35cea49f3c1ef1f15b1a654b808bc0f2d2a0c2931179ea6",
+      "who": null,
+      "target": "Теперь мне не терпится перейти к делу!",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_date_cunnilingus_96968f34",
+      "source_sha256": "6bc92e10b4856a4bae797bd84d6c1d79832277aa5e045755dbd96af842a9137e",
+      "who": "mike.say",
+      "target": "Надеюсь, я оправдаю твои ожидания!",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_date_cunnilingus_b55bfcf4",
+      "source_sha256": "325ebbde0a5454d24371d7d6a77c54b85e828666c35bb12906c52eb016ce3c2d",
+      "who": "mike.say",
+      "target": "Ну что, я оправдал твои ожидания?",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_date_cunnilingus_2fb79abc",
+      "source_sha256": "bb1213184e2916e51d3bff35f95b7b74bcc4b7ad908cebcdb212b8a7cde77940",
+      "who": "morgan.say",
+      "target": "Ещё как — ты их превзошёл!",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_date_cunnilingus_9fbc8e8f",
+      "source_sha256": "8247b2f37bf1431631192a9d0b92950a71c6394e67555aa7831155005b5d920b",
+      "who": "morgan.say",
+      "target": "В мечтах всё было совсем не так ярко!",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "morgan_fuck_date_cunnilingus_94af0844",
+      "source_sha256": "41e32bb9db27cd64597cd1e906147ea404d52fc45ca159ababd7fb4541ff72e0",
+      "who": "morgan.say",
+      "target": "Я и представить не могла, насколько с тобой хорошо!",
+      "mode": "translation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "palla_talk_sports_male_b92dc57d",
+      "source_sha256": "47b032062f065dae9d27c13f973d54152c949830ee82bbe6955229053c789849",
+      "who": "palla.say",
+      "target": "Нет, я про романы со спортсменами. После каждой победы мы с квотербеком встречались в раздевалке. Вот это мне и запомнилось.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "kylie_event_01_cd2ab382",
+      "source_sha256": "5d63b07f9a62db2ee154c6a55f661ba7370011003172dc4068f4c6e1bbca3c98",
+      "who": null,
+      "target": "Уже тогда мы были очень близки.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "alexis_event_08a_alt_e791d42c",
+      "source_sha256": "5a663e1ca79746a09e0a179e88d2eb3ccf172cdb652b1f93303b002d416a1069",
+      "who": "\"Mr Blank\"",
+      "target": "Каждый год мне казалось, что я могу позволить себе с ученицами всё что угодно!",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "alexis_event_08a_alt_7df94c7c",
+      "source_sha256": "70b1761ccdd1d2d58d484b0b805495ee59d69543c8bc0f56c944dbc54a8cb5a3",
+      "who": "mike.say",
+      "target": "Помню, вы часто обращали внимание на чирлидерш.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "alexis_event_08a_alt_b346a81c",
+      "source_sha256": "8798ac7f37e3b5cb59f2caafbab565690e34060af898dd1aec523e52662b6559",
+      "who": "mike.say",
+      "target": "Она ведь привлекала всеобщее внимание.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "alexis_event_08a_alt_82a051d4",
+      "source_sha256": "a5abc833d77ad160b0c4a3494c056f432c8e0dd7789cdf66527a4b4981d259ed",
+      "who": "\"Mr Blank\"",
+      "target": "Такую девчонку я бы ни за что не забыл!",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "alexis_event_08a_alt_4a979fc1",
+      "source_sha256": "99cec299727d41301511ebe1e27496d00a3233ad1366d8fc9a68381489e3295e",
+      "who": "\"Mr Blank\"",
+      "target": "В том возрасте они ещё сами толком не понимают, чего хотят.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "alexis_event_08a_alt_a70dbf4e",
+      "source_sha256": "dd5158aed00cb128ae765dbcc62e5a2d8df8b7850b31d223da158babb78a2152",
+      "who": "\"Mr Blank\"",
+      "target": "Я всегда считал, что могу решать за них. Их отказы меня не останавливали.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "alexis_event_08a_alt_17c07fa0",
+      "source_sha256": "31d996198205aa465f2a57cd95314ef0dca9c131b74a5630e011f82749a8254d",
+      "who": "\"Mr Blank\"",
+      "target": "Я убеждал себя, что им всё нравится.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "alexis_event_08a_alt_ce007432",
+      "source_sha256": "a76d9a8263291cabee944b171a8d18160b01491027ec054507d28f632044386b",
+      "who": "\"Mr Blank\"",
+      "target": "А слёзы считал притворством. Просто не хотел признавать, что причиняю им боль.",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "alexis_dirty_texts_0403c44a",
+      "source_sha256": "75602440a4fbbbfe853044293c237ffbc7c06f33c809aadd95abfdeb8d80f1cb",
+      "who": "alexis_nvl",
+      "target": "И снова почувствовать себя такими же близкими, как тогда!",
+      "mode": "adaptation",
+      "scope": "remaining_66"
+    },
+    {
+      "identifier": "alexis_event_08a_alt_ad92050b",
+      "source_sha256": "9f16fb984d90c806c8863caf458f32f9f273aafdd996c780dbf0674b3dcaf242",
+      "who": "\"Mr Blank\"",
+      "target": "Ну да, я воспользовался её доверием. И что?",
+      "mode": "adaptation",
+      "scope": "adjacent_context"
+    }
+  ],
+  "notes": [
+    "Each entry was reviewed with neighboring dialogue.",
+    "Adaptations remove eroticization of childhood memories and retain non-graphic narrative context.",
+    "The additional contextual line preserves the abuse storyline without explicit detail.",
+    "Original native game nodes and story actions are unchanged."
+  ]
+}

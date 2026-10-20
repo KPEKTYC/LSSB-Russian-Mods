@@ -1,0 +1,98 @@
+{
+  "status": "passed_with_scope",
+  "created_utc": "2026-10-20T22:13:50.890533+00:00",
+  "game_version": "26.9.0e",
+  "renpy_version": "8.5.3.26051504",
+  "versions": {
+    "lssb_localization_ru": "1.84.0-own",
+    "lssb_visual_quality": "1.5.1-own",
+    "lssb_startup_fix": "1.1.0-own",
+    "lssb_mod_manager": "1.2.81-own"
+  },
+  "archives": {
+    "lssb_localization_ru": {
+      "filename": "zzzzzz_lssb_localization_ru.rpa",
+      "sha256": "3479fcd1df1e187a4f93ae46aa7219743c2586c630d71c64e7c2d56a1c5c5031"
+    },
+    "lssb_visual_quality": {
+      "filename": "zzzzz_lssb_visual_quality.rpa",
+      "sha256": "e729d487d31845ad1c6a39b62e55c959566d6b98e74628a35cb8bc788531d152"
+    },
+    "lssb_startup_fix": {
+      "filename": "zzzzzzz_lssb_startup_fast.rpa",
+      "sha256": "a3a4d849c694e235eccc7acf6b2cf6975410ad93123c7ca885ccac89df1a8de8"
+    },
+    "lssb_mod_manager": {
+      "filename": "zzzzzzzz_lssb_mod_manager.rpa",
+      "sha256": "fd14eaef0c43c43be6a21ad4083e65ae76c2a89673a2aac63c1630e00c4ca39c"
+    }
+  },
+  "clean_game": {
+    "no_loose_base_translation": true,
+    "no_external_language_loader": true,
+    "no_other_mods": true,
+    "default_language": "russian",
+    "coverage": {
+      "status": "passed",
+      "original_say": 211603,
+      "russian_say": 211537,
+      "missing": 66,
+      "expected_exclusions_unchanged": true,
+      "external_translation_files": false,
+      "fonts_available": true,
+      "fresh_preferences_language": "russian",
+      "screens": [
+        "main_menu",
+        "preferences"
+      ],
+      "neutral_translations_verified_and_rendered": 47,
+      "scope": "Dialogue-node coverage in the clean-game fixture; not a full story playthrough or 100% of all game text."
+    }
+  },
+  "corrected_dialogue_checked": 4543,
+  "new_neutral_dialogue_checked": 47,
+  "existing_dialogue_checked": 35230,
+  "full_pack": {
+    "dynamic_render_cases": 286,
+    "manager_disable_enable_verified": true,
+    "future_version_string_checked": true
+  },
+  "evidence": {
+    "clean-final/validation.json": {
+      "status": "passed",
+      "sha256": "9cb500db03ca9b79e96741d7db95219df2a02ecc28aad16b9c58415e2251b4a5"
+    },
+    "clean-final/coverage.json": {
+      "status": "passed",
+      "sha256": "e75fce6af1a8745b227b60bd5d4e1a110b4f4fe61599a417683336c9cc914b6f"
+    },
+    "full-current/current-compatibility.json": {
+      "status": "passed",
+      "sha256": "09a153264377e7a12146daf32344b64802311cdbd5ef2ca11bc3a7e5f4d399f6"
+    },
+    "full-current/fragments-validation.json": {
+      "status": "passed",
+      "sha256": "29ea0c1de0ed9e9eb50cee1aefe7e57930c9e24d15e2673464950e642a579de1"
+    },
+    "full-disable/verified-disable.json": {
+      "status": "passed",
+      "sha256": "36fc4d747f66f3aea867a489588387cb7bb87eabdabdc5c43e43ae7f2d8865cc"
+    },
+    "full-enable/verified-enable.json": {
+      "status": "passed",
+      "sha256": "f5815745980fdf40d2c3bd6060efae094c6130c4c0c2b0ec0ba637daf4d31bc8"
+    },
+    "full-future/future-compatibility.json": {
+      "status": "passed",
+      "sha256": "b0f40cd371612e4605f48717caca31da602ef79bc25d38954f27d738df349853"
+    }
+  },
+  "archive_readback_sha256": "a9b2a124f93f020237756a003a72c3e861b55897ea08c58415b9c31fc94da700",
+  "production_readback_sha256": "4c79cb086c82ee55b4c015ad02066b39d4cab79e03b20267eab85a055441cc6a",
+  "limitations": [
+    "66 dialogue nodes remain excluded; standalone packaging is not a claim of 100% translation.",
+    "No full story playthrough.",
+    "Future version string testing does not prove compatibility with arbitrary future code changes.",
+    "The published release has not been installed in the production game."
+  ]
+}

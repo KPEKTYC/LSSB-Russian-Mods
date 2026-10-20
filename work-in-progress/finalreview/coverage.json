@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "original_say": 211603,
+  "russian_say": 211499,
+  "deferred": 104,
+  "mixed_latin_candidates": 14,
+  "deferred_identifiers_and_source_hashes_unchanged": true,
+  "unchanged_english_titles": [
+    {
+      "identifier": "lexi_halloween_arrival_bf4855b6",
+      "text": "Lollipop Chainsaw!"
+    }
+  ],
+  "scope": "Native TranslateSay coverage, not a claim of complete linguistic quality or full story playthrough."
+}

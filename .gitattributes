@@ -1,0 +1,2 @@
+# Preserve exported bytes: provenance checks use SHA-256 across platforms.
+* -text

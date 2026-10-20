@@ -1,0 +1,6 @@
+{
+ "reviewed_range": [0, 60],
+ "end_exclusive": true,
+ "method": "Direct bilingual review; unchanged rows accepted, corrections in matching batch.",
+ "notes": "Corrected exercise idiom, viewing direction, meeting halfway and lap/laptop wordplay. Dynamic action insertion requires native follow-up before deployment."
+}

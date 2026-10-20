@@ -1,0 +1,27 @@
+{
+  "lssb_localization_ru": {
+    "version": "1.87.0-own",
+    "archive": "zzzzzz_lssb_localization_ru.rpa",
+    "id": "localization_ru",
+    "name": "Русская локализация",
+    "description": "Русский интерфейс, ветки персонажей, общие события, концерты, вступление, обучение и локации."
+  },
+  "lssb_visual_quality": {
+    "version": "1.5.2-own",
+    "archive": "zzzzz_lssb_visual_quality.rpa",
+    "id": "visual_quality",
+    "name": "Карта и качество интерфейса",
+    "description": "Чёткая графика, удобный интерфейс и настройка плавности."
+  },
+  "lssb_startup_fix": {
+    "version": "1.1.1-own",
+    "archive": "zzzzzzz_lssb_startup_fast.rpa",
+    "id": "startup_fast",
+    "name": "Быстрый запуск",
+    "description": "Ускоряет подготовку изображений при запуске игры."
+  },
+  "lssb_mod_manager": {
+    "version": "1.4.0-own",
+    "archive": "zzzzzzzz_lssb_mod_manager.rpa"
+  }
+}

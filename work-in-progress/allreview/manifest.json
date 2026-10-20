@@ -1,0 +1,88 @@
+{
+  "expected_sha256": "b0b7bc5006c6bd8c3cdc536478f03dc2c0373ed6f8be54409062ebcc0d5b59f7",
+  "corrected": 4523,
+  "reviewed_entries": 35239,
+  "groups": {
+    "alexis": {
+      "reviewed": 6686,
+      "total": 6686,
+      "corrected": 517,
+      "installed_reviewed": 3000,
+      "excluded": [
+        1970,
+        1977,
+        1993,
+        1997,
+        2014,
+        2015,
+        2016,
+        2017,
+        6633
+      ]
+    },
+    "audrey": {
+      "reviewed": 6721,
+      "total": 6721,
+      "corrected": 1271,
+      "installed_reviewed": 0,
+      "excluded": []
+    },
+    "bree": {
+      "reviewed": 10698,
+      "total": 10698,
+      "corrected": 1281,
+      "installed_reviewed": 0,
+      "excluded": []
+    },
+    "sasha": {
+      "reviewed": 8101,
+      "total": 8101,
+      "corrected": 1296,
+      "installed_reviewed": 0,
+      "excluded": []
+    },
+    "harems_full": {
+      "reviewed": 351,
+      "total": 351,
+      "corrected": 34,
+      "installed_reviewed": 0,
+      "excluded": []
+    },
+    "_ac": {
+      "reviewed": 301,
+      "total": 301,
+      "corrected": 21,
+      "installed_reviewed": 0,
+      "excluded": []
+    },
+    "_bg": {
+      "reviewed": 2358,
+      "total": 2358,
+      "corrected": 101,
+      "installed_reviewed": 0,
+      "excluded": []
+    },
+    "_da": {
+      "reviewed": 6,
+      "total": 6,
+      "corrected": 1,
+      "installed_reviewed": 0,
+      "excluded": []
+    },
+    "_ev": {
+      "reviewed": 15,
+      "total": 15,
+      "corrected": 1,
+      "installed_reviewed": 0,
+      "excluded": []
+    },
+    "_root": {
+      "reviewed": 2,
+      "total": 2,
+      "corrected": 0,
+      "installed_reviewed": 0,
+      "excluded": []
+    }
+  },
+  "wiki_excluded": true
+}

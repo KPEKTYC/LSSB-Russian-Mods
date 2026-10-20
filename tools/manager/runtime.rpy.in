@@ -1,0 +1,318 @@
+# In-game manager for the installed LSSB mods. No external application.
+init 1005 python in lssb_mm:
+    import renpy as engine
+    import types as _types
+    from store import config, renpy as api
+    _constant = True
+    _core_module = _types.ModuleType('lssb_mod_manager_core')
+    exec(compile(@CORE_SOURCE@, 'lssb_mod_manager_core', 'exec'), _core_module.__dict__)
+    ManagerCore = _core_module.ManagerCore
+    ManagerError = _core_module.ManagerError
+    catalog = @CATALOG@
+    version = '@VERSION@'
+    supported = (hasattr(getattr(config, 'python_exit_callbacks', None), 'append')
+        and hasattr(getattr(config, 'always_shown_screens', None), 'append')
+        and all(callable(getattr(api, name, None)) for name in ('show_screen', 'restart_interaction', 'quit')))
+    controller = None
+    rows = []
+    choices = {}
+    issue = ''
+    notice = ''
+    armed = False
+
+    def refresh():
+        global controller, rows, choices, issue, notice
+        issue = ''
+        notice = ''
+        try:
+            if not supported:
+                raise ManagerError('engine_api', 'В движке недоступны функции безопасного переключения модов.')
+            if controller is None:
+                controller = ManagerCore(config.gamedir, catalog)
+            rows = controller.scan()
+            choices = {row['id']: row['enabled'] for row in rows if row['can_toggle']}
+            issue = controller.status_error or ''
+            if not issue:
+                pending_plan = controller.pending()
+                if pending_plan:
+                    for action in pending_plan['actions']:
+                        if action['id'] in choices:
+                            choices[action['id']] = action['enabled']
+                    notice = 'Сохранённый выбор ещё не применён. Проверьте его перед выходом.'
+                else:
+                    last = controller.last_result()
+                    if last and last.get('outcome') == 'applied':
+                        notice = 'Предыдущие изменения успешно применены.'
+                    elif last and last.get('outcome') != 'applied':
+                        notice = 'Предыдущие изменения не применены. Проверьте состояние файлов.'
+        except Exception as exc:
+            issue = str(exc)
+
+    def open_manager():
+        refresh()
+        api.show_screen('lssb_mod_manager')
+        api.restart_interaction()
+
+    def toggle(mod_id):
+        global choices, notice
+        if issue:
+            return
+        if any(row['id'] == mod_id and row['can_toggle'] for row in rows):
+            choices = dict(choices)
+            choices[mod_id] = not choices[mod_id]
+            notice = ''
+            api.restart_interaction()
+
+    def changes():
+        return [row for row in rows if row['can_toggle'] and choices.get(row['id']) != row['enabled']]
+
+    def status(row):
+        labels = {'enabled': 'Включён', 'disabled': 'Отключён', 'missing': 'Не установлен',
+                  'changed': 'Файл изменён', 'conflict': 'Конфликт файлов', 'recovery_required': 'Нужна проверка'}
+        if row['can_toggle'] and choices.get(row['id']) != row['enabled']:
+            return 'Будет включён' if choices[row['id']] else 'Будет отключён'
+        return labels.get(row['state'], 'Недоступен')
+
+    def discard():
+        global issue
+        try:
+            controller.cancel()
+            refresh()
+        except Exception as exc:
+            issue = str(exc)
+        api.restart_interaction()
+
+    def commit_and_exit():
+        global armed, issue
+        try:
+            plan = controller.stage({row['id']: choices[row['id']] for row in rows if row['can_toggle']})
+            if not plan:
+                refresh()
+                return
+            armed = True
+        except Exception as exc:
+            issue = str(exc)
+            api.hide_screen('lssb_mm_confirm')
+            api.restart_interaction()
+            return
+        # Bootstrap's native relaunch starts too early; apply in its late callback.
+        if any(action['id'] == 'visual_quality' and not action['enabled'] for action in plan['actions']):
+            import store
+            performance = getattr(store, 'lssb_performance', None)
+            if performance is not None and performance.supported:
+                performance.restore_preferences()
+        api.quit(relaunch=False, save=True)
+
+    def late_apply():
+        global armed
+        if not armed or controller is None:
+            return
+        armed = False
+        try:
+            controller.apply_pending()
+        except Exception as exc:
+            # Core preserves its plan/journal on failures; report again on next open.
+            try:
+                api.log('LSSB Mod Manager: изменения не применены: ' + str(exc))
+            except Exception:
+                pass
+
+    if supported:
+        config.python_exit_callbacks.append(late_apply)
+    # Engine overlay survives changes to the native main/game menu and language.
+    if hasattr(getattr(config, 'always_shown_screens', None), 'append'):
+        if 'lssb_mm_entry_overlay' not in config.always_shown_screens:
+            config.always_shown_screens.append('lssb_mm_entry_overlay')
+
+    def compatibility_notes():
+        import store
+        result = []
+        compat = getattr(store, 'lssb_compat', None)
+        if compat is not None:
+            result.extend(compat.messages())
+        startup = getattr(store, 'lssb_startup_fast', None)
+        if startup is not None and not startup.enabled:
+            result.append('Быстрый запуск: используется обычный запуск — реализация движка изменилась.')
+        performance = getattr(store, 'lssb_performance', None)
+        if performance is not None and not performance.supported:
+            result.append('Плавность: используется штатная отрисовка — функции движка изменились.')
+        return result
+
+screen lssb_mm_entry_overlay():
+    zorder 290
+    if (renpy.get_screen('main_menu') or renpy.get_screen('game_menu') or renpy.get_screen('preferences')) and not renpy.get_screen('lssb_mod_manager'):
+        textbutton "Моды" style "lssb_mm_entry" align (0.98, 0.03) action Function(lssb_mm.open_manager)
+    key "shift_K_F10" action Function(lssb_mm.open_manager)
+
+screen lssb_mod_manager():
+    modal True
+    zorder 300
+    key ["K_ESCAPE", "mouseup_3", "pad_b_press"] action Hide("lssb_mod_manager")
+    add Solid("#071a28eb")
+    frame:
+        style "lssb_mm_panel"
+        xysize (1160, 640)
+        align (0.5, 0.5)
+        vbox:
+            spacing 14
+            hbox:
+                xfill True
+                vbox:
+                    text "МЕНЕДЖЕР МОДОВ" style "lssb_mm_title"
+                    text ("Love & Sex: Second Base · %s   |   Менеджер @VERSION@" % config.version) style "lssb_mm_subtitle"
+                null width 28
+                if renpy.has_screen('lssb_performance_settings'):
+                    textbutton "Плавность" style "lssb_mm_button" action Show("lssb_performance_settings")
+                    null width 12
+                textbutton "Закрыть" style "lssb_mm_button" action Hide("lssb_mod_manager")
+            hbox:
+                spacing 24
+                text "Выберите моды для следующего запуска игры." style "lssb_mm_text"
+                textbutton ("Совместимость: есть замечания" if lssb_mm.compatibility_notes() else "Совместимость") style "lssb_mm_button" padding (12, 6) yminimum 30 action Show("lssb_mm_compatibility")
+            viewport:
+                xysize (1104, 366)
+                mousewheel True
+                draggable True
+                scrollbars "vertical"
+                has vbox
+                spacing 8
+                for row in lssb_mm.rows:
+                    frame:
+                        style "lssb_mm_card"
+                        xysize (1080, 66)
+                        hbox:
+                            spacing 16
+                            vbox:
+                                xsize 534
+                                text row['name'] style "lssb_mm_name"
+                                text row['description'] style "lssb_mm_description"
+                            text row['version'] style "lssb_mm_meta" xsize 62 yalign 0.5
+                            vbox:
+                                xsize 182
+                                yalign 0.5
+                                text lssb_mm.status(row) style "lssb_mm_status"
+                                if row.get('reason'):
+                                    text row['reason'] style "lssb_mm_description" size 12
+                            textbutton (("ВКЛЮЧЁН" if lssb_mm.choices.get(row['id'], row['enabled']) else "ОТКЛЮЧЁН") if row['can_toggle'] else "НЕДОСТУПЕН"):
+                                style "lssb_mm_toggle"
+                                selected bool(lssb_mm.choices.get(row['id'], row['enabled']))
+                                sensitive row['can_toggle'] and not lssb_mm.issue
+                                action Function(lssb_mm.toggle, row['id'])
+            if lssb_mm.issue:
+                text lssb_mm.issue style "lssb_mm_error" xmaximum 1090
+            elif lssb_mm.changes():
+                text ("Изменений: %d. Они применятся после закрытия игры." % len(lssb_mm.changes())) style "lssb_mm_text"
+            elif lssb_mm.notice:
+                text lssb_mm.notice style "lssb_mm_subtitle"
+            else:
+                text "Все моды показаны в текущем состоянии. Файлы игры и сохранения не заменяются." style "lssb_mm_subtitle"
+            hbox:
+                spacing 16
+                textbutton "Сбросить выбор" style "lssb_mm_button" action Function(lssb_mm.discard)
+                textbutton "Обновить список" style "lssb_mm_button" action Function(lssb_mm.refresh)
+                null width 138
+                textbutton "Применить и выйти":
+                    style "lssb_mm_primary"
+                    sensitive bool(lssb_mm.changes()) and not lssb_mm.issue
+                    action Show("lssb_mm_confirm")
+
+screen lssb_mm_compatibility():
+    modal True
+    zorder 320
+    key ["K_ESCAPE", "mouseup_3"] action Hide("lssb_mm_compatibility")
+    add Solid("#071a28eb")
+    frame:
+        style "lssb_mm_panel"
+        xysize (1000, 600)
+        align (0.5, 0.5)
+        vbox:
+            spacing 20
+            text "СОВМЕСТИМОСТЬ" style "lssb_mm_title"
+            text "Обновление номера игры не отключает моды. Изменившиеся экраны используют штатный интерфейс." style "lssb_mm_text" xmaximum 940
+            viewport:
+                ysize 350
+                mousewheel True
+                draggable True
+                scrollbars "vertical"
+                vbox:
+                    spacing 12
+                    for note in lssb_mm.compatibility_notes():
+                        text note style "lssb_mm_text" xmaximum 900
+                    if not lssb_mm.compatibility_notes():
+                        text "Несовместимые компоненты не обнаружены." style "lssb_mm_text"
+            textbutton "Закрыть" style "lssb_mm_button" action Hide("lssb_mm_compatibility")
+
+screen lssb_mm_confirm():
+    modal True
+    zorder 310
+    key ["K_ESCAPE", "mouseup_3", "pad_b_press"] action Hide("lssb_mm_confirm")
+    add Solid("#041018d9")
+    frame:
+        style "lssb_mm_panel"
+        xsize 780
+        align (0.5, 0.5)
+        vbox:
+            spacing 18
+            text "ПРИМЕНИТЬ ИЗМЕНЕНИЯ" style "lssb_mm_title" size 28
+            for row in lssb_mm.changes():
+                text (("Включить: " if lssb_mm.choices[row['id']] else "Отключить: ") + row['name']) style "lssb_mm_text"
+            text "Игра закроется. При следующем запуске будет выбранный набор модов." style "lssb_mm_text" xmaximum 710
+            if not main_menu:
+                text "Перед выходом сохраните текущий прогресс." style "lssb_mm_error"
+            hbox:
+                spacing 24
+                textbutton "Назад" style "lssb_mm_button" action Hide("lssb_mm_confirm")
+                textbutton "Применить и выйти" style "lssb_mm_primary" action Function(lssb_mm.commit_and_exit)
+
+style lssb_mm_panel is empty:
+    background Solid("#173c50")
+    padding (28, 24)
+style lssb_mm_card is empty:
+    background Solid("#214d63")
+    padding (16, 8)
+style lssb_mm_text is text:
+    font "DejaVuSans.ttf"
+    size 19
+    color "#ecf6fc"
+    outlines []
+style lssb_mm_title is lssb_mm_text:
+    font "DejaVuSans-Bold.ttf"
+    size 30
+style lssb_mm_subtitle is lssb_mm_text:
+    size 16
+    color "#b0cbd9"
+style lssb_mm_name is lssb_mm_title:
+    size 21
+style lssb_mm_description is lssb_mm_subtitle:
+    size 14
+style lssb_mm_meta is lssb_mm_subtitle:
+    size 16
+style lssb_mm_status is lssb_mm_text:
+    size 16
+    color "#b9e9f7"
+style lssb_mm_error is lssb_mm_text:
+    color "#ffd095"
+    size 16
+style lssb_mm_button is button:
+    background Solid("#32687c")
+    hover_background Solid("#438ba0")
+    insensitive_background Solid("#294b5c")
+    padding (18, 12)
+    yminimum 44
+style lssb_mm_button_text is lssb_mm_text:
+    size 17
+    insensitive_color "#91aab7"
+    align (0.5, 0.5)
+style lssb_mm_toggle is lssb_mm_button:
+    xsize 166
+    selected_idle_background Solid("#157d85")
+    selected_hover_background Solid("#239e9e")
+style lssb_mm_toggle_text is lssb_mm_button_text:
+    size 15
+style lssb_mm_primary is lssb_mm_button:
+    background Solid("#167f8c")
+    hover_background Solid("#209fb0")
+style lssb_mm_primary_text is lssb_mm_button_text
+style lssb_mm_entry is lssb_mm_button:
+    xsize 160
+style lssb_mm_entry_text is lssb_mm_button_text

@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "checks": [
+    "isolated game, Steam disabled",
+    "expected data bound",
+    "all reviewed corrections applied without skipped contracts",
+    "all 8144 statements: corrections exact, remainder and English sources unchanged",
+    "changed source or third-party translation safely skipped",
+    "custom name interpolation preserved with isolated stand-in characters",
+    "all corrected dialogue fits stock panel: []",
+    "interface caption retained",
+    "all 8144 English originals restored",
+    "corrections persist through language switch"
+  ],
+  "scope": "Isolated original candidate before own-mods-only export; not a full release lifecycle validation."
+}

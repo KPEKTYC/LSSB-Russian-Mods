@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "method": "Eight new samples individually viewed; nine earlier samples byte-identical to visually reviewed Ownreview images. All fit the dialogue panel.",
+  "images": {
+    "alexis_6202.png": "d3bcd2a42337dbafe24dcd4d51e51ffa94ba4567469919ed77ef8cc630b780b9",
+    "audrey_1264.png": "206429d0305ea8cc148f08f9bba5441daa94141b755362548c81a3d0f17052c6",
+    "audrey_1333.png": "e47b939fc7ccff5922c0cedf7fd0b5d118013282497ef5b889290895c8a0631c",
+    "audrey_1435.png": "d98d6b0a3b734e40d7d8f8039ca1dab8e5d181f815ac34f002b3ed94102f46dd",
+    "audrey_1474.png": "1ed5fe474721717b3554ce42ac42e44d1cd9d47972a0a438e04429431fdb6d38",
+    "audrey_3186.png": "5b83543637017c7b60c2910547e66ccc332cfa59052e1edf618f0036bdc42c3e",
+    "audrey_342.png": "5d3558e7866e353394ad3bb4b05749398b8cee906f06591cba49183f40194631",
+    "audrey_416.png": "60a623315d6ab5a0fb177bd14014691d5c248e85d96fabca1b271f04b0e08be9",
+    "audrey_5656.png": "3890b07c7a57d0dbd7008cf26309fba1087dd594d7986189d0e7e0de362fbdbe",
+    "audrey_6254.png": "698e9455f796d9b728510bfe1fade0af018813405c1ea09f04cdc908f0241ec4",
+    "audrey_6399.png": "2a2377cc1870c5d8a2d8b0fec31e0ea64938a30c677d00ad68f868627535238d",
+    "audrey_6425.png": "5241834fefc1869c27b443eb82fbee90de72d470723a251100f4ccf8339acf8c",
+    "audrey_6548.png": "a1a0829a4313ff965431198b23b251cb1ccc7c235d0047ca91d35bfde0523176",
+    "audrey_6586.png": "0e624374272bececd8fbd36488080b3deb725f59890cc6481fa0dcdb8eeef00d",
+    "audrey_6641.png": "1ed0adf71a1d02c724cf4e224f6c479be9aeea2dbc2a513c01a23297567862b1",
+    "audrey_923.png": "8bfec2ccad1caa515a81f317acbff70aec585a44e405ee98dee1fe21f6479242",
+    "audrey_979.png": "ae5d5c852c12be6b817423e529fe542e6a2c1b4b69a8141d2355d6e7f43f9665"
+  }
+}

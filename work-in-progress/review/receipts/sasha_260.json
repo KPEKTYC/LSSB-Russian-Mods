@@ -1,0 +1,5 @@
+{
+  "reviewed_range": [260, 390],
+  "end_exclusive": true,
+  "method": "Direct bilingual review: corrected stealthy glances, smell qualification, spelling and awkward literal phrasing. Draft uses original interpolation tokens; runtime name alias must be applied during candidate generation."
+}

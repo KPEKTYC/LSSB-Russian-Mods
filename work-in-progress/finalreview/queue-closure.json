@@ -1,0 +1,187 @@
+{
+  "status": "passed",
+  "queues": 36,
+  "groups": {
+    "_ac": {
+      "total": 301,
+      "reviewed": 301,
+      "source_sha256": "a7998731ced42a89692c7157f97e229733897e876668ef198222a32fa99f93da"
+    },
+    "_bg": {
+      "total": 2358,
+      "reviewed": 2358,
+      "source_sha256": "04f3c6f2220bc334b712a312ebcd77176507b3d67cdbca89fba62dedd7fd5e57"
+    },
+    "_da": {
+      "total": 6,
+      "reviewed": 6,
+      "source_sha256": "62d60a558c088676da2fcae36ce29cb5e9b0fed62b05482ec78b51cf55103eeb"
+    },
+    "_ev": {
+      "total": 15,
+      "reviewed": 15,
+      "source_sha256": "60ff128b37515dfa5b5ec75377a2de5e706410c4eb8e5bd317b22ec871c44c26"
+    },
+    "_root": {
+      "total": 2,
+      "reviewed": 2,
+      "source_sha256": "d994ec1e13215d81c4c987c5381ba117ba6e73233790f3c39649c749e34bd5dc"
+    },
+    "aletta": {
+      "total": 6423,
+      "reviewed": 6423,
+      "source_sha256": "b8e3b445c08a9ca2ee4bb15ba1f6ffa099c4f9612a195ce9effec538184dff0a"
+    },
+    "alexis": {
+      "total": 6686,
+      "reviewed": 6686,
+      "source_sha256": "9e9391849b19ec8505ffab4a53ac1102ebb9d391b4c38055abb9fd951c565151"
+    },
+    "amy": {
+      "total": 534,
+      "reviewed": 534,
+      "source_sha256": "a0df58be6a85bc2eff900f0b65df3e7e18a1531d37c8cc1b1bf7d8f14399647b"
+    },
+    "angela": {
+      "total": 305,
+      "reviewed": 305,
+      "source_sha256": "26d079ed8472740cbb5bd878235ce9097b5811e05f628352588f357f865a3ee3"
+    },
+    "anna": {
+      "total": 3826,
+      "reviewed": 3826,
+      "source_sha256": "bd0bb7b8b5cf87031037d39bdf2fb490a9c33b7cdedeaf81bab7d53b06b4e7c8"
+    },
+    "audrey": {
+      "total": 6721,
+      "reviewed": 6721,
+      "source_sha256": "3eea0e7b078f165aa85011a81f4f6d5684a84d01554002ab5c1e91a22845d2a2"
+    },
+    "ayesha": {
+      "total": 6114,
+      "reviewed": 6114,
+      "source_sha256": "1b474b1897c5e2a9f445261465f27a83ea89a489532e41eacb391aa884d07c1f"
+    },
+    "bree": {
+      "total": 10698,
+      "reviewed": 10698,
+      "source_sha256": "d6e9d8a46d6093b34e1f704cb619aafad4dde4b1c2778b3ac5063780bb14398c"
+    },
+    "camila": {
+      "total": 85,
+      "reviewed": 85,
+      "source_sha256": "3ae83e1946dad59ff1731a259950cfa4181c3caf94bc2186fbac467c2c8c91fe"
+    },
+    "cassidy": {
+      "total": 74,
+      "reviewed": 74,
+      "source_sha256": "6060b6fbbf1af50cbfafa9a5619d79f4efe38be6714d54d3a01ea37883d201e4"
+    },
+    "cherie": {
+      "total": 15,
+      "reviewed": 15,
+      "source_sha256": "5da7e7cac985907428ac5b9da0d070ff773de41e83a5ac7f1e6e5c42e0d52634"
+    },
+    "emma": {
+      "total": 66,
+      "reviewed": 66,
+      "source_sha256": "1986aea7135372c78ffa4e68a6c25917cd01981164e3dc03758908381278cac5"
+    },
+    "gen_full": {
+      "total": 6,
+      "reviewed": 6,
+      "source_sha256": "b24f344c5937f47171bc13996dfe91ed65ba3d77e1831494bb0b1b8103caef5f"
+    },
+    "hanna": {
+      "total": 54,
+      "reviewed": 54,
+      "source_sha256": "1e263993aadc21d83d09aa8cc0e21e22a15f3a4e94184b6580f784f19e5894f6"
+    },
+    "harems": {
+      "total": 209,
+      "reviewed": 209,
+      "source_sha256": "8e4ab769a552d69b67db4fb4f5116c8feca67c08e6efcb6cc41f5e9e1722c6d4"
+    },
+    "harems_full": {
+      "total": 351,
+      "reviewed": 351,
+      "source_sha256": "1329fea9081cacfff687db319c1f9e91de3ad7d7e2fe9976978cd711fb4dbe96"
+    },
+    "harmony": {
+      "total": 117,
+      "reviewed": 117,
+      "source_sha256": "f082e334b7ca27a2efc0e1f99b9e0595bc65c90eee392f5005d4fa80d9188a61"
+    },
+    "jack": {
+      "total": 18,
+      "reviewed": 18,
+      "source_sha256": "56d4c1b79a92422afac617b12b0bcb73af8a7cb81eebb0c08c4426dba96aee0b"
+    },
+    "kleio": {
+      "total": 79,
+      "reviewed": 79,
+      "source_sha256": "fe21de35fffafda5067bfc91e601667d167ccb7b75b062ac007990fdf7233628"
+    },
+    "kylie": {
+      "total": 113,
+      "reviewed": 113,
+      "source_sha256": "6d8eef35fcceb72b699c2709363507419c2c875d07709b48f1186bce354630e9"
+    },
+    "lavish": {
+      "total": 57,
+      "reviewed": 57,
+      "source_sha256": "9a4c6b1782b903b101ed870d8ca5fcf109f11618c8678366c775004362eb3e12"
+    },
+    "lexi": {
+      "total": 80,
+      "reviewed": 80,
+      "source_sha256": "6102804ccc11a38dcd5d155f1885e7f9d2dcc05ba0838b52b33e4f0b6662378a"
+    },
+    "MC": {
+      "total": 3,
+      "reviewed": 3,
+      "source_sha256": "9bcd203893a0b0483f8cf51e08dc44c252bbee2898380e27d48f680c0a3b3c37"
+    },
+    "minami": {
+      "total": 118,
+      "reviewed": 118,
+      "source_sha256": "740f24bb3b0a07045c96f193a109a601566cdfa89e0c206be577caf27b4cdb86"
+    },
+    "morgan": {
+      "total": 68,
+      "reviewed": 68,
+      "source_sha256": "15cbf8963d4137f041794f3fd515077325d47467ba9aa99bc970400725d62602"
+    },
+    "natalie": {
+      "total": 1,
+      "reviewed": 1,
+      "source_sha256": "844db22d2066c2f91f799ac95b6081c169c698131d5d7ea491caf43ead826b54"
+    },
+    "palla": {
+      "total": 67,
+      "reviewed": 67,
+      "source_sha256": "74ce2ec799353cf6faddad97c55016175d514164a783b78304952e56eaafa374"
+    },
+    "samantha": {
+      "total": 104,
+      "reviewed": 104,
+      "source_sha256": "91a38a4fc4610dd9bc498282a7ce46bbeb9e748a1f4bcba9d3c44e55917208ef"
+    },
+    "sasha": {
+      "total": 8101,
+      "reviewed": 8101,
+      "source_sha256": "9dcd2996d29527dd402c0a3082df82741f653512508e33bc0a11e6b64b2505af"
+    },
+    "scottie": {
+      "total": 1,
+      "reviewed": 1,
+      "source_sha256": "b86f4de867b6d6ad8177e3a7dd37d697532cb287ac26774bbb04902f1b9842c5"
+    },
+    "shiori": {
+      "total": 45,
+      "reviewed": 45,
+      "source_sha256": "2950c3291b156fb419217b98ebc097c3864d035b9dde8c8577f2170e988dfd30"
+    }
+  },
+  "scope": "Every saved existing-text review queue is complete. Aliased harems queues overlap; totals must not be summed."
+}

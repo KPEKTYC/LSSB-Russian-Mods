@@ -1,0 +1,32 @@
+{
+  "expected_sha256": "18b847e0c4051a0b8b0c14b32d60cf83b2f460971c913c4cb77a3f8c27feb317",
+  "corrected": 1788,
+  "reviewed_entries": 13407,
+  "groups": {
+    "alexis": {
+      "reviewed": 6686,
+      "total": 6686,
+      "corrected": 517,
+      "installed_reviewed": 3000,
+      "excluded": [
+        1970,
+        1977,
+        1993,
+        1997,
+        2014,
+        2015,
+        2016,
+        2017,
+        6633
+      ]
+    },
+    "audrey": {
+      "reviewed": 6721,
+      "total": 6721,
+      "corrected": 1271,
+      "installed_reviewed": 0,
+      "excluded": []
+    }
+  },
+  "wiki_excluded": true
+}

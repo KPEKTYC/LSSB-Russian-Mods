@@ -1,0 +1,26 @@
+{
+  "source_sha256": "b056700eb9791c18c0b67e4297bde895c8930e2636b31667759f2719b608c25b",
+  "packaged_source": "mods/lssb_localization_ru/game/tl/russian/gamepatchanalyzer.rpy",
+  "packaged_sha256": "b257b7ad863ba97368bfc51a44075213a8b689d43bda14fefde0dd6ef0ff20d7",
+  "excluded_identifiers": [
+    "alexis_event_08a_alt_e791d42c",
+    "alexis_event_08a_alt_7df94c7c",
+    "alexis_event_08a_alt_b346a81c",
+    "alexis_event_08a_alt_82a051d4",
+    "alexis_event_08a_alt_4a979fc1",
+    "alexis_event_08a_alt_a70dbf4e",
+    "alexis_event_08a_alt_17c07fa0",
+    "alexis_event_08a_alt_ce007432",
+    "alexis_dirty_texts_0403c44a"
+  ],
+  "translation_blocks": 44859,
+  "notes": [
+    "The base translation is now compiled into the localization archive. No external editor or loose translation files are required.",
+    "Nine previously excluded dialogue entries are omitted from distribution.",
+    "Editor metadata and original game archives are not distributed.",
+    "The nine old excluded entries receive separate non-graphic adaptations in 1.85.0; the base remains filtered."
+  ],
+  "additional_exclusion_source": "mods/lssb_localization_ru/game/tl/russian/zz_lssb_alexis_dialogue.rpy",
+  "additional_exclusion_source_sha256": "e55597008475068c8d16457b474cf8a9b12fba4647be5044cb1d1f41aa29e66f",
+  "version_scope": "1.84.0-own base-import record; current source hashes are recorded in snapshot.json"
+}

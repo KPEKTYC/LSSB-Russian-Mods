@@ -1,0 +1,61 @@
+{
+  "status": "passed_with_scope",
+  "created_utc": "2026-10-20T21:43:35.310857+00:00",
+  "versions": {
+    "localization": "1.83.0-own",
+    "manager": "1.2.80-own"
+  },
+  "scope": "35239 existing dialogue rows reviewed; 4523 reviewed corrections plus 24 dynamic statement fixes with four overlapping IDs. 4543 unique changed statements, 44 exact UI strings, 15 random-array phrases and two bounded notifications. Own-mods-only isolated build, not installed. No full story playthrough.",
+  "unique_changed_statements": 4543,
+  "reviewed_statements": 35239,
+  "evidence": {
+    "combined01/validation.json": {
+      "status": "passed",
+      "sha256": "3b01e68c67e76278e218031b5b781a6f5fb4531911c7de929c07e6b66f5f1886"
+    },
+    "fragments01/fragments-validation.json": {
+      "status": "passed",
+      "sha256": "29ea0c1de0ed9e9eb50cee1aefe7e57930c9e24d15e2673464950e642a579de1"
+    },
+    "manager-future-01/future-compatibility.json": {
+      "status": "passed",
+      "sha256": "b0f40cd371612e4605f48717caca31da602ef79bc25d38954f27d738df349853"
+    },
+    "manager-disable-01/verified-disable.json": {
+      "status": "passed",
+      "sha256": "539fabd507d2f888527f7b818edee3b06911049c23c704b3c8263b089b8268e5"
+    },
+    "manager-enable-01/verified-enable.json": {
+      "status": "passed",
+      "sha256": "471c58725f14c3ed6a7c62bc7e719ac7ea5660c6b45a7fa17f0c7deb7085cbfa"
+    },
+    "after-enable-01/validation.json": {
+      "status": "passed",
+      "sha256": "3b01e68c67e76278e218031b5b781a6f5fb4531911c7de929c07e6b66f5f1886"
+    },
+    "coverage01/coverage.json": {
+      "status": "passed",
+      "sha256": "baa5f9465c0da09d7ceb294b171b3e1e5fecd421ad85526b0790f5cb51c35bdb"
+    }
+  },
+  "native_say_coverage": {
+    "original_say": 211603,
+    "russian_say": 211499,
+    "deferred": 104,
+    "deferred_identifiers_and_source_hashes_unchanged": true
+  },
+  "visual_review_sha256": "bd9d133d22749a5073c7801ec4c00361f261788a1798370ae006680729186c2a",
+  "production_readback_sha256": "9a36d46be3a7b282f68c60266ed9264904ebd9832559e4c2227c76465fa0b4c3",
+  "archive_readback_sha256": "fb869194324e363e0b118f485ba2cf8b5ec76d01a59fe63fc8b292f475180587",
+  "source_files": {
+    "mods/lssb_localization_ru/game/zz_lssb_allreview_ru.rpy": "a5237c68c0a779efdb37f7f4d91a94737840747dcbfb34919ae89129d393dea6",
+    "mods/lssb_localization_ru/game/zz_lssb_textfragments_ru.rpy": "44b84530c53e573815ee7578ac19253249c05d32bdd018dcd0d6eae59eeed895",
+    "mods/lssb_mod_manager/game/zz_lssb_mod_manager.rpy": "1287de9c2c21a37670d9e04c85c1edef712e54679f95da2881bbf60ba50800e6"
+  },
+  "limitations": [
+    "104 previously deferred source statements remain untranslated. Nine recorded Alexis rows were excluded from retranslation.",
+    "Coverage counts apply to native TranslateSay nodes, not every possible runtime string. Proper names, brands, control keys and technical identifiers are retained.",
+    "Default-state native rendering and lifecycle checks do not replace a full story playthrough.",
+    "Future-version check changes the version string only; changed native code still requires contract validation."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "installed_versions": {
+    "localization": "1.83.0-own",
+    "manager": "1.2.80-own"
+  },
+  "installed_hashes": {
+    "lssb_localization_ru": "b97220a674154d457f6ad240e06444ea07dea9df90f1f2032906aeab6164eca7",
+    "lssb_mod_manager": "cc98d5d41f45224c02b33ffc838381017bd9bf1629835b613afa51c57e1c87a0"
+  },
+  "manager_catalog_profile": "Existing visual 1.5.1 and startup 1.1.0 archives retained; only three own mods managed.",
+  "only_localization": {
+    "status": "passed",
+    "corrected_statements": 4543,
+    "required_base": "game/tl/russian/gamepatchanalyzer.rpyc or corresponding .rpy",
+    "base_source_sha256": "b056700eb9791c18c0b67e4297bde895c8930e2636b31667759f2719b608c25b",
+    "base_not_bundled": true,
+    "other_mods_required": false,
+    "full_story_playthrough": false
+  },
+  "evidence": {
+    "results/combined01/validation.json": "e008024f12840b86ecf580aee3e9a8ed852907e000d00980d0eb7299dea3dbb2",
+    "results/fragments01/fragments-validation.json": "29ea0c1de0ed9e9eb50cee1aefe7e57930c9e24d15e2673464950e642a579de1",
+    "results/manager01/current-compatibility.json": "09a153264377e7a12146daf32344b64802311cdbd5ef2ca11bc3a7e5f4d399f6",
+    "results/standalone01/validation.json": "aadc6e56d3535f03dbd843bd77cb1960e373cecb2ef55269fab8e2edacdd727a",
+    "independent-installed-readback.json": "22e394219ce3a3d749ea3219656cde8abd36aca18cb792822dcb434e1ddcefa9"
+  }
+}
