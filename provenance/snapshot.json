@@ -140,7 +140,7 @@
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_textstory_dialogue.rpy": "946a8b138d67dfdec606ab60647b1283e923e1c939957c7ec0b4ceb1fa9fcea1",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_world_dialogue.rpy": "f31d57c11343d98b22b559209254aea76a40a78b8a075601d7bb82cf8def3ae7",
     "mods/lssb_mod_manager/game/zz_lssb_mod_manager.rpy": "15e3d239f2fc9f2130d1b7051560bd883b4f1d0b1391f85c34e1b7a226c6c308",
-    "mods/lssb_startup_fix/game/zz_lssb_startup_fast.rpy": "04f51474824f38a563430332b71f6491aed0f273e0669a546fdcb521bba13342",
+    "mods/lssb_startup_fix/game/zz_lssb_startup_fast.rpy": "a6586008d966cb50338b2c99ea9b999348a3fe9f61ddcee392a7e8c5feb0bd2e",
     "mods/lssb_visual_quality/game/zz_lssb_compat.rpy": "ead39859768654dc17a777e7549ab6fd175e2244a91417198224d740479e6476",
     "mods/lssb_visual_quality/game/zz_lssb_visual_display.rpy": "61ab07148e6e424867b8854999029e3907080c1b80afbeffb47e6e16a939c014",
     "mods/lssb_visual_quality/game/zz_lssb_visual_inventory.rpy": "fc8bd63ce3290c940c70f7eab9b625e4c577265c0bde2b6d5cbf11b77101717a",
@@ -1859,6 +1859,9 @@
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_remaining_dialogue.rpy": "e01ea1f38b685c5635fd28f211c901168c58b732e1ab0bbc68175ca97a3a3788",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_adapted_dialogue.rpy": "5aabbd20eaffef8912755ef4aac5e5a4e36dcfca6f083e7b185241defd36ee4c",
     "tools/manager/test_release_updates.py": "7c7130d14ba1520243b8f1e491eb3f56c4ea664813e79d75f1757a6c498f339c",
-    "tools/manager/test_external_mods.py": "96580f5aac289235c78a588068ee66d18a70e35a344ad769f5c22f55842ba9c3"
+    "tools/manager/test_external_mods.py": "96580f5aac289235c78a588068ee66d18a70e35a344ad769f5c22f55842ba9c3",
+    "work-in-progress/startup-copy-20261022/game/lssb_startup_copy.py": "2ed46e992dca0b53a107abcc516da85b02bd73a6aaca908557c0d68f390d1c91",
+    "work-in-progress/startup-copy-20261022/game/zz_lssb_startup_fast.rpy": "37c47a6f558b59da32bd64df07e399b826273667aeb8b9581189a4968d810bbc",
+    "work-in-progress/startup-copy-20261022/README.md": "00edf6f7506dcba119ec7154bd61346a0757bc7c41393e1726cc092add55e3b4"
   }
 }

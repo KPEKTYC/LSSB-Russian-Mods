@@ -1,0 +1,1265 @@
+{
+  "schema": 1,
+  "date": "2026-10-22",
+  "component": "startup_fast",
+  "version": "1.2.0-own",
+  "archive_sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+  "package_sha256": "35e3560dc451d8fd9c2a1511d0c17f7ccd091a30cf12a411f3fe746136c3da21",
+  "validation": {
+    "status": "passed",
+    "sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+    "registries_equal": true,
+    "queries": 10879,
+    "signature_verified": true,
+    "archive_members_verified": true
+  },
+  "compatibility": {
+    "status": "passed",
+    "version": "26.9.0e",
+    "checks": [
+      "fresh isolated game",
+      "Steam disabled",
+      "manager supports current APIs",
+      "entry overlay registered once",
+      "late exit hook registered once",
+      "catalog matches three own mod archives",
+      "no old native menu replacement",
+      "all current screen contracts accepted",
+      "enhanced phone selected",
+      "startup optimization enabled",
+      "startup prefix results equal native queries",
+      "startup patch removed after init",
+      "render optimization supported",
+      "background prediction enabled",
+      "changed method rejected",
+      "manager language independence None",
+      "manager language independence russian",
+      "render main_menu",
+      "entry button visible on native main menu",
+      "entry opens manager",
+      "render lssb_mod_manager",
+      "render lssb_mm_compatibility",
+      "render lssb_performance_settings"
+    ],
+    "case": "current",
+    "compatibility": {},
+    "startup": {
+      "enabled": true,
+      "verified_queries": 10879,
+      "has_code": true,
+      "original_type": "<class 'function'>",
+      "fingerprint": "e4ba8954724202c5154fa777f39c8486afab4554b689bf56943bef0975e6f1d4"
+    },
+    "performance": true
+  },
+  "registry": {
+    "image_names_count": 46159,
+    "image_names_sha256": "4a2930ca3524c2c165b6cbd8555d61a199b4b6bc237daaed881224476e4a8a24",
+    "layered_count": 1084,
+    "layered_attributes_sha256": "538943c9d9a601cf9f8d804490f70346d80b6c710459d29c45740ad0942f1450",
+    "startup_enabled": true,
+    "verified_queries": 10879
+  },
+  "manager_lifecycle": {
+    "status": "passed",
+    "disabled_and_enabled": true,
+    "sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52"
+  },
+  "save_load": {
+    "status": "passed",
+    "slot": "auto-1",
+    "main_menu": false,
+    "context": [
+      "game/cl/labels_room.rpy",
+      905852360,
+      332338
+    ]
+  },
+  "timing": {
+    "plan": {
+      "sequence": [
+        "before",
+        "after",
+        "after",
+        "before",
+        "before",
+        "after",
+        "after",
+        "before",
+        "before",
+        "after",
+        "after",
+        "before"
+      ],
+      "cache": "Separate RenPy game/cache slot for each archive. One untimed preparation launch per slot. OS/driver caches unchanged.",
+      "decision": "All six new pairs included. Exact paired one-sided sign-randomization p<=0.05, lower 95% exhaustive paired bootstrap mean gain >0, positive median initialization gain.",
+      "reason": "Previous shared-cache cohort showed screen-analysis rebuilds on every archive switch and a systematic position effect. Retained as failed/inconclusive; not pooled with this cohort."
+    },
+    "runs": [
+      {
+        "label": "h-independent-1-before",
+        "mode": "before",
+        "menu": 24.893598399999973,
+        "init": 9.172923799998898,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-2-after",
+        "mode": "after",
+        "menu": 24.534659700000702,
+        "init": 8.821919100000741,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-3-after",
+        "mode": "after",
+        "menu": 24.47615609999957,
+        "init": 8.802709999999934,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-4-before",
+        "mode": "before",
+        "menu": 24.88107349999882,
+        "init": 9.113734800001112,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-5-before",
+        "mode": "before",
+        "menu": 24.835427699999855,
+        "init": 9.092255199999272,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-6-after",
+        "mode": "after",
+        "menu": 24.842751399999543,
+        "init": 9.036314499999207,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-7-after",
+        "mode": "after",
+        "menu": 24.508397600000535,
+        "init": 8.81947339999897,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-8-before",
+        "mode": "before",
+        "menu": 24.76027090000025,
+        "init": 9.091114500000913,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-9-before",
+        "mode": "before",
+        "menu": 24.713081099998817,
+        "init": 9.07976409999901,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-10-after",
+        "mode": "after",
+        "menu": 24.636418199999753,
+        "init": 8.929073600000265,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-11-after",
+        "mode": "after",
+        "menu": 24.578720699999394,
+        "init": 8.82166850000067,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-independent-12-before",
+        "mode": "before",
+        "menu": 24.912266600000294,
+        "init": 9.14537670000027,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      }
+    ],
+    "paired_gains_seconds": [
+      0.3589386999992712,
+      0.40491739999924903,
+      -0.00732369999968796,
+      0.2518732999997155,
+      0.0766628999990644,
+      0.33354590000089956
+    ],
+    "paired_init_gains_seconds": [
+      0.35100469999815687,
+      0.31102480000117794,
+      0.05594070000006468,
+      0.2716411000019434,
+      0.1506904999987455,
+      0.32370819999960077
+    ],
+    "medians": {
+      "before": 24.858250599999337,
+      "after": 24.556690200000048
+    },
+    "mean_paired_gain_seconds": 0.23643574999975195,
+    "paired_randomization_p_one_sided": 0.03125,
+    "bootstrap_mean_gain_interval_95": [
+      0.1097110999993068,
+      0.3521885666662759
+    ],
+    "improvement_confirmed": true,
+    "candidate_sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+    "baseline_sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+    "gain_seconds": 0.3015603999992891,
+    "gain_percent": 1.2131199610615282
+  },
+  "exploratory_shared_cache": {
+    "version": "1.2.0-own",
+    "candidate_sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+    "baseline_sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+    "runs": [
+      {
+        "label": "h-1-before",
+        "mode": "before",
+        "menu_seconds": 25.53659229999903,
+        "pre_init_seconds": 5.4340627000001405,
+        "init_seconds": 9.39533130000018,
+        "main_registration_seconds": 3.895,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-2-after",
+        "mode": "after",
+        "menu_seconds": 25.032538499999646,
+        "pre_init_seconds": 5.465013400000316,
+        "init_seconds": 8.93785409999873,
+        "main_registration_seconds": 3.822,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-3-after",
+        "mode": "after",
+        "menu_seconds": 24.66150899999957,
+        "pre_init_seconds": 5.375848300000143,
+        "init_seconds": 8.8775773999987,
+        "main_registration_seconds": 3.797,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-4-before",
+        "mode": "before",
+        "menu_seconds": 25.26819400000022,
+        "pre_init_seconds": 5.386356400000295,
+        "init_seconds": 9.233681200001229,
+        "main_registration_seconds": 3.841,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-5-before",
+        "mode": "before",
+        "menu_seconds": 24.920975799999724,
+        "pre_init_seconds": 5.3568938999997044,
+        "init_seconds": 9.177662899999632,
+        "main_registration_seconds": 3.832,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-6-after",
+        "mode": "after",
+        "menu_seconds": 24.96232339999915,
+        "pre_init_seconds": 5.3660930000005465,
+        "init_seconds": 8.93660909999926,
+        "main_registration_seconds": 3.816,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-7-after",
+        "mode": "after",
+        "menu_seconds": 24.773635399998966,
+        "pre_init_seconds": 5.368979399998352,
+        "init_seconds": 8.997948300000644,
+        "main_registration_seconds": 3.841,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-8-before",
+        "mode": "before",
+        "menu_seconds": 25.192637399999512,
+        "pre_init_seconds": 5.365219999999681,
+        "init_seconds": 9.154233500001283,
+        "main_registration_seconds": 3.808,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      }
+    ],
+    "medians": {
+      "before": {
+        "menu_seconds": 25.230415699999867,
+        "init_seconds": 9.20567205000043,
+        "main_registration_seconds": 3.8365
+      },
+      "after": {
+        "menu_seconds": 24.867979399999058,
+        "init_seconds": 8.937231599998995,
+        "main_registration_seconds": 3.819
+      }
+    },
+    "paired_gains_seconds": [
+      0.504053799999383,
+      0.6066850000006525,
+      -0.041347599999426166,
+      0.4190020000005461
+    ],
+    "gain_seconds": 0.36243630000080884,
+    "gain_percent": 1.4365054635259566,
+    "improvement_confirmed": false,
+    "protocol": [
+      "2026-10-22; LSSB 26.9.0e; RenPy 8.5.3.26051504; native gl2 renderer.",
+      "Actual installed 1.1.1 archive versus candidate 1.2.0 archive. All other archives identical.",
+      "Four interleaved pairs; identical copied profile, saves, window dimensions and GPU driver.",
+      "Wall time to rendered main menu; each splash dismissed after 1.5s, menu animation given 3s.",
+      "Verification scans, graph diagnostics and profiler disabled during timing.",
+      "Warm RenPy/OS/driver caches. No system caches cleared; no reboot. Not a cold-start claim.",
+      "Gate requires all four pairs faster and median gains above 0.25s in total and initialization. This is a local engineering acceptance gate, not a statistical confidence interval.",
+      "Copy-dispatch experiments excluded from this candidate. Every current-game prefix query separately compared with native results."
+    ],
+    "excluded": [
+      "2026-10-21 accepted/quiet series: competing game/window differences and older GPU driver.",
+      "split series interrupted: several processes exited without reaching the measured menu.",
+      "resume baseline first run: warmup across changed driver/cache conditions.",
+      "g series: copy-dispatch experiment; separate candidate, not mixed with final comparison."
+    ]
+  },
+  "inconclusive_shared_cache_confirmation": {
+    "plan": {
+      "sequence": [
+        "before",
+        "after",
+        "after",
+        "before",
+        "before",
+        "after",
+        "after",
+        "before",
+        "before",
+        "after",
+        "after",
+        "before"
+      ],
+      "decision": "Exact paired sign-randomization p<=0.05 for wall time; lower 95% paired bootstrap mean gain >0; positive median initialization gain. Identical renderer/window/profile required. Use all six new pairs; no exploratory samples.",
+      "bootstrap": "Exhaustive 6^6 paired resamples, percentile interval; descriptive for this machine/cohort."
+    },
+    "runs": [
+      {
+        "label": "h-confirm-1-before",
+        "mode": "before",
+        "menu": 24.77558179999869,
+        "init": 9.187632099999973,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-2-after",
+        "mode": "after",
+        "menu": 25.086011600000347,
+        "init": 9.007515400000557,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-3-after",
+        "mode": "after",
+        "menu": 24.684911700000157,
+        "init": 8.932250399999248,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-4-before",
+        "mode": "before",
+        "menu": 25.32638980000047,
+        "init": 9.2192328000001,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-5-before",
+        "mode": "before",
+        "menu": 24.84227220000139,
+        "init": 9.098920700000235,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-6-after",
+        "mode": "after",
+        "menu": 24.880730800001402,
+        "init": 8.858686800000214,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-7-after",
+        "mode": "after",
+        "menu": 24.50039629999992,
+        "init": 8.809075400000438,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-8-before",
+        "mode": "before",
+        "menu": 25.081839399999808,
+        "init": 9.107168300000922,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-9-before",
+        "mode": "before",
+        "menu": 24.767449499999202,
+        "init": 9.116525700001148,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-10-after",
+        "mode": "after",
+        "menu": 24.817958600000566,
+        "init": 8.877210900000136,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-11-after",
+        "mode": "after",
+        "menu": 24.552419899999222,
+        "init": 8.864403999999922,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      },
+      {
+        "label": "h-confirm-12-before",
+        "mode": "before",
+        "menu": 25.038147400000526,
+        "init": 9.114931200001593,
+        "physical_size": [
+          3440,
+          1369
+        ],
+        "renderer": {
+          "resizable": true,
+          "additive": true,
+          "renderer": "gl2",
+          "models": true,
+          "max_window_size": [
+            2379,
+            1338
+          ],
+          "gpu_vendor": "ATI Technologies Inc.",
+          "gpu_name": "AMD Radeon RX 7900 XTX",
+          "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+          "max_texture_size": 16384
+        },
+        "fullscreen": false,
+        "sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+        "probe_sha256": "ca9dd2a37861df178aa6e7c4d381a8b0f2fa9223025540c7c3220f881c0c7684"
+      }
+    ],
+    "paired_gains_seconds": [
+      -0.310429800001657,
+      0.6414781000003131,
+      -0.038458600000012666,
+      0.5814430999998876,
+      -0.05050910000136355,
+      0.48572750000130327
+    ],
+    "paired_init_gains_seconds": [
+      0.1801166999994166,
+      0.28698240000085207,
+      0.2402339000000211,
+      0.2980929000004835,
+      0.23931480000101146,
+      0.2505272000016703
+    ],
+    "medians": {
+      "before": 24.940209800000957,
+      "after": 24.75143515000036
+    },
+    "mean_paired_gain_seconds": 0.21820853333307846,
+    "paired_randomization_p_one_sided": 0.125,
+    "bootstrap_mean_gain_interval_95": [
+      -0.07313566666774325,
+      0.49219105000035296
+    ],
+    "improvement_confirmed": false,
+    "candidate_sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+    "baseline_sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+    "gain_seconds": 0.188774650000596,
+    "gain_percent": 0.7569088292135728
+  },
+  "prefix_replay": {
+    "queries": 10879,
+    "registered_names": 46139,
+    "times": {
+      "old": [
+        0.3025097999998252,
+        0.2934547000004386,
+        0.27410710000003746,
+        0.26406369999858725
+      ],
+      "new": [
+        0.06935399999929359,
+        0.05998410000029253,
+        0.05684569999903033,
+        0.058177700000669574
+      ]
+    },
+    "medians": {
+      "old": 0.28378090000023803,
+      "new": 0.05908090000048105
+    },
+    "equal_to_native": true
+  },
+  "fresh_renpy_cache_observations": {
+    "before": {
+      "early_init": 14.378242300001148,
+      "post_init": 22.90277470000001,
+      "disclaimer_dismiss": 27.513906199999838,
+      "promo_dismiss": 30.091931700000714,
+      "menu_frame": 33.675721699999485,
+      "game_version": "26.9.0e",
+      "engine_version": "8.5.3.26051504",
+      "renderer": {
+        "resizable": true,
+        "additive": true,
+        "renderer": "gl2",
+        "models": true,
+        "max_window_size": [
+          2379,
+          1338
+        ],
+        "gpu_vendor": "ATI Technologies Inc.",
+        "gpu_name": "AMD Radeon RX 7900 XTX",
+        "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+        "max_texture_size": 16384
+      },
+      "language": "russian",
+      "startup_enabled": true,
+      "verified_queries": 0,
+      "startup_restored": true,
+      "copy_enabled": false,
+      "copy_restored": false,
+      "copy_builtin_only": false,
+      "physical_size": [
+        3440,
+        1369
+      ],
+      "fullscreen": false
+    },
+    "after": {
+      "early_init": 14.414819400000852,
+      "post_init": 22.697196500001155,
+      "disclaimer_dismiss": 27.29733910000141,
+      "promo_dismiss": 29.873591800000213,
+      "menu_frame": 33.45246990000123,
+      "game_version": "26.9.0e",
+      "engine_version": "8.5.3.26051504",
+      "renderer": {
+        "resizable": true,
+        "additive": true,
+        "renderer": "gl2",
+        "models": true,
+        "max_window_size": [
+          2379,
+          1338
+        ],
+        "gpu_vendor": "ATI Technologies Inc.",
+        "gpu_name": "AMD Radeon RX 7900 XTX",
+        "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+        "max_texture_size": 16384
+      },
+      "language": "russian",
+      "startup_enabled": true,
+      "verified_queries": 0,
+      "startup_restored": true,
+      "copy_enabled": false,
+      "copy_restored": false,
+      "copy_builtin_only": false,
+      "physical_size": [
+        3440,
+        1369
+      ],
+      "fullscreen": false
+    }
+  },
+  "packaging": {
+    "repack": {
+      "status": "passed",
+      "tested_archive_sha256": "518f87a6ca78c8127ebd7db69f8013d21b20485ef20f7dbc94020b9f8876b9ec",
+      "clean_archive_sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+      "executable_sha256": "68c4165c52c9dda4c028d5030a6cd28398ac2405e3056b335e14031f3c5843bf",
+      "executable_byte_identical": true,
+      "removed": [
+        "__pycache__/lssb_startup_copy.cpython-312.pyc"
+      ]
+    },
+    "rollback_of_rejected_container": {
+      "status": "passed",
+      "restored_sha256": "dd90f4e2a1ff2c9359450d3be45cc544602aafc5375a64ca131202238b5022c0",
+      "reason": "Unused __pycache__ payload caught by independent archive-member verification"
+    },
+    "builder_excludes_python_caches": true,
+    "regression_test": "tools/startup/test_build.py",
+    "explanation": "The unused __pycache__ entry was caught by independent member verification after the first installation. The old archive was restored. The final signed container has only the byte-identical tested startup executable; runtime and archive checks were repeated before the final installation."
+  },
+  "installed_readback": {
+    "status": "passed",
+    "installed_sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+    "version": "1.2.0-own",
+    "signature_verified": true,
+    "archive_members_verified": true,
+    "other_archives_unchanged": true,
+    "saves_unchanged": true,
+    "logs_unchanged": true
+  },
+  "tests": {
+    "repository_snapshot_files": 1863,
+    "manager": {
+      "run": 61,
+      "passed": 60,
+      "skipped": 1,
+      "skip_reason": "Windows symlink creation requires permission"
+    },
+    "startup": {
+      "run": 26,
+      "passed": 26
+    },
+    "copy_engine_experiment_checks": {
+      "status": "passed",
+      "checks": [
+        "cycles, aliases, independent rollback objects and clean snapshots",
+        "stateful reducer fallback",
+        "instance deepcopy hook",
+        "rollback log invalidated by a deepcopy hook",
+        "native dynamic append semantics during hook mutation",
+        "registered reducer fallback"
+      ]
+    }
+  },
+  "limits": [
+    "Windows local results for the recorded machine and current game/mod configuration.",
+    "Warm launch is the accepted performance result; generated-cache observations are single runs, not cold-disk claims.",
+    "No full story playthrough; equivalence covers every changed image-prefix query in this initialization.",
+    "Gameplay smoke is a functional check, not a performance cohort.",
+    "No OS/driver cache flush, reboot, or forced game termination."
+  ]
+}

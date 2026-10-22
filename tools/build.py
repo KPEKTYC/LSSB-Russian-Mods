@@ -59,6 +59,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--game-root", required=True, type=Path)
     parser.add_argument("--output", type=Path, default=ROOT / "build/own-mods")
+    parser.add_argument("--component", choices=("lssb_localization_ru", "lssb_visual_quality", "lssb_startup_fix"),
+                        help="Build one signed mod update for the existing manager; omit to build all four.")
     parser.add_argument("--signing-key", type=Path,
                         help="Private RSA release key outside the repository (official mod updates).")
     parser.add_argument("--unsigned-mods", "--unsigned-localization", dest="unsigned_mods", action="store_true",
@@ -79,9 +81,12 @@ def main():
     catalog = []
     manifests = {}
     for component, spec in specs.items():
+        if args.component and component != args.component:
+            continue
         project = output / component
         sources = ROOT / "mods" / component / "game"
-        shutil.copytree(sources, project / "game")
+        shutil.copytree(sources, project / "game",
+                        ignore=shutil.ignore_patterns("__pycache__", "*.pyc", "*.pyo"))
         if component == "lssb_mod_manager":
             (project / "game/zz_lssb_mod_manager.rpy").write_text(manager_source(catalog, spec["version"]), encoding="utf-8")
         environment = dict(os.environ, SDL_VIDEODRIVER="dummy", SDL_AUDIODRIVER="dummy",
@@ -92,7 +97,7 @@ def main():
                            creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))
         files = {}
         for source in sorted(sources.rglob("*")):
-            if not source.is_file():
+            if not source.is_file() or "__pycache__" in source.parts or source.suffix in {".pyc", ".pyo"}:
                 continue
             relative = source.relative_to(sources).as_posix()
             built = project / "game" / relative
@@ -123,7 +128,7 @@ def main():
         print(component, archive_hash, flush=True)
     (output / "dist/manifest.json").write_text(json.dumps(manifests, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     copy_license_documents(output / "dist")
-    print("Compiled all four mods. No files installed.")
+    print("Compiled selected mod(s). No files installed.")
 
 if __name__ == "__main__":
     main()

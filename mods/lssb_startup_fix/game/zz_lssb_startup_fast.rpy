@@ -1,4 +1,5 @@
-# LSSB Startup Fast 1.1.1. Native group execution, indexed candidate selection.
+# LSSB Startup Fast 1.2.0. Native group execution, indexed candidate selection.
+# Copyright (c) 2026 KPEKTYC. LSSB Noncommercial Attribution License 1.0.
 init 0 python in lssb_startup_fast:
     import renpy, hashlib, json, types, os
     import store
@@ -30,6 +31,8 @@ init 0 python in lssb_startup_fast:
             self._sorted_pairs = []
             self._bulk_count = 0
             self._observed_count = 0
+            self._tail_pairs = []
+            self._tail_count = 0
 
         def clear(self):
             """Release the registry and index, retaining the diagnostic counters."""
@@ -37,18 +40,22 @@ init 0 python in lssb_startup_fast:
             self._sorted_pairs = []
             self._bulk_count = 0
             self._observed_count = 0
+            self._tail_pairs = []
+            self._tail_count = 0
 
         def _rebuild(self, names):
             self._source = names
             self._sorted_pairs = sorted((name, index) for index, name in enumerate(names))
             self._bulk_count = len(names)
+            self._tail_pairs = []
+            self._tail_count = self._bulk_count
             self.rebuilds += 1
 
         def candidates(self, names, prefix):
             """Select matching names without losing duplicate registrations.
 
-            Most names live in a sorted bulk index. A small append-only tail is
-            scanned directly; growing beyond tail_limit triggers a fresh bulk sort.
+            Most names live in a sorted bulk index. The append-only tail is sorted
+            once when it grows and reused for queries until the next append.
             The result is an independent list, ordered by original registry index.
             """
             self.queries += 1
@@ -72,10 +79,16 @@ init 0 python in lssb_startup_fast:
                 matches.append((ordinal, name))
                 cursor += 1
 
-            for ordinal in range(self._bulk_count, count):
-                name = names[ordinal]
-                if name.startswith(prefix):
-                    matches.append((ordinal, name))
+            if self._tail_count != count:
+                self._tail_pairs = sorted((names[ordinal], ordinal) for ordinal in range(self._bulk_count, count))
+                self._tail_count = count
+            cursor = bisect_left(self._tail_pairs, (prefix, -1))
+            while cursor < len(self._tail_pairs):
+                name, ordinal = self._tail_pairs[cursor]
+                if not name.startswith(prefix):
+                    break
+                matches.append((ordinal, name))
+                cursor += 1
 
             matches.sort(key=lambda pair: pair[0])
             return [name for ordinal, name in matches]
