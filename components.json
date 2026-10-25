@@ -7,11 +7,11 @@
     "description": "Русский интерфейс, ветки персонажей, общие события, концерты, вступление, обучение и локации."
   },
   "lssb_visual_quality": {
-    "version": "1.5.2-own",
+    "version": "1.6.0-own",
     "archive": "zzzzz_lssb_visual_quality.rpa",
     "id": "visual_quality",
-    "name": "Карта и качество интерфейса",
-    "description": "Чёткая графика, удобный интерфейс и настройка плавности."
+    "name": "Фоны, карта и интерфейс",
+    "description": "Фоны высокого разрешения, чёткий интерфейс и настройка плавности."
   },
   "lssb_startup_fix": {
     "version": "1.2.0-own",
@@ -21,7 +21,7 @@
     "description": "Ускоряет подготовку изображений при запуске игры."
   },
   "lssb_mod_manager": {
-    "version": "1.4.0-own",
+    "version": "1.4.1-own",
     "archive": "zzzzzzzz_lssb_mod_manager.rpa"
   }
 }

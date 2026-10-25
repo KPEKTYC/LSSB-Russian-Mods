@@ -1,0 +1,4685 @@
+{
+  "schema": 1,
+  "version": "1.6.0-own",
+  "method": {
+    "executable_sha256": "07e49f7cbb4ede01ae4dd4c399d3a7e5846e3d2085c3128eff881e55cb7b1a0c",
+    "model_sha256": "713ee713b0353afaa27976f0563a64a5043bd70b9bd8936c2e26e25ebcdbcddf",
+    "model_param_sha256": "35330ececcea33b6c397a72548e788d5d53becee4734c50b7fada36e89f10a86",
+    "tile": 256,
+    "model_scale": 4,
+    "output_scale": 2,
+    "blend": 0.75,
+    "encoding": "lossless WebP or PNG; original alpha Lanczos2"
+  },
+  "images": [
+    {
+      "source": "bg/alettaoffice/alettaoffice_day.webp",
+      "source_sha256": "be1a1909e940bd38a015047a2492060e423d67079c3569f680eed5d3594cad70",
+      "output": "bg/alettaoffice/alettaoffice_day@2.webp",
+      "sha256": "170e0a2768a6a6695b5ee9bc83ed7bcdd0c74d8c93ce32301b885a5301b3d3f0",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.863508999998885
+    },
+    {
+      "source": "bg/alettaoffice/alettaoffice_night.webp",
+      "source_sha256": "088f8d54eeab38f1a6ed36a852cacc1a58888aee62d88482749e0f13225934f6",
+      "output": "bg/alettaoffice/alettaoffice_night@2.webp",
+      "sha256": "9bab0ca3ce7905aec5014377775f7c59a9fc92df81fc87ede815a3a1f0dcee44",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.993835199999012
+    },
+    {
+      "source": "bg/alley/alley_season_day_fall.webp",
+      "source_sha256": "346e7cc2503c35380026ea9e5fe0875dfad171a6f0e61b531b6b7a639d49bb56",
+      "output": "bg/alley/alley_season_day_fall@2.webp",
+      "sha256": "945d9c00f1ce14910d77dbcd543d95ea7210d7462f8a1723b6678d195cfab863",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.51790709999841
+    },
+    {
+      "source": "bg/alley/alley_season_day_spring.webp",
+      "source_sha256": "bbd51b1da8c9c63fd0dbe8d8235795e193c6182e1c672f44183f9b2711bc194c",
+      "output": "bg/alley/alley_season_day_spring@2.webp",
+      "sha256": "903ce543f536380868f6c9e28937fd797badf16bb47e3e08e85ab2469f5544e5",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.62563279999813
+    },
+    {
+      "source": "bg/alley/alley_season_day_summer.webp",
+      "source_sha256": "34cf344f98d1da481237fa6139c171e09b035fe35e22ecc1d74dd6c3e18079bc",
+      "output": "bg/alley/alley_season_day_summer@2.webp",
+      "sha256": "31d593e7ec2f6decc567877ec2f9c33292bd1a90bbd1a6c696212f24d43708fa",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.474207100000058
+    },
+    {
+      "source": "bg/alley/alley_season_day_winter.webp",
+      "source_sha256": "488230c0b1531619258724f66e5dfe2cd3bf654abb1b7fc965159320b2a8dc81",
+      "output": "bg/alley/alley_season_day_winter@2.webp",
+      "sha256": "589e31f1f02a6ba54df7c3a038671079e5333f4c38708e998a11f815d07e56a2",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.184309500000381
+    },
+    {
+      "source": "bg/alley/alley_season_night_fall.webp",
+      "source_sha256": "042480091a1d0c1eb2cdd3870cf7b5a8d38e607eaba189ec8a1427fd3222bca7",
+      "output": "bg/alley/alley_season_night_fall@2.webp",
+      "sha256": "97887a740bc7660ba54fe3df39df480d1695e41755ddd051ce495caa589b2ff7",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.190472999998747
+    },
+    {
+      "source": "bg/alley/alley_season_night_spring.webp",
+      "source_sha256": "ee7fb82f70eec1a6c9167ef9fdf68d22d20ccc2ef6e8bb890d8e703b74750bff",
+      "output": "bg/alley/alley_season_night_spring@2.webp",
+      "sha256": "7fe2569330ffe638e4fc1707be043aa28f4507162e0637b9392c4a6c7cf97941",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 13.111478299997543
+    },
+    {
+      "source": "bg/alley/alley_season_night_summer.webp",
+      "source_sha256": "af27ad39a1be8393c6fde32b40b2eeae025cd5645d3fc95427e5cf855e5dd225",
+      "output": "bg/alley/alley_season_night_summer@2.webp",
+      "sha256": "97720ce935eeb6db10abc0fdc52bb54dd1756e256ade6948417ce55315e3c406",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.672395300000062
+    },
+    {
+      "source": "bg/alley/alley_season_night_winter.webp",
+      "source_sha256": "faf0f50de5aae2d01973336273f547a2360fa471645cafb97da78b3f4e58cdbf",
+      "output": "bg/alley/alley_season_night_winter@2.webp",
+      "sha256": "1f1f80e32a3c137f696da38b0b2849a3a85df08086b13107906d2df2be1af3a1",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.098524799999723
+    },
+    {
+      "source": "bg/animalshelter/animalshelter.webp",
+      "source_sha256": "2d1af76dc2acb8edf2dc7f3a26f97056c0811d9881fedb9c116094cd169b568f",
+      "output": "bg/animalshelter/animalshelter@2.webp",
+      "sha256": "3b088b9526e6168292fa46400a9f7cec4c75b2f7517591c44dc193899b556a3c",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.555394799997885
+    },
+    {
+      "source": "bg/aquarium/aquarium.webp",
+      "source_sha256": "530a75ae44a5a999105ffdae876addfdac526e6d1a6d98e9cf16601cd93e3e5c",
+      "output": "bg/aquarium/aquarium@2.webp",
+      "sha256": "ab70885c9df4feb5eb1fcec08c0e8aee16dca060098228bd3e7e53bf9c1112db",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.583592999999382
+    },
+    {
+      "source": "bg/arcade/arcade.webp",
+      "source_sha256": "8ce142c20bcf1a181ec4c0b5d4bc309cbe4cfa23ced6b611956ef918868abff8",
+      "output": "bg/arcade/arcade@2.webp",
+      "sha256": "9e58eaf02fabad05f05194e1f8f926a46843e2a980c41eea433e35d9bec14c77",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.059483400000317
+    },
+    {
+      "source": "bg/arena/arena.webp",
+      "source_sha256": "d57ec7ee62558962819ed72e7e7c62dee3ec6c660ff421dc984ff04777803e16",
+      "output": "bg/arena/arena@2.webp",
+      "sha256": "5b15acc018bf6f7cbbb7b115ee003dd7ee1169b104cba37cd324a16e4cc9c12d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.296270900002128
+    },
+    {
+      "source": "bg/audreybedroom/audreybedroom_day.webp",
+      "source_sha256": "2fd2e2a2d2d7c1dcd5ab11a7c9a18ea142c9e330abec4f7bf3bb0b76016d32ac",
+      "output": "bg/audreybedroom/audreybedroom_day@2.webp",
+      "sha256": "f008b61e2ae13946e6609cb32c4c9c7158ea937830987506fbe1ee20ac0d821d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.599413500000082
+    },
+    {
+      "source": "bg/audreybedroom/audreybedroom_night.webp",
+      "source_sha256": "9b0e15718f57a9b4c07e6108947c1b2375ef4a478094f2a8e4b74870ab75c876",
+      "output": "bg/audreybedroom/audreybedroom_night@2.webp",
+      "sha256": "69c912010172ccea662840ae8a90261d2085c6e32ac7487d983da14f6433c1a3",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.734636199998931
+    },
+    {
+      "source": "bg/audreylivingroom/audreylivingroom_day.webp",
+      "source_sha256": "a2a8c353dc7138868ecc4b95bb82f9a640ef9224805b5e6253f1a7920b770919",
+      "output": "bg/audreylivingroom/audreylivingroom_day@2.webp",
+      "sha256": "b3846fb4d81e3100d9d534773e4816aef903def45ff4a568b3e59ea0427e7f86",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.106590600000345
+    },
+    {
+      "source": "bg/audreylivingroom/audreylivingroom_night.webp",
+      "source_sha256": "be24cd5c1bd986943a7c1a796d5fc168cbe9f081dd599e030b0d5708aee189b9",
+      "output": "bg/audreylivingroom/audreylivingroom_night@2.webp",
+      "sha256": "36e5d7aa0af6cfd4e6adf339cee818d220722f25050084e7c00e7e7f8d40e0d2",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.694332200000645
+    },
+    {
+      "source": "bg/bakery/bakery.webp",
+      "source_sha256": "43e862a5a0d88bff2f06898e87c9500670f040a9b89b1c179a1b5048008f93ea",
+      "output": "bg/bakery/bakery@2.webp",
+      "sha256": "c0ff5191235a53aa2ec99014e2d3bef03dc0623eec6e4d455d1c7526706c0652",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.300492300000769
+    },
+    {
+      "source": "bg/balcony/balcony_day.webp",
+      "source_sha256": "c4a287e11a7154e424413912441e34d38c55559f3984d689b635d924bcead77b",
+      "output": "bg/balcony/balcony_day@2.webp",
+      "sha256": "97e4818bcc676071e2dec3947fca878111a9cd5c73fc9f751bd82573084dc996",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.752920599999925
+    },
+    {
+      "source": "bg/balcony/balcony_night.webp",
+      "source_sha256": "c9841f5b74788c68bdb17fbf24f1aab20245ef89c7ae6625d00476d8da6c6efd",
+      "output": "bg/balcony/balcony_night@2.webp",
+      "sha256": "2b555d3f26f00bbb28fa7387abf0c7aaba2c0a052bd9e846264be06b49a9f0d8",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.546970899998996
+    },
+    {
+      "source": "bg/bathroom/bathroom_day.webp",
+      "source_sha256": "8e3529a2fdb6e5552f9afa97d4d871339ac43026daca67e09465c1d60f5b67be",
+      "output": "bg/bathroom/bathroom_day@2.webp",
+      "sha256": "3730b49bd12465d6248c52d023955800dd3d3b52e8d105bbf693befb3d8c3130",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.184325300000637
+    },
+    {
+      "source": "bg/bathroom/bathroom_night.webp",
+      "source_sha256": "5e14e72f0cc91116e22a669cbaf19afec7e5471c1b920ab6d03ec040b639b306",
+      "output": "bg/bathroom/bathroom_night@2.webp",
+      "sha256": "d4922826a38337978569d1e95993a1904aaa29878616b67762db12d0c3910247",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.27281149999908
+    },
+    {
+      "source": "bg/beach/beach_day.webp",
+      "source_sha256": "5ec2ae3b5e27c1f1d719d0826fd118b13545108bea36e16bc19c238c9019eab9",
+      "output": "bg/beach/beach_day@2.webp",
+      "sha256": "64e575327e4a93adf71e0c539996379ae62c60544c4f8b02b06a2413625ca3b0",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.788298899999063
+    },
+    {
+      "source": "bg/beach/beach_night.webp",
+      "source_sha256": "8f4f4347023e8ad1c37095d5aec5c4d5bf3f629bc6c5b6a9a073a99850a5cdbe",
+      "output": "bg/beach/beach_night@2.webp",
+      "sha256": "8e42645b4b6a73e83396c4ce11bd4129382e45f68644923da8a82884fafdac3b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/beach/nudistbeach_day.webp",
+      "source_sha256": "5ec2ae3b5e27c1f1d719d0826fd118b13545108bea36e16bc19c238c9019eab9",
+      "output": "bg/beach/nudistbeach_day@2.webp",
+      "sha256": "64e575327e4a93adf71e0c539996379ae62c60544c4f8b02b06a2413625ca3b0",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/beach/nudistbeach_night.webp",
+      "source_sha256": "8f4f4347023e8ad1c37095d5aec5c4d5bf3f629bc6c5b6a9a073a99850a5cdbe",
+      "output": "bg/beach/nudistbeach_night@2.webp",
+      "sha256": "8e42645b4b6a73e83396c4ce11bd4129382e45f68644923da8a82884fafdac3b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.717400499997893
+    },
+    {
+      "source": "bg/bedroom1/bedroom1_day.webp",
+      "source_sha256": "e7ebe07fac7bb781fe8fcb5b244e748a3ae3b07bc969f561fa1085407c822104",
+      "output": "bg/bedroom1/bedroom1_day@2.webp",
+      "sha256": "b15ffee1be4c0bee34041fe003055f7aa188f2feec6cb9e66e9193fb263e493d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.58685609999884
+    },
+    {
+      "source": "bg/bedroom1/bedroom1_night.webp",
+      "source_sha256": "961bf7af8d7ee51d314206de58a2ffe241c9e4c919427c72aab05d2bbecc40c6",
+      "output": "bg/bedroom1/bedroom1_night@2.webp",
+      "sha256": "e8c15f6c74071df60f443e2ebd97deb2a6cf2897748fef6433a043fd9ac9a67d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.405289399997855
+    },
+    {
+      "source": "bg/bedroom2/bedroom2_day.webp",
+      "source_sha256": "dfe87fa04de34bb1619dbb387283bcb9a71ca4e8386f630a52d179ff353e4acf",
+      "output": "bg/bedroom2/bedroom2_day@2.webp",
+      "sha256": "7a863e54f574416b65ca664b198929b7ead8add51a52c1b58fac1c4b84143c90",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.276197300001513
+    },
+    {
+      "source": "bg/bedroom2/bedroom2_night.webp",
+      "source_sha256": "491e22f5a3e985cb2e39a61cac93bb50a323145e0a80df0b241fb39691a988dc",
+      "output": "bg/bedroom2/bedroom2_night@2.webp",
+      "sha256": "09c55c22c1a23bfb49525ef1bf6239444a501d6e210ae69c0f9e57bfb33dd0e8",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.574389400000655
+    },
+    {
+      "source": "bg/bedroom3/bedroom3_day.webp",
+      "source_sha256": "4bf1f99bf63803aa68a267906d212d7220edd32073fdc8f413b405c21d484c52",
+      "output": "bg/bedroom3/bedroom3_day@2.webp",
+      "sha256": "8cb4de49a1995e5ca3b542ffbcb9127d329f2c7ba4a6f3ccf537c6f906c095b9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.781856400000834
+    },
+    {
+      "source": "bg/bedroom3/bedroom3_night.webp",
+      "source_sha256": "eba6638bacb50d1490d498350ab8f55dc3e02f6345622562dd6be4e8456b8c4f",
+      "output": "bg/bedroom3/bedroom3_night@2.webp",
+      "sha256": "fb4a59949565baf4b33365568b5529b21abc8a45d7e099769ae8cd3f9be51aea",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.974482300000091
+    },
+    {
+      "source": "bg/bedroom5/attic_day.webp",
+      "source_sha256": "398c64c86b900603b11ace552268eb2fb65acb8ac4ab03d250cf0e577b2482c2",
+      "output": "bg/bedroom5/attic_day@2.webp",
+      "sha256": "2815d5ee60c92d1ece02462b52aaef5762b0c668fbeae876c63e14ae02ba1220",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.777680399998644
+    },
+    {
+      "source": "bg/bedroom5/attic_night.webp",
+      "source_sha256": "63ef18cc08ca9bd381e34dfb59fdc0a009ab666c2485c453c45839b642ce23a4",
+      "output": "bg/bedroom5/attic_night@2.webp",
+      "sha256": "d8cda4e8ded307106c6c7d87dfb1b01bf8715bd94ad9dab7598c94ded0c02e35",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.630289299999276
+    },
+    {
+      "source": "bg/bedroom5/bedroom5_day.webp",
+      "source_sha256": "053fb307dd5eed9d4db68fb401bcb2146dad3a9ff184fdac5c7f2ef19e0a25c8",
+      "output": "bg/bedroom5/bedroom5_day@2.webp",
+      "sha256": "aadc71516f2117bdd5028a6eea3edea6d2fc572e5935b15479efd392f0346161",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.828872799997043
+    },
+    {
+      "source": "bg/bedroom5/bedroom5_night.webp",
+      "source_sha256": "b2c8714ce564934c211de255835a15c9c218f31e337724141b32276dfda02b64",
+      "output": "bg/bedroom5/bedroom5_night@2.webp",
+      "sha256": "06ee959541ec650db7dd1783f66f2a86d38a61b41239acfabcd8f1d4e645180d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.487678699999378
+    },
+    {
+      "source": "bg/black.webp",
+      "source_sha256": "098804881b7dbb060cb1badc142cea87f2d8cc561dcaa66a3262c4f1e558c086",
+      "output": "bg/black@2.webp",
+      "sha256": "1d9bdcfec929f8d13e946f0036af8129a6ab5bf0361005524353d47353e7da83",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "lanczos-mask",
+      "seconds": 0.11249390000011772
+    },
+    {
+      "source": "bg/blank.webp",
+      "source_sha256": "99cd06f42f3a21c30f6f4348fa647ca681efa95b4a5fd16f159436fea7a8ff14",
+      "output": "bg/blank@2.webp",
+      "sha256": "9bc3d498289a205afc07b8686496d10b2f74587670ea291c728527bb209d045a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "lanczos-mask",
+      "seconds": 0.08121630000096047
+    },
+    {
+      "source": "bg/bookstore/bookstore.webp",
+      "source_sha256": "fefe3e633ad2cfcf3853019c2af61ade09ac1d88c6206d5c45d70bedbace140b",
+      "output": "bg/bookstore/bookstore@2.webp",
+      "sha256": "5376231129f356e779329e909aabcbec6cacddb32c6e2b22495dd4504aa0201e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.190112500000396
+    },
+    {
+      "source": "bg/breakroom/breakroom_day.webp",
+      "source_sha256": "5636a2ea1f4500a9a6576fde8dd282e25c7784554d6b03121e88e3d37c3a7c57",
+      "output": "bg/breakroom/breakroom_day@2.webp",
+      "sha256": "8fd369aba36d292c34b5eb34b0ab9c07be6d16aa561a091d62ca71897431c073",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.833039799999824
+    },
+    {
+      "source": "bg/breakroom/breakroom_night.webp",
+      "source_sha256": "5d5f4d096d545dbe1614e864c63116034ef20160a92e90467e3d092567f8e4d1",
+      "output": "bg/breakroom/breakroom_night@2.webp",
+      "sha256": "9b2a4ce0f0c27325ce107e811bea3c688440c667d0e75a1ba2ba7b03add8a4be",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.656374199999846
+    },
+    {
+      "source": "bg/car/car_inside_bg_day.webp",
+      "source_sha256": "a5aa8156c0ab07a52ba4afdf9b5f94ace1331997db84439139c84ba8bdeaac93",
+      "output": "bg/car/car_inside_bg_day@2.webp",
+      "sha256": "c82d3babaad5c3b5c813265a477ccb7af2b280a21630ac539e8a1cb2e8dd942d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.354595700002392
+    },
+    {
+      "source": "bg/car/car_inside_bg_night.webp",
+      "source_sha256": "104fcf5a461a6cfc0e0e735cfb9440f3c037ea7fae7d4df7e876514bb30bfa3d",
+      "output": "bg/car/car_inside_bg_night@2.webp",
+      "sha256": "e1c6c5bb264bedb50e675c1b69c6092ba825a5f1f2e4edac020cadb9ad7b8039",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.582360899999912
+    },
+    {
+      "source": "bg/car/car_inside_sit.webp",
+      "source_sha256": "b162983c00c407cffa79d9ae59173c6399c8acc5948d613ebd471caa1612e597",
+      "output": "bg/car/car_inside_sit@2.webp",
+      "sha256": "54bada84b3c15ee64228936289ce8911bdd954454a345c53e656d47551086cb9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.909039400001348
+    },
+    {
+      "source": "bg/car/car_inside_window.webp",
+      "source_sha256": "b568b4fb2d9a6ec1eec18d101db91c04dd8614499d68c8d0ba6f936f2cdb8df9",
+      "output": "bg/car/car_inside_window@2.webp",
+      "sha256": "e83a4b5916cf228c0c70cba05b8e044be5a3150aa86f119229df92485337fc30",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.627987500000017
+    },
+    {
+      "source": "bg/cemetery/cemetery.webp",
+      "source_sha256": "09fdfedde71ff71472b6b9e2cea71468bc6e4cf79c80bcf67ac43d389dfc66b1",
+      "output": "bg/cemetery/cemetery@2.webp",
+      "sha256": "b06a8459d857b99591dc7e8f8bfcc730a6f1790ffb997c109759abf6ab6eda3e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 12.021426899998914
+    },
+    {
+      "source": "bg/ceo/ceo.webp",
+      "source_sha256": "2d1c4e4d8f984f232beed0914e7f491711e322c2c20d93354ac26e02d1d01962",
+      "output": "bg/ceo/ceo@2.webp",
+      "sha256": "4131a6fe9c5674e88b620de9d30868daba080d45cf9815839ba35294c8df8844",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.417640699997719
+    },
+    {
+      "source": "bg/church/church.webp",
+      "source_sha256": "76d49c86d96be27b83abd5bafbf96aab1fb3ac35167167fd5a1b895dcd84bbd8",
+      "output": "bg/church/church@2.webp",
+      "sha256": "aeb857f7235d28b5c21facad4ae55c76a949beae0d9b8902c62cae22af08e2cc",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.209432899999229
+    },
+    {
+      "source": "bg/church/church_wedding.webp",
+      "source_sha256": "f70f036524939192edb776912dad9eadcf1a66fa912edc5525ac484071733f05",
+      "output": "bg/church/church_wedding@2.webp",
+      "sha256": "164109a8d5fc3bdedb29d4800317c5aefe7bad77113e019600d58aa3f3b6cca6",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.485870800002886
+    },
+    {
+      "source": "bg/cinema/cinema_season_day_fall.webp",
+      "source_sha256": "239fc5e0512d2d0ee9b5b6357c815f8b36ef9aba0790d8309e726322f8f7ee85",
+      "output": "bg/cinema/cinema_season_day_fall@2.webp",
+      "sha256": "3031bc0f87eeb09c2e898fbff7109780ac6e6caec1406579cc6efe32566d1080",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/cinema/cinema_season_day_spring.webp",
+      "source_sha256": "dc264ba5bf66bd8b8fbe20f437e1faf00d9b363e93c60d36984f71dadbd6efcd",
+      "output": "bg/cinema/cinema_season_day_spring@2.webp",
+      "sha256": "4ffd99a07d494846989c80c7cbdeb173fbad4c4c48d825a6b2fada3c27160a4b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.040240999998787
+    },
+    {
+      "source": "bg/cinema/cinema_season_day_summer.webp",
+      "source_sha256": "6217d06d3b9970d264d370136fc044a9447460f68ac7803419412bafd639cd1f",
+      "output": "bg/cinema/cinema_season_day_summer@2.webp",
+      "sha256": "26f4ad34b2334bda532bfcba12eb29e97ae2340137f5d1457b82857ad2bfa651",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.536288700001023
+    },
+    {
+      "source": "bg/cinema/cinema_season_day_winter.webp",
+      "source_sha256": "3e6ff464658328d0fda5db0e3f9f1add6fef2fb91c1d3b4af89d5299cbda77f3",
+      "output": "bg/cinema/cinema_season_day_winter@2.webp",
+      "sha256": "8a6d211c0466cf13e4097bf91c5234630269e4353811ae1204dfb2514209c369",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/cinema/cinema_season_night_fall.webp",
+      "source_sha256": "508437dc5fb04774002cc343b687f3febd5fa9df4e9059abd4fcdd8ac32862ad",
+      "output": "bg/cinema/cinema_season_night_fall@2.webp",
+      "sha256": "16e5077825b2ece9349be99e4d662e590cc258cf1a7623ce83176037a48e7645",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/cinema/cinema_season_night_spring.webp",
+      "source_sha256": "b6a1a768e7b3af5cc04269bb753d12d9e860f994aee8513c8c40dbde68a5e481",
+      "output": "bg/cinema/cinema_season_night_spring@2.webp",
+      "sha256": "21ee7ea2fe181bf97a60b76cc7d74ce9f338190c5b03b5e19303c23578cfa03b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/cinema/cinema_season_night_summer.webp",
+      "source_sha256": "1f82418081e517ee2bac729c556325a2ea39fe877db4bb2f49b16d150503c0ab",
+      "output": "bg/cinema/cinema_season_night_summer@2.webp",
+      "sha256": "1a28326d10a4738f8ebf2a9d7b4e6d30f0345b0e9dbe436c86af684063a437aa",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.255273800001305
+    },
+    {
+      "source": "bg/cinema/cinema_season_night_winter.webp",
+      "source_sha256": "190b3e2eb535f538565cf43d6db3072cb7ab28dcfbfd730937c87d529e1c5d0d",
+      "output": "bg/cinema/cinema_season_night_winter@2.webp",
+      "sha256": "eaed1ebc3b28384b441ac6832ca8c7aaafd10ab203f6290cd72a936a8739fc48",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.304392300000472
+    },
+    {
+      "source": "bg/cinema/date_cinema_season_day_fall.webp",
+      "source_sha256": "239fc5e0512d2d0ee9b5b6357c815f8b36ef9aba0790d8309e726322f8f7ee85",
+      "output": "bg/cinema/date_cinema_season_day_fall@2.webp",
+      "sha256": "3031bc0f87eeb09c2e898fbff7109780ac6e6caec1406579cc6efe32566d1080",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.966859600001044
+    },
+    {
+      "source": "bg/cinema/date_cinema_season_day_spring.webp",
+      "source_sha256": "dc264ba5bf66bd8b8fbe20f437e1faf00d9b363e93c60d36984f71dadbd6efcd",
+      "output": "bg/cinema/date_cinema_season_day_spring@2.webp",
+      "sha256": "4ffd99a07d494846989c80c7cbdeb173fbad4c4c48d825a6b2fada3c27160a4b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/cinema/date_cinema_season_day_summer.webp",
+      "source_sha256": "6217d06d3b9970d264d370136fc044a9447460f68ac7803419412bafd639cd1f",
+      "output": "bg/cinema/date_cinema_season_day_summer@2.webp",
+      "sha256": "26f4ad34b2334bda532bfcba12eb29e97ae2340137f5d1457b82857ad2bfa651",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/cinema/date_cinema_season_day_winter.webp",
+      "source_sha256": "3e6ff464658328d0fda5db0e3f9f1add6fef2fb91c1d3b4af89d5299cbda77f3",
+      "output": "bg/cinema/date_cinema_season_day_winter@2.webp",
+      "sha256": "8a6d211c0466cf13e4097bf91c5234630269e4353811ae1204dfb2514209c369",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.690170499998203
+    },
+    {
+      "source": "bg/cinema/date_cinema_season_night_fall.webp",
+      "source_sha256": "508437dc5fb04774002cc343b687f3febd5fa9df4e9059abd4fcdd8ac32862ad",
+      "output": "bg/cinema/date_cinema_season_night_fall@2.webp",
+      "sha256": "16e5077825b2ece9349be99e4d662e590cc258cf1a7623ce83176037a48e7645",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.264675599999464
+    },
+    {
+      "source": "bg/cinema/date_cinema_season_night_spring.webp",
+      "source_sha256": "b6a1a768e7b3af5cc04269bb753d12d9e860f994aee8513c8c40dbde68a5e481",
+      "output": "bg/cinema/date_cinema_season_night_spring@2.webp",
+      "sha256": "21ee7ea2fe181bf97a60b76cc7d74ce9f338190c5b03b5e19303c23578cfa03b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.829180799999449
+    },
+    {
+      "source": "bg/cinema/date_cinema_season_night_summer.webp",
+      "source_sha256": "1f82418081e517ee2bac729c556325a2ea39fe877db4bb2f49b16d150503c0ab",
+      "output": "bg/cinema/date_cinema_season_night_summer@2.webp",
+      "sha256": "1a28326d10a4738f8ebf2a9d7b4e6d30f0345b0e9dbe436c86af684063a437aa",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/cinema/date_cinema_season_night_winter.webp",
+      "source_sha256": "190b3e2eb535f538565cf43d6db3072cb7ab28dcfbfd730937c87d529e1c5d0d",
+      "output": "bg/cinema/date_cinema_season_night_winter@2.webp",
+      "sha256": "eaed1ebc3b28384b441ac6832ca8c7aaafd10ab203f6290cd72a936a8739fc48",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/cinemaroom/cinemaroom.webp",
+      "source_sha256": "fdb0e5b2bba3c551ae6a04323ce91ded9320cef046f5231f975e7e0e650c8f24",
+      "output": "bg/cinemaroom/cinemaroom@2.webp",
+      "sha256": "8864f67a85636658d2a675a3b805495b63827bf72f77edda6ce8b231ee623493",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.305546299998241
+    },
+    {
+      "source": "bg/classroom/classroom.webp",
+      "source_sha256": "60f8d27de9e2744db52312790c7a9d00011a7cc68a45763a9e1d56bb491095d7",
+      "output": "bg/classroom/classroom@2.webp",
+      "sha256": "46521f4ec9a1317ec91f4e45965c0243a19fab0d99f97d26e3cc108d83d0a651",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.991678899998078
+    },
+    {
+      "source": "bg/clothesshop/clothesshop.webp",
+      "source_sha256": "411bfec83268e19472302eb342c8226612aa8baa61b5f257887e55746fb916e4",
+      "output": "bg/clothesshop/clothesshop@2.webp",
+      "sha256": "18ec27d6d3c06cb490e31a4ebe494f9a8376bb1e18cc711155f0c7ab03b9c322",
+      "size": [
+        2556,
+        1438
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.87007900000026
+    },
+    {
+      "source": "bg/coffeeshop/coffeeshop.webp",
+      "source_sha256": "4575774775df0539cce9c1132d7ace94e6091e49085e512440179ea47b1d15e9",
+      "output": "bg/coffeeshop/coffeeshop@2.webp",
+      "sha256": "e900c2227b24a4dc5e38878c0766fcad770cf4b32f84a785d2acccafbfcc9a90",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.890579399998387
+    },
+    {
+      "source": "bg/communitycenter/communitycenter.webp",
+      "source_sha256": "5cb3b5624f09e11ba8b37ff361b7708822342e8e1715e46f7ab385a363e301fe",
+      "output": "bg/communitycenter/communitycenter@2.webp",
+      "sha256": "4550dca5c05656a811835b1d97c495e0feeeaf95d22984b674d74319e71fb45e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.055801000002248
+    },
+    {
+      "source": "bg/communitycenter/communitycenter_empty.webp",
+      "source_sha256": "0f42b57524d397082033a6a2304bd29d012cd705ead5230750bf03e1e80eaa2c",
+      "output": "bg/communitycenter/communitycenter_empty@2.webp",
+      "sha256": "c7a8e4daf4035746537193c8c05154c6174bb278687250226650e507f304cd88",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.238835299998755
+    },
+    {
+      "source": "bg/concert/bg_concert_attendance_empty.webp",
+      "source_sha256": "0fe68a3ea8f9ed8f6076629882c19ef7685a695274a0750b86091314dfef465a",
+      "output": "bg/concert/bg_concert_attendance_empty@2.webp",
+      "sha256": "b4225097cd72680da804de8fafe4d1566eb8cf012cb5da164f0cad4a137d8e1d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.481798799999524
+    },
+    {
+      "source": "bg/concert/bg_concert_attendance_full.webp",
+      "source_sha256": "a9f9aa6104842c169adcfb3f803a8a13690f6aa8e24b65982786f155acc35baa",
+      "output": "bg/concert/bg_concert_attendance_full@2.webp",
+      "sha256": "a30bd40742e23366f0f1ea3eb552b4dd087f87b23914aed63af63d3c5e543119",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.39520099999936
+    },
+    {
+      "source": "bg/concert/bg_concert_band_adhd.webp",
+      "source_sha256": "baeb5bd98a3068635125991b5b073ae04b00d687982aca9a819256b21cb9d54a",
+      "output": "bg/concert/bg_concert_band_adhd@2.webp",
+      "sha256": "77a53f77e09b9b03d90c791d944132426e90791cc8a0d0f4af9fec19ef317201",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.042080500003067
+    },
+    {
+      "source": "bg/concert/bg_concert_band_deathless.webp",
+      "source_sha256": "bd798a179d3755cebe4ce797362c732da44a28eafce0568d787e58dd49231d0e",
+      "output": "bg/concert/bg_concert_band_deathless@2.webp",
+      "sha256": "5433ece955b04ca15abeceb84a3cd27f1a7b11f7ba4f5768acb61eebd8c8552e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.187063000001217
+    },
+    {
+      "source": "bg/concert/bg_concert_band_disturbing.webp",
+      "source_sha256": "32fe3fbad9502712a92ae2196e44fb650c98b850168facc82e5808cff78dcac6",
+      "output": "bg/concert/bg_concert_band_disturbing@2.webp",
+      "sha256": "1365ddcdcef35b6a0cfad37715878b91c80ae2c77a22a259259a0ed4321e5b07",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.694243699999788
+    },
+    {
+      "source": "bg/concert/bg_concert_band_megadeaf.webp",
+      "source_sha256": "9545832fb8f8dea357699907237cae84572608e6c706a77bd0b0bb93c4c039bd",
+      "output": "bg/concert/bg_concert_band_megadeaf@2.webp",
+      "sha256": "0e03f45ea971bde1e984eb02a452f55b30ec71113c77e75313cde0a55c206f2f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.62730780000129
+    },
+    {
+      "source": "bg/concert/bg_concert_band_metalikea.webp",
+      "source_sha256": "77f1d7b9f520f9ab430e7f9d09c8c5c21523c7066d886056e845c4c07e255c3a",
+      "output": "bg/concert/bg_concert_band_metalikea@2.webp",
+      "sha256": "78f4b00eebd95e41e6a699f285844627d210724a2cee341278b2e69cd3f100f9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.845395299998927
+    },
+    {
+      "source": "bg/dd_entrance.webp",
+      "source_sha256": "7d7b0b69d55be6ae6fbbb19547479a9582fcf13a7da9732f45dbac3f63437285",
+      "output": "bg/dd_entrance@2.webp",
+      "sha256": "9e449ec686fd5b067747b83cb7edcb6dd60a731d9237c86605568071b4d39e9d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.415630999999848
+    },
+    {
+      "source": "bg/dd_ride.webp",
+      "source_sha256": "fa6b2346e825f887cc43d061f6f04b0304fa7d8a3eb02643ec09c6c3637defc2",
+      "output": "bg/dd_ride@2.webp",
+      "sha256": "4fb9aaf714c2447930cf003f9fe65d2578309617bb35e98e601c3bb0697a5dd2",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.990328800002317
+    },
+    {
+      "source": "bg/doors/bg_door_black_secure.webp",
+      "source_sha256": "4ec9a90b71c96f5bb0a8a08269897c40d3f5f67e5ca2afa911e408c88c4d8891",
+      "output": "bg/doors/bg_door_black_secure@2.webp",
+      "sha256": "0f2017e81c2273860727c3af3f0eaadfdbe77397d6f981501e64d305752ebf4a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.34642950000125
+    },
+    {
+      "source": "bg/doors/bg_door_black_simple.webp",
+      "source_sha256": "5da437a3311f70d7f6ca91a5d9b62c260167d1ea715037a732d92cc9dec8f1d9",
+      "output": "bg/doors/bg_door_black_simple@2.webp",
+      "sha256": "7e47cd942238c5efca5a4983d6aecc5c7f7353024cd9e325b6ef6781454467a4",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.165769900002488
+    },
+    {
+      "source": "bg/doors/bg_door_double.webp",
+      "source_sha256": "54fbecc72a8237fb91ed59d1af0f8eacec0ce5e9d791b59880ae58fd33c90e63",
+      "output": "bg/doors/bg_door_double@2.webp",
+      "sha256": "6ad4d8f73c38ec4e2b1481dd0d475d79aaf39c808fcedf59a8cb5c06b412889b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.460949100001017
+    },
+    {
+      "source": "bg/doors/bg_door_fancy.webp",
+      "source_sha256": "7f702d7ef09de6189f05de759a6e52bc0c8a2a99396efae92cb3f7ed64ee0568",
+      "output": "bg/doors/bg_door_fancy@2.webp",
+      "sha256": "92ef988bd7a2818ddf36d423570b787194905ac21f882ec5c0ce8cb17ee8502f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.325327400001697
+    },
+    {
+      "source": "bg/doors/bg_door_hallway.webp",
+      "source_sha256": "d238243678b713e12b398aaa2248f98734673f519c98d1287c6b841e6ee3ca57",
+      "output": "bg/doors/bg_door_hallway@2.webp",
+      "sha256": "2ba969d161824dabb3914a1f98d66470c3cefa56d30a7efd1696f57a28aaab83",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.276572900002066
+    },
+    {
+      "source": "bg/doors/bg_door_house_bathroom.webp",
+      "source_sha256": "c60f2134ad884610358668fa2d5418c58079c14ef4c752d0254c8e5c8c4d65b6",
+      "output": "bg/doors/bg_door_house_bathroom@2.webp",
+      "sha256": "9afae227293bb106272b9ee8cabcfecd1438c50a05ca77d5b063049411a7c09c",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.4442880999995396
+    },
+    {
+      "source": "bg/doors/bg_door_house_bedroom2.webp",
+      "source_sha256": "4d5e104658a6afd0abb3a825810b3e4e325d99534fc638501dca817f6fb42abe",
+      "output": "bg/doors/bg_door_house_bedroom2@2.webp",
+      "sha256": "c44d7c415b5291a19b1878a2a7f980fb905b216e4844fe6ae2dff4776eb59ec8",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.473230600000534
+    },
+    {
+      "source": "bg/doors/bg_door_house_bedroom3.webp",
+      "source_sha256": "140b1fb5545376721340cc000bae7b675ac666654871557152099c6806b47b42",
+      "output": "bg/doors/bg_door_house_bedroom3@2.webp",
+      "sha256": "563cc8b653820c03b255fe0138ca55d540b5dc9e5c2439c3afd5a5f8368691fe",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.1898060999992595
+    },
+    {
+      "source": "bg/doors/bg_door_houseentrance_day.webp",
+      "source_sha256": "afd1f23ae9934965b6cd32cd9b2208f4fa2d71ea656988b51452058c0b12f3a8",
+      "output": "bg/doors/bg_door_houseentrance_day@2.webp",
+      "sha256": "43160471d59bf3daac8500627a0dc824963d693e730df049eef33f238aacc854",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.503964100000303
+    },
+    {
+      "source": "bg/doors/bg_door_houseentrance_night.webp",
+      "source_sha256": "835e11ce8a90523cab9722f34312822f9fbc5961d589edb211e80561c4777145",
+      "output": "bg/doors/bg_door_houseentrance_night@2.webp",
+      "sha256": "52c210a74b75ece241cba205b05229005ff28eae0300dfd584ec547330c2e916",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.237692999999126
+    },
+    {
+      "source": "bg/doors/bg_door_mansion.webp",
+      "source_sha256": "92dfa7a8f98935de2a9c197d5bbde131064061bae74c5fdb6bdb8b6acf581c38",
+      "output": "bg/doors/bg_door_mansion@2.webp",
+      "sha256": "d38926204e4877be3982a2cbc81f36ef9fa0ac5f0194935aedb76df5dc2e7b25",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.9009683999975096
+    },
+    {
+      "source": "bg/doors/bg_door_mansionentrance_day.webp",
+      "source_sha256": "a71e9479c6f1bafb12a45ee3deab272a6b8da446fe1b419f34b7522a6248a5ba",
+      "output": "bg/doors/bg_door_mansionentrance_day@2.webp",
+      "sha256": "6d00a633ff6b9796330426c9d9cb6d489410d99839df24175fb170e516297f27",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.419574299998203
+    },
+    {
+      "source": "bg/doors/bg_door_mansionentrance_night.webp",
+      "source_sha256": "e0cdbfa499dc38229d6e0c89c3ce01d8cfc24c16aecf511b110c526115a6f1a6",
+      "output": "bg/doors/bg_door_mansionentrance_night@2.webp",
+      "sha256": "93d06270233ffcf3777b1f47ad5ccb2fff452cd12f5821480efe426cb2e9e9f9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.574988699998357
+    },
+    {
+      "source": "bg/doors/bg_door_mdr.webp",
+      "source_sha256": "77d5723989a702a047de0face18f3707df7d305350f4e2ceb634e957383afafc",
+      "output": "bg/doors/bg_door_mdr@2.webp",
+      "sha256": "aad0a21ab0e658e8c686de25d8eed81a0e8d240690b824145e7c3444a16f12f7",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.393357000000833
+    },
+    {
+      "source": "bg/doors/bg_door_office_openspace.webp",
+      "source_sha256": "5f02ab02e68bd99a2a8754f914ad658a0cdf63a23bbd65277f89435ac65c7cfa",
+      "output": "bg/doors/bg_door_office_openspace@2.webp",
+      "sha256": "054a7c1e7000eb7c8281d4bb9ae2f40a6ee58637fbf6ddfde5c238cc433fde8c",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.6028323999998975
+    },
+    {
+      "source": "bg/doors/bg_door_office_private.webp",
+      "source_sha256": "e856a7806e6fc1cf2bc42d7e9be05c213e74c83c05365cd16c8c1027e95f7389",
+      "output": "bg/doors/bg_door_office_private@2.webp",
+      "sha256": "317ee63d153026114fcc361f22d96b7894053fd32143df0a03cca30c1530aecd",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.430085799998778
+    },
+    {
+      "source": "bg/doors/bg_door_office_private2.webp",
+      "source_sha256": "c9c96df6f74837b5430e68f117d42a000e44b33d3722c996241ae2bf23643bb4",
+      "output": "bg/doors/bg_door_office_private2@2.webp",
+      "sha256": "85bbaca07e855b5a9d014e894c171ed8a4bfabadf6d5f39b49e7f7596811bd2e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.470663699998113
+    },
+    {
+      "source": "bg/doors/bg_door_palla.webp",
+      "source_sha256": "e2a4c47efa828b37922898235b38778bfe8ff63b7135011066f80695d60a39b6",
+      "output": "bg/doors/bg_door_palla@2.webp",
+      "sha256": "d670c1ec094bdfd42e76cfeb3f585e51e04207743bcffa5b75cd2f94e7f415d1",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.335251999997126
+    },
+    {
+      "source": "bg/doors/bg_door_pub.webp",
+      "source_sha256": "f4c6a35b2ab33de3fa2d4a50ce2bcd83d38c4d5a74fcb357fe28e24891ee6446",
+      "output": "bg/doors/bg_door_pub@2.webp",
+      "sha256": "180e3c5cc9a569a65158ce26e438da3fc63b57eb9a77a6a1e87e916d1b6520cf",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.90858450000087
+    },
+    {
+      "source": "bg/doors/bg_door_pub2.webp",
+      "source_sha256": "72c89b33ab82dd08c59c599431d139eb041b3d5e8d63000378f3f1b2736cc53d",
+      "output": "bg/doors/bg_door_pub2@2.webp",
+      "sha256": "ff264b62617b255232403996035f26e5737b41bd13e7adbda06b64c67e2c9869",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.856027300000278
+    },
+    {
+      "source": "bg/doors/bg_door_restaurant_day.webp",
+      "source_sha256": "6a21ad44b8d6d8709012e2ad296235ae3c290093721c9ee4e19c95d26e8896d2",
+      "output": "bg/doors/bg_door_restaurant_day@2.webp",
+      "sha256": "ae26cb62576f573b1abb3b10e3cd598c2000c35de798442607a43d369557fbd8",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.6321570000000065
+    },
+    {
+      "source": "bg/doors/bg_door_restaurant_night.webp",
+      "source_sha256": "30ea1bb7c0002e52c150c06be70c25ded1d774aced3a53c71ef4bada79dd4c3c",
+      "output": "bg/doors/bg_door_restaurant_night@2.webp",
+      "sha256": "a928ca48a84f40ee7f6a333d0c0ee68af2e92fdbe90e8a93da13a492cb04f21f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.714654400002473
+    },
+    {
+      "source": "bg/drugstore/drugstore.webp",
+      "source_sha256": "6e830dc99a1227fad1225428bc3f43c912496dc7cd9928f6e43fce9c39e0858d",
+      "output": "bg/drugstore/drugstore@2.webp",
+      "sha256": "e5b89f09c511aae7fb84786e1a2e4905c3105b32e08bc966037ca802f3677558",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.887831000000006
+    },
+    {
+      "source": "bg/electronic/electronic.webp",
+      "source_sha256": "21c3b2270b4f610e6c103fc1930bd1d1f8eb31cd9dc7d54fc995a11e5381de5e",
+      "output": "bg/electronic/electronic@2.webp",
+      "sha256": "302b03efa589e861ac0e3ccae8eebb07647fa921213062c6f13e03ebc1587bdf",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.831765200000518
+    },
+    {
+      "source": "bg/fg_dreaming.webp",
+      "source_sha256": "8da20ff0931842c39688fb893c7227085591cdea34b2f4e674b0ddc4f5cee49f",
+      "output": "bg/fg_dreaming@2.webp",
+      "sha256": "b5ee042b739b0ec07f0bf096c915f62e04444c7539f3da8eda544cbb559153c2",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "lanczos-mask",
+      "seconds": 1.031115800000407
+    },
+    {
+      "source": "bg/fg_dreamy.webp",
+      "source_sha256": "0e093005033073578f0650f0b325dd80492703510e9594fdfe6c0e74f5ba7e2e",
+      "output": "bg/fg_dreamy@2.webp",
+      "sha256": "0cd9c4e4027bcf58d20bfa0b55b79268ec3c9cbcb829abe5c322d551e497014e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "lanczos-mask",
+      "seconds": 1.2007352000000537
+    },
+    {
+      "source": "bg/firstfloorbathroom/firstfloorbathroom_day.webp",
+      "source_sha256": "e58d89a91e0205774b7f42261e4e377e8731134eafe0d8d14e569fd895ce946d",
+      "output": "bg/firstfloorbathroom/firstfloorbathroom_day@2.webp",
+      "sha256": "7e9fc4396bec011808f7543e96b69039185767f857818dc4b3720bb1a6e2469d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/firstfloorbathroom/firstfloorbathroom_night.webp",
+      "source_sha256": "e58d89a91e0205774b7f42261e4e377e8731134eafe0d8d14e569fd895ce946d",
+      "output": "bg/firstfloorbathroom/firstfloorbathroom_night@2.webp",
+      "sha256": "7e9fc4396bec011808f7543e96b69039185767f857818dc4b3720bb1a6e2469d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.398425799998222
+    },
+    {
+      "source": "bg/flowershop/flowershop.webp",
+      "source_sha256": "d294daf9855c70e5aaa03685097d54f9cee95f27ab6a3613a14b4e14b6e8fa10",
+      "output": "bg/flowershop/flowershop@2.webp",
+      "sha256": "2aea2a046716c5cc971311e8b9b53bde18e0dbf5222ac454d608603317f2ee5b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.711627299999236
+    },
+    {
+      "source": "bg/forest/forest_season_day_fall.webp",
+      "source_sha256": "ffad96231404e38cdcf1fb5515e1c0be1278b0befd067c88e38b06697e06a5bb",
+      "output": "bg/forest/forest_season_day_fall@2.webp",
+      "sha256": "55ba7d1b82da20cea875c334581583d1b188831e2448711402351a66bc729f20",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.76808340000207
+    },
+    {
+      "source": "bg/forest/forest_season_day_spring.webp",
+      "source_sha256": "c550d6c60dea05f621236d6c718eb81badb9afd2fec5bd2b14324902c2e63d43",
+      "output": "bg/forest/forest_season_day_spring@2.webp",
+      "sha256": "ec17906280c9ae53a9c4eda0f0f8aef143c03eb4ad700ad3ea77d836bdaa582e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.702088000001822
+    },
+    {
+      "source": "bg/forest/forest_season_day_summer.webp",
+      "source_sha256": "fa692780df4b731d2ca5ab2448142c1e95e828f1315e3c645ae8e1e9b3a32969",
+      "output": "bg/forest/forest_season_day_summer@2.webp",
+      "sha256": "f1de19e6d925f0f1383338ae898c0b2787dc1d51bc9b081822e43833c626973e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 12.449729300002218
+    },
+    {
+      "source": "bg/forest/forest_season_day_winter.webp",
+      "source_sha256": "fcf25bd8b2c4a1970fe596fdbe77e8fe574facdad0e7bf8470486c39637cc522",
+      "output": "bg/forest/forest_season_day_winter@2.webp",
+      "sha256": "3f8781d91114412b7d04e7da820a8fd60acd51ebff95b60bc346e63b62fb436f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 12.371724199998425
+    },
+    {
+      "source": "bg/forest/forest_season_night_fall.webp",
+      "source_sha256": "b9bec2182a8ff85d75c74826024c2e44c26a7151b131888bb383502ad6c2ca7e",
+      "output": "bg/forest/forest_season_night_fall@2.webp",
+      "sha256": "54890ad2b0b2cca6514fa47e9ca3b4088af8f859e2f9360eb7abe4477310624a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.35256020000088
+    },
+    {
+      "source": "bg/forest/forest_season_night_spring.webp",
+      "source_sha256": "afdd8296e47dee4ec818937a34de60fe99dc8c0cfc8896b1b791ae038cc9bdb1",
+      "output": "bg/forest/forest_season_night_spring@2.webp",
+      "sha256": "65b23196b479319606665afe2c7b2b0faacc55762b0083f0bd42ccd1c07212ba",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.697789300000295
+    },
+    {
+      "source": "bg/forest/forest_season_night_summer.webp",
+      "source_sha256": "d4daf7d21f1591613177466ad6da4a8613f252296105e86407e0d36c20897bf7",
+      "output": "bg/forest/forest_season_night_summer@2.webp",
+      "sha256": "f9e593dc0b64a5fdbf28379bb743d0117d1ffdab0b79e2fdef082b172b7c8dc1",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.221786499998416
+    },
+    {
+      "source": "bg/forest/forest_season_night_winter.webp",
+      "source_sha256": "84e08049b02dd10291b54576684323725532a98b9f516d8009e2be4a7afa1bbc",
+      "output": "bg/forest/forest_season_night_winter@2.webp",
+      "sha256": "5f68bd562fa6f392b46b4ad37b0e9b6c9683f7f601a979766633dc1efefffa75",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 12.011274600001343
+    },
+    {
+      "source": "bg/gamestore/gamestore.webp",
+      "source_sha256": "e18c64c899f002c33f4a2a383574661cc6bf6e99cd85bc52a05c08892cced81f",
+      "output": "bg/gamestore/gamestore@2.webp",
+      "sha256": "28a387f9ad2dd7ea9bcc79d970390563890ba10b61139fcb1fcced5a8551f466",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.411757199999556
+    },
+    {
+      "source": "bg/garage/garage.webp",
+      "source_sha256": "e500edd3f4c5c48720df0e88417291b75270782689b1c79ad241c325151f8e7d",
+      "output": "bg/garage/garage@2.webp",
+      "sha256": "cd84406908e4ca68326de49ac13dec189b9b7b1d2a2cacff56d49b1299329cb2",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.039583699999639
+    },
+    {
+      "source": "bg/grid50x50.webp",
+      "source_sha256": "ad821356bd2b60becf868569484035d30797136eeec74f8b5f12d1e42c8fa3d6",
+      "output": "bg/grid50x50@2.webp",
+      "sha256": "43e6f87b742aacd0ae7296eccc7fd1aa1a0b46b6b53844ee82df1cdfd6f817dd",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "lanczos-mask",
+      "seconds": 0.17161900000064634
+    },
+    {
+      "source": "bg/gym/gym.webp",
+      "source_sha256": "815bbacc7d0c9d77f409f30fba9b4e98aea8722da85f7fcca7822aae108f1f9d",
+      "output": "bg/gym/gym@2.webp",
+      "sha256": "bc25edec995ca495a72dd71f97936545a879bbbf09b31690bc8a8c453540ebbf",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.20595830000093
+    },
+    {
+      "source": "bg/gymlockers/gymlockers.webp",
+      "source_sha256": "9cb9d64da6bb0116dc9a59b34c157dd1c5349af9bd9befe070cd4da452522a58",
+      "output": "bg/gymlockers/gymlockers@2.webp",
+      "sha256": "4856a0fb53fac7e0ffbbe207292efde2dff8a7ffc961cbb86bd7a62f001fa2b7",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.750416099999711
+    },
+    {
+      "source": "bg/gymmachine/gymmachine.webp",
+      "source_sha256": "26ca392c1c37d93b4be146e6d44280c4540065f7d8a816e82e8a98b6efd57f34",
+      "output": "bg/gymmachine/gymmachine@2.webp",
+      "sha256": "9fcdacc8d003e9e5a3591c4da549d3acaa69c3100471402b2f60d9e3e6029a0b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.922069600001123
+    },
+    {
+      "source": "bg/gymreception/gymreception.webp",
+      "source_sha256": "6b748b122c159d7db3cc3ca20913e8f7ef3535ba44de9cc571b0616d8818e4df",
+      "output": "bg/gymreception/gymreception@2.webp",
+      "sha256": "7a460703bd073ce0660c88e1ce9c7d16e4cc284ddb2be4ef24757f1b9a5c44e3",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.499545599999692
+    },
+    {
+      "source": "bg/hallway/hallway.webp",
+      "source_sha256": "0f34e0a748a4aad550141fba4d78ce5d93fe9a61433f9c56e520041b7645a4e8",
+      "output": "bg/hallway/hallway@2.webp",
+      "sha256": "052c50015980ef6be0b678d85000041aa52e5b2c79909a8f464caa94808bfd74",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.507321600001887
+    },
+    {
+      "source": "bg/hospital/hospital_day.webp",
+      "source_sha256": "3540c25d51450a694cad15583f479e32c416c10377051db20dec5aa269972754",
+      "output": "bg/hospital/hospital_day@2.webp",
+      "sha256": "39683fac00d5726ec6c338e4868a0826ad64cb72573916d9f11ea5d08c1f5469",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.447241399997438
+    },
+    {
+      "source": "bg/hospital/hospital_night.webp",
+      "source_sha256": "850573f269e132a014c53842b15da8f76a78170bd5ff7b5d2920a964fdd67757",
+      "output": "bg/hospital/hospital_night@2.webp",
+      "sha256": "ded8e8d51f50d5f09003f34f0d1edf9092d28d098a5e38cd14921b98f11ed8cb",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.950466700000106
+    },
+    {
+      "source": "bg/hotelroom/hotelroom.webp",
+      "source_sha256": "99704cb73eb0b50f18f41f0819cc5dbc77b41de17734c43c6079d1959a08f26d",
+      "output": "bg/hotelroom/hotelroom@2.webp",
+      "sha256": "320bc990155db6629c95ed9c3d0ae43e5eb53d5495bccd1ff2d1302c1d9be158",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.923942299999908
+    },
+    {
+      "source": "bg/house/house_season_day_bike_fall.webp",
+      "source_sha256": "23d2f0d40b9c33e2629842d02319351393a33802af1c0fb216ae4e171253c0db",
+      "output": "bg/house/house_season_day_bike_fall@2.webp",
+      "sha256": "d3720790d6d1dc4c905777b84283303cac1c9aa526b88c1aca119e054a701cd6",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.855961600002047
+    },
+    {
+      "source": "bg/house/house_season_day_bike_spring.webp",
+      "source_sha256": "4eb1d5b48ddda67bb6cbd7e5ed576b6c0195427797243fe3b15b2a21d6c5ea33",
+      "output": "bg/house/house_season_day_bike_spring@2.webp",
+      "sha256": "d806eb83ba86851be1a7e33a66895d27d049602f45075d341b2f279c881bd991",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.313324499998998
+    },
+    {
+      "source": "bg/house/house_season_day_bike_summer.webp",
+      "source_sha256": "0f493d01ee4c74c35dab8d3e251b96ba99568a9e480fed0647c292134ef282b1",
+      "output": "bg/house/house_season_day_bike_summer@2.webp",
+      "sha256": "02feb80ce42208a1269e87e760ef094ad570a4943217dda4035aaa151260e03c",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.070638900000631
+    },
+    {
+      "source": "bg/house/house_season_day_bike_winter.webp",
+      "source_sha256": "a061579dc1f982374d9632fadc01779da2d3e827649a825edc36602b55d59ca5",
+      "output": "bg/house/house_season_day_bike_winter@2.webp",
+      "sha256": "2267df300e8a9e267604e207de4380609da68d2a5f08dbf61435df338fb8c021",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.725155899999663
+    },
+    {
+      "source": "bg/house/house_season_day_car_fall.webp",
+      "source_sha256": "1fb2ec61b1261eb876e846594a960ed163927ebff7f89969b3c0f860312c1566",
+      "output": "bg/house/house_season_day_car_fall@2.webp",
+      "sha256": "8906c68fe50f7d17e0604676e5d9c0705790458ccbf9913b71de7d6cadcdfcad",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.392836499999248
+    },
+    {
+      "source": "bg/house/house_season_day_car_spring.webp",
+      "source_sha256": "f5feffe0c0d170e04759e59521b757d52f891fbc16e8f0fb9a6d8ba6a01b1e50",
+      "output": "bg/house/house_season_day_car_spring@2.webp",
+      "sha256": "afdb1bbbd0fa96a02e28cb68fd62e5cd67ce7e2cbaa8480985bcc0683c2f2b74",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.090789800000493
+    },
+    {
+      "source": "bg/house/house_season_day_car_summer.webp",
+      "source_sha256": "d95ec0ec51205443d8654604ffa7cc4434179a2551614abd31c3fb74f79f6d8e",
+      "output": "bg/house/house_season_day_car_summer@2.webp",
+      "sha256": "f5be7a3d4778e6b8f9c3bafb6849860a897f203afa551919afff183dce03fd8f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.771757399998023
+    },
+    {
+      "source": "bg/house/house_season_day_car_winter.webp",
+      "source_sha256": "70fe40146cdfefca0baf211c1e6a25af8c05689989802c9c7ecfb5843b7f6961",
+      "output": "bg/house/house_season_day_car_winter@2.webp",
+      "sha256": "5c6b37cd980a79c147db8dfd31cbd0ef5660734e6572954e435dc5a8ddb87a0b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.77139509999688
+    },
+    {
+      "source": "bg/house/house_season_day_fall.webp",
+      "source_sha256": "871d19b0e9faed7bfa266c8334ed6576f2a6812768e0eff152a6b2f6c32ea697",
+      "output": "bg/house/house_season_day_fall@2.webp",
+      "sha256": "075e8573e786b00c4bbf15374606a54862020d1092ae54e60fdae4b3d4e6a228",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.358727400001953
+    },
+    {
+      "source": "bg/house/house_season_day_sportscar_fall.webp",
+      "source_sha256": "461440dd4f90fcaf45496937e5e001dd480a8b94e87be18dd6eae48da040e2ab",
+      "output": "bg/house/house_season_day_sportscar_fall@2.webp",
+      "sha256": "3b599b29d99d3529758188ac1188631a85331f3037bbde89d38f502e00fa4c20",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.74981839999964
+    },
+    {
+      "source": "bg/house/house_season_day_sportscar_spring.webp",
+      "source_sha256": "ab00110860a210916408e39b18c26e001c4c3a3b284e3cc0bf481132c8e901db",
+      "output": "bg/house/house_season_day_sportscar_spring@2.webp",
+      "sha256": "32a9089f4ca2f58d9fa62322f36f63897590890804a540da4b69417aff1a0be1",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.576661899998726
+    },
+    {
+      "source": "bg/house/house_season_day_sportscar_summer.webp",
+      "source_sha256": "f135f5fc8524d9d2bdbb47e9675426282154c0f67e97d2d87f12df1c760d8c03",
+      "output": "bg/house/house_season_day_sportscar_summer@2.webp",
+      "sha256": "adb03d9cd3f70445b66992626d9866b8b5ce62db46182d94538f19ffc30f1722",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.607743600001413
+    },
+    {
+      "source": "bg/house/house_season_day_sportscar_winter.webp",
+      "source_sha256": "5b01d66b5ac0272730150a1e4de82894b8441ede7fb1d29a9162946915242fe5",
+      "output": "bg/house/house_season_day_sportscar_winter@2.webp",
+      "sha256": "b673c0f3be7d342e2ecd838d7b0e9d9dc4d7af1981613a8bc39d5044d305da8a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.665536299999076
+    },
+    {
+      "source": "bg/house/house_season_day_spring.webp",
+      "source_sha256": "ea3a15de82561d5d60c715b48e665724823a8294fea73ed75fdc699428a3b81a",
+      "output": "bg/house/house_season_day_spring@2.webp",
+      "sha256": "675cff9607cc732ca50d9e7e8fb917cace368d8c017a544a471185ed826742c1",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.8368991000024835
+    },
+    {
+      "source": "bg/house/house_season_day_summer.webp",
+      "source_sha256": "bb0a7dc7952a1ed700bb7656c241024f801efc9e8c41255ab06491241b15551b",
+      "output": "bg/house/house_season_day_summer@2.webp",
+      "sha256": "9a420b5947419e3fc6478f493ad0fb0f82f839b27507d034f006ea9d428fa1cd",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.498791300000448
+    },
+    {
+      "source": "bg/house/house_season_day_winter.webp",
+      "source_sha256": "57fc4afc8a33253e78c4e324de05e84dd9a5227e5a6801e9c76b6668ae0006c4",
+      "output": "bg/house/house_season_day_winter@2.webp",
+      "sha256": "f00afacf59362e1c5e3347c078352a41417387471fca94946b9673d9d25d8b54",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.77545729999838
+    },
+    {
+      "source": "bg/house/house_season_fg_day_winter.webp",
+      "source_sha256": "a9cf13cb82e4f9c284ef9ecc399ba132001737e8ea858e9f9aba3ea97404f2ef",
+      "output": "bg/house/house_season_fg_day_winter@2.webp",
+      "sha256": "15f3db1b7c6b1e6a89fc35d92383b02277c429b7a78a9e85886180c37dad8c14",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.384713700001157
+    },
+    {
+      "source": "bg/house/house_season_fg_night_winter.webp",
+      "source_sha256": "7204a3806dc2023d8e6eb8c5389351e80e8b0cef8f3f9a8b57cb510518249529",
+      "output": "bg/house/house_season_fg_night_winter@2.webp",
+      "sha256": "23f96d27ce0d67396b5a9440baa453bb7cabe671c538df5d0a1f83b867163052",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.802585500001442
+    },
+    {
+      "source": "bg/house/house_season_night_bike_fall.webp",
+      "source_sha256": "8a3d40482058ec651ee1bf65b3b254152806a50afbee189eef20ef03aaf49d03",
+      "output": "bg/house/house_season_night_bike_fall@2.webp",
+      "sha256": "964d51bba2775316bce4a06eaae45c14616528fd17ddfbcac6b222e689ac3f7a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.152312599999277
+    },
+    {
+      "source": "bg/house/house_season_night_bike_spring.webp",
+      "source_sha256": "e9de213df127ff17a9797a3688a698c0eb4026ca2c9425739f4e537afc3db190",
+      "output": "bg/house/house_season_night_bike_spring@2.webp",
+      "sha256": "440d0b151cd50e55c117ad9102d22a8a5715eddfabef1f2472ed549b3ac30595",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.9576472000007925
+    },
+    {
+      "source": "bg/house/house_season_night_bike_summer.webp",
+      "source_sha256": "7429b7e6db3441929c42db413bd286b4ea9da67dde5ee6179daa7e2af8687ec5",
+      "output": "bg/house/house_season_night_bike_summer@2.webp",
+      "sha256": "fb4e11ffb89a0e11ac72c7a7ed56f5adf3f7ea02ac6a12577b4549fd7e99e74a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.095656899997266
+    },
+    {
+      "source": "bg/house/house_season_night_bike_winter.webp",
+      "source_sha256": "656804df6dc86600e40cfdeafab38b66fd0c87af73db3cf69fd967e0009e2cc4",
+      "output": "bg/house/house_season_night_bike_winter@2.webp",
+      "sha256": "b253a6db69cfadb87133a68093f5eca7dea2a984626163e50337c575a827d1b6",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.919339399999444
+    },
+    {
+      "source": "bg/house/house_season_night_car_fall.webp",
+      "source_sha256": "dc8931028a0dd7a7354ab93f51a1f625fed75b95e79065950704aa2b44862459",
+      "output": "bg/house/house_season_night_car_fall@2.webp",
+      "sha256": "c66e6e2fe5b5b424d92c3ce7f43c622886ac664a41546bff5db3fb9a9b6b6920",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.650228400001652
+    },
+    {
+      "source": "bg/house/house_season_night_car_spring.webp",
+      "source_sha256": "3002127f5cd93aa845aec0002bd4df4208c8f8e62263b9638f92fb50cc6f44c3",
+      "output": "bg/house/house_season_night_car_spring@2.webp",
+      "sha256": "6d0f954be6b6f4f56845e95729e0c40f48ffe9c5cfc5909939715eb141705ba4",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.400837500001217
+    },
+    {
+      "source": "bg/house/house_season_night_car_summer.webp",
+      "source_sha256": "595c7018f4993d2aa96b6df0c3ca4d19cc5a0a72f68e92985ef890ecbda11cfe",
+      "output": "bg/house/house_season_night_car_summer@2.webp",
+      "sha256": "6d226bb9350bbe0a3b4638d44ac69dd5a96bb10ab5aee18fa8be8297f3dc1511",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.622282399999676
+    },
+    {
+      "source": "bg/house/house_season_night_car_winter.webp",
+      "source_sha256": "06078ef0f73d15f5c4f0b0054c6bb0ffabc2f88b4a40a138b63786d2ca5c1296",
+      "output": "bg/house/house_season_night_car_winter@2.webp",
+      "sha256": "17c7cc5ce46ad1ea5b4548ef7ddccb5e11d53cfa38925821d12a1eec5602de4b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.145866099999694
+    },
+    {
+      "source": "bg/house/house_season_night_fall.webp",
+      "source_sha256": "b4c6423bcaad71aeaac2778f8014ec7b61fac601d56b722004ffbca1250eadf0",
+      "output": "bg/house/house_season_night_fall@2.webp",
+      "sha256": "31ca4c66e83cfd4ba52d910c51d245116651664d7f607d264666c91431ecf4df",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.438076200000069
+    },
+    {
+      "source": "bg/house/house_season_night_sportscar_fall.webp",
+      "source_sha256": "372ecd6f3d1e733af5498dbb04a166f9fe5a2b2acf71c42c61f127c6355b0e1c",
+      "output": "bg/house/house_season_night_sportscar_fall@2.webp",
+      "sha256": "bd430af3583c4d2af59e50c3c81aee3a0ec41f37e130cf69882ecc6aee97a045",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.6186974000011105
+    },
+    {
+      "source": "bg/house/house_season_night_sportscar_spring.webp",
+      "source_sha256": "c46f8af885adf936aa305e49f651b9649a9adb91344729bf1592b11bfbcf039b",
+      "output": "bg/house/house_season_night_sportscar_spring@2.webp",
+      "sha256": "390be808783397f6999373a938b201b641d8aad085d9efc140735d42b2a25603",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.771206800000073
+    },
+    {
+      "source": "bg/house/house_season_night_sportscar_summer.webp",
+      "source_sha256": "b0f95705eea8429ce845392b4a9578489bb03fd5da26cc053d01102cf33d0842",
+      "output": "bg/house/house_season_night_sportscar_summer@2.webp",
+      "sha256": "4a1fb141ab185e301eec27f5d91b9ab1f75f06aec3d56bee624389dadfd65d9c",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.029442000002746
+    },
+    {
+      "source": "bg/house/house_season_night_sportscar_winter.webp",
+      "source_sha256": "7c2b1cd673f822cecf22243f1d740e9b0ff27c0b33264696a92e6adfbe2b466c",
+      "output": "bg/house/house_season_night_sportscar_winter@2.webp",
+      "sha256": "63cf31af4e6a8d08d01365e5750102cd25193244ec89e9628e1d96cc239112b9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.885074899997562
+    },
+    {
+      "source": "bg/house/house_season_night_spring.webp",
+      "source_sha256": "c1f7724513f00d49f887a4e6e6e128715bbb3fa04c6675519323347c605b921c",
+      "output": "bg/house/house_season_night_spring@2.webp",
+      "sha256": "61202cc085571a03a858605fc8be213bed65d9208fbcf38608f2f3148ebd497c",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.345369800001208
+    },
+    {
+      "source": "bg/house/house_season_night_summer.webp",
+      "source_sha256": "53b1a11ff3047f6e7d03474bd03d3c674d97148142591f053512e4118b8b830a",
+      "output": "bg/house/house_season_night_summer@2.webp",
+      "sha256": "4642a43a05c7c9cd065bc2afb366bfaf3f02a1b80bbb698c03762195de158117",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.152730099998735
+    },
+    {
+      "source": "bg/house/house_season_night_winter.webp",
+      "source_sha256": "7599f05a97d306ea9785a297bebfb5e3f3c6f852939ea88410716d9a6eff827e",
+      "output": "bg/house/house_season_night_winter@2.webp",
+      "sha256": "c045db54c5bdfa9b7719401a7a01042ad15389d7e5cbb2a6bb175c9af0771085",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.867065599999478
+    },
+    {
+      "source": "bg/houselibrary/houselibrary_day.webp",
+      "source_sha256": "394b735a215f0157ac2c630b1b1f1abb40119cf695589a1e48851f66e18ed868",
+      "output": "bg/houselibrary/houselibrary_day@2.webp",
+      "sha256": "f331b5e3f8079418446d5169d29464a62a13949b20c9bf24065a95ff949fdb28",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.414686300002359
+    },
+    {
+      "source": "bg/houselibrary/houselibrary_night.webp",
+      "source_sha256": "79d62129128dc332aa041d6b039156bc6c9ae066369772a7bbe0d9f3e4031333",
+      "output": "bg/houselibrary/houselibrary_night@2.webp",
+      "sha256": "96de3c0f2083f1e1f404d7b2f2cdcc39f2ccaa2d0434399d1ffc751251e19552",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.817093900001055
+    },
+    {
+      "source": "bg/housemap/housemap_first_season_day_fall.webp",
+      "source_sha256": "b6b3c90341f79b455f11a3b0c5fe97d6df185c10d4d94c829b1a1c5f6d5e62a6",
+      "output": "bg/housemap/housemap_first_season_day_fall@2.webp",
+      "sha256": "754432556f11fce6a720b3229769d456897d6a84350cc384611da1f2ed8681c3",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 5.600411199997325
+    },
+    {
+      "source": "bg/housemap/housemap_first_season_day_spring.webp",
+      "source_sha256": "2278dc87c00d3bb9a3c06e9295c041056f53c62a36dc7331ff108f81c73e22e4",
+      "output": "bg/housemap/housemap_first_season_day_spring@2.webp",
+      "sha256": "e533eddd4f58ca6bdc605d037e2ce9f68cf20d1c992404c5181a544f38de1240",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 32.37525839999944
+    },
+    {
+      "source": "bg/housemap/housemap_first_season_day_summer.webp",
+      "source_sha256": "294d38abc2f3b3041b28b7333deb8023c2c7601eb658fde64013246a765c5799",
+      "output": "bg/housemap/housemap_first_season_day_summer@2.webp",
+      "sha256": "174e4714a2a29b5087406d6f7fe683eba0f079e0462be8fdc4cfab9d8adcdcfb",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.581613700000162
+    },
+    {
+      "source": "bg/housemap/housemap_first_season_day_winter.webp",
+      "source_sha256": "51c45cd17bc090c757251226730e2276d13320ce59d6d5196b8f46a998c7c37b",
+      "output": "bg/housemap/housemap_first_season_day_winter@2.webp",
+      "sha256": "de032fe7c0d22cc07648b1b1c3a76e2781ead589c0f6c5090ac162b3e2eda4aa",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 5.553716399997938
+    },
+    {
+      "source": "bg/housemap/housemap_first_season_night_fall.webp",
+      "source_sha256": "2bdddc789c2ffadb65cd0e0ba7ef8b5b3dba5a484532c30eac6ce868f791b947",
+      "output": "bg/housemap/housemap_first_season_night_fall@2.webp",
+      "sha256": "047cdecd63c597bbd993d8d92cc47710e14ffcd187e6c762c244637e1e75cf1f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 5.761240200001339
+    },
+    {
+      "source": "bg/housemap/housemap_first_season_night_spring.webp",
+      "source_sha256": "9d99c630821100c0c55abd8ac2c3b8d0526d92a58d3ec11dfbaf12f2413db3ba",
+      "output": "bg/housemap/housemap_first_season_night_spring@2.webp",
+      "sha256": "e266c4c5956e4f4dfad0452ffbe2b81dcda987473eec6ad8735ad8f8b5655192",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 5.5878584000020055
+    },
+    {
+      "source": "bg/housemap/housemap_first_season_night_summer.webp",
+      "source_sha256": "42d9ad78c91a1dcdab62eab37868a7f14bee341c5a2139448a6af76600ec7294",
+      "output": "bg/housemap/housemap_first_season_night_summer@2.webp",
+      "sha256": "70697d619c65489d1a423e10534efa0dae6ba6a278b482907024c0e764704e8a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.772846600000776
+    },
+    {
+      "source": "bg/housemap/housemap_first_season_night_winter.webp",
+      "source_sha256": "f779f173b36a09219bf7ec02ea193219eb3d17c866ffb71a14e3e4ccb92a0193",
+      "output": "bg/housemap/housemap_first_season_night_winter@2.webp",
+      "sha256": "cb6e385ea9c6a754787b91feb052f828cc4fed55c8d43f4c5f73c4d580c97714",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.477034299998195
+    },
+    {
+      "source": "bg/housemap/housemap_ground_season_day_fall.webp",
+      "source_sha256": "14b504439106c92bd61aad6bd764e66755db8ac36d89f2c51ed5ac640334a5ae",
+      "output": "bg/housemap/housemap_ground_season_day_fall@2.webp",
+      "sha256": "28cabe90f23cbc693adfa2b7f75782499174eff4b1f705ff1816a501b6d17035",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 36.61893749999945
+    },
+    {
+      "source": "bg/housemap/housemap_ground_season_day_spring.webp",
+      "source_sha256": "7c41e937be40b2646d6a3861de8a642f6c4c220e9aa7122ec8ea6331700caa4a",
+      "output": "bg/housemap/housemap_ground_season_day_spring@2.webp",
+      "sha256": "6a3e027741277eccad494b552842f83d8991ebfb3ca1b3de9c0cc162507e8f52",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 13.476014300002134
+    },
+    {
+      "source": "bg/housemap/housemap_ground_season_day_summer.webp",
+      "source_sha256": "431086d7ac7da7611830bdeea06b9893c00f81dff8c7c6045733bf7732c88956",
+      "output": "bg/housemap/housemap_ground_season_day_summer@2.webp",
+      "sha256": "aff4ef51f47c142024228ae4987a6dbbec38b61c6a311f49a0438adadb4f87c0",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 15.405167600001732
+    },
+    {
+      "source": "bg/housemap/housemap_ground_season_day_winter.webp",
+      "source_sha256": "ee6185f0787acf88f7afd3208e295c5b10397b3698ccd0fc3a609ca49dae087f",
+      "output": "bg/housemap/housemap_ground_season_day_winter@2.webp",
+      "sha256": "0d18a27ac75b5b8430544b7c8aa2c59160b3ac6146393796618ffca51423772c",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 12.570574999997916
+    },
+    {
+      "source": "bg/housemap/housemap_ground_season_night_fall.webp",
+      "source_sha256": "7f1026007026c90d2afeadfd7fc590f048f19094b9f5b9dbba50840139a07449",
+      "output": "bg/housemap/housemap_ground_season_night_fall@2.webp",
+      "sha256": "9a51dcbba397e08c7aeca34af154a9809ea2de78375037d9cbb3663a2af4f77c",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 12.591716000002634
+    },
+    {
+      "source": "bg/housemap/housemap_ground_season_night_spring.webp",
+      "source_sha256": "f918170f758ec36fea370fc885ed9f470c8ac08e079fe32138ca72000ee038ce",
+      "output": "bg/housemap/housemap_ground_season_night_spring@2.webp",
+      "sha256": "ae3084b5bf32a0346b148bda616924e49456adb0adb4bde74efaac83a20cbf20",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.262188299999252
+    },
+    {
+      "source": "bg/housemap/housemap_ground_season_night_summer.webp",
+      "source_sha256": "a6d4f34a34552b0e82dc2d29840fe7c1f2bc95fa08fd038c837c4aa98aaffa1e",
+      "output": "bg/housemap/housemap_ground_season_night_summer@2.webp",
+      "sha256": "e09e56ad1725d529d8afdaaab02da737efb44ce3fb25ba192dd8596652d767cd",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 27.096377900001244
+    },
+    {
+      "source": "bg/housemap/housemap_ground_season_night_winter.webp",
+      "source_sha256": "e915090a359b07ed29cb33ebf55b60e0e4b3d93291b1fcf050117fe0e5cb6555",
+      "output": "bg/housemap/housemap_ground_season_night_winter@2.webp",
+      "sha256": "0f7c1779711227a09575eee1b812054cfae3f2f8fb012ecb938b1658b4820253",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 12.151416299999255
+    },
+    {
+      "source": "bg/jail/jail.webp",
+      "source_sha256": "d05af9fb4e20d9b4b148bb2a713cd133a7621dfaa13bb3cc2e47fef7cac56d39",
+      "output": "bg/jail/jail@2.webp",
+      "sha256": "41ecf3cb0ec8eee2d02eda83b84f8271139ee6d789808f1e6a65c2a024392bd6",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.381852999998955
+    },
+    {
+      "source": "bg/jewelrystore/jewelrystore.webp",
+      "source_sha256": "b5d22e0100c4b930c372dd4604048ace7e28f7d84924fdaab98964ec61f761d2",
+      "output": "bg/jewelrystore/jewelrystore@2.webp",
+      "sha256": "eecb119f5fab50fe76ce0a775dfae48aac26c5c2e15424ded342e06f9226117b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.537331999999878
+    },
+    {
+      "source": "bg/kart/kart.webp",
+      "source_sha256": "98d6b7434e11de12ce1939325662f21f6dd1f69ca9a469b8b85b141f87b38919",
+      "output": "bg/kart/kart@2.webp",
+      "sha256": "06953675416bfa65609734ef53a2c173ccd9e67c7f0915bdf90a5f44e1b30290",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.417472299999645
+    },
+    {
+      "source": "bg/kitchen/kitchen_day.webp",
+      "source_sha256": "c86570699ad23f4cc6cf2975833f6ff571c6e5b666cdeb76d47020f2d73ba86e",
+      "output": "bg/kitchen/kitchen_day@2.webp",
+      "sha256": "dd402e9bc675b56b35745c9442b5e2a06140da7f2d5eba2e73409d5302d6282b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.897236999997403
+    },
+    {
+      "source": "bg/kitchen/kitchen_night.webp",
+      "source_sha256": "dfb0b1a9942ee203aab3ac1ce73de951750cf259ef3935570e1eecfbc16e851a",
+      "output": "bg/kitchen/kitchen_night@2.webp",
+      "sha256": "43f56512f4e0f0e8f28805a58ff17ed26f6d3b458d947d46464650b4a6468ef7",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.395478399997955
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_day_christmas_decor.webp",
+      "source_sha256": "1998ca127200f8cfbd8b50904e41f10b362530acd7880f5eff7d5b6f0100a4e2",
+      "output": "bg/livingroom/livingroom_season_day_christmas_decor@2.webp",
+      "sha256": "0f161ff97a93f7c43da3ab306912cbf7cd1aabf29a6b4c4851763b99206caca9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.042128100001719
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_day_fall.webp",
+      "source_sha256": "bb25bbfdadc83b80d1e0ea97acbda88aa62f2cbc81d46d97cd0081907610ce3d",
+      "output": "bg/livingroom/livingroom_season_day_fall@2.webp",
+      "sha256": "c240d7a2887be51fe92b78744a1dc69c933e20516de14dca470927a2cd419d90",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.276457799998752
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_day_halloween_decor.webp",
+      "source_sha256": "c9dbe50438b729942f1989e5545d95899895712d7e8072883dbd049e4f23d760",
+      "output": "bg/livingroom/livingroom_season_day_halloween_decor@2.webp",
+      "sha256": "1bd3bb8b889147670dc64caf026435c75f7f13d0849fc4c0af30e2e9280febf8",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.320775100000901
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_day_spring.webp",
+      "source_sha256": "1321bc850e7cc51f112241f50406691afdc2497f732cef13697d40ecfb953744",
+      "output": "bg/livingroom/livingroom_season_day_spring@2.webp",
+      "sha256": "f889f810a544b9cd71d422a5d90c1c48583cfeef29b17a83b222e360685cc582",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.970225700002629
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_day_summer.webp",
+      "source_sha256": "8c57310b609323ebe29a827bb9d6380b3eaaa197bd75829b55eb340ea83a5437",
+      "output": "bg/livingroom/livingroom_season_day_summer@2.webp",
+      "sha256": "4534e6b75e98ae65d9bd29b72c1789e7b86bc6c201e5b267b8c3f15f48665558",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.1098920000004
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_day_winter.webp",
+      "source_sha256": "59ab22991f664c569f11651cb6868d009e0ea73d74229f6047b4815c3121b095",
+      "output": "bg/livingroom/livingroom_season_day_winter@2.webp",
+      "sha256": "d451e3f99d6d99984a52979d8a3a5804ca8cf7929236cc53b7087472c73c3b85",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.222944400000415
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_fg_day_christmas_decor.webp",
+      "source_sha256": "7483d6afe4e7109d1b117398a5517191458559fcb1ae315690345e133e00731e",
+      "output": "bg/livingroom/livingroom_season_fg_day_christmas_decor@2.webp",
+      "sha256": "ed49de70cfe57b6af1c50c5cd8e33d223d4fee0e06e679c8671e4ed00bc55d4a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.317339700002776
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_fg_day_winter.webp",
+      "source_sha256": "0502231e1e01ca1c7c5f77073da3f25afe474fa15a5ab56e73ed6f1e2f5c2e70",
+      "output": "bg/livingroom/livingroom_season_fg_day_winter@2.webp",
+      "sha256": "81d4caab88814e0a610458a74a0d376c9c62877c98b5ff1f2acf829121d7c586",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.938456700001552
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_fg_night_christmas_decor.webp",
+      "source_sha256": "155cb472974dea0c4781ef9ec82e32f1aaa71e9af66e831c8b7ee50155372399",
+      "output": "bg/livingroom/livingroom_season_fg_night_christmas_decor@2.webp",
+      "sha256": "25ce340b4e205b60cf267e950aada79a177905c46e4189d2092e32e8c7590179",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.45633689999886
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_fg_night_winter.webp",
+      "source_sha256": "5fa53b52e612d8f037001100c0d9ca2bb1d287e54d0a602e35cc67f851e00dd9",
+      "output": "bg/livingroom/livingroom_season_fg_night_winter@2.webp",
+      "sha256": "40ff8d5688a243f98a22ebf06bc482aa24c4f5e88393bb9aa35bf8ae271d4cb9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.224429900001269
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_night_christmas_decor.webp",
+      "source_sha256": "358d7541ed1712c076cb9cce3238b7b9e9e910fb842477194fd10971b6073639",
+      "output": "bg/livingroom/livingroom_season_night_christmas_decor@2.webp",
+      "sha256": "9c911101e8aacedc3279eefca61111f3e19924711860fced3e597f1150009d91",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.15369809999902
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_night_fall.webp",
+      "source_sha256": "5307c57ce94222b281b93b12c00ba0dbd153b524f33e1502341636883bfc2a9f",
+      "output": "bg/livingroom/livingroom_season_night_fall@2.webp",
+      "sha256": "de39cd1f8593f192109e8d7db3052bbe3eac5a5ca1b6fc349e09d17d6f32e367",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.18270130000019
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_night_halloween_decor.webp",
+      "source_sha256": "0c651a6253164582949e3ffb51ec1464c750d60f329dd853b669a682cffe5839",
+      "output": "bg/livingroom/livingroom_season_night_halloween_decor@2.webp",
+      "sha256": "6027387f81ce76bdd23296883085a1744cc951420486a0cad5436c40b8f6db38",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.654338300002564
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_night_spring.webp",
+      "source_sha256": "7090e4243929ea3a3de1c6a151e4df5a9adc5b10f93401ff2cd6e6719d3cba16",
+      "output": "bg/livingroom/livingroom_season_night_spring@2.webp",
+      "sha256": "df8d84a3cf0730e5f0e4025985e5ccb4d8ace27011aca2640fdc7bc6badde828",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.271568100000877
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_night_summer.webp",
+      "source_sha256": "f4f299e20b16bfe27b0a0133a9361f2d189f7e9b6e5f5d36191a2b4d3eff803c",
+      "output": "bg/livingroom/livingroom_season_night_summer@2.webp",
+      "sha256": "39e98a0192838e16294dd9889ca62fd433cc6e4e9bc9f3a71e3156fc6452f515",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.007980399997905
+    },
+    {
+      "source": "bg/livingroom/livingroom_season_night_winter.webp",
+      "source_sha256": "8ff06cc1fce9c63644773a87b9d272dde0b8382cde0d975ad3157ed3e9e5a4d4",
+      "output": "bg/livingroom/livingroom_season_night_winter@2.webp",
+      "sha256": "8477b6c3b01540cc1a15ba69a49f7810f9a00c27c4190da725abacf591aa83aa",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.6041963000025135
+    },
+    {
+      "source": "bg/maidcafe/maidcafe.webp",
+      "source_sha256": "fce4d3a3449bed2ace0460eaa5b5b568f77366fb268206f858881277dc1e7dd0",
+      "output": "bg/maidcafe/maidcafe@2.webp",
+      "sha256": "7d243188b6caf5b066e248f826f5bc47364f55aae8edf22b8491a3f54c0f0da7",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.530464700001176
+    },
+    {
+      "source": "bg/mall1/mall1.webp",
+      "source_sha256": "4104bbfab103a1bed57ab7d148bdd59133b4159a3f05171a4345abb2a1ce8ab1",
+      "output": "bg/mall1/mall1@2.webp",
+      "sha256": "ee888c84107d84ce5dcd3e154522d4cd0afcd46962f0d80d1652997ed05bed6a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.954360899999301
+    },
+    {
+      "source": "bg/mall2/mall2.webp",
+      "source_sha256": "805ca7ab425a57c6fa8ad3da1a194f476ce9b672ab77028c329d6cab829a9754",
+      "output": "bg/mall2/mall2@2.webp",
+      "sha256": "a04da7d4bd8b78d5f59e40eba748a1c2abf901865f696d02493db866fd73fe5b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 13.515427700000146
+    },
+    {
+      "source": "bg/mallmap/mallmap.webp",
+      "source_sha256": "5abc4edf9b13ec76d053a419fd3d4f34f4c613e41630f99e4b7fad3491ea6ad6",
+      "output": "bg/mallmap/mallmap@2.webp",
+      "sha256": "bfe5280485106c9c6a8be83a1e42ef16ee0681fc1801bc72877dfdda88bd8c96",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.390980000000127
+    },
+    {
+      "source": "bg/mansion/mansion_day.webp",
+      "source_sha256": "80a6f9ee6832af6cace0946275f0135245dcf8e639ad6027c13b63a0c2c4a8fc",
+      "output": "bg/mansion/mansion_day@2.webp",
+      "sha256": "27e31db6de7c739d348804ce0c9be816f38e042fb8ffd5d4dbcc58324409a333",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.820382699999755
+    },
+    {
+      "source": "bg/mansion/mansion_night.webp",
+      "source_sha256": "1cbd4a40d5ec444a03cefc1160e39fc320d8cc76201e8cd0f85d930b94513928",
+      "output": "bg/mansion/mansion_night@2.webp",
+      "sha256": "2ac1584129dd3112bfed8912da61f045ac9fbe0c7828dc9d1cdf2ef1dd93d0d9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.357405200000358
+    },
+    {
+      "source": "bg/mansionentrance/mansionentrance_season_day_christmas_decor.webp",
+      "source_sha256": "8b6aec6638939fcb9b964c085e4c544cd543702f3125c998c3ac30817063dab3",
+      "output": "bg/mansionentrance/mansionentrance_season_day_christmas_decor@2.webp",
+      "sha256": "8b491612b290c67b50d4b9c157b995f72d5c9c597a49d72ce3e0c2839c6fc8db",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.25437079999756
+    },
+    {
+      "source": "bg/mansionentrance/mansionentrance_season_day_fall.webp",
+      "source_sha256": "1bb8bd4da02005ff259d57cf829d2908476a9f1186327730d3f75ccfe1e891dc",
+      "output": "bg/mansionentrance/mansionentrance_season_day_fall@2.webp",
+      "sha256": "7d09c0a8e8865389e1b375c751763ad8efa1d0e4607ebee182b3dd5a412063d0",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.461519500000577
+    },
+    {
+      "source": "bg/mansionentrance/mansionentrance_season_day_spring.webp",
+      "source_sha256": "9551af88475070eaccadb924163ce124e271fff69a2e129dd6c306d962215f9d",
+      "output": "bg/mansionentrance/mansionentrance_season_day_spring@2.webp",
+      "sha256": "4dda36c3f7ba621df494447d51cfc3eb8a65194954dcc296f3c3086f4c2f5f34",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.478851399999257
+    },
+    {
+      "source": "bg/mansionentrance/mansionentrance_season_day_summer.webp",
+      "source_sha256": "98f69ddda501215f9ad21c2802092c472f7db1bde67ca37119f1e3e4593800e2",
+      "output": "bg/mansionentrance/mansionentrance_season_day_summer@2.webp",
+      "sha256": "4bbc464fff77b22cf90d62348afb16d84d046ff76da0e6e71025eb2b7448b0b1",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.441015600001265
+    },
+    {
+      "source": "bg/mansionentrance/mansionentrance_season_day_winter.webp",
+      "source_sha256": "050e1b7c185b1f778059a216f7d9c292f981a2f4a065d0aef3cccfbe7ac0bec5",
+      "output": "bg/mansionentrance/mansionentrance_season_day_winter@2.webp",
+      "sha256": "75771ce17f7e60179f90074f736ccdb3485cf59afca8d2adedbfa86215baa6f8",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.24847420000151
+    },
+    {
+      "source": "bg/mansionentrance/mansionentrance_season_night_christmas_decor.webp",
+      "source_sha256": "545b3d6eb263c904fdaf7a9a8a1c088287a6ae567d65f6df19bae15a050b8bcd",
+      "output": "bg/mansionentrance/mansionentrance_season_night_christmas_decor@2.webp",
+      "sha256": "c2174285a8b6abb6e82fd255ca942f56c814aa4304af942002d669151a5432ad",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.491644500001712
+    },
+    {
+      "source": "bg/mansionentrance/mansionentrance_season_night_fall.webp",
+      "source_sha256": "c0c7c58dbccdcbe7baf59f8eeff75f76b35119ab5f1dfe9c0b97372c586b6b68",
+      "output": "bg/mansionentrance/mansionentrance_season_night_fall@2.webp",
+      "sha256": "3ac7e7f122c774df8616a635271a1ae66f0eb85820f9087cd52e01ea5739af4b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.444371099998534
+    },
+    {
+      "source": "bg/mansionentrance/mansionentrance_season_night_spring.webp",
+      "source_sha256": "879a6128a9da6c6455a2d38341d6457be257d6a642ad3c027a1c5b33b36b277c",
+      "output": "bg/mansionentrance/mansionentrance_season_night_spring@2.webp",
+      "sha256": "0af9fa3d4d7aff054bbf3edcc4b34c3757e8f2ceeab64d4eae4da8fc0a89513e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.77296159999969
+    },
+    {
+      "source": "bg/mansionentrance/mansionentrance_season_night_summer.webp",
+      "source_sha256": "509e40a31e2f2314c49d404955a5802084abeaafb3683f91a700823528869749",
+      "output": "bg/mansionentrance/mansionentrance_season_night_summer@2.webp",
+      "sha256": "eca1a1e2873a02be6744c02a0f3b5289e8f0bbe1b526c4b905d7dc18c6aa81dd",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.725430900001811
+    },
+    {
+      "source": "bg/mansionentrance/mansionentrance_season_night_winter.webp",
+      "source_sha256": "89fea05ab72e05238cebf4357445a29493b142f29edcab22ba58a015f10ef6b0",
+      "output": "bg/mansionentrance/mansionentrance_season_night_winter@2.webp",
+      "sha256": "1e54b0b880a5fac9c1ac60084e0ffc5afcb7ddb7d2ec1ce48178e784537775c2",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.575884599998972
+    },
+    {
+      "source": "bg/nightclub/nightclub.webp",
+      "source_sha256": "08525b6cab1e2c455d2e5dd1d86cee1e72c0c39c993572cfb6c36d3a95efe75f",
+      "output": "bg/nightclub/nightclub@2.webp",
+      "sha256": "42119614ff84244ec376ba89cf379a373dbfcfc6cce7100d86e3fbcb3bb62043",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.334153899999365
+    },
+    {
+      "source": "bg/nightclubbar/nightclubbar.webp",
+      "source_sha256": "b7437ded306fd265178083c13b1e28b9813df295633d062df925ea279422face",
+      "output": "bg/nightclubbar/nightclubbar@2.webp",
+      "sha256": "a6a464a932ed1a4db570c0e70370f03f571dba55646b3dccb8325195175463a4",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.56171710000126
+    },
+    {
+      "source": "bg/office/office_day.webp",
+      "source_sha256": "1f9d464ab3ba9ef5fc1c7477d6c0fc3f4d01200289f64ee0b1de0e9241c4efcc",
+      "output": "bg/office/office_day@2.webp",
+      "sha256": "87e6e1191f594fed6eaffb67367ddcc80eb3ab6323d3b34e64dc2c1f98c92e80",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.554975399998511
+    },
+    {
+      "source": "bg/office/office_night.webp",
+      "source_sha256": "4551d24d01205f987474317eb5c43bac77aed84dce93bde09a7ff01b305e4fd4",
+      "output": "bg/office/office_night@2.webp",
+      "sha256": "61de7f44d6fa31fb46d24966cfdc730fcea2a763b0ded8a861b172b54b85527f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.435228500002268
+    },
+    {
+      "source": "bg/pallabedroom/pallabedroom_day.webp",
+      "source_sha256": "e55a499eedf3a0fcee871bfcaf6e7198c901309944e2aeaa806a9903a4a7d249",
+      "output": "bg/pallabedroom/pallabedroom_day@2.webp",
+      "sha256": "2ff369fcfaa7db63a91978f84e286e052f042de031bca948f3bcb6b03acbafe9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.486299399999552
+    },
+    {
+      "source": "bg/pallabedroom/pallabedroom_night.webp",
+      "source_sha256": "f119b58b719d483dc7d6571c82137d7906262cad4568378d28550fc19df53f77",
+      "output": "bg/pallabedroom/pallabedroom_night@2.webp",
+      "sha256": "10e380942c7b52cfb41d5432040837222c742c5ad02fd15b431a3a82f852529b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.030447599998297
+    },
+    {
+      "source": "bg/pallalivingroom/pallalivingroom.webp",
+      "source_sha256": "67a060ba9a84cde5a9881b0b13cec5a3913bf55f9a98a1e41d3167302e1ce540",
+      "output": "bg/pallalivingroom/pallalivingroom@2.webp",
+      "sha256": "59680daf1c407989e4f4272af45d0de21fc6b362bf6a1094f077e5e2b2f4ce72",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.043430000001536
+    },
+    {
+      "source": "bg/park/date_park_season_day_fall.webp",
+      "source_sha256": "57d2d820f38b6df5adec4708cfdd7e0e9e6ebbe672e26a960bd3a4af29dc6fb3",
+      "output": "bg/park/date_park_season_day_fall@2.webp",
+      "sha256": "12419e22004664882d2955b22db6f49fd87aeb1f6f3694a80df7da1463aac12b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/park/date_park_season_day_spring.webp",
+      "source_sha256": "7622744b6987cf3b9b7f7528cf037eabc7353f64fe6da254e21de3a6fdaf630f",
+      "output": "bg/park/date_park_season_day_spring@2.webp",
+      "sha256": "855559a691de03e7cc81fc8b9e7aa023b7f15cfb89b1cd27ddc94a162b1eead3",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.679133500001626
+    },
+    {
+      "source": "bg/park/date_park_season_day_summer.webp",
+      "source_sha256": "9004473d7173b757f63984b4d00019a530b22827ad258c37faaa0b877bc66605",
+      "output": "bg/park/date_park_season_day_summer@2.webp",
+      "sha256": "dbdf44da6d4c3e6c850be2f8d0d757358f9d327e02a3111da3384453952d7be5",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/park/date_park_season_day_winter.webp",
+      "source_sha256": "056cd139f6771313ec12387c064b92cc361d1665003818ebdc10a09497ed7a28",
+      "output": "bg/park/date_park_season_day_winter@2.webp",
+      "sha256": "5399c84a68ad96aac680ad507ddb196bab5818062e59a3ec5e720f580ff3e39b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 16.940105500001664
+    },
+    {
+      "source": "bg/park/date_park_season_night_fall.webp",
+      "source_sha256": "baea3753d820c13d517ffce66f2e2068dd6d878e3762259e3dd0e07e0f515404",
+      "output": "bg/park/date_park_season_night_fall@2.webp",
+      "sha256": "645bb6a5901170bf56ed09350893cd1f6a2194644ba6c22c90bb5c8707a50d8b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/park/date_park_season_night_spring.webp",
+      "source_sha256": "343640f477a247d222fe3dcc1daa4d448b55a236c5b90b2935954198fa96676e",
+      "output": "bg/park/date_park_season_night_spring@2.webp",
+      "sha256": "4a9c3aeb275bc785501a7f0682b9f5881174e672db3a20efb80002afc41486a9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.64780780000001
+    },
+    {
+      "source": "bg/park/date_park_season_night_summer.webp",
+      "source_sha256": "2f9c2ebaeec189e4b80a854ad9dda8bb90f3682f6523a49ce223ef3ec9db7295",
+      "output": "bg/park/date_park_season_night_summer@2.webp",
+      "sha256": "33a7afd1270446e9075097ca1a9cd9bceb5e43d368d9bab31650aa2823b4ea2b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/park/date_park_season_night_winter.webp",
+      "source_sha256": "49c0e510548e116ac3c8d88e6c4efa7e3319bdf9dd84e5b2940d1e8dc473f63b",
+      "output": "bg/park/date_park_season_night_winter@2.webp",
+      "sha256": "c082700684b03bfb87ce79984569d14cf8c54ab4e12391805fb8ffa88e88f3aa",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 19.753148499999952
+    },
+    {
+      "source": "bg/park/park_season_day_fall.webp",
+      "source_sha256": "57d2d820f38b6df5adec4708cfdd7e0e9e6ebbe672e26a960bd3a4af29dc6fb3",
+      "output": "bg/park/park_season_day_fall@2.webp",
+      "sha256": "12419e22004664882d2955b22db6f49fd87aeb1f6f3694a80df7da1463aac12b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.642730100000335
+    },
+    {
+      "source": "bg/park/park_season_day_spring.webp",
+      "source_sha256": "7622744b6987cf3b9b7f7528cf037eabc7353f64fe6da254e21de3a6fdaf630f",
+      "output": "bg/park/park_season_day_spring@2.webp",
+      "sha256": "855559a691de03e7cc81fc8b9e7aa023b7f15cfb89b1cd27ddc94a162b1eead3",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/park/park_season_day_summer.webp",
+      "source_sha256": "9004473d7173b757f63984b4d00019a530b22827ad258c37faaa0b877bc66605",
+      "output": "bg/park/park_season_day_summer@2.webp",
+      "sha256": "dbdf44da6d4c3e6c850be2f8d0d757358f9d327e02a3111da3384453952d7be5",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 12.137488200001826
+    },
+    {
+      "source": "bg/park/park_season_day_winter.webp",
+      "source_sha256": "056cd139f6771313ec12387c064b92cc361d1665003818ebdc10a09497ed7a28",
+      "output": "bg/park/park_season_day_winter@2.webp",
+      "sha256": "5399c84a68ad96aac680ad507ddb196bab5818062e59a3ec5e720f580ff3e39b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/park/park_season_night_fall.webp",
+      "source_sha256": "baea3753d820c13d517ffce66f2e2068dd6d878e3762259e3dd0e07e0f515404",
+      "output": "bg/park/park_season_night_fall@2.webp",
+      "sha256": "645bb6a5901170bf56ed09350893cd1f6a2194644ba6c22c90bb5c8707a50d8b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.738830099999177
+    },
+    {
+      "source": "bg/park/park_season_night_spring.webp",
+      "source_sha256": "343640f477a247d222fe3dcc1daa4d448b55a236c5b90b2935954198fa96676e",
+      "output": "bg/park/park_season_night_spring@2.webp",
+      "sha256": "4a9c3aeb275bc785501a7f0682b9f5881174e672db3a20efb80002afc41486a9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/park/park_season_night_summer.webp",
+      "source_sha256": "2f9c2ebaeec189e4b80a854ad9dda8bb90f3682f6523a49ce223ef3ec9db7295",
+      "output": "bg/park/park_season_night_summer@2.webp",
+      "sha256": "33a7afd1270446e9075097ca1a9cd9bceb5e43d368d9bab31650aa2823b4ea2b",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 16.808538500001305
+    },
+    {
+      "source": "bg/park/park_season_night_winter.webp",
+      "source_sha256": "49c0e510548e116ac3c8d88e6c4efa7e3319bdf9dd84e5b2940d1e8dc473f63b",
+      "output": "bg/park/park_season_night_winter@2.webp",
+      "sha256": "c082700684b03bfb87ce79984569d14cf8c54ab4e12391805fb8ffa88e88f3aa",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 0
+    },
+    {
+      "source": "bg/personal/personal_day.webp",
+      "source_sha256": "edd8f6b72735199f635d467dac2a2ba1ed7cc3afdd8ebc9c4bcf925cb33d6f7f",
+      "output": "bg/personal/personal_day@2.webp",
+      "sha256": "6f7feb75a21a0699f415ff741906fa525fbdc746d4917bd93c45e72ec208c4c4",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.917781200001627
+    },
+    {
+      "source": "bg/personal/personal_night.webp",
+      "source_sha256": "e416db4bbbd196c87544286e193badaaaebd3bbbd7f375040dc019d7e201d677",
+      "output": "bg/personal/personal_night@2.webp",
+      "sha256": "4eda5acea8814ca5afeaa993fa5ae2de20b57561b7b386404f251f68e7768daf",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.037916699999187
+    },
+    {
+      "source": "bg/phonesplit/split_bar.png",
+      "source_sha256": "f031a55f0c5483919a5e4a7a7a55a9d55ce8e6861b34f430079f03e088def8a4",
+      "output": "bg/phonesplit/split_bar@2.png",
+      "sha256": "cc47a9f96843b6cbdb4a4c31c0398905d94edb4ab2dd8e3e0e555d231302c777",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "lanczos-mask",
+      "seconds": 0.116388200000074
+    },
+    {
+      "source": "bg/phonesplit/split_mask_left.png",
+      "source_sha256": "6a973e2c61004ae832dd9ca0fe62e614b1274c79286f8755afae6be261470da3",
+      "output": "bg/phonesplit/split_mask_left@2.png",
+      "sha256": "39a125e26cadba07376068af7a58d003b0341b17b454cce68d8b02632d9bb9f1",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "lanczos-mask",
+      "seconds": 0.1015713999986474
+    },
+    {
+      "source": "bg/phonesplit/split_mask_right.png",
+      "source_sha256": "ce0a955bd83f102f4c984fb23ad349c3059a9a8c24bedfa5c920e8a8a562e5a3",
+      "output": "bg/phonesplit/split_mask_right@2.png",
+      "sha256": "242a11b99df960df909acc69bc448f82243c583900516d277f23e2550c521a65",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "lanczos-mask",
+      "seconds": 0.10767359999954351
+    },
+    {
+      "source": "bg/photostudio/photostudio.webp",
+      "source_sha256": "693e76e713269b98c9379e7ecc9969f09efae3100a67aa5ccdb2712a595a726f",
+      "output": "bg/photostudio/photostudio@2.webp",
+      "sha256": "caf1e82e3d1255db333c854ff8d91efdbb4341dcfed428f023dfc7559e1820ab",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.02579070000138
+    },
+    {
+      "source": "bg/policestation/policestation_day.webp",
+      "source_sha256": "37a10b28a15989ad8ed987bef0d4d663086b75dc9c1bfab01d82f620defb012e",
+      "output": "bg/policestation/policestation_day@2.webp",
+      "sha256": "bbe6761ad8e5c599d564e9dc686c46315c930c1f4891de0370e9602c2e14d232",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.966230099998938
+    },
+    {
+      "source": "bg/policestation/policestation_night.webp",
+      "source_sha256": "9a168401fb011d12fefd074845a26aa76fbd4bbfb23183d7861cc3e331797aed",
+      "output": "bg/policestation/policestation_night@2.webp",
+      "sha256": "f012c7a3524ae6fead0ea465b96bb3f5224d0423c49f87a07a6dadcc185be930",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.167950299997756
+    },
+    {
+      "source": "bg/pond/pond_season_day_fall.webp",
+      "source_sha256": "59440726bcb829c0219c50b8d4d2587a31ff2d2fe26119a4407ac35acee066c6",
+      "output": "bg/pond/pond_season_day_fall@2.webp",
+      "sha256": "264f0c640ddd448c9ac223323cda6a1a80ac9a0dfc23d0af01be51e7f3606bf0",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.975018099998124
+    },
+    {
+      "source": "bg/pond/pond_season_day_spring.webp",
+      "source_sha256": "19b50508f06ae2a9bea94f3ddaedfe618594018107ae8b9dc5371b14ad89f5ad",
+      "output": "bg/pond/pond_season_day_spring@2.webp",
+      "sha256": "21e5f5a6df050590ca6ffbc5142bad9f8f147d6bab45b1beefb8a365d05704fb",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.4408018000031
+    },
+    {
+      "source": "bg/pond/pond_season_day_summer.webp",
+      "source_sha256": "edac08edb5dd597be598cd35addd55069a97589b0859f07f610dc94950df0351",
+      "output": "bg/pond/pond_season_day_summer@2.webp",
+      "sha256": "47798d1f8f2054abea4532586895de90319375898b2affaa266bdacefc5fe93f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.969559299999673
+    },
+    {
+      "source": "bg/pond/pond_season_day_winter.webp",
+      "source_sha256": "18b19b66d75c9ca8f5fa4a0ae6d944d85533e43b20ca1dc0552a76072b247173",
+      "output": "bg/pond/pond_season_day_winter@2.webp",
+      "sha256": "12be4cdae00bbf201fe27fd277bae8a86fa9d8a74df7d2374373590c5bc45f25",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.109382599999662
+    },
+    {
+      "source": "bg/pond/pond_season_night_fall.webp",
+      "source_sha256": "fcfa5cd769f7516e150a02df67564d3a8c8e0756bc718ab8ae0640deeadb954b",
+      "output": "bg/pond/pond_season_night_fall@2.webp",
+      "sha256": "c2a8a9d94b24f6ca70fad50966366856669ff7c3fc45b45fe342ad2b1b90c329",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.493202400000882
+    },
+    {
+      "source": "bg/pond/pond_season_night_spring.webp",
+      "source_sha256": "df544fe29ca486c36b83bddde0745b58312cd60817a091542b26bca12635708d",
+      "output": "bg/pond/pond_season_night_spring@2.webp",
+      "sha256": "227f0a9aab9e9b332f076650ea94f5fd899675439c79944d02d2afea3738fd4d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.471428100001503
+    },
+    {
+      "source": "bg/pond/pond_season_night_summer.webp",
+      "source_sha256": "77fc1c371556c95e4f045101dbe37ad2e01b2429685d90c35835bbe3aecd4635",
+      "output": "bg/pond/pond_season_night_summer@2.webp",
+      "sha256": "b751708594c0fa5a8eed63a81a9975a2ddd002eaf58ec0d5d8ea6e17a715d3f0",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.000890800001798
+    },
+    {
+      "source": "bg/pond/pond_season_night_winter.webp",
+      "source_sha256": "87a642d22e531a83688bbe6a70293f4fe109b098558e3967d177702d048e9f6e",
+      "output": "bg/pond/pond_season_night_winter@2.webp",
+      "sha256": "2c6f3b1501ad04d2779926a7573fb8fc89a2b480de7006c63a64117b96a120c0",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.815816700000141
+    },
+    {
+      "source": "bg/pool/pool_season_day_fall.webp",
+      "source_sha256": "3fce060ae785883d3ae8a202a062eea9654b11ab10d6088449ce19265c0b5ff8",
+      "output": "bg/pool/pool_season_day_fall@2.webp",
+      "sha256": "543b644813c149e35d111bc61632a1e1955a2c618ab9241d76539bc4bd42afd7",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.777134100000694
+    },
+    {
+      "source": "bg/pool/pool_season_day_halloween.webp",
+      "source_sha256": "32bde9d29f04116eacd2003a426dc4f48fef48e7ef6b0ecc79447c179d6bf690",
+      "output": "bg/pool/pool_season_day_halloween@2.webp",
+      "sha256": "39d173dc9f503cdea820ee7567c28988d037c14d6243cc0737aeb89fa71dcaeb",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 11.505607099999906
+    },
+    {
+      "source": "bg/pool/pool_season_day_spring.webp",
+      "source_sha256": "34eaea182a51dd28ce44760f27d6ae9789261fe8fafc6e90f45ef50b336248d5",
+      "output": "bg/pool/pool_season_day_spring@2.webp",
+      "sha256": "390d97e093b420013555138c90c0817b3b95a482a0cf0b928e047f7c957dd468",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.746326000000408
+    },
+    {
+      "source": "bg/pool/pool_season_day_summer.webp",
+      "source_sha256": "ca6767e98be0fe5eac844536c3e5171686da98057f3c8e829c99471adfac8069",
+      "output": "bg/pool/pool_season_day_summer@2.webp",
+      "sha256": "767916c81224131a45e762fdff5a0dea0f51760650d1a24ed4e450d2e428cecf",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.856514300001436
+    },
+    {
+      "source": "bg/pool/pool_season_day_winter.webp",
+      "source_sha256": "3af9e701343e8baf0f95308a932f9bf0d2c4cf9b8720bf35dfba931f13987de8",
+      "output": "bg/pool/pool_season_day_winter@2.webp",
+      "sha256": "fdc860954287089984ff9f3969462c07c0217885013c0ec876c48d1b32fec9fa",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.471309399999882
+    },
+    {
+      "source": "bg/pool/pool_season_night_fall.webp",
+      "source_sha256": "61f86f4f655d36fbb23703a96ab1231c49120d613dfcd2237c58512d7fcb7f5c",
+      "output": "bg/pool/pool_season_night_fall@2.webp",
+      "sha256": "7774abdf0eccd1bd6c82441a666fd1000eea7e62efba1ab70d073b7ca7604e0c",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.444644100000005
+    },
+    {
+      "source": "bg/pool/pool_season_night_halloween.webp",
+      "source_sha256": "a96843028d80102bb8f94d95c3c45a465380945bda7a5bcd171fb21a5b73f844",
+      "output": "bg/pool/pool_season_night_halloween@2.webp",
+      "sha256": "135578d76481c49024f108de386ade1cbc5352ad6a42efb83180e8c79b20cc54",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.891493999999511
+    },
+    {
+      "source": "bg/pool/pool_season_night_spring.webp",
+      "source_sha256": "edc057c78dd11a3436cd344747a6083fe02a592a912588375e090de311aacf42",
+      "output": "bg/pool/pool_season_night_spring@2.webp",
+      "sha256": "3d1b17de5dd00249a5be1cc3f18f28f6fcee4d0a326114117bdb21d9c4835e67",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.901638199997251
+    },
+    {
+      "source": "bg/pool/pool_season_night_summer.webp",
+      "source_sha256": "c1627e44080635d977d4dd5a525a6920fa328ab61cddefd7e09f3598e86bf4df",
+      "output": "bg/pool/pool_season_night_summer@2.webp",
+      "sha256": "c222410c8c82c5b07bc4d03fa046e153f0cbca029e2e7732d6b3a16fc0906174",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.633733700000448
+    },
+    {
+      "source": "bg/pool/pool_season_night_winter.webp",
+      "source_sha256": "916a27ec2257fdee6044e931280d1e98ab1a81747c42108712082a8f5d05bdba",
+      "output": "bg/pool/pool_season_night_winter@2.webp",
+      "sha256": "d0723fdc79b268d9fef8940ce3e6002d820c1b46894094f8b15c7301ef4bdd6e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.287090500001796
+    },
+    {
+      "source": "bg/pub/pub.webp",
+      "source_sha256": "32954b45a12f86b4ab6a9148de13c4acb83832671c2874ee07eb42570e9fa5aa",
+      "output": "bg/pub/pub@2.webp",
+      "sha256": "457aef3058fb6c66be2991258e70c7ac028e48b7d0cea59dd212e335389d3c93",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.648558400000184
+    },
+    {
+      "source": "bg/pubexterior/pubexterior_season_day_fall.webp",
+      "source_sha256": "dd9a200cfafc10e75296e5202b4bc685c21fbc756b095a35042a4cc1ad2001a0",
+      "output": "bg/pubexterior/pubexterior_season_day_fall@2.webp",
+      "sha256": "a2da4611694c30c2929da5bacba0d66058c9dd5a84dff615eab6168969997b8d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.753821000002063
+    },
+    {
+      "source": "bg/pubexterior/pubexterior_season_day_spring.webp",
+      "source_sha256": "a43ccb5e4c0e02bd20776b9fa541ee8ebd4acf04da669f5c517222ea9a8b7cc1",
+      "output": "bg/pubexterior/pubexterior_season_day_spring@2.webp",
+      "sha256": "7ae2414aa39d0d2e4bc7c2259c244e70150a18c34f5e8548ddd044a0831ebe69",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.156693600001745
+    },
+    {
+      "source": "bg/pubexterior/pubexterior_season_day_summer.webp",
+      "source_sha256": "5d0ca602ccaf71463f593243d1bae43b719af6b87ad9790e98ee9e7bd046ed8d",
+      "output": "bg/pubexterior/pubexterior_season_day_summer@2.webp",
+      "sha256": "8ea3b1f52956da1ed75bc18dfec7db84037982ec0dfb0c92ced4dcd119002af3",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.791295199996966
+    },
+    {
+      "source": "bg/pubexterior/pubexterior_season_day_winter.webp",
+      "source_sha256": "740f777af32daf8f6c6ca6cf0b49d3dca329b8566eac116cfb31a16566c3eda4",
+      "output": "bg/pubexterior/pubexterior_season_day_winter@2.webp",
+      "sha256": "09064df01c307c91d2ad16ea3158e612e8a2ca3838a8644624575d06fa084c69",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.623816600000282
+    },
+    {
+      "source": "bg/pubexterior/pubexterior_season_night_fall.webp",
+      "source_sha256": "83d049d46e558e4ff40ccf27c0f60c77a36ca3b63f2eaf379a7f8c60f1f7e32b",
+      "output": "bg/pubexterior/pubexterior_season_night_fall@2.webp",
+      "sha256": "b1727449e217823e129416f26268016ccafc20bb6467e44f70eeb911fda71526",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.961669799999072
+    },
+    {
+      "source": "bg/pubexterior/pubexterior_season_night_spring.webp",
+      "source_sha256": "8eb3f23c917d42d291ed0c532a357b5cdb03e94ff33ae3540919188460122676",
+      "output": "bg/pubexterior/pubexterior_season_night_spring@2.webp",
+      "sha256": "9ccc19f7b3bcfdfd555bba18872de3517b9b99f111f10827798c63594444b3c7",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.873697499999253
+    },
+    {
+      "source": "bg/pubexterior/pubexterior_season_night_summer.webp",
+      "source_sha256": "c5cb08ba954695b97d5bef77147432a2037d3bdf284e6bb4bfa5cb6603596b72",
+      "output": "bg/pubexterior/pubexterior_season_night_summer@2.webp",
+      "sha256": "e4c6586274e647676133dda8d1f9526b4a7ea40922f012321c6bcff5e2fd7863",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 10.621415000001434
+    },
+    {
+      "source": "bg/pubexterior/pubexterior_season_night_winter.webp",
+      "source_sha256": "33a15797eb35873f6fb46cf33ac5c52b2776ceda6fb6ea5edb33959d72224a99",
+      "output": "bg/pubexterior/pubexterior_season_night_winter@2.webp",
+      "sha256": "b2d953235cb5c66159d2ffbb85286f08bd36bd98d8762cd3eeb463b3efb72818",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.313538700000208
+    },
+    {
+      "source": "bg/publicbathroom/publicbathroom.webp",
+      "source_sha256": "987ecd2d179e44f3e39d6d47ee10aae0ec7093375f4defcd279697f2d78d6c42",
+      "output": "bg/publicbathroom/publicbathroom@2.webp",
+      "sha256": "3d88e1b34f7fc9c695efe8bd21fc084c5e3d561e9138ab94b59555572c6cda4e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.74267559999862
+    },
+    {
+      "source": "bg/pubplay/pubplay.webp",
+      "source_sha256": "02e8e6fd9ca0a410a3a3aa6e4ffa38db03cc7e5f8e0bd4c5233082dbc6de3081",
+      "output": "bg/pubplay/pubplay@2.webp",
+      "sha256": "220141180251c89486edd60875ae67b0a1de4b9245759ab7a53c0ef93c294c8f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.8640455000022484
+    },
+    {
+      "source": "bg/pubseat/pubseat.webp",
+      "source_sha256": "8153fbb61826e0e9faba3d445c29aa0cbecbbdb8d1547102d3aaeb2616d25df9",
+      "output": "bg/pubseat/pubseat@2.webp",
+      "sha256": "11fc86978a521489d085b784807d90fdb6fed7a648af6892a58b72c1926e9942",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.937669299997651
+    },
+    {
+      "source": "bg/ramenshop/ramenshop.webp",
+      "source_sha256": "efea2502095a672ee7dabb731c76b0c4e8deb550b673e6d2847a6ef0400ed2f1",
+      "output": "bg/ramenshop/ramenshop@2.webp",
+      "sha256": "29499ca8768d5ae7fdccfc02156eb96a84f7ff739e0f5032c57658db694fb0d9",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.322857700000895
+    },
+    {
+      "source": "bg/restaurant/restaurant.webp",
+      "source_sha256": "6e4e23502db830564ce90d52500b3ad984aa710de5c387cf3ab0033a372683a7",
+      "output": "bg/restaurant/restaurant@2.webp",
+      "sha256": "772d42970b6a00a6557f1ca05b9a0677af6dfd8ac7b7a0f5c46d598bb924cb99",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.238041800002975
+    },
+    {
+      "source": "bg/restroom/restroom.webp",
+      "source_sha256": "8c2bfe5d0b54accde837ad8f95cb95ee700d884b101bd225ae64898ff94144c8",
+      "output": "bg/restroom/restroom@2.webp",
+      "sha256": "a42a6b9e189f047d51f412bf2711e26ff01fe24e22f7adc46a5954e4a830a183",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.637803099998564
+    },
+    {
+      "source": "bg/rooftop/rooftop.webp",
+      "source_sha256": "552cde52da5c7023f351d2490db82bb49c1f475cde1678316f91818e5dc5b47f",
+      "output": "bg/rooftop/rooftop@2.webp",
+      "sha256": "e8d14703b9386249f356c2a650d9a808fc02b6f448b95962ec261e4ce1c7ebb2",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.004766299996845
+    },
+    {
+      "source": "bg/rpg/rpg_village_day.webp",
+      "source_sha256": "8097fb716219eed8fb096bdcc23925003975d96b597f3137815bab82e227b033",
+      "output": "bg/rpg/rpg_village_day@2.webp",
+      "sha256": "5fd99725d4a865985cec098ac67c304efd4605d1d2507ac868d202f1706998d5",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.569522000001598
+    },
+    {
+      "source": "bg/rpg/rpg_village_map.webp",
+      "source_sha256": "a9cbae2aea5949ffe1f77ceb72329f886a4f05c3bc04e17231b90b8a98beb571",
+      "output": "bg/rpg/rpg_village_map@2.webp",
+      "sha256": "20847f96bc8fcbd83201f3c8d71d35b816844c5c4e14afbacec349ec80c72d20",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.674359500000719
+    },
+    {
+      "source": "bg/rpg/rpg_village_night.webp",
+      "source_sha256": "94b6eb452ac42cedd3ba79a9c69f24996f3b83326dc57d208beb5898b0590bee",
+      "output": "bg/rpg/rpg_village_night@2.webp",
+      "sha256": "41abdfc406a89b4fb6c18e73cf02e583ca71a750531979adf45439acfbf99686",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.944299900002079
+    },
+    {
+      "source": "bg/rpg/rpgfeast.webp",
+      "source_sha256": "7a16f759c429105fb8637f3560f47c850bd1dd0e0b21801d53650fc21d33d1cb",
+      "output": "bg/rpg/rpgfeast@2.webp",
+      "sha256": "16641fadfd591847165c2f4f402f141d26940f0111451e9a6ade8e78eaa7f19a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.214975499999127
+    },
+    {
+      "source": "bg/rpg/rpgforest.webp",
+      "source_sha256": "5719f66f17cba761e4111516fafc4a0885fe8782d72d59dec898a2338c080b87",
+      "output": "bg/rpg/rpgforest@2.webp",
+      "sha256": "9da342a3380a993f5776d335e7ab43f77a8cc0d6415ab1f07904f3e0fc8fecdb",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.021662099999958
+    },
+    {
+      "source": "bg/rpg/rpggarden.webp",
+      "source_sha256": "f3d223c768bb0b0a756f7e9262354aa437127e10cde4dde8e784717de2397e6c",
+      "output": "bg/rpg/rpggarden@2.webp",
+      "sha256": "5d8bf8bb4c9f54b323f826483a4a5d2c5b24296170c29cd13a6456cbad642732",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.340641000002506
+    },
+    {
+      "source": "bg/rpg/rpgroad.webp",
+      "source_sha256": "5583d2fa29cfaed7a6c0f511dff7efd5aad984ba6f05598f10d50ab109178878",
+      "output": "bg/rpg/rpgroad@2.webp",
+      "sha256": "e2d5908bbe2db59eb99cdff34b3ad2e24fde3d324ccaba86fd979d1544d9c272",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.503732799999852
+    },
+    {
+      "source": "bg/rpg/rpgthrone.webp",
+      "source_sha256": "1f5ef6c3279dab512a40132d24efd51e8fc66d1427b4e3a5a18d4e79ed1f4a86",
+      "output": "bg/rpg/rpgthrone@2.webp",
+      "sha256": "d5b7e77c27c02b255717ef2d994cf3ad3cb331daf9a271e0db2c99a2c20cb1b6",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.417725700001029
+    },
+    {
+      "source": "bg/samhome/samhome.webp",
+      "source_sha256": "66afc83f1c8aea8d1fa39e690268d75d6916cad3db1fc9eb75909a8afa33386a",
+      "output": "bg/samhome/samhome@2.webp",
+      "sha256": "cda69b07d1b2e0d6de272606cd7077cecead9f131dd1060d2ff2c1eecf7f11dd",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.046691399998963
+    },
+    {
+      "source": "bg/secondfloor/secondfloor.webp",
+      "source_sha256": "6fad731bf91e0904cf3e1cd2f2d8f9297b5dc4f41540ae02029854dc11edeb41",
+      "output": "bg/secondfloor/secondfloor@2.webp",
+      "sha256": "d161ef1f846f4c968df5e4e7c2c326e97f23a794082c7b85a5811ef444d9a9ec",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.8881276000029175
+    },
+    {
+      "source": "bg/sexshop/sexshop.webp",
+      "source_sha256": "1c7383bf7f76b0f32f417395037afa8673b621e6bfe68609ba51b207160f29d6",
+      "output": "bg/sexshop/sexshop@2.webp",
+      "sha256": "c07fbf2108cf21dd98c982f2fa6c022980aa87fc4f63fb02926d338b84d99ea5",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.86355900000126
+    },
+    {
+      "source": "bg/shawnbedroom/shawnbedroom_day.webp",
+      "source_sha256": "f20cd3356b3fee1fae8a8b37f58f74e7abb330dda9fc47b34192cadece3ea0cd",
+      "output": "bg/shawnbedroom/shawnbedroom_day@2.webp",
+      "sha256": "5338f68bd7ce07cc2e50c813b06af6ba38c6032ae6ed452b204abda6d2a82d56",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.978264200002741
+    },
+    {
+      "source": "bg/shawnbedroom/shawnbedroom_night.webp",
+      "source_sha256": "eaab5291ce02fbc028d75fa409485c4a790f99342a04852420ec27758f951fd4",
+      "output": "bg/shawnbedroom/shawnbedroom_night@2.webp",
+      "sha256": "a9458e31f094512f9d792d74eddc6e4a029e8f1d1dc097fc3836f40f4fadbebb",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.815756200001488
+    },
+    {
+      "source": "bg/shootingrange/shootingrange.webp",
+      "source_sha256": "f3f5d22302bd34fefb1643aaf9e9cbaae0fed08b3eed90335df80591118246db",
+      "output": "bg/shootingrange/shootingrange@2.webp",
+      "sha256": "e3b869b06a27c1c512154cbca4a7be0d12a1b579af29348f18f5608519848ed6",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.683880799999315
+    },
+    {
+      "source": "bg/street/street_season_day_fall.webp",
+      "source_sha256": "6aea22d5eb32f795b50dd3999fcb744d7f6d3e33b24934e3d6d4c1edfde3ef61",
+      "output": "bg/street/street_season_day_fall@2.webp",
+      "sha256": "063b9a900aecf741a30eddc0222deae40a93a910eca0b358827f24f3e45d3dbe",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.058023500001582
+    },
+    {
+      "source": "bg/street/street_season_day_spring.webp",
+      "source_sha256": "60183017a01e4e1ccec62c1aca426c06e411e7dac7e19d5031c35e2682f315d2",
+      "output": "bg/street/street_season_day_spring@2.webp",
+      "sha256": "864f53ae8200220dceebdca2ff5bcbfd89ad94cfa099611bbf6db04464cfd98e",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.905899000001227
+    },
+    {
+      "source": "bg/street/street_season_day_summer.webp",
+      "source_sha256": "c755336ab63939bb1d36d4d3bf89331c4a75d7066ca03068560eb3df14ee8724",
+      "output": "bg/street/street_season_day_summer@2.webp",
+      "sha256": "c822eed25b53df0c4ffbc4e25f1b5018199b7bad0722d59a3e097f67ad12341d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.03841690000263
+    },
+    {
+      "source": "bg/street/street_season_day_winter.webp",
+      "source_sha256": "04130e73349c7a044e7b9d1d6e9384d7e14e236d997e0c9520073b1fcfb2ea48",
+      "output": "bg/street/street_season_day_winter@2.webp",
+      "sha256": "6678dc52dd2be89ac417fe9b2078f1ba126f557dd7c214b076d3c29b5a982e97",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.901713900002505
+    },
+    {
+      "source": "bg/street/street_season_night_fall.webp",
+      "source_sha256": "d1761e878d0132cf2449965b26477c6c4e0bb88ca23800e5c18195bee397768d",
+      "output": "bg/street/street_season_night_fall@2.webp",
+      "sha256": "40d23bdc1f4bf8f832472ef153fb1efe7d489f4eae1416605ccea85675d7a60d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.08727060000092
+    },
+    {
+      "source": "bg/street/street_season_night_spring.webp",
+      "source_sha256": "24aa3ff9c6bac84e3cdb91a4ac55510b6e160dafcce25e529ff4a413dcf4c65e",
+      "output": "bg/street/street_season_night_spring@2.webp",
+      "sha256": "b4eed49c4565e09a07b55b3c7c45152319e59727559f7249d55ca049caf05115",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.6622886000004655
+    },
+    {
+      "source": "bg/street/street_season_night_summer.webp",
+      "source_sha256": "6b8243b6894a0775130e2d90c7f7146295cfbc1b5ff45d9e7ee5e89b434e235f",
+      "output": "bg/street/street_season_night_summer@2.webp",
+      "sha256": "64b91fcadacb98f4021f0b7652a3fa8ce041455aefb88707d1f884f634a8f4b3",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.271271000001434
+    },
+    {
+      "source": "bg/street/street_season_night_winter.webp",
+      "source_sha256": "6b73b6e5e5bced618604c38b433b98e7b51d6cbda788e77c6c309556246a322b",
+      "output": "bg/street/street_season_night_winter@2.webp",
+      "sha256": "4276a7a51834f17ad912516ac22aff88c51bbbbdcec4c93f90a7ff867881c389",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.163820300000225
+    },
+    {
+      "source": "bg/street2/street2_season_day_fall.webp",
+      "source_sha256": "f7e27b6c1eaa143b185f526418fd1c3282c69b1a188147ad8b5de2c849145b3a",
+      "output": "bg/street2/street2_season_day_fall@2.webp",
+      "sha256": "370d2479aaa9a8a9a5a1521d808e695c21d1ad6d1441e27f0e6a9ce110123c75",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.809025399998063
+    },
+    {
+      "source": "bg/street2/street2_season_day_spring.webp",
+      "source_sha256": "2f9fe9e9a5afb35bf11acb5225ac7bc3cc59dfc51d2f922ff3d3a928f0656f66",
+      "output": "bg/street2/street2_season_day_spring@2.webp",
+      "sha256": "fd79744bf1c4eea867ae57a187715c227f6e146cb99fb885f7f667170ef1c665",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.267208400000527
+    },
+    {
+      "source": "bg/street2/street2_season_day_summer.webp",
+      "source_sha256": "9cf5c042bd743bfcbc224f967725c0c7ec3683b97ab95dce95431715f2a5dc0a",
+      "output": "bg/street2/street2_season_day_summer@2.webp",
+      "sha256": "703b18167510012c636a0513f2ae63bd4ca3096021b813a29154f86e92a97ab4",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.380793299998913
+    },
+    {
+      "source": "bg/street2/street2_season_day_winter.webp",
+      "source_sha256": "e01fc022545eab0621900db523e8a6084b4236e49d922aa23085ca7cdbf7d117",
+      "output": "bg/street2/street2_season_day_winter@2.webp",
+      "sha256": "d5e94d892582681a453f55b42583fc476f5295c06116125387b60670a2098ee3",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.123528300002363
+    },
+    {
+      "source": "bg/street2/street2_season_night_fall.webp",
+      "source_sha256": "b4392b2720d3328f75e378b2176ec4f6c1b3b190ddae53dae01d7fe81f621653",
+      "output": "bg/street2/street2_season_night_fall@2.webp",
+      "sha256": "07a5ed5a285cdfa2bbfd6e9e05f1a3ad7f6ed268fea889c8d20c333c1d417980",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.8469235000011395
+    },
+    {
+      "source": "bg/street2/street2_season_night_spring.webp",
+      "source_sha256": "819fc5b69926f24d76707d673f1e0714cefed67dbf195af71eb6e25ad866d4e0",
+      "output": "bg/street2/street2_season_night_spring@2.webp",
+      "sha256": "e22e8f4b3868f603b4daac32cdcc21b06ba1a776b62132ba0c1ae6df90cf4b52",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.2674975000009
+    },
+    {
+      "source": "bg/street2/street2_season_night_summer.webp",
+      "source_sha256": "907ef51ca81d5785945ac856850f56a5c182889e2d53a157bb0f7dc23cd5b026",
+      "output": "bg/street2/street2_season_night_summer@2.webp",
+      "sha256": "919a0de38fca11593d2ef97f86d63db6c329837155e793a92e682672126681a7",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.312230899999122
+    },
+    {
+      "source": "bg/street2/street2_season_night_winter.webp",
+      "source_sha256": "bc2ea36847c94d57cc0c622cd23ba5efd50123bf1cfe2072c4a01a4f771ea0be",
+      "output": "bg/street2/street2_season_night_winter@2.webp",
+      "sha256": "ae72ac3cf34033d647d4d2ff3b5ce4f5505242b2aa7ef51fdcd594d14f9949e3",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.648093699997844
+    },
+    {
+      "source": "bg/stripclub/stripclub.webp",
+      "source_sha256": "1a86b400dc5faa1a29070ca7c413414f36210eab16a167f4baebd1edbf51170e",
+      "output": "bg/stripclub/stripclub@2.webp",
+      "sha256": "cdf0864e3309f8b86f6a648f0711af2d53e76a331eee16fe15101b8079f250a0",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.853557700000238
+    },
+    {
+      "source": "bg/studio/studio.webp",
+      "source_sha256": "a9e79a708145305e5af120b2b788975ffa921725d6426f7f8ea338e4cdcc05c3",
+      "output": "bg/studio/studio@2.webp",
+      "sha256": "cea549cd12c96bda812fdca00fa666522459870752af1d79c0bfd1f36a39925a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.8617437000029895
+    },
+    {
+      "source": "bg/tattooshop/tattooshop.webp",
+      "source_sha256": "8ab8dbfaf363273fcff2108a66d2d19d87718a522f3ed65bd8ac43141cc7a0cd",
+      "output": "bg/tattooshop/tattooshop@2.webp",
+      "sha256": "d5d684c4068c860d32959958f8b90657d1409956a4a446452c884e18aba81d09",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 8.5133722999999
+    },
+    {
+      "source": "bg/taxi/bg_taxi_back_day.webp",
+      "source_sha256": "13e4c30a26c0e6a33464f4cb17f57aa066f18c6b46f54b4a74879ef40143653f",
+      "output": "bg/taxi/bg_taxi_back_day@2.webp",
+      "sha256": "041a88d1540a6a9d64faa318550a0c726da69f2194d8feaaa6f11780c972cddb",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.098557299999811
+    },
+    {
+      "source": "bg/taxi/bg_taxi_back_night.webp",
+      "source_sha256": "ea0c34cc0914e268246bf01b2dd66cd3aab70ea17bb8f42333ec6d6939bc5327",
+      "output": "bg/taxi/bg_taxi_back_night@2.webp",
+      "sha256": "6571f8b446a53345b7505c5d766e2670bb0708dfba8f93a9b001bd1820b03702",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.161283000001276
+    },
+    {
+      "source": "bg/taxi/bg_taxi_car_closed_day.webp",
+      "source_sha256": "ca6a1ace1698e0dc824d4b1b84e035459b85a74caeefd561c5a3a8a6423dcf35",
+      "output": "bg/taxi/bg_taxi_car_closed_day@2.webp",
+      "sha256": "ade3b80d53b9a5e8ddf24220d270163d44c39a5cae12986e085ff6fe2ef1ed4f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 5.642732000000251
+    },
+    {
+      "source": "bg/taxi/bg_taxi_car_closed_night.webp",
+      "source_sha256": "00fbc1e9424b636a4f4ae205ef9bfec3e7e293c1dd441dd952700156c60fd6d2",
+      "output": "bg/taxi/bg_taxi_car_closed_night@2.webp",
+      "sha256": "adc56773e1fc3e10a23a085dfff42f1b94f1f6825ebe3c94c10472ce5a02d7d2",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 5.538560699998925
+    },
+    {
+      "source": "bg/taxi/bg_taxi_car_open_day.webp",
+      "source_sha256": "82f1c0ab54a6693dd8707cea3fd995bd5fc2a77179ca7ff43c6977deb97a23bc",
+      "output": "bg/taxi/bg_taxi_car_open_day@2.webp",
+      "sha256": "79bba3d4ddab08d01214b96b0787c2a11bba6e9ce140082f67f726ec12b96a99",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 5.491596300002129
+    },
+    {
+      "source": "bg/taxi/bg_taxi_car_open_night.webp",
+      "source_sha256": "67a036fb44b512a52aaa1ea5f7c0a05e066f9713a70637f9c8c9bb45546b0799",
+      "output": "bg/taxi/bg_taxi_car_open_night@2.webp",
+      "sha256": "2da9425a1315943c53136af666489ed6c47bfbf5ede98fdc9247f55acfb248e1",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.101205899998604
+    },
+    {
+      "source": "bg/taxi/bg_taxi_shadow_day.webp",
+      "source_sha256": "61fc5460cd9d36cafb5c89f4e95c4594a2865ea84a5aefaf98884294f40b2022",
+      "output": "bg/taxi/bg_taxi_shadow_day@2.webp",
+      "sha256": "8dcb781f1e8fa7c72395f5512bd95368500c653fa8f81c15849b18f4c002096a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 4.771205799999734
+    },
+    {
+      "source": "bg/taxi/bg_taxi_shadow_night.webp",
+      "source_sha256": "c2f999c008de90b70e131a5682f0d0be63c6a2e31f311d157c096c2d5e022f63",
+      "output": "bg/taxi/bg_taxi_shadow_night@2.webp",
+      "sha256": "4523f7b8e104df31a6ed91bd6b33c05c01a4cd248a1a0269e9223e367597bd0d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 5.139958899999328
+    },
+    {
+      "source": "bg/trailer/trailer_season_day_burned_fall.webp",
+      "source_sha256": "16981762b870348efee99442cd5f520cf9010aa20eb1fd79a286d0774268e2c8",
+      "output": "bg/trailer/trailer_season_day_burned_fall@2.webp",
+      "sha256": "ce67dc92a43b57ad82d6cfa6d98e16e8ab6fd6845d4bb7ebdd9c06813ee44f83",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.210838599999988
+    },
+    {
+      "source": "bg/trailer/trailer_season_day_burned_spring.webp",
+      "source_sha256": "80bb2db7e5f13ec57013f4b142460c449cbc64177cbe6efd3541f6eb66913fb3",
+      "output": "bg/trailer/trailer_season_day_burned_spring@2.webp",
+      "sha256": "61d0e06064c24eaf983567455b44ca2e0793613f107c6d7b67e4e91ff0c94779",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.152703700001439
+    },
+    {
+      "source": "bg/trailer/trailer_season_day_burned_summer.webp",
+      "source_sha256": "e536d27d152194e4f58e56c534ea91db9c5a48fc6c6611d0305b95d00023934d",
+      "output": "bg/trailer/trailer_season_day_burned_summer@2.webp",
+      "sha256": "9bc29c36656de89d543ede8f512bdc31bb2a7f6726600ea9cc69bc3326dbf9f3",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.812666100002389
+    },
+    {
+      "source": "bg/trailer/trailer_season_day_burned_winter.webp",
+      "source_sha256": "80b5f07261b57c2fc2db535c1fafe0706a360e8cbbc07a39de4eb8465742f163",
+      "output": "bg/trailer/trailer_season_day_burned_winter@2.webp",
+      "sha256": "4bb44f9c5fd55a6c77e70c88f0190418913d77d77dc1ec393add86b3abe8fb8a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.953214400000434
+    },
+    {
+      "source": "bg/trailer/trailer_season_day_fall.webp",
+      "source_sha256": "7acb0e5e7e1de1d2401fd52d0af6efc9ba425c1d1ee9d4cd7516330465e47cb3",
+      "output": "bg/trailer/trailer_season_day_fall@2.webp",
+      "sha256": "19b83c812de7222eb510747c402f6fefe85256a7a376dc4bc8e42e1d33236e1f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.745860900002299
+    },
+    {
+      "source": "bg/trailer/trailer_season_day_spring.webp",
+      "source_sha256": "6ce65f0354ad5a10d1f84f30fbb11dda3b926f0bec6ef85943f6661f69f6fc1a",
+      "output": "bg/trailer/trailer_season_day_spring@2.webp",
+      "sha256": "cd6087bd63881fce11bbd9f6833c0d3caac34931a63282e882c767efda081074",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.214438800001517
+    },
+    {
+      "source": "bg/trailer/trailer_season_day_summer.webp",
+      "source_sha256": "dea6a67019443d698f4a55ea1b7835e5e7134d94be3008554f043986b1ffce85",
+      "output": "bg/trailer/trailer_season_day_summer@2.webp",
+      "sha256": "aa470428a404a9963c6fad8f3f73ab5731b7eee1172baa47c6bb3c4ec4fa4aa2",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.062071000000287
+    },
+    {
+      "source": "bg/trailer/trailer_season_day_winter.webp",
+      "source_sha256": "2333cc99c79a78a7e3c55250d7fbd42dbc756f502cd8c69dfb04202ebdbd4d11",
+      "output": "bg/trailer/trailer_season_day_winter@2.webp",
+      "sha256": "6fa6563f9124452de8df84a47f5df069f874065668cdb457efd272def27b3252",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.223209799998585
+    },
+    {
+      "source": "bg/trailer/trailer_season_night_burned_fall.webp",
+      "source_sha256": "c0ca2e4b0c4cb5b80e57ba3e1df257cfd4c11ab26574be5e5b87a3c4445badd1",
+      "output": "bg/trailer/trailer_season_night_burned_fall@2.webp",
+      "sha256": "924a26df71dc5b41a3613c18c0f122689c93355177acdf4e7a6cc37b1bd20756",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.734237399999984
+    },
+    {
+      "source": "bg/trailer/trailer_season_night_burned_spring.webp",
+      "source_sha256": "0ca408f7136e3c23f0f9fb2669b4b6cff38d008457d063505541733bf8df52e1",
+      "output": "bg/trailer/trailer_season_night_burned_spring@2.webp",
+      "sha256": "b5266fed736ad8d3144bbda0c8af8eac488e45edefe468009ed5360a1a3ab954",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.970116500000586
+    },
+    {
+      "source": "bg/trailer/trailer_season_night_burned_summer.webp",
+      "source_sha256": "a0ecbe541fb1a0bc00adfe5884578d981d21fbdcd135cc599cb29dcf023968f9",
+      "output": "bg/trailer/trailer_season_night_burned_summer@2.webp",
+      "sha256": "76084419ee512e43425ecd7f5bfa95c2c3aa15401337d523c9b6c56f4d265a64",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.115678300000582
+    },
+    {
+      "source": "bg/trailer/trailer_season_night_burned_winter.webp",
+      "source_sha256": "418ff2a3314b9af1a06c2d811d2fe172ab9bccd6ca728a328705b6c2503c8555",
+      "output": "bg/trailer/trailer_season_night_burned_winter@2.webp",
+      "sha256": "7a78b6d71a6710dc9ae8d17999ef6f700ce0106de0b20a1dd7d1e7d341ad598d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.795703800002229
+    },
+    {
+      "source": "bg/trailer/trailer_season_night_fall.webp",
+      "source_sha256": "952a6ce20fe2ab7d6dd37f32c88f647edf3a453483e1e4a1d3be9d364bf45427",
+      "output": "bg/trailer/trailer_season_night_fall@2.webp",
+      "sha256": "bf29c777767914f28bac58ea69232dfa46c6e7e6d964f0898fc11378b032c49f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.769917599998735
+    },
+    {
+      "source": "bg/trailer/trailer_season_night_spring.webp",
+      "source_sha256": "65e22bc4b939162709dbed71ae5adf7ceb6322cd32c5bf6a14f34529b2eeca5a",
+      "output": "bg/trailer/trailer_season_night_spring@2.webp",
+      "sha256": "353c11562108fba696a81ec17a6d7fee88d2405ae59cf3b9d6195ab5b854b774",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.2060195000012754
+    },
+    {
+      "source": "bg/trailer/trailer_season_night_summer.webp",
+      "source_sha256": "651c22a8bb49a3f4c0f3a0e60b39d52c5cc4f6d4e99bccab4ccba26dc9e3c965",
+      "output": "bg/trailer/trailer_season_night_summer@2.webp",
+      "sha256": "360b33556037332eff0198213fcc08708310ac359e971f34a810c72ff25d47c2",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.968425999999454
+    },
+    {
+      "source": "bg/trailer/trailer_season_night_winter.webp",
+      "source_sha256": "835cd455195b404a3acbff60af06aa19fe63e79bb43e3a88a41f66c6a5f8d66e",
+      "output": "bg/trailer/trailer_season_night_winter@2.webp",
+      "sha256": "63b0212681729dcc4f92db8377b6af70eaf1a2db9d9d46fbc765b0fb32d8abd4",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.773356699999567
+    },
+    {
+      "source": "bg/trailerinside/trailerinside_day.webp",
+      "source_sha256": "0345494e878a66b2558f43e26911fff57130021a8ed381bc60b04fb7b9bad0cf",
+      "output": "bg/trailerinside/trailerinside_day@2.webp",
+      "sha256": "733f1440847824048257411139169fbae30efcf6306d741a7efbb55d6a72b30f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.900030999997398
+    },
+    {
+      "source": "bg/trailerinside/trailerinside_night.webp",
+      "source_sha256": "e805343a63f45c57ccb58f5a738a83621400196eff5732b98971230b45cdaca2",
+      "output": "bg/trailerinside/trailerinside_night@2.webp",
+      "sha256": "601d1e89ce27b8650b67b9728af42a006c644c6473c1ed23d4e64de871266926",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.844717600000877
+    },
+    {
+      "source": "bg/university/university_season_day_fall.webp",
+      "source_sha256": "326bf86b4f671c046f5c381b44dbf607e759415edaa1b4db18b332d9a1645bee",
+      "output": "bg/university/university_season_day_fall@2.webp",
+      "sha256": "e57d200888f3da688a97eaa1a8d7c45ba3e6d4dcbba45b5ae3d1d82411c2bab5",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.537374700001237
+    },
+    {
+      "source": "bg/university/university_season_day_spring.webp",
+      "source_sha256": "ac1e073514eddfe581c4420468dd1f806eb8d13254212491dc1b56144df64214",
+      "output": "bg/university/university_season_day_spring@2.webp",
+      "sha256": "cdd59207d376753b74e870e21727526b7fc833d93a507bc1b738af479600232d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.179093200000352
+    },
+    {
+      "source": "bg/university/university_season_day_summer.webp",
+      "source_sha256": "7b605037b35ffabc27ffeb8bbfdb4c1499986ac1cc97ddea8d86ca1c5f3076e6",
+      "output": "bg/university/university_season_day_summer@2.webp",
+      "sha256": "ba1530a3e6246db553180588e6dbbe73a7a72981b76c60fa2006dad983f1af4f",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.1016728000031435
+    },
+    {
+      "source": "bg/university/university_season_day_winter.webp",
+      "source_sha256": "21003ba338a2d9ebe0afa0e1e157726501550fb4ee3874f9cbfa268a75aca538",
+      "output": "bg/university/university_season_day_winter@2.webp",
+      "sha256": "a758a76febd1285f589512761045d37d0351f6ed8b243bfafc8419d40ecd1d25",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.142368999997416
+    },
+    {
+      "source": "bg/vip/vip.webp",
+      "source_sha256": "7b78ea97fba76bd9da9a9cb228fdb8b3361f3a53b2189e3a93f5cbc5c2cf8d81",
+      "output": "bg/vip/vip@2.webp",
+      "sha256": "1f8a1e4e9b03964bea1e7b163665ee4b9f126fe8bb25e721bfa2e76429afb79d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.171118800000841
+    },
+    {
+      "source": "bg/warehouse/bg_warehouse_crates.webp",
+      "source_sha256": "b432dbf067fdc6c10871e13923cfd5c321de16c4db2fa59e31bebe590926a745",
+      "output": "bg/warehouse/bg_warehouse_crates@2.webp",
+      "sha256": "4919e3778c3968b58bdd8f936fa3dc3fb188928e3d63824cbb79b05ad5ca4c57",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 5.244409899998573
+    },
+    {
+      "source": "bg/warehouse/bg_warehouse_door_closed.webp",
+      "source_sha256": "00713aa5155544fd124047beb40e5ef99d371c87851cfdb445b5070498332353",
+      "output": "bg/warehouse/bg_warehouse_door_closed@2.webp",
+      "sha256": "b184ce64a70c0f0da0bb78e51f6c45b534aa3d85f0493ea5865ebdc9d12d41bd",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.455827099998714
+    },
+    {
+      "source": "bg/warehouse/bg_warehouse_door_open.webp",
+      "source_sha256": "41ce3103b4f017baf29e4e7da2be2c66a660d1e5c0d20319926385d073fc7aa5",
+      "output": "bg/warehouse/bg_warehouse_door_open@2.webp",
+      "sha256": "f6f1fba45a177ddd378a60f27bc705ea064eb7f104e204b939770ecac5d01c9d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.596524700002192
+    },
+    {
+      "source": "bg/waterpark/waterpark.webp",
+      "source_sha256": "8eef27eb41c8008d5405e8bcf1ef491cc236ba6aba19d08f47580cfbbd996008",
+      "output": "bg/waterpark/waterpark@2.webp",
+      "sha256": "451a6f4250f39f8a8e438948247be4d64eb3655df82b4e1a02f4b069acf70fc7",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 9.086664399997971
+    },
+    {
+      "source": "bg/waterpark2/waterpark2.webp",
+      "source_sha256": "fb9e5bbded2b96cc5f1e73b57bfa26bb01d407b3b1a54fba71592793b9684889",
+      "output": "bg/waterpark2/waterpark2@2.webp",
+      "sha256": "59cf2cee9339d5a18074fe2b2ec828c626fb68d4b1c27d61a41d8f5423e173f4",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.9065377000006265
+    },
+    {
+      "source": "ch/amy/ev2/fuck_electronic/amy_fuck_electronic_background.webp",
+      "source_sha256": "ca2027e39d53075a01cc8e4e5fcd83c40483daa99691660539a6db41916e0792",
+      "output": "ch/amy/ev2/fuck_electronic/amy_fuck_electronic_background@2.webp",
+      "sha256": "55a720b98fc53529d89cfea5b766f5c68282b1fc9c548e6bc697cd532646bd33",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.602874000000156
+    },
+    {
+      "source": "ch/bree/ev2/showersex/bree_showersex_background.webp",
+      "source_sha256": "9dc722dc4631d2af19881cc10efe530090321aa9085eb80cbbe6c4d56cba40f2",
+      "output": "ch/bree/ev2/showersex/bree_showersex_background@2.webp",
+      "sha256": "e86a828740386ea8eb0359ecfca4c6bb3f8fc663ff2a2d588de0d91aea50b65a",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 6.973628700001427
+    },
+    {
+      "source": "dlc_cupid/bg/electronicbreakroom/electronicbreakroom.webp",
+      "source_sha256": "ac8d886cdc664dc02b61733fd833b17b41e8ee7fbf42aee7601fab00c2abe8b1",
+      "output": "dlc_cupid/bg/electronicbreakroom/electronicbreakroom@2.webp",
+      "sha256": "5ba81b931f38eb79fdd623df4657cc8f8e5d0adfd97f3e7d47329ed951118b58",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.346154300001217
+    },
+    {
+      "source": "dlc_cupid/bg/fg_binocular.webp",
+      "source_sha256": "e8ef91a4d17ab21baa2c134ce242bc1cc59784c6249835e09d4bcfec020fc952",
+      "output": "dlc_cupid/bg/fg_binocular@2.webp",
+      "sha256": "d0f3b16a6d234757c0e4ffd1ccef6213d831ca713bf04ffc3b28f10b6888687d",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGBA",
+      "method": "lanczos-mask",
+      "seconds": 0.14165019999927608
+    },
+    {
+      "source": "dlc_cupid/bg/honeymoon/cupid_honeymoon_night.webp",
+      "source_sha256": "eb20d69057ea145f89e57d9aa39da536b639c1cdd7b4ba089e91e0d9f40941f3",
+      "output": "dlc_cupid/bg/honeymoon/cupid_honeymoon_night@2.webp",
+      "sha256": "9b49f5b5eb602920668c586c2f2aafa421d97516d52fa9011943dc3c9fb14b93",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.650169300002744
+    },
+    {
+      "source": "dlc_cupid/bg/rpg/rpglaboratory.webp",
+      "source_sha256": "17f9bdb7d9cae63a85e0bfe9cc411c7c4c6b7671ffc78a42b28c5f0f927a0160",
+      "output": "dlc_cupid/bg/rpg/rpglaboratory@2.webp",
+      "sha256": "5edd12f3a5146b2bace211ce53b15d804863312c54144d8c6657edea429393c5",
+      "size": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "method": "real-esrgan-x4plus-downsample2-blend075",
+      "seconds": 7.424022400002286
+    }
+  ],
+  "validation": {
+    "status": "passed",
+    "files": 358,
+    "unique_sources": 339,
+    "alpha_verified": 76,
+    "bytes": 1058277621,
+    "methods": {
+      "real-esrgan-x4plus-downsample2-blend075": 349,
+      "lanczos-mask": 9
+    },
+    "scope": "358 new scenery and overlay images, plus 8 existing city maps retained; characters and UI thumbnails excluded",
+    "original_dimensions_unchanged": true,
+    "lossless_output": true
+  },
+  "existing_city_maps_retained": 8
+}

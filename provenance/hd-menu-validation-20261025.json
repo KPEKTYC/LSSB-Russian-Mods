@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "components": {
+    "lssb_localization_ru": {
+      "version": "1.88.0-own",
+      "archive": "zzzzzz_lssb_localization_ru.rpa",
+      "sha256": "d27a213832c227f5fd720478cfdff5510a5774ba742282a4f86fd416b48a2e37",
+      "bytes": 33610114
+    },
+    "lssb_visual_quality": {
+      "version": "1.6.0-own",
+      "archive": "zzzzz_lssb_visual_quality.rpa",
+      "sha256": "0cd8576c0f5e0b440e7281cfb515292830d8583becfa7da6d9bdd0226901e2a5",
+      "bytes": 1238900656
+    },
+    "lssb_startup_fix": {
+      "version": "1.2.0-own",
+      "archive": "zzzzzzz_lssb_startup_fast.rpa",
+      "sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+      "bytes": 7249
+    },
+    "lssb_mod_manager": {
+      "version": "1.4.1-own",
+      "archive": "zzzzzzzz_lssb_mod_manager.rpa",
+      "sha256": "3cd2539c7ec75497004404870f89f8da904f32a0709d900bbc440cf6226ba10c",
+      "bytes": 41013
+    }
+  },
+  "backgrounds": 358,
+  "existing_city_maps": 8,
+  "background_resolution": "2560x1440; clothesshop 2556x1438",
+  "alpha_layers": 76,
+  "original_visual_members_preserved": 796,
+  "startup_equivalence_queries": 10879,
+  "manager_tests": {
+    "passed": 67,
+    "skipped": 1
+  },
+  "repository_snapshot_files": 2234,
+  "baseline_first_draw_s": [
+    1.719387299999653,
+    1.1830888000004052,
+    1.6460264999986975,
+    0.9789762000000337,
+    1.171320299999934
+  ],
+  "final_hd_first_draw_s": 0.10134330000073533,
+  "final_hd_scan_ready_s": 3.7640410999993037,
+  "save_roundtrip": true,
+  "save_during_scan": true,
+  "visual_disable_enable": true,
+  "renderer": {
+    "resizable": true,
+    "additive": true,
+    "renderer": "gl2",
+    "models": true,
+    "max_window_size": [
+      2379,
+      1338
+    ],
+    "gpu_vendor": "ATI Technologies Inc.",
+    "gpu_name": "AMD Radeon RX 7900 XTX",
+    "gpu_driver_version": "4.6.0 Compatibility Profile Context 26.10.1.261008",
+    "max_texture_size": 16384
+  },
+  "limitations": [
+    "Local measurements; background processing was active during baseline comparison.",
+    "All added images decoded and rendered; representative images visually reviewed, not a full story playthrough.",
+    "Image enlargement estimates detail and cannot recover an original high-resolution master."
+  ]
+}

@@ -269,15 +269,21 @@ class ManagerCore:
                 if valid_header:
                     valid_header = 34 <= int(header[8:24], 16) < (release["archive_size"] if release else before.st_size)
                 hasher = hashlib.sha256(header)
-                prefix_hasher = hashlib.sha256(header)
-                prefix_left = release["archive_size"] - 34 if release else 0
+                # The signed archive is a prefix of the complete file. Copy the
+                # SHA state exactly at its boundary instead of hashing it twice.
+                prefix_end = release["archive_size"] if release else None
+                position = len(header)
+                prefix_digest = hasher.hexdigest() if prefix_end == position else None
                 for chunk in iter(lambda: stream.read(1024 * 1024), b""):
-                    hasher.update(chunk)
-                    if prefix_left:
-                        part = chunk[:prefix_left]
-                        prefix_hasher.update(part)
-                        prefix_left -= len(part)
-                if release and (prefix_left or prefix_hasher.hexdigest() != release["archive_sha256"]):
+                    if prefix_end is not None and position < prefix_end <= position + len(chunk):
+                        split = prefix_end - position
+                        hasher.update(chunk[:split])
+                        prefix_digest = hasher.copy().hexdigest()
+                        hasher.update(chunk[split:])
+                    else:
+                        hasher.update(chunk)
+                    position += len(chunk)
+                if release and prefix_digest != release["archive_sha256"]:
                     release, release_error = None, True
                 if self._identity(os.fstat(stream.fileno())) != identity:
                     raise ManagerError("changed", "Файл изменился во время проверки.")
@@ -639,3 +645,50 @@ class ManagerCore:
             raise ManagerError("recovery_required", "Моды переключены, но журнал не закрыт. Нужна проверка файлов.") from None
         self._hash_cache.clear()
         return result
+
+
+class ScanJob:
+    """One read-only scan; publish its complete result via a thread-safe queue.
+
+    The UI owns this object and polls it. The worker never calls the engine,
+    changes store variables, stages a plan, or mutates game files.
+    """
+    def __init__(self, game_dir, catalog, factory=ManagerCore):
+        import queue
+        import threading
+        self._results = queue.Queue(maxsize=1)
+        self._thread = threading.Thread(target=self._run,
+            args=(game_dir, [dict(item) for item in catalog], factory),
+            name="LSSB mod validation", daemon=True)
+        self._thread.start()
+
+    def _run(self, game_dir, catalog, factory):
+        try:
+            controller = factory(game_dir, catalog)
+            rows = controller.scan()
+            issue = controller.status_error or ""
+            choices = {row["id"]: row["enabled"] for row in rows if row["can_toggle"]}
+            notice = ""
+            if not issue:
+                pending = controller.pending()
+                if pending:
+                    for action in pending["actions"]:
+                        if action["id"] in choices:
+                            choices[action["id"]] = action["enabled"]
+                    notice = "Сохранённый выбор ещё не применён. Проверьте его перед выходом."
+                else:
+                    last = controller.last_result()
+                    if last:
+                        notice = ("Предыдущие изменения успешно применены." if last.get("outcome") == "applied"
+                            else "Предыдущие изменения не применены. Проверьте состояние файлов.")
+            result = dict(controller=controller, rows=rows, choices=choices, issue=issue, notice=notice)
+        except Exception as exc:
+            result = dict(controller=None, rows=[], choices={}, issue=str(exc), notice="")
+        self._results.put(result)
+
+    def poll(self):
+        import queue
+        try:
+            return self._results.get_nowait()
+        except queue.Empty:
+            return None

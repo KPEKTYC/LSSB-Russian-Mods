@@ -1,6 +1,6 @@
 # Scope
 
-This private monorepo contains our Russian localization, in-game mod manager,
+This monorepo contains our Russian localization, in-game mod manager,
 visual/map/interface improvements, and startup optimization for LSSB.
 
 - Do not add, modify, or translate the third-party Daerty wiki mod.

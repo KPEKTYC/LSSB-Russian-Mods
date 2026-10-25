@@ -20,33 +20,42 @@ init 1005 python in lssb_mm:
     notice = ''
     armed = False
 
+    busy = False
+    scan_job = None
+
     def refresh():
-        global controller, rows, choices, issue, notice
+        global busy, scan_job, rows, choices, issue, notice
+        if busy:
+            return
+        rows = [dict(item, version='…', enabled=False, can_toggle=False, state='checking', reason='') for item in catalog]
+        choices = {}
         issue = ''
         notice = ''
+        if not supported:
+            issue = 'В движке недоступны функции безопасного переключения модов.'
+            return
         try:
-            if not supported:
-                raise ManagerError('engine_api', 'В движке недоступны функции безопасного переключения модов.')
-            if controller is None:
-                controller = ManagerCore(config.gamedir, catalog)
-            rows = controller.scan()
-            choices = {row['id']: row['enabled'] for row in rows if row['can_toggle']}
-            issue = controller.status_error or ''
-            if not issue:
-                pending_plan = controller.pending()
-                if pending_plan:
-                    for action in pending_plan['actions']:
-                        if action['id'] in choices:
-                            choices[action['id']] = action['enabled']
-                    notice = 'Сохранённый выбор ещё не применён. Проверьте его перед выходом.'
-                else:
-                    last = controller.last_result()
-                    if last and last.get('outcome') == 'applied':
-                        notice = 'Предыдущие изменения успешно применены.'
-                    elif last and last.get('outcome') != 'applied':
-                        notice = 'Предыдущие изменения не применены. Проверьте состояние файлов.'
+            scan_job = _core_module.ScanJob(config.gamedir, catalog)
+            busy = True
         except Exception as exc:
+            scan_job = None
             issue = str(exc)
+
+    def poll_scan():
+        global controller, rows, choices, issue, notice, busy, scan_job
+        if not busy or scan_job is None:
+            return
+        result = scan_job.poll()
+        if result is None:
+            return
+        controller = result['controller']
+        rows = result['rows']
+        choices = result['choices']
+        issue = result['issue']
+        notice = result['notice']
+        scan_job = None
+        busy = False
+        api.restart_interaction()
 
     def open_manager():
         refresh()
@@ -55,7 +64,7 @@ init 1005 python in lssb_mm:
 
     def toggle(mod_id):
         global choices, notice
-        if issue:
+        if issue or busy:
             return
         if any(row['id'] == mod_id and row['can_toggle'] for row in rows):
             choices = dict(choices)
@@ -67,7 +76,7 @@ init 1005 python in lssb_mm:
         return [row for row in rows if row['can_toggle'] and choices.get(row['id']) != row['enabled']]
 
     def status(row):
-        labels = {'enabled': 'Включён', 'disabled': 'Отключён', 'missing': 'Не установлен',
+        labels = {'checking': 'Проверяется', 'enabled': 'Включён', 'disabled': 'Отключён', 'missing': 'Не установлен',
                   'changed': 'Файл изменён', 'conflict': 'Конфликт файлов', 'recovery_required': 'Нужна проверка'}
         if row['can_toggle'] and choices.get(row['id']) != row['enabled']:
             return 'Будет включён' if choices[row['id']] else 'Будет отключён'
@@ -75,6 +84,8 @@ init 1005 python in lssb_mm:
 
     def discard():
         global issue
+        if busy or controller is None:
+            return
         try:
             controller.cancel()
             refresh()
@@ -84,6 +95,8 @@ init 1005 python in lssb_mm:
 
     def commit_and_exit():
         global armed, issue
+        if busy or issue or controller is None:
+            return
         try:
             plan = controller.stage({row['id']: choices[row['id']] for row in rows if row['can_toggle']})
             if not plan:
@@ -147,6 +160,8 @@ screen lssb_mm_entry_overlay():
 screen lssb_mod_manager():
     modal True
     zorder 300
+    if lssb_mm.busy:
+        timer 0.05 repeat True action Function(lssb_mm.poll_scan)
     key ["K_ESCAPE", "mouseup_3", "pad_b_press"] action Hide("lssb_mod_manager")
     add Solid("#071a28eb")
     frame:
@@ -193,12 +208,14 @@ screen lssb_mod_manager():
                                 text lssb_mm.status(row) style "lssb_mm_status"
                                 if row.get('reason'):
                                     text row['reason'] style "lssb_mm_description" size 12
-                            textbutton (("ВКЛЮЧЁН" if lssb_mm.choices.get(row['id'], row['enabled']) else "ОТКЛЮЧЁН") if row['can_toggle'] else "НЕДОСТУПЕН"):
+                            textbutton (("ВКЛЮЧЁН" if lssb_mm.choices.get(row['id'], row['enabled']) else "ОТКЛЮЧЁН") if row['can_toggle'] else ("ПРОВЕРКА" if lssb_mm.busy else "НЕДОСТУПЕН")):
                                 style "lssb_mm_toggle"
                                 selected bool(lssb_mm.choices.get(row['id'], row['enabled']))
-                                sensitive row['can_toggle'] and not lssb_mm.issue
+                                sensitive row['can_toggle'] and not lssb_mm.issue and not lssb_mm.busy
                                 action Function(lssb_mm.toggle, row['id'])
-            if lssb_mm.issue:
+            if lssb_mm.busy:
+                text "Проверка модов… Окно можно закрыть." style "lssb_mm_subtitle"
+            elif lssb_mm.issue:
                 text lssb_mm.issue style "lssb_mm_error" xmaximum 1090
             elif lssb_mm.changes():
                 text ("Изменений: %d. Они применятся после закрытия игры." % len(lssb_mm.changes())) style "lssb_mm_text"
@@ -208,12 +225,12 @@ screen lssb_mod_manager():
                 text "Все моды показаны в текущем состоянии. Файлы игры и сохранения не заменяются." style "lssb_mm_subtitle"
             hbox:
                 spacing 16
-                textbutton "Сбросить выбор" style "lssb_mm_button" action Function(lssb_mm.discard)
-                textbutton "Обновить список" style "lssb_mm_button" action Function(lssb_mm.refresh)
+                textbutton "Сбросить выбор" style "lssb_mm_button" action Function(lssb_mm.discard) sensitive not lssb_mm.busy and lssb_mm.controller is not None
+                textbutton "Обновить список" style "lssb_mm_button" action Function(lssb_mm.refresh) sensitive not lssb_mm.busy
                 null width 138
                 textbutton "Применить и выйти":
                     style "lssb_mm_primary"
-                    sensitive bool(lssb_mm.changes()) and not lssb_mm.issue
+                    sensitive bool(lssb_mm.changes()) and not lssb_mm.issue and not lssb_mm.busy
                     action Show("lssb_mm_confirm")
 
 screen lssb_mm_compatibility():
