@@ -1,0 +1,254 @@
+{
+  "schema": 1,
+  "status": "passed_with_stated_scope",
+  "created_utc": "2026-10-25T10:43:04.678299+00:00",
+  "bundle_id": "LSSB_Mods_1.88.0_bundle_2026-10-25",
+  "game_version": "26.9.0e",
+  "engine_version": "8.5.3.26051504",
+  "versions": {
+    "lssb_localization_ru": "1.88.0-own",
+    "lssb_visual_quality": "1.5.2-own",
+    "lssb_startup_fix": "1.2.0-own",
+    "lssb_mod_manager": "1.4.0-own"
+  },
+  "archives": {
+    "zzzzzz_lssb_localization_ru.rpa": "d27a213832c227f5fd720478cfdff5510a5774ba742282a4f86fd416b48a2e37",
+    "zzzzz_lssb_visual_quality.rpa": "be89295c3ec8791ac4b998ba5ace9b2bb821bc9439e8318c1c06e9f0b270dc06",
+    "zzzzzzz_lssb_startup_fast.rpa": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+    "zzzzzzzz_lssb_mod_manager.rpa": "8fd31e6703e26f4ee7ccb303bc936fce1d79bc1068b8f29ef9d5122566fa7896"
+  },
+  "translation": {
+    "new_dialogue": 7528,
+    "groups": {
+      "angela_bruce": 1118,
+      "anna_gwen": 645,
+      "cherie_dwayne": 456,
+      "hanna_master": 727,
+      "kleio_morgan": 653,
+      "lexi_danny": 799,
+      "palla_shawn": 712,
+      "reona_jack": 1005,
+      "sam_ryan": 676,
+      "sasha_scottie": 737
+    },
+    "new_menu_strings": 140,
+    "menu_occurrences_checked": 148,
+    "independent_reviewed_dialogue": 7528,
+    "original_dialogue_nodes": 219131,
+    "russian_dialogue_nodes": 219131,
+    "missing": 0,
+    "rendered_each_in": [
+      "sw",
+      "gl2",
+      "standalone sw"
+    ],
+    "native_layouts": {
+      "menu_nodes_expected": 68,
+      "menu_nodes_rendered": 68,
+      "caption_occurrences_expected": 148,
+      "caption_occurrences_rendered": 148,
+      "nvl_messages_expected": 7,
+      "nvl_cases_expected": 9,
+      "nvl_cases_rendered": 9
+    },
+    "neutral_adaptation_identifiers": [
+      "cupid_angela_bruce_event_04_d6607cbc"
+    ]
+  },
+  "unit_tests": {
+    "snapshot_files": 1874,
+    "manager_passed": 60,
+    "manager_skipped": 1,
+    "startup_passed": 26
+  },
+  "runs": {
+    "contract-final": {
+      "exit": 0,
+      "command": "lssb-prefix-validate",
+      "renderer_requested": "sw",
+      "report_sha256": "be395169ca0fc247154bdb4aec17404462750b9f5b384a440061c9821dcfdb59"
+    },
+    "cupid-render-sw": {
+      "exit": 0,
+      "command": "lssb-cupid-render",
+      "renderer_requested": "sw",
+      "report_sha256": "990223737fb6efcd9c37349f049387237654f9b0b69e73f6ca00b259843d9dfc"
+    },
+    "cupid-render-gl2": {
+      "exit": 0,
+      "command": "lssb-cupid-render",
+      "renderer_requested": "gl2",
+      "report_sha256": "792f69e32955d6132c4c1339c1b979bd502ad0594702ba3aeccf7ffc0b4f8fbc"
+    },
+    "cupid-layouts-sw-2": {
+      "exit": 0,
+      "command": "lssb-cupid-layouts",
+      "renderer_requested": "sw",
+      "report_sha256": "b536ecf1c017583d5aaf85a7b4063f588b45631515fd8e3d77da27c5aa6532f8"
+    },
+    "digest-new": {
+      "exit": 0,
+      "command": "lssb-translation-digest",
+      "renderer_requested": "sw",
+      "report_sha256": "279aea49e3d45282da63cb029df9d1bd3bdca9bc1e35197f614ca603d596845f"
+    },
+    "digest-old": {
+      "exit": 0,
+      "command": "lssb-translation-digest",
+      "renderer_requested": "sw",
+      "report_sha256": "26487714a453b15258c138346b1560d76549c304b917880aaf8e751939247749"
+    },
+    "standalone-cupid-sw": {
+      "exit": 0,
+      "command": "lssb-cupid-render",
+      "renderer_requested": "sw",
+      "report_sha256": "6722ec5379cb9c5bec73d01282ba7450bea363d2f32ebdea9a82b6ff78493200"
+    },
+    "registry-without-startup": {
+      "exit": 0,
+      "command": "lssb-registry-proof",
+      "renderer_requested": "sw",
+      "report_sha256": "ff0c3774c2172ac1475058f7170f2a4c7973709dcc67c03f73289c96f7b01eb7"
+    },
+    "lifecycle-disable": {
+      "exit": 0,
+      "command": "lssb-lifecycle-check",
+      "renderer_requested": "sw",
+      "report_sha256": "8149d44bd97a5da1e0f99bfde7f894f873b2924d9d4026632e8ab6522080db01"
+    },
+    "lifecycle-enable": {
+      "exit": 0,
+      "command": "lssb-lifecycle-check",
+      "renderer_requested": "sw",
+      "report_sha256": "6d3c8c34ca2a376c4c94dc16c16df3a9a7a62ea79a2ebbcf68bcdb7c74c7bf80"
+    },
+    "full-gl2-1": {
+      "exit": 0,
+      "command": "run",
+      "renderer_requested": "gl2",
+      "report_sha256": "ce239fe97aa1445a91a3a27d2e2a9cf4d4e819b357633089d0f79fd0c8b9461f"
+    },
+    "full-gl2-2": {
+      "exit": 0,
+      "command": "run",
+      "renderer_requested": "gl2",
+      "report_sha256": "e63beda6351027e78843d5b9bb90801d6ace95570ae9e06df68ed201b7b3ecd4"
+    },
+    "full-sw-1": {
+      "exit": 0,
+      "command": "run",
+      "renderer_requested": "sw",
+      "report_sha256": "34c6507fc01d823247cc78d9ef48812cd3723d68abb5f71c781db3b7afd9cfad"
+    },
+    "full-sw-2": {
+      "exit": 0,
+      "command": "run",
+      "renderer_requested": "sw",
+      "report_sha256": "a81d781091e9a3e7226043ccb200d571e3fa1a7b900439081dd53d40c0d781e0"
+    },
+    "full-gl2-after-toggle": {
+      "exit": 0,
+      "command": "run",
+      "renderer_requested": "gl2",
+      "report_sha256": "f4472481e5a846825e86e1fe2da422a069062b214a6b64011c7038963c199cfe"
+    },
+    "full-sw-after-toggle": {
+      "exit": 0,
+      "command": "run",
+      "renderer_requested": "sw",
+      "report_sha256": "654ed21314d0882224e8e6118db9a2351ea229b91bcd23eb3c2da0419f216134"
+    },
+    "combined-sw-1b": {
+      "exit": 0,
+      "command": "lssb-bundle-combined",
+      "renderer_requested": "sw",
+      "report_sha256": "fcf40881f41c6d84c24e1dfbfb53ee01870b9b088fa2741bc1488cdcb6196e93"
+    },
+    "combined-sw-2": {
+      "exit": 0,
+      "command": "lssb-bundle-combined",
+      "renderer_requested": "sw",
+      "report_sha256": "8cefb3ef4e5c3de8b89ca1c9b83fc9ccd104234e037c482434bc118ad994e3ea"
+    }
+  },
+  "semantic_preservation": {
+    "status": "passed",
+    "sections": {
+      "original": {
+        "count": 211739,
+        "sha256": "c1f41695695dcbc7cbc84a0e6313c4330eebf239baed0c882ce3a880844f9f9f"
+      },
+      "russian": {
+        "count": 214110,
+        "sha256": "8d41e0f1db58e41dc887670dc55c829103effb558a5d02fe4b25303c0ca70d2b"
+      },
+      "strings": {
+        "count": 5359,
+        "sha256": "76cea35e596ccca6f68eedaa757c118c1141ac85f9c3bbb64a5a91f1bdb2b5f0"
+      }
+    },
+    "excluded_new_dialogue": 7528,
+    "excluded_new_strings": 140
+  },
+  "startup_registry": {
+    "status": "passed",
+    "native": {
+      "image_names_count": 46168,
+      "image_names_sha256": "a6d7a72b6003515f4d06a2794e3d6aac31abb24ec45709b0efc9d18905031b10",
+      "layered_count": 1087,
+      "layered_attributes_sha256": "63780d146a8a5911b55ea6f17fb4f26247410a0c560f33f1c8a77c1c5ea084af",
+      "startup_enabled": false,
+      "verified_queries": 0
+    },
+    "optimized": {
+      "image_names_count": 46168,
+      "image_names_sha256": "a6d7a72b6003515f4d06a2794e3d6aac31abb24ec45709b0efc9d18905031b10",
+      "layered_count": 1087,
+      "layered_attributes_sha256": "63780d146a8a5911b55ea6f17fb4f26247410a0c560f33f1c8a77c1c5ea084af",
+      "startup_enabled": true,
+      "verified_queries": 10879
+    }
+  },
+  "archive_readback": {
+    "members": 954,
+    "signatures": "3 signed components verified; manager legacy archive hash verified",
+    "excluded_cache_files": true
+  },
+  "production_readback": {
+    "files_verified": 356,
+    "unchanged": true
+  },
+  "source_preservation": {
+    "old_files_unchanged": 1863,
+    "new_translation_files": 11
+  },
+  "harness_corrections": [
+    {
+      "run": "combined-sw-1",
+      "cause": "Copied regression fixture still expected 1.87 archive hash; package source and native input expectations were unchanged.",
+      "fix": "Bound regression archive manifest to built and independently inspected 1.88 archive; all semantic expectations retained."
+    },
+    {
+      "run": "cupid-layouts-sw",
+      "cause": "Test used shadowed store.id and sampled initial invisible frame of native message_appear ATL.",
+      "fix": "Use builtins.id; render the same native screen across animation times with unchanged styles, ATL and d.current."
+    }
+  ],
+  "historical_software_crash": {
+    "reproduced": false,
+    "cause_unknown": true,
+    "fix_claimed": false
+  },
+  "limitations": [
+    "Not a full story playthrough or long-duration soak test.",
+    "Two copied save positions checked; saves are not distributed.",
+    "Menu layouts exercised all options without story condition execution; NVL tests exclude notification callbacks.",
+    "Custom player names of arbitrary length may overflow.",
+    "Coverage counts dialogue nodes, not all possible game text or embedded image lettering.",
+    "One Cupid line has a documented neutral adaptation; no character ages or story code changed.",
+    "Software rendering uses SDL dummy; visible OpenGL tested on the local GPU.",
+    "No compatibility claim for arbitrary future code or third-party mods.",
+    "No performance claim from these stability checks.",
+    "Not installed in production and not remotely published."
+  ]
+}

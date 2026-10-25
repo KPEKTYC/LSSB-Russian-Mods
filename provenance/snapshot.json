@@ -1862,6 +1862,17 @@
     "tools/manager/test_external_mods.py": "96580f5aac289235c78a588068ee66d18a70e35a344ad769f5c22f55842ba9c3",
     "work-in-progress/startup-copy-20261022/game/lssb_startup_copy.py": "2ed46e992dca0b53a107abcc516da85b02bd73a6aaca908557c0d68f390d1c91",
     "work-in-progress/startup-copy-20261022/game/zz_lssb_startup_fast.rpy": "37c47a6f558b59da32bd64df07e399b826273667aeb8b9581189a4968d810bbc",
-    "work-in-progress/startup-copy-20261022/README.md": "00edf6f7506dcba119ec7154bd61346a0757bc7c41393e1726cc092add55e3b4"
+    "work-in-progress/startup-copy-20261022/README.md": "00edf6f7506dcba119ec7154bd61346a0757bc7c41393e1726cc092add55e3b4",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_angela_bruce.rpy": "7e2b9f8044552ccd0c1d652af1988cf49422015d05e5ce3aca8d19572bdb99b3",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_anna_gwen.rpy": "00723dc645035d6a34454d5996eb33a10b6b80e84345a4f2042515626d20f830",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_cherie_dwayne.rpy": "dd683a5cdc30218ba49e96bfd1b62ec8cd5f2a10ffae7f79aaff9cd91e456555",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_hanna_master.rpy": "6d03e74749c5951dfd590bce0b9969bc42d634da355490b5a4768e78639c257f",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_kleio_morgan.rpy": "4f9f003392f7fe24db89518589c32ee07f26349be47dc51ecc56740844d6ca1a",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_lexi_danny.rpy": "1d993394cf7aa2bf0e6f0c4b3c326579c8fc00bb71841b126696cab6fccf0347",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_palla_shawn.rpy": "d3262b24041274e1e03d1bcd66ba2468936079227bf11aac33600ec8ece7a12f",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_reona_jack.rpy": "cdc8c76aa9d1d585d564fc3a61c80602de498c47c70c08c09384473a8bf0a16c",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_sam_ryan.rpy": "71be557fce6d8f86fafcebe5d7641dd523a22d99eeab00ab3dc57cebc4f4abae",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_sasha_scottie.rpy": "b0f1bdb535b67f7fc5382f8a40b5d094bc8ffdc51de50ff46adf756d098d6606",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_cupid_choices.rpy": "d6e3fbb88ab7826841311972612a0a899d58cdf256f99fa17c00bc13843728bd"
   }
 }

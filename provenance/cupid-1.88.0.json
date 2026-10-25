@@ -1,0 +1,33 @@
+{
+  "version": "1.88.0-own",
+  "status": "validated immutable release artifact",
+  "source_game_version": "26.9.0e",
+  "dlc_source_sha256": "2d480ffa2a0591fa63a5ddfedceafcac5dc0c23e28bf08d5a775cde6b7569469",
+  "dialogue_rows": 7528,
+  "groups": {
+    "angela_bruce": 1118,
+    "anna_gwen": 645,
+    "cherie_dwayne": 456,
+    "hanna_master": 727,
+    "kleio_morgan": 653,
+    "lexi_danny": 799,
+    "palla_shawn": 712,
+    "reona_jack": 1005,
+    "sam_ryan": 676,
+    "sasha_scottie": 737
+  },
+  "new_menu_strings": 140,
+  "method": "Direct contextual translation followed by independent source/target review; no third-party machine translation service.",
+  "source_identifiers_and_speakers_preserved": true,
+  "source_scripts_not_distributed": true,
+  "neutral_adaptation_identifiers": [
+    "cupid_angela_bruce_event_04_d6607cbc"
+  ],
+  "archive_sha256": "d27a213832c227f5fd720478cfdff5510a5774ba742282a4f86fd416b48a2e37",
+  "validation_sha256": "9d243f9ec93dd4993c1bd3aed060163b47f944fd7cf4a07f0cab792403b3f94f",
+  "release_tag": "v1.88.0-own",
+  "package_name": "LSSB_Mods_1.88.0_bundle_2026-10-25.zip",
+  "package_sha256": "f2e7ba2e77e643a6e8a42ee2c2a33d2a3e03fb0abaf480b706c482ab0b5e5d68",
+  "validation_report": "provenance/cupid-1.88.0-validation.json",
+  "validation_record_scope": "Pre-publication tests; historical not-published/not-installed fields describe the validation time."
+}
