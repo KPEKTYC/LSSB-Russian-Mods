@@ -1,0 +1,47 @@
+{
+  "tag": "v1.88.0-hd.2-own",
+  "assets": [
+    {
+      "name": "LSSB_Mods_1.88.0_Lively_HD_2026-10-26.zip",
+      "sha256": "58df228b22374c7c2f5874c492f80719ec735bc80d9e3927717541448552ba7a",
+      "bytes": 1337554870
+    },
+    {
+      "name": "LSSB_Russian_1.88.0.zip",
+      "sha256": "b6ebecfb10b25d27efb94446ae33314715d0ccd1ccfbe2be979d8b6775ebccd2",
+      "bytes": 33624956
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha256": "bcb7157fbff66232e91a929a45a6df6416f0e25826f1c8902034744262eae88c",
+      "bytes": 200
+    }
+  ],
+  "components": {
+    "lssb_localization_ru": {
+      "version": "1.88.0-own",
+      "archive": "zzzzzz_lssb_localization_ru.rpa",
+      "sha256": "d27a213832c227f5fd720478cfdff5510a5774ba742282a4f86fd416b48a2e37",
+      "bytes": 33610114
+    },
+    "lssb_visual_quality": {
+      "version": "1.7.0-own",
+      "archive": "zzzzz_lssb_visual_quality.rpa",
+      "sha256": "647ff4ca1be03630c7528917c45977564603dd84cc5dda864b9ac9b49d697a6c",
+      "bytes": 1303875022
+    },
+    "lssb_startup_fix": {
+      "version": "1.2.0-own",
+      "archive": "zzzzzzz_lssb_startup_fast.rpa",
+      "sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+      "bytes": 7249
+    },
+    "lssb_mod_manager": {
+      "version": "1.4.1-own",
+      "archive": "zzzzzzzz_lssb_mod_manager.rpa",
+      "sha256": "3cd2539c7ec75497004404870f89f8da904f32a0709d900bbc440cf6226ba10c",
+      "bytes": 41013
+    }
+  },
+  "validation": "ZIP CRC and all four RPA hashes verified; localization-only ZIP unchanged from previous release"
+}

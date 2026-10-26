@@ -1,0 +1,97 @@
+{
+  "status": "passed",
+  "components": {
+    "lssb_localization_ru": {
+      "version": "1.88.0-own",
+      "archive": "zzzzzz_lssb_localization_ru.rpa",
+      "sha256": "d27a213832c227f5fd720478cfdff5510a5774ba742282a4f86fd416b48a2e37",
+      "bytes": 33610114
+    },
+    "lssb_visual_quality": {
+      "version": "1.7.0-own",
+      "archive": "zzzzz_lssb_visual_quality.rpa",
+      "sha256": "647ff4ca1be03630c7528917c45977564603dd84cc5dda864b9ac9b49d697a6c",
+      "bytes": 1303875022
+    },
+    "lssb_startup_fix": {
+      "version": "1.2.0-own",
+      "archive": "zzzzzzz_lssb_startup_fast.rpa",
+      "sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+      "bytes": 7249
+    },
+    "lssb_mod_manager": {
+      "version": "1.4.1-own",
+      "archive": "zzzzzzzz_lssb_mod_manager.rpa",
+      "sha256": "3cd2539c7ec75497004404870f89f8da904f32a0709d900bbc440cf6226ba10c",
+      "bytes": 41013
+    }
+  },
+  "new_character_layers": 3695,
+  "archive_validation": {
+    "status": "passed",
+    "old_visual_sha256": "0cd8576c0f5e0b440e7281cfb515292830d8583becfa7da6d9bdd0226901e2a5",
+    "new_visual_sha256": "647ff4ca1be03630c7528917c45977564603dd84cc5dda864b9ac9b49d697a6c",
+    "preserved_members": 1154,
+    "added_members": 3695,
+    "total_members": 4849,
+    "alpha_exact_files": 3695,
+    "max_rgb_adjustment": 10,
+    "added_bytes": 64893174,
+    "new_archive_bytes": 1303875022
+  },
+  "archive_hygiene": {
+    "status": "passed",
+    "archives": {
+      "zzzzz_lssb_visual_quality.rpa": {
+        "members": 4849,
+        "forbidden_members": 0
+      },
+      "zzzzzz_lssb_localization_ru.rpa": {
+        "members": 156,
+        "forbidden_members": 0
+      },
+      "zzzzzzz_lssb_startup_fast.rpa": {
+        "members": 1,
+        "forbidden_members": 0
+      },
+      "zzzzzzzz_lssb_mod_manager.rpa": {
+        "members": 1,
+        "forbidden_members": 0
+      }
+    }
+  },
+  "engine_images_rendered": 3695,
+  "renderer": "gl2",
+  "hd_resolution": [
+    1920,
+    1080
+  ],
+  "original_selection_at_1280x720": true,
+  "save_roundtrip": true,
+  "visual_disable_enable": true,
+  "lifecycle_renderers": {
+    "disable": "gl2",
+    "enable": "gl2",
+    "verify": "gl2"
+  },
+  "repository_snapshot_files": 5929,
+  "manager_tests": {
+    "passed": 67,
+    "skipped": 1
+  },
+  "visual_scenes": [
+    "university",
+    "electronic",
+    "street2",
+    "cinema",
+    "coffeeshop",
+    "clothesshop"
+  ],
+  "scene_method": "Original layered-image geometry and fixed clothing; picker disabled only in test copies. Street2 overlay composed over the existing night background.",
+  "limitations": [
+    "Representative scenes visually inspected; not a full story playthrough.",
+    "Tiny source figures retain limited facial detail; no generative reconstruction.",
+    "One optional windowed scene check was restarted after no menu progress; its repeat and all three GL2 lifecycle checks passed. An exploratory headless run was abandoned after GL2 lifecycle completion.",
+    "Initial test fixture produced unsupported clothing attributes; corrected fixed-attribute scene checks were inspected separately."
+  ]
+}

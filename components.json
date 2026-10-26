@@ -7,7 +7,7 @@
     "description": "Русский интерфейс, ветки персонажей, общие события, концерты, вступление, обучение и локации."
   },
   "lssb_visual_quality": {
-    "version": "1.6.0-own",
+    "version": "1.7.0-own",
     "archive": "zzzzz_lssb_visual_quality.rpa",
     "id": "visual_quality",
     "name": "Фоны, карта и интерфейс",
