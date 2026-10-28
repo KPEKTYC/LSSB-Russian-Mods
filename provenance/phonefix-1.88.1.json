@@ -1,0 +1,114 @@
+{
+  "version": "1.88.1-own",
+  "date": "2026-10-28",
+  "release_tag": "v1.88.1-own",
+  "components": {
+    "lssb_localization_ru": {
+      "version": "1.88.1-own",
+      "archive": "zzzzzz_lssb_localization_ru.rpa",
+      "sha256": "e86db20ac1a864466f0f4769c1ab3f8411464f5f9bec7484b7e85fc8e2fe0ae6",
+      "bytes": 33618643
+    },
+    "lssb_visual_quality": {
+      "version": "1.7.0-own",
+      "archive": "zzzzz_lssb_visual_quality.rpa",
+      "sha256": "647ff4ca1be03630c7528917c45977564603dd84cc5dda864b9ac9b49d697a6c",
+      "bytes": 1303875022
+    },
+    "lssb_startup_fix": {
+      "version": "1.2.0-own",
+      "archive": "zzzzzzz_lssb_startup_fast.rpa",
+      "sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+      "bytes": 7249
+    },
+    "lssb_mod_manager": {
+      "version": "1.4.1-own",
+      "archive": "zzzzzzzz_lssb_mod_manager.rpa",
+      "sha256": "3cd2539c7ec75497004404870f89f8da904f32a0709d900bbc440cf6226ba10c",
+      "bytes": 41013
+    }
+  },
+  "assets": {
+    "LSSB_Mods_1.88.1_Lively_HD_2026-10-28.zip": {
+      "sha256": "24645aef31923929f0b88316aa1a230fecc80e981317a4001e335c332b5d5728",
+      "bytes": 1337565846
+    },
+    "LSSB_Russian_1.88.1.zip": {
+      "sha256": "0221e23eccb49bb1127e0f46b6589e7fd797b8df0f80727b3e9092e20c4d79fd",
+      "bytes": 33634875
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "7f170e4a2720f01cf431bb1c3d95d8ad3d85aa460a6bf2fad0fe81256ab11240",
+      "bytes": 200
+    }
+  },
+  "validation": {
+    "status": "passed",
+    "version": "1.88.1-own",
+    "game_version": "26.9.0e",
+    "screen_cases": 31,
+    "incoming_callers": 23,
+    "original_language_restored": true,
+    "native_return_values_preserved": true,
+    "changed_native_screen_fallback": true,
+    "signed_archive_verified": true,
+    "base_signature_verified": true,
+    "archive_sha256": "e86db20ac1a864466f0f4769c1ab3f8411464f5f9bec7484b7e85fc8e2fe0ae6",
+    "archive_readback": {
+      "status": "passed",
+      "signature_verified": true,
+      "version": "1.88.1-own",
+      "members_before": 156,
+      "members_after": 157,
+      "added": [
+        "zz_lssb_phone_layout_ru.rpyc"
+      ],
+      "existing_members_changed": [],
+      "sha256": "e86db20ac1a864466f0f4769c1ab3f8411464f5f9bec7484b7e85fc8e2fe0ae6"
+    },
+    "manager_tests": {
+      "total": 68,
+      "passed": 67,
+      "skipped": 1
+    },
+    "repository_snapshot_files": 5930,
+    "limitations": [
+      "Screen and manager validation in isolated game copies; not a complete story playthrough."
+    ],
+    "visual_review": [
+      "Samantha with hero",
+      "Samantha",
+      "unknown caller",
+      "answer only",
+      "custom Bree name",
+      "outgoing Samantha",
+      "outgoing unknown caller"
+    ],
+    "opengl_screen_cases": 31,
+    "opengl_renderer": "gl2",
+    "button_actions_invoked": true,
+    "manager_rows": [
+      {
+        "id": "localization_ru",
+        "version": "1.88.1-own",
+        "enabled": true,
+        "recognition": "signed-release"
+      },
+      {
+        "id": "visual_quality",
+        "version": "1.7.0-own",
+        "enabled": true,
+        "recognition": "signed-release"
+      },
+      {
+        "id": "startup_fast",
+        "version": "1.2.0-own",
+        "enabled": true,
+        "recognition": "signed-release"
+      }
+    ],
+    "previous_translation_members_preserved": 156,
+    "added_screen_modules": 1
+  },
+  "source_module": "mods/lssb_localization_ru/game/zz_lssb_phone_layout_ru.rpy"
+}
