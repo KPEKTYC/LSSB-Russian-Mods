@@ -1,0 +1,71 @@
+{
+  "tag": "v1.88.2-own",
+  "assets": {
+    "LSSB_Mods_1.88.2_Lively_HD_2026-10-28.zip": {
+      "sha256": "c521667733409c808dcde4c2b77d800daf550fb42aeb23747ba1d40c3371f37d",
+      "bytes": 1337573453
+    },
+    "LSSB_Russian_1.88.2.zip": {
+      "sha256": "7c38ff3fe5c80eb7fdcce0cae1201f7613e6cd5e46e40e8704c427cb9d927a3e",
+      "bytes": 33642193
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "9d7dcb365acc663a942b1cb9943ac69f913e5f4e4aa4f0af8fc54c6fc7698167",
+      "bytes": 200
+    }
+  },
+  "components": {
+    "lssb_localization_ru": {
+      "version": "1.88.2-own",
+      "archive": "zzzzzz_lssb_localization_ru.rpa",
+      "sha256": "24a5f6c10383ce71d8a7919ef8cbdaea482b8d0cf63fc7875003b6ba6ecfa869",
+      "bytes": 33625709
+    },
+    "lssb_visual_quality": {
+      "version": "1.7.0-own",
+      "archive": "zzzzz_lssb_visual_quality.rpa",
+      "sha256": "647ff4ca1be03630c7528917c45977564603dd84cc5dda864b9ac9b49d697a6c",
+      "bytes": 1303875022
+    },
+    "lssb_startup_fix": {
+      "version": "1.2.0-own",
+      "archive": "zzzzzzz_lssb_startup_fast.rpa",
+      "sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+      "bytes": 7249
+    },
+    "lssb_mod_manager": {
+      "version": "1.4.1-own",
+      "archive": "zzzzzzzz_lssb_mod_manager.rpa",
+      "sha256": "3cd2539c7ec75497004404870f89f8da904f32a0709d900bbc440cf6226ba10c",
+      "bytes": 41013
+    }
+  },
+  "validation": {
+    "status": "passed",
+    "game": "26.9.0e",
+    "platform": "Windows",
+    "skills_checked": 25,
+    "skill_translations_added": 18,
+    "literal_appointment_titles_checked": 35,
+    "job_display_cases": 31,
+    "wide_phone_opengl_cases": 35,
+    "standard_phone_software_cases": 35,
+    "warm_cache_cases": 35,
+    "original_language_restored": true,
+    "calendar_models_unchanged": true,
+    "custom_names_preserved": true,
+    "native_screen_fallback": true,
+    "changed_wide_screen_fallback": true,
+    "preserved_archive_members": 156,
+    "updated_archive_members": 1,
+    "added_archive_members": 1,
+    "repository_verifier": "passed",
+    "manager_tests": {
+      "passed": 67,
+      "skipped": 1
+    },
+    "limitations": [
+      "Isolated screen/model checks, not a complete story playthrough."
+    ]
+  }
+}

@@ -76,7 +76,7 @@
     "mods/lssb_localization_ru/game/zz_lssb_textphone_ru.rpy": "0b39cede2cf8bbc24c3476dcee4c603607853cc9d816dbb4e579b258503a7c0c",
     "mods/lssb_localization_ru/game/zz_lssb_textstory_ru.rpy": "d3249606f12a51a79c8c1f37ac6e681ec16631b2c3ca2fb7b364ef7f1a5851f2",
     "mods/lssb_localization_ru/game/zz_lssb_ui_ru.rpy": "ff493bfd499ed84917c73089a9436117131041198c69c377278141f8bda47aab",
-    "mods/lssb_localization_ru/game/zz_lssb_ui_screens.rpy": "0089e79b9880e7609360e5919212bab7bd43aa6e3f4e15fc70a55df091edf9c0",
+    "mods/lssb_localization_ru/game/zz_lssb_ui_screens.rpy": "8cf5abe3fbe9d29f2e2756dab50ce34e428198bd0f9974ef095e7a84f4196cc5",
     "mods/lssb_localization_ru/game/zz_lssb_world_ru.rpy": "9a9d4aa4501556fdd0d7c5b840b6ad29c18195c936c7253d5629e30b2aa270d7",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_aletta_dialogue.rpy": "2b70c03c3844b573991dec3ce5787a858e5bc2251a1edfcc589a44152660c77c",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_alexis_dialogue.rpy": "5fa75419d86bdd5e36efdf51c6a170d0116783484119e68806baf6183911bd0e",
@@ -5929,6 +5929,7 @@
     "mods/lssb_visual_quality/game/dlc_lively/bg/waterpark2/npc/samantha/bg_waterpark2_samantha_top_preg_samantha_sexyswimsuit@2.webp": "bf6d5e1d9b2d6eddddd3f9ca44cfa798109227df77015e8723353dcc90423c1c",
     "mods/lssb_visual_quality/game/dlc_lively/bg/waterpark2/npc/samantha/bg_waterpark2_samantha_top_preg_samantha_swimsuit@2.webp": "87f6c12f5b9b849d7b77d98608507654f54923983d8e10a8b4607f8a4a37bc39",
     "mods/lssb_visual_quality/game/dlc_lively/bg/waterpark2/npc/samantha/bg_waterpark2_water_samantha@2.webp": "b2b441e898d5a8c955f0f3b33b2741cb5cce6ef273db757499621b1f23e9ebf2",
-    "mods/lssb_localization_ru/game/zz_lssb_phone_layout_ru.rpy": "1a8192379484ed01cedbd36b23a07847fd15ec861a6cb7a3f549c0ca0138cd0c"
+    "mods/lssb_localization_ru/game/zz_lssb_phone_layout_ru.rpy": "1a8192379484ed01cedbd36b23a07847fd15ec861a6cb7a3f549c0ca0138cd0c",
+    "mods/lssb_localization_ru/game/zz_lssb_phone_fields_ru.rpy": "c19df628a14170573db632f6edbea90a73c25e88893dec978c5cd29dbf025e5b"
   }
 }

@@ -167,6 +167,8 @@ screen smartphone(char=None, selected_screen="home"):
                 background "gui/phone/phone_bg_bar.png"
                 python:
                     hero_birthday_display_name = _lssb_ui_birthday(hero)
+                    if hero_birthday_display_name == "Unknown":
+                        hero_birthday_display_name = "Неизвестно"
                 if hero.is_female:
                     add "bree smartphone" pos (100, 85)
                 else:
@@ -230,7 +232,7 @@ screen smartphone(char=None, selected_screen="home"):
                                     $ character_self_voicing += f". {replace_tags_alt(attr_bar_ui['icon'])} {attr_bar_ui['text']} {' is Lock' if attr_bar_ui['lock'] else ''}"
 
                         if any(hero.skills):
-                            $ t = ", ".join([_lssb_ui_translate(s.display_name) for s in hero.skills])
+                            $ t = ", ".join([_lssb_phone_skill(s.display_name) for s in hero.skills])
                             text "{b}Skills:{/b} [t]" size 16 alt ""
                             $ character_self_voicing += f". Skills: {t}"
 
@@ -265,9 +267,9 @@ screen smartphone(char=None, selected_screen="home"):
                                 $ job_night = "Unemployed"
                             if Room.find(job_night) is not None:
                                 $ job_night = Room.find(job_night).display_name
-                            text "{b}Job (night):{/b} [job_night]" alt ""
+                            text _lssb_phone_job_line("night", job_night) alt ""
                         $ character_self_voicing += f". Job (night): {job_night}"
-                        text "{b}Job (day):{/b} [job_day]" alt ""
+                        text _lssb_phone_job_line("day", job_day) alt ""
                         $ character_self_voicing += f". Job (day): {job_day}"
 
                         if hero.is_female:
@@ -320,16 +322,16 @@ screen smartphone(char=None, selected_screen="home"):
                                                     if entry.season:
                                                         add f"gui/icons/icon_{entry.season}.png" size (18, 18) yalign 0.5 alt ""
                                                 else:
-                                                    text entry.day size 19 italic True bold True alt ""
-                                            text entry.hour size 19 xoffset -18 xalign 1.0 italic True alt ""
-                                        text _lssb_ui_resize(entry.name, 350, 19) xpos 18 alt ""
+                                                    text _lssb_agenda_text(entry.day) size 19 italic True bold True alt ""
+                                            text _lssb_agenda_text(entry.hour) size 19 xoffset -18 xalign 1.0 italic True alt ""
+                                        text _lssb_ui_resize(_lssb_agenda_name(entry.name), 234, 19) xpos 18 xmaximum 234 alt ""
                                         null height 2
                                         add "gui/phone/phone_divider.png" xpos 5
                                     button:
                                         style "empty"
                                         action NullAction()
                                         keyboard_focus False
-                                        alt f'{entry.name}: {find_full_day_name(entry.day)} {entry.hour}'
+                                        alt _lssb_agenda_alt(entry)
                         use scrollbar_phone("calendar")
                     textbutton "Back" action SetScreenVariable("smartphone_screen", "home") ypos 375 default_focus check_controller()
             elif smartphone_screen == "services":
