@@ -157,6 +157,11 @@ class ManagerCore:
                     or name.lower() in seen_names or not isinstance(digest, str)
                     or not re.fullmatch(r"[a-f0-9]{64}", digest)):
                 raise ManagerError("catalog", "Неверный каталог модов.")
+            conflicts = item.get("incompatible_files", [])
+            if (not isinstance(conflicts, list) or any(not isinstance(n, str)
+                    or not re.fullmatch(r"[A-Za-z0-9_-]+\.rpa", n)
+                    or n.lower() == name.lower() for n in conflicts)):
+                raise ManagerError("catalog", "Неверный список несовместимых архивов.")
             seen_names.add(name.lower())
             self.catalog.append(item)
             self.by_id[key] = item
@@ -323,7 +328,7 @@ class ManagerCore:
         self._check_directory(self.data_dir)
 
     def _validate_actions(self, actions, historical=False):
-        if not isinstance(actions, list) or not actions or len(actions) > (len(self._builtin_catalog) + 64 if historical else len(self.catalog)):
+        if not isinstance(actions, list) or not actions or len(actions) > (max(len(self._builtin_catalog), len(RELEASE_COMPONENTS)) + 64 if historical else len(self.catalog)):
             raise ManagerError("control", "План менеджера повреждён; файлы сохранены.")
         seen = set()
         for action in actions:
@@ -333,11 +338,12 @@ class ManagerCore:
             key = action["id"]
             historical_external = (historical and isinstance(key, str)
                                    and re.fullmatch(r"external_[a-z0-9_]{1,48}", key))
-            if (not isinstance(key, str) or (key not in self.by_id and not historical_external) or key in seen
+            historical_builtin = historical and isinstance(key, str) and key in RELEASE_COMPONENTS
+            if (not isinstance(key, str) or (key not in self.by_id and not historical_external and not historical_builtin) or key in seen
                     or type(action["enabled"]) is not bool):
                 raise ManagerError("control", "План менеджера не соответствует каталогу.")
             seen.add(key)
-            item = self.by_id.get(key) or {"filename": "zz_mod_" + key[9:] + ".rpa"}
+            item = self.by_id.get(key) or {"filename": RELEASE_COMPONENTS[key] if historical_builtin else "zz_mod_" + key[9:] + ".rpa"}
             active, disabled = item["filename"], item["filename"] + ".disabled"
             source, target = (disabled, active) if action["enabled"] else (active, disabled)
             if (action["source"] != source or action["destination"] != target
@@ -474,6 +480,7 @@ class ManagerCore:
             row = dict(item, state="missing", can_toggle=False, enabled=None,
                        actual_path=None, digest=None, reason="Архив не найден.")
             try:
+                self._check_incompatible(item)
                 active = self.game_dir / item["filename"]
                 disabled = self.game_dir / (item["filename"] + ".disabled")
                 active_info, disabled_info = self._file_info(active), self._file_info(disabled)
@@ -546,11 +553,18 @@ class ManagerCore:
             return True
         return False
 
+    def _check_incompatible(self, item):
+        for name in item.get("incompatible_files", []):
+            if self._file_info(self.game_dir / name) is not None:
+                raise ManagerError("conflict", "Перенесите старый отдельный архив " + name + " из game в резервную папку и перезапустите игру.")
+
     def _preflight(self, actions, reverse=False):
         self._refresh_external_mods()
         self._validate_actions(actions)
         self._check_directory(self.game_dir)
         for action in actions:
+            if not reverse:
+                self._check_incompatible(self.by_id[action["id"]])
             source = self.game_dir / action["destination" if reverse else "source"]
             target = self.game_dir / action["source" if reverse else "destination"]
             if self._file_info(target) is not None:

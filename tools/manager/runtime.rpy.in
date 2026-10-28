@@ -109,7 +109,7 @@ init 1005 python in lssb_mm:
             api.restart_interaction()
             return
         # Bootstrap's native relaunch starts too early; apply in its late callback.
-        if any(action['id'] == 'visual_quality' and not action['enabled'] for action in plan['actions']):
+        if any(action['id'] in ('localization_ru', 'visual_quality') and not action['enabled'] for action in plan['actions']):
             import store
             performance = getattr(store, 'lssb_performance', None)
             if performance is not None and performance.supported:
@@ -194,7 +194,8 @@ screen lssb_mod_manager():
                 for row in lssb_mm.rows:
                     frame:
                         style "lssb_mm_card"
-                        xysize (1080, 66)
+                        xsize 1080
+                        yminimum 66
                         hbox:
                             spacing 16
                             vbox:

@@ -25,13 +25,17 @@ def main():
             assert not re.search(r"daerty|Đã dời", text, re.I), relative
             assert not re.search(r"(?:ghp_|github_pat_|sk-proj-)[A-Za-z0-9_]{16,}", text), relative
     manager = (ROOT / "mods/lssb_mod_manager/game/zz_lssb_mod_manager.rpy").read_text(encoding="utf-8")
-    # Source construction must retain exactly the three first-party entries.
-    for name in ("localization_ru", "visual_quality", "startup_fast"):
+    # Translation and visuals now share a single archive and toggle.
+    for name in ("localization_ru", "startup_fast"):
         assert "'id': '" + name + "'" in manager, name
-    assert manager.count("'filename':") == 3
+    assert "'id': 'visual_quality'" not in manager
+    assert manager.count("'filename':") == 2
+    components = json.loads((ROOT / "components.json").read_text(encoding="utf-8"))
+    assert components['lssb_localization_ru']['sources'] == ['lssb_localization_ru', 'lssb_visual_quality']
+    assert 'lssb_visual_quality' not in components
     for path in (ROOT / "tools").rglob("*.py"):
         ast.parse(path.read_text(encoding="utf-8"), filename=str(path))
-    print(f"PASS: {len(actual)} snapshot files; four own mods; no wiki payloads or wiki translation code.")
+    print(f"PASS: {len(actual)} snapshot files; unified translation/visual mod, startup and manager; no wiki payloads or wiki translation code.")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,77 @@
+{
+  "tag": "v1.89.0-own",
+  "assets": {
+    "LSSB_1.89.0_Russian_HD_Lively.zip": {
+      "sha256": "353b59da54043e9bd4aa2d061dd8bc66da8e7af6b19fe456848902406c160fd9",
+      "bytes": 1337572291
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "7ff9c0767777e6b65b3a2971742d44406e84abfa93abfa32b6b75c405101492b",
+      "bytes": 101
+    }
+  },
+  "components": {
+    "lssb_localization_ru": {
+      "version": "1.89.0-own",
+      "archive": "zzzzzz_lssb_localization_ru.rpa",
+      "sha256": "82660050e0cfc0e669f4e09baad10410611953528a68dc9b3f1f3e8204b2a405",
+      "bytes": 1337492417
+    },
+    "lssb_startup_fix": {
+      "version": "1.2.0-own",
+      "archive": "zzzzzzz_lssb_startup_fast.rpa",
+      "sha256": "d132d49844d2dc1cf277c98fa1a2c7747a77d0af2eac23ab56763133c4ed6a52",
+      "bytes": 7249
+    },
+    "lssb_mod_manager": {
+      "version": "1.5.0-own",
+      "archive": "zzzzzzzz_lssb_mod_manager.rpa",
+      "sha256": "62ce3dfe8eeb73bdd3d4ae90277c57f5894e2fa2bf6dd96a45e61a57b195eb86",
+      "bytes": 41327
+    }
+  },
+  "validation": {
+    "status": "passed",
+    "game": "26.9.0e",
+    "platform": "Windows",
+    "combined_archive_members": 5006,
+    "source_build_verified": true,
+    "opengl_runtime_cases": 38,
+    "reenabled_runtime_cases": 38,
+    "source_build_runtime_cases": 38,
+    "legacy_duplicate_runtime_cases": 38,
+    "skills_checked": 25,
+    "appointment_titles_checked": 35,
+    "job_display_cases": 31,
+    "one_archive_toggle_verified": true,
+    "translation_and_visuals_disabled_together": true,
+    "active_legacy_duplicate_rejected": true,
+    "preferences_restore_on_combined_disable": true,
+    "fallback_contracts_verified": true,
+    "previous_phone_call_fix_retained": true,
+    "all_effective_payload_bytes_preserved": true,
+    "manager_tests": {
+      "passed": 77,
+      "skipped": 1
+    },
+    "limitations": [
+      "Isolated runtime, transaction and preservation checks; not a complete story playthrough."
+    ]
+  },
+  "merge": {
+    "status": "passed",
+    "version": "1.89.0-own",
+    "source_members": 5006,
+    "members": 5006,
+    "localization_members": 158,
+    "visual_members": 4849,
+    "shared_members": [
+      "zz_lssb_compat.rpyc"
+    ],
+    "shared_source_identical": true,
+    "shared_compiled_priority": "localization, matching existing archive order",
+    "all_effective_member_bytes_preserved": true,
+    "sha256": "82660050e0cfc0e669f4e09baad10410611953528a68dc9b3f1f3e8204b2a405",
+    "bytes": 1337492417
+  }
+}

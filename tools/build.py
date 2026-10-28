@@ -1,4 +1,4 @@
-"""Build our four RPA archives using the user's installed Ren'Py runtime.
+"""Build the unified Russian/visual mod, startup optimizer and manager.
 
 Reads the game runtime only. Does not install, launch gameplay, or alter saves.
 """
@@ -44,6 +44,23 @@ def manager_source(catalog, version):
     return template.replace("@CORE_SOURCE@", repr(core)).replace("@CATALOG@", repr(catalog)).replace("@VERSION@", version)
 
 
+def collect_sources(component, spec, root=ROOT):
+    """Merge declared source trees, rejecting conflicting shared filenames."""
+    files = {}
+    for source_component in spec.get("sources", [component]):
+        sources = root / "mods" / source_component / "game"
+        if not sources.is_dir():
+            raise FileNotFoundError(sources)
+        for source in sorted(sources.rglob("*")):
+            if not source.is_file() or "__pycache__" in source.parts or source.suffix in {".pyc", ".pyo"}:
+                continue
+            relative = source.relative_to(sources).as_posix()
+            if relative in files and source.read_bytes() != files[relative].read_bytes():
+                raise ValueError("Conflicting combined-mod source: " + relative)
+            files.setdefault(relative, source)
+    return files
+
+
 def release_signing_key(explicit=None, unsigned=False):
     if unsigned:
         if explicit:
@@ -59,8 +76,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--game-root", required=True, type=Path)
     parser.add_argument("--output", type=Path, default=ROOT / "build/own-mods")
-    parser.add_argument("--component", choices=("lssb_localization_ru", "lssb_visual_quality", "lssb_startup_fix"),
-                        help="Build one signed mod update for the existing manager; omit to build all four.")
+    parser.add_argument("--component", choices=("lssb_localization_ru", "lssb_startup_fix"),
+                        help="Build one signed mod update; localization always includes visuals. Omit to build all three archives.")
     parser.add_argument("--signing-key", type=Path,
                         help="Private RSA release key outside the repository (official mod updates).")
     parser.add_argument("--unsigned-mods", "--unsigned-localization", dest="unsigned_mods", action="store_true",
@@ -84,9 +101,11 @@ def main():
         if args.component and component != args.component:
             continue
         project = output / component
-        sources = ROOT / "mods" / component / "game"
-        shutil.copytree(sources, project / "game",
-                        ignore=shutil.ignore_patterns("__pycache__", "*.pyc", "*.pyo"))
+        sources = collect_sources(component, spec)
+        for relative, source in sources.items():
+            target = project / "game" / relative
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, target)
         if component == "lssb_mod_manager":
             (project / "game/zz_lssb_mod_manager.rpy").write_text(manager_source(catalog, spec["version"]), encoding="utf-8")
         environment = dict(os.environ, SDL_VIDEODRIVER="dummy", SDL_AUDIODRIVER="dummy",
@@ -96,10 +115,7 @@ def main():
                            env=environment, stdout=log, stderr=subprocess.STDOUT, check=True,
                            creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))
         files = {}
-        for source in sorted(sources.rglob("*")):
-            if not source.is_file() or "__pycache__" in source.parts or source.suffix in {".pyc", ".pyo"}:
-                continue
-            relative = source.relative_to(sources).as_posix()
+        for relative, source in sorted(sources.items()):
             built = project / "game" / relative
             if source.suffix == ".rpy":
                 built = built.with_suffix(".rpyc")
@@ -124,7 +140,8 @@ def main():
             manifests[component]["release_metadata"] = release_metadata
         if component != "lssb_mod_manager":
             catalog.append(dict(id=spec["id"], name=spec["name"], description=spec["description"],
-                                version=spec["version"], filename=spec["archive"], sha256=archive_hash))
+                                version=spec["version"], filename=spec["archive"], sha256=archive_hash,
+                                **({"incompatible_files": spec["incompatible_files"]} if spec.get("incompatible_files") else {})))
         print(component, archive_hash, flush=True)
     (output / "dist/manifest.json").write_text(json.dumps(manifests, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     copy_license_documents(output / "dist")

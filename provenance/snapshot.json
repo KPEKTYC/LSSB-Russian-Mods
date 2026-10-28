@@ -139,7 +139,7 @@
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_textphone_dialogue.rpy": "d4bc1e2f8e3740ec65ea7bf4eb91c5f2a0d446941bc1178b397db376080bb1ae",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_textstory_dialogue.rpy": "946a8b138d67dfdec606ab60647b1283e923e1c939957c7ec0b4ceb1fa9fcea1",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_world_dialogue.rpy": "f31d57c11343d98b22b559209254aea76a40a78b8a075601d7bb82cf8def3ae7",
-    "mods/lssb_mod_manager/game/zz_lssb_mod_manager.rpy": "a18b9d481fae8fa6a255372acbb55495616c1a4ca837f5ce4fbc59701382cc78",
+    "mods/lssb_mod_manager/game/zz_lssb_mod_manager.rpy": "f194765c21c1cfa061d2e191786978ab6d773d9b5c6fd60dc86b0baad68a2be6",
     "mods/lssb_startup_fix/game/zz_lssb_startup_fast.rpy": "a6586008d966cb50338b2c99ea9b999348a3fe9f61ddcee392a7e8c5feb0bd2e",
     "mods/lssb_visual_quality/game/zz_lssb_compat.rpy": "ead39859768654dc17a777e7549ab6fd175e2244a91417198224d740479e6476",
     "mods/lssb_visual_quality/game/zz_lssb_visual_display.rpy": "61ab07148e6e424867b8854999029e3907080c1b80afbeffb47e6e16a939c014",
@@ -1373,8 +1373,8 @@
     "work-in-progress/review/receipts/samantha_000.json": "cb354c80fe8646d6b1cd2b82bd3e865857396ccbd3f02d1ff8460b89d543755c",
     "work-in-progress/review/receipts/scottie_000.json": "e02507648c0f8a2a46198041fde406b802212b4b13fbf2c11723dd7d24504f80",
     "work-in-progress/review/receipts/shiori_000.json": "51e02771d2cc4a8a1a92ef42f512f5bb35cdab04815af928b944cb36427c502f",
-    "tools/manager/manager_core.py": "a576c370036eb6b6a68e6caa57c418c601e43ce577994f07ab833f1658c9618c",
-    "tools/manager/runtime.rpy.in": "8d0e399bd18d54135a4a087674ee605bfcb1455a30932b790842ec67c03899c7",
+    "tools/manager/manager_core.py": "1918a8c591e9e0d31b15f54c1253c28386b64a1bf02800de4b8858ef9736d621",
+    "tools/manager/runtime.rpy.in": "500f14ab19f5024ea2d057f662f63edbc2415575d044ac596d0769d8dc925787",
     "tools/manager/test_manager_core.py": "2adcd1774e676f30c86501d40e27ab56df728247ec6ca4f36bdaea51ea232b18",
     "work-in-progress/review/batches/audrey_940.json": "b0cb42447b1798d8430f449da6be5c0f7159ec99e11c365eb9890a410d880b38",
     "work-in-progress/review/receipts/audrey_1480.json": "650b6df3cc8ab9aa75dd912939355f9b8c3a51d2fc975619c53a69fb8ecbecc9",
@@ -5930,6 +5930,8 @@
     "mods/lssb_visual_quality/game/dlc_lively/bg/waterpark2/npc/samantha/bg_waterpark2_samantha_top_preg_samantha_swimsuit@2.webp": "87f6c12f5b9b849d7b77d98608507654f54923983d8e10a8b4607f8a4a37bc39",
     "mods/lssb_visual_quality/game/dlc_lively/bg/waterpark2/npc/samantha/bg_waterpark2_water_samantha@2.webp": "b2b441e898d5a8c955f0f3b33b2741cb5cce6ef273db757499621b1f23e9ebf2",
     "mods/lssb_localization_ru/game/zz_lssb_phone_layout_ru.rpy": "1a8192379484ed01cedbd36b23a07847fd15ec861a6cb7a3f549c0ca0138cd0c",
-    "mods/lssb_localization_ru/game/zz_lssb_phone_fields_ru.rpy": "c19df628a14170573db632f6edbea90a73c25e88893dec978c5cd29dbf025e5b"
+    "mods/lssb_localization_ru/game/zz_lssb_phone_fields_ru.rpy": "c19df628a14170573db632f6edbea90a73c25e88893dec978c5cd29dbf025e5b",
+    "tools/manager/test_combined_build.py": "eddfa0fca9d19493c3910c4e88b1d43f2fac0c1ea9e55ffe22e603fc7f47f878",
+    "tools/manager/test_combined_migration.py": "8165d4f5836b878b5c347a006c9c2d5c551d468e46b9a08a2c63b4612235360c"
   }
 }
