@@ -1242,7 +1242,7 @@ translate russian cassidy_audrey_showdown_8b439d29:
 
 # ch/harems_full/bitchy/events.rpy:729
 translate russian cassidy_audrey_showdown_475555dc:
-    "Или Шиори, смущённую и извиняющуюся за то, что забыла постучать."
+    "Или Сиори, смущённую и извиняющуюся за то, что забыла постучать."
 
 # ch/harems_full/bitchy/events.rpy:731
 translate russian cassidy_audrey_showdown_bfc8f361:

@@ -22,5 +22,6 @@
   ],
   "additional_exclusion_source": "mods/lssb_localization_ru/game/tl/russian/zz_lssb_alexis_dialogue.rpy",
   "additional_exclusion_source_sha256": "e55597008475068c8d16457b474cf8a9b12fba4647be5044cb1d1f41aa29e66f",
+  "renamed_source": "mods/lssb_localization_ru/game/tl/russian/lssb_base_ru.rpy",
   "version_scope": "1.84.0-own base-import record; current source hashes are recorded in snapshot.json"
 }

@@ -2632,7 +2632,7 @@ translate russian cupid_angela_bruce_event_05_0790c2e9:
     "Michaels" "Эм... алло?"
 
 translate russian cupid_angela_bruce_event_05_3c1fbc50:
-    "Michaels" "Майклз слушает."
+    "Michaels" "Майклс слушает."
 
 translate russian cupid_angela_bruce_event_05_e44dda61:
     mike.say "Детектив, вам нужно поторопиться."
@@ -2701,7 +2701,7 @@ translate russian cupid_angela_bruce_event_05_cc31d582:
     "Мама берёт телефон Брюса, находит номер и звонит."
 
 translate russian cupid_angela_bruce_event_05_4a7c8810:
-    angela.say "Детектив Майклз, вам нужно поторопиться."
+    angela.say "Детектив Майклс, вам нужно поторопиться."
 
 translate russian cupid_angela_bruce_event_05_aa348637:
     angela.say "Приезжайте и арестуйте фокусника-преступника!"

@@ -5050,27 +5050,27 @@ translate russian dwayne_murder_mike_arrest_5d843762:
 
 # ch/cherie/events.rpy:2287
 translate russian dwayne_murder_mike_arrest_ed5a397a:
-    "Майклз" "[lssb_cherie.hero_name()] [hero.family_name]…"
+    "Майклс" "[lssb_cherie.hero_name()] [hero.family_name]…"
 
 # ch/cherie/events.rpy:2288
 translate russian dwayne_murder_mike_arrest_b7ac7768:
-    "Майклз" "Вы арестованы по подозрению в убийстве Дуэйна Джексона."
+    "Майклс" "Вы арестованы по подозрению в убийстве Дуэйна Джексона."
 
 # ch/cherie/events.rpy:2289
 translate russian dwayne_murder_mike_arrest_05bb5982:
-    "Майклз" "Вы имеете право хранить молчание..."
+    "Майклс" "Вы имеете право хранить молчание..."
 
 # ch/cherie/events.rpy:2290
 translate russian dwayne_murder_mike_arrest_3db17312:
-    "Майклз" "Однако если при допросе вы не сообщите о чём-либо, на что впоследствии будете ссылаться в суде, это может повредить вашей защите."
+    "Майклс" "Однако если при допросе вы не сообщите о чём-либо, на что впоследствии будете ссылаться в суде, это может повредить вашей защите."
 
 # ch/cherie/events.rpy:2291
 translate russian dwayne_murder_mike_arrest_9b4b1856:
-    "Майклз" "Всё сказанное вами может быть использовано в качестве доказательств."
+    "Майклс" "Всё сказанное вами может быть использовано в качестве доказательств."
 
 # ch/cherie/events.rpy:2293
 translate russian dwayne_murder_mike_arrest_349f718b:
-    "Я плотно сжимаю губы и молчу, пока Майклз зачитывает мне права."
+    "Я плотно сжимаю губы и молчу, пока Майклс зачитывает мне права."
 
 # ch/cherie/events.rpy:2294
 translate russian dwayne_murder_mike_arrest_9a9e26a3:

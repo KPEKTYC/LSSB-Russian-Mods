@@ -5,6 +5,7 @@ from manager_core import ScanJob
 
 class FakeCore:
     status_error = ''
+    metadata_issue = ''
     plan = None
     result = None
     def __init__(self, game_dir, catalog):

@@ -17,11 +17,14 @@ init 1010 python in lssb_performance:
     original_redraw = store.lssb_compat.resolve("renpy.display.render.redraw")
     original_update_states = store.lssb_compat.resolve("renpy.gl2.live2d.update_states")
 
-    def apply_preferences():
+    def apply_preferences(force=False):
         previous = store.persistent.lssb_render_previous_preferences
         if not isinstance(previous, dict):
             previous = {key: getattr(engine.game.preferences, key) for key in applied_preferences}
             store.persistent.lssb_render_previous_preferences = previous
+        elif not force:
+            # Already applied once: keep a later choice from the game's own settings.
+            return
         for key, value in applied_preferences.items():
             setattr(engine.game.preferences, key, value)
 
@@ -43,7 +46,7 @@ init 1010 python in lssb_performance:
         value = bool(value)
         store.persistent.lssb_balanced_rendering = value
         if value:
-            apply_preferences()
+            apply_preferences(force=True)
             enabled = True
         else:
             restore_preferences()

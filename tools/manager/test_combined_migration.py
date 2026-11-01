@@ -71,6 +71,17 @@ class CombinedMigrationTests(unittest.TestCase):
         with self.assertRaises(ManagerError):self.core().pending()
         self.assertTrue(self.legacy.exists())
 
+    def test_stale_plan_for_retired_component_can_be_discarded(self):
+        self.old_visual_transaction()
+        core = self.core()
+        core.scan()
+        self.assertIn('Сбросить выбор', core.status_error)
+        self.assertTrue(core.cancel())
+        self.assertFalse(core._control_path('pending').exists())
+        self.assertTrue(self.legacy.exists())
+        core.scan()
+        self.assertIsNone(core.status_error)
+
     def test_retired_receipt_cannot_reference_another_file(self):
         old = self.old_visual_transaction()
         receipt = old.apply_pending()

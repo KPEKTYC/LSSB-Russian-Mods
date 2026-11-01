@@ -53,7 +53,7 @@
   материалы Love & Sex: Second Base, включая заимствованный код, скриншоты
   и переработанную графику на основе игровых ресурсов;
 - импортированную базу
-  `mods/lssb_localization_ru/game/tl/russian/gamepatchanalyzer.rpy` и её
+  `mods/lssb_localization_ru/game/tl/russian/lssb_base_ru.rpy` и её
   скомпилированную форму: [запись о происхождении](provenance/standalone-base.json)
   содержит источник и хеши, но не подтверждает право на перелицензирование;
 - сторонний код, шрифты, библиотеки и другие чужие материалы;

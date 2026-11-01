@@ -3,77 +3,77 @@
 
 # Preserve the game's typography while supplying Russian glyphs when a font lacks them.
 translate russian python hide:
-    import renpy.text.font as _gpa_font
+    import renpy.text.font as _lssb_base_font
 
-    _gpa_font_attributes = (
+    _lssb_base_font_attributes = (
         "text_font",
         "name_text_font",
         "interface_text_font",
         "button_text_font",
         "choice_button_text_font",
     )
-    _gpa_seen_aliases = set()
-    for _gpa_attribute in _gpa_font_attributes:
-        _gpa_configured = getattr(gui, _gpa_attribute, None)
-        _gpa_alias = None
+    _lssb_base_seen_aliases = set()
+    for _lssb_base_attribute in _lssb_base_font_attributes:
+        _lssb_base_configured = getattr(gui, _lssb_base_attribute, None)
+        _lssb_base_alias = None
         if (
-            isinstance(_gpa_configured, str)
-            and _gpa_configured in config.font_name_map
+            isinstance(_lssb_base_configured, str)
+            and _lssb_base_configured in config.font_name_map
         ):
-            _gpa_alias = _gpa_configured
-            if _gpa_alias in _gpa_seen_aliases:
+            _lssb_base_alias = _lssb_base_configured
+            if _lssb_base_alias in _lssb_base_seen_aliases:
                 continue
-            _gpa_seen_aliases.add(_gpa_alias)
-            _gpa_source = config.font_name_map[_gpa_alias]
+            _lssb_base_seen_aliases.add(_lssb_base_alias)
+            _lssb_base_source = config.font_name_map[_lssb_base_alias]
         else:
-            _gpa_source = _gpa_configured
+            _lssb_base_source = _lssb_base_configured
 
-        _gpa_alias_chain = set()
+        _lssb_base_alias_chain = set()
         while (
-            isinstance(_gpa_source, str)
-            and _gpa_source in config.font_name_map
-            and _gpa_source not in _gpa_alias_chain
+            isinstance(_lssb_base_source, str)
+            and _lssb_base_source in config.font_name_map
+            and _lssb_base_source not in _lssb_base_alias_chain
         ):
-            _gpa_alias_chain.add(_gpa_source)
-            _gpa_source = config.font_name_map[_gpa_source]
+            _lssb_base_alias_chain.add(_lssb_base_source)
+            _lssb_base_source = config.font_name_map[_lssb_base_source]
 
         if (
-            not isinstance(_gpa_source, (str, _gpa_font.FontGroup))
+            not isinstance(_lssb_base_source, (str, _lssb_base_font.FontGroup))
             or getattr(
-                _gpa_source,
-                "_gamepatchanalyzer_cyrillic_fallback",
+                _lssb_base_source,
+                "_lssb_cyrillic_fallback",
                 False,
             )
         ):
             continue
         if (
-            isinstance(_gpa_source, _gpa_font.FontGroup)
-            and None not in _gpa_source.map
+            isinstance(_lssb_base_source, _lssb_base_font.FontGroup)
+            and None not in _lssb_base_source.map
         ):
             continue
 
-        _gpa_description = "{} {} {}".format(
-            _gpa_attribute, _gpa_configured, _gpa_source
+        _lssb_base_description = "{} {} {}".format(
+            _lssb_base_attribute, _lssb_base_configured, _lssb_base_source
         ).casefold()
-        _gpa_is_bold = any(
-            _gpa_weight in _gpa_description
-            for _gpa_weight in (
+        _lssb_base_is_bold = any(
+            _lssb_base_weight in _lssb_base_description
+            for _lssb_base_weight in (
                 "bold", "black", "heavy", "semibold", "demibold"
             )
         )
-        _gpa_fallback = (
-            "DejaVuSans-Bold.ttf" if _gpa_is_bold else "DejaVuSans.ttf"
+        _lssb_base_fallback = (
+            "DejaVuSans-Bold.ttf" if _lssb_base_is_bold else "DejaVuSans.ttf"
         )
-        _gpa_group = _gpa_font.FontGroup()
-        _gpa_group.add(_gpa_fallback, 0x0400, 0x052F)
-        _gpa_group.add(_gpa_fallback, 0x20BD, 0x20BD)
-        _gpa_group.add(_gpa_fallback, 0x2116, 0x2116)
-        _gpa_group.add(_gpa_source, None, None)
-        _gpa_group._gamepatchanalyzer_cyrillic_fallback = True
-        if _gpa_alias is not None:
-            config.font_name_map[_gpa_alias] = _gpa_group
+        _lssb_base_group = _lssb_base_font.FontGroup()
+        _lssb_base_group.add(_lssb_base_fallback, 0x0400, 0x052F)
+        _lssb_base_group.add(_lssb_base_fallback, 0x20BD, 0x20BD)
+        _lssb_base_group.add(_lssb_base_fallback, 0x2116, 0x2116)
+        _lssb_base_group.add(_lssb_base_source, None, None)
+        _lssb_base_group._lssb_cyrillic_fallback = True
+        if _lssb_base_alias is not None:
+            config.font_name_map[_lssb_base_alias] = _lssb_base_group
         else:
-            setattr(gui, _gpa_attribute, _gpa_group)
+            setattr(gui, _lssb_base_attribute, _lssb_base_group)
 
 translate russian about_photostudio_ed8648aa:
 
@@ -109205,7 +109205,7 @@ translate russian ayesha_date_aquarium_male_b58f702b:
 
 translate russian ayesha_date_aquarium_male_b712cb49:
 
-    mike.say "Прости меня, Аyesha – я должен был знать лучше."
+    mike.say "Прости меня, Аиша – я должен был знать лучше."
 
 translate russian ayesha_date_aquarium_male_bb9f21fa:
 
@@ -110125,7 +110125,7 @@ translate russian ayesha_date_livingroom_male_16b7f91c:
 
 translate russian ayesha_date_livingroom_male_16d4177c:
 
-    mike.say "Хорошо, Аyesha, как скажешь."
+    mike.say "Хорошо, Аиша, как скажешь."
 
 translate russian ayesha_date_livingroom_male_1948fba5:
 
@@ -115973,11 +115973,11 @@ translate russian ayesha_event_06_b3aab099:
 
 translate russian ayesha_event_06_b6b40d2c:
 
-    "Ни за что! Он посчитал, что Аyesha коснулась пола плечами, а не ее соперница!"
+    "Ни за что! Он посчитал, что Аиша коснулась пола плечами, а не ее соперница!"
 
 translate russian ayesha_event_06_b6b40d2c_1:
 
-    "Ни за что! Он посчитал, что Аyesha коснулась пола плечами, а не ее соперница!"
+    "Ни за что! Он посчитал, что Аиша коснулась пола плечами, а не ее соперница!"
 
 translate russian ayesha_event_06_b717de80:
 
@@ -126145,7 +126145,7 @@ translate russian ayesha_halloween_dance_087dcc1d:
 
 translate russian ayesha_halloween_dance_0cbecca9:
 
-    mike.say "Да, Аyesha, мне это нужно."
+    mike.say "Да, Аиша, мне это нужно."
 
 translate russian ayesha_halloween_dance_11ff8a93:
 
@@ -152337,7 +152337,7 @@ translate russian bree_event_office_01_7533fecc:
 
 translate russian bree_event_office_01_75d164ec:
 
-    mike.say "Если это Шиори, неважно – я сделаю сам!"
+    mike.say "Если это Сиори, неважно – я сделаю сам!"
 
 translate russian bree_event_office_01_79cc1049:
 
@@ -179892,16 +179892,16 @@ translate russian strings:
     new "Много"
 
     old "A mermaid for Ayesha and a mermaid for Kylie"
-    new "Русалка для Айеши и русалка для Кайли"
+    new "Русалка для Аиши и русалка для Кайли"
 
     old "A mermaid for Ayesha and a shark for Kylie"
-    new "Русалка для Айеши и акула для Кайли"
+    new "Русалка для Аиши и акула для Кайли"
 
     old "A mermaid for Kylie and a whale for Ayesha"
-    new "Русалка для Кайли и кит для Айеши"
+    new "Русалка для Кайли и кит для Аиши"
 
     old "A whale for Ayesha and a shark for Kylie"
-    new "Кит для Айеши и акула для Кайли"
+    new "Кит для Аиши и акула для Кайли"
 
     old "Abort"
     new "Прервать"
@@ -180030,7 +180030,7 @@ translate russian strings:
     new "Согласиться и сделать Кайли комплимент"
 
     old "Agree that Ayesha should have a termination"
-    new "Согласиться, что Айеше стоит прервать беременность"
+    new "Согласиться, что Аише стоит прервать беременность"
 
     old "Agree that the verses have illuminated your own sins"
     new "Согласиться, что эти стихи раскрыли твои собственные грехи"
@@ -180060,7 +180060,7 @@ translate russian strings:
     new "Разрешить Алексис обниматься"
 
     old "Agree to manage Ayesha"
-    new "Согласиться быть менеджером Айеши"
+    new "Согласиться быть менеджером Аиши"
 
     old "Agree to meet Harmony's family"
     new "Согласиться встретиться с семьёй Хармони"
@@ -180084,7 +180084,7 @@ translate russian strings:
     new "Согласиться с Анной"
 
     old "Agree with Kleio"
-    new "Согласиться с Клейо"
+    new "Согласиться с Клео"
 
     old "Agree with Sasha"
     new "Согласиться с Сашей"
@@ -180405,16 +180405,16 @@ translate russian strings:
     new "Пригласить Одри, Кэссиди и Паллу на свидание"
 
     old "Ask Ayesha and Hanna on a date"
-    new "Пригласить Айешу и Ханну на свидание"
+    new "Пригласить Аишу и Ханну на свидание"
 
     old "Ask Ayesha and Kylie on a date"
-    new "Пригласить Айешу и Кайли на свидание"
+    new "Пригласить Аишу и Кайли на свидание"
 
     old "Ask Ayesha for a blowjob"
-    new "Попросить Айешу сделать минет"
+    new "Попросить Аишу сделать минет"
 
     old "Ask Ayesha on a date"
-    new "Пригласить Айешу на свидание"
+    new "Пригласить Аишу на свидание"
 
     old "Ask Camila on a date"
     new "Пригласить Камилу на свидание"
@@ -180486,10 +180486,10 @@ translate russian strings:
     new "Спросить, новая ли она сотрудница"
 
     old "Ask Kleio on a date"
-    new "Пригласить Клейо на свидание"
+    new "Пригласить Клео на свидание"
 
     old "Ask Kylie and Ayesha on a date"
-    new "Пригласить Кайли и Айешу на свидание"
+    new "Пригласить Кайли и Аишу на свидание"
 
     old "Ask Kylie on a date"
     new "Пригласить Кайли на свидание"
@@ -180648,34 +180648,34 @@ translate russian strings:
     new "Axium, Thormakar, Tomcat2k, CouncilOfOne, Zach Johnson,"
 
     old "Ayesha fucks Kylie's ass"
-    new "Айеша трахает Кайли в задницу"
+    new "Аиша трахает Кайли в задницу"
 
     old "Ayesha fucks Kylie's pussy"
-    new "Айеша трахает киску Кайли"
+    new "Аиша трахает киску Кайли"
 
     old "Ayesha is a personal trainer"
-    new "Айеша — персональный тренер"
+    new "Аиша — персональный тренер"
 
     old "Ayesha is a professional wrestler"
-    new "Айеша — профессиональная рестлерша"
+    new "Аиша — профессиональная рестлерша"
 
     old "Ayesha needs to cool down"
-    new "Айеше нужно остыть"
+    new "Аише нужно остыть"
 
     old "Ayesha pulls out"
-    new "Айеша вытаскивает"
+    new "Аиша вытаскивает"
 
     old "Ayesha stays inside"
-    new "Айеша остаётся внутри"
+    new "Аиша остаётся внутри"
 
     old "Ayesha! Shut up!"
-    new "Айеша! Заткнись!"
+    new "Аиша! Заткнись!"
 
     old "Ayesha, I'm disappointed"
-    new "Айеша, я разочарован"
+    new "Аиша, я разочарован"
 
     old "Ayesha, it's just a joke"
-    new "Айеша, это просто шутка"
+    new "Аиша, это просто шутка"
 
     old "B"
     new "B"
@@ -180726,7 +180726,7 @@ translate russian strings:
     new "Плохая идея"
 
     old "Bail Kleio out"
-    new "Внести залог за Клейо"
+    new "Внести залог за Клео"
 
     old "Bake Something"
     new "Что-нибудь испечь"
@@ -180912,7 +180912,7 @@ translate russian strings:
     new "Blackspack, Evan Laforet, Hunter ingram, Phillip Razlow,"
 
     old "Blame Ayesha"
-    new "Обвинить Айешу"
+    new "Обвинить Аишу"
 
     old "Blame Kylie"
     new "Обвинить Кайли"
@@ -181467,7 +181467,7 @@ translate russian strings:
     new "Выбрать тему разговора"
 
     old "Choose Kleio"
-    new "Выбрать Клейо"
+    new "Выбрать Клео"
 
     old "Choose Lexi"
     new "Выбрать Лекси"
@@ -181821,7 +181821,7 @@ translate russian strings:
     new "Кончить Одри в рот"
 
     old "Cum in Ayesha's mouth"
-    new "Кончить Айеше в рот"
+    new "Кончить Аише в рот"
 
     old "Cum in Camila's mouth"
     new "Кончить Камиле в рот"
@@ -181842,10 +181842,10 @@ translate russian strings:
     new "Кончить ей в рот"
 
     old "Cum in Kleio's ass"
-    new "Кончить Клейо в задницу"
+    new "Кончить Клео в задницу"
 
     old "Cum in Kleio's pussy"
-    new "Кончить Клейо в киску"
+    new "Кончить Клео в киску"
 
     old "Cum in Lexi's mouth"
     new "Кончить Лекси в рот"
@@ -181893,7 +181893,7 @@ translate russian strings:
     new "Кончить внутрь неё"
 
     old "Cum inside Kleio's pussy"
-    new "Кончить внутрь киски Клейо"
+    new "Кончить внутрь киски Клео"
 
     old "Cum inside Minami"
     new "Кончить внутрь Минами"
@@ -182025,7 +182025,7 @@ translate russian strings:
     new "Танцевать с Одри"
 
     old "Dance with Ayesha"
-    new "Танцевать с Айешей"
+    new "Танцевать с Аишей"
 
     old "Dance with Cherie"
     new "Танцевать с Шери"
@@ -182124,10 +182124,10 @@ translate russian strings:
     new "Защитить Одри"
 
     old "Defend Ayesha"
-    new "Защитить Айешу"
+    new "Защитить Аишу"
 
     old "Defend Ayesha and yourself"
-    new "Защитить Айешу и себя"
+    new "Защитить Аишу и себя"
 
     old "Defend Camila"
     new "Защитить Камилу"
@@ -182145,7 +182145,7 @@ translate russian strings:
     new "Защитить Джека и Скотти"
 
     old "Defend Kleio"
-    new "Защитить Клейо"
+    new "Защитить Клео"
 
     old "Defend Lavish"
     new "Защитить Лавиш"
@@ -182232,7 +182232,7 @@ translate russian strings:
     new "Не согласиться с Алексис"
 
     old "Disagree, Ayesha shouldn't have a termination"
-    new "Не согласиться: Айеше не стоит прерывать беременность"
+    new "Не согласиться: Аише не стоит прерывать беременность"
 
     old "Disapprove"
     new "Выразить неодобрение"
@@ -182346,7 +182346,7 @@ translate russian strings:
     new "Не отступать"
 
     old "Don't bail Kleio out"
-    new "Не вносить залог за Клейо"
+    new "Не вносить залог за Клео"
 
     old "Don't believe her"
     new "Не верить ей"
@@ -182994,10 +182994,10 @@ translate russian strings:
     new "Трахнуть Одри в киску"
 
     old "Fuck Ayesha"
-    new "Трахнуть Айешу"
+    new "Трахнуть Аишу"
 
     old "Fuck Ayesha too"
-    new "Трахнуть и Айешу"
+    new "Трахнуть и Аишу"
 
     old "Fuck Camila"
     new "Трахнуть Камилу"
@@ -183057,13 +183057,13 @@ translate russian strings:
     new "Трахнуть Кэт"
 
     old "Fuck Kleio"
-    new "Трахнуть Клейо"
+    new "Трахнуть Клео"
 
     old "Fuck Kleio's ass"
-    new "Трахнуть Клейо в задницу"
+    new "Трахнуть Клео в задницу"
 
     old "Fuck Kleio's pussy"
-    new "Трахнуть Клейо в киску"
+    new "Трахнуть Клео в киску"
 
     old "Fuck Kylie"
     new "Трахнуть Кайли"
@@ -183249,7 +183249,7 @@ translate russian strings:
     new "Сделать Алексис массаж"
 
     old "Give Ayesha oral"
-    new "Сделать Айеше кунилингус"
+    new "Сделать Аише кунилингус"
 
     old "Give her a cunnilingus"
     new "Сделать ей кунилингус"
@@ -183276,7 +183276,7 @@ translate russian strings:
     new "Отдать ему"
 
     old "Give Kleio some attention"
-    new "Уделить внимание Клейо"
+    new "Уделить внимание Клео"
 
     old "Give me a blowjob"
     new "Сделай мне минет"
@@ -184119,13 +184119,13 @@ translate russian strings:
     new "Стоит попробовать убедить Анну"
 
     old "I should try to convince Kleio"
-    new "Стоит попробовать убедить Клейо"
+    new "Стоит попробовать убедить Клео"
 
     old "I should try to talk to Anna"
     new "Стоит попробовать поговорить с Анной"
 
     old "I should try to talk to Kleio"
-    new "Стоит попробовать поговорить с Клейо"
+    new "Стоит попробовать поговорить с Клео"
 
     old "I sleep with [bree.name] and Sasha."
     new "Я сплю с [bree.name] и Сашей"
@@ -185094,7 +185094,7 @@ translate russian strings:
     new "Постучать в дверь"
 
     old "Ko Clover as Kleio"
-    new "Ko Clover — Клейо"
+    new "Ko Clover — Клео"
 
     old "Kogan Sheda, Jason Miller, Phazonmasher, Alric darkflame,"
     new "Kogan Sheda, Jason Miller, Phazonmasher, Alric darkflame,"
@@ -185247,16 +185247,16 @@ translate russian strings:
     new "Позволить Одри сделать по-своему"
 
     old "Let Ayesha defend you"
-    new "Позволить Айеше защитить тебя"
+    new "Позволить Аише защитить тебя"
 
     old "Let Ayesha pick up the tab"
-    new "Позволить Айеше оплатить счёт"
+    new "Позволить Аише оплатить счёт"
 
     old "Let Ayesha put Kylie in her place"
-    new "Позволить Айеше поставить Кайли на место"
+    new "Позволить Аише поставить Кайли на место"
 
     old "Let Ayesha use Kylie"
-    new "Позволить Айеше использовать Кайли"
+    new "Позволить Аише использовать Кайли"
 
     old "Let go"
     new "Отпустить"
@@ -185781,19 +185781,19 @@ translate russian strings:
     new "Встретиться с Алексис, Одри и Реоной на «горячий кофе»"
 
     old "Meet Anna and Kleio for a 'hot coffee'"
-    new "Встретиться с Анной и Клейо на «горячий кофе»"
+    new "Встретиться с Анной и Клео на «горячий кофе»"
 
     old "Meet Anna, Emma and Kat at the beach"
     new "Встретиться с Анной, Эммой и Кэт на пляже"
 
     old "Meet Anna, Kleio and Sasha for a 'hot coffee'"
-    new "Встретиться с Анной, Клейо и Сашей на «горячий кофе»"
+    new "Встретиться с Анной, Клео и Сашей на «горячий кофе»"
 
     old "Meet Kleio and Anna for a 'hot coffee'"
-    new "Встретиться с Клейо и Анной на «горячий кофе»"
+    new "Встретиться с Клео и Анной на «горячий кофе»"
 
     old "Meet Kleio, Anna and Sasha for a 'hot coffee'"
-    new "Встретиться с Клейо, Анной и Сашей на «горячий кофе»"
+    new "Встретиться с Клео, Анной и Сашей на «горячий кофе»"
 
     old "Meet them at the gym"
     new "Встретиться с ними в спортзале"
@@ -185817,7 +185817,7 @@ translate russian strings:
     new "Средняя кнопка"
 
     old "MidnightDatura as Ayesha, Kiara & Cherie"
-    new "MidnightDatura — Айеша, Киара и Шери"
+    new "MidnightDatura — Аиша, Киара и Шери"
 
     old "Mighty Heimskr, Jacob Brickner, alexlycan805, Kory Davis,"
     new "Mighty Heimskr, Jacob Brickner, alexlycan805, Kory Davis,"
@@ -185895,16 +185895,16 @@ translate russian strings:
     new "громкость музыки"
 
     old "Mute alarm clock"
-    new "Выключить будильник"
+    new "Будильник"
 
     old "Mute all"
-    new "Выключить весь звук"
+    new "Весь звук"
 
     old "mute all"
     new "режим без звука"
 
     old "Mute all characters"
-    new "Выключить всех персонажей"
+    new "Всех персонажей"
 
     old "Mute Bree"
     new "Выключить Бри"
@@ -186486,7 +186486,7 @@ translate russian strings:
     new "Вне работы"
 
     old "Override voice"
-    new "Переопределить голос"
+    new "Заменить голос"
 
     old "Own it"
     new "Признать это"
@@ -186645,7 +186645,7 @@ translate russian strings:
     new "Поиграть с её задницей"
 
     old "Play with Kleio"
-    new "Поиграть с Клейо"
+    new "Поиграть с Клео"
 
     old "Play with the piercing"
     new "Поиграть с пирсингом"
@@ -186684,7 +186684,7 @@ translate russian strings:
     new "Энергосбережение"
 
     old "Praise Ayesha's performance"
-    new "Похвалить выступление Айеши"
+    new "Похвалить выступление Аиши"
 
     old "Praise Sasha when she gets home"
     new "Похвалить Сашу, когда она вернётся домой"
@@ -186960,7 +186960,7 @@ translate russian strings:
     new "Не разрешать Алексис обниматься"
 
     old "Refuse to manage Ayesha"
-    new "Отказаться быть менеджером Айеши"
+    new "Отказаться быть менеджером Аиши"
 
     old "Refuse to meet Harmony's family"
     new "Отказаться встречаться с семьёй Хармони"
@@ -187080,7 +187080,7 @@ translate russian strings:
     new "Ответить на внимание обеих девушек"
 
     old "Return Kleio's attentions"
-    new "Ответить на внимание Клейо"
+    new "Ответить на внимание Клео"
 
     old "Reverse Cowgirl"
     new "Обратная наездница"
@@ -187659,7 +187659,7 @@ translate russian strings:
     new "Поддержать Джека и Скотти"
 
     old "Side with Kleio"
-    new "Поддержать Клейо"
+    new "Поддержать Клео"
 
     old "Side with Laura"
     new "Поддержать Лауру"
@@ -187671,7 +187671,7 @@ translate russian strings:
     new "Поддержать Сашу"
 
     old "Side with Sasha and Kleio against Anna"
-    new "Поддержать Сашу и Клейо против Анны"
+    new "Поддержать Сашу и Клео против Анны"
 
     old "Side with Scottie"
     new "Поддержать Скотти"
@@ -188583,7 +188583,7 @@ translate russian strings:
     new "Делает снимок экрана"
 
     old "Takes Kleio's side"
-    new "Поддержать Клейо"
+    new "Поддержать Клео"
 
     old "Talk about personal nickname"
     new "Поговорить о личном прозвище"
@@ -188646,16 +188646,16 @@ translate russian strings:
     new "Сказать Алетте уйти"
 
     old "Tell Ayesha it was an accident"
-    new "Сказать Айеше, что это была случайность"
+    new "Сказать Аише, что это была случайность"
 
     old "Tell Ayesha not to do it"
-    new "Сказать Айеше не делать этого"
+    new "Сказать Аише не делать этого"
 
     old "Tell Ayesha off"
-    new "Отчитать Айешу"
+    new "Отчитать Аишу"
 
     old "Tell Ayesha to go for it"
-    new "Сказать Айеше, чтобы она попробовала"
+    new "Сказать Аише, чтобы она попробовала"
 
     old "Tell Emma to get rid of it"
     new "Сказать Эмме избавиться от этого"
@@ -189273,7 +189273,7 @@ translate russian strings:
     new "Распаковка обновлений."
 
     old "Unseen Text"
-    new "Непрочитанный текст"
+    new "Непрочитанное"
 
     old "Until then, you're my property"
     new "А до тех пор ты моя собственность"

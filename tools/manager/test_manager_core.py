@@ -147,6 +147,15 @@ class ManagerCoreTests(unittest.TestCase):
         self.assertFalse(self.path(disabled=True).exists())
         self.assertEqual(self.path().read_bytes(), old[:-1] + b"X")
 
+    def test_toggle_hashes_the_archive_once_and_not_on_the_ui_thread(self):
+        self.core.scan()
+        with mock.patch("manager_core.os.fdopen", wraps=os.fdopen) as opened:
+            self.core.stage({"mod_0": False})
+            self.assertEqual(opened.call_count, 0)
+            self.assertEqual(self.core.apply_pending()["outcome"], "applied")
+            self.assertEqual(opened.call_count, 1)
+        self.assertTrue(self.path(disabled=True).exists())
+
     def test_entire_plan_preflight_prevents_partial_change(self):
         self.core.stage({"mod_0": False, "mod_1": False})
         self.path(1, True).write_bytes(b"unknown destination")

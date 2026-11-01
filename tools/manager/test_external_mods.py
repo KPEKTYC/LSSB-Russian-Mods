@@ -80,22 +80,35 @@ class ExternalModTests(unittest.TestCase):
                 data[field] = value
                 self.meta.write_text(json.dumps(data))
                 self.assertEqual(self.core.scan(), [])
-                self.assertIsNotNone(self.core.status_error)
+                self.assertIsNone(self.core.status_error)
+                self.assertTrue(self.core.metadata_issue)
         self.meta.write_text(original)
         self.assertTrue(self.core.scan()[0]["can_toggle"])
 
     def test_duplicate_json_and_excessive_size_are_blocked(self):
         self.meta.write_text(self.meta.read_text().replace('"schema": 1', '"schema": 1,"schema": 1'))
         self.assertEqual(self.core.scan(), [])
-        self.assertIsNotNone(self.core.status_error)
+        self.assertTrue(self.core.metadata_issue)
         self.meta.write_text(" " * 8193)
         self.assertEqual(self.core.scan(), [])
-        self.assertIsNotNone(self.core.status_error)
+        self.assertTrue(self.core.metadata_issue)
 
     def test_metadata_filename_is_bound_to_identity(self):
         self.meta.rename(self.game / "foreign.lssb-mod.json")
         self.assertEqual(self.core.scan(), [])
-        self.assertIsNotNone(self.core.status_error)
+        self.assertTrue(self.core.metadata_issue)
+
+    def test_bad_description_hides_only_that_mod_and_is_safe_to_display(self):
+        (self.game / "zz_mod_[x]{y}.lssb-mod.json").write_text("{broken", encoding="utf-8")
+        core = ManagerCore(self.game, [])
+        rows = core.scan()
+        self.assertEqual([row["id"] for row in rows], ["external_weather"])
+        self.assertTrue(rows[0]["can_toggle"])
+        self.assertIsNone(core.status_error)
+        self.assertNotRegex(core.metadata_issue, r"[\[\]{}]")
+        self.assertIn("zz_mod_", core.metadata_issue)
+        core.stage({"external_weather": False})
+        self.assertEqual(core.apply_pending()["outcome"], "applied")
 
     def test_historical_receipt_does_not_require_removed_external_mod(self):
         self.core.stage({"external_weather": False})
@@ -116,8 +129,9 @@ class ExternalModTests(unittest.TestCase):
 
     def test_manifest_cannot_take_over_builtin_catalogue_entry(self):
         builtin = dict(id="external_weather", filename="zz_builtin.rpa", version="1.0.0", sha256="0" * 64)
-        with self.assertRaises(ManagerError):
-            ManagerCore(self.game, [builtin])
+        core = ManagerCore(self.game, [builtin])
+        self.assertEqual(core.catalog, [builtin])
+        self.assertTrue(core.metadata_issue)
 
 
 if __name__ == "__main__":

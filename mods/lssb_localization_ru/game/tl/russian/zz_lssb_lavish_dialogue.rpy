@@ -222,7 +222,7 @@ translate russian lavish_kiss_f5b0ae59:
 
 # ch/lavish/base.rpy:181
 translate russian lavish_kiss_2bbf085a:
-    "Лавиш не шумная и высокомерная, как Алетта, не манипуляторша, как Одри, и не жаждет постоянного внимания, как Шиори."
+    "Лавиш не шумная и высокомерная, как Алетта, не манипуляторша, как Одри, и не жаждет постоянного внимания, как Сиори."
 
 # ch/lavish/base.rpy:182
 translate russian lavish_kiss_bd844bae:
@@ -706,7 +706,7 @@ translate russian lavish_love_0_male_0bbfec25:
 
 # ch/lavish/chat.rpy:62
 translate russian lavish_love_1_male_b642f565:
-    lavish.say "Что вы думаете о Шиори?"
+    lavish.say "Что вы думаете о Сиори?"
 
 # ch/lavish/chat.rpy:66
 translate russian lavish_love_1_male_f409a90a:
@@ -4326,7 +4326,7 @@ translate russian lavish_event_12_ee4304ce:
 
 # ch/lavish/events.rpy:1271
 translate russian lavish_event_12_e5697b14:
-    mike.say "Ну, она сообразительнее Шиори, хотя это мало о чём говорит."
+    mike.say "Ну, она сообразительнее Сиори, хотя это мало о чём говорит."
 
 # ch/lavish/events.rpy:1273
 translate russian lavish_event_12_498ca877:
@@ -5674,7 +5674,7 @@ translate russian lavish_event_16_9349957b:
 
 # ch/lavish/events.rpy:1736
 translate russian lavish_event_16_46d44d9c:
-    "Одри и Шиори начинают качать головами."
+    "Одри и Сиори начинают качать головами."
 
 # ch/lavish/events.rpy:1737
 translate russian lavish_event_16_57058970:
@@ -6358,7 +6358,7 @@ translate russian lavish_event_18_37ae234f:
 
 # ch/lavish/events.rpy:1970
 translate russian lavish_event_18_b92e447f:
-    lavish.say "Спросите Одри и Шиори, как он ведёт себя с ними."
+    lavish.say "Спросите Одри и Сиори, как он ведёт себя с ними."
 
 # ch/lavish/events.rpy:1972
 translate russian lavish_event_18_2bc4dbcd:
@@ -6462,7 +6462,7 @@ translate russian lavish_event_18_54a43666:
 
 # ch/lavish/events.rpy:1999
 translate russian lavish_event_18_b9948a55:
-    aletta.say "Но Одри и Шиори?"
+    aletta.say "Но Одри и Сиори?"
 
 # ch/lavish/events.rpy:2000
 translate russian lavish_event_18_cafb294e:
@@ -6478,7 +6478,7 @@ translate russian lavish_event_18_54a43666_1:
 
 # ch/lavish/events.rpy:2004
 translate russian lavish_event_18_9eb1b3d9:
-    aletta.say "Но Шиори?"
+    aletta.say "Но Сиори?"
 
 # ch/lavish/events.rpy:2005
 translate russian lavish_event_18_40ef7440:
@@ -8782,7 +8782,7 @@ translate russian lavish_spanking_start_b636fd86:
 
 # ch/lavish/events.rpy:2740
 translate russian lavish_spanking_start_13410c02:
-    "Потому что Шиори, глядя на меня с другого конца комнаты, неосознанно отступает на шаг."
+    "Потому что Сиори, глядя на меня с другого конца комнаты, неосознанно отступает на шаг."
 
 # ch/lavish/events.rpy:2741
 translate russian lavish_spanking_start_86262975:
@@ -8790,7 +8790,7 @@ translate russian lavish_spanking_start_86262975:
 
 # ch/lavish/events.rpy:2742
 translate russian lavish_spanking_start_7d434941:
-    mike.say "Сегодня утром мне немного трудно сосредоточиться, Шиори."
+    mike.say "Сегодня утром мне немного трудно сосредоточиться, Сиори."
 
 # ch/lavish/events.rpy:2743
 translate russian lavish_spanking_start_74ef8239:
@@ -8806,7 +8806,7 @@ translate russian lavish_spanking_start_5772e39e:
 
 # ch/lavish/events.rpy:2747
 translate russian lavish_spanking_start_cba9d0e1:
-    "Шиори резко прикрывает рот рукой."
+    "Сиори резко прикрывает рот рукой."
 
 # ch/lavish/events.rpy:2748
 translate russian lavish_spanking_start_ecfc73c2:
@@ -8822,7 +8822,7 @@ translate russian lavish_spanking_start_e9c2eca1:
 
 # ch/lavish/events.rpy:2752
 translate russian lavish_spanking_start_1763a6f7:
-    mike.say "Именно, Шиори."
+    mike.say "Именно, Сиори."
 
 # ch/lavish/events.rpy:2753
 translate russian lavish_spanking_start_e0a20cad:
@@ -8834,7 +8834,7 @@ translate russian lavish_spanking_start_0fedbe80:
 
 # ch/lavish/events.rpy:2756
 translate russian lavish_spanking_start_bcb3a43b:
-    "Шиори кивает и торопливо обходит стол."
+    "Сиори кивает и торопливо обходит стол."
 
 # ch/lavish/events.rpy:2757
 translate russian lavish_spanking_start_0287c05f:
@@ -8846,7 +8846,7 @@ translate russian lavish_spanking_start_ae03cefa:
 
 # ch/lavish/events.rpy:2759
 translate russian lavish_spanking_start_582d9bc6:
-    "Я с удовлетворением смотрю, как Шиори задирает юбку."
+    "Я с удовлетворением смотрю, как Сиори задирает юбку."
 
 # ch/lavish/events.rpy:2760
 translate russian lavish_spanking_start_05885438:
@@ -8878,7 +8878,7 @@ translate russian lavish_spanking_start_a3289550:
 
 # ch/lavish/events.rpy:2770
 translate russian lavish_spanking_start_d24cb3f6:
-    "Я не могу сдержать улыбку, звонко хлопая по пышной попке Шиори."
+    "Я не могу сдержать улыбку, звонко хлопая по пышной попке Сиори."
 
 # ch/lavish/events.rpy:2774
 translate russian lavish_spanking_start_e4217e62:
@@ -8890,7 +8890,7 @@ translate russian lavish_spanking_start_8671e644:
 
 # ch/lavish/events.rpy:2776
 translate russian lavish_spanking_start_c467cd73:
-    "Порка Шиори наконец отвлекает меня от Лавиш."
+    "Порка Сиори наконец отвлекает меня от Лавиш."
 
 # ch/lavish/events.rpy:2782
 translate russian lavish_spanking_start_66db9ca3:
@@ -8898,7 +8898,7 @@ translate russian lavish_spanking_start_66db9ca3:
 
 # ch/lavish/events.rpy:2783
 translate russian lavish_spanking_start_857eac9f:
-    "Шиори же не сосёт мне и не даёт трахнуть себя на столе."
+    "Сиори же не сосёт мне и не даёт трахнуть себя на столе."
 
 # ch/lavish/events.rpy:2784
 translate russian lavish_spanking_start_96de3cd9:
@@ -8910,7 +8910,7 @@ translate russian lavish_spanking_start_c018accb:
 
 # ch/lavish/events.rpy:2792
 translate russian lavish_spanking_start_5ef314bc:
-    mike.say "Стоит сделать это привычкой, Шиори."
+    mike.say "Стоит сделать это привычкой, Сиори."
 
 # ch/lavish/events.rpy:2796
 translate russian lavish_spanking_start_eeb7d94b:
@@ -8926,7 +8926,7 @@ translate russian lavish_spanking_start_dd4238a5:
 
 # ch/lavish/events.rpy:2803
 translate russian lavish_spanking_start_f5c7dec0:
-    mike.say "Ещё как хочу, Шиори!"
+    mike.say "Ещё как хочу, Сиори!"
 
 # ch/lavish/events.rpy:2804
 translate russian lavish_spanking_start_e3d3e5f1:
@@ -8934,7 +8934,7 @@ translate russian lavish_spanking_start_e3d3e5f1:
 
 # ch/lavish/events.rpy:2808
 translate russian lavish_spanking_start_3de8de8e:
-    "Моя рука замирает в паре сантиметров от ягодиц Шиори."
+    "Моя рука замирает в паре сантиметров от ягодиц Сиори."
 
 # ch/lavish/events.rpy:2809
 translate russian lavish_spanking_start_fea289de:
@@ -8966,7 +8966,7 @@ translate russian lavish_spanking_start_36da2376:
 
 # ch/lavish/events.rpy:2818
 translate russian lavish_spanking_start_561d04b8:
-    "Сейчас на мне лежит Шиори."
+    "Сейчас на мне лежит Сиори."
 
 # ch/lavish/events.rpy:2819
 translate russian lavish_spanking_start_7ec29e4f:
@@ -8990,7 +8990,7 @@ translate russian lavish_spanking_start_cbf2c601:
 
 # ch/lavish/events.rpy:2825
 translate russian lavish_spanking_start_068a292e:
-    mike.say "Эм... нет, Шиори."
+    mike.say "Эм... нет, Сиори."
 
 # ch/lavish/events.rpy:2826
 translate russian lavish_spanking_start_5b62030d:
@@ -8998,7 +8998,7 @@ translate russian lavish_spanking_start_5b62030d:
 
 # ch/lavish/events.rpy:2830
 translate russian lavish_spanking_start_bec5f3e2:
-    "Шиори встаёт с моих коленей и начинает приводить себя в порядок."
+    "Сиори встаёт с моих коленей и начинает приводить себя в порядок."
 
 # ch/lavish/events.rpy:2831
 translate russian lavish_spanking_start_c6d5e6df:
@@ -9166,7 +9166,7 @@ translate russian lavish_spanking_alternate_start_3300f0b8:
 
 # ch/lavish/events.rpy:2897
 translate russian lavish_spanking_alternate_start_f6b9805a:
-    lavish.say "Это... это связано с Одри... и с Шиори тоже."
+    lavish.say "Это... это связано с Одри... и с Сиори тоже."
 
 # ch/lavish/events.rpy:2898
 translate russian lavish_spanking_alternate_start_15acba7a:
@@ -9206,7 +9206,7 @@ translate russian lavish_spanking_alternate_start_32ff579e:
 
 # ch/lavish/events.rpy:2908
 translate russian lavish_spanking_alternate_start_9ff5c7b8:
-    lavish.say "Я... я знаю, чем вы занимаетесь с Одри и Шиори прямо в этом кабинете."
+    lavish.say "Я... я знаю, чем вы занимаетесь с Одри и Сиори прямо в этом кабинете."
 
 # ch/lavish/events.rpy:2910
 translate russian lavish_spanking_alternate_start_77b2cf70:
@@ -9306,11 +9306,11 @@ translate russian lavish_spanking_alternate_start_581729e2:
 
 # ch/lavish/events.rpy:2942
 translate russian lavish_spanking_alternate_start_c1bd7021:
-    lavish.say "И Шиори."
+    lavish.say "И Сиори."
 
 # ch/lavish/events.rpy:2943
 translate russian lavish_spanking_alternate_start_39df522c:
-    mike.say "Да, спасибо... и Шиори... это, ну... довольно особенные отношения."
+    mike.say "Да, спасибо... и Сиори... это, ну... довольно особенные отношения."
 
 # ch/lavish/events.rpy:2944
 translate russian lavish_spanking_alternate_start_0185fb25:
@@ -9370,11 +9370,11 @@ translate russian lavish_spanking_alternate_start_887f3381:
 
 # ch/lavish/events.rpy:2961
 translate russian lavish_spanking_alternate_start_61c6f994:
-    mike.say "Понимаешь, у нас с моей Игрушкой и Шиори очень редкая и необычная форма офисной дисциплины."
+    mike.say "Понимаешь, у нас с моей Игрушкой и Сиори очень редкая и необычная форма офисной дисциплины."
 
 # ch/lavish/events.rpy:2963
 translate russian lavish_spanking_alternate_start_3b08ed66:
-    mike.say "Понимаешь, у нас с Одри и Шиори очень редкая и необычная форма офисной дисциплины."
+    mike.say "Понимаешь, у нас с Одри и Сиори очень редкая и необычная форма офисной дисциплины."
 
 # ch/lavish/events.rpy:2964
 translate russian lavish_spanking_alternate_start_7ab23f32:
@@ -9442,7 +9442,7 @@ translate russian lavish_spanking_alternate_start_8aa1f0ed:
 
 # ch/lavish/events.rpy:2991
 translate russian lavish_spanking_1_77dc0050:
-    "С тех пор как Лавиш застала нас с Шиори, я с ужасом жду разговора с ней."
+    "С тех пор как Лавиш застала нас с Сиори, я с ужасом жду разговора с ней."
 
 # ch/lavish/events.rpy:2992
 translate russian lavish_spanking_1_a024a552:
@@ -9578,7 +9578,7 @@ translate russian lavish_spanking_1_b2e54d70:
 
 # ch/lavish/events.rpy:3029
 translate russian lavish_spanking_1_72e85ba0:
-    "Да, мне нравилось шлёпать Шиори. Кому бы не понравилось?"
+    "Да, мне нравилось шлёпать Сиори. Кому бы не понравилось?"
 
 # ch/lavish/events.rpy:3030
 translate russian lavish_spanking_1_22ce80fb:
@@ -9598,7 +9598,7 @@ translate russian lavish_spanking_1_e4354af6:
 
 # ch/lavish/events.rpy:3034
 translate russian lavish_spanking_1_d7cec8d0:
-    mike.say "Но ты знаешь, какой бывает Шиори."
+    mike.say "Но ты знаешь, какой бывает Сиори."
 
 # ch/lavish/events.rpy:3035
 translate russian lavish_spanking_1_a3a62334:
@@ -9630,7 +9630,7 @@ translate russian lavish_spanking_1_e65749cd:
 
 # ch/lavish/events.rpy:3043
 translate russian lavish_spanking_1_6fe3c59d:
-    lavish.say "Я замечала, как Шиори ходит к тебе в кабинет."
+    lavish.say "Я замечала, как Сиори ходит к тебе в кабинет."
 
 # ch/lavish/events.rpy:3044
 translate russian lavish_spanking_1_5bac1ec1:
@@ -9654,7 +9654,7 @@ translate russian lavish_spanking_1_2862ba6f:
 
 # ch/lavish/events.rpy:3049
 translate russian lavish_spanking_1_13fbc9ed:
-    mike.say "Но с Шиори больше ничего толком не действует."
+    mike.say "Но с Сиори больше ничего толком не действует."
 
 # ch/lavish/events.rpy:3050
 translate russian lavish_spanking_1_3a70f096:
@@ -9726,7 +9726,7 @@ translate russian lavish_spanking_1_aa32d372:
 
 # ch/lavish/events.rpy:3077
 translate russian lavish_spanking_2_6af27ba1:
-    "Прошло уже какое-то время с тех пор, как Лавиш попросила шлёпать её на работе — так же, как Шиори."
+    "Прошло уже какое-то время с тех пор, как Лавиш попросила шлёпать её на работе — так же, как Сиори."
 
 # ch/lavish/events.rpy:3078
 translate russian lavish_spanking_2_80cf4f04:
@@ -10002,7 +10002,7 @@ translate russian lavish_sub_03_f23270ac:
 
 # ch/lavish/events.rpy:3166
 translate russian lavish_sub_03_7e7a936a:
-    "К счастью, на этом только мы с Лавиш, Одри и Шиори."
+    "К счастью, на этом только мы с Лавиш, Одри и Сиори."
 
 # ch/lavish/events.rpy:3167
 translate russian lavish_sub_03_5451c66e:
@@ -10070,7 +10070,7 @@ translate russian lavish_sub_03_b4673b29:
 
 # ch/lavish/events.rpy:3189
 translate russian lavish_sub_03_55805590:
-    audrey.say "Шиори права, Лавиш."
+    audrey.say "Сиори права, Лавиш."
 
 # ch/lavish/events.rpy:3190
 translate russian lavish_sub_03_2e8fa262:
@@ -10118,7 +10118,7 @@ translate russian lavish_sub_03_fef132ce:
 
 # ch/lavish/events.rpy:3202
 translate russian lavish_sub_03_b07662a2:
-    "Шиори слишком покорна, чтобы возразить против моей затеи."
+    "Сиори слишком покорна, чтобы возразить против моей затеи."
 
 # ch/lavish/events.rpy:3203
 translate russian lavish_sub_03_24c5b039:
@@ -10170,7 +10170,7 @@ translate russian lavish_sub_03_3ee91ad3:
 
 # ch/lavish/events.rpy:3218
 translate russian lavish_sub_03_d67955a3:
-    "Шиори и Одри тем временем обмениваются ошеломлёнными взглядами."
+    "Сиори и Одри тем временем обмениваются ошеломлёнными взглядами."
 
 # ch/lavish/events.rpy:3220
 translate russian lavish_sub_03_cf06e453:
@@ -10202,7 +10202,7 @@ translate russian lavish_sub_03_059932bd:
 
 # ch/lavish/events.rpy:3227
 translate russian lavish_sub_03_6dadf2e4:
-    mike.say "Ты отсосёшь мне прямо здесь и сейчас, при Одри и Шиори."
+    mike.say "Ты отсосёшь мне прямо здесь и сейчас, при Одри и Сиори."
 
 # ch/lavish/events.rpy:3228
 translate russian lavish_sub_03_740a5723:
@@ -10246,7 +10246,7 @@ translate russian lavish_sub_03_568aa51c:
 
 # ch/lavish/events.rpy:3241
 translate russian lavish_sub_03_f1d10e60:
-    "Одри и Шиори ошеломлённо смотрят, как она достаёт мой член."
+    "Одри и Сиори ошеломлённо смотрят, как она достаёт мой член."
 
 # ch/lavish/events.rpy:3245
 translate russian lavish_sub_03_2c46af14:
@@ -10302,7 +10302,7 @@ translate russian lavish_sub_03_d36ee1e6:
 
 # ch/lavish/events.rpy:3261
 translate russian lavish_sub_03_be26d8b0:
-    "Когда Лавиш принимает головку в рот, я смотрю на Одри и Шиори."
+    "Когда Лавиш принимает головку в рот, я смотрю на Одри и Сиори."
 
 # ch/lavish/events.rpy:3262
 translate russian lavish_sub_03_7906d6e4:
@@ -10314,7 +10314,7 @@ translate russian lavish_sub_03_cfa91473:
 
 # ch/lavish/events.rpy:3264
 translate russian lavish_sub_03_10310d89:
-    "Шиори из них двоих, кажется, потрясена сильнее."
+    "Сиори из них двоих, кажется, потрясена сильнее."
 
 # ch/lavish/events.rpy:3267
 translate russian lavish_sub_03_d7c329f8:
@@ -10430,7 +10430,7 @@ translate russian lavish_sub_03_9113933f:
 
 # ch/lavish/events.rpy:3321
 translate russian lavish_sub_03_721997c8:
-    "Вставая, многозначительно улыбаюсь Одри и Шиори."
+    "Вставая, многозначительно улыбаюсь Одри и Сиори."
 
 # ch/lavish/events.rpy:3322
 translate russian lavish_sub_03_6b508e87:

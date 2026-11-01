@@ -399,7 +399,7 @@ screen preferences():
                     spacing 20
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Force update check"), 230, 30), _("Force the check for new version"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Force update check"), 215, 22), _("Force the check for new version"), "lspref_label_text")
                         textbutton _("Force update") action [SetVariable("persistent._update_last_checked", {}), SetVariable("persistent._update_version", {})]
                     if renpy.android:
                         if config.basedir.endswith('base'):
@@ -423,34 +423,34 @@ screen preferences():
                     if renpy.variant("pc"):
                         vbox:
                             xysize (230, 60)
-                            use text_tooltip(_lssb_ui_resize(_("Screen Display"), 230, 30), _("Change the game's window display"), "lspref_label_text")
+                            use text_tooltip(_lssb_ui_resize(_("Screen Display"), 215, 22), _("Change the game's window display"), "lspref_label_text")
                             textbutton _("Window") action Preference("display", "window")
                             textbutton _("Fullscreen") action Preference("display", "fullscreen")
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Powersave"), 230, 30), _("Turn on, save power and reduce heat by updating the screen less often.\nTurn off for smoother visuals but higher power use."), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Powersave"), 215, 22), _("Turn on, save power and reduce heat by updating the screen less often.\nTurn off for smoother visuals but higher power use."), "lspref_label_text")
                         textbutton _("Enable") action Preference("gl powersave", True)
                         textbutton _("Disable") action Preference("gl powersave", False)
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize("New UI", 230, 30), _("Enable new UI"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize("New UI", 215, 22), _("Enable new UI"), "lspref_label_text")
                         textbutton _("On") action SetField(persistent, 'new_ui', True)
                         textbutton _("Off") action SetField(persistent, 'new_ui', False)
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_("X-Ray"), _("Allow to see through body during some scenes"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("X-Ray"), 215, 22), _("Allow to see through body during some scenes"), "lspref_label_text")
                         textbutton _("On") action SetField(persistent, 'xray', True)
                         textbutton _("Off") action SetField(persistent, 'xray', False)
                     if renpy.has_live2d() and any(dlc in DLCS for dlc in ('lively', 'fafow', 'fafwm')):
                         vbox:
                             xysize (230, 60)
-                            use text_tooltip(_lssb_ui_resize(_("Animations"), 230, 30), _("Enable/Disable sprites animations"), "lspref_label_text")
+                            use text_tooltip(_lssb_ui_resize(_("Animations"), 215, 22), _("Enable/Disable sprites animations"), "lspref_label_text")
                             textbutton _("On") action SetField(persistent, 'live2d_on', True)
                             textbutton _("Off") action SetField(persistent, 'live2d_on', False)
                     if 'lively' in DLCS:
                         vbox:
                             xysize (230, 60)
-                            use text_tooltip(_lssb_ui_resize(_("Lively backgrounds"), 230, 30), _("Enable/Disable sprites in backgrounds"), "lspref_label_text")
+                            use text_tooltip(_lssb_ui_resize(_("Lively backgrounds"), 215, 22), _("Enable/Disable sprites in backgrounds"), "lspref_label_text")
                             textbutton _("On") action SetField(persistent, 'lively_bg', True)
                             textbutton _("Off") action SetField(persistent, 'lively_bg', False)
             vbox:
@@ -461,65 +461,65 @@ screen preferences():
                     spacing 20
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Tutorial"), 230, 30), _("Enable/Disable the tutorial at the start of a new game"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Tutorial"), 215, 22), _("Enable/Disable the tutorial at the start of a new game"), "lspref_label_text")
                         textbutton _("Show") action SetField(persistent, 'skip_tutorial', False)
                         textbutton _("Skip") action SetField(persistent, 'skip_tutorial', True)
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Difficulty"), 230, 30), _("Change the game difficulty"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Difficulty"), 215, 22), _("Change the game difficulty"), "lspref_label_text")
                         textbutton _("Easy") action SetField(persistent, 'difficulty', -1)
                         textbutton _("Normal") action SetField(persistent, 'difficulty', 0)
                         textbutton _("Difficult") action SetField(persistent, 'difficulty', 1)
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Random Schedule"), 230, 30), _("Allow non-player characters to choose among several locations during this routine"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Random Schedule"), 215, 22), _("Allow non-player characters to choose among several locations during this routine"), "lspref_label_text")
                         textbutton _("On") action SetField(persistent, 'schedule_randomness', True)
                         textbutton _("Off") action SetField(persistent, 'schedule_randomness', False)
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Random Needs"), 225, 30), _("The need's cost can fluctuate when performing actions"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Random Needs"), 215, 22), _("The need's cost can fluctuate when performing actions"), "lspref_label_text")
                         textbutton _("On") action SetField(persistent, 'needs_randomness', True)
                         textbutton _("Off") action SetField(persistent, 'needs_randomness', False)
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Shuffle Choices"), 225, 30), _("Modify the order of the selections in nearly all of the menu choices"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Shuffle Choices"), 215, 22), _("Modify the order of the selections in nearly all of the menu choices"), "lspref_label_text")
                         textbutton _("On") action SetField(persistent, 'choices_shuffle', True)
                         textbutton _("Off") action SetField(persistent, 'choices_shuffle', False)
 
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Notifications pop-up"), 230, 30), _("Enable/Disable the notification pop-up"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Notifications pop-up"), 215, 22), _("Enable/Disable the notification pop-up"), "lspref_label_text")
                         textbutton _("Show") action SetField(persistent, 'notifications', True)
                         textbutton _("Hide") action SetField(persistent, 'notifications', False)
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Close-up pop-ups"), 230, 30), _("Show/Hide the close-up inserts during sex scenes"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Close-up pop-ups"), 215, 22), _("Show/Hide the close-up inserts during sex scenes"), "lspref_label_text")
                         textbutton _("Show") action SetField(persistent, 'hide_sex_inserts', False)
                         textbutton _("Hide") action SetField(persistent, 'hide_sex_inserts', True)
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Pregnancy duration"), 230, 30), _("Change the pregnancy duration to suit your preference"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Pregnancy duration"), 215, 22), _("Change the pregnancy duration to suit your preference"), "lspref_label_text")
                         textbutton _("Endless") action SetField(persistent, 'pregnancy_end', False)
                         textbutton _("Immersive") action SetField(persistent, 'pregnancy_end', True)
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Pregnancy pop-up"), 230, 30), _("Enable/Disable pregnancy pop-up"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Pregnancy pop-up"), 215, 22), _("Enable/Disable pregnancy pop-up"), "lspref_label_text")
                         textbutton _("Show") action SetField(persistent, 'pregnancy_notification', True)
                         textbutton _("Hide") action SetField(persistent, 'pregnancy_notification', False)
                     if persistent.start_plus:
                         vbox:
                             xysize (230, 60)
-                            use text_tooltip(_lssb_ui_resize(_("Reset NG+"), 230, 30), _("Clear NG+ saved statistics"), "lspref_label_text")
+                            use text_tooltip(_lssb_ui_resize(_("Reset NG+"), 215, 22), _("Clear NG+ saved statistics"), "lspref_label_text")
                             textbutton _("Clear stats") action Confirm("You're going to clear NG+ statistics.", Function(game.clear_new_game_plus))
                     if Achievement.total_unlocked:
                         vbox:
                             xysize (230, 60)
-                            use text_tooltip(_lssb_ui_resize(_("Reset Achievements"), 230, 30), _("Clear all unlocked achievements"), "lspref_label_text")
+                            use text_tooltip(_lssb_ui_resize(_("Reset Achievements"), 215, 22), _("Clear all unlocked achievements"), "lspref_label_text")
                             textbutton _("Clear achievements") action Confirm("You're going to clear achievements.", Function(Achievement.reset))
                     if check_controller():
                         vbox:
                             xysize (230, 60)
-                            use text_tooltip(_lssb_ui_resize(_("Frame Selector"), 230, 30), _("Allow to see selection with a framed border"), "lspref_label_text")
+                            use text_tooltip(_lssb_ui_resize(_("Frame Selector"), 215, 22), _("Allow to see selection with a framed border"), "lspref_label_text")
                             textbutton _("On") action SetField(persistent, 'selector', True)
                             textbutton _("Off") action SetField(persistent, 'selector', False)
             vbox:
@@ -530,24 +530,24 @@ screen preferences():
                     spacing 20
                     vbox:
                         xysize (343, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Text Speed"), 343, 30), _("Controls the rate at which text displays.\nThe further to the right this slider is, the faster the text will display.\nAll the way to the right causes text to be shown instantly."), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Text Speed"), 300, 26), _("Controls the rate at which text displays.\nThe further to the right this slider is, the faster the text will display.\nAll the way to the right causes text to be shown instantly."), "lspref_label_text")
                         bar value Preference("text speed")
                     vbox:
                         xysize (343, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Auto forward Time"), 343, 30), _("Controls automatic advance.\nThe further to the left this slider is, the shorter the amount of time before the game advances.\nAll the way to the right means text will never auto-forward."), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Auto forward Time"), 300, 26), _("Controls automatic advance.\nThe further to the left this slider is, the shorter the amount of time before the game advances.\nAll the way to the right means text will never auto-forward."), "lspref_label_text")
                         bar value Preference("auto-forward time")
                 hbox:
                     box_wrap True
                     spacing 20
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Rollback Side"), 230, 30), _("Enable a side of the screen to causes rollback"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Rollback Side"), 215, 22), _("Enable a side of the screen to causes rollback"), "lspref_label_text")
                         textbutton _("Disable") action Preference("rollback side", "disable")
                         textbutton _("Left") action Preference("rollback side", "left")
                         textbutton _("Right") action Preference("rollback side", "right")
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Skip"), 230, 30), _("Allow the game to skipping parts, like texts or transitions"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Skip"), 215, 22), _("Allow the game to skipping parts, like texts or transitions"), "lspref_label_text")
                         textbutton _("Unseen Text") action Preference("skip", "toggle")
                         textbutton _("After Choices") action Preference("after choices", "toggle")
                         textbutton _("Transitions") action Preference("transitions", "toggle")
@@ -559,45 +559,45 @@ screen preferences():
                     spacing 20
                     vbox:
                         xysize (343, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Music Volume"), 343, 30), _("Controls the volume of the music.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Music Volume"), 300, 26), _("Controls the volume of the music.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
                         bar value Preference("music volume")
                     vbox:
                         xysize (343, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Sound Volume"), 343, 30), _("Controls the volume of the sounds.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Sound Volume"), 300, 26), _("Controls the volume of the sounds.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
                         bar value Preference("sound volume")
                     vbox:
                         xysize (343, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Voice Volume"), 343, 30), _("Controls the volume of the voices.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Voice Volume"), 300, 26), _("Controls the volume of the voices.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
                         bar value Preference("voice volume")
                     vbox:
                         xysize (343, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Ambience Volume"), 343, 30), _("Controls the volume of the sound ambience.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Ambience Volume"), 300, 26), _("Controls the volume of the sound ambience.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
                         bar value Preference("ambience volume")
                     vbox:
                         xysize (343, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Sex Sounds Volume"), 343, 30), _("Controls the volume of the sex sounds.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Sex Sounds Volume"), 300, 26), _("Controls the volume of the sex sounds.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
                         bar value Preference("sexsfx volume")
                     vbox:
                         xysize (343, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Moans Volume"), 343, 30), _("Controls the volume of the moans.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Moans Volume"), 300, 26), _("Controls the volume of the moans.\nThe further to the right these are, the louder the volume."), "lspref_label_text")
                         bar value Preference("moans volume")
                 hbox:
                     box_wrap True
                     spacing 20
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Mute audio"), 230, 30), _("Enable/Disable game audio"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Mute audio"), 215, 22), _("Enable/Disable game audio"), "lspref_label_text")
                         textbutton _("Mute all") action Preference("all mute", "toggle") alt f"Mute all is {'On' if persistent.mute_characters else 'Off'}."
                         textbutton _("Mute alarm clock") selected persistent.mute_alarm_clock action ToggleField(persistent, 'mute_alarm_clock', True, False) alt f"Alarm clock sound is {'On' if not persistent.mute_alarm_clock else 'Off'}."
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Mute voice"), 230, 30), _("Enable/Disable character voice"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Mute voice"), 215, 22), _("Enable/Disable character voice"), "lspref_label_text")
                         textbutton _("Mute Bree") action [ToggleVoiceMute("bree")] alt f"Mute Bree is {'On' if 'bree' in persistent._voice_mute else 'Off'}."
                         textbutton _("Mute Mike") action [ToggleVoiceMute("mike")] alt f"Mute Mike is {'On' if 'mike' in persistent._voice_mute else 'Off'}."
                         textbutton _("Mute all characters") selected persistent.mute_characters action Function(toggle_mute_all_characters) alt f"Mute all characters is {'On' if persistent.mute_characters else 'Off'}."
                     vbox:
                         xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Self-voicing"), 230, 30), _("Self-voicing setting"), "lspref_label_text")
+                        use text_tooltip(_lssb_ui_resize(_("Self-voicing"), 215, 22), _("Self-voicing setting"), "lspref_label_text")
                         textbutton _("Override voice") selected persistent.tts_override action Function(toggle_tts_override_voice_channel) alt f"Self-voicing override voice is {'On' if persistent.tts_override else 'Off'}."
         vbar:
             value YScrollValue("prefs")

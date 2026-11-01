@@ -173,8 +173,11 @@ class ManagerCore:
         """Discover opt-in author metadata; never execute an archive to identify it."""
         self._check_directory(self.game_dir)
         paths = sorted(self.game_dir.glob("*.lssb-mod.json"))
+        self.metadata_issue = ""
         if len(paths) > 64:
-            raise ManagerError("metadata", "Слишком много описаний сторонних модов (максимум 64).")
+            self.metadata_issue = "Слишком много описаний сторонних модов (максимум 64); они не показаны."
+            paths = []
+        skipped = []
         additions = []
         names = {item["filename"].lower() for item in self._builtin_catalog}
         for path in paths:
@@ -215,7 +218,12 @@ class ManagerCore:
                 names.add(item["filename"].lower())
                 additions.append(dict(item, id="external_" + item["id"], external=True))
             except (OSError, ValueError, TypeError, UnicodeError, RecursionError, ManagerError):
-                raise ManagerError("metadata", "Описание стороннего мода повреждено или недоступно: " + path.name) from None
+                # A bad description hides that mod only; it must not lock out the others.
+                skipped.append(path.name)
+        if skipped:
+            # The name reaches a Ren'Py text displayable, where brackets are markup.
+            self.metadata_issue = ("Пропущены повреждённые описания сторонних модов: "
+                                   + re.sub(r"[\[\]{}]", "?", ", ".join(skipped[:3])))
         self.catalog = self._builtin_catalog + additions
         self.by_id = {item["id"]: item for item in self.catalog}
 
@@ -341,7 +349,7 @@ class ManagerCore:
             historical_builtin = historical and isinstance(key, str) and key in RELEASE_COMPONENTS
             if (not isinstance(key, str) or (key not in self.by_id and not historical_external and not historical_builtin) or key in seen
                     or type(action["enabled"]) is not bool):
-                raise ManagerError("control", "План менеджера не соответствует каталогу.")
+                raise ManagerError("control", "План менеджера не соответствует каталогу. Нажмите «Сбросить выбор»; если не поможет, см. инструкцию.")
             seen.add(key)
             item = self.by_id.get(key) or {"filename": RELEASE_COMPONENTS[key] if historical_builtin else "zz_mod_" + key[9:] + ".rpa"}
             active, disabled = item["filename"], item["filename"] + ".disabled"
@@ -351,9 +359,9 @@ class ManagerCore:
                     or not re.fullmatch(r"[a-f0-9]{64}", action["sha256"])
                     or (not historical and not item.get("external") and not self._automatic_component(item)
                         and action["sha256"] != item["sha256"])):
-                raise ManagerError("control", "План менеджера не соответствует каталогу.")
+                raise ManagerError("control", "План менеджера не соответствует каталогу. Нажмите «Сбросить выбор»; если не поможет, см. инструкцию.")
 
-    def _validate_document(self, value, kind):
+    def _validate_document(self, value, kind, historical=False):
         base = {"owner", "schema", "kind", "transaction_id", "created_at", "actions"}
         extra = {"pending": set(), "journal": {"phase", "completed"},
                  "result": {"outcome"}}[kind]
@@ -367,7 +375,7 @@ class ManagerCore:
             raise ManagerError("control", "Файл состояния менеджера неизвестен или повреждён; он сохранён.")
         # Completed receipts describe past files; they never authorize renames.
         # Pending plans and recovery journals must still match current digests.
-        self._validate_actions(value["actions"], historical=(kind == "result"))
+        self._validate_actions(value["actions"], historical=(historical or kind == "result"))
         if kind == "journal":
             completed = value["completed"]
             if (value["phase"] not in ("applying", "rolling_back", "recovery_required")
@@ -381,7 +389,7 @@ class ManagerCore:
             raise ManagerError("control", "Результат менеджера повреждён; он сохранён.")
         return value
 
-    def _read_document(self, kind):
+    def _read_document(self, kind, historical=False):
         if not os.path.lexists(self.data_dir):
             self._check_directory(self.game_dir)
             return None
@@ -410,7 +418,7 @@ class ManagerCore:
             value = json.loads(raw.decode("utf-8"), object_pairs_hook=unique_pairs)
         except (OSError, ValueError, UnicodeError):
             raise ManagerError("control", "Файл состояния менеджера неизвестен или повреждён; он сохранён.") from None
-        return self._validate_document(value, kind)
+        return self._validate_document(value, kind, historical)
 
     def _write_document(self, value, expected=None, require_absent=False):
         kind = value["kind"]
@@ -459,7 +467,7 @@ class ManagerCore:
 
     def _check_no_journal(self):
         if self._read_document("journal") is not None:
-            raise ManagerError("recovery_required", "Предыдущее применение прервано. Нужна проверка файлов; переключение заблокировано.")
+            raise ManagerError("recovery_required", "Предыдущее применение прервано. Нужна проверка файлов (см. инструкцию); переключение заблокировано.")
 
     def pending(self):
         return self._read_document("pending")
@@ -467,7 +475,7 @@ class ManagerCore:
     def last_result(self):
         return self._read_document("result")
 
-    def scan(self):
+    def scan(self, recheck=True):
         self.status_error = None
         try:
             self._refresh_external_mods()
@@ -491,7 +499,7 @@ class ManagerCore:
                     source = active if enabled else disabled
                     # Re-read automatic mods on refresh even when a copier retained
                     # size and timestamps. Actual rename always rechecks all bytes.
-                    result = self._fingerprint(source, fresh=self._automatic_component(item) or item.get("external", False))
+                    result = self._fingerprint(source, fresh=recheck and (self._automatic_component(item) or item.get("external", False)))
                     if result is None:
                         raise ManagerError("changed", "Архив исчез во время проверки.")
                     recognised = self._recognized(item, result)
@@ -513,7 +521,9 @@ class ManagerCore:
         return rows
 
     def stage(self, desired):
-        rows = {row["id"]: row for row in self.scan()}
+        # Runs on the UI thread right after the background scan: reuse its hashes.
+        # apply_pending() rereads every archive it will rename.
+        rows = {row["id"]: row for row in self.scan(recheck=False)}
         self._check_no_journal()
         self.pending()  # Never replace a corrupt or foreign pending file.
         if not isinstance(desired, dict) or any(
@@ -540,14 +550,25 @@ class ManagerCore:
                        transaction_id=uuid.uuid4().hex,
                        created_at=datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                        actions=actions)
-        # Fresh verification when staging also catches edits with retained timestamps.
-        self._preflight(actions)
+        self._preflight(actions, fresh=False)
         self._write_document(pending)
         return pending
 
     def cancel(self):
         self._check_no_journal()
-        pending = self.pending()
+        try:
+            pending = self.pending()
+        except ManagerError as error:
+            if error.code != "control":
+                raise
+            # Our own plan for a retired or removed mod authorizes nothing, so it may
+            # go. A corrupt or foreign file fails this read and stays for inspection.
+            self._read_document("pending", historical=True)
+            try:
+                self._control_path("pending").unlink()
+            except OSError:
+                raise ManagerError("write", "Не удалось удалить устаревший план менеджера.") from None
+            return True
         if pending is not None:
             self._remove_document(pending)
             return True
@@ -558,7 +579,7 @@ class ManagerCore:
             if self._file_info(self.game_dir / name) is not None:
                 raise ManagerError("conflict", "Перенесите старый отдельный архив " + name + " из game в резервную папку и перезапустите игру.")
 
-    def _preflight(self, actions, reverse=False):
+    def _preflight(self, actions, reverse=False, fresh=True):
         self._refresh_external_mods()
         self._validate_actions(actions)
         self._check_directory(self.game_dir)
@@ -569,7 +590,7 @@ class ManagerCore:
             target = self.game_dir / action["source" if reverse else "destination"]
             if self._file_info(target) is not None:
                 raise ManagerError("conflict", "Целевое имя уже занято; файлы сохранены.")
-            result = self._fingerprint(source, fresh=True)
+            result = self._fingerprint(source, fresh=fresh)
             if (not self._recognized(self.by_id[action["id"]], result)
                     or result["digest"] != action["sha256"]):
                 raise ManagerError("changed", "Архив изменён или отсутствует; применение остановлено.")
@@ -588,6 +609,10 @@ class ManagerCore:
             except OSError:
                 os.unlink(target)
                 raise
+        # Same bytes under a new name; _identity still rejects any later change.
+        cached = self._hash_cache.pop(str(source), None)
+        if cached:
+            self._hash_cache[str(target)] = cached
 
     def _result(self, pending, outcome):
         result = dict(pending, kind="result", outcome=outcome)
@@ -609,15 +634,16 @@ class ManagerCore:
         try:
             if self.pending() != pending:
                 raise ManagerError("changed", "План изменён; применение остановлено.")
+            # The bytes were read just above; a 1 GB archive must not be rehashed per step.
             for action in pending["actions"]:
-                self._preflight([action])
+                self._preflight([action], fresh=False)
                 self._rename(self.game_dir / action["source"], self.game_dir / action["destination"])
                 completed.append(action)
-                self._preflight([action], reverse=True)
+                self._preflight([action], reverse=True, fresh=False)
                 next_journal = dict(journal, completed=[a["id"] for a in completed])
                 self._write_document(next_journal, expected=journal)
                 journal = next_journal
-            self._preflight(pending["actions"], reverse=True)
+            self._preflight(pending["actions"], reverse=True, fresh=False)
             result = self._result(pending, "applied")
         except (ManagerError, OSError):
             # Roll back only files demonstrably matching this transaction.
@@ -682,19 +708,19 @@ class ScanJob:
             rows = controller.scan()
             issue = controller.status_error or ""
             choices = {row["id"]: row["enabled"] for row in rows if row["can_toggle"]}
-            notice = ""
+            notice = controller.metadata_issue
             if not issue:
                 pending = controller.pending()
                 if pending:
                     for action in pending["actions"]:
                         if action["id"] in choices:
                             choices[action["id"]] = action["enabled"]
-                    notice = "Сохранённый выбор ещё не применён. Проверьте его перед выходом."
+                    notice = (notice + " Сохранённый выбор ещё не применён. Проверьте его перед выходом.").strip()
                 else:
                     last = controller.last_result()
                     if last:
-                        notice = ("Предыдущие изменения успешно применены." if last.get("outcome") == "applied"
-                            else "Предыдущие изменения не применены. Проверьте состояние файлов.")
+                        notice = (notice + " " + ("Предыдущие изменения успешно применены." if last.get("outcome") == "applied"
+                            else "Предыдущие изменения не применены. Проверьте состояние файлов.")).strip()
             result = dict(controller=controller, rows=rows, choices=choices, issue=issue, notice=notice)
         except Exception as exc:
             result = dict(controller=None, rows=[], choices={}, issue=str(exc), notice="")

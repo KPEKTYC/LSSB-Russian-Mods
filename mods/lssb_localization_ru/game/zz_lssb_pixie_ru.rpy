@@ -5,7 +5,7 @@ init 1089 python in lssb_pixie:
     _constant = True
     variant = 'lssb_pixie_ru'
     strings = {"Take Morgan's side": 'Поддержать Морган', "Takes Kleio's side": 'Поддержать Клео', "Don't pick a side": 'Не выбирать сторону', 'Choose Morgan': 'Выбрать Морган', 'Choose Kleio': 'Выбрать Клео', 'Cum inside': 'Кончить внутрь', 'Share the love': 'Поделиться любовью', 'Accept': 'Согласиться', 'Refuse': 'Отказаться', 'Fuck her pussy': 'Трахнуть её в киску', 'Fuck her ass': 'Трахнуть её в задницу', 'Give Morgan some attention': 'Уделить внимание Морган', 'Ask for a blowjob': 'Попросить минет', 'Give Kleio some attention': 'Уделить внимание Клео', 'Go on for the main course': 'Перейти к главному блюду', 'They keep going!': 'Они продолжают!', 'They listen': 'Они слушаются', 'Fuck Morgan': 'Трахнуть Морган', 'Fuck Kleio': 'Трахнуть Клео', 'Pull out': 'Вынуть член'}
-    aliases = {'Поддержать Клейо': 'Поддержать Клео', 'Выбрать Клейо': 'Выбрать Клео', 'Уделить внимание Клейо': 'Уделить внимание Клео', 'Трахнуть Клейо': 'Трахнуть Клео', 'Вытащить': 'Вынуть член'}
+    aliases = {'Поддержать Клео': 'Поддержать Клео', 'Выбрать Клео': 'Выбрать Клео', 'Уделить внимание Клео': 'Уделить внимание Клео', 'Трахнуть Клео': 'Трахнуть Клео', 'Вытащить': 'Вынуть член'}
     def caption(value):
         if engine.game.preferences.language != 'russian':return value
         node=engine.game.script.namemap.get(engine.game.context().current)
