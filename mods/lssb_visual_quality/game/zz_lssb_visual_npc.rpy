@@ -22,7 +22,7 @@ init 1009 python:
         return _lssb_npc_measure_cache[key]
 
     def _lssb_npc_information(girl):
-        header = [("name", "Name:", str(girl.name))]
+        header = [("name", "Name:", _lssb_person_name(str(girl.name)))]
         if girl.status:
             header.append(("status", "Status:", _lssb_phone_status(girl)))
         header.append(("age", "Age:", str(girl.age + girl.flags.age_increase)))

@@ -67,7 +67,8 @@ screen _lssb_visual_map_label(label, x, y, location_id=None):
         xanchor 0.5
         yanchor (0.0 if label_below else 1.0)
         xmaximum label_width
-        text _lssb_visual_ui_translate(label) style "lssb_visual_map_label" xmaximum (label_width - 12) alt ""
+        # This font sits low in its line box; 1 px centres the Russian capitals.
+        text _lssb_visual_ui_translate(label) style "lssb_visual_map_label" xmaximum (label_width - 12) yoffset (-1 if renpy.game.preferences.language == "russian" else 0) alt ""
 
 screen map(locations):
     variant "lssb_visual_ui_26_8_0d"

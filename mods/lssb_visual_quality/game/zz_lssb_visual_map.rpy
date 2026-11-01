@@ -8,3 +8,9 @@ init 998 python:
                 continue
             renpy.image("bg_map_season_%s_%s" % (_lssb_light, _lssb_season),
                 Image(_lssb_map_path, oversample=4, mipmap=True))
+
+    # The game's scripts ask for these doors without the "house" attribute of its
+    # layered image, which draws nothing. Point the names at the pictures it ships.
+    for _lssb_door in ("bathroom", "bedroom2", "bedroom3"):
+        if renpy.has_image("bg_door_house_" + _lssb_door, exact=True):
+            renpy.image(("bg", "door", _lssb_door), "bg_door_house_" + _lssb_door)

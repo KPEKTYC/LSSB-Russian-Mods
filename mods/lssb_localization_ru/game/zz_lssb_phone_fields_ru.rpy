@@ -92,6 +92,16 @@ init 1004 python:
             day += " " + str(entry.day_number)
         return _lssb_agenda_name(entry.name) + ": " + day + " " + _lssb_agenda_text(entry.hour)
 
+    # The reminder pop-up prints the entry through str(); only that text is localized.
+    _lssb_agenda_native_str = AgendaEntry.__str__
+
+    def _lssb_agenda_str(entry):
+        if _preferences.language != "russian":
+            return _lssb_agenda_native_str(entry)
+        return " ".join((_lssb_agenda_text(entry.day), _lssb_agenda_text(entry.hour), _lssb_agenda_name(entry.name)))
+
+    AgendaEntry.__str__ = _lssb_agenda_str
+
 # The optional wide phone has its own screen in the visual component.
 # Adapt only six known display expressions; keep its geometry and actions.
 init 1142 python in lssb_phone_fields:

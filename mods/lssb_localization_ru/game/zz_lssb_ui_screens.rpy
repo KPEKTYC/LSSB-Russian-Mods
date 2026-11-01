@@ -11,7 +11,7 @@ screen smartphone(char=None, selected_screen="home"):
     default smartphone_screen = selected_screen
     default hide_back = False
 
-    $ hero_contacts = [k for k, v in sorted({i: Person.find(i).name for i in hero.smartphone_contacts if Person.find(i)}.items(), key=lambda x: x[1])]
+    $ hero_contacts = [k for k, v in sorted({i: _lssb_person_name(Person.find(i).name) for i in hero.smartphone_contacts if Person.find(i)}.items(), key=lambda x: x[1])]
 
     $ phone_busy = bool(renpy.get_screen("say") or renpy.get_screen("choice"))
     if not phone_busy:
@@ -482,7 +482,7 @@ screen smartphone(char=None, selected_screen="home"):
             else:
                 $ info_self_voicing = f"{selected_char.name} . age: {selected_char.age + selected_char.flags.age_increase}"
                 background "gui/phone/phone_bg_bar.png"
-                $ charname_ui = f"{selected_char.name.upper()} {selected_char.family_name.upper()}"[0:13]
+                $ charname_ui = f"{_lssb_person_name(selected_char.name).upper()} {_lssb_person_name(selected_char.family_name).upper()}"[0:13]
                 label charname_ui pos (26, 30)
                 text f"{selected_char.age + selected_char.flags.age_increase}" pos (248, 38) alt ""
                 if smartphone_screen != "job_change":
@@ -747,7 +747,7 @@ screen npc_info(girl, clear=False):
                             $ text_color = gui.text_color
                         spacing 2
                         xfill True
-                        text "{b}Name:{/b} [girl.name]" size 15 color text_color font "exo2_regular" alt ""
+                        text _lssb_ui_translate("{b}Name:{/b} [girl.name]").replace("[girl.name]", _lssb_person_name(girl.name)) size 15 color text_color font "exo2_regular" alt ""
                         $ info_self_voicing += f"{girl.name}. "
                         $ text_displayed += 1
                         if girl.status:

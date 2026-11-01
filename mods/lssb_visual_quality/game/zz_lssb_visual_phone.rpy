@@ -126,7 +126,7 @@ screen smartphone(char=None, selected_screen="home"):
     default smartphone_screen = selected_screen
     default hide_back = False
 
-    $ hero_contacts = [k for k, v in sorted({i: Person.find(i).name for i in hero.smartphone_contacts if Person.find(i)}.items(), key=lambda x: x[1])]
+    $ hero_contacts = [k for k, v in sorted({i: _lssb_person_name(Person.find(i).name) for i in hero.smartphone_contacts if Person.find(i)}.items(), key=lambda x: x[1])]
 
     $ phone_busy = bool(renpy.get_screen("say") or renpy.get_screen("choice"))
     if not phone_busy:
@@ -609,7 +609,7 @@ screen smartphone(char=None, selected_screen="home"):
             else:
                 $ info_self_voicing = f"{selected_char.name} . age: {selected_char.age + selected_char.flags.age_increase}"
                 background "lssb_phone_shell_bar"
-                $ charname_ui = f"{selected_char.name.upper()} {selected_char.family_name.upper()}"
+                $ charname_ui = f"{_lssb_person_name(selected_char.name).upper()} {_lssb_person_name(selected_char.family_name).upper()}"
                 label _lssb_phone_resize(charname_ui, 300, 24) pos (26, 30)
                 text f"{selected_char.age + selected_char.flags.age_increase}" pos (365, 38) alt ""
                 if smartphone_screen != "job_change":
@@ -866,7 +866,7 @@ screen contact_name_line(name, return_hub=False):
             action [SetScreenVariable("selected_char", Person.find(name))]
 
 
-        text _lssb_phone_resize(Person.find(name).name, 292, 20) style "lssb_phone_button_text" xpos 0 xmaximum 294 yalign 0.5
+        text _lssb_phone_resize(_lssb_person_name(Person.find(name).name), 292, 20) style "lssb_phone_button_text" xpos 0 xmaximum 294 yalign 0.5
 
 
         $ path_icon = f"gui/action_icons/button_" + Person.find(name).id + ".png"
