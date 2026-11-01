@@ -130,7 +130,7 @@ screen tooltip():
                     xpos 50
                     xanchor 0.5
                     style "invisible_frame"
-                    text "Go to [tooltip.display_name!t]" size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
+                    text _lssb_visual_go_to(tooltip.display_name) size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
             elif isinstance(tooltip, (tuple, list)):
                 preferred_side "right"
                 xpos 30

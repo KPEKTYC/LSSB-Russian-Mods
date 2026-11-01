@@ -875,7 +875,7 @@ screen old_ui_helper(helper):
                 if helper_type in ["talk", "activity"]:
                     text helper_name size 23 font "exo2_regular" color "#FFFFFF" outlines [(1, "#0099ff", 0, 0)] xalign 0.5 alt ""
                 elif helper_type == "room":
-                    text "Go to [helper_name!t]" size 23 font "exo2_regular" color "#FFFFFF" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
+                    text _lssb_visual_go_to(helper_name) size 23 font "exo2_regular" color "#FFFFFF" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
 
 screen tooltip():
     variant "lssb_ui_ru_26_8_0d"
@@ -898,7 +898,7 @@ screen tooltip():
                     xpos 50
                     xanchor 0.5
                     style "invisible_frame"
-                    text "Go to [tooltip.display_name!t]" size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
+                    text _lssb_visual_go_to(tooltip.display_name) size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
             elif isinstance(tooltip, (tuple, list)):
                 preferred_side "right"
                 xpos 30
@@ -1394,7 +1394,7 @@ screen story_tracker():
 
                 pos -20,-20
 
-                label "STORY TRACKER"
+                label "STORY TRACKER" text_size 23 text_yoffset 3
 
             vbox:
 

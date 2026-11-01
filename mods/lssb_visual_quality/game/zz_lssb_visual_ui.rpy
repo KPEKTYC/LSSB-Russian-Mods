@@ -20,6 +20,10 @@ init 1000 python:
             return _lssb_visual_ui_ru_labels.get(value, value)
         return translated
 
+    # The name may hold "[bree.name]", which the native "!t" prints literally.
+    def _lssb_visual_go_to(name):
+        return renpy.translation.translate_string("Go to [helper_name!t]").replace("[helper_name!t]", _lssb_visual_ui_translate(name))
+
     class _LssbVisualLabelBackground(renpy.Displayable):
         # Render a single SVG at the final caption dimensions. Slicing an SVG
         # Frame produces independently pixel-aligned pieces on the GL renderer.

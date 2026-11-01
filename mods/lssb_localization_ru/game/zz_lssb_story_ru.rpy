@@ -137,7 +137,7 @@ screen story_tracker():
 
                 pos -20,-20
 
-                label "ОТСЛЕЖИВАНИЕ СЮЖЕТА"
+                label "ОТСЛЕЖИВАНИЕ СЮЖЕТА" text_size 23 text_yoffset 3
 
             vbox:
 

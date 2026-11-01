@@ -2,6 +2,7 @@
 # rewrite any on-screen text equal to the label, such as a player who is named Jeff.
 # Runs after the review modules, whose guards compare the original speaker.
 init 1180 python in lssb_speakers:
+    import re
     import renpy as engine
     import store
     _constant = True
@@ -62,3 +63,20 @@ init 1180 python in lssb_speakers:
         def _prefix_suffix(self, thing, prefix, body, suffix):
             return _native_prefix_suffix(self, thing, prefix, person_name(body) if thing == "who" else body, suffix)
         engine.character.ADVCharacter.prefix_suffix = _prefix_suffix
+
+    # "[bree.name]" in translated lines. An item's name stays as it is: "Cheese" is also a surname.
+    def _person_field(value, owner):
+        return person_name(value) if hasattr(owner, "family_name") else value
+
+    store._lssb_person_field = _person_field
+    _name_field = re.compile(r"(?<!\[)\[([A-Za-z_]\w*(?:\.[A-Za-z_]\w*)*)\.(name|family_name)(?=[!:\]])")
+    _native_interpolate = engine.substitutions.interpolate
+
+    # Interpolation evaluates each field as an expression, so the field is rewritten into one.
+    def _interpolate(s, scope):
+        if ".name" in s or ".family_name" in s:
+            if engine.config.interpolate_exprs and engine.game.preferences.language == "russian":
+                s = _name_field.sub(r"[_lssb_person_field(\1.\2, \1)", s)
+        return _native_interpolate(s, scope)
+
+    engine.substitutions.interpolate = _interpolate

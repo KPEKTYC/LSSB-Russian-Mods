@@ -55,7 +55,7 @@ screen tooltip():
                     xpos 50
                     xanchor 0.5
                     style "invisible_frame"
-                    text "Go to [tooltip.display_name!t]" size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
+                    text _lssb_visual_go_to(tooltip.display_name) size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
             elif isinstance(tooltip, (tuple, list)):
                 preferred_side "right"
                 xpos 30
@@ -203,7 +203,7 @@ screen old_ui_helper(helper):
                 if helper_type in ["talk", "activity"]:
                     text _lssb_ui_translate(helper_name) size 23 xmaximum 800 text_align 0.5 layout "greedy" font "exo2_regular" color "#FFFFFF" outlines [(1, "#0099ff", 0, 0)] xalign 0.5 alt ""
                 elif helper_type == "room":
-                    text "Go to [helper_name!t]" size 23 font "exo2_regular" color "#FFFFFF" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
+                    text _lssb_visual_go_to(helper_name) size 23 font "exo2_regular" color "#FFFFFF" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
 
 
 
