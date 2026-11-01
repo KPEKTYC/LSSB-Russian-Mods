@@ -227,3 +227,9 @@ init 0 python in lssb_startup_fast:
         cleanup()
         enabled = False
         api.log('LSSB Startup Fast: native startup retained: ' + type(error).__name__)
+
+# The first launch keeps the age warning and its one-time settings; later ones open the menu.
+init 1500 python in lssb_startup_fast:
+    if store.persistent.set_volumes and store.persistent.set_mute_alarm_clock:
+        os.environ["RENPY_SKIP_SPLASHSCREEN"] = "1"
+        config.end_splash_transition = None

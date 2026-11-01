@@ -140,7 +140,7 @@
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_textstory_dialogue.rpy": "946a8b138d67dfdec606ab60647b1283e923e1c939957c7ec0b4ceb1fa9fcea1",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_world_dialogue.rpy": "f31d57c11343d98b22b559209254aea76a40a78b8a075601d7bb82cf8def3ae7",
     "mods/lssb_mod_manager/game/zz_lssb_mod_manager.rpy": "6e3a99424e5c70fa616c58a712fd3ae04cdd853c92bd849f8f3814e1b420a39a",
-    "mods/lssb_startup_fix/game/zz_lssb_startup_fast.rpy": "a0286a06df2a9a0028ef5f525f2ba174908563dbd36eb0557174f1557aad9394",
+    "mods/lssb_startup_fix/game/zz_lssb_startup_fast.rpy": "cd3b277004136946c99b17f2a0fe626a8540a2d6112bad994d9af5f9ae3125f6",
     "mods/lssb_visual_quality/game/zz_lssb_compat.rpy": "ead39859768654dc17a777e7549ab6fd175e2244a91417198224d740479e6476",
     "mods/lssb_visual_quality/game/zz_lssb_visual_display.rpy": "98ec61869d46710b9784ce7d2000a59ca34d3e1647964eac2dfbb6ca4fe001bc",
     "mods/lssb_visual_quality/game/zz_lssb_visual_inventory.rpy": "fc8bd63ce3290c940c70f7eab9b625e4c577265c0bde2b6d5cbf11b77101717a",
