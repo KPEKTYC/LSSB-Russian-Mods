@@ -1,5 +1,72 @@
 # LSSB Startup Fast 1.2.0. Native group execution, indexed candidate selection.
 # Copyright (c) 2026 KPEKTYC. LSSB Noncommercial Attribution License 1.0.
+
+# Init-only shortcuts, active before the first init block and undone by finish_early().
+python early in lssb_startup_fast:
+    import collections, copy, gc, hashlib, sys, types, unicodedata
+    import renpy.exports, renpy.loader
+
+    native_list_files = renpy.exports.list_files
+    native_transpath = renpy.loader.transpath
+    native_deepcopy = copy.deepcopy
+    file_lists = {}
+    archived_names = set()
+    loose_names = set()
+    gallery_code = 'cd69aceed87a6df7e92fca0facfd3ec4b3b1e6e5b72f61bd4a827eccfa68f728'
+    gallery_shallow = False
+
+    # The file set does not change during init, and Live2D alone asks for it 45 times.
+    def list_files_once(common=False):
+        if common not in file_lists:
+            file_lists[common] = native_list_files(common)
+        return list(file_lists[common])
+
+    # Every archive read first tests the disk for a loose copy in each search directory.
+    def transpath_archived(path):
+        if not archived_names:
+            archived_names.update(name for _archive, index in renpy.loader.archives for name in index)
+            loose_names.update(name.lower() for directory, name in renpy.loader.listdirfiles() if directory is not None)
+        name = path.lstrip("/")
+        name = renpy.loader.lower_map.get(unicodedata.normalize("NFC", name.lower()), name)
+        if name in archived_names and name.lower() not in loose_names:
+            return None
+        return native_transpath(path)
+
+    def known_gallery(code):
+        helper = next((const for const in code.co_consts if isinstance(const, types.CodeType) and const.co_name == "sort_images"), None)
+        if helper is None:
+            return False
+        return hashlib.sha256(repr((code.co_code, code.co_names, helper.co_code, helper.co_names)).encode()).hexdigest() == gallery_code
+
+    # The gallery deep-copies its whole image table once, to survive deleting and reinserting
+    # entries while it iterates. Its loop only reads the objects, so a copy of the two dict
+    # levels is enough. Any other gallery code keeps the native copy.
+    def deepcopy_gallery(x, memo=None):
+        global gallery_shallow
+        code = sys._getframe(1).f_code
+        if memo is None and code.co_name == "<module>" and code.co_filename.endswith("cl/class_gallery_ren.py"):
+            copy.deepcopy = native_deepcopy
+            if type(x) is collections.defaultdict and known_gallery(code):
+                gallery_shallow = True
+                return collections.defaultdict(x.default_factory, {key: type(value)(value) for key, value in x.items()})
+        return native_deepcopy(x, memo)
+
+    def finish_early():
+        renpy.exports.list_files = native_list_files
+        renpy.loader.transpath = native_transpath
+        if copy.deepcopy is deepcopy_gallery:
+            copy.deepcopy = native_deepcopy
+        file_lists.clear()
+        archived_names.clear()
+        loose_names.clear()
+        gc.enable()
+
+    renpy.exports.list_files = list_files_once
+    renpy.loader.transpath = transpath_archived
+    copy.deepcopy = deepcopy_gallery
+    gc.disable()
+    renpy.game.post_init.append(finish_early)
+
 init 0 python in lssb_startup_fast:
     import renpy, hashlib, json, types, os
     import store
