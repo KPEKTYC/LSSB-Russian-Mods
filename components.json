@@ -1,6 +1,6 @@
 {
   "lssb_localization_ru": {
-    "version": "1.89.0-own",
+    "version": "1.90.0-own",
     "archive": "zzzzzz_lssb_localization_ru.rpa",
     "id": "localization_ru",
     "name": "Русский перевод и графика",
@@ -14,14 +14,14 @@
     ]
   },
   "lssb_startup_fix": {
-    "version": "1.2.0-own",
+    "version": "1.3.0-own",
     "archive": "zzzzzzz_lssb_startup_fast.rpa",
     "id": "startup_fast",
     "name": "Быстрый запуск",
     "description": "Ускоряет запуск игры и после первого раза пропускает заставку."
   },
   "lssb_mod_manager": {
-    "version": "1.5.0-own",
+    "version": "1.5.1-own",
     "archive": "zzzzzzzz_lssb_mod_manager.rpa"
   }
 }

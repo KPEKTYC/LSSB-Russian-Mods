@@ -1,4 +1,4 @@
-# LSSB Startup Fast 1.2.0. Native group execution, indexed candidate selection.
+# LSSB Startup Fast 1.3.0. Native group execution, indexed candidate selection, init-only shortcuts.
 # Copyright (c) 2026 KPEKTYC. LSSB Noncommercial Attribution License 1.0.
 
 # Init-only shortcuts, active before the first init block and undone by finish_early().
