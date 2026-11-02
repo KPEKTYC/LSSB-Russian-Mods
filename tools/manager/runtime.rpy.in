@@ -174,7 +174,7 @@ screen lssb_mod_manager():
                 xfill True
                 vbox:
                     text "МЕНЕДЖЕР МОДОВ" style "lssb_mm_title"
-                    text ("Love & Sex: Second Base · %s   |   Менеджер @VERSION@" % config.version) style "lssb_mm_subtitle"
+                    text ("Love & Sex: Second Base · %s   |   Менеджер %s" % (config.version, "@VERSION@".removesuffix("-own"))) style "lssb_mm_subtitle"
                 null width 28
                 if renpy.has_screen('lssb_performance_settings'):
                     textbutton "Плавность" style "lssb_mm_button" action Show("lssb_performance_settings")
@@ -199,10 +199,11 @@ screen lssb_mod_manager():
                         hbox:
                             spacing 16
                             vbox:
-                                xsize 534
+                                xsize 520
                                 text row['name'] style "lssb_mm_name"
                                 text row['description'] style "lssb_mm_description"
-                            text row['version'] style "lssb_mm_meta" xsize 62 yalign 0.5
+                            # "-own" only marks our builds; players see the plain number.
+                            text row['version'].removesuffix('-own') style "lssb_mm_meta" min_width 90 yalign 0.5
                             vbox:
                                 xsize 182
                                 yalign 0.5

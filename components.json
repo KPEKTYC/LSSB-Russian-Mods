@@ -18,7 +18,7 @@
     "archive": "zzzzzzz_lssb_startup_fast.rpa",
     "id": "startup_fast",
     "name": "Быстрый запуск",
-    "description": "Ускоряет подготовку изображений при запуске игры."
+    "description": "Ускоряет запуск игры и после первого раза пропускает заставку."
   },
   "lssb_mod_manager": {
     "version": "1.5.0-own",
