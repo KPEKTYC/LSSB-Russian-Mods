@@ -5,6 +5,9 @@ from pathlib import Path
 import unittest
 
 SOURCE = Path(__file__).resolve().parents[2] / 'work-in-progress/startup-copy-20261022/game/lssb_startup_copy.py'
+if not SOURCE.is_file():
+    # The experiment lives only in the author's local work-in-progress folder.
+    raise unittest.SkipTest('local work-in-progress checkpoint is absent')
 SPEC = importlib.util.spec_from_file_location('startup_copy_under_test', SOURCE)
 fast = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(fast)

@@ -10,7 +10,7 @@ visual/map/interface improvements, and startup optimization for LSSB.
 - Compatibility uses structural/API contracts and safe fallback. Never remove
   guards merely to accept a new version string.
 - Keep reviewed changes and uninstalled work in progress distinct.
-- Only `mods/` enters the build. `work-in-progress/` is a saved checkpoint.
+- Only `mods/` enters the build. `work-in-progress/` is a local, untracked checkpoint.
 - Never shut down the computer unless the user explicitly requests it anew.
 
 Run `python tools/verify_repository.py` and

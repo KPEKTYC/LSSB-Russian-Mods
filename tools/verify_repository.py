@@ -13,7 +13,7 @@ def main():
         path = ROOT / relative
         assert path.is_file(), relative
         assert hashlib.sha256(path.read_bytes()).hexdigest() == sha256, relative
-    actual = {p.relative_to(ROOT).as_posix() for folder in ("mods", "work-in-progress", "tools/manager")
+    actual = {p.relative_to(ROOT).as_posix() for folder in ("mods", "tools/manager")
               for p in (ROOT / folder).rglob("*") if p.is_file() and "__pycache__" not in p.parts}
     assert actual == set(expected["files"]), ("unrecorded or missing files", actual ^ set(expected["files"]))
     for relative in actual:

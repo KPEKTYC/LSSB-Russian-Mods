@@ -14,5 +14,8 @@ persistent
 saves/
 .DS_Store
 
+# Drafts and experiments stay on the author's PC.
+/work-in-progress/
+
 # Release signing keys are local secrets, never source artifacts.
 *.pem
