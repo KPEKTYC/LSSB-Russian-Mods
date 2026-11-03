@@ -28,4 +28,9 @@ screen choice(items):
     style_prefix 'choice'
     vbox:
         for i in items:
-            textbutton lssb_friendly.caption(i.caption) action i.action
+            $ refuse = (i.kwargs or {}).get("refuse")
+            if refuse and not refuse[0].accepts_act(refuse[1]):
+                $ refused_act = SexAct.get(refuse[1])
+                textbutton lssb_friendly.caption(i.caption) action (None if refused_act.refused_now(refuse[0]) else Function(refused_act.refuse, refuse[0]))
+            else:
+                textbutton lssb_friendly.caption(i.caption) action i.action

@@ -17,6 +17,17 @@ init 1180 python in lssb_speakers:
         "Inspector": "Инспектор", "Jeff": "Джефф", "Old pervert": "Старый извращенец",
         "Bather": "Отдыхающий", "Dylan": "Дилан", "Gwen": "Гвен", "Random Man": "Незнакомец",
         "Mrs White": "Миссис Уайт",
+        # Added in game 26.10.0.
+        "Passer-by": "Прохожий", "Passerby": "Прохожий", "Woman": "Женщина", "Doctor": "Врач",
+        "Man": "Мужчина", "Crowd": "Толпа", "Driver": "Водитель", "Bar crowd": "Посетители бара",
+        "Cyclist": "Велосипедист", "Receptionist": "Администратор", "Passenger": "Пассажир",
+        "Pedestrian": "Пешеход", "Kitchen guy": "Парень с кухни", "Phone guy": "Голос в трубке",
+        "Woman at the window": "Женщина у окна", "Bus stop guy": "Парень на остановке",
+        "Bus stop woman": "Женщина на остановке", "Drunk guy": "Пьяный парень", "Old woman": "Старушка",
+        "Old man": "Старик", "Stranger": "Незнакомец", "Director": "Режиссёр", "Guy at the back": "Парень сзади",
+        "Guy in the crowd": "Парень из толпы", "Woman at the bus stop": "Женщина на остановке",
+        "Man at the bus stop": "Мужчина на остановке", "Woman in the crowd": "Женщина из толпы",
+        "Kitchen porter": "Посудомойщик", "Girl in the crowd": "Девушка из толпы", "Officer": "Полицейский",
     }
     renamed = 0
 
@@ -57,6 +68,11 @@ init 1180 python in lssb_speakers:
 
     store._lssb_person_name = person_name
 
+    # Phone chats pick the avatar as "sayicon <shown name>", and the shown name is now Russian.
+    for _english, _russian in persons.items():
+        if engine.exports.has_image("sayicon " + _english.lower()) and not engine.exports.has_image("sayicon " + _russian.lower()):
+            engine.exports.image("sayicon " + _russian.lower(), "sayicon " + _english.lower())
+
     # A heroine's name box reads her live name, which no dialogue line carries.
     _native_prefix_suffix = getattr(engine.character.ADVCharacter, "prefix_suffix", None)
     if _native_prefix_suffix:
@@ -64,17 +80,18 @@ init 1180 python in lssb_speakers:
             return _native_prefix_suffix(self, thing, prefix, person_name(body) if thing == "who" else body, suffix)
         engine.character.ADVCharacter.prefix_suffix = _prefix_suffix
 
-    # "[bree.name]" in translated lines. An item's name stays as it is: "Cheese" is also a surname.
+    # "[bree.name]" and 26.10.0's "[bree.callname]" in translated lines.
+    # An item's name stays as it is: "Cheese" is also a surname.
     def _person_field(value, owner):
         return person_name(value) if hasattr(owner, "family_name") else value
 
     store._lssb_person_field = _person_field
-    _name_field = re.compile(r"(?<!\[)\[([A-Za-z_]\w*(?:\.[A-Za-z_]\w*)*)\.(name|family_name)(?=[!:\]])")
+    _name_field = re.compile(r"(?<!\[)\[([A-Za-z_]\w*(?:\.[A-Za-z_]\w*)*)\.(name|family_name|callname)(?=[!:\]])")
     _native_interpolate = engine.substitutions.interpolate
 
     # Interpolation evaluates each field as an expression, so the field is rewritten into one.
     def _interpolate(s, scope):
-        if ".name" in s or ".family_name" in s:
+        if ".name" in s or ".family_name" in s or ".callname" in s:
             if engine.config.interpolate_exprs and engine.game.preferences.language == "russian":
                 s = _name_field.sub(r"[_lssb_person_field(\1.\2, \1)", s)
         return _native_interpolate(s, scope)

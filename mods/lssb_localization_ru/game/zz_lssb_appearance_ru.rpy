@@ -328,7 +328,7 @@ screen appearance(npc=None):
                                     selected shown_npc.flags.sluttyswimsuit
 
 
-                if shown_npc.flags.giftlingerie and shown_npc.id in SEXY_UNDERWEAR_NPCS and (shown_npc.id != "reona" or (shown_npc.purity < 20 and shown_npc.sub >= 50)):
+                if shown_npc.flags.giftlingerie and shown_npc.id in SEXY_UNDERWEAR_NPCS and (shown_npc.id != "reona" or (shown_npc.purity < 20 and shown_npc.horny >= 50)):
                     vbox:
                         xfill True
                         textbutton lssb_appearance.text('Underwear outfit'):
@@ -351,7 +351,7 @@ screen appearance(npc=None):
                                 hovered [
                                         SetScreenVariable("shown_attributes", {"casual_underwear"})
                                         ]
-                            if shown_npc.flags.giftlingerie and shown_npc.id in SEXY_UNDERWEAR_NPCS and (shown_npc.id != "reona" or (shown_npc.purity < 20 and shown_npc.sub >= 50)):
+                            if shown_npc.flags.giftlingerie and shown_npc.id in SEXY_UNDERWEAR_NPCS and (shown_npc.id != "reona" or (shown_npc.purity < 20 and shown_npc.horny >= 50)):
                                 textbutton lssb_appearance.text('Sexy underwear'):
                                     xpos 0
                                     action [

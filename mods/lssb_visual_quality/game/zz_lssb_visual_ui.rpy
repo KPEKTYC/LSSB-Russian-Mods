@@ -42,6 +42,58 @@ init 1000 python:
                 self._panel_size = key
             return renpy.render(self._panel_image, width, height, st, at)
 
+    # Vector stand-ins for the small native capsules, bubbles and avatar discs, which turn
+    # into visible steps when a 1280x720 interface is scaled to a large window.
+    # Colours and border widths are sampled from the native PNGs.
+    def _lssb_visual_shape_svg(kind, w, h):
+        capsule = '<rect x="%.1f" y="%.1f" width="%.1f" height="%.1f" rx="%.1f" %s/>'
+        def pill(inset_x, inset_y, attrs):
+            width, height = w - 2 * inset_x, h - 2 * inset_y
+            return capsule % (inset_x, inset_y, width, height, min(height, width) / 2.0, attrs)
+        defs = ('<defs><linearGradient id="v" x2="0" y2="1"><stop stop-color="%s"/><stop offset="1" stop-color="%s"/></linearGradient>'
+            '<linearGradient id="h"><stop stop-color="#000" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity=".07"/></linearGradient></defs>')
+        if kind in ("choice_idle", "menu_idle"):
+            # The native choice box keeps a 45px transparent margin at each end.
+            inset = 46.5 if kind == "choice_idle" and w > 200 else 3.5
+            body = (defs % ("#70c2e9", "#5caed6") + pill(inset, 3.5, 'fill="url(#v)" stroke="#00688c" stroke-width="3"')
+                + pill(inset, 3.5, 'fill="url(#h)"'))
+        elif kind in ("choice_hover", "menu_hover"):
+            body = (defs % ("#e97d96", "#d65d7a") + pill(1.0, 1.0, 'fill="none" stroke="#f99fb3" stroke-opacity=".7" stroke-width="2"')
+                + pill(3.5, 3.5, 'fill="url(#v)" stroke="#ead2d7" stroke-width="3"') + pill(3.5, 3.5, 'fill="url(#h)"'))
+        elif kind in ("button_idle", "button_hover"):
+            fill = ("#4eaad7", "#4aa2cd") if kind == "button_idle" else ("#2e79b6", "#2a72ab")
+            body = (defs % fill + '<rect x="1.5" y="1.5" width="%.1f" height="%.1f" rx="13" fill="url(#v)" fill-opacity=".85" stroke="#00688c" stroke-width="3"/>' % (w - 3, h - 3))
+        elif kind in ("bubble_send", "bubble_received"):
+            colour = "#2890b4" if kind == "bubble_send" else "#00688c"
+            body = '<rect width="%d" height="%d" rx="12" fill="%s"/>' % (w, h, colour)
+        elif kind in ("disc_send", "disc_received"):
+            colour = "#2890b4" if kind == "disc_send" else "#00688c"
+            body = '<circle cx="%.1f" cy="%.1f" r="%.1f" fill="%s"/>' % (w / 2.0, h / 2.0, min(w, h) / 2.0 - .5, colour)
+        else:
+            # Ring over an avatar: covers the stepped edge of the portrait underneath.
+            colour = "#2890b4" if kind == "ring_send" else "#00688c"
+            body = '<circle cx="%.1f" cy="%.1f" r="%.1f" fill="none" stroke="%s" stroke-width="3"/>' % (w / 2.0, h / 2.0, min(w, h) / 2.0 - 1.5, colour)
+        return ('<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d">%s</svg>'
+            % (w * 4, h * 4, w, h, body))
+
+    class _LssbVisualShape(renpy.Displayable):
+        # One SVG rendered at the exact size the layout gives it, like the map captions.
+        def __init__(self, kind, **properties):
+            super(_LssbVisualShape, self).__init__(**properties)
+            self.kind = kind
+
+        def render(self, width, height, st, at):
+            width, height = max(2, int(width)), max(2, int(height))
+            images = _lssb_visual_shape_cache.setdefault(self.kind, {})
+            if (width, height) not in images:
+                if len(images) > 64:
+                    images.clear()
+                images[(width, height)] = renpy.display.im.Data(
+                    _lssb_visual_shape_svg(self.kind, width, height).encode("utf-8"), "lssb_shape.svg", oversample=4)
+            return renpy.render(images[(width, height)], width, height, st, at)
+
+    _lssb_visual_shape_cache = {}
+
     if True and _lssb_visual_ui_variant not in config.variants:
         config.variants.insert(0, _lssb_visual_ui_variant)
 
@@ -77,23 +129,16 @@ screen _lssb_visual_map_label(label, x, y, location_id=None):
 screen map(locations):
     variant "lssb_visual_ui_26_8_0d"
     if not (renpy.get_screen("smartphone") or renpy.get_screen("story_tracker")):
-        default destination = ""
         fixed:
             at master_bleed
             add "bg map"
             for location in locations:
 
-                if location.id == "mall1":
-                    $ location = Room.find("mallmap")
-                if location.id == "gym":
-                    $ location = Room.find("gymreception")
                 $ x, y = map_location_positions[location.id]
                 $ npcs = location.get_present_npcs_ids_by_tag()[:6]
                 $ self_voicing_location = f"{location.display_name}; {'; '.join(npcs)}"
                 imagebutton auto "lssb_visual_quality/ui/map_hex_%s.svg" xpos x ypos y xanchor 0.5 yanchor 0.5 alt self_voicing_location:
                     action [Function(location.travel_to), SetVariable("game.room", location.id), Return()]
-                    hovered SetScreenVariable("destination", location)
-                    unhovered SetScreenVariable("destination", "")
                 for n_index, npc in enumerate(npcs):
                     $ x_g = x
                     $ y_g = y
@@ -136,12 +181,10 @@ screen map(locations):
         if persistent.new_ui:
             use actions([(a, a.icon, a.display_name) for a in Activity.valid_activities()])
             use tooltip
-        use ui_destination_helper(destination, location)
 
 screen housemap(locations):
     variant "lssb_visual_ui_26_8_0d"
     if not (renpy.get_screen("smartphone") or renpy.get_screen("story_tracker")):
-        default destination = ""
         fixed:
             at master_bleed
             if house_floor != 0:
@@ -159,8 +202,6 @@ screen housemap(locations):
                 $ self_voicing_location = f"{location.display_name}; {'; '.join(npcs)}"
                 imagebutton auto "lssb_visual_quality/ui/map_hex_%s.svg" xpos x ypos y xanchor 0.5 yanchor 0.5 alt self_voicing_location:
                     action SetVariable("game.room",location.id), Return()
-                    hovered SetScreenVariable("destination", location)
-                    unhovered SetScreenVariable("destination", "")
                 for n_index, npc in enumerate(npcs):
                     $ x_g = x
                     $ y_g = y
@@ -189,51 +230,6 @@ screen housemap(locations):
         if persistent.new_ui:
             use actions([(a, a.icon, a.display_name) for a in Activity.valid_activities()])
             use tooltip
-        else:
-            use ui_destination_helper(destination, location)
-
-screen ui_destination_helper(destination, location):
-    variant "lssb_visual_ui_26_8_0d"
-    if destination:
-        if destination.id == "map":
-            $ destination_name = "City"
-        elif destination.id == "housemap":
-            $ destination_name = "Home"
-        elif destination.id == "mallmap":
-            $ destination_name = "Mall"
-        elif destination.id == "street":
-            $ destination_name = "Street"
-        elif destination.id == "nightclub":
-            $ destination_name = "Club"
-        elif destination.id == "gymreception":
-            $ destination_name = "Gym"
-        elif destination.id == "waterpark":
-            $ destination_name = "Waterpark"
-        else:
-            $ destination_name = destination.display_name
-        vbox:
-            if renpy.get_screen("housemap") or (renpy.get_screen("map") and persistent.new_ui):
-                align (0.5, 0.1)
-            else:
-                align (0.5, 0.2)
-            spacing 20
-            text _lssb_visual_ui_translate(destination_name) font "exo2_bold" outlines [(1, "#083449")] color "#ffffff" size 40 xalign 0.5 alt ""
-            hbox:
-                xalign 0.5
-                box_justify True
-                spacing 5
-                if renpy.get_screen("housemap"):
-                    $ present_people = destination.get_present_npcs_ids()
-                else:
-                    $ present_people = destination.get_present_npcs_ids_by_tag()
-
-                for p in present_people:
-                    add Composite(
-                        (50, 50),
-                        (0, 0), Transform("gui/phone/ico_phone_idle.png", zoom=0.8),
-                        (7, 7), f"gui/action_icons/button_{p}.png"
-                        ):
-                        at Position(anchor=(0.5, 0.5))
 
 screen overlay_ui():
 
@@ -426,6 +422,8 @@ screen overlay_ui():
                                 keyboard_focus False
 
                                 alt "Injured for [game.timers.injured] day"
+
+                        use keep_at_it_status
 
                 if game.room != "map" or persistent.new_ui:
 
@@ -703,4 +701,43 @@ screen overlay_ui():
 
             use tooltip_old_ui
 
+# Crisp menu and choice capsules. The game re-applies its deferred styles on each language
+# change after the callbacks, so the same styles are repeated in translate blocks.
+init 1004:
+    style choice_button:
+        background _LssbVisualShape("choice_idle")
+        hover_background _LssbVisualShape("choice_hover")
+    style main_menu_button:
+        background _LssbVisualShape("menu_idle")
+        hover_background _LssbVisualShape("menu_hover")
+        insensitive_background Transform(_LssbVisualShape("menu_idle"), matrixcolor=SaturationMatrix(0))
+    style custom_button:
+        background _LssbVisualShape("button_idle")
+        hover_background _LssbVisualShape("button_hover")
+
+translate None style choice_button:
+    background _LssbVisualShape("choice_idle")
+    hover_background _LssbVisualShape("choice_hover")
+
+translate None style main_menu_button:
+    background _LssbVisualShape("menu_idle")
+    hover_background _LssbVisualShape("menu_hover")
+    insensitive_background Transform(_LssbVisualShape("menu_idle"), matrixcolor=SaturationMatrix(0))
+
+translate None style custom_button:
+    background _LssbVisualShape("button_idle")
+    hover_background _LssbVisualShape("button_hover")
+
+translate russian style choice_button:
+    background _LssbVisualShape("choice_idle")
+    hover_background _LssbVisualShape("choice_hover")
+
+translate russian style main_menu_button:
+    background _LssbVisualShape("menu_idle")
+    hover_background _LssbVisualShape("menu_hover")
+    insensitive_background Transform(_LssbVisualShape("menu_idle"), matrixcolor=SaturationMatrix(0))
+
+translate russian style custom_button:
+    background _LssbVisualShape("button_idle")
+    hover_background _LssbVisualShape("button_hover")
 

@@ -41,75 +41,36 @@ screen tooltip():
     if keep_at_it:
         $ tooltip = tooltip[1]
     if tooltip:
-        if renpy.get_screen(["inventory"]):
-            $ in_inventory = True
-        else:
-            $ in_inventory = False
+        $ (tooltip_title, tooltip_details) = _lssb_tooltip_parts(tooltip, bool(renpy.get_screen(["inventory"])), keep_at_it)
         nearrect:
             at FadeInTransform
             focus "tooltip"
             style_prefix "tooltips"
             if isinstance(tooltip, Room):
                 preferred_side "top"
-                frame:
-                    xpos 50
-                    xanchor 0.5
-                    style "invisible_frame"
-                    text _lssb_visual_go_to(tooltip.display_name) size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
-            elif isinstance(tooltip, (tuple, list)):
-                preferred_side "right"
-                xpos 30
-                frame:
-                    ypos 30
-                    yanchor 0.5
-                    style "overlay_ui_frame"
-                    has vbox
-                    align (0.5, 0.5)
-                    spacing 5
-                    text " ".join(_lssb_ui_translate(part) for part in tooltip) substitute False yalign 0.5
-            elif isinstance(tooltip, str):
-                preferred_side "right"
-                xpos 30
-                frame:
-                    ypos 30
-                    yanchor 0.5
-                    style "overlay_ui_frame"
-                    has vbox
-                    align (0.5, 0.5)
-                    spacing 5
-                    text _lssb_ui_translate(tooltip) substitute False yalign 0.5
-            elif isinstance(tooltip, BaseActivity):
-                preferred_side "right"
-                xpos 10
-                frame:
-                    id "lssb_activity_card"
-                    ypos 30
-                    yanchor 0.5
-                    style "overlay_ui_frame"
-                    has vbox
-                    align (0.5, 0.5)
-                    spacing 5
-                    text _lssb_ui_translate(tooltip.loop_display_name if keep_at_it else tooltip.display_name) id "lssb_activity_title" size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5 text_align 0.5 xmaximum 500 layout "greedy"
-                    if tooltip.get_tooltip():
-                        text " ".join(_lssb_ui_translate(tooltip.get_tooltip(in_inventory))) id "lssb_activity_effects" substitute False xalign 0.5 text_align 0.5 xmaximum 500 layout "greedy"
             else:
                 preferred_side "right"
-                if isinstance(tooltip, ItemBase):
+                if isinstance(tooltip, (ItemBase, tuple, list, str)):
                     xpos 30
                 else:
                     xpos 10
-                frame:
+            vbox:
+                if isinstance(tooltip, Room):
+                    xpos 50
+                    xanchor 0.5
+                else:
                     ypos 30
                     yanchor 0.5
-                    style "overlay_ui_frame"
-                    has vbox
-                    align (0.5, 0.5)
-                    spacing 5
-                    $ name = tooltip.display_name if not isinstance(tooltip, Person) else "Talk to [tooltip.name]"
-                    $ name = tooltip.loop_display_name if keep_at_it and isinstance(tooltip, BaseActivity) else name
-                    text _lssb_ui_translate(name) size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
-                    if not isinstance(tooltip, Person) and tooltip.get_tooltip():
-                        text _lssb_ui_translate(tooltip.get_tooltip(in_inventory)) substitute False yalign 0.5
+                spacing 2
+                if tooltip_title:
+                    text tooltip_title size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5 text_align 0.5 xmaximum 500 layout "greedy"
+                if tooltip_details:
+                    frame:
+                        style "overlay_ui_frame"
+                        xalign 0.5
+                        padding (8, 5, 8, 5)
+                        # Russian costs run longer; wrap at the width the native line reaches.
+                        text tooltip_details substitute False size 26 text_align 0.5 xmaximum 1000 layout "greedy" at Transform(zoom=0.5)
 
 screen tooltip_old_ui():
 
@@ -280,6 +241,6 @@ screen notification_popup(notif, pos):
         xminimum 100
         ysize 50
         xpadding 10
-        text _lssb_ui_translate(notif[0]) yalign 0.5 style "ui_text" alt ""
+        text _lssb_notification_text(notif[0]) yalign 0.5 style "ui_text" alt ""
     timer 4.0 action [Hide()]
 

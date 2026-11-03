@@ -288,6 +288,7 @@ screen choose_gift(exc=None):
                                 id ("lssb_inventory_item_" + item.id)
                                 style "lssb_inventory_row_button"
                                 xsize 312
+                                tooltip item
                                 has fixed
                                 fit_first "height"
                                 xsize 312

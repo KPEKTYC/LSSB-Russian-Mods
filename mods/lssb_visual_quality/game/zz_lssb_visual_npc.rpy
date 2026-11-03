@@ -30,12 +30,12 @@ init 1009 python:
         if girl.flags.birthdayknown:
             fields.append(("birthday", "Birthday:", _lssb_phone_birthday(girl)))
         if girl.is_female:
-            if (girl.sub >= 75 or girl.love >= 150) and girl.sexperience > 1:
+            if (girl.sub >= 75 or girl.love >= 75) and girl.sexperience > 1:
                 fields.append(("contraception", "Birth control:",
                     _lssb_inventory_text("Yes" if girl.flags.pill else "No")))
             if hero.has_skill("fertility_assessment"):
                 fields.append(("fertility", "Fertility:", ("Беременна" if _preferences.language == "russian" else _lssb_inventory_text("Pregnant"))
-                    if girl.is_visibly_pregnant or girl.flags.toldpreg else str(girl.fertility) + "%"))
+                    if girl.is_visibly_pregnant or girl.flags.toldpreg else str(min(int(girl.fertility * hero.fertility_modifier), 100) if hero.is_male else girl.fertility) + "%"))
         if girl.sexperience >= 1:
             fields.append(("sex_count", "Sex count:", str(girl.sexperience)))
         if girl.flags.mikeBabies or girl.flags.otherBabies:
@@ -183,6 +183,7 @@ screen npc_info(girl, clear=False):
                     style "empty"
                     action NullAction()
                     keyboard_focus False
+                    tooltip attr_bar_ui.get("tooltip")
                     alt replace_tags_alt(f"{attr_bar_ui['icon']} {attr_bar_ui['text']} {' is Lock' if attr_bar_ui['lock'] else ''}")
         if dating:
             $ score = max(-100, min(100, game.active_date.score))

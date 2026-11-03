@@ -4,6 +4,8 @@ init 1002 python:
     _lssb_phone_variant = "lssb_phone_26_8_0d"
     renpy.image("lssb_phone_shell_home", Image("lssb_visual_quality/phone/shell_home.svg", oversample=4))
     renpy.image("lssb_phone_shell_bar", Image("lssb_visual_quality/phone/shell_bar.svg", oversample=4))
+    # Same shell, drawn at the 313x573 size the native chat layout is built around.
+    renpy.image("lssb_phone_shell_text", Image("lssb_visual_quality/phone/shell_text.svg", oversample=4))
 
     _lssb_phone_bar_images = {}
 
@@ -86,6 +88,8 @@ init 1002 python:
     _lssb_phone_activate()
 
 init 1003:
+    style phoneFrame_frame:
+        background "lssb_phone_shell_text"
     style lssb_phone_text is smartphone_navigation_text:
         size 18
         xmaximum 350
@@ -588,6 +592,8 @@ screen smartphone(char=None, selected_screen="home"):
                                 textbutton "Dad" action [ToggleScreen("smartphone"), Call("angela_afterblow_dad_call")]
                                 if game.flags.bruceNumber:
                                     textbutton "Bruce (Bree's dad)" action [ToggleScreen("smartphone"), Call("angela_afterblow_bruce_call")]
+                            if smartphone_screen == "call" and JackRpg.can_call():
+                                textbutton _lssb_person_name("Jack") action [ToggleScreen("smartphone"), Call("jack_rpg_call")]
                             for i in hero_contacts:
                                 if smartphone_screen == "call":
                                     if i not in Room.find(game.room).get_present_girls() and Person.find(i):
@@ -596,8 +602,8 @@ screen smartphone(char=None, selected_screen="home"):
                                             and Room.has_tag(game.room, 'home')):
                                             use contact_name_line(i)
                                 elif smartphone_screen == "text":
-                                    if (not Conditioned.done_today("smartphone_send_flirty_text_" + i) and hero.charm >= 15
-                                        or not Conditioned.done_today("smartphone_send_dirty_text_" + i) and hero.charm >= 30
+                                    if (not Conditioned.done_today("smartphone_send_flirty_text_" + i) and hero.charm.romantic >= 15
+                                        or not Conditioned.done_today("smartphone_send_dirty_text_" + i) and hero.charm.romantic >= 30
                                         or not Conditioned.done_today("smartphone_send_friendly_text_" + i)):
                                         use contact_name_line(i)
                                 else:
@@ -617,7 +623,7 @@ screen smartphone(char=None, selected_screen="home"):
                     $ info_self_voicing += f". Status: {selected_char.status}"
 
                 if smartphone_screen == "contact_hub":
-                    $ _phone_footer_height = 40 + 44 * (int(selected_char.flags.managecareer) + int(selected_char not in Room.find(game.room).get_present_girls() and not selected_char.hidden and ((not Conditioned.done_today("smartphone_call_" + selected_char.id) or not Conditioned.done_today("smartphone_booty_call_" + selected_char.id) and Room.has_tag(game.room, 'home')) and not bool(game.active_date))) + int(selected_char not in Room.find(game.room).get_present_girls() and not selected_char.hidden and ((not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm >= 15 or not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm >= 30 or not Conditioned.done_today(f"smartphone_send_friendly_text_{selected_char.id}") and not bool(game.active_date)))))
+                    $ _phone_footer_height = 40 + 44 * (int(selected_char.flags.managecareer) + int(selected_char not in Room.find(game.room).get_present_girls() and not selected_char.hidden and ((not Conditioned.done_today("smartphone_call_" + selected_char.id) or not Conditioned.done_today("smartphone_booty_call_" + selected_char.id) and Room.has_tag(game.room, 'home')) and not bool(game.active_date))) + int(selected_char not in Room.find(game.room).get_present_girls() and not selected_char.hidden and ((not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm.romantic >= 15 or not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm.romantic >= 30 or not Conditioned.done_today(f"smartphone_send_friendly_text_{selected_char.id}") and not bool(game.active_date)))))
                     viewport:
                         id "lssb_phone_body"
                         pos (24, 108)
@@ -650,7 +656,7 @@ screen smartphone(char=None, selected_screen="home"):
                             fixed:
                                 xysize (116, 180)
                                 add Transform(f"{selected_char.id} smartphone", xysize=(116, 180), fit="contain") id "lssb_phone_portrait"
-                                if selected_char.flags.pill and (selected_char.sub >= 75 or selected_char.love >= 150) and selected_char.sexperience > 1:
+                                if selected_char.flags.pill and (selected_char.sub >= 75 or selected_char.love >= 75) and selected_char.sexperience > 1:
                                     add "gui/icons/icon_pill_small.png" pos (90, 4)
                                     $ info_self_voicing += ". Take contraceptives pill"
                         vbox:
@@ -700,8 +706,8 @@ screen smartphone(char=None, selected_screen="home"):
                             and Room.has_tag(game.room, 'home'))
                             and not bool(game.active_date)):
                                 textbutton "Call" action [SetScreenVariable("smartphone_screen", "call")]
-                            if (((not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm >= 15
-                            or not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm >= 30
+                            if (((not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm.romantic >= 15
+                            or not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm.romantic >= 30
                             or not Conditioned.done_today(f"smartphone_send_friendly_text_{selected_char.id}")
                             and not bool(game.active_date)))):
                                 $ hub_buttons.append("text")
@@ -732,9 +738,9 @@ screen smartphone(char=None, selected_screen="home"):
                         pos (24, 554)
                         yanchor 1.0
                         if selected_char not in Room.find(game.room).get_present_girls() and not selected_char.hidden:
-                            if not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm >= 15 and not selected_char.flags.noFlirtyText and selected_char.flags.kiss >= 1:
+                            if not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm.romantic >= 15 and not selected_char.flags.noFlirtyText and selected_char.flags.kiss >= 1:
                                 textbutton _lssb_phone_translate("Send sexy text") action [ToggleScreen("smartphone"), Call("smartphone_send_flirty_text", selected_char)]
-                            if not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm >= 30 and not selected_char.flags.noDirtyText and selected_char.sexperience >= 1:
+                            if not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm.romantic >= 30 and not selected_char.flags.noDirtyText and selected_char.sexperience >= 1:
                                 textbutton _lssb_phone_translate("Send dirty text") action [ToggleScreen("smartphone"), Call("smartphone_send_dirty_text", selected_char)]
                             if not Conditioned.done_today(f"smartphone_send_friendly_text_{selected_char.id}") and not selected_char.flags.noFriendlyText:
                                 textbutton _lssb_phone_resize("Send friendly text", 270) action [ToggleScreen("smartphone"), Call("smartphone_send_friendly_text", selected_char)]
@@ -803,7 +809,7 @@ screen smartphone(char=None, selected_screen="home"):
                                 spacing 3
                                 xpos 6
                                 textbutton _lssb_phone_resize("Pitch her to a client (1h)", 350) sensitive a_can_pitch action [ToggleScreen("smartphone"), Call("smartphone_agent_pitch", selected_char)]
-                                textbutton _lssb_phone_resize(f"Book a portfolio shoot ({a_portfolio})", 350) sensitive a_can_portfolio action [ToggleScreen("smartphone"), Call("smartphone_agent_portfolio", selected_char)]
+                                textbutton _lssb_phone_resize(_lssb_phone_translate("Book a portfolio shoot ({})").format(a_portfolio), 350) sensitive a_can_portfolio action [ToggleScreen("smartphone"), Call("smartphone_agent_portfolio", selected_char)]
                                 textbutton _lssb_phone_resize("Negotiate her rate (1h)", 350) sensitive a_can_negotiate action [ToggleScreen("smartphone"), Call("smartphone_agent_negotiate", selected_char)]
                                 textbutton _lssb_phone_resize(a_coach_label, 350) action [ToggleScreen("smartphone"), Call("smartphone_agent_coach", selected_char)]
                                 textbutton _lssb_phone_resize("Front a campaign (1000 loan)", 350) sensitive a_can_campaign action [ToggleScreen("smartphone"), Call("smartphone_agent_campaign", selected_char)]
@@ -873,3 +879,94 @@ screen contact_name_line(name, return_hub=False):
         if renpy.exists(path_icon):
             add path_icon pos (296, -2) size (35, 35)
 
+# Native chat layout and logic; only the bubbles and avatar discs are drawn as vectors.
+screen nvl_phonetext(dialogue):
+    variant "lssb_phone_26_8_0d"
+    style_prefix None
+
+    $ previous_d_who = None
+    for id_d, d in enumerate(dialogue):
+        if d.who == None:
+            text d.what:
+                xpos -167
+                ypos 0.0
+                xsize 175
+                text_align 0.5
+                italic True
+                size 14
+                slow_cps False
+                id d.what_id
+                if d.current:
+                    at message_narrator
+        else:
+            $ message_side = "send" if d.who == "mc" else "received"
+
+            hbox:
+                spacing 10
+                if d.who == "mc":
+                    box_reverse True
+                    xalign 1.0
+
+                if previous_d_who != d.who:
+                    $ message_is_send = False
+                    if d.who == "mc":
+                        $ message_is_send = True
+                        if hero.is_female:
+                            $ message_icon = "sayicon bree"
+                        else:
+                            $ message_icon = "sayicon mike"
+                    elif d.who == bree.name:
+                        $ message_icon = "sayicon bree"
+                    elif d.who == mike.name:
+                        $ message_icon = "sayicon mike"
+                    elif renpy.has_image(f"sayicon {d.who.lower()}"):
+                        $ message_icon = f"sayicon {d.who.lower()}"
+                    else:
+                        $ message_icon = None
+                    frame xsize 50 ysize 50 style "empty":
+                        add _LssbVisualShape("disc_" + message_side) xsize 50 ysize 50
+                        if message_icon:
+                            add message_icon xsize 50 ysize 50
+                            add _LssbVisualShape("ring_" + message_side) xsize 50 ysize 50
+                        if d.current:
+                            at message_appear_icon()
+
+                else:
+                    null width 50
+
+                vbox:
+                    yalign 1.0
+                    if d.who != "mc" and previous_d_who != d.who:
+                        text d.who
+                    elif d.who == "mc" and previous_d_who != d.who:
+                        text "Me"
+
+                    frame:
+                        padding (10, 10)
+
+                        background _LssbVisualShape("bubble_" + message_side)
+                        xsize 195
+
+                        if d.current:
+                            if d.who == "mc":
+                                at message_appear(1)
+                            else:
+                                at message_appear(-1)
+
+                        text d.what:
+                            pos (0, 0)
+                            xsize 185
+                            slow_cps False
+                            size 18
+                            color "#fff"
+                            outlines [( 0, "#00000000", 0, 0)]
+                            id d.what_id
+        $ previous_d_who = d.who
+
+# The game re-applies its deferred styles on every language change, after language callbacks.
+# Translate style blocks run after those, so the chat shell is set here for both languages.
+translate None style phoneFrame_frame:
+    background "lssb_phone_shell_text"
+
+translate russian style phoneFrame_frame:
+    background "lssb_phone_shell_text"

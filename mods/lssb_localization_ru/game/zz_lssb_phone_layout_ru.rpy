@@ -2,7 +2,7 @@
 # Capture contracts before Ren'Py prepares and caches the screen trees.
 init 971 python:
     _lssb_phone_expected = {
-        "smartphone_choice": "ceceda6585a52b4ff7b02b7ccf845a7d1874d0eb306871b7a0e11cfc8f69c9c2",
+        "smartphone_choice": "7eac9ae6ea75a458dcdb1361d4503cf95f768a3271f90cab4a2850c0177efe00",
         "smartphone_calling": "2563d0b361016c46cf70911a13df68626cafb982875d311f00891818493fa24e",
     }
     for _lssb_phone_screen, _lssb_phone_hash in _lssb_phone_expected.items():
@@ -22,7 +22,7 @@ init 1003 python:
                    "Jack": "Джек", "Ryan": "Райан"}
         return special.get(value, _lssb_story_text(value))
 
-screen smartphone_choice(girl="UNKNOWN", info="", show_mc=True, accept_only=False):
+screen smartphone_choice(girl="UNKNOWN", info="", show_mc=True, accept_only=False, interactive=True):
     variant "lssb_ui_ru_26_8_0d"
     predict False
     on "show" action Hide("say")
@@ -42,11 +42,12 @@ screen smartphone_choice(girl="UNKNOWN", info="", show_mc=True, accept_only=Fals
                 add "[girlname]_smartphone" align (0.5, 0.15)
             else:
                 add "gui/phone/unknown_smartphone.png" alpha 0.25 align (0.5, 0.15)
-            button:
-                style "empty"
-                action NullAction()
-                keyboard_focus False
-                alt self_voicing_name
+            if interactive:
+                button:
+                    style "empty"
+                    action NullAction()
+                    keyboard_focus False
+                    alt self_voicing_name
 
         vbox:
             xalign 0.5
@@ -59,12 +60,18 @@ screen smartphone_choice(girl="UNKNOWN", info="", show_mc=True, accept_only=Fals
                 spacing 15
                 vbox:
                     xsize 125
-                    imagebutton auto "gui/phone/ico_pickup_%s.png" action Return(True) xalign 0.5 alt "Ответить"
+                    if interactive:
+                        imagebutton auto "gui/phone/ico_pickup_%s.png" action Return(True) xalign 0.5 alt "Ответить"
+                    else:
+                        add "gui/phone/ico_pickup_idle.png" xalign 0.5
                     text "Ответить" xalign 0.5 xmaximum 125 textalign 0.5 alt ""
                 if not accept_only:
                     vbox:
                         xsize 125
-                        imagebutton auto "gui/phone/ico_dontpickup_%s.png" action Return(False) xalign 0.5 alt "Отклонить"
+                        if interactive:
+                            imagebutton auto "gui/phone/ico_dontpickup_%s.png" action Return(False) xalign 0.5 alt "Отклонить"
+                        else:
+                            add "gui/phone/ico_dontpickup_idle.png" xalign 0.5
                         text "Отклонить" xalign 0.5 xmaximum 125 textalign 0.5 alt ""
 
 screen smartphone_calling(npc="Unknown"):

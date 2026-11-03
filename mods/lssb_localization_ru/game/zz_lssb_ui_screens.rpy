@@ -461,6 +461,8 @@ screen smartphone(char=None, selected_screen="home"):
                                 textbutton "Dad" action [ToggleScreen("smartphone"), Call("angela_afterblow_dad_call")]
                                 if game.flags.bruceNumber:
                                     textbutton "Bruce (Bree's dad)" action [ToggleScreen("smartphone"), Call("angela_afterblow_bruce_call")]
+                            if smartphone_screen == "call" and JackRpg.can_call():
+                                textbutton "Jack" action [ToggleScreen("smartphone"), Call("jack_rpg_call")]
                             for i in hero_contacts:
                                 if smartphone_screen == "call":
                                     if i not in Room.find(game.room).get_present_girls() and Person.find(i):
@@ -469,8 +471,8 @@ screen smartphone(char=None, selected_screen="home"):
                                             and Room.has_tag(game.room, 'home')):
                                             use contact_name_line(i)
                                 elif smartphone_screen == "text":
-                                    if (not Conditioned.done_today("smartphone_send_flirty_text_" + i) and hero.charm >= 15
-                                        or not Conditioned.done_today("smartphone_send_dirty_text_" + i) and hero.charm >= 30
+                                    if (not Conditioned.done_today("smartphone_send_flirty_text_" + i) and hero.charm.romantic >= 15
+                                        or not Conditioned.done_today("smartphone_send_dirty_text_" + i) and hero.charm.romantic >= 30
                                         or not Conditioned.done_today("smartphone_send_friendly_text_" + i)):
                                         use contact_name_line(i)
                                 else:
@@ -492,7 +494,7 @@ screen smartphone(char=None, selected_screen="home"):
                 if smartphone_screen == "contact_hub":
                     if smartphone_screen not in ["manage", "job_change"]:
                         add f"{selected_char.id} smartphone" pos (100, 85)
-                        if selected_char.flags.pill and (selected_char.sub >= 75 or selected_char.love >= 150) and selected_char.sexperience > 1:
+                        if selected_char.flags.pill and (selected_char.sub >= 75 or selected_char.love >= 75) and selected_char.sexperience > 1:
                             add "gui/icons/icon_pill_small.png" pos (250, 75)
                             $ info_self_voicing += ". Take contraceptives pill"
                         if selected_char.flags.birthdayknown:
@@ -568,8 +570,8 @@ screen smartphone(char=None, selected_screen="home"):
                                 and Room.has_tag(game.room, 'home'))
                                 and not bool(game.active_date)):
                                     textbutton "Call" action [SetScreenVariable("smartphone_screen", "call")] idle_background "gui/phone/empty_short_idle.png" hover_background "gui/phone/empty_short_hover.png" insensitive_background "gui/phone/empty_short_insensitive.png" xminimum 275
-                                if (((not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm >= 15
-                                or not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm >= 30
+                                if (((not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm.romantic >= 15
+                                or not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm.romantic >= 30
                                 or not Conditioned.done_today(f"smartphone_send_friendly_text_{selected_char.id}")
                                 and not bool(game.active_date)))):
                                     $ hub_buttons.append("text")
@@ -599,9 +601,9 @@ screen smartphone(char=None, selected_screen="home"):
                         xpos 6
                         yalign 0.85
                         if selected_char not in Room.find(game.room).get_present_girls() and not selected_char.hidden:
-                            if not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm >= 15 and not selected_char.flags.noFlirtyText and selected_char.flags.kiss >= 1:
+                            if not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm.romantic >= 15 and not selected_char.flags.noFlirtyText and selected_char.flags.kiss >= 1:
                                 textbutton "Send sexy text" action [ToggleScreen("smartphone"), Call("smartphone_send_flirty_text", selected_char)]
-                            if not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm >= 30 and not selected_char.flags.noDirtyText and selected_char.sexperience >= 1:
+                            if not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm.romantic >= 30 and not selected_char.flags.noDirtyText and selected_char.sexperience >= 1:
                                 textbutton "Send dirty text" action [ToggleScreen("smartphone"), Call("smartphone_send_dirty_text", selected_char)]
                             if not Conditioned.done_today(f"smartphone_send_friendly_text_{selected_char.id}") and not selected_char.flags.noFriendlyText:
                                 textbutton _lssb_ui_resize("Send friendly text", 270) action [ToggleScreen("smartphone"), Call("smartphone_send_friendly_text", selected_char)]
@@ -762,7 +764,7 @@ screen npc_info(girl, clear=False):
                             $ info_self_voicing += f"Birthday: {girl.birthday[0]} {girl.birthday[1]}. "
                             $ text_displayed += 1
                         if girl.is_female:
-                            if (girl.sub >= 75 or girl.love >= 150) and girl.sexperience > 1:
+                            if (girl.sub >= 75 or girl.love >= 75) and girl.sexperience > 1:
                                 if girl.flags.pill:
                                     text "{b}Birth control:{/b} Yes" size 15 color text_color font "exo2_regular" alt ""
                                     $ info_self_voicing += "Birth control: Yes. "
@@ -775,8 +777,9 @@ screen npc_info(girl, clear=False):
                                     text "{b}Fertility:{/b} Pregnant" size 15 color text_color font "exo2_regular" alt ""
                                     $ info_self_voicing += f"Fertility: Pregnant. "
                                 else:
-                                    text "{b}Fertility:{/b} [girl.fertility]%" size 15 color text_color font "exo2_regular" alt ""
-                                    $ info_self_voicing += f"Fertility: {girl.fertility}%. "
+                                    $ shown_fertility = min(int(girl.fertility * hero.fertility_modifier), 100) if hero.is_male else girl.fertility
+                                    text "{b}Fertility:{/b} [shown_fertility]%" size 15 color text_color font "exo2_regular" alt ""
+                                    $ info_self_voicing += f"Fertility: {shown_fertility}%. "
                                 $ text_displayed += 1
                         if girl.sexperience >= 1:
                             text "{b}Sex count:{/b} [girl.sexperience]" color text_color size 15 font "exo2_regular" alt ""
@@ -844,6 +847,7 @@ screen npc_info(girl, clear=False):
                         style "empty"
                         action NullAction()
                         keyboard_focus False
+                        tooltip attr_bar_ui.get("tooltip")
                         alt replace_tags_alt(f"{attr_bar_ui['icon']} {attr_bar_ui['text']} {' is Lock' if attr_bar_ui['lock'] else ''}")
 
         if game.active_date.on_date(girl.id):
@@ -884,61 +888,36 @@ screen tooltip():
     if keep_at_it:
         $ tooltip = tooltip[1]
     if tooltip:
-        if renpy.get_screen(["inventory"]):
-            $ in_inventory = True
-        else:
-            $ in_inventory = False
+        $ (tooltip_title, tooltip_details) = _lssb_tooltip_parts(tooltip, bool(renpy.get_screen(["inventory"])), keep_at_it)
         nearrect:
             at FadeInTransform
             focus "tooltip"
             style_prefix "tooltips"
             if isinstance(tooltip, Room):
                 preferred_side "top"
-                frame:
-                    xpos 50
-                    xanchor 0.5
-                    style "invisible_frame"
-                    text _lssb_visual_go_to(tooltip.display_name) size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
-            elif isinstance(tooltip, (tuple, list)):
-                preferred_side "right"
-                xpos 30
-                frame:
-                    ypos 30
-                    yanchor 0.5
-                    style "overlay_ui_frame"
-                    has vbox
-                    align (0.5, 0.5)
-                    spacing 5
-                    text " ".join(_lssb_ui_translate(part) for part in tooltip) substitute False yalign 0.5
-            elif isinstance(tooltip, str):
-                preferred_side "right"
-                xpos 30
-                frame:
-                    ypos 30
-                    yanchor 0.5
-                    style "overlay_ui_frame"
-                    has vbox
-                    align (0.5, 0.5)
-                    spacing 5
-                    text _lssb_ui_translate(tooltip) substitute False yalign 0.5
             else:
                 preferred_side "right"
-                if isinstance(tooltip, ItemBase):
+                if isinstance(tooltip, (ItemBase, tuple, list, str)):
                     xpos 30
                 else:
                     xpos 10
-                frame:
+            vbox:
+                if isinstance(tooltip, Room):
+                    xpos 50
+                    xanchor 0.5
+                else:
                     ypos 30
                     yanchor 0.5
-                    style "overlay_ui_frame"
-                    has vbox
-                    align (0.5, 0.5)
-                    spacing 5
-                    $ name = tooltip.display_name if not isinstance(tooltip, Person) else "Talk to [tooltip.name]"
-                    $ name = tooltip.loop_display_name if keep_at_it and isinstance(tooltip, BaseActivity) else name
-                    text name size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
-                    if not isinstance(tooltip, Person) and tooltip.get_tooltip():
-                        text _lssb_ui_translate(tooltip.get_tooltip(in_inventory)) substitute False yalign 0.5
+                spacing 2
+                if tooltip_title:
+                    text tooltip_title size 23 font "exo2_regular" color "#fff" outlines [(1, "#0099ff", 0, 0)] xalign 0.5 text_align 0.5 xmaximum 500 layout "greedy"
+                if tooltip_details:
+                    frame:
+                        style "overlay_ui_frame"
+                        xalign 0.5
+                        padding (8, 5, 8, 5)
+                        # Russian costs run longer; wrap at the width the native line reaches.
+                        text tooltip_details substitute False size 26 text_align 0.5 xmaximum 1000 layout "greedy" at Transform(zoom=0.5)
 
 screen tooltip_old_ui():
 
@@ -1264,11 +1243,12 @@ screen choose_gift(exc=None):
                             button action Return(item):
                                 xfill True
                                 yalign 0.5
-                                has hbox
-                                xfill True
-                                yalign 0.5
-                                text t yalign 0.5
-                                text item.icon align (1.0, 0.5) style "inventory_items_text_icon"
+                                hbox:
+                                    xfill True
+                                    yalign 0.5
+                                    text t yalign 0.5
+                                    text item.icon align (1.0, 0.5) style "inventory_items_text_icon"
+                                tooltip item
                 vbar value YScrollValue("inventory_vp") left_bar "gui/inv/vertical_idle_bar.png" thumb "gui/inv/vertical_idle_thumb.png" right_bar "gui/inv/vertical_idle_bar.png" xmaximum 11 ymaximum 370 xalign 1.0 ypos 50 unscrollable "hide" alt "scroll "
         fixed:
             xysize (315, 29)
@@ -1965,6 +1945,11 @@ screen preferences():
                             use text_tooltip(_lssb_ui_resize(_("Lively backgrounds"), 215, 22), _("Enable/Disable sprites in backgrounds"), "lspref_label_text")
                             textbutton _("On") action SetField(persistent, 'lively_bg', True)
                             textbutton _("Off") action SetField(persistent, 'lively_bg', False)
+                        vbox:
+                            xysize (230, 60)
+                            use text_tooltip(_lssb_ui_resize(_("Click characters"), 215, 22), _("Interact with characters by clicking them in lively backgrounds instead of their buttons"), "lspref_label_text")
+                            textbutton _("On") action SetField(persistent, 'lively_click', True)
+                            textbutton _("Off") action SetField(persistent, 'lively_click', False)
             vbox:
                 spacing 20
                 use text_tooltip(_lssb_ui_resize(_("Gameplay Setting:"), 343, 30), "", "lspref_label_text_title")
@@ -1982,11 +1967,6 @@ screen preferences():
                         textbutton _("Easy") action SetField(persistent, 'difficulty', -1)
                         textbutton _("Normal") action SetField(persistent, 'difficulty', 0)
                         textbutton _("Difficult") action SetField(persistent, 'difficulty', 1)
-                    vbox:
-                        xysize (230, 60)
-                        use text_tooltip(_lssb_ui_resize(_("Random Schedule"), 215, 22), _("Allow non-player characters to choose among several locations during this routine"), "lspref_label_text")
-                        textbutton _("On") action SetField(persistent, 'schedule_randomness', True)
-                        textbutton _("Off") action SetField(persistent, 'schedule_randomness', False)
                     vbox:
                         xysize (230, 60)
                         use text_tooltip(_lssb_ui_resize(_("Random Needs"), 215, 22), _("The need's cost can fluctuate when performing actions"), "lspref_label_text")
@@ -2222,3 +2202,68 @@ screen help():
                     text description xsize 330 font "exo2_regular" size 20 color "#ffffff"
     button style "return_arrow_button" action [Hide("help"),Return()] tooltip ""
 
+# Shop and date-spot picker: the labels are computed strings, which Ren'Py does not
+# translate on its own. Same returns and tooltips; the capsules are drawn as vectors.
+screen select(choices, title="", cancel="None", cap=True):
+    variant "lssb_ui_ru_26_8_0d"
+    on "show" action [Hide("quick_menu"), Hide("say")]
+    if not persistent.new_ui and GetTooltip():
+        add "gui/actions_box.png" xalign 0.5 ypos 585
+    frame:
+        style "invisible_frame"
+        align (0.5, 0.5)
+        xsize 766
+        has vbox
+        spacing 5
+        xfill True
+        if title:
+            text _lssb_select_text(title.capitalize()) size 23 font "exo2_regular" color "#FFFFFF" outlines [(1, "#0099ff", 0, 0)] xalign 0.5
+        $ choices.sort()
+        for sub in choices:
+            hbox:
+                xsize 766
+                xfill True
+                if isinstance(sub, tuple):
+                    if cap:
+                        $ t = sub[0].capitalize()
+                    else:
+                        $ t = sub[0]
+                    fixed:
+                        xysize (766, 39)
+                        button:
+                            xysize (766, 39)
+                            background _LssbVisualShape("choice_idle")
+                            hover_background _LssbVisualShape("choice_hover")
+                            action Return(sub[1])
+                            if hasattr(sub[1],"get_tooltip") and not inspect.isclass(sub[1]):
+                                tooltip sub[1].get_tooltip()
+                            alt _lssb_select_text(t)
+                        text _lssb_select_text(t) font "exo2_regular" color "#ffffff" align (0.5, 0.5) alt ""
+                else:
+                    if cap:
+                        $ t = sub.capitalize()
+                    else:
+                        $ t = sub
+                    fixed:
+                        xysize (766, 39)
+                        button:
+                            xysize (766, 39)
+                            background _LssbVisualShape("choice_idle")
+                            hover_background _LssbVisualShape("choice_hover")
+                            action Return(sub)
+                            alt _lssb_select_text(t)
+                        text _lssb_select_text(t) font "exo2_regular" color "#ffffff" align (0.5, 0.5) alt ""
+        if cancel is not None:
+            fixed:
+                xysize (766, 39)
+                button:
+                    xysize (766, 39)
+                    background _LssbVisualShape("choice_idle")
+                    hover_background _LssbVisualShape("choice_hover")
+                    action Return(cancel)
+                text "Cancel" font "exo2_regular" color "#ffffff" align (0.5, 0.5)
+
+    if persistent.new_ui:
+        use tooltip
+    else:
+        use tooltip_old_ui
