@@ -4,7 +4,7 @@
 
 Русская локализация, HD-фоны, персонажи Lively и удобный телефон — **один мод**.
 
-**[Скачать 1.91.1 · 1,57 ГБ](https://github.com/KPEKTYC/LSSB-Russian-Mods/releases/download/v1.91.1-own/LSSB_1.91.1_Russian_HD_Lively.zip)**
+**[Скачать 1.91.1 · 1,56 ГБ](https://github.com/KPEKTYC/LSSB-Russian-Mods/releases/download/v1.91.1-own/LSSB_1.91.1_Russian_HD_Lively.zip)**
 &nbsp; · &nbsp;
 **[Установка и переход со старой версии](docs/INSTALL_RU.md)**
 
