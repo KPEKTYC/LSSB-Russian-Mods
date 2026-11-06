@@ -381,7 +381,7 @@ translate russian cherie_cold_call_9a8aa7fc:
     "Шери берёт стоящий перед ней бокал и делает глоток. Судя по оливке, это мартини. А судя по её глазам — возможно, уже не первый за сегодня."
 
 # ch/cherie/events.rpy:493
-translate russian cherie_cold_call_b2859a38:
+translate russian cherie_cold_call_e1ce9366:
     cherie.say "Наверное. Когда-то... словно целую жизнь назад я была светом в жизни Дуэйна, его отрадой. Уступала только той несносной девчонке, которую он произвёл на свет."
 
 # ch/cherie/events.rpy:494
@@ -393,7 +393,7 @@ translate russian cherie_cold_call_c9282702:
     cherie.say "Хотя, наверное, стоило догадаться. Дуэйн не умеет сохранять интерес так долго, как я надеялась."
 
 # ch/cherie/events.rpy:496
-translate russian cherie_cold_call_18a7dcc3:
+translate russian cherie_cold_call_6364d462:
     cherie.say "Не знаю, угасла ли его любовь ко мне или это никогда и не было любовью. Но два раза в день превратились в раз через день, потом в раз в неделю, а затем... в месяцы без близости."
 
 # ch/cherie/events.rpy:497
@@ -541,7 +541,7 @@ translate russian cherie_cold_call_e4aa907f:
     cherie.say "И как же именно вы её используете?"
 
 # ch/cherie/events.rpy:559
-translate russian cherie_cold_call_ab5e9890:
+translate russian cherie_cold_call_b6bf7e89:
     mike.say "Учу её быть... лучше. Когда мы познакомились, она ужасно обращалась с людьми. А я... показываю ей, каково это."
 
 # ch/cherie/events.rpy:561
@@ -549,7 +549,7 @@ translate russian cherie_cold_call_e8f9892b:
     cherie.say "О боже. Звучит весьма непристойно."
 
 # ch/cherie/events.rpy:563
-translate russian cherie_cold_call_fa6bfa3e:
+translate russian cherie_cold_call_a4c29fbb:
     mike.say "Возможно... так и есть."
 
 # ch/cherie/events.rpy:565
@@ -597,7 +597,7 @@ translate russian cherie_cold_call_ad90f198:
     cherie.say "Просто любопытный."
 
 # ch/cherie/events.rpy:588
-translate russian cherie_cold_call_0f6d5cc2:
+translate russian cherie_cold_call_6fd8ffe9:
     cherie.say "А теперь наш обед окончен, мой друг, и мне пора. У меня... дела."
 
 # ch/cherie/events.rpy:590
@@ -673,7 +673,7 @@ translate russian cherie_dwayne_confrontation_765af3c5:
     "Я ещё не успеваю сесть и приступить к работе, как в кабинет входит Дуэйн."
 
 # ch/cherie/events.rpy:631
-translate russian cherie_dwayne_confrontation_4ba3bc7d:
+translate russian cherie_dwayne_confrontation_5ebeef73:
     "Он не то чтобы хлопает дверью... скажем так, закрывает её властно и весьма шумно."
 
 # ch/cherie/events.rpy:633
@@ -717,7 +717,7 @@ translate russian cherie_dwayne_confrontation_cd592cf4:
     mike.say "Что такое, Дуэйн, вы мне угрожаете?"
 
 # ch/cherie/events.rpy:651
-translate russian cherie_dwayne_confrontation_bca7836e:
+translate russian cherie_dwayne_confrontation_95b259a5:
     mike.say "Уж кому-кому, а вам я бы не советовал мне угрожать. Если только не хотите определённых... событий, которые очень дорого вам обойдутся."
 
 # ch/cherie/events.rpy:653
@@ -761,7 +761,7 @@ translate russian cherie_dwayne_confrontation_8babb4ab:
     dwayne.say "Ещё как угрожаю, чёрт возьми."
 
 # ch/cherie/events.rpy:668
-translate russian cherie_dwayne_confrontation_e43dfe46:
+translate russian cherie_dwayne_confrontation_998e3b5b:
     mike.say "Уверен, я смогу отсудить у вас всё за увольнение из-за... напомните, из-за чего вы мне угрожаете?"
 
 # ch/cherie/events.rpy:670
@@ -897,7 +897,7 @@ translate russian cherie_first_call_41eeafb7:
     mike.say "Простите?"
 
 # ch/cherie/events.rpy:719
-translate russian cherie_first_call_a43a7bb4:
+translate russian cherie_first_call_08f0bc6c:
     cherie.say "Что бы вы ему ни сказали, со мной годами не... обращались... так жёстко и так долго. Он работал как поршень, и у меня всё болит."
 
 # ch/cherie/events.rpy:720
@@ -913,7 +913,7 @@ translate russian cherie_first_call_b2886c19:
     mike.say "Я, э-э..."
 
 # ch/cherie/events.rpy:723
-translate russian cherie_first_call_91e64dee:
+translate russian cherie_first_call_64f76b46:
     cherie.say "Так что ваши слова, {i}мон ами{/i}, его весьма... нет, чрезвычайно разозлили."
 
 # ch/cherie/events.rpy:724
@@ -929,7 +929,7 @@ translate russian cherie_first_call_447ad215:
     mike.say "Я уже говорил: ваша красота не должна оставаться без внимания! Рад, что убедил его выразить восхищение должным образом."
 
 # ch/cherie/events.rpy:727
-translate russian cherie_first_call_16cb9ff4:
+translate russian cherie_first_call_7bcda4bf:
     cherie.say "Возможно, но... это ненадолго. Гнев — не любовь. Как только вы исчезнете, я снова останусь одна."
 
 # ch/cherie/events.rpy:728
@@ -973,7 +973,7 @@ translate russian cherie_first_call_3c11963d:
     mike.say "А если я скажу, что у меня есть план, как избавить вас от него?"
 
 # ch/cherie/events.rpy:738
-translate russian cherie_first_call_2d94f337:
+translate russian cherie_first_call_193c869c:
     cherie.say "О? Хотите сказать, что желаете заполучить меня себе? Это довольно... смело."
 
 # ch/cherie/events.rpy:739
@@ -1021,7 +1021,7 @@ translate russian cherie_first_call_42d0759e:
     mike.say "Смогу."
 
 # ch/cherie/events.rpy:750
-translate russian cherie_first_call_4b898146:
+translate russian cherie_first_call_9bee5284:
     cherie.say "Хм. Хорошо. Ничего не обещаю, но... попробую."
 
 # ch/cherie/events.rpy:751
@@ -1037,11 +1037,11 @@ translate russian cherie_first_call_1a0afdea:
     mike.say "Как скажете."
 
 # ch/cherie/events.rpy:754
-translate russian cherie_first_call_9a4fbcf9:
+translate russian cherie_first_call_cf42ec34:
     cherie.say "Вы весьма... интересный человек, [heroname] [hero.family_name]. Что бы ни случилось, в последнее время я чувствую себя живой, как уже давно не чувствовала."
 
 # ch/cherie/events.rpy:755
-translate russian cherie_first_call_f785d61d:
+translate russian cherie_first_call_a5656767:
     cherie.say "С нетерпением жду следующей главы нашей небольшой... авантюры."
 
 # ch/cherie/events.rpy:756
@@ -1105,7 +1105,7 @@ translate russian cherie_second_meeting_b4243e53:
     mike.say "Тогда уже еду."
 
 # ch/cherie/events.rpy:781
-translate russian cherie_second_meeting_e3739e26:
+translate russian cherie_second_meeting_460ac450:
     cherie.say "Я... жду нашей новой встречи, {i}мон ами{/i}."
 
 # ch/cherie/events.rpy:782
@@ -1189,7 +1189,7 @@ translate russian cherie_second_meeting_3503ed4f:
     "Я смеюсь в голос!"
 
 # ch/cherie/events.rpy:816
-translate russian cherie_second_meeting_71c81709:
+translate russian cherie_second_meeting_493edff0:
     mike.say "Боже, нет, но... происходит немало всего."
 
 # ch/cherie/events.rpy:818
@@ -1401,7 +1401,7 @@ translate russian cherie_second_meeting_cf4e915c:
     mike.say "Назовите хоть одно моё неверное утверждение, и я немедленно всё исправлю."
 
 # ch/cherie/events.rpy:913
-translate russian cherie_second_meeting_d60e7e2a:
+translate russian cherie_second_meeting_e8405a24:
     cherie.say "Возможно... возможно, я слишком хотела что-то увидеть. Вы заметили моё одиночество, уделили немного внимания — и я ухватилась за него."
 
 # ch/cherie/events.rpy:915
@@ -1753,7 +1753,7 @@ translate russian cherie_vault_fdd21ad8:
     cherie.say "Рядом с вами я всегда чувствую себя такой..."
 
 # ch/cherie/events.rpy:1096
-translate russian cherie_vault_12b3edb3:
+translate russian cherie_vault_f88c7a31:
     cherie.say "Как это сказать... снова молодой!"
 
 # ch/cherie/events.rpy:1097
@@ -1873,7 +1873,7 @@ translate russian cherie_vault_76c4365e:
     cherie.say "М-м-м..."
 
 # ch/cherie/events.rpy:1134
-translate russian cherie_vault_aefe9e24:
+translate russian cherie_vault_e2fb0a97:
     cherie.say "Да... именно так."
 
 # ch/cherie/events.rpy:1135
@@ -1913,7 +1913,7 @@ translate russian cherie_vault_6536c0de:
     cherie.say "Что я могу сказать?"
 
 # ch/cherie/events.rpy:1146
-translate russian cherie_vault_013ef3df:
+translate russian cherie_vault_5d0914f5:
     cherie.say "Меня волнует вся эта... как бы вы это назвали?"
 
 # ch/cherie/events.rpy:1147
@@ -1921,7 +1921,7 @@ translate russian cherie_vault_475543d5:
     cherie.say "Авантюра?"
 
 # ch/cherie/events.rpy:1148
-translate russian cherie_vault_01c1905b:
+translate russian cherie_vault_259d4730:
     cherie.say "Хм... да, это похоже на авантюру."
 
 # ch/cherie/events.rpy:1150
@@ -1977,7 +1977,7 @@ translate russian cherie_vault_7bbba934:
     cherie.say "Я всё ещё не уверена, что должна вам её отдавать!"
 
 # ch/cherie/events.rpy:1168
-translate russian cherie_vault_f7902992:
+translate russian cherie_vault_59c810cc:
     cherie.say "Может, меня нужно ещё немного... убедить?"
 
 # ch/cherie/events.rpy:1170
@@ -2009,7 +2009,7 @@ translate russian cherie_vault_be404dea:
     cherie.say "Это всё, что имеет значение. Всё, что вам нужно."
 
 # ch/cherie/events.rpy:1178
-translate russian cherie_vault_1963558d:
+translate russian cherie_vault_3cc52881:
     cherie.say "Там были... другие вещи, разумеется."
 
 # ch/cherie/events.rpy:1179
@@ -2189,7 +2189,7 @@ translate russian cherie_vault_19d9ba88:
     "Но что-то в том, как она это сказала, кажется мне неправильным."
 
 # ch/cherie/events.rpy:1239
-translate russian cherie_vault_04fe960d:
+translate russian cherie_vault_2eb37330:
     mike.say "Вы... очень мне нравитесь, Шери..."
 
 # ch/cherie/events.rpy:1240
@@ -2317,7 +2317,7 @@ translate russian cherie_vault_b1e2f3ca:
     cherie.say "Должна признать, {i}мон ами{/i}..."
 
 # ch/cherie/events.rpy:1278
-translate russian cherie_vault_e5546fa8:
+translate russian cherie_vault_b2a6da4d:
     cherie.say "Звучит... очень приятно. Действительно очень приятно."
 
 # ch/cherie/events.rpy:1280
@@ -2361,7 +2361,7 @@ translate russian cherie_vault_61305748:
     "Шери переводит взгляд с Дуэйна на меня и обратно."
 
 # ch/cherie/events.rpy:1297
-translate russian cherie_vault_341fadbb:
+translate russian cherie_vault_76062022:
     cherie.say "Это... это не..."
 
 # ch/cherie/events.rpy:1298
@@ -2397,7 +2397,7 @@ translate russian cherie_vault_bfd2ba5c:
     cherie.say "А, это?"
 
 # ch/cherie/events.rpy:1308
-translate russian cherie_vault_b4e38f3f:
+translate russian cherie_vault_51572a29:
     cherie.say "Я... э-э..."
 
 # ch/cherie/events.rpy:1309
@@ -2769,7 +2769,7 @@ translate russian cherie_vault_47e172db:
     mike.say "Где она..."
 
 # ch/cherie/events.rpy:1459
-translate russian cherie_vault_b98cc6b2:
+translate russian cherie_vault_7dfea9db:
     mike.say "Где... Шери?!"
 
 # ch/cherie/events.rpy:1461
@@ -2845,7 +2845,7 @@ translate russian cherie_vault_59c4d540:
     cherie.say "Ах..."
 
 # ch/cherie/events.rpy:1483
-translate russian cherie_vault_4784bbe9:
+translate russian cherie_vault_8fd3482e:
     cherie.say "Очень... очень больно."
 
 # ch/cherie/events.rpy:1484
@@ -2877,7 +2877,7 @@ translate russian cherie_vault_a0a69c83:
     "И развеять беспокойство Шери обо мне."
 
 # ch/cherie/events.rpy:1494
-translate russian cherie_vault_e0e37983:
+translate russian cherie_vault_0a1d32f2:
     mike.say "Я... буду жить."
 
 # ch/cherie/events.rpy:1495
@@ -2993,7 +2993,7 @@ translate russian cherie_vault_a25df13e:
     cherie.say "Я не хотела этого. Я не хотела твоей смерти!"
 
 # ch/cherie/events.rpy:1535
-translate russian cherie_vault_06c0b904:
+translate russian cherie_vault_3794b632:
     cherie.say "Глупый... ужасный, отвратительный человек."
 
 # ch/cherie/events.rpy:1536
@@ -3017,7 +3017,7 @@ translate russian cherie_vault_1e8661b5:
     mike.say "Это никогда не входило в план."
 
 # ch/cherie/events.rpy:1542
-translate russian cherie_vault_8a28ae71:
+translate russian cherie_vault_6c76d61d:
     mike.say "Я... я до сих пор не понимаю, что он здесь делал!"
 
 # ch/cherie/events.rpy:1544
@@ -3265,7 +3265,7 @@ translate russian cherie_vault_900544eb:
     aletta.say "Что?!"
 
 # ch/cherie/events.rpy:1637
-translate russian cherie_vault_47b42fbe:
+translate russian cherie_vault_cecc13d4:
     aletta.say "Н... нет... ни за что!"
 
 # ch/cherie/events.rpy:1639
@@ -3569,7 +3569,7 @@ translate russian cherie_vault_74f3d393:
     "Этого, кажется, достаточно, чтобы Алетта замолчала."
 
 # ch/cherie/events.rpy:1748
-translate russian cherie_vault_9edec468:
+translate russian cherie_vault_31856f3e:
     aletta.say "Д... да, вы правы..."
 
 # ch/cherie/events.rpy:1749
@@ -3637,7 +3637,7 @@ translate russian dump_dwayne_corpse_mansion_fd86659f:
     "Конечно, и при жизни он внушал страх, расхаживая так, будто всё вокруг принадлежало ему."
 
 # ch/cherie/events.rpy:1785
-translate russian dump_dwayne_corpse_mansion_a8f41f91:
+translate russian dump_dwayne_corpse_mansion_5a8c202a:
     "Хотя... чаще всего так и было!"
 
 # ch/cherie/events.rpy:1786
@@ -3817,7 +3817,7 @@ translate russian dump_dwayne_corpse_beach_fd86659f:
     "Конечно, и при жизни он выглядел внушительно, расхаживая повсюду так, словно всё вокруг принадлежало ему."
 
 # ch/cherie/events.rpy:1840
-translate russian dump_dwayne_corpse_beach_a8f41f91:
+translate russian dump_dwayne_corpse_beach_5a8c202a:
     "Хотя... в большинстве случаев так и было!"
 
 # ch/cherie/events.rpy:1841
@@ -3961,7 +3961,7 @@ translate russian dump_dwayne_corpse_forest_fd86659f:
     "Конечно, и при жизни он выглядел внушительно, расхаживая повсюду так, словно всё вокруг принадлежало ему."
 
 # ch/cherie/events.rpy:1884
-translate russian dump_dwayne_corpse_forest_a8f41f91:
+translate russian dump_dwayne_corpse_forest_5a8c202a:
     "Хотя... в большинстве случаев так и было!"
 
 # ch/cherie/events.rpy:1885
@@ -4925,7 +4925,7 @@ translate russian dwayne_corpse_discovery_79328e4e:
     "Корреспондент" "Как нам стало известно, Шери Джексон..."
 
 # ch/cherie/events.rpy:2242
-translate russian dwayne_corpse_discovery_64bbb3ac:
+translate russian dwayne_corpse_discovery_e4f166d0:
     "Корреспондент" "Супруга мистера Джексона... а теперь его вдова..."
 
 # ch/cherie/events.rpy:2243

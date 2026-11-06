@@ -285,11 +285,11 @@ translate russian sasha_propose_male_1b4beae2:
     sasha.say "О, [lssb_sasha.hero_name()]! Ты зовёшь меня замуж?!"
 
 # ch/sasha/base.rpy:187
-translate russian sasha_propose_male_adb9fd73:
+translate russian sasha_propose_male_5efae392:
     mike.say "Д... да. Да, Саша."
 
 # ch/sasha/base.rpy:188
-translate russian sasha_propose_male_435a8b28:
+translate russian sasha_propose_male_d124f1d0:
     mike.say "И... это значит «да»?"
 
 # ch/sasha/base.rpy:189
@@ -557,7 +557,7 @@ translate russian sasha_tv_footrub_1_6f93f808:
     "Пропускаю мимо ушей то, как резко Саша меня оборвала. Допустим, ей просто не хочется обмениваться рассказами о паршивом дне."
 
 # ch/sasha/base.rpy:328
-translate russian sasha_tv_footrub_1_666a259f:
+translate russian sasha_tv_footrub_1_1788d93d:
     mike.say "Ладно... Тогда просто поваляемся вместе и посмотрим какую-нибудь дрянь по телевизору?"
 
 # ch/sasha/base.rpy:329
@@ -685,7 +685,7 @@ translate russian sasha_tv_footrub_1_ea2b3b43:
     "Наконец она открывает глаза и довольно кивает. Мне даже жаль, что массаж закончился."
 
 # ch/sasha/base.rpy:365
-translate russian sasha_tv_footrub_1_146a3990:
+translate russian sasha_tv_footrub_1_c50f91f8:
     sasha.say "А-а... спасибо, [lssb_sasha.hero_name()]. И правда помогло!"
 
 # ch/sasha/base.rpy:366
@@ -805,7 +805,7 @@ translate russian sasha_tv_footrub_2_cc5e0632:
     sasha.say "Знаешь, [lssb_sasha.hero_name()], руками ты работаешь неплохо."
 
 # ch/sasha/base.rpy:414
-translate russian sasha_tv_footrub_2_3bbc3358:
+translate russian sasha_tv_footrub_2_10077ddf:
     mike.say "С... спасибо, Саша!"
 
 # ch/sasha/base.rpy:415
@@ -813,7 +813,7 @@ translate russian sasha_tv_footrub_2_fa537033:
     "Надеюсь, моя радостная улыбка в ответ на похвалу не выглядит совсем глупой."
 
 # ch/sasha/base.rpy:416
-translate russian sasha_tv_footrub_2_93d35530:
+translate russian sasha_tv_footrub_2_41529349:
     sasha.say "Но знаешь что? Спорим, я лучше."
 
 # ch/sasha/base.rpy:417
@@ -849,7 +849,7 @@ translate russian sasha_tv_footrub_2_8885ec62:
     "И всё же я поспешно выполняю сказанное: уже любопытно, что Саша задумала."
 
 # ch/sasha/base.rpy:425
-translate russian sasha_tv_footrub_2_bd695f05:
+translate russian sasha_tv_footrub_2_659b5199:
     sasha.say "Хорошо. А теперь доставай член."
 
 # ch/sasha/base.rpy:426
@@ -1768,162 +1768,6 @@ translate russian sasha_walk_outside_garden_38933bd6:
 translate russian sasha_walk_outside_garden_e58a3d6d:
     "Качая головой и изрядно возбудившись, веду её обратно к дому, завожу внутрь и запираю дверь."
 
-# ch/sasha/base.rpy:920
-translate russian sasha_walk_outside_park_a7d1d6ff:
-    "Она охотно выходит на тротуар на четвереньках, и я почти забываю проверить, не смотрит ли кто-нибудь с улицы."
-
-# ch/sasha/base.rpy:923
-translate russian sasha_walk_outside_park_1066df66:
-    "Так завораживает её движущаяся голая задница и мелькающая грудь, покачивающаяся из стороны в сторону."
-
-# ch/sasha/base.rpy:927
-translate russian sasha_walk_outside_park_2e3c811d:
-    "До ворот парка мне несколько раз мерещатся вспышки света, будто кто-то отдёргивает шторы."
-
-# ch/sasha/base.rpy:928
-translate russian sasha_walk_outside_park_184a5148:
-    "Неизвестность — наблюдают за нами или нет — и делает эту мысль такой волнующей."
-
-# ch/sasha/base.rpy:929
-translate russian sasha_walk_outside_park_11210db9:
-    "Но если кто-то и подсматривает, как я выгуливаю необычную питомицу, выходить и предъявлять претензии никто не спешит."
-
-# ch/sasha/base.rpy:930
-translate russian sasha_walk_outside_park_2e882ce8:
-    "Когда мы наконец сворачиваем с улицы в парк, обычных собачников уже нет: слишком поздно."
-
-# ch/sasha/base.rpy:931
-translate russian sasha_walk_outside_park_f009a661:
-    "Хотя время от времени я слышу звуки, которые наверняка издают не животные."
-
-# ch/sasha/base.rpy:932
-translate russian sasha_walk_outside_park_7c907d2c:
-    "Фонарей в парке нет. Пробираясь к группе деревьев, мы будто оказываемся в собственном маленьком мире темноты."
-
-# ch/sasha/base.rpy:933
-translate russian sasha_walk_outside_park_22ba6765:
-    "И тут я отчётливо слышу быстро приближающиеся шаги."
-
-# ch/sasha/base.rpy:934
-translate russian sasha_walk_outside_park_61514c0d:
-    "Оглядываюсь и вижу бегунью, которая движется по дорожке прямо ко мне."
-
-# ch/sasha/base.rpy:935
-translate russian sasha_walk_outside_park_25f3c7c2:
-    "Я аккуратно отступаю с дороги и вежливо улыбаюсь, пропуская её."
-
-# ch/sasha/base.rpy:936
-translate russian sasha_walk_outside_park_ff6ba06f:
-    "А сам молча паникую и сдерживаюсь, чтобы не посмотреть на Сашу: вдруг этим привлеку и внимание бегуньи."
-
-# ch/sasha/base.rpy:937
-translate russian sasha_walk_outside_park_e50f2274:
-    "Она мельком смотрит на меня, улыбается и пробегает дальше, пока не скрывается из виду."
-
-# ch/sasha/base.rpy:938
-translate russian sasha_walk_outside_park_754d16e9:
-    "Наконец можно выдохнуть и посмотреть туда, где я оставил свою сучку."
-
-# ch/sasha/base.rpy:939
-translate russian sasha_walk_outside_park_31741b06:
-    "Я встревожен, но не хочу показывать этого Саше. Захожу к деревьям и подзываю её."
-
-# ch/sasha/base.rpy:940
-translate russian sasha_walk_outside_park_e3bbea9d:
-    "Она радостно слушается. Либо совсем не заметила бегунью, либо ей понравилось, как близко мы были к разоблачению."
-
-# ch/sasha/base.rpy:942
-translate russian sasha_walk_outside_park_739efe9f:
-    "Тут замечаю: она подняла руку, прося разрешения заговорить."
-
-# ch/sasha/base.rpy:943
-translate russian sasha_walk_outside_park_fb79b30b:
-    mike.say "Ладно, Саша. Что ты хотела сказать?"
-
-# ch/sasha/base.rpy:944
-translate russian sasha_walk_outside_park_bd5c8899:
-    sasha.say "Теперь, когда мы погуляли и повеселились..."
-
-# ch/sasha/base.rpy:945
-translate russian sasha_walk_outside_park_804582c4:
-    sasha.say "Позволит ли [lssb_sasha.hero_name()] сделать для него что-нибудь приятное?"
-
-# ch/sasha/base.rpy:946
-translate russian sasha_walk_outside_park_5a644a19:
-    "Смотрю на её улыбку и широко распахнутые, будто невинные глаза."
-
-# ch/sasha/base.rpy:947
-translate russian sasha_walk_outside_park_4b483ae8:
-    "Почему бы ей не уступить?"
-
-# ch/sasha/base.rpy:948
-translate russian sasha_walk_outside_park_e1af42d3:
-    "За всю прогулку мы встретили только одного человека. А теперь надёжно скрыты среди деревьев."
-
-# ch/sasha/base.rpy:949
-translate russian sasha_walk_outside_park_f627ed1b:
-    "К тому же нервы у меня уже изрядно натянуты."
-
-# ch/sasha/base.rpy:950
-translate russian sasha_walk_outside_park_c0498778:
-    "Что-нибудь приятное помогло бы успокоиться перед возвращением домой."
-
-# ch/sasha/base.rpy:951
-translate russian sasha_walk_outside_park_b1bb0500:
-    "Снисходительно улыбаюсь Саше и киваю."
-
-# ch/sasha/base.rpy:952
-translate russian sasha_walk_outside_park_947b8a07:
-    "В ответ она хлопает в ладоши и радостно подползает, пока не оказывается на коленях передо мной."
-
-# ch/sasha/base.rpy:954
-translate russian sasha_walk_outside_park_41391ecd:
-    "Саша расстёгивает ширинку и вытаскивает мой член, тихонько и возбуждённо постанывая."
-
-# ch/sasha/base.rpy:955
-translate russian sasha_walk_outside_park_d8640585:
-    "Там, где мы стоим, холодно. Теперь я ощущаю это особенно остро."
-
-# ch/sasha/base.rpy:957
-translate russian sasha_walk_outside_park_f960b5d5:
-    "Будто заметив мой дискомфорт от холода, Саша сразу обхватывает член губами."
-
-# ch/sasha/base.rpy:958
-translate russian sasha_walk_outside_park_e0ee2664:
-    "Я ещё не до конца возбуждён, но влажное тепло её языка быстро это исправляет."
-
-# ch/sasha/base.rpy:959
-translate russian sasha_walk_outside_park_467a5f29:
-    "Смотреть на её лицо, пока она буквально уговаривает мой член встать, — отдельное удовольствие."
-
-# ch/sasha/base.rpy:961
-translate russian sasha_walk_outside_park_99e8e05d:
-    "По мере того как он растёт, ей приходится приспосабливаться и стараться удержать его во рту как можно глубже."
-
-# ch/sasha/base.rpy:962
-translate russian sasha_walk_outside_park_c4faf75b:
-    "Её почти упрямое нежелание выпускать его возбуждает едва ли не сильнее самого минета."
-
-# ch/sasha/base.rpy:963
-translate russian sasha_walk_outside_park_fc62cc55:
-    "Саша действительно жалобно поскуливает всякий раз, когда член грозит выскользнуть из губ."
-
-# ch/sasha/base.rpy:965
-translate russian sasha_walk_outside_park_b9a96944:
-    "Я теряюсь в ощущениях её рта. Из уголка губ начинает вытекать тонкая струйка моей спермы."
-
-# ch/sasha/base.rpy:971
-translate russian sasha_walk_outside_park_2bd285ff:
-    "Стою спокойно, позволяя Саше убрать мой член обратно в брюки."
-
-# ch/sasha/base.rpy:974
-translate russian sasha_walk_outside_park_a0957f89:
-    "Снова крепко беру поводок и мягко, но уверенно тяну. Она семенит следом почти идеально у ноги."
-
-# ch/sasha/base.rpy:975
-translate russian sasha_walk_outside_park_46b68a0b:
-    "Короткая дорога домой не занимает много времени. Признаков жизни по пути ещё меньше, чем раньше вечером."
-
 # ch/sasha/chat.rpy:4
 translate russian sasha_desire_0_male_32fe6bd2:
     sasha.say "Что парни находят в большой груди и вечной жизнерадостности?"
@@ -2385,7 +2229,7 @@ translate russian sasha_desire_5_male_9dadca4b_2:
     sasha.say "И с женщинами ты разговаривать совершенно не умеешь."
 
 # ch/sasha/chat.rpy:235
-translate russian sasha_desire_5_male_f5433a0d:
+translate russian sasha_desire_5_male_b63ebfa7:
     mike.say "Ла-адно... Может, между нами просто химия."
 
 # ch/sasha/chat.rpy:236
@@ -2757,7 +2601,7 @@ translate russian sasha_bad_sweet_talk_male_4c334b42:
     sasha.say "Это называется глубина души и связь со своим внутренним миром!"
 
 # ch/sasha/chat.rpy:415
-translate russian sasha_bad_sweet_talk_male_eb3cb086:
+translate russian sasha_bad_sweet_talk_male_4eca28f3:
     mike.say "Э-э... ладно, Саша..."
 
 # ch/sasha/condom.rpy:4
@@ -2833,11 +2677,11 @@ translate russian sasha_use_condom_9b91e225:
     "Поняв, что я делаю, Саша тоже меняет тон."
 
 # ch/sasha/condom.rpy:33
-translate russian sasha_use_condom_1986bfd2:
+translate russian sasha_use_condom_e596de9b:
     sasha.say "О-о... как скажешь!"
 
 # ch/sasha/condom.rpy:35
-translate russian sasha_use_condom_d5c2607f:
+translate russian sasha_use_condom_22fe9a3d:
     sasha.say "О-о... хорошая мысль!"
 
 # ch/sasha/condom.rpy:37
@@ -3161,7 +3005,7 @@ translate russian sasha_date_intro_halloween_male_64115f43:
     mike.say "Почему это, Саша?"
 
 # ch/sasha/date.rpy:15
-translate russian sasha_date_intro_halloween_male_ab43fda4:
+translate russian sasha_date_intro_halloween_male_5726e798:
     sasha.say "Эм... потому что сегодня Хэллоуин?"
 
 # ch/sasha/date.rpy:16
@@ -3217,7 +3061,7 @@ translate russian sasha_date_intro_birthday_male_0f49873f:
     mike.say "Именинница заслуживает отлично провести время!"
 
 # ch/sasha/date.rpy:35
-translate russian sasha_date_intro_birthday_male_44645181:
+translate russian sasha_date_intro_birthday_male_9cfd3d60:
     sasha.say "Ой... спасибо, [lssb_sasha.hero_name()]!"
 
 # ch/sasha/date.rpy:36
@@ -3249,7 +3093,7 @@ translate russian sasha_date_intro_mc_birthday_male_dfe8d628:
     mike.say "Благодаря тебе я чувствую себя особенным."
 
 # ch/sasha/date.rpy:46
-translate russian sasha_date_intro_mc_birthday_male_643244c7:
+translate russian sasha_date_intro_mc_birthday_male_81bfbfe2:
     sasha.say "Ой... ну какой же ты милый!"
 
 # ch/sasha/date.rpy:47
@@ -3521,7 +3365,7 @@ translate russian sasha_date_play_arcade_win_male_e48f710d:
     sasha.say "Но может, уже займёмся чем-нибудь другим?"
 
 # ch/sasha/date.rpy:157
-translate russian sasha_date_play_arcade_win_male_8ceb0f4a:
+translate russian sasha_date_play_arcade_win_male_8ff052cf:
     mike.say "Н... наверное, Саша."
 
 # ch/sasha/date.rpy:158
@@ -3649,7 +3493,7 @@ translate russian sasha_dick_reactions_284a693e:
     sasha.say "И это всё, что мне достанется?"
 
 # ch/sasha/date.rpy:208
-translate russian sasha_dick_reactions_878844b9:
+translate russian sasha_dick_reactions_aa0e17ee:
     mike.say "Я... видимо, да. Прости!"
 
 # ch/sasha/date.rpy:210
@@ -3857,7 +3701,7 @@ translate russian sasha_peeping_reactions_male_1699898f:
     sasha.say "КАКОГО ЧЁРТА?!"
 
 # ch/sasha/date.rpy:285
-translate russian sasha_peeping_reactions_male_e10e8027:
+translate russian sasha_peeping_reactions_male_9bef5b1f:
     sasha.say "Ты... ты... ты..."
 
 # ch/sasha/date.rpy:286
@@ -3873,7 +3717,7 @@ translate russian sasha_peeping_reactions_male_a897c259:
     "Я прихожу в себя и выпрямляюсь."
 
 # ch/sasha/date.rpy:290
-translate russian sasha_peeping_reactions_male_1a081ae4:
+translate russian sasha_peeping_reactions_male_369fd9a3:
     mike.say "Ч... что?!"
 
 # ch/sasha/date.rpy:291
@@ -3881,11 +3725,11 @@ translate russian sasha_peeping_reactions_male_9c63c87a:
     mike.say "Нет, нет, нет..."
 
 # ch/sasha/date.rpy:292
-translate russian sasha_peeping_reactions_male_29976d90:
+translate russian sasha_peeping_reactions_male_f9ab0bbc:
     mike.say "Я... я просто проверял..."
 
 # ch/sasha/date.rpy:293
-translate russian sasha_peeping_reactions_male_1e78f0dc:
+translate russian sasha_peeping_reactions_male_2e8c46b4:
     mike.say "Н... не свободна ли ванная!"
 
 # ch/sasha/date.rpy:295
@@ -4273,7 +4117,7 @@ translate russian sasha_halloween_arrival_12765781:
     mike.say "Не знаю, Саша."
 
 # ch/sasha/date.rpy:442
-translate russian sasha_halloween_arrival_985714a6:
+translate russian sasha_halloween_arrival_0b5cc044:
     mike.say "Ну... видно, что ты очень старалась!"
 
 # ch/sasha/date.rpy:445
@@ -4289,7 +4133,7 @@ translate russian sasha_halloween_arrival_9b18e17e:
     sasha.say "Эм..."
 
 # ch/sasha/date.rpy:449
-translate russian sasha_halloween_arrival_4131e3d6:
+translate russian sasha_halloween_arrival_8456b85f:
     sasha.say "Ну... спасибо, наверное!"
 
 # ch/sasha/date.rpy:450
@@ -4329,7 +4173,7 @@ translate russian sasha_halloween_arrival_c0412b5c:
     mike.say "Вся эта готика..."
 
 # ch/sasha/date.rpy:462
-translate russian sasha_halloween_arrival_cde5666a:
+translate russian sasha_halloween_arrival_df6dd592:
     mike.say "Ну... просто не моё!"
 
 # ch/sasha/date.rpy:463
@@ -4401,7 +4245,7 @@ translate russian sasha_halloween_party_e64444a7:
     mike.say "Саше не нужно, чтобы ты слюной залил её костюм!"
 
 # ch/sasha/date.rpy:497
-translate russian sasha_halloween_party_f4730863:
+translate russian sasha_halloween_party_81a7050c:
     scottie.say "Ч... что?"
 
 # ch/sasha/date.rpy:498
@@ -4465,7 +4309,7 @@ translate russian sasha_halloween_party_3dbe8c8b:
     "Она качает головой, словно не понимает, зачем я это делаю."
 
 # ch/sasha/date.rpy:525
-translate russian sasha_halloween_party_35807a67:
+translate russian sasha_halloween_party_8a3d8787:
     sasha.say "Т... ты сейчас издеваешься, да?"
 
 # ch/sasha/date.rpy:527
@@ -4617,7 +4461,7 @@ translate russian sasha_halloween_dance_6d473721:
     "Такого ответа она явно не ожидала."
 
 # ch/sasha/date.rpy:593
-translate russian sasha_halloween_dance_3426c4c0:
+translate russian sasha_halloween_dance_d2a46b93:
     sasha.say "Я... я не..."
 
 # ch/sasha/date.rpy:595
@@ -4753,7 +4597,7 @@ translate russian sasha_halloween_sex_2f0e1062:
     "Но лишь войдя следом, я понимаю причину её ухмылки."
 
 # ch/sasha/date.rpy:650
-translate russian sasha_halloween_sex_84173c8c:
+translate russian sasha_halloween_sex_1fa7c614:
     mike.say "П... погоди, Саша."
 
 # ch/sasha/date.rpy:651
@@ -4781,7 +4625,7 @@ translate russian sasha_halloween_sex_5fe44547:
     sasha.say "Давай потрахаемся в комнате [bree.name]!"
 
 # ch/sasha/date.rpy:661
-translate russian sasha_halloween_sex_65870e9c:
+translate russian sasha_halloween_sex_9d2710b2:
     mike.say "Н... но зачем?!"
 
 # ch/sasha/date.rpy:663
@@ -4835,10 +4679,6 @@ translate russian sasha_halloween_sex_7a6e5c6c:
 # ch/sasha/date.rpy:685
 translate russian sasha_halloween_sex_44d7b21a:
     sasha.say "Ты главный, [lssb_sasha.hero_name()], ладно?"
-
-# ch/sasha/date.rpy:686
-translate russian sasha_halloween_sex_dffad6da:
-    sasha.say "Просто скажи, как ты меня хочешь, и я всё сделаю. Только поторопись!"
 
 # ch/sasha/date.rpy:688
 translate russian sasha_halloween_sex_d5794770:
@@ -4977,7 +4817,7 @@ translate russian sasha_halloween_sex_6bbd3725:
     "Она не врёт: я чувствую, как её киска сжимается вокруг моего члена."
 
 # ch/sasha/date.rpy:733
-translate russian sasha_halloween_sex_43da9c81:
+translate russian sasha_halloween_sex_34ac2d5c:
     mike.say "О... о боже..."
 
 # ch/sasha/date.rpy:735
@@ -4993,11 +4833,11 @@ translate russian sasha_halloween_sex_b76de60c:
     "Но выражение её лица в этот момент далеко от довольного."
 
 # ch/sasha/date.rpy:741
-translate russian sasha_halloween_sex_bc822f1f:
+translate russian sasha_halloween_sex_b59812f6:
     sasha.say "Т... ты козёл!"
 
 # ch/sasha/date.rpy:742
-translate russian sasha_halloween_sex_42490351:
+translate russian sasha_halloween_sex_240fe26a:
     sasha.say "Ты... сказал..."
 
 # ch/sasha/date.rpy:743
@@ -5005,7 +4845,7 @@ translate russian sasha_halloween_sex_1579cd2c:
     sasha.say "Ты назвал имя другой девушки!"
 
 # ch/sasha/date.rpy:744
-translate russian sasha_halloween_sex_4bea757a:
+translate russian sasha_halloween_sex_7b7e2cd2:
     mike.say "Н... нет, Саша..."
 
 # ch/sasha/date.rpy:745
@@ -5027,10 +4867,6 @@ translate russian sasha_halloween_sex_ac3cc64d:
 # ch/sasha/date.rpy:755
 translate russian sasha_halloween_sex_10a374a1:
     bree.say "Вы занимались этим... в моей комнате?!"
-
-# ch/sasha/date.rpy:757
-translate russian sasha_halloween_sex_d70f0b05:
-    mike.say "Эм... похоже на то, [bree.name]!"
 
 # ch/sasha/date.rpy:759
 translate russian sasha_halloween_sex_c7e823a1:
@@ -5153,7 +4989,7 @@ translate russian sasha_rape_talk_f1d8a63c:
     mike.say "Эм..."
 
 # ch/sasha/events/events.rpy:138
-translate russian sasha_rape_talk_7c93ca18:
+translate russian sasha_rape_talk_7d9155e1:
     mike.say "Я... я в порядке, Саша."
 
 # ch/sasha/events/events.rpy:139
@@ -5161,7 +4997,7 @@ translate russian sasha_rape_talk_f7595200:
     mike.say "Ну, бывали времена и получше, это уж точно!"
 
 # ch/sasha/events/events.rpy:140
-translate russian sasha_rape_talk_2091b408:
+translate russian sasha_rape_talk_1bbc3fd5:
     mike.say "Но, знаешь... учитывая всё, не так уж и плохо."
 
 # ch/sasha/events/events.rpy:142
@@ -5193,7 +5029,7 @@ translate russian sasha_rape_talk_e1ae2651:
     sasha.say "Ты ведь понимаешь?"
 
 # ch/sasha/events/events.rpy:151
-translate russian sasha_rape_talk_3b1a65a1:
+translate russian sasha_rape_talk_26a52334:
     mike.say "Я... понимаю, Саша."
 
 # ch/sasha/events/events.rpy:152
@@ -5329,7 +5165,7 @@ translate russian sasha_murder_talk_bree_276a9957:
     mike.say "Это здорово!"
 
 # ch/sasha/events/events.rpy:200
-translate russian sasha_murder_talk_bree_9564ec5f:
+translate russian sasha_murder_talk_bree_68cc991e:
     mike.say "То есть... я имею в виду, здорово, что мы можем поговорить..."
 
 # ch/sasha/events/events.rpy:201
@@ -5361,7 +5197,7 @@ translate russian sasha_murder_talk_bree_ad4b3230:
     mike.say "Я не был уверен, в трауре ты или нет."
 
 # ch/sasha/events/events.rpy:210
-translate russian sasha_murder_talk_bree_e6ea6101:
+translate russian sasha_murder_talk_bree_733cc0fc:
     mike.say "Потому что... потому что ты всегда носишь чёрное!"
 
 # ch/sasha/events/events.rpy:212
@@ -5401,7 +5237,7 @@ translate russian sasha_murder_talk_bree_8725abff:
     mike.say "Ну, немного всё-таки смешно..."
 
 # ch/sasha/events/events.rpy:224
-translate russian sasha_murder_talk_bree_4d220a3d:
+translate russian sasha_murder_talk_bree_6bd404e3:
     mike.say "П... помнишь, как [bree.name] спросила тебя..."
 
 # ch/sasha/events/events.rpy:225
@@ -5513,7 +5349,7 @@ translate russian followsamadvice_aadca25d:
     "Была не была..."
 
 # ch/sasha/events/events.rpy:272
-translate russian followsamadvice_f452f06f:
+translate russian followsamadvice_fd6b9e4c:
     mike.say "Саша... я хотел спросить... мы могли бы поговорить?"
 
 # ch/sasha/events/events.rpy:273
@@ -5585,7 +5421,7 @@ translate russian followsamadvice_2905e5c6:
     "Нужно помнить: я здесь, чтобы показать Саше, что понимаю её чувства, и дать ей возможность решить самой."
 
 # ch/sasha/events/events.rpy:295
-translate russian followsamadvice_815f076e:
+translate russian followsamadvice_501e2098:
     mike.say "Как я и сказал... мне очень жаль."
 
 # ch/sasha/events/events.rpy:296
@@ -5605,7 +5441,7 @@ translate russian followsamadvice_5903dc5f:
     sasha.say "[lssb_sasha.hero_name()]... подожди..."
 
 # ch/sasha/events/events.rpy:302
-translate russian followsamadvice_7e9e8ca2:
+translate russian followsamadvice_c5237c01:
     sasha.say "Раз ты можешь это понять... возможно, и я смогу понять тебя."
 
 # ch/sasha/events/events.rpy:303
@@ -5617,7 +5453,7 @@ translate russian followsamadvice_ad80f0ea:
     "Она закусывает губу: говорить дальше ей явно неприятно."
 
 # ch/sasha/events/events.rpy:307
-translate russian followsamadvice_9e540a30:
+translate russian followsamadvice_a8b14a6c:
     sasha.say "И... ну, я тогда тоже пару раз виделась с бывшим..."
 
 # ch/sasha/events/events.rpy:309
@@ -6145,7 +5981,7 @@ translate russian sasha_scottie_threesome_c65c11e8:
     scottie.say "[lssb_sasha.hero_name()], вынимай! СЕЙЧАС!"
 
 # ch/sasha/events/events.rpy:508
-translate russian sasha_scottie_threesome_66aac1ae:
+translate russian sasha_scottie_threesome_25f5c9ea:
     "Стоп... что?!"
 
 # ch/sasha/events/events.rpy:509
@@ -6349,7 +6185,7 @@ translate russian sasha_birthday_date_male_7162d039:
     "Она встряхивает головой, словно возвращаясь к реальности."
 
 # ch/sasha/events/events.rpy:621
-translate russian sasha_birthday_date_male_a0571bad:
+translate russian sasha_birthday_date_male_50650cec:
     sasha.say "Д... да, [lssb_sasha.hero_name()]."
 
 # ch/sasha/events/events.rpy:622
@@ -6481,7 +6317,7 @@ translate russian sasha_birthday_date_male_a2de1db0:
     "Я беру бокал и поднимаю его."
 
 # ch/sasha/events/events.rpy:669
-translate russian sasha_birthday_date_male_460e9ec1:
+translate russian sasha_birthday_date_male_35f4a25b:
     mike.say "Эм... тост за именинницу!"
 
 # ch/sasha/events/events.rpy:670
@@ -6517,7 +6353,7 @@ translate russian sasha_birthday_date_male_ce5653ee:
     "А я наблюдаю за её лицом, пока она разворачивает подарок."
 
 # ch/sasha/events/events.rpy:687
-translate russian sasha_birthday_date_male_c3fcb148:
+translate russian sasha_birthday_date_male_32da0494:
     sasha.say "О... мой... бог!"
 
 # ch/sasha/events/events.rpy:688
@@ -6529,7 +6365,7 @@ translate russian sasha_birthday_date_male_73681acd:
     sasha.say "Как ты догадался?"
 
 # ch/sasha/events/events.rpy:690
-translate russian sasha_birthday_date_male_c5a67317:
+translate russian sasha_birthday_date_male_bbd08561:
     mike.say "То есть... тебе нравится?"
 
 # ch/sasha/events/events.rpy:691
@@ -6549,7 +6385,7 @@ translate russian sasha_birthday_date_male_601ee3c6:
     sasha.say "Ох..."
 
 # ch/sasha/events/events.rpy:699
-translate russian sasha_birthday_date_male_7e31c61c:
+translate russian sasha_birthday_date_male_8ac8a81c:
     sasha.say "Это... необычно!"
 
 # ch/sasha/events/events.rpy:700
@@ -6561,7 +6397,7 @@ translate russian sasha_birthday_date_male_772608ab:
     mike.say "Тебе не нравится?"
 
 # ch/sasha/events/events.rpy:702
-translate russian sasha_birthday_date_male_aabbbcc0:
+translate russian sasha_birthday_date_male_e44d4c3c:
     sasha.say "НЕТ... нет!"
 
 # ch/sasha/events/events.rpy:703
@@ -6597,7 +6433,7 @@ translate russian sasha_birthday_date_male_a2de1db0_1:
     "Я беру бокал и поднимаю его."
 
 # ch/sasha/events/events.rpy:715
-translate russian sasha_birthday_date_male_460e9ec1_1:
+translate russian sasha_birthday_date_male_35f4a25b_1:
     mike.say "Эм... тост за именинницу!"
 
 # ch/sasha/events/events.rpy:716
@@ -6689,7 +6525,7 @@ translate russian sasha_birthday_date_male_5d957299:
     mike.say "Значит, чизкейк достанется мне."
 
 # ch/sasha/events/events.rpy:749
-translate russian sasha_birthday_date_male_f59a64dc:
+translate russian sasha_birthday_date_male_63c514bc:
     sasha.say "Эм... серьёзно?"
 
 # ch/sasha/events/events.rpy:750
@@ -7009,7 +6845,7 @@ translate russian sasha_birthday_date_male_6258fa5f:
     sasha.say "Ну, на что играем?"
 
 # ch/sasha/events/events.rpy:887
-translate russian sasha_birthday_date_male_faa73636:
+translate russian sasha_birthday_date_male_016f56d5:
     mike.say "Эм... ради удовольствия?"
 
 # ch/sasha/events/events.rpy:889
@@ -7309,11 +7145,11 @@ translate russian sasha_birthday_date_male_d829043e:
     "После этого она уже готова закончить вечер."
 
 # ch/sasha/events/events.rpy:999
-translate russian sasha_birthday_date_male_54d99abd:
+translate russian sasha_birthday_date_male_109f21ca:
     mike.say "Эм... возьмём такси домой, Саша?"
 
 # ch/sasha/events/events.rpy:1001
-translate russian sasha_birthday_date_male_e751d374:
+translate russian sasha_birthday_date_male_7dc61829:
     sasha.say "Да, да... я вымоталась."
 
 # ch/sasha/events/events.rpy:1002
@@ -7417,7 +7253,7 @@ translate russian sasha_birthday_sex_3530cd2d:
     "Она прерывает поцелуй, почти задыхаясь."
 
 # ch/sasha/events/events.rpy:1045
-translate russian sasha_birthday_sex_e6297aae:
+translate russian sasha_birthday_sex_5e104b9e:
     sasha.say "Ха... ха..."
 
 # ch/sasha/events/events.rpy:1046
@@ -7425,7 +7261,7 @@ translate russian sasha_birthday_sex_0a7f3714:
     sasha.say "Я хочу его..."
 
 # ch/sasha/events/events.rpy:1047
-translate russian sasha_birthday_sex_477d9743:
+translate russian sasha_birthday_sex_e3ec6d1e:
     sasha.say "Дай мне... СЕЙЧАС!"
 
 # ch/sasha/events/events.rpy:1049
@@ -7521,11 +7357,11 @@ translate russian sasha_birthday_sex_a9921586:
     mike.say "Такой подарок на день рождения..."
 
 # ch/sasha/events/events.rpy:1077
-translate russian sasha_birthday_sex_cf51cd8c:
+translate russian sasha_birthday_sex_ddd8d480:
     mike.say "Нравится... а?"
 
 # ch/sasha/events/events.rpy:1080
-translate russian sasha_birthday_sex_61c15b3a:
+translate russian sasha_birthday_sex_2f537208:
     sasha.say "Ах... ах..."
 
 # ch/sasha/events/events.rpy:1081
@@ -7533,11 +7369,11 @@ translate russian sasha_birthday_sex_6a217b60:
     sasha.say "Да..."
 
 # ch/sasha/events/events.rpy:1082
-translate russian sasha_birthday_sex_f6eb10f0:
+translate russian sasha_birthday_sex_98a68d76:
     sasha.say "Мне... охренеть как нравится..."
 
 # ch/sasha/events/events.rpy:1083
-translate russian sasha_birthday_sex_ea4758b7:
+translate russian sasha_birthday_sex_4f8e5025:
     sasha.say "Вот бы... день рождения... был каждый день!"
 
 # ch/sasha/events/events.rpy:1084
@@ -7551,10 +7387,6 @@ translate russian sasha_birthday_sex_546de82a:
 # ch/sasha/events/events.rpy:1087
 translate russian sasha_birthday_sex_f0b147af:
     sasha.say "Пожалуйста, [lssb_sasha.hero_name()]..."
-
-# ch/sasha/events/events.rpy:1088
-translate russian sasha_birthday_sex_667438e4:
-    sasha.say "Наполни меня. Делай со мной что хочешь, я ведь была такой хорошей..."
 
 # ch/sasha/events/events.rpy:1090
 translate russian sasha_birthday_sex_f6dd61ba:
@@ -7613,7 +7445,7 @@ translate russian sasha_birthday_sex_db991642:
     "Я уже чувствую, как сперма начинает вытекать из неё."
 
 # ch/sasha/events/events.rpy:1118
-translate russian sasha_birthday_sex_c3965acd:
+translate russian sasha_birthday_sex_d6541668:
     sasha.say "Хех... теперь-то от этого вреда не будет, [lssb_sasha.hero_name()]."
 
 # ch/sasha/events/events.rpy:1119
@@ -7632,17 +7464,9 @@ translate russian sasha_birthday_sex_ebd197b1:
 translate russian sasha_birthday_sex_472198ac:
     sasha.say "Теперь он точно удался!"
 
-# ch/sasha/events/events.rpy:1128
-translate russian sasha_birthday_sex_82097c66:
-    sasha.say "...Только не зазнавайся, [lssb_sasha.hero_name()]."
-
 # ch/sasha/events/events.rpy:1129
 translate russian sasha_birthday_sex_6419a0c7:
     sasha.say "Но да. Лучший день рождения за последние годы. Благодаря тебе."
-
-# ch/sasha/events/events.rpy:1131
-translate russian sasha_birthday_sex_5b1fb4f6:
-    sasha.say "...Только не зазнавайся."
 
 # ch/sasha/events/events.rpy:1132
 translate russian sasha_birthday_sex_4e78d9f1:
@@ -7729,7 +7553,7 @@ translate russian sasha_bree_collar_reaction_aad66301:
     "Но всё же стараюсь выглядеть уверенно и невинно."
 
 # ch/sasha/events/events.rpy:1165
-translate russian sasha_bree_collar_reaction_ca21eb07:
+translate russian sasha_bree_collar_reaction_77945dcb:
     mike.say "Эм... ладно, Саша."
 
 # ch/sasha/events/events.rpy:1166
@@ -7757,7 +7581,7 @@ translate russian sasha_bree_collar_reaction_5fd92cfe:
     "Отрицать правду бессмысленно: мне от этого станет только хуже."
 
 # ch/sasha/events/events.rpy:1174
-translate russian sasha_bree_collar_reaction_b4500d64:
+translate russian sasha_bree_collar_reaction_345a7d8f:
     mike.say "Эм... да, да... это я ей купил."
 
 # ch/sasha/events/events.rpy:1175
@@ -7781,7 +7605,7 @@ translate russian sasha_bree_collar_reaction_33b40df0:
     "Я ведь приготовился к тому, что меня отчитают как последнего извращенца."
 
 # ch/sasha/events/events.rpy:1184
-translate russian sasha_bree_collar_reaction_6d6ee4c5:
+translate russian sasha_bree_collar_reaction_0ee4561a:
     "А она на самом деле... ревнует?!"
 
 # ch/sasha/events/events.rpy:1185
@@ -7837,7 +7661,7 @@ translate russian sasha_bree_collar_reaction_adcf7513:
     sasha.say "Позволить брать меня как захочешь. Главное, по-собачьи..."
 
 # ch/sasha/events/events.rpy:1206
-translate russian sasha_bree_collar_reaction_96bb5a54:
+translate russian sasha_bree_collar_reaction_3417cb54:
     mike.say "Ладно... ладно, Саша!"
 
 # ch/sasha/events/events.rpy:1207
@@ -7849,7 +7673,7 @@ translate russian sasha_bree_collar_reaction_33108480:
     sasha.say "То есть..."
 
 # ch/sasha/events/events.rpy:1211
-translate russian sasha_bree_collar_reaction_2a34309b:
+translate russian sasha_bree_collar_reaction_afc018c0:
     mike.say "Да... я куплю тебе собственный ошейник."
 
 # ch/sasha/events/events.rpy:1212
@@ -8616,10 +8440,6 @@ translate russian sasha_b_event_02_04be338b_1:
 translate russian sasha_b_event_03_6afe1ae1:
     "В «Винчестере» светлее, чем в большинстве баров, а местное радио с классическим роком играет достаточно тихо, чтобы не приходилось перекрикиваться. Люблю зайти сюда после работы: выпить и, возможно, вкусно поесть."
 
-# ch/sasha/events/events_male.rpy:1273
-translate russian sasha_b_event_03_7f261d85:
-    "Захожу и оглядываю столики. Маленьких круглых столов на двоих свободно немало. Затем смотрю в глубину зала, к бильярду, и замечаю пару знакомых прекрасных ног."
-
 # ch/sasha/events/events_male.rpy:1275
 translate russian sasha_b_event_03_31e7fedc:
     "Саша склонилась над бильярдным столом с кием в руке, готовясь к удару."
@@ -8703,18 +8523,6 @@ translate russian sasha_b_event_03_6fe85468:
 # ch/sasha/events/events_male.rpy:1327
 translate russian sasha_b_event_03_cf541502:
     "Мы идём к стойке, и я заказываю пиво подошедшей официантке."
-
-# ch/sasha/events/events_male.rpy:1332
-translate russian sasha_b_event_03_2d05f1e0:
-    "Я иду к стойке и заказываю пиво подошедшей официантке."
-
-# ch/sasha/events/events_male.rpy:1333
-translate russian sasha_b_event_03_f0355e04:
-    "Закончив партию и забрав пару долларов у парня, который слишком заглядывался на её ноги, чтобы хорошо играть, Саша поворачивается и замечает меня."
-
-# ch/sasha/events/events_male.rpy:1334
-translate russian sasha_b_event_03_5ecfcb17:
-    "Я дружелюбно машу рукой. Она возвращает кий на место и неспешно подходит."
 
 # ch/sasha/events/events_male.rpy:1337
 translate russian sasha_b_event_03_67a42365:
@@ -9069,11 +8877,11 @@ translate russian sasha_b_event_05_b20c9c0c:
     "Теперь неловко становится Саше."
 
 # ch/sasha/events/events_male.rpy:1529
-translate russian sasha_b_event_05_c970cfca:
+translate russian sasha_b_event_05_e5e44966:
     sasha.say "А... ясно... понимаю."
 
 # ch/sasha/events/events_male.rpy:1530
-translate russian sasha_b_event_05_154f3a72:
+translate russian sasha_b_event_05_5f1f87cf:
     sasha.say "Эм... это значит, что я только что испортила тебе момент?"
 
 # ch/sasha/events/events_male.rpy:1532
@@ -9101,7 +8909,7 @@ translate russian sasha_b_event_05_ceb7676b:
     sasha.say "То есть я тоже хорошо провела время."
 
 # ch/sasha/events/events_male.rpy:1539
-translate russian sasha_b_event_05_18fadafe:
+translate russian sasha_b_event_05_4c4a9f86:
     sasha.say "А не слишком много думаю... хотя, возможно, уже начинаю!"
 
 # ch/sasha/events/events_male.rpy:1541
@@ -9165,7 +8973,7 @@ translate russian sasha_b_event_05_1e864e9e:
     "Но надеюсь, что-нибудь хорошее!"
 
 # ch/sasha/events/events_male.rpy:1561
-translate russian sasha_b_event_05_14095b3a:
+translate russian sasha_b_event_05_d812d2ee:
     mike.say "Ты... правда так думаешь, Саша?"
 
 # ch/sasha/events/events_male.rpy:1563
@@ -9173,7 +8981,7 @@ translate russian sasha_b_event_05_5e53a7ec:
     sasha.say "Это как-то само вырвалось, я и подумать не успела."
 
 # ch/sasha/events/events_male.rpy:1564
-translate russian sasha_b_event_05_082d25f3:
+translate russian sasha_b_event_05_163956e8:
     sasha.say "Так что да... наверное, правда!"
 
 # ch/sasha/events/events_male.rpy:1566
@@ -9181,7 +8989,7 @@ translate russian sasha_b_event_05_155ab804:
     mike.say "Я тоже так думаю."
 
 # ch/sasha/events/events_male.rpy:1567
-translate russian sasha_b_event_05_023bc9f6:
+translate russian sasha_b_event_05_b6b1e7fa:
     mike.say "То есть... чувствую то же самое, Саша."
 
 # ch/sasha/events/events_male.rpy:1568
@@ -9201,7 +9009,7 @@ translate russian sasha_b_event_05_e302888e:
     sasha.say "Ты мне нравишься, [lssb_sasha.hero_name()]... очень."
 
 # ch/sasha/events/events_male.rpy:1574
-translate russian sasha_b_event_05_c5678cd4:
+translate russian sasha_b_event_05_fe5d172f:
     mike.say "И ты мне нравишься, Саша. Чертовски сильно!"
 
 # ch/sasha/events/events_male.rpy:1575
@@ -9289,7 +9097,7 @@ translate russian sasha_b_event_06_2c7a8748:
     "Опускаю на неё взгляд и гадаю, к чему она клонит."
 
 # ch/sasha/events/events_male.rpy:1612
-translate russian sasha_b_event_06_ca21eb07:
+translate russian sasha_b_event_06_77945dcb:
     mike.say "Эм... ладно, Саша."
 
 # ch/sasha/events/events_male.rpy:1613
@@ -9329,7 +9137,7 @@ translate russian sasha_b_event_06_5db6c5ce:
     mike.say "Но я ведь не один из них?"
 
 # ch/sasha/events/events_male.rpy:1628
-translate russian sasha_b_event_06_82ccafb6:
+translate russian sasha_b_event_06_4aef7543:
     sasha.say "Нет... нет, нет, нет!"
 
 # ch/sasha/events/events_male.rpy:1630
@@ -9521,7 +9329,7 @@ translate russian sasha_b_event_07_e98081c3:
     sasha.say "Что?"
 
 # ch/sasha/events/events_male.rpy:1696
-translate russian sasha_b_event_07_57b6f32a:
+translate russian sasha_b_event_07_b9e554c6:
     sasha.say "А... нет, нет."
 
 # ch/sasha/events/events_male.rpy:1698
@@ -9613,7 +9421,7 @@ translate russian sasha_b_event_07_feeefce9:
     "Но никогда специально не разбирался, любовь ли это!"
 
 # ch/sasha/events/events_male.rpy:1729
-translate russian sasha_b_event_07_6e021cde:
+translate russian sasha_b_event_07_007f3c09:
     mike.say "О... я..."
 
 # ch/sasha/events/events_male.rpy:1730
@@ -9637,7 +9445,7 @@ translate russian sasha_b_event_07_605e8977:
     sasha.say "Это я пыталась сказать тебе!"
 
 # ch/sasha/events/events_male.rpy:1738
-translate russian sasha_b_event_07_39ce77f4:
+translate russian sasha_b_event_07_60f04035:
     mike.say "Ч... что?!"
 
 # ch/sasha/events/events_male.rpy:1741
@@ -9964,10 +9772,6 @@ translate russian sasha_event_01_9b007353:
 translate russian sasha_event_01_0730f1c0:
     "Я останавливаюсь и не могу не смотреть, как Саша лежит там в бикини, которое обтягивает ее живот, ее обнаженная кожа блестит на солнце..."
 
-# ch/sasha/events/events_male.rpy:1879
-translate russian sasha_event_01_cd03b1e8:
-    "Беременная и развалилась у бассейна, как будто это ее собственное место. Что, зная ее, она, вероятно, и скажет."
-
 # ch/sasha/events/events_male.rpy:1881
 translate russian sasha_event_01_4ed92034:
     "Я останавливаюсь и не могу не смотреть, как Саша лежит там практически в чем угодно, только в своем крошечном бикини, ее обнаженная кожа блестит на солнце..."
@@ -10176,10 +9980,6 @@ translate russian sasha_event_01_9aa82720:
 translate russian sasha_event_01_0f3d84cc:
     "Она просто улыбается, легко и беззаботно, рада посмотреть, куда это приведет."
 
-# ch/sasha/events/events_male.rpy:1995
-translate russian sasha_event_01_8fa19411:
-    sasha.say "Не зазнавайся, [lssb_sasha.hero_name()]."
-
 # ch/sasha/events/events_male.rpy:1997
 translate russian sasha_event_01_d476add3:
     sasha.say "Ну, может быть, мы сможем что-нибудь сделать вместе, куда-нибудь сходить - есть ли здесь какие-нибудь хорошие места?"
@@ -10315,10 +10115,6 @@ translate russian sasha_event_03_26c577a1:
 # ch/sasha/events/events_male.rpy:2075
 translate russian sasha_event_03_b694ec70:
     sasha.say "Да. Да. Все, что ты хочешь."
-
-# ch/sasha/events/events_male.rpy:2080
-translate russian sasha_event_03_cc501fd5:
-    "Я беру ее за подбородок и целую ее страстно, и она тает, из ее рта вырывается тихий, беспомощный звук, который попадает мне в рот, когда она отдает себя мне полностью."
 
 # ch/sasha/events/events_male.rpy:2084
 translate russian sasha_event_03_ee7fd9fd:
@@ -11985,7 +11781,7 @@ translate russian sasha_practice_01_49c89343:
     "Анна и я старались не вмешиваться в их частые вспышки эмоций, но иногда их было просто невозможно игнорировать."
 
 # ch/sasha/events/events_male.rpy:2802
-translate russian sasha_practice_01_6ebaa520:
+translate russian sasha_practice_01_eb93f009:
     sasha.say "БЛЯХ...БЛЯХ...БЛЯХ!"
 
 # ch/sasha/events/events_male.rpy:2805
@@ -11993,7 +11789,7 @@ translate russian sasha_practice_01_6006f669:
     kleio.say "Да ладно, Саша, успокойся!"
 
 # ch/sasha/events/events_male.rpy:2807
-translate russian sasha_practice_01_42c55e2f:
+translate russian sasha_practice_01_a5b7be86:
     anna.say "Ого...Саша, ты в порядке?"
 
 # ch/sasha/events/events_male.rpy:2809
@@ -12013,7 +11809,7 @@ translate russian sasha_practice_01_39d94c50:
     "Она видит этот жест и улыбается в ответ, и, кажется, получает больше поддержки от моей молчаливой поддержки, чем от слов других девушек."
 
 # ch/sasha/events/events_male.rpy:2816
-translate russian sasha_practice_01_9d47d667:
+translate russian sasha_practice_01_6422d2dd:
     sasha.say "Давайте сделаем перерыв...Я просто хочу побыть одна в ванной."
 
 # ch/sasha/events/events_male.rpy:2818
@@ -12041,7 +11837,7 @@ translate russian sasha_practice_01_d8b02e40:
     mike.say "Эй, Саша, ты в порядке?"
 
 # ch/sasha/events/events_male.rpy:2834
-translate russian sasha_practice_01_b7c548a5:
+translate russian sasha_practice_01_255d8592:
     sasha.say "Да, просто жутко напряжена...как и все мы."
 
 # ch/sasha/events/events_male.rpy:2836
@@ -12061,11 +11857,11 @@ translate russian sasha_practice_01_5b06d860:
     mike.say "Просто хотел узнать, все ли у тебя хорошо."
 
 # ch/sasha/events/events_male.rpy:2846
-translate russian sasha_practice_01_6747f3a9:
+translate russian sasha_practice_01_982c9036:
     sasha.say "Лучше, чем было...Я на секунду подумала, что ты не придешь ко мне."
 
 # ch/sasha/events/events_male.rpy:2848
-translate russian sasha_practice_01_21421b8e:
+translate russian sasha_practice_01_7dc28302:
     mike.say "Извини...Я просто подумал, что тебе будет приятно немного побыть одной, после того, как ты так долго была с нами."
 
 # ch/sasha/events/events_male.rpy:2850
@@ -12089,11 +11885,11 @@ translate russian sasha_practice_01_48d54f78:
     sasha.say "Нет, но хотя бы теперь я злая, потому что сидела здесь одна в этой чертовой ванной комнате целую вечность, так что это хоть какая-то перемена!"
 
 # ch/sasha/events/events_male.rpy:2862
-translate russian sasha_practice_01_da4df4d9:
+translate russian sasha_practice_01_e8472437:
     mike.say "Постой-ка...ты хотела, чтобы я пришел быстрее?"
 
 # ch/sasha/events/events_male.rpy:2863
-translate russian sasha_practice_01_b781dc40:
+translate russian sasha_practice_01_2d6ea274:
     mike.say "Ой, прости...наверное, я неправильно понял ситуацию."
 
 # ch/sasha/events/events_male.rpy:2865
@@ -12149,7 +11945,7 @@ translate russian sasha_practice_01_a400fbd6:
     "Она не пытается возражать, и вскоре ее выражение лица становится более спокойным, когда она позволяет себе почувствовать пользу."
 
 # ch/sasha/events/events_male.rpy:2889
-translate russian sasha_practice_01_27bfac45:
+translate russian sasha_practice_01_3cf0ccc2:
     sasha.say "У нас, наверное, волшебные руки... теперь сделай и спину."
 
 # ch/sasha/events/events_male.rpy:2891
@@ -12181,11 +11977,11 @@ translate russian sasha_practice_01_a6356fb2:
     "Через пару минут она на самом деле выглядит заметно спокойнее, чем раньше."
 
 # ch/sasha/events/events_male.rpy:2904
-translate russian sasha_practice_01_121fd161:
+translate russian sasha_practice_01_53fa6f2e:
     sasha.say "Кажется, ты был прав... Это действительно помогло мне успокоиться."
 
 # ch/sasha/events/events_male.rpy:2906
-translate russian sasha_practice_01_b05d2fd4:
+translate russian sasha_practice_01_e0facf70:
     sasha.say "Спасибо тебе за это... кажется, это сработало."
 
 # ch/sasha/events/events_male.rpy:2908
@@ -12239,10 +12035,6 @@ translate russian sasha_practice_02_0b8c68e3:
 # ch/sasha/events/events_male.rpy:2933
 translate russian sasha_practice_02_4874b44c:
     anna.say "Мы хотим посмотреть, как ты выглядишь!"
-
-# ch/sasha/events/events_male.rpy:2934
-translate russian sasha_practice_02_ba735a4f:
-    kleio.say "Тебе нужна помощь с твоим трусиками, Любовь?"
 
 # ch/sasha/events/events_male.rpy:2935
 translate russian sasha_practice_02_13e191fc:
@@ -12384,10 +12176,6 @@ translate russian sasha_practice_02_23a7ed64:
 translate russian sasha_practice_02_db8e3f22:
     anna.say "Да, большинство парней, которых я знаю, никогда бы этого не сделали."
 
-# ch/sasha/events/events_male.rpy:3010
-translate russian sasha_practice_02_c427a550:
-    kleio.say "Они правы, Любовник, у тебя яйца!"
-
 # ch/sasha/events/events_male.rpy:3012
 translate russian sasha_practice_02_b2e81444:
     "Меня застали врасплох, когда услышал, как девушки говорят так после всех этих подколок."
@@ -12397,7 +12185,7 @@ translate russian sasha_practice_02_385c2369:
     "И я чувствую, как пожимаю плечами, даже немного краснею, когда они меня хвалят."
 
 # ch/sasha/events/events_male.rpy:3014
-translate russian sasha_practice_02_a2cf0693:
+translate russian sasha_practice_02_db90efbb:
     mike.say "Ну...я...я хотел попасть в группу."
 
 # ch/sasha/events/events_male.rpy:3015
@@ -12428,10 +12216,6 @@ translate russian sasha_practice_02_f690e9df:
 translate russian sasha_practice_02_5a458968:
     "Они подходят ближе, убеждаясь, что их никто не слышит."
 
-# ch/sasha/events/events_male.rpy:3033
-translate russian sasha_practice_02_68fc37df:
-    kleio.say "Я...я не думала, что ты это сделаешь, Любовник."
-
 # ch/sasha/events/events_male.rpy:3036
 translate russian sasha_practice_02_00cdf9c0:
     anna.say "Да, [lssb_sasha.hero_name()], у тебя такие большие яйца!"
@@ -12453,7 +12237,7 @@ translate russian sasha_practice_02_47672210:
     mike.say "Особенно если это значит, что я могу провести больше времени с вами обеими!"
 
 # ch/sasha/events/events_male.rpy:3043
-translate russian sasha_practice_02_39da1643:
+translate russian sasha_practice_02_3d5aa945:
     "Неужели... неужели Клео немного покраснела?!"
 
 # ch/sasha/events/events_male.rpy:3045
@@ -12520,10 +12304,6 @@ translate russian sasha_practice_02_92c7ea2b:
 translate russian sasha_practice_02_0acef6fa_1:
     "Она наклонилась ближе, чтобы нас никто не слышал."
 
-# ch/sasha/events/events_male.rpy:3081
-translate russian sasha_practice_02_68fc37df_1:
-    kleio.say "Я... я не думала, что ты на это решишься, Любовь."
-
 # ch/sasha/events/events_male.rpy:3082
 translate russian sasha_practice_02_448bb893:
     kleio.say "Но ты мне точно показала!"
@@ -12549,15 +12329,15 @@ translate russian sasha_practice_02_0150b21d:
     mike.say "И что я тоже предан тебе."
 
 # ch/sasha/events/events_male.rpy:3090
-translate russian sasha_practice_02_39da1643_1:
+translate russian sasha_practice_02_3d5aa945_1:
     "Неужели... неужели Клео немного покраснела?!"
 
 # ch/sasha/events/events_male.rpy:3092
-translate russian sasha_practice_02_67fd7e68:
+translate russian sasha_practice_02_3826aef9:
     kleio.say "Э... это... очень... горячо, [lssb_sasha.hero_name()]!"
 
 # ch/sasha/events/events_male.rpy:3093
-translate russian sasha_practice_02_65e6093e:
+translate russian sasha_practice_02_1461f48d:
     kleio.say "Ты хочешь... может быть, увидеться позже?"
 
 # ch/sasha/events/events_male.rpy:3100
@@ -13053,7 +12833,7 @@ translate russian sasha_scottie_talk_cdb85242:
     mike.say "О чем ты думаешь, Саша?"
 
 # ch/sasha/events/events_male.rpy:3313
-translate russian sasha_scottie_talk_857d8187:
+translate russian sasha_scottie_talk_0844f7ac:
     sasha.say "Хм... что, [lssb_sasha.hero_name()]?"
 
 # ch/sasha/events/events_male.rpy:3315
@@ -13073,7 +12853,7 @@ translate russian sasha_scottie_talk_8b404b1c:
     sasha.say "Это очень мило, [lssb_sasha.hero_name()], спасибо за предложение."
 
 # ch/sasha/events/events_male.rpy:3322
-translate russian sasha_scottie_talk_ee0f6462:
+translate russian sasha_scottie_talk_7c3c919c:
     sasha.say "Обычно я бы отказалась... но дело в проблемах с парнями."
 
 # ch/sasha/events/events_male.rpy:3323
@@ -13089,7 +12869,7 @@ translate russian sasha_scottie_talk_4eae9bc3:
     "Это ли шанс заглянуть в личную жизнь Саши?"
 
 # ch/sasha/events/events_male.rpy:3327
-translate russian sasha_scottie_talk_e7f03b55:
+translate russian sasha_scottie_talk_89484826:
     mike.say "Конечно, Саша... если ты думаешь, что это поможет."
 
 # ch/sasha/events/events_male.rpy:3328
@@ -13185,11 +12965,11 @@ translate russian sasha_scottie_talk_736f289e:
     "В этот момент, кажется, Саша смотрит в пустоту, словно образ, который он вызывает в ее памяти, настолько впечатляющ."
 
 # ch/sasha/events/events_male.rpy:3363
-translate russian sasha_scottie_talk_64052327:
+translate russian sasha_scottie_talk_c0eeb414:
     mike.say "Эм... может быть, если мы попробуем сосредоточиться на негативных моментах, которые ты упомянула, а не на позитивных, Саша?"
 
 # ch/sasha/events/events_male.rpy:3364
-translate russian sasha_scottie_talk_e4e41658:
+translate russian sasha_scottie_talk_b7ef5b9e:
     mike.say "Например... какая была реальная причина, по которой вы расстались с этим Скотти?"
 
 # ch/sasha/events/events_male.rpy:3366
@@ -13197,7 +12977,7 @@ translate russian sasha_scottie_talk_0efecc39:
     "Саша качает головой, что, кажется, возвращает ее к реальности, а затем пожимает плечами."
 
 # ch/sasha/events/events_male.rpy:3368
-translate russian sasha_scottie_talk_c2f1022e:
+translate russian sasha_scottie_talk_412eac5f:
     sasha.say "Я не знаю... наверное, он просто был таким бессердечным и тупым иногда, понимаешь - просто полный идиот."
 
 # ch/sasha/events/events_male.rpy:3370
@@ -13653,7 +13433,7 @@ translate russian sasha_scottie_bj_e5f302cc:
     "Часто ее рука касается ее собственных губ, и, кажется, она полна решимости выжать из него все, что только можно."
 
 # ch/sasha/events/events_male.rpy:3536
-translate russian sasha_scottie_bj_99412639:
+translate russian sasha_scottie_bj_4301886f:
     scottie.say "О, блин, Саша... я сейчас кончу!"
 
 # ch/sasha/events/events_male.rpy:3537
@@ -13669,7 +13449,7 @@ translate russian sasha_scottie_bj_59b11e5f:
     "Что он скажет дальше?"
 
 # ch/sasha/events/events_male.rpy:3540
-translate russian sasha_scottie_bj_5c873633:
+translate russian sasha_scottie_bj_1a2094e5:
     "\"Божественно\"... \"круто\"... \"офигенно\"?"
 
 # ch/sasha/events/events_male.rpy:3545
@@ -13761,7 +13541,7 @@ translate russian sasha_threesome_request_9c881aba:
     "Но потом она пожимает плечами, как будто сдается."
 
 # ch/sasha/events/events_male.rpy:3590
-translate russian sasha_threesome_request_796b70a3:
+translate russian sasha_threesome_request_10a7becb:
     sasha.say "Хорошо, хорошо... я скажу."
 
 # ch/sasha/events/events_male.rpy:3591
@@ -13785,7 +13565,7 @@ translate russian sasha_threesome_request_87a20f71:
     "Саша делает глубокий вдох, прежде чем выполнить мою просьбу."
 
 # ch/sasha/events/events_male.rpy:3598
-translate russian sasha_threesome_request_ad6a9d48:
+translate russian sasha_threesome_request_b42d1fe6:
     sasha.say "Ну... дело в том... я немного гадала, не захочешь ли ты... может быть, попробовать что-нибудь втроем в ближайшее время?"
 
 # ch/sasha/events/events_male.rpy:3600
@@ -13801,7 +13581,7 @@ translate russian sasha_threesome_request_39458d1a:
     mike.say "Почему ты вообще стесняешься меня об этом спрашивать?"
 
 # ch/sasha/events/events_male.rpy:3604
-translate russian sasha_threesome_request_e6374a05:
+translate russian sasha_threesome_request_46dc5e5f:
     sasha.say "А... ты иногда можешь быть таким... обычным, знаешь?"
 
 # ch/sasha/events/events_male.rpy:3605
@@ -13845,7 +13625,7 @@ translate russian sasha_threesome_request_3af196bf:
     "Постой-ка... она только что сказала \"парень\"?!"
 
 # ch/sasha/events/events_male.rpy:3622
-translate russian sasha_threesome_request_303006b7:
+translate russian sasha_threesome_request_bee18a85:
     mike.say "Стоп, стоп, стоп... Саша, что ты имеешь в виду, когда говоришь, что у тебя есть какой-то ПАРЕНЬ в виду?"
 
 # ch/sasha/events/events_male.rpy:3624
@@ -13885,7 +13665,7 @@ translate russian sasha_threesome_request_b386e826:
     sasha.say "Знаешь, отличная фигура и просто огромный..."
 
 # ch/sasha/events/events_male.rpy:3638
-translate russian sasha_threesome_request_e4700cc7:
+translate russian sasha_threesome_request_f13a13fc:
     mike.say "САША... это совсем не помогает мне проникнуться этой идеей!"
 
 # ch/sasha/events/events_male.rpy:3640
@@ -13897,7 +13677,7 @@ translate russian sasha_threesome_request_4c0cb6e7:
     sasha.say "Мы даже можем сразу договориться, что ни при каких обстоятельствах он не должен засовывать свой член тебе в задницу."
 
 # ch/sasha/events/events_male.rpy:3643
-translate russian sasha_threesome_request_3ef33c41:
+translate russian sasha_threesome_request_b8a753eb:
     mike.say "Нет, Саша... Н...Е...Т... Ты меня понимаешь?"
 
 # ch/sasha/events/events_male.rpy:3645
@@ -13905,7 +13685,7 @@ translate russian sasha_threesome_request_fb393cc0:
     "Саша вздыхает с раздражением и тут же начинает обижаться."
 
 # ch/sasha/events/events_male.rpy:3647
-translate russian sasha_threesome_request_a909f4b9:
+translate russian sasha_threesome_request_12dce12e:
     sasha.say "Ну, ладно, [lssb_sasha.hero_name()]."
 
 # ch/sasha/events/events_male.rpy:3648
@@ -14036,20 +13816,16 @@ translate russian sasha_likes_blondes_1_00244c16:
 translate russian sasha_likes_blondes_1_8008cf56:
     "Когда [bree.name] встает, я чувствую необходимость как-то смягчить тяжесть моего проступка."
 
-# ch/sasha/events/events_male.rpy:3703
-translate russian sasha_likes_blondes_1_79e8a245:
-    mike.say "Ты что-то сделала со своими волосами, [bree.name]?"
-
 # ch/sasha/events/events_male.rpy:3705
-translate russian sasha_likes_blondes_1_1ad4ba9f:
+translate russian sasha_likes_blondes_1_d006d04d:
     bree.say "Эм, нет...просто помыла их, как обычно, для вечера дома."
 
 # ch/sasha/events/events_male.rpy:3707
-translate russian sasha_likes_blondes_1_827ddbd1:
+translate russian sasha_likes_blondes_1_26846fe7:
     mike.say "Ну, что бы ты ни сделала...выглядит неплохо."
 
 # ch/sasha/events/events_male.rpy:3709
-translate russian sasha_likes_blondes_1_0a065d6b:
+translate russian sasha_likes_blondes_1_055a51e5:
     bree.say "Хорошо...спасибо, [lssb_sasha.hero_name()]...наверное."
 
 # ch/sasha/events/events_male.rpy:3711
@@ -14065,7 +13841,7 @@ translate russian sasha_likes_blondes_1_f62beb88:
     "[bree.name] зевает немного позже, и все остальные начинают зевать."
 
 # ch/sasha/events/events_male.rpy:3717
-translate russian sasha_likes_blondes_1_ad3bc793:
+translate russian sasha_likes_blondes_1_35048b2a:
     bree.say "Ладно...я иду спать, пока я не уснула прямо здесь на диване!"
 
 # ch/sasha/events/events_male.rpy:3719
@@ -14085,7 +13861,7 @@ translate russian sasha_likes_blondes_1_a32b2636:
     sasha.say "[lssb_sasha.hero_name()]... я слышала, как ты недавно похвалил волосы [bree.name]."
 
 # ch/sasha/events/events_male.rpy:3727
-translate russian sasha_likes_blondes_1_2a9c4ace:
+translate russian sasha_likes_blondes_1_defb4e30:
     mike.say "А...да?"
 
 # ch/sasha/events/events_male.rpy:3728
@@ -14097,7 +13873,7 @@ translate russian sasha_likes_blondes_1_c87b6b80:
     "Она же сидела рядом со мной в это время!"
 
 # ch/sasha/events/events_male.rpy:3731
-translate russian sasha_likes_blondes_1_e75c6a9f:
+translate russian sasha_likes_blondes_1_9424fad4:
     sasha.say "Это может прозвучать глупо...но ты предпочитаешь блондинок, или что-то в этом роде?"
 
 # ch/sasha/events/events_male.rpy:3733
@@ -14161,11 +13937,11 @@ translate russian sasha_likes_blondes_1_16922f9d:
     "Саша слегка кивает."
 
 # ch/sasha/events/events_male.rpy:3758
-translate russian sasha_likes_blondes_1_a2d1835f:
+translate russian sasha_likes_blondes_1_eaeb731b:
     sasha.say "Хочешь попробовать быть не-блондинкой... это тоже иногда бывает непросто."
 
 # ch/sasha/events/events_male.rpy:3760
-translate russian sasha_likes_blondes_1_f3a740c1:
+translate russian sasha_likes_blondes_1_1572318a:
     mike.say "Так что да... наверное, мне нравятся блондинки."
 
 # ch/sasha/events/events_male.rpy:3761
@@ -14221,7 +13997,7 @@ translate russian sasha_likes_blondes_1_fe1ef4a2:
     "Саша морщит лицо в притворном ужасе."
 
 # ch/sasha/events/events_male.rpy:3784
-translate russian sasha_likes_blondes_1_0f57fc9d:
+translate russian sasha_likes_blondes_1_f3127fb7:
     sasha.say "Но если тебя не интересовали волосы [bree.name]... значит, ты разглядывал её задницу!"
 
 # ch/sasha/events/events_male.rpy:3785
@@ -14259,10 +14035,6 @@ translate russian sasha_likes_blondes_2_4a63aaeb:
 # ch/sasha/events/events_male.rpy:3802
 translate russian sasha_likes_blondes_2_bd5a78a8:
     "Но, в мою защиту, у меня тяжелая работа, мой босс – абсолютный придурок, и моя личная жизнь сейчас тоже не самая безоблачная."
-
-# ch/sasha/events/events_male.rpy:3804
-translate russian sasha_likes_blondes_2_b3a28cbe:
-    "Поэтому, когда кто-то уверенно входит в гостиную и, кажется, сам себя представляет для осмотра, мне нужно несколько секунд, чтобы прийти в себя."
 
 # ch/sasha/events/events_male.rpy:3806
 translate russian sasha_likes_blondes_2_f65a41ec:
@@ -14329,7 +14101,7 @@ translate russian sasha_likes_blondes_2_9a88263d:
     "От прежнего цвета остался лишь намек темноты у корней."
 
 # ch/sasha/events/events_male.rpy:3828
-translate russian sasha_likes_blondes_2_8772ab7a:
+translate russian sasha_likes_blondes_2_7c611ece:
     mike.say "Вау... это действительно довольно... довольно серьезное изменение!"
 
 # ch/sasha/events/events_male.rpy:3830
@@ -14349,7 +14121,7 @@ translate russian sasha_likes_blondes_2_9d3e9301:
     sasha.say "Я надеялась на что-то вроде \"черт возьми\" или что-то подобное, хотя бы!"
 
 # ch/sasha/events/events_male.rpy:3836
-translate russian sasha_likes_blondes_2_48a698e8:
+translate russian sasha_likes_blondes_2_25e6ec15:
     mike.say "Извини... просто это немного неожиданно, вот и все."
 
 # ch/sasha/events/events_male.rpy:3838
@@ -14365,7 +14137,7 @@ translate russian sasha_likes_blondes_2_8e442529:
     sasha.say "Ну, теперь, когда у тебя была возможность осознать эту сумасшедшую новость – тебе это нравится или нет?"
 
 # ch/sasha/events/events_male.rpy:3846
-translate russian sasha_likes_blondes_2_2501af52:
+translate russian sasha_likes_blondes_2_3ef9d175:
     mike.say "Эм... ну... не очень."
 
 # ch/sasha/events/events_male.rpy:3849
@@ -14373,7 +14145,7 @@ translate russian sasha_likes_blondes_2_9e23da93:
     sasha.say "ЧТО?!"
 
 # ch/sasha/events/events_male.rpy:3851
-translate russian sasha_likes_blondes_2_c5bf3911:
+translate russian sasha_likes_blondes_2_7efb73fd:
     mike.say "Ну... я думаю, это, вероятно, не то, что ты хотела услышать... и что уже слишком поздно менять свой ответ."
 
 # ch/sasha/events/events_male.rpy:3853
@@ -14405,7 +14177,7 @@ translate russian sasha_likes_blondes_2_5907b0f1:
     "Кажется, гнев Саши утихает и переходит в раздраженное недовольство, пока она обдумывает этот важный факт."
 
 # ch/sasha/events/events_male.rpy:3864
-translate russian sasha_likes_blondes_2_6c5e4717:
+translate russian sasha_likes_blondes_2_280251a3:
     sasha.say "Я... я просто думала, тебе понравится... что так я буду больше в твоём вкусе."
 
 # ch/sasha/events/events_male.rpy:3866
@@ -14425,7 +14197,7 @@ translate russian sasha_likes_blondes_2_23d579f3:
     "Саша смотрит на меня вбок, пытаясь понять мой последний комментарий."
 
 # ch/sasha/events/events_male.rpy:3871
-translate russian sasha_likes_blondes_2_6217a6d1:
+translate russian sasha_likes_blondes_2_607313a5:
     mike.say "Может быть, это плохая метафора... но я пытаюсь сказать, что мне не нужно, чтобы ты менялась, чтобы я оставался заинтересованным в тебе."
 
 # ch/sasha/events/events_male.rpy:3873
@@ -14433,7 +14205,7 @@ translate russian sasha_likes_blondes_2_bdfa9f2d:
     sasha.say "Мог бы выразиться поконкретнее."
 
 # ch/sasha/events/events_male.rpy:3875
-translate russian sasha_likes_blondes_2_bf5172e8:
+translate russian sasha_likes_blondes_2_d1f374be:
     sasha.say "Боже мой... на это уйдут месяцы, чтобы отрасло!"
 
 # ch/sasha/events/events_male.rpy:3877
@@ -14461,7 +14233,7 @@ translate russian sasha_likes_blondes_2_bdd508b7:
     sasha.say "Не волнуйся, мне, наверное, придется просто дождаться, пока волосы отрастут."
 
 # ch/sasha/events/events_male.rpy:3892
-translate russian sasha_likes_blondes_2_6b94bb23:
+translate russian sasha_likes_blondes_2_c976c923:
     mike.say "Мне это нравится, Саша... мне это очень нравится!"
 
 # ch/sasha/events/events_male.rpy:3894
@@ -14557,7 +14329,7 @@ translate russian sasha_likes_blondes_2_ffcfd11d:
     mike.say "Я, наверное, пытаюсь сказать, что это больше панк-рок, чем поп – больше Джоан Джетт, чем Джоан Риверс."
 
 # ch/sasha/events/events_male.rpy:3926
-translate russian sasha_likes_blondes_2_8f2446c5:
+translate russian sasha_likes_blondes_2_3d036b37:
     mike.say "Это... это заставляет тебя чувствовать себя по-другому?"
 
 # ch/sasha/events/events_male.rpy:3927
@@ -14565,7 +14337,7 @@ translate russian sasha_likes_blondes_2_ef4b5304:
     mike.say "Это заставляет тебя чувствовать себя более грязной, Саша?"
 
 # ch/sasha/events/events_male.rpy:3929
-translate russian sasha_likes_blondes_2_db989997:
+translate russian sasha_likes_blondes_2_7f0daded:
     sasha.say "Я не знаю... но, может быть, есть способ это выяснить?"
 
 # ch/sasha/events/events_male.rpy:3932
@@ -14579,10 +14351,6 @@ translate russian sasha_likes_blondes_2_26a0f70a:
 # ch/sasha/events/events_male.rpy:3934
 translate russian sasha_likes_blondes_2_55c66718:
     "Но я все еще не совсем уверен, какой из них только что произошел в моей собственной жизни."
-
-# ch/sasha/events/events_male.rpy:3942
-translate russian sasha_breast_complex_1_0c4d3c7f:
-    "Я едва успеваю добраться до дивана, как валюсь на него и издаю стон от полного изнеможения."
 
 # ch/sasha/events/events_male.rpy:3943
 translate russian sasha_breast_complex_1_d82b000a:
@@ -14629,7 +14397,7 @@ translate russian sasha_breast_complex_1_e84ffc6f:
     mike.say "Что?"
 
 # ch/sasha/events/events_male.rpy:3958
-translate russian sasha_breast_complex_1_c1db4327:
+translate russian sasha_breast_complex_1_ed7588eb:
     mike.say "О... это?"
 
 # ch/sasha/events/events_male.rpy:3959
@@ -14637,7 +14405,7 @@ translate russian sasha_breast_complex_1_5308ea1a:
     "Я поднимаю журнал, стараясь казаться невозмутимым."
 
 # ch/sasha/events/events_male.rpy:3960
-translate russian sasha_breast_complex_1_72238c46:
+translate russian sasha_breast_complex_1_19a15889:
     mike.say "Да нет, это просто журнал Сэм, она, наверное, забыла его... Я просто смотрел картинки, все."
 
 # ch/sasha/events/events_male.rpy:3962
@@ -14645,7 +14413,7 @@ translate russian sasha_breast_complex_1_274f988f:
     sasha.say "Да ладно, ты что, слишком труслива, чтобы смотреть настоящую порнографию?"
 
 # ch/sasha/events/events_male.rpy:3964
-translate russian sasha_breast_complex_1_23801b92:
+translate russian sasha_breast_complex_1_b7d10324:
     mike.say "Нет... просто здесь есть несколько интересных и познавательных статей."
 
 # ch/sasha/events/events_male.rpy:3965
@@ -14653,7 +14421,7 @@ translate russian sasha_breast_complex_1_ce8f8de1:
     "Саша поднимает брови в вопрошающем удивление."
 
 # ch/sasha/events/events_male.rpy:3966
-translate russian sasha_breast_complex_1_3fd0517a:
+translate russian sasha_breast_complex_1_a455ac61:
     mike.say "Правда, есть... например, вот эта: \"Ваш бюстгальтер слишком мал и вредит вам?\""
 
 # ch/sasha/events/events_male.rpy:3967
@@ -14661,7 +14429,7 @@ translate russian sasha_breast_complex_1_2398b837:
     "Саша продолжает смотреть на меня, очевидно, ей нравится наблюдать, как я нервничаю и вляпываюсь."
 
 # ch/sasha/events/events_male.rpy:3968
-translate russian sasha_breast_complex_1_da386b2a:
+translate russian sasha_breast_complex_1_1d6c6da1:
     mike.say "Ну... не то чтобы последняя статья была бы тебе интересна..."
 
 # ch/sasha/events/events_male.rpy:3971
@@ -14669,7 +14437,7 @@ translate russian sasha_breast_complex_1_1699898f:
     sasha.say "ЧТО, ЧЕРТ ВОЗЬМИ?!"
 
 # ch/sasha/events/events_male.rpy:3972
-translate russian sasha_breast_complex_1_ed6210c9:
+translate russian sasha_breast_complex_1_5a381525:
     mike.say "Эм... извините?"
 
 # ch/sasha/events/events_male.rpy:3974
@@ -14765,7 +14533,7 @@ translate russian sasha_breast_complex_2_69d0c850:
     "Или, по крайней мере, она собиралась, пока не поняла, что я просто разглядываю [bree.name] в ее купальнике, плавающую в бассейне."
 
 # ch/sasha/events/events_male.rpy:4014
-translate russian sasha_breast_complex_2_507ada62:
+translate russian sasha_breast_complex_2_1e8460ab:
     mike.say "Конечно, Саша... э-э, похоже, [bree.name] останется в воде, так что мне нужен кто-то, с кем можно поговорить."
 
 # ch/sasha/events/events_male.rpy:4015
@@ -14885,7 +14653,7 @@ translate russian sasha_breast_complex_2_7aada605:
     "Никаких скрытых ловушек или подводных камней, значит!"
 
 # ch/sasha/events/events_male.rpy:4075
-translate russian sasha_breast_complex_2_1b97dce5:
+translate russian sasha_breast_complex_2_203876b6:
     mike.say "Думаю, да...ей-то."
 
 # ch/sasha/events/events_male.rpy:4077
@@ -14905,7 +14673,7 @@ translate russian sasha_breast_complex_2_0131ffb6:
     "Осторожно!"
 
 # ch/sasha/events/events_male.rpy:4084
-translate russian sasha_breast_complex_2_ca156606:
+translate russian sasha_breast_complex_2_2a7799fe:
     mike.say "Я не знаю об этом...но она определенно не смогла бы это носить в обратном порядке."
 
 # ch/sasha/events/events_male.rpy:4086
@@ -14937,7 +14705,7 @@ translate russian sasha_breast_complex_3_8a876d66:
     sasha.say "ЭЙ! Ты никогда не слышал о том, чтобы стучать в дверь?"
 
 # ch/sasha/events/events_male.rpy:4103
-translate russian sasha_breast_complex_3_a0309cbf:
+translate russian sasha_breast_complex_3_1d8d2ecf:
     mike.say "Что...хм...о, извини...я, наверное, должен был постучать, ты права."
 
 # ch/sasha/events/events_male.rpy:4105
@@ -14993,7 +14761,7 @@ translate russian sasha_breast_complex_3_f0819230:
     sasha.say "Не хочу показаться странной, но почему твои глаза всегда так сильно притягиваются именно к моей заднице?"
 
 # ch/sasha/events/events_male.rpy:4126
-translate russian sasha_breast_complex_3_a2fedd88:
+translate russian sasha_breast_complex_3_d793ce67:
     mike.say "Эм...потому что я парень, и у тебя отличная задница?"
 
 # ch/sasha/events/events_male.rpy:4128
@@ -15013,7 +14781,7 @@ translate russian sasha_breast_complex_3_80f2e57e:
     "Я думаю, я слишком занят тем, что делаю это, чтобы слишком сильно об этом беспокоиться."
 
 # ch/sasha/events/events_male.rpy:4134
-translate russian sasha_breast_complex_3_614a3c10:
+translate russian sasha_breast_complex_3_187ccae6:
     sasha.say "Я думаю, что я имею в виду...тебе не нравятся мои груди?"
 
 # ch/sasha/events/events_male.rpy:4136
@@ -15021,11 +14789,11 @@ translate russian sasha_breast_complex_3_b8a1c31f:
     "Этот вопрос кажется таким странным, что я тоже не могу на него ответить."
 
 # ch/sasha/events/events_male.rpy:4138
-translate russian sasha_breast_complex_3_ce768a13:
+translate russian sasha_breast_complex_3_4f61950e:
     sasha.say "Я знаю, что большинство парней должны любить большие, но я думала, что, может быть, тебе нравятся мои...хотя они довольно маленькие?"
 
 # ch/sasha/events/events_male.rpy:4142
-translate russian sasha_breast_complex_3_4c2b0f6a:
+translate russian sasha_breast_complex_3_b48e5c31:
     mike.say "Саша, твои груди просто потрясающие...они заставляют меня хотеть прикоснуться к ним, когда я на них смотрю."
 
 # ch/sasha/events/events_male.rpy:4144
@@ -15101,19 +14869,19 @@ translate russian sasha_breast_complex_3_5d73c29e:
     mike.say "Ну, не пойми меня неправильно, но ты же хотела, чтобы я был честен, верно?"
 
 # ch/sasha/events/events_male.rpy:4175
-translate russian sasha_breast_complex_3_923cd384:
+translate russian sasha_breast_complex_3_66518dcf:
     sasha.say "Да... наверное."
 
 # ch/sasha/events/events_male.rpy:4177
-translate russian sasha_breast_complex_3_66452632:
+translate russian sasha_breast_complex_3_ca5c4167:
     mike.say "Дело в том, что, хотя они отличные, мне, в принципе, больше нравятся большие груди... обычно."
 
 # ch/sasha/events/events_male.rpy:4179
-translate russian sasha_breast_complex_3_0e4b9974:
+translate russian sasha_breast_complex_3_8ada508a:
     sasha.say "О... значит, ты думаешь, что у меня... слишком маленькая?"
 
 # ch/sasha/events/events_male.rpy:4181
-translate russian sasha_breast_complex_3_4858913e:
+translate russian sasha_breast_complex_3_53694e4b:
     mike.say "Нет, нет, я не это имею в виду... ну, в какой-то степени, да, но не... если ты понимаешь, о чем я?"
 
 # ch/sasha/events/events_male.rpy:4183
@@ -15169,11 +14937,11 @@ translate russian sasha_breast_complex_4_54a9cb57:
     sasha.say "Ну, во-первых, я хотела извиниться за то, что вела себя странно и была на тебя зла в последние несколько дней."
 
 # ch/sasha/events/events_male.rpy:4212
-translate russian sasha_breast_complex_4_bbd7cb31:
+translate russian sasha_breast_complex_4_447b781d:
     mike.say "А, я понял... ты имеешь в виду..."
 
 # ch/sasha/events/events_male.rpy:4214
-translate russian sasha_breast_complex_4_14207701:
+translate russian sasha_breast_complex_4_457b112a:
     sasha.say "Да, да... про размер моей груди."
 
 # ch/sasha/events/events_male.rpy:4216
@@ -15197,7 +14965,7 @@ translate russian sasha_breast_complex_4_53e48670:
     mike.say "Особенно, когда это была ты, которая просила меня быть честным!"
 
 # ch/sasha/events/events_male.rpy:4225
-translate russian sasha_breast_complex_4_a321920d:
+translate russian sasha_breast_complex_4_c735d0e9:
     sasha.say "Я знаю... прости, что была такой несправедливой."
 
 # ch/sasha/events/events_male.rpy:4227
@@ -15305,7 +15073,7 @@ translate russian sasha_breast_complex_4_d661feac:
     "Я слышу вопрос в ее голосе, но меня больше интересует то, как сейчас напрягаются ее соски, чем ответ на этот вопрос."
 
 # ch/sasha/events/events_male.rpy:4275
-translate russian sasha_breast_complex_4_9f98b3d8:
+translate russian sasha_breast_complex_4_16ce3951:
     sasha.say "[lssb_sasha.hero_name()]...просто...эм...я хотела узнать, не мог бы ты...помочь мне с оплатой?"
 
 # ch/sasha/events/events_male.rpy:4277
@@ -15325,7 +15093,7 @@ translate russian sasha_breast_complex_4_4583118e:
     mike.say "А потом ты дразнишь меня своей грудью и пытаешься вытянуть из меня деньги!"
 
 # ch/sasha/events/events_male.rpy:4286
-translate russian sasha_breast_complex_4_9908bb54:
+translate russian sasha_breast_complex_4_913789cc:
     sasha.say "Я...нет...это не так!"
 
 # ch/sasha/events/events_male.rpy:4288
@@ -15337,7 +15105,7 @@ translate russian sasha_breast_complex_4_9fbaa5b7:
     mike.say "Это бы показало, что ты действительно сожалеешь."
 
 # ch/sasha/events/events_male.rpy:4291
-translate russian sasha_breast_complex_4_9ace5ed9:
+translate russian sasha_breast_complex_4_83cf3691:
     sasha.say "Эм...ну...наверное, так."
 
 # ch/sasha/events/events_male.rpy:4295
@@ -15357,7 +15125,7 @@ translate russian sasha_breast_complex_4_460a0c64:
     "Выражение лица Саши показывает удивление от моего признания, но также и некоторое облегчение."
 
 # ch/sasha/events/events_male.rpy:4303
-translate russian sasha_breast_complex_4_11e2f352:
+translate russian sasha_breast_complex_4_9c8a0860:
     sasha.say "Но...но я думала, ты говорил, что тебе нравятся большие груди, больше, чем мои?"
 
 # ch/sasha/events/events_male.rpy:4305
@@ -15373,7 +15141,7 @@ translate russian sasha_breast_complex_4_baf6d2b4:
     sasha.say "Правда?"
 
 # ch/sasha/events/events_male.rpy:4310
-translate russian sasha_breast_complex_4_7fdb65d7:
+translate russian sasha_breast_complex_4_21f4e6cb:
     mike.say "Да...как такая огромная пара \"пельмешек\" может стоять так прямо, как твои сейчас?"
 
 # ch/sasha/events/events_male.rpy:4312
@@ -15584,12 +15352,8 @@ translate russian sasha_breast_complex_5_bfa8341b:
 translate russian sasha_breast_complex_5_2b351ac5:
     "Все это время Саша тяжело дышит и стонет, как будто ощущение моего члена возбуждает ее так же, как ее грудь возбуждает меня."
 
-# ch/sasha/events/events_male.rpy:4406
-translate russian sasha_breast_complex_5_f546d044:
-    sasha.say "Они твои, [lssb_sasha.hero_name()]...я твоя. Используй их как хочешь, я просто хочу быть хорошей для тебя."
-
 # ch/sasha/events/events_male.rpy:4408
-translate russian sasha_breast_complex_5_c4aa963a:
+translate russian sasha_breast_complex_5_40869817:
     sasha.say "Ммм...тебе нравится твоя новая игрушка? Ну же, скажи мне, что тебе она нравится, [lssb_sasha.hero_name()]."
 
 # ch/sasha/events/events_male.rpy:4410
@@ -15605,7 +15369,7 @@ translate russian sasha_breast_complex_5_63f096dc:
     sasha.say "Неплохо, да? Поставь, ты никогда не думал, что тебе так повезет."
 
 # ch/sasha/events/events_male.rpy:4417
-translate russian sasha_breast_complex_5_4bc6c501:
+translate russian sasha_breast_complex_5_c8267af5:
     sasha.say "Эм...эм, [lssb_sasha.hero_name()]...пожалуйста...могу ли я..."
 
 # ch/sasha/events/events_male.rpy:4418
@@ -15613,7 +15377,7 @@ translate russian sasha_breast_complex_5_2ebcadc2:
     mike.say "Говори громче!"
 
 # ch/sasha/events/events_male.rpy:4419
-translate russian sasha_breast_complex_5_45d49dda:
+translate russian sasha_breast_complex_5_8efbb633:
     sasha.say "[lssb_sasha.hero_name()]...пожалуйста...могу ли я...потрогать себя?"
 
 # ch/sasha/events/events_male.rpy:4420
@@ -15645,11 +15409,11 @@ translate russian sasha_breast_complex_5_9b6aed50:
     "Она находится в серьезной опасности, что может закончить меня в любой момент, но теперь я не могу отвести взгляд от привлекательной картины ее открытых, приоткрытых губ."
 
 # ch/sasha/events/events_male.rpy:4431
-translate russian sasha_breast_complex_5_991b1a34:
+translate russian sasha_breast_complex_5_ddc2cdf3:
     mike.say "Саша, возьми меня в рот... сейчас."
 
 # ch/sasha/events/events_male.rpy:4433
-translate russian sasha_breast_complex_5_6d554fa5:
+translate russian sasha_breast_complex_5_b8ba5ac1:
     sasha.say "Ухх...да, да...[lssb_sasha.hero_name()]!"
 
 # ch/sasha/events/events_male.rpy:4435
@@ -15689,7 +15453,7 @@ translate russian sasha_breast_complex_5_11507694:
     "Саша послушно открывает рот, позволяя мне увидеть сперму, все еще находящуюся на ее языке."
 
 # ch/sasha/events/events_male.rpy:4460
-translate russian sasha_breast_complex_5_6dfcdd12:
+translate russian sasha_breast_complex_5_8c2857f3:
     mike.say "Очень хорошо...теперь ты можешь проглотить это."
 
 # ch/sasha/events/events_male.rpy:4461
@@ -15707,10 +15471,6 @@ translate russian sasha_breast_complex_5_d24fe26e:
 # ch/sasha/events/events_male.rpy:4468
 translate russian sasha_breast_complex_5_f09ddfb6:
     "Она не пытается прикрыть свою грудь, которая все еще влажная от смеси пота и смазки."
-
-# ch/sasha/events/events_male.rpy:4470
-translate russian sasha_breast_complex_5_1fb709f1:
-    "Одна из ее рук ложится на выпуклость ее живота, и она ловит мой взгляд, приподнимая брови, как будто бросает мне вызов."
 
 # ch/sasha/events/events_male.rpy:4471
 translate russian sasha_breast_complex_5_ebb36533:
@@ -15989,7 +15749,7 @@ translate russian sasha_preg_talk_137e14a1:
     "Я отвечаю ей тем же вопросительным взглядом, не выдавая, что я уже это предвидел."
 
 # ch/sasha/events/events_male.rpy:4652
-translate russian sasha_preg_talk_0ed780bf:
+translate russian sasha_preg_talk_e09cf4b8:
     sasha.say "Ну...ты же знаешь, как мы \"забывали\" использовать средства защиты в последнее время?"
 
 # ch/sasha/events/events_male.rpy:4654
@@ -16025,7 +15785,7 @@ translate russian sasha_preg_talk_47c2ea54:
     sasha.say "Мы оба внесли свой вклад в то, чтобы это произошло, поэтому, я думаю, нам обоим нужно взять на себя ответственность за это."
 
 # ch/sasha/events/events_male.rpy:4668
-translate russian sasha_preg_talk_1f133ea1:
+translate russian sasha_preg_talk_33c53b72:
     mike.say "Эм... ты имеешь в виду, взять на себя ответственность и быть мужчиной?"
 
 # ch/sasha/events/events_male.rpy:4670
@@ -16033,7 +15793,7 @@ translate russian sasha_preg_talk_821cd9f5:
     sasha.say "Да ладно, ты заставляешь это звучать так, будто это самое страшное, что только можно представить."
 
 # ch/sasha/events/events_male.rpy:4672
-translate russian sasha_preg_talk_05e43074:
+translate russian sasha_preg_talk_c733c5ef:
     mike.say "Ну... это действительно немного страшно."
 
 # ch/sasha/events/events_male.rpy:4674
@@ -16065,7 +15825,7 @@ translate russian sasha_preg_talk_983f6edf:
     sasha.say "Поэтому я собираюсь сделать аборт, просто сейчас неподходящее время."
 
 # ch/sasha/events/events_male.rpy:4687
-translate russian sasha_preg_talk_1b6a2752:
+translate russian sasha_preg_talk_12fbef40:
     mike.say "Эм... ну... если ты думаешь, что это будет лучше..."
 
 # ch/sasha/events/events_male.rpy:4698
@@ -16077,7 +15837,7 @@ translate russian sasha_preg_talk_c52c32d4:
     mike.say "Ну, я не ожидал, что ты скажешь это."
 
 # ch/sasha/events/events_male.rpy:4704
-translate russian sasha_preg_talk_f13fd878:
+translate russian sasha_preg_talk_b926a747:
     sasha.say "Ты... ты не злишься?"
 
 # ch/sasha/events/events_male.rpy:4706
@@ -16085,7 +15845,7 @@ translate russian sasha_preg_talk_c45d0d24:
     mike.say "Нет, я не злюсь - ты бы знала, если бы я злился."
 
 # ch/sasha/events/events_male.rpy:4708
-translate russian sasha_preg_talk_89f24fc5:
+translate russian sasha_preg_talk_e99e1dda:
     sasha.say "Хорошо... но что мы будем делать?"
 
 # ch/sasha/events/events_male.rpy:4710
@@ -16105,7 +15865,7 @@ translate russian sasha_preg_talk_55f6bfdd:
     mike.say "У нас не может быть ребенка, Саша - ты это знаешь так же, как и я."
 
 # ch/sasha/events/events_male.rpy:4720
-translate russian sasha_preg_talk_d9b9d7c8:
+translate russian sasha_preg_talk_bd185c5b:
     sasha.say "Но...но я беременна, тест показал положительный результат!"
 
 # ch/sasha/events/events_male.rpy:4722
@@ -16113,7 +15873,7 @@ translate russian sasha_preg_talk_3a2aabcc:
     mike.say "Ну, тогда нам просто нужно это исправить, не так ли?"
 
 # ch/sasha/events/events_male.rpy:4724
-translate russian sasha_preg_talk_9c15daa5:
+translate russian sasha_preg_talk_f6265ca4:
     sasha.say "Ты имеешь в виду...ты хочешь, чтобы я сделала аборт?"
 
 # ch/sasha/events/events_male.rpy:4726
@@ -16125,7 +15885,7 @@ translate russian sasha_preg_talk_7c1c5918:
     "Саша опускает взгляд на колени, и все мысли о том, чтобы поступить иначе, исчезают из ее головы."
 
 # ch/sasha/events/events_male.rpy:4729
-translate russian sasha_preg_talk_a5778538:
+translate russian sasha_preg_talk_89ad096d:
     sasha.say "Хорошо...я думаю, ты знаешь, что лучше."
 
 # ch/sasha/events/events_male.rpy:4733
@@ -16149,7 +15909,7 @@ translate russian sasha_preg_talk_67e1f37e:
     mike.say "Да что, черт возьми, ты наделала? Как ты могла допустить это - как ты могла быть такой глупой?!?"
 
 # ch/sasha/events/events_male.rpy:4741
-translate russian sasha_preg_talk_64b9b971:
+translate russian sasha_preg_talk_c39137c8:
     sasha.say "Но...но мы оба забыли использовать..."
 
 # ch/sasha/events/events_male.rpy:4743
@@ -16924,10 +16684,6 @@ translate russian sasha_shower_BJ_81b1d05f:
 translate russian sasha_shower_BJ_9a0fffd4:
     sasha.say "Хотя, честно говоря? Просто укажи мне на пол и оставь меня здесь, сколько угодно. Я никуда не уйду."
 
-# ch/sasha/events/events_male.rpy:5012
-translate russian sasha_shower_BJ_de6e1371:
-    sasha.say "Не позволяй этому зайти тебе в голову. Я просто чувствую, что хочу этого."
-
 # ch/sasha/events/events_male.rpy:5014
 translate russian sasha_shower_BJ_415d5994:
     sasha.say "А ты отплатишь мне этим, будучи на коленях, когда придет моя очередь. Эта часть не является необязательной, [lssb_sasha.hero_name()]."
@@ -17205,7 +16961,7 @@ translate russian sasha_nightclub_comment_d1acc6dd:
     "Саша выглядит смущенной, когда я требую, чтобы она объяснила свою предыдущую фразу, ее лицо искажается в беспомощном удивленном выражении."
 
 # ch/sasha/events/events_male.rpy:5112
-translate russian sasha_nightclub_comment_d6d20f0d:
+translate russian sasha_nightclub_comment_1e063d09:
     sasha.say "Да... хорошо... я понимаю."
 
 # ch/sasha/events/events_male.rpy:5113
@@ -17245,7 +17001,7 @@ translate russian sasha_nightclub_comment_c3460a8b:
     sasha.say "Нет, ты, бездарный идиот - я не имею в виду ту одежду, которую ты надеваешь, чтобы лениво проводить время дома после работы!"
 
 # ch/sasha/events/events_male.rpy:5127
-translate russian sasha_nightclub_comment_79e193d5:
+translate russian sasha_nightclub_comment_dc1ab773:
     mike.say "Но... но у меня есть приличная одежда, я правда."
 
 # ch/sasha/events/events_male.rpy:5128
@@ -17328,10 +17084,6 @@ translate russian sasha_wearing_strapon_76033a60:
 translate russian sasha_wearing_strapon_e224243f:
     "Те, которые заставляют другого человека поверить, что ты нормальный, здравомыслящий человек."
 
-# ch/sasha/events/events_male.rpy:5164
-translate russian sasha_wearing_strapon_ee3a1b9b:
-    "Но теперь, когда мы это преодолели, я не задумываюсь, прежде чем постучать в дверь в спальню Саши и войти."
-
 # ch/sasha/events/events_male.rpy:5169
 translate russian sasha_wearing_strapon_d44d7292:
     mike.say "Привет, Саша!"
@@ -17393,7 +17145,7 @@ translate russian sasha_wearing_strapon_e7ba9359:
     mike.say "Извини, Саша, извини!"
 
 # ch/sasha/events/events_male.rpy:5186
-translate russian sasha_wearing_strapon_cf16e883:
+translate russian sasha_wearing_strapon_e98ea0fc:
     mike.say "Я... я просто не мог удержаться..."
 
 # ch/sasha/events/events_male.rpy:5187
@@ -17441,7 +17193,7 @@ translate russian sasha_wearing_strapon_0064c3cb:
     "Так что вызывающее нижнее белье – это точно ее тема!"
 
 # ch/sasha/events/events_male.rpy:5201
-translate russian sasha_wearing_strapon_85680ed6:
+translate russian sasha_wearing_strapon_2c867681:
     mike.say "А... да, Саша."
 
 # ch/sasha/events/events_male.rpy:5202
@@ -17561,7 +17313,7 @@ translate russian sasha_wearing_strapon_b2c9e131:
     sasha.say "Большие слова для того, кто только что пискнул, когда это приблизилось к нему, [lssb_sasha.hero_name()]."
 
 # ch/sasha/events/events_male.rpy:5245
-translate russian sasha_wearing_strapon_a6e66b3b:
+translate russian sasha_wearing_strapon_53a5e72e:
     sasha.say "Да... ты просто болтаешь, [lssb_sasha.hero_name()]!"
 
 # ch/sasha/events/events_male.rpy:5246
@@ -17589,7 +17341,7 @@ translate russian sasha_wearing_strapon_b3989942:
     "Ее рот молча двигается, пока она не сможет выговорить слова."
 
 # ch/sasha/events/events_male.rpy:5255
-translate russian sasha_wearing_strapon_4015489b:
+translate russian sasha_wearing_strapon_e4e486c7:
     sasha.say "Ты... ты серьезно?"
 
 # ch/sasha/events/events_male.rpy:5256
@@ -17649,11 +17401,11 @@ translate russian sasha_wearing_strapon_6ed42e3b:
     "Я просто надеюсь, что смогу оправдать обещание, которое я ей дал!"
 
 # ch/sasha/events/events_male.rpy:5274
-translate russian sasha_wearing_strapon_f114abd7:
+translate russian sasha_wearing_strapon_0453fd71:
     mike.say "О...о боже!"
 
 # ch/sasha/events/events_male.rpy:5275
-translate russian sasha_wearing_strapon_2e6467de:
+translate russian sasha_wearing_strapon_b49c39ed:
     mike.say "С...Саша..."
 
 # ch/sasha/events/events_male.rpy:5276
@@ -17693,7 +17445,7 @@ translate russian sasha_wearing_strapon_3f8382ca:
     mike.say "Ого..."
 
 # ch/sasha/events/events_male.rpy:5289
-translate russian sasha_wearing_strapon_f3a47b8e:
+translate russian sasha_wearing_strapon_10657510:
     mike.say "Д...держи это подальше от меня!"
 
 # ch/sasha/events/events_male.rpy:5291
@@ -17769,7 +17521,7 @@ translate russian sasha_pregnant_request_6da2fd8e:
     "На мгновение я не уверен, что вообще правильно ее понял."
 
 # ch/sasha/events/events_male.rpy:5321
-translate russian sasha_pregnant_request_2e6467de:
+translate russian sasha_pregnant_request_b49c39ed:
     mike.say "С...Саша..."
 
 # ch/sasha/events/events_male.rpy:5322
@@ -17809,7 +17561,7 @@ translate russian sasha_pregnant_request_5fb18477:
     "И вот, это уже не просто ее вопрос, а я оказался в неловком положении!"
 
 # ch/sasha/events/events_male.rpy:5335
-translate russian sasha_pregnant_request_d0c1699d:
+translate russian sasha_pregnant_request_9d00a582:
     mike.say "Ну... я..."
 
 # ch/sasha/events/events_male.rpy:5336
@@ -17869,7 +17621,7 @@ translate russian sasha_pregnant_request_ce9e8589:
     mike.say "И в наши дни..."
 
 # ch/sasha/events/events_male.rpy:5353
-translate russian sasha_pregnant_request_5bf3de20:
+translate russian sasha_pregnant_request_84c3cb93:
     mike.say "Ну... это немного сексистски предполагать, что именно этого хочет девушка!"
 
 # ch/sasha/events/events_male.rpy:5355
@@ -17877,7 +17629,7 @@ translate russian sasha_pregnant_request_55613280:
     "Саша сильно кивает, выдыхая при этом."
 
 # ch/sasha/events/events_male.rpy:5357
-translate russian sasha_pregnant_request_92d7c7d7:
+translate russian sasha_pregnant_request_b2184f7a:
     sasha.say "Да, да... я знаю."
 
 # ch/sasha/events/events_male.rpy:5358
@@ -18021,7 +17773,7 @@ translate russian sasha_pregnant_request_a2c5aa69:
     "Но на этот раз она не возражает."
 
 # ch/sasha/events/events_male.rpy:5407
-translate russian sasha_pregnant_request_914b810e:
+translate russian sasha_pregnant_request_2249ecd1:
     sasha.say "Я... я думаю, ты прав, [lssb_sasha.hero_name()]."
 
 # ch/sasha/events/events_male.rpy:5408
@@ -18045,11 +17797,11 @@ translate russian sasha_pregnant_request_d2bda382:
     "Но я думаю, это лучшее, что может быть для нас обоих."
 
 # ch/sasha/events/events_male.rpy:5420
-translate russian sasha_cheated_sam_advice_4687b4e3:
+translate russian sasha_cheated_sam_advice_81bf462c:
     mike.say "А... привет, Кекс..."
 
 # ch/sasha/events/events_male.rpy:5422
-translate russian sasha_cheated_sam_advice_bad8eda6:
+translate russian sasha_cheated_sam_advice_76ab7786:
     mike.say "А... привет, Сэм..."
 
 # ch/sasha/events/events_male.rpy:5423
@@ -18061,7 +17813,7 @@ translate russian sasha_cheated_sam_advice_4b351c1d:
     samantha.say "Хочешь об этом поговорить?"
 
 # ch/sasha/events/events_male.rpy:5425
-translate russian sasha_cheated_sam_advice_bb75cb5f:
+translate russian sasha_cheated_sam_advice_d77035e1:
     mike.say "Да... но я не уверен, что ты захочешь это слышать."
 
 # ch/sasha/events/events_male.rpy:5426
@@ -18085,7 +17837,7 @@ translate russian sasha_cheated_sam_advice_f3af016f:
     "Наступает неловкая тишина, словно Сэм обдумывает мои слова."
 
 # ch/sasha/events/events_male.rpy:5432
-translate russian sasha_cheated_sam_advice_7aedaf53:
+translate russian sasha_cheated_sam_advice_1b0d5861:
     samantha.say "Хм... ясно."
 
 # ch/sasha/events/events_male.rpy:5433
@@ -18097,11 +17849,11 @@ translate russian sasha_cheated_sam_advice_dc1dfcdc:
     samantha.say "Или потому что хотел посмотреть, как реагирует человек, которого обманули?"
 
 # ch/sasha/events/events_male.rpy:5436
-translate russian sasha_cheated_sam_advice_2cc7ccdc:
+translate russian sasha_cheated_sam_advice_b094b2e7:
     mike.say "Кекс... я... мне очень стыдно за это... я чувствую себя ужасно виноватым!"
 
 # ch/sasha/events/events_male.rpy:5438
-translate russian sasha_cheated_sam_advice_a9920db9:
+translate russian sasha_cheated_sam_advice_40f05bf5:
     mike.say "Сэм... я... мне очень стыдно за это... я чувствую себя ужасно виноватым!"
 
 # ch/sasha/events/events_male.rpy:5439
@@ -18133,11 +17885,11 @@ translate russian sasha_cheated_sam_advice_58cc6eaf:
     samantha.say "И никто никогда так не мучился из-за измены, как ты сейчас."
 
 # ch/sasha/events/events_male.rpy:5447
-translate russian sasha_cheated_sam_advice_984f8ae5:
+translate russian sasha_cheated_sam_advice_98255cb8:
     mike.say "Спасибо, Кекс... но я не уверен, что заслуживаю этого комплимента."
 
 # ch/sasha/events/events_male.rpy:5449
-translate russian sasha_cheated_sam_advice_c6bf20c0:
+translate russian sasha_cheated_sam_advice_7b651baa:
     mike.say "Спасибо, Сэм... но я не уверен, что заслуживаю этого комплимента."
 
 # ch/sasha/events/events_male.rpy:5450
@@ -18285,7 +18037,7 @@ translate russian sasha_morningwood_ae40928a:
     "Я думаю, что она любит сюрпризы, так что это должно ей понравиться."
 
 # ch/sasha/events/events_male.rpy:5501
-translate russian sasha_morningwood_1936abbe:
+translate russian sasha_morningwood_df4d9470:
     "А если нет... ну, я это сразу узнаю!"
 
 # ch/sasha/events/events_male.rpy:5502
@@ -18517,15 +18269,15 @@ translate russian sasha_morningwood_12031c7d:
     mike.say "Я схожу с ума!"
 
 # ch/sasha/events/events_male.rpy:5570
-translate russian sasha_morningwood_e6ae5af6:
+translate russian sasha_morningwood_b54603e4:
     sasha.say "Да, используй меня...Я твоя секс-кукла, [lssb_sasha.hero_name()]!"
 
 # ch/sasha/events/events_male.rpy:5571
-translate russian sasha_morningwood_93f822e9:
+translate russian sasha_morningwood_d3c05d69:
     sasha.say "Заполни меня, заставь меня забеременеть, делай что хочешь... Я умоляю тебя!"
 
 # ch/sasha/events/events_male.rpy:5573
-translate russian sasha_morningwood_49df66f2:
+translate russian sasha_morningwood_aff7ccc5:
     sasha.say "Да... по...й в меня!"
 
 # ch/sasha/events/events_male.rpy:5574
@@ -18580,12 +18332,8 @@ translate russian sasha_morningwood_a45eb1f3:
 translate russian sasha_morningwood_0ad8f18e:
     "Я все еще чувствую ее пизду, которая подергивается и сжимает мой член."
 
-# ch/sasha/events/events_male.rpy:5598
-translate russian sasha_morningwood_0361c413:
-    "Одна из ее рук скользит вниз к округлому животу, и она лениво, с довольной ухмылкой смотрит на меня."
-
 # ch/sasha/events/events_male.rpy:5599
-translate russian sasha_morningwood_f57b85be:
+translate russian sasha_morningwood_78ab7796:
     sasha.say "Ммм... удачи тебе, если ты захочешь, чтобы я снова забеременела, [lssb_sasha.hero_name()]."
 
 # ch/sasha/events/events_male.rpy:5600
@@ -18749,7 +18497,7 @@ translate russian sasha_pool_foreplay_c87824e3:
     "В результате мы цепляемся друг за друга, пока плаваем в воде."
 
 # ch/sasha/fuck.rpy:182
-translate russian sasha_pool_foreplay_db76f977:
+translate russian sasha_pool_foreplay_c5ab5d38:
     mike.say "Я... я в порядке, Саша!"
 
 # ch/sasha/fuck.rpy:183
@@ -18761,7 +18509,7 @@ translate russian sasha_pool_foreplay_fd2ca13a:
     sasha.say "О!"
 
 # ch/sasha/fuck.rpy:185
-translate russian sasha_pool_foreplay_72447029:
+translate russian sasha_pool_foreplay_d433c8c8:
     sasha.say "Хорошо, хорошо... я поняла."
 
 # ch/sasha/fuck.rpy:186
@@ -18773,11 +18521,11 @@ translate russian sasha_pool_foreplay_80ba99ee:
     mike.say "Нам, вероятно, стоит отпустить друг друга сейчас!"
 
 # ch/sasha/fuck.rpy:188
-translate russian sasha_pool_foreplay_3bbcc8b7:
+translate russian sasha_pool_foreplay_f18d7314:
     sasha.say "Д... да..."
 
 # ch/sasha/fuck.rpy:189
-translate russian sasha_pool_foreplay_ac006027:
+translate russian sasha_pool_foreplay_84b4a07a:
     sasha.say "То есть... у тебя сейчас рука между моих ног!"
 
 # ch/sasha/fuck.rpy:193
@@ -18797,7 +18545,7 @@ translate russian sasha_pool_foreplay_ebd197b1:
     sasha.say "Ммм..."
 
 # ch/sasha/fuck.rpy:197
-translate russian sasha_pool_foreplay_91082c7d:
+translate russian sasha_pool_foreplay_3a7a6e6e:
     sasha.say "О... ох, блин..."
 
 # ch/sasha/fuck.rpy:198
@@ -18957,7 +18705,7 @@ translate russian sasha_pool_foreplay_040cdb3d:
     mike.say "Ты в порядке, Саша?"
 
 # ch/sasha/fuck.rpy:248
-translate russian sasha_pool_foreplay_6f95a734:
+translate russian sasha_pool_foreplay_2498f401:
     sasha.say "Ммм... хороший мальчик."
 
 # ch/sasha/fuck.rpy:249
@@ -18965,7 +18713,7 @@ translate russian sasha_pool_foreplay_0d6a2cf5:
     sasha.say "Эти руки теперь мои, [lssb_sasha.hero_name()]. Используй их на мне, когда захочешь, и я буду тебе благодарна каждый раз."
 
 # ch/sasha/fuck.rpy:251
-translate russian sasha_pool_foreplay_77b155ed:
+translate russian sasha_pool_foreplay_ea098245:
     sasha.say "Хорошо, хорошо... ты победил."
 
 # ch/sasha/fuck.rpy:252
@@ -18999,14 +18747,6 @@ translate russian sasha_pool_foreplay_548d87af:
 # ch/sasha/fuck.rpy:262
 translate russian sasha_pool_foreplay_38ff9dc9:
     sasha.say "Я хочу заснуть прямо здесь!"
-
-# ch/sasha/fuck.rpy:264
-translate russian sasha_pool_foreplay_66bc5dd5:
-    sasha.say "Мой личный спасатель, [lssb_sasha.hero_name()]. Не зазнавайся."
-
-# ch/sasha/fuck.rpy:266
-translate russian sasha_pool_foreplay_d1370b7f:
-    "Она направляет мою ладонь к изгибу ее живота и держит ее там, и звук удовольствия стихает на секунду."
 
 # ch/sasha/fuck.rpy:268
 translate russian sasha_pool_foreplay_a0f36922:
@@ -19057,7 +18797,7 @@ translate russian sasha_pool_foreplay_37cdbd75:
     "Опять же, я не просто смотрю на нее - серьезно, я не смотрю!"
 
 # ch/sasha/fuck.rpy:284
-translate russian sasha_pool_foreplay_7819da45:
+translate russian sasha_pool_foreplay_0a0ed74d:
     "Ну... может быть, чуть-чуть."
 
 # ch/sasha/fuck.rpy:285
@@ -19273,7 +19013,7 @@ translate russian sasha_pool_foreplay_2e837ac1:
     "К счастью, вскоре после этого Саша достигает того момента, который я переживал мгновение назад."
 
 # ch/sasha/fuck.rpy:361
-translate russian sasha_pool_foreplay_f201d6c6:
+translate russian sasha_pool_foreplay_4e756709:
     sasha.say "Ммм...спасибо, [lssb_sasha.hero_name()]. Используй меня в этом бассейне, когда захочешь."
 
 # ch/sasha/fuck.rpy:363
@@ -19289,7 +19029,7 @@ translate russian sasha_pool_foreplay_1ab63b4d:
     sasha.say "Видишь? Вот почему я тебя держу, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:369
-translate russian sasha_pool_foreplay_2e4b4940:
+translate russian sasha_pool_foreplay_b51cfefa:
     sasha.say "Ммм... лучший заплыв за все лето, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:371
@@ -19385,11 +19125,11 @@ translate russian sasha_hottub_sex_male_297f62db:
     mike.say "Что..."
 
 # ch/sasha/fuck.rpy:407
-translate russian sasha_hottub_sex_male_67934bbe:
+translate russian sasha_hottub_sex_male_04a4c977:
     mike.say "Нет... то есть да..."
 
 # ch/sasha/fuck.rpy:408
-translate russian sasha_hottub_sex_male_aff5335d:
+translate russian sasha_hottub_sex_male_7a786885:
     mike.say "То есть... ты понимаешь, что я имею в виду!"
 
 # ch/sasha/fuck.rpy:409
@@ -19493,7 +19233,7 @@ translate russian sasha_hottub_sex_male_ee9a7921:
     "Она трет головку о губы своей влагалища."
 
 # ch/sasha/fuck.rpy:438
-translate russian sasha_hottub_sex_male_1d96e996:
+translate russian sasha_hottub_sex_male_62a957e4:
     "Один раз, дважды... а затем она одним плавным движением садится на него."
 
 # ch/sasha/fuck.rpy:439
@@ -19553,7 +19293,7 @@ translate russian sasha_hottub_sex_male_7cfeb56f:
     sasha.say "Вот, [lssb_sasha.hero_name()]...наполни меня. Я просто теплое отверстие для тебя, и мне это нравится."
 
 # ch/sasha/fuck.rpy:457
-translate russian sasha_hottub_sex_male_a93adf1a:
+translate russian sasha_hottub_sex_male_38554184:
     sasha.say "Боже, ты так хорошо себя чувствуешь... скажи мне, что ты этого хочешь, и я дам тебе все, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:459
@@ -19637,7 +19377,7 @@ translate russian sasha_hottub_sex_male_4877fbe2:
     "Мы падаем обратно в воду, оба измотаны."
 
 # ch/sasha/fuck.rpy:506
-translate russian sasha_hottub_sex_male_ec30ff2b:
+translate russian sasha_hottub_sex_male_ba4aff50:
     mike.say "Я... я думал, мы... просто отдыхаем?"
 
 # ch/sasha/fuck.rpy:508
@@ -19721,7 +19461,7 @@ translate russian sasha_fuck_beach_18be3eb9:
     "Черт возьми, она же, наверное, вспыхнет, если окажется под таким прямым солнечным светом?"
 
 # ch/sasha/fuck.rpy:544
-translate russian sasha_fuck_beach_867b1ebb:
+translate russian sasha_fuck_beach_ddba5ef5:
     mike.say "Я... я думал, может, мы пойдем на пляж."
 
 # ch/sasha/fuck.rpy:545
@@ -19869,7 +19609,7 @@ translate russian sasha_fuck_beach_24292223:
     "И вот, когда Саша наконец начинает шевелиться, я уже довольно долго размышлял о своей смертности."
 
 # ch/sasha/fuck.rpy:601
-translate russian sasha_fuck_beach_0b8abc3d:
+translate russian sasha_fuck_beach_84827214:
     sasha.say "О... вау."
 
 # ch/sasha/fuck.rpy:602
@@ -20037,7 +19777,7 @@ translate russian sasha_fuck_beach_b7451c33:
     sasha.say "Оставайся здесь, [lssb_sasha.hero_name()]. Наполни меня. Я твоя, чтобы ты завел от меня ребенка на этом пляже, если хочешь."
 
 # ch/sasha/fuck.rpy:660
-translate russian sasha_fuck_beach_61d2c6a5:
+translate russian sasha_fuck_beach_1ae2466e:
     sasha.say "Не останавливайся...я буду такой хорошей для тебя, просто, пожалуйста, не останавливайся, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:662
@@ -20049,7 +19789,7 @@ translate russian sasha_fuck_beach_4d615932:
     sasha.say "Мм, это темп. Заставь меня почувствовать, что ты заслужил это, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:666
-translate russian sasha_fuck_beach_980e4316:
+translate russian sasha_fuck_beach_a31ce711:
     sasha.say "Не говори ничего...просто останься во мне еще немного, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:668
@@ -20233,15 +19973,15 @@ translate russian sasha_fuck_bathroom_3849dd37:
     "Ноги Саши начинают дрожать, и я слышу, как она теперь задыхается."
 
 # ch/sasha/fuck.rpy:756
-translate russian sasha_fuck_bathroom_e71f61b6:
+translate russian sasha_fuck_bathroom_619dd8c1:
     sasha.say "Да...да, [lssb_sasha.hero_name()]..."
 
 # ch/sasha/fuck.rpy:757
-translate russian sasha_fuck_bathroom_050e015c:
+translate russian sasha_fuck_bathroom_45c01258:
     sasha.say "Вот...вот так..."
 
 # ch/sasha/fuck.rpy:758
-translate russian sasha_fuck_bathroom_51e8af23:
+translate russian sasha_fuck_bathroom_f8b125ab:
     sasha.say "Заставь меня...дойти!"
 
 # ch/sasha/fuck.rpy:762
@@ -20296,12 +20036,8 @@ translate russian sasha_fuck_bathroom_49293667:
 translate russian sasha_fuck_bathroom_e30107cd:
     "Она кончиком пальца зачерпывает воду, стекающую со моего подбородка, и подтаскивает мои губы к своим, целуя меня страстно и грубо."
 
-# ch/sasha/fuck.rpy:785
-translate russian sasha_fuck_bathroom_2a74a513:
-    sasha.say "Используй меня, как хочешь, [lssb_sasha.hero_name()]. Каждый сантиметр моего тела принадлежит тебе, чтобы ты мог его испортить."
-
 # ch/sasha/fuck.rpy:787
-translate russian sasha_fuck_bathroom_e9265a2b:
+translate russian sasha_fuck_bathroom_040b1039:
     sasha.say "Не зазнавайся... но да, хорошо. Делай со мной, что хочешь, [lssb_sasha.hero_name()]. Я не буду тебя останавливать."
 
 # ch/sasha/fuck.rpy:789
@@ -20469,7 +20205,7 @@ translate russian sasha_fuck_bathroom_f022bf6f:
     "Но она не может возражать против того, что я делаю, потому что это будет означать, что это слишком для нее."
 
 # ch/sasha/fuck.rpy:847
-translate russian sasha_fuck_bathroom_52de66b4:
+translate russian sasha_fuck_bathroom_ea988e22:
     sasha.say "Ах, [lssb_sasha.hero_name()]... вытащи... прежде чем ты выйдешь у меня!"
 
 # ch/sasha/fuck.rpy:848
@@ -20485,7 +20221,7 @@ translate russian sasha_fuck_bathroom_e248219d:
     "К моему удивлению, она сразу же во второй раз хватает меня за член и начинает нещадно его тереть."
 
 # ch/sasha/fuck.rpy:851
-translate russian sasha_fuck_bathroom_28d52e35:
+translate russian sasha_fuck_bathroom_52324018:
     sasha.say "Потри мой клитор... доводи меня до оргазма..."
 
 # ch/sasha/fuck.rpy:852
@@ -20549,11 +20285,11 @@ translate russian sasha_fuck_bathroom_7432aca2:
     "Эта интенсивность только усиливает ощущения для меня, и я уже чувствую, что приближаюсь к оргазму."
 
 # ch/sasha/fuck.rpy:876
-translate russian sasha_fuck_bathroom_099f2dd5:
+translate russian sasha_fuck_bathroom_85c25d6e:
     mike.say "Саша... я сейчас кончусь!"
 
 # ch/sasha/fuck.rpy:879
-translate russian sasha_fuck_bathroom_a8b78004:
+translate russian sasha_fuck_bathroom_1d92e8fb:
     sasha.say "Хорошо, хорошо... спускайся медленно."
 
 # ch/sasha/fuck.rpy:880
@@ -20629,7 +20365,7 @@ translate russian sasha_fuck_date_intro_male_0f76a749:
     "Я понимаю, что она смотрит на растущий бугорок в моих шортах."
 
 # ch/sasha/fuck.rpy:987
-translate russian sasha_fuck_date_intro_male_744fb9dc:
+translate russian sasha_fuck_date_intro_male_9ca47680:
     mike.say "Эм... да... наверное, должен?"
 
 # ch/sasha/fuck.rpy:989
@@ -20985,7 +20721,7 @@ translate russian sasha_strap_fuck_4ad153ca:
     mike.say "А, может, сегодня не стоит..."
 
 # ch/sasha/fuck.rpy:1200
-translate russian sasha_strap_fuck_da911f44:
+translate russian sasha_strap_fuck_e4093220:
     sasha.say "Хм... жаль, ты никогда не узнаешь, что упускаешь."
 
 # ch/sasha/fuck.rpy:1203
@@ -21037,7 +20773,7 @@ translate russian sasha_strap_fuck_ef16c6d8:
     "Я не могу определиться, прямо до того момента, как она надувает губы, высунув нижнюю губу."
 
 # ch/sasha/fuck.rpy:1222
-translate russian sasha_strap_fuck_57dc32ad:
+translate russian sasha_strap_fuck_7131cb52:
     mike.say "Ладно... хорошо!"
 
 # ch/sasha/fuck.rpy:1226
@@ -21685,11 +21421,11 @@ translate russian sasha_sleep_date_fuck_67b809d4:
     sasha.say "Можно ли мне сегодня переночевать с тобой, [lssb_sasha.hero_name()]?"
 
 # ch/sasha/fuck.rpy:1538
-translate russian sasha_sleep_date_fuck_e40f228d:
+translate russian sasha_sleep_date_fuck_ca1f1cf3:
     sasha.say "Ммм...ты не против, если я останусь здесь на ночь?"
 
 # ch/sasha/fuck.rpy:1542
-translate russian sasha_sleep_date_fuck_788d9cdd:
+translate russian sasha_sleep_date_fuck_4498d9e0:
     mike.say "Нет...мне нужно вставать очень рано утром."
 
 # ch/sasha/fuck.rpy:1543
@@ -21701,7 +21437,7 @@ translate russian sasha_sleep_date_fuck_aaa8de32:
     "Саша хмурится от разочарования, явно пытаясь скрыть чувство отвержения."
 
 # ch/sasha/fuck.rpy:1547
-translate russian sasha_sleep_date_fuck_6ba184e6:
+translate russian sasha_sleep_date_fuck_4e6495c8:
     sasha.say "Хорошо...спокойной ночи, наверное."
 
 # ch/sasha/fuck.rpy:1549
@@ -21709,7 +21445,7 @@ translate russian sasha_sleep_date_fuck_24186f74:
     "Она качает головой, собирает свои вещи и уходит из моей спальни."
 
 # ch/sasha/fuck.rpy:1554
-translate russian sasha_sleep_date_fuck_785f12ef:
+translate russian sasha_sleep_date_fuck_32318b76:
     mike.say "Да... то есть, да... если ты хочешь!"
 
 # ch/sasha/fuck.rpy:1555
@@ -21825,7 +21561,7 @@ translate russian sasha_fuck_date_cunnilingus_intro_f177a196:
     "Я не могу удержаться и киваю, соглашаясь."
 
 # ch/sasha/fuck.rpy:1604
-translate russian sasha_fuck_date_cunnilingus_intro_8d4dc579:
+translate russian sasha_fuck_date_cunnilingus_intro_fd5d0faf:
     mike.say "Н...неужели я могу винить себя?"
 
 # ch/sasha/fuck.rpy:1605
@@ -21855,10 +21591,6 @@ translate russian sasha_fuck_date_cunnilingus_intro_95a15a69:
 # ch/sasha/fuck.rpy:1614
 translate russian sasha_fuck_date_cunnilingus_intro_2c16321f:
     sasha.say "О... правда? Тогда, пожалуйста. Я так сильно хочу, чтобы твой рот был у меня, что едва могу думать."
-
-# ch/sasha/fuck.rpy:1615
-translate russian sasha_fuck_date_cunnilingus_intro_077e1597:
-    sasha.say "Используй меня, как тебе нравится. Я просто хочу быть хорошей для тебя."
 
 # ch/sasha/fuck.rpy:1617
 translate russian sasha_fuck_date_cunnilingus_intro_9caedcb1:
@@ -22181,7 +21913,7 @@ translate russian sasha_fuck_date_cunnilingus_20f275f2:
     "Ее протесты превращаются в вздохи, когда ее тело тоже поддается."
 
 # ch/sasha/fuck.rpy:1786
-translate russian sasha_fuck_date_cunnilingus_2381c621:
+translate russian sasha_fuck_date_cunnilingus_5e532bac:
     sasha.say "Ох...черт..."
 
 # ch/sasha/fuck.rpy:1788
@@ -22249,11 +21981,11 @@ translate russian sasha_fuck_date_cunnilingus_3d7239f9:
     "Ее влагалище не испытывает таких сомнений, жадно принимая игрушку."
 
 # ch/sasha/fuck.rpy:1828
-translate russian sasha_fuck_date_cunnilingus_ef5864ef:
+translate russian sasha_fuck_date_cunnilingus_89d89fb3:
     sasha.say "Ох...ох..."
 
 # ch/sasha/fuck.rpy:1830
-translate russian sasha_fuck_date_cunnilingus_7c0edc5a:
+translate russian sasha_fuck_date_cunnilingus_26d60056:
     sasha.say "Да...продолжай!"
 
 # ch/sasha/fuck.rpy:1832
@@ -22305,7 +22037,7 @@ translate russian sasha_fuck_date_cunnilingus_ebd197b1_1:
     sasha.say "Ммм..."
 
 # ch/sasha/fuck.rpy:1857
-translate russian sasha_fuck_date_cunnilingus_f53a81df:
+translate russian sasha_fuck_date_cunnilingus_9d13bdcf:
     sasha.say "Это... хорошо..."
 
 # ch/sasha/fuck.rpy:1860
@@ -22580,10 +22312,6 @@ translate russian sasha_fuck_date_bj_04d23aca:
 translate russian sasha_fuck_date_bj_15120bfc:
     mike.say "На колени."
 
-# ch/sasha/fuck.rpy:1994
-translate russian sasha_fuck_date_bj_f811906b:
-    "Она теперь сидит на коленях по-другому, одна рука лежит на выпуклости ее живота, и это как-то только усиливает сексуальность этой картины."
-
 # ch/sasha/fuck.rpy:1995
 translate russian sasha_fuck_date_bj_9e7126e3:
     "Мне нужно больше. Я хочу почувствовать, как она покачивается на моей палке."
@@ -22776,10 +22504,6 @@ translate russian sasha_fuck_date_bj_62f44651:
 translate russian sasha_fuck_date_bj_20d4d19d_1:
     "Эта неприкрытая жестокость, эта плоская ухмылка вокруг моего члена, каким-то образом является самой горячей частью всего этого."
 
-# ch/sasha/fuck.rpy:2057
-translate russian sasha_fuck_date_bj_7d1eafa9:
-    sasha.say "Когда захочешь, [lssb_sasha.hero_name()]. Я буду продолжать, пока тебе нравится. Я просто хочу быть хорошей для тебя."
-
 # ch/sasha/fuck.rpy:2058
 translate russian sasha_fuck_date_bj_0281b6d0:
     "Эта жадная, молящаяся мягкость в ее голосе, так не похожая на нее, каким-то образом является самой горячей частью всего этого."
@@ -22849,7 +22573,7 @@ translate russian sasha_fuck_date_bj_01784ce1:
     "Слюна стекает по ее подбородку, и она не вытирает ее, слишком увлечена ритмом, чтобы беспокоиться о том, чтобы быть аккуратной."
 
 # ch/sasha/fuck.rpy:2080
-translate russian sasha_fuck_date_bj_e9c8f602:
+translate russian sasha_fuck_date_bj_6002e285:
     sasha.say "Ммм... давай. Сдавайся уже. Я не стала бы опускаться на колени, чтобы ты заставлял меня ждать всю ночь."
 
 # ch/sasha/fuck.rpy:2081
@@ -23067,10 +22791,6 @@ translate russian sasha_fuck_date_foreplay_acfebb22:
 # ch/sasha/fuck.rpy:2171
 translate russian sasha_fuck_date_foreplay_f370b265:
     "Своей свободной рукой я стягиваю с нее халат и позволяю ему упасть на пол, затем стягиваю ночнушку с ее головы и бросаю ее в сторону."
-
-# ch/sasha/fuck.rpy:2176
-translate russian sasha_fuck_date_foreplay_c16fecbb:
-    "Обнаженная, она прижимает мою свободную руку к изгибу ее живота на мгновение, это редкий, неприкрытый момент, прежде чем на ее лице снова появляется ухмылка."
 
 # ch/sasha/fuck.rpy:2177
 translate russian sasha_fuck_date_foreplay_bd02ff1b:
@@ -23292,10 +23012,6 @@ translate russian sasha_fuck_date_rimjob_496deda0_1:
 translate russian sasha_fuck_date_rimjob_5cfd151b:
     "И я наблюдаю с большим интересом, как Саша сама разводит мои ноги."
 
-# ch/sasha/fuck.rpy:2255
-translate russian sasha_fuck_date_rimjob_6a58a92f:
-    "Она проводит ногтями по внутренней стороне моих бедер, раскрывая меня, как будто она владеет каждым сантиметром моего тела."
-
 # ch/sasha/fuck.rpy:2256
 translate russian sasha_fuck_date_rimjob_12a55e2f:
     "Звук царапин ее колец о мою кожу заставляет меня вздрогнуть, и она ухмыляется в ответ."
@@ -23487,10 +23203,6 @@ translate russian sasha_fuck_date_rimjob_abba4107:
 # ch/sasha/fuck.rpy:2305
 translate russian sasha_fuck_date_rimjob_ef325743:
     "Каждый раз, когда она отстраняется, она выдыхает медленный, прохладный воздух на мокрый, болезненный беспорядок, который она из меня сделала."
-
-# ch/sasha/fuck.rpy:2306
-translate russian sasha_fuck_date_rimjob_3d72edff:
-    "Это особый вид жестокости, и, судя по звуку, который она издает, ей нравится каждое мгновение этого."
 
 # ch/sasha/fuck.rpy:2307
 translate russian sasha_fuck_date_rimjob_aa6b160f:
@@ -23913,7 +23625,7 @@ translate russian sasha_fuck_date_handjob_90557e96:
     sasha.say "Значит, тебе это кажется забавным, да?"
 
 # ch/sasha/fuck.rpy:2441
-translate russian sasha_fuck_date_handjob_8c2a4aa4:
+translate russian sasha_fuck_date_handjob_e9deb171:
     mike.say "Ну... да..."
 
 # ch/sasha/fuck.rpy:2442
@@ -24033,7 +23745,7 @@ translate russian sasha_fuck_date_handjob_d28f27f3:
     mike.say "Саша..."
 
 # ch/sasha/fuck.rpy:2472
-translate russian sasha_fuck_date_handjob_53968b35:
+translate russian sasha_fuck_date_handjob_403e4039:
     mike.say "Я... я сейчас..."
 
 # ch/sasha/fuck.rpy:2473
@@ -24164,10 +23876,6 @@ translate russian sasha_fuck_date_titfuck_55dcc191:
 translate russian sasha_fuck_date_titfuck_b18a095a:
     sasha.say "Знаешь, что самое ужасное? Ты мне, кажется, нравишься. Как сыпь. Очень назойливая сыпь."
 
-# ch/sasha/fuck.rpy:2516
-translate russian sasha_fuck_date_titfuck_cf603ba8:
-    "Для Саши это почти сонет, и мы оба это знаем, и именно поэтому она говорит это как оскорбление."
-
 # ch/sasha/fuck.rpy:2517
 translate russian sasha_fuck_date_titfuck_bda51ad2:
     "Я тянусь и убираю прядь влажных волос за ее ухом, и она позволяет мне это, на мгновение замолкает."
@@ -24207,10 +23915,6 @@ translate russian sasha_fuck_date_titfuck_2ff5fc3c:
 # ch/sasha/fuck.rpy:2529
 translate russian sasha_fuck_date_titfuck_46593490:
     "Она берет инициативу, не говоря ни слова, подталкивая меня, с этой раздражающей маленькой улыбкой, которая говорит о том, что сегодня она главная."
-
-# ch/sasha/fuck.rpy:2531
-translate russian sasha_fuck_date_titfuck_58a07558:
-    "Она смотрит на меня так, как будто ждет, что ей скажу, что делать, жаждет быть полезной, готова дать мне все, что я попрошу."
 
 # ch/sasha/fuck.rpy:2533
 translate russian sasha_fuck_date_titfuck_4a9393ca:
@@ -24261,7 +23965,7 @@ translate russian sasha_fuck_date_titfuck_223f20fc:
     "Мгновенно ее выражение лица становится восторженным, и она тянется, чтобы взять это в свою руку."
 
 # ch/sasha/fuck.rpy:2551
-translate russian sasha_fuck_date_titfuck_21b8ea4f:
+translate russian sasha_fuck_date_titfuck_ec9f3e87:
     mike.say "Нет-нет... подожди минутку."
 
 # ch/sasha/fuck.rpy:2552
@@ -24353,7 +24057,7 @@ translate russian sasha_fuck_date_titfuck_60a37aa5:
     "Заметив выражение удивления на моем лице, Саша улыбается и начинает прижимать свои груди друг к другу."
 
 # ch/sasha/fuck.rpy:2579
-translate russian sasha_fuck_date_titfuck_397e0f37:
+translate russian sasha_fuck_date_titfuck_b4c9190c:
     mike.say "В...вау, Саша."
 
 # ch/sasha/fuck.rpy:2580
@@ -24613,7 +24317,7 @@ translate russian sasha_fuck_date_titfuck_2b351ac5:
     "Все это время Саша стонет и хрипит, как будто ощущение моего члена вызывает у нее возбуждение так же, как ее грудь вызывает у меня."
 
 # ch/sasha/fuck.rpy:2684
-translate russian sasha_fuck_date_titfuck_4bc6c501:
+translate russian sasha_fuck_date_titfuck_c8267af5:
     sasha.say "Эм...эм, [lssb_sasha.hero_name()]...пожалуйста...можно ли мне..."
 
 # ch/sasha/fuck.rpy:2685
@@ -24621,7 +24325,7 @@ translate russian sasha_fuck_date_titfuck_2ebcadc2:
     mike.say "Говори громче!"
 
 # ch/sasha/fuck.rpy:2686
-translate russian sasha_fuck_date_titfuck_45d49dda:
+translate russian sasha_fuck_date_titfuck_8efbb633:
     sasha.say "[lssb_sasha.hero_name()]...пожалуйста...можно ли мне...потрогать себя?"
 
 # ch/sasha/fuck.rpy:2687
@@ -24653,11 +24357,11 @@ translate russian sasha_fuck_date_titfuck_f0ed157f:
     "Она находится в серьезной опасности закончить меня в любой момент, но теперь я не могу отвести взгляд от привлекательной картины ее открытых, задыхающихся губ."
 
 # ch/sasha/fuck.rpy:2695
-translate russian sasha_fuck_date_titfuck_991b1a34:
+translate russian sasha_fuck_date_titfuck_ddc2cdf3:
     mike.say "Саша, возьми меня в рот...сейчас."
 
 # ch/sasha/fuck.rpy:2698
-translate russian sasha_fuck_date_titfuck_6d554fa5:
+translate russian sasha_fuck_date_titfuck_b8ba5ac1:
     sasha.say "Эмм...да, да...[lssb_sasha.hero_name()]!"
 
 # ch/sasha/fuck.rpy:2700
@@ -24697,7 +24401,7 @@ translate russian sasha_fuck_date_titfuck_11507694:
     "Саша послушно открывает рот, позволяя мне увидеть, как сперма все еще находится на ее языке."
 
 # ch/sasha/fuck.rpy:2726
-translate russian sasha_fuck_date_titfuck_6dfcdd12:
+translate russian sasha_fuck_date_titfuck_8c2857f3:
     mike.say "Очень хорошо... теперь можешь проглотить."
 
 # ch/sasha/fuck.rpy:2728
@@ -24717,7 +24421,7 @@ translate russian sasha_fuck_date_cowgirl_ec9e8eb3:
     sasha.say "Поставь меня куда хочешь, [lssb_sasha.hero_name()]. Сверху, на моей спине, я просто твоя кукла для секса, которую ты будешь использовать сегодня."
 
 # ch/sasha/fuck.rpy:2740
-translate russian sasha_fuck_date_cowgirl_d410145a:
+translate russian sasha_fuck_date_cowgirl_74d21392:
     sasha.say "Я буду сверху... если ты этого хочешь. Просто скажи слово, и я твоя, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:2742
@@ -24857,15 +24561,15 @@ translate russian sasha_fuck_date_cowgirl_36fc9d7a:
     sasha.say "Ооо!"
 
 # ch/sasha/fuck.rpy:2788
-translate russian sasha_fuck_date_cowgirl_61cc66dc:
+translate russian sasha_fuck_date_cowgirl_32d92b87:
     sasha.say "Хи-хи... ты собираешься трахать меня сзади, [lssb_sasha.hero_name()]?"
 
 # ch/sasha/fuck.rpy:2790
-translate russian sasha_fuck_date_cowgirl_9865c50a:
+translate russian sasha_fuck_date_cowgirl_abe3510e:
     sasha.say "Что... эй!"
 
 # ch/sasha/fuck.rpy:2791
-translate russian sasha_fuck_date_cowgirl_4d568e51:
+translate russian sasha_fuck_date_cowgirl_b4514aee:
     sasha.say "Это моя задница... ты, задница!"
 
 # ch/sasha/fuck.rpy:2792
@@ -25089,7 +24793,7 @@ translate russian sasha_fuck_date_cowgirl_d609a521:
     "Саша задает неторопливый ритм, поднимаясь вверх, пока остается только кончик, а затем медленно опускается вниз с учащенным дыханием."
 
 # ch/sasha/fuck.rpy:2883
-translate russian sasha_fuck_date_cowgirl_e080bd9b:
+translate russian sasha_fuck_date_cowgirl_87776cea:
     sasha.say "Ммм... вот оно. Видишь, именно поэтому я всегда сверху. Я получаю все именно так, как хочу."
 
 # ch/sasha/fuck.rpy:2884
@@ -25137,7 +24841,7 @@ translate russian sasha_fuck_date_cowgirl_f582d3be:
     "Все это время она поддерживает этот сводящий с ума, намеренный темп, используя меня именно так, как она хочет."
 
 # ch/sasha/fuck.rpy:2897
-translate russian sasha_fuck_date_cowgirl_f06ed9f3:
+translate russian sasha_fuck_date_cowgirl_c90b9314:
     sasha.say "Ммм... знала, что ты пригодишься. Теперь замолчи и дай мне насладиться."
 
 # ch/sasha/fuck.rpy:2899
@@ -25305,11 +25009,11 @@ translate russian sasha_fuck_date_cowgirl_6832283a:
     "А через мгновение она снова ахает, когда на нее попадает сперма."
 
 # ch/sasha/fuck.rpy:2983
-translate russian sasha_fuck_date_cowgirl_dd051480:
+translate russian sasha_fuck_date_cowgirl_f05cddc6:
     sasha.say "Презерватив...не...останавливайся!"
 
 # ch/sasha/fuck.rpy:2985
-translate russian sasha_fuck_date_cowgirl_dd051480_1:
+translate russian sasha_fuck_date_cowgirl_f05cddc6_1:
     sasha.say "Презерватив...не...останавливайся!"
 
 # ch/sasha/fuck.rpy:2986
@@ -25317,7 +25021,7 @@ translate russian sasha_fuck_date_cowgirl_188548be:
     sasha.say "Пожалуйста...[lssb_sasha.hero_name()]..."
 
 # ch/sasha/fuck.rpy:2988
-translate russian sasha_fuck_date_cowgirl_11cb1318:
+translate russian sasha_fuck_date_cowgirl_ca1df822:
     sasha.say "Ооо...я...на...таблетках!"
 
 # ch/sasha/fuck.rpy:2989
@@ -25401,7 +25105,7 @@ translate russian sasha_fuck_date_cowgirl_764ce0e3:
     "В то же время Саша смотрит на меня, и на ее лице появляется выражение растущего ужаса."
 
 # ch/sasha/fuck.rpy:3043
-translate russian sasha_fuck_date_cowgirl_1fc5bd83:
+translate russian sasha_fuck_date_cowgirl_58a0f541:
     sasha.say "Черт...черт!"
 
 # ch/sasha/fuck.rpy:3045
@@ -25429,15 +25133,15 @@ translate russian sasha_fuck_date_cowgirl_22e6986d:
     mike.say "Саша, что ты делаешь?!?"
 
 # ch/sasha/fuck.rpy:3055
-translate russian sasha_fuck_date_cowgirl_ded8580a:
+translate russian sasha_fuck_date_cowgirl_b8a836ac:
     sasha.say "Все...хорошо..."
 
 # ch/sasha/fuck.rpy:3056
-translate russian sasha_fuck_date_cowgirl_ed41c7f5:
+translate russian sasha_fuck_date_cowgirl_3eb30183:
     sasha.say "Зайди внутрь меня...пожалуйста?"
 
 # ch/sasha/fuck.rpy:3058
-translate russian sasha_fuck_date_cowgirl_ed41c7f5_1:
+translate russian sasha_fuck_date_cowgirl_3eb30183_1:
     sasha.say "Зайди внутрь меня...пожалуйста?"
 
 # ch/sasha/fuck.rpy:3059
@@ -25445,7 +25149,7 @@ translate russian sasha_fuck_date_cowgirl_bfbf404c:
     sasha.say "Сделай меня своей навсегда..."
 
 # ch/sasha/fuck.rpy:3061
-translate russian sasha_fuck_date_cowgirl_af407bb5:
+translate russian sasha_fuck_date_cowgirl_c1a7bc1a:
     sasha.say "Ммм...я хочу, чтобы ты наполнил меня, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:3062
@@ -25495,10 +25199,6 @@ translate russian sasha_fuck_date_missionary_bb3d5dab:
 # ch/sasha/fuck.rpy:3099
 translate russian sasha_fuck_date_missionary_94729169:
     sasha.say "Используй меня, [lssb_sasha.hero_name()]. Привяжи меня и сделай со мной что-нибудь, я просто твоя маленькая кукла, которую ты можешь сломать."
-
-# ch/sasha/fuck.rpy:3101
-translate russian sasha_fuck_date_missionary_fc67a9cf:
-    sasha.say "Сделай мне жестко...пожалуйста? Скажи мне, как ты хочешь, и я приму это, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:3103
 translate russian sasha_fuck_date_missionary_b633d397:
@@ -25709,7 +25409,7 @@ translate russian sasha_fuck_date_missionary_2651d7c9:
     "И все, что я могу сделать, это кивнуть и начать запинаться, отвечая."
 
 # ch/sasha/fuck.rpy:3235
-translate russian sasha_fuck_date_missionary_bd2934a8:
+translate russian sasha_fuck_date_missionary_6275d15c:
     mike.say "Д...да, Саша..."
 
 # ch/sasha/fuck.rpy:3236
@@ -25964,10 +25664,6 @@ translate russian sasha_fuck_date_missionary_61fbb318:
 translate russian sasha_fuck_date_missionary_1c4ddb22:
     "Она молча умоляет меня о последнем усилии, которое приведет ее к освобождению."
 
-# ch/sasha/fuck.rpy:3338
-translate russian sasha_fuck_date_missionary_2a504552:
-    "Она кладет одну руку на округлый живот и смотрит мне в глаза, на ее губах нет ни намека на улыбку, только чистейшее желание."
-
 # ch/sasha/fuck.rpy:3340
 translate russian sasha_fuck_date_missionary_d31dc9b8:
     sasha.say "Не останавливайся, [lssb_sasha.hero_name()]...Боже, я люблю тебя. Не заставляй меня говорить это второй раз."
@@ -26057,7 +25753,7 @@ translate russian sasha_fuck_date_missionary_a5ca9899:
     sasha.say "Наполни меня..."
 
 # ch/sasha/fuck.rpy:3396
-translate russian sasha_fuck_date_missionary_5c2a15c3:
+translate russian sasha_fuck_date_missionary_41dfab41:
     sasha.say "Все в порядке... Я на таблетках!"
 
 # ch/sasha/fuck.rpy:3397
@@ -26085,7 +25781,7 @@ translate russian sasha_fuck_date_missionary_a5ca9899_1:
     sasha.say "Наполни меня..."
 
 # ch/sasha/fuck.rpy:3409
-translate russian sasha_fuck_date_missionary_f0da8840:
+translate russian sasha_fuck_date_missionary_10c79b49:
     sasha.say "Все в порядке... Я беременна!"
 
 # ch/sasha/fuck.rpy:3410
@@ -26412,10 +26108,6 @@ translate russian sasha_fuck_date_missionary_61fbb318_1:
 translate russian sasha_fuck_date_missionary_1c4ddb22_1:
     "Молча умоляя меня о последнем усилии, которое позволит ей достичь оргазма."
 
-# ch/sasha/fuck.rpy:3540
-translate russian sasha_fuck_date_missionary_2a504552_1:
-    "Она кладет одну руку на свой живот и смотрит мне в глаза, на ее губах нет ни намека на улыбку, только чистейшее желание."
-
 # ch/sasha/fuck.rpy:3542
 translate russian sasha_fuck_date_missionary_d31dc9b8_1:
     sasha.say "Не останавливайся, [lssb_sasha.hero_name()]...Боже, я люблю тебя. Не заставляй меня говорить это второй раз."
@@ -26563,10 +26255,6 @@ translate russian sasha_fuck_date_standing_015113de:
 # ch/sasha/fuck.rpy:3625
 translate russian sasha_fuck_date_standing_05933873:
     sasha.say "Делай что хочешь, [lssb_sasha.hero_name()]."
-
-# ch/sasha/fuck.rpy:3627
-translate russian sasha_fuck_date_standing_99264b64:
-    sasha.say "Используй меня как хочешь, [lssb_sasha.hero_name()]. Я просто твоя дырка, в которую ты будешь трахать меня перед зеркалом сегодня вечером."
 
 # ch/sasha/fuck.rpy:3629
 translate russian sasha_fuck_date_standing_df6e6947:
@@ -27069,7 +26757,7 @@ translate russian sasha_fuck_date_standing_6fec547e:
     sasha.say "О, блин!"
 
 # ch/sasha/fuck.rpy:3862
-translate russian sasha_fuck_date_standing_6b50a1c8:
+translate russian sasha_fuck_date_standing_df06b73f:
     mike.say "Ух... двойной блин!"
 
 # ch/sasha/fuck.rpy:3865
@@ -27131,10 +26819,6 @@ translate russian sasha_fuck_date_standing_e666af8d:
 # ch/sasha/fuck.rpy:3888
 translate russian sasha_fuck_date_standing_4e110f66:
     "Как будто она подталкивает меня к тому, чтобы я сделал с ней больше, чтобы я подтолкнул ее еще дальше."
-
-# ch/sasha/fuck.rpy:3890
-translate russian sasha_fuck_date_standing_9a2d1fba:
-    "В зеркале я вижу, как она одной рукой обнимает выпячивание своего живота, и это зрелище почти сводит меня с ума."
 
 # ch/sasha/fuck.rpy:3892
 translate russian sasha_fuck_date_standing_5355b0b3:
@@ -27241,7 +26925,7 @@ translate russian sasha_fuck_date_standing_f795e079:
     sasha.say "Мммф..."
 
 # ch/sasha/fuck.rpy:3949
-translate russian sasha_fuck_date_standing_959b556c:
+translate russian sasha_fuck_date_standing_e14e5705:
     sasha.say "Мммм...ммф!"
 
 # ch/sasha/fuck.rpy:3952
@@ -27249,23 +26933,23 @@ translate russian sasha_fuck_date_standing_24fc5ca4:
     sasha.say "[lssb_sasha.hero_name()[0]]...[lssb_sasha.hero_name()]..."
 
 # ch/sasha/fuck.rpy:3954
-translate russian sasha_fuck_date_standing_472ef073:
+translate russian sasha_fuck_date_standing_f26e3932:
     sasha.say "М...Господин..."
 
 # ch/sasha/fuck.rpy:3955
-translate russian sasha_fuck_date_standing_a98c14b9:
+translate russian sasha_fuck_date_standing_7a957d2a:
     sasha.say "Могу ли я... могу ли я... оргазм испытать?"
 
 # ch/sasha/fuck.rpy:3957
-translate russian sasha_fuck_date_standing_14af8eaa:
+translate russian sasha_fuck_date_standing_fe9ea38e:
     sasha.say "М...больше... дай мне больше..."
 
 # ch/sasha/fuck.rpy:3958
-translate russian sasha_fuck_date_standing_51e8af23:
+translate russian sasha_fuck_date_standing_f8b125ab:
     sasha.say "Заставь меня... оргазм испытать!"
 
 # ch/sasha/fuck.rpy:3960
-translate russian sasha_fuck_date_standing_65aba86b:
+translate russian sasha_fuck_date_standing_7b3221e9:
     sasha.say "Я... я сейчас... сейчас оргазм испытаю!"
 
 # ch/sasha/fuck.rpy:3961
@@ -27349,7 +27033,7 @@ translate russian sasha_fuck_date_standing_a5ca9899:
     sasha.say "Наполни меня..."
 
 # ch/sasha/fuck.rpy:4004
-translate russian sasha_fuck_date_standing_5c2a15c3:
+translate russian sasha_fuck_date_standing_41dfab41:
     sasha.say "Все в порядке... Я на таблетках!"
 
 # ch/sasha/fuck.rpy:4005
@@ -27381,7 +27065,7 @@ translate russian sasha_fuck_date_standing_a5ca9899_1:
     sasha.say "Наполни меня..."
 
 # ch/sasha/fuck.rpy:4018
-translate russian sasha_fuck_date_standing_f0da8840:
+translate russian sasha_fuck_date_standing_10c79b49:
     sasha.say "Все в порядке... Я беременна!"
 
 # ch/sasha/fuck.rpy:4019
@@ -27585,7 +27269,7 @@ translate russian sasha_fuck_date_standing_6fec547e_1:
     sasha.say "О, блин!"
 
 # ch/sasha/fuck.rpy:4090
-translate russian sasha_fuck_date_standing_6b50a1c8_1:
+translate russian sasha_fuck_date_standing_df06b73f_1:
     mike.say "Ух... двойной блин!"
 
 # ch/sasha/fuck.rpy:4093
@@ -27647,10 +27331,6 @@ translate russian sasha_fuck_date_standing_e666af8d_1:
 # ch/sasha/fuck.rpy:4116
 translate russian sasha_fuck_date_standing_4e110f66_1:
     "Как будто она подталкивает меня к тому, чтобы я сделал с ней больше, чтобы я подтолкнул ее еще дальше."
-
-# ch/sasha/fuck.rpy:4118
-translate russian sasha_fuck_date_standing_9a2d1fba_1:
-    "В зеркале я вижу, как она одной рукой обхватывает выпуклость своего живота, и это зрелище почти сводит меня с ума."
 
 # ch/sasha/fuck.rpy:4120
 translate russian sasha_fuck_date_standing_5355b0b3_1:
@@ -27757,7 +27437,7 @@ translate russian sasha_fuck_date_standing_f795e079_1:
     sasha.say "Ммм..."
 
 # ch/sasha/fuck.rpy:4177
-translate russian sasha_fuck_date_standing_959b556c_1:
+translate russian sasha_fuck_date_standing_e14e5705_1:
     sasha.say "Мммм...ммф!"
 
 # ch/sasha/fuck.rpy:4180
@@ -27765,23 +27445,23 @@ translate russian sasha_fuck_date_standing_24fc5ca4_1:
     sasha.say "[lssb_sasha.hero_name()[0]]...[lssb_sasha.hero_name()]..."
 
 # ch/sasha/fuck.rpy:4182
-translate russian sasha_fuck_date_standing_6e74bc59:
+translate russian sasha_fuck_date_standing_7aa21cff:
     sasha.say "М...хозяин..."
 
 # ch/sasha/fuck.rpy:4183
-translate russian sasha_fuck_date_standing_a98c14b9_1:
+translate russian sasha_fuck_date_standing_7a957d2a_1:
     sasha.say "Могу ли я... могу ли я... оргазмировать?"
 
 # ch/sasha/fuck.rpy:4185
-translate russian sasha_fuck_date_standing_14af8eaa_1:
+translate russian sasha_fuck_date_standing_fe9ea38e_1:
     sasha.say "М...больше... дай мне больше..."
 
 # ch/sasha/fuck.rpy:4186
-translate russian sasha_fuck_date_standing_51e8af23_1:
+translate russian sasha_fuck_date_standing_f8b125ab_1:
     sasha.say "Заставь меня... оргазмировать!"
 
 # ch/sasha/fuck.rpy:4188
-translate russian sasha_fuck_date_standing_65aba86b_1:
+translate russian sasha_fuck_date_standing_7b3221e9_1:
     sasha.say "Я... я сейчас... сейчас оргазмирую!"
 
 # ch/sasha/fuck.rpy:4189
@@ -28173,7 +27853,7 @@ translate russian sasha_fuck_date_doggy_2f749cd7:
     mike.say "Рад, что тебе понравилось."
 
 # ch/sasha/fuck.rpy:4408
-translate russian sasha_fuck_date_doggy_6e4864f6:
+translate russian sasha_fuck_date_doggy_f9c15d29:
     sasha.say "Не переусердствуй в следующий раз, [lssb_sasha.hero_name()]. Но... да. Мне это было нужно."
 
 # ch/sasha/fuck.rpy:4410
@@ -28232,10 +27912,6 @@ translate russian sasha_fuck_date_doggy_eaaf543b:
 translate russian sasha_fuck_date_doggy_799258ef:
     "Я беру поводок с постельного белья и прикрепляю его к кольцу на ее ошейнике; она очень тихо стоит и позволяет мне это сделать."
 
-# ch/sasha/fuck.rpy:4443
-translate russian sasha_fuck_date_doggy_a202a4bb:
-    "Затем я натягиваю его, пока ремешок не натянется - не настолько, чтобы оторвать ее щеку от кровати, а всего лишь настолько, чтобы она почувствовала, кто держит другой конец."
-
 # ch/sasha/fuck.rpy:4444
 translate russian sasha_fuck_date_doggy_f23b072e:
     sasha.say "...Хорошо. Ясно, [lssb_sasha.hero_name()]."
@@ -28273,16 +27949,8 @@ translate russian sasha_fuck_date_doggy_12805379:
     "Я устанавливаю медленный, ритмичный темп, просто чтобы почувствовать, как она сопротивляется мне, жадно желая большего, чем я ей даю."
 
 # ch/sasha/fuck.rpy:4458
-translate russian sasha_fuck_date_doggy_800856ca:
+translate russian sasha_fuck_date_doggy_be61419c:
     sasha.say "Пожалуйста... просто используй меня. Как угодно, мне все равно, я твоя, чтобы ты меня сломал, [lssb_sasha.hero_name()]."
-
-# ch/sasha/fuck.rpy:4460
-translate russian sasha_fuck_date_doggy_9dc8eb4d:
-    sasha.say "Твоя дырка, чтобы ты ее использовал, [lssb_sasha.hero_name()]. Это все, что я сегодня, и мы оба это знаем."
-
-# ch/sasha/fuck.rpy:4462
-translate russian sasha_fuck_date_doggy_1039f57b:
-    sasha.say "Хорошо... хорошо, ладно, ты водишь. Скажи мне, как ты хочешь, и перестань тянуть время, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:4464
 translate russian sasha_fuck_date_doggy_6a9a6cce:
@@ -28293,7 +27961,7 @@ translate russian sasha_fuck_date_doggy_33c2b9a4:
     sasha.say "Сильнее. Глубже. Я не вставала на колени для нежного секса, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:4468
-translate russian sasha_fuck_date_doggy_f0b85064:
+translate russian sasha_fuck_date_doggy_2f1c06cb:
     sasha.say "Давай... перестань дразнить и просто сломай меня уже. Я не записывалась на нежный секс, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:4469
@@ -28404,10 +28072,6 @@ translate russian sasha_fuck_date_doggy_18c2bc1b:
 translate russian sasha_fuck_date_doggy_c1225f35:
     "Все, что я вижу сзади, – это ее лицо, прижатое к постельному белью, глаза зажмурены, и это, как ни странно, лучше, чем любой взгляд, который она могла бы мне дать."
 
-# ch/sasha/fuck.rpy:4507
-translate russian sasha_fuck_date_doggy_4683dee4:
-    sasha.say "Блин...ладно, да, вот здесь, не смей останавливаться, [lssb_sasha.hero_name()]."
-
 # ch/sasha/fuck.rpy:4508
 translate russian sasha_fuck_date_doggy_5cfdac1a:
     "Ее обычная броня сарказма полностью исчезла, не оставив ничего, кроме искреннего, неподдельного желания."
@@ -28453,7 +28117,7 @@ translate russian sasha_fuck_date_doggy_908a8972:
     "На мгновение мы оба замираем на этой самой грани, стремясь к одному и тому же отчаянному финалу."
 
 # ch/sasha/fuck.rpy:4520
-translate russian sasha_fuck_date_doggy_f205491f:
+translate russian sasha_fuck_date_doggy_346a95e7:
     sasha.say "Вот и все... боже, так быстро... не смей меня сейчас подводить, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:4531
@@ -28512,10 +28176,6 @@ translate russian sasha_fuck_date_doggy_97535544:
 translate russian sasha_fuck_date_doggy_ef7b0ee7:
     sasha.say "...Будь осторожнее в следующий раз с \"грузом\", [lssb_sasha.hero_name()]. Шучу. В основном. Это было именно то, что мне было нужно."
 
-# ch/sasha/fuck.rpy:4576
-translate russian sasha_fuck_date_doggy_8a9b6643:
-    sasha.say "...Не позволяй этому зайти тебе в голову, но я могла бы привыкнуть к тому, как ты меня \"ломаешь\", [lssb_sasha.hero_name()]."
-
 # ch/sasha/fuck.rpy:4578
 translate russian sasha_fuck_date_doggy_156767ae:
     sasha.say "...Неплохо. Для тебя, [lssb_sasha.hero_name()]."
@@ -28533,7 +28193,7 @@ translate russian sasha_bondage_sex_df48483e:
     "Мы оба уже голые на этом этапе, и она стоит перед зеркалом во всю длину."
 
 # ch/sasha/fuck.rpy:4596
-translate russian sasha_bondage_sex_a37a7452:
+translate russian sasha_bondage_sex_a179cc2a:
     sasha.say "Вот, подними ее и затем завяжи, правильно... вот здесь!"
 
 # ch/sasha/fuck.rpy:4597
@@ -28565,16 +28225,12 @@ translate russian sasha_bondage_sex_f88b8115:
     "Я особенно осторожен там, где веревка переходит через выпуклость ее живота, делая петлю там более свободной, и даже сейчас она чувствует мягкость в этом месте."
 
 # ch/sasha/fuck.rpy:4605
-translate russian sasha_bondage_sex_1b87df4d:
+translate russian sasha_bondage_sex_9269422e:
     sasha.say "Расслабься, [lssb_sasha.hero_name()]. Я беременна, а не сделана из стекла. Хотя... это не самое ужасное, что может случиться."
 
 # ch/sasha/fuck.rpy:4606
-translate russian sasha_bondage_sex_f11a0bd9:
+translate russian sasha_bondage_sex_ce1e1738:
     sasha.say "Будь осторожен с этим, это... ох. О, хорошо, сделай это снова, это хорошая форма грубости, [lssb_sasha.hero_name()]."
-
-# ch/sasha/fuck.rpy:4607
-translate russian sasha_bondage_sex_13894842:
-    "Это странно и опьяняюще, эта власть, которую она передает мне, шаг за шагом, все это связано с веревкой и доверием."
 
 # ch/sasha/fuck.rpy:4608
 translate russian sasha_bondage_sex_c10ca48a:
@@ -28656,10 +28312,6 @@ translate russian sasha_bondage_sex_5d0e69e2:
 translate russian sasha_bondage_sex_dfec5733:
     sasha.say "Видишь что-нибудь, что тебе нравится, [lssb_sasha.hero_name()]? Поставь, ты никогда не думал, что увидишь, как я привязана и готова к этому."
 
-# ch/sasha/fuck.rpy:4629
-translate russian sasha_bondage_sex_30243ecf:
-    "Я не удостаиваю это ответа, просто позволяю своим глазам скользить по каждой ее клеточке, пока ухмылка не исчезает."
-
 # ch/sasha/fuck.rpy:4630
 translate russian sasha_bondage_sex_dd2ba532:
     "Глаза Саши огромные, и, кажется, ее выражение лица побуждает меня что-то сделать."
@@ -28667,10 +28319,6 @@ translate russian sasha_bondage_sex_dd2ba532:
 # ch/sasha/fuck.rpy:4631
 translate russian sasha_bondage_sex_83348745:
     "На мгновение я теряюсь, привык быть пораженным ее красотой и потрясающим телом."
-
-# ch/sasha/fuck.rpy:4633
-translate russian sasha_bondage_sex_f11b1d66:
-    sasha.say "Пожалуйста. Я вся привязана и твоя, так что используй меня, как хочешь, [lssb_sasha.hero_name()]. Не будь слишком нежным."
 
 # ch/sasha/fuck.rpy:4635
 translate russian sasha_bondage_sex_facd9903:
@@ -28709,7 +28357,7 @@ translate russian sasha_bondage_sex_339b60dc:
     "Впервые за все время, что я ее знаю, за ее губами нет ни одного остроумного замечания, только послушание."
 
 # ch/sasha/fuck.rpy:4647
-translate russian sasha_bondage_sex_edfc74bb:
+translate russian sasha_bondage_sex_f1d1a2f8:
     sasha.say "Нет, Господин. Никакого слайд-шоу. Просто... скажи мне, и я сделаю это. Это, наверное, и есть вся суть, верно?"
 
 # ch/sasha/fuck.rpy:4648
@@ -28749,7 +28397,7 @@ translate russian sasha_bondage_sex_c4b8b56c:
     "Её язык скользит по нижней стороне, с каждым наклоном головы, неловко и отчаянно стремясь меня угодить."
 
 # ch/sasha/fuck.rpy:4660
-translate russian sasha_bondage_sex_9bc02c83:
+translate russian sasha_bondage_sex_af0ee2d2:
     sasha.say "Ммм... ещё? Ты хочешь ещё? Тогда держи мою голову и принимай это, [lssb_sasha.hero_name()]. Я не могу тебе совсем помешать."
 
 # ch/sasha/fuck.rpy:4661
@@ -28757,7 +28405,7 @@ translate russian sasha_bondage_sex_e59c879f:
     "Приглушенные слова вибрируют вокруг моего члена, и я делаю именно то, что она предлагает, засовывая руку в её волосы."
 
 # ch/sasha/fuck.rpy:4662
-translate russian sasha_bondage_sex_75d5b813:
+translate russian sasha_bondage_sex_7bca2363:
     mike.say "Продолжай, это правильно... так я тебя научу, для чего на самом деле хороша твоя рот."
 
 # ch/sasha/fuck.rpy:4663
@@ -28773,7 +28421,7 @@ translate russian sasha_bondage_sex_809308e4:
     "Слезы выступают у неё в уголках глаз, и она ни разу не пытается отстраниться, просто стонет и позволяет себе это."
 
 # ch/sasha/fuck.rpy:4666
-translate russian sasha_bondage_sex_7052ef0c:
+translate russian sasha_bondage_sex_28114af0:
     sasha.say "Ммм... хорошо, да? Я же говорила... я лучше справляюсь с этим, чем она."
 
 # ch/sasha/fuck.rpy:4667
@@ -28804,10 +28452,6 @@ translate russian sasha_bondage_sex_51a0d5db:
 translate russian sasha_bondage_sex_e3b04c25:
     "Время от времени я ослабляю хватку, просто чтобы услышать её влажный, отчаянный вздох, прежде чем она снова опускается на меня."
 
-# ch/sasha/fuck.rpy:4674
-translate russian sasha_bondage_sex_f76c29ea:
-    sasha.say "Пожалуйста... не останавливайся, ты не смеешь останавливаться сейчас. Я этого хочу. Я хочу, чтобы ты кончил из-за меня."
-
 # ch/sasha/fuck.rpy:4675
 translate russian sasha_bondage_sex_46eafc5a:
     "То, что Саша, из всех людей, умоляет, чтобы её использовали, настолько сильно меня потрясает, что я почти теряю контроль."
@@ -28829,7 +28473,7 @@ translate russian sasha_bondage_sex_6a99400d:
     "Я чувствую, как всё её тело напрягается против веревок, стремясь к трению, которого узлы ей не дают."
 
 # ch/sasha/fuck.rpy:4680
-translate russian sasha_bondage_sex_8a2ed877:
+translate russian sasha_bondage_sex_3de3f5e4:
     sasha.say "Ммм... используй меня. Давай. Это для чего я и привязана, разве нет? Так используй меня должным образом, Мастер."
 
 # ch/sasha/fuck.rpy:4681
@@ -28988,10 +28632,6 @@ translate russian sasha_bondage_sex_second_round_13f3c0dd:
 translate russian sasha_bondage_sex_second_round_0e498813:
     mike.say "Лучше. Теперь попроси меня вежливо о том, чего ты хочешь."
 
-# ch/sasha/fuck.rpy:4764
-translate russian sasha_bondage_sex_second_round_0a84f22d:
-    sasha.say "Пожалуйста. Пожалуйста, используй меня так, как хочешь. Я вся привязана и принадлежу тебе, чтобы ты меня испортил, так что...давай, делай это, ладно?"
-
 # ch/sasha/fuck.rpy:4765
 translate russian sasha_bondage_sex_second_round_936b8c18:
     "Даже связанная и умоляющая, она не может удержаться от саркастического подтекста, и я люблю ее за это."
@@ -29005,7 +28645,7 @@ translate russian sasha_bondage_sex_second_round_d11d6b5b:
     "Все ее тело становится одной натянутой, дрожащей линией, стремящейся к большему контакту, чем позволяют веревки."
 
 # ch/sasha/fuck.rpy:4768
-translate russian sasha_bondage_sex_second_round_6e021d25:
+translate russian sasha_bondage_sex_second_round_415a7866:
     sasha.say "Боже, это...ладно, это действительно хорошо. Сделай это снова. То есть, пожалуйста, сделай это снова, Мастер."
 
 # ch/sasha/fuck.rpy:4769
@@ -29019,10 +28659,6 @@ translate russian sasha_bondage_sex_second_round_127229de:
 # ch/sasha/fuck.rpy:4771
 translate russian sasha_bondage_sex_second_round_edd86df3:
     "Саша взвизгивает и дергается от веревок, и этот звук превращается во что-то гораздо более нуждающееся, чем просто боль."
-
-# ch/sasha/fuck.rpy:4772
-translate russian sasha_bondage_sex_second_round_79e1428d:
-    sasha.say "Ой. Ой, ладно, да, еще этого. Пожалуйста. Я была полной сволочью всю неделю, и мы оба это знаем."
 
 # ch/sasha/fuck.rpy:4773
 translate russian sasha_bondage_sex_second_round_251f0c05:
@@ -29436,10 +29072,6 @@ translate russian sasha_bondage_sex_second_round_050c9b6b:
 translate russian sasha_bondage_sex_second_round_7800173e:
     "Саша шевелит освобожденными запястьями и вращает плечами, и на мгновение жесткая маска полностью спадает."
 
-# ch/sasha/fuck.rpy:5057
-translate russian sasha_bondage_sex_second_round_eb6a006d:
-    sasha.say "Хорошо. Вау. Это было... да. Ты хорошо справился, [lssb_sasha.hero_name()]. Не зазнавайся из-за этого."
-
 # ch/sasha/fuck.rpy:5058
 translate russian sasha_bondage_sex_second_round_761c6998:
     "Я беру одно из ее запястий и растираю его, чтобы вернуть чувствительность, где веревка впилась, и она позволяет мне это сделать."
@@ -29529,7 +29161,7 @@ translate russian sasha_dom_cunnilingus_male_2fba9b3f:
     "Сидя здесь, я думаю, захочет ли она в любой момент потребовать от меня что-нибудь спонтанно."
 
 # ch/sasha/fuck.rpy:5089
-translate russian sasha_dom_cunnilingus_male_fb6cd1c8:
+translate russian sasha_dom_cunnilingus_male_15cf4d37:
     "Это почти так же волнующе, как если бы она действительно попросила меня сделать то, что она хочет... но не совсем."
 
 # ch/sasha/fuck.rpy:5090
@@ -29585,7 +29217,7 @@ translate russian sasha_dom_cunnilingus_male_86937679:
     "Все изгибы и линии ее тела демонстрируются этим одним движением, и я не могу не смотреть на нее с тоской."
 
 # ch/sasha/fuck.rpy:5107
-translate russian sasha_dom_cunnilingus_male_079334e2:
+translate russian sasha_dom_cunnilingus_male_50298190:
     sasha.say "[lssb_sasha.hero_name()], малыш... я сегодня чувствую себя очень напряженно."
 
 # ch/sasha/fuck.rpy:5108
@@ -29704,10 +29336,6 @@ translate russian sasha_dom_cunnilingus_male_3e39c96f:
 translate russian sasha_dom_cunnilingus_male_af7d6b43:
     sasha.say "Вот так. Хороший мальчик, [lssb_sasha.hero_name()]."
 
-# ch/sasha/fuck.rpy:5154
-translate russian sasha_dom_cunnilingus_male_f473fc0a:
-    "Во мне нет ни намека на бунт, только потребность сделать так хорошо, чтобы она соизволила поблагодарить меня за это. Эта девушка владеет мной, и мы оба это знаем."
-
 # ch/sasha/fuck.rpy:5156
 translate russian sasha_dom_cunnilingus_male_546e532c:
     "Она гладит меня по щеке, все еще улыбаясь, а затем переводит свой взгляд обратно на телевизор, как будто я мебель, которая оказывается полезной."
@@ -29715,10 +29343,6 @@ translate russian sasha_dom_cunnilingus_male_546e532c:
 # ch/sasha/fuck.rpy:5157
 translate russian sasha_dom_cunnilingus_male_ee0e4661:
     "Это такой снисходительный жест, и вместо того, чтобы возмутиться, я просто хочу снова увидеть эту улыбку, чтобы быть достаточно хорошим, чтобы она посмотрела на меня снова."
-
-# ch/sasha/fuck.rpy:5158
-translate russian sasha_dom_cunnilingus_male_640cd566:
-    sasha.say "Меньше думай, больше языка, [lssb_sasha.hero_name()]. Ты делаешь все так хорошо, так что не смей останавливаться."
 
 # ch/sasha/fuck.rpy:5160
 translate russian sasha_dom_cunnilingus_male_11ab4887:
@@ -29777,7 +29401,7 @@ translate russian sasha_dom_cunnilingus_male_f27493a8:
     "Это заставляет меня чувствовать непреодолимое желание проследить каждую из них, снова и снова."
 
 # ch/sasha/fuck.rpy:5248
-translate russian sasha_dom_cunnilingus_male_c2e4532b:
+translate russian sasha_dom_cunnilingus_male_75705092:
     sasha.say "Ох...[lssb_sasha.hero_name()]...да...пожалуйста!"
 
 # ch/sasha/fuck.rpy:5250
@@ -29793,7 +29417,7 @@ translate russian sasha_dom_cunnilingus_male_091ac086:
     "Эта мысль заставляет меня стремиться вызвать больше таких криков от Саши, и я посвящаю себя тому, чтобы сделать ее максимально счастливой."
 
 # ch/sasha/fuck.rpy:5273
-translate russian sasha_dom_cunnilingus_male_566d0a00:
+translate russian sasha_dom_cunnilingus_male_13bdb44e:
     sasha.say "Господи...кажется, я собираюсь...я, кажется, оргазмируюсь!"
 
 # ch/sasha/fuck.rpy:5275
@@ -29809,7 +29433,7 @@ translate russian sasha_dom_cunnilingus_male_4302fc03:
     "И, делая это, я провожу Сашу за ее пределом."
 
 # ch/sasha/fuck.rpy:5302
-translate russian sasha_dom_cunnilingus_male_a0f180fc:
+translate russian sasha_dom_cunnilingus_male_406a945e:
     sasha.say "Ох...ох, черт...оооо, черт!"
 
 # ch/sasha/fuck.rpy:5309
@@ -29847,10 +29471,6 @@ translate russian sasha_dom_cunnilingus_male_b8e3a063:
 # ch/sasha/fuck.rpy:5328
 translate russian sasha_dom_cunnilingus_male_8317e76c:
     sasha.say "Это действительно меня расслабило!"
-
-# ch/sasha/fuck.rpy:5330
-translate russian sasha_dom_cunnilingus_male_f8fffd80:
-    sasha.say "...Это было очень хорошо, [lssb_sasha.hero_name()]. Ты меня балуешь. Но не зазнавайся из-за этого."
 
 # ch/sasha/fuck.rpy:5332
 translate russian sasha_dom_cunnilingus_male_03f80c7e:
@@ -30048,10 +29668,6 @@ translate russian sasha_gift_sexy_dress_male_39c39677:
 translate russian sasha_gift_sexy_dress_male_c7564f54:
     sasha.say "Спасибо, [lssb_sasha.hero_name()]."
 
-# ch/sasha/gift.rpy:144
-translate russian sasha_gift_sexy_dress_male_8fa19411:
-    sasha.say "Только не зазнавайся, [lssb_sasha.hero_name()]."
-
 # ch/sasha/gift.rpy:150
 translate russian sasha_gift_sexy_dress_male_fe9354f6:
     sasha.say "Мечтай, извращенец. Я это не надену..."
@@ -30145,7 +29761,7 @@ translate russian sasha_gift_slutty_dress_male_aa0835a6:
     sasha.say "Это ты ведёшь себя странно и весь вспотел."
 
 # ch/sasha/gift.rpy:181
-translate russian sasha_gift_slutty_dress_male_e3bbaa46:
+translate russian sasha_gift_slutty_dress_male_f2c2f19c:
     sasha.say "Ага! Попалась!"
 
 # ch/sasha/gift.rpy:183
@@ -30177,7 +29793,7 @@ translate russian sasha_gift_slutty_dress_male_ed23b112:
     sasha.say "Со сколькими ещё девушками ты встречаешься, кроме меня?"
 
 # ch/sasha/gift.rpy:192
-translate russian sasha_gift_slutty_dress_male_fd26b3ba:
+translate russian sasha_gift_slutty_dress_male_488e6ed3:
     sasha.say "Стой... лучше не отвечай!"
 
 # ch/sasha/gift.rpy:194
@@ -30653,7 +30269,7 @@ translate russian sasha_ice_cream_reaction_male_10f55d4a:
     "Саша берёт такой же, но выбирает свои вкусы."
 
 # ch/sasha/reactions.rpy:6
-translate russian sasha_ice_cream_reaction_male_c8e0bba4:
+translate russian sasha_ice_cream_reaction_male_8a35477e:
     mike.say "Ого... Похоже, тебе нравится, Саша!"
 
 # ch/sasha/reactions.rpy:7
@@ -30829,7 +30445,7 @@ translate russian sasha_slap_ass_happy_male_14734770:
     "Прикусив губу, Саша прогибается и снова подставляет задницу."
 
 # ch/sasha/reactions.rpy:101
-translate russian sasha_slap_ass_happy_male_c62d0c02:
+translate russian sasha_slap_ass_happy_male_f3dac4fd:
     sasha.say "М-м-м... ещё, [lssb_sasha.hero_name()]. Только посильнее."
 
 # ch/sasha/reactions.rpy:102
@@ -30977,7 +30593,7 @@ translate russian sasha_breakup_male_f5356f3b:
     sasha.say "Мне ведь это не понравится?"
 
 # ch/sasha/reactions.rpy:153
-translate russian sasha_breakup_male_185dc17f:
+translate russian sasha_breakup_male_d3ee8013:
     mike.say "Да... нет, Саша, не понравится."
 
 # ch/sasha/reactions.rpy:154
@@ -30985,7 +30601,7 @@ translate russian sasha_breakup_male_ebaaaa30:
     mike.say "Думаю, нам нужно поговорить о наших отношениях."
 
 # ch/sasha/reactions.rpy:155
-translate russian sasha_breakup_male_3d12747d:
+translate russian sasha_breakup_male_fac17762:
     mike.say "Я... мне кажется, они никуда не ведут."
 
 # ch/sasha/reactions.rpy:156
@@ -31144,10 +30760,6 @@ translate russian sasha_pet_happy_male_b5165415:
 translate russian sasha_pet_happy_male_18e1f4c1:
     sasha.say "Но мне понравилось, [lssb_sasha.hero_name()]."
 
-# ch/sasha/reactions.rpy:213
-translate russian sasha_pet_happy_male_26e28594:
-    sasha.say "Только не зазнавайся. Ладно, можешь самую малость."
-
 # ch/sasha/reactions.rpy:215
 translate russian sasha_pet_happy_male_2be9fa9d:
     sasha.say "Неплохая попытка, [lssb_sasha.hero_name()]. Но здесь я глажу по головке."
@@ -31237,7 +30849,7 @@ translate russian sasha_massage_refuse_male_c3712cfd:
     sasha.say "Не хочу, чтобы стало ещё хуже!"
 
 # ch/sasha/reactions.rpy:258
-translate russian sasha_piercing_nipples_reaction_male_1c8d51c1:
+translate russian sasha_piercing_nipples_reaction_male_0c2fd254:
     sasha.say "Ха... Теперь проколоть соски кажется таким очевидным решением!"
 
 # ch/sasha/reactions.rpy:259
@@ -31281,7 +30893,7 @@ translate russian sasha_piercing_clit_reaction_male_9faed6db:
     sasha.say "Так что спасибо."
 
 # ch/sasha/reactions.rpy:278
-translate russian sasha_piercing_head_reaction_male_f11e14e0:
+translate russian sasha_piercing_head_reaction_male_1c3b2290:
     sasha.say "Ого... Бэк-вокал у меня какое-то время будет странноватым!"
 
 # ch/sasha/reactions.rpy:279
@@ -31305,11 +30917,11 @@ translate russian sasha_piercing_nose_reaction_male_24390639:
     sasha.say "Ну что, когда и себе сделаешь?!"
 
 # ch/sasha/reactions.rpy:290
-translate russian sasha_movie_disliked_reaction_male_640bdd5d:
+translate russian sasha_movie_disliked_reaction_male_d44a5f29:
     sasha.say "Уф... Полное разочарование. Только время зря потратили!"
 
 # ch/sasha/reactions.rpy:294
-translate russian sasha_movie_indifferent_reaction_male_ceee00f3:
+translate russian sasha_movie_indifferent_reaction_male_1f69283a:
     sasha.say "СКУКА... СКУКА... СКУКА... Чуть не уснула!"
 
 # ch/sasha/reactions.rpy:298
@@ -31405,7 +31017,7 @@ translate russian sasha_belly_kiss_male_ee7c3988:
     mike.say "Ладно, Саша, ладно..."
 
 # ch/sasha/reactions.rpy:330
-translate russian sasha_belly_kiss_male_7267bb93:
+translate russian sasha_belly_kiss_male_53e15792:
     mike.say "Я... просто хочу поцеловать живот. Вот и всё."
 
 # ch/sasha/reactions.rpy:331
@@ -31469,7 +31081,7 @@ translate russian sasha_belly_kiss_male_ebecb387:
     "Особенно когда слышу, как Саша надо мной довольно вздыхает."
 
 # ch/sasha/reactions.rpy:354
-translate russian sasha_belly_kiss_male_669d0eab:
+translate russian sasha_belly_kiss_male_5e527c8e:
     sasha.say "Ладно, это... это и правда очень мило, [lssb_sasha.hero_name()]."
 
 # ch/sasha/reactions.rpy:355
@@ -31725,7 +31337,7 @@ translate russian sasha_belly_listen_male_8609d66d:
     mike.say "Тогда это ребёнок там шевелится..."
 
 # ch/sasha/reactions.rpy:452
-translate russian sasha_belly_listen_male_55c2c711:
+translate russian sasha_belly_listen_male_1d37c6a5:
     mike.say "Будто... будто отвечает на мою барабанную дробь!"
 
 # ch/sasha/reactions.rpy:454
@@ -31757,7 +31369,7 @@ translate russian sasha_belly_listen_male_034ddacc:
     mike.say "Но если хоть малейший шанс есть, я хочу увидеть!"
 
 # ch/sasha/reactions.rpy:461
-translate russian sasha_belly_listen_male_4c8773f7:
+translate russian sasha_belly_listen_male_95e1a3bd:
     mike.say "То есть... услышать..."
 
 # ch/sasha/reactions.rpy:462
@@ -31777,7 +31389,7 @@ translate russian sasha_belly_listen_male_096846c6:
     mike.say "Шевельнулся. Думаю, ему тоже понравилось, как я барабаню."
 
 # ch/sasha/reactions.rpy:468
-translate russian sasha_belly_listen_male_1db2ce90:
+translate russian sasha_belly_listen_male_5f53cae5:
     sasha.say "Но... да. Я только что почувствовала, как ребёнок шевельнулся в ответ тебе, [lssb_sasha.hero_name()]."
 
 # ch/sasha/reactions.rpy:470
@@ -32113,7 +31725,7 @@ translate russian submissive_interact_sasha_male_1f40ff6c:
     mike.say "Например, ты могла бы говорить, что я завожу тебя круче хеви-метала."
 
 # ch/sasha/talk.rpy:315
-translate russian submissive_interact_sasha_male_bbf4e4bb:
+translate russian submissive_interact_sasha_male_23b5e6df:
     sasha.say "Ох... ну и банальщина, [lssb_sasha.hero_name()]!"
 
 # ch/sasha/talk.rpy:317
@@ -32125,7 +31737,7 @@ translate russian submissive_interact_sasha_male_e0adc4fc:
     sasha.say "Ладно, ладно. Попробую что-нибудь придумать."
 
 # ch/sasha/talk.rpy:322
-translate russian submissive_interact_sasha_male_f461393f:
+translate russian submissive_interact_sasha_male_4e5f82ff:
     sasha.say "Ого... ну и убожество, [lssb_sasha.hero_name()]!"
 
 # ch/sasha/talk.rpy:323
@@ -32133,7 +31745,7 @@ translate russian submissive_interact_sasha_male_3c0adea8:
     sasha.say "Может, ещё твоё имя на заднице вытатуировать?!"
 
 # ch/sasha/talk.rpy:325
-translate russian submissive_interact_sasha_male_6fcf1940:
+translate russian submissive_interact_sasha_male_8a066d14:
     mike.say "Ну... когда ты так это подаёшь, Саша..."
 
 # ch/sasha/talk.rpy:326
@@ -32512,10 +32124,6 @@ translate russian sasha_dirty_texts_male_0be6cfd9:
 translate russian sasha_dirty_texts_male_9925c63a_2:
     sasha_nvl "Ну и чего ждёшь?"
 
-# ch/sasha/texts.rpy:235
-translate russian sasha_dirty_texts_male_7fb1e0ad:
-    sasha_nvl "Приходи, поиграй с моей киской и скажи, как хочешь меня взять!"
-
 # ch/sasha/texts.rpy:237
 translate russian sasha_dirty_texts_male_ea2d4d55:
     sasha_nvl "Мило. Только это я на тебе играю, [lssb_sasha.hero_name()], а не ты на мне."
@@ -32589,7 +32197,7 @@ translate russian sasha_dirty_texts_male_9ff93cc4:
     mchero_nvl "Но ещё больше мне нравится пронзать тебя своим членом!"
 
 # ch/sasha/texts.rpy:289
-translate russian sasha_dirty_texts_male_8006e314:
+translate russian sasha_dirty_texts_male_37c981bd:
     sasha_nvl "Не-а... такую колючку я в себя не пущу!"
 
 # ch/sasha/texts.rpy:292
@@ -32597,7 +32205,7 @@ translate russian sasha_dirty_texts_male_10fec7a6_1:
     sasha_nvl "Обожаю чувствовать твой член внутри!"
 
 # ch/sasha/texts.rpy:293
-translate russian sasha_dirty_texts_male_85617cb6:
+translate russian sasha_dirty_texts_male_0c89c404:
     sasha_nvl "М-м-м... вот такой пирсинг мне по вкусу!"
 
 # ch/sasha/texts.rpy:294

@@ -7,6 +7,7 @@ init 1004 python:
 
 screen mallmap(locations):
     variant "lssb_visual_ui_26_8_0d"
+    default hovered_location = None
     if not (renpy.get_screen("smartphone") or renpy.get_screen("story_tracker")):
         fixed:
             at master_bleed
@@ -16,12 +17,11 @@ screen mallmap(locations):
             for location in [l for l in locations if l.id in mallmap_location_positions]:
                 $ x, y = mallmap_location_positions[location.id]
                 $ girls = location.get_present_girls_ids()
-                $ glist = ""
-                for index, girl in enumerate(girls[:6]):
-                    $ glist += f"; {girl}"
-                $ self_voicing_location = _lssb_visual_ui_translate(location.display_name) + "; " + glist
+                $ self_voicing_location = f"{_lssb_visual_ui_translate(location.display_name)}; {'; '.join(girls)}"
                 imagebutton auto "lssb_visual_quality/ui/map_hex_%s.svg" xpos x ypos y xanchor 0.5 yanchor 0.5 alt self_voicing_location:
                     action [SetVariable("game.room", location.id), Return()]
+                    hovered SetScreenVariable("hovered_location", location.id)
+                    unhovered SetScreenVariable("hovered_location", None)
                 for index, g in enumerate(girls[:6]):
                     $ x_g = x
                     $ y_g = y
@@ -45,6 +45,7 @@ screen mallmap(locations):
                         yanchor 0.5
                         add "gui/icons/icon_bg_small.png"
                         add "notify " + g
+                use map_more_people(x, y, len(girls), hovered_location == location.id)
                 if location.id == "mall1":
                     $ location_name = "Mall Southside"
                 elif location.id == "mall2":

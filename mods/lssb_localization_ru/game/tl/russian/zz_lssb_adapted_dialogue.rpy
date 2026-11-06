@@ -6,7 +6,7 @@ translate russian cassidy_arrange_party_f4f9d72b:
     cassidy.say "Я и в подростковом возрасте этого наслушалась."
 
 # Non-graphic adaptation.
-translate russian cassidy_arrange_party_ca339c2f:
+translate russian cassidy_arrange_party_1127e6cd:
     cassidy.say "Да. За стеной было всё слышно, а моя спальня находилась рядом."
 
 # Direct translation.
@@ -14,7 +14,7 @@ translate russian cassidy_arrange_party_c68ce494:
     "Кэссиди неловко ёрзает, но отвращением это не назовёшь."
 
 # Direct translation.
-translate russian cassidy_arrange_party_f14bff49:
+translate russian cassidy_arrange_party_66f3401c:
     mike.say "Погоди, ты что… подслушивала их?"
 
 # Non-graphic adaptation.
@@ -82,7 +82,7 @@ translate russian kylie_event_03_3346c824:
     mike.say "Погоди, это как-то связано с твоим рассказом о том, как ты видела нас с Алексис?"
 
 # Non-graphic adaptation.
-translate russian kylie_event_03_c0d0aaca:
+translate russian kylie_event_03_ef3b1a2d:
     kylie.say "Ага… Когда ты не позвонил в тот вечер, я решила, что ты считаешь меня какой-то ненормальной!"
 
 # Non-graphic adaptation.
@@ -138,7 +138,7 @@ translate russian kylie_event_02_4c807333:
     mike.say "Теперь ты уже не маленькая!"
 
 # Non-graphic adaptation.
-translate russian morgan_fuck_nightclub_522a26c3:
+translate russian morgan_fuck_nightclub_fcb623d8:
     morgan.say "Я тогда… мечтала о тебе!"
 
 # Direct translation.
@@ -158,7 +158,7 @@ translate russian morgan_fuck_nightclub_fe16d6a9:
     "От мысли, что я столько значил для Морган, у меня захватывает дух."
 
 # Non-graphic adaptation.
-translate russian morgan_fuck_nightclub_b331bbcc:
+translate russian morgan_fuck_nightclub_25829de8:
     mike.say "Просто… твоё признание меня взволновало."
 
 # Direct translation.
@@ -208,10 +208,6 @@ translate russian morgan_fuck_date_cunnilingus_96968f34:
 # Direct translation.
 translate russian morgan_fuck_date_cunnilingus_b55bfcf4:
     mike.say "Ну что, я оправдал твои ожидания?"
-
-# Direct translation.
-translate russian morgan_fuck_date_cunnilingus_2fb79abc:
-    morgan.say "Ещё как — ты их превзошёл!"
 
 # Non-graphic adaptation.
 translate russian morgan_fuck_date_cunnilingus_9fbc8e8f:

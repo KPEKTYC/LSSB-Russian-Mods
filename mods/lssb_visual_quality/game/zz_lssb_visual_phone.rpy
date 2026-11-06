@@ -332,7 +332,7 @@ screen smartphone(char=None, selected_screen="home"):
                         xsize 220
                         $ attr_bar_ui = None
                         if hero.is_male and Person.is_not_hidden("minami"):
-                            $ attr_bar_ui = minami.siscon.for_ui()
+                            $ attr_bar_ui = minami.siscon.for_ui(minami)
                         elif hero.is_female:
                             $ attr_bar_ui = hero.morality.for_ui()
                         if attr_bar_ui is not None:

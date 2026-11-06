@@ -129,7 +129,7 @@ translate russian palla_audrey_date_51f28619:
     "Палла говорила, что не против моих свиданий с другими, но это не значит, что ей хочется о них слушать. А тут ещё её лучшая подруга. С каждой минутой всё хуже."
 
 # ch/harems_full/bitchy/events.rpy:236
-translate russian palla_audrey_date_6ea5d304:
+translate russian palla_audrey_date_b350beb8:
     mike.say "Ой, прости, нет. Просто... живот прихватило. Дело не в тебе."
 
 # ch/harems_full/bitchy/events.rpy:238
@@ -193,7 +193,7 @@ translate russian palla_audrey_date_5b72d87a:
     mike.say "Ты же не моя девушка! Мы никогда не договаривались встречаться только друг с другом!"
 
 # ch/harems_full/bitchy/events.rpy:263
-translate russian palla_audrey_date_dd1c54f0:
+translate russian palla_audrey_date_e0eefee5:
     "Я лихорадочно пытаюсь придумать, как разрядить обстановку и не остаться без члена... Но в голову не приходит ни одной идеи, ни хорошей, ни плохой."
 
 # ch/harems_full/bitchy/events.rpy:265
@@ -597,7 +597,7 @@ translate russian palla_audrey_date_loop_79648fc9:
     palla.say "Что?! Погоди, нет! Это Одри хочет, чтобы её отшлёпали!"
 
 # ch/harems_full/bitchy/events.rpy:465
-translate russian palla_audrey_date_loop_a206b392:
+translate russian palla_audrey_date_loop_e569f036:
     palla.say "Я имела в виду... кое-что другое."
 
 # ch/harems_full/bitchy/events.rpy:466
@@ -617,7 +617,7 @@ translate russian palla_audrey_date_loop_bf7d4276:
     "Палла смотрит на меня своими большими голубыми глазами."
 
 # ch/harems_full/bitchy/events.rpy:472
-translate russian palla_audrey_date_loop_009ccb36:
+translate russian palla_audrey_date_loop_4abecfd0:
     palla.say "Я... пожалуйста, не надо."
 
 # ch/harems_full/bitchy/events.rpy:473
@@ -705,7 +705,7 @@ translate russian palla_audrey_date_loop_cf510699:
     mike.say "Вылижешь мою сперму из киски своей лучшей подруги? Позволишь ей трахать твою пизду страпоном, пока я трахаю тебя в задницу?"
 
 # ch/harems_full/bitchy/events.rpy:514
-translate russian palla_audrey_date_loop_f00ade0e:
+translate russian palla_audrey_date_loop_ed039de3:
     palla.say "Да, пожалуйста! Всё это! Только... прекратите!"
 
 # ch/harems_full/bitchy/events.rpy:515
@@ -761,7 +761,7 @@ translate russian palla_audrey_date_loop_5305658e:
     mike.say "Надевай."
 
 # ch/harems_full/bitchy/events.rpy:541
-translate russian palla_audrey_date_loop_4e1d9307:
+translate russian palla_audrey_date_loop_f2a8b2fc:
     palla.say "Погоди, ты... Она будет использовать это на мне?"
 
 # ch/harems_full/bitchy/events.rpy:542
@@ -805,7 +805,7 @@ translate russian palla_audrey_date_loop_0573353b:
     "Вскоре я извергаюсь ей в задницу."
 
 # ch/harems_full/bitchy/events.rpy:559
-translate russian palla_audrey_date_loop_431014f4:
+translate russian palla_audrey_date_loop_9ff5a77c:
     palla.say "Ох, блядь, ох... [lssb_common.hero_name()], это было... невероятно."
 
 # ch/harems_full/bitchy/events.rpy:560
@@ -837,7 +837,7 @@ translate russian palla_audrey_date_loop_79689161:
     palla.say "Иди сюда, любимый."
 
 # ch/harems_full/bitchy/events.rpy:570
-translate russian palla_audrey_date_loop_c7e4777e:
+translate russian palla_audrey_date_loop_fd84ae2c:
     "Вообще-то командовать должен я, но... сил больше нет, а там так уютно."
 
 # ch/harems_full/bitchy/events.rpy:571
@@ -909,7 +909,7 @@ translate russian palla_audrey_date_areyoumad_75a29089:
     palla.say "Если коротко, Одри — тупая стерва."
 
 # ch/harems_full/bitchy/events.rpy:602
-translate russian palla_audrey_date_areyoumad_b4356806:
+translate russian palla_audrey_date_areyoumad_48243fd9:
     palla.say "А если подробно... Я всё спланировала. Точно объяснила ей, что и как делать. Она меня не послушала. Не должна была так злиться и шуметь. Я доверилась ей и облажалась. Ладно? Это моя вина."
 
 # ch/harems_full/bitchy/events.rpy:604
@@ -973,7 +973,7 @@ translate russian palla_audrey_date_areyoumad_9dc3b6a7:
     "Палла подходит ко мне."
 
 # ch/harems_full/bitchy/events.rpy:625
-translate russian palla_audrey_date_areyoumad_2323743d:
+translate russian palla_audrey_date_areyoumad_e2813a3b:
     palla.say "Я могу быть... очень сговорчивой."
 
 # ch/harems_full/bitchy/events.rpy:626
@@ -993,7 +993,7 @@ translate russian palla_audrey_date_areyoumad_031b58d4:
     palla.say "Я свободна. А ты?"
 
 # ch/harems_full/bitchy/events.rpy:631
-translate russian palla_audrey_date_areyoumad_f0d708a5:
+translate russian palla_audrey_date_areyoumad_2d7ab03c:
     palla.say "Погоди, [lssb_common.hero_name()], ты что... отказываешься от секса?"
 
 # ch/harems_full/bitchy/events.rpy:632
@@ -1069,7 +1069,7 @@ translate russian palla_audrey_date_areyoumad_efe354ef:
     palla.say "Но что?"
 
 # ch/harems_full/bitchy/events.rpy:651
-translate russian palla_audrey_date_areyoumad_3727c747:
+translate russian palla_audrey_date_areyoumad_e644a8ba:
     mike.say "Но... может, я позволю тебе заслужить прощение."
 
 # ch/harems_full/bitchy/events.rpy:652
@@ -1125,7 +1125,7 @@ translate russian palla_audrey_date_areyoumad_6d86c513:
     palla.say "Тогда только это и важно."
 
 # ch/harems_full/bitchy/events.rpy:681
-translate russian palla_audrey_date_apology_86216d1d:
+translate russian palla_audrey_date_apology_cd34dd1d:
     palla.say "Привет, [lssb_common.hero_name()]. Я просто хотела сказать... Мне очень жаль из-за поведения Одри в тот вечер. Ну, когда ты нас наказал."
 
 # ch/harems_full/bitchy/events.rpy:682
@@ -1489,7 +1489,7 @@ translate russian cassidy_audrey_showdown_e069ae97:
     audrey.say "Во что это я тут вмешалась?!"
 
 # ch/harems_full/bitchy/events.rpy:818
-translate russian cassidy_audrey_showdown_cd4d31c0:
+translate russian cassidy_audrey_showdown_567ac8d6:
     cassidy.say "Я... я..."
 
 # ch/harems_full/bitchy/events.rpy:820
@@ -1693,7 +1693,7 @@ translate russian cassidy_audrey_showdown_ae57475b:
     audrey.say "Трахни меня уже!"
 
 # ch/harems_full/bitchy/events.rpy:902
-translate russian cassidy_audrey_showdown_7d6a01d9:
+translate russian cassidy_audrey_showdown_3a26d759:
     mike.say "К... конечно, Одри!"
 
 # ch/harems_full/bitchy/events.rpy:903
@@ -1777,7 +1777,7 @@ translate russian cassidy_audrey_showdown_4d0350d8:
     audrey.say "Ох, блядь..."
 
 # ch/harems_full/bitchy/events.rpy:930
-translate russian cassidy_audrey_showdown_ec64ef42:
+translate russian cassidy_audrey_showdown_f6d42906:
     audrey.say "М-м-м... блядь, да!"
 
 # ch/harems_full/bitchy/events.rpy:931
@@ -2213,7 +2213,7 @@ translate russian cassidy_palla_showdown_7541e41a:
     "И отступать она тоже не из тех."
 
 # ch/harems_full/bitchy/events.rpy:1102
-translate russian cassidy_palla_showdown_126775b3:
+translate russian cassidy_palla_showdown_9556f339:
     mike.say "Кэссиди... Палла..."
 
 # ch/harems_full/bitchy/events.rpy:1103
@@ -2589,7 +2589,7 @@ translate russian cassidy_palla_showdown_b5727da5:
     cassidy.say "Потому что тогда я и у тебя кое-что оторву!"
 
 # ch/harems_full/bitchy/events.rpy:1257
-translate russian cassidy_palla_showdown_b85b7687:
+translate russian cassidy_palla_showdown_c59b6b6c:
     mike.say "Э-э... нет, Кэссиди..."
 
 # ch/harems_full/bitchy/events.rpy:1258
@@ -2649,7 +2649,7 @@ translate russian cassidy_palla_showdown_1bdf4bdb:
     palla.say "Потому что тогда я и у тебя кое-что оторву!"
 
 # ch/harems_full/bitchy/events.rpy:1278
-translate russian cassidy_palla_showdown_6d32c429:
+translate russian cassidy_palla_showdown_1f7c1bc5:
     mike.say "Э-э... нет, Палла..."
 
 # ch/harems_full/bitchy/events.rpy:1279
@@ -3017,7 +3017,7 @@ translate russian bitchy_harem_foursome_request_509fa995:
     "Я качаю головой, не веря услышанному."
 
 # ch/harems_full/bitchy/events.rpy:1471
-translate russian bitchy_harem_foursome_request_b7112617:
+translate russian bitchy_harem_foursome_request_42a5e55d:
     mike.say "П... правда?!"
 
 # ch/harems_full/bitchy/events.rpy:1472
@@ -3605,7 +3605,7 @@ translate russian bitchy_harem_nightclub_encounter_543bfa87:
     cassidy.say "У тебя такой вид, будто ты привидение увидел!"
 
 # ch/harems_full/bitchy/events.rpy:1684
-translate russian bitchy_harem_nightclub_encounter_c4152998:
+translate russian bitchy_harem_nightclub_encounter_077c751b:
     mike.say "Э-э... Не совсем привидение, Кэссиди."
 
 # ch/harems_full/bitchy/events.rpy:1685
@@ -3773,7 +3773,7 @@ translate russian bitchy_harem_nightclub_encounter_e91c2b22:
     audrey.say "Вы знакомы?!"
 
 # ch/harems_full/bitchy/events.rpy:1741
-translate russian bitchy_harem_nightclub_encounter_ce33937e:
+translate russian bitchy_harem_nightclub_encounter_3e210bd1:
     palla.say "Ну... да..."
 
 # ch/harems_full/bitchy/events.rpy:1742
@@ -3849,7 +3849,7 @@ translate russian bitchy_harem_nightclub_encounter_9e518cba:
     cassidy.say "Но он ведь не знал, что вы здесь будете?"
 
 # ch/harems_full/bitchy/events.rpy:1767
-translate russian bitchy_harem_nightclub_encounter_2352533e:
+translate russian bitchy_harem_nightclub_encounter_d5b2ebfa:
     palla.say "Эм... нет."
 
 # ch/harems_full/bitchy/events.rpy:1768
@@ -4561,7 +4561,7 @@ translate russian bitchy_harem_foursome_b0d5e9f9:
     "И чем ближе развязка, тем шире становятся её глаза."
 
 # ch/harems_full/bitchy/events.rpy:2086
-translate russian bitchy_harem_foursome_65a3947a:
+translate russian bitchy_harem_foursome_c846f785:
     cassidy.say "Э... эй..."
 
 # ch/harems_full/bitchy/events.rpy:2087
@@ -5141,7 +5141,7 @@ translate russian bitchy_harem_foursome_64c0ae6c:
     audrey.say "Ты собираешься..."
 
 # ch/harems_full/bitchy/events.rpy:2291
-translate russian bitchy_harem_foursome_0e12fd92:
+translate russian bitchy_harem_foursome_95d69a9b:
     audrey.say "Моя задница... Ты собираешься трахнуть меня в задницу!"
 
 # ch/harems_full/bitchy/events.rpy:2293
@@ -5197,7 +5197,7 @@ translate russian bitchy_harem_foursome_55067f67:
     audrey.say "Не останавливайся..."
 
 # ch/harems_full/bitchy/events.rpy:2307
-translate russian bitchy_harem_foursome_575a26c8:
+translate russian bitchy_harem_foursome_56193ea4:
     audrey.say "Сильнее... пожалуйста... сильнее!"
 
 # ch/harems_full/bitchy/events.rpy:2308
@@ -5253,7 +5253,7 @@ translate russian bitchy_harem_foursome_0481fb71:
     audrey.say "Ты сейчас заставишь меня..."
 
 # ch/harems_full/bitchy/events.rpy:2323
-translate russian bitchy_harem_foursome_193099c3:
+translate russian bitchy_harem_foursome_621c2a01:
     audrey.say "Я... я кончаю!"
 
 # ch/harems_full/bitchy/events.rpy:2326
@@ -5373,7 +5373,7 @@ translate russian bitchy_harem_foursome_81d00f11:
     audrey.say "КАК же хорошо!"
 
 # ch/harems_full/bitchy/events.rpy:2370
-translate russian bitchy_harem_foursome_b387d365:
+translate russian bitchy_harem_foursome_df582ee5:
     audrey.say "Пожалуйста... пожалуйста, не дразни!"
 
 # ch/harems_full/bitchy/events.rpy:2371
@@ -5417,7 +5417,7 @@ translate russian bitchy_harem_foursome_14a6191a:
     audrey.say "О..."
 
 # ch/harems_full/bitchy/events.rpy:2382
-translate russian bitchy_harem_foursome_672dc5a0:
+translate russian bitchy_harem_foursome_276d3902:
     audrey.say "О... пожалуйста..."
 
 # ch/harems_full/bitchy/events.rpy:2384
@@ -5521,7 +5521,7 @@ translate russian bitchy_harem_foursome_0481fb71_1:
     audrey.say "Ты сейчас заставишь меня..."
 
 # ch/harems_full/bitchy/events.rpy:2414
-translate russian bitchy_harem_foursome_193099c3_1:
+translate russian bitchy_harem_foursome_621c2a01_1:
     audrey.say "Я... я кончаю!"
 
 # ch/harems_full/bitchy/events.rpy:2416
@@ -5705,7 +5705,7 @@ translate russian bitchy_harem_foursome_506a05bf:
     "Палла узнаёт о моём замысле, лишь почувствовав член между ягодиц."
 
 # ch/harems_full/bitchy/events.rpy:2482
-translate russian bitchy_harem_foursome_9358fd4c:
+translate russian bitchy_harem_foursome_c82eb5b8:
     palla.say "Ч... что..."
 
 # ch/harems_full/bitchy/events.rpy:2483
@@ -5765,7 +5765,7 @@ translate russian bitchy_harem_foursome_502688c1:
     palla.say "М-м-м..."
 
 # ch/harems_full/bitchy/events.rpy:2498
-translate russian bitchy_harem_foursome_976462e0:
+translate russian bitchy_harem_foursome_42acbddd:
     palla.say "Я... я не знала..."
 
 # ch/harems_full/bitchy/events.rpy:2499
@@ -5953,11 +5953,11 @@ translate russian bitchy_harem_foursome_6dfa41dd:
     palla.say "Ого..."
 
 # ch/harems_full/bitchy/events.rpy:2566
-translate russian bitchy_harem_foursome_2c75aa45:
+translate russian bitchy_harem_foursome_d661df2f:
     palla.say "О... он... такой большой!"
 
 # ch/harems_full/bitchy/events.rpy:2567
-translate russian bitchy_harem_foursome_c57d44b3:
+translate russian bitchy_harem_foursome_05815538:
     palla.say "Хочу его... хочу внутрь!"
 
 # ch/harems_full/bitchy/events.rpy:2568
@@ -6053,11 +6053,11 @@ translate russian bitchy_harem_foursome_072a5280:
     palla.say "Ах..."
 
 # ch/harems_full/bitchy/events.rpy:2593
-translate russian bitchy_harem_foursome_7ba5b1ca:
+translate russian bitchy_harem_foursome_0d3d17d6:
     palla.say "Ох... о боже..."
 
 # ch/harems_full/bitchy/events.rpy:2594
-translate russian bitchy_harem_foursome_b9ac51c8:
+translate russian bitchy_harem_foursome_0be8679e:
     palla.say "Я... я сейчас кончу!"
 
 # ch/harems_full/bitchy/events.rpy:2595
@@ -6065,7 +6065,7 @@ translate russian bitchy_harem_foursome_fa4d621f_1:
     mike.say "Я тоже..."
 
 # ch/harems_full/bitchy/events.rpy:2596
-translate russian bitchy_harem_foursome_71caaaab:
+translate russian bitchy_harem_foursome_59a13a46:
     mike.say "Я тоже... Палла..."
 
 # ch/harems_full/bitchy/events.rpy:2597
@@ -6345,7 +6345,7 @@ translate russian audrey_cassidy_palla_propose_male_7b9d0163:
     "Даже если для этого придётся купить целых ТРИ кольца!"
 
 # ch/harems_full/bitchy/events.rpy:2719
-translate russian audrey_cassidy_palla_propose_male_da03230a:
+translate russian audrey_cassidy_palla_propose_male_716b6664:
     "Уф... Надеюсь, они согласятся, когда я сделаю предложение."
 
 # ch/harems_full/bitchy/events.rpy:2720
@@ -6429,7 +6429,7 @@ translate russian audrey_cassidy_palla_propose_male_4b226a37:
     "И с каждой секундой я волнуюсь всё сильнее."
 
 # ch/harems_full/bitchy/events.rpy:2750
-translate russian audrey_cassidy_palla_propose_male_2c8a12b2:
+translate russian audrey_cassidy_palla_propose_male_e07e722c:
     "Чёрт... Скорее бы они уже ответили."
 
 # ch/harems_full/bitchy/events.rpy:2751
@@ -6757,7 +6757,7 @@ translate russian audrey_cassidy_palla_propose_male_4e60c855_2:
     cassidy.say "Я ОЧЕНЬ хочу, чтобы ты стал моим мужем!"
 
 # ch/harems_full/bitchy/events.rpy:2872
-translate russian audrey_cassidy_palla_propose_male_3483eb4c:
+translate russian audrey_cassidy_palla_propose_male_43b965df:
     audrey.say "Э-э... нет!"
 
 # ch/harems_full/bitchy/events.rpy:2873
@@ -6905,7 +6905,7 @@ translate russian audrey_cassidy_palla_propose_male_4e60c855_3:
     cassidy.say "Я ОЧЕНЬ хочу, чтобы ты стал моим мужем!"
 
 # ch/harems_full/bitchy/events.rpy:2935
-translate russian audrey_cassidy_palla_propose_male_3483eb4c_1:
+translate russian audrey_cassidy_palla_propose_male_43b965df_1:
     audrey.say "Э-э... нет!"
 
 # ch/harems_full/bitchy/events.rpy:2937
@@ -6989,7 +6989,7 @@ translate russian audrey_cassidy_palla_propose_male_6c947844_1:
     palla.say "Думал, я откажусь?"
 
 # ch/harems_full/bitchy/events.rpy:2970
-translate russian audrey_cassidy_palla_propose_male_3483eb4c_2:
+translate russian audrey_cassidy_palla_propose_male_43b965df_2:
     audrey.say "Э-э... нет!"
 
 # ch/harems_full/bitchy/events.rpy:2972
@@ -7053,7 +7053,7 @@ translate russian audrey_cassidy_palla_propose_male_d85a16c2:
     "А пока мне остаётся лишь крепко обнять Паллу."
 
 # ch/harems_full/bitchy/events.rpy:2998
-translate russian audrey_cassidy_palla_propose_male_3483eb4c_3:
+translate russian audrey_cassidy_palla_propose_male_43b965df_3:
     audrey.say "Э-э... нет!"
 
 # ch/harems_full/bitchy/events.rpy:3000
@@ -7525,7 +7525,7 @@ translate russian audrey_cassidy_propose_male_52e52d23:
     "Мне остаётся только пожать плечами и кивнуть."
 
 # ch/harems_full/bitchy/events.rpy:3164
-translate russian audrey_cassidy_propose_male_3c64a355:
+translate russian audrey_cassidy_propose_male_a137dc9b:
     mike.say "Я... наверное."
 
 # ch/harems_full/bitchy/events.rpy:3172
@@ -7813,7 +7813,7 @@ translate russian audrey_palla_propose_male_904cfd2a:
     "Но тут я замечаю, что Одри качает головой."
 
 # ch/harems_full/bitchy/events.rpy:3268
-translate russian audrey_palla_propose_male_3483eb4c:
+translate russian audrey_palla_propose_male_43b965df:
     audrey.say "Э-э... нет!"
 
 # ch/harems_full/bitchy/events.rpy:3270
@@ -7865,7 +7865,7 @@ translate russian audrey_palla_propose_male_d1f8a200:
     "И одновременно качают головами."
 
 # ch/harems_full/bitchy/events.rpy:3288
-translate russian audrey_palla_propose_male_3483eb4c_1:
+translate russian audrey_palla_propose_male_43b965df_1:
     audrey.say "Э-э... нет!"
 
 # ch/harems_full/bitchy/events.rpy:3290
@@ -8025,7 +8025,7 @@ translate russian cassidy_palla_propose_male_7d3a0e63:
     mike.say "Кэссиди..."
 
 # ch/harems_full/bitchy/events.rpy:3342
-translate russian cassidy_palla_propose_male_3de48516:
+translate russian cassidy_palla_propose_male_21bf1c6b:
     mike.say "Я... я хочу вас кое о чём спросить..."
 
 # ch/harems_full/bitchy/events.rpy:3343
@@ -8169,7 +8169,7 @@ translate russian cassidy_palla_propose_male_0a591f24:
     palla.say "Но всё же недостаточно хорошо, чтобы отвлекать внимание от меня."
 
 # ch/harems_full/bitchy/events.rpy:3388
-translate russian cassidy_palla_propose_male_b07789f4:
+translate russian cassidy_palla_propose_male_a2db556d:
     mike.say "Спасибо, Палла... наверное..."
 
 # ch/harems_full/bitchy/events.rpy:3389
@@ -8301,7 +8301,7 @@ translate russian cassidy_palla_propose_male_0a591f24_1:
     palla.say "Но всё же недостаточно хорошо, чтобы отвлекать внимание от меня."
 
 # ch/harems_full/bitchy/events.rpy:3438
-translate russian cassidy_palla_propose_male_b07789f4_1:
+translate russian cassidy_palla_propose_male_a2db556d_1:
     mike.say "Спасибо, Палла... наверное..."
 
 # ch/harems_full/bitchy/events.rpy:3439
@@ -8933,7 +8933,7 @@ translate russian audrey_palla_male_ending_4c18acae:
     "Примерно так и обстоят дела с Одри и Паллой!"
 
 # ch/harems_full/bitchy/events.rpy:3657
-translate russian audrey_palla_male_ending_b6171a12:
+translate russian audrey_palla_male_ending_4c2e43cd:
     "Нет-нет... Погодите, не совсем так."
 
 # ch/harems_full/bitchy/events.rpy:3658

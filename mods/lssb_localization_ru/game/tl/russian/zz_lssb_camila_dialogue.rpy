@@ -401,7 +401,7 @@ translate russian camila_propose_male_a824b489:
     "А уж тогда точно застрелит мою надежду на месте."
 
 # ch/camila/base.rpy:270
-translate russian camila_propose_male_1136c4de:
+translate russian camila_propose_male_d598a4be:
     "Ну... не в буквальном смысле."
 
 # ch/camila/base.rpy:271
@@ -769,7 +769,7 @@ translate russian camila_propose_male_c0fa0880:
     camila.say "Поверь, я видела достаточно супругов полицейских, оставшихся вдовами и вдовцами!"
 
 # ch/camila/base.rpy:392
-translate russian camila_propose_male_6b28e536:
+translate russian camila_propose_male_fc06eb3c:
     mike.say "Я... наверное, ты права, Камила..."
 
 # ch/camila/base.rpy:394
@@ -825,7 +825,7 @@ translate russian camila_propose_male_6dd1ff33:
     "Но затем она издаёт какой-то звук и резко прикрывает рот рукой."
 
 # ch/camila/base.rpy:412
-translate russian camila_propose_male_968a621a:
+translate russian camila_propose_male_901568fb:
     "Это что... она только что всхлипнула?"
 
 # ch/camila/base.rpy:413
@@ -925,7 +925,7 @@ translate russian camila_propose_male_107c7aa7:
     camila.say "Фух..."
 
 # ch/camila/base.rpy:444
-translate russian camila_propose_male_bdb11870:
+translate russian camila_propose_male_9686259b:
     camila.say "Я... я бы так и сделала..."
 
 # ch/camila/base.rpy:445
@@ -933,7 +933,7 @@ translate russian camila_propose_male_eb237f17:
     camila.say "Раньше я всегда так поступала, когда кто-то подходил слишком близко."
 
 # ch/camila/base.rpy:446
-translate russian camila_propose_male_66862cb0:
+translate russian camila_propose_male_10b28876:
     camila.say "Но с тобой... странно..."
 
 # ch/camila/base.rpy:447
@@ -1085,7 +1085,7 @@ translate russian camila_desire_1_male_2ef75e80:
     camila.say "Хорошо, что мы решили проводить время вместе, [lssb_camila.hero_name()]."
 
 # ch/camila/chat.rpy:35
-translate russian camila_desire_1_male_1615053c:
+translate russian camila_desire_1_male_ea2cf1f8:
     camila.say "Ну... не только проводить время, судя по моим нынешним размерам."
 
 # ch/camila/chat.rpy:36
@@ -1125,7 +1125,7 @@ translate russian camila_desire_1_male_aa481c87:
     camila.say "Я и не заметила, как ты стал лучшей частью моей недели."
 
 # ch/camila/chat.rpy:48
-translate russian camila_desire_1_male_2de76183:
+translate russian camila_desire_1_male_a3d2c7c2:
     camila.say "Но просто как друзья... правда?"
 
 # ch/camila/chat.rpy:50
@@ -1361,7 +1361,7 @@ translate russian camila_desire_4_male_5b64564c:
     mike.say "Опять кого-то подстрелила на работе?"
 
 # ch/camila/chat.rpy:156
-translate russian camila_desire_5_male_87926515:
+translate russian camila_desire_5_male_d9592b68:
     camila.say "Я... раньше мне казалось, что я замужем за полицией, [lssb_camila.hero_name()]."
 
 # ch/camila/chat.rpy:157
@@ -1373,7 +1373,7 @@ translate russian camila_desire_5_male_6a657030:
     camila.say "Иногда я вообще ни о чём, кроме вас двоих, думать не могу."
 
 # ch/camila/chat.rpy:160
-translate russian camila_desire_5_male_87926515_1:
+translate russian camila_desire_5_male_d9592b68_1:
     camila.say "Я... раньше мне казалось, что я замужем за полицией, [lssb_camila.hero_name()]."
 
 # ch/camila/chat.rpy:161
@@ -1385,7 +1385,7 @@ translate russian camila_desire_5_male_a6c99c82:
     camila.say "Всю смену думаю о тебе."
 
 # ch/camila/chat.rpy:164
-translate russian camila_desire_5_male_87926515_2:
+translate russian camila_desire_5_male_d9592b68_2:
     camila.say "Я... раньше мне казалось, что я замужем за полицией, [lssb_camila.hero_name()]."
 
 # ch/camila/chat.rpy:165
@@ -1397,7 +1397,7 @@ translate russian camila_desire_5_male_e137051c:
     camila.say "Ты теперь важнее значка. Даже немного страшно, насколько."
 
 # ch/camila/chat.rpy:168
-translate russian camila_desire_5_male_87926515_3:
+translate russian camila_desire_5_male_d9592b68_3:
     camila.say "Я... раньше мне казалось, что я замужем за полицией, [lssb_camila.hero_name()]."
 
 # ch/camila/chat.rpy:169
@@ -1409,7 +1409,7 @@ translate russian camila_desire_5_male_8becb3e2:
     camila.say "Иногда весь день не могу выбросить тебя из головы. И больше не сопротивляюсь."
 
 # ch/camila/chat.rpy:172
-translate russian camila_desire_5_male_87926515_4:
+translate russian camila_desire_5_male_d9592b68_4:
     camila.say "Я... раньше мне казалось, что я замужем за полицией, [lssb_camila.hero_name()]."
 
 # ch/camila/chat.rpy:173
@@ -1913,7 +1913,7 @@ translate russian camila_good_sweet_talk_male_4cd3ae7c_1:
     mike.say "У тебя с собой наручники, Камила?"
 
 # ch/camila/chat.rpy:392
-translate russian camila_good_sweet_talk_male_b246641f:
+translate russian camila_good_sweet_talk_male_ac77fa38:
     mike.say "Я... подумал, может, ты бы... допросила меня?"
 
 # ch/camila/chat.rpy:394
@@ -1969,7 +1969,7 @@ translate russian camila_bad_sweet_talk_male_6c540e4e:
     camila.say "Осторожнее, [lssb_camila.hero_name()]. Я тебя ещё уложу, даже с животом."
 
 # ch/camila/chat.rpy:419
-translate russian camila_bad_sweet_talk_male_72b85a47:
+translate russian camila_bad_sweet_talk_male_a91964a4:
     mike.say "Э-э... да, Камила... пожалуйста, только не бей!"
 
 # ch/camila/chat.rpy:421
@@ -2005,7 +2005,7 @@ translate russian camila_bad_sweet_talk_male_9ae7c713:
     camila.say "Я вообще-то женщина, знаешь ли!"
 
 # ch/camila/chat.rpy:433
-translate russian camila_bad_sweet_talk_male_72b85a47_1:
+translate russian camila_bad_sweet_talk_male_a91964a4_1:
     mike.say "Э-э... да, Камила... пожалуйста, только не бей!"
 
 # ch/camila/condom.rpy:2
@@ -2073,7 +2073,7 @@ translate russian camila_mad_condom_e67d7c50:
     "У меня складывается отчётливое впечатление, что на сегодня всё..."
 
 # ch/camila/date.rpy:2
-translate russian camila_date_intro_valentine_male_a1704180:
+translate russian camila_date_intro_valentine_male_03cbd08b:
     mike.say "Я... ещё никогда не проводил День святого Валентина с полицейской, Камила."
 
 # ch/camila/date.rpy:3
@@ -2141,7 +2141,7 @@ translate russian camila_date_intro_christmas_male_2f83668e:
     "Камила кивает, но не может сдержать зевок."
 
 # ch/camila/date.rpy:35
-translate russian camila_date_intro_christmas_male_3dc76c78:
+translate russian camila_date_intro_christmas_male_ab88a356:
     camila.say "Да... да... прости, [lssb_camila.hero_name()]."
 
 # ch/camila/date.rpy:36
@@ -2177,11 +2177,11 @@ translate russian camila_date_intro_birthday_male_53e69dc0:
     camila.say "Если бы ты не напомнил, я бы забыла!"
 
 # ch/camila/date.rpy:51
-translate russian camila_date_intro_birthday_male_79081567:
+translate russian camila_date_intro_birthday_male_22209bb1:
     mike.say "О... ладно..."
 
 # ch/camila/date.rpy:52
-translate russian camila_date_intro_birthday_male_e5fbf43a:
+translate russian camila_date_intro_birthday_male_2c7073c0:
     mike.say "Для тебя день рождения... не особенно важен?"
 
 # ch/camila/date.rpy:54
@@ -2201,7 +2201,7 @@ translate russian camila_date_intro_mc_birthday_male_7a212e49:
     camila.say "Значит, сегодня его и отмечаем, да?"
 
 # ch/camila/date.rpy:64
-translate russian camila_date_intro_mc_birthday_male_0d4b0ccf:
+translate russian camila_date_intro_mc_birthday_male_5e67fc8a:
     mike.say "А... да, Камила."
 
 # ch/camila/date.rpy:65
@@ -2217,7 +2217,7 @@ translate russian camila_date_intro_mc_birthday_male_961135d8:
     camila.say "Не называл. Я посмотрела в полицейской базе."
 
 # ch/camila/date.rpy:70
-translate russian camila_date_intro_mc_birthday_male_3ac4d86d:
+translate russian camila_date_intro_mc_birthday_male_d605a3b8:
     mike.say "Погоди... что?!"
 
 # ch/camila/date.rpy:71
@@ -2761,7 +2761,7 @@ translate russian camila_date_play_arcade_win_male_3fc03a73:
     "И тут я понимаю, что она краснеет."
 
 # ch/camila/date.rpy:286
-translate russian camila_date_play_arcade_win_male_acc974ac:
+translate russian camila_date_play_arcade_win_male_bff3a4bf:
     camila.say "Ах ты... придурок!"
 
 # ch/camila/date.rpy:287
@@ -2861,7 +2861,7 @@ translate russian camila_date_play_arcade_lose_male_3fc03a73:
     "И тут я понимаю, что она краснеет."
 
 # ch/camila/date.rpy:314
-translate russian camila_date_play_arcade_lose_male_acc974ac:
+translate russian camila_date_play_arcade_lose_male_bff3a4bf:
     camila.say "Ах ты... придурок!"
 
 # ch/camila/date.rpy:315
@@ -3249,7 +3249,7 @@ translate russian camila_halloween_arrival_fb5c0757:
     "Хочется лишь смотреть на Камилу в этом тесном блестящем костюме!"
 
 # ch/camila/date.rpy:458
-translate russian camila_halloween_arrival_94586f5d:
+translate russian camila_halloween_arrival_32905ebf:
     mike.say "Это... потрясающе, Камила."
 
 # ch/camila/date.rpy:459
@@ -3277,7 +3277,7 @@ translate russian camila_halloween_arrival_cabc4e5f:
     camila.say "Но он даёт мне почувствовать себя сильной."
 
 # ch/camila/date.rpy:469
-translate russian camila_halloween_arrival_ef40ec59:
+translate russian camila_halloween_arrival_22324a0a:
     camila.say "И... ну, довольно сексуальной тоже!"
 
 # ch/camila/date.rpy:471
@@ -3369,7 +3369,7 @@ translate russian camila_halloween_arrival_b6b7d1f7:
     camila.say "Хм..."
 
 # ch/camila/date.rpy:502
-translate russian camila_halloween_arrival_7e880a43:
+translate russian camila_halloween_arrival_8e446be2:
     camila.say "Сойдёт... для начала."
 
 # ch/camila/date.rpy:511
@@ -3413,11 +3413,11 @@ translate russian camila_halloween_party_9bc3f06d:
     camila.say "Не хочу подцепить компьютерный вирус!"
 
 # ch/camila/date.rpy:526
-translate russian camila_halloween_party_7a03bafd:
+translate russian camila_halloween_party_0e7c52f8:
     scottie.say "Ай... ай, ай, ай!"
 
 # ch/camila/date.rpy:527
-translate russian camila_halloween_party_a224b212:
+translate russian camila_halloween_party_bedd4186:
     scottie.say "Боже... только не там!"
 
 # ch/camila/date.rpy:528
@@ -3825,7 +3825,7 @@ translate russian camila_halloween_sex_937d5b71:
     mike.say "Разве ты, по сути, не собственность полиции?"
 
 # ch/camila/date.rpy:686
-translate russian camila_halloween_sex_037b5f42:
+translate russian camila_halloween_sex_31a6cdfb:
     mike.say "То есть... я не хочу под арест за загрязнение служебного имущества!"
 
 # ch/camila/date.rpy:688
@@ -4141,11 +4141,11 @@ translate russian camila_halloween_sex_827ba16a:
     camila.say "Ах..."
 
 # ch/camila/date.rpy:788
-translate russian camila_halloween_sex_c84298ce:
+translate russian camila_halloween_sex_53ae057a:
     camila.say "Твоя... главная... директива..."
 
 # ch/camila/date.rpy:789
-translate russian camila_halloween_sex_c1971d94:
+translate russian camila_halloween_sex_bfb6b8e2:
     camila.say "Это... кончить... кончить в меня!"
 
 # ch/camila/date.rpy:791
@@ -4201,7 +4201,7 @@ translate russian camila_halloween_sex_16b272bd:
     "И не мешаю."
 
 # ch/camila/date.rpy:819
-translate russian camila_dick_reactions_db39a483:
+translate russian camila_dick_reactions_7b82913a:
     camila.say "Ого... приветик!"
 
 # ch/camila/date.rpy:820
@@ -4225,7 +4225,7 @@ translate russian camila_dick_reactions_b2bc9bf8:
     camila.say "Господи, [lssb_camila.hero_name()], и это всё?!"
 
 # ch/camila/date.rpy:829
-translate russian camila_dick_reactions_5036fe8e:
+translate russian camila_dick_reactions_dd2f6f5b:
     mike.say "Ч-что ты имеешь в виду, Камила?"
 
 # ch/camila/date.rpy:830
@@ -4289,7 +4289,7 @@ translate russian camila_event_01_957cf2cf:
     "Вся деловая, сразу к сути, без времени на любезности."
 
 # ch/camila/events.rpy:628
-translate russian camila_event_01_a35e2a97:
+translate russian camila_event_01_3ae42439:
     mike.say "А... да, наверное."
 
 # ch/camila/events.rpy:629
@@ -4325,7 +4325,7 @@ translate russian camila_event_01_50d8eb18:
     "То, что Камила не может этого видеть, меня почему-то не волнует."
 
 # ch/camila/events.rpy:637
-translate russian camila_event_01_b3b22434:
+translate russian camila_event_01_a1719af0:
     mike.say "Д-да, Камила..."
 
 # ch/camila/events.rpy:638
@@ -4601,7 +4601,7 @@ translate russian camila_event_01_20ab4970:
     "Она что, правда только что сказала, что это свидание?!"
 
 # ch/camila/events.rpy:723
-translate russian camila_event_01_18fdf238:
+translate russian camila_event_01_4f400820:
     mike.say "Я... Я думал, ты хотела со мной поговорить?"
 
 # ch/camila/events.rpy:724
@@ -4785,7 +4785,7 @@ translate russian camila_event_02_342e2d69:
     "Но её хлопок немного выбил из меня дух, поэтому вместо этого выходит тихий хрип."
 
 # ch/camila/events.rpy:789
-translate russian camila_event_02_6cd9e063:
+translate russian camila_event_02_872fef56:
     mike.say "А... Ладно, Камила."
 
 # ch/camila/events.rpy:790
@@ -5005,7 +5005,7 @@ translate russian camila_event_02_66e69b73:
     mike.say "Да, я здесь не был с тех пор, как мы приходили вместе."
 
 # ch/camila/events.rpy:857
-translate russian camila_event_02_922d4af1:
+translate russian camila_event_02_77341562:
     mike.say "Я... Я просто жду Камилу, вон там."
 
 # ch/camila/events.rpy:858
@@ -5037,7 +5037,7 @@ translate russian camila_event_02_b612f6c4:
     mike.say "О, Камила, это Алетта."
 
 # ch/camila/events.rpy:869
-translate russian camila_event_02_86fb0322:
+translate russian camila_event_02_aff3917b:
     mike.say "Мы... э-э... вместе работаем!"
 
 # ch/camila/events.rpy:870
@@ -5165,7 +5165,7 @@ translate russian camila_event_02_ab05fb83:
     camila.say "Ты, случайно, не ревнуешь?"
 
 # ch/camila/events.rpy:913
-translate russian camila_event_02_41c0b5a3:
+translate russian camila_event_02_4d6590ec:
     mike.say "Что... Ревную?"
 
 # ch/camila/events.rpy:914
@@ -5193,7 +5193,7 @@ translate russian camila_event_02_22e8cf35:
     mike.say "Просто мы ведь пришли сюда вместе, понимаешь?"
 
 # ch/camila/events.rpy:921
-translate russian camila_event_02_c73b393a:
+translate russian camila_event_02_6e507410:
     mike.say "На... Ну, может, это и не совсем свидание..."
 
 # ch/camila/events.rpy:923
@@ -5205,7 +5205,7 @@ translate russian camila_event_02_4a9955d0:
     camila.say "Почему поход в тир не может быть свиданием?"
 
 # ch/camila/events.rpy:925
-translate russian camila_event_02_9fd60b4f:
+translate russian camila_event_02_82549635:
     mike.say "Я... Наверное, может, Камила!"
 
 # ch/camila/events.rpy:926
@@ -5333,7 +5333,7 @@ translate russian camila_event_03_e14837c2:
     mike.say "Камила, вот ты где."
 
 # ch/camila/events.rpy:974
-translate russian camila_event_03_d15d44d9:
+translate russian camila_event_03_09e822b9:
     mike.say "Я... Я приехал так быстро, как только смог!"
 
 # ch/camila/events.rpy:975
@@ -5537,7 +5537,7 @@ translate russian camila_event_03_6d26e18b:
     "По крайней мере, когда речь идёт о её собственной безопасности."
 
 # ch/camila/events.rpy:1032
-translate russian camila_event_03_29a2254f:
+translate russian camila_event_03_5e9fd716:
     mike.say "Я... Стараюсь делать всё, что могу."
 
 # ch/camila/events.rpy:1033
@@ -6469,7 +6469,7 @@ translate russian camila_event_05b_7df327a7:
     "Я едва могу в это поверить и недоверчиво качаю головой."
 
 # ch/camila/events.rpy:1362
-translate russian camila_event_05b_5cb7074c:
+translate russian camila_event_05b_51c95f55:
     mike.say "Ты... Ты боишься, Камила?"
 
 # ch/camila/events.rpy:1363
@@ -6501,7 +6501,7 @@ translate russian camila_event_05b_8228fe7f:
     camila.say "Я НЕ боюсь, ясно?!"
 
 # ch/camila/events.rpy:1372
-translate russian camila_event_05b_7930765e:
+translate russian camila_event_05b_6a4e5852:
     camila.say "Я... Мне просто здесь непривычно, ладно?"
 
 # ch/camila/events.rpy:1373
@@ -6973,7 +6973,7 @@ translate russian camila_event_06_9d842370:
     "Который, кстати, мне очень нравится."
 
 # ch/camila/events.rpy:1541
-translate russian camila_event_06_a0fdf6e2:
+translate russian camila_event_06_a73ae689:
     mike.say "А... Да, Камила..."
 
 # ch/camila/events.rpy:1542
@@ -7025,7 +7025,7 @@ translate russian camila_event_06_f0435b6b:
     camila.say "Я всего лишь собрала волосы после работы!"
 
 # ch/camila/events.rpy:1557
-translate russian camila_event_06_ce8e6e47:
+translate russian camila_event_06_6bad89bf:
     camila.say "Я... Думала, тебе понравится?"
 
 # ch/camila/events.rpy:1559
@@ -7713,7 +7713,7 @@ translate russian camila_event_07_ac00c2fd:
     camila.say "Ты не говорил, что знаком с уличным сбродом, [lssb_camila.hero_name()]."
 
 # ch/camila/events.rpy:1821
-translate russian camila_event_07_89e8cf76:
+translate russian camila_event_07_ae9f9c24:
     mike.say "Что... Ты про Лекси?"
 
 # ch/camila/events.rpy:1822
@@ -7757,7 +7757,7 @@ translate russian camila_event_07_296cdefb:
     mike.say "Я просто решил, что ей необязательно знать такие вещи, Камила."
 
 # ch/camila/events.rpy:1837
-translate russian camila_event_07_51c29996:
+translate russian camila_event_07_8e540d53:
     mike.say "Ты ведь коп, а она... она..."
 
 # ch/camila/events.rpy:1840
@@ -7773,7 +7773,7 @@ translate russian camila_event_07_5891f7ac:
     mike.say "НЕТ!"
 
 # ch/camila/events.rpy:1845
-translate russian camila_event_07_c179383f:
+translate russian camila_event_07_5e4d725e:
     mike.say "То есть... Нет, конечно нет!"
 
 # ch/camila/events.rpy:1846
@@ -7937,7 +7937,7 @@ translate russian camila_event_07_72b1a1c2:
     camila.say "Ты не говорил, что тебе нравятся уличные девки, [lssb_camila.hero_name()]."
 
 # ch/camila/events.rpy:1903
-translate russian camila_event_07_b1ddf6c2:
+translate russian camila_event_07_fcaa3b20:
     mike.say "Что... Ты про ту Лекси?"
 
 # ch/camila/events.rpy:1904
@@ -7985,7 +7985,7 @@ translate russian camila_event_07_296cdefb_1:
     mike.say "Я просто решил, что ей необязательно знать такие вещи, Камила."
 
 # ch/camila/events.rpy:1919
-translate russian camila_event_07_51c29996_1:
+translate russian camila_event_07_8e540d53_1:
     mike.say "Ты ведь коп, а она... она..."
 
 # ch/camila/events.rpy:1922
@@ -8053,11 +8053,11 @@ translate russian camila_event_08_47366b2a:
     mike.say "Что случилось?"
 
 # ch/camila/events.rpy:1952
-translate russian camila_event_08_23ebad78:
+translate russian camila_event_08_290ac120:
     camila.say "П... Привет... [lssb_camila.hero_name()]..."
 
 # ch/camila/events.rpy:1953
-translate russian camila_event_08_611c0c4c:
+translate russian camila_event_08_e2cd6189:
     camila.say "А... Ух..."
 
 # ch/camila/events.rpy:1954
@@ -8113,7 +8113,7 @@ translate russian camila_event_08_a47ea390:
     camila.say "Просто я..."
 
 # ch/camila/events.rpy:1967
-translate russian camila_event_08_6c94b6b4:
+translate russian camila_event_08_decd8f5c:
     camila.say "Просто во время патрулирования сегодня возникли небольшие... неприятности, вот и всё!"
 
 # ch/camila/events.rpy:1968
@@ -8197,7 +8197,7 @@ translate russian camila_event_08_d569a83d:
     "Но тут же расплачивается за это криком настоящей боли."
 
 # ch/camila/events.rpy:1988
-translate russian camila_event_08_9ef3a403:
+translate russian camila_event_08_f123ca84:
     camila.say "А... Чёрт..."
 
 # ch/camila/events.rpy:1989
@@ -8253,7 +8253,7 @@ translate russian camila_event_08_23029128:
     camila.say "Сообщить близким, что произошло."
 
 # ch/camila/events.rpy:2002
-translate russian camila_event_08_433dc5ed:
+translate russian camila_event_08_e7d7a610:
     camila.say "И... я смогла вспомнить только тебя..."
 
 # ch/camila/events.rpy:2003
@@ -8285,7 +8285,7 @@ translate russian camila_event_08_fefe193d:
     mike.say "Я здесь, не волнуйся!"
 
 # ch/camila/events.rpy:2010
-translate russian camila_event_08_3c936dc7:
+translate russian camila_event_08_cddfc953:
     mike.say "Так... Когда можно приехать тебя навестить?"
 
 # ch/camila/events.rpy:2011
@@ -8327,10 +8327,6 @@ translate russian camila_event_09_a23671c3:
 # ch/camila/events.rpy:2029
 translate russian camila_event_09_37384c83:
     "Поэтому к её палате я подхожу уже гораздо спокойнее."
-
-# ch/camila/events.rpy:2031
-translate russian camila_event_09_363d63b9:
-    "Но стоит завернуть за угол и увидеть Камилу на больничной койке..."
 
 # ch/camila/events.rpy:2032
 translate russian camila_event_09_17967a8a:
@@ -8413,7 +8409,7 @@ translate russian camila_event_09_0938b0fc:
     "И при каждом движении морщится от боли, ругаясь себе под нос."
 
 # ch/camila/events.rpy:2054
-translate russian camila_event_09_8be54a5f:
+translate russian camila_event_09_a12b54e8:
     mike.say "Я... Эм..."
 
 # ch/camila/events.rpy:2055
@@ -8481,7 +8477,7 @@ translate russian camila_event_09_f49a48aa:
     camila.say "Просто не люблю, когда вокруг меня суетятся, вот и всё!"
 
 # ch/camila/events.rpy:2071
-translate russian camila_event_09_4ee9439e:
+translate russian camila_event_09_64238592:
     camila.say "К тому же... я вроде как сама виновата, что сюда попала..."
 
 # ch/camila/events.rpy:2072
@@ -8541,7 +8537,7 @@ translate russian camila_event_09_6556a2e7:
     camila.say "А он выстрелил в меня! Этот ублюдок меня подстрелил!"
 
 # ch/camila/events.rpy:2087
-translate russian camila_event_09_cd0f7246:
+translate russian camila_event_09_d18c06e2:
     mike.say "То есть он выстрелил тебе... в спину?"
 
 # ch/camila/events.rpy:2088
@@ -8621,7 +8617,7 @@ translate russian camila_event_09_f2c7c545:
     mike.say "Мне ТАК жаль!"
 
 # ch/camila/events.rpy:2108
-translate russian camila_event_09_833ae03a:
+translate russian camila_event_09_7ee6fd5f:
     mike.say "Это ужасно... Не надо было смеяться."
 
 # ch/camila/events.rpy:2109
@@ -8637,7 +8633,7 @@ translate russian camila_event_09_b3f0d73d:
     "Через несколько секунд она уже хохочет без удержу, словно дурочка."
 
 # ch/camila/events.rpy:2113
-translate russian camila_event_09_2567fb28:
+translate russian camila_event_09_8ae4dc00:
     camila.say "Ага... Знаю!"
 
 # ch/camila/events.rpy:2114
@@ -8645,11 +8641,11 @@ translate russian camila_event_09_4f07b53a:
     camila.say "Так почему мы оба смеёмся?!"
 
 # ch/camila/events.rpy:2115
-translate russian camila_event_09_850147be:
+translate russian camila_event_09_4dcd332a:
     mike.say "Но... С тобой ведь всё будет хорошо?"
 
 # ch/camila/events.rpy:2116
-translate russian camila_event_09_bba16a36:
+translate russian camila_event_09_87b5b883:
     mike.say "То есть... твоя попа полностью восстановится?"
 
 # ch/camila/events.rpy:2117
@@ -8725,7 +8721,7 @@ translate russian camila_event_10_b7617a62:
     mike.say "Но... Но... Но..."
 
 # ch/camila/events.rpy:2152
-translate russian camila_event_10_f46f6beb:
+translate russian camila_event_10_925a481a:
     mike.say "Камила... Это И ЕСТЬ фильм про копа!"
 
 # ch/camila/events.rpy:2153
@@ -8773,7 +8769,7 @@ translate russian camila_event_10_f976f597:
     mike.say "Это и фильм про копа, И кино для задротов..."
 
 # ch/camila/events.rpy:2167
-translate russian camila_event_10_c9551db7:
+translate russian camila_event_10_c3f124e2:
     mike.say "Фантастика! Я хотел сказать — фантастика!"
 
 # ch/camila/events.rpy:2168
@@ -9105,7 +9101,7 @@ translate russian camila_event_10_c07c1560:
     mike.say "Ты хоть что-нибудь из фильма поняла?"
 
 # ch/camila/events.rpy:2271
-translate russian camila_event_10_a2d650e9:
+translate russian camila_event_10_2ad2f41e:
     camila.say "Не-а... Не могу сказать."
 
 # ch/camila/events.rpy:2273
@@ -9177,7 +9173,7 @@ translate russian camila_event_11_56b6a82c:
     camila.say "О чём ты, [lssb_camila.hero_name()]?"
 
 # ch/camila/events.rpy:2299
-translate russian camila_event_11_ccb48326:
+translate russian camila_event_11_d5e809fa:
     camila.say "Я не молчу... Это ты молчишь!"
 
 # ch/camila/events.rpy:2301
@@ -9201,7 +9197,7 @@ translate russian camila_event_11_807d611f:
     camila.say "Могу хоть целый день играть в хорошего и плохого копа!"
 
 # ch/camila/events.rpy:2308
-translate russian camila_event_11_f4b3f849:
+translate russian camila_event_11_5226519b:
     camila.say "А с тобой... никак!"
 
 # ch/camila/events.rpy:2310
@@ -9317,7 +9313,7 @@ translate russian camila_event_11_850605de:
     camila.say "И я задумалась о нас, [lssb_camila.hero_name()]."
 
 # ch/camila/events.rpy:2345
-translate russian camila_event_11_143c539a:
+translate russian camila_event_11_f47a54c6:
     camila.say "Я... Я люблю тебя, [lssb_camila.hero_name()]. Правда люблю!"
 
 # ch/camila/events.rpy:2347
@@ -9349,7 +9345,7 @@ translate russian camila_event_11_d8043698:
     camila.say "Потому что в первом случае ты будешь мне ужасно нужен!"
 
 # ch/camila/events.rpy:2356
-translate russian camila_event_11_b3c0c593:
+translate russian camila_event_11_556c7ede:
     camila.say "А во втором... во втором меня не окажется рядом, когда я понадоблюсь тебе!"
 
 # ch/camila/events.rpy:2359
@@ -9441,7 +9437,7 @@ translate russian camila_event_11_1e9382f7:
     camila.say "Я отдала тебе всю себя. Мне нужно знать, что я всё равно буду тебе нужна, даже если от меня останутся одни обломки."
 
 # ch/camila/events.rpy:2389
-translate russian camila_event_11_0781127f:
+translate russian camila_event_11_c4e6bc68:
     "Её броня просто... исчезает. И та, что скрывалась под ней, цепляется за мою руку как за спасательный круг."
 
 # ch/camila/events.rpy:2392
@@ -9475,10 +9471,6 @@ translate russian camila_sub_event_01_1854c3e7:
 # ch/camila/events.rpy:2409
 translate russian camila_sub_event_01_c040ae9a:
     "Не поймите неправильно, ничего плохого в этом нет: когда ей весело, мне тоже!"
-
-# ch/camila/events.rpy:2410
-translate russian camila_sub_event_01_f2b9ce2b:
-    "Просто я привык к той Камиле, которую успел узнать и полюбить."
 
 # ch/camila/events.rpy:2411
 translate russian camila_sub_event_01_6259d55b:
@@ -9585,7 +9577,7 @@ translate russian camila_sub_event_01_cec1cf3e:
     "Камила досадливо всплёскивает руками."
 
 # ch/camila/events.rpy:2452
-translate russian camila_sub_event_01_28c443e5:
+translate russian camila_sub_event_01_2361bebe:
     camila.say "Будто... будто ты мой криптонит!"
 
 # ch/camila/events.rpy:2454
@@ -9605,7 +9597,7 @@ translate russian camila_sub_event_01_306b10d4:
     camila.say "Ты на меня странно влияешь!"
 
 # ch/camila/events.rpy:2459
-translate russian camila_sub_event_01_d5125eda:
+translate russian camila_sub_event_01_6ea3d82e:
     camila.say "Но... вроде как в хорошем смысле..."
 
 # ch/camila/events.rpy:2460
@@ -9681,7 +9673,7 @@ translate russian camila_sub_event_01_618b7bb6:
     mike.say "Почти у каждого найдётся хоть какая-нибудь пикантная склонность!"
 
 # ch/camila/events.rpy:2483
-translate russian camila_sub_event_01_100857b1:
+translate russian camila_sub_event_01_58ed66a9:
     camila.say "Да-да, все извращенцы, как скажешь!"
 
 # ch/camila/events.rpy:2484
@@ -9705,7 +9697,7 @@ translate russian camila_sub_event_01_4b292051:
     camila.say "ЧЁРТА С ДВА!"
 
 # ch/camila/events.rpy:2492
-translate russian camila_sub_event_01_52ffa20b:
+translate russian camila_sub_event_01_d198cca2:
     camila.say "Я... Я как раз ХОЧУ, чтобы ты снова надел на меня наручники. И поскорее!"
 
 # ch/camila/events.rpy:2494
@@ -9813,7 +9805,7 @@ translate russian camila_sub_event_01_ec597727:
     camila.say "Когда доставать наручники, по-прежнему решаю я."
 
 # ch/camila/events.rpy:2535
-translate russian camila_sub_event_01_6e40f000:
+translate russian camila_sub_event_01_9e24800e:
     camila.say "Просто... возможно, теперь я буду решать это гораздо чаще."
 
 # ch/camila/events.rpy:2544
@@ -10025,7 +10017,7 @@ translate russian camila_sub_event_02_556b7108:
     camila.say "Но..."
 
 # ch/camila/events.rpy:2616
-translate russian camila_sub_event_02_53bb7dbe:
+translate russian camila_sub_event_02_5639b967:
     camila.say "Может, мы могли бы когда-нибудь... понарошку?"
 
 # ch/camila/events.rpy:2617
@@ -10169,7 +10161,7 @@ translate russian camila_sub_event_03_c8715db8:
     "Телефон звонит, и, увидев имя Камилы, я сразу отвечаю."
 
 # ch/camila/events.rpy:2683
-translate russian camila_sub_event_03_2a9a54b2:
+translate russian camila_sub_event_03_28f6e126:
     mike.say "П... Привет, Камила..."
 
 # ch/camila/events.rpy:2684
@@ -10209,7 +10201,7 @@ translate russian camila_sub_event_03_639686c4:
     "Похоже, с этим придётся разбираться позже..."
 
 # ch/camila/events.rpy:2700
-translate russian camila_sub_event_03_b3b22434:
+translate russian camila_sub_event_03_a1719af0:
     mike.say "Д... Да, Камила..."
 
 # ch/camila/events.rpy:2701
@@ -10477,7 +10469,7 @@ translate russian camila_sub_event_03_827ba16a:
     camila.say "Ах..."
 
 # ch/camila/events.rpy:2802
-translate russian camila_sub_event_03_32ee3f92:
+translate russian camila_sub_event_03_15ca4241:
     camila.say "Т... Третья... ча... часть..."
 
 # ch/camila/events.rpy:2803
@@ -10573,7 +10565,7 @@ translate russian camila_sub_event_03_3465cf10:
     camila.say "Ох, блядь..."
 
 # ch/camila/events.rpy:2831
-translate russian camila_sub_event_03_24a36f6c:
+translate russian camila_sub_event_03_609968e5:
     camila.say "М-м-м... О да..."
 
 # ch/camila/events.rpy:2832
@@ -10633,7 +10625,7 @@ translate russian camila_sub_event_03_fe5ca507:
     camila.say "Я..."
 
 # ch/camila/events.rpy:2852
-translate russian camila_sub_event_03_51ca8b57:
+translate russian camila_sub_event_03_3b562ab5:
     camila.say "Я хорошая девочка... правда?"
 
 # ch/camila/events.rpy:2854
@@ -10653,7 +10645,7 @@ translate russian camila_sub_event_03_f182480a:
     camila.say "Твоя хорошая девочка. Твоя маленькая полицейская. Я принадлежу не значку, а тебе!"
 
 # ch/camila/events.rpy:2862
-translate russian camila_sub_event_03_3d31b0a2:
+translate russian camila_sub_event_03_745ddec5:
     camila.say "Скажи, что я твоя хорошая девочка... Скажи, что я только твоя!"
 
 # ch/camila/events.rpy:2864
@@ -10665,7 +10657,7 @@ translate russian camila_sub_event_03_e967c00b:
     mike.say "Ты ТАКАЯ хорошая!"
 
 # ch/camila/events.rpy:2867
-translate russian camila_sub_event_03_daa58857:
+translate russian camila_sub_event_03_4450dc67:
     mike.say "Ты просто... лучший коп!"
 
 # ch/camila/events.rpy:2868
@@ -10689,7 +10681,7 @@ translate russian camila_sub_event_03_4d911df2:
     "Надавливает всем весом, заставляя мой член входить ещё глубже."
 
 # ch/camila/events.rpy:2877
-translate russian camila_sub_event_03_53088b40:
+translate russian camila_sub_event_03_f0dad980:
     mike.say "Б... Блядь..."
 
 # ch/camila/events.rpy:2879
@@ -10933,7 +10925,7 @@ translate russian camila_sub_event_04_fd30d552:
     camila.say "Наверное, сегодня нам просто повезло."
 
 # ch/camila/events.rpy:2984
-translate russian camila_sub_event_04_79081567:
+translate russian camila_sub_event_04_22209bb1:
     mike.say "А... Ладно..."
 
 # ch/camila/events.rpy:2986
@@ -11101,7 +11093,7 @@ translate russian camila_sub_event_04_2412e0b9:
     camila.say "[lssb_camila.hero_name()]..."
 
 # ch/camila/events.rpy:3050
-translate russian camila_sub_event_04_d1a74ba0:
+translate russian camila_sub_event_04_b484e49a:
     camila.say "Хочу... тебя... в себе..."
 
 # ch/camila/events.rpy:3051
@@ -11141,7 +11133,7 @@ translate russian camila_sub_event_04_7fb532cc:
     "Камила, похоже, тоже это ощущает: она уже стонет мне в ухо."
 
 # ch/camila/events.rpy:3067
-translate russian camila_sub_event_04_57cee013:
+translate russian camila_sub_event_04_351a28a3:
     camila.say "Да... Да..."
 
 # ch/camila/events.rpy:3068
@@ -11261,11 +11253,11 @@ translate russian camila_sub_event_04_5e4e621f:
     camila.say "Ух..."
 
 # ch/camila/events.rpy:3127
-translate russian camila_sub_event_04_cdd56a19:
+translate russian camila_sub_event_04_a7cdc179:
     camila.say "С... Сейчас... кончу..."
 
 # ch/camila/events.rpy:3135
-translate russian camila_sub_event_04_06ef590b:
+translate russian camila_sub_event_04_65ec155a:
     camila.say "Сейчас... кончу!"
 
 # ch/camila/events.rpy:3143
@@ -11337,11 +11329,11 @@ translate russian camila_sub_event_04_f749926d:
     camila.say "Моя попа..."
 
 # ch/camila/events.rpy:3175
-translate russian camila_sub_event_04_37233159:
+translate russian camila_sub_event_04_2c7bff8d:
     camila.say "Эй... Это же моя..."
 
 # ch/camila/events.rpy:3176
-translate russian camila_sub_event_04_48ab265b:
+translate russian camila_sub_event_04_a8ebc392:
     camila.say "О-о... Ох, блядь!"
 
 # ch/camila/events.rpy:3177
@@ -11361,7 +11353,7 @@ translate russian camila_sub_event_04_7fb532cc_1:
     "Камила, похоже, тоже это ощущает: она уже стонет мне в ухо."
 
 # ch/camila/events.rpy:3182
-translate russian camila_sub_event_04_57cee013_1:
+translate russian camila_sub_event_04_351a28a3_1:
     camila.say "Да... Да..."
 
 # ch/camila/events.rpy:3183
@@ -11481,11 +11473,11 @@ translate russian camila_sub_event_04_5e4e621f_1:
     camila.say "Ух..."
 
 # ch/camila/events.rpy:3240
-translate russian camila_sub_event_04_cdd56a19_1:
+translate russian camila_sub_event_04_a7cdc179_1:
     camila.say "С... Сейчас... кончу..."
 
 # ch/camila/events.rpy:3248
-translate russian camila_sub_event_04_06ef590b_1:
+translate russian camila_sub_event_04_65ec155a_1:
     camila.say "Сейчас... кончу!"
 
 # ch/camila/events.rpy:3256
@@ -11581,12 +11573,8 @@ translate russian camila_prison_visit_1_5cfa8876:
     "Я киваю и улыбаюсь с надеждой, что это выглядит уверенно."
 
 # ch/camila/events.rpy:3306
-translate russian camila_prison_visit_1_66e3f1cc:
+translate russian camila_prison_visit_1_ca29a502:
     mike.say "А... Да, Камила, я знаю."
-
-# ch/camila/events.rpy:3307
-translate russian camila_prison_visit_1_4c4d7861:
-    mike.say "Просто... Наверное, мне просто страшно."
 
 # ch/camila/events.rpy:3308
 translate russian camila_prison_visit_1_8c1a958e:
@@ -11721,7 +11709,7 @@ translate russian camila_prison_visit_1_e5cc69b3:
     kylie.say "Просто знала!"
 
 # ch/camila/events.rpy:3365
-translate russian camila_prison_visit_1_25f40a21:
+translate russian camila_prison_visit_1_9a58368c:
     kylie.say "Даже после того небольшого... недоразумения между нами."
 
 # ch/camila/events.rpy:3366
@@ -11832,10 +11820,6 @@ translate russian camila_prison_visit_1_a6fd47b8:
 translate russian camila_prison_visit_1_32204d80:
     "Плохо ли, что мне нравится, как они, по сути, борются за меня?"
 
-# ch/camila/events.rpy:3405
-translate russian camila_prison_visit_1_c40c52fd:
-    camila.say "Не-а, девочка, не выйдет!"
-
 # ch/camila/events.rpy:3406
 translate russian camila_prison_visit_1_97238604:
     camila.say "Это лишь фантазии в твоей больной головёнке."
@@ -11863,10 +11847,6 @@ translate russian camila_prison_visit_1_3d79121f:
 # ch/camila/events.rpy:3418
 translate russian camila_prison_visit_1_c0d8535c:
     "Я не могу не ответить и с готовностью возвращаю поцелуй."
-
-# ch/camila/events.rpy:3419
-translate russian camila_prison_visit_1_940b501e:
-    kylie.say "Нет... Что ты..."
 
 # ch/camila/events.rpy:3420
 translate russian camila_prison_visit_1_ca9d8b33:
@@ -11932,17 +11912,9 @@ translate russian camila_prison_visit_1_46df76d8:
 translate russian camila_prison_visit_1_5e41f4b9:
     "И я, как дурак, слушаюсь и подхожу."
 
-# ch/camila/events.rpy:3450
-translate russian camila_prison_visit_1_41e03196:
-    kylie.say "Я... Я тут подумала, [lssb_camila.hero_name()]."
-
 # ch/camila/events.rpy:3451
 translate russian camila_prison_visit_1_3906ecfb:
     kylie.say "Может, ты мог бы попросить об особом свидании?"
-
-# ch/camila/events.rpy:3453
-translate russian camila_prison_visit_1_280e6768:
-    kylie.say "Ну... супружеском?"
 
 # ch/camila/events.rpy:3455
 translate russian camila_prison_visit_1_f36ad3fe:
@@ -11955,10 +11927,6 @@ translate russian camila_prison_visit_1_b803f03c:
 # ch/camila/events.rpy:3457
 translate russian camila_prison_visit_1_566f9bf4:
     "Она такая горячая, такая изголодавшаяся по ласке и так сильно меня хочет!"
-
-# ch/camila/events.rpy:3458
-translate russian camila_prison_visit_1_59f6c6db:
-    mike.say "Я... Наверное, могу спросить..."
 
 # ch/camila/events.rpy:3460
 translate russian camila_prison_visit_1_b92e0390:
@@ -11985,7 +11953,7 @@ translate russian camila_prison_visit_1_379312e1:
     camila.say "Ты в порядке, [lssb_camila.hero_name()]?"
 
 # ch/camila/events.rpy:3472
-translate russian camila_prison_visit_1_40ae7036:
+translate russian camila_prison_visit_1_160e4bf2:
     mike.say "Да... Наверное."
 
 # ch/camila/events.rpy:3473
@@ -12004,10 +11972,6 @@ translate russian camila_prison_visit_1_3244fce9:
 translate russian camila_prison_visit_1_d51f4d1d:
     "Я поднимаю руки, пытаясь оправдаться."
 
-# ch/camila/events.rpy:3479
-translate russian camila_prison_visit_1_32aff11e:
-    mike.say "Я... Сказал, что спрошу, и всё."
-
 # ch/camila/events.rpy:3480
 translate russian camila_prison_visit_1_77233105:
     mike.say "И только потому, что она застала меня врасплох, честно!"
@@ -12019,10 +11983,6 @@ translate russian camila_prison_visit_1_07656f78:
 # ch/camila/events.rpy:3483
 translate russian camila_prison_visit_1_4a5703bc:
     "Но затем кивает и обречённо вздыхает."
-
-# ch/camila/events.rpy:3485
-translate russian camila_prison_visit_1_2a377763:
-    camila.say "Ну... В последнее время на тебя многое навалилось."
 
 # ch/camila/events.rpy:3486
 translate russian camila_prison_visit_1_2c3d6e4f:
@@ -12129,7 +12089,7 @@ translate russian camila_prison_visit_2_32f11fef:
     "Звук жуткий, но Камилу он, похоже, совсем не пугает."
 
 # ch/camila/events.rpy:3538
-translate russian camila_prison_visit_2_390739e6:
+translate russian camila_prison_visit_2_c6ac3c3c:
     camila.say "О... Ты думала, что..."
 
 # ch/camila/events.rpy:3540
@@ -12225,11 +12185,11 @@ translate russian camila_prison_visit_2_827ba16a:
     camila.say "Ах..."
 
 # ch/camila/events.rpy:3571
-translate russian camila_prison_visit_2_a8fd33c9:
+translate russian camila_prison_visit_2_b1737e57:
     camila.say "О да... Вот так..."
 
 # ch/camila/events.rpy:3572
-translate russian camila_prison_visit_2_a569c47a:
+translate russian camila_prison_visit_2_f97b8f82:
     camila.say "Блядь... Обожаю твой член внутри себя!"
 
 # ch/camila/events.rpy:3574
@@ -12249,7 +12209,7 @@ translate russian camila_prison_visit_2_9061644d:
     mike.say "Камила..."
 
 # ch/camila/events.rpy:3578
-translate russian camila_prison_visit_2_bc1b3afa:
+translate russian camila_prison_visit_2_887fd40f:
     mike.say "Это... безумие..."
 
 # ch/camila/events.rpy:3579
@@ -12277,7 +12237,7 @@ translate russian camila_prison_visit_2_427af377:
     "Другая скользит под рубашку и начинает ласкать грудь."
 
 # ch/camila/events.rpy:3585
-translate russian camila_prison_visit_2_c60c9480:
+translate russian camila_prison_visit_2_b91c258e:
     "Она... Она что..."
 
 # ch/camila/events.rpy:3586
@@ -12453,7 +12413,7 @@ translate russian camila_preg_talk_4d387a8f:
     camila.say "То есть нам нужно кое-что обсудить. Прямо сейчас!"
 
 # ch/camila/events.rpy:3655
-translate russian camila_preg_talk_56bf012f:
+translate russian camila_preg_talk_febb1856:
     mike.say "К... Конечно, Камила!"
 
 # ch/camila/events.rpy:3656
@@ -12485,7 +12445,7 @@ translate russian camila_preg_talk_a81dad4f:
     "Она явно ждёт от меня какой-то реакции."
 
 # ch/camila/events.rpy:3663
-translate russian camila_preg_talk_bbaacc31:
+translate russian camila_preg_talk_5315c802:
     mike.say "А... Ладно..."
 
 # ch/camila/events.rpy:3664
@@ -12637,7 +12597,7 @@ translate russian camila_preg_talk_06e314e6:
     "Впервые Камила выглядит искренне удивлённой."
 
 # ch/camila/events.rpy:3712
-translate russian camila_preg_talk_4b31ed6c:
+translate russian camila_preg_talk_4514d948:
     camila.say "Т... Ты серьёзно?!"
 
 # ch/camila/events.rpy:3713
@@ -12665,7 +12625,7 @@ translate russian camila_preg_talk_896b04ab:
     "Теперь уже Камила качает головой."
 
 # ch/camila/events.rpy:3719
-translate russian camila_preg_talk_ac7ebdbb:
+translate russian camila_preg_talk_ec8cf030:
     camila.say "Я... Не знаю, смогу ли быть мамой..."
 
 # ch/camila/events.rpy:3720
@@ -12797,7 +12757,7 @@ translate russian camila_preg_talk_06e314e6_1:
     "Впервые Камила выглядит искренне удивлённой."
 
 # ch/camila/events.rpy:3763
-translate russian camila_preg_talk_276ca94f:
+translate russian camila_preg_talk_3796dfdb:
     camila.say "Я... Не знаю, [lssb_camila.hero_name()]."
 
 # ch/camila/events.rpy:3764
@@ -13089,7 +13049,7 @@ translate russian camila_male_ending_4dabb248:
     mike.say "Ты выглядишь..."
 
 # ch/camila/events.rpy:3861
-translate russian camila_male_ending_41a8a1c2:
+translate russian camila_male_ending_860f1e86:
     mike.say "У... У меня нет слов!"
 
 # ch/camila/events.rpy:3862
@@ -13309,7 +13269,7 @@ translate russian camila_male_ending_40beb05c:
     camila.say "То есть против меня в суде это не используют, верно?"
 
 # ch/camila/events.rpy:3926
-translate russian camila_male_ending_9b02adf7:
+translate russian camila_male_ending_bb4cd083:
     camila.say "Ладно, ладно... Господи!"
 
 # ch/camila/events.rpy:3927
@@ -13321,7 +13281,7 @@ translate russian camila_male_ending_9acae24c:
     camila.say "Мне положено задавать такие вопросы!"
 
 # ch/camila/events.rpy:3929
-translate russian camila_male_ending_8fd86a6c:
+translate russian camila_male_ending_8b21c55d:
     camila.say "Ладно... О чём я должна была рассказать?"
 
 # ch/camila/events.rpy:3930
@@ -13345,7 +13305,7 @@ translate russian camila_male_ending_d6d78cc8:
     camila.say "Правда, ощущение, будто меня допрашивают!"
 
 # ch/camila/events.rpy:3935
-translate russian camila_male_ending_985e2d7e:
+translate russian camila_male_ending_d925e925:
     camila.say "Ладно, ладно... Уже рассказываю!"
 
 # ch/camila/events.rpy:3936
@@ -13369,7 +13329,7 @@ translate russian camila_male_ending_1bb4e2e1:
     camila.say "Так чем же отличался [lssb_camila.hero_name()]?"
 
 # ch/camila/events.rpy:3941
-translate russian camila_male_ending_2195e8cf:
+translate russian camila_male_ending_ea9ef7d4:
     camila.say "Господи... Хотела бы я сама знать!"
 
 # ch/camila/events.rpy:3942
@@ -14317,7 +14277,7 @@ translate russian camila_birthday_date_male_e000b666:
     camila.say "О..."
 
 # ch/camila/events.rpy:4258
-translate russian camila_birthday_date_male_18a0b9e3:
+translate russian camila_birthday_date_male_95ca78bc:
     camila.say "Вино... Ура!"
 
 # ch/camila/events.rpy:4259
@@ -15105,7 +15065,7 @@ translate russian camila_birthday_date_male_24acbb35:
     camila.say "Где мой чёртов подарок?"
 
 # ch/camila/events.rpy:4506
-translate russian camila_birthday_date_male_e70c26ff:
+translate russian camila_birthday_date_male_3726ee21:
     "Ого... Вот это прямота!"
 
 # ch/camila/events.rpy:4507
@@ -15117,7 +15077,7 @@ translate russian camila_birthday_date_male_a4f78574:
     "Но Камила не такая, как большинство."
 
 # ch/camila/events.rpy:4511
-translate russian camila_birthday_date_male_6fd77506:
+translate russian camila_birthday_date_male_fb4813d5:
     "Ладно, ладно... Я забыл подарок для Камилы."
 
 # ch/camila/events.rpy:4512
@@ -15217,7 +15177,7 @@ translate russian camila_birthday_date_male_01d55d85:
     camila.say "Это потрясающе, вот что!"
 
 # ch/camila/events.rpy:4548
-translate russian camila_birthday_date_male_c5a67317:
+translate russian camila_birthday_date_male_bbd08561:
     mike.say "То есть... тебе нравится?"
 
 # ch/camila/events.rpy:4549
@@ -15281,7 +15241,7 @@ translate russian camila_birthday_date_male_e34cab38:
     "И что её не научили хорошим манерам."
 
 # ch/camila/events.rpy:4570
-translate russian camila_birthday_date_male_6fd77506_1:
+translate russian camila_birthday_date_male_fb4813d5_1:
     "Ладно, ладно... Я забыл подарок для Камилы."
 
 # ch/camila/events.rpy:4571
@@ -18521,7 +18481,7 @@ translate russian camila_pregnant_request_0f7a27e1:
     camila.say "Мне не в чем тебе признаваться или что-то в этом роде."
 
 # ch/camila/events.rpy:6142
-translate russian camila_pregnant_request_5409d843:
+translate russian camila_pregnant_request_dbe4c897:
     camila.say "Но я хочу... кое о чём тебя спросить."
 
 # ch/camila/events.rpy:6144
@@ -18649,7 +18609,7 @@ translate russian camila_pregnant_request_f1cd2b30:
     mike.say "Ты серьёзно?"
 
 # ch/camila/events.rpy:6184
-translate russian camila_pregnant_request_dd23be92:
+translate russian camila_pregnant_request_e830a9ab:
     mike.say "То есть... ничего себе!"
 
 # ch/camila/events.rpy:6185
@@ -18661,7 +18621,7 @@ translate russian camila_pregnant_request_6efb7e9d:
     mike.say "Так что мне трудно сразу представить, что у нас будет ребёнок."
 
 # ch/camila/events.rpy:6188
-translate russian camila_pregnant_request_28ca6479:
+translate russian camila_pregnant_request_76c8a882:
     camila.say "Да, да... Я понимаю."
 
 # ch/camila/events.rpy:6190
@@ -18685,7 +18645,7 @@ translate russian camila_pregnant_request_29fb3593:
     camila.say "Поэтому я прошу тебя как положено, [lssb_camila.hero_name()]."
 
 # ch/camila/events.rpy:6197
-translate russian camila_pregnant_request_a60c8d83:
+translate russian camila_pregnant_request_3a91d076:
     camila.say "Пожалуйста... сделаешь мне ребёнка?"
 
 # ch/camila/events.rpy:6198
@@ -19073,7 +19033,7 @@ translate russian camila_collar_request_3dc2bf2d:
     camila.say "ПРОСТО ОБЕЩАЙ, ЧЁРТ ТЕБЯ ДЕРИ!"
 
 # ch/camila/events.rpy:6339
-translate russian camila_collar_request_6102bcff:
+translate russian camila_collar_request_8594e91c:
     mike.say "Ладно... Обещаю!"
 
 # ch/camila/events.rpy:6340
@@ -19093,7 +19053,7 @@ translate russian camila_collar_request_b1b25c26:
     camila.say "Я смотрела на вещи в витрине того магазина."
 
 # ch/camila/events.rpy:6345
-translate russian camila_collar_request_2376f363:
+translate russian camila_collar_request_2897978b:
     camila.say "Потому что... мне вроде как нравится то, что там продают."
 
 # ch/camila/events.rpy:6347
@@ -19141,7 +19101,7 @@ translate russian camila_collar_request_e6d62ebe:
     "Но я вижу сбруи, корсеты и даже пару плёток!"
 
 # ch/camila/events.rpy:6358
-translate russian camila_collar_request_dbd2dec1:
+translate russian camila_collar_request_8d2ab7f7:
     mike.say "Н... но, Камила..."
 
 # ch/camila/events.rpy:6359
@@ -19149,7 +19109,7 @@ translate russian camila_collar_request_f8c798ce:
     mike.say "Это же фетиш-магазин!"
 
 # ch/camila/events.rpy:6360
-translate russian camila_collar_request_6da689b7:
+translate russian camila_collar_request_03c2017b:
     mike.say "То есть... тебе такое нравится?!?"
 
 # ch/camila/events.rpy:6361
@@ -19193,7 +19153,7 @@ translate russian camila_collar_request_048b5e97:
     camila.say "Ошейники, [lssb_camila.hero_name()]…"
 
 # ch/camila/events.rpy:6375
-translate russian camila_collar_request_4d709495:
+translate russian camila_collar_request_38b87735:
     camila.say "Мне просто... очень хочется носить ошейник."
 
 # ch/camila/events.rpy:6376
@@ -19201,11 +19161,11 @@ translate russian camila_collar_request_5a4159d3:
     camila.say "Не могу толком объяснить..."
 
 # ch/camila/events.rpy:6377
-translate russian camila_collar_request_4d490b45:
+translate russian camila_collar_request_6e648226:
     camila.say "Думаю, это было бы забавно... и сама мысль меня вроде как заводит."
 
 # ch/camila/events.rpy:6378
-translate russian camila_collar_request_640655c4:
+translate russian camila_collar_request_11cb68aa:
     camila.say "Будто... будто я принадлежу тебе, и все об этом знают."
 
 # ch/camila/events.rpy:6380
@@ -19424,17 +19384,9 @@ translate russian camila_collar_request_ce6f4079:
 translate russian camila_collar_request_d2275403:
     "А я уже представляю, как волнительно будет выгуливать Камилу, держа её поводок!"
 
-# ch/camila/fuck.rpy:27
-translate russian camila_hottub_sex_male_7de5d14d:
-    "Пригласить Камилу к себе понежиться в джакузи кажется мне очевидным решением."
-
 # ch/camila/fuck.rpy:28
 translate russian camila_hottub_sex_male_d250bcda:
     "Она ведь полицейская, а значит, её рабочие дни полны стресса и напряжения."
-
-# ch/camila/fuck.rpy:29
-translate russian camila_hottub_sex_male_46f60681:
-    "Как ещё лучше расслабиться после работы, если не полежать в тёплой воде?"
 
 # ch/camila/fuck.rpy:30
 translate russian camila_hottub_sex_male_f8bfcf27:
@@ -19447,10 +19399,6 @@ translate russian camila_hottub_sex_male_814c2965:
 # ch/camila/fuck.rpy:32
 translate russian camila_hottub_sex_male_8cc39561:
     "Все в выигрыше!"
-
-# ch/camila/fuck.rpy:34
-translate russian camila_hottub_sex_male_f5eacca3:
-    "По крайней мере, так мне кажется до самого появления Камилы."
 
 # ch/camila/fuck.rpy:35
 translate russian camila_hottub_sex_male_01fdab05:
@@ -19525,7 +19473,7 @@ translate russian camila_hottub_sex_male_871e9876:
     "Но за ней скрывается искреннее чувство, от которого мне становится странно."
 
 # ch/camila/fuck.rpy:53
-translate russian camila_hottub_sex_male_14472e3f:
+translate russian camila_hottub_sex_male_c67efb68:
     "Она... от её улыбки у меня сейчас и правда затрепетало сердце?"
 
 # ch/camila/fuck.rpy:55
@@ -19549,7 +19497,7 @@ translate russian camila_hottub_sex_male_6321382f:
     camila.say "Надеялась, ты поможешь мне обо всём забыть, да?"
 
 # ch/camila/fuck.rpy:61
-translate russian camila_hottub_sex_male_607d3af8:
+translate russian camila_hottub_sex_male_90bb66a3:
     camila.say "Может, поможешь мне... расслабиться?"
 
 # ch/camila/fuck.rpy:62
@@ -19581,7 +19529,7 @@ translate russian camila_hottub_sex_male_c110e963:
     "И при этом она бесспорно женственна и до боли прекрасна."
 
 # ch/camila/fuck.rpy:69
-translate russian camila_hottub_sex_male_dbdda456:
+translate russian camila_hottub_sex_male_075c1543:
     mike.say "Д... да, Камила."
 
 # ch/camila/fuck.rpy:70
@@ -19989,7 +19937,7 @@ translate russian camila_fuck_date_intro_male_61a9335f:
     "Я шумно сглатываю, начиная задыхаться."
 
 # ch/camila/fuck.rpy:231
-translate russian camila_fuck_date_intro_male_f808371f:
+translate russian camila_fuck_date_intro_male_32ad659b:
     mike.say "Т... тогда ты, получается, служебная собака, Камила?"
 
 # ch/camila/fuck.rpy:232
@@ -20165,7 +20113,7 @@ translate russian camila_fuck_date_intro_male_4febead3:
     "Сглатываю, стараясь заодно унять волнение."
 
 # ch/camila/fuck.rpy:278
-translate russian camila_fuck_date_intro_male_e068391c:
+translate russian camila_fuck_date_intro_male_d4cae41e:
     mike.say "Ты... ты этого хочешь, Камила?"
 
 # ch/camila/fuck.rpy:279
@@ -20193,7 +20141,7 @@ translate russian camila_fuck_date_intro_male_2ce9b605:
     camila.say "Весь смысл теряется, понимаешь?"
 
 # ch/camila/fuck.rpy:288
-translate russian camila_fuck_date_intro_male_cf79bc9a:
+translate russian camila_fuck_date_intro_male_350e7dee:
     mike.say "Ой... прости!"
 
 # ch/camila/fuck.rpy:289
@@ -20240,14 +20188,6 @@ translate russian camila_fuck_date_intro_male_48495197:
 translate russian camila_fuck_date_intro_male_5c71feec:
     "Камила тянется ко мне и начинает меня раздевать."
 
-# ch/camila/fuck.rpy:305
-translate russian camila_fuck_date_intro_male_f230caaa:
-    "И нежничать она не собирается!" with hpunch
-
-# ch/camila/fuck.rpy:306
-translate russian camila_fuck_date_intro_male_7245c231:
-    "Она буквально сдирает с меня одежду, не спрашивая разрешения." with vpunch
-
 # ch/camila/fuck.rpy:307
 translate russian camila_fuck_date_intro_male_42863e1c:
     "Мне остаётся только не мешать ей, пока она раздевает меня догола."
@@ -20277,7 +20217,7 @@ translate russian camila_fuck_date_intro_male_4590a841:
     "В Камиле мне, помимо прочего, нравится то, что она во многом похожа на парня."
 
 # ch/camila/fuck.rpy:321
-translate russian camila_fuck_date_intro_male_275fe41f:
+translate russian camila_fuck_date_intro_male_0fb3b659:
     "Нет... погодите. Это прозвучало не совсем правильно!"
 
 # ch/camila/fuck.rpy:322
@@ -20285,7 +20225,7 @@ translate russian camila_fuck_date_intro_male_00defc9c:
     "Я не хочу сказать, что она нравится мне своей мужеподобностью. Она совсем не такая."
 
 # ch/camila/fuck.rpy:323
-translate russian camila_fuck_date_intro_male_a1852c29:
+translate russian camila_fuck_date_intro_male_353dba46:
     "Камила очень женственна, просто... по-своему, сурово и без лишних церемоний."
 
 # ch/camila/fuck.rpy:324
@@ -21457,7 +21397,7 @@ translate russian camila_date_fuck_doggy_d6f3fa08:
     mike.say "Хорошая девочка, Камила..."
 
 # ch/camila/fuck.rpy:818
-translate russian camila_date_fuck_doggy_2767ea40:
+translate russian camila_date_fuck_doggy_33c822d3:
     mike.say "Хорошая... маленькая... сучка!"
 
 # ch/camila/fuck.rpy:819
@@ -21577,11 +21517,11 @@ translate russian camila_date_fuck_doggy_e48928d0_3:
     "Затем осторожно опускаю обмякшую Камилу на кровать перед собой."
 
 # ch/camila/fuck.rpy:868
-translate russian camila_date_fuck_doggy_6c3ec460:
+translate russian camila_date_fuck_doggy_d321e3d1:
     camila.say "Нет... стой..."
 
 # ch/camila/fuck.rpy:870
-translate russian camila_date_fuck_doggy_b3775f01:
+translate russian camila_date_fuck_doggy_23ca5b8a:
     camila.say "Не... кончай... в... меня!"
 
 # ch/camila/fuck.rpy:871
@@ -21613,11 +21553,11 @@ translate russian camila_date_fuck_doggy_5c717add:
     camila.say "Нет..."
 
 # ch/camila/fuck.rpy:884
-translate russian camila_date_fuck_doggy_2acdf335:
+translate russian camila_date_fuck_doggy_555983f7:
     camila.say "Не... останавливайся..."
 
 # ch/camila/fuck.rpy:885
-translate russian camila_date_fuck_doggy_c865c9a9:
+translate russian camila_date_fuck_doggy_5a6cc65d:
     camila.say "Кончи... в... меня!"
 
 # ch/camila/fuck.rpy:886
@@ -21653,7 +21593,7 @@ translate russian camila_date_fuck_doggy_9534803d:
     "Ещё раз притягиваю её к себе — и погружаюсь в тугую попку."
 
 # ch/camila/fuck.rpy:900
-translate russian camila_date_fuck_doggy_63667716:
+translate russian camila_date_fuck_doggy_3ccbeb5a:
     camila.say "О... боже!"
 
 # ch/camila/fuck.rpy:901
@@ -21737,7 +21677,7 @@ translate russian camila_date_fuck_doggy_d6f3fa08_1:
     mike.say "Хорошая девочка, Камила..."
 
 # ch/camila/fuck.rpy:923
-translate russian camila_date_fuck_doggy_2767ea40_1:
+translate russian camila_date_fuck_doggy_33c822d3_1:
     mike.say "Хорошая... маленькая... сучка!"
 
 # ch/camila/fuck.rpy:924
@@ -23085,7 +23025,7 @@ translate russian camila_gift_sexy_dress_male_ed4f52ab:
     "Она явно встряхивает головой, изо всех сил напоминая себе, что сейчас не на службе."
 
 # ch/camila/gift.rpy:103
-translate russian camila_gift_sexy_dress_male_668cdbd7:
+translate russian camila_gift_sexy_dress_male_2f3bb4e5:
     camila.say "То есть... не стоило, [lssb_camila.hero_name()]."
 
 # ch/camila/gift.rpy:104
@@ -23153,7 +23093,7 @@ translate russian camila_gift_sexy_dress_male_d1e4762a:
     "И от этого молчания я тут же начинаю бояться, что оскорбил её."
 
 # ch/camila/gift.rpy:122
-translate russian camila_gift_sexy_dress_male_1c3ca93c:
+translate russian camila_gift_sexy_dress_male_eae73a9e:
     mike.say "Я... я просто увидел его и подумал о тебе, Камила."
 
 # ch/camila/gift.rpy:123
@@ -23205,7 +23145,7 @@ translate russian camila_gift_sexy_dress_male_9c56592f:
     camila.say "Как ты, чёрт возьми, догадался?!?"
 
 # ch/camila/gift.rpy:137
-translate russian camila_gift_sexy_dress_male_9f391d13:
+translate russian camila_gift_sexy_dress_male_0e666fac:
     mike.say "А... о чём догадался, Камила?"
 
 # ch/camila/gift.rpy:138
@@ -23229,7 +23169,7 @@ translate russian camila_gift_sexy_dress_male_c5608283:
     camila.say "Каждый раз, когда задерживаю проституток, завидую."
 
 # ch/camila/gift.rpy:143
-translate russian camila_gift_sexy_dress_male_0fa34b43:
+translate russian camila_gift_sexy_dress_male_4624bdd9:
     mike.say "Т... ты завидуешь?!?"
 
 # ch/camila/gift.rpy:144
@@ -23289,7 +23229,7 @@ translate russian camila_gift_sexy_dress_male_dc446a62:
     camila.say "Я задерживаю проституток, на которых одежды больше, чем здесь!"
 
 # ch/camila/gift.rpy:163
-translate russian camila_gift_sexy_dress_male_6f929ec2:
+translate russian camila_gift_sexy_dress_male_6db236ac:
     mike.say "Я... прости, Камила..."
 
 # ch/camila/gift.rpy:164
@@ -23381,7 +23321,7 @@ translate russian camila_gift_slutty_dress_male_60b75b15:
     camila.say "Я повалю тебя на землю и надену наручники?"
 
 # ch/camila/gift.rpy:194
-translate russian camila_gift_slutty_dress_male_717dae10:
+translate russian camila_gift_slutty_dress_male_ef6161e6:
     camila.say "Нет... погоди. Тебе же может понравиться!"
 
 # ch/camila/gift.rpy:196
@@ -23553,7 +23493,7 @@ translate russian camila_gift_slutty_dress_male_55f53509:
     "Но я всё равно пытаюсь сделать всё возможное, надеясь спасти положение."
 
 # ch/camila/gift.rpy:252
-translate russian camila_gift_slutty_dress_male_08ecc69c:
+translate russian camila_gift_slutty_dress_male_655cd5b7:
     mike.say "Я... пожалуй, оно и правда немного откровенное."
 
 # ch/camila/gift.rpy:253
@@ -23709,7 +23649,7 @@ translate russian camila_gift_swimsuit_male_61db2d22:
     "Но затем она поднимает на меня глаза, словно читая моё лицо."
 
 # ch/camila/gift.rpy:303
-translate russian camila_gift_swimsuit_male_034a2c98:
+translate russian camila_gift_swimsuit_male_dc13064d:
     camila.say "Ты... подумал обо мне?"
 
 # ch/camila/gift.rpy:304
@@ -23729,11 +23669,11 @@ translate russian camila_gift_swimsuit_male_f5735fd5:
     "Она упорна как ищейка, взявшая след!"
 
 # ch/camila/gift.rpy:308
-translate russian camila_gift_swimsuit_male_5ef936d4:
+translate russian camila_gift_swimsuit_male_1227c802:
     mike.say "Ну... да, Камила."
 
 # ch/camila/gift.rpy:309
-translate russian camila_gift_swimsuit_male_8f62a1d4:
+translate russian camila_gift_swimsuit_male_46bcd45e:
     mike.say "Мне... мне кажется, на тебе он будет смотреться потрясающе!"
 
 # ch/camila/gift.rpy:310
@@ -23765,7 +23705,7 @@ translate russian camila_gift_swimsuit_male_453d6751:
     mike.say "Ты ведь получила их при исполнении?"
 
 # ch/camila/gift.rpy:317
-translate russian camila_gift_swimsuit_male_70ccd27e:
+translate russian camila_gift_swimsuit_male_6ad1e54f:
     mike.say "И меня... меня они даже немного заводят!"
 
 # ch/camila/gift.rpy:318
@@ -23781,7 +23721,7 @@ translate russian camila_gift_swimsuit_male_3e1e3014:
     "Я заставил покраснеть этого сурового копа!"
 
 # ch/camila/gift.rpy:321
-translate russian camila_gift_swimsuit_male_16d02245:
+translate russian camila_gift_swimsuit_male_58fd5680:
     camila.say "П... правда?!?"
 
 # ch/camila/gift.rpy:322
@@ -23817,7 +23757,7 @@ translate russian camila_gift_swimsuit_male_bc73338c:
     "А когда она ещё и качает головой, я понимаю: всё идёт не по моему плану."
 
 # ch/camila/gift.rpy:334
-translate russian camila_gift_swimsuit_male_607224ba:
+translate russian camila_gift_swimsuit_male_b01c2f8d:
     camila.say "Эм... он... симпатичный, [lssb_camila.hero_name()]."
 
 # ch/camila/gift.rpy:335
@@ -23837,7 +23777,7 @@ translate russian camila_gift_swimsuit_male_23ccd46a:
     "И всё это время пытаюсь не показать, насколько расстроен."
 
 # ch/camila/gift.rpy:339
-translate russian camila_gift_swimsuit_male_19bdb0f9:
+translate russian camila_gift_swimsuit_male_153e8c2a:
     mike.say "Я... прости, Камила."
 
 # ch/camila/gift.rpy:340
@@ -23857,7 +23797,7 @@ translate russian camila_gift_swimsuit_male_cb0625c0:
     camila.say "Нет, [lssb_camila.hero_name()], дело не в тебе, а во мне."
 
 # ch/camila/gift.rpy:344
-translate russian camila_gift_swimsuit_male_fe6ea99e:
+translate russian camila_gift_swimsuit_male_393626ec:
     camila.say "Мне... мне трудно показывать своё тело, вот и всё."
 
 # ch/camila/gift.rpy:345
@@ -24093,7 +24033,7 @@ translate russian camila_gift_collar_male_137a7f29:
     "Затем подходит вплотную, почти прижимаясь ко мне."
 
 # ch/camila/gift.rpy:417
-translate russian camila_gift_collar_male_e9865b2e:
+translate russian camila_gift_collar_male_4ecacf51:
     camila.say "Н... но это же собачий ошейник, [lssb_camila.hero_name()]!"
 
 # ch/camila/gift.rpy:418
@@ -24113,11 +24053,11 @@ translate russian camila_gift_collar_male_168bdbf0:
     camila.say "Ты бы обращался со мной как с собакой?"
 
 # ch/camila/gift.rpy:422
-translate russian camila_gift_collar_male_235fccfc:
+translate russian camila_gift_collar_male_d7ce5957:
     camila.say "Г... говорил бы, что я хорошая девочка?"
 
 # ch/camila/gift.rpy:423
-translate russian camila_gift_collar_male_a71c3bbe:
+translate russian camila_gift_collar_male_2bd9a436:
     camila.say "Может... наказывал бы, когда я плохо себя веду?"
 
 # ch/camila/gift.rpy:424
@@ -24189,7 +24129,7 @@ translate russian camila_gift_butt_plug_male_4a4ad432:
     camila.say "Спасибо, [lssb_camila.hero_name()], я найду ей хорошее применение."
 
 # ch/camila/reactions.rpy:2
-translate russian camila_ice_cream_reaction_male_12a29ea3:
+translate russian camila_ice_cream_reaction_male_7c652fa6:
     mike.say "Уф... Я больше не выдержу эту жару, Камила!"
 
 # ch/camila/reactions.rpy:3
@@ -24581,7 +24521,7 @@ translate russian camila_breakup_male_7e37e1e8:
     camila.say "Даже после всего, что мы вместе пережили?"
 
 # ch/camila/reactions.rpy:171
-translate russian camila_breakup_male_e3942042:
+translate russian camila_breakup_male_1129cde0:
     mike.say "Я... я понимаю, как это выглядит, Камила."
 
 # ch/camila/reactions.rpy:172
@@ -24705,7 +24645,7 @@ translate russian camila_pet_happy_male_914fffb7:
     camila.say "Гладь меня так, и я сделаю всё, что попросишь, клянусь."
 
 # ch/camila/reactions.rpy:221
-translate russian camila_pet_happy_male_dd77d577:
+translate russian camila_pet_happy_male_a5ce6d3a:
     camila.say "Это... так приятно, [lssb_camila.hero_name()]!"
 
 # ch/camila/reactions.rpy:222
@@ -24769,11 +24709,11 @@ translate russian camila_massage_refuse_male_260c0b0f:
     camila.say "Массажем ничего не исправишь!"
 
 # ch/camila/reactions.rpy:254
-translate russian camila_piercing_nipples_reaction_male_c202f482:
+translate russian camila_piercing_nipples_reaction_male_12bde531:
     camila.say "Хм... Я боялась, что это слишком девчачье для меня."
 
 # ch/camila/reactions.rpy:255
-translate russian camila_piercing_nipples_reaction_male_ea3e89a0:
+translate russian camila_piercing_nipples_reaction_male_bd2dcc18:
     camila.say "Но теперь, когда мне прокололи сосок... ну..."
 
 # ch/camila/reactions.rpy:256
@@ -24801,11 +24741,11 @@ translate russian camila_piercing_clit_reaction_male_9887b31c:
     camila.say "Я чувствую, как эта штука трётся о клитор при ходьбе!"
 
 # ch/camila/reactions.rpy:268
-translate russian camila_piercing_clit_reaction_male_ca6a6acd:
+translate russian camila_piercing_clit_reaction_male_027493bd:
     camila.say "Так приятно... Надеюсь, смогу сосредоточиться на работе!"
 
 # ch/camila/reactions.rpy:272
-translate russian camila_piercing_head_reaction_male_61774f31:
+translate russian camila_piercing_head_reaction_male_48df879d:
     camila.say "Чёрт... На службе придётся держать язык во рту!"
 
 # ch/camila/reactions.rpy:273
@@ -24821,7 +24761,7 @@ translate russian camila_piercing_nose_reaction_male_969a5629:
     camila.say "Знаешь, сначала я сомневалась."
 
 # ch/camila/reactions.rpy:279
-translate russian camila_piercing_nose_reaction_male_23a2efdb:
+translate russian camila_piercing_nose_reaction_male_a53ce6ff:
     camila.say "А теперь смотрю... и мне нравится."
 
 # ch/camila/reactions.rpy:280
@@ -24829,7 +24769,7 @@ translate russian camila_piercing_nose_reaction_male_7f5f6dcc:
     camila.say "Выглядит чертовски круто!"
 
 # ch/camila/reactions.rpy:284
-translate russian camila_movie_disliked_reaction_male_b9809143:
+translate russian camila_movie_disliked_reaction_male_348ca0a8:
     camila.say "Эх... Признаюсь, фильм мне совсем не понравился. Просто ужасный!"
 
 # ch/camila/reactions.rpy:288
@@ -25065,7 +25005,7 @@ translate russian camila_belly_caress_male_28b3a063:
     mike.say "Нет, Камила..."
 
 # ch/camila/reactions.rpy:369
-translate russian camila_belly_caress_male_506c89b8:
+translate russian camila_belly_caress_male_53f8fcfb:
     mike.say "Я... я..."
 
 # ch/camila/reactions.rpy:371
@@ -25077,7 +25017,7 @@ translate russian camila_belly_caress_male_d478e825:
     camila.say "То ты совершенно прав!"
 
 # ch/camila/reactions.rpy:374
-translate russian camila_belly_caress_male_a06174b0:
+translate russian camila_belly_caress_male_18603e8b:
     camila.say "Уф... Я совсем расклеилась!"
 
 # ch/camila/reactions.rpy:376
@@ -25413,7 +25353,7 @@ translate russian camila_talk_love_male_778c97aa:
     camila.say "А ты взял и всё изменил, [lssb_camila.hero_name()]. И не смей так самодовольно улыбаться!"
 
 # ch/camila/talk.rpy:102
-translate russian camila_talk_love_male_17f0f91e:
+translate russian camila_talk_love_male_8a3ed47f:
     camila.say "Ну... раньше, во всяком случае."
 
 # ch/camila/talk.rpy:103
@@ -25441,7 +25381,7 @@ translate russian camila_talk_sex_male_a1285691:
     mike.say "Трудно, ну..."
 
 # ch/camila/talk.rpy:115
-translate russian camila_talk_sex_male_febe9411:
+translate russian camila_talk_sex_male_3b11cbba:
     mike.say "Переключиться и подумать о чём-то вроде... секса?"
 
 # ch/camila/talk.rpy:117
@@ -25457,7 +25397,7 @@ translate russian camila_talk_sex_male_ae30328a:
     camila.say "Правда, сейчас я и возбуждена, и в туалет бегаю каждые десять минут. Очень изящно, [lssb_camila.hero_name()]."
 
 # ch/camila/talk.rpy:123
-translate russian camila_talk_sex_male_e025bbee:
+translate russian camila_talk_sex_male_cd76180b:
     camila.say "Прихожу домой вся на взводе... и надеюсь, что ты возьмёшь меня в руки, [lssb_camila.hero_name()]."
 
 # ch/camila/talk.rpy:125
@@ -25533,7 +25473,7 @@ translate russian camila_talk_travels_male_5ec65e79:
     "Камила странно смотрит на меня, словно недоумевает."
 
 # ch/camila/talk.rpy:170
-translate russian camila_talk_travels_male_87c7205a:
+translate russian camila_talk_travels_male_c6d60052:
     camila.say "Эм... нет, [lssb_camila.hero_name()], у меня нет!"
 
 # ch/camila/talk.rpy:171
@@ -25685,7 +25625,7 @@ translate russian camila_talk_books_male_0509e2ff:
     camila.say "Иногда удаётся почитать во время слежки."
 
 # ch/camila/talk.rpy:252
-translate russian camila_talk_books_male_a357d816:
+translate russian camila_talk_books_male_76863580:
     camila.say "Просто... люди обычно думают, что я таким не интересуюсь!"
 
 # ch/camila/talk.rpy:255
@@ -25701,7 +25641,7 @@ translate russian camila_talk_books_male_a3572528:
     camila.say "А ты не такой. Не судишь заранее."
 
 # ch/camila/talk.rpy:259
-translate russian camila_talk_books_male_32df861f:
+translate russian camila_talk_books_male_6568c854:
     camila.say "Это... одна из вещей, которые мне в тебе нравятся, [lssb_camila.hero_name()]."
 
 # ch/camila/talk.rpy:265
@@ -25781,7 +25721,7 @@ translate russian camila_talk_music_male_ff0afb65:
     camila.say "Обычно я слишком сосредоточена на работе."
 
 # ch/camila/talk.rpy:304
-translate russian camila_talk_music_male_114eb680:
+translate russian camila_talk_music_male_adcc8fa9:
     camila.say "Ну... малышу, похоже, нравится, когда я напеваю. Так что кое-что есть."
 
 # ch/camila/talk.rpy:307
@@ -25809,7 +25749,7 @@ translate russian camila_talk_birthday_male_36788016:
     camila.say "Я совсем забыла о своём дне рождения!"
 
 # ch/camila/talk.rpy:319
-translate russian camila_talk_birthday_male_74e07f34:
+translate russian camila_talk_birthday_male_1f0755f4:
     camila.say "Была так занята... а ты вспомнил!"
 
 # ch/camila/talk.rpy:321
@@ -25817,7 +25757,7 @@ translate russian camila_talk_birthday_male_3291ee21:
     camila.say "В следующем году придётся помнить уже о двух днях рождения. Помоги мне боже, [lssb_camila.hero_name()]."
 
 # ch/camila/talk.rpy:323
-translate russian camila_talk_birthday_male_61e18f1f:
+translate russian camila_talk_birthday_male_d29c6b6c:
     camila.say "Ты так хорошо обо мне заботишься. Я не всегда говорю об этом... но чувствую, [lssb_camila.hero_name()]."
 
 # ch/camila/talk.rpy:325
@@ -25861,7 +25801,7 @@ translate russian camila_talk_viktor_e6f3173a:
     camila.say "Но однажды поймаю и прижму к стенке!"
 
 # ch/camila/talk.rpy:343
-translate russian camila_talk_viktor_6175181f:
+translate russian camila_talk_viktor_24cf8528:
     camila.say "Хотя признаю... охотиться за убийцей, когда ждёшь ребёнка, — совсем другое дело."
 
 # ch/camila/talk.rpy:344
@@ -25869,7 +25809,7 @@ translate russian camila_talk_viktor_7ac1788a:
     camila.say "Впервые мне важно вернуться домой целой ради кого-то ещё, [lssb_camila.hero_name()]."
 
 # ch/camila/talk.rpy:346
-translate russian camila_talk_viktor_3db80d97:
+translate russian camila_talk_viktor_104952f3:
     camila.say "Когда-нибудь расскажу всё. Только... не сегодня, ладно?"
 
 # ch/camila/talk.rpy:353
@@ -25941,7 +25881,7 @@ translate russian camila_talk_scars_5325a496:
     camila.say "Теперь надо быть осторожнее, да? С ребёнком в животе с медведями не поборешься."
 
 # ch/camila/talk.rpy:383
-translate russian camila_talk_scars_c384c3e6:
+translate russian camila_talk_scars_05d72bbb:
     camila.say "Можешь потрогать, если хочешь. Я... не против. Если это ты, [lssb_camila.hero_name()]."
 
 # ch/camila/talk.rpy:390
@@ -26057,7 +25997,7 @@ translate russian camila_talk_investigation_male_268e7a69:
     "И едва удерживаюсь, чтобы не перейти на шёпот."
 
 # ch/camila/talk.rpy:430
-translate russian camila_talk_investigation_male_9645a91b:
+translate russian camila_talk_investigation_male_732ab700:
     mike.say "У... у меня неприятности на работе, Камила."
 
 # ch/camila/talk.rpy:431
@@ -26325,7 +26265,7 @@ translate russian camila_talk_investigation_male_7dcd7ae6:
     "Я выдавливаю нервную улыбку и киваю."
 
 # ch/camila/talk.rpy:511
-translate russian camila_talk_investigation_male_c258ffc8:
+translate russian camila_talk_investigation_male_dbbfd2f9:
     mike.say "А... да, Камила!"
 
 # ch/camila/talk.rpy:512
@@ -26569,7 +26509,7 @@ translate russian camila_friendly_texts_824f7d1c:
     camila_nvl "Или у тебя припасено ещё какое-нибудь отличное место?"
 
 # ch/camila/texts.rpy:78
-translate russian camila_flirty_texts_8befa842:
+translate russian camila_flirty_texts_d8806fb1:
     camila_nvl "Уф... Весь день на бумажной работе, а всё равно набегалась за документами."
 
 # ch/camila/texts.rpy:79
@@ -26581,7 +26521,7 @@ translate russian camila_flirty_texts_8d49cfc4:
     camila_nvl "И что странно, от этих гормонов меня ещё и заводит..."
 
 # ch/camila/texts.rpy:82
-translate russian camila_flirty_texts_59108239:
+translate russian camila_flirty_texts_33abfdb2:
     camila_nvl "Уф... Только что вернулась с довольно жёсткого рейда."
 
 # ch/camila/texts.rpy:83
@@ -26593,7 +26533,7 @@ translate russian camila_flirty_texts_ace3449a:
     camila_nvl "Прикажи приехать и делать, что велишь..."
 
 # ch/camila/texts.rpy:86
-translate russian camila_flirty_texts_59108239_1:
+translate russian camila_flirty_texts_33abfdb2_1:
     camila_nvl "Уф... Только что вернулась с довольно жёсткого рейда."
 
 # ch/camila/texts.rpy:87
@@ -26605,11 +26545,11 @@ translate russian camila_flirty_texts_fde73828:
     camila_nvl "От этого я возбуждена и хочу, чтобы мной кто-нибудь занялся..."
 
 # ch/camila/texts.rpy:90
-translate russian camila_flirty_texts_59108239_2:
+translate russian camila_flirty_texts_33abfdb2_2:
     camila_nvl "Уф... Только что вернулась с довольно жёсткого рейда."
 
 # ch/camila/texts.rpy:91
-translate russian camila_flirty_texts_98f9645b:
+translate russian camila_flirty_texts_1dfedb2f:
     camila_nvl "Пришлось подраться, теперь я в синяках... и вся потная!"
 
 # ch/camila/texts.rpy:92
@@ -26617,11 +26557,11 @@ translate russian camila_flirty_texts_89fd9ca2:
     camila_nvl "Держалась только благодаря мыслям о том, как потом увижу тебя..."
 
 # ch/camila/texts.rpy:94
-translate russian camila_flirty_texts_59108239_3:
+translate russian camila_flirty_texts_33abfdb2_3:
     camila_nvl "Уф... Только что вернулась с довольно жёсткого рейда."
 
 # ch/camila/texts.rpy:95
-translate russian camila_flirty_texts_98f9645b_1:
+translate russian camila_flirty_texts_1dfedb2f_1:
     camila_nvl "Пришлось подраться, теперь я в синяках... и вся потная!"
 
 # ch/camila/texts.rpy:96
@@ -26989,7 +26929,7 @@ translate russian camila_friendly_texts_male_e9774aac_1:
     camila_nvl "Оставь меня в покое, я спала..."
 
 # ch/camila/texts.rpy:250
-translate russian camila_friendly_texts_male_9a586ee7:
+translate russian camila_friendly_texts_male_6273e268:
     mchero_nvl "Можешь... не знаю, арестовать хозяина или вроде того?"
 
 # ch/camila/texts.rpy:252
@@ -27121,7 +27061,7 @@ translate russian camila_flirty_texts_male_cbf3d26d:
     camila_nvl "Ты заставляешь меня краснеть :$"
 
 # ch/camila/texts.rpy:336
-translate russian camila_flirty_texts_male_1531cd5a:
+translate russian camila_flirty_texts_male_9fa62435:
     mchero_nvl "Камила... у тебя есть полицейская форма?"
 
 # ch/camila/texts.rpy:338
@@ -27129,7 +27069,7 @@ translate russian camila_flirty_texts_male_e9774aac_1:
     camila_nvl "Оставь меня в покое, я спала..."
 
 # ch/camila/texts.rpy:341
-translate russian camila_flirty_texts_male_0b493afe:
+translate russian camila_flirty_texts_male_7b3356d8:
     mchero_nvl "Ну... такая, которую можно надеть в спальне?"
 
 # ch/camila/texts.rpy:343
@@ -27277,7 +27217,7 @@ translate russian camila_dirty_texts_male_51fe81ca:
     camila_nvl "Просто посмотри порно и подрочи!"
 
 # ch/camila/texts.rpy:447
-translate russian camila_dirty_texts_male_92c84f91:
+translate russian camila_dirty_texts_male_5a508564:
     camila_nvl "Хм... После работы я и ПРАВДА немного возбуждена."
 
 # ch/camila/texts.rpy:448

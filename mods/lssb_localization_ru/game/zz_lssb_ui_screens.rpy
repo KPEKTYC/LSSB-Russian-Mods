@@ -203,7 +203,7 @@ screen smartphone(char=None, selected_screen="home"):
                         xmaximum 270
                         $ attr_bar_ui = None
                         if hero.is_male and Person.is_not_hidden("minami"):
-                            $ attr_bar_ui = minami.siscon.for_ui()
+                            $ attr_bar_ui = minami.siscon.for_ui(minami)
                         elif hero.is_female:
                             $ attr_bar_ui = hero.morality.for_ui()
                         if attr_bar_ui is not None:
@@ -826,7 +826,7 @@ screen npc_info(girl, clear=False):
 
         for attr in girl.get_attributes():
             if attr.visible():
-                $ attr_bar_ui = attr.for_ui()
+                $ attr_bar_ui = attr.for_ui(girl)
                 fixed:
                     xysize (313, 31)
                     bar:
@@ -900,7 +900,7 @@ screen tooltip():
                 if isinstance(tooltip, (ItemBase, tuple, list, str)):
                     xpos 30
                 else:
-                    xpos 10
+                    xpos 10 + button_column_shift(tooltip)
             vbox:
                 if isinstance(tooltip, Room):
                     xpos 50

@@ -325,7 +325,7 @@ translate russian anna_propose_male_daee87da:
     anna.say "Тебе не обязательно опускаться на колени, чтобы меня об этом попросить!"
 
 # ch/anna/base.rpy:205
-translate russian anna_propose_male_9dfe4eda:
+translate russian anna_propose_male_56fdca35:
     mike.say "Я...я не должен?"
 
 # ch/anna/base.rpy:206
@@ -357,7 +357,7 @@ translate russian anna_propose_male_7cd60a4e:
     "Мгновенно на лице Анны появляется выражение абсолютного ужаса."
 
 # ch/anna/base.rpy:215
-translate russian anna_propose_male_aea2f0d0:
+translate russian anna_propose_male_2fb0c3ad:
     anna.say "О нет...о нет!"
 
 # ch/anna/base.rpy:216
@@ -389,7 +389,7 @@ translate russian anna_propose_male_5e6f55e1:
     mike.say "Я не думаю, что ты глупая."
 
 # ch/anna/base.rpy:226
-translate russian anna_propose_male_f4d62108:
+translate russian anna_propose_male_599568fa:
     mike.say "Я... я думаю, ты потрясающая, на самом деле."
 
 # ch/anna/base.rpy:227
@@ -417,7 +417,7 @@ translate russian anna_propose_male_e2472ce6:
     anna.say "Нет, [lssb_anna.hero_name()]!"
 
 # ch/anna/base.rpy:236
-translate russian anna_propose_male_1970b7e3:
+translate russian anna_propose_male_fdc960cc:
     anna.say "Я... я не могу выйти за тебя замуж."
 
 # ch/anna/base.rpy:237
@@ -425,7 +425,7 @@ translate russian anna_propose_male_14f1ba00:
     anna.say "Я полная катастрофа."
 
 # ch/anna/base.rpy:238
-translate russian anna_propose_male_dc2c28f6:
+translate russian anna_propose_male_908e98b1:
     anna.say "Я... я просто опозорю тебя!"
 
 # ch/anna/base.rpy:240
@@ -557,7 +557,7 @@ translate russian anna_propose_male_3ebeb212:
     "У нее на лице сияющая улыбка, она просто прыгает от восторга."
 
 # ch/anna/base.rpy:286
-translate russian anna_propose_male_c7ced5de:
+translate russian anna_propose_male_ed840cd8:
     anna.say "Ура... Я выхожу замуж!"
 
 # ch/anna/base.rpy:287
@@ -605,7 +605,7 @@ translate russian anna_ask_date_band_fivesome_686ee268:
     mike.say "Анна... как насчёт снова собрать всю группу в студии?"
 
 # ch/anna/base.rpy:357
-translate russian anna_ask_date_band_fivesome_4cf5938c:
+translate russian anna_ask_date_band_fivesome_fcf950cf:
     anna.say "О! То есть всех нас, как в прошлый раз? Я... я бы очень хотела."
 
 # ch/anna/base.rpy:370
@@ -661,7 +661,7 @@ translate russian anna_desire_0_male_d492eee9:
     mike.say "Я как бы поступил наобум."
 
 # ch/anna/chat.rpy:10
-translate russian anna_desire_0_male_b062b5a5:
+translate russian anna_desire_0_male_8e180a5f:
     anna.say "Эм... хорошо."
 
 # ch/anna/chat.rpy:13
@@ -689,7 +689,7 @@ translate russian anna_desire_0_male_5b5697f8:
     mike.say "Да ну – она была довольно паршивой."
 
 # ch/anna/chat.rpy:25
-translate russian anna_desire_0_male_b062b5a5_1:
+translate russian anna_desire_0_male_8e180a5f_1:
     anna.say "Эм... хорошо."
 
 # ch/anna/chat.rpy:27
@@ -733,7 +733,7 @@ translate russian anna_desire_1_male_3c998a13:
     mike.say "С ней приятно проводить время – мне действительно нравятся дерзкие женщины."
 
 # ch/anna/chat.rpy:54
-translate russian anna_desire_1_male_fc86a7e7:
+translate russian anna_desire_1_male_649164c3:
     mike.say "А... честно говоря, она мне не очень нравится."
 
 # ch/anna/chat.rpy:55
@@ -793,7 +793,7 @@ translate russian anna_desire_2_male_f8516c0f:
     mike.say "Да, Анна, у тебя отличный вкус в музыке, так что это должно быть интересно."
 
 # ch/anna/chat.rpy:97
-translate russian anna_desire_2_male_e8b57277:
+translate russian anna_desire_2_male_2970fb89:
     mike.say "Нет... не заинтересован."
 
 # ch/anna/chat.rpy:100
@@ -881,7 +881,7 @@ translate russian anna_desire_5_male_ff00ab20:
     mike.say "Что угодно, что держит твою маленькую задницу в узде."
 
 # ch/anna/chat.rpy:177
-translate russian anna_love_0_male_f51dad0a:
+translate russian anna_love_0_male_7eb0d063:
     anna.say "Что ты думаешь о девушках, которые любят спать с... девушками?"
 
 # ch/anna/chat.rpy:180
@@ -917,11 +917,11 @@ translate russian anna_love_0_male_734ea63f:
     anna.say "Ха! Попалась. Не, сейчас у меня только ты на уме, [lssb_anna.hero_name()]."
 
 # ch/anna/chat.rpy:199
-translate russian anna_love_1_male_c8de3477:
+translate russian anna_love_1_male_24c486d8:
     anna.say "Эм... тебе нравятся пирсинг?"
 
 # ch/anna/chat.rpy:202
-translate russian anna_love_1_male_92d84953:
+translate russian anna_love_1_male_af78834d:
     mike.say "Ну... это не совсем то, что мне нравится."
 
 # ch/anna/chat.rpy:204
@@ -945,7 +945,7 @@ translate russian anna_love_2_male_8d9b0dc9:
     mike.say "Никто не осудит парня за то, что он встречается с множеством разных девушек – и мне, честно говоря, тоже не пристало судить."
 
 # ch/anna/chat.rpy:221
-translate russian anna_love_2_male_e1379ace:
+translate russian anna_love_2_male_3b964fbf:
     mike.say "Хм... кажется, ты говоришь о настоящей шлюхе!"
 
 # ch/anna/chat.rpy:224
@@ -953,7 +953,7 @@ translate russian anna_love_2_male_e30bc2ad:
     mike.say "Поверь мне, если бы эта девушка, о которой ты говоришь, была со мной, ей бы не понадобился другой мужчина."
 
 # ch/anna/chat.rpy:229
-translate russian anna_love_3_male_40976963:
+translate russian anna_love_3_male_023072c2:
     anna.say "Ох... иногда я так хочу быть умнее..."
 
 # ch/anna/chat.rpy:232
@@ -985,7 +985,7 @@ translate russian anna_love_4_male_a9cc1781:
     mike.say "Я приглашу тебя на свидание как только подумаю, что ты к этому готова."
 
 # ch/anna/chat.rpy:256
-translate russian anna_love_5_male_5fb56b98:
+translate russian anna_love_5_male_bbea4984:
     anna.say "[lssb_anna.hero_name()] - что бы ты ответил, если бы я… ну, может быть, предложила тебе выпить?"
 
 # ch/anna/chat.rpy:259
@@ -993,7 +993,7 @@ translate russian anna_love_5_male_1a632ae5:
     mike.say "Я обязательно приду, Анна, – если это сделает тебя счастливой."
 
 # ch/anna/chat.rpy:261
-translate russian anna_love_5_male_1483ebe6:
+translate russian anna_love_5_male_5c8a7125:
     mike.say "А... мне нужно сначала посмотреть в свой ежедневник, убедиться, что у меня нет других планов."
 
 # ch/anna/chat.rpy:264
@@ -1013,7 +1013,7 @@ translate russian anna_love_5_male_9e990990:
     mike.say "Но на самом деле я хочу показать тебе ночь твоей жизни!"
 
 # ch/anna/chat.rpy:276
-translate russian anna_good_sweet_talk_male_153938c5:
+translate russian anna_good_sweet_talk_male_6f237db5:
     mike.say "Ого... твоя задница, Анна!"
 
 # ch/anna/chat.rpy:277
@@ -1045,7 +1045,7 @@ translate russian anna_good_sweet_talk_male_51541b9b:
     mike.say "Цвет такой яркий!"
 
 # ch/anna/chat.rpy:289
-translate russian anna_good_sweet_talk_male_29807a5d:
+translate russian anna_good_sweet_talk_male_21c04fd7:
     anna.say "Ой... спасибо тебе!"
 
 # ch/anna/chat.rpy:295
@@ -1333,7 +1333,7 @@ translate russian anna_date_intro_halloween_male_f909600b:
     anna.say "Ой, прекрати, [lssb_anna.hero_name()], ты мне неловко делаешь!"
 
 # ch/anna/date.rpy:19
-translate russian anna_date_intro_halloween_male_8eea169e:
+translate russian anna_date_intro_halloween_male_ce31f072:
     anna.say "Хотя... не останавливайся. Мне нравится, когда ты так говоришь!"
 
 # ch/anna/date.rpy:20
@@ -1597,7 +1597,7 @@ translate russian anna_date_play_arcade_intro_male_5fe33d3f:
     anna.say "Нет, в этой графика круче!"
 
 # ch/anna/date.rpy:134
-translate russian anna_date_play_arcade_intro_male_6e046375:
+translate russian anna_date_play_arcade_intro_male_9167ad40:
     anna.say "Постой... что это там такое?!"
 
 # ch/anna/date.rpy:135
@@ -1809,7 +1809,7 @@ translate russian anna_dick_reactions_eb119f24:
     anna.say "Это... это ОЧЕНЬ большое!"
 
 # ch/anna/date.rpy:200
-translate russian anna_dick_reactions_efa607fa:
+translate russian anna_dick_reactions_1047be49:
     mike.say "Это... это проблема?"
 
 # ch/anna/date.rpy:202
@@ -1825,7 +1825,7 @@ translate russian anna_dick_reactions_623345e1:
     anna.say "Ооох!"
 
 # ch/anna/date.rpy:209
-translate russian anna_dick_reactions_1b2702d1:
+translate russian anna_dick_reactions_f57a9eb3:
     mike.say "Это... у тебя что-то случилось, Анна?"
 
 # ch/anna/date.rpy:211
@@ -1877,7 +1877,7 @@ translate russian anna_halloween_invitation_0c1f153d:
     "И она выглядит совершенно не готовой к этому приглашению."
 
 # ch/anna/date.rpy:230
-translate russian anna_halloween_invitation_f63df1c8:
+translate russian anna_halloween_invitation_0ca1060c:
     anna.say "Э... вечеринка на Хэллоуин?"
 
 # ch/anna/date.rpy:231
@@ -2029,7 +2029,7 @@ translate russian anna_halloween_invitation_6695ba71:
     "Но потом я качаю головой в недоумении."
 
 # ch/anna/date.rpy:280
-translate russian anna_halloween_invitation_cbdf61ff:
+translate russian anna_halloween_invitation_38801774:
     mike.say "Ты... ты не хочешь?"
 
 # ch/anna/date.rpy:281
@@ -2201,7 +2201,7 @@ translate russian anna_halloween_arrival_a3cf3039:
     "Мой разум полон интригующих возможностей, поэтому я не могу думать ни о чем другом."
 
 # ch/anna/date.rpy:333
-translate russian anna_halloween_arrival_e1088e12:
+translate russian anna_halloween_arrival_e61d8811:
     mike.say "Вау, Анна... просто вау!"
 
 # ch/anna/date.rpy:334
@@ -2217,7 +2217,7 @@ translate russian anna_halloween_arrival_eab26450:
     "Она наклоняет голову набок, робко глядя на меня."
 
 # ch/anna/date.rpy:339
-translate russian anna_halloween_arrival_e2aca1e4:
+translate russian anna_halloween_arrival_d8085662:
     anna.say "Ты... ты действительно так думаешь?"
 
 # ch/anna/date.rpy:340
@@ -2237,7 +2237,7 @@ translate russian anna_halloween_arrival_631a6d75:
     mike.say "Я бы ни в чем не изменил."
 
 # ch/anna/date.rpy:344
-translate russian anna_halloween_arrival_c5beb209:
+translate russian anna_halloween_arrival_a39d17cc:
     mike.say "Ты... ты запрограммирована на...?"
 
 # ch/anna/date.rpy:345
@@ -2293,7 +2293,7 @@ translate russian anna_halloween_arrival_405ba4dd:
     "Она смотрит вниз на свои ноги, сжимая руки вместе."
 
 # ch/anna/date.rpy:363
-translate russian anna_halloween_arrival_a773c6e3:
+translate russian anna_halloween_arrival_fba9c0db:
     anna.say "Я... я сожалею, [lssb_anna.hero_name()]."
 
 # ch/anna/date.rpy:364
@@ -2509,7 +2509,7 @@ translate russian anna_halloween_party_7626bc6c:
     "Но когда дело касается аниме, самое главное – быть правым!"
 
 # ch/anna/date.rpy:440
-translate russian anna_halloween_party_ad4abb06:
+translate russian anna_halloween_party_747a05b1:
     anna.say "Что ты имеешь в виду?"
 
 # ch/anna/date.rpy:441
@@ -2545,7 +2545,7 @@ translate russian anna_halloween_party_ae46aa68:
     jack.say "Все знают, что фильм – отстой!"
 
 # ch/anna/date.rpy:452
-translate russian anna_halloween_party_da6f44f5:
+translate russian anna_halloween_party_3f9a1b73:
     anna.say "О... я понимаю..."
 
 # ch/anna/date.rpy:453
@@ -2625,7 +2625,7 @@ translate russian anna_halloween_dance_f7ad4817:
     "Анна вздыхает."
 
 # ch/anna/date.rpy:482
-translate russian anna_halloween_dance_068bd331:
+translate russian anna_halloween_dance_60a0eed0:
     anna.say "Я... я хочу танцевать сейчас, чтобы Саша нас увидела."
 
 # ch/anna/date.rpy:483
@@ -2661,7 +2661,7 @@ translate russian anna_halloween_dance_2c95546f:
     anna.say "Ты имеешь в виду меня!"
 
 # ch/anna/date.rpy:497
-translate russian anna_halloween_dance_a5f18642:
+translate russian anna_halloween_dance_8ddc18de:
     anna.say "Постой... ты действительно имеешь в виду меня, да?!"
 
 # ch/anna/date.rpy:498
@@ -3757,7 +3757,7 @@ translate russian anna_event_02_231b1d5f:
     anna.say "Мы будем смотреть фильмы ужасов, верно?"
 
 # ch/anna/events.rpy:678
-translate russian anna_event_02_48aee7eb:
+translate russian anna_event_02_21a54b15:
     mike.say "Да... по крайней мере, так был план."
 
 # ch/anna/events.rpy:679
@@ -3777,7 +3777,7 @@ translate russian anna_event_02_a9b136bb:
     anna.say "Ну, возможно, это еще не все, что я умею..."
 
 # ch/anna/events.rpy:684
-translate russian anna_event_02_7258d5f8:
+translate russian anna_event_02_d9d62ad1:
     mike.say "А… Похоже, тебе лучше войти!"
 
 # ch/anna/events.rpy:688
@@ -3861,7 +3861,7 @@ translate russian anna_event_02_9e122aab:
     "И тут же она присоединяется ко мне, уверенная, что я наконец-то понял, к чему она намекала."
 
 # ch/anna/events.rpy:710
-translate russian anna_event_02_b8afaa03:
+translate russian anna_event_02_ca8d725a:
     mike.say "Это... это самое ужасное, что я когда-либо видел!"
 
 # ch/anna/events.rpy:711
@@ -3909,7 +3909,7 @@ translate russian anna_event_02_45a65948:
     mike.say "Я не думаю, что он настоящий вампир, Анна."
 
 # ch/anna/events.rpy:725
-translate russian anna_event_02_4e269f7c:
+translate russian anna_event_02_d8865e8f:
     anna.say "Хм... а почему ты так думаешь?"
 
 # ch/anna/events.rpy:726
@@ -3941,7 +3941,7 @@ translate russian anna_event_02_d26de2fc:
     "К концу вечера нам это понравилось больше, чем просмотр самого фильма."
 
 # ch/anna/events.rpy:735
-translate russian anna_event_02_1005d30d:
+translate russian anna_event_02_60badaca:
     mike.say "О боже... это было ужасно!"
 
 # ch/anna/events.rpy:736
@@ -4085,7 +4085,7 @@ translate russian anna_event_03_944311f7:
     anna.say "В том-то и проблема: мы им нравимся СЛИШКОМ сильно!"
 
 # ch/anna/events.rpy:784
-translate russian anna_event_03_bb1869fc:
+translate russian anna_event_03_5adf1238:
     mike.say "Что... я не понимаю!"
 
 # ch/anna/events.rpy:785
@@ -4133,7 +4133,7 @@ translate russian anna_event_03_6b0f5af1:
     "И если это вызывает у меня такую реакцию, то для Анны, учитывая ее небольшой рост, должно быть еще хуже."
 
 # ch/anna/events.rpy:798
-translate russian anna_event_03_d774e9db:
+translate russian anna_event_03_81ea3a2f:
     anna.say "Эм... привет... ребята..."
 
 # ch/anna/events.rpy:799
@@ -4197,7 +4197,7 @@ translate russian anna_event_03_d75bbb09:
     "Надеюсь, они скоро не поймут, что я старше их и значительно превосхожу по численности!"
 
 # ch/anna/events.rpy:820
-translate russian anna_event_03_3f7555f5:
+translate russian anna_event_03_6bdc0832:
     "Поклонник" "Что... нет... мы бы никогда..."
 
 # ch/anna/events.rpy:821
@@ -4253,7 +4253,7 @@ translate russian anna_event_03_3d5995ea:
     "Поклонник" "Слушайте, мы не хотим никаких проблем!"
 
 # ch/anna/events.rpy:834
-translate russian anna_event_03_7853bb80:
+translate russian anna_event_03_845ba451:
     "Поклонница" "Да... мы просто фанаты, честно говоря!"
 
 # ch/anna/events.rpy:835
@@ -4365,11 +4365,11 @@ translate russian anna_event_03_424acbf7:
     "Она смотрит на меня в отчаянии, ее глаза умоляют меня спасти ее от их нежелательного внимания."
 
 # ch/anna/events.rpy:871
-translate russian anna_event_03_913b1cad:
+translate russian anna_event_03_69c4d674:
     anna.say "Ах...больно!"
 
 # ch/anna/events.rpy:872
-translate russian anna_event_03_86fb6ccb:
+translate russian anna_event_03_6ebbb9ef:
     anna.say "[lssb_anna.hero_name()]...помоги мне...пожалуйста!"
 
 # ch/anna/events.rpy:873
@@ -4453,7 +4453,7 @@ translate russian anna_event_04_d9c6858c:
     "Я протягиваю ей напиток, удивляясь, увидев, как она сразу же выпивает больше половины его залпом."
 
 # ch/anna/events.rpy:903
-translate russian anna_event_04_ff4a9af1:
+translate russian anna_event_04_d2872e11:
     anna.say "Эм, ничего... Просто я не осознавала, насколько сильно хочу пить!"
 
 # ch/anna/events.rpy:904
@@ -4465,7 +4465,7 @@ translate russian anna_event_04_fffa08be:
     "Анна выглядит смущенной, и ей трудно скрыть ярко выраженный румянец, будучи пойманной с такой легкостью."
 
 # ch/anna/events.rpy:906
-translate russian anna_event_04_d43faa9e:
+translate russian anna_event_04_df2d8bca:
     anna.say "Ладно, ладно... Я просто увидела кого-то, с кем не хотела сталкиваться."
 
 # ch/anna/events.rpy:908
@@ -4541,7 +4541,7 @@ translate russian anna_event_04_591d0be0:
     "Анна выглядит расстроенной и смотрит вниз на свои ноги, избегая моего взгляда."
 
 # ch/anna/events.rpy:932
-translate russian anna_event_04_f447413c:
+translate russian anna_event_04_92bb2f85:
     anna.say "Ох, хорошо...прости...наверное."
 
 # ch/anna/events.rpy:934
@@ -4553,7 +4553,7 @@ translate russian anna_event_04_7910719f:
     "Ее каштановые волосы обрамляют презрительное выражение лица, а в ее темных, сужающихся глазах – жесткий взгляд."
 
 # ch/anna/events.rpy:938
-translate russian anna_event_04_4bc9982b:
+translate russian anna_event_04_c4ff87d6:
     anna.say "Эмм... привет, Гвендолин."
 
 # ch/anna/events.rpy:940
@@ -4845,7 +4845,7 @@ translate russian anna_event_05_84a03a79:
     "Если она сама не может удержаться от того, чтобы искать ее при любой возможности."
 
 # ch/anna/events.rpy:1041
-translate russian anna_event_05_bed931d9:
+translate russian anna_event_05_49abbd5f:
     "Гвендолин" "Ну... ладно, что угодно!"
 
 # ch/anna/events.rpy:1042
@@ -4893,11 +4893,11 @@ translate russian anna_event_05_1ad57550:
     "Я хочу, чтобы Гвен поняла, что я веду себя так по своим собственным причинам, а не чтобы быть рыцарем в сияющих доспехах для Анны."
 
 # ch/anna/events.rpy:1054
-translate russian anna_event_05_7f138bae:
+translate russian anna_event_05_187a6e3e:
     "Гвендолин" "Ты...ты не можешь быть серьезным!"
 
 # ch/anna/events.rpy:1055
-translate russian anna_event_05_1c71d7bc:
+translate russian anna_event_05_9c7a02cf:
     "Гвендолин" "Ты действительно...угрожаешь мне?!"
 
 # ch/anna/events.rpy:1056
@@ -4925,7 +4925,7 @@ translate russian anna_event_05_e3e83904:
     "Гвен выдает свое сомнение и страх, оглядываясь через плечо в поисках возможности сбежать, а затем быстро возвращается вперед."
 
 # ch/anna/events.rpy:1063
-translate russian anna_event_05_f3e35253:
+translate russian anna_event_05_81c86f85:
     "Гвендолин" "Ты блефуешь...ты действительно не собираешься со мной драться!"
 
 # ch/anna/events.rpy:1064
@@ -4977,7 +4977,7 @@ translate russian anna_event_05_245e1b71:
     anna.say "Вау, [lssb_anna.hero_name()]!"
 
 # ch/anna/events.rpy:1078
-translate russian anna_event_05_fb2d4b42:
+translate russian anna_event_05_8c47be3d:
     anna.say "Ты действительно собиралась ее избить...ради меня?"
 
 # ch/anna/events.rpy:1079
@@ -5021,7 +5021,7 @@ translate russian anna_event_06_86cb575f:
     mike.say "Как тебе еда, Анна?"
 
 # ch/anna/events.rpy:1095
-translate russian anna_event_06_8836db46:
+translate russian anna_event_06_fb80d731:
     anna.say "Хм...А, да, точно."
 
 # ch/anna/events.rpy:1096
@@ -5029,7 +5029,7 @@ translate russian anna_event_06_858acd01:
     mike.say "Моё на вкус как жжёная резина. А твоё?"
 
 # ch/anna/events.rpy:1097
-translate russian anna_event_06_93fc000b:
+translate russian anna_event_06_257393ea:
     anna.say "Ммм...Как романтично."
 
 # ch/anna/events.rpy:1098
@@ -5045,7 +5045,7 @@ translate russian anna_event_06_6de21f6a:
     anna.say "Да..."
 
 # ch/anna/events.rpy:1102
-translate russian anna_event_06_9dbfe3e7:
+translate russian anna_event_06_47f3634b:
     anna.say "Постой...что?!"
 
 # ch/anna/events.rpy:1103
@@ -5121,7 +5121,7 @@ translate russian anna_event_06_15aa0a18:
     anna.say "Хорошо, [lssb_anna.hero_name()], если ты так говоришь."
 
 # ch/anna/events.rpy:1125
-translate russian anna_event_06_293f92f2:
+translate russian anna_event_06_cb8beee0:
     anna.say "У меня, знаешь ли, произошел конфликт... с Клео."
 
 # ch/anna/events.rpy:1127
@@ -5185,7 +5185,7 @@ translate russian anna_event_06_c922532f:
     anna.say "Ты не поверишь, [lssb_anna.hero_name()]."
 
 # ch/anna/events.rpy:1145
-translate russian anna_event_06_90563b1d:
+translate russian anna_event_06_3cbd164b:
     anna.say "Но эта сука на самом деле сказала, что я слишком кроткая... слишком кроткая и застенчивая!"
 
 # ch/anna/events.rpy:1146
@@ -5197,7 +5197,7 @@ translate russian anna_event_06_8bf7dc56:
     "Но вместо этого я закусываю губу, киваю головой в знак согласия и сочувствия."
 
 # ch/anna/events.rpy:1148
-translate russian anna_event_06_3d4bae70:
+translate russian anna_event_06_0fc334f2:
     anna.say "Я имею в виду... ты можешь поверить, что она вообще такое сказала?!"
 
 # ch/anna/events.rpy:1153
@@ -5225,11 +5225,11 @@ translate russian anna_event_06_a516a663:
     "И когда это происходит, я вижу, как глаза Анны расширяются от удивления."
 
 # ch/anna/events.rpy:1160
-translate russian anna_event_06_f12c0719:
+translate russian anna_event_06_61041ad3:
     anna.say "Что...что?"
 
 # ch/anna/events.rpy:1161
-translate russian anna_event_06_c1791ed3:
+translate russian anna_event_06_d45e7d20:
     anna.say "Ты...ты думаешь, что она права?"
 
 # ch/anna/events.rpy:1162
@@ -5289,7 +5289,7 @@ translate russian anna_event_06_48e700fd:
     "Хотя она, кажется, не совсем убеждена, Анна все равно кивает в ответ."
 
 # ch/anna/events.rpy:1179
-translate russian anna_event_06_3e162ca0:
+translate russian anna_event_06_bb7ff9ae:
     anna.say "Я...эм...я не знаю, [lssb_anna.hero_name()]."
 
 # ch/anna/events.rpy:1183
@@ -5349,7 +5349,7 @@ translate russian anna_event_06_30aa8009:
     mike.say "Но ты совсем другая, Анна."
 
 # ch/anna/events.rpy:1198
-translate russian anna_event_06_74fdc232:
+translate russian anna_event_06_bb6eca27:
     anna.say "Эм... да... наверное."
 
 # ch/anna/events.rpy:1199
@@ -5373,7 +5373,7 @@ translate russian anna_event_06_39922708:
     mike.say "Это не просто пустая оболочка, которая создает много шума."
 
 # ch/anna/events.rpy:1205
-translate russian anna_event_06_965027d8:
+translate russian anna_event_06_a5990947:
     anna.say "А... мои барабаны довольно громкие, знаешь ли..."
 
 # ch/anna/events.rpy:1206
@@ -5381,7 +5381,7 @@ translate russian anna_event_06_88d12002:
     mike.say "Я не имею в виду это буквально, Анна!"
 
 # ch/anna/events.rpy:1208
-translate russian anna_event_06_eba811b7:
+translate russian anna_event_06_30e6a15f:
     anna.say "О...прости, [lssb_anna.hero_name()]!"
 
 # ch/anna/events.rpy:1210
@@ -5409,7 +5409,7 @@ translate russian anna_event_07_eed127d8:
     "Поэтому, когда я наконец получаю звонок от Анны, я отвечаю на него с вполне понятными чувствами тревоги."
 
 # ch/anna/events.rpy:1221
-translate russian anna_event_07_dba73d0d:
+translate russian anna_event_07_0ffeabb7:
     mike.say "Эм... привет, Анна."
 
 # ch/anna/events.rpy:1222
@@ -5429,7 +5429,7 @@ translate russian anna_event_07_bba64a22:
     mike.say "Да, Анна, я в порядке."
 
 # ch/anna/events.rpy:1226
-translate russian anna_event_07_b996aca0:
+translate russian anna_event_07_af2325cf:
     mike.say "Ну... как всё прошло с Клео?"
 
 # ch/anna/events.rpy:1227
@@ -5455,10 +5455,6 @@ translate russian anna_event_07_609af4cc:
 # ch/anna/events.rpy:1232
 translate russian anna_event_07_7f772739:
     anna.say "Клео сейчас здесь, со мной!"
-
-# ch/anna/events.rpy:1233
-translate russian anna_event_07_d49c216f:
-    kleio.say "Привет, красавчик!"
 
 # ch/anna/events.rpy:1234
 translate russian anna_event_07_c3b54d75:
@@ -5608,10 +5604,6 @@ translate russian anna_event_07_bf1f61bf:
 translate russian anna_event_07_031cd910:
     "Анна ахает от удивления, но я вижу похожую реакцию в ее глазах."
 
-# ch/anna/events.rpy:1291
-translate russian anna_event_07_7c7ed71c:
-    kleio.say "Ну да, ты не единственный, Любовник."
-
 # ch/anna/events.rpy:1292
 translate russian anna_event_07_f4a9546b:
     kleio.say "Я сейчас так мокрая, что чувствую, будто намочила трусы!"
@@ -5745,7 +5737,7 @@ translate russian anna_event_08_16193ae1:
     mike.say "Анна, ты в порядке?"
 
 # ch/anna/events.rpy:1347
-translate russian anna_event_08_58ae0efb:
+translate russian anna_event_08_89a29857:
     anna.say "Что...? Ой, извини, [lssb_anna.hero_name()]."
 
 # ch/anna/events.rpy:1348
@@ -5781,7 +5773,7 @@ translate russian anna_event_08_7ffd1476:
     mike.say "Может быть, так мы сможем лучше понять друг друга!"
 
 # ch/anna/events.rpy:1357
-translate russian anna_event_08_adc6aac5:
+translate russian anna_event_08_86c02a7e:
     anna.say "Я... ну..."
 
 # ch/anna/events.rpy:1358
@@ -5801,7 +5793,7 @@ translate russian anna_event_08_cc59b35d:
     anna.say "Ну, [lssb_anna.hero_name()]..."
 
 # ch/anna/events.rpy:1363
-translate russian anna_event_08_3d39fc0b:
+translate russian anna_event_08_69caa154:
     anna.say "То, о чем я думаю... это ты!"
 
 # ch/anna/events.rpy:1364
@@ -5981,11 +5973,11 @@ translate russian anna_event_09_36a7ae42:
     mike.say "Может быть, есть что-то, о чем ты хотела бы поговорить?"
 
 # ch/anna/events.rpy:1417
-translate russian anna_event_09_9e8744de:
+translate russian anna_event_09_b7fdf473:
     anna.say "Эм... о чем же, [lssb_anna.hero_name()]?"
 
 # ch/anna/events.rpy:1418
-translate russian anna_event_09_f7d22a38:
+translate russian anna_event_09_9d0dbf23:
     mike.say "О... нас?"
 
 # ch/anna/events.rpy:1419
@@ -6021,7 +6013,7 @@ translate russian anna_event_09_baaac64f:
     "Как будто она хочет убежать, но боится последствий."
 
 # ch/anna/events.rpy:1429
-translate russian anna_event_09_5bbd0ef6:
+translate russian anna_event_09_eef99c6b:
     anna.say "Я… я хочу, [lssb_anna.hero_name()]."
 
 # ch/anna/events.rpy:1430
@@ -6097,7 +6089,7 @@ translate russian anna_event_09_882b74ea:
     mike.say "Ты серьезно?!"
 
 # ch/anna/events.rpy:1450
-translate russian anna_event_09_7cadbb8c:
+translate russian anna_event_09_bd74cb4a:
     anna.say "Да, я... действительно."
 
 # ch/anna/events.rpy:1451
@@ -6261,7 +6253,7 @@ translate russian anna_event_10_437a01ea:
     mike.say "Ох, чёрт..."
 
 # ch/anna/events.rpy:1504
-translate russian anna_event_10_09c94e55:
+translate russian anna_event_10_fd87037d:
     mike.say "Нет, Анна... ни в коем случае!"
 
 # ch/anna/events.rpy:1505
@@ -6289,11 +6281,11 @@ translate russian anna_event_10_365733dd:
     anna.say "Что?"
 
 # ch/anna/events.rpy:1511
-translate russian anna_event_10_f25bdfdc:
+translate russian anna_event_10_ba01878d:
     mike.say "Да... это странно, Анна."
 
 # ch/anna/events.rpy:1512
-translate russian anna_event_10_a410b959:
+translate russian anna_event_10_6ddf3e4c:
     mike.say "Я просто... не хочу оставаться одному дома."
 
 # ch/anna/events.rpy:1513
@@ -6413,7 +6405,7 @@ translate russian anna_event_11_237f4f40:
     anna.say "Ты собираешься предложить им поиграть, или что?"
 
 # ch/anna/events.rpy:1556
-translate russian anna_event_11_ab090186:
+translate russian anna_event_11_4f09673a:
     mike.say "Что... ты серьезно?"
 
 # ch/anna/events.rpy:1558
@@ -6485,7 +6477,7 @@ translate russian anna_event_11_4d188876:
     "Что, ты думаешь, что у меня был хоть малейший шанс отказать в таком предложении?!?"
 
 # ch/anna/events.rpy:1580
-translate russian anna_event_11_d2101359:
+translate russian anna_event_11_f0198b1d:
     mike.say "Д...да, Анна!"
 
 # ch/anna/events.rpy:1581
@@ -6509,7 +6501,7 @@ translate russian anna_event_11_4d188876_1:
     "Что, ты думаешь, что у меня был хоть малейший шанс отказать в таком предложении?!?"
 
 # ch/anna/events.rpy:1591
-translate russian anna_event_11_d2101359_1:
+translate russian anna_event_11_f0198b1d_1:
     mike.say "Д...да, Анна!"
 
 # ch/anna/events.rpy:1592
@@ -6533,11 +6525,11 @@ translate russian anna_event_11_ce6af1fc:
     "Но тут мне приходит в голову мысль, и я жестом прошу Анну остановиться."
 
 # ch/anna/events.rpy:1600
-translate russian anna_event_11_099bf3f8:
+translate russian anna_event_11_ff6cc394:
     anna.say "Что...что случилось?"
 
 # ch/anna/events.rpy:1601
-translate russian anna_event_11_8d16609c:
+translate russian anna_event_11_45b660c7:
     mike.say "Я вот подумал... может быть, мы могли бы это заснять?"
 
 # ch/anna/events.rpy:1602
@@ -6581,11 +6573,11 @@ translate russian anna_event_11_9244958b:
     mike.say "Да, я не против."
 
 # ch/anna/events.rpy:1616
-translate russian anna_event_11_596cc25d:
+translate russian anna_event_11_82878b1d:
     mike.say "Просто... мне хотелось бы что-то... чтобы напоминало о тебе."
 
 # ch/anna/events.rpy:1617
-translate russian anna_event_11_797eaddf:
+translate russian anna_event_11_5d748aeb:
     mike.say "Ты же знаешь... пока ты не вернешься."
 
 # ch/anna/events.rpy:1618
@@ -6921,7 +6913,7 @@ translate russian anna_event_12_b55586c0:
     "Она сжимает мою руку и улыбается мне с тех пор, как мы вошли через двери!"
 
 # ch/anna/events.rpy:1746
-translate russian anna_event_12_c060cf66:
+translate russian anna_event_12_fc716f18:
     anna.say "О...мой...чертов...Бог, [lssb_anna.hero_name()]."
 
 # ch/anna/events.rpy:1747
@@ -7657,7 +7649,7 @@ translate russian anna_event_13_89256ef8:
     anna.say "Теперь ты должен отвезти меня домой!"
 
 # ch/anna/events.rpy:1999
-translate russian anna_event_13_1a9e8f5f:
+translate russian anna_event_13_8a142562:
     mike.say "Ого... хорошо, хорошо!"
 
 # ch/anna/events.rpy:2000
@@ -7713,7 +7705,7 @@ translate russian anna_event_13_4f548d1e:
     "Но Анна просто выглядит растерянной, как будто не понимает, что происходит."
 
 # ch/anna/events.rpy:2016
-translate russian anna_event_13_ad4abb06:
+translate russian anna_event_13_747a05b1:
     anna.say "Ч...что ты имеешь в виду?"
 
 # ch/anna/events.rpy:2017
@@ -7737,7 +7729,7 @@ translate russian anna_event_13_229de9d6:
     "Анна слезает с Гвен, выглядя стыдно и смущенно."
 
 # ch/anna/events.rpy:2026
-translate russian anna_event_13_a773c6e3:
+translate russian anna_event_13_fba9c0db:
     anna.say "Я...я извинилась, [lssb_anna.hero_name()]."
 
 # ch/anna/events.rpy:2027
@@ -8097,7 +8089,7 @@ translate russian anna_male_ending_40fef3c7:
     anna.say "Или кто-нибудь скажет мне, когда?"
 
 # ch/anna/events.rpy:2149
-translate russian anna_male_ending_f2245139:
+translate russian anna_male_ending_99c30411:
     anna.say "Что… что?"
 
 # ch/anna/events.rpy:2150
@@ -8105,7 +8097,7 @@ translate russian anna_male_ending_de9ae4eb:
     anna.say "Люди слышат меня прямо сейчас?"
 
 # ch/anna/events.rpy:2152
-translate russian anna_male_ending_727daf70:
+translate russian anna_male_ending_7ac06235:
     anna.say "Вау... Я болтала все это время!"
 
 # ch/anna/events.rpy:2153
@@ -8137,7 +8129,7 @@ translate russian anna_male_ending_37bea6a2:
     anna.say "[lssb_anna.hero_name()], это очень грубо сказать!"
 
 # ch/anna/events.rpy:2164
-translate russian anna_male_ending_6ffeead9:
+translate russian anna_male_ending_75c7d339:
     anna.say "Хорошо... хорошо..."
 
 # ch/anna/events.rpy:2165
@@ -8161,7 +8153,7 @@ translate russian anna_male_ending_d01b7e21:
     anna.say "Значит, мне тоже нужно быть с ним грубой!"
 
 # ch/anna/events.rpy:2173
-translate russian anna_male_ending_bc9c9e79:
+translate russian anna_male_ending_9f8aeda2:
     anna.say "Но... ну что я могу сказать."
 
 # ch/anna/events.rpy:2174
@@ -8273,7 +8265,7 @@ translate russian anna_male_ending_703ea2b6:
     anna.say "Так что мы только что вернулись из тура, и мы осознали, что женаты!"
 
 # ch/anna/events.rpy:2208
-translate russian anna_male_ending_5fc95f3a:
+translate russian anna_male_ending_cfd85d2e:
     anna.say "Ну… мы просто не забыли, понимаешь?"
 
 # ch/anna/events.rpy:2209
@@ -8333,7 +8325,7 @@ translate russian anna_male_ending_bd003488:
     anna.say "Почему ты смеешься надо мной?"
 
 # ch/anna/events.rpy:2223
-translate russian anna_male_ending_18304f55:
+translate russian anna_male_ending_65a6884f:
     anna.say "Да ладно… просто игнорируй его, хорошо?"
 
 # ch/anna/events.rpy:2224
@@ -8341,7 +8333,7 @@ translate russian anna_male_ending_b338abdb:
     anna.say "Ой, чёрт, сколько у меня осталось времени?"
 
 # ch/anna/events.rpy:2225
-translate russian anna_male_ending_13df7d6b:
+translate russian anna_male_ending_5caaa4a7:
     anna.say "Ой... всего пара секунд!"
 
 # ch/anna/events.rpy:2226
@@ -9025,7 +9017,7 @@ translate russian anna_sub_event_02_a8785182:
     anna.say "Не жалуйся мне, если тебе станет скучно в постели!"
 
 # ch/anna/events.rpy:2458
-translate russian anna_birthday_date_male_cbf59246:
+translate russian anna_birthday_date_male_369bffcd:
     "А... определенно хорошо отдохнуть от городской суеты."
 
 # ch/anna/events.rpy:2459
@@ -10029,7 +10021,7 @@ translate russian anna_birthday_date_male_857ee4a9:
     "Она выглядит смущенной и качает головой."
 
 # ch/anna/events.rpy:2800
-translate russian anna_birthday_date_male_6be68daa:
+translate russian anna_birthday_date_male_f9be02ab:
     anna.say "Ой... извини, [lssb_anna.hero_name()]!"
 
 # ch/anna/events.rpy:2802
@@ -10041,7 +10033,7 @@ translate russian anna_birthday_date_male_c445bfb8:
     anna.say "Наверное, я была голоднее, чем думала!"
 
 # ch/anna/events.rpy:2804
-translate russian anna_birthday_date_male_30f16d27:
+translate russian anna_birthday_date_male_887522a1:
     mike.say "Да... все в порядке, Анна."
 
 # ch/anna/events.rpy:2805
@@ -10393,7 +10385,7 @@ translate russian anna_birthday_date_male_21362daf:
     anna.say "Ну..."
 
 # ch/anna/events.rpy:2915
-translate russian anna_birthday_date_male_b541930e:
+translate russian anna_birthday_date_male_7a137a4a:
     anna.say "Это значит, что эта поездка – как... мой подарок на день рождения?"
 
 # ch/anna/events.rpy:2917
@@ -10533,7 +10525,7 @@ translate russian anna_birthday_date_male_aac1f42a:
     anna.say "Спасибо, [lssb_anna.hero_name()]."
 
 # ch/anna/events.rpy:2969
-translate russian anna_birthday_date_male_2fbf5c26:
+translate russian anna_birthday_date_male_f3317307:
     anna.say "Это… очень мило."
 
 # ch/anna/events.rpy:2970
@@ -11145,7 +11137,7 @@ translate russian anna_preg_talk_063ca4e5:
     mike.say "Анна, ради бога, что случилось?"
 
 # ch/anna/events.rpy:3267
-translate russian anna_preg_talk_31802011:
+translate russian anna_preg_talk_e0fa3372:
     anna.say "Эм...о...ничего, наверное."
 
 # ch/anna/events.rpy:3268
@@ -11161,7 +11153,7 @@ translate russian anna_preg_talk_cc7303bb:
     "Анна смотрит на меня, ее глаза огромные и пристальные, из-за чего она выглядит больше как невинный щенок, чем когда-либо."
 
 # ch/anna/events.rpy:3272
-translate russian anna_preg_talk_43fe62b3:
+translate russian anna_preg_talk_0dc1b371:
     anna.say "Ну, я вот что подумала...мы можем заняться анальным сексом сегодня вечером?"
 
 # ch/anna/events.rpy:3273
@@ -11185,7 +11177,7 @@ translate russian anna_preg_talk_36923cc3:
     "Когда он произносит последние слова, она мгновенно краснеет и нарочито отворачивается от меня."
 
 # ch/anna/events.rpy:3278
-translate russian anna_preg_talk_c8f4f4bc:
+translate russian anna_preg_talk_695c0a06:
     mike.say "Анна... у тебя что-то есть, что ты хочешь мне сказать?"
 
 # ch/anna/events.rpy:3279
@@ -11221,7 +11213,7 @@ translate russian anna_preg_talk_991f0582:
     "Ее глаза опухшие и красные, словно она вот-вот заплачет."
 
 # ch/anna/events.rpy:3288
-translate russian anna_preg_talk_e4241cfd:
+translate russian anna_preg_talk_b6d37883:
     anna.say "Ну, мы никогда не беспокоились о предохранении, когда занимались этим... разве?"
 
 # ch/anna/events.rpy:3289
@@ -11245,7 +11237,7 @@ translate russian anna_preg_talk_46cdcc93:
     mike.say "Я виноват не меньше тебя, Анна. С чего мне на тебя злиться?"
 
 # ch/anna/events.rpy:3294
-translate russian anna_preg_talk_8b1c5f92:
+translate russian anna_preg_talk_d03b39a9:
     anna.say "Ну, понимаешь... Я хочу оставить это."
 
 # ch/anna/events.rpy:3295
@@ -11253,7 +11245,7 @@ translate russian anna_preg_talk_e8a1b23e:
     "Кажется, что произнесение этих слов вслух как-то укрепляет ее решимость."
 
 # ch/anna/events.rpy:3296
-translate russian anna_preg_talk_b9bc1c96:
+translate russian anna_preg_talk_1d50e22c:
     anna.say "То есть... Я собираюсь оставить это."
 
 # ch/anna/events.rpy:3297
@@ -11277,7 +11269,7 @@ translate russian anna_preg_talk_49d470db:
     mike.say "Я не позволю каким-то устаревшим представлениям о том, что 'правильно', управлять мной."
 
 # ch/anna/events.rpy:3304
-translate russian anna_preg_talk_b991ecbe:
+translate russian anna_preg_talk_99213c52:
     anna.say "Что... Что ты говоришь?"
 
 # ch/anna/events.rpy:3305
@@ -11293,7 +11285,7 @@ translate russian anna_preg_talk_0ca087e8:
     "Глаза Анны еще больше расширяются, и она наконец начинает плакать."
 
 # ch/anna/events.rpy:3308
-translate russian anna_preg_talk_d0a7eef7:
+translate russian anna_preg_talk_ad0d89f0:
     anna.say "Ты имеешь в виду, что... что между нами все кончено?"
 
 # ch/anna/events.rpy:3309
@@ -11469,7 +11461,7 @@ translate russian anna_practice_01_7f63d63d:
     kleio.say "Господи, чувак, я знала, что у тебя нет слуха. Но такое можно пропустить, только если ты совсем глухой!"
 
 # ch/anna/events.rpy:3390
-translate russian anna_practice_01_2a21daa7:
+translate russian anna_practice_01_657e6b2f:
     mike.say "Погоди-ка, Клео... мы все сейчас на взводе и измотаны, и ссоры только ухудшат ситуацию."
 
 # ch/anna/events.rpy:3392
@@ -11485,11 +11477,11 @@ translate russian anna_practice_01_3ad6379f:
     "Глаза Анны расширяются, когда все трое из нас по сути соглашаемся с тем, что она совершила ошибку, и она грустно смотрит на барабанные палочки в своих руках."
 
 # ch/anna/events.rpy:3399
-translate russian anna_practice_01_ae95fe8e:
+translate russian anna_practice_01_5de1402f:
     anna.say "Мне очень жаль, ребята... наверное, я просто недостаточно старалась."
 
 # ch/anna/events.rpy:3401
-translate russian anna_practice_01_c7dcdd1d:
+translate russian anna_practice_01_34a366ae:
     sasha.say "Да мы все вымотались, Анна... Но мы команда и справимся. Давайте пять минут отдыха, чтобы прийти в себя."
 
 # ch/anna/events.rpy:3404
@@ -11525,7 +11517,7 @@ translate russian anna_practice_01_d9562ad6:
     anna.say "Привет, спасибо, что заступилась за меня."
 
 # ch/anna/events.rpy:3422
-translate russian anna_practice_01_d198a841:
+translate russian anna_practice_01_7cc9c18b:
     mike.say "Не за что… слушай, я знаю, ты была не в себе, потому что тебе нравлюсь я."
 
 # ch/anna/events.rpy:3423
@@ -11537,7 +11529,7 @@ translate russian anna_practice_01_d9c66a94:
     mike.say "Не переживай, может быть, это стресс на тебя действует, все в порядке."
 
 # ch/anna/events.rpy:3425
-translate russian anna_practice_01_9d64a636:
+translate russian anna_practice_01_f8f181b1:
     mike.say "Если честно, я не злюсь… наоборот, мне приятно."
 
 # ch/anna/events.rpy:3427
@@ -11549,7 +11541,7 @@ translate russian anna_practice_01_04afbc39:
     "Ее миниатюрная фигура означает, что она едва доходит до моей груди, но ее объятия очень сильные."
 
 # ch/anna/events.rpy:3429
-translate russian anna_practice_01_849d7d35:
+translate russian anna_practice_01_4c1b545b:
     mike.say "Я просто хочу, чтобы ты знала, Анна… ты важнее, чем победа в этом конкурсе."
 
 # ch/anna/events.rpy:3432
@@ -11565,7 +11557,7 @@ translate russian anna_practice_01_8cac0d57:
     mike.say "Послушай, Анна, прости, что мы так на тебя набросились. Но ты немного сбивалась."
 
 # ch/anna/events.rpy:3435
-translate russian anna_practice_01_a3a78c53:
+translate russian anna_practice_01_5317dae6:
     mike.say "Но, честно говоря, думаю, что ошиблись все... просто Саша заметила это первой, и мы все подхватили."
 
 # ch/anna/events.rpy:3436
@@ -11581,7 +11573,7 @@ translate russian anna_practice_01_cc200688:
     "Она обнимает меня нежно, скорее для того, чтобы убедиться в этом, чем из каких-либо других чувств, и я слабо обнимаю ее в ответ."
 
 # ch/anna/events.rpy:3442
-translate russian anna_practice_01_57e02a46:
+translate russian anna_practice_01_647618f4:
     anna.say "Прости... пожалуйста, не злись на меня!"
 
 # ch/anna/events.rpy:3443
@@ -11605,7 +11597,7 @@ translate russian anna_practice_01_f1458a56:
     "Анна молчит некоторое время, затем всхлипывает и явно пытается выглядеть сильнее, напоминая мне ребенка, который пытается казаться крутым, но у него это не получается."
 
 # ch/anna/events.rpy:3448
-translate russian anna_practice_01_6ea30c16:
+translate russian anna_practice_01_e4698eb5:
     anna.say "Хорошо, поняла... я буду сосредоточена на конкурсе, обещаю."
 
 # ch/anna/events.rpy:3450
@@ -11677,7 +11669,7 @@ translate russian anna_event_talk_murder_fc16e0c7:
     anna.say "То, что эта мерзкая девчонка сделала с тобой..."
 
 # ch/anna/events.rpy:3477
-translate russian anna_event_talk_murder_e1b53c82:
+translate russian anna_event_talk_murder_1e950103:
     anna.say "Ох...я никогда ей этого не прощу!"
 
 # ch/anna/events.rpy:3479
@@ -11776,26 +11768,6 @@ translate russian anna_hottub_sex_male_6d78fc82:
 translate russian anna_hottub_sex_male_118b40c0:
     anna.say "Эта гидромассажная ванна – она моя!"
 
-# ch/anna/fuck.rpy:35
-translate russian anna_hottub_sex_male_a7ae12e8:
-    "Когда я пригласил Анну искупаться со мной в гидромассажной ванне, я и представить себе не мог такого!"
-
-# ch/anna/fuck.rpy:36
-translate russian anna_hottub_sex_male_bf71d99a:
-    "Но потом она сразу же согласилась, а затем постоянно меня подгоняла, пока не настал назначенный день."
-
-# ch/anna/fuck.rpy:37
-translate russian anna_hottub_sex_male_47dbbca8:
-    "Теперь она одета только в купальник и тянет меня за собой к ванной."
-
-# ch/anna/fuck.rpy:38
-translate russian anna_hottub_sex_male_5900bc3d:
-    "Я едва успеваю надеть плавки, прежде чем она вытащит меня из дома голым!"
-
-# ch/anna/fuck.rpy:39
-translate russian anna_hottub_sex_male_bdf08565:
-    "Анна ведет меня через террасу и к месту, где стоит гидромассажная ванна."
-
 # ch/anna/fuck.rpy:40
 translate russian anna_hottub_sex_male_ef25a3c6:
     "Увидев, что в ней уже налилась горячая, бурлящая вода, она прыгает прямо внутрь."
@@ -11865,7 +11837,7 @@ translate russian anna_hottub_sex_male_190a5f09:
     "Она смотрит на меня широко раскрытыми глазами, с удивлением."
 
 # ch/anna/fuck.rpy:59
-translate russian anna_hottub_sex_male_c1592f4e:
+translate russian anna_hottub_sex_male_2cf8ae53:
     anna.say "Я... я просто хотела повеселиться."
 
 # ch/anna/fuck.rpy:60
@@ -11889,7 +11861,7 @@ translate russian anna_hottub_sex_male_cc1224c6:
     "Но я не позволю этому испортить наши шансы хорошо провести время вместе!"
 
 # ch/anna/fuck.rpy:65
-translate russian anna_hottub_sex_male_442d94fa:
+translate russian anna_hottub_sex_male_6f61c962:
     mike.say "Ты... ты этого не сделала, Анна."
 
 # ch/anna/fuck.rpy:66
@@ -12221,11 +12193,11 @@ translate russian anna_fuck_date_intro_male_65cfd01f:
     "Анна на мгновение отводит взгляд, а затем снова смотрит мне в глаза."
 
 # ch/anna/fuck.rpy:233
-translate russian anna_fuck_date_intro_male_dffdb58e:
+translate russian anna_fuck_date_intro_male_2e4499a8:
     anna.say "Просто... прошло очень много времени с тех пор, как у меня были свидания..."
 
 # ch/anna/fuck.rpy:234
-translate russian anna_fuck_date_intro_male_5bf6738b:
+translate russian anna_fuck_date_intro_male_6e7e6978:
     anna.say "\"Ну, со времен моих отношений с парнем... или интимной близости\"."
 
 # ch/anna/fuck.rpy:235
@@ -12301,7 +12273,7 @@ translate russian anna_fuck_date_intro_male_7946bafb:
     mike.say "Мне это не ненавистно."
 
 # ch/anna/fuck.rpy:265
-translate russian anna_fuck_date_intro_male_c630a61e:
+translate russian anna_fuck_date_intro_male_ba8802dc:
     mike.say "Просто… это неожиданно, вот и все."
 
 # ch/anna/fuck.rpy:268
@@ -12313,7 +12285,7 @@ translate russian anna_fuck_date_intro_male_c75a914d:
     anna.say "Тебе это кажется забавным?!"
 
 # ch/anna/fuck.rpy:271
-translate russian anna_fuck_date_intro_male_0a739ffa:
+translate russian anna_fuck_date_intro_male_9848cb63:
     mike.say "Нет... да... ну, может быть, немного."
 
 # ch/anna/fuck.rpy:272
@@ -12621,7 +12593,7 @@ translate russian anna_fuck_date_intro_male_e1b3a54f:
     "И я уже чувствую, как мой член напрягается внутри эластичных шорт!"
 
 # ch/anna/fuck.rpy:375
-translate russian anna_fuck_date_intro_male_d2101359:
+translate russian anna_fuck_date_intro_male_f0198b1d:
     mike.say "Д...да, Анна!"
 
 # ch/anna/fuck.rpy:376
@@ -12749,7 +12721,7 @@ translate russian anna_fuck_date_intro_male_532ac25d:
     anna.say "Ну как, [lssb_anna.hero_name()], понравилось?"
 
 # ch/anna/fuck.rpy:419
-translate russian anna_fuck_date_intro_male_e516d899:
+translate russian anna_fuck_date_intro_male_ba0e848c:
     mike.say "Да...да, конечно, Анна."
 
 # ch/anna/fuck.rpy:420
@@ -13233,11 +13205,11 @@ translate russian anna_sleep_date_fuck_ad7ae1be:
     anna.say "Можно мне сегодня переночевать в твоей постели, господин?"
 
 # ch/anna/fuck.rpy:690
-translate russian anna_sleep_date_fuck_bcf480e0:
+translate russian anna_sleep_date_fuck_af070ee2:
     anna.say "Ммм...ты не против того, чтобы я осталась здесь на ночь?"
 
 # ch/anna/fuck.rpy:693
-translate russian anna_sleep_date_fuck_788d9cdd:
+translate russian anna_sleep_date_fuck_4498d9e0:
     mike.say "Нет...мне нужно встать очень рано утром."
 
 # ch/anna/fuck.rpy:694
@@ -13249,7 +13221,7 @@ translate russian anna_sleep_date_fuck_065e8081:
     "Анна хмурится с разочарованием, явно пытаясь подавить чувство отвержения."
 
 # ch/anna/fuck.rpy:696
-translate russian anna_sleep_date_fuck_2b0517d3:
+translate russian anna_sleep_date_fuck_f90269e0:
     anna.say "Хорошо...спокойной ночи, наверное."
 
 # ch/anna/fuck.rpy:697
@@ -13257,7 +13229,7 @@ translate russian anna_sleep_date_fuck_24186f74:
     "Она качает головой, собирает свои вещи и уходит из моей спальни."
 
 # ch/anna/fuck.rpy:702
-translate russian anna_sleep_date_fuck_785f12ef:
+translate russian anna_sleep_date_fuck_32318b76:
     mike.say "ДА... то есть, да... если ты хочешь!"
 
 # ch/anna/fuck.rpy:703
@@ -13313,7 +13285,7 @@ translate russian anna_cunnilingus_9442074a:
     "Она с дрожью обмякает на матрасе, только рада приказу."
 
 # ch/anna/fuck.rpy:729
-translate russian anna_cunnilingus_ee18b7ca:
+translate russian anna_cunnilingus_f44509ec:
     anna.say "Ч-что ты собираешься со мной делать?"
 
 # ch/anna/fuck.rpy:731
@@ -13353,7 +13325,7 @@ translate russian anna_cunnilingus_68ca6fd6:
     mike.say "Я буду лизать твою маленькую пизду, пока ты не взмолишься, чтобы я остановился!"
 
 # ch/anna/fuck.rpy:740
-translate russian anna_cunnilingus_bee968d6:
+translate russian anna_cunnilingus_c77a9a6e:
     anna.say "Ох ты... ты зверь! Моя бедная киска!"
 
 # ch/anna/fuck.rpy:741
@@ -13541,7 +13513,7 @@ translate russian anna_cunnilingus_b6982f9e:
     anna.say "Ого! Ледяное!!!"
 
 # ch/anna/fuck.rpy:806
-translate russian anna_cunnilingus_1d841d02:
+translate russian anna_cunnilingus_52e7e8e8:
     anna.say "О-о-ох! Что... что... М-м-м..."
 
 # ch/anna/fuck.rpy:807
@@ -13585,7 +13557,7 @@ translate russian anna_cunnilingus_911b84c3:
     "В тот миг, когда я хватаю анальные шарики, Анна вскидывает таз. Опускаясь обратно, она почти сама делает за меня всю трудную работу."
 
 # ch/anna/fuck.rpy:820
-translate russian anna_cunnilingus_254b95b1:
+translate russian anna_cunnilingus_9f3d8aa0:
     anna.say "О-о-ох! Что это?! Ох... ох... ах ты проказник!"
 
 # ch/anna/fuck.rpy:822
@@ -13625,11 +13597,11 @@ translate russian anna_cunnilingus_3b3019ca:
     "Продолжая работать языком, я ввожу его в неё. Она и не знает, что её ждёт."
 
 # ch/anna/fuck.rpy:835
-translate russian anna_cunnilingus_0676efd5:
+translate russian anna_cunnilingus_c4624859:
     anna.say "М-м-м... Чт... что ты..."
 
 # ch/anna/fuck.rpy:837
-translate russian anna_cunnilingus_817549bc:
+translate russian anna_cunnilingus_b84ed83f:
     anna.say "Ох... о да... Трахни меня этой штукой!"
 
 # ch/anna/fuck.rpy:838
@@ -14593,7 +14565,7 @@ translate russian anna_fuck_date_missionary_2b9651bd_1:
     "Как только я заканчиваю, я спрыгиваю с Анны и падаю рядом с ней."
 
 # ch/anna/fuck.rpy:1226
-translate russian anna_fuck_date_missionary_4ab57849:
+translate russian anna_fuck_date_missionary_94029228:
     anna.say "\"Не... останавливайся... таблетки...\" (используется обращение \"ты\")."
 
 # ch/anna/fuck.rpy:1227
@@ -14701,7 +14673,7 @@ translate russian anna_fuck_date_missionary_cf9d3b71:
     "Теперь можно различить слова, даже когда она отворачивается от меня, не позволяя мне видеть выражение ее лица."
 
 # ch/anna/fuck.rpy:1275
-translate russian anna_fuck_date_missionary_839ede76:
+translate russian anna_fuck_date_missionary_c491a78b:
     anna.say "\"Что... что ты сделал...\" (используется обращение \"ты\")."
 
 # ch/anna/fuck.rpy:1276
@@ -15085,15 +15057,15 @@ translate russian anna_fuck_date_doggy_fc02f6bf:
     "И то, как Анна поворачивает свою задницу в мою сторону, почти подталкивая ее в мою направлении, показывает, насколько сильно это на нее влияет."
 
 # ch/anna/fuck.rpy:1423
-translate russian anna_fuck_date_doggy_a515fac6:
+translate russian anna_fuck_date_doggy_c0b45d20:
     anna.say "Ах... блин..."
 
 # ch/anna/fuck.rpy:1424
-translate russian anna_fuck_date_doggy_d586e3b1:
+translate russian anna_fuck_date_doggy_a62dbe2a:
     anna.say "Да... пожалуйста..."
 
 # ch/anna/fuck.rpy:1426
-translate russian anna_fuck_date_doggy_0d4316c7:
+translate russian anna_fuck_date_doggy_c8d067f8:
     anna.say "Это так... очень... хорошо!"
 
 # ch/anna/fuck.rpy:1427
@@ -15213,11 +15185,11 @@ translate russian anna_fuck_date_doggy_655be9d6:
     anna.say "Не останавливайся..."
 
 # ch/anna/fuck.rpy:1471
-translate russian anna_fuck_date_doggy_7f30a92b:
+translate russian anna_fuck_date_doggy_20124724:
     anna.say "Все хорошо...я..."
 
 # ch/anna/fuck.rpy:1472
-translate russian anna_fuck_date_doggy_a14cf1e6:
+translate russian anna_fuck_date_doggy_0586572b:
     anna.say "На... таблетках... помнишь!"
 
 # ch/anna/fuck.rpy:1473
@@ -15337,7 +15309,7 @@ translate russian anna_fuck_date_doggy_8157f9a9:
     "Но она тут же начинает поджимать ягодицы и пытается снова проталкивать его внутрь."
 
 # ch/anna/fuck.rpy:1526
-translate russian anna_fuck_date_doggy_1eed1df7:
+translate russian anna_fuck_date_doggy_4b691d3e:
     anna.say "Эм... нет... не надо..."
 
 # ch/anna/fuck.rpy:1527
@@ -15513,7 +15485,7 @@ translate russian anna_fuck_date_cowgirl_b1a47c30:
     "Она истерически хихикает, и я понимаю, что для нее это, должно быть, новинка – заниматься сексом с кем-то без собственных грудей, который находит ее собственные такие желанными."
 
 # ch/anna/fuck.rpy:1589
-translate russian anna_fuck_date_cowgirl_8403ce60:
+translate russian anna_fuck_date_cowgirl_4c3b8e32:
     anna.say "Смерть от анальной шлюхи... как круто это будет выглядеть на твоей могиле!"
 
 # ch/anna/fuck.rpy:1590
@@ -15541,7 +15513,7 @@ translate russian anna_fuck_date_cowgirl_39956960:
     mike.say "Стоило того, чтобы ждать, чтобы почувствовать настоящий член внутри тебя?"
 
 # ch/anna/fuck.rpy:1598
-translate russian anna_fuck_date_cowgirl_2bf5d0d1:
+translate russian anna_fuck_date_cowgirl_0fff57e9:
     anna.say "Ммм... скорее волшебная палочка... которая превращает меня в маленькую анальную шлюху!"
 
 # ch/anna/fuck.rpy:1612
@@ -15553,11 +15525,11 @@ translate russian anna_fuck_date_cowgirl_27f33da0:
     "Она напряжена, и кажется, что прошло целая вечность, пока она опускается на меня, но это только делает все еще более невероятным, почти как будто у нее впервые."
 
 # ch/anna/fuck.rpy:1614
-translate russian anna_fuck_date_cowgirl_f4e94e53:
+translate russian anna_fuck_date_cowgirl_4ed35b04:
     mike.say "Анна... я... я думал, ты хочешь этого в жопе!"
 
 # ch/anna/fuck.rpy:1615
-translate russian anna_fuck_date_cowgirl_7837aa91:
+translate russian anna_fuck_date_cowgirl_3507edcf:
     anna.say "\"Ах, блин... так давно прошло с тех пор, как у меня был настоящий член внутри...\" не смогла удержаться."
 
 # ch/anna/fuck.rpy:1616
@@ -15593,7 +15565,7 @@ translate russian anna_fuck_date_cowgirl_067ad2c0:
     "Анна стонет, когда ее проникают с двух разных сторон, и любое движение только усиливает ощущения от обоих видов стимуляции."
 
 # ch/anna/fuck.rpy:1632
-translate russian anna_fuck_date_cowgirl_c258a676:
+translate russian anna_fuck_date_cowgirl_2b8d5ae5:
     mike.say "О, блин, Анна... это потрясающе... но что насчет твоей жопы?"
 
 # ch/anna/fuck.rpy:1633
@@ -15601,7 +15573,7 @@ translate russian anna_fuck_date_cowgirl_ae43baa0:
     "Она улыбается лукаво, явно наслаждаясь тем, что контролирует ситуацию."
 
 # ch/anna/fuck.rpy:1634
-translate russian anna_fuck_date_cowgirl_d767dc00:
+translate russian anna_fuck_date_cowgirl_06f57913:
     anna.say "\"Я уже все продумала... дай мне свою руку\"."
 
 # ch/anna/fuck.rpy:1635
@@ -15613,7 +15585,7 @@ translate russian anna_fuck_date_cowgirl_403bb3b3:
     "Улыбка Анны превращается в широкую ухмылку, и она кивает, когда я хватаю это и тяну."
 
 # ch/anna/fuck.rpy:1637
-translate russian anna_fuck_date_cowgirl_61d2d174:
+translate russian anna_fuck_date_cowgirl_9d4c7fdd:
     anna.say "О, черт, [lssb_anna.hero_name()]... о да... потяни мой шнурок, вытащи этот маленький шлюх из ее жопы!"
 
 # ch/anna/fuck.rpy:1640
@@ -15637,7 +15609,7 @@ translate russian anna_fuck_date_cowgirl_b1a47c30_1:
     "Она истерически хихикает, и я понимаю, что для нее это, должно быть, новинка – заниматься сексом с кем-то без собственных грудей, который находит ее собственные такие желанными."
 
 # ch/anna/fuck.rpy:1645
-translate russian anna_fuck_date_cowgirl_8403ce60_1:
+translate russian anna_fuck_date_cowgirl_4c3b8e32_1:
     anna.say "Смерть от анальной шлюхи... как круто это будет выглядеть на твоей могиле!"
 
 # ch/anna/fuck.rpy:1646
@@ -15777,11 +15749,11 @@ translate russian anna_fuck_date_cowgirl_655be9d6:
     anna.say "Не останавливайся..."
 
 # ch/anna/fuck.rpy:1701
-translate russian anna_fuck_date_cowgirl_7f30a92b:
+translate russian anna_fuck_date_cowgirl_20124724:
     anna.say "Всё в порядке... Я..."
 
 # ch/anna/fuck.rpy:1702
-translate russian anna_fuck_date_cowgirl_a14cf1e6:
+translate russian anna_fuck_date_cowgirl_0586572b:
     anna.say "На... таблетках... помнишь!"
 
 # ch/anna/fuck.rpy:1703
@@ -15881,11 +15853,11 @@ translate russian anna_fuck_date_cowgirl_cf9d3b71:
     "Теперь можно различить слова, даже когда она отворачивается от меня, не позволяя мне видеть выражение ее лица."
 
 # ch/anna/fuck.rpy:1744
-translate russian anna_fuck_date_cowgirl_b157c5e2:
+translate russian anna_fuck_date_cowgirl_e59cc089:
     anna.say "Что...что мы наделали...?"
 
 # ch/anna/fuck.rpy:1745
-translate russian anna_fuck_date_cowgirl_37b983d6:
+translate russian anna_fuck_date_cowgirl_a2580d0f:
     anna.say "Черт...а вдруг у меня от этого забеременеют?!?"
 
 # ch/anna/fuck.rpy:1748
@@ -15897,7 +15869,7 @@ translate russian anna_fuck_date_cowgirl_d9ff3e83:
     "Но она тут же начинает подергивать ягодицами, пытаясь снова втянуть все внутрь."
 
 # ch/anna/fuck.rpy:1750
-translate russian anna_fuck_date_cowgirl_1eed1df7:
+translate russian anna_fuck_date_cowgirl_4b691d3e:
     anna.say "Эм...нет...не надо..."
 
 # ch/anna/fuck.rpy:1751
@@ -16441,7 +16413,7 @@ translate russian anna_gift_collar_male_64c35090:
     anna.say "Ого, [lssb_anna.hero_name()]!"
 
 # ch/anna/gift.rpy:82
-translate russian anna_gift_collar_male_c3026fbe:
+translate russian anna_gift_collar_male_f3e295fd:
     anna.say "Это... это для меня?"
 
 # ch/anna/gift.rpy:83
@@ -16461,7 +16433,7 @@ translate russian anna_gift_collar_male_b3e35cad:
     mike.say "Да, Анна."
 
 # ch/anna/gift.rpy:87
-translate russian anna_gift_collar_male_e5971bec:
+translate russian anna_gift_collar_male_00014c07:
     mike.say "Я... хотел тебе что-нибудь приятное подарить."
 
 # ch/anna/gift.rpy:88
@@ -16493,7 +16465,7 @@ translate russian anna_gift_collar_male_28e79088:
     anna.say "Это очень мило с твоей стороны."
 
 # ch/anna/gift.rpy:95
-translate russian anna_gift_collar_male_57e0fe2d:
+translate russian anna_gift_collar_male_7156f005:
     anna.say "Но тебе не обязательно было дарить мне... ОГОВЕРЬ?!"
 
 # ch/anna/gift.rpy:96
@@ -16541,7 +16513,7 @@ translate russian anna_gift_collar_male_9a4b30a8:
     "Более того, она делает это с такой силой, что они ударяют меня в живот, заставляя меня задохнуться."
 
 # ch/anna/gift.rpy:110
-translate russian anna_gift_collar_male_56059a2d:
+translate russian anna_gift_collar_male_8998f6be:
     mike.say "Анна... не могу... дышать!"
 
 # ch/anna/gift.rpy:111
@@ -16557,7 +16529,7 @@ translate russian anna_gift_collar_male_3e720bed:
     "Я все еще пытаюсь отдышаться и смотрю на нее с ошеломленным выражением лица."
 
 # ch/anna/gift.rpy:114
-translate russian anna_gift_collar_male_564684f4:
+translate russian anna_gift_collar_male_4e84601b:
     mike.say "Ты...пытаешься сказать...что тебе это не...нравится?"
 
 # ch/anna/gift.rpy:115
@@ -16573,7 +16545,7 @@ translate russian anna_gift_collar_male_a559c095:
     anna.say "Я думала, я твоя девушка."
 
 # ch/anna/gift.rpy:118
-translate russian anna_gift_collar_male_24aebf32:
+translate russian anna_gift_collar_male_fd886d4a:
     anna.say "Но всё это время ты хотел, чтобы я стала твоей... кем... твоей собакой?!"
 
 # ch/anna/gift.rpy:119
@@ -16589,7 +16561,7 @@ translate russian anna_gift_collar_male_14736e66:
     "Но я все еще чувствую себя очень плохо, и она уходит, прежде чем я успеваю даже встать прямо."
 
 # ch/anna/gift.rpy:126
-translate russian anna_gift_collar_male_abf582c0:
+translate russian anna_gift_collar_male_d0d27dc9:
     anna.say "Хорошо...это совсем не странно и жутко!"
 
 # ch/anna/gift.rpy:127
@@ -16665,7 +16637,7 @@ translate russian anna_gift_collar_male_1194da91:
     "Я так приготовился к полному провалу, что её ответ застаёт меня врасплох."
 
 # ch/anna/gift.rpy:148
-translate russian anna_gift_collar_male_8383fcec:
+translate russian anna_gift_collar_male_171d6c56:
     mike.say "Это...это правда?!"
 
 # ch/anna/gift.rpy:149
@@ -16685,7 +16657,7 @@ translate russian anna_gift_collar_male_5d4a936d:
     anna.say "Но как кто-то сможет это не заметить!"
 
 # ch/anna/gift.rpy:153
-translate russian anna_gift_collar_male_0fcd0b09:
+translate russian anna_gift_collar_male_37645dfa:
     anna.say "Надень это на меня... быстро!"
 
 # ch/anna/gift.rpy:155
@@ -16701,7 +16673,7 @@ translate russian anna_gift_collar_male_2b730d16:
     "Она поднимает руки вверх, ее огромные глаза смотрят на меня, и она, кажется, обиженно поджимает губы."
 
 # ch/anna/gift.rpy:160
-translate russian anna_gift_collar_male_c91dbf68:
+translate russian anna_gift_collar_male_defd03aa:
     anna.say "Ну что, как я выгляжу... Хозяин?"
 
 # ch/anna/gift.rpy:161
@@ -16709,7 +16681,7 @@ translate russian anna_gift_collar_male_522a89d2:
     "Я могу только сглотнуть, внезапно чувствуя себя очень уязвимым и застенчивым."
 
 # ch/anna/gift.rpy:162
-translate russian anna_gift_collar_male_fc40a0a4:
+translate russian anna_gift_collar_male_519cc964:
     mike.say "Эм... может быть, нам стоит... пойти куда-нибудь еще, Анна?"
 
 # ch/anna/gift.rpy:163
@@ -16901,7 +16873,7 @@ translate russian anna_gift_slutty_dress_male_6757cf6b:
     mike.say "Ну..."
 
 # ch/anna/gift.rpy:252
-translate russian anna_gift_slutty_dress_male_35b1a71f:
+translate russian anna_gift_slutty_dress_male_2e5e3988:
     mike.say "Я думаю, тебе это... нравится?"
 
 # ch/anna/gift.rpy:253
@@ -17097,7 +17069,7 @@ translate russian anna_study_with_intro_male_c76c2ca5:
     "А потом она просто высыпает свои книги прямо передо мной."
 
 # ch/anna/reactions.rpy:18
-translate russian anna_study_with_intro_male_871f2bce:
+translate russian anna_study_with_intro_male_64abeb9f:
     mike.say "Что... что за чертовщина?!"
 
 # ch/anna/reactions.rpy:19
@@ -17141,7 +17113,7 @@ translate russian anna_study_with_intro_male_c96256e5:
     "А человеческое тело у меня всю жизнь — значит, я должен быть экспертом!"
 
 # ch/anna/reactions.rpy:29
-translate russian anna_study_with_intro_male_0dfce6fe:
+translate russian anna_study_with_intro_male_20e04c9e:
     mike.say "О... да!"
 
 # ch/anna/reactions.rpy:30
@@ -17149,7 +17121,7 @@ translate russian anna_study_with_intro_male_3fe05594:
     mike.say "Прости, Анна!"
 
 # ch/anna/reactions.rpy:31
-translate russian anna_study_with_intro_male_85045d65:
+translate russian anna_study_with_intro_male_956fd483:
     mike.say "Конечно, конечно... давайте приступим."
 
 # ch/anna/reactions.rpy:32
@@ -17289,7 +17261,7 @@ translate russian anna_study_with_success_male_ff1449d0:
     anna.say "Ну, пожалуй, это все, что можно сказать!"
 
 # ch/anna/reactions.rpy:69
-translate russian anna_study_with_success_male_7346c93f:
+translate russian anna_study_with_success_male_8a72cac7:
     anna.say "Вау... Думаю, теперь я могла бы читать лекции на эту тему!"
 
 # ch/anna/reactions.rpy:70
@@ -17353,7 +17325,7 @@ translate russian anna_study_with_failure_male_af3d5c0a:
     anna.say "Это было мило с твоей стороны предложить помощь."
 
 # ch/anna/reactions.rpy:88
-translate russian anna_study_with_failure_male_be0d6ac5:
+translate russian anna_study_with_failure_male_847597a5:
     anna.say "Но...ну...ты просто слишком глуп, чтобы быть полезным!"
 
 # ch/anna/reactions.rpy:89
@@ -17385,7 +17357,7 @@ translate russian anna_study_with_failure_male_84bcd2c2:
     anna.say "Может быть, ты мог бы помочь мне еще с чем-нибудь?"
 
 # ch/anna/reactions.rpy:96
-translate russian anna_study_with_failure_male_2fe0210b:
+translate russian anna_study_with_failure_male_3c6dc650:
     anna.say "Например... может быть, если есть что-то про поднятие тяжелых предметов или подобное?"
 
 # ch/anna/reactions.rpy:97
@@ -17409,7 +17381,7 @@ translate russian anna_ask_phone_male_2ed0d7ac:
     mike.say "Может, обменяемся номерами?"
 
 # ch/anna/reactions.rpy:108
-translate russian anna_ask_phone_male_d85865a3:
+translate russian anna_ask_phone_male_70e8b2a0:
     anna.say "О... конечно, [lssb_anna.hero_name()]!"
 
 # ch/anna/reactions.rpy:109
@@ -17421,7 +17393,7 @@ translate russian anna_ask_phone_male_ee8cf442:
     anna.say "Но ты лучше позови меня скоро."
 
 # ch/anna/reactions.rpy:115
-translate russian anna_ask_phone_male_7797438f:
+translate russian anna_ask_phone_male_76546d9c:
     anna.say "О... я не знаю, [lssb_anna.hero_name()]."
 
 # ch/anna/reactions.rpy:116
@@ -17661,7 +17633,7 @@ translate russian anna_breakup_male_01330a6f:
     "Мне нужно сейчас же объяснить свою позицию, пока Анна не начала паниковать!"
 
 # ch/anna/reactions.rpy:222
-translate russian anna_breakup_male_5e22cdf9:
+translate russian anna_breakup_male_bc3fbba9:
     mike.say "Я... думаю, нам нужно все прекратить, Анна."
 
 # ch/anna/reactions.rpy:223
@@ -17893,11 +17865,11 @@ translate russian anna_massage_refuse_male_5e264d29:
     anna.say "Мне просто нужно, чтобы меня оставили в покое, хорошо?"
 
 # ch/anna/reactions.rpy:316
-translate russian anna_piercing_nipples_reaction_male_9e7c1ced:
+translate russian anna_piercing_nipples_reaction_male_c29caddb:
     anna.say "Ох...мне это нравится, [lssb_anna.hero_name()]!"
 
 # ch/anna/reactions.rpy:317
-translate russian anna_piercing_nipples_reaction_male_5a514de2:
+translate russian anna_piercing_nipples_reaction_male_ab80146a:
     anna.say "Это выглядит так мило...и чувствуется очень сексуально!"
 
 # ch/anna/reactions.rpy:318
@@ -17909,7 +17881,7 @@ translate russian anna_piercing_navel_reaction_male_b0a4b7cd:
     anna.say "Я В НЁМ ОЧЕНЬ ДОВОЛЬНА, [lssb_anna.hero_name()]!"
 
 # ch/anna/reactions.rpy:323
-translate russian anna_piercing_navel_reaction_male_ac397974:
+translate russian anna_piercing_navel_reaction_male_9d30f601:
     anna.say "Но...я...я не могу этого видеть своими грудью!"
 
 # ch/anna/reactions.rpy:324
@@ -17917,7 +17889,7 @@ translate russian anna_piercing_navel_reaction_male_b41de9f0:
     anna.say "Хотя, он выглядит мило, правда?"
 
 # ch/anna/reactions.rpy:328
-translate russian anna_piercing_clit_reaction_male_ed371b16:
+translate russian anna_piercing_clit_reaction_male_1cbfa591:
     anna.say "Ого...мне так нравится, как это ощущается!"
 
 # ch/anna/reactions.rpy:329
@@ -17929,7 +17901,7 @@ translate russian anna_piercing_clit_reaction_male_b4acc58f:
     anna.say "Он заставляет меня чувствовать себя очень горячо!"
 
 # ch/anna/reactions.rpy:334
-translate russian anna_piercing_head_reaction_male_49fb65df:
+translate russian anna_piercing_head_reaction_male_c51c5b32:
     anna.say "Ох...я сейчас немного смущена."
 
 # ch/anna/reactions.rpy:335
@@ -17937,7 +17909,7 @@ translate russian anna_piercing_head_reaction_male_e3f61d8a:
     anna.say "Но это ведь нормально сразу после прокола, да?"
 
 # ch/anna/reactions.rpy:336
-translate russian anna_piercing_head_reaction_male_60c61ca5:
+translate russian anna_piercing_head_reaction_male_0a97432b:
     anna.say "Ладно...мне просто нравится эта штука!"
 
 # ch/anna/reactions.rpy:340
@@ -17953,15 +17925,15 @@ translate russian anna_piercing_nose_reaction_male_04667f1d:
     anna.say "Спасибо, что уговорил меня его сделать."
 
 # ch/anna/reactions.rpy:346
-translate russian anna_movie_disliked_reaction_male_5d9251a2:
+translate russian anna_movie_disliked_reaction_male_6401b6b1:
     anna.say "Фу... этот фильм — полная дрянь, терпеть его не могу!"
 
 # ch/anna/reactions.rpy:350
-translate russian anna_movie_indifferent_reaction_male_1146992b:
+translate russian anna_movie_indifferent_reaction_male_ed92a32c:
     anna.say "Да ну...мне было так скучно, что я чуть не уснула там!"
 
 # ch/anna/reactions.rpy:354
-translate russian anna_movie_liked_reaction_male_7697c64c:
+translate russian anna_movie_liked_reaction_male_2b41bbfd:
     anna.say "Ого, фильм был ТАКОЙ классный... мы ОБЯЗАТЕЛЬНО должны посмотреть его ещё раз!"
 
 # ch/anna/reactions.rpy:359
@@ -18353,7 +18325,7 @@ translate russian anna_talk_sex_male_a4191761:
     "Анна улыбается и поднимает брови."
 
 # ch/anna/talk.rpy:40
-translate russian anna_talk_sex_male_9e0e0da2:
+translate russian anna_talk_sex_male_0ffc63ff:
     anna.say "О да, мои последние серьёзные отношения были с девушкой... мне нравятся и парни, и девушки!"
 
 # ch/anna/talk.rpy:43
@@ -18377,7 +18349,7 @@ translate russian anna_talk_sex_male_45f70281:
     "Анна оглядывается по сторонам, чтобы убедиться, что никто не подслушивает."
 
 # ch/anna/talk.rpy:52
-translate russian anna_talk_sex_male_7ca453f4:
+translate russian anna_talk_sex_male_c207b413:
     anna.say "Не рассказывай никому... но мне это как-то больше нравится в заднице."
 
 # ch/anna/talk.rpy:58
@@ -18449,7 +18421,7 @@ translate russian anna_talk_tv_male_09d7404c:
     mike.say "Аня..."
 
 # ch/anna/talk.rpy:102
-translate russian anna_talk_tv_male_90ebde24:
+translate russian anna_talk_tv_male_7bd33192:
     anna.say "Хм... да, [lssb_anna.hero_name()]?"
 
 # ch/anna/talk.rpy:103
@@ -18477,7 +18449,7 @@ translate russian anna_talk_tv_male_82d2c205:
     anna.say "Ой, [lssb_anna.hero_name()], я уже дважды сказала \"да\"!"
 
 # ch/anna/talk.rpy:110
-translate russian anna_talk_tv_male_652afbed:
+translate russian anna_talk_tv_male_7e931c5e:
     mike.say "О... хорошо... значит, это свидание?"
 
 # ch/anna/talk.rpy:114
@@ -18609,7 +18581,7 @@ translate russian anna_talk_music_male_ed06a5da:
     mike.say "Конечно, One and a half direction, кто же ещё!"
 
 # ch/anna/talk.rpy:203
-translate russian anna_talk_music_male_65fad958:
+translate russian anna_talk_music_male_c76a27b3:
     anna.say "Брр... извини, что спросила!"
 
 # ch/anna/talk.rpy:206
@@ -18645,7 +18617,7 @@ translate russian anna_talk_music_male_a2c64836:
     mike.say "Metallikea, с ними никто и рядом не стоял."
 
 # ch/anna/talk.rpy:222
-translate russian anna_talk_music_male_0604f971:
+translate russian anna_talk_music_male_ecd2c57b:
     anna.say "Лучшая...метал-группа...всех времен!"
 
 # ch/anna/talk.rpy:223
@@ -18689,7 +18661,7 @@ translate russian anna_talk_kleio_4e26fc3f:
     "Ирония в том, что, скорее всего, эту проблему так и не решат именно по той причине, из-за которой Клео начала с ней спорить."
 
 # ch/anna/talk.rpy:267
-translate russian anna_talk_kleio_ab2c3843:
+translate russian anna_talk_kleio_f0644acf:
     anna.say "Эм... привет, [lssb_anna.hero_name()]."
 
 # ch/anna/talk.rpy:268
@@ -18993,7 +18965,7 @@ translate russian anna_talk_kleio_37f90eae:
     mike.say "Анна, я люблю тебя так же сильно, как и Клео."
 
 # ch/anna/talk.rpy:359
-translate russian anna_talk_kleio_4afa57b9:
+translate russian anna_talk_kleio_672d2acc:
     anna.say "П...правда?"
 
 # ch/anna/talk.rpy:360
@@ -19081,7 +19053,7 @@ translate russian submissive_interact_anna_male_41cfe40b:
     anna.say "Это немного отвратительно."
 
 # ch/anna/talk.rpy:414
-translate russian submissive_interact_anna_male_983cd4aa:
+translate russian submissive_interact_anna_male_ea3d811f:
     mike.say "А, да... Наверное, ты права, Анна."
 
 # ch/anna/talk.rpy:415
@@ -19125,7 +19097,7 @@ translate russian anna_friendly_texts_532b14d4:
     anna_nvl "Я очень скучаю по тебе!"
 
 # ch/anna/texts.rpy:26
-translate russian anna_flirty_texts_87e05d75:
+translate russian anna_flirty_texts_d98412e1:
     anna_nvl "Ох...мне так скучно сейчас!"
 
 # ch/anna/texts.rpy:27
@@ -19137,7 +19109,7 @@ translate russian anna_flirty_texts_35383893:
     anna_nvl "Можешь придумать что-нибудь, чтобы мне было весело?"
 
 # ch/anna/texts.rpy:30
-translate russian anna_flirty_texts_b7954861:
+translate russian anna_flirty_texts_8bacd7ff:
     anna_nvl "О-о... лифчик такой тесный... всё сдавливает!"
 
 # ch/anna/texts.rpy:31
@@ -19161,7 +19133,7 @@ translate russian anna_flirty_texts_76bc99cb:
     anna_nvl "Хочу быть твоей гитарой, чтобы ты играла на мне!"
 
 # ch/anna/texts.rpy:45
-translate russian anna_dirty_texts_c50edb02:
+translate russian anna_dirty_texts_80391c27:
     anna_nvl "Ох... У меня чешется задница!"
 
 # ch/anna/texts.rpy:46
@@ -19173,7 +19145,7 @@ translate russian anna_dirty_texts_b1abd289:
     anna_nvl "Жесткий член там точно попадет в цель!"
 
 # ch/anna/texts.rpy:49
-translate russian anna_dirty_texts_3b7a6c69:
+translate russian anna_dirty_texts_aade01e8:
     anna_nvl "Хм... Интересно, что хорошо смотрелось бы на моей груди?"
 
 # ch/anna/texts.rpy:50
@@ -19221,7 +19193,7 @@ translate russian anna_friendly_texts_male_fd09b03d_1:
     anna_nvl "Оставь меня в покое, я спала..."
 
 # ch/anna/texts.rpy:83
-translate russian anna_friendly_texts_male_75b56122:
+translate russian anna_friendly_texts_male_a72729e6:
     anna_nvl "Ух... сейчас не могу."
 
 # ch/anna/texts.rpy:84
@@ -19293,7 +19265,7 @@ translate russian anna_flirty_texts_male_f07f6aa1:
     anna_nvl "Ты знаешь, у меня есть и другие части тела?!"
 
 # ch/anna/texts.rpy:146
-translate russian anna_flirty_texts_male_507e9246:
+translate russian anna_flirty_texts_male_313a59c9:
     anna_nvl "Хи-хи... Я сохраню это до тех пор, пока ты снова не увидишь!"
 
 # ch/anna/texts.rpy:149
@@ -19317,7 +19289,7 @@ translate russian anna_flirty_texts_male_c5083c49:
     anna_nvl "О нет, в слэме меня всегда сдавливают со всех сторон!"
 
 # ch/anna/texts.rpy:167
-translate russian anna_flirty_texts_male_dede649a:
+translate russian anna_flirty_texts_male_959150e7:
     anna_nvl "Ооо... Я хочу с тобой попотеть и нагреться!"
 
 # ch/anna/texts.rpy:170
@@ -19341,7 +19313,7 @@ translate russian anna_dirty_texts_male_25f870fa:
     mchero_nvl "И как бы хорошо было воткнуть свой член в нее!"
 
 # ch/anna/texts.rpy:193
-translate russian anna_dirty_texts_male_44e740c4:
+translate russian anna_dirty_texts_male_c66436e0:
     anna_nvl "Фу... Что это с тобой и моей задницей?!"
 
 # ch/anna/texts.rpy:196
@@ -19373,11 +19345,11 @@ translate russian anna_dirty_texts_male_bb784ed5:
     anna_nvl "Тогда прими холодный душ!"
 
 # ch/anna/texts.rpy:220
-translate russian anna_dirty_texts_male_664041f7:
+translate russian anna_dirty_texts_male_3ff0ce80:
     anna_nvl "Прекрати... ты делаешь мою влагалище влажной!"
 
 # ch/anna/texts.rpy:221
-translate russian anna_dirty_texts_male_b454825e:
+translate russian anna_dirty_texts_male_aa3dd112:
     anna_nvl "Ммм... мне, наверное, придется начать трогать себя!"
 
 # ch/anna/texts.rpy:224
@@ -19401,7 +19373,7 @@ translate russian anna_dirty_texts_male_ca360ff4:
     anna_nvl "Эй, я не для того себя ласкаю, чтобы ты кончил!"
 
 # ch/anna/texts.rpy:244
-translate russian anna_dirty_texts_male_dafe27f5:
+translate russian anna_dirty_texts_male_240efc01:
     anna_nvl "Ох... они такие мягкие, и такие приятные на ощупь!"
 
 # ch/anna/texts.rpy:245

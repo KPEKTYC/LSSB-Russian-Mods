@@ -437,7 +437,7 @@ translate russian ayesha_hanna_showdown_dc0b3c7d:
     ayesha.say "Наверное, могу это понять, [lssb_common.hero_name()]."
 
 # ch/harems_full/sporty/events.rpy:212
-translate russian ayesha_hanna_showdown_5ec3db77:
+translate russian ayesha_hanna_showdown_74896f9b:
     ayesha.say "То есть... в спортзале и правда бывает довольно возбуждающая атмосфера."
 
 # ch/harems_full/sporty/events.rpy:213
@@ -821,11 +821,11 @@ translate russian sporty_harem_event_01_9a6c7f7b:
     mike.say "А, ничего, Ханна. Совсем ничего!"
 
 # ch/harems_full/sporty/events.rpy:342
-translate russian sporty_harem_event_01_0e66ad5e:
+translate russian sporty_harem_event_01_7172a063:
     mike.say "Я... я просто..."
 
 # ch/harems_full/sporty/events.rpy:343
-translate russian sporty_harem_event_01_cdc2a98a:
+translate russian sporty_harem_event_01_2371734d:
     mike.say "Разглядывал обувь в витрине... вон там."
 
 # ch/harems_full/sporty/events.rpy:344
@@ -881,7 +881,7 @@ translate russian sporty_harem_event_01_0afd687b:
     hanna.say "Погоди, ты сейчас на неё пялился?"
 
 # ch/harems_full/sporty/events.rpy:359
-translate russian sporty_harem_event_01_7e5d2776:
+translate russian sporty_harem_event_01_71e3027f:
     mike.say "Эм... не уверен, Ханна..."
 
 # ch/harems_full/sporty/events.rpy:360
@@ -921,7 +921,7 @@ translate russian sporty_harem_event_01_7b4af884:
     "Кладёт ладонь ей на плечо — для этого, замечаю я, приходится тянуться вверх — и разворачивает её."
 
 # ch/harems_full/sporty/events.rpy:372
-translate russian sporty_harem_event_01_fc0c016c:
+translate russian sporty_harem_event_01_070cdf4e:
     ayesha.say "Эй... какого чёрта?!"
 
 # ch/harems_full/sporty/events.rpy:373
@@ -1025,7 +1025,7 @@ translate russian sporty_harem_event_01_a126f441:
     hanna.say "Но даже она не может скрыть столько тестостерона!"
 
 # ch/harems_full/sporty/events.rpy:402
-translate russian sporty_harem_event_01_ca26f695:
+translate russian sporty_harem_event_01_5951ae60:
     ayesha.say "Ах ты... тощая маленькая сучка!"
 
 # ch/harems_full/sporty/events.rpy:403
@@ -1077,7 +1077,7 @@ translate russian sporty_harem_event_01_c88c8448:
     hanna.say "Всё, решить это можно только одним способом!"
 
 # ch/harems_full/sporty/events.rpy:416
-translate russian sporty_harem_event_01_ad618fb5:
+translate russian sporty_harem_event_01_d88dab90:
     mike.say "Эм... можно?"
 
 # ch/harems_full/sporty/events.rpy:417
@@ -1089,7 +1089,7 @@ translate russian sporty_harem_event_01_530bed64:
     ayesha.say "Вызов принят!"
 
 # ch/harems_full/sporty/events.rpy:419
-translate russian sporty_harem_event_01_b4b3b950:
+translate russian sporty_harem_event_01_1134d25b:
     mike.say "А... погоди... что?!"
 
 # ch/harems_full/sporty/events.rpy:420
@@ -1241,7 +1241,7 @@ translate russian sporty_harem_swimsuit_contest_970f2a09:
     "Но ещё сильнее хочется увидеть, как они будут красоваться в новых нарядах!"
 
 # ch/harems_full/sporty/events.rpy:473
-translate russian sporty_harem_swimsuit_contest_ade084c7:
+translate russian sporty_harem_swimsuit_contest_bdfb2a2d:
     hanna.say "Уф... серьёзно?"
 
 # ch/harems_full/sporty/events.rpy:474
@@ -1257,7 +1257,7 @@ translate russian sporty_harem_swimsuit_contest_6cc6f4af:
     ayesha.say "Я на тебя НЕ смотрю!"
 
 # ch/harems_full/sporty/events.rpy:477
-translate russian sporty_harem_swimsuit_contest_71af8d15:
+translate russian sporty_harem_swimsuit_contest_b3c91108:
     ayesha.say "Просто... проверяю, чтобы ты не жульничала, вот и всё."
 
 # ch/harems_full/sporty/events.rpy:478
@@ -1277,7 +1277,7 @@ translate russian sporty_harem_swimsuit_contest_4b8024dc:
     hanna.say "Эй, [lssb_common.hero_name()], ты чего?"
 
 # ch/harems_full/sporty/events.rpy:482
-translate russian sporty_harem_swimsuit_contest_b20ec834:
+translate russian sporty_harem_swimsuit_contest_24bb03ea:
     ayesha.say "Он... он над нами смеётся?!"
 
 # ch/harems_full/sporty/events.rpy:483
@@ -1309,7 +1309,7 @@ translate russian sporty_harem_swimsuit_contest_f765134e:
     ayesha.say "Что такое, [lssb_common.hero_name()]?"
 
 # ch/harems_full/sporty/events.rpy:494
-translate russian sporty_harem_swimsuit_contest_9d4494fe:
+translate russian sporty_harem_swimsuit_contest_fe3833a3:
     hanna.say "Ч-что-то не так?"
 
 # ch/harems_full/sporty/events.rpy:495
@@ -1345,7 +1345,7 @@ translate russian sporty_harem_swimsuit_contest_f1ead8c6:
     hanna.say "Я ведь просто наугад взяла с вешалки..."
 
 # ch/harems_full/sporty/events.rpy:505
-translate russian sporty_harem_swimsuit_contest_a48977a0:
+translate russian sporty_harem_swimsuit_contest_07c0a77e:
     ayesha.say "Ты... ты правда так думаешь, [lssb_common.hero_name()]?"
 
 # ch/harems_full/sporty/events.rpy:506
@@ -1381,11 +1381,11 @@ translate russian sporty_harem_swimsuit_contest_fb6a1052:
     "Судя по её лицу, саму Айшу — не меньше остальных!"
 
 # ch/harems_full/sporty/events.rpy:514
-translate russian sporty_harem_swimsuit_contest_878530b8:
+translate russian sporty_harem_swimsuit_contest_22f0593a:
     ayesha.say "Тебе... тебе и не нужно. Выбирать, то есть..."
 
 # ch/harems_full/sporty/events.rpy:515
-translate russian sporty_harem_swimsuit_contest_92effd8a:
+translate russian sporty_harem_swimsuit_contest_4cc24f31:
     ayesha.say "Может, ты мог бы... быть с нами... обеими?"
 
 # ch/harems_full/sporty/events.rpy:517
@@ -1889,7 +1889,7 @@ translate russian sporty_harem_event_02_c975409b:
     "Но сейчас на ней спортивный наряд, который с трудом сошёл бы даже за бикини!"
 
 # ch/harems_full/sporty/events.rpy:704
-translate russian sporty_harem_event_02_c7285bbe:
+translate russian sporty_harem_event_02_cbd00ef4:
     mike.say "Д-да, Ханна..."
 
 # ch/harems_full/sporty/events.rpy:705
@@ -2469,7 +2469,7 @@ translate russian ayesha_hanna_propose_male_f27b752b:
     "Но и из-за того, что я чувствую каждый раз, когда мы вместе."
 
 # ch/harems_full/sporty/events.rpy:905
-translate russian ayesha_hanna_propose_male_8a8d75d5:
+translate russian ayesha_hanna_propose_male_834e1628:
     "Просто всё кажется... правильным. Вот и всё."
 
 # ch/harems_full/sporty/events.rpy:906
@@ -2861,7 +2861,7 @@ translate russian ayesha_hanna_male_ending_cc184dcf:
     "Мне казалось, что я их подведу, если тоже не буду в отличной форме."
 
 # ch/harems_full/sporty/events.rpy:1064
-translate russian ayesha_hanna_male_ending_e40b93bc:
+translate russian ayesha_hanna_male_ending_33d73474:
     "И... может, мне для разнообразия тоже хочется поймать несколько восхищённых взглядов!"
 
 # ch/harems_full/sporty/events.rpy:1065
@@ -3225,7 +3225,7 @@ translate russian ayesha_hanna_male_ending_f6916b1b:
     ayesha.say "Такие, как [lssb_common.hero_name()]?"
 
 # ch/harems_full/sporty/events.rpy:1184
-translate russian ayesha_hanna_male_ending_1dfce5c6:
+translate russian ayesha_hanna_male_ending_6864575b:
     hanna.say "Ну... да, Айша."
 
 # ch/harems_full/sporty/events.rpy:1185

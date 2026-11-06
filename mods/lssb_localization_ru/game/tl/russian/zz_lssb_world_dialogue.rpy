@@ -45,7 +45,7 @@ translate russian meeting_aletta_01_male_1ea31c6b:
     "Я несколько секунд прищурившись смотрю на другого мужчину, пытаясь вспомнить, кто он."
 
 # bg/ceo/ceo.rpy:171
-translate russian meeting_aletta_01_male_cedb10d6:
+translate russian meeting_aletta_01_male_7db481e4:
     "Артур... Артур Макраклур, вот как его зовут. Ещё один местный важный костюм, которому нравится слушать собственный голос."
 
 # bg/ceo/ceo.rpy:172
@@ -405,7 +405,7 @@ translate russian meeting_aletta_02_male_95ebe1cb:
     "Алетта поворачивается к Артуру, уперев сжатые кулаки в бока."
 
 # bg/ceo/ceo.rpy:341
-translate russian meeting_aletta_02_male_da69067d:
+translate russian meeting_aletta_02_male_84f194f7:
     aletta.say "Артур, это самый крупный клиент, которого мы заполучили за... за всё время!"
 
 # bg/ceo/ceo.rpy:343
@@ -1697,7 +1697,7 @@ translate russian meeting_aletta_cassidy_01_male_cd369f0d:
     cassidy.say "Его зовут Белл, он здоровенный и пахнет кофе..."
 
 # bg/ceo/ceo.rpy:1047
-translate russian meeting_aletta_cassidy_01_male_39fbb447:
+translate russian meeting_aletta_cassidy_01_male_1842cfd3:
     cassidy.say "И он сказал мне... МНЕ... что я не могу находиться здесь без пропуска!"
 
 # bg/ceo/ceo.rpy:1048
@@ -1729,7 +1729,7 @@ translate russian meeting_aletta_cassidy_01_male_041435cd:
     aletta.say "Во всей стране лишь трое умеют управлять этим производством. И один из них уже работает здесь."
 
 # bg/ceo/ceo.rpy:1063
-translate russian meeting_aletta_cassidy_01_male_3c58d3a8:
+translate russian meeting_aletta_cassidy_01_male_d2050a71:
     aletta.say "То есть... Проблема с системой есть. Но надо исправить её, а не увольнять Белла."
 
 # bg/ceo/ceo.rpy:1066
@@ -1805,7 +1805,7 @@ translate russian meeting_aletta_cassidy_01_male_8955b534:
     "Кэссиди, разумеется, принимает это куда хуже."
 
 # bg/ceo/ceo.rpy:1109
-translate russian meeting_aletta_cassidy_01_male_f2d96bef:
+translate russian meeting_aletta_cassidy_01_male_12e32f8b:
     cassidy.say "Невероятно... Просто невероятно!"
 
 # bg/ceo/ceo.rpy:1111
@@ -1825,7 +1825,7 @@ translate russian meeting_aletta_cassidy_01_male_6ddca5ef:
     cassidy.say "Ладно. Но тогда я хочу собственный пропуск..."
 
 # bg/ceo/ceo.rpy:1118
-translate russian meeting_aletta_cassidy_01_male_4f98b8af:
+translate russian meeting_aletta_cassidy_01_male_a5e7bb7b:
     cassidy.say "Красивый. И с удачной фотографией!"
 
 # bg/ceo/ceo.rpy:1120
@@ -1905,7 +1905,7 @@ translate russian result_meeting_aletta_cassidy_01_male_e443b1da:
     "Кэссиди закатывает глаза и качает головой."
 
 # bg/ceo/ceo.rpy:1172
-translate russian result_meeting_aletta_cassidy_01_male_a3f12f15:
+translate russian result_meeting_aletta_cassidy_01_male_9c1747e4:
     cassidy.say "Бла-бла-бла... Так наймите уже кого-нибудь другого."
 
 # bg/ceo/ceo.rpy:1175
@@ -1913,7 +1913,7 @@ translate russian result_meeting_aletta_cassidy_01_male_2c3b147e:
     aletta.say "В стране осталось двое подходящих людей, а третий теперь работает на «Веррин»."
 
 # bg/ceo/ceo.rpy:1177
-translate russian result_meeting_aletta_cassidy_01_male_4aa0419f:
+translate russian result_meeting_aletta_cassidy_01_male_716d71ad:
     cassidy.say "Ой... Упс..."
 
 # bg/ceo/ceo.rpy:1179
@@ -2049,7 +2049,7 @@ translate russian meeting_aletta_cassidy_02_male_3f1fba9f:
     mike.say "Сотрудницы уже придумали прозвище для его повадок, Алетта. С ним покончено!"
 
 # bg/ceo/ceo.rpy:1254
-translate russian meeting_aletta_cassidy_02_male_595c7f8d:
+translate russian meeting_aletta_cassidy_02_male_a3418e4b:
     aletta.say "Да... Да, ты прав."
 
 # bg/ceo/ceo.rpy:1255
@@ -2163,10 +2163,6 @@ translate russian meeting_aletta_cherie_01_male_2d93fc67:
 # bg/ceo/ceo.rpy:1334
 translate russian meeting_aletta_cherie_01_male_4f2793da:
     cherie.say "Они наши кредиторы. За девять лет ни разу не просили о встрече."
-
-# bg/ceo/ceo.rpy:1335
-translate russian meeting_aletta_cherie_01_male_07d71cb5:
-    cherie.say "Я знаю его ещё с тех пор, когда он не был тем самым Джулианом Хэвлоком. Поэтому приглашу его на ужин."
 
 # bg/ceo/ceo.rpy:1336
 translate russian meeting_aletta_cherie_01_male_62875de2:
@@ -2397,7 +2393,7 @@ translate russian meeting_aletta_cherie_02_male_59665ae5:
     "Алетта явно раздражена, когда начинает рассказывать."
 
 # bg/ceo/ceo.rpy:1473
-translate russian meeting_aletta_cherie_02_male_ab669a9b:
+translate russian meeting_aletta_cherie_02_male_320e6cbc:
     aletta.say "Джеральд Пот. Шестнадцать лет в закупках, потом Дуэйн выдавил его за восемь месяцев до... ну, ты знаешь, до чего."
 
 # bg/ceo/ceo.rpy:1474
@@ -2493,7 +2489,7 @@ translate russian meeting_aletta_cherie_02_male_2a6d96ab:
     cherie.say "Алетта, тебе тоже стоит прийти на встречу. Джеральду важно увидеть, что кто-то из руководства им интересуется."
 
 # bg/ceo/ceo.rpy:1523
-translate russian meeting_aletta_cherie_02_male_466b9dbf:
+translate russian meeting_aletta_cherie_02_male_6b7ad162:
     aletta.say "Если считаешь, что это поможет... Ладно, приду."
 
 # bg/ceo/ceo.rpy:1525
@@ -2561,7 +2557,7 @@ translate russian result_meeting_aletta_cherie_02_male_81ab666a:
     aletta.say "Он согласился, что рассказывать прессе нечего. Не потому, что мы надавили, а потому, что кто-то наконец сел и выслушал его."
 
 # bg/ceo/ceo.rpy:1571
-translate russian result_meeting_aletta_cherie_02_male_ef6594cb:
+translate russian result_meeting_aletta_cherie_02_male_57795e1c:
     mike.say "Так... чего он хочет?"
 
 # bg/ceo/ceo.rpy:1573
@@ -2597,7 +2593,7 @@ translate russian result_meeting_aletta_cherie_02_male_b57b122b:
     aletta.say "А о компании, которая через суд пыталась заткнуть рот шестидесятитрёхлетнему старику!"
 
 # bg/ceo/ceo.rpy:1588
-translate russian result_meeting_aletta_cherie_02_male_c8c06cae:
+translate russian result_meeting_aletta_cherie_02_male_363ff820:
     aletta.say "Три из четырёх его утверждений — правда. Четвёртое... в общем-то, тоже."
 
 # bg/ceo/ceo.rpy:1591
@@ -2697,7 +2693,7 @@ translate russian meeting_cassidy_cherie_01_male_532f8c8b:
     mike.say "Кэссиди, ты можешь войти в совет фонда."
 
 # bg/ceo/ceo.rpy:1651
-translate russian meeting_cassidy_cherie_01_male_7c9d0c3f:
+translate russian meeting_cassidy_cherie_01_male_ed92a689:
     cassidy.say "Я... могу?"
 
 # bg/ceo/ceo.rpy:1653
@@ -2885,7 +2881,7 @@ translate russian meeting_cassidy_cherie_02_male_f85f5946:
     cassidy.say "Шери, мне двадцать три. Я и есть тот самый клиент, о котором вы тут все гадаете."
 
 # bg/ceo/ceo.rpy:1767
-translate russian meeting_cassidy_cherie_02_male_db95ea10:
+translate russian meeting_cassidy_cherie_02_male_43825200:
     cassidy.say "И я ни за что не стану пользоваться этим брендом. Не потому, что он плохой... а потому, что его никто не замечает!"
 
 # bg/ceo/ceo.rpy:1768
@@ -2981,7 +2977,7 @@ translate russian meeting_cassidy_cherie_02_male_4978c89f:
     cassidy.say "Не надо меня {i}принимать к сведению{/i}! Папочка тоже так делал!"
 
 # bg/ceo/ceo.rpy:1816
-translate russian meeting_cassidy_cherie_02_male_376c0b82:
+translate russian meeting_cassidy_cherie_02_male_38abb6fd:
     "Она... она сравнивает меня с Дуэйном?!"
 
 # bg/ceo/ceo.rpy:1818
@@ -3017,7 +3013,7 @@ translate russian result_meeting_cassidy_cherie_02_male_61862dd4:
     "Но Шери недовольно качает головой."
 
 # bg/ceo/ceo.rpy:1846
-translate russian result_meeting_cassidy_cherie_02_male_b1f5235d:
+translate russian result_meeting_cassidy_cherie_02_male_7dea83c1:
     cherie.say "Это вульгарно... до чего же вульгарно."
 
 # bg/ceo/ceo.rpy:1848
@@ -3265,7 +3261,7 @@ translate russian result_meeting_cherie_01_male_aafe74c6:
     "Артур" "Уволен без выплат. Он оспорит это решение и проиграет."
 
 # bg/ceo/ceo.rpy:1986
-translate russian result_meeting_cherie_01_male_bcd74144:
+translate russian result_meeting_cherie_01_male_0b60c642:
     cherie.say "Трое... А первая молчала одиннадцать месяцев, прежде чем решилась рассказать."
 
 # bg/ceo/ceo.rpy:1988
@@ -3273,7 +3269,7 @@ translate russian result_meeting_cherie_01_male_78f4a866:
     "На выходных Артур по собственной инициативе полностью переписывает порядок рассмотрения жалоб и больше об этом не упоминает."
 
 # bg/ceo/ceo.rpy:1990
-translate russian result_meeting_cherie_01_male_c33ec6ec:
+translate russian result_meeting_cherie_01_male_6d0c1c21:
     "Пару дней всё тихо, а потом становится... шумно."
 
 # bg/ceo/ceo.rpy:1992
@@ -3377,7 +3373,7 @@ translate russian meeting_cherie_02_male_dea8cd2d:
     "Артур" "Ради именно этой анкеты я готов оскорбить кого угодно. В деловых вопросах у меня все равны!"
 
 # bg/ceo/ceo.rpy:2050
-translate russian meeting_cherie_02_male_f90524ed:
+translate russian meeting_cherie_02_male_5e959bdf:
     "Я смотрю на уверенную в себе Шери, а потом на Артура, который... ну, который просто Артур."
 
 # bg/ceo/ceo.rpy:2053
@@ -3417,7 +3413,7 @@ translate russian meeting_cherie_02_male_d20b7d6d:
     "Артур" "Поверьте, я буду держать его под рукой!"
 
 # bg/ceo/ceo.rpy:2070
-translate russian meeting_cherie_02_male_230e9a69:
+translate russian meeting_cherie_02_male_45366412:
     cherie.say "Ах... он просто драматизирует!"
 
 # bg/ceo/ceo.rpy:2072
@@ -3497,7 +3493,7 @@ translate russian result_meeting_cherie_02_male_8ce15b84:
     "Шери качает головой, явно с трудом справляясь с чувствами."
 
 # bg/ceo/ceo.rpy:2118
-translate russian result_meeting_cherie_02_male_7205795d:
+translate russian result_meeting_cherie_02_male_35f9ff3f:
     cherie.say "Элен звонила... Она плакала!"
 
 # bg/ceo/ceo.rpy:2119
@@ -3957,7 +3953,7 @@ translate russian meeting_cherie_04_male_4eb19982:
     mike.say "Тогда переделаем этот этаж целиком. Изменим здесь всё."
 
 # bg/ceo/ceo.rpy:2368
-translate russian meeting_cherie_04_male_2cae0ddd:
+translate russian meeting_cherie_04_male_17763c9a:
     mike.say "А из этой комнаты сделаем что-нибудь полезное. Не знаю... комнату отдыха для сотрудников!"
 
 # bg/ceo/ceo.rpy:2370
@@ -3989,7 +3985,7 @@ translate russian result_meeting_cherie_04_male_acf5c475:
     "Но Шери, похоже, это совершенно не волнует."
 
 # bg/ceo/ceo.rpy:2393
-translate russian result_meeting_cherie_04_male_ee34b69b:
+translate russian result_meeting_cherie_04_male_74e60556:
     cherie.say "Я съела там сэндвич. Стоя... нарочно!"
 
 # bg/ceo/ceo.rpy:2395
@@ -4101,7 +4097,7 @@ translate russian meeting_cherie_05_male_42213ea6:
     cherie.say "Кто именно {i}учит{/i}, Уильям?"
 
 # bg/ceo/ceo.rpy:2458
-translate russian meeting_cherie_05_male_811fcad1:
+translate russian meeting_cherie_05_male_019297e0:
     "Уильям" "Эм... все, мэм."
 
 # bg/ceo/ceo.rpy:2461
@@ -4113,7 +4109,7 @@ translate russian meeting_cherie_05_male_f1fa8852:
     cherie.say "Правдиво и кратко ответьте на пятнадцать вопросов. Предложите ей поговорить со мной для понимания ситуации, без цитирования. А публично не говорите ничего."
 
 # bg/ceo/ceo.rpy:2465
-translate russian meeting_cherie_05_male_96b7a26f:
+translate russian meeting_cherie_05_male_42f74100:
     "Уильям" "Но... но это же капитуляция!"
 
 # bg/ceo/ceo.rpy:2468
@@ -4147,10 +4143,6 @@ translate russian meeting_cherie_05_male_6a164ae4:
 # bg/ceo/ceo.rpy:2479
 translate russian meeting_cherie_05_male_96b5f0d2:
     "Шери согласно кивает."
-
-# bg/ceo/ceo.rpy:2481
-translate russian meeting_cherie_05_male_b2e04a2e:
-    cherie.say "Буду откровенной и скучной. Очень недооценённое сочетание."
 
 # bg/ceo/ceo.rpy:2484
 translate russian meeting_cherie_05_male_b3c678fe:
@@ -4293,7 +4285,7 @@ translate russian result_meeting_cherie_05_male_ecca2089:
     "Уильям чувствует себя явно неловко."
 
 # bg/ceo/ceo.rpy:2565
-translate russian result_meeting_cherie_05_male_d60694bf:
+translate russian result_meeting_cherie_05_male_3bdfaca0:
     "Уильям" "Это... ладно, справедливости ради, так обычно не бывает..."
 
 # bg/ceo/ceo.rpy:2568
@@ -4413,7 +4405,7 @@ translate russian meeting_cherie_06_male_5199ed64:
     "Уильям" "Да, мэм."
 
 # bg/ceo/ceo.rpy:2637
-translate russian meeting_cherie_06_male_5afa9b18:
+translate russian meeting_cherie_06_male_01a38ba5:
     mike.say "Уильям, если ошибёшься, ты не уйдёшь в отставку. Ты будешь всё исправлять."
 
 # bg/ceo/ceo.rpy:2639
@@ -4461,7 +4453,7 @@ translate russian meeting_cherie_06_male_cff6b417:
     mike.say "Семнадцать процентов — не та сумма, на которой я хочу упражняться в хитрости."
 
 # bg/ceo/ceo.rpy:2659
-translate russian meeting_cherie_06_male_08cb5eff:
+translate russian meeting_cherie_06_male_835ee0d3:
     "Уильям" "Понял, сэр... Очень осмотрительно."
 
 # bg/ceo/ceo.rpy:2661
@@ -4497,7 +4489,7 @@ translate russian result_meeting_cherie_06_male_63093ca7:
     "Уильям словно лишился дара речи."
 
 # bg/ceo/ceo.rpy:2688
-translate russian result_meeting_cherie_06_male_b400751a:
+translate russian result_meeting_cherie_06_male_34606ed2:
     "Уильям" "Босс... Босс... Вы слышали? Они будут платить нам БОЛЬШЕ!"
 
 # bg/ceo/ceo.rpy:2691
@@ -4661,7 +4653,7 @@ translate russian meeting_cassidy_01_male_a673421b:
     cassidy.say "Нет! Это девушка с пистолетом для скотча и четыреста тысяч человек, которым мы понравились за один день!"
 
 # bg/ceo/ceo.rpy:2777
-translate russian meeting_cassidy_01_male_fb49e83d:
+translate russian meeting_cassidy_01_male_837dace3:
     cassidy.say "Ладно... увольняй. Папочка бы именно так и сделал, конечно."
 
 # bg/ceo/ceo.rpy:2779
@@ -4693,7 +4685,7 @@ translate russian meeting_cassidy_01_male_fffc107e:
     cassidy.say "Уже написала ей. Она думает, что её увольняют!"
 
 # bg/ceo/ceo.rpy:2791
-translate russian meeting_cassidy_01_male_cadfa7b5:
+translate russian meeting_cassidy_01_male_d95e485f:
     cassidy.say "Это очень грустно. И мне это нравится... немножко."
 
 # bg/ceo/ceo.rpy:2794
@@ -4957,7 +4949,7 @@ translate russian meeting_cassidy_02_male_0d4fe4d0:
     cassidy.say "Ты ведь за всю жизнь ни на одной нормальной вечеринке не был?"
 
 # bg/ceo/ceo.rpy:2949
-translate russian meeting_cassidy_02_male_e976c061:
+translate russian meeting_cassidy_02_male_3848bf75:
     mike.say "На одной был... Меня вырвало в кусты."
 
 # bg/ceo/ceo.rpy:2951
@@ -4965,11 +4957,11 @@ translate russian meeting_cassidy_02_male_0641fc71:
     cassidy.say "Правда?!"
 
 # bg/ceo/ceo.rpy:2953
-translate russian meeting_cassidy_02_male_4d8f00d8:
+translate russian meeting_cassidy_02_male_946afbce:
     cassidy.say "Ладно, это даже довольно мило. Печально, но мило."
 
 # bg/ceo/ceo.rpy:2955
-translate russian meeting_cassidy_02_male_d138a153:
+translate russian meeting_cassidy_02_male_17c5a742:
     cassidy.say "Хорошо... ХОРОШО! Пусть Артур получит все свои бумажки."
 
 # bg/ceo/ceo.rpy:2958
@@ -4977,7 +4969,7 @@ translate russian meeting_cassidy_02_male_cd7549ba:
     "Артур" "Мне не нужны бумажки. Я хочу, чтобы вечеринка состоялась и никто не утонул."
 
 # bg/ceo/ceo.rpy:2961
-translate russian meeting_cassidy_02_male_68e5b1ca:
+translate russian meeting_cassidy_02_male_80552358:
     cassidy.say "Боже, когда ты так говоришь, кажется, будто ты на моей стороне. Терпеть это не могу."
 
 # bg/ceo/ceo.rpy:2963
@@ -5013,7 +5005,7 @@ translate russian result_meeting_cassidy_02_male_814d4a3f:
     "Артур" "На входе гость подписал отказ от претензий, как и все остальные. Ущерб атмосфере, по имеющимся сведениям, оказался терпимым."
 
 # bg/ceo/ceo.rpy:2989
-translate russian result_meeting_cassidy_02_male_484190d1:
+translate russian result_meeting_cassidy_02_male_446ca179:
     cassidy.say "Терпимым... едва-едва."
 
 # bg/ceo/ceo.rpy:2990
@@ -5373,7 +5365,7 @@ translate russian meeting_cassidy_04_male_6e11072d:
     cassidy.say "Там будут все. Вообще все! Я езжу туда с пятнадцати лет и точно знаю, кто на какой яхте."
 
 # bg/ceo/ceo.rpy:3193
-translate russian meeting_cassidy_04_male_1f110663:
+translate russian meeting_cassidy_04_male_ede0b4be:
     "Энтони" "Четыреста тысяч... Посещаемость — одиннадцать тысяч человек... Предполагаемый охват в СМИ — два миллиона сто тысяч."
 
 # bg/ceo/ceo.rpy:3194
@@ -5485,7 +5477,7 @@ translate russian meeting_cassidy_04_male_871f36fa:
     cassidy.say "ДА!"
 
 # bg/ceo/ceo.rpy:3246
-translate russian meeting_cassidy_04_male_0d716a3b:
+translate russian meeting_cassidy_04_male_621f7bd8:
     cassidy.say "Ладно, ладно... Будет так здорово!"
 
 # bg/ceo/ceo.rpy:3249
@@ -5545,7 +5537,7 @@ translate russian result_meeting_cassidy_04_male_1d63f304:
     "Кэссиди изо всех сил делает вид, что ей совершенно всё равно."
 
 # bg/ceo/ceo.rpy:3285
-translate russian result_meeting_cassidy_04_male_630e7c67:
+translate russian result_meeting_cassidy_04_male_df1eb1e2:
     cassidy.say "Ладно... плевать. Всё равно всю неделю лил дождь, все были несчастны, две яхты утонули."
 
 # bg/ceo/ceo.rpy:3287
@@ -5553,7 +5545,7 @@ translate russian result_meeting_cassidy_04_male_99b84712:
     mike.say "Две яхты утонули?!"
 
 # bg/ceo/ceo.rpy:3289
-translate russian result_meeting_cassidy_04_male_ede3b60c:
+translate russian result_meeting_cassidy_04_male_ad30a1aa:
     cassidy.say "Ну... одна. Но КАК утонула!"
 
 # bg/ceo/ceo.rpy:3292
@@ -5609,7 +5601,7 @@ translate russian result_meeting_cassidy_04_male_09e72103:
     cassidy.say "Зато я очень хорошо провела время."
 
 # bg/ceo/ceo.rpy:3318
-translate russian result_meeting_cassidy_04_male_f064d80d:
+translate russian result_meeting_cassidy_04_male_26ac1a13:
     "Энтони" "Да... Полагаю, именно это мы на самом деле и приобрели."
 
 # bg/ceo/ceo.rpy:3320
@@ -5704,12 +5696,8 @@ translate russian meeting_cassidy_05_male_e9b93ee7:
 translate russian meeting_cassidy_05_male_e7c2293a:
     mike.say "Лучше найдите мне ту Прити, о которой шла речь, ладно?"
 
-# bg/ceo/ceo.rpy:3376
-translate russian meeting_cassidy_05_male_68630219:
-    cassidy.say "Ты... ты серьёзно?"
-
 # bg/ceo/ceo.rpy:3378
-translate russian meeting_cassidy_05_male_e8953a20:
+translate russian meeting_cassidy_05_male_6abaf843:
     cassidy.say "Это хорошо... Очень хорошо! Когда ты стал таким сообразительным?!"
 
 # bg/ceo/ceo.rpy:3381
@@ -5757,7 +5745,7 @@ translate russian meeting_cassidy_05_male_7887fdfd:
     cassidy.say "Люди говорят правду в ресторанах, а не в переговорных!"
 
 # bg/ceo/ceo.rpy:3403
-translate russian meeting_cassidy_05_male_8369a345:
+translate russian meeting_cassidy_05_male_9ea585b4:
     cassidy.say "Ладно... деньги твои. Теперь они буквально твои. Как же это странно!"
 
 # bg/ceo/ceo.rpy:3405
@@ -5841,7 +5829,7 @@ translate russian result_meeting_cassidy_05_male_e958750c:
     "Артур" "На четвёртой «Корвейн» подали иск, в котором упомянули нашу компанию, поскольку он принёс с собой их клиентские данные."
 
 # bg/ceo/ceo.rpy:3460
-translate russian result_meeting_cassidy_05_male_7cba8e99:
+translate russian result_meeting_cassidy_05_male_3dc6a957:
     "Артур" "Он действительно их принёс. На собеседование. Я видел слайды!"
 
 # bg/ceo/ceo.rpy:3462
@@ -5933,7 +5921,7 @@ translate russian meeting_cassidy_06_male_175deb5b:
     "Уильям" "Но к тому моменту десять лет будет покупать у других."
 
 # bg/ceo/ceo.rpy:3515
-translate russian meeting_cassidy_06_male_eb66bd4f:
+translate russian meeting_cassidy_06_male_731b1853:
     cassidy.say "Ну... я... наверное... может быть?"
 
 # bg/ceo/ceo.rpy:3517
@@ -5953,7 +5941,7 @@ translate russian meeting_cassidy_06_male_dc800660:
     "Кэссиди кивает с улыбкой."
 
 # bg/ceo/ceo.rpy:3524
-translate russian meeting_cassidy_06_male_a4f5e1e2:
+translate russian meeting_cassidy_06_male_dd37dc3d:
     cassidy.say "Правильно... Спасибо... Наконец-то!"
 
 # bg/ceo/ceo.rpy:3526
@@ -5961,7 +5949,7 @@ translate russian meeting_cassidy_06_male_490f9e66:
     "Уильям, похоже, довольно быстро сдаёт позиции."
 
 # bg/ceo/ceo.rpy:3528
-translate russian meeting_cassidy_06_male_c2b46163:
+translate russian meeting_cassidy_06_male_fdcf0000:
     "Уильям" "Понял, босс. Бережём фамильные драгоценности... Очень разумно."
 
 # bg/ceo/ceo.rpy:3530
@@ -6037,7 +6025,7 @@ translate russian result_meeting_cassidy_06_male_f57a2ddc:
     "Мы запускаем товар под названием, которое никто не может связать с нами, на полках, перед которыми я лично никогда не стоял."
 
 # bg/ceo/ceo.rpy:3580
-translate russian result_meeting_cassidy_06_male_b4783427:
+translate russian result_meeting_cassidy_06_male_1ed3f451:
     "Энтони" "Объём на сорок один процент выше прогноза. Переток покупателей из премиальной линейки... измеримый, но меньше расчётного."
 
 # bg/ceo/ceo.rpy:3581
@@ -6049,7 +6037,7 @@ translate russian result_meeting_cassidy_06_male_56a4c9d1:
     "Кэссиди закатывает глаза."
 
 # bg/ceo/ceo.rpy:3585
-translate russian result_meeting_cassidy_06_male_2bc8e137:
+translate russian result_meeting_cassidy_06_male_cccf75e1:
     cassidy.say "Два процента... ладно... ЛАДНО, Уильям!"
 
 # bg/ceo/ceo.rpy:3588
@@ -6357,7 +6345,7 @@ translate russian result_meeting_board_01_male_57512e50:
     "Энтони" "Немного доставляет. Признайте!"
 
 # bg/ceo/ceo.rpy:3769
-translate russian result_meeting_board_01_male_a0cc63bc:
+translate russian result_meeting_board_01_male_177ff80c:
     "Артур" "Совсем немного... возможно."
 
 # bg/ceo/ceo.rpy:3771
@@ -6457,7 +6445,7 @@ translate russian meeting_board_02_male_9c8d839a:
     "Артур" "Значит, они его ждали."
 
 # bg/ceo/ceo.rpy:3831
-translate russian meeting_board_02_male_21a3a8ef:
+translate russian meeting_board_02_male_9b7360f0:
     "Видимо, это плохой знак... или хороший."
 
 # bg/ceo/ceo.rpy:3832
@@ -6661,7 +6649,7 @@ translate russian meeting_board_03_male_81f2fb2a:
     "Уильям чуть ли не вскидывает кулак в победном жесте."
 
 # bg/ceo/ceo.rpy:3943
-translate russian meeting_board_03_male_980041dc:
+translate russian meeting_board_03_male_cc7849aa:
     "Уильям" "ДА! Спасибо, босс! Правильное решение."
 
 # bg/ceo/ceo.rpy:3946
@@ -6721,7 +6709,7 @@ translate russian meeting_board_03_male_17ea7aa8:
     "Уильям" "Неплохо сказано, сэр! Можно я вас процитирую?"
 
 # bg/ceo/ceo.rpy:3973
-translate russian meeting_board_03_male_8fc21277:
+translate russian meeting_board_03_male_591ddbab:
     mike.say "Конечно, Уильям... Как хочешь..."
 
 # bg/ceo/ceo.rpy:3974
@@ -6965,7 +6953,7 @@ translate russian meeting_board_04_male_1f50a664:
     mike.say "Значит, и изначально было некому."
 
 # bg/ceo/ceo.rpy:4111
-translate russian meeting_board_04_male_6851c074:
+translate russian meeting_board_04_male_57b63b4c:
     "Уильям" "Понял, сэр. Полностью понял."
 
 # bg/ceo/ceo.rpy:4113
@@ -7261,11 +7249,11 @@ translate russian result_meeting_board_05_male_4dae6b38:
     "Уильям" "То есть список потенциальных сделок был..."
 
 # bg/ceo/ceo.rpy:4296
-translate russian result_meeting_board_05_male_0388f6fa:
+translate russian result_meeting_board_05_male_6d089319:
     "Энтони" "Оптимизмом. В письменном виде. Как всегда."
 
 # bg/ceo/ceo.rpy:4299
-translate russian result_meeting_board_05_male_6eea9536:
+translate russian result_meeting_board_05_male_fb0be4d1:
     "Уильям" "Ладно, ладно... Справедливо."
 
 # bg/ceo/ceo.rpy:4300
@@ -7441,7 +7429,7 @@ translate russian meeting_board_06_male_0c070528:
     mike.say "Это шестьсот тысяч, которые не окупятся."
 
 # bg/ceo/ceo.rpy:4402
-translate russian meeting_board_06_male_30a52d93:
+translate russian meeting_board_06_male_46d3d9ee:
     "Уильям" "Понял... Дисциплинированно. Очень дисциплинированно."
 
 # bg/ceo/ceo.rpy:4405
@@ -7481,7 +7469,7 @@ translate russian meeting_board_06_male_5b6f977d:
     "Уильям" "ДА!"
 
 # bg/ceo/ceo.rpy:4421
-translate russian meeting_board_06_male_673b6957:
+translate russian meeting_board_06_male_96205685:
     "Уильям" "Я... то есть... да, босс..."
 
 # bg/ceo/ceo.rpy:4423
@@ -7533,7 +7521,7 @@ translate russian result_meeting_board_06_male_e95b072e:
     "Энтони" "Приобретение стоило шестьсот тысяч. Прошу официально зафиксировать: моя модель была верна и бесполезна."
 
 # bg/ceo/ceo.rpy:4457
-translate russian result_meeting_board_06_male_4de5df26:
+translate russian result_meeting_board_06_male_a7cf7855:
     "Уильям" "Он сказал «бесполезна»! Про себя!"
 
 # bg/ceo/ceo.rpy:4460
@@ -8984,10 +8972,6 @@ translate russian male_intro_f5714625:
 translate russian male_intro_e503044b:
     "Повисает неловкое молчание. Я нарушаю его очевидным вопросом."
 
-# intro.rpy:728
-translate russian male_intro_37d68cf4:
-    mike.say "Ты говорила, что учишься, да, [bree.name]? На кого?"
-
 # intro.rpy:731
 translate russian male_intro_d363dfb7:
     bree.say "О, я учусь на врача."
@@ -9063,10 +9047,6 @@ translate russian male_intro_0d6a2c48:
 # intro.rpy:789
 translate russian male_intro_d0f4e035:
     bree.say "Ого, это правда впечатляет!"
-
-# intro.rpy:791
-translate russian male_intro_e77593f9:
-    mike.say "Спасибо, [bree.name]. Пришлось немало потрудиться."
 
 # intro.rpy:792
 translate russian male_intro_8d72e6d0:

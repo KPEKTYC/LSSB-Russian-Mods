@@ -96,7 +96,7 @@ translate russian cupid_anna_gwen_event_01_bda6d772:
 translate russian cupid_anna_gwen_event_01_d63e58b5:
     anna.say "Саша просто проигнорирует и будет вести себя как ни в чём не бывало."
 
-translate russian cupid_anna_gwen_event_01_fdb8e0e1:
+translate russian cupid_anna_gwen_event_01_22295bbc:
     anna.say "А Клео... заявит, что её подавляют, угнетают... или ещё как-нибудь притесняют!"
 
 translate russian cupid_anna_gwen_event_01_4beb5a93:
@@ -294,7 +294,7 @@ translate russian cupid_anna_gwen_event_01_1d51a527:
 translate russian cupid_anna_gwen_event_01_f7a76caf:
     "Я снова оглядываю толпу и на этот раз узнаю её."
 
-translate russian cupid_anna_gwen_event_01_0b6585d6:
+translate russian cupid_anna_gwen_event_01_37993cff:
     mike.say "А... ТА САМАЯ Гвен."
 
 translate russian cupid_anna_gwen_event_01_fc00a21c:
@@ -582,10 +582,10 @@ translate russian cupid_anna_gwen_event_01_51f383af:
 translate russian cupid_anna_gwen_event_01_485aca7f:
     "Но огонёк гаснет, и она снова выглядит грустной и немного подавленной."
 
-translate russian cupid_anna_gwen_event_01_e2f874cd:
+translate russian cupid_anna_gwen_event_01_ba33b0df:
     "Gwen" "Нет... нет..."
 
-translate russian cupid_anna_gwen_event_01_7ed873dc:
+translate russian cupid_anna_gwen_event_01_c1049f2e:
     "Gwen" "Просто... увидишь Анну — передай ей привет."
 
 translate russian cupid_anna_gwen_event_01_b3ed1324:
@@ -618,7 +618,7 @@ translate russian cupid_anna_gwen_event_01_75d8fa2e:
 translate russian cupid_anna_gwen_event_01_cf197e63:
     "Gwen" "И, скажем так, результат мне не понравился!"
 
-translate russian cupid_anna_gwen_event_01_6c0f56bb:
+translate russian cupid_anna_gwen_event_01_75fc1112:
     "Чёрт... похоже, всё и правда так плохо."
 
 translate russian cupid_anna_gwen_event_01_115137a1:
@@ -690,7 +690,7 @@ translate russian cupid_anna_gwen_event_01_de476f6a:
 translate russian cupid_anna_gwen_event_01_e04940f8:
     anna.say "А..."
 
-translate russian cupid_anna_gwen_event_01_90868c3b:
+translate russian cupid_anna_gwen_event_01_87c2d2ce:
     anna.say "Ну... так ей и надо!"
 
 translate russian cupid_anna_gwen_event_01_8ddcbc81:
@@ -903,7 +903,7 @@ translate russian cupid_anna_gwen_event_02_6103b334:
 translate russian cupid_anna_gwen_event_02_5ed09868:
     "Семейная жизнь с Морган уж точно не смягчила характер Клео."
 
-translate russian cupid_anna_gwen_event_02_921007ef:
+translate russian cupid_anna_gwen_event_02_506ed0e8:
     anna.say "О-о... VIP-вход — звучит заманчиво..."
 
 translate russian cupid_anna_gwen_event_02_4b14e6dc:
@@ -1002,7 +1002,7 @@ translate russian cupid_anna_gwen_event_02_fab1de95:
 translate russian cupid_anna_gwen_event_02_7b8a76bf:
     kleio.say "Я знаю, что тебе нужно: пиво, и побольше!"
 
-translate russian cupid_anna_gwen_event_02_b5cc9b37:
+translate russian cupid_anna_gwen_event_02_7a52da57:
     anna.say "Эй, ты... бармен! Алкоголь нам, быстро!"
 
 translate russian cupid_anna_gwen_event_02_21364312:
@@ -1347,7 +1347,7 @@ translate russian cupid_anna_gwen_event_02_b8f9c816:
 translate russian cupid_anna_gwen_event_02_c6b2a348:
     sasha.say "Странно, но очень похоже!"
 
-translate russian cupid_anna_gwen_event_02_6b6a23a6:
+translate russian cupid_anna_gwen_event_02_ac4e0e07:
     mike.say "В смысле... издевается над ней физически?"
 
 translate russian cupid_anna_gwen_event_02_56b3adb7:
@@ -1479,7 +1479,7 @@ translate russian cupid_anna_gwen_event_02_1f1dbd1d:
 translate russian cupid_anna_gwen_event_02_2339869f:
     kleio.say "Интересно, они и в постели так чудят?"
 
-translate russian cupid_anna_gwen_event_02_82ccafb6:
+translate russian cupid_anna_gwen_event_02_4aef7543:
     sasha.say "Нет... нет-нет-нет!"
 
 translate russian cupid_anna_gwen_event_02_f94897a3:
@@ -1839,7 +1839,7 @@ translate russian cupid_anna_gwen_ending_36e2fbfe:
 translate russian cupid_anna_gwen_ending_20b185ee:
     "Теперь священник поворачивается к гостям."
 
-translate russian cupid_anna_gwen_ending_df0b9ee0:
+translate russian cupid_anna_gwen_ending_0952873f:
     "Priest" "Теперь, когда Анна и... Гвендолин обменялись клятвами..."
 
 translate russian cupid_anna_gwen_ending_f2ebe941:
@@ -1914,7 +1914,7 @@ translate russian cupid_anna_gwen_ending_6e88af55:
 translate russian cupid_anna_gwen_ending_9a8ab6d0:
     "Gwen" "Отлично поймал, [hero.name]..."
 
-translate russian cupid_anna_gwen_ending_90addbfb:
+translate russian cupid_anna_gwen_ending_a1d35b0c:
     "Gwen" "И кто же эта счастливица... или счастливчик?"
 
 translate russian cupid_anna_gwen_ending_7885339d:

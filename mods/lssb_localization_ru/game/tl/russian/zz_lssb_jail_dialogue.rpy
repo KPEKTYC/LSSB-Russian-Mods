@@ -73,7 +73,7 @@ translate russian camila_kylie_propose_male_5472b90c:
     "Затем мы опускаемся на одно колено перед дверью камеры Кайли."
 
 # ch/harems_full/jail/events.rpy:55
-translate russian camila_kylie_propose_male_c2875b87:
+translate russian camila_kylie_propose_male_7f448db3:
     kylie.say "Ч... что происходит?"
 
 # ch/harems_full/jail/events.rpy:56
@@ -105,7 +105,7 @@ translate russian camila_kylie_propose_male_e5c24384:
     mike.say "И что мы всегда будем рядом."
 
 # ch/harems_full/jail/events.rpy:64
-translate russian camila_kylie_propose_male_07958371:
+translate russian camila_kylie_propose_male_63919a5c:
     mike.say "Так... ты выйдешь за нас?"
 
 # ch/harems_full/jail/events.rpy:65
@@ -369,7 +369,7 @@ translate russian camila_kylie_propose_male_1cc0df1d:
     "Но она перебивает меня криком, глядя мне за спину."
 
 # ch/harems_full/jail/events.rpy:143
-translate russian camila_kylie_propose_male_d26307f4:
+translate russian camila_kylie_propose_male_cf263717:
     kylie.say "ОХРАНА!.. ОХРАНА!"
 
 # ch/harems_full/jail/events.rpy:144
@@ -805,7 +805,7 @@ translate russian camila_kylie_male_ending_d82d99ee:
     kylie.say "Я никогда не думала, что смогу быть настолько счастлива."
 
 # ch/harems_full/jail/events.rpy:292
-translate russian camila_kylie_male_ending_fc1a319a:
+translate russian camila_kylie_male_ending_b7a06245:
     camila.say "Да... наверное, ты права."
 
 # ch/harems_full/jail/events.rpy:293

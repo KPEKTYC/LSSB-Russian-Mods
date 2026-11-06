@@ -68,20 +68,16 @@ translate russian xmas_party_snacks_193010f5:
 translate russian xmas_party_snacks_c6f140ff:
     lexi.say "Я жрать хочу до смерти!"
 
-# ch/harems/home/events/home_harem_xmas_party.rpy:124
-translate russian xmas_party_snacks_ced5f98c:
-    minami.say "Здесь НАМНОГО лучше, чем дома, братик."
-
 # ch/harems/home/events/home_harem_xmas_party.rpy:125
 translate russian xmas_party_snacks_f8c92292:
     minami.say "Мамы с папой нет, никто не заставит нас молиться перед едой!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:127
-translate russian xmas_party_snacks_a743cb44:
+translate russian xmas_party_snacks_27653f36:
     samantha.say "Хм... выглядит... интересно!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:129
-translate russian xmas_party_snacks_ec0827ce:
+translate russian xmas_party_snacks_9e76ca7e:
     sasha.say "Хм... всё это выглядит очень... полезно!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:131
@@ -173,7 +169,7 @@ translate russian xmas_party_snacks_c5580e5b:
     lexi.say "Дайте мне их побольше!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:158
-translate russian xmas_party_snacks_3b34df61:
+translate russian xmas_party_snacks_7f1d9500:
     minami.say "М-м-м... очень вкусно, Сэм!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:159
@@ -261,7 +257,7 @@ translate russian xmas_party_snacks_a8dfcafb:
     "Набивая рот едой, не все, похоже, слушают Сашу."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:184
-translate russian xmas_party_snacks_2212ca87:
+translate russian xmas_party_snacks_cbb9d1aa:
     bree.say "Ух... вот это острота!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:185
@@ -276,16 +272,12 @@ translate russian xmas_party_snacks_fc19ada4:
 translate russian xmas_party_snacks_bd6496c7:
     lexi.say "В трейлерном парке я только этим и питалась!"
 
-# ch/harems/home/events/home_harem_xmas_party.rpy:190
-translate russian xmas_party_snacks_7a4ee174:
-    minami.say "Ого, братик!"
-
 # ch/harems/home/events/home_harem_xmas_party.rpy:191
 translate russian xmas_party_snacks_d5641857:
     minami.say "Мама с папой с ума бы сошли, если бы увидели всё это!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:193
-translate russian xmas_party_snacks_3304657f:
+translate russian xmas_party_snacks_8ba7e23e:
     samantha.say "Ох... господи, господи!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:194
@@ -333,7 +325,7 @@ translate russian xmas_party_turkey_2c222423:
     "Ну, по крайней мере, образно: мои соседки никогда не молчат."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:226
-translate russian xmas_party_turkey_931e7eb7:
+translate russian xmas_party_turkey_8f9f0221:
     bree.say "Хм... пахнет очень неплохо, Лекси!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:227
@@ -341,15 +333,15 @@ translate russian xmas_party_turkey_f2b22620:
     bree.say "Но, как говорится, чтобы оценить пудинг, нужно его съесть."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:229
-translate russian xmas_party_turkey_abf1ffda:
+translate russian xmas_party_turkey_f27714a5:
     bree.say "Ну... индейку... ты понимаешь, о чём я!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:232
-translate russian xmas_party_turkey_43606b7b:
+translate russian xmas_party_turkey_a37d4016:
     lexi.say "Ух ты... пахнет... эм..."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:233
-translate russian xmas_party_turkey_410ec612:
+translate russian xmas_party_turkey_29a0815a:
     lexi.say "Ну... запах точно есть, [lssb_homexmas.bree_name()]!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:234
@@ -403,10 +395,6 @@ translate russian xmas_party_turkey_e1877880:
 # ch/harems/home/events/home_harem_xmas_party.rpy:258
 translate russian xmas_party_turkey_7db12813:
     lexi.say "Да разрежь уже эту птицу!"
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:261
-translate russian xmas_party_turkey_69a6aa18:
-    minami.say "Я её не разрежу, братик, она ОГРОМНАЯ!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:263
 translate russian xmas_party_turkey_07f66622:
@@ -481,7 +469,7 @@ translate russian xmas_party_turkey_4771d224:
     mike.say "Ого..."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:297
-translate russian xmas_party_turkey_f2399b92:
+translate russian xmas_party_turkey_3b54ff5d:
     mike.say "Это было... это..."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:299
@@ -497,7 +485,7 @@ translate russian xmas_party_turkey_7f0be86f:
     "Лекси выплёвывает недожёванную индейку на тарелку."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:303
-translate russian xmas_party_turkey_645d7bec:
+translate russian xmas_party_turkey_739f0f18:
     lexi.say "Кх... фу..."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:304
@@ -505,12 +493,8 @@ translate russian xmas_party_turkey_d754fecc:
     lexi.say "Ты меня отравить пытаешься?!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:306
-translate russian xmas_party_turkey_0852fc42:
+translate russian xmas_party_turkey_e2bf996e:
     minami.say "Фу... у этой индейки странный вкус!"
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:307
-translate russian xmas_party_turkey_b94fe107:
-    minami.say "Я это есть не буду, братик!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:309
 translate russian xmas_party_turkey_1fa9df0d:
@@ -529,7 +513,7 @@ translate russian xmas_party_turkey_a157d318:
     "Но везде видит лишь недовольство своей стряпнёй."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:313
-translate russian xmas_party_turkey_9fbfbc86:
+translate russian xmas_party_turkey_6fc4420d:
     bree.say "Я... я не понимаю!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:314
@@ -539,10 +523,6 @@ translate russian xmas_party_turkey_3ae80ab6:
 # ch/harems/home/events/home_harem_xmas_party.rpy:315
 translate russian xmas_party_turkey_f2cb24c1:
     bree.say "Я, наверное, тысячу видеоуроков посмотрела!"
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:316
-translate russian xmas_party_turkey_df2d22e4:
-    mike.say "Всё нормально, [lssb_homexmas.bree_name()], правда."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:317
 translate russian xmas_party_turkey_255f185f:
@@ -601,7 +581,7 @@ translate russian xmas_party_turkey_99e0e7fe:
     mike.say "Потрясающе!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:333
-translate russian xmas_party_turkey_b5f83c5d:
+translate russian xmas_party_turkey_cc81382c:
     bree.say "О... он прав, Лекси!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:334
@@ -769,7 +749,7 @@ translate russian xmas_party_singing_b02ac0e3:
     lexi.say "Кажется, я помню несколько."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:397
-translate russian xmas_party_singing_f6929fcd:
+translate russian xmas_party_singing_573542b6:
     lexi.say "Ну... по крайней мере, их неприличные версии!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:400
@@ -829,7 +809,7 @@ translate russian xmas_party_singing_c071674c:
     "Я досадливо вздыхаю и поднимаюсь на ноги."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:419
-translate russian xmas_party_singing_15005acf:
+translate russian xmas_party_singing_75739f09:
     mike.say "Ладно... ладно..."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:420
@@ -865,19 +845,15 @@ translate russian xmas_party_singing_a12eb850:
     bree.say "О нет, кажется, у меня из ушей кровь!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:442
-translate russian xmas_party_singing_0ef0f57d:
+translate russian xmas_party_singing_e75d656d:
     sasha.say "Ого... вот это ты расправился с классикой!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:444
 translate russian xmas_party_singing_4f70bbfb:
     lexi.say "Чувак, звучишь как трахающиеся коты!"
 
-# ch/harems/home/events/home_harem_xmas_party.rpy:446
-translate russian xmas_party_singing_35da1496:
-    minami.say "Ой, братик, звучит не очень!"
-
 # ch/harems/home/events/home_harem_xmas_party.rpy:448
-translate russian xmas_party_singing_f9670603:
+translate russian xmas_party_singing_f0ad10b8:
     samantha.say "Эм... думаю, уже можно остановиться!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:449
@@ -964,10 +940,6 @@ translate russian xmas_party_singing_1f0f889d:
 translate russian xmas_party_singing_7508f456:
     mike.say "У тебя потрясающий голос!"
 
-# ch/harems/home/events/home_harem_xmas_party.rpy:486
-translate russian xmas_party_singing_5f5875ec:
-    minami.say "Спасибо, братик!"
-
 # ch/harems/home/events/home_harem_xmas_party.rpy:487
 translate russian xmas_party_singing_c238a62f:
     minami.say "Услышать это от тебя особенно приятно!"
@@ -985,7 +957,7 @@ translate russian xmas_party_pudding_860e016f:
     "Все смотрят на меня с ожиданием на лицах, будто чего-то ждут."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:500
-translate russian xmas_party_pudding_712df6a6:
+translate russian xmas_party_pudding_cc19e2ff:
     mike.say "Девчонки... что такое?"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:501
@@ -1020,10 +992,6 @@ translate russian xmas_party_pudding_c7c09b6c:
 translate russian xmas_party_pudding_abe678b2:
     lexi.say "Тащи уже пудинг!"
 
-# ch/harems/home/events/home_harem_xmas_party.rpy:515
-translate russian xmas_party_pudding_8d5b240e:
-    minami.say "Ох, братик, какой же ты забывчивый!"
-
 # ch/harems/home/events/home_harem_xmas_party.rpy:516
 translate russian xmas_party_pudding_9d1a5461:
     minami.say "Ты обещал приготовить пудинг, помнишь?"
@@ -1049,7 +1017,7 @@ translate russian xmas_party_pudding_b63050ca:
     "Остальные очень скоро начинают интересоваться моими успехами."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:530
-translate russian xmas_party_pudding_7b3de454:
+translate russian xmas_party_pudding_325a4315:
     bree.say "О-о... как вкусно пахнет!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:532
@@ -1125,7 +1093,7 @@ translate russian xmas_party_pudding_d1ed6af8:
     bree.say "Это было ТАК вкусно!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:558
-translate russian xmas_party_pudding_c8c28cdd:
+translate russian xmas_party_pudding_02de448e:
     bree.say "Эм... а ещё не осталось?"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:561
@@ -1143,10 +1111,6 @@ translate russian xmas_party_pudding_db95b895:
 # ch/harems/home/events/home_harem_xmas_party.rpy:566
 translate russian xmas_party_pudding_8a82ce4e:
     lexi.say "Что мне сделать, чтобы получить ещё тарелочку?"
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:568
-translate russian xmas_party_pudding_de11a0ef:
-    minami.say "Мне очень понравилось, братик!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:569
 translate russian xmas_party_pudding_ba9200dc:
@@ -1197,7 +1161,7 @@ translate russian xmas_party_pudding_e2762611:
     "И когда рты освобождаются, я начинаю получать отзывы."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:586
-translate russian xmas_party_pudding_cafc29ba:
+translate russian xmas_party_pudding_7342fddd:
     bree.say "Ох... господи..."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:587
@@ -1205,7 +1169,7 @@ translate russian xmas_party_pudding_ec2f6a69:
     bree.say "Такое чувство, будто я проглотила шар для боулинга!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:590
-translate russian xmas_party_pudding_3add8bbb:
+translate russian xmas_party_pudding_de5bea37:
     sasha.say "Ого... ну и гадость!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:591
@@ -1223,10 +1187,6 @@ translate russian xmas_party_pudding_aa3567c9:
 # ch/harems/home/events/home_harem_xmas_party.rpy:598
 translate russian xmas_party_pudding_28256556:
     minami.say "Бе!"
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:599
-translate russian xmas_party_pudding_c5a49aa2:
-    minami.say "Это было ОЧЕНЬ невкусно, братик!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:602
 translate russian xmas_party_pudding_1fa9df0d:
@@ -1324,10 +1284,6 @@ translate russian xmas_party_presents_d445bbba:
 translate russian xmas_party_presents_ec93a943:
     "Ну кто откажется потакать милой блондинке с подарками?"
 
-# ch/harems/home/events/home_harem_xmas_party.rpy:635
-translate russian xmas_party_presents_7bc4f7e7:
-    mike.say "Конечно, [lssb_homexmas.bree_name()]!"
-
 # ch/harems/home/events/home_harem_xmas_party.rpy:636
 translate russian xmas_party_presents_ea5cbe44:
     mike.say "Не терпится узнать, что ты мне подарила..."
@@ -1344,16 +1300,12 @@ translate russian xmas_party_presents_9d01cb0e:
 translate russian xmas_party_presents_674fec92:
     "И я прав: игра для Zbox!"
 
-# ch/harems/home/events/home_harem_xmas_party.rpy:642
-translate russian xmas_party_presents_9503b96a:
-    mike.say "Ой, спасибо, [lssb_homexmas.bree_name()]!"
-
 # ch/harems/home/events/home_harem_xmas_party.rpy:643
-translate russian xmas_party_presents_0bddd616:
+translate russian xmas_party_presents_73ca60d0:
     mike.say "Это... это... «ЧЕРВЯЧОК ДЖИМА»?!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:644
-translate russian xmas_party_presents_54b7b284:
+translate russian xmas_party_presents_00cd4692:
     mike.say "Я... я даже не знал, что такая игра существует!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:645
@@ -1365,7 +1317,7 @@ translate russian xmas_party_presents_2d86e662:
     "И я чувствую, что мои щёки тоже начинают гореть!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:648
-translate russian xmas_party_presents_c9ef3f79:
+translate russian xmas_party_presents_e49e7d24:
     bree.say "Я... я знаю, это немного неприлично."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:649
@@ -1375,10 +1327,6 @@ translate russian xmas_party_presents_c669fdf7:
 # ch/harems/home/events/home_harem_xmas_party.rpy:650
 translate russian xmas_party_presents_1db8614f:
     bree.say "Но она ещё и очень весёлая на вид!"
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:651
-translate russian xmas_party_presents_a0f4856f:
-    mike.say "Не нужно оправдываться, [lssb_homexmas.bree_name()]."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:652
 translate russian xmas_party_presents_a1525cba:
@@ -1399,10 +1347,6 @@ translate russian xmas_party_presents_9d01cb0e_1:
 # ch/harems/home/events/home_harem_xmas_party.rpy:658
 translate russian xmas_party_presents_674fec92_1:
     "И я прав: игра для Zbox!"
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:659
-translate russian xmas_party_presents_9503b96a_1:
-    mike.say "Ой, спасибо, [lssb_homexmas.bree_name()]!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:660
 translate russian xmas_party_presents_06eb03a4:
@@ -1441,11 +1385,11 @@ translate russian xmas_party_presents_647a2ba9:
     bree.say "Это что-то из одежды!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:675
-translate russian xmas_party_presents_fa8cf35e:
+translate russian xmas_party_presents_16500066:
     bree.say "Это... это..."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:677
-translate russian xmas_party_presents_0decf749:
+translate russian xmas_party_presents_4fdcd68e:
     bree.say "А... спортивный костюм!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:678
@@ -1455,10 +1399,6 @@ translate russian xmas_party_presents_ae9b772a:
 # ch/harems/home/events/home_harem_xmas_party.rpy:679
 translate russian xmas_party_presents_b29dd9b8:
     "Но я готов тут же вмешаться и спасти положение."
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:680
-translate russian xmas_party_presents_5f000771:
-    mike.say "Прочти, что написано на спине, [lssb_homexmas.bree_name()]!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:681
 translate russian xmas_party_presents_cbb73ac8:
@@ -1471,10 +1411,6 @@ translate russian xmas_party_presents_98e90162:
 # ch/harems/home/events/home_harem_xmas_party.rpy:686
 translate russian xmas_party_presents_f5baeb44:
     bree.say "И моё имя тоже!"
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:687
-translate russian xmas_party_presents_6fa4de70:
-    mike.say "Да, считай, что это домашняя одежда, [lssb_homexmas.bree_name()]!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:688
 translate russian xmas_party_presents_10abe89d:
@@ -1493,11 +1429,11 @@ translate russian xmas_party_presents_647a2ba9_1:
     bree.say "Это что-то из одежды!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:695
-translate russian xmas_party_presents_fa8cf35e_1:
+translate russian xmas_party_presents_16500066_1:
     bree.say "Это... это..."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:697
-translate russian xmas_party_presents_0decf749_1:
+translate russian xmas_party_presents_4fdcd68e_1:
     bree.say "А... спортивный костюм!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:698
@@ -1507,10 +1443,6 @@ translate russian xmas_party_presents_9464948a:
 # ch/harems/home/events/home_harem_xmas_party.rpy:699
 translate russian xmas_party_presents_6eb481e7:
     "И продолжаю напролом, пытаясь объяснить логику своего подарка."
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:700
-translate russian xmas_party_presents_e872b14a:
-    mike.say "Да, [lssb_homexmas.bree_name()], спортивный костюм!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:701
 translate russian xmas_party_presents_f9429cf0:
@@ -2001,7 +1933,7 @@ translate russian xmas_party_presents_43309faa:
     lexi.say "А?!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:873
-translate russian xmas_party_presents_e1b8caeb:
+translate russian xmas_party_presents_0ac0087e:
     lexi.say "Это... это вязаная одежда?"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:874
@@ -2092,10 +2024,6 @@ translate russian xmas_party_presents_a04e722b:
 translate russian xmas_party_presents_a8a83235:
     "Так что к чёрту практичность."
 
-# ch/harems/home/events/home_harem_xmas_party.rpy:905
-translate russian xmas_party_presents_30c69f03:
-    minami.say "С Рождеством, братик!"
-
 # ch/harems/home/events/home_harem_xmas_party.rpy:906
 translate russian xmas_party_presents_8d7dc49d:
     minami.say "Теперь открывай мой подарок, ладно?"
@@ -2157,7 +2085,7 @@ translate russian xmas_party_presents_c278903e:
     "Но Минами опускает мою руку, пока никто не заметил."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:925
-translate russian xmas_party_presents_f7ddd870:
+translate russian xmas_party_presents_e7e4336c:
     mike.say "А... а?!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:926
@@ -2185,7 +2113,7 @@ translate russian xmas_party_presents_7c3c7536:
     "А осознав, я с трудом сдерживаю порыв немедленно их понюхать!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:933
-translate russian xmas_party_presents_0c8766c8:
+translate russian xmas_party_presents_8bdadb5e:
     mike.say "Н... но зачем..."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:934
@@ -2280,10 +2208,6 @@ translate russian xmas_party_presents_88ced7e0:
 translate russian xmas_party_presents_2490f0bc:
     "А потом смотрит мне прямо в глаза."
 
-# ch/harems/home/events/home_harem_xmas_party.rpy:963
-translate russian xmas_party_presents_f1785d84:
-    minami.say "О, братик!"
-
 # ch/harems/home/events/home_harem_xmas_party.rpy:964
 translate russian xmas_party_presents_72f5639c:
     minami.say "Как ты догадался?!"
@@ -2307,10 +2231,6 @@ translate russian xmas_party_presents_ac51b393:
 # ch/harems/home/events/home_harem_xmas_party.rpy:969
 translate russian xmas_party_presents_27523be7:
     mike.say "И помню, ты говорила, что никак не найдёшь подходящие трусики."
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:972
-translate russian xmas_party_presents_e14a771a:
-    minami.say "Они идеальны, братик!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:973
 translate russian xmas_party_presents_756196fa:
@@ -2340,10 +2260,6 @@ translate russian xmas_party_presents_88ced7e0_1:
 translate russian xmas_party_presents_2490f0bc_1:
     "А потом смотрит мне прямо в глаза."
 
-# ch/harems/home/events/home_harem_xmas_party.rpy:984
-translate russian xmas_party_presents_0a699be1:
-    minami.say "Я... я не понимаю, братик."
-
 # ch/harems/home/events/home_harem_xmas_party.rpy:985
 translate russian xmas_party_presents_d9b57906:
     minami.say "Зачем ты купил мне такие уродливые трусы?"
@@ -2367,10 +2283,6 @@ translate russian xmas_party_presents_2eb6d09e:
 # ch/harems/home/events/home_harem_xmas_party.rpy:990
 translate russian xmas_party_presents_23483cfa:
     mike.say "Кажется, у тебя его нет, я никогда не видел тебя в таком."
-
-# ch/harems/home/events/home_harem_xmas_party.rpy:993
-translate russian xmas_party_presents_a197aa67:
-    minami.say "Уф... не в этом дело, братик!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:994
 translate russian xmas_party_presents_70fe2103:
@@ -2465,11 +2377,11 @@ translate russian xmas_party_presents_7762be57:
     "И лишь тогда убирает ладонь с моего рта."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:1029
-translate russian xmas_party_presents_47f6473f:
+translate russian xmas_party_presents_5591f628:
     mike.say "Ух ты, Кексик... потрясающе!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:1031
-translate russian xmas_party_presents_c299e971:
+translate russian xmas_party_presents_da65515e:
     mike.say "Ух ты, Сэм... потрясающе!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:1032
@@ -2629,11 +2541,11 @@ translate russian xmas_party_presents_57630305:
     "Меньше всего Сэм хочется вспоминать отношения с Райаном!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:1095
-translate russian xmas_party_presents_caee3374:
+translate russian xmas_party_presents_6435cf6e:
     mike.say "А... прости, Кексик!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:1097
-translate russian xmas_party_presents_ef6b677a:
+translate russian xmas_party_presents_697c476f:
     mike.say "А... прости, Сэм!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:1099

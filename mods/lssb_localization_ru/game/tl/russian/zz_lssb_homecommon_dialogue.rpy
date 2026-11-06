@@ -49,7 +49,7 @@ translate russian home_harem_girls_couch_fun_f67e721c:
     "И, судя по ним, там всё довольно бурно."
 
 # ch/harems/home/events/home_harem_common.rpy:73
-translate russian home_harem_girls_couch_fun_f71d6d17:
+translate russian home_harem_girls_couch_fun_4e826621:
     "Хм... может, девушки играют в твистер или что-то такое?"
 
 # ch/harems/home/events/home_harem_common.rpy:74
@@ -469,11 +469,11 @@ translate russian home_harem_compare_bellies_68cf3e82:
     bree.say "По-моему, сейчас ты чуть больше меня."
 
 # ch/harems/home/events/home_harem_common.rpy:226
-translate russian home_harem_compare_bellies_af65b782:
+translate russian home_harem_compare_bellies_76f32789:
     sasha.say "Знаю, знаю... Чувствую себя китом!"
 
 # ch/harems/home/events/home_harem_common.rpy:229
-translate russian home_harem_compare_bellies_9a41ab45:
+translate russian home_harem_compare_bellies_954cdf50:
     lexi.say "Уф... Никогда не думала, что стану такой толстой!"
 
 # ch/harems/home/events/home_harem_common.rpy:232
@@ -489,7 +489,7 @@ translate russian home_harem_compare_bellies_4e5247b8:
     bree.say "Да нет же, не глупи! Ты прямо светишься!"
 
 # ch/harems/home/events/home_harem_common.rpy:241
-translate russian home_harem_compare_bellies_1b3ad0b0:
+translate russian home_harem_compare_bellies_f8ca85d9:
     sasha.say "Ага-ага... Это я потом обливаюсь, понимаешь?"
 
 # ch/harems/home/events/home_harem_common.rpy:244
@@ -533,7 +533,7 @@ translate russian home_harem_compare_bellies_1f78ae3a:
     "При такой теме я невольно навостряю уши."
 
 # ch/harems/home/events/home_harem_common.rpy:271
-translate russian home_harem_compare_bellies_70383d18:
+translate russian home_harem_compare_bellies_5326a4b4:
     bree.say "Уф... Кажется, они растут каждый день."
 
 # ch/harems/home/events/home_harem_common.rpy:272
@@ -561,7 +561,7 @@ translate russian home_harem_compare_bellies_cc47bdcb:
     "Я нервно улыбаюсь им и невинно пожимаю плечами."
 
 # ch/harems/home/events/home_harem_common.rpy:281
-translate russian home_harem_compare_bellies_d2c15782:
+translate russian home_harem_compare_bellies_610ce5ef:
     mike.say "Я... эм... случайно услышал!"
 
 # ch/harems/home/events/home_harem_common.rpy:282
@@ -652,10 +652,6 @@ translate russian home_harem_compare_bellies_d6834b54:
 translate russian home_harem_compare_bellies_2d867d1e:
     lexi.say "Ах ты наш сентиментальный!"
 
-# ch/harems/home/events/home_harem_common.rpy:318
-translate russian home_harem_compare_bellies_aebaba01:
-    minami.say "Не терпится с ними познакомиться, да, братик?"
-
 # ch/harems/home/events/home_harem_common.rpy:320
 translate russian home_harem_compare_bellies_b3617652:
     samantha.say "Ты уже представляешь себя родителем, правда, [lssb_common.hero_name()]?"
@@ -669,7 +665,7 @@ translate russian home_harem_compare_bellies_fb94080f:
     "Но прежде чем успеваю что-то сказать, они снова меня поражают — внезапно разражаются слезами."
 
 # ch/harems/home/events/home_harem_common.rpy:323
-translate russian home_harem_compare_bellies_8914b414:
+translate russian home_harem_compare_bellies_2a4fa01d:
     mike.say "Чт... что... что случилось?"
 
 # ch/harems/home/events/home_harem_common.rpy:324
@@ -705,7 +701,7 @@ translate russian home_harem_compare_bellies_1c7deb21:
     lexi.say "И я не могу сойти!"
 
 # ch/harems/home/events/home_harem_common.rpy:340
-translate russian home_harem_compare_bellies_1d16153e:
+translate russian home_harem_compare_bellies_38e1a26e:
     minami.say "Это... это ГОРАЗДО хуже полового созревания!"
 
 # ch/harems/home/events/home_harem_common.rpy:343
@@ -725,11 +721,11 @@ translate russian home_harem_compare_bellies_c569d0af:
     bree.say "Я не расстроена."
 
 # ch/harems/home/events/home_harem_common.rpy:348
-translate russian home_harem_compare_bellies_828e442a:
+translate russian home_harem_compare_bellies_cf754e8d:
     bree.say "Я... хлюп... просто так... хлюп... счастлива!"
 
 # ch/harems/home/events/home_harem_common.rpy:350
-translate russian home_harem_compare_bellies_64e1306c:
+translate russian home_harem_compare_bellies_f1648e6f:
     sasha.say "Это такое... такое счастливое время!"
 
 # ch/harems/home/events/home_harem_common.rpy:352
@@ -916,20 +912,12 @@ translate russian bree_lexi_minami_samantha_sasha_propose_male_929380d1:
 translate russian bree_lexi_minami_samantha_sasha_propose_male_0ea27362:
     sasha.say "Но да, я согласна!"
 
-# ch/harems/home/events/home_harem_common.rpy:443
-translate russian bree_lexi_minami_samantha_sasha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:444
 translate russian bree_lexi_minami_samantha_sasha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:448
-translate russian bree_lexi_minami_samantha_sasha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:450
-translate russian bree_lexi_minami_samantha_sasha_propose_male_c062a39d:
+translate russian bree_lexi_minami_samantha_sasha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:454
@@ -985,7 +973,7 @@ translate russian bree_lexi_minami_samantha_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:480
-translate russian bree_lexi_minami_samantha_sasha_propose_male_227f57cb:
+translate russian bree_lexi_minami_samantha_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:481
@@ -1007,10 +995,6 @@ translate russian bree_lexi_minami_samantha_sasha_propose_male_8ee84750:
 # ch/harems/home/events/home_harem_common.rpy:485
 translate russian bree_lexi_minami_samantha_sasha_propose_male_718fc05f:
     sasha.say "Серьёзно, ты оглох, что ли?"
-
-# ch/harems/home/events/home_harem_common.rpy:486
-translate russian bree_lexi_minami_samantha_sasha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:487
 translate russian bree_lexi_minami_samantha_sasha_propose_male_863a8021:
@@ -1061,7 +1045,7 @@ translate russian bree_lexi_minami_samantha_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:500
-translate russian bree_lexi_minami_samantha_sasha_propose_male_a563545f:
+translate russian bree_lexi_minami_samantha_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:501
@@ -1087,10 +1071,6 @@ translate russian bree_lexi_minami_samantha_sasha_propose_male_09cb3f79:
 # ch/harems/home/events/home_harem_common.rpy:506
 translate russian bree_lexi_minami_samantha_sasha_propose_male_a7dac4dd:
     sasha.say "Я не создана для брака, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:507
-translate russian bree_lexi_minami_samantha_sasha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:508
 translate russian bree_lexi_minami_samantha_sasha_propose_male_8ce01c64:
@@ -1159,10 +1139,6 @@ translate russian bree_lexi_minami_samantha_sasha_propose_male_eb23d63f:
 # ch/harems/home/events/home_harem_common.rpy:528
 translate russian bree_lexi_minami_samantha_sasha_propose_male_455b671a:
     sasha.say "Я хочу выйти за тебя!"
-
-# ch/harems/home/events/home_harem_common.rpy:530
-translate russian bree_lexi_minami_samantha_sasha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:532
 translate russian bree_lexi_minami_samantha_sasha_propose_male_098d5419:
@@ -1324,20 +1300,12 @@ translate russian bree_lexi_minami_samantha_propose_male_98a82c66:
 translate russian bree_lexi_minami_samantha_propose_male_544c560d:
     bree.say "Конечно выйду!"
 
-# ch/harems/home/events/home_harem_common.rpy:599
-translate russian bree_lexi_minami_samantha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:600
 translate russian bree_lexi_minami_samantha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:604
-translate russian bree_lexi_minami_samantha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:606
-translate russian bree_lexi_minami_samantha_propose_male_c062a39d:
+translate russian bree_lexi_minami_samantha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:610
@@ -1393,7 +1361,7 @@ translate russian bree_lexi_minami_samantha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:636
-translate russian bree_lexi_minami_samantha_propose_male_227f57cb:
+translate russian bree_lexi_minami_samantha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:637
@@ -1411,10 +1379,6 @@ translate russian bree_lexi_minami_samantha_propose_male_bb695139:
 # ch/harems/home/events/home_harem_common.rpy:640
 translate russian bree_lexi_minami_samantha_propose_male_8ee84750:
     bree.say "Ох, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:641
-translate russian bree_lexi_minami_samantha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:642
 translate russian bree_lexi_minami_samantha_propose_male_863a8021:
@@ -1465,7 +1429,7 @@ translate russian bree_lexi_minami_samantha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:655
-translate russian bree_lexi_minami_samantha_propose_male_a563545f:
+translate russian bree_lexi_minami_samantha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:656
@@ -1487,10 +1451,6 @@ translate russian bree_lexi_minami_samantha_propose_male_0f1f5d7a:
 # ch/harems/home/events/home_harem_common.rpy:660
 translate russian bree_lexi_minami_samantha_propose_male_09cb3f79:
     bree.say "Прости, [lssb_common.hero_name()], я просто не могу."
-
-# ch/harems/home/events/home_harem_common.rpy:661
-translate russian bree_lexi_minami_samantha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:662
 translate russian bree_lexi_minami_samantha_propose_male_8ce01c64:
@@ -1555,10 +1515,6 @@ translate russian bree_lexi_minami_samantha_propose_male_78cf2006:
 # ch/harems/home/events/home_harem_common.rpy:680
 translate russian bree_lexi_minami_samantha_propose_male_eb23d63f:
     bree.say "Я хочу, [lssb_common.hero_name()]."
-
-# ch/harems/home/events/home_harem_common.rpy:682
-translate russian bree_lexi_minami_samantha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:684
 translate russian bree_lexi_minami_samantha_propose_male_098d5419:
@@ -1720,20 +1676,12 @@ translate russian lexi_minami_samantha_sasha_propose_male_929380d1:
 translate russian lexi_minami_samantha_sasha_propose_male_0ea27362:
     sasha.say "Но да, я согласна!"
 
-# ch/harems/home/events/home_harem_common.rpy:751
-translate russian lexi_minami_samantha_sasha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:752
 translate russian lexi_minami_samantha_sasha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:756
-translate russian lexi_minami_samantha_sasha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:758
-translate russian lexi_minami_samantha_sasha_propose_male_c062a39d:
+translate russian lexi_minami_samantha_sasha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:762
@@ -1789,7 +1737,7 @@ translate russian lexi_minami_samantha_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:788
-translate russian lexi_minami_samantha_sasha_propose_male_227f57cb:
+translate russian lexi_minami_samantha_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:789
@@ -1807,10 +1755,6 @@ translate russian lexi_minami_samantha_sasha_propose_male_bb695139:
 # ch/harems/home/events/home_harem_common.rpy:792
 translate russian lexi_minami_samantha_sasha_propose_male_718fc05f:
     sasha.say "Серьёзно, ты оглох, что ли?"
-
-# ch/harems/home/events/home_harem_common.rpy:793
-translate russian lexi_minami_samantha_sasha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:794
 translate russian lexi_minami_samantha_sasha_propose_male_863a8021:
@@ -1861,7 +1805,7 @@ translate russian lexi_minami_samantha_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:807
-translate russian lexi_minami_samantha_sasha_propose_male_a563545f:
+translate russian lexi_minami_samantha_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:808
@@ -1883,10 +1827,6 @@ translate russian lexi_minami_samantha_sasha_propose_male_0f1f5d7a:
 # ch/harems/home/events/home_harem_common.rpy:812
 translate russian lexi_minami_samantha_sasha_propose_male_a7dac4dd:
     sasha.say "Я не создана для брака, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:813
-translate russian lexi_minami_samantha_sasha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:814
 translate russian lexi_minami_samantha_sasha_propose_male_8ce01c64:
@@ -1951,10 +1891,6 @@ translate russian lexi_minami_samantha_sasha_propose_male_78cf2006:
 # ch/harems/home/events/home_harem_common.rpy:832
 translate russian lexi_minami_samantha_sasha_propose_male_455b671a:
     sasha.say "Я хочу выйти за тебя!"
-
-# ch/harems/home/events/home_harem_common.rpy:834
-translate russian lexi_minami_samantha_sasha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:836
 translate russian lexi_minami_samantha_sasha_propose_male_098d5419:
@@ -2185,7 +2121,7 @@ translate russian bree_lexi_samantha_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:940
-translate russian bree_lexi_samantha_sasha_propose_male_227f57cb:
+translate russian bree_lexi_samantha_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:941
@@ -2257,7 +2193,7 @@ translate russian bree_lexi_samantha_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:959
-translate russian bree_lexi_samantha_sasha_propose_male_a563545f:
+translate russian bree_lexi_samantha_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:960
@@ -2528,20 +2464,12 @@ translate russian bree_lexi_minami_sasha_propose_male_929380d1:
 translate russian bree_lexi_minami_sasha_propose_male_0ea27362:
     sasha.say "Но да, я согласна!"
 
-# ch/harems/home/events/home_harem_common.rpy:1066
-translate russian bree_lexi_minami_sasha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:1067
 translate russian bree_lexi_minami_sasha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:1071
-translate russian bree_lexi_minami_sasha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:1073
-translate russian bree_lexi_minami_sasha_propose_male_c062a39d:
+translate russian bree_lexi_minami_sasha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:1077
@@ -2573,7 +2501,7 @@ translate russian bree_lexi_minami_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:1090
-translate russian bree_lexi_minami_sasha_propose_male_227f57cb:
+translate russian bree_lexi_minami_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:1091
@@ -2595,10 +2523,6 @@ translate russian bree_lexi_minami_sasha_propose_male_8ee84750:
 # ch/harems/home/events/home_harem_common.rpy:1095
 translate russian bree_lexi_minami_sasha_propose_male_718fc05f:
     sasha.say "Серьёзно, ты оглох, что ли?"
-
-# ch/harems/home/events/home_harem_common.rpy:1096
-translate russian bree_lexi_minami_sasha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1097
 translate russian bree_lexi_minami_sasha_propose_male_863a8021:
@@ -2649,7 +2573,7 @@ translate russian bree_lexi_minami_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:1110
-translate russian bree_lexi_minami_sasha_propose_male_a563545f:
+translate russian bree_lexi_minami_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:1111
@@ -2675,10 +2599,6 @@ translate russian bree_lexi_minami_sasha_propose_male_09cb3f79:
 # ch/harems/home/events/home_harem_common.rpy:1116
 translate russian bree_lexi_minami_sasha_propose_male_a7dac4dd:
     sasha.say "Я не создана для брака, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:1117
-translate russian bree_lexi_minami_sasha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1118
 translate russian bree_lexi_minami_sasha_propose_male_8586b455:
@@ -2743,10 +2663,6 @@ translate russian bree_lexi_minami_sasha_propose_male_eb23d63f:
 # ch/harems/home/events/home_harem_common.rpy:1137
 translate russian bree_lexi_minami_sasha_propose_male_455b671a:
     sasha.say "Я хочу выйти за тебя!"
-
-# ch/harems/home/events/home_harem_common.rpy:1139
-translate russian bree_lexi_minami_sasha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1141
 translate russian bree_lexi_minami_sasha_propose_male_e9e61615:
@@ -2920,20 +2836,12 @@ translate russian bree_minami_samantha_sasha_propose_male_929380d1:
 translate russian bree_minami_samantha_sasha_propose_male_0ea27362:
     sasha.say "Но да, я согласна!"
 
-# ch/harems/home/events/home_harem_common.rpy:1217
-translate russian bree_minami_samantha_sasha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:1218
 translate russian bree_minami_samantha_sasha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:1222
-translate russian bree_minami_samantha_sasha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:1224
-translate russian bree_minami_samantha_sasha_propose_male_c062a39d:
+translate russian bree_minami_samantha_sasha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:1228
@@ -2973,7 +2881,7 @@ translate russian bree_minami_samantha_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:1243
-translate russian bree_minami_samantha_sasha_propose_male_227f57cb:
+translate russian bree_minami_samantha_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:1244
@@ -2995,10 +2903,6 @@ translate russian bree_minami_samantha_sasha_propose_male_8ee84750:
 # ch/harems/home/events/home_harem_common.rpy:1248
 translate russian bree_minami_samantha_sasha_propose_male_718fc05f:
     sasha.say "Серьёзно, ты оглох, что ли?"
-
-# ch/harems/home/events/home_harem_common.rpy:1249
-translate russian bree_minami_samantha_sasha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1250
 translate russian bree_minami_samantha_sasha_propose_male_863a8021:
@@ -3045,7 +2949,7 @@ translate russian bree_minami_samantha_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:1262
-translate russian bree_minami_samantha_sasha_propose_male_a563545f:
+translate russian bree_minami_samantha_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:1263
@@ -3071,10 +2975,6 @@ translate russian bree_minami_samantha_sasha_propose_male_09cb3f79:
 # ch/harems/home/events/home_harem_common.rpy:1268
 translate russian bree_minami_samantha_sasha_propose_male_a7dac4dd:
     sasha.say "Я не создана для брака, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:1269
-translate russian bree_minami_samantha_sasha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1270
 translate russian bree_minami_samantha_sasha_propose_male_8ce01c64:
@@ -3139,10 +3039,6 @@ translate russian bree_minami_samantha_sasha_propose_male_eb23d63f:
 # ch/harems/home/events/home_harem_common.rpy:1289
 translate russian bree_minami_samantha_sasha_propose_male_455b671a:
     sasha.say "Я хочу выйти за тебя!"
-
-# ch/harems/home/events/home_harem_common.rpy:1291
-translate russian bree_minami_samantha_sasha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1293
 translate russian bree_minami_samantha_sasha_propose_male_098d5419:
@@ -3300,20 +3196,12 @@ translate russian lexi_minami_samantha_propose_male_d92387ba:
 translate russian lexi_minami_samantha_propose_male_1a2a740c:
     lexi.say "Безумие! Я за!"
 
-# ch/harems/home/events/home_harem_common.rpy:1355
-translate russian lexi_minami_samantha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:1356
 translate russian lexi_minami_samantha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:1360
-translate russian lexi_minami_samantha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:1362
-translate russian lexi_minami_samantha_propose_male_c062a39d:
+translate russian lexi_minami_samantha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:1366
@@ -3353,7 +3241,7 @@ translate russian lexi_minami_samantha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:1381
-translate russian lexi_minami_samantha_propose_male_227f57cb:
+translate russian lexi_minami_samantha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:1382
@@ -3367,10 +3255,6 @@ translate russian lexi_minami_samantha_propose_male_34836f21:
 # ch/harems/home/events/home_harem_common.rpy:1384
 translate russian lexi_minami_samantha_propose_male_bb695139:
     "Девушки качают головами и закатывают глаза."
-
-# ch/harems/home/events/home_harem_common.rpy:1385
-translate russian lexi_minami_samantha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1386
 translate russian lexi_minami_samantha_propose_male_863a8021:
@@ -3421,7 +3305,7 @@ translate russian lexi_minami_samantha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:1399
-translate russian lexi_minami_samantha_propose_male_a563545f:
+translate russian lexi_minami_samantha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:1400
@@ -3439,10 +3323,6 @@ translate russian lexi_minami_samantha_propose_male_bea9b5af:
 # ch/harems/home/events/home_harem_common.rpy:1403
 translate russian lexi_minami_samantha_propose_male_0f1f5d7a:
     "Наверное, хоть это должно меня немного утешить!"
-
-# ch/harems/home/events/home_harem_common.rpy:1404
-translate russian lexi_minami_samantha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1405
 translate russian lexi_minami_samantha_propose_male_8ce01c64:
@@ -3503,10 +3383,6 @@ translate russian lexi_minami_samantha_propose_male_742e811c:
 # ch/harems/home/events/home_harem_common.rpy:1421
 translate russian lexi_minami_samantha_propose_male_78cf2006:
     "А может, хотят отделиться от тех, кто отказался."
-
-# ch/harems/home/events/home_harem_common.rpy:1423
-translate russian lexi_minami_samantha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1425
 translate russian lexi_minami_samantha_propose_male_098d5419:
@@ -3721,7 +3597,7 @@ translate russian bree_lexi_samantha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:1515
-translate russian bree_lexi_samantha_propose_male_227f57cb:
+translate russian bree_lexi_samantha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:1516
@@ -3789,7 +3665,7 @@ translate russian bree_lexi_samantha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:1533
-translate russian bree_lexi_samantha_propose_male_a563545f:
+translate russian bree_lexi_samantha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:1534
@@ -4089,7 +3965,7 @@ translate russian lexi_samantha_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:1651
-translate russian lexi_samantha_sasha_propose_male_227f57cb:
+translate russian lexi_samantha_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:1652
@@ -4157,7 +4033,7 @@ translate russian lexi_samantha_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:1669
-translate russian lexi_samantha_sasha_propose_male_a563545f:
+translate russian lexi_samantha_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:1670
@@ -4404,20 +4280,12 @@ translate russian bree_lexi_minami_propose_male_98a82c66:
 translate russian bree_lexi_minami_propose_male_544c560d:
     bree.say "Конечно выйду!"
 
-# ch/harems/home/events/home_harem_common.rpy:1759
-translate russian bree_lexi_minami_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:1760
 translate russian bree_lexi_minami_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:1764
-translate russian bree_lexi_minami_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:1766
-translate russian bree_lexi_minami_propose_male_c062a39d:
+translate russian bree_lexi_minami_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:1770
@@ -4449,7 +4317,7 @@ translate russian bree_lexi_minami_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:1783
-translate russian bree_lexi_minami_propose_male_227f57cb:
+translate russian bree_lexi_minami_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:1784
@@ -4467,10 +4335,6 @@ translate russian bree_lexi_minami_propose_male_bb695139:
 # ch/harems/home/events/home_harem_common.rpy:1787
 translate russian bree_lexi_minami_propose_male_8ee84750:
     bree.say "Ох, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:1788
-translate russian bree_lexi_minami_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1789
 translate russian bree_lexi_minami_propose_male_729d3902:
@@ -4517,7 +4381,7 @@ translate russian bree_lexi_minami_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:1801
-translate russian bree_lexi_minami_propose_male_a563545f:
+translate russian bree_lexi_minami_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:1802
@@ -4539,10 +4403,6 @@ translate russian bree_lexi_minami_propose_male_0f1f5d7a:
 # ch/harems/home/events/home_harem_common.rpy:1806
 translate russian bree_lexi_minami_propose_male_09cb3f79:
     bree.say "Прости, [lssb_common.hero_name()], я просто не могу."
-
-# ch/harems/home/events/home_harem_common.rpy:1807
-translate russian bree_lexi_minami_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1808
 translate russian bree_lexi_minami_propose_male_8586b455:
@@ -4603,10 +4463,6 @@ translate russian bree_lexi_minami_propose_male_78cf2006:
 # ch/harems/home/events/home_harem_common.rpy:1825
 translate russian bree_lexi_minami_propose_male_eb23d63f:
     bree.say "Я хочу, [lssb_common.hero_name()]."
-
-# ch/harems/home/events/home_harem_common.rpy:1827
-translate russian bree_lexi_minami_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1829
 translate russian bree_lexi_minami_propose_male_e9e61615:
@@ -4764,20 +4620,12 @@ translate russian lexi_minami_sasha_propose_male_929380d1:
 translate russian lexi_minami_sasha_propose_male_0ea27362:
     sasha.say "Но да, я согласна!"
 
-# ch/harems/home/events/home_harem_common.rpy:1892
-translate russian lexi_minami_sasha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:1893
 translate russian lexi_minami_sasha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:1897
-translate russian lexi_minami_sasha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:1899
-translate russian lexi_minami_sasha_propose_male_c062a39d:
+translate russian lexi_minami_sasha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:1903
@@ -4809,7 +4657,7 @@ translate russian lexi_minami_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:1916
-translate russian lexi_minami_sasha_propose_male_227f57cb:
+translate russian lexi_minami_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:1917
@@ -4827,10 +4675,6 @@ translate russian lexi_minami_sasha_propose_male_bb695139:
 # ch/harems/home/events/home_harem_common.rpy:1920
 translate russian lexi_minami_sasha_propose_male_718fc05f:
     sasha.say "Серьёзно, ты оглох, что ли?"
-
-# ch/harems/home/events/home_harem_common.rpy:1921
-translate russian lexi_minami_sasha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1922
 translate russian lexi_minami_sasha_propose_male_729d3902:
@@ -4877,7 +4721,7 @@ translate russian lexi_minami_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:1934
-translate russian lexi_minami_sasha_propose_male_a563545f:
+translate russian lexi_minami_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:1935
@@ -4899,10 +4743,6 @@ translate russian lexi_minami_sasha_propose_male_0f1f5d7a:
 # ch/harems/home/events/home_harem_common.rpy:1940
 translate russian lexi_minami_sasha_propose_male_a7dac4dd:
     sasha.say "Я не создана для брака, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:1941
-translate russian lexi_minami_sasha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1942
 translate russian lexi_minami_sasha_propose_male_8586b455:
@@ -4963,10 +4803,6 @@ translate russian lexi_minami_sasha_propose_male_78cf2006:
 # ch/harems/home/events/home_harem_common.rpy:1959
 translate russian lexi_minami_sasha_propose_male_455b671a:
     sasha.say "Я хочу выйти за тебя!"
-
-# ch/harems/home/events/home_harem_common.rpy:1961
-translate russian lexi_minami_sasha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:1963
 translate russian lexi_minami_sasha_propose_male_e9e61615:
@@ -5169,7 +5005,7 @@ translate russian bree_lexi_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:2049
-translate russian bree_lexi_sasha_propose_male_227f57cb:
+translate russian bree_lexi_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:2050
@@ -5237,7 +5073,7 @@ translate russian bree_lexi_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:2067
-translate russian bree_lexi_sasha_propose_male_a563545f:
+translate russian bree_lexi_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:2068
@@ -5480,20 +5316,12 @@ translate russian bree_minami_samantha_propose_male_98a82c66:
 translate russian bree_minami_samantha_propose_male_544c560d:
     bree.say "Конечно выйду!"
 
-# ch/harems/home/events/home_harem_common.rpy:2157
-translate russian bree_minami_samantha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:2158
 translate russian bree_minami_samantha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:2162
-translate russian bree_minami_samantha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:2164
-translate russian bree_minami_samantha_propose_male_c062a39d:
+translate russian bree_minami_samantha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:2168
@@ -5533,7 +5361,7 @@ translate russian bree_minami_samantha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:2183
-translate russian bree_minami_samantha_propose_male_227f57cb:
+translate russian bree_minami_samantha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:2184
@@ -5551,10 +5379,6 @@ translate russian bree_minami_samantha_propose_male_bb695139:
 # ch/harems/home/events/home_harem_common.rpy:2187
 translate russian bree_minami_samantha_propose_male_8ee84750:
     bree.say "Ох, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:2188
-translate russian bree_minami_samantha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2189
 translate russian bree_minami_samantha_propose_male_863a8021:
@@ -5601,7 +5425,7 @@ translate russian bree_minami_samantha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:2201
-translate russian bree_minami_samantha_propose_male_a563545f:
+translate russian bree_minami_samantha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:2202
@@ -5623,10 +5447,6 @@ translate russian bree_minami_samantha_propose_male_0f1f5d7a:
 # ch/harems/home/events/home_harem_common.rpy:2206
 translate russian bree_minami_samantha_propose_male_09cb3f79:
     bree.say "Прости, [lssb_common.hero_name()], я просто не могу."
-
-# ch/harems/home/events/home_harem_common.rpy:2207
-translate russian bree_minami_samantha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2208
 translate russian bree_minami_samantha_propose_male_8ce01c64:
@@ -5687,10 +5507,6 @@ translate russian bree_minami_samantha_propose_male_78cf2006:
 # ch/harems/home/events/home_harem_common.rpy:2225
 translate russian bree_minami_samantha_propose_male_eb23d63f:
     bree.say "Я хочу, [lssb_common.hero_name()]."
-
-# ch/harems/home/events/home_harem_common.rpy:2227
-translate russian bree_minami_samantha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2229
 translate russian bree_minami_samantha_propose_male_098d5419:
@@ -5848,20 +5664,12 @@ translate russian minami_samantha_sasha_propose_male_929380d1:
 translate russian minami_samantha_sasha_propose_male_0ea27362:
     sasha.say "Но да, я согласна!"
 
-# ch/harems/home/events/home_harem_common.rpy:2292
-translate russian minami_samantha_sasha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:2293
 translate russian minami_samantha_sasha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:2297
-translate russian minami_samantha_sasha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:2299
-translate russian minami_samantha_sasha_propose_male_c062a39d:
+translate russian minami_samantha_sasha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:2303
@@ -5901,7 +5709,7 @@ translate russian minami_samantha_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:2318
-translate russian minami_samantha_sasha_propose_male_227f57cb:
+translate russian minami_samantha_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:2319
@@ -5919,10 +5727,6 @@ translate russian minami_samantha_sasha_propose_male_bb695139:
 # ch/harems/home/events/home_harem_common.rpy:2322
 translate russian minami_samantha_sasha_propose_male_718fc05f:
     sasha.say "Серьёзно, ты оглох, что ли?"
-
-# ch/harems/home/events/home_harem_common.rpy:2323
-translate russian minami_samantha_sasha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2324
 translate russian minami_samantha_sasha_propose_male_863a8021:
@@ -5969,7 +5773,7 @@ translate russian minami_samantha_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:2336
-translate russian minami_samantha_sasha_propose_male_a563545f:
+translate russian minami_samantha_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:2337
@@ -5991,10 +5795,6 @@ translate russian minami_samantha_sasha_propose_male_0f1f5d7a:
 # ch/harems/home/events/home_harem_common.rpy:2341
 translate russian minami_samantha_sasha_propose_male_a7dac4dd:
     sasha.say "Я не создана для брака, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:2342
-translate russian minami_samantha_sasha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2343
 translate russian minami_samantha_sasha_propose_male_8ce01c64:
@@ -6055,10 +5855,6 @@ translate russian minami_samantha_sasha_propose_male_78cf2006:
 # ch/harems/home/events/home_harem_common.rpy:2360
 translate russian minami_samantha_sasha_propose_male_455b671a:
     sasha.say "Я хочу выйти за тебя!"
-
-# ch/harems/home/events/home_harem_common.rpy:2362
-translate russian minami_samantha_sasha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2364
 translate russian minami_samantha_sasha_propose_male_098d5419:
@@ -6269,7 +6065,7 @@ translate russian bree_samantha_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:2452
-translate russian bree_samantha_sasha_propose_male_227f57cb:
+translate russian bree_samantha_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:2453
@@ -6337,7 +6133,7 @@ translate russian bree_samantha_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:2470
-translate russian bree_samantha_sasha_propose_male_a563545f:
+translate russian bree_samantha_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:2471
@@ -6600,20 +6396,12 @@ translate russian bree_minami_sasha_propose_male_929380d1:
 translate russian bree_minami_sasha_propose_male_0ea27362:
     sasha.say "Но да, я согласна!"
 
-# ch/harems/home/events/home_harem_common.rpy:2571
-translate russian bree_minami_sasha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:2572
 translate russian bree_minami_sasha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:2576
-translate russian bree_minami_sasha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:2578
-translate russian bree_minami_sasha_propose_male_c062a39d:
+translate russian bree_minami_sasha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:2580
@@ -6629,7 +6417,7 @@ translate russian bree_minami_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:2584
-translate russian bree_minami_sasha_propose_male_227f57cb:
+translate russian bree_minami_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:2585
@@ -6651,10 +6439,6 @@ translate russian bree_minami_sasha_propose_male_8ee84750:
 # ch/harems/home/events/home_harem_common.rpy:2589
 translate russian bree_minami_sasha_propose_male_718fc05f:
     sasha.say "Серьёзно, ты оглох, что ли?"
-
-# ch/harems/home/events/home_harem_common.rpy:2590
-translate russian bree_minami_sasha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2591
 translate russian bree_minami_sasha_propose_male_b654f57d:
@@ -6697,7 +6481,7 @@ translate russian bree_minami_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:2602
-translate russian bree_minami_sasha_propose_male_a563545f:
+translate russian bree_minami_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:2603
@@ -6723,10 +6507,6 @@ translate russian bree_minami_sasha_propose_male_09cb3f79:
 # ch/harems/home/events/home_harem_common.rpy:2608
 translate russian bree_minami_sasha_propose_male_a7dac4dd:
     sasha.say "Я не создана для брака, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:2609
-translate russian bree_minami_sasha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2610
 translate russian bree_minami_sasha_propose_male_f9bc4df9:
@@ -6787,10 +6567,6 @@ translate russian bree_minami_sasha_propose_male_eb23d63f:
 # ch/harems/home/events/home_harem_common.rpy:2628
 translate russian bree_minami_sasha_propose_male_455b671a:
     sasha.say "Я хочу выйти за тебя!"
-
-# ch/harems/home/events/home_harem_common.rpy:2630
-translate russian bree_minami_sasha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2631
 translate russian bree_minami_sasha_propose_male_11666f8c:
@@ -6981,7 +6757,7 @@ translate russian lexi_samantha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:2705
-translate russian lexi_samantha_propose_male_227f57cb:
+translate russian lexi_samantha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:2706
@@ -7045,7 +6821,7 @@ translate russian lexi_samantha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:2722
-translate russian lexi_samantha_propose_male_a563545f:
+translate russian lexi_samantha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:2723
@@ -7268,20 +7044,12 @@ translate russian lexi_minami_propose_male_2762a534:
 translate russian lexi_minami_propose_male_05917d0c:
     "Ответ не заставляет себя ждать..."
 
-# ch/harems/home/events/home_harem_common.rpy:2797
-translate russian lexi_minami_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:2798
 translate russian lexi_minami_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:2802
-translate russian lexi_minami_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:2804
-translate russian lexi_minami_propose_male_c062a39d:
+translate russian lexi_minami_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:2808
@@ -7313,7 +7081,7 @@ translate russian lexi_minami_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:2821
-translate russian lexi_minami_propose_male_227f57cb:
+translate russian lexi_minami_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:2822
@@ -7327,10 +7095,6 @@ translate russian lexi_minami_propose_male_34836f21:
 # ch/harems/home/events/home_harem_common.rpy:2824
 translate russian lexi_minami_propose_male_bb695139:
     "Девушки качают головами и закатывают глаза."
-
-# ch/harems/home/events/home_harem_common.rpy:2825
-translate russian lexi_minami_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2826
 translate russian lexi_minami_propose_male_729d3902:
@@ -7377,7 +7141,7 @@ translate russian lexi_minami_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:2838
-translate russian lexi_minami_propose_male_a563545f:
+translate russian lexi_minami_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:2839
@@ -7395,10 +7159,6 @@ translate russian lexi_minami_propose_male_bea9b5af:
 # ch/harems/home/events/home_harem_common.rpy:2842
 translate russian lexi_minami_propose_male_0f1f5d7a:
     "Наверное, хоть это должно меня немного утешить!"
-
-# ch/harems/home/events/home_harem_common.rpy:2843
-translate russian lexi_minami_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2844
 translate russian lexi_minami_propose_male_8586b455:
@@ -7455,10 +7215,6 @@ translate russian lexi_minami_propose_male_742e811c:
 # ch/harems/home/events/home_harem_common.rpy:2859
 translate russian lexi_minami_propose_male_78cf2006:
     "А может, хотят отделиться от тех, кто отказался."
-
-# ch/harems/home/events/home_harem_common.rpy:2861
-translate russian lexi_minami_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:2863
 translate russian lexi_minami_propose_male_e9e61615:
@@ -7645,7 +7401,7 @@ translate russian bree_lexi_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:2935
-translate russian bree_lexi_propose_male_227f57cb:
+translate russian bree_lexi_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:2936
@@ -7709,7 +7465,7 @@ translate russian bree_lexi_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:2952
-translate russian bree_lexi_propose_male_a563545f:
+translate russian bree_lexi_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:2953
@@ -7977,7 +7733,7 @@ translate russian lexi_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:3049
-translate russian lexi_sasha_propose_male_227f57cb:
+translate russian lexi_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:3050
@@ -8041,7 +7797,7 @@ translate russian lexi_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:3066
-translate russian lexi_sasha_propose_male_a563545f:
+translate russian lexi_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:3067
@@ -8264,20 +8020,12 @@ translate russian minami_samantha_propose_male_2762a534:
 translate russian minami_samantha_propose_male_05917d0c:
     "Ответ не заставляет себя ждать..."
 
-# ch/harems/home/events/home_harem_common.rpy:3139
-translate russian minami_samantha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:3140
 translate russian minami_samantha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:3144
-translate russian minami_samantha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:3146
-translate russian minami_samantha_propose_male_c062a39d:
+translate russian minami_samantha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:3150
@@ -8317,7 +8065,7 @@ translate russian minami_samantha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:3165
-translate russian minami_samantha_propose_male_227f57cb:
+translate russian minami_samantha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:3166
@@ -8331,10 +8079,6 @@ translate russian minami_samantha_propose_male_34836f21:
 # ch/harems/home/events/home_harem_common.rpy:3168
 translate russian minami_samantha_propose_male_bb695139:
     "Девушки качают головами и закатывают глаза."
-
-# ch/harems/home/events/home_harem_common.rpy:3169
-translate russian minami_samantha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:3170
 translate russian minami_samantha_propose_male_863a8021:
@@ -8381,7 +8125,7 @@ translate russian minami_samantha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:3182
-translate russian minami_samantha_propose_male_a563545f:
+translate russian minami_samantha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:3183
@@ -8399,10 +8143,6 @@ translate russian minami_samantha_propose_male_bea9b5af:
 # ch/harems/home/events/home_harem_common.rpy:3186
 translate russian minami_samantha_propose_male_0f1f5d7a:
     "Наверное, хоть это должно меня немного утешить!"
-
-# ch/harems/home/events/home_harem_common.rpy:3187
-translate russian minami_samantha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:3188
 translate russian minami_samantha_propose_male_8ce01c64:
@@ -8459,10 +8199,6 @@ translate russian minami_samantha_propose_male_742e811c:
 # ch/harems/home/events/home_harem_common.rpy:3203
 translate russian minami_samantha_propose_male_78cf2006:
     "А может, хотят отделиться от тех, кто отказался."
-
-# ch/harems/home/events/home_harem_common.rpy:3205
-translate russian minami_samantha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:3207
 translate russian minami_samantha_propose_male_098d5419:
@@ -8657,7 +8393,7 @@ translate russian bree_samantha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:3281
-translate russian bree_samantha_propose_male_227f57cb:
+translate russian bree_samantha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:3282
@@ -8721,7 +8457,7 @@ translate russian bree_samantha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:3298
-translate russian bree_samantha_propose_male_a563545f:
+translate russian bree_samantha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:3299
@@ -8997,7 +8733,7 @@ translate russian samantha_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:3398
-translate russian samantha_sasha_propose_male_227f57cb:
+translate russian samantha_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:3399
@@ -9061,7 +8797,7 @@ translate russian samantha_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:3415
-translate russian samantha_sasha_propose_male_a563545f:
+translate russian samantha_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:3416
@@ -9300,20 +9036,12 @@ translate russian bree_minami_propose_male_98a82c66:
 translate russian bree_minami_propose_male_544c560d:
     bree.say "Конечно выйду!"
 
-# ch/harems/home/events/home_harem_common.rpy:3502
-translate russian bree_minami_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:3503
 translate russian bree_minami_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:3507
-translate russian bree_minami_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:3509
-translate russian bree_minami_propose_male_c062a39d:
+translate russian bree_minami_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:3511
@@ -9329,7 +9057,7 @@ translate russian bree_minami_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:3515
-translate russian bree_minami_propose_male_227f57cb:
+translate russian bree_minami_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:3516
@@ -9347,10 +9075,6 @@ translate russian bree_minami_propose_male_bb695139:
 # ch/harems/home/events/home_harem_common.rpy:3519
 translate russian bree_minami_propose_male_8ee84750:
     bree.say "Ох, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:3520
-translate russian bree_minami_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:3521
 translate russian bree_minami_propose_male_b654f57d:
@@ -9393,7 +9117,7 @@ translate russian bree_minami_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:3532
-translate russian bree_minami_propose_male_a563545f:
+translate russian bree_minami_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:3533
@@ -9415,10 +9139,6 @@ translate russian bree_minami_propose_male_0f1f5d7a:
 # ch/harems/home/events/home_harem_common.rpy:3537
 translate russian bree_minami_propose_male_09cb3f79:
     bree.say "Прости, [lssb_common.hero_name()], я просто не могу."
-
-# ch/harems/home/events/home_harem_common.rpy:3538
-translate russian bree_minami_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:3540
 translate russian bree_minami_propose_male_f9bc4df9:
@@ -9475,10 +9195,6 @@ translate russian bree_minami_propose_male_78cf2006:
 # ch/harems/home/events/home_harem_common.rpy:3556
 translate russian bree_minami_propose_male_eb23d63f:
     bree.say "Я хочу, [lssb_common.hero_name()]."
-
-# ch/harems/home/events/home_harem_common.rpy:3559
-translate russian bree_minami_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:3561
 translate russian bree_minami_propose_male_11666f8c:
@@ -9632,20 +9348,12 @@ translate russian minami_sasha_propose_male_929380d1:
 translate russian minami_sasha_propose_male_0ea27362:
     sasha.say "Но да, я согласна!"
 
-# ch/harems/home/events/home_harem_common.rpy:3620
-translate russian minami_sasha_propose_male_e0013cb0:
-    minami.say "Братик, ты что, спятил?"
-
 # ch/harems/home/events/home_harem_common.rpy:3621
 translate russian minami_sasha_propose_male_0d916f0d:
     minami.say "Я не могу выйти замуж за всех!"
 
-# ch/harems/home/events/home_harem_common.rpy:3625
-translate russian minami_sasha_propose_male_96febd99:
-    minami.say "Братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_common.rpy:3627
-translate russian minami_sasha_propose_male_c062a39d:
+translate russian minami_sasha_propose_male_209772df:
     minami.say "Да... да... да!"
 
 # ch/harems/home/events/home_harem_common.rpy:3629
@@ -9661,7 +9369,7 @@ translate russian minami_sasha_propose_male_425a8e8a:
     "Мне даже требуется время, чтобы осознать сказанное."
 
 # ch/harems/home/events/home_harem_common.rpy:3633
-translate russian minami_sasha_propose_male_227f57cb:
+translate russian minami_sasha_propose_male_3e258ca4:
     mike.say "В... вы все сказали «да»?"
 
 # ch/harems/home/events/home_harem_common.rpy:3634
@@ -9679,10 +9387,6 @@ translate russian minami_sasha_propose_male_bb695139:
 # ch/harems/home/events/home_harem_common.rpy:3638
 translate russian minami_sasha_propose_male_718fc05f:
     sasha.say "Серьёзно, ты оглох, что ли?"
-
-# ch/harems/home/events/home_harem_common.rpy:3639
-translate russian minami_sasha_propose_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:3640
 translate russian minami_sasha_propose_male_b654f57d:
@@ -9725,7 +9429,7 @@ translate russian minami_sasha_propose_male_f689953d:
     "Не могу поверить, что ВСЕ отказались!"
 
 # ch/harems/home/events/home_harem_common.rpy:3651
-translate russian minami_sasha_propose_male_a563545f:
+translate russian minami_sasha_propose_male_338f3e45:
     mike.say "В... вы все сказали «нет»..."
 
 # ch/harems/home/events/home_harem_common.rpy:3652
@@ -9747,10 +9451,6 @@ translate russian minami_sasha_propose_male_0f1f5d7a:
 # ch/harems/home/events/home_harem_common.rpy:3657
 translate russian minami_sasha_propose_male_a7dac4dd:
     sasha.say "Я не создана для брака, [lssb_common.hero_name()]!"
-
-# ch/harems/home/events/home_harem_common.rpy:3658
-translate russian minami_sasha_propose_male_f959fe9b:
-    minami.say "Мне ещё рано замуж, братик!"
 
 # ch/harems/home/events/home_harem_common.rpy:3659
 translate russian minami_sasha_propose_male_f9bc4df9:
@@ -9808,10 +9508,6 @@ translate russian minami_sasha_propose_male_78cf2006:
 translate russian minami_sasha_propose_male_455b671a:
     sasha.say "Я хочу выйти за тебя!"
 
-# ch/harems/home/events/home_harem_common.rpy:3678
-translate russian minami_sasha_propose_male_1b8f05f3:
-    minami.say "Я с вами, братик!"
-
 # ch/harems/home/events/home_harem_common.rpy:3680
 translate russian minami_sasha_propose_male_11666f8c:
     "Я невольно улыбаюсь, когда девушки подходят."
@@ -9856,10 +9552,6 @@ translate russian bree_sasha_propose_male_6b211915:
 translate russian bree_sasha_propose_male_a222f94a:
     "Выбрав момент, опускаюсь перед обеими на одно колено и достаю по кольцу в каждой руке."
 
-# ch/harems/home/events/home_harem_common.rpy:3697
-translate russian bree_sasha_propose_male_338c7ae7:
-    mike.say "[lssb_homecommon.bree_name()]... Саша... вы выйдете за меня?"
-
 # ch/harems/home/events/home_harem_common.rpy:3698
 translate russian bree_sasha_propose_male_7b6dd854:
     mike.say "И, наверное, друг за друга?"
@@ -9881,7 +9573,7 @@ translate russian bree_sasha_propose_male_1e3e6601:
     sasha.say "Серьёзно, это шутка? Тебя кто-то подговорил?"
 
 # ch/harems/home/events/home_harem_common.rpy:3709
-translate russian bree_sasha_propose_male_5e7e878d:
+translate russian bree_sasha_propose_male_8cbb0672:
     mike.say "Я... эм... я..."
 
 # ch/harems/home/events/home_harem_common.rpy:3711
@@ -9893,7 +9585,7 @@ translate russian bree_sasha_propose_male_262feddf:
     sasha.say "Конечно! Попомни мои слова: через год уже выйдет из моды!"
 
 # ch/harems/home/events/home_harem_common.rpy:3713
-translate russian bree_sasha_propose_male_0c66922b:
+translate russian bree_sasha_propose_male_1eeabb8d:
     mike.say "А... да... конечно. Но на миг вы почти поверили, правда?"
 
 # ch/harems/home/events/home_harem_common.rpy:3714
@@ -9921,7 +9613,7 @@ translate russian bree_sasha_propose_male_449f6aa2:
     bree.say "Какого чёрта, Саша? [lssb_common.hero_name()] и я вдруг стали недостаточно хороши для тебя?"
 
 # ch/harems/home/events/home_harem_common.rpy:3729
-translate russian bree_sasha_propose_male_0970fb80:
+translate russian bree_sasha_propose_male_6283df8d:
     sasha.say "А?.. Нет, совсем не в этом дело!"
 
 # ch/harems/home/events/home_harem_common.rpy:3730
@@ -9937,7 +9629,7 @@ translate russian bree_sasha_propose_male_fcdaa634:
     "Ну, двое из троих — уже неплохо."
 
 # ch/harems/home/events/home_harem_common.rpy:3738
-translate russian bree_sasha_propose_male_fd41177b:
+translate russian bree_sasha_propose_male_a03c4c8f:
     bree.say "Ой... ой, нет!"
 
 # ch/harems/home/events/home_harem_common.rpy:3740
@@ -9961,7 +9653,7 @@ translate russian bree_sasha_propose_male_2fbbf90e_1:
     sasha.say "Какого чёрта, [lssb_homecommon.bree_name()]? [lssb_common.hero_name()] и я вдруг стали недостаточно хороши для тебя?"
 
 # ch/harems/home/events/home_harem_common.rpy:3747
-translate russian bree_sasha_propose_male_61345c4b:
+translate russian bree_sasha_propose_male_9003d9d5:
     bree.say "Нет-нет... Я просто ещё не готова к таким обязательствам!"
 
 # ch/harems/home/events/home_harem_common.rpy:3748
@@ -10380,10 +10072,6 @@ translate russian home_harem_fuck_choices_da29da9c_1:
 translate russian home_harem_fuck_choices_41c1f7a9_16:
     mike.say "Было бы здорово."
 
-# ch/harems/home/events/home_harem_common.rpy:4175
-translate russian home_harem_fuck_choices_5847eb11:
-    mike.say "Прости, [lssb_homecommon.bree_name()], я хочу побыть с Сашей и Минами."
-
 # ch/harems/home/events/home_harem_common.rpy:4180
 translate russian home_harem_fuck_choices_5f191141:
     mike.say "Прости, Минами, пусть сейчас со мной побудут Саша и [lssb_homecommon.bree_name()]."
@@ -10403,10 +10091,6 @@ translate russian home_harem_fuck_choices_71b46d72:
 # ch/harems/home/events/home_harem_common.rpy:4199
 translate russian home_harem_fuck_choices_41c1f7a9_17:
     mike.say "Было бы здорово."
-
-# ch/harems/home/events/home_harem_common.rpy:4204
-translate russian home_harem_fuck_choices_76381578:
-    mike.say "Прости, [lssb_homecommon.bree_name()], я хочу побыть с Минами и Сашей."
 
 # ch/harems/home/events/home_harem_common.rpy:4209
 translate russian home_harem_fuck_choices_362f00fb:

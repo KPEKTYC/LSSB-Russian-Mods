@@ -60,10 +60,6 @@ translate russian jack_murder_talk_2ab6275e:
 translate russian jack_murder_talk_ba94d9cd:
     "Или ему неловко со мной видеться, пока воспоминания ещё свежи."
 
-# ch/jack/events.rpy:182
-translate russian jack_murder_talk_1323d40b:
-    "Зная Джека, скорее второе, чем первое."
-
 # ch/jack/events.rpy:184
 translate russian jack_murder_talk_64b93df6:
     "И когда он наконец приходит, довольно быстро подтверждает мои догадки."
@@ -589,7 +585,7 @@ translate russian jack_event_01_510293a0:
     jack.say "Как жизнь?"
 
 # ch/jack/events.rpy:349
-translate russian jack_event_01_d84b775e:
+translate russian jack_event_01_48dd8011:
     mike.say "А... Привет, Джек."
 
 # ch/jack/events.rpy:350
@@ -617,7 +613,7 @@ translate russian jack_event_01_05a2d28a:
     jack.say "Да это же идеальное место!"
 
 # ch/jack/events.rpy:357
-translate russian jack_event_01_7bce731e:
+translate russian jack_event_01_1582a997:
     mike.say "И... идеальное?"
 
 # ch/jack/events.rpy:358
@@ -657,7 +653,7 @@ translate russian jack_event_01_d7ba6b2a:
     jack.say "Кидать кубики прямо на бортике!"
 
 # ch/jack/events.rpy:368
-translate russian jack_event_01_7b2d0cf0:
+translate russian jack_event_01_7a7408c7:
     mike.say "Ну да... пожалуй."
 
 # ch/jack/events.rpy:369
@@ -736,10 +732,6 @@ translate russian jack_event_01_9984578e:
 translate russian jack_event_01_ba566e93:
     bree.say "Ваш разговор даже наверху слышно!"
 
-# ch/jack/events.rpy:390
-translate russian jack_event_01_dee88e04:
-    mike.say "Всё хорошо, [bree.name], не волнуйся."
-
 # ch/jack/events.rpy:391
 translate russian jack_event_01_83002f22:
     mike.say "Это Джек."
@@ -757,7 +749,7 @@ translate russian jack_event_01_18f53c5c:
     jack.say "Охренеть, чувак! Это твоя соседка?!"
 
 # ch/jack/events.rpy:398
-translate russian jack_event_01_4583608f:
+translate russian jack_event_01_ac85d58e:
     mike.say "Э-э... да, Джек."
 
 # ch/jack/events.rpy:399
@@ -799,10 +791,6 @@ translate russian jack_event_01_1e9a8017:
 # ch/jack/events.rpy:408
 translate russian jack_event_01_c07dc4c2:
     bree.say "На какой платформе?"
-
-# ch/jack/events.rpy:409
-translate russian jack_event_01_dba59240:
-    mike.say "Он про настольную ролевую игру, [bree.name]."
 
 # ch/jack/events.rpy:410
 translate russian jack_event_01_4c273b97:
@@ -917,7 +905,7 @@ translate russian jack_event_01_09bf717e:
     sasha.say "Только чтобы без всяких единорогов и радуг."
 
 # ch/jack/events.rpy:447
-translate russian jack_event_01_cc0667cc:
+translate russian jack_event_01_22bfa5c6:
     sasha.say "Бр-р... Меня от этой хрени тошнит!"
 
 # ch/jack/events.rpy:451
@@ -929,7 +917,7 @@ translate russian jack_event_01_a1fa865e:
     jack.say "Она называется «Демоны и полубоги»."
 
 # ch/jack/events.rpy:453
-translate russian jack_event_01_b5c3cbfd:
+translate russian jack_event_01_55a68d2a:
     sasha.say "Ну... Это уже интереснее."
 
 # ch/jack/events.rpy:454
@@ -949,7 +937,7 @@ translate russian jack_event_01_0d742a35:
     "Приходится ткнуть его локтем в бок."
 
 # ch/jack/events.rpy:458
-translate russian jack_event_01_eb1730a8:
+translate russian jack_event_01_28442e03:
     jack.say "Ой... я... я тебе позвоню!"
 
 # ch/jack/events.rpy:461
@@ -1001,11 +989,11 @@ translate russian jack_event_02_584cd0be:
     mike.say "Долго?"
 
 # ch/jack/events.rpy:477
-translate russian jack_event_02_34210195:
+translate russian jack_event_02_21e9fd57:
     mike.say "То есть... да, конечно."
 
 # ch/jack/events.rpy:478
-translate russian jack_event_02_17abb6ee:
+translate russian jack_event_02_ea4210e0:
     mike.say "Э-э... Напомни, о чём мы говорили?"
 
 # ch/jack/events.rpy:479
@@ -1021,7 +1009,7 @@ translate russian jack_event_02_dca9ea73:
     jack.say "Помнишь? Я ещё обещал провести игру для твоих горячих соседок."
 
 # ch/jack/events.rpy:482
-translate russian jack_event_02_bc49679e:
+translate russian jack_event_02_0394c524:
     mike.say "А... да, конечно."
 
 # ch/jack/events.rpy:483
@@ -1037,7 +1025,7 @@ translate russian jack_event_02_b4852b77:
     mike.say "И для меня. Ты же говорил, нужны трое?"
 
 # ch/jack/events.rpy:486
-translate russian jack_event_02_9a1230f6:
+translate russian jack_event_02_834a3a36:
     jack.say "Да-да... конечно!"
 
 # ch/jack/events.rpy:487
@@ -1065,7 +1053,7 @@ translate russian jack_event_02_c15eb647:
     mike.say "В этот раз хочется сыграть бардом или следопытом."
 
 # ch/jack/events.rpy:493
-translate russian jack_event_02_cc9da216:
+translate russian jack_event_02_4ebd03a0:
     jack.say "Э-э... А я уже сделал тебе паладина, чувак."
 
 # ch/jack/events.rpy:494
@@ -1073,7 +1061,7 @@ translate russian jack_event_02_0b5676b5:
     jack.say "Да и по сюжету очень нужно, чтобы ты играл именно им."
 
 # ch/jack/events.rpy:495
-translate russian jack_event_02_4f48235f:
+translate russian jack_event_02_e78e4287:
     mike.say "А... ну ладно, тебе виднее."
 
 # ch/jack/events.rpy:496
@@ -1147,10 +1135,6 @@ translate russian jack_event_03_8ce24cd0:
 # ch/jack/events.rpy:522
 translate russian jack_event_03_7d10276b:
     jack.say "[hero.name], останови её! Это мои заметки Мастера!"
-
-# ch/jack/events.rpy:523
-translate russian jack_event_03_b4fca934:
-    mike.say "Эй, [bree.name], не подглядывай!"
 
 # ch/jack/events.rpy:525
 translate russian jack_event_03_b5b2747a:
@@ -1301,7 +1285,7 @@ translate russian jack_event_03_4a0e7987:
     jack.say "Священный воин, посвятивший себя защите всего доброго и чистого."
 
 # ch/jack/events.rpy:568
-translate russian jack_event_03_37c02808:
+translate russian jack_event_03_a758a261:
     sasha.say "Ох... Не повезло тебе, [hero.name]!"
 
 # ch/jack/events.rpy:569
@@ -1337,7 +1321,7 @@ translate russian jack_event_03_eba9b40b:
     jack.say "Вы втроём оказываетесь в общем зале местной таверны."
 
 # ch/jack/events.rpy:580
-translate russian jack_event_03_e0758d85:
+translate russian jack_event_03_7b2201bd:
     bree.say "Эм... А что такое таверна?"
 
 # ch/jack/events.rpy:581
@@ -1377,7 +1361,7 @@ translate russian jack_event_03_0bb7c758:
     sasha.say "Какого чёрта?"
 
 # ch/jack/events.rpy:590
-translate russian jack_event_03_3ce38a42:
+translate russian jack_event_03_842b3618:
     bree.say "Эм... Это разве не расизм?!"
 
 # ch/jack/events.rpy:593
@@ -1504,10 +1488,6 @@ translate russian jack_event_03_3ddea859:
 translate russian jack_event_03_e6543c08:
     sasha.say "С вами двумя никакого веселья!"
 
-# ch/jack/events.rpy:636
-translate russian jack_event_03_f2298aa9:
-    mike.say "Саша права, [bree.name]."
-
 # ch/jack/events.rpy:637
 translate russian jack_event_03_fe8207f0:
     mike.say "Нам нужны деньги на снаряжение и всё такое."
@@ -1616,10 +1596,6 @@ translate russian jack_event_03_7ce3348f:
 translate russian jack_event_03_428af437:
     sasha.say "СКУКОТА!"
 
-# ch/jack/events.rpy:673
-translate russian jack_event_03_55d12f57:
-    mike.say "Надо взять зелье огненных шаров, [bree.name]."
-
 # ch/jack/events.rpy:674
 translate russian jack_event_03_6e0931f7:
     mike.say "Лечить должна жрица. Она вроде нашего медика."
@@ -1633,7 +1609,7 @@ translate russian jack_event_03_5d96a545:
     sasha.say "Ага, [bree.name], знай свою роль!"
 
 # ch/jack/events.rpy:678
-translate russian jack_event_03_dcee3f39:
+translate russian jack_event_03_06f130d6:
     bree.say "Я... прости, [hero.name]."
 
 # ch/jack/events.rpy:679
@@ -1664,10 +1640,6 @@ translate russian jack_event_03_958ae672:
 translate russian jack_event_03_860a3ddf:
     jack.say "А?"
 
-# ch/jack/events.rpy:690
-translate russian jack_event_03_17dab93c:
-    mike.say "Почему, [bree.name]?"
-
 # ch/jack/events.rpy:691
 translate russian jack_event_03_1a2b51fa:
     "[bree.name] глубоко вздыхает, прежде чем ответить."
@@ -1683,10 +1655,6 @@ translate russian jack_event_03_e4880519:
 # ch/jack/events.rpy:694
 translate russian jack_event_03_86d07102:
     mike.say "А..."
-
-# ch/jack/events.rpy:695
-translate russian jack_event_03_457cf6b4:
-    mike.say "Прости, [bree.name]."
 
 # ch/jack/events.rpy:696
 translate russian jack_event_03_4026fbc5_1:
@@ -1804,10 +1772,6 @@ translate russian jack_event_03_8b6acf02:
 translate russian jack_event_03_316c8da2:
     mike.say "Правда?!"
 
-# ch/jack/events.rpy:728
-translate russian jack_event_03_bef91a50:
-    mike.say "Здорово, [bree.name]!"
-
 # ch/jack/events.rpy:729
 translate russian jack_event_03_41bf32ed:
     sasha.say "Да, было прикольно."
@@ -1860,10 +1824,6 @@ translate russian jack_event_03_9a54c0e5:
 translate russian jack_event_03_ff74e279:
     mike.say "Для новичков вполне хорошо."
 
-# ch/jack/events.rpy:748
-translate russian jack_event_03_ec4598fc:
-    jack.say "Значит, увидимся в следующие выходные, в то же время?"
-
 # ch/jack/events.rpy:749
 translate russian jack_event_03_b6953082:
     mike.say "Конечно, Мастер!"
@@ -1883,10 +1843,6 @@ translate russian jack_event_04_edfd090e:
 # ch/jack/events.rpy:764
 translate russian jack_event_04_46959dfc:
     bree.say "Который час, [hero.name]?"
-
-# ch/jack/events.rpy:765
-translate russian jack_event_04_4b693c09:
-    mike.say "Эм... Минут на пять позже, чем когда ты спрашивала в прошлый раз, [bree.name]!"
 
 # ch/jack/events.rpy:768
 translate russian jack_event_04_4026fbc5:
@@ -1992,10 +1948,6 @@ translate russian jack_event_04_5ebea1f6:
 translate russian jack_event_04_e8056f87:
     mike.say "Ха!"
 
-# ch/jack/events.rpy:801
-translate russian jack_event_04_eda887f1:
-    mike.say "Так и знал, что ты выберешь розовые, [bree.name]!"
-
 # ch/jack/events.rpy:802
 translate russian jack_event_04_24278a5b:
     bree.say "А?"
@@ -2065,7 +2017,7 @@ translate russian jack_event_04_7e8d7875:
     mike.say "Мрачная колдунья с душевными терзаниями и загадочным прошлым."
 
 # ch/jack/events.rpy:822
-translate russian jack_event_04_7868d659:
+translate russian jack_event_04_072c6c9b:
     sasha.say "Да... Да, мне нравится!"
 
 # ch/jack/events.rpy:823
@@ -2105,7 +2057,7 @@ translate russian jack_event_04_88083bbb:
     "Тащу Джека через дом, даже не давая ему отдышаться."
 
 # ch/jack/events.rpy:839
-translate russian jack_event_04_05a641cf:
+translate russian jack_event_04_5dcc2d1a:
     jack.say "Чт... Что случилось?!"
 
 # ch/jack/events.rpy:840
@@ -2129,7 +2081,7 @@ translate russian jack_event_04_c8513d09:
     jack.say "Кто готов к горячим и бурным ролевым играм?!"
 
 # ch/jack/events.rpy:850
-translate russian jack_event_04_ddc92f7a:
+translate russian jack_event_04_6f579572:
     bree.say "О-о, я! Я готова!"
 
 # ch/jack/events.rpy:852
@@ -2165,7 +2117,7 @@ translate russian jack_event_04_0d087b5c:
     sasha.say "Надерём задницы этим гоблинским ублюдкам!"
 
 # ch/jack/events.rpy:861
-translate russian jack_event_04_e6371bd6:
+translate russian jack_event_04_3eef7b54:
     mike.say "Эм... А как же я?"
 
 # ch/jack/events.rpy:862
@@ -2173,7 +2125,7 @@ translate russian jack_event_04_f3d79c3d:
     jack.say "Что?!"
 
 # ch/jack/events.rpy:863
-translate russian jack_event_04_c9bf02eb:
+translate russian jack_event_04_f5ab5107:
     jack.say "А, да... И паладин [hero.name] тоже увязался с ними."
 
 # ch/jack/events.rpy:864
@@ -2197,7 +2149,7 @@ translate russian jack_event_04_2bcbc7e5:
     "Мы все одновременно поднимаем головы: в комнату влетает Минами."
 
 # ch/jack/events.rpy:870
-translate russian jack_event_04_0cf1df41:
+translate russian jack_event_04_322a06bd:
     minami.say "Кубики... карандаши и бумага... потный задрот..."
 
 # ch/jack/events.rpy:871
@@ -2361,11 +2313,11 @@ translate russian jack_event_04_35234f44:
     sasha.say "Эй, погоди! Почему ей больше, чем нам?"
 
 # ch/jack/events.rpy:919
-translate russian jack_event_04_2710b0bf:
+translate russian jack_event_04_a454bbbe:
     jack.say "Э-э... ну..."
 
 # ch/jack/events.rpy:920
-translate russian jack_event_04_bd9ab961:
+translate russian jack_event_04_58af2fa3:
     jack.say "За... за отыгрыш персонажа! Вот!"
 
 # ch/jack/events.rpy:921
@@ -2409,11 +2361,11 @@ translate russian jack_event_04_e2fe0902:
     bree.say "Нечестно! Почему ей больше, чем нам?"
 
 # ch/jack/events.rpy:934
-translate russian jack_event_04_2710b0bf_1:
+translate russian jack_event_04_a454bbbe_1:
     jack.say "Э-э... ну..."
 
 # ch/jack/events.rpy:935
-translate russian jack_event_04_bd9ab961_1:
+translate russian jack_event_04_58af2fa3_1:
     jack.say "За... за отыгрыш персонажа! Вот!"
 
 # ch/jack/events.rpy:936
@@ -2492,10 +2444,6 @@ translate russian jack_event_04_fc43633b:
 translate russian jack_event_04_5f136d92:
     "А, вот к чему он клонит!"
 
-# ch/jack/events.rpy:969
-translate russian jack_event_04_243b8063:
-    mike.say "Э-э, [bree.name]..."
-
 # ch/jack/events.rpy:970
 translate russian jack_event_04_9c62ca79:
     mike.say "Можно мне эту ночь поспать с тобой?"
@@ -2560,20 +2508,16 @@ translate russian jack_event_04_9c62ca79_2:
 translate russian jack_event_04_3153398a:
     "Минами так и сияет от моего вопроса."
 
-# ch/jack/events.rpy:994
-translate russian jack_event_04_9b5ef10b:
-    minami.say "Мур-р... Конечно, братик..."
-
 # ch/jack/events.rpy:995
 translate russian jack_event_04_9530ca30:
     minami.say "Ой! То есть конечно, господин паладин!"
 
 # ch/jack/events.rpy:996
-translate russian jack_event_04_6642c905:
+translate russian jack_event_04_e04586b3:
     minami.say "Мур-р... Коготки у меня острые, зато шёрстка мягкая и тёплая!"
 
 # ch/jack/events.rpy:997
-translate russian jack_event_04_6a5f8bf7:
+translate russian jack_event_04_92ca3706:
     minami.say "Мур-р... И если захочешь поиграть с моим хвостиком, я никому не скажу..."
 
 # ch/jack/events.rpy:998
@@ -2617,7 +2561,7 @@ translate russian jack_event_04_f6251cb2:
     "Он не ожидал, что его тщательно продуманный план так легко сорвётся!"
 
 # ch/jack/events.rpy:1013
-translate russian jack_event_04_86dc3b93:
+translate russian jack_event_04_4d672e46:
     jack.say "Э-э... Будет ОЧЕНЬ холодно, чувак!"
 
 # ch/jack/events.rpy:1014
@@ -2673,7 +2617,7 @@ translate russian jack_event_04_2d4a0c71:
     sasha.say "Да у тебя целый спальный мешок!"
 
 # ch/jack/events.rpy:1030
-translate russian jack_event_04_c93ae848:
+translate russian jack_event_04_0ff95bb7:
     minami.say "Ну-у... Но я же буду совсем одна!"
 
 # ch/jack/events.rpy:1031
@@ -2697,7 +2641,7 @@ translate russian jack_event_04_5b249d78:
     "И мне от этого становится совсем не по себе!"
 
 # ch/jack/events.rpy:1042
-translate russian jack_event_04_1a817d1c:
+translate russian jack_event_04_01fa1137:
     mike.say "Э-э... Может, на сегодня закончим?"
 
 # ch/jack/events.rpy:1043
@@ -2705,11 +2649,11 @@ translate russian jack_event_04_afa5a4da:
     mike.say "Я только что вспомнил: мне мама должна позвонить!"
 
 # ch/jack/events.rpy:1046
-translate russian jack_event_04_f2aefe7e:
+translate russian jack_event_04_f148b2d4:
     minami.say "А?.. Мне она ничего об этом не..."
 
 # ch/jack/events.rpy:1047
-translate russian jack_event_04_c44ae8bf:
+translate russian jack_event_04_d77b752c:
     minami.say "М-м-м... м-м... м-м..."
 
 # ch/jack/events.rpy:1048
@@ -2743,10 +2687,6 @@ translate russian jack_event_04_0827f26a:
 # ch/jack/events.rpy:1059
 translate russian jack_event_04_860a3ddf:
     jack.say "А?"
-
-# ch/jack/events.rpy:1060
-translate russian jack_event_04_96cad989:
-    mike.say "Что такое, [bree.name]?"
 
 # ch/jack/events.rpy:1061
 translate russian jack_event_04_8b92af85:
@@ -2813,7 +2753,7 @@ translate russian jack_event_04_601f37f6:
     sasha.say "И я хочу узнать, на что способны мои заклинания!"
 
 # ch/jack/events.rpy:1083
-translate russian jack_event_04_bd1e80ed:
+translate russian jack_event_04_aafaf501:
     minami.say "Мур-р... И про милую девушку-кошку не забывайте!"
 
 # ch/jack/events.rpy:1084
@@ -2885,7 +2825,7 @@ translate russian jack_event_05_a1eaea56:
     "И вижу нечто, похожее на ходячую гору закусок!"
 
 # ch/jack/events.rpy:1121
-translate russian jack_event_05_32d94a8f:
+translate russian jack_event_05_5eb1b21e:
     jack.say "П... привет, приятель!"
 
 # ch/jack/events.rpy:1122
@@ -2984,12 +2924,8 @@ translate russian jack_event_05_1deaeaa8:
 translate russian jack_event_05_d2bb0aa2:
     "Мы оба тут же опускаем руки, не в силах скрыть смущение."
 
-# ch/jack/events.rpy:1155
-translate russian jack_event_05_bd5265aa:
-    mike.say "Именно это мы и делаем, [bree.name]!"
-
 # ch/jack/events.rpy:1157
-translate russian jack_event_05_bd6c3d0e:
+translate russian jack_event_05_a68a4274:
     jack.say "Д... да!"
 
 # ch/jack/events.rpy:1158
@@ -3073,7 +3009,7 @@ translate russian jack_event_05_07fbcc05:
     jack.say "В смысле трусики и лифчики?!"
 
 # ch/jack/events.rpy:1186
-translate russian jack_event_05_48af136a:
+translate russian jack_event_05_45151906:
     mike.say "Да... нет... то есть..."
 
 # ch/jack/events.rpy:1187
@@ -3213,7 +3149,7 @@ translate russian jack_event_05_2ea292d0:
     mike.say "Во что теперь поиграем?"
 
 # ch/jack/events.rpy:1237
-translate russian jack_event_05_7e9850b8:
+translate russian jack_event_05_0e8a8481:
     jack.say "Ох... Дай подумать..."
 
 # ch/jack/events.rpy:1238
@@ -3241,7 +3177,7 @@ translate russian jack_event_05_9b68b01e:
     bree.say "Саша обожает эту игру!"
 
 # ch/jack/events.rpy:1247
-translate russian jack_event_05_7f786711:
+translate russian jack_event_05_1cc2a1c6:
     bree.say "САША! САША!"
 
 # ch/jack/events.rpy:1249
@@ -3409,11 +3345,11 @@ translate russian jack_event_05_28694f3f:
     "Но она словно специально создана, чтобы такие парни, как он, превращались в беспомощную лужицу!"
 
 # ch/jack/events.rpy:1312
-translate russian jack_event_05_f5666be6:
+translate russian jack_event_05_7fc015a0:
     jack.say "П... привет, Минами!"
 
 # ch/jack/events.rpy:1313
-translate russian jack_event_05_fddc7092:
+translate russian jack_event_05_3aae181d:
     minami.say "О... Привет, Джек!"
 
 # ch/jack/events.rpy:1315
@@ -3433,7 +3369,7 @@ translate russian jack_event_05_66bc617e:
     jack.say "Для тебя всё что угодно..."
 
 # ch/jack/events.rpy:1319
-translate russian jack_event_05_5ad30e35:
+translate russian jack_event_05_bf254265:
     jack.say "Я... то есть да, без проблем!"
 
 # ch/jack/events.rpy:1320
@@ -3449,7 +3385,7 @@ translate russian jack_event_05_860a3ddf:
     jack.say "А?"
 
 # ch/jack/events.rpy:1323
-translate russian jack_event_05_03aafcac:
+translate russian jack_event_05_3de7deee:
     jack.say "Ах... да..."
 
 # ch/jack/events.rpy:1324
@@ -3525,7 +3461,7 @@ translate russian jack_event_05_76fc982d:
     "Когда всё заканчивается, Джек выглядит ещё более потрясённым."
 
 # ch/jack/events.rpy:1353
-translate russian jack_event_05_0f3728b3:
+translate russian jack_event_05_be946dca:
     mike.say "Эм... да..."
 
 # ch/jack/events.rpy:1354
@@ -3589,7 +3525,7 @@ translate russian jack_event_05_bc51927d:
     "Выбор ей тоже нравится: она кивает, когда мы начинаем играть."
 
 # ch/jack/events.rpy:1378
-translate russian jack_event_05_faae48c0:
+translate russian jack_event_05_2e65d92f:
     lexi.say "О да... Я выросла в таком районе!"
 
 # ch/jack/events.rpy:1379
@@ -3725,7 +3661,7 @@ translate russian jack_event_05_6d73475b:
     mike.say "Оставайся, посмотри, как мы играем друг с другом..."
 
 # ch/jack/events.rpy:1428
-translate russian jack_event_05_952e8d10:
+translate russian jack_event_05_5fd1497e:
     mike.say "Я... то есть в видеоигры!"
 
 # ch/jack/events.rpy:1430
@@ -3841,7 +3777,7 @@ translate russian jack_event_05_3e7e5e4c:
     jack.say "Если не скажешь правду..."
 
 # ch/jack/events.rpy:1472
-translate russian jack_event_05_88dc8b06:
+translate russian jack_event_05_f66ba38c:
     jack.say "Тогда... тогда я сам у них спрошу!"
 
 # ch/jack/events.rpy:1473
@@ -3933,7 +3869,7 @@ translate russian jack_event_05_0d669b3f:
     "Но и отказываться от отношений с соседками тоже не хочу."
 
 # ch/jack/events.rpy:1502
-translate russian jack_event_05_5984a93b:
+translate russian jack_event_05_c59b980b:
     "Ох... Придётся как следует подумать."
 
 # ch/jack/events.rpy:1507
@@ -4137,7 +4073,7 @@ translate russian jack_nude_beach_50cc26fc:
     jack.say "Ещё как будет!"
 
 # ch/jack/events.rpy:1559
-translate russian jack_nude_beach_30da86aa:
+translate russian jack_nude_beach_e65589f5:
     mike.say "Вау... Просто вау!"
 
 # ch/jack/events.rpy:1560

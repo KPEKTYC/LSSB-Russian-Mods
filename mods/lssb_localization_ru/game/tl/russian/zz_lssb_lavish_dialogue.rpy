@@ -433,7 +433,7 @@ translate russian lavish_propose_male_e22cadd7:
     lavish.say "Но ты же знаешь, что я не могу выйти за тебя!"
 
 # ch/lavish/base.rpy:246
-translate russian lavish_propose_male_0ee4466b:
+translate russian lavish_propose_male_3350e178:
     mike.say "Я... знаю?"
 
 # ch/lavish/base.rpy:248
@@ -457,7 +457,7 @@ translate russian lavish_propose_male_b31a3d8d:
     lavish.say "Она полностью изменит намеченный мной карьерный путь!"
 
 # ch/lavish/base.rpy:254
-translate russian lavish_propose_male_64f96946:
+translate russian lavish_propose_male_30e624e7:
     mike.say "П... правда?"
 
 # ch/lavish/base.rpy:255
@@ -561,7 +561,7 @@ translate russian lavish_propose_male_b2cb718b:
     "Вскакиваю на ноги и начинаю надевать кольцо Лавиш на палец."
 
 # ch/lavish/base.rpy:285
-translate russian lavish_propose_male_4af209a1:
+translate russian lavish_propose_male_6752fd08:
     mike.say "Прости... прости..."
 
 # ch/lavish/base.rpy:286
@@ -605,7 +605,7 @@ translate russian lavish_propose_male_f2c5197f:
     "Но затем качает головой."
 
 # ch/lavish/base.rpy:299
-translate russian lavish_propose_male_a71f7682:
+translate russian lavish_propose_male_540ab470:
     lavish.say "Я... я тоже так думала."
 
 # ch/lavish/base.rpy:300
@@ -789,7 +789,7 @@ translate russian lavish_good_sweet_talk_male_cb993963:
     mike.say "Но в спальне — просто дикий зверь!"
 
 # ch/lavish/chat.rpy:124
-translate russian lavish_good_sweet_talk_male_d3afeda0:
+translate russian lavish_good_sweet_talk_male_b31a99a8:
     lavish.say "Тс-с... тебя могут услышать!"
 
 # ch/lavish/chat.rpy:125
@@ -841,7 +841,7 @@ translate russian lavish_bad_sweet_talk_male_68a27ce1:
     lavish.say "Вы не представляете, как трудно быть женщиной в мужском мире!"
 
 # ch/lavish/chat.rpy:147
-translate russian lavish_bad_sweet_talk_male_f38d1478:
+translate russian lavish_bad_sweet_talk_male_4da34107:
     mike.say "Ох... может, забудем, что я это сказал?"
 
 # ch/lavish/condom.rpy:4
@@ -993,7 +993,7 @@ translate russian lavish_date_intro_halloween_male_89c9fa0e:
     mike.say "Я хотел спросить, не хочешь ли ты нарядиться на Хэллоуин."
 
 # ch/lavish/date.rpy:13
-translate russian lavish_date_intro_halloween_male_6e754114:
+translate russian lavish_date_intro_halloween_male_d4c902aa:
     mike.say "Но теперь, увидев тебя в этом... ого!"
 
 # ch/lavish/date.rpy:14
@@ -1029,7 +1029,7 @@ translate russian lavish_date_intro_christmas_male_7656d2a2:
     "Лавиш мило улыбается, но я вижу, как она устала."
 
 # ch/lavish/date.rpy:25
-translate russian lavish_date_intro_christmas_male_def905c0:
+translate russian lavish_date_intro_christmas_male_cd7d39db:
     mike.say "Ты... ты в порядке, Лавиш?"
 
 # ch/lavish/date.rpy:26
@@ -1053,11 +1053,11 @@ translate russian lavish_date_intro_birthday_male_eee580fc:
     mike.say "С днём рождения, Лавиш!"
 
 # ch/lavish/date.rpy:34
-translate russian lavish_date_intro_birthday_male_21151e74:
+translate russian lavish_date_intro_birthday_male_f85e6fb5:
     lavish.say "Ой... ты запомнил?"
 
 # ch/lavish/date.rpy:35
-translate russian lavish_date_intro_birthday_male_924957f1:
+translate russian lavish_date_intro_birthday_male_3775982a:
     mike.say "Эм... да, Лавиш."
 
 # ch/lavish/date.rpy:36
@@ -1065,11 +1065,11 @@ translate russian lavish_date_intro_birthday_male_5aa71329:
     mike.say "Разве это плохо?"
 
 # ch/lavish/date.rpy:37
-translate russian lavish_date_intro_birthday_male_92fe8260:
+translate russian lavish_date_intro_birthday_male_9a3d3447:
     lavish.say "Нет-нет-нет... это чудесно."
 
 # ch/lavish/date.rpy:38
-translate russian lavish_date_intro_birthday_male_c9a4c470:
+translate russian lavish_date_intro_birthday_male_8ef7d257:
     lavish.say "Просто не думала, что ты такой... собранный!"
 
 # ch/lavish/date.rpy:42
@@ -1321,7 +1321,7 @@ translate russian lavish_date_play_arcade_win_male_f94de94e:
     mike.say "Это же не настоящий офис, Лавиш!"
 
 # ch/lavish/date.rpy:147
-translate russian lavish_date_play_arcade_win_male_f76cfddc:
+translate russian lavish_date_play_arcade_win_male_f2f19a7e:
     mike.say "Ой... следи за извращенцем!"
 
 # ch/lavish/date.rpy:148
@@ -1477,7 +1477,7 @@ translate russian lavish_dick_reactions_fed892f4:
     mike.say "Это ведь не проблема?"
 
 # ch/lavish/date.rpy:196
-translate russian lavish_dick_reactions_016ec923:
+translate russian lavish_dick_reactions_0b3d610c:
     lavish.say "О нет... совсем нет."
 
 # ch/lavish/date.rpy:198
@@ -1489,7 +1489,7 @@ translate russian lavish_dick_reactions_44f1c79e:
     lavish.say "Он уже больше не станет?"
 
 # ch/lavish/date.rpy:203
-translate russian lavish_dick_reactions_ba0807d8:
+translate russian lavish_dick_reactions_c4838215:
     mike.say "Эм... да, это всё."
 
 # ch/lavish/date.rpy:204
@@ -1497,7 +1497,7 @@ translate russian lavish_dick_reactions_fed892f4_1:
     mike.say "Это ведь не проблема?"
 
 # ch/lavish/date.rpy:206
-translate russian lavish_dick_reactions_016ec923_1:
+translate russian lavish_dick_reactions_0b3d610c_1:
     lavish.say "О нет... совсем нет."
 
 # ch/lavish/date.rpy:207
@@ -1541,7 +1541,7 @@ translate russian lavish_halloween_invitation_e5ca786e:
     lavish.say "О..."
 
 # ch/lavish/date.rpy:223
-translate russian lavish_halloween_invitation_20b9f754:
+translate russian lavish_halloween_invitation_990ebfa9:
     lavish.say "Эм, нет... я пока ничего точно не планировала."
 
 # ch/lavish/date.rpy:224
@@ -1581,7 +1581,7 @@ translate russian lavish_halloween_invitation_f8251f9c:
     lavish.say "И ты хотел меня пригласить?"
 
 # ch/lavish/date.rpy:234
-translate russian lavish_halloween_invitation_c3d74e3f:
+translate russian lavish_halloween_invitation_0ac28a60:
     mike.say "Д-да, Лавиш!"
 
 # ch/lavish/date.rpy:235
@@ -1813,7 +1813,7 @@ translate russian lavish_halloween_arrival_83fc622d:
     "Ведь обычно Лавиш не ходит в блестящем облегающем латексе!"
 
 # ch/lavish/date.rpy:308
-translate russian lavish_halloween_arrival_22c2698f:
+translate russian lavish_halloween_arrival_57c32ac3:
     mike.say "Т-ты..."
 
 # ch/lavish/date.rpy:309
@@ -1881,7 +1881,7 @@ translate russian lavish_halloween_arrival_c6b38111:
     "И всё это время ещё и мурлычет, как кошка!"
 
 # ch/lavish/date.rpy:331
-translate russian lavish_halloween_arrival_98182c69:
+translate russian lavish_halloween_arrival_793a2ad8:
     lavish.say "Мур... мур... мур..."
 
 # ch/lavish/date.rpy:332
@@ -2073,7 +2073,7 @@ translate russian lavish_halloween_party_d3f4b16f:
     mike.say "Даже сам Фрейд говорил: «Иногда сигара — это просто сигара»!"
 
 # ch/lavish/date.rpy:403
-translate russian lavish_halloween_party_2accfa2d:
+translate russian lavish_halloween_party_a8aa71c5:
     sasha.say "Я... мне пора..."
 
 # ch/lavish/date.rpy:404
@@ -2081,7 +2081,7 @@ translate russian lavish_halloween_party_a923cb45:
     sasha.say "Надо проверить член..."
 
 # ch/lavish/date.rpy:406
-translate russian lavish_halloween_party_3f5fa9ce:
+translate russian lavish_halloween_party_7118f864:
     sasha.say "То есть пунш... надо проверить пунш!"
 
 # ch/lavish/date.rpy:410
@@ -2121,7 +2121,7 @@ translate russian lavish_halloween_party_55461869:
     "А Лавиш, напротив, удивлена и явно растеряна."
 
 # ch/lavish/date.rpy:425
-translate russian lavish_halloween_party_beee267b:
+translate russian lavish_halloween_party_4f4d8e53:
     lavish.say "Ч-что ты имеешь в виду, [lssb_lavish.hero_name()]?"
 
 # ch/lavish/date.rpy:426
@@ -2185,7 +2185,7 @@ translate russian lavish_halloween_dance_e84ffc6f:
     mike.say "Что?"
 
 # ch/lavish/date.rpy:454
-translate russian lavish_halloween_dance_1fd3a29e:
+translate russian lavish_halloween_dance_da82688d:
     mike.say "О... прости, Лавиш."
 
 # ch/lavish/date.rpy:455
@@ -2201,7 +2201,7 @@ translate russian lavish_halloween_dance_c5c00937:
     "Но и не отказывается."
 
 # ch/lavish/date.rpy:458
-translate russian lavish_halloween_dance_84f715cb:
+translate russian lavish_halloween_dance_5e0b9694:
     lavish.say "Я... может быть!"
 
 # ch/lavish/date.rpy:461
@@ -2517,7 +2517,7 @@ translate russian lavish_halloween_sex_1300f57b:
     lavish.say "О, [lssb_lavish.hero_name()]!"
 
 # ch/lavish/date.rpy:574
-translate russian lavish_halloween_sex_5eb989de:
+translate russian lavish_halloween_sex_302e2ca0:
     lavish.say "Вот так... этого я и хочу!"
 
 # ch/lavish/date.rpy:575
@@ -3077,7 +3077,7 @@ translate russian lavish_event_02_8913e410:
     lavish.say "Обязательно звоните, если вам что-нибудь понадобится. Что угодно."
 
 # ch/lavish/events.rpy:645
-translate russian lavish_event_02_702428ff:
+translate russian lavish_event_02_ad1380a4:
     mike.say "О, будь уверена, позвоню! У меня наверняка найдётся много дел... со мной. То есть для меня."
 
 # ch/lavish/events.rpy:649
@@ -3305,7 +3305,7 @@ translate russian lavish_event_05_a952b461_1:
     mike.say "Как всё прошло?"
 
 # ch/lavish/events.rpy:763
-translate russian lavish_event_05_f2d3b6df:
+translate russian lavish_event_05_4302ecfd:
     lavish.say "Было... очень трудно. Я не спала всю ночь и многое изучила дополнительно. Некоторые проблемы решались долго, но я справилась. Надеюсь, всё в порядке?"
 
 # ch/lavish/events.rpy:764
@@ -3333,7 +3333,7 @@ translate russian lavish_event_05_b1e3e43f:
     mike.say "За такую работу я, пожалуй, должен угостить тебя выпивкой!"
 
 # ch/lavish/events.rpy:779
-translate russian lavish_event_05_96dbeb9e:
+translate russian lavish_event_05_57ac7c59:
     lavish.say "Выпивкой? В баре? Разве это... уместно?"
 
 # ch/lavish/events.rpy:780
@@ -3377,7 +3377,7 @@ translate russian lavish_event_05_1560dc3c:
     "Она подходит ближе, и, клянусь, следующие слова мурлычет, словно котёнок."
 
 # ch/lavish/events.rpy:792
-translate russian lavish_event_05_b2d3048a:
+translate russian lavish_event_05_929973f2:
     lavish.say "Я была бы вам очень... очень благодарна."
 
 # ch/lavish/events.rpy:793
@@ -3409,7 +3409,7 @@ translate russian lavish_event_05_44d4e285:
     mike.say "Например, поцелуем?"
 
 # ch/lavish/events.rpy:807
-translate russian lavish_event_05_591f35a3:
+translate russian lavish_event_05_88f2089a:
     lavish.say "О, эм. Я... эм. Это не... то есть вы... этого хотите?"
 
 # ch/lavish/events.rpy:808
@@ -3489,7 +3489,7 @@ translate russian lavish_event_05_3fbbd8c6:
     mike.say "О. Прости. Больная тема?"
 
 # ch/lavish/events.rpy:836
-translate russian lavish_event_05_24937027:
+translate russian lavish_event_05_9be2fd40:
     lavish.say "Не совсем, просто... я правда не хочу об этом говорить, ладно?"
 
 # ch/lavish/events.rpy:837
@@ -3537,7 +3537,7 @@ translate russian lavish_event_06_b5c24b2d:
     lavish.say "[lssb_lavish.hero_name()], это замечательно! Что у вас для меня?"
 
 # ch/lavish/events.rpy:861
-translate russian lavish_event_06_726e8bda:
+translate russian lavish_event_06_4c23fad2:
     "Несколько минут я объясняю ей суть проекта. Он сложный, и... не хочу её недооценивать, но не уверен, что она справится. Что ж, посмотрим."
 
 # ch/lavish/events.rpy:862
@@ -3653,7 +3653,7 @@ translate russian lavish_event_07_b1b6cca1:
     mike.say "Через несколько дней найду для тебя что-нибудь ещё, хорошо?"
 
 # ch/lavish/events.rpy:930
-translate russian lavish_event_07_80a6bb0b:
+translate russian lavish_event_07_fe145a74:
     lavish.say "Конечно. А пока... снова мелкие поручения?"
 
 # ch/lavish/events.rpy:931
@@ -3757,7 +3757,7 @@ translate russian lavish_event_08_3706974e:
     mike.say "Не хочу лезть в душу, но ты очень целеустремлённая. И, кажется, говорила о каких-то сложностях с семьёй?"
 
 # ch/lavish/events.rpy:996
-translate russian lavish_event_08_88625270:
+translate russian lavish_event_08_7144ded6:
     lavish.say "А, да. У папы... большие ожидания. И я, по сути, ни одного не оправдала."
 
 # ch/lavish/events.rpy:997
@@ -3781,7 +3781,7 @@ translate russian lavish_event_08_13b76691:
     lavish.say "И если буду очень-очень стараться, то, может, лет через десять или двадцать тоже смогу баллотироваться."
 
 # ch/lavish/events.rpy:1002
-translate russian lavish_event_08_fc6969bc:
+translate russian lavish_event_08_4d1f1ff7:
     lavish.say "И... не знаю. Может, через двадцать лет мне этого и захочется. Но сейчас я просто хочу жить своей жизнью."
 
 # ch/lavish/events.rpy:1003
@@ -3793,11 +3793,11 @@ translate russian lavish_event_08_cd606521:
     "Мне немного трудно ей сочувствовать. Семья может дать ей всё, чего она захочет. Когда-то мне бы это очень пригодилось."
 
 # ch/lavish/events.rpy:1005
-translate russian lavish_event_08_e93a585e:
+translate russian lavish_event_08_86dba5df:
     lavish.say "Это звучит... легкомысленно?"
 
 # ch/lavish/events.rpy:1006
-translate russian lavish_event_08_31fd2d81:
+translate russian lavish_event_08_b8847ee4:
     mike.say "О! Нет, совсем нет. Просто... моя семья самая обычная, поэтому мне трудно поставить себя на твоё место, понимаешь?"
 
 # ch/lavish/events.rpy:1007
@@ -3925,7 +3925,7 @@ translate russian lavish_event_09_f31eef3a:
     mike.say "Что за должность?"
 
 # ch/lavish/events.rpy:1065
-translate russian lavish_event_09_5f51c785:
+translate russian lavish_event_09_af709cb0:
     "Лавиш протягивает листок с объявлением. Это... моя прежняя должность, до повышения."
 
 # ch/lavish/events.rpy:1066
@@ -3977,7 +3977,7 @@ translate russian lavish_event_09_77020698:
     mike.say "Тем больше причин не хотеть тебя терять."
 
 # ch/lavish/events.rpy:1085
-translate russian lavish_event_09_5fb48b19:
+translate russian lavish_event_09_46ba30d4:
     lavish.say "Я... сумею вас отблагодарить."
 
 # ch/lavish/events.rpy:1086
@@ -4029,7 +4029,7 @@ translate russian lavish_event_09_2613d434:
     mike.say "Погоди, ты предлагаешь переспать со мной, если я помогу тебе получить должность?"
 
 # ch/lavish/events.rpy:1111
-translate russian lavish_event_09_fe896b13:
+translate russian lavish_event_09_91862fe4:
     lavish.say "Я... то есть я не шлюха, [lssb_lavish.hero_name()]."
 
 # ch/lavish/events.rpy:1112
@@ -4037,7 +4037,7 @@ translate russian lavish_event_09_2139e87e:
     mike.say "Я бы так не сказал."
 
 # ch/lavish/events.rpy:1114
-translate russian lavish_event_09_8dcf3adf:
+translate russian lavish_event_09_735949a0:
     lavish.say "Но если вы... если хотите этого, я согласна."
 
 # ch/lavish/events.rpy:1115
@@ -4069,7 +4069,7 @@ translate russian lavish_event_10_bed27f95:
     mike.say "Вот как?"
 
 # ch/lavish/events.rpy:1131
-translate russian lavish_event_10_4249f233:
+translate russian lavish_event_10_cd5e9581:
     lavish.say "Я подала заявку на ту должность, и мне нужно пройти отборочный тест. Там много технических вопросов. Нашла в интернете пробные тесты, но... пока не прохожу. Почти получается. Помогите подготовиться, чтобы я точно сдала."
 
 # ch/lavish/events.rpy:1132
@@ -4117,7 +4117,7 @@ translate russian lavish_event_10_4f86f6da:
     "Лавиш поджимает губы, но затем улыбается."
 
 # ch/lavish/events.rpy:1159
-translate russian lavish_event_10_67502302:
+translate russian lavish_event_10_fdbf01cb:
     lavish.say "Конечно, небольшой... аванс по нашему уговору будет вполне уместен."
 
 # ch/lavish/events.rpy:1162
@@ -4137,7 +4137,7 @@ translate russian lavish_event_10_eb67b334:
     "И всё заканчивается слишком быстро."
 
 # ch/lavish/events.rpy:1167
-translate russian lavish_event_10_30f2aee0:
+translate russian lavish_event_10_ef37aebb:
     lavish.say "Ну вот, этого должно хватить, чтобы вас... мотивировать, правда?"
 
 # ch/lavish/events.rpy:1168
@@ -4153,7 +4153,7 @@ translate russian lavish_event_10_edb1124e_1:
     "Следующие пару часов мы разбираем пробные тесты, и я объясняю, где в вопросах подвох. Почти все её ошибки — от недостатка опыта."
 
 # ch/lavish/events.rpy:1184
-translate russian lavish_event_11_1e1eb9ca:
+translate russian lavish_event_11_ac410e24:
     "Лавиш врывается в мой кабинет без стука. Хорошо, что я один... мало ли чем мог тут заниматься."
 
 # ch/lavish/events.rpy:1185
@@ -4257,7 +4257,7 @@ translate russian lavish_event_11_4f86f6da:
     "Лавиш поджимает губы, но затем улыбается."
 
 # ch/lavish/events.rpy:1231
-translate russian lavish_event_11_67502302:
+translate russian lavish_event_11_fdbf01cb:
     lavish.say "Конечно, небольшой... аванс по нашему уговору будет вполне уместен."
 
 # ch/lavish/events.rpy:1234
@@ -4277,7 +4277,7 @@ translate russian lavish_event_11_eb67b334:
     "И всё заканчивается слишком быстро."
 
 # ch/lavish/events.rpy:1239
-translate russian lavish_event_11_30f2aee0:
+translate russian lavish_event_11_ef37aebb:
     lavish.say "Ну вот, этого должно хватить, чтобы вас... мотивировать, правда?"
 
 # ch/lavish/events.rpy:1240
@@ -4345,7 +4345,7 @@ translate russian lavish_event_12_c3464545:
     mike.say "Нет! Совсем не поэтому. Просто считаю, что она не готова. Уж очень рьяно рвётся вперёд."
 
 # ch/lavish/events.rpy:1284
-translate russian lavish_event_12_ef4bd334:
+translate russian lavish_event_12_9ce9d8a1:
     mike.say "Ну... ладно, да. Наверное, хочу, чтобы она оставалась... подо мной."
 
 # ch/lavish/events.rpy:1287
@@ -4433,7 +4433,7 @@ translate russian lavish_event_13_f81b505a:
     lavish.say "Это за то, что вы такой замечательный человек и помогли мне получить эту работу. Я вам стольким обязана!"
 
 # ch/lavish/events.rpy:1330
-translate russian lavish_event_13_79871be7:
+translate russian lavish_event_13_dcf8fe2d:
     lavish.say "Но теперь... теперь мне нужно работать!"
 
 # ch/lavish/events.rpy:1337
@@ -4449,7 +4449,7 @@ translate russian lavish_event_14_838748c5:
     "Но думаю я только о планах, которые пришлось отменить, чтобы торчать здесь весь вечер."
 
 # ch/lavish/events.rpy:1340
-translate russian lavish_event_14_7483cb1f:
+translate russian lavish_event_14_22e724e4:
     "Ну ладно... вообще-то я собирался валяться дома и играть на Zbox."
 
 # ch/lavish/events.rpy:1341
@@ -4481,7 +4481,7 @@ translate russian lavish_event_14_9a985c44:
     "Возможность побыть наедине с самой красивой девушкой в офисе!"
 
 # ch/lavish/events.rpy:1350
-translate russian lavish_event_14_329e46c5:
+translate russian lavish_event_14_991893a2:
     mike.say "О... э-э..."
 
 # ch/lavish/events.rpy:1351
@@ -4553,7 +4553,7 @@ translate russian lavish_event_14_73eb74cc:
     "И я почти уверен, что она чуть качает головой."
 
 # ch/lavish/events.rpy:1370
-translate russian lavish_event_14_04214caa:
+translate russian lavish_event_14_d971e057:
     mike.say "Эм... что такое, Лавиш?"
 
 # ch/lavish/events.rpy:1371
@@ -4573,7 +4573,7 @@ translate russian lavish_event_14_05d2d96f:
     lavish.say "Просто..."
 
 # ch/lavish/events.rpy:1377
-translate russian lavish_event_14_f79cccee:
+translate russian lavish_event_14_da94e7e0:
     lavish.say "Ну, я не думала, что вы такой... дисциплинированный."
 
 # ch/lavish/events.rpy:1378
@@ -4669,7 +4669,7 @@ translate russian lavish_event_14_30e74fc5:
     mike.say "Эм..."
 
 # ch/lavish/events.rpy:1406
-translate russian lavish_event_14_bfd69007:
+translate russian lavish_event_14_f76b0bed:
     mike.say "Я... никак не могу разобраться."
 
 # ch/lavish/events.rpy:1407
@@ -4789,7 +4789,7 @@ translate russian lavish_event_14_f440d4f2:
     mike.say "Да, Лавиш?"
 
 # ch/lavish/events.rpy:1444
-translate russian lavish_event_14_8489d845:
+translate russian lavish_event_14_4ca76b9f:
     lavish.say "Мне... мне нравится, когда вы держите меня за руку, знаете?"
 
 # ch/lavish/events.rpy:1446
@@ -5069,7 +5069,7 @@ translate russian lavish_event_15_5a162155:
     "Но я решаю просто заказать что-нибудь, чтобы ускорить процесс."
 
 # ch/lavish/events.rpy:1541
-translate russian lavish_event_15_8dc0addd:
+translate russian lavish_event_15_012b8195:
     "Официант" "Сэр... мадам..."
 
 # ch/lavish/events.rpy:1542
@@ -5633,11 +5633,11 @@ translate russian lavish_event_16_e0bf063d:
     "По комнате прокатываются облегчённые вздохи и радостные возгласы."
 
 # ch/lavish/events.rpy:1720
-translate russian lavish_event_16_e372949d:
+translate russian lavish_event_16_13f2d9b0:
     audrey.say "Уф... слава богу!"
 
 # ch/lavish/events.rpy:1722
-translate russian lavish_event_16_f0708a2c:
+translate russian lavish_event_16_a08168bd:
     shiori.say "Ой, где я... я уснула?"
 
 # ch/lavish/events.rpy:1728
@@ -5665,7 +5665,7 @@ translate russian lavish_event_16_309c2b7e:
     lavish.say "Слайды и свои заметки я разошлю по электронной почте."
 
 # ch/lavish/events.rpy:1734
-translate russian lavish_event_16_a2b25ded:
+translate russian lavish_event_16_f8a9bee7:
     lavish.say "Итак... есть вопросы?"
 
 # ch/lavish/events.rpy:1735
@@ -5797,7 +5797,7 @@ translate russian lavish_event_16_c633af0c:
     mike.say "Ты в порядке?"
 
 # ch/lavish/events.rpy:1776
-translate russian lavish_event_16_b87b79f1:
+translate russian lavish_event_16_e6eac0bb:
     lavish.say "Я... я..."
 
 # ch/lavish/events.rpy:1777
@@ -5941,7 +5941,7 @@ translate russian lavish_event_17_e7e4661c:
     mike.say "Пожалуйста, Лавиш..."
 
 # ch/lavish/events.rpy:1823
-translate russian lavish_event_17_580634c4:
+translate russian lavish_event_17_badf14f6:
     mike.say "Нам... нам правда нужно поговорить."
 
 # ch/lavish/events.rpy:1824
@@ -6029,7 +6029,7 @@ translate russian lavish_event_17_fcaae0f4:
     mike.say "Я нашёл тебя, потому что хотел кое-что сказать."
 
 # ch/lavish/events.rpy:1847
-translate russian lavish_event_17_619ce3f3:
+translate russian lavish_event_17_f02d5a5d:
     mike.say "Я... я тоже тебя люблю, Лавиш!"
 
 # ch/lavish/events.rpy:1849
@@ -6073,7 +6073,7 @@ translate russian lavish_event_17_5b0d35f7:
     "Когда Лавиш наконец отпускает меня, я вижу, что она покраснела."
 
 # ch/lavish/events.rpy:1864
-translate russian lavish_event_17_e8ab42ed:
+translate russian lavish_event_17_b759a06f:
     lavish.say "Я... прости, [lssb_lavish.hero_name()]."
 
 # ch/lavish/events.rpy:1865
@@ -6221,7 +6221,7 @@ translate russian lavish_event_18_03a3b37f:
     lavish.say "Они боятся, что я могу заявить..."
 
 # ch/lavish/events.rpy:1920
-translate russian lavish_event_18_0b3cf28e:
+translate russian lavish_event_18_fb167b0b:
     lavish.say "Ну... что я могу пожаловаться на сексуальные домогательства!"
 
 # ch/lavish/events.rpy:1921
@@ -6273,7 +6273,7 @@ translate russian lavish_event_18_e10ae6f0:
     "Лавиш на миг отводит взгляд, ёрзая на стуле."
 
 # ch/lavish/events.rpy:1935
-translate russian lavish_event_18_12240588:
+translate russian lavish_event_18_ff194c2b:
     lavish.say "Я... должна признать: [lssb_lavish.hero_name()] немного дамский угодник!"
 
 # ch/lavish/events.rpy:1939
@@ -6309,7 +6309,7 @@ translate russian lavish_event_18_096197e2:
     aletta.say "То есть он сексуальный хищник?!"
 
 # ch/lavish/events.rpy:1952
-translate russian lavish_event_18_7ac5900e:
+translate russian lavish_event_18_95448f20:
     lavish.say "НЕТ... ну, может, самую малость!"
 
 # ch/lavish/events.rpy:1954
@@ -6505,7 +6505,7 @@ translate russian lavish_event_18_bacb0a95:
     "Но никаких домогательств не было: мы оба этого хотели!"
 
 # ch/lavish/events.rpy:2013
-translate russian lavish_event_18_dba793be:
+translate russian lavish_event_18_f88528fb:
     "Вот чёрт... тогда она была МОЕЙ начальницей!"
 
 # ch/lavish/events.rpy:2014
@@ -6537,7 +6537,7 @@ translate russian lavish_event_18_fba3caef:
     aletta.say "Что скажешь в своё оправдание?"
 
 # ch/lavish/events.rpy:2026
-translate russian lavish_event_18_1e769f18:
+translate russian lavish_event_18_9a1a1c8d:
     mike.say "Это... всё ложь!"
 
 # ch/lavish/events.rpy:2027
@@ -6653,7 +6653,7 @@ translate russian lavish_event_18_af61f414:
     "А краем глаза я замечаю торжествующую улыбку Лавиш."
 
 # ch/lavish/events.rpy:2071
-translate russian lavish_event_18_26b7e4ea:
+translate russian lavish_event_18_36e2bb96:
     "Неужели... неужели я только что сразил её своей речью?"
 
 # ch/lavish/events.rpy:2073
@@ -6745,7 +6745,7 @@ translate russian lavish_event_18_6b658872:
     aletta.say "Но..."
 
 # ch/lavish/events.rpy:2100
-translate russian lavish_event_18_a53b4ba3:
+translate russian lavish_event_18_ed9b729c:
     aletta.say "Он... ты..."
 
 # ch/lavish/events.rpy:2101
@@ -6921,7 +6921,7 @@ translate russian lavish_event_18_6c1ab980:
     "И только сейчас замечаю: ручка уже была у неё в руке."
 
 # ch/lavish/events.rpy:2150
-translate russian lavish_event_18_fce146c9:
+translate russian lavish_event_18_c44e1145:
     mike.say "Т-ты собиралась подписать?!"
 
 # ch/lavish/events.rpy:2153
@@ -6985,7 +6985,7 @@ translate russian lavish_event_18_2bfac400:
     mike.say "Не хочешь, чтобы я подписывал?"
 
 # ch/lavish/events.rpy:2170
-translate russian lavish_event_18_9b5c0ff3:
+translate russian lavish_event_18_e59a0678:
     lavish.say "Я... хочу."
 
 # ch/lavish/events.rpy:2171
@@ -7153,7 +7153,7 @@ translate russian lavish_event_18_1883bd31:
     "На секунду я думаю, что она вызовет охрану!"
 
 # ch/lavish/events.rpy:2219
-translate russian lavish_event_18_b3488d31:
+translate russian lavish_event_18_3f8aabeb:
     aletta.say "Ты... ты не можешь так говорить!"
 
 # ch/lavish/events.rpy:2220
@@ -7297,7 +7297,7 @@ translate russian lavish_preg_talk_00354a2d:
     lavish.say "Я только что узнала, что беременна!"
 
 # ch/lavish/events.rpy:2265
-translate russian lavish_preg_talk_5ed67c09:
+translate russian lavish_preg_talk_70bba27b:
     "Ого... просто ого."
 
 # ch/lavish/events.rpy:2266
@@ -7309,7 +7309,7 @@ translate russian lavish_preg_talk_d807049c:
     "Но к такой оглушительной новости я не был готов!"
 
 # ch/lavish/events.rpy:2268
-translate russian lavish_preg_talk_981061ba:
+translate russian lavish_preg_talk_94b64364:
     mike.say "Т-ты уверена, Лавиш?"
 
 # ch/lavish/events.rpy:2269
@@ -7377,7 +7377,7 @@ translate russian lavish_preg_talk_09e66fe3:
     "Я вижу, как она бессознательно обхватывает живот руками."
 
 # ch/lavish/events.rpy:2288
-translate russian lavish_preg_talk_f86c3860:
+translate russian lavish_preg_talk_9d2dce93:
     lavish.say "Я... не хочу, чтобы ты считал меня бессердечной, [lssb_lavish.hero_name()]."
 
 # ch/lavish/events.rpy:2289
@@ -7525,7 +7525,7 @@ translate russian lavish_preg_talk_c967a720:
     "Когда поцелуй заканчивается, смущён уже я."
 
 # ch/lavish/events.rpy:2333
-translate russian lavish_preg_talk_6a17e66e:
+translate russian lavish_preg_talk_9c7eab07:
     mike.say "Я... полагаю, идея тебе нравится?"
 
 # ch/lavish/events.rpy:2334
@@ -7581,7 +7581,7 @@ translate russian lavish_preg_talk_a7622a62:
     "Но она слишком умна и хорошо знает себя, чтобы так легко убедиться."
 
 # ch/lavish/events.rpy:2350
-translate russian lavish_preg_talk_d1bcf8ab:
+translate russian lavish_preg_talk_c8f0db7c:
     lavish.say "К-как это, [lssb_lavish.hero_name()]?"
 
 # ch/lavish/events.rpy:2351
@@ -7765,7 +7765,7 @@ translate russian lavish_male_ending_6ea8d4a9:
     lavish.say "Нравится то, что видишь?"
 
 # ch/lavish/events.rpy:2415
-translate russian lavish_male_ending_c3d74e3f:
+translate russian lavish_male_ending_0ac28a60:
     mike.say "Д-да, Лавиш!"
 
 # ch/lavish/events.rpy:2416
@@ -7989,7 +7989,7 @@ translate russian lavish_male_ending_da40b487:
     lavish.say "И совершенно убеждённый, что она должна быть ниже него."
 
 # ch/lavish/events.rpy:2481
-translate russian lavish_male_ending_254767cf:
+translate russian lavish_male_ending_63f7daa1:
     lavish.say "И... признаю, я поторопилась с выводами."
 
 # ch/lavish/events.rpy:2482
@@ -8197,7 +8197,7 @@ translate russian lavish_office_bj_3ba11aef:
     "И при этом в голосе всё равно звучит соблазнительная нотка!"
 
 # ch/lavish/events.rpy:2548
-translate russian lavish_office_bj_804e47d7:
+translate russian lavish_office_bj_e6ca630a:
     lavish.say "Эм... алло?"
 
 # ch/lavish/events.rpy:2549
@@ -8217,7 +8217,7 @@ translate russian lavish_office_bj_f04f9a80:
     mike.say "Привет, Лавиш..."
 
 # ch/lavish/events.rpy:2553
-translate russian lavish_office_bj_155b291f:
+translate russian lavish_office_bj_6d7eb977:
     mike.say "Я тут подумал... не зайдёшь ко мне в кабинет?"
 
 # ch/lavish/events.rpy:2554
@@ -8249,7 +8249,7 @@ translate russian lavish_office_bj_ade7b5a0:
     mike.say "Поработаем над ЧЛЕНОМ... предложения!"
 
 # ch/lavish/events.rpy:2561
-translate russian lavish_office_bj_2f229d85:
+translate russian lavish_office_bj_2ed02173:
     lavish.say "Простите... что?!"
 
 # ch/lavish/events.rpy:2562
@@ -8297,7 +8297,7 @@ translate russian lavish_office_bj_cfd451b2:
     mike.say "Я бы хотел тебя на столе..."
 
 # ch/lavish/events.rpy:2574
-translate russian lavish_office_bj_58e10609:
+translate russian lavish_office_bj_fca22903:
     mike.say "У стола... то есть у стола!"
 
 # ch/lavish/events.rpy:2575
@@ -8341,11 +8341,11 @@ translate russian lavish_office_bj_778a79eb:
     lavish.say "И в чём же нужна помощь?"
 
 # ch/lavish/events.rpy:2587
-translate russian lavish_office_bj_4a1887b8:
+translate russian lavish_office_bj_9d445fec:
     mike.say "Я... я подумал..."
 
 # ch/lavish/events.rpy:2588
-translate russian lavish_office_bj_46e5c96d:
+translate russian lavish_office_bj_e2fbcba7:
     mike.say "Может, ты поможешь начальству... снять напряжение?"
 
 # ch/lavish/events.rpy:2589
@@ -8401,7 +8401,7 @@ translate russian lavish_office_bj_f47f0d99:
     "Она оглядывается, словно ища выход."
 
 # ch/lavish/events.rpy:2605
-translate russian lavish_office_bj_7c389b01:
+translate russian lavish_office_bj_42825454:
     mike.say "Ты... ты пытаешься со мной торговаться?!"
 
 # ch/lavish/events.rpy:2606
@@ -8409,11 +8409,11 @@ translate russian lavish_office_bj_1cf29359:
     mike.say "Хочешь что-нибудь взамен за минет?"
 
 # ch/lavish/events.rpy:2607
-translate russian lavish_office_bj_fd00294f:
+translate russian lavish_office_bj_d3260b91:
     lavish.say "Нет... я..."
 
 # ch/lavish/events.rpy:2609
-translate russian lavish_office_bj_9209eed5:
+translate russian lavish_office_bj_14a2ddb2:
     lavish.say "Ну... может быть... наверное!"
 
 # ch/lavish/events.rpy:2610
@@ -8457,7 +8457,7 @@ translate russian lavish_office_bj_36bacdb6:
     "Она кивает, уже поднимаясь с кресла."
 
 # ch/lavish/events.rpy:2621
-translate russian lavish_office_bj_23ff69ae:
+translate russian lavish_office_bj_933b7b82:
     lavish.say "О боже... я пожалею об этом, точно знаю!"
 
 # ch/lavish/events.rpy:2622
@@ -8493,7 +8493,7 @@ translate russian lavish_office_bj_e5ca786e:
     lavish.say "О..."
 
 # ch/lavish/events.rpy:2633
-translate russian lavish_office_bj_150179e5:
+translate russian lavish_office_bj_396c0037:
     lavish.say "У вас... уже стоит!"
 
 # ch/lavish/events.rpy:2634
@@ -8741,11 +8741,11 @@ translate russian lavish_office_bj_a5e9cf0e:
     lavish.say "Это всё, [lssb_lavish.hero_name()]?"
 
 # ch/lavish/events.rpy:2722
-translate russian lavish_office_bj_7942fe4e:
+translate russian lavish_office_bj_eb611fc2:
     mike.say "Эм... я..."
 
 # ch/lavish/events.rpy:2723
-translate russian lavish_office_bj_8c543874:
+translate russian lavish_office_bj_965c5dfb:
     mike.say "Да, Лавиш... всё."
 
 # ch/lavish/events.rpy:2724
@@ -8813,7 +8813,7 @@ translate russian lavish_spanking_start_ecfc73c2:
     "Её глаза расширяются от потрясения."
 
 # ch/lavish/events.rpy:2749
-translate russian lavish_spanking_start_2f083df1:
+translate russian lavish_spanking_start_4ca47700:
     shiori.say "В-вы хотите... отшлёпать меня?!"
 
 # ch/lavish/events.rpy:2751
@@ -8837,11 +8837,11 @@ translate russian lavish_spanking_start_bcb3a43b:
     "Сиори кивает и торопливо обходит стол."
 
 # ch/lavish/events.rpy:2757
-translate russian lavish_spanking_start_0287c05f:
+translate russian lavish_spanking_start_2efa715a:
     shiori.say "Д-да, [lssb_lavish.hero_name()]!"
 
 # ch/lavish/events.rpy:2758
-translate russian lavish_spanking_start_ae03cefa:
+translate russian lavish_spanking_start_c66d667a:
     shiori.say "Конечно... сейчас подойду!"
 
 # ch/lavish/events.rpy:2759
@@ -8913,7 +8913,7 @@ translate russian lavish_spanking_start_5ef314bc:
     mike.say "Стоит сделать это привычкой, Сиори."
 
 # ch/lavish/events.rpy:2796
-translate russian lavish_spanking_start_eeb7d94b:
+translate russian lavish_spanking_start_6c53b118:
     shiori.say "Д-да?"
 
 # ch/lavish/events.rpy:2797
@@ -8921,7 +8921,7 @@ translate russian lavish_spanking_start_9463d16b:
     mike.say "Выделим по полчаса в день на порку!"
 
 # ch/lavish/events.rpy:2799
-translate russian lavish_spanking_start_dd4238a5:
+translate russian lavish_spanking_start_3ea7fa3a:
     shiori.say "Е-если хотите!"
 
 # ch/lavish/events.rpy:2803
@@ -8929,7 +8929,7 @@ translate russian lavish_spanking_start_f5c7dec0:
     mike.say "Ещё как хочу, Сиори!"
 
 # ch/lavish/events.rpy:2804
-translate russian lavish_spanking_start_e3d3e5f1:
+translate russian lavish_spanking_start_59f064c3:
     lavish.say "О... мой... бог!"
 
 # ch/lavish/events.rpy:2808
@@ -8989,7 +8989,7 @@ translate russian lavish_spanking_start_cbf2c601:
     shiori.say "Вы всё ещё должны меня отшлёпать?"
 
 # ch/lavish/events.rpy:2825
-translate russian lavish_spanking_start_068a292e:
+translate russian lavish_spanking_start_d0badfef:
     mike.say "Эм... нет, Сиори."
 
 # ch/lavish/events.rpy:2826
@@ -9073,7 +9073,7 @@ translate russian lavish_spanking_alternate_start_0e169c49:
     "Лавиш вскрикивает, качает головой и машет руками."
 
 # ch/lavish/events.rpy:2861
-translate russian lavish_spanking_alternate_start_bd63b60f:
+translate russian lavish_spanking_alternate_start_bba538a8:
     lavish.say "Нет... нет... я хочу кое-что спросить."
 
 # ch/lavish/events.rpy:2863
@@ -9165,7 +9165,7 @@ translate russian lavish_spanking_alternate_start_3300f0b8:
     "Лавиш прикусывает губу, но, открывая рот, словно наконец набирается смелости."
 
 # ch/lavish/events.rpy:2897
-translate russian lavish_spanking_alternate_start_f6b9805a:
+translate russian lavish_spanking_alternate_start_058de307:
     lavish.say "Это... это связано с Одри... и с Сиори тоже."
 
 # ch/lavish/events.rpy:2898
@@ -9205,7 +9205,7 @@ translate russian lavish_spanking_alternate_start_32ff579e:
     mike.say "Пожалуйста, можешь рассказать. Что бы это ни было."
 
 # ch/lavish/events.rpy:2908
-translate russian lavish_spanking_alternate_start_9ff5c7b8:
+translate russian lavish_spanking_alternate_start_34f522ec:
     lavish.say "Я... я знаю, чем вы занимаетесь с Одри и Сиори прямо в этом кабинете."
 
 # ch/lavish/events.rpy:2910
@@ -9237,7 +9237,7 @@ translate russian lavish_spanking_alternate_start_17626367:
     "Но она ничего не требует, и я начинаю думать: может, нарочно держит меня в напряжении, чтобы получить ещё больше власти?"
 
 # ch/lavish/events.rpy:2918
-translate russian lavish_spanking_alternate_start_c7f83d15:
+translate russian lavish_spanking_alternate_start_323950be:
     mike.say "Ладно, Лавиш... теперь я знаю, что ты знаешь. Чего именно ты от меня хочешь?"
 
 # ch/lavish/events.rpy:2919
@@ -9245,7 +9245,7 @@ translate russian lavish_spanking_alternate_start_4bd38a32:
     "Вот он, момент истины!"
 
 # ch/lavish/events.rpy:2921
-translate russian lavish_spanking_alternate_start_3b69b198:
+translate russian lavish_spanking_alternate_start_b339963a:
     lavish.say "Я... хочу... чтобы ко мне относились так же, как к другим девушкам в офисе."
 
 # ch/lavish/events.rpy:2922
@@ -9285,7 +9285,7 @@ translate russian lavish_spanking_alternate_start_c81fe260:
     "Добавить третью — всё равно что жонглировать тарелками..."
 
 # ch/lavish/events.rpy:2934
-translate russian lavish_spanking_alternate_start_35cc3559:
+translate russian lavish_spanking_alternate_start_586721e7:
     mike.say "Эм... не думаю, что это хорошая идея, Лавиш."
 
 # ch/lavish/events.rpy:2935
@@ -9293,15 +9293,15 @@ translate russian lavish_spanking_alternate_start_4ccc7645:
     "Она мгновенно сникает: несколько коротких слов перечеркнули все усилия, которых стоило сюда прийти."
 
 # ch/lavish/events.rpy:2937
-translate russian lavish_spanking_alternate_start_eea93322:
+translate russian lavish_spanking_alternate_start_b578f0ef:
     lavish.say "Но... почему?"
 
 # ch/lavish/events.rpy:2939
-translate russian lavish_spanking_alternate_start_381fc26b:
+translate russian lavish_spanking_alternate_start_6c651f9b:
     mike.say "Ну, Лавиш... понимаешь, то, что происходит между мной и моей Игрушкой..."
 
 # ch/lavish/events.rpy:2941
-translate russian lavish_spanking_alternate_start_581729e2:
+translate russian lavish_spanking_alternate_start_bae9d193:
     mike.say "Ну, Лавиш... понимаешь, то, что происходит между мной и Одри..."
 
 # ch/lavish/events.rpy:2942
@@ -9309,7 +9309,7 @@ translate russian lavish_spanking_alternate_start_c1bd7021:
     lavish.say "И Сиори."
 
 # ch/lavish/events.rpy:2943
-translate russian lavish_spanking_alternate_start_39df522c:
+translate russian lavish_spanking_alternate_start_0d941899:
     mike.say "Да, спасибо... и Сиори... это, ну... довольно особенные отношения."
 
 # ch/lavish/events.rpy:2944
@@ -9361,7 +9361,7 @@ translate russian lavish_spanking_alternate_start_860ece39_1:
     "При мысли об этом рассудок почти покидает меня. Идея, мягко говоря, весьма заманчива!"
 
 # ch/lavish/events.rpy:2958
-translate russian lavish_spanking_alternate_start_5f11bb71:
+translate russian lavish_spanking_alternate_start_6c410d7c:
     mike.say "Хм... не знаю, Лавиш."
 
 # ch/lavish/events.rpy:2959
@@ -9521,7 +9521,7 @@ translate russian lavish_spanking_1_b242c633:
     "Качает головой и всё ещё удивляет меня тем, что не злится."
 
 # ch/lavish/events.rpy:3012
-translate russian lavish_spanking_1_de801c71:
+translate russian lavish_spanking_1_46a73efb:
     lavish.say "Тогда я была... зла, то есть."
 
 # ch/lavish/events.rpy:3014
@@ -9685,7 +9685,7 @@ translate russian lavish_spanking_1_3920b549:
     "Я невольно моргаю и качаю головой."
 
 # ch/lavish/events.rpy:3059
-translate russian lavish_spanking_1_6bd53d30:
+translate russian lavish_spanking_1_d7560eb3:
     mike.say "Т-ты хочешь, чтобы я..."
 
 # ch/lavish/events.rpy:3060
@@ -9701,7 +9701,7 @@ translate russian lavish_spanking_1_bda05fa5:
     mike.say "Да, Лавиш. Просто нужно было услышать ещё раз."
 
 # ch/lavish/events.rpy:3063
-translate russian lavish_spanking_1_2723dccf:
+translate russian lavish_spanking_1_879ae34d:
     mike.say "Конечно... могу начать в любое удобное для тебя время!"
 
 # ch/lavish/events.rpy:3065
@@ -9721,7 +9721,7 @@ translate russian lavish_spanking_1_c2e592fc:
     "Лавиш правда попросила меня начать её шлёпать?"
 
 # ch/lavish/events.rpy:3069
-translate russian lavish_spanking_1_aa32d372:
+translate russian lavish_spanking_1_9c249137:
     "Ого... надеюсь, я не проснусь и не обнаружу, что это был безумный сон!"
 
 # ch/lavish/events.rpy:3077
@@ -9797,7 +9797,7 @@ translate russian lavish_spanking_2_188d997e:
     mike.say "Ты же в последнее время сосредоточена, как лазерный луч!"
 
 # ch/lavish/events.rpy:3097
-translate russian lavish_spanking_2_ef539978:
+translate russian lavish_spanking_2_3b6c9f2f:
     mike.say "Но если передумала... я пойму."
 
 # ch/lavish/events.rpy:3099
@@ -9857,11 +9857,11 @@ translate russian lavish_spanking_2_fafb71f5:
     lavish.say "Пожалуйста, не говори так!"
 
 # ch/lavish/events.rpy:3115
-translate russian lavish_spanking_2_32b74887:
+translate russian lavish_spanking_2_8b622d56:
     lavish.say "От одной мысли... я почти не выдерживаю!"
 
 # ch/lavish/events.rpy:3116
-translate russian lavish_spanking_2_96f193de:
+translate russian lavish_spanking_2_433c4419:
     mike.say "Т-ты хочешь сказать?.."
 
 # ch/lavish/events.rpy:3117
@@ -9869,7 +9869,7 @@ translate russian lavish_spanking_2_64241db0:
     lavish.say "Да, [lssb_lavish.hero_name()]..."
 
 # ch/lavish/events.rpy:3119
-translate russian lavish_spanking_2_803cf858:
+translate russian lavish_spanking_2_5244fdc5:
     lavish.say "Я... кажется, я пристрастилась к порке!"
 
 # ch/lavish/events.rpy:3120
@@ -10141,7 +10141,7 @@ translate russian lavish_sub_03_18b275aa:
     lavish.say "Какого..."
 
 # ch/lavish/events.rpy:3209
-translate russian lavish_sub_03_bf864a2e:
+translate russian lavish_sub_03_4db0aad4:
     mike.say "Нет, Лавиш, я серьёзно!"
 
 # ch/lavish/events.rpy:3210
@@ -10173,7 +10173,7 @@ translate russian lavish_sub_03_d67955a3:
     "Сиори и Одри тем временем обмениваются ошеломлёнными взглядами."
 
 # ch/lavish/events.rpy:3220
-translate russian lavish_sub_03_cf06e453:
+translate russian lavish_sub_03_2c7a7dd6:
     lavish.say "Т-ты не всерьёз!"
 
 # ch/lavish/events.rpy:3221
@@ -10513,7 +10513,7 @@ translate russian lavish_birthday_date_male_8c869efa:
     lavish.say "Вот, в этой сумке..."
 
 # ch/lavish/events.rpy:3360
-translate russian lavish_birthday_date_male_d85d61bb:
+translate russian lavish_birthday_date_male_d08bdf40:
     lavish.say "Эм... почему ты так на меня смотришь?"
 
 # ch/lavish/events.rpy:3361
@@ -10649,7 +10649,7 @@ translate russian lavish_birthday_date_male_85ba222d:
     "И я невольно жалею её."
 
 # ch/lavish/events.rpy:3407
-translate russian lavish_birthday_date_male_c00eba98:
+translate russian lavish_birthday_date_male_e2c26d08:
     mike.say "Эм... вообще-то всё наоборот, Лавиш."
 
 # ch/lavish/events.rpy:3408
@@ -10825,7 +10825,7 @@ translate russian lavish_birthday_date_male_b9cd35bf:
     mike.say "До одной идти долго, зато виды потрясающие."
 
 # ch/lavish/events.rpy:3467
-translate russian lavish_birthday_date_male_66442a49:
+translate russian lavish_birthday_date_male_dad5f6d5:
     mike.say "Другая гораздо ближе, но пейзажи там... так себе."
 
 # ch/lavish/events.rpy:3468
@@ -11553,7 +11553,7 @@ translate russian lavish_birthday_date_male_362b4bca:
     mike.say "Раньше я не слышал, как ты поёшь."
 
 # ch/lavish/events.rpy:3732
-translate russian lavish_birthday_date_male_fd95a39a:
+translate russian lavish_birthday_date_male_915a634f:
     mike.say "Но голос у тебя... прекрасный!"
 
 # ch/lavish/events.rpy:3734
@@ -11617,7 +11617,7 @@ translate russian lavish_birthday_date_male_6cec1655:
     mike.say "Кажется, ты почти уснула."
 
 # ch/lavish/events.rpy:3757
-translate russian lavish_birthday_date_male_4a6c227f:
+translate russian lavish_birthday_date_male_2e882a32:
     lavish.say "Нет... я не спала."
 
 # ch/lavish/events.rpy:3758
@@ -12733,7 +12733,7 @@ translate russian lavish_fuck_date_intro_male_70c82878:
     lavish.say "Почему ты так на меня смотришь?"
 
 # ch/lavish/fuck.rpy:283
-translate russian lavish_fuck_date_intro_male_763b7fee:
+translate russian lavish_fuck_date_intro_male_7f829c4a:
     lavish.say "Я... я просто этого ждала, вот и всё!"
 
 # ch/lavish/fuck.rpy:284
@@ -12741,7 +12741,7 @@ translate russian lavish_fuck_date_intro_male_11311748:
     "Я качаю головой, пытаясь успокоить её: ничего такого."
 
 # ch/lavish/fuck.rpy:285
-translate russian lavish_fuck_date_intro_male_ed5065d5:
+translate russian lavish_fuck_date_intro_male_a672b5e3:
     mike.say "Я... ничего, Лавиш, правда."
 
 # ch/lavish/fuck.rpy:286
@@ -12849,7 +12849,7 @@ translate russian lavish_fuck_date_intro_male_b2e352e2:
     lavish.say "Скажи ещё раз, какая я сексуальная, [lssb_lavish.hero_name()]!"
 
 # ch/lavish/fuck.rpy:324
-translate russian lavish_fuck_date_intro_male_5dd214e6:
+translate russian lavish_fuck_date_intro_male_4b70985b:
     lavish.say "Т-ты меня возбуждаешь!"
 
 # ch/lavish/fuck.rpy:325
@@ -13209,7 +13209,7 @@ translate russian lavish_fuck_date_cunnilingus_6c31ef76:
     lavish.say "А..."
 
 # ch/lavish/fuck.rpy:625
-translate russian lavish_fuck_date_cunnilingus_813ae749:
+translate russian lavish_fuck_date_cunnilingus_ac365708:
     lavish.say "Ч-что это?"
 
 # ch/lavish/fuck.rpy:626
@@ -14129,11 +14129,11 @@ translate russian lavish_fuck_date_cowgirl_6c31ef76:
     lavish.say "А..."
 
 # ch/lavish/fuck.rpy:1086
-translate russian lavish_fuck_date_cowgirl_6c39f6e5:
+translate russian lavish_fuck_date_cowgirl_1a85af39:
     lavish.say "О... мой... бог... о боже..."
 
 # ch/lavish/fuck.rpy:1087
-translate russian lavish_fuck_date_cowgirl_aaf86dd3:
+translate russian lavish_fuck_date_cowgirl_c603cc11:
     lavish.say "Твой член... у меня... в попе!"
 
 # ch/lavish/fuck.rpy:1088
@@ -14169,7 +14169,7 @@ translate russian lavish_fuck_date_cowgirl_0b2131a0:
     "Мышцы уступают, а всхлипы превращаются в прерывистые вздохи."
 
 # ch/lavish/fuck.rpy:1097
-translate russian lavish_fuck_date_cowgirl_77a415af:
+translate russian lavish_fuck_date_cowgirl_01400485:
     lavish.say "Это... приятно!"
 
 # ch/lavish/fuck.rpy:1098
@@ -14797,7 +14797,7 @@ translate russian lavish_fuck_date_doggy_a4308cfb:
     lavish.say "Что ты там делаешь?"
 
 # ch/lavish/fuck.rpy:1337
-translate russian lavish_fuck_date_doggy_8c0d63ab:
+translate russian lavish_fuck_date_doggy_7c5ec293:
     lavish.say "О... боже!"
 
 # ch/lavish/fuck.rpy:1338
@@ -14821,11 +14821,11 @@ translate russian lavish_fuck_date_doggy_df9e22e3:
     lavish.say "О, [lssb_lavish.hero_name()]..."
 
 # ch/lavish/fuck.rpy:1344
-translate russian lavish_fuck_date_doggy_6949397c:
+translate russian lavish_fuck_date_doggy_6c1b41b1:
     lavish.say "Я не ожидала... этого..."
 
 # ch/lavish/fuck.rpy:1345
-translate russian lavish_fuck_date_doggy_1622605f:
+translate russian lavish_fuck_date_doggy_ec68ab3d:
     lavish.say "С тобой там ТАК хорошо!"
 
 # ch/lavish/fuck.rpy:1346
@@ -15725,7 +15725,7 @@ translate russian lavish_fuck_date_doggy_a59a598a:
     "Дыхание вырывается короткими резкими вздохами."
 
 # ch/lavish/fuck.rpy:1669
-translate russian lavish_fuck_date_doggy_e9835351:
+translate russian lavish_fuck_date_doggy_d3d2b752:
     lavish.say "О... о... да..."
 
 # ch/lavish/fuck.rpy:1670
@@ -15733,7 +15733,7 @@ translate russian lavish_fuck_date_doggy_91532777:
     lavish.say "Пожалуйста... [lssb_lavish.hero_name()]..."
 
 # ch/lavish/fuck.rpy:1672
-translate russian lavish_fuck_date_doggy_92a547b9:
+translate russian lavish_fuck_date_doggy_09d547d8:
     lavish.say "Пожалуйста... трахни меня... жёстко!"
 
 # ch/lavish/fuck.rpy:1674
@@ -15893,7 +15893,7 @@ translate russian lavish_fuck_date_doggy_5858bf24_1:
     lavish.say "Я пью таблетки!"
 
 # ch/lavish/fuck.rpy:1727
-translate russian lavish_fuck_date_doggy_b5eb13ed:
+translate russian lavish_fuck_date_doggy_bee72377:
     lavish.say "Всё хорошо... я пью таблетки!"
 
 # ch/lavish/fuck.rpy:1728
@@ -16020,10 +16020,6 @@ translate russian lavish_sleep_date_fuck_55dc2109:
 translate russian lavish_hottub_sex_male_6b320ac3:
     "Пришлось немного поуговаривать, но идея джакузи наконец понравилась Лавиш."
 
-# ch/lavish/fuck.rpy:1793
-translate russian lavish_hottub_sex_male_5402a292:
-    "Точнее, идея прийти ко мне и искупаться в моём джакузи."
-
 # ch/lavish/fuck.rpy:1794
 translate russian lavish_hottub_sex_male_6bee9f62:
     "Пришлось заверить, что будем только мы вдвоём и никто нас не увидит."
@@ -16097,7 +16093,7 @@ translate russian lavish_hottub_sex_male_6276d2e6:
     "Но она справляется со смущением и разворачивает полотенце."
 
 # ch/lavish/fuck.rpy:1813
-translate russian lavish_hottub_sex_male_a4247a1d:
+translate russian lavish_hottub_sex_male_5e8b72d5:
     lavish.say "Да... конечно..."
 
 # ch/lavish/fuck.rpy:1814
@@ -16133,11 +16129,11 @@ translate russian lavish_hottub_sex_male_03cee953:
     lavish.say "Почему ты так на меня смотришь?"
 
 # ch/lavish/fuck.rpy:1825
-translate russian lavish_hottub_sex_male_32d283c7:
+translate russian lavish_hottub_sex_male_e00490ab:
     mike.say "Я... прости, Лавиш."
 
 # ch/lavish/fuck.rpy:1826
-translate russian lavish_hottub_sex_male_d50906a1:
+translate russian lavish_hottub_sex_male_6c7a0623:
     mike.say "Ты просто такая... потрясающая!"
 
 # ch/lavish/fuck.rpy:1827
@@ -16245,7 +16241,7 @@ translate russian lavish_hottub_sex_male_e644a181:
     "Наверное, я настолько привык к стояку рядом с Лавиш, что уже его не замечаю!"
 
 # ch/lavish/fuck.rpy:1853
-translate russian lavish_hottub_sex_male_5466d3de:
+translate russian lavish_hottub_sex_male_ed020166:
     mike.say "О... ну..."
 
 # ch/lavish/fuck.rpy:1854
@@ -16325,7 +16321,7 @@ translate russian lavish_hottub_sex_male_ccdf3a15:
     "Я ведь всё это время именно к этому и подводил!"
 
 # ch/lavish/fuck.rpy:1873
-translate russian lavish_hottub_sex_male_344f4bbd:
+translate russian lavish_hottub_sex_male_a1e0caf5:
     mike.say "К... конечно, Лавиш..."
 
 # ch/lavish/fuck.rpy:1874
@@ -16481,7 +16477,7 @@ translate russian lavish_office_spank_e9d133e9:
     lavish.say "Ладно, давайте..."
 
 # ch/lavish/fuck.rpy:1950
-translate russian lavish_office_spank_1792147a:
+translate russian lavish_office_spank_3bf26184:
     lavish.say "Стоп... что?!"
 
 # ch/lavish/fuck.rpy:1951
@@ -16697,11 +16693,11 @@ translate russian lavish_office_spank_059d8ab8:
     lavish.say "Я знаю, что я плохая девочка..."
 
 # ch/lavish/fuck.rpy:2053
-translate russian lavish_office_spank_99d36e8a:
+translate russian lavish_office_spank_d2a847c9:
     lavish.say "Пожалуйста... накажите меня... научите хорошо себя вести!"
 
 # ch/lavish/fuck.rpy:2055
-translate russian lavish_office_spank_55aa364d:
+translate russian lavish_office_spank_39214fb4:
     lavish.say "Я буду хорошей... обещаю!"
 
 # ch/lavish/fuck.rpy:2056
@@ -16865,7 +16861,7 @@ translate russian lavish_gift_collar_male_1194c2e3:
     "А другой чешу затылок."
 
 # ch/lavish/gift.rpy:89
-translate russian lavish_gift_collar_male_90d50384:
+translate russian lavish_gift_collar_male_efc2d734:
     mike.say "Я... я приготовил тебе подарок, Лавиш."
 
 # ch/lavish/gift.rpy:90
@@ -16905,7 +16901,7 @@ translate russian lavish_gift_collar_male_e6e96a18:
     "Потом моргает и с недоумением поднимает на меня глаза."
 
 # ch/lavish/gift.rpy:99
-translate russian lavish_gift_collar_male_e6b61152:
+translate russian lavish_gift_collar_male_e2443767:
     lavish.say "З... здесь написано «Кукла», [lssb_lavish.hero_name()]."
 
 # ch/lavish/gift.rpy:100
@@ -16917,7 +16913,7 @@ translate russian lavish_gift_collar_male_79cc5bcc:
     lavish.say "С ней эта штука похожа..."
 
 # ch/lavish/gift.rpy:102
-translate russian lavish_gift_collar_male_9f03b5de:
+translate russian lavish_gift_collar_male_2305f29b:
     lavish.say "Ну... на собачий ошейник!"
 
 # ch/lavish/gift.rpy:103
@@ -16953,7 +16949,7 @@ translate russian lavish_gift_collar_male_293c8b88:
     "Затаив дыхание, я жду, что она скажет..."
 
 # ch/lavish/gift.rpy:112
-translate russian lavish_gift_collar_male_3517168b:
+translate russian lavish_gift_collar_male_208e2c11:
     lavish.say "К... как..."
 
 # ch/lavish/gift.rpy:113
@@ -17053,7 +17049,7 @@ translate russian lavish_gift_collar_male_c497be67:
     "Словно прислушивается к ощущению его прикосновения к коже."
 
 # ch/lavish/gift.rpy:141
-translate russian lavish_gift_collar_male_f8397999:
+translate russian lavish_gift_collar_male_34b94cbb:
     lavish.say "Это... странно..."
 
 # ch/lavish/gift.rpy:142
@@ -17061,7 +17057,7 @@ translate russian lavish_gift_collar_male_a9d66d6b:
     lavish.say "Он плотно обхватывает шею."
 
 # ch/lavish/gift.rpy:143
-translate russian lavish_gift_collar_male_7fd0120d:
+translate russian lavish_gift_collar_male_01173d3b:
     lavish.say "Но я чувствую себя... свободной!"
 
 # ch/lavish/gift.rpy:144
@@ -17461,7 +17457,7 @@ translate russian lavish_gift_sexy_dress_male_206425de:
     "Платье, в котором она будет чертовски сексуальна!"
 
 # ch/lavish/gift.rpy:298
-translate russian lavish_gift_sexy_dress_male_caf8303b:
+translate russian lavish_gift_sexy_dress_male_990df06f:
     mike.say "Т... то есть тебе не нравится?"
 
 # ch/lavish/gift.rpy:299
@@ -17709,7 +17705,7 @@ translate russian lavish_gift_slutty_dress_male_e9c81694:
     lavish.say "Это..."
 
 # ch/lavish/gift.rpy:382
-translate russian lavish_gift_slutty_dress_male_7048c9d0:
+translate russian lavish_gift_slutty_dress_male_110ae6cc:
     lavish.say "Это... потрясающе!"
 
 # ch/lavish/gift.rpy:384
@@ -17749,7 +17745,7 @@ translate russian lavish_gift_slutty_dress_male_90149b83:
     lavish.say "Но самой купить его мне бы не хватило смелости."
 
 # ch/lavish/gift.rpy:396
-translate russian lavish_gift_slutty_dress_male_1a45b580:
+translate russian lavish_gift_slutty_dress_male_e6ea4146:
     mike.say "Значит, это... хорошо?"
 
 # ch/lavish/gift.rpy:397
@@ -17785,7 +17781,7 @@ translate russian lavish_gift_slutty_dress_male_e9c81694_1:
     lavish.say "Это..."
 
 # ch/lavish/gift.rpy:411
-translate russian lavish_gift_slutty_dress_male_fd140803:
+translate russian lavish_gift_slutty_dress_male_0fe771f3:
     lavish.say "Это... ужасно!"
 
 # ch/lavish/gift.rpy:412
@@ -17865,7 +17861,7 @@ translate russian lavish_ice_cream_reaction_male_861ec506:
     mike.say "Мне НЕВЫНОСИМО жарко, Лавиш. Давай возьмём мороженое!"
 
 # ch/lavish/reactions.rpy:3
-translate russian lavish_ice_cream_reaction_male_f0198700:
+translate russian lavish_ice_cream_reaction_male_76d2b783:
     lavish.say "М-м-м... ладно, звучит неплохо!"
 
 # ch/lavish/reactions.rpy:4
@@ -17877,11 +17873,11 @@ translate russian lavish_ice_cream_reaction_male_6d47b408:
     "Лавиш выбирает то же самое, только с другим сочетанием вкусов."
 
 # ch/lavish/reactions.rpy:6
-translate russian lavish_ice_cream_reaction_male_43bc2ad5:
+translate russian lavish_ice_cream_reaction_male_1fd03e22:
     lavish.say "Ой... вот беда..."
 
 # ch/lavish/reactions.rpy:7
-translate russian lavish_ice_cream_reaction_male_c3f1378e:
+translate russian lavish_ice_cream_reaction_male_df6955a9:
     lavish.say "М... моё мороженое убегает!"
 
 # ch/lavish/reactions.rpy:8
@@ -18373,7 +18369,7 @@ translate russian lavish_massage_accept_male_6abe40d4:
     lavish.say "Как хорошо, что ты заметил."
 
 # ch/lavish/reactions.rpy:212
-translate russian lavish_massage_accept_male_fd66be9f:
+translate russian lavish_massage_accept_male_0733cada:
     lavish.say "Да... с удовольствием, спасибо."
 
 # ch/lavish/reactions.rpy:214
@@ -18389,7 +18385,7 @@ translate russian lavish_massage_accept_male_fcdcd38a:
     lavish.say "Мило с твоей стороны заметить и предложить помощь."
 
 # ch/lavish/reactions.rpy:217
-translate russian lavish_massage_accept_male_860448c5:
+translate russian lavish_massage_accept_male_203c2144:
     lavish.say "Да... думаю, я бы не отказалась от массажа."
 
 # ch/lavish/reactions.rpy:221
@@ -18405,15 +18401,15 @@ translate russian lavish_massage_refuse_male_04cddf29:
     lavish.say "Сейчас мне меньше всего хочется, чтобы кто-то ко мне прикасался!"
 
 # ch/lavish/reactions.rpy:227
-translate russian lavish_piercing_nipples_reaction_male_52c2c7dc:
+translate russian lavish_piercing_nipples_reaction_male_31883566:
     lavish.say "Я... я раньше даже не думала о пирсинге сосков."
 
 # ch/lavish/reactions.rpy:228
-translate russian lavish_piercing_nipples_reaction_male_91cc7712:
+translate russian lavish_piercing_nipples_reaction_male_15f1eac8:
     lavish.say "Мне казалось, это... ну... непрофессионально!"
 
 # ch/lavish/reactions.rpy:229
-translate russian lavish_piercing_nipples_reaction_male_8f7a4b67:
+translate russian lavish_piercing_nipples_reaction_male_3d704bca:
     lavish.say "Но теперь, когда ты меня уговорил... мне очень нравится!"
 
 # ch/lavish/reactions.rpy:233
@@ -18429,7 +18425,7 @@ translate russian lavish_piercing_navel_reaction_male_22655806:
     lavish.say "Но мне нравится, и под одеждой его никто не увидит."
 
 # ch/lavish/reactions.rpy:239
-translate russian lavish_piercing_clit_reaction_male_b8d99bdc:
+translate russian lavish_piercing_clit_reaction_male_6c2b7d6c:
     lavish.say "Ты... ты никому не должен об этом рассказывать, [lssb_lavish.hero_name()]."
 
 # ch/lavish/reactions.rpy:240
@@ -18441,7 +18437,7 @@ translate russian lavish_piercing_clit_reaction_male_7aeff48d:
     lavish.say "Надеюсь только, на работе она не будет отвлекать!"
 
 # ch/lavish/reactions.rpy:245
-translate russian lavish_piercing_head_reaction_male_92ffa0e7:
+translate russian lavish_piercing_head_reaction_male_4a19a50e:
     lavish.say "М-м-м... на работе придётся держать рот закрытым!"
 
 # ch/lavish/reactions.rpy:246
@@ -18449,7 +18445,7 @@ translate russian lavish_piercing_head_reaction_male_ae1595b3:
     lavish.say "Но не в буквальном смысле, [lssb_lavish.hero_name()]!"
 
 # ch/lavish/reactions.rpy:247
-translate russian lavish_piercing_head_reaction_male_677bdccd:
+translate russian lavish_piercing_head_reaction_male_0094beb5:
     lavish.say "В общем... мне и правда нравится ощущать эту штуку..."
 
 # ch/lavish/reactions.rpy:251
@@ -18469,7 +18465,7 @@ translate russian lavish_piercing_nose_reaction_male_f5ab2e31:
     lavish.say "Не хочу, чтобы это помешало моей карьере!"
 
 # ch/lavish/reactions.rpy:258
-translate russian lavish_movie_disliked_reaction_male_3b80a453:
+translate russian lavish_movie_disliked_reaction_male_94d90923:
     lavish.say "Ах... этот фильм меня совсем не зацепил. Вообще не понравился."
 
 # ch/lavish/reactions.rpy:262
@@ -18581,7 +18577,7 @@ translate russian lavish_belly_kiss_male_8ce8c13d:
     mike.say "Мы уже давно..."
 
 # ch/lavish/reactions.rpy:302
-translate russian lavish_belly_kiss_male_c3fca434:
+translate russian lavish_belly_kiss_male_1d8c3967:
     mike.say "Давно не... целовались!"
 
 # ch/lavish/reactions.rpy:304
@@ -18737,7 +18733,7 @@ translate russian lavish_belly_caress_male_2da91ccf:
     lavish.say "Ты серьёзно?"
 
 # ch/lavish/reactions.rpy:360
-translate russian lavish_belly_caress_male_7af95ef4:
+translate russian lavish_belly_caress_male_110a105e:
     lavish.say "Т... ты правда так думаешь?"
 
 # ch/lavish/reactions.rpy:362
@@ -19137,7 +19133,7 @@ translate russian submissive_interact_lavish_male_c0fe2061:
     mike.say "Например, о том, как сильно я тебе нравлюсь?"
 
 # ch/lavish/talk.rpy:224
-translate russian submissive_interact_lavish_male_75406237:
+translate russian submissive_interact_lavish_male_7d226f43:
     lavish.say "О... совсем не ожидала от тебя такой просьбы!"
 
 # ch/lavish/talk.rpy:226
@@ -19161,7 +19157,7 @@ translate russian submissive_interact_lavish_male_5e33f78a:
     lavish.say "Но я всё равно должна соблюдать приличия!"
 
 # ch/lavish/talk.rpy:235
-translate russian submissive_interact_lavish_male_8a33ca32:
+translate russian submissive_interact_lavish_male_6ec5de08:
     mike.say "А... ладно, Лавиш, забудем об этом..."
 
 # ch/lavish/texts.rpy:7
@@ -19201,7 +19197,7 @@ translate russian lavish_friendly_texts_d08bcd5b:
     lavish_nvl "И надеюсь, что ты тоже обо мне думаешь..."
 
 # ch/lavish/texts.rpy:26
-translate russian lavish_flirty_texts_2a7eefc4:
+translate russian lavish_flirty_texts_168363b4:
     lavish_nvl "Я... не знаю, что со мной сегодня."
 
 # ch/lavish/texts.rpy:27
@@ -19225,7 +19221,7 @@ translate russian lavish_flirty_texts_a98ace1e:
     lavish_nvl "И ношу я это только для тебя!"
 
 # ch/lavish/texts.rpy:34
-translate russian lavish_flirty_texts_ea51fe9c:
+translate russian lavish_flirty_texts_b6eee996:
     lavish_nvl "Ах... работа сегодня выжала из меня все соки!"
 
 # ch/lavish/texts.rpy:35
@@ -19237,7 +19233,7 @@ translate russian lavish_flirty_texts_a845b3c8:
     lavish_nvl "Может, ты даже сделаешь мне массаж или что-нибудь в этом роде?"
 
 # ch/lavish/texts.rpy:45
-translate russian lavish_dirty_texts_d7139f67:
+translate russian lavish_dirty_texts_28873779:
     lavish_nvl "Ох... никак не могу сосредоточиться на работе!"
 
 # ch/lavish/texts.rpy:46
@@ -19245,7 +19241,7 @@ translate russian lavish_dirty_texts_7c2352a0:
     lavish_nvl "Всё время думаю о тебе!"
 
 # ch/lavish/texts.rpy:47
-translate russian lavish_dirty_texts_1775465f:
+translate russian lavish_dirty_texts_1a1ca17c:
     lavish_nvl "Ну... о тебе и о том, что я хочу, чтобы ты со мной сделал..."
 
 # ch/lavish/texts.rpy:49
@@ -19269,11 +19265,11 @@ translate russian lavish_dirty_texts_6088fa9c:
     lavish_nvl "Можно прийти поплавать в твоём бассейне?"
 
 # ch/lavish/texts.rpy:55
-translate russian lavish_dirty_texts_a0e54211:
+translate russian lavish_dirty_texts_30a0d7a8:
     lavish_nvl "Но... дело в том... что мне нужно знать, нет ли дома твоих соседок."
 
 # ch/lavish/texts.rpy:56
-translate russian lavish_dirty_texts_8440aa50:
+translate russian lavish_dirty_texts_7379b7c7:
     lavish_nvl "Потому что... ну... я хочу поплавать для тебя голышом!"
 
 # ch/lavish/texts.rpy:65
@@ -19353,7 +19349,7 @@ translate russian lavish_flirty_texts_male_25b66451:
     lavish_nvl "Я пытаюсь работать!"
 
 # ch/lavish/texts.rpy:127
-translate russian lavish_flirty_texts_male_27a1c25b:
+translate russian lavish_flirty_texts_male_3d319b24:
     lavish_nvl "Ладно... только быстро!"
 
 # ch/lavish/texts.rpy:128
@@ -19541,7 +19537,7 @@ translate russian lavish_dirty_texts_male_0a6460dd:
     lavish_nvl "Как приятно!"
 
 # ch/lavish/texts.rpy:268
-translate russian lavish_dirty_texts_male_1e2c6bd6:
+translate russian lavish_dirty_texts_male_27d4abd7:
     lavish_nvl "Ох... и уже намокает!"
 
 # ch/lavish/texts.rpy:271

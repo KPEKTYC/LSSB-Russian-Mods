@@ -60,7 +60,7 @@ translate russian reona_jack_01a_12214fcc:
 translate russian reona_jack_01a_a0a85475:
     mike.say "Нет, Реона, просто впускаю гостя, вот и всё."
 
-translate russian reona_jack_01a_539f7c16:
+translate russian reona_jack_01a_872ada3d:
     mike.say "Так... что случилось?"
 
 translate russian reona_jack_01a_eaf6222a:
@@ -366,7 +366,7 @@ translate russian reona_jack_01a_508c7a05:
 translate russian reona_jack_01a_32199bc3:
     bree.say "Разве запах новой книги не прекрасен?"
 
-translate russian reona_jack_01a_00c83a70:
+translate russian reona_jack_01a_e00929f7:
     jack.say "О... осторожнее, Бри!"
 
 translate russian reona_jack_01a_c3f39751:
@@ -519,7 +519,7 @@ translate russian reona_jack_01a_932ad020:
 translate russian reona_jack_01a_acdae7e8:
     jack.say "Классно, что ты решила прийти потусоваться со мной!"
 
-translate russian reona_jack_01a_2317a822:
+translate russian reona_jack_01a_18590e4b:
     jack.say "То есть... с нами! Со всеми нами!"
 
 translate russian reona_jack_01a_42c93cd8:
@@ -630,7 +630,7 @@ translate russian reona_jack_01a_4a3d45ca:
 translate russian reona_jack_01a_31af8753:
     reona.say "То есть это как спектакль?"
 
-translate russian reona_jack_01a_a6fc85a0:
+translate russian reona_jack_01a_bae8479b:
     reona.say "Мы — актёры, а этот... ведущий — режиссёр?"
 
 translate russian reona_jack_01a_9d7e2385:
@@ -681,7 +681,7 @@ translate russian reona_jack_01a_99b254b7:
 translate russian reona_jack_01a_f8481566:
     mike.say "Похоже, игра тебя заинтересовала, Реона."
 
-translate russian reona_jack_01a_7741a51b:
+translate russian reona_jack_01a_0cc5cc5e:
     mike.say "Может... ну... хочешь попробовать с нами?"
 
 translate russian reona_jack_01a_5a5ddc42:
@@ -993,7 +993,7 @@ translate russian reona_jack_02a_208c2c13:
 translate russian reona_jack_02a_7a94a5b0:
     "Моё замечание явно приводит Реону в замешательство."
 
-translate russian reona_jack_02a_6abd4c58:
+translate russian reona_jack_02a_a0a1fe42:
     reona.say "Что... что ты имеешь в виду?"
 
 translate russian reona_jack_02a_601fead0:
@@ -1038,7 +1038,7 @@ translate russian reona_jack_02a_b24a232a:
 translate russian reona_jack_02a_946c3cb4:
     "Потому что Реона смотрит на меня так, будто я её обругал."
 
-translate russian reona_jack_02a_6abd4c58_1:
+translate russian reona_jack_02a_a0a1fe42_1:
     reona.say "Что... что ты имеешь в виду?"
 
 translate russian reona_jack_02a_601fead0_1:
@@ -1083,7 +1083,7 @@ translate russian reona_jack_02a_38296da7:
 translate russian reona_jack_02a_37a78f26:
     "Слова Джека явно задевают Реону."
 
-translate russian reona_jack_02a_6abd4c58_2:
+translate russian reona_jack_02a_a0a1fe42_2:
     reona.say "Что... что ты имеешь в виду?"
 
 translate russian reona_jack_02a_601fead0_2:
@@ -1416,7 +1416,7 @@ translate russian reona_jack_03a_99690e54:
 translate russian reona_jack_03a_98a386fa:
     mike.say "Когда дело касается ролевых игр, у нас с этим довольно свободно."
 
-translate russian reona_jack_03a_44ee2a03:
+translate russian reona_jack_03a_54e60ec8:
     mike.say "Ну... по крайней мере, у меня. А Джек иногда ворчит, как старая бабка!"
 
 translate russian reona_jack_03a_ddc71946:
@@ -1488,7 +1488,7 @@ translate russian reona_jack_03a_2ff7d318:
 translate russian reona_jack_03a_8e66ad8a:
     "Реона отступает на шаг и косится на меня."
 
-translate russian reona_jack_03a_2d2c1d82:
+translate russian reona_jack_03a_9247e979:
     reona.say "Что... за... хрень?"
 
 translate russian reona_jack_03a_701450d7:
@@ -1596,7 +1596,7 @@ translate russian reona_jack_03a_e456d36b:
 translate russian reona_jack_03a_57cc8db9:
     reona.say "Эм..."
 
-translate russian reona_jack_03a_72a1fec4:
+translate russian reona_jack_03a_522d7a47:
     reona.say "Добрая... добрая девушка..."
 
 translate russian reona_jack_03a_38251916:
@@ -1722,7 +1722,7 @@ translate russian reona_jack_03a_5901bc96:
 translate russian reona_jack_03a_4610253b:
     jack.say "Он замялся, когда Реона предложила убить разбойников."
 
-translate russian reona_jack_03a_a2e17ad8:
+translate russian reona_jack_03a_67b0368f:
     reona.say "А... не надо было этого предлагать?"
 
 translate russian reona_jack_03a_b6a90373:
@@ -2277,7 +2277,7 @@ translate russian reona_jack_04a_eebb194b:
 translate russian reona_jack_04a_dfcd8b18:
     mike.say "Да, похоже на то!"
 
-translate russian reona_jack_04a_133f4150:
+translate russian reona_jack_04a_b7be773f:
     mike.say "Не знал, что они бывают такими острыми... миссис Уайт!"
 
 translate russian reona_jack_04a_3d51ac51:

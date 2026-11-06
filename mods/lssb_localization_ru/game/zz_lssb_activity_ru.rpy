@@ -53,7 +53,7 @@ screen tooltip():
                 if isinstance(tooltip, (ItemBase, tuple, list, str)):
                     xpos 30
                 else:
-                    xpos 10
+                    xpos 10 + button_column_shift(tooltip)
             vbox:
                 if isinstance(tooltip, Room):
                     xpos 50

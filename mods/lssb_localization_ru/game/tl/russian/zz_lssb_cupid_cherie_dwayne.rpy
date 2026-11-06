@@ -30,7 +30,7 @@ translate russian cupid_cherie_dwayne_event_01_e4fbd7a7:
 translate russian cupid_cherie_dwayne_event_01_bcdcbc34:
     mike.say "Привет, Алетта..."
 
-translate russian cupid_cherie_dwayne_event_01_0bf5040d:
+translate russian cupid_cherie_dwayne_event_01_ec106779:
     aletta.say "Чт... что?!"
 
 translate russian cupid_cherie_dwayne_event_01_5362a919:
@@ -105,7 +105,7 @@ translate russian cupid_cherie_dwayne_event_01_ce565589:
 translate russian cupid_cherie_dwayne_event_01_2847e078_1:
     aletta.say "Ну..."
 
-translate russian cupid_cherie_dwayne_event_01_f5948097:
+translate russian cupid_cherie_dwayne_event_01_3aad1ce9:
     aletta.say "Возможно, они ссорятся из-за... меня!"
 
 translate russian cupid_cherie_dwayne_event_01_47ee9549:
@@ -417,7 +417,7 @@ translate russian cupid_cherie_dwayne_event_01_00ba138e:
 translate russian cupid_cherie_dwayne_event_01_87ff2b32:
     dwayne.say "Ай..."
 
-translate russian cupid_cherie_dwayne_event_01_9dc0733b:
+translate russian cupid_cherie_dwayne_event_01_75299a1a:
     dwayne.say "Я... то есть... ах, какое чудесное воспоминание."
 
 translate russian cupid_cherie_dwayne_event_01_30f4855a:
@@ -477,7 +477,7 @@ translate russian cupid_cherie_dwayne_event_01_7c286698:
 translate russian cupid_cherie_dwayne_event_01_8880d5b4:
     dwayne.say "Ух!"
 
-translate russian cupid_cherie_dwayne_event_01_a285a102:
+translate russian cupid_cherie_dwayne_event_01_c3606ad6:
     dwayne.say "Проницательность... Поразительно, как глубоко ты заглянул в моё сердце!"
 
 translate russian cupid_cherie_dwayne_event_01_093028bd:
@@ -534,7 +534,7 @@ translate russian cupid_cherie_dwayne_event_02_86d07102:
 translate russian cupid_cherie_dwayne_event_02_3306af20:
     mike.say "Привет, Дуэйн..."
 
-translate russian cupid_cherie_dwayne_event_02_4eaebfaa:
+translate russian cupid_cherie_dwayne_event_02_e4e91f2e:
     mike.say "Выглядишь сегодня... бодро."
 
 translate russian cupid_cherie_dwayne_event_02_350c14b9:
@@ -618,7 +618,7 @@ translate russian cupid_cherie_dwayne_event_02_575a1391:
 translate russian cupid_cherie_dwayne_event_02_c0cc0fa2:
     dwayne.say "Ну ты и шутник, [hero.name]!"
 
-translate russian cupid_cherie_dwayne_event_02_a1725549:
+translate russian cupid_cherie_dwayne_event_02_02b509e2:
     mike.say "Я... правда?"
 
 translate russian cupid_cherie_dwayne_event_02_ba57e82c:
@@ -654,7 +654,7 @@ translate russian cupid_cherie_dwayne_event_02_f9615990:
 translate russian cupid_cherie_dwayne_event_02_c0cc0fa2_1:
     dwayne.say "Ну ты и шутник, [hero.name]!"
 
-translate russian cupid_cherie_dwayne_event_02_a1725549_1:
+translate russian cupid_cherie_dwayne_event_02_02b509e2_1:
     mike.say "Я... правда?"
 
 translate russian cupid_cherie_dwayne_event_02_f3faa868:
@@ -699,7 +699,7 @@ translate russian cupid_cherie_dwayne_event_02_3d8a5230:
 translate russian cupid_cherie_dwayne_event_02_7abc47ee:
     "И в его улыбке появляется что-то особенное, а глаза будто светятся."
 
-translate russian cupid_cherie_dwayne_event_02_4c0154f2:
+translate russian cupid_cherie_dwayne_event_02_35cddee0:
     "Это почти... даже не верится... трогательно?"
 
 translate russian cupid_cherie_dwayne_event_02_98d89819:
@@ -726,7 +726,7 @@ translate russian cupid_cherie_dwayne_event_02_662ee03b:
 translate russian cupid_cherie_dwayne_event_02_d26cfea0:
     mike.say "Понимаешь, у меня нет спорткара!"
 
-translate russian cupid_cherie_dwayne_event_02_e473693c:
+translate russian cupid_cherie_dwayne_event_02_6981a813:
     dwayne.say "А... ну..."
 
 translate russian cupid_cherie_dwayne_event_02_b920affe:
@@ -744,7 +744,7 @@ translate russian cupid_cherie_dwayne_event_02_22a54786:
 translate russian cupid_cherie_dwayne_event_02_2940b051:
     "Дуэйн отмахивается от моих возражений."
 
-translate russian cupid_cherie_dwayne_event_02_5e666b2b:
+translate russian cupid_cherie_dwayne_event_02_9c8ce1ba:
     dwayne.say "Да-да... неважно..."
 
 translate russian cupid_cherie_dwayne_event_02_e7d61af3:
@@ -777,7 +777,7 @@ translate russian cupid_cherie_dwayne_event_02_a39b2277:
 translate russian cupid_cherie_dwayne_event_02_9f0f64b1:
     aletta.say "Так вот кто я для тебя, Дуэйн?"
 
-translate russian cupid_cherie_dwayne_event_02_eca1814c:
+translate russian cupid_cherie_dwayne_event_02_00d39b8c:
     aletta.say "Живой аналог... паршивого бургера?!"
 
 translate russian cupid_cherie_dwayne_event_02_71be0a7e:
@@ -792,7 +792,7 @@ translate russian cupid_cherie_dwayne_event_02_bae12523:
 translate russian cupid_cherie_dwayne_event_02_b933ff6e:
     dwayne.say "Как раз тебя я и искал!"
 
-translate russian cupid_cherie_dwayne_event_02_e5e92372:
+translate russian cupid_cherie_dwayne_event_02_b2dfc968:
     dwayne.say "Насчёт всех этих... особых встреч, понимаешь?"
 
 translate russian cupid_cherie_dwayne_event_02_e125536f:
@@ -840,7 +840,7 @@ translate russian cupid_cherie_dwayne_event_02_74fcd2f9:
 translate russian cupid_cherie_dwayne_event_02_1b8de074:
     dwayne.say "Не будь дурой, Алетта..."
 
-translate russian cupid_cherie_dwayne_event_02_5dd80945:
+translate russian cupid_cherie_dwayne_event_02_07f0688b:
     dwayne.say "Ты знала, на что шла, когда мы начали... консультироваться наедине."
 
 translate russian cupid_cherie_dwayne_event_02_46642aef:
@@ -996,7 +996,7 @@ translate russian cupid_cherie_dwayne_event_02_b4b9c31a:
 translate russian cupid_cherie_dwayne_event_02_19c11f6b:
     "Улыбка медленно расцветает на её лице, и я вижу, насколько Алетта красива."
 
-translate russian cupid_cherie_dwayne_event_02_d70c54cc:
+translate russian cupid_cherie_dwayne_event_02_d88431fc:
     "Я... то есть я и так знаю, что она красивая. У меня же есть глаза."
 
 translate russian cupid_cherie_dwayne_event_02_b58d43fb:
@@ -1254,7 +1254,7 @@ translate russian cupid_cherie_dwayne_ending_67a0e007:
 translate russian cupid_cherie_dwayne_ending_abc6242b:
     "Priest" "Эм..."
 
-translate russian cupid_cherie_dwayne_ending_43d3ef9e:
+translate russian cupid_cherie_dwayne_ending_88117b11:
     "Priest" "Пожалуй... спасибо..."
 
 translate russian cupid_cherie_dwayne_ending_81a70b3a:
@@ -1290,7 +1290,7 @@ translate russian cupid_cherie_dwayne_ending_ba9d17ad:
 translate russian cupid_cherie_dwayne_ending_26a6f911:
     dwayne.say "И надрать дохлую задницу любому, кто встанет у тебя на пути!"
 
-translate russian cupid_cherie_dwayne_ending_19857050:
+translate russian cupid_cherie_dwayne_ending_8efe9450:
     "Priest" "Что ж, это было... оригинально."
 
 translate russian cupid_cherie_dwayne_ending_0ca156e6:
@@ -1335,7 +1335,7 @@ translate russian cupid_cherie_dwayne_ending_c0044750:
 translate russian cupid_cherie_dwayne_ending_beb0c504:
     "Priest" "Итак, вы вновь принесли брачные клятвы."
 
-translate russian cupid_cherie_dwayne_ending_7ab170ec:
+translate russian cupid_cherie_dwayne_ending_d9149afe:
     "Priest" "Можете поцеловать невесту... то есть супругу!"
 
 translate russian cupid_cherie_dwayne_ending_93cd5576:

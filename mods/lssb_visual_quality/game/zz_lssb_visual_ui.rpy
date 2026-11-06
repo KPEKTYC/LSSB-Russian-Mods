@@ -128,6 +128,7 @@ screen _lssb_visual_map_label(label, x, y, location_id=None):
 
 screen map(locations):
     variant "lssb_visual_ui_26_8_0d"
+    default hovered_location = None
     if not (renpy.get_screen("smartphone") or renpy.get_screen("story_tracker")):
         fixed:
             at master_bleed
@@ -135,10 +136,13 @@ screen map(locations):
             for location in locations:
 
                 $ x, y = map_location_positions[location.id]
-                $ npcs = location.get_present_npcs_ids_by_tag()[:6]
-                $ self_voicing_location = f"{location.display_name}; {'; '.join(npcs)}"
+                $ everyone = location.get_present_npcs_ids_by_tag()
+                $ npcs = everyone[:6]
+                $ self_voicing_location = f"{location.display_name}; {'; '.join(everyone)}"
                 imagebutton auto "lssb_visual_quality/ui/map_hex_%s.svg" xpos x ypos y xanchor 0.5 yanchor 0.5 alt self_voicing_location:
                     action [Function(location.travel_to), SetVariable("game.room", location.id), Return()]
+                    hovered SetScreenVariable("hovered_location", location.id)
+                    unhovered SetScreenVariable("hovered_location", None)
                 for n_index, npc in enumerate(npcs):
                     $ x_g = x
                     $ y_g = y
@@ -162,6 +166,7 @@ screen map(locations):
                         yanchor 0.5
                         add "gui/icons/icon_bg_small.png"
                         add f"notify {npc}"
+                use map_more_people(x, y, len(everyone), hovered_location == location.id)
                 if location.id == "housemap":
                     $ location_name = "Home"
                 elif location.id == "mallmap":
@@ -184,6 +189,7 @@ screen map(locations):
 
 screen housemap(locations):
     variant "lssb_visual_ui_26_8_0d"
+    default hovered_location = None
     if not (renpy.get_screen("smartphone") or renpy.get_screen("story_tracker")):
         fixed:
             at master_bleed
@@ -198,10 +204,13 @@ screen housemap(locations):
             text _lssb_visual_ui_translate("City") font "exo2_bold" outlines [(1, "#083449")] color "#ffffff" xpos 1000 ypos 610 xanchor 0.5 yanchor 0.5 alt ""
             for location in [l for l in locations if l.id in housemap_location_positions[house_floor]]:
                 $ x, y = housemap_location_positions[house_floor][location.id]
-                $ npcs = location.get_present_npcs_ids()[:6]
-                $ self_voicing_location = f"{location.display_name}; {'; '.join(npcs)}"
+                $ everyone = location.get_present_npcs_ids()
+                $ npcs = everyone[:6]
+                $ self_voicing_location = f"{location.display_name}; {'; '.join(everyone)}"
                 imagebutton auto "lssb_visual_quality/ui/map_hex_%s.svg" xpos x ypos y xanchor 0.5 yanchor 0.5 alt self_voicing_location:
                     action SetVariable("game.room",location.id), Return()
+                    hovered SetScreenVariable("hovered_location", location.id)
+                    unhovered SetScreenVariable("hovered_location", None)
                 for n_index, npc in enumerate(npcs):
                     $ x_g = x
                     $ y_g = y
@@ -225,6 +234,7 @@ screen housemap(locations):
                         yanchor 0.5
                         add "gui/icons/icon_bg_small.png"
                         add f"notify {npc}"
+                use map_more_people(x, y, len(everyone), hovered_location == location.id)
                 $ location_name = location.display_name
                 use _lssb_visual_map_label(location_name, x, y, location.id)
         if persistent.new_ui:

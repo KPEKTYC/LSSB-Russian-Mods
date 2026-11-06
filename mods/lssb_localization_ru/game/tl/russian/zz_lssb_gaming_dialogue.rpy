@@ -8,10 +8,6 @@ translate russian bree_kat_threesome_02cab52d:
 translate russian bree_kat_threesome_27cbf110:
     "У неё серьёзное лицо — почти такое же серьёзное, как сейчас у меня."
 
-# ch/harems_full/gaming/events.rpy:55
-translate russian bree_kat_threesome_1bd45b8d:
-    mike.say "Всё готово, [bree.name]?"
-
 # ch/harems_full/gaming/events.rpy:56
 translate russian bree_kat_threesome_a25ca313:
     mike.say "Можно начинать?"
@@ -35,10 +31,6 @@ translate russian bree_kat_threesome_c0b864ff:
 # ch/harems_full/gaming/events.rpy:63
 translate russian bree_kat_threesome_95f1b51d:
     "Я прищуриваюсь, словно хочу насквозь увидеть, что скрывает [bree.name]."
-
-# ch/harems_full/gaming/events.rpy:64
-translate russian bree_kat_threesome_648134d4:
-    mike.say "Уверена, [bree.name]?"
 
 # ch/harems_full/gaming/events.rpy:65
 translate russian bree_kat_threesome_93d63763:
@@ -132,10 +124,6 @@ translate russian bree_kat_threesome_f2d50f95:
 translate russian bree_kat_threesome_af547411:
     "И приступаем!"
 
-# ch/harems_full/gaming/events.rpy:96
-translate russian bree_kat_threesome_c75b55e8:
-    mike.say "Надеюсь, ты готова получить по заднице, [bree.name]!"
-
 # ch/harems_full/gaming/events.rpy:97
 translate russian bree_kat_threesome_1b96789a:
     bree.say "Ах да?"
@@ -153,7 +141,7 @@ translate russian bree_kat_threesome_39a4d847:
     "Оба на взводе и готовы к бою!"
 
 # ch/harems_full/gaming/events.rpy:101
-translate russian bree_kat_threesome_ac5dfd6f:
+translate russian bree_kat_threesome_f1523035:
     "Господи... У других людей совместные игры тоже вызывают такое сексуальное напряжение?"
 
 # ch/harems_full/gaming/events.rpy:103
@@ -205,7 +193,7 @@ translate russian bree_kat_threesome_646de1f8:
     bree.say "Может, если не обращать внимания, им надоест и они уйдут?"
 
 # ch/harems_full/gaming/events.rpy:121
-translate russian bree_kat_threesome_d4b49925:
+translate russian bree_kat_threesome_7b40ada2:
     mike.say "Не-а... Могут вернуться и постучать ещё раз."
 
 # ch/harems_full/gaming/events.rpy:122
@@ -312,10 +300,6 @@ translate russian bree_kat_threesome_fe4b955d:
 translate russian bree_kat_threesome_76706b5f:
     "Она поглядывает на меня, словно ждёт, что я приду на помощь."
 
-# ch/harems_full/gaming/events.rpy:164
-translate russian bree_kat_threesome_7a340d88:
-    mike.say "Ладно, [bree.name]..."
-
 # ch/harems_full/gaming/events.rpy:165
 translate russian bree_kat_threesome_73072930:
     mike.say "Раскрою карты."
@@ -345,7 +329,7 @@ translate russian bree_kat_threesome_ac87ceab:
     "Но она всё же набирается смелости объясниться."
 
 # ch/harems_full/gaming/events.rpy:173
-translate russian bree_kat_threesome_8addc338:
+translate russian bree_kat_threesome_f0672014:
     kat.say "Я... я просто увидела, что вы играете в видеоигры."
 
 # ch/harems_full/gaming/events.rpy:174
@@ -420,10 +404,6 @@ translate russian bree_kat_threesome_3e5e4650:
 translate russian bree_kat_threesome_f0144bb5:
     bree.say "Но на тебя я злюсь, [lssb_common.hero_name()]!"
 
-# ch/harems_full/gaming/events.rpy:199
-translate russian bree_kat_threesome_1029a68a:
-    mike.say "Прости, [bree.name]..."
-
 # ch/harems_full/gaming/events.rpy:200
 translate russian bree_kat_threesome_a835fd8c:
     mike.say "Я заглажу вину, хорошо?"
@@ -439,10 +419,6 @@ translate russian bree_kat_threesome_037d5d86:
 # ch/harems_full/gaming/events.rpy:207
 translate russian bree_kat_threesome_f1d0e7c2:
     bree.say "Что думаешь, [lssb_common.hero_name()]?"
-
-# ch/harems_full/gaming/events.rpy:211
-translate russian bree_kat_threesome_0a255b68:
-    mike.say "Мне не очень нравится, что она следит за нами в Zbox Network, [bree.name]!"
 
 # ch/harems_full/gaming/events.rpy:212
 translate russian bree_kat_threesome_7c5bf220:
@@ -477,7 +453,7 @@ translate russian bree_kat_threesome_96ff4fc7:
     "Она кивает, словно разочарованная, но смирившаяся."
 
 # ch/harems_full/gaming/events.rpy:222
-translate russian bree_kat_threesome_88ba0897:
+translate russian bree_kat_threesome_8eada88c:
     kat.say "А... ну ладно..."
 
 # ch/harems_full/gaming/events.rpy:223
@@ -515,10 +491,6 @@ translate russian bree_kat_threesome_5ff9e0d6:
 # ch/harems_full/gaming/events.rpy:235
 translate russian bree_kat_threesome_6f332cee:
     "Я просто киваю и иду за ней в гостиную, чтобы наконец как следует поиграть."
-
-# ch/harems_full/gaming/events.rpy:238
-translate russian bree_kat_threesome_185895f5:
-    mike.say "Мы ведь и правда сглупили, войдя в Zbox Network, [bree.name]."
 
 # ch/harems_full/gaming/events.rpy:239
 translate russian bree_kat_threesome_0aa0e949:
@@ -645,7 +617,7 @@ translate russian gaming_harem_event_03_fuck_5879cb35:
     kat.say "Вот я и думаю, это потому..."
 
 # ch/harems_full/gaming/events.rpy:289
-translate russian gaming_harem_event_03_fuck_5f03718e:
+translate russian gaming_harem_event_03_fuck_d58dfc1d:
     kat.say "Ну... потому что вы вместе?"
 
 # ch/harems_full/gaming/events.rpy:292
@@ -657,7 +629,7 @@ translate russian gaming_harem_event_03_fuck_ef06d4c9:
     "[bree.name] и я удивлённо переглядываемся."
 
 # ch/harems_full/gaming/events.rpy:295
-translate russian gaming_harem_event_03_fuck_7a727c25:
+translate russian gaming_harem_event_03_fuck_d0ef319a:
     bree.say "Знаешь... Я об этом не задумывалась."
 
 # ch/harems_full/gaming/events.rpy:296
@@ -673,11 +645,11 @@ translate russian gaming_harem_event_03_fuck_01fb3226:
     "А она отводит взгляд и заметно краснеет."
 
 # ch/harems_full/gaming/events.rpy:300
-translate russian gaming_harem_event_03_fuck_7f50a9c2:
+translate russian gaming_harem_event_03_fuck_02182fc1:
     kat.say "Я... вы случайно не..."
 
 # ch/harems_full/gaming/events.rpy:301
-translate russian gaming_harem_event_03_fuck_4840f53e:
+translate russian gaming_harem_event_03_fuck_78dcb6b2:
     kat.say "Не позволите мне... тоже присоединиться?"
 
 # ch/harems_full/gaming/events.rpy:304
@@ -689,7 +661,7 @@ translate russian gaming_harem_event_03_fuck_61b4d28c:
     bree.say "Кэт!"
 
 # ch/harems_full/gaming/events.rpy:306
-translate russian gaming_harem_event_03_fuck_3ab5e2de:
+translate russian gaming_harem_event_03_fuck_6b41e01e:
     bree.say "Ты сейчас... предложила нам секс?!"
 
 # ch/harems_full/gaming/events.rpy:308
@@ -701,7 +673,7 @@ translate russian gaming_harem_event_03_fuck_77e99d34:
     kat.say "В общем-то да, [bree.name]!"
 
 # ch/harems_full/gaming/events.rpy:310
-translate russian gaming_harem_event_03_fuck_a0f08973:
+translate russian gaming_harem_event_03_fuck_fe56629e:
     kat.say "Так... что скажете?"
 
 # ch/harems_full/gaming/events.rpy:312
@@ -881,7 +853,7 @@ translate russian gaming_harem_event_03_fuck_b9ae9968:
     mike.say "Что-то не так, Кэт?"
 
 # ch/harems_full/gaming/events.rpy:369
-translate russian gaming_harem_event_03_fuck_064070e4:
+translate russian gaming_harem_event_03_fuck_c63ea32e:
     kat.say "А... эм... нет!"
 
 # ch/harems_full/gaming/events.rpy:370
@@ -949,7 +921,7 @@ translate russian gaming_harem_event_03_fuck_a19588fb:
     "Кроме затихающего блаженства и воспоминаний, которые останутся гораздо дольше."
 
 # ch/harems_full/gaming/events.rpy:392
-translate russian gaming_harem_event_03_fuck_f85d5859:
+translate russian gaming_harem_event_03_fuck_6bf829c2:
     kat.say "С-спасибо вам, ребята!"
 
 # ch/harems_full/gaming/events.rpy:393
@@ -969,7 +941,7 @@ translate russian gaming_harem_event_03_fuck_1e4633b3:
     bree.say "Я бы с радостью снова тобой занялась!"
 
 # ch/harems_full/gaming/events.rpy:399
-translate russian gaming_harem_event_03_fuck_dcbc9fed:
+translate russian gaming_harem_event_03_fuck_547425ca:
     bree.say "То есть... с радостью снова пригласила бы тебя поиграть..."
 
 # ch/harems_full/gaming/events.rpy:400
@@ -1043,10 +1015,6 @@ translate russian gaming_harem_threesome_fuck_b2682f5d:
 # ch/harems_full/gaming/events.rpy:437
 translate russian gaming_harem_threesome_fuck_c3db0093:
     "И на случай, если ещё остались сомнения, для верности его сжимает!"
-
-# ch/harems_full/gaming/events.rpy:439
-translate russian gaming_harem_threesome_fuck_fddff54b:
-    mike.say "Ладно, [bree.name], ладно!"
 
 # ch/harems_full/gaming/events.rpy:440
 translate russian gaming_harem_threesome_fuck_995c8d40:
@@ -1608,10 +1576,6 @@ translate russian gaming_harem_threesome_fuck_b2682f5d_1:
 translate russian gaming_harem_threesome_fuck_c3db0093_1:
     "И на случай, если ещё остались сомнения, для верности его сжимает!"
 
-# ch/harems_full/gaming/events.rpy:616
-translate russian gaming_harem_threesome_fuck_fddff54b_1:
-    mike.say "Ладно, [bree.name], ладно!"
-
 # ch/harems_full/gaming/events.rpy:617
 translate russian gaming_harem_threesome_fuck_995c8d40_1:
     mike.say "Я понял: ты главная!"
@@ -1673,7 +1637,7 @@ translate russian gaming_harem_threesome_fuck_53be94d1:
     "И я без колебаний подаюсь тазом вверх, пользуясь моментом."
 
 # ch/harems_full/gaming/events.rpy:637
-translate russian gaming_harem_threesome_fuck_163e6578:
+translate russian gaming_harem_threesome_fuck_c5b96bce:
     kat.say "О... о боже..."
 
 # ch/harems_full/gaming/events.rpy:638
@@ -1729,15 +1693,15 @@ translate russian gaming_harem_threesome_fuck_cee61cb8:
     "Но затем её тело поддаётся, и я почти проваливаюсь внутрь!"
 
 # ch/harems_full/gaming/events.rpy:653
-translate russian gaming_harem_threesome_fuck_3afad043:
+translate russian gaming_harem_threesome_fuck_593b3072:
     kat.say "Ах... ах..."
 
 # ch/harems_full/gaming/events.rpy:654
-translate russian gaming_harem_threesome_fuck_93863897:
+translate russian gaming_harem_threesome_fuck_5a7d684b:
     kat.say "Ух... о, блядь!"
 
 # ch/harems_full/gaming/events.rpy:656
-translate russian gaming_harem_threesome_fuck_927d8eb8:
+translate russian gaming_harem_threesome_fuck_d53c4cac:
     kat.say "Д-да..."
 
 # ch/harems_full/gaming/events.rpy:657
@@ -1769,15 +1733,15 @@ translate russian gaming_harem_threesome_fuck_b8f63323:
     "А [bree.name] едва успевает продолжать сжимать и ласкать её."
 
 # ch/harems_full/gaming/events.rpy:665
-translate russian gaming_harem_threesome_fuck_70c348f8:
+translate russian gaming_harem_threesome_fuck_cf40e3a5:
     kat.say "Б-блядь..."
 
 # ch/harems_full/gaming/events.rpy:666
-translate russian gaming_harem_threesome_fuck_50e053ee:
+translate russian gaming_harem_threesome_fuck_99bd2c83:
     kat.say "Т-такой... большой..."
 
 # ch/harems_full/gaming/events.rpy:668
-translate russian gaming_harem_threesome_fuck_9597e2d4:
+translate russian gaming_harem_threesome_fuck_e9f999cb:
     kat.say "Пожалуйста... трахай меня... сильнее!"
 
 # ch/harems_full/gaming/events.rpy:669
@@ -1909,11 +1873,11 @@ translate russian gaming_harem_threesome_fuck_53be94d1_1:
     "И я без колебаний подаюсь тазом вверх, пользуясь моментом."
 
 # ch/harems_full/gaming/events.rpy:714
-translate russian gaming_harem_threesome_fuck_163e6578_1:
+translate russian gaming_harem_threesome_fuck_c5b96bce_1:
     kat.say "О... о боже..."
 
 # ch/harems_full/gaming/events.rpy:716
-translate russian gaming_harem_threesome_fuck_f26df7a6:
+translate russian gaming_harem_threesome_fuck_ee0918eb:
     kat.say "Это... это моя задница!"
 
 # ch/harems_full/gaming/events.rpy:717
@@ -1965,15 +1929,15 @@ translate russian gaming_harem_threesome_fuck_cee61cb8_1:
     "Но затем её тело поддаётся, и я почти проваливаюсь внутрь!"
 
 # ch/harems_full/gaming/events.rpy:730
-translate russian gaming_harem_threesome_fuck_3afad043_1:
+translate russian gaming_harem_threesome_fuck_593b3072_1:
     kat.say "Ах... ах..."
 
 # ch/harems_full/gaming/events.rpy:731
-translate russian gaming_harem_threesome_fuck_93863897_1:
+translate russian gaming_harem_threesome_fuck_5a7d684b_1:
     kat.say "Ух... о, блядь!"
 
 # ch/harems_full/gaming/events.rpy:733
-translate russian gaming_harem_threesome_fuck_927d8eb8_1:
+translate russian gaming_harem_threesome_fuck_d53c4cac_1:
     kat.say "Д-да..."
 
 # ch/harems_full/gaming/events.rpy:734
@@ -2009,15 +1973,15 @@ translate russian gaming_harem_threesome_fuck_b8f63323_1:
     "А [bree.name] едва успевает продолжать сжимать и ласкать её."
 
 # ch/harems_full/gaming/events.rpy:743
-translate russian gaming_harem_threesome_fuck_70c348f8_1:
+translate russian gaming_harem_threesome_fuck_cf40e3a5_1:
     kat.say "Б-блядь..."
 
 # ch/harems_full/gaming/events.rpy:744
-translate russian gaming_harem_threesome_fuck_50e053ee_1:
+translate russian gaming_harem_threesome_fuck_99bd2c83_1:
     kat.say "Т-такой... большой..."
 
 # ch/harems_full/gaming/events.rpy:746
-translate russian gaming_harem_threesome_fuck_9597e2d4_1:
+translate russian gaming_harem_threesome_fuck_e9f999cb_1:
     kat.say "Пожалуйста... трахай меня... сильнее!"
 
 # ch/harems_full/gaming/events.rpy:747

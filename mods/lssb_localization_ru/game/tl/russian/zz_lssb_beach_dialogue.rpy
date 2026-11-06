@@ -9,7 +9,7 @@ translate russian home_harem_beach_date_set_up_de134bc7:
     sasha.say "Ты везёшь нас на пляж."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:74
-translate russian home_harem_beach_date_set_up_1eb0943a:
+translate russian home_harem_beach_date_set_up_f69bf460:
     mike.say "Ого... ладно!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:81
@@ -92,10 +92,6 @@ translate russian home_harem_bree_sasha_beach_date_2fe7af57:
 translate russian home_harem_bree_sasha_beach_date_a41b3b9e:
     "Тогда [lssb_beach.bree_name()] и Саша смогут поделить между собой полотенца и зонтик."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:130
-translate russian home_harem_bree_sasha_beach_date_2d967f96:
-    mike.say "Эй, [lssb_beach.bree_name()]."
-
 # ch/harems/home/events/home_harem_beach_date.rpy:131
 translate russian home_harem_bree_sasha_beach_date_c4340890:
     mike.say "Это для тебя слишком тяжело."
@@ -125,7 +121,7 @@ translate russian home_harem_bree_sasha_beach_date_71f1fb0d:
     "Не то чтобы [lssb_beach.bree_name()] была слабачкой, но даже мне приходится туго!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:140
-translate russian home_harem_bree_sasha_beach_date_c0b07a72:
+translate russian home_harem_bree_sasha_beach_date_172d8b85:
     mike.say "Без... проблем... [lssb_beach.bree_name()]!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:141
@@ -293,7 +289,7 @@ translate russian home_harem_bree_sasha_beach_date_5c6dda85:
     "Но другая часть меня хочет притвориться спящей и предоставить им разбираться самим."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:208
-translate russian home_harem_bree_sasha_beach_date_d1e39743:
+translate russian home_harem_bree_sasha_beach_date_d72d5175:
     mike.say "А... что случилось?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:210
@@ -309,7 +305,7 @@ translate russian home_harem_bree_sasha_beach_date_2ba09f41:
     "Я пожимаю плечами и жду продолжения, но его не следует."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:214
-translate russian home_harem_bree_sasha_beach_date_b485d418:
+translate russian home_harem_bree_sasha_beach_date_8859c1ad:
     mike.say "И в чём... собственно, проблема?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:216
@@ -497,7 +493,7 @@ translate russian home_harem_bree_sasha_beach_date_3a3c878a:
     sasha.say "Ага, побереги силы — тебе ещё всю эту тяжеленную хрень тащить!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:292
-translate russian home_harem_bree_sasha_beach_date_3ec475d9:
+translate russian home_harem_bree_sasha_beach_date_5973df98:
     mike.say "Ха-ха... очень смешно, девчонки."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:293
@@ -601,7 +597,7 @@ translate russian home_harem_bree_sasha_beach_date_32076a38:
     bree.say "Эй, Саша, ты уронила мяч!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:326
-translate russian home_harem_bree_sasha_beach_date_05b261db:
+translate russian home_harem_bree_sasha_beach_date_40a357a1:
     sasha.say "Ай... чёрт..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:327
@@ -701,27 +697,23 @@ translate russian home_harem_bree_sasha_beach_date_afba929b:
     "Но тут в голову приходит жестокая, хотя и забавная мысль."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:362
-translate russian home_harem_bree_sasha_beach_date_76d6f28a:
+translate russian home_harem_bree_sasha_beach_date_e59b4655:
     mike.say "Ах... чёрт!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:363
-translate russian home_harem_bree_sasha_beach_date_23433228:
+translate russian home_harem_bree_sasha_beach_date_89307298:
     bree.say "Чт... что случилось?!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:364
-translate russian home_harem_bree_sasha_beach_date_017e6c02:
+translate russian home_harem_bree_sasha_beach_date_aacfc640:
     mike.say "Я... кажется, у меня судорога... ногу свело!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:365
-translate russian home_harem_bree_sasha_beach_date_c0adfadb:
-    mike.say "[lssb_beach.bree_name()], тебе придётся помочь Саше, и побыстрее!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:368
 translate russian home_harem_bree_sasha_beach_date_5a90f6b0:
     "[lssb_beach.bree_name()] содрогается от одного предложения и отчаянно мотает головой."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:369
-translate russian home_harem_bree_sasha_beach_date_529e88a7:
+translate russian home_harem_bree_sasha_beach_date_3a161f6d:
     bree.say "Я... нет... не могу..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:370
@@ -820,10 +812,6 @@ translate russian home_harem_bree_sasha_beach_date_046a98a3:
 translate russian home_harem_bree_sasha_beach_date_fcf7cc98:
     "К тому времени, как мы возвращаемся к своим вещам, Саша тоже наблюдает за этим представлением."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:406
-translate russian home_harem_bree_sasha_beach_date_b03731c6:
-    mike.say "Эм, [lssb_beach.bree_name()]..."
-
 # ch/harems/home/events/home_harem_beach_date.rpy:407
 translate russian home_harem_bree_sasha_beach_date_ec729de2:
     mike.say "Тебе помочь?"
@@ -909,7 +897,7 @@ translate russian home_harem_bree_sasha_beach_date_ec4f9c86:
     bree.say "Ах..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:437
-translate russian home_harem_bree_sasha_beach_date_6a6bd10c:
+translate russian home_harem_bree_sasha_beach_date_b2c7b52c:
     bree.say "К... кажется, ты уже всё слизал!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:438
@@ -1005,7 +993,7 @@ translate russian home_harem_bree_sasha_beach_date_ec4f9c86_1:
     bree.say "Ах..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:475
-translate russian home_harem_bree_sasha_beach_date_6a6bd10c_1:
+translate russian home_harem_bree_sasha_beach_date_b2c7b52c_1:
     bree.say "К... кажется, ты уже всё слизала!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:478
@@ -1080,10 +1068,6 @@ translate russian home_harem_bree_sasha_beach_fuck_b13976a9:
 translate russian home_harem_bree_sasha_beach_fuck_681e5734:
     "Она приподняла бровь и упёрла руки в бока."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:512
-translate russian home_harem_bree_sasha_beach_fuck_577db47c:
-    mike.say "Просто начал собираться, [lssb_beach.bree_name()]."
-
 # ch/harems/home/events/home_harem_beach_date.rpy:513
 translate russian home_harem_bree_sasha_beach_fuck_acb9b316:
     mike.say "Уже почти пора домой, разве нет?"
@@ -1129,7 +1113,7 @@ translate russian home_harem_bree_sasha_beach_fuck_272bde23:
     "Забыл натереть их горячие тела кремом от солнца?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:525
-translate russian home_harem_bree_sasha_beach_fuck_b15a83b2:
+translate russian home_harem_bree_sasha_beach_fuck_c81d9e4d:
     "Эм... нет, такое я бы запомнил!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:526
@@ -1341,11 +1325,11 @@ translate russian home_harem_bree_sasha_beach_fuck_dcae84a2:
     sasha.say "Ах..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:647
-translate russian home_harem_bree_sasha_beach_fuck_efe6edda:
+translate russian home_harem_bree_sasha_beach_fuck_1aefec6b:
     sasha.say "Ох... ох, трахни меня..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:648
-translate russian home_harem_bree_sasha_beach_fuck_eabfe54f:
+translate russian home_harem_bree_sasha_beach_fuck_b3cee8d4:
     sasha.say "Сильнее... трахай меня сильнее!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:649
@@ -1557,7 +1541,7 @@ translate russian home_harem_bree_lexi_beach_date_dc8ff66d:
     "Поэтому могут спокойно стоять и смеяться, пока я подпрыгиваю на песке."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:729
-translate russian home_harem_bree_lexi_beach_date_f6d27862:
+translate russian home_harem_bree_lexi_beach_date_82c9f655:
     mike.say "Ха-ха... очень смешно!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:730
@@ -1692,10 +1676,6 @@ translate russian home_harem_bree_lexi_beach_date_abc03a5d:
 translate russian home_harem_bree_lexi_beach_date_0dd5cf3b:
     "Вопрос решён, и [lssb_beach.bree_name()] с Лекси идут за мной."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:782
-translate russian home_harem_bree_lexi_beach_date_80ca2cd8:
-    mike.say "Я уже обжёг ступни, [lssb_beach.bree_name()]!"
-
 # ch/harems/home/events/home_harem_beach_date.rpy:783
 translate russian home_harem_bree_lexi_beach_date_313b2ec8:
     mike.say "Не хочу ещё и обгореть целиком."
@@ -1719,10 +1699,6 @@ translate russian home_harem_bree_lexi_beach_date_72bc650c:
 # ch/harems/home/events/home_harem_beach_date.rpy:790
 translate russian home_harem_bree_lexi_beach_date_23838d97:
     bree.say "Или просто хочешь пошалить, как и она?"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:791
-translate russian home_harem_bree_lexi_beach_date_f5eee81a:
-    mike.say "Всё не так, [lssb_beach.bree_name()]!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:793
 translate russian home_harem_bree_lexi_beach_date_96d16976:
@@ -1968,10 +1944,6 @@ translate russian home_harem_bree_lexi_beach_date_96161a37:
 translate russian home_harem_bree_lexi_beach_date_5ff95cc6:
     "Поэтому решаю откликнуться на просьбу, с которой обратилась [lssb_beach.bree_name()], и не отвлекаться на остальное."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:878
-translate russian home_harem_bree_lexi_beach_date_96bdc1af:
-    mike.say "Сейчас подойду, [lssb_beach.bree_name()]."
-
 # ch/harems/home/events/home_harem_beach_date.rpy:879
 translate russian home_harem_bree_lexi_beach_date_0eccd4c3:
     lexi.say "Эй!"
@@ -2156,10 +2128,6 @@ translate russian home_harem_bree_lexi_beach_date_f2f25dba:
 translate russian home_harem_bree_lexi_beach_date_30a40fa5:
     "Может, пора сделать центром внимания кого-нибудь другого?"
 
-# ch/harems/home/events/home_harem_beach_date.rpy:942
-translate russian home_harem_bree_lexi_beach_date_64e98d60:
-    mike.say "[lssb_beach.bree_name()], ты уже вся в креме от солнца."
-
 # ch/harems/home/events/home_harem_beach_date.rpy:943
 translate russian home_harem_bree_lexi_beach_date_72c2aeaf:
     mike.say "Кажется, он у тебя даже из пор сочится!"
@@ -2240,10 +2208,6 @@ translate russian home_harem_bree_lexi_beach_date_8607af21:
 translate russian home_harem_bree_lexi_beach_date_dbc7ff87:
     mike.say "Лекси, займись кремом. [lssb_beach.bree_name()] как раз просит намазать ей спину."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:971
-translate russian home_harem_bree_lexi_beach_date_1622e47f:
-    mike.say "А ты, [lssb_beach.bree_name()], заодно сделай Лекси массаж."
-
 # ch/harems/home/events/home_harem_beach_date.rpy:973
 translate russian home_harem_bree_lexi_beach_date_43309faa:
     lexi.say "А?!"
@@ -2317,7 +2281,7 @@ translate russian home_harem_bree_lexi_beach_date_0d9cb435:
     bree.say "М-м?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1002
-translate russian home_harem_bree_lexi_beach_date_2fbb93ce:
+translate russian home_harem_bree_lexi_beach_date_9d82e2c8:
     bree.say "Да... можно было бы заняться чем-то ещё."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1003
@@ -2404,10 +2368,6 @@ translate russian home_harem_bree_lexi_beach_date_3a6a830b:
 translate russian home_harem_bree_lexi_beach_date_ed9b6dfd:
     bree.say "Двое против одного?"
 
-# ch/harems/home/events/home_harem_beach_date.rpy:1040
-translate russian home_harem_bree_lexi_beach_date_f5d69e7a:
-    mike.say "Я в твоей команде, [lssb_beach.bree_name()]!"
-
 # ch/harems/home/events/home_harem_beach_date.rpy:1042
 translate russian home_harem_bree_lexi_beach_date_9b6e976a:
     lexi.say "Что?"
@@ -2457,7 +2417,7 @@ translate russian home_harem_bree_lexi_beach_date_46015efa:
     lexi.say "О, дела налаживаются!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1061
-translate russian home_harem_bree_lexi_beach_date_6aa6ec9b:
+translate russian home_harem_bree_lexi_beach_date_6026c43a:
     bree.say "Я... я думала, ты захочешь быть в моей команде!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1062
@@ -2509,7 +2469,7 @@ translate russian home_harem_bree_lexi_beach_date_5bb2adbf:
     bree.say "Девочки против мальчиков!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1081
-translate russian home_harem_bree_lexi_beach_date_063ac79f:
+translate russian home_harem_bree_lexi_beach_date_06c31302:
     mike.say "П... подождите!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1082
@@ -2889,7 +2849,7 @@ translate russian home_harem_bree_lexi_beach_date_84550c5a:
     "Но [lssb_beach.bree_name()] и Лекси смотрят на меня так, словно я заговорил на иностранном языке."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1235
-translate russian home_harem_bree_lexi_beach_date_8402e710:
+translate russian home_harem_bree_lexi_beach_date_3e31ad56:
     bree.say "Эм... может, потому что мы не маленькие дети?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1237
@@ -3061,7 +3021,7 @@ translate russian home_harem_bree_lexi_beach_fuck_fd5e80db:
     bree.say "Может, и нам сделать для него что-нибудь приятное?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1307
-translate russian home_harem_bree_lexi_beach_fuck_c96be82c:
+translate russian home_harem_bree_lexi_beach_fuck_5e72fbce:
     lexi.say "Хм... кажется, я знаю что, [lssb_beach.bree_name()]."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1309
@@ -3097,7 +3057,7 @@ translate russian home_harem_bree_lexi_beach_fuck_b993ea69:
     lexi.say "Я про тех, которые хватают моряков и трахают их прямо на песке!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1318
-translate russian home_harem_bree_lexi_beach_fuck_618da244:
+translate russian home_harem_bree_lexi_beach_fuck_f4387585:
     bree.say "Разве... разве русалки так делают?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1319
@@ -3281,7 +3241,7 @@ translate russian home_harem_bree_lexi_beach_fuck_0504e3de:
     bree.say "Можешь так со мной!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1376
-translate russian home_harem_bree_lexi_beach_fuck_a4357bcc:
+translate russian home_harem_bree_lexi_beach_fuck_70db8c72:
     bree.say "Ох, пожалуйста... сделай это!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1377
@@ -3880,10 +3840,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_12cdc481:
 translate russian home_harem_lexi_minami_samantha_beach_date_57955adf:
     "Но вскоре спешат следом за нами с Сэм."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:1582
-translate russian home_harem_lexi_minami_samantha_beach_date_4a777976:
-    minami.say "Подожди, братишка!"
-
 # ch/harems/home/events/home_harem_beach_date.rpy:1584
 translate russian home_harem_lexi_minami_samantha_beach_date_7c33e1dc:
     minami.say "Не хочу оставаться одна!"
@@ -3935,10 +3891,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_2262a106:
 # ch/harems/home/events/home_harem_beach_date.rpy:1604
 translate russian home_harem_lexi_minami_samantha_beach_date_fdeb95f6_1:
     "И берёт меня под руку."
-
-# ch/harems/home/events/home_harem_beach_date.rpy:1605
-translate russian home_harem_lexi_minami_samantha_beach_date_c0555b84:
-    minami.say "Ещё бы, братишка!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1606
 translate russian home_harem_lexi_minami_samantha_beach_date_c67aff1f:
@@ -4060,10 +4012,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_6412c8c2:
 translate russian home_harem_lexi_minami_samantha_beach_date_ed143eec:
     "Но вскоре спешат следом за нами с Лекси."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:1656
-translate russian home_harem_lexi_minami_samantha_beach_date_4a777976_1:
-    minami.say "Подожди, братишка!"
-
 # ch/harems/home/events/home_harem_beach_date.rpy:1658
 translate russian home_harem_lexi_minami_samantha_beach_date_7c33e1dc_1:
     minami.say "Не хочу оставаться одна!"
@@ -4144,10 +4092,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_85e44e08:
 translate russian home_harem_lexi_minami_samantha_beach_date_41a767f5:
     lexi.say "Раз для этого выделили отдельный участок, то да!"
 
-# ch/harems/home/events/home_harem_beach_date.rpy:1689
-translate russian home_harem_lexi_minami_samantha_beach_date_36c459dc:
-    minami.say "Она права, братишка."
-
 # ch/harems/home/events/home_harem_beach_date.rpy:1691
 translate russian home_harem_lexi_minami_samantha_beach_date_dc93e27a:
     minami.say "В любом другом месте у нас могут быть неприятности!"
@@ -4183,10 +4127,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_11671a2b:
 # ch/harems/home/events/home_harem_beach_date.rpy:1701
 translate russian home_harem_lexi_minami_samantha_beach_date_8b025df5:
     lexi.say "Меня устраивает!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:1702
-translate russian home_harem_lexi_minami_samantha_beach_date_ef947fdb:
-    minami.say "Меня тоже, братишка!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1704
 translate russian home_harem_lexi_minami_samantha_beach_date_df2f25e9:
@@ -4295,10 +4235,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_0eccd4c3_1:
 # ch/harems/home/events/home_harem_beach_date.rpy:1739
 translate russian home_harem_lexi_minami_samantha_beach_date_759f283b:
     lexi.say "Ты куда это собрался?!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:1740
-translate russian home_harem_lexi_minami_samantha_beach_date_5645b33c:
-    minami.say "Братишка!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1742
 translate russian home_harem_lexi_minami_samantha_beach_date_7219b791:
@@ -4540,10 +4476,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_7afdb506:
 translate russian home_harem_lexi_minami_samantha_beach_date_9b506b6a:
     minami.say "Ох..."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:1873
-translate russian home_harem_lexi_minami_samantha_beach_date_0c941956:
-    minami.say "Не повезло, братишка!"
-
 # ch/harems/home/events/home_harem_beach_date.rpy:1875
 translate russian home_harem_lexi_minami_samantha_beach_date_a48c8530:
     samantha.say "Упс!"
@@ -4628,10 +4560,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_4c7b5fff:
 translate russian home_harem_lexi_minami_samantha_beach_date_ee02f435_1:
     minami.say "Ура!"
 
-# ch/harems/home/events/home_harem_beach_date.rpy:1937
-translate russian home_harem_lexi_minami_samantha_beach_date_221a664d:
-    minami.say "Пойдём, братишка!"
-
 # ch/harems/home/events/home_harem_beach_date.rpy:1938
 translate russian home_harem_lexi_minami_samantha_beach_date_7b84f6fa:
     "Минами хватает меня за руку и рывком поднимает на ноги."
@@ -4659,10 +4587,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_fff48fc0:
 # ch/harems/home/events/home_harem_beach_date.rpy:1951
 translate russian home_harem_lexi_minami_samantha_beach_date_d4e4f93b:
     mike.say "Чур, я в команде Минами!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:1953
-translate russian home_harem_lexi_minami_samantha_beach_date_8b5f559f:
-    minami.say "Хорошо, братишка! Покажем этим неудачницам!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1955
 translate russian home_harem_lexi_minami_samantha_beach_date_95432ccb:
@@ -4731,10 +4655,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_09a453c7:
 # ch/harems/home/events/home_harem_beach_date.rpy:1993
 translate russian home_harem_lexi_minami_samantha_beach_date_a46511c4:
     minami.say "Наверняка!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:1995
-translate russian home_harem_lexi_minami_samantha_beach_date_0cd0d84a:
-    minami.say "Мы тебя обыграем, братишка!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:1996
 translate russian home_harem_lexi_minami_samantha_beach_date_92f00ad2:
@@ -4893,12 +4813,8 @@ translate russian home_harem_lexi_minami_samantha_beach_date_533aff89:
     lexi.say "Господи, блядь!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2079
-translate russian home_harem_lexi_minami_samantha_beach_date_0cfbdcf7:
+translate russian home_harem_lexi_minami_samantha_beach_date_62143bb7:
     minami.say "О-о... о нет..."
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2080
-translate russian home_harem_lexi_minami_samantha_beach_date_a47c63cf:
-    minami.say "Помоги мне, братишка!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2081
 translate russian home_harem_lexi_minami_samantha_beach_date_5b7da6bb:
@@ -4959,10 +4875,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_c632c70a:
 # ch/harems/home/events/home_harem_beach_date.rpy:2112
 translate russian home_harem_lexi_minami_samantha_beach_date_68eb6d09:
     lexi.say "Если да, то я тоже хочу!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2113
-translate russian home_harem_lexi_minami_samantha_beach_date_b083cbc2:
-    minami.say "Не оставляй меня, братишка!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2115
 translate russian home_harem_lexi_minami_samantha_beach_date_e496fee5:
@@ -5027,10 +4939,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_0e3031cd:
 # ch/harems/home/events/home_harem_beach_date.rpy:2137
 translate russian home_harem_lexi_minami_samantha_beach_date_4575a3b6:
     lexi.say "Какой ленивый засранец!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2139
-translate russian home_harem_lexi_minami_samantha_beach_date_634e1605:
-    minami.say "Ага, братишка порой та ещё заноза!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2140
 translate russian home_harem_lexi_minami_samantha_beach_date_f62f7c0f:
@@ -5252,10 +5160,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_11fa131d:
 translate russian home_harem_lexi_minami_samantha_beach_date_a8cec0c1_1:
     "А она одаривает остальных торжествующей улыбкой."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:2243
-translate russian home_harem_lexi_minami_samantha_beach_date_778fe5de:
-    minami.say "Тебе виднее, братишка."
-
 # ch/harems/home/events/home_harem_beach_date.rpy:2244
 translate russian home_harem_lexi_minami_samantha_beach_date_305c4559:
     minami.say "Это будет ТАК приятно!"
@@ -5464,10 +5368,6 @@ translate russian home_harem_lexi_minami_samantha_beach_date_ccd13b23:
 translate russian home_harem_lexi_minami_samantha_beach_date_4e117716:
     lexi.say "ЧТО?!"
 
-# ch/harems/home/events/home_harem_beach_date.rpy:2342
-translate russian home_harem_lexi_minami_samantha_beach_date_392c342a:
-    minami.say "Ты же не серьёзно, братишка!"
-
 # ch/harems/home/events/home_harem_beach_date.rpy:2344
 translate russian home_harem_lexi_minami_samantha_beach_date_872f1236:
     samantha.say "Не верю своим ушам!"
@@ -5641,7 +5541,7 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_1b184518:
     mike.say "Чем могу помочь, девчонки?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2435
-translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_2d8c546e:
+translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_83ccc98c:
     mike.say "То есть... мы же приехали на пляж отдыхать, верно?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2436
@@ -5712,10 +5612,6 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_ccd93322:
 translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_68a78a87:
     "Но вместо того чтобы тоже ухватиться за меня, целует меня в губы."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:2457
-translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_3ac94b75:
-    minami.say "Ну что скажешь, братишка?"
-
 # ch/harems/home/events/home_harem_beach_date.rpy:2458
 translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_2d020930:
     mike.say "Знаете что..."
@@ -5767,10 +5663,6 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_0f3e7913:
 # ch/harems/home/events/home_harem_beach_date.rpy:2472
 translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_d3f3e598:
     minami.say "А?"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2473
-translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_fcd38d36:
-    minami.say "Что ты сказал, братишка?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2474
 translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_09fbeb17:
@@ -5835,10 +5727,6 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_3433f399:
 # ch/harems/home/events/home_harem_beach_date.rpy:2495
 translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_06af99f7:
     mike.say "Не вынуждайте меня оставить вас добираться пешком!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2497
-translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_0aee8606:
-    minami.say "Ладно, братишка, ладно!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2499
 translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_f89a60e3:
@@ -5905,7 +5793,7 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_9c1902f1:
     "Вдруг все трое устремляют взгляды на меня."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2519
-translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_d76f918a:
+translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_5ad6dd19:
     mike.say "З... звучит здорово!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2520
@@ -5927,10 +5815,6 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_intro_42115aed:
 # ch/harems/home/events/home_harem_beach_date.rpy:2531
 translate russian home_harem_lexi_minami_samantha_beach_blowjob_6b7fbf0b:
     lexi.say "Только тебе придётся выбрать!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2533
-translate russian home_harem_lexi_minami_samantha_beach_blowjob_667dafee:
-    minami.say "Точно, братишка! Кто этим займётся?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2535
 translate russian home_harem_lexi_minami_samantha_beach_blowjob_deb09659:
@@ -6215,10 +6099,6 @@ translate russian home_harem_lexi_minami_samantha_beach_blowjob_34ab7ce4_1:
 # ch/harems/home/events/home_harem_beach_date.rpy:2630
 translate russian home_harem_lexi_minami_samantha_beach_blowjob_dfac73df:
     "Минами вскрикивает от удивления, когда мой член подскакивает и покачивается перед её лицом."
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2631
-translate russian home_harem_lexi_minami_samantha_beach_blowjob_3a905e04:
-    minami.say "Ох... братишка..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2632
 translate russian home_harem_lexi_minami_samantha_beach_blowjob_2daad104:
@@ -6596,10 +6476,6 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_288a699a:
 translate russian home_harem_lexi_minami_samantha_beach_fuck_2e95039c:
     "Но затем, хихикая, уютно устраивается в моих объятиях."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:2765
-translate russian home_harem_lexi_minami_samantha_beach_fuck_ebc0af32:
-    minami.say "Это значит то, о чём я думаю, братишка?"
-
 # ch/harems/home/events/home_harem_beach_date.rpy:2766
 translate russian home_harem_lexi_minami_samantha_beach_fuck_2f41979b:
     minami.say "Он весь достанется мне одной?"
@@ -6659,10 +6535,6 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_d668ffe9:
 # ch/harems/home/events/home_harem_beach_date.rpy:2782
 translate russian home_harem_lexi_minami_samantha_beach_fuck_538caa83:
     minami.say "Ох..."
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2783
-translate russian home_harem_lexi_minami_samantha_beach_fuck_64d123cb:
-    minami.say "Как приятно, братишка!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2784
 translate russian home_harem_lexi_minami_samantha_beach_fuck_92e836cf:
@@ -6735,10 +6607,6 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_7df764da:
 # ch/harems/home/events/home_harem_beach_date.rpy:2802
 translate russian home_harem_lexi_minami_samantha_beach_fuck_96a34880:
     minami.say "Ты такой большой!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2803
-translate russian home_harem_lexi_minami_samantha_beach_fuck_3883595f:
-    minami.say "Ты заполнил меня, братишка!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2804
 translate russian home_harem_lexi_minami_samantha_beach_fuck_677eadac:
@@ -6836,12 +6704,8 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_ec9da59b:
 translate russian home_harem_lexi_minami_samantha_beach_fuck_6acef10e:
     "Затем Сэм начинает делать то же самое, словно подхватывая её ощущения."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:2830
-translate russian home_harem_lexi_minami_samantha_beach_fuck_3cfacaaa:
-    minami.say "Ох, блядь, братишка..."
-
 # ch/harems/home/events/home_harem_beach_date.rpy:2831
-translate russian home_harem_lexi_minami_samantha_beach_fuck_76c1abc1:
+translate russian home_harem_lexi_minami_samantha_beach_fuck_f38c1780:
     minami.say "Это... ТАК возбуждает!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2832
@@ -6849,7 +6713,7 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_412b8712:
     minami.say "Кажется..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2833
-translate russian home_harem_lexi_minami_samantha_beach_fuck_fd157fc9:
+translate russian home_harem_lexi_minami_samantha_beach_fuck_4a96dc7c:
     minami.say "О-о-ох... кажется, я тоже сейчас кончу!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2834
@@ -6936,10 +6800,6 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_9e460555:
 translate russian home_harem_lexi_minami_samantha_beach_fuck_538caa83_1:
     minami.say "Ох..."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:2865
-translate russian home_harem_lexi_minami_samantha_beach_fuck_64d123cb_1:
-    minami.say "Как приятно, братишка!"
-
 # ch/harems/home/events/home_harem_beach_date.rpy:2866
 translate russian home_harem_lexi_minami_samantha_beach_fuck_92e836cf_1:
     minami.say "Можно ещё?"
@@ -6975,10 +6835,6 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_a53134b6:
 # ch/harems/home/events/home_harem_beach_date.rpy:2874
 translate russian home_harem_lexi_minami_samantha_beach_fuck_ba6aae13:
     "Я чувствую сопротивление её мышц и слышу, как Минами ахает от нахлынувших ощущений."
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2875
-translate russian home_harem_lexi_minami_samantha_beach_fuck_5645b33c:
-    minami.say "Братишка!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2876
 translate russian home_harem_lexi_minami_samantha_beach_fuck_5f157e80:
@@ -7023,10 +6879,6 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_7df764da_1:
 # ch/harems/home/events/home_harem_beach_date.rpy:2887
 translate russian home_harem_lexi_minami_samantha_beach_fuck_96a34880_1:
     minami.say "Ты такой большой!"
-
-# ch/harems/home/events/home_harem_beach_date.rpy:2888
-translate russian home_harem_lexi_minami_samantha_beach_fuck_3883595f_1:
-    minami.say "Ты заполнил меня, братишка!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2889
 translate russian home_harem_lexi_minami_samantha_beach_fuck_677eadac_1:
@@ -7124,12 +6976,8 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_ec9da59b_1:
 translate russian home_harem_lexi_minami_samantha_beach_fuck_6acef10e_1:
     "Затем Сэм начинает делать то же самое, словно подхватывая её ощущения."
 
-# ch/harems/home/events/home_harem_beach_date.rpy:2915
-translate russian home_harem_lexi_minami_samantha_beach_fuck_3cfacaaa_1:
-    minami.say "Ох, блядь, братишка..."
-
 # ch/harems/home/events/home_harem_beach_date.rpy:2916
-translate russian home_harem_lexi_minami_samantha_beach_fuck_76c1abc1_1:
+translate russian home_harem_lexi_minami_samantha_beach_fuck_f38c1780_1:
     minami.say "Это... ТАК возбуждает!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2917
@@ -7137,7 +6985,7 @@ translate russian home_harem_lexi_minami_samantha_beach_fuck_412b8712_1:
     minami.say "Кажется..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2918
-translate russian home_harem_lexi_minami_samantha_beach_fuck_fd157fc9_1:
+translate russian home_harem_lexi_minami_samantha_beach_fuck_4a96dc7c_1:
     minami.say "О-о-ох... кажется, я тоже сейчас кончу!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2919
@@ -7457,11 +7305,11 @@ translate russian home_harem_samantha_sasha_beach_date_4ec763bf:
     "Я качаю головой, пыхтя и отдуваясь под грузом."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3045
-translate russian home_harem_samantha_sasha_beach_date_3ed1c350:
+translate russian home_harem_samantha_sasha_beach_date_65f4c9b3:
     mike.say "Ни... за что..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3046
-translate russian home_harem_samantha_sasha_beach_date_6ab0c498:
+translate russian home_harem_samantha_sasha_beach_date_68f33356:
     mike.say "Я... сам... справлюсь!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3047
@@ -7705,7 +7553,7 @@ translate russian home_harem_samantha_sasha_beach_date_817293a3:
     "Похоже, она старается делать это как можно более соблазнительно!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3133
-translate russian home_harem_samantha_sasha_beach_date_8cb5935c:
+translate russian home_harem_samantha_sasha_beach_date_6eaf66c3:
     "Она... она делает это, чтобы отомстить Сэм?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3134
@@ -8093,7 +7941,7 @@ translate russian home_harem_samantha_sasha_beach_date_966a95dd:
     sasha.say "Блин, холодно!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3287
-translate russian home_harem_samantha_sasha_beach_date_47cae19c:
+translate russian home_harem_samantha_sasha_beach_date_2df3cd56:
     samantha.say "Б-р-р... ледяная!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3289
@@ -8137,7 +7985,7 @@ translate russian home_harem_samantha_sasha_beach_date_2eb82a23:
     sasha.say "Кажется, кто-то возбудился!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3300
-translate russian home_harem_samantha_sasha_beach_date_50657028:
+translate russian home_harem_samantha_sasha_beach_date_c40b63ab:
     samantha.say "Ох... ничего себе!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3302
@@ -8421,7 +8269,7 @@ translate russian home_harem_samantha_sasha_beach_date_f07d7b39:
     mike.say "Что, ту мою фотографию?!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3395
-translate russian home_harem_samantha_sasha_beach_date_b0b29bcd:
+translate russian home_harem_samantha_sasha_beach_date_003b8a90:
     sasha.say "Я... я иногда люблю снимать людей!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3396
@@ -8609,7 +8457,7 @@ translate russian home_harem_samantha_sasha_beach_date_f8e923f2:
     "И я понимаю, что зацепил их!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3455
-translate russian home_harem_samantha_sasha_beach_date_2095e9e4:
+translate russian home_harem_samantha_sasha_beach_date_cc3f0fcc:
     samantha.say "Ты... ты правда так считаешь?"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3456
@@ -8941,7 +8789,7 @@ translate russian home_harem_samantha_sasha_beach_fuck_2f1bfd94:
     mike.say "Всё ради сисек..."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3579
-translate russian home_harem_samantha_sasha_beach_fuck_97f1cbde:
+translate russian home_harem_samantha_sasha_beach_fuck_577a1079:
     mike.say "Я... то есть... всё ради вас, девчонки!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3580
@@ -9077,7 +8925,7 @@ translate russian home_harem_samantha_sasha_beach_fuck_6e55ea9f:
     sasha.say "Ещё бы!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3623
-translate russian home_harem_samantha_sasha_beach_fuck_d26dcc07:
+translate russian home_harem_samantha_sasha_beach_fuck_e41fc7f1:
     sasha.say "Пожалуйста... трахай меня... как следует, жёстко!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3624
@@ -9169,7 +9017,7 @@ translate russian home_harem_samantha_sasha_beach_fuck_3c05a1bc:
     sasha.say "О да!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3692
-translate russian home_harem_samantha_sasha_beach_fuck_91ae8a5e:
+translate russian home_harem_samantha_sasha_beach_fuck_e37b8d13:
     sasha.say "Наполни меня... ПОЖАЛУЙСТА!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3696
@@ -9301,7 +9149,7 @@ translate russian home_harem_samantha_sasha_beach_fuck_e6c33b12:
     samantha.say "Ещё бы!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3736
-translate russian home_harem_samantha_sasha_beach_fuck_05fe1f63:
+translate russian home_harem_samantha_sasha_beach_fuck_ac30705e:
     samantha.say "Пожалуйста... трахай меня... как следует, жёстко!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3737
@@ -9393,7 +9241,7 @@ translate russian home_harem_samantha_sasha_beach_fuck_ca673135:
     samantha.say "О да!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3764
-translate russian home_harem_samantha_sasha_beach_fuck_7bb89356:
+translate russian home_harem_samantha_sasha_beach_fuck_b67fff01:
     samantha.say "Наполни меня... ПОЖАЛУЙСТА!"
 
 # ch/harems/home/events/home_harem_beach_date.rpy:3766

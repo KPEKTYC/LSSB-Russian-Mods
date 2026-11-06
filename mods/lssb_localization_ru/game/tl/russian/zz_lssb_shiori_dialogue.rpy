@@ -77,7 +77,7 @@ translate russian shiori_greet_5668d537:
     shiori.say "Добрый вечер, [lssb_shiori.hero_name()]."
 
 # ch/shiori/base.rpy:93
-translate russian shiori_greet_23a27b32:
+translate russian shiori_greet_233b5c41:
     shiori.say "Му... му... му-у-у... Ещё не пора меня доить, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/base.rpy:100
@@ -365,7 +365,7 @@ translate russian shiori_propose_male_bd9d9717:
     mike.say "И хочу, чтобы ты всегда была рядом!"
 
 # ch/shiori/base.rpy:210
-translate russian shiori_propose_male_d50a7be7:
+translate russian shiori_propose_male_0ab7236f:
     mike.say "Так что... ты выйдешь за меня?"
 
 # ch/shiori/base.rpy:211
@@ -377,7 +377,7 @@ translate russian shiori_propose_male_74e7aca2:
     "И подаюсь вперёд, словно побуждая её заговорить..."
 
 # ch/shiori/base.rpy:215
-translate russian shiori_propose_male_6408905b:
+translate russian shiori_propose_male_6e0a10d4:
     shiori.say "Я... я..."
 
 # ch/shiori/base.rpy:216
@@ -465,7 +465,7 @@ translate russian shiori_propose_male_f28ca194:
     "Но от этого я не перестаю чувствовать себя несчастным и униженным."
 
 # ch/shiori/base.rpy:242
-translate russian shiori_propose_male_75ef5a38:
+translate russian shiori_propose_male_de804b45:
     shiori.say "Т... ты..."
 
 # ch/shiori/base.rpy:243
@@ -497,7 +497,7 @@ translate russian shiori_propose_male_dfee42ba:
     "Но я ничего не выдумываю: я действительно это чувствую."
 
 # ch/shiori/base.rpy:250
-translate russian shiori_propose_male_21c693b3:
+translate russian shiori_propose_male_fdd409a1:
     shiori.say "Д... да, [lssb_shiori.hero_name()]."
 
 # ch/shiori/base.rpy:251
@@ -521,7 +521,7 @@ translate russian shiori_propose_male_fe67b274:
     "И меня тут же наполняют счастье, покой и чувство полноты жизни."
 
 # ch/shiori/base.rpy:256
-translate russian shiori_propose_male_d8f7545b:
+translate russian shiori_propose_male_26c5d46c:
     shiori.say "Я... я очень постараюсь на этот раз, [lssb_shiori.hero_name()]."
 
 # ch/shiori/base.rpy:257
@@ -637,7 +637,7 @@ translate russian shiori_work_with_75e8bb04:
     mike.say "Хм..."
 
 # ch/shiori/base.rpy:299
-translate russian shiori_work_with_d7d0988b:
+translate russian shiori_work_with_00bde714:
     shiori.say "Я... прости..."
 
 # ch/shiori/base.rpy:300
@@ -745,7 +745,7 @@ translate russian shiori_paper_fall_297aea53:
     "Я изо всех сил пытаюсь сесть, борясь с тем, как Сиори подействовала на содержимое моих брюк..."
 
 # ch/shiori/chat.rpy:2
-translate russian shiori_desire_0_male_d12d06a8:
+translate russian shiori_desire_0_male_03272d46:
     shiori.say "[lssb_shiori.hero_name()], я просто хотела сказать... что очень рада работать под твоим началом."
 
 # ch/shiori/chat.rpy:8
@@ -753,7 +753,7 @@ translate russian shiori_desire_1_male_6bb1f19b:
     shiori.say "[lssb_shiori.hero_name()], что мне делать со всеми этими папками?"
 
 # ch/shiori/chat.rpy:11
-translate russian shiori_desire_1_male_53aa88c8:
+translate russian shiori_desire_1_male_69a1e54f:
     mike.say "А, с этими... Их нужно отнести в архив, Сиори."
 
 # ch/shiori/chat.rpy:13
@@ -777,7 +777,7 @@ translate russian shiori_desire_1_male_2f6d064a:
     mike.say "Сиори, важно проявлять к начальству одинаковое уважение и в офисе, и за его пределами."
 
 # ch/shiori/chat.rpy:24
-translate russian shiori_desire_1_male_2caaad7d:
+translate russian shiori_desire_1_male_ed13fe6a:
     shiori.say "Ох... прости, [lssb_shiori.hero_name()]."
 
 # ch/shiori/chat.rpy:27
@@ -789,7 +789,7 @@ translate russian shiori_desire_1_male_90d501d0:
     mike.say "Спасибо, Сиори. Тебе тоже."
 
 # ch/shiori/chat.rpy:31
-translate russian shiori_desire_1_male_2d0d595e:
+translate russian shiori_desire_1_male_bf542387:
     shiori.say "Ох... спасибо, [lssb_shiori.hero_name()]."
 
 # ch/shiori/chat.rpy:36
@@ -809,7 +809,7 @@ translate russian shiori_desire_2_male_a07d85ef:
     mike.say "Сегодня я ещё буду работать над этим делом, Сиори. Сам найду документы."
 
 # ch/shiori/chat.rpy:46
-translate russian shiori_desire_2_male_5ff938aa:
+translate russian shiori_desire_2_male_0c646a03:
     shiori.say "Хорошо... спасибо, [lssb_shiori.hero_name()]."
 
 # ch/shiori/chat.rpy:48
@@ -845,7 +845,7 @@ translate russian shiori_desire_2_male_e7b1753b:
     mike.say "У тебя хороший вкус в таких вещах, Сиори."
 
 # ch/shiori/chat.rpy:65
-translate russian shiori_desire_2_male_3d4e9731:
+translate russian shiori_desire_2_male_01ecbe47:
     shiori.say "Правда? Я... я люблю смотреть, как другие девушки в офисе наряжаются."
 
 # ch/shiori/chat.rpy:66
@@ -857,7 +857,7 @@ translate russian shiori_desire_2_male_10f5f0f5:
     mike.say "Одевайся так, чтобы нравиться себе, Сиори, а не пытайся угнаться за другими девушками."
 
 # ch/shiori/chat.rpy:71
-translate russian shiori_desire_2_male_362fbfe1:
+translate russian shiori_desire_2_male_eef637de:
     shiori.say "Я... я просто хочу выглядеть красиво для тебя, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/chat.rpy:72
@@ -889,7 +889,7 @@ translate russian shiori_desire_3_male_ab75fa5e:
     shiori.say "Спасибо, [lssb_shiori.hero_name()], это очень мило с твоей стороны."
 
 # ch/shiori/chat.rpy:91
-translate russian shiori_desire_3_male_d5e09fbe:
+translate russian shiori_desire_3_male_e1bd50b7:
     shiori.say "[lssb_shiori.hero_name()]... эм, как думаешь, может... сходим как-нибудь на свидание?"
 
 # ch/shiori/chat.rpy:94
@@ -901,11 +901,11 @@ translate russian shiori_desire_3_male_9d43aad4:
     mike.say "Сближение сотрудников наших должностных уровней было бы совершенно неуместным и непрофессиональным."
 
 # ch/shiori/chat.rpy:96
-translate russian shiori_desire_3_male_70bad2ec:
+translate russian shiori_desire_3_male_2b7cb8af:
     shiori.say "А, понимаю... прости, [lssb_shiori.hero_name()]."
 
 # ch/shiori/chat.rpy:99
-translate russian shiori_desire_3_male_ed2230dc:
+translate russian shiori_desire_3_male_b625295d:
     mike.say "Хм... не думаю, Сиори. Ты не совсем дотягиваешь до моих обычных требований."
 
 # ch/shiori/chat.rpy:102
@@ -921,7 +921,7 @@ translate russian shiori_desire_3_male_b459a999:
     shiori.say "Как здорово!"
 
 # ch/shiori/chat.rpy:110
-translate russian shiori_desire_4_male_31ab13fb:
+translate russian shiori_desire_4_male_52a34263:
     shiori.say "[lssb_shiori.hero_name()], я принесла кофе... именно такой, как ты любишь."
 
 # ch/shiori/chat.rpy:113
@@ -965,7 +965,7 @@ translate russian shiori_desire_5_male_ddbb895b:
     shiori.say "Поэтому вчера я допоздна готовила тебе полезный обед в коробочке бэнто."
 
 # ch/shiori/chat.rpy:139
-translate russian shiori_desire_5_male_656b73ef:
+translate russian shiori_desire_5_male_26c6c30b:
     mike.say "Ого... Сиори, ты наверняка столько сил на это потратила!"
 
 # ch/shiori/chat.rpy:140
@@ -993,11 +993,11 @@ translate russian shiori_desire_5_male_851812b2:
     mike.say "Прекрасная идея, Сиори."
 
 # ch/shiori/chat.rpy:152
-translate russian shiori_desire_5_male_fd38617e:
+translate russian shiori_desire_5_male_b8c1ffe0:
     mike.say "С удовольствием попробую твою стряпню... и другие домашние радости, которыми ты захочешь поделиться..."
 
 # ch/shiori/chat.rpy:155
-translate russian shiori_desire_5_male_0deffe41:
+translate russian shiori_desire_5_male_5a7230f2:
     mike.say "Фу... ненавижу «традиционную» еду. Вечно тяжёлая и полна глутамата!"
 
 # ch/shiori/chat.rpy:156
@@ -1073,7 +1073,7 @@ translate russian shiori_love_1_male_b36569ea:
     shiori.say "Ох, спасибо, [lssb_shiori.hero_name()]."
 
 # ch/shiori/chat.rpy:202
-translate russian shiori_love_1_male_7710f157:
+translate russian shiori_love_1_male_5d606bf6:
     shiori.say "[lssb_shiori.hero_name()], ни на одной работе я не была так счастлива, как здесь... с тобой."
 
 # ch/shiori/chat.rpy:205
@@ -1085,7 +1085,7 @@ translate russian shiori_love_1_male_170cbd92:
     mike.say "Я чувствую то же самое, Сиори. Благодаря тебе я с нетерпением жду каждого рабочего дня."
 
 # ch/shiori/chat.rpy:214
-translate russian shiori_love_2_male_da011f28:
+translate russian shiori_love_2_male_de153c2b:
     shiori.say "[lssb_shiori.hero_name()], сейчас мне очень туго с деньгами... можно прибавку?"
 
 # ch/shiori/chat.rpy:217
@@ -1109,7 +1109,7 @@ translate russian shiori_love_2_male_7b7db2fe:
     shiori.say "Я обязательно буду ещё внимательнее к тебе, [lssb_shiori.hero_name()]."
 
 # ch/shiori/chat.rpy:228
-translate russian shiori_love_2_male_7710f157:
+translate russian shiori_love_2_male_5d606bf6:
     shiori.say "[lssb_shiori.hero_name()], ни на одной работе я не была так счастлива, как здесь... с тобой."
 
 # ch/shiori/chat.rpy:231
@@ -1145,7 +1145,7 @@ translate russian shiori_love_3_male_0a897ce4:
     shiori.say "Спасибо, [lssb_shiori.hero_name()]. Ты для меня тоже очень много значишь..."
 
 # ch/shiori/chat.rpy:255
-translate russian shiori_love_3_male_259ae767:
+translate russian shiori_love_3_male_5bbcb6e6:
     shiori.say "[lssb_shiori.hero_name()], только честно... что ты обо мне думаешь?"
 
 # ch/shiori/chat.rpy:258
@@ -1157,7 +1157,7 @@ translate russian shiori_love_3_male_a349f24e:
     "Сиори краснеет и опускает взгляд себе под ноги."
 
 # ch/shiori/chat.rpy:261
-translate russian shiori_love_3_male_b7727045:
+translate russian shiori_love_3_male_640f8c91:
     shiori.say "С... спасибо, [lssb_shiori.hero_name()]."
 
 # ch/shiori/chat.rpy:263
@@ -1169,7 +1169,7 @@ translate russian shiori_love_3_male_a349f24e_1:
     "Сиори краснеет и опускает взгляд себе под ноги."
 
 # ch/shiori/chat.rpy:266
-translate russian shiori_love_3_male_b7727045_1:
+translate russian shiori_love_3_male_640f8c91_1:
     shiori.say "С... спасибо, [lssb_shiori.hero_name()]."
 
 # ch/shiori/chat.rpy:268
@@ -1201,7 +1201,7 @@ translate russian shiori_love_4_male_3f2e5ee0:
     mike.say "Уверен, у тебя есть и другая сторона, не менее интересная, чем та, которую я вижу каждый день на работе!"
 
 # ch/shiori/chat.rpy:289
-translate russian shiori_love_4_male_75266a61:
+translate russian shiori_love_4_male_694a09c8:
     mike.say "Уф... нет, спасибо, Сиори."
 
 # ch/shiori/chat.rpy:290
@@ -1209,11 +1209,11 @@ translate russian shiori_love_4_male_b3ff642d:
     mike.say "Мало того, что мне и так приходится терпеть тебя на работе каждый день?"
 
 # ch/shiori/chat.rpy:293
-translate russian shiori_love_4_male_1625589c:
+translate russian shiori_love_4_male_26164161:
     shiori.say "Эм... [lssb_shiori.hero_name()]... я подумала, может, было бы приятно... сходить куда-нибудь поесть?"
 
 # ch/shiori/chat.rpy:294
-translate russian shiori_love_4_male_54b758bd:
+translate russian shiori_love_4_male_0c3ccbf6:
     shiori.say "То есть... если у тебя нет дел поинтереснее..."
 
 # ch/shiori/chat.rpy:297
@@ -1273,7 +1273,7 @@ translate russian shiori_love_5_male_8f51c8e5:
     shiori.say "[lssb_shiori.hero_name()], я больше не могу держать это в себе!"
 
 # ch/shiori/chat.rpy:325
-translate russian shiori_love_5_male_bb29f5bf:
+translate russian shiori_love_5_male_9af05620:
     shiori.say "Кажется, я в тебя влюбляюсь... и мне просто необходимо знать, чувствуешь ли ты то же самое!"
 
 # ch/shiori/chat.rpy:328
@@ -1285,7 +1285,7 @@ translate russian shiori_love_5_male_23801e01:
     mike.say "Но оно того стоило: да, я чувствую то же самое!"
 
 # ch/shiori/chat.rpy:332
-translate russian shiori_love_5_male_717c69a4:
+translate russian shiori_love_5_male_efbdad1e:
     mike.say "Эм... Сиори, по-моему, ты немного неверно поняла мои намерения!"
 
 # ch/shiori/chat.rpy:333
@@ -1293,7 +1293,7 @@ translate russian shiori_love_5_male_da181240:
     mike.say "А уже успела излить всю душу..."
 
 # ch/shiori/chat.rpy:334
-translate russian shiori_love_5_male_4eb2bdce:
+translate russian shiori_love_5_male_0696adfe:
     mike.say "Ох... как неловко!"
 
 # ch/shiori/chat.rpy:341
@@ -1325,7 +1325,7 @@ translate russian shiori_good_sweet_talk_male_25486643:
     mike.say "Нужно говорить это почаще!"
 
 # ch/shiori/chat.rpy:351
-translate russian shiori_good_sweet_talk_male_9c166c6d:
+translate russian shiori_good_sweet_talk_male_efa6cd5c:
     shiori.say "Ой, ты заставляешь меня краснеть... боже!"
 
 # ch/shiori/chat.rpy:352
@@ -1345,7 +1345,7 @@ translate russian shiori_good_sweet_talk_male_04d6810f:
     mike.say "И с обоими делами прекрасно справляешься. Ты потрясающая!"
 
 # ch/shiori/chat.rpy:358
-translate russian shiori_good_sweet_talk_male_1fd14bc4:
+translate russian shiori_good_sweet_talk_male_e30beb1d:
     shiori.say "Я... правда?!"
 
 # ch/shiori/chat.rpy:359
@@ -1365,7 +1365,7 @@ translate russian shiori_bad_sweet_talk_male_1b9499c0:
     shiori.say "То есть толстой и неопрятной?!"
 
 # ch/shiori/chat.rpy:369
-translate russian shiori_bad_sweet_talk_male_f27e3eb7:
+translate russian shiori_bad_sweet_talk_male_2527b5b0:
     mike.say "Эм, нет... я не это имел в виду!"
 
 # ch/shiori/condom.rpy:4
@@ -1613,7 +1613,7 @@ translate russian shiori_mad_condom_92cd9025:
     "Она просто начинает одеваться."
 
 # ch/shiori/condom.rpy:89
-translate russian shiori_mad_condom_7f04e360:
+translate russian shiori_mad_condom_dc970592:
     shiori.say "Я... я думала, ты другой, [lssb_shiori.hero_name()]."
 
 # ch/shiori/condom.rpy:90
@@ -1649,7 +1649,7 @@ translate russian shiori_date_intro_valentine_male_a6a0a991:
     "От моих слов глаза Сиори загораются, и она складывает ладони вместе."
 
 # ch/shiori/date.rpy:6
-translate russian shiori_date_intro_valentine_male_54a48035:
+translate russian shiori_date_intro_valentine_male_56ff5338:
     shiori.say "Т... ты правда так думаешь?!"
 
 # ch/shiori/date.rpy:7
@@ -1673,7 +1673,7 @@ translate russian shiori_date_intro_halloween_male_d4dc078e:
     "Едва услышав вопрос, Сиори начинает качать головой."
 
 # ch/shiori/date.rpy:15
-translate russian shiori_date_intro_halloween_male_59a009ed:
+translate russian shiori_date_intro_halloween_male_6d87d710:
     shiori.say "Ой... мне нужно было надеть костюм?"
 
 # ch/shiori/date.rpy:16
@@ -1701,7 +1701,7 @@ translate russian shiori_date_intro_halloween_male_a94d34cc:
     shiori.say "Ох, слава богу!"
 
 # ch/shiori/date.rpy:22
-translate russian shiori_date_intro_halloween_male_50bc5ac8:
+translate russian shiori_date_intro_halloween_male_3a1e7955:
     shiori.say "Но... на следующий Хэллоуин я могу нарядиться, если хочешь?"
 
 # ch/shiori/date.rpy:26
@@ -1761,7 +1761,7 @@ translate russian shiori_date_intro_mc_birthday_male_ddceb8ab:
     shiori.say "И не волнуйся: я позабочусь о том, чтобы наше свидание было особенным!"
 
 # ch/shiori/date.rpy:46
-translate russian shiori_date_intro_mc_birthday_male_e0594fe6:
+translate russian shiori_date_intro_mc_birthday_male_b1e05f5a:
     mike.say "Ох... спасибо, Сиори!"
 
 # ch/shiori/date.rpy:47
@@ -1793,7 +1793,7 @@ translate russian shiori_date_eat_a_burger_4f470b16:
     "Я даже удивляюсь, как у неё от этого не раздувает живот!"
 
 # ch/shiori/date.rpy:63
-translate russian shiori_date_buy_drink_c0765072:
+translate russian shiori_date_buy_drink_416ce5cb:
     shiori.say "Ох... как ты мог, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/date.rpy:64
@@ -1849,7 +1849,7 @@ translate russian shiori_date_pub_play_pool_197ffa23:
     "Мне едва удаётся добиться, чтобы она попала хотя бы по битку, не говоря обо всём остальном."
 
 # ch/shiori/date.rpy:92
-translate russian shiori_date_buy_a_round_c0765072:
+translate russian shiori_date_buy_a_round_416ce5cb:
     shiori.say "Ох... как ты мог, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/date.rpy:93
@@ -1937,7 +1937,7 @@ translate russian shiori_date_play_arcade_intro_male_1a1bf46b:
     mike.say "В те, которые очень сложные?"
 
 # ch/shiori/date.rpy:131
-translate russian shiori_date_play_arcade_intro_male_7d956342:
+translate russian shiori_date_play_arcade_intro_male_3588d8e1:
     shiori.say "Эм... наверное, [lssb_shiori.hero_name()]."
 
 # ch/shiori/date.rpy:132
@@ -1969,7 +1969,7 @@ translate russian shiori_date_play_arcade_intro_male_0a190135:
     "Но я уже бросаю монеты в автомат."
 
 # ch/shiori/date.rpy:139
-translate russian shiori_date_play_arcade_intro_male_d823df84:
+translate russian shiori_date_play_arcade_intro_male_9ade48d5:
     shiori.say "Это... драконы?"
 
 # ch/shiori/date.rpy:140
@@ -1997,7 +1997,7 @@ translate russian shiori_date_play_arcade_win_male_cec27a71:
     "Но, судя по тому, что я слышу, разницы это всё равно не делает!"
 
 # ch/shiori/date.rpy:149
-translate russian shiori_date_play_arcade_win_male_0b813aac:
+translate russian shiori_date_play_arcade_win_male_eec9e8a3:
     shiori.say "Ой... боже..."
 
 # ch/shiori/date.rpy:150
@@ -2081,7 +2081,7 @@ translate russian shiori_date_play_arcade_lose_male_27764998:
     "Хуже того, мои советы, похоже, ей действительно помогают!"
 
 # ch/shiori/date.rpy:173
-translate russian shiori_date_play_arcade_lose_male_34fe7274:
+translate russian shiori_date_play_arcade_lose_male_4c510687:
     shiori.say "А-а... теперь понимаю, что делает эта кнопка!"
 
 # ch/shiori/date.rpy:174
@@ -2089,7 +2089,7 @@ translate russian shiori_date_play_arcade_lose_male_c061c80d:
     shiori.say "И эта тоже..."
 
 # ch/shiori/date.rpy:175
-translate russian shiori_date_play_arcade_lose_male_fb2d744e:
+translate russian shiori_date_play_arcade_lose_male_7b3526c5:
     shiori.say "Хи-хи... Я заставила драконьи сиськи подпрыгнуть!"
 
 # ch/shiori/date.rpy:176
@@ -2125,7 +2125,7 @@ translate russian shiori_date_play_arcade_lose_male_7a2e2668:
     mike.say "Пожалуйста, не заставляй меня играть снова!"
 
 # ch/shiori/date.rpy:184
-translate russian shiori_date_play_arcade_lose_male_0d0457ea:
+translate russian shiori_date_play_arcade_lose_male_e14f39b0:
     shiori.say "Т... ты серьёзно, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/date.rpy:185
@@ -2153,7 +2153,7 @@ translate russian shiori_date_play_arcade_lose_male_ce5477af:
     shiori.say "И я расскажу тебе во всех подробностях, как выиграла!"
 
 # ch/shiori/date.rpy:198
-translate russian shiori_dick_reactions_fb74f630:
+translate russian shiori_dick_reactions_935c175b:
     shiori.say "О боже... боже..."
 
 # ch/shiori/date.rpy:199
@@ -2165,19 +2165,19 @@ translate russian shiori_dick_reactions_9745166b:
     mike.say "Не волнуйся, Сиори, обещаю быть нежным."
 
 # ch/shiori/date.rpy:201
-translate russian shiori_dick_reactions_75db8c78:
+translate russian shiori_dick_reactions_18ea70a3:
     shiori.say "П... правда?"
 
 # ch/shiori/date.rpy:203
-translate russian shiori_dick_reactions_e30ea788:
+translate russian shiori_dick_reactions_20cbe312:
     shiori.say "Ну... ладно, раз ты так говоришь..."
 
 # ch/shiori/date.rpy:207
-translate russian shiori_dick_reactions_d49097f1:
+translate russian shiori_dick_reactions_2855e1bd:
     shiori.say "Ой... какой аккуратный!"
 
 # ch/shiori/date.rpy:208
-translate russian shiori_dick_reactions_d6a69cff:
+translate russian shiori_dick_reactions_7200de8c:
     mike.say "Т... ты хочешь сказать, маленький?!"
 
 # ch/shiori/date.rpy:209
@@ -2337,7 +2337,7 @@ translate russian shiori_halloween_invitation_15c621b8:
     shiori.say "Но, может, пора перестать за такое цепляться?"
 
 # ch/shiori/date.rpy:264
-translate russian shiori_halloween_invitation_2d4e4a12:
+translate russian shiori_halloween_invitation_c0fc775a:
     shiori.say "И... знаешь, завести собственные новые традиции?"
 
 # ch/shiori/date.rpy:265
@@ -2529,7 +2529,7 @@ translate russian shiori_halloween_arrival_12b53f7e:
     "И даже держится увереннее."
 
 # ch/shiori/date.rpy:332
-translate russian shiori_halloween_arrival_1c8508c7:
+translate russian shiori_halloween_arrival_8a13f042:
     shiori.say "Т... ты правда так думаешь, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/date.rpy:334
@@ -2737,7 +2737,7 @@ translate russian shiori_kanta_halloween_arrival_12b53f7e:
     "И даже держится увереннее."
 
 # ch/shiori/date.rpy:404
-translate russian shiori_kanta_halloween_arrival_1c8508c7:
+translate russian shiori_kanta_halloween_arrival_8a13f042:
     shiori.say "Т... ты правда так думаешь, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/date.rpy:406
@@ -2849,7 +2849,7 @@ translate russian shiori_kanta_halloween_arrival_241c14b2:
     "Он нарядился Котом Нуаром, под стать маме."
 
 # ch/shiori/date.rpy:438
-translate russian shiori_kanta_halloween_arrival_367e7cb2:
+translate russian shiori_kanta_halloween_arrival_ee6b8ab1:
     mike.say "Эм... привет, Канта."
 
 # ch/shiori/date.rpy:439
@@ -3049,7 +3049,7 @@ translate russian shiori_kanta_halloween_arrival_7c8b7d9f:
     "Он смотрит на Сиори, потом снова на меня."
 
 # ch/shiori/date.rpy:505
-translate russian shiori_kanta_halloween_arrival_1dcdc9fe:
+translate russian shiori_kanta_halloween_arrival_a4980f95:
     "Канта" "Н... наверное, да."
 
 # ch/shiori/date.rpy:507
@@ -3149,7 +3149,7 @@ translate russian shiori_kanta_halloween_arrival_3b6fc8c8:
     mike.say "А знаешь, что я нашёл в своей сосиске в тесте на тот Хэллоуин?"
 
 # ch/shiori/date.rpy:533
-translate russian shiori_kanta_halloween_arrival_e317d5cf:
+translate russian shiori_kanta_halloween_arrival_f3804139:
     "Канта" "Ч... что ты нашёл?"
 
 # ch/shiori/date.rpy:535
@@ -3185,7 +3185,7 @@ translate russian shiori_kanta_halloween_arrival_7c8b7d9f_1:
     "Он смотрит на Сиори, потом снова на меня."
 
 # ch/shiori/date.rpy:547
-translate russian shiori_kanta_halloween_arrival_53471707:
+translate russian shiori_kanta_halloween_arrival_94c6a6ef:
     "Канта" "М... можно, мам?"
 
 # ch/shiori/date.rpy:548
@@ -3197,7 +3197,7 @@ translate russian shiori_kanta_halloween_arrival_c63be7db:
     "Она кивает и отвечает, запинаясь."
 
 # ch/shiori/date.rpy:550
-translate russian shiori_kanta_halloween_arrival_4170765a:
+translate russian shiori_kanta_halloween_arrival_20e3292d:
     shiori.say "К... конечно, можно..."
 
 # ch/shiori/date.rpy:552
@@ -3313,7 +3313,7 @@ translate russian shiori_halloween_party_e0e72ab5:
     jack.say "Ага, подпрыгни!"
 
 # ch/shiori/date.rpy:595
-translate russian shiori_halloween_party_4119eb7e:
+translate russian shiori_halloween_party_d09e6959:
     shiori.say "Я... я не достаю."
 
 # ch/shiori/date.rpy:596
@@ -3421,7 +3421,7 @@ translate russian shiori_halloween_party_86606e32:
     "А Скотти и Джек сразу вздыхают с облегчением."
 
 # ch/shiori/date.rpy:640
-translate russian shiori_halloween_party_231d16c9:
+translate russian shiori_halloween_party_3244b402:
     shiori.say "Н... но..."
 
 # ch/shiori/date.rpy:641
@@ -3465,7 +3465,7 @@ translate russian shiori_halloween_party_34545e42:
     "И вскоре её лицо становится таким же красным, как костюм!"
 
 # ch/shiori/date.rpy:666
-translate russian shiori_halloween_dance_6408905b:
+translate russian shiori_halloween_dance_6e0a10d4:
     shiori.say "Я... я..."
 
 # ch/shiori/date.rpy:667
@@ -3581,7 +3581,7 @@ translate russian shiori_halloween_dance_5bfbebda:
     "Но затем она улыбается и кивает."
 
 # ch/shiori/date.rpy:704
-translate russian shiori_halloween_dance_18a85f3d:
+translate russian shiori_halloween_dance_3987cb24:
     shiori.say "Д... да, именно!"
 
 # ch/shiori/date.rpy:705
@@ -3617,7 +3617,7 @@ translate russian shiori_halloween_sex_73cc37c7:
     "Можете считать меня негодяем, но, возможно, я немного подбивал её выпить пунша."
 
 # ch/shiori/date.rpy:721
-translate russian shiori_halloween_sex_e2e409de:
+translate russian shiori_halloween_sex_bd125786:
     "Ладно, ладно... я подбивал её пить много!"
 
 # ch/shiori/date.rpy:722
@@ -3645,7 +3645,7 @@ translate russian shiori_halloween_sex_cb9adf7a:
     shiori.say "[lssb_shiori.hero_name()], почему вся комната кружится?"
 
 # ch/shiori/date.rpy:731
-translate russian shiori_halloween_sex_844c8eca:
+translate russian shiori_halloween_sex_8bf10261:
     mike.say "Я... я думаю, дело не в комнате, Сиори."
 
 # ch/shiori/date.rpy:732
@@ -3705,7 +3705,7 @@ translate russian shiori_halloween_sex_0ac948c4:
     "И просто смотрят друг другу в глаза."
 
 # ch/shiori/date.rpy:749
-translate russian shiori_halloween_sex_6a964688:
+translate russian shiori_halloween_sex_bc3aedce:
     mike.say "М... может, мне встать?"
 
 # ch/shiori/date.rpy:751
@@ -3713,11 +3713,11 @@ translate russian shiori_halloween_sex_6741e6f2:
     shiori.say "НЕТ!"
 
 # ch/shiori/date.rpy:753
-translate russian shiori_halloween_sex_27181785:
+translate russian shiori_halloween_sex_d7de9176:
     shiori.say "То есть... нет... пожалуйста, не надо!"
 
 # ch/shiori/date.rpy:754
-translate russian shiori_halloween_sex_8eda107f:
+translate russian shiori_halloween_sex_b46ecb3a:
     shiori.say "Ты... ну, ты трёшься о мою киску, [lssb_shiori.hero_name()]."
 
 # ch/shiori/date.rpy:755
@@ -3765,7 +3765,7 @@ translate russian shiori_halloween_sex_21a9c576:
     "Но кивает, побуждая меня продолжать."
 
 # ch/shiori/date.rpy:770
-translate russian shiori_halloween_sex_a0e7ec00:
+translate russian shiori_halloween_sex_51635fa8:
     shiori.say "Д... да, вот так, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/date.rpy:771
@@ -3889,7 +3889,7 @@ translate russian shiori_halloween_sex_9811195d:
     "Она как может обвивает меня ногами, удерживая глубоко внутри."
 
 # ch/shiori/date.rpy:806
-translate russian shiori_halloween_sex_faac2ba2:
+translate russian shiori_halloween_sex_dcdd4c65:
     shiori.say "Прости, что я сегодня такая ненасытная... но мне слишком хорошо, чтобы останавливаться!"
 
 # ch/shiori/date.rpy:807
@@ -4189,7 +4189,7 @@ translate russian shiori_event_02_fe399260:
     "Я вздрагиваю за столом: Сиори входит, и её жизнерадостное присутствие рассеивает мои мысли."
 
 # ch/shiori/events.rpy:734
-translate russian shiori_event_02_b09dd4eb:
+translate russian shiori_event_02_97d3687d:
     mike.say "Эм... привет, Сиори. Чем могу помочь этим утром?"
 
 # ch/shiori/events.rpy:735
@@ -4229,7 +4229,7 @@ translate russian shiori_event_02_dcc26efa:
     mike.say "Кофе, Сиори! Я так понял, ты сейчас спрашивала у всех, какой они пьют кофе!"
 
 # ch/shiori/events.rpy:747
-translate russian shiori_event_02_f4c12b1a:
+translate russian shiori_event_02_ee9413c6:
     shiori.say "А, да, конечно... Я как раз за этим и зашла."
 
 # ch/shiori/events.rpy:749
@@ -4265,7 +4265,7 @@ translate russian shiori_event_02_153b7480:
     "И немного обиженной, будто я специально хотел задеть именно её."
 
 # ch/shiori/events.rpy:760
-translate russian shiori_event_02_9717d583:
+translate russian shiori_event_02_84fe7f7e:
     mike.say "Слушай, прости, Сиори... Я просто неудачно пошутил."
 
 # ch/shiori/events.rpy:761
@@ -4305,7 +4305,7 @@ translate russian shiori_event_02_f3d87184:
     "Я стараюсь не придавать значения тому, с каким восторгом она узнала, что я люблю кофе с большим количеством молока."
 
 # ch/shiori/events.rpy:775
-translate russian shiori_event_02_864ab7db:
+translate russian shiori_event_02_fa4c22bf:
     mike.say "Эм... хорошо, Сиори... Ты ещё что-нибудь хотела спросить?"
 
 # ch/shiori/events.rpy:777
@@ -4513,7 +4513,7 @@ translate russian shiori_event_04_e480ec43:
     mike.say "Что тебя тревожит?"
 
 # ch/shiori/events.rpy:858
-translate russian shiori_event_04_58bb8bba:
+translate russian shiori_event_04_40f8ef2a:
     shiori.say "Я... я не понимаю, о чём ты, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/events.rpy:860
@@ -4605,11 +4605,11 @@ translate russian shiori_event_04_a30d82ae:
     shiori.say "Ты прав. Конечно, прав."
 
 # ch/shiori/events.rpy:884
-translate russian shiori_event_04_fc8ff802:
+translate russian shiori_event_04_00f96773:
     shiori.say "Я действительно хочу тебя кое о чём попросить... об одолжении."
 
 # ch/shiori/events.rpy:885
-translate russian shiori_event_04_73160287:
+translate russian shiori_event_04_cf9af01c:
     shiori.say "Но боюсь, ты откажешь... точнее, сначала запаникуешь, а потом откажешь!"
 
 # ch/shiori/events.rpy:886
@@ -4649,11 +4649,11 @@ translate russian shiori_event_04_36af629b:
     "Сиори качает головой, продолжая улыбаться: похоже, мне удалось её успокоить."
 
 # ch/shiori/events.rpy:897
-translate russian shiori_event_04_12645370:
+translate russian shiori_event_04_1457b50f:
     shiori.say "Ладно, [lssb_shiori.hero_name()], ладно... была не была!"
 
 # ch/shiori/events.rpy:898
-translate russian shiori_event_04_74246097:
+translate russian shiori_event_04_2626e433:
     shiori.say "Я... я хотела спросить... не присмотришь ли ты за Кантой?"
 
 # ch/shiori/events.rpy:899
@@ -4697,7 +4697,7 @@ translate russian shiori_event_04_28d38185:
     "Хотя бы ради того, чтобы Сиори после этого продолжала со мной разговаривать..."
 
 # ch/shiori/events.rpy:912
-translate russian shiori_event_04_cac1bfb2:
+translate russian shiori_event_04_e494e93b:
     mike.say "Нет... нет, Сиори, я не паникую, честно."
 
 # ch/shiori/events.rpy:913
@@ -4737,7 +4737,7 @@ translate russian shiori_event_04_5898be12:
     "Сиори снова вздыхает, на этот раз с покорным разочарованием."
 
 # ch/shiori/events.rpy:924
-translate russian shiori_event_04_bb701f6d:
+translate russian shiori_event_04_9c74e963:
     shiori.say "Ладно... ладно, [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:925
@@ -4797,7 +4797,7 @@ translate russian shiori_event_04_e5303d90:
     "И вот я уже рассуждаю об этом так, будто согласился."
 
 # ch/shiori/events.rpy:943
-translate russian shiori_event_04_cac1bfb2_1:
+translate russian shiori_event_04_e494e93b_1:
     mike.say "Нет... нет, Сиори, я не паникую, честно."
 
 # ch/shiori/events.rpy:944
@@ -4833,7 +4833,7 @@ translate russian shiori_event_04_f36f16ba:
     "Я не знаю, чему удивляться больше: её силе или потрясающему ощущению её груди, прижатой ко мне."
 
 # ch/shiori/events.rpy:954
-translate russian shiori_event_04_36136829:
+translate russian shiori_event_04_c29ca764:
     shiori.say "Ох... спасибо, спасибо, спасибо, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/events.rpy:955
@@ -4841,7 +4841,7 @@ translate russian shiori_event_04_72d4eef8:
     shiori.say "Ты самый лучший, просто самый лучший!"
 
 # ch/shiori/events.rpy:956
-translate russian shiori_event_04_55548f2a:
+translate russian shiori_event_04_3da220b7:
     shiori.say "Я сделаю всё, чтобы отблагодарить тебя... абсолютно всё!"
 
 # ch/shiori/events.rpy:957
@@ -4849,11 +4849,11 @@ translate russian shiori_event_04_1274c331:
     "Я изо всех сил стараюсь не думать о том, как нескромно можно истолковать последние слова."
 
 # ch/shiori/events.rpy:958
-translate russian shiori_event_04_3c12392b:
+translate russian shiori_event_04_a993d1ad:
     mike.say "Ладно... ладно, Сиори!"
 
 # ch/shiori/events.rpy:959
-translate russian shiori_event_04_cd44ed0a:
+translate russian shiori_event_04_04453f21:
     mike.say "Я понял, ты благодарна!"
 
 # ch/shiori/events.rpy:960
@@ -4865,7 +4865,7 @@ translate russian shiori_event_04_e6550f39:
     "Сиори выпускает меня из своих мёртвых объятий и снова краснеет."
 
 # ch/shiori/events.rpy:964
-translate russian shiori_event_04_fb30f188:
+translate russian shiori_event_04_cacf8c97:
     shiori.say "Ой... прости, [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:965
@@ -5061,7 +5061,7 @@ translate russian shiori_event_05_576b6f99:
     "Господи, это ребёнок или последний представитель вымирающего вида?"
 
 # ch/shiori/events.rpy:1025
-translate russian shiori_event_05_c75a3bb9:
+translate russian shiori_event_05_44e3820a:
     mike.say "Сиори... Сиори, это всего на пару часов."
 
 # ch/shiori/events.rpy:1026
@@ -5081,7 +5081,7 @@ translate russian shiori_event_05_733b5997:
     "В награду за все старания я получаю от Канты лишь прежнее угрюмое молчание."
 
 # ch/shiori/events.rpy:1031
-translate russian shiori_event_05_03f9d013:
+translate russian shiori_event_05_30c41e13:
     shiori.say "Ладно, мне пора, а то опоздаю на... смену... да, на смену."
 
 # ch/shiori/events.rpy:1032
@@ -5157,7 +5157,7 @@ translate russian shiori_event_05_6cb00984:
     bree.say "Здорово, что у нас дома пару часов побудет ещё один большой и сильный мужчина!"
 
 # ch/shiori/events.rpy:1054
-translate russian shiori_event_05_7cf14a87:
+translate russian shiori_event_05_df5c325c:
     "Канта" "Тётя... а ты принцесса?"
 
 # ch/shiori/events.rpy:1055
@@ -5173,7 +5173,7 @@ translate russian shiori_event_05_6ec5341c:
     "Кладёт одну руку на грудь, другой прикрывает рот — он явно её очаровал."
 
 # ch/shiori/events.rpy:1059
-translate russian shiori_event_05_2114f9e9:
+translate russian shiori_event_05_5dee3e1f:
     bree.say "О-о... ты думаешь, я принцесса?"
 
 # ch/shiori/events.rpy:1060
@@ -5229,7 +5229,7 @@ translate russian shiori_event_05_52d8a2b0:
     mike.say "Он побудет с нами, пока мама не вернётся с вечерней смены."
 
 # ch/shiori/events.rpy:1078
-translate russian shiori_event_05_fadecea9:
+translate russian shiori_event_05_d44bd27a:
     sasha.say "Фу... ладно... как скажешь."
 
 # ch/shiori/events.rpy:1080
@@ -5261,7 +5261,7 @@ translate russian shiori_event_05_d7afae2a:
     "Канта" "Почему ты такого цвета?"
 
 # ch/shiori/events.rpy:1087
-translate russian shiori_event_05_9603e307:
+translate russian shiori_event_05_bd4a78ac:
     sasha.say "Что... что оно имеет в виду?"
 
 # ch/shiori/events.rpy:1088
@@ -5433,7 +5433,7 @@ translate russian shiori_event_05_20394f5a:
     shiori.say "Как тебе удалось его усыпить?!"
 
 # ch/shiori/events.rpy:1147
-translate russian shiori_event_05_d77a8639:
+translate russian shiori_event_05_8185c29c:
     shiori.say "Он никогда ни у кого другого не засыпает... никогда!"
 
 # ch/shiori/events.rpy:1148
@@ -5511,10 +5511,6 @@ translate russian shiori_event_05_538fd42e:
 # ch/shiori/events.rpy:1170
 translate russian shiori_event_05_7b7189ee:
     "Я поднимаю глаза и вижу в дверях [bree.name]."
-
-# ch/shiori/events.rpy:1171
-translate russian shiori_event_05_8e5ee797:
-    mike.say "Конечно, [bree.name]."
 
 # ch/shiori/events.rpy:1172
 translate russian shiori_event_05_2286f066:
@@ -5633,7 +5629,7 @@ translate russian shiori_event_05_20394f5a_1:
     shiori.say "Как тебе удалось его усыпить?!"
 
 # ch/shiori/events.rpy:1211
-translate russian shiori_event_05_d77a8639_1:
+translate russian shiori_event_05_8185c29c_1:
     shiori.say "Он никогда ни у кого другого не засыпает... никогда!"
 
 # ch/shiori/events.rpy:1212
@@ -5717,7 +5713,7 @@ translate russian shiori_event_05_1d662c3f:
     mike.say "Конечно, Саша."
 
 # ch/shiori/events.rpy:1235
-translate russian shiori_event_05_26a7971b:
+translate russian shiori_event_05_4624a3c6:
     mike.say "Я... просто не думал, что тебе такое нравится."
 
 # ch/shiori/events.rpy:1236
@@ -5849,7 +5845,7 @@ translate russian shiori_event_05_20394f5a_2:
     shiori.say "Как тебе удалось его усыпить?!"
 
 # ch/shiori/events.rpy:1279
-translate russian shiori_event_05_d77a8639_2:
+translate russian shiori_event_05_8185c29c_2:
     shiori.say "Он никогда ни у кого другого не засыпает... никогда!"
 
 # ch/shiori/events.rpy:1280
@@ -5953,7 +5949,7 @@ translate russian shiori_event_05_851ee64c:
     "С удивлением вижу [bree.name] и Сашу: первая успокаивает рыдающего Канту, вторая смотрит на меня с негодованием."
 
 # ch/shiori/events.rpy:1317
-translate russian shiori_event_05_f2505e5b:
+translate russian shiori_event_05_71934d08:
     mike.say "Ч... что случилось?"
 
 # ch/shiori/events.rpy:1319
@@ -5985,7 +5981,7 @@ translate russian shiori_event_05_cf894c92:
     "Она едва не сбивает [bree.name] с ног, выхватывая сына из её рук."
 
 # ch/shiori/events.rpy:1334
-translate russian shiori_event_05_e8a449c7:
+translate russian shiori_event_05_c630b7fe:
     mike.say "Я... я не знаю, что случилось, Сиори!"
 
 # ch/shiori/events.rpy:1335
@@ -6029,7 +6025,7 @@ translate russian shiori_event_05_5a33b2b4:
     shiori.say "Тоже мне мать..."
 
 # ch/shiori/events.rpy:1349
-translate russian shiori_event_05_0087a2c5:
+translate russian shiori_event_05_f74ad904:
     mike.say "Сиори... я..."
 
 # ch/shiori/events.rpy:1351
@@ -6045,7 +6041,7 @@ translate russian shiori_event_05_6b02f9ec:
     shiori.say "Я уже сама не понимаю, что говорю..."
 
 # ch/shiori/events.rpy:1354
-translate russian shiori_event_05_9c7c2fe4:
+translate russian shiori_event_05_7bad9ffc:
     mike.say "А... ладно, Сиори."
 
 # ch/shiori/events.rpy:1355
@@ -6193,7 +6189,7 @@ translate russian shiori_event_05_20394f5a_3:
     shiori.say "Как тебе удалось его усыпить?!"
 
 # ch/shiori/events.rpy:1404
-translate russian shiori_event_05_d77a8639_3:
+translate russian shiori_event_05_8185c29c_3:
     shiori.say "Он никогда ни у кого другого не засыпает... никогда!"
 
 # ch/shiori/events.rpy:1405
@@ -6285,7 +6281,7 @@ translate russian shiori_event_06_9d7a64b2:
     "На подносе опасно покачиваются френч-пресс с кофе, маленький молочник, сахар в кубиках и чашка с блюдцем."
 
 # ch/shiori/events.rpy:1438
-translate russian shiori_event_06_3caba4a1:
+translate russian shiori_event_06_3797b202:
     mike.say "Эм, Сиори... в честь чего всё это?"
 
 # ch/shiori/events.rpy:1440
@@ -7185,7 +7181,7 @@ translate russian shiori_coffee_2_b539c30f:
     "Я здороваюсь, не поднимая глаз, и с удовольствием слышу её удивлённый писк."
 
 # ch/shiori/events.rpy:1795
-translate russian shiori_coffee_2_cccad451:
+translate russian shiori_coffee_2_6b67165b:
     shiori.say "Доброе... доброе утро, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/events.rpy:1796
@@ -7221,7 +7217,7 @@ translate russian shiori_coffee_2_8c96c77f:
     "Хотя и так довольно очевидно, зачем она пришла."
 
 # ch/shiori/events.rpy:1805
-translate russian shiori_coffee_2_c7ac25b7:
+translate russian shiori_coffee_2_01f180d8:
     shiori.say "Эм... я... хотела спросить, не хочешь ли ты кофе, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/events.rpy:1806
@@ -7261,7 +7257,7 @@ translate russian shiori_coffee_2_04897ab3:
     "Не знаю, польщён я или напуган!"
 
 # ch/shiori/events.rpy:1820
-translate russian shiori_coffee_choice_6c27d864:
+translate russian shiori_coffee_choice_fe6cab84:
     shiori.say "Ну... я подумала... Я знаю, что ты пьёшь кофе с молоком."
 
 # ch/shiori/events.rpy:1821
@@ -7269,7 +7265,7 @@ translate russian shiori_coffee_choice_14aa91c4:
     "Я киваю, пока она осторожно ставит поднос передо мной."
 
 # ch/shiori/events.rpy:1823
-translate russian shiori_coffee_choice_06fb76e7:
+translate russian shiori_coffee_choice_d35a5e65:
     shiori.say "И хотела спросить... может, для разнообразия... сегодня ты сам выберешь, какое молоко добавить?"
 
 # ch/shiori/events.rpy:1824
@@ -7285,7 +7281,7 @@ translate russian shiori_coffee_choice_4d07611b:
     "Мой интерес немного подбадривает Сиори. Она улыбается, по очереди указывая на молочники."
 
 # ch/shiori/events.rpy:1828
-translate russian shiori_coffee_choice_4f9aca13:
+translate russian shiori_coffee_choice_1f708321:
     shiori.say "А... хорошо... Обычно ты берёшь обезжиренное, но у меня есть ещё маложирное, и..."
 
 # ch/shiori/events.rpy:1829
@@ -7293,7 +7289,7 @@ translate russian shiori_coffee_choice_a085f18a:
     "Прежде чем продолжить, она замолкает и глубоко вдыхает."
 
 # ch/shiori/events.rpy:1831
-translate russian shiori_coffee_choice_649b9a07:
+translate russian shiori_coffee_choice_f40d9628:
     shiori.say "Можешь взять... жирное... если тебе хочется?"
 
 # ch/shiori/events.rpy:1832
@@ -7341,7 +7337,7 @@ translate russian shiori_coffee_choice_20b24d4d:
     "Она резко опускает руки и выпрямляется, отчего грудь подпрыгивает."
 
 # ch/shiori/events.rpy:1849
-translate russian shiori_coffee_choice_8730681e:
+translate russian shiori_coffee_choice_a2c33515:
     shiori.say "О... ладно... это... замечательно, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/events.rpy:1850
@@ -7373,7 +7369,7 @@ translate russian shiori_coffee_choice_2a0579de:
     "Но кто может честно сказать, что никогда не задумывался, каково грудное молоко на вкус?"
 
 # ch/shiori/events.rpy:1862
-translate russian shiori_coffee_choice_664298bc:
+translate russian shiori_coffee_choice_2da61270:
     mike.say "Эм... хорошо, Сиори... звучит... заманчиво."
 
 # ch/shiori/events.rpy:1863
@@ -7389,7 +7385,7 @@ translate russian shiori_coffee_choice_38c47e03:
     shiori.say "Я так счастлива служить тебе... позволять использовать каждую частичку меня."
 
 # ch/shiori/events.rpy:1866
-translate russian shiori_coffee_choice_ec1f2e25:
+translate russian shiori_coffee_choice_28f368df:
     shiori.say "Это делает меня такой счастливой... такой полезной!"
 
 # ch/shiori/events.rpy:1867
@@ -7457,7 +7453,7 @@ translate russian shiori_coffee_choice_07d7e9ee:
     "Услышав мой громкий голос, она резко приходит в себя."
 
 # ch/shiori/events.rpy:1889
-translate russian shiori_coffee_choice_3e68bd6f:
+translate russian shiori_coffee_choice_ae59903c:
     mike.say "Сиори... хватит. Видишь, чашка уже полная?"
 
 # ch/shiori/events.rpy:1890
@@ -7465,7 +7461,7 @@ translate russian shiori_coffee_choice_e19f95dc:
     "Она отрешённо смотрит на меня, затем на чашку."
 
 # ch/shiori/events.rpy:1891
-translate russian shiori_coffee_choice_42a9d9b0:
+translate russian shiori_coffee_choice_2b733777:
     shiori.say "А, вижу... Вот я глупая!"
 
 # ch/shiori/events.rpy:1892
@@ -7473,7 +7469,7 @@ translate russian shiori_coffee_choice_177a1cfc:
     "Всё ещё выглядя слегка потерянной, она улыбается и поворачивается к выходу."
 
 # ch/shiori/events.rpy:1893
-translate russian shiori_coffee_choice_a67fb7f2:
+translate russian shiori_coffee_choice_fa7981e5:
     mike.say "Кхм... Сиори, у тебя воротник немного сбился..."
 
 # ch/shiori/events.rpy:1894
@@ -7805,7 +7801,7 @@ translate russian shiori_sleep_office_03d99ae3:
     "И поняла, что сболтнула лишнего!"
 
 # ch/shiori/events.rpy:2000
-translate russian shiori_sleep_office_c9aa8238:
+translate russian shiori_sleep_office_b0fd5d3a:
     shiori.say "О... ой!"
 
 # ch/shiori/events.rpy:2001
@@ -8609,7 +8605,7 @@ translate russian shiori_preg_talk_da3d3e1c:
     "Вот уж чего я сегодня от неё не ожидал."
 
 # ch/shiori/events.rpy:2293
-translate russian shiori_preg_talk_47ceb5f9:
+translate russian shiori_preg_talk_d3b17224:
     mike.say "Эм... хорошо, Сиори."
 
 # ch/shiori/events.rpy:2294
@@ -8681,7 +8677,7 @@ translate russian shiori_preg_talk_d2c16c2a:
     "Но когда и то и другое внезапно сваливается на голову, становится страшно."
 
 # ch/shiori/events.rpy:2315
-translate russian shiori_preg_talk_dda60c12:
+translate russian shiori_preg_talk_fc5473c3:
     mike.say "Но... Сиори... мы не можем..."
 
 # ch/shiori/events.rpy:2316
@@ -8705,7 +8701,7 @@ translate russian shiori_preg_talk_377a31ea:
     "Что-то в её лице наконец прорывает плотину моих эмоций."
 
 # ch/shiori/events.rpy:2322
-translate russian shiori_preg_talk_2efd5286:
+translate russian shiori_preg_talk_5cefb193:
     mike.say "Я не могу завести ребёнка, Сиори... мы не можем..."
 
 # ch/shiori/events.rpy:2324
@@ -8729,7 +8725,7 @@ translate russian shiori_preg_talk_d4c60902:
     "Сиори медленно отступает, качая головой, будто больше меня не узнаёт."
 
 # ch/shiori/events.rpy:2331
-translate russian shiori_preg_talk_59d328e0:
+translate russian shiori_preg_talk_bccde9d3:
     shiori.say "Нет... я не позволю... не позволю тебе убить нашего ребёнка!"
 
 # ch/shiori/events.rpy:2332
@@ -8753,7 +8749,7 @@ translate russian shiori_preg_talk_811a5dc2:
     "Стоит посмотреть на Сиори, которая ждёт моей реакции, как меня охватывает радость."
 
 # ch/shiori/events.rpy:2341
-translate russian shiori_preg_talk_20c822e9:
+translate russian shiori_preg_talk_4ab9a3b4:
     mike.say "Сиори... это потрясающая новость!"
 
 # ch/shiori/events.rpy:2342
@@ -8769,7 +8765,7 @@ translate russian shiori_preg_talk_17ceedbd:
     "Её глаза будто затуманиваются от счастья."
 
 # ch/shiori/events.rpy:2345
-translate russian shiori_preg_talk_84a1a680:
+translate russian shiori_preg_talk_7d609d60:
     mike.say "Погоди... ты ведь хочешь, чтобы я участвовал, помогал растить ребёнка?"
 
 # ch/shiori/events.rpy:2346
@@ -8777,11 +8773,11 @@ translate russian shiori_preg_talk_0411757f:
     "Сиори словно не верит словам, которые я произношу."
 
 # ch/shiori/events.rpy:2347
-translate russian shiori_preg_talk_e9816c16:
+translate russian shiori_preg_talk_0fed4990:
     shiori.say "ДА... То есть да... конечно, хочу, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/events.rpy:2348
-translate russian shiori_preg_talk_fbcecc33:
+translate russian shiori_preg_talk_1fdd041a:
     shiori.say "Вообще-то я боялась, что ты... можешь не захотеть..."
 
 # ch/shiori/events.rpy:2349
@@ -8841,7 +8837,7 @@ translate russian shiori_preg_talk_021b235a:
     "И представляю, что сделаю с ней, когда в следующий раз представится случай..."
 
 # ch/shiori/events.rpy:2366
-translate russian shiori_preg_talk_4c453697:
+translate russian shiori_preg_talk_fd24ccf0:
     shiori.say "Эм... [lssb_shiori.hero_name()]..."
 
 # ch/shiori/events.rpy:2367
@@ -8877,11 +8873,11 @@ translate russian shiori_preg_talk_3ffcea3f:
     "Она слабо улыбается моему запоздалому вниманию, но грусть из глаз не исчезает."
 
 # ch/shiori/events.rpy:2376
-translate russian shiori_preg_talk_fc593476:
+translate russian shiori_preg_talk_eaf998cd:
     shiori.say "Ну... ты ведь знаешь, как мы... узнавали друг друга поближе?"
 
 # ch/shiori/events.rpy:2377
-translate russian shiori_preg_talk_ae36ba80:
+translate russian shiori_preg_talk_45edc30e:
     shiori.say "Узнавали друг друга... вне работы?"
 
 # ch/shiori/events.rpy:2378
@@ -8893,7 +8889,7 @@ translate russian shiori_preg_talk_2e620207:
     "Полагаю, она имеет в виду, что мы трахались как кролики при каждом удобном случае."
 
 # ch/shiori/events.rpy:2380
-translate russian shiori_preg_talk_f7b73640:
+translate russian shiori_preg_talk_8e1b1850:
     shiori.say "И помнишь, мы не всегда были осторожны... с предохранением?"
 
 # ch/shiori/events.rpy:2381
@@ -8953,7 +8949,7 @@ translate russian shiori_preg_talk_a5a713e0:
     "Но я понятия не имею, к чему она пришла..."
 
 # ch/shiori/events.rpy:2398
-translate russian shiori_preg_talk_ef101526:
+translate russian shiori_preg_talk_a4cd436f:
     shiori.say "Я... я всегда думала, что буду счастлива забеременеть от тебя, [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:2399
@@ -8961,7 +8957,7 @@ translate russian shiori_preg_talk_b03fecc3:
     shiori.say "Правда!"
 
 # ch/shiori/events.rpy:2400
-translate russian shiori_preg_talk_f97abeb7:
+translate russian shiori_preg_talk_dcb18c30:
     shiori.say "Я даже ласкала себя, думая об этом... когда оставалась одна ночью..."
 
 # ch/shiori/events.rpy:2402
@@ -8989,11 +8985,11 @@ translate russian shiori_preg_talk_ad58b4a2:
     shiori.say "В нынешнем положении я никак не могу оставить нашего ребёнка."
 
 # ch/shiori/events.rpy:2408
-translate russian shiori_preg_talk_41e6d4ec:
+translate russian shiori_preg_talk_0783bc57:
     mike.say "Так... что ты хочешь сказать, Сиори?"
 
 # ch/shiori/events.rpy:2410
-translate russian shiori_preg_talk_84ab3b96:
+translate russian shiori_preg_talk_c81858a4:
     shiori.say "Я... я собираюсь прервать беременность!"
 
 # ch/shiori/events.rpy:2413
@@ -9089,7 +9085,7 @@ translate russian shiori_preg_talk_98c6e63f:
     shiori.say "Я просто не знаю, получится ли у нас."
 
 # ch/shiori/events.rpy:2443
-translate russian shiori_preg_talk_02cae537:
+translate russian shiori_preg_talk_16a62a4d:
     shiori.say "Поэтому пока... моё решение остаётся в силе."
 
 # ch/shiori/events.rpy:2444
@@ -9173,7 +9169,7 @@ translate russian shiori_preg_talk_20755fa5:
     shiori.say "Да, [lssb_shiori.hero_name()], наверное, ты прав."
 
 # ch/shiori/events.rpy:2472
-translate russian shiori_preg_talk_33351dfb:
+translate russian shiori_preg_talk_d381eca1:
     shiori.say "Может... ты хотя бы..."
 
 # ch/shiori/events.rpy:2473
@@ -9209,7 +9205,7 @@ translate russian shiori_preg_talk_e042a4b0:
     shiori.say "Ох, [lssb_shiori.hero_name()], ты правда этого хочешь?!"
 
 # ch/shiori/events.rpy:2487
-translate russian shiori_preg_talk_3b8a0a57:
+translate russian shiori_preg_talk_c6795189:
     shiori.say "Но... а как же расходы и все трудности?"
 
 # ch/shiori/events.rpy:2488
@@ -9453,7 +9449,7 @@ translate russian shiori_male_ending_7351186e:
     "Священник" "А ты, Сиори, согласна ли, чтобы [lssb_shiori.hero_name()] стал твоим законным мужем?"
 
 # ch/shiori/events.rpy:2572
-translate russian shiori_male_ending_082fb84d:
+translate russian shiori_male_ending_20cb633e:
     shiori.say "Я... согласна!"
 
 # ch/shiori/events.rpy:2573
@@ -9521,7 +9517,7 @@ translate russian shiori_male_ending_a0870d53:
     "И больше никогда не хочу её отпускать!"
 
 # ch/shiori/events.rpy:2600
-translate russian shiori_male_ending_3253e2c7:
+translate russian shiori_male_ending_f5d83991:
     shiori.say "Вы... вы ТОЧНО уверены, что мне можно это делать?"
 
 # ch/shiori/events.rpy:2601
@@ -9529,7 +9525,7 @@ translate russian shiori_male_ending_fa027c8f:
     shiori.say "То есть разве рассказчиком должен быть не [lssb_shiori.hero_name()]?"
 
 # ch/shiori/events.rpy:2602
-translate russian shiori_male_ending_8dd1ca7c:
+translate russian shiori_male_ending_f15e400c:
     shiori.say "А... ну ладно, наверное."
 
 # ch/shiori/events.rpy:2603
@@ -9585,7 +9581,7 @@ translate russian shiori_male_ending_00be3f2c:
     shiori.say "Тогда я поняла, что в душе он хороший человек."
 
 # ch/shiori/events.rpy:2616
-translate russian shiori_male_ending_4e411320:
+translate russian shiori_male_ending_ced825d2:
     shiori.say "И... ну... наверное..."
 
 # ch/shiori/events.rpy:2617
@@ -9605,7 +9601,7 @@ translate russian shiori_male_ending_8b9399e3:
     shiori.say "И всё же был так же добр к моему мальчику, как и ко мне!"
 
 # ch/shiori/events.rpy:2621
-translate russian shiori_male_ending_97705677:
+translate russian shiori_male_ending_c2525799:
     shiori.say "И да... я... после этого я задумалась..."
 
 # ch/shiori/events.rpy:2622
@@ -9625,7 +9621,7 @@ translate russian shiori_male_ending_5130ce3e:
     shiori.say "Я была бы дурой, если бы отказала после всего хорошего, что он для меня сделал."
 
 # ch/shiori/events.rpy:2626
-translate russian shiori_male_ending_99072396:
+translate russian shiori_male_ending_bf43c49d:
     shiori.say "И главное... к тому времени я уже знала, что люблю его!"
 
 # ch/shiori/events.rpy:2627
@@ -9781,7 +9777,7 @@ translate russian shiori_meeting_548fc7ea:
     audrey.say "Ага, тогда сможешь орать на нас, когда мы взбодримся кофеином!"
 
 # ch/shiori/events.rpy:2685
-translate russian shiori_meeting_9944f97e:
+translate russian shiori_meeting_56143dd5:
     shiori.say "Я... я бы выпила кофе, [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:2686
@@ -10049,7 +10045,7 @@ translate russian shiori_meeting_4f6a2519:
     audrey.say "На такие штуки нужно чёртово разрешение! Это смертоносное оружие!"
 
 # ch/shiori/events.rpy:2767
-translate russian shiori_meeting_d7d0988b:
+translate russian shiori_meeting_00bde714:
     shiori.say "Я... простите..."
 
 # ch/shiori/events.rpy:2768
@@ -10149,7 +10145,7 @@ translate russian shiori_payoff_conversation_0d3e8208:
     "Поэтому она невольно заправляет волосы за ухо, и на губах появляется робкая улыбка."
 
 # ch/shiori/events.rpy:2802
-translate russian shiori_payoff_conversation_604bcfe6:
+translate russian shiori_payoff_conversation_9eef8496:
     shiori.say "П... привет, [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:2803
@@ -10341,7 +10337,7 @@ translate russian shiori_payoff_conversation_c3f0df99:
     shiori.say "Ох, [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:2854
-translate russian shiori_payoff_conversation_fbebc79d:
+translate russian shiori_payoff_conversation_bd444859:
     shiori.say "Ты словно благородный рыцарь или... или сказочный принц!"
 
 # ch/shiori/events.rpy:2855
@@ -10545,7 +10541,7 @@ translate russian shiori_strip_club_payoff_85d9a4ca:
     "Но самодовольная ухмылка всё равно не сходит с его лица."
 
 # ch/shiori/events.rpy:2927
-translate russian shiori_strip_club_payoff_7311c7b5:
+translate russian shiori_strip_club_payoff_7a018b4e:
     "Управляющий" "Ладно, ладно... не обоссысь!"
 
 # ch/shiori/events.rpy:2928
@@ -10869,7 +10865,7 @@ translate russian shiori_strip_club_manager_12774490:
     "Управляющий поднимает брови и откидывается в кресле."
 
 # ch/shiori/events.rpy:3034
-translate russian shiori_strip_club_manager_aa2257b5:
+translate russian shiori_strip_club_manager_28921995:
     "Управляющий" "Правда?.. Вот как?"
 
 # ch/shiori/events.rpy:3035
@@ -10929,7 +10925,7 @@ translate russian shiori_strip_club_manager_8636966e:
     "Управляющий расширяет глаза и склоняет голову набок."
 
 # ch/shiori/events.rpy:3049
-translate russian shiori_strip_club_manager_200b4fb1:
+translate russian shiori_strip_club_manager_da95d4a3:
     mike.say "А... простите."
 
 # ch/shiori/events.rpy:3050
@@ -11145,7 +11141,7 @@ translate russian shiori_strip_club_manager_bc82dd37:
     "Я не успеваю договорить: управляющий грозит пальцем."
 
 # ch/shiori/events.rpy:3110
-translate russian shiori_strip_club_manager_0eb0cdc1:
+translate russian shiori_strip_club_manager_854ece00:
     "Управляющий" "Не-не... не так быстро."
 
 # ch/shiori/events.rpy:3111
@@ -11357,7 +11353,7 @@ translate russian shiori_bruises_06b24095:
     aletta.say "Доброе утро, [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:3184
-translate russian shiori_bruises_1d8d4e16:
+translate russian shiori_bruises_d7faa0f1:
     mike.say "А... привет, Алетта."
 
 # ch/shiori/events.rpy:3187
@@ -11365,11 +11361,11 @@ translate russian shiori_bruises_81cd6865:
     audrey.say "Проснись и пой, босс!"
 
 # ch/shiori/events.rpy:3189
-translate russian shiori_bruises_04407340:
+translate russian shiori_bruises_10266c36:
     mike.say "Да-да... как скажешь, Игрушка."
 
 # ch/shiori/events.rpy:3191
-translate russian shiori_bruises_bcd6be80:
+translate russian shiori_bruises_a36f404e:
     mike.say "Да-да... как скажешь, Одри."
 
 # ch/shiori/events.rpy:3194
@@ -11381,7 +11377,7 @@ translate russian shiori_bruises_13eb4a64:
     mike.say "А, привет, Сиори..."
 
 # ch/shiori/events.rpy:3198
-translate russian shiori_bruises_6b76104b:
+translate russian shiori_bruises_90cb3f27:
     mike.say "Погоди... что... Сиори!"
 
 # ch/shiori/events.rpy:3199
@@ -11401,7 +11397,7 @@ translate russian shiori_bruises_1b927e56:
     "Особенно сама Сиори: она поднимает на меня взгляд, и её лицо становится тревожным."
 
 # ch/shiori/events.rpy:3203
-translate russian shiori_bruises_b16d8270:
+translate russian shiori_bruises_c84e33eb:
     shiori.say "Я... эм... прости, [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:3204
@@ -11413,11 +11409,11 @@ translate russian shiori_bruises_1245d9ad:
     "Я понимаю, что начинаю устраивать сцену и нужно вернуть происходящему нормальный вид."
 
 # ch/shiori/events.rpy:3206
-translate russian shiori_bruises_ee728433:
+translate russian shiori_bruises_cd407da6:
     mike.say "Ну... тебя вчера не было, Сиори."
 
 # ch/shiori/events.rpy:3207
-translate russian shiori_bruises_dc541295:
+translate russian shiori_bruises_a90e69b8:
     mike.say "И... я не ожидал увидеть тебя сегодня..."
 
 # ch/shiori/events.rpy:3208
@@ -11425,7 +11421,7 @@ translate russian shiori_bruises_8afc95af:
     mike.say "Ты просто меня удивила!"
 
 # ch/shiori/events.rpy:3209
-translate russian shiori_bruises_79de5456:
+translate russian shiori_bruises_dedeb975:
     shiori.say "А, да... конечно."
 
 # ch/shiori/events.rpy:3210
@@ -11445,7 +11441,7 @@ translate russian shiori_bruises_c169e270:
     mike.say "Зайди, как освободишься, ладно?"
 
 # ch/shiori/events.rpy:3214
-translate russian shiori_bruises_a701b8c7:
+translate russian shiori_bruises_f52b2337:
     shiori.say "А... хорошо."
 
 # ch/shiori/events.rpy:3216
@@ -11477,7 +11473,7 @@ translate russian shiori_bruises_7284b205:
     mike.say "Прости, что пришлось притвориться сердитым, Сиори."
 
 # ch/shiori/events.rpy:3228
-translate russian shiori_bruises_d9059d8d:
+translate russian shiori_bruises_dcd96adc:
     shiori.say "Ты... не сердишься?"
 
 # ch/shiori/events.rpy:3229
@@ -11553,11 +11549,11 @@ translate russian shiori_bruises_a988a718:
     "Кажется, она начинает понимать, что означает доверить мне свою тайну."
 
 # ch/shiori/events.rpy:3247
-translate russian shiori_bruises_bb701f6d:
+translate russian shiori_bruises_9c74e963:
     shiori.say "Ладно... ладно, [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:3248
-translate russian shiori_bruises_ddb82ab1:
+translate russian shiori_bruises_8f57750a:
     shiori.say "На самом деле... со мной... произошёл несчастный случай на второй работе."
 
 # ch/shiori/events.rpy:3249
@@ -11577,7 +11573,7 @@ translate russian shiori_bruises_851949da:
     "Рассказывая, Сиори смотрит в пол, будто от стыда не может встретиться со мной взглядом."
 
 # ch/shiori/events.rpy:3253
-translate russian shiori_bruises_727a9748:
+translate russian shiori_bruises_f1000c2a:
     shiori.say "Они... сказали, что я просрочила платежи."
 
 # ch/shiori/events.rpy:3254
@@ -11593,7 +11589,7 @@ translate russian shiori_bruises_346617b7:
     "По этой тяжёлой паузе я уже понимаю, что дальше ничего хорошего не услышу."
 
 # ch/shiori/events.rpy:3257
-translate russian shiori_bruises_45f1b8fb:
+translate russian shiori_bruises_30ad1603:
     shiori.say "Они сказали, что если я буду... спать... с мужчинами..."
 
 # ch/shiori/events.rpy:3258
@@ -11649,7 +11645,7 @@ translate russian shiori_bruises_24529cc4:
     "Но это неважно. Важно лишь то, что её так чудовищно избили."
 
 # ch/shiori/events.rpy:3272
-translate russian shiori_bruises_23e6fdf1:
+translate russian shiori_bruises_f858676b:
     mike.say "Надень... надень блузку, Сиори."
 
 # ch/shiori/events.rpy:3273
@@ -11705,7 +11701,7 @@ translate russian shiori_bruises_65b489da:
     "Когда она уходит и я остаюсь наедине с мыслями, я беспомощно качаю головой."
 
 # ch/shiori/events.rpy:3288
-translate russian shiori_bruises_d15a232b:
+translate russian shiori_bruises_97afa8a8:
     "Что, чёрт возьми, мне делать, чтобы невинные люди не пострадали... или хуже?"
 
 # ch/shiori/events.rpy:3293
@@ -11849,7 +11845,7 @@ translate russian shiori_work_no_show_3aaf09e5:
     "Но слова вырываются все разом."
 
 # ch/shiori/events.rpy:3343
-translate russian shiori_work_no_show_639e488f:
+translate russian shiori_work_no_show_0d35280c:
     mike.say "ЭЙ... привет... Сиори."
 
 # ch/shiori/events.rpy:3344
@@ -11857,15 +11853,15 @@ translate russian shiori_work_no_show_2a4b2f15:
     mike.say "Это [lssb_shiori.hero_name()]... [lssb_shiori.hero_name()] с работы."
 
 # ch/shiori/events.rpy:3345
-translate russian shiori_work_no_show_1b715772:
+translate russian shiori_work_no_show_51be8d4d:
     mike.say "Просто звоню узнать, в безопасности ли ты... то есть всё ли хорошо."
 
 # ch/shiori/events.rpy:3346
-translate russian shiori_work_no_show_1e15b78b:
+translate russian shiori_work_no_show_f54d4b5c:
     mike.say "Ах... сам не знаю, что хочу сказать!"
 
 # ch/shiori/events.rpy:3347
-translate russian shiori_work_no_show_9b97e599:
+translate russian shiori_work_no_show_3b318a45:
     mike.say "Просто... перезвони, когда услышишь, ладно?"
 
 # ch/shiori/events.rpy:3348
@@ -12045,7 +12041,7 @@ translate russian shiori_lapdance_2_6aea3d8c:
     "Почувствовав головку члена на попке, Сиори удивлённо оглядывается."
 
 # ch/shiori/events.rpy:3399
-translate russian shiori_lapdance_2_694c2840:
+translate russian shiori_lapdance_2_f7dd8dba:
     shiori.say "Чт... что это?!"
 
 # ch/shiori/events.rpy:3400
@@ -12057,7 +12053,7 @@ translate russian shiori_lapdance_2_ac34e762:
     "И тяну вниз, насаживая на себя."
 
 # ch/shiori/events.rpy:3403
-translate russian shiori_lapdance_2_110f6c23:
+translate russian shiori_lapdance_2_96bc8213:
     shiori.say "Я... ах... ох..."
 
 # ch/shiori/events.rpy:3404
@@ -12293,7 +12289,7 @@ translate russian shiori_blackmail_confession_101e2361:
     "Или просто ушёл, в буквальном смысле оставив её с младенцем на руках."
 
 # ch/shiori/events.rpy:3484
-translate russian shiori_blackmail_confession_ec1a46df:
+translate russian shiori_blackmail_confession_63c4f5f6:
     shiori.say "Отец Канты был очень... властным человеком."
 
 # ch/shiori/events.rpy:3485
@@ -12389,7 +12385,7 @@ translate russian shiori_blackmail_confession_0b8702d0:
     mike.say "Понимаю, Сиори."
 
 # ch/shiori/events.rpy:3512
-translate russian shiori_blackmail_confession_d065a301:
+translate russian shiori_blackmail_confession_a97f4bb3:
     mike.say "Это... тяжёлая ситуация!"
 
 # ch/shiori/events.rpy:3513
@@ -12877,11 +12873,11 @@ translate russian shiori_stripclub_confession_8507cc55:
     "Глаза красные и опухшие, будто она всю ночь плакала вместо сна."
 
 # ch/shiori/events.rpy:3652
-translate russian shiori_stripclub_confession_e7f14af5:
+translate russian shiori_stripclub_confession_9c0dc773:
     shiori.say "П... привет... [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:3653
-translate russian shiori_stripclub_confession_712cd4a0:
+translate russian shiori_stripclub_confession_5d535331:
     shiori.say "Я... хотела спросить, не мог бы ты..."
 
 # ch/shiori/events.rpy:3654
@@ -12941,7 +12937,7 @@ translate russian shiori_stripclub_confession_9c326b26:
     "Наконец Сиори пытается заговорить."
 
 # ch/shiori/events.rpy:3672
-translate russian shiori_stripclub_confession_a82588a3:
+translate russian shiori_stripclub_confession_079a888a:
     shiori.say "Я... думаю, мне нужно объяснить..."
 
 # ch/shiori/events.rpy:3673
@@ -12977,7 +12973,7 @@ translate russian shiori_stripclub_confession_78ae8a46:
     mike.say "Сейчас у многих есть вторая работа."
 
 # ch/shiori/events.rpy:3681
-translate russian shiori_stripclub_confession_5ffe6e1a:
+translate russian shiori_stripclub_confession_6d606abc:
     mike.say "Конечно, обычно это не... ну... не то, чем занимаешься ты."
 
 # ch/shiori/events.rpy:3682
@@ -13001,7 +12997,7 @@ translate russian shiori_stripclub_confession_a450c9a3:
     mike.say "Сиори, о чём ты?"
 
 # ch/shiori/events.rpy:3688
-translate russian shiori_stripclub_confession_141ffc6b:
+translate russian shiori_stripclub_confession_53d0253b:
     mike.say "Я... не понимаю!"
 
 # ch/shiori/events.rpy:3689
@@ -13033,7 +13029,7 @@ translate russian shiori_stripclub_confession_6817bb09:
     "Сиори кивает. Рыдания стихают, остаются всхлипы и шмыганье носом."
 
 # ch/shiori/events.rpy:3696
-translate russian shiori_stripclub_confession_521e6afe:
+translate russian shiori_stripclub_confession_7a7a5063:
     shiori.say "Я танцую в том... месте... не потому, что хочу."
 
 # ch/shiori/events.rpy:3697
@@ -13133,7 +13129,7 @@ translate russian shiori_stripclub_67f9b23b:
     "Подозрительный тип" "Ого, глянь, какие у этой сиськи!"
 
 # ch/shiori/events.rpy:3729
-translate russian shiori_stripclub_96259452:
+translate russian shiori_stripclub_fcc1d791:
     "Подозрительный тип" "Ага... в случае чего вместо спасательного круга сгодится!"
 
 # ch/shiori/events.rpy:3730
@@ -14141,7 +14137,7 @@ translate russian shiori_birthday_date_male_34c25052:
     shiori.say "Затекла!"
 
 # ch/shiori/events.rpy:4096
-translate russian shiori_birthday_date_male_9a9522b0:
+translate russian shiori_birthday_date_male_c40a71bb:
     shiori.say "Вся... будто иголками колет!"
 
 # ch/shiori/events.rpy:4097
@@ -14657,7 +14653,7 @@ translate russian shiori_birthday_date_male_38665bed:
     shiori.say "Спасибо, [lssb_shiori.hero_name()]."
 
 # ch/shiori/events.rpy:4270
-translate russian shiori_birthday_date_male_2920f8d5:
+translate russian shiori_birthday_date_male_445f4af9:
     shiori.say "Это... очень мило."
 
 # ch/shiori/events.rpy:4271
@@ -15457,7 +15453,7 @@ translate russian shiori_fuck_beach_55e175a5:
     shiori.say "Эй, [lssb_shiori.hero_name()], ты в порядке?"
 
 # ch/shiori/fuck.rpy:71
-translate russian shiori_fuck_beach_2ac87cd9:
+translate russian shiori_fuck_beach_4d72f7f9:
     mike.say "А, да... конечно."
 
 # ch/shiori/fuck.rpy:72
@@ -15525,7 +15521,7 @@ translate russian shiori_fuck_beach_cbe5b1a2:
     shiori.say "Жаль только, что там я не могу как следует снять твой стресс."
 
 # ch/shiori/fuck.rpy:90
-translate russian shiori_fuck_beach_3f2d283a:
+translate russian shiori_fuck_beach_d91044dd:
     shiori.say "Но здесь... здесь совсем другое дело..."
 
 # ch/shiori/fuck.rpy:91
@@ -15561,7 +15557,7 @@ translate russian shiori_fuck_beach_303ce573:
     "Я опускаю взгляд и вижу, что она смотрит на растущий бугор под моими шортами."
 
 # ch/shiori/fuck.rpy:99
-translate russian shiori_fuck_beach_e202e8ea:
+translate russian shiori_fuck_beach_fdab87f1:
     mike.say "Я... эм..."
 
 # ch/shiori/fuck.rpy:101
@@ -15837,15 +15833,15 @@ translate russian shiori_hottub_sex_male_abc55d2b:
     mike.say "Залезай, вода отличная!"
 
 # ch/shiori/fuck.rpy:191
-translate russian shiori_hottub_sex_male_c1aa103f:
+translate russian shiori_hottub_sex_male_14dd3984:
     shiori.say "Я... готова, господин."
 
 # ch/shiori/fuck.rpy:193
-translate russian shiori_hottub_sex_male_db3385b3:
+translate russian shiori_hottub_sex_male_ecb81546:
     shiori.say "Я... готова, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:195
-translate russian shiori_hottub_sex_male_db3385b3_1:
+translate russian shiori_hottub_sex_male_ecb81546_1:
     shiori.say "Я... готова, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:196
@@ -15901,15 +15897,15 @@ translate russian shiori_hottub_sex_male_66357dd1:
     "Скажем так: сейчас я чувствую себя не прохладнее воды в джакузи!"
 
 # ch/shiori/fuck.rpy:215
-translate russian shiori_hottub_sex_male_546b9827:
+translate russian shiori_hottub_sex_male_c24294e6:
     shiori.say "Ты... в порядке, господин?"
 
 # ch/shiori/fuck.rpy:217
-translate russian shiori_hottub_sex_male_1772415d:
+translate russian shiori_hottub_sex_male_525830fc:
     shiori.say "Ты... в порядке, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/fuck.rpy:219
-translate russian shiori_hottub_sex_male_d918da61:
+translate russian shiori_hottub_sex_male_f10a20fc:
     shiori.say "Ты... в порядке, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/fuck.rpy:220
@@ -15949,7 +15945,7 @@ translate russian shiori_hottub_sex_male_3eaaad3a:
     mike.say "Нет, Сиори, конечно нет!"
 
 # ch/shiori/fuck.rpy:229
-translate russian shiori_hottub_sex_male_d4d087cb:
+translate russian shiori_hottub_sex_male_94650438:
     mike.say "Я... просто не могу отвести от тебя глаз."
 
 # ch/shiori/fuck.rpy:230
@@ -16001,19 +15997,19 @@ translate russian shiori_hottub_sex_male_47a48ca2:
     "Она всё ещё смущена, но всё же придвигается ко мне по воде."
 
 # ch/shiori/fuck.rpy:246
-translate russian shiori_hottub_sex_male_81d30afe:
+translate russian shiori_hottub_sex_male_5dac6843:
     shiori.say "Я... могла бы стать твоим тюленёнком, господин."
 
 # ch/shiori/fuck.rpy:248
-translate russian shiori_hottub_sex_male_aa8711d2:
+translate russian shiori_hottub_sex_male_153d9721:
     shiori.say "Я... могла бы стать твоим тюленёнком, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:250
-translate russian shiori_hottub_sex_male_aa8711d2_1:
+translate russian shiori_hottub_sex_male_153d9721_1:
     shiori.say "Я... могла бы стать твоим тюленёнком, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:251
-translate russian shiori_hottub_sex_male_4c6bbfd2:
+translate russian shiori_hottub_sex_male_d0aefc55:
     shiori.say "Т... ты мог бы научить меня всяким трюкам."
 
 # ch/shiori/fuck.rpy:252
@@ -16245,7 +16241,7 @@ translate russian shiori_fuck_date_male_9c3bff4f:
     "Сиори смотрит на мой всё ещё твёрдый член с притворным ужасом."
 
 # ch/shiori/fuck.rpy:354
-translate russian shiori_fuck_date_male_c40042b9:
+translate russian shiori_fuck_date_male_9b0aad4c:
     shiori.say "Ты ведь... ты ведь... не вставишь его в меня... правда?"
 
 # ch/shiori/fuck.rpy:355
@@ -16257,7 +16253,7 @@ translate russian shiori_fuck_date_male_4c1d8329:
     "Понимая её замысел и сам не возражая против небольшой ролевой игры, я так же медленно наступаю."
 
 # ch/shiori/fuck.rpy:357
-translate russian shiori_fuck_date_male_60d5598b:
+translate russian shiori_fuck_date_male_19298ec0:
     shiori.say "Ох, пожалуйста... пожалуйста, не надо!"
 
 # ch/shiori/fuck.rpy:358
@@ -16265,7 +16261,7 @@ translate russian shiori_fuck_date_male_0ad9d5a7:
     "Она уже почти у кровати."
 
 # ch/shiori/fuck.rpy:359
-translate russian shiori_fuck_date_male_ede9ff5a:
+translate russian shiori_fuck_date_male_5e707d01:
     shiori.say "Он такой большой... не поместится!"
 
 # ch/shiori/fuck.rpy:361
@@ -16273,7 +16269,7 @@ translate russian shiori_fuck_date_male_1ea87c6c:
     "Сиори натыкается на кровать и разыгрывает падение, затем забирается на неё."
 
 # ch/shiori/fuck.rpy:362
-translate russian shiori_fuck_date_male_090a32e1:
+translate russian shiori_fuck_date_male_be76dc65:
     shiori.say "Пожалуйста... пожалуйста... я буду хорошей! Только не вставляй его в меня!"
 
 # ch/shiori/fuck.rpy:363
@@ -16285,7 +16281,7 @@ translate russian shiori_fuck_date_male_29602e27:
     "Сиори натыкается на кровать: округлившийся живот делает её движения неловкими, и она падает на матрас."
 
 # ch/shiori/fuck.rpy:366
-translate russian shiori_fuck_date_male_090a32e1_1:
+translate russian shiori_fuck_date_male_be76dc65_1:
     shiori.say "Пожалуйста... пожалуйста... я буду хорошей! Только не вставляй его в меня!"
 
 # ch/shiori/fuck.rpy:367
@@ -16405,7 +16401,7 @@ translate russian shiori_fuck_date_intro_male_88457b19:
     "Сиори довольно хихикает в ответ на мой молчаливый ответ."
 
 # ch/shiori/fuck.rpy:415
-translate russian shiori_fuck_date_intro_male_200b5421:
+translate russian shiori_fuck_date_intro_male_49401aea:
     shiori.say "Можешь потрогать... если хочешь!"
 
 # ch/shiori/fuck.rpy:417
@@ -16433,7 +16429,7 @@ translate russian shiori_fuck_date_intro_male_8d3f3395:
     "Я тяну за колечки в сосках: сначала осторожно, затем всё сильнее, пока она вскрикивает от сладкой боли."
 
 # ch/shiori/fuck.rpy:424
-translate russian shiori_fuck_date_intro_male_1e73dd45:
+translate russian shiori_fuck_date_intro_male_6319f4b6:
     shiori.say "Ох, чёрт... я опять это сделала!"
 
 # ch/shiori/fuck.rpy:425
@@ -16477,7 +16473,7 @@ translate russian shiori_fuck_date_intro_male_06974619:
     "Сиори прижимается ко мне и гладит бугор в брюках, явно желая большего, чем грубые ласки."
 
 # ch/shiori/fuck.rpy:435
-translate russian shiori_fuck_date_intro_male_dc0fb204:
+translate russian shiori_fuck_date_intro_male_e5c0b08f:
     shiori.say "Может, я раздену тебя... а потом ты накажешь меня ещё?"
 
 # ch/shiori/fuck.rpy:436
@@ -16501,7 +16497,7 @@ translate russian shiori_fuck_date_intro_male_9977a2a7:
     "Полностью раздев меня, она с изумлением смотрит на мой член."
 
 # ch/shiori/fuck.rpy:442
-translate russian shiori_fuck_date_intro_male_8c3d75ec:
+translate russian shiori_fuck_date_intro_male_355000e7:
     shiori.say "М-м-м... интересно, каково будет почувствовать его во рту."
 
 # ch/shiori/fuck.rpy:443
@@ -16589,7 +16585,7 @@ translate russian shiori_fuck_date_intro_male_aa099ba7:
     "Но я вижу: она скорее заинтригована, чем возмущена."
 
 # ch/shiori/fuck.rpy:468
-translate russian shiori_fuck_date_intro_male_47d3aeb0:
+translate russian shiori_fuck_date_intro_male_2f595048:
     shiori.say "Я... наверное, могла бы..."
 
 # ch/shiori/fuck.rpy:469
@@ -16741,11 +16737,11 @@ translate russian shiori_fuck_date_intro_male_c102a48f:
     shiori.say "Ох..."
 
 # ch/shiori/fuck.rpy:516
-translate russian shiori_fuck_date_intro_male_ac1803bf:
+translate russian shiori_fuck_date_intro_male_25e16bdc:
     shiori.say "Я... Я думала, тебе, может быть, захочется..."
 
 # ch/shiori/fuck.rpy:517
-translate russian shiori_fuck_date_intro_male_0f68f515:
+translate russian shiori_fuck_date_intro_male_7c963caa:
     shiori.say "Ну... заняться чем-нибудь таким..."
 
 # ch/shiori/fuck.rpy:518
@@ -16753,7 +16749,7 @@ translate russian shiori_fuck_date_intro_male_f1ba20c0:
     shiori.say "Но боялась надеяться, что ты предложишь."
 
 # ch/shiori/fuck.rpy:519
-translate russian shiori_fuck_date_intro_male_2501f75d:
+translate russian shiori_fuck_date_intro_male_0b4615e5:
     shiori.say "На случай... если не предложишь... понимаешь?"
 
 # ch/shiori/fuck.rpy:520
@@ -17089,7 +17085,7 @@ translate russian shiori_fuck_date_doggy_9c6f7796:
     shiori.say "А-а-а!"
 
 # ch/shiori/fuck.rpy:705
-translate russian shiori_fuck_date_doggy_05e4fa93:
+translate russian shiori_fuck_date_doggy_1c0f14fc:
     shiori.say "Ох... ай!"
 
 # ch/shiori/fuck.rpy:706
@@ -17113,7 +17109,7 @@ translate russian shiori_fuck_date_doggy_df9dfa0a:
     shiori.say "Какая же я глупая неуклюжа!"
 
 # ch/shiori/fuck.rpy:712
-translate russian shiori_fuck_date_doggy_9dac78a1:
+translate russian shiori_fuck_date_doggy_345771b7:
     shiori.say "Пожалуйста... не смотри на меня!"
 
 # ch/shiori/fuck.rpy:715
@@ -17265,7 +17261,7 @@ translate russian shiori_fuck_date_doggy_e932b5ba:
     "Её вскрик превращается в настоящий крик, когда я преодолеваю первое сопротивление мышц."
 
 # ch/shiori/fuck.rpy:766
-translate russian shiori_fuck_date_doggy_b3fbb67d:
+translate russian shiori_fuck_date_doggy_2ff76630:
     shiori.say "Ох... о боже!"
 
 # ch/shiori/fuck.rpy:767
@@ -17401,7 +17397,7 @@ translate russian shiori_fuck_date_doggy_f86a3464_1:
     shiori.say "Ох, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/fuck.rpy:821
-translate russian shiori_fuck_date_doggy_005c7162:
+translate russian shiori_fuck_date_doggy_d3f2f910:
     shiori.say "Можешь... вставить его... если хочешь!"
 
 # ch/shiori/fuck.rpy:822
@@ -17513,11 +17509,11 @@ translate russian shiori_fuck_date_doggy_cfe65ee8:
     "Я собираюсь выйти, но чувствую, как Сиори тянется назад и хватает меня за запястье."
 
 # ch/shiori/fuck.rpy:868
-translate russian shiori_fuck_date_doggy_0f150e45:
+translate russian shiori_fuck_date_doggy_04e5ffe9:
     shiori.say "Всё хорошо... Я... Я пью таблетки!"
 
 # ch/shiori/fuck.rpy:869
-translate russian shiori_fuck_date_doggy_a4dc9935:
+translate russian shiori_fuck_date_doggy_04577ccc:
     shiori.say "Пожалуйста... продолжай!"
 
 # ch/shiori/fuck.rpy:872
@@ -17585,7 +17581,7 @@ translate russian shiori_fuck_date_doggy_6a2216ff:
     "Сиори опускается на кровать и всхлипывает, осознав, что мы натворили..."
 
 # ch/shiori/fuck.rpy:899
-translate russian shiori_fuck_date_doggy_64714db0:
+translate russian shiori_fuck_date_doggy_037dfd60:
     shiori.say "Мне нельзя беременеть... нельзя!"
 
 # ch/shiori/fuck.rpy:901
@@ -17597,7 +17593,7 @@ translate russian shiori_fuck_date_doggy_7696dfb8:
     "Но стоит мне попытаться выйти, пока не поздно, как Сиори тянется назад и хватает меня за запястье."
 
 # ch/shiori/fuck.rpy:903
-translate russian shiori_fuck_date_doggy_a9c82809:
+translate russian shiori_fuck_date_doggy_b2ef2d28:
     shiori.say "Не надо... пожалуйста!"
 
 # ch/shiori/fuck.rpy:904
@@ -17609,11 +17605,11 @@ translate russian shiori_fuck_date_doggy_e986b1b9:
     "Большинство девушек меньше всего хотят, чтобы в них кончали без защиты!"
 
 # ch/shiori/fuck.rpy:906
-translate russian shiori_fuck_date_doggy_8f8affdf:
+translate russian shiori_fuck_date_doggy_b23f1621:
     shiori.say "Мне всё равно... если я забеременею, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:907
-translate russian shiori_fuck_date_doggy_ea10b2ec:
+translate russian shiori_fuck_date_doggy_9471791b:
     shiori.say "Я... люблю тебя..."
 
 # ch/shiori/fuck.rpy:908
@@ -17785,7 +17781,7 @@ translate russian shiori_fuck_date_reverse_cowgirl_60b5fee2:
     "Чувствуя, как он захватывает меня, я вхожу в неё так глубоко, как только могу."
 
 # ch/shiori/fuck.rpy:989
-translate russian shiori_fuck_date_reverse_cowgirl_b669b9bf:
+translate russian shiori_fuck_date_reverse_cowgirl_7d428159:
     shiori.say "Ах... [lssb_shiori.hero_name()]... Ты сейчас... заставишь меня..."
 
 # ch/shiori/fuck.rpy:991
@@ -17817,7 +17813,7 @@ translate russian shiori_fuck_date_reverse_cowgirl_84dff210:
     shiori.say "Ох, [lssb_shiori.hero_name()]... Я чувствую тебя так глубоко!"
 
 # ch/shiori/fuck.rpy:1002
-translate russian shiori_fuck_date_reverse_cowgirl_e6f927d4:
+translate russian shiori_fuck_date_reverse_cowgirl_39eda5d1:
     shiori.say "Накажи меня ещё — кончи в меня... пожалуйста!"
 
 # ch/shiori/fuck.rpy:1004
@@ -17861,7 +17857,7 @@ translate russian shiori_fuck_date_reverse_cowgirl_bbb68b0a:
     "Она громко сглатывает, явно представляя, что я собираюсь с ней сделать."
 
 # ch/shiori/fuck.rpy:1025
-translate russian shiori_fuck_date_reverse_cowgirl_f658efa8:
+translate russian shiori_fuck_date_reverse_cowgirl_0527a022:
     shiori.say "Меня... Меня ещё никогда не брали в попку!"
 
 # ch/shiori/fuck.rpy:1026
@@ -17905,7 +17901,7 @@ translate russian shiori_fuck_date_reverse_cowgirl_8192840f:
     "Между отчаянными вздохами Сиори наконец удаётся заговорить."
 
 # ch/shiori/fuck.rpy:1038
-translate russian shiori_fuck_date_reverse_cowgirl_a5891673:
+translate russian shiori_fuck_date_reverse_cowgirl_a712f225:
     shiori.say "Ох, [lssb_shiori.hero_name()]... Ты... ты так глубоко во мне!"
 
 # ch/shiori/fuck.rpy:1039
@@ -17929,7 +17925,7 @@ translate russian shiori_fuck_date_reverse_cowgirl_cd986479:
     "Словно чувствуя, что сейчас произойдёт, Сиори издаёт отчаянный вопль."
 
 # ch/shiori/fuck.rpy:1044
-translate russian shiori_fuck_date_reverse_cowgirl_6482858d:
+translate russian shiori_fuck_date_reverse_cowgirl_0740835a:
     shiori.say "Ах... ах... Ты сейчас кончишь... мне в попку!"
 
 # ch/shiori/fuck.rpy:1046
@@ -17989,11 +17985,11 @@ translate russian shiori_fuck_date_reverse_cowgirl_acb64b90:
     "Когда я наконец кончаю, Сиори кричит так, словно всё прежде было лишь игрой, а теперь её желание быть униженной перешло невидимую черту."
 
 # ch/shiori/fuck.rpy:1079
-translate russian shiori_fuck_date_reverse_cowgirl_93122653:
+translate russian shiori_fuck_date_reverse_cowgirl_c027aa9e:
     shiori.say "Ох, [lssb_shiori.hero_name()]... Ты... ты кончил в меня... в мою попку..."
 
 # ch/shiori/fuck.rpy:1080
-translate russian shiori_fuck_date_reverse_cowgirl_762d7087:
+translate russian shiori_fuck_date_reverse_cowgirl_279fc5c2:
     shiori.say "Я чувствую себя такой грязной... такой грязной, что уже никогда не отмоюсь!"
 
 # ch/shiori/fuck.rpy:1081
@@ -18029,7 +18025,7 @@ translate russian shiori_fuck_date_missionary_1ba91fb8:
     shiori.say "О-ох, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/fuck.rpy:1097
-translate russian shiori_fuck_date_missionary_2d2dc94c:
+translate russian shiori_fuck_date_missionary_20d0a8aa:
     shiori.say "Я... Кажется, ты промахнулся!"
 
 # ch/shiori/fuck.rpy:1098
@@ -18081,7 +18077,7 @@ translate russian shiori_fuck_date_missionary_304c2143:
     shiori.say "[lssb_shiori.hero_name()]..."
 
 # ch/shiori/fuck.rpy:1110
-translate russian shiori_fuck_date_missionary_20b82911:
+translate russian shiori_fuck_date_missionary_3d764ee8:
     shiori.say "Мне... мне больно!"
 
 # ch/shiori/fuck.rpy:1111
@@ -18101,7 +18097,7 @@ translate russian shiori_fuck_date_missionary_9bfb1eb1:
     "И я наконец могу погрузиться в неё целиком."
 
 # ch/shiori/fuck.rpy:1116
-translate russian shiori_fuck_date_missionary_2759cbca:
+translate russian shiori_fuck_date_missionary_d2921341:
     shiori.say "Ох... о чёрт!"
 
 # ch/shiori/fuck.rpy:1117
@@ -18401,7 +18397,7 @@ translate russian shiori_fuck_date_missionary_4c4acc48:
     shiori.say "Кончи в меня..."
 
 # ch/shiori/fuck.rpy:1234
-translate russian shiori_fuck_date_missionary_96b50e34:
+translate russian shiori_fuck_date_missionary_9eec17f6:
     shiori.say "Я... пью... таблетки!"
 
 # ch/shiori/fuck.rpy:1237
@@ -18449,7 +18445,7 @@ translate russian shiori_fuck_date_missionary_2d2382e5:
     "А затем мы падаем на кровать, тяжело дыша и совершенно выбившись из сил."
 
 # ch/shiori/fuck.rpy:1256
-translate russian shiori_fuck_date_missionary_49837786:
+translate russian shiori_fuck_date_missionary_4a6b7849:
     shiori.say "Ох... ох... [lssb_shiori.hero_name()]!"
 
 # ch/shiori/fuck.rpy:1257
@@ -18581,7 +18577,7 @@ translate russian shiori_fuck_date_missionary_f86a3464_1:
     shiori.say "Ох, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/fuck.rpy:1305
-translate russian shiori_fuck_date_missionary_36107eb0:
+translate russian shiori_fuck_date_missionary_94f395d2:
     shiori.say "Я... Я ТАК долго этого ждала!"
 
 # ch/shiori/fuck.rpy:1306
@@ -18657,7 +18653,7 @@ translate russian shiori_fuck_date_missionary_4cdd7edb:
     shiori.say "И ты ТАКОЙ большой!"
 
 # ch/shiori/fuck.rpy:1326
-translate russian shiori_fuck_date_missionary_18ccc0a0:
+translate russian shiori_fuck_date_missionary_4b2aacfc:
     shiori.say "Никто... никто ещё не заполнял меня так!"
 
 # ch/shiori/fuck.rpy:1327
@@ -18885,7 +18881,7 @@ translate russian shiori_fuck_date_missionary_f86a3464_2:
     shiori.say "Ох, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/fuck.rpy:1414
-translate russian shiori_fuck_date_missionary_36107eb0_1:
+translate russian shiori_fuck_date_missionary_94f395d2_1:
     shiori.say "Я... Я ТАК долго этого ждала!"
 
 # ch/shiori/fuck.rpy:1415
@@ -18941,7 +18937,7 @@ translate russian shiori_fuck_date_missionary_ad3417a6:
     shiori.say "Ты ТАКОЙ большой!"
 
 # ch/shiori/fuck.rpy:1429
-translate russian shiori_fuck_date_missionary_18ccc0a0_1:
+translate russian shiori_fuck_date_missionary_4b2aacfc_1:
     shiori.say "Никто... никто ещё не заполнял меня так!"
 
 # ch/shiori/fuck.rpy:1430
@@ -19133,7 +19129,7 @@ translate russian shiori_fuck_date_missionary_34cffe03:
     mike.say "Правда?"
 
 # ch/shiori/fuck.rpy:1503
-translate russian shiori_fuck_date_missionary_30cb55a3:
+translate russian shiori_fuck_date_missionary_d3d3e8f1:
     shiori.say "Д... да!"
 
 # ch/shiori/fuck.rpy:1504
@@ -19841,11 +19837,11 @@ translate russian shiori_fuck_office_BJ_1d77c1ae:
     shiori.say "Ох, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/fuck.rpy:1808
-translate russian shiori_fuck_office_BJ_70b576d7:
+translate russian shiori_fuck_office_BJ_284f2b19:
     shiori.say "Ты... ты имеешь в виду то, о чём я подумала?"
 
 # ch/shiori/fuck.rpy:1809
-translate russian shiori_fuck_office_BJ_0602af3d:
+translate russian shiori_fuck_office_BJ_b559a422:
     shiori.say "Хочешь, чтобы я потрогала тебя... там?!"
 
 # ch/shiori/fuck.rpy:1810
@@ -19873,7 +19869,7 @@ translate russian shiori_fuck_office_BJ_cb3b484c:
     "Потом закусывает губу и смотрит мне в глаза."
 
 # ch/shiori/fuck.rpy:1816
-translate russian shiori_fuck_office_BJ_e150edda:
+translate russian shiori_fuck_office_BJ_b4ad29cd:
     shiori.say "Т... Ты обещаешь, что никто никогда не узнает?"
 
 # ch/shiori/fuck.rpy:1817
@@ -19933,7 +19929,7 @@ translate russian shiori_fuck_office_BJ_c102a48f:
     shiori.say "Ох..."
 
 # ch/shiori/fuck.rpy:1835
-translate russian shiori_fuck_office_BJ_da076828:
+translate russian shiori_fuck_office_BJ_1f39b39e:
     shiori.say "Я... Я нашла его, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/fuck.rpy:1836
@@ -19961,7 +19957,7 @@ translate russian shiori_fuck_office_BJ_89ea4a95:
     mike.say "Ты ведь знаешь, что делать?"
 
 # ch/shiori/fuck.rpy:1843
-translate russian shiori_fuck_office_BJ_21c693b3:
+translate russian shiori_fuck_office_BJ_fdd409a1:
     shiori.say "Д... да, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:1844
@@ -19981,11 +19977,11 @@ translate russian shiori_fuck_office_BJ_e9ae1783:
     mike.say "Давай, так и сделай."
 
 # ch/shiori/fuck.rpy:1848
-translate russian shiori_fuck_office_BJ_74f3ab58:
+translate russian shiori_fuck_office_BJ_c5cd1ee4:
     shiori.say "Ох... Он уже такой большой и твёрдый!"
 
 # ch/shiori/fuck.rpy:1849
-translate russian shiori_fuck_office_BJ_14f35f42:
+translate russian shiori_fuck_office_BJ_82990360:
     shiori.say "Я... Я сейчас возьму его в рот, ладно?"
 
 # ch/shiori/fuck.rpy:1850
@@ -20089,11 +20085,11 @@ translate russian shiori_fuck_office_BJ_8d4b2e94:
     "Скорее всего, принимает его за удивление от внезапного вторжения."
 
 # ch/shiori/fuck.rpy:1890
-translate russian shiori_fuck_office_BJ_a4667517:
+translate russian shiori_fuck_office_BJ_e3d0a6db:
     mike.say "Ах... э-э..."
 
 # ch/shiori/fuck.rpy:1891
-translate russian shiori_fuck_office_BJ_664e4f26:
+translate russian shiori_fuck_office_BJ_b00f5332:
     mike.say "Алетта... я... я..."
 
 # ch/shiori/fuck.rpy:1893
@@ -20105,7 +20101,7 @@ translate russian shiori_fuck_office_BJ_9afcc903:
     aletta.say "Говоришь так, будто обкурился!"
 
 # ch/shiori/fuck.rpy:1895
-translate russian shiori_fuck_office_BJ_f4739002:
+translate russian shiori_fuck_office_BJ_9f41707d:
     mike.say "Н... нет, Алетта..."
 
 # ch/shiori/fuck.rpy:1896
@@ -20133,11 +20129,11 @@ translate russian shiori_fuck_office_BJ_36c7893f:
     "Увидев шанс спастись, я киваю."
 
 # ch/shiori/fuck.rpy:1905
-translate russian shiori_fuck_office_BJ_d16c4d14:
+translate russian shiori_fuck_office_BJ_1cbdd7ca:
     mike.say "Д... да, Алетта..."
 
 # ch/shiori/fuck.rpy:1906
-translate russian shiori_fuck_office_BJ_13bb666e:
+translate russian shiori_fuck_office_BJ_1f30506b:
     mike.say "Точно... мигрень!"
 
 # ch/shiori/fuck.rpy:1908
@@ -20205,11 +20201,11 @@ translate russian shiori_fuck_office_BJ_ae5e0ba6:
     "А про Одри совсем забыла."
 
 # ch/shiori/fuck.rpy:1929
-translate russian shiori_fuck_office_BJ_6a796425:
+translate russian shiori_fuck_office_BJ_4a6c0a1f:
     mike.say "Н... нет, Игрушка..."
 
 # ch/shiori/fuck.rpy:1931
-translate russian shiori_fuck_office_BJ_3812e3a9:
+translate russian shiori_fuck_office_BJ_658a6494:
     mike.say "Н... нет, Одри..."
 
 # ch/shiori/fuck.rpy:1932
@@ -20233,7 +20229,7 @@ translate russian shiori_fuck_office_BJ_d92a72bd:
     audrey.say "Погоди-ка..."
 
 # ch/shiori/fuck.rpy:1939
-translate russian shiori_fuck_office_BJ_b307bba1:
+translate russian shiori_fuck_office_BJ_2f69978e:
     audrey.say "Ты... ты её прикрываешь?!"
 
 # ch/shiori/fuck.rpy:1941
@@ -20333,7 +20329,7 @@ translate russian shiori_fuck_office_BJ_810390de:
     "Я киваю и улыбаюсь, стараясь ухватиться за шанс, который дал мне Дуэйн."
 
 # ch/shiori/fuck.rpy:1975
-translate russian shiori_fuck_office_BJ_cf523166:
+translate russian shiori_fuck_office_BJ_80041dde:
     mike.say "Д... да, Дуэйн..."
 
 # ch/shiori/fuck.rpy:1976
@@ -20341,7 +20337,7 @@ translate russian shiori_fuck_office_BJ_74ab4901:
     mike.say "Именно..."
 
 # ch/shiori/fuck.rpy:1977
-translate russian shiori_fuck_office_BJ_e36f2976:
+translate russian shiori_fuck_office_BJ_c5f9f5ce:
     mike.say "Ты же меня знаешь... я тот ещё тусовщик!"
 
 # ch/shiori/fuck.rpy:1979
@@ -20365,11 +20361,11 @@ translate russian shiori_fuck_office_BJ_37af679b:
     "Дуэйн басовито хохочет, а его улыбка становится хищной."
 
 # ch/shiori/fuck.rpy:1985
-translate russian shiori_fuck_office_BJ_c48ed887:
+translate russian shiori_fuck_office_BJ_4a629967:
     mike.say "Я... я это учту, Дуэйн!"
 
 # ch/shiori/fuck.rpy:1986
-translate russian shiori_fuck_office_BJ_8c9af36e:
+translate russian shiori_fuck_office_BJ_7e24913e:
     mike.say "Т... Тебе что-то нужно?"
 
 # ch/shiori/fuck.rpy:1988
@@ -20445,7 +20441,7 @@ translate russian shiori_fuck_office_BJ_c4efe9c6:
     "А про бедную Лавиш совсем забыла."
 
 # ch/shiori/fuck.rpy:2012
-translate russian shiori_fuck_office_BJ_f78fd05e:
+translate russian shiori_fuck_office_BJ_c7e04b2f:
     mike.say "Я... Я её не видел..."
 
 # ch/shiori/fuck.rpy:2013
@@ -20453,7 +20449,7 @@ translate russian shiori_fuck_office_BJ_0cda54aa:
     mike.say "Уже какое-то время, Лавиш..."
 
 # ch/shiori/fuck.rpy:2014
-translate russian shiori_fuck_office_BJ_657e1c15:
+translate russian shiori_fuck_office_BJ_2db1b302:
     mike.say "Но... скажу ей... когда... увижу!"
 
 # ch/shiori/fuck.rpy:2016
@@ -20677,7 +20673,7 @@ translate russian shiori_fuck_office_missionary_244d37dc:
     "Затем снова смотрит на меня, с каждой секундой всё шире раскрывая глаза."
 
 # ch/shiori/fuck.rpy:2111
-translate russian shiori_fuck_office_missionary_b4613a11:
+translate russian shiori_fuck_office_missionary_7e2c91b7:
     shiori.say "Ты... ты не хочешь ничего продиктовать?"
 
 # ch/shiori/fuck.rpy:2112
@@ -20701,7 +20697,7 @@ translate russian shiori_fuck_office_missionary_636596fd:
     "Её щёки краснеют, а рот удивлённо приоткрывается."
 
 # ch/shiori/fuck.rpy:2118
-translate russian shiori_fuck_office_missionary_f4b48df6:
+translate russian shiori_fuck_office_missionary_b9b488d7:
     shiori.say "Ты... ты хочешь сказать..."
 
 # ch/shiori/fuck.rpy:2119
@@ -20725,7 +20721,7 @@ translate russian shiori_fuck_office_missionary_4bc05f79:
     "Но затем она кивает и опускает глаза, показывая свою покорность."
 
 # ch/shiori/fuck.rpy:2125
-translate russian shiori_fuck_office_missionary_f7a38979:
+translate russian shiori_fuck_office_missionary_1b300243:
     shiori.say "Если... если ты этого хочешь, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:2126
@@ -20773,7 +20769,7 @@ translate russian shiori_fuck_office_missionary_0ae032a7:
     "Она пятится на диван, словно отступая перед ним."
 
 # ch/shiori/fuck.rpy:2141
-translate russian shiori_fuck_office_missionary_9df05438:
+translate russian shiori_fuck_office_missionary_1e93104a:
     shiori.say "Я... Я готова, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:2142
@@ -20833,11 +20829,11 @@ translate russian shiori_fuck_office_missionary_6fa622ee:
     "Одним уверенным толчком я начинаю входить в её задницу."
 
 # ch/shiori/fuck.rpy:2160
-translate russian shiori_fuck_office_missionary_f8d92710:
+translate russian shiori_fuck_office_missionary_1da1f9a0:
     shiori.say "Ох... о боже..."
 
 # ch/shiori/fuck.rpy:2161
-translate russian shiori_fuck_office_missionary_ffde1c3e:
+translate russian shiori_fuck_office_missionary_44044d29:
     shiori.say "Моя попка... это же моя попка!"
 
 # ch/shiori/fuck.rpy:2162
@@ -20857,7 +20853,7 @@ translate russian shiori_fuck_office_missionary_152d2ea6:
     "Я слушаю, как с каждой секундой в них слышится всё больше удовольствия."
 
 # ch/shiori/fuck.rpy:2166
-translate russian shiori_fuck_office_missionary_a1d3d3da:
+translate russian shiori_fuck_office_missionary_0f9bb9df:
     shiori.say "Ох... да..."
 
 # ch/shiori/fuck.rpy:2168
@@ -21125,15 +21121,15 @@ translate russian shiori_fuck_office_missionary_fef18895_1:
     shiori.say "Пожалуйста, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/fuck.rpy:2266
-translate russian shiori_fuck_office_missionary_81eaaf02:
+translate russian shiori_fuck_office_missionary_e81fc01c:
     shiori.say "Не останавливайся... трахай меня..."
 
 # ch/shiori/fuck.rpy:2267
-translate russian shiori_fuck_office_missionary_432e3fdc:
+translate russian shiori_fuck_office_missionary_e3c54a72:
     shiori.say "Трахай меня сильнее... сильнее, пожалуйста..."
 
 # ch/shiori/fuck.rpy:2268
-translate russian shiori_fuck_office_missionary_a7a7598e:
+translate russian shiori_fuck_office_missionary_b402012a:
     shiori.say "Обожаю твой член... во мне... обожаю!"
 
 # ch/shiori/fuck.rpy:2270
@@ -21325,7 +21321,7 @@ translate russian shiori_fuck_office_missionary_c6847bad:
     shiori.say "Я хочу родить тебе детей!"
 
 # ch/shiori/fuck.rpy:2348
-translate russian shiori_fuck_office_missionary_5e3c1ad5:
+translate russian shiori_fuck_office_missionary_a0045dcc:
     shiori.say "Наполни меня... ПОЖАЛУЙСТА!"
 
 # ch/shiori/fuck.rpy:2349
@@ -21361,7 +21357,7 @@ translate russian shiori_fuck_office_missionary_b06b365b:
     shiori.say "Тебе нельзя кончать в меня!"
 
 # ch/shiori/fuck.rpy:2363
-translate russian shiori_fuck_office_missionary_bf463396:
+translate russian shiori_fuck_office_missionary_83c5acb3:
     shiori.say "Вытащи... ПОЖАЛУЙСТА!"
 
 # ch/shiori/fuck.rpy:2364
@@ -21425,7 +21421,7 @@ translate russian shiori_fuck_office_reverse_a4ab1d9d:
     "Лицо Сиори светлеет от одного упоминания, что она мне нужна."
 
 # ch/shiori/fuck.rpy:2394
-translate russian shiori_fuck_office_reverse_7634451c:
+translate russian shiori_fuck_office_reverse_01667034:
     shiori.say "Ох... конечно, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:2395
@@ -21465,11 +21461,11 @@ translate russian shiori_fuck_office_reverse_5d37a01d:
     shiori.say "То есть ты хочешь..."
 
 # ch/shiori/fuck.rpy:2405
-translate russian shiori_fuck_office_reverse_2dceaa4f:
+translate russian shiori_fuck_office_reverse_b8054734:
     shiori.say "На столе... со мной?"
 
 # ch/shiori/fuck.rpy:2406
-translate russian shiori_fuck_office_reverse_314e2592:
+translate russian shiori_fuck_office_reverse_a496a5fe:
     mike.say "Ну... ты ведь сказала, что готова для меня на всё, Сиори."
 
 # ch/shiori/fuck.rpy:2407
@@ -21485,7 +21481,7 @@ translate russian shiori_fuck_office_reverse_e1044126:
     "Она закусывает губу, понимая, что отступать некуда."
 
 # ch/shiori/fuck.rpy:2411
-translate russian shiori_fuck_office_reverse_de576071:
+translate russian shiori_fuck_office_reverse_2b245d45:
     shiori.say "Я... Я это сказала, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:2413
@@ -21537,7 +21533,7 @@ translate russian shiori_fuck_office_reverse_51ff4524:
     mike.say "Почему, Сиори?"
 
 # ch/shiori/fuck.rpy:2426
-translate russian shiori_fuck_office_reverse_32f2335d:
+translate russian shiori_fuck_office_reverse_d914a7dc:
     shiori.say "П... Потому что мне вроде как нравится, что ты смотришь!"
 
 # ch/shiori/fuck.rpy:2427
@@ -21577,7 +21573,7 @@ translate russian shiori_fuck_office_reverse_8d8dbcf4:
     shiori.say "Это я с тобой такое сделала?"
 
 # ch/shiori/fuck.rpy:2438
-translate russian shiori_fuck_office_reverse_0945217f:
+translate russian shiori_fuck_office_reverse_813072d1:
     shiori.say "Он... он для меня?"
 
 # ch/shiori/fuck.rpy:2439
@@ -21685,7 +21681,7 @@ translate russian shiori_fuck_office_reverse_4a0fae35:
     shiori.say "Что ты со мной делаешь?!"
 
 # ch/shiori/fuck.rpy:2473
-translate russian shiori_fuck_office_reverse_d6c2856d:
+translate russian shiori_fuck_office_reverse_5b79dfea:
     shiori.say "Пожалуйста... пожалуйста, не останавливайся!"
 
 # ch/shiori/fuck.rpy:2474
@@ -21957,7 +21953,7 @@ translate russian shiori_fuck_office_reverse_79443965:
     shiori.say "Мне так хорошо, когда ты внутри, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/fuck.rpy:2574
-translate russian shiori_fuck_office_reverse_3816ef1f:
+translate russian shiori_fuck_office_reverse_9cfa1c61:
     shiori.say "Хочу... хочу, чтобы твой член оставался во мне вечно!"
 
 # ch/shiori/fuck.rpy:2575
@@ -22253,11 +22249,11 @@ translate russian shiori_fuck_office_reverse_a478b895:
     "Она просто сияет."
 
 # ch/shiori/fuck.rpy:2697
-translate russian shiori_fuck_office_reverse_207efa71:
+translate russian shiori_fuck_office_reverse_ad8571a0:
     shiori.say "Э... Это всё, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/fuck.rpy:2698
-translate russian shiori_fuck_office_reverse_1a2c0f96:
+translate russian shiori_fuck_office_reverse_6ac53a01:
     mike.say "Ах... да, Сиори."
 
 # ch/shiori/fuck.rpy:2699
@@ -22277,7 +22273,7 @@ translate russian shiori_fuck_office_doggy_2661332a:
     mike.say "Вот здесь, у стола, Сиори."
 
 # ch/shiori/fuck.rpy:2707
-translate russian shiori_fuck_office_doggy_b7dff0c9:
+translate russian shiori_fuck_office_doggy_fac519b5:
     mike.say "Здесь будет отлично... пока что."
 
 # ch/shiori/fuck.rpy:2708
@@ -22313,7 +22309,7 @@ translate russian shiori_fuck_office_doggy_05462822:
     "Её щёки мгновенно краснеют, и она начинает бормотать оправдания одно за другим."
 
 # ch/shiori/fuck.rpy:2716
-translate russian shiori_fuck_office_doggy_fd872cf6:
+translate russian shiori_fuck_office_doggy_ac578cc6:
     shiori.say "Я не... Я не..."
 
 # ch/shiori/fuck.rpy:2717
@@ -22361,7 +22357,7 @@ translate russian shiori_fuck_office_doggy_6400d9dc:
     shiori.say "Чтобы она напоминала мне о тебе, [lssb_shiori.hero_name()]."
 
 # ch/shiori/fuck.rpy:2728
-translate russian shiori_fuck_office_doggy_54ef64bf:
+translate russian shiori_fuck_office_doggy_91d1c189:
     shiori.say "Потому... потому что с ней я представляю, будто ты внутри меня!"
 
 # ch/shiori/fuck.rpy:2729
@@ -22545,7 +22541,7 @@ translate russian shiori_fuck_office_doggy_2b5a0005:
     mike.say "Лучше, чем с пробкой?"
 
 # ch/shiori/fuck.rpy:2781
-translate russian shiori_fuck_office_doggy_c62db176:
+translate russian shiori_fuck_office_doggy_4b2cdac4:
     shiori.say "Ах... да... да, лучше!"
 
 # ch/shiori/fuck.rpy:2782
@@ -22865,7 +22861,7 @@ translate russian shiori_fuck_office_spank_d1ce4820:
     mike.say "Сиори, ты понимаешь, что без кофе я не могу работать?"
 
 # ch/shiori/fuck.rpy:2932
-translate russian shiori_fuck_office_spank_32e387f1:
+translate russian shiori_fuck_office_spank_f4268205:
     shiori.say "Эм... да, наверное."
 
 # ch/shiori/fuck.rpy:2933
@@ -22873,7 +22869,7 @@ translate russian shiori_fuck_office_spank_6e8c8af5:
     mike.say "А сейчас моя чашка наполовину пуста, и кофе совсем ледяной!"
 
 # ch/shiori/fuck.rpy:2934
-translate russian shiori_fuck_office_spank_ceb43a5b:
+translate russian shiori_fuck_office_spank_bc06a756:
     shiori.say "Я... прости!"
 
 # ch/shiori/fuck.rpy:2935
@@ -22905,7 +22901,7 @@ translate russian shiori_fuck_office_spank_b7e31b63:
     "Но затем она торопливо обходит стол."
 
 # ch/shiori/fuck.rpy:2944
-translate russian shiori_fuck_office_spank_785de920:
+translate russian shiori_fuck_office_spank_041a671d:
     shiori.say "Т... Ты хочешь, чтобы я села туда?"
 
 # ch/shiori/fuck.rpy:2945
@@ -22937,7 +22933,7 @@ translate russian shiori_fuck_office_spank_dd048585:
     "И наслаждаюсь ощущением её пышных форм на своих ногах."
 
 # ch/shiori/fuck.rpy:2956
-translate russian shiori_fuck_office_spank_0f3a7fde:
+translate russian shiori_fuck_office_spank_55fc961c:
     shiori.say "Ч... Что теперь, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/fuck.rpy:2957
@@ -22977,7 +22973,7 @@ translate russian shiori_fuck_office_spank_a3bdb5fc:
     mike.say "Ты была плохой девочкой, Сиори."
 
 # ch/shiori/fuck.rpy:2970
-translate russian shiori_fuck_office_spank_0287c05f:
+translate russian shiori_fuck_office_spank_2efa715a:
     shiori.say "Д... да, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/fuck.rpy:2974
@@ -22993,7 +22989,7 @@ translate russian shiori_fuck_office_spank_e4978e66:
     mike.say "Ты плохая, непослушная девочка!"
 
 # ch/shiori/fuck.rpy:2978
-translate russian shiori_fuck_office_spank_737907e8:
+translate russian shiori_fuck_office_spank_52f964e0:
     shiori.say "Да... да, я такая!"
 
 # ch/shiori/fuck.rpy:2980
@@ -23037,7 +23033,7 @@ translate russian shiori_fuck_office_spank_495f6fba:
     "Если я продолжу ещё немного, то кончу!"
 
 # ch/shiori/fuck.rpy:2998
-translate russian shiori_fuck_office_spank_944e77ee:
+translate russian shiori_fuck_office_spank_d2fc2e13:
     mike.say "Ах... кхм..."
 
 # ch/shiori/fuck.rpy:2999
@@ -23049,7 +23045,7 @@ translate russian shiori_fuck_office_spank_1fa723e2:
     "Сиори поспешно встаёт с моих коленей, одёргивая юбку."
 
 # ch/shiori/fuck.rpy:3004
-translate russian shiori_fuck_office_spank_21c693b3:
+translate russian shiori_fuck_office_spank_fdd409a1:
     shiori.say "Д... да, [lssb_shiori.hero_name()]."
 
 # ch/shiori/gift.rpy:26
@@ -23153,11 +23149,11 @@ translate russian shiori_gift_collar_male_5d566614:
     mike.say "Увидев его, Сиори, я сразу же подумал о тебе."
 
 # ch/shiori/gift.rpy:81
-translate russian shiori_gift_collar_male_75db8c78:
+translate russian shiori_gift_collar_male_18ea70a3:
     shiori.say "П... правда?"
 
 # ch/shiori/gift.rpy:82
-translate russian shiori_gift_collar_male_791cba1d:
+translate russian shiori_gift_collar_male_53447fb4:
     shiori.say "Это ведь... ведь такой колокольчик, который надевают на... на корову!"
 
 # ch/shiori/gift.rpy:83
@@ -23229,7 +23225,7 @@ translate russian shiori_gift_collar_male_18d18df4:
     shiori.say "Спасибо, [lssb_shiori.hero_name()], очень милый подарок, очень заботливый..."
 
 # ch/shiori/gift.rpy:101
-translate russian shiori_gift_collar_male_cd099c2e:
+translate russian shiori_gift_collar_male_ef00b9fd:
     shiori.say "Но если ты не против... я, пожалуй, примерю его дома?"
 
 # ch/shiori/gift.rpy:102
@@ -23237,7 +23233,7 @@ translate russian shiori_gift_collar_male_4792a391:
     "Я стараюсь сохранить лицо, пожимаю плечами и делаю вид, что ничего особенного не случилось."
 
 # ch/shiori/gift.rpy:103
-translate russian shiori_gift_collar_male_62973e39:
+translate russian shiori_gift_collar_male_09f8bc6e:
     mike.say "Эм, да... как тебе удобнее, Сиори!"
 
 # ch/shiori/gift.rpy:104
@@ -23305,7 +23301,7 @@ translate russian shiori_gift_collar_male_815f4190:
     "Она на миг отводит взгляд, словно собираясь с духом."
 
 # ch/shiori/gift.rpy:125
-translate russian shiori_gift_collar_male_f96d89dc:
+translate russian shiori_gift_collar_male_d4d1c601:
     shiori.say "М... м... му!"
 
 # ch/shiori/gift.rpy:126
@@ -23329,7 +23325,7 @@ translate russian shiori_gift_collar_male_d86c4d34:
     "При этом слове в глазах Сиори словно вспыхивает искра."
 
 # ch/shiori/gift.rpy:131
-translate russian shiori_gift_collar_male_98784ad6:
+translate russian shiori_gift_collar_male_fd8757c2:
     shiori.say "О да... г... господин!"
 
 # ch/shiori/gift.rpy:133
@@ -23401,7 +23397,7 @@ translate russian shiori_gift_slutty_dress_male_368c9d70:
     "Я рассчитываю на то, что Сиори одевается консервативно из-за застенчивости."
 
 # ch/shiori/gift.rpy:174
-translate russian shiori_gift_slutty_dress_male_1712d903:
+translate russian shiori_gift_slutty_dress_male_d4d33230:
     "И ей просто нужен мягкий толчок к вещам чуть более... эффектным."
 
 # ch/shiori/gift.rpy:176
@@ -23517,7 +23513,7 @@ translate russian shiori_gift_slutty_dress_male_932a8eff:
     mike.say "Нет, Сиори, это оно целиком!"
 
 # ch/shiori/gift.rpy:212
-translate russian shiori_gift_slutty_dress_male_15cbfde8:
+translate russian shiori_gift_slutty_dress_male_2e25d117:
     mike.say "Так что ты говорила... чудесное, да?"
 
 # ch/shiori/gift.rpy:214
@@ -23769,7 +23765,7 @@ translate russian shiori_gift_butt_plug_male_9719688d:
     "Она поднимает на меня большие невинные глаза."
 
 # ch/shiori/gift.rpy:314
-translate russian shiori_gift_butt_plug_male_e905fb42:
+translate russian shiori_gift_butt_plug_male_dca66fef:
     shiori.say "Ты... ты хочешь смотреть на меня?"
 
 # ch/shiori/gift.rpy:315
@@ -23785,7 +23781,7 @@ translate russian shiori_gift_butt_plug_male_c9ec908a:
     "Я снова киваю."
 
 # ch/shiori/gift.rpy:318
-translate russian shiori_gift_butt_plug_male_18f80ced:
+translate russian shiori_gift_butt_plug_male_cd17c9f9:
     shiori.say "Как я... использую это на себе?"
 
 # ch/shiori/gift.rpy:319
@@ -23817,11 +23813,11 @@ translate russian shiori_ice_cream_reaction_male_7a5b06e9:
     "Сиори выбирает то же самое, но с другим сочетанием вкусов."
 
 # ch/shiori/reactions.rpy:6
-translate russian shiori_ice_cream_reaction_male_d07765cb:
+translate russian shiori_ice_cream_reaction_male_eff5b769:
     shiori.say "М-м-м... Какая прекрасная идея, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/reactions.rpy:7
-translate russian shiori_ice_cream_reaction_male_5d2b5ffb:
+translate russian shiori_ice_cream_reaction_male_b191327c:
     shiori.say "Ох... ой, ой, ой... боже мой... о нет!"
 
 # ch/shiori/reactions.rpy:8
@@ -24001,7 +23997,7 @@ translate russian shiori_call_in_7b1c6134:
     "Мне приходится прикусить язык, чтобы не сказать что-нибудь, о чём тут же пожалею."
 
 # ch/shiori/reactions.rpy:62
-translate russian shiori_call_in_aab69089:
+translate russian shiori_call_in_6c87c347:
     mike.say "Эм... да..."
 
 # ch/shiori/reactions.rpy:63
@@ -24069,7 +24065,7 @@ translate russian shiori_ask_phone_male_0780ef3d:
     shiori.say "И звони когда захочешь!"
 
 # ch/shiori/reactions.rpy:93
-translate russian shiori_ask_phone_male_324e2133:
+translate russian shiori_ask_phone_male_a29dbe00:
     shiori.say "Ох... боже мой..."
 
 # ch/shiori/reactions.rpy:94
@@ -24101,7 +24097,7 @@ translate russian shiori_ask_birthday_male_f1e0f65f:
     shiori.say "Спасибо, что спросил!"
 
 # ch/shiori/reactions.rpy:111
-translate russian shiori_ask_birthday_male_1535ec00:
+translate russian shiori_ask_birthday_male_5fb16c7b:
     shiori.say "Но... но..."
 
 # ch/shiori/reactions.rpy:112
@@ -24125,7 +24121,7 @@ translate russian shiori_offer_a_drink_male_f24294d0:
     "Едва я успеваю договорить, как Сиори поворачивается ко мне."
 
 # ch/shiori/reactions.rpy:123
-translate russian shiori_offer_a_drink_male_c0765072:
+translate russian shiori_offer_a_drink_male_416ce5cb:
     shiori.say "Ох... как ты можешь, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/reactions.rpy:124
@@ -24137,7 +24133,7 @@ translate russian shiori_offer_a_drink_male_14f42a84:
     shiori.say "Я думала, ты заботишься обо мне и о малыше!"
 
 # ch/shiori/reactions.rpy:130
-translate russian shiori_offer_a_drink_male_37b071c4:
+translate russian shiori_offer_a_drink_male_545af928:
     shiori.say "Ох... хорошо, [lssb_shiori.hero_name()]."
 
 # ch/shiori/reactions.rpy:131
@@ -24149,7 +24145,7 @@ translate russian shiori_offer_a_drink_male_5d8f1fa5:
     shiori.say "Красного или белого — какое тебе больше нравится!"
 
 # ch/shiori/reactions.rpy:144
-translate russian shiori_offer_a_drink_male_745ce8d6:
+translate russian shiori_offer_a_drink_male_54fa6a07:
     shiori.say "Нет... нет, не стоит."
 
 # ch/shiori/reactions.rpy:145
@@ -24193,7 +24189,7 @@ translate russian shiori_slap_ass_happy_male_7aa39cb6:
     shiori.say "Что это было?"
 
 # ch/shiori/reactions.rpy:163
-translate russian shiori_slap_ass_happy_male_86852df5:
+translate russian shiori_slap_ass_happy_male_b3ebf34d:
     shiori.say "Ты... ты только что шлёпнул меня по попке?"
 
 # ch/shiori/reactions.rpy:164
@@ -24205,7 +24201,7 @@ translate russian shiori_slap_ass_happy_male_0a936ddc:
     "Как только я это делаю, щёки Сиори краснеют."
 
 # ch/shiori/reactions.rpy:166
-translate russian shiori_slap_ass_happy_male_e7bf5ec5:
+translate russian shiori_slap_ass_happy_male_6fe7ecdb:
     shiori.say "Ну... я..."
 
 # ch/shiori/reactions.rpy:167
@@ -24229,7 +24225,7 @@ translate russian shiori_slap_ass_angry_male_7aa39cb6:
     shiori.say "Что это было?"
 
 # ch/shiori/reactions.rpy:175
-translate russian shiori_slap_ass_angry_male_86852df5:
+translate russian shiori_slap_ass_angry_male_b3ebf34d:
     shiori.say "Ты... ты только что шлёпнул меня по попке?"
 
 # ch/shiori/reactions.rpy:176
@@ -24305,11 +24301,11 @@ translate russian shiori_breakup_male_f253ca9c:
     mike.say "Это касается нас, Сиори. Тебя и меня."
 
 # ch/shiori/reactions.rpy:198
-translate russian shiori_breakup_male_eeb7d94b:
+translate russian shiori_breakup_male_6c53b118:
     shiori.say "Д... да?"
 
 # ch/shiori/reactions.rpy:199
-translate russian shiori_breakup_male_94a8d0bf:
+translate russian shiori_breakup_male_e232339f:
     mike.say "Думаю... нам стоит перестать встречаться."
 
 # ch/shiori/reactions.rpy:201
@@ -24325,7 +24321,7 @@ translate russian shiori_breakup_male_f860ac76:
     "Затем она опускает взгляд себе под ноги и качает головой."
 
 # ch/shiori/reactions.rpy:205
-translate russian shiori_breakup_male_019279b2:
+translate russian shiori_breakup_male_8c28322a:
     shiori.say "Т... Ты точно такой же."
 
 # ch/shiori/reactions.rpy:206
@@ -24385,7 +24381,7 @@ translate russian shiori_go_steady_intro_male_05b399d4:
     mike.say "Хочешь стать моей девушкой?"
 
 # ch/shiori/reactions.rpy:226
-translate russian shiori_go_steady_yes_male_25ea5402:
+translate russian shiori_go_steady_yes_male_a2df91bc:
     shiori.say "Т... Ты серьёзно, [lssb_shiori.hero_name()]?!"
 
 # ch/shiori/reactions.rpy:227
@@ -24401,7 +24397,7 @@ translate russian shiori_go_steady_yes_male_bd549f59:
     "Наши губы встречаются, и она целует меня так, словно от этого зависит её жизнь."
 
 # ch/shiori/reactions.rpy:236
-translate russian shiori_go_steady_no_male_2a5787f7:
+translate russian shiori_go_steady_no_male_c971ec6f:
     shiori.say "Ох... я не знаю, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/reactions.rpy:237
@@ -24425,11 +24421,11 @@ translate russian shiori_pet_intro_male_7c2215f0:
     "Но едва закончив, я задумываюсь, правильно ли поступил."
 
 # ch/shiori/reactions.rpy:248
-translate russian shiori_pet_happy_male_5e7c0708:
+translate russian shiori_pet_happy_male_0ec06147:
     shiori.say "О-ох... боже мой..."
 
 # ch/shiori/reactions.rpy:249
-translate russian shiori_pet_happy_male_b7727045:
+translate russian shiori_pet_happy_male_640f8c91:
     shiori.say "С... Спасибо, [lssb_shiori.hero_name()]."
 
 # ch/shiori/reactions.rpy:250
@@ -24437,7 +24433,7 @@ translate russian shiori_pet_happy_male_f02ddf01:
     shiori.say "С тобой я почувствовала себя особенной!"
 
 # ch/shiori/reactions.rpy:254
-translate russian shiori_pet_annoyed_male_fb74f630:
+translate russian shiori_pet_annoyed_male_935c175b:
     shiori.say "Боже мой... боже мой..."
 
 # ch/shiori/reactions.rpy:255
@@ -24449,7 +24445,7 @@ translate russian shiori_pet_annoyed_male_6fe93f9e:
     shiori.say "Ты ведь знаешь, что не стоит!"
 
 # ch/shiori/reactions.rpy:260
-translate russian shiori_massage_intro_male_e7781066:
+translate russian shiori_massage_intro_male_61128d9a:
     mike.say "Ох... похоже, это больно, Сиори!"
 
 # ch/shiori/reactions.rpy:261
@@ -24485,7 +24481,7 @@ translate russian shiori_massage_refuse_male_d98aa752:
     shiori.say "И доверяться следует только специалисту!"
 
 # ch/shiori/reactions.rpy:278
-translate russian shiori_piercing_nipples_reaction_male_feede650:
+translate russian shiori_piercing_nipples_reaction_male_be93a743:
     shiori.say "Я... Я сомневалась, стоит ли прокалывать соски, [lssb_shiori.hero_name()]."
 
 # ch/shiori/reactions.rpy:279
@@ -24497,7 +24493,7 @@ translate russian shiori_piercing_nipples_reaction_male_706482cf:
     shiori.say "Мне и самой начинает нравиться!"
 
 # ch/shiori/reactions.rpy:284
-translate russian shiori_piercing_navel_reaction_male_2d672631:
+translate russian shiori_piercing_navel_reaction_male_76b10927:
     shiori.say "К... Красиво получилось, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/reactions.rpy:285
@@ -24509,11 +24505,11 @@ translate russian shiori_piercing_navel_reaction_male_927cc9ea:
     shiori.say "Но если тебе нравится, то и мне тоже!"
 
 # ch/shiori/reactions.rpy:290
-translate russian shiori_piercing_clit_reaction_male_d6db2983:
+translate russian shiori_piercing_clit_reaction_male_5c03e9b7:
     shiori.say "О-ох... Там так непривычно!"
 
 # ch/shiori/reactions.rpy:291
-translate russian shiori_piercing_clit_reaction_male_37135d1a:
+translate russian shiori_piercing_clit_reaction_male_e100ce73:
     shiori.say "Но... тебе нравится?"
 
 # ch/shiori/reactions.rpy:292
@@ -24525,7 +24521,7 @@ translate russian shiori_piercing_clit_reaction_male_2a383db6:
     shiori.say "Ведь если тебе нравится, то и мне тоже!"
 
 # ch/shiori/reactions.rpy:297
-translate russian shiori_piercing_head_reaction_male_ecc84cd4:
+translate russian shiori_piercing_head_reaction_male_e4e9c64d:
     shiori.say "Ох... надеюсь, голос из-за этого не станет смешным..."
 
 # ch/shiori/reactions.rpy:298
@@ -24541,7 +24537,7 @@ translate russian shiori_piercing_head_reaction_male_be29c58e:
     shiori.say "Тогда всё было не зря!"
 
 # ch/shiori/reactions.rpy:304
-translate russian shiori_piercing_nose_reaction_male_7520c70c:
+translate russian shiori_piercing_nose_reaction_male_e2c99ac0:
     shiori.say "Н... Нормально выглядит, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/reactions.rpy:305
@@ -24553,11 +24549,11 @@ translate russian shiori_piercing_nose_reaction_male_2edaf898:
     shiori.say "А тебе ведь нравится, да?"
 
 # ch/shiori/reactions.rpy:310
-translate russian shiori_movie_disliked_reaction_male_637461d9:
+translate russian shiori_movie_disliked_reaction_male_b2cdfa33:
     shiori.say "Боже мой... Я... кажется, этот фильм мне совсем не понравился!"
 
 # ch/shiori/reactions.rpy:314
-translate russian shiori_movie_indifferent_reaction_male_9c152217:
+translate russian shiori_movie_indifferent_reaction_male_d1a634bb:
     shiori.say "Т... Тебе понравился фильм?"
 
 # ch/shiori/reactions.rpy:315
@@ -24873,7 +24869,7 @@ translate russian shiori_talk_sex_male_d9e1eb52:
     "Слышал, во время беременности тоже можно заниматься сексом..."
 
 # ch/shiori/talk.rpy:22
-translate russian shiori_talk_sex_male_9bb52524:
+translate russian shiori_talk_sex_male_107e91e2:
     shiori.say "Ну... я не представляю удовольствия без хотя бы капельки боли..."
 
 # ch/shiori/talk.rpy:29
@@ -24961,7 +24957,7 @@ translate russian shiori_talk_fashion_male_fbdab5fa:
     mike.say "Ты всегда приходишь в офис хорошо одетой, Сиори."
 
 # ch/shiori/talk.rpy:90
-translate russian shiori_talk_fashion_male_f0a6212b:
+translate russian shiori_talk_fashion_male_5e5c13b6:
     shiori.say "Эм... мне уже почти ничего не впору. Нужно срочно покупать одежду для беременных!"
 
 # ch/shiori/talk.rpy:92
@@ -24973,11 +24969,11 @@ translate russian shiori_talk_books_male_4867a049:
     mike.say "Слышал о новом довольно откровенном романе для взрослых. Говорят, его все читают."
 
 # ch/shiori/talk.rpy:100
-translate russian shiori_talk_books_male_27363592:
+translate russian shiori_talk_books_male_91dd4fd1:
     mike.say "Ты о нём слышала... или уже читала?"
 
 # ch/shiori/talk.rpy:102
-translate russian shiori_talk_books_male_8da94d72:
+translate russian shiori_talk_books_male_f2fdd799:
     shiori.say "Нет... но я купила чудесную книгу с именами для малышей!"
 
 # ch/shiori/talk.rpy:105
@@ -24985,7 +24981,7 @@ translate russian shiori_talk_books_male_bd413956:
     "Сиори хихикает и качает головой."
 
 # ch/shiori/talk.rpy:106
-translate russian shiori_talk_books_male_0fb9d1cb:
+translate russian shiori_talk_books_male_f4a25399:
     shiori.say "О нет... я мало читаю."
 
 # ch/shiori/talk.rpy:107
@@ -25073,7 +25069,7 @@ translate russian shiori_talk_investigation_male_008d20d0:
     "С другой стороны, не помню, чтобы она хоть раз сделала что-нибудь правильно. Стоит ли доверять ей такое?"
 
 # ch/shiori/talk.rpy:200
-translate russian shiori_talk_investigation_male_089d61f4:
+translate russian shiori_talk_investigation_male_ad8b2ecc:
     mike.say "Может, поспрашиваешь бухгалтеров и попробуешь что-нибудь выяснить? Может, если... покажешь свои достоинства."
 
 # ch/shiori/talk.rpy:202
@@ -25081,7 +25077,7 @@ translate russian shiori_talk_investigation_male_441101e6:
     shiori.say "О чём ты, [lssb_shiori.hero_name()]?"
 
 # ch/shiori/talk.rpy:203
-translate russian shiori_talk_investigation_male_2c4979a0:
+translate russian shiori_talk_investigation_male_dc1d7c21:
     mike.say "Я имею в виду... эх, неважно. Просто поспрашиваешь?"
 
 # ch/shiori/talk.rpy:205
@@ -25129,7 +25125,7 @@ translate russian shiori_investigation_callback_8739df79:
     "Не могу поверить, что такой нашёлся всего один."
 
 # ch/shiori/talk.rpy:227
-translate russian shiori_investigation_callback_651a601c:
+translate russian shiori_investigation_callback_01a581d5:
     mike.say "Надеюсь, ты... ну, удалось что-нибудь узнать?"
 
 # ch/shiori/talk.rpy:228
@@ -25189,11 +25185,11 @@ translate russian submissive_interact_shiori_male_f4d9524e:
     mike.say "Хочу, чтобы при каждом приветствии ты просила меня повторить!"
 
 # ch/shiori/talk.rpy:293
-translate russian submissive_interact_shiori_male_f9fce1f2:
+translate russian submissive_interact_shiori_male_8b17c04c:
     shiori.say "М... Мне тоже понравилось, очень!"
 
 # ch/shiori/talk.rpy:294
-translate russian submissive_interact_shiori_male_ec2a186c:
+translate russian submissive_interact_shiori_male_d3d3f281:
     shiori.say "От одной мысли об этом я... возбуждаюсь!"
 
 # ch/shiori/talk.rpy:295
@@ -25201,7 +25197,7 @@ translate russian submissive_interact_shiori_male_f87fe1c0:
     shiori.say "Конечно, буду."
 
 # ch/shiori/talk.rpy:299
-translate russian submissive_interact_shiori_male_f5033595:
+translate russian submissive_interact_shiori_male_331fd6fa:
     shiori.say "Н... Но это должно было остаться между нами!"
 
 # ch/shiori/talk.rpy:300
@@ -25237,7 +25233,7 @@ translate russian shiori_friendly_texts_cfe8988d:
     shiori_nvl "Каждый раз, когда ты смотрел на меня..."
 
 # ch/shiori/texts.rpy:13
-translate russian shiori_friendly_texts_cb23a231:
+translate russian shiori_friendly_texts_a4212b21:
     shiori_nvl "Ох... я была так счастлива!"
 
 # ch/shiori/texts.rpy:15
@@ -25253,19 +25249,19 @@ translate russian shiori_friendly_texts_388dbb3f:
     shiori_nvl "Надеюсь, мы скоро повторим?"
 
 # ch/shiori/texts.rpy:26
-translate russian shiori_flirty_texts_abf15432:
+translate russian shiori_flirty_texts_6bfdb335:
     shiori_nvl "Я... Я просто хотела кое-что тебе сказать."
 
 # ch/shiori/texts.rpy:27
-translate russian shiori_flirty_texts_6fcd87a5:
+translate russian shiori_flirty_texts_e5191da0:
     shiori_nvl "На мне тот наряд, который тебе нравится... с глубоким вырезом."
 
 # ch/shiori/texts.rpy:28
-translate russian shiori_flirty_texts_f366d3b8:
+translate russian shiori_flirty_texts_a5eb6c8f:
     shiori_nvl "И... мне нравится представлять, как ты меня в нём разглядываешь!"
 
 # ch/shiori/texts.rpy:30
-translate russian shiori_flirty_texts_b1812d43:
+translate russian shiori_flirty_texts_2f37c117:
     shiori_nvl "Ох... сегодня в офисе у меня всё валится из рук!"
 
 # ch/shiori/texts.rpy:31
@@ -25273,15 +25269,15 @@ translate russian shiori_flirty_texts_9e375158:
     shiori_nvl "Каждый раз при виде тебя я теряю голову!"
 
 # ch/shiori/texts.rpy:32
-translate russian shiori_flirty_texts_8392dfff:
+translate russian shiori_flirty_texts_9d04d7d7:
     shiori_nvl "С тобой я чувствую себя такой плохой... потому что хочу, чтобы ты потрогал меня — там!"
 
 # ch/shiori/texts.rpy:34
-translate russian shiori_flirty_texts_ba46c636:
+translate russian shiori_flirty_texts_13ea5b22:
     shiori_nvl "Тебе... тебе ведь очень нравится моя грудь?"
 
 # ch/shiori/texts.rpy:35
-translate russian shiori_flirty_texts_2147e432:
+translate russian shiori_flirty_texts_44668b69:
     shiori_nvl "Хочешь, я... поласкаю её для тебя?"
 
 # ch/shiori/texts.rpy:36
@@ -25289,7 +25285,7 @@ translate russian shiori_flirty_texts_5fb4c82b:
     shiori_nvl "Могу рассказать, что чувствую, если хочешь."
 
 # ch/shiori/texts.rpy:45
-translate russian shiori_dirty_texts_7bbc5e07:
+translate russian shiori_dirty_texts_47c27f99:
     shiori_nvl "Боже мой... кажется, я больше не могу держать это в себе!"
 
 # ch/shiori/texts.rpy:46
@@ -25313,7 +25309,7 @@ translate russian shiori_dirty_texts_a69e300f:
     shiori_nvl "Мне нравится, как ты смотришь на меня в нём..."
 
 # ch/shiori/texts.rpy:52
-translate russian shiori_dirty_texts_f35052d5:
+translate russian shiori_dirty_texts_4cf5fdf9:
     shiori_nvl "Я... я от этого мокну!"
 
 # ch/shiori/texts.rpy:54
@@ -25401,7 +25397,7 @@ translate russian shiori_flirty_texts_male_2c1dd132:
     shiori_nvl "Звучит жутковато. Не буду!"
 
 # ch/shiori/texts.rpy:126
-translate russian shiori_flirty_texts_male_42c39414:
+translate russian shiori_flirty_texts_male_123e4ac5:
     shiori_nvl "Хорошо... если ты хочешь."
 
 # ch/shiori/texts.rpy:127
@@ -25409,7 +25405,7 @@ translate russian shiori_flirty_texts_male_ca780f6b:
     shiori_nvl "Сейчас на мне только ночнушка..."
 
 # ch/shiori/texts.rpy:128
-translate russian shiori_flirty_texts_male_28715f69:
+translate russian shiori_flirty_texts_male_8bed9754:
     shiori_nvl "И... ну... она довольно короткая, даже попку видно!"
 
 # ch/shiori/texts.rpy:131
@@ -25433,7 +25429,7 @@ translate russian shiori_flirty_texts_male_bef71aeb:
     mchero_nvl "Об объятиях и о том, что будет дальше..."
 
 # ch/shiori/texts.rpy:147
-translate russian shiori_flirty_texts_male_18acccd0:
+translate russian shiori_flirty_texts_male_85659d24:
     shiori_nvl "Боже мой... у меня нет на это времени!"
 
 # ch/shiori/texts.rpy:148
@@ -25441,7 +25437,7 @@ translate russian shiori_flirty_texts_male_79032677:
     shiori_nvl "У меня столько работы!"
 
 # ch/shiori/texts.rpy:151
-translate russian shiori_flirty_texts_male_82290c54:
+translate russian shiori_flirty_texts_male_1c0afc56:
     shiori_nvl "Ох... я тоже!"
 
 # ch/shiori/texts.rpy:152
@@ -25449,7 +25445,7 @@ translate russian shiori_flirty_texts_male_d6d79012:
     shiori_nvl "Представляю себя в твоих сильных объятиях!"
 
 # ch/shiori/texts.rpy:153
-translate russian shiori_flirty_texts_male_c38e3d3d:
+translate russian shiori_flirty_texts_male_a5c1eac0:
     shiori_nvl "И... и кое-что ещё!"
 
 # ch/shiori/texts.rpy:156
@@ -25469,7 +25465,7 @@ translate russian shiori_flirty_texts_male_dbb1f4df:
     mchero_nvl "Можешь прийти, чтобы мы побыли вместе?"
 
 # ch/shiori/texts.rpy:171
-translate russian shiori_flirty_texts_male_dde765c3:
+translate russian shiori_flirty_texts_male_1e1c9546:
     shiori_nvl "Ох... это ТАК эгоистично с твоей стороны!"
 
 # ch/shiori/texts.rpy:172
@@ -25477,7 +25473,7 @@ translate russian shiori_flirty_texts_male_d630c4b4:
     shiori_nvl "Ты же знаешь, что я не могу бросить свои обязанности!"
 
 # ch/shiori/texts.rpy:175
-translate russian shiori_flirty_texts_male_2974f28d:
+translate russian shiori_flirty_texts_male_e7ee84d5:
     shiori_nvl "Ох... от одной мысли о тебе мне становится... так странно!"
 
 # ch/shiori/texts.rpy:176
@@ -25509,7 +25505,7 @@ translate russian shiori_dirty_texts_male_5584e8f2:
     shiori_nvl "Я думала, ты меня любишь!"
 
 # ch/shiori/texts.rpy:205
-translate russian shiori_dirty_texts_male_26c7816d:
+translate russian shiori_dirty_texts_male_9deb9589:
     shiori_nvl "Ох... боже мой..."
 
 # ch/shiori/texts.rpy:206
@@ -25581,7 +25577,7 @@ translate russian shiori_dirty_texts_male_50ce0854:
     shiori_nvl "Мне так стыдно танцевать за деньги!"
 
 # ch/shiori/texts.rpy:257
-translate russian shiori_dirty_texts_male_5c163c20:
+translate russian shiori_dirty_texts_male_4f4697b4:
     shiori_nvl "О да... да, хочу!"
 
 # ch/shiori/texts.rpy:258

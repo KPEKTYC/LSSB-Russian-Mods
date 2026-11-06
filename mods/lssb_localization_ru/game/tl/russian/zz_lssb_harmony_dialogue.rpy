@@ -185,7 +185,7 @@ translate russian harmony_greet_8c094512:
     harmony.say "Каждый день с тобой — словно ответ на молитву. Я серьёзно."
 
 # ch/harmony/base.rpy:160
-translate russian harmony_greet_48340763:
+translate russian harmony_greet_02738e1f:
     harmony.say "М-м-м... Хочу встать на колени и поклоняться твоему члену!"
 
 # ch/harmony/base.rpy:162
@@ -449,7 +449,7 @@ translate russian harmony_propose_male_067b9afb:
     harmony.say "Что на тебя нашло?"
 
 # ch/harmony/base.rpy:284
-translate russian harmony_propose_male_fbb0121f:
+translate russian harmony_propose_male_7e28d632:
     mike.say "Ч... что ты имеешь в виду, Хармони?"
 
 # ch/harmony/base.rpy:285
@@ -489,7 +489,7 @@ translate russian harmony_propose_male_6125bf0a:
     "Я качаю головой, всё ещё не понимая её слов."
 
 # ch/harmony/base.rpy:297
-translate russian harmony_propose_male_9709654f:
+translate russian harmony_propose_male_aeac7697:
     mike.say "Мы... не готовы?"
 
 # ch/harmony/base.rpy:298
@@ -817,7 +817,7 @@ translate russian harmony_propose_male_ca9f5e4f:
     "Не понимаю, почему Хармони отказывает!"
 
 # ch/harmony/base.rpy:411
-translate russian harmony_propose_male_86327def:
+translate russian harmony_propose_male_931f5c44:
     mike.say "Чт... что не так, Хармони?"
 
 # ch/harmony/base.rpy:412
@@ -829,7 +829,7 @@ translate russian harmony_propose_male_4ee2b718:
     mike.say "Я для тебя недостаточно интересен?"
 
 # ch/harmony/base.rpy:414
-translate russian harmony_propose_male_dd8bf052:
+translate russian harmony_propose_male_7f846ba0:
     mike.say "Ну... я исправлюсь, вот увидишь!"
 
 # ch/harmony/base.rpy:415
@@ -1009,7 +1009,7 @@ translate russian harmony_propose_male_a0874185:
     "Она уже вытягивает руку и любуется тем, как оно смотрится."
 
 # ch/harmony/base.rpy:477
-translate russian harmony_propose_male_67dc4fba:
+translate russian harmony_propose_male_140a5f68:
     harmony.say "Я... не могу поверить, что это происходит!"
 
 # ch/harmony/base.rpy:478
@@ -1037,7 +1037,7 @@ translate russian harmony_propose_male_4a612376:
     "И, кажется, мой вопрос её немало озадачивает."
 
 # ch/harmony/base.rpy:487
-translate russian harmony_propose_male_562b849f:
+translate russian harmony_propose_male_9b8fd318:
     harmony.say "Эм... да, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/base.rpy:488
@@ -1045,7 +1045,7 @@ translate russian harmony_propose_male_f02359f0:
     harmony.say "Зачем бы ещё я согласилась?"
 
 # ch/harmony/base.rpy:490
-translate russian harmony_propose_male_4991aa35:
+translate russian harmony_propose_male_cafee0fe:
     mike.say "Ну... потому что я... потому что ты..."
 
 # ch/harmony/base.rpy:491
@@ -1065,7 +1065,7 @@ translate russian harmony_propose_male_3ab86ad6:
     harmony.say "Тут и думать нечего, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/base.rpy:497
-translate russian harmony_propose_male_85d179ed:
+translate russian harmony_propose_male_f8251faa:
     harmony.say "Ты ведь помнишь, какой я была, правда?"
 
 # ch/harmony/base.rpy:498
@@ -1077,7 +1077,7 @@ translate russian harmony_propose_male_de6f8983:
     harmony.say "И думала, что так будет всегда. Пока не появился ты!"
 
 # ch/harmony/base.rpy:500
-translate russian harmony_propose_male_b53ddd66:
+translate russian harmony_propose_male_f5d8df6d:
     harmony.say "Ты показал мне, что я упускаю жизнь... и все эти члены!"
 
 # ch/harmony/base.rpy:502
@@ -1213,7 +1213,7 @@ translate russian harmony_propose_male_3772b955:
     harmony.say "[lssb_harmony.hero_name()], ты вообще меня сейчас слушаешь?"
 
 # ch/harmony/base.rpy:544
-translate russian harmony_propose_male_d1ebaad4:
+translate russian harmony_propose_male_d942b318:
     harmony.say "П... постой... что ты делаешь?!"
 
 # ch/harmony/base.rpy:546
@@ -1253,15 +1253,15 @@ translate russian harmony_propose_male_75be537a:
     "Моргает, будто не веря своим глазам."
 
 # ch/harmony/base.rpy:559
-translate russian harmony_propose_male_96f4a038:
+translate russian harmony_propose_male_8418247f:
     harmony.say "Я... я..."
 
 # ch/harmony/base.rpy:560
-translate russian harmony_propose_male_8d48c2f4:
+translate russian harmony_propose_male_69634f95:
     harmony.say "Ч... чт... что..."
 
 # ch/harmony/base.rpy:561
-translate russian harmony_propose_male_0608a7bb:
+translate russian harmony_propose_male_c02bbf7f:
     harmony.say "Ох... ох... ох..."
 
 # ch/harmony/base.rpy:563
@@ -1481,7 +1481,7 @@ translate russian harmony_propose_male_4a612376_1:
     "И, кажется, мой вопрос её немало озадачивает."
 
 # ch/harmony/base.rpy:638
-translate russian harmony_propose_male_562b849f_1:
+translate russian harmony_propose_male_9b8fd318_1:
     harmony.say "Эм... да, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/base.rpy:639
@@ -1489,7 +1489,7 @@ translate russian harmony_propose_male_f02359f0_1:
     harmony.say "Зачем бы ещё я согласилась?"
 
 # ch/harmony/base.rpy:641
-translate russian harmony_propose_male_4991aa35_1:
+translate russian harmony_propose_male_cafee0fe_1:
     mike.say "Ну... потому что я... потому что ты..."
 
 # ch/harmony/base.rpy:642
@@ -1521,7 +1521,7 @@ translate russian harmony_propose_male_0056abfa:
     "Прежде чем продолжить, она слегка краснеет."
 
 # ch/harmony/base.rpy:653
-translate russian harmony_propose_male_85d179ed_1:
+translate russian harmony_propose_male_f8251faa_1:
     harmony.say "Ты ведь помнишь, какой я была, правда?"
 
 # ch/harmony/base.rpy:654
@@ -1533,7 +1533,7 @@ translate russian harmony_propose_male_de6f8983_1:
     harmony.say "И думала, что так будет всегда. Пока не появился ты!"
 
 # ch/harmony/base.rpy:656
-translate russian harmony_propose_male_0e071f6e:
+translate russian harmony_propose_male_c1362695:
     harmony.say "Ты показал мне, что я упускаю жизнь... и любовь!"
 
 # ch/harmony/base.rpy:657
@@ -1905,11 +1905,11 @@ translate russian harmony_desire_4_male_83725ffd:
     mike.say "Люди веками оправдывают ею свою чушь!"
 
 # ch/harmony/chat.rpy:158
-translate russian harmony_desire_4_male_0b2b7a63:
+translate russian harmony_desire_4_male_3287a82b:
     harmony.say "Ох, [lssb_harmony.hero_name()]... я... не знаю, как сказать..."
 
 # ch/harmony/chat.rpy:159
-translate russian harmony_desire_4_male_befcab07:
+translate russian harmony_desire_4_male_60f495c0:
     harmony.say "Но я... кажется, влюбляюсь в тебя!"
 
 # ch/harmony/chat.rpy:162
@@ -1989,7 +1989,7 @@ translate russian harmony_desire_4_male_0175cf17:
     harmony.say "Но прежде чем говорить, хотела убедиться."
 
 # ch/harmony/chat.rpy:197
-translate russian harmony_desire_4_male_227bfe0c:
+translate russian harmony_desire_4_male_c93ff7fc:
     harmony.say "Так вот... я... я люблю тебя!"
 
 # ch/harmony/chat.rpy:200
@@ -2045,7 +2045,7 @@ translate russian harmony_desire_5_male_ad5ae689:
     harmony.say "Может, это неожиданно, но, кажется, ты тот самый, кто мне нужен..."
 
 # ch/harmony/chat.rpy:228
-translate russian harmony_desire_5_male_9e871199:
+translate russian harmony_desire_5_male_cfe53074:
     mike.say "Нет, Хармони... всё хорошо."
 
 # ch/harmony/chat.rpy:229
@@ -2109,7 +2109,7 @@ translate russian harmony_desire_5_male_6761617f:
     mike.say "Мы любим друг друга и любим заниматься любовью!"
 
 # ch/harmony/chat.rpy:258
-translate russian harmony_desire_5_male_bbe50372:
+translate russian harmony_desire_5_male_4ab27cc9:
     mike.say "Хм... С тобой весело, Хармони."
 
 # ch/harmony/chat.rpy:259
@@ -2257,7 +2257,7 @@ translate russian harmony_love_2_male_ec5f6e18:
     harmony.say "Приятно видеть тебя в церкви и на изучении Библии, [lssb_harmony.hero_name()]."
 
 # ch/harmony/chat.rpy:338
-translate russian harmony_love_2_male_89cab1ef:
+translate russian harmony_love_2_male_97f94579:
     harmony.say "Но ты не думал провести время вместе за... не знаю, чем-нибудь ещё?"
 
 # ch/harmony/chat.rpy:341
@@ -2269,7 +2269,7 @@ translate russian harmony_love_2_male_d25af8cb:
     mike.say "Но я бы солгал, сказав, что всё это время думаю только об Иисусе."
 
 # ch/harmony/chat.rpy:343
-translate russian harmony_love_2_male_823cd97e:
+translate russian harmony_love_2_male_fc8d3051:
     mike.say "Стыдно признаться, но иногда я думаю о других занятиях... с тобой!"
 
 # ch/harmony/chat.rpy:346
@@ -2393,7 +2393,7 @@ translate russian harmony_love_3_male_5f5ef9c9:
     mike.say "Хочу познать каждый сантиметр твоего тела..."
 
 # ch/harmony/chat.rpy:409
-translate russian harmony_love_3_male_987b6210:
+translate russian harmony_love_3_male_b34f7b5d:
     mike.say "Ох... Заманчивое предложение, Хармони."
 
 # ch/harmony/chat.rpy:410
@@ -2441,7 +2441,7 @@ translate russian harmony_love_4_male_2e0374eb:
     mike.say "Я и правда был заблудшей овцой, пока ты не появилась и не нашла меня!"
 
 # ch/harmony/chat.rpy:436
-translate russian harmony_love_4_male_ac5444a6:
+translate russian harmony_love_4_male_85640185:
     mike.say "Хм... Кажется, ты пытаешься приписать себе заслугу в том, что я обрёл Бога, Хармони!"
 
 # ch/harmony/chat.rpy:439
@@ -2561,7 +2561,7 @@ translate russian harmony_love_5_male_97635468:
     mike.say "Даст Бог, этот день настанет совсем скоро!"
 
 # ch/harmony/chat.rpy:499
-translate russian harmony_love_5_male_25cf9762:
+translate russian harmony_love_5_male_bbdd813f:
     mike.say "Ну да... я бы на твоём месте особо не ждал!"
 
 # ch/harmony/chat.rpy:502
@@ -2577,7 +2577,7 @@ translate russian harmony_love_5_male_f3029809:
     mike.say "Очень надеюсь, что оно придёт скоро, Хармони."
 
 # ch/harmony/chat.rpy:509
-translate russian harmony_love_5_male_aa4c0ce6:
+translate russian harmony_love_5_male_174557c7:
     mike.say "Эм... возможно, оно придёт как раз после дождичка в четверг!"
 
 # ch/harmony/chat.rpy:513
@@ -2617,7 +2617,7 @@ translate russian harmony_love_5_male_eb6add34:
     mike.say "А у меня полная голова идей о том, как тобой пользоваться!"
 
 # ch/harmony/chat.rpy:527
-translate russian harmony_love_5_male_187f77a5:
+translate russian harmony_love_5_male_8a8a0b44:
     mike.say "Уф... Ты и правда опустилась ещё ниже, да?"
 
 # ch/harmony/chat.rpy:528
@@ -2733,7 +2733,7 @@ translate russian harmony_good_sweet_talk_male_9576ef25:
     harmony.say "Лесть — тоже искушение, знаешь ли. А искушение привело к первородному греху!"
 
 # ch/harmony/chat.rpy:586
-translate russian harmony_good_sweet_talk_male_d5b3737c:
+translate russian harmony_good_sweet_talk_male_9183609b:
     harmony.say "Тс-с... Нас могут услышать!"
 
 # ch/harmony/chat.rpy:587
@@ -2797,7 +2797,7 @@ translate russian harmony_bad_sweet_talk_male_84323405:
     harmony.say "Моя вера — самое истинное во мне, и я не позволю тебе над ней насмехаться!"
 
 # ch/harmony/chat.rpy:614
-translate russian harmony_bad_sweet_talk_male_75a7f64e:
+translate russian harmony_bad_sweet_talk_male_f4f58c0b:
     mike.say "Эм, нет... не совсем!"
 
 # ch/harmony/chat.rpy:617
@@ -2813,11 +2813,11 @@ translate russian harmony_bad_sweet_talk_male_09520c79_1:
     harmony.say "Лгуньей?!"
 
 # ch/harmony/chat.rpy:620
-translate russian harmony_bad_sweet_talk_male_75a7f64e_1:
+translate russian harmony_bad_sweet_talk_male_f4f58c0b_1:
     mike.say "Эм, нет... не совсем!"
 
 # ch/harmony/chat.rpy:623
-translate russian harmony_bad_sweet_talk_male_6bc2f8dc:
+translate russian harmony_bad_sweet_talk_male_df155e51:
     harmony.say "Это... это несправедливо, [lssb_harmony.hero_name()]."
 
 # ch/harmony/chat.rpy:624
@@ -2837,7 +2837,7 @@ translate russian harmony_bad_sweet_talk_male_df1b210e:
     harmony.say "Я всё ещё верю, правда. Но иногда по вечерам встаю на колени совсем не ради молитвы."
 
 # ch/harmony/chat.rpy:630
-translate russian harmony_bad_sweet_talk_male_a156cc25:
+translate russian harmony_bad_sweet_talk_male_00b48c26:
     mike.say "Так-так... Кто-то наконец заговорил честно."
 
 # ch/harmony/chat.rpy:634
@@ -2889,7 +2889,7 @@ translate russian harmony_use_condom_8c8cc1c7:
     "Поэтому я прерываюсь и беру презерватив из стопки на прикроватном столике."
 
 # ch/harmony/condom.rpy:16
-translate russian harmony_use_condom_73e2f121:
+translate russian harmony_use_condom_c1ecbf9d:
     harmony.say "Ох... боже мой. Так вот как они выглядят вблизи."
 
 # ch/harmony/condom.rpy:17
@@ -2897,7 +2897,7 @@ translate russian harmony_use_condom_ca63275f:
     harmony.say "Благослови тебя Бог за такую заботу, [lssb_harmony.hero_name()]. Ребёнок вне брака был бы ужасным грехом."
 
 # ch/harmony/condom.rpy:19
-translate russian harmony_use_condom_70e95cbc:
+translate russian harmony_use_condom_848e766b:
     harmony.say "Да... да, стоит проявить благоразумие, [lssb_harmony.hero_name()]."
 
 # ch/harmony/condom.rpy:20
@@ -2909,7 +2909,7 @@ translate russian harmony_use_condom_66de73c0:
     "Хармони прикусывает губу, и на миг, клянусь, выглядит почти разочарованной."
 
 # ch/harmony/condom.rpy:23
-translate russian harmony_use_condom_700e5773:
+translate russian harmony_use_condom_6542549d:
     harmony.say "Это... наверное, разумно, [lssb_harmony.hero_name()]. Прости меня, Господи, за то, что я даже колебалась."
 
 # ch/harmony/condom.rpy:25
@@ -3013,7 +3013,7 @@ translate russian harmony_intro_condom_dea941b3:
     harmony.say "Боже мой. Это правда происходит, [lssb_harmony.hero_name()]? Не верится, что я на такое решилась."
 
 # ch/harmony/condom.rpy:65
-translate russian harmony_intro_condom_6c4728bb:
+translate russian harmony_intro_condom_e9e7b00c:
     harmony.say "Будь нежным и не забудь... о мерах предосторожности. Я даже смотреть боюсь."
 
 # ch/harmony/condom.rpy:67
@@ -3081,7 +3081,7 @@ translate russian harmony_warn_condom_7d3445d1:
     harmony.say "Только если ты хочешь, [lssb_harmony.hero_name()]. Я приму всё, что ты решишь мне дать."
 
 # ch/harmony/condom.rpy:97
-translate russian harmony_warn_condom_12f98c8c:
+translate russian harmony_warn_condom_c15baa98:
     harmony.say "Можно просто... обойтись без него, [lssb_harmony.hero_name()]. Я совсем не буду против."
 
 # ch/harmony/condom.rpy:101
@@ -3181,7 +3181,7 @@ translate russian harmony_mad_condom_d6b6cff9:
     harmony.say "Прости меня, Боже, но я не смогла заставить себя остановить тебя."
 
 # ch/harmony/condom.rpy:138
-translate russian harmony_mad_condom_2af3dfa1:
+translate russian harmony_mad_condom_391d5340:
     harmony.say "Просто... будь бережен с моим сердцем, ладно? Я не готова к возможным последствиям."
 
 # ch/harmony/condom.rpy:141
@@ -3193,7 +3193,7 @@ translate russian harmony_mad_condom_627b6378:
     harmony.say "Наполняй меня сколько захочешь. Это Божий замысел, и я так рада ему подчиниться."
 
 # ch/harmony/condom.rpy:144
-translate russian harmony_mad_condom_0c2eddfa:
+translate russian harmony_mad_condom_dc12186f:
     harmony.say "М-м-м... Никаких преград, [lssb_harmony.hero_name()]. Именно так, как я хотела."
 
 # ch/harmony/condom.rpy:145
@@ -3213,7 +3213,7 @@ translate russian harmony_date_intro_valentine_male_ad4a6ae8:
     mike.say "Ведь лучшую возлюбленную невозможно и представить!"
 
 # ch/harmony/date.rpy:7
-translate russian harmony_date_intro_valentine_male_41c26bb4:
+translate russian harmony_date_intro_valentine_male_869ae2c5:
     harmony.say "О-о... Как мило, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/date.rpy:10
@@ -3357,7 +3357,7 @@ translate russian harmony_date_intro_birthday_male_4e953cd1:
     harmony.say "Давай вместе хорошо и благопристойно повеселимся."
 
 # ch/harmony/date.rpy:75
-translate russian harmony_date_intro_birthday_male_37735afc:
+translate russian harmony_date_intro_birthday_male_7ede7cdb:
     harmony.say "О-о... Звучит ТАК интригующе!"
 
 # ch/harmony/date.rpy:77
@@ -3389,7 +3389,7 @@ translate russian harmony_date_intro_mc_birthday_male_ad5daa08:
     harmony.say "С днём рождения, [lssb_harmony.hero_name()]..."
 
 # ch/harmony/date.rpy:91
-translate russian harmony_date_intro_mc_birthday_male_1bffff50:
+translate russian harmony_date_intro_mc_birthday_male_69977882:
     harmony.say "Я молилась, чтобы придумать что-нибудь особенное. Некоторые идеи были, ну... не слишком святыми."
 
 # ch/harmony/date.rpy:93
@@ -3409,7 +3409,7 @@ translate russian harmony_date_intro_mc_birthday_male_b2714510:
     harmony.say "Но сперва я хотела поздравить тебя с днём рождения!"
 
 # ch/harmony/date.rpy:99
-translate russian harmony_date_intro_mc_birthday_male_9df9cb71:
+translate russian harmony_date_intro_mc_birthday_male_d625995d:
     mike.say "О-о... Спасибо, Хармони!"
 
 # ch/harmony/date.rpy:100
@@ -3717,7 +3717,7 @@ translate russian harmony_date_play_arcade_intro_male_60d51da0:
     harmony.say "Ох, [lssb_harmony.hero_name()], по-моему, мне совсем не место в таком заведении."
 
 # ch/harmony/date.rpy:239
-translate russian harmony_date_play_arcade_intro_male_badafa4e:
+translate russian harmony_date_play_arcade_intro_male_5e8f39e0:
     harmony.say "Все эти мигающие огни и жестокие игры... Настоящее логово искушения!"
 
 # ch/harmony/date.rpy:241
@@ -3809,7 +3809,7 @@ translate russian harmony_date_play_arcade_intro_male_468f58ce:
     harmony.say "Похотливые прислужники дьявола?!"
 
 # ch/harmony/date.rpy:267
-translate russian harmony_date_play_arcade_intro_male_1a6831e8:
+translate russian harmony_date_play_arcade_intro_male_e13c8e35:
     harmony.say "Уф... вампиры?"
 
 # ch/harmony/date.rpy:268
@@ -3905,7 +3905,7 @@ translate russian harmony_date_play_arcade_win_male_75088692:
     "И счёт это отражает."
 
 # ch/harmony/date.rpy:297
-translate russian harmony_date_play_arcade_win_male_8cc136d9:
+translate russian harmony_date_play_arcade_win_male_a9e9acb5:
     mike.say "Эм... Можешь открыть глаза, Хармони."
 
 # ch/harmony/date.rpy:298
@@ -3921,7 +3921,7 @@ translate russian harmony_date_play_arcade_win_male_098079c2:
     mike.say "Обещаю, Хармони."
 
 # ch/harmony/date.rpy:301
-translate russian harmony_date_play_arcade_win_male_aaf3cd6a:
+translate russian harmony_date_play_arcade_win_male_1be3cf40:
     harmony.say "Тогда... можно уйти?"
 
 # ch/harmony/date.rpy:302
@@ -3981,7 +3981,7 @@ translate russian harmony_date_play_arcade_lose_male_2398bc51:
     "К концу игры она оставляет меня далеко позади."
 
 # ch/harmony/date.rpy:319
-translate russian harmony_date_play_arcade_lose_male_5160b305:
+translate russian harmony_date_play_arcade_lose_male_777578d3:
     mike.say "Эм... Можешь больше не стрелять, Хармони."
 
 # ch/harmony/date.rpy:320
@@ -3997,7 +3997,7 @@ translate russian harmony_date_play_arcade_lose_male_0e4743cf:
     harmony.say "А мне было так весело!"
 
 # ch/harmony/date.rpy:323
-translate russian harmony_date_play_arcade_lose_male_40d3464f:
+translate russian harmony_date_play_arcade_lose_male_efabb733:
     harmony.say "Значит... теперь нужно уходить?"
 
 # ch/harmony/date.rpy:324
@@ -4017,15 +4017,15 @@ translate russian harmony_dick_reactions_9485e22f:
     harmony.say "Никогда не думала, что он может быть ТАКИМ большим!"
 
 # ch/harmony/date.rpy:335
-translate russian harmony_dick_reactions_5fcc4702:
+translate russian harmony_dick_reactions_6621b220:
     mike.say "Ха... да... Пожалуй, великоват!"
 
 # ch/harmony/date.rpy:336
-translate russian harmony_dick_reactions_aac169ec:
+translate russian harmony_dick_reactions_3c985d33:
     harmony.say "Н... но всё равно это часть Божьего чуда."
 
 # ch/harmony/date.rpy:338
-translate russian harmony_dick_reactions_f1a62710:
+translate russian harmony_dick_reactions_5ca9431c:
     harmony.say "А значит, я... должна быть за него благодарна..."
 
 # ch/harmony/date.rpy:343
@@ -4045,7 +4045,7 @@ translate russian harmony_dick_reactions_589d8f6c:
     harmony.say "Будто Бог сотворил маленькое произведение искусства!"
 
 # ch/harmony/date.rpy:347
-translate russian harmony_dick_reactions_55070bb8:
+translate russian harmony_dick_reactions_5dd3968f:
     mike.say "Спасибо... наверное..."
 
 # ch/harmony/date.rpy:354
@@ -4177,11 +4177,11 @@ translate russian harmony_halloween_invitation_0649abb3:
     "Хармони выглядит немного неловко, может, даже смущённо."
 
 # ch/harmony/date.rpy:398
-translate russian harmony_halloween_invitation_93cb2d01:
+translate russian harmony_halloween_invitation_4374aba0:
     harmony.say "Я... думаю, мне бы хотелось, [lssb_harmony.hero_name()]."
 
 # ch/harmony/date.rpy:399
-translate russian harmony_halloween_invitation_3884995f:
+translate russian harmony_halloween_invitation_6d319568:
     harmony.say "Просто... ну..."
 
 # ch/harmony/date.rpy:400
@@ -4269,7 +4269,7 @@ translate russian harmony_halloween_invitation_f1d8a63c:
     mike.say "Эм..."
 
 # ch/harmony/date.rpy:433
-translate russian harmony_halloween_invitation_2866e6cc:
+translate russian harmony_halloween_invitation_7ae25b5c:
     mike.say "Я... насчёт всего этого не знаю, Хармони!"
 
 # ch/harmony/date.rpy:434
@@ -4349,7 +4349,7 @@ translate russian harmony_halloween_invitation_bba2276a:
     harmony.say "Разве ты не знаешь, что в эту ночь Сатана и его демоны бродят по земле?!"
 
 # ch/harmony/date.rpy:469
-translate russian harmony_halloween_invitation_925e3726:
+translate russian harmony_halloween_invitation_5e32fefb:
     mike.say "Н... н... но, Хармони!"
 
 # ch/harmony/date.rpy:470
@@ -4365,7 +4365,7 @@ translate russian harmony_halloween_invitation_bac079e7:
     harmony.say "Я буду делать то же, что и всегда в эту ночь."
 
 # ch/harmony/date.rpy:476
-translate russian harmony_halloween_invitation_4488a154:
+translate russian harmony_halloween_invitation_af9bde13:
     mike.say "И что же... именно?"
 
 # ch/harmony/date.rpy:478
@@ -4377,7 +4377,7 @@ translate russian harmony_halloween_invitation_2b8b97b3:
     harmony.say "И тебе стоит присоединиться."
 
 # ch/harmony/date.rpy:481
-translate russian harmony_halloween_invitation_cb835b14:
+translate russian harmony_halloween_invitation_0ac149dd:
     mike.say "Эм... Я ещё дам знать, Хармони."
 
 # ch/harmony/date.rpy:482
@@ -4405,7 +4405,7 @@ translate russian harmony_halloween_arrival_9f933d60:
     mike.say "М-м-х..."
 
 # ch/harmony/date.rpy:494
-translate russian harmony_halloween_arrival_ab95d724:
+translate russian harmony_halloween_arrival_c6a09a70:
     mike.say "Не могу... дышать!"
 
 # ch/harmony/date.rpy:496
@@ -4437,7 +4437,7 @@ translate russian harmony_halloween_arrival_19d2885a:
     "Волосы выкрашены в рыжий и зачёсаны набок, закрывая один из ярко накрашенных глаз."
 
 # ch/harmony/date.rpy:506
-translate russian harmony_halloween_arrival_4dd63520:
+translate russian harmony_halloween_arrival_cd8aaa1d:
     mike.say "Д... Джессика..."
 
 # ch/harmony/date.rpy:507
@@ -4449,7 +4449,7 @@ translate russian harmony_halloween_arrival_edda5f6b:
     harmony.say "Что скажешь, [lssb_harmony.hero_name()]?"
 
 # ch/harmony/date.rpy:510
-translate russian harmony_halloween_arrival_f6386978:
+translate russian harmony_halloween_arrival_4ee4e1dc:
     harmony.say "Я не плохая... Просто так одета!"
 
 # ch/harmony/date.rpy:512
@@ -4473,7 +4473,7 @@ translate russian harmony_halloween_arrival_1cfb6619:
     harmony.say "Не буду врать: какая-то часть меня ужасно боялась выйти из дома в таком виде."
 
 # ch/harmony/date.rpy:519
-translate russian harmony_halloween_arrival_69e88203:
+translate russian harmony_halloween_arrival_a304db2e:
     harmony.say "А другой части... очень нравится, как все провожают меня глазами. Помоги мне, Боже."
 
 # ch/harmony/date.rpy:521
@@ -4505,11 +4505,11 @@ translate russian harmony_halloween_arrival_ba7f7e02:
     mike.say "Ого..."
 
 # ch/harmony/date.rpy:534
-translate russian harmony_halloween_arrival_70f39399:
+translate russian harmony_halloween_arrival_07ff4e4a:
     mike.say "Хармони... ты выглядишь..."
 
 # ch/harmony/date.rpy:535
-translate russian harmony_halloween_arrival_d22245f8:
+translate russian harmony_halloween_arrival_111d2b54:
     mike.say "Потрясающе... Ты выглядишь потрясающе!"
 
 # ch/harmony/date.rpy:538
@@ -4533,7 +4533,7 @@ translate russian harmony_halloween_arrival_46a9b76e:
     "Хочу немедленно снова уткнуться головой ей в грудь!"
 
 # ch/harmony/date.rpy:545
-translate russian harmony_halloween_arrival_e9584bfc:
+translate russian harmony_halloween_arrival_23e6ac6c:
     mike.say "Д... да, Хармони."
 
 # ch/harmony/date.rpy:546
@@ -4541,7 +4541,7 @@ translate russian harmony_halloween_arrival_a2790df3:
     mike.say "Я в восторге."
 
 # ch/harmony/date.rpy:548
-translate russian harmony_halloween_arrival_048b6592:
+translate russian harmony_halloween_arrival_ced37ed1:
     harmony.say "Отлично... просто отлично."
 
 # ch/harmony/date.rpy:549
@@ -4561,7 +4561,7 @@ translate russian harmony_halloween_arrival_3399263d:
     "Наконец мне удаётся прийти в себя."
 
 # ch/harmony/date.rpy:554
-translate russian harmony_halloween_arrival_dc419c74:
+translate russian harmony_halloween_arrival_167ac53f:
     mike.say "Ох... да..."
 
 # ch/harmony/date.rpy:555
@@ -4645,7 +4645,7 @@ translate russian harmony_halloween_arrival_1ed212cc:
     mike.say "То есть нет..."
 
 # ch/harmony/date.rpy:583
-translate russian harmony_halloween_arrival_462735b0:
+translate russian harmony_halloween_arrival_9e12cd2e:
     mike.say "Эм... поговорим потом."
 
 # ch/harmony/date.rpy:584
@@ -4665,7 +4665,7 @@ translate russian harmony_halloween_party_c9a54709:
     harmony.say "Ох! Боже мой..."
 
 # ch/harmony/date.rpy:600
-translate russian harmony_halloween_party_6a197602:
+translate russian harmony_halloween_party_30fa8594:
     harmony.say "Я... не знаю, куда смотреть. Прошу прощения!"
 
 # ch/harmony/date.rpy:601
@@ -4757,7 +4757,7 @@ translate russian harmony_halloween_party_92ed3fb2:
     mike.say "А, Скотти?"
 
 # ch/harmony/date.rpy:633
-translate russian harmony_halloween_party_6d16f660:
+translate russian harmony_halloween_party_bcc8bf25:
     scottie.say "Д... да, чувак!"
 
 # ch/harmony/date.rpy:635
@@ -4781,7 +4781,7 @@ translate russian harmony_halloween_party_4920f443:
     "А Скотти встряхивается, словно только что очнулся."
 
 # ch/harmony/date.rpy:643
-translate russian harmony_halloween_party_af219e8c:
+translate russian harmony_halloween_party_6a67bbe6:
     scottie.say "Эм... ага..."
 
 # ch/harmony/date.rpy:644
@@ -4821,7 +4821,7 @@ translate russian harmony_halloween_party_4920f443_1:
     "А Скотти встряхивается, словно только что очнулся."
 
 # ch/harmony/date.rpy:658
-translate russian harmony_halloween_party_af219e8c_1:
+translate russian harmony_halloween_party_6a67bbe6_1:
     scottie.say "Эм... ага..."
 
 # ch/harmony/date.rpy:659
@@ -5089,7 +5089,7 @@ translate russian harmony_halloween_sex_bccb6b29:
     mike.say "Наверху, слева."
 
 # ch/harmony/date.rpy:770
-translate russian harmony_halloween_sex_4efd274d:
+translate russian harmony_halloween_sex_80f40ddb:
     mike.say "Ты... ты хочешь спать?!"
 
 # ch/harmony/date.rpy:772
@@ -5129,7 +5129,7 @@ translate russian harmony_halloween_sex_3cb7e516:
     "Хармони кивает."
 
 # ch/harmony/date.rpy:783
-translate russian harmony_halloween_sex_dfc790ec:
+translate russian harmony_halloween_sex_7c0b3f0f:
     mike.say "Но... почему бы нам не пойти в мою постель?"
 
 # ch/harmony/date.rpy:784
@@ -5425,7 +5425,7 @@ translate russian harmony_event_03_eb7acdc2:
     "Мне остаётся лишь беспомощно и довольно жалко пожать плечами."
 
 # ch/harmony/events.rpy:851
-translate russian harmony_event_03_3d6a1608:
+translate russian harmony_event_03_1654d3a3:
     mike.say "А... прости, Хармони."
 
 # ch/harmony/events.rpy:852
@@ -5581,7 +5581,7 @@ translate russian harmony_event_03_dc5f6af7:
     "Теперь я в этом уже не так уверен..."
 
 # ch/harmony/events.rpy:904
-translate russian harmony_event_03_74cdc08e:
+translate russian harmony_event_03_c87613d3:
     mike.say "Эм, Хармони... У меня есть вопросы."
 
 # ch/harmony/events.rpy:906
@@ -5589,7 +5589,7 @@ translate russian harmony_event_03_a9279f8c:
     "Она улыбается и кивает, предлагая мне поделиться тем, что меня волнует."
 
 # ch/harmony/events.rpy:907
-translate russian harmony_event_03_71e815d7:
+translate russian harmony_event_03_1669ac12:
     mike.say "Ладно... Для начала: зачем Бог положил прямо перед людьми плоды, которые им нельзя есть?"
 
 # ch/harmony/events.rpy:909
@@ -5601,7 +5601,7 @@ translate russian harmony_event_03_3719170a:
     mike.say "Но разве не змея это сделала?"
 
 # ch/harmony/events.rpy:913
-translate russian harmony_event_03_00738771:
+translate russian harmony_event_03_c0f53184:
     harmony.say "Нет-нет... Змей их искушал."
 
 # ch/harmony/events.rpy:915
@@ -5617,7 +5617,7 @@ translate russian harmony_event_03_f776429e:
     mike.say "Значит, Бог хотел, чтобы змея их искушала, верно?"
 
 # ch/harmony/events.rpy:921
-translate russian harmony_event_03_985a595a:
+translate russian harmony_event_03_0b13a30a:
     harmony.say "Это был змей... И нет, по-моему, в истории совсем не об этом!"
 
 # ch/harmony/events.rpy:923
@@ -5633,11 +5633,11 @@ translate russian harmony_event_03_96231eb8:
     "Улыбка Хармони становится всё более натянутой, а взгляд от моих вопросов почти стекленеет."
 
 # ch/harmony/events.rpy:929
-translate russian harmony_event_03_48004419:
+translate russian harmony_event_03_9866c471:
     harmony.say "Я... Мне кажется, мы рискуем отвлечься от главного, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/events.rpy:930
-translate russian harmony_event_03_783da2fb:
+translate russian harmony_event_03_ce3e5602:
     harmony.say "Может... пока на этом остановимся?"
 
 # ch/harmony/events.rpy:931
@@ -5717,7 +5717,7 @@ translate russian harmony_event_04_bde72262:
     harmony.say "Я подумала, сегодня можно немного забежать вперёд. Ты не против?"
 
 # ch/harmony/events.rpy:963
-translate russian harmony_event_04_1b6785f9:
+translate russian harmony_event_04_673ca334:
     mike.say "Эм, ладно... Наверное, нет, Хармони."
 
 # ch/harmony/events.rpy:965
@@ -5769,7 +5769,7 @@ translate russian harmony_event_04_31b4fe23:
     "Кто знает, может, я и правда начинаю разбираться в изучении Библии?"
 
 # ch/harmony/events.rpy:983
-translate russian harmony_event_04_1817ba60:
+translate russian harmony_event_04_4a90d026:
     mike.say "Ну... ведь смысл не в том, чтобы ходить и убивать здоровяков в доспехах?"
 
 # ch/harmony/events.rpy:985
@@ -5805,7 +5805,7 @@ translate russian harmony_event_04_ecc7600c:
     mike.say "Я ведь в каком-то смысле похож на Давида?"
 
 # ch/harmony/events.rpy:995
-translate russian harmony_event_04_b34ce5cd:
+translate russian harmony_event_04_faf195af:
     mike.say "А моя... эм... моя проблема..."
 
 # ch/harmony/events.rpy:996
@@ -5813,7 +5813,7 @@ translate russian harmony_event_04_b403a4e9:
     "Я замолкаю и киваю вниз, примерно в сторону паха."
 
 # ch/harmony/events.rpy:997
-translate russian harmony_event_04_2bf31c5d:
+translate russian harmony_event_04_e7da796e:
     mike.say "Это вроде как мой собственный Голиаф... да?"
 
 # ch/harmony/events.rpy:998
@@ -5861,11 +5861,11 @@ translate russian harmony_event_04_a251ba19:
     "Хармони открывает рот, собираясь что-то сказать, но затем лишь качает головой в явном изумлении."
 
 # ch/harmony/events.rpy:1015
-translate russian harmony_event_04_1a84924b:
+translate russian harmony_event_04_3cd914b0:
     harmony.say "М... мудаком?"
 
 # ch/harmony/events.rpy:1016
-translate russian harmony_event_04_861c2c0d:
+translate russian harmony_event_04_41d42890:
     harmony.say "Я... я не понимаю..."
 
 # ch/harmony/events.rpy:1018
@@ -5893,11 +5893,11 @@ translate russian harmony_event_04_69b2aa9f:
     "Хармони подносит руку к губам и выглядит так, будто её мозг с трудом переваривает мои слова."
 
 # ch/harmony/events.rpy:1024
-translate russian harmony_event_04_0d56335e:
+translate russian harmony_event_04_675705e9:
     mike.say "То есть урок в том... в чём? Что быть мудаком — хорошо?"
 
 # ch/harmony/events.rpy:1027
-translate russian harmony_event_04_90f24dcf:
+translate russian harmony_event_04_c68c9338:
     harmony.say "Я... я никогда не смотрела на это с такой стороны."
 
 # ch/harmony/events.rpy:1028
@@ -5993,7 +5993,7 @@ translate russian harmony_event_04_7dd5b687:
     mike.say "Ну, ставим под сомнение свои убеждения и узнаём о себе что-то новое!"
 
 # ch/harmony/events.rpy:1061
-translate russian harmony_event_04_e013243b:
+translate russian harmony_event_04_cfa8869f:
     harmony.say "Эм... да... наверное..."
 
 # ch/harmony/events.rpy:1062
@@ -6045,7 +6045,7 @@ translate russian harmony_event_05_c633af0c:
     mike.say "Ты в порядке?"
 
 # ch/harmony/events.rpy:1083
-translate russian harmony_event_05_f946400f:
+translate russian harmony_event_05_8dc7242e:
     mike.say "Ты выглядишь немного... ну, напряжённой."
 
 # ch/harmony/events.rpy:1085
@@ -6109,7 +6109,7 @@ translate russian harmony_event_05_04a483ca:
     harmony.say "Точнее, к твоим, [lssb_harmony.hero_name()]."
 
 # ch/harmony/events.rpy:1108
-translate russian harmony_event_05_87bb14a5:
+translate russian harmony_event_05_0a301741:
     "А... Надо было догадаться, что рано или поздно речь зайдёт об этом."
 
 # ch/harmony/events.rpy:1109
@@ -6137,7 +6137,7 @@ translate russian harmony_event_05_e2ab8668:
     "Так вот почему я почувствовал напряжение, едва войдя в комнату?"
 
 # ch/harmony/events.rpy:1118
-translate russian harmony_event_05_bfd6c20e:
+translate russian harmony_event_05_1f2c4ff7:
     harmony.say "Ты должен понимать: то, чем ты... занимался, не просто мерзко."
 
 # ch/harmony/events.rpy:1119
@@ -6149,7 +6149,7 @@ translate russian harmony_event_05_8f1ba151:
     "Мне остаётся лишь пожать плечами и робко ответить."
 
 # ch/harmony/events.rpy:1122
-translate russian harmony_event_05_3c64a355:
+translate russian harmony_event_05_a137dc9b:
     mike.say "Я... наверное, да."
 
 # ch/harmony/events.rpy:1124
@@ -6177,7 +6177,7 @@ translate russian harmony_event_05_7f9d0ea9:
     "То в её голосе появляется что-то мрачное и виноватое, когда она задерживается на подробностях греха."
 
 # ch/harmony/events.rpy:1131
-translate russian harmony_event_05_bbcc2033:
+translate russian harmony_event_05_f342b18c:
     mike.say "А если кто-то хочет... ну, заняться сексом без беременности?"
 
 # ch/harmony/events.rpy:1132
@@ -6213,7 +6213,7 @@ translate russian harmony_event_05_3e103042:
     harmony.say "Нет ничего плохого в том, чтобы мужчина и женщина славили Господа своими телами, [lssb_harmony.hero_name()]."
 
 # ch/harmony/events.rpy:1146
-translate russian harmony_event_05_f4d9c56b:
+translate russian harmony_event_05_8cccd7db:
     harmony.say "Если они делают это в священных узах брака и не переходят к... ну, странным и богопротивным вещам."
 
 # ch/harmony/events.rpy:1147
@@ -6261,7 +6261,7 @@ translate russian harmony_event_05_c293fe51:
     mike.say "Прости, Хармони, но меня это совсем не убеждает!"
 
 # ch/harmony/events.rpy:1166
-translate russian harmony_event_05_1a2fae7c:
+translate russian harmony_event_05_f187c712:
     harmony.say "Я... ч... что ты сказал?"
 
 # ch/harmony/events.rpy:1167
@@ -6329,7 +6329,7 @@ translate russian harmony_event_05_e914a51a:
     "Мои слова явно её задевают, иначе она бы уже читала мне проповедь или хотя бы возражала."
 
 # ch/harmony/events.rpy:1190
-translate russian harmony_event_05_321874f2:
+translate russian harmony_event_05_1e65438b:
     harmony.say "Нет, это... это порочно!"
 
 # ch/harmony/events.rpy:1192
@@ -6337,7 +6337,7 @@ translate russian harmony_event_05_e8cdc803:
     mike.say "Вот взять то, чем я занимался в свободной комнате, Хармони."
 
 # ch/harmony/events.rpy:1194
-translate russian harmony_event_05_25cae7b2:
+translate russian harmony_event_05_3635635e:
     harmony.say "[lssb_harmony.hero_name()], прошу... не надо!"
 
 # ch/harmony/events.rpy:1196
@@ -6353,7 +6353,7 @@ translate russian harmony_event_05_572dda2f:
     mike.say "Так что я в каком-то смысле восхвалял Его творение, как мы это делаем в церкви..."
 
 # ch/harmony/events.rpy:1200
-translate russian harmony_event_05_dfe041cb:
+translate russian harmony_event_05_26ae3b5a:
     harmony.say "[lssb_harmony.hero_name()], прекрати... пожалуйста!"
 
 # ch/harmony/events.rpy:1202
@@ -6441,7 +6441,7 @@ translate russian harmony_event_06_e2544954:
     harmony.say "Прости, что у нас не получилось позаниматься у тебя."
 
 # ch/harmony/events.rpy:1232
-translate russian harmony_event_06_814e4c62:
+translate russian harmony_event_06_55ca01b6:
     harmony.say "Уверена, у тебя очень... мило."
 
 # ch/harmony/events.rpy:1234
@@ -6453,11 +6453,11 @@ translate russian harmony_event_06_3281fc6b:
     "Думала, я живу в какой-нибудь захваченной развалюхе в плохом районе?!"
 
 # ch/harmony/events.rpy:1236
-translate russian harmony_event_06_a7d5c2ac:
+translate russian harmony_event_06_4cd04c63:
     "Нет... нет, совсем не это. Просто невинное замечание, и ничего больше."
 
 # ch/harmony/events.rpy:1237
-translate russian harmony_event_06_6c3fae34:
+translate russian harmony_event_06_2fff5522:
     mike.say "А... спасибо, Хармони."
 
 # ch/harmony/events.rpy:1238
@@ -6469,7 +6469,7 @@ translate russian harmony_event_06_f3ec9d5f:
     "При упоминании [bree.name] и Саши по лицу Хармони пробегает явное неодобрение."
 
 # ch/harmony/events.rpy:1242
-translate russian harmony_event_06_73516587:
+translate russian harmony_event_06_55b5f070:
     harmony.say "Ах да, помню, ты о них говорил. [bree.name] и... Саша, верно?"
 
 # ch/harmony/events.rpy:1244
@@ -7565,7 +7565,7 @@ translate russian harmony_event_10_5c6458b1:
     "Она громко смеётся и уходит, с явным отвращением качая головой."
 
 # ch/harmony/events.rpy:1699
-translate russian harmony_event_10_a1612434:
+translate russian harmony_event_10_b08a85b8:
     harmony.say "О-о... сколько белого!"
 
 # ch/harmony/events.rpy:1700
@@ -7709,7 +7709,7 @@ translate russian harmony_event_10_45197674:
     "Я смотрю на откровенное бельё, а затем на великолепную фигуру Хармони."
 
 # ch/harmony/events.rpy:1752
-translate russian harmony_event_10_59869e7f:
+translate russian harmony_event_10_a29e607e:
     mike.say "Я... не знаю, Хармони..."
 
 # ch/harmony/events.rpy:1753
@@ -7733,7 +7733,7 @@ translate russian harmony_event_10_a22591fe:
     "С этими словами она хватает меня за руку и уводит от магазина белья."
 
 # ch/harmony/events.rpy:1764
-translate russian harmony_event_10_ba47963d:
+translate russian harmony_event_10_567092d4:
     harmony.say "Ух ты... Я ОЧЕНЬ даже представляю себя в чём-нибудь таком."
 
 # ch/harmony/events.rpy:1765
@@ -7769,7 +7769,7 @@ translate russian harmony_event_10_3a0caa14:
     harmony.say "Может, сделаем всё ещё интереснее?"
 
 # ch/harmony/events.rpy:1774
-translate russian harmony_event_10_3bb31692:
+translate russian harmony_event_10_3d2c2a41:
     harmony.say "Добавим кожи... а может, даже латекса?"
 
 # ch/harmony/events.rpy:1775
@@ -7801,7 +7801,7 @@ translate russian harmony_event_10_105a5b62:
     "Вдруг она немного смущается и опускает взгляд на себя."
 
 # ch/harmony/events.rpy:1789
-translate russian harmony_event_10_3e7b285c:
+translate russian harmony_event_10_57595b04:
     harmony.say "Ну... иногда больших размеров у них нет..."
 
 # ch/harmony/events.rpy:1791
@@ -7821,7 +7821,7 @@ translate russian harmony_event_10_6a9ed5a8:
     "Одной многозначительной улыбки Хармони хватает, чтобы мой член встал в рекордные сроки."
 
 # ch/harmony/events.rpy:1797
-translate russian harmony_event_10_d3746b05:
+translate russian harmony_event_10_51a0ecc6:
     mike.say "Мы... мы могли бы... спросить..."
 
 # ch/harmony/events.rpy:1798
@@ -7841,7 +7841,7 @@ translate russian harmony_event_10_5f82cb50:
     harmony.say "До знакомства с тобой такое меня бы жутко разозлило."
 
 # ch/harmony/events.rpy:1806
-translate russian harmony_event_10_1f728c36:
+translate russian harmony_event_10_1ae6dd12:
     harmony.say "А теперь... ну, я уже не вижу в этом ничего особенного!"
 
 # ch/harmony/events.rpy:1808
@@ -7949,7 +7949,7 @@ translate russian harmony_event_02_slutty_a36f249c:
     "Я разглядываю каждый изгиб её тела и чуть не забываю поздороваться!"
 
 # ch/harmony/events.rpy:1880
-translate russian harmony_event_02_slutty_030e40a2:
+translate russian harmony_event_02_slutty_070283d6:
     mike.say "П... привет, Хармони!"
 
 # ch/harmony/events.rpy:1881
@@ -8041,7 +8041,7 @@ translate russian harmony_event_02_slutty_1dffce62:
     "Мне даже трудно смотреть Хармони в глаза."
 
 # ch/harmony/events.rpy:1916
-translate russian harmony_event_02_slutty_37a57905:
+translate russian harmony_event_02_slutty_8c6433a4:
     mike.say "Я... просто хотел, чтобы тебе было приятно, Хармони."
 
 # ch/harmony/events.rpy:1917
@@ -8057,7 +8057,7 @@ translate russian harmony_event_02_slutty_5c5a9454:
     harmony.say "Хочешь сказать, мы весь вечер будем вдвоём?"
 
 # ch/harmony/events.rpy:1923
-translate russian harmony_event_02_slutty_105b4305:
+translate russian harmony_event_02_slutty_8b6d8ff8:
     mike.say "Эм... да."
 
 # ch/harmony/events.rpy:1926
@@ -8233,7 +8233,7 @@ translate russian harmony_event_02_slutty_be9997ce:
     harmony.say "Мне нужно домой!"
 
 # ch/harmony/events.rpy:1988
-translate russian harmony_event_02_slutty_5e0ffc47:
+translate russian harmony_event_02_slutty_a23965ca:
     mike.say "Эм... может, скоро повторим?"
 
 # ch/harmony/events.rpy:1989
@@ -8441,7 +8441,7 @@ translate russian harmony_event_02_slutty_be9997ce_1:
     harmony.say "Мне нужно домой!"
 
 # ch/harmony/events.rpy:2081
-translate russian harmony_event_02_slutty_5e0ffc47_1:
+translate russian harmony_event_02_slutty_a23965ca_1:
     mike.say "Эм... может, скоро повторим?"
 
 # ch/harmony/events.rpy:2082
@@ -8473,7 +8473,7 @@ translate russian harmony_event_02_slutty_83184daf:
     sasha.say "Ага, и сама она горячая штучка!"
 
 # ch/harmony/events.rpy:2098
-translate russian harmony_event_02_slutty_1fa684d5:
+translate russian harmony_event_02_slutty_09028702:
     mike.say "Ну... я-то уж точно так считаю!"
 
 # ch/harmony/events.rpy:2099
@@ -8529,7 +8529,7 @@ translate russian harmony_event_02_slutty_alt_a36f249c:
     "Я разглядываю каждый изгиб её тела и чуть не забываю поздороваться!"
 
 # ch/harmony/events.rpy:2122
-translate russian harmony_event_02_slutty_alt_030e40a2:
+translate russian harmony_event_02_slutty_alt_070283d6:
     mike.say "П... привет, Хармони!"
 
 # ch/harmony/events.rpy:2123
@@ -8621,7 +8621,7 @@ translate russian harmony_event_02_slutty_alt_1dffce62:
     "Мне даже трудно смотреть Хармони в глаза."
 
 # ch/harmony/events.rpy:2159
-translate russian harmony_event_02_slutty_alt_37a57905:
+translate russian harmony_event_02_slutty_alt_8c6433a4:
     mike.say "Я... просто хотел, чтобы тебе было приятно, Хармони."
 
 # ch/harmony/events.rpy:2160
@@ -8637,7 +8637,7 @@ translate russian harmony_event_02_slutty_alt_5c5a9454:
     harmony.say "Хочешь сказать, мы весь вечер будем вдвоём?"
 
 # ch/harmony/events.rpy:2166
-translate russian harmony_event_02_slutty_alt_105b4305:
+translate russian harmony_event_02_slutty_alt_8b6d8ff8:
     mike.say "Эм... да."
 
 # ch/harmony/events.rpy:2169
@@ -8853,7 +8853,7 @@ translate russian harmony_event_02_slutty_alt_d0b043ac:
     harmony.say "О да, нам обязательно нужно сыграть ещё!"
 
 # ch/harmony/events.rpy:2245
-translate russian harmony_event_02_slutty_alt_b0caad40:
+translate russian harmony_event_02_slutty_alt_3ea808a0:
     mike.say "Эм... может, как-нибудь в ближайшее время?"
 
 # ch/harmony/events.rpy:2246
@@ -9161,7 +9161,7 @@ translate russian harmony_event_01_religious_66fc78d2:
     "И, клянусь, меня ещё и прошибает холодный пот."
 
 # ch/harmony/events.rpy:2357
-translate russian harmony_event_01_religious_80b1fb25:
+translate russian harmony_event_01_religious_632e53a4:
     mike.say "Т... ты хочешь, чтобы я познакомился с твоими родителями?"
 
 # ch/harmony/events.rpy:2358
@@ -9181,7 +9181,7 @@ translate russian harmony_event_01_religious_7246bfe8:
     "Кажется, она ждала совсем другой реакции."
 
 # ch/harmony/events.rpy:2364
-translate russian harmony_event_01_religious_c9d02040:
+translate russian harmony_event_01_religious_a86aa08d:
     harmony.say "Ну... да, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/events.rpy:2365
@@ -9205,7 +9205,7 @@ translate russian harmony_event_01_religious_bbb582ad:
     mike.say "Скорее, я ПОКА не хочу. Понимаешь?"
 
 # ch/harmony/events.rpy:2373
-translate russian harmony_event_01_religious_e172cdd7:
+translate russian harmony_event_01_religious_2662a193:
     harmony.say "Эм... нет, [lssb_harmony.hero_name()]."
 
 # ch/harmony/events.rpy:2374
@@ -9245,7 +9245,7 @@ translate russian harmony_event_01_religious_4abe380c:
     mike.say "И если встречусь с ними раньше, чем буду готов..."
 
 # ch/harmony/events.rpy:2384
-translate russian harmony_event_01_religious_77e0f19a:
+translate russian harmony_event_01_religious_be7f4894:
     mike.say "Ну... я могу всё испортить!"
 
 # ch/harmony/events.rpy:2386
@@ -9409,7 +9409,7 @@ translate russian harmony_event_02_religious_aafca4bb:
     "Скорее наоборот: её улыбка становится ещё искреннее."
 
 # ch/harmony/events.rpy:2457
-translate russian harmony_event_02_religious_69d589a4:
+translate russian harmony_event_02_religious_8d47b65c:
     mike.say "П... правда?"
 
 # ch/harmony/events.rpy:2458
@@ -9521,7 +9521,7 @@ translate russian harmony_event_02_religious_4c9c322b:
     "Теперь уже я смотрю в стол и чувствую себя неловко."
 
 # ch/harmony/events.rpy:2488
-translate russian harmony_event_02_religious_ddca3317:
+translate russian harmony_event_02_religious_684bf95b:
     mike.say "Я... простите..."
 
 # ch/harmony/events.rpy:2489
@@ -9585,7 +9585,7 @@ translate russian harmony_event_02_religious_85098563:
     mike.say "Но не поймите неправильно: я чувствую то же, что и вы."
 
 # ch/harmony/events.rpy:2506
-translate russian harmony_event_02_religious_18b17f04:
+translate russian harmony_event_02_religious_a1b5b6eb:
     mike.say "То есть... не совсем то же. Я ведь, очевидно, не её мама."
 
 # ch/harmony/events.rpy:2507
@@ -9665,7 +9665,7 @@ translate russian harmony_event_02_religious_b47a0d2d:
     "Дайан" "Я не шучу, когда говорю, что мне небезразлична моя дочь."
 
 # ch/harmony/events.rpy:2529
-translate russian harmony_event_02_religious_b944caa0:
+translate russian harmony_event_02_religious_3fba0d96:
     "Дайан" "И я никогда не одобрю её отношения с таким... легкомысленным человеком!"
 
 # ch/harmony/events.rpy:2530
@@ -9673,7 +9673,7 @@ translate russian harmony_event_02_religious_e3a35ad8:
     "Я киваю, чувствуя, как прежняя уверенность испаряется."
 
 # ch/harmony/events.rpy:2531
-translate russian harmony_event_02_religious_3544d776:
+translate russian harmony_event_02_religious_49d8c785:
     mike.say "Д... да, Дайан..."
 
 # ch/harmony/events.rpy:2532
@@ -9825,7 +9825,7 @@ translate russian harmony_event_03_religious_eef3ab05:
     "Но вскоре понимаю: информации в них совсем немного."
 
 # ch/harmony/events.rpy:2583
-translate russian harmony_event_03_religious_1d1905e5:
+translate russian harmony_event_03_religious_9f46ca79:
     mike.say "И... и это всё?"
 
 # ch/harmony/events.rpy:2584
@@ -9981,7 +9981,7 @@ translate russian harmony_event_03_religious_12817bac:
     "Нет, мой мозг почти не в силах это вынести!"
 
 # ch/harmony/events.rpy:2647
-translate russian harmony_event_03_religious_28014165:
+translate russian harmony_event_03_religious_ef98257b:
     mike.say "Я... не думаю, что это хорошая идея, Хармони!"
 
 # ch/harmony/events.rpy:2648
@@ -10209,7 +10209,7 @@ translate russian harmony_event_04_religious_fbe14832:
     "Та ведь не мучает щенков, когда думает, что никто не видит!"
 
 # ch/harmony/events.rpy:2754
-translate russian harmony_event_04_religious_4e4ebdc1:
+translate russian harmony_event_04_religious_ed35b139:
     mike.say "Хармони... это моя мама."
 
 # ch/harmony/events.rpy:2755
@@ -10281,7 +10281,7 @@ translate russian harmony_event_04_religious_6af77890:
     mike.say "А, да..."
 
 # ch/harmony/events.rpy:2782
-translate russian harmony_event_04_religious_3b2775cc:
+translate russian harmony_event_04_religious_ce3f6102:
     mike.say "Кофе... точно..."
 
 # ch/harmony/events.rpy:2783
@@ -10385,7 +10385,7 @@ translate russian harmony_event_04_religious_1f588598:
     mike.say "Кхм..."
 
 # ch/harmony/events.rpy:2826
-translate russian harmony_event_04_religious_18061b05:
+translate russian harmony_event_04_religious_3aa43f54:
     mike.say "Я... сам точно не знаю, в чём дело, мам!"
 
 # ch/harmony/events.rpy:2827
@@ -10429,7 +10429,7 @@ translate russian harmony_event_04_religious_c191f5c0:
     angela.say "[lssb_harmony.hero_name()] отвратил тебя от Бога?"
 
 # ch/harmony/events.rpy:2843
-translate russian harmony_event_04_religious_bdecceb8:
+translate russian harmony_event_04_religious_3109b3b5:
     angela.say "Ввёл тебя... во искушение?"
 
 # ch/harmony/events.rpy:2845
@@ -10581,7 +10581,7 @@ translate russian harmony_event_04_religious_dbe7e4b8:
     angela.say "Вот как?"
 
 # ch/harmony/events.rpy:2899
-translate russian harmony_event_04_religious_76b14686:
+translate russian harmony_event_04_religious_da098b20:
     angela.say "Что ж... тогда об этом можно не беспокоиться."
 
 # ch/harmony/events.rpy:2901
@@ -10777,7 +10777,7 @@ translate russian harmony_event_07_vanilla_21733a6b:
     "А птицы слетят с деревьев и будут повсюду следовать за ней!"
 
 # ch/harmony/events.rpy:2977
-translate russian harmony_event_07_vanilla_2eeaa048:
+translate russian harmony_event_07_vanilla_ce3fd60a:
     "Ладно... ладно, знаю, меня заносит."
 
 # ch/harmony/events.rpy:2978
@@ -10813,7 +10813,7 @@ translate russian harmony_event_07_vanilla_b9597013:
     "Ещё и потому, что после всех моих мысленных восторгов она улыбается мне."
 
 # ch/harmony/events.rpy:2990
-translate russian harmony_event_07_vanilla_774c773c:
+translate russian harmony_event_07_vanilla_fc80bfec:
     mike.say "О... я..."
 
 # ch/harmony/events.rpy:2991
@@ -10833,7 +10833,7 @@ translate russian harmony_event_07_vanilla_002886ad:
     harmony.say "И почему же?"
 
 # ch/harmony/events.rpy:2997
-translate russian harmony_event_07_vanilla_41d6efcc:
+translate russian harmony_event_07_vanilla_82330835:
     "Вот чёрт... Сам напросился!"
 
 # ch/harmony/events.rpy:2998
@@ -10881,7 +10881,7 @@ translate russian harmony_event_07_vanilla_74b25107:
     harmony.say "Кое-что очень важное..."
 
 # ch/harmony/events.rpy:3014
-translate russian harmony_event_07_vanilla_96bc4773:
+translate russian harmony_event_07_vanilla_4fc52321:
     "О нет... начинается!"
 
 # ch/harmony/events.rpy:3015
@@ -11013,7 +11013,7 @@ translate russian harmony_event_07_vanilla_e8c38150:
     mike.say "Я тоже так думаю, Хармони."
 
 # ch/harmony/events.rpy:3056
-translate russian harmony_event_07_vanilla_1341e746:
+translate russian harmony_event_07_vanilla_779c333b:
     mike.say "Значит... я делаю тебя счастливой?"
 
 # ch/harmony/events.rpy:3057
@@ -11025,7 +11025,7 @@ translate russian harmony_event_07_vanilla_20d3d633:
     "И снова краснеет."
 
 # ch/harmony/events.rpy:3061
-translate russian harmony_event_07_vanilla_0281a173:
+translate russian harmony_event_07_vanilla_f8771ada:
     harmony.say "А... да, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/events.rpy:3062
@@ -11037,7 +11037,7 @@ translate russian harmony_event_07_vanilla_b4ca6dd3:
     harmony.say "Настолько, что хочу провести с тобой всю жизнь!"
 
 # ch/harmony/events.rpy:3064
-translate russian harmony_event_07_vanilla_72056a27:
+translate russian harmony_event_07_vanilla_7da8adb2:
     harmony.say "Ну... то есть... если ты позволишь?"
 
 # ch/harmony/events.rpy:3066
@@ -11121,7 +11121,7 @@ translate russian harmony_event_05_religious_34d95e0b:
     "Я изо всех сил стараюсь выглядеть серьёзным и внимательным."
 
 # ch/harmony/events.rpy:3102
-translate russian harmony_event_05_religious_aab69089:
+translate russian harmony_event_05_religious_6c87c347:
     mike.say "Эм... да..."
 
 # ch/harmony/events.rpy:3103
@@ -11253,7 +11253,7 @@ translate russian harmony_event_05_religious_65429898:
     harmony.say "Неправильно, что ты живёшь с двумя незамужними женщинами!"
 
 # ch/harmony/events.rpy:3143
-translate russian harmony_event_05_religious_f6a285d6:
+translate russian harmony_event_05_religious_3462941f:
     harmony.say "Мне не нравится, что тебя подвергают такому... такому искушению!"
 
 # ch/harmony/events.rpy:3145
@@ -11409,7 +11409,7 @@ translate russian harmony_event_06_religious_85c2914b:
     "О нет, такая фраза никогда не сулит ничего хорошего!"
 
 # ch/harmony/events.rpy:3201
-translate russian harmony_event_06_religious_2243a407:
+translate russian harmony_event_06_religious_fa196f31:
     mike.say "К... конечно, поговорим, Хармони!"
 
 # ch/harmony/events.rpy:3202
@@ -11489,7 +11489,7 @@ translate russian harmony_event_06_religious_7cd52335:
     "И открывает глаза, чтобы начать разговор."
 
 # ch/harmony/events.rpy:3228
-translate russian harmony_event_06_religious_43214cc0:
+translate russian harmony_event_06_religious_b37f430c:
     harmony.say "Я... мне нужно кое-что тебе сказать, [lssb_harmony.hero_name()]."
 
 # ch/harmony/events.rpy:3229
@@ -11753,7 +11753,7 @@ translate russian harmony_event_07_religious_1e7be01d:
     "И тут мой взгляд останавливается на одной из них."
 
 # ch/harmony/events.rpy:3316
-translate russian harmony_event_07_religious_109240f8:
+translate russian harmony_event_07_religious_184432a8:
     "Ну... если честно, на её попке!"
 
 # ch/harmony/events.rpy:3317
@@ -11765,7 +11765,7 @@ translate russian harmony_event_07_religious_5edc7c87:
     "Какая разница, попаду ли я в ад за то, что пялюсь на зад монахини?!"
 
 # ch/harmony/events.rpy:3319
-translate russian harmony_event_07_religious_e24ed52b:
+translate russian harmony_event_07_religious_a68a4a2a:
     "Но погодите... Эта попка кажется очень знакомой!"
 
 # ch/harmony/events.rpy:3320
@@ -11789,7 +11789,7 @@ translate russian harmony_event_07_religious_3af519dc:
     harmony.say "[lssb_harmony.hero_name()]?"
 
 # ch/harmony/events.rpy:3329
-translate russian harmony_event_07_religious_b8a659ef:
+translate russian harmony_event_07_religious_bea3edb3:
     harmony.say "Ч... что ты здесь делаешь?"
 
 # ch/harmony/events.rpy:3332
@@ -11821,7 +11821,7 @@ translate russian harmony_event_07_religious_0efdbe18:
     mike.say "Ты такая красивая, Хармони!"
 
 # ch/harmony/events.rpy:3339
-translate russian harmony_event_07_religious_ddca3317:
+translate russian harmony_event_07_religious_684bf95b:
     mike.say "Я... прости..."
 
 # ch/harmony/events.rpy:3340
@@ -11857,7 +11857,7 @@ translate russian harmony_event_07_religious_ab197689:
     harmony.say "Понятно..."
 
 # ch/harmony/events.rpy:3351
-translate russian harmony_event_07_religious_fc25559b:
+translate russian harmony_event_07_religious_08313e9b:
     harmony.say "Я... боялась, что ты..."
 
 # ch/harmony/events.rpy:3352
@@ -12017,7 +12017,7 @@ translate russian harmony_event_07_religious_fa15d686:
     harmony.say "Я должна тебя остановить..."
 
 # ch/harmony/events.rpy:3411
-translate russian harmony_event_07_religious_42e9487c:
+translate russian harmony_event_07_religious_8fd76604:
     harmony.say "Но... я ТАК по этому скучала!"
 
 # ch/harmony/events.rpy:3412
@@ -12093,15 +12093,15 @@ translate russian harmony_event_07_religious_13672a78:
     harmony.say "О да..."
 
 # ch/harmony/events.rpy:3436
-translate russian harmony_event_07_religious_0bd5c843:
+translate russian harmony_event_07_religious_6a80d1c6:
     harmony.say "О боже... да..."
 
 # ch/harmony/events.rpy:3437
-translate russian harmony_event_07_religious_6e473625:
+translate russian harmony_event_07_religious_cf92d493:
     harmony.say "Иисусе Христе... я сейчас кончу!"
 
 # ch/harmony/events.rpy:3438
-translate russian harmony_event_07_religious_fcaacbdb:
+translate russian harmony_event_07_religious_e6858e45:
     harmony.say "Я люблю тебя... так сильно люблю!"
 
 # ch/harmony/events.rpy:3439
@@ -12369,7 +12369,7 @@ translate russian harmony_event_03_slutty_1b6596de:
     "Раньше она пила только вино на причастии, а теперь хлещет как не в себя!"
 
 # ch/harmony/events.rpy:3533
-translate russian harmony_event_03_slutty_b9c5c2f8:
+translate russian harmony_event_03_slutty_9a34b8a9:
     mike.say "Эм... можно пиво, пожалуйста?"
 
 # ch/harmony/events.rpy:3534
@@ -12449,7 +12449,7 @@ translate russian harmony_event_03_slutty_3103a901:
     "Но затем замечаю пустой бокал у неё в руке."
 
 # ch/harmony/events.rpy:3562
-translate russian harmony_event_03_slutty_a8898fae:
+translate russian harmony_event_03_slutty_76907c3f:
     mike.say "Т... ты уже всё выпила?"
 
 # ch/harmony/events.rpy:3563
@@ -12557,11 +12557,11 @@ translate russian harmony_event_03_slutty_082c31a8:
     mike.say "А, это всё коктейли, Хармони!"
 
 # ch/harmony/events.rpy:3605
-translate russian harmony_event_03_slutty_eb3a5df1:
+translate russian harmony_event_03_slutty_845a3ce4:
     harmony.say "А? Что ты сказал?"
 
 # ch/harmony/events.rpy:3607
-translate russian harmony_event_03_slutty_162745b7:
+translate russian harmony_event_03_slutty_43c57246:
     mike.say "Эм... ничего. Пойдём, ладно?"
 
 # ch/harmony/events.rpy:3612
@@ -13213,7 +13213,7 @@ translate russian harmony_event_04_slutty_fa894e22:
     mike.say "Вечер любителей..."
 
 # ch/harmony/events.rpy:3860
-translate russian harmony_event_04_slutty_a42666bd:
+translate russian harmony_event_04_slutty_1e8967f0:
     mike.say "Хм... многое объясняет!"
 
 # ch/harmony/events.rpy:3863
@@ -13245,7 +13245,7 @@ translate russian harmony_event_04_slutty_5dc410a0:
     mike.say "Наверное..."
 
 # ch/harmony/events.rpy:3875
-translate russian harmony_event_04_slutty_2ff1d00f:
+translate russian harmony_event_04_slutty_35e23499:
     mike.say "Эм... Хармони... ты куда?"
 
 # ch/harmony/events.rpy:3877
@@ -13273,7 +13273,7 @@ translate russian harmony_event_04_slutty_0b308d3a:
     "Неужели..."
 
 # ch/harmony/events.rpy:3886
-translate russian harmony_event_04_slutty_6f218b35:
+translate russian harmony_event_04_slutty_2068c296:
     "Она же не собирается... или собирается?"
 
 # ch/harmony/events.rpy:3887
@@ -13425,7 +13425,7 @@ translate russian harmony_event_04_slutty_25ce54e2:
     "Но, когда Хармони возвращается к нашему столику, её встречают аплодисментами и восторженными криками."
 
 # ch/harmony/events.rpy:3931
-translate russian harmony_event_04_slutty_7fe73ba4:
+translate russian harmony_event_04_slutty_9fb9d38b:
     mike.say "Я... не знаю, что сказать, Хармони!"
 
 # ch/harmony/events.rpy:3932
@@ -13449,7 +13449,7 @@ translate russian harmony_event_04_slutty_113f9526:
     harmony.say "Наверное, просто поддалась моменту!"
 
 # ch/harmony/events.rpy:3939
-translate russian harmony_event_04_slutty_607c8be3:
+translate russian harmony_event_04_slutty_4d1141a2:
     harmony.say "Интересно... у них такое каждую неделю?"
 
 # ch/harmony/events.rpy:3941
@@ -13481,7 +13481,7 @@ translate russian harmony_event_05_slutty_7a196bdb:
     harmony.say "Давай сходим туда ещё!"
 
 # ch/harmony/events.rpy:3954
-translate russian harmony_event_05_slutty_cc73b1df:
+translate russian harmony_event_05_slutty_c6c337be:
     mike.say "К... конечно, Хармони."
 
 # ch/harmony/events.rpy:3962
@@ -14029,7 +14029,7 @@ translate russian harmony_event_06_slutty_6f381982:
     "Кто-то даже анонимно угощает нас выпивкой!"
 
 # ch/harmony/events.rpy:4150
-translate russian harmony_event_06_slutty_fd55d7f9:
+translate russian harmony_event_06_slutty_c2802295:
     mike.say "Я... кажется, им понравилось, Хармони!"
 
 # ch/harmony/events.rpy:4152
@@ -14205,7 +14205,7 @@ translate russian harmony_purity_02_e091c9ce:
     "Иногда я забываю, насколько она невинна, и боюсь напугать её своим напором."
 
 # ch/harmony/events.rpy:4238
-translate russian harmony_purity_02_76af397f:
+translate russian harmony_purity_02_812fe650:
     mike.say "Но я бы и так пришёл... Конечно!"
 
 # ch/harmony/events.rpy:4239
@@ -14217,7 +14217,7 @@ translate russian harmony_purity_02_183c451f:
     "Хармони так же быстро приходит в себя и широко улыбается."
 
 # ch/harmony/events.rpy:4243
-translate russian harmony_purity_02_99c2f31f:
+translate russian harmony_purity_02_c6d05d38:
     harmony.say "Д... да... конечно!"
 
 # ch/harmony/events.rpy:4244
@@ -14425,7 +14425,7 @@ translate russian harmony_purity_02_c65c60b4:
     harmony.say "Нет, не прозвучит. Говори!"
 
 # ch/harmony/events.rpy:4331
-translate russian harmony_purity_02_4da60630:
+translate russian harmony_purity_02_b42a6a16:
     mike.say "Ладно... попробую..."
 
 # ch/harmony/events.rpy:4332
@@ -14613,7 +14613,7 @@ translate russian harmony_purity_04_951851f0:
     harmony.say "Здравствуй, [lssb_harmony.hero_name()]."
 
 # ch/harmony/events.rpy:4425
-translate russian harmony_purity_04_4cded362:
+translate russian harmony_purity_04_a366a9d5:
     mike.say "Эм... привет, Хармони."
 
 # ch/harmony/events.rpy:4427
@@ -14701,7 +14701,7 @@ translate russian harmony_purity_04_5876c9cf:
     "Спелая, сочная, полная вкуса..."
 
 # ch/harmony/events.rpy:4455
-translate russian harmony_purity_04_d3488f44:
+translate russian harmony_purity_04_4fd2e32e:
     "Погодите... Я сейчас о клубнике или о Хармони?!"
 
 # ch/harmony/events.rpy:4456
@@ -14717,7 +14717,7 @@ translate russian harmony_purity_04_2671c2c3:
     "И тут наши руки соприкасаются: мы одновременно потянулись за последней ягодой."
 
 # ch/harmony/events.rpy:4459
-translate russian harmony_purity_04_aa10f3e0:
+translate russian harmony_purity_04_cd802ad7:
     mike.say "Ой... прости."
 
 # ch/harmony/events.rpy:4460
@@ -14757,7 +14757,7 @@ translate russian harmony_purity_04_817a4a98:
     mike.say "Эм, нет..."
 
 # ch/harmony/events.rpy:4469
-translate russian harmony_purity_04_e7707e81:
+translate russian harmony_purity_04_bcb0d1ad:
     mike.say "Я подумал, может... будем откусывать по очереди?"
 
 # ch/harmony/events.rpy:4470
@@ -14977,7 +14977,7 @@ translate russian harmony_purity_04_ed2f2a2e:
     "Это было взаимное, спонтанное желание."
 
 # ch/harmony/events.rpy:4537
-translate russian harmony_purity_04_e1785a44:
+translate russian harmony_purity_04_d93a9b86:
     harmony.say "И... мне правда было очень приятно."
 
 # ch/harmony/events.rpy:4538
@@ -14989,7 +14989,7 @@ translate russian harmony_purity_04_65a2449d:
     harmony.say "Да, глупенький, конечно!"
 
 # ch/harmony/events.rpy:4540
-translate russian harmony_purity_04_fd8fe838:
+translate russian harmony_purity_04_f3022de5:
     mike.say "Эм... хочешь повторить?"
 
 # ch/harmony/events.rpy:4541
@@ -15681,7 +15681,7 @@ translate russian harmony_purity_06_adad36ff:
     harmony.say "Ах..."
 
 # ch/harmony/events.rpy:4764
-translate russian harmony_purity_06_8270f152:
+translate russian harmony_purity_06_932ecf91:
     harmony.say "Я такая грязная... дешёвая... я дрянь..."
 
 # ch/harmony/events.rpy:4765
@@ -15813,7 +15813,7 @@ translate russian harmony_preg_talk_77b7bc11:
     harmony.say "Хм..."
 
 # ch/harmony/events.rpy:4819
-translate russian harmony_preg_talk_2ead3ada:
+translate russian harmony_preg_talk_a96e3a2f:
     harmony.say "Ой... да, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/events.rpy:4820
@@ -15841,7 +15841,7 @@ translate russian harmony_preg_talk_3db0efd7:
     "Щёки краснеют, и она избегает моего взгляда."
 
 # ch/harmony/events.rpy:4829
-translate russian harmony_preg_talk_3e4277f1:
+translate russian harmony_preg_talk_d71d0b5e:
     harmony.say "К... как ты догадался?"
 
 # ch/harmony/events.rpy:4830
@@ -15885,7 +15885,7 @@ translate russian harmony_preg_talk_fe3f23b4:
     harmony.say "Боюсь, у меня плохие новости, [lssb_harmony.hero_name()]."
 
 # ch/harmony/events.rpy:4843
-translate russian harmony_preg_talk_62d1b4fe:
+translate russian harmony_preg_talk_7eca0858:
     harmony.say "Кажется, у нас произошла небольшая... случайность!"
 
 # ch/harmony/events.rpy:4845
@@ -16053,15 +16053,15 @@ translate russian harmony_preg_talk_f3bf11f3:
     "Обнимает и сжимает словно удав!"
 
 # ch/harmony/events.rpy:4913
-translate russian harmony_preg_talk_eeb05891:
+translate russian harmony_preg_talk_5cd96a1c:
     mike.say "Х... Хармони..."
 
 # ch/harmony/events.rpy:4914
-translate russian harmony_preg_talk_e17d9106:
+translate russian harmony_preg_talk_a5a05f18:
     mike.say "Я... не могу... дышать!"
 
 # ch/harmony/events.rpy:4916
-translate russian harmony_preg_talk_d60260fa:
+translate russian harmony_preg_talk_8e8efd99:
     harmony.say "Ой... боже!"
 
 # ch/harmony/events.rpy:4919
@@ -16081,11 +16081,11 @@ translate russian harmony_preg_talk_cccaf58a:
     harmony.say "Теперь можно пожениться, остепениться и планировать всю нашу дальнейшую жизнь!"
 
 # ch/harmony/events.rpy:4925
-translate russian harmony_preg_talk_a496114c:
+translate russian harmony_preg_talk_ab7966c5:
     mike.say "А... да, Хармони..."
 
 # ch/harmony/events.rpy:4926
-translate russian harmony_preg_talk_7f6ef347:
+translate russian harmony_preg_talk_cd6a687f:
     mike.say "Звучит... прекрасно!"
 
 # ch/harmony/events.rpy:4928
@@ -16161,7 +16161,7 @@ translate russian harmony_preg_talk_986fcd37:
     harmony.say "Поэтому решила довериться случаю и согласиться с твоим выбором."
 
 # ch/harmony/events.rpy:4956
-translate russian harmony_preg_talk_8f140824:
+translate russian harmony_preg_talk_f8344bde:
     harmony.say "Ладно... видимо, пора мне взрослеть!"
 
 # ch/harmony/events.rpy:4958
@@ -16729,7 +16729,7 @@ translate russian harmony_male_ending_546ae43a:
     "Может, меня ждёт брачная ночь, которая задаст тон всей нашей жизни..."
 
 # ch/harmony/events.rpy:5159
-translate russian harmony_male_ending_c199f454:
+translate russian harmony_male_ending_4addfc2b:
     harmony.say "Хм... Не уверена, что у меня это получится."
 
 # ch/harmony/events.rpy:5160
@@ -16745,7 +16745,7 @@ translate russian harmony_male_ending_f1a93b2e:
     harmony.say "Но, наверное, это всё-таки ВАЖНО. А он иногда немного путается..."
 
 # ch/harmony/events.rpy:5163
-translate russian harmony_male_ending_c7ae0618:
+translate russian harmony_male_ending_d7b4d69a:
     harmony.say "Ладно-ладно... хорошо. Расскажу, что думаю о нас и о том, как всё сложилось."
 
 # ch/harmony/events.rpy:5164
@@ -16917,7 +16917,7 @@ translate russian harmony_male_ending_a4b71864:
     harmony.say "Я поняла, что выдержала испытание!"
 
 # ch/harmony/events.rpy:5206
-translate russian harmony_male_ending_360cb0c3:
+translate russian harmony_male_ending_e5268178:
     harmony.say "А после этого... всё было как в сказке!"
 
 # ch/harmony/events.rpy:5207
@@ -17181,7 +17181,7 @@ translate russian harmony_male_ending_2dbd33a7:
     harmony.say "Как тебе твоя будущая жена?"
 
 # ch/harmony/events.rpy:5283
-translate russian harmony_male_ending_0a8f8f7b:
+translate russian harmony_male_ending_b7aae4f0:
     mike.say "Ух ты, Хармони... просто ух ты!"
 
 # ch/harmony/events.rpy:5284
@@ -17289,7 +17289,7 @@ translate russian harmony_male_ending_bd148fcf:
     harmony.say "Ещё бы!"
 
 # ch/harmony/events.rpy:5317
-translate russian harmony_male_ending_9ad51d3e:
+translate russian harmony_male_ending_482ee669:
     "Священник" "Эм... да, прекрасно..."
 
 # ch/harmony/events.rpy:5319
@@ -17321,7 +17321,7 @@ translate russian harmony_male_ending_d21d9c15:
     harmony.say "Что вы сказали?"
 
 # ch/harmony/events.rpy:5327
-translate russian harmony_male_ending_050f7d53:
+translate russian harmony_male_ending_064a5798:
     "Священник" "О... ничего, совсем ничего!"
 
 # ch/harmony/events.rpy:5329
@@ -17453,7 +17453,7 @@ translate russian harmony_male_ending_ad082459:
     harmony.say "Что?"
 
 # ch/harmony/events.rpy:5366
-translate russian harmony_male_ending_8224564f:
+translate russian harmony_male_ending_b4856801:
     harmony.say "А... ладно... Наверное, могу просто объяснить, как это случилось."
 
 # ch/harmony/events.rpy:5367
@@ -17485,7 +17485,7 @@ translate russian harmony_male_ending_966144d6:
     harmony.say "Вечно старалась быть хорошей, изображала кротость и прижимала к себе Библию."
 
 # ch/harmony/events.rpy:5374
-translate russian harmony_male_ending_4fd647fa:
+translate russian harmony_male_ending_03d3b334:
     harmony.say "Уф... Меня передёргивает от мысли, что я когда-то была такой!"
 
 # ch/harmony/events.rpy:5375
@@ -17569,7 +17569,7 @@ translate russian harmony_male_ending_e5c20a60:
     harmony.say "Вскоре я уже ждала наших свиданий ради самих свиданий."
 
 # ch/harmony/events.rpy:5395
-translate russian harmony_male_ending_9c137c33:
+translate russian harmony_male_ending_c0bdd29f:
     harmony.say "А... ну... потом он познакомил меня и с физической стороной отношений!"
 
 # ch/harmony/events.rpy:5396
@@ -17637,7 +17637,7 @@ translate russian harmony_male_ending_977524b3:
     harmony.say "А я?"
 
 # ch/harmony/events.rpy:5414
-translate russian harmony_male_ending_08942eec:
+translate russian harmony_male_ending_6746d28c:
     harmony.say "Ну... раньше я всегда думала, что стану монахиней."
 
 # ch/harmony/events.rpy:5415
@@ -17941,7 +17941,7 @@ translate russian harmony_male_ending_ec6feff7:
     harmony.say "И всегда думала, что так будет и дальше."
 
 # ch/harmony/events.rpy:5505
-translate russian harmony_male_ending_7dcf1e3c:
+translate russian harmony_male_ending_2a501681:
     harmony.say "Я была счастлива... По крайней мере, мне так казалось."
 
 # ch/harmony/events.rpy:5506
@@ -17961,7 +17961,7 @@ translate russian harmony_male_ending_1a8067bf:
     harmony.say "Но пузырь искажает всё, не даёт увидеть настоящие очертания."
 
 # ch/harmony/events.rpy:5510
-translate russian harmony_male_ending_26923bbc:
+translate russian harmony_male_ending_d3441d8a:
     harmony.say "Уф... Мне трудно в этом признаться!"
 
 # ch/harmony/events.rpy:5511
@@ -18817,7 +18817,7 @@ translate russian harmony_stripclub_event_02_e613921e:
     harmony.say "Как мило с твоей стороны!"
 
 # ch/harmony/events.rpy:5814
-translate russian harmony_stripclub_event_02_eeb05891:
+translate russian harmony_stripclub_event_02_5cd96a1c:
     mike.say "Х... Хармони..."
 
 # ch/harmony/events.rpy:5815
@@ -19137,7 +19137,7 @@ translate russian harmony_birthday_date_pure_male_5972ef3a:
     harmony.say "Мне так не терпится узнать, куда ты меня поведёшь!"
 
 # ch/harmony/events.rpy:5938
-translate russian harmony_birthday_date_pure_male_a5e365c4:
+translate russian harmony_birthday_date_pure_male_87c20090:
     "Ладно-ладно, знаю: врать нехорошо."
 
 # ch/harmony/events.rpy:5939
@@ -19261,7 +19261,7 @@ translate russian harmony_birthday_date_pure_male_79f7bb61:
     harmony.say "Эм..."
 
 # ch/harmony/events.rpy:5978
-translate russian harmony_birthday_date_pure_male_4f5c0123:
+translate russian harmony_birthday_date_pure_male_feb7c067:
     harmony.say "Д... да, [lssb_harmony.hero_name()]..."
 
 # ch/harmony/events.rpy:5979
@@ -19309,7 +19309,7 @@ translate russian harmony_birthday_date_pure_male_4ae7dae3:
     mike.say "Можно было выбрать место поменьше и потише."
 
 # ch/harmony/events.rpy:5992
-translate russian harmony_birthday_date_pure_male_76c144ac:
+translate russian harmony_birthday_date_pure_male_4a25f606:
     mike.say "Но... мне хотелось, чтобы нас увидели вместе!"
 
 # ch/harmony/events.rpy:5994
@@ -19321,7 +19321,7 @@ translate russian harmony_birthday_date_pure_male_50639148:
     "А щёки заливаются румянцем."
 
 # ch/harmony/events.rpy:5997
-translate russian harmony_birthday_date_pure_male_c0b886f1:
+translate russian harmony_birthday_date_pure_male_4af91d6a:
     harmony.say "Ч... что ты имеешь в виду?"
 
 # ch/harmony/events.rpy:5999
@@ -19613,7 +19613,7 @@ translate russian harmony_birthday_date_pure_male_3303315a:
     harmony.say "Кажется, я вообще не понимаю, что здесь подают!"
 
 # ch/harmony/events.rpy:6104
-translate russian harmony_birthday_date_pure_male_f8ec8f44:
+translate russian harmony_birthday_date_pure_male_a35f6249:
     harmony.say "А мне хотелось заказать что-нибудь... ну, лёгкое."
 
 # ch/harmony/events.rpy:6105
@@ -19945,7 +19945,7 @@ translate russian harmony_birthday_date_pure_male_f1775210:
     harmony.say "Материальные вещи тут совсем ни к чему!"
 
 # ch/harmony/events.rpy:6201
-translate russian harmony_birthday_date_pure_male_1dc085e4:
+translate russian harmony_birthday_date_pure_male_8446af75:
     "Фух... кажется, выкрутился."
 
 # ch/harmony/events.rpy:6202
@@ -20001,7 +20001,7 @@ translate russian harmony_birthday_date_pure_male_ad082459:
     harmony.say "Что?"
 
 # ch/harmony/events.rpy:6221
-translate russian harmony_birthday_date_pure_male_1fa5cbc0:
+translate russian harmony_birthday_date_pure_male_29a81fe1:
     harmony.say "О... нет..."
 
 # ch/harmony/events.rpy:6223
@@ -20045,7 +20045,7 @@ translate russian harmony_birthday_date_pure_male_916f85cd:
     harmony.say "Нет-нет, всё хорошо."
 
 # ch/harmony/events.rpy:6235
-translate russian harmony_birthday_date_pure_male_b967f553:
+translate russian harmony_birthday_date_pure_male_64fb9a45:
     harmony.say "Это... очень мило."
 
 # ch/harmony/events.rpy:6236
@@ -20113,7 +20113,7 @@ translate russian harmony_birthday_date_pure_male_f1775210_1:
     harmony.say "Материальные вещи тут совсем ни к чему!"
 
 # ch/harmony/events.rpy:6255
-translate russian harmony_birthday_date_pure_male_1dc085e4_1:
+translate russian harmony_birthday_date_pure_male_8446af75_1:
     "Фух... кажется, выкрутился."
 
 # ch/harmony/events.rpy:6256
@@ -20173,7 +20173,7 @@ translate russian harmony_birthday_date_pure_male_bcedcd97:
     harmony.say "И с радостью скоро повторю."
 
 # ch/harmony/events.rpy:6277
-translate russian harmony_birthday_date_pure_male_1a987b8f:
+translate russian harmony_birthday_date_pure_male_92397b6d:
     harmony.say "Но... ох!"
 
 # ch/harmony/events.rpy:6278
@@ -20493,7 +20493,7 @@ translate russian harmony_birthday_date_impure_male_fbc8e080:
     harmony.say "Я добралась как только смогла."
 
 # ch/harmony/events.rpy:6383
-translate russian harmony_birthday_date_impure_male_558c0f62:
+translate russian harmony_birthday_date_impure_male_92f696fd:
     harmony.say "Может... я и правда долго собиралась."
 
 # ch/harmony/events.rpy:6385
@@ -20629,7 +20629,7 @@ translate russian harmony_birthday_date_impure_male_0266ca08:
     mike.say "Ты о чём, Хармони?"
 
 # ch/harmony/events.rpy:6442
-translate russian harmony_birthday_date_impure_male_0f46ace4:
+translate russian harmony_birthday_date_impure_male_e9bb378e:
     harmony.say "Ну... Я же могу тут целое состояние оставить."
 
 # ch/harmony/events.rpy:6443
@@ -21285,11 +21285,11 @@ translate russian harmony_birthday_date_impure_male_3c66f8ed:
     "А вот Хармони с каждой секундой становится всё любопытнее."
 
 # ch/harmony/events.rpy:6669
-translate russian harmony_birthday_date_impure_male_0181f1b3:
+translate russian harmony_birthday_date_impure_male_f4271fba:
     harmony.say "Ты... ты серьёзно?"
 
 # ch/harmony/events.rpy:6671
-translate russian harmony_birthday_date_impure_male_9bec4313:
+translate russian harmony_birthday_date_impure_male_10a45c80:
     harmony.say "Потому что это... довольно интересно..."
 
 # ch/harmony/events.rpy:6672
@@ -21357,7 +21357,7 @@ translate russian harmony_birthday_date_impure_male_24205f93:
     mike.say "Меня такое не обижает."
 
 # ch/harmony/events.rpy:6693
-translate russian harmony_birthday_date_impure_male_5cad8f82:
+translate russian harmony_birthday_date_impure_male_dad54cee:
     mike.say "Чтобы обидеть, ей пришлось бы... ну, не знаю..."
 
 # ch/harmony/events.rpy:6695
@@ -21485,7 +21485,7 @@ translate russian harmony_birthday_date_impure_male_f1775210:
     harmony.say "Материальные вещи тут совсем ни к чему!"
 
 # ch/harmony/events.rpy:6743
-translate russian harmony_birthday_date_impure_male_1dc085e4:
+translate russian harmony_birthday_date_impure_male_8446af75:
     "Фух... Кажется, выкрутился."
 
 # ch/harmony/events.rpy:6744
@@ -21537,7 +21537,7 @@ translate russian harmony_birthday_date_impure_male_ad082459_1:
     harmony.say "Что?"
 
 # ch/harmony/events.rpy:6766
-translate russian harmony_birthday_date_impure_male_1fa5cbc0:
+translate russian harmony_birthday_date_impure_male_29a81fe1:
     harmony.say "А... о нет..."
 
 # ch/harmony/events.rpy:6770
@@ -21581,7 +21581,7 @@ translate russian harmony_birthday_date_impure_male_916f85cd:
     harmony.say "Нет-нет, всё хорошо."
 
 # ch/harmony/events.rpy:6788
-translate russian harmony_birthday_date_impure_male_b967f553:
+translate russian harmony_birthday_date_impure_male_64fb9a45:
     harmony.say "Это... очень мило."
 
 # ch/harmony/events.rpy:6790
@@ -21649,7 +21649,7 @@ translate russian harmony_birthday_date_impure_male_f1775210_1:
     harmony.say "Материальные вещи тут совсем ни к чему!"
 
 # ch/harmony/events.rpy:6812
-translate russian harmony_birthday_date_impure_male_1dc085e4_1:
+translate russian harmony_birthday_date_impure_male_8446af75_1:
     "Фух... Кажется, выкрутился."
 
 # ch/harmony/events.rpy:6813
@@ -22297,11 +22297,11 @@ translate russian harmony_fuck_date_intro_male_c4676831:
     "Но, возможно, этот шаг слишком велик, и прежних успехов недостаточно."
 
 # ch/harmony/fuck.rpy:80
-translate russian harmony_fuck_date_intro_male_7f2a96c1:
+translate russian harmony_fuck_date_intro_male_ec238ba7:
     harmony.say "Мне... мне просто немного страшно, [lssb_harmony.hero_name()]."
 
 # ch/harmony/fuck.rpy:81
-translate russian harmony_fuck_date_intro_male_6fceda91:
+translate russian harmony_fuck_date_intro_male_857e737b:
     harmony.say "Я никогда... этого не делала..."
 
 # ch/harmony/fuck.rpy:82
@@ -22525,7 +22525,7 @@ translate russian harmony_fuck_date_intro_male_81a8326f:
     "Она краснеет и отводит глаза."
 
 # ch/harmony/fuck.rpy:163
-translate russian harmony_fuck_date_intro_male_e90529bd:
+translate russian harmony_fuck_date_intro_male_64eb7529:
     harmony.say "Ты... ты такой милый, [lssb_harmony.hero_name()]."
 
 # ch/harmony/fuck.rpy:164
@@ -22561,7 +22561,7 @@ translate russian harmony_fuck_date_intro_male_6e76fea3:
     harmony.say "О боже!"
 
 # ch/harmony/fuck.rpy:175
-translate russian harmony_fuck_date_intro_male_e21d0c21:
+translate russian harmony_fuck_date_intro_male_c19d12a4:
     harmony.say "То есть... это я... сделала?!"
 
 # ch/harmony/fuck.rpy:177
@@ -22589,11 +22589,11 @@ translate russian harmony_fuck_date_intro_male_261aff03:
     "Наконец мне удаётся отстраниться настолько, чтобы выговорить пару слов."
 
 # ch/harmony/fuck.rpy:190
-translate russian harmony_fuck_date_intro_male_9f596937:
+translate russian harmony_fuck_date_intro_male_c24cfdd5:
     mike.say "Ого... Ладно, Хармони."
 
 # ch/harmony/fuck.rpy:191
-translate russian harmony_fuck_date_intro_male_50a1d456:
+translate russian harmony_fuck_date_intro_male_f3821e6f:
     mike.say "Тайм-аут... Тайм-аут!"
 
 # ch/harmony/fuck.rpy:192
@@ -22685,7 +22685,7 @@ translate russian harmony_fuck_date_intro_male_473a872e:
     "Кое-как высвободив губы из её всепоглощающего поцелуя, я выдыхаю пару слов."
 
 # ch/harmony/fuck.rpy:228
-translate russian harmony_fuck_date_intro_male_4fe78244:
+translate russian harmony_fuck_date_intro_male_fbb13d22:
     mike.say "Ого... Хармони!"
 
 # ch/harmony/fuck.rpy:229
@@ -22705,7 +22705,7 @@ translate russian harmony_fuck_date_intro_male_2467f856:
     harmony.say "Я что-то не так сделала?"
 
 # ch/harmony/fuck.rpy:237
-translate russian harmony_fuck_date_intro_male_b40f3483:
+translate russian harmony_fuck_date_intro_male_69c66610:
     mike.say "А, нет... нет."
 
 # ch/harmony/fuck.rpy:238
@@ -22801,7 +22801,7 @@ translate russian harmony_fuck_date_intro_male_000356de:
     mike.say "Хармони, что случилось?"
 
 # ch/harmony/fuck.rpy:271
-translate russian harmony_fuck_date_intro_male_6b7be997:
+translate russian harmony_fuck_date_intro_male_d182f7e0:
     harmony.say "Я... я не хочу, чтобы ты на меня смотрел."
 
 # ch/harmony/fuck.rpy:273
@@ -22845,11 +22845,11 @@ translate russian harmony_fuck_date_intro_male_a236a6a4:
     mike.say "Если это неправда, то что тогда происходит вот здесь?!"
 
 # ch/harmony/fuck.rpy:286
-translate russian harmony_fuck_date_intro_male_bec56391:
+translate russian harmony_fuck_date_intro_male_33dbf8ee:
     harmony.say "О... о боже!"
 
 # ch/harmony/fuck.rpy:287
-translate russian harmony_fuck_date_intro_male_473808f4:
+translate russian harmony_fuck_date_intro_male_d4758560:
     harmony.say "Это я... я... такое сделала?"
 
 # ch/harmony/fuck.rpy:289
@@ -23005,7 +23005,7 @@ translate russian harmony_fuck_blowjob_0da30a76:
     harmony.say "Минет?!"
 
 # ch/harmony/fuck.rpy:394
-translate russian harmony_fuck_blowjob_8c6e97aa:
+translate russian harmony_fuck_blowjob_30f6b796:
     harmony.say "О боже... Мне следовало бы отказаться."
 
 # ch/harmony/fuck.rpy:395
@@ -23069,7 +23069,7 @@ translate russian harmony_fuck_blowjob_272128b1:
     mike.say "Помнишь, что мы делали в прошлый раз?"
 
 # ch/harmony/fuck.rpy:420
-translate russian harmony_fuck_blowjob_c26ec8fc:
+translate russian harmony_fuck_blowjob_1cdb1e24:
     mike.say "Когда ты... ласкала меня ртом?"
 
 # ch/harmony/fuck.rpy:422
@@ -23089,7 +23089,7 @@ translate russian harmony_fuck_blowjob_aa33dd12:
     harmony.say "Ты про минет?"
 
 # ch/harmony/fuck.rpy:428
-translate russian harmony_fuck_blowjob_45c57a25:
+translate russian harmony_fuck_blowjob_518d5116:
     harmony.say "Хо... хочешь, чтобы я повторила?"
 
 # ch/harmony/fuck.rpy:430
@@ -23129,7 +23129,7 @@ translate russian harmony_fuck_blowjob_a2a0f1a5:
     "И такая огромная грудь!"
 
 # ch/harmony/fuck.rpy:444
-translate russian harmony_fuck_blowjob_8414c48f:
+translate russian harmony_fuck_blowjob_e7d0871d:
     harmony.say "Мне... мне уже взять его в рот?"
 
 # ch/harmony/fuck.rpy:447
@@ -23461,7 +23461,7 @@ translate russian harmony_fuck_titjob_85c75b51:
     "Она смотрит на свою более чем пышную грудь, а потом снова на меня."
 
 # ch/harmony/fuck.rpy:574
-translate russian harmony_fuck_titjob_5ef7a8ee:
+translate russian harmony_fuck_titjob_3cf75000:
     harmony.say "Чт... что ты хочешь сказать, [lssb_harmony.hero_name()]?"
 
 # ch/harmony/fuck.rpy:575
@@ -23497,7 +23497,7 @@ translate russian harmony_fuck_titjob_169c9ba0:
     "А потом смотрит мне прямо в глаза."
 
 # ch/harmony/fuck.rpy:588
-translate russian harmony_fuck_titjob_60197f27:
+translate russian harmony_fuck_titjob_e57fdd74:
     harmony.say "А... а разве так можно?"
 
 # ch/harmony/fuck.rpy:589
@@ -23597,7 +23597,7 @@ translate russian harmony_fuck_titjob_272128b1:
     mike.say "Помнишь, что мы делали в прошлый раз?"
 
 # ch/harmony/fuck.rpy:627
-translate russian harmony_fuck_titjob_316a772a:
+translate russian harmony_fuck_titjob_1d6a8afb:
     mike.say "Когда ты... ласкала меня грудью?"
 
 # ch/harmony/fuck.rpy:628
@@ -23617,7 +23617,7 @@ translate russian harmony_fuck_titjob_d9ac04e5:
     harmony.say "Ты про ласки грудью?"
 
 # ch/harmony/fuck.rpy:633
-translate russian harmony_fuck_titjob_45c57a25:
+translate russian harmony_fuck_titjob_518d5116:
     harmony.say "Хо... хочешь, чтобы я повторила?"
 
 # ch/harmony/fuck.rpy:635
@@ -23661,11 +23661,11 @@ translate russian harmony_fuck_titjob_66b56122:
     "Пару мгновений спустя мой член уже у неё в руке."
 
 # ch/harmony/fuck.rpy:654
-translate russian harmony_fuck_titjob_a8abff08:
+translate russian harmony_fuck_titjob_426a9374:
     harmony.say "О... о боже..."
 
 # ch/harmony/fuck.rpy:655
-translate russian harmony_fuck_titjob_82d4df49:
+translate russian harmony_fuck_titjob_16805473:
     harmony.say "Он... такой БОЛЬШОЙ!"
 
 # ch/harmony/fuck.rpy:657
@@ -23789,7 +23789,7 @@ translate russian harmony_fuck_titjob_404192e8:
     harmony.say "Должно быть, я и правда уже наловчилась!"
 
 # ch/harmony/fuck.rpy:700
-translate russian harmony_fuck_titjob_910fe628:
+translate russian harmony_fuck_titjob_49425442:
     harmony.say "М-м-м... хм-м... м-м..."
 
 # ch/harmony/fuck.rpy:701
@@ -23821,7 +23821,7 @@ translate russian harmony_fuck_titjob_0b9a203a:
     harmony.say "А что именно происходит, когда ты..."
 
 # ch/harmony/fuck.rpy:708
-translate russian harmony_fuck_titjob_d3254434:
+translate russian harmony_fuck_titjob_b9338879:
     harmony.say "Когда ты... ну, понимаешь... когда..."
 
 # ch/harmony/fuck.rpy:709
@@ -23837,7 +23837,7 @@ translate russian harmony_fuck_titjob_5bd6e008:
     "Которая, конечно же, летит прямо в лицо ничего не подозревающей Хармони."
 
 # ch/harmony/fuck.rpy:717
-translate russian harmony_fuck_titjob_5564b731:
+translate russian harmony_fuck_titjob_59ca5cba:
     harmony.say "А... ох..."
 
 # ch/harmony/fuck.rpy:718
@@ -23849,7 +23849,7 @@ translate russian harmony_fuck_titjob_f915d161:
     harmony.say "Мне в глаз попало!"
 
 # ch/harmony/fuck.rpy:720
-translate russian harmony_fuck_titjob_d6297dd3:
+translate russian harmony_fuck_titjob_5c307aa5:
     harmony.say "Кха... и в рот!"
 
 # ch/harmony/fuck.rpy:722
@@ -23881,7 +23881,7 @@ translate russian harmony_fuck_titjob_e0db3450:
     mike.say "Это было невероятно, Хармони."
 
 # ch/harmony/fuck.rpy:729
-translate russian harmony_fuck_titjob_b6531410:
+translate russian harmony_fuck_titjob_f1de052a:
     harmony.say "П... правда?"
 
 # ch/harmony/fuck.rpy:730
@@ -23917,7 +23917,7 @@ translate russian harmony_fuck_cunnilingus_8108b152:
     harmony.say "Не терпится повеселиться!"
 
 # ch/harmony/fuck.rpy:746
-translate russian harmony_fuck_cunnilingus_b7772329:
+translate russian harmony_fuck_cunnilingus_f0f4d50f:
     harmony.say "Ох... Я так взволнована, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/fuck.rpy:747
@@ -23997,7 +23997,7 @@ translate russian harmony_fuck_cunnilingus_bcdca4d7:
     "При одном этом слове Хармони широко раскрывает глаза."
 
 # ch/harmony/fuck.rpy:774
-translate russian harmony_fuck_cunnilingus_f6ac39fb:
+translate russian harmony_fuck_cunnilingus_78c5d95f:
     harmony.say "Ты... ты хочешь, чтобы я пососала?"
 
 # ch/harmony/fuck.rpy:775
@@ -24045,7 +24045,7 @@ translate russian harmony_fuck_cunnilingus_0dc6ca32:
     harmony.say "Давай!"
 
 # ch/harmony/fuck.rpy:792
-translate russian harmony_fuck_cunnilingus_95193208:
+translate russian harmony_fuck_cunnilingus_4f7179ff:
     harmony.say "Звучит... приятно."
 
 # ch/harmony/fuck.rpy:793
@@ -24069,7 +24069,7 @@ translate russian harmony_fuck_cunnilingus_272128b1:
     mike.say "Помнишь, что мы делали в прошлый раз?"
 
 # ch/harmony/fuck.rpy:802
-translate russian harmony_fuck_cunnilingus_2a0c8541:
+translate russian harmony_fuck_cunnilingus_b13edc91:
     mike.say "Когда я... ласкал тебя ртом?"
 
 # ch/harmony/fuck.rpy:803
@@ -24085,7 +24085,7 @@ translate russian harmony_fuck_cunnilingus_8add8662:
     "Может, значит, она не против?"
 
 # ch/harmony/fuck.rpy:807
-translate russian harmony_fuck_cunnilingus_8c2f8ce9:
+translate russian harmony_fuck_cunnilingus_80c67023:
     harmony.say "Ты... ты хочешь повторить?"
 
 # ch/harmony/fuck.rpy:809
@@ -24161,7 +24161,7 @@ translate russian harmony_fuck_cunnilingus_18cfd74f:
     harmony.say "Ты ещё можешь дышать?"
 
 # ch/harmony/fuck.rpy:834
-translate russian harmony_fuck_cunnilingus_804f9326:
+translate russian harmony_fuck_cunnilingus_769c15f7:
     harmony.say "Ох... о-о-ох..."
 
 # ch/harmony/fuck.rpy:835
@@ -24921,7 +24921,7 @@ translate russian harmony_fuck_missionary_b36994bd:
     mike.say "Что такое, Хармони?"
 
 # ch/harmony/fuck.rpy:1065
-translate russian harmony_fuck_missionary_b5fdb4ee:
+translate russian harmony_fuck_missionary_8703b61b:
     harmony.say "Я... хотела спросить, не мог бы ты..."
 
 # ch/harmony/fuck.rpy:1066
@@ -24945,7 +24945,7 @@ translate russian harmony_fuck_missionary_2a18f5d3:
     "Я киваю, всё ещё пытаясь осмыслить, чего Хармони от меня хочет."
 
 # ch/harmony/fuck.rpy:1071
-translate russian harmony_fuck_missionary_dc45a32b:
+translate russian harmony_fuck_missionary_0326c5fb:
     mike.say "А... хорошо, Хармони."
 
 # ch/harmony/fuck.rpy:1072
@@ -24993,7 +24993,7 @@ translate russian harmony_fuck_missionary_881d450a:
     "Поэтому я едва заметно двигаюсь вперёд-назад, давая её телу привыкнуть к моему."
 
 # ch/harmony/fuck.rpy:1086
-translate russian harmony_fuck_missionary_356c82ed:
+translate russian harmony_fuck_missionary_57391a93:
     harmony.say "Это... это так странно, [lssb_harmony.hero_name()]."
 
 # ch/harmony/fuck.rpy:1087
@@ -25013,7 +25013,7 @@ translate russian harmony_fuck_missionary_cc09b2b8:
     "Я не тороплюсь, с каждым осторожным движением входя немного глубже, пока сопротивление не исчезает."
 
 # ch/harmony/fuck.rpy:1091
-translate russian harmony_fuck_missionary_33ce8c51:
+translate russian harmony_fuck_missionary_cb678b58:
     harmony.say "О... о боже. Кажется... кажется, я наконец понимаю, из-за чего столько разговоров."
 
 # ch/harmony/fuck.rpy:1093
@@ -25065,11 +25065,11 @@ translate russian harmony_fuck_missionary_4151c910:
     harmony.say "О-о-ох..."
 
 # ch/harmony/fuck.rpy:1111
-translate russian harmony_fuck_missionary_dcdd568b:
+translate russian harmony_fuck_missionary_ca71328f:
     harmony.say "Что... что это было?!"
 
 # ch/harmony/fuck.rpy:1113
-translate russian harmony_fuck_missionary_39b51f44:
+translate russian harmony_fuck_missionary_6a44a465:
     mike.say "Это... мой оргазм, Хармони."
 
 # ch/harmony/fuck.rpy:1114
@@ -25081,7 +25081,7 @@ translate russian harmony_fuck_missionary_1058beb4:
     "Осознав, что произошло, она краснеет до свекольного цвета."
 
 # ch/harmony/fuck.rpy:1117
-translate russian harmony_fuck_missionary_84c2b98b:
+translate russian harmony_fuck_missionary_cacbf5ce:
     mike.say "Хармони... ты в порядке?"
 
 # ch/harmony/fuck.rpy:1118
@@ -25093,7 +25093,7 @@ translate russian harmony_fuck_missionary_50a9006a:
     "Но потом тихим, робким голосом произносит:"
 
 # ch/harmony/fuck.rpy:1120
-translate russian harmony_fuck_missionary_d3f1c624:
+translate russian harmony_fuck_missionary_d722c8aa:
     harmony.say "Это... это было приятно."
 
 # ch/harmony/fuck.rpy:1121
@@ -25537,11 +25537,11 @@ translate russian harmony_fuck_missionary_b2762a6c:
     "И я не знаю, что мешает ей говорить: удивление или полное удовлетворение."
 
 # ch/harmony/fuck.rpy:1282
-translate russian harmony_fuck_missionary_4d5d26d0:
+translate russian harmony_fuck_missionary_0d5dd43c:
     harmony.say "Не... останавливайся... пожалуйста!"
 
 # ch/harmony/fuck.rpy:1283
-translate russian harmony_fuck_missionary_8b7492df:
+translate russian harmony_fuck_missionary_57184a6e:
     harmony.say "Таблетки... помни про таблетки!"
 
 # ch/harmony/fuck.rpy:1284
@@ -25609,11 +25609,11 @@ translate russian harmony_fuck_missionary_e04a21c4:
     "И этой заминки оказывается достаточно..."
 
 # ch/harmony/fuck.rpy:1314
-translate russian harmony_fuck_missionary_1e24dea7:
+translate russian harmony_fuck_missionary_d64952c1:
     harmony.say "Ох... ох, блядь... [lssb_harmony.hero_name()]!"
 
 # ch/harmony/fuck.rpy:1316
-translate russian harmony_fuck_missionary_adc7ddad:
+translate russian harmony_fuck_missionary_07c67e64:
     harmony.say "Наполни меня... наполни!"
 
 # ch/harmony/fuck.rpy:1321
@@ -25821,11 +25821,11 @@ translate russian harmony_fuck_missionary_b2762a6c_1:
     "И я не знаю, что мешает ей говорить: удивление или полное удовлетворение."
 
 # ch/harmony/fuck.rpy:1403
-translate russian harmony_fuck_missionary_4d5d26d0_1:
+translate russian harmony_fuck_missionary_0d5dd43c_1:
     harmony.say "Не... останавливайся... пожалуйста!"
 
 # ch/harmony/fuck.rpy:1404
-translate russian harmony_fuck_missionary_8b7492df_1:
+translate russian harmony_fuck_missionary_57184a6e_1:
     harmony.say "Таблетки... помни про таблетки!"
 
 # ch/harmony/fuck.rpy:1406
@@ -25893,7 +25893,7 @@ translate russian harmony_fuck_missionary_c5728001:
     "Ненадолго, но этого хватает."
 
 # ch/harmony/fuck.rpy:1435
-translate russian harmony_fuck_missionary_7ff48819:
+translate russian harmony_fuck_missionary_bf862ff9:
     harmony.say "Ох... чёрт... [lssb_harmony.hero_name()]!"
 
 # ch/harmony/fuck.rpy:1436
@@ -26093,11 +26093,11 @@ translate russian harmony_fuck_missionary_cbbbc94f:
     "Я не азартный человек, но готов поспорить: ей это понравилось."
 
 # ch/harmony/fuck.rpy:1526
-translate russian harmony_fuck_missionary_4d5d26d0_2:
+translate russian harmony_fuck_missionary_0d5dd43c_2:
     harmony.say "Не... останавливайся... пожалуйста!"
 
 # ch/harmony/fuck.rpy:1527
-translate russian harmony_fuck_missionary_8b7492df_2:
+translate russian harmony_fuck_missionary_57184a6e_2:
     harmony.say "Таблетки... помни про таблетки!"
 
 # ch/harmony/fuck.rpy:1528
@@ -26245,11 +26245,11 @@ translate russian harmony_fuck_doggy_7a860e9c:
     harmony.say "Моя киска изнывает без него, [lssb_harmony.hero_name()]! Дай его мне!"
 
 # ch/harmony/fuck.rpy:1599
-translate russian harmony_fuck_doggy_a6a70fdc:
+translate russian harmony_fuck_doggy_eda0ec1e:
     harmony.say "М-м-м... Сейчас будет так хорошо!"
 
 # ch/harmony/fuck.rpy:1601
-translate russian harmony_fuck_doggy_989b3a5c:
+translate russian harmony_fuck_doggy_21773856:
     harmony.say "Ох... Я так тебя хочу, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/fuck.rpy:1602
@@ -26313,7 +26313,7 @@ translate russian harmony_fuck_doggy_324129cc:
     "Чувствую, как мышцы её попки пытаются сопротивляться."
 
 # ch/harmony/fuck.rpy:1623
-translate russian harmony_fuck_doggy_e6f8cfa6:
+translate russian harmony_fuck_doggy_59e4df0a:
     harmony.say "Ах... ах... о да... моя попка!"
 
 # ch/harmony/fuck.rpy:1625
@@ -26333,7 +26333,7 @@ translate russian harmony_fuck_doggy_52af4747:
     harmony.say "Пожалуйста, трахай мою попку сильнее!"
 
 # ch/harmony/fuck.rpy:1630
-translate russian harmony_fuck_doggy_25926cc2:
+translate russian harmony_fuck_doggy_b3c5e866:
     harmony.say "О-о-ох... моя дырочка!"
 
 # ch/harmony/fuck.rpy:1632
@@ -26353,7 +26353,7 @@ translate russian harmony_fuck_doggy_3071b54f:
     harmony.say "Обожаю!"
 
 # ch/harmony/fuck.rpy:1637
-translate russian harmony_fuck_doggy_c5aecb3a:
+translate russian harmony_fuck_doggy_573b6b64:
     harmony.say "Ох... ох, моя попка!"
 
 # ch/harmony/fuck.rpy:1639
@@ -26365,7 +26365,7 @@ translate russian harmony_fuck_doggy_9b1d43ed_2:
     "И стону, погружаясь в Хармони всё глубже."
 
 # ch/harmony/fuck.rpy:1641
-translate russian harmony_fuck_doggy_170909e6:
+translate russian harmony_fuck_doggy_db12dd63:
     harmony.say "Это... это приятно!"
 
 # ch/harmony/fuck.rpy:1642
@@ -26461,15 +26461,15 @@ translate russian harmony_fuck_doggy_dc905e10:
     "Когда я кончаю, она содрогается всем телом."
 
 # ch/harmony/fuck.rpy:1673
-translate russian harmony_fuck_doggy_49b6f53a:
+translate russian harmony_fuck_doggy_12886a29:
     harmony.say "Ох, блядь... блядь..."
 
 # ch/harmony/fuck.rpy:1675
-translate russian harmony_fuck_doggy_5a3aaf86:
+translate russian harmony_fuck_doggy_bf22a4de:
     harmony.say "О Господи... Господи..."
 
 # ch/harmony/fuck.rpy:1677
-translate russian harmony_fuck_doggy_45d85b47:
+translate russian harmony_fuck_doggy_3a109c71:
     harmony.say "О боже... о боже..."
 
 # ch/harmony/fuck.rpy:1678
@@ -26501,15 +26501,15 @@ translate russian harmony_fuck_doggy_e4889794:
     "Она содрогается всем телом от этого ощущения."
 
 # ch/harmony/fuck.rpy:1688
-translate russian harmony_fuck_doggy_49b6f53a_1:
+translate russian harmony_fuck_doggy_12886a29_1:
     harmony.say "Ох, блядь... блядь..."
 
 # ch/harmony/fuck.rpy:1690
-translate russian harmony_fuck_doggy_5a3aaf86_1:
+translate russian harmony_fuck_doggy_bf22a4de_1:
     harmony.say "О Господи... Господи..."
 
 # ch/harmony/fuck.rpy:1692
-translate russian harmony_fuck_doggy_45d85b47_1:
+translate russian harmony_fuck_doggy_3a109c71_1:
     harmony.say "О боже... о боже..."
 
 # ch/harmony/fuck.rpy:1693
@@ -26557,11 +26557,11 @@ translate russian harmony_fuck_doggy_9c71366e:
     "А ещё слышу, как это на неё действует!"
 
 # ch/harmony/fuck.rpy:1720
-translate russian harmony_fuck_doggy_0e8e08c3:
+translate russian harmony_fuck_doggy_bf11ffac:
     harmony.say "Ах, чёрт... вот так..."
 
 # ch/harmony/fuck.rpy:1721
-translate russian harmony_fuck_doggy_a2c4dbb1:
+translate russian harmony_fuck_doggy_5137f988:
     harmony.say "Обожаю твой член... обожаю чувствовать его внутри!"
 
 # ch/harmony/fuck.rpy:1723
@@ -26569,7 +26569,7 @@ translate russian harmony_fuck_doggy_461eb764_1:
     harmony.say "О да..."
 
 # ch/harmony/fuck.rpy:1724
-translate russian harmony_fuck_doggy_d195ba30:
+translate russian harmony_fuck_doggy_55669b89:
     harmony.say "Мне нравится... хочу ещё!"
 
 # ch/harmony/fuck.rpy:1726
@@ -26625,7 +26625,7 @@ translate russian harmony_fuck_doggy_9b763417:
     harmony.say "Да, блядь..."
 
 # ch/harmony/fuck.rpy:1741
-translate russian harmony_fuck_doggy_ee620aac:
+translate russian harmony_fuck_doggy_ff37c9bf:
     harmony.say "Хочу сильнее... сильнее!"
 
 # ch/harmony/fuck.rpy:1743
@@ -26633,7 +26633,7 @@ translate russian harmony_fuck_doggy_3ac19059:
     harmony.say "Вот так..."
 
 # ch/harmony/fuck.rpy:1744
-translate russian harmony_fuck_doggy_3901e051:
+translate russian harmony_fuck_doggy_3ffabd4f:
     harmony.say "Ещё... ещё... сильнее!"
 
 # ch/harmony/fuck.rpy:1746
@@ -26709,15 +26709,15 @@ translate russian harmony_fuck_doggy_dc905e10_1:
     "Когда я кончаю, она содрогается всем телом."
 
 # ch/harmony/fuck.rpy:1772
-translate russian harmony_fuck_doggy_49b6f53a_2:
+translate russian harmony_fuck_doggy_12886a29_2:
     harmony.say "Ох, блядь... блядь..."
 
 # ch/harmony/fuck.rpy:1774
-translate russian harmony_fuck_doggy_5a3aaf86_2:
+translate russian harmony_fuck_doggy_bf22a4de_2:
     harmony.say "О Господи... Господи..."
 
 # ch/harmony/fuck.rpy:1776
-translate russian harmony_fuck_doggy_45d85b47_2:
+translate russian harmony_fuck_doggy_3a109c71_2:
     harmony.say "О боже... о боже..."
 
 # ch/harmony/fuck.rpy:1777
@@ -26749,15 +26749,15 @@ translate russian harmony_fuck_doggy_e4889794_1:
     "Она содрогается всем телом от этого ощущения."
 
 # ch/harmony/fuck.rpy:1788
-translate russian harmony_fuck_doggy_49b6f53a_3:
+translate russian harmony_fuck_doggy_12886a29_3:
     harmony.say "Ох, блядь... блядь..."
 
 # ch/harmony/fuck.rpy:1790
-translate russian harmony_fuck_doggy_5a3aaf86_3:
+translate russian harmony_fuck_doggy_bf22a4de_3:
     harmony.say "О Господи... Господи..."
 
 # ch/harmony/fuck.rpy:1792
-translate russian harmony_fuck_doggy_45d85b47_3:
+translate russian harmony_fuck_doggy_3a109c71_3:
     harmony.say "О боже... о боже..."
 
 # ch/harmony/fuck.rpy:1793
@@ -26793,15 +26793,15 @@ translate russian harmony_fuck_doggy_dc905e10_2:
     "Когда я кончаю, она содрогается всем телом."
 
 # ch/harmony/fuck.rpy:1812
-translate russian harmony_fuck_doggy_49b6f53a_4:
+translate russian harmony_fuck_doggy_12886a29_4:
     harmony.say "Ох, блядь... блядь..."
 
 # ch/harmony/fuck.rpy:1814
-translate russian harmony_fuck_doggy_5a3aaf86_4:
+translate russian harmony_fuck_doggy_bf22a4de_4:
     harmony.say "О Господи... Господи..."
 
 # ch/harmony/fuck.rpy:1816
-translate russian harmony_fuck_doggy_45d85b47_4:
+translate russian harmony_fuck_doggy_3a109c71_4:
     harmony.say "О боже... о боже..."
 
 # ch/harmony/fuck.rpy:1817
@@ -26837,15 +26837,15 @@ translate russian harmony_fuck_doggy_dc905e10_3:
     "Когда я кончаю, она содрогается всем телом."
 
 # ch/harmony/fuck.rpy:1832
-translate russian harmony_fuck_doggy_49b6f53a_5:
+translate russian harmony_fuck_doggy_12886a29_5:
     harmony.say "Ох, блядь... блядь..."
 
 # ch/harmony/fuck.rpy:1834
-translate russian harmony_fuck_doggy_5a3aaf86_5:
+translate russian harmony_fuck_doggy_bf22a4de_5:
     harmony.say "О Господи... Господи..."
 
 # ch/harmony/fuck.rpy:1836
-translate russian harmony_fuck_doggy_45d85b47_5:
+translate russian harmony_fuck_doggy_3a109c71_5:
     harmony.say "О боже... о боже..."
 
 # ch/harmony/fuck.rpy:1837
@@ -26885,15 +26885,15 @@ translate russian harmony_fuck_doggy_dc905e10_4:
     "Когда я кончаю, она содрогается всем телом."
 
 # ch/harmony/fuck.rpy:1853
-translate russian harmony_fuck_doggy_49b6f53a_6:
+translate russian harmony_fuck_doggy_12886a29_6:
     harmony.say "Ох, блядь... блядь..."
 
 # ch/harmony/fuck.rpy:1855
-translate russian harmony_fuck_doggy_5a3aaf86_6:
+translate russian harmony_fuck_doggy_bf22a4de_6:
     harmony.say "О Господи... Господи..."
 
 # ch/harmony/fuck.rpy:1857
-translate russian harmony_fuck_doggy_45d85b47_6:
+translate russian harmony_fuck_doggy_3a109c71_6:
     harmony.say "О боже... о боже..."
 
 # ch/harmony/fuck.rpy:1858
@@ -26937,15 +26937,15 @@ translate russian harmony_fuck_doggy_dc905e10_5:
     "Когда я кончаю, она содрогается всем телом."
 
 # ch/harmony/fuck.rpy:1876
-translate russian harmony_fuck_doggy_49b6f53a_7:
+translate russian harmony_fuck_doggy_12886a29_7:
     harmony.say "Ох, блядь... блядь..."
 
 # ch/harmony/fuck.rpy:1878
-translate russian harmony_fuck_doggy_5a3aaf86_7:
+translate russian harmony_fuck_doggy_bf22a4de_7:
     harmony.say "О Господи... Господи..."
 
 # ch/harmony/fuck.rpy:1880
-translate russian harmony_fuck_doggy_45d85b47_7:
+translate russian harmony_fuck_doggy_3a109c71_7:
     harmony.say "О боже... о боже..."
 
 # ch/harmony/fuck.rpy:1881
@@ -26973,11 +26973,11 @@ translate russian harmony_sleep_date_fuck_fd984443:
     harmony.say "Можно мне сегодня разделить с вами постель, господин?"
 
 # ch/harmony/fuck.rpy:1897
-translate russian harmony_sleep_date_fuck_53a35ae9:
+translate russian harmony_sleep_date_fuck_877e4666:
     harmony.say "М-м-м... Ты не против, если я останусь на ночь?"
 
 # ch/harmony/fuck.rpy:1901
-translate russian harmony_sleep_date_fuck_788d9cdd:
+translate russian harmony_sleep_date_fuck_4498d9e0:
     mike.say "Нет... Мне утром очень рано вставать."
 
 # ch/harmony/fuck.rpy:1902
@@ -26989,7 +26989,7 @@ translate russian harmony_sleep_date_fuck_f5fa3fa2:
     "Хармони разочарованно хмурится, явно пытаясь справиться с чувством, что её отвергли."
 
 # ch/harmony/fuck.rpy:1906
-translate russian harmony_sleep_date_fuck_3b0f2821:
+translate russian harmony_sleep_date_fuck_08521f08:
     harmony.say "Ладно... Спокойной ночи, что ли."
 
 # ch/harmony/fuck.rpy:1908
@@ -26997,7 +26997,7 @@ translate russian harmony_sleep_date_fuck_24186f74:
     "Она качает головой, собирает вещи и выходит из моей спальни."
 
 # ch/harmony/fuck.rpy:1913
-translate russian harmony_sleep_date_fuck_785f12ef:
+translate russian harmony_sleep_date_fuck_32318b76:
     mike.say "ДА... То есть да... если хочешь!"
 
 # ch/harmony/fuck.rpy:1914
@@ -27037,7 +27037,7 @@ translate russian harmony_sleep_date_fuck_20a50e5d:
     "Почувствовав, как я шевельнулся, она завозилась и сонно заморгала, тихонько что-то промычав."
 
 # ch/harmony/fuck.rpy:1941
-translate russian harmony_sleep_date_fuck_d76d4475:
+translate russian harmony_sleep_date_fuck_b6888ff2:
     harmony.say "Ой! Я... я правда осталась на всю ночь."
 
 # ch/harmony/fuck.rpy:1942
@@ -27161,7 +27161,7 @@ translate russian harmony_sleep_date_fuck_dc3d5f82:
     "Дыхание Хармони замирает, а затем вырывается долгим дрожащим вздохом."
 
 # ch/harmony/fuck.rpy:2002
-translate russian harmony_sleep_date_fuck_b42e7410:
+translate russian harmony_sleep_date_fuck_f18a527d:
     harmony.say "О... о боже. Я снова и снова выбираю этот грех, [lssb_harmony.hero_name()], и не могу перестать."
 
 # ch/harmony/fuck.rpy:2004
@@ -27173,7 +27173,7 @@ translate russian harmony_sleep_date_fuck_79a34c4a:
     harmony.say "Господи, помоги... Ты входишь в меня так, словно для этого и создан."
 
 # ch/harmony/fuck.rpy:2008
-translate russian harmony_sleep_date_fuck_b4489127:
+translate russian harmony_sleep_date_fuck_fe8fa8e5:
     harmony.say "Да... да, наполни меня. Потом я помолюсь о прощении, обещаю."
 
 # ch/harmony/fuck.rpy:2010
@@ -27217,7 +27217,7 @@ translate russian harmony_sleep_date_fuck_b9439856:
     "Она утыкается лицом в подушку, словно пытаясь заглушить себя, но вскоре совсем сдаётся."
 
 # ch/harmony/fuck.rpy:2022
-translate russian harmony_sleep_date_fuck_f58c377d:
+translate russian harmony_sleep_date_fuck_0a43781e:
     harmony.say "Нельзя так громко... но помогите мне, небеса, я не могу сдержаться!"
 
 # ch/harmony/fuck.rpy:2024
@@ -27225,7 +27225,7 @@ translate russian harmony_sleep_date_fuck_1878c06a:
     harmony.say "[lssb_harmony.hero_name()]... Что ты со мной делаешь? Будто всё тело светится."
 
 # ch/harmony/fuck.rpy:2026
-translate russian harmony_sleep_date_fuck_c5706034:
+translate russian harmony_sleep_date_fuck_65f3dc60:
     harmony.say "Ещё... пожалуйста, ещё. Я и не знала, что утро может быть таким."
 
 # ch/harmony/fuck.rpy:2028
@@ -27313,7 +27313,7 @@ translate russian harmony_sleep_date_fuck_6522f0be:
     harmony.say "Что бы ни случилось, не отпускай меня. Не оставляй меня с этим одну!"
 
 # ch/harmony/fuck.rpy:2055
-translate russian harmony_sleep_date_fuck_03e98d51:
+translate russian harmony_sleep_date_fuck_79c153f1:
     harmony.say "Я чувствую, как ты пульсируешь во мне. Это... это то самое?"
 
 # ch/harmony/fuck.rpy:2057
@@ -27341,7 +27341,7 @@ translate russian harmony_sleep_date_fuck_e3a34130:
     "Я со стоном кончаю, и всё остаётся в презервативе."
 
 # ch/harmony/fuck.rpy:2072
-translate russian harmony_sleep_date_fuck_ddea7c36:
+translate russian harmony_sleep_date_fuck_0f2195de:
     harmony.say "Ох... Я чувствую, как ты дрожишь, [lssb_harmony.hero_name()]."
 
 # ch/harmony/fuck.rpy:2073
@@ -27385,7 +27385,7 @@ translate russian harmony_sleep_date_fuck_5b289c88:
     "Сперма покрывает мягкий живот и грудь Хармони, и она густо краснеет."
 
 # ch/harmony/fuck.rpy:2096
-translate russian harmony_sleep_date_fuck_37c9b21b:
+translate russian harmony_sleep_date_fuck_2d8136f6:
     harmony.say "Ой! Я... совсем этого не ожидала."
 
 # ch/harmony/fuck.rpy:2097
@@ -27397,7 +27397,7 @@ translate russian harmony_sleep_date_fuck_fe246663:
     harmony.say "М-м-м, посмотри, как ты меня испачкал."
 
 # ch/harmony/fuck.rpy:2100
-translate russian harmony_sleep_date_fuck_5331f97d:
+translate russian harmony_sleep_date_fuck_d8b7def0:
     harmony.say "Предусмотрительно. Немного обидно... но предусмотрительно."
 
 # ch/harmony/fuck.rpy:2105
@@ -27429,15 +27429,15 @@ translate russian harmony_sleep_date_fuck_8b24ce76_1:
     "Я со стоном кончаю, изливаясь в неё до последней капли."
 
 # ch/harmony/fuck.rpy:2129
-translate russian harmony_sleep_date_fuck_6203a7c3:
+translate russian harmony_sleep_date_fuck_d9484e14:
     harmony.say "Ох... О Господи, я чувствую. Что мы наделали, [lssb_harmony.hero_name()]?"
 
 # ch/harmony/fuck.rpy:2130
-translate russian harmony_sleep_date_fuck_42e2833c:
+translate russian harmony_sleep_date_fuck_a85a6d6b:
     harmony.say "Да простит нас Бог. И всё же... почему я чувствую себя такой благословенной?"
 
 # ch/harmony/fuck.rpy:2133
-translate russian harmony_sleep_date_fuck_b1d12b1f:
+translate russian harmony_sleep_date_fuck_716eda75:
     harmony.say "Так тепло... Я чувствую всё это внутри."
 
 # ch/harmony/fuck.rpy:2134
@@ -27445,7 +27445,7 @@ translate russian harmony_sleep_date_fuck_daa09768:
     harmony.say "Мы ужасно согрешили. Но даже если бы я пыталась, не смогла бы тебя остановить."
 
 # ch/harmony/fuck.rpy:2136
-translate russian harmony_sleep_date_fuck_c7fc7998:
+translate russian harmony_sleep_date_fuck_656f2228:
     harmony.say "Да... прямо туда, всё. Позволь мне ещё немного удержать это внутри."
 
 # ch/harmony/fuck.rpy:2137
@@ -27469,11 +27469,11 @@ translate russian harmony_sleep_date_fuck_fd4e2e1a:
     harmony.say "Я твоя хорошая девочка и утром, и ночью. Наполняй меня так часто, как захочешь."
 
 # ch/harmony/fuck.rpy:2149
-translate russian harmony_sleep_date_fuck_a1a793ec:
+translate russian harmony_sleep_date_fuck_8a66cffb:
     harmony.say "Ты кончил в меня... правда кончил. Прости меня, Господи, но я этого хотела."
 
 # ch/harmony/fuck.rpy:2150
-translate russian harmony_sleep_date_fuck_e8057ae7:
+translate russian harmony_sleep_date_fuck_d34ca855:
     harmony.say "Пока не вынимай. Просто... дай ещё немного это почувствовать, пожалуйста."
 
 # ch/harmony/fuck.rpy:2153
@@ -27549,7 +27549,7 @@ translate russian harmony_morning_after_date_20a50e5d:
     "Почувствовав, как я шевельнулся, она завозилась и сонно заморгала, тихонько что-то промычав."
 
 # ch/harmony/fuck.rpy:2194
-translate russian harmony_morning_after_date_f3250fe5:
+translate russian harmony_morning_after_date_8d3e7264:
     harmony.say "М-м-м... Доброе утро, [lssb_harmony.hero_name()]."
 
 # ch/harmony/fuck.rpy:2195
@@ -27877,7 +27877,7 @@ translate russian harmony_hottub_sex_male_e1094ab6:
     "С каждым толчком вода бурлит и плещется о бортики джакузи."
 
 # ch/harmony/fuck.rpy:2303
-translate russian harmony_hottub_sex_male_b45817bb:
+translate russian harmony_hottub_sex_male_32e1c47b:
     harmony.say "Ох... ох, [lssb_harmony.hero_name()], прости меня..."
 
 # ch/harmony/fuck.rpy:2304
@@ -27885,7 +27885,7 @@ translate russian harmony_hottub_sex_male_462ccade:
     harmony.say "Мне не должно так сильно это нравиться, но я не могу остановиться!"
 
 # ch/harmony/fuck.rpy:2306
-translate russian harmony_hottub_sex_male_8d3d4c9e:
+translate russian harmony_hottub_sex_male_420a918c:
     harmony.say "Да... пользуйся мной, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/fuck.rpy:2307
@@ -27893,7 +27893,7 @@ translate russian harmony_hottub_sex_male_25ef4748:
     harmony.say "Теперь моё тело принадлежит тебе. Делай с ним что хочешь!"
 
 # ch/harmony/fuck.rpy:2309
-translate russian harmony_hottub_sex_male_9afc6275:
+translate russian harmony_hottub_sex_male_317798a6:
     harmony.say "Боже, да... сильнее... мне нужно всё!"
 
 # ch/harmony/fuck.rpy:2310
@@ -27933,7 +27933,7 @@ translate russian harmony_hottub_sex_male_0d97ccdb:
     harmony.say "Я кончаю!"
 
 # ch/harmony/fuck.rpy:2326
-translate russian harmony_hottub_sex_male_c4386af0:
+translate russian harmony_hottub_sex_male_550a4487:
     harmony.say "Да... отдай мне всё!"
 
 # ch/harmony/fuck.rpy:2327
@@ -27953,7 +27953,7 @@ translate russian harmony_hottub_sex_male_7ced0749:
     harmony.say "Чёрт..."
 
 # ch/harmony/fuck.rpy:2333
-translate russian harmony_hottub_sex_male_a189dd1f:
+translate russian harmony_hottub_sex_male_99d798d0:
     harmony.say "Я... я обожаю..."
 
 # ch/harmony/fuck.rpy:2334
@@ -27985,7 +27985,7 @@ translate russian harmony_hottub_sex_male_b4615829:
     harmony.say "Что ты..."
 
 # ch/harmony/fuck.rpy:2346
-translate russian harmony_hottub_sex_male_068fc833:
+translate russian harmony_hottub_sex_male_e47500cc:
     harmony.say "Нет... нет..."
 
 # ch/harmony/fuck.rpy:2347
@@ -28125,7 +28125,7 @@ translate russian get_harmony_lapdance_6a321485:
     "Я поднимаю взгляд как раз вовремя, чтобы заметить Хармони, заглядывающую в кабинку."
 
 # ch/harmony/fuck.rpy:2404
-translate russian get_harmony_lapdance_9dfc24e2:
+translate russian get_harmony_lapdance_db64f7c9:
     harmony.say "П... привет, [lssb_harmony.hero_name()]."
 
 # ch/harmony/fuck.rpy:2405
@@ -28277,7 +28277,7 @@ translate russian get_harmony_lapdance_0c03a497:
     "Словно член пытается вырваться из брюк."
 
 # ch/harmony/fuck.rpy:2451
-translate russian get_harmony_lapdance_db792c93:
+translate russian get_harmony_lapdance_bcc1bc7c:
     mike.say "Д... да, Хармони..."
 
 # ch/harmony/fuck.rpy:2452
@@ -28325,7 +28325,7 @@ translate russian get_harmony_lapdance_7ca2c276:
     harmony.say "Тело — это храм, [lssb_harmony.hero_name()]. Меня всегда так учили."
 
 # ch/harmony/fuck.rpy:2464
-translate russian get_harmony_lapdance_f12aee5f:
+translate russian get_harmony_lapdance_0624a0ad:
     harmony.say "Так что, пожалуйста... будь бережен. Мне кажется, я отдаю тебе что-то священное."
 
 # ch/harmony/fuck.rpy:2465
@@ -28413,7 +28413,7 @@ translate russian get_harmony_lapdance_11947a47:
     "А то и всё тело — дрожать от желания."
 
 # ch/harmony/fuck.rpy:2490
-translate russian get_harmony_lapdance_d4cf6d57:
+translate russian get_harmony_lapdance_0725dddc:
     harmony.say "Так... так нормально, [lssb_harmony.hero_name()]? Я правильно всё делаю?"
 
 # ch/harmony/fuck.rpy:2491
@@ -28533,7 +28533,7 @@ translate russian get_harmony_lapdance_1a798a3a:
     "Знаю только, что она трётся обо мне в такт музыке."
 
 # ch/harmony/fuck.rpy:2525
-translate russian get_harmony_lapdance_b311bbfb:
+translate russian get_harmony_lapdance_d2b2efcc:
     harmony.say "Ой! Я чувствую... чувствую через брюки, как сильно ты меня хочешь, [lssb_harmony.hero_name()]."
 
 # ch/harmony/fuck.rpy:2526
@@ -28545,7 +28545,7 @@ translate russian get_harmony_lapdance_9f0438b7:
     "Она ёрзает у меня на коленях, разрываясь между желанием убежать и прижаться теснее. Ничего милее я в жизни не видел."
 
 # ch/harmony/fuck.rpy:2529
-translate russian get_harmony_lapdance_222441d3:
+translate russian get_harmony_lapdance_4aa44ace:
     harmony.say "Но... может, ещё совсем немного. Прости меня, Господи."
 
 # ch/harmony/fuck.rpy:2531
@@ -28897,7 +28897,7 @@ translate russian harmony_gift_swimsuit_male_f5d21c63:
     "Она разворачивает сексуальный купальник."
 
 # ch/harmony/gift.rpy:151
-translate russian harmony_gift_swimsuit_male_b8141d7c:
+translate russian harmony_gift_swimsuit_male_99e49a60:
     harmony.say "О-о... Тут почти ничего нет. Именно поэтому я и надену его для тебя."
 
 # ch/harmony/gift.rpy:152
@@ -28965,7 +28965,7 @@ translate russian harmony_gift_collar_male_3a5f22ec:
     "И если я прав, мой подарок — именно то, что нужно."
 
 # ch/harmony/gift.rpy:179
-translate russian harmony_gift_collar_male_34f1222a:
+translate russian harmony_gift_collar_male_1f8ead81:
     "Ну... Надеюсь, что прав!"
 
 # ch/harmony/gift.rpy:180
@@ -29057,7 +29057,7 @@ translate russian harmony_gift_collar_male_2f1b0774:
     "И готов поклясться: в уголках её глаз уже собираются слёзы."
 
 # ch/harmony/gift.rpy:211
-translate russian harmony_gift_collar_male_ee2afcd2:
+translate russian harmony_gift_collar_male_cdef76c4:
     harmony.say "Ты... ты ЧУДОВИЩЕ!"
 
 # ch/harmony/gift.rpy:212
@@ -29129,11 +29129,11 @@ translate russian harmony_gift_collar_male_c963f9f0:
     "Скажем так: у меня подкашиваются колени!"
 
 # ch/harmony/gift.rpy:239
-translate russian harmony_gift_collar_male_06151d2b:
+translate russian harmony_gift_collar_male_ae04ced6:
     mike.say "А... да, Хармони."
 
 # ch/harmony/gift.rpy:240
-translate russian harmony_gift_collar_male_6578dbb2:
+translate russian harmony_gift_collar_male_ff674bd8:
     mike.say "Если... если ты этого хочешь?"
 
 # ch/harmony/gift.rpy:243
@@ -29281,7 +29281,7 @@ translate russian harmony_gift_sexy_dress_male_ddbb9c89:
     harmony.say "Правда, не стоило!"
 
 # ch/harmony/gift.rpy:303
-translate russian harmony_gift_sexy_dress_male_265a9045:
+translate russian harmony_gift_sexy_dress_male_e32117b2:
     mike.say "Да-да... конечно!"
 
 # ch/harmony/gift.rpy:304
@@ -29465,11 +29465,11 @@ translate russian harmony_gift_slutty_dress_male_b5721e65:
     harmony.say "[lssb_harmony.hero_name()]!"
 
 # ch/harmony/gift.rpy:387
-translate russian harmony_gift_slutty_dress_male_fdbca46d:
+translate russian harmony_gift_slutty_dress_male_0866fad3:
     harmony.say "Ты... перестанешь... меня дразнить?"
 
 # ch/harmony/gift.rpy:388
-translate russian harmony_gift_slutty_dress_male_e7450d39:
+translate russian harmony_gift_slutty_dress_male_9f6d9c88:
     harmony.say "Я же вижу... у тебя за спиной!"
 
 # ch/harmony/gift.rpy:390
@@ -29721,7 +29721,7 @@ translate russian harmony_ice_cream_reaction_male_7bd27cde:
     harmony.say "М-м-м, да, пожалуйста. Что-нибудь холодное, чтобы остыть. Мне что-то ужасно жарко..."
 
 # ch/harmony/reactions.rpy:10
-translate russian harmony_ice_cream_reaction_male_e0b45272:
+translate russian harmony_ice_cream_reaction_male_db1e5ed1:
     harmony.say "М-м-м... Отличная идея! Наперегонки до киоска с мороженым!"
 
 # ch/harmony/reactions.rpy:11
@@ -29737,7 +29737,7 @@ translate russian harmony_ice_cream_reaction_male_b16f9777:
     harmony.say "Вот блин! Почему со мной это каждый раз случается?!"
 
 # ch/harmony/reactions.rpy:16
-translate russian harmony_ice_cream_reaction_male_59587b5a:
+translate russian harmony_ice_cream_reaction_male_d0eecaa3:
     harmony.say "Ой-ой... Как же я такое допустила?!"
 
 # ch/harmony/reactions.rpy:17
@@ -29857,7 +29857,7 @@ translate russian harmony_offer_a_drink_male_33f8b6d1:
     harmony.say "В тебя вселились бесы?!"
 
 # ch/harmony/reactions.rpy:79
-translate russian harmony_offer_a_drink_male_22e5f12c:
+translate russian harmony_offer_a_drink_male_58f9a3f7:
     harmony.say "О... Ну, может, совсем немного. За компанию!"
 
 # ch/harmony/reactions.rpy:80
@@ -29977,7 +29977,7 @@ translate russian harmony_slap_ass_happy_male_d1c24e85:
     harmony.say "О да! Моя попка твоя — шлёпай, пока не покраснеет, [lssb_harmony.hero_name()]!"
 
 # ch/harmony/reactions.rpy:141
-translate russian harmony_slap_ass_happy_male_e9e5fa21:
+translate russian harmony_slap_ass_happy_male_c47e9bda:
     harmony.say "М-м-м... Давай. Ещё раз, сильнее. Я была такой грешницей, [lssb_harmony.hero_name()]."
 
 # ch/harmony/reactions.rpy:142
@@ -30073,7 +30073,7 @@ translate russian harmony_breakup_male_160b7c2f:
     harmony.say "Что такое?"
 
 # ch/harmony/reactions.rpy:176
-translate russian harmony_breakup_male_1fe06dc0:
+translate russian harmony_breakup_male_1e9981dd:
     mike.say "Мне... мне нужно поговорить с тобой о нас, Хармони."
 
 # ch/harmony/reactions.rpy:177
@@ -30721,11 +30721,11 @@ translate russian harmony_movie_disliked_reaction_male_e2781b2d:
     harmony.say "Это была сплошная мерзость! Такое искушение и привело к первородному греху, [lssb_harmony.hero_name()]."
 
 # ch/harmony/reactions.rpy:534
-translate russian harmony_movie_disliked_reaction_male_20f4480a:
+translate russian harmony_movie_disliked_reaction_male_5ed444f1:
     harmony.say "Хм... Я не одобряю такие фильмы. Они очень плохо влияют, сплошная порочность!"
 
 # ch/harmony/reactions.rpy:536
-translate russian harmony_movie_disliked_reaction_male_16b2e0ef:
+translate russian harmony_movie_disliked_reaction_male_ca1ba1d1:
     harmony.say "Уф... Мы могли всё это время целоваться или заниматься чем-нибудь ещё приятнее!"
 
 # ch/harmony/reactions.rpy:538
@@ -30733,7 +30733,7 @@ translate russian harmony_movie_disliked_reaction_male_926970b6:
     harmony.say "Мне совсем не понравилось. Прости меня, Господи, мысли всё убегали к чему-то более непристойному."
 
 # ch/harmony/reactions.rpy:540
-translate russian harmony_movie_disliked_reaction_male_32b806a0:
+translate russian harmony_movie_disliked_reaction_male_e0d2d9dc:
     harmony.say "Нет... Этот фильм мне совсем не понравился. Только всё внутри взбудоражил."
 
 # ch/harmony/reactions.rpy:545
@@ -30741,7 +30741,7 @@ translate russian harmony_movie_indifferent_reaction_male_de11977f:
     harmony.say "Ну, хотя бы ничего дурного. Лучшее, что можно сказать: безобидно!"
 
 # ch/harmony/reactions.rpy:547
-translate russian harmony_movie_indifferent_reaction_male_895de43e:
+translate russian harmony_movie_indifferent_reaction_male_3d7a1d65:
     harmony.say "Ну... Наверное, лучшее, что можно сказать: безобидно?"
 
 # ch/harmony/reactions.rpy:549
@@ -30749,11 +30749,11 @@ translate russian harmony_movie_indifferent_reaction_male_361d91d2:
     harmony.say "Было ТАК скучно! Лучше бы я играла с твоим членом!"
 
 # ch/harmony/reactions.rpy:551
-translate russian harmony_movie_indifferent_reaction_male_1bc5f6e2:
+translate russian harmony_movie_indifferent_reaction_male_d94982f3:
     harmony.say "Да... Скучновато. Честно говоря, мысли всё время были совсем о другом."
 
 # ch/harmony/reactions.rpy:553
-translate russian harmony_movie_indifferent_reaction_male_c1193b2c:
+translate russian harmony_movie_indifferent_reaction_male_e314fa8a:
     harmony.say "Да... Скучновато. Я всё жалела, что мы не остались дома."
 
 # ch/harmony/reactions.rpy:558
@@ -30761,7 +30761,7 @@ translate russian harmony_movie_liked_reaction_male_b61f782f:
     harmony.say "Это было великолепно! Какие впечатления, [lssb_harmony.hero_name()]! Будто побывала в другом мире!"
 
 # ch/harmony/reactions.rpy:560
-translate russian harmony_movie_liked_reaction_male_6f43c55d:
+translate russian harmony_movie_liked_reaction_male_3b625bce:
     harmony.say "Это было великолепно... Какие впечатления! Будто побывала в другом мире!"
 
 # ch/harmony/reactions.rpy:562
@@ -31205,7 +31205,7 @@ translate russian harmony_talk_love_male_d47480ac:
     harmony.say "Я ни за что не полюблю кого-то без огромного члена!"
 
 # ch/harmony/talk.rpy:27
-translate russian harmony_talk_love_male_4cf3f3c9:
+translate russian harmony_talk_love_male_f504b50f:
     harmony.say "Ну... Ведь есть два вида любви?"
 
 # ch/harmony/talk.rpy:28
@@ -31293,7 +31293,7 @@ translate russian harmony_talk_politics_male_e414ad6e:
     harmony.say "А только по тому, есть ли у него добрые христианские ценности."
 
 # ch/harmony/talk.rpy:79
-translate russian harmony_talk_politics_male_44ad2f7f:
+translate russian harmony_talk_politics_male_d2835461:
     harmony.say "Уф... Политика отбивает всякое желание!"
 
 # ch/harmony/talk.rpy:80
@@ -31305,7 +31305,7 @@ translate russian harmony_talk_food_male_4c02e2e9:
     mike.say "Тебе бывает хочется сходить куда-нибудь перекусить, Хармони?"
 
 # ch/harmony/talk.rpy:87
-translate russian harmony_talk_food_male_ea2cbf68:
+translate russian harmony_talk_food_male_c18e9fa6:
     harmony.say "Я... мне хочется, правда..."
 
 # ch/harmony/talk.rpy:89
@@ -31313,7 +31313,7 @@ translate russian harmony_talk_food_male_6bb5298e:
     harmony.say "Но чревоугодие — один из семи смертных грехов!"
 
 # ch/harmony/talk.rpy:92
-translate russian harmony_talk_food_male_0f265b14:
+translate russian harmony_talk_food_male_a57e01a9:
     harmony.say "А... да, конечно."
 
 # ch/harmony/talk.rpy:93
@@ -31429,7 +31429,7 @@ translate russian harmony_talk_sports_male_49e99f9a:
     mike.say "Ты занимаешься каким-нибудь спортом, Хармони?"
 
 # ch/harmony/talk.rpy:159
-translate russian harmony_talk_sports_male_a27bb696:
+translate russian harmony_talk_sports_male_00037431:
     harmony.say "А, нет... не занимаюсь."
 
 # ch/harmony/talk.rpy:161
@@ -31437,7 +31437,7 @@ translate russian harmony_talk_sports_male_7a34a0b9:
     harmony.say "Но знаю, что следовало бы. Праздность — ужасный, ужасный грех!"
 
 # ch/harmony/talk.rpy:164
-translate russian harmony_talk_sports_male_6f8c1ecb:
+translate russian harmony_talk_sports_male_3e7ba334:
     harmony.say "Эм, нет... Нет, не занимаюсь."
 
 # ch/harmony/talk.rpy:165
@@ -31457,7 +31457,7 @@ translate russian harmony_talk_sports_male_cbacd64c:
     harmony.say "В конце концов, мужчинам нравятся большие сиськи и попка, на которую можно поставить стакан, правда?"
 
 # ch/harmony/talk.rpy:172
-translate russian harmony_talk_sports_male_820cb2f3:
+translate russian harmony_talk_sports_male_cea32429:
     harmony.say "Нет... Но уверена, ты мог бы меня чему-нибудь научить, [lssb_harmony.hero_name()]."
 
 # ch/harmony/talk.rpy:173
@@ -31509,7 +31509,7 @@ translate russian harmony_talk_fashion_male_edc14799:
     harmony.say "Но пообещаешь не смеяться?"
 
 # ch/harmony/talk.rpy:202
-translate russian harmony_talk_fashion_male_ed9693e7:
+translate russian harmony_talk_fashion_male_106af256:
     harmony.say "Я... я стала покупать сексуальное бельё и... мне нравится, как оно ощущается!"
 
 # ch/harmony/talk.rpy:205
@@ -31545,7 +31545,7 @@ translate russian harmony_talk_books_male_fa0494e1:
     harmony.say "Если бы люди это поняли, всем нам жилось бы гораздо проще!"
 
 # ch/harmony/talk.rpy:222
-translate russian harmony_talk_books_male_ad6d710a:
+translate russian harmony_talk_books_male_c9e3c326:
     harmony.say "Да... Хотя нет."
 
 # ch/harmony/talk.rpy:223
@@ -31669,7 +31669,7 @@ translate russian submissive_interact_harmony_male_6c79fe4d:
     mike.say "И знаю, что тебе нравится определённая часть моего тела..."
 
 # ch/harmony/talk.rpy:332
-translate russian submissive_interact_harmony_male_6d86416b:
+translate russian submissive_interact_harmony_male_407be391:
     harmony.say "А... Кажется, я догадываюсь, к чему ты клонишь!"
 
 # ch/harmony/talk.rpy:334
@@ -31729,7 +31729,7 @@ translate russian harmony_friendly_texts_bc64712c:
     harmony_nvl "Но всё чаще в итоге думаю о тебе!"
 
 # ch/harmony/texts.rpy:9
-translate russian harmony_friendly_texts_ed3f5847:
+translate russian harmony_friendly_texts_3bdc73e6:
     harmony_nvl "Ох... Надеюсь, это не грех!"
 
 # ch/harmony/texts.rpy:11
@@ -31781,7 +31781,7 @@ translate russian harmony_flirty_texts_8f66e04b:
     harmony_nvl "Думаю, из чёрной резины мне подойдёт лучше всего."
 
 # ch/harmony/texts.rpy:34
-translate russian harmony_flirty_texts_a589d52f:
+translate russian harmony_flirty_texts_36fdc1cd:
     harmony_nvl "Ох... Не могу перестать о тебе думать!"
 
 # ch/harmony/texts.rpy:35
@@ -32225,7 +32225,7 @@ translate russian harmony_dirty_texts_male_86f8e460:
     harmony_nvl "Ого! Две сиськи и один придурок — такого набора ещё поискать!"
 
 # ch/harmony/texts.rpy:294
-translate russian harmony_dirty_texts_male_84062592:
+translate russian harmony_dirty_texts_male_18f0dff1:
     mchero_nvl "Ух... Ну и платье было на тебе на днях, Хармони!"
 
 # ch/harmony/texts.rpy:296
@@ -32241,7 +32241,7 @@ translate russian harmony_dirty_texts_male_093afc2c:
     mchero_nvl "Когда я смогу снять с тебя эту штуку и снова увидеть голой?!"
 
 # ch/harmony/texts.rpy:302
-translate russian harmony_dirty_texts_male_4070a28a:
+translate russian harmony_dirty_texts_male_5ef3da8a:
     harmony_nvl "О боже... Кажется, в тебя вселился дьявол!"
 
 # ch/harmony/texts.rpy:305

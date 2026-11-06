@@ -53,16 +53,12 @@ translate russian bree_fuck_date_anal_f3b4be3a:
     bree.say "Используй меня как хочешь, [hero.name]... Я лишь хочу быть для тебя хорошей."
 
 # ch/bree/fuck.rpy:1705
-translate russian bree_fuck_date_anal_d950cbfd:
+translate russian bree_fuck_date_anal_53be1471:
     bree.say "Хорошо... хорошо, я буду послушной..."
 
 # ch/bree/fuck.rpy:1721
 translate russian bree_fuck_date_anal_1ac18e1e:
     "Я сбавляю напор, давая ей привыкнуть, и в награду за терпение медленно описываю большим пальцем круг чуть выше её бедра."
-
-# ch/bree/fuck.rpy:1754
-translate russian bree_fuck_date_anal_06daf9cf:
-    mike.say "Потому что ты и есть моя, [bree.name]. Вся целиком."
 
 # ch/bree/fuck.rpy:1764
 translate russian bree_fuck_date_anal_0efb596f:
@@ -72,16 +68,12 @@ translate russian bree_fuck_date_anal_0efb596f:
 translate russian bree_fuck_date_anal_8e5365e5:
     "Какое-то время мы оба неподвижны, только дышим, всё ещё соединённые."
 
-# ch/bree/fuck.rpy:2595
-translate russian bree_fuck_date_reverse_cowgirl_e58be133:
-    mike.say "Д... да, [bree.name]..."
-
 # ch/bree/fuck.rpy:2762
 translate russian bree_fuck_date_reverse_cowgirl_4992b29b:
     "Если [bree.name] хочет покататься на механическом быке, я ей это устрою."
 
 # ch/bree/fuck.rpy:2935
-translate russian bree_fuck_date_missionary_0c5f8bce:
+translate russian bree_fuck_date_missionary_febb2e81:
     bree.say "Ты можешь... можешь делать со своей малышкой... всё, что захочешь, [hero.name]..."
 
 # ch/bree/fuck.rpy:2956
@@ -89,7 +81,7 @@ translate russian bree_fuck_date_missionary_54008224:
     "Каждое движение делает её чуть нетерпеливее; всякий раз, когда я отстраняюсь, её бёдра тянутся следом."
 
 # ch/bree/fuck.rpy:2959
-translate russian bree_fuck_date_missionary_f1ea31a6:
+translate russian bree_fuck_date_missionary_a0cc08e7:
     bree.say "Пожалуйста, я всё сделаю, только... только дай мне это..."
 
 # ch/bree/fuck.rpy:2962
@@ -197,7 +189,7 @@ translate russian sasha_fuck_date_titfuck_92e3f92c:
     "Она смотрит на меня снизу вверх, жаждая быть полезной, готовая дать всё, о чём я попрошу."
 
 # ch/sasha/fuck.rpy:3100
-translate russian sasha_fuck_date_missionary_6da7fbc6:
+translate russian sasha_fuck_date_missionary_0a782265:
     sasha.say "Трахни меня сильно... пожалуйста. Я всё выдержу, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:3337
@@ -229,11 +221,11 @@ translate russian sasha_fuck_date_doggy_43fb18d2:
     sasha.say "Твоя дырка, которой ты пользуешься, [lssb_sasha.hero_name()]. Сегодня я только это."
 
 # ch/sasha/fuck.rpy:4461
-translate russian sasha_fuck_date_doggy_592cf090:
+translate russian sasha_fuck_date_doggy_36a55bb0:
     sasha.say "Хорошо... ладно, ты рулишь. Выбирай, как хочешь меня взять, и хватит тянуть, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:4506
-translate russian sasha_fuck_date_doggy_12a7ab21:
+translate russian sasha_fuck_date_doggy_f9fea7a6:
     sasha.say "Блядь... ладно, да, вот там, оставайся вот там, [lssb_sasha.hero_name()]."
 
 # ch/sasha/fuck.rpy:4575
@@ -253,11 +245,11 @@ translate russian sasha_bondage_sex_3ca466ce:
     sasha.say "Пожалуйста. Я вся связана и принадлежу тебе, так что не сдерживайся, [lssb_sasha.hero_name()]. Нежничать не надо."
 
 # ch/sasha/fuck.rpy:4673
-translate russian sasha_bondage_sex_2388d2d0:
+translate russian sasha_bondage_sex_4b5226e6:
     sasha.say "Пожалуйста... не останавливайся. Только не сейчас. Я хочу этого. Хочу, чтобы ты из-за меня потерял контроль."
 
 # ch/sasha/fuck.rpy:4763
-translate russian sasha_bondage_sex_second_round_946c42f5:
+translate russian sasha_bondage_sex_second_round_0fb2aa34:
     sasha.say "Пожалуйста. Ну пожалуйста, я вся связана и в твоей власти, так что... приступай уже, а?"
 
 # ch/sasha/fuck.rpy:4771
@@ -265,7 +257,7 @@ translate russian sasha_bondage_sex_second_round_4da78b3c:
     sasha.say "Ай. Ай, ладно, да, ещё так. Пожалуйста. Я всю неделю была той ещё врединой, знаю."
 
 # ch/sasha/fuck.rpy:5056
-translate russian sasha_bondage_sex_second_round_26e5e8e8:
+translate russian sasha_bondage_sex_second_round_4fc3bd02:
     sasha.say "Ладно. Ого. Это было... да. Ты молодец, [lssb_sasha.hero_name()]. Пятёрка с плюсом."
 
 # ch/sasha/fuck.rpy:5153
@@ -337,7 +329,7 @@ translate russian scottie_greet_dialogues_male_0cc0f976:
     mike.say "Добрый вечер, Скотти."
 
 # ch/scottie/chat.rpy:2
-translate russian scottie_desire_0_male_8d95a591:
+translate russian scottie_desire_0_male_6b26b560:
     scottie.say "А, это ты... Чего тебе?"
 
 # ch/scottie/chat.rpy:6
@@ -353,11 +345,11 @@ translate russian scottie_desire_2_male_b9cc4951:
     scottie.say "Серьёзно, у тебя совсем нет чувства стиля?"
 
 # ch/scottie/chat.rpy:16
-translate russian scottie_desire_3_male_8f701a50:
+translate russian scottie_desire_3_male_42e367d3:
     scottie.say "А... может, ты всё-таки не так уж плох."
 
 # ch/scottie/chat.rpy:21
-translate russian scottie_desire_4_male_aeb0c82e:
+translate russian scottie_desire_4_male_a4c1f025:
     scottie.say "Блядь... ты вообще зубы чистишь?"
 
 # ch/scottie/chat.rpy:22
@@ -365,7 +357,7 @@ translate russian scottie_desire_4_male_e7e44760:
     scottie.say "У тебя изо рта воняет, как от дохлой кошки!"
 
 # ch/scottie/chat.rpy:27
-translate russian scottie_desire_5_male_6f23ceaa:
+translate russian scottie_desire_5_male_b35c6157:
     scottie.say "Ну-у... какое у тебя впечатление об Одри?"
 
 # ch/scottie/chat.rpy:32

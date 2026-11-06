@@ -56,7 +56,7 @@ init 1009 python:
             content_height += 10 + sum(row[3] for row in fields) + 4*(len(fields)-1)
         if traits:
             content_height += 10 + _lssb_npc_text_height(_lssb_npc_label("Traits"), 376, True) + 4 + _lssb_npc_text_height(traits, 376)
-        attributes = [attr.for_ui() for attr in girl.get_attributes() if attr.visible()]
+        attributes = [attr.for_ui(girl) for attr in girl.get_attributes() if attr.visible()]
         dating = game.active_date.on_date(girl.id)
         budget = (520 if persistent.new_ui else 430) - 36*(len(attributes) + int(dating))
         panel_height = min(content_height + 28, max(140, budget))

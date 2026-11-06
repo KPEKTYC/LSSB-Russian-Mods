@@ -294,7 +294,7 @@ translate russian cupid_kleio_morgan_event_01_69bf4242:
 translate russian cupid_kleio_morgan_event_01_0ccca890:
     morgan.say "Голос очень похож."
 
-translate russian cupid_kleio_morgan_event_01_7ad44816:
+translate russian cupid_kleio_morgan_event_01_30a72475:
     morgan.say "Я... то есть голос очень похож на твой, Клео!"
 
 translate russian cupid_kleio_morgan_event_01_4e5a42b4:
@@ -555,7 +555,7 @@ translate russian cupid_kleio_morgan_event_01_59cbf6a2:
 translate russian cupid_kleio_morgan_event_01_9006b6bc:
     mike.say "Правда, Клео?"
 
-translate russian cupid_kleio_morgan_event_01_531d8c6c:
+translate russian cupid_kleio_morgan_event_01_d1c492e6:
     kleio.say "Я... я с радостью?!"
 
 translate russian cupid_kleio_morgan_event_01_3e4aa2fd:
@@ -564,7 +564,7 @@ translate russian cupid_kleio_morgan_event_01_3e4aa2fd:
 translate russian cupid_kleio_morgan_event_01_5489d3bd:
     mike.say "Она ведь только что сама это сказала?"
 
-translate russian cupid_kleio_morgan_event_01_aab24cdf:
+translate russian cupid_kleio_morgan_event_01_892d49d8:
     kleio.say "Я... слова-то сказала, но имела в виду..."
 
 translate russian cupid_kleio_morgan_event_01_69305feb:
@@ -600,7 +600,7 @@ translate russian cupid_kleio_morgan_event_01_fd939476:
 translate russian cupid_kleio_morgan_event_01_2e25f9a2:
     mike.say "Между вами ведь ещё что-то есть?"
 
-translate russian cupid_kleio_morgan_event_01_b7652715:
+translate russian cupid_kleio_morgan_event_01_63cfc8a8:
     kleio.say "Нет... я... ну... может, и есть. Крошечная искра."
 
 translate russian cupid_kleio_morgan_event_01_9202391f:
@@ -618,7 +618,7 @@ translate russian cupid_kleio_morgan_event_01_50bce7f5:
 translate russian cupid_kleio_morgan_event_01_9562dec8_2:
     kleio.say "Уф..."
 
-translate russian cupid_kleio_morgan_event_01_f7d238b0:
+translate russian cupid_kleio_morgan_event_01_9b595498:
     kleio.say "Ладно, ладно... сделаю."
 
 translate russian cupid_kleio_morgan_event_01_e7b6a90a:
@@ -777,7 +777,7 @@ translate russian cupid_kleio_morgan_event_02_f669ce14:
 translate russian cupid_kleio_morgan_event_02_48d8b4c3:
     morgan.say "Подвинь эту штуку ко мне, пожалуйста."
 
-translate russian cupid_kleio_morgan_event_02_e11ab95b:
+translate russian cupid_kleio_morgan_event_02_e9eb3310:
     morgan.say "Уф... надеюсь, в ближайшее время мне не захочется в туалет!"
 
 translate russian cupid_kleio_morgan_event_02_2fe68cd2:
@@ -834,7 +834,7 @@ translate russian cupid_kleio_morgan_event_02_10790891:
 translate russian cupid_kleio_morgan_event_02_244dbd17:
     kleio.say "Ай!"
 
-translate russian cupid_kleio_morgan_event_02_a47072f6:
+translate russian cupid_kleio_morgan_event_02_cb380cb7:
     kleio.say "А... да..."
 
 translate russian cupid_kleio_morgan_event_02_f61d08e9:
@@ -849,7 +849,7 @@ translate russian cupid_kleio_morgan_event_02_03190bf9:
 translate russian cupid_kleio_morgan_event_02_e6d9ca89:
     morgan.say "Чем быстрее наденешь костюм, тем быстрее отрепетируем твои реплики."
 
-translate russian cupid_kleio_morgan_event_02_6499932d:
+translate russian cupid_kleio_morgan_event_02_bdc030f4:
     morgan.say "Погоди... ты ведь помнишь, что костюм нужно было принести самой?"
 
 translate russian cupid_kleio_morgan_event_02_ba0f8b27:
@@ -864,7 +864,7 @@ translate russian cupid_kleio_morgan_event_02_964fb527:
 translate russian cupid_kleio_morgan_event_02_ce2f3a0e:
     kleio.say "Никто не говорил мне приносить костюм!"
 
-translate russian cupid_kleio_morgan_event_02_0888d7dc:
+translate russian cupid_kleio_morgan_event_02_1572b3d3:
     "Уф... вот и первая заминка."
 
 translate russian cupid_kleio_morgan_event_02_b8e97598:
@@ -903,7 +903,7 @@ translate russian cupid_kleio_morgan_event_02_9ac712f2:
 translate russian cupid_kleio_morgan_event_02_3fbe3928:
     morgan.say "Но ты, как всегда, решила меня не слушать!"
 
-translate russian cupid_kleio_morgan_event_02_b529c476:
+translate russian cupid_kleio_morgan_event_02_4e663bd1:
     kleio.say "Я... я..."
 
 translate russian cupid_kleio_morgan_event_02_f1d796c1:
@@ -942,7 +942,7 @@ translate russian cupid_kleio_morgan_event_02_bd058640:
 translate russian cupid_kleio_morgan_event_02_592b40ba:
     mike.say "Скажи, что ты уже в костюме..."
 
-translate russian cupid_kleio_morgan_event_02_12c728e8:
+translate russian cupid_kleio_morgan_event_02_18326ac6:
     mike.say "Скажи... что это суровое современное прочтение истории."
 
 translate russian cupid_kleio_morgan_event_02_6172daf2:
@@ -969,10 +969,10 @@ translate russian cupid_kleio_morgan_event_02_48099cac:
 translate russian cupid_kleio_morgan_event_02_2a1b41fb:
     morgan.say "Это твой костюм?"
 
-translate russian cupid_kleio_morgan_event_02_956e29f1:
+translate russian cupid_kleio_morgan_event_02_e42308f7:
     kleio.say "Д-да..."
 
-translate russian cupid_kleio_morgan_event_02_a147ea28:
+translate russian cupid_kleio_morgan_event_02_dad7af95:
     kleio.say "Он... суровый и современный?"
 
 translate russian cupid_kleio_morgan_event_02_715f2617:
@@ -1278,13 +1278,13 @@ translate russian cupid_kleio_morgan_event_02_67f6874e_1:
 translate russian cupid_kleio_morgan_event_02_8f87cd7c:
     kleio.say "М-м-м..."
 
-translate russian cupid_kleio_morgan_event_02_beed7a5a:
+translate russian cupid_kleio_morgan_event_02_0dd48a04:
     morgan.say "М-М-М... М-М-М..."
 
-translate russian cupid_kleio_morgan_event_02_24721157:
+translate russian cupid_kleio_morgan_event_02_77362408:
     kleio.say "М-М-М... М-М-М..."
 
-translate russian cupid_kleio_morgan_event_02_65338ecb:
+translate russian cupid_kleio_morgan_event_02_c3a8cc78:
     "Хм... не уверен, что поцелуй должен длиться так долго."
 
 translate russian cupid_kleio_morgan_event_02_2d185e32:
@@ -1299,7 +1299,7 @@ translate russian cupid_kleio_morgan_event_02_90cfe9fa:
 translate russian cupid_kleio_morgan_event_02_23c52c88:
     morgan.say "Это было..."
 
-translate russian cupid_kleio_morgan_event_02_b0da1358:
+translate russian cupid_kleio_morgan_event_02_daa79066:
     morgan.say "Ты... очень... отдалась роли!"
 
 translate russian cupid_kleio_morgan_event_02_9b9cdc10:
@@ -1362,7 +1362,7 @@ translate russian cupid_kleio_morgan_event_02_892b6773:
 translate russian cupid_kleio_morgan_event_02_2d8056f0:
     morgan.say "Да чтоб тебя..."
 
-translate russian cupid_kleio_morgan_event_02_d19d1dd2:
+translate russian cupid_kleio_morgan_event_02_27297574:
     morgan.say "Просто хотела сказать... спасибо, что сегодня пришли."
 
 translate russian cupid_kleio_morgan_event_02_0d752df5:
@@ -1425,7 +1425,7 @@ translate russian cupid_kleio_morgan_event_02_90cfe9fa_1:
 translate russian cupid_kleio_morgan_event_02_7284fa68:
     morgan.say "Как ты могла?!"
 
-translate russian cupid_kleio_morgan_event_02_83eed2d5:
+translate russian cupid_kleio_morgan_event_02_97cc7d23:
     kleio.say "Чт... что я сделала?"
 
 translate russian cupid_kleio_morgan_event_02_342c1ba0:
@@ -1440,7 +1440,7 @@ translate russian cupid_kleio_morgan_event_02_d419ea70:
 translate russian cupid_kleio_morgan_event_02_a9590d1c:
     kleio.say "Правда?"
 
-translate russian cupid_kleio_morgan_event_02_4c023efb:
+translate russian cupid_kleio_morgan_event_02_cbfffaef:
     kleio.say "Но... это даже не моя идея."
 
 translate russian cupid_kleio_morgan_event_02_7b93f222:
@@ -1479,7 +1479,7 @@ translate russian cupid_kleio_morgan_event_02_c459a25c:
 translate russian cupid_kleio_morgan_event_02_015efd69:
     mike.say "Потому что просто пожелать удачи считается плохой приметой."
 
-translate russian cupid_kleio_morgan_event_02_79f54b99:
+translate russian cupid_kleio_morgan_event_02_b8c72214:
     kleio.say "Блин... эти театралы ненормальные!"
 
 translate russian cupid_kleio_morgan_event_02_283f22ce:
@@ -1491,7 +1491,7 @@ translate russian cupid_kleio_morgan_event_02_bbbe3794_1:
 translate russian cupid_kleio_morgan_event_02_2b975a79:
     kleio.say "Просто хотела сказать..."
 
-translate russian cupid_kleio_morgan_event_02_45312706:
+translate russian cupid_kleio_morgan_event_02_a39abcb7:
     kleio.say "Сломайте все... ногу?"
 
 translate russian cupid_kleio_morgan_event_02_7a4d558c:
@@ -1509,7 +1509,7 @@ translate russian cupid_kleio_morgan_event_02_a421e61e:
 translate russian cupid_kleio_morgan_event_02_2da46e6e:
     morgan.say "Такое знает только человек, по-настоящему увлечённый театром!"
 
-translate russian cupid_kleio_morgan_event_02_9d3b5802:
+translate russian cupid_kleio_morgan_event_02_a527c1db:
     kleio.say "Ну... я..."
 
 translate russian cupid_kleio_morgan_event_02_88d2d21d:
@@ -1563,7 +1563,7 @@ translate russian cupid_kleio_morgan_event_02_60c91e7b:
 translate russian cupid_kleio_morgan_event_02_ff7c34a5:
     kleio.say "О..."
 
-translate russian cupid_kleio_morgan_event_02_a3493fb5:
+translate russian cupid_kleio_morgan_event_02_fbf389dd:
     kleio.say "Не за что... наверное."
 
 translate russian cupid_kleio_morgan_event_02_296454d6:
@@ -1722,10 +1722,10 @@ translate russian cupid_kleio_morgan_ending_95342508:
 translate russian cupid_kleio_morgan_ending_b436c3fd:
     "Правда, я не уверен, что его просто умиляет костюм."
 
-translate russian cupid_kleio_morgan_ending_2bf18c27:
+translate russian cupid_kleio_morgan_ending_ba37825c:
     "Может, она нравится ему в куда более... телесном смысле!"
 
-translate russian cupid_kleio_morgan_ending_651cd065:
+translate russian cupid_kleio_morgan_ending_b73a8727:
     "Priest" "Нет-нет... хвост ей очень идёт."
 
 translate russian cupid_kleio_morgan_ending_7ebedfbe:
@@ -1785,7 +1785,7 @@ translate russian cupid_kleio_morgan_ending_88c7521b:
 translate russian cupid_kleio_morgan_ending_39cf85f3:
     mike.say "Она всё старается превратить в акт бунта!"
 
-translate russian cupid_kleio_morgan_ending_4f383906:
+translate russian cupid_kleio_morgan_ending_6230572e:
     mike.say "А Морган... она настояла на этом чёртовом русалочьем хвосте."
 
 translate russian cupid_kleio_morgan_ending_331ff54e:
@@ -1800,7 +1800,7 @@ translate russian cupid_kleio_morgan_ending_162bc8c9:
 translate russian cupid_kleio_morgan_ending_698361c5:
     "Священник потрясён самой этой мыслью."
 
-translate russian cupid_kleio_morgan_ending_d51f7aca:
+translate russian cupid_kleio_morgan_ending_5c5571b0:
     "Priest" "О нет... только не с моей больной спиной!"
 
 translate russian cupid_kleio_morgan_ending_2a4ed795:
@@ -1875,7 +1875,7 @@ translate russian cupid_kleio_morgan_ending_8295f04c:
 translate russian cupid_kleio_morgan_ending_623a0ee7:
     "Priest" "Взять Морган..."
 
-translate russian cupid_kleio_morgan_ending_5e640969:
+translate russian cupid_kleio_morgan_ending_57ccee88:
     "Priest" "В законные сардины... то есть супруги?"
 
 translate russian cupid_kleio_morgan_ending_18781f6d:
@@ -1887,7 +1887,7 @@ translate russian cupid_kleio_morgan_ending_88dc4960:
 translate russian cupid_kleio_morgan_ending_85f32075:
     kleio.say "Да господи..."
 
-translate russian cupid_kleio_morgan_ending_dc339400:
+translate russian cupid_kleio_morgan_ending_dc17c0c5:
     kleio.say "То есть... да."
 
 translate russian cupid_kleio_morgan_ending_3193d2e1:
@@ -1944,7 +1944,7 @@ translate russian cupid_kleio_morgan_ending_58b08ccf:
 translate russian cupid_kleio_morgan_ending_f18e30df:
     morgan.say "Без тебя ничего этого не было бы."
 
-translate russian cupid_kleio_morgan_ending_f0bd8591:
+translate russian cupid_kleio_morgan_ending_3df68ccc:
     kleio.say "Ага... пожалуй, она права."
 
 translate russian cupid_kleio_morgan_ending_4a4a6e9a:

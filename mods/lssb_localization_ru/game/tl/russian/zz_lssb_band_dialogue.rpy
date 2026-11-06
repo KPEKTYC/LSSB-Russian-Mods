@@ -17,7 +17,7 @@ translate russian sasha_threesome_confrontation_6b9989e0:
     mike.say "О чём именно?"
 
 # ch/harems_full/band/events.rpy:373
-translate russian sasha_threesome_confrontation_965044b8:
+translate russian sasha_threesome_confrontation_aee0e269:
     sasha.say "Да обо всём понемногу... Кажется, мы почему-то стали меньше общаться, хотя ты теперь в группе."
 
 # ch/harems_full/band/events.rpy:374
@@ -77,7 +77,7 @@ translate russian sasha_threesome_confrontation_c1b5dfd7:
     "Но она не дура и вскоре понимает: за моей реакцией скрывается что-то ещё."
 
 # ch/harems_full/band/events.rpy:400
-translate russian sasha_threesome_confrontation_2cd7382b:
+translate russian sasha_threesome_confrontation_9c866c22:
     sasha.say "Погоди... Значит, избавиться от меня вы не хотите. Но что-то всё-таки происходит?"
 
 # ch/harems_full/band/events.rpy:402
@@ -117,7 +117,7 @@ translate russian sasha_threesome_confrontation_a2f9f439:
     "Саша морщится, словно почувствовала неприятный запах."
 
 # ch/harems_full/band/events.rpy:417
-translate russian sasha_threesome_confrontation_72edcbe4:
+translate russian sasha_threesome_confrontation_6f4cf6ae:
     sasha.say "Фу... Все трое, вместе, одновременно?!"
 
 # ch/harems_full/band/events.rpy:418
@@ -145,11 +145,11 @@ translate russian sasha_threesome_confrontation_f7402798:
     mike.say "Прости, если это что-то значит."
 
 # ch/harems_full/band/events.rpy:426
-translate russian sasha_threesome_confrontation_a4fcca7d:
+translate russian sasha_threesome_confrontation_483f5f08:
     mike.say "Я не мог не влюбиться в двух женщин, которые меня хотели... Думал, ты достаточно необычная, чтобы спокойно к такому отнестись."
 
 # ch/harems_full/band/events.rpy:428
-translate russian sasha_threesome_confrontation_d9a890e1:
+translate russian sasha_threesome_confrontation_305ee704:
     sasha.say "Хм... Может, мои взгляды традиционнее, чем мы оба думали."
 
 # ch/harems_full/band/events.rpy:432
@@ -197,11 +197,11 @@ translate russian sasha_threesome_confrontation_8ca608e6:
     "Саша краснеет, смущается и с трудом смотрит мне в глаза."
 
 # ch/harems_full/band/events.rpy:453
-translate russian sasha_threesome_confrontation_a25fadc9:
+translate russian sasha_threesome_confrontation_14d8aa17:
     mike.say "Чёрт, Саша... Прости, если я тебя этим шокировал или разозлил."
 
 # ch/harems_full/band/events.rpy:455
-translate russian sasha_threesome_confrontation_11985321:
+translate russian sasha_threesome_confrontation_9d847f8f:
     sasha.say "Нет... нет, дело совсем не в этом."
 
 # ch/harems_full/band/events.rpy:457
@@ -225,7 +225,7 @@ translate russian sasha_threesome_confrontation_f3d4459c:
     sasha.say "Ты отлично изображаешь золотую рыбку, но ответа я так и не услышала."
 
 # ch/harems_full/band/events.rpy:469
-translate russian sasha_threesome_confrontation_bbe75ae4:
+translate russian sasha_threesome_confrontation_f64f74b0:
     mike.say "Саша... У меня уже от отношений с двумя женщинами голова кругом. Куда уж с тремя!"
 
 # ch/harems_full/band/events.rpy:471
@@ -285,7 +285,7 @@ translate russian kleioannafoursome_080337c0:
     mike.say "Вы поели? Принести что-нибудь выпить?"
 
 # ch/harems_full/band/events.rpy:502
-translate russian kleioannafoursome_b5715fa5:
+translate russian kleioannafoursome_a945d068:
     anna.say "Ой, эм... Не думала, что ты такое спросишь!"
 
 # ch/harems_full/band/events.rpy:504
@@ -293,11 +293,11 @@ translate russian kleioannafoursome_6c9b57a9:
     kleio.say "Может, позже. Сейчас у меня аппетит на другое!"
 
 # ch/harems_full/band/events.rpy:505
-translate russian kleioannafoursome_c467df1b:
+translate russian kleioannafoursome_b9fe863a:
     mike.say "А, да, конечно... У меня тоже."
 
 # ch/harems_full/band/events.rpy:506
-translate russian kleioannafoursome_5b38413e:
+translate russian kleioannafoursome_3d550fc1:
     mike.say "Просто подумал, было бы неплохо немного поговорить, прежде чем мы... ну, вы понимаете."
 
 # ch/harems_full/band/events.rpy:507
@@ -316,20 +316,12 @@ translate russian kleioannafoursome_be025d93:
 translate russian kleioannafoursome_3e268089:
     "Я уже тереблю воротник и, наверное, выгляжу воплощением паники и уклончивости."
 
-# ch/harems_full/band/events.rpy:514
-translate russian kleioannafoursome_619e0d68:
-    kleio.say "С сердцеедом что-то не так... Давай, выкладывай."
-
-# ch/harems_full/band/events.rpy:515
-translate russian kleioannafoursome_27bed0a9:
-    "Я стараюсь не заикаться и не путаться в словах. Саша ждёт у себя в комнате, чем закончится моя попытка замолвить за неё слово."
-
 # ch/harems_full/band/events.rpy:516
-translate russian kleioannafoursome_313fd81a:
+translate russian kleioannafoursome_12ed5b2d:
     mike.say "В общем, дело вот в чём... Мы с Сашей недавно ходили выпить."
 
 # ch/harems_full/band/events.rpy:517
-translate russian kleioannafoursome_80bd4815:
+translate russian kleioannafoursome_b2a3d88b:
     mike.say "И она... ну... догадалась, что между нами происходит."
 
 # ch/harems_full/band/events.rpy:520
@@ -369,7 +361,7 @@ translate russian kleioannafoursome_73230af4:
     mike.say "Она точно не злится. Но можно сказать, что ревнует."
 
 # ch/harems_full/band/events.rpy:531
-translate russian kleioannafoursome_726feae6:
+translate russian kleioannafoursome_c1541c89:
     mike.say "Она попросила спросить вас... можно ли превратить наши отношения в союз четверых?"
 
 # ch/harems_full/band/events.rpy:533
@@ -433,7 +425,7 @@ translate russian kleioannafoursome_f0bb7e64:
     "Понимаю, что она наверняка сидела в тишине, ожидая результата моего разговора с девушками."
 
 # ch/harems_full/band/events.rpy:555
-translate russian kleioannafoursome_d360f174:
+translate russian kleioannafoursome_023e9038:
     mike.say "Это я... Можно войти?"
 
 # ch/harems_full/band/events.rpy:556
@@ -457,11 +449,11 @@ translate russian kleioannafoursome_bf0fcddb:
     "Нужно что-то сказать, но я могу лишь смотреть на Сашу и думать о новых возможностях для нас с Клео и Анной."
 
 # ch/harems_full/band/events.rpy:564
-translate russian kleioannafoursome_6c1d28df:
+translate russian kleioannafoursome_3b9a7e82:
     sasha.say "Ну... каков вердикт?"
 
 # ch/harems_full/band/events.rpy:565
-translate russian kleioannafoursome_ae27e4be:
+translate russian kleioannafoursome_21baabe2:
     mike.say "Я спросил их обеих, и... и..."
 
 # ch/harems_full/band/events.rpy:566
@@ -480,16 +472,12 @@ translate russian kleioannafoursome_16f54a53:
 translate russian kleioannafoursome_4b1495fe:
     "Мы с Анной киваем, стараясь не отстать от напористой Клео."
 
-# ch/harems_full/band/events.rpy:572
-translate russian kleioannafoursome_a1ead154:
-    kleio.say "Пока наш сердцеед собрался бы тебе сообщить, мы бы уже паутину с клиторов счищали!"
-
 # ch/harems_full/band/events.rpy:574
 translate russian kleioannafoursome_277a4f03:
     anna.say "Мы с [lssb_common.hero_name()] не такие напористые, как Клео, но очень рады, что ты присоединишься. Правда?"
 
 # ch/harems_full/band/events.rpy:575
-translate russian kleioannafoursome_abb08339:
+translate russian kleioannafoursome_e0c88a5f:
     mike.say "Да... да. Как американские горки: захватывает и немного пугает, но приятно."
 
 # ch/harems_full/band/events.rpy:576
@@ -577,7 +565,7 @@ translate russian kleioannafoursome_35a2c1d0:
     kleio.say "Неплохой экземпляр, правда?"
 
 # ch/harems_full/band/events.rpy:608
-translate russian kleioannafoursome_b6d71138:
+translate russian kleioannafoursome_15c6f24a:
     anna.say "Лично рекомендую для любой из двух дырочек внизу. Очень хорош!"
 
 # ch/harems_full/band/events.rpy:609
@@ -591,10 +579,6 @@ translate russian kleioannafoursome_cc0f256c:
 # ch/harems_full/band/events.rpy:613
 translate russian kleioannafoursome_f4001231:
     anna.say "Так что всё должно быть честно. Нужно согласиться делиться."
-
-# ch/harems_full/band/events.rpy:615
-translate russian kleioannafoursome_9ade2bd0:
-    kleio.say "Да, Саша, не забирай член сердцееда себе целиком!"
 
 # ch/harems_full/band/events.rpy:616
 translate russian kleioannafoursome_1a2576f5:
@@ -1033,11 +1017,11 @@ translate russian kleioannafoursome2_fe9322d3:
     "Когда мы наконец решаем закончить на сегодня, совершенно ясно: заканчивать вечер никто не хочет."
 
 # ch/harems_full/band/events.rpy:829
-translate russian kleioannafoursome2_476654ad:
+translate russian kleioannafoursome2_5cc60aef:
     mike.say "Эм... Может, кто-нибудь хочет зайти ко мне?"
 
 # ch/harems_full/band/events.rpy:830
-translate russian kleioannafoursome2_990d5006:
+translate russian kleioannafoursome2_62680362:
     mike.say "Можем... посмотреть что-нибудь на Nutflix?"
 
 # ch/harems_full/band/events.rpy:832
@@ -1049,7 +1033,7 @@ translate russian kleioannafoursome2_2c480c3b:
     sasha.say "Ты пытаешься позвать нас всех потрахаться?"
 
 # ch/harems_full/band/events.rpy:836
-translate russian kleioannafoursome2_7e8eb9d5:
+translate russian kleioannafoursome2_ee4807ea:
     mike.say "Ну... раз уж ты заговорила об этом..."
 
 # ch/harems_full/band/events.rpy:838
@@ -1428,10 +1412,6 @@ translate russian anna_kleio_propose_male_75b1b567:
 translate russian anna_kleio_propose_male_5ce75cf9:
     anna.say "Что случилось, [lssb_common.hero_name()]?"
 
-# ch/harems_full/band/events.rpy:999
-translate russian anna_kleio_propose_male_aae38c0d:
-    kleio.say "Да, сердцеед, что такое?"
-
 # ch/harems_full/band/events.rpy:1001
 translate russian anna_kleio_propose_male_3f648e77:
     kleio.say "На какашке поскользнулся, что ли?"
@@ -1465,7 +1445,7 @@ translate russian anna_kleio_propose_male_0164d556:
     "Но одновременно переводят всё внимание на Анну и Клео: теперь вопрос к ним."
 
 # ch/harems_full/band/events.rpy:1011
-translate russian anna_kleio_propose_male_90cfca36:
+translate russian anna_kleio_propose_male_bcc7b994:
     mike.say "А... Анна... Клео..."
 
 # ch/harems_full/band/events.rpy:1012
@@ -1544,10 +1524,6 @@ translate russian anna_kleio_propose_male_1129856e:
 translate russian anna_kleio_propose_male_a3d89adb:
     anna.say "[lssb_common.hero_name()], это так мило с твоей стороны!"
 
-# ch/harems_full/band/events.rpy:1043
-translate russian anna_kleio_propose_male_2f4a42e5:
-    kleio.say "Да, сердцеед, даже я тронута."
-
 # ch/harems_full/band/events.rpy:1044
 translate russian anna_kleio_propose_male_4c3344fe:
     "О чёрт. Это не может означать ничего хорошего."
@@ -1621,16 +1597,12 @@ translate russian anna_kleio_propose_male_6b42c313:
     "И всё же не может согласиться лишь ради моих чувств."
 
 # ch/harems_full/band/events.rpy:1065
-translate russian anna_kleio_propose_male_acdb2e08:
+translate russian anna_kleio_propose_male_b51a79cc:
     mike.say "Я... я понимаю, Клео."
 
 # ch/harems_full/band/events.rpy:1066
 translate russian anna_kleio_propose_male_7b0f7df1:
     mike.say "Ничего страшного..."
-
-# ch/harems_full/band/events.rpy:1068
-translate russian anna_kleio_propose_male_1d9d36a3:
-    kleio.say "Дело не в тебе, сердцеед. Я серьёзно."
 
 # ch/harems_full/band/events.rpy:1069
 translate russian anna_kleio_propose_male_c9e6c0a9:
@@ -1641,7 +1613,7 @@ translate russian anna_kleio_propose_male_058b1d3a:
     kleio.say "Мы ещё не готовы надеть кольца и остепениться."
 
 # ch/harems_full/band/events.rpy:1073
-translate russian anna_kleio_propose_male_39171006:
+translate russian anna_kleio_propose_male_6e444e5c:
     anna.say "Но... нам теперь не обязательно расставаться, правда?!"
 
 # ch/harems_full/band/events.rpy:1074
@@ -1692,10 +1664,6 @@ translate russian anna_kleio_propose_male_88dbc1ae:
 translate russian anna_kleio_propose_male_1a0e85e2:
     "А потом надевает второе себе!"
 
-# ch/harems_full/band/events.rpy:1094
-translate russian anna_kleio_propose_male_a8e4db37:
-    kleio.say "Повезло тебе, сердцеед."
-
 # ch/harems_full/band/events.rpy:1096
 translate russian anna_kleio_propose_male_77b857fe:
     kleio.say "Мы согласны!"
@@ -1716,10 +1684,6 @@ translate russian anna_kleio_propose_male_fce77757:
 translate russian anna_kleio_propose_male_38cb3188:
     "Но губы лишь беззвучно шевелятся: эмоции захлёстывают."
 
-# ch/harems_full/band/events.rpy:1103
-translate russian anna_kleio_propose_male_e18b0a1a:
-    kleio.say "Только не радуйся слишком бурно, сердцеед."
-
 # ch/harems_full/band/events.rpy:1104
 translate russian anna_kleio_propose_male_892edc4f:
     kleio.say "Нельзя же дать девушке почувствовать себя слишком особенной!"
@@ -1737,12 +1701,8 @@ translate russian anna_kleio_propose_male_d94270f6:
     anna.say "И скрывает, что счастлива не меньше меня!"
 
 # ch/harems_full/band/events.rpy:1109
-translate russian anna_kleio_propose_male_4859c3b4:
+translate russian anna_kleio_propose_male_432f16f1:
     mike.say "Я... я тоже очень счастлив, Анна!"
-
-# ch/harems_full/band/events.rpy:1110
-translate russian anna_kleio_propose_male_0fef4811:
-    kleio.say "Ещё бы, сердцеед."
 
 # ch/harems_full/band/events.rpy:1112
 translate russian anna_kleio_propose_male_c1d6c8b4:
@@ -1757,7 +1717,7 @@ translate russian anna_kleio_propose_male_ce4074d6:
     anna.say "Ты ведь за него выходишь!"
 
 # ch/harems_full/band/events.rpy:1117
-translate russian anna_kleio_propose_male_f97b081d:
+translate russian anna_kleio_propose_male_53c666a3:
     kleio.say "Я... ну... я не это..."
 
 # ch/harems_full/band/events.rpy:1118
@@ -1799,10 +1759,6 @@ translate russian anna_kleio_propose_male_120ebd04:
 # ch/harems_full/band/events.rpy:1130
 translate russian anna_kleio_propose_male_88319061:
     "Клео снова улыбается, оправившись от заминки."
-
-# ch/harems_full/band/events.rpy:1131
-translate russian anna_kleio_propose_male_bd89b036:
-    kleio.say "У меня есть для тебя колечко, сердцеед."
 
 # ch/harems_full/band/events.rpy:1132
 translate russian anna_kleio_propose_male_54e3b835:
@@ -1988,10 +1944,6 @@ translate russian anna_kleio_male_ending_10005b0b:
 translate russian anna_kleio_male_ending_fa6d2808:
     "Не уверен, что кто-то ещё понимает шутку, но самих девушек она очень веселит."
 
-# ch/harems_full/band/events.rpy:1201
-translate russian anna_kleio_male_ending_d785c78c:
-    kleio.say "На что уставился, сердцеед?"
-
 # ch/harems_full/band/events.rpy:1202
 translate russian anna_kleio_male_ending_8ccdf9e0:
     "Клео шипит эти слова, но без яда и раздражения."
@@ -2024,10 +1976,6 @@ translate russian anna_kleio_male_ending_e85c3a2c:
 translate russian anna_kleio_male_ending_0ce0def8:
     anna.say "[lssb_common.hero_name()], это ТАК романтично!"
 
-# ch/harems_full/band/events.rpy:1214
-translate russian anna_kleio_male_ending_28702b59:
-    kleio.say "Туше, сердцеед."
-
 # ch/harems_full/band/events.rpy:1215
 translate russian anna_kleio_male_ending_a4fff14d:
     kleio.say "Хорошо ответил!"
@@ -2049,7 +1997,7 @@ translate russian anna_kleio_male_ending_53554c08:
     "Вскоре священник повторяет эти жесты, поняв, что стульев здесь нет."
 
 # ch/harems_full/band/events.rpy:1223
-translate russian anna_kleio_male_ending_11fd68b7:
+translate russian anna_kleio_male_ending_0534e806:
     "Священник" "А... тогда оставайтесь стоять."
 
 # ch/harems_full/band/events.rpy:1224
@@ -2113,7 +2061,7 @@ translate russian anna_kleio_male_ending_14c4e7f9:
     anna.say "КЛЕО!"
 
 # ch/harems_full/band/events.rpy:1245
-translate russian anna_kleio_male_ending_fe39d9b1:
+translate russian anna_kleio_male_ending_073574b5:
     kleio.say "Ладно, ладно... Обещаю!"
 
 # ch/harems_full/band/events.rpy:1249
@@ -2229,7 +2177,7 @@ translate russian anna_kleio_male_ending_25045175:
     kleio.say "Анна, я не о..."
 
 # ch/harems_full/band/events.rpy:1291
-translate russian anna_kleio_male_ending_465d2197:
+translate russian anna_kleio_male_ending_1d2468f0:
     anna.say "Ты почти никогда не носишь брюки... или джинсы."
 
 # ch/harems_full/band/events.rpy:1292
@@ -2245,7 +2193,7 @@ translate russian anna_kleio_male_ending_0a61280b:
     kleio.say "АННА..."
 
 # ch/harems_full/band/events.rpy:1297
-translate russian anna_kleio_male_ending_f9f1d4de:
+translate russian anna_kleio_male_ending_52738e0b:
     kleio.say "Анна... пожалуйста, хватит о брюках."
 
 # ch/harems_full/band/events.rpy:1298
@@ -2296,10 +2244,6 @@ translate russian anna_kleio_male_ending_14cc2c65:
 translate russian anna_kleio_male_ending_d2796a0e:
     kleio.say "В общем, знаю, что все давно этого ждали."
 
-# ch/harems_full/band/events.rpy:1314
-translate russian anna_kleio_male_ending_c49ba43e:
-    kleio.say "Услышать о наших отношениях от меня, а не от сердцееда!"
-
 # ch/harems_full/band/events.rpy:1316
 translate russian anna_kleio_male_ending_b7f6021d:
     anna.say "И от меня, Клео! Про меня тоже не забудь!"
@@ -2319,10 +2263,6 @@ translate russian anna_kleio_male_ending_83820959:
 # ch/harems_full/band/events.rpy:1323
 translate russian anna_kleio_male_ending_670e2ca1:
     kleio.say "Но ладно..."
-
-# ch/harems_full/band/events.rpy:1324
-translate russian anna_kleio_male_ending_76a17bb8:
-    kleio.say "Можете поверить, что мы обе вышли за сердцееда?"
 
 # ch/harems_full/band/events.rpy:1325
 translate russian anna_kleio_male_ending_a738fcdf:
@@ -2376,10 +2316,6 @@ translate russian anna_kleio_male_ending_955e209f:
 translate russian anna_kleio_male_ending_b52b2eea:
     anna.say "И вместо этого ведёшь себя с ним как стерва."
 
-# ch/harems_full/band/events.rpy:1343
-translate russian anna_kleio_male_ending_625210e5:
-    kleio.say "Мы вообще-то должны говорить о сердцееде, а не обо мне!"
-
 # ch/harems_full/band/events.rpy:1344
 translate russian anna_kleio_male_ending_31db52c7:
     anna.say "Ладно, Клео."
@@ -2393,7 +2329,7 @@ translate russian anna_kleio_male_ending_6a5b17ce:
     anna.say "И совсем не ухватилась за шанс побыть втроём ещё и со мной!"
 
 # ch/harems_full/band/events.rpy:1348
-translate russian anna_kleio_male_ending_fd60e2fc:
+translate russian anna_kleio_male_ending_1cbee491:
     kleio.say "Да, ну... Это была одна из лучших сторон его появления в нашей жизни."
 
 # ch/harems_full/band/events.rpy:1349
@@ -2417,7 +2353,7 @@ translate russian anna_kleio_male_ending_633d404a:
     anna.say "А скоро нас будет пятеро!"
 
 # ch/harems_full/band/events.rpy:1357
-translate russian anna_kleio_male_ending_56e27b04:
+translate russian anna_kleio_male_ending_c9e23562:
     kleio.say "Уф... Не напоминай."
 
 # ch/harems_full/band/events.rpy:1358
@@ -2489,7 +2425,7 @@ translate russian anna_kleio_male_ending_f2d9a6c8:
     kleio.say "Легче переносить все эти незнакомые города."
 
 # ch/harems_full/band/events.rpy:1385
-translate russian anna_kleio_male_ending_b3f291c6:
+translate russian anna_kleio_male_ending_2a251e74:
     anna.say "М-м-м... Ага! Больше никаких техников и приставучих фанатов для этой девушки!"
 
 # ch/harems_full/band/events.rpy:1386
@@ -2523,10 +2459,6 @@ translate russian anna_kleio_male_ending_89af535e:
 # ch/harems_full/band/events.rpy:1393
 translate russian anna_kleio_male_ending_d83f12ec:
     kleio.say "Кто не успел, тот опоздал, Анна!"
-
-# ch/harems_full/band/events.rpy:1394
-translate russian anna_kleio_male_ending_abcc1d90:
-    kleio.say "А если серьёзно, сердцеед сам должен нас умолять."
 
 # ch/harems_full/band/events.rpy:1395
 translate russian anna_kleio_male_ending_8858cd6c:
@@ -2637,7 +2569,7 @@ translate russian anna_sasha_propose_male_50ae9d18:
     anna.say "Ох, блядь!"
 
 # ch/harems_full/band/events.rpy:1433
-translate russian anna_sasha_propose_male_3d7b4303:
+translate russian anna_sasha_propose_male_e99c3d81:
     anna.say "Ты... хочешь сказать..."
 
 # ch/harems_full/band/events.rpy:1434
@@ -2861,7 +2793,7 @@ translate russian anna_sasha_propose_male_0f5276f4_1:
     sasha.say "А в браке это уже не весело, [lssb_common.hero_name()]!"
 
 # ch/harems_full/band/events.rpy:1531
-translate russian anna_sasha_propose_male_4ce008b2:
+translate russian anna_sasha_propose_male_5f60a1b6:
     anna.say "Н... но..."
 
 # ch/harems_full/band/events.rpy:1533
@@ -2957,7 +2889,7 @@ translate russian anna_sasha_propose_male_9c0c070a:
     "Анна пожимает плечами и продолжает дуться."
 
 # ch/harems_full/band/events.rpy:1571
-translate russian anna_sasha_propose_male_40299833:
+translate russian anna_sasha_propose_male_b4e26fcb:
     anna.say "Нет... Наверное, я не против."
 
 # ch/harems_full/band/events.rpy:1573
@@ -3076,12 +3008,8 @@ translate russian kleio_sasha_propose_male_878628e9:
 translate russian kleio_sasha_propose_male_9afd69c2:
     sasha.say "Просто это так неожиданно, понимаешь?"
 
-# ch/harems_full/band/events.rpy:1622
-translate russian kleio_sasha_propose_male_72b9c67f:
-    kleio.say "Да, сердцеед, именно!"
-
 # ch/harems_full/band/events.rpy:1623
-translate russian kleio_sasha_propose_male_147c87db:
+translate russian kleio_sasha_propose_male_3e72b53f:
     mike.say "Эм... Ну ладно, наверное..."
 
 # ch/harems_full/band/events.rpy:1624
@@ -3124,10 +3052,6 @@ translate russian kleio_sasha_propose_male_2aa8267d:
 translate russian kleio_sasha_propose_male_950149b8:
     sasha.say "Почему мы сами не додумались?"
 
-# ch/harems_full/band/events.rpy:1640
-translate russian kleio_sasha_propose_male_021de14c:
-    kleio.say "Да, сердцеед."
-
 # ch/harems_full/band/events.rpy:1642
 translate russian kleio_sasha_propose_male_3cf41c9c:
     kleio.say "Тут ведь много ума не нужно."
@@ -3159,10 +3083,6 @@ translate russian kleio_sasha_propose_male_1c8974c9:
 # ch/harems_full/band/events.rpy:1650
 translate russian kleio_sasha_propose_male_9b464731:
     sasha.say "Да, [lssb_common.hero_name()]! Я выйду за тебя!"
-
-# ch/harems_full/band/events.rpy:1652
-translate russian kleio_sasha_propose_male_9ba50aff:
-    kleio.say "Я тоже, сердцеед!"
 
 # ch/harems_full/band/events.rpy:1653
 translate russian kleio_sasha_propose_male_9aeb9adf:
@@ -3244,10 +3164,6 @@ translate russian kleio_sasha_propose_male_3a43e31b:
 translate russian kleio_sasha_propose_male_9a6c4778:
     mike.say "Вообще-то да!"
 
-# ch/harems_full/band/events.rpy:1685
-translate russian kleio_sasha_propose_male_6f3fa142:
-    kleio.say "Да ладно, сердцеед!"
-
 # ch/harems_full/band/events.rpy:1687
 translate russian kleio_sasha_propose_male_95b6a6c1:
     kleio.say "Нам троим и так прекрасно вместе."
@@ -3280,10 +3196,6 @@ translate russian kleio_sasha_propose_male_420894f1_1:
 translate russian kleio_sasha_propose_male_44be02ff:
     sasha.say "Ты нормально это воспринимаешь?"
 
-# ch/harems_full/band/events.rpy:1699
-translate russian kleio_sasha_propose_male_ac30a658:
-    kleio.say "Да, сердцеед!"
-
 # ch/harems_full/band/events.rpy:1701
 translate russian kleio_sasha_propose_male_a23ab6cf:
     kleio.say "Мы тебя не бросаем."
@@ -3315,10 +3227,6 @@ translate russian kleio_sasha_propose_male_37f9d607_2:
 # ch/harems_full/band/events.rpy:1714
 translate russian kleio_sasha_propose_male_7b0a582f_1:
     "Не могу избавиться от чувства, что сейчас откажут!"
-
-# ch/harems_full/band/events.rpy:1715
-translate russian kleio_sasha_propose_male_386320ae:
-    kleio.say "Да, блядь, сердцеед!"
 
 # ch/harems_full/band/events.rpy:1717
 translate russian kleio_sasha_propose_male_3cf41c9c_1:
@@ -3357,7 +3265,7 @@ translate russian kleio_sasha_propose_male_f6fe177c:
     "И вижу, что Саша и Клео тоже пристально смотрят друг на друга."
 
 # ch/harems_full/band/events.rpy:1730
-translate russian kleio_sasha_propose_male_642de809:
+translate russian kleio_sasha_propose_male_370937d4:
     kleio.say "Эй... Погоди, Саша!"
 
 # ch/harems_full/band/events.rpy:1732
@@ -3384,12 +3292,8 @@ translate russian kleio_sasha_propose_male_5bfa7a63:
 translate russian kleio_sasha_propose_male_e28fb601:
     kleio.say "А я, может, хочу!"
 
-# ch/harems_full/band/events.rpy:1742
-translate russian kleio_sasha_propose_male_da6518b6:
-    kleio.say "Что скажешь, сердцеед?"
-
 # ch/harems_full/band/events.rpy:1743
-translate russian kleio_sasha_propose_male_9798a477:
+translate russian kleio_sasha_propose_male_4ca8c5c9:
     mike.say "Я... пожалуй, да, Клео."
 
 # ch/harems_full/band/events.rpy:1744
@@ -3423,10 +3327,6 @@ translate russian kleio_sasha_propose_male_2aa8267d_1:
 # ch/harems_full/band/events.rpy:1757
 translate russian kleio_sasha_propose_male_950149b8_1:
     sasha.say "Почему мы сами не додумались?"
-
-# ch/harems_full/band/events.rpy:1760
-translate russian kleio_sasha_propose_male_6f3fa142_1:
-    kleio.say "Да ладно, сердцеед!"
 
 # ch/harems_full/band/events.rpy:1761
 translate russian kleio_sasha_propose_male_95b6a6c1_1:
@@ -3489,7 +3389,7 @@ translate russian kleio_sasha_propose_male_f492adbc:
     sasha.say "Что скажешь, [lssb_common.hero_name()]?"
 
 # ch/harems_full/band/events.rpy:1786
-translate russian kleio_sasha_propose_male_8ceb0f4a:
+translate russian kleio_sasha_propose_male_8ff052cf:
     mike.say "Я... пожалуй, да, Саша."
 
 # ch/harems_full/band/events.rpy:1787
@@ -3548,10 +3448,6 @@ translate russian anna_kleio_sasha_propose_male_0b3d3ee2:
 translate russian anna_kleio_sasha_propose_male_1afc5a8d:
     "Клео усмехается моей вспышке и качает головой, убирая микрофон повыше."
 
-# ch/harems_full/band/events.rpy:1808
-translate russian anna_kleio_sasha_propose_male_9aa00768:
-    kleio.say "Эй, сердцеед! Не так уж плохо ты играешь!"
-
 # ch/harems_full/band/events.rpy:1809
 translate russian anna_kleio_sasha_propose_male_e5cd9194:
     kleio.say "То есть играешь ты, конечно, ПЛОХО."
@@ -3585,7 +3481,7 @@ translate russian anna_kleio_sasha_propose_male_8612f834:
     mike.say "А, да."
 
 # ch/harems_full/band/events.rpy:1822
-translate russian anna_kleio_sasha_propose_male_6fcae830:
+translate russian anna_kleio_sasha_propose_male_d8a5fe36:
     mike.say "Спасибо, Анна... наверное..."
 
 # ch/harems_full/band/events.rpy:1824
@@ -3629,7 +3525,7 @@ translate russian anna_kleio_sasha_propose_male_11d4aa91:
     "Ну, была не была..."
 
 # ch/harems_full/band/events.rpy:1838
-translate russian anna_kleio_sasha_propose_male_d431c728:
+translate russian anna_kleio_sasha_propose_male_5fcfe754:
     mike.say "Э-э... девчонки?"
 
 # ch/harems_full/band/events.rpy:1841
@@ -3639,10 +3535,6 @@ translate russian anna_kleio_sasha_propose_male_2ce121cc:
 # ch/harems_full/band/events.rpy:1844
 translate russian anna_kleio_sasha_propose_male_79d67e5b:
     anna.say "А? Что?"
-
-# ch/harems_full/band/events.rpy:1846
-translate russian anna_kleio_sasha_propose_male_bb4d1f45:
-    kleio.say "Хочешь что-то сказать, сердцеед?"
 
 # ch/harems_full/band/events.rpy:1847
 translate russian anna_kleio_sasha_propose_male_64248a3a:
@@ -3713,7 +3605,7 @@ translate russian anna_kleio_sasha_propose_male_99b01b71:
     mike.say "Я люблю вас всех сильнее, чем могу выразить словами."
 
 # ch/harems_full/band/events.rpy:1866
-translate russian anna_kleio_sasha_propose_male_6ee5b1b2:
+translate russian anna_kleio_sasha_propose_male_e25134c7:
     mike.say "И... и..."
 
 # ch/harems_full/band/events.rpy:1867
@@ -3725,7 +3617,7 @@ translate russian anna_kleio_sasha_propose_male_a5ebc99b:
     mike.say "Вы трое выйдете за меня?"
 
 # ch/harems_full/band/events.rpy:1869
-translate russian anna_kleio_sasha_propose_male_deea1423:
+translate russian anna_kleio_sasha_propose_male_e1ff5a43:
     mike.say "И... наверное, друг за друга тоже?"
 
 # ch/harems_full/band/events.rpy:1873
@@ -3743,10 +3635,6 @@ translate russian anna_kleio_sasha_propose_male_a32a39a4:
 # ch/harems_full/band/events.rpy:1877
 translate russian anna_kleio_sasha_propose_male_1d42bda4:
     "Она пятится от меня, пока не натыкается на усилитель, словно я вдруг стал заразным."
-
-# ch/harems_full/band/events.rpy:1879
-translate russian anna_kleio_sasha_propose_male_43249cc7:
-    kleio.say "Полегче, сердцеед!"
 
 # ch/harems_full/band/events.rpy:1880
 translate russian anna_kleio_sasha_propose_male_b575428c:
@@ -3869,7 +3757,7 @@ translate russian anna_kleio_sasha_propose_male_44c2ed11:
     "А потом поднимает его, словно трофей, и размахивает рукой над головой."
 
 # ch/harems_full/band/events.rpy:1926
-translate russian anna_kleio_sasha_propose_male_c84cee10:
+translate russian anna_kleio_sasha_propose_male_f33951ee:
     kleio.say "ХА... ДА... ДА!"
 
 # ch/harems_full/band/events.rpy:1927
@@ -3877,7 +3765,7 @@ translate russian anna_kleio_sasha_propose_male_2a362338:
     kleio.say "Кто-то ВСЁ-ТАКИ хочет на мне жениться!"
 
 # ch/harems_full/band/events.rpy:1928
-translate russian anna_kleio_sasha_propose_male_007f3df3:
+translate russian anna_kleio_sasha_propose_male_b4568ddc:
     kleio.say "Получила, мамочка?.. А ты, папочка, утрись..."
 
 # ch/harems_full/band/events.rpy:1929
@@ -3941,7 +3829,7 @@ translate russian anna_kleio_sasha_propose_male_239bb9e5:
     anna.say "Только не знаю, стану ли я при этом женой Клео и Саши!"
 
 # ch/harems_full/band/events.rpy:1951
-translate russian anna_kleio_sasha_propose_male_a462dddd:
+translate russian anna_kleio_sasha_propose_male_0cff027d:
     anna.say "Или их мужем... или кем!"
 
 # ch/harems_full/band/events.rpy:1952
@@ -3961,7 +3849,7 @@ translate russian anna_kleio_sasha_propose_male_b3b194d9:
     "Я поднимаю глаза и вижу: хоть Саша обращается к Анне, смотрит она на меня."
 
 # ch/harems_full/band/events.rpy:1958
-translate russian anna_kleio_sasha_propose_male_ca100e0c:
+translate russian anna_kleio_sasha_propose_male_e4c2d455:
     mike.say "Т... то есть ты тоже согласна, Саша?"
 
 # ch/harems_full/band/events.rpy:1960
@@ -4019,10 +3907,6 @@ translate russian anna_kleio_sasha_propose_male_591647e6:
 # ch/harems_full/band/events.rpy:1976
 translate russian anna_kleio_sasha_propose_male_d29ff369:
     "А потом они втроём одновременно надевают его мне на палец."
-
-# ch/harems_full/band/events.rpy:1978
-translate russian anna_kleio_sasha_propose_male_775e828c:
-    kleio.say "Ну, теперь всё официально. Пора тебе заняться свадьбой, сердцеед!"
 
 # ch/harems_full/band/events.rpy:1980
 translate russian anna_kleio_sasha_propose_male_63746a90:
@@ -4105,7 +3989,7 @@ translate russian anna_kleio_sasha_male_ending_d59828ea:
     kleio.say "Но с его приходом наше трио стало квартетом."
 
 # ch/harems_full/band/events.rpy:2021
-translate russian anna_kleio_sasha_male_ending_bf7ba000:
+translate russian anna_kleio_sasha_male_ending_690a8bb4:
     kleio.say "А потом... скажем так, мы стали играть вчетвером и вне сцены!"
 
 # ch/harems_full/band/events.rpy:2022
@@ -4308,10 +4192,6 @@ translate russian anna_kleio_sasha_male_ending_97d13d8e:
 translate russian anna_kleio_sasha_male_ending_af06c32b:
     anna.say "О-о, мы тебя тоже любим, [lssb_common.hero_name()]!"
 
-# ch/harems_full/band/events.rpy:2095
-translate russian anna_kleio_sasha_male_ending_8e094e28:
-    kleio.say "Да, и теперь твоя задница ПРИНАДЛЕЖИТ нам, сердцеед!"
-
 # ch/harems_full/band/events.rpy:2099
 translate russian anna_kleio_sasha_male_ending_6eb95b7f:
     sasha.say "DEATHLESS HARPIES НАВСЕГДА!"
@@ -4385,7 +4265,7 @@ translate russian anna_kleio_sasha_male_ending_40020597:
     sasha.say "Рассказать, чем закончилась наша история и как мы теперь счастливы."
 
 # ch/harems_full/band/events.rpy:2131
-translate russian anna_kleio_sasha_male_ending_8b2cc936:
+translate russian anna_kleio_sasha_male_ending_57ac7179:
     anna.say "А?.. Кому рассказать, Саша?"
 
 # ch/harems_full/band/events.rpy:2132
@@ -4479,10 +4359,6 @@ translate russian anna_kleio_sasha_male_ending_e8cdbf66:
 # ch/harems_full/band/events.rpy:2163
 translate russian anna_kleio_sasha_male_ending_6c332765:
     sasha.say "И я не знаю, нужно ли нам всем съехаться, чтобы наши отношения складывались."
-
-# ch/harems_full/band/events.rpy:2164
-translate russian anna_kleio_sasha_male_ending_0cf2dfe2:
-    kleio.say "Пусть только сердцеед попробует не быть рядом, когда мы вернёмся из тура!"
 
 # ch/harems_full/band/events.rpy:2165
 translate russian anna_kleio_sasha_male_ending_fcaab293:
@@ -4685,11 +4561,11 @@ translate russian anna_kleio_sasha_male_ending_13e1d5a5:
     anna.say "Ой, а можно найти таких, которые будут кормить грудью вместо нас?"
 
 # ch/harems_full/band/events.rpy:2222
-translate russian anna_kleio_sasha_male_ending_eb091539:
+translate russian anna_kleio_sasha_male_ending_52141bb3:
     kleio.say "Что?.. Зачем?"
 
 # ch/harems_full/band/events.rpy:2223
-translate russian anna_kleio_sasha_male_ending_91b57a7e:
+translate russian anna_kleio_sasha_male_ending_ade92774:
     anna.say "Ну... у меня сейчас ТАК болят соски!"
 
 # ch/harems_full/band/events.rpy:2224
@@ -4703,10 +4579,6 @@ translate russian anna_kleio_sasha_male_ending_db2e591b:
 # ch/harems_full/band/events.rpy:2226
 translate russian anna_kleio_sasha_male_ending_e43e2e52:
     sasha.say "Ладно, на чём я остановилась..."
-
-# ch/harems_full/band/events.rpy:2227
-translate russian anna_kleio_sasha_male_ending_110f9efc:
-    kleio.say "На том, как здорово быть с сердцеедом."
 
 # ch/harems_full/band/events.rpy:2228
 translate russian anna_kleio_sasha_male_ending_2dd2f946:
@@ -4817,7 +4689,7 @@ translate russian anna_kleio_anal_a20f9a90:
     "Разве можно меня винить за то, что после такого я задерживаюсь и стараюсь расслышать продолжение?"
 
 # ch/harems_full/band/events.rpy:2264
-translate russian anna_kleio_anal_a1bd734b:
+translate russian anna_kleio_anal_b4cf3412:
     kleio.say "Ну... да, Анна."
 
 # ch/harems_full/band/events.rpy:2265
@@ -4841,7 +4713,7 @@ translate russian anna_kleio_anal_55fc23f5:
     anna.say "Тебе же нравятся и парни, и девушки?"
 
 # ch/harems_full/band/events.rpy:2271
-translate russian anna_kleio_anal_e2c1c1bf:
+translate russian anna_kleio_anal_762f7adf:
     anna.say "Значит, ты наверняка вытворяла всякое безумие в постели... или где-нибудь ещё?"
 
 # ch/harems_full/band/events.rpy:2272
@@ -4889,11 +4761,11 @@ translate russian anna_kleio_anal_28d688ab:
     "Поэтому поспешно прячусь так, чтобы меня не было видно, но разговор по-прежнему было хорошо слышно."
 
 # ch/harems_full/band/events.rpy:2287
-translate russian anna_kleio_anal_ae2842dd:
+translate russian anna_kleio_anal_fa5593ea:
     kleio.say "Я... не знаю, Анна."
 
 # ch/harems_full/band/events.rpy:2288
-translate russian anna_kleio_anal_43f7dd8e:
+translate russian anna_kleio_anal_752fca13:
     kleio.say "Может, я и попробовала бы. ОДИН РАЗ... и всё."
 
 # ch/harems_full/band/events.rpy:2289
@@ -4965,7 +4837,7 @@ translate russian kleio_anna_showdown_88d67ff0:
     anna.say "Слушай, в последнее время ты здорово играешь на репетициях."
 
 # ch/harems_full/band/events.rpy:2318
-translate russian kleio_anna_showdown_cbe4032a:
+translate russian kleio_anna_showdown_bb63fca8:
     anna.say "Прямо гитарный волшебник... Ну, знаешь, с волшебной палочкой!"
 
 # ch/harems_full/band/events.rpy:2319
@@ -5037,11 +4909,11 @@ translate russian kleio_anna_showdown_9b7bb21d:
     "Они выжидающе смотрят на меня, но я могу только пожать плечами и вздохнуть."
 
 # ch/harems_full/band/events.rpy:2346
-translate russian kleio_anna_showdown_0ebbeaf6:
+translate russian kleio_anna_showdown_aa64d956:
     mike.say "Нет... Пожалуй, объяснить я не могу."
 
 # ch/harems_full/band/events.rpy:2347
-translate russian kleio_anna_showdown_a990d8d9:
+translate russian kleio_anna_showdown_e52ba5bb:
     mike.say "Простите... Просто мне было хорошо сразу с двумя потрясающими девушками, и я не смог удержаться."
 
 # ch/harems_full/band/events.rpy:2348
@@ -5113,7 +4985,7 @@ translate russian kleio_anna_showdown_1697c096:
     anna.say "Ну и что, что он с тобой тоже спал?"
 
 # ch/harems_full/band/events.rpy:2370
-translate russian kleio_anna_showdown_becb28c1:
+translate russian kleio_anna_showdown_e48451b1:
     anna.say "Мы все спали со многими... А мне нравится заниматься этим с ним."
 
 # ch/harems_full/band/events.rpy:2372
@@ -5125,11 +4997,11 @@ translate russian kleio_anna_showdown_90b31131:
     anna.say "Я не могу делить парня с кем-то ещё, Клео."
 
 # ch/harems_full/band/events.rpy:2377
-translate russian kleio_anna_showdown_975224a9:
+translate russian kleio_anna_showdown_14deae8d:
     anna.say "Может, с девушкой было бы иначе... Но у меня так давно не было парня... И это казалось чем-то особенным."
 
 # ch/harems_full/band/events.rpy:2378
-translate russian kleio_anna_showdown_88962e0f:
+translate russian kleio_anna_showdown_a1828e40:
     kleio.say "Понимаю, Анна... Просто... этот хер мне правда нравится. Не спрашивай почему!"
 
 # ch/harems_full/band/events.rpy:2380
@@ -5141,7 +5013,7 @@ translate russian kleio_anna_showdown_a84d5a5e:
     anna.say "Что такое, Клео? Ты слишком крутая стерва, чтобы признать, что тебе нравится чувствовать его член внутри?"
 
 # ch/harems_full/band/events.rpy:2383
-translate russian kleio_anna_showdown_82e56449:
+translate russian kleio_anna_showdown_76593369:
     "Мы с Клео потрясены тем, что Анна говорит такое на людях. Но мне удаётся промолчать... в отличие от Клео."
 
 # ch/harems_full/band/events.rpy:2385
@@ -5149,11 +5021,11 @@ translate russian kleio_anna_showdown_d81fc885:
     kleio.say "Господи, Анна, сегодня ты никого не щадишь, да?"
 
 # ch/harems_full/band/events.rpy:2386
-translate russian kleio_anna_showdown_c7dcc836:
+translate russian kleio_anna_showdown_e60d094c:
     anna.say "Я просто говорю честно, Клео... Может, и ты хоть раз будешь честной?"
 
 # ch/harems_full/band/events.rpy:2388
-translate russian kleio_anna_showdown_56a7df18:
+translate russian kleio_anna_showdown_c2957637:
     kleio.say "Ладно, ладно... Да, чёрт возьми, признаю: мне нравится этот хер... и хер этого хера."
 
 # ch/harems_full/band/events.rpy:2390
@@ -5165,7 +5037,7 @@ translate russian kleio_anna_showdown_be541cf1:
     kleio.say "Я понятия не имела, что он и тебя трахает, Анна."
 
 # ch/harems_full/band/events.rpy:2396
-translate russian kleio_anna_showdown_4807a5e6:
+translate russian kleio_anna_showdown_b1ab8732:
     anna.say "Я тоже... Прости."
 
 # ch/harems_full/band/events.rpy:2397
@@ -5177,7 +5049,7 @@ translate russian kleio_anna_showdown_a6a203fe:
     kleio.say "Знаю, иногда я заносчиво рассуждаю о сексе, но когда дело касается такой подруги, как ты, всё это кажется неправильным."
 
 # ch/harems_full/band/events.rpy:2399
-translate russian kleio_anna_showdown_562aee7b:
+translate russian kleio_anna_showdown_7201f20f:
     anna.say "Да, я чувствую примерно то же... Может, будь это какая-нибудь незнакомая нам обеим девушка, всё было бы иначе."
 
 # ch/harems_full/band/events.rpy:2402
@@ -5189,7 +5061,7 @@ translate russian kleio_anna_showdown_f5bfc197:
     kleio.say "Мы ведь всё ещё подруги?"
 
 # ch/harems_full/band/events.rpy:2404
-translate russian kleio_anna_showdown_66c2113b:
+translate russian kleio_anna_showdown_74a3e113:
     anna.say "Да, наверное... Что нам какой-то хер?"
 
 # ch/harems_full/band/events.rpy:2405
@@ -5213,19 +5085,19 @@ translate russian kleio_anna_showdown_d2804632:
     "Вдруг обе смотрят на меня, и я понимаю, что должна чувствовать раненая газель под взглядами двух львиц."
 
 # ch/harems_full/band/events.rpy:2416
-translate russian kleio_anna_showdown_5f94b51e:
+translate russian kleio_anna_showdown_81966cb8:
     kleio.say "На дворе двадцать первый век, Анна... И мы ведь хорошие подруги?"
 
 # ch/harems_full/band/events.rpy:2418
-translate russian kleio_anna_showdown_ebe19c4e:
+translate russian kleio_anna_showdown_7d57396e:
     anna.say "Да, Клео... А хорошие подруги делятся, верно?"
 
 # ch/harems_full/band/events.rpy:2420
-translate russian kleio_anna_showdown_a37dbcf3:
+translate russian kleio_anna_showdown_28647e2d:
     kleio.say "Конечно... Косметикой, одеждой, вибраторами... И достойным членом, когда такой наконец попадается."
 
 # ch/harems_full/band/events.rpy:2422
-translate russian kleio_anna_showdown_b262f862:
+translate russian kleio_anna_showdown_7acd079b:
     anna.say "О, поверь... Я знаю, как долго такого приходится ждать!"
 
 # ch/harems_full/band/events.rpy:2423
@@ -5237,11 +5109,11 @@ translate russian kleio_anna_showdown_e955b47a:
     "Клео явно тоже весело, но что-то в её глазах подсказывает: она уже представляет открывающиеся возможности."
 
 # ch/harems_full/band/events.rpy:2427
-translate russian kleio_anna_showdown_111e3273:
+translate russian kleio_anna_showdown_462dd595:
     kleio.say "Как я всегда говорю, Анна, секс — это просто встреча двух людей... или трёх."
 
 # ch/harems_full/band/events.rpy:2428
-translate russian kleio_anna_showdown_98dfa8b1:
+translate russian kleio_anna_showdown_4f52fdc0:
     anna.say "Ну, если он будет спать с другими девушками, пусть лучше это будем ты... и я!"
 
 # ch/harems_full/band/events.rpy:2429
@@ -5277,7 +5149,7 @@ translate russian date_set_up_6a9b5deb:
     kleio.say "Ты ведёшь нас на ужин."
 
 # ch/harems_full/band/events.rpy:2445
-translate russian date_set_up_1eb0943a:
+translate russian date_set_up_f69bf460:
     mike.say "Ого... хорошо!"
 
 # ch/harems_full/band/events.rpy:2455
@@ -5333,7 +5205,7 @@ translate russian kleio_and_anna_71e6a999:
     "А Клео в короткой клетчатой юбке, колготках в сеточку и укороченном топе под кожаной курткой — настоящая панк-принцесса."
 
 # ch/harems_full/band/events.rpy:2484
-translate russian kleio_and_anna_67e77811:
+translate russian kleio_and_anna_6e28433c:
     mike.say "Привет, девчонки... Вы сегодня потрясающе выглядите."
 
 # ch/harems_full/band/events.rpy:2486
@@ -5373,7 +5245,7 @@ translate russian kleio_and_anna_bd9d2989:
     "Анна и Клео замечают мою кожаную куртку, футболку с группой и рваные джинсы."
 
 # ch/harems_full/band/events.rpy:2506
-translate russian kleio_and_anna_addbfdd2:
+translate russian kleio_and_anna_2bd16167:
     anna.say "О-о... ОБОЖАЮ эту группу!"
 
 # ch/harems_full/band/events.rpy:2508
@@ -5389,7 +5261,7 @@ translate russian kleio_and_anna_c03d39ab:
     kleio.say "Ого, [lssb_common.hero_name()]! Вот это постарался, чтобы девушка почувствовала себя особенной!"
 
 # ch/harems_full/band/events.rpy:2517
-translate russian kleio_and_anna_6458c820:
+translate russian kleio_and_anna_62856e00:
     anna.say "Не слушай её, [lssb_common.hero_name()]... Мы уже и коллеги по группе, и друзья... ну, и кое-что большее."
 
 # ch/harems_full/band/events.rpy:2518
@@ -5417,7 +5289,7 @@ translate russian kleio_and_anna_4cfe3a93:
     mike.say "Три малиновых «Космополитена», пожалуйста."
 
 # ch/harems_full/band/events.rpy:2537
-translate russian kleio_and_anna_14609ab8:
+translate russian kleio_and_anna_6cb0e8b0:
     anna.say "О-о, звучит вкусно... и крепко."
 
 # ch/harems_full/band/events.rpy:2539
@@ -5441,11 +5313,11 @@ translate russian kleio_and_anna_071eda0e:
     mike.say "Три водки со льдом."
 
 # ch/harems_full/band/events.rpy:2553
-translate russian kleio_and_anna_f96c40da:
+translate russian kleio_and_anna_da1a67af:
     anna.say "Ой, не помню, когда я в последний раз пила водку... В основном потому, сколько я тогда её выпила."
 
 # ch/harems_full/band/events.rpy:2555
-translate russian kleio_and_anna_832de1a2:
+translate russian kleio_and_anna_a96107ef:
     kleio.say "Ого, ты не мелочишься... Люблю таких мужчин!"
 
 # ch/harems_full/band/events.rpy:2560
@@ -5457,7 +5329,7 @@ translate russian kleio_and_anna_8a85553f:
     kleio.say "Ух ты, какой щедрый господин!"
 
 # ch/harems_full/band/events.rpy:2564
-translate russian kleio_and_anna_72ada1a4:
+translate russian kleio_and_anna_7d39c4fd:
     anna.say "Ну, вечер только начинается... Может, [lssb_common.hero_name()] любит начинать потихоньку, а потом набирать обороты?"
 
 # ch/harems_full/band/events.rpy:2570
@@ -5473,7 +5345,7 @@ translate russian kleio_and_anna_6d272976:
     anna.say "Отличная идея, [lssb_common.hero_name()]! Сможем попробовать всего понемногу."
 
 # ch/harems_full/band/events.rpy:2573
-translate russian kleio_and_anna_2cc54297:
+translate russian kleio_and_anna_272f396c:
     kleio.say "По мне, здорово... Когда всё время одно и то же, рано или поздно надоедает."
 
 # ch/harems_full/band/events.rpy:2574
@@ -5501,7 +5373,7 @@ translate russian kleio_and_anna_bd5197ed:
     "Анна нервно покашливает и придвигается ближе, прежде чем заговорить."
 
 # ch/harems_full/band/events.rpy:2583
-translate russian kleio_and_anna_db4b5bb9:
+translate russian kleio_and_anna_99cbdf7f:
     anna.say "Не расстраивайся... Я тоже никогда ими не умела!"
 
 # ch/harems_full/band/events.rpy:2587
@@ -5509,7 +5381,7 @@ translate russian kleio_and_anna_2c7af625:
     "Я хватаю палочки и принимаюсь за еду."
 
 # ch/harems_full/band/events.rpy:2588
-translate russian kleio_and_anna_320995b0:
+translate russian kleio_and_anna_ef3cddf4:
     kleio.say "Ого... Какой утончённый едок с нами сегодня ужинает!"
 
 # ch/harems_full/band/events.rpy:2590
@@ -5521,7 +5393,7 @@ translate russian kleio_and_anna_d8c18ecd:
     anna.say "[lssb_common.hero_name()], у тебя настоящий талант!"
 
 # ch/harems_full/band/events.rpy:2594
-translate russian kleio_and_anna_6cae227e:
+translate russian kleio_and_anna_d127fab6:
     anna.say "Покажешь, как это делается?.. А может, покормишь меня немножко?"
 
 # ch/harems_full/band/events.rpy:2599
@@ -5533,7 +5405,7 @@ translate russian kleio_and_anna_7bf081a8:
     "Мне очень нравятся перепалки Анны и Клео: они расслабляются и становятся всё непринуждённее."
 
 # ch/harems_full/band/events.rpy:2601
-translate russian kleio_and_anna_b1df222c:
+translate russian kleio_and_anna_782933df:
     "Если вот так и выглядят настоящие отношения втроём, то это словно вечер с хорошими друзьями... только с перспективой группового секса в конце."
 
 # ch/harems_full/band/events.rpy:2602
@@ -5557,7 +5429,7 @@ translate russian kleio_and_anna_7a3cfbd3:
     "Меня бросает в жар, и я немало паникую от мысли, что обе девушки ласкают меня в общественном месте."
 
 # ch/harems_full/band/events.rpy:2611
-translate russian kleio_and_anna_d4e37fa2:
+translate russian kleio_and_anna_7f8d50b4:
     mike.say "Ого... Не знаю, как вы, а у меня штаны сейчас лопнут!"
 
 # ch/harems_full/band/events.rpy:2612
@@ -5573,11 +5445,11 @@ translate russian kleio_and_anna_b7eda612:
     "А вот Анна поникает, явно решив, что я её отвергаю."
 
 # ch/harems_full/band/events.rpy:2616
-translate russian kleio_and_anna_92ff09a6:
+translate russian kleio_and_anna_0c44cb9c:
     anna.say "А-а... А я ещё немного голодна."
 
 # ch/harems_full/band/events.rpy:2618
-translate russian kleio_and_anna_08893a51:
+translate russian kleio_and_anna_0686e4af:
     kleio.say "Анна, дурочка! Он предлагает забрать угощение домой... НА ВЫНОС!"
 
 # ch/harems_full/band/events.rpy:2620
@@ -5585,7 +5457,7 @@ translate russian kleio_and_anna_08cb99a5:
     "Анна не сразу понимает, а потом краснеет и смеётся чуть громче, чем следовало бы, развеселившись и возбудившись."
 
 # ch/harems_full/band/events.rpy:2625
-translate russian kleio_and_anna_23d65125:
+translate russian kleio_and_anna_11a4a3d6:
     "Может, за меня думают алкоголь или нервы... Но вдруг мне хочется увидеть, как Анна ещё сильнее возбуждается на людях."
 
 # ch/harems_full/band/events.rpy:2626
@@ -5677,7 +5549,7 @@ translate russian kleio_and_anna_0801145c:
     "Понятия не имею, понял ли официант, что происходит и как устроены наши отношения."
 
 # ch/harems_full/band/events.rpy:2663
-translate russian kleio_and_anna_0fa2bae6:
+translate russian kleio_and_anna_54c6ca9f:
     mike.say "Эм... Можно счёт, пожалуйста?"
 
 # ch/harems_full/band/events.rpy:2666
@@ -5693,7 +5565,7 @@ translate russian kleio_and_anna_c2982102:
     anna.say "О-о, спасибо, [lssb_common.hero_name()]... Какой джентльмен."
 
 # ch/harems_full/band/events.rpy:2671
-translate russian kleio_and_anna_d9a906de:
+translate russian kleio_and_anna_9db9aed3:
     kleio.say "Ура-ура... Мой рыцарь в сияющих доспехах!"
 
 # ch/harems_full/band/events.rpy:2676
@@ -5701,7 +5573,7 @@ translate russian kleio_and_anna_9d5fbc73:
     "Когда приносят счёт, я понимаю, что забыл бумажник."
 
 # ch/harems_full/band/events.rpy:2677
-translate russian kleio_and_anna_edab677a:
+translate russian kleio_and_anna_e3a9203b:
     mike.say "Вот чёрт... Кажется, я оставил бумажник дома!"
 
 # ch/harems_full/band/events.rpy:2679
@@ -5725,7 +5597,7 @@ translate russian kleio_and_anna_179f7619:
     anna.say "По-моему, справедливо."
 
 # ch/harems_full/band/events.rpy:2691
-translate russian kleio_and_anna_7aa29791:
+translate russian kleio_and_anna_4125220a:
     kleio.say "Ладно... Не нужно со мной нянчиться."
 
 # ch/harems_full/band/events.rpy:2693
@@ -5761,7 +5633,7 @@ translate russian kleio_anna_threesome_1cfa77ad:
     "Я прикладываю палец к губам в тщетной надежде заставить их хоть на миг притихнуть."
 
 # ch/harems_full/band/events.rpy:2724
-translate russian kleio_anna_threesome_437795d8:
+translate russian kleio_anna_threesome_1b1d1115:
     mike.say "Эй... Есть кто дома?"
 
 # ch/harems_full/band/events.rpy:2727
@@ -5785,7 +5657,7 @@ translate russian kleio_anna_threesome_b12263db:
     bree.say "Привет, [lssb_common.hero_name()], ты... О, и твоим подругам привет!"
 
 # ch/harems_full/band/events.rpy:2738
-translate russian kleio_anna_threesome_9eb913bb:
+translate russian kleio_anna_threesome_147a219a:
     mike.say "Мы... эм... пойдём ко мне. Просто чтобы ты знала... если услышишь что-нибудь странное."
 
 # ch/harems_full/band/events.rpy:2740
@@ -5805,7 +5677,7 @@ translate russian kleio_anna_threesome_4f299d95:
     "Она замолкает, заметив за моей спиной своих растрёпанных и развеселившихся подруг по группе."
 
 # ch/harems_full/band/events.rpy:2748
-translate russian kleio_anna_threesome_4887bd8c:
+translate russian kleio_anna_threesome_ec1d1f0c:
     sasha.say "Это дела группы... или вы втроём работаете над побочным проектом у меня за спиной?"
 
 # ch/harems_full/band/events.rpy:2751
@@ -5837,7 +5709,7 @@ translate russian kleio_anna_threesome_6446f0c6:
     sasha.say "Или репетиция?"
 
 # ch/harems_full/band/events.rpy:2767
-translate russian kleio_anna_threesome_fa6a0b1f:
+translate russian kleio_anna_threesome_d408970c:
     kleio.say "Ни то ни другое... Но вам скоро пригодятся наушники!"
 
 # ch/harems_full/band/events.rpy:2771
@@ -5941,7 +5813,7 @@ translate russian kleio_anna_threesome_6fd8fc19:
     "Когда я заполняю её, Клео почти мурлычет от удовольствия и скачет на мне, словно похотливая сучка. Её теснота заставляет меня двигаться сильнее и жёстче, чем я обычно решаюсь."
 
 # ch/harems_full/band/events.rpy:2859
-translate russian kleio_anna_threesome_0f9695f4:
+translate russian kleio_anna_threesome_a93e23a0:
     anna.say "Эй, вы двое... Про меня не забывайте!"
 
 # ch/harems_full/band/events.rpy:2861
@@ -6504,10 +6376,6 @@ translate russian kleio_concert_naked_647913e6:
 translate russian kleio_concert_naked_ea4275cd:
     mike.say "Ты когда-нибудь..."
 
-# ch/harems_full/band/events.rpy:3083
-translate russian kleio_concert_naked_26ed5c3a:
-    kleio.say "Что я когда-нибудь, сердцеед?"
-
 # ch/harems_full/band/events.rpy:3084
 translate russian kleio_concert_naked_33ff4d7e:
     "Как только Клео отвечает, я замолкаю, а потом качаю головой."
@@ -6628,10 +6496,6 @@ translate russian kleio_concert_naked_c0877dc7:
 translate russian kleio_concert_naked_042a4c95:
     "Когда моя мысль наконец проясняется, Клео хмурится."
 
-# ch/harems_full/band/events.rpy:3121
-translate russian kleio_concert_naked_2bb7e5f5:
-    kleio.say "Что ты такое говоришь, сердцеед?"
-
 # ch/harems_full/band/events.rpy:3123
 translate russian kleio_concert_naked_221a39b8:
     kleio.say "Хочешь, чтобы мы давали концерты голышом?!"
@@ -6716,10 +6580,6 @@ translate russian kleio_concert_naked_a65db5d5:
 translate russian kleio_concert_naked_7552dd2f:
     "А может, и больше, если льстить её представлению о себе как о бунтарке."
 
-# ch/harems_full/band/events.rpy:3151
-translate russian kleio_concert_naked_a39a7895:
-    kleio.say "Вот тут ты прав, сердцеед!"
-
 # ch/harems_full/band/events.rpy:3152
 translate russian kleio_concert_naked_7a6794b9:
     kleio.say "Если у кого и хватит яиц выйти голой на сцену, так это у меня."
@@ -6759,10 +6619,6 @@ translate russian kleio_concert_naked_b18e2203:
 # ch/harems_full/band/events.rpy:3166
 translate russian kleio_concert_naked_794bacfd:
     kleio.say "Ха!"
-
-# ch/harems_full/band/events.rpy:3168
-translate russian kleio_concert_naked_dfde929b:
-    kleio.say "Придётся придумать что-нибудь получше, сердцеед."
 
 # ch/harems_full/band/events.rpy:3170
 translate russian kleio_concert_naked_72d6981a:
@@ -6839,10 +6695,6 @@ translate russian kleio_concert_naked_8e9d680f:
 # ch/harems_full/band/events.rpy:3195
 translate russian kleio_concert_naked_223b50fd:
     mike.say "А-а-а..."
-
-# ch/harems_full/band/events.rpy:3197
-translate russian kleio_concert_naked_8d5e6604:
-    kleio.say "Радуйся, что вообще можешь видеть меня голой, сердцеед..."
 
 # ch/harems_full/band/events.rpy:3200
 translate russian kleio_concert_naked_dd3fb684:
@@ -7340,10 +7192,6 @@ translate russian naked_gig_28ec09d4:
 translate russian naked_gig_27c1cd9e:
     "Посмеиваясь и приподнимая бровь."
 
-# ch/harems_full/band/events.rpy:3393
-translate russian naked_gig_f3509975:
-    kleio.say "Смотри у меня, сердцеед..."
-
 # ch/harems_full/band/events.rpy:3395
 translate russian naked_gig_8e97517b:
     kleio.say "Это ведь твоя идея, помнишь?"
@@ -7429,7 +7277,7 @@ translate russian naked_gig_ba7f7e02:
     mike.say "Ого..."
 
 # ch/harems_full/band/events.rpy:3431
-translate russian naked_gig_67231f60:
+translate russian naked_gig_93b4e0ca:
     mike.say "К... кажется, им нравится!"
 
 # ch/harems_full/band/events.rpy:3432
@@ -7497,7 +7345,7 @@ translate russian naked_gig_949bae8d:
     "Каждый раз, украдкой глядя на одну из девушек, я чувствую жар под воротником."
 
 # ch/harems_full/band/events.rpy:3451
-translate russian naked_gig_70ac96cf:
+translate russian naked_gig_a62d5392:
     "Да-да, знаю, воротника на мне нет. Это образное выражение!"
 
 # ch/harems_full/band/events.rpy:3453
@@ -7537,7 +7385,7 @@ translate russian naked_gig_3869b68f:
     "Она протягивает руку и пытается завести её за мой инструмент."
 
 # ch/harems_full/band/events.rpy:3470
-translate russian naked_gig_3ab553a1:
+translate russian naked_gig_0bfc4f96:
     "И... ну... положить на другой мой инструмент!"
 
 # ch/harems_full/band/events.rpy:3471
@@ -8020,10 +7868,6 @@ translate russian naked_gig_efb77356:
 translate russian naked_gig_5c770f84:
     mike.say "Что происходит?!"
 
-# ch/harems_full/band/events.rpy:3653
-translate russian naked_gig_55670561:
-    kleio.say "Некогда объяснять, сердцеед..."
-
 # ch/harems_full/band/events.rpy:3654
 translate russian naked_gig_a9071c14:
     kleio.say "Мне нужно прямо сейчас. Очень нужно!"
@@ -8193,7 +8037,7 @@ translate russian naked_gig_4524db44:
     sasha.say "Бесполезно, [lssb_common.hero_name()]..."
 
 # ch/harems_full/band/events.rpy:3728
-translate russian naked_gig_1b1d59e1:
+translate russian naked_gig_5ef73659:
     sasha.say "Я... Я сейчас так возбуждена..."
 
 # ch/harems_full/band/events.rpy:3729
@@ -8345,7 +8189,7 @@ translate russian kleio_anna_cheating_confrontation_a89a4ea2:
     "Обернувшись, я вижу довольно грозное зрелище: Клео стоит, уперев руки в бока, мрачнее тучи."
 
 # ch/harems_full/band/events.rpy:3799
-translate russian kleio_anna_cheating_confrontation_f5b42848:
+translate russian kleio_anna_cheating_confrontation_51f594a4:
     mike.say "Эм... Привет, Клео!"
 
 # ch/harems_full/band/events.rpy:3800
@@ -8373,7 +8217,7 @@ translate russian kleio_anna_cheating_confrontation_4507cc08:
     "Она почти так же серьёзна, как Клео. Руки скрещены на груди, сжимая её пышные формы."
 
 # ch/harems_full/band/events.rpy:3811
-translate russian kleio_anna_cheating_confrontation_69ebec35:
+translate russian kleio_anna_cheating_confrontation_32bfb86c:
     "Эм... Наверное, сейчас не лучшее время для таких мыслей!"
 
 # ch/harems_full/band/events.rpy:3812
@@ -8381,7 +8225,7 @@ translate russian kleio_anna_cheating_confrontation_96f7284d:
     "Чёрт, воспользовалась маленьким ростом, незаметно прошмыгнула мимо и отрезала мне путь."
 
 # ch/harems_full/band/events.rpy:3813
-translate russian kleio_anna_cheating_confrontation_83be3f04:
+translate russian kleio_anna_cheating_confrontation_3d4798e3:
     mike.say "Анна... Я тебя там внизу не заметил!"
 
 # ch/harems_full/band/events.rpy:3814
@@ -8397,7 +8241,7 @@ translate russian kleio_anna_cheating_confrontation_7d5e1030:
     anna.say "Ты никуда не пойдёшь, [lssb_common.hero_name()]."
 
 # ch/harems_full/band/events.rpy:3818
-translate russian kleio_anna_cheating_confrontation_f210be00:
+translate russian kleio_anna_cheating_confrontation_4ae4f8f6:
     anna.say "Пока не объяснишься, ты... ты... мерзавец!"
 
 # ch/harems_full/band/events.rpy:3820
@@ -8413,7 +8257,7 @@ translate russian kleio_anna_cheating_confrontation_c64795b6:
     "А потом они одновременно наступают на меня."
 
 # ch/harems_full/band/events.rpy:3833
-translate russian kleio_anna_cheating_confrontation_5ac84f3f:
+translate russian kleio_anna_cheating_confrontation_3e1e898a:
     mike.say "Так... Полагаю, Саша уже успела с вами немного поболтать?"
 
 # ch/harems_full/band/events.rpy:3835
@@ -8549,7 +8393,7 @@ translate russian kleio_anna_cheating_confrontation_4614ad33:
     "Прежде чем продолжить, я делаю паузу и глубоко вдыхаю."
 
 # ch/harems_full/band/events.rpy:3883
-translate russian kleio_anna_cheating_confrontation_30df1d04:
+translate russian kleio_anna_cheating_confrontation_2efa5a08:
     mike.say "Да... У меня была другая девушка на стороне."
 
 # ch/harems_full/band/events.rpy:3884
@@ -8789,7 +8633,7 @@ translate russian kleio_anna_cheating_confrontation_2c6c88af:
     "Чёрт, она и правда выглядит как героиня слащавого аниме о сентиментальных девушках и их первой любви!"
 
 # ch/harems_full/band/events.rpy:3996
-translate russian kleio_anna_cheating_confrontation_829538f1:
+translate russian kleio_anna_cheating_confrontation_76dca328:
     anna.say "Всё испорчено... испорчено..."
 
 # ch/harems_full/band/events.rpy:3997
@@ -8825,7 +8669,7 @@ translate russian kleio_anna_cheating_confrontation_deee7da0:
     "Я могу лишь недоумённо покачать головой."
 
 # ch/harems_full/band/events.rpy:4008
-translate russian kleio_anna_cheating_confrontation_c1c92983:
+translate russian kleio_anna_cheating_confrontation_44e9fd2e:
     mike.say "Но, Анна... До тебя у меня было много других девушек!"
 
 # ch/harems_full/band/events.rpy:4010
@@ -8889,11 +8733,11 @@ translate russian kleio_anna_cheating_confrontation_c66eb2e0:
     "Анна смотрит на неё, её губа дрожит, а потом слёзы снова льются потоком."
 
 # ch/harems_full/band/events.rpy:4034
-translate russian kleio_anna_cheating_confrontation_bb83c8a2:
+translate russian kleio_anna_cheating_confrontation_b1c43287:
     anna.say "Я... я... не могу перестать думать о нём с ней!"
 
 # ch/harems_full/band/events.rpy:4036
-translate russian kleio_anna_cheating_confrontation_6a4cb9d9:
+translate russian kleio_anna_cheating_confrontation_3d166e7b:
     mike.say "Но, Анна... Это было давным-давно!"
 
 # ch/harems_full/band/events.rpy:4037
@@ -8929,7 +8773,7 @@ translate russian kleio_anna_cheating_confrontation_4b741f4a:
     kleio.say "Хватит воображать, будто [lssb_common.hero_name()] — какой-то сказочный принц. Уж кем-кем, а им он точно не является!"
 
 # ch/harems_full/band/events.rpy:4051
-translate russian kleio_anna_cheating_confrontation_e3f70b02:
+translate russian kleio_anna_cheating_confrontation_306917b6:
     mike.say "Эм, спасибо, Клео... Наверное..."
 
 # ch/harems_full/band/events.rpy:4052

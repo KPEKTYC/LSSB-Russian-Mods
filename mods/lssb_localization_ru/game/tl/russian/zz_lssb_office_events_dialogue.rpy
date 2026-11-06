@@ -81,7 +81,7 @@ translate russian office_event_01_b88d3b7b:
     cherie.say "И ходить вокруг да около тоже не буду."
 
 # ch/harems_full/office/events/events.rpy:423
-translate russian office_event_01_a5f38c49:
+translate russian office_event_01_9db5c9eb:
     mike.say "Н... не будете?"
 
 # ch/harems_full/office/events/events.rpy:425
@@ -249,7 +249,7 @@ translate russian office_event_01_e3a665d2:
     mike.say "Нужно быть безумцем, чтобы отказаться от такой женщины, как вы..."
 
 # ch/harems_full/office/events/events.rpy:481
-translate russian office_event_01_4fb41026:
+translate russian office_event_01_ddc1a3c3:
     mike.say "От такой возможности... я... я имел в виду возможность!"
 
 # ch/harems_full/office/events/events.rpy:483
@@ -361,7 +361,7 @@ translate russian office_event_01_5891f7ac:
     mike.say "НЕТ!"
 
 # ch/harems_full/office/events/events.rpy:528
-translate russian office_event_01_815055c6:
+translate russian office_event_01_a81240c3:
     mike.say "То есть... нет, Шери."
 
 # ch/harems_full/office/events/events.rpy:529
@@ -489,7 +489,7 @@ translate russian office_harem_pimping_meeting_6382867d:
     "Гарри" "Чертовски понравилось!"
 
 # ch/harems_full/office/events/events.rpy:588
-translate russian office_harem_pimping_meeting_d9d09d8d:
+translate russian office_harem_pimping_meeting_1f5b48ed:
     mike.say "Э... это замечательно!"
 
 # ch/harems_full/office/events/events.rpy:589
@@ -537,7 +537,7 @@ translate russian office_harem_pimping_meeting_b23b2e41:
     "Неужели он заметил что-то, что я упустил?"
 
 # ch/harems_full/office/events/events.rpy:601
-translate russian office_harem_pimping_meeting_6c558ac9:
+translate russian office_harem_pimping_meeting_1817f114:
     mike.say "Я... не совсем понимаю, Том."
 
 # ch/harems_full/office/events/events.rpy:602
@@ -597,7 +597,7 @@ translate russian office_harem_pimping_meeting_fbcab232:
     "Затем глаза расширяются: я понимаю, что это не просто комплимент девушкам."
 
 # ch/harems_full/office/events/events.rpy:620
-translate russian office_harem_pimping_meeting_55f3d159:
+translate russian office_harem_pimping_meeting_29335299:
     mike.say "В... вы ведь не их номера телефонов просите?"
 
 # ch/harems_full/office/events/events.rpy:621
@@ -997,7 +997,7 @@ translate russian office_harem_pimping_meeting_c7cca85f:
     "Дик" "Вы всё это время вели запись?"
 
 # ch/harems_full/office/events/events.rpy:742
-translate russian office_harem_pimping_meeting_c15c80fa:
+translate russian office_harem_pimping_meeting_2aa3f821:
     "Гарри" "В... вы не серьёзно?"
 
 # ch/harems_full/office/events/events.rpy:743
@@ -1257,7 +1257,7 @@ translate russian office_harem_pimping_aletta_699ac01c:
     "Её глаза всё шире, а щёки краснеют."
 
 # ch/harems_full/office/events/events.rpy:836
-translate russian office_harem_pimping_aletta_fafc76e6:
+translate russian office_harem_pimping_aletta_459cdb81:
     aletta.say "Я... не понимаю, о чём ты, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/events.rpy:837
@@ -1633,7 +1633,7 @@ translate russian office_harem_pimping_audrey_4e9dce96:
     audrey.say "Знаешь, всё это становится довольно странным, [lssb_common.hero_name()]!"
 
 # ch/harems_full/office/events/events.rpy:961
-translate russian office_harem_pimping_audrey_0bf6d98a:
+translate russian office_harem_pimping_audrey_801a4492:
     mike.say "Эм... нет, Одри."
 
 # ch/harems_full/office/events/events.rpy:962
@@ -1665,7 +1665,7 @@ translate russian office_harem_pimping_audrey_46d10f06:
     audrey.say "Предложил меня им как приятный бонус, да?"
 
 # ch/harems_full/office/events/events.rpy:972
-translate russian office_harem_pimping_audrey_aa929de3:
+translate russian office_harem_pimping_audrey_eae9bdcc:
     mike.say "Ну... не совсем."
 
 # ch/harems_full/office/events/events.rpy:973
@@ -1673,7 +1673,7 @@ translate russian office_harem_pimping_audrey_333568eb:
     mike.say "Они заметили тебя, когда шли по офису."
 
 # ch/harems_full/office/events/events.rpy:974
-translate russian office_harem_pimping_audrey_46966865:
+translate russian office_harem_pimping_audrey_53ae95fb:
     mike.say "И им... понравилось увиденное!"
 
 # ch/harems_full/office/events/events.rpy:975
@@ -1717,7 +1717,7 @@ translate russian office_harem_pimping_audrey_5f095fca:
     "И вот я предлагаю ей шанс заслужить его, позволив им себя трахнуть..."
 
 # ch/harems_full/office/events/events.rpy:987
-translate russian office_harem_pimping_audrey_071a942f:
+translate russian office_harem_pimping_audrey_29d3bb81:
     audrey.say "Л... ладно, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/events.rpy:988
@@ -2057,11 +2057,11 @@ translate russian office_harem_pimping_lavish_c06c7c85:
     "Я глубоко вдыхаю и стараюсь собраться."
 
 # ch/harems_full/office/events/events.rpy:1105
-translate russian office_harem_pimping_lavish_40f03266:
+translate russian office_harem_pimping_lavish_33941c0b:
     mike.say "Они... хотят тебя, Лавиш."
 
 # ch/harems_full/office/events/events.rpy:1106
-translate russian office_harem_pimping_lavish_2f8acd55:
+translate russian office_harem_pimping_lavish_aee9fbb0:
     lavish.say "М... меня?"
 
 # ch/harems_full/office/events/events.rpy:1107
@@ -2081,7 +2081,7 @@ translate russian office_harem_pimping_lavish_c8a0c201:
     mike.say "Они увидели тебя по дороге сюда и потеряли голову."
 
 # ch/harems_full/office/events/events.rpy:1113
-translate russian office_harem_pimping_lavish_8ca211c3:
+translate russian office_harem_pimping_lavish_9730290d:
     lavish.say "То есть они хотят... хотят заняться со мной СЕКСОМ?!"
 
 # ch/harems_full/office/events/events.rpy:1114
@@ -2101,7 +2101,7 @@ translate russian office_harem_pimping_lavish_69de30e8:
     "Кивает, так и не поднимая взгляда."
 
 # ch/harems_full/office/events/events.rpy:1120
-translate russian office_harem_pimping_lavish_a02575e5:
+translate russian office_harem_pimping_lavish_9ec1a860:
     lavish.say "Л... ладно, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/events.rpy:1121
@@ -2229,7 +2229,7 @@ translate russian office_harem_pimping_lavish_c0c937d6:
     lavish.say "Но это останется между нами."
 
 # ch/harems_full/office/events/events.rpy:1158
-translate russian office_harem_pimping_lavish_6d0b85c0:
+translate russian office_harem_pimping_lavish_1af4b142:
     lavish.say "Ну... между нами и теми типами из Blissard, да?"
 
 # ch/harems_full/office/events/events.rpy:1159
@@ -2349,7 +2349,7 @@ translate russian office_harem_pimping_shiori_8a30c342:
     "Она ещё и испуганно вскрикивает, уже пытаясь спрятать журнал."
 
 # ch/harems_full/office/events/events.rpy:1207
-translate russian office_harem_pimping_shiori_7fca205e:
+translate russian office_harem_pimping_shiori_741c0538:
     shiori.say "Ой... боже!"
 
 # ch/harems_full/office/events/events.rpy:1208
@@ -2377,7 +2377,7 @@ translate russian office_harem_pimping_shiori_728d8469:
     mike.say "Ты столько работаешь, что заслужила перерыв."
 
 # ch/harems_full/office/events/events.rpy:1215
-translate russian office_harem_pimping_shiori_1cbe5c01:
+translate russian office_harem_pimping_shiori_45cc9992:
     shiori.say "Я... заслужила?"
 
 # ch/harems_full/office/events/events.rpy:1216
@@ -2413,7 +2413,7 @@ translate russian office_harem_pimping_shiori_ae629e23:
     "Но Сиори тут же выпрямляется и внимательно смотрит на меня, словно нетерпеливый щенок."
 
 # ch/harems_full/office/events/events.rpy:1226
-translate russian office_harem_pimping_shiori_93c1d077:
+translate russian office_harem_pimping_shiori_d8323c7f:
     shiori.say "Т... тебе нужно, чтобы я что-то сделала, [lssb_common.hero_name()]?"
 
 # ch/harems_full/office/events/events.rpy:1228
@@ -2465,7 +2465,7 @@ translate russian office_harem_pimping_shiori_3f1d923f:
     mike.say "Переговоры нас совершенно вымотали."
 
 # ch/harems_full/office/events/events.rpy:1242
-translate russian office_harem_pimping_shiori_4c188104:
+translate russian office_harem_pimping_shiori_c9524da1:
     mike.say "Поэтому мне нужно, чтобы ты немного... взбодрила парней из Blissard."
 
 # ch/harems_full/office/events/events.rpy:1243
@@ -2501,7 +2501,7 @@ translate russian office_harem_pimping_shiori_1dbb4270:
     "Глаза Сиори расширяются, и она ещё больше напоминает невинного щенка."
 
 # ch/harems_full/office/events/events.rpy:1254
-translate russian office_harem_pimping_shiori_d5e716da:
+translate russian office_harem_pimping_shiori_ce1a38da:
     shiori.say "Ох... я... понятно."
 
 # ch/harems_full/office/events/events.rpy:1255
@@ -2509,7 +2509,7 @@ translate russian office_harem_pimping_shiori_9ea8ef5e:
     shiori.say "Ты хочешь, чтобы я занялась сексом с этими мужчинами, [lssb_common.hero_name()]?"
 
 # ch/harems_full/office/events/events.rpy:1256
-translate russian office_harem_pimping_shiori_4851944f:
+translate russian office_harem_pimping_shiori_700d19ea:
     mike.say "Эм... ну... да, Сиори."
 
 # ch/harems_full/office/events/events.rpy:1257
@@ -2553,11 +2553,11 @@ translate russian office_harem_pimping_shiori_0e48c340:
     "Она выпрямляется на стуле и смотрит на меня ещё внимательнее."
 
 # ch/harems_full/office/events/events.rpy:1269
-translate russian office_harem_pimping_shiori_3c1f9b86:
+translate russian office_harem_pimping_shiori_16975c7c:
     shiori.say "Ох, н... но, [lssb_common.hero_name()]..."
 
 # ch/harems_full/office/events/events.rpy:1270
-translate russian office_harem_pimping_shiori_8bcf5342:
+translate russian office_harem_pimping_shiori_aa28c762:
     shiori.say "Ты ведь... не станешь?"
 
 # ch/harems_full/office/events/events.rpy:1271
@@ -2625,7 +2625,7 @@ translate russian office_harem_pimping_shiori_339d818a:
     "Надеюсь, когда всё закончится, я ещё смогу смотреть на себя в зеркало!"
 
 # ch/harems_full/office/events/events.rpy:1290
-translate russian office_harem_pimping_shiori_b6d19d90:
+translate russian office_harem_pimping_shiori_2d52d4f9:
     mike.say "Эм... я не хотел до этого доводить, Сиори."
 
 # ch/harems_full/office/events/events.rpy:1291
@@ -2645,7 +2645,7 @@ translate russian office_harem_pimping_shiori_71b96945:
     shiori.say "Ох, [lssb_common.hero_name()], пожалуйста!"
 
 # ch/harems_full/office/events/events.rpy:1298
-translate russian office_harem_pimping_shiori_a4b82690:
+translate russian office_harem_pimping_shiori_a0bb0e00:
     shiori.say "Ты... ты ведь не можешь уволить меня за такое? Правда?!"
 
 # ch/harems_full/office/events/events.rpy:1299
@@ -2673,7 +2673,7 @@ translate russian office_harem_pimping_shiori_9e596b8c:
     "Когда она медленно и печально кивает, я понимаю: сработало."
 
 # ch/harems_full/office/events/events.rpy:1306
-translate russian office_harem_pimping_shiori_21c693b3:
+translate russian office_harem_pimping_shiori_fdd409a1:
     shiori.say "Д... да, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/events.rpy:1307
@@ -2701,11 +2701,11 @@ translate russian office_harem_pimping_shiori_75f2e64e:
     "Я ещё не успеваю начать её успокаивать, а она уже встаёт и пятится от меня."
 
 # ch/harems_full/office/events/events.rpy:1321
-translate russian office_harem_pimping_shiori_b622caa4:
+translate russian office_harem_pimping_shiori_f1241033:
     shiori.say "Я... мне очень жаль, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/events.rpy:1322
-translate russian office_harem_pimping_shiori_0b5cccdc:
+translate russian office_harem_pimping_shiori_9682518c:
     shiori.say "Но я не могу... просто не могу!"
 
 # ch/harems_full/office/events/events.rpy:1324
@@ -2761,7 +2761,7 @@ translate russian office_harem_pimping_audrey_lavish_shiori_f31e90ee:
     "К счастью, я нахожу Одри, Лавиш и Сиори за разговором у кулера."
 
 # ch/harems_full/office/events/events.rpy:1348
-translate russian office_harem_pimping_audrey_lavish_shiori_997227e6:
+translate russian office_harem_pimping_audrey_lavish_shiori_5f31abd6:
     mike.say "Эм... привет, девушки!"
 
 # ch/harems_full/office/events/events.rpy:1349
@@ -2805,7 +2805,7 @@ translate russian office_harem_pimping_audrey_lavish_shiori_46d97f2b:
     "Лавиш и Сиори удивлённо смотрят на Одри, услышав её вопрос."
 
 # ch/harems_full/office/events/events.rpy:1366
-translate russian office_harem_pimping_audrey_lavish_shiori_1b550012:
+translate russian office_harem_pimping_audrey_lavish_shiori_2923e6b9:
     mike.say "Я... не понимаю, о чём ты, Одри!"
 
 # ch/harems_full/office/events/events.rpy:1367
@@ -2857,7 +2857,7 @@ translate russian office_harem_pimping_audrey_lavish_shiori_8cfa6130:
     mike.say "Когда представители Blissard пришли, они увидели вас троих."
 
 # ch/harems_full/office/events/events.rpy:1384
-translate russian office_harem_pimping_audrey_lavish_shiori_7fb6f373:
+translate russian office_harem_pimping_audrey_lavish_shiori_58c00b8c:
     mike.say "И так впечатлились, что хотят, чтобы вы их... развлекли."
 
 # ch/harems_full/office/events/events.rpy:1386
@@ -2885,7 +2885,7 @@ translate russian office_harem_pimping_audrey_lavish_shiori_0adbb0f7:
     "И выражение лица той резко меняется."
 
 # ch/harems_full/office/events/events.rpy:1395
-translate russian office_harem_pimping_audrey_lavish_shiori_8a2dc46c:
+translate russian office_harem_pimping_audrey_lavish_shiori_2bddb5b2:
     shiori.say "Ох... боже!"
 
 # ch/harems_full/office/events/events.rpy:1406
@@ -2917,7 +2917,7 @@ translate russian office_harem_pimping_audrey_lavish_shiori_e9bbe887:
     shiori.say "О нет!"
 
 # ch/harems_full/office/events/events.rpy:1417
-translate russian office_harem_pimping_audrey_lavish_shiori_9e8c78f5:
+translate russian office_harem_pimping_audrey_lavish_shiori_c718742e:
     lavish.say "Ты... ты не станешь!"
 
 # ch/harems_full/office/events/events.rpy:1420
@@ -3149,7 +3149,7 @@ translate russian foursome_office_aletta_09530753:
     "Хотя сам нервничаю не меньше, чем, судя по виду, представители Blissard."
 
 # ch/harems_full/office/events/events.rpy:1506
-translate russian foursome_office_aletta_26b19e22:
+translate russian foursome_office_aletta_ff789d9a:
     mike.say "Эм... Алетта?"
 
 # ch/harems_full/office/events/events.rpy:1507
@@ -3361,7 +3361,7 @@ translate russian foursome_office_aletta_8b777097:
     "Когда всё заканчивается, они позволяют обессиленной Алетте упасть на пол, тяжело дыша."
 
 # ch/harems_full/office/events/events.rpy:1575
-translate russian foursome_office_aletta_f6607afb:
+translate russian foursome_office_aletta_05c2dd3b:
     "Том" "Ах... фух..."
 
 # ch/harems_full/office/events/events.rpy:1576
@@ -3661,7 +3661,7 @@ translate russian foursome_office_audrey_76007b65:
     "Она остаётся на полу, задыхаясь, пока они похлопывают друг друга по спине."
 
 # ch/harems_full/office/events/events.rpy:1684
-translate russian foursome_office_audrey_f6607afb:
+translate russian foursome_office_audrey_05c2dd3b:
     "Том" "Ах... фух..."
 
 # ch/harems_full/office/events/events.rpy:1685
@@ -3773,7 +3773,7 @@ translate russian foursome_office_lavish_9510c462:
     lavish.say "О-о..."
 
 # ch/harems_full/office/events/events.rpy:1727
-translate russian foursome_office_lavish_fd741d48:
+translate russian foursome_office_lavish_97c25999:
     lavish.say "В... вы так добры!"
 
 # ch/harems_full/office/events/events.rpy:1728
@@ -3953,7 +3953,7 @@ translate russian foursome_office_lavish_1d2b17fd:
     "Какое-то время она лежит там, тяжело дыша и совершенно обессилев."
 
 # ch/harems_full/office/events/events.rpy:1789
-translate russian foursome_office_lavish_f6607afb:
+translate russian foursome_office_lavish_05c2dd3b:
     "Том" "Ах... фух..."
 
 # ch/harems_full/office/events/events.rpy:1790
@@ -4037,7 +4037,7 @@ translate russian foursome_office_shiori_e28aba4e:
     "Но потом, кажется, понимает, что я не уступлю."
 
 # ch/harems_full/office/events/events.rpy:1825
-translate russian foursome_office_shiori_297636bb:
+translate russian foursome_office_shiori_674b13ef:
     shiori.say "М...мне правда придётся это сделать, [lssb_common.hero_name()]?"
 
 # ch/harems_full/office/events/events.rpy:1826
@@ -4217,7 +4217,7 @@ translate russian foursome_office_shiori_ddc22f38:
     "Закончив, они оставляют Сиори тяжело дышать на сиденье."
 
 # ch/harems_full/office/events/events.rpy:1887
-translate russian foursome_office_shiori_f6607afb:
+translate russian foursome_office_shiori_05c2dd3b:
     "Том" "Ах... фух..."
 
 # ch/harems_full/office/events/events.rpy:1888
@@ -4277,7 +4277,7 @@ translate russian sixsome_office_audrey_lavish_shiori_aac79856:
     "Но какая-то часть меня всё ещё чувствует себя скорее сутенёром, чем человеком, готовящимся заключить сделку!"
 
 # ch/harems_full/office/events/events.rpy:1917
-translate russian sixsome_office_audrey_lavish_shiori_af6f7760:
+translate russian sixsome_office_audrey_lavish_shiori_02109ca9:
     "Гарри" "Вот это да... просто нет слов!"
 
 # ch/harems_full/office/events/events.rpy:1918
@@ -4493,7 +4493,7 @@ translate russian sixsome_office_audrey_lavish_shiori_532cf9af:
     "Закончив, они оставляют девушек в другом конце комнаты — обессиленных и тяжело дышащих."
 
 # ch/harems_full/office/events/events.rpy:1990
-translate russian sixsome_office_audrey_lavish_shiori_f6607afb:
+translate russian sixsome_office_audrey_lavish_shiori_05c2dd3b:
     "Том" "Ах... фух..."
 
 # ch/harems_full/office/events/events.rpy:1991
@@ -5013,7 +5013,7 @@ translate russian office_audrey_shiori_showdown_c1c56884:
     "Сиори смотрит на меня огромными глазами с покрасневшими веками."
 
 # ch/harems_full/office/events/events.rpy:2180
-translate russian office_audrey_shiori_showdown_97d85227:
+translate russian office_audrey_shiori_showdown_a90b672e:
     shiori.say "Я... я думала, мы..."
 
 # ch/harems_full/office/events/events.rpy:2181
@@ -5025,7 +5025,7 @@ translate russian office_audrey_shiori_showdown_15077ca0:
     "Но тут Одри вдруг ахает."
 
 # ch/harems_full/office/events/events.rpy:2184
-translate russian office_audrey_shiori_showdown_f74da6da:
+translate russian office_audrey_shiori_showdown_8ae01891:
     audrey.say "Ого... так вы двое..."
 
 # ch/harems_full/office/events/events.rpy:2185
@@ -5061,7 +5061,7 @@ translate russian office_audrey_shiori_showdown_f5b9358b:
     audrey.say "И на дворе всё-таки двадцать первый век..."
 
 # ch/harems_full/office/events/events.rpy:2195
-translate russian office_audrey_shiori_showdown_4b269025:
+translate russian office_audrey_shiori_showdown_a36236ec:
     shiori.say "Ч... что ты хочешь сказать, Одри?"
 
 # ch/harems_full/office/events/events.rpy:2196
@@ -5113,11 +5113,11 @@ translate russian office_audrey_shiori_showdown_e42c3261:
     "Щёки Сиори мгновенно заливает краска, и она отводит взгляд от Одри."
 
 # ch/harems_full/office/events/events.rpy:2220
-translate russian office_audrey_shiori_showdown_5a50e29e:
+translate russian office_audrey_shiori_showdown_63fc488b:
     shiori.say "Я... я бы никогда..."
 
 # ch/harems_full/office/events/events.rpy:2221
-translate russian office_audrey_shiori_showdown_fb0bc634:
+translate russian office_audrey_shiori_showdown_be308de4:
     shiori.say "Только... только если..."
 
 # ch/harems_full/office/events/events.rpy:2223
@@ -5161,7 +5161,7 @@ translate russian office_audrey_shiori_showdown_51ded138:
     "А затем склоняет голову, показывая, что принимает моё решение."
 
 # ch/harems_full/office/events/events.rpy:2237
-translate russian office_audrey_shiori_showdown_21c693b3:
+translate russian office_audrey_shiori_showdown_fdd409a1:
     shiori.say "Д... да, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/events.rpy:2238
@@ -5733,7 +5733,7 @@ translate russian office_threesome_shiorifuck_audrey_f86a3464:
     shiori.say "Ох, [lssb_common.hero_name()]..."
 
 # ch/harems_full/office/events/events.rpy:2459
-translate russian office_threesome_shiorifuck_audrey_98955617:
+translate russian office_threesome_shiorifuck_audrey_df2baad4:
     shiori.say "Это... это моя попа!"
 
 # ch/harems_full/office/events/events.rpy:2460
@@ -5849,7 +5849,7 @@ translate russian office_threesome_shiorifuck_audrey_304c2143_1:
     shiori.say "[lssb_common.hero_name()]..."
 
 # ch/harems_full/office/events/events.rpy:2498
-translate russian office_threesome_shiorifuck_audrey_529f049f:
+translate russian office_threesome_shiorifuck_audrey_8ce1b42e:
     shiori.say "Ты... кончаешь... в... меня!"
 
 # ch/harems_full/office/events/events.rpy:2499
@@ -6097,7 +6097,7 @@ translate russian office_threesome_shiorifuck_audrey_304c2143_4:
     shiori.say "[lssb_common.hero_name()]..."
 
 # ch/harems_full/office/events/events.rpy:2580
-translate russian office_threesome_shiorifuck_audrey_529f049f_1:
+translate russian office_threesome_shiorifuck_audrey_8ce1b42e_1:
     shiori.say "Ты... кончаешь... в... меня!"
 
 # ch/harems_full/office/events/events.rpy:2581
@@ -6273,11 +6273,11 @@ translate russian office_threesome_audreyfuck_shiori_0b8ffb44:
     "Неужели ей и правда неловко признаться в таком при Сиори?!"
 
 # ch/harems_full/office/events/events.rpy:2641
-translate russian office_threesome_audreyfuck_shiori_89833751:
+translate russian office_threesome_audreyfuck_shiori_c9eed6f1:
     audrey.say "Я... я..."
 
 # ch/harems_full/office/events/events.rpy:2642
-translate russian office_threesome_audreyfuck_shiori_8c530854:
+translate russian office_threesome_audreyfuck_shiori_fd0651bc:
     audrey.say "Пожалуй, мне... немного понравилось..."
 
 # ch/harems_full/office/events/events.rpy:2643
@@ -6345,7 +6345,7 @@ translate russian office_threesome_audreyfuck_shiori_185ab310:
     audrey.say "Ах..."
 
 # ch/harems_full/office/events/events.rpy:2666
-translate russian office_threesome_audreyfuck_shiori_a6ceffa7:
+translate russian office_threesome_audreyfuck_shiori_404cd0e4:
     audrey.say "Ох... о боже!"
 
 # ch/harems_full/office/events/events.rpy:2667
@@ -6357,7 +6357,7 @@ translate russian office_threesome_audreyfuck_shiori_6caeaab7:
     "Они всё ещё не поддаются, хотя по её голосу я слышу, как она тает от наслаждения."
 
 # ch/harems_full/office/events/events.rpy:2669
-translate russian office_threesome_audreyfuck_shiori_84a2c0f0:
+translate russian office_threesome_audreyfuck_shiori_4696e69e:
     audrey.say "Ладно... ладно..."
 
 # ch/harems_full/office/events/events.rpy:2670
@@ -6517,7 +6517,7 @@ translate russian office_threesome_audreyfuck_shiori_b64bdb78:
     audrey.say "Нет, нет, нет..."
 
 # ch/harems_full/office/events/events.rpy:2723
-translate russian office_threesome_audreyfuck_shiori_bbfb4151:
+translate russian office_threesome_audreyfuck_shiori_1ee7a029:
     audrey.say "Ещё рано... ещё рано!"
 
 # ch/harems_full/office/events/events.rpy:2727
@@ -6577,7 +6577,7 @@ translate russian office_threesome_audreyfuck_shiori_317f4980:
     audrey.say "М-м-м..."
 
 # ch/harems_full/office/events/events.rpy:2748
-translate russian office_threesome_audreyfuck_shiori_8e4f5eea:
+translate russian office_threesome_audreyfuck_shiori_7e97873f:
     audrey.say "Ох... о боже..."
 
 # ch/harems_full/office/events/events.rpy:2749
@@ -6737,7 +6737,7 @@ translate russian office_threesome_audreyfuck_shiori_b64bdb78_1:
     audrey.say "Нет, нет, нет..."
 
 # ch/harems_full/office/events/events.rpy:2801
-translate russian office_threesome_audreyfuck_shiori_bbfb4151_1:
+translate russian office_threesome_audreyfuck_shiori_1ee7a029_1:
     audrey.say "Ещё рано... ещё рано!"
 
 # ch/harems_full/office/events/events.rpy:2805
@@ -6849,7 +6849,7 @@ translate russian office_cumshare_audrey_shiori_039a93ae:
     "В конце концов Сиори пожимает плечами."
 
 # ch/harems_full/office/events/events.rpy:2847
-translate russian office_cumshare_audrey_shiori_fb9419e3:
+translate russian office_cumshare_audrey_shiori_72a5da14:
     shiori.say "Я... пожалуй, это и правда немного смешно."
 
 # ch/harems_full/office/events/events.rpy:2848
@@ -6901,7 +6901,7 @@ translate russian office_audrey_lavish_showdown_6e80b519:
     mike.say "У нас ведь вроде как СВИДАНИЕ!"
 
 # ch/harems_full/office/events/events.rpy:2868
-translate russian office_audrey_lavish_showdown_02f48743:
+translate russian office_audrey_lavish_showdown_bff08fc9:
     lavish.say "А... хорошо, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/events.rpy:2869
@@ -7005,7 +7005,7 @@ translate russian office_audrey_lavish_showdown_ac5ee8fe:
     audrey.say "Мой водитель Uber целую вечность искал это место."
 
 # ch/harems_full/office/events/events.rpy:2906
-translate russian office_audrey_lavish_showdown_0f23d068:
+translate russian office_audrey_lavish_showdown_6e1d2a04:
     audrey.say "Ну... что я пропустила?"
 
 # ch/harems_full/office/events/events.rpy:2907
@@ -7157,7 +7157,7 @@ translate russian office_audrey_lavish_showdown_3cebee03:
     "Я смотрю на Лавиш и замечаю улыбку на её лице."
 
 # ch/harems_full/office/events/events.rpy:2954
-translate russian office_audrey_lavish_showdown_f3fa54ae:
+translate russian office_audrey_lavish_showdown_a44c885d:
     "Она... она что, сейчас ласкает меня ногой?"
 
 # ch/harems_full/office/events/events.rpy:2955
@@ -7305,7 +7305,7 @@ translate russian office_audrey_lavish_showdown_d234acf3:
     audrey.say "[lssb_common.hero_name()] только что отлично меня накормил!"
 
 # ch/harems_full/office/events/events.rpy:3012
-translate russian office_audrey_lavish_showdown_5a350608:
+translate russian office_audrey_lavish_showdown_68678319:
     lavish.say "Что... что она говорит?!"
 
 # ch/harems_full/office/events/events.rpy:3013
@@ -7325,7 +7325,7 @@ translate russian office_audrey_lavish_showdown_115e26a9:
     "Лавиш качает головой и начинает вставать."
 
 # ch/harems_full/office/events/events.rpy:3020
-translate russian office_audrey_lavish_showdown_75d26a2f:
+translate russian office_audrey_lavish_showdown_65dc3ed7:
     lavish.say "Я... пожалуй, мне лучше уйти..."
 
 # ch/harems_full/office/events/events.rpy:3021
@@ -7341,7 +7341,7 @@ translate russian office_audrey_lavish_showdown_be67c291:
     "Одри закатывает глаза, встаёт с моих колен и усаживает Лавиш обратно."
 
 # ch/harems_full/office/events/events.rpy:3025
-translate russian office_audrey_lavish_showdown_fe427660:
+translate russian office_audrey_lavish_showdown_a2b11d07:
     audrey.say "Ох... прости меня, Лавиш."
 
 # ch/harems_full/office/events/events.rpy:3026
@@ -7365,7 +7365,7 @@ translate russian office_audrey_lavish_showdown_9a998478:
     audrey.say "Пожалуйста, я тебя умоляю!"
 
 # ch/harems_full/office/events/events.rpy:3033
-translate russian office_audrey_lavish_showdown_16c74cd7:
+translate russian office_audrey_lavish_showdown_3294af89:
     lavish.say "Я... наверное..."
 
 # ch/harems_full/office/events/events.rpy:3035
@@ -7429,7 +7429,7 @@ translate russian office_audrey_lavish_showdown_b597b188:
     audrey.say "Неловко получилось!"
 
 # ch/harems_full/office/events/events.rpy:3063
-translate russian office_audrey_lavish_showdown_372a474e:
+translate russian office_audrey_lavish_showdown_f5d89d3e:
     lavish.say "Ч... что происходит?"
 
 # ch/harems_full/office/events/events.rpy:3064
@@ -7685,7 +7685,7 @@ translate russian office_audrey_lavish_01_43a44b30:
     audrey.say "Я бы прибежала, если бы знала, что ты задумал!"
 
 # ch/harems_full/office/events/events.rpy:3147
-translate russian office_audrey_lavish_01_0486750f:
+translate russian office_audrey_lavish_01_6d586f2b:
     lavish.say "Я... я не понимаю..."
 
 # ch/harems_full/office/events/events.rpy:3148
@@ -7929,11 +7929,11 @@ translate russian office_threesome_audreyfuck_lavish_185ab310:
     audrey.say "Ах..."
 
 # ch/harems_full/office/events/events.rpy:3237
-translate russian office_threesome_audreyfuck_lavish_7a1eb1f7:
+translate russian office_threesome_audreyfuck_lavish_3819a6ee:
     audrey.say "Ох... ты..."
 
 # ch/harems_full/office/events/events.rpy:3239
-translate russian office_threesome_audreyfuck_lavish_58c08731:
+translate russian office_threesome_audreyfuck_lavish_7fcf407f:
     audrey.say "Ты, засранец... не останавливайся!"
 
 # ch/harems_full/office/events/events.rpy:3240
@@ -8093,11 +8093,11 @@ translate russian office_threesome_audreyfuck_lavish_2327c360:
     "И мой член целиком выскальзывает из неё."
 
 # ch/harems_full/office/events/events.rpy:3291
-translate russian office_threesome_audreyfuck_lavish_4c91b8eb:
+translate russian office_threesome_audreyfuck_lavish_7dbc4456:
     audrey.say "Э... эй..."
 
 # ch/harems_full/office/events/events.rpy:3292
-translate russian office_threesome_audreyfuck_lavish_f39b1c5f:
+translate russian office_threesome_audreyfuck_lavish_f2acf57e:
     audrey.say "Ч... что случилось?!"
 
 # ch/harems_full/office/events/events.rpy:3293
@@ -8189,11 +8189,11 @@ translate russian office_threesome_audreyfuck_lavish_18821746:
     "И я останавливаюсь лишь тогда, когда вхожу в Одри по самые яйца."
 
 # ch/harems_full/office/events/events.rpy:3326
-translate russian office_threesome_audreyfuck_lavish_4921b405:
+translate russian office_threesome_audreyfuck_lavish_1c41e42c:
     audrey.say "Ох... чёрт..."
 
 # ch/harems_full/office/events/events.rpy:3327
-translate russian office_threesome_audreyfuck_lavish_c9ea8cf6:
+translate russian office_threesome_audreyfuck_lavish_19dcf710:
     audrey.say "Да... вот так..."
 
 # ch/harems_full/office/events/events.rpy:3328
@@ -8361,11 +8361,11 @@ translate russian office_threesome_audreyfuck_lavish_2327c360_1:
     "И мой член целиком выскальзывает из неё."
 
 # ch/harems_full/office/events/events.rpy:3381
-translate russian office_threesome_audreyfuck_lavish_4c91b8eb_1:
+translate russian office_threesome_audreyfuck_lavish_7dbc4456_1:
     audrey.say "Э... эй..."
 
 # ch/harems_full/office/events/events.rpy:3382
-translate russian office_threesome_audreyfuck_lavish_f39b1c5f_1:
+translate russian office_threesome_audreyfuck_lavish_f2acf57e_1:
     audrey.say "Ч... что случилось?!"
 
 # ch/harems_full/office/events/events.rpy:3383
@@ -8421,7 +8421,7 @@ translate russian office_threesome_lavishfuck_audrey_f8ada74c:
     "С этой мыслью я нежно кладу руки ей на плечи."
 
 # ch/harems_full/office/events/events.rpy:3406
-translate russian office_threesome_lavishfuck_audrey_03b8bb2b:
+translate russian office_threesome_lavishfuck_audrey_2aa1901b:
     lavish.say "Ч... что ты делаешь?!"
 
 # ch/harems_full/office/events/events.rpy:3408
@@ -8585,11 +8585,11 @@ translate russian office_threesome_lavishfuck_audrey_be5cb29e:
     "Но теперь я уже не собираюсь сдерживаться."
 
 # ch/harems_full/office/events/events.rpy:3460
-translate russian office_threesome_lavishfuck_audrey_0a5e4856:
+translate russian office_threesome_lavishfuck_audrey_b2930cca:
     lavish.say "Ты... ты в моей..."
 
 # ch/harems_full/office/events/events.rpy:3461
-translate russian office_threesome_lavishfuck_audrey_1687cb0e:
+translate russian office_threesome_lavishfuck_audrey_d601e019:
     lavish.say "Попе... это моя попа!"
 
 # ch/harems_full/office/events/events.rpy:3462
@@ -8601,11 +8601,11 @@ translate russian office_threesome_lavishfuck_audrey_1427916c:
     "А затем я проникаю достаточно глубоко, чтобы это уже не имело значения."
 
 # ch/harems_full/office/events/events.rpy:3464
-translate russian office_threesome_lavishfuck_audrey_f46c0f72:
+translate russian office_threesome_lavishfuck_audrey_c10b7c79:
     lavish.say "О... боже... мой..."
 
 # ch/harems_full/office/events/events.rpy:3465
-translate russian office_threesome_lavishfuck_audrey_3066a834:
+translate russian office_threesome_lavishfuck_audrey_2c2d6a3b:
     lavish.say "Я... я... никогда не думала..."
 
 # ch/harems_full/office/events/events.rpy:3466
@@ -9141,7 +9141,7 @@ translate russian office_lavish_shiori_01_3f0efa5f:
     "Вместо этого сбрасываю звонок и быстро набираю другой внутренний номер на том же этаже."
 
 # ch/harems_full/office/events/events.rpy:3659
-translate russian office_lavish_shiori_01_fcc0894d:
+translate russian office_lavish_shiori_01_98929f87:
     shiori.say "Эм... алло..."
 
 # ch/harems_full/office/events/events.rpy:3660
@@ -9165,11 +9165,11 @@ translate russian office_lavish_shiori_01_cbf257f9:
     mike.say "Сиори, можешь зайти ко мне в кабинет?"
 
 # ch/harems_full/office/events/events.rpy:3665
-translate russian office_lavish_shiori_01_13737a04:
+translate russian office_lavish_shiori_01_7a7db1c4:
     shiori.say "А... я..."
 
 # ch/harems_full/office/events/events.rpy:3666
-translate russian office_lavish_shiori_01_08321371:
+translate russian office_lavish_shiori_01_cb109a45:
     shiori.say "Я... в чём-то провинилась?"
 
 # ch/harems_full/office/events/events.rpy:3667
@@ -9181,7 +9181,7 @@ translate russian office_lavish_shiori_01_69f962d0:
     mike.say "Мне просто нужно кое-что с тобой обсудить, ладно?"
 
 # ch/harems_full/office/events/events.rpy:3669
-translate russian office_lavish_shiori_01_4acefd12:
+translate russian office_lavish_shiori_01_4ba28f4a:
     shiori.say "А... хорошо!"
 
 # ch/harems_full/office/events/events.rpy:3670
@@ -9253,7 +9253,7 @@ translate russian office_lavish_shiori_01_e49437ef:
     "Теперь-то я большой начальник."
 
 # ch/harems_full/office/events/events.rpy:3697
-translate russian office_lavish_shiori_01_b587e48b:
+translate russian office_lavish_shiori_01_d904dfc9:
     "Ах, хорошо быть королём!"
 
 # ch/harems_full/office/events/events.rpy:3698
@@ -9301,7 +9301,7 @@ translate russian office_lavish_shiori_01_21de162d:
     "Она тоже кивает, но я вижу, что намёка она не поняла."
 
 # ch/harems_full/office/events/events.rpy:3711
-translate russian office_lavish_shiori_01_aca52888:
+translate russian office_lavish_shiori_01_b9a7d7dd:
     shiori.say "Н... над чем мы будем работать, [lssb_common.hero_name()]?"
 
 # ch/harems_full/office/events/events.rpy:3713
@@ -9401,7 +9401,7 @@ translate russian office_threesome_lavishfuck_shiori_472cf113:
     "Но затем явно собирается с духом и кивает."
 
 # ch/harems_full/office/events/events.rpy:3759
-translate russian office_threesome_lavishfuck_shiori_4871369b:
+translate russian office_threesome_lavishfuck_shiori_0c645838:
     shiori.say "Х... хорошо..."
 
 # ch/harems_full/office/events/events.rpy:3760
@@ -9721,7 +9721,7 @@ translate russian office_threesome_lavishfuck_shiori_9bf19a1d:
     lavish.say "Ты правда..."
 
 # ch/harems_full/office/events/events.rpy:3866
-translate russian office_threesome_lavishfuck_shiori_fe6cc5e3:
+translate russian office_threesome_lavishfuck_shiori_066ebb9e:
     lavish.say "Я... похоже, правда!"
 
 # ch/harems_full/office/events/events.rpy:3867
@@ -9921,7 +9921,7 @@ translate russian office_threesome_shiorifuck_lavish_b9be9d7b:
     "Нет, просто рядом с ней хочется заботиться о ней и защищать."
 
 # ch/harems_full/office/events/events.rpy:3940
-translate russian office_threesome_shiorifuck_lavish_feb5490f:
+translate russian office_threesome_shiorifuck_lavish_0e5c7af2:
     "Ну... и трахать её, пока не начнёт молить о пощаде!"
 
 # ch/harems_full/office/events/events.rpy:3942
@@ -9989,11 +9989,11 @@ translate russian office_threesome_shiorifuck_lavish_a365c8a5:
     "Он проскальзывает между бёдер девушки и начинает ласкать открытые губы её киски."
 
 # ch/harems_full/office/events/events.rpy:3965
-translate russian office_threesome_shiorifuck_lavish_b5dfd8d9:
+translate russian office_threesome_shiorifuck_lavish_510ab38a:
     shiori.say "Ах... ах..."
 
 # ch/harems_full/office/events/events.rpy:3966
-translate russian office_threesome_shiorifuck_lavish_9306e5b2:
+translate russian office_threesome_shiorifuck_lavish_60cc8b03:
     shiori.say "Ох... ох, Лавиш!"
 
 # ch/harems_full/office/events/events.rpy:3967
@@ -10093,7 +10093,7 @@ translate russian office_threesome_shiorifuck_lavish_e0bfbd0b:
     shiori.say "Он такой большой..."
 
 # ch/harems_full/office/events/events.rpy:3998
-translate russian office_threesome_shiorifuck_lavish_8f78f4a2:
+translate russian office_threesome_shiorifuck_lavish_119e25a4:
     shiori.say "Мне страшно... но я так хочу почувствовать тебя внутри!"
 
 # ch/harems_full/office/events/events.rpy:3999
@@ -10289,7 +10289,7 @@ translate russian office_threesome_shiorifuck_lavish_e0bfbd0b_1:
     shiori.say "Он такой большой..."
 
 # ch/harems_full/office/events/events.rpy:4066
-translate russian office_threesome_shiorifuck_lavish_8f78f4a2_1:
+translate russian office_threesome_shiorifuck_lavish_119e25a4_1:
     shiori.say "Мне страшно... но я так хочу почувствовать тебя внутри!"
 
 # ch/harems_full/office/events/events.rpy:4067
@@ -10309,7 +10309,7 @@ translate russian office_threesome_shiorifuck_lavish_0b2de5f8:
     "Но от этого лишь сильнее хочу проникнуть внутрь."
 
 # ch/harems_full/office/events/events.rpy:4071
-translate russian office_threesome_shiorifuck_lavish_0b813aac:
+translate russian office_threesome_shiorifuck_lavish_eec9e8a3:
     shiori.say "Ох... о боже..."
 
 # ch/harems_full/office/events/events.rpy:4072
@@ -10317,7 +10317,7 @@ translate russian office_threesome_shiorifuck_lavish_304c2143:
     shiori.say "[lssb_common.hero_name()]..."
 
 # ch/harems_full/office/events/events.rpy:4073
-translate russian office_threesome_shiorifuck_lavish_bab2c150:
+translate russian office_threesome_shiorifuck_lavish_3e27dba2:
     shiori.say "Ты в моей... моей попе!"
 
 # ch/harems_full/office/events/events.rpy:4074
@@ -10665,7 +10665,7 @@ translate russian office_audrey_lavish_shiori_showdown_1dc87f06:
     "К тому же, похоже, сегодня почти никто больше не решил сюда прийти."
 
 # ch/harems_full/office/events/events.rpy:4218
-translate russian office_audrey_lavish_shiori_showdown_24d7c0eb:
+translate russian office_audrey_lavish_shiori_showdown_cd7e3a8c:
     audrey.say "А... никуда, [lssb_common.hero_name()], никуда..."
 
 # ch/harems_full/office/events/events.rpy:4219
@@ -10717,7 +10717,7 @@ translate russian office_audrey_lavish_shiori_showdown_57775c40:
     lavish.say "Похоже, вы нас опередили!"
 
 # ch/harems_full/office/events/events.rpy:4234
-translate russian office_audrey_lavish_shiori_showdown_73ab714a:
+translate russian office_audrey_lavish_shiori_showdown_031f471d:
     shiori.say "Ох... надеюсь, мы не слишком опоздали?"
 
 # ch/harems_full/office/events/events.rpy:4235
@@ -10765,7 +10765,7 @@ translate russian office_audrey_lavish_shiori_showdown_14cbc93a:
     "И я замечаю, что их появление её ничуть не удивляет."
 
 # ch/harems_full/office/events/events.rpy:4249
-translate russian office_audrey_lavish_shiori_showdown_8c0e8a57:
+translate russian office_audrey_lavish_shiori_showdown_16bcb2de:
     audrey.say "Да нет, что вы!"
 
 # ch/harems_full/office/events/events.rpy:4250
@@ -10801,7 +10801,7 @@ translate russian office_audrey_lavish_shiori_showdown_8b955469:
     shiori.say "Не думаешь, что это слишком?"
 
 # ch/harems_full/office/events/events.rpy:4260
-translate russian office_audrey_lavish_shiori_showdown_068a292e:
+translate russian office_audrey_lavish_shiori_showdown_d0badfef:
     mike.say "А... нет, Сиори."
 
 # ch/harems_full/office/events/events.rpy:4261
@@ -10893,7 +10893,7 @@ translate russian office_audrey_lavish_shiori_showdown_25cf787d:
     audrey.say "Но я думала, вы обе тоже знаете то, что знаем я и [lssb_common.hero_name()]!"
 
 # ch/harems_full/office/events/events.rpy:4292
-translate russian office_audrey_lavish_shiori_showdown_376fcae3:
+translate russian office_audrey_lavish_shiori_showdown_530d6e7a:
     shiori.say "Ох... пожалуйста, хватит, Одри."
 
 # ch/harems_full/office/events/events.rpy:4293
@@ -11001,11 +11001,11 @@ translate russian office_audrey_lavish_shiori_showdown_2f4c8987:
     "И я вижу, как они начинают краснеть."
 
 # ch/harems_full/office/events/events.rpy:4329
-translate russian office_audrey_lavish_shiori_showdown_ecaa092a:
+translate russian office_audrey_lavish_shiori_showdown_ee96e039:
     lavish.say "Мне... мне, в общем-то, нравилось быть с тобой и Одри."
 
 # ch/harems_full/office/events/events.rpy:4331
-translate russian office_audrey_lavish_shiori_showdown_17a9f8f3:
+translate russian office_audrey_lavish_shiori_showdown_38efa534:
     shiori.say "Это страшно... но приятно страшно, понимаешь?"
 
 # ch/harems_full/office/events/events.rpy:4333
@@ -11137,7 +11137,7 @@ translate russian office_audrey_lavish_shiori_showdown_e85d6422_1:
     shiori.say "В этом вроде бы есть смысл..."
 
 # ch/harems_full/office/events/events.rpy:4376
-translate russian office_audrey_lavish_shiori_showdown_6dc5fbf8:
+translate russian office_audrey_lavish_shiori_showdown_cf0499bf:
     lavish.say "О нет... ни за что!"
 
 # ch/harems_full/office/events/events.rpy:4377
@@ -11285,7 +11285,7 @@ translate russian office_audrey_lavish_shiori_showdown_87597497:
     shiori.say "Не вздумай снова меня околдовать!"
 
 # ch/harems_full/office/events/events.rpy:4427
-translate russian office_audrey_lavish_shiori_showdown_977d9ef2:
+translate russian office_audrey_lavish_shiori_showdown_faade972:
     shiori.say "Мне нужно уйти... найти другую работу!"
 
 # ch/harems_full/office/events/events.rpy:4429
@@ -11309,7 +11309,7 @@ translate russian office_audrey_lavish_shiori_showdown_142512d2:
     audrey.say "Какая чудачка!"
 
 # ch/harems_full/office/events/events.rpy:4440
-translate russian office_audrey_lavish_shiori_showdown_6dc5fbf8_1:
+translate russian office_audrey_lavish_shiori_showdown_cf0499bf_1:
     lavish.say "О нет... ни за что!"
 
 # ch/harems_full/office/events/events.rpy:4442
@@ -11473,7 +11473,7 @@ translate russian office_audrey_lavish_shiori_01_7664c44a:
     "И я тут же замечаю ту самую перемену в отношении, которую ожидал."
 
 # ch/harems_full/office/events/events.rpy:4496
-translate russian office_audrey_lavish_shiori_01_6a1035f6:
+translate russian office_audrey_lavish_shiori_01_d6886e2d:
     audrey.say "А... поняла!"
 
 # ch/harems_full/office/events/events.rpy:4497
@@ -11553,7 +11553,7 @@ translate russian office_audrey_lavish_shiori_01_8dd00d5f:
     lavish.say "Да, давайте приступим."
 
 # ch/harems_full/office/events/events.rpy:4527
-translate russian office_audrey_lavish_shiori_01_392ab007:
+translate russian office_audrey_lavish_shiori_01_608e9bfa:
     shiori.say "Я... я тоже готова."
 
 # ch/harems_full/office/events/events.rpy:4528
@@ -11653,7 +11653,7 @@ translate russian office_foursome_cumshare_51b68240:
     shiori.say "О боже..."
 
 # ch/harems_full/office/events/events.rpy:4582
-translate russian office_foursome_cumshare_9d01e939:
+translate russian office_foursome_cumshare_3405566c:
     shiori.say "Мне попало... в лицо!"
 
 # ch/harems_full/office/events/events.rpy:4583
@@ -11709,7 +11709,7 @@ translate russian office_foursome_reverse_cowgirl_0482326f:
     shiori.say "Ой!"
 
 # ch/harems_full/office/events/events.rpy:4601
-translate russian office_foursome_reverse_cowgirl_2caaad7d:
+translate russian office_foursome_reverse_cowgirl_ed13fe6a:
     shiori.say "Ох... прости, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/events.rpy:4602
@@ -11765,7 +11765,7 @@ translate russian office_foursome_reverse_cowgirl_1d77c1ae:
     shiori.say "Ох, [lssb_common.hero_name()]!"
 
 # ch/harems_full/office/events/events.rpy:4625
-translate russian office_foursome_reverse_cowgirl_fc923e8b:
+translate russian office_foursome_reverse_cowgirl_57b433ae:
     shiori.say "Он... такой большой!"
 
 # ch/harems_full/office/events/events.rpy:4626
@@ -11885,11 +11885,11 @@ translate russian office_foursome_reverse_cowgirl_c167db2f:
     "Но этим лишь насаживается на мой член ещё глубже."
 
 # ch/harems_full/office/events/events.rpy:4661
-translate russian office_foursome_reverse_cowgirl_0b813aac:
+translate russian office_foursome_reverse_cowgirl_eec9e8a3:
     shiori.say "Ох... о боже..."
 
 # ch/harems_full/office/events/events.rpy:4662
-translate russian office_foursome_reverse_cowgirl_024b488e:
+translate russian office_foursome_reverse_cowgirl_9ca9eba1:
     shiori.say "Какой же ты негодник... негодник..."
 
 # ch/harems_full/office/events/events.rpy:4663
@@ -12405,7 +12405,7 @@ translate russian office_foursome_standing_e9777815:
     "И я различаю лёгкий румянец у неё на щеках."
 
 # ch/harems_full/office/events/events.rpy:4856
-translate russian office_foursome_standing_feb62961:
+translate russian office_foursome_standing_75157c17:
     lavish.say "Т... ты хочешь меня?"
 
 # ch/harems_full/office/events/events.rpy:4857
@@ -12605,7 +12605,7 @@ translate russian office_foursome_standing_dea08120:
     "Чтобы ускользнуть, ей нужно приподняться, и как только сил удерживаться больше нет..."
 
 # ch/harems_full/office/events/events.rpy:4911
-translate russian office_foursome_standing_b87b79f1:
+translate russian office_foursome_standing_e6eac0bb:
     lavish.say "Я... я..."
 
 # ch/harems_full/office/events/events.rpy:4912
@@ -12613,7 +12613,7 @@ translate russian office_foursome_standing_800cdd05:
     lavish.say "Кажется, я не..."
 
 # ch/harems_full/office/events/events.rpy:4913
-translate russian office_foursome_standing_30d73347:
+translate russian office_foursome_standing_d155563d:
     lavish.say "Ох... да... мне нравится!"
 
 # ch/harems_full/office/events/events.rpy:4914
@@ -12829,15 +12829,15 @@ translate russian office_foursome_standing_99fdd1ad:
     "Как и Лавиш!"
 
 # ch/harems_full/office/events/events.rpy:4993
-translate russian office_foursome_standing_6384dec2:
+translate russian office_foursome_standing_63d3d257:
     lavish.say "П... пожалуйста, [lssb_common.hero_name()]..."
 
 # ch/harems_full/office/events/events.rpy:4994
-translate russian office_foursome_standing_26dc4018:
+translate russian office_foursome_standing_c7741be9:
     lavish.say "Я... я хочу ещё!"
 
 # ch/harems_full/office/events/events.rpy:4995
-translate russian office_foursome_standing_2831eb50:
+translate russian office_foursome_standing_75db732b:
     lavish.say "Пожалуйста... трахни меня!"
 
 # ch/harems_full/office/events/events.rpy:4996
@@ -13101,7 +13101,7 @@ translate russian office_foursome_cowgirl_14a6191a:
     audrey.say "Ох..."
 
 # ch/harems_full/office/events/events.rpy:5095
-translate russian office_foursome_cowgirl_647f4ab4:
+translate russian office_foursome_cowgirl_60b941c0:
     audrey.say "Я... то есть, ах..."
 
 # ch/harems_full/office/events/events.rpy:5096
@@ -13161,7 +13161,7 @@ translate russian office_foursome_cowgirl_317f4980:
     audrey.say "М-м-м..."
 
 # ch/harems_full/office/events/events.rpy:5114
-translate russian office_foursome_cowgirl_3e347a22:
+translate russian office_foursome_cowgirl_f2175ce2:
     audrey.say "Ох, чёрт... засранец!"
 
 # ch/harems_full/office/events/events.rpy:5115
@@ -13341,7 +13341,7 @@ translate russian office_foursome_cowgirl_98323dd2:
     "Быть внутри Одри или смотреть, как Лавиш и Сиори играют с ней!"
 
 # ch/harems_full/office/events/events.rpy:5167
-translate russian office_foursome_cowgirl_c05bb93c:
+translate russian office_foursome_cowgirl_3c23bdc6:
     "Ладно, ладно... скорее всего, первое."
 
 # ch/harems_full/office/events/events.rpy:5168
@@ -13493,11 +13493,11 @@ translate russian office_aletta_audrey_lavish_shiori_showdown_1af5e17f:
     "И с раздражением замечаю, что Одри тоже не собирается помогать."
 
 # ch/harems_full/office/events/events.rpy:5235
-translate russian office_aletta_audrey_lavish_shiori_showdown_b7a0b2cc:
+translate russian office_aletta_audrey_lavish_shiori_showdown_01e8a522:
     mike.say "А... нет, Алетта."
 
 # ch/harems_full/office/events/events.rpy:5236
-translate russian office_aletta_audrey_lavish_shiori_showdown_96b3f7a7:
+translate russian office_aletta_audrey_lavish_shiori_showdown_13330e81:
     mike.say "Я просто... просто прочистил горло."
 
 # ch/harems_full/office/events/events.rpy:5237
@@ -13681,7 +13681,7 @@ translate russian office_aletta_audrey_lavish_shiori_showdown_541ca98c:
     aletta.say "Вы все..."
 
 # ch/harems_full/office/events/events.rpy:5296
-translate russian office_aletta_audrey_lavish_shiori_showdown_ea5db3a4:
+translate russian office_aletta_audrey_lavish_shiori_showdown_73bdc80f:
     aletta.say "Я... я и понятия не имела!"
 
 # ch/harems_full/office/events/events.rpy:5297
@@ -13709,7 +13709,7 @@ translate russian office_aletta_audrey_lavish_shiori_showdown_56a6126f:
     audrey.say "Ты ведь никому не расскажешь, Алетта?"
 
 # ch/harems_full/office/events/events.rpy:5305
-translate russian office_aletta_audrey_lavish_shiori_showdown_927f52d3:
+translate russian office_aletta_audrey_lavish_shiori_showdown_5bf63f86:
     aletta.say "Я... я не могу сказать..."
 
 # ch/harems_full/office/events/events.rpy:5306
@@ -13773,7 +13773,7 @@ translate russian office_aletta_audrey_lavish_shiori_showdown_8d61428d:
     "Остаётся надеяться, что в нужную сторону..."
 
 # ch/harems_full/office/events/events.rpy:5332
-translate russian office_aletta_audrey_lavish_shiori_showdown_05848c55:
+translate russian office_aletta_audrey_lavish_shiori_showdown_f4554ff2:
     aletta.say "Ф... формально ты прав."
 
 # ch/harems_full/office/events/events.rpy:5333
@@ -13809,7 +13809,7 @@ translate russian office_aletta_audrey_lavish_shiori_showdown_02cb09f9:
     lavish.say "Я тоже, кажется, не расслышала..."
 
 # ch/harems_full/office/events/events.rpy:5346
-translate russian office_aletta_audrey_lavish_shiori_showdown_bc44c4ce:
+translate russian office_aletta_audrey_lavish_shiori_showdown_e352ab3a:
     shiori.say "Хи-хи... да, Алетта, погромче!"
 
 # ch/harems_full/office/events/events.rpy:5347
@@ -13825,7 +13825,7 @@ translate russian office_aletta_audrey_lavish_shiori_showdown_e4ccc0fe:
     "Разве что дать им то, чего они хотят."
 
 # ch/harems_full/office/events/events.rpy:5351
-translate russian office_aletta_audrey_lavish_shiori_showdown_a7e30e27:
+translate russian office_aletta_audrey_lavish_shiori_showdown_2ea0bc84:
     aletta.say "Уф... что за детский сад!"
 
 # ch/harems_full/office/events/events.rpy:5352
@@ -13885,7 +13885,7 @@ translate russian office_aletta_audrey_lavish_shiori_showdown_31b20432:
     aletta.say "Нет, я никак не могу на это пойти."
 
 # ch/harems_full/office/events/events.rpy:5375
-translate russian office_aletta_audrey_lavish_shiori_showdown_365542b3:
+translate russian office_aletta_audrey_lavish_shiori_showdown_5b5134ef:
     aletta.say "Это... это было бы неэффективно."
 
 # ch/harems_full/office/events/events.rpy:5377
@@ -13941,7 +13941,7 @@ translate russian office_aletta_audrey_lavish_shiori_showdown_4d850be9:
     "При этих словах Алетта встаёт и качает головой."
 
 # ch/harems_full/office/events/events.rpy:5393
-translate russian office_aletta_audrey_lavish_shiori_showdown_a0e57c64:
+translate russian office_aletta_audrey_lavish_shiori_showdown_e1e61c2c:
     aletta.say "Я... я ещё никогда не слышала такой чуши."
 
 # ch/harems_full/office/events/events.rpy:5394
@@ -14053,7 +14053,7 @@ translate russian office_aletta_audrey_lavish_shiori_01_596f0bd0:
     mike.say "Понятия не имею, Лавиш."
 
 # ch/harems_full/office/events/events.rpy:5438
-translate russian office_aletta_audrey_lavish_shiori_01_3a7494f9:
+translate russian office_aletta_audrey_lavish_shiori_01_cc91f271:
     shiori.say "Эм... я тоже не знаю, Лавиш."
 
 # ch/harems_full/office/events/events.rpy:5439
@@ -14425,7 +14425,7 @@ translate russian office_fivesome_alettafuck_audrey_lavish_shiori_be4285ac:
     "И ввожу головку члена в задницу Алетты."
 
 # ch/harems_full/office/events/events.rpy:5583
-translate russian office_fivesome_alettafuck_audrey_lavish_shiori_c4a3c314:
+translate russian office_fivesome_alettafuck_audrey_lavish_shiori_6f326e62:
     aletta.say "О-о-ох... боже... мой!"
 
 # ch/harems_full/office/events/events.rpy:5584
@@ -14613,7 +14613,7 @@ translate russian office_fivesome_alettafuck_audrey_lavish_shiori_b5d24323_1:
     aletta.say "Что ты..."
 
 # ch/harems_full/office/events/events.rpy:5650
-translate russian office_fivesome_alettafuck_audrey_lavish_shiori_3817c7e4:
+translate russian office_fivesome_alettafuck_audrey_lavish_shiori_43fb2ed6:
     aletta.say "Ох... о боже!"
 
 # ch/harems_full/office/events/events.rpy:5651
@@ -14849,11 +14849,11 @@ translate russian office_fivesome_audreyfuck_aletta_lavish_shiori_5840a81d:
     audrey.say "Ах ты..."
 
 # ch/harems_full/office/events/events.rpy:5732
-translate russian office_fivesome_audreyfuck_aletta_lavish_shiori_598777f8:
+translate russian office_fivesome_audreyfuck_aletta_lavish_shiori_d474945b:
     audrey.say "Моя... моя задница..."
 
 # ch/harems_full/office/events/events.rpy:5733
-translate russian office_fivesome_audreyfuck_aletta_lavish_shiori_3354816d:
+translate russian office_fivesome_audreyfuck_aletta_lavish_shiori_053a1c61:
     audrey.say "М-м-м... моя задница..."
 
 # ch/harems_full/office/events/events.rpy:5734
@@ -15065,7 +15065,7 @@ translate russian office_fivesome_audreyfuck_aletta_lavish_shiori_3a89daba:
     "И уже почти скачет у меня на коленях."
 
 # ch/harems_full/office/events/events.rpy:5805
-translate russian office_fivesome_audreyfuck_aletta_lavish_shiori_bd181d5b:
+translate russian office_fivesome_audreyfuck_aletta_lavish_shiori_d8e19053:
     audrey.say "Ох... ты..."
 
 # ch/harems_full/office/events/events.rpy:5806
@@ -15225,7 +15225,7 @@ translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_50c8fc53:
     "Но затем я скольжу взглядом от её лица вниз и обратно."
 
 # ch/harems_full/office/events/events.rpy:5862
-translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_f0568fcf:
+translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_0ec799b7:
     "Ого... вот это формы!"
 
 # ch/harems_full/office/events/events.rpy:5863
@@ -15393,7 +15393,7 @@ translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_b2bcd005:
     lavish.say "О-о-ох..."
 
 # ch/harems_full/office/events/events.rpy:5920
-translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_795c0053:
+translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_36c98362:
     lavish.say "Моя... моя задница!"
 
 # ch/harems_full/office/events/events.rpy:5921
@@ -15413,11 +15413,11 @@ translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_c4e4b4fd:
     lavish.say "Что вы..."
 
 # ch/harems_full/office/events/events.rpy:5926
-translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_04911afd:
+translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_accfc681:
     lavish.say "О боже... не..."
 
 # ch/harems_full/office/events/events.rpy:5927
-translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_20dadfdd:
+translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_8e4e1861:
     lavish.say "М-м-м... не останавливайтесь!"
 
 # ch/harems_full/office/events/events.rpy:5928
@@ -15497,7 +15497,7 @@ translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_6cbb8a96_1:
     lavish.say "[lssb_common.hero_name()]..."
 
 # ch/harems_full/office/events/events.rpy:5951
-translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_196faaf3:
+translate russian office_fivesome_lavishfuck_aletta_audrey_shiori_2c2afed8:
     lavish.say "Ещё... хочу ещё..."
 
 # ch/harems_full/office/events/events.rpy:5952
@@ -15685,7 +15685,7 @@ translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_0482326f:
     shiori.say "Ой!"
 
 # ch/harems_full/office/events/events.rpy:6020
-translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_2caaad7d:
+translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_ed13fe6a:
     shiori.say "Ох... прости, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/events.rpy:6021
@@ -15741,7 +15741,7 @@ translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_1d77c1ae:
     shiori.say "Ох, [lssb_common.hero_name()]!"
 
 # ch/harems_full/office/events/events.rpy:6036
-translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_fc923e8b:
+translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_57b433ae:
     shiori.say "Он... такой большой!"
 
 # ch/harems_full/office/events/events.rpy:6037
@@ -15861,11 +15861,11 @@ translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_c167db2f:
     "Но этим лишь насаживается на мой член ещё глубже."
 
 # ch/harems_full/office/events/events.rpy:6070
-translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_0b813aac:
+translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_eec9e8a3:
     shiori.say "Ох... о боже..."
 
 # ch/harems_full/office/events/events.rpy:6071
-translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_024b488e:
+translate russian office_fivesome_shiorifuck_aletta_audrey_lavish_9ca9eba1:
     shiori.say "Какой же ты негодник... негодник..."
 
 # ch/harems_full/office/events/events.rpy:6072
@@ -16413,7 +16413,7 @@ translate russian office_lavish_shiori_showdown_b0290ef7:
     "Но они идут вместе и прямо ко мне — этого достаточно, чтобы я начал волноваться."
 
 # ch/harems_full/office/events/events.rpy:6319
-translate russian office_lavish_shiori_showdown_374e1268:
+translate russian office_lavish_shiori_showdown_c7f3fdbe:
     mike.say "Привет, Лавиш... Сиори..."
 
 # ch/harems_full/office/events/events.rpy:6320
@@ -16477,11 +16477,11 @@ translate russian office_lavish_shiori_showdown_b99b9f49:
     "Но я уже начинаю весьма точно догадываться."
 
 # ch/harems_full/office/events/events.rpy:6335
-translate russian office_lavish_shiori_showdown_d2c72721:
+translate russian office_lavish_shiori_showdown_ff7b8f00:
     mike.say "П... погодите..."
 
 # ch/harems_full/office/events/events.rpy:6336
-translate russian office_lavish_shiori_showdown_cce4e1de:
+translate russian office_lavish_shiori_showdown_45db0902:
     mike.say "Я... я могу объяснить..."
 
 # ch/harems_full/office/events/events.rpy:6337
@@ -16713,7 +16713,7 @@ translate russian office_aletta_lavish_showdown_1cd5cacb:
     lavish.say "Ты даже не попытаешься отрицать?!"
 
 # ch/harems_full/office/events/events.rpy:6415
-translate russian office_aletta_lavish_showdown_506c89b8:
+translate russian office_aletta_lavish_showdown_53f8fcfb:
     mike.say "Я... я..."
 
 # ch/harems_full/office/events/events.rpy:6416
@@ -16817,7 +16817,7 @@ translate russian office_aletta_shiori_showdown_00edd38f:
     "И у меня неприятное предчувствие, что именно моей!"
 
 # ch/harems_full/office/events/events.rpy:6465
-translate russian office_aletta_shiori_showdown_53a86b4c:
+translate russian office_aletta_shiori_showdown_5c03ce59:
     mike.say "Привет, Алетта... Сиори..."
 
 # ch/harems_full/office/events/events.rpy:6466

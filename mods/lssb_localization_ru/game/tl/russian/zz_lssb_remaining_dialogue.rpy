@@ -15,10 +15,10 @@ translate russian cassidy_arrange_party_c12171f9:
 translate russian cassidy_arrange_party_d3ec14f8:
     cassidy.say "Не твоё дело!"
 
-translate russian kylie_event_03_88ee9420:
+translate russian kylie_event_03_f0ec7bdf:
     mike.say "Ох… Прости, Кайли, если я произвёл такое впечатление."
 
-translate russian kylie_event_03_c332712d:
+translate russian kylie_event_03_c660401a:
     mike.say "Д… д… да!"
 
 translate russian kylie_event_02_0786c70e:
@@ -51,7 +51,7 @@ translate russian kylie_event_02_b793305e:
 translate russian kylie_event_02_8666ce4a:
     mike.say "Это вторжение в чужую личную жизнь. Так нельзя."
 
-translate russian kylie_event_02_36d48b94:
+translate russian kylie_event_02_97c707f9:
     mike.say "И… мне неприятно знать, что ты так поступила со мной."
 
 translate russian kylie_event_02_4796cd55:
@@ -69,7 +69,7 @@ translate russian kylie_event_02_bfce419b:
 translate russian kylie_event_02_1ffbd3b8:
     "Ей нравится смотреть, как я изворачиваюсь?"
 
-translate russian kylie_event_02_a32ddefc:
+translate russian kylie_event_02_316ec6e8:
     mike.say "Ух… Прости, Кайли. Ты меня совсем запутала."
 
 translate russian kylie_event_02_a8e9dbcc:
@@ -81,7 +81,7 @@ translate russian morgan_fuck_nightclub_2f06bd57:
 translate russian morgan_fuck_nightclub_c1c00a92:
     morgan.say "Я слушала эту песню, когда…"
 
-translate russian morgan_fuck_nightclub_c930d1c0:
+translate russian morgan_fuck_nightclub_495cdfa0:
     morgan.say "Когда… думала о тебе!"
 
 translate russian morgan_fuck_nightclub_45190f2e:

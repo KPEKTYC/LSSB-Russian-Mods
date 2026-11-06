@@ -16,13 +16,67 @@ init 1005 python:
 
         InteractActivity.test = _lssb_interact_test
 
+    # 26.10.0c stat bar tooltips: "{b}" + ui_title + "{/b}\n" + ui_tooltip.format(name=girl.name).
+    _lssb_stat_titles = {
+        "Frustration": "Неудовлетворённость", "Love": "Любовь", "Dominance": "Доминирование",
+        "Submissiveness": "Покорность", "Exhibitionism": "Эксгибиционизм", "Horniness": "Возбуждение",
+        "Lesbian": "Лесбийские наклонности", "Masculinity": "Мужественность", "Vampire": "Вампир",
+        "Yandere": "Одержимая любовь", "Siscon": "Сисконность", "Career": "Карьера", "Purity": "Невинность",
+    }
+    _lssb_stat_texts = {
+        "Builds up when you tease {name} and leave her wanting. Makes her more willing for sex.":
+            "Растёт, когда ты её дразнишь и оставляешь ни с чем. Чем выше, тем охотнее {name} соглашается на секс.",
+        "How much {name} loves you. Dates, kisses and her story need it.":
+            "Насколько сильно {name} тебя любит. Нужна для свиданий, поцелуев и её истории.",
+        "How dominant {name} is with you. Opens acts where she takes charge.":
+            "Насколько {name} доминирует с тобой. Открывает действия, где ведёт она.",
+        "How submissive {name} is with you. Opens acts where you take charge.":
+            "Насколько {name} покорна тебе. Открывает действия, где ведёшь ты.",
+        "How far {name} goes with you in public. Opens what you can do around people.":
+            "Как далеко {name} готова зайти с тобой на людях. Открывает то, что можно делать при посторонних.",
+        "How much {name} wants sex. Opens acts and speeds up her frustration.":
+            "Насколько сильно {name} хочет секса. Открывает действия и ускоряет рост неудовлетворённости.",
+        "How much {name} is into girls. Opens scenes with them; too much holds her love back.":
+            "Насколько {name} увлечена девушками. Открывает сцены с ними; если слишком много — мешает её любви к тебе.",
+        "How masculine {name} is. Changes {name}'s look and outfits.":
+            "Насколько {name} мужественна. Меняет её внешность и одежду.",
+        "How much {name} lives her vampire act. Feed it, or reach the girl behind it.":
+            "Насколько {name} вжилась в роль вампира. Подыгрывай ей или достучись до девушки за этой маской.",
+        "How obsessed {name} is with you. Makes her jealous of the girls you see.":
+            "Насколько {name} одержима тобой. Из-за этого она ревнует к девушкам, с которыми ты видишься.",
+        "How far you see {name} as more than a sister. Opens kissing her and more.":
+            "Насколько ты видишь в ней не просто сестру. Открывает поцелуи и не только.",
+        "How far {name}'s career has got. Grows each day she works her job.":
+            "Насколько {name} продвинулась в карьере. Растёт с каждым её рабочим днём.",
+        "How innocent {name} still is. Sets the outfits she wears and slows her frustration.":
+            "Насколько {name} ещё невинна. Определяет её одежду и замедляет рост неудовлетворённости.",
+    }
+
+    def _lssb_stat_tooltip(text):
+        import re
+        if _preferences.language != "russian":
+            return None
+        title = None
+        m = re.match(r"\{b\}([^{}]+)\{/b\}\n(.*)\Z", text, re.S)
+        if m:
+            title, text = m.group(1), m.group(2)
+            if title not in _lssb_stat_titles:
+                return None
+        for english, russian in _lssb_stat_texts.items():
+            pattern = "^" + re.escape(english).replace(re.escape("{name}"), "(?P<name>.+?)", 1).replace(re.escape("{name}"), "(?P=name)") + r"\Z"
+            hit = re.match(pattern, text, re.S)
+            if hit:
+                body = russian.replace("{name}", _lssb_person_name(hit.group("name")))
+                return ("{b}" + _lssb_stat_titles[title] + "{/b}\n" + body) if title else body
+        return None
+
     # Native tooltip_parts(), with each English piece translated before the game joins them.
     def _lssb_tooltip_parts(tooltip, in_inventory=False, keep_at_it=False):
         translate = _lssb_ui_translate
         if isinstance(tooltip, (tuple, list)):
             return None, tooltip_lines(translate(list(tooltip)))
         if isinstance(tooltip, str):
-            return None, translate(tooltip)
+            return None, _lssb_stat_tooltip(tooltip) or translate(tooltip)
         if isinstance(tooltip, Person):
             title = translate("Talk to [tooltip.name]")
             if title == "Talk to [tooltip.name]" and _preferences.language == "russian":

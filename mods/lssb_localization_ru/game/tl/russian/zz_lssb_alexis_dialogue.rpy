@@ -681,7 +681,7 @@ translate russian alexis_propose_male_a61ed12d:
     mike.say "Алексис..."
 
 # ch/alexis/base.rpy:352
-translate russian alexis_propose_male_2d2c8421:
+translate russian alexis_propose_male_3cc63c19:
     mike.say "Ты... ты выйдешь за меня?"
 
 # ch/alexis/base.rpy:354
@@ -737,15 +737,15 @@ translate russian alexis_propose_male_196b2401:
     "Будто пытается справиться с нахлынувшими чувствами."
 
 # ch/alexis/base.rpy:369
-translate russian alexis_propose_male_d66ad9f2:
+translate russian alexis_propose_male_8950512b:
     alexis.say "Я... я в порядке..."
 
 # ch/alexis/base.rpy:371
-translate russian alexis_propose_male_8700c2c8:
+translate russian alexis_propose_male_58be2182:
     alexis.say "Это... это просто такой шок!"
 
 # ch/alexis/base.rpy:372
-translate russian alexis_propose_male_f3ac0351:
+translate russian alexis_propose_male_7c6dca80:
     alexis.say "Я... я никогда не думала, что... что ты захочешь..."
 
 # ch/alexis/base.rpy:374
@@ -753,7 +753,7 @@ translate russian alexis_propose_male_be1e91b3:
     "Я продолжаю кивать, пытаясь поспевать за бессвязной речью Алексис."
 
 # ch/alexis/base.rpy:376
-translate russian alexis_propose_male_aabb2219:
+translate russian alexis_propose_male_08efdf85:
     alexis.say "О... конечно, [lssb_alexis.hero_name()]!"
 
 # ch/alexis/base.rpy:377
@@ -877,7 +877,7 @@ translate russian alexis_propose_male_f5efefbd:
     alexis.say "Мне так жаль, [lssb_alexis.hero_name()]!"
 
 # ch/alexis/base.rpy:424
-translate russian alexis_propose_male_91ad701a:
+translate russian alexis_propose_male_5d2309d1:
     alexis.say "Но я не могу выйти за тебя... просто не могу."
 
 # ch/alexis/base.rpy:426
@@ -893,7 +893,7 @@ translate russian alexis_propose_male_e5029dd2:
     "Хотя знаю, что выгляжу жалко, словно умоляю Алексис."
 
 # ch/alexis/base.rpy:429
-translate russian alexis_propose_male_dd5c9dd1:
+translate russian alexis_propose_male_1fcca822:
     "Впрочем... я и правда её умоляю!"
 
 # ch/alexis/base.rpy:430
@@ -1113,11 +1113,11 @@ translate russian alexis_desire_1_male_a04cb167:
     alexis.say "Не стой столбом, [lssb_alexis.hero_name()]. Подойди и как следует покажи, насколько я тебе нравлюсь. На коленях."
 
 # ch/alexis/chat.rpy:26
-translate russian alexis_desire_1_male_5ecce959:
+translate russian alexis_desire_1_male_7e9a606d:
     mike.say "Н... нет... вовсе нет, Алексис..."
 
 # ch/alexis/chat.rpy:27
-translate russian alexis_desire_1_male_9ed81977:
+translate russian alexis_desire_1_male_0eedaf85:
     mike.say "По-моему, он очень... тебе идёт!"
 
 # ch/alexis/chat.rpy:30
@@ -1197,7 +1197,7 @@ translate russian alexis_desire_4_male_fb2a8f32:
     alexis.say "Но с тех пор поняла, что это было одним из лучших решений в моей жизни."
 
 # ch/alexis/chat.rpy:75
-translate russian alexis_desire_4_male_5d94f31f:
+translate russian alexis_desire_4_male_66ffd82a:
     alexis.say "Вот так отдать себя тебе... Лучшее, что я когда-либо делала."
 
 # ch/alexis/chat.rpy:77
@@ -1309,7 +1309,7 @@ translate russian alexis_love_0_male_9d647aa6:
     alexis.say "Может, и повторю. Но сначала попросишь как следует. Тебе идёт стоять на коленях, [lssb_alexis.hero_name()]."
 
 # ch/alexis/chat.rpy:138
-translate russian alexis_love_1_male_54f9bd57:
+translate russian alexis_love_1_male_3155d5e3:
     alexis.say "М-м... кажется, у меня затекли плечи."
 
 # ch/alexis/chat.rpy:139
@@ -1317,7 +1317,7 @@ translate russian alexis_love_1_male_cf3903f7:
     alexis.say "[lssb_alexis.hero_name()], спасёшь меня и немного разомнёшь их?"
 
 # ch/alexis/chat.rpy:141
-translate russian alexis_love_1_male_f2d2bf35:
+translate russian alexis_love_1_male_28372f1a:
     alexis.say "Твои руки на моём теле, где пожелаешь... Я весь день об этом мечтала."
 
 # ch/alexis/chat.rpy:143
@@ -1341,7 +1341,7 @@ translate russian alexis_love_1_male_5ab8d846:
     mike.say "От меня может стать в десять раз хуже. Тебе и правда стоит обратиться к специалисту."
 
 # ch/alexis/chat.rpy:157
-translate russian alexis_love_2_male_74ee6884:
+translate russian alexis_love_2_male_8bd07eaf:
     alexis.say "Бр-р... мне так холодно, [lssb_alexis.hero_name()]!"
 
 # ch/alexis/chat.rpy:158
@@ -1369,7 +1369,7 @@ translate russian alexis_love_2_male_e6f8956c:
     mike.say "Иди сюда, прижимайся как хочешь. Может, немного тебя разотру, чтобы разогнать кровь?"
 
 # ch/alexis/chat.rpy:171
-translate russian alexis_love_2_male_78bbccb9:
+translate russian alexis_love_2_male_97f309b1:
     mike.say "Эм, нет... Не думаю. Мне нравится, когда в моё личное пространство не вторгаются."
 
 # ch/alexis/chat.rpy:172
@@ -1449,7 +1449,7 @@ translate russian alexis_love_4_male_7f123104:
     alexis.say "Знаешь, ещё год назад я бы не поверила, если бы кто-то сказал, что мы снова будем встречаться!"
 
 # ch/alexis/chat.rpy:211
-translate russian alexis_love_4_male_3b3e4457:
+translate russian alexis_love_4_male_efa83e40:
     alexis.say "Я бы назвала это чудом... или сном."
 
 # ch/alexis/chat.rpy:213
@@ -1593,7 +1593,7 @@ translate russian alexis_bad_sweet_talk_male_5da88412:
     alexis.say "Это вежливый способ сказать, что я сплю со всеми подряд?"
 
 # ch/alexis/chat.rpy:290
-translate russian alexis_bad_sweet_talk_male_892c9494:
+translate russian alexis_bad_sweet_talk_male_b73ac73f:
     mike.say "Нет... конечно нет, Алексис!"
 
 # ch/alexis/chat.rpy:293
@@ -1681,7 +1681,7 @@ translate russian alexis_warn_condom_e33f9088:
     "Но затем слышу, как она кашляет, и замираю."
 
 # ch/alexis/condom.rpy:32
-translate russian alexis_warn_condom_8bdc9a18:
+translate russian alexis_warn_condom_cbcc3c06:
     alexis.say "Эм... мы ничего не забыли?"
 
 # ch/alexis/condom.rpy:36
@@ -1729,7 +1729,7 @@ translate russian alexis_mad_condom_d454fa4c:
     mike.say "Алексис?"
 
 # ch/alexis/condom.rpy:52
-translate russian alexis_mad_condom_b57f0f43:
+translate russian alexis_mad_condom_d230c2be:
     mike.say "Алексис... в чём проблема?!"
 
 # ch/alexis/condom.rpy:53
@@ -1901,7 +1901,7 @@ translate russian alexis_date_intro_birthday_male_0fc55c3a:
     mike.say "С днём рождения, Алексис!"
 
 # ch/alexis/date.rpy:58
-translate russian alexis_date_intro_birthday_male_cb7979bc:
+translate russian alexis_date_intro_birthday_male_76cf3465:
     mike.say "Ух... когда говорю это, сразу вспоминаю школу."
 
 # ch/alexis/date.rpy:59
@@ -1921,11 +1921,11 @@ translate russian alexis_date_intro_birthday_male_69d9a344:
     alexis.say "Зато мы выросли и можем играть в куда более весёлые праздничные игры!"
 
 # ch/alexis/date.rpy:64
-translate russian alexis_date_intro_birthday_male_ed8712f8:
+translate russian alexis_date_intro_birthday_male_ff5a9787:
     alexis.say "Хотя... лучшим подарком было бы увидеть тебя на коленях, исполняющим каждое моё указание."
 
 # ch/alexis/date.rpy:66
-translate russian alexis_date_intro_birthday_male_741a1ca2:
+translate russian alexis_date_intro_birthday_male_a9e73388:
     alexis.say "Хотя... лучшим подарком было бы, если бы ты просто сказал, чего именно хочешь от меня сегодня ночью."
 
 # ch/alexis/date.rpy:70
@@ -1945,7 +1945,7 @@ translate russian alexis_date_intro_mc_birthday_male_be6ac3f1:
     alexis.say "Но сначала... С днём рождения!"
 
 # ch/alexis/date.rpy:74
-translate russian alexis_date_intro_mc_birthday_male_c924821a:
+translate russian alexis_date_intro_mc_birthday_male_a0e1e442:
     mike.say "Ох... спасибо, Алексис. Ты помнишь!"
 
 # ch/alexis/date.rpy:75
@@ -2137,7 +2137,7 @@ translate russian alexis_dance_with_deb2c985:
     "Сегодня мне даже не приходится уговаривать её следовать за мной. Она тает в моих объятиях и доверяет мне каждый шаг, довольная тем, что я её веду."
 
 # ch/alexis/date.rpy:178
-translate russian alexis_dance_with_0cf2b940:
+translate russian alexis_dance_with_d1d345d9:
     "На несколько тактов вся её броня просто... исчезает. Передо мной девушка, которую я знал до того, как всё пошло наперекосяк. Она танцует, словно этих лет и не было."
 
 # ch/alexis/date.rpy:180
@@ -2285,7 +2285,7 @@ translate russian alexis_date_play_arcade_win_male_2869fd19:
     alexis.say "Нечестно. Они меня избивают!"
 
 # ch/alexis/date.rpy:224
-translate russian alexis_date_play_arcade_win_male_85be00be:
+translate russian alexis_date_play_arcade_win_male_289daace:
     mike.say "Эм... это и есть файтинг, Алексис."
 
 # ch/alexis/date.rpy:225
@@ -2437,7 +2437,7 @@ translate russian alexis_dick_reactions_7fd2ad7e:
     mike.say "Не то чтобы ты раньше этого никогда не видела!"
 
 # ch/alexis/date.rpy:276
-translate russian alexis_dick_reactions_db60b93d:
+translate russian alexis_dick_reactions_7d3f76fa:
     alexis.say "Я... я знаю..."
 
 # ch/alexis/date.rpy:277
@@ -2449,7 +2449,7 @@ translate russian alexis_dick_reactions_350f1f9e:
     alexis.say "М-м. Я и забыла, как весело будет заставлять тебя умолять, прежде чем разрешить пустить эту штуку в ход, [lssb_alexis.hero_name()]."
 
 # ch/alexis/date.rpy:283
-translate russian alexis_dick_reactions_80d6bd56:
+translate russian alexis_dick_reactions_bd795860:
     alexis.say "Боже... Я и забыла, как люблю быть во власти этой штуки, [lssb_alexis.hero_name()]."
 
 # ch/alexis/date.rpy:286
@@ -2465,7 +2465,7 @@ translate russian alexis_dick_reactions_7fd2ad7e_1:
     mike.say "Не то чтобы ты раньше этого никогда не видела!"
 
 # ch/alexis/date.rpy:289
-translate russian alexis_dick_reactions_db60b93d_1:
+translate russian alexis_dick_reactions_7d3f76fa_1:
     alexis.say "Я... я знаю..."
 
 # ch/alexis/date.rpy:290
@@ -2557,7 +2557,7 @@ translate russian alexis_halloween_invitation_b52c00fc:
     mike.say "И ещё я хотел попросить тебя прийти со мной."
 
 # ch/alexis/date.rpy:324
-translate russian alexis_halloween_invitation_8557e42a:
+translate russian alexis_halloween_invitation_219afa42:
     mike.say "Ну... как мою спутницу?"
 
 # ch/alexis/date.rpy:326
@@ -2761,7 +2761,7 @@ translate russian alexis_halloween_arrival_f1d8a63c:
     mike.say "Эм..."
 
 # ch/alexis/date.rpy:404
-translate russian alexis_halloween_arrival_8aea5ffc:
+translate russian alexis_halloween_arrival_8b2a253c:
     mike.say "Н... нет, Алексис... ты идеальна."
 
 # ch/alexis/date.rpy:405
@@ -2785,7 +2785,7 @@ translate russian alexis_halloween_arrival_6e657ee2:
     "Она действительно выглядит как маленький кусочек рая."
 
 # ch/alexis/date.rpy:411
-translate russian alexis_halloween_arrival_b6fb23d8:
+translate russian alexis_halloween_arrival_2604de8d:
     alexis.say "О... это хорошо."
 
 # ch/alexis/date.rpy:412
@@ -2821,7 +2821,7 @@ translate russian alexis_halloween_arrival_e3e1a631:
     "Алексис отворачивается, а её щёки краснеют."
 
 # ch/alexis/date.rpy:428
-translate russian alexis_halloween_arrival_e0e6a67a:
+translate russian alexis_halloween_arrival_4c4e7cae:
     alexis.say "Ты... ты правда так думаешь?"
 
 # ch/alexis/date.rpy:430
@@ -2881,7 +2881,7 @@ translate russian alexis_halloween_arrival_1bb5b089:
     alexis.say "Что смешного?"
 
 # ch/alexis/date.rpy:452
-translate russian alexis_halloween_arrival_7a133335:
+translate russian alexis_halloween_arrival_9e8f7aac:
     mike.say "Ну просто... ангел?"
 
 # ch/alexis/date.rpy:453
@@ -2997,7 +2997,7 @@ translate russian alexis_halloween_party_f3ed2d67:
     mike.say "Да, но сегодня повезло именно тебе."
 
 # ch/alexis/date.rpy:506
-translate russian alexis_halloween_party_32a31ae5:
+translate russian alexis_halloween_party_7c31a953:
     alexis.say "Эм... почему?"
 
 # ch/alexis/date.rpy:508
@@ -3013,7 +3013,7 @@ translate russian alexis_halloween_party_054fbc49:
     "Но затем качает головой и улыбается."
 
 # ch/alexis/date.rpy:515
-translate russian alexis_halloween_party_624e96fc:
+translate russian alexis_halloween_party_62026591:
     alexis.say "А, да... поняла!"
 
 # ch/alexis/date.rpy:516
@@ -3077,7 +3077,7 @@ translate russian alexis_halloween_party_3fe1d828:
     "Поэтому остаётся только продолжать."
 
 # ch/alexis/date.rpy:541
-translate russian alexis_halloween_party_63ed0d21:
+translate russian alexis_halloween_party_7fe81b80:
     mike.say "Мне... мне не нравится, когда ты разглядываешь других парней, Алексис."
 
 # ch/alexis/date.rpy:542
@@ -3153,7 +3153,7 @@ translate russian alexis_halloween_dance_475e6bbe:
     mike.say "Эй, Алексис, хватит смотреть на других парней!"
 
 # ch/alexis/date.rpy:580
-translate russian alexis_halloween_dance_6e7149e2:
+translate russian alexis_halloween_dance_3be3c94b:
     alexis.say "Я... я только..."
 
 # ch/alexis/date.rpy:582
@@ -3189,7 +3189,7 @@ translate russian alexis_halloween_dance_3ab63001:
     alexis.say "Мило. Не ты решаешь, куда мне смотреть, [lssb_alexis.hero_name()]. Я решаю."
 
 # ch/alexis/date.rpy:594
-translate russian alexis_halloween_dance_8b9ab362:
+translate russian alexis_halloween_dance_bb3c72aa:
     alexis.say "Но раз ты так вежливо попросил... пожалуй, ты заслужил моё внимание."
 
 # ch/alexis/date.rpy:596
@@ -3669,7 +3669,7 @@ translate russian alexis_halloween_sex_96e5f9e2:
     scottie.say "Она сказала, что у вас типа открытые отношения!"
 
 # ch/alexis/date.rpy:757
-translate russian alexis_halloween_sex_c8284f99:
+translate russian alexis_halloween_sex_306af9e5:
     jack.say "Эм... да, [lssb_alexis.hero_name()], всё верно."
 
 # ch/alexis/date.rpy:758
@@ -3677,7 +3677,7 @@ translate russian alexis_halloween_sex_ecdcc4a7:
     jack.say "Иначе я бы никогда в это не ввязался!"
 
 # ch/alexis/date.rpy:760
-translate russian alexis_halloween_sex_51a6cc18:
+translate russian alexis_halloween_sex_3da20c2f:
     ryan.say "Упс... немного неловко."
 
 # ch/alexis/date.rpy:761
@@ -3745,7 +3745,7 @@ translate russian alexis_halloween_sex_0e3fe1ba:
     alexis.say "Это же вечеринка, а мне просто стало скучно."
 
 # ch/alexis/date.rpy:787
-translate russian alexis_halloween_sex_9d115f01:
+translate russian alexis_halloween_sex_7fa483a4:
     mike.say "Да, ну... не только тебе стало скучно, Алексис."
 
 # ch/alexis/date.rpy:788
@@ -4021,7 +4021,7 @@ translate russian alexis_halloween_sex_639ff707:
     alexis.say "[lssb_alexis.hero_name()]!.."
 
 # ch/alexis/date.rpy:898
-translate russian alexis_halloween_sex_9f81a9a8:
+translate russian alexis_halloween_sex_dc4d8f55:
     alexis.say "Не отпускай меня... пожалуйста, не отпускай..."
 
 # ch/alexis/date.rpy:901
@@ -4061,7 +4061,7 @@ translate russian alexis_event_02_affa71d4:
     alexis.say "Привет, [lssb_alexis.hero_name()], это я, Алексис!"
 
 # ch/alexis/events.rpy:617
-translate russian alexis_event_02_bb3a5178:
+translate russian alexis_event_02_0b27e229:
     mike.say "Алексис... ого... эм, я совершенно не ожидал твоего звонка сегодня!"
 
 # ch/alexis/events.rpy:618
@@ -4089,7 +4089,7 @@ translate russian alexis_event_02_460d8fab:
     "Я вижу, как последний шанс отказаться и убраться как можно дальше исчезает вдали."
 
 # ch/alexis/events.rpy:624
-translate russian alexis_event_02_7c592a5c:
+translate russian alexis_event_02_74245522:
     mike.say "Ладно, Алексис, думаю, это было бы... приятно."
 
 # ch/alexis/events.rpy:625
@@ -4197,7 +4197,7 @@ translate russian alexis_event_02_21676326:
     "Что ж, похоже, я неправильно её запомнил."
 
 # ch/alexis/events.rpy:655
-translate russian alexis_event_02_5fa926c4:
+translate russian alexis_event_02_2bd52972:
     "Алексис была потрясающей... и остаётся такой сейчас."
 
 # ch/alexis/events.rpy:656
@@ -4245,7 +4245,7 @@ translate russian alexis_event_02_b2d04112:
     alexis.say "Не смотри так изумлённо! Девушка имеет право передумать насчёт бывшей любви."
 
 # ch/alexis/events.rpy:674
-translate russian alexis_event_02_2f447914:
+translate russian alexis_event_02_8cae2701:
     mike.say "Д-да... мне тоже очень приятно, Алексис."
 
 # ch/alexis/events.rpy:675
@@ -4397,7 +4397,7 @@ translate russian alexis_event_02_3ddab15b:
     "Она уже отвечает ему улыбкой, купаясь в восхищении этого темнокожего полубога, решившего вмешаться в наш личный ужин."
 
 # ch/alexis/events.rpy:728
-translate russian alexis_event_02_debb5534:
+translate russian alexis_event_02_8e3e4dd2:
     alexis.say "Ой... как мило с твоей стороны!"
 
 # ch/alexis/events.rpy:730
@@ -4441,7 +4441,7 @@ translate russian alexis_event_02_4c3dbd3a:
     "Подозрительный тип" "Эй, расслабься, братан, всё нормально."
 
 # ch/alexis/events.rpy:743
-translate russian alexis_event_02_d485c660:
+translate russian alexis_event_02_d606fb14:
     "Подозрительный тип" "Я не знал, что мешаю твоим планам... не нужно злиться."
 
 # ch/alexis/events.rpy:745
@@ -4489,7 +4489,7 @@ translate russian alexis_event_02_a62f6b56:
     alexis.say "А, всё нормально. Мы старые друзья, вспоминаем былое."
 
 # ch/alexis/events.rpy:764
-translate russian alexis_event_02_ef384fac:
+translate russian alexis_event_02_e93e3b11:
     "Подозрительный тип" "Это круто... но не забудь оставить немного места и для НОВЫХ друзей."
 
 # ch/alexis/events.rpy:765
@@ -4633,7 +4633,7 @@ translate russian alexis_event_02_e0958a90:
     "Хотя её обнажённое тело открыто мне полностью, мой взгляд постоянно возвращается к лицу Алексис, которую медленно опускают на ожидающий член."
 
 # ch/alexis/events.rpy:823
-translate russian alexis_event_02_487eee08:
+translate russian alexis_event_02_f4b71440:
     "Я никогда раньше не видел у неё такого выражения: отчаянного, жаждущего и почти... почти постыдного."
 
 # ch/alexis/events.rpy:825
@@ -4913,7 +4913,7 @@ translate russian alexis_event_03_cddb053b:
     "К концу она уже заметно пунцовая."
 
 # ch/alexis/events.rpy:934
-translate russian alexis_event_03_2509c3b3:
+translate russian alexis_event_03_b9085f14:
     alexis.say "Не нужно выставлять всё настолько... настолько цинично!"
 
 # ch/alexis/events.rpy:935
@@ -4941,7 +4941,7 @@ translate russian alexis_event_03_e5d7a15c:
     mike.say "Прости, Алексис."
 
 # ch/alexis/events.rpy:942
-translate russian alexis_event_03_ad68967e:
+translate russian alexis_event_03_d6e7d9a3:
     mike.say "Я не хотел быть... ну... злым!"
 
 # ch/alexis/events.rpy:943
@@ -5205,7 +5205,7 @@ translate russian alexis_event_04_a7dce2ab:
     "Ответа сразу не следует, поэтому я легонько касаюсь её плеча."
 
 # ch/alexis/events.rpy:1051
-translate russian alexis_event_04_cec73fd7:
+translate russian alexis_event_04_b058b718:
     alexis.say "А... что?"
 
 # ch/alexis/events.rpy:1053
@@ -5217,7 +5217,7 @@ translate russian alexis_event_04_5d707f83:
     mike.say "Может, разделим попкорн и газировку?"
 
 # ch/alexis/events.rpy:1056
-translate russian alexis_event_04_0275ed9f:
+translate russian alexis_event_04_b95e7e7f:
     alexis.say "А, точно... мне всё равно, [lssb_alexis.hero_name()]."
 
 # ch/alexis/events.rpy:1059
@@ -5293,7 +5293,7 @@ translate russian alexis_event_04_6f664c83:
     alexis.say "Видишь парня в первом ряду, с крутой причёской?"
 
 # ch/alexis/events.rpy:1091
-translate russian alexis_event_04_c439c96c:
+translate russian alexis_event_04_6bb5c1f5:
     mike.say "Эм... да, кажется."
 
 # ch/alexis/events.rpy:1092
@@ -5381,7 +5381,7 @@ translate russian alexis_event_04_fa5ffb6d:
     alexis.say "Даже не помню, когда в последний раз ходила в кино на свидании."
 
 # ch/alexis/events.rpy:1120
-translate russian alexis_event_04_4cfc7121:
+translate russian alexis_event_04_0c3d8787:
     alexis.say "Ну... и когда так хорошо проводила время!"
 
 # ch/alexis/events.rpy:1122
@@ -5433,7 +5433,7 @@ translate russian alexis_event_04_f54214e8:
     "Моя голова начинает клониться к плечу, но я резко просыпаюсь с тихим растерянным ворчанием."
 
 # ch/alexis/events.rpy:1139
-translate russian alexis_event_04_65096d74:
+translate russian alexis_event_04_ab477284:
     mike.say "А... что..."
 
 # ch/alexis/events.rpy:1141
@@ -5713,7 +5713,7 @@ translate russian alexis_event_04_52033f0d:
     alexis.say "Эй, соня!"
 
 # ch/alexis/events.rpy:1234
-translate russian alexis_event_04_eda0c77e:
+translate russian alexis_event_04_560d1e25:
     mike.say "А... какого чёрта..."
 
 # ch/alexis/events.rpy:1236
@@ -5725,7 +5725,7 @@ translate russian alexis_event_04_ae72385b:
     alexis.say "Не могу поверить: ты проспал весь фильм!"
 
 # ch/alexis/events.rpy:1238
-translate russian alexis_event_04_39e9c460:
+translate russian alexis_event_04_f8e551ad:
     mike.say "Ого... видимо, я устал сильнее, чем думал!"
 
 # ch/alexis/events.rpy:1243
@@ -5749,7 +5749,7 @@ translate russian alexis_event_04_3fd6cb54:
     "Лишь через пару мгновений понимаю, что это за странный ускользающий вкус."
 
 # ch/alexis/events.rpy:1248
-translate russian alexis_event_04_6cf5915b:
+translate russian alexis_event_04_521f78c1:
     "Его сперма... вот что это."
 
 # ch/alexis/events.rpy:1249
@@ -5837,7 +5837,7 @@ translate russian alexis_event_04_a3709868:
     mike.say "Наверное, мне стоит быть благодарным, что ты хотя бы дождалась, пока я, как тебе казалось, засну!"
 
 # ch/alexis/events.rpy:1279
-translate russian alexis_event_04_5a084171:
+translate russian alexis_event_04_ea804e6a:
     alexis.say "[lssb_alexis.hero_name()]... я... я могу..."
 
 # ch/alexis/events.rpy:1281
@@ -5993,7 +5993,7 @@ translate russian alexis_event_04_52033f0d_1:
     alexis.say "Эй, соня!"
 
 # ch/alexis/events.rpy:1335
-translate russian alexis_event_04_eda0c77e_1:
+translate russian alexis_event_04_560d1e25_1:
     mike.say "А... какого чёрта..."
 
 # ch/alexis/events.rpy:1337
@@ -6005,7 +6005,7 @@ translate russian alexis_event_04_ae72385b_1:
     alexis.say "Не могу поверить: ты проспал весь фильм!"
 
 # ch/alexis/events.rpy:1339
-translate russian alexis_event_04_39e9c460_1:
+translate russian alexis_event_04_f8e551ad_1:
     mike.say "Ого... видимо, я устал сильнее, чем думал!"
 
 # ch/alexis/events.rpy:1343
@@ -6029,7 +6029,7 @@ translate russian alexis_event_04_3fd6cb54_1:
     "Лишь через пару мгновений понимаю, что это за странный ускользающий вкус."
 
 # ch/alexis/events.rpy:1348
-translate russian alexis_event_04_6cf5915b_1:
+translate russian alexis_event_04_521f78c1_1:
     "Его сперма... вот что это."
 
 # ch/alexis/events.rpy:1349
@@ -6129,7 +6129,7 @@ translate russian alexis_event_05_1cce97ca:
     alexis.say "[lssb_alexis.hero_name()], будь лапочкой?"
 
 # ch/alexis/events.rpy:1405
-translate russian alexis_event_05_55be26eb:
+translate russian alexis_event_05_325d366f:
     mike.say "А... что ты сказала?"
 
 # ch/alexis/events.rpy:1406
@@ -6145,7 +6145,7 @@ translate russian alexis_event_05_1aac6331:
     alexis.say "Не окажешь услугу?"
 
 # ch/alexis/events.rpy:1411
-translate russian alexis_event_05_b47e3de6:
+translate russian alexis_event_05_7bddcf47:
     mike.say "О... да, конечно, Алексис!"
 
 # ch/alexis/events.rpy:1412
@@ -6257,7 +6257,7 @@ translate russian alexis_event_05_52fc7cab:
     "Вокруг люди либо пытаются спрятаться от солнца, либо жарят себя под его безжалостными лучами."
 
 # ch/alexis/events.rpy:1450
-translate russian alexis_event_05_aaf7ef28:
+translate russian alexis_event_05_d6b473eb:
     mike.say "Эм, Алексис... тебе не кажется, что здесь слишком жарко?"
 
 # ch/alexis/events.rpy:1451
@@ -6305,7 +6305,7 @@ translate russian alexis_event_05_3be936f1:
     "Но в следующий момент я чувствую, как что-то касается моей стороны, и просыпаюсь."
 
 # ch/alexis/events.rpy:1469
-translate russian alexis_event_05_2061b771:
+translate russian alexis_event_05_aa82e54a:
     mike.say "Эм...что это...?"
 
 # ch/alexis/events.rpy:1470
@@ -6577,11 +6577,11 @@ translate russian alexis_event_05_f59ee4a0:
     "Клянусь, этот член не более чем на дюйм находится у нее во рту."
 
 # ch/alexis/events.rpy:1570
-translate russian alexis_event_05_16b7dfc1:
+translate russian alexis_event_05_8dd05ca6:
     "А насчет другого... я бы предпочел не знать, как далеко он зашел, прежде чем остановился."
 
 # ch/alexis/events.rpy:1571
-translate russian alexis_event_05_58e18bce:
+translate russian alexis_event_05_8b29237c:
     mike.say "Я имею в виду… я знаю, ЧТО ты делаешь."
 
 # ch/alexis/events.rpy:1572
@@ -6605,7 +6605,7 @@ translate russian alexis_event_05_21eda0b8:
     "Она прикрывает свои обнаженные груди одной рукой, одновременно пытаясь подтянуть купальник другой."
 
 # ch/alexis/events.rpy:1579
-translate russian alexis_event_05_3ce89beb:
+translate russian alexis_event_05_506f9b4e:
     alexis.say "Черт…черт…черт!"
 
 # ch/alexis/events.rpy:1580
@@ -6853,7 +6853,7 @@ translate russian alexis_event_05_11bb4b3d:
     "Когда речь зашла о подозрительно отсутствующей бутылке воды, которую она якобы принесла с собой, Алексис выглядела очень настороженной."
 
 # ch/alexis/events.rpy:1664
-translate russian alexis_event_05_7723e925:
+translate russian alexis_event_05_0e014b1e:
     alexis.say "Я... эмм... пришлось выпить ее по дороге обратно... извини!"
 
 # ch/alexis/events.rpy:1666
@@ -7145,7 +7145,7 @@ translate russian alexis_event_05_11bb4b3d_1:
     "Когда она упомянула о подозрительно отсутствующей бутылке воды, которую якобы принесла с собой, Алексис выглядела очень настороженной."
 
 # ch/alexis/events.rpy:1761
-translate russian alexis_event_05_7723e925_1:
+translate russian alexis_event_05_0e014b1e_1:
     alexis.say "Я... эмм... пришлось выпить её по дороге обратно... извини!"
 
 # ch/alexis/events.rpy:1763
@@ -7221,7 +7221,7 @@ translate russian alexis_nice_car_6430095a:
     alexis.say "Всё в порядке..."
 
 # ch/alexis/events.rpy:1808
-translate russian alexis_nice_car_8a23100d:
+translate russian alexis_nice_car_f41361c9:
     alexis.say "Я хорошо... всё хорошо!"
 
 # ch/alexis/events.rpy:1810
@@ -7245,7 +7245,7 @@ translate russian alexis_nice_car_529af055:
     alexis.say "Я?"
 
 # ch/alexis/events.rpy:1817
-translate russian alexis_nice_car_3e5bb6db:
+translate russian alexis_nice_car_8d2c46fe:
     alexis.say "Ох... ну..."
 
 # ch/alexis/events.rpy:1820
@@ -7389,7 +7389,7 @@ translate russian alexis_nice_car_ad60f63f:
     "Сначала она инстинктивно качает головой, но затем начинает кивать."
 
 # ch/alexis/events.rpy:1865
-translate russian alexis_nice_car_083d06b8:
+translate russian alexis_nice_car_0d3db098:
     alexis.say "Хорошо, хорошо... ты меня убедил!"
 
 # ch/alexis/events.rpy:1866
@@ -7497,11 +7497,11 @@ translate russian alexis_crap_car_1f3f950a:
     alexis.say "Что?"
 
 # ch/alexis/events.rpy:1912
-translate russian alexis_crap_car_c9e16326:
+translate russian alexis_crap_car_b9648544:
     alexis.say "Нет... все в порядке."
 
 # ch/alexis/events.rpy:1913
-translate russian alexis_crap_car_14de918c:
+translate russian alexis_crap_car_e63e8eb5:
     alexis.say "Я... просто чувствую, что что-то забыла, это всё."
 
 # ch/alexis/events.rpy:1915
@@ -7613,7 +7613,7 @@ translate russian alexis_crap_car_5229114b:
     mike.say "Что ты этим подразумеваешь?!?"
 
 # ch/alexis/events.rpy:1950
-translate russian alexis_crap_car_517df114:
+translate russian alexis_crap_car_f8d268d3:
     alexis.say "О... ничего!"
 
 # ch/alexis/events.rpy:1951
@@ -7685,7 +7685,7 @@ translate russian alexis_crap_car_6d4df3bd:
     alexis.say "Ты вообще нормальный? Как можно ездить на этом корыте?!"
 
 # ch/alexis/events.rpy:1974
-translate russian alexis_crap_car_4f01d72a:
+translate russian alexis_crap_car_102e16f3:
     mike.say "Ты... ты имеешь в виду мой АВТОМОБИЛЬ?!"
 
 # ch/alexis/events.rpy:1976
@@ -7809,7 +7809,7 @@ translate russian alexis_event_06_b22f4ed0:
     "В ее выражении лица читается сомнение, но она все равно качает головой и продолжает."
 
 # ch/alexis/events.rpy:2022
-translate russian alexis_event_06_9b941b84:
+translate russian alexis_event_06_52974984:
     alexis.say "Я... я не знаю, стоит ли это делать."
 
 # ch/alexis/events.rpy:2023
@@ -7885,7 +7885,7 @@ translate russian alexis_event_06_fa29c8ad:
     mike.say "Алексис, что случилось?"
 
 # ch/alexis/events.rpy:2045
-translate russian alexis_event_06_6667b779:
+translate russian alexis_event_06_0d2bf502:
     mike.say "Пожалуйста, ты можешь мне рассказать все... абсолютно все!"
 
 # ch/alexis/events.rpy:2046
@@ -7905,7 +7905,7 @@ translate russian alexis_event_06_ed910f1c:
     alexis.say "Ты меня прощаешь, да?"
 
 # ch/alexis/events.rpy:2051
-translate russian alexis_event_06_a936d9e2:
+translate russian alexis_event_06_c575f56e:
     alexis.say "Вау... Значит, теперь все в порядке?"
 
 # ch/alexis/events.rpy:2053
@@ -7917,7 +7917,7 @@ translate russian alexis_event_06_1ccab2e1:
     mike.say "Хм..."
 
 # ch/alexis/events.rpy:2056
-translate russian alexis_event_06_4f1c58c8:
+translate russian alexis_event_06_9f9a6835:
     alexis.say "Я... я не изменяла тебе, [lssb_alexis.hero_name()]!"
 
 # ch/alexis/events.rpy:2058
@@ -7937,7 +7937,7 @@ translate russian alexis_event_06_1e216191:
     alexis.say "Он ИЗНАСИЛ меня, ты, тупой ублюдок!"
 
 # ch/alexis/events.rpy:2064
-translate russian alexis_event_06_304a3ee2:
+translate russian alexis_event_06_61532e39:
     alexis.say "У меня не было выбора... потому что он меня изнасиловал!"
 
 # ch/alexis/events.rpy:2066
@@ -8041,7 +8041,7 @@ translate russian alexis_event_06_1e109229:
     "Алексис качает головой, услышав иронию в моем голосе."
 
 # ch/alexis/events.rpy:2104
-translate russian alexis_event_06_d727f38f:
+translate russian alexis_event_06_d654a10c:
     alexis.say "Что... что ты имеешь в виду?"
 
 # ch/alexis/events.rpy:2106
@@ -8101,7 +8101,7 @@ translate russian alexis_event_06_d16ab54c:
     mike.say "И вот, каким-то образом, то, за что тебе следовало бы извиняться, становится тем, чтобы я сделал это вместо тебя!"
 
 # ch/alexis/events.rpy:2126
-translate russian alexis_event_06_389aae72:
+translate russian alexis_event_06_078e1943:
     alexis.say "Нет... ты все неправильно понимаешь!"
 
 # ch/alexis/events.rpy:2128
@@ -8309,7 +8309,7 @@ translate russian alexis_event_07b_6dce6180:
     "Полицейский" "Могу ли я вам чем-нибудь помочь?"
 
 # ch/alexis/events.rpy:2205
-translate russian alexis_event_07b_6e0f8800:
+translate russian alexis_event_07b_015c466b:
     alexis.say "Я...я хотела бы..."
 
 # ch/alexis/events.rpy:2207
@@ -8317,7 +8317,7 @@ translate russian alexis_event_07b_7fe8fe86:
     "Брови полицейского начинают подниматься, когда Алексис теряет самообладание."
 
 # ch/alexis/events.rpy:2208
-translate russian alexis_event_07b_31d467af:
+translate russian alexis_event_07b_bf61d719:
     mike.say "Моя девушка... то есть, моя партнерша... хотела сообщить о преступлении."
 
 # ch/alexis/events.rpy:2209
@@ -8325,7 +8325,7 @@ translate russian alexis_event_07b_a17f959d:
     "Полицейский смотрит на меня, а затем на Алексис, словно спрашивая, может ли она говорить сама за себя."
 
 # ch/alexis/events.rpy:2211
-translate russian alexis_event_07b_8cea2198:
+translate russian alexis_event_07b_c54e3ecc:
     alexis.say "Он прав... он прав."
 
 # ch/alexis/events.rpy:2212
@@ -8337,7 +8337,7 @@ translate russian alexis_event_07b_bb73471b:
     "Я вижу, как полицейский начинает тянуться к стопке бланков и ручке, лежащим за его столом."
 
 # ch/alexis/events.rpy:2215
-translate russian alexis_event_07b_97a8d549:
+translate russian alexis_event_07b_5c77e422:
     mike.say "Это серьезно... это преступление."
 
 # ch/alexis/events.rpy:2216
@@ -8377,7 +8377,7 @@ translate russian alexis_event_07b_82c87ae1:
     "Я и Алексис делаем то, что нам говорят, и ждем в неловкой тишине, которая кажется вечностью."
 
 # ch/alexis/events.rpy:2230
-translate russian alexis_event_07b_6cb67949:
+translate russian alexis_event_07b_bb6da678:
     "Инспектор" "Эм... вы двое – это те, кто хотел бы поговорить... в, э-э, приватной обстановке?"
 
 # ch/alexis/events.rpy:2232
@@ -8413,7 +8413,7 @@ translate russian alexis_event_07b_2ebe8e5a:
     "А потом он пожимает плечами, словно признавая поражение."
 
 # ch/alexis/events.rpy:2243
-translate russian alexis_event_07b_af817ec6:
+translate russian alexis_event_07b_acca54b3:
     "Майклс" "Я бы показал тебе свой паспорт… но кажется, я временно его потерял!"
 
 # ch/alexis/events.rpy:2245
@@ -8453,7 +8453,7 @@ translate russian alexis_event_07b_7825d6dc:
     "Мы делаем то, что нам говорят, но все еще не можем воспринимать эту шаткую фигуру всерьез."
 
 # ch/alexis/events.rpy:2261
-translate russian alexis_event_07b_c895a51d:
+translate russian alexis_event_07b_2d753b67:
     "Майклс" "Итак, я полагаю, у тебя есть что-то… серьезное, чтобы сообщить?"
 
 # ch/alexis/events.rpy:2263
@@ -8461,7 +8461,7 @@ translate russian alexis_event_07b_fed4b42d:
     "Алексис смотрит на детектива, а затем на меня, и каждый раз получает кивок, побуждающий ее начать свой рассказ."
 
 # ch/alexis/events.rpy:2265
-translate russian alexis_event_07b_fcf75c3c:
+translate russian alexis_event_07b_7ec22251:
     alexis.say "Да... да, у меня есть..."
 
 # ch/alexis/events.rpy:2268
@@ -8469,7 +8469,7 @@ translate russian alexis_event_07b_a8b0b406:
     "Майклс" "Но дайте угадаю: вы боитесь мне сказать?"
 
 # ch/alexis/events.rpy:2271
-translate russian alexis_event_07b_7ac21801:
+translate russian alexis_event_07b_929b1e31:
     alexis.say "Это... это было очень давно, когда все произошло..."
 
 # ch/alexis/events.rpy:2274
@@ -8481,7 +8481,7 @@ translate russian alexis_event_07b_01691e07:
     "Алексис кивает, все еще выглядя нервной, но в то же время облегченной."
 
 # ch/alexis/events.rpy:2278
-translate russian alexis_event_07b_c1ad08a2:
+translate russian alexis_event_07b_902a57d3:
     alexis.say "Ну... да."
 
 # ch/alexis/events.rpy:2280
@@ -8513,7 +8513,7 @@ translate russian alexis_event_07b_fa1ab0a3:
     "Алексис кивает, не в силах сдержать улыбку, глядя на странные манеры детектива."
 
 # ch/alexis/events.rpy:2291
-translate russian alexis_event_07b_d35cc3a2:
+translate russian alexis_event_07b_c0f90981:
     alexis.say "Хорошо... хорошо, дай мне секунду, чтобы собраться с мыслями."
 
 # ch/alexis/events.rpy:2293
@@ -8521,11 +8521,11 @@ translate russian alexis_event_07b_09c1dc9f:
     "Она делает глубокий вдох, медленно выдыхает и начинает говорить."
 
 # ch/alexis/events.rpy:2295
-translate russian alexis_event_07b_5b6aef66:
+translate russian alexis_event_07b_a4316084:
     alexis.say "Это... это случилось, когда я была в старшей школе."
 
 # ch/alexis/events.rpy:2296
-translate russian alexis_event_07b_91d578b6:
+translate russian alexis_event_07b_4d3c2305:
     alexis.say "Учитель физкультуры... тренер, он..."
 
 # ch/alexis/events.rpy:2298
@@ -9113,7 +9113,7 @@ translate russian alexis_event_08a_alt_b91a64af:
     "Мистер Бланк" "Я не скучаю по этой работе ни капли."
 
 # ch/alexis/events.rpy:2492
-translate russian alexis_event_08a_alt_65851930:
+translate russian alexis_event_08a_alt_901f6875:
     "Мистер Бланк" "То есть, футбол и трофеи... это было все очень хорошо."
 
 # ch/alexis/events.rpy:2493
@@ -9253,7 +9253,7 @@ translate russian alexis_event_08a_alt_c91b37d7:
     mike.say "Я знал!"
 
 # ch/alexis/events.rpy:2531
-translate russian alexis_event_08a_alt_34f23ba8:
+translate russian alexis_event_08a_alt_bfd77d6a:
     mike.say "То есть... я знал, что ты настоящий мужик, тренер."
 
 # ch/alexis/events.rpy:2532
@@ -9281,7 +9281,7 @@ translate russian alexis_event_08a_alt_ec6dc235:
     mike.say "Помнишь ту очень привлекательную девушку из моего курса?"
 
 # ch/alexis/events.rpy:2538
-translate russian alexis_event_08a_alt_8a61c335:
+translate russian alexis_event_08a_alt_0fd787f1:
     mike.say "Элли... или Алекса... или Александра..."
 
 # ch/alexis/events.rpy:2540
@@ -9349,7 +9349,7 @@ translate russian alexis_event_08a_alt_a0f55ca8:
     mike.say "Я понимаю, если вы не хотите говорить об этом."
 
 # ch/alexis/events.rpy:2557
-translate russian alexis_event_08a_alt_c915d1c1:
+translate russian alexis_event_08a_alt_79720fbc:
     mike.say "Ну, она была ученицей... и подростком..."
 
 # ch/alexis/events.rpy:2558
@@ -9365,7 +9365,7 @@ translate russian alexis_event_08a_alt_ad92050b:
 
     "Mr Blank" "Ну да, я воспользовался её доверием. И что?"
 
-translate russian alexis_event_08a_alt_3b13344a:
+translate russian alexis_event_08a_alt_8de270bc:
     "Ох, чувак... теперь мне действительно начинает тошнить."
 
 # ch/alexis/events.rpy:2566
@@ -9449,7 +9449,7 @@ translate russian alexis_event_08a_alt_f45c2ca6:
     mike.say "Я слышал слухи, что тебя выгнали."
 
 # ch/alexis/events.rpy:2590
-translate russian alexis_event_08a_alt_f2df2843:
+translate russian alexis_event_08a_alt_5dd2b6ab:
     mike.say "Они... я не знаю... придумали какую-то чушь, чтобы подставить тебя, или что-то в этом роде."
 
 # ch/alexis/events.rpy:2591
@@ -9537,7 +9537,7 @@ translate russian alexis_event_08a_724ef05b:
     "Не раздумывая, я останавливаю машину и выпрыгиваю из нее, перехожу дорогу, чтобы догнать его."
 
 # ch/alexis/events.rpy:2621
-translate russian alexis_event_08a_7262fc9c:
+translate russian alexis_event_08a_aaf41438:
     mike.say "Эй, ты... эй, Бланк!"
 
 # ch/alexis/events.rpy:2622
@@ -9617,7 +9617,7 @@ translate russian alexis_event_08a_724ef05b_1:
     "Не раздумывая, я останавливаю машину и выпрыгиваю из нее, перехожу дорогу, чтобы догнать его."
 
 # ch/alexis/events.rpy:2643
-translate russian alexis_event_08a_7262fc9c_1:
+translate russian alexis_event_08a_aaf41438_1:
     mike.say "Эй, ты... эй, Бланк!"
 
 # ch/alexis/events.rpy:2644
@@ -9665,7 +9665,7 @@ translate russian alexis_event_08a_8172b41a:
     "В конце концов, для него я просто какой-то случайный выпускник, который вдруг узнал его."
 
 # ch/alexis/events.rpy:2655
-translate russian alexis_event_08a_281b47e6:
+translate russian alexis_event_08a_e332901a:
     "Мистер Бланк" "Ну… если вы так говорите, парень."
 
 # ch/alexis/events.rpy:2656
@@ -9681,7 +9681,7 @@ translate russian alexis_event_08a_c920dd95:
     mike.say "Может быть, вы помните кого-нибудь еще из моего класса?"
 
 # ch/alexis/events.rpy:2659
-translate russian alexis_event_08a_d6ce37fa:
+translate russian alexis_event_08a_fe9c95f0:
     mike.say "А как насчет... Алексис... вы ее помните?"
 
 # ch/alexis/events.rpy:2660
@@ -9693,7 +9693,7 @@ translate russian alexis_event_08a_bf9253b0:
     "Мистер Бланк" "Не могу сказать, что помню!"
 
 # ch/alexis/events.rpy:2662
-translate russian alexis_event_08a_dafd2bc2:
+translate russian alexis_event_08a_7ecbf1cc:
     mike.say "Нет, правда... постарайтесь вспомнить, пожалуйста, это имя."
 
 # ch/alexis/events.rpy:2663
@@ -9767,10 +9767,6 @@ translate russian alexis_event_08a_fedcdc1f:
 # ch/alexis/events.rpy:2680
 translate russian alexis_event_08a_6f770516_1:
     "А для него это всего лишь еще один трофей."
-
-# ch/alexis/events.rpy:2681
-translate russian alexis_event_08a_45bf634e:
-    mike.say "Ты, сукин сын!!!" with hpunch
 
 # ch/alexis/events.rpy:2684
 translate russian alexis_event_08a_2b06c48b:
@@ -10193,7 +10189,7 @@ translate russian alexis_event_08b_9e03e6a5:
     mike.say "Разве ты не хочешь услышать, что он собирается сказать?"
 
 # ch/alexis/events.rpy:2821
-translate russian alexis_event_08b_7c2433a9:
+translate russian alexis_event_08b_5d283b67:
     mike.say "Я имею в виду, это же хорошо... верно?"
 
 # ch/alexis/events.rpy:2823
@@ -10361,7 +10357,7 @@ translate russian alexis_event_09a_2f5ea8a0:
     alexis.say "Ты же знаешь, я доверилась тебе и рассказала о том, что со мной произошло, а что ты сделал?"
 
 # ch/alexis/events.rpy:2886
-translate russian alexis_event_09a_327b26ea:
+translate russian alexis_event_09a_22d168cf:
     alexis.say "Ты убежал, чтобы встретиться с ним, как...как какой-то сумасшедший мститель!"
 
 # ch/alexis/events.rpy:2888
@@ -10405,7 +10401,7 @@ translate russian alexis_event_09a_32157189:
     mike.say "Это было несправедливо по отношению к тебе."
 
 # ch/alexis/events.rpy:2903
-translate russian alexis_event_09a_8f7f6406:
+translate russian alexis_event_09a_06d664f5:
     mike.say "Я просто... я просто хотел, чтобы он заплатил за это, вот и все."
 
 # ch/alexis/events.rpy:2904
@@ -10529,7 +10525,7 @@ translate russian alexis_event_10_2b2194f7:
     mike.say "Слушай, сделай мне одолжение, ладно?"
 
 # ch/alexis/events.rpy:2952
-translate russian alexis_event_10_cbe0f3e3:
+translate russian alexis_event_10_8b8beb00:
     alexis.say "Хорошо, [lssb_alexis.hero_name()]."
 
 # ch/alexis/events.rpy:2953
@@ -10697,7 +10693,7 @@ translate russian alexis_event_10_5c9ab1d3:
     alexis.say "Покажи всем, что ты не тот неудачник, каким они всегда тебя считали!"
 
 # ch/alexis/events.rpy:3011
-translate russian alexis_event_10_3ac4d86d:
+translate russian alexis_event_10_d605a3b8:
     mike.say "Постой...что?!"
 
 # ch/alexis/events.rpy:3012
@@ -10717,7 +10713,7 @@ translate russian alexis_event_10_0cfc459a:
     alexis.say "Я имела в виду, что они могли подумать, что ты неудачник, если бы ты не пришел!"
 
 # ch/alexis/events.rpy:3020
-translate russian alexis_event_10_77de0406:
+translate russian alexis_event_10_2ac5494d:
     mike.say "А...понятно, Алексис."
 
 # ch/alexis/events.rpy:3021
@@ -10941,7 +10937,7 @@ translate russian alexis_event_11_a7f2bb34:
     jack.say "Не, чувак, я почти уверен, что это она."
 
 # ch/alexis/events.rpy:3099
-translate russian alexis_event_11_298b6bf3:
+translate russian alexis_event_11_5c2bb77b:
     jack.say "Черт... некоторые люди действительно позволяют себе растолстеть, да?"
 
 # ch/alexis/events.rpy:3100
@@ -11073,7 +11069,7 @@ translate russian alexis_event_11_76cf00d0:
     jack.say "Ах..."
 
 # ch/alexis/events.rpy:3148
-translate russian alexis_event_11_f83fd618:
+translate russian alexis_event_11_972c4d3c:
     jack.say "Да... да, Алексис!"
 
 # ch/alexis/events.rpy:3149
@@ -11509,7 +11505,7 @@ translate russian alexis_event_11_0014b853:
     alexis.say "Так я просто скажу прямо."
 
 # ch/alexis/events.rpy:3285
-translate russian alexis_event_11_d22ac6a0:
+translate russian alexis_event_11_39c667ed:
     alexis.say "Кажется, все хотят говорить только о...том, что со мной здесь произошло..."
 
 # ch/alexis/events.rpy:3286
@@ -11541,7 +11537,7 @@ translate russian alexis_event_11_f0b45c8a:
     mike.say "Боже мой, Алексис!"
 
 # ch/alexis/events.rpy:3293
-translate russian alexis_event_11_d9e7dd5f:
+translate russian alexis_event_11_32c03fb6:
     mike.say "Я в шоке... и я очень зол!"
 
 # ch/alexis/events.rpy:3294
@@ -11669,7 +11665,7 @@ translate russian alexis_event_11_0361f8fb:
     jack.say "Эм..."
 
 # ch/alexis/events.rpy:3334
-translate russian alexis_event_11_98b084dc:
+translate russian alexis_event_11_6bea7dd1:
     jack.say "Ну... неприятно вспоминать плохие вещи из прошлого."
 
 # ch/alexis/events.rpy:3335
@@ -11881,7 +11877,7 @@ translate russian alexis_event_12_5b66ddea:
     "Она качает головой от удивления, как будто не может поверить."
 
 # ch/alexis/events.rpy:3413
-translate russian alexis_event_12_704b78db:
+translate russian alexis_event_12_583c6468:
     alexis.say "Н...но..."
 
 # ch/alexis/events.rpy:3414
@@ -11933,7 +11929,7 @@ translate russian alexis_event_12_8364de93:
     "Но Алексис опередила меня."
 
 # ch/alexis/events.rpy:3428
-translate russian alexis_event_12_3727f18e:
+translate russian alexis_event_12_4b433610:
     alexis.say "Т...так, наверное, и есть, [lssb_alexis.hero_name()]..."
 
 # ch/alexis/events.rpy:3429
@@ -11941,11 +11937,11 @@ translate russian alexis_event_12_22ce45f5:
     alexis.say "Я хотела с тобой об этом поговорить!"
 
 # ch/alexis/events.rpy:3431
-translate russian alexis_event_12_08c48527:
+translate russian alexis_event_12_365a5f5f:
     mike.say "Ты...ты же не собираешься расставаться со мной?"
 
 # ch/alexis/events.rpy:3432
-translate russian alexis_event_12_fcbdb925:
+translate russian alexis_event_12_7be71dae:
     mike.say "О чёрт... Только не бросай меня, Алексис. Не снова!"
 
 # ch/alexis/events.rpy:3434
@@ -11957,11 +11953,11 @@ translate russian alexis_event_12_483da3fb:
     alexis.say "Я не хочу с тобой расстаться, [lssb_alexis.hero_name()]!"
 
 # ch/alexis/events.rpy:3437
-translate russian alexis_event_12_f47a0bda:
+translate russian alexis_event_12_dd212e56:
     alexis.say "На самом деле это...скорее наоборот..."
 
 # ch/alexis/events.rpy:3438
-translate russian alexis_event_12_e4e35ebf:
+translate russian alexis_event_12_88c6d867:
     alexis.say "Я… я хотела сказать, что я никогда не хочу быть без тебя!"
 
 # ch/alexis/events.rpy:3440
@@ -11977,7 +11973,7 @@ translate russian alexis_event_12_39964dc6:
     "Это было совершенно неожиданно!"
 
 # ch/alexis/events.rpy:3443
-translate russian alexis_event_12_b4aabe82:
+translate russian alexis_event_12_3ba4d8e3:
     mike.say "Я… я чувствую то же самое по отношению к тебе, Алексис!"
 
 # ch/alexis/events.rpy:3444
@@ -11989,7 +11985,7 @@ translate russian alexis_event_12_2c1246d2:
     mike.say "Я никогда не знал, достаточно ли я для тебя!"
 
 # ch/alexis/events.rpy:3446
-translate russian alexis_event_12_32f3c1bb:
+translate russian alexis_event_12_42ef8c59:
     mike.say "Ты была… ну, довольно буйной в то время!"
 
 # ch/alexis/events.rpy:3448
@@ -12009,7 +12005,7 @@ translate russian alexis_event_12_a0f23558:
     alexis.say "Я люблю думать, что я изменилась к лучшему."
 
 # ch/alexis/events.rpy:3453
-translate russian alexis_event_12_ed0fad43:
+translate russian alexis_event_12_75368ce4:
     alexis.say "А ты...ты стал лучшей версией того парня, каким ты был тогда!"
 
 # ch/alexis/events.rpy:3455
@@ -12037,7 +12033,7 @@ translate russian alexis_event_12_00807cad:
     mike.say "Ты просто такая идеальная!"
 
 # ch/alexis/events.rpy:3465
-translate russian alexis_event_12_b5f7bdee:
+translate russian alexis_event_12_8d99c787:
     alexis.say "Ох... Прекрати говорить так!"
 
 # ch/alexis/events.rpy:3467
@@ -12489,7 +12485,7 @@ translate russian alexis_event_ntr_01_1f0bd702:
     "Поэтому я могу ответить только в том же духе."
 
 # ch/alexis/events.rpy:3633
-translate russian alexis_event_ntr_01_a2ebb17d:
+translate russian alexis_event_ntr_01_ae02f062:
     mike.say "Эм... привет..."
 
 # ch/alexis/events.rpy:3634
@@ -12509,7 +12505,7 @@ translate russian alexis_event_ntr_01_e5fe7e30:
     "Рэй" "Алексис внутри?"
 
 # ch/alexis/events.rpy:3639
-translate russian alexis_event_ntr_01_1b880313:
+translate russian alexis_event_ntr_01_4a3e182a:
     mike.say "Я... думаю, да..."
 
 # ch/alexis/events.rpy:3640
@@ -12537,7 +12533,7 @@ translate russian alexis_event_ntr_01_36981324:
     alexis.say "Когда я спросила, они с радостью согласились на совместный секс."
 
 # ch/alexis/events.rpy:3650
-translate russian alexis_event_ntr_01_26338203:
+translate russian alexis_event_ntr_01_38227707:
     mike.say "Ч-что? На четвёрых?!"
 
 # ch/alexis/events.rpy:3652
@@ -12825,11 +12821,11 @@ translate russian alexis_event_ntr_01_06975bab:
     "Она тяжело дышит от усталости, но всё же пытается произнести слова."
 
 # ch/alexis/events.rpy:3738
-translate russian alexis_event_ntr_01_e806412e:
+translate russian alexis_event_ntr_01_16f52efe:
     alexis.say "Всё...всё..."
 
 # ch/alexis/events.rpy:3739
-translate russian alexis_event_ntr_01_8443764a:
+translate russian alexis_event_ntr_01_e0f0772c:
     alexis.say "В...в лицо..."
 
 # ch/alexis/events.rpy:3741
@@ -13001,7 +12997,7 @@ translate russian alexis_event_ntr_01_7313ba0c:
     alexis.say "А?"
 
 # ch/alexis/events.rpy:3808
-translate russian alexis_event_ntr_01_611e1bb4:
+translate russian alexis_event_ntr_01_37e86513:
     alexis.say "Н-но я думала..."
 
 # ch/alexis/events.rpy:3809
@@ -13313,7 +13309,7 @@ translate russian alexis_event_ntr_02_4d0d06d1:
     alexis.say "Ладно, [lssb_alexis.hero_name()], ты победил."
 
 # ch/alexis/events.rpy:3919
-translate russian alexis_event_ntr_02_347e5527:
+translate russian alexis_event_ntr_02_b6177636:
     alexis.say "Я готова признать, что у меня... есть аппетит."
 
 # ch/alexis/events.rpy:3920
@@ -13521,7 +13517,7 @@ translate russian alexis_event_ntr_02_ab3019d6:
     "Она качает головой, словно не может поверить тому, что слышит."
 
 # ch/alexis/events.rpy:3993
-translate russian alexis_event_ntr_02_305c1776:
+translate russian alexis_event_ntr_02_f40e6f3d:
     alexis.say "Т...ты серьезно?"
 
 # ch/alexis/events.rpy:3995
@@ -14269,7 +14265,7 @@ translate russian alexis_event_ntr_03_0b3f84d3:
     "Но разве я должен просто сидеть сложа руки и пассивно принимать это?"
 
 # ch/alexis/events.rpy:4290
-translate russian alexis_event_ntr_03_84a3d629:
+translate russian alexis_event_ntr_03_d0ad13f2:
     "То есть, я могу... использовать это для собственного удовольствия, верно?"
 
 # ch/alexis/events.rpy:4291
@@ -14385,7 +14381,7 @@ translate russian alexis_event_ntr_03_3dd75a0d:
     "Как она может устоять перед парнем, от которого так сильно исходят мужские гормоны?"
 
 # ch/alexis/events.rpy:4326
-translate russian alexis_event_ntr_03_55fe8d68:
+translate russian alexis_event_ntr_03_395259ed:
     mike.say "О... эмм... да!"
 
 # ch/alexis/events.rpy:4327
@@ -14441,7 +14437,7 @@ translate russian alexis_event_ntr_03_7eeade82:
     dwayne.say "Это значит, что она свободна?"
 
 # ch/alexis/events.rpy:4347
-translate russian alexis_event_ntr_03_cdc51464:
+translate russian alexis_event_ntr_03_00b52a0c:
     mike.say "Эм... нет, Дуэйн."
 
 # ch/alexis/events.rpy:4348
@@ -14449,7 +14445,7 @@ translate russian alexis_event_ntr_03_0c024cc5:
     mike.say "Мы вроде как снова вместе. Правда, Алексис?"
 
 # ch/alexis/events.rpy:4350
-translate russian alexis_event_ntr_03_ab82a8ba:
+translate russian alexis_event_ntr_03_11d40e12:
     alexis.say "Да-да... что угодно!"
 
 # ch/alexis/events.rpy:4351
@@ -14949,7 +14945,7 @@ translate russian alexis_event_ntr_03_cf98884c:
     "Затем я откидываюсь на спинку кресла и качаю головой."
 
 # ch/alexis/events.rpy:4572
-translate russian alexis_event_ntr_03_a2b9ab84:
+translate russian alexis_event_ntr_03_f758913d:
     "Хорошо, значит...минимизация ущерба."
 
 # ch/alexis/events.rpy:4573
@@ -15013,7 +15009,7 @@ translate russian alexis_event_ntr_03_cf98884c_1:
     "Затем я откидываюсь на спинку кресла и качаю головой."
 
 # ch/alexis/events.rpy:4590
-translate russian alexis_event_ntr_03_a2b9ab84_1:
+translate russian alexis_event_ntr_03_f758913d_1:
     "Хорошо, значит...минимизация ущерба."
 
 # ch/alexis/events.rpy:4591
@@ -15245,7 +15241,7 @@ translate russian alexis_blackmail_dwayne_cd6cdb14:
     dwayne.say "А у тебя есть яйца. Мне это нравится!"
 
 # ch/alexis/events.rpy:4673
-translate russian alexis_blackmail_dwayne_27769600:
+translate russian alexis_blackmail_dwayne_d4f3c8fd:
     dwayne.say "Но эта Алексис… ох!"
 
 # ch/alexis/events.rpy:4674
@@ -15285,7 +15281,7 @@ translate russian alexis_blackmail_dwayne_3951c0ed:
     dwayne.say "Но тебе придется постараться больше, чем это!"
 
 # ch/alexis/events.rpy:4697
-translate russian alexis_blackmail_dwayne_18e0fac0:
+translate russian alexis_blackmail_dwayne_4f04e6b6:
     mike.say "Что... что ты имеешь в виду, Дуэйн?"
 
 # ch/alexis/events.rpy:4698
@@ -15589,7 +15585,7 @@ translate russian alexis_event_ntr_04_168e27b8:
     "Но вместо этого, когда она заговорила, ее голос звучал странно спокойно."
 
 # ch/alexis/events.rpy:4811
-translate russian alexis_event_ntr_04_150effab:
+translate russian alexis_event_ntr_04_dc2ed6ee:
     alexis.say "Это... меня очень возбуждает!"
 
 # ch/alexis/events.rpy:4813
@@ -15597,7 +15593,7 @@ translate russian alexis_event_ntr_04_3ba998ba:
     mike.say "ЧТО?!"
 
 # ch/alexis/events.rpy:4814
-translate russian alexis_event_ntr_04_707b90ef:
+translate russian alexis_event_ntr_04_503cad81:
     mike.say "Ты... ты имеешь в виду, что ты не злишься на меня?"
 
 # ch/alexis/events.rpy:4815
@@ -15633,7 +15629,7 @@ translate russian alexis_event_ntr_04_1846f3a3:
     mike.say "Я удалил видео после того, как посмотрел его в первый раз!"
 
 # ch/alexis/events.rpy:4827
-translate russian alexis_event_ntr_04_587231ab:
+translate russian alexis_event_ntr_04_7f95fec4:
     alexis.say "Ты... ты это сделал?"
 
 # ch/alexis/events.rpy:4828
@@ -15677,7 +15673,7 @@ translate russian alexis_event_ntr_04_30859aed:
     "Я с радостью закрою эту тему."
 
 # ch/alexis/events.rpy:4844
-translate russian alexis_event_ntr_04_b7112617:
+translate russian alexis_event_ntr_04_42a5e55d:
     mike.say "Т…ты это делаешь?!"
 
 # ch/alexis/events.rpy:4845
@@ -15801,7 +15797,7 @@ translate russian alexis_event_ntr_04_046cba95:
     alexis.say "А потом что-то поддаётся, и он наполняет тебя!"
 
 # ch/alexis/events.rpy:4906
-translate russian alexis_event_ntr_04_4a50d419:
+translate russian alexis_event_ntr_04_ce096bb5:
     mike.say "Ты... тебе они больше всего нравятся, когда..."
 
 # ch/alexis/events.rpy:4907
@@ -15973,7 +15969,7 @@ translate russian alexis_event_ntr_05_intro_7e2d21f1:
     "Я знаю, что с тех пор, как мы снова сошлись с Алексис, в нашей жизни было немало драматических событий."
 
 # ch/alexis/events.rpy:4980
-translate russian alexis_event_ntr_05_intro_536be775:
+translate russian alexis_event_ntr_05_intro_8daa7afe:
     "Драму, возникшую в основном из-за её... как бы это назвать... проблемы?"
 
 # ch/alexis/events.rpy:4981
@@ -16013,7 +16009,7 @@ translate russian alexis_event_ntr_05_intro_421340e1:
     "Может быть, Алексис сможет объяснить мне это более понятно?"
 
 # ch/alexis/events.rpy:4990
-translate russian alexis_event_ntr_05_intro_fc1e8764:
+translate russian alexis_event_ntr_05_intro_1c857b96:
     "Черт... это будет непросто!"
 
 # ch/alexis/events.rpy:4991
@@ -16025,7 +16021,7 @@ translate russian alexis_event_ntr_05_intro_a61ed12d:
     mike.say "Алексис..."
 
 # ch/alexis/events.rpy:4994
-translate russian alexis_event_ntr_05_intro_ffd3820c:
+translate russian alexis_event_ntr_05_intro_861c72e8:
     mike.say "Мне нужно с тобой поговорить... очень серьезно!"
 
 # ch/alexis/events.rpy:4996
@@ -16037,7 +16033,7 @@ translate russian alexis_event_ntr_05_intro_db84f8a0:
     "Думаю, она должна знать, о чем пойдет речь."
 
 # ch/alexis/events.rpy:4999
-translate russian alexis_event_ntr_05_intro_e5391463:
+translate russian alexis_event_ntr_05_intro_bcaa69f7:
     alexis.say "Да, конечно, [lssb_alexis.hero_name()]."
 
 # ch/alexis/events.rpy:5000
@@ -16045,7 +16041,7 @@ translate russian alexis_event_ntr_05_intro_68930788:
     alexis.say "Что ты хотел мне сказать?"
 
 # ch/alexis/events.rpy:5002
-translate russian alexis_event_ntr_05_intro_72b8787a:
+translate russian alexis_event_ntr_05_intro_b3fa2d8b:
     mike.say "Ну... это то, что тебе нравится делать..."
 
 # ch/alexis/events.rpy:5003
@@ -16121,7 +16117,7 @@ translate russian alexis_event_ntr_05_intro_91db24ec:
     mike.say "Они для тебя не так важны?"
 
 # ch/alexis/events.rpy:5028
-translate russian alexis_event_ntr_05_intro_8fc3e910:
+translate russian alexis_event_ntr_05_intro_f53879d7:
     mike.say "Это как...игрушки, которыми ты пользуешься, а потом выбрасываешь?"
 
 # ch/alexis/events.rpy:5030
@@ -16205,7 +16201,7 @@ translate russian alexis_event_ntr_05_intro_3ed374fb:
     "Кажется, она просто не может в это поверить."
 
 # ch/alexis/events.rpy:5057
-translate russian alexis_event_ntr_05_intro_422010ca:
+translate russian alexis_event_ntr_05_intro_369de704:
     alexis.say "Ты... ты имеешь в виду это?"
 
 # ch/alexis/events.rpy:5059
@@ -16241,7 +16237,7 @@ translate russian alexis_event_ntr_05_intro_e7051714:
     alexis.say "Ты не представляешь, как это облегчение услышать от тебя такое!"
 
 # ch/alexis/events.rpy:5069
-translate russian alexis_event_ntr_05_intro_69811a45:
+translate russian alexis_event_ntr_05_intro_c0be6e2d:
     alexis.say "И… тебе нормально, что я буду заниматься другими парнями перед тобой, да?"
 
 # ch/alexis/events.rpy:5070
@@ -16333,7 +16329,7 @@ translate russian alexis_event_ntr_05_intro_bb4566fe:
     mike.say "Например, вернемся в тот замечательный ресторан, где у нас было свидание."
 
 # ch/alexis/events.rpy:5098
-translate russian alexis_event_ntr_05_intro_26b87b19:
+translate russian alexis_event_ntr_05_intro_ca2a71f0:
     mike.say "Может быть, сейчас все будет по-другому, теперь когда я знаю обо всех твоих... потребностях?"
 
 # ch/alexis/events.rpy:5100
@@ -16793,11 +16789,11 @@ translate russian alexis_event_ntr_05_home_06975bab:
     "Она тяжело дышит от усталости, но все же пытается говорить."
 
 # ch/alexis/events.rpy:5271
-translate russian alexis_event_ntr_05_home_e806412e:
+translate russian alexis_event_ntr_05_home_16f52efe:
     alexis.say "Все…"
 
 # ch/alexis/events.rpy:5272
-translate russian alexis_event_ntr_05_home_8443764a:
+translate russian alexis_event_ntr_05_home_e0f0772c:
     alexis.say "На... на лице..."
 
 # ch/alexis/events.rpy:5274
@@ -16897,7 +16893,7 @@ translate russian alexis_event_ntr_05_home_3860ee59:
     "Рэй" "А может быть, твой парень тоже мог бы присоединиться!"
 
 # ch/alexis/events.rpy:5310
-translate russian alexis_event_ntr_05_home_f00bf94f:
+translate russian alexis_event_ntr_05_home_38c86d74:
     mike.say "Д... да!"
 
 # ch/alexis/events.rpy:5311
@@ -16985,7 +16981,7 @@ translate russian alexis_event_ntr_05_restaurant_534cb8c7:
     "Я чувствую себя довольно нервно, когда мы с Алексис входим в ресторан и садимся за столик."
 
 # ch/alexis/events.rpy:5344
-translate russian alexis_event_ntr_05_restaurant_f71cfd7c:
+translate russian alexis_event_ntr_05_restaurant_ea24f578:
     "В конце концов, это первый раз, когда я выхожу с ней на публику после того, как мы обсудили её...потребности."
 
 # ch/alexis/events.rpy:5345
@@ -17013,7 +17009,7 @@ translate russian alexis_event_ntr_05_restaurant_ff6b188d:
     mike.say "НЕТ..."
 
 # ch/alexis/events.rpy:5353
-translate russian alexis_event_ntr_05_restaurant_065c723f:
+translate russian alexis_event_ntr_05_restaurant_e3a49c71:
     mike.say "Нет, Алексис... Я в порядке."
 
 # ch/alexis/events.rpy:5354
@@ -17149,7 +17145,7 @@ translate russian alexis_event_ntr_05_restaurant_c5f496a5:
     mike.say "Она как богиня или что-то в этом роде!"
 
 # ch/alexis/events.rpy:5396
-translate russian alexis_event_ntr_05_restaurant_f6bd0a43:
+translate russian alexis_event_ntr_05_restaurant_ded22556:
     mike.say "Я... то есть, она, конечно, не может сравниться с тобой!"
 
 # ch/alexis/events.rpy:5398
@@ -17581,7 +17577,7 @@ translate russian alexis_restaurant_toilet_core_15362b3a:
     "Глубоко вдыхаю и открываю дверь в их кабинку."
 
 # ch/alexis/events.rpy:5547
-translate russian alexis_restaurant_toilet_core_ef449228:
+translate russian alexis_restaurant_toilet_core_b78aaea7:
     "Парень" "Э... эй!"
 
 # ch/alexis/events.rpy:5548
@@ -17589,7 +17585,7 @@ translate russian alexis_restaurant_toilet_core_ee1269ee:
     "Парень" "Ты ещё кто такой, чёрт возьми?"
 
 # ch/alexis/events.rpy:5549
-translate russian alexis_restaurant_toilet_core_5ed7cb70:
+translate russian alexis_restaurant_toilet_core_c435796c:
     "Парень" "Это... это тот парень, что сидел с тобой за столом?!"
 
 # ch/alexis/events.rpy:5550
@@ -17625,7 +17621,7 @@ translate russian alexis_restaurant_toilet_core_c69f52e0:
     alexis.say "Тогда он остаётся и смотрит!"
 
 # ch/alexis/events.rpy:5561
-translate russian alexis_restaurant_toilet_core_4a89fb08:
+translate russian alexis_restaurant_toilet_core_38e0c2fc:
     "Парень" "Л... ладно, ладно!"
 
 # ch/alexis/events.rpy:5562
@@ -17773,7 +17769,7 @@ translate russian alexis_restaurant_toilet_core_a61ed12d:
     mike.say "Алексис..."
 
 # ch/alexis/events.rpy:5614
-translate russian alexis_restaurant_toilet_core_f9422bbe:
+translate russian alexis_restaurant_toilet_core_14e46939:
     mike.say "Ах ты... маленькая грязная сучка!"
 
 # ch/alexis/events.rpy:5616
@@ -18101,7 +18097,7 @@ translate russian alexis_conv_flirt_4e56f82a:
     "Алексис замирает, и тишина становится почти ощутимой."
 
 # ch/alexis/events.rpy:5760
-translate russian alexis_conv_flirt_7833176d:
+translate russian alexis_conv_flirt_9e3f8be7:
     alexis.say "Хорошо... я слушаю."
 
 # ch/alexis/events.rpy:5764
@@ -18113,7 +18109,7 @@ translate russian alexis_conv_flirt_25022472:
     mike.say "На самом деле, я всегда знал, что ты не была верна мне."
 
 # ch/alexis/events.rpy:5767
-translate russian alexis_conv_flirt_967858df:
+translate russian alexis_conv_flirt_1802467c:
     alexis.say "П...подожди, я..."
 
 # ch/alexis/events.rpy:5768
@@ -18153,11 +18149,11 @@ translate russian alexis_conv_flirt_24313f81:
     mike.say "Я всегда знал, что ты изменяешь мне с другими парнями."
 
 # ch/alexis/events.rpy:5778
-translate russian alexis_conv_flirt_6716a273:
+translate russian alexis_conv_flirt_eec98984:
     mike.say "Но то, чего я тебе никогда не говорил, это...я в какой-то степени с этим согласен!"
 
 # ch/alexis/events.rpy:5780
-translate russian alexis_conv_flirt_2efc6a08:
+translate russian alexis_conv_flirt_409d27bc:
     alexis.say "Ты...ты что?!?"
 
 # ch/alexis/events.rpy:5782
@@ -18169,7 +18165,7 @@ translate russian alexis_conv_flirt_db018aff:
     mike.say "Но кажется, тебе нравится трахать парней за моей спиной, верно?"
 
 # ch/alexis/events.rpy:5785
-translate russian alexis_conv_flirt_27d6e5fa:
+translate russian alexis_conv_flirt_0c7f8306:
     alexis.say "Ну... да, наверное."
 
 # ch/alexis/events.rpy:5787
@@ -18181,7 +18177,7 @@ translate russian alexis_conv_flirt_3af9913d:
     mike.say "А то, что ты это делаешь, – моя."
 
 # ch/alexis/events.rpy:5789
-translate russian alexis_conv_flirt_b8c8e060:
+translate russian alexis_conv_flirt_5b57410a:
     mike.say "Алексис... я не могу это объяснить!"
 
 # ch/alexis/events.rpy:5791
@@ -18281,7 +18277,7 @@ translate russian alexis_conv_flirt_c8af523d:
     "Алексис молчит некоторое время, вероятно, ошеломленная силой моего ультиматума."
 
 # ch/alexis/events.rpy:5824
-translate russian alexis_conv_flirt_abcd9268:
+translate russian alexis_conv_flirt_61a8205e:
     alexis.say "Хорошо, [lssb_alexis.hero_name()]... Я... кажется, я не осознавала, насколько сильно ты относишься к таким вещам..."
 
 # ch/alexis/events.rpy:5825
@@ -18305,7 +18301,7 @@ translate russian alexis_conv_flirt_7248f2dd:
     mike.say "Я хочу сказать, что нам стоит установить несколько простых правил. И одно из них — не флиртовать с другими, когда мы вместе."
 
 # ch/alexis/events.rpy:5831
-translate russian alexis_conv_flirt_99617cf4:
+translate russian alexis_conv_flirt_47ab8100:
     mike.say "То есть, никаких флиртов с другими людьми… не друг с другом."
 
 # ch/alexis/events.rpy:5832
@@ -18345,7 +18341,7 @@ translate russian alexis_conv_flirt_0bdb37ff:
     mike.say "Я перегнул палку. У меня нет права указывать, с кем тебе можно разговаривать, а с кем нельзя."
 
 # ch/alexis/events.rpy:5845
-translate russian alexis_conv_flirt_a11342eb:
+translate russian alexis_conv_flirt_a85ccbf6:
     alexis.say "Все в порядке, правда… не переживай из-за этого."
 
 # ch/alexis/events.rpy:5846
@@ -18365,7 +18361,7 @@ translate russian alexis_conv_flirt_2dc8bf20:
     alexis.say "На самом деле, мне даже было немного приятно, как ты хотел, чтобы я была только твоей!"
 
 # ch/alexis/events.rpy:5853
-translate russian alexis_conv_flirt_7aaaf45f:
+translate russian alexis_conv_flirt_e9b2af98:
     mike.say "Ну... наверное, я просто забыл, насколько мне нравится проводить время в твоей компании."
 
 # ch/alexis/events.rpy:5855
@@ -18417,7 +18413,7 @@ translate russian alexis_conv_flirt_8993b824:
     "Но я и не ожидал его."
 
 # ch/alexis/events.rpy:5870
-translate russian alexis_conv_flirt_18ea4f90:
+translate russian alexis_conv_flirt_31a8bd13:
     mike.say "Алексис, я думаю, мне бы лучше, если бы мы больше не виделись... точка."
 
 # ch/alexis/events.rpy:5871
@@ -18549,7 +18545,7 @@ translate russian alexis_conv_leave_e3b89cc0:
     mike.say "Ты здесь, Алексис?"
 
 # ch/alexis/events.rpy:5923
-translate russian alexis_conv_leave_58237535:
+translate russian alexis_conv_leave_3bbbd774:
     alexis.say "Да...я слушаю...слушай, я могу объяснить..."
 
 # ch/alexis/events.rpy:5924
@@ -18557,7 +18553,7 @@ translate russian alexis_conv_leave_2905eb2a:
     "Это должно быть хорошо."
 
 # ch/alexis/events.rpy:5925
-translate russian alexis_conv_leave_a6f019a4:
+translate russian alexis_conv_leave_25018a82:
     alexis.say "Ты...тебе не следовало это видеть, [lssb_alexis.hero_name()]..."
 
 # ch/alexis/events.rpy:5926
@@ -18565,7 +18561,7 @@ translate russian alexis_conv_leave_17890dcc:
     mike.say "Да, Алексис, до этого я как-то и сам додумался!"
 
 # ch/alexis/events.rpy:5928
-translate russian alexis_conv_leave_8d372ca3:
+translate russian alexis_conv_leave_d58583fd:
     alexis.say "Нет...я имела в виду другое...это сложнее..."
 
 # ch/alexis/events.rpy:5929
@@ -18585,7 +18581,7 @@ translate russian alexis_conv_leave_25022472:
     mike.say "На самом деле, я всегда знал, что ты не была верна мне."
 
 # ch/alexis/events.rpy:5936
-translate russian alexis_conv_leave_967858df:
+translate russian alexis_conv_leave_1802467c:
     alexis.say "П...подожди, я..."
 
 # ch/alexis/events.rpy:5937
@@ -18625,11 +18621,11 @@ translate russian alexis_conv_leave_24313f81:
     mike.say "Я всегда знал, что ты изменяешь мне с другими парнями."
 
 # ch/alexis/events.rpy:5947
-translate russian alexis_conv_leave_6716a273:
+translate russian alexis_conv_leave_eec98984:
     mike.say "Но то, чего я тебе никогда не говорил, это...я в какой-то степени с этим согласен!"
 
 # ch/alexis/events.rpy:5949
-translate russian alexis_conv_leave_2efc6a08:
+translate russian alexis_conv_leave_409d27bc:
     alexis.say "Ты...ты что?!"
 
 # ch/alexis/events.rpy:5950
@@ -18641,7 +18637,7 @@ translate russian alexis_conv_leave_db018aff:
     mike.say "Но тебе же нравится трахать парней за моей спиной, верно?"
 
 # ch/alexis/events.rpy:5953
-translate russian alexis_conv_leave_27d6e5fa:
+translate russian alexis_conv_leave_0c7f8306:
     alexis.say "Ну...да, наверное."
 
 # ch/alexis/events.rpy:5954
@@ -18653,7 +18649,7 @@ translate russian alexis_conv_leave_3af9913d:
     mike.say "А знание того, что ты это делаешь, – моя."
 
 # ch/alexis/events.rpy:5956
-translate russian alexis_conv_leave_b8c8e060:
+translate russian alexis_conv_leave_5b57410a:
     mike.say "Я не могу это объяснить!"
 
 # ch/alexis/events.rpy:5958
@@ -18733,11 +18729,11 @@ translate russian alexis_conv_leave_916e5676:
     mike.say "Это была серьезная ошибка с твоей стороны, Алексис."
 
 # ch/alexis/events.rpy:5984
-translate russian alexis_conv_leave_91dd4b4a:
+translate russian alexis_conv_leave_90fc0e8b:
     mike.say "Но... думаю, мы можем списать это на ошибку и попробовать снова."
 
 # ch/alexis/events.rpy:5986
-translate russian alexis_conv_leave_9e2fee58:
+translate russian alexis_conv_leave_76f313a3:
     mike.say "Но... наверное, раз это не было настоящим свиданием, можно списать это на ошибку и попробовать еще раз."
 
 # ch/alexis/events.rpy:5987
@@ -18801,7 +18797,7 @@ translate russian alexis_conv_leave_0bdb37ff:
     mike.say "Я перегнул палку. У меня нет права указывать, с кем тебе можно разговаривать, а с кем нельзя."
 
 # ch/alexis/events.rpy:6006
-translate russian alexis_conv_leave_a11342eb:
+translate russian alexis_conv_leave_a85ccbf6:
     alexis.say "Все в порядке, правда... не переживай из-за этого."
 
 # ch/alexis/events.rpy:6007
@@ -18821,7 +18817,7 @@ translate russian alexis_conv_leave_2dc8bf20:
     alexis.say "На самом деле, мне было даже приятно, как ты хотел, чтобы я была только твоей!"
 
 # ch/alexis/events.rpy:6014
-translate russian alexis_conv_leave_7aaaf45f:
+translate russian alexis_conv_leave_e9b2af98:
     mike.say "Ну... наверное, я просто забыл, насколько мне нравится проводить время в твоей компании."
 
 # ch/alexis/events.rpy:6016
@@ -18865,7 +18861,7 @@ translate russian alexis_conv_leave_8993b824:
     "Но я и не ожидал его."
 
 # ch/alexis/events.rpy:6029
-translate russian alexis_conv_leave_18ea4f90:
+translate russian alexis_conv_leave_31a8bd13:
     mike.say "Алексис, я думаю, мне будет лучше, если мы больше не будем видеться… точка."
 
 # ch/alexis/events.rpy:6030
@@ -18925,7 +18921,7 @@ translate russian alexis_conv_cheat_25022472:
     mike.say "На самом деле, я всегда знал, что ты не была верна мне."
 
 # ch/alexis/events.rpy:6055
-translate russian alexis_conv_cheat_967858df:
+translate russian alexis_conv_cheat_1802467c:
     alexis.say "П...подожди, я..."
 
 # ch/alexis/events.rpy:6056
@@ -18965,11 +18961,11 @@ translate russian alexis_conv_cheat_24313f81:
     mike.say "Я всегда знал, что ты изменяешь мне с другими парнями."
 
 # ch/alexis/events.rpy:6066
-translate russian alexis_conv_cheat_6716a273:
+translate russian alexis_conv_cheat_eec98984:
     mike.say "Но то, чего я тебе никогда не говорил, это...я в какой-то степени с этим согласен!"
 
 # ch/alexis/events.rpy:6068
-translate russian alexis_conv_cheat_2efc6a08:
+translate russian alexis_conv_cheat_409d27bc:
     alexis.say "Ты...ты что?!?"
 
 # ch/alexis/events.rpy:6069
@@ -18981,7 +18977,7 @@ translate russian alexis_conv_cheat_db018aff:
     mike.say "Но тебе же нравится трахать парней за моей спиной, верно?"
 
 # ch/alexis/events.rpy:6072
-translate russian alexis_conv_cheat_27d6e5fa:
+translate russian alexis_conv_cheat_0c7f8306:
     alexis.say "Ну...да, наверное."
 
 # ch/alexis/events.rpy:6073
@@ -18993,7 +18989,7 @@ translate russian alexis_conv_cheat_3af9913d:
     mike.say "А знание того, что ты это делаешь, – это моя."
 
 # ch/alexis/events.rpy:6075
-translate russian alexis_conv_cheat_b8c8e060:
+translate russian alexis_conv_cheat_5b57410a:
     mike.say "Я не могу это объяснить!"
 
 # ch/alexis/events.rpy:6077
@@ -19093,7 +19089,7 @@ translate russian alexis_conv_cheat_c8af523d:
     "Алексис молчит некоторое время, вероятно, ошеломленная силой моего ультиматума."
 
 # ch/alexis/events.rpy:6108
-translate russian alexis_conv_cheat_abcd9268:
+translate russian alexis_conv_cheat_61a8205e:
     alexis.say "Хорошо, [lssb_alexis.hero_name()]... Я... кажется, я не осознавала, насколько сильно ты к этому относишься..."
 
 # ch/alexis/events.rpy:6109
@@ -19117,7 +19113,7 @@ translate russian alexis_conv_cheat_7248f2dd:
     mike.say "Я хочу сказать, что нам стоит установить несколько простых правил. И одно из них — не флиртовать с другими, когда мы вместе."
 
 # ch/alexis/events.rpy:6115
-translate russian alexis_conv_cheat_99617cf4:
+translate russian alexis_conv_cheat_47ab8100:
     mike.say "То есть, я имею в виду, никакого флирта с другими людьми... не друг с другом."
 
 # ch/alexis/events.rpy:6116
@@ -19213,7 +19209,7 @@ translate russian alexis_conv_cheat_979e1f9b:
     mike.say "...Я забеспокоился, когда ты так долго собиралась у водопада на пляже."
 
 # ch/alexis/events.rpy:6154
-translate russian alexis_conv_cheat_51c17e5b:
+translate russian alexis_conv_cheat_3acddfc4:
     mike.say "Поэтому я пошел посмотреть, что с тобой... и увидел тебя с этими другими парнями."
 
 # ch/alexis/events.rpy:6156
@@ -19229,7 +19225,7 @@ translate russian alexis_conv_cheat_bdec8057:
     mike.say "...Я забеспокоился, когда ты так долго была в ванной на прошлой неделе."
 
 # ch/alexis/events.rpy:6160
-translate russian alexis_conv_cheat_b7ae5bf0:
+translate russian alexis_conv_cheat_f355551f:
     mike.say "Поэтому я пошел посмотреть, что с тобой... и увидел тебя с этим другим парнем."
 
 # ch/alexis/events.rpy:6161
@@ -19237,7 +19233,7 @@ translate russian alexis_conv_cheat_9dcc76dc:
     "Наступает долгая, тягучая тишина, пока значение моих слов не доходит до Алексис."
 
 # ch/alexis/events.rpy:6163
-translate russian alexis_conv_cheat_504bc8e1:
+translate russian alexis_conv_cheat_720fb8dc:
     alexis.say "[lssb_alexis.hero_name()]... это было не так, как выглядит... я..."
 
 # ch/alexis/events.rpy:6164
@@ -19476,20 +19472,12 @@ translate russian alexis_kiss_me_4f2bf5ca:
 translate russian alexis_kiss_me_5d401998:
     alexis.say "М-м. Что бы я без тебя делала, [lssb_alexis.hero_name()]?"
 
-# ch/alexis/events.rpy:6255
-translate russian alexis_preg_talk_aa84872b:
-    "Можно сказать, что я пришел туда с полностью открытым сердцем, думая, что это просто возможность встретиться с Алексис."
-
-# ch/alexis/events.rpy:6257
-translate russian alexis_preg_talk_29ed9e5d:
-    "Но почти в тот же момент, когда я вижу ее лицо впервые, я понимаю, что на самом деле я попал в довольно серьезную ситуацию."
-
 # ch/alexis/events.rpy:6258
 translate russian alexis_preg_talk_eec0dc68:
     "Она встречает меня выражением лица, которое одновременно отражает боль и видимые усилия, чтобы казаться храброй."
 
 # ch/alexis/events.rpy:6259
-translate russian alexis_preg_talk_f54c686e:
+translate russian alexis_preg_talk_0c20c217:
     mike.say "Привет, Алексис... как дела?"
 
 # ch/alexis/events.rpy:6260
@@ -19553,7 +19541,7 @@ translate russian alexis_preg_talk_4122a2bc:
     "Вес того, что она только что мне сказала, начинает давить на меня, и мне почти хочется сесть рядом с ней из сочувствия."
 
 # ch/alexis/events.rpy:6275
-translate russian alexis_preg_talk_8138028e:
+translate russian alexis_preg_talk_8209170c:
     mike.say "И...что ты хочешь делать?"
 
 # ch/alexis/events.rpy:6276
@@ -19577,7 +19565,7 @@ translate russian alexis_preg_talk_502eb993:
     "И я думаю, хочет ли она действительно услышать мое мнение или она уже приняла решение."
 
 # ch/alexis/events.rpy:6281
-translate russian alexis_preg_talk_e84590b8:
+translate russian alexis_preg_talk_1bf71091:
     mike.say "Вау...это как гром среди ясного неба, Алексис."
 
 # ch/alexis/events.rpy:6282
@@ -19597,7 +19585,7 @@ translate russian alexis_preg_talk_dab469ba:
     alexis.say "Я хочу родить ребенка и вместе воспитывать его, как семья."
 
 # ch/alexis/events.rpy:6287
-translate russian alexis_preg_talk_042c0584:
+translate russian alexis_preg_talk_11329a68:
     alexis.say "Слушай, я знаю, у нас были проблемы в прошлом...я делала вещи, которые глубоко тебя ранили."
 
 # ch/alexis/events.rpy:6288
@@ -19777,7 +19765,7 @@ translate russian alexis_preg_talk_4750c707:
     "Я немного отстраняюсь и замечаю, что она плачет на моих руках."
 
 # ch/alexis/events.rpy:6347
-translate russian alexis_preg_talk_4e4109dc:
+translate russian alexis_preg_talk_b5046b7d:
     mike.say "Алексис, что случилось... почему ты плачешь?"
 
 # ch/alexis/events.rpy:6348
@@ -19789,15 +19777,15 @@ translate russian alexis_preg_talk_166bb2d6:
     alexis.say "Я счастлива, правда я счастлива..."
 
 # ch/alexis/events.rpy:6350
-translate russian alexis_preg_talk_5bf37636:
+translate russian alexis_preg_talk_972bccbe:
     alexis.say "Просто... ты показала мне, что ты действительно меня прощаешь за то, что я сделала с тобой раньше..."
 
 # ch/alexis/events.rpy:6351
-translate russian alexis_preg_talk_d1e482e8:
+translate russian alexis_preg_talk_47e8c96b:
     mike.say "Алексис, конечно, я тебя прощаю... мы были детьми, и ты сейчас – другой человек!"
 
 # ch/alexis/events.rpy:6352
-translate russian alexis_preg_talk_52a73229:
+translate russian alexis_preg_talk_c5abd608:
     alexis.say "Я знаю, я знаю... но раньше я сама в это не верила."
 
 # ch/alexis/events.rpy:6353
@@ -19832,10 +19820,6 @@ translate russian alexis_rape_talk_03f17d30:
 translate russian alexis_rape_talk_35ab7dfa:
     mike.say "Алексис."
 
-# ch/alexis/events.rpy:6368
-translate russian alexis_rape_talk_af01f878:
-    mike.say "Я... я хотел позвонить тебе и поговорить раньше, Алексис."
-
 # ch/alexis/events.rpy:6369
 translate russian alexis_rape_talk_f0262ed9:
     mike.say "Но я боялся, что..."
@@ -19860,12 +19844,8 @@ translate russian alexis_rape_talk_4e254940:
 translate russian alexis_rape_talk_3e6364ee:
     "Алексис смотрит на меня очень долго, в полной тишине, но при этом с открытым ртом."
 
-# ch/alexis/events.rpy:6375
-translate russian alexis_rape_talk_8f503dff:
-    "И когда она наконец заговорила, неверие в ее голосе было очевидным."
-
 # ch/alexis/events.rpy:6376
-translate russian alexis_rape_talk_7e004821:
+translate russian alexis_rape_talk_9f4c133a:
     alexis.say "Как... как ты мог так думать, [lssb_alexis.hero_name()]?!?"
 
 # ch/alexis/events.rpy:6377
@@ -19925,7 +19905,7 @@ translate russian alexis_rape_talk_775a94dd:
     alexis.say "[lssb_alexis.hero_name()]..."
 
 # ch/alexis/events.rpy:6393
-translate russian alexis_rape_talk_e3ac0da5:
+translate russian alexis_rape_talk_4b80a977:
     alexis.say "Ты...плачешь?"
 
 # ch/alexis/events.rpy:6394
@@ -19937,7 +19917,7 @@ translate russian alexis_rape_talk_00fe8c57:
     "Я вижу, что на ее пальце остался след от влаги, что подтверждает ее слова."
 
 # ch/alexis/events.rpy:6396
-translate russian alexis_rape_talk_ad16f19f:
+translate russian alexis_rape_talk_dbe3176f:
     mike.say "Да...кажется, я плачу!"
 
 # ch/alexis/events.rpy:6397
@@ -20021,11 +20001,11 @@ translate russian alexis_rape_talk_67858bc5:
     mike.say "Но все равно, часть меня немного жалеет ее, понимаешь?"
 
 # ch/alexis/events.rpy:6422
-translate russian alexis_rape_talk_a4ca8b3e:
+translate russian alexis_rape_talk_27df9bf1:
     alexis.say "Правда?!"
 
 # ch/alexis/events.rpy:6423
-translate russian alexis_rape_talk_d5d114c2:
+translate russian alexis_rape_talk_7adb8631:
     mike.say "Я знаю, я знаю...это звучит безумно."
 
 # ch/alexis/events.rpy:6424
@@ -20053,7 +20033,7 @@ translate russian alexis_rape_talk_5e841eea:
     mike.say "Может быть, со временем ты сможешь ее простить, Алексис."
 
 # ch/alexis/events.rpy:6430
-translate russian alexis_rape_talk_c06d4bc4:
+translate russian alexis_rape_talk_fce9b2b4:
     alexis.say "Возможно...возможно, нет."
 
 # ch/alexis/events.rpy:6431
@@ -20157,7 +20137,7 @@ translate russian alexis_rape_talk_5f7255a4:
     alexis.say "Мы знакомы очень давно, достаточно долго, чтобы я понимала, когда ты играешь роль."
 
 # ch/alexis/events.rpy:6457
-translate russian alexis_rape_talk_d2431340:
+translate russian alexis_rape_talk_7d3ccbd6:
     mike.say "Эм... да, Алексис."
 
 # ch/alexis/events.rpy:6458
@@ -20169,7 +20149,7 @@ translate russian alexis_rape_talk_f7554db7:
     "Алексис сжимает мою руку, на ее лице появляется болезненная, но искренняя улыбка."
 
 # ch/alexis/events.rpy:6460
-translate russian alexis_rape_talk_9dff6bbc:
+translate russian alexis_rape_talk_049ed883:
     alexis.say "Я... я чувствую, что могла бы быть лучшей подругой, [lssb_alexis.hero_name()]."
 
 # ch/alexis/events.rpy:6461
@@ -20225,15 +20205,15 @@ translate russian alexis_male_ending_06a1312d:
     "Хотя путь к этому был довольно сложным, прошлое было вытащено на свет."
 
 # ch/alexis/events.rpy:6485
-translate russian alexis_male_ending_31ddfbdd:
+translate russian alexis_male_ending_89481d97:
     "Я думаю, что все хорошо... На самом деле, я уверен, что мы справились со всем, что Алексис делала раньше."
 
 # ch/alexis/events.rpy:6486
-translate russian alexis_male_ending_c4c74411:
+translate russian alexis_male_ending_da384f4a:
     "Или... если быть честным... я просто смирился с этим и закрываю на это глаза!"
 
 # ch/alexis/events.rpy:6487
-translate russian alexis_male_ending_86bbc986:
+translate russian alexis_male_ending_a54e4e39:
     "Я знаю в глубине души, что не должен позволять Алексис избежать наказания за ее...проступки."
 
 # ch/alexis/events.rpy:6488
@@ -20313,11 +20293,11 @@ translate russian alexis_male_ending_bf3c8483:
     "В день нашей свадьбы..."
 
 # ch/alexis/events.rpy:6511
-translate russian alexis_male_ending_b23ebdb0:
+translate russian alexis_male_ending_32274286:
     "Нет... нет, она не флиртует со священником!"
 
 # ch/alexis/events.rpy:6512
-translate russian alexis_male_ending_a6255e5d:
+translate russian alexis_male_ending_e31913a2:
     "Я просто накручиваю себя, вот и всё... Наверное, нервы... просто нервы!"
 
 # ch/alexis/events.rpy:6513
@@ -20337,7 +20317,7 @@ translate russian alexis_male_ending_6abbf735:
     mike.say "Эй, Алексис!"
 
 # ch/alexis/events.rpy:6518
-translate russian alexis_male_ending_ac860aa6:
+translate russian alexis_male_ending_282934c1:
     alexis.say "О... да!"
 
 # ch/alexis/events.rpy:6519
@@ -20393,7 +20373,7 @@ translate russian alexis_male_ending_59dd544a:
     "Но потом он усмехается и добавляет еще одну фразу от себя."
 
 # ch/alexis/events.rpy:6533
-translate russian alexis_male_ending_63a898e9:
+translate russian alexis_male_ending_d4980b35:
     "Священник" "Я имею в виду… я мог бы придумать пару причин, конечно."
 
 # ch/alexis/events.rpy:6534
@@ -20421,19 +20401,19 @@ translate russian alexis_male_ending_65137095:
     "Священник" "Вы, [lssb_alexis.hero_name()], берете эту прекрасную и красивую женщину своей женой?"
 
 # ch/alexis/events.rpy:6540
-translate russian alexis_male_ending_6c5d427c:
+translate russian alexis_male_ending_af1870d2:
     mike.say "Д... да!"
 
 # ch/alexis/events.rpy:6541
-translate russian alexis_male_ending_b00abb15:
+translate russian alexis_male_ending_727d5844:
     "Священник" "Хм... я так и думал."
 
 # ch/alexis/events.rpy:6542
-translate russian alexis_male_ending_592b9275:
+translate russian alexis_male_ending_e4bb0b2c:
     "Священник" "А вам, Алексис, действительно хотите взять этого… этого мужчину своим мужем?"
 
 # ch/alexis/events.rpy:6543
-translate russian alexis_male_ending_0a9708c3:
+translate russian alexis_male_ending_86c60559:
     alexis.say "Я… думаю, да!"
 
 # ch/alexis/events.rpy:6544
@@ -20453,7 +20433,7 @@ translate russian alexis_male_ending_0ff23563:
     "Но потом она снова поворачивает свое внимание к священнику."
 
 # ch/alexis/events.rpy:6555
-translate russian alexis_male_ending_961f7c7f:
+translate russian alexis_male_ending_8138b495:
     alexis.say "Эм… простите?"
 
 # ch/alexis/events.rpy:6556
@@ -20461,7 +20441,7 @@ translate russian alexis_male_ending_d3150307:
     "Священник" "Да, Алексис?"
 
 # ch/alexis/events.rpy:6558
-translate russian alexis_male_ending_80e4618c:
+translate russian alexis_male_ending_facea40a:
     alexis.say "Это было... такая прекрасная церемония!"
 
 # ch/alexis/events.rpy:6559
@@ -20665,7 +20645,7 @@ translate russian alexis_male_ending_b642dc5b:
     "Я не знаю, связано ли это с тем, что изменился только один из нас, или мы оба стали другими людьми после окончания школы."
 
 # ch/alexis/events.rpy:6620
-translate russian alexis_male_ending_25e6d095:
+translate russian alexis_male_ending_3de07fe1:
     "Или, может быть, мы просто поняли, что лучшее место для того, чтобы оставить прошлое... ну, в прошлом!"
 
 # ch/alexis/events.rpy:6621
@@ -21001,7 +20981,7 @@ translate russian alexis_male_ending_5bc67562:
     alexis.say "К тому же, знание того, что он \"подставляется\", действительно заставляло его лучше проявлять себя в постели!"
 
 # ch/alexis/events.rpy:6717
-translate russian alexis_male_ending_7b56c8cd:
+translate russian alexis_male_ending_5d08b149:
     alexis.say "Ему это так понравилось, что он почти смог удовлетворить меня самостоятельно...почти."
 
 # ch/alexis/events.rpy:6718
@@ -21121,7 +21101,7 @@ translate russian alexis_male_ending_0b8b59da:
     alexis.say "Просто найдите хорошего парня, который разделяет идею быть \"подкаблучником\"."
 
 # ch/alexis/events.rpy:6751
-translate russian alexis_male_ending_b2dffda5:
+translate russian alexis_male_ending_5fea5c73:
     alexis.say "Вау... так странно оказаться в таком месте и вспоминать, откуда [lssb_alexis.hero_name()] и я родом."
 
 # ch/alexis/events.rpy:6752
@@ -21145,7 +21125,7 @@ translate russian alexis_male_ending_2f11cb3f:
     alexis.say "Но я была уверена, что рано или поздно это должно было произойти."
 
 # ch/alexis/events.rpy:6757
-translate russian alexis_male_ending_c7971e15:
+translate russian alexis_male_ending_138febde:
     alexis.say "Или что я сделаю что-нибудь глупое... как я всегда, кажется, делаю."
 
 # ch/alexis/events.rpy:6758
@@ -21289,7 +21269,7 @@ translate russian alexis_male_ending_82ca565c:
     alexis.say "[lssb_alexis.hero_name()] уходит на работу по утрам, а я делаю то, что должна делать жена."
 
 # ch/alexis/events.rpy:6793
-translate russian alexis_male_ending_f38d9402:
+translate russian alexis_male_ending_1226990a:
     alexis.say "То есть, иногда мне бывает скучно... очень скучно."
 
 # ch/alexis/events.rpy:6794
@@ -21337,11 +21317,11 @@ translate russian alexis_male_ending_d9f46a80:
     alexis.say "И я не могу дождаться, чтобы узнать, что жизнь приготовила для нас впереди."
 
 # ch/alexis/events.rpy:6808
-translate russian alexis_male_ending_a9c07812:
+translate russian alexis_male_ending_edcd9e23:
     alexis.say "Да-да-да... Я знаю, что все будут говорить!"
 
 # ch/alexis/events.rpy:6809
-translate russian alexis_male_ending_2aa09796:
+translate russian alexis_male_ending_d77c1fb3:
     alexis.say "Что я – шлюха, изменщица и мерзавка... все это."
 
 # ch/alexis/events.rpy:6810
@@ -21389,7 +21369,7 @@ translate russian alexis_male_ending_1c075802:
     alexis.say "Может быть, мы бы тогда и не расстались, и остались бы вместе?"
 
 # ch/alexis/events.rpy:6821
-translate russian alexis_male_ending_23f96af1:
+translate russian alexis_male_ending_8962b3aa:
     alexis.say "Я... я действительно люблю его, понимаете?"
 
 # ch/alexis/events.rpy:6822
@@ -21397,7 +21377,7 @@ translate russian alexis_male_ending_0d0a274e:
     alexis.say "Я имею в виду настоящую любовь, со всей романтикой."
 
 # ch/alexis/events.rpy:6823
-translate russian alexis_male_ending_058b3253:
+translate russian alexis_male_ending_e287e346:
     alexis.say "Мне... мне просто нужно больше, чем он может дать мне в физическом плане."
 
 # ch/alexis/events.rpy:6824
@@ -21417,7 +21397,7 @@ translate russian alexis_male_ending_c8d244d9:
     alexis.say "Поэтому, чтобы это произошло, мне приходится скрывать от него некоторые вещи."
 
 # ch/alexis/events.rpy:6828
-translate russian alexis_male_ending_58eec6f1:
+translate russian alexis_male_ending_bf14f920:
     alexis.say "И я не думаю, что причиняю ему боль... по крайней мере, не сильно."
 
 # ch/alexis/events.rpy:6829
@@ -22045,11 +22025,11 @@ translate russian alexis_birthday_date_male_dc6b5479:
     "Уже чувствую, как начинает выступать пот."
 
 # ch/alexis/events.rpy:7041
-translate russian alexis_birthday_date_male_87a939f8:
+translate russian alexis_birthday_date_male_be1ad790:
     mike.say "Более...эстетичные вещи, Алексис."
 
 # ch/alexis/events.rpy:7042
-translate russian alexis_birthday_date_male_9a06511c:
+translate russian alexis_birthday_date_male_59e56503:
     mike.say "Ты понимаешь...те вещи, которые хочется хранить в секрете?"
 
 # ch/alexis/events.rpy:7043
@@ -22073,7 +22053,7 @@ translate russian alexis_birthday_date_male_0781a94b:
     mike.say "\"Художественный\" не значит \"обнаженный\"!"
 
 # ch/alexis/events.rpy:7049
-translate russian alexis_birthday_date_male_2654ce3e:
+translate russian alexis_birthday_date_male_7ac3349a:
     mike.say "Ну... если ты хочешь позировать без одежды?"
 
 # ch/alexis/events.rpy:7050
@@ -22305,7 +22285,7 @@ translate russian alexis_birthday_date_male_af65bbcb:
     mike.say "Все в порядке."
 
 # ch/alexis/events.rpy:7121
-translate russian alexis_birthday_date_male_f855551c:
+translate russian alexis_birthday_date_male_1f7fcd6a:
     mike.say "Итак... начнем?"
 
 # ch/alexis/events.rpy:7122
@@ -22613,7 +22593,7 @@ translate russian alexis_birthday_date_male_2edff2b2:
     alexis.say "Отлично выглядит, [lssb_alexis.hero_name()]."
 
 # ch/alexis/events.rpy:7233
-translate russian alexis_birthday_date_male_c4ed572d:
+translate russian alexis_birthday_date_male_ffe1ed12:
     "Фотограф" "Ох... Я чувствую это."
 
 # ch/alexis/events.rpy:7236
@@ -23949,7 +23929,7 @@ translate russian alexis_repeatable_cinema_event_a7dce2ab:
     "Ответа сразу не следует, поэтому я легонько касаюсь её плеча."
 
 # ch/alexis/fuck.rpy:57
-translate russian alexis_repeatable_cinema_event_cec73fd7:
+translate russian alexis_repeatable_cinema_event_b058b718:
     alexis.say "А... что?"
 
 # ch/alexis/fuck.rpy:58
@@ -23961,7 +23941,7 @@ translate russian alexis_repeatable_cinema_event_5d707f83:
     mike.say "Может, разделим попкорн и газировку?"
 
 # ch/alexis/fuck.rpy:61
-translate russian alexis_repeatable_cinema_event_0275ed9f:
+translate russian alexis_repeatable_cinema_event_b95e7e7f:
     alexis.say "А, точно... мне всё равно, [lssb_alexis.hero_name()]."
 
 # ch/alexis/fuck.rpy:62
@@ -24081,7 +24061,7 @@ translate russian alexis_repeatable_cinema_event_6f664c83:
     alexis.say "Видишь парня в первом ряду, с крутой причёской?"
 
 # ch/alexis/fuck.rpy:114
-translate russian alexis_repeatable_cinema_event_c439c96c:
+translate russian alexis_repeatable_cinema_event_6bb5c1f5:
     mike.say "Эм... да, кажется."
 
 # ch/alexis/fuck.rpy:115
@@ -24169,7 +24149,7 @@ translate russian alexis_repeatable_cinema_event_fa5ffb6d:
     alexis.say "Даже не помню, когда в последний раз ходила в кино на свидании."
 
 # ch/alexis/fuck.rpy:140
-translate russian alexis_repeatable_cinema_event_4cfc7121:
+translate russian alexis_repeatable_cinema_event_0c3d8787:
     alexis.say "Ну... и когда так хорошо проводила время!"
 
 # ch/alexis/fuck.rpy:141
@@ -24281,7 +24261,7 @@ translate russian alexis_repeatable_cinema_event_a2b0d8c1:
     "Я наклоняюсь ближе и говорю достаточно тихо, чтобы сквозь звук фильма услышала только она."
 
 # ch/alexis/fuck.rpy:182
-translate russian alexis_repeatable_cinema_event_2ffa938b:
+translate russian alexis_repeatable_cinema_event_9d1665f4:
     mike.say "Вот так, детка... соси его ласково и медленно."
 
 # ch/alexis/fuck.rpy:183
@@ -24337,7 +24317,7 @@ translate russian alexis_repeatable_cinema_event_39453ba8:
     "Сердце колотится в груди, а кровь шумит в ушах."
 
 # ch/alexis/fuck.rpy:201
-translate russian alexis_repeatable_cinema_event_6645263c:
+translate russian alexis_repeatable_cinema_event_0ecf6fe3:
     "Боже... неужели меня это и правда возбуждает?"
 
 # ch/alexis/fuck.rpy:202
@@ -24389,7 +24369,7 @@ translate russian alexis_repeatable_cinema_event_52033f0d:
     alexis.say "Эй, соня!"
 
 # ch/alexis/fuck.rpy:219
-translate russian alexis_repeatable_cinema_event_eda0c77e:
+translate russian alexis_repeatable_cinema_event_560d1e25:
     mike.say "А... какого чёрта..."
 
 # ch/alexis/fuck.rpy:221
@@ -24397,11 +24377,11 @@ translate russian alexis_repeatable_cinema_event_2af15933:
     "Алексис громко смеётся, очевидно поверив в мою игру."
 
 # ch/alexis/fuck.rpy:222
-translate russian alexis_repeatable_cinema_event_331b836c:
+translate russian alexis_repeatable_cinema_event_7a881e9b:
     alexis.say "Не могу поверить... Ты проспал весь фильм!"
 
 # ch/alexis/fuck.rpy:223
-translate russian alexis_repeatable_cinema_event_39e9c460:
+translate russian alexis_repeatable_cinema_event_f8e551ad:
     mike.say "Ого... видимо, я устал сильнее, чем думал!"
 
 # ch/alexis/fuck.rpy:227
@@ -24425,7 +24405,7 @@ translate russian alexis_repeatable_cinema_event_3fd6cb54:
     "Лишь через пару мгновений понимаю, что это за странный ускользающий вкус."
 
 # ch/alexis/fuck.rpy:232
-translate russian alexis_repeatable_cinema_event_6cf5915b:
+translate russian alexis_repeatable_cinema_event_521f78c1:
     "Его сперма... вот что это."
 
 # ch/alexis/fuck.rpy:233
@@ -24485,7 +24465,7 @@ translate russian alexis_repeatable_cinema_event_7a63cd97:
     "На её языке ещё остался его вкус, и она не пытается это от меня скрыть."
 
 # ch/alexis/fuck.rpy:254
-translate russian alexis_repeatable_cinema_event_98cb1b93:
+translate russian alexis_repeatable_cinema_event_65f6b042:
     "Его сперма... Она открыто делится ею со мной, словно передаёт маленький непристойный трофей."
 
 # ch/alexis/fuck.rpy:255
@@ -24657,7 +24637,7 @@ translate russian alexis_repeatable_beach_event_1cce97ca:
     alexis.say "[lssb_alexis.hero_name()], будь лапочкой?"
 
 # ch/alexis/fuck.rpy:339
-translate russian alexis_repeatable_beach_event_55be26eb:
+translate russian alexis_repeatable_beach_event_325d366f:
     mike.say "А... что ты сказала?"
 
 # ch/alexis/fuck.rpy:340
@@ -24673,7 +24653,7 @@ translate russian alexis_repeatable_beach_event_1aac6331:
     alexis.say "Не окажешь услугу?"
 
 # ch/alexis/fuck.rpy:345
-translate russian alexis_repeatable_beach_event_b47e3de6:
+translate russian alexis_repeatable_beach_event_7bddcf47:
     mike.say "О... да, конечно, Алексис!"
 
 # ch/alexis/fuck.rpy:346
@@ -24793,7 +24773,7 @@ translate russian alexis_repeatable_beach_event_52fc7cab:
     "Вокруг люди либо пытаются спрятаться от солнца, либо жарят себя под его безжалостными лучами."
 
 # ch/alexis/fuck.rpy:395
-translate russian alexis_repeatable_beach_event_aaf7ef28:
+translate russian alexis_repeatable_beach_event_d6b473eb:
     mike.say "Эм, Алексис... тебе не кажется, что здесь слишком жарко?"
 
 # ch/alexis/fuck.rpy:396
@@ -24841,7 +24821,7 @@ translate russian alexis_repeatable_beach_event_3be936f1:
     "Но вдруг я чувствую, как что-то касается моей стороны."
 
 # ch/alexis/fuck.rpy:417
-translate russian alexis_repeatable_beach_event_2061b771:
+translate russian alexis_repeatable_beach_event_aa82e54a:
     mike.say "Эм...что это...?"
 
 # ch/alexis/fuck.rpy:418
@@ -25037,7 +25017,7 @@ translate russian alexis_repeatable_beach_event_9839af3b:
     "Я шепчу так тихо, что слова уносит лишь ветер. Но мне всё равно нужно сказать ей это."
 
 # ch/alexis/fuck.rpy:485
-translate russian alexis_repeatable_beach_event_ab0ddbc2:
+translate russian alexis_repeatable_beach_event_a2ceea56:
     mike.say "Вот так, моя девочка... пусть хорошенько тебя используют."
 
 # ch/alexis/fuck.rpy:486
@@ -25205,7 +25185,7 @@ translate russian alexis_repeatable_beach_event_1956e1be:
     "Я небрежно смотрю на свой телефон, а затем изображаю удивление."
 
 # ch/alexis/fuck.rpy:549
-translate russian alexis_repeatable_beach_event_abe1a849:
+translate russian alexis_repeatable_beach_event_6aecd6ee:
     mike.say "Ого, Алексис... тебя целую вечность не было!"
 
 # ch/alexis/fuck.rpy:551
@@ -25233,11 +25213,11 @@ translate russian alexis_repeatable_beach_event_11bb4b3d:
     "Когда речь зашла о подозрительно отсутствующей бутылке воды, которую она якобы оставила, на лице Алексис появляется выражение явной неловкости."
 
 # ch/alexis/fuck.rpy:559
-translate russian alexis_repeatable_beach_event_7723e925:
+translate russian alexis_repeatable_beach_event_0e014b1e:
     alexis.say "Я... эмм... пришлось выпить ее по дороге обратно... извини!"
 
 # ch/alexis/fuck.rpy:561
-translate russian alexis_repeatable_beach_event_c14363bb:
+translate russian alexis_repeatable_beach_event_4b532f52:
     mike.say "Всё нормально, Алексис... Похоже, тебе это было нужнее, чем мне!"
 
 # ch/alexis/fuck.rpy:562
@@ -25489,7 +25469,7 @@ translate russian alexis_fuck_date_intro_male_f9254c82:
     "Она подходит ближе, когда говорит это, и ее взгляд направлен вниз, на мой член, который я только сейчас замечаю, и он уже болезненно напряжен."
 
 # ch/alexis/fuck.rpy:688
-translate russian alexis_fuck_date_intro_male_ef416cfc:
+translate russian alexis_fuck_date_intro_male_508181fe:
     alexis.say "Ой, смотри...он встал для меня."
 
 # ch/alexis/fuck.rpy:690
@@ -26321,7 +26301,7 @@ translate russian alexis_fuck_date_reverse_aaf91edf:
     alexis.say "О..."
 
 # ch/alexis/fuck.rpy:1009
-translate russian alexis_fuck_date_reverse_ff3c5855:
+translate russian alexis_fuck_date_reverse_9301c541:
     alexis.say "Я...я хочу..."
 
 # ch/alexis/fuck.rpy:1010
@@ -26509,11 +26489,11 @@ translate russian alexis_fuck_date_reverse_fc67d7d7:
     "Только когда она вся дрожит и сдается, ей, кажется, удается говорить."
 
 # ch/alexis/fuck.rpy:1099
-translate russian alexis_fuck_date_reverse_3f36f061:
+translate russian alexis_fuck_date_reverse_b237c06f:
     alexis.say "А...а..."
 
 # ch/alexis/fuck.rpy:1100
-translate russian alexis_fuck_date_reverse_3a998560:
+translate russian alexis_fuck_date_reverse_52674bb6:
     alexis.say "Да...да..."
 
 # ch/alexis/fuck.rpy:1101
@@ -26705,7 +26685,7 @@ translate russian alexis_fuck_date_reverse_2e5d187f:
     alexis.say "Нет..."
 
 # ch/alexis/fuck.rpy:1182
-translate russian alexis_fuck_date_reverse_098d1bc7:
+translate russian alexis_fuck_date_reverse_a128f8d1:
     alexis.say "Нет... не надо..."
 
 # ch/alexis/fuck.rpy:1183
@@ -26841,11 +26821,11 @@ translate russian alexis_fuck_date_doggy_e16bb1af:
     "Алексис тоже поддается этому опыту, постоянно оглядываясь через плечо на меня."
 
 # ch/alexis/fuck.rpy:1236
-translate russian alexis_fuck_date_doggy_6aa0aedd:
+translate russian alexis_fuck_date_doggy_9c752566:
     alexis.say "Эм...ах...да..."
 
 # ch/alexis/fuck.rpy:1237
-translate russian alexis_fuck_date_doggy_434f9d00:
+translate russian alexis_fuck_date_doggy_490b55b4:
     alexis.say "Пожалуйста...пожалуйста, трахай мою задницу!"
 
 # ch/alexis/fuck.rpy:1238
@@ -27113,11 +27093,11 @@ translate russian alexis_fuck_date_doggy_bbdcd305:
     "Я делаю паузу на мгновение, пытаясь заставить себя вытащиться из Алексис, хотя мне и хочется продолжать."
 
 # ch/alexis/fuck.rpy:1339
-translate russian alexis_fuck_date_doggy_da387e95:
+translate russian alexis_fuck_date_doggy_0127cfc0:
     alexis.say "Не останавливайся... не сейчас!"
 
 # ch/alexis/fuck.rpy:1340
-translate russian alexis_fuck_date_doggy_aca047c3:
+translate russian alexis_fuck_date_doggy_45626cb0:
     alexis.say "Я на таблетках... помни!"
 
 # ch/alexis/fuck.rpy:1342
@@ -27137,11 +27117,11 @@ translate russian alexis_fuck_date_doggy_bbdcd305_1:
     "Я делаю паузу на мгновение, пытаясь заставить себя вытащиться из Алексис, хотя мне и хочется продолжать."
 
 # ch/alexis/fuck.rpy:1348
-translate russian alexis_fuck_date_doggy_da387e95_1:
+translate russian alexis_fuck_date_doggy_0127cfc0_1:
     alexis.say "Не останавливайся... не сейчас!"
 
 # ch/alexis/fuck.rpy:1349
-translate russian alexis_fuck_date_doggy_466ed2b1:
+translate russian alexis_fuck_date_doggy_df53ed41:
     alexis.say "Ты...не можешь...забеременить меня еще больше!"
 
 # ch/alexis/fuck.rpy:1351
@@ -27181,7 +27161,7 @@ translate russian alexis_fuck_date_doggy_e5da71a6:
     "Я выпускаю сперму в тот же момент, когда она это произносит, стону от удовольствия, наполняя ее."
 
 # ch/alexis/fuck.rpy:1368
-translate russian alexis_fuck_date_doggy_56119b1e:
+translate russian alexis_fuck_date_doggy_0278f6e0:
     alexis.say "А...ах...черт, черт, черт!"
 
 # ch/alexis/fuck.rpy:1369
@@ -27213,7 +27193,7 @@ translate russian alexis_fuck_date_doggy_ff15e577:
     alexis.say "А...[lssb_alexis.hero_name()]...нет, не надо!"
 
 # ch/alexis/fuck.rpy:1378
-translate russian alexis_fuck_date_doggy_07293e23:
+translate russian alexis_fuck_date_doggy_fc5e6efe:
     alexis.say "Пожалуйста...не надо..."
 
 # ch/alexis/fuck.rpy:1379
@@ -27577,7 +27557,7 @@ translate russian alexis_fuck_date_cowgirl_e4fb1f2d:
     mike.say "Блин..."
 
 # ch/alexis/fuck.rpy:1512
-translate russian alexis_fuck_date_cowgirl_81b087b9:
+translate russian alexis_fuck_date_cowgirl_c8a5d3e8:
     mike.say "Алексис...это так хорошо!"
 
 # ch/alexis/fuck.rpy:1514
@@ -27625,11 +27605,11 @@ translate russian alexis_fuck_date_cowgirl_f086bade:
     alexis.say "М-м-м..."
 
 # ch/alexis/fuck.rpy:1528
-translate russian alexis_fuck_date_cowgirl_63d97f18:
+translate russian alexis_fuck_date_cowgirl_20120d55:
     alexis.say "Я...черт..."
 
 # ch/alexis/fuck.rpy:1529
-translate russian alexis_fuck_date_cowgirl_d3e80207:
+translate russian alexis_fuck_date_cowgirl_47f43b9a:
     alexis.say "Это так хорошо...очень хорошо!"
 
 # ch/alexis/fuck.rpy:1531
@@ -28073,7 +28053,7 @@ translate russian alexis_fuck_date_missionary_79721e0b:
     alexis.say "Ты пытаешься...?"
 
 # ch/alexis/fuck.rpy:1706
-translate russian alexis_fuck_date_missionary_5c7312ea:
+translate russian alexis_fuck_date_missionary_7ab36517:
     alexis.say "О...о...ох!"
 
 # ch/alexis/fuck.rpy:1707
@@ -28249,7 +28229,7 @@ translate russian alexis_fuck_date_missionary_af223e88_1:
     alexis.say "А..."
 
 # ch/alexis/fuck.rpy:1772
-translate russian alexis_fuck_date_missionary_68c6459d:
+translate russian alexis_fuck_date_missionary_5f7480c0:
     alexis.say "Что...чего ты ждешь?"
 
 # ch/alexis/fuck.rpy:1773
@@ -28540,18 +28520,6 @@ translate russian alexis_fuck_date_missionary_13009589:
 translate russian alexis_fuck_date_missionary_74a4b6e5:
     "Но я остаюсь в недоумении, почему она попросила меня сделать это."
 
-# ch/alexis/fuck.rpy:1934
-translate russian alexis_hottub_sex_male_d7e32ea1:
-    "Мне не составило особого труда уговорить Алексис приехать ко мне домой и вместе со мной залезть в гидромассажную ванну."
-
-# ch/alexis/fuck.rpy:1935
-translate russian alexis_hottub_sex_male_65eda122:
-    "На самом деле, она уже некоторое время упоминала, что у меня есть такая ванна, прежде чем я ее пригласил."
-
-# ch/alexis/fuck.rpy:1936
-translate russian alexis_hottub_sex_male_22153da2:
-    "Так что, наверное, она изначально просто ждала приглашения!"
-
 # ch/alexis/fuck.rpy:1937
 translate russian alexis_hottub_sex_male_f2df8120:
     "Но какого чёрта, неужели я упущу такую возможность?"
@@ -28705,7 +28673,7 @@ translate russian alexis_hottub_sex_male_fc101599:
     mike.say "Ох, блин, Алексис..."
 
 # ch/alexis/fuck.rpy:1981
-translate russian alexis_hottub_sex_male_16729896:
+translate russian alexis_hottub_sex_male_b31239cf:
     mike.say "Я... кажется, мне нравится то, что ты делаешь!"
 
 # ch/alexis/fuck.rpy:1982
@@ -28985,7 +28953,7 @@ translate russian alexis_give_valentine_male_d90a22cf:
     mike.say "Спасибо, Алексис."
 
 # ch/alexis/gift.rpy:48
-translate russian alexis_give_valentine_male_d2672c51:
+translate russian alexis_give_valentine_male_456a3a96:
     alexis.say "Я знаю, на День святого Валентина подарки должен дарить мужчина... Но мне просто захотелось что-нибудь тебе подарить, [lssb_alexis.hero_name()]."
 
 # ch/alexis/gift.rpy:50
@@ -28993,7 +28961,7 @@ translate russian alexis_give_valentine_male_726af5be:
     alexis.say "Считай это наградой за хорошее поведение, [lssb_alexis.hero_name()]. Продолжай меня радовать, и получишь ещё."
 
 # ch/alexis/gift.rpy:52
-translate russian alexis_give_valentine_male_df29dfa0:
+translate russian alexis_give_valentine_male_b5e4ee76:
     alexis.say "Я увидела их и подумала о тебе. Такое... со мной бывает нечасто."
 
 # ch/alexis/gift.rpy:54
@@ -29021,7 +28989,7 @@ translate russian alexis_give_christmas_male_e845cc29:
     alexis.say "Счастливого Рождества, [lssb_alexis.hero_name()]."
 
 # ch/alexis/gift.rpy:73
-translate russian alexis_give_christmas_male_3f7442a5:
+translate russian alexis_give_christmas_male_89491503:
     alexis.say "В этом году я хорошо себя вела... в основном. Для тебя, во всяком случае."
 
 # ch/alexis/gift.rpy:75
@@ -29049,7 +29017,7 @@ translate russian alexis_birthday_gift_male_4c581a31:
     alexis.say "То, что ты помнишь о мелочах, значит для меня больше, чем ты думаешь, [lssb_alexis.hero_name()]."
 
 # ch/alexis/gift.rpy:91
-translate russian alexis_birthday_gift_male_802ece4e:
+translate russian alexis_birthday_gift_male_53973e0b:
     alexis.say "Ну, медали за это не жди. Но... для начала сойдёт, пожалуй."
 
 # ch/alexis/gift.rpy:93
@@ -29485,7 +29453,7 @@ translate russian alexis_gift_collar_male_8e994655:
     "Я открываю шкатулку и дарю Алексис широкую и искреннюю улыбку."
 
 # ch/alexis/gift.rpy:268
-translate russian alexis_gift_collar_male_6c9fc4a3:
+translate russian alexis_gift_collar_male_4c3bb8dd:
     mike.say "Алексис...ты сделаешь мне величайшую честь и станешь моей сучкой?"
 
 # ch/alexis/gift.rpy:270
@@ -29609,7 +29577,7 @@ translate russian alexis_gift_collar_male_d56a45df:
     "Я качаю головой и показываю ей укоряющий палец."
 
 # ch/alexis/gift.rpy:311
-translate russian alexis_gift_collar_male_68c165aa:
+translate russian alexis_gift_collar_male_f6ba8b4e:
     mike.say "Нет, нет... давайте сразу определим некоторые правила."
 
 # ch/alexis/gift.rpy:312
@@ -29625,7 +29593,7 @@ translate russian alexis_gift_collar_male_83d44783:
     "Я прищуриваю глаза в ответ, молча требуя ответа от нее."
 
 # ch/alexis/gift.rpy:315
-translate russian alexis_gift_collar_male_deaba506:
+translate russian alexis_gift_collar_male_847fd9f8:
     alexis.say "Д...да... Хозяин..."
 
 # ch/alexis/gift.rpy:316
@@ -29693,7 +29661,7 @@ translate russian alexis_gift_butt_plug_male_c1081a14:
     alexis.say "Ты меня балуешь, [lssb_alexis.hero_name()]."
 
 # ch/alexis/reactions.rpy:2
-translate russian alexis_ice_cream_reaction_male_363bf5b9:
+translate russian alexis_ice_cream_reaction_male_89622bad:
     mike.say "Фух... Сегодня безумно жарко, Алексис! Давай купим мороженого!"
 
 # ch/alexis/reactions.rpy:3
@@ -29709,7 +29677,7 @@ translate russian alexis_ice_cream_reaction_male_c731d4e2:
     "Но Алексис заказывает себе довольно дорогой десерт с длинной ложкой."
 
 # ch/alexis/reactions.rpy:6
-translate russian alexis_ice_cream_reaction_male_13163637:
+translate russian alexis_ice_cream_reaction_male_4d09f27f:
     mike.say "Эм... ты серьезно, Алексис?"
 
 # ch/alexis/reactions.rpy:7
@@ -29733,7 +29701,7 @@ translate russian alexis_ice_cream_reaction_male_4f1918c4:
     "Само мороженое или то, как это ест Алексис!"
 
 # ch/alexis/reactions.rpy:13
-translate russian alexis_ice_cream_reaction_male_4d91879e:
+translate russian alexis_ice_cream_reaction_male_709b851c:
     alexis.say "М-м-м... Я весь день мечтала о чём-нибудь холодном и сладком, [lssb_alexis.hero_name()]!"
 
 # ch/alexis/reactions.rpy:14
@@ -29761,7 +29729,7 @@ translate russian alexis_ice_cream_reaction_male_fda74adb:
     alexis.say "Тебе нравится на меня смотреть, [lssb_alexis.hero_name()]?"
 
 # ch/alexis/reactions.rpy:22
-translate russian alexis_ice_cream_reaction_male_a5976020:
+translate russian alexis_ice_cream_reaction_male_1fef2da4:
     alexis.say "Буду есть так, как скажешь... только прикажи."
 
 # ch/alexis/reactions.rpy:24
@@ -29865,7 +29833,7 @@ translate russian alexis_ask_birthday_male_805a8129:
     alexis.say "Хочу, чтобы меня избаловали донельзя. Для того я и твоя."
 
 # ch/alexis/reactions.rpy:73
-translate russian alexis_ask_birthday_male_12dc2ef0:
+translate russian alexis_ask_birthday_male_ff01eae7:
     alexis.say "Хотя, честно... Уже то, что ты хочешь узнать, много для меня значит."
 
 # ch/alexis/reactions.rpy:78
@@ -29921,7 +29889,7 @@ translate russian alexis_offer_a_drink_male_1bbb6e08:
     alexis.say "Я не люблю, когда меня заставляют ждать."
 
 # ch/alexis/reactions.rpy:103
-translate russian alexis_offer_a_drink_male_448868ed:
+translate russian alexis_offer_a_drink_male_cd03924a:
     alexis.say "А знаешь... сам выбери для меня, [lssb_alexis.hero_name()]. Выпью всё, что дашь мне в руку."
 
 # ch/alexis/reactions.rpy:115
@@ -30009,7 +29977,7 @@ translate russian alexis_slap_ass_happy_male_81058256:
     "Но она также улыбается и подмигивает мне."
 
 # ch/alexis/reactions.rpy:148
-translate russian alexis_slap_ass_happy_male_7850fa47:
+translate russian alexis_slap_ass_happy_male_bd4cd9fe:
     alexis.say "Смело, [lssb_alexis.hero_name()]. Разрешаю... на этот раз."
 
 # ch/alexis/reactions.rpy:149
@@ -30021,7 +29989,7 @@ translate russian alexis_slap_ass_happy_male_79406ab9:
     "Она ухмыляется, полностью владея ситуацией. И я понимаю: подмигивание было разрешением, а не капитуляцией."
 
 # ch/alexis/reactions.rpy:152
-translate russian alexis_slap_ass_happy_male_95c7f219:
+translate russian alexis_slap_ass_happy_male_a634cb59:
     alexis.say "М-м-м... Ещё раз, [lssb_alexis.hero_name()]. Сильнее."
 
 # ch/alexis/reactions.rpy:153
@@ -30165,7 +30133,7 @@ translate russian alexis_breakup_male_ac15ce4e:
     "На мгновение мне кажется, что Алексис сейчас расплачется."
 
 # ch/alexis/reactions.rpy:201
-translate russian alexis_breakup_male_9ab6ba14:
+translate russian alexis_breakup_male_f2a6e787:
     alexis.say "Ты... бросаешь МЕНЯ?"
 
 # ch/alexis/reactions.rpy:202
@@ -30277,7 +30245,7 @@ translate russian alexis_go_steady_intro_male_dd57a271:
     mike.say "Может быть, мы можем сказать, что встречаемся?"
 
 # ch/alexis/reactions.rpy:235
-translate russian alexis_go_steady_intro_male_1fa7391f:
+translate russian alexis_go_steady_intro_male_b8fdc25f:
     mike.say "У нас ведь будет ребёнок, Алексис."
 
 # ch/alexis/reactions.rpy:236
@@ -30289,7 +30257,7 @@ translate russian alexis_go_steady_yes_male_20d35363:
     alexis.say "Конечно, [lssb_alexis.hero_name()]!"
 
 # ch/alexis/reactions.rpy:241
-translate russian alexis_go_steady_yes_male_ca745faf:
+translate russian alexis_go_steady_yes_male_9766ebda:
     alexis.say "Я имею в виду... я как-то думала, что мы уже и так вместе..."
 
 # ch/alexis/reactions.rpy:242
@@ -30305,7 +30273,7 @@ translate russian alexis_go_steady_yes_male_b14eccc6:
     alexis.say "Хорошо. Значит, уже знаешь, кто именно всем здесь заправляет."
 
 # ch/alexis/reactions.rpy:247
-translate russian alexis_go_steady_yes_male_b32bd8ea:
+translate russian alexis_go_steady_yes_male_a44cb752:
     alexis.say "Постоянная девушка, единственная, твоя... Называй как хочешь, [lssb_alexis.hero_name()]."
 
 # ch/alexis/reactions.rpy:248
@@ -30409,7 +30377,7 @@ translate russian alexis_pet_happy_male_aaf91edf:
     alexis.say "О..."
 
 # ch/alexis/reactions.rpy:293
-translate russian alexis_pet_happy_male_5df80ce4:
+translate russian alexis_pet_happy_male_44a25887:
     alexis.say "Ты...ты никогда раньше так не делал, [lssb_alexis.hero_name()]!"
 
 # ch/alexis/reactions.rpy:294
@@ -30421,7 +30389,7 @@ translate russian alexis_pet_happy_male_aaf91edf_1:
     alexis.say "Ох..."
 
 # ch/alexis/reactions.rpy:297
-translate russian alexis_pet_happy_male_5df80ce4_1:
+translate russian alexis_pet_happy_male_44a25887_1:
     alexis.say "Ты... ты раньше никогда так не делал, [lssb_alexis.hero_name()]!"
 
 # ch/alexis/reactions.rpy:298
@@ -30429,7 +30397,7 @@ translate russian alexis_pet_happy_male_f088a6ab:
     alexis.say "Но мне стало так приятно и тепло внутри!"
 
 # ch/alexis/reactions.rpy:302
-translate russian alexis_pet_annoyed_male_edfed464:
+translate russian alexis_pet_annoyed_male_9cbd98d4:
     alexis.say "П-подожди минутку, [lssb_alexis.hero_name()]!"
 
 # ch/alexis/reactions.rpy:303
@@ -30441,7 +30409,7 @@ translate russian alexis_pet_annoyed_male_baf4c929:
     alexis.say "С какого момента ты начал гладить меня по голове, как собачку?!?"
 
 # ch/alexis/reactions.rpy:306
-translate russian alexis_pet_annoyed_male_fe3513e0:
+translate russian alexis_pet_annoyed_male_e5286d0c:
     alexis.say "Я вообще-то не твой питомец, [lssb_alexis.hero_name()]."
 
 # ch/alexis/reactions.rpy:307
@@ -30597,7 +30565,7 @@ translate russian alexis_piercing_head_reaction_male_3a2b42df:
     alexis.say "Только скажи когда, и я встану на колени и покажу тебе, [lssb_alexis.hero_name()]."
 
 # ch/alexis/reactions.rpy:382
-translate russian alexis_piercing_nose_reaction_male_b358456a:
+translate russian alexis_piercing_nose_reaction_male_5f43e00a:
     alexis.say "Хм... Я действительно не была уверена насчет этого."
 
 # ch/alexis/reactions.rpy:383
@@ -30617,11 +30585,11 @@ translate russian alexis_movie_disliked_reaction_male_838b6b82:
     alexis.say "Ну вот, два часа моей жизни я больше никогда не верну!"
 
 # ch/alexis/reactions.rpy:392
-translate russian alexis_movie_disliked_reaction_male_989743be:
+translate russian alexis_movie_disliked_reaction_male_7d3baf70:
     alexis.say "Хотя... Время, потраченное впустую с тобой, наверное, не совсем впустую, [lssb_alexis.hero_name()]."
 
 # ch/alexis/reactions.rpy:396
-translate russian alexis_movie_indifferent_reaction_male_b67266f5:
+translate russian alexis_movie_indifferent_reaction_male_638d4f55:
     alexis.say "Фу... разве не считаешь, что скучный фильм – это еще хуже, чем плохой?"
 
 # ch/alexis/reactions.rpy:398
@@ -31085,7 +31053,7 @@ translate russian alexis_talk_rape_f2deeb1e:
     "Я стараюсь изо всех сил смириться с тем, что Алексис не изменяла мне по своей воле."
 
 # ch/alexis/talk.rpy:29
-translate russian alexis_talk_rape_0ccc5964:
+translate russian alexis_talk_rape_e8485a11:
     "И... чёрт, послушайте меня... Я всё ещё говорю так, словно речь только обо мне!"
 
 # ch/alexis/talk.rpy:30
@@ -31161,7 +31129,7 @@ translate russian alexis_talk_rape_0ca93af8:
     "Я заставляю себя остановиться, делаю глубокий вдох и думаю о том, что говорю."
 
 # ch/alexis/talk.rpy:49
-translate russian alexis_talk_rape_e8a2d018:
+translate russian alexis_talk_rape_a49d6be4:
     mike.say "Алексис... я думаю, тебе стоит обратиться в полицию."
 
 # ch/alexis/talk.rpy:51
@@ -31197,7 +31165,7 @@ translate russian alexis_talk_rape_294a1305:
     "Но я уже сказал, и все, что я могу сделать, – это постараться изо всех сил, чтобы исправить ситуацию."
 
 # ch/alexis/talk.rpy:60
-translate russian alexis_talk_rape_3324d1c1:
+translate russian alexis_talk_rape_a0fc2446:
     mike.say "Я знаю, я знаю... и мне жаль, хорошо?"
 
 # ch/alexis/talk.rpy:61
@@ -31253,7 +31221,7 @@ translate russian alexis_talk_rape_329c414c:
     "Выражение ее лица меняется от уверенности к неуверенности всего за несколько секунд."
 
 # ch/alexis/talk.rpy:76
-translate russian alexis_talk_rape_64c6a04b:
+translate russian alexis_talk_rape_fad3274f:
     alexis.say "Я... я раньше думала, что это потому, что мне было стыдно."
 
 # ch/alexis/talk.rpy:77
@@ -31269,7 +31237,7 @@ translate russian alexis_talk_rape_4eeed154:
     mike.say "А что произошло, когда ты все-таки рассказала мне, Алексис?"
 
 # ch/alexis/talk.rpy:80
-translate russian alexis_talk_rape_b3a8028b:
+translate russian alexis_talk_rape_f615ded7:
     mike.say "Я подумал, что ты врешь или...или что ты шлюха?"
 
 # ch/alexis/talk.rpy:81
@@ -31277,7 +31245,7 @@ translate russian alexis_talk_rape_bb6b86d0:
     "Алексис нервно смеется и качает головой."
 
 # ch/alexis/talk.rpy:82
-translate russian alexis_talk_rape_d108054d:
+translate russian alexis_talk_rape_b9d05772:
     alexis.say "Нет... конечно же, нет!"
 
 # ch/alexis/talk.rpy:83
@@ -31385,7 +31353,7 @@ translate russian alexis_talk_love_male_4b062215:
     "Алексис кладет руки на живот, ее лицо выражает внезапный всплеск эмоций."
 
 # ch/alexis/talk.rpy:119
-translate russian alexis_talk_love_male_8bb71649:
+translate russian alexis_talk_love_male_73326c6f:
     alexis.say "Я... не думала об этом, но такие вещи действительно могут изменить твое представление о мире."
 
 # ch/alexis/talk.rpy:123
@@ -31453,7 +31421,7 @@ translate russian alexis_talk_sex_male_71a5728a:
     alexis.say "Просто ложись и молчи, [lssb_alexis.hero_name()]. Дальше я сама."
 
 # ch/alexis/talk.rpy:163
-translate russian alexis_talk_sex_male_1400bf29:
+translate russian alexis_talk_sex_male_13993c9a:
     alexis.say "Ты можешь использовать это как инструмент... или как оружие."
 
 # ch/alexis/talk.rpy:165
@@ -31497,7 +31465,7 @@ translate russian alexis_talk_politics_male_474bea84:
     alexis.say "Ты в том числе, [lssb_alexis.hero_name()]. И ещё будешь благодарить за эту привилегию."
 
 # ch/alexis/talk.rpy:192
-translate russian alexis_talk_politics_male_5b443af3:
+translate russian alexis_talk_politics_male_0377ff02:
     alexis.say "Мне трудно доверять большинству людей... так как же я могу доверять чертовому политику?"
 
 # ch/alexis/talk.rpy:195
@@ -31569,7 +31537,7 @@ translate russian alexis_talk_travels_male_94b6f4c9:
     alexis.say "Считай это рабочим отпуском, [lssb_alexis.hero_name()]. Тебе — работа, мне — отпуск."
 
 # ch/alexis/talk.rpy:245
-translate russian alexis_talk_travels_male_4fafee91:
+translate russian alexis_talk_travels_male_aedf62bb:
     alexis.say "Мне просто хочется побыть одной где-нибудь в тихом месте... с тем, кто меня любит."
 
 # ch/alexis/talk.rpy:248
@@ -31609,11 +31577,11 @@ translate russian alexis_talk_tv_male_7a5ab1be:
     alexis.say "Будь благодарен, что я вообще пускаю тебя в комнату, [lssb_alexis.hero_name()]."
 
 # ch/alexis/talk.rpy:273
-translate russian alexis_talk_tv_male_3ac61dd2:
+translate russian alexis_talk_tv_male_490b8d32:
     alexis.say "Раньше я всегда смотрела телевизор одна... это все еще напоминает мне о том, как одиноко я чувствовала."
 
 # ch/alexis/talk.rpy:276
-translate russian alexis_talk_tv_male_a308e11a:
+translate russian alexis_talk_tv_male_a4c95c47:
     alexis.say "Я не очень много смотрю телевизор... у меня есть другие дела, которыми можно заняться."
 
 # ch/alexis/talk.rpy:283
@@ -31633,7 +31601,7 @@ translate russian alexis_talk_sports_male_0e5006a4:
     alexis.say "Последнее, чего я хочу, это смотреть, как настоящий футбольный мяч пинают!"
 
 # ch/alexis/talk.rpy:290
-translate russian alexis_talk_sports_male_be2bea29:
+translate russian alexis_talk_sports_male_3081d2b5:
     alexis.say "Ты же знаешь, я не люблю говорить об... этом."
 
 # ch/alexis/talk.rpy:291
@@ -31657,15 +31625,15 @@ translate russian alexis_talk_sports_male_91d05b9a:
     alexis.say "Мне не нравятся виды спорта, и я не хочу об этом говорить!"
 
 # ch/alexis/talk.rpy:302
-translate russian alexis_talk_sports_male_9f5645d5:
+translate russian alexis_talk_sports_male_ad2ca83a:
     alexis.say "Это не та тема, которая мне приятна... пожалуйста, давай поговорим о чем-нибудь другом?"
 
 # ch/alexis/talk.rpy:306
-translate russian alexis_talk_sports_male_401f2179:
+translate russian alexis_talk_sports_male_943ac022:
     alexis.say "Нет... нет, я этого не делала."
 
 # ch/alexis/talk.rpy:307
-translate russian alexis_talk_sports_male_fa5703b8:
+translate russian alexis_talk_sports_male_9fa8fc9b:
     alexis.say "Я не хочу... это то, о чем я не хочу говорить."
 
 # ch/alexis/talk.rpy:314
@@ -31689,7 +31657,7 @@ translate russian alexis_talk_fashion_male_0695b153:
     alexis.say "Я снимаю броню, [lssb_alexis.hero_name()]."
 
 # ch/alexis/talk.rpy:322
-translate russian alexis_talk_fashion_male_29cfc080:
+translate russian alexis_talk_fashion_male_2ed60ab7:
     alexis.say "Теперь буду носить всё, что ты выберешь... и снимать, как только прикажешь."
 
 # ch/alexis/talk.rpy:326
@@ -31701,7 +31669,7 @@ translate russian alexis_talk_fashion_male_63a2e6f6:
     alexis.say "Женщина вроде меня — инвестиция, [lssb_alexis.hero_name()]. Продолжай раскошеливаться, и, может, удержишь меня."
 
 # ch/alexis/talk.rpy:330
-translate russian alexis_talk_fashion_male_67906513:
+translate russian alexis_talk_fashion_male_e3c1a884:
     alexis.say "Я всегда использовала одежду как своего рода броню... как щит."
 
 # ch/alexis/talk.rpy:331
@@ -31773,7 +31741,7 @@ translate russian alexis_talk_people_male_2aa2bfd3:
     alexis.say "Раньше я отталкивала всех, прежде чем они успевали подобраться достаточно близко, чтобы ранить меня."
 
 # ch/alexis/talk.rpy:374
-translate russian alexis_talk_people_male_57c8496f:
+translate russian alexis_talk_people_male_1d4406eb:
     alexis.say "Теперь есть только один человек, которому я подчиняюсь... и я делаю всё, что он скажет."
 
 # ch/alexis/talk.rpy:378
@@ -31849,7 +31817,7 @@ translate russian alexis_talk_music_male_3d435bc0:
     alexis.say "Включай что нравится, [lssb_alexis.hero_name()]."
 
 # ch/alexis/talk.rpy:426
-translate russian alexis_talk_music_male_371b20af:
+translate russian alexis_talk_music_male_80be134c:
     alexis.say "А если велишь станцевать для тебя, что ж... я и это сделаю."
 
 # ch/alexis/talk.rpy:429
@@ -31905,7 +31873,7 @@ translate russian alexis_talk_birthday_male_ed774b37:
     alexis.say "Это лучший подарок, который я только могла себе представить."
 
 # ch/alexis/talk.rpy:463
-translate russian alexis_talk_birthday_male_9ed8809b:
+translate russian alexis_talk_birthday_male_b2376d78:
     alexis.say "Ну... это и всё, чем мой [lssb_alexis.hero_name()] решит меня побаловать."
 
 # ch/alexis/talk.rpy:466
@@ -31969,7 +31937,7 @@ translate russian submissive_interact_alexis_male_e2ceb695:
     alexis.say "Да, [lssb_alexis.hero_name()], наверное!"
 
 # ch/alexis/talk.rpy:548
-translate russian submissive_interact_alexis_male_9bb4f458:
+translate russian submissive_interact_alexis_male_aba40acd:
     mike.say "Ну… я думал, ты могла бы так сказать."
 
 # ch/alexis/talk.rpy:549
@@ -31981,7 +31949,7 @@ translate russian submissive_interact_alexis_male_788b15cc:
     mike.say "Каждый раз, когда ты меня приветствуешь?"
 
 # ch/alexis/talk.rpy:553
-translate russian submissive_interact_alexis_male_d1821396:
+translate russian submissive_interact_alexis_male_aa945511:
     alexis.say "Если… если тебе этого хочется, [lssb_alexis.hero_name()]."
 
 # ch/alexis/talk.rpy:555
@@ -31993,7 +31961,7 @@ translate russian submissive_interact_alexis_male_bb77e8bc:
     alexis.say "Каждый раз, когда я тебя вижу, я буду говорить тебе, как сильно я хочу это!"
 
 # ch/alexis/talk.rpy:560
-translate russian submissive_interact_alexis_male_7f2ee4ad:
+translate russian submissive_interact_alexis_male_1f28a1a0:
     alexis.say "Эм… не думаю, [lssb_alexis.hero_name()]."
 
 # ch/alexis/talk.rpy:561
@@ -32097,7 +32065,7 @@ translate russian alexis_flirty_texts_a1927ac3:
     alexis_nvl "Думаю, нам стоит хорошо повеселиться!"
 
 # ch/alexis/texts.rpy:51
-translate russian alexis_flirty_texts_2f15c56c:
+translate russian alexis_flirty_texts_39775c12:
     alexis_nvl "Ну... скорее думаю о том, что ТЫ захочешь со мной сделать."
 
 # ch/alexis/texts.rpy:52
@@ -32105,7 +32073,7 @@ translate russian alexis_flirty_texts_a0939943:
     alexis_nvl "Только скажи, и я буду готова. Целую."
 
 # ch/alexis/texts.rpy:54
-translate russian alexis_flirty_texts_ec570d5b:
+translate russian alexis_flirty_texts_e99cc7df:
     alexis_nvl "Ну... скорее думаю о том, что заставлю ТЕБЯ со мной сделать."
 
 # ch/alexis/texts.rpy:55
@@ -32141,7 +32109,7 @@ translate russian alexis_flirty_texts_ee1e72be:
     alexis_nvl "Хотя некоторые вещи не меняются, правда, [lssb_alexis.hero_name()]?"
 
 # ch/alexis/texts.rpy:69
-translate russian alexis_flirty_texts_262d880f:
+translate russian alexis_flirty_texts_92027ee6:
     alexis_nvl "О-о... На следующее свидание снова надень ту футболку, ладно?"
 
 # ch/alexis/texts.rpy:70
@@ -32153,7 +32121,7 @@ translate russian alexis_flirty_texts_bf7c2175:
     alexis_nvl "Это действительно подчеркивает твои бицепсы!"
 
 # ch/alexis/texts.rpy:73
-translate russian alexis_flirty_texts_f29d984f:
+translate russian alexis_flirty_texts_704ca718:
     alexis_nvl "Не то чтобы тебе ещё нужно было меня впечатлять... Но я всё равно люблю на тебя смотреть. Целую."
 
 # ch/alexis/texts.rpy:82
@@ -32197,7 +32165,7 @@ translate russian alexis_dirty_texts_ec48ad0a:
     alexis_nvl "Я никогда раньше не была с тобой в ванной..."
 
 # ch/alexis/texts.rpy:98
-translate russian alexis_dirty_texts_a5d6a2ff:
+translate russian alexis_dirty_texts_8e63301a:
     alexis_nvl "Я... то есть, я никогда раньше не трахалась в ванной..."
 
 # ch/alexis/texts.rpy:100
@@ -32213,7 +32181,7 @@ translate russian alexis_dirty_texts_22fb2ab9:
     alexis_nvl "Где я скажу и когда скажу. А ты ещё поблагодаришь за право смотреть. Целую."
 
 # ch/alexis/texts.rpy:106
-translate russian alexis_dirty_texts_1a1206af:
+translate russian alexis_dirty_texts_36baa5be:
     alexis_nvl "Ммм... Мне просто хочется сейчас прижаться к тебе в постели."
 
 # ch/alexis/texts.rpy:107
@@ -32229,7 +32197,7 @@ translate russian alexis_dirty_texts_a9e703a7:
     alexis_nvl "Раньше я не позволяла себе хотеть чего-то настолько простого. Ты это изменил."
 
 # ch/alexis/texts.rpy:114
-translate russian alexis_dirty_texts_48cbae93:
+translate russian alexis_dirty_texts_2caa5c81:
     alexis_nvl "А если между объятиями захочешь мной воспользоваться... что ж, я вся твоя."
 
 # ch/alexis/texts.rpy:116
@@ -32433,7 +32401,7 @@ translate russian alexis_dirty_texts_male_d732da4c:
     alexis_nvl "У меня нет времени на это."
 
 # ch/alexis/texts.rpy:280
-translate russian alexis_dirty_texts_male_0a8fb93f:
+translate russian alexis_dirty_texts_male_766662b2:
     alexis_nvl "Ммм... оно такое короткое и облегающее!"
 
 # ch/alexis/texts.rpy:281
@@ -32473,7 +32441,7 @@ translate russian alexis_dirty_texts_male_15e036a3:
     alexis_nvl "Ты только об этом и думаешь?"
 
 # ch/alexis/texts.rpy:309
-translate russian alexis_dirty_texts_male_26356e02:
+translate russian alexis_dirty_texts_male_4a2d06af:
     alexis_nvl "О... ты напомнила мне об этом!"
 
 # ch/alexis/texts.rpy:310
@@ -32505,11 +32473,11 @@ translate russian alexis_dirty_texts_male_31b8b1be:
     mchero_nvl "Но иногда мысль о том, что ты с другими парнями..."
 
 # ch/alexis/texts.rpy:333
-translate russian alexis_dirty_texts_male_ab285375:
+translate russian alexis_dirty_texts_male_9c97c5a6:
     mchero_nvl "Ну... это меня очень возбуждает!"
 
 # ch/alexis/texts.rpy:335
-translate russian alexis_dirty_texts_male_9a044adf:
+translate russian alexis_dirty_texts_male_2476407c:
     alexis_nvl "Вау... просто вау!"
 
 # ch/alexis/texts.rpy:336

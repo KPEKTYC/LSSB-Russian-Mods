@@ -13,11 +13,11 @@ translate russian negotiate_house_b00ac615:
     bree.say "Ты хочешь, чтобы я торговалась? Я ничего не понимаю в покупке домов!"
 
 # ac/negotiate_house.rpy:37
-translate russian negotiate_house_350eb739:
+translate russian negotiate_house_6f7d9796:
     mike.say "Необязательно всё время говорить о доме. Просто будь... убедительной."
 
 # ac/negotiate_house.rpy:39
-translate russian negotiate_house_cdb8f473:
+translate russian negotiate_house_287d0efd:
     bree.say "О! Ты имеешь в виду... вот такую убедительность?"
 
 # ac/negotiate_house.rpy:41
@@ -44,17 +44,9 @@ translate russian negotiate_house_910d3fd0:
 translate russian negotiate_house_93d06bd4:
     sasha.say "Сам вставай на колени и очаровывай его, придурок."
 
-# ac/negotiate_house.rpy:60
-translate russian negotiate_house_6868fac8:
-    minami.say "Братишка, ты просишь меня соблазнить нашего домовладельца?"
-
 # ac/negotiate_house.rpy:61
 translate russian negotiate_house_aa879efc:
     mike.say "Я прошу тебя поторговаться. А как — решать тебе."
-
-# ac/negotiate_house.rpy:64
-translate russian negotiate_house_1b43f5c9:
-    minami.say "Ну ты и негодник, братишка... Ладно! Предоставь его мне."
 
 # ac/negotiate_house.rpy:68
 translate russian negotiate_house_16bc6be7:
@@ -265,7 +257,7 @@ translate russian call_hire_PI_6a5b9c71:
     "Детектив" "Детективное агентство «Идем». С кем я говорю?"
 
 # ch/gen/events.rpy:9
-translate russian call_hire_PI_196b3e48:
+translate russian call_hire_PI_495f1523:
     mike.say "Эм... Я [heroname]... [hero.family_name]."
 
 # ch/gen/events.rpy:10
@@ -321,7 +313,7 @@ translate russian call_hire_PI_a130bb1e:
     mike.say "Нигде."
 
 # ch/gen/events.rpy:28
-translate russian call_hire_PI_fa77eeab:
+translate russian call_hire_PI_83c41a64:
     "Детектив" "Значит, это не одноклассник... Кто-то постарше?"
 
 # ch/gen/events.rpy:29
@@ -361,7 +353,7 @@ translate russian call_hire_PI_8f006419:
     mike.say "Нет, ничего подобного!"
 
 # ch/gen/events.rpy:38
-translate russian call_hire_PI_2c6dc939:
+translate russian call_hire_PI_c1ec11fc:
     mike.say "Он... Скажем так, он совершил очень плохой поступок."
 
 # ch/gen/events.rpy:39
@@ -381,7 +373,7 @@ translate russian call_hire_PI_31bf6ce7:
     "Детектив" "Если это не слишком деликатный вопрос..."
 
 # ch/gen/events.rpy:43
-translate russian call_hire_PI_6804db07:
+translate russian call_hire_PI_ec998e0c:
     mike.say "Нет... Нет, нет, нет!"
 
 # ch/gen/events.rpy:44
@@ -773,7 +765,7 @@ translate russian date_beach_random_events_dialogues_2_male_c06dcae1:
     mike.say "Но разве можно винить меня за то, что я смотрю..."
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:13
-translate russian date_beach_random_events_dialogues_3_male_1c069be6:
+translate russian date_beach_random_events_dialogues_3_male_69bfe028:
     mike.say "Ха... Ты только посмотри!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:14
@@ -781,7 +773,7 @@ translate russian date_beach_random_events_dialogues_3_male_e312c485:
     mike.say "Столько времени потратили на эти дурацкие песчаные замки!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:18
-translate russian date_beach_random_events_dialogues_4_male_a4636b28:
+translate russian date_beach_random_events_dialogues_4_male_247fa72c:
     mike.say "Ох... Ты только посмотри!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:19
@@ -909,7 +901,7 @@ translate russian date_nightclub_random_events_dialogues_12_male_d022b2a6:
     mike.say "Давай раскошеливайся на новый, и побыстрее!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:119
-translate russian date_nightclub_random_events_dialogues_13_male_467bfac9:
+translate russian date_nightclub_random_events_dialogues_13_male_37159d32:
     mike.say "Эм... Ничего страшного. Наверное, мне не стоило стоять у тебя на пути..."
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:123
@@ -957,7 +949,7 @@ translate russian date_park_random_events_dialogues_6_male_bd90695c:
     mike.say "Для такого наряда нужна упругая задница, а не вот этот мешок киселя!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:161
-translate russian date_park_random_events_dialogues_7_male_33f0a113:
+translate russian date_park_random_events_dialogues_7_male_93c4110e:
     mike.say "Фу... Ну и мерзкий бездельник!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:165
@@ -965,7 +957,7 @@ translate russian date_park_random_events_dialogues_8_male_d148f6d8:
     mike.say "Иногда мне хочется зарабатывать на жизнь чем-нибудь подобным!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:169
-translate russian date_park_random_events_dialogues_9_male_e9be3e80:
+translate russian date_park_random_events_dialogues_9_male_181b2bd2:
     mike.say "Ничего себе... Надеюсь, однажды и я буду так же счастлив, как эти двое!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:173
@@ -981,7 +973,7 @@ translate russian date_park_random_events_dialogues_11_male_545005dd:
     mike.say "Мы же не на пляже."
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:182
-translate russian date_park_random_events_dialogues_12_male_500628bc:
+translate russian date_park_random_events_dialogues_12_male_99893245:
     mike.say "Ого... А вон те девушки совсем без комплексов!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:186
@@ -1049,7 +1041,7 @@ translate russian date_pub_random_events_dialogues_2_male_2da8b3d0:
     mike.say "Теперь я весь твой!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:235
-translate russian date_pub_random_events_dialogues_3_male_303fada2:
+translate russian date_pub_random_events_dialogues_3_male_f98348e9:
     mike.say "Ух... Может, переберёмся куда-нибудь потише?"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:239
@@ -1101,7 +1093,7 @@ translate russian date_pub_random_events_dialogues_15_male_2caae5df:
     mike.say "Я тут вспомнил, что у меня закончились презервативы. Куплю в автомате в мужском туалете."
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:287
-translate russian date_pub_random_events_dialogues_16_male_a68e2ca4:
+translate russian date_pub_random_events_dialogues_16_male_b18dde73:
     mike.say "Ах... Надо только освободить немного места перед следующей кружкой!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:291
@@ -1117,7 +1109,7 @@ translate russian date_order_for_her_dialogues_1_male_3e1189c0:
     date_girl.say "Люблю мужчин, которые не боятся брать всё в свои руки."
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:303
-translate russian date_restaurant_gazpachosoup_dialogues_1_male_ca35039f:
+translate russian date_restaurant_gazpachosoup_dialogues_1_male_bf414743:
     mike.say "Фу... Какого чёрта?!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:304
@@ -1141,7 +1133,7 @@ translate russian date_restaurant_noisykids_dialogues_1_male_6bda3d0c:
     mike.say "Это те придурки решили размножаться, а не я!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:318
-translate russian date_restaurant_noisykids_dialogues_2_male_77aeffd4:
+translate russian date_restaurant_noisykids_dialogues_2_male_95cb7390:
     mike.say "Ой... Ты только посмотри!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:319
@@ -1201,7 +1193,7 @@ translate russian date_restaurant_specialboard_dialogues_1_male_6353ef5a:
     mike.say "Возьму его!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:354
-translate russian date_restaurant_specialboard_dialogues_2_male_f5431ea0:
+translate russian date_restaurant_specialboard_dialogues_2_male_77d132b9:
     mike.say "Эм... Можно мне просто чизбургер с картошкой фри?"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:355
@@ -1209,7 +1201,7 @@ translate russian date_restaurant_specialboard_dialogues_2_male_9688f1f5:
     mike.say "С чизбургером ведь не прогадаешь, правда?"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:359
-translate russian date_restaurant_service_dialogues_1_male_94898518:
+translate russian date_restaurant_service_dialogues_1_male_9b47ffe2:
     mike.say "ИЗВИНИТЕ... ИЗВИНИТЕ... ОФИЦИАНТ!"
 
 # ch/mc/generic_dialogues/dates_dialogues.rpy:363
@@ -1433,7 +1425,7 @@ translate russian date_beach_random_events_2ac2f132:
     "Неподалёку от нас я замечаю компанию девушек, играющих в пляжный волейбол."
 
 # da/date_beach.rpy:238
-translate russian date_beach_random_events_c4133abb:
+translate russian date_beach_random_events_186718a1:
     "Ладно, ладно... Признаюсь: с тех пор, как они попались мне на глаза, я украдкой за ними наблюдаю!"
 
 # da/date_beach.rpy:239
@@ -1743,14 +1735,6 @@ translate russian date_play_boardgame_85e7d728:
 # da/date_home.rpy:367
 translate russian date_play_boardgame_20c4e54a:
     "Я проигрываю."
-
-# da/date_home.rpy:371
-translate russian date_play_boardgame_ce8a4707:
-    "После пикантных фантов [date_girl.name] ещё охотнее выполняет то, что ей говорят."
-
-# da/date_home.rpy:374
-translate russian date_play_boardgame_440c9a44:
-    "После пикантных фантов [date_girl.name] лишь сильнее жаждет командовать."
 
 # da/date_home.rpy:380
 translate russian date_livingroom_8b737371:
@@ -2953,7 +2937,7 @@ translate russian date_pub_random_events_47a9e7bc:
     "Но когда ей это наконец удаётся, она смотрит на меня с явным одобрением."
 
 # da/date_pub.rpy:277
-translate russian date_pub_random_events_499b19c1:
+translate russian date_pub_random_events_d7f300af:
     "[date_girl.name] оглядывает паб, словно хочет смотреть на что угодно, кроме телевизора... и меня."
 
 # da/date_pub.rpy:280

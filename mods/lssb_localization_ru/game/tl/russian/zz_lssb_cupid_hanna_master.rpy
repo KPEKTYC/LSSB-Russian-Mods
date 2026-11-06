@@ -261,13 +261,13 @@ translate russian cupid_hanna_master_event_01_3e1812a9:
 translate russian cupid_hanna_master_event_01_4db5440d:
     mike.say "УБЕРИ ОТ НЕЁ РУКИ!"
 
-translate russian cupid_hanna_master_event_01_e5a5efe5:
+translate russian cupid_hanna_master_event_01_63b3c4da:
     hanna.say "ПОМОГИТЕ... ПОМОГИТЕ!"
 
 translate russian cupid_hanna_master_event_01_a2c741d3:
     hanna.say "НА МЕНЯ НАПАЛИ!"
 
-translate russian cupid_hanna_master_event_01_37b3ab87:
+translate russian cupid_hanna_master_event_01_bd664444:
     master.say "ПОМОГИТЕ... ПОМОГИТЕ!"
 
 translate russian cupid_hanna_master_event_01_43c2461c:
@@ -333,7 +333,7 @@ translate russian cupid_hanna_master_event_01_767e2695:
 translate russian cupid_hanna_master_event_01_47d02916:
     hanna.say "Вот из дюн он на меня и пялился!"
 
-translate russian cupid_hanna_master_event_01_8fef8657:
+translate russian cupid_hanna_master_event_01_8cc94fde:
     mike.say "Да... это он тоже любит."
 
 translate russian cupid_hanna_master_event_01_88768c3a:
@@ -399,7 +399,7 @@ translate russian cupid_hanna_master_event_01_05727143:
 translate russian cupid_hanna_master_event_01_63515e9e:
     master.say "Я не пялился на тебя, дорогая..."
 
-translate russian cupid_hanna_master_event_01_8985492f:
+translate russian cupid_hanna_master_event_01_011e3509:
     master.say "Я... я... восхищался!"
 
 translate russian cupid_hanna_master_event_01_cfb76106:
@@ -495,7 +495,7 @@ translate russian cupid_hanna_master_event_01_2306b4c7:
 translate russian cupid_hanna_master_event_01_e86c8f8f:
     mike.say "А если и нет, ты его уже немного отделала."
 
-translate russian cupid_hanna_master_event_01_b2680cae:
+translate russian cupid_hanna_master_event_01_a814a5e7:
     mike.say "Так что, думаю, он усвоил урок... ПРАВДА?"
 
 translate russian cupid_hanna_master_event_01_efcb9463:
@@ -504,13 +504,13 @@ translate russian cupid_hanna_master_event_01_efcb9463:
 translate russian cupid_hanna_master_event_01_cda3dc55:
     "Он, кажется, понимает намёк и энергично кивает, поднимаясь на ноги."
 
-translate russian cupid_hanna_master_event_01_e5625047:
+translate russian cupid_hanna_master_event_01_7cdac2ab:
     master.say "О да... да!"
 
 translate russian cupid_hanna_master_event_01_65234c12:
     master.say "Прости, что прятался в дюнах, дорогая..."
 
-translate russian cupid_hanna_master_event_01_53c00c97:
+translate russian cupid_hanna_master_event_01_eaefdf34:
     master.say "Понимаю, со стороны это могло выглядеть... нехорошо."
 
 translate russian cupid_hanna_master_event_01_4b5b77cf:
@@ -579,7 +579,7 @@ translate russian cupid_hanna_master_event_01_c3dcf8a3:
 translate russian cupid_hanna_master_event_01_47b6c87b:
     master.say "Проникнуть внутрь и излить своё учение..."
 
-translate russian cupid_hanna_master_event_01_17bff69e:
+translate russian cupid_hanna_master_event_01_b2d9ebab:
     mike.say "ЛАДНО... ладно..."
 
 translate russian cupid_hanna_master_event_01_d6f25e10:
@@ -705,7 +705,7 @@ translate russian cupid_hanna_master_event_01_b5cd4554:
 translate russian cupid_hanna_master_event_01_2612eada:
     "С каждым моим шагом всё настойчивее умоляет помочь."
 
-translate russian cupid_hanna_master_event_01_2b95a5ff:
+translate russian cupid_hanna_master_event_01_538cf8f7:
     master.say "Нет... не уходи..."
 
 translate russian cupid_hanna_master_event_01_a70acbfa:
@@ -792,7 +792,7 @@ translate russian cupid_hanna_master_event_02_413fcd0e:
 translate russian cupid_hanna_master_event_02_5a2205e8:
     "Кивает и с трудом отрывает взгляд от девушек."
 
-translate russian cupid_hanna_master_event_02_5f4516cf:
+translate russian cupid_hanna_master_event_02_eec801ac:
     master.say "Прости... прости..."
 
 translate russian cupid_hanna_master_event_02_77cfb85f:
@@ -819,7 +819,7 @@ translate russian cupid_hanna_master_event_02_2779b9c8:
 translate russian cupid_hanna_master_event_02_bbfe11a3:
     master.say "Конечно, это было сплошное недоразумение, но я даже попал в газеты!"
 
-translate russian cupid_hanna_master_event_02_d0a2cf1f:
+translate russian cupid_hanna_master_event_02_e79c8815:
     "Так... сейчас это уже слишком."
 
 translate russian cupid_hanna_master_event_02_5edc0bed:
@@ -840,7 +840,7 @@ translate russian cupid_hanna_master_event_02_94614f9f:
 translate russian cupid_hanna_master_event_02_a49d3670:
     master.say "Меня устраивает!"
 
-translate russian cupid_hanna_master_event_02_cae0c712:
+translate russian cupid_hanna_master_event_02_80ddd90c:
     master.say "Итак... каков план?"
 
 translate russian cupid_hanna_master_event_02_ca651105:
@@ -873,7 +873,7 @@ translate russian cupid_hanna_master_event_02_de476a49:
 translate russian cupid_hanna_master_event_02_6f9d511b:
     mike.say "Для тебя это раз плюнуть. Или ты полон дерьма?"
 
-translate russian cupid_hanna_master_event_02_3f5388d1:
+translate russian cupid_hanna_master_event_02_8e52379c:
     master.say "Нет-нет, я ем много отрубей!"
 
 translate russian cupid_hanna_master_event_02_e74ca43c:
@@ -954,13 +954,13 @@ translate russian cupid_hanna_master_event_02_bdd4e54f:
 translate russian cupid_hanna_master_event_02_5d8c16ee:
     mike.say "Он пришёл только чтобы..."
 
-translate russian cupid_hanna_master_event_02_40026faf:
+translate russian cupid_hanna_master_event_02_45ad8fb6:
     mike.say "Бросить тебе вызов... и показать, на что способен."
 
 translate russian cupid_hanna_master_event_02_c49ef412:
     "Ханна щурится и испепеляет Мастера взглядом."
 
-translate russian cupid_hanna_master_event_02_8bd96eac:
+translate russian cupid_hanna_master_event_02_b7487a85:
     hanna.say "И что же... позволь узнать... это значит?"
 
 translate russian cupid_hanna_master_event_02_c9e2eca6:
@@ -1221,10 +1221,10 @@ translate russian cupid_hanna_master_event_02_859371c4:
 translate russian cupid_hanna_master_event_02_769e9de5:
     "В конце концов Ханна едва не выпадает из седла."
 
-translate russian cupid_hanna_master_event_02_4613c26e:
+translate russian cupid_hanna_master_event_02_76f94e4b:
     hanna.say "Я... я больше... не могу!" with hpunch
 
-translate russian cupid_hanna_master_event_02_d0e32703:
+translate russian cupid_hanna_master_event_02_e295d5fc:
     master.say "Вот она... моя!"
 
 translate russian cupid_hanna_master_event_02_7c475f2b:
@@ -1473,7 +1473,7 @@ translate russian cupid_hanna_master_event_02_b3228a57:
 translate russian cupid_hanna_master_event_02_a570ba5a:
     "И пока он хрипит, машу Ханне."
 
-translate russian cupid_hanna_master_event_02_0f3728b3:
+translate russian cupid_hanna_master_event_02_be946dca:
     mike.say "А... да..."
 
 translate russian cupid_hanna_master_event_02_e8c8b4b6:
@@ -1626,7 +1626,7 @@ translate russian cupid_hanna_master_event_02_915be63d:
 translate russian cupid_hanna_master_event_02_87766e28:
     hanna.say "Я думала, твой приятель — легендарный мастер боевых искусств?"
 
-translate russian cupid_hanna_master_event_02_d6f284b7:
+translate russian cupid_hanna_master_event_02_2445e3e8:
     mike.say "О, он владеет... ну... сотнями боевых стилей."
 
 translate russian cupid_hanna_master_event_02_23fcbfde:
@@ -1656,7 +1656,7 @@ translate russian cupid_hanna_master_event_02_7792e62e:
 translate russian cupid_hanna_master_event_02_12048019_1:
     hanna.say "НАЧАЛИ!"
 
-translate russian cupid_hanna_master_event_02_154c4feb:
+translate russian cupid_hanna_master_event_02_694dab6e:
     master.say "Я... ОГО!"
 
 translate russian cupid_hanna_master_event_02_b9a7e5f5:
@@ -1671,7 +1671,7 @@ translate russian cupid_hanna_master_event_02_a6be0076:
 translate russian cupid_hanna_master_event_02_f5f40b0e:
     "Уже догадались?"
 
-translate russian cupid_hanna_master_event_02_706b0711:
+translate russian cupid_hanna_master_event_02_c01e63f2:
     "Мастер... кувыркается на полу... с девушкой, по которой сходит с ума?"
 
 translate russian cupid_hanna_master_event_02_f92c3113:
@@ -1773,10 +1773,10 @@ translate russian cupid_hanna_master_event_02_cd162b53:
 translate russian cupid_hanna_master_event_02_7fb4fce7:
     hanna.say "Думаю, у меня есть свободное окошко."
 
-translate russian cupid_hanna_master_event_02_8ee32fe3:
+translate russian cupid_hanna_master_event_02_930dd7d5:
     master.say "Могу я... его заполнить?"
 
-translate russian cupid_hanna_master_event_02_877d9c86:
+translate russian cupid_hanna_master_event_02_fb80291d:
     "Ладно-ладно... дальше я слушать не хочу."
 
 translate russian cupid_hanna_master_event_02_3cd6ffd0:
@@ -1824,10 +1824,10 @@ translate russian cupid_hanna_master_event_02_7e56c9a4:
 translate russian cupid_hanna_master_event_02_67cba52d:
     master.say "А потом, предвижу, мы станем гораздо, гораздо ближе."
 
-translate russian cupid_hanna_master_event_02_2aaa0af6:
+translate russian cupid_hanna_master_event_02_2560c21d:
     master.say "Мы соединимся... в самом физическом смысле слова..."
 
-translate russian cupid_hanna_master_event_02_877d9c86_1:
+translate russian cupid_hanna_master_event_02_fb80291d_1:
     "Ладно-ладно... дальше я слушать не хочу."
 
 translate russian cupid_hanna_master_event_02_3cd6ffd0_1:
@@ -1929,7 +1929,7 @@ translate russian cupid_hanna_master_ending_bd937b62:
 translate russian cupid_hanna_master_ending_95bc16c4:
     "Priest" "Конечно, конечно..."
 
-translate russian cupid_hanna_master_ending_81fd96de:
+translate russian cupid_hanna_master_ending_ac4ef118:
     "Priest" "Но боюсь, они могут показаться немного... нелепыми."
 
 translate russian cupid_hanna_master_ending_c332ca20:
@@ -1956,7 +1956,7 @@ translate russian cupid_hanna_master_ending_609244c3:
 translate russian cupid_hanna_master_ending_d002cb93:
     "Ах да! Под неё Ханна ведёт аэробику в зале."
 
-translate russian cupid_hanna_master_ending_527a5232:
+translate russian cupid_hanna_master_ending_ade11865:
     "Но она ведь не станет... правда?"
 
 translate russian cupid_hanna_master_ending_6d98caf9:

@@ -273,7 +273,7 @@ translate russian harmony_lexi_showdown_1126db6f:
     "Я смотрю с Лекси на Хармони и обратно."
 
 # ch/harems_full/goodevil/events.rpy:206
-translate russian harmony_lexi_showdown_6a5ea7f6:
+translate russian harmony_lexi_showdown_d712c97b:
     "Господи... Похоже, они действительно заставят меня выбирать!"
 
 # ch/harems_full/goodevil/events.rpy:207
@@ -555,206 +555,6 @@ translate russian harmony_lexi_showdown_3007522b:
 # ch/harems_full/goodevil/events.rpy:290
 translate russian harmony_lexi_showdown_50faa996:
     "Но вместо этого одновременно набрасываются на меня."
-
-# ch/harems_full/goodevil/events.rpy:292
-translate russian harmony_lexi_showdown_5e4f7021:
-    "Дальше начинается, пожалуй, самый странный минет в моей жизни."
-
-# ch/harems_full/goodevil/events.rpy:293
-translate russian harmony_lexi_showdown_564edaca:
-    "Хармони и Лекси толкаются, стараясь оттеснить друг друга."
-
-# ch/harems_full/goodevil/events.rpy:294
-translate russian harmony_lexi_showdown_f93194f2:
-    "И при этом обе пытаются добраться до моего члена!"
-
-# ch/harems_full/goodevil/events.rpy:295
-translate russian harmony_lexi_showdown_197490d4:
-    "В конце концов Хармони первой добирается до головки."
-
-# ch/harems_full/goodevil/events.rpy:297
-translate russian harmony_lexi_showdown_0df0e1d3:
-    "И улыбается мне, беря её в рот."
-
-# ch/harems_full/goodevil/events.rpy:298
-translate russian harmony_lexi_showdown_72c7dd1c:
-    "Обычно она не спешит, но сейчас хочет лишь поскорее завладеть им."
-
-# ch/harems_full/goodevil/events.rpy:299
-translate russian harmony_lexi_showdown_e1fd971b:
-    "Не желая уступать, Лекси опускается ниже и начинает сосать мои яйца."
-
-# ch/harems_full/goodevil/events.rpy:300
-translate russian harmony_lexi_showdown_86260bd6:
-    "Как я и говорил, никакой постепенности: они сразу берутся за дело."
-
-# ch/harems_full/goodevil/events.rpy:301
-translate russian harmony_lexi_showdown_103b8edc:
-    "И я тоже оказываюсь втянут в этот стремительный темп."
-
-# ch/harems_full/goodevil/events.rpy:302
-translate russian harmony_lexi_showdown_26826750:
-    "И тут же вспоминаю, насколько трудно будет выбрать победительницу."
-
-# ch/harems_full/goodevil/events.rpy:303
-translate russian harmony_lexi_showdown_5a976314:
-    "Ведь Хармони и Лекси практически равны."
-
-# ch/harems_full/goodevil/events.rpy:304
-translate russian harmony_lexi_showdown_e52c7efe:
-    "У Лекси огромный опыт — она настоящий профессионал."
-
-# ch/harems_full/goodevil/events.rpy:305
-translate russian harmony_lexi_showdown_fa076154:
-    "А годы подавленных желаний превратили Хармони в своего рода сексуального гения!"
-
-# ch/harems_full/goodevil/events.rpy:306
-translate russian harmony_lexi_showdown_4d0c5ec4:
-    "Жаль, что они считают нужным соперничать."
-
-# ch/harems_full/goodevil/events.rpy:307
-translate russian harmony_lexi_showdown_a359185c:
-    "Лаская разные части моего тела, они прекрасно дополняют друг друга."
-
-# ch/harems_full/goodevil/events.rpy:308
-translate russian harmony_lexi_showdown_f73ec817:
-    "Чем больше они увлекаются, тем яснее: мне, возможно, повезёт ещё сильнее."
-
-# ch/harems_full/goodevil/events.rpy:309
-translate russian harmony_lexi_showdown_4e94afaf:
-    "Потому что Хармони и Лекси, похоже, сосредоточились на моём удовольствии."
-
-# ch/harems_full/goodevil/events.rpy:310
-translate russian harmony_lexi_showdown_0bfb2767:
-    "Вместо того чтобы расталкивать друг друга."
-
-# ch/harems_full/goodevil/events.rpy:311
-translate russian harmony_lexi_showdown_937d0203:
-    "Пока Хармони заглатывает мой член, Лекси играет с яйцами."
-
-# ch/harems_full/goodevil/events.rpy:312
-translate russian harmony_lexi_showdown_8655ba61:
-    "И, клянусь, я не раз вижу, как они меняются местами."
-
-# ch/harems_full/goodevil/events.rpy:314
-translate russian harmony_lexi_showdown_dbff0242:
-    "Причём умудряются совсем друг другу не мешать."
-
-# ch/harems_full/goodevil/events.rpy:316
-translate russian harmony_lexi_showdown_d806e2ea:
-    "Мне даже становится трудно запомнить, кто сейчас где."
-
-# ch/harems_full/goodevil/events.rpy:318
-translate russian harmony_lexi_showdown_75a167fc:
-    "Не раз я закрываю глаза, пока мой член во рту у Лекси."
-
-# ch/harems_full/goodevil/events.rpy:320
-translate russian harmony_lexi_showdown_e85ec339:
-    "А открыв их, вижу на её месте Хармони!"
-
-# ch/harems_full/goodevil/events.rpy:321
-translate russian harmony_lexi_showdown_c39e4c44:
-    "Но кто же справляется лучше?"
-
-# ch/harems_full/goodevil/events.rpy:322
-translate russian harmony_lexi_showdown_3724a298:
-    "Я понимаю, что скоро придётся принять решение."
-
-# ch/harems_full/goodevil/events.rpy:323
-translate russian harmony_lexi_showdown_d21f9aaf:
-    "Потому что долго я так не выдержу!"
-
-# ch/harems_full/goodevil/events.rpy:326
-translate russian harmony_lexi_showdown_1d7d1e86:
-    "В следующий раз, когда я смотрю вниз и вижу свой член во рту Хармони, всё решается."
-
-# ch/harems_full/goodevil/events.rpy:328
-translate russian harmony_lexi_showdown_ad94c749:
-    "Я больше не могу сдерживаться, и, похоже, именно она довела меня до этого."
-
-# ch/harems_full/goodevil/events.rpy:329
-translate russian harmony_lexi_showdown_a3c929a3:
-    "Так что просто отпускаю себя и позволяю всему идти своим чередом."
-
-# ch/harems_full/goodevil/events.rpy:332
-translate russian harmony_lexi_showdown_7597281e:
-    "Даже не думаю вынимать член изо рта Хармони."
-
-# ch/harems_full/goodevil/events.rpy:334
-translate russian harmony_lexi_showdown_a85bec1c:
-    "Просто кончаю прямо ей в горло!"
-
-# ch/harems_full/goodevil/events.rpy:336
-translate russian harmony_lexi_showdown_1decd15d:
-    "Глаза Хармони расширяются от неожиданности, но затем она понимает, что происходит."
-
-# ch/harems_full/goodevil/events.rpy:338
-translate russian harmony_lexi_showdown_bdaea30c:
-    "И без заминки проглатывает всё до последней капли."
-
-# ch/harems_full/goodevil/events.rpy:340
-translate russian harmony_lexi_showdown_b2ffa27b:
-    "В самый последний момент я вынимаю член изо рта Хармони."
-
-# ch/harems_full/goodevil/events.rpy:341
-translate russian harmony_lexi_showdown_d5eafa95:
-    "Она ахает, а затем тут же начинает повизгивать."
-
-# ch/harems_full/goodevil/events.rpy:343
-translate russian harmony_lexi_showdown_d2c7df03:
-    "Потому что тёплые липкие струйки спермы покрывают её лицо."
-
-# ch/harems_full/goodevil/events.rpy:345
-translate russian harmony_lexi_showdown_6c2b16c3:
-    "Но Хармони остаётся на коленях, пока я не заканчиваю."
-
-# ch/harems_full/goodevil/events.rpy:347
-translate russian harmony_lexi_showdown_fa37e93d:
-    "В следующий раз, когда я смотрю вниз и вижу свой член во рту Лекси, всё решается."
-
-# ch/harems_full/goodevil/events.rpy:349
-translate russian harmony_lexi_showdown_ad94c749_1:
-    "Я больше не могу сдерживаться, и, похоже, именно она довела меня до этого."
-
-# ch/harems_full/goodevil/events.rpy:350
-translate russian harmony_lexi_showdown_a3c929a3_1:
-    "Так что просто отпускаю себя и позволяю всему идти своим чередом."
-
-# ch/harems_full/goodevil/events.rpy:353
-translate russian harmony_lexi_showdown_4ab6e1e6:
-    "Даже не думаю вынимать член изо рта Лекси."
-
-# ch/harems_full/goodevil/events.rpy:355
-translate russian harmony_lexi_showdown_a85bec1c_1:
-    "Просто кончаю прямо ей в горло!"
-
-# ch/harems_full/goodevil/events.rpy:357
-translate russian harmony_lexi_showdown_1539f007:
-    "Глаза Лекси расширяются от неожиданности, но затем она понимает, что происходит."
-
-# ch/harems_full/goodevil/events.rpy:359
-translate russian harmony_lexi_showdown_bdaea30c_1:
-    "И без заминки проглатывает всё до последней капли."
-
-# ch/harems_full/goodevil/events.rpy:361
-translate russian harmony_lexi_showdown_0a1a767c:
-    "В самый последний момент я вынимаю член изо рта Лекси."
-
-# ch/harems_full/goodevil/events.rpy:362
-translate russian harmony_lexi_showdown_12f22cc3:
-    "Она ахает, а затем тут же расплывается в улыбке."
-
-# ch/harems_full/goodevil/events.rpy:364
-translate russian harmony_lexi_showdown_d2c7df03_1:
-    "Потому что тёплые липкие струйки спермы покрывают её лицо."
-
-# ch/harems_full/goodevil/events.rpy:366
-translate russian harmony_lexi_showdown_fd1e1090:
-    "Но Лекси остаётся на коленях, пока я не заканчиваю."
-
-# ch/harems_full/goodevil/events.rpy:368
-translate russian harmony_lexi_showdown_a58cd2ce:
-    "И по её щекам тянутся полоски спермы."
 
 # ch/harems_full/goodevil/events.rpy:369
 translate russian harmony_lexi_showdown_3ab6bded:
@@ -2325,7 +2125,7 @@ translate russian goodevil_harem_event_01_98508140:
     mike.say "Помогите..."
 
 # ch/harems_full/goodevil/events.rpy:993
-translate russian goodevil_harem_event_01_278a1379:
+translate russian goodevil_harem_event_01_bfcf9f52:
     mike.say "Кажется... я сейчас умру!"
 
 # ch/harems_full/goodevil/events.rpy:1000
@@ -2621,7 +2421,7 @@ translate russian goodevil_harem_event_01_98508140_1:
     mike.say "Помогите..."
 
 # ch/harems_full/goodevil/events.rpy:1116
-translate russian goodevil_harem_event_01_278a1379_1:
+translate russian goodevil_harem_event_01_bfcf9f52_1:
     mike.say "Кажется... я сейчас умру!"
 
 # ch/harems_full/goodevil/events.rpy:1120
@@ -2825,7 +2625,7 @@ translate russian goodevil_harem_event_02_26c60715:
     "Но в интересах у них довольно много общего."
 
 # ch/harems_full/goodevil/events.rpy:1206
-translate russian goodevil_harem_event_02_c6382afc:
+translate russian goodevil_harem_event_02_496b04f8:
     "Ну... особенно в плотских интересах, если вы понимаете, о чём я."
 
 # ch/harems_full/goodevil/events.rpy:1207
@@ -3061,7 +2861,7 @@ translate russian goodevil_harem_event_02_7f4701c3:
     harmony.say "Вот и пришли!"
 
 # ch/harems_full/goodevil/events.rpy:1278
-translate russian goodevil_harem_event_02_7076a70a:
+translate russian goodevil_harem_event_02_e4e5b294:
     lexi.say "Ты... ты про церковь?"
 
 # ch/harems_full/goodevil/events.rpy:1279
@@ -3085,11 +2885,11 @@ translate russian goodevil_harem_event_02_9b6e976a:
     lexi.say "Что?"
 
 # ch/harems_full/goodevil/events.rpy:1285
-translate russian goodevil_harem_event_02_5003d393:
+translate russian goodevil_harem_event_02_d33e04bb:
     lexi.say "Нет... конечно нет!"
 
 # ch/harems_full/goodevil/events.rpy:1286
-translate russian goodevil_harem_event_02_486bf45b:
+translate russian goodevil_harem_event_02_f7e48744:
     lexi.say "Просто... может, заброшенная церковь была бы лучше?"
 
 # ch/harems_full/goodevil/events.rpy:1287
@@ -3165,7 +2965,7 @@ translate russian goodevil_harem_event_02_14d9e458:
     lexi.say "Это вообще-то была твоя идея!"
 
 # ch/harems_full/goodevil/events.rpy:1313
-translate russian goodevil_harem_event_02_30ed7dea:
+translate russian goodevil_harem_event_02_7bb94219:
     mike.say "Эм... нет, не моя."
 
 # ch/harems_full/goodevil/events.rpy:1314
@@ -3761,7 +3561,7 @@ translate russian goodevil_church_threesome_fuck_harmony_012e4dae:
     harmony.say "О-о..."
 
 # ch/harems_full/goodevil/events.rpy:1574
-translate russian goodevil_church_threesome_fuck_harmony_62ead601:
+translate russian goodevil_church_threesome_fuck_harmony_cabae95d:
     harmony.say "Моя... моя попка!"
 
 # ch/harems_full/goodevil/events.rpy:1575
@@ -4445,11 +4245,11 @@ translate russian goodevil_church_threesome_fuck_lexi_1b461ea5_1:
     "Одновременно направляя член к выбранной цели."
 
 # ch/harems_full/goodevil/events.rpy:1839
-translate russian goodevil_church_threesome_fuck_lexi_d94683c6:
+translate russian goodevil_church_threesome_fuck_lexi_f7d657b3:
     lexi.say "П-погоди..."
 
 # ch/harems_full/goodevil/events.rpy:1840
-translate russian goodevil_church_threesome_fuck_lexi_f229936a:
+translate russian goodevil_church_threesome_fuck_lexi_f738443d:
     lexi.say "Это... это моя задница!"
 
 # ch/harems_full/goodevil/events.rpy:1841
@@ -4729,7 +4529,7 @@ translate russian goodevil_threesome_73df5704:
     harmony.say "О боже..."
 
 # ch/harems_full/goodevil/events.rpy:1939
-translate russian goodevil_threesome_782b3384:
+translate russian goodevil_threesome_0644d0b2:
     harmony.say "Как... колоритно!"
 
 # ch/harems_full/goodevil/events.rpy:1940
@@ -6841,11 +6641,11 @@ translate russian goodevil_threesome_mikebedroom_fuck_harmony_253a57b2_1:
     "В этот момент слова Хармони расплываются, теряя всякий смысл."
 
 # ch/harems_full/goodevil/events.rpy:2716
-translate russian goodevil_threesome_mikebedroom_fuck_harmony_19c5a5be:
+translate russian goodevil_threesome_mikebedroom_fuck_harmony_80cc2b22:
     harmony.say "М... моя попка..."
 
 # ch/harems_full/goodevil/events.rpy:2717
-translate russian goodevil_threesome_mikebedroom_fuck_harmony_2d49aa2f:
+translate russian goodevil_threesome_mikebedroom_fuck_harmony_449bc8a1:
     harmony.say "М-м-м... моя... попка..."
 
 # ch/harems_full/goodevil/events.rpy:2718
@@ -7005,7 +6805,7 @@ translate russian goodevil_threesome_mikebedroom_fuck_lexi_bbc0b7b7:
     lexi.say "Ты что..."
 
 # ch/harems_full/goodevil/events.rpy:2772
-translate russian goodevil_threesome_mikebedroom_fuck_lexi_15973977:
+translate russian goodevil_threesome_mikebedroom_fuck_lexi_55d00ba1:
     lexi.say "Ох... ох, чёрт!"
 
 # ch/harems_full/goodevil/events.rpy:2773
@@ -7173,11 +6973,11 @@ translate russian goodevil_threesome_mikebedroom_fuck_lexi_11671a2b:
     lexi.say "Да..."
 
 # ch/harems_full/goodevil/events.rpy:2817
-translate russian goodevil_threesome_mikebedroom_fuck_lexi_e07cbfd0:
+translate russian goodevil_threesome_mikebedroom_fuck_lexi_3431e5dd:
     lexi.say "Е... ещё..."
 
 # ch/harems_full/goodevil/events.rpy:2818
-translate russian goodevil_threesome_mikebedroom_fuck_lexi_287aa7be:
+translate russian goodevil_threesome_mikebedroom_fuck_lexi_8c9540f4:
     lexi.say "Хочу... ещё!"
 
 # ch/harems_full/goodevil/events.rpy:2819
@@ -7397,11 +7197,11 @@ translate russian goodevil_threesome_mikebedroom_fuck_lexi_11671a2b_1:
     lexi.say "Да..."
 
 # ch/harems_full/goodevil/events.rpy:2887
-translate russian goodevil_threesome_mikebedroom_fuck_lexi_e07cbfd0_1:
+translate russian goodevil_threesome_mikebedroom_fuck_lexi_3431e5dd_1:
     lexi.say "Е... ещё..."
 
 # ch/harems_full/goodevil/events.rpy:2888
-translate russian goodevil_threesome_mikebedroom_fuck_lexi_287aa7be_1:
+translate russian goodevil_threesome_mikebedroom_fuck_lexi_8c9540f4_1:
     lexi.say "Хочу... ещё!"
 
 # ch/harems_full/goodevil/events.rpy:2889

@@ -56,14 +56,6 @@ translate russian bree_sasha_convenient_store_e58bba91:
 translate russian bree_sasha_convenient_store_192588c1:
     "И тут [lssb_homepair.bree_name()] поражает меня, начав петь!"
 
-# ch/harems/home/events/home_harem_bree_sasha.rpy:328
-translate russian bree_sasha_convenient_store_0d4b997e:
-    bree.say "Так удобен он один — Convenient Store, наш магазин!"
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:330
-translate russian bree_sasha_convenient_store_0cfaa68d:
-    sasha.say "Больше нечего желать — в Convenient Store идём опять!"
-
 # ch/harems/home/events/home_harem_bree_sasha.rpy:333
 translate russian bree_sasha_convenient_store_61087853:
     "Я недоверчиво качаю головой: Саша тоже подпевает."
@@ -135,22 +127,6 @@ translate russian bree_sasha_convenient_store_debeb194:
 # ch/harems/home/events/home_harem_bree_sasha.rpy:368
 translate russian bree_sasha_convenient_store_927cd272:
     "Девушки смеются, и я не могу не присоединиться."
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:369
-translate russian bree_sasha_convenient_store_dfc30da7:
-    mike.say "Но если без шуток, я люблю это место."
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:370
-translate russian bree_sasha_convenient_store_81d30e2c:
-    mike.say "Не знаю, что бы я без него делал."
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:371
-translate russian bree_sasha_convenient_store_e701f402:
-    bree.say "Мы ВСЕ его любим!"
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:372
-translate russian bree_sasha_convenient_store_2d014720:
-    sasha.say "Да здравствует Convenient Store!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:378
 translate russian home_harem_preg_talk_4d36e307:
@@ -345,7 +321,7 @@ translate russian home_harem_preg_talk_7284bfdc:
     "Но этих нескольких слов хватает, чтобы рассеять путаницу и добраться до сути."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:444
-translate russian home_harem_preg_talk_4845fa02:
+translate russian home_harem_preg_talk_5fa15d6f:
     mike.say "Вы беременны... ОБЕ?!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:446
@@ -353,11 +329,11 @@ translate russian home_harem_preg_talk_2cf919af:
     sasha.say "Именно это я и сказала, [lssb_common.hero_name()]."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:448
-translate russian home_harem_preg_talk_dbeaa24a:
+translate russian home_harem_preg_talk_b9aa3aa7:
     mike.say "Я... я понял..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:449
-translate russian home_harem_preg_talk_5eac1a41:
+translate russian home_harem_preg_talk_5cd03058:
     mike.say "Просто... сразу столько всего нужно осмыслить!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:450
@@ -477,7 +453,7 @@ translate russian home_harem_preg_talk_00d18d93:
     "Но я уже уверен: они понимают, насколько я напуган."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:499
-translate russian home_harem_preg_talk_ff6b8a35:
+translate russian home_harem_preg_talk_7e2242cd:
     mike.say "Эм... правда?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:500
@@ -489,7 +465,7 @@ translate russian home_harem_preg_talk_038a35c4:
     sasha.say "Да, мы как раз обсуждали, что ты за человек."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:504
-translate russian home_harem_preg_talk_8e74a1aa:
+translate russian home_harem_preg_talk_b18359a4:
     mike.say "Что я за... человек?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:506
@@ -549,7 +525,7 @@ translate russian home_harem_preg_talk_5454c616:
     bree.say "Да, кто из нас тебя разгадал?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:535
-translate russian home_harem_preg_talk_278dec5b:
+translate russian home_harem_preg_talk_12c3556f:
     mike.say "Подождите... дайте разобраться."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:536
@@ -673,7 +649,7 @@ translate russian home_harem_preg_talk_9f2abbc5:
     sasha.say "Да, вид у тебя неважный!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:586
-translate russian home_harem_preg_talk_f5608628:
+translate russian home_harem_preg_talk_b000f7aa:
     mike.say "Я... со мной всё будет хорошо."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:587
@@ -825,7 +801,7 @@ translate russian bree_sasha_showdown_4d971c45:
     "[lssb_homepair.bree_name()] морщит нос, словно не понимая, что та имеет в виду."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:663
-translate russian bree_sasha_showdown_50d3b1d5:
+translate russian bree_sasha_showdown_bec00548:
     bree.say "А?.. В смысле?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:666
@@ -841,7 +817,7 @@ translate russian bree_sasha_showdown_d23651a1:
     "Теперь [lssb_homepair.bree_name()] тоже задумчиво опускает взгляд на собственный ошейник."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:672
-translate russian bree_sasha_showdown_97b6f633:
+translate russian bree_sasha_showdown_5db8b70f:
     bree.say "Наверное... да..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:675
@@ -936,10 +912,6 @@ translate russian bree_sasha_showdown_ffa2d27b:
 translate russian bree_sasha_showdown_b90265e1:
     bree.say "А вот чтобы его по очереди трахали твои замызганные подружки из группы — это нормально?!"
 
-# ch/harems/home/events/home_harem_bree_sasha.rpy:713
-translate russian bree_sasha_showdown_6f083e82:
-    mike.say "[lssb_homepair.bree_name()], уверен, она совсем не это имеет в виду."
-
 # ch/harems/home/events/home_harem_bree_sasha.rpy:714
 translate russian bree_sasha_showdown_90735e5d:
     mike.say "Правда, Саша?"
@@ -957,7 +929,7 @@ translate russian bree_sasha_showdown_a44a1078:
     sasha.say "Девушки из группы мне как сёстры."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:720
-translate russian bree_sasha_showdown_ba1ada58:
+translate russian bree_sasha_showdown_64f8e9e5:
     sasha.say "Когда мы приняли тебя в группу, ты стал нам как... ну, наверное, тоже как брат."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:723
@@ -1037,7 +1009,7 @@ translate russian bree_sasha_showdown_e48a906e:
     bree.say "Видимо, [lssb_common.hero_name()] любит меня втрое сильнее, чем тебя!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:760
-translate russian bree_sasha_showdown_4c10f82a:
+translate russian bree_sasha_showdown_a0bd3edf:
     sasha.say "Но... как же всё, что мы пережили с группой?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:761
@@ -1049,7 +1021,7 @@ translate russian bree_sasha_showdown_5e099741:
     "Она на миг замолкает, выглядит по-настоящему убитой горем и добавляет последнее."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:765
-translate russian bree_sasha_showdown_aea394d9:
+translate russian bree_sasha_showdown_3f46c9ae:
     sasha.say "А как же... как же всё, что было только между нами?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:767
@@ -1092,10 +1064,6 @@ translate russian bree_sasha_showdown_1842c937:
 translate russian bree_sasha_showdown_45f4fdd4:
     "Я могу лишь смотреть ей вслед и гадать, правильно ли поступил."
 
-# ch/harems/home/events/home_harem_bree_sasha.rpy:789
-translate russian bree_sasha_showdown_457cf6b4:
-    mike.say "Прости, [lssb_homepair.bree_name()]."
-
 # ch/harems/home/events/home_harem_bree_sasha.rpy:790
 translate russian bree_sasha_showdown_52a0b22a:
     mike.say "Но если нужно выбирать, я выбираю группу."
@@ -1123,10 +1091,6 @@ translate russian bree_sasha_showdown_35467189:
 # ch/harems/home/events/home_harem_bree_sasha.rpy:801
 translate russian bree_sasha_showdown_2aec2f60:
     "Я понимаю, что этим она хочет показать, что [lssb_homepair.bree_name()] её не запугает, но ощущать её поддержку всё равно приятно."
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:802
-translate russian bree_sasha_showdown_f8ef17cd:
-    mike.say "Дело не только в сексе, [lssb_homepair.bree_name()]."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:803
 translate russian bree_sasha_showdown_9edbba35:
@@ -1932,10 +1896,6 @@ translate russian bree_sasha_showdown_9434e86d:
 translate russian bree_sasha_showdown_c754941a:
     bree.say "Думаю, ещё одну твою измену я не вынесу."
 
-# ch/harems/home/events/home_harem_bree_sasha.rpy:1176
-translate russian bree_sasha_showdown_4a17b875:
-    mike.say "[lssb_homepair.bree_name()], обещаю, я больше никогда так не поступлю."
-
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1177
 translate russian bree_sasha_showdown_fa6ae954:
     mike.say "Клянусь, урок я усвоил."
@@ -2148,10 +2108,6 @@ translate russian bree_sasha_showdown_f39fd752:
 translate russian bree_sasha_showdown_be9dbc56:
     bree.say "Ты опять начнёшь мне врать."
 
-# ch/harems/home/events/home_harem_bree_sasha.rpy:1278
-translate russian bree_sasha_showdown_9ddc05dd:
-    mike.say "[lssb_homepair.bree_name()], нет, я..."
-
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1279
 translate russian bree_sasha_showdown_16b18bb5:
     bree.say "[lssb_common.hero_name()], пожалуйста, прекрати."
@@ -2164,10 +2120,6 @@ translate russian bree_sasha_showdown_e0c08d1c:
 translate russian bree_sasha_showdown_87d92f1f:
     bree.say "Я знаю, что никогда тебе не нравилась. Тебе нужен был только секс."
 
-# ch/harems/home/events/home_harem_bree_sasha.rpy:1284
-translate russian bree_sasha_showdown_785b1dfd:
-    mike.say "[lssb_homepair.bree_name()], это неправда."
-
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1286
 translate russian bree_sasha_showdown_81d8d2e2:
     bree.say "...А ощущение именно такое."
@@ -2179,10 +2131,6 @@ translate russian bree_sasha_showdown_c6b24454:
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1290
 translate russian bree_sasha_showdown_32583d1b:
     bree.say "Я, эм... мне пора."
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:1292
-translate russian bree_sasha_showdown_11057cfd:
-    mike.say "Ты даже вещи не взяла. Останься хоть на одну ночь. Давай поговорим, [lssb_homepair.bree_name()]."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1294
 translate russian bree_sasha_showdown_cd7dc679:
@@ -2329,11 +2277,11 @@ translate russian bree_sasha_showdown_2_0e73090b:
     "Она хмурится, пытаясь понять, почему Саша считает, что может требовать к себе такого же отношения, как к моей беременной девушке."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1350
-translate russian bree_sasha_showdown_2_d2d0a9cb:
+translate russian bree_sasha_showdown_2_835656d1:
     mike.say "Эм... может, чуть позже?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1351
-translate russian bree_sasha_showdown_2_33128a07:
+translate russian bree_sasha_showdown_2_fd870b1f:
     mike.say "Когда я... снова начну чувствовать руки?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1354
@@ -2365,7 +2313,7 @@ translate russian bree_sasha_showdown_2_47621840:
     bree.say "Ох, как грубо!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1366
-translate russian bree_sasha_showdown_2_f2db5599:
+translate russian bree_sasha_showdown_2_ea309e34:
     bree.say "Эй... подожди-ка!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1368
@@ -2405,7 +2353,7 @@ translate russian bree_sasha_showdown_2_02b51779:
     "Вот и всё. Эти слова решат мою судьбу..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1382
-translate russian bree_sasha_showdown_2_7a5acf37:
+translate russian bree_sasha_showdown_2_297556f9:
     bree.say "Что... погоди..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:1383
@@ -3945,7 +3893,7 @@ translate russian bree_sasha_male_ending_3ec2b176:
     "Но мы хотели показать, как соединяем свои жизни, как каждый связывает себя с остальными."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2117
-translate russian bree_sasha_male_ending_08eda618:
+translate russian bree_sasha_male_ending_c0564d98:
     "Священник" "Объявляю вас мужем и жёнами! Можете поцеловать... ну... друг друга!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2121
@@ -3953,7 +3901,7 @@ translate russian bree_sasha_male_ending_d2a014bf:
     "[lssb_homepair.bree_name()], Саша и я крепко обнимаемся, прижимаемся телами и соединяем губы в поцелуе на троих."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2122
-translate russian bree_sasha_male_ending_5bd26435:
+translate russian bree_sasha_male_ending_b02d7b4d:
     "Пока девушки... нет, мои жёны — ух ты, к этому ещё придётся привыкнуть!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2123
@@ -3977,7 +3925,7 @@ translate russian bree_sasha_male_ending_a434dadc:
     "Но если оно будет хоть наполовину таким же увлекательным, как путь, приведший нас сюда, его определённо стоит ждать."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2131
-translate russian bree_sasha_male_ending_a72607b6:
+translate russian bree_sasha_male_ending_b0d5eb7a:
     bree.say "Ну, эй... ага... это я, [lssb_common.hero_name()]."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2132
@@ -3989,7 +3937,7 @@ translate russian bree_sasha_male_ending_e5a8823f:
     sasha.say "Как смешно, [lssb_homepair.bree_name()], — прямо его голос!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2134
-translate russian bree_sasha_male_ending_f856d02b:
+translate russian bree_sasha_male_ending_5063a83e:
     bree.say "Э-э... ага. Сейчас я подведу итог всей этой истории и расскажу, что к чему!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2135
@@ -3997,7 +3945,7 @@ translate russian bree_sasha_male_ending_e81ce283:
     bree.say "А потом пукну и скажу, что это Саша и [lssb_homepair.bree_name()], — как я всегда делаю!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2136
-translate russian bree_sasha_male_ending_dc5205aa:
+translate russian bree_sasha_male_ending_b4f33e25:
     sasha.say "Ладно... ладно... это мы. Это Саша."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2137
@@ -4169,7 +4117,7 @@ translate russian bree_sasha_male_ending_b0de3f8e:
     bree.say "Наверное, так было написано на звёздах. Это судьба!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2183
-translate russian bree_sasha_male_ending_1ffeff65:
+translate russian bree_sasha_male_ending_46df6992:
     sasha.say "Уф... Давай просто скажем: это невероятно редкая удача, и нам повезло обрести нечто особенное!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2184
@@ -4808,10 +4756,6 @@ translate russian bree_sasha_bitches_park_1d0303a8:
 translate russian bree_sasha_bitches_park_c656c3f3:
     "И тут я замечаю, что обе подняли руки, прося разрешения заговорить."
 
-# ch/harems/home/events/home_harem_bree_sasha.rpy:2431
-translate russian bree_sasha_bitches_park_10829a6f:
-    mike.say "Хорошо, [lssb_homepair.bree_name()], что ты хочешь сказать?"
-
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2432
 translate russian bree_sasha_bitches_park_c762e0a9:
     bree.say "Теперь, когда мы погуляли и повеселились..."
@@ -4897,7 +4841,7 @@ translate russian bree_sasha_bitches_park_8c0d5a65:
     sasha.say "[lssb_common.hero_name()]... с тобой всё хорошо?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2471
-translate russian bree_sasha_bitches_park_ed8aff32:
+translate russian bree_sasha_bitches_park_2523fa7b:
     sasha.say "Ты немного бледный... Что нам сделать, чтобы тебе стало лучше?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2472
@@ -4993,7 +4937,7 @@ translate russian bree_sasha_bitches_park_86557f10:
     "Вернувшись, я запираю входную дверь и поворачиваюсь к своим двум сучкам."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2514
-translate russian bree_sasha_bitches_park_291ef0e5:
+translate russian bree_sasha_bitches_park_d967462a:
     mike.say "Так... а ТЕПЕР вниз, в мою постель!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2518
@@ -5121,7 +5065,7 @@ translate russian shower_ffm_5f1c7c3d:
     "Как только ягодицы Саши оказываются в пределах досягаемости, пора начинать."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2640
-translate russian shower_ffm_9ab3d037:
+translate russian shower_ffm_0f915e03:
     mike.say "Ах... ах... я сейчас..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2641
@@ -5221,7 +5165,7 @@ translate russian bree_sasha_alternative_creation_a2f40c69:
     "Я думал, здесь уже никогда не будет как прежде, что это место перестанет быть тем домом, которым было."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2681
-translate russian bree_sasha_alternative_creation_c793620a:
+translate russian bree_sasha_alternative_creation_5333b990:
     "Ну... возможно, дело было скорее в отъезде Сэм, чем Райана, но суть вы поняли, да?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2682
@@ -5363,10 +5307,6 @@ translate russian bree_sasha_alternative_creation_c40814d6:
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2745
 translate russian bree_sasha_alternative_creation_0cee7cf9:
     mike.say "Потому что готовить буду я."
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:2746
-translate russian bree_sasha_alternative_creation_7a019036:
-    mike.say "И прежде чем ты спросишь, [lssb_homepair.bree_name()]..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2747
 translate russian bree_sasha_alternative_creation_34ebe9e2:
@@ -5516,10 +5456,6 @@ translate russian bree_sasha_alternative_creation_f92d98b1:
 translate russian bree_sasha_alternative_creation_008207ef:
     bree.say "Может, нам помолиться перед едой или что-нибудь такое?"
 
-# ch/harems/home/events/home_harem_bree_sasha.rpy:2799
-translate russian bree_sasha_alternative_creation_30a56d9b:
-    mike.say "Ты серьёзно, [lssb_homepair.bree_name()]?"
-
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2800
 translate russian bree_sasha_alternative_creation_c13ca304:
     bree.say "Я не знаю!"
@@ -5645,16 +5581,12 @@ translate russian bree_sasha_alternative_creation_a6dfc1d2:
     bree.say "Хотела вести себя спокойно и сдержанно..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2832
-translate russian bree_sasha_alternative_creation_dadf7a24:
+translate russian bree_sasha_alternative_creation_9cdf8b91:
     bree.say "Но твоя еда не просто вкусная — от неё... ОРГАЗМ!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2833
 translate russian bree_sasha_alternative_creation_c8f1606a:
     "[lssb_homepair.bree_name()] ошеломляет меня своим внезапным признанием, и я невольно смотрю на неё во все глаза."
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:2835
-translate russian bree_sasha_alternative_creation_920d450a:
-    mike.say "Ладно, [lssb_homepair.bree_name()], это... очень лестно."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2836
 translate russian bree_sasha_alternative_creation_b121f799:
@@ -5767,10 +5699,6 @@ translate russian bree_sasha_alternative_creation_79be0e1b:
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2869
 translate russian bree_sasha_alternative_creation_9be417b2:
     "Спеша к двери, она словно забывает объяснить нам, что задумала."
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:2871
-translate russian bree_sasha_alternative_creation_3dc7f442:
-    mike.say "[lssb_homepair.bree_name()]..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2872
 translate russian bree_sasha_alternative_creation_9d67979b:
@@ -5888,10 +5816,6 @@ translate russian bree_sasha_alternative_creation_4ed258bf:
 translate russian bree_sasha_alternative_creation_ba37c019:
     "Я рад сменить тему и решаю поддержать то, что говорит [lssb_homepair.bree_name()]."
 
-# ch/harems/home/events/home_harem_bree_sasha.rpy:2918
-translate russian bree_sasha_alternative_creation_fa309da2:
-    mike.say "Ну что, [lssb_homepair.bree_name()]..."
-
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2919
 translate russian bree_sasha_alternative_creation_1c561a60:
     mike.say "Во что играем?"
@@ -5955,10 +5879,6 @@ translate russian bree_sasha_alternative_creation_0f60e9b3:
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2934
 translate russian bree_sasha_alternative_creation_e38df287:
     mike.say "Лучший способ узнать, кто казуал, а кто хардкорщик, — просто сыграть."
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:2935
-translate russian bree_sasha_alternative_creation_61abe35f:
-    mike.say "Давай, [lssb_homepair.bree_name()]..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2936
 translate russian bree_sasha_alternative_creation_eb9a1da7:
@@ -6557,7 +6477,7 @@ translate russian bree_sasha_alternative_creation_0b729914:
     sasha.say "Я думаю..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3165
-translate russian bree_sasha_alternative_creation_45cdd345:
+translate russian bree_sasha_alternative_creation_fecc0351:
     sasha.say "Ах... да к чёрту!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3166
@@ -6625,11 +6545,11 @@ translate russian bree_sasha_alternative_creation_ebd197b1:
     sasha.say "М-м-м..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3189
-translate russian bree_sasha_alternative_creation_91082c7d:
+translate russian bree_sasha_alternative_creation_3a7a6e6e:
     sasha.say "Ох... ох, блядь..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3190
-translate russian bree_sasha_alternative_creation_813347a4:
+translate russian bree_sasha_alternative_creation_9e9e303f:
     sasha.say "Вот так... вот чего я хочу!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3191
@@ -6713,7 +6633,7 @@ translate russian bree_sasha_alternative_creation_a70ca4f1:
     bree.say "Я знаю, что мне не стоит здесь быть."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3219
-translate russian bree_sasha_alternative_creation_09dde880:
+translate russian bree_sasha_alternative_creation_14db098e:
     bree.say "Знаю, что смотреть на вас... неправильно."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3220
@@ -6839,10 +6759,6 @@ translate russian bree_sasha_alternative_creation_b8d58d4c:
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3269
 translate russian bree_sasha_alternative_creation_f82a30be:
     "И к тому времени, как я подхожу, уже торопливо снимает верх."
-
-# ch/harems/home/events/home_harem_bree_sasha.rpy:3271
-translate russian bree_sasha_alternative_creation_0901a235:
-    mike.say "Ты, кажется, немного разгорячилась, [lssb_homepair.bree_name()]..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3272
 translate russian bree_sasha_alternative_creation_68d34bf1:
@@ -7093,7 +7009,7 @@ translate russian bree_sasha_alternative_creation_38fd8860:
     bree.say "Не останавливайся..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3356
-translate russian bree_sasha_alternative_creation_e3f83e3d:
+translate russian bree_sasha_alternative_creation_26b276d0:
     bree.say "Мне... это... так нужно!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3358
@@ -7349,11 +7265,11 @@ translate russian home_harem_pegging_bree_sasha_1e962f17:
     bree.say "Не волнуйся, больно совсем немного, только когда впервые входит."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3927
-translate russian home_harem_pegging_bree_sasha_b71e9425:
+translate russian home_harem_pegging_bree_sasha_d4e33251:
     bree.say "А потом... ну, всё ещё больно, но это уже вроде приятной боли!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3932
-translate russian home_harem_pegging_bree_sasha_efaadf7b:
+translate russian home_harem_pegging_bree_sasha_5e044467:
     "Я ещё не успеваю осмыслить это зловещее заявление, как Саша демонстративно разворачивается и позирует со страпоном, уже... пристёгнутым."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3933
@@ -7501,7 +7417,7 @@ translate russian home_harem_pegging_bree_sasha_6c8fa15c:
     "Я инстинктивно развожу бёдра, позволяя Саше наклониться достаточно близко вместе со своим тараном."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3986
-translate russian home_harem_pegging_bree_sasha_5f4b82a3:
+translate russian home_harem_pegging_bree_sasha_5c0e5470:
     sasha.say "Вот так... ты ведь знаешь, что хочешь этого, [lssb_common.hero_name()]!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3987
@@ -7957,7 +7873,7 @@ translate russian home_harem_bree_sasha_sunscreen_0c17e650:
     bree.say "До попы я сама достаю, так что её уже намазала."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:4197
-translate russian home_harem_bree_sasha_sunscreen_2f45be1b:
+translate russian home_harem_bree_sasha_sunscreen_3067ad2f:
     sasha.say "А... ладно, [lssb_homepair.bree_name()], хорошо."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:4200

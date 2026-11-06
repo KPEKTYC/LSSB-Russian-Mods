@@ -393,7 +393,7 @@ translate russian cupid_angela_bruce_event_01_c56f642b:
 translate russian cupid_angela_bruce_event_01_ae37ddf4:
     "Брюс качает головой и вздыхает."
 
-translate russian cupid_angela_bruce_event_01_ff937f66:
+translate russian cupid_angela_bruce_event_01_0073fd63:
     breesdad "Эх... Надо было сразу понять, что ты тряпка."
 
 translate russian cupid_angela_bruce_event_01_fd2969d7:
@@ -426,20 +426,17 @@ translate russian cupid_angela_bruce_event_01_61f0b38f:
 translate russian cupid_angela_bruce_event_01_21f67f9c:
     "Я на ходу придумываю безобидную ложь в надежде, что она сработает."
 
-translate russian cupid_angela_bruce_event_01_d3ed1909:
+translate russian cupid_angela_bruce_event_01_113bbf28:
     mike.say "Да, он... он тебя искал."
 
 translate russian cupid_angela_bruce_event_01_563c86c0:
     mike.say "А я не знал, что ты дома."
 
-translate russian cupid_angela_bruce_event_01_f946f21a:
+translate russian cupid_angela_bruce_event_01_ff3ee779:
     bree.say "А... ничего страшного, я потом ему позвоню."
 
 translate russian cupid_angela_bruce_event_01_254efcdf:
     bree.say "Просто я боялась, что он на тебя злится."
-
-translate russian cupid_angela_bruce_event_01_65e5469e:
-    mike.say "Эм... нет, [bree.name], он был вроде в хорошем настроении."
 
 translate russian cupid_angela_bruce_event_01_5795222c:
     bree.say "Просто раньше он никогда не разговаривал с тобой по-человечески."
@@ -510,7 +507,7 @@ translate russian cupid_angela_bruce_event_02_68160340:
 translate russian cupid_angela_bruce_event_02_1831f095:
     mike.say "Погоди, это тот самый фокус, которому ты недавно научил Минами?"
 
-translate russian cupid_angela_bruce_event_02_f06ab442:
+translate russian cupid_angela_bruce_event_02_df6f1d93:
     "Dylan" "Эм... возможно."
 
 translate russian cupid_angela_bruce_event_02_a4b21881:
@@ -543,7 +540,7 @@ translate russian cupid_angela_bruce_event_02_89ad7fa6:
 translate russian cupid_angela_bruce_event_02_27102131:
     mike.say "Думаю, вы знаете, зачем я пришёл?"
 
-translate russian cupid_angela_bruce_event_02_48e7d0ec:
+translate russian cupid_angela_bruce_event_02_3bfcefdd:
     mike.say "Ну... из-за той истории с рестораном?"
 
 translate russian cupid_angela_bruce_event_02_aeae7db5:
@@ -693,7 +690,7 @@ translate russian cupid_angela_bruce_event_02_bf80498d:
 translate russian cupid_angela_bruce_event_02_88fb5869:
     "Стоит папе заговорить, как мама будто приходит в себя."
 
-translate russian cupid_angela_bruce_event_02_e65670eb:
+translate russian cupid_angela_bruce_event_02_8ca22aef:
     angela.say "Соседка [hero.name]... Помню..."
 
 translate russian cupid_angela_bruce_event_02_ed0bf5c6:
@@ -801,7 +798,7 @@ translate russian cupid_angela_bruce_event_02_db119c26:
 translate russian cupid_angela_bruce_event_02_04221ec1:
     "Она слегка хмурится и трясёт головой, словно приходя в себя."
 
-translate russian cupid_angela_bruce_event_02_96a113cd:
+translate russian cupid_angela_bruce_event_02_55a90502:
     angela.say "Ресторан... да, конечно, я помню."
 
 translate russian cupid_angela_bruce_event_02_c234e595:
@@ -855,7 +852,7 @@ translate russian cupid_angela_bruce_event_02_ace0e3f7:
 translate russian cupid_angela_bruce_event_02_0b55e09b:
     mike.say "Спасибо, пап..."
 
-translate russian cupid_angela_bruce_event_02_67f37665:
+translate russian cupid_angela_bruce_event_02_4cb0c86c:
     mike.say "Эм... мам..."
 
 translate russian cupid_angela_bruce_event_02_af2ec8b1:
@@ -999,7 +996,7 @@ translate russian cupid_angela_bruce_event_03_96fb2747:
 translate russian cupid_angela_bruce_event_03_22e961fb:
     "Я отступаю, пропуская Брюса в прихожую. Он прижимает к груди коробку."
 
-translate russian cupid_angela_bruce_event_03_ea9a2e71:
+translate russian cupid_angela_bruce_event_03_f96df24f:
     mike.say "Да... конечно..."
 
 translate russian cupid_angela_bruce_event_03_e990afb0:
@@ -1065,13 +1062,13 @@ translate russian cupid_angela_bruce_event_03_7fc18152:
 translate russian cupid_angela_bruce_event_03_cfb17435:
     mike.say "Это Брюс, Минами. Отец [bree.name]."
 
-translate russian cupid_angela_bruce_event_03_c21fdccb:
+translate russian cupid_angela_bruce_event_03_f6c38bef:
     breesdad "Привет, милая... Прости, что без предупреждения."
 
 translate russian cupid_angela_bruce_event_03_2804839c:
     "Минами поворачивается ко мне с обеспокоенным видом."
 
-translate russian cupid_angela_bruce_event_03_82468201:
+translate russian cupid_angela_bruce_event_03_96f5be81:
     minami.say "Это... это из-за мамы и папы?"
 
 translate russian cupid_angela_bruce_event_03_32267f1a:
@@ -1083,14 +1080,11 @@ translate russian cupid_angela_bruce_event_03_70bed16a_1:
 translate russian cupid_angela_bruce_event_03_d56d2192_1:
     bree.say "Папа?"
 
-translate russian cupid_angela_bruce_event_03_c21fdccb_1:
+translate russian cupid_angela_bruce_event_03_f6c38bef_1:
     breesdad "Привет, милая... Прости, что без предупреждения."
 
 translate russian cupid_angela_bruce_event_03_1b489c51:
     bree.say "[hero.name], это из-за твоих родителей?"
-
-translate russian cupid_angela_bruce_event_03_03a83feb:
-    mike.say "Да, [bree.name]."
 
 translate russian cupid_angela_bruce_event_03_70bed16a_2:
     "Затем слышу, как в комнату входит кто-то ещё."
@@ -1107,7 +1101,7 @@ translate russian cupid_angela_bruce_event_03_c8391984:
 translate russian cupid_angela_bruce_event_03_2804839c_1:
     "Минами поворачивается ко мне с обеспокоенным видом."
 
-translate russian cupid_angela_bruce_event_03_82468201_1:
+translate russian cupid_angela_bruce_event_03_96f5be81_1:
     minami.say "Это... это из-за мамы и папы?"
 
 translate russian cupid_angela_bruce_event_03_32267f1a_1:
@@ -1116,7 +1110,7 @@ translate russian cupid_angela_bruce_event_03_32267f1a_1:
 translate russian cupid_angela_bruce_event_03_7fa30dfb:
     "Некоторое время я неловко стою на месте."
 
-translate russian cupid_angela_bruce_event_03_50e5dabc:
+translate russian cupid_angela_bruce_event_03_9337d5a8:
     mike.say "Так... кофе будешь? Или ещё чего?"
 
 translate russian cupid_angela_bruce_event_03_a51fa5f7:
@@ -1143,7 +1137,7 @@ translate russian cupid_angela_bruce_event_03_9add45a3:
 translate russian cupid_angela_bruce_event_03_e1bcd795:
     mike.say "На имя моей мамы!"
 
-translate russian cupid_angela_bruce_event_03_90d721c9:
+translate russian cupid_angela_bruce_event_03_1195c8ec:
     minami.say "Чт... что?"
 
 translate russian cupid_angela_bruce_event_03_e3e7cb30:
@@ -1575,7 +1569,7 @@ translate russian cupid_angela_bruce_event_03_b500d91a:
 translate russian cupid_angela_bruce_event_03_00d0173e:
     mike.say "Он прав, пап. Мы знаем, что ты сделал с мамой."
 
-translate russian cupid_angela_bruce_event_03_dffc993f:
+translate russian cupid_angela_bruce_event_03_b5ed625a:
     angela.say "Дилан... о чём они говорят?!"
 
 translate russian cupid_angela_bruce_event_03_5788a319:
@@ -1710,10 +1704,10 @@ translate russian cupid_angela_bruce_event_04_2851b774:
 translate russian cupid_angela_bruce_event_04_189c6c73:
     "Последнее, что я помню: Брюс выбивает дверь в дом моих родителей."
 
-translate russian cupid_angela_bruce_event_04_39b576b1:
+translate russian cupid_angela_bruce_event_04_df325aa3:
     "Потом мы ворвались внутрь, там была мама... и папа, кажется, тоже."
 
-translate russian cupid_angela_bruce_event_04_abecc668:
+translate russian cupid_angela_bruce_event_04_2e989ee1:
     "И он... зажигалка!"
 
 translate russian cupid_angela_bruce_event_04_c7482c82:
@@ -2088,7 +2082,7 @@ translate russian cupid_angela_bruce_event_04_b5aeaf87:
 translate russian cupid_angela_bruce_event_04_bddf2dc4:
     "Я смотрю на них с искренним удивлением."
 
-translate russian cupid_angela_bruce_event_04_c1bf4975:
+translate russian cupid_angela_bruce_event_04_a065c3d0:
     mike.say "Погодите... вы ничего не видели?"
 
 translate russian cupid_angela_bruce_event_04_0ac222ce:
@@ -2173,9 +2167,6 @@ translate russian cupid_angela_bruce_event_04_9efa96ce:
     mike.say "Что происходит?"
 
 translate russian cupid_angela_bruce_event_04_74ecd2b4:
-    "Я сижу в пикапе Брюса, но не помню, как сюда попал."
-
-translate russian cupid_angela_bruce_event_04_74ecd2b4_1:
     "Я сижу в пикапе Брюса, но не помню, как сюда попал."
 
 translate russian cupid_angela_bruce_event_04_4efc69cd:
@@ -2325,7 +2316,7 @@ translate russian cupid_angela_bruce_event_05_5f9c1091:
 translate russian cupid_angela_bruce_event_05_dcdba761:
     angela.say "Что ты сказал?"
 
-translate russian cupid_angela_bruce_event_05_68b33718:
+translate russian cupid_angela_bruce_event_05_bb9eac6c:
     mike.say "Я сказал... какая жалость."
 
 translate russian cupid_angela_bruce_event_05_8b200031:
@@ -2367,7 +2358,7 @@ translate russian cupid_angela_bruce_event_05_e15ba848:
 translate russian cupid_angela_bruce_event_05_c11c95a8:
     mike.say "Тогда кто это сидит в кресле?"
 
-translate russian cupid_angela_bruce_event_05_0faa9d7d:
+translate russian cupid_angela_bruce_event_05_e1a0c6c2:
     angela.say "Она... она... похожа на меня!"
 
 translate russian cupid_angela_bruce_event_05_5b4dc9bc:
@@ -2382,7 +2373,7 @@ translate russian cupid_angela_bruce_event_05_bc810eb3:
 translate russian cupid_angela_bruce_event_05_2580368c:
     "Вид себя самой под гипнозом, кажется, глубоко её потрясает."
 
-translate russian cupid_angela_bruce_event_05_34b3f6c3:
+translate russian cupid_angela_bruce_event_05_ff82db49:
     angela.say "Я... в тот вечер я была ассистенткой твоего отца..."
 
 translate russian cupid_angela_bruce_event_05_5e8c12aa:
@@ -2391,16 +2382,16 @@ translate russian cupid_angela_bruce_event_05_5e8c12aa:
 translate russian cupid_angela_bruce_event_05_16dc8bf7:
     angela.say "Помню, как сильно любила твоего отца..."
 
-translate russian cupid_angela_bruce_event_05_e78afa02:
+translate russian cupid_angela_bruce_event_05_f771756b:
     angela.say "Или... я любила соседку?"
 
 translate russian cupid_angela_bruce_event_05_c0090edc:
     "Мама отрывает от экрана опустевший взгляд."
 
-translate russian cupid_angela_bruce_event_05_b78e9cd5:
+translate russian cupid_angela_bruce_event_05_82eaf8c9:
     angela.say "Почему... почему все мои воспоминания о колледже обрываются после того вечера?"
 
-translate russian cupid_angela_bruce_event_05_c4da846d:
+translate russian cupid_angela_bruce_event_05_b060deda:
     angela.say "Погоди, я... я уже проходила через это. Вспоминала, а потом забывала."
 
 translate russian cupid_angela_bruce_event_05_3489b8cd:
@@ -2565,7 +2556,7 @@ translate russian cupid_angela_bruce_event_05_e2074f9e:
 translate russian cupid_angela_bruce_event_05_7fd6b399:
     "На мгновение кажется, что мир замер."
 
-translate russian cupid_angela_bruce_event_05_2390cc02:
+translate russian cupid_angela_bruce_event_05_9ce2bc71:
     "А потом... ничего не происходит."
 
 translate russian cupid_angela_bruce_event_05_164d4b3b:
@@ -2574,7 +2565,7 @@ translate russian cupid_angela_bruce_event_05_164d4b3b:
 translate russian cupid_angela_bruce_event_05_8fbfbdec:
     "Но папа удивлён ещё сильнее."
 
-translate russian cupid_angela_bruce_event_05_3aef2ecb:
+translate russian cupid_angela_bruce_event_05_d06cf403:
     "Dylan" "Я... я не понимаю."
 
 translate russian cupid_angela_bruce_event_05_6a7f72e4:
@@ -2628,7 +2619,7 @@ translate russian cupid_angela_bruce_event_05_0b72c3ef:
 translate russian cupid_angela_bruce_event_05_5d2c5f31:
     "Поэтому я хватаю телефон, нахожу номер и звоню."
 
-translate russian cupid_angela_bruce_event_05_0790c2e9:
+translate russian cupid_angela_bruce_event_05_01e3b2f4:
     "Michaels" "Эм... алло?"
 
 translate russian cupid_angela_bruce_event_05_3c1fbc50:
@@ -2673,7 +2664,7 @@ translate russian cupid_angela_bruce_event_05_d98e6ad4:
 translate russian cupid_angela_bruce_event_05_8b3f49d8:
     mike.say "И что это значит?"
 
-translate russian cupid_angela_bruce_event_05_2b3cca5f:
+translate russian cupid_angela_bruce_event_05_03a8e22d:
     angela.say "Не знаю... пока."
 
 translate russian cupid_angela_bruce_event_05_5d4dde1d:
@@ -2694,7 +2685,7 @@ translate russian cupid_angela_bruce_event_05_99bac908:
 translate russian cupid_angela_bruce_event_05_7faaddcd:
     mike.say "Чего ты ждёшь?!"
 
-translate russian cupid_angela_bruce_event_05_28b7c504:
+translate russian cupid_angela_bruce_event_05_414c59c7:
     angela.say "А... да, хорошо!"
 
 translate russian cupid_angela_bruce_event_05_cc31d582:
@@ -2910,7 +2901,7 @@ translate russian cupid_angela_bruce_ending_5e75c5d1:
 translate russian cupid_angela_bruce_ending_2751766b:
     bree.say "Он прав, Анжела. Ты прекрасна."
 
-translate russian cupid_angela_bruce_ending_ee9257f1:
+translate russian cupid_angela_bruce_ending_d4a5f157:
     bree.say "Ой... может, мне теперь звать тебя мамой?"
 
 translate russian cupid_angela_bruce_ending_095eb365:
@@ -2946,7 +2937,7 @@ translate russian cupid_angela_bruce_ending_5a3910da:
 translate russian cupid_angela_bruce_ending_4d865c8a:
     breesdad "Ладно, падре, тебе слово."
 
-translate russian cupid_angela_bruce_ending_c113cae0:
+translate russian cupid_angela_bruce_ending_e522f0ca:
     "Priest" "Эм... да... благодарю."
 
 translate russian cupid_angela_bruce_ending_81a70b3a:
@@ -3078,7 +3069,7 @@ translate russian cupid_angela_bruce_ending_900d6feb:
 translate russian cupid_angela_bruce_ending_9171c45f:
     angela.say "Боже мой, мой мальчик тоже женится!"
 
-translate russian cupid_angela_bruce_ending_aeed2165:
+translate russian cupid_angela_bruce_ending_7012e185:
     mike.say "Ладно-ладно... По-моему, вы придаёте этому слишком большое значение!"
 
 translate russian cupid_angela_bruce_ending_182ccb69:
@@ -3096,7 +3087,7 @@ translate russian cupid_angela_bruce_ending_900d6feb_1:
 translate russian cupid_angela_bruce_ending_fe2a204e:
     angela.say "Боже мой, моя девочка тоже выйдет замуж!"
 
-translate russian cupid_angela_bruce_ending_51445862:
+translate russian cupid_angela_bruce_ending_458b785a:
     minami.say "Ладно-ладно... По-моему, вы придаёте этому слишком большое значение!"
 
 translate russian cupid_angela_bruce_ending_a3e6a983:

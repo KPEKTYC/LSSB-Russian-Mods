@@ -29,7 +29,7 @@ translate russian home_harem_sixsome_intro_3cbbcd6a:
     "А Сэм — та, которую, как я был уверен, я упустил, — не торопится, зная, что я смотрю на неё."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:37
-translate russian home_harem_sixsome_intro_4958fada:
+translate russian home_harem_sixsome_intro_3fd45733:
     mike.say "А... я..."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:38
@@ -45,7 +45,7 @@ translate russian home_harem_sixsome_intro_1eb766a0:
     sasha.say "Я позвала Сэм и Лекси немного повеселиться."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:42
-translate russian home_harem_sixsome_intro_6cb07b9e:
+translate russian home_harem_sixsome_intro_d7b9756c:
     mike.say "Я... я вижу!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:44
@@ -67,10 +67,6 @@ translate russian home_harem_sixsome_intro_d5651fde:
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:54
 translate russian home_harem_sixsome_intro_ee39721f:
     lexi.say "Ты же обеспечиваешь нас членом!"
-
-# ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:57
-translate russian home_harem_sixsome_intro_02884289:
-    minami.say "Без тебя было бы не то, братишка!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:60
 translate russian home_harem_sixsome_intro_561104c1:
@@ -207,10 +203,6 @@ translate russian home_harem_sixsome_bj_bree_a4ae0fef:
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:168
 translate russian home_harem_sixsome_bj_bree_103741bc:
     "Может, я просто не могу устоять перед милой блондинкой."
-
-# ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:170
-translate russian home_harem_sixsome_bj_bree_5663699a:
-    mike.say "[lssb_homefive.bree_name()]."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:171
 translate russian home_harem_sixsome_bj_bree_153fe225:
@@ -817,11 +809,11 @@ translate russian home_harem_sixsome_disappointed_bj_ending_98a17ef7:
     "Они выглядят весьма разочарованными, особенно те, кто только что наблюдал за минетом со стороны."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:403
-translate russian home_harem_sixsome_disappointed_bj_ending_3d7665f2:
+translate russian home_harem_sixsome_disappointed_bj_ending_c8681b5b:
     mike.say "Простите... девчонки... я..."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:404
-translate russian home_harem_sixsome_disappointed_bj_ending_0a784c67:
+translate russian home_harem_sixsome_disappointed_bj_ending_ccd7736c:
     mike.say "Я... просто... не могу..."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:405
@@ -909,7 +901,7 @@ translate russian home_harem_sixsome_sex_intro_53ffd040:
     samantha.say "Да, направо, только ещё чуть дальше!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:430
-translate russian home_harem_sixsome_sex_intro_8a8c7172:
+translate russian home_harem_sixsome_sex_intro_2a933469:
     lexi.say "Не-а... ты же знаешь, что хочешь прицелиться влево!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:431
@@ -1361,7 +1353,7 @@ translate russian home_harem_sixsome_sex_lexi_3821151a:
     lexi.say "Только пообещай, что я это как следует прочувствую!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:652
-translate russian home_harem_sixsome_sex_lexi_2fe9433b:
+translate russian home_harem_sixsome_sex_lexi_4ed26167:
     "Это... это вызов?!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:653
@@ -1648,10 +1640,6 @@ translate russian home_harem_sixsome_sex_minami_dfc500bd:
 translate russian home_harem_sixsome_sex_minami_2d937532:
     "Конечно, от этого я лишь сильнее её хочу."
 
-# ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:758
-translate russian home_harem_sixsome_sex_minami_9e680d55:
-    minami.say "Ох, братишка..."
-
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:759
 translate russian home_harem_sixsome_sex_minami_c5e5e01b:
     minami.say "Он ТАКОЙ большой!"
@@ -1705,12 +1693,8 @@ translate russian home_harem_sixsome_sex_minami_c85941b7:
     minami.say "Что..."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:774
-translate russian home_harem_sixsome_sex_minami_b1a4be0d:
+translate russian home_harem_sixsome_sex_minami_ba364b20:
     minami.say "Ох... о-о-ох..."
-
-# ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:775
-translate russian home_harem_sixsome_sex_minami_1c33a23c:
-    minami.say "Ох... братишка!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:777
 translate russian home_harem_sixsome_sex_minami_3beb3ee4:
@@ -1843,10 +1827,6 @@ translate russian home_harem_sixsome_sex_minami_27ac8a74:
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:825
 translate russian home_harem_sixsome_sex_minami_471b1091:
     "Мягкие скользкие губы ласкают головку, приглашая продвинуться дальше."
-
-# ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:826
-translate russian home_harem_sixsome_sex_minami_299edca2:
-    minami.say "Обещаю, я постараюсь, братишка."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:827
 translate russian home_harem_sixsome_sex_minami_bcce12ae:
@@ -2653,11 +2633,11 @@ translate russian home_harem_sixsome_satisfied_sex_ending_c4689992:
     "Вместе они похожи на марионеток с перерезанными нитями."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1126
-translate russian home_harem_sixsome_satisfied_sex_ending_8f7c1c5f:
+translate russian home_harem_sixsome_satisfied_sex_ending_854813ce:
     "Ну... если бы все эти марионетки были голыми и только что хорошенько потрахались!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1127
-translate russian home_harem_sixsome_satisfied_sex_ending_e4c91eb3:
+translate russian home_harem_sixsome_satisfied_sex_ending_7dc8b5ff:
     mike.say "Эм... девчонки?"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1129
@@ -2675,10 +2655,6 @@ translate russian home_harem_sixsome_satisfied_sex_ending_aa1f8fa6:
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1132
 translate russian home_harem_sixsome_satisfied_sex_ending_051aee4d:
     bree.say "Чувствую себя лошадью, на которой проскакали целые скачки!"
-
-# ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1133
-translate russian home_harem_sixsome_satisfied_sex_ending_a7c036fb:
-    minami.say "О-о-ох... братишка, я не чувствую свою киску!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1134
 translate russian home_harem_sixsome_satisfied_sex_ending_d8fb951f:
@@ -3157,7 +3133,7 @@ translate russian bree_lexi_minami_samantha_sasha_male_ending_c896f494:
     sasha.say "Значит, я знаю его дольше всех."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1306
-translate russian bree_lexi_minami_samantha_sasha_male_ending_33ac1836:
+translate russian bree_lexi_minami_samantha_sasha_male_ending_189e5bd1:
     bree.say "Эй, нет уж, Саша!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1307
@@ -3183,10 +3159,6 @@ translate russian bree_lexi_minami_samantha_sasha_male_ending_ef3c0601:
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1314
 translate russian bree_lexi_minami_samantha_sasha_male_ending_31392505:
     minami.say "Эм, вообще-то, тут есть очаровательная, бойкая и милая младшая сестрёнка!"
-
-# ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1315
-translate russian bree_lexi_minami_samantha_sasha_male_ending_1e61a775:
-    minami.say "Ни одна из вас не знает братишку так давно, как я."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1317
 translate russian bree_lexi_minami_samantha_sasha_male_ending_aa5350be:
@@ -3269,16 +3241,12 @@ translate russian bree_lexi_minami_samantha_sasha_male_ending_e5aa71d0:
     sasha.say "[lssb_common.hero_name()] мог бы стать основателем целого народа."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1340
-translate russian bree_lexi_minami_samantha_sasha_male_ending_689bc470:
+translate russian bree_lexi_minami_samantha_sasha_male_ending_9b973e85:
     lexi.say "Эм... странно!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1341
 translate russian bree_lexi_minami_samantha_sasha_male_ending_b06756a1:
     minami.say "Нет, это мило."
-
-# ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1342
-translate russian bree_lexi_minami_samantha_sasha_male_ending_92b631e1:
-    minami.say "Только братишке об этом, пожалуйста, не говорите."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1343
 translate russian bree_lexi_minami_samantha_sasha_male_ending_930c3844:
@@ -3293,7 +3261,7 @@ translate russian bree_lexi_minami_samantha_sasha_male_ending_538f70f3:
     lexi.say "Парочку ещё втиснем, а?"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1347
-translate russian bree_lexi_minami_samantha_sasha_male_ending_96074712:
+translate russian bree_lexi_minami_samantha_sasha_male_ending_8cb093c0:
     minami.say "Эм... к нам кто-то ещё переезжает?"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1348
@@ -3333,7 +3301,7 @@ translate russian bree_lexi_minami_samantha_sasha_male_ending_baf2acfc:
     sasha.say "Но чего ещё ждать от ребёнка, у которого пять мам!"
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1363
-translate russian bree_lexi_minami_samantha_sasha_male_ending_421c41b0:
+translate russian bree_lexi_minami_samantha_sasha_male_ending_29912d2b:
     samantha.say "Ха... Джемайма уже вьёт из нас верёвки."
 
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1364
@@ -3399,7 +3367,4 @@ translate russian bree_lexi_minami_samantha_sasha_male_ending_df622dab:
 # ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1382
 translate russian bree_lexi_minami_samantha_sasha_male_ending_84046577:
     minami.say "Ой, не говори глупостей."
-
-# ch/harems/home/events/home_harem_bree_lexi_minami_samantha_sasha.rpy:1383
-translate russian bree_lexi_minami_samantha_sasha_male_ending_8498f7bf:
-    minami.say "На самом деле братишке всё это нравится!"
+

@@ -52,10 +52,6 @@ translate russian ask_bree_about_sam_2a5a14ff:
 translate russian ask_bree_about_sam_6e3e27f6:
     "Вскоре [lssb_homesam.bree_name()] оказывается рядом, и у меня появляется возможность затронуть эту тему..."
 
-# ch/harems/home/events/home_harem_samantha.rpy:511
-translate russian ask_bree_about_sam_dcd0ec43:
-    mike.say "А, привет, [lssb_homesam.bree_name()]!"
-
 # ch/harems/home/events/home_harem_samantha.rpy:513
 translate russian ask_bree_about_sam_bf853ecd:
     bree.say "О, привет, [lssb_common.hero_name()]."
@@ -65,11 +61,11 @@ translate russian ask_bree_about_sam_075123f1:
     bree.say "Что-то случилось?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:517
-translate russian ask_bree_about_sam_bae14da0:
+translate russian ask_bree_about_sam_4502718d:
     mike.say "А... что?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:518
-translate russian ask_bree_about_sam_f4559d2d:
+translate russian ask_bree_about_sam_31a66661:
     mike.say "Нет... а почему... должно было?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:520
@@ -87,10 +83,6 @@ translate russian ask_bree_about_sam_1649135f:
 # ch/harems/home/events/home_harem_samantha.rpy:523
 translate russian ask_bree_about_sam_9f7b10f3:
     bree.say "Можешь с тем же успехом повесить табличку себе на шею!"
-
-# ch/harems/home/events/home_harem_samantha.rpy:524
-translate russian ask_bree_about_sam_4390800e:
-    mike.say "А... ладно, [lssb_homesam.bree_name()], ты меня поймала."
 
 # ch/harems/home/events/home_harem_samantha.rpy:525
 translate russian ask_bree_about_sam_09579481:
@@ -152,10 +144,6 @@ translate russian ask_bree_about_sam_f984e688:
 translate russian ask_bree_about_sam_62c92e76:
     bree.say "Хотя теперь я думаю: может, это была одна из твоих коллег!"
 
-# ch/harems/home/events/home_harem_samantha.rpy:543
-translate russian ask_bree_about_sam_1513c14c:
-    mike.say "Да, [lssb_homesam.bree_name()], неважно."
-
 # ch/harems/home/events/home_harem_samantha.rpy:544
 translate russian ask_bree_about_sam_9c4ccbc0:
     mike.say "Дело в том, что я всегда был к ней немного неравнодушен."
@@ -209,7 +197,7 @@ translate russian ask_bree_about_sam_2b990338:
     bree.say "О, ничего страшного."
 
 # ch/harems/home/events/home_harem_samantha.rpy:565
-translate russian ask_bree_about_sam_762da7d2:
+translate russian ask_bree_about_sam_a39bf594:
     mike.say "Т... ты серьёзно?!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:566
@@ -249,7 +237,7 @@ translate russian ask_bree_about_sam_d4a31fb8:
     mike.say "Потому что она такая сладкая и вкусная..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:577
-translate russian ask_bree_about_sam_78426369:
+translate russian ask_bree_about_sam_07889955:
     "Мне кажется или [lssb_homesam.bree_name()] начинает вести себя как-то... скрытно?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:579
@@ -265,7 +253,7 @@ translate russian ask_bree_about_sam_6815a611:
     bree.say "[lssb_common.hero_name()]..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:582
-translate russian ask_bree_about_sam_0cdf8983:
+translate russian ask_bree_about_sam_7c42b506:
     bree.say "Какая... какая она?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:584
@@ -309,7 +297,7 @@ translate russian ask_bree_about_sam_967440cc:
     mike.say "Тогда все смогут как следует повеселиться, верно?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:598
-translate russian ask_bree_about_sam_6319d01e:
+translate russian ask_bree_about_sam_4ab7dab8:
     bree.say "Д... думаешь, мы сможем?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:599
@@ -457,7 +445,7 @@ translate russian ask_sasha_about_sam_765d7e34:
     "Но всё равно боюсь, что смех звучит слишком натянуто."
 
 # ch/harems/home/events/home_harem_samantha.rpy:641
-translate russian ask_sasha_about_sam_53254f4f:
+translate russian ask_sasha_about_sam_7c7dd1e7:
     mike.say "Ха... да..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:642
@@ -465,7 +453,7 @@ translate russian ask_sasha_about_sam_accc0aec:
     mike.say "Что сказать? Тяжело, но приятно!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:643
-translate russian ask_sasha_about_sam_79628015:
+translate russian ask_sasha_about_sam_6bb0c119:
     mike.say "Вообще-то, Саша... Я как раз хотел об этом поговорить."
 
 # ch/harems/home/events/home_harem_samantha.rpy:645
@@ -597,7 +585,7 @@ translate russian ask_sasha_about_sam_f65ccaea:
     "Неужели меня и правда так просто прочитать?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:682
-translate russian ask_sasha_about_sam_cbfe4dd3:
+translate russian ask_sasha_about_sam_093ba575:
     mike.say "Я... я спал с ней, Саша."
 
 # ch/harems/home/events/home_harem_samantha.rpy:683
@@ -617,7 +605,7 @@ translate russian ask_sasha_about_sam_9c10aac2:
     sasha.say "Ах ты кобель!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:689
-translate russian ask_sasha_about_sam_082da6be:
+translate russian ask_sasha_about_sam_17203b78:
     mike.say "Т... ты не выглядишь особенно расстроенной, Саша."
 
 # ch/harems/home/events/home_harem_samantha.rpy:690
@@ -649,7 +637,7 @@ translate russian ask_sasha_about_sam_3037461f:
     sasha.say "И вообще, ты ведь не принуждал эту Сэм?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:699
-translate russian ask_sasha_about_sam_4b470ec9:
+translate russian ask_sasha_about_sam_74f6d0d8:
     mike.say "Нет... конечно нет!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:702
@@ -780,16 +768,12 @@ translate russian ask_minami_about_sam_9643b924:
 translate russian ask_minami_about_sam_fd30b6a4:
     mike.say "Привет, Минами."
 
-# ch/harems/home/events/home_harem_samantha.rpy:743
-translate russian ask_minami_about_sam_01f73928:
-    minami.say "Привет, братик."
-
 # ch/harems/home/events/home_harem_samantha.rpy:745
 translate russian ask_minami_about_sam_06f628c4:
     minami.say "Что с тобой?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:746
-translate russian ask_minami_about_sam_d43070d1:
+translate russian ask_minami_about_sam_7f1e7b96:
     mike.say "Э-э... н... ничего, Минами..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:747
@@ -799,10 +783,6 @@ translate russian ask_minami_about_sam_3965f71b:
 # ch/harems/home/events/home_harem_samantha.rpy:749
 translate russian ask_minami_about_sam_627aff62:
     minami.say "Ага, ага, как скажешь!"
-
-# ch/harems/home/events/home_harem_samantha.rpy:750
-translate russian ask_minami_about_sam_7f12a386:
-    minami.say "Я знаю, когда тебе что-то нужно, братик."
 
 # ch/harems/home/events/home_harem_samantha.rpy:751
 translate russian ask_minami_about_sam_ed9a1478:
@@ -888,10 +868,6 @@ translate russian ask_minami_about_sam_a82b17a1:
 translate russian ask_minami_about_sam_f6831c10:
     "Затем глаза Минами расширяются, и она потрясённо ахает."
 
-# ch/harems/home/events/home_harem_samantha.rpy:775
-translate russian ask_minami_about_sam_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/harems/home/events/home_harem_samantha.rpy:776
 translate russian ask_minami_about_sam_a8f55d0e:
     "Я невольно морщусь, ожидая, что она расплачется и начнёт колотить меня кулаками."
@@ -901,7 +877,7 @@ translate russian ask_minami_about_sam_5b84d888:
     minami.say "Ну ты и ЖЕРЕБЕЦ!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:780
-translate russian ask_minami_about_sam_a435055d:
+translate russian ask_minami_about_sam_a3ff0085:
     minami.say "Есть вообще девушка, которую ты не можешь заполучить?!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:781
@@ -917,7 +893,7 @@ translate russian ask_minami_about_sam_e4db705d:
     "И по её движениям я понимаю, что это даже начинает её возбуждать!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:785
-translate russian ask_minami_about_sam_c6bfb3a2:
+translate russian ask_minami_about_sam_39fd54ef:
     mike.say "Ох... ну..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:786
@@ -933,7 +909,7 @@ translate russian ask_minami_about_sam_5b8e1d23:
     minami.say "Ты переспал с замужней женщиной?!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:791
-translate russian ask_minami_about_sam_b9ac7dc3:
+translate russian ask_minami_about_sam_ae837c70:
     minami.say "О-о... Так это ещё круче!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:794
@@ -947,10 +923,6 @@ translate russian ask_minami_about_sam_5f1295bb:
 # ch/harems/home/events/home_harem_samantha.rpy:796
 translate russian ask_minami_about_sam_70bfcc6b:
     mike.say "Чтобы [lssb_homesam.bree_name()] и Саша тоже приняли её в наши отношения."
-
-# ch/harems/home/events/home_harem_samantha.rpy:798
-translate russian ask_minami_about_sam_06711b4e:
-    minami.say "Это было бы здорово, братик!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:799
 translate russian ask_minami_about_sam_1c3d70b5:
@@ -1037,7 +1009,7 @@ translate russian introduce_sam_to_girls_75acbeb5:
     samantha.say "Готовишь мне свидание-сюрприз или что?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:828
-translate russian introduce_sam_to_girls_b0a675d7:
+translate russian introduce_sam_to_girls_f54e35c9:
     mike.say "А... Только если прийти ко мне и провести время вместе считается свиданием!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:829
@@ -1068,16 +1040,12 @@ translate russian introduce_sam_to_girls_89731298:
 translate russian introduce_sam_to_girls_041096b4:
     bree.say "Эй, почему ты не рассказал ей о нас?"
 
-# ch/harems/home/events/home_harem_samantha.rpy:841
-translate russian introduce_sam_to_girls_53cd47b9:
-    minami.say "Ага, братик, в чём дело?"
-
 # ch/harems/home/events/home_harem_samantha.rpy:843
 translate russian introduce_sam_to_girls_7f7c122e:
     sasha.say "Ну ты и струсил!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:844
-translate russian introduce_sam_to_girls_23bf64cd:
+translate russian introduce_sam_to_girls_17695c77:
     mike.say "Что... погодите..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:845
@@ -1265,7 +1233,7 @@ translate russian introduce_sam_to_girls_1ccc8c84:
     "Поэтому я изо всех сил пытаюсь вмешаться и спасти положение."
 
 # ch/harems/home/events/home_harem_samantha.rpy:924
-translate russian introduce_sam_to_girls_f54e62de:
+translate russian introduce_sam_to_girls_671ee5f4:
     mike.say "А... ха-ха..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:926
@@ -1304,10 +1272,6 @@ translate russian introduce_sam_to_girls_a1dfe24e:
 translate russian introduce_sam_to_girls_72bbba2c:
     bree.say "Ага, ты ведь та, которую он упустил?"
 
-# ch/harems/home/events/home_harem_samantha.rpy:941
-translate russian introduce_sam_to_girls_d9ab0345:
-    minami.say "Братик всегда был от тебя без ума!"
-
 # ch/harems/home/events/home_harem_samantha.rpy:942
 translate russian introduce_sam_to_girls_388060c1:
     "Глаза Сэм расширяются, и она вопросительно смотрит на меня."
@@ -1317,7 +1281,7 @@ translate russian introduce_sam_to_girls_d4428473:
     "Я точно знаю: она гадает, что ещё я успел о ней рассказать."
 
 # ch/harems/home/events/home_harem_samantha.rpy:945
-translate russian introduce_sam_to_girls_4dee9125:
+translate russian introduce_sam_to_girls_dd4f0839:
     samantha.say "Я... я чувствую себя в невыгодном положении."
 
 # ch/harems/home/events/home_harem_samantha.rpy:946
@@ -1365,7 +1329,7 @@ translate russian introduce_sam_to_girls_fad679bc:
     bree.say "Но обещаю вам не мешать."
 
 # ch/harems/home/events/home_harem_samantha.rpy:960
-translate russian introduce_sam_to_girls_2744e56c:
+translate russian introduce_sam_to_girls_f3d79126:
     samantha.say "Я... ну..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:961
@@ -1493,7 +1457,7 @@ translate russian introduce_sam_to_girls_75419d8f:
     "Вот он, момент, когда мы узнаем, что Сэм думает о наших необычных отношениях..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1008
-translate russian introduce_sam_to_girls_eb5725e2:
+translate russian introduce_sam_to_girls_8f60b01c:
     samantha.say "Это... это вы."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1010
@@ -1641,7 +1605,7 @@ translate russian introduce_sam_to_girls_296dc20f:
     samantha.say "Если бы он просто спросил, я, возможно, даже согласилась бы!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1062
-translate russian introduce_sam_to_girls_7419df5c:
+translate russian introduce_sam_to_girls_db48116c:
     mike.say "Т... то есть сейчас ты согласна?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1063
@@ -1797,7 +1761,7 @@ translate russian sexual_tension_bree_sam_2b8d521c:
     "Более того, пока я смотрю из дверей, она начинает улыбаться!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1130
-translate russian sexual_tension_bree_sam_2c697985:
+translate russian sexual_tension_bree_sam_cf98950a:
     "Они... они флиртуют друг с другом?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1131
@@ -1881,7 +1845,7 @@ translate russian sexual_tension_bree_sam_2c4aa1f2:
     "А когда обе начинают смеяться, мне становится ещё неуютнее."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1160
-translate russian sexual_tension_bree_sam_2fa0b845:
+translate russian sexual_tension_bree_sam_30babaab:
     mike.say "Ч... что это значит?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1161
@@ -1984,10 +1948,6 @@ translate russian sexual_tension_bree_sam_76ad52c6:
 translate russian sexual_tension_bree_sam_a6a15636:
     "А думаю я о том, чтобы они не поладили СЛИШКОМ хорошо!"
 
-# ch/harems/home/events/home_harem_samantha.rpy:1194
-translate russian sexual_tension_bree_sam_7ccd1112:
-    mike.say "Это... здорово, [lssb_homesam.bree_name()]... просто здорово!"
-
 # ch/harems/home/events/home_harem_samantha.rpy:1196
 translate russian sexual_tension_bree_sam_e27fc651:
     mike.say "И спасибо, что так помогаешь Кексику освоиться."
@@ -2085,7 +2045,7 @@ translate russian lesbian_sex_bree_sam_44c00316:
     "Поэтому в конце концов я иду на компромисс и решаю лишь заглянуть в замочную скважину."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1228
-translate russian lesbian_sex_bree_sam_0d11298f:
+translate russian lesbian_sex_bree_sam_69405e3e:
     "Ладно, ладно... Знаю, звучит подозрительно."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1229
@@ -2109,7 +2069,7 @@ translate russian lesbian_sex_bree_sam_7fa78f96:
     "Затем я различаю знакомую обстановку спальни, в которой живёт [lssb_homesam.bree_name()]."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1235
-translate russian lesbian_sex_bree_sam_1b6db62c:
+translate russian lesbian_sex_bree_sam_82719fa1:
     "О... ого!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1236
@@ -2185,7 +2145,7 @@ translate russian lesbian_sex_bree_sam_8efe63be:
     "Просто я не был готов узнать об этом вот так."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1257
-translate russian lesbian_sex_bree_sam_a0ab986e:
+translate russian lesbian_sex_bree_sam_e1bedf35:
     "И, ну... Пожалуй, я ещё и изрядно ревную!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1258
@@ -2265,7 +2225,7 @@ translate russian lesbian_sex_bree_sam_f2c98dbc:
     samantha.say "Теперь ты готова?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1280
-translate russian lesbian_sex_bree_sam_d2d90e75:
+translate russian lesbian_sex_bree_sam_b2e354fc:
     bree.say "Д... да, Сэм..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1281
@@ -2273,7 +2233,7 @@ translate russian lesbian_sex_bree_sam_29d9594b:
     bree.say "Наверное, готова настолько, насколько вообще могу!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1282
-translate russian lesbian_sex_bree_sam_40c56b94:
+translate russian lesbian_sex_bree_sam_2f2c9fbd:
     bree.say "Т... ты уверена, что всё в порядке?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1283
@@ -2333,7 +2293,7 @@ translate russian lesbian_sex_bree_sam_4816720a:
     samantha.say "Обещаю быть нежной."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1297
-translate russian lesbian_sex_bree_sam_6df18c5e:
+translate russian lesbian_sex_bree_sam_fb0ac586:
     bree.say "П... правда?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1298
@@ -2341,7 +2301,7 @@ translate russian lesbian_sex_bree_sam_8c999413:
     bree.say "Обещаешь?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1299
-translate russian lesbian_sex_bree_sam_7832df9a:
+translate russian lesbian_sex_bree_sam_68fae924:
     samantha.say "Ну... не слишком нежной!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1300
@@ -2389,11 +2349,11 @@ translate russian lesbian_sex_bree_sam_ec4f9c86:
     bree.say "Ах..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1311
-translate russian lesbian_sex_bree_sam_8a464a9e:
+translate russian lesbian_sex_bree_sam_7a2557bc:
     bree.say "Ох... о да..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1312
-translate russian lesbian_sex_bree_sam_71367e20:
+translate russian lesbian_sex_bree_sam_129f40ec:
     bree.say "От тебя... я вся мокрая, Сэм!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1313
@@ -2421,7 +2381,7 @@ translate russian lesbian_sex_bree_sam_3a2dbdfa:
     "Всё это время [lssb_homesam.bree_name()] принимает её движения, пока Сэм трётся о неё."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1319
-translate russian lesbian_sex_bree_sam_e4575ffe:
+translate russian lesbian_sex_bree_sam_736ddcc5:
     "Боже... Как же это возбуждает!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1320
@@ -2505,7 +2465,7 @@ translate russian lesbian_sex_bree_sam_7b830cd0:
     "Всё это время Сэм продолжает делать то же самое."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1343
-translate russian lesbian_sex_bree_sam_aaf7bd7e:
+translate russian lesbian_sex_bree_sam_2116deec:
     "Ладно... Наверное, пора мне отсюда убираться."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1344
@@ -3629,7 +3589,7 @@ translate russian lesbian_sex_sam_sasha_280b3e1f:
     "Это низкий стон, почти как от боли."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1714
-translate russian lesbian_sex_sam_sasha_97512918:
+translate russian lesbian_sex_sam_sasha_14bb16f7:
     "Ладно, ладно... Не стану делать вид, что я такой наивный!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1715
@@ -3713,7 +3673,7 @@ translate russian lesbian_sex_sam_sasha_8efe63be:
     "Просто я не был готов узнать об этом вот так."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1739
-translate russian lesbian_sex_sam_sasha_a0ab986e:
+translate russian lesbian_sex_sam_sasha_e1bedf35:
     "И, ну... Пожалуй, я ещё и изрядно ревную!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1740
@@ -3793,7 +3753,7 @@ translate russian lesbian_sex_sam_sasha_3877c05d:
     "Сэм тянется вверх и начинает гладить его обеими руками."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1761
-translate russian lesbian_sex_sam_sasha_5df0fdcd:
+translate russian lesbian_sex_sam_sasha_1d137b5d:
     samantha.say "Д... да, Саша..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1762
@@ -3801,7 +3761,7 @@ translate russian lesbian_sex_sam_sasha_3ef26426:
     samantha.say "Я готова расплатиться!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1763
-translate russian lesbian_sex_sam_sasha_712759db:
+translate russian lesbian_sex_sam_sasha_3b316245:
     samantha.say "Но... пожалуйста, будь нежной?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1764
@@ -4113,7 +4073,7 @@ translate russian sexual_tension_sam_minami_04ff7134:
     minami.say "Я просто пыталась угадать твой размер, вот и всё."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1866
-translate russian sexual_tension_sam_minami_1e29c19b:
+translate russian sexual_tension_sam_minami_cf51c4ad:
     samantha.say "Но... зачем?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1868
@@ -4141,7 +4101,7 @@ translate russian sexual_tension_sam_minami_cc98ee02:
     minami.say "А вот ты, Сэм..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1875
-translate russian sexual_tension_sam_minami_39bb2c7d:
+translate russian sexual_tension_sam_minami_0b706b64:
     minami.say "Ты такая высокая и... ну... женственная!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1878
@@ -4236,10 +4196,6 @@ translate russian sexual_tension_sam_minami_cabad0aa:
 translate russian sexual_tension_sam_minami_8b0f79f5:
     samantha.say "С переезда у меня впервые появилась возможность нормально с ней поговорить."
 
-# ch/harems/home/events/home_harem_samantha.rpy:1910
-translate russian sexual_tension_sam_minami_cec25483:
-    minami.say "Ага, братик..."
-
 # ch/harems/home/events/home_harem_samantha.rpy:1911
 translate russian sexual_tension_sam_minami_d8a8587d:
     minami.say "Я рассказывала Сэм всё о тебе!"
@@ -4259,10 +4215,6 @@ translate russian sexual_tension_sam_minami_08423140:
 # ch/harems/home/events/home_harem_samantha.rpy:1918
 translate russian sexual_tension_sam_minami_44b48515:
     mike.say "Она и так всё обо мне знает."
-
-# ch/harems/home/events/home_harem_samantha.rpy:1919
-translate russian sexual_tension_sam_minami_45e0a8e0:
-    minami.say "О нет, братик..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1921
 translate russian sexual_tension_sam_minami_94caa8ea:
@@ -4312,10 +4264,6 @@ translate russian sexual_tension_sam_minami_793f6630:
 translate russian sexual_tension_sam_minami_686fb49a:
     mike.say "Что именно ты рассказала Сэм?"
 
-# ch/harems/home/events/home_harem_samantha.rpy:1943
-translate russian sexual_tension_sam_minami_8243c473:
-    minami.say "Да не обделайся от страха, братик!"
-
 # ch/harems/home/events/home_harem_samantha.rpy:1944
 translate russian sexual_tension_sam_minami_aa336a78:
     minami.say "Самое интересное я и правда не выболтала."
@@ -4352,10 +4300,6 @@ translate russian sexual_tension_sam_minami_5f84d39c:
 translate russian sexual_tension_sam_minami_adb5874d:
     minami.say "Знаю, знаю..."
 
-# ch/harems/home/events/home_harem_samantha.rpy:1958
-translate russian sexual_tension_sam_minami_c451d65a:
-    minami.say "И думаю, будет здорово, что она теперь здесь, братик."
-
 # ch/harems/home/events/home_harem_samantha.rpy:1959
 translate russian sexual_tension_sam_minami_6885f03f:
     mike.say "Правда?"
@@ -4380,25 +4324,17 @@ translate russian sexual_tension_sam_minami_bc949085:
 translate russian sexual_tension_sam_minami_2de42df8:
     "Минами смеётся и качает головой."
 
-# ch/harems/home/events/home_harem_samantha.rpy:1966
-translate russian sexual_tension_sam_minami_e41d4470:
-    minami.say "О да, братик!"
-
 # ch/harems/home/events/home_harem_samantha.rpy:1967
 translate russian sexual_tension_sam_minami_fa9acaf2:
     minami.say "Ты ведь для меня тоже именно такой пример, да?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1968
-translate russian sexual_tension_sam_minami_f936b42a:
+translate russian sexual_tension_sam_minami_6c2acc3a:
     mike.say "Ч... что ты имеешь в виду?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1970
 translate russian sexual_tension_sam_minami_779c16d0:
     "Минами закатывает глаза."
-
-# ch/harems/home/events/home_harem_samantha.rpy:1971
-translate russian sexual_tension_sam_minami_7af262d9:
-    minami.say "Да брось, братик!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1972
 translate russian sexual_tension_sam_minami_57705f6f:
@@ -4429,7 +4365,7 @@ translate russian sexual_tension_sam_minami_0c8d9968:
     "Минами просто пыталась меня подразнить, да?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1981
-translate russian sexual_tension_sam_minami_414d5f1f:
+translate russian sexual_tension_sam_minami_b4c3d068:
     "Хм... Придётся присматривать за этими двумя."
 
 # ch/harems/home/events/home_harem_samantha.rpy:1987
@@ -4580,10 +4516,6 @@ translate russian lesbian_sex_sam_minami_39f11488:
 translate russian lesbian_sex_sam_minami_4d63c570:
     minami.say "Ты ТОЧНО уверена, что всё нормально?"
 
-# ch/harems/home/events/home_harem_samantha.rpy:2024
-translate russian lesbian_sex_sam_minami_0a9e7cf9:
-    minami.say "Я... я не хочу, чтобы братик на меня злился, Сэм!"
-
 # ch/harems/home/events/home_harem_samantha.rpy:2025
 translate russian lesbian_sex_sam_minami_f7a96a4d:
     "Сэм качает головой, уже протягивая руки, чтобы притянуть Минами ближе."
@@ -4665,7 +4597,7 @@ translate russian lesbian_sex_sam_minami_8efe63be:
     "Просто я не был готов узнать об этом вот так."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2049
-translate russian lesbian_sex_sam_minami_a0ab986e:
+translate russian lesbian_sex_sam_minami_e1bedf35:
     "И, ну... Пожалуй, я ещё и изрядно ревную!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2050
@@ -4709,7 +4641,7 @@ translate russian lesbian_sex_sam_minami_3bdaf2e2:
     "Какова бы ни была причина, я остаюсь на месте, не шевелясь."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2061
-translate russian lesbian_sex_sam_minami_826e47e6:
+translate russian lesbian_sex_sam_minami_46af3801:
     minami.say "В... вот так, Сэм?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2062
@@ -4789,7 +4721,7 @@ translate russian lesbian_sex_sam_minami_6abb6db1:
     samantha.say "Просто немного слишком сильно и быстро, вот и всё."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2081
-translate russian lesbian_sex_sam_minami_caff97c0:
+translate russian lesbian_sex_sam_minami_99514bfd:
     samantha.say "Смотри... Давай я покажу, хорошо?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2082
@@ -5069,7 +5001,7 @@ translate russian home_harem_confession_to_sam_f733a9e1:
     samantha.say "И у тебя ещё такой хитрый вид."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2165
-translate russian home_harem_confession_to_sam_84093512:
+translate russian home_harem_confession_to_sam_330fc7de:
     mike.say "К... какой хитрый вид?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2166
@@ -5157,7 +5089,7 @@ translate russian home_harem_confession_to_sam_7ca56f4a:
     "Откуда она, чёрт возьми, узнала?!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2195
-translate russian home_harem_confession_to_sam_6c40aa9c:
+translate russian home_harem_confession_to_sam_8e58ae70:
     mike.say "Т... ты об этом знаешь?!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2197
@@ -5253,7 +5185,7 @@ translate russian home_harem_confession_to_sam_94c85480:
     mike.say "Эм, ну..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2228
-translate russian home_harem_confession_to_sam_9c9a25f1:
+translate russian home_harem_confession_to_sam_ae0d014b:
     mike.say "Вроде как... со всеми!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2230
@@ -5473,7 +5405,7 @@ translate russian home_harem_confession_to_sam_274ca272:
     mike.say "А для меня..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2302
-translate russian home_harem_confession_to_sam_49a7efde:
+translate russian home_harem_confession_to_sam_86c4d744:
     mike.say "Ну... Это было бы исполнением мечты!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2303
@@ -5493,7 +5425,7 @@ translate russian home_harem_confession_to_sam_ea74b20d:
     samantha.say "Будто станешь причастна к какой-то чудесной тайне."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2308
-translate russian home_harem_confession_to_sam_458dfa58:
+translate russian home_harem_confession_to_sam_1f5ff9e7:
     samantha.say "Мне... мне всегда было немного любопытно, понимаешь?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2310
@@ -5521,11 +5453,11 @@ translate russian home_harem_confession_to_sam_62255179:
     mike.say "Ты с нами?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2318
-translate russian home_harem_confession_to_sam_2744e56c:
+translate russian home_harem_confession_to_sam_f3d79126:
     samantha.say "Я... ну..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2320
-translate russian home_harem_confession_to_sam_8b01c456:
+translate russian home_harem_confession_to_sam_f8e88cef:
     samantha.say "Да... да, я с вами!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2321
@@ -5609,7 +5541,7 @@ translate russian home_harem_confession_to_sam_a71d6e89:
     samantha.say "Более того, я не хочу жить с этим под одной крышей."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2358
-translate russian home_harem_confession_to_sam_e605ba05:
+translate russian home_harem_confession_to_sam_f4270ac5:
     mike.say "Т... ты съезжаешь?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2359
@@ -5749,7 +5681,7 @@ translate russian foursome_breesamsasha_9b561808:
     "На мгновение мне кажется, что смущение сейчас возьмёт над ней верх."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2409
-translate russian foursome_breesamsasha_33383b35:
+translate russian foursome_breesamsasha_f97d187f:
     mike.say "А... нет... я..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2411
@@ -5819,10 +5751,6 @@ translate russian foursome_breesamsasha_2a63bd89:
 # ch/harems/home/events/home_harem_samantha.rpy:2432
 translate russian foursome_breesamsasha_0b30f481:
     mike.say "Ха..."
-
-# ch/harems/home/events/home_harem_samantha.rpy:2433
-translate russian foursome_breesamsasha_a28dc3ec:
-    mike.say "У тебя я звучу как аттракцион, [lssb_homesam.bree_name()]!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2434
 translate russian foursome_breesamsasha_aa8f0aca:
@@ -6049,7 +5977,7 @@ translate russian foursome_breesamsasha_d9736ecc:
     "Вскоре я понимаю, что больше не выдержу."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2508
-translate russian foursome_breesamsasha_a2ecef36:
+translate russian foursome_breesamsasha_6863749c:
     mike.say "Я... я больше не могу!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2510
@@ -6093,7 +6021,7 @@ translate russian foursome_breesamsasha_e6e49fc1:
     sasha.say "Открывает глаза на многое, правда?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2526
-translate russian foursome_breesamsasha_8e873018:
+translate russian foursome_breesamsasha_61080d7c:
     samantha.say "Я... я всегда думала, что буду ревновать, понимаете?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2527
@@ -6489,7 +6417,7 @@ translate russian fivesome_breeminamisamsasha_036c6e4c:
     samantha.say "Боже!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2668
-translate russian fivesome_breeminamisamsasha_92e1196b:
+translate russian fivesome_breeminamisamsasha_faf73605:
     samantha.say "Я кончаю... прямо сейчас!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2669
@@ -6565,7 +6493,7 @@ translate russian fivesome_breeminamisamsasha_b3535dc3:
     "Я совсем не хочу, чтобы это заканчивалось, но чувствую, что уже готов кончить!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2698
-translate russian fivesome_breeminamisamsasha_a2ecef36:
+translate russian fivesome_breeminamisamsasha_6863749c:
     mike.say "Я... я больше не могу!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2699
@@ -6797,11 +6725,11 @@ translate russian samantha_sharing_bed_02a11243:
     "Но, похоже, у Сэм совсем другое представление."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2803
-translate russian samantha_sharing_bed_a39f33cb:
+translate russian samantha_sharing_bed_277eb56d:
     mike.say "Я... я думал, ты будешь ночевать только с девушками?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2804
-translate russian samantha_sharing_bed_05f1867a:
+translate russian samantha_sharing_bed_45f3101f:
     mike.say "То есть... Я предполагал, что ты не захочешь спать со мной в одной комнате!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2805
@@ -6897,7 +6825,7 @@ translate russian samantha_sharing_bed_c67da2d2:
     "Затем кивает, словно начиная понимать."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2839
-translate russian samantha_sharing_bed_3c173129:
+translate russian samantha_sharing_bed_c90253df:
     samantha.say "Я... кажется, понимаю, [lssb_common.hero_name()]."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2840
@@ -7157,7 +7085,7 @@ translate russian samantha_sharing_bed_4537f139:
     samantha.say "Вот как?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2949
-translate russian samantha_sharing_bed_e4d9fedd:
+translate russian samantha_sharing_bed_5fc036cf:
     samantha.say "Хм... Тогда, наверное, стоит предупредить..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2950
@@ -7185,7 +7113,7 @@ translate russian samantha_sharing_bed_d3fe71c0:
     "Потому что от мысли о Сэм, прижавшейся ко мне во сне, у меня встаёт!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2956
-translate russian samantha_sharing_bed_6330b153:
+translate russian samantha_sharing_bed_1e2f6922:
     mike.say "Я... я сейчас выключу свет..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2958
@@ -7264,10 +7192,6 @@ translate russian samantha_sharing_bed_8fe65e04:
 translate russian samantha_sharing_bed_92e2d24a:
     "Как можно осторожнее толкаю её локтем."
 
-# ch/harems/home/events/home_harem_samantha.rpy:2984
-translate russian samantha_sharing_bed_a19592e4:
-    samantha.say "Чт..." with hpunch
-
 # ch/harems/home/events/home_harem_samantha.rpy:2985
 translate russian samantha_sharing_bed_e6efe03f:
     samantha.say "Ай!"
@@ -7285,7 +7209,7 @@ translate russian samantha_sharing_bed_6ee3489c:
     mike.say "Но ты обнимала меня во сне!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2991
-translate russian samantha_sharing_bed_4a4998e3:
+translate russian samantha_sharing_bed_67a4a659:
     samantha.say "Я... правда?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2992
@@ -7368,10 +7292,6 @@ translate russian samantha_sharing_bed_8fe65e04_1:
 translate russian samantha_sharing_bed_92e2d24a_1:
     "Как можно осторожнее толкаю её локтем."
 
-# ch/harems/home/events/home_harem_samantha.rpy:3019
-translate russian samantha_sharing_bed_a19592e4_1:
-    samantha.say "Чт..." with hpunch
-
 # ch/harems/home/events/home_harem_samantha.rpy:3020
 translate russian samantha_sharing_bed_e6efe03f_1:
     samantha.say "Ай!"
@@ -7397,7 +7317,7 @@ translate russian samantha_sharing_bed_6ee3489c_1:
     mike.say "Но ты обнимала меня во сне!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3028
-translate russian samantha_sharing_bed_4a4998e3_1:
+translate russian samantha_sharing_bed_67a4a659_1:
     samantha.say "Я... правда?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3029
@@ -7465,11 +7385,11 @@ translate russian samantha_sharing_bed_cc84e895:
     "Что ж, есть один верный способ узнать."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3050
-translate russian samantha_sharing_bed_1a63077f:
+translate russian samantha_sharing_bed_1874b660:
     mike.say "К... Кексик..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3052
-translate russian samantha_sharing_bed_b2f56069:
+translate russian samantha_sharing_bed_bb313dac:
     mike.say "С... Сэм..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3053
@@ -7541,11 +7461,11 @@ translate russian samantha_sharing_bed_1eb2a39c:
     samantha.say "Может, ты сам хочешь что-нибудь мне дать?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3072
-translate russian samantha_sharing_bed_153af657:
+translate russian samantha_sharing_bed_2a12b9c5:
     mike.say "Н... нет..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3073
-translate russian samantha_sharing_bed_18363246:
+translate russian samantha_sharing_bed_67891f66:
     mike.say "Мне... и так хорошо!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3074
@@ -7565,7 +7485,7 @@ translate russian samantha_sharing_bed_8672cc2e:
     samantha.say "О лучшем друге я и мечтать не могла."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3079
-translate russian samantha_sharing_bed_26a081fd:
+translate russian samantha_sharing_bed_7c07b7ed:
     samantha.say "И, ну... со временем ты стал для меня чем-то большим!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3081
@@ -7649,11 +7569,11 @@ translate russian samantha_sharing_bed_5df3b5f5:
     samantha.say "Думаю, теперь ты уснёшь крепче!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3112
-translate russian samantha_sharing_bed_c253ce9b:
+translate russian samantha_sharing_bed_8ec2fe3c:
     mike.say "Д... да, Кексик..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3114
-translate russian samantha_sharing_bed_d32b7ac2:
+translate russian samantha_sharing_bed_2a28a404:
     mike.say "Д... да, Сэм..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3115
@@ -7977,11 +7897,11 @@ translate russian samantha_sharing_bed_5df3b5f5_1:
     samantha.say "Думаю, теперь ты уснёшь крепче!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3210
-translate russian samantha_sharing_bed_c253ce9b_1:
+translate russian samantha_sharing_bed_8ec2fe3c_1:
     mike.say "Д... да, Кексик..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3212
-translate russian samantha_sharing_bed_d32b7ac2_1:
+translate russian samantha_sharing_bed_2a28a404_1:
     mike.say "Д... да, Сэм..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3213
@@ -8912,10 +8832,6 @@ translate russian bree_minami_samantha_sasha_male_ending_ba3127d2:
 translate russian bree_minami_samantha_sasha_male_ending_7d99acbf:
     minami.say "Так, девчонки, я воспользуюсь правом младшей сестры."
 
-# ch/harems/home/events/home_harem_samantha.rpy:3563
-translate russian bree_minami_samantha_sasha_male_ending_3ba59f27:
-    minami.say "Я знаю братика ГОРАЗДО дольше любой из вас!"
-
 # ch/harems/home/events/home_harem_samantha.rpy:3564
 translate russian bree_minami_samantha_sasha_male_ending_e8e71870:
     samantha.say "Ладно, ладно."
@@ -8937,7 +8853,7 @@ translate russian bree_minami_samantha_sasha_male_ending_0458b022:
     bree.say "Ты права, Сэм."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3569
-translate russian bree_minami_samantha_sasha_male_ending_68919493:
+translate russian bree_minami_samantha_sasha_male_ending_777b0740:
     minami.say "Ага... прости."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3570
@@ -9024,10 +8940,6 @@ translate russian bree_minami_samantha_sasha_male_ending_e5aa71d0:
 translate russian bree_minami_samantha_sasha_male_ending_7e92fea4:
     minami.say "О-о, как мило."
 
-# ch/harems/home/events/home_harem_samantha.rpy:3592
-translate russian bree_minami_samantha_sasha_male_ending_92b631e1:
-    minami.say "Но только не говорите этого братику."
-
 # ch/harems/home/events/home_harem_samantha.rpy:3593
 translate russian bree_minami_samantha_sasha_male_ending_930c3844:
     samantha.say "Согласна, он и так слишком много о себе думает!"
@@ -9037,7 +8949,7 @@ translate russian bree_minami_samantha_sasha_male_ending_abb60c53:
     bree.say "Ага, для новых всегда найдётся место!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3596
-translate russian bree_minami_samantha_sasha_male_ending_c291fd36:
+translate russian bree_minami_samantha_sasha_male_ending_1e17304e:
     minami.say "А... к нам ещё кто-то въезжает?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3597
@@ -9053,7 +8965,7 @@ translate russian bree_minami_samantha_sasha_male_ending_f3137a95:
     minami.say "А-а..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3602
-translate russian bree_minami_samantha_sasha_male_ending_6a8d620b:
+translate russian bree_minami_samantha_sasha_male_ending_57ef5760:
     bree.say "Да-да... знаю."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3603
@@ -9103,10 +9015,6 @@ translate russian bree_minami_samantha_sasha_male_ending_08aabbe0:
 # ch/harems/home/events/home_harem_samantha.rpy:3617
 translate russian bree_minami_samantha_sasha_male_ending_41959a6b:
     minami.say "Всё замечательно."
-
-# ch/harems/home/events/home_harem_samantha.rpy:3618
-translate russian bree_minami_samantha_sasha_male_ending_b54190ec:
-    minami.say "Братик со мной, как я всегда и хотела."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3619
 translate russian bree_minami_samantha_sasha_male_ending_ff1df8bc:
@@ -9577,7 +9485,7 @@ translate russian bree_samantha_sasha_male_ending_bd72c759:
     samantha.say "Всего с двумя?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3772
-translate russian bree_samantha_sasha_male_ending_6a8d620b:
+translate russian bree_samantha_sasha_male_ending_57ef5760:
     bree.say "Да-да... знаю."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3773
@@ -9721,7 +9629,7 @@ translate russian tv_bj_bree_samantha_sasha_c350538a:
     samantha.say "Правда ведь?"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3825
-translate russian tv_bj_bree_samantha_sasha_d32b7ac2:
+translate russian tv_bj_bree_samantha_sasha_2a28a404:
     mike.say "Д... да, Сэм..."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3826
@@ -9801,7 +9709,7 @@ translate russian tv_bj_bree_samantha_sasha_a1f0e512:
     bree.say "А-а!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3852
-translate russian tv_bj_bree_samantha_sasha_9e908734:
+translate russian tv_bj_bree_samantha_sasha_cf813bab:
     bree.say "А... это всего лишь ты, Сэм!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:3853
@@ -9831,10 +9739,6 @@ translate russian tv_bj_bree_samantha_sasha_ff03e43d:
 # ch/harems/home/events/home_harem_samantha.rpy:3859
 translate russian tv_bj_bree_samantha_sasha_d705ff7b:
     "Но мысль о том, что они подерутся за это место, уже не так привлекательна."
-
-# ch/harems/home/events/home_harem_samantha.rpy:3860
-translate russian tv_bj_bree_samantha_sasha_8b7757d5:
-    mike.say "Я просто смотрел телевизор, [lssb_homesam.bree_name()]."
 
 # ch/harems/home/events/home_harem_samantha.rpy:3861
 translate russian tv_bj_bree_samantha_sasha_5649ada0:

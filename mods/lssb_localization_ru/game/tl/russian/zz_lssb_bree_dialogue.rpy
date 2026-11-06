@@ -284,24 +284,20 @@ translate russian bree_propose_male_02f2675e:
 translate russian bree_propose_male_b1050b74:
     "Поэтому я просто беру ее за руку и опускаюсь на одно колено, прямо здесь и сейчас."
 
-# ch/bree/base.rpy:171
-translate russian bree_propose_male_1e5c25ea:
-    mike.say "[bree.name]... ты выйдешь за меня?"
-
 # ch/bree/base.rpy:174
 translate russian bree_propose_male_3ecec952:
     "Глаза [bree.name] бегают в разные стороны, она замечает, что люди уже начинают смотреть в нашу сторону."
 
 # ch/bree/base.rpy:175
-translate russian bree_propose_male_7c8cde0c:
+translate russian bree_propose_male_5cb56a8a:
     bree.say "Что... ты действительно серьезно?"
 
 # ch/bree/base.rpy:176
-translate russian bree_propose_male_fffaef06:
+translate russian bree_propose_male_8685b174:
     mike.say "Эм... ну... да, почти."
 
 # ch/bree/base.rpy:177
-translate russian bree_propose_male_ffce1ac0:
+translate russian bree_propose_male_5a0910bb:
     mike.say "Я имею в виду... у меня даже есть кольцо!"
 
 # ch/bree/base.rpy:178
@@ -325,7 +321,7 @@ translate russian bree_propose_male_ddff8f29:
     "Сначала лицо [bree.name] выражает удивление, но вскоре на нем появляется сияющая улыбка чистейшего счастья."
 
 # ch/bree/base.rpy:187
-translate russian bree_propose_male_e1b46ca0:
+translate russian bree_propose_male_9ed5cf82:
     bree.say "Да... да, конечно, я согласна!"
 
 # ch/bree/base.rpy:188
@@ -524,17 +520,9 @@ translate russian bree_greet_1eb20d34:
 translate russian bree_greet_b8a33345:
     bree.say "Ты позволишь мне потрогать твой джойстик?"
 
-# ch/bree/base.rpy:343
-translate russian bree_greet_dialogues_male_fdf695d3:
-    mike.say "Привет, [bree.name]."
-
 # ch/bree/base.rpy:345
 translate russian bree_greet_dialogues_male_6810e1f5:
     mike.say "Привет."
-
-# ch/bree/base.rpy:348
-translate russian bree_greet_dialogues_male_ba23a971:
-    mike.say "Привет, [bree.name]."
 
 # ch/bree/base.rpy:350
 translate russian bree_greet_dialogues_male_1b42e3eb:
@@ -804,173 +792,9 @@ translate russian bree_walk_outside_garden_cda2e136:
 translate russian bree_walk_outside_garden_e58a3d6d:
     "Я качаю головой, чувствуя себя возбужденным, и провожу ее обратно по улице к дому, ввожу внутрь и закрываю дверь на замок."
 
-# ch/bree/base.rpy:508
-translate russian bree_walk_outside_park_a7d1d6ff:
-    "Она с энтузиазмом вылезает на тротуар на четвереньках, и я чуть не забываю оглядеться, чтобы убедиться, что никто нас не наблюдает."
-
-# ch/bree/base.rpy:511
-translate russian bree_walk_outside_park_1066df66:
-    "Вид ее обнаженной задницы в движении, а также редкие проблески груди, покачивающиеся из стороны в сторону, просто завораживают."
-
-# ch/bree/base.rpy:515
-translate russian bree_walk_outside_park_2e3c811d:
-    "Несколько раз, прежде чем мы доберемся до ворот парка, я почти уверен, что вижу отблески света, когда люди дергают шторы."
-
-# ch/bree/base.rpy:516
-translate russian bree_walk_outside_park_184a5148:
-    "Именно неопределенность того, наблюдают ли за нами или нет, делает эту мысль такой захватывающей для меня."
-
-# ch/bree/base.rpy:517
-translate russian bree_walk_outside_park_11210db9:
-    "Но если кто-то подглядывает из-за своих занавесок за мной и моей необычной \"питомницей\" сегодня вечером, они явно не собираются выходить и упрекать меня в этом."
-
-# ch/bree/base.rpy:518
-translate russian bree_walk_outside_park_2e882ce8:
-    "Для обычных владельцев собак уже слишком поздно, когда мы наконец сворачиваем с улицы и заходим в парк."
-
-# ch/bree/base.rpy:519
-translate russian bree_walk_outside_park_f009a661:
-    "Хотя время от времени я слышу какие-то звуки, которые, как мне кажется, не могут исходить от животных."
-
-# ch/bree/base.rpy:520
-translate russian bree_walk_outside_park_7c907d2c:
-    "В парке нет уличного освещения, и нам кажется, что мы находимся в нашем собственном маленьком мире темноты, когда мы добираемся до рощи деревьев."
-
-# ch/bree/base.rpy:521
-translate russian bree_walk_outside_park_22ba6765:
-    "Как раз в этот момент я слышу отчетливый звук быстро приближающихся шагов."
-
-# ch/bree/base.rpy:522
-translate russian bree_walk_outside_park_61514c0d:
-    "Я оглядываюсь через плечо и вижу бегущую женщину, которая направляется по дорожке прямо к тому месту, где я стою."
-
-# ch/bree/base.rpy:523
-translate russian bree_walk_outside_park_25f3c7c2:
-    "Я аккуратно посторонился, когда она проходила мимо, и вежливо улыбнулся ей."
-
-# ch/bree/base.rpy:524
-translate russian bree_walk_outside_park_2cb154b0:
-    "Но всё это время я молча паниковал, пытаясь удержаться от того, чтобы взглянуть на [bree.name], боясь привлечь внимание бегущего."
-
-# ch/bree/base.rpy:525
-translate russian bree_walk_outside_park_e50f2274:
-    "Она бросила на меня быстрый взгляд и улыбнулась, прежде чем обойти меня и побежать дальше, пока она не скрылась из виду."
-
-# ch/bree/base.rpy:526
-translate russian bree_walk_outside_park_754d16e9:
-    "Наконец, я смог выдохнуть и посмотреть в ту сторону, где я видел свою сучку в последний раз."
-
-# ch/bree/base.rpy:527
-translate russian bree_walk_outside_park_2617d055:
-    "Потрясенный пережитым, но не желая показывать это [bree.name], я вошел в рощу деревьев и позвал ее подойти ко мне."
-
-# ch/bree/base.rpy:528
-translate russian bree_walk_outside_park_e3bbea9d:
-    "Она охотно подчиняется. Кажется, она либо вовсе не заметила пробежавшего мимо человека, либо, наоборот, получила удовольствие от риска быть замеченной."
-
-# ch/bree/base.rpy:530
-translate russian bree_walk_outside_park_739efe9f:
-    "Тогда я поднял голову и увидел, что она подняла руку, прося разрешения говорить."
-
-# ch/bree/base.rpy:531
-translate russian bree_walk_outside_park_10829a6f:
-    mike.say "Хорошо, [bree.name], что ты хотела сказать?"
-
-# ch/bree/base.rpy:532
-translate russian bree_walk_outside_park_c762e0a9:
-    bree.say "Теперь, когда мы позанимались спортом и повеселились..."
-
-# ch/bree/base.rpy:533
-translate russian bree_walk_outside_park_f5914ab5:
-    bree.say "Разве [hero.name] не позволил бы мне сделать для него что-нибудь приятное и веселое?"
-
-# ch/bree/base.rpy:534
-translate russian bree_walk_outside_park_f836fe0e:
-    "Я смотрю на улыбку [bree.name] и ее большие, кажущиеся невинными глаза."
-
-# ch/bree/base.rpy:535
-translate russian bree_walk_outside_park_4b483ae8:
-    "Почему бы мне ей не уступить?"
-
-# ch/bree/base.rpy:536
-translate russian bree_walk_outside_park_e1af42d3:
-    "За все время, пока мы были здесь, мы видели только одного человека, и теперь мы действительно находимся среди деревьев."
-
-# ch/bree/base.rpy:537
-translate russian bree_walk_outside_park_f627ed1b:
-    "К тому же, мои нервы порядком напряжены."
-
-# ch/bree/base.rpy:538
-translate russian bree_walk_outside_park_c0498778:
-    "Мне было бы неплохо немного повеселиться, чтобы успокоиться перед тем, как мы вернемся домой."
-
-# ch/bree/base.rpy:539
-translate russian bree_walk_outside_park_e8fb49b3:
-    "Я снисходительно улыбнулся [bree.name] и кивнул в знак согласия."
-
-# ch/bree/base.rpy:540
-translate russian bree_walk_outside_park_947b8a07:
-    "В ответ она хлопает в ладоши и радостно шагает вперед, пока не опускается на колени передо мной."
-
-# ch/bree/base.rpy:542
-translate russian bree_walk_outside_park_9e7a029c:
-    "[bree.name] расстёгивает мою ширинку и достаёт член, тихонько попискивая от возбуждения."
-
-# ch/bree/base.rpy:543
-translate russian bree_walk_outside_park_86f437da:
-    "Здесь, где мы стоим, холодно, и этот ветерок снова возвращается с новой силой."
-
-# ch/bree/base.rpy:545
-translate russian bree_walk_outside_park_ef5bbe44:
-    "Но, словно чувствуя, что холод заставляет меня немного нервничать, [bree.name] не теряет времени и обхватывает своими губами мой член."
-
-# ch/bree/base.rpy:546
-translate russian bree_walk_outside_park_e0ee2664:
-    "Я еще не полностью возбужден, но ощущение её влажного, теплого языка вскоре решает эту проблему."
-
-# ch/bree/base.rpy:547
-translate russian bree_walk_outside_park_44a31f51:
-    "Наблюдать за выражением лица [bree.name], когда она буквально провоцирует мой член на полную эрекцию – это само по себе незабываемо."
-
-# ch/bree/base.rpy:549
-translate russian bree_walk_outside_park_99e8e05d:
-    "По мере того, как он растет, ей приходится маневрировать вокруг него и изо всех сил стараться удержать его внутри своей рта."
-
-# ch/bree/base.rpy:550
-translate russian bree_walk_outside_park_c4faf75b:
-    "Её почти упрямое стремление не дать ему выскользнуть из её рта возбуждает меня почти так же сильно, как и оральный секс, который она мне делает."
-
-# ch/bree/base.rpy:551
-translate russian bree_walk_outside_park_d46cd615:
-    "Действительно, [bree.name] стонет и жалуется всякий раз, когда кажется, что мой член вот-вот выскользнет из-под её губ."
-
-# ch/bree/base.rpy:553
-translate russian bree_walk_outside_park_5b366d63:
-    "Я теряюсь в [bree.name], и капля моей спермы начинает вытекать из уголка ее рта."
-
-# ch/bree/base.rpy:556
-translate russian bree_walk_outside_park_35af888c:
-    "Я стою неподвижно и позволяю [bree.name] вернуть мой член в мои штаны."
-
-# ch/bree/base.rpy:558
-translate russian bree_walk_outside_park_a0957f89:
-    "Держа её \"игрушку\" крепко, но нежно, я слегка тяну за неё, заставляя её идти почти идеально рядом со мной."
-
-# ch/bree/base.rpy:559
-translate russian bree_walk_outside_park_46b68a0b:
-    "Нам не занимает много времени пройти короткое расстояние до дома, и по пути даже меньше признаков жизни, чем было вечером."
-
-# ch/bree/base.rpy:576
-translate russian bree_ask_date_anna_bree_8f5d12dd:
-    mike.say "[bree.name]... как насчет того, чтобы ты и Анна провели со мной еще один из ваших \"экспериментов\"?"
-
 # ch/bree/base.rpy:577
 translate russian bree_ask_date_anna_bree_8932040f:
     bree.say "Чисто в научных целях, конечно."
-
-# ch/bree/base.rpy:590
-translate russian bree_ask_date_alone_male_18902ae0:
-    mike.say "[bree.name], ты хотела бы пойти со мной на свидание?"
 
 # ch/bree/base.rpy:592
 translate russian bree_ask_date_alone_male_9b904219:
@@ -1552,10 +1376,6 @@ translate russian bree_love_2_male_58b6e529:
 translate russian bree_love_2_male_a25a0fe0:
     mike.say "Конечно."
 
-# ch/bree/chat.rpy:337
-translate russian bree_love_2_male_2b0d0b47:
-    mike.say "Слушай, [bree.name], когда у тебя день рождения?"
-
 # ch/bree/chat.rpy:338
 translate russian bree_love_2_male_39597d08:
     bree.say "[bree.birthday[1]]-й день [lssb_bree.season(bree.birthday[0])]."
@@ -1716,10 +1536,6 @@ translate russian bree_love_4_male_f192051f:
 translate russian bree_love_4_male_ac4b859d:
     mike.say "К тому же, если бы это был сон, я бы сейчас тебя целовал."
 
-# ch/bree/chat.rpy:429
-translate russian bree_love_4_male_c49f74c4:
-    mike.say "Мне надо кое в чём признаться, [bree.name]..."
-
 # ch/bree/chat.rpy:430
 translate russian bree_love_4_male_a6d99c24:
     bree.say "Я слушаю."
@@ -1748,10 +1564,6 @@ translate russian bree_love_5_male_dde83022:
 translate russian bree_love_5_male_263174b4:
     bree.say "[hero.name], такое чувство, будто мы знакомы вечность. Будто мы родственные души."
 
-# ch/bree/chat.rpy:453
-translate russian bree_good_sweet_talk_male_21ea75a3:
-    mike.say "Обожаю играть с тобой в видеоигры, [bree.name]."
-
 # ch/bree/chat.rpy:454
 translate russian bree_good_sweet_talk_male_4f6aa663:
     mike.say "Но наши игры в постели намного лучше!"
@@ -1760,21 +1572,13 @@ translate russian bree_good_sweet_talk_male_4f6aa663:
 translate russian bree_good_sweet_talk_male_1a696a16:
     bree.say "О, я понимаю, о чём ты!"
 
-# ch/bree/chat.rpy:458
-translate russian bree_good_sweet_talk_male_6effe125:
-    mike.say "Отлично выглядишь сегодня, [bree.name]. Очень сексуально!"
-
 # ch/bree/chat.rpy:459
 translate russian bree_good_sweet_talk_male_1c911e7f:
     mike.say "Впрочем, ты всегда прекрасно выглядишь!"
 
 # ch/bree/chat.rpy:461
-translate russian bree_good_sweet_talk_male_821c5a23:
+translate russian bree_good_sweet_talk_male_1d55ac9a:
     bree.say "Ой... льстец!"
-
-# ch/bree/chat.rpy:463
-translate russian bree_good_sweet_talk_male_f93d4df3:
-    mike.say "Мне нравится проводить с тобой время, [bree.name]."
 
 # ch/bree/chat.rpy:464
 translate russian bree_good_sweet_talk_male_a25a25e9:
@@ -1788,10 +1592,6 @@ translate russian bree_good_sweet_talk_male_1d900a22:
 translate russian bree_good_sweet_talk_male_b14fcf09:
     bree.say "Бездельничать вдвоём с тобой — лучше всего!"
 
-# ch/bree/chat.rpy:473
-translate russian bree_bad_sweet_talk_male_a7110ea4:
-    mike.say "А ты довольно умная для такой смешной блондинки, [bree.name]!"
-
 # ch/bree/chat.rpy:475
 translate russian bree_bad_sweet_talk_male_007eae1d:
     bree.say "И что это значит?"
@@ -1801,7 +1601,7 @@ translate russian bree_bad_sweet_talk_male_bcb9521a:
     bree.say "Думал, я пустоголовая дурочка?"
 
 # ch/bree/chat.rpy:477
-translate russian bree_bad_sweet_talk_male_3dce6cde:
+translate russian bree_bad_sweet_talk_male_79e07051:
     mike.say "Эм... по-моему, я сказал совсем не это!"
 
 # ch/bree/condom.rpy:5
@@ -1811,10 +1611,6 @@ translate russian bree_use_condom_33b55bad:
 # ch/bree/condom.rpy:6
 translate russian bree_use_condom_c5a6c9e5:
     bree.say "Иначе ты не подойдешь ко мне с этим!"
-
-# ch/bree/condom.rpy:7
-translate russian bree_use_condom_8efa4b15:
-    mike.say "Ты права, [bree.name]."
 
 # ch/bree/condom.rpy:8
 translate russian bree_use_condom_7f21ee15:
@@ -1827,10 +1623,6 @@ translate russian bree_use_condom_27a12150:
 # ch/bree/condom.rpy:10
 translate russian bree_use_condom_30e74fc5:
     mike.say "Эм..."
-
-# ch/bree/condom.rpy:11
-translate russian bree_use_condom_c31680d4:
-    mike.say "Это не моя комната, [bree.name]."
 
 # ch/bree/condom.rpy:12
 translate russian bree_use_condom_b7260a33:
@@ -1864,10 +1656,6 @@ translate russian bree_use_condom_7be24961:
 translate russian bree_use_condom_4372a4dd:
     "Но потом я вспоминаю кое-что важное."
 
-# ch/bree/condom.rpy:21
-translate russian bree_use_condom_072b3454:
-    mike.say "Постой, [bree.name]..."
-
 # ch/bree/condom.rpy:22
 translate russian bree_use_condom_3f947aba:
     mike.say "Мне просто нужно взять презерватив."
@@ -1900,10 +1688,6 @@ translate russian bree_use_condom_aa1762f7:
 translate russian bree_use_condom_6d98bf0c:
     "Но сначала – самое главное."
 
-# ch/bree/condom.rpy:31
-translate russian bree_use_condom_3dc7f442:
-    mike.say "[bree.name]..."
-
 # ch/bree/condom.rpy:32
 translate russian bree_use_condom_61ff5113:
     mike.say "Нам сначала нужна защита."
@@ -1917,7 +1701,7 @@ translate russian bree_use_condom_03804f0f:
     mike.say "Нет, я имею в виду презерватив!"
 
 # ch/bree/condom.rpy:35
-translate russian bree_use_condom_fec90a8b:
+translate russian bree_use_condom_1ba58bcf:
     bree.say "Ой... извини!"
 
 # ch/bree/condom.rpy:36
@@ -2028,10 +1812,6 @@ translate russian bree_force_condom_83da49d6:
 translate russian bree_force_condom_efde6d30:
     "И затем мы сразу же возвращаемся к действиям."
 
-# ch/bree/condom.rpy:88
-translate russian bree_mad_condom_1e3704a9:
-    mike.say "Да ладно тебе, [bree.name]!"
-
 # ch/bree/condom.rpy:89
 translate russian bree_mad_condom_f968daa2:
     mike.say "Прекрати тормозить!"
@@ -2068,10 +1848,6 @@ translate russian bree_mad_condom_1853a764:
 translate russian bree_mad_condom_7f9b1886:
     "Я качаю головой и хмурюсь на [bree.name]."
 
-# ch/bree/condom.rpy:99
-translate russian bree_mad_condom_4d940330:
-    mike.say "Что за черт, [bree.name]?"
-
 # ch/bree/condom.rpy:100
 translate russian bree_mad_condom_8deee891:
     mike.say "Я думал, ты хотела жить на грани?"
@@ -2099,10 +1875,6 @@ translate russian bree_mad_condom_435b0f7e:
 # ch/bree/condom.rpy:106
 translate russian bree_mad_condom_96fda810:
     bree.say "Потому что мне это больше неинтересно!"
-
-# ch/bree/condom.rpy:108
-translate russian bree_mad_condom_22f0c35c:
-    mike.say "Серьезно, [bree.name]?"
 
 # ch/bree/condom.rpy:109
 translate russian bree_mad_condom_d2a923fd:
@@ -2152,10 +1924,6 @@ translate russian bree_mad_condom_4ead3a81:
 translate russian bree_mad_condom_2badeec5:
     "Похоже, я все испортил, хотя это могла быть прекрасная ночь."
 
-# ch/bree/date.rpy:2
-translate russian bree_date_intro_valentine_male_386df97f:
-    mike.say "Счастливого Дня святого Валентина, [bree.name]!"
-
 # ch/bree/date.rpy:3
 translate russian bree_date_intro_valentine_male_66d846f9:
     bree.say "И тебе счастливого Дня святого Валентина, [hero.name]!"
@@ -2176,17 +1944,9 @@ translate russian bree_date_intro_valentine_male_0b3c8d66:
 translate russian bree_date_intro_valentine_male_7c781d42:
     bree.say "Начнем наше свидание?"
 
-# ch/bree/date.rpy:8
-translate russian bree_date_intro_valentine_male_a54ebef3:
-    mike.say "Д… да, конечно, [bree.name]."
-
 # ch/bree/date.rpy:9
 translate russian bree_date_intro_valentine_male_c1f18b0d:
     mike.say "Я так жду!"
-
-# ch/bree/date.rpy:13
-translate russian bree_date_intro_halloween_male_561e0fc0:
-    mike.say "Ого, [bree.name], ты сегодня потрясающе выглядишь!"
 
 # ch/bree/date.rpy:14
 translate russian bree_date_intro_halloween_male_84d3a408:
@@ -2220,10 +1980,6 @@ translate russian bree_date_intro_halloween_male_3bd4c1ec:
 translate russian bree_date_intro_halloween_male_874e03c0:
     mike.say "Да, было бы весело. Может, в следующем году?"
 
-# ch/bree/date.rpy:25
-translate russian bree_date_intro_christmas_male_6a348c41:
-    mike.say "Ты готова к нашему свиданию, [bree.name]?"
-
 # ch/bree/date.rpy:26
 translate russian bree_date_intro_christmas_male_0e98c949:
     mike.say "Тебе тоже лучше одеться потеплее, потому что на улице холодно!"
@@ -2243,10 +1999,6 @@ translate russian bree_date_intro_christmas_male_fb5bccb9:
 # ch/bree/date.rpy:30
 translate russian bree_date_intro_christmas_male_c9643ce5:
     bree.say "Думаю, я готова снова встретить это особенное время года!"
-
-# ch/bree/date.rpy:34
-translate russian bree_date_intro_birthday_male_5d948e79:
-    mike.say "С днем рождения, [bree.name]!"
 
 # ch/bree/date.rpy:35
 translate russian bree_date_intro_birthday_male_5f5878f4:
@@ -2275,10 +2027,6 @@ translate russian bree_date_intro_mc_birthday_male_da6b0ae5:
 # ch/bree/date.rpy:44
 translate russian bree_date_intro_mc_birthday_male_775c1080:
     bree.say "Ну же, давай уже пойдём отмечать!"
-
-# ch/bree/date.rpy:45
-translate russian bree_date_intro_mc_birthday_male_f59e3fe7:
-    mike.say "Постой... подожди меня, [bree.name]!"
 
 # ch/bree/date.rpy:46
 translate russian bree_date_intro_mc_birthday_male_ccacb15e:
@@ -2460,10 +2208,6 @@ translate russian bree_date_play_arcade_intro_male_177a1ab7:
 translate russian bree_date_play_arcade_intro_male_3f8382ca:
     mike.say "Ого..."
 
-# ch/bree/date.rpy:172
-translate russian bree_date_play_arcade_intro_male_4103cdb4:
-    mike.say "Подожди, [bree.name]!"
-
 # ch/bree/date.rpy:173
 translate russian bree_date_play_arcade_intro_male_a701e886:
     mike.say "У нас полно времени, чтобы все это посмотреть."
@@ -2547,10 +2291,6 @@ translate russian bree_date_play_arcade_win_male_4ea084fb:
 # ch/bree/date.rpy:196
 translate russian bree_date_play_arcade_win_male_d4a81237:
     bree.say "Мне это было нужно, [hero.name]!"
-
-# ch/bree/date.rpy:197
-translate russian bree_date_play_arcade_win_male_7c888144:
-    mike.say "Прости, [bree.name]."
 
 # ch/bree/date.rpy:198
 translate russian bree_date_play_arcade_win_male_f64e7477:
@@ -2644,12 +2384,8 @@ translate russian bree_date_play_arcade_lose_male_6952f14c:
 translate russian bree_date_play_arcade_lose_male_75c06a0b:
     mike.say "Эй!"
 
-# ch/bree/date.rpy:224
-translate russian bree_date_play_arcade_lose_male_0f6cafa7:
-    mike.say "Мне это было нужно, [bree.name]!"
-
 # ch/bree/date.rpy:225
-translate russian bree_date_play_arcade_lose_male_904159b0:
+translate russian bree_date_play_arcade_lose_male_1eb46b7a:
     bree.say "О... извини, [hero.name]!"
 
 # ch/bree/date.rpy:226
@@ -2724,10 +2460,6 @@ translate russian bree_date_play_arcade_lose_male_2b612ec7:
 translate russian bree_date_play_arcade_lose_male_f3ae1780:
     "Я улыбаюсь [bree.name], стараясь быть хорошим проигравшим."
 
-# ch/bree/date.rpy:244
-translate russian bree_date_play_arcade_lose_male_fa15efab:
-    mike.say "Ты выиграла, [bree.name]."
-
 # ch/bree/date.rpy:245
 translate russian bree_date_play_arcade_lose_male_89f6a3ca:
     mike.say "Но я одолею тебя в следующий раз!"
@@ -2753,7 +2485,7 @@ translate russian bree_pet_activity_male_6d4bc7b8:
     bree.say "Это так приятно..."
 
 # ch/bree/date.rpy:267
-translate russian bree_dick_reactions_5a8e0769:
+translate russian bree_dick_reactions_6db4c8d9:
     bree.say "О...Боже..."
 
 # ch/bree/date.rpy:268
@@ -2765,11 +2497,11 @@ translate russian bree_dick_reactions_ee009eb5:
     bree.say "Как тебе удалось это скрыть?!"
 
 # ch/bree/date.rpy:270
-translate russian bree_dick_reactions_20bbaae3:
+translate russian bree_dick_reactions_2ab68e3b:
     mike.say "Ну… я могу показать тебе, где я люблю это прятать?"
 
 # ch/bree/date.rpy:272
-translate russian bree_dick_reactions_12bfb962:
+translate russian bree_dick_reactions_2246b45b:
     bree.say "Ооо... звучит интересно!"
 
 # ch/bree/date.rpy:276
@@ -2780,12 +2512,8 @@ translate russian bree_dick_reactions_b1e163fb:
 translate russian bree_dick_reactions_9a781956:
     bree.say "Ну что ж, не всегда же побеждать!"
 
-# ch/bree/date.rpy:279
-translate russian bree_dick_reactions_1acd9fe7:
-    mike.say "У тебя что-то случилось, [bree.name]?"
-
 # ch/bree/date.rpy:280
-translate russian bree_dick_reactions_8f6bb6b9:
+translate russian bree_dick_reactions_0bd2dca5:
     bree.say "Ну… скажем так, хорошо, что мне нравится твой характер!"
 
 # ch/bree/date.rpy:286
@@ -3016,10 +2744,6 @@ translate russian bree_peeping_reactions_male_b556c70a:
 translate russian bree_peeping_reactions_male_6fd20de7:
     bree.say "Я знала, что это должен быть ты!"
 
-# ch/bree/date.rpy:367
-translate russian bree_peeping_reactions_male_fd98259b:
-    mike.say "Постой... немного отступи, [bree.name]!"
-
 # ch/bree/date.rpy:368
 translate russian bree_peeping_reactions_male_087c434d:
     mike.say "Я просто хотел посмотреть, свободна ли ванная комната."
@@ -3076,10 +2800,6 @@ translate russian bree_halloween_invitation_51d368bc:
 translate russian bree_halloween_invitation_81f96a26:
     "И тогда я пытаюсь объяснить [bree.name]."
 
-# ch/bree/date.rpy:392
-translate russian bree_halloween_invitation_3dc7f442:
-    mike.say "[bree.name]..."
-
 # ch/bree/date.rpy:393
 translate russian bree_halloween_invitation_3e13769f:
     mike.say "О вечеринке на Хэллоуин..."
@@ -3095,10 +2815,6 @@ translate russian bree_halloween_invitation_2253591e:
 # ch/bree/date.rpy:397
 translate russian bree_halloween_invitation_3698d3c9:
     bree.say "Будет здорово, я точно знаю!"
-
-# ch/bree/date.rpy:398
-translate russian bree_halloween_invitation_3043a862:
-    mike.say "Я тоже так думаю, [bree.name]."
 
 # ch/bree/date.rpy:399
 translate russian bree_halloween_invitation_7a0ea7f8:
@@ -3119,10 +2835,6 @@ translate russian bree_halloween_invitation_acfd9ad9:
 # ch/bree/date.rpy:404
 translate russian bree_halloween_invitation_c5e0161f:
     bree.say "Мы не можем пойти на вечеринку, если мы ее устраиваем!"
-
-# ch/bree/date.rpy:405
-translate russian bree_halloween_invitation_746934f6:
-    mike.say "Да, [bree.name], я это знаю."
 
 # ch/bree/date.rpy:406
 translate russian bree_halloween_invitation_cc349458:
@@ -3172,10 +2884,6 @@ translate russian bree_halloween_invitation_57ed36db:
 translate russian bree_halloween_invitation_81a1ff2d:
     "Наконец-то до неё дошло!"
 
-# ch/bree/date.rpy:422
-translate russian bree_halloween_invitation_04a188a7:
-    mike.say "Вот именно, [bree.name]."
-
 # ch/bree/date.rpy:423
 translate russian bree_halloween_invitation_79506401:
     mike.say "Прости, если это звучит слишком ревниво и странно!"
@@ -3211,10 +2919,6 @@ translate russian bree_halloween_invitation_d22e6d5d:
 # ch/bree/date.rpy:435
 translate russian bree_halloween_invitation_1e0cb02d:
     bree.say "Как только увидишь мой костюм!"
-
-# ch/bree/date.rpy:436
-translate russian bree_halloween_invitation_17dab93c:
-    mike.say "Почему, [bree.name]?"
 
 # ch/bree/date.rpy:437
 translate russian bree_halloween_invitation_2c4c151d:
@@ -3272,10 +2976,6 @@ translate russian bree_halloween_invitation_a782dd1f:
 translate russian bree_halloween_invitation_3d2ce194:
     "[bree.name] права, нам действительно нужно много работать, чтобы все получилось."
 
-# ch/bree/date.rpy:453
-translate russian bree_halloween_invitation_90b7fd7d:
-    mike.say "Да, [bree.name]."
-
 # ch/bree/date.rpy:454
 translate russian bree_halloween_invitation_da36fd34:
     mike.say "\"Когда ты так говоришь...\"."
@@ -3303,10 +3003,6 @@ translate russian bree_halloween_invitation_db497c2e:
 # ch/bree/date.rpy:461
 translate russian bree_halloween_invitation_67fa8f8c:
     bree.say "Так заняты, что ты забудешь обо всем этом!"
-
-# ch/bree/date.rpy:462
-translate russian bree_halloween_invitation_2ca90851:
-    mike.say "Конечно, [bree.name]."
 
 # ch/bree/date.rpy:463
 translate russian bree_halloween_invitation_97b03282:
@@ -3351,10 +3047,6 @@ translate russian bree_halloween_arrival_d7b96df3:
 # ch/bree/date.rpy:479
 translate russian bree_halloween_arrival_7155e040:
     "Все это – подготовка к тому, чтобы сказать ей все, что я думаю."
-
-# ch/bree/date.rpy:482
-translate russian bree_halloween_arrival_798c5dd5:
-    mike.say "Вау, [bree.name]..."
 
 # ch/bree/date.rpy:483
 translate russian bree_halloween_arrival_a6f8c034:
@@ -3405,7 +3097,7 @@ translate russian bree_halloween_arrival_4d4a847d:
     "Неужели я настолько прозрачен, так легко читаем?"
 
 # ch/bree/date.rpy:497
-translate russian bree_halloween_arrival_c253fd2d:
+translate russian bree_halloween_arrival_6525e3ba:
     mike.say "Я... я не хотел..."
 
 # ch/bree/date.rpy:498
@@ -3420,10 +3112,6 @@ translate russian bree_halloween_arrival_ae2c8ff1:
 translate russian bree_halloween_arrival_f1d8a63c:
     mike.say "Эм..."
 
-# ch/bree/date.rpy:502
-translate russian bree_halloween_arrival_8b08e1bc:
-    mike.say "У тебя очень красивый костюм, [bree.name]."
-
 # ch/bree/date.rpy:503
 translate russian bree_halloween_arrival_9106c6cc:
     mike.say "Видно, что ты долго его собирала."
@@ -3435,10 +3123,6 @@ translate russian bree_halloween_arrival_5240292b:
 # ch/bree/date.rpy:505
 translate russian bree_halloween_arrival_39567d3e:
     bree.say "Но?"
-
-# ch/bree/date.rpy:506
-translate russian bree_halloween_arrival_1b98542e:
-    mike.say "Но что, [bree.name]?"
 
 # ch/bree/date.rpy:507
 translate russian bree_halloween_arrival_e0d499b2:
@@ -3481,12 +3165,8 @@ translate russian bree_halloween_arrival_889c22f5:
     bree.say "Правда, [hero.name]?"
 
 # ch/bree/date.rpy:519
-translate russian bree_halloween_arrival_2a1b699e:
+translate russian bree_halloween_arrival_e72ca401:
     bree.say "Ладно... давай просто забудем об этом, хорошо?"
-
-# ch/bree/date.rpy:520
-translate russian bree_halloween_arrival_0ef31839:
-    mike.say "Ладно, [bree.name], как скажешь."
 
 # ch/bree/date.rpy:521
 translate russian bree_halloween_arrival_afe126a4:
@@ -3497,7 +3177,7 @@ translate russian bree_halloween_arrival_0f681c79:
     "Но я не могу избавиться от чувства, что все испортил."
 
 # ch/bree/date.rpy:533
-translate russian bree_halloween_party_167164d7:
+translate russian bree_halloween_party_b8c321b1:
     bree.say "Да... ну да, Джек."
 
 # ch/bree/date.rpy:534
@@ -3569,7 +3249,7 @@ translate russian bree_halloween_party_2d735098:
     bree.say "Тебе действительно стоит немного пообщаться с другими людьми."
 
 # ch/bree/date.rpy:554
-translate russian bree_halloween_party_4db02b35:
+translate russian bree_halloween_party_c80a15cd:
     jack.say "Эм... хорошо..."
 
 # ch/bree/date.rpy:555
@@ -3664,10 +3344,6 @@ translate russian bree_halloween_dance_bef431b0:
 translate russian bree_halloween_dance_07d8716e:
     "Потому что [bree.name] не собирается ждать всю ночь."
 
-# ch/bree/date.rpy:598
-translate russian bree_halloween_dance_ac33dd08:
-    mike.say "Знаешь что, [bree.name]? Ты права."
-
 # ch/bree/date.rpy:599
 translate russian bree_halloween_dance_f55fdcb7:
     mike.say "Это же вечеринка."
@@ -3731,10 +3407,6 @@ translate russian bree_halloween_dance_5317a19e:
 # ch/bree/date.rpy:618
 translate russian bree_halloween_dance_14636cb3:
     bree.say "Тогда почему именно ты используешь такой большой инструмент?"
-
-# ch/bree/date.rpy:620
-translate russian bree_halloween_dance_c151a587:
-    mike.say "Нет, [bree.name]."
 
 # ch/bree/date.rpy:621
 translate russian bree_halloween_dance_0c79063e:
@@ -3804,10 +3476,6 @@ translate russian bree_halloween_sex_ceced5af:
 translate russian bree_halloween_sex_faaff48b:
     bree.say "В конце концов, мы оказались хорошими хозяевами!"
 
-# ch/bree/date.rpy:649
-translate russian bree_halloween_sex_262be688:
-    mike.say "\"Да, [bree.name]\"."
-
 # ch/bree/date.rpy:650
 translate russian bree_halloween_sex_c666f57a:
     mike.say "\"Кажется, всем было весело\"."
@@ -3832,16 +3500,12 @@ translate russian bree_halloween_sex_4b657c0f:
 translate russian bree_halloween_sex_248be29b:
     "Она прислоняется к нему и многозначительно подмигивает мне."
 
-# ch/bree/date.rpy:658
-translate russian bree_halloween_sex_d449dd4c:
-    mike.say "\"Звучит неплохо, [bree.name]\"."
-
 # ch/bree/date.rpy:659
 translate russian bree_halloween_sex_2d6c4fd3:
     mike.say "Мы сегодня вкалывали как проклятые."
 
 # ch/bree/date.rpy:660
-translate russian bree_halloween_sex_05c14708:
+translate russian bree_halloween_sex_102d21c0:
     mike.say "Но... ты думаешь о том же, о чем думаю я?"
 
 # ch/bree/date.rpy:661
@@ -3936,10 +3600,6 @@ translate russian bree_halloween_sex_0e2aacc2:
 translate russian bree_halloween_sex_67cce7e4:
     bree.say "Хочу услышать это, прежде чем позволю себе насладиться тобой."
 
-# ch/bree/date.rpy:700
-translate russian bree_halloween_sex_25965c88:
-    mike.say "Ты была идеальна, [bree.name]. Теперь бери заслуженную награду."
-
 # ch/bree/date.rpy:701
 translate russian bree_halloween_sex_f61012f8:
     "Она тихо стонет и закусывает губу, словно эти слова прошли сквозь неё."
@@ -3951,10 +3611,6 @@ translate russian bree_halloween_sex_f44d3897:
 # ch/bree/date.rpy:704
 translate russian bree_halloween_sex_482c0c5c:
     bree.say "Комната без книг — как тело без души. А Хэллоуин без этого прошёл бы совершенно зря."
-
-# ch/bree/date.rpy:705
-translate russian bree_halloween_sex_5cf89b86:
-    mike.say "Очень поэтично, [bree.name]."
 
 # ch/bree/date.rpy:706
 translate russian bree_halloween_sex_18b27de6:
@@ -4148,10 +3804,6 @@ translate russian bree_sasha_collar_reaction_b1ed3423:
 translate russian bree_sasha_collar_reaction_a2422418:
     "Так представьте себе потенциал для конфликтов и раздоров, если она ревнует к другой девушке внутри этих отношений!"
 
-# ch/bree/events/events.rpy:598
-translate russian bree_sasha_collar_reaction_2a749cfe:
-    mike.say "Ладно, [bree.name], в чём дело?"
-
 # ch/bree/events/events.rpy:599
 translate russian bree_sasha_collar_reaction_df886bc4:
     mike.say "Что случилось?"
@@ -4172,16 +3824,12 @@ translate russian bree_sasha_collar_reaction_4f6ed831:
 translate russian bree_sasha_collar_reaction_873872ed:
     "Достаточно всего лишь еще одного взгляда на Сашу, чтобы понять, о чем здесь речь."
 
-# ch/bree/events/events.rpy:606
-translate russian bree_sasha_collar_reaction_04620c74:
-    mike.say "[bree.name], это из-за того ошейника, который я подарил Саше?"
-
 # ch/bree/events/events.rpy:608
 translate russian bree_sasha_collar_reaction_f7acb39f:
     "Она впервые смотрит мне в глаза, хмурая и угрюмая, когда вынуждена признать правду."
 
 # ch/bree/events/events.rpy:610
-translate russian bree_sasha_collar_reaction_c6966740:
+translate russian bree_sasha_collar_reaction_9b2e7161:
     bree.say "Ну да... наверное, именно так."
 
 # ch/bree/events/events.rpy:612
@@ -4197,7 +3845,7 @@ translate russian bree_sasha_collar_reaction_22180e84:
     "И она трясется, словно пытается физически избавиться от чувства, которое заставляет ее чувствовать себя некомфортно."
 
 # ch/bree/events/events.rpy:618
-translate russian bree_sasha_collar_reaction_8cc654bd:
+translate russian bree_sasha_collar_reaction_9b0b1496:
     bree.say "Фу... То есть, серьезно, [hero.name]?"
 
 # ch/bree/events/events.rpy:619
@@ -4224,10 +3872,6 @@ translate russian bree_sasha_collar_reaction_5b6ffcff:
 translate russian bree_sasha_collar_reaction_dc5f2c85:
     "Поэтому, прилагая огромные усилия, чтобы сохранить серьезное выражение лица, я пытаюсь вести себя как дипломат."
 
-# ch/bree/events/events.rpy:629
-translate russian bree_sasha_collar_reaction_fbe935dd:
-    mike.say "Ох... Прости, [bree.name]."
-
 # ch/bree/events/events.rpy:630
 translate russian bree_sasha_collar_reaction_b95d4ae2:
     mike.say "Честно говоря, я и не подозревал, что ты так сильно к этому относишься."
@@ -4245,7 +3889,7 @@ translate russian bree_sasha_collar_reaction_dfa0d6f5:
     "Но мне нужно как-то поддерживать хорошие отношения с [bree.name] и не выглядеть каким-то извращенцем."
 
 # ch/bree/events/events.rpy:635
-translate russian bree_sasha_collar_reaction_04dd17e2:
+translate russian bree_sasha_collar_reaction_82caea94:
     bree.say "Ну... если ей это нравится..."
 
 # ch/bree/events/events.rpy:636
@@ -4261,7 +3905,7 @@ translate russian bree_sasha_collar_reaction_9ab57005:
     "В этот момент [bree.name] начинает двигаться ко мне, кладет руку мне на плечо, чтобы не дать мне подойти к Саше."
 
 # ch/bree/events/events.rpy:642
-translate russian bree_sasha_collar_reaction_b6f16909:
+translate russian bree_sasha_collar_reaction_38e859d2:
     bree.say "Нет... нет, не говори ей, что это я!"
 
 # ch/bree/events/events.rpy:644
@@ -4285,7 +3929,7 @@ translate russian bree_sasha_collar_reaction_e121e623:
     "Но что именно она хочет сказать, мне трудно предположить."
 
 # ch/bree/events/events.rpy:654
-translate russian bree_sasha_collar_reaction_e14a4b33:
+translate russian bree_sasha_collar_reaction_46928f92:
     bree.say "Почему... почему у Саши воротник, а у меня нет?"
 
 # ch/bree/events/events.rpy:656
@@ -4309,16 +3953,12 @@ translate russian bree_sasha_collar_reaction_b042c82e:
     "Она останавливается, и в этот момент я действительно думаю, что она может пролить слезу."
 
 # ch/bree/events/events.rpy:664
-translate russian bree_sasha_collar_reaction_5eaa8c8c:
+translate russian bree_sasha_collar_reaction_0650aafa:
     bree.say "Это... это потому, что ты любишь Сашу больше, чем меня?"
 
 # ch/bree/events/events.rpy:666
 translate russian bree_sasha_collar_reaction_3c2f819c:
     "Её слова совершенно неожиданны, но всё равно они бьют прямо в цель."
-
-# ch/bree/events/events.rpy:667
-translate russian bree_sasha_collar_reaction_ab4c0167:
-    mike.say "[bree.name]... нет же!"
 
 # ch/bree/events/events.rpy:668
 translate russian bree_sasha_collar_reaction_997c1097:
@@ -4327,10 +3967,6 @@ translate russian bree_sasha_collar_reaction_997c1097:
 # ch/bree/events/events.rpy:669
 translate russian bree_sasha_collar_reaction_a8557727:
     "Я качаю головой, осознавая ошибку, которую совершил."
-
-# ch/bree/events/events.rpy:670
-translate russian bree_sasha_collar_reaction_4d7fc233:
-    mike.say "Нет, [bree.name], я люблю тебя так же сильно, как Сашу. Честное слово."
 
 # ch/bree/events/events.rpy:671
 translate russian bree_sasha_collar_reaction_c1f721b7:
@@ -4356,16 +3992,12 @@ translate russian bree_sasha_collar_reaction_6d6b883c:
 translate russian bree_sasha_collar_reaction_044e837c:
     "Я придумал всё это на ходу, надеясь выиграть немного времени!"
 
-# ch/bree/events/events.rpy:679
-translate russian bree_sasha_collar_reaction_83c5d991:
-    mike.say "У меня сейчас нет твоего ошейника при себе, [bree.name]."
-
 # ch/bree/events/events.rpy:681
 translate russian bree_sasha_collar_reaction_5d4f30a1:
     "Я вижу, как её быстрая улыбка так же быстро превращается в недовольную хмурость."
 
 # ch/bree/events/events.rpy:682
-translate russian bree_sasha_collar_reaction_507da132:
+translate russian bree_sasha_collar_reaction_da241986:
     mike.say "И это потому что я... оставил его на... работе."
 
 # ch/bree/events/events.rpy:684
@@ -4500,10 +4132,6 @@ translate russian bree_sasha_pregnant_3ba2622c:
 translate russian bree_sasha_pregnant_f07cd8a4:
     "Я делаю глубокий вдох и пытаюсь вспомнить последние наборы лжи, которые я рассказала [bree.name] по этой же теме."
 
-# ch/bree/events/events.rpy:731
-translate russian bree_sasha_pregnant_77755935:
-    mike.say "Конечно, [bree.name]. Что тебя тревожит?"
-
 # ch/bree/events/events.rpy:733
 translate russian bree_sasha_pregnant_2f4d13bb:
     "Она вздыхает и скрещивает руки на груди, на ее лице выражение беспокойства."
@@ -4529,7 +4157,7 @@ translate russian bree_sasha_pregnant_37cc2d90:
     "Но, к счастью, она предположила, что это связано с тем, что она поднимает старый разговор, который мы уже считали законченным."
 
 # ch/bree/events/events.rpy:743
-translate russian bree_sasha_pregnant_809d0064:
+translate russian bree_sasha_pregnant_640eac94:
     bree.say "Я знаю, я знаю... мы сказали, что позволим ей рассказать нам, когда она будет готова."
 
 # ch/bree/events/events.rpy:744
@@ -4539,10 +4167,6 @@ translate russian bree_sasha_pregnant_0a836aaf:
 # ch/bree/events/events.rpy:745
 translate russian bree_sasha_pregnant_b5043f24:
     bree.say "Собирается этот бездельник поступить по совести или нет, мы хотя бы будем знать, чем помочь ей как друзья."
-
-# ch/bree/events/events.rpy:746
-translate russian bree_sasha_pregnant_aafde8d0:
-    mike.say "Я думаю, она достаточно хорошо умеет давать нам понять, что ей нужно, [bree.name]."
 
 # ch/bree/events/events.rpy:747
 translate russian bree_sasha_pregnant_a3166226:
@@ -4561,12 +4185,8 @@ translate russian bree_sasha_pregnant_699ba39c:
     bree.say "То есть, я понимаю, что ты говоришь."
 
 # ch/bree/events/events.rpy:753
-translate russian bree_sasha_pregnant_352327f8:
+translate russian bree_sasha_pregnant_ab79e579:
     bree.say "Но иногда... иногда мне кажется, что ты заступаешься за этого парня, кто бы он ни был."
-
-# ch/bree/events/events.rpy:755
-translate russian bree_sasha_pregnant_80d1cf16:
-    mike.say "Ну же, [bree.name], это безумие!"
 
 # ch/bree/events/events.rpy:756
 translate russian bree_sasha_pregnant_70cf5b92:
@@ -4601,7 +4221,7 @@ translate russian bree_sasha_pregnant_58e2a578:
     bree.say "Если ей нужно что-то изменить ради ее ребенка, как это повлияет на нас, даже в самой незначительной степени?"
 
 # ch/bree/events/events.rpy:767
-translate russian bree_sasha_pregnant_07962acd:
+translate russian bree_sasha_pregnant_59443b5c:
     mike.say "Да… это… это не влияет."
 
 # ch/bree/events/events.rpy:769
@@ -4621,7 +4241,7 @@ translate russian bree_sasha_pregnant_7925853b:
     "Но все происходит слишком быстро, и я не успеваю привести свои слова в порядок и вмешаться, прежде чем она сама все выяснит."
 
 # ch/bree/events/events.rpy:775
-translate russian bree_sasha_pregnant_32af5f43:
+translate russian bree_sasha_pregnant_cec1497f:
     bree.say "О боже...о боже!"
 
 # ch/bree/events/events.rpy:776
@@ -4631,10 +4251,6 @@ translate russian bree_sasha_pregnant_fcd4767e:
 # ch/bree/events/events.rpy:777
 translate russian bree_sasha_pregnant_fa0b325d:
     bree.say "Но ты не это делал. Ты врал мне, чтобы выгородить себя!"
-
-# ch/bree/events/events.rpy:779
-translate russian bree_sasha_pregnant_f95be5ea:
-    mike.say "[bree.name], пожалуйста..."
 
 # ch/bree/events/events.rpy:780
 translate russian bree_sasha_pregnant_2a5e8022:
@@ -4649,7 +4265,7 @@ translate russian bree_sasha_pregnant_ed989ea2:
     "Я уже вижу, как у нее наворачиваются слезы в уголках глаз."
 
 # ch/bree/events/events.rpy:784
-translate russian bree_sasha_pregnant_6e125d91:
+translate russian bree_sasha_pregnant_2d45ec40:
     bree.say "Не надо... просто не надо..."
 
 # ch/bree/events/events.rpy:785
@@ -4728,10 +4344,6 @@ translate russian bree_murder_talk_sasha_9a86f0b2:
 translate russian bree_murder_talk_sasha_a9a92978:
     "Поэтому я наконец-то заставляю [bree.name] сесть со мной и поговорить об этом."
 
-# ch/bree/events/events.rpy:814
-translate russian bree_murder_talk_sasha_b21fd3eb:
-    mike.say "Я... мне очень жаль, [bree.name]."
-
 # ch/bree/events/events.rpy:816
 translate russian bree_murder_talk_sasha_4a0d2837:
     "[bree.name] смотрит на меня так, словно не понимает, что я имею в виду."
@@ -4749,7 +4361,7 @@ translate russian bree_murder_talk_sasha_eae56463:
     "И то, и другое мне очень понятно."
 
 # ch/bree/events/events.rpy:821
-translate russian bree_murder_talk_sasha_82f93199:
+translate russian bree_murder_talk_sasha_f08cd250:
     bree.say "Что... что?"
 
 # ch/bree/events/events.rpy:822
@@ -4840,10 +4452,6 @@ translate russian bree_murder_talk_sasha_fe687510:
 translate russian bree_murder_talk_sasha_5a843584:
     bree.say "Я действительно думаю, что Саша хотела бы, чтобы мы жили дальше."
 
-# ch/bree/events/events.rpy:855
-translate russian bree_murder_talk_sasha_6a61d4f2:
-    mike.say "Я...думаю, я понимаю, что ты имеешь в виду, [bree.name]."
-
 # ch/bree/events/events.rpy:856
 translate russian bree_murder_talk_sasha_8069bd34:
     mike.say "Саша всегда жила полной жизнью, не так ли?"
@@ -4928,10 +4536,6 @@ translate russian bree_rape_talk_b5452047:
 translate russian bree_rape_talk_e5cb5e0b:
     "Но затем мы оба открываем рот одновременно."
 
-# ch/bree/events/events.rpy:886
-translate russian bree_rape_talk_b14d0a87:
-    mike.say "[bree.name], я просто..."
-
 # ch/bree/events/events.rpy:888
 translate russian bree_rape_talk_ba22d80b:
     bree.say "[hero.name], ты...?"
@@ -4959,10 +4563,6 @@ translate russian bree_rape_talk_39bcf0a1:
 # ch/bree/events/events.rpy:896
 translate russian bree_rape_talk_038cf001:
     bree.say "Просто хотела узнать, все ли с тобой в порядке?"
-
-# ch/bree/events/events.rpy:898
-translate russian bree_rape_talk_736a3911:
-    mike.say "Я... я до сих пор немного потрясен, [bree.name]."
 
 # ch/bree/events/events.rpy:899
 translate russian bree_rape_talk_e9df4c20:
@@ -5015,10 +4615,6 @@ translate russian bree_rape_talk_d977d523:
 # ch/bree/events/events.rpy:917
 translate russian bree_rape_talk_05d383a5:
     bree.say "Одна только мысль о том, что эта ужасная девчонка делала с тобой!"
-
-# ch/bree/events/events.rpy:919
-translate russian bree_rape_talk_0b460aa8:
-    mike.say "Не думай об этом, [bree.name]."
 
 # ch/bree/events/events.rpy:920
 translate russian bree_rape_talk_df0f23fe:
@@ -5225,7 +4821,7 @@ translate russian bree_fight_dad_fad7c5c8:
     "\"Моя маленькая девочка\"?!"
 
 # ch/bree/events/events.rpy:998
-translate russian bree_fight_dad_d7cdb462:
+translate russian bree_fight_dad_2a8cd793:
     "Постой... это про девушку?"
 
 # ch/bree/events/events.rpy:999
@@ -5325,7 +4921,7 @@ translate russian bree_fight_mourning_dad_a1a86853:
     "Прежде чем я успеваю закончить свою фразу, я узнаю, кто меня держит."
 
 # ch/bree/events/events.rpy:1040
-translate russian bree_fight_mourning_dad_9232bf23:
+translate russian bree_fight_mourning_dad_c0cf54d9:
     mike.say "Б...Брюс?"
 
 # ch/bree/events/events.rpy:1041
@@ -5333,7 +4929,7 @@ translate russian bree_fight_mourning_dad_9dcb1ae2:
     mike.say "Это действительно ты?"
 
 # ch/bree/events/events.rpy:1042
-translate russian bree_fight_mourning_dad_e3a40015:
+translate russian bree_fight_mourning_dad_70a36030:
     mike.say "Прости... Я не хотел быть грубым!"
 
 # ch/bree/events/events.rpy:1043
@@ -5397,7 +4993,7 @@ translate russian bree_fight_mourning_dad_1e2c1e11:
     mike.say "Именно так."
 
 # ch/bree/events/events.rpy:1061
-translate russian bree_fight_mourning_dad_da729639:
+translate russian bree_fight_mourning_dad_d2432586:
     mike.say "Я хочу... я хочу сразиться со всем этим чертовым миром!"
 
 # ch/bree/events/events.rpy:1063
@@ -5713,7 +5309,7 @@ translate russian bree_fight_mourning_dad_3e7a4924:
     "Лицо, которое даже лучше, чем рука на плече, помогает мне вырваться из этого состояния апатии."
 
 # ch/bree/events/events.rpy:1160
-translate russian bree_fight_mourning_dad_12e94217:
+translate russian bree_fight_mourning_dad_e5f5749a:
     mike.say "Б... Брюс?!?!?"
 
 # ch/bree/events/events.rpy:1161
@@ -5721,7 +5317,7 @@ translate russian bree_fight_mourning_dad_f6967e55:
     mike.say "О, черт..."
 
 # ch/bree/events/events.rpy:1162
-translate russian bree_fight_mourning_dad_4e8c5cac:
+translate russian bree_fight_mourning_dad_5c0784f6:
     mike.say "Я... я не знаю... я хотел сказать..."
 
 # ch/bree/events/events.rpy:1163
@@ -5857,7 +5453,7 @@ translate russian bree_fight_mourning_dad_c2db4892:
     "Ни в один из тех редких случаев, когда я его встречал..."
 
 # ch/bree/events/events.rpy:1205
-translate russian bree_fight_mourning_dad_ba6d34ec:
+translate russian bree_fight_mourning_dad_562d89ba:
     "Ну, думаю, нет другого способа это сказать... до того, как [bree.name] ушла."
 
 # ch/bree/events/events.rpy:1206
@@ -5941,7 +5537,7 @@ translate russian bree_fight_mourning_dad_30e74fc5_1:
     mike.say "Эм..."
 
 # ch/bree/events/events.rpy:1231
-translate russian bree_fight_mourning_dad_906ba165:
+translate russian bree_fight_mourning_dad_b58a5622:
     mike.say "Я...извиняюсь?"
 
 # ch/bree/events/events.rpy:1232
@@ -6100,10 +5696,6 @@ translate russian bree_call_daddy_bdcd8ec0:
 translate russian bree_call_daddy_af293e84:
     "Поэтому, наконец, когда я уверен, что она, вероятно, уже достаточно страдала, я решаю поднять этот вопрос."
 
-# ch/bree/events/events.rpy:1295
-translate russian bree_call_daddy_2cd943ed:
-    mike.say "[bree.name], ты можешь говорить."
-
 # ch/bree/events/events.rpy:1296
 translate russian bree_call_daddy_af364fff:
     mike.say "Теперь ты можешь рассказать мне, в чем проблема."
@@ -6133,7 +5725,7 @@ translate russian bree_call_daddy_8183ff25:
     "Но когда я тянусь к ее воротнику, на ее лице появляется неуверенность."
 
 # ch/bree/events/events.rpy:1308
-translate russian bree_call_daddy_0c53be9b:
+translate russian bree_call_daddy_e2dd420f:
     bree.say "Я... то есть, нет, Мастер!"
 
 # ch/bree/events/events.rpy:1310
@@ -6149,12 +5741,8 @@ translate russian bree_call_daddy_9a876a0f:
     bree.say "Нет, мой ошейник в порядке."
 
 # ch/bree/events/events.rpy:1314
-translate russian bree_call_daddy_fa46f3f9:
+translate russian bree_call_daddy_defd69a0:
     bree.say "Я просто... хотела кое-что у тебя спросить."
-
-# ch/bree/events/events.rpy:1316
-translate russian bree_call_daddy_df3fc2d0:
-    mike.say "Говори, [bree.name]."
 
 # ch/bree/events/events.rpy:1317
 translate russian bree_call_daddy_2b378a93:
@@ -6165,7 +5753,7 @@ translate russian bree_call_daddy_730e2c6b:
     "[bree.name] снова улыбается своей милой, располагающей улыбкой."
 
 # ch/bree/events/events.rpy:1321
-translate russian bree_call_daddy_3eb0ec0c:
+translate russian bree_call_daddy_bbf5abb1:
     bree.say "Ну... я хотела узнать, нравится ли тебе, когда я называю тебя \"Мастер\", Мастер?"
 
 # ch/bree/events/events.rpy:1323
@@ -6175,10 +5763,6 @@ translate russian bree_call_daddy_b7213f24:
 # ch/bree/events/events.rpy:1324
 translate russian bree_call_daddy_683ad72a:
     "Я никогда особо не задумывался об этом, даже с тех пор, как [bree.name] начала называть меня так."
-
-# ch/bree/events/events.rpy:1327
-translate russian bree_call_daddy_4128abd5:
-    mike.say "Да, [bree.name], думаю, мне действительно нравится, когда ты так называешь меня."
 
 # ch/bree/events/events.rpy:1328
 translate russian bree_call_daddy_6e7c4805:
@@ -6208,10 +5792,6 @@ translate russian bree_call_daddy_9efbb8db:
 translate russian bree_call_daddy_afa65909:
     bree.say "Я люблю тебя, Мастер."
 
-# ch/bree/events/events.rpy:1340
-translate russian bree_call_daddy_8385914e:
-    mike.say "Я тоже люблю тебя, [bree.name]."
-
 # ch/bree/events/events.rpy:1342
 translate russian bree_call_daddy_9a0e950d:
     mike.say "Но если подумать, я этого не чувствую."
@@ -6225,7 +5805,7 @@ translate russian bree_call_daddy_001703a0:
     "[bree.name] смотрит на меня с растущей тревогой в глазах."
 
 # ch/bree/events/events.rpy:1346
-translate russian bree_call_daddy_b57a0c25:
+translate russian bree_call_daddy_8436ee75:
     bree.say "Прости, Ма... э-э..."
 
 # ch/bree/events/events.rpy:1348
@@ -6241,11 +5821,11 @@ translate russian bree_call_daddy_5b9d0cde:
     "Но затем в ее глазах вспыхивает искра вдохновения."
 
 # ch/bree/events/events.rpy:1354
-translate russian bree_call_daddy_9b6b2ce9:
+translate russian bree_call_daddy_be0a0f76:
     bree.say "Может быть... может быть, я могу звать тебя \"Папочка\"?"
 
 # ch/bree/events/events.rpy:1356
-translate russian bree_call_daddy_230a798a:
+translate russian bree_call_daddy_2e502cfd:
     mike.say "Что...? Почему?"
 
 # ch/bree/events/events.rpy:1358
@@ -6273,11 +5853,11 @@ translate russian bree_call_daddy_92881666:
     "В этот момент [bree.name] кокетливо моргает мне, и я не могу удержаться от того, чтобы громко сглотнуть."
 
 # ch/bree/events/events.rpy:1367
-translate russian bree_call_daddy_ed54f5d9:
+translate russian bree_call_daddy_8ac2f806:
     mike.say "Ну...мы...мы могли бы попробовать, посмотреть, что из этого выйдет."
 
 # ch/bree/events/events.rpy:1368
-translate russian bree_call_daddy_6cd690a2:
+translate russian bree_call_daddy_ede8b47c:
     bree.say "О, спасибо...ПАПОЧКА!"
 
 # ch/bree/events/events.rpy:1374
@@ -6300,10 +5880,6 @@ translate russian bree_call_daddy_slutty_b697d213:
 translate russian bree_call_daddy_slutty_ef384304:
     "В конце концов, я решаю, что лучше всего – действовать решительно..."
 
-# ch/bree/events/events.rpy:1380
-translate russian bree_call_daddy_slutty_6bcf2638:
-    mike.say "Что с тобой, [bree.name]?"
-
 # ch/bree/events/events.rpy:1381
 translate russian bree_call_daddy_slutty_cc2a7601:
     mike.say "Кажется, ты хочешь меня о чем-то спросить."
@@ -6321,7 +5897,7 @@ translate russian bree_call_daddy_slutty_23056d50:
     bree.say "Что?!"
 
 # ch/bree/events/events.rpy:1387
-translate russian bree_call_daddy_slutty_aa98e65f:
+translate russian bree_call_daddy_slutty_a4ae08e6:
     bree.say "Нет...не может быть, [hero.name]!"
 
 # ch/bree/events/events.rpy:1388
@@ -6356,10 +5932,6 @@ translate russian bree_call_daddy_slutty_91124ab0:
 translate russian bree_call_daddy_slutty_d61dfb9e:
     "И я киваю, стараясь придать своему лицу серьезное и успокаивающее выражение."
 
-# ch/bree/events/events.rpy:1400
-translate russian bree_call_daddy_slutty_8e5ee797:
-    mike.say "Конечно, [bree.name]."
-
 # ch/bree/events/events.rpy:1401
 translate russian bree_call_daddy_slutty_c59ddec4:
     mike.say "Что ты могла у меня спросить, чтобы это заставило меня смеяться?"
@@ -6381,7 +5953,7 @@ translate russian bree_call_daddy_slutty_1b59df79:
     bree.say "Ну..."
 
 # ch/bree/events/events.rpy:1408
-translate russian bree_call_daddy_slutty_cacbff25:
+translate russian bree_call_daddy_slutty_4a8f2976:
     bree.say "Мне... мне нравится, когда ты называешь меня разными словами."
 
 # ch/bree/events/events.rpy:1409
@@ -6413,11 +5985,11 @@ translate russian bree_call_daddy_slutty_86aade79:
     bree.say "Я хочу называть тебя \"Папочка\"..."
 
 # ch/bree/events/events.rpy:1419
-translate russian bree_call_daddy_slutty_f27916b3:
+translate russian bree_call_daddy_slutty_90ba6f10:
     bree.say "Я... я не знаю, почему."
 
 # ch/bree/events/events.rpy:1421
-translate russian bree_call_daddy_slutty_c12235a6:
+translate russian bree_call_daddy_slutty_f3847dcb:
     bree.say "Просто это заставляет меня чувствовать себя...чувствовать себя ОЧЕНЬ возбужденной!"
 
 # ch/bree/events/events.rpy:1422
@@ -6444,10 +6016,6 @@ translate russian bree_call_daddy_slutty_98784574:
 translate russian bree_call_daddy_slutty_ba7f7e02:
     mike.say "Вау..."
 
-# ch/bree/events/events.rpy:1431
-translate russian bree_call_daddy_slutty_c2fb066a:
-    mike.say "Серьёзно, [bree.name], это чертовски возбуждает!"
-
 # ch/bree/events/events.rpy:1432
 translate russian bree_call_daddy_slutty_3a055190:
     "Я вижу восторг, который наполняет глаза [bree.name], когда я произношу эти слова."
@@ -6463,10 +6031,6 @@ translate russian bree_call_daddy_slutty_e841fb21:
 # ch/bree/events/events.rpy:1436
 translate russian bree_call_daddy_slutty_3b35e969:
     bree.say "Ты можешь так ко мне обращаться, когда мы это сделаем?!"
-
-# ch/bree/events/events.rpy:1438
-translate russian bree_call_daddy_slutty_8e5ee797_1:
-    mike.say "Конечно, [bree.name]."
 
 # ch/bree/events/events.rpy:1439
 translate russian bree_call_daddy_slutty_7c63a271:
@@ -6512,10 +6076,6 @@ translate russian bree_call_daddy_slutty_546c6ea4:
 translate russian bree_call_daddy_slutty_67d5b96e:
     mike.say "Угх..."
 
-# ch/bree/events/events.rpy:1455
-translate russian bree_call_daddy_slutty_d0b77c35:
-    mike.say "Серьёзно, [bree.name], это уже нездоровая херня!"
-
 # ch/bree/events/events.rpy:1457
 translate russian bree_call_daddy_slutty_944e1eda:
     "Я вижу разочарование и боль, которые мои слова причиняют."
@@ -6541,7 +6101,7 @@ translate russian bree_call_daddy_slutty_b1e163fb:
     bree.say "Ох..."
 
 # ch/bree/events/events.rpy:1464
-translate russian bree_call_daddy_slutty_7dc8ee65:
+translate russian bree_call_daddy_slutty_e67dd0ef:
     bree.say "Я... я не знала."
 
 # ch/bree/events/events.rpy:1465
@@ -6551,10 +6111,6 @@ translate russian bree_call_daddy_slutty_fa13b581:
 # ch/bree/events/events.rpy:1467
 translate russian bree_call_daddy_slutty_44c670d8:
     "Я киваю, принимая её извинения и считая этот вопрос закрытым."
-
-# ch/bree/events/events.rpy:1468
-translate russian bree_call_daddy_slutty_9dcdd4f2:
-    mike.say "Всё в порядке, [bree.name]."
 
 # ch/bree/events/events.rpy:1469
 translate russian bree_call_daddy_slutty_f186e4ea:
@@ -6624,10 +6180,6 @@ translate russian bree_go_to_the_beach_6131fb6b:
 translate russian bree_go_to_the_beach_ec5388e7:
     bree.say "Ох, [hero.name], ты вечно витаешь в облаках!"
 
-# ch/bree/events/events.rpy:1500
-translate russian bree_go_to_the_beach_a34e3aca:
-    mike.say "Прости, [bree.name], я задумался."
-
 # ch/bree/events/events.rpy:1501
 translate russian bree_go_to_the_beach_1e494346:
     mike.say "Что ты говорила только что?"
@@ -6672,10 +6224,6 @@ translate russian bree_go_to_the_beach_7a8040db:
 translate russian bree_go_to_the_beach_e1ae7cc0:
     "Осознавая, что могу быть слишком поспешен, я стараюсь сохранять спокойствие."
 
-# ch/bree/events/events.rpy:1515
-translate russian bree_go_to_the_beach_b8615b09:
-    mike.say "А... да, [bree.name]... точно."
-
 # ch/bree/events/events.rpy:1516
 translate russian bree_go_to_the_beach_41159b91:
     mike.say "Совсем близко, если ехать на велосипеде или машине."
@@ -6709,7 +6257,7 @@ translate russian bree_go_to_the_beach_cad8b085:
     mike.say "У меня есть машина, знаешь ли!"
 
 # ch/bree/events/events.rpy:1527
-translate russian bree_go_to_the_beach_66639bed:
+translate russian bree_go_to_the_beach_269fbbbc:
     mike.say "Я мог бы тебя подвезти... если хочешь?"
 
 # ch/bree/events/events.rpy:1528
@@ -6753,7 +6301,7 @@ translate russian bree_male_ending_11ed3c21:
     "Все, что связано с нашей свадьбой, чем-то вдохновлено ею, хотя она об этом, вероятно, не знает."
 
 # ch/bree/events/events.rpy:1564
-translate russian bree_male_ending_e52dfd14:
+translate russian bree_male_ending_36a3d3e4:
     "А я... ну, я довольно скромный человек."
 
 # ch/bree/events/events.rpy:1565
@@ -6785,7 +6333,7 @@ translate russian bree_male_ending_64a06d2e:
     "И вот она..."
 
 # ch/bree/events/events.rpy:1573
-translate russian bree_male_ending_9b43c9a1:
+translate russian bree_male_ending_18a89655:
     "А... я... вау!"
 
 # ch/bree/events/events.rpy:1574
@@ -7033,7 +6581,7 @@ translate russian bree_male_ending_89104bbe_1:
     bree.say "Трудно быть \"запасным колесом\", когда другие люди в доме делают все вместе, как одна пара."
 
 # ch/bree/events/events.rpy:1653
-translate russian bree_male_ending_7b8d7ccb:
+translate russian bree_male_ending_be777687:
     bree.say "А когда родилась Поппи... ну, это окончательно решило ее судьбу."
 
 # ch/bree/events/events.rpy:1654
@@ -7100,12 +6648,8 @@ translate russian bree_anal_confession_027a8423:
 translate russian bree_anal_confession_78b268a7:
     "В конце концов, я больше не могу это выносить и просто хочу узнать, что у нее на самом деле на уме."
 
-# ch/bree/events/events.rpy:1683
-translate russian bree_anal_confession_8bcbe9fd:
-    mike.say "[bree.name], ты хотела мне что-то сказать?"
-
 # ch/bree/events/events.rpy:1685
-translate russian bree_anal_confession_32030b32:
+translate russian bree_anal_confession_b69a6f85:
     bree.say "Ну, знаешь… да, вроде бы и было."
 
 # ch/bree/events/events.rpy:1686
@@ -7124,21 +6668,13 @@ translate russian bree_anal_confession_307aeb71:
 translate russian bree_anal_confession_e411a5e9:
     "[bree.name] покраснела и запинается, пытаясь подобрать слова."
 
-# ch/bree/events/events.rpy:1692
-translate russian bree_anal_confession_521f102f:
-    mike.say "Я что-нибудь сделал, что тебя расстроило, [bree.name]?"
-
 # ch/bree/events/events.rpy:1694
-translate russian bree_anal_confession_9e7476bd:
+translate russian bree_anal_confession_ae71652e:
     bree.say "Нет, нет… я просто… мне неловко об этом говорить, вот и все!"
 
 # ch/bree/events/events.rpy:1696
 translate russian bree_anal_confession_c74cb73d:
     "Теперь я думаю, что понимаю, к чему она клонит."
-
-# ch/bree/events/events.rpy:1697
-translate russian bree_anal_confession_79a62761:
-    mike.say "Мне жаль, что у нас так получилось, [bree.name]."
 
 # ch/bree/events/events.rpy:1700
 translate russian bree_anal_confession_8fdec973:
@@ -7157,7 +6693,7 @@ translate russian bree_anal_confession_e01e4889:
     "Она едва может смотреть мне в глаза, когда признается в этом, ее щеки все еще горят от стыда."
 
 # ch/bree/events/events.rpy:1707
-translate russian bree_anal_confession_f6fc58de:
+translate russian bree_anal_confession_e8288cb5:
     mike.say "Ты имеешь в виду… тебе понравилось, когда я занялся тобой анусом?"
 
 # ch/bree/events/events.rpy:1709
@@ -7165,7 +6701,7 @@ translate russian bree_anal_confession_928e3e57:
     "[bree.name] прикусывает губу и кивает."
 
 # ch/bree/events/events.rpy:1710
-translate russian bree_anal_confession_68b2a5f1:
+translate russian bree_anal_confession_2d14d9c5:
     bree.say "Я… мне это понравилось… очень сильно."
 
 # ch/bree/events/events.rpy:1712
@@ -7176,37 +6712,25 @@ translate russian bree_anal_confession_e8b450ee:
 translate russian bree_anal_confession_42460e15:
     "Может быть, дело во мне, или здесь вдруг стало жарче?"
 
-# ch/bree/events/events.rpy:1714
-translate russian bree_anal_confession_2fd20c4c:
-    mike.say "Мне тоже, [bree.name]. Ты была потрясающей!"
-
 # ch/bree/events/events.rpy:1716
 translate russian bree_anal_confession_21021db8:
     "Она смотрит на меня, в ее глазах искреннее удивление от этой неожиданной похвалы."
 
 # ch/bree/events/events.rpy:1718
-translate russian bree_anal_confession_67d9e7fe:
+translate russian bree_anal_confession_a94529ec:
     bree.say "Я...я была?"
 
 # ch/bree/events/events.rpy:1720
 translate russian bree_anal_confession_aee5f34b:
     "Я не вру, чтобы просто подбодрить ее, она действительно была такой!"
 
-# ch/bree/events/events.rpy:1721
-translate russian bree_anal_confession_43675ac5:
-    mike.say "[bree.name], трахать твою задницу было невероятно!"
-
 # ch/bree/events/events.rpy:1723
 translate russian bree_anal_confession_7ea6cdf7:
     "Она улыбается, явно ей нравится, что я так сказал, но при этом она все еще чувствует, что должна стыдиться этого."
 
 # ch/bree/events/events.rpy:1725
-translate russian bree_anal_confession_f5cf2038:
+translate russian bree_anal_confession_acecb351:
     bree.say "Ты...ты хотел бы...снова трахнуть мою задницу когда-нибудь?"
-
-# ch/bree/events/events.rpy:1727
-translate russian bree_anal_confession_a90f6670:
-    mike.say "[bree.name], это было бы для меня удовольствием!"
 
 # ch/bree/events/events.rpy:1728
 translate russian bree_anal_confession_d0c8b252:
@@ -7376,10 +6900,6 @@ translate russian bree_preg_test_48b2a93e:
 translate russian bree_preg_test_7ec6c966:
     mike.say "Просто спросил."
 
-# ch/bree/events/events.rpy:1801
-translate russian bree_preg_talk_85631ca9:
-    mike.say "[bree.name]?"
-
 # ch/bree/events/events.rpy:1802
 translate russian bree_preg_talk_463abbaa:
     "Ее светлые волосы развеваются, когда она поворачивается, чтобы посмотреть назад."
@@ -7536,10 +7056,6 @@ translate russian bree_preg_talk_36568d46:
 translate russian bree_preg_talk_6f03067f:
     "Я сжимаю губы и заставляю себя успокоиться. Она права. Возможно, я расстроен, но я действительно не могу представить, что она чувствует."
 
-# ch/bree/events/events.rpy:1872
-translate russian bree_preg_talk_3246ee3c:
-    mike.say "Ты права. Прости, [bree.name]."
-
 # ch/bree/events/events.rpy:1874
 translate russian bree_preg_talk_1cb3e9e7:
     "Она делает глубокий вдох, и ее плечи расслабляются."
@@ -7608,10 +7124,6 @@ translate russian bree_event_bowsette_e6dd61b7:
 translate russian bree_event_bowsette_2e589a42:
     "Голос доносится из комнаты [bree.name], но звучит как-то странно."
 
-# ch/bree/events/events.rpy:1908
-translate russian bree_event_bowsette_85631ca9:
-    mike.say "[bree.name]?"
-
 # ch/bree/events/events.rpy:1909
 translate russian bree_event_bowsette_5bcbc372:
     bree.say "Эм, можешь, пожалуйста, войти?"
@@ -7652,10 +7164,6 @@ translate russian bree_event_bowsette_6b43b4d2:
 translate russian bree_event_bowsette_10eb27ee:
     "Грубый голос вернулся, теперь он звучит еще более низко, и она принимает позу, демонстрируя свои \"когти\". На самом деле это черные искусственные ногти."
 
-# ch/bree/events/events.rpy:1927
-translate russian bree_event_bowsette_06668e3a:
-    mike.say "[bree.name], что ты делаешь?"
-
 # ch/bree/events/events.rpy:1928
 translate russian bree_event_bowsette_a0bf01f5:
     "Смеясь, словно из-за снятого напряжения, [bree.name] сбрасывает позу и неловко чешет затылок."
@@ -7675,10 +7183,6 @@ translate russian bree_event_bowsette_d20c3962:
 # ch/bree/events/events.rpy:1936
 translate russian bree_event_bowsette_3ecf4f65:
     "Кажется, она чего-то ждет, но мне все равно. После тех усилий, которые явно были вложены в костюм, она заслуживает похвалы."
-
-# ch/bree/events/events.rpy:1937
-translate russian bree_event_bowsette_e5d7abf2:
-    mike.say "[bree.name], это просто очаровательно."
 
 # ch/bree/events/events.rpy:1941
 translate russian bree_event_bowsette_099ae486:
@@ -8816,10 +8320,6 @@ translate russian bree_event_02_63f234b8:
 translate russian bree_event_02_11a63592:
     bree.say "Ну, у меня гораздо больше опыта! Ты скоро станешь достаточно хорош, чтобы победить меня!"
 
-# ch/bree/events/events.rpy:2375
-translate russian bree_event_02_284b9b8d:
-    mike.say "Не думай, что я не заметил, как ты со мной возилась, [bree.name]."
-
 # ch/bree/events/events.rpy:2377
 translate russian bree_event_02_88499051:
     bree.say "Ну, ты новичок! Было бы несправедливо иначе!"
@@ -9192,21 +8692,9 @@ translate russian bree_event_03_52c52e38:
 translate russian bree_event_03_fccfea2f:
     "Больше всего я просто позволял своим мыслям блуждать, не обращая внимания ни на какую из огромных масс информации, которую экран показывал мне."
 
-# ch/bree/events/events.rpy:2534
-translate russian bree_event_03_8af08e34:
-    "Мой палец скользил по множеству статей и якобы забавных изображений, пока звук приближающихся шагов не вывел меня из этого состояния."
-
-# ch/bree/events/events.rpy:2536
-translate russian bree_event_03_2b599d46:
-    "Я поднял взгляд: из коридора у своей комнаты появилась [bree.name], тоже глядя в телефон. Но происходящее на её экране явно занимало её куда сильнее, чем меня — на моём."
-
 # ch/bree/events/events.rpy:2538
 translate russian bree_event_03_54e6c7d5:
     "Она была настолько увлечена, что не заметила меня, когда я помахал ей рукой, из-за чего я открыл рот, чтобы заговорить."
-
-# ch/bree/events/events.rpy:2539
-translate russian bree_event_03_55133a08:
-    mike.say "Эй, [bree.name]."
 
 # ch/bree/events/events.rpy:2541
 translate russian bree_event_03_e6824ae0:
@@ -9375,10 +8863,6 @@ translate russian bree_event_03_cc53301c:
 # ch/bree/events/events.rpy:2611
 translate russian bree_event_03_f4be7b59:
     bree.say "Я постоянно собиралась убрать это, но потом отвлеклась на протечку и..."
-
-# ch/bree/events/events.rpy:2613
-translate russian bree_event_03_1d31ee37:
-    mike.say "Не переживай, [bree.name]. У меня тут намного хуже."
 
 # ch/bree/events/events.rpy:2615
 translate russian bree_event_03_59b53ca9:
@@ -9928,10 +9412,6 @@ translate russian bree_event_03_1752975a:
 translate russian bree_event_03_68f67742:
     "Она не сказала ничего особенного или выдающегося, но она казалась такой искренней, что я не мог не улыбнуться вместе с ней."
 
-# ch/bree/events/events.rpy:2836
-translate russian bree_event_03_686fdae1:
-    mike.say "Спасибо, [bree.name], это заставило меня чувствовать себя намного лучше."
-
 # ch/bree/events/events.rpy:2838
 translate russian bree_event_03_b4c6c5f5:
     bree.say "Хе-хе, в любое время!"
@@ -9947,10 +9427,6 @@ translate russian bree_event_03_82edde7f:
 # ch/bree/events/events.rpy:2844
 translate russian bree_event_03_4c6d3def:
     bree.say "Я знаю, но..."
-
-# ch/bree/events/events.rpy:2846
-translate russian bree_event_03_f1ccb77b:
-    mike.say "[bree.name], все в порядке."
 
 # ch/bree/events/events.rpy:2848
 translate russian bree_event_03_7cb65c61:
@@ -10011,10 +9487,6 @@ translate russian bree_pool_throat_aa4953af:
 # ch/bree/events/events.rpy:2871
 translate russian bree_pool_throat_36b1ac08:
     bree.say "Привет, [hero.name]! Тоже наслаждаешься погодой, да?"
-
-# ch/bree/events/events.rpy:2873
-translate russian bree_pool_throat_e2ffb7d7:
-    mike.say "Привет, [bree.name]. Ты тоже собираешься искупаться?"
 
 # ch/bree/events/events.rpy:2875
 translate russian bree_pool_throat_1dfa7109:
@@ -10139,10 +9611,6 @@ translate russian bree_pool_throat_13badea1:
 # ch/bree/events/events.rpy:2928
 translate russian bree_pool_throat_ab81a823:
     "Мы молчим некоторое время, прежде чем я заговорю."
-
-# ch/bree/events/events.rpy:2929
-translate russian bree_pool_throat_f288fe55:
-    mike.say "Эй, [bree.name]?"
 
 # ch/bree/events/events.rpy:2932
 translate russian bree_pool_throat_0d9cb435:
@@ -10545,11 +10013,11 @@ translate russian bree_not_get_out_naked_male_5a13dbac:
     "Но я просто не могу отвести взгляд от того, что вижу."
 
 # ch/bree/events/events.rpy:3170
-translate russian bree_not_get_out_naked_male_8b8b2860:
+translate russian bree_not_get_out_naked_male_5f21fd1b:
     mike.say "Б...Б...[bree.name]!"
 
 # ch/bree/events/events.rpy:3171
-translate russian bree_not_get_out_naked_male_cf27b890:
+translate russian bree_not_get_out_naked_male_bdb3dc7e:
     mike.say "Б...Б...Попа!"
 
 # ch/bree/events/events.rpy:3172
@@ -10585,7 +10053,7 @@ translate russian bree_not_get_out_naked_male_33508d60:
     "Что означает, что всё двигается, когда она поворачивается."
 
 # ch/bree/events/events.rpy:3185
-translate russian bree_not_get_out_naked_male_127ff28a:
+translate russian bree_not_get_out_naked_male_2ec31f46:
     mike.say "Г... Грудь!"
 
 # ch/bree/events/events.rpy:3186
@@ -10708,10 +10176,6 @@ translate russian bree_not_get_out_naked_male_7164e608:
 translate russian bree_not_get_out_naked_male_60eda1f8:
     "[bree.name] обнажена..."
 
-# ch/bree/events/events.rpy:3234
-translate russian bree_not_get_out_naked_male_345d719f:
-    mike.say "Прости, [bree.name]. Я не знал, что ты будешь здесь."
-
 # ch/bree/events/events.rpy:3235
 translate russian bree_not_get_out_naked_male_c6c08ff9:
     bree.say "Ты знаешь... Мне не помешает, если ты войдешь..."
@@ -10719,10 +10183,6 @@ translate russian bree_not_get_out_naked_male_c6c08ff9:
 # ch/bree/events/events.rpy:3242
 translate russian bree_not_get_out_clothed_male_d05030e6:
     "[bree.name] в нижнем белье..."
-
-# ch/bree/events/events.rpy:3243
-translate russian bree_not_get_out_clothed_male_345d719f:
-    mike.say "Прости, [bree.name]. Я не знал, что ты будешь здесь."
 
 # ch/bree/events/events.rpy:3245
 translate russian bree_not_get_out_clothed_male_0624c8a3:
@@ -11184,10 +10644,6 @@ translate russian bree_birthday_date_male_1b247d77:
 translate russian bree_birthday_date_male_d01ca864:
     bree.say "Ах ты, засранец!"
 
-# ch/bree/events/events.rpy:3404
-translate russian bree_birthday_date_male_457cf6b4:
-    mike.say "Прости, [bree.name]."
-
 # ch/bree/events/events.rpy:3405
 translate russian bree_birthday_date_male_77c62e59:
     mike.say "Это была просто шутка!"
@@ -11232,10 +10688,6 @@ translate russian bree_birthday_date_male_e951a658:
 translate russian bree_birthday_date_male_49df9527:
     "Вот почему я закатываю глаза на просьбу [bree.name]."
 
-# ch/bree/events/events.rpy:3422
-translate russian bree_birthday_date_male_ea7c772d:
-    mike.say "Да брось, [bree.name], ничего страшного!"
-
 # ch/bree/events/events.rpy:3423
 translate russian bree_birthday_date_male_6f6ef1a4:
     mike.say "Просто закажи себе бургер или стейк, что-нибудь."
@@ -11275,10 +10727,6 @@ translate russian bree_birthday_date_male_bebc0701:
 # ch/bree/events/events.rpy:3435
 translate russian bree_birthday_date_male_f8602d15:
     "Поэтому я улыбаюсь и уступаю ей."
-
-# ch/bree/events/events.rpy:3436
-translate russian bree_birthday_date_male_cfdcdce9:
-    mike.say "Ты же меня знаешь, [bree.name], я не гурман!"
 
 # ch/bree/events/events.rpy:3437
 translate russian bree_birthday_date_male_fffcf447:
@@ -11344,16 +10792,12 @@ translate russian bree_birthday_date_male_348f43f4:
 translate russian bree_birthday_date_male_3960adf5:
     "Она слишком часто улыбается мне и слишком активно моргает ресницами."
 
-# ch/bree/events/events.rpy:3463
-translate russian bree_birthday_date_male_243b8063:
-    mike.say "Эй, [bree.name]..."
-
 # ch/bree/events/events.rpy:3464
 translate russian bree_birthday_date_male_a9a69958:
     mike.say "Что-то случилось?"
 
 # ch/bree/events/events.rpy:3465
-translate russian bree_birthday_date_male_02a0a9fc:
+translate russian bree_birthday_date_male_d2635817:
     bree.say "Ох, нет... ничего особенного."
 
 # ch/bree/events/events.rpy:3466
@@ -11393,7 +10837,7 @@ translate russian bree_birthday_date_male_ed87d330:
     "Я почесываю затылок и улыбаюсь, как полный дурак."
 
 # ch/bree/events/events.rpy:3477
-translate russian bree_birthday_date_male_5466d3de:
+translate russian bree_birthday_date_male_ed020166:
     mike.say "Ох... ну..."
 
 # ch/bree/events/events.rpy:3478
@@ -11401,7 +10845,7 @@ translate russian bree_birthday_date_male_28baf632:
     mike.say "Ну, хорошо тогда!"
 
 # ch/bree/events/events.rpy:3479
-translate russian bree_birthday_date_male_e328671d:
+translate russian bree_birthday_date_male_c82e5f94:
     mike.say "Фух... я действительно подумал, что ты хочешь, чтобы я сейчас сделал тебе предложение!"
 
 # ch/bree/events/events.rpy:3480
@@ -11432,10 +10876,6 @@ translate russian bree_birthday_date_male_981fd5ce:
 translate russian bree_birthday_date_male_e68223f1:
     "Сейчас был бы идеальный момент, чтобы удивить ее этим подарком."
 
-# ch/bree/events/events.rpy:3494
-translate russian bree_birthday_date_male_41880342:
-    mike.say "С днем рождения, [bree.name]!"
-
 # ch/bree/events/events.rpy:3496
 translate russian bree_birthday_date_male_cdf44a1e:
     "Я вижу, как ее лицо озаряется улыбкой, когда я дарю ей подарок."
@@ -11457,7 +10897,7 @@ translate russian bree_birthday_date_male_cffbc47b:
     "И затем я вижу, что ее лицо становится еще ярче, будто в десять раз."
 
 # ch/bree/events/events.rpy:3505
-translate russian bree_birthday_date_male_29f595ba:
+translate russian bree_birthday_date_male_16bd3df9:
     bree.say "Ох...как ты узнал?!"
 
 # ch/bree/events/events.rpy:3506
@@ -11465,7 +10905,7 @@ translate russian bree_birthday_date_male_886af46f:
     bree.say "Я всегда хотела такую штучку!"
 
 # ch/bree/events/events.rpy:3507
-translate russian bree_birthday_date_male_b0816571:
+translate russian bree_birthday_date_male_0a9f25dd:
     mike.say "Ну...я просто заметил, что у тебя её нет."
 
 # ch/bree/events/events.rpy:3508
@@ -11477,7 +10917,7 @@ translate russian bree_birthday_date_male_f472cd64:
     mike.say "Женщина в магазине мне об этом сказала..."
 
 # ch/bree/events/events.rpy:3511
-translate russian bree_birthday_date_male_6288f5a1:
+translate russian bree_birthday_date_male_92dd880b:
     bree.say "Нет, нет...это идеально!"
 
 # ch/bree/events/events.rpy:3512
@@ -11489,23 +10929,19 @@ translate russian bree_birthday_date_male_f5436be1:
     "А потом я вижу, как её лицо немного вытягивается."
 
 # ch/bree/events/events.rpy:3517
-translate russian bree_birthday_date_male_aeca21d9:
+translate russian bree_birthday_date_male_f9d87c03:
     bree.say "Ох...это..."
 
 # ch/bree/events/events.rpy:3519
-translate russian bree_birthday_date_male_5618f2d2:
+translate russian bree_birthday_date_male_39fe5f1f:
     bree.say "Это очень мило...очень внимательно с твоей стороны..."
-
-# ch/bree/events/events.rpy:3520
-translate russian bree_birthday_date_male_b5ac724e:
-    mike.say "Что случилось, [bree.name]?"
 
 # ch/bree/events/events.rpy:3521
 translate russian bree_birthday_date_male_c0de394e:
     mike.say "Я думал, всем такие нужны?"
 
 # ch/bree/events/events.rpy:3522
-translate russian bree_birthday_date_male_ad7d0782:
+translate russian bree_birthday_date_male_64fef4bb:
     bree.say "Да...да!"
 
 # ch/bree/events/events.rpy:3523
@@ -11521,7 +10957,7 @@ translate russian bree_birthday_date_male_ed87d330_1:
     "Я почесываю затылок и улыбаюсь, как полный дурак."
 
 # ch/bree/events/events.rpy:3528
-translate russian bree_birthday_date_male_5466d3de_1:
+translate russian bree_birthday_date_male_ed020166_1:
     mike.say "Ох... ну..."
 
 # ch/bree/events/events.rpy:3529
@@ -11529,7 +10965,7 @@ translate russian bree_birthday_date_male_28baf632_1:
     mike.say "Ну что ж, хорошо!"
 
 # ch/bree/events/events.rpy:3530
-translate russian bree_birthday_date_male_e328671d_1:
+translate russian bree_birthday_date_male_c82e5f94_1:
     mike.say "Фух... я действительно подумал, что ты хочешь, чтобы я сейчас сделал тебе предложение!"
 
 # ch/bree/events/events.rpy:3531
@@ -11576,10 +11012,6 @@ translate russian bree_birthday_date_male_64d8fd99:
 translate russian bree_birthday_date_male_78ce3eb7:
     bree.say "Потому что я ОБЯЗАТЕЛЬНО возьму, если ты тоже..."
 
-# ch/bree/events/events.rpy:3550
-translate russian bree_birthday_date_male_dbeb514b:
-    mike.say "Мне это безразлично, [bree.name]."
-
 # ch/bree/events/events.rpy:3551
 translate russian bree_birthday_date_male_e0aa333b:
     mike.say "Если бы ты хотела десерт, я бы сказал \"да\"."
@@ -11607,10 +11039,6 @@ translate russian bree_birthday_date_male_46e47769:
 # ch/bree/events/events.rpy:3558
 translate russian bree_birthday_date_male_3f8bd4f3:
     "Тем более, что она будет есть одна!"
-
-# ch/bree/events/events.rpy:3563
-translate russian bree_birthday_date_male_b1f487d1:
-    mike.say "Сегодня у тебя день рождения, [bree.name]!"
 
 # ch/bree/events/events.rpy:3564
 translate russian bree_birthday_date_male_0a0b9797:
@@ -11656,10 +11084,6 @@ translate russian bree_birthday_date_male_cb97eef5:
 translate russian bree_birthday_date_male_accbd51c:
     "Я чувствую, как мое сердце опускается, когда понимаю, что у меня даже нет денег, чтобы оплатить счет."
 
-# ch/bree/events/events.rpy:3585
-translate russian bree_birthday_date_male_243b8063_1:
-    mike.say "А, [bree.name]…"
-
 # ch/bree/events/events.rpy:3586
 translate russian bree_birthday_date_male_17d02623:
     mike.say "Нельзя ли мне позаимствовать у тебя пару долларов?"
@@ -11672,10 +11096,6 @@ translate russian bree_birthday_date_male_4111f2c2:
 translate russian bree_birthday_date_male_e9c87e4b:
     bree.say "Ох, [hero.name], вообще-то это должно было порадовать меня."
 
-# ch/bree/events/events.rpy:3593
-translate russian bree_birthday_date_male_3dacd914:
-    mike.say "Ну что, [bree.name], пойдём на поздний сеанс?"
-
 # ch/bree/events/events.rpy:3594
 translate russian bree_birthday_date_male_cfdeb98b:
     "[bree.name] поднимает глаза, и наши взгляды встречаются."
@@ -11685,7 +11105,7 @@ translate russian bree_birthday_date_male_ce98131b:
     bree.say "Знаешь, мне кажется, что это десерт мне не подошел!"
 
 # ch/bree/events/events.rpy:3599
-translate russian bree_birthday_date_male_a2d8c5be:
+translate russian bree_birthday_date_male_55c94f26:
     mike.say "О... правда?"
 
 # ch/bree/events/events.rpy:3600
@@ -11695,10 +11115,6 @@ translate russian bree_birthday_date_male_b0df4e6f:
 # ch/bree/events/events.rpy:3601
 translate russian bree_birthday_date_male_79d790fd:
     bree.say "Прости, но я начинаю чувствовать себя немного плохо."
-
-# ch/bree/events/events.rpy:3602
-translate russian bree_birthday_date_male_a583a105:
-    mike.say "Все в порядке, [bree.name]."
 
 # ch/bree/events/events.rpy:3603
 translate russian bree_birthday_date_male_f3cb45f2:
@@ -11719,10 +11135,6 @@ translate russian bree_birthday_date_male_7bb8d53f:
 # ch/bree/events/events.rpy:3612
 translate russian bree_birthday_date_male_391f328c:
     bree.say "Ещё бы! Попробуй меня останови!"
-
-# ch/bree/events/events.rpy:3614
-translate russian bree_birthday_date_male_f69724b7:
-    mike.say "Отлично, [bree.name]."
 
 # ch/bree/events/events.rpy:3615
 translate russian bree_birthday_date_male_cb6c15e3:
@@ -11780,10 +11192,6 @@ translate russian bree_birthday_date_male_34370a69:
 translate russian bree_birthday_date_male_ab7dd1c4:
     "Я стараюсь не стонать и не закатывать глаза, когда осматриваю это своими глазами."
 
-# ch/bree/events/events.rpy:3637
-translate russian bree_birthday_date_male_72a69231:
-    mike.say "Не знаю, [bree.name]."
-
 # ch/bree/events/events.rpy:3638
 translate russian bree_birthday_date_male_c05c31a6:
     mike.say "Там этот парень с зубами."
@@ -11805,7 +11213,7 @@ translate russian bree_birthday_date_male_f81e34d8:
     bree.say "Помнишь, там им пришлось притвориться борцами сумо, чтобы сбежать от якудза?"
 
 # ch/bree/events/events.rpy:3646
-translate russian bree_birthday_date_male_b644d2f2:
+translate russian bree_birthday_date_male_2663661b:
     mike.say "Ну да... Наверное, я был пьян или под кайфом или что-то в этом роде!"
 
 # ch/bree/events/events.rpy:3647
@@ -11828,10 +11236,6 @@ translate russian bree_birthday_date_male_0055b103:
 translate russian bree_birthday_date_male_f5968eb8:
     bree.say "Они такие глупые, что у меня от них хочется плакать."
 
-# ch/bree/events/events.rpy:3655
-translate russian bree_birthday_date_male_3925219b:
-    mike.say "Этот фильм другой, [bree.name]."
-
 # ch/bree/events/events.rpy:3656
 translate russian bree_birthday_date_male_9b59e53c:
     mike.say "Режиссер только что снял мюзикл по мотивам \"Челюстей\"."
@@ -11847,10 +11251,6 @@ translate russian bree_birthday_date_male_39327bbd:
 # ch/bree/events/events.rpy:3662
 translate russian bree_birthday_date_male_05117275:
     bree.say "Ой, не знаю. Выбирай сам."
-
-# ch/bree/events/events.rpy:3667
-translate russian bree_birthday_date_male_3e207c05:
-    mike.say "Хорошо, [bree.name]."
 
 # ch/bree/events/events.rpy:3668
 translate russian bree_birthday_date_male_c92ee251:
@@ -11868,17 +11268,9 @@ translate russian bree_birthday_date_male_34c6d5b1:
 translate russian bree_birthday_date_male_feed951a:
     "Я улыбаюсь, глядя на обиженное личико [bree.name]."
 
-# ch/bree/events/events.rpy:3674
-translate russian bree_birthday_date_male_5555282f:
-    mike.say "Ты сама предложила мне выбрать, [bree.name]."
-
 # ch/bree/events/events.rpy:3675
 translate russian bree_birthday_date_male_73234091:
     mike.say "Значит, ты не можешь ворчать из-за моего выбора!"
-
-# ch/bree/events/events.rpy:3678
-translate russian bree_birthday_date_male_e25e0c53:
-    mike.say "Ну да, сегодня же твой день рождения, [bree.name]."
 
 # ch/bree/events/events.rpy:3679
 translate russian bree_birthday_date_male_b848ef93:
@@ -11887,10 +11279,6 @@ translate russian bree_birthday_date_male_b848ef93:
 # ch/bree/events/events.rpy:3681
 translate russian bree_birthday_date_male_1b7854d6:
     bree.say "Ты имеешь в виду, мы будем смотреть романтическую комедию?!"
-
-# ch/bree/events/events.rpy:3683
-translate russian bree_birthday_date_male_15a1d9e3:
-    mike.say "Да, [bree.name], идём на романтическую комедию."
 
 # ch/bree/events/events.rpy:3685
 translate russian bree_birthday_date_male_4ffe1bc0:
@@ -11925,7 +11313,7 @@ translate russian bree_birthday_date_male_f443709b:
     "Она уже указывает на одну из самых больших коробок с попкорном, которые они продают."
 
 # ch/bree/events/events.rpy:3700
-translate russian bree_birthday_date_male_7f494311:
+translate russian bree_birthday_date_male_69fd01e0:
     "О боже... Это будет болезненно!"
 
 # ch/bree/events/events.rpy:3702
@@ -11935,10 +11323,6 @@ translate russian bree_birthday_date_male_2ce5adc1:
 # ch/bree/events/events.rpy:3703
 translate russian bree_birthday_date_male_ef197a67:
     bree.say "И он должен быть сладким!"
-
-# ch/bree/events/events.rpy:3708
-translate russian bree_birthday_date_male_1e764501:
-    mike.say "Я куплю закуски, [bree.name]."
 
 # ch/bree/events/events.rpy:3709
 translate russian bree_birthday_date_male_22c02421:
@@ -11952,10 +11336,6 @@ translate russian bree_birthday_date_male_fbb1a2ce:
 translate russian bree_birthday_date_male_9cfeee60:
     bree.say "Фу, меня сейчас вырвет!"
 
-# ch/bree/events/events.rpy:3715
-translate russian bree_birthday_date_male_45698931:
-    mike.say "Это мое предложение, [bree.name]."
-
 # ch/bree/events/events.rpy:3716
 translate russian bree_birthday_date_male_9d63ac78:
     mike.say "Бери или оставь."
@@ -11967,10 +11347,6 @@ translate russian bree_birthday_date_male_a4370a5c:
 # ch/bree/events/events.rpy:3719
 translate russian bree_birthday_date_male_6ec83ee1:
     bree.say "Но я уверена, что ты это делаешь только потому, что не хочешь делиться!"
-
-# ch/bree/events/events.rpy:3722
-translate russian bree_birthday_date_male_2f7b3a2f:
-    mike.say "Я обычно предпочитаю соленые, [bree.name]."
 
 # ch/bree/events/events.rpy:3723
 translate russian bree_birthday_date_male_788004ff:
@@ -12020,10 +11396,6 @@ translate russian bree_birthday_date_male_f11b3cea:
 translate russian bree_birthday_date_male_6058448b:
     bree.say "Эй, [hero.name]!"
 
-# ch/bree/events/events.rpy:3747
-translate russian bree_birthday_date_male_e1272098:
-    mike.say "Что случилось, [bree.name]?"
-
 # ch/bree/events/events.rpy:3749
 translate russian bree_birthday_date_male_47bcd534:
     bree.say "Эти трейлеры такие старые."
@@ -12040,10 +11412,6 @@ translate russian bree_birthday_date_male_96836160:
 translate russian bree_birthday_date_male_248d51c5:
     "Но кажется, [bree.name] решила непрерывно болтать, даже не делая передышек!"
 
-# ch/bree/events/events.rpy:3757
-translate russian bree_birthday_date_male_dbff2d9f:
-    mike.say "[bree.name], можешь хоть на минуту замолчать?!"
-
 # ch/bree/events/events.rpy:3761
 translate russian bree_birthday_date_male_5a5f1352:
     bree.say "Хм!"
@@ -12053,7 +11421,7 @@ translate russian bree_birthday_date_male_bbc725c9:
     mike.say "Я очень хочу посмотреть трейлер к новому фильму \"Звездные солдаты\"."
 
 # ch/bree/events/events.rpy:3764
-translate russian bree_birthday_date_male_3c00a03a:
+translate russian bree_birthday_date_male_4ea2db28:
     bree.say "О... хорошо, [hero.name]."
 
 # ch/bree/events/events.rpy:3765
@@ -12148,10 +11516,6 @@ translate russian bree_birthday_sex_d215a8f6:
 translate russian bree_birthday_sex_35c1064b:
     "Я стараюсь говорить тихо, чтобы не привлекать внимание других людей в кинотеатре."
 
-# ch/bree/events/events.rpy:3804
-translate russian bree_birthday_sex_3dc7f442:
-    mike.say "[bree.name]..."
-
 # ch/bree/events/events.rpy:3805
 translate russian bree_birthday_sex_f809254b:
     mike.say "Что ты делаешь?!?"
@@ -12163,10 +11527,6 @@ translate russian bree_birthday_sex_cabaa5be:
 # ch/bree/events/events.rpy:3808
 translate russian bree_birthday_sex_7eabdfbc:
     "Вместо этого она тихо хихикает и начинает расстегивать мою молнию."
-
-# ch/bree/events/events.rpy:3809
-translate russian bree_birthday_sex_4f11dbc7:
-    mike.say "[bree.name]!"
 
 # ch/bree/events/events.rpy:3811
 translate russian bree_birthday_sex_baa15823:
@@ -12536,10 +11896,6 @@ translate russian bree_pregnant_request_34ab3bac:
 translate russian bree_pregnant_request_0f4906c0:
     bree.say "\"Ах, [hero.name]...\" (используется обращение \"ты\")."
 
-# ch/bree/events/events.rpy:3928
-translate russian bree_pregnant_request_0e4e8bf8:
-    mike.say "Да, [bree.name]?"
-
 # ch/bree/events/events.rpy:3930
 translate russian bree_pregnant_request_6cb4e629:
     bree.say "\"Ты доволен нами?\" (используется обращение \"ты\")."
@@ -12568,10 +11924,6 @@ translate russian bree_pregnant_request_7847f1e2:
 translate russian bree_pregnant_request_1c0d45e8:
     mike.say "Ну..."
 
-# ch/bree/events/events.rpy:3938
-translate russian bree_pregnant_request_f7297757:
-    mike.say "Я не совсем понимаю, что ты имеешь в виду, [bree.name]."
-
 # ch/bree/events/events.rpy:3939
 translate russian bree_pregnant_request_585dd578:
     mike.say "Я никогда не был так счастлив, как сейчас."
@@ -12585,7 +11937,7 @@ translate russian bree_pregnant_request_f3338a05:
     "[bree.name] качает головой, словно испугавшись моего ответа."
 
 # ch/bree/events/events.rpy:3944
-translate russian bree_pregnant_request_c6504318:
+translate russian bree_pregnant_request_40ac1bcd:
     bree.say "О нет... не в этом смысле!"
 
 # ch/bree/events/events.rpy:3945
@@ -12616,10 +11968,6 @@ translate russian bree_pregnant_request_5bd05b3c:
 translate russian bree_pregnant_request_b4b397d5:
     bree.say "Я не очень хорошо это делаю, да?"
 
-# ch/bree/events/events.rpy:3956
-translate russian bree_pregnant_request_e2458f99:
-    mike.say "Ох, я вообще не понимаю, что это такое, [bree.name]!"
-
 # ch/bree/events/events.rpy:3958
 translate russian bree_pregnant_request_ce4f8476:
     bree.say "То, что я хочу сказать, это то, что я думаю о будущем."
@@ -12635,10 +11983,6 @@ translate russian bree_pregnant_request_c47a3174:
 # ch/bree/events/events.rpy:3962
 translate russian bree_pregnant_request_70a700d8:
     "Все дело в серьезности намерений."
-
-# ch/bree/events/events.rpy:3963
-translate russian bree_pregnant_request_679ee0eb:
-    mike.say "Я хочу, чтобы все было так же, как сейчас, [bree.name]."
 
 # ch/bree/events/events.rpy:3964
 translate russian bree_pregnant_request_85610050:
@@ -12704,10 +12048,6 @@ translate russian bree_pregnant_request_f4af7e6d:
 translate russian bree_pregnant_request_deb77512:
     "Возможно, это еще один из тех шансов..."
 
-# ch/bree/events/events.rpy:3987
-translate russian bree_pregnant_request_8779e46b:
-    mike.say "Ты права, [bree.name]..."
-
 # ch/bree/events/events.rpy:3988
 translate russian bree_pregnant_request_fb5ffe33:
     mike.say "Это имеет большой смысл."
@@ -12717,11 +12057,11 @@ translate russian bree_pregnant_request_281f9139:
     "Я вижу, как на лице [bree.name] сначала появляется удивление, а потом – радость."
 
 # ch/bree/events/events.rpy:3992
-translate russian bree_pregnant_request_9211786b:
+translate russian bree_pregnant_request_54f1eff4:
     bree.say "Д…действительно?!"
 
 # ch/bree/events/events.rpy:3994
-translate russian bree_pregnant_request_0d08d140:
+translate russian bree_pregnant_request_149f67bb:
     bree.say "То есть... это здорово, [hero.name]!"
 
 # ch/bree/events/events.rpy:3996
@@ -12796,10 +12136,6 @@ translate russian bree_pregnant_request_91d7136a:
 translate russian bree_pregnant_request_3d473422:
     "Ни по отношению к [bree.name], ни ко мне, не говоря уже о наших детях!"
 
-# ch/bree/events/events.rpy:4021
-translate russian bree_pregnant_request_8cbe1876:
-    mike.say "Не пойми меня неправильно, [bree.name]."
-
 # ch/bree/events/events.rpy:4022
 translate russian bree_pregnant_request_b847c0d5:
     mike.say "Я уверен, что дети – это часть нашего будущего."
@@ -12813,12 +12149,8 @@ translate russian bree_pregnant_request_7251b4e3:
     bree.say "Но не здесь и сейчас?"
 
 # ch/bree/events/events.rpy:4027
-translate russian bree_pregnant_request_72969015:
+translate russian bree_pregnant_request_10d2b9f0:
     bree.say "Я... я просто думала, что у нас все хорошо..."
-
-# ch/bree/events/events.rpy:4029
-translate russian bree_pregnant_request_6b6a0c5b:
-    mike.say "Как я и говорил, [bree.name], я хочу семью."
 
 # ch/bree/events/events.rpy:4030
 translate russian bree_pregnant_request_deaaf137:
@@ -12837,7 +12169,7 @@ translate russian bree_pregnant_request_f7ae330d:
     "Но она не может полностью скрыть тот факт, что я разрушил ее мечту."
 
 # ch/bree/events/events.rpy:4037
-translate russian bree_pregnant_request_cd6292f6:
+translate russian bree_pregnant_request_733019c5:
     bree.say "Я... наверное, ты прав, [hero.name]."
 
 # ch/bree/events/events.rpy:4038
@@ -12908,10 +12240,6 @@ translate russian bree_event_office_01_10002203:
 translate russian bree_event_office_01_0ab1b56c:
     "Это как прийти на урок в средней школе и обнаружить, что класс ведет твоя мама!"
 
-# ch/bree/events/events.rpy:4065
-translate russian bree_event_office_01_85631ca9:
-    mike.say "[bree.name]?"
-
 # ch/bree/events/events.rpy:4066
 translate russian bree_event_office_01_e16cbc3f:
     mike.say "Что ты здесь делаешь?"
@@ -12961,7 +12289,7 @@ translate russian bree_event_office_01_1a3d7e10:
     "Она хмурится и наклоняет голову набок, глядя на меня."
 
 # ch/bree/events/events.rpy:4086
-translate russian bree_event_office_01_d9a0ff10:
+translate russian bree_event_office_01_54da55fb:
     bree.say "Эй... секунду..."
 
 # ch/bree/events/events.rpy:4087
@@ -12988,10 +12316,6 @@ translate russian bree_event_office_01_ee898d7a:
 translate russian bree_event_office_01_708e7723:
     "И я стараюсь разделять свою личную жизнь и работу."
 
-# ch/bree/events/events.rpy:4094
-translate russian bree_event_office_01_4b0c491f:
-    mike.say "Нет, [bree.name]!"
-
 # ch/bree/events/events.rpy:4095
 translate russian bree_event_office_01_3f161ce4:
     mike.say "Просто ты..."
@@ -13001,7 +12325,7 @@ translate russian bree_event_office_01_4ff004df:
     mike.say "Ты меня немного удивила, появившись без предупреждения, вот и все."
 
 # ch/bree/events/events.rpy:4097
-translate russian bree_event_office_01_a1bf8c80:
+translate russian bree_event_office_01_5e2e2fc6:
     mike.say "Если бы я знал, я бы... организовал экскурсию или что-нибудь в этом роде."
 
 # ch/bree/events/events.rpy:4098
@@ -13013,7 +12337,7 @@ translate russian bree_event_office_01_f87626d3:
     "Но она все равно кивает, похоже, принимая это на данный момент."
 
 # ch/bree/events/events.rpy:4102
-translate russian bree_event_office_01_0c11dc4b:
+translate russian bree_event_office_01_e55ebfe0:
     bree.say "Да... наверное."
 
 # ch/bree/events/events.rpy:4103
@@ -13061,7 +12385,7 @@ translate russian bree_event_office_01_aa19ea83:
     "А для человека таких размеров, как Дуэйн, это уже кое-что!"
 
 # ch/bree/events/events.rpy:4120
-translate russian bree_event_office_01_b732c1af:
+translate russian bree_event_office_01_b2254307:
     mike.say "Э... привет, Дуэйн!"
 
 # ch/bree/events/events.rpy:4122
@@ -13091,10 +12415,6 @@ translate russian bree_event_office_01_2fd62361:
 # ch/bree/events/events.rpy:4129
 translate russian bree_event_office_01_d5b64b75:
     mike.say "Дуэйн, это [bree.name], одна из моих соседок по дому."
-
-# ch/bree/events/events.rpy:4130
-translate russian bree_event_office_01_f462c8e4:
-    mike.say "[bree.name], это Дуэйн, мой начальник."
 
 # ch/bree/events/events.rpy:4132
 translate russian bree_event_office_01_49ffa788:
@@ -13200,12 +12520,8 @@ translate russian bree_event_office_01_cbb73ac8:
 translate russian bree_event_office_01_7e1bcc5d:
     bree.say "Он кажется хорошим парнем!"
 
-# ch/bree/events/events.rpy:4171
-translate russian bree_event_office_01_4c91599f:
-    mike.say "\"Да, [bree.name]...\"."
-
 # ch/bree/events/events.rpy:4172
-translate russian bree_event_office_01_ecaec83c:
+translate russian bree_event_office_01_a2f526b2:
     mike.say "\"Это именно то слово, которое я бы использовала, чтобы его описать... хороший!\"."
 
 # ch/bree/events/events.rpy:4173
@@ -13227,10 +12543,6 @@ translate russian bree_event_office_01_43243af2:
 # ch/bree/events/events.rpy:4179
 translate russian bree_event_office_01_1d52c00e:
     bree.say "\"Увидимся позже дома, хорошо?\"."
-
-# ch/bree/events/events.rpy:4181
-translate russian bree_event_office_01_7a340d88:
-    mike.say "\"Хорошо, [bree.name]...\"."
 
 # ch/bree/events/events.rpy:4182
 translate russian bree_event_office_01_f9a58bc5:
@@ -13257,7 +12569,7 @@ translate russian bree_event_office_02_aff452e3:
     "Я сижу за своим столом и усердно работаю, как обычно."
 
 # ch/bree/events/events.rpy:4195
-translate russian bree_event_office_02_b3b58b48:
+translate russian bree_event_office_02_dd5c5e77:
     "Ну… может быть, я усердно притворяюсь, что работаю!"
 
 # ch/bree/events/events.rpy:4196
@@ -13553,7 +12865,7 @@ translate russian bree_event_office_02_32b7f538:
     mike.say "Поэтому, пожалуйста, повтори, что ты хотела, чтобы я сделал."
 
 # ch/bree/events/events.rpy:4306
-translate russian bree_event_office_02_c39c8bc1:
+translate russian bree_event_office_02_f74ab4c3:
     mike.say "Потому что я могу запутаться и подумать, что ты попросила меня сделать что-то... непрофессиональное?"
 
 # ch/bree/events/events.rpy:4308
@@ -13752,10 +13064,6 @@ translate russian bree_event_office_03_e7a98f06:
 translate russian bree_event_office_03_11d4aa91:
     "Ну что ж, попробуем..."
 
-# ch/bree/events/events.rpy:4385
-translate russian bree_event_office_03_243b8063:
-    mike.say "О, [bree.name]..."
-
 # ch/bree/events/events.rpy:4387
 translate russian bree_event_office_03_2f65e1fd:
     bree.say "Да, [hero.name]?"
@@ -13787,10 +13095,6 @@ translate russian bree_event_office_03_891e79ad:
 # ch/bree/events/events.rpy:4398
 translate russian bree_event_office_03_32ca5f18:
     "Я качаю головой, не соглашаясь с этим."
-
-# ch/bree/events/events.rpy:4399
-translate russian bree_event_office_03_ce430cef:
-    mike.say "Это не совсем так, [bree.name]."
 
 # ch/bree/events/events.rpy:4400
 translate russian bree_event_office_03_edcf398a:
@@ -13856,10 +13160,6 @@ translate russian bree_event_office_03_7f6488c4:
 translate russian bree_event_office_03_0afdcf42:
     "А теперь она отчаянно хочет узнать, что он о ней сказал!"
 
-# ch/bree/events/events.rpy:4422
-translate russian bree_event_office_03_503432a7:
-    mike.say "Тебе это действительно так важно, [bree.name]?"
-
 # ch/bree/events/events.rpy:4423
 translate russian bree_event_office_03_064518b7:
     mike.say "У меня сложилось впечатление, что ты считаешь его придурком?"
@@ -13881,7 +13181,7 @@ translate russian bree_event_office_03_d977d523:
     bree.say "Угх..."
 
 # ch/bree/events/events.rpy:4431
-translate russian bree_event_office_03_62dc200e:
+translate russian bree_event_office_03_aed2d976:
     bree.say "Ладно, ладно... твой босс – красавец!"
 
 # ch/bree/events/events.rpy:4432
@@ -13957,7 +13257,7 @@ translate russian bree_event_office_03_65df43cd:
     "[bree.name] моргает и качает головой."
 
 # ch/bree/events/events.rpy:4461
-translate russian bree_event_office_03_9eee0faa:
+translate russian bree_event_office_03_84335d4d:
     bree.say "Я... думаю, мне стоит этим гордиться!"
 
 # ch/bree/events/events.rpy:4462
@@ -13977,7 +13277,7 @@ translate russian bree_event_office_03_c786544e:
     mike.say "И это хорошо, верно?"
 
 # ch/bree/events/events.rpy:4467
-translate russian bree_event_office_03_84116ace:
+translate russian bree_event_office_03_d9c3922d:
     mike.say "Значит, ты хочешь сказать... что именно?"
 
 # ch/bree/events/events.rpy:4469
@@ -13987,10 +13287,6 @@ translate russian bree_event_office_03_c27657d5:
 # ch/bree/events/events.rpy:4470
 translate russian bree_event_office_03_0ca366f6:
     bree.say "Как же скучно было бы мне отказаться от такого предложения?!"
-
-# ch/bree/events/events.rpy:4472
-translate russian bree_event_office_03_bef91a50:
-    mike.say "Отлично, [bree.name]!"
 
 # ch/bree/events/events.rpy:4473
 translate russian bree_event_office_03_accc7872:
@@ -14281,7 +13577,7 @@ translate russian bree_event_office_04_077563e0:
     dwayne.say "Так что почему бы тебе не снять эти маленькие трусики?"
 
 # ch/bree/events/events.rpy:4596
-translate russian bree_event_office_04_07d65ef1:
+translate russian bree_event_office_04_e92b6107:
     dwayne.say "И потом не залезть на этот стол, чтобы... обеспечить некоторую корпоративную разрядку?"
 
 # ch/bree/events/events.rpy:4599
@@ -14397,7 +13693,7 @@ translate russian bree_event_office_04_76d4e6a9:
     "Затем он хватает [bree.name] за бедра и оттягивает ее назад."
 
 # ch/bree/events/events.rpy:4637
-translate russian bree_event_office_04_e4074240:
+translate russian bree_event_office_04_2e5b3ae2:
     bree.say "О... привет!"
 
 # ch/bree/events/events.rpy:4638
@@ -14405,7 +13701,7 @@ translate russian bree_event_office_04_5eec1bc2:
     "Через мгновение Дуэйн попадает своим членом в цель."
 
 # ch/bree/events/events.rpy:4640
-translate russian bree_event_office_04_c8fc6e64:
+translate russian bree_event_office_04_e3540951:
     bree.say "Ооо... привет!"
 
 # ch/bree/events/events.rpy:4641
@@ -14445,7 +13741,7 @@ translate russian bree_event_office_04_e8bf50b6:
     "[bree.name] отчаянно кивает, задыхаясь с каждым вдохом."
 
 # ch/bree/events/events.rpy:4651
-translate russian bree_event_office_04_3232455e:
+translate russian bree_event_office_04_ca8add9e:
     bree.say "Д...да..."
 
 # ch/bree/events/events.rpy:4652
@@ -14453,7 +13749,7 @@ translate russian bree_event_office_04_c72998b4:
     bree.say "Это чувствуется..."
 
 # ch/bree/events/events.rpy:4653
-translate russian bree_event_office_04_f1e75b0f:
+translate russian bree_event_office_04_3f92f198:
     bree.say "Так хорошо... так хорошо!"
 
 # ch/bree/events/events.rpy:4654
@@ -14965,7 +14261,7 @@ translate russian bree_morningwood_efc0359a:
     bree.say "Ооо..."
 
 # ch/bree/events/events.rpy:4825
-translate russian bree_morningwood_7fc7578f:
+translate russian bree_morningwood_1caac795:
     bree.say "Доброе утро, [hero.name]!"
 
 # ch/bree/events/events.rpy:4826
@@ -14988,10 +14284,6 @@ translate russian bree_morningwood_111800bf:
 translate russian bree_morningwood_3f3b9eb5:
     "Но больше всего в ее голосе любопытства и веселья."
 
-# ch/bree/events/events.rpy:4831
-translate russian bree_morningwood_4cf507e0:
-    mike.say "Я... я думаю, я хотел тебя удивить, [bree.name]."
-
 # ch/bree/events/events.rpy:4832
 translate russian bree_morningwood_7a475669:
     mike.say "Я проснулся и не мог перестать думать о тебе."
@@ -15013,7 +14305,7 @@ translate russian bree_morningwood_19a4f93b:
     bree.say "Я понимаю, что ты имеешь в виду!"
 
 # ch/bree/events/events.rpy:4837
-translate russian bree_morningwood_ac4dcf74:
+translate russian bree_morningwood_225c67e5:
     bree.say "Хм... все это для меня?"
 
 # ch/bree/events/events.rpy:4838
@@ -15284,10 +14576,6 @@ translate russian bree_stripclub_intro_4519aad7:
 translate russian bree_stripclub_intro_9c1e674b:
     "Слова просто вырываются у меня из рта."
 
-# ch/bree/events/events.rpy:4932
-translate russian bree_stripclub_intro_39aa1de3:
-    mike.say "Я не хочу идти домой, [bree.name]!"
-
 # ch/bree/events/events.rpy:4933
 translate russian bree_stripclub_intro_61ab1c6e:
     mike.say "Мне здесь очень хорошо."
@@ -15303,10 +14591,6 @@ translate russian bree_stripclub_intro_92154825:
 # ch/bree/events/events.rpy:4936
 translate russian bree_stripclub_intro_d4b52f54:
     "И вдруг меня словно пронзает вдохновение."
-
-# ch/bree/events/events.rpy:4937
-translate russian bree_stripclub_intro_93b44fe7:
-    mike.say "Это может показаться немного безумным, [bree.name]..."
 
 # ch/bree/events/events.rpy:4938
 translate russian bree_stripclub_intro_f8d2a659:
@@ -15375,10 +14659,6 @@ translate russian bree_stripclub_intro_4cf57855:
 # ch/bree/events/events.rpy:4965
 translate russian bree_stripclub_intro_645dd68b:
     "Я с удивлением смотрю на [bree.name]."
-
-# ch/bree/events/events.rpy:4966
-translate russian bree_stripclub_intro_62e1b5a9:
-    mike.say "Но, [bree.name]…"
 
 # ch/bree/events/events.rpy:4967
 translate russian bree_stripclub_intro_067dcb01:
@@ -15940,10 +15220,6 @@ translate russian bree_event_05_88a2a3a8:
 translate russian bree_event_05_63995a78:
     "Подожди, я?"
 
-# ch/bree/events/events_gamer.rpy:556
-translate russian bree_event_05_667c7628:
-    mike.say "[bree.name], может быть, нам стоит..."
-
 # ch/bree/events/events_gamer.rpy:557
 translate russian bree_event_05_cd9c7f63:
     "Девушка" "Он заговорил! Скажи мне, сколько ты заплатил ей, чтобы она связалась с кем-то, кто выглядит как ты?"
@@ -16116,10 +15392,6 @@ translate russian bree_event_06_97ac40bb:
 translate russian bree_event_06_92d9fcc7:
     "Можете угадать, какой вариант я выберу?"
 
-# ch/bree/events/events_gamer.rpy:625
-translate russian bree_event_06_2d967f96:
-    mike.say "Эй, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:626
 translate russian bree_event_06_7e0afe08:
     mike.say "У меня такое странное ощущение, что ты пытаешься мне что-то сказать."
@@ -16157,7 +15429,7 @@ translate russian bree_event_06_6a374347:
     mike.say "Да, понимаю, это неприятно."
 
 # ch/bree/events/events_gamer.rpy:636
-translate russian bree_event_06_02b5b75b:
+translate russian bree_event_06_3cc831a1:
     mike.say "Но ты могла бы, не знаю... поиграть во что-нибудь другое?"
 
 # ch/bree/events/events_gamer.rpy:637
@@ -16197,7 +15469,7 @@ translate russian bree_event_06_8b0bfd51:
     "Мысль, которая может оказаться намного веселее и одновременно избавит меня от ее нытья..."
 
 # ch/bree/events/events_gamer.rpy:646
-translate russian bree_event_06_3aaa4420:
+translate russian bree_event_06_bd2023c4:
     mike.say "Я уверен, ты бы не смогла пройти эту игру, если бы у тебя было… что-нибудь, что могло бы тебя… отвлечь?"
 
 # ch/bree/events/events_gamer.rpy:647
@@ -16215,10 +15487,6 @@ translate russian bree_event_06_ee7cbc6d:
 # ch/bree/events/events_gamer.rpy:650
 translate russian bree_event_06_c2026449:
     "Я пожимаю плечами, изо всех сил стараясь выглядеть так, будто просто предлагаю то, что пришло мне в голову."
-
-# ch/bree/events/events_gamer.rpy:651
-translate russian bree_event_06_72a69231:
-    mike.say "Не знаю, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:652
 translate russian bree_event_06_6c03e755:
@@ -16265,7 +15533,7 @@ translate russian bree_event_06_3901906b:
     bree.say "Что ты собирался сказать?"
 
 # ch/bree/events/events_gamer.rpy:663
-translate russian bree_event_06_7175952f:
+translate russian bree_event_06_00b803ed:
     "Хорошо... вот и все!"
 
 # ch/bree/events/events_gamer.rpy:664
@@ -16648,10 +15916,6 @@ translate russian bree_event_07_a0933fcd:
 translate russian bree_event_07_755667b2:
     "Как обычно, меня встречает привычное вызывающее судороги световое шоу, как только я вхожу в комнату."
 
-# ch/bree/events/events_gamer.rpy:792
-translate russian bree_event_07_55133a08:
-    mike.say "Привет, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:793
 translate russian bree_event_07_9ecfc815:
     mike.say "Опять устраиваешь пиксельный геноцид, да?"
@@ -16661,7 +15925,7 @@ translate russian bree_event_07_97777ff1:
     bree.say "Что..."
 
 # ch/bree/events/events_gamer.rpy:798
-translate russian bree_event_07_92a3f5bb:
+translate russian bree_event_07_9014e1c7:
     bree.say "О... привет, [hero.name]."
 
 # ch/bree/events/events_gamer.rpy:799
@@ -16760,10 +16024,6 @@ translate russian bree_event_07_ca32bbeb:
 translate russian bree_event_07_b6674a6e:
     "Я могу лишь смотреть в полном изумлении."
 
-# ch/bree/events/events_gamer.rpy:832
-translate russian bree_event_07_4ff822d4:
-    mike.say "Ого, [bree.name], впечатляющий счёт!"
-
 # ch/bree/events/events_gamer.rpy:833
 translate russian bree_event_07_d00318a8:
     mike.say "Ты просто великолепна в этой игре."
@@ -16773,7 +16033,7 @@ translate russian bree_event_07_05390ca4:
     bree.say "ИДИ НА ХУЙ И УМРИ, СУЧАРА!!!"
 
 # ch/bree/events/events_gamer.rpy:839
-translate russian bree_event_07_905e0b60:
+translate russian bree_event_07_0797322a:
     bree.say "Что... о, не ты, [hero.name]!"
 
 # ch/bree/events/events_gamer.rpy:841
@@ -16853,12 +16113,8 @@ translate russian bree_event_07_9fb27d4b:
     bree.say "Ты серьезно?"
 
 # ch/bree/events/events_gamer.rpy:870
-translate russian bree_event_07_3c64a355:
+translate russian bree_event_07_a137dc9b:
     mike.say "Я... наверное, да."
-
-# ch/bree/events/events_gamer.rpy:871
-translate russian bree_event_07_cdeef556:
-    mike.say "Да, [bree.name], я говорю это!"
 
 # ch/bree/events/events_gamer.rpy:873
 translate russian bree_event_07_1f77adde:
@@ -17036,12 +16292,8 @@ translate russian bree_event_07_1cd5c044:
 translate russian bree_event_07_75dd18e6:
     "Затем она смахивает последние капли спермы и слюны со своих губ."
 
-# ch/bree/events/events_gamer.rpy:948
-translate russian bree_event_07_7c823d61:
-    mike.say "Ты...ты в порядке, [bree.name]?"
-
 # ch/bree/events/events_gamer.rpy:949
-translate russian bree_event_07_b24b0cb8:
+translate russian bree_event_07_d51fc56f:
     bree.say "А...а..."
 
 # ch/bree/events/events_gamer.rpy:950
@@ -17049,7 +16301,7 @@ translate russian bree_event_07_dfbbde0a:
     bree.say "Да..."
 
 # ch/bree/events/events_gamer.rpy:952
-translate russian bree_event_07_cca43934:
+translate russian bree_event_07_d54da345:
     bree.say "Думаю...я побила свой рекорд!"
 
 # ch/bree/events/events_gamer.rpy:960
@@ -17076,10 +16328,6 @@ translate russian bree_event_08_6e7c72a7:
 translate russian bree_event_08_85a33179:
     bree.say "О, [hero.name], ты как?"
 
-# ch/bree/events/events_gamer.rpy:969
-translate russian bree_event_08_b62ee970:
-    mike.say "Что...что такое, [bree.name]?"
-
 # ch/bree/events/events_gamer.rpy:970
 translate russian bree_event_08_669a854d:
     mike.say "Почему бы мне не быть в порядке?"
@@ -17095,10 +16343,6 @@ translate russian bree_event_08_27c12fbc:
 # ch/bree/events/events_gamer.rpy:974
 translate russian bree_event_08_e0ea58e2:
     bree.say "\"И еще потеешь!\"."
-
-# ch/bree/events/events_gamer.rpy:976
-translate russian bree_event_08_16c7316e:
-    mike.say "Я в порядке, [bree.name], поверь мне."
 
 # ch/bree/events/events_gamer.rpy:977
 translate russian bree_event_08_531c33d3:
@@ -17131,10 +16375,6 @@ translate russian bree_event_08_c6aee72b:
 # ch/bree/events/events_gamer.rpy:987
 translate russian bree_event_08_3dcfa54a:
     "Не говоря уже о рядах мест для зрителей."
-
-# ch/bree/events/events_gamer.rpy:989
-translate russian bree_event_08_e74be3b8:
-    mike.say "Ого, [bree.name], тут всё СЕРЬЁЗНО!"
 
 # ch/bree/events/events_gamer.rpy:991
 translate russian bree_event_08_502fd57b:
@@ -17336,10 +16576,6 @@ translate russian bree_event_08_2775eeea:
 translate russian bree_event_08_74e4f327:
     mike.say "Мы пока неплохо справляемся."
 
-# ch/bree/events/events_gamer.rpy:1091
-translate russian bree_event_08_b8598ca2:
-    mike.say "Я действительно думаю, что у нас есть шанс победить, [bree.name]!"
-
 # ch/bree/events/events_gamer.rpy:1093
 translate russian bree_event_08_57a22c3e:
     bree.say "Да, но у нас серьезные конкуренты – эти двое подонков!"
@@ -17364,10 +16600,6 @@ translate russian bree_event_08_6d9ae0fe:
 translate russian bree_event_08_3692a204:
     bree.say "Может быть, и нет..."
 
-# ch/bree/events/events_gamer.rpy:1102
-translate russian bree_event_08_aa881987:
-    mike.say "Что ты имеешь в виду, [bree.name]?"
-
 # ch/bree/events/events_gamer.rpy:1104
 translate russian bree_event_08_0021ad25:
     bree.say "Ну, я наблюдала за тем, как играет этот парень Колин."
@@ -17391,10 +16623,6 @@ translate russian bree_event_08_124a24ad:
 # ch/bree/events/events_gamer.rpy:1112
 translate russian bree_event_08_e8dd3d10:
     bree.say "И я думаю, нам стоит сообщить об этом судьям!"
-
-# ch/bree/events/events_gamer.rpy:1117
-translate russian bree_event_08_262be688:
-    mike.say "Да, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:1118
 translate russian bree_event_08_82066899:
@@ -17449,7 +16677,7 @@ translate russian bree_event_08_4386a255:
     "Они оба смотрят на экран, пока представитель представляет свои выводы."
 
 # ch/bree/events/events_gamer.rpy:1135
-translate russian bree_event_08_77f3b8f7:
+translate russian bree_event_08_97e6ac5a:
     "Колин" "Что... нет... я..."
 
 # ch/bree/events/events_gamer.rpy:1136
@@ -17468,10 +16696,6 @@ translate russian bree_event_08_6ae7e0d7:
 translate russian bree_event_08_b0014a2f:
     "Она качает головой в недоверии, пока официальное лицо уводит BlackDevilDog."
 
-# ch/bree/events/events_gamer.rpy:1144
-translate russian bree_event_08_0f0d93eb:
-    mike.say "Ты уверена в этом, [bree.name]?"
-
 # ch/bree/events/events_gamer.rpy:1145
 translate russian bree_event_08_d296faa5:
     mike.say "Потому что если они ничего не найдут..."
@@ -17483,10 +16707,6 @@ translate russian bree_event_08_adc7a42d:
 # ch/bree/events/events_gamer.rpy:1148
 translate russian bree_event_08_02e522ae:
     bree.say "Это было скорее предчувствие, чем что-то еще..."
-
-# ch/bree/events/events_gamer.rpy:1150
-translate russian bree_event_08_677672fe:
-    mike.say "Слушай, [bree.name], думаю, мы и так их обыграем. Читерят они или нет!"
 
 # ch/bree/events/events_gamer.rpy:1152
 translate russian bree_event_08_509daa6f:
@@ -17517,11 +16737,11 @@ translate russian bree_event_08_ac4a2f63:
     bree.say "[hero.name], ты победил!"
 
 # ch/bree/events/events_gamer.rpy:1166
-translate russian bree_event_08_f07f3c4c:
+translate russian bree_event_08_3435ccf6:
     kat.say "Колин, ты... ты проиграл!"
 
 # ch/bree/events/events_gamer.rpy:1167
-translate russian bree_event_08_3f77c880:
+translate russian bree_event_08_83577c1b:
     "Колин" "Ни за что... Я не могу проиграть!"
 
 # ch/bree/events/events_gamer.rpy:1168
@@ -17533,7 +16753,7 @@ translate russian bree_event_08_9da440ac:
     kat.say "Что это было?!"
 
 # ch/bree/events/events_gamer.rpy:1171
-translate russian bree_event_08_c447b823:
+translate russian bree_event_08_4697ad16:
     "Колин" "Это... эта чемпионская техника."
 
 # ch/bree/events/events_gamer.rpy:1172
@@ -17551,10 +16771,6 @@ translate russian bree_event_08_57c6b22c:
 # ch/bree/events/events_gamer.rpy:1176
 translate russian bree_event_08_671f61d8:
     "Быстрый взгляд на таблицу лидеров показывает мне, что этот матч будет решающим."
-
-# ch/bree/events/events_gamer.rpy:1177
-translate russian bree_event_08_243b8063:
-    mike.say "А, [bree.name]…"
 
 # ch/bree/events/events_gamer.rpy:1178
 translate russian bree_event_08_a253d6cd:
@@ -17575,10 +16791,6 @@ translate russian bree_event_08_b7dad40a:
 # ch/bree/events/events_gamer.rpy:1183
 translate russian bree_event_08_ee59efb6:
     bree.say "Я тоже могу разобраться в таблице лидеров, [hero.name]!"
-
-# ch/bree/events/events_gamer.rpy:1185
-translate russian bree_event_08_3e207c05:
-    mike.say "Хорошо, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:1186
 translate russian bree_event_08_de99e692:
@@ -17649,19 +16861,15 @@ translate russian bree_event_08_a430deb0:
     "Она обнимает меня за грудь, почти выбивая мне воздух из легких."
 
 # ch/bree/events/events_gamer.rpy:1209
-translate russian bree_event_08_dce2298e:
+translate russian bree_event_08_a4af1cc5:
     bree.say "Я...я выиграла...я выиграла!"
-
-# ch/bree/events/events_gamer.rpy:1211
-translate russian bree_event_08_aee18224:
-    mike.say "Это было потрясающе, [bree.name]!"
 
 # ch/bree/events/events_gamer.rpy:1212
 translate russian bree_event_08_762149ae:
     mike.say "Я никогда не знал, что ты умеешь так играть."
 
 # ch/bree/events/events_gamer.rpy:1214
-translate russian bree_event_08_5f15f01d:
+translate russian bree_event_08_22c0dc85:
     kat.say "Эм... привет..."
 
 # ch/bree/events/events_gamer.rpy:1215
@@ -17685,7 +16893,7 @@ translate russian bree_event_08_5adb590d:
     kat.say "Нет..."
 
 # ch/bree/events/events_gamer.rpy:1220
-translate russian bree_event_08_1fa8a5b2:
+translate russian bree_event_08_7fd4c34f:
     kat.say "Я... я просто хотела поздравить её, вот и всё."
 
 # ch/bree/events/events_gamer.rpy:1222
@@ -17756,10 +16964,6 @@ translate russian bree_event_09_b6a364a2:
 translate russian bree_event_09_0fedc5fe:
     "Ну что, начинаем!"
 
-# ch/bree/events/events_gamer.rpy:1253
-translate russian bree_event_09_df3fc2d0:
-    mike.say "Давай, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:1254
 translate russian bree_event_09_e11567f2:
     mike.say "Задавай свой вопрос!"
@@ -17773,11 +16977,11 @@ translate russian bree_event_09_9d01771c:
     "Но она довольно быстро приходит в себя и сосредотачивается на том, о чем я говорил."
 
 # ch/bree/events/events_gamer.rpy:1260
-translate russian bree_event_09_9b82d661:
+translate russian bree_event_09_715ba5c0:
     bree.say "Ох... хорошо..."
 
 # ch/bree/events/events_gamer.rpy:1262
-translate russian bree_event_09_189d1df2:
+translate russian bree_event_09_bb8133ce:
     bree.say "Тебе сегодня что-то не так?"
 
 # ch/bree/events/events_gamer.rpy:1263
@@ -17800,10 +17004,6 @@ translate russian bree_event_09_6048ff2c:
 translate russian bree_event_09_ffd6dee4:
     "А потом я заставляю себя затронуть \"слона в комнате\"."
 
-# ch/bree/events/events_gamer.rpy:1269
-translate russian bree_event_09_f23046ec:
-    mike.say "Не переживай, [bree.name], со мной можно говорить прямо."
-
 # ch/bree/events/events_gamer.rpy:1270
 translate russian bree_event_09_3ba00ed2:
     mike.say "Это из-за моих волос, да?"
@@ -17820,10 +17020,6 @@ translate russian bree_event_09_5f510f42:
 translate russian bree_event_09_77c0ee11:
     bree.say "Что ты имеешь в виду?"
 
-# ch/bree/events/events_gamer.rpy:1278
-translate russian bree_event_09_d8093f34:
-    mike.say "Ну же, [bree.name], я понимаю, как это выглядит!"
-
 # ch/bree/events/events_gamer.rpy:1281
 translate russian bree_event_09_cd690650:
     bree.say "Что?!"
@@ -17831,10 +17027,6 @@ translate russian bree_event_09_cd690650:
 # ch/bree/events/events_gamer.rpy:1283
 translate russian bree_event_09_f69d5b16:
     bree.say "Они выглядят так же, как всегда."
-
-# ch/bree/events/events_gamer.rpy:1285
-translate russian bree_event_09_89d7cc43:
-    mike.say "Нет, [bree.name], тут нужна стрижка."
 
 # ch/bree/events/events_gamer.rpy:1286
 translate russian bree_event_09_52a50906:
@@ -17865,7 +17057,7 @@ translate russian bree_event_09_7f82e796:
     "Я хмурюсь от этого, и лицо [bree.name] заметно вытягивается."
 
 # ch/bree/events/events_gamer.rpy:1298
-translate russian bree_event_09_dcee3f39:
+translate russian bree_event_09_06f130d6:
     bree.say "Прости меня, [hero.name]."
 
 # ch/bree/events/events_gamer.rpy:1300
@@ -17884,16 +17076,12 @@ translate russian bree_event_09_93556d5d:
 translate russian bree_event_09_5e23492b:
     "И я всегда могу потратить деньги, которые сэкономлю, на что-нибудь другое..."
 
-# ch/bree/events/events_gamer.rpy:1308
-translate russian bree_event_09_2040fb65:
-    mike.say "Ладно, [bree.name], давай попробуем."
-
 # ch/bree/events/events_gamer.rpy:1310
 translate russian bree_event_09_6d87c9d9:
     bree.say "Правда?"
 
 # ch/bree/events/events_gamer.rpy:1312
-translate russian bree_event_09_9a17cce8:
+translate russian bree_event_09_15d6739c:
     bree.say "Да... то есть, отлично!"
 
 # ch/bree/events/events_gamer.rpy:1314
@@ -18004,10 +17192,6 @@ translate russian bree_event_09_0d58334d:
 translate russian bree_event_09_9d70d4fc:
     "Но я уверен, что с помощью небольшого количества средств для укладки, я смогу добиться желаемого результата."
 
-# ch/bree/events/events_gamer.rpy:1356
-translate russian bree_event_09_23ab1c61:
-    mike.say "[bree.name], выглядит довольно хорошо!"
-
 # ch/bree/events/events_gamer.rpy:1360
 translate russian bree_event_09_f9732e40:
     bree.say "Правда?!"
@@ -18019,10 +17203,6 @@ translate russian bree_event_09_f304877f:
 # ch/bree/events/events_gamer.rpy:1364
 translate russian bree_event_09_aff05995:
     bree.say "Я волновалась, что всё испортила!"
-
-# ch/bree/events/events_gamer.rpy:1366
-translate russian bree_event_09_ad1fa14f:
-    mike.say "Да нет, [bree.name], всё нормально."
 
 # ch/bree/events/events_gamer.rpy:1367
 translate russian bree_event_09_45f44850:
@@ -18064,12 +17244,8 @@ translate russian bree_event_09_bcada54c:
 translate russian bree_event_09_b493f074:
     "Я выгляжу так, будто меня держали на месте и стригли, как овцу!"
 
-# ch/bree/events/events_gamer.rpy:1382
-translate russian bree_event_09_54cc7f76:
-    mike.say "[bree.name], что ты натворила?!"
-
 # ch/bree/events/events_gamer.rpy:1385
-translate russian bree_event_09_c23f68c2:
+translate russian bree_event_09_9815c446:
     bree.say "(обращаясь ко мне) Это... это так плохо?"
 
 # ch/bree/events/events_gamer.rpy:1387
@@ -18085,7 +17261,7 @@ translate russian bree_event_09_0bf26220:
     mike.say "(обращаясь к Бри) По крайней мере, пока я не заплачу кому-нибудь за то, чтобы это исправили..."
 
 # ch/bree/events/events_gamer.rpy:1392
-translate russian bree_event_09_0fbaf419:
+translate russian bree_event_09_c3d1c9ee:
     bree.say "(обращаясь ко мне) Ох... прости меня, [hero.name]."
 
 # ch/bree/events/events_gamer.rpy:1394
@@ -18108,10 +17284,6 @@ translate russian bree_event_09_d966335e:
 translate russian bree_event_09_4ed64fd1:
     "Но последнее, чего я хочу, это чтобы [bree.name] делала эту работу с энтузиазмом, но совершенно непрофессионально!"
 
-# ch/bree/events/events_gamer.rpy:1404
-translate russian bree_event_09_4fa70950:
-    mike.say "Нет, [bree.name], нет."
-
 # ch/bree/events/events_gamer.rpy:1405
 translate russian bree_event_09_10fbc239:
     mike.say "Я не мог позволить тебе это сделать."
@@ -18129,7 +17301,7 @@ translate russian bree_event_09_86c2d622:
     "И она думает, что это делает ее квалифицированной для того, чтобы заниматься моими волосами?!"
 
 # ch/bree/events/events_gamer.rpy:1412
-translate russian bree_event_09_b2599af4:
+translate russian bree_event_09_f21aa21b:
     mike.say "Я... у меня просто есть определенные представления о том, как должны выглядеть мои волосы, понимаешь."
 
 # ch/bree/events/events_gamer.rpy:1413
@@ -18143,10 +17315,6 @@ translate russian bree_event_09_e0884142:
 # ch/bree/events/events_gamer.rpy:1416
 translate russian bree_event_09_d5c58a39:
     "Не нужно быть гением, чтобы понять, что она не убеждена."
-
-# ch/bree/events/events_gamer.rpy:1417
-translate russian bree_event_09_8ada375a:
-    mike.say "Честное слово, [bree.name], с таким можно справиться только после парикмахерской школы!"
 
 # ch/bree/events/events_gamer.rpy:1419
 translate russian bree_event_09_783c595b:
@@ -18200,10 +17368,6 @@ translate russian bree_event_10_2019e408:
 translate russian bree_event_10_5f03cd98:
     bree.say "[hero.name], кто та красотка, с которой ты только что болтал?"
 
-# ch/bree/events/events_gamer.rpy:1447
-translate russian bree_event_10_d31e68e1:
-    mike.say "Какая горячая девчонка, [bree.name]?"
-
 # ch/bree/events/events_gamer.rpy:1449
 translate russian bree_event_10_8a709faf:
     bree.say "Ну же, [hero.name]."
@@ -18213,7 +17377,7 @@ translate russian bree_event_10_fa448897:
     bree.say "Если ты собираешься делать вид, что ничего не знаешь, то хотя бы не притворяйся таким тупым!"
 
 # ch/bree/events/events_gamer.rpy:1453
-translate russian bree_event_10_f225ac09:
+translate russian bree_event_10_e64d22d7:
     mike.say "Ты...ты имеешь в виду ее?"
 
 # ch/bree/events/events_gamer.rpy:1454
@@ -18240,10 +17404,6 @@ translate russian bree_event_10_4f85bee7:
 translate russian bree_event_10_f2414ed0:
     mike.say "Ну, честно говоря, я этого просто не заметил."
 
-# ch/bree/events/events_gamer.rpy:1463
-translate russian bree_event_10_7046b52e:
-    mike.say "Это ведь не первое, на что обращаешь внимание, когда убиваешь монстров, [bree.name]!"
-
 # ch/bree/events/events_gamer.rpy:1465
 translate russian bree_event_10_70704d00:
     "[bree.name] качает головой и немного наклоняется ближе, указывая на экран."
@@ -18263,10 +17423,6 @@ translate russian bree_event_10_813938ae:
 # ch/bree/events/events_gamer.rpy:1471
 translate russian bree_event_10_e78dab2d:
     bree.say "Так мне завидовать твоей пиксельной супруге?"
-
-# ch/bree/events/events_gamer.rpy:1473
-translate russian bree_event_10_893d4eb5:
-    mike.say "Это совсем не так, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:1474
 translate russian bree_event_10_d41bb66f:
@@ -18308,10 +17464,6 @@ translate russian bree_event_10_0da4a23f:
 translate russian bree_event_10_80bbd2cc:
     "Мне нужно что-то сделать или сказать, чтобы вернуть себе немного контроля над ситуацией."
 
-# ch/bree/events/events_gamer.rpy:1491
-translate russian bree_event_10_16bba0ce:
-    mike.say "Слушай, [bree.name], всё не так."
-
 # ch/bree/events/events_gamer.rpy:1492
 translate russian bree_event_10_05df635c:
     mike.say "Кажется, партнерша Тайры очень интересная."
@@ -18329,7 +17481,7 @@ translate russian bree_event_10_641a40b7:
     bree.say "И что ты им ответил?"
 
 # ch/bree/events/events_gamer.rpy:1500
-translate russian bree_event_10_94b65f34:
+translate russian bree_event_10_441b1a5b:
     mike.say "Я еще ничего не сказал... пока."
 
 # ch/bree/events/events_gamer.rpy:1501
@@ -18345,12 +17497,8 @@ translate russian bree_event_10_e7f2bfee:
     "Она хмурится, и я вижу, как она обдумывает это в своей голове."
 
 # ch/bree/events/events_gamer.rpy:1506
-translate russian bree_event_10_b37d82af:
+translate russian bree_event_10_e03150f3:
     bree.say "Но... зачем тебе, чтобы я была там?"
-
-# ch/bree/events/events_gamer.rpy:1508
-translate russian bree_event_10_e3b6bfae:
-    mike.say "[bree.name], я даже не знаю, парень это или девушка!"
 
 # ch/bree/events/events_gamer.rpy:1509
 translate russian bree_event_10_0230a63d:
@@ -18380,17 +17528,9 @@ translate russian bree_event_10_6aede612:
 translate russian bree_event_10_c6603eb2:
     bree.say "Но она должна быть не горячее, чем я в реальной жизни!"
 
-# ch/bree/events/events_gamer.rpy:1520
-translate russian bree_event_10_de223665:
-    mike.say "[bree.name], как кто-то может быть горячее, чем ты?"
-
 # ch/bree/events/events_gamer.rpy:1522
-translate russian bree_event_10_0472fb41:
+translate russian bree_event_10_5f4b2796:
     bree.say "Ох, ты... какой льстивец!"
-
-# ch/bree/events/events_gamer.rpy:1526
-translate russian bree_event_10_eb45dafe:
-    mike.say "Ладно, [bree.name], выкладываю карты на стол."
 
 # ch/bree/events/events_gamer.rpy:1527
 translate russian bree_event_10_5e43b9d7:
@@ -18412,12 +17552,8 @@ translate russian bree_event_10_d624cc4d:
 translate russian bree_event_10_61e330e6:
     mike.say "Эй, успокойся!"
 
-# ch/bree/events/events_gamer.rpy:1535
-translate russian bree_event_10_c260e77b:
-    mike.say "Я, [bree.name], не собираюсь с ними лично встречаться!"
-
 # ch/bree/events/events_gamer.rpy:1538
-translate russian bree_event_10_06d4c868:
+translate russian bree_event_10_cda41241:
     bree.say "П...правда?"
 
 # ch/bree/events/events_gamer.rpy:1540
@@ -18437,15 +17573,11 @@ translate russian bree_event_10_38e0f44e:
     "[bree.name] опускает взгляд, явно смущенная своей вспышкой."
 
 # ch/bree/events/events_gamer.rpy:1546
-translate russian bree_event_10_8e8aed1c:
+translate russian bree_event_10_6d6e179c:
     bree.say "О...хорошо."
 
-# ch/bree/events/events_gamer.rpy:1548
-translate russian bree_event_10_80cb0fcb:
-    mike.say "Если тебя это так задевает, [bree.name], я могу порвать с ней и в игре."
-
 # ch/bree/events/events_gamer.rpy:1550
-translate russian bree_event_10_b3ae0295:
+translate russian bree_event_10_e11159dd:
     bree.say "Нет...нет, [hero.name]."
 
 # ch/bree/events/events_gamer.rpy:1551
@@ -18524,12 +17656,8 @@ translate russian bree_event_11_e84ffc6f:
 translate russian bree_event_11_61044f3c:
     bree.say "Вон тот парень с ноутбуком — симпатичный!"
 
-# ch/bree/events/events_gamer.rpy:1608
-translate russian bree_event_11_243b8063:
-    mike.say "А, [bree.name]..."
-
 # ch/bree/events/events_gamer.rpy:1609
-translate russian bree_event_11_e9377497:
+translate russian bree_event_11_be104df8:
     mike.say "Что случилось с тем, что все должно быть платоническим и, ну, не странным?"
 
 # ch/bree/events/events_gamer.rpy:1611
@@ -18543,10 +17671,6 @@ translate russian bree_event_11_82dd1b4d:
 # ch/bree/events/events_gamer.rpy:1615
 translate russian bree_event_11_6a7f08f2:
     bree.say "Как в одном из шпионских фильмов, где люди встречаются тайно!"
-
-# ch/bree/events/events_gamer.rpy:1617
-translate russian bree_event_11_e054e77f:
-    mike.say "Что бы ты ни говорила, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:1618
 translate russian bree_event_11_b3856ce2:
@@ -18563,10 +17687,6 @@ translate russian bree_event_11_da40474e:
 # ch/bree/events/events_gamer.rpy:1624
 translate russian bree_event_11_a1f5de5f:
     bree.say "Сейчас, может, и нет, но вдруг у него в сумке есть?"
-
-# ch/bree/events/events_gamer.rpy:1626
-translate russian bree_event_11_491ef3c8:
-    mike.say "Забудь об этом, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:1627
 translate russian bree_event_11_888d0fce:
@@ -18653,7 +17773,7 @@ translate russian bree_event_11_436ce2f2:
     kat.say "Что?"
 
 # ch/bree/events/events_gamer.rpy:1659
-translate russian bree_event_11_a1a04039:
+translate russian bree_event_11_52d59de9:
     kat.say "Ты... ты же Ак?!"
 
 # ch/bree/events/events_gamer.rpy:1660
@@ -18661,7 +17781,7 @@ translate russian bree_event_11_c6739032:
     "Я почесал затылок и неловко улыбнулся."
 
 # ch/bree/events/events_gamer.rpy:1662
-translate russian bree_event_11_bf23ff21:
+translate russian bree_event_11_bf283bcd:
     mike.say "Ну… эмм…"
 
 # ch/bree/events/events_gamer.rpy:1663
@@ -18679,10 +17799,6 @@ translate russian bree_event_11_c29b1d6f:
 # ch/bree/events/events_gamer.rpy:1668
 translate russian bree_event_11_0c5f10c1:
     bree.say "Скажи мне, пожалуйста, что она не та, с которой мы должны были встретиться?!"
-
-# ch/bree/events/events_gamer.rpy:1671
-translate russian bree_event_11_59b1e155:
-    mike.say "Не волнуйся, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:1672
 translate russian bree_event_11_bc5ce3ce:
@@ -18723,10 +17839,6 @@ translate russian bree_event_11_7bd69446:
 # ch/bree/events/events_gamer.rpy:1686
 translate russian bree_event_11_20bb59f6:
     "Я встаю между двумя девушками, чтобы они не соприкасались."
-
-# ch/bree/events/events_gamer.rpy:1687
-translate russian bree_event_11_48b7dec6:
-    mike.say "Не слушай ее, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:1688
 translate russian bree_event_11_0a62ec4f:
@@ -18795,10 +17907,6 @@ translate russian bree_event_11_538cbf63:
 # ch/bree/events/events_gamer.rpy:1715
 translate russian bree_event_11_5d992686:
     "Но они обе замолчали, как я и попросил."
-
-# ch/bree/events/events_gamer.rpy:1717
-translate russian bree_event_11_ae46944b:
-    mike.say "[bree.name], это не игровой турнир."
 
 # ch/bree/events/events_gamer.rpy:1718
 translate russian bree_event_11_e7821ff8:
@@ -18995,10 +18103,6 @@ translate russian bree_event_12_323fc3dc:
 # ch/bree/events/events_gamer.rpy:1794
 translate russian bree_event_12_65135ec6:
     bree.say "Просто оставь большую часть разговоров мне, хорошо?"
-
-# ch/bree/events/events_gamer.rpy:1796
-translate russian bree_event_12_87fdd400:
-    mike.say "Эм...хорошо, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:1797
 translate russian bree_event_12_05f1febc:
@@ -19244,10 +18348,6 @@ translate russian bree_event_12_0a667220:
 translate russian bree_event_12_08065143:
     "Звук возмущенного голоса [bree.name] ставит точку в этом всем."
 
-# ch/bree/events/events_gamer.rpy:1913
-translate russian bree_event_12_456edaf2:
-    mike.say "[bree.name], прости меня..."
-
 # ch/bree/events/events_gamer.rpy:1914
 translate russian bree_event_12_ef991fe3:
     breesdad "Ты слышал, что он мне сказал..."
@@ -19311,10 +18411,6 @@ translate russian bree_event_12_12aa0971:
 # ch/bree/events/events_gamer.rpy:1944
 translate russian bree_event_12_b3387a29:
     "С этими словами [bree.name] буквально выталкивает его за дверь и захлопывает её."
-
-# ch/bree/events/events_gamer.rpy:1946
-translate russian bree_event_12_e460833c:
-    mike.say "Ты в порядке, [bree.name]?"
 
 # ch/bree/events/events_gamer.rpy:1948
 translate russian bree_event_12_4aa2539e:
@@ -19404,10 +18500,6 @@ translate russian bree_event_12_1f281c1b:
 translate russian bree_event_12_75945217:
     "И вот он ушел."
 
-# ch/bree/events/events_gamer.rpy:1983
-translate russian bree_event_12_eac73dcf:
-    mike.say "Вау, [bree.name]!"
-
 # ch/bree/events/events_gamer.rpy:1984
 translate russian bree_event_12_480ccce9:
     mike.say "Это ты называешь странным?!"
@@ -19483,10 +18575,6 @@ translate russian bree_event_13_078d485a:
 # ch/bree/events/events_gamer.rpy:2020
 translate russian bree_event_13_752f4ac2:
     bree.say "Что случилось? (обращается к Майку)"
-
-# ch/bree/events/events_gamer.rpy:2022
-translate russian bree_event_13_7c888144:
-    mike.say "Прости, [bree.name]. (обращается к Бри)"
 
 # ch/bree/events/events_gamer.rpy:2023
 translate russian bree_event_13_8db29f70:
@@ -19588,10 +18676,6 @@ translate russian bree_event_13_e4e0a585:
 translate russian bree_event_13_bd7fb75b:
     "Она одета для сна, и я думаю, что, возможно, я что-то упустил по пути сюда."
 
-# ch/bree/events/events_gamer.rpy:2061
-translate russian bree_event_13_243b8063:
-    mike.say "Ах, [bree.name]..."
-
 # ch/bree/events/events_gamer.rpy:2062
 translate russian bree_event_13_19964c2b:
     mike.say "Я не знаю, неправильно ли ты меня поняла."
@@ -19644,10 +18728,6 @@ translate russian bree_event_13_cb6a69b9:
 translate russian bree_event_13_ca39019f:
     "Что мне терять, если позволю ей остаться?"
 
-# ch/bree/events/events_gamer.rpy:2082
-translate russian bree_event_13_03e365ee:
-    mike.say "Это звучит здорово, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:2083
 translate russian bree_event_13_253c9d08:
     mike.say "Но если я проспись, ты должна меня разбудить."
@@ -19688,10 +18768,6 @@ translate russian bree_event_13_5e38db8c:
 translate russian bree_event_13_33cde150:
     bree.say "И тебе сладких снов!"
 
-# ch/bree/events/events_gamer.rpy:2096
-translate russian bree_event_13_568bf3e2:
-    mike.say "Они будут такими, пока ты рядом, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:2098
 translate russian bree_event_13_e0fc3992:
     "[bree.name] снова смеется, на этот раз из-за моей банальной фразы."
@@ -19723,10 +18799,6 @@ translate russian bree_event_13_d71772fe:
 # ch/bree/events/events_gamer.rpy:2109
 translate russian bree_event_13_51e1a7ff:
     "В конце концов, как я смогу удержать свои руки от нее?"
-
-# ch/bree/events/events_gamer.rpy:2110
-translate russian bree_event_13_239679aa:
-    mike.say "Может быть, в другой раз, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:2111
 translate russian bree_event_13_7244e7ac:
@@ -19828,10 +18900,6 @@ translate russian bree_event_14_a6714228:
 translate russian bree_event_14_a1da58e0:
     "Это чувство усиливается тем фактом, что я вижу, как [bree.name] что-то скрывает за спиной."
 
-# ch/bree/events/events_gamer.rpy:2155
-translate russian bree_event_14_518946a4:
-    mike.say "Ага, [bree.name], вот он я!"
-
 # ch/bree/events/events_gamer.rpy:2156
 translate russian bree_event_14_da127422:
     mike.say "Что я могу для тебя сделать?"
@@ -19872,10 +18940,6 @@ translate russian bree_event_14_71923c89:
 translate russian bree_event_14_69244210:
     mike.say "Хм, дай подумать..."
 
-# ch/bree/events/events_gamer.rpy:2169
-translate russian bree_event_14_d35be79d:
-    mike.say "Да, [bree.name], возможно, ты уже вскользь упоминала. Всего разочек."
-
 # ch/bree/events/events_gamer.rpy:2171
 translate russian bree_event_14_1f8a6286:
     "[bree.name] улыбается мне, показывая, что я сказал именно то, что нужно."
@@ -19904,10 +18968,6 @@ translate russian bree_event_14_f105e7c8:
 translate russian bree_event_14_49a8a702:
     "И это висит в воздухе, как пианино, нависшее над моей головой прямо сейчас."
 
-# ch/bree/events/events_gamer.rpy:2181
-translate russian bree_event_14_69b0df95:
-    mike.say "Это отличные новости, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:2182
 translate russian bree_event_14_9e760420:
     mike.say "Я помню, как было тяжело писать свою диссертацию, – говорю я Бри."
@@ -19933,7 +18993,7 @@ translate russian bree_event_14_7013c63f:
     bree.say "Ты уже делал что-то подобное раньше. – говорит Бри мне."
 
 # ch/bree/events/events_gamer.rpy:2190
-translate russian bree_event_14_600479df:
+translate russian bree_event_14_c5d18517:
     bree.say "Так что, может быть, ты мог бы...просмотреть ее для меня? – говорит Бри мне."
 
 # ch/bree/events/events_gamer.rpy:2192
@@ -19943,10 +19003,6 @@ translate russian bree_event_14_b6c3c9df:
 # ch/bree/events/events_gamer.rpy:2193
 translate russian bree_event_14_fa5334b2:
     "Просмотр диссертации [bree.name] не займет у меня больше часа, максимум."
-
-# ch/bree/events/events_gamer.rpy:2194
-translate russian bree_event_14_febfe637:
-    mike.say "Конечно, [bree.name], – говорю я Бри."
 
 # ch/bree/events/events_gamer.rpy:2195
 translate russian bree_event_14_30101a56:
@@ -19968,10 +19024,6 @@ translate russian bree_event_14_3ca3a164:
 translate russian bree_event_14_cf6b624e:
     "Не ожидая этого, я чуть не роняю всю папку, пытаясь удержать ее."
 
-# ch/bree/events/events_gamer.rpy:2203
-translate russian bree_event_14_243b8063:
-    mike.say "А, [bree.name]... – говорю я Бри."
-
 # ch/bree/events/events_gamer.rpy:2204
 translate russian bree_event_14_243352aa:
     mike.say "Нельзя ли просто отправить мне этот файл по электронной почте или как-то так?"
@@ -19989,7 +19041,7 @@ translate russian bree_event_14_6629ee2d:
     "Она отводит взгляд, словно слишком смущена, чтобы смотреть мне в глаза."
 
 # ch/bree/events/events_gamer.rpy:2210
-translate russian bree_event_14_c8f18f7b:
+translate russian bree_event_14_64709f8b:
     bree.say "Эм... ну, дело в том..."
 
 # ch/bree/events/events_gamer.rpy:2211
@@ -20001,16 +19053,12 @@ translate russian bree_event_14_33c56d65:
     bree.say "Но все это там есть, я клянусь!"
 
 # ch/bree/events/events_gamer.rpy:2213
-translate russian bree_event_14_55ad004d:
+translate russian bree_event_14_75cdfe43:
     bree.say "Просто нужно... немного организовать, вот и все!"
 
 # ch/bree/events/events_gamer.rpy:2215
 translate russian bree_event_14_3953d31c:
     "Я качаю головой, оценивая внушительный объем бумаги в моих руках."
-
-# ch/bree/events/events_gamer.rpy:2216
-translate russian bree_event_14_f3b9e9ae:
-    mike.say "[bree.name], ты же говорила, что хотела, чтобы я это проверил?"
 
 # ch/bree/events/events_gamer.rpy:2217
 translate russian bree_event_14_a1cc1a08:
@@ -20076,10 +19124,6 @@ translate russian bree_event_14_9b24f525:
 translate russian bree_event_14_39c3b33a:
     "Я просто буду заниматься редактированием и организацией, пока она отдохнет перед финальным этапом."
 
-# ch/bree/events/events_gamer.rpy:2238
-translate russian bree_event_14_3e207c05:
-    mike.say "Хорошо, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:2239
 translate russian bree_event_14_53b2ce93:
     mike.say "Ты выглядишь так, будто заслужила отдых."
@@ -20099,10 +19143,6 @@ translate russian bree_event_14_cf8d2da1:
 # ch/bree/events/events_gamer.rpy:2246
 translate russian bree_event_14_8b97244a:
     bree.say "Спасибо, [hero.name], ты лучший!"
-
-# ch/bree/events/events_gamer.rpy:2248
-translate russian bree_event_14_16aa2c99:
-    mike.say "Ничего страшного, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:2249
 translate russian bree_event_14_cbc20fac:
@@ -20127,10 +19167,6 @@ translate russian bree_event_14_fbea91eb:
 # ch/bree/events/events_gamer.rpy:2260
 translate russian bree_event_14_5d3c2703:
     "Если [bree.name] не может справиться с этим самостоятельно, значит, она еще не заслужила эту квалификацию."
-
-# ch/bree/events/events_gamer.rpy:2261
-translate russian bree_event_14_b50e7457:
-    mike.say "Нет, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:2262
 translate russian bree_event_14_9c6f96fb:
@@ -20208,10 +19244,6 @@ translate russian bree_event_15_730fe6bb:
 translate russian bree_event_15_371cd1e6:
     "Любопытство взяло верх, и я наклоняюсь через ее плечо, чтобы посмотреть, какие секреты скрываются в коробке."
 
-# ch/bree/events/events_gamer.rpy:2299
-translate russian bree_event_15_2d967f96:
-    mike.say "Эй, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:2300
 translate russian bree_event_15_229e180c:
     mike.say "Что у тебя там?"
@@ -20225,7 +19257,7 @@ translate russian bree_event_15_8ee84750:
     bree.say "Ой, [hero.name]!"
 
 # ch/bree/events/events_gamer.rpy:2305
-translate russian bree_event_15_a03a93fc:
+translate russian bree_event_15_e383fc42:
     bree.say "Что... это?"
 
 # ch/bree/events/events_gamer.rpy:2307
@@ -20312,10 +19344,6 @@ translate russian bree_event_15_02ff199e:
 translate russian bree_event_15_603601c2:
     bree.say "Не..."
 
-# ch/bree/events/events_gamer.rpy:2337
-translate russian bree_event_15_781ab050:
-    mike.say "Ого, [bree.name]!"
-
 # ch/bree/events/events_gamer.rpy:2338
 translate russian bree_event_15_ce20f75f:
     mike.say "Что случилось?!?"
@@ -20333,11 +19361,11 @@ translate russian bree_event_15_0674a361:
     "Но она все равно крепко прижимает книгу к груди."
 
 # ch/bree/events/events_gamer.rpy:2343
-translate russian bree_event_15_48aa018b:
+translate russian bree_event_15_36f1e83b:
     bree.say "Я... я просто..."
 
 # ch/bree/events/events_gamer.rpy:2344
-translate russian bree_event_15_6e7284e1:
+translate russian bree_event_15_16cf2ca6:
     bree.say "Защищаю эту книгу... хорошо?"
 
 # ch/bree/events/events_gamer.rpy:2345
@@ -20345,7 +19373,7 @@ translate russian bree_event_15_a021a034:
     bree.say "Это единственная копия фотографии..."
 
 # ch/bree/events/events_gamer.rpy:2346
-translate russian bree_event_15_939a5f4f:
+translate russian bree_event_15_10e88f1c:
     bree.say "То есть, книги... это единственный экземпляр этой книги, который у меня есть!"
 
 # ch/bree/events/events_gamer.rpy:2348
@@ -20376,10 +19404,6 @@ translate russian bree_event_15_1a91431d:
 translate russian bree_event_15_9d8f3943:
     bree.say "Но я не смогла выбросить школьный альбом, потому что в нем слишком много воспоминаний для меня."
 
-# ch/bree/events/events_gamer.rpy:2357
-translate russian bree_event_15_d6c6eb04:
-    mike.say "[bree.name], ты просто обязана показать мне это сейчас."
-
 # ch/bree/events/events_gamer.rpy:2358
 translate russian bree_event_15_0b356575:
     mike.say "Если ты этого не сделаешь, я украду его, чтобы взглянуть!"
@@ -20391,10 +19415,6 @@ translate russian bree_event_15_5b883b0f:
 # ch/bree/events/events_gamer.rpy:2362
 translate russian bree_event_15_9a76eeda:
     bree.say "Но ты должна пообещать, что будешь вести себя прилично, хорошо?"
-
-# ch/bree/events/events_gamer.rpy:2364
-translate russian bree_event_15_bff8eaa0:
-    mike.say "Ладно, [bree.name], обещаю."
 
 # ch/bree/events/events_gamer.rpy:2366
 translate russian bree_event_15_fda261f6:
@@ -20432,12 +19452,8 @@ translate russian bree_event_15_46516b99:
 translate russian bree_event_15_f81e7392:
     bree.say "Я была толстой, уродливой и неуклюжей!"
 
-# ch/bree/events/events_gamer.rpy:2384
-translate russian bree_event_15_d7cf3683:
-    mike.say "Ты слишком строга к себе, [bree.name]!"
-
 # ch/bree/events/events_gamer.rpy:2387
-translate russian bree_event_15_a621262e:
+translate russian bree_event_15_27327c34:
     bree.say "П...правда?"
 
 # ch/bree/events/events_gamer.rpy:2389
@@ -20484,10 +19500,6 @@ translate russian bree_event_15_79b138a3:
 translate russian bree_event_15_b30b7db7:
     "И я рад видеть, что она уже начинает подниматься духом."
 
-# ch/bree/events/events_gamer.rpy:2405
-translate russian bree_event_15_bcab249e:
-    mike.say "А если серьёзно, [bree.name], ты была милым ребёнком."
-
 # ch/bree/events/events_gamer.rpy:2406
 translate russian bree_event_15_8cdd0bfd:
     mike.say "И на этой фотографии тоже что-то скрыто."
@@ -20495,10 +19507,6 @@ translate russian bree_event_15_8cdd0bfd:
 # ch/bree/events/events_gamer.rpy:2409
 translate russian bree_event_15_461068e3:
     bree.say "О нет, что же это?"
-
-# ch/bree/events/events_gamer.rpy:2411
-translate russian bree_event_15_ae0b030b:
-    mike.say "Твоя улыбка, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:2412
 translate russian bree_event_15_ffce08c8:
@@ -20527,10 +19535,6 @@ translate russian bree_event_15_e76e04f3:
 # ch/bree/events/events_gamer.rpy:2420
 translate russian bree_event_15_1dda176b:
     "Но я думаю только о том, что нас ждет в нашем будущем."
-
-# ch/bree/events/events_gamer.rpy:2424
-translate russian bree_event_15_c1fb5e3e:
-    mike.say "Вау, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:2425
 translate russian bree_event_15_a1628e9f:
@@ -20600,10 +19604,6 @@ translate russian bree_event_16_61778772:
 translate russian bree_event_16_c4d06ed8:
     "Слова, которые ни один из нас никогда не хотел слышать в этом доме."
 
-# ch/bree/events/events_gamer.rpy:2460
-translate russian bree_event_16_3926cd76:
-    mike.say "Мы должны это принять, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:2461
 translate russian bree_event_16_c6a43bcf:
     mike.say "Он просто дожил свой естественный срок, вот и все."
@@ -20623,10 +19623,6 @@ translate russian bree_event_16_1355e0b2:
 # ch/bree/events/events_gamer.rpy:2467
 translate russian bree_event_16_6801d4f9:
     "Я качаю головой, стараясь утешить ее."
-
-# ch/bree/events/events_gamer.rpy:2468
-translate russian bree_event_16_767234ec:
-    mike.say "Я тоже помню все эти прекрасные времена, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:2469
 translate russian bree_event_16_54796e8b:
@@ -20700,10 +19696,6 @@ translate russian bree_event_16_771419ca:
 translate russian bree_event_16_eb8f9777:
     "Неужели она думает, что я ожидал, что она сама купит консоль?"
 
-# ch/bree/events/events_gamer.rpy:2496
-translate russian bree_event_16_59b1e155:
-    mike.say "Не волнуйся, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:2497
 translate russian bree_event_16_4b01cc0d:
     mike.say "У меня достаточно денег в банке, чтобы оплатить это."
@@ -20740,10 +19732,6 @@ translate russian bree_event_16_41c81285:
 translate russian bree_event_16_e1d914e5:
     mike.say "Хм..."
 
-# ch/bree/events/events_gamer.rpy:2513
-translate russian bree_event_16_849d7b2a:
-    mike.say "Наверное, ты права, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:2514
 translate russian bree_event_16_7df182f9:
     mike.say "Мы здесь больше всех пользовались этим старым Zbox."
@@ -20763,10 +19751,6 @@ translate russian bree_event_16_033b37ae:
 # ch/bree/events/events_gamer.rpy:2520
 translate russian bree_event_16_0389b12e:
     bree.say "Мы будем делить его пополам?"
-
-# ch/bree/events/events_gamer.rpy:2522
-translate russian bree_event_16_3677dd39:
-    mike.say "Ладно, [bree.name], вперёд!"
 
 # ch/bree/events/events_gamer.rpy:2523
 translate russian bree_event_16_b6eca311:
@@ -20820,10 +19804,6 @@ translate russian bree_event_16_cecbec69:
 translate russian bree_event_16_e1d914e5_1:
     mike.say "Хм..."
 
-# ch/bree/events/events_gamer.rpy:2543
-translate russian bree_event_16_8bc69575:
-    mike.say "Я понимаю, что ты говоришь, [bree.name]."
-
 # ch/bree/events/events_gamer.rpy:2544
 translate russian bree_event_16_5eb01819:
     mike.say "Но это не то же самое, что разделить счет за еду."
@@ -20855,10 +19835,6 @@ translate russian bree_event_16_4b2b8979:
 # ch/bree/events/events_gamer.rpy:2555
 translate russian bree_event_16_5d3c1548:
     "Все, что я могу сделать, это пожать плечами и покачать головой."
-
-# ch/bree/events/events_gamer.rpy:2556
-translate russian bree_event_16_457cf6b4:
-    mike.say "Прости, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:2557
 translate russian bree_event_16_083a06a1:
@@ -20916,10 +19892,6 @@ translate russian bree_event_17_678ca429:
 translate russian bree_event_17_920e7962:
     mike.say "А?!"
 
-# ch/bree/events/events_gamer.rpy:2583
-translate russian bree_event_17_96cad989:
-    mike.say "Что случилось, [bree.name]?"
-
 # ch/bree/events/events_gamer.rpy:2584
 translate russian bree_event_17_4aecc77a:
     mike.say "Я опять забыл запланировать перерыв на туалет?"
@@ -20943,10 +19915,6 @@ translate russian bree_event_17_25f492d0:
 # ch/bree/events/events_gamer.rpy:2590
 translate russian bree_event_17_89c3ea0d:
     bree.say "Знаешь ли ты, как долго я ждала возможности что-то с тобой сделать?"
-
-# ch/bree/events/events_gamer.rpy:2592
-translate russian bree_event_17_96b8e2d4:
-    mike.say "Эм... нет, [bree.name]!"
 
 # ch/bree/events/events_gamer.rpy:2593
 translate russian bree_event_17_07cda990:
@@ -20975,10 +19943,6 @@ translate russian bree_event_17_6602d475:
 # ch/bree/events/events_gamer.rpy:2602
 translate russian bree_event_17_faa1791a:
     bree.say "Я безумно хочу секса, [hero.name]!"
-
-# ch/bree/events/events_gamer.rpy:2604
-translate russian bree_event_17_bb5f287c:
-    mike.say "Не могу, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:2605
 translate russian bree_event_17_5e95d58e:
@@ -21069,7 +20033,7 @@ translate russian bree_event_17_104f50e7:
     bree.say "И немного поерзать вот так..."
 
 # ch/bree/events/events_gamer.rpy:2636
-translate russian bree_event_17_dc5a379f:
+translate russian bree_event_17_68f43bd7:
     bree.say "Ох...да, именно так!"
 
 # ch/bree/events/events_gamer.rpy:2637
@@ -21133,7 +20097,7 @@ translate russian bree_event_17_19231c4d:
     "Мой джойстик идеально подходит для этого места."
 
 # ch/bree/events/events_gamer.rpy:2653
-translate russian bree_event_17_048ae7ca:
+translate russian bree_event_17_7b0b4f67:
     "Как будто это две мягкие, розовые подушечки!"
 
 # ch/bree/events/events_gamer.rpy:2654
@@ -21169,7 +20133,7 @@ translate russian bree_event_17_26edc064:
     bree.say "Именно этого я хочу..."
 
 # ch/bree/events/events_gamer.rpy:2662
-translate russian bree_event_17_1f6de874:
+translate russian bree_event_17_95011f41:
     bree.say "Пожалуйста... трахай меня так!"
 
 # ch/bree/events/events_gamer.rpy:2663
@@ -21255,10 +20219,6 @@ translate russian bree_event_17_19d47bc2:
 # ch/bree/events/events_gamer.rpy:2688
 translate russian bree_event_17_52f41c3c:
     "Я не бытовой прибор, о который можно тереться ради удовольствия, когда захочется!"
-
-# ch/bree/events/events_gamer.rpy:2689
-translate russian bree_event_17_19f0bb5d:
-    mike.say "Что за чертовня, [bree.name]!"
 
 # ch/bree/events/events_gamer.rpy:2690
 translate russian bree_event_17_6eebdf98:
@@ -21372,10 +20332,6 @@ translate russian bree_event_18_bd986312:
 translate russian bree_event_18_8ec2f3e3:
     mike.say "Что за черт?"
 
-# ch/bree/events/events_gamer.rpy:2737
-translate russian bree_event_18_b5321c4c:
-    mike.say "Я думал, ты вышла, [bree.name]?"
-
 # ch/bree/events/events_gamer.rpy:2738
 translate russian bree_event_18_f754c0d9:
     "[bree.name] качает головой."
@@ -21387,10 +20343,6 @@ translate russian bree_event_18_21763a16:
 # ch/bree/events/events_gamer.rpy:2740
 translate russian bree_event_18_af0bf7f8:
     bree.say "Все остальные — да. А я — нет!"
-
-# ch/bree/events/events_gamer.rpy:2741
-translate russian bree_event_18_c8536c32:
-    mike.say "Ну, тогда лучше скажи мне, что тебе нужно, [bree.name]."
 
 # ch/bree/events/events_gamer.rpy:2742
 translate russian bree_event_18_5625cde1:
@@ -21460,10 +20412,6 @@ translate russian bree_event_18_e9f87b50:
 translate russian bree_event_18_b6ad86af:
     "Я точно так не думаю!"
 
-# ch/bree/events/events_gamer.rpy:2768
-translate russian bree_event_18_7a340d88:
-    mike.say "Хорошо, [bree.name]..."
-
 # ch/bree/events/events_gamer.rpy:2769
 translate russian bree_event_18_95224581:
     mike.say "Залезай!"
@@ -21484,10 +20432,6 @@ translate russian bree_event_18_8c66946a:
 translate russian bree_event_18_9477778b:
     "Но я бы с удовольствием повторил это снова."
 
-# ch/bree/events/events_gamer.rpy:2775
-translate russian bree_event_18_56922d8e:
-    mike.say "Залезай скорее, [bree.name]!"
-
 # ch/bree/events/events_gamer.rpy:2776
 translate russian bree_event_18_c8b1be35:
     mike.say "Я покажу тебе такое путешествие, которое ты никогда не забудешь!"
@@ -21504,16 +20448,12 @@ translate russian bree_event_18_96260961:
 translate russian bree_event_18_73a37e02:
     "Поэтому я поглаживаю колени и улыбаюсь [bree.name]."
 
-# ch/bree/events/events_gamer.rpy:2781
-translate russian bree_event_18_7a340d88_1:
-    mike.say "Хорошо, [bree.name]..."
-
 # ch/bree/events/events_gamer.rpy:2782
 translate russian bree_event_18_d111f196:
     mike.say "Подключайся и давай играть!"
 
 # ch/bree/events/events_gamer.rpy:2784
-translate russian bree_event_18_5c9f879a:
+translate russian bree_event_18_45053b8d:
     "Вау...какое предложение!"
 
 # ch/bree/events/events_gamer.rpy:2785
@@ -21527,10 +20467,6 @@ translate russian bree_event_18_5a665966:
 # ch/bree/events/events_gamer.rpy:2787
 translate russian bree_event_18_03a014aa:
     "И то, что [bree.name] будет прыгать вверх и вниз на моём члене, не поможет."
-
-# ch/bree/events/events_gamer.rpy:2788
-translate russian bree_event_18_e3c2c6c8:
-    mike.say "Прости, [bree.name]..."
 
 # ch/bree/events/events_gamer.rpy:2789
 translate russian bree_event_18_6a0e4d52:
@@ -21555,10 +20491,6 @@ translate russian bree_event_18_b9a7cc42:
 # ch/bree/events/events_gamer.rpy:2796
 translate russian bree_event_18_1ae1cf22:
     "Я улыбаюсь и беспомощно пожимаю плечами."
-
-# ch/bree/events/events_gamer.rpy:2797
-translate russian bree_event_18_e8a81594:
-    mike.say "Может быть, в другой раз, [bree.name]?"
 
 # ch/bree/events/events_gamer.rpy:2798
 translate russian bree_event_18_2dc250fd:
@@ -21897,7 +20829,7 @@ translate russian bree_event_18_ee63a8ab:
     bree.say "Хочу сильнее!"
 
 # ch/bree/events/events_gamer.rpy:2907
-translate russian bree_event_18_95321680:
+translate russian bree_event_18_87549aed:
     bree.say "На полу...пожалуйста, сделай мне там!"
 
 # ch/bree/events/events_gamer.rpy:2908
@@ -22096,10 +21028,6 @@ translate russian bree_event_14c_alternate_1fac4af8:
 translate russian bree_event_14c_alternate_6b3e682d:
     "Мне только что пришла в голову мысль, и я чувствую необходимость задать [bree.name] вопрос."
 
-# ch/bree/events/events_maid.rpy:359
-translate russian bree_event_14c_alternate_85631ca9:
-    mike.say "[bree.name]?"
-
 # ch/bree/events/events_maid.rpy:360
 translate russian bree_event_14c_alternate_5584b960:
     "[bree.name], кажется, мгновенно замечает изменение в моем голосе."
@@ -22124,10 +21052,6 @@ translate russian bree_event_14c_alternate_13854809:
 translate russian bree_event_14c_alternate_f2ba9bf7:
     "Но мне все равно нужно услышать ответ от нее самой."
 
-# ch/bree/events/events_maid.rpy:369
-translate russian bree_event_14c_alternate_50eb0044:
-    mike.say "Я просто хотел спросить, [bree.name]..."
-
 # ch/bree/events/events_maid.rpy:370
 translate russian bree_event_14c_alternate_7455b84a:
     mike.say "Ты сейчас счастлива?"
@@ -22145,7 +21069,7 @@ translate russian bree_event_14c_alternate_878c1000_1:
     bree.say "Да, [hero.name]."
 
 # ch/bree/events/events_maid.rpy:378
-translate russian bree_event_14c_alternate_b39ecfab:
+translate russian bree_event_14c_alternate_c71d93fd:
     bree.say "Я... я так счастлива!"
 
 # ch/bree/events/events_maid.rpy:379
@@ -22167,10 +21091,6 @@ translate russian bree_event_14c_alternate_f5e8780d:
 # ch/bree/events/events_maid.rpy:384
 translate russian bree_event_14c_alternate_3a4b7ba1:
     "И это делает все еще более приятным, ведь, кажется, ей тоже это нравится!"
-
-# ch/bree/events/events_maid.rpy:385
-translate russian bree_event_14c_alternate_b52e4164:
-    mike.say "Ты должна быть искренней, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:386
 translate russian bree_event_14c_alternate_b3e145bc:
@@ -22197,7 +21117,7 @@ translate russian bree_event_14c_alternate_8a32a68e:
     bree.say "Я никогда не была так счастлива с тех пор..."
 
 # ch/bree/events/events_maid.rpy:394
-translate russian bree_event_14c_alternate_fa3807e3:
+translate russian bree_event_14c_alternate_98782b2d:
     bree.say "Ну, с тех пор как мы начали... ну, ты понимаешь..."
 
 # ch/bree/events/events_maid.rpy:396
@@ -22209,7 +21129,7 @@ translate russian bree_event_14c_alternate_43105b74:
     "Затем она бросает взгляд на то, что видно в окне, словно у нее произошло озарение."
 
 # ch/bree/events/events_maid.rpy:400
-translate russian bree_event_14c_alternate_fff8fd07:
+translate russian bree_event_14c_alternate_993363a0:
     bree.say "Я... я хотела сделать тебе подарок."
 
 # ch/bree/events/events_maid.rpy:401
@@ -22219,10 +21139,6 @@ translate russian bree_event_14c_alternate_a8a36a35:
 # ch/bree/events/events_maid.rpy:402
 translate russian bree_event_14c_alternate_871d0191:
     bree.say "Что-то, что покажет тебе, как я счастлива!"
-
-# ch/bree/events/events_maid.rpy:404
-translate russian bree_event_14c_alternate_f255f5be:
-    mike.say "Это очень мило, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:405
 translate russian bree_event_14c_alternate_dc71626c:
@@ -22265,7 +21181,7 @@ translate russian bree_event_14c_alternate_3f851dd2:
     "Что она еще могла сделать, чтобы показать свою покорность мне?"
 
 # ch/bree/events/events_maid.rpy:423
-translate russian bree_event_14c_alternate_035c1700:
+translate russian bree_event_14c_alternate_311e5597:
     bree.say "Я... я очень хочу быть твоей рабыней, [hero.name]."
 
 # ch/bree/events/events_maid.rpy:424
@@ -22285,7 +21201,7 @@ translate russian bree_event_14c_alternate_fa31d96d:
     bree.say "Я хочу посвятить свою жизнь тому, чтобы доставлять тебе удовольствие!"
 
 # ch/bree/events/events_maid.rpy:429
-translate russian bree_event_14c_alternate_e176f9cf:
+translate russian bree_event_14c_alternate_affb5307:
     bree.say "Это... если ты позволишь мне?"
 
 # ch/bree/events/events_maid.rpy:430
@@ -22328,21 +21244,13 @@ translate russian bree_event_14c_alternate_49ab5611:
 translate russian bree_event_14c_alternate_715b373c:
     "Я знаю, что это то, чего она глубоко желает, то, что сделает ее счастливой."
 
-# ch/bree/events/events_maid.rpy:440
-translate russian bree_event_14c_alternate_b10ff8d7:
-    mike.say "Конечно, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:441
 translate russian bree_event_14c_alternate_d447bf9a:
     mike.say "Если ты уверена, что этого хочешь?"
 
 # ch/bree/events/events_maid.rpy:442
-translate russian bree_event_14c_alternate_fa9e44f9:
+translate russian bree_event_14c_alternate_d2f9f917:
     bree.say "Да... ох, но да!"
-
-# ch/bree/events/events_maid.rpy:443
-translate russian bree_event_14c_alternate_19ecc053:
-    mike.say "Хорошо, [bree.name], хорошо."
 
 # ch/bree/events/events_maid.rpy:444
 translate russian bree_event_14c_alternate_e73493d4:
@@ -22380,10 +21288,6 @@ translate russian bree_event_14c_alternate_baa3fa03:
 translate russian bree_event_14c_alternate_370ecab8:
     "Значит, это должно быть что-то другое."
 
-# ch/bree/events/events_maid.rpy:455
-translate russian bree_event_14c_alternate_96cad989:
-    mike.say "Что случилось, [bree.name]?"
-
 # ch/bree/events/events_maid.rpy:457
 translate russian bree_event_14c_alternate_2b6d7eff:
     bree.say "[hero.name], я..."
@@ -22399,10 +21303,6 @@ translate russian bree_event_14c_alternate_44594762:
 # ch/bree/events/events_maid.rpy:461
 translate russian bree_event_14c_alternate_72f80680:
     "Но это обидит [bree.name], поэтому я подавляю порыв и киваю."
-
-# ch/bree/events/events_maid.rpy:462
-translate russian bree_event_14c_alternate_e30cd952:
-    mike.say "Конечно, можешь, [bree.name]!"
 
 # ch/bree/events/events_maid.rpy:463
 translate russian bree_event_14c_alternate_b29c542a:
@@ -22451,10 +21351,6 @@ translate russian bree_event_14c_alternate_e67675ee:
 # ch/bree/events/events_maid.rpy:479
 translate russian bree_event_14c_alternate_6eae1658:
     "[bree.name] просто подарила мне лучший рождественский подарок, о котором я мог только мечтать."
-
-# ch/bree/events/events_maid.rpy:491
-translate russian bree_event_04_55133a08:
-    mike.say "Эй, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:492
 translate russian bree_event_04_db2f0505:
@@ -23120,10 +22016,6 @@ translate russian bree_event_04_a4e8991b:
 translate russian bree_event_04_5da296cb:
     bree.say "Вау, спасибо, [hero.name], ты лучший!"
 
-# ch/bree/events/events_maid.rpy:781
-translate russian bree_event_04_e054e77f:
-    mike.say "Как скажешь, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:782
 translate russian bree_event_04_de7a4a02:
     "Мы еще немного посмеялись, а потом решили закончить на сегодня."
@@ -23511,10 +22403,6 @@ translate russian bree_event_05b_eed9467c:
 # ch/bree/events/events_maid.rpy:1000
 translate russian bree_event_05b_11cf3331:
     bree.say "Все в этом городе такие добрые!"
-
-# ch/bree/events/events_maid.rpy:1002
-translate russian bree_event_05b_ef78b9ab:
-    mike.say "Рад видеть тебя снова в порядке, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:1004
 translate russian bree_event_05b_70309c7f:
@@ -24297,7 +23185,7 @@ translate russian bree_event_07b_57cd3541:
     "Управляющий" "Мы ведь еще даже не открылись!"
 
 # ch/bree/events/events_maid.rpy:1304
-translate russian bree_event_07b_e9867f62:
+translate russian bree_event_07b_fa96398b:
     "Она... она со мной флиртует?!"
 
 # ch/bree/events/events_maid.rpy:1306
@@ -24415,10 +23303,6 @@ translate russian bree_event_07b_e57401b5:
 # ch/bree/events/events_maid.rpy:1357
 translate russian bree_event_07b_83d58ac5:
     mike.say "Эм, наверное, да."
-
-# ch/bree/events/events_maid.rpy:1358
-translate russian bree_event_07b_af00e903:
-    mike.say "Так, может, нам пора идти, [bree.name]?"
 
 # ch/bree/events/events_maid.rpy:1359
 translate russian bree_event_07b_68345aed:
@@ -25204,10 +24088,6 @@ translate russian bree_maidcafe_bj_fb703ec0:
 translate russian bree_maidcafe_bj_829122b0:
     bree.say "Но ты хочешь приехать за мной, когда я закончу?"
 
-# ch/bree/events/events_maid.rpy:1688
-translate russian bree_maidcafe_bj_4cb78548:
-    mike.say "А, да, [bree.name], конечно!"
-
 # ch/bree/events/events_maid.rpy:1690
 translate russian bree_maidcafe_bj_4fe5d839:
     "[bree.name] смеется, слыша мой восторженный тон."
@@ -25429,7 +24309,7 @@ translate russian bree_maidcafe_bj_bfa24d36:
     bree.say "Но с тех пор это место мне очень понравилось."
 
 # ch/bree/events/events_maid.rpy:1772
-translate russian bree_maidcafe_bj_33c46dfc:
+translate russian bree_maidcafe_bj_4b91f1b4:
     mike.say "Эм... правда?"
 
 # ch/bree/events/events_maid.rpy:1774
@@ -25457,16 +24337,12 @@ translate russian bree_maidcafe_bj_ae94b7ba:
     "Я оборачиваюсь вовремя и вижу, как она засовывает ключ между своими грудями."
 
 # ch/bree/events/events_maid.rpy:1783
-translate russian bree_maidcafe_bj_03323dff:
+translate russian bree_maidcafe_bj_aff4dde3:
     mike.say "Ага, да... наверное."
 
 # ch/bree/events/events_maid.rpy:1785
 translate russian bree_maidcafe_bj_884fe4ba:
     bree.say "Ну что, может, немного поиграем в ролевые игры, только ты и я?"
-
-# ch/bree/events/events_maid.rpy:1787
-translate russian bree_maidcafe_bj_7b2f78bc:
-    mike.say "Д-да, [bree.name], звучит замечательно!"
 
 # ch/bree/events/events_maid.rpy:1789
 translate russian bree_maidcafe_bj_77b39300:
@@ -25477,11 +24353,11 @@ translate russian bree_maidcafe_bj_0b27a28b:
     bree.say "Очень хорошо, сэр."
 
 # ch/bree/events/events_maid.rpy:1792
-translate russian bree_maidcafe_bj_7c4b72f9:
+translate russian bree_maidcafe_bj_3c149b4d:
     mike.say "Эм... что ты имеешь в виду..."
 
 # ch/bree/events/events_maid.rpy:1793
-translate russian bree_maidcafe_bj_24b26369:
+translate russian bree_maidcafe_bj_0aeafa4c:
     mike.say "О... О! Я понял!"
 
 # ch/bree/events/events_maid.rpy:1795
@@ -25505,11 +24381,11 @@ translate russian bree_maidcafe_bj_ca4bd42f:
     "Я с трудом глотаю, почти прикусив язык, пытаясь выдавить из себя слова."
 
 # ch/bree/events/events_maid.rpy:1803
-translate russian bree_maidcafe_bj_afdd02b0:
+translate russian bree_maidcafe_bj_1a3f4f16:
     mike.say "Д... да..."
 
 # ch/bree/events/events_maid.rpy:1804
-translate russian bree_maidcafe_bj_f93b1ef1:
+translate russian bree_maidcafe_bj_4d1013f8:
     mike.say "Я имею в виду да... да, я бы хотел."
 
 # ch/bree/events/events_maid.rpy:1805
@@ -25521,7 +24397,7 @@ translate russian bree_maidcafe_bj_afeb2b92:
     "Я колеблюсь, потому что понимаю, что следующая фраза, которую я собираюсь сказать, может быть рискованной."
 
 # ch/bree/events/events_maid.rpy:1807
-translate russian bree_maidcafe_bj_0b8e99fa:
+translate russian bree_maidcafe_bj_e65ab935:
     mike.say "Иди сюда и... используй эту свою рот для чего-нибудь более полезного!"
 
 # ch/bree/events/events_maid.rpy:1809
@@ -25565,7 +24441,7 @@ translate russian bree_maidcafe_bj_de269e2e:
     bree.say "Хотите, чтобы я пососала его?"
 
 # ch/bree/events/events_maid.rpy:1823
-translate russian bree_maidcafe_bj_c8a2d083:
+translate russian bree_maidcafe_bj_02a044fd:
     mike.say "Да... это звучит хорошо."
 
 # ch/bree/events/events_maid.rpy:1824
@@ -25689,7 +24565,7 @@ translate russian bree_event_09b_86f80370:
     "Кажется, новизна этого места достаточно велика, чтобы сделать его практически свободным от всякой мерзости."
 
 # ch/bree/events/events_maid.rpy:1875
-translate russian bree_event_09b_9a4e15f7:
+translate russian bree_event_09b_5205f8c4:
     "Ну... и еще безумно высокие цены!"
 
 # ch/bree/events/events_maid.rpy:1876
@@ -25781,7 +24657,7 @@ translate russian bree_event_09b_d22d4d38:
     "Я помню предупреждение [bree.name] о Киаре, о том, насколько она может быть настойчивой!"
 
 # ch/bree/events/events_maid.rpy:1900
-translate russian bree_event_09b_afdd02b0:
+translate russian bree_event_09b_1a3f4f16:
     mike.say "Д... да..."
 
 # ch/bree/events/events_maid.rpy:1901
@@ -25817,7 +24693,7 @@ translate russian bree_event_09b_2ff0eade:
     "Как она умудряется превращать все в грязный намек?"
 
 # ch/bree/events/events_maid.rpy:1913
-translate russian bree_event_09b_e0b89a71:
+translate russian bree_event_09b_e256983f:
     mike.say "Я... я пришел увидеть [bree.name]?"
 
 # ch/bree/events/events_maid.rpy:1914
@@ -25833,7 +24709,7 @@ translate russian bree_event_09b_56ac119e:
     kiara.say "Я сейчас же позову её, чтобы она тебя обслужила."
 
 # ch/bree/events/events_maid.rpy:1919
-translate russian bree_event_09b_3a269bc5:
+translate russian bree_event_09b_5f44f8ed:
     mike.say "О... обслужит меня?!?"
 
 # ch/bree/events/events_maid.rpy:1921
@@ -25916,10 +24792,6 @@ translate russian bree_event_09b_6815a611:
 translate russian bree_event_09b_e6bd23bd:
     bree.say "Что случилось?"
 
-# ch/bree/events/events_maid.rpy:1951
-translate russian bree_event_09b_0f35e4bc:
-    mike.say "Н... ничего, [bree.name]..."
-
 # ch/bree/events/events_maid.rpy:1952
 translate russian bree_event_09b_d303281c:
     mike.say "Ничего!"
@@ -25943,10 +24815,6 @@ translate russian bree_event_09b_feb35c69:
 # ch/bree/events/events_maid.rpy:1960
 translate russian bree_event_09b_2f8811d4:
     mike.say "Э..."
-
-# ch/bree/events/events_maid.rpy:1961
-translate russian bree_event_09b_64b1d6c4:
-    mike.say "Это тебе очень идет, [bree.name]!"
 
 # ch/bree/events/events_maid.rpy:1963
 translate russian bree_event_09b_7700ac92:
@@ -26063,10 +24931,6 @@ translate russian bree_event_09b_727ee0a2:
 # ch/bree/events/events_maid.rpy:2007
 translate russian bree_event_09b_3e84d0bf:
     bree.say "Тебе нравится мое платье, [hero.name]?"
-
-# ch/bree/events/events_maid.rpy:2009
-translate russian bree_event_09b_215c1013:
-    mike.say "Да, [bree.name], тебе очень идёт."
 
 # ch/bree/events/events_maid.rpy:2012
 translate russian bree_event_09b_08e749a9:
@@ -26233,7 +25097,7 @@ translate russian bree_event_09b_d12ced4e:
     mike.say "И я не знаю, нравится ли она мне тоже..."
 
 # ch/bree/events/events_maid.rpy:2070
-translate russian bree_event_09b_317102ff:
+translate russian bree_event_09b_7fd8a3bd:
     mike.say "Я...я хочу быть уверенным, прежде чем что-то предпринять."
 
 # ch/bree/events/events_maid.rpy:2071
@@ -26249,7 +25113,7 @@ translate russian bree_event_09b_4e79d79e:
     "[bree.name], кажется, замерла на месте, ее глаза расширились, а щеки покраснели, пока я наблюдал за ней."
 
 # ch/bree/events/events_maid.rpy:2076
-translate russian bree_event_09b_810a5bcc:
+translate russian bree_event_09b_4ca7892c:
     bree.say "Я...я..."
 
 # ch/bree/events/events_maid.rpy:2079
@@ -26257,7 +25121,7 @@ translate russian bree_event_09b_4855431d:
     bree.say "Я не могу помочь в таких вопросах!"
 
 # ch/bree/events/events_maid.rpy:2080
-translate russian bree_event_09b_6bec580d:
+translate russian bree_event_09b_c9157e5a:
     bree.say "Мне нужно...мне пора...СРОЧНО!"
 
 # ch/bree/events/events_maid.rpy:2082
@@ -26412,10 +25276,6 @@ translate russian bree_event_09c_19553ecc:
 translate russian bree_event_09c_1b184187:
     "Я бросаю пальто и сумку и спешу на кухню."
 
-# ch/bree/events/events_maid.rpy:2141
-translate russian bree_event_09c_25624a68:
-    mike.say "Это я, [bree.name]!"
-
 # ch/bree/events/events_maid.rpy:2142
 translate russian bree_event_09c_2d842106:
     mike.say "Я дома."
@@ -26431,10 +25291,6 @@ translate russian bree_event_09c_f4e7133f:
 # ch/bree/events/events_maid.rpy:2146
 translate russian bree_event_09c_d6fafb07:
     bree.say "Можно ли мне высказаться?"
-
-# ch/bree/events/events_maid.rpy:2147
-translate russian bree_event_09c_8e5ee797:
-    mike.say "Конечно, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:2148
 translate russian bree_event_09c_a60c774b:
@@ -26469,7 +25325,7 @@ translate russian bree_event_09c_340c97e9:
     "Дело в том, что на ней... ничего больше нет!"
 
 # ch/bree/events/events_maid.rpy:2159
-translate russian bree_event_09c_dde3596f:
+translate russian bree_event_09c_b6001cae:
     mike.say "Б...б...б..."
 
 # ch/bree/events/events_maid.rpy:2162
@@ -26527,10 +25383,6 @@ translate russian bree_event_09c_ca65e5e1:
 # ch/bree/events/events_maid.rpy:2182
 translate russian bree_event_09c_5be8b81b:
     "Мой мозг так перегружен, что я чуть не говорю что-то о том, что все это антисанитарно!"
-
-# ch/bree/events/events_maid.rpy:2183
-translate russian bree_event_09c_5a4b4a2f:
-    mike.say "Да... да, это точно, [bree.name]!"
 
 # ch/bree/events/events_maid.rpy:2184
 translate russian bree_event_09c_0fc1dc74:
@@ -26616,10 +25468,6 @@ translate russian bree_event_09c_6f788d96:
 translate russian bree_event_09c_290f66d2:
     "Я слишком занят тем, что смотрю на [bree.name], чтобы это заметить!"
 
-# ch/bree/events/events_maid.rpy:2214
-translate russian bree_event_09c_e5b3a865:
-    mike.say "Это потрясающе, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:2215
 translate russian bree_event_09c_276d43e3:
     mike.say "Самый лучший стейк, который я когда-либо пробовал!"
@@ -26655,10 +25503,6 @@ translate russian bree_event_09c_05364c30:
 # ch/bree/events/events_maid.rpy:2227
 translate russian bree_event_09c_e5a7fff4:
     "Я начинаю жевать кусок стейка, но на этот раз говорю, не переставая жевать."
-
-# ch/bree/events/events_maid.rpy:2228
-translate russian bree_event_09c_243b8063:
-    mike.say "Ах, [bree.name]..."
 
 # ch/bree/events/events_maid.rpy:2229
 translate russian bree_event_09c_cacb58df:
@@ -27008,10 +25852,6 @@ translate russian bree_event_10b_f6f793fb:
 translate russian bree_event_10b_34f9a954:
     "Я хочу защитить её от всего остального мира!"
 
-# ch/bree/events/events_maid.rpy:2357
-translate russian bree_event_10b_3dc7f442:
-    mike.say "[bree.name]..."
-
 # ch/bree/events/events_maid.rpy:2358
 translate russian bree_event_10b_53b2e914:
     mike.say "Я хочу угостить тебя вином и дать тебе защиту!"
@@ -27301,11 +26141,11 @@ translate russian bree_event_10b_25503d88:
     mike.say "Это ты..."
 
 # ch/bree/events/events_maid.rpy:2444
-translate russian bree_event_10b_fe3e114f:
+translate russian bree_event_10b_c023faae:
     mike.say "Девушка, которая мне нравится... это ты..."
 
 # ch/bree/events/events_maid.rpy:2446
-translate russian bree_event_10b_87a61429:
+translate russian bree_event_10b_a3018b74:
     bree.say "Д...да... да..."
 
 # ch/bree/events/events_maid.rpy:2447
@@ -27400,10 +26240,6 @@ translate russian bree_event_11b_52d96725:
 translate russian bree_event_11b_5cc34756:
     "В следующую секунду я уже встал и размахиваю руками."
 
-# ch/bree/events/events_maid.rpy:2482
-translate russian bree_event_11b_bb3f4961:
-    mike.say "[bree.name], я..."
-
 # ch/bree/events/events_maid.rpy:2483
 translate russian bree_event_11b_992ab033:
     mike.say "Это не то, как это выглядит!"
@@ -27461,7 +26297,7 @@ translate russian bree_event_11b_e8d9dd75:
     "Я был так уверен, что нужно ждать самого худшего, что всё остальное просто не укладывается в голове."
 
 # ch/bree/events/events_maid.rpy:2504
-translate russian bree_event_11b_8602a828:
+translate russian bree_event_11b_196285e4:
     mike.say "Э... ты имеешь в виду...?"
 
 # ch/bree/events/events_maid.rpy:2505
@@ -27505,7 +26341,7 @@ translate russian bree_event_11b_52c780f3:
     "Я киваю, все еще отчаянно желая убедиться, что делаю правильную вещь."
 
 # ch/bree/events/events_maid.rpy:2518
-translate russian bree_event_11b_7a3607cf:
+translate russian bree_event_11b_1c668d47:
     mike.say "Но... тебе все равно то, что произошло, верно?"
 
 # ch/bree/events/events_maid.rpy:2519
@@ -27523,10 +26359,6 @@ translate russian bree_event_11b_a488d650:
 # ch/bree/events/events_maid.rpy:2524
 translate russian bree_event_11b_89914913:
     bree.say "Но очень захватывающе!"
-
-# ch/bree/events/events_maid.rpy:2526
-translate russian bree_event_11b_d568a45e:
-    mike.say "Я просто хотел сказать тебе о своих чувствах, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:2527
 translate russian bree_event_11b_da17b1a7:
@@ -27573,7 +26405,7 @@ translate russian bree_event_11b_bbc78648:
     bree.say "К счастью, это казалось таким правильным."
 
 # ch/bree/events/events_maid.rpy:2543
-translate russian bree_event_11b_01e72376:
+translate russian bree_event_11b_260ea120:
     mike.say "Итак... ты хочешь повторить?"
 
 # ch/bree/events/events_maid.rpy:2544
@@ -27599,10 +26431,6 @@ translate russian bree_event_11b_4b992ecb:
 # ch/bree/events/events_maid.rpy:2552
 translate russian bree_event_11b_6e2e1bf9:
     "Я глубоко глотаю, и мне становится ясно, что это условие означает!"
-
-# ch/bree/events/events_maid.rpy:2553
-translate russian bree_event_11b_2ca90851:
-    mike.say "Конечно, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:2554
 translate russian bree_event_11b_a28a04fa:
@@ -27635,10 +26463,6 @@ translate russian bree_event_11b_970ba35a:
 # ch/bree/events/events_maid.rpy:2566
 translate russian bree_event_11b_ae4f2a30:
     bree.say "Мне нужна твоя помощь."
-
-# ch/bree/events/events_maid.rpy:2568
-translate russian bree_event_11b_a481724c:
-    mike.say "Что угодно, [bree.name]. Только скажи!"
 
 # ch/bree/events/events_maid.rpy:2571
 translate russian bree_event_11b_457dc8e0:
@@ -27691,10 +26515,6 @@ translate russian bree_event_11b_52453b0d:
 # ch/bree/events/events_maid.rpy:2586
 translate russian bree_event_11b_4b6047fc:
     "Им не подают добычу на блюдечке с золотой каемочкой!"
-
-# ch/bree/events/events_maid.rpy:2587
-translate russian bree_event_11b_050a0473:
-    mike.say "Д...да, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:2588
 translate russian bree_event_11b_468f6ad1:
@@ -27804,10 +26624,6 @@ translate russian bree_event_11c_9fbe6efc:
 translate russian bree_event_11c_5e50a9d3:
     "Конечно, все это только усиливает ее нервозность."
 
-# ch/bree/events/events_maid.rpy:2631
-translate russian bree_event_11c_c16cddf2:
-    mike.say "Да, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:2632
 translate russian bree_event_11c_46c17b4e:
     mike.say "Как дела?"
@@ -27833,7 +26649,7 @@ translate russian bree_event_11c_5a1ae8a7:
     bree.say "Я вот думала…"
 
 # ch/bree/events/events_maid.rpy:2641
-translate russian bree_event_11c_6d7af846:
+translate russian bree_event_11c_96b2829a:
     bree.say "Если бы ты сегодня вечером чувствовал себя… энергично?"
 
 # ch/bree/events/events_maid.rpy:2643
@@ -27851,10 +26667,6 @@ translate russian bree_event_11c_6e5e1214:
 # ch/bree/events/events_maid.rpy:2646
 translate russian bree_event_11c_e1d914e5:
     mike.say "Хм..."
-
-# ch/bree/events/events_maid.rpy:2647
-translate russian bree_event_11c_3d2de3ec:
-    mike.say "Обычно я чувствую себя довольно уставшим по вечерам, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:2648
 translate russian bree_event_11c_7d150064:
@@ -27908,10 +26720,6 @@ translate russian bree_event_11c_d543112d:
 translate russian bree_event_11c_ba188db3:
     "Но я уже знаю, что скажу дальше."
 
-# ch/bree/events/events_maid.rpy:2663
-translate russian bree_event_11c_d6ce9173:
-    mike.say "Ну что ты думаешь, [bree.name]?"
-
 # ch/bree/events/events_maid.rpy:2664
 translate russian bree_event_11c_40784293:
     mike.say "У меня сегодня нет настроения бегать по парку."
@@ -27932,25 +26740,17 @@ translate russian bree_event_11c_a4cac66c:
 translate russian bree_event_11c_7291573e:
     bree.say "Нет, [hero.name], я имела в виду немного другое!"
 
-# ch/bree/events/events_maid.rpy:2671
-translate russian bree_event_11c_d04b61f4:
-    mike.say "Ну извини, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:2672
 translate russian bree_event_11c_38d7e2dc:
     mike.say "Но может быть, тебе просто стоит сказать прямо, что ты хочешь."
 
 # ch/bree/events/events_maid.rpy:2674
-translate russian bree_event_11c_810a5bcc:
+translate russian bree_event_11c_4ca7892c:
     bree.say "Я...я..."
 
 # ch/bree/events/events_maid.rpy:2676
 translate russian bree_event_11c_6a04ab22:
     bree.say "Я хочу, чтобы ты трахал меня!"
-
-# ch/bree/events/events_maid.rpy:2678
-translate russian bree_event_11c_228cf819:
-    mike.say "Что это было, [bree.name]?"
 
 # ch/bree/events/events_maid.rpy:2679
 translate russian bree_event_11c_a7b8d63b:
@@ -27961,12 +26761,8 @@ translate russian bree_event_11c_c10e9be4:
     bree.say "Прости, [hero.name]..."
 
 # ch/bree/events/events_maid.rpy:2682
-translate russian bree_event_11c_e98177e9:
+translate russian bree_event_11c_8f81d4fb:
     bree.say "Я хочу, чтобы ты любил меня...пожалуйста?"
-
-# ch/bree/events/events_maid.rpy:2684
-translate russian bree_event_11c_9625df92:
-    mike.say "Да, я тебя понял, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:2685
 translate russian bree_event_11c_8aee6583:
@@ -28023,10 +26819,6 @@ translate russian bree_event_11c_a63b5d5c:
 # ch/bree/events/events_maid.rpy:2702
 translate russian bree_event_11c_fd47746f:
     "Когда она говорит это так, как мне вообще прийти в голову отказать?"
-
-# ch/bree/events/events_maid.rpy:2703
-translate russian bree_event_11c_4cbf9096:
-    mike.say "Вот это уже другое дело, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:2704
 translate russian bree_event_11c_7bef5773:
@@ -28240,10 +27032,6 @@ translate russian bree_event_12b_5e7bc5c8:
 translate russian bree_event_12b_8dc9ef9a:
     "И это ощущение делает воротник вокруг моей шеи еще более тесным."
 
-# ch/bree/events/events_maid.rpy:2781
-translate russian bree_event_12b_3dc7f442:
-    mike.say "[bree.name]..."
-
 # ch/bree/events/events_maid.rpy:2782
 translate russian bree_event_12b_6299a5e2:
     mike.say "Ты уверена, что мне нужно носить это?"
@@ -28352,10 +27140,6 @@ translate russian bree_event_12b_efc41e1f:
 translate russian bree_event_12b_6be2016f:
     bree.say "Это будет так весело!"
 
-# ch/bree/events/events_maid.rpy:2823
-translate russian bree_event_12b_0057db42:
-    mike.say "А, да, [bree.name]..."
-
 # ch/bree/events/events_maid.rpy:2824
 translate russian bree_event_12b_3c03bfd7:
     mike.say "Мне уже очень весело..."
@@ -28375,10 +27159,6 @@ translate russian bree_event_12b_f71557fd:
 # ch/bree/events/events_maid.rpy:2833
 translate russian bree_event_12b_a003e106:
     bree.say "И не переживай: я уверена, ты будешь великолепен!"
-
-# ch/bree/events/events_maid.rpy:2835
-translate russian bree_event_12b_93ac9ac4:
-    mike.say "Если ты так говоришь, [bree.name]..."
 
 # ch/bree/events/events_maid.rpy:2837
 translate russian bree_event_12b_6d2863b4:
@@ -28457,7 +27237,7 @@ translate russian bree_event_12b_4b3fb3d3:
     kiara.say "[hero.name]?"
 
 # ch/bree/events/events_maid.rpy:2860
-translate russian bree_event_12b_b4623de8:
+translate russian bree_event_12b_4f1465f8:
     mike.say "Эм... да, Киара..."
 
 # ch/bree/events/events_maid.rpy:2861
@@ -28541,7 +27321,7 @@ translate russian bree_event_12b_66461471:
     "Настолько, что я почти забываю, что могу что-то сказать по этому поводу."
 
 # ch/bree/events/events_maid.rpy:2893
-translate russian bree_event_12b_c5ba57ce:
+translate russian bree_event_12b_fb91660a:
     mike.say "\"Ну... ты не можешь!\", - говорит Майк Киаре."
 
 # ch/bree/events/events_maid.rpy:2894
@@ -28752,10 +27532,6 @@ translate russian bree_event_12b_de963323:
 translate russian bree_event_12b_0f0fa898:
     bree.say "Ты действительно очень облегчила мою смену."
 
-# ch/bree/events/events_maid.rpy:2984
-translate russian bree_event_12b_61260a4f:
-    mike.say "А... да, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:2985
 translate russian bree_event_12b_b843681d:
     mike.say "Это было совсем несложно!"
@@ -28869,7 +27645,7 @@ translate russian bree_event_13b_f461ca34:
     bree.say "[hero.name], мне кажется, важно, чтобы мы были честны друг с другом."
 
 # ch/bree/events/events_maid.rpy:3031
-translate russian bree_event_13b_af6ac180:
+translate russian bree_event_13b_a30d8f96:
     bree.say "Особенно учитывая, что наши отношения обладают некоторыми...необычными чертами!"
 
 # ch/bree/events/events_maid.rpy:3034
@@ -28888,16 +27664,12 @@ translate russian bree_event_13b_0ab23f70:
 translate russian bree_event_13b_a09dd82e:
     "В конце концов, не все ценят более тонкие аспекты того, что происходит между нами."
 
-# ch/bree/events/events_maid.rpy:3038
-translate russian bree_event_13b_3e207c05:
-    mike.say "Хорошо, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:3039
 translate russian bree_event_13b_4ecb69d3:
     mike.say "Я понимаю, что ты имеешь в виду."
 
 # ch/bree/events/events_maid.rpy:3041
-translate russian bree_event_13b_ac3fd440:
+translate russian bree_event_13b_d8f20988:
     bree.say "Хорошо...хорошо..."
 
 # ch/bree/events/events_maid.rpy:3042
@@ -28956,10 +27728,6 @@ translate russian bree_event_13b_3c2411b1:
 translate russian bree_event_13b_82bd7c54:
     "Не поймите неправильно: всё ещё паршиво. Просто чуть меньше."
 
-# ch/bree/events/events_maid.rpy:3061
-translate russian bree_event_13b_df86bfc4:
-    mike.say "Да, наверное, ты права, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:3062
 translate russian bree_event_13b_60aed43a:
     mike.say "Мне рано или поздно придется с ним встретиться."
@@ -28992,10 +27760,6 @@ translate russian bree_event_13b_0946df06:
 translate russian bree_event_13b_1606d4eb:
     "Я вопросительно поднимаю бровь."
 
-# ch/bree/events/events_maid.rpy:3074
-translate russian bree_event_13b_b03731c6:
-    mike.say "Эм, [bree.name]..."
-
 # ch/bree/events/events_maid.rpy:3075
 translate russian bree_event_13b_81204ad0:
     mike.say "Есть ли что-то, что мне нужно знать о твоем отце?"
@@ -29025,7 +27789,7 @@ translate russian bree_event_13b_562d683b:
     "Конечно нет, потому что это первое, о чем ты говоришь, когда кто-то совершенно нормальный!"
 
 # ch/bree/events/events_maid.rpy:3085
-translate russian bree_event_13b_0ed7a0cd:
+translate russian bree_event_13b_e7a9e6bc:
     mike.say "Ладно... но?"
 
 # ch/bree/events/events_maid.rpy:3087
@@ -29056,10 +27820,6 @@ translate russian bree_event_13b_7e49d4c1:
 translate russian bree_event_13b_009bd112:
     "И я не могу сказать, что не понимаю, откуда она берет свои слова."
 
-# ch/bree/events/events_maid.rpy:3098
-translate russian bree_event_13b_8e5ee797:
-    mike.say "Конечно, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:3099
 translate russian bree_event_13b_92f0d7bb:
     mike.say "Я понимаю."
@@ -29075,10 +27835,6 @@ translate russian bree_event_13b_cda542a5:
 # ch/bree/events/events_maid.rpy:3104
 translate russian bree_event_13b_090ecf15:
     bree.say "Мой отец всегда критиковал мой выбор парней."
-
-# ch/bree/events/events_maid.rpy:3106
-translate russian bree_event_13b_c5f97e3b:
-    mike.say "Так и должны поступать отцы, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:3107
 translate russian bree_event_13b_57edafb6:
@@ -29156,10 +27912,6 @@ translate russian bree_event_13b_56cae1a7:
 translate russian bree_event_13b_b8227264:
     "И тот факт, что она этого не сказала, заставляет меня думать, что я тоже не должна спрашивать."
 
-# ch/bree/events/events_maid.rpy:3137
-translate russian bree_event_13b_51a7897f:
-    mike.say "Не переживай из-за этого, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:3138
 translate russian bree_event_13b_2ba3e4b2:
     mike.say "Это все в прошлом, теперь."
@@ -29231,10 +27983,6 @@ translate russian bree_event_14b_8dda036f:
 # ch/bree/events/events_maid.rpy:3167
 translate russian bree_event_14b_1f0c4d01:
     bree.say "Могу ли я поговорить с ним?"
-
-# ch/bree/events/events_maid.rpy:3169
-translate russian bree_event_14b_c16cddf2:
-    mike.say "Да, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:3170
 translate russian bree_event_14b_b751b207:
@@ -29468,10 +28216,6 @@ translate russian bree_event_14b_a6a358e7:
 translate russian bree_event_14b_2258c0e7:
     "Она опускает взгляд на колени, и я уже знаю, что в уголках ее глаз начинают формироваться слезы."
 
-# ch/bree/events/events_maid.rpy:3257
-translate russian bree_event_14b_abc35cf5:
-    mike.say "[bree.name], подойди ко мне?"
-
 # ch/bree/events/events_maid.rpy:3258
 translate russian bree_event_14b_6d047898:
     "Мой тон властный, чтобы дать ей понять, что я ожидаю послушания."
@@ -29485,7 +28229,7 @@ translate russian bree_event_14b_078f517e:
     "[bree.name], все еще немного всхлипывая, встает и спешит выполнить просьбу."
 
 # ch/bree/events/events_maid.rpy:3263
-translate russian bree_event_14b_95279389:
+translate russian bree_event_14b_af62f5c3:
     bree.say "Да... да, [hero.name]."
 
 # ch/bree/events/events_maid.rpy:3264
@@ -29507,10 +28251,6 @@ translate russian bree_event_14b_b7189b23:
 # ch/bree/events/events_maid.rpy:3271
 translate russian bree_event_14b_2cd66fa8:
     "Я полностью игнорирую его и сосредотачиваюсь только на [bree.name]."
-
-# ch/bree/events/events_maid.rpy:3272
-translate russian bree_event_14b_f6de472e:
-    mike.say "[bree.name], мне нужно поговорить с твоим отцом, по-мужски."
 
 # ch/bree/events/events_maid.rpy:3273
 translate russian bree_event_14b_be85ca00:
@@ -29780,10 +28520,6 @@ translate russian bree_event_14b_68bb772c:
 translate russian bree_event_14b_08fbdd90:
     bree.say "Но я беспокоюсь о том, что он может сделать..."
 
-# ch/bree/events/events_maid.rpy:3365
-translate russian bree_event_14b_59b1e155:
-    mike.say "Не волнуйся, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:3366
 translate russian bree_event_14b_41d87148:
     mike.say "Он бы не помешал тебе сосать мой член прямо перед ним."
@@ -29793,7 +28529,7 @@ translate russian bree_event_14b_b20e6f7f:
     mike.say "Ты действительно думаешь, что он пойдет и расскажет своим полицейским приятелям обо всем этом?"
 
 # ch/bree/events/events_maid.rpy:3370
-translate russian bree_event_14b_c06d548d:
+translate russian bree_event_14b_597d340b:
     bree.say "Я... наверное, нет, [hero.name]."
 
 # ch/bree/events/events_maid.rpy:3372
@@ -29880,10 +28616,6 @@ translate russian bree_event_14c_4846609f:
 translate russian bree_event_14c_acd15e84:
     "Поэтому, когда мы устраиваемся поудобнее, и она прижимается ко мне, я обязательно спрашиваю ее об этом."
 
-# ch/bree/events/events_maid.rpy:3402
-translate russian bree_event_14c_f11bff69:
-    mike.say "Как ты, [bree.name]?"
-
 # ch/bree/events/events_maid.rpy:3403
 translate russian bree_event_14c_cd9e6aea:
     mike.say "Ты себя хорошо чувствуешь сегодня?"
@@ -29911,10 +28643,6 @@ translate russian bree_event_14c_bce6270c:
 # ch/bree/events/events_maid.rpy:3412
 translate russian bree_event_14c_6b679b63:
     "Я киваю, довольный искренностью ее ответа."
-
-# ch/bree/events/events_maid.rpy:3413
-translate russian bree_event_14c_94fc8202:
-    mike.say "Очень хорошо, что ты такая послушная и внимательная, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:3414
 translate russian bree_event_14c_e0ad5cea:
@@ -29956,10 +28684,6 @@ translate russian bree_event_14c_14404549:
 translate russian bree_event_14c_cb6dec0a:
     "И поэтому я снова киваю, давая ей понять, что она может говорить."
 
-# ch/bree/events/events_maid.rpy:3427
-translate russian bree_event_14c_bbe30a54:
-    mike.say "Говори же, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:3428
 translate russian bree_event_14c_92b968fc:
     mike.say "Скажи то, что хочешь сказать."
@@ -29983,10 +28707,6 @@ translate russian bree_event_14c_7df6671e:
 # ch/bree/events/events_maid.rpy:3436
 translate russian bree_event_14c_a09b655d:
     "И я понимаю, что она говорит о подчиненной роли, которую она приняла в наших отношениях."
-
-# ch/bree/events/events_maid.rpy:3437
-translate russian bree_event_14c_0bca75b0:
-    mike.say "Мне тоже, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:3438
 translate russian bree_event_14c_9c717983:
@@ -30025,7 +28745,7 @@ translate russian bree_event_14c_f7d5d020:
     "Что еще она вообще может предложить мне после этого?"
 
 # ch/bree/events/events_maid.rpy:3452
-translate russian bree_event_14c_965e6382:
+translate russian bree_event_14c_263236f6:
     bree.say "Я... я хочу быть твоей рабыней, [hero.name]."
 
 # ch/bree/events/events_maid.rpy:3453
@@ -30076,10 +28796,6 @@ translate russian bree_event_14c_2d6d8c6a:
 translate russian bree_event_14c_60bfd94f:
     "И это значит, что я знаю, что она бы не делала этого, если бы ей это было не нужно."
 
-# ch/bree/events/events_maid.rpy:3467
-translate russian bree_event_14c_b10ff8d7:
-    mike.say "Конечно, [bree.name]."
-
 # ch/bree/events/events_maid.rpy:3468
 translate russian bree_event_14c_25597b1b:
     mike.say "Если ты этого хочешь, то так и будет."
@@ -30099,10 +28815,6 @@ translate russian bree_event_14c_10af0029:
 # ch/bree/events/events_maid.rpy:3473
 translate russian bree_event_14c_4863a26f:
     "Но когда этого не происходит, мне требуется несколько секунд, чтобы понять, почему."
-
-# ch/bree/events/events_maid.rpy:3474
-translate russian bree_event_14c_76f85374:
-    mike.say "Ты можешь выразить свою привязанность, [bree.name]."
 
 # ch/bree/events/events_maid.rpy:3475
 translate russian bree_event_14c_c2d628f2:
@@ -30140,10 +28852,6 @@ translate russian bree_event_14c_daec55e0:
 translate russian bree_fuck_bathroom_84d5ab1a:
     "Я отдергиваю штору в душевой кабине и встаю позади нее, первое, что чувствует [bree.name], – это прикосновение моего члена к ее ягодицам."
 
-# ch/bree/fuck.rpy:96
-translate russian bree_fuck_bathroom_96a8212a:
-    mike.say "Сюрприз, [bree.name]!"
-
 # ch/bree/fuck.rpy:98
 translate russian bree_fuck_bathroom_452dd780:
     "Она испуганно вскрикивает, поднимает руки вверх, и я делаю шаг вперед, обнимая ее."
@@ -30156,10 +28864,6 @@ translate russian bree_fuck_bathroom_7875f37f:
 translate russian bree_fuck_bathroom_24ad88db:
     "Теперь она откидывается ко мне, позволяя мне поддержать часть ее веса."
 
-# ch/bree/fuck.rpy:103
-translate russian bree_fuck_bathroom_4a6029bd:
-    mike.say "Прости, [bree.name]...ты хочешь, чтобы я ушел?"
-
 # ch/bree/fuck.rpy:104
 translate russian bree_fuck_bathroom_b39e2567:
     "Я провожу руками по ее бедрам, говоря это, позволяя ей почувствовать мой член, прижатый к ее ягодицам."
@@ -30169,7 +28873,7 @@ translate russian bree_fuck_bathroom_12707641:
     "Она тихо смеется, и я чувствую, как она тянется рукой, чтобы погладить мой член."
 
 # ch/bree/fuck.rpy:108
-translate russian bree_fuck_bathroom_dcbc20e5:
+translate russian bree_fuck_bathroom_d4799c3e:
     bree.say "Нет...ты уже здесь, так что можешь остаться и помочь мне привести себя в порядок!"
 
 # ch/bree/fuck.rpy:110
@@ -30181,7 +28885,7 @@ translate russian bree_fuck_bathroom_609eacec:
     "Потом неторопливо проводит мыльными руками по моей груди и плечам."
 
 # ch/bree/fuck.rpy:113
-translate russian bree_fuck_bathroom_96eb2ea6:
+translate russian bree_fuck_bathroom_e814f2c7:
     bree.say "Вот так... надо же хорошенько вымыть, да? Нельзя, чтобы ты вышел грязнее, чем пришёл."
 
 # ch/bree/fuck.rpy:115
@@ -30201,7 +28905,7 @@ translate russian bree_fuck_bathroom_1d58b942:
     mike.say "Ты первая начала."
 
 # ch/bree/fuck.rpy:122
-translate russian bree_fuck_bathroom_ce7e8d5b:
+translate russian bree_fuck_bathroom_d2ad63c9:
     bree.say "Ничего я НЕ... ладно, может, самую малость."
 
 # ch/bree/fuck.rpy:124
@@ -30209,7 +28913,7 @@ translate russian bree_fuck_bathroom_891b2f03:
     "Она заливается смехом. Его отзвуки от плитки — лучшее, что я слышал за весь день."
 
 # ch/bree/fuck.rpy:126
-translate russian bree_fuck_bathroom_eca1eb60:
+translate russian bree_fuck_bathroom_f8974ebf:
     bree.say "Ладно, ладно... Может, я уже давно искала повод заманить тебя сюда."
 
 # ch/bree/fuck.rpy:128
@@ -30309,7 +29013,7 @@ translate russian bree_fuck_bathroom_20062915:
     "Поэтому я усиливаю интенсивность своих движений, заставляя [bree.name] стараться угнаться за мной, даже когда она начинает довольно громко дышать."
 
 # ch/bree/fuck.rpy:207
-translate russian bree_fuck_bathroom_c298c0e9:
+translate russian bree_fuck_bathroom_152f1053:
     bree.say "Ох... ого, [hero.name], вот так..."
 
 # ch/bree/fuck.rpy:208
@@ -30321,7 +29025,7 @@ translate russian bree_fuck_bathroom_01c05c35:
     "Вокруг клубится пар, оседая на коже каплями. Я наклоняюсь и целую её плечо, собирая губами воду."
 
 # ch/bree/fuck.rpy:210
-translate russian bree_fuck_bathroom_93dfedef:
+translate russian bree_fuck_bathroom_ab20650c:
     bree.say "Это... м-м... куда лучше, чем мыться одной..."
 
 # ch/bree/fuck.rpy:211
@@ -30333,7 +29037,7 @@ translate russian bree_fuck_bathroom_67fa9b47:
     "Другая рука бродит по мокрой коже, изучая каждый изгиб, ставший скользким от воды."
 
 # ch/bree/fuck.rpy:213
-translate russian bree_fuck_bathroom_364b9919:
+translate russian bree_fuck_bathroom_b6921d2f:
     bree.say "Осторожнее... будешь так трогать — я на ногах не удержусь..."
 
 # ch/bree/fuck.rpy:214
@@ -30385,7 +29089,7 @@ translate russian bree_fuck_bathroom_9a79ebed:
     "И я понимаю, что если сейчас ускорю темп, то, возможно, смогу дойти до оргазма раньше, чем мне придется признать поражение и вынести ее из душа в бессознательном состоянии."
 
 # ch/bree/fuck.rpy:255
-translate russian bree_fuck_bathroom_09bdfe71:
+translate russian bree_fuck_bathroom_2f68f057:
     bree.say "[hero.name]... Мне становится... голова кружится!"
 
 # ch/bree/fuck.rpy:256
@@ -30393,7 +29097,7 @@ translate russian bree_fuck_bathroom_51776886:
     "Я пытаюсь сделать вид, что не слышу предупреждения [bree.name], продолжая двигаться все время."
 
 # ch/bree/fuck.rpy:257
-translate russian bree_fuck_bathroom_a04d1ce8:
+translate russian bree_fuck_bathroom_fb11ea09:
     bree.say "Пожалуйста... [hero.name]... Я вижу какие-то странные вещи перед глазами!"
 
 # ch/bree/fuck.rpy:259
@@ -30419,10 +29123,6 @@ translate russian bree_fuck_bathroom_36981fce:
 # ch/bree/fuck.rpy:270
 translate russian bree_fuck_bathroom_c88fe991:
     bree.say "О-ох, [hero.name]... голова так кружится. Что случилось?"
-
-# ch/bree/fuck.rpy:271
-translate russian bree_fuck_bathroom_df34fd53:
-    mike.say "Ты потеряла сознание на несколько секунд назад, [bree.name]."
 
 # ch/bree/fuck.rpy:272
 translate russian bree_fuck_bathroom_e2804d6c:
@@ -30496,12 +29196,8 @@ translate russian bree_fuck_date_beach_25aa097f:
 translate russian bree_fuck_date_beach_8183598d:
     "Но она выглядит нервной и даже немного смущенной, настолько, что я вскоре забываю обо всех подозрениях, которые у меня могли возникнуть из-за беспокойства."
 
-# ch/bree/fuck.rpy:317
-translate russian bree_fuck_date_beach_0086c3b1:
-    mike.say "[bree.name], ты как себя чувствуешь?"
-
 # ch/bree/fuck.rpy:321
-translate russian bree_fuck_date_beach_10895dd2:
+translate russian bree_fuck_date_beach_2ccae813:
     bree.say "Что... а, да... все в порядке."
 
 # ch/bree/fuck.rpy:322
@@ -30624,10 +29320,6 @@ translate russian bree_fuck_date_beach_c487603b:
 translate russian bree_fuck_date_beach_f5d1600e:
     "Когда [bree.name] наконец полностью намазалась кремом от головы до пят, она положила спиной на полотенце, и крем заставил ее кожу слегка поблескивать на солнце."
 
-# ch/bree/fuck.rpy:363
-translate russian bree_fuck_date_beach_d235d0e1:
-    mike.say "Слушай, [bree.name], может, я помогу?"
-
 # ch/bree/fuck.rpy:365
 translate russian bree_fuck_date_beach_533ab37c:
     "[bree.name] посмотрела на меня с приподнятой бровью, явно не веря, что мои мотивы чисто альтруистичны."
@@ -30721,7 +29413,7 @@ translate russian bree_fuck_date_beach_becd68ff:
     bree.say "Поверь, я знаю идеальное место для того, что задумала!"
 
 # ch/bree/fuck.rpy:395
-translate russian bree_fuck_date_beach_86cf1931:
+translate russian bree_fuck_date_beach_9d0f019f:
     mike.say "Эм, хорошо... если ты так говоришь."
 
 # ch/bree/fuck.rpy:398
@@ -30917,12 +29609,8 @@ translate russian bree_hottub_sex_male_18212db9:
     "Трясу головой и пытаюсь сосредоточиться на её словах."
 
 # ch/bree/fuck.rpy:488
-translate russian bree_hottub_sex_male_a6dfefb1:
+translate russian bree_hottub_sex_male_a7b39b35:
     mike.say "А... что..."
-
-# ch/bree/fuck.rpy:489
-translate russian bree_hottub_sex_male_def7d0aa:
-    mike.say "Да нет... всё нормально, [bree.name]."
 
 # ch/bree/fuck.rpy:490
 translate russian bree_hottub_sex_male_65b345ad:
@@ -30947,10 +29635,6 @@ translate russian bree_hottub_sex_male_6f2a4554:
 # ch/bree/fuck.rpy:495
 translate russian bree_hottub_sex_male_92d383ff:
     "Я снова качаю головой."
-
-# ch/bree/fuck.rpy:496
-translate russian bree_hottub_sex_male_c151a587:
-    mike.say "Нет, [bree.name]."
 
 # ch/bree/fuck.rpy:497
 translate russian bree_hottub_sex_male_80c53d3b:
@@ -31012,10 +29696,6 @@ translate russian bree_hottub_sex_male_fe77e201:
 translate russian bree_hottub_sex_male_bf4512d2:
     "В любом случае дарёному коню в зубы не смотрят!"
 
-# ch/bree/fuck.rpy:512
-translate russian bree_hottub_sex_male_39b717db:
-    mike.say "Вот это да, [bree.name]!"
-
 # ch/bree/fuck.rpy:513
 translate russian bree_hottub_sex_male_fadef138:
     mike.say "Ты точно знаешь, как мне помочь!"
@@ -31037,16 +29717,12 @@ translate russian bree_hottub_sex_male_85817ca7:
     bree.say "Я вообще-то хотела спросить, не хочется ли тебе..."
 
 # ch/bree/fuck.rpy:518
-translate russian bree_hottub_sex_male_c1337953:
+translate russian bree_hottub_sex_male_faccf85a:
     bree.say "Ну... пошалить?"
 
 # ch/bree/fuck.rpy:519
 translate russian bree_hottub_sex_male_c64e4006:
     "Не могу не рассмеяться её выбору слов."
-
-# ch/bree/fuck.rpy:520
-translate russian bree_hottub_sex_male_262be688:
-    mike.say "Да, [bree.name]."
 
 # ch/bree/fuck.rpy:521
 translate russian bree_hottub_sex_male_a473ea62:
@@ -31081,7 +29757,7 @@ translate russian bree_hottub_sex_male_18e333cb:
     "И смотрит на него с настоящим голодом!"
 
 # ch/bree/fuck.rpy:530
-translate russian bree_hottub_sex_male_faf8e985:
+translate russian bree_hottub_sex_male_0a7bbf2b:
     bree.say "Я... думаю, лучше поместить его в меня, [hero.name]."
 
 # ch/bree/fuck.rpy:531
@@ -31128,10 +29804,6 @@ translate russian bree_hottub_sex_male_67412ad1:
 translate russian bree_hottub_sex_male_ddbca597:
     "Почти такая же сладкая, как ощущения от её киски вокруг моего члена."
 
-# ch/bree/fuck.rpy:544
-translate russian bree_hottub_sex_male_2c4378ec:
-    mike.say "Ох, чёрт, [bree.name]!"
-
 # ch/bree/fuck.rpy:545
 translate russian bree_hottub_sex_male_2246d3c0:
     mike.say "Как же хорошо!"
@@ -31141,7 +29813,7 @@ translate russian bree_hottub_sex_male_ec4f9c86:
     bree.say "Ах..."
 
 # ch/bree/fuck.rpy:547
-translate russian bree_hottub_sex_male_2a956855:
+translate russian bree_hottub_sex_male_3f309661:
     bree.say "М-мне тоже очень хорошо!"
 
 # ch/bree/fuck.rpy:548
@@ -31269,27 +29941,23 @@ translate russian bree_fuck_date_intro_male_f8b164dc:
     "[bree.name] почти падает на мою кровать, а я плюхаюсь рядом."
 
 # ch/bree/fuck.rpy:656
-translate russian bree_fuck_date_intro_male_b600ca1b:
+translate russian bree_fuck_date_intro_male_74523b34:
     bree.say "Я... я очень хорошо провела сегодня время, [hero.name]."
-
-# ch/bree/fuck.rpy:657
-translate russian bree_fuck_date_intro_male_e8cc96a5:
-    mike.say "Я тоже, [bree.name]..."
 
 # ch/bree/fuck.rpy:658
 translate russian bree_fuck_date_intro_male_4a32f2c6:
     bree.say "Почему ты всегда так добр ко мне?"
 
 # ch/bree/fuck.rpy:660
-translate russian bree_fuck_date_intro_male_3a14da78:
+translate russian bree_fuck_date_intro_male_60d4accf:
     mike.say "Потому что ты моя девушка... Ты ведь моя девушка?"
 
 # ch/bree/fuck.rpy:662
-translate russian bree_fuck_date_intro_male_559429f8:
+translate russian bree_fuck_date_intro_male_32e17942:
     mike.say "Потому что ты моя девушка... Ты ведь моя малышка?"
 
 # ch/bree/fuck.rpy:664
-translate russian bree_fuck_date_intro_male_7f0956b5:
+translate russian bree_fuck_date_intro_male_495fef31:
     mike.say "Потому что ты моя рабыня... Ты ведь моя рабыня?"
 
 # ch/bree/fuck.rpy:666
@@ -31320,12 +29988,8 @@ translate russian bree_fuck_date_intro_male_79690129:
 translate russian bree_fuck_date_intro_male_f8de60c1:
     bree.say "Да, [hero.name]... я твоя малышка."
 
-# ch/bree/fuck.rpy:676
-translate russian bree_fuck_date_intro_male_983aa3f4:
-    bree.say "И хочу быть для тебя хорошей девочкой, папочка. Я на всё готова, чтобы быть хорошей."
-
 # ch/bree/fuck.rpy:678
-translate russian bree_fuck_date_intro_male_8ca1ef70:
+translate russian bree_fuck_date_intro_male_c2772724:
     bree.say "Да, хозяин... я твоя рабыня."
 
 # ch/bree/fuck.rpy:679
@@ -31524,10 +30188,6 @@ translate russian bree_fuck_date_intro_male_35210c4e:
 translate russian bree_fuck_date_intro_male_6c800a10:
     "Быстро отвожу взгляд."
 
-# ch/bree/fuck.rpy:757
-translate russian bree_fuck_date_intro_male_a596dedc:
-    mike.say "Я... не думал, что ты можешь стать ещё прекраснее, [bree.name]..."
-
 # ch/bree/fuck.rpy:758
 translate russian bree_fuck_date_intro_male_ce8c3148:
     mike.say "Но я ошибался!"
@@ -31624,10 +30284,6 @@ translate russian bree_fuck_date_intro_male_73c22aa0:
 translate russian bree_fuck_date_intro_male_e53388dd:
     "В её глазах что-то почти отчаянное!"
 
-# ch/bree/fuck.rpy:800
-translate russian bree_fuck_date_intro_male_77830841:
-    mike.say "Ладно, [bree.name], ладно!"
-
 # ch/bree/fuck.rpy:801
 translate russian bree_fuck_date_intro_male_f867b1a8:
     mike.say "Давай приступим..."
@@ -31679,10 +30335,6 @@ translate russian bree_fuck_date_intro_male_2cdf3046:
 # ch/bree/fuck.rpy:816
 translate russian bree_fuck_date_intro_male_f1d8a63c:
     mike.say "Эм..."
-
-# ch/bree/fuck.rpy:817
-translate russian bree_fuck_date_intro_male_4c91599f:
-    mike.say "\"Да, [bree.name]...\"."
 
 # ch/bree/fuck.rpy:818
 translate russian bree_fuck_date_intro_male_4885d70e:
@@ -31828,10 +30480,6 @@ translate russian bree_fuck_date_oral_intro_b19888aa:
 translate russian bree_fuck_date_oral_intro_220db94a:
     "Поэтому, как только мы оказываемся дома, в моей спальне, решаю спросить напрямую."
 
-# ch/bree/fuck.rpy:946
-translate russian bree_fuck_date_oral_intro_7aafa263:
-    mike.say "Эм, [bree.name]?"
-
 # ch/bree/fuck.rpy:947
 translate russian bree_fuck_date_oral_intro_2f65e1fd:
     bree.say "Да, [hero.name]?"
@@ -31863,10 +30511,6 @@ translate russian bree_fuck_date_oral_intro_c6474ad0:
 # ch/bree/fuck.rpy:955
 translate russian bree_fuck_date_oral_intro_934a68ce:
     mike.say "Эй, ну что ты!"
-
-# ch/bree/fuck.rpy:956
-translate russian bree_fuck_date_oral_intro_9dcdd4f2:
-    mike.say "Всё в порядке, [bree.name]."
 
 # ch/bree/fuck.rpy:957
 translate russian bree_fuck_date_oral_intro_f037ca04:
@@ -31935,10 +30579,6 @@ translate russian bree_fuck_date_oral_intro_62385cb0:
 # ch/bree/fuck.rpy:976
 translate russian bree_fuck_date_oral_intro_1dcec4aa:
     "Если высмею её застенчивость, скорее всего, сегодня вообще ничего не получу!"
-
-# ch/bree/fuck.rpy:977
-translate russian bree_fuck_date_oral_intro_8e5ee797:
-    mike.say "Конечно, [bree.name]."
 
 # ch/bree/fuck.rpy:978
 translate russian bree_fuck_date_oral_intro_5c2e845d:
@@ -32129,11 +30769,11 @@ translate russian bree_fuck_date_oral_81c2ae5c:
     "Она не успевает договорить, а он уже погружается ей в попку."
 
 # ch/bree/fuck.rpy:1144
-translate russian bree_fuck_date_oral_28abab96:
+translate russian bree_fuck_date_oral_ccf4757c:
     bree.say "Ох... о боже..."
 
 # ch/bree/fuck.rpy:1145
-translate russian bree_fuck_date_oral_5a92669e:
+translate russian bree_fuck_date_oral_b5f337ff:
     bree.say "Это... приятно!"
 
 # ch/bree/fuck.rpy:1151
@@ -32205,7 +30845,7 @@ translate russian bree_fuck_date_oral_dd783bfc:
     bree.say "О боже..."
 
 # ch/bree/fuck.rpy:1244
-translate russian bree_fuck_date_oral_f59354c3:
+translate russian bree_fuck_date_oral_02001a21:
     bree.say "Да... да..."
 
 # ch/bree/fuck.rpy:1250
@@ -32277,7 +30917,7 @@ translate russian bree_fuck_date_oral_666d9137:
     bree.say "О боже мой..."
 
 # ch/bree/fuck.rpy:1343
-translate russian bree_fuck_date_oral_d501b54f:
+translate russian bree_fuck_date_oral_f88130e8:
     bree.say "Да... о да..."
 
 # ch/bree/fuck.rpy:1349
@@ -32381,7 +31021,7 @@ translate russian bree_fuck_date_titfuck_3598f809:
     "Они одновременно мягкие и упругие, такие тёплые, что я невольно прикусываю губу."
 
 # ch/bree/fuck.rpy:1460
-translate russian bree_fuck_date_titfuck_9e87aebd:
+translate russian bree_fuck_date_titfuck_a0365d0d:
     bree.say "К-как тебе?"
 
 # ch/bree/fuck.rpy:1461
@@ -32393,7 +31033,7 @@ translate russian bree_fuck_date_titfuck_e1487003:
     "Лёгкий румянец уже сменился яркой краской на обеих щеках."
 
 # ch/bree/fuck.rpy:1463
-translate russian bree_fuck_date_titfuck_bf480f51:
+translate russian bree_fuck_date_titfuck_dcba79b9:
     mike.say "Это... потрясающе!"
 
 # ch/bree/fuck.rpy:1464
@@ -32433,7 +31073,7 @@ translate russian bree_fuck_date_titfuck_bc05b981:
     "Всё время ловит мой взгляд, ища одобрения."
 
 # ch/bree/fuck.rpy:1503
-translate russian bree_fuck_date_titfuck_ad823f1c:
+translate russian bree_fuck_date_titfuck_46ee4cfc:
     bree.say "Т-тебе приятно, когда мои сиськи обхватывают твой ч-член, [hero.name]?"
 
 # ch/bree/fuck.rpy:1504
@@ -32445,7 +31085,7 @@ translate russian bree_fuck_date_titfuck_c341f698:
     "Она изо всех сил старается говорить пошлости, смущённо запинаясь на словах."
 
 # ch/bree/fuck.rpy:1513
-translate russian bree_fuck_date_titfuck_e3e61810:
+translate russian bree_fuck_date_titfuck_671f2523:
     bree.say "Ух... о-о, он так красиво смотрится..."
 
 # ch/bree/fuck.rpy:1514
@@ -32453,7 +31093,7 @@ translate russian bree_fuck_date_titfuck_39591590:
     "Почему-то то, что у неё плохо получается, делает её слова ещё милее."
 
 # ch/bree/fuck.rpy:1515
-translate russian bree_fuck_date_titfuck_a710dc00:
+translate russian bree_fuck_date_titfuck_b814c0b7:
     bree.say "Я... не могу дождаться, когда он выстрелит мне в лицо..."
 
 # ch/bree/fuck.rpy:1523
@@ -32464,10 +31104,6 @@ translate russian bree_fuck_date_titfuck_18343378:
 translate russian bree_fuck_date_titfuck_b8e5a613:
     "Пот на наших телах помогает ему скользить быстрее и легче."
 
-# ch/bree/fuck.rpy:1532
-translate russian bree_fuck_date_titfuck_9382fffb:
-    mike.say "Блядь, [bree.name], ты такая горячая..."
-
 # ch/bree/fuck.rpy:1540
 translate russian bree_fuck_date_titfuck_1588c35a:
     "Я бормочу, но она, видимо, слышит: чувствую, как её усилия удваиваются."
@@ -32477,7 +31113,7 @@ translate russian bree_fuck_date_titfuck_5a774b5b:
     "Мы трёмся друг о друга так сильно, что соски [bree.name] вдавливаются мне в живот."
 
 # ch/bree/fuck.rpy:1549
-translate russian bree_fuck_date_titfuck_a4400d01:
+translate russian bree_fuck_date_titfuck_37b41a2a:
     bree.say "Т-тебе приятно, когда мои сиськи обхватывают твой ч-член?"
 
 # ch/bree/fuck.rpy:1550
@@ -32489,11 +31125,11 @@ translate russian bree_fuck_date_titfuck_d44c0a25:
     "[bree.name] спрашивает тихо, но с огромным напряжением в голосе."
 
 # ch/bree/fuck.rpy:1553
-translate russian bree_fuck_date_titfuck_61886291:
+translate russian bree_fuck_date_titfuck_7fbdf836:
     mike.say "Да... кажется, уже на грани."
 
 # ch/bree/fuck.rpy:1554
-translate russian bree_fuck_date_titfuck_a06165ab:
+translate russian bree_fuck_date_titfuck_cf7512b1:
     bree.say "Хочу заставить тебя... заставить тебя кончить."
 
 # ch/bree/fuck.rpy:1555
@@ -32501,7 +31137,7 @@ translate russian bree_fuck_date_titfuck_d15667c2:
     bree.say "Хочу, чтобы ты использовал меня, [hero.name]. Использовал ради своего удовольствия."
 
 # ch/bree/fuck.rpy:1564
-translate russian bree_fuck_date_titfuck_965f2e9c:
+translate russian bree_fuck_date_titfuck_ffb9d40a:
     bree.say "Кончай на меня... кончи для меня..."
 
 # ch/bree/fuck.rpy:1565
@@ -32511,10 +31147,6 @@ translate russian bree_fuck_date_titfuck_dca3608f:
 # ch/bree/fuck.rpy:1566
 translate russian bree_fuck_date_titfuck_8ef19a3e:
     "Она буквально умоляет кончить на неё. Одного выражения её лица хватает, чтобы я потерял контроль."
-
-# ch/bree/fuck.rpy:1574
-translate russian bree_fuck_date_titfuck_74d7da01:
-    mike.say "О боже, [bree.name]!"
 
 # ch/bree/fuck.rpy:1577
 translate russian bree_fuck_date_titfuck_97bce3de:
@@ -32537,11 +31169,11 @@ translate russian bree_fuck_date_titfuck_add89047:
     "Утягиваю [bree.name] под одеяло и чувствую новый прилив сил."
 
 # ch/bree/fuck.rpy:1595
-translate russian bree_fuck_date_titfuck_61886291_1:
+translate russian bree_fuck_date_titfuck_7fbdf836_1:
     mike.say "Да... кажется, уже на грани."
 
 # ch/bree/fuck.rpy:1596
-translate russian bree_fuck_date_titfuck_a06165ab_1:
+translate russian bree_fuck_date_titfuck_cf7512b1_1:
     bree.say "Хочу заставить тебя... заставить тебя кончить."
 
 # ch/bree/fuck.rpy:1598
@@ -32549,7 +31181,7 @@ translate russian bree_fuck_date_titfuck_ffa5e4fb:
     bree.say "Пожалуйста, используй меня, [hero.name]."
 
 # ch/bree/fuck.rpy:1607
-translate russian bree_fuck_date_titfuck_965f2e9c_1:
+translate russian bree_fuck_date_titfuck_ffb9d40a_1:
     bree.say "Кончай на меня... кончи для меня..."
 
 # ch/bree/fuck.rpy:1608
@@ -32559,10 +31191,6 @@ translate russian bree_fuck_date_titfuck_dca3608f_1:
 # ch/bree/fuck.rpy:1609
 translate russian bree_fuck_date_titfuck_8ef19a3e_1:
     "Она буквально умоляет кончить на неё. Одного выражения её лица хватает, чтобы я потерял контроль."
-
-# ch/bree/fuck.rpy:1617
-translate russian bree_fuck_date_titfuck_74d7da01_1:
-    mike.say "О боже, [bree.name]!"
 
 # ch/bree/fuck.rpy:1620
 translate russian bree_fuck_date_titfuck_97bce3de_1:
@@ -32592,10 +31220,6 @@ translate russian bree_fuck_date_titfuck_a4757bc2:
 translate russian bree_fuck_date_titfuck_7074a250:
     "Но по глазам вижу: сама она ещё далеко не выдохлась."
 
-# ch/bree/fuck.rpy:1635
-translate russian bree_fuck_date_titfuck_7f14a839:
-    mike.say "Ох, [bree.name]... ты меня совсем измотала!"
-
 # ch/bree/fuck.rpy:1636
 translate russian bree_fuck_date_titfuck_9c445223:
     mike.say "Ещё миг — и отключусь, просплю целую неделю!"
@@ -32612,10 +31236,6 @@ translate russian bree_fuck_date_titfuck_f1830170:
 translate russian bree_fuck_date_titfuck_6feec667:
     bree.say "В следующий раз не буду так стараться!"
 
-# ch/bree/fuck.rpy:1643
-translate russian bree_fuck_date_titfuck_61d36f44:
-    bree.say "Я хорошая девочка, папочка?"
-
 # ch/bree/fuck.rpy:1644
 translate russian bree_fuck_date_titfuck_cf7147e7:
     mike.say "Ты хорошая девочка, [bree.name]."
@@ -32627,10 +31247,6 @@ translate russian bree_fuck_date_titfuck_bd6d20aa:
 # ch/bree/fuck.rpy:1647
 translate russian bree_fuck_date_titfuck_188e7641:
     mike.say "Очень хорошо, [bree.name]."
-
-# ch/bree/fuck.rpy:1653
-translate russian bree_fuck_date_titfuck_c7ff5270:
-    mike.say "Нет, [bree.name], я сейчас очень хочу тебя трахнуть..."
 
 # ch/bree/fuck.rpy:1659
 translate russian bree_fuck_date_anal_10130da7:
@@ -32673,27 +31289,23 @@ translate russian bree_fuck_date_anal_672bbbb4:
     "В голосе слышна дрожь, но встать она не пытается. Одно это согласие уже немного лишает меня выдержки."
 
 # ch/bree/fuck.rpy:1670
-translate russian bree_fuck_date_anal_07d63a57:
+translate russian bree_fuck_date_anal_09a2c838:
     bree.say "Я тебе доверяю... Чего бы ты ни хотел, я хочу тебе это дать."
 
 # ch/bree/fuck.rpy:1671
 translate russian bree_fuck_date_anal_28779baf:
     "Так в духе [bree.name]: милая и искренняя даже сейчас, стоя на коленях в ожидании."
 
-# ch/bree/fuck.rpy:1673
-translate russian bree_fuck_date_anal_3a4a9ec1:
-    bree.say "Используй меня как хочешь, папочка... Я только хочу быть для тебя хорошей."
-
 # ch/bree/fuck.rpy:1675
-translate russian bree_fuck_date_anal_c4058a71:
+translate russian bree_fuck_date_anal_433cbaf2:
     bree.say "Я твоя, хозяин... пожалуйста, не сдерживайся со мной."
 
 # ch/bree/fuck.rpy:1677
-translate russian bree_fuck_date_anal_329c0661:
+translate russian bree_fuck_date_anal_1208301b:
     bree.say "Я весь вечер думала об этом... о том, чтобы целиком отдаться тебе."
 
 # ch/bree/fuck.rpy:1679
-translate russian bree_fuck_date_anal_bd89b514:
+translate russian bree_fuck_date_anal_f82bb786:
     bree.say "Только... сначала будь нежным, ладно?"
 
 # ch/bree/fuck.rpy:1680
@@ -32703,10 +31315,6 @@ translate russian bree_fuck_date_anal_02a1790e:
 # ch/bree/fuck.rpy:1681
 translate russian bree_fuck_date_anal_734ede67:
     "Медленно веду ладонью вдоль её позвоночника и чувствую дрожь, бегущую вслед за пальцами."
-
-# ch/bree/fuck.rpy:1682
-translate russian bree_fuck_date_anal_80f71d01:
-    mike.say "Хорошая девочка, [bree.name]."
 
 # ch/bree/fuck.rpy:1683
 translate russian bree_fuck_date_anal_f369c784:
@@ -32773,7 +31381,7 @@ translate russian bree_fuck_date_anal_19dac649:
     "Я смотрю, как понимание постепенно отражается на её лице."
 
 # ch/bree/fuck.rpy:1699
-translate russian bree_fuck_date_anal_83a5c013:
+translate russian bree_fuck_date_anal_1d1f415d:
     bree.say "Ох... [hero.name], это... это не..."
 
 # ch/bree/fuck.rpy:1700
@@ -32784,25 +31392,17 @@ translate russian bree_fuck_date_anal_2618c418:
 translate russian bree_fuck_date_anal_d1c57f38:
     "Вместо этого опускает лоб на матрас, расслабляясь под моими руками."
 
-# ch/bree/fuck.rpy:1703
-translate russian bree_fuck_date_anal_e501c79d:
-    bree.say "Ладно... ладно, я хочу быть для тебя хорошей..."
-
 # ch/bree/fuck.rpy:1704
-translate russian bree_fuck_date_anal_71259ed8:
+translate russian bree_fuck_date_anal_abc24dca:
     bree.say "Только медленно. Можешь взять и это... можешь взять всё."
 
 # ch/bree/fuck.rpy:1706
-translate russian bree_fuck_date_anal_70b8103f:
+translate russian bree_fuck_date_anal_aeae1c48:
     bree.say "Будь осторожен, ладно? Я никогда... раньше не так..."
 
 # ch/bree/fuck.rpy:1707
 translate russian bree_fuck_date_anal_853819de:
     "Доверие, с которым она отдаётся мне, возбуждает почти сильнее, чем вид её открытого тела."
-
-# ch/bree/fuck.rpy:1708
-translate russian bree_fuck_date_anal_cdfc6593:
-    mike.say "Я с тобой, [bree.name]. Просто дыши."
 
 # ch/bree/fuck.rpy:1709
 translate russian bree_fuck_date_anal_53e657fa:
@@ -32837,15 +31437,11 @@ translate russian bree_fuck_date_anal_4f9acfb6:
     "[bree.name] тяжело дышит и подаёт бёдра навстречу, стремясь к тому самому ощущению, от которого дрожит."
 
 # ch/bree/fuck.rpy:1718
-translate russian bree_fuck_date_anal_b92ad759:
+translate russian bree_fuck_date_anal_2f880781:
     bree.say "Медленно... помедленнее... ох, это... так много..."
 
-# ch/bree/fuck.rpy:1719
-translate russian bree_fuck_date_anal_a0726be0:
-    "Я ослабляю нажим, давая ей привыкнуть, и в награду за терпение медленно глажу большим пальцем поясницу."
-
 # ch/bree/fuck.rpy:1721
-translate russian bree_fuck_date_anal_3c408aa3:
+translate russian bree_fuck_date_anal_d331cd06:
     bree.say "Ладно... ладно, я готова... теперь можешь двигаться, [hero.name]..."
 
 # ch/bree/fuck.rpy:1722
@@ -32853,7 +31449,7 @@ translate russian bree_fuck_date_anal_0b346058:
     "Разрешение звучит едва слышным шёпотом, но другого поощрения мне не нужно."
 
 # ch/bree/fuck.rpy:1724
-translate russian bree_fuck_date_anal_ca399db1:
+translate russian bree_fuck_date_anal_d8ed30c4:
     bree.say "Так... так лучше. Продолжай, именно так..."
 
 # ch/bree/fuck.rpy:1726
@@ -32881,23 +31477,19 @@ translate russian bree_fuck_date_anal_c0d69bc2:
     "[bree.name] стонет в подушку, сжимая простыни при каждом размеренном толчке."
 
 # ch/bree/fuck.rpy:1732
-translate russian bree_fuck_date_anal_9e67b119:
+translate russian bree_fuck_date_anal_46d67039:
     bree.say "О боже... ох, [hero.name]..."
 
 # ch/bree/fuck.rpy:1733
 translate russian bree_fuck_date_anal_cea1afe5:
     "Я накрываю её спину грудью и тихо шепчу у самого уха."
 
-# ch/bree/fuck.rpy:1734
-translate russian bree_fuck_date_anal_052ab698:
-    mike.say "Ты так хорошо меня принимаешь, [bree.name]."
-
 # ch/bree/fuck.rpy:1735
 translate russian bree_fuck_date_anal_3774d89f:
     "От похвалы она дрожит и подаётся назад, словно слова действуют не слабее моих движений."
 
 # ch/bree/fuck.rpy:1737
-translate russian bree_fuck_date_anal_33a43594:
+translate russian bree_fuck_date_anal_d494a0f9:
     bree.say "Ещё... пожалуйста, я могу принять больше..."
 
 # ch/bree/fuck.rpy:1738
@@ -32905,7 +31497,7 @@ translate russian bree_fuck_date_anal_3d211756:
     "Услышать такую мольбу от милой книжной [bree.name] — этого почти достаточно, чтобы кончить прямо сейчас."
 
 # ch/bree/fuck.rpy:1740
-translate russian bree_fuck_date_anal_8ef57db5:
+translate russian bree_fuck_date_anal_7ea449df:
     bree.say "Это... так много, но не останавливайся... пожалуйста, не останавливайся..."
 
 # ch/bree/fuck.rpy:1741
@@ -32925,16 +31517,12 @@ translate russian bree_fuck_date_anal_c1f38d20:
     "[bree.name] чувствует полную силу каждого моего движения, без всякого смягчения."
 
 # ch/bree/fuck.rpy:1745
-translate russian bree_fuck_date_anal_ba817798:
+translate russian bree_fuck_date_anal_e98fcef5:
     bree.say "Ох... я чувствую тебя целиком, [hero.name]..."
 
 # ch/bree/fuck.rpy:1746
 translate russian bree_fuck_date_anal_92904a4f:
     "Голос стал тихим и сорванным. От привычной оживлённой болтовни не осталось ни следа."
-
-# ch/bree/fuck.rpy:1747
-translate russian bree_fuck_date_anal_a9f735a0:
-    mike.say "Вот так, [bree.name]. Просто отдайся мне."
 
 # ch/bree/fuck.rpy:1748
 translate russian bree_fuck_date_anal_f5a2ab39:
@@ -32945,16 +31533,12 @@ translate russian bree_fuck_date_anal_a8875d7f:
     "Каждая секунда внутри неё заставляет ноги, живот и руки содрогаться от ощущений."
 
 # ch/bree/fuck.rpy:1750
-translate russian bree_fuck_date_anal_00528a8f:
+translate russian bree_fuck_date_anal_db74fa98:
     bree.say "Я такая... такая наполненная, [hero.name]... будто вся твоя..."
 
 # ch/bree/fuck.rpy:1751
 translate russian bree_fuck_date_anal_aee5ea3d:
     "Наклоняюсь и целую её в шею сзади. От этой нежности она тихо стонет."
-
-# ch/bree/fuck.rpy:1752
-translate russian bree_fuck_date_anal_6a20a68f:
-    mike.say "Потому что так и есть, [bree.name]. Каждый твой сантиметр."
 
 # ch/bree/fuck.rpy:1753
 translate russian bree_fuck_date_anal_5cf82c70:
@@ -32977,7 +31561,7 @@ translate russian bree_fuck_date_anal_4abf3e11:
     "А покорные кивки [bree.name] словно подтверждают: здесь командую я."
 
 # ch/bree/fuck.rpy:1758
-translate russian bree_fuck_date_anal_5a4c1db4:
+translate russian bree_fuck_date_anal_a29f4acf:
     bree.say "Я твоя... вся твоя..."
 
 # ch/bree/fuck.rpy:1759
@@ -32988,20 +31572,16 @@ translate russian bree_fuck_date_anal_af59135a:
 translate russian bree_fuck_date_anal_6e077d66:
     "Беру её за бёдра обеими руками и удерживаю именно там, где хочу, пока напряжение нарастает."
 
-# ch/bree/fuck.rpy:1762
-translate russian bree_fuck_date_anal_348c067c:
-    bree.say "Наполни меня, папочка... пожалуйста, хочу почувствовать всё..."
-
 # ch/bree/fuck.rpy:1764
-translate russian bree_fuck_date_anal_dc6de657:
+translate russian bree_fuck_date_anal_23852a2b:
     bree.say "Кончай в меня, хозяин... хочу всё, что ты мне дашь..."
 
 # ch/bree/fuck.rpy:1766
-translate russian bree_fuck_date_anal_b5a12c9f:
+translate russian bree_fuck_date_anal_c9e9a301:
     bree.say "Давай... кончай внутрь, [hero.name], пожалуйста..."
 
 # ch/bree/fuck.rpy:1768
-translate russian bree_fuck_date_anal_c50c39ee:
+translate russian bree_fuck_date_anal_dfa41f22:
     bree.say "Ты ведь сейчас кончишь? Всё хорошо... я хочу этого..."
 
 # ch/bree/fuck.rpy:1769
@@ -33012,33 +31592,25 @@ translate russian bree_fuck_date_anal_ea053b40:
 translate russian bree_fuck_date_anal_056e7029:
     "Когда я делаю последний толчок и изливаюсь, сомневаюсь, что [bree.name] смогла бы возразить, даже попытайся она."
 
-# ch/bree/fuck.rpy:1776
-translate russian bree_fuck_date_anal_5e6ffa2a:
-    "Долгое время мы не двигаемся, лишь дышим, всё ещё соединённые."
-
 # ch/bree/fuck.rpy:1777
 translate russian bree_fuck_date_anal_a30c43d5:
     "Потом [bree.name] поворачивает голову на подушке и встречается со мной взглядом. Её щёки розовеют."
 
 # ch/bree/fuck.rpy:1779
-translate russian bree_fuck_date_anal_5525dc5f:
+translate russian bree_fuck_date_anal_a0d096ae:
     bree.say "Спасибо... спасибо, что так использовал меня..."
 
 # ch/bree/fuck.rpy:1781
-translate russian bree_fuck_date_anal_343d3275:
+translate russian bree_fuck_date_anal_9c444a6f:
     bree.say "Это было... ого. Не знала, что могу такое чувствовать..."
 
 # ch/bree/fuck.rpy:1783
-translate russian bree_fuck_date_anal_bcadf7c4:
+translate russian bree_fuck_date_anal_ec283834:
     bree.say "Не верится, что мы только что... что я позволила тебе это..."
 
 # ch/bree/fuck.rpy:1784
 translate russian bree_fuck_date_anal_503e2fb0:
     "Осторожно выхожу и прижимаю её к груди, целуя влажный висок."
-
-# ch/bree/fuck.rpy:1785
-translate russian bree_fuck_date_anal_e2e93a2d:
-    mike.say "Ты была идеальна, [bree.name]."
 
 # ch/bree/fuck.rpy:1786
 translate russian bree_fuck_date_anal_95a3a6cf:
@@ -33137,7 +31709,7 @@ translate russian bree_fuck_date_doggy_c5d6e0c6:
     mike.say "Это вышло случайно..."
 
 # ch/bree/fuck.rpy:1827
-translate russian bree_fuck_date_doggy_2f04e14b:
+translate russian bree_fuck_date_doggy_3b0aae23:
     bree.say "А... всё нормально, [hero.name]... правда."
 
 # ch/bree/fuck.rpy:1829
@@ -33417,7 +31989,7 @@ translate russian bree_fuck_date_doggy_88ec0686:
     "Девушка смущённо смотрит на меня."
 
 # ch/bree/fuck.rpy:1936
-translate russian bree_fuck_date_doggy_463d15b4:
+translate russian bree_fuck_date_doggy_5c1ddc1e:
     bree.say "Ого... это было безумие!"
 
 # ch/bree/fuck.rpy:1937
@@ -33429,7 +32001,7 @@ translate russian bree_fuck_date_doggy_d01d9d1b:
     "Я тихо усмехаюсь, всё ещё тяжело дыша после усилий."
 
 # ch/bree/fuck.rpy:1939
-translate russian bree_fuck_date_doggy_efb826de:
+translate russian bree_fuck_date_doggy_16272293:
     mike.say "Знаю... какое-то время всё висело на волоске!"
 
 # ch/bree/fuck.rpy:1940
@@ -33461,7 +32033,7 @@ translate russian bree_fuck_date_doggy_88ec0686_1:
     "Девушка смущённо смотрит на меня."
 
 # ch/bree/fuck.rpy:1954
-translate russian bree_fuck_date_doggy_463d15b4_1:
+translate russian bree_fuck_date_doggy_5c1ddc1e_1:
     bree.say "Ого... это было безумие!"
 
 # ch/bree/fuck.rpy:1955
@@ -33473,12 +32045,8 @@ translate russian bree_fuck_date_doggy_6c156315:
     "Я качаю головой, всё ещё тяжело дыша после усилий."
 
 # ch/bree/fuck.rpy:1957
-translate russian bree_fuck_date_doggy_efb826de_1:
+translate russian bree_fuck_date_doggy_16272293_1:
     mike.say "Знаю... какое-то время всё висело на волоске!"
-
-# ch/bree/fuck.rpy:1958
-translate russian bree_fuck_date_doggy_3a4e0d5e:
-    mike.say "Ты так меня заводишь, [bree.name], что в следующий раз лучше воспользоваться презервативом!"
 
 # ch/bree/fuck.rpy:1959
 translate russian bree_fuck_date_doggy_921fb476_1:
@@ -33513,7 +32081,7 @@ translate russian bree_fuck_date_doggy_d5ccca72:
     "[bree.name] с нетерпением оглядывается на меня, хотя сперма уже начинает вытекать и стекать по внутренней стороне её бёдер."
 
 # ch/bree/fuck.rpy:1977
-translate russian bree_fuck_date_doggy_9e5b7c5d:
+translate russian bree_fuck_date_doggy_dd46d625:
     bree.say "М-м-м... как же хорошо, когда ты наполняешь меня до краёв, [hero.name]!"
 
 # ch/bree/fuck.rpy:1978
@@ -33565,7 +32133,7 @@ translate russian bree_fuck_date_doggy_d5ccca72_1:
     "[bree.name] с нетерпением оглядывается на меня, хотя сперма уже начинает вытекать и стекать по внутренней стороне её бёдер."
 
 # ch/bree/fuck.rpy:2001
-translate russian bree_fuck_date_doggy_9e5b7c5d_1:
+translate russian bree_fuck_date_doggy_dd46d625_1:
     bree.say "М-м-м... как же хорошо, когда ты наполняешь меня до краёв, [hero.name]!"
 
 # ch/bree/fuck.rpy:2002
@@ -33629,12 +32197,8 @@ translate russian bree_fuck_date_doggy_0f913396:
     "Поэтому я озадачен, когда она остаётся совершенно неподвижной и позволяет мне сделать последние толчки."
 
 # ch/bree/fuck.rpy:2028
-translate russian bree_fuck_date_doggy_dc071835:
+translate russian bree_fuck_date_doggy_bbbfbd9a:
     "Когда я выхожу, она судорожно вдыхает. В её глазах странно смешаны страх и... кажется, возбуждение."
-
-# ch/bree/fuck.rpy:2029
-translate russian bree_fuck_date_doggy_04941fe3:
-    mike.say "[bree.name], прости, я..."
 
 # ch/bree/fuck.rpy:2030
 translate russian bree_fuck_date_doggy_25b1fb77:
@@ -33645,7 +32209,7 @@ translate russian bree_fuck_date_doggy_2b4fe387:
     bree.say "Не надо..."
 
 # ch/bree/fuck.rpy:2033
-translate russian bree_fuck_date_doggy_116ee6b2:
+translate russian bree_fuck_date_doggy_a9425078:
     bree.say "Просто в следующий раз возьми презерватив... ладно?"
 
 # ch/bree/fuck.rpy:2035
@@ -33689,7 +32253,7 @@ translate russian bree_fuck_date_doggy_d5ccca72_2:
     "[bree.name] с нетерпением оглядывается на меня, хотя сперма уже начинает вытекать и стекать по внутренней стороне её бёдер."
 
 # ch/bree/fuck.rpy:2054
-translate russian bree_fuck_date_doggy_9e5b7c5d_2:
+translate russian bree_fuck_date_doggy_dd46d625_2:
     bree.say "М-м-м... как же хорошо, когда ты наполняешь меня до краёв, [hero.name]!"
 
 # ch/bree/fuck.rpy:2055
@@ -33724,10 +32288,6 @@ translate russian bree_fuck_date_doggy_rough_7d77a99a:
 translate russian bree_fuck_date_doggy_rough_a9c7a804:
     "Забираюсь на кровать сзади; твёрдый член покачивается передо мной."
 
-# ch/bree/fuck.rpy:2071
-translate russian bree_fuck_date_doggy_rough_7a340d88:
-    mike.say "Ладно, [bree.name]..."
-
 # ch/bree/fuck.rpy:2072
 translate russian bree_fuck_date_doggy_rough_c9721d5d:
     mike.say "Я иду!"
@@ -33745,7 +32305,7 @@ translate russian bree_fuck_date_doggy_rough_ce2770ee:
     bree.say "О, [hero.name]..."
 
 # ch/bree/fuck.rpy:2076
-translate russian bree_fuck_date_doggy_rough_656bc5cc:
+translate russian bree_fuck_date_doggy_rough_a5d398fe:
     bree.say "Хочу, чтобы ты был со мной немного... жёстче, ладно?"
 
 # ch/bree/fuck.rpy:2077
@@ -33781,7 +32341,7 @@ translate russian bree_fuck_date_doggy_rough_c3d2bc02:
     bree.say "Хочу, чтобы ты был грубее. Потянул за волосы, шлёпнул по попке, немного покомандовал..."
 
 # ch/bree/fuck.rpy:2085
-translate russian bree_fuck_date_doggy_rough_e9fa52f5:
+translate russian bree_fuck_date_doggy_rough_95729985:
     bree.say "Я тут... читала об этом и очень хочу попробовать. С тобой."
 
 # ch/bree/fuck.rpy:2086
@@ -33797,7 +32357,7 @@ translate russian bree_fuck_date_doggy_rough_d01a98bd:
     bree.say "Точно. Я доверяю тебе больше всех, [hero.name]."
 
 # ch/bree/fuck.rpy:2090
-translate russian bree_fuck_date_doggy_rough_1c4856d9:
+translate russian bree_fuck_date_doggy_rough_c226433b:
     bree.say "К тому же... мне нравится, когда ты берёшь всё в свои руки. От этого в голове становится тихо."
 
 # ch/bree/fuck.rpy:2091
@@ -33807,10 +32367,6 @@ translate russian bree_fuck_date_doggy_rough_6d811ef8:
 # ch/bree/fuck.rpy:2092
 translate russian bree_fuck_date_doggy_rough_fe28884e:
     "Наклоняюсь к ней так близко, что дыхание шевелит волосы на затылке."
-
-# ch/bree/fuck.rpy:2093
-translate russian bree_fuck_date_doggy_rough_f870513c:
-    mike.say "Тогда держись крепче, [bree.name]. Сама попросила."
 
 # ch/bree/fuck.rpy:2094
 translate russian bree_fuck_date_doggy_rough_206d5eb1:
@@ -33891,10 +32447,6 @@ translate russian bree_fuck_date_doggy_rough_5fa96054:
 # ch/bree/fuck.rpy:2123
 translate russian bree_fuck_date_doggy_rough_9c12cca4:
     mike.say "Вот как?"
-
-# ch/bree/fuck.rpy:2124
-translate russian bree_fuck_date_doggy_rough_9d5dfe89:
-    mike.say "Тебе нравится, [bree.name]?"
 
 # ch/bree/fuck.rpy:2125
 translate russian bree_fuck_date_doggy_rough_92e6a89e:
@@ -34045,11 +32597,11 @@ translate russian bree_fuck_date_doggy_rough_3da87f40:
     bree.say "Пожалуйста..."
 
 # ch/bree/fuck.rpy:2179
-translate russian bree_fuck_date_doggy_rough_776cdae8:
+translate russian bree_fuck_date_doggy_rough_fdff6360:
     bree.say "Кончай... в... меня..."
 
 # ch/bree/fuck.rpy:2180
-translate russian bree_fuck_date_doggy_rough_b91a6857:
+translate russian bree_fuck_date_doggy_rough_2513e3c2:
     bree.say "Я пью... таблетки!"
 
 # ch/bree/fuck.rpy:2181
@@ -34081,11 +32633,11 @@ translate russian bree_fuck_date_doggy_rough_3da87f40_1:
     bree.say "Пожалуйста..."
 
 # ch/bree/fuck.rpy:2194
-translate russian bree_fuck_date_doggy_rough_776cdae8_1:
+translate russian bree_fuck_date_doggy_rough_fdff6360_1:
     bree.say "Кончай... в... меня..."
 
 # ch/bree/fuck.rpy:2195
-translate russian bree_fuck_date_doggy_rough_370af228:
+translate russian bree_fuck_date_doggy_rough_0026b801:
     bree.say "Я уже... беременна!"
 
 # ch/bree/fuck.rpy:2196
@@ -34251,10 +32803,6 @@ translate russian bree_fuck_date_doggy_rough_5fa96054_1:
 # ch/bree/fuck.rpy:2257
 translate russian bree_fuck_date_doggy_rough_9c12cca4_1:
     mike.say "Вот как?"
-
-# ch/bree/fuck.rpy:2258
-translate russian bree_fuck_date_doggy_rough_9d5dfe89_1:
-    mike.say "Тебе нравится, [bree.name]?"
 
 # ch/bree/fuck.rpy:2259
 translate russian bree_fuck_date_doggy_rough_92e6a89e_1:
@@ -34425,16 +32973,12 @@ translate russian bree_fuck_date_cowgirl_97e8a61b:
     "Но всё же киваю, поскольку понимаю, о чём речь."
 
 # ch/bree/fuck.rpy:2322
-translate russian bree_fuck_date_cowgirl_e8ab3242:
+translate russian bree_fuck_date_cowgirl_4e79de52:
     mike.say "А... ты про механического быка?"
 
 # ch/bree/fuck.rpy:2323
 translate russian bree_fuck_date_cowgirl_cc6c8240:
     bree.say "Да, точно."
-
-# ch/bree/fuck.rpy:2324
-translate russian bree_fuck_date_cowgirl_c8517f74:
-    mike.say "А что с ним, [bree.name]?"
 
 # ch/bree/fuck.rpy:2325
 translate russian bree_fuck_date_cowgirl_1b59df79:
@@ -34443,10 +32987,6 @@ translate russian bree_fuck_date_cowgirl_1b59df79:
 # ch/bree/fuck.rpy:2326
 translate russian bree_fuck_date_cowgirl_bbed1638:
     bree.say "Всегда было интересно, каково на таком прокатиться."
-
-# ch/bree/fuck.rpy:2327
-translate russian bree_fuck_date_cowgirl_3e207c05:
-    mike.say "Хорошо, [bree.name]."
 
 # ch/bree/fuck.rpy:2328
 translate russian bree_fuck_date_cowgirl_354b8661:
@@ -34457,7 +32997,7 @@ translate russian bree_fuck_date_cowgirl_eca4fc01:
     bree.say "Конечно понимаю!"
 
 # ch/bree/fuck.rpy:2330
-translate russian bree_fuck_date_cowgirl_c0d9d65e:
+translate russian bree_fuck_date_cowgirl_6e137aa5:
     bree.say "Просто... подумала, может..."
 
 # ch/bree/fuck.rpy:2331
@@ -34471,10 +33011,6 @@ translate russian bree_fuck_date_cowgirl_7a99f6d3:
 # ch/bree/fuck.rpy:2333
 translate russian bree_fuck_date_cowgirl_41145f6f:
     "Да как тут можно отказать?!"
-
-# ch/bree/fuck.rpy:2334
-translate russian bree_fuck_date_cowgirl_8e5ee797:
-    mike.say "Конечно, [bree.name]."
 
 # ch/bree/fuck.rpy:2335
 translate russian bree_fuck_date_cowgirl_55665d26:
@@ -35088,10 +33624,6 @@ translate russian bree_fuck_date_reverse_cowgirl_e0a81dac:
 translate russian bree_fuck_date_reverse_cowgirl_0096e7df:
     bree.say "Знаешь механических быков в барах в ковбойском стиле?"
 
-# ch/bree/fuck.rpy:2593
-translate russian bree_fuck_date_reverse_cowgirl_7482cf49:
-    mike.say "Д-да, Бри..."
-
 # ch/bree/fuck.rpy:2594
 translate russian bree_fuck_date_reverse_cowgirl_6b4ab260:
     mike.say "Ну, вроде брыкающейся лошади?"
@@ -35107,10 +33639,6 @@ translate russian bree_fuck_date_reverse_cowgirl_f5332165:
 # ch/bree/fuck.rpy:2598
 translate russian bree_fuck_date_reverse_cowgirl_d200d8ec:
     bree.say "Сможешь потягаться с этой штукой?"
-
-# ch/bree/fuck.rpy:2599
-translate russian bree_fuck_date_reverse_cowgirl_766894c6:
-    mike.say "Ещё как, [bree.name]!"
 
 # ch/bree/fuck.rpy:2601
 translate russian bree_fuck_date_reverse_cowgirl_cb704584:
@@ -35131,10 +33659,6 @@ translate russian bree_fuck_date_reverse_cowgirl_1ac292b3:
 # ch/bree/fuck.rpy:2606
 translate russian bree_fuck_date_reverse_cowgirl_9c4293b0:
     bree.say "Для начала: держаться не за что!"
-
-# ch/bree/fuck.rpy:2607
-translate russian bree_fuck_date_reverse_cowgirl_1997060f:
-    mike.say "Может, и так, [bree.name]."
 
 # ch/bree/fuck.rpy:2608
 translate russian bree_fuck_date_reverse_cowgirl_993ac672:
@@ -35213,7 +33737,7 @@ translate russian bree_fuck_date_reverse_cowgirl_8b9c28d5:
     bree.say "Ну, держись!"
 
 # ch/bree/fuck.rpy:2630
-translate russian bree_fuck_date_reverse_cowgirl_2b131b85:
+translate russian bree_fuck_date_reverse_cowgirl_e834ec86:
     bree.say "О-о... ой, нет!"
 
 # ch/bree/fuck.rpy:2631
@@ -35231,10 +33755,6 @@ translate russian bree_fuck_date_reverse_cowgirl_dce86150:
 # ch/bree/fuck.rpy:2634
 translate russian bree_fuck_date_reverse_cowgirl_91b6bbe4:
     "Но, по-моему, я попал точно в цель!"
-
-# ch/bree/fuck.rpy:2635
-translate russian bree_fuck_date_reverse_cowgirl_9e65c712:
-    mike.say "Не переживай, [bree.name]!"
 
 # ch/bree/fuck.rpy:2636
 translate russian bree_fuck_date_reverse_cowgirl_1d4fe0fc:
@@ -35269,7 +33789,7 @@ translate russian bree_fuck_date_reverse_cowgirl_5af0053c:
     bree.say "Боже мой..."
 
 # ch/bree/fuck.rpy:2645
-translate russian bree_fuck_date_reverse_cowgirl_58401f7a:
+translate russian bree_fuck_date_reverse_cowgirl_be223f26:
     bree.say "Ты... ты у меня в попке!"
 
 # ch/bree/fuck.rpy:2646
@@ -35395,10 +33915,6 @@ translate russian bree_fuck_date_reverse_cowgirl_c984e0dc:
 # ch/bree/fuck.rpy:2687
 translate russian bree_fuck_date_reverse_cowgirl_9c12cca4:
     mike.say "Вот как?"
-
-# ch/bree/fuck.rpy:2688
-translate russian bree_fuck_date_reverse_cowgirl_2ed4f80f:
-    mike.say "У меня для тебя новость, [bree.name]..."
 
 # ch/bree/fuck.rpy:2689
 translate russian bree_fuck_date_reverse_cowgirl_24476836:
@@ -35532,10 +34048,6 @@ translate russian bree_fuck_date_reverse_cowgirl_c81014c0:
 translate russian bree_fuck_date_reverse_cowgirl_aefae6a6:
     "Она выглядит ошеломлённой и почти беспомощной!"
 
-# ch/bree/fuck.rpy:2751
-translate russian bree_fuck_date_reverse_cowgirl_ddf012f0:
-    mike.say "Готова, [bree.name]?"
-
 # ch/bree/fuck.rpy:2752
 translate russian bree_fuck_date_reverse_cowgirl_078d485a:
     bree.say "Эм... (обращается к Майку)"
@@ -35567,10 +34079,6 @@ translate russian bree_fuck_date_reverse_cowgirl_f8fdd153:
 # ch/bree/fuck.rpy:2759
 translate russian bree_fuck_date_reverse_cowgirl_3ef4d368:
     "Но я надёжно держу её и останавливаться не собираюсь."
-
-# ch/bree/fuck.rpy:2760
-translate russian bree_fuck_date_reverse_cowgirl_adae4118:
-    "Если Бри хочет прокатиться на механическом быке, я это устрою."
 
 # ch/bree/fuck.rpy:2761
 translate russian bree_fuck_date_reverse_cowgirl_b585f6c8:
@@ -35700,10 +34208,6 @@ translate russian bree_fuck_date_reverse_cowgirl_c984e0dc_1:
 translate russian bree_fuck_date_reverse_cowgirl_9c12cca4_1:
     mike.say "Вот как?"
 
-# ch/bree/fuck.rpy:2805
-translate russian bree_fuck_date_reverse_cowgirl_2ed4f80f_1:
-    mike.say "У меня для тебя новость, [bree.name]..."
-
 # ch/bree/fuck.rpy:2806
 translate russian bree_fuck_date_reverse_cowgirl_24476836_1:
     mike.say "Ты не одна такая!"
@@ -35769,11 +34273,11 @@ translate russian bree_fuck_date_reverse_cowgirl_b6868eb8_1:
     "Вскоре она течёт по животу обратно на мои бёдра."
 
 # ch/bree/fuck.rpy:2841
-translate russian bree_fuck_date_reverse_cowgirl_dbf55db1:
+translate russian bree_fuck_date_reverse_cowgirl_348c9859:
     bree.say "Я... пью... таблетки!"
 
 # ch/bree/fuck.rpy:2842
-translate russian bree_fuck_date_reverse_cowgirl_24901c9b:
+translate russian bree_fuck_date_reverse_cowgirl_b39e602d:
     bree.say "Так... что... не... останавливайся!"
 
 # ch/bree/fuck.rpy:2843
@@ -35809,11 +34313,11 @@ translate russian bree_fuck_date_reverse_cowgirl_6351aec3_1:
     "Но весь восторг вызывает то, как я наполняю её киску, кончая!"
 
 # ch/bree/fuck.rpy:2857
-translate russian bree_fuck_date_reverse_cowgirl_8766a3e0:
+translate russian bree_fuck_date_reverse_cowgirl_fdc0590a:
     bree.say "Я... уже... беременна!"
 
 # ch/bree/fuck.rpy:2858
-translate russian bree_fuck_date_reverse_cowgirl_24901c9b_1:
+translate russian bree_fuck_date_reverse_cowgirl_b39e602d_1:
     bree.say "Так... что... не... останавливайся!"
 
 # ch/bree/fuck.rpy:2859
@@ -35849,11 +34353,11 @@ translate russian bree_fuck_date_reverse_cowgirl_6351aec3_2:
     "Но весь восторг вызывает то, как я наполняю её киску, кончая!"
 
 # ch/bree/fuck.rpy:2873
-translate russian bree_fuck_date_reverse_cowgirl_c9f4f3e5:
+translate russian bree_fuck_date_reverse_cowgirl_cef50df1:
     bree.say "Пожалуйста... продолжай..."
 
 # ch/bree/fuck.rpy:2874
-translate russian bree_fuck_date_reverse_cowgirl_0c1f2ff5:
+translate russian bree_fuck_date_reverse_cowgirl_31d53980:
     bree.say "Не... останавливайся!"
 
 # ch/bree/fuck.rpy:2875
@@ -35889,7 +34393,7 @@ translate russian bree_fuck_date_reverse_cowgirl_33b8b7f6:
     "А мне не до восторга: я уже начинаю паниковать!"
 
 # ch/bree/fuck.rpy:2891
-translate russian bree_fuck_date_reverse_cowgirl_a91ed16c:
+translate russian bree_fuck_date_reverse_cowgirl_aed11eff:
     bree.say "Пожалуйста... остановись..."
 
 # ch/bree/fuck.rpy:2892
@@ -35960,10 +34464,6 @@ translate russian bree_fuck_date_missionary_7b18bba1:
 translate russian bree_fuck_date_missionary_beed7e1e:
     "Она всё ещё нервничает, украдкой поглядывает на меня и робко улыбается."
 
-# ch/bree/fuck.rpy:2923
-translate russian bree_fuck_date_missionary_07600907:
-    mike.say "Тебе нечего бояться, [bree.name]."
-
 # ch/bree/fuck.rpy:2925
 translate russian bree_fuck_date_missionary_58bf12b2:
     mike.say "Я ужасно хочу тебя, но, что бы ни происходило, ты всегда можешь сказать «нет»."
@@ -35973,7 +34473,7 @@ translate russian bree_fuck_date_missionary_de4e015b:
     "[bree.name] слышно сглатывает, но всё же кивает."
 
 # ch/bree/fuck.rpy:2927
-translate russian bree_fuck_date_missionary_51ee8cb6:
+translate russian bree_fuck_date_missionary_65aae7d0:
     bree.say "Х-хорошо, [hero.name]... я тебе доверяю."
 
 # ch/bree/fuck.rpy:2928
@@ -35981,15 +34481,11 @@ translate russian bree_fuck_date_missionary_8973cc76:
     "Вижу: она понимает, с каким голодом я сейчас смотрю на неё."
 
 # ch/bree/fuck.rpy:2930
-translate russian bree_fuck_date_missionary_c9e7f4a2:
+translate russian bree_fuck_date_missionary_472b7e57:
     bree.say "Ты можешь... можешь делать со мной... всё, что захочешь..."
 
-# ch/bree/fuck.rpy:2932
-translate russian bree_fuck_date_missionary_840de929:
-    bree.say "Ты можешь... можешь делать со своей малышкой... всё, что захочешь, папочка..."
-
 # ch/bree/fuck.rpy:2934
-translate russian bree_fuck_date_missionary_ed54ef11:
+translate russian bree_fuck_date_missionary_219dd3cc:
     bree.say "Ты можешь... можешь делать со мной... всё, что захочешь, хозяин..."
 
 # ch/bree/fuck.rpy:2935
@@ -36004,16 +34500,12 @@ translate russian bree_fuck_date_missionary_2b43c5f3:
 translate russian bree_fuck_date_missionary_158138a3:
     "На миг задерживаюсь, разглядывая её под собой: раскрасневшиеся щёки, прикушенную нижнюю губу."
 
-# ch/bree/fuck.rpy:2938
-translate russian bree_fuck_date_missionary_f8d975bd:
-    mike.say "Ты такая красивая, [bree.name]."
-
 # ch/bree/fuck.rpy:2939
 translate russian bree_fuck_date_missionary_678d58cd:
     "Она краснеет сильнее, взгляд теплеет, и ей приходится на секунду отвернуться."
 
 # ch/bree/fuck.rpy:2940
-translate russian bree_fuck_date_missionary_27a115a1:
+translate russian bree_fuck_date_missionary_094a1976:
     bree.say "Нельзя просто... говорить такое и ждать, что я сохраню самообладание..."
 
 # ch/bree/fuck.rpy:2941
@@ -36029,7 +34521,7 @@ translate russian bree_fuck_date_missionary_6033f458:
     "Спускаюсь ниже, целую вдоль ключицы, а пальцами лениво обвожу круги на её бедре."
 
 # ch/bree/fuck.rpy:2944
-translate russian bree_fuck_date_missionary_bf0b2aca:
+translate russian bree_fuck_date_missionary_19032425:
     bree.say "М-м-м... ладно, это... очень приятно..."
 
 # ch/bree/fuck.rpy:2945
@@ -36060,25 +34552,13 @@ translate russian bree_fuck_date_missionary_3d87a900:
 translate russian bree_fuck_date_missionary_8bae159e:
     bree.say "[hero.name]... ох, так нечестно..."
 
-# ch/bree/fuck.rpy:2953
-translate russian bree_fuck_date_missionary_5cd77dca:
-    "Каждое движение сильнее лишает её выдержки. Когда я отстраняюсь, её бёдра тянутся следом."
-
 # ch/bree/fuck.rpy:2954
 translate russian bree_fuck_date_missionary_3e954a2f:
     "Беру один сосок губами и обвожу языком. Она ахает и сжимает простыню в кулаке."
 
-# ch/bree/fuck.rpy:2956
-translate russian bree_fuck_date_missionary_fedb9f1f:
-    bree.say "Пожалуйста, я буду очень хорошей, только... дай мне его..."
-
 # ch/bree/fuck.rpy:2958
 translate russian bree_fuck_date_missionary_5e1ca173:
     bree.say "Ты сводишь меня с ума, знаешь? Совсем с ума..."
-
-# ch/bree/fuck.rpy:2959
-translate russian bree_fuck_date_missionary_b8751f11:
-    "Эта мольба в голосе, так непохожая на привычную книжную застенчивость, опьяняет."
 
 # ch/bree/fuck.rpy:2965
 translate russian bree_fuck_date_missionary_e1b7f74a:
@@ -36104,12 +34584,8 @@ translate russian bree_fuck_date_missionary_3d354738:
 translate russian bree_fuck_date_missionary_f651720e:
     "Она вжимает голову в подушки в поисках разрядки, а я наклоняюсь губами к её уху."
 
-# ch/bree/fuck.rpy:2971
-translate russian bree_fuck_date_missionary_e62f2036:
-    mike.say "Чего ты хочешь, [bree.name]?"
-
 # ch/bree/fuck.rpy:2972
-translate russian bree_fuck_date_missionary_6f3da4af:
+translate russian bree_fuck_date_missionary_db822a61:
     mike.say "Скажи, и получишь... прямо сейчас."
 
 # ch/bree/fuck.rpy:2973
@@ -36117,7 +34593,7 @@ translate russian bree_fuck_date_missionary_7acf9511:
     "Прежде чем ответить, [bree.name] издаёт сдавленный крик нетерпения."
 
 # ch/bree/fuck.rpy:2974
-translate russian bree_fuck_date_missionary_a1b4f933:
+translate russian bree_fuck_date_missionary_37817ad9:
     bree.say "Ух... твой член..."
 
 # ch/bree/fuck.rpy:2975
@@ -36125,7 +34601,7 @@ translate russian bree_fuck_date_missionary_49476d1a:
     bree.say "Хочу твой член внутри..."
 
 # ch/bree/fuck.rpy:2976
-translate russian bree_fuck_date_missionary_1bbcc46d:
+translate russian bree_fuck_date_missionary_a6e5588a:
     bree.say "[hero.name], пожалуйста... дай мне свой член!"
 
 # ch/bree/fuck.rpy:2978
@@ -36145,7 +34621,7 @@ translate russian bree_fuck_date_missionary_327af947:
     "Наполненная мной, [bree.name] издаёт что-то среднее между всхлипом и вздохом чистого облегчения."
 
 # ch/bree/fuck.rpy:2982
-translate russian bree_fuck_date_missionary_96e43ed5:
+translate russian bree_fuck_date_missionary_ee13ac61:
     bree.say "Ох... наконец-то... с тобой так хорошо, [hero.name]..."
 
 # ch/bree/fuck.rpy:2983
@@ -36177,7 +34653,7 @@ translate russian bree_fuck_date_missionary_5408b147:
     "[bree.name] обвивает мои ноги своими, прижимая к себе: получив меня, она больше не желает отпускать ни на сантиметр."
 
 # ch/bree/fuck.rpy:2990
-translate russian bree_fuck_date_missionary_cabd034b:
+translate russian bree_fuck_date_missionary_a0c56227:
     bree.say "Да... да, вот так, о боже, [hero.name]..."
 
 # ch/bree/fuck.rpy:2991
@@ -36185,11 +34661,11 @@ translate russian bree_fuck_date_missionary_cc021648:
     "Каждый толчок вырывает из неё новый прерывистый звук. Она держится за меня, будто я — единственная опора в мире."
 
 # ch/bree/fuck.rpy:2993
-translate russian bree_fuck_date_missionary_9e28cd07:
+translate russian bree_fuck_date_missionary_7514ab24:
     bree.say "Спасибо... спасибо, что используешь меня... люблю быть твоей..."
 
 # ch/bree/fuck.rpy:2995
-translate russian bree_fuck_date_missionary_8912d6b6:
+translate russian bree_fuck_date_missionary_7def2c3c:
     bree.say "Сильнее... пожалуйста, хочу чувствовать это ещё несколько дней..."
 
 # ch/bree/fuck.rpy:2997
@@ -36285,7 +34761,7 @@ translate russian bree_fuck_date_missionary_ad50540e:
     "Ничто не может удержать меня от долгого, сильного оргазма."
 
 # ch/bree/fuck.rpy:3047
-translate russian bree_fuck_date_missionary_c9c7da72:
+translate russian bree_fuck_date_missionary_8401a3c3:
     bree.say "Ах... ах... [hero.name]!"
 
 # ch/bree/fuck.rpy:3049
@@ -36325,7 +34801,7 @@ translate russian bree_fuck_date_missionary_ad50540e_1:
     "Ничто не может удержать меня от долгого, сильного оргазма."
 
 # ch/bree/fuck.rpy:3066
-translate russian bree_fuck_date_missionary_c9c7da72_1:
+translate russian bree_fuck_date_missionary_8401a3c3_1:
     bree.say "Ах... ах... [hero.name]!"
 
 # ch/bree/fuck.rpy:3068
@@ -36365,7 +34841,7 @@ translate russian bree_fuck_date_missionary_ad50540e_2:
     "Ничто не может удержать меня от долгого, сильного оргазма."
 
 # ch/bree/fuck.rpy:3086
-translate russian bree_fuck_date_missionary_c9c7da72_2:
+translate russian bree_fuck_date_missionary_8401a3c3_2:
     bree.say "Ах... ах... [hero.name]!"
 
 # ch/bree/fuck.rpy:3088
@@ -36401,7 +34877,7 @@ translate russian bree_fuck_date_missionary_b4a27fd8_2:
     bree.say "Вот это да..."
 
 # ch/bree/fuck.rpy:3099
-translate russian bree_fuck_date_missionary_3e93de02:
+translate russian bree_fuck_date_missionary_a0a94f54:
     bree.say "Но тебе обязательно было... кончать внутрь?"
 
 # ch/bree/fuck.rpy:3102
@@ -36421,7 +34897,7 @@ translate russian bree_fuck_date_missionary_b2e2436f:
     "Знаю, звучит по-мудацки. Но она ведь сказала, что сделает всё, чего я захочу."
 
 # ch/bree/fuck.rpy:3108
-translate russian bree_fuck_date_missionary_153fc177:
+translate russian bree_fuck_date_missionary_cc91978e:
     bree.say "Я... мне надо... надо идти. Сейчас!"
 
 # ch/bree/fuck.rpy:3110
@@ -36431,10 +34907,6 @@ translate russian bree_fuck_date_missionary_6a2036b2:
 # ch/bree/fuck.rpy:3111
 translate russian bree_fuck_date_missionary_9588f2ee:
     "Я что-то не то сказал?"
-
-# ch/bree/fuck.rpy:3114
-translate russian bree_fuck_date_missionary_422dc9b1:
-    mike.say "Боже, мне так жаль, [bree.name]."
 
 # ch/bree/fuck.rpy:3115
 translate russian bree_fuck_date_missionary_67b0e8d5:
@@ -36473,7 +34945,7 @@ translate russian bree_fuck_date_missionary_ad50540e_3:
     "Ничто не может удержать меня от долгого, сильного оргазма."
 
 # ch/bree/fuck.rpy:3129
-translate russian bree_fuck_date_missionary_c9c7da72_3:
+translate russian bree_fuck_date_missionary_8401a3c3_3:
     bree.say "Ах... ах... [hero.name]!"
 
 # ch/bree/fuck.rpy:3131
@@ -36509,7 +34981,7 @@ translate russian bree_fuck_date_missionary_b4a27fd8_3:
     bree.say "Вот это да..."
 
 # ch/bree/fuck.rpy:3142
-translate russian bree_fuck_date_missionary_3e93de02_1:
+translate russian bree_fuck_date_missionary_a0a94f54_1:
     bree.say "Но тебе обязательно было... кончать внутрь?"
 
 # ch/bree/fuck.rpy:3145
@@ -36529,16 +35001,12 @@ translate russian bree_fuck_date_missionary_b2e2436f_1:
     "Знаю, звучит по-мудацки. Но она ведь сказала, что сделает всё, чего я захочу."
 
 # ch/bree/fuck.rpy:3149
-translate russian bree_fuck_date_missionary_3fee8fa6:
+translate russian bree_fuck_date_missionary_f09f2f6d:
     bree.say "Ох... ладно, [hero.name]... если ты счастлив, то и я тоже..."
 
 # ch/bree/fuck.rpy:3150
 translate russian bree_fuck_date_missionary_17193190:
     "Вижу, что это неправда. Но пока она пытается скрыть недовольство, я в выигрыше."
-
-# ch/bree/fuck.rpy:3154
-translate russian bree_fuck_date_missionary_422dc9b1_1:
-    mike.say "Боже, мне так жаль, [bree.name]."
 
 # ch/bree/fuck.rpy:3155
 translate russian bree_fuck_date_missionary_67b0e8d5_1:
@@ -36588,10 +35056,6 @@ translate russian bree_fuck_date_spoon_4a7d9ca6:
 translate russian bree_fuck_date_spoon_e763128f:
     "А если усну на полпути, может, [bree.name] сама о себе позаботится!"
 
-# ch/bree/fuck.rpy:3171
-translate russian bree_fuck_date_spoon_3e207c05:
-    mike.say "Хорошо, [bree.name]."
-
 # ch/bree/fuck.rpy:3172
 translate russian bree_fuck_date_spoon_19dcc00e:
     mike.say "Только медленно и нежно, ладно?"
@@ -36621,7 +35085,7 @@ translate russian bree_fuck_date_spoon_2d2f6e2f:
     "В этой полусонной близости исчезает вся тревога и остаётся лишь тепло."
 
 # ch/bree/fuck.rpy:3179
-translate russian bree_fuck_date_spoon_1eaab5b2:
+translate russian bree_fuck_date_spoon_6def7c03:
     bree.say "М-м-м... как приятно..."
 
 # ch/bree/fuck.rpy:3180
@@ -36665,19 +35129,15 @@ translate russian bree_fuck_date_spoon_8a9e9bee:
     "Она тихо смеётся и заводит руку назад, перебирая мои волосы."
 
 # ch/bree/fuck.rpy:3191
-translate russian bree_fuck_date_spoon_ee1ca042:
+translate russian bree_fuck_date_spoon_4fb8df21:
     bree.say "Тогда не останавливайся... Мне нравится, когда ты решаешь, что со мной будет..."
-
-# ch/bree/fuck.rpy:3192
-translate russian bree_fuck_date_spoon_c4773dd0:
-    "Её тепло и медленное скольжение кожи по коже вскоре заставляют член затвердеть у поясницы."
 
 # ch/bree/fuck.rpy:3193
 translate russian bree_fuck_date_spoon_44344b8f:
     "[bree.name], конечно, замечает и сонно, довольно прижимается ко мне бёдрами."
 
 # ch/bree/fuck.rpy:3194
-translate russian bree_fuck_date_spoon_7e3a6e64:
+translate russian bree_fuck_date_spoon_1e79f9d3:
     bree.say "Вот и ты... А я гадала, сколько времени понадобится."
 
 # ch/bree/fuck.rpy:3195
@@ -36685,7 +35145,7 @@ translate russian bree_fuck_date_spoon_a8d8483c:
     "Тихо смеюсь в её волосы. Ладонью на животе удерживаю её именно там, где хочу."
 
 # ch/bree/fuck.rpy:3196
-translate russian bree_fuck_date_spoon_fd9d3094:
+translate russian bree_fuck_date_spoon_15dcac99:
     bree.say "М-м-м... знаешь, я могла бы так остаться навсегда."
 
 # ch/bree/fuck.rpy:3197
@@ -36745,12 +35205,8 @@ translate russian bree_fuck_date_spoon_2e90d208:
     "Я лишь дразняще прижимаю головку, и она издаёт едва слышный жалобный стон."
 
 # ch/bree/fuck.rpy:3219
-translate russian bree_fuck_date_spoon_56e1595a:
+translate russian bree_fuck_date_spoon_f3952f7b:
     bree.say "Не дразни... я уже такая тёплая и готовая для тебя..."
-
-# ch/bree/fuck.rpy:3220
-translate russian bree_fuck_date_spoon_b3e1efc3:
-    "Это самое явное нетерпение, на которое способна такая сонная девушка. И оно кажется мне невыносимо милым."
 
 # ch/bree/fuck.rpy:3222
 translate russian bree_fuck_date_spoon_0dbe3b78:
@@ -36785,7 +35241,7 @@ translate russian bree_fuck_date_spoon_75cb5024:
     "[bree.name] долго, расслабленно гудит в подушку от чистого довольства."
 
 # ch/bree/fuck.rpy:3231
-translate russian bree_fuck_date_spoon_3d4c8f9e:
+translate russian bree_fuck_date_spoon_a491f32f:
     bree.say "Вот так... именно так... хорошо и медленно..."
 
 # ch/bree/fuck.rpy:3232
@@ -36797,7 +35253,7 @@ translate russian bree_fuck_date_spoon_df8cfa2e:
     "Время от времени она направляет мои пальцы именно туда, куда хочет, и вздыхает, когда я угадываю."
 
 # ch/bree/fuck.rpy:3234
-translate russian bree_fuck_date_spoon_0de69005:
+translate russian bree_fuck_date_spoon_e46d6793:
     bree.say "Ты всегда знаешь... всегда знаешь, как меня трогать..."
 
 # ch/bree/fuck.rpy:3235
@@ -36809,7 +35265,7 @@ translate russian bree_fuck_date_spoon_ab783587:
     "Она тянется назад и удерживает меня близко и глубоко, не желая ни малейшего расстояния между нами."
 
 # ch/bree/fuck.rpy:3237
-translate russian bree_fuck_date_spoon_33758809:
+translate russian bree_fuck_date_spoon_02dd000b:
     bree.say "М-м-м... чувствую, как ты увеличиваешься внутри... уже близко?"
 
 # ch/bree/fuck.rpy:3238
@@ -36817,7 +35273,7 @@ translate russian bree_fuck_date_spoon_f80c9013:
     "Голос густой от сна и наслаждения, и он ничуть меня не замедляет."
 
 # ch/bree/fuck.rpy:3239
-translate russian bree_fuck_date_spoon_df7884c5:
+translate russian bree_fuck_date_spoon_397b3c91:
     bree.say "Всё хорошо... отпусти себя, [hero.name]... я с тобой..."
 
 # ch/bree/fuck.rpy:3240
@@ -37224,10 +35680,6 @@ translate russian bree_fuck_sasha_bedroom_intro_42ef0408:
 translate russian bree_fuck_sasha_bedroom_intro_d4aa21df:
     mike.say "Ох..."
 
-# ch/bree/fuck.rpy:3404
-translate russian bree_fuck_sasha_bedroom_intro_1a0829b9:
-    mike.say "Привет, [bree.name]!"
-
 # ch/bree/fuck.rpy:3405
 translate russian bree_fuck_sasha_bedroom_intro_47366b2a:
     mike.say "Что случилось?"
@@ -37283,10 +35735,6 @@ translate russian bree_fuck_sasha_bedroom_intro_bb74e754:
 # ch/bree/fuck.rpy:3422
 translate russian bree_fuck_sasha_bedroom_intro_13273389:
     "И мы оказываемся перед спальней Саши."
-
-# ch/bree/fuck.rpy:3426
-translate russian bree_fuck_sasha_bedroom_intro_3dc7f442:
-    mike.say "[bree.name]..."
 
 # ch/bree/fuck.rpy:3427
 translate russian bree_fuck_sasha_bedroom_intro_ec4150dc:
@@ -37356,10 +35804,6 @@ translate russian bree_fuck_sasha_bedroom_25b9d973:
 translate russian bree_fuck_sasha_bedroom_a11aa0b7:
     "Оборачиваюсь: [bree.name] уже роется в вещах Саши."
 
-# ch/bree/fuck.rpy:3462
-translate russian bree_fuck_sasha_bedroom_4f11dbc7:
-    mike.say "[bree.name]!"
-
 # ch/bree/fuck.rpy:3463
 translate russian bree_fuck_sasha_bedroom_59e068b7:
     mike.say "Нам нельзя здесь находиться!"
@@ -37387,10 +35831,6 @@ translate russian bree_fuck_sasha_bedroom_af1354bf:
 # ch/bree/fuck.rpy:3470
 translate russian bree_fuck_sasha_bedroom_effef4ae:
     bree.say "Она ведь уже разрешала нам трахаться на её кровати!"
-
-# ch/bree/fuck.rpy:3471
-translate russian bree_fuck_sasha_bedroom_570234fe:
-    mike.say "Да, [bree.name], вместе с ней!"
 
 # ch/bree/fuck.rpy:3472
 translate russian bree_fuck_sasha_bedroom_2ba74cc2:
@@ -37463,10 +35903,6 @@ translate russian bree_fuck_sasha_bedroom_b4f708ba:
 # ch/bree/fuck.rpy:3492
 translate russian bree_fuck_sasha_bedroom_5d27c2f5:
     "Хочется отругать [bree.name] и утащить её отсюда, но я всё же невольно посмеиваюсь над пародией."
-
-# ch/bree/fuck.rpy:3493
-translate russian bree_fuck_sasha_bedroom_0de66674:
-    mike.say "Ладно, [bree.name]... Сашу ты изобразила отлично!"
 
 # ch/bree/fuck.rpy:3494
 translate russian bree_fuck_sasha_bedroom_c4a19964:
@@ -37725,7 +36161,7 @@ translate russian bree_fuck_sasha_bedroom_d0207f9e:
     bree.say "Не сдерживайся..."
 
 # ch/bree/fuck.rpy:3610
-translate russian bree_fuck_sasha_bedroom_a3b1ca62:
+translate russian bree_fuck_sasha_bedroom_524733d1:
     bree.say "Пожалуйста... наполни меня!"
 
 # ch/bree/fuck.rpy:3611
@@ -37821,7 +36257,7 @@ translate russian bree_fuck_sasha_bedroom_9920efc1:
     bree.say "О, блин..."
 
 # ch/bree/fuck.rpy:3647
-translate russian bree_fuck_sasha_bedroom_2f85c1e1:
+translate russian bree_fuck_sasha_bedroom_2c1fac21:
     bree.say "Я не... не выдержу!"
 
 # ch/bree/fuck.rpy:3648
@@ -37893,7 +36329,7 @@ translate russian bree_fuck_sasha_bedroom_78118e27:
     bree.say "Делай..."
 
 # ch/bree/fuck.rpy:3678
-translate russian bree_fuck_sasha_bedroom_b91a6857:
+translate russian bree_fuck_sasha_bedroom_2513e3c2:
     bree.say "Я пью... таблетки!"
 
 # ch/bree/fuck.rpy:3679
@@ -37929,7 +36365,7 @@ translate russian bree_fuck_sasha_bedroom_78118e27_1:
     bree.say "Делай..."
 
 # ch/bree/fuck.rpy:3692
-translate russian bree_fuck_sasha_bedroom_fd3e9477:
+translate russian bree_fuck_sasha_bedroom_d97e07b8:
     bree.say "Я же беременна... помнишь?!"
 
 # ch/bree/fuck.rpy:3693
@@ -38044,10 +36480,6 @@ translate russian bree_fuck_sasha_bedroom_7f533188_1:
 translate russian bree_fuck_sasha_bedroom_40dcff36_1:
     bree.say "[hero.name], ну ты зверь!"
 
-# ch/bree/fuck.rpy:3744
-translate russian bree_fuck_sasha_bedroom_3b9cbdd2:
-    mike.say "О, ты даже не представляешь, [bree.name]!"
-
 # ch/bree/fuck.rpy:3745
 translate russian bree_fuck_sasha_bedroom_6d35938b:
     "Крепче обхватив [bree.name] за талию, я подаюсь вперёд."
@@ -38121,7 +36553,7 @@ translate russian bree_fuck_sasha_bedroom_d0207f9e_1:
     bree.say "Не сдерживайся..."
 
 # ch/bree/fuck.rpy:3765
-translate russian bree_fuck_sasha_bedroom_a3b1ca62_1:
+translate russian bree_fuck_sasha_bedroom_524733d1_1:
     bree.say "Пожалуйста... наполни меня!"
 
 # ch/bree/fuck.rpy:3766
@@ -38265,7 +36697,7 @@ translate russian bree_fuck_sasha_bedroom_9920efc1_1:
     bree.say "О, блин..."
 
 # ch/bree/fuck.rpy:3814
-translate russian bree_fuck_sasha_bedroom_2f85c1e1_1:
+translate russian bree_fuck_sasha_bedroom_2c1fac21_1:
     bree.say "Я не... не выдержу!"
 
 # ch/bree/fuck.rpy:3815
@@ -38516,10 +36948,6 @@ translate russian bree_zbox_penalty_8e551e67:
 translate russian bree_zbox_penalty_cbae18ab:
     bree.say "Ни за что!"
 
-# ch/bree/fuck.rpy:3932
-translate russian bree_zbox_penalty_61abe35f:
-    mike.say "Ну же, [bree.name]..."
-
 # ch/bree/fuck.rpy:3933
 translate russian bree_zbox_penalty_68e99201:
     mike.say "Уговор есть уговор."
@@ -38765,15 +37193,15 @@ translate russian bree_zbox_penalty_4f4fe9e9:
     "И держится за него так, будто от этого зависит её жизнь!"
 
 # ch/bree/fuck.rpy:4010
-translate russian bree_zbox_penalty_d6483790:
+translate russian bree_zbox_penalty_3e3fcb48:
     bree.say "С... с..."
 
 # ch/bree/fuck.rpy:4011
-translate russian bree_zbox_penalty_806ddde0:
+translate russian bree_zbox_penalty_b0582832:
     bree.say "Силь... сильнее..."
 
 # ch/bree/fuck.rpy:4012
-translate russian bree_zbox_penalty_5981b950:
+translate russian bree_zbox_penalty_39a86b3f:
     bree.say "Трахни... меня... сильнее!"
 
 # ch/bree/fuck.rpy:4013
@@ -39005,15 +37433,15 @@ translate russian bree_zbox_penalty_4f4fe9e9_1:
     "И держится за него так, будто от этого зависит её жизнь!"
 
 # ch/bree/fuck.rpy:4094
-translate russian bree_zbox_penalty_d6483790_1:
+translate russian bree_zbox_penalty_3e3fcb48_1:
     bree.say "С... с..."
 
 # ch/bree/fuck.rpy:4095
-translate russian bree_zbox_penalty_806ddde0_1:
+translate russian bree_zbox_penalty_b0582832_1:
     bree.say "Силь... сильнее..."
 
 # ch/bree/fuck.rpy:4096
-translate russian bree_zbox_penalty_5981b950_1:
+translate russian bree_zbox_penalty_39a86b3f_1:
     bree.say "Трахни... меня... сильнее!"
 
 # ch/bree/fuck.rpy:4097
@@ -39433,7 +37861,7 @@ translate russian get_bree_lapdance_7ceaf8fc:
     bree.say "Ты будто меня боишься!"
 
 # ch/bree/fuck.rpy:4252
-translate russian get_bree_lapdance_35651160:
+translate russian get_bree_lapdance_f205711b:
     bree.say "О... кажется, я поняла, в чём дело."
 
 # ch/bree/fuck.rpy:4253
@@ -39469,7 +37897,7 @@ translate russian get_bree_lapdance_9fb04822:
     "А улыбка, которая появляется на её лице, когда я её касаюсь..."
 
 # ch/bree/fuck.rpy:4262
-translate russian get_bree_lapdance_b5e40a5a:
+translate russian get_bree_lapdance_a9b65d71:
     "Боже... чувствую, как от этого с каждой секундой твердею всё сильнее!"
 
 # ch/bree/fuck.rpy:4263
@@ -39551,10 +37979,6 @@ translate russian get_bree_lapdance_887e6e48:
 # ch/bree/fuck.rpy:4293
 translate russian get_bree_lapdance_c68cc434:
     mike.say "Ох, чёрт..."
-
-# ch/bree/fuck.rpy:4295
-translate russian get_bree_lapdance_4f11dbc7:
-    mike.say "[bree.name]!"
 
 # ch/bree/fuck.rpy:4297
 translate russian get_bree_lapdance_94787a36:
@@ -39652,10 +38076,6 @@ translate russian bree_give_male_db3c6d67:
 translate russian bree_give_male_6a8defce:
     bree.say "Спасибо, [hero.name]. Знаю, вышло кривовато... С геймпадом я управляюсь куда лучше, чем со спицами!"
 
-# ch/bree/gift.rpy:37
-translate russian bree_give_male_137ec0b7:
-    mike.say "Спасибо, [bree.name]."
-
 # ch/bree/gift.rpy:40
 translate russian bree_give_male_a257e5e8:
     "Она протягивает мне коробку, явно из кондитерской."
@@ -39675,10 +38095,6 @@ translate russian bree_give_valentine_male_3ab8325e:
 # ch/bree/gift.rpy:50
 translate russian bree_give_valentine_male_3aed6b20:
     "[bree.name] протягивает мне коробку шоколадных конфет."
-
-# ch/bree/gift.rpy:51
-translate russian bree_give_valentine_male_7159a547:
-    mike.say "Спасибо, [bree.name]."
 
 # ch/bree/gift.rpy:56
 translate russian bree_give_birthday_male_b3aa5463:
@@ -39856,10 +38272,6 @@ translate russian bree_gift_collar_male_acc97fd0:
 translate russian bree_gift_collar_male_dfaa244c:
     "Остаётся только выбрать момент..."
 
-# ch/bree/gift.rpy:159
-translate russian bree_gift_collar_male_fe7e321b:
-    mike.say "Слушай, [bree.name]..."
-
 # ch/bree/gift.rpy:160
 translate russian bree_gift_collar_male_97512740:
     mike.say "У меня для тебя кое-что есть."
@@ -39929,7 +38341,7 @@ translate russian bree_gift_collar_male_8dd3c776:
     bree.say "Может, что-то для бассейна?"
 
 # ch/bree/gift.rpy:180
-translate russian bree_gift_collar_male_f812e243:
+translate russian bree_gift_collar_male_227f1a3d:
     bree.say "Или... или сексуальное бельё, да?!"
 
 # ch/bree/gift.rpy:181
@@ -39999,10 +38411,6 @@ translate russian bree_gift_collar_male_0a880397:
 # ch/bree/gift.rpy:199
 translate russian bree_gift_collar_male_b730d2c5:
     "С трудом беру себя в руки, чтобы ответить."
-
-# ch/bree/gift.rpy:200
-translate russian bree_gift_collar_male_c49e7e64:
-    mike.say "Ну, понимаешь, [bree.name]..."
 
 # ch/bree/gift.rpy:201
 translate russian bree_gift_collar_male_831c0209:
@@ -40080,10 +38488,6 @@ translate russian bree_gift_collar_male_060a72c3:
 translate russian bree_gift_collar_male_4a5ae58e:
     "А теперь она ухитрилась перевернуть всё с ног на голову!"
 
-# ch/bree/gift.rpy:226
-translate russian bree_gift_collar_male_99b01efb:
-    mike.say "З-звучит отлично, [bree.name]!"
-
 # ch/bree/gift.rpy:227
 translate russian bree_gift_collar_male_6136b4ee:
     mike.say "Но, может, немного подождём?"
@@ -40101,7 +38505,7 @@ translate russian bree_gift_collar_male_709b41ad:
     "И ОЧЕНЬ убедительно скулит."
 
 # ch/bree/gift.rpy:231
-translate russian bree_gift_collar_male_dd5af811:
+translate russian bree_gift_collar_male_4b21ec34:
     bree.say "Ну вот... теперь твоему щеночку грустно!"
 
 # ch/bree/gift.rpy:232
@@ -40160,10 +38564,6 @@ translate russian bree_gift_collar_male_60011c00:
 translate russian bree_gift_collar_male_4210b0ff:
     "Ни оправдания, ни объяснения наготове у меня нет."
 
-# ch/bree/gift.rpy:251
-translate russian bree_gift_collar_male_22ed606c:
-    mike.say "Э-это просто ради забавы, [bree.name]!"
-
 # ch/bree/gift.rpy:252
 translate russian bree_gift_collar_male_0f31f5a2:
     mike.say "Ну, можно надеть и посмеяться!"
@@ -40215,10 +38615,6 @@ translate russian bree_gift_collar_male_9e7a22e9:
 # ch/bree/gift.rpy:266
 translate russian bree_gift_collar_male_bc453149:
     "Вдруг она сейчас ещё и замахнётся!"
-
-# ch/bree/gift.rpy:267
-translate russian bree_gift_collar_male_77830841:
-    mike.say "Ладно, [bree.name], ладно!"
 
 # ch/bree/gift.rpy:268
 translate russian bree_gift_collar_male_a2b8081e:
@@ -40348,10 +38744,6 @@ translate russian bree_gift_slutty_dress_male_eb8e255b:
 translate russian bree_gift_slutty_dress_male_6e154b71:
     mike.say "Ладно, ладно..."
 
-# ch/bree/gift.rpy:323
-translate russian bree_gift_slutty_dress_male_55ac19ad:
-    mike.say "Твоя взяла, [bree.name]. Сдаюсь!"
-
 # ch/bree/gift.rpy:324
 translate russian bree_gift_slutty_dress_male_a302ff83:
     "Я достаю коробку и протягиваю её [bree.name]."
@@ -40440,10 +38832,6 @@ translate russian bree_gift_slutty_dress_male_8a6ac858:
 translate russian bree_gift_slutty_dress_male_3b5d67d1:
     "И всё ещё с трудом верю, что она в таком восторге."
 
-# ch/bree/gift.rpy:353
-translate russian bree_gift_slutty_dress_male_3216dd00:
-    mike.say "Ну, тут не только моя заслуга, [bree.name]."
-
 # ch/bree/gift.rpy:354
 translate russian bree_gift_slutty_dress_male_e97c213f:
     mike.say "Без тебя я бы до этого не додумался."
@@ -40524,10 +38912,6 @@ translate russian bree_gift_slutty_dress_male_c8676877:
 translate russian bree_gift_slutty_dress_male_60e205db:
     "Я бы скорее назвал его авангардным."
 
-# ch/bree/gift.rpy:381
-translate russian bree_gift_slutty_dress_male_22f0c35c:
-    mike.say "Серьезно, [bree.name]?"
-
 # ch/bree/gift.rpy:382
 translate russian bree_gift_slutty_dress_male_bfddaf54:
     mike.say "Я думал, ты свободнее от предрассудков!"
@@ -40576,10 +38960,6 @@ translate russian bree_gift_butt_plug_male_69dc6133:
 translate russian bree_gift_butt_plug_male_4d7fcff5:
     bree.say "Спасибо, [hero.name]. Обязательно пригодится."
 
-# ch/bree/reactions.rpy:2
-translate russian bree_ice_cream_reaction_male_0ff08367:
-    mike.say "Знаешь, что нам сейчас нужно для полного счастья, [bree.name]? Мороженое!"
-
 # ch/bree/reactions.rpy:3
 translate russian bree_ice_cream_reaction_male_01a9b132:
     bree.say "О да! С мороженым всё становится лучше!"
@@ -40593,11 +38973,11 @@ translate russian bree_ice_cream_reaction_male_ff8d40b4:
     "[bree.name] берёт такой же рожок, но выбирает другое сочетание вкусов."
 
 # ch/bree/reactions.rpy:6
-translate russian bree_ice_cream_reaction_male_3bde6de0:
+translate russian bree_ice_cream_reaction_male_a145ff29:
     bree.say "М-м-м... как вкусно!"
 
 # ch/bree/reactions.rpy:7
-translate russian bree_ice_cream_reaction_male_18f47563:
+translate russian bree_ice_cream_reaction_male_19950753:
     bree.say "Я... ой, холодно!"
 
 # ch/bree/reactions.rpy:8
@@ -40611,10 +38991,6 @@ translate russian bree_ice_cream_reaction_male_fd0898be:
 # ch/bree/reactions.rpy:10
 translate russian bree_ice_cream_reaction_male_1f296b57:
     bree.say "Ой, какой ужас! Наверное, ты считаешь меня ужасной растяпой!"
-
-# ch/bree/reactions.rpy:11
-translate russian bree_ice_cream_reaction_male_578a8ca3:
-    mike.say "А... да, [bree.name]... именно об этом я сейчас и думаю!"
 
 # ch/bree/reactions.rpy:15
 translate russian bree_study_with_intro_male_41dd22ef:
@@ -40635,10 +39011,6 @@ translate russian bree_study_with_intro_male_bd02b7d8:
 # ch/bree/reactions.rpy:19
 translate russian bree_study_with_intro_male_14a543ac:
     bree.say "Очень здорово, что ты мне помогаешь!"
-
-# ch/bree/reactions.rpy:20
-translate russian bree_study_with_intro_male_e3b2765b:
-    mike.say "Не за что, [bree.name]."
 
 # ch/bree/reactions.rpy:21
 translate russian bree_study_with_intro_male_bb766d06:
@@ -40704,10 +39076,6 @@ translate russian bree_study_with_success_male_843bbb89:
 translate russian bree_study_with_success_male_e1d914e5:
     mike.say "Хм..."
 
-# ch/bree/reactions.rpy:40
-translate russian bree_study_with_success_male_2666d110:
-    mike.say "Не уверен, [bree.name]."
-
 # ch/bree/reactions.rpy:41
 translate russian bree_study_with_success_male_d86ba035:
     mike.say "Но она напоминает задачу, которая была парой страниц раньше."
@@ -40739,10 +39107,6 @@ translate russian bree_study_with_success_male_bc040a2f:
 # ch/bree/reactions.rpy:48
 translate russian bree_study_with_success_male_9210621d:
     bree.say "Спасибо, сама бы ни за что не вспомнила!"
-
-# ch/bree/reactions.rpy:49
-translate russian bree_study_with_success_male_2a2b60a2:
-    mike.say "Уверен, вспомнила бы, [bree.name]."
 
 # ch/bree/reactions.rpy:50
 translate russian bree_study_with_success_male_ea8f01b9:
@@ -40784,10 +39148,6 @@ translate russian bree_study_with_failure_male_97d0008d:
 translate russian bree_study_with_failure_male_30e74fc5:
     mike.say "Эм..."
 
-# ch/bree/reactions.rpy:63
-translate russian bree_study_with_failure_male_339179d1:
-    mike.say "Не знаю, [bree.name]."
-
 # ch/bree/reactions.rpy:64
 translate russian bree_study_with_failure_male_74408a68:
     mike.say "Ты точно не вверх ногами на это смотришь?"
@@ -40805,7 +39165,7 @@ translate russian bree_study_with_failure_male_f1548778:
     bree.say "Конечно, не вверх ногами!"
 
 # ch/bree/reactions.rpy:68
-translate russian bree_study_with_failure_male_4b6585fd:
+translate russian bree_study_with_failure_male_9e3a6f99:
     bree.say "Погоди... ты что..."
 
 # ch/bree/reactions.rpy:69
@@ -40825,7 +39185,7 @@ translate russian bree_study_with_failure_male_7cd79698:
     mike.say "Я не..."
 
 # ch/bree/reactions.rpy:73
-translate russian bree_study_with_failure_male_358b45fa:
+translate russian bree_study_with_failure_male_466a3be8:
     mike.say "То есть да... но..."
 
 # ch/bree/reactions.rpy:74
@@ -40839,10 +39199,6 @@ translate russian bree_study_with_failure_male_250b11aa:
 # ch/bree/reactions.rpy:76
 translate russian bree_study_with_failure_male_2dd4a77f:
     bree.say "Не нужна мне помощь тупого извращенца вроде тебя!"
-
-# ch/bree/reactions.rpy:80
-translate russian bree_ask_phone_male_243b8063:
-    mike.say "Слушай, [bree.name]..."
 
 # ch/bree/reactions.rpy:81
 translate russian bree_ask_phone_male_1de19858:
@@ -40863,10 +39219,6 @@ translate russian bree_ask_phone_male_212046e4:
 # ch/bree/reactions.rpy:92
 translate russian bree_ask_phone_male_f6879fdc:
     bree.say "Мы ведь в одном доме живём!"
-
-# ch/bree/reactions.rpy:96
-translate russian bree_ask_birthday_male_e3d231ce:
-    mike.say "Когда у тебя день рождения, [bree.name]?"
 
 # ch/bree/reactions.rpy:97
 translate russian bree_ask_birthday_male_99f03445:
@@ -40899,10 +39251,6 @@ translate russian bree_ask_birthday_male_d619d089:
 # ch/bree/reactions.rpy:114
 translate russian bree_offer_a_drink_male_3ed1bd45:
     mike.say "Кажется, пора заказать ещё по одной!"
-
-# ch/bree/reactions.rpy:115
-translate russian bree_offer_a_drink_male_f34707a9:
-    mike.say "Ты с нами, [bree.name]?"
 
 # ch/bree/reactions.rpy:116
 translate russian bree_offer_a_drink_male_f736c0cf:
@@ -41036,10 +39384,6 @@ translate russian bree_breakup_male_df18acc7:
 translate russian bree_breakup_male_fe4dccf5:
     "И надо поговорить прямо сейчас, чтобы покончить с этим."
 
-# ch/bree/reactions.rpy:182
-translate russian bree_breakup_male_3dc7f442:
-    mike.say "[bree.name]..."
-
 # ch/bree/reactions.rpy:183
 translate russian bree_breakup_male_2e808e76:
     mike.say "Не знаю, как сказать помягче..."
@@ -41076,16 +39420,12 @@ translate russian bree_breakup_male_3ea4a411:
 translate russian bree_breakup_male_05dc2318:
     "Поэтому продолжаю, как могу, пытаясь выговорить то, что должен."
 
-# ch/bree/reactions.rpy:192
-translate russian bree_breakup_male_e3cb1b2c:
-    mike.say "Дело в нас, [bree.name]."
-
 # ch/bree/reactions.rpy:193
-translate russian bree_breakup_male_eb521195:
+translate russian bree_breakup_male_b7f0be8d:
     mike.say "Я... мне кажется, у нас ничего не получается."
 
 # ch/bree/reactions.rpy:194
-translate russian bree_breakup_male_bcdc1a4b:
+translate russian bree_breakup_male_b2cd68de:
     mike.say "В общем... думаю, нам стоит расстаться."
 
 # ch/bree/reactions.rpy:196
@@ -41127,10 +39467,6 @@ translate russian bree_breakup_male_28b26e81:
 # ch/bree/reactions.rpy:205
 translate russian bree_breakup_male_1b787f44:
     "И с каждым словом только нарастает."
-
-# ch/bree/reactions.rpy:206
-translate russian bree_breakup_male_f9f077ef:
-    mike.say "Это не конец света, [bree.name]."
 
 # ch/bree/reactions.rpy:207
 translate russian bree_breakup_male_5a9d7904:
@@ -41180,10 +39516,6 @@ translate russian bree_breakup_male_7ff201b3:
 translate russian bree_breakup_male_de83013a:
     bree.say "Ты уже достаточно наговорил!"
 
-# ch/bree/reactions.rpy:223
-translate russian bree_go_steady_intro_male_7e6ca6d6:
-    mike.say "Нам ведь очень хорошо вместе, [bree.name]."
-
 # ch/bree/reactions.rpy:224
 translate russian bree_go_steady_intro_male_400ac9fe:
     mike.say "Давай встречаться всерьёз."
@@ -41229,7 +39561,7 @@ translate russian bree_pet_intro_male_f854124a:
     "И я сам не замечаю, как протягиваю руку и глажу её по голове..."
 
 # ch/bree/reactions.rpy:247
-translate russian bree_pet_happy_male_08640949:
+translate russian bree_pet_happy_male_0c7bb634:
     bree.say "Ого... это было довольно странно, [hero.name]!"
 
 # ch/bree/reactions.rpy:248
@@ -41259,10 +39591,6 @@ translate russian bree_pet_annoyed_male_461abe85:
 # ch/bree/reactions.rpy:260
 translate russian bree_massage_intro_male_edd4ce45:
     mike.say "О-о..."
-
-# ch/bree/reactions.rpy:261
-translate russian bree_massage_intro_male_bbd2ff70:
-    mike.say "У тебя все мышцы зажаты, [bree.name]!"
 
 # ch/bree/reactions.rpy:262
 translate russian bree_massage_intro_male_9ccff60b:
@@ -41321,7 +39649,7 @@ translate russian bree_massage_refuse_male_ec4b0002:
     bree.say "Само пройдёт."
 
 # ch/bree/reactions.rpy:287
-translate russian bree_piercing_nipples_reaction_male_a8c11be3:
+translate russian bree_piercing_nipples_reaction_male_b69c4083:
     bree.say "О да... это ТОЧНО было правильное решение!"
 
 # ch/bree/reactions.rpy:288
@@ -41361,7 +39689,7 @@ translate russian bree_piercing_clit_reaction_male_14cd9595:
     bree.say "И это ТАК приятно!"
 
 # ch/bree/reactions.rpy:306
-translate russian bree_piercing_head_reaction_male_28277526:
+translate russian bree_piercing_head_reaction_male_fa224f21:
     bree.say "Ха... обожаю эту штуку!"
 
 # ch/bree/reactions.rpy:307
@@ -41385,7 +39713,7 @@ translate russian bree_piercing_nose_reaction_male_069d08c7:
     bree.say "Спасибо, что помог решиться, [hero.name]!"
 
 # ch/bree/reactions.rpy:318
-translate russian bree_movie_disliked_reaction_male_21711363:
+translate russian bree_movie_disliked_reaction_male_a7b08c8e:
     bree.say "Фу... полнейший отстой!"
 
 # ch/bree/reactions.rpy:322
@@ -41393,7 +39721,7 @@ translate russian bree_movie_indifferent_reaction_male_9ac40d93:
     bree.say "Фильм был ТАКИМ скучным! За всё время вообще ничего не произошло!"
 
 # ch/bree/reactions.rpy:326
-translate russian bree_movie_liked_reaction_male_a42a58e9:
+translate russian bree_movie_liked_reaction_male_be863508:
     bree.say "О... мой... бог! Это буквально ЛУЧШЕЕ, что я видела!"
 
 # ch/bree/reactions.rpy:331
@@ -41419,10 +39747,6 @@ translate russian bree_belly_kiss_male_b7b6d495:
 # ch/bree/reactions.rpy:337
 translate russian bree_belly_kiss_male_55c4398e:
     "Причём именно то, в чём я, по её мнению, могу отказать."
-
-# ch/bree/reactions.rpy:338
-translate russian bree_belly_kiss_male_09c3d10d:
-    mike.say "Ну, [bree.name]..."
 
 # ch/bree/reactions.rpy:339
 translate russian bree_belly_kiss_male_4f71c6fd:
@@ -41505,7 +39829,7 @@ translate russian bree_belly_kiss_male_09a190dd:
     bree.say "Мне всегда говорили, что так он оберегал меня, пока я была у неё в животе!"
 
 # ch/bree/reactions.rpy:371
-translate russian bree_belly_kiss_male_721e1457:
+translate russian bree_belly_kiss_male_e19be1aa:
     bree.say "И... мне бы очень хотелось, чтобы это стало нашей традицией."
 
 # ch/bree/reactions.rpy:373
@@ -41580,10 +39904,6 @@ translate russian bree_belly_caress_male_e898ae02:
 translate russian bree_belly_caress_male_5fe441de:
     "Всё равно тороплюсь к ней и стараюсь помочь."
 
-# ch/bree/reactions.rpy:400
-translate russian bree_belly_caress_male_3dc7f442:
-    mike.say "[bree.name]..."
-
 # ch/bree/reactions.rpy:401
 translate russian bree_belly_caress_male_c633af0c:
     mike.say "Ты в порядке?"
@@ -41627,10 +39947,6 @@ translate russian bree_belly_caress_male_d1541de9:
 # ch/bree/reactions.rpy:414
 translate russian bree_belly_caress_male_6f2ab59e:
     "Наверное, мужчинам часто знакомо это чувство во время беременности партнёрши."
-
-# ch/bree/reactions.rpy:415
-translate russian bree_belly_caress_male_bae15321:
-    mike.say "Ох, [bree.name]..."
 
 # ch/bree/reactions.rpy:416
 translate russian bree_belly_caress_male_7b42a3f0:
@@ -41688,10 +40004,6 @@ translate russian bree_belly_caress_male_7d63828f:
 translate russian bree_belly_caress_male_fad572cd:
     bree.say "Если ты будешь рядом и поможешь мне, [hero.name]."
 
-# ch/bree/reactions.rpy:434
-translate russian bree_belly_caress_male_3e9d0224:
-    mike.say "Вот в этом, [bree.name], можешь быть уверена всегда."
-
 # ch/bree/reactions.rpy:435
 translate russian bree_belly_caress_male_038c2a7c:
     "Пока я говорю, наши руки продолжают гладить живот [bree.name]."
@@ -41723,10 +40035,6 @@ translate russian bree_belly_listen_male_a7025cc4:
 # ch/bree/reactions.rpy:447
 translate russian bree_belly_listen_male_4907c830:
     "Мне приходится протянуть руки и подхватить его."
-
-# ch/bree/reactions.rpy:448
-translate russian bree_belly_listen_male_b1f5ad6f:
-    mike.say "Эй, [bree.name]..."
 
 # ch/bree/reactions.rpy:449
 translate russian bree_belly_listen_male_613b8fea:
@@ -41824,10 +40132,6 @@ translate russian bree_belly_listen_male_2f3cdf66:
 translate russian bree_belly_listen_male_2249d039:
     bree.say "В больнице-то пользовались аппаратом УЗИ!"
 
-# ch/bree/reactions.rpy:480
-translate russian bree_belly_listen_male_4c91599f:
-    mike.say "\"Да, [bree.name]...\"."
-
 # ch/bree/reactions.rpy:481
 translate russian bree_belly_listen_male_7a4c785e:
     mike.say "Это ведь просто мудрёное научное название звука."
@@ -41848,10 +40152,6 @@ translate russian bree_belly_listen_male_8c0a1b31:
 translate russian bree_belly_listen_male_4771d224:
     mike.say "Вот это да..."
 
-# ch/bree/reactions.rpy:486
-translate russian bree_belly_listen_male_acbdfbb0:
-    mike.say "[bree.name], я слышу малыша!"
-
 # ch/bree/reactions.rpy:487
 translate russian bree_belly_listen_male_dfbbde0a:
     bree.say "Да..."
@@ -41859,10 +40159,6 @@ translate russian bree_belly_listen_male_dfbbde0a:
 # ch/bree/reactions.rpy:489
 translate russian bree_belly_listen_male_64cb5afd:
     bree.say "Наверное, пора сказать: на обед я ела что-то острое!"
-
-# ch/bree/reactions.rpy:490
-translate russian bree_belly_listen_male_ad75c012:
-    mike.say "Не думаю, что дело в этом, [bree.name]..."
 
 # ch/bree/reactions.rpy:491
 translate russian bree_belly_listen_male_ac51efc2:
@@ -42432,10 +40728,6 @@ translate russian bree_talk_birthday_male_166e585b:
 translate russian bree_talk_birthday_male_059a9364:
     bree.say "Спасибо, [hero.name]."
 
-# ch/bree/talk.rpy:458
-translate russian submissive_interact_bree_male_3dc7f442:
-    mike.say "[bree.name]..."
-
 # ch/bree/talk.rpy:459
 translate russian submissive_interact_bree_male_a8fafcf5:
     mike.say "Я знаю, как ты любишь видеоигры..."
@@ -42457,7 +40749,7 @@ translate russian submissive_interact_bree_male_240a79a7:
     bree.say "Да, [hero.name], это мне тоже нравится!"
 
 # ch/bree/talk.rpy:469
-translate russian submissive_interact_bree_male_9c286a31:
+translate russian submissive_interact_bree_male_520dbf61:
     mike.say "Ну... будешь говорить мне об этом при встрече?"
 
 # ch/bree/talk.rpy:472
@@ -42479,10 +40771,6 @@ translate russian submissive_interact_bree_male_58abd0fa:
 # ch/bree/talk.rpy:479
 translate russian submissive_interact_bree_male_e2212ea8:
     bree.say "Это же до ужаса пошло и банально!"
-
-# ch/bree/talk.rpy:481
-translate russian submissive_interact_bree_male_13a5f1f7:
-    mike.say "Да, когда ты так говоришь, [bree.name]..."
 
 # ch/bree/talk.rpy:482
 translate russian submissive_interact_bree_male_f186e4ea:
@@ -42629,7 +40917,7 @@ translate russian bree_friendly_texts_male_ef48617a:
     mchero_nvl "Кажется, кто-то засорил унитаз!"
 
 # ch/bree/texts.rpy:85
-translate russian bree_friendly_texts_male_11d82361:
+translate russian bree_friendly_texts_male_ad3b39d1:
     bree_nvl "Фу... мерзость!"
 
 # ch/bree/texts.rpy:86
@@ -42697,7 +40985,7 @@ translate russian bree_flirty_texts_male_eaf9a0a3:
     mchero_nvl "Расскажешь... во всех подробностях?"
 
 # ch/bree/texts.rpy:145
-translate russian bree_flirty_texts_male_08266e1a:
+translate russian bree_flirty_texts_male_6ebf330f:
     bree_nvl "Фу... хватит извращаться!"
 
 # ch/bree/texts.rpy:146
@@ -42761,7 +41049,7 @@ translate russian bree_dirty_texts_male_5bf7a045:
     mchero_nvl "Чем сейчас занимаешься?"
 
 # ch/bree/texts.rpy:198
-translate russian bree_dirty_texts_male_b5dcf215:
+translate russian bree_dirty_texts_male_43fd74a4:
     bree_nvl "Фу... и зачем ты пишешь мне, когда у тебя стоит?"
 
 # ch/bree/texts.rpy:199
@@ -42771,10 +41059,6 @@ translate russian bree_dirty_texts_male_6b25887b:
 # ch/bree/texts.rpy:202
 translate russian bree_dirty_texts_male_70fc971d:
     bree_nvl "М-м-м, ничем, что сейчас было бы важнее тебя."
-
-# ch/bree/texts.rpy:203
-translate russian bree_dirty_texts_male_3a34c999:
-    bree_nvl "Только скажи, чего хочешь, и я буду послушной, ладно?"
 
 # ch/bree/texts.rpy:206
 translate russian bree_dirty_texts_male_7546683a:
@@ -42797,7 +41081,7 @@ translate russian bree_dirty_texts_male_b12fb8c8_1:
     bree_nvl "Отстань, я спала..."
 
 # ch/bree/texts.rpy:225
-translate russian bree_dirty_texts_male_05a8b5e6:
+translate russian bree_dirty_texts_male_61619efb:
     mchero_nvl "Представляю тебя в купальнике... и у меня встаёт!"
 
 # ch/bree/texts.rpy:227
@@ -42837,7 +41121,7 @@ translate russian bree_dirty_texts_male_607d801c:
     mchero_nvl "Ты мне не просто отсосала — ты мне голову снесла!"
 
 # ch/bree/texts.rpy:255
-translate russian bree_dirty_texts_male_b69ad6ab:
+translate russian bree_dirty_texts_male_9536bb06:
     bree_nvl "Ну да... а мне, знаешь ли, было скучновато."
 
 # ch/bree/texts.rpy:258
@@ -42849,7 +41133,7 @@ translate russian bree_dirty_texts_male_291d1293:
     bree_nvl "Пожалуйста, не заставляй меня долго ждать, ладно?"
 
 # ch/bree/texts.rpy:262
-translate russian bree_dirty_texts_male_586802d7:
+translate russian bree_dirty_texts_male_b700483e:
     bree_nvl "М-м-м... хватит напоминать!"
 
 # ch/bree/texts.rpy:263

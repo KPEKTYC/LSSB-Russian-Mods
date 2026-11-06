@@ -81,7 +81,7 @@ translate russian sasha_nightclub_showdown_da5bf4eb:
     "Я отчаянно киваю, всё ещё пытаясь вырваться из её рук."
 
 # ch/harems_full/jealous/events.rpy:119
-translate russian sasha_nightclub_showdown_5a82c24f:
+translate russian sasha_nightclub_showdown_5a65551d:
     audrey.say "О-о... неловко!"
 
 # ch/harems_full/jealous/events.rpy:121
@@ -109,7 +109,7 @@ translate russian sasha_nightclub_showdown_520516ab:
     "Мне удаётся догнать её у самого выхода."
 
 # ch/harems_full/jealous/events.rpy:129
-translate russian sasha_nightclub_showdown_b2b36a44:
+translate russian sasha_nightclub_showdown_d6a59452:
     mike.say "Саша... подожди... пожалуйста!"
 
 # ch/harems_full/jealous/events.rpy:131
@@ -129,7 +129,7 @@ translate russian sasha_nightclub_showdown_129da54d:
     "Но Саша качает ему головой, и он, пожав плечами, отворачивается."
 
 # ch/harems_full/jealous/events.rpy:136
-translate russian sasha_nightclub_showdown_eadb627f:
+translate russian sasha_nightclub_showdown_8334edfb:
     mike.say "Саша... всё не так, как выглядит!"
 
 # ch/harems_full/jealous/events.rpy:137
@@ -157,7 +157,7 @@ translate russian sasha_nightclub_showdown_49d6feb5:
     "Но даже если не поможет, Саша слишком дорога мне, чтобы я хотел ей лгать..."
 
 # ch/harems_full/jealous/events.rpy:148
-translate russian sasha_nightclub_showdown_5d948596:
+translate russian sasha_nightclub_showdown_665d60cc:
     mike.say "Да... всё именно так, как выглядело."
 
 # ch/harems_full/jealous/events.rpy:149
@@ -173,7 +173,7 @@ translate russian sasha_nightclub_showdown_72ec5c36:
     "От последнего признания её глаза расширяются от раздражения."
 
 # ch/harems_full/jealous/events.rpy:153
-translate russian sasha_nightclub_showdown_f9f4526b:
+translate russian sasha_nightclub_showdown_8b9feec8:
     mike.say "Я... я теперь понимаю, что это было ошибкой."
 
 # ch/harems_full/jealous/events.rpy:154
@@ -241,7 +241,7 @@ translate russian sasha_nightclub_showdown_3b2f8403:
     "Узнай Саша все жуткие подробности моей жизни, она наверняка больше не смогла бы смотреть мне в лицо!"
 
 # ch/harems_full/jealous/events.rpy:177
-translate russian sasha_nightclub_showdown_988c9a52:
+translate russian sasha_nightclub_showdown_9990b4cc:
     mike.say "Ладно, ладно... я действительно знаю эту девушку."
 
 # ch/harems_full/jealous/events.rpy:178
@@ -289,7 +289,7 @@ translate russian sasha_nightclub_showdown_7c8ba671:
     mike.say "По-моему, я её и не видел с тех пор, как мы были вместе."
 
 # ch/harems_full/jealous/events.rpy:190
-translate russian sasha_nightclub_showdown_f3a9714b:
+translate russian sasha_nightclub_showdown_99f99cc0:
     mike.say "И... ну... мы как бы так и не расстались. По крайней мере, официально."
 
 # ch/harems_full/jealous/events.rpy:191
@@ -297,7 +297,7 @@ translate russian sasha_nightclub_showdown_72741ba9:
     "Саша медленно кивает: объяснение явно не до конца её устраивает, но она всё же готова его принять."
 
 # ch/harems_full/jealous/events.rpy:193
-translate russian sasha_nightclub_showdown_1fd5054b:
+translate russian sasha_nightclub_showdown_d7f23993:
     sasha.say "Ладно... ну... я сейчас поеду домой."
 
 # ch/harems_full/jealous/events.rpy:194
@@ -401,7 +401,7 @@ translate russian jealous_request_70be1608:
     audrey.say "Если бы я не знала тебя лучше, решила бы, что ты меня избегаешь..."
 
 # ch/harems_full/jealous/events.rpy:243
-translate russian jealous_request_8225c7be:
+translate russian jealous_request_7e0a93e9:
     mike.say "Эм... нет, Одри, что ты."
 
 # ch/harems_full/jealous/events.rpy:244
@@ -549,7 +549,7 @@ translate russian jealous_request_3c329644:
     mike.say "Погоди, что?.."
 
 # ch/harems_full/jealous/events.rpy:286
-translate russian jealous_request_0700dbee:
+translate russian jealous_request_96cbc25d:
     mike.say "Ты про... про секс втроём?!"
 
 # ch/harems_full/jealous/events.rpy:287
@@ -569,7 +569,7 @@ translate russian jealous_request_b34b10a4:
     "Но она продолжает смотреть мне прямо в глаза, явно ожидая ответа."
 
 # ch/harems_full/jealous/events.rpy:294
-translate russian jealous_request_576e3a13:
+translate russian jealous_request_3f559b26:
     mike.say "Т... ты серьёзно?"
 
 # ch/harems_full/jealous/events.rpy:295
@@ -589,11 +589,11 @@ translate russian jealous_request_66f812a8:
     audrey.say "Я никогда не шучу о таких серьёзных вещах, как секс втроём."
 
 # ch/harems_full/jealous/events.rpy:299
-translate russian jealous_request_550ab08c:
+translate russian jealous_request_f275070d:
     mike.say "Ох... ничего себе..."
 
 # ch/harems_full/jealous/events.rpy:300
-translate russian jealous_request_247c0be6:
+translate russian jealous_request_5e19253b:
     mike.say "Кхм... то есть конечно, Одри."
 
 # ch/harems_full/jealous/events.rpy:301
@@ -657,7 +657,7 @@ translate russian jealous_request_23a4fe33:
     "Насколько же надо быть тупым, чтобы идти к Саше с таким предложением?"
 
 # ch/harems_full/jealous/events.rpy:322
-translate russian jealous_request_5becea02:
+translate russian jealous_request_064830f2:
     mike.say "Я... я не могу, Одри."
 
 # ch/harems_full/jealous/events.rpy:323
@@ -813,7 +813,7 @@ translate russian jealous_proposal_aa9813d1:
     sasha.say "Когда эта маленькая шлюха подошла и полезла тебя целовать?"
 
 # ch/harems_full/jealous/events.rpy:371
-translate russian jealous_proposal_47023dbf:
+translate russian jealous_proposal_1a11c7d4:
     mike.say "Эм... да, именно про это."
 
 # ch/harems_full/jealous/events.rpy:373
@@ -837,11 +837,11 @@ translate russian jealous_proposal_caf28910:
     sasha.say "А ты попробуй рассказать."
 
 # ch/harems_full/jealous/events.rpy:378
-translate russian jealous_proposal_230cbf98:
+translate russian jealous_proposal_eac31ca1:
     mike.say "Ладно, ладно... только выслушай."
 
 # ch/harems_full/jealous/events.rpy:379
-translate russian jealous_proposal_fb28fd57:
+translate russian jealous_proposal_57090412:
     mike.say "Одри говорила, как сильно ты ей... понравилась."
 
 # ch/harems_full/jealous/events.rpy:380
@@ -917,7 +917,7 @@ translate russian jealous_proposal_f092f4cb:
     "Затем она, наконец, будто принимает решение насчёт того, что её беспокоило."
 
 # ch/harems_full/jealous/events.rpy:403
-translate russian jealous_proposal_933fc0cf:
+translate russian jealous_proposal_36c97769:
     sasha.say "Я... наверное, мне стоит польститься."
 
 # ch/harems_full/jealous/events.rpy:404
@@ -1081,7 +1081,7 @@ translate russian jealous_proposal_9eff1fba:
     "Наверное, фантазия о сексе втроём с ней и Одри совсем меня ослепила."
 
 # ch/harems_full/jealous/events.rpy:458
-translate russian jealous_proposal_b9c7e372:
+translate russian jealous_proposal_0213c562:
     mike.say "Л... ладно, Саша."
 
 # ch/harems_full/jealous/events.rpy:459
@@ -1225,7 +1225,7 @@ translate russian jealous_arrangement_2b324055:
     "Я сглатываю, вдруг осознав, что теперь от ответа не уйти."
 
 # ch/harems_full/jealous/events.rpy:505
-translate russian jealous_arrangement_c5a8fe27:
+translate russian jealous_arrangement_e126434c:
     mike.say "Эм... я... я поговорил с Сашей."
 
 # ch/harems_full/jealous/events.rpy:506
@@ -1241,7 +1241,7 @@ translate russian jealous_arrangement_e6dbd877:
     audrey.say "И?"
 
 # ch/harems_full/jealous/events.rpy:509
-translate russian jealous_arrangement_ea4c5403:
+translate russian jealous_arrangement_3265e315:
     mike.say "А... да... Саша согласилась."
 
 # ch/harems_full/jealous/events.rpy:511
@@ -1297,7 +1297,7 @@ translate russian jealous_arrangement_b7823888:
     "И вижу только изгибы её тела."
 
 # ch/harems_full/jealous/events.rpy:527
-translate russian jealous_arrangement_c80aaeae:
+translate russian jealous_arrangement_42fb411c:
     mike.say "У... у меня?"
 
 # ch/harems_full/jealous/events.rpy:528
@@ -2989,7 +2989,7 @@ translate russian audrey_sasha_propose_male_85e542ab:
     audrey.say "Ты ведь серьёзно!"
 
 # ch/harems_full/jealous/events.rpy:1306
-translate russian audrey_sasha_propose_male_105b4305:
+translate russian audrey_sasha_propose_male_8b6d8ff8:
     mike.say "Эм... да."
 
 # ch/harems_full/jealous/events.rpy:1307
@@ -3737,7 +3737,7 @@ translate russian audrey_sasha_male_ending_d51b7ed7:
     audrey.say "Но за попытку не осуждают!"
 
 # ch/harems_full/jealous/events.rpy:1581
-translate russian audrey_sasha_male_ending_e73ba80f:
+translate russian audrey_sasha_male_ending_e905fa21:
     sasha.say "Да уж... ты любишь испытывать терпение, Одри!"
 
 # ch/harems_full/jealous/events.rpy:1582

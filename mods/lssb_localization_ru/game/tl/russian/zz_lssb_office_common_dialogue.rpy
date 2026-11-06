@@ -549,7 +549,7 @@ translate russian aletta_audrey_lavish_shiori_propose_male_7760ffd5:
     aletta.say "Да, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/office_harem_common.rpy:337
-translate russian aletta_audrey_lavish_shiori_propose_male_90dd339c:
+translate russian aletta_audrey_lavish_shiori_propose_male_68dce9d4:
     aletta.say "Признаюсь, в начале наших отношений я была... настроена скептически."
 
 # ch/harems_full/office/events/office_harem_common.rpy:338
@@ -649,7 +649,7 @@ translate russian aletta_audrey_lavish_shiori_propose_male_dd9a67f1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:379
-translate russian aletta_audrey_lavish_shiori_propose_male_0c945ab9:
+translate russian aletta_audrey_lavish_shiori_propose_male_d4407799:
     shiori.say "Я... я говорю нет."
 
 # ch/harems_full/office/events/office_harem_common.rpy:380
@@ -673,7 +673,7 @@ translate russian aletta_audrey_lavish_shiori_propose_male_dd9a67f1_1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:389
-translate russian aletta_audrey_lavish_shiori_propose_male_e482cd60:
+translate russian aletta_audrey_lavish_shiori_propose_male_a8f294e3:
     shiori.say "Я... я говорю да."
 
 # ch/harems_full/office/events/office_harem_common.rpy:390
@@ -729,7 +729,7 @@ translate russian aletta_audrey_lavish_shiori_propose_male_3e2cce37:
     audrey.say "Да, [lssb_common.hero_name()], теперь твоя задница принадлежит нам!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:405
-translate russian aletta_audrey_lavish_shiori_propose_male_79920888:
+translate russian aletta_audrey_lavish_shiori_propose_male_02ef4a87:
     lavish.say "Ну... он может сказать о нас то же самое, Одри!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:406
@@ -737,7 +737,7 @@ translate russian aletta_audrey_lavish_shiori_propose_male_3d0aa6e6:
     lavish.say "В конце концов, брак — равноправное партнёрство."
 
 # ch/harems_full/office/events/office_harem_common.rpy:407
-translate russian aletta_audrey_lavish_shiori_propose_male_f5fb2207:
+translate russian aletta_audrey_lavish_shiori_propose_male_ad6ee511:
     shiori.say "Я... я не против быть старомодной женой."
 
 # ch/harems_full/office/events/office_harem_common.rpy:408
@@ -829,7 +829,7 @@ translate russian aletta_audrey_lavish_shiori_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:433
-translate russian aletta_audrey_lavish_shiori_propose_male_87970527:
+translate russian aletta_audrey_lavish_shiori_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:434
@@ -1105,7 +1105,7 @@ translate russian audrey_lavish_shiori_propose_male_dd9a67f1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:530
-translate russian audrey_lavish_shiori_propose_male_0c945ab9:
+translate russian audrey_lavish_shiori_propose_male_d4407799:
     shiori.say "Я... я говорю нет."
 
 # ch/harems_full/office/events/office_harem_common.rpy:531
@@ -1129,7 +1129,7 @@ translate russian audrey_lavish_shiori_propose_male_dd9a67f1_1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:540
-translate russian audrey_lavish_shiori_propose_male_e482cd60:
+translate russian audrey_lavish_shiori_propose_male_a8f294e3:
     shiori.say "Я... я говорю да."
 
 # ch/harems_full/office/events/office_harem_common.rpy:541
@@ -1177,7 +1177,7 @@ translate russian audrey_lavish_shiori_propose_male_3e2cce37:
     audrey.say "Да, [lssb_common.hero_name()], теперь твоя задница принадлежит нам!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:554
-translate russian audrey_lavish_shiori_propose_male_79920888:
+translate russian audrey_lavish_shiori_propose_male_02ef4a87:
     lavish.say "Ну... он может сказать о нас то же самое, Одри!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:555
@@ -1185,7 +1185,7 @@ translate russian audrey_lavish_shiori_propose_male_3d0aa6e6:
     lavish.say "В конце концов, брак — равноправное партнёрство."
 
 # ch/harems_full/office/events/office_harem_common.rpy:556
-translate russian audrey_lavish_shiori_propose_male_f5fb2207:
+translate russian audrey_lavish_shiori_propose_male_ad6ee511:
     shiori.say "Я... я не против быть старомодной женой."
 
 # ch/harems_full/office/events/office_harem_common.rpy:557
@@ -1277,7 +1277,7 @@ translate russian audrey_lavish_shiori_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:582
-translate russian audrey_lavish_shiori_propose_male_87970527:
+translate russian audrey_lavish_shiori_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:583
@@ -1489,7 +1489,7 @@ translate russian aletta_lavish_shiori_propose_male_7760ffd5:
     aletta.say "Да, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/office_harem_common.rpy:654
-translate russian aletta_lavish_shiori_propose_male_90dd339c:
+translate russian aletta_lavish_shiori_propose_male_68dce9d4:
     aletta.say "Признаюсь, в начале наших отношений я была... настроена скептически."
 
 # ch/harems_full/office/events/office_harem_common.rpy:655
@@ -1549,7 +1549,7 @@ translate russian aletta_lavish_shiori_propose_male_dd9a67f1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:679
-translate russian aletta_lavish_shiori_propose_male_0c945ab9:
+translate russian aletta_lavish_shiori_propose_male_d4407799:
     shiori.say "Я... я говорю нет."
 
 # ch/harems_full/office/events/office_harem_common.rpy:680
@@ -1573,7 +1573,7 @@ translate russian aletta_lavish_shiori_propose_male_dd9a67f1_1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:689
-translate russian aletta_lavish_shiori_propose_male_e482cd60:
+translate russian aletta_lavish_shiori_propose_male_a8f294e3:
     shiori.say "Я... я говорю да."
 
 # ch/harems_full/office/events/office_harem_common.rpy:690
@@ -1625,7 +1625,7 @@ translate russian aletta_lavish_shiori_propose_male_3c7629de:
     aletta.say "Ты станешь женатым человеком!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:704
-translate russian aletta_lavish_shiori_propose_male_79920888:
+translate russian aletta_lavish_shiori_propose_male_02ef4a87:
     lavish.say "Ну... он может сказать о нас то же самое, Одри!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:705
@@ -1633,7 +1633,7 @@ translate russian aletta_lavish_shiori_propose_male_3d0aa6e6:
     lavish.say "В конце концов, брак — равноправное партнёрство."
 
 # ch/harems_full/office/events/office_harem_common.rpy:706
-translate russian aletta_lavish_shiori_propose_male_f5fb2207:
+translate russian aletta_lavish_shiori_propose_male_ad6ee511:
     shiori.say "Я... я не против быть старомодной женой."
 
 # ch/harems_full/office/events/office_harem_common.rpy:707
@@ -1717,7 +1717,7 @@ translate russian aletta_lavish_shiori_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:730
-translate russian aletta_lavish_shiori_propose_male_87970527:
+translate russian aletta_lavish_shiori_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:731
@@ -1929,7 +1929,7 @@ translate russian aletta_audrey_shiori_propose_male_7760ffd5:
     aletta.say "Да, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/office_harem_common.rpy:801
-translate russian aletta_audrey_shiori_propose_male_90dd339c:
+translate russian aletta_audrey_shiori_propose_male_68dce9d4:
     aletta.say "Признаюсь, в начале наших отношений я была... настроена скептически."
 
 # ch/harems_full/office/events/office_harem_common.rpy:802
@@ -1989,7 +1989,7 @@ translate russian aletta_audrey_shiori_propose_male_dd9a67f1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:826
-translate russian aletta_audrey_shiori_propose_male_0c945ab9:
+translate russian aletta_audrey_shiori_propose_male_d4407799:
     shiori.say "Я... я говорю нет."
 
 # ch/harems_full/office/events/office_harem_common.rpy:827
@@ -2013,7 +2013,7 @@ translate russian aletta_audrey_shiori_propose_male_dd9a67f1_1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:836
-translate russian aletta_audrey_shiori_propose_male_e482cd60:
+translate russian aletta_audrey_shiori_propose_male_a8f294e3:
     shiori.say "Я... я говорю да."
 
 # ch/harems_full/office/events/office_harem_common.rpy:837
@@ -2069,7 +2069,7 @@ translate russian aletta_audrey_shiori_propose_male_3e2cce37:
     audrey.say "Да, [lssb_common.hero_name()], теперь твоя задница принадлежит нам!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:852
-translate russian aletta_audrey_shiori_propose_male_f5fb2207:
+translate russian aletta_audrey_shiori_propose_male_ad6ee511:
     shiori.say "Я... я не против быть старомодной женой."
 
 # ch/harems_full/office/events/office_harem_common.rpy:853
@@ -2161,7 +2161,7 @@ translate russian aletta_audrey_shiori_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:878
-translate russian aletta_audrey_shiori_propose_male_87970527:
+translate russian aletta_audrey_shiori_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:879
@@ -2357,7 +2357,7 @@ translate russian aletta_audrey_lavish_propose_male_7760ffd5:
     aletta.say "Да, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/office_harem_common.rpy:946
-translate russian aletta_audrey_lavish_propose_male_90dd339c:
+translate russian aletta_audrey_lavish_propose_male_68dce9d4:
     aletta.say "Признаюсь, в начале наших отношений я была... настроена скептически."
 
 # ch/harems_full/office/events/office_harem_common.rpy:947
@@ -2489,7 +2489,7 @@ translate russian aletta_audrey_lavish_propose_male_3e2cce37:
     audrey.say "Да, [lssb_common.hero_name()], теперь твоя задница принадлежит нам!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:995
-translate russian aletta_audrey_lavish_propose_male_79920888:
+translate russian aletta_audrey_lavish_propose_male_02ef4a87:
     lavish.say "Ну... он может сказать о нас то же самое, Одри!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:996
@@ -2581,7 +2581,7 @@ translate russian aletta_audrey_lavish_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1021
-translate russian aletta_audrey_lavish_propose_male_87970527:
+translate russian aletta_audrey_lavish_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1022
@@ -2801,7 +2801,7 @@ translate russian lavish_shiori_propose_male_dd9a67f1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1095
-translate russian lavish_shiori_propose_male_0c945ab9:
+translate russian lavish_shiori_propose_male_d4407799:
     shiori.say "Я... я говорю нет."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1096
@@ -2825,7 +2825,7 @@ translate russian lavish_shiori_propose_male_dd9a67f1_1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1105
-translate russian lavish_shiori_propose_male_e482cd60:
+translate russian lavish_shiori_propose_male_a8f294e3:
     shiori.say "Я... я говорю да."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1106
@@ -2869,7 +2869,7 @@ translate russian lavish_shiori_propose_male_f7431606:
     "Я правда женюсь на обеих?"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1118
-translate russian lavish_shiori_propose_male_79920888:
+translate russian lavish_shiori_propose_male_02ef4a87:
     lavish.say "Ну... он может сказать о нас то же самое, Одри!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1119
@@ -2877,7 +2877,7 @@ translate russian lavish_shiori_propose_male_3d0aa6e6:
     lavish.say "В конце концов, брак — равноправное партнёрство."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1120
-translate russian lavish_shiori_propose_male_f5fb2207:
+translate russian lavish_shiori_propose_male_ad6ee511:
     shiori.say "Я... я не против быть старомодной женой."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1121
@@ -2961,7 +2961,7 @@ translate russian lavish_shiori_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1144
-translate russian lavish_shiori_propose_male_87970527:
+translate russian lavish_shiori_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1145
@@ -3173,7 +3173,7 @@ translate russian audrey_shiori_propose_male_dd9a67f1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1215
-translate russian audrey_shiori_propose_male_0c945ab9:
+translate russian audrey_shiori_propose_male_d4407799:
     shiori.say "Я... я говорю нет."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1216
@@ -3197,7 +3197,7 @@ translate russian audrey_shiori_propose_male_dd9a67f1_1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1225
-translate russian audrey_shiori_propose_male_e482cd60:
+translate russian audrey_shiori_propose_male_a8f294e3:
     shiori.say "Я... я говорю да."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1226
@@ -3245,7 +3245,7 @@ translate russian audrey_shiori_propose_male_3e2cce37:
     audrey.say "Да, [lssb_common.hero_name()], теперь твоя задница принадлежит нам!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1239
-translate russian audrey_shiori_propose_male_f5fb2207:
+translate russian audrey_shiori_propose_male_ad6ee511:
     shiori.say "Я... я не против быть старомодной женой."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1240
@@ -3337,7 +3337,7 @@ translate russian audrey_shiori_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1265
-translate russian audrey_shiori_propose_male_87970527:
+translate russian audrey_shiori_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1266
@@ -3613,7 +3613,7 @@ translate russian audrey_lavish_propose_male_3e2cce37:
     audrey.say "Да, [lssb_common.hero_name()], теперь твоя задница принадлежит нам!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1359
-translate russian audrey_lavish_propose_male_79920888:
+translate russian audrey_lavish_propose_male_02ef4a87:
     lavish.say "Ну... он может сказать о нас то же самое, Одри!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1360
@@ -3621,7 +3621,7 @@ translate russian audrey_lavish_propose_male_3d0aa6e6:
     lavish.say "В конце концов, брак — равноправное партнёрство."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1361
-translate russian audrey_lavish_propose_male_f5fb2207:
+translate russian audrey_lavish_propose_male_ad6ee511:
     shiori.say "Я... я не против быть старомодной женой."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1362
@@ -3713,7 +3713,7 @@ translate russian audrey_lavish_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1387
-translate russian audrey_lavish_propose_male_87970527:
+translate russian audrey_lavish_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1388
@@ -3917,7 +3917,7 @@ translate russian aletta_shiori_propose_male_7760ffd5:
     aletta.say "Да, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1454
-translate russian aletta_shiori_propose_male_90dd339c:
+translate russian aletta_shiori_propose_male_68dce9d4:
     aletta.say "Признаюсь, в начале наших отношений я была... настроена скептически."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1455
@@ -3937,7 +3937,7 @@ translate russian aletta_shiori_propose_male_dd9a67f1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1462
-translate russian aletta_shiori_propose_male_0c945ab9:
+translate russian aletta_shiori_propose_male_d4407799:
     shiori.say "Я... я говорю нет."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1463
@@ -3961,7 +3961,7 @@ translate russian aletta_shiori_propose_male_dd9a67f1_1:
     "Но в конце концов набирается смелости высказаться сама."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1472
-translate russian aletta_shiori_propose_male_e482cd60:
+translate russian aletta_shiori_propose_male_a8f294e3:
     shiori.say "Я... я говорю да."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1473
@@ -4013,7 +4013,7 @@ translate russian aletta_shiori_propose_male_3c7629de:
     aletta.say "Ты станешь женатым человеком!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1487
-translate russian aletta_shiori_propose_male_f5fb2207:
+translate russian aletta_shiori_propose_male_ad6ee511:
     shiori.say "Я... я не против быть старомодной женой."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1488
@@ -4097,7 +4097,7 @@ translate russian aletta_shiori_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1511
-translate russian aletta_shiori_propose_male_87970527:
+translate russian aletta_shiori_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1512
@@ -4277,7 +4277,7 @@ translate russian aletta_lavish_propose_male_7760ffd5:
     aletta.say "Да, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1573
-translate russian aletta_lavish_propose_male_90dd339c:
+translate russian aletta_lavish_propose_male_68dce9d4:
     aletta.say "Признаюсь, в начале наших отношений я была... настроена скептически."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1574
@@ -4365,7 +4365,7 @@ translate russian aletta_lavish_propose_male_3c7629de:
     aletta.say "Ты станешь женатым человеком!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1604
-translate russian aletta_lavish_propose_male_79920888:
+translate russian aletta_lavish_propose_male_02ef4a87:
     lavish.say "Ну... он может сказать о нас то же самое, Одри!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1605
@@ -4449,7 +4449,7 @@ translate russian aletta_lavish_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1628
-translate russian aletta_lavish_propose_male_87970527:
+translate russian aletta_lavish_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1629
@@ -4629,7 +4629,7 @@ translate russian aletta_audrey_propose_male_7760ffd5:
     aletta.say "Да, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1689
-translate russian aletta_audrey_propose_male_90dd339c:
+translate russian aletta_audrey_propose_male_68dce9d4:
     aletta.say "Признаюсь, в начале наших отношений я была... настроена скептически."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1690
@@ -4805,7 +4805,7 @@ translate russian aletta_audrey_propose_male_145278ba:
     "Чувствую на себе взгляды тех, кто отказал, но стараюсь не обращать внимания."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1745
-translate russian aletta_audrey_propose_male_87970527:
+translate russian aletta_audrey_propose_male_42f51939:
     "Ох... будет тяжело."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1746
@@ -5217,11 +5217,11 @@ translate russian aletta_audrey_lavish_shiori_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1896
-translate russian aletta_audrey_lavish_shiori_male_ending_64235e41:
+translate russian aletta_audrey_lavish_shiori_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1897
-translate russian aletta_audrey_lavish_shiori_male_ending_9751f813:
+translate russian aletta_audrey_lavish_shiori_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1898
@@ -5285,7 +5285,7 @@ translate russian aletta_audrey_lavish_shiori_male_ending_1b407c2a:
     lavish.say "Но я всё-таки самая надёжная и честная из всех участников!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1915
-translate russian aletta_audrey_lavish_shiori_male_ending_16de9855:
+translate russian aletta_audrey_lavish_shiori_male_ending_64fb1338:
     shiori.say "Я... я не знаю, стоит ли нам это делать, когда [lssb_common.hero_name()] не здесь!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1916
@@ -5293,7 +5293,7 @@ translate russian aletta_audrey_lavish_shiori_male_ending_93d00ac6:
     shiori.say "Ведь без него ничего этого вообще бы не было, правда?"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1917
-translate russian aletta_audrey_lavish_shiori_male_ending_58f159c1:
+translate russian aletta_audrey_lavish_shiori_male_ending_4c892d13:
     shiori.say "Ох... надеюсь, он не расстроится из-за того, что все о нём говорят!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1918
@@ -5309,7 +5309,7 @@ translate russian aletta_audrey_lavish_shiori_male_ending_da247318:
     aletta.say "Поначалу он меня не впечатлил, хотя говорят, что мне трудно угодить."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1921
-translate russian aletta_audrey_lavish_shiori_male_ending_ec759ec2:
+translate russian aletta_audrey_lavish_shiori_male_ending_c5831c9c:
     audrey.say "Да, обычно я ненавижу мужчин, под которыми приходится... работать!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1922
@@ -5329,7 +5329,7 @@ translate russian aletta_audrey_lavish_shiori_male_ending_80fb32ff:
     lavish.say "Я привыкла к профессиональной обстановке и целеустремлённым коллегам."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1926
-translate russian aletta_audrey_lavish_shiori_male_ending_b08e7a01:
+translate russian aletta_audrey_lavish_shiori_male_ending_61a593de:
     lavish.say "А он казался... ну, немного раздолбаем!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1927
@@ -5417,7 +5417,7 @@ translate russian aletta_audrey_lavish_shiori_male_ending_7d9f90fe:
     audrey.say "И дня не могла прожить, не подразнив его, хотя бы ради реакции!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1948
-translate russian aletta_audrey_lavish_shiori_male_ending_8eda7546:
+translate russian aletta_audrey_lavish_shiori_male_ending_e3f5d789:
     lavish.say "Ах... наверное, с самого начала стоило держаться с ним профессиональнее."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1949
@@ -5437,7 +5437,7 @@ translate russian aletta_audrey_lavish_shiori_male_ending_c7fea004:
     shiori.say "[lssb_common.hero_name()] просил — и я делала всё, причём с удовольствием."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1953
-translate russian aletta_audrey_lavish_shiori_male_ending_c0b34381:
+translate russian aletta_audrey_lavish_shiori_male_ending_d5a07efd:
     shiori.say "А когда стало ясно, что ему это тоже нравится... я уже была безнадёжно влюблена!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1954
@@ -5561,7 +5561,7 @@ translate russian aletta_audrey_lavish_shiori_male_ending_059e8d07:
     audrey.say "Так могла ли я представить брак сразу с несколькими?!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1984
-translate russian aletta_audrey_lavish_shiori_male_ending_c0246911:
+translate russian aletta_audrey_lavish_shiori_male_ending_a39ef370:
     audrey.say "Ну... может, я именно поэтому и согласилась: идея-то безумная!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1985
@@ -5581,7 +5581,7 @@ translate russian aletta_audrey_lavish_shiori_male_ending_27f98246:
     shiori.say "Мой страх, что [lssb_common.hero_name()] уйдёт к другим девушкам и бросит меня, быстро исчез."
 
 # ch/harems_full/office/events/office_harem_common.rpy:1989
-translate russian aletta_audrey_lavish_shiori_male_ending_f1773a4c:
+translate russian aletta_audrey_lavish_shiori_male_ending_ceb0d49d:
     shiori.say "Вскоре они стали мне как сёстры... даже больше, если понимаете, о чём я!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:1990
@@ -6013,11 +6013,11 @@ translate russian audrey_lavish_shiori_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2114
-translate russian audrey_lavish_shiori_male_ending_64235e41:
+translate russian audrey_lavish_shiori_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2115
-translate russian audrey_lavish_shiori_male_ending_9751f813:
+translate russian audrey_lavish_shiori_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2116
@@ -6065,7 +6065,7 @@ translate russian audrey_lavish_shiori_male_ending_1b407c2a:
     lavish.say "Но я всё-таки самая надёжная и честная из всех участников!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2129
-translate russian audrey_lavish_shiori_male_ending_16de9855:
+translate russian audrey_lavish_shiori_male_ending_64fb1338:
     shiori.say "Я... я не знаю, стоит ли нам это делать, когда [lssb_common.hero_name()] не здесь!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2130
@@ -6073,11 +6073,11 @@ translate russian audrey_lavish_shiori_male_ending_93d00ac6:
     shiori.say "Ведь без него ничего этого вообще бы не было, правда?"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2131
-translate russian audrey_lavish_shiori_male_ending_58f159c1:
+translate russian audrey_lavish_shiori_male_ending_4c892d13:
     shiori.say "Ох... надеюсь, он не расстроится из-за того, что все о нём говорят!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2132
-translate russian audrey_lavish_shiori_male_ending_ec759ec2:
+translate russian audrey_lavish_shiori_male_ending_c5831c9c:
     audrey.say "Да, обычно я ненавижу мужчин, под которыми приходится... работать!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2133
@@ -6097,7 +6097,7 @@ translate russian audrey_lavish_shiori_male_ending_80fb32ff:
     lavish.say "Я привыкла к профессиональной обстановке и целеустремлённым коллегам."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2137
-translate russian audrey_lavish_shiori_male_ending_b08e7a01:
+translate russian audrey_lavish_shiori_male_ending_61a593de:
     lavish.say "А он казался... ну, немного раздолбаем!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2138
@@ -6161,7 +6161,7 @@ translate russian audrey_lavish_shiori_male_ending_7d9f90fe:
     audrey.say "И дня не могла прожить, не подразнив его, хотя бы ради реакции!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2153
-translate russian audrey_lavish_shiori_male_ending_8eda7546:
+translate russian audrey_lavish_shiori_male_ending_e3f5d789:
     lavish.say "Ах... наверное, с самого начала стоило держаться с ним профессиональнее."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2154
@@ -6181,7 +6181,7 @@ translate russian audrey_lavish_shiori_male_ending_c7fea004:
     shiori.say "[lssb_common.hero_name()] просил — и я делала всё, причём с удовольствием."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2158
-translate russian audrey_lavish_shiori_male_ending_c0b34381:
+translate russian audrey_lavish_shiori_male_ending_d5a07efd:
     shiori.say "А когда стало ясно, что ему это тоже нравится... я уже была безнадёжно влюблена!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2159
@@ -6265,7 +6265,7 @@ translate russian audrey_lavish_shiori_male_ending_059e8d07:
     audrey.say "Так могла ли я представить брак сразу с несколькими?!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2179
-translate russian audrey_lavish_shiori_male_ending_c0246911:
+translate russian audrey_lavish_shiori_male_ending_a39ef370:
     audrey.say "Ну... может, я именно поэтому и согласилась: идея-то безумная!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2180
@@ -6285,7 +6285,7 @@ translate russian audrey_lavish_shiori_male_ending_27f98246:
     shiori.say "Мой страх, что [lssb_common.hero_name()] уйдёт к другим девушкам и бросит меня, быстро исчез."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2184
-translate russian audrey_lavish_shiori_male_ending_f1773a4c:
+translate russian audrey_lavish_shiori_male_ending_ceb0d49d:
     shiori.say "Вскоре они стали мне как сёстры... даже больше, если понимаете, о чём я!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2185
@@ -6697,11 +6697,11 @@ translate russian aletta_lavish_shiori_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2305
-translate russian aletta_lavish_shiori_male_ending_64235e41:
+translate russian aletta_lavish_shiori_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2306
-translate russian aletta_lavish_shiori_male_ending_9751f813:
+translate russian aletta_lavish_shiori_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2307
@@ -6753,7 +6753,7 @@ translate russian aletta_lavish_shiori_male_ending_1b407c2a:
     lavish.say "Но я всё-таки самая надёжная и честная из всех участников!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2321
-translate russian aletta_lavish_shiori_male_ending_16de9855:
+translate russian aletta_lavish_shiori_male_ending_64fb1338:
     shiori.say "Я... я не знаю, стоит ли нам это делать, когда [lssb_common.hero_name()] не здесь!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2322
@@ -6761,7 +6761,7 @@ translate russian aletta_lavish_shiori_male_ending_93d00ac6:
     shiori.say "Ведь без него ничего этого вообще бы не было, правда?"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2323
-translate russian aletta_lavish_shiori_male_ending_58f159c1:
+translate russian aletta_lavish_shiori_male_ending_4c892d13:
     shiori.say "Ох... надеюсь, он не расстроится из-за того, что все о нём говорят!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2324
@@ -6785,7 +6785,7 @@ translate russian aletta_lavish_shiori_male_ending_80fb32ff:
     lavish.say "Я привыкла к профессиональной обстановке и целеустремлённым коллегам."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2329
-translate russian aletta_lavish_shiori_male_ending_b08e7a01:
+translate russian aletta_lavish_shiori_male_ending_61a593de:
     lavish.say "А он казался... ну, немного раздолбаем!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2330
@@ -6849,7 +6849,7 @@ translate russian aletta_lavish_shiori_male_ending_af140e8f:
     aletta.say "Но было уже поздно: [lssb_common.hero_name()] сумел втереться ко мне в сердце!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2345
-translate russian aletta_lavish_shiori_male_ending_8eda7546:
+translate russian aletta_lavish_shiori_male_ending_e3f5d789:
     lavish.say "Ах... наверное, с самого начала стоило держаться с ним профессиональнее."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2346
@@ -6869,7 +6869,7 @@ translate russian aletta_lavish_shiori_male_ending_c7fea004:
     shiori.say "[lssb_common.hero_name()] просил — и я делала всё, причём с удовольствием."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2350
-translate russian aletta_lavish_shiori_male_ending_c0b34381:
+translate russian aletta_lavish_shiori_male_ending_d5a07efd:
     shiori.say "А когда стало ясно, что ему это тоже нравится... я уже была безнадёжно влюблена!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2351
@@ -6977,7 +6977,7 @@ translate russian aletta_lavish_shiori_male_ending_27f98246:
     shiori.say "Мой страх, что [lssb_common.hero_name()] уйдёт к другим девушкам и бросит меня, быстро исчез."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2377
-translate russian aletta_lavish_shiori_male_ending_f1773a4c:
+translate russian aletta_lavish_shiori_male_ending_ceb0d49d:
     shiori.say "Вскоре они стали мне как сёстры... даже больше, если понимаете, о чём я!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2378
@@ -7389,11 +7389,11 @@ translate russian aletta_audrey_shiori_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2498
-translate russian aletta_audrey_shiori_male_ending_64235e41:
+translate russian aletta_audrey_shiori_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2499
-translate russian aletta_audrey_shiori_male_ending_9751f813:
+translate russian aletta_audrey_shiori_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2500
@@ -7445,7 +7445,7 @@ translate russian aletta_audrey_shiori_male_ending_f555ec5b:
     audrey.say "Никто из вас не расскажет так хорошо, как я."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2514
-translate russian aletta_audrey_shiori_male_ending_16de9855:
+translate russian aletta_audrey_shiori_male_ending_64fb1338:
     shiori.say "Я... я не знаю, стоит ли нам это делать, когда [lssb_common.hero_name()] не здесь!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2515
@@ -7453,7 +7453,7 @@ translate russian aletta_audrey_shiori_male_ending_93d00ac6:
     shiori.say "Ведь без него ничего этого вообще бы не было, правда?"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2516
-translate russian aletta_audrey_shiori_male_ending_58f159c1:
+translate russian aletta_audrey_shiori_male_ending_4c892d13:
     shiori.say "Ох... надеюсь, он не расстроится из-за того, что все о нём говорят!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2517
@@ -7469,7 +7469,7 @@ translate russian aletta_audrey_shiori_male_ending_da247318:
     aletta.say "Поначалу он меня не впечатлил, хотя говорят, что мне трудно угодить."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2520
-translate russian aletta_audrey_shiori_male_ending_ec759ec2:
+translate russian aletta_audrey_shiori_male_ending_c5831c9c:
     audrey.say "Да, обычно я ненавижу мужчин, под которыми приходится... работать!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2521
@@ -7561,7 +7561,7 @@ translate russian aletta_audrey_shiori_male_ending_c7fea004:
     shiori.say "[lssb_common.hero_name()] просил — и я делала всё, причём с удовольствием."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2543
-translate russian aletta_audrey_shiori_male_ending_c0b34381:
+translate russian aletta_audrey_shiori_male_ending_d5a07efd:
     shiori.say "А когда стало ясно, что ему это тоже нравится... я уже была безнадёжно влюблена!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2544
@@ -7661,7 +7661,7 @@ translate russian aletta_audrey_shiori_male_ending_059e8d07:
     audrey.say "Так могла ли я представить брак сразу с несколькими?!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2568
-translate russian aletta_audrey_shiori_male_ending_c0246911:
+translate russian aletta_audrey_shiori_male_ending_a39ef370:
     audrey.say "Ну... может, я именно поэтому и согласилась: идея-то безумная!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2569
@@ -7669,7 +7669,7 @@ translate russian aletta_audrey_shiori_male_ending_27f98246:
     shiori.say "Мой страх, что [lssb_common.hero_name()] уйдёт к другим девушкам и бросит меня, быстро исчез."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2570
-translate russian aletta_audrey_shiori_male_ending_f1773a4c:
+translate russian aletta_audrey_shiori_male_ending_ceb0d49d:
     shiori.say "Вскоре они стали мне как сёстры... даже больше, если понимаете, о чём я!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2571
@@ -8077,11 +8077,11 @@ translate russian aletta_audrey_lavish_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2690
-translate russian aletta_audrey_lavish_male_ending_64235e41:
+translate russian aletta_audrey_lavish_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2691
-translate russian aletta_audrey_lavish_male_ending_9751f813:
+translate russian aletta_audrey_lavish_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2692
@@ -8157,7 +8157,7 @@ translate russian aletta_audrey_lavish_male_ending_da247318:
     aletta.say "Поначалу он меня не впечатлил, хотя говорят, что мне трудно угодить."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2712
-translate russian aletta_audrey_lavish_male_ending_ec759ec2:
+translate russian aletta_audrey_lavish_male_ending_c5831c9c:
     audrey.say "Да, обычно я ненавижу мужчин, под которыми приходится... работать!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2713
@@ -8177,7 +8177,7 @@ translate russian aletta_audrey_lavish_male_ending_80fb32ff:
     lavish.say "Я привыкла к профессиональной обстановке и целеустремлённым коллегам."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2717
-translate russian aletta_audrey_lavish_male_ending_b08e7a01:
+translate russian aletta_audrey_lavish_male_ending_61a593de:
     lavish.say "А он казался... ну, немного раздолбаем!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2718
@@ -8241,7 +8241,7 @@ translate russian aletta_audrey_lavish_male_ending_7d9f90fe:
     audrey.say "И дня не могла прожить, не подразнив его, хотя бы ради реакции!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2733
-translate russian aletta_audrey_lavish_male_ending_8eda7546:
+translate russian aletta_audrey_lavish_male_ending_e3f5d789:
     lavish.say "Ах... наверное, с самого начала стоило держаться с ним профессиональнее."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2734
@@ -8349,7 +8349,7 @@ translate russian aletta_audrey_lavish_male_ending_059e8d07:
     audrey.say "Так могла ли я представить брак сразу с несколькими?!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2760
-translate russian aletta_audrey_lavish_male_ending_c0246911:
+translate russian aletta_audrey_lavish_male_ending_a39ef370:
     audrey.say "Ну... может, я именно поэтому и согласилась: идея-то безумная!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2761
@@ -8737,11 +8737,11 @@ translate russian lavish_shiori_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2871
-translate russian lavish_shiori_male_ending_64235e41:
+translate russian lavish_shiori_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2872
-translate russian lavish_shiori_male_ending_9751f813:
+translate russian lavish_shiori_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2873
@@ -8777,7 +8777,7 @@ translate russian lavish_shiori_male_ending_1b407c2a:
     lavish.say "Но я всё-таки самая надёжная и честная из всех участников!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2883
-translate russian lavish_shiori_male_ending_16de9855:
+translate russian lavish_shiori_male_ending_64fb1338:
     shiori.say "Я... я не знаю, стоит ли нам это делать, когда [lssb_common.hero_name()] не здесь!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2884
@@ -8785,7 +8785,7 @@ translate russian lavish_shiori_male_ending_93d00ac6:
     shiori.say "Ведь без него ничего этого вообще бы не было, правда?"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2885
-translate russian lavish_shiori_male_ending_58f159c1:
+translate russian lavish_shiori_male_ending_4c892d13:
     shiori.say "Ох... надеюсь, он не расстроится из-за того, что все о нём говорят!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2886
@@ -8797,7 +8797,7 @@ translate russian lavish_shiori_male_ending_80fb32ff:
     lavish.say "Я привыкла к профессиональной обстановке и целеустремлённым коллегам."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2888
-translate russian lavish_shiori_male_ending_b08e7a01:
+translate russian lavish_shiori_male_ending_61a593de:
     lavish.say "А он казался... ну, немного раздолбаем!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2889
@@ -8837,7 +8837,7 @@ translate russian lavish_shiori_male_ending_63daadda:
     shiori.say "И с каждым днём всё сильнее к нему привязывалась."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2898
-translate russian lavish_shiori_male_ending_8eda7546:
+translate russian lavish_shiori_male_ending_e3f5d789:
     lavish.say "Ах... наверное, с самого начала стоило держаться с ним профессиональнее."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2899
@@ -8857,7 +8857,7 @@ translate russian lavish_shiori_male_ending_c7fea004:
     shiori.say "[lssb_common.hero_name()] просил — и я делала всё, причём с удовольствием."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2903
-translate russian lavish_shiori_male_ending_c0b34381:
+translate russian lavish_shiori_male_ending_d5a07efd:
     shiori.say "А когда стало ясно, что ему это тоже нравится... я уже была безнадёжно влюблена!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2904
@@ -8925,7 +8925,7 @@ translate russian lavish_shiori_male_ending_27f98246:
     shiori.say "Мой страх, что [lssb_common.hero_name()] уйдёт к другим девушкам и бросит меня, быстро исчез."
 
 # ch/harems_full/office/events/office_harem_common.rpy:2920
-translate russian lavish_shiori_male_ending_f1773a4c:
+translate russian lavish_shiori_male_ending_ceb0d49d:
     shiori.say "Вскоре они стали мне как сёстры... даже больше, если понимаете, о чём я!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:2921
@@ -9289,11 +9289,11 @@ translate russian audrey_shiori_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3025
-translate russian audrey_shiori_male_ending_64235e41:
+translate russian audrey_shiori_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3026
-translate russian audrey_shiori_male_ending_9751f813:
+translate russian audrey_shiori_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3027
@@ -9329,7 +9329,7 @@ translate russian audrey_shiori_male_ending_f555ec5b:
     audrey.say "Никто из вас не расскажет так хорошо, как я."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3037
-translate russian audrey_shiori_male_ending_16de9855:
+translate russian audrey_shiori_male_ending_64fb1338:
     shiori.say "Я... я не знаю, стоит ли нам это делать, когда [lssb_common.hero_name()] не здесь!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3038
@@ -9337,11 +9337,11 @@ translate russian audrey_shiori_male_ending_93d00ac6:
     shiori.say "Ведь без него ничего этого вообще бы не было, правда?"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3039
-translate russian audrey_shiori_male_ending_58f159c1:
+translate russian audrey_shiori_male_ending_4c892d13:
     shiori.say "Ох... надеюсь, он не расстроится из-за того, что все о нём говорят!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3040
-translate russian audrey_shiori_male_ending_ec759ec2:
+translate russian audrey_shiori_male_ending_c5831c9c:
     audrey.say "Да, обычно я ненавижу мужчин, под которыми приходится... работать!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3041
@@ -9409,7 +9409,7 @@ translate russian audrey_shiori_male_ending_c7fea004:
     shiori.say "[lssb_common.hero_name()] просил — и я делала всё, причём с удовольствием."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3057
-translate russian audrey_shiori_male_ending_c0b34381:
+translate russian audrey_shiori_male_ending_d5a07efd:
     shiori.say "А когда стало ясно, что ему это тоже нравится... я уже была безнадёжно влюблена!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3058
@@ -9469,7 +9469,7 @@ translate russian audrey_shiori_male_ending_059e8d07:
     audrey.say "Так могла ли я представить брак сразу с несколькими?!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3072
-translate russian audrey_shiori_male_ending_c0246911:
+translate russian audrey_shiori_male_ending_a39ef370:
     audrey.say "Ну... может, я именно поэтому и согласилась: идея-то безумная!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3073
@@ -9477,7 +9477,7 @@ translate russian audrey_shiori_male_ending_27f98246:
     shiori.say "Мой страх, что [lssb_common.hero_name()] уйдёт к другим девушкам и бросит меня, быстро исчез."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3074
-translate russian audrey_shiori_male_ending_f1773a4c:
+translate russian audrey_shiori_male_ending_ceb0d49d:
     shiori.say "Вскоре они стали мне как сёстры... даже больше, если понимаете, о чём я!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3075
@@ -9837,11 +9837,11 @@ translate russian audrey_lavish_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3178
-translate russian audrey_lavish_male_ending_64235e41:
+translate russian audrey_lavish_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3179
-translate russian audrey_lavish_male_ending_9751f813:
+translate russian audrey_lavish_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3180
@@ -9889,7 +9889,7 @@ translate russian audrey_lavish_male_ending_1b407c2a:
     lavish.say "Но я всё-таки самая надёжная и честная из всех участников!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3193
-translate russian audrey_lavish_male_ending_ec759ec2:
+translate russian audrey_lavish_male_ending_c5831c9c:
     audrey.say "Да, обычно я ненавижу мужчин, под которыми приходится... работать!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3194
@@ -9909,7 +9909,7 @@ translate russian audrey_lavish_male_ending_80fb32ff:
     lavish.say "Я привыкла к профессиональной обстановке и целеустремлённым коллегам."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3198
-translate russian audrey_lavish_male_ending_b08e7a01:
+translate russian audrey_lavish_male_ending_61a593de:
     lavish.say "А он казался... ну, немного раздолбаем!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3199
@@ -9949,7 +9949,7 @@ translate russian audrey_lavish_male_ending_7d9f90fe:
     audrey.say "И дня не могла прожить, не подразнив его, хотя бы ради реакции!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3208
-translate russian audrey_lavish_male_ending_8eda7546:
+translate russian audrey_lavish_male_ending_e3f5d789:
     lavish.say "Ах... наверное, с самого начала стоило держаться с ним профессиональнее."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3209
@@ -10017,7 +10017,7 @@ translate russian audrey_lavish_male_ending_059e8d07:
     audrey.say "Так могла ли я представить брак сразу с несколькими?!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3225
-translate russian audrey_lavish_male_ending_c0246911:
+translate russian audrey_lavish_male_ending_a39ef370:
     audrey.say "Ну... может, я именно поэтому и согласилась: идея-то безумная!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3226
@@ -10381,11 +10381,11 @@ translate russian aletta_shiori_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3331
-translate russian aletta_shiori_male_ending_64235e41:
+translate russian aletta_shiori_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3332
-translate russian aletta_shiori_male_ending_9751f813:
+translate russian aletta_shiori_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3333
@@ -10425,7 +10425,7 @@ translate russian aletta_shiori_male_ending_18edf2c6:
     aletta.say "В конце концов, мы видели содержимое его трусов после того, как он его нам описывал!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3344
-translate russian aletta_shiori_male_ending_16de9855:
+translate russian aletta_shiori_male_ending_64fb1338:
     shiori.say "Я... я не знаю, стоит ли нам это делать, когда [lssb_common.hero_name()] не здесь!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3345
@@ -10433,7 +10433,7 @@ translate russian aletta_shiori_male_ending_93d00ac6:
     shiori.say "Ведь без него ничего этого вообще бы не было, правда?"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3346
-translate russian aletta_shiori_male_ending_58f159c1:
+translate russian aletta_shiori_male_ending_4c892d13:
     shiori.say "Ох... надеюсь, он не расстроится из-за того, что все о нём говорят!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3347
@@ -10505,7 +10505,7 @@ translate russian aletta_shiori_male_ending_c7fea004:
     shiori.say "[lssb_common.hero_name()] просил — и я делала всё, причём с удовольствием."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3364
-translate russian aletta_shiori_male_ending_c0b34381:
+translate russian aletta_shiori_male_ending_d5a07efd:
     shiori.say "А когда стало ясно, что ему это тоже нравится... я уже была безнадёжно влюблена!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3365
@@ -10577,7 +10577,7 @@ translate russian aletta_shiori_male_ending_27f98246:
     shiori.say "Мой страх, что [lssb_common.hero_name()] уйдёт к другим девушкам и бросит меня, быстро исчез."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3382
-translate russian aletta_shiori_male_ending_f1773a4c:
+translate russian aletta_shiori_male_ending_ceb0d49d:
     shiori.say "Вскоре они стали мне как сёстры... даже больше, если понимаете, о чём я!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3383
@@ -10933,11 +10933,11 @@ translate russian aletta_lavish_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3486
-translate russian aletta_lavish_male_ending_64235e41:
+translate russian aletta_lavish_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3487
-translate russian aletta_lavish_male_ending_9751f813:
+translate russian aletta_lavish_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3488
@@ -11009,7 +11009,7 @@ translate russian aletta_lavish_male_ending_80fb32ff:
     lavish.say "Я привыкла к профессиональной обстановке и целеустремлённым коллегам."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3507
-translate russian aletta_lavish_male_ending_b08e7a01:
+translate russian aletta_lavish_male_ending_61a593de:
     lavish.say "А он казался... ну, немного раздолбаем!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3508
@@ -11049,7 +11049,7 @@ translate russian aletta_lavish_male_ending_af140e8f:
     aletta.say "Но было уже поздно: [lssb_common.hero_name()] сумел втереться ко мне в сердце!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3517
-translate russian aletta_lavish_male_ending_8eda7546:
+translate russian aletta_lavish_male_ending_e3f5d789:
     lavish.say "Ах... наверное, с самого начала стоило держаться с ним профессиональнее."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3518
@@ -11481,11 +11481,11 @@ translate russian aletta_audrey_male_ending_7d5acc60:
     "Священник" "Объявляю вас супругами."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3640
-translate russian aletta_audrey_male_ending_64235e41:
+translate russian aletta_audrey_male_ending_93aed6d6:
     "Священник" "Можете... эм..."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3641
-translate russian aletta_audrey_male_ending_9751f813:
+translate russian aletta_audrey_male_ending_62e42e7b:
     "Священник" "Ну... сделать что-нибудь подобающее случаю!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3642
@@ -11549,7 +11549,7 @@ translate russian aletta_audrey_male_ending_da247318:
     aletta.say "Поначалу он меня не впечатлил, хотя говорят, что мне трудно угодить."
 
 # ch/harems_full/office/events/office_harem_common.rpy:3659
-translate russian aletta_audrey_male_ending_ec759ec2:
+translate russian aletta_audrey_male_ending_c5831c9c:
     audrey.say "Да, обычно я ненавижу мужчин, под которыми приходится... работать!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3660
@@ -11681,7 +11681,7 @@ translate russian aletta_audrey_male_ending_059e8d07:
     audrey.say "Так могла ли я представить брак сразу с несколькими?!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3692
-translate russian aletta_audrey_male_ending_c0246911:
+translate russian aletta_audrey_male_ending_a39ef370:
     audrey.say "Ну... может, я именно поэтому и согласилась: идея-то безумная!"
 
 # ch/harems_full/office/events/office_harem_common.rpy:3693

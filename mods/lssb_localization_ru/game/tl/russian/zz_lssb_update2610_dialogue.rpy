@@ -365,7 +365,7 @@ translate russian maidcafe_order_c60a55a8:
     mike.say "Спасибо, [bree.callname]."
 
 # bg/secondfloor/secondfloor.rpy:211
-translate russian vacuum_bree_sleep_male_2b322ec5:
+translate russian vacuum_bree_sleep_male_d2f8eb81:
     mike.say "О... привет, [bree.callname]."
 
 # bg/secondfloor/secondfloor.rpy:220
@@ -433,7 +433,7 @@ translate russian minami_caught_peeping_male_7b59e40e:
     minami.say "Ни за что, [lssb_minami.hero_name()]."
 
 # bg/secondfloor/secondfloor.rpy:858
-translate russian samantha_caught_peeping_male_f6c29715:
+translate russian samantha_caught_peeping_male_a4dae132:
     mike.say "П... привет, [samantha.callname]!"
 
 # bg/secondfloor/secondfloor.rpy:868
@@ -1189,11 +1189,11 @@ translate russian aletta_event_10_alt_reformed_fe24c277:
     "Я смотрю на неё и качаю головой, пытаясь осмыслить услышанное."
 
 # ch/aletta/events.rpy:7365
-translate russian aletta_event_10_alt_reformed_14048e9c:
+translate russian aletta_event_10_alt_reformed_ab91da05:
     mike.say "Т... ты серьёзно, Алетта?"
 
 # ch/aletta/events.rpy:7366
-translate russian aletta_event_10_alt_reformed_3c82b1cd:
+translate russian aletta_event_10_alt_reformed_b1989ad0:
     mike.say "То есть... это замечательно!"
 
 # ch/aletta/events.rpy:7367
@@ -2021,7 +2021,7 @@ translate russian aletta_hottub_sex_male_8fd20a8c:
     "А когда она выходит с полотенцем, перекинутым через руку, а не обёрнутым вокруг тела, я шумно сглатываю."
 
 # ch/aletta/fuck.rpy:1744
-translate russian aletta_hottub_sex_male_916c7384:
+translate russian aletta_hottub_sex_male_f1cc51ff:
     aletta.say "Я... я мало кому позволяю видеть себя такой."
 
 # ch/aletta/fuck.rpy:1745
@@ -2569,7 +2569,7 @@ translate russian alexis_event_05_1733a776_1:
     "Помахивая членами, они уходят по тропинке, пересмеиваясь между собой."
 
 # ch/alexis/events.rpy:2249
-translate russian alexis_event_06_18ea4f90:
+translate russian alexis_event_06_31a8bd13:
     mike.say "Алексис, думаю, нам лучше больше не видеться... точка."
 
 # ch/alexis/events.rpy:2804
@@ -2597,7 +2597,7 @@ translate russian alexis_preg_talk_e30a6bb2:
     "Но одного взгляда на её лицо хватает, чтобы понять: меня ждёт что-то чертовски тяжёлое."
 
 # ch/alexis/events.rpy:6524
-translate russian alexis_rape_talk_881a2ad7:
+translate russian alexis_rape_talk_8792f95b:
     mike.say "Я... я хотел позвонить тебе и поговорить раньше, Алексис."
 
 # ch/alexis/events.rpy:6531
@@ -6053,7 +6053,7 @@ translate russian ayesha_sub_event_06_3b40b648:
     "Аиша делает долгий вдох."
 
 # ch/ayesha/petplay.rpy:103
-translate russian ayesha_sub_event_06_09195211:
+translate russian ayesha_sub_event_06_9bb38e79:
     ayesha.say "Так что... ты бы смог?"
 
 # ch/ayesha/petplay.rpy:104
@@ -6177,7 +6177,7 @@ translate russian ayesha_sub_event_07_bb1099b1:
     ayesha.say "Хорошо. Ладно. Хорошо."
 
 # ch/ayesha/petplay.rpy:172
-translate russian ayesha_sub_event_07_dc8d842b:
+translate russian ayesha_sub_event_07_de2017e9:
     ayesha.say "Ну и как это... начинается?"
 
 # ch/ayesha/petplay.rpy:174
@@ -6233,7 +6233,7 @@ translate russian ayesha_sub_event_07_2906a739:
     ayesha.say "О."
 
 # ch/ayesha/petplay.rpy:190
-translate russian ayesha_sub_event_07_a6205658:
+translate russian ayesha_sub_event_07_94547096:
     ayesha.say "Это... тяжелее, чем я думала."
 
 # ch/ayesha/petplay.rpy:192
@@ -6461,7 +6461,7 @@ translate russian ayesha_sub_event_07b_7cd94eed:
     ayesha.say "Так вот ПОЧЕМУ ты в последнее время на работе в таком хорошем настроении."
 
 # ch/ayesha/petplay.rpy:295
-translate russian ayesha_sub_event_07b_7879c18f:
+translate russian ayesha_sub_event_07b_f4cb96f3:
     hanna.say "Я... это... никому не говори!"
 
 # ch/ayesha/petplay.rpy:297
@@ -8129,7 +8129,7 @@ translate russian ayesha_act_refuse_male_9aedfd03:
     ayesha.say "Эй, эй. Притормози, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/reactions.rpy:434
-translate russian ayesha_act_refuse_male_66597455:
+translate russian ayesha_act_refuse_male_bd9416d2:
     ayesha.say "Я... я не думаю, что готова к такому."
 
 # ch/ayesha/reactions.rpy:435
@@ -8153,7 +8153,7 @@ translate russian ayesha_act_refuse_hard_male_ba50bbc7:
     ayesha.say "Я ухожу. Так что разбирайся с этим сам!"
 
 # ch/bree/base.rpy:171
-translate russian bree_propose_male_c140f44d:
+translate russian bree_propose_male_3751cad6:
     mike.say "[bree.callname]... ты выйдешь за меня?"
 
 # ch/bree/base.rpy:345
@@ -8245,7 +8245,7 @@ translate russian bree_date_intro_birthday_male_713ff648:
     mike.say "С днем рождения, [bree.callname]!"
 
 # ch/bree/date.rpy:45
-translate russian bree_date_intro_mc_birthday_male_bbcc4d9d:
+translate russian bree_date_intro_mc_birthday_male_24f65e57:
     mike.say "Постой... подожди меня, [bree.callname]!"
 
 # ch/bree/date.rpy:172
@@ -8269,7 +8269,7 @@ translate russian bree_dick_reactions_2e8f34b3:
     mike.say "У тебя что-то случилось, [bree.callname]?"
 
 # ch/bree/date.rpy:367
-translate russian bree_peeping_reactions_male_bd85ddfe:
+translate russian bree_peeping_reactions_male_b16f370f:
     mike.say "Постой... немного отступи, [bree.callname]!"
 
 # ch/bree/date.rpy:392
@@ -8437,7 +8437,7 @@ translate russian bree_sasha_collar_reaction_333b74a0:
     mike.say "[bree.callname], это из-за того ошейника, который я подарил Саше?"
 
 # ch/bree/events/events.rpy:671
-translate russian bree_sasha_collar_reaction_3de5a891:
+translate russian bree_sasha_collar_reaction_44e58566:
     mike.say "Ох... Прости, [bree.callname]."
 
 # ch/bree/events/events.rpy:709
@@ -8469,11 +8469,11 @@ translate russian bree_sasha_pregnant_1202013f:
     mike.say "[bree.callname], пожалуйста..."
 
 # ch/bree/events/events.rpy:856
-translate russian bree_murder_talk_sasha_500df673:
+translate russian bree_murder_talk_sasha_9b8b615f:
     mike.say "Я... мне очень жаль, [bree.callname]."
 
 # ch/bree/events/events.rpy:897
-translate russian bree_murder_talk_sasha_5304f071:
+translate russian bree_murder_talk_sasha_abe7092d:
     mike.say "Я...думаю, я понимаю, что ты имеешь в виду, [bree.callname]."
 
 # ch/bree/events/events.rpy:928
@@ -8481,7 +8481,7 @@ translate russian bree_rape_talk_88e8a85d:
     mike.say "[bree.callname], я просто..."
 
 # ch/bree/events/events.rpy:940
-translate russian bree_rape_talk_04542b67:
+translate russian bree_rape_talk_e3233ba9:
     mike.say "Я... я до сих пор немного потрясен, [bree.callname]."
 
 # ch/bree/events/events.rpy:961
@@ -8533,7 +8533,7 @@ translate russian bree_go_to_the_beach_34ec7cf7:
     mike.say "Прости, [bree.callname], я задумался."
 
 # ch/bree/events/events.rpy:1557
-translate russian bree_go_to_the_beach_15e1e42b:
+translate russian bree_go_to_the_beach_788e690a:
     mike.say "А... да, [bree.callname]... точно."
 
 # ch/bree/events/events.rpy:1725
@@ -8821,7 +8821,7 @@ translate russian bree_event_office_04_5b2abaca:
     "Он выпроваживает нас за дверь и заталкивает в лифт, прежде чем кто-то из нас успевает ответить."
 
 # ch/bree/events/events.rpy:4908
-translate russian bree_morningwood_152a85eb:
+translate russian bree_morningwood_d3048276:
     mike.say "Я... я думаю, я хотел тебя удивить, [bree.callname]."
 
 # ch/bree/events/events.rpy:5010
@@ -8861,11 +8861,11 @@ translate russian bree_event_07_36ee3e5f:
     mike.say "Да, [bree.callname], я серьёзно!"
 
 # ch/bree/events/events_gamer.rpy:965
-translate russian bree_event_07_5583641b:
+translate russian bree_event_07_a3d97f06:
     mike.say "Ты...ты в порядке, [bree.callname]?"
 
 # ch/bree/events/events_gamer.rpy:986
-translate russian bree_event_08_6d22aea6:
+translate russian bree_event_08_83ec1ced:
     mike.say "Что...что такое, [bree.callname]?"
 
 # ch/bree/events/events_gamer.rpy:993
@@ -9009,7 +9009,7 @@ translate russian bree_event_11_bb1f7aad:
     mike.say "[bree.callname], это не игровой турнир."
 
 # ch/bree/events/events_gamer.rpy:1813
-translate russian bree_event_12_c39b6808:
+translate russian bree_event_12_f56cd102:
     mike.say "Эм...хорошо, [bree.callname]."
 
 # ch/bree/events/events_gamer.rpy:1930
@@ -9145,7 +9145,7 @@ translate russian bree_event_17_33412836:
     mike.say "Что случилось, [bree.callname]?"
 
 # ch/bree/events/events_gamer.rpy:2609
-translate russian bree_event_17_4e11c10c:
+translate russian bree_event_17_799d47b0:
     mike.say "Эм... нет, [bree.callname]!"
 
 # ch/bree/events/events_gamer.rpy:2621
@@ -9237,11 +9237,11 @@ translate russian bree_maidcafe_bj_43b02482:
     mike.say "А, да, [bree.callname], конечно!"
 
 # ch/bree/events/events_maid.rpy:1825
-translate russian bree_maidcafe_bj_0b1648c1:
+translate russian bree_maidcafe_bj_e23a83cc:
     mike.say "Д-да, [bree.callname], звучит замечательно!"
 
 # ch/bree/events/events_maid.rpy:1989
-translate russian bree_event_09b_0d6b5563:
+translate russian bree_event_09b_1cb10e2b:
     mike.say "Н... ничего, [bree.callname]..."
 
 # ch/bree/events/events_maid.rpy:1999
@@ -9261,7 +9261,7 @@ translate russian bree_event_09c_b1691ba5:
     mike.say "Конечно, [bree.callname]."
 
 # ch/bree/events/events_maid.rpy:2221
-translate russian bree_event_09c_022f6751:
+translate russian bree_event_09c_b8810e58:
     mike.say "Да... да, это точно, [bree.callname]!"
 
 # ch/bree/events/events_maid.rpy:2252
@@ -9293,7 +9293,7 @@ translate russian bree_event_11b_e7b51b2a:
     mike.say "Что угодно, [bree.callname]. Только скажи!"
 
 # ch/bree/events/events_maid.rpy:2627
-translate russian bree_event_11b_235255dc:
+translate russian bree_event_11b_d4389de7:
     mike.say "Д...да, [bree.callname]."
 
 # ch/bree/events/events_maid.rpy:2671
@@ -9337,7 +9337,7 @@ translate russian bree_event_12b_6951a927:
     mike.say "Если ты так говоришь, [bree.callname]..."
 
 # ch/bree/events/events_maid.rpy:3029
-translate russian bree_event_12b_7f2b0879:
+translate russian bree_event_12b_d7f74383:
     mike.say "А... да, [bree.callname]."
 
 # ch/bree/events/events_maid.rpy:3083
@@ -9513,7 +9513,7 @@ translate russian bree_hottub_sex_male_c7ebfd52:
     "Сидит, и каждый сантиметр её тела скрывает только слой колышущейся воды."
 
 # ch/bree/fuck.rpy:541
-translate russian bree_hottub_sex_male_55243940:
+translate russian bree_hottub_sex_male_6edcea65:
     mike.say "Да нет... всё нормально, [bree.callname]."
 
 # ch/bree/fuck.rpy:548
@@ -9553,7 +9553,7 @@ translate russian bree_hottub_sex_male_a30c0675:
     bree.say "Прости! Это был очень мощный. Мощный оргазм. Не то чтобы... ладно, я замолкаю."
 
 # ch/bree/fuck.rpy:634
-translate russian bree_hottub_sex_male_dcb74053:
+translate russian bree_hottub_sex_male_7f26b815:
     bree.say "П...подожди... вода... я не чувствую своих... [hero.name]..."
 
 # ch/bree/fuck.rpy:635
@@ -9581,7 +9581,7 @@ translate russian bree_fuck_date_intro_male_a80d0073:
     mike.say "Я тоже, [bree.callname]..."
 
 # ch/bree/fuck.rpy:845
-translate russian bree_fuck_date_intro_male_67ca3b0e:
+translate russian bree_fuck_date_intro_male_93eeb63b:
     mike.say "Я... не думал, что ты можешь стать ещё прекраснее, [bree.callname]..."
 
 # ch/bree/fuck.rpy:888
@@ -9625,7 +9625,7 @@ translate russian bree_fuck_date_oral_a17941b5:
     "Потом я вытаскиваю его, скользкий от её соков, и прижимаю кончик к её попке."
 
 # ch/bree/fuck.rpy:1541
-translate russian bree_fuck_date_oral_312be83c:
+translate russian bree_fuck_date_oral_1b0f748c:
     bree.say "Ой, нет... только не туда тоже..."
 
 # ch/bree/fuck.rpy:1548
@@ -9901,7 +9901,7 @@ translate russian bree_fuck_date_cowgirl_fe4d5460:
     "Через несколько секунд она уже дышит нормально — чего не скажешь обо мне."
 
 # ch/bree/fuck.rpy:2902
-translate russian bree_fuck_date_reverse_cowgirl_52529501:
+translate russian bree_fuck_date_reverse_cowgirl_f9f1d9c2:
     mike.say "Д... да, [bree.callname]..."
 
 # ch/bree/fuck.rpy:2908
@@ -10261,11 +10261,11 @@ translate russian bree_gift_collar_male_6180d381:
     mike.say "Ну, понимаешь, [bree.callname]..."
 
 # ch/bree/gift.rpy:226
-translate russian bree_gift_collar_male_e0f639d8:
+translate russian bree_gift_collar_male_63d4c201:
     mike.say "З-звучит отлично, [bree.callname]!"
 
 # ch/bree/gift.rpy:251
-translate russian bree_gift_collar_male_4fd2c5e5:
+translate russian bree_gift_collar_male_b8513249:
     mike.say "Э-это просто ради забавы, [bree.callname]!"
 
 # ch/bree/gift.rpy:267
@@ -12101,7 +12101,7 @@ translate russian bree_ice_cream_reaction_male_dfa434e2:
     mike.say "Знаешь, что нам сейчас нужно для полного счастья, [bree.callname]? Мороженое!"
 
 # ch/bree/reactions.rpy:11
-translate russian bree_ice_cream_reaction_male_e7ebd3eb:
+translate russian bree_ice_cream_reaction_male_c8b132b0:
     mike.say "А... да, [bree.callname]... именно об этом я сейчас и думаю!"
 
 # ch/bree/reactions.rpy:20
@@ -12933,7 +12933,7 @@ translate russian cassidy_desire_4_male_33efe87e:
     cassidy.say "Это неслыханно. Теперь он спрашивает мою мачеху, как прошёл её день. И слушает ответ."
 
 # ch/cassidy/chat.rpy:105
-translate russian cassidy_desire_4_male_893eed34:
+translate russian cassidy_desire_4_male_f3a83483:
     cassidy.say "Я осталась в городе, чтобы посмотреть, как он с треском провалится, а он... всё никак не проваливается."
 
 # ch/cassidy/chat.rpy:106
@@ -13985,7 +13985,7 @@ translate russian petwalk_cassidy_intro_e77b40ee:
     "Я пристёгиваю поводок и слегка тяну за него."
 
 # ch/cassidy/petwalk.rpy:17
-translate russian petwalk_cassidy_intro_4b3f1512:
+translate russian petwalk_cassidy_intro_4df8b9ba:
     cassidy.say "Приятно... даже очень!"
 
 # ch/cassidy/petwalk.rpy:18
@@ -13997,7 +13997,7 @@ translate russian petwalk_cassidy_intro_6716a0ef:
     mike.say "Не так ты меня называешь, Кэссиди. Только не на поводке."
 
 # ch/cassidy/petwalk.rpy:20
-translate russian petwalk_cassidy_intro_14361356:
+translate russian petwalk_cassidy_intro_f2a26b07:
     cassidy.say "Да... господин?"
 
 # ch/cassidy/petwalk.rpy:21
@@ -14161,7 +14161,7 @@ translate russian petwalk_cassidy_street_0919ff2c:
     "Она ползёт. А когда появляется следующая машина, уже не пригибается."
 
 # ch/cassidy/petwalk.rpy:78
-translate russian petwalk_cassidy_street_daf99241:
+translate russian petwalk_cassidy_street_a5794fb6:
     cassidy.say "Так... это было самое безумное, что я когда-либо делала."
 
 # ch/cassidy/petwalk.rpy:80
@@ -14209,7 +14209,7 @@ translate russian petwalk_cassidy_crowd_217a2590:
     "И она идёт — подбородок вверх, попка кверху, — пробираясь сквозь них так, будто улица принадлежит ей."
 
 # ch/cassidy/petwalk.rpy:95
-translate russian petwalk_cassidy_crowd_182c17d3:
+translate russian petwalk_cassidy_crowd_ce5de779:
     cassidy.say "Пусть смотрят... пусть все смотрят..."
 
 # ch/cassidy/petwalk.rpy:97
@@ -14301,7 +14301,7 @@ translate russian petwalk_cassidy_call_12d11fbd:
     "[bree.name] краснеет под цвет ошейника, поднимает руку, и я киваю."
 
 # ch/cassidy/petwalk.rpy:129
-translate russian petwalk_cassidy_call_e754861f:
+translate russian petwalk_cassidy_call_441f9346:
     bree.say "Он из зоомагазина! Мне твой тоже нравится. Он такой... блестящий?"
 
 # ch/cassidy/petwalk.rpy:130
@@ -14437,7 +14437,7 @@ translate russian petwalk_cassidy_joined_4c2fb329:
     cassidy.say "Чтобы ты сразу поняла, милая. Он выгуливает меня первой."
 
 # ch/cassidy/petwalk.rpy:177
-translate russian petwalk_cassidy_joined_d780af00:
+translate russian petwalk_cassidy_joined_b4bc20e6:
     bree.say "Эм... по-моему, он выгуливает нас обеих одновременно? Хи-хи..."
 
 # ch/cassidy/petwalk.rpy:179
@@ -14477,7 +14477,7 @@ translate russian petwalk_cassidy_joined_fe4a9ec8:
     "На пол падает её пальто, потом всё остальное, и она подползает прямо ко мне, чтобы потереться о мою ногу."
 
 # ch/cassidy/petwalk.rpy:192
-translate russian petwalk_cassidy_joined_995d4b3f:
+translate russian petwalk_cassidy_joined_5cef34be:
     cassidy.say "Ррр... гав! Гав, гав!"
 
 # ch/cassidy/petwalk.rpy:193
@@ -14533,7 +14533,7 @@ translate russian petwalk_cassidy_joined_4112fdb9:
     "Она опускается на четвереньки и подползает прямо ко мне, потираясь о мою ногу."
 
 # ch/cassidy/petwalk.rpy:211
-translate russian petwalk_cassidy_joined_995d4b3f_1:
+translate russian petwalk_cassidy_joined_5cef34be_1:
     cassidy.say "Ррр... гав! Гав, гав!"
 
 # ch/cassidy/petwalk.rpy:212
@@ -14633,7 +14633,7 @@ translate russian petwalk_cassidy_tummy_7b32b97d:
     "Я чешу ей животик, и одна её нога дрыгает в воздухе."
 
 # ch/cassidy/petwalk.rpy:247
-translate russian petwalk_cassidy_tummy_9f2804c2:
+translate russian petwalk_cassidy_tummy_f7f4cab8:
     cassidy.say "Ммм... не останавливайся."
 
 # ch/cassidy/petwalk.rpy:248
@@ -14693,7 +14693,7 @@ translate russian petwalk_cassidy_pee_3977ff77:
     cassidy.say "Нам надо вернуться к тебе. СЕЙЧАС ЖЕ!"
 
 # ch/cassidy/petwalk.rpy:272
-translate russian petwalk_cassidy_pee_141138ee:
+translate russian petwalk_cassidy_pee_c7f6a236:
     cassidy.say "Пожалуйста, [lssb_cassidy.hero_name()], ты не понимаешь... мне надо пописать!"
 
 # ch/cassidy/petwalk.rpy:273
@@ -14725,7 +14725,7 @@ translate russian petwalk_cassidy_pee_4fbe6d35:
     cassidy.say "ТАК гораздо лучше!"
 
 # ch/cassidy/petwalk.rpy:281
-translate russian petwalk_cassidy_pee_f84e3f18:
+translate russian petwalk_cassidy_pee_65710287:
     cassidy.say "П... подожди-ка! Ты же говорил, что не будешь смотреть!"
 
 # ch/cassidy/petwalk.rpy:282
@@ -14757,7 +14757,7 @@ translate russian petwalk_cassidy_bj_park_36ce9ad7:
     cassidy.say "Здесь? В парке?"
 
 # ch/cassidy/petwalk.rpy:296
-translate russian petwalk_cassidy_bj_park_5c042127:
+translate russian petwalk_cassidy_bj_park_d1bca825:
     cassidy.say "Ладно... ладно. Но давай побыстрее."
 
 # ch/cassidy/petwalk.rpy:298
@@ -14825,7 +14825,7 @@ translate russian petwalk_cassidy_bj_street_5c30b3d8:
     cassidy.say "Любой, кто проедет мимо, увидит, как я тебе сосу!"
 
 # ch/cassidy/petwalk.rpy:327
-translate russian petwalk_cassidy_bj_street_193f35b7:
+translate russian petwalk_cassidy_bj_street_c9e08597:
     cassidy.say "Боже мой... я правда это сделаю..."
 
 # ch/cassidy/petwalk.rpy:329
@@ -14917,7 +14917,7 @@ translate russian petwalk_cassidy_outro_25dfe32f:
     cassidy.say "[lssb_cassidy.hero_name()]?"
 
 # ch/cassidy/petwalk.rpy:370
-translate russian petwalk_cassidy_outro_74636648:
+translate russian petwalk_cassidy_outro_aa096e13:
     cassidy.say "Мы можем повторить? Ну... скоро?"
 
 # ch/cassidy/petwalk.rpy:372
@@ -14941,7 +14941,7 @@ translate russian petwalk_cassidy_ask_d93af762:
     cassidy.say "Я об этом весь день думаю."
 
 # ch/cassidy/petwalk.rpy:385
-translate russian petwalk_cassidy_ask_0d31e2bc:
+translate russian petwalk_cassidy_ask_5051911a:
     cassidy.say "Выгуляешь меня... как... как собаку?"
 
 # ch/cassidy/petwalk.rpy:387
@@ -15033,7 +15033,7 @@ translate russian petwalk_cassidy_bark_street_b5b8862e:
     "Passer-by" "Эта девушка что, на нас гавкнула?"
 
 # ch/cassidy/petwalk.rpy:424
-translate russian petwalk_cassidy_bark_street_6a402f2c:
+translate russian petwalk_cassidy_bark_street_65e79926:
     cassidy.say "Я только что облаяла людей... и даже лицо не прятала!"
 
 # ch/cassidy/petwalk.rpy:426
@@ -15189,7 +15189,7 @@ translate russian petwalk_cassidy_tummy_street_269f88a9:
     "Велосипедист резко объезжает её и чуть не врезается в фонарный столб."
 
 # ch/cassidy/petwalk.rpy:483
-translate russian petwalk_cassidy_tummy_street_383cc1a2:
+translate russian petwalk_cassidy_tummy_street_8a05ee04:
     cassidy.say "Ммм... продолжай."
 
 # ch/cassidy/petwalk.rpy:488
@@ -15449,7 +15449,7 @@ translate russian petwalk_cassidy_pee_street_349c56c7:
     "Passer-by" "Ни хрена себе! Она ссыт на столб!"
 
 # ch/cassidy/petwalk.rpy:587
-translate russian petwalk_cassidy_pee_street_09e6868d:
+translate russian petwalk_cassidy_pee_street_9c981688:
     cassidy.say "О боже, о боже... все же видят..."
 
 # ch/cassidy/petwalk.rpy:588
@@ -15497,7 +15497,7 @@ translate russian petwalk_cassidy_pee_crowd_d295e1bb:
     "Толпа сходит с ума. Визг, смех, кто-то орёт ей, чтобы не дёргалась, а то он не может приблизить."
 
 # ch/cassidy/petwalk.rpy:608
-translate russian petwalk_cassidy_pee_crowd_37412a29:
+translate russian petwalk_cassidy_pee_crowd_7d31ac8e:
     cassidy.say "О боже... а если папочка это увидит..."
 
 # ch/cassidy/petwalk.rpy:609
@@ -15553,7 +15553,7 @@ translate russian petwalk_cassidy_bj_after_street_d4a5e769:
     "Мимо со скоростью пешехода проползает машина. Водитель показывает ей большой палец."
 
 # ch/cassidy/petwalk.rpy:637
-translate russian petwalk_cassidy_bj_after_street_709958e2:
+translate russian petwalk_cassidy_bj_after_street_84e0c052:
     cassidy.say "Он что... показал мне большой палец?"
 
 # ch/cassidy/petwalk.rpy:638
@@ -15677,7 +15677,7 @@ translate russian cherie_vault_25d001cd:
     cherie.say "И, думаю, выгодная сделка для меня. Вы приходите, когда я зову, — и именно так мне и нравится."
 
 # ch/cherie/events.rpy:1282
-translate russian cherie_vault_a0ef88e0:
+translate russian cherie_vault_9b0b7a84:
     cherie.say "И, думаю, выгодная сделка для меня. Знать, что вы придёте, стоит мне только попросить... с этим я чувствую себя в безопасности."
 
 # ch/cherie/events.rpy:1358
@@ -15757,7 +15757,7 @@ translate russian emma_hottub_32518b41:
     emma.say "Все говорят о своём теле так, будто это проблема, которую надо решить."
 
 # ch/emma/date.rpy:812
-translate russian emma_hottub_5d010c56:
+translate russian emma_hottub_7328c559:
     emma.say "А потом залезаешь в тёплую воду, и оно просто... твоё. Оно просто есть."
 
 # ch/emma/date.rpy:813
@@ -16853,11 +16853,11 @@ translate russian petwalk_hanna_intro_5266bbb9:
     "Попробуйте сами, когда у вас такой стояк от одного её вида."
 
 # ch/hanna/petwalk.rpy:19
-translate russian petwalk_hanna_intro_dd39a79c:
+translate russian petwalk_hanna_intro_46f0bfbc:
     mike.say "Вот так... хорошая девочка."
 
 # ch/hanna/petwalk.rpy:20
-translate russian petwalk_hanna_intro_011ad51a:
+translate russian petwalk_hanna_intro_14e7b81f:
     hanna.say "Ммм... обожаю, когда ты меня так называешь!"
 
 # ch/hanna/petwalk.rpy:21
@@ -16909,7 +16909,7 @@ translate russian petwalk_hanna_park_412a1a16:
     "До парка мы добираемся в рекордное время, и она всё ещё тащит меня к траве."
 
 # ch/hanna/petwalk.rpy:39
-translate russian petwalk_hanna_park_e745d508:
+translate russian petwalk_hanna_park_bffa125b:
     hanna.say "Ну... пойдём...[lssb_hanna.hero_name()]..."
 
 # ch/hanna/petwalk.rpy:40
@@ -16981,7 +16981,7 @@ translate russian petwalk_hanna_alley_3b581b3a:
     hanna.say "Мимо окон иди помедленнее, ладно?"
 
 # ch/hanna/petwalk.rpy:64
-translate russian petwalk_hanna_alley_4ea09e2c:
+translate russian petwalk_hanna_alley_7a6dff42:
     hanna.say "Просто... на всякий случай."
 
 # ch/hanna/petwalk.rpy:65
@@ -17397,7 +17397,7 @@ translate russian petwalk_hanna_joined_ed5eb93d:
     hanna.say "Ой! Привет! Ты, наверное, соседка."
 
 # ch/hanna/petwalk.rpy:218
-translate russian petwalk_hanna_joined_93897594:
+translate russian petwalk_hanna_joined_ca22f852:
     hanna.say "Я [hanna.name]. Я бы пожала тебе руку, но ты на ней вроде как... стоишь."
 
 # ch/hanna/petwalk.rpy:219
@@ -17473,7 +17473,7 @@ translate russian petwalk_hanna_joined_2723196b:
     hanna.say "Ой. ОЙ."
 
 # ch/hanna/petwalk.rpy:245
-translate russian petwalk_hanna_joined_01010377:
+translate russian petwalk_hanna_joined_4c62983d:
     hanna.say "Привет. Я [hanna.name]. Это у тебя... милый ошейник?"
 
 # ch/hanna/petwalk.rpy:246
@@ -17617,7 +17617,7 @@ translate russian petwalk_hanna_bark_4617a084:
     mike.say "Голос, девочка."
 
 # ch/hanna/petwalk.rpy:296
-translate russian petwalk_hanna_bark_cc708b3e:
+translate russian petwalk_hanna_bark_6c723fcb:
     hanna.say "Ты хочешь, чтобы я... залаяла? Вслух? Прямо здесь?"
 
 # ch/hanna/petwalk.rpy:297
@@ -17709,7 +17709,7 @@ translate russian petwalk_hanna_tummy_1cbc35e3:
     hanna.say "Ниже."
 
 # ch/hanna/petwalk.rpy:327
-translate russian petwalk_hanna_tummy_88fc092d:
+translate russian petwalk_hanna_tummy_5bb13247:
     hanna.say "Ниже... вот тут."
 
 # ch/hanna/petwalk.rpy:328
@@ -17853,7 +17853,7 @@ translate russian petwalk_hanna_bj_alley_01e0bbcd:
     hanna.say "Прямо здесь? Рядом с мусорным баком?"
 
 # ch/hanna/petwalk.rpy:390
-translate russian petwalk_hanna_bj_alley_cf2ee1f3:
+translate russian petwalk_hanna_bj_alley_5f0fbc3d:
     hanna.say "[lssb_hanna.hero_name()], это же... мерзко."
 
 # ch/hanna/petwalk.rpy:391
@@ -17909,7 +17909,7 @@ translate russian petwalk_hanna_bj_crowd_f84a85e2:
     "Кто-то свистит. Загорается фонарик телефона, потом ещё три."
 
 # ch/hanna/petwalk.rpy:420
-translate russian petwalk_hanna_bj_crowd_969c4738:
+translate russian petwalk_hanna_bj_crowd_66317cb4:
     hanna.say "[lssb_hanna.hero_name()], они... они все смотрят."
 
 # ch/hanna/petwalk.rpy:421
@@ -17941,7 +17941,7 @@ translate russian petwalk_hanna_bj_after_95b1a343:
     "Отдышавшись, Ханна поднимает на меня взгляд и вопросительно поскуливает."
 
 # ch/hanna/petwalk.rpy:436
-translate russian petwalk_hanna_bj_after_c4c13d69:
+translate russian petwalk_hanna_bj_after_d90d0bb0:
     hanna.say "Я... мне хорошо удалось?"
 
 # ch/hanna/petwalk.rpy:437
@@ -18029,7 +18029,7 @@ translate russian petwalk_hanna_ask_403339cd:
     hanna.say "Я весь день была хорошей. Ну, прям очень хорошей."
 
 # ch/hanna/petwalk.rpy:472
-translate russian petwalk_hanna_ask_a962ba5f:
+translate russian petwalk_hanna_ask_6b7d63de:
     hanna.say "Вот я и подумала... может... если ты не занят..."
 
 # ch/hanna/petwalk.rpy:474
@@ -18045,7 +18045,7 @@ translate russian petwalk_hanna_ask_fe21f951:
     "Её лицо становится цвета знака «стоп»."
 
 # ch/hanna/petwalk.rpy:480
-translate russian petwalk_hanna_ask_3f92d318:
+translate russian petwalk_hanna_ask_b1d1b3ad:
     hanna.say "Гулять... пожалуйста?"
 
 # ch/hanna/petwalk.rpy:484
@@ -18129,11 +18129,11 @@ translate russian petwalk_hanna_bark_street_56624bc2:
     "Парень роняет сигарету. Его девушка хватает его за руку."
 
 # ch/hanna/petwalk.rpy:518
-translate russian petwalk_hanna_bark_street_849ca556:
+translate russian petwalk_hanna_bark_street_d8a80b2f:
     "Passer-by" "Она что... на нас гавкнула?"
 
 # ch/hanna/petwalk.rpy:519
-translate russian petwalk_hanna_bark_street_61636357:
+translate russian petwalk_hanna_bark_street_defda221:
     hanna.say "Да! То есть... гав."
 
 # ch/hanna/petwalk.rpy:520
@@ -19121,7 +19121,7 @@ translate russian bree_sasha_alternative_creation_bcf984db:
     mike.say "Ты серьёзно, [bree.callname]?"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2905
-translate russian bree_sasha_alternative_creation_d73b73bc:
+translate russian bree_sasha_alternative_creation_3cb99186:
     mike.say "Ладно, [bree.callname], это... очень лестно."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:2941
@@ -19885,11 +19885,11 @@ translate russian bree_sasha_alternative_creation_67d5b96e_1:
     mike.say "Угх..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3871
-translate russian bree_sasha_alternative_creation_4bea757a:
+translate russian bree_sasha_alternative_creation_7b7e2cd2:
     mike.say "Н... нет, Саша..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3872
-translate russian bree_sasha_alternative_creation_d1ab5fca:
+translate russian bree_sasha_alternative_creation_50fabf26:
     mike.say "Я знаю, что у тебя есть... выносливость!"
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3874
@@ -20569,7 +20569,7 @@ translate russian minami_sasha_propose_male_d34bce43:
     minami.say "Я в деле, [lssb_minami.hero_name()]!"
 
 # ch/harems/home/events/home_harem_common.rpy:3730
-translate russian bree_sasha_propose_male_af5358d6:
+translate russian bree_sasha_propose_male_1faf2f03:
     mike.say "[bree.callname]... Саша... вы выйдете за меня?"
 
 # ch/harems/home/events/home_harem_common.rpy:4208
@@ -20649,7 +20649,7 @@ translate russian bree_lexi_pregnant_showdown_f7840976:
     mike.say "Тебе бы говорить потише, [bree.callname]!"
 
 # ch/harems/home/events/home_harem_minami.rpy:340
-translate russian minami_request_1c9d50a5:
+translate russian minami_request_bb1ee5ad:
     minami.say "Эм... привет, [lssb_minami.hero_name()]."
 
 # ch/harems/home/events/home_harem_minami.rpy:354
@@ -20725,7 +20725,7 @@ translate russian sasha_convince_bree_149a38d4:
     mike.say "И без тебя всё было бы совсем не то, [bree.callname]!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1146
-translate russian sasha_convince_bree_e85247c0:
+translate russian sasha_convince_bree_0da8d261:
     mike.say "Нет... ни за что, [bree.callname]."
 
 # ch/harems/home/events/home_harem_minami.rpy:1360
@@ -20797,7 +20797,7 @@ translate russian bree_minami_threesome_4a552e0c_1:
     minami.say "[bree.callname]... ты сейчас доведёшь меня до оргазма!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2238
-translate russian bree_minami_sandwich_cbde97ed:
+translate russian bree_minami_sandwich_c9986dc7:
     minami.say "Л... ладно, [lssb_minami.hero_name()]!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2750
@@ -20833,7 +20833,7 @@ translate russian minami_sasha_threesome_03d42965:
     minami.say "Не останавливайся, [lssb_minami.hero_name()]!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3049
-translate russian minami_sasha_threesome_ab4c4cd4:
+translate russian minami_sasha_threesome_eb51e2d7:
     minami.say "Ох... ох, [lssb_minami.hero_name()]!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3063
@@ -20861,7 +20861,7 @@ translate russian foursome_bree_minami_sasha_6785d389:
     minami.say "Ох, [lssb_minami.hero_name()]..."
 
 # ch/harems/home/events/home_harem_minami.rpy:3788
-translate russian foursome_bree_minami_sasha_4ae362ef:
+translate russian foursome_bree_minami_sasha_02e19bdc:
     minami.say "[lssb_minami.hero_name()]... она... она суёт его..."
 
 # ch/harems/home/events/home_harem_minami.rpy:3798
@@ -20893,7 +20893,7 @@ translate russian ask_bree_about_sam_5c368a58:
     mike.say "А, привет, [bree.callname]!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:525
-translate russian ask_bree_about_sam_8aac2f2d:
+translate russian ask_bree_about_sam_ce8b1f6e:
     mike.say "А... ладно, [bree.callname], ты меня поймала."
 
 # ch/harems/home/events/home_harem_samantha.rpy:544
@@ -20925,7 +20925,7 @@ translate russian introduce_sam_to_girls_69515625:
     minami.say "[lssb_minami.hero_name()] всегда был от тебя без ума!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1210
-translate russian sexual_tension_bree_sam_21c908bb:
+translate russian sexual_tension_bree_sam_7d91b135:
     mike.say "Это... здорово, [bree.callname]... просто здорово!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:1352
@@ -20997,7 +20997,7 @@ translate russian sexual_tension_sam_minami_31f904b5:
     minami.say "Ну же, [lssb_minami.hero_name()]!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2113
-translate russian lesbian_sex_sam_minami_b54a296a:
+translate russian lesbian_sex_sam_minami_4cfbfa34:
     minami.say "Я... я не хочу, чтобы [lssb_minami.hero_name()] на меня злился, Сэм!"
 
 # ch/harems/home/events/home_harem_samantha.rpy:2201
@@ -21129,11 +21129,11 @@ translate russian xmas_party_presents_c7ef514d:
     minami.say "Они идеальны, [lssb_minami.hero_name()]!"
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:984
-translate russian xmas_party_presents_87a17461:
+translate russian xmas_party_presents_bcd84e31:
     minami.say "Я... я не понимаю, [lssb_minami.hero_name()]."
 
 # ch/harems/home/events/home_harem_xmas_party.rpy:993
-translate russian xmas_party_presents_ff83cef2:
+translate russian xmas_party_presents_005f1bab:
     minami.say "Уф... не в этом дело, [lssb_minami.hero_name()]!"
 
 # ch/harems_full/band/band_harem_poly.rpy:226
@@ -22081,7 +22081,7 @@ translate russian kleioannafoursome_e51185c2:
     kleio.say "Правило четвёртое сработало. Терпеть не могу, когда правила Анны работают."
 
 # ch/harems_full/band/events.rpy:583
-translate russian kleioannafoursome_19c0571b:
+translate russian kleioannafoursome_04a3d011:
     mike.say "Так... это да или нет?"
 
 # ch/harems_full/band/events.rpy:661
@@ -22285,7 +22285,7 @@ translate russian science_project_02_928a2bb8:
     mike.say "Выслушай Анну, [bree.callname]!"
 
 # ch/harems_full/college/events.rpy:816
-translate russian college_cowgirl_sex_24734790:
+translate russian college_cowgirl_sex_53e1c4e2:
     mike.say "Анна... вставь его ей в киску."
 
 # ch/harems_full/college/events.rpy:817
@@ -22301,7 +22301,7 @@ translate russian college_cowgirl_sex_34e8fc2d:
     "Клянусь, я чувствую, как оно вибрирует о мой ствол, пока [bree.name] насаживается на меня."
 
 # ch/harems_full/college/events.rpy:841
-translate russian college_cowgirl_sex_0f82b069:
+translate russian college_cowgirl_sex_34dc86de:
     mike.say "Н-ну как мы справились, [bree.callname]?"
 
 # ch/harems_full/college/events.rpy:1011
@@ -22345,7 +22345,7 @@ translate russian camila_lexi_threesome_fuck_654cac80:
     "Бёдра Камилы дёргаются, как только первый шарик упирается ей в попку, а когда она опускается обратно, то почти всю работу делает за меня."
 
 # ch/harems_full/criminal/events.rpy:2155
-translate russian camila_lexi_threesome_fuck_a2b2081c:
+translate russian camila_lexi_threesome_fuck_901ce246:
     camila.say "Ооо! Что это?! Ох... какой же ты шалун!"
 
 # ch/harems_full/criminal/events.rpy:2156
@@ -24573,7 +24573,7 @@ translate russian taming_event_04_90b20da0:
     kylie.say "Ох..."
 
 # ch/harems_full/taming/events.rpy:3223
-translate russian taming_event_04_1d3654c4:
+translate russian taming_event_04_ab1b5dc6:
     kylie.say "Блядь... как же ХОРОШО!"
 
 # ch/harems_full/taming/events.rpy:3226
@@ -24617,7 +24617,7 @@ translate russian harmony_hottub_532efb4e:
     harmony.say "Знаешь, что мне в этом нравится, [lssb_harmony.hero_name()]?"
 
 # ch/harmony/date.rpy:878
-translate russian harmony_hottub_7d02f3f3:
+translate russian harmony_hottub_fe5325c1:
     harmony.say "Ничего не впивается. Ничего не жмёт. Всему просто... позволено быть."
 
 # ch/harmony/date.rpy:879
@@ -24733,7 +24733,7 @@ translate russian harmony_fuck_cunnilingus_e11b3736:
     "Я осторожно ввожу её между её ягодиц, и тугая маленькая попка медленно поддаётся."
 
 # ch/harmony/fuck.rpy:1134
-translate russian harmony_fuck_cunnilingus_2b0c4711:
+translate russian harmony_fuck_cunnilingus_bf195f19:
     harmony.say "Это... та пробка, которую ты мне подарил?"
 
 # ch/harmony/fuck.rpy:1136
@@ -25141,7 +25141,7 @@ translate russian jack_event_04_42bd49ed:
     mike.say "Э-э, [bree.callname]..."
 
 # ch/jack/events.rpy:1306
-translate russian jack_event_04_7d7ce303:
+translate russian jack_event_04_a9f1921f:
     minami.say "Мур-р... конечно, [lssb_minami.hero_name()]..."
 
 # ch/jack/events.rpy:1398
@@ -25309,7 +25309,7 @@ translate russian kleio_love_5_male_9cb8443a:
     kleio.say "Ну. Твоя и Морган. В свидетельстве о браке написано «Морган», так что я у тебя во временном пользовании."
 
 # ch/kleio/chat.rpy:246
-translate russian kleio_good_sweet_talk_male_fcfcb430:
+translate russian kleio_good_sweet_talk_male_606f71a8:
     kleio.say "Ох... спасибо, [lssb_kleio.hero_name()]!"
 
 # ch/kleio/chat.rpy:249
@@ -25437,7 +25437,7 @@ translate russian kleio_halloween_invitation_bc144ee9:
     kleio.say "Только не думай слишком долго, [lssb_kleio.hero_name()]."
 
 # ch/kleio/date.rpy:400
-translate russian kleio_halloween_arrival_a7288fc0:
+translate russian kleio_halloween_arrival_e876b5be:
     kleio.say "То есть... [lssb_kleio.hero_name()]?"
 
 # ch/kleio/date.rpy:461
@@ -25601,7 +25601,7 @@ translate russian kleio_event_07_81488ff8:
     kleio.say "Ты что, [lssb_kleio.hero_name()]?"
 
 # ch/kleio/events.rpy:2504
-translate russian kleio_getting_serious_02_532bbd81:
+translate russian kleio_getting_serious_02_1ebf4592:
     kleio.say "Эй... эй, [lssb_kleio.hero_name()]!"
 
 # ch/kleio/events.rpy:2589
@@ -25661,7 +25661,7 @@ translate russian kleio_male_ending_9a393b51:
     kleio.say "Каждый раз, когда заходит речь, [heroname] чуть не обсирается."
 
 # ch/kleio/events.rpy:3390
-translate russian kleio_male_ending_63d2af38:
+translate russian kleio_male_ending_bd6a6192:
     kleio.say "Хотя... может быть, если это [heroname]!"
 
 # ch/kleio/events.rpy:3493
@@ -26089,7 +26089,7 @@ translate russian kleio_fuck_date_cunni_9adefc7e:
     kleio.say "Не останавливайся. Только не останавливайся. Клянусь богом, [lssb_kleio.hero_name()], бросишь меня сейчас — я тебя прикончу."
 
 # ch/kleio/fuck.rpy:1109
-translate russian kleio_fuck_date_cunni_253311b0:
+translate russian kleio_fuck_date_cunni_3d1736dd:
     kleio.say "Чт... что такое, [lssb_kleio.hero_name()]?"
 
 # ch/kleio/fuck.rpy:1129
@@ -27689,7 +27689,7 @@ translate russian kylie_greet_761f96de:
     kylie.say "Привеет, [lssb_kylie.hero_name()]! Наш маленький толкнулся, как только ты вошёл. По-моему, он тебя уже любит."
 
 # ch/kylie/base.rpy:121
-translate russian kylie_greet_7d263015:
+translate russian kylie_greet_68c311af:
     kylie.say "Так... так рада тебя видеть, [lssb_kylie.hero_name()]! Я ведь всегда точно знаю, где ты."
 
 # ch/kylie/base.rpy:122
@@ -27709,7 +27709,7 @@ translate russian kylie_greet_eea36b22:
     kylie.say "Не смотри на меня так, глупенький. Я говорю это только потому, что люблю тебя. Больше всего на свете."
 
 # ch/kylie/base.rpy:133
-translate russian kylie_greet_4c9dc751:
+translate russian kylie_greet_c37150e9:
     kylie.say "Хм... хнн... так рада тебя видеть, [lssb_kylie.hero_name()]. Кстати, я видела, с кем ты недавно разговаривал."
 
 # ch/kylie/base.rpy:134
@@ -27729,7 +27729,7 @@ translate russian kylie_greet_9d649b60:
     kylie.say "И я ни за что не смогу тебя отпустить. Мне нужно, чтобы ты это понял. Я говорю это очень-очень нежно."
 
 # ch/kylie/base.rpy:145
-translate russian kylie_greet_246bc5b1:
+translate russian kylie_greet_60006414:
     kylie.say "Хм... хнн... ах... так... так рада тебя видеть, [lssb_kylie.hero_name()]! Ты ведь сегодня не разговаривал ни с какими другими девушками, правда?"
 
 # ch/kylie/base.rpy:148
@@ -27869,7 +27869,7 @@ translate russian kylie_love_1_male_2fd214c7:
     mike.say "Будь моей хорошей девочкой, Кайли."
 
 # ch/kylie/chat.rpy:112
-translate russian kylie_love_1_male_79ea4b44:
+translate russian kylie_love_1_male_cb2838ca:
     kylie.say "Да... я буду такой хорошей для тебя. Кем только захочешь."
 
 # ch/kylie/chat.rpy:115
@@ -27909,7 +27909,7 @@ translate russian kylie_love_2_male_1e71663e:
     mike.say "Ты могла бы иногда проводить время с другими девушками, Кайли."
 
 # ch/kylie/chat.rpy:143
-translate russian kylie_love_2_male_d2aae356:
+translate russian kylie_love_2_male_86a6675d:
     kylie.say "Хм... некоторые из них довольно милые, наверное."
 
 # ch/kylie/chat.rpy:144
@@ -27985,7 +27985,7 @@ translate russian kylie_bad_sweet_talk_male_75c5f294_1:
     kylie.say "Кто сказал тебе, что я безумная?!"
 
 # ch/kylie/chat.rpy:237
-translate russian kylie_bad_sweet_talk_male_1ff56ed0_1:
+translate russian kylie_bad_sweet_talk_male_9b9537dd_1:
     mike.say "Эм... может, забудем, что я это сказал?"
 
 # ch/kylie/condom.rpy:27
@@ -28608,9 +28608,9 @@ translate russian kylie_event_09b_2ebd5e11:
 translate russian kylie_event_03_0650c331:
     kylie.say "А на мне ничего нет, кроме маленьких голубых трусиков..."
 
-# ch/kylie/events.rpy:6416
-translate russian kylie_event_02_b48bb490:
-    "Я в университетской библиотеке и оглядываюсь, словно никогда раньше здесь не бывал."
+# ch/kylie/events.rpy:6412
+translate russian kylie_event_02_7af0dcd9:
+    "Я захожу в университетскую библиотеку и оглядываюсь, словно никогда раньше здесь не бывал."
 
 # ch/kylie/events.rpy:6667
 translate russian kylie_birthday_date_male_30855a5b:
@@ -28641,7 +28641,7 @@ translate russian kylie_birthday_sex_f8484ab1:
     "Она говорит это как само собой разумеющееся — будто напоминает о том, о чём мы давно договорились."
 
 # ch/kylie/events.rpy:7383
-translate russian kylie_birthday_sex_acccc5ab:
+translate russian kylie_birthday_sex_3c3b405e:
     kylie.say "М-м-м... останься во мне ещё немного, [lssb_kylie.hero_name()]. Я не люблю, когда ты ускользаешь."
 
 # ch/kylie/events.rpy:7384
@@ -30301,7 +30301,7 @@ translate russian lavish_hottub_7489c9dd:
     "Потом вода доходит ей до плеч, и вся грация мигом с неё слетает."
 
 # ch/lavish/date.rpy:672
-translate russian lavish_hottub_6756356e:
+translate russian lavish_hottub_f1c7c1f0:
     lavish.say "Ох! Ох, это... это просто нечто."
 
 # ch/lavish/date.rpy:673
@@ -30753,7 +30753,7 @@ translate russian lexi_fuck_beach_0e08dbf7:
     "Но от вида её тела мой член всё равно начинает набухать — прямо у неё на глазах."
 
 # ch/lexi/fuck.rpy:323
-translate russian lexi_fuck_beach_24961ebb:
+translate russian lexi_fuck_beach_84e3db15:
     mike.say "Я... я... просто думал, как красиво ты выглядишь."
 
 # ch/lexi/fuck.rpy:397
@@ -31905,15 +31905,15 @@ translate russian minami_love_3_male_1aa6dd7a:
     minami.say "Хочешь, я тебя завтра с утра немного побалую, [lssb_minami.hero_name()]?"
 
 # ch/minami/chat.rpy:347
-translate russian minami_love_4_male_9d997086:
+translate russian minami_love_4_male_e5bdeee6:
     minami.say "Я... хочу проводить с тобой больше времени, [lssb_minami.hero_name()]."
 
 # ch/minami/chat.rpy:407
-translate russian minami_love_5_male_d0d3fa1c:
+translate russian minami_love_5_male_fcc7f51e:
     minami.say "Я... мне страшно это говорить, [lssb_minami.hero_name()]."
 
 # ch/minami/chat.rpy:410
-translate russian minami_love_5_male_d0d3fa1c_1:
+translate russian minami_love_5_male_fcc7f51e_1:
     minami.say "Я... мне страшно это говорить, [lssb_minami.hero_name()]."
 
 # ch/minami/chat.rpy:448
@@ -31941,7 +31941,7 @@ translate russian minami_warn_condom_88d054e1:
     minami.say "[lssb_minami.hero_name()]..."
 
 # ch/minami/condom.rpy:48
-translate russian minami_warn_condom_f7a0323d:
+translate russian minami_warn_condom_095ce416:
     minami.say "Ой... подожди, [lssb_minami.hero_name()]!"
 
 # ch/minami/condom.rpy:66
@@ -32021,7 +32021,7 @@ translate russian minami_date_play_arcade_win_male_393a130c:
     minami.say "Да, хочу, [lssb_minami.hero_name()]."
 
 # ch/minami/date.rpy:412
-translate russian minami_date_play_arcade_lose_male_f13afe6b:
+translate russian minami_date_play_arcade_lose_male_76eff8d5:
     minami.say "Ха-ха... не успел, [lssb_minami.hero_name()]!"
 
 # ch/minami/date.rpy:419
@@ -32113,7 +32113,7 @@ translate russian minami_halloween_arrival_4294cf63:
     minami.say "Это школьная форма, [lssb_minami.hero_name()]."
 
 # ch/minami/date.rpy:734
-translate russian minami_halloween_arrival_fdfa9164:
+translate russian minami_halloween_arrival_e9b514d3:
     minami.say "Но... мы же давно знакомы, [lssb_minami.hero_name()]."
 
 # ch/minami/date.rpy:755
@@ -32285,7 +32285,7 @@ translate russian minami_murder_talk_bree_acee2d1c:
     minami.say "Ой, не беспокойся обо мне, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:1228
-translate russian minami_murder_talk_bree_e985096d:
+translate russian minami_murder_talk_bree_ec2c438b:
     minami.say "Я... мне не хватает [bree.name], [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:1263
@@ -32321,11 +32321,11 @@ translate russian minami_murder_talk_87acb136:
     minami.say "Этим был ты, [lssb_minami.hero_name()]!"
 
 # ch/minami/events.rpy:1454
-translate russian minami_angela_conversation_da407a73:
+translate russian minami_angela_conversation_374173fe:
     minami.say "П... привет, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:1472
-translate russian minami_angela_conversation_220c5c77:
+translate russian minami_angela_conversation_7eda2cb2:
     minami.say "П... прости, что я убежала, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:1483
@@ -32337,7 +32337,7 @@ translate russian minami_angela_conversation_95c145c8:
     minami.say "Я верю тебе, [lssb_minami.hero_name()]. Правда верю."
 
 # ch/minami/events.rpy:1496
-translate russian minami_angela_conversation_f076bc2f:
+translate russian minami_angela_conversation_b0074237:
     minami.say "Но... но мне всё ещё страшно, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:1506
@@ -32465,7 +32465,7 @@ translate russian minami_practice_sex_6785d389:
     minami.say "Ох, [lssb_minami.hero_name()]..."
 
 # ch/minami/events.rpy:2123
-translate russian minami_practice_sex_d67b1401:
+translate russian minami_practice_sex_45427f10:
     minami.say "[lssb_minami.hero_name()]... как же... как хорошо!"
 
 # ch/minami/events.rpy:2135
@@ -32529,7 +32529,7 @@ translate russian minami_react_kylie_sentence_eb4f6ee9:
     minami.say "Это насчёт Кайли, [lssb_minami.hero_name()]..."
 
 # ch/minami/events.rpy:2579
-translate russian minami_react_kylie_sentence_50ec7d9a:
+translate russian minami_react_kylie_sentence_9ded1d38:
     minami.say "И... я правда ненавижу ТО, что она сделала, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:2592
@@ -32605,7 +32605,7 @@ translate russian minami_siscon_cap_03_45e7b261:
     minami.say "Обещаешь быть нежным, [lssb_minami.hero_name()]?"
 
 # ch/minami/events.rpy:2881
-translate russian minami_siscon_cap_03_2dcaf02f:
+translate russian minami_siscon_cap_03_97878074:
     minami.say "Я... я тоже, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:2908
@@ -32677,7 +32677,7 @@ translate russian minami_siscon_cap_01_1419804a:
     minami.say "Нет, не глупи, [lssb_minami.hero_name()]!"
 
 # ch/minami/events.rpy:3185
-translate russian minami_siscon_cap_01_cc4a640a:
+translate russian minami_siscon_cap_01_40f0c6d8:
     minami.say "Но... если ты мне поможешь, [lssb_minami.hero_name()]..."
 
 # ch/minami/events.rpy:3193
@@ -32725,7 +32725,7 @@ translate russian minami_siscon_09_257bf2fb:
     minami.say "Ты ОБЯЗАН пойти со мной, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:3424
-translate russian minami_siscon_09_5cce4354:
+translate russian minami_siscon_09_2da1c28c:
     minami.say "Я... наверное, ты прав, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:3448
@@ -32829,7 +32829,7 @@ translate russian minami_siscon_06b_98659b6f:
     minami.say "Уверена, мог бы, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:4006
-translate russian minami_siscon_06b_4334dc9c:
+translate russian minami_siscon_06b_6ac54d0d:
     minami.say "Н... не обязательно быть таким злым, [lssb_minami.hero_name()]!"
 
 # ch/minami/events.rpy:4078
@@ -33009,7 +33009,7 @@ translate russian minami_preg_talk_7566caf3:
     minami.say "Сейчас ты так говоришь, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:4976
-translate russian minami_preg_talk_1c26d7ca:
+translate russian minami_preg_talk_f8237b8b:
     minami.say "Я... я беременна, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:4982
@@ -33029,7 +33029,7 @@ translate russian minami_event_03_9a9f1bc1:
     minami.say "О, [lssb_minami.hero_name()], здорово!"
 
 # ch/minami/events.rpy:5471
-translate russian minami_event_03_5cc24c7a:
+translate russian minami_event_03_d8efc334:
     minami.say "Но... где же мне пока спать, [lssb_minami.hero_name()]?"
 
 # ch/minami/events.rpy:5493
@@ -33085,7 +33085,7 @@ translate russian minami_event_02_32f590dd:
     minami.say "Но там же чужие люди, [lssb_minami.hero_name()]!"
 
 # ch/minami/events.rpy:5878
-translate russian minami_event_02_b1bf02b9:
+translate russian minami_event_02_b52144e1:
     minami.say "Х... хорошо, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:5889
@@ -33109,7 +33109,7 @@ translate russian spank_minami_88d054e1:
     minami.say "[lssb_minami.hero_name()]..."
 
 # ch/minami/events.rpy:6118
-translate russian spank_minami_eb0b36fc:
+translate russian spank_minami_69e8b12a:
     minami.say "С... спасибо, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:6207
@@ -33137,7 +33137,7 @@ translate russian minami_likes_blondes_5fae3189:
     minami.say "Ты говоришь «парни», [lssb_minami.hero_name()]..."
 
 # ch/minami/events.rpy:6292
-translate russian minami_likes_blondes_b872525a:
+translate russian minami_likes_blondes_d6e4b562:
     minami.say "Это... интересно, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:6309
@@ -33145,7 +33145,7 @@ translate russian minami_likes_blondes_0d098ba7:
     minami.say "Ну как тебе, [lssb_minami.hero_name()]?"
 
 # ch/minami/events.rpy:6336
-translate russian minami_likes_blondes_b872525a_1:
+translate russian minami_likes_blondes_d6e4b562_1:
     minami.say "Это... интересно, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:6374
@@ -33153,7 +33153,7 @@ translate russian minami_event_04_81e49c2f:
     minami.say "[lssb_minami.hero_name()]?"
 
 # ch/minami/events.rpy:6384
-translate russian minami_event_04_952fadb0:
+translate russian minami_event_04_ccc5eb0a:
     minami.say "Я... я потеряла ключи, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:6390
@@ -33241,7 +33241,7 @@ translate russian minami_morningwood_1c020b0d:
     minami.say "Я твоя, [lssb_minami.hero_name()]..."
 
 # ch/minami/events.rpy:6932
-translate russian minami_morningwood_fd13df58:
+translate russian minami_morningwood_9264a62e:
     minami.say "Бери от меня всё, что хочешь... ты заслуживаешь целого мира, [lssb_minami.hero_name()]!"
 
 # ch/minami/events.rpy:6948
@@ -33253,7 +33253,7 @@ translate russian minami_morningwood_887397da:
     minami.say "Ты гораздо лучше моего будильника, [lssb_minami.hero_name()]!"
 
 # ch/minami/events.rpy:7059
-translate russian minami_snooping_3b615127:
+translate russian minami_snooping_958fa747:
     minami.say "Я... прости, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:7072
@@ -33269,11 +33269,11 @@ translate russian minami_snooping_9b46491d:
     minami.say "Почему ты не хочешь меня трахнуть, [lssb_minami.hero_name()]?"
 
 # ch/minami/events.rpy:7125
-translate russian minami_snooping_d7d2f692:
+translate russian minami_snooping_42c85b2a:
     minami.say "Ты... ты серьёзно, [lssb_minami.hero_name()]?"
 
 # ch/minami/events.rpy:7137
-translate russian minami_snooping_f82cf41d:
+translate russian minami_snooping_76b46ed9:
     minami.say "Прости, [lssb_minami.hero_name()]. Здесь всё так... по-другому!"
 
 # ch/minami/events.rpy:7163
@@ -33425,7 +33425,7 @@ translate russian minami_fuck_date_beach_3e4be9a2:
     minami.say "Ох, спасибо, [lssb_minami.hero_name()]!"
 
 # ch/minami/fuck.rpy:136
-translate russian minami_fuck_date_beach_3f1c420f:
+translate russian minami_fuck_date_beach_5351704b:
     minami.say "О-о... Как мило, [lssb_minami.hero_name()]!"
 
 # ch/minami/fuck.rpy:147
@@ -33505,7 +33505,7 @@ translate russian minami_fuck_date_doggy_0fa1ab4e:
     minami.say "Ты у меня в попке, [lssb_minami.hero_name()]!"
 
 # ch/minami/fuck.rpy:609
-translate russian minami_fuck_date_doggy_a7c10d44:
+translate russian minami_fuck_date_doggy_6834cc47:
     minami.say "Не... не останавливайся, [lssb_minami.hero_name()]!"
 
 # ch/minami/fuck.rpy:637
@@ -33561,7 +33561,7 @@ translate russian minami_fuck_date_doggy_f9e2f72b:
     minami.say "Как хорошо, [lssb_minami.hero_name()]!"
 
 # ch/minami/fuck.rpy:737
-translate russian minami_fuck_date_doggy_3458daec:
+translate russian minami_fuck_date_doggy_67fe675c:
     minami.say "П... пожалуйста, [lssb_minami.hero_name()]..."
 
 # ch/minami/fuck.rpy:752
@@ -33641,7 +33641,7 @@ translate russian minami_fuck_date_spank_88d054e1:
     minami.say "[lssb_minami.hero_name()]..."
 
 # ch/minami/fuck.rpy:981
-translate russian minami_fuck_date_spank_6da0612c:
+translate russian minami_fuck_date_spank_7b144b20:
     minami.say "Я... понимаю, [lssb_minami.hero_name()]."
 
 # ch/minami/fuck.rpy:1021
@@ -33981,11 +33981,11 @@ translate russian minami_fuck_date_oral_4e28f0b1:
     minami.say "А-а-ах... [lssb_minami.hero_name()], вот ЗДЕСЬ! Не двигайся, даже не смей!"
 
 # ch/minami/fuck.rpy:2151
-translate russian minami_fuck_date_oral_536278d7:
+translate russian minami_fuck_date_oral_db648c6f:
     minami.say "П... привет, [lssb_minami.hero_name()]..."
 
 # ch/minami/fuck.rpy:2189
-translate russian minami_fuck_date_oral_536278d7_1:
+translate russian minami_fuck_date_oral_db648c6f_1:
     minami.say "П... привет, [lssb_minami.hero_name()]..."
 
 # ch/minami/fuck.rpy:2230
@@ -33993,7 +33993,7 @@ translate russian minami_fuck_date_oral_618a5402:
     "Я замираю на мгновение и шарю рукой под кроватью, пока пальцы не нащупывают дилдо."
 
 # ch/minami/fuck.rpy:2231
-translate russian minami_fuck_date_oral_4c83fbf0:
+translate russian minami_fuck_date_oral_68eaeab9:
     minami.say "П... привет, [lssb_minami.hero_name()]... ты чего?"
 
 # ch/minami/fuck.rpy:2232
@@ -34289,7 +34289,7 @@ translate russian minami_slap_ass_happy_male_a28c34e2:
     minami.say "[lssb_minami.hero_name()]!"
 
 # ch/minami/reactions.rpy:228
-translate russian minami_slap_ass_happy_male_4ba15e04:
+translate russian minami_slap_ass_happy_male_acc81bf6:
     minami.say "Всё... всё нормально, [lssb_minami.hero_name()]."
 
 # ch/minami/reactions.rpy:249
@@ -35113,7 +35113,7 @@ translate russian morgan_use_condom_f851ffda:
     "Она смотрит, как я его надеваю, и на этот раз привычная ухмылка немного смягчается."
 
 # ch/morgan/condom.rpy:14
-translate russian morgan_use_condom_592b8dfd:
+translate russian morgan_use_condom_3671fcdd:
     morgan.say "Точно... ответственный подход. Да, хорошо."
 
 # ch/morgan/condom.rpy:15
@@ -35121,7 +35121,7 @@ translate russian morgan_use_condom_efb3b09c:
     "Она ловит себя на том, что чуть не ёрзает, и скрещивает руки на груди, будто не знает, куда их деть."
 
 # ch/morgan/condom.rpy:17
-translate russian morgan_use_condom_1f61b520:
+translate russian morgan_use_condom_369d98bd:
     morgan.say "М-м, ладно... я подожду тебя прямо здесь."
 
 # ch/morgan/condom.rpy:18
@@ -35129,7 +35129,7 @@ translate russian morgan_use_condom_f0102221:
     "Она заправляет прядь волос за ухо и робко кивает мне, а щёки у неё розовеют."
 
 # ch/morgan/condom.rpy:21
-translate russian morgan_use_condom_6f683223:
+translate russian morgan_use_condom_20003baf:
     morgan.say "Давай... помогу тебе с этим."
 
 # ch/morgan/condom.rpy:22
@@ -35137,7 +35137,7 @@ translate russian morgan_use_condom_0b8ab3b7:
     "Она раскатывает по мне презерватив аккуратными, нетерпеливыми руками, всё это время краснея и радуясь, что может быть полезной."
 
 # ch/morgan/condom.rpy:24
-translate russian morgan_use_condom_297ec7d9:
+translate russian morgan_use_condom_bff0fcb0:
     morgan.say "Упс... об этом ведь нельзя забывать, правда?"
 
 # ch/morgan/condom.rpy:25
@@ -35173,7 +35173,7 @@ translate russian morgan_no_condom_07e45103:
     "Её ухмылка крутой девчонки чуть сползает, и она тянется ко мне почти с нежностью."
 
 # ch/morgan/condom.rpy:84
-translate russian morgan_no_condom_daa42e1d:
+translate russian morgan_no_condom_a373e7ac:
     morgan.say "Между нами ничего нет... это, э-э, это вообще-то как-то очень серьёзно."
 
 # ch/morgan/condom.rpy:85
@@ -35181,7 +35181,7 @@ translate russian morgan_no_condom_a8e20b62:
     "Она ловит себя на том, что звучит слишком мягко, и прикрывает это, притягивая меня ближе; щёки у неё заливаются краской."
 
 # ch/morgan/condom.rpy:87
-translate russian morgan_no_condom_7a73a78f:
+translate russian morgan_no_condom_fbaf8c4d:
     morgan.say "Значит, только ты и я. Никаких преград... мне это нравится больше, чем следовало бы."
 
 # ch/morgan/condom.rpy:88
@@ -35189,7 +35189,7 @@ translate russian morgan_no_condom_8b74414e:
     "Она говорит это тихо, немного стесняясь того, насколько это для неё серьёзно, и прижимает меня к себе."
 
 # ch/morgan/condom.rpy:91
-translate russian morgan_no_condom_52b52ee7:
+translate russian morgan_no_condom_cf653044:
     morgan.say "Между нами ничего нет... я вся твоя, [lssb_morgan.hero_name()]. Бери меня всю."
 
 # ch/morgan/condom.rpy:92
@@ -35197,7 +35197,7 @@ translate russian morgan_no_condom_92424e71:
     "Она тает подо мной, отдаваясь целиком, и дрожит от того, как сильно хочет, чтобы её взяли."
 
 # ch/morgan/condom.rpy:94
-translate russian morgan_no_condom_ed49b25b:
+translate russian morgan_no_condom_980207d3:
     morgan.say "Я так давно этого хотела... иди ко мне."
 
 # ch/morgan/condom.rpy:95
@@ -36245,7 +36245,7 @@ translate russian morgan_event_11_201f9511:
     morgan.say "Не думала, что это так заметно, бро!"
 
 # ch/morgan/events.rpy:797
-translate russian morgan_event_11_4fc2f2b8:
+translate russian morgan_event_11_73be9fc0:
     morgan.say "Ой... ты заметил?"
 
 # ch/morgan/events.rpy:798
@@ -36281,11 +36281,11 @@ translate russian morgan_event_10_50d6e03a:
     morgan.say "Ты правда так думаешь? Мне приятно, [lssb_morgan.hero_name()]."
 
 # ch/morgan/events.rpy:923
-translate russian morgan_event_10_f2c06a52:
+translate russian morgan_event_10_5e33c14a:
     morgan.say "Когда я его надеваю, чувствую себя почти красивой... Раньше я такого никогда не говорила."
 
 # ch/morgan/events.rpy:1033
-translate russian morgan_event_10_d60515ed:
+translate russian morgan_event_10_4479caef:
     morgan.say "Пф-ф... ладно, хорошо, может, тогда и говорила."
 
 # ch/morgan/events.rpy:1034
@@ -36293,7 +36293,7 @@ translate russian morgan_event_10_6090e39e:
     morgan.say "Только не делай из этого что-то странное, Джек. Все в детстве в кого-нибудь влюбляются, так?"
 
 # ch/morgan/events.rpy:1045
-translate russian morgan_event_10_d2e22a1e:
+translate russian morgan_event_10_7e1d81ce:
     morgan.say "Я... да, влюблялась, Джек."
 
 # ch/morgan/events.rpy:1046
@@ -36321,7 +36321,7 @@ translate russian morgan_event_07b_e3460e66:
     morgan.say "Ничего такого, хватит надо мной трястись!"
 
 # ch/morgan/events.rpy:1458
-translate russian morgan_event_07b_903a6219:
+translate russian morgan_event_07b_278188f9:
     morgan.say "Я просто... не переношу толпу, ясно? Закрыли тему."
 
 # ch/morgan/events.rpy:1470
@@ -36329,7 +36329,7 @@ translate russian morgan_event_07b_d86cd325:
     morgan.say "Глупо, знаю..."
 
 # ch/morgan/events.rpy:1471
-translate russian morgan_event_07b_b79a86b4:
+translate russian morgan_event_07b_338ef9af:
     morgan.say "Но когда меня вот так зажимают со всех сторон... я правда не могу."
 
 # ch/morgan/events.rpy:1499
@@ -36373,11 +36373,11 @@ translate russian morgan_event_07b_77bec8e7:
     morgan.say "Я из-за тебя сейчас кончу, самодовольный ты гад!"
 
 # ch/morgan/events.rpy:1632
-translate russian morgan_event_07b_f0a6c28c:
+translate russian morgan_event_07b_c4607fb7:
     morgan.say "Ох... ох нет, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/events.rpy:1633
-translate russian morgan_event_07b_90060c76:
+translate russian morgan_event_07b_b8a638dd:
     morgan.say "Я больше не могу терпеть... ты сейчас заставишь меня кончить!"
 
 # ch/morgan/events.rpy:1696
@@ -36497,7 +36497,7 @@ translate russian morgan_male_ending_46a84aa4:
     "Priest" "Морган, согласны ли вы вступить в законный союз с [hero.name] и быть вместе, пока смерть не разлучит вас?"
 
 # ch/morgan/events.rpy:2748
-translate russian morgan_male_ending_1ea5ed80:
+translate russian morgan_male_ending_5a584736:
     morgan.say "Да, чёрт возьми. То есть... согласна."
 
 # ch/morgan/events.rpy:2750
@@ -36601,11 +36601,11 @@ translate russian morgan_male_ending_a02b6fd3:
     mike.say "Ты прекрасна, Морган. Просто прекрасна."
 
 # ch/morgan/events.rpy:2954
-translate russian morgan_male_ending_b36fd4cc:
+translate russian morgan_male_ending_582a1e5f:
     morgan.say "Ох... п-перестань, [lssb_morgan.hero_name()], я же расплачусь ещё до начала."
 
 # ch/morgan/events.rpy:2955
-translate russian morgan_male_ending_eb3c97b4:
+translate russian morgan_male_ending_fce33474:
     morgan.say "Я всё утро так нервничала. Но теперь, когда я здесь, с тобой... всё хорошо."
 
 # ch/morgan/events.rpy:2957
@@ -36633,7 +36633,7 @@ translate russian morgan_male_ending_2a0fb25f:
     "Морган делает короткий дрожащий вдох и поднимает на меня сияющие глаза."
 
 # ch/morgan/events.rpy:2964
-translate russian morgan_male_ending_3936f65d:
+translate russian morgan_male_ending_67a63dd8:
     morgan.say "Я... да."
 
 # ch/morgan/events.rpy:2965
@@ -36741,7 +36741,7 @@ translate russian morgan_preg_talk_758e5d0e:
     morgan.say "[lssb_morgan.hero_name()]... я всю неделю пыталась придумать, как тебе сказать."
 
 # ch/morgan/events.rpy:3351
-translate russian morgan_preg_talk_e67c76b5:
+translate russian morgan_preg_talk_0ed5c93e:
     morgan.say "Я... я беременна. Я сделала тест, и ребёнок твой."
 
 # ch/morgan/events.rpy:3353
@@ -36749,7 +36749,7 @@ translate russian morgan_preg_talk_07e7df7a:
     "На последнем слове её голос дрожит, и я вижу, как сильно она напугана под всем этим."
 
 # ch/morgan/events.rpy:3354
-translate russian morgan_preg_talk_48739fec:
+translate russian morgan_preg_talk_8fb66d9c:
     mike.say "Морган... я даже не знаю, с чего начать!"
 
 # ch/morgan/events.rpy:3390
@@ -36777,7 +36777,7 @@ translate russian morgan_preg_talk_9fbab95a:
     "Глаза Морган наполняются слезами, и она прижимает ладонь ко рту."
 
 # ch/morgan/events.rpy:3427
-translate russian morgan_preg_talk_3ce22277:
+translate russian morgan_preg_talk_ab71ba9c:
     morgan.say "Я... я не понимаю, [lssb_morgan.hero_name()]."
 
 # ch/morgan/events.rpy:3428
@@ -36809,7 +36809,7 @@ translate russian morgan_preg_talk_b851e8aa:
     morgan.say "Хорошо. Потому что я уже решила, что оставлю его — с тобой или без тебя."
 
 # ch/morgan/events.rpy:3463
-translate russian morgan_preg_talk_422edb02:
+translate russian morgan_preg_talk_8138f222:
     morgan.say "Но... ага. С тобой всё-таки гораздо лучше, бро."
 
 # ch/morgan/events.rpy:3473
@@ -36833,7 +36833,7 @@ translate russian morgan_preg_talk_7deb7f88:
     "Она тает у меня в объятиях, прячет голову у меня под подбородком и прерывисто вздыхает."
 
 # ch/morgan/events.rpy:3501
-translate russian morgan_preg_talk_9e6dc2f8:
+translate russian morgan_preg_talk_7005fbce:
     morgan.say "Мне было так страшно тебе говорить... а ты просто взял и развеял весь этот страх."
 
 # ch/morgan/events.rpy:3531
@@ -36861,7 +36861,7 @@ translate russian morgan_preg_talk_b1185ecd:
     "Морган кивает, но подбородок у неё дрожит, и ей приходится опустить взгляд в пол."
 
 # ch/morgan/events.rpy:3565
-translate russian morgan_preg_talk_99d98ca2:
+translate russian morgan_preg_talk_f6ed13e9:
     morgan.say "Так будет разумнее... я знаю."
 
 # ch/morgan/events.rpy:3567
@@ -36869,7 +36869,7 @@ translate russian morgan_preg_talk_fe8b3d21:
     "Она вытирает глаза тыльной стороной ладони и тихонько шмыгает носом."
 
 # ch/morgan/events.rpy:3569
-translate russian morgan_preg_talk_1c3d903a:
+translate russian morgan_preg_talk_1685d691:
     morgan.say "Ты можешь... можешь просто обнять меня на минутку, [lssb_morgan.hero_name()]?"
 
 # ch/morgan/events.rpy:3571
@@ -36905,7 +36905,7 @@ translate russian morgan_preg_talk_c617867f:
     "Морган вздрагивает от моей вспышки, и её нижняя губа начинает дрожать."
 
 # ch/morgan/events.rpy:3631
-translate russian morgan_preg_talk_589bcc63:
+translate russian morgan_preg_talk_0ff0c2c3:
     morgan.say "Ты... ты правда не хочешь, чтобы я это делала?"
 
 # ch/morgan/events.rpy:3632
@@ -36957,7 +36957,7 @@ translate russian morgan_birthday_sex_tomboy_671c1524:
     "Она опускает голову и заправляет за ухо выбившуюся прядь — такой мягкий жест прежняя Морган ни за что бы мне не показала."
 
 # ch/morgan/events.rpy:4562
-translate russian morgan_birthday_sex_tomboy_5490ade4:
+translate russian morgan_birthday_sex_tomboy_f4209f12:
     morgan.say "Давай... не жалей меня, [lssb_morgan.hero_name()]."
 
 # ch/morgan/events.rpy:4563
@@ -36965,7 +36965,7 @@ translate russian morgan_birthday_sex_tomboy_44d32137:
     morgan.say "Заставь меня принять его. Я выдержу всё, что ты мне дашь."
 
 # ch/morgan/events.rpy:4564
-translate russian morgan_birthday_sex_tomboy_c75e4be9:
+translate russian morgan_birthday_sex_tomboy_b7678ff6:
     morgan.say "Просто... возьми меня у этой стены уже!"
 
 # ch/morgan/events.rpy:4566
@@ -36981,11 +36981,11 @@ translate russian morgan_birthday_sex_tomboy_c4f62891:
     morgan.say "Скажи мне принять его — и я приму."
 
 # ch/morgan/events.rpy:4570
-translate russian morgan_birthday_sex_tomboy_d75d6306:
+translate russian morgan_birthday_sex_tomboy_d5fb473e:
     morgan.say "Боже... мне это нужно, [lssb_morgan.hero_name()]. Войди в меня?"
 
 # ch/morgan/events.rpy:4571
-translate russian morgan_birthday_sex_tomboy_987fafdc:
+translate russian morgan_birthday_sex_tomboy_05460651:
     morgan.say "Не хочу сейчас командовать. Просто... возьми меня."
 
 # ch/morgan/events.rpy:4572
@@ -36997,7 +36997,7 @@ translate russian morgan_birthday_sex_tomboy_0785da39:
     morgan.say "Пожалуйста, [lssb_morgan.hero_name()]... я сделаю всё, что захочешь."
 
 # ch/morgan/events.rpy:4575
-translate russian morgan_birthday_sex_tomboy_10d73cfe:
+translate russian morgan_birthday_sex_tomboy_e974930d:
     morgan.say "Мне просто нужно, чтобы ты был во мне... я больше не могу ждать."
 
 # ch/morgan/events.rpy:4576
@@ -37005,15 +37005,15 @@ translate russian morgan_birthday_sex_tomboy_37b89dbf:
     morgan.say "Возьми меня. Пожалуйста?"
 
 # ch/morgan/events.rpy:4578
-translate russian morgan_birthday_sex_tomboy_30d282f5:
+translate russian morgan_birthday_sex_tomboy_2b439f77:
     morgan.say "М-м... я вся твоя, [lssb_morgan.hero_name()]."
 
 # ch/morgan/events.rpy:4579
-translate russian morgan_birthday_sex_tomboy_4509b24e:
+translate russian morgan_birthday_sex_tomboy_7f0d9345:
     morgan.say "Пожалуйста... делай со мной всё, что захочешь?"
 
 # ch/morgan/events.rpy:4580
-translate russian morgan_birthday_sex_tomboy_bd9659b5:
+translate russian morgan_birthday_sex_tomboy_c3f56441:
     morgan.say "Я просто... хочу почувствовать тебя внутри."
 
 # ch/morgan/events.rpy:4583
@@ -37053,7 +37053,7 @@ translate russian morgan_birthday_sex_tomboy_079cab31:
     morgan.say "Я так хочу, чтобы ты был во мне..."
 
 # ch/morgan/events.rpy:4599
-translate russian morgan_birthday_sex_tomboy_bb9ce9f1:
+translate russian morgan_birthday_sex_tomboy_45902861:
     morgan.say "О боже... ну же, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/events.rpy:4600
@@ -37065,7 +37065,7 @@ translate russian morgan_birthday_sex_tomboy_96cb5ef9:
     morgan.say "Я так хочу тебя в себе, что даже стыдно!"
 
 # ch/morgan/events.rpy:4667
-translate russian morgan_birthday_sex_tomboy_7330eff1:
+translate russian morgan_birthday_sex_tomboy_246d5b47:
     morgan.say "Вот так... я вся твоя, [lssb_morgan.hero_name()]... не останавливайся..."
 
 # ch/morgan/events.rpy:4669
@@ -37081,7 +37081,7 @@ translate russian morgan_birthday_sex_tomboy_6e246231:
     morgan.say "Пожалуйста, [lssb_morgan.hero_name()]... можно мне кончить? Я была такой послушной для тебя..."
 
 # ch/morgan/events.rpy:4675
-translate russian morgan_birthday_sex_tomboy_0146ee73:
+translate russian morgan_birthday_sex_tomboy_113cc305:
     morgan.say "О боже... я твоя, делай со мной что хочешь..."
 
 # ch/morgan/events.rpy:4678
@@ -37101,7 +37101,7 @@ translate russian morgan_birthday_sex_tomboy_81710bea:
     morgan.say "О, [lssb_morgan.hero_name()]... я сейчас кончу, я не могу остановиться!"
 
 # ch/morgan/events.rpy:4686
-translate russian morgan_birthday_sex_tomboy_6dceba01:
+translate russian morgan_birthday_sex_tomboy_c25d2a8a:
     morgan.say "Я не могу... не могу сдержаться, [lssb_morgan.hero_name()]... это слишком!"
 
 # ch/morgan/events.rpy:4721
@@ -37205,7 +37205,7 @@ translate russian morgan_birthday_sex_feminine_4f8097a3:
     "Она прикусывает губу, щёки розовеют, и она так кокетливо скромничает, что прежнюю пацанку Морган от этого бы стошнило."
 
 # ch/morgan/events.rpy:5563
-translate russian morgan_birthday_sex_feminine_d64b1f00:
+translate russian morgan_birthday_sex_feminine_b7414c2c:
     morgan.say "Хех... ладно, ты победил, [lssb_morgan.hero_name()]. Рули."
 
 # ch/morgan/events.rpy:5564
@@ -37213,7 +37213,7 @@ translate russian morgan_birthday_sex_feminine_2a23396b:
     morgan.say "Покажи, на что ты способен. Я выдержу всё, что ты мне устроишь."
 
 # ch/morgan/events.rpy:5566
-translate russian morgan_birthday_sex_feminine_aea8db44:
+translate russian morgan_birthday_sex_feminine_40f35740:
     morgan.say "Ладно, ладно... ты главный, [lssb_morgan.hero_name()]."
 
 # ch/morgan/events.rpy:5567
@@ -37221,15 +37221,15 @@ translate russian morgan_birthday_sex_feminine_cff774b5:
     morgan.say "Только не раскисай сейчас. Используй меня как хочешь."
 
 # ch/morgan/events.rpy:5569
-translate russian morgan_birthday_sex_feminine_357b4e69:
+translate russian morgan_birthday_sex_feminine_b305b8ef:
     morgan.say "Ох... хорошо, да... веди ты, [lssb_morgan.hero_name()]."
 
 # ch/morgan/events.rpy:5570
-translate russian morgan_birthday_sex_feminine_068bd295:
+translate russian morgan_birthday_sex_feminine_411eba09:
     morgan.say "Я твоя... просто скажи, как ты меня хочешь."
 
 # ch/morgan/events.rpy:5572
-translate russian morgan_birthday_sex_feminine_7c7f9e3b:
+translate russian morgan_birthday_sex_feminine_8d58ed92:
     morgan.say "Да... пожалуйста, [lssb_morgan.hero_name()]... я хочу быть для тебя хорошей девочкой."
 
 # ch/morgan/events.rpy:5573
@@ -37241,7 +37241,7 @@ translate russian morgan_birthday_sex_feminine_1afbb048:
     morgan.say "Я вся твоя, [lssb_morgan.hero_name()]... каждая частичка меня."
 
 # ch/morgan/events.rpy:5576
-translate russian morgan_birthday_sex_feminine_db2af484:
+translate russian morgan_birthday_sex_feminine_0e2d0527:
     morgan.say "Пожалуйста... делай что хочешь. Я хочу только доставить тебе удовольствие."
 
 # ch/morgan/events.rpy:5579
@@ -37253,19 +37253,19 @@ translate russian morgan_birthday_sex_feminine_a75fde5b:
     morgan.say "Ну же, сильнее! Я могу выдержать чертовски больше!"
 
 # ch/morgan/events.rpy:5582
-translate russian morgan_birthday_sex_feminine_66dfb13d:
+translate russian morgan_birthday_sex_feminine_97176228:
     morgan.say "Ха... кто-то осмелел. Мне нравится, [lssb_morgan.hero_name()]."
 
 # ch/morgan/events.rpy:5583
-translate russian morgan_birthday_sex_feminine_ece8388b:
+translate russian morgan_birthday_sex_feminine_ac78fc50:
     morgan.say "Да... вот так. Только посмей сбавить темп!"
 
 # ch/morgan/events.rpy:5585
-translate russian morgan_birthday_sex_feminine_58b683aa:
+translate russian morgan_birthday_sex_feminine_98ecd426:
     morgan.say "Ха... похоже, теперь рулишь ты, да, [lssb_morgan.hero_name()]?"
 
 # ch/morgan/events.rpy:5586
-translate russian morgan_birthday_sex_feminine_ed398beb:
+translate russian morgan_birthday_sex_feminine_8f1ad506:
     morgan.say "Меня устраивает... только не сбавляй темп!"
 
 # ch/morgan/events.rpy:5588
@@ -37273,15 +37273,15 @@ translate russian morgan_birthday_sex_feminine_cb17d710:
     morgan.say "О боже, [lssb_morgan.hero_name()]... я даже думать не могу."
 
 # ch/morgan/events.rpy:5589
-translate russian morgan_birthday_sex_feminine_248f12f6:
+translate russian morgan_birthday_sex_feminine_23b25840:
     morgan.say "Только... не останавливайся, что бы ни было!"
 
 # ch/morgan/events.rpy:5591
-translate russian morgan_birthday_sex_feminine_5548fcba:
+translate russian morgan_birthday_sex_feminine_60648d68:
     morgan.say "М-м... как же с тобой хорошо, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/events.rpy:5592
-translate russian morgan_birthday_sex_feminine_d0ee619f:
+translate russian morgan_birthday_sex_feminine_e1618d0b:
     morgan.say "Я никогда... никогда такого не чувствовала. Не останавливайся, пожалуйста!"
 
 # ch/morgan/events.rpy:5611
@@ -37289,7 +37289,7 @@ translate russian morgan_birthday_sex_feminine_21fa726a:
     morgan.say "[lssb_morgan.hero_name()]... скажи, что мне можно. Ну же, скажи!"
 
 # ch/morgan/events.rpy:5613
-translate russian morgan_birthday_sex_feminine_26e3a947:
+translate russian morgan_birthday_sex_feminine_824f436d:
     morgan.say "Я уже на самом краю... дай мне команду!"
 
 # ch/morgan/events.rpy:5615
@@ -37297,15 +37297,15 @@ translate russian morgan_birthday_sex_feminine_4440e597:
     morgan.say "[lssb_morgan.hero_name()]... можно? Скажи, что можно, пожалуйста..."
 
 # ch/morgan/events.rpy:5617
-translate russian morgan_birthday_sex_feminine_dcafc693:
+translate russian morgan_birthday_sex_feminine_b8bf1026:
     morgan.say "Я так близко... только скажи — и я улечу!"
 
 # ch/morgan/events.rpy:5619
-translate russian morgan_birthday_sex_feminine_bcdf2698:
+translate russian morgan_birthday_sex_feminine_3117cd67:
     morgan.say "[lssb_morgan.hero_name()]... можно мне кончить? Пожалуйста... мне это нужно..."
 
 # ch/morgan/events.rpy:5621
-translate russian morgan_birthday_sex_feminine_2b9c390d:
+translate russian morgan_birthday_sex_feminine_e0262055:
     morgan.say "Скажи, что можно... скажи — и я твоя!"
 
 # ch/morgan/events.rpy:5623
@@ -37313,7 +37313,7 @@ translate russian morgan_birthday_sex_feminine_ea162b66:
     morgan.say "Пожалуйста, [lssb_morgan.hero_name()]... можно мне кончить? Мне это так нужно..."
 
 # ch/morgan/events.rpy:5625
-translate russian morgan_birthday_sex_feminine_18e81b34:
+translate russian morgan_birthday_sex_feminine_2c5585ff:
     morgan.say "Я буду такой хорошей... только, пожалуйста, разреши!"
 
 # ch/morgan/events.rpy:5627
@@ -37321,7 +37321,7 @@ translate russian morgan_birthday_sex_feminine_4e742893:
     morgan.say "Пожалуйста, [lssb_morgan.hero_name()]... можно? Я была такой хорошей..."
 
 # ch/morgan/events.rpy:5629
-translate russian morgan_birthday_sex_feminine_c1dc62a6:
+translate russian morgan_birthday_sex_feminine_bf2aad67:
     morgan.say "Я кончу, как только ты разрешишь... пожалуйста, разреши!"
 
 # ch/morgan/events.rpy:5632
@@ -37349,7 +37349,7 @@ translate russian morgan_birthday_sex_feminine_707de2d3:
     morgan.say "Ты меня сейчас доведёшь, продолжай!"
 
 # ch/morgan/events.rpy:5642
-translate russian morgan_birthday_sex_feminine_3cd2e937:
+translate russian morgan_birthday_sex_feminine_f1380ffd:
     morgan.say "Ох... ох чёрт, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/events.rpy:5647
@@ -37357,7 +37357,7 @@ translate russian morgan_birthday_sex_feminine_178befef:
     morgan.say "Ох, [lssb_morgan.hero_name()]... это слишком..."
 
 # ch/morgan/events.rpy:5648
-translate russian morgan_birthday_sex_feminine_0b8bb847:
+translate russian morgan_birthday_sex_feminine_d61f1e2e:
     morgan.say "Я не могу... не могу это остановить..."
 
 # ch/morgan/events.rpy:5650
@@ -37373,7 +37373,7 @@ translate russian morgan_birthday_sex_feminine_0398d10e:
     morgan.say "Я не могу сдержаться, не могу..."
 
 # ch/morgan/events.rpy:5655
-translate russian morgan_birthday_sex_feminine_65dea203:
+translate russian morgan_birthday_sex_feminine_6b4bef6f:
     morgan.say "Я из-за тебя кончаю... о боже!"
 
 # ch/morgan/events.rpy:5669
@@ -37409,11 +37409,11 @@ translate russian morgan_birthday_sex_feminine_ec743861:
     morgan.say "Раньше я никому не позволяла видеть меня такой — мягкой и довольной."
 
 # ch/morgan/events.rpy:5681
-translate russian morgan_birthday_sex_feminine_da08b18b:
+translate russian morgan_birthday_sex_feminine_97dd4d13:
     morgan.say "Но с тобой и с этим малышом... я не хочу это прятать, [lssb_morgan.hero_name()]."
 
 # ch/morgan/events.rpy:5683
-translate russian morgan_birthday_sex_feminine_d91f479a:
+translate russian morgan_birthday_sex_feminine_07695ec7:
     morgan.say "Никогда не думала, что буду так радоваться чему-то настолько... девчачьему."
 
 # ch/morgan/events.rpy:5684
@@ -37469,7 +37469,7 @@ translate russian morgan_date_play_arcade_clawmachine_male_5465180c:
     "Она держит её так, будто это что-то очень ценное."
 
 # ch/morgan/events.rpy:5779
-translate russian morgan_date_play_arcade_clawmachine_male_b9a385eb:
+translate russian morgan_date_play_arcade_clawmachine_male_786228fa:
     morgan.say "Ты выиграл это... для меня?"
 
 # ch/morgan/events.rpy:5780
@@ -37505,7 +37505,7 @@ translate russian morgan_hottub_sex_male_2df1286d:
     morgan.say "Ох, блин, прямо груз с плеч. Быть залетевшей — это тебе не шутки, [lssb_morgan.hero_name()]!"
 
 # ch/morgan/fuck.rpy:86
-translate russian morgan_hottub_sex_male_5fa6277e:
+translate russian morgan_hottub_sex_male_6cbe9ba8:
     morgan.say "М-м-м... так-то лучше. Тёплая вода немного снимает ломоту от этого живота, [lssb_morgan.hero_name()]."
 
 # ch/morgan/fuck.rpy:88
@@ -37593,7 +37593,7 @@ translate russian morgan_hottub_sex_male_a87dc05e:
     morgan.say "Ого. Ладно. Похоже, тебе и правда нравится то, что ты видишь, а?"
 
 # ch/morgan/fuck.rpy:155
-translate russian morgan_hottub_sex_male_e0237853:
+translate russian morgan_hottub_sex_male_e489b22b:
     morgan.say "Ох ничего себе. Это... это прямо много, [lssb_morgan.hero_name()]!"
 
 # ch/morgan/fuck.rpy:165
@@ -37605,39 +37605,39 @@ translate russian morgan_hottub_sex_male_1cfabad7:
     "Ничто ей не мешает, и она берёт его в руку."
 
 # ch/morgan/fuck.rpy:181
-translate russian morgan_hottub_sex_male_6b5c1121:
+translate russian morgan_hottub_sex_male_fa80b879:
     morgan.say "Ах, чёрт... да... просто используй меня, [lssb_morgan.hero_name()], давай!"
 
 # ch/morgan/fuck.rpy:183
-translate russian morgan_hottub_sex_male_ddf01419:
+translate russian morgan_hottub_sex_male_e6437993:
     morgan.say "М-м-м... вот так... скажи, как ты меня хочешь, [lssb_morgan.hero_name()]."
 
 # ch/morgan/fuck.rpy:185
-translate russian morgan_hottub_sex_male_188668b8:
+translate russian morgan_hottub_sex_male_c3ee32b0:
     morgan.say "Ох... да... я твоя, [lssb_morgan.hero_name()]... как тебе нравится..."
 
 # ch/morgan/fuck.rpy:187
-translate russian morgan_hottub_sex_male_9f705a31:
+translate russian morgan_hottub_sex_male_07909bd2:
     morgan.say "Ах... возьми меня, [lssb_morgan.hero_name()]... я просто хочу быть хорошей для тебя..."
 
 # ch/morgan/fuck.rpy:189
-translate russian morgan_hottub_sex_male_35ba6cb9:
+translate russian morgan_hottub_sex_male_b4fc66a8:
     morgan.say "Ох... ох, [lssb_morgan.hero_name()]... я вся твоя... делай со мной что хочешь..."
 
 # ch/morgan/fuck.rpy:192
-translate russian morgan_hottub_sex_male_90f9e2a5:
+translate russian morgan_hottub_sex_male_e6d376ec:
     morgan.say "Ах, бля, да... вот это я понимаю, чувак!"
 
 # ch/morgan/fuck.rpy:194
-translate russian morgan_hottub_sex_male_20cd8b09:
+translate russian morgan_hottub_sex_male_c1eca68c:
     morgan.say "М-м-м... ох, чёрт, вот это кайф!"
 
 # ch/morgan/fuck.rpy:196
-translate russian morgan_hottub_sex_male_1f8373a8:
+translate russian morgan_hottub_sex_male_985a4b29:
     morgan.say "Ох... ох ничего себе, [lssb_morgan.hero_name()]... как глубоко!"
 
 # ch/morgan/fuck.rpy:198
-translate russian morgan_hottub_sex_male_7804fcb8:
+translate russian morgan_hottub_sex_male_a4acf307:
     morgan.say "Ах... ах, [lssb_morgan.hero_name()]... я так тебя чувствую!"
 
 # ch/morgan/fuck.rpy:260
@@ -37645,7 +37645,7 @@ translate russian morgan_hottub_sex_male_0252b1c0:
     morgan.say "Как только захочешь меня — просто скажи, [lssb_morgan.hero_name()]. Брошу всё, чем бы ни занималась."
 
 # ch/morgan/fuck.rpy:262
-translate russian morgan_hottub_sex_male_a1735aed:
+translate russian morgan_hottub_sex_male_d4ee64c2:
     morgan.say "Заткнись и просто... оставь меня себе, ладно? Я не умею такое говорить, но я твоя."
 
 # ch/morgan/fuck.rpy:264
@@ -37709,27 +37709,27 @@ translate russian morgan_fuck_nightclub_7eedbc6b:
     morgan.say "Давай вниз и вылижи меня, чувак. Не заставляй ждать!"
 
 # ch/morgan/fuck.rpy:400
-translate russian morgan_fuck_nightclub_0069ff12:
+translate russian morgan_fuck_nightclub_2867c59c:
     morgan.say "Ты бы... поласкал меня ртом, [lssb_morgan.hero_name()]? Я столько об этом думала."
 
 # ch/morgan/fuck.rpy:476
-translate russian morgan_fuck_nightclub_04253a78:
+translate russian morgan_fuck_nightclub_6ee429da:
     morgan.say "Бля... да... чего бы ты от меня ни хотел, [lssb_morgan.hero_name()], просто бери!"
 
 # ch/morgan/fuck.rpy:478
-translate russian morgan_fuck_nightclub_b12c906d:
+translate russian morgan_fuck_nightclub_bee26932:
     morgan.say "Ах, чёрт... скажи мне молчать, и я буду молчать... только не останавливайся, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/fuck.rpy:480
-translate russian morgan_fuck_nightclub_e9b766a5:
+translate russian morgan_fuck_nightclub_96a5fafb:
     morgan.say "Ох... я буду такой хорошей, [lssb_morgan.hero_name()]... я сделаю что угодно... только продолжай!"
 
 # ch/morgan/fuck.rpy:482
-translate russian morgan_fuck_nightclub_4a769a43:
+translate russian morgan_fuck_nightclub_867f90e4:
     morgan.say "Ох-х... я так хочу потом тоже доставить тебе удовольствие, [lssb_morgan.hero_name()]... обещаю..."
 
 # ch/morgan/fuck.rpy:484
-translate russian morgan_fuck_nightclub_3eafc141:
+translate russian morgan_fuck_nightclub_28c70930:
     morgan.say "Ах... я твоя, [lssb_morgan.hero_name()]... используй меня, потом используй мой рот, что захочешь..."
 
 # ch/morgan/fuck.rpy:487
@@ -37745,7 +37745,7 @@ translate russian morgan_fuck_nightclub_9b0c4ed6:
     morgan.say "Лижи меня — вот так!"
 
 # ch/morgan/fuck.rpy:496
-translate russian morgan_fuck_nightclub_b2ca764f:
+translate russian morgan_fuck_nightclub_b5a633b2:
     morgan.say "Ох-х... [lssb_morgan.hero_name()], это... это потрясающе!"
 
 # ch/morgan/fuck.rpy:632
@@ -37789,7 +37789,7 @@ translate russian morgan_fuck_date_intro_male_7aa55ce7:
     morgan.say "Я не умею говорить всю эту сопливую хрень, чувак!"
 
 # ch/morgan/fuck.rpy:684
-translate russian morgan_fuck_date_intro_male_267ee8aa:
+translate russian morgan_fuck_date_intro_male_4f325009:
     morgan.say "Скажем просто... я тоже. И на этом закончим."
 
 # ch/morgan/fuck.rpy:687
@@ -37797,7 +37797,7 @@ translate russian morgan_fuck_date_intro_male_6f05ca01:
     morgan.say "Я не умею говорить все эти нежности!"
 
 # ch/morgan/fuck.rpy:688
-translate russian morgan_fuck_date_intro_male_267ee8aa_1:
+translate russian morgan_fuck_date_intro_male_4f325009_1:
     morgan.say "Скажем просто... я тоже. И на этом закончим."
 
 # ch/morgan/fuck.rpy:694
@@ -37829,7 +37829,7 @@ translate russian morgan_fuck_date_intro_male_fcf547a2:
     morgan.say "Я стала вся такая мягкая и круглая, [lssb_morgan.hero_name()]... ты же не против меня такой, правда?"
 
 # ch/morgan/fuck.rpy:725
-translate russian morgan_fuck_date_intro_male_ea39db42:
+translate russian morgan_fuck_date_intro_male_659dd298:
     morgan.say "Я себя такой другой чувствую, [lssb_morgan.hero_name()]. Ты... ты всё ещё хочешь меня, такую круглую?"
 
 # ch/morgan/fuck.rpy:726
@@ -37865,7 +37865,7 @@ translate russian morgan_fuck_date_blowjob_833e67e2_1:
     "Мне хочется растянуть удовольствие, но Морган так увлечена и настойчива, что боюсь кончить через несколько секунд."
 
 # ch/morgan/fuck.rpy:834
-translate russian morgan_fuck_date_blowjob_4cad9489_1:
+translate russian morgan_fuck_date_blowjob_4953a0f5_1:
     mike.say "Морган... о боже!"
 
 # ch/morgan/fuck.rpy:835
@@ -37957,7 +37957,7 @@ translate russian morgan_fuck_date_blowjob_2ef14214:
     "Морган прикусывает губу, щёки розовеют, пока она набирается смелости."
 
 # ch/morgan/fuck.rpy:956
-translate russian morgan_fuck_date_blowjob_e110e6f3:
+translate russian morgan_fuck_date_blowjob_31ba96a9:
     morgan.say "Я хочу... ну, знаешь... попробовать тебя на вкус, [lssb_morgan.hero_name()]."
 
 # ch/morgan/fuck.rpy:957
@@ -37989,7 +37989,7 @@ translate russian morgan_fuck_date_blowjob_919c6811:
     morgan.say "Хватай меня за волосы и используй мой рот, чувак. Не надо тут вежливости."
 
 # ch/morgan/fuck.rpy:1022
-translate russian morgan_fuck_date_blowjob_a4eb757c:
+translate russian morgan_fuck_date_blowjob_4157d25d:
     morgan.say "Просто... бери, [lssb_morgan.hero_name()]. Держи меня за голову и трахай в рот, я выдержу."
 
 # ch/morgan/fuck.rpy:1024
@@ -38085,7 +38085,7 @@ translate russian morgan_fuck_date_cunnilingus_a82f61c0:
     "Она всё ещё стесняется, бёдра дрожат у моих ушей, но тает она быстро."
 
 # ch/morgan/fuck.rpy:1165
-translate russian morgan_fuck_date_cunnilingus_579a4ca4:
+translate russian morgan_fuck_date_cunnilingus_2ae755bc:
     morgan.say "Ох... ох ничего себе, это намного лучше, чем когда я сама!"
 
 # ch/morgan/fuck.rpy:1193
@@ -38097,7 +38097,7 @@ translate russian morgan_fuck_date_cunnilingus_5b9a4e20:
     morgan.say "Я хочу твоё лицо у себя между ног. Давай вниз."
 
 # ch/morgan/fuck.rpy:1207
-translate russian morgan_fuck_date_cunnilingus_fbf7ebc6:
+translate russian morgan_fuck_date_cunnilingus_bca25fc7:
     morgan.say "Может, ты бы... поласкал меня ртом, [lssb_morgan.hero_name()]?"
 
 # ch/morgan/fuck.rpy:1208
@@ -38117,7 +38117,7 @@ translate russian morgan_fuck_date_cunnilingus_c26e37fb:
     morgan.say "Бля, чувак. Делай так когда захочешь, можешь даже не спрашивать."
 
 # ch/morgan/fuck.rpy:1474
-translate russian morgan_fuck_date_cunnilingus_72d3e510:
+translate russian morgan_fuck_date_cunnilingus_b0a60bd7:
     morgan.say "Чёрт... ладно... после такого — всё, что захочешь, [lssb_morgan.hero_name()]. Только скажи."
 
 # ch/morgan/fuck.rpy:1476
@@ -38129,7 +38129,7 @@ translate russian morgan_fuck_date_cunnilingus_80c2b61e:
     morgan.say "Дай теперь мне сделать тебе приятно, [lssb_morgan.hero_name()]. Пожалуйста? Я хочу быть хорошей для тебя."
 
 # ch/morgan/fuck.rpy:1480
-translate russian morgan_fuck_date_cunnilingus_3436d070:
+translate russian morgan_fuck_date_cunnilingus_66f1c59f:
     morgan.say "Я твоя, [lssb_morgan.hero_name()]... это только что всё доказало... используй меня теперь как хочешь."
 
 # ch/morgan/fuck.rpy:1483
@@ -38261,7 +38261,7 @@ translate russian morgan_fuck_date_doggy_c6b122cd:
     morgan.say "Лучше оттрахай меня до потери сознания, [lssb_morgan.hero_name()], или даже не начинай!"
 
 # ch/morgan/fuck.rpy:1560
-translate russian morgan_fuck_date_doggy_de439c06:
+translate russian morgan_fuck_date_doggy_e23cd1ab:
     morgan.say "Раз раком, значит, я хочу, чтобы меня отодрали... как... как грёбаное животное!"
 
 # ch/morgan/fuck.rpy:1561
@@ -39061,7 +39061,7 @@ translate russian morgan_fuck_date_doggy_01b2f4ec:
     morgan.say "Ч-что ты делаешь?"
 
 # ch/morgan/fuck.rpy:2263
-translate russian morgan_fuck_date_doggy_9d9f64a2:
+translate russian morgan_fuck_date_doggy_369dbe3f:
     morgan.say "Это... это не туда, куда я думала, ты...!"
 
 # ch/morgan/fuck.rpy:2264
@@ -39209,7 +39209,7 @@ translate russian morgan_fuck_date_doggy_f2a5ed21:
     "Вместо этого я нежно притягиваю Морган к своему члену, чувствуя, как её скользкие губки касаются головки."
 
 # ch/morgan/fuck.rpy:2335
-translate russian morgan_fuck_date_doggy_c8f0044a:
+translate russian morgan_fuck_date_doggy_7db88924:
     morgan.say "О-о-ох... ты такой большой!"
 
 # ch/morgan/fuck.rpy:2336
@@ -39409,7 +39409,7 @@ translate russian morgan_fuck_date_doggy_b691b79b:
     "Почувствовав, как Морган шевелится, будто пытается соскользнуть с меня до того, как я кончу, я мягко её удерживаю."
 
 # ch/morgan/fuck.rpy:2423
-translate russian morgan_fuck_date_doggy_2257118a:
+translate russian morgan_fuck_date_doggy_e11d6818:
     mike.say "Тш-ш, всё хорошо... просто побудь со мной ещё чуть-чуть."
 
 # ch/morgan/fuck.rpy:2424
@@ -39433,7 +39433,7 @@ translate russian morgan_fuck_date_doggy_c944b342:
     "Но когда я собираюсь выйти, она оглядывается через плечо и застенчиво качает головой."
 
 # ch/morgan/fuck.rpy:2435
-translate russian morgan_fuck_date_doggy_5ce2b9a4:
+translate russian morgan_fuck_date_doggy_cde6da0a:
     morgan.say "Я хочу почувствовать... тебя целиком..."
 
 # ch/morgan/fuck.rpy:2436
@@ -39529,7 +39529,7 @@ translate russian morgan_fuck_date_doggy_68572ada:
     "Когда она кончает, по ней пробегает лёгкая дрожь, и она опускается на меня, чтобы отдышаться."
 
 # ch/morgan/fuck.rpy:2657
-translate russian morgan_fuck_date_doggy_8d083594_1:
+translate russian morgan_fuck_date_doggy_8af94c32_1:
     morgan.say "Нет... пожалуйста... [lssb_morgan.hero_name()]."
 
 # ch/morgan/fuck.rpy:2675
@@ -39553,7 +39553,7 @@ translate russian morgan_fuck_date_cowgirl_66fedac3:
     morgan.say "Скажи, что хочешь меня сверху, чувак, и я буду сверху. Я скачу, только если ты скажешь."
 
 # ch/morgan/fuck.rpy:2683
-translate russian morgan_fuck_date_cowgirl_e0962f5a:
+translate russian morgan_fuck_date_cowgirl_11c990c8:
     morgan.say "Я залезу сверху, если ты скажешь... но главный тут всё равно ты, да, [lssb_morgan.hero_name()]?"
 
 # ch/morgan/fuck.rpy:2685
@@ -39653,7 +39653,7 @@ translate russian morgan_fuck_date_cowgirl_5ac141c0:
     "Всё ещё ошарашенный её скоростью и тем, как грубо она играет, я лишь киваю как идиот."
 
 # ch/morgan/fuck.rpy:2720
-translate russian morgan_fuck_date_cowgirl_18c8a463:
+translate russian morgan_fuck_date_cowgirl_9d15c50b:
     mike.say "Д-да... как скажешь, бро."
 
 # ch/morgan/fuck.rpy:2721
@@ -39693,7 +39693,7 @@ translate russian morgan_fuck_date_cowgirl_d204c501:
     morgan.say "Ты будешь меня трахать или так и будешь лежать красивый?"
 
 # ch/morgan/fuck.rpy:2730
-translate russian morgan_fuck_date_cowgirl_cafb1159:
+translate russian morgan_fuck_date_cowgirl_b2920870:
     mike.say "Да... да, дай мне хоть секунду, чёрт возьми!"
 
 # ch/morgan/fuck.rpy:2731
@@ -39861,7 +39861,7 @@ translate russian morgan_fuck_date_cowgirl_9812ac9b:
     "Только теперь её глаза наконец приоткрываются, и из неё снова льются звуки."
 
 # ch/morgan/fuck.rpy:2793
-translate russian morgan_fuck_date_cowgirl_6ae57731:
+translate russian morgan_fuck_date_cowgirl_c88a5a59:
     morgan.say "Чувствую... как ты кончаешь мне в задницу!"
 
 # ch/morgan/fuck.rpy:2794
@@ -40177,7 +40177,7 @@ translate russian morgan_fuck_date_cowgirl_c2f0df23:
     "Но выглядит она совершенно счастливой оттого, что я это сделал!"
 
 # ch/morgan/fuck.rpy:2981
-translate russian morgan_fuck_date_cowgirl_756eb494_1:
+translate russian morgan_fuck_date_cowgirl_a300509e_1:
     morgan.say "Э... эй..."
 
 # ch/morgan/fuck.rpy:2998
@@ -40205,7 +40205,7 @@ translate russian morgan_fuck_date_cowgirl_e7fda438:
     "Долгий счастливый вздох — и она затихает, улыбаясь с закрытыми глазами."
 
 # ch/morgan/fuck.rpy:3023
-translate russian morgan_fuck_date_cowgirl_9b73321c_1:
+translate russian morgan_fuck_date_cowgirl_803f820b_1:
     morgan.say "О чёрт... я чувствую тебя!"
 
 # ch/morgan/fuck.rpy:3052
@@ -40381,7 +40381,7 @@ translate russian morgan_fuck_date_cowgirl_102dd6cc:
     "Вот поэтому я тяну её вниз на себя, направив член под нужным углом..."
 
 # ch/morgan/fuck.rpy:3426
-translate russian morgan_fuck_date_cowgirl_3cee6965:
+translate russian morgan_fuck_date_cowgirl_208b15a2:
     morgan.say "О-о-ох... ох, боже!"
 
 # ch/morgan/fuck.rpy:3427
@@ -40389,7 +40389,7 @@ translate russian morgan_fuck_date_cowgirl_34a38188:
     morgan.say "[lssb_morgan.hero_name()]... кажется, ты промахнулся!"
 
 # ch/morgan/fuck.rpy:3428
-translate russian morgan_fuck_date_cowgirl_a08e66c5:
+translate russian morgan_fuck_date_cowgirl_17db88c2:
     morgan.say "Разве это... не та дырочка?"
 
 # ch/morgan/fuck.rpy:3429
@@ -40425,7 +40425,7 @@ translate russian morgan_fuck_date_cowgirl_aea63077:
     "А на самом деле лишь удерживаю её, плавно погружаясь в неё ещё глубже, чем прежде."
 
 # ch/morgan/fuck.rpy:3438
-translate russian morgan_fuck_date_cowgirl_a7960c24:
+translate russian morgan_fuck_date_cowgirl_51fd7873:
     morgan.say "Ч-что... что ты делаешь?!?"
 
 # ch/morgan/fuck.rpy:3439
@@ -40433,11 +40433,11 @@ translate russian morgan_fuck_date_cowgirl_3dc180f9:
     morgan.say "Так только хуже!"
 
 # ch/morgan/fuck.rpy:3440
-translate russian morgan_fuck_date_cowgirl_6e5bda6a:
+translate russian morgan_fuck_date_cowgirl_0864b900:
     mike.say "Прости... он не..."
 
 # ch/morgan/fuck.rpy:3441
-translate russian morgan_fuck_date_cowgirl_572ac9b4:
+translate russian morgan_fuck_date_cowgirl_8b637d4b:
     mike.say "О нет, ты же не думаешь, что он, ну... застрял там?"
 
 # ch/morgan/fuck.rpy:3447
@@ -40709,7 +40709,7 @@ translate russian morgan_fuck_date_cowgirl_349dcfaf:
     "Морган, кажется, чувствует, что я на самом краю, и качает головой — застенчиво, но настойчиво."
 
 # ch/morgan/fuck.rpy:3582
-translate russian morgan_fuck_date_cowgirl_2beadcf7:
+translate russian morgan_fuck_date_cowgirl_71044a7f:
     morgan.say "Можешь... если хочешь..."
 
 # ch/morgan/fuck.rpy:3583
@@ -40781,7 +40781,7 @@ translate russian morgan_fuck_date_cowgirl_1cc05f7e:
     "Но пока я судорожно пытаюсь вовремя выйти из Морган, я чувствую, как она обвивает меня ногами и обеими руками держит мои бёдра."
 
 # ch/morgan/fuck.rpy:3618
-translate russian morgan_fuck_date_cowgirl_8793e0cc:
+translate russian morgan_fuck_date_cowgirl_a3f3039a:
     morgan.say "Я... я этого хочу... пожалуйста!"
 
 # ch/morgan/fuck.rpy:3619
@@ -40817,7 +40817,7 @@ translate russian morgan_fuck_date_cowgirl_e83bd9d9_1:
     "Более готовой, чем сейчас, Морган уже не будет."
 
 # ch/morgan/fuck.rpy:3667
-translate russian morgan_fuck_date_cowgirl_09a90b5a_1:
+translate russian morgan_fuck_date_cowgirl_c5c5e518_1:
     morgan.say "Ах... ах!"
 
 # ch/morgan/fuck.rpy:3678
@@ -40849,7 +40849,7 @@ translate russian morgan_fuck_date_cowgirl_707fc74b:
     morgan.say "Стой... ты что, сейчас кончишь?!?"
 
 # ch/morgan/fuck.rpy:3697
-translate russian morgan_fuck_date_cowgirl_7b90d4ff_1:
+translate russian morgan_fuck_date_cowgirl_3f56f8f0_1:
     morgan.say "О-о-ох... а теперь что?"
 
 # ch/morgan/fuck.rpy:3752
@@ -40877,7 +40877,7 @@ translate russian morgan_fuck_date_cowgirl_810d6054_1:
     morgan.say "У меня от тебя и правда кружится голова!"
 
 # ch/morgan/fuck.rpy:3767
-translate russian morgan_fuck_date_cowgirl_1043ccf5_1:
+translate russian morgan_fuck_date_cowgirl_4b4e8a00_1:
     morgan.say "М-м-м... это невероятно."
 
 # ch/morgan/fuck.rpy:3776
@@ -40885,11 +40885,11 @@ translate russian morgan_fuck_date_cowgirl_25a88545_1:
     "Вот с этим спорить совершенно не могу."
 
 # ch/morgan/fuck.rpy:3815
-translate russian morgan_fuck_date_cowgirl_e2114b78_1:
+translate russian morgan_fuck_date_cowgirl_77f6a2ce_1:
     morgan.say "Всё... хорошо... [lssb_morgan.hero_name()]."
 
 # ch/morgan/fuck.rpy:3816
-translate russian morgan_fuck_date_cowgirl_d0dcb620_1:
+translate russian morgan_fuck_date_cowgirl_b1b23ce2_1:
     morgan.say "Я... на... таблетках."
 
 # ch/morgan/fuck.rpy:3836
@@ -40901,7 +40901,7 @@ translate russian morgan_fuck_date_cowgirl_f8266c0b_1:
     "Смотрю на неё снизу с широко раскрытыми от потрясения глазами."
 
 # ch/morgan/fuck.rpy:3851
-translate russian morgan_fuck_date_cowgirl_6f21072e_2:
+translate russian morgan_fuck_date_cowgirl_653d1791_2:
     mike.say "Морган... что ты..."
 
 # ch/morgan/fuck.rpy:3852
@@ -40965,7 +40965,7 @@ translate russian morgan_fuck_date_missionary_265322b3:
     "В ту секунду, когда я вхожу в неё до упора, она запрокидывает голову, и ощущение невероятное — тесная и жадная одновременно."
 
 # ch/morgan/fuck.rpy:3895
-translate russian morgan_fuck_date_missionary_fb47c9c1:
+translate russian morgan_fuck_date_missionary_20ed5b63:
     morgan.say "Бля, да, вот так... разнеси меня, чувак... не сдерживайся вообще ни в чём!"
 
 # ch/morgan/fuck.rpy:3896
@@ -41021,7 +41021,7 @@ translate russian morgan_fuck_date_missionary_6196e2f4:
     morgan.say "Ох... [lssb_morgan.hero_name()], ты такой большой..."
 
 # ch/morgan/fuck.rpy:3955
-translate russian morgan_fuck_date_missionary_6bfcf803:
+translate russian morgan_fuck_date_missionary_8914d5d1:
     morgan.say "Я... я не знаю, помещусь ли я вокруг тебя целиком..."
 
 # ch/morgan/fuck.rpy:3956
@@ -41093,23 +41093,23 @@ translate russian morgan_fuck_date_missionary_052914d3:
     "Я подхватываю одно её колено рукой и прижимаю его к её груди, раскрывая её шире и добираясь до места, от которого вздрагивает всё её тело."
 
 # ch/morgan/fuck.rpy:3998
-translate russian morgan_fuck_date_missionary_c6ac4b88:
+translate russian morgan_fuck_date_missionary_d5e24453:
     morgan.say "Бля... сильнее, используй меня, чувак... я выдержу всё, что ты мне устроишь..."
 
 # ch/morgan/fuck.rpy:4000
-translate russian morgan_fuck_date_missionary_51c61d40:
+translate russian morgan_fuck_date_missionary_e5495eb4:
     morgan.say "Да... скажи, как ты меня хочешь, и я сделаю... только не останавливайся, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/fuck.rpy:4002
-translate russian morgan_fuck_date_missionary_16180cbf:
+translate russian morgan_fuck_date_missionary_71beb213:
     morgan.say "Я твоя, [lssb_morgan.hero_name()]... бери меня так, как тебе нужно... я только хочу доставить тебе удовольствие..."
 
 # ch/morgan/fuck.rpy:4004
-translate russian morgan_fuck_date_missionary_c128fef2:
+translate russian morgan_fuck_date_missionary_95a4c088:
     morgan.say "Ах... используй меня, [lssb_morgan.hero_name()]... я просто хочу быть хорошей для тебя... такой хорошей..."
 
 # ch/morgan/fuck.rpy:4006
-translate russian morgan_fuck_date_missionary_50b35338:
+translate russian morgan_fuck_date_missionary_e5208f2d:
     morgan.say "Ох... я твоя, [lssb_morgan.hero_name()]... целиком... делай со мной что хочешь..."
 
 # ch/morgan/fuck.rpy:4009
@@ -41117,19 +41117,19 @@ translate russian morgan_fuck_date_missionary_a6fc64d8:
     morgan.say "Ох, бля, вот здесь. Только посмей сейчас сдуться, чувак!"
 
 # ch/morgan/fuck.rpy:4011
-translate russian morgan_fuck_date_missionary_533d851d:
+translate russian morgan_fuck_date_missionary_2a35e2f3:
     morgan.say "Да... да, вот так. Боже, как же с тобой хорошо, [lssb_morgan.hero_name()]!"
 
 # ch/morgan/fuck.rpy:4013
-translate russian morgan_fuck_date_missionary_58dc37a2:
+translate russian morgan_fuck_date_missionary_b3199a29:
     morgan.say "Ох-х... [lssb_morgan.hero_name()], я чувствую тебя целиком... это так много!"
 
 # ch/morgan/fuck.rpy:4015
-translate russian morgan_fuck_date_missionary_9faa588f:
+translate russian morgan_fuck_date_missionary_b5c4d6f5:
     morgan.say "Ах... ах, я не знала, что он заходит так глубоко... не останавливайся, пожалуйста!"
 
 # ch/morgan/fuck.rpy:4017
-translate russian morgan_fuck_date_missionary_a0b61ee6:
+translate russian morgan_fuck_date_missionary_dccb68e2:
     morgan.say "Ох... ох, [lssb_morgan.hero_name()]... я такая заполненная... я такая счастливая..."
 
 # ch/morgan/fuck.rpy:4018
@@ -41149,11 +41149,11 @@ translate russian morgan_fuck_date_missionary_e83649da:
     "Она запрокидывает голову и подставляет мне горло, полностью сдавшись, позволяя мне задавать каждый такт."
 
 # ch/morgan/fuck.rpy:4024
-translate russian morgan_fuck_date_missionary_06920f93:
+translate russian morgan_fuck_date_missionary_070826c6:
     morgan.say "Я твоя, [lssb_morgan.hero_name()]... используй меня, бери всё, что тебе нужно... пожалуйста..."
 
 # ch/morgan/fuck.rpy:4026
-translate russian morgan_fuck_date_missionary_5febbc50:
+translate russian morgan_fuck_date_missionary_a6ade824:
     morgan.say "Скажи... скажи, как ты меня хочешь, [lssb_morgan.hero_name()]. Я сделаю всё, что скажешь."
 
 # ch/morgan/fuck.rpy:4028
@@ -41189,7 +41189,7 @@ translate russian morgan_fuck_date_missionary_0008692c:
     morgan.say "Пожалуйста, не дразни меня, [lssb_morgan.hero_name()]... я так хочу тебя обратно..."
 
 # ch/morgan/fuck.rpy:4041
-translate russian morgan_fuck_date_missionary_6e8db72f:
+translate russian morgan_fuck_date_missionary_a76d6cfe:
     morgan.say "Нет, нет, пожалуйста... не останавливайся сейчас, [lssb_morgan.hero_name()], мне это нужно, ты мне нужен..."
 
 # ch/morgan/fuck.rpy:4042
@@ -41265,11 +41265,11 @@ translate russian morgan_fuck_date_missionary_2c31ee90:
     "Её спина выгибается дугой над матрасом, и из неё вырывается долгий надломленный крик, когда накатывает первая волна."
 
 # ch/morgan/fuck.rpy:4071
-translate russian morgan_fuck_date_missionary_e3af5988:
+translate russian morgan_fuck_date_missionary_b4fb8591:
     morgan.say "Я люблю тебя, [lssb_morgan.hero_name()]... боже, как я тебя люблю... никогда не останавливайся!"
 
 # ch/morgan/fuck.rpy:4074
-translate russian morgan_fuck_date_missionary_53a7376f:
+translate russian morgan_fuck_date_missionary_16d93880:
     morgan.say "Бля, [lssb_morgan.hero_name()]... я сейчас... я уже на краю!"
 
 # ch/morgan/fuck.rpy:4075
@@ -41301,7 +41301,7 @@ translate russian morgan_fuck_date_missionary_18788783:
     "Именно это, больше чем что-либо ещё, наконец толкает меня за край."
 
 # ch/morgan/fuck.rpy:4130
-translate russian morgan_fuck_date_missionary_0b15eee2:
+translate russian morgan_fuck_date_missionary_29a265fc:
     morgan.say "Ах... ах... СУКИН СЫН!"
 
 # ch/morgan/fuck.rpy:4131
@@ -41317,7 +41317,7 @@ translate russian morgan_fuck_date_missionary_6942e399:
     morgan.say "Без резинки, без ничего, тупой ты мудак!"
 
 # ch/morgan/fuck.rpy:4140
-translate russian morgan_fuck_date_missionary_dfd69874:
+translate russian morgan_fuck_date_missionary_4e3f024b:
     morgan.say "Ах... нет... [lssb_morgan.hero_name()], что ты сейчас сделал?"
 
 # ch/morgan/fuck.rpy:4141
@@ -41325,7 +41325,7 @@ translate russian morgan_fuck_date_missionary_83a800b8:
     "Её возмущение то и дело рассыпается на дрожащие короткие вздохи, которые ей никак не удаётся сдержать."
 
 # ch/morgan/fuck.rpy:4142
-translate russian morgan_fuck_date_missionary_14a2abd9:
+translate russian morgan_fuck_date_missionary_dfd1fe0b:
     morgan.say "Ты кончил в меня... ты даже не спросил!"
 
 # ch/morgan/fuck.rpy:4143
@@ -41341,7 +41341,7 @@ translate russian morgan_fuck_date_missionary_f3eba90b:
     "У неё перехватывает дыхание, а боль и неверие вытесняют с её лица удовольствие."
 
 # ch/morgan/fuck.rpy:4147
-translate russian morgan_fuck_date_missionary_10747855:
+translate russian morgan_fuck_date_missionary_be9caba0:
     morgan.say "Ты кончил в меня... как ты мог?"
 
 # ch/morgan/fuck.rpy:4148
@@ -41361,7 +41361,7 @@ translate russian morgan_fuck_date_standing_2a400ffd:
     morgan.say "Необязательно добираться до кровати, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/fuck.rpy:4187
-translate russian morgan_fuck_date_standing_3d2c0d73:
+translate russian morgan_fuck_date_standing_d13f64ac:
     morgan.say "Ты мог бы просто... взять меня здесь. Мне бы это понравилось."
 
 # ch/morgan/fuck.rpy:4194
@@ -41409,7 +41409,7 @@ translate russian morgan_fuck_date_standing_6bf85dc0:
     morgan.say "Я просто хочу быть хорошей для тебя, [lssb_morgan.hero_name()]... бери меня так, как тебе нужно..."
 
 # ch/morgan/fuck.rpy:4307
-translate russian morgan_fuck_date_standing_0ca131f0:
+translate russian morgan_fuck_date_standing_353d306f:
     morgan.say "Я вся твоя, [lssb_morgan.hero_name()]... целиком... делай со мной что хочешь..."
 
 # ch/morgan/fuck.rpy:4310
@@ -41429,7 +41429,7 @@ translate russian morgan_fuck_date_standing_fa7827b3:
     morgan.say "О боже, [lssb_morgan.hero_name()], я никогда не чувствовала ничего подобного..."
 
 # ch/morgan/fuck.rpy:4318
-translate russian morgan_fuck_date_standing_b651f740:
+translate russian morgan_fuck_date_standing_6e2f5430:
     morgan.say "Пожалуйста, [lssb_morgan.hero_name()]... мне так хорошо с тобой... хочу, чтобы это никогда не кончалось..."
 
 # ch/morgan/fuck.rpy:4357
@@ -41485,7 +41485,7 @@ translate russian morgan_fuck_date_standing_6bf85dc0_1:
     morgan.say "Я просто хочу быть хорошей для тебя, [lssb_morgan.hero_name()]... бери меня так, как тебе нужно..."
 
 # ch/morgan/fuck.rpy:4606
-translate russian morgan_fuck_date_standing_0ca131f0_1:
+translate russian morgan_fuck_date_standing_353d306f_1:
     morgan.say "Я вся твоя, [lssb_morgan.hero_name()]... целиком... делай со мной что хочешь..."
 
 # ch/morgan/fuck.rpy:4609
@@ -41505,7 +41505,7 @@ translate russian morgan_fuck_date_standing_fa7827b3_1:
     morgan.say "О боже, [lssb_morgan.hero_name()], я никогда не чувствовала ничего подобного..."
 
 # ch/morgan/fuck.rpy:4617
-translate russian morgan_fuck_date_standing_b651f740_1:
+translate russian morgan_fuck_date_standing_6e2f5430_1:
     morgan.say "Пожалуйста, [lssb_morgan.hero_name()]... мне так хорошо с тобой... хочу, чтобы это никогда не кончалось..."
 
 # ch/morgan/fuck.rpy:4656
@@ -41557,7 +41557,7 @@ translate russian morgan_give_male_d76eca3b:
     "Она переминается с ноги на ногу, разрываясь между желанием, чтобы мне понравилось, и попыткой сделать вид, что ей всё равно."
 
 # ch/morgan/gift.rpy:57
-translate russian morgan_give_male_584b3281:
+translate russian morgan_give_male_8a55f558:
     morgan.say "Я так надеялась, что тебе понравится... Я выбирала его специально для тебя, знаешь."
 
 # ch/morgan/gift.rpy:59
@@ -41589,7 +41589,7 @@ translate russian morgan_give_valentine_male_8e4af83f:
     "Она бросает мне коробку конфет, делая вид, что ничего особенного, но сдержать лёгкую улыбку у неё не выходит."
 
 # ch/morgan/gift.rpy:83
-translate russian morgan_give_valentine_male_5f5183db:
+translate russian morgan_give_valentine_male_f35b6287:
     morgan.say "С Днём святого Валентина... Для меня всё это как-то в новинку, ясно?"
 
 # ch/morgan/gift.rpy:85
@@ -41625,7 +41625,7 @@ translate russian morgan_give_birthday_male_594b4a8a:
     "Она ухмыляется, держится легко, но за подколками чувствуется настоящая теплота."
 
 # ch/morgan/gift.rpy:115
-translate russian morgan_give_birthday_male_fc8762bf:
+translate russian morgan_give_birthday_male_388cebd2:
     morgan.say "С днём рождения... Я в кои-то веки подготовилась заранее, так что вот."
 
 # ch/morgan/gift.rpy:117
@@ -41665,7 +41665,7 @@ translate russian morgan_give_christmas_male_7126b9c6:
     "Она закатывает глаза, посмеиваясь над собой, но ухмылка выдаёт, что она не особо против."
 
 # ch/morgan/gift.rpy:146
-translate russian morgan_give_christmas_male_38aa4e80:
+translate russian morgan_give_christmas_male_da340fc6:
     morgan.say "С Рождеством... Я в этом году реально как-то втянулась, ясно?"
 
 # ch/morgan/gift.rpy:148
@@ -41781,7 +41781,7 @@ translate russian morgan_gift_sexy_dress_male_a41f4926:
     morgan.say "Да ну и хрен с ним, надену я эту штуку для тебя."
 
 # ch/morgan/gift.rpy:404
-translate russian morgan_gift_sexy_dress_male_90185e0a:
+translate russian morgan_gift_sexy_dress_male_7628abe8:
     morgan.say "Ой... ты правда хочешь увидеть меня в этом, [lssb_morgan.hero_name()]?"
 
 # ch/morgan/gift.rpy:405
@@ -41801,7 +41801,7 @@ translate russian morgan_gift_sexy_dress_male_03a2d8c5:
     morgan.say "Я похожа на ту, кто хоть под страхом смерти напялит такое?"
 
 # ch/morgan/gift.rpy:441
-translate russian morgan_gift_sexy_dress_male_05ae3d5f:
+translate russian morgan_gift_sexy_dress_male_3ede5b25:
     morgan.say "Ой... это как-то слишком, да, [lssb_morgan.hero_name()]?"
 
 # ch/morgan/gift.rpy:442
@@ -41853,7 +41853,7 @@ translate russian morgan_gift_slutty_dress_male_a6f9f9d3:
     morgan.say "Возьми себя в руки, братан."
 
 # ch/morgan/gift.rpy:569
-translate russian morgan_gift_slutty_dress_male_139455e7:
+translate russian morgan_gift_slutty_dress_male_ea02cbfa:
     morgan.say "Ой... это совсем не моё, [lssb_morgan.hero_name()]."
 
 # ch/morgan/gift.rpy:570
@@ -42573,7 +42573,7 @@ translate russian morgan_movie_disliked_reaction_male_4620019a:
     morgan.say "Твою ж мать, полная херня была!"
 
 # ch/morgan/reactions.rpy:873
-translate russian morgan_movie_disliked_reaction_male_1b38b31a:
+translate russian morgan_movie_disliked_reaction_male_44e5f2d0:
     morgan.say "Ой... мне совсем не понравилось."
 
 # ch/morgan/reactions.rpy:880
@@ -42593,7 +42593,7 @@ translate russian morgan_movie_liked_reaction_male_c46bbc33:
     morgan.say "Ой, мне очень понравилось, [lssb_morgan.hero_name()]!"
 
 # ch/morgan/reactions.rpy:901
-translate russian morgan_movie_liked_reaction_male_e7fad993:
+translate russian morgan_movie_liked_reaction_male_ac0efa58:
     morgan.say "Ура... я обожаю этот фильм, он такой классный!"
 
 # ch/morgan/reactions.rpy:940
@@ -42833,7 +42833,7 @@ translate russian morgan_talk_sex_male_5677d421:
     morgan.say "Ха, тоже мне секрет. Всегда нравились. Горячая девчонка вскружит мне голову не хуже кого-то ещё."
 
 # ch/morgan/talk.rpy:168
-translate russian morgan_talk_sex_male_4e7cba63:
+translate russian morgan_talk_sex_male_77ca4af9:
     morgan.say "Ты к этому спокойно относишься, так что да... может, как-нибудь и покажу тебе эту свою сторону, [lssb_morgan.hero_name()]."
 
 # ch/morgan/talk.rpy:172
@@ -43717,7 +43717,7 @@ translate russian palla_fuck_date_first_fa8b22e1:
     palla.say "Ну, по крайней мере, на этот раз мне не надо через двадцать минут стоять у алтаря!"
 
 # ch/palla/fuck.rpy:205
-translate russian palla_fuck_date_first_273e5bb4:
+translate russian palla_fuck_date_first_27997aa6:
     palla.say "Э-э, привет... моё платье висело на двери, а Шон чистил ботинки дальше по коридору."
 
 # ch/palla/fuck.rpy:207
@@ -44569,7 +44569,7 @@ translate russian samantha_hottub_7dc05b72:
     samantha.say "Здесь до сих пор пахнет так же. С ума сойти, правда?"
 
 # ch/samantha/date.rpy:1394
-translate russian samantha_hottub_b15b554a:
+translate russian samantha_hottub_eadd7d08:
     samantha.say "Всё остальное изменилось, а задний двор просто... нет."
 
 # ch/samantha/date.rpy:1395
@@ -45173,7 +45173,7 @@ translate russian samantha_fuck_date_cunnilingus_8620452a_1:
     samantha.say "Ого..."
 
 # ch/samantha/fuck.rpy:1615
-translate russian samantha_fuck_date_cunnilingus_b87e18fc:
+translate russian samantha_fuck_date_cunnilingus_f2dca4ee:
     samantha.say "Чёрт... это ТАК непристойно..."
 
 # ch/samantha/fuck.rpy:1616
@@ -45921,7 +45921,7 @@ translate russian sasha_love_5_male_aecd3aa4:
     sasha.say "Ну да. А ты придержал мне дверь."
 
 # ch/sasha/date.rpy:758
-translate russian sasha_halloween_sex_753dd361:
+translate russian sasha_halloween_sex_b1b0f705:
     mike.say "Эм... похоже на то, [bree.callname]!"
 
 # ch/sasha/date.rpy:780
@@ -46033,11 +46033,11 @@ translate russian sasha_practice_02_31a4bfed:
     kleio.say "Они правы, [lssb_kleio.hero_name()], у тебя есть яйца!"
 
 # ch/sasha/events/events_male.rpy:3095
-translate russian sasha_practice_02_5df23cd8:
+translate russian sasha_practice_02_ed258ea7:
     kleio.say "Я... я не думала, что ты это сделаешь, [lssb_kleio.hero_name()]."
 
 # ch/sasha/events/events_male.rpy:3143
-translate russian sasha_practice_02_5df23cd8_1:
+translate russian sasha_practice_02_ed258ea7_1:
     kleio.say "Я... я не думала, что ты это сделаешь, [lssb_kleio.hero_name()]."
 
 # ch/sasha/events/events_male.rpy:3770
@@ -46225,7 +46225,7 @@ translate russian sasha_fuck_date_cunnilingus_757bf403:
     "Не обращая внимания, я продолжаю вставлять дилдо всё глубже ей в попку."
 
 # ch/sasha/fuck.rpy:2033
-translate russian sasha_fuck_date_cunnilingus_b1aa960d:
+translate russian sasha_fuck_date_cunnilingus_379cbed6:
     sasha.say "Ох... чёрт... как хорошо..."
 
 # ch/sasha/fuck.rpy:2035
@@ -47697,7 +47697,7 @@ translate russian petwalk_sasha_ask_1a0ab811:
     "Саша входит с поводком, намотанным на кулак, и не совсем смотрит на меня."
 
 # ch/sasha/petwalk.rpy:430
-translate russian petwalk_sasha_ask_d4c7c0c4:
+translate russian petwalk_sasha_ask_d1f0d9c3:
     sasha.say "Так вот... я весь день об этом думала."
 
 # ch/sasha/petwalk.rpy:431
@@ -47933,7 +47933,7 @@ translate russian petwalk_sasha_tummy_street_3d8a7a07:
     "Woman at the bus stop" "О боже мой."
 
 # ch/sasha/petwalk.rpy:541
-translate russian petwalk_sasha_tummy_street_d7a2ab89:
+translate russian petwalk_sasha_tummy_street_b1595d1c:
     "Man at the bus stop" "Он что... чешет ей пузико?"
 
 # ch/sasha/petwalk.rpy:543
@@ -48457,7 +48457,7 @@ translate russian shiori_hottub_5b9628da:
     "Вода мягко её обнимает, и через минуту руки отрываются от груди."
 
 # ch/shiori/date.rpy:837
-translate russian shiori_hottub_a5fed816:
+translate russian shiori_hottub_4663abfc:
     shiori.say "Это... приятно. В смысле, когда на тебе ничего нет."
 
 # ch/shiori/date.rpy:838
@@ -49061,7 +49061,7 @@ translate russian shiori_fuck_office_spank_e83a9ffe:
     "Но даже я не готов к тому громкому звуку, который он издает."
 
 # ch/shiori/fuck.rpy:3432
-translate russian shiori_fuck_office_spank_b3fbb67d:
+translate russian shiori_fuck_office_spank_2ff76630:
     shiori.say "Ох... о боже!"
 
 # ch/shiori/fuck.rpy:3433
@@ -49117,7 +49117,7 @@ translate russian shiori_stink_male_93c83bd5:
     shiori.say "Не торопись, а потом поговорим, ладно?"
 
 # ch/shiori/reactions.rpy:491
-translate russian shiori_act_refuse_male_c4a907e1:
+translate russian shiori_act_refuse_male_e4fcf284:
     shiori.say "Ой... ой, я не знаю, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/reactions.rpy:492
@@ -49129,7 +49129,7 @@ translate russian shiori_act_refuse_male_96f060e9:
     shiori.say "Можешь потом наказать меня за это... если хочешь?"
 
 # ch/shiori/reactions.rpy:499
-translate russian shiori_act_refuse_hard_male_c10bbb5b:
+translate russian shiori_act_refuse_hard_male_aa76526b:
     shiori.say "Ох... не могу поверить, что ты попросил меня об этом, [lssb_shiori.hero_name()]!"
 
 # ch/shiori/reactions.rpy:500
@@ -49257,7 +49257,7 @@ translate russian cupid_angela_bruce_aftermath_0fb679ca:
     "А дальше ничего — будто из книги вырвали страницу."
 
 # dlc_cupid/ch/cupid/angela_bruce/aftermath.rpy:76
-translate russian cupid_angela_bruce_aftermath_2783d535:
+translate russian cupid_angela_bruce_aftermath_457bee05:
     mike.say "Он поменял... все замки?"
 
 # dlc_cupid/ch/cupid/angela_bruce/aftermath.rpy:79
@@ -49285,7 +49285,7 @@ translate russian cupid_angela_bruce_aftermath_0fb679ca_1:
     "А дальше ничего — будто из книги вырвали страницу."
 
 # dlc_cupid/ch/cupid/angela_bruce/aftermath.rpy:87
-translate russian cupid_angela_bruce_aftermath_25d01472:
+translate russian cupid_angela_bruce_aftermath_58dac26c:
     mike.say "Просто... слетела?"
 
 # dlc_cupid/ch/cupid/angela_bruce/aftermath.rpy:89
@@ -49577,7 +49577,7 @@ translate russian cupid_angela_bruce_event_01_5167c811:
     "Брюс уходит, не сказав больше ни слова."
 
 # dlc_cupid/ch/cupid/angela_bruce/event.rpy:501
-translate russian cupid_angela_bruce_event_01_05c3e917:
+translate russian cupid_angela_bruce_event_01_013d236d:
     mike.say "Э-э... нет, [bree.callname], он, похоже, был в довольно хорошем настроении."
 
 # dlc_cupid/ch/cupid/angela_bruce/event.rpy:879
@@ -49589,7 +49589,7 @@ translate russian cupid_angela_bruce_event_04_c3e6c9fc:
     "Последнее, что я помню, — как [minami.name] поворачивает ключ в замке входной двери дома наших родителей."
 
 # dlc_cupid/ch/cupid/angela_bruce/event.rpy:1318
-translate russian cupid_angela_bruce_event_04_2380f3a2:
+translate russian cupid_angela_bruce_event_04_d3c70ec0:
     "Потом мы вошли, и там была мама... и папа, кажется, тоже."
 
 # dlc_cupid/ch/cupid/angela_bruce/event.rpy:1334
@@ -50761,7 +50761,7 @@ translate russian cupid_anna_gwen_aftermath_a1068863:
     "Её лицо так и светится. Она пытается спрятать это за кружкой, но ничего не выходит."
 
 # dlc_cupid/ch/cupid/anna_gwen/aftermath.rpy:108
-translate russian cupid_anna_gwen_aftermath_da6a5378:
+translate russian cupid_anna_gwen_aftermath_fdf4cb97:
     anna.say "Ладно, круто. Это... да, хорошо."
 
 # dlc_cupid/ch/cupid/anna_gwen/aftermath.rpy:109
@@ -51573,7 +51573,7 @@ translate russian cupid_cherie_dwayne_handover_20f3a5be:
     dwayne.say "Всё просто фантастически, [hero.name]. В этом-то и проблема!"
 
 # dlc_cupid/ch/cupid/cherie_dwayne/event.rpy:879
-translate russian cupid_cherie_dwayne_handover_de95ca34:
+translate russian cupid_cherie_dwayne_handover_006625b3:
     dwayne.say "Целый месяц. Ни одного пропущенного ужина. Ни одного... особого совещания."
 
 # dlc_cupid/ch/cupid/cherie_dwayne/event.rpy:880
@@ -53229,7 +53229,7 @@ translate russian cupid_kleio_morgan_wedding_fuck_kleio_9e54d3de:
     kleio.say "Шестьдесят гостей и девушка, за которую я выхожу, в трёх метрах за этой стеной."
 
 # dlc_cupid/ch/cupid/kleio_morgan/wedding.rpy:269
-translate russian cupid_kleio_morgan_wedding_fuck_kleio_c8a8029b:
+translate russian cupid_kleio_morgan_wedding_fuck_kleio_d7053f64:
     kleio.say "Блин... ненавижу, что мне это нравится, ненавижу..."
 
 # dlc_cupid/ch/cupid/kleio_morgan/wedding.rpy:270
@@ -53441,7 +53441,7 @@ translate russian cupid_kleio_morgan_wedding_fuck_morgan_0b598661:
     morgan.say "Не будь нежным, ладно? Я ждала этого лет десять."
 
 # dlc_cupid/ch/cupid/kleio_morgan/wedding.rpy:378
-translate russian cupid_kleio_morgan_wedding_fuck_morgan_7a12021e:
+translate russian cupid_kleio_morgan_wedding_fuck_morgan_e1f2607d:
     morgan.say "Будь со мной ласковым... но не слишком, ладно?"
 
 # dlc_cupid/ch/cupid/kleio_morgan/wedding.rpy:379
@@ -53461,7 +53461,7 @@ translate russian cupid_kleio_morgan_wedding_fuck_morgan_425b18df:
     "Я упираюсь в тугое колечко её попки и надавливаю."
 
 # dlc_cupid/ch/cupid/kleio_morgan/wedding.rpy:389
-translate russian cupid_kleio_morgan_wedding_fuck_morgan_38670584:
+translate russian cupid_kleio_morgan_wedding_fuck_morgan_e86db25c:
     morgan.say "Ох бля. Ох бля, [lssb_morgan.hero_name()], это... это же моя задница!"
 
 # dlc_cupid/ch/cupid/kleio_morgan/wedding.rpy:390
@@ -54457,7 +54457,7 @@ translate russian cupid_kleio_morgan_pixie_offer_9acc5021:
     kleio.say "Вот мы и взорвали собственную свадьбу."
 
 # dlc_cupid/ch/cupid/kleio_morgan/wedding.rpy:1018
-translate russian cupid_kleio_morgan_pixie_offer_15197b61:
+translate russian cupid_kleio_morgan_pixie_offer_68db5fd9:
     morgan.say "Взорвали. Я всё ещё хочу за тебя замуж, знаешь. Просто... не сегодня."
 
 # dlc_cupid/ch/cupid/kleio_morgan/wedding.rpy:1021
@@ -54497,7 +54497,7 @@ translate russian cupid_kleio_morgan_pixie_offer_c0d078e2:
     "Морган вопит так, что где-то срабатывает автосигнализация. Клео только ухмыляется своим ботинкам, будто что-то выиграла."
 
 # dlc_cupid/ch/cupid/kleio_morgan/wedding.rpy:1047
-translate russian cupid_kleio_morgan_pixie_offer_3df3a936:
+translate russian cupid_kleio_morgan_pixie_offer_09ae0a5e:
     mike.say "Сегодня было... слишком. Вам двоим нужно быть друг у друга без меня под боком."
 
 # dlc_cupid/ch/cupid/kleio_morgan/wedding.rpy:1050
@@ -56461,7 +56461,7 @@ translate russian cupid_reona_jack_aftermath_d18f4dce:
     reona.say "[hero.name], моя резинка для волос где-то у тебя в кровати. По-моему, это «да»."
 
 # dlc_cupid/ch/cupid/reona_jack/aftermath.rpy:124
-translate russian cupid_reona_jack_aftermath_8bc955ad:
+translate russian cupid_reona_jack_aftermath_5fd7171e:
     jack.say "Круто. Это... круто."
 
 # dlc_cupid/ch/cupid/reona_jack/aftermath.rpy:125
@@ -56969,7 +56969,7 @@ translate russian cupid_sam_ryan_wedding_fuck_244ef25f:
     "За стеной начинает играть орган — несколько неуверенных тактов, — потом затихает."
 
 # dlc_cupid/ch/cupid/sam_ryan/wedding.rpy:143
-translate russian cupid_sam_ryan_wedding_fuck_208a34b0:
+translate russian cupid_sam_ryan_wedding_fuck_c35fbbdb:
     samantha.say "Это... это просто разминка..."
 
 # dlc_cupid/ch/cupid/sam_ryan/wedding.rpy:144
@@ -57029,7 +57029,7 @@ translate russian cupid_sam_ryan_wedding_fuck_083b396b:
     "Я теряю голову."
 
 # dlc_cupid/ch/cupid/sam_ryan/wedding.rpy:176
-translate russian cupid_sam_ryan_wedding_fuck_49502f9f:
+translate russian cupid_sam_ryan_wedding_fuck_9da6c946:
     samantha.say "О, чёрт... о, [lssb_samantha.hero_name()]..."
 
 # dlc_cupid/ch/cupid/sam_ryan/wedding.rpy:177
@@ -57301,7 +57301,7 @@ translate russian cupid_sam_ryan_wedding_calledoff_5f2dbb27:
     samantha.say "Моя Натали? Моя подружка невесты?"
 
 # dlc_cupid/ch/cupid/sam_ryan/wedding.rpy:350
-translate russian cupid_sam_ryan_wedding_calledoff_deb379e5:
+translate russian cupid_sam_ryan_wedding_calledoff_6c4554e5:
     ryan.say "Это... это не..."
 
 # dlc_cupid/ch/cupid/sam_ryan/wedding.rpy:353
@@ -57401,7 +57401,7 @@ translate russian cupid_sasha_scottie_aftermath_a7944d0c:
     sasha.say "Скотти. [heroname] и я переспали."
 
 # dlc_cupid/ch/cupid/sasha_scottie/aftermath.rpy:104
-translate russian cupid_sasha_scottie_aftermath_90f41697:
+translate russian cupid_sasha_scottie_aftermath_0cc2ad7d:
     scottie.say "Типа... реально спала? Или в другом смысле?"
 
 # dlc_cupid/ch/cupid/sasha_scottie/aftermath.rpy:107
@@ -57685,7 +57685,7 @@ translate russian cupid_sasha_scottie_wedding_fuck_bb061c32:
     "Я вхожу в неё одним долгим, медленным движением, до конца, и у неё вырывается шумный выдох."
 
 # dlc_cupid/ch/cupid/sasha_scottie/wedding.rpy:66
-translate russian cupid_sasha_scottie_wedding_fuck_e127b462:
+translate russian cupid_sasha_scottie_wedding_fuck_654ec848:
     sasha.say "Боже... ладно. Ладно. Делай как хочешь. Только не останавливайся."
 
 # dlc_cupid/ch/cupid/sasha_scottie/wedding.rpy:68
@@ -57693,7 +57693,7 @@ translate russian cupid_sasha_scottie_wedding_fuck_07ffd4b0:
     sasha.say "Трахни меня так, будто ты это всерьёз, [lssb_sasha.hero_name()]. Второй попытки у тебя не будет."
 
 # dlc_cupid/ch/cupid/sasha_scottie/wedding.rpy:70
-translate russian cupid_sasha_scottie_wedding_fuck_a3cd3684:
+translate russian cupid_sasha_scottie_wedding_fuck_18a55edb:
     sasha.say "Нн... чёрт. Только посмей сейчас сбавить темп."
 
 # dlc_cupid/ch/cupid/sasha_scottie/wedding.rpy:73
@@ -57745,11 +57745,11 @@ translate russian cupid_sasha_scottie_wedding_fuck_af065d9e:
     sasha.say "Если это была мама, мне конец. Не смей останавливаться."
 
 # dlc_cupid/ch/cupid/sasha_scottie/wedding.rpy:92
-translate russian cupid_sasha_scottie_wedding_fuck_1318236a:
+translate russian cupid_sasha_scottie_wedding_fuck_e3b0a6dd:
     sasha.say "Не... останавливайся..."
 
 # dlc_cupid/ch/cupid/sasha_scottie/wedding.rpy:93
-translate russian cupid_sasha_scottie_wedding_fuck_e21d8d91:
+translate russian cupid_sasha_scottie_wedding_fuck_1fcb6cd8:
     sasha.say "Я уже почти... я, блин, уже совсем почти..."
 
 # dlc_cupid/ch/cupid/sasha_scottie/wedding.rpy:96
@@ -57865,7 +57865,7 @@ translate russian cupid_sasha_scottie_wedding_calloff_8ae84861:
     "Вся часовня разом затихает."
 
 # dlc_cupid/ch/cupid/sasha_scottie/wedding.rpy:182
-translate russian cupid_sasha_scottie_wedding_calloff_e7a95971:
+translate russian cupid_sasha_scottie_wedding_calloff_dfda1b09:
     scottie.say "Погоди... что?"
 
 # dlc_cupid/ch/cupid/sasha_scottie/wedding.rpy:183

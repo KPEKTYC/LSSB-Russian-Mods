@@ -169,7 +169,7 @@ translate russian kylie_attack_ayesha_b3e45f01:
     "Но затем шумно выдыхает."
 
 # ch/harems_full/taming/events.rpy:242
-translate russian kylie_attack_ayesha_803843da:
+translate russian kylie_attack_ayesha_080eebed:
     ayesha.say "Просто... уф... выношу... ар-р... мусор!"
 
 # ch/harems_full/taming/events.rpy:243
@@ -181,7 +181,7 @@ translate russian kylie_attack_ayesha_23b1da28:
     "Я слышу судорожный вдох Кайли, и та начинает оправдываться."
 
 # ch/harems_full/taming/events.rpy:245
-translate russian kylie_attack_ayesha_0f02b57e:
+translate russian kylie_attack_ayesha_94ac9618:
     kylie.say "Помоги... [lssb_common.hero_name()]... она меня... душит!"
 
 # ch/harems_full/taming/events.rpy:246
@@ -309,7 +309,7 @@ translate russian kylie_attack_ayesha_b3e45f01_1:
     "Но затем шумно выдыхает."
 
 # ch/harems_full/taming/events.rpy:295
-translate russian kylie_attack_ayesha_803843da_1:
+translate russian kylie_attack_ayesha_080eebed_1:
     ayesha.say "Просто... уф... выношу... ар-р... мусор!"
 
 # ch/harems_full/taming/events.rpy:296
@@ -321,7 +321,7 @@ translate russian kylie_attack_ayesha_f4eab861:
     "Я слышу судорожный вдох Кайли, и та начинает оправдываться."
 
 # ch/harems_full/taming/events.rpy:298
-translate russian kylie_attack_ayesha_0f02b57e_1:
+translate russian kylie_attack_ayesha_94ac9618_1:
     kylie.say "Помоги... [lssb_common.hero_name()]... она меня... душит!"
 
 # ch/harems_full/taming/events.rpy:299
@@ -393,7 +393,7 @@ translate russian kylie_attack_ayesha_dcccda36:
     "Айша явно не ожидала, что я заговорю с такой силой."
 
 # ch/harems_full/taming/events.rpy:324
-translate russian kylie_attack_ayesha_44ce324e:
+translate russian kylie_attack_ayesha_602fed6e:
     ayesha.say "П-почему, [lssb_common.hero_name()]?"
 
 # ch/harems_full/taming/events.rpy:325
@@ -441,7 +441,7 @@ translate russian kylie_attack_ayesha_b3e45f01_2:
     "Но затем она с шумом выдыхает."
 
 # ch/harems_full/taming/events.rpy:339
-translate russian kylie_attack_ayesha_803843da_2:
+translate russian kylie_attack_ayesha_080eebed_2:
     ayesha.say "Просто... ух... выношу... ар-р... мусор!"
 
 # ch/harems_full/taming/events.rpy:340
@@ -453,7 +453,7 @@ translate russian kylie_attack_ayesha_23b1da28_1:
     "Кайли судорожно втягивает воздух и начинает оправдываться."
 
 # ch/harems_full/taming/events.rpy:342
-translate russian kylie_attack_ayesha_0f02b57e_2:
+translate russian kylie_attack_ayesha_94ac9618_2:
     kylie.say "Помоги мне... [lssb_common.hero_name()]... она меня... душит!"
 
 # ch/harems_full/taming/events.rpy:343
@@ -521,7 +521,7 @@ translate russian kylie_attack_ayesha_d8a0718e_1:
     ayesha.say "НЕТ!"
 
 # ch/harems_full/taming/events.rpy:373
-translate russian kylie_attack_ayesha_68e4aee8:
+translate russian kylie_attack_ayesha_67f58068:
     ayesha.say "Ну... в каком-то смысле... наверное..."
 
 # ch/harems_full/taming/events.rpy:375
@@ -529,7 +529,7 @@ translate russian kylie_attack_ayesha_817ca8bc:
     mike.say "Вы ведь обе знаете, что в нашей стране недавно узаконили многожёнство?"
 
 # ch/harems_full/taming/events.rpy:377
-translate russian kylie_attack_ayesha_d08221ef:
+translate russian kylie_attack_ayesha_3a203983:
     kylie.say "Ну... да..."
 
 # ch/harems_full/taming/events.rpy:380
@@ -549,7 +549,7 @@ translate russian kylie_attack_ayesha_fcef6efb:
     kylie.say "Я смогу, [lssb_common.hero_name()], вот увидишь!"
 
 # ch/harems_full/taming/events.rpy:388
-translate russian kylie_attack_ayesha_e5370146:
+translate russian kylie_attack_ayesha_4f383506:
     ayesha.say "Что... да погоди ты, чёрт возьми!"
 
 # ch/harems_full/taming/events.rpy:390
@@ -585,7 +585,7 @@ translate russian kylie_attack_ayesha_5df4fc8e:
     "Айша растерянно качает головой, словно сама толком не понимает, что сейчас произошло."
 
 # ch/harems_full/taming/events.rpy:404
-translate russian kylie_attack_ayesha_d2fbc339:
+translate russian kylie_attack_ayesha_75df9453:
     ayesha.say "Э-э... делиться — значит любить... наверное..."
 
 # ch/harems_full/taming/events.rpy:406
@@ -781,7 +781,7 @@ translate russian taming_event_1_78c64243:
     "Просто отрицать очевидное я тоже не собираюсь."
 
 # ch/harems_full/taming/events.rpy:486
-translate russian taming_event_1_88b2f625:
+translate russian taming_event_1_6dbd1adb:
     "Официантка" "Добрый вечер, сэр... и дамы..."
 
 # ch/harems_full/taming/events.rpy:487
@@ -861,7 +861,7 @@ translate russian taming_event_1_dfd8546e:
     "А тем временем представление только начинается."
 
 # ch/harems_full/taming/events.rpy:516
-translate russian taming_event_1_8282ca0e:
+translate russian taming_event_1_2b29e7ea:
     "Официантка" "Я... я..."
 
 # ch/harems_full/taming/events.rpy:520
@@ -1241,7 +1241,7 @@ translate russian taming_event_1_repeated_28bb60c0:
     "Я уже вижу, как напрягается Кайли, и заранее ободряюще сжимаю её ногу."
 
 # ch/harems_full/taming/events.rpy:677
-translate russian taming_event_1_repeated_88b2f625:
+translate russian taming_event_1_repeated_6dbd1adb:
     "Официантка" "Добрый вечер, сэр... и дамы..."
 
 # ch/harems_full/taming/events.rpy:678
@@ -1325,7 +1325,7 @@ translate russian taming_event_1_repeated_dfd8546e:
     "А тем временем представление только начинается."
 
 # ch/harems_full/taming/events.rpy:704
-translate russian taming_event_1_repeated_8282ca0e:
+translate russian taming_event_1_repeated_2b29e7ea:
     "Официантка" "Я... я..."
 
 # ch/harems_full/taming/events.rpy:707
@@ -1713,7 +1713,7 @@ translate russian taming_event_2_d3dd657c:
     "Но затем на её лице появляется натянутая улыбка, и она кивает."
 
 # ch/harems_full/taming/events.rpy:847
-translate russian taming_event_2_ea40a255:
+translate russian taming_event_2_a72f2381:
     kylie.say "Ладно... ладно, хорошо."
 
 # ch/harems_full/taming/events.rpy:848
@@ -1809,7 +1809,7 @@ translate russian taming_event_2_4456c91b:
     kylie.say "Пусть даже совсем недолго!"
 
 # ch/harems_full/taming/events.rpy:884
-translate russian taming_event_2_dcc9c5af:
+translate russian taming_event_2_7d8e5271:
     mike.say "А... ладно, Кайли."
 
 # ch/harems_full/taming/events.rpy:885
@@ -2089,7 +2089,7 @@ translate russian taming_event_2_339834ec:
     mike.say "И хочу приберечь немного сил для того, что будет у меня дома!"
 
 # ch/harems_full/taming/events.rpy:984
-translate russian taming_event_2_bacfaa59:
+translate russian taming_event_2_20ff5e63:
     kylie.say "Ну-у... скукотища!"
 
 # ch/harems_full/taming/events.rpy:985
@@ -2189,7 +2189,7 @@ translate russian taming_threesome_fuck_0b714c90:
     kylie.say "Я же не бродила тут, пока его не было дома!"
 
 # ch/harems_full/taming/events.rpy:1032
-translate russian taming_threesome_fuck_0b7edac0:
+translate russian taming_threesome_fuck_400ef8e5:
     ayesha.say "Погоди... что?!"
 
 # ch/harems_full/taming/events.rpy:1035
@@ -2373,7 +2373,7 @@ translate russian taming_threesome_fuck_7b40c93a:
     mike.say "А вот если они застукают нас за этим на лестнице..."
 
 # ch/harems_full/taming/events.rpy:1108
-translate russian taming_threesome_fuck_1392f23c:
+translate russian taming_threesome_fuck_9a6973eb:
     mike.say "Ну... мне этого до конца жизни не забудут!"
 
 # ch/harems_full/taming/events.rpy:1109
@@ -3029,7 +3029,7 @@ translate russian taming_threesome_kylie_fuck_1e261835:
     kylie.say "Да, [lssb_common.hero_name()]..."
 
 # ch/harems_full/taming/events.rpy:1401
-translate russian taming_threesome_kylie_fuck_a776da67:
+translate russian taming_threesome_kylie_fuck_c53d5b36:
     kylie.say "Вот... именно... так!"
 
 # ch/harems_full/taming/events.rpy:1402
@@ -3093,11 +3093,11 @@ translate russian taming_threesome_kylie_fuck_77b0ec53:
     "И, не успев сделать новый вдох, кончаю."
 
 # ch/harems_full/taming/events.rpy:1422
-translate russian taming_threesome_kylie_fuck_eb89f412:
+translate russian taming_threesome_kylie_fuck_32b6104d:
     kylie.say "Ох... ох, блядь!"
 
 # ch/harems_full/taming/events.rpy:1425
-translate russian taming_threesome_kylie_fuck_a80fee38:
+translate russian taming_threesome_kylie_fuck_bbd02164:
     kylie.say "Как хорошо... так хорошо!"
 
 # ch/harems_full/taming/events.rpy:1428
@@ -3225,15 +3225,15 @@ translate russian taming_threesome_kylie_fuck_155c9c26:
     kylie.say "М-м..."
 
 # ch/harems_full/taming/events.rpy:1476
-translate russian taming_threesome_kylie_fuck_de376932:
+translate russian taming_threesome_kylie_fuck_2decd5d2:
     kylie.say "Что... такое..."
 
 # ch/harems_full/taming/events.rpy:1477
-translate russian taming_threesome_kylie_fuck_ed750fa8:
+translate russian taming_threesome_kylie_fuck_1a54f0ad:
     kylie.say "Ты... сейчас... кончишь... [lssb_common.hero_name()]?"
 
 # ch/harems_full/taming/events.rpy:1478
-translate russian taming_threesome_kylie_fuck_f968ad78:
+translate russian taming_threesome_kylie_fuck_09794c57:
     kylie.say "Кончишь... в... меня?"
 
 # ch/harems_full/taming/events.rpy:1479
@@ -3257,11 +3257,11 @@ translate russian taming_threesome_kylie_fuck_77b0ec53_1:
     "И, не успев сделать новый вдох, кончаю."
 
 # ch/harems_full/taming/events.rpy:1492
-translate russian taming_threesome_kylie_fuck_eb89f412_1:
+translate russian taming_threesome_kylie_fuck_32b6104d_1:
     kylie.say "Ох... ох, блядь!"
 
 # ch/harems_full/taming/events.rpy:1494
-translate russian taming_threesome_kylie_fuck_a80fee38_1:
+translate russian taming_threesome_kylie_fuck_bbd02164_1:
     kylie.say "Как хорошо... так хорошо!"
 
 # ch/harems_full/taming/events.rpy:1500
@@ -3525,7 +3525,7 @@ translate russian taming_bondage_ayesha_fuck_9132d359:
     ayesha.say "Конечно слышала!"
 
 # ch/harems_full/taming/events.rpy:1619
-translate russian taming_bondage_ayesha_fuck_cfd12c39:
+translate russian taming_bondage_ayesha_fuck_43300bad:
     ayesha.say "Просто... я просто никогда этим не занималась."
 
 # ch/harems_full/taming/events.rpy:1621
@@ -3545,7 +3545,7 @@ translate russian taming_bondage_ayesha_fuck_84494eb8:
     mike.say "Мы не будем торопиться, ладно?"
 
 # ch/harems_full/taming/events.rpy:1626
-translate russian taming_bondage_ayesha_fuck_15c47699:
+translate russian taming_bondage_ayesha_fuck_8c9ecbee:
     ayesha.say "Я... я не знаю..."
 
 # ch/harems_full/taming/events.rpy:1627
@@ -3617,7 +3617,7 @@ translate russian taming_bondage_ayesha_fuck_1cb31fcf:
     "Как ей теперь струсить, если только что за это же набросилась на Айшу?"
 
 # ch/harems_full/taming/events.rpy:1657
-translate russian taming_bondage_ayesha_fuck_b4314d85:
+translate russian taming_bondage_ayesha_fuck_fd192840:
     kylie.say "Д-да, ладно... без разницы."
 
 # ch/harems_full/taming/events.rpy:1659
@@ -3837,7 +3837,7 @@ translate russian taming_bondage_ayesha_fuck_b2270a2f:
     ayesha.say "Вот так..."
 
 # ch/harems_full/taming/events.rpy:1736
-translate russian taming_bondage_ayesha_fuck_3f466c87:
+translate russian taming_bondage_ayesha_fuck_ea92e57b:
     ayesha.say "До конца... хочу чувствовать тебя в себе целиком!"
 
 # ch/harems_full/taming/events.rpy:1737
@@ -3993,7 +3993,7 @@ translate russian taming_bondage_ayesha_fuck_ce6ecb55:
     mike.say "Причём языком."
 
 # ch/harems_full/taming/events.rpy:1784
-translate russian taming_bondage_ayesha_fuck_a1cbe107:
+translate russian taming_bondage_ayesha_fuck_53bff3e2:
     kylie.say "Что... я..."
 
 # ch/harems_full/taming/events.rpy:1786
@@ -4045,7 +4045,7 @@ translate russian taming_bondage_ayesha_fuck_1e0051cc:
     kylie.say "Вот так! Всё чисто!"
 
 # ch/harems_full/taming/events.rpy:1808
-translate russian taming_bondage_ayesha_fuck_e78f1888:
+translate russian taming_bondage_ayesha_fuck_2713da10:
     ayesha.say "С-спасибо, Кайли."
 
 # ch/harems_full/taming/events.rpy:1809
@@ -4061,7 +4061,7 @@ translate russian taming_bondage_ayesha_fuck_e0cd932f:
     "И тут щёки Кайли тоже заливаются румянцем."
 
 # ch/harems_full/taming/events.rpy:1812
-translate russian taming_bondage_ayesha_fuck_9be4baaa:
+translate russian taming_bondage_ayesha_fuck_8cd3c430:
     kylie.say "Н-не за что, Айша."
 
 # ch/harems_full/taming/events.rpy:1813
@@ -4209,7 +4209,7 @@ translate russian taming_event_03_a_8f14b46c:
     mike.say "Вообще-то я собирался встретиться с вами обеими..."
 
 # ch/harems_full/taming/events.rpy:1864
-translate russian taming_event_03_a_725d2224:
+translate russian taming_event_03_a_71b01eb8:
     mike.say "Так что... сюрприз!"
 
 # ch/harems_full/taming/events.rpy:1867
@@ -4233,7 +4233,7 @@ translate russian taming_event_03_a_dac742fb:
     kylie.say "Я не ненормальная!"
 
 # ch/harems_full/taming/events.rpy:1874
-translate russian taming_event_03_a_ec0dcc10:
+translate russian taming_event_03_a_673b90cf:
     kylie.say "Ладно... может, немножко..."
 
 # ch/harems_full/taming/events.rpy:1875
@@ -4505,7 +4505,7 @@ translate russian taming_event_03_a_0d41d757:
     kylie.say "Я раньше постоянно об этом мечтала."
 
 # ch/harems_full/taming/events.rpy:1967
-translate russian taming_event_03_a_02849350:
+translate russian taming_event_03_a_6163b039:
     ayesha.say "Ну... да."
 
 # ch/harems_full/taming/events.rpy:1969
@@ -4613,7 +4613,7 @@ translate russian taming_event_03_a_17660a4b:
     mike.say "Теперь только и могу представлять вас с хвостами!"
 
 # ch/harems_full/taming/events.rpy:2008
-translate russian taming_event_03_a_a40c8b2f:
+translate russian taming_event_03_a_aca537c2:
     mike.say "И... ну... в лифчиках из ракушек!"
 
 # ch/harems_full/taming/events.rpy:2009
@@ -4637,7 +4637,7 @@ translate russian taming_event_03_a_34c97c84:
     kylie.say "Представлять нас с Айшей русалками?"
 
 # ch/harems_full/taming/events.rpy:2016
-translate russian taming_event_03_a_86e0e3c2:
+translate russian taming_event_03_a_ce14bcc7:
     ayesha.say "Мне... кажется, мне тоже нравится!"
 
 # ch/harems_full/taming/events.rpy:2017
@@ -4773,7 +4773,7 @@ translate russian taming_event_03_a_9e8c6483:
     ayesha.say "М-м..."
 
 # ch/harems_full/taming/events.rpy:2061
-translate russian taming_event_03_a_1365e829:
+translate russian taming_event_03_a_af499572:
     ayesha.say "А... вот он!"
 
 # ch/harems_full/taming/events.rpy:2062
@@ -5553,7 +5553,7 @@ translate russian taming_event_03_b_14311e96:
     mike.say "Со стороны всегда будет казаться, что он смотрит вам на грудь, разве нет?"
 
 # ch/harems_full/taming/events.rpy:2361
-translate russian taming_event_03_b_f58e37b0:
+translate russian taming_event_03_b_e40398d4:
     ayesha.say "Ты... ты встаёшь на сторону официанта?!"
 
 # ch/harems_full/taming/events.rpy:2363
@@ -5625,7 +5625,7 @@ translate russian taming_event_03_b_9422e65d:
     mike.say "Позовите управляющего."
 
 # ch/harems_full/taming/events.rpy:2388
-translate russian taming_event_03_b_fd50b1cf:
+translate russian taming_event_03_b_9d6457c5:
     "Официант" "Ч-что?!"
 
 # ch/harems_full/taming/events.rpy:2389
@@ -5669,7 +5669,7 @@ translate russian taming_event_03_b_e5619b7a:
     mike.say "Теперь он всё понял!"
 
 # ch/harems_full/taming/events.rpy:2399
-translate russian taming_event_03_b_8f041f50:
+translate russian taming_event_03_b_2575138e:
     ayesha.say "А... хорошо, [lssb_common.hero_name()]."
 
 # ch/harems_full/taming/events.rpy:2400
@@ -5677,7 +5677,7 @@ translate russian taming_event_03_b_b9d78a6a:
     ayesha.say "Надеюсь, официанта из-за этого не уволят."
 
 # ch/harems_full/taming/events.rpy:2401
-translate russian taming_event_03_b_a1186ddc:
+translate russian taming_event_03_b_4a12d8a7:
     kylie.say "Я... уверена, его просто отчитают, и всё!"
 
 # ch/harems_full/taming/events.rpy:2402
@@ -5917,7 +5917,7 @@ translate russian taming_event_03_b_bb818a5a:
     mike.say "Ну тогда считайте меня старомодным!"
 
 # ch/harems_full/taming/events.rpy:2484
-translate russian taming_event_03_b_925039be:
+translate russian taming_event_03_b_9bf666b3:
     mike.say "Господи... пытаешься сделать приятное."
 
 # ch/harems_full/taming/events.rpy:2485
@@ -6189,7 +6189,7 @@ translate russian taming_event_03_c_d0afcade:
     ayesha.say "Никому больше не кажется, что это..."
 
 # ch/harems_full/taming/events.rpy:2600
-translate russian taming_event_03_c_9448dde6:
+translate russian taming_event_03_c_bfd35985:
     ayesha.say "Не знаю... немного странно?"
 
 # ch/harems_full/taming/events.rpy:2601
@@ -6245,7 +6245,7 @@ translate russian taming_event_03_c_0cbe028a:
     kylie.say "Боже мой..."
 
 # ch/harems_full/taming/events.rpy:2616
-translate russian taming_event_03_c_aec3214b:
+translate russian taming_event_03_c_ea33ffdd:
     kylie.say "Айша, ты что... боишься?"
 
 # ch/harems_full/taming/events.rpy:2618
@@ -6805,7 +6805,7 @@ translate russian taming_event_03_c_21c48a62_1:
     "Он пролетает по воздуху и касается волн."
 
 # ch/harems_full/taming/events.rpy:2807
-translate russian taming_event_03_c_642e8301:
+translate russian taming_event_03_c_84c48ff7:
     "После чего тонет как... ну, как камень."
 
 # ch/harems_full/taming/events.rpy:2808
@@ -7197,7 +7197,7 @@ translate russian taming_event_03_c_3001b2ea:
     mike.say "Но от тебя, Айша, ждал большего!"
 
 # ch/harems_full/taming/events.rpy:2950
-translate russian taming_event_03_c_aa10611c:
+translate russian taming_event_03_c_ce958c4f:
     ayesha.say "Ч-что?!"
 
 # ch/harems_full/taming/events.rpy:2952
@@ -7257,7 +7257,7 @@ translate russian taming_event_03_c_3f92c0a7:
     mike.say "Но от тебя, Кайли, ждал большего!"
 
 # ch/harems_full/taming/events.rpy:2972
-translate russian taming_event_03_c_82b3804f:
+translate russian taming_event_03_c_f3a4b7fd:
     kylie.say "Ч-что?!"
 
 # ch/harems_full/taming/events.rpy:2973
@@ -7497,7 +7497,7 @@ translate russian taming_event_04_79863e5e:
     "Странно видеть настолько сильного физически человека таким встревоженным."
 
 # ch/harems_full/taming/events.rpy:3075
-translate russian taming_event_04_9618bf75:
+translate russian taming_event_04_28095406:
     ayesha.say "Я... наверное, ты прав, [lssb_common.hero_name()]."
 
 # ch/harems_full/taming/events.rpy:3076
@@ -7505,7 +7505,7 @@ translate russian taming_event_04_bf73809b:
     ayesha.say "В последнее время Кайли ведёт себя гораздо спокойнее."
 
 # ch/harems_full/taming/events.rpy:3077
-translate russian taming_event_04_e03b3944:
+translate russian taming_event_04_5ea4f08d:
     ayesha.say "Просто... обещай меня защитить, ладно?"
 
 # ch/harems_full/taming/events.rpy:3078
@@ -8801,7 +8801,7 @@ translate russian taming_event_04_f4571542:
     kylie.say "О боже..."
 
 # ch/harems_full/taming/events.rpy:3476
-translate russian taming_event_04_2003b12e:
+translate russian taming_event_04_315b3c5c:
     kylie.say "Пожалуйста... я сейчас..."
 
 # ch/harems_full/taming/events.rpy:3477
@@ -9069,7 +9069,7 @@ translate russian taming_event_04_f4571542_1:
     kylie.say "О боже..."
 
 # ch/harems_full/taming/events.rpy:3560
-translate russian taming_event_04_2003b12e_1:
+translate russian taming_event_04_315b3c5c_1:
     kylie.say "Пожалуйста... я сейчас..."
 
 # ch/harems_full/taming/events.rpy:3561
@@ -9213,7 +9213,7 @@ translate russian taming_event_05_b541ede9:
     "Кайли похожа на фарфоровую куклу, но внутри у неё пылает горячая страсть."
 
 # ch/harems_full/taming/events.rpy:3618
-translate russian taming_event_05_92f3527a:
+translate russian taming_event_05_e71b5873:
     "А я... ну... о моих особенных качествах лучше спросить Айшу и Кайли!"
 
 # ch/harems_full/taming/events.rpy:3619
@@ -9969,11 +9969,11 @@ translate russian taming_event_05_aecdd3b7:
     kylie.say "М-м-м..."
 
 # ch/harems_full/taming/events.rpy:3879
-translate russian taming_event_05_b7a0faae:
+translate russian taming_event_05_14a6f3aa:
     kylie.say "Ох... о да..."
 
 # ch/harems_full/taming/events.rpy:3880
-translate russian taming_event_05_9c9aa624:
+translate russian taming_event_05_ec282ed5:
     kylie.say "Пожалуйста... дай мне его..."
 
 # ch/harems_full/taming/events.rpy:3881
@@ -10205,19 +10205,19 @@ translate russian taming_event_05_c8eb8560_1:
     "Одновременно всё её тело начинает дрожать."
 
 # ch/harems_full/taming/events.rpy:3956
-translate russian taming_event_05_270bbf88:
+translate russian taming_event_05_82abbb9a:
     kylie.say "В... в попку?!"
 
 # ch/harems_full/taming/events.rpy:3957
-translate russian taming_event_05_df9d9059:
+translate russian taming_event_05_f123d9c1:
     kylie.say "В смысле... да... конечно!"
 
 # ch/harems_full/taming/events.rpy:3958
-translate russian taming_event_05_b7a0faae_1:
+translate russian taming_event_05_14a6f3aa_1:
     kylie.say "Ох... о да..."
 
 # ch/harems_full/taming/events.rpy:3959
-translate russian taming_event_05_9c9aa624_1:
+translate russian taming_event_05_ec282ed5_1:
     kylie.say "Пожалуйста... дай мне его..."
 
 # ch/harems_full/taming/events.rpy:3960
@@ -10553,7 +10553,7 @@ translate russian ayesha_kylie_propose_male_e12cf47a:
     kylie.say "Они же по-настоящему работают?"
 
 # ch/harems_full/taming/events.rpy:4080
-translate russian ayesha_kylie_propose_male_b4985403:
+translate russian ayesha_kylie_propose_male_981a7da5:
     ayesha.say "Ну... да, наверное..."
 
 # ch/harems_full/taming/events.rpy:4081
@@ -10665,7 +10665,7 @@ translate russian ayesha_kylie_propose_male_fd9c4dd3:
     "Будто всё решится окончательно, только когда они окажутся у девушек на пальцах."
 
 # ch/harems_full/taming/events.rpy:4118
-translate russian ayesha_kylie_propose_male_506c89b8:
+translate russian ayesha_kylie_propose_male_53f8fcfb:
     mike.say "Я... я..."
 
 # ch/harems_full/taming/events.rpy:4119
@@ -10949,7 +10949,7 @@ translate russian ayesha_kylie_propose_male_a033862e_1:
     ayesha.say "То есть ты не хочешь выйти за МЕНЯ?!"
 
 # ch/harems_full/taming/events.rpy:4221
-translate russian ayesha_kylie_propose_male_b4978bbe:
+translate russian ayesha_kylie_propose_male_18ab6aae:
     kylie.say "Ну... да, Айша!"
 
 # ch/harems_full/taming/events.rpy:4223
@@ -11305,7 +11305,7 @@ translate russian ayesha_kylie_male_ending_97095912:
     kylie.say "Правда, Айша?"
 
 # ch/harems_full/taming/events.rpy:4348
-translate russian ayesha_kylie_male_ending_afb9bec0:
+translate russian ayesha_kylie_male_ending_bb80c01e:
     ayesha.say "Погоди... что?"
 
 # ch/harems_full/taming/events.rpy:4349
@@ -11417,7 +11417,7 @@ translate russian ayesha_kylie_male_ending_f42fabe7:
     kylie.say "Носить футболки с тобой и болеть за тебя!"
 
 # ch/harems_full/taming/events.rpy:4377
-translate russian ayesha_kylie_male_ending_713c1ab4:
+translate russian ayesha_kylie_male_ending_828df256:
     ayesha.say "Ой... перестань, Кайли!"
 
 # ch/harems_full/taming/events.rpy:4378
@@ -11481,7 +11481,7 @@ translate russian ayesha_kylie_male_ending_62b14e7f:
     ayesha.say "И просила больше об этом не упоминать?"
 
 # ch/harems_full/taming/events.rpy:4394
-translate russian ayesha_kylie_male_ending_29245d12:
+translate russian ayesha_kylie_male_ending_337c113a:
     kylie.say "Эм... да."
 
 # ch/harems_full/taming/events.rpy:4395

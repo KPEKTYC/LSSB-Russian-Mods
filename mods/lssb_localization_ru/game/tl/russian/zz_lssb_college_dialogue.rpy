@@ -24,10 +24,6 @@ translate russian science_project_01_33972d89:
 translate russian science_project_01_a270ae5c:
     "Просто я ещё никогда не видел, чтобы она настолько зарывалась в книги."
 
-# ch/harems_full/college/events.rpy:101
-translate russian science_project_01_fe7e321b:
-    mike.say "Эй, [bree.name]..."
-
 # ch/harems_full/college/events.rpy:102
 translate russian science_project_01_73dfd47c:
     mike.say "Всё нормально?"
@@ -49,7 +45,7 @@ translate russian science_project_01_e96b4018:
     bree.say "Что?.."
 
 # ch/harems_full/college/events.rpy:109
-translate russian science_project_01_833b5b2c:
+translate russian science_project_01_788c67d8:
     bree.say "А... это всего лишь ты, [lssb_common.hero_name()]!"
 
 # ch/harems_full/college/events.rpy:110
@@ -59,10 +55,6 @@ translate russian science_project_01_e1576642:
 # ch/harems_full/college/events.rpy:112
 translate russian science_project_01_a873dc22:
     "Ладно, спишем это на то, что [bree.name] сейчас не совсем в себе."
-
-# ch/harems_full/college/events.rpy:113
-translate russian science_project_01_5f1e3383:
-    mike.say "Я спросил, всё ли нормально, [bree.name]?"
 
 # ch/harems_full/college/events.rpy:114
 translate russian science_project_01_2570b404:
@@ -95,10 +87,6 @@ translate russian science_project_01_49846687:
 # ch/harems_full/college/events.rpy:122
 translate russian science_project_01_3d49d0e3:
     "[bree.name], наверное, ещё не вполне очнулась, раз не расслышала, что именно я сказал."
-
-# ch/harems_full/college/events.rpy:123
-translate russian science_project_01_6af31e1c:
-    mike.say "Нет, [bree.name]..."
 
 # ch/harems_full/college/events.rpy:124
 translate russian science_project_01_b921303e:
@@ -144,10 +132,6 @@ translate russian science_project_01_78e72e86:
 translate russian science_project_01_fdaa7f6e:
     "Вместо этого пытаюсь разобраться, что же её так тревожит."
 
-# ch/harems_full/college/events.rpy:136
-translate russian science_project_01_d8d120a4:
-    mike.say "Могу чем-нибудь помочь, [bree.name]?"
-
 # ch/harems_full/college/events.rpy:137
 translate russian science_project_01_441b973b:
     mike.say "Знаешь, некоторые даже обвиняли меня в том, что я довольно умён!"
@@ -173,7 +157,7 @@ translate russian science_project_01_9ed0ced3:
     bree.say "Они устраивают конкурс под названием «Съезд безумных учёных»."
 
 # ch/harems_full/college/events.rpy:145
-translate russian science_project_01_f93ec69b:
+translate russian science_project_01_87456875:
     mike.say "Хм... Звучит интересно!"
 
 # ch/harems_full/college/events.rpy:146
@@ -185,7 +169,7 @@ translate russian science_project_01_178cd893:
     bree.say "Нужно придумать настоящий научный проект."
 
 # ch/harems_full/college/events.rpy:148
-translate russian science_project_01_e0f748f9:
+translate russian science_project_01_814bf828:
     bree.say "Но с изюминкой: он должен быть... ну, необычным."
 
 # ch/harems_full/college/events.rpy:149
@@ -201,7 +185,7 @@ translate russian science_project_01_723deaa2:
     "Потом начинаю кивать: кажется, до меня дошло."
 
 # ch/harems_full/college/events.rpy:152
-translate russian science_project_01_07213dd3:
+translate russian science_project_01_6ce5f755:
     mike.say "А... понял!"
 
 # ch/harems_full/college/events.rpy:153
@@ -215,10 +199,6 @@ translate russian science_project_01_2378a4f2:
 # ch/harems_full/college/events.rpy:156
 translate russian science_project_01_375ad42b:
     bree.say "Именно!"
-
-# ch/harems_full/college/events.rpy:157
-translate russian science_project_01_3e6d56a2:
-    mike.say "Что же ты сразу не сказала, [bree.name]?"
 
 # ch/harems_full/college/events.rpy:158
 translate russian science_project_01_af8a84d7:
@@ -239,10 +219,6 @@ translate russian science_project_01_0b35cc44:
 # ch/harems_full/college/events.rpy:162
 translate russian science_project_01_3c54ccc0:
     bree.say "Раньше, например, давали видеоигры, книги и всё такое."
-
-# ch/harems_full/college/events.rpy:163
-translate russian science_project_01_738bdeb3:
-    mike.say "Звучит идеально, [bree.name]!"
 
 # ch/harems_full/college/events.rpy:164
 translate russian science_project_01_251b8cf9:
@@ -284,10 +260,6 @@ translate russian science_project_01_8d7a7b29:
 translate russian science_project_01_ccf47efd:
     "И тут меня осеняет: я знаю идеальную кандидатуру."
 
-# ch/harems_full/college/events.rpy:175
-translate russian science_project_01_e3339e4c:
-    mike.say "Знаю, кто мог бы тебе помочь, [bree.name]."
-
 # ch/harems_full/college/events.rpy:177
 translate russian science_project_01_769abbf0:
     mike.say "В университете есть девушка по имени Анна."
@@ -327,10 +299,6 @@ translate russian science_project_01_a5d0e6b6:
 # ch/harems_full/college/events.rpy:190
 translate russian science_project_01_20d677ed:
     "Но продолжаю, пытаясь сменить тему."
-
-# ch/harems_full/college/events.rpy:191
-translate russian science_project_01_a9dfa473:
-    mike.say "Ладно, [bree.name], ладно..."
 
 # ch/harems_full/college/events.rpy:192
 translate russian science_project_01_91332c9c:
@@ -401,12 +369,8 @@ translate russian science_project_02_13811479:
     "Точнее, прекратить фантазировать меня заставляет её тон."
 
 # ch/harems_full/college/events.rpy:216
-translate russian science_project_02_ce580e6e:
+translate russian science_project_02_81299c40:
     mike.say "А... да..."
-
-# ch/harems_full/college/events.rpy:217
-translate russian science_project_02_c5f9bf41:
-    mike.say "Прости, [bree.name]!"
 
 # ch/harems_full/college/events.rpy:218
 translate russian science_project_02_fa9e0a17:
@@ -469,7 +433,7 @@ translate russian science_project_02_497bb74d:
     bree.say "Ты ещё сказал, что она невысокая."
 
 # ch/harems_full/college/events.rpy:234
-translate russian science_project_02_e3f3faa5:
+translate russian science_project_02_520a290b:
     bree.say "И... и... с пышными формами!"
 
 # ch/harems_full/college/events.rpy:235
@@ -503,10 +467,6 @@ translate russian science_project_02_b0025fef:
 # ch/harems_full/college/events.rpy:244
 translate russian science_project_02_6e9ace5a:
     mike.say "Это [bree.name]."
-
-# ch/harems_full/college/events.rpy:245
-translate russian science_project_02_fff8e0ec:
-    mike.say "[bree.name], это Анна."
 
 # ch/harems_full/college/events.rpy:246
 translate russian science_project_02_4806bb45:
@@ -565,7 +525,7 @@ translate russian science_project_02_28e43e96:
     "Надо было предупредить: [bree.name] ещё не знает, что Анна почти всегда говорит всё, что думает!"
 
 # ch/harems_full/college/events.rpy:263
-translate russian science_project_02_cc801ec9:
+translate russian science_project_02_62e9bd1a:
     anna.say "Ой... ой-ой..."
 
 # ch/harems_full/college/events.rpy:264
@@ -581,7 +541,7 @@ translate russian science_project_02_bacf4483:
     anna.say "И на Сашу тоже, пожалуйста, не сердись!"
 
 # ch/harems_full/college/events.rpy:267
-translate russian science_project_02_f169ac8e:
+translate russian science_project_02_39b7d59d:
     anna.say "Мы играем в одной группе, и... ну, ты ведь знаешь, какая она бывает?"
 
 # ch/harems_full/college/events.rpy:268
@@ -601,7 +561,7 @@ translate russian science_project_02_c601085c:
     bree.say "Я достаточно долго живу с Сашей, чтобы к ней привыкнуть."
 
 # ch/harems_full/college/events.rpy:273
-translate russian science_project_02_8cc18fcd:
+translate russian science_project_02_1d3fa166:
     bree.say "Она бывает очень... бесхитростной... прямолинейной, да?"
 
 # ch/harems_full/college/events.rpy:275
@@ -632,16 +592,12 @@ translate russian science_project_02_f3db115a:
 translate russian science_project_02_16098523:
     "Хотя бы затем, чтобы вернуть разговор в нужное русло."
 
-# ch/harems_full/college/events.rpy:282
-translate russian science_project_02_fa309da2:
-    mike.say "Итак, [bree.name]..."
-
 # ch/harems_full/college/events.rpy:283
 translate russian science_project_02_bdead4df:
     mike.say "Ты собиралась участвовать в этом «Съезде безумных учёных»?"
 
 # ch/harems_full/college/events.rpy:284
-translate russian science_project_02_cca6e64c:
+translate russian science_project_02_daf98a12:
     bree.say "А... да!"
 
 # ch/harems_full/college/events.rpy:285
@@ -700,12 +656,8 @@ translate russian science_project_02_f41786cf:
 translate russian science_project_02_d3021649:
     "Я ведь знаю, как серьёзно она увлекается ужастиками — и новыми, и классическими."
 
-# ch/harems_full/college/events.rpy:302
-translate russian science_project_02_338d91c7:
-    mike.say "Выслушай Анну, [bree.name]!"
-
 # ch/harems_full/college/events.rpy:304
-translate russian science_project_02_9c66acc8:
+translate russian science_project_02_672dd7e3:
     bree.say "Н-но мы же не можем сшивать куски мёртвых тел!"
 
 # ch/harems_full/college/events.rpy:307
@@ -745,7 +697,7 @@ translate russian science_project_02_677bb057:
     "Рядом с Анной я сейчас начинаю чувствовать себя совсем глупым!"
 
 # ch/harems_full/college/events.rpy:318
-translate russian science_project_02_31edfa52:
+translate russian science_project_02_289f21bf:
     mike.say "Э-э... Простите, что приходится задавать поясняющие вопросы."
 
 # ch/harems_full/college/events.rpy:319
@@ -793,7 +745,7 @@ translate russian science_project_02_078d485a:
     bree.say "А?.."
 
 # ch/harems_full/college/events.rpy:330
-translate russian science_project_02_9903fc39:
+translate russian science_project_02_31cdbd42:
     bree.say "О... ты ещё здесь, [lssb_common.hero_name()]?"
 
 # ch/harems_full/college/events.rpy:331
@@ -989,7 +941,7 @@ translate russian science_project_03_288c1077:
     mike.say "Извините, что прервал..."
 
 # ch/harems_full/college/events.rpy:404
-translate russian science_project_03_79efd9b9:
+translate russian science_project_03_efec3bb4:
     mike.say "Ну... чем бы вы тут ни занимались!"
 
 # ch/harems_full/college/events.rpy:408
@@ -1137,7 +1089,7 @@ translate russian science_project_03_ee25f2df:
     bree.say "Да, [lssb_common.hero_name()], возможности безграничны!"
 
 # ch/harems_full/college/events.rpy:462
-translate russian science_project_03_199de7ff:
+translate russian science_project_03_dcb9fd83:
     bree.say "Можно... ну, хирург мог бы управлять человеком за много километров."
 
 # ch/harems_full/college/events.rpy:463
@@ -1165,7 +1117,7 @@ translate russian science_project_03_6dfddb92:
     anna.say "И хочешь помочь нам воплотить это в жизнь, да?"
 
 # ch/harems_full/college/events.rpy:471
-translate russian science_project_03_25e28acd:
+translate russian science_project_03_c23118d0:
     mike.say "Я... наверное..."
 
 # ch/harems_full/college/events.rpy:473
@@ -1173,7 +1125,7 @@ translate russian science_project_03_c406868e:
     bree.say "Отлично! Теперь раздевайся!"
 
 # ch/harems_full/college/events.rpy:474
-translate russian science_project_03_3b570a81:
+translate russian science_project_03_96561a23:
     mike.say "Ч-что за чёрт?!"
 
 # ch/harems_full/college/events.rpy:476
@@ -1437,7 +1389,7 @@ translate russian science_project_03_5a91226a:
     "Не успеваю я сказать ни слова, как она стягивает их, обнажая мой член."
 
 # ch/harems_full/college/events.rpy:591
-translate russian science_project_03_3ecc8934:
+translate russian science_project_03_8e61704e:
     mike.say "Э-эй!"
 
 # ch/harems_full/college/events.rpy:600
@@ -1521,7 +1473,7 @@ translate russian science_project_03_4b2d8f4c:
     mike.say "Я всё решил — ищите другую жертву!"
 
 # ch/harems_full/college/events.rpy:625
-translate russian science_project_03_6cb56c16:
+translate russian science_project_03_e506c62c:
     anna.say "У-у... придурок!"
 
 # ch/harems_full/college/events.rpy:627
@@ -1569,7 +1521,7 @@ translate russian science_project_03_11b32248:
     bree.say "Поверь, ты в надёжных руках!"
 
 # ch/harems_full/college/events.rpy:646
-translate russian science_project_03_c8af3223:
+translate russian science_project_03_665afb46:
     mike.say "А... ладно, девочки."
 
 # ch/harems_full/college/events.rpy:647
@@ -1645,7 +1597,7 @@ translate russian science_project_03_191c07e3:
     anna.say "Когда ты сейчас это сказал..."
 
 # ch/harems_full/college/events.rpy:676
-translate russian science_project_03_b245ab4c:
+translate russian science_project_03_c23aedaf:
     anna.say "Ну... меня будто током прошибло... там, внизу!"
 
 # ch/harems_full/college/events.rpy:677
@@ -1821,7 +1773,7 @@ translate russian college_cowgirl_sex_93a51c44:
     "Но я всё равно не могу пошевелиться, когда [bree.name] садится на меня верхом."
 
 # ch/harems_full/college/events.rpy:744
-translate russian college_cowgirl_sex_a0f32ddd:
+translate russian college_cowgirl_sex_74017e2d:
     mike.say "Т-ты собираешься заняться со мной сексом?"
 
 # ch/harems_full/college/events.rpy:745
@@ -2053,7 +2005,7 @@ translate russian college_cowgirl_sex_cd4aa8e5:
     "[bree.name] уже покрыта потом и тяжело дышит, а её щёки становятся пунцовыми."
 
 # ch/harems_full/college/events.rpy:812
-translate russian college_cowgirl_sex_5342efb8:
+translate russian college_cowgirl_sex_1e2d820c:
     bree.say "Я... я сейчас..."
 
 # ch/harems_full/college/events.rpy:813
@@ -2061,7 +2013,7 @@ translate russian college_cowgirl_sex_bce6ee08:
     bree.say "Я сейчас кончу..."
 
 # ch/harems_full/college/events.rpy:814
-translate russian college_cowgirl_sex_e6c6a756:
+translate russian college_cowgirl_sex_f48aee8c:
     bree.say "Вот... прямо сейчас!"
 
 # ch/harems_full/college/events.rpy:815
@@ -2088,16 +2040,12 @@ translate russian college_cowgirl_sex_880bcc72:
 translate russian college_cowgirl_sex_1d2b1a93:
     "Затем падает на меня, оказавшись лицом почти вплотную к моему."
 
-# ch/harems_full/college/events.rpy:823
-translate russian college_cowgirl_sex_ccbcf06e:
-    mike.say "Н-ну как мы справились, [bree.name]?"
-
 # ch/harems_full/college/events.rpy:824
-translate russian college_cowgirl_sex_f34eb704:
+translate russian college_cowgirl_sex_529dc582:
     mike.say "Эксперимент... удался?"
 
 # ch/harems_full/college/events.rpy:826
-translate russian college_cowgirl_sex_3e95dc98:
+translate russian college_cowgirl_sex_3e0ac61a:
     bree.say "Я... я точно вышла на новый уровень..."
 
 # ch/harems_full/college/events.rpy:827
@@ -2133,7 +2081,7 @@ translate russian college_oral_sex_b6587c49:
     bree.say "Она права, [lssb_common.hero_name()]."
 
 # ch/harems_full/college/events.rpy:843
-translate russian college_oral_sex_35fa855f:
+translate russian college_oral_sex_b46c3485:
     bree.say "Всё это во имя науки... наверное."
 
 # ch/harems_full/college/events.rpy:845
@@ -2477,16 +2425,12 @@ translate russian science_project_04_9d94b53d:
     bree.say "Анна, ему не нужно это видеть!"
 
 # ch/harems_full/college/events.rpy:986
-translate russian science_project_04_04b74c51:
+translate russian science_project_04_be84d566:
     anna.say "Да почему, [bree.name]?"
 
 # ch/harems_full/college/events.rpy:987
 translate russian science_project_04_1c8f6973:
     anna.say "По-моему, здорово, что мы попали в тренды!"
-
-# ch/harems_full/college/events.rpy:988
-translate russian science_project_04_11f24b5d:
-    mike.say "Да, [bree.name], в чём проблема?"
 
 # ch/harems_full/college/events.rpy:989
 translate russian science_project_04_28f834d5:
@@ -2519,10 +2463,6 @@ translate russian science_project_04_a3268f02:
 # ch/harems_full/college/events.rpy:1002
 translate russian science_project_04_273b8916:
     "И выглядит она в нём потрясающе соблазнительно!"
-
-# ch/harems_full/college/events.rpy:1003
-translate russian science_project_04_ad0b1d5d:
-    mike.say "Классный наряд, [bree.name], прямо из аниме!"
 
 # ch/harems_full/college/events.rpy:1004
 translate russian science_project_04_d472795f:
@@ -2771,10 +2711,6 @@ translate russian anna_bree_propose_male_04381623:
 # ch/harems_full/college/events.rpy:1092
 translate russian anna_bree_propose_male_621132fd:
     mike.say "Анна..."
-
-# ch/harems_full/college/events.rpy:1093
-translate russian anna_bree_propose_male_3dc7f442:
-    mike.say "[bree.name]..."
 
 # ch/harems_full/college/events.rpy:1094
 translate russian anna_bree_propose_male_486a4689:
@@ -3175,10 +3111,6 @@ translate russian anna_bree_propose_male_a6c725f5:
 # ch/harems_full/college/events.rpy:1229
 translate russian anna_bree_propose_male_1211fdeb:
     bree.say "Мы ведь можем пожениться, правда?"
-
-# ch/harems_full/college/events.rpy:1230
-translate russian anna_bree_propose_male_4cc7bbb4:
-    mike.say "Наверное, [bree.name]."
 
 # ch/harems_full/college/events.rpy:1232
 translate russian anna_bree_propose_male_3dc09f17_1:

@@ -161,7 +161,7 @@ translate russian emma_samantha_showdown_2dcae54c:
     samantha.say "Похоже, отлично ладите!"
 
 # ch/harems/friendly/events.rpy:106
-translate russian emma_samantha_showdown_f8b2719f:
+translate russian emma_samantha_showdown_f0c5672a:
     mike.say "А... да, конечно!"
 
 # ch/harems/friendly/events.rpy:110
@@ -221,7 +221,7 @@ translate russian emma_samantha_showdown_21c29228:
     samantha.say "На чашку кофе время найдётся."
 
 # ch/harems/friendly/events.rpy:127
-translate russian emma_samantha_showdown_2034e8d8:
+translate russian emma_samantha_showdown_eb61c199:
     emma.say "О... звучит неплохо."
 
 # ch/harems/friendly/events.rpy:128
@@ -317,11 +317,11 @@ translate russian emma_samantha_showdown_f3752a24:
     emma.say "О чём она говорит, [lssb_common.hero_name()]?"
 
 # ch/harems/friendly/events.rpy:160
-translate russian emma_samantha_showdown_4e362a7b:
+translate russian emma_samantha_showdown_ae74fa8b:
     emma.say "Это... какая-то шутка?"
 
 # ch/harems/friendly/events.rpy:161
-translate russian emma_samantha_showdown_bb4a3c97:
+translate russian emma_samantha_showdown_eb2579c4:
     mike.say "Эм... нет, Эмма."
 
 # ch/harems/friendly/events.rpy:163
@@ -393,7 +393,7 @@ translate russian emma_samantha_showdown_3a4dfa34:
     samantha.say "Я готова делить его... с подходящей девушкой."
 
 # ch/harems/friendly/events.rpy:185
-translate russian emma_samantha_showdown_b3010200:
+translate russian emma_samantha_showdown_9332c498:
     emma.say "Ч-что ты имеешь в виду?"
 
 # ch/harems/friendly/events.rpy:187
@@ -445,7 +445,7 @@ translate russian emma_samantha_showdown_77322965:
     "А это уже хороший знак."
 
 # ch/harems/friendly/events.rpy:204
-translate russian emma_samantha_showdown_50ab9171:
+translate russian emma_samantha_showdown_355345ff:
     emma.say "Я... наверное, могла бы попробовать."
 
 # ch/harems/friendly/events.rpy:206
@@ -629,7 +629,7 @@ translate russian emma_samantha_showdown_26e114e0:
     "Всё происходит так быстро, что ни Эмма, ни я не успеваем отреагировать."
 
 # ch/harems/friendly/events.rpy:273
-translate russian emma_samantha_showdown_04ebf01d:
+translate russian emma_samantha_showdown_64e9c005:
     emma.say "Чт... что это было?"
 
 # ch/harems/friendly/events.rpy:275
@@ -637,7 +637,7 @@ translate russian emma_samantha_showdown_8ccc98bc:
     emma.say "Почему она так разозлилась и ушла?"
 
 # ch/harems/friendly/events.rpy:276
-translate russian emma_samantha_showdown_8a79850a:
+translate russian emma_samantha_showdown_e5c1e470:
     emma.say "Я же... всего лишь сказала, что мы встречаемся!"
 
 # ch/harems/friendly/events.rpy:277
@@ -673,7 +673,7 @@ translate russian emma_samantha_showdown_9543df18:
     emma.say "Знаешь — ДО того, как мы с ними столкнёмся!"
 
 # ch/harems/friendly/events.rpy:287
-translate russian emma_samantha_showdown_a20dba72:
+translate russian emma_samantha_showdown_9ef47a35:
     mike.say "Нет, Эмма... с большинством людей у меня вполне нормальные отношения."
 
 # ch/harems/friendly/events.rpy:289
@@ -861,7 +861,7 @@ translate russian emma_samantha_showdown_58f775b9:
     emma.say "Ну, я..."
 
 # ch/harems/friendly/events.rpy:355
-translate russian emma_samantha_showdown_64972065:
+translate russian emma_samantha_showdown_379c770f:
     emma.say "Ничего себе... Как же мне повезло!"
 
 # ch/harems/friendly/events.rpy:356
@@ -961,7 +961,7 @@ translate russian emma_samantha_threesome_intro_73cc1e5b:
     mike.say "Вот это сюрприз!"
 
 # ch/harems/friendly/events.rpy:392
-translate russian emma_samantha_threesome_intro_99db2e7f:
+translate russian emma_samantha_threesome_intro_5dad69d2:
     mike.say "Т... тогда заходи!"
 
 # ch/harems/friendly/events.rpy:393
@@ -1033,7 +1033,7 @@ translate russian emma_samantha_threesome_intro_73cc1e5b_1:
     mike.say "Вот это сюрприз!"
 
 # ch/harems/friendly/events.rpy:425
-translate russian emma_samantha_threesome_intro_99db2e7f_1:
+translate russian emma_samantha_threesome_intro_5dad69d2_1:
     mike.say "Т... тогда заходите!"
 
 # ch/harems/friendly/events.rpy:426
@@ -1137,7 +1137,7 @@ translate russian emma_samantha_threesome_intro_ce79c5f7:
     samantha.say "Мы просто устраиваемся поудобнее, только и всего!"
 
 # ch/harems/friendly/events.rpy:462
-translate russian emma_samantha_threesome_intro_170381d2:
+translate russian emma_samantha_threesome_intro_d3f1c090:
     emma.say "Д... да, [lssb_common.hero_name()]..."
 
 # ch/harems/friendly/events.rpy:464
@@ -1189,7 +1189,7 @@ translate russian emma_samantha_threesome_intro_58b70280:
     "Сэм и Эмма садятся и недоумённо переглядываются."
 
 # ch/harems/friendly/events.rpy:477
-translate russian emma_samantha_threesome_intro_a94b0d4d:
+translate russian emma_samantha_threesome_intro_38af7f1b:
     samantha.say "Ну... да!"
 
 # ch/harems/friendly/events.rpy:479
@@ -1217,7 +1217,7 @@ translate russian emma_samantha_threesome_intro_a6f54422:
     "Сэм и Эмма снова переглядываются и радостно кивают."
 
 # ch/harems/friendly/events.rpy:486
-translate russian emma_samantha_threesome_intro_d3a99af2:
+translate russian emma_samantha_threesome_intro_8112da2b:
     samantha.say "А... ну тогда ладно!"
 
 # ch/harems/friendly/events.rpy:487
@@ -1893,7 +1893,7 @@ translate russian emma_samantha_threesome_52395826:
     samantha.say "М-м-м..."
 
 # ch/harems/friendly/events.rpy:740
-translate russian emma_samantha_threesome_e46605f9:
+translate russian emma_samantha_threesome_ebfa43f7:
     samantha.say "Я... я не выдержу..."
 
 # ch/harems/friendly/events.rpy:741
@@ -2241,7 +2241,7 @@ translate russian emma_samantha_threesome_52395826_1:
     samantha.say "М-м-м..."
 
 # ch/harems/friendly/events.rpy:844
-translate russian emma_samantha_threesome_e46605f9_1:
+translate russian emma_samantha_threesome_ebfa43f7_1:
     samantha.say "Я... я не выдержу..."
 
 # ch/harems/friendly/events.rpy:845
@@ -2529,7 +2529,7 @@ translate russian emma_samantha_threesome_982f72ca:
     "Вместо этого направляю головку члена ниже, прямо к киске Эммы."
 
 # ch/harems/friendly/events.rpy:935
-translate russian emma_samantha_threesome_4e044998:
+translate russian emma_samantha_threesome_7717a8dd:
     emma.say "П... пожалуйста, [lssb_common.hero_name()]..."
 
 # ch/harems/friendly/events.rpy:936
@@ -2589,7 +2589,7 @@ translate russian emma_samantha_threesome_4d90d2a6:
     emma.say "Ох, ничего себе..."
 
 # ch/harems/friendly/events.rpy:955
-translate russian emma_samantha_threesome_9ca63624:
+translate russian emma_samantha_threesome_e99c1426:
     emma.say "Т... ты внутри меня!"
 
 # ch/harems/friendly/events.rpy:957
@@ -2709,7 +2709,7 @@ translate russian emma_samantha_threesome_fc86215f:
     samantha.say "Ох, блядь..."
 
 # ch/harems/friendly/events.rpy:994
-translate russian emma_samantha_threesome_e46605f9_2:
+translate russian emma_samantha_threesome_ebfa43f7_2:
     samantha.say "Я... я не выдержу..."
 
 # ch/harems/friendly/events.rpy:996
@@ -2785,7 +2785,7 @@ translate russian emma_samantha_threesome_89233815:
     "Иначе как она привыкнет к подобным вещам?"
 
 # ch/harems/friendly/events.rpy:1027
-translate russian emma_samantha_threesome_4e044998_1:
+translate russian emma_samantha_threesome_7717a8dd_1:
     emma.say "П... пожалуйста, [lssb_common.hero_name()]..."
 
 # ch/harems/friendly/events.rpy:1028
@@ -2849,7 +2849,7 @@ translate russian emma_samantha_threesome_4d90d2a6_1:
     emma.say "Ох, ничего себе..."
 
 # ch/harems/friendly/events.rpy:1044
-translate russian emma_samantha_threesome_9ca63624_1:
+translate russian emma_samantha_threesome_e99c1426_1:
     emma.say "Т... ты внутри меня!"
 
 # ch/harems/friendly/events.rpy:1045
@@ -2969,7 +2969,7 @@ translate russian emma_samantha_threesome_fc86215f_1:
     samantha.say "Ох, блядь..."
 
 # ch/harems/friendly/events.rpy:1082
-translate russian emma_samantha_threesome_e46605f9_3:
+translate russian emma_samantha_threesome_ebfa43f7_3:
     samantha.say "Я... я не выдержу..."
 
 # ch/harems/friendly/events.rpy:1084
@@ -3181,7 +3181,7 @@ translate russian emma_samantha_propose_male_f588cc4a:
     emma.say "Я согласна, [lssb_common.hero_name()]."
 
 # ch/harems/friendly/events.rpy:1168
-translate russian emma_samantha_propose_male_5338fb48:
+translate russian emma_samantha_propose_male_a22a9ac8:
     emma.say "Я... просто это предложение так меня ошеломило!"
 
 # ch/harems/friendly/events.rpy:1169
@@ -3253,7 +3253,7 @@ translate russian emma_samantha_propose_male_f588cc4a_1:
     emma.say "Я согласна, [lssb_common.hero_name()]."
 
 # ch/harems/friendly/events.rpy:1191
-translate russian emma_samantha_propose_male_5338fb48_1:
+translate russian emma_samantha_propose_male_a22a9ac8_1:
     emma.say "Я... просто это предложение так меня ошеломило!"
 
 # ch/harems/friendly/events.rpy:1192
@@ -3793,7 +3793,7 @@ translate russian emma_samantha_male_ending_c4433637:
     samantha.say "Ваша история — настоящая сказка!"
 
 # ch/harems/friendly/events.rpy:1385
-translate russian emma_samantha_male_ending_33b29867:
+translate russian emma_samantha_male_ending_15d6a174:
     emma.say "Ох... вот именно, Сэм."
 
 # ch/harems/friendly/events.rpy:1386
@@ -4009,7 +4009,7 @@ translate russian emma_samantha_male_ending_f9679dea:
     emma.say "Ох..."
 
 # ch/harems/friendly/events.rpy:1446
-translate russian emma_samantha_male_ending_22acecf6:
+translate russian emma_samantha_male_ending_4da234fe:
     emma.say "То есть ты считаешь, что нужно... держать его в чёрном теле, чтобы не терял интерес?"
 
 # ch/harems/friendly/events.rpy:1447

@@ -560,8 +560,8 @@ translate russian strings:
     old "{b}Fertility:{/b} [shown_fertility]%"
     new "{b}Фертильность:{/b} [shown_fertility]%"
 
-    old "Builds up when he teases her and leaves her wanting: a kiss, a grope, a day he saw her without a climax. Up to a quarter bar of it counts when she's asked for sex."
-    new "Растёт, когда он её дразнит и оставляет ни с чем: поцелуй, ласки, день, когда они виделись, но без оргазма. Когда её просят о сексе, засчитывается до четверти шкалы."
+    old "Builds up when he teases her and leaves her wanting: a kiss, a grope, a day he saw her without a climax. Half of it counts when she's asked for sex, up to half of what the act asks."
+    new "Растёт, когда он её дразнит и оставляет ни с чем: поцелуй, ласки, день, когда они виделись, но без оргазма. Когда её просят о сексе, засчитывается половина — но не больше половины того, что требует действие."
 
     old "The hornier she is, the faster her frustration builds up."
     new "Чем сильнее её возбуждение, тем быстрее растёт неудовлетворённость."

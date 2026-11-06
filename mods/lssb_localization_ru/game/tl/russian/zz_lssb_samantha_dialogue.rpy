@@ -109,7 +109,7 @@ translate russian samantha_greet_85b434ea:
     samantha.say "Добрый вечер, [lssb_samantha.hero_name()]."
 
 # ch/samantha/base.rpy:159
-translate russian samantha_greet_a93c62d4:
+translate russian samantha_greet_b840e4a4:
     samantha.say "Ой... мне нужна ежедневная порция витаминов — то есть твой член, [lssb_samantha.hero_name()]!"
 
 # ch/samantha/base.rpy:167
@@ -393,7 +393,7 @@ translate russian samantha_propose_male_1525e073:
     "Если скажет «да», я смогу надеяться, что она останется в моей жизни надолго."
 
 # ch/samantha/base.rpy:311
-translate russian samantha_propose_male_ea8e5bc1:
+translate russian samantha_propose_male_fdd4095c:
     "А если «нет»... что ж, хотя бы смогу двигаться дальше и со временем оставить это позади... наверное."
 
 # ch/samantha/base.rpy:313
@@ -425,7 +425,7 @@ translate russian samantha_propose_male_42a0c99d:
     "Я потираю затылок, изо всех сил стараясь выглядеть непринуждённо."
 
 # ch/samantha/base.rpy:322
-translate russian samantha_propose_male_644b8966:
+translate russian samantha_propose_male_84c48ce0:
     mike.say "Ну... да, пожалуй, можно сказать, что меня кое-что беспокоит."
 
 # ch/samantha/base.rpy:323
@@ -497,11 +497,11 @@ translate russian samantha_propose_male_49e01dfd:
     "Смотрю на неё снизу вверх и не помню, чтобы мне когда-нибудь было так страшно."
 
 # ch/samantha/base.rpy:341
-translate russian samantha_propose_male_e076f1f6:
+translate russian samantha_propose_male_7197e064:
     mike.say "Кексик... ты... ты выйдешь за меня?"
 
 # ch/samantha/base.rpy:343
-translate russian samantha_propose_male_91c4217f:
+translate russian samantha_propose_male_e3429309:
     mike.say "Сэм... ты... ты выйдешь за меня?"
 
 # ch/samantha/base.rpy:344
@@ -581,15 +581,15 @@ translate russian samantha_propose_male_d09e0ae9:
     "На мгновение я теряюсь. Чёрт бы её побрал!"
 
 # ch/samantha/base.rpy:371
-translate russian samantha_propose_male_80ff93d1:
+translate russian samantha_propose_male_ce600216:
     mike.say "Да, видимо, так. Я люблю тебя, Кексик... и хочу провести с тобой всю оставшуюся жизнь!"
 
 # ch/samantha/base.rpy:373
-translate russian samantha_propose_male_6511f22b:
+translate russian samantha_propose_male_5e02ff95:
     mike.say "Да, видимо, так. Я люблю тебя, Сэм... и хочу провести с тобой всю оставшуюся жизнь!"
 
 # ch/samantha/base.rpy:375
-translate russian samantha_propose_male_0a857d30:
+translate russian samantha_propose_male_1417e894:
     samantha.say "Что ж, возможно, я чувствую то же самое... но не так, по крайней мере, не прямо сейчас!"
 
 # ch/samantha/base.rpy:376
@@ -741,7 +741,7 @@ translate russian samantha_propose_male_78b487ee:
     samantha.say "Если ты правда меня любишь, разве я слишком многого прошу?"
 
 # ch/samantha/base.rpy:426
-translate russian samantha_propose_male_5b9a197f:
+translate russian samantha_propose_male_d7ee3986:
     samantha.say "Да... я выйду за тебя!"
 
 # ch/samantha/base.rpy:427
@@ -749,7 +749,7 @@ translate russian samantha_propose_male_0e8553c5:
     "Я теряю дар речи, обнимаю её и целую, прежде чем она успевает добавить хоть слово."
 
 # ch/samantha/base.rpy:428
-translate russian samantha_propose_male_38d77584:
+translate russian samantha_propose_male_ddf012ab:
     samantha.say "Эй-эй... подожди минутку!"
 
 # ch/samantha/base.rpy:429
@@ -813,7 +813,7 @@ translate russian samantha_propose_male_311d8f4f:
     "Сэм улыбается. В её глазах ещё есть грусть, но видно и радость, которую принесли мои слова."
 
 # ch/samantha/base.rpy:450
-translate russian samantha_propose_male_c6bb5c84:
+translate russian samantha_propose_male_d778ba35:
     samantha.say "Ты прав... ты прав."
 
 # ch/samantha/base.rpy:451
@@ -857,7 +857,7 @@ translate russian samantha_propose_male_4088420b:
     "Я печально киваю и надеюсь, что это ещё не конец наших отношений."
 
 # ch/samantha/base.rpy:466
-translate russian samantha_propose_male_6c920ac3:
+translate russian samantha_propose_male_31882e6a:
     samantha.say "Хм... не верится, что раньше я не замечала, что важно."
 
 # ch/samantha/base.rpy:467
@@ -1093,7 +1093,7 @@ translate russian samantha_propose_male_c80d3a18:
     samantha.say "И было бы удобно всё уладить до рождения малыша..."
 
 # ch/samantha/base.rpy:547
-translate russian samantha_propose_male_d7ecb718:
+translate russian samantha_propose_male_120c3878:
     samantha.say "Ладно... да... давай!"
 
 # ch/samantha/base.rpy:550
@@ -1165,7 +1165,7 @@ translate russian samantha_propose_male_9093a6b3:
     "Я опускаю глаза, явно разочарованный."
 
 # ch/samantha/base.rpy:568
-translate russian samantha_propose_male_700b05a1:
+translate russian samantha_propose_male_de3dce34:
     mike.say "А... ладно... если ты так чувствуешь."
 
 # ch/samantha/base.rpy:573
@@ -1209,7 +1209,7 @@ translate russian samantha_propose_male_58293842:
     "Я пожимаю плечами и удивлённо качаю головой."
 
 # ch/samantha/base.rpy:585
-translate russian samantha_propose_male_a4b424ee:
+translate russian samantha_propose_male_2eff2dac:
     mike.say "Это казалось естественным... Я просто хотел быть с тобой и оформить всё официально."
 
 # ch/samantha/base.rpy:586
@@ -1289,7 +1289,7 @@ translate russian samantha_propose_male_186be440:
     samantha.say "[lssb_samantha.hero_name()]... о чём ты?"
 
 # ch/samantha/base.rpy:614
-translate russian samantha_propose_male_38a2f29d:
+translate russian samantha_propose_male_b517d722:
     samantha.say "То есть... я очень ценю твою дружбу."
 
 # ch/samantha/base.rpy:615
@@ -1313,11 +1313,11 @@ translate russian samantha_propose_male_1134c94b:
     "К тому же она вполне может спросить, почему я позволил ей выйти за него, зная об изменах."
 
 # ch/samantha/base.rpy:621
-translate russian samantha_propose_male_13c026f7:
+translate russian samantha_propose_male_3f12fdf3:
     mike.say "Конечно, я знаю, Кексик... я был на вашей свадьбе."
 
 # ch/samantha/base.rpy:623
-translate russian samantha_propose_male_0e1f0797:
+translate russian samantha_propose_male_ba0ee5a5:
     mike.say "Конечно, я знаю, Сэм... я был на вашей свадьбе."
 
 # ch/samantha/base.rpy:624
@@ -1333,7 +1333,7 @@ translate russian samantha_propose_male_165dcd29:
     mike.say "Но мы снова сблизились, и забыть как-то не получилось."
 
 # ch/samantha/base.rpy:627
-translate russian samantha_propose_male_53690641:
+translate russian samantha_propose_male_09abdf3c:
     mike.say "Будто мы наверстываем упущенное... но я хочу большего."
 
 # ch/samantha/base.rpy:628
@@ -1381,15 +1381,15 @@ translate russian samantha_propose_male_5cd699e5:
     mike.say "Сэм, ты в порядке?"
 
 # ch/samantha/base.rpy:646
-translate russian samantha_propose_male_38163575:
+translate russian samantha_propose_male_df8f948b:
     samantha.say "Да-да... прихожу в себя!"
 
 # ch/samantha/base.rpy:647
-translate russian samantha_propose_male_f1f270a3:
+translate russian samantha_propose_male_2c1fc32f:
     mike.say "Прости... не стоило этого делать... глупо было думать..."
 
 # ch/samantha/base.rpy:648
-translate russian samantha_propose_male_b927b582:
+translate russian samantha_propose_male_8d53f434:
     samantha.say "Нет, не говори, что глупо... ты правда испытываешь ко мне такие сильные чувства?"
 
 # ch/samantha/base.rpy:649
@@ -1417,7 +1417,7 @@ translate russian samantha_propose_male_46b0fe81:
     mike.say "Сэм, я бы доверил тебе свою жизнь!"
 
 # ch/samantha/base.rpy:657
-translate russian samantha_propose_male_f1fc6fd8:
+translate russian samantha_propose_male_19a12cba:
     samantha.say "Тогда да... да, я выйду за тебя!"
 
 # ch/samantha/base.rpy:659
@@ -2705,7 +2705,7 @@ translate russian samantha_love_0_male_8ac7e44e:
     mike.say "Не поверишь, что со мной на днях случилось на работе."
 
 # ch/samantha/chat.rpy:521
-translate russian samantha_love_0_male_1ac6f336:
+translate russian samantha_love_0_male_1abcca77:
     samantha.say "Правда? Что же?"
 
 # ch/samantha/chat.rpy:522
@@ -2765,7 +2765,7 @@ translate russian samantha_love_0_male_04445ba2:
     "Когда понимает, что его не будет, лицо быстро принимает сочувственное выражение."
 
 # ch/samantha/chat.rpy:536
-translate russian samantha_love_0_male_c5b7652d:
+translate russian samantha_love_0_male_bf6cabdb:
     samantha.say "О... о нет..."
 
 # ch/samantha/chat.rpy:537
@@ -2801,11 +2801,11 @@ translate russian samantha_love_0_male_e6e807df:
     "Сэм хмурится и качает головой, пожалуй, слишком уж энергично."
 
 # ch/samantha/chat.rpy:545
-translate russian samantha_love_0_male_3009b5da:
+translate russian samantha_love_0_male_2bf3dca4:
     samantha.say "Нет... нет..."
 
 # ch/samantha/chat.rpy:546
-translate russian samantha_love_0_male_c59947c2:
+translate russian samantha_love_0_male_0cf6570b:
     samantha.say "По крайней мере... уже нет..."
 
 # ch/samantha/chat.rpy:547
@@ -2841,15 +2841,15 @@ translate russian samantha_love_0_male_59b13e83:
     samantha.say "Он довольно быстро меня разубедил."
 
 # ch/samantha/chat.rpy:555
-translate russian samantha_love_0_male_104aee06:
+translate russian samantha_love_0_male_89522bff:
     samantha.say "Теперь я тебя и представить не могу в коротеньких шортиках... честно."
 
 # ch/samantha/chat.rpy:556
-translate russian samantha_love_0_male_17ca9494:
+translate russian samantha_love_0_male_d2ea9eb6:
     mike.say "Но... но... какого чёрта?!"
 
 # ch/samantha/chat.rpy:557
-translate russian samantha_love_0_male_1e216f6a:
+translate russian samantha_love_0_male_cba82562:
     samantha.say "Просто... ты следишь за собой лучше большинства парней, [lssb_samantha.hero_name()]."
 
 # ch/samantha/chat.rpy:558
@@ -2873,7 +2873,7 @@ translate russian samantha_love_0_male_4dda1c6b:
     mike.say "Что..."
 
 # ch/samantha/chat.rpy:563
-translate russian samantha_love_0_male_b8472024:
+translate russian samantha_love_0_male_a3e88441:
     mike.say "Э-э, нет... кажется, нет."
 
 # ch/samantha/chat.rpy:564
@@ -3333,7 +3333,7 @@ translate russian samantha_good_sweet_talk_male_7d7a24e5:
     mike.say "Не знаю, что бы делал без такой подруги."
 
 # ch/samantha/chat.rpy:772
-translate russian samantha_good_sweet_talk_male_30d6bc21:
+translate russian samantha_good_sweet_talk_male_84e4b3a6:
     samantha.say "О-о... как мило!"
 
 # ch/samantha/chat.rpy:773
@@ -3353,7 +3353,7 @@ translate russian samantha_bad_sweet_talk_male_1535b763:
     mike.say "Когда ты была прямо у меня под носом!"
 
 # ch/samantha/chat.rpy:785
-translate russian samantha_bad_sweet_talk_male_d5e35cfa:
+translate russian samantha_bad_sweet_talk_male_0ae616fc:
     samantha.say "Ого... звучит так, будто меня можно было просто взять!"
 
 # ch/samantha/chat.rpy:786
@@ -3361,11 +3361,11 @@ translate russian samantha_bad_sweet_talk_male_d0f04823:
     samantha.say "Будто ты стоял в очереди, чтобы на мне прокатиться!"
 
 # ch/samantha/chat.rpy:788
-translate russian samantha_bad_sweet_talk_male_3a4b3def:
+translate russian samantha_bad_sweet_talk_male_8b3c6dc8:
     mike.say "Э-э, нет... я не это имел в виду, Кексик!"
 
 # ch/samantha/chat.rpy:790
-translate russian samantha_bad_sweet_talk_male_dbe6f131:
+translate russian samantha_bad_sweet_talk_male_11697723:
     mike.say "Э-э, нет... я не это имел в виду, Сэм!"
 
 # ch/samantha/condom.rpy:4
@@ -3845,7 +3845,7 @@ translate russian samantha_mad_condom_e7cd6ca3:
     samantha.say "Я всего лишь прошу надеть презерватив."
 
 # ch/samantha/condom.rpy:176
-translate russian samantha_mad_condom_800a8ffb:
+translate russian samantha_mad_condom_4da69b99:
     samantha.say "Боже... иногда ты такой придурок!"
 
 # ch/samantha/condom.rpy:177
@@ -3921,7 +3921,7 @@ translate russian samantha_mad_condom_ceab97d1:
     "С этими словами она слезает с кровати и начинает одеваться."
 
 # ch/samantha/condom.rpy:200
-translate russian samantha_mad_condom_ab20ca2f:
+translate russian samantha_mad_condom_7db1a6f6:
     mike.say "Сэм... ты что..."
 
 # ch/samantha/condom.rpy:201
@@ -3965,7 +3965,7 @@ translate russian samantha_mad_condom_85153044:
     mike.say "Сэм, подожди..."
 
 # ch/samantha/condom.rpy:212
-translate russian samantha_mad_condom_2b3887fe:
+translate russian samantha_mad_condom_fa729578:
     mike.say "Я... мне кажется, ты слишком остро реагируешь!"
 
 # ch/samantha/condom.rpy:213
@@ -4125,11 +4125,11 @@ translate russian samantha_date_intro_birthday_male_575ab39b:
     samantha.say "Раньше ты никогда не вспоминал."
 
 # ch/samantha/date.rpy:50
-translate russian samantha_date_intro_birthday_male_e35dc4c7:
+translate russian samantha_date_intro_birthday_male_5c87d885:
     mike.say "Ну, Кексик... раньше мы не встречались!"
 
 # ch/samantha/date.rpy:52
-translate russian samantha_date_intro_birthday_male_38cd148b:
+translate russian samantha_date_intro_birthday_male_827c39b9:
     mike.say "Ну, Сэм... раньше мы не встречались!"
 
 # ch/samantha/date.rpy:53
@@ -4180,10 +4180,6 @@ translate russian samantha_date_eat_a_burger_39c31adf:
 translate russian samantha_date_eat_a_burger_3a59a453:
     "Не дожидаясь приглашения, тут же начинает его уплетать."
 
-# ch/samantha/date.rpy:73
-translate russian samantha_date_eat_a_burger_b048b144:
-    "Её довольные звуки пробуждают и во мне какой-то необычный голод."
-
 # ch/samantha/date.rpy:80
 translate russian samantha_date_buy_drink_c079ab43:
     samantha.say "Повзрослей, [lssb_samantha.hero_name()]!"
@@ -4199,10 +4195,6 @@ translate russian samantha_date_buy_drink_a6ec2553:
 # ch/samantha/date.rpy:87
 translate russian samantha_date_buy_drink_f667f069:
     "Сэм пьёт через соломинку, явно наслаждаясь напитком."
-
-# ch/samantha/date.rpy:88
-translate russian samantha_date_buy_drink_7871f732:
-    "Каким-то образом даже потягивание алкоголя у неё выглядит очень, очень соблазнительно."
 
 # ch/samantha/date.rpy:89
 translate russian samantha_date_buy_drink_9cefb461:
@@ -4341,7 +4333,7 @@ translate russian samantha_date_play_arcade_intro_male_c9d7a750:
     mike.say "Для каждого найдётся своя видеоигра."
 
 # ch/samantha/date.rpy:156
-translate russian samantha_date_play_arcade_intro_male_149a1c6d:
+translate russian samantha_date_play_arcade_intro_male_a0d6eca3:
     mike.say "Например... как насчёт этой?"
 
 # ch/samantha/date.rpy:157
@@ -4401,7 +4393,7 @@ translate russian samantha_date_play_arcade_win_male_42115ece:
     samantha.say "Какая быстрая игра!"
 
 # ch/samantha/date.rpy:176
-translate russian samantha_date_play_arcade_win_male_02a6498c:
+translate russian samantha_date_play_arcade_win_male_3b4d7fdd:
     samantha.say "Я... я не успеваю!"
 
 # ch/samantha/date.rpy:178
@@ -4433,7 +4425,7 @@ translate russian samantha_date_play_arcade_win_male_29c196e3:
     "Когда оплаченные попытки заканчиваются, менять что-либо уже поздно."
 
 # ch/samantha/date.rpy:186
-translate russian samantha_date_play_arcade_win_male_4a6fe498:
+translate russian samantha_date_play_arcade_win_male_aae9cc71:
     samantha.say "Нет... кажется, это не то, [lssb_samantha.hero_name()]."
 
 # ch/samantha/date.rpy:187
@@ -4589,7 +4581,7 @@ translate russian samantha_dick_reactions_3fe387af:
     samantha.say "Ради такого стоило ждать!"
 
 # ch/samantha/date.rpy:243
-translate russian samantha_dick_reactions_845ae872:
+translate russian samantha_dick_reactions_4f4e99b7:
     mike.say "Т... ты серьёзно?!"
 
 # ch/samantha/date.rpy:244
@@ -4601,15 +4593,15 @@ translate russian samantha_dick_reactions_0ab37930:
     samantha.say "Всегда было интересно, какой такой великан на вкус!"
 
 # ch/samantha/date.rpy:251
-translate russian samantha_dick_reactions_c00c19f1:
+translate russian samantha_dick_reactions_11f56fc3:
     samantha.say "О... ну что ж..."
 
 # ch/samantha/date.rpy:253
-translate russian samantha_dick_reactions_16d7d070:
+translate russian samantha_dick_reactions_6b850780:
     mike.say "Ч... что такое, Кексик?"
 
 # ch/samantha/date.rpy:255
-translate russian samantha_dick_reactions_60b94982:
+translate russian samantha_dick_reactions_65d3e593:
     mike.say "Ч... что такое, Сэм?"
 
 # ch/samantha/date.rpy:256
@@ -4621,7 +4613,7 @@ translate russian samantha_dick_reactions_dd2e6b10:
     samantha.say "Ох, [lssb_samantha.hero_name()], всё равно больше, чем у Райана!"
 
 # ch/samantha/date.rpy:259
-translate russian samantha_dick_reactions_9e750262:
+translate russian samantha_dick_reactions_6dff7c54:
     mike.say "Ладно... может, всё не так уж плохо!"
 
 # ch/samantha/date.rpy:266
@@ -4853,11 +4845,11 @@ translate russian samantha_peeping_reactions_male_80634351:
     "Может, лучше попробовать выкрутиться словами?"
 
 # ch/samantha/date.rpy:335
-translate russian samantha_peeping_reactions_male_99f8a6bd:
+translate russian samantha_peeping_reactions_male_a9eda9e7:
     mike.say "Э-э... привет, Кексик."
 
 # ch/samantha/date.rpy:337
-translate russian samantha_peeping_reactions_male_4f7084c6:
+translate russian samantha_peeping_reactions_male_e2facd8d:
     mike.say "Э-э... привет, Сэм."
 
 # ch/samantha/date.rpy:338
@@ -4937,7 +4929,7 @@ translate russian samantha_halloween_invitation_52bb8d79:
     "Сэм качает головой."
 
 # ch/samantha/date.rpy:366
-translate russian samantha_halloween_invitation_7c81de64:
+translate russian samantha_halloween_invitation_b455c3f3:
     samantha.say "Э-э... да, вроде бы."
 
 # ch/samantha/date.rpy:367
@@ -4949,7 +4941,7 @@ translate russian samantha_halloween_invitation_6ba87b0d:
     mike.say "У меня дома будет вечеринка на Хэллоуин."
 
 # ch/samantha/date.rpy:369
-translate russian samantha_halloween_invitation_885745fb:
+translate russian samantha_halloween_invitation_db0b2126:
     mike.say "Ну... в доме, где ты тоже раньше жила!"
 
 # ch/samantha/date.rpy:371
@@ -4993,7 +4985,7 @@ translate russian samantha_halloween_invitation_e7458dd3:
     mike.say "И я хотел спросить, не хочешь ли ты прийти?"
 
 # ch/samantha/date.rpy:383
-translate russian samantha_halloween_invitation_f38d0c55:
+translate russian samantha_halloween_invitation_d1c4cd49:
     mike.say "Ну... пойдёшь со мной, как на свидание?"
 
 # ch/samantha/date.rpy:386
@@ -5037,11 +5029,11 @@ translate russian samantha_halloween_invitation_5e199c2a:
     samantha.say "Мы же все здесь вместе жили."
 
 # ch/samantha/date.rpy:398
-translate russian samantha_halloween_invitation_93d4c0b7:
+translate russian samantha_halloween_invitation_aa564ac2:
     samantha.say "Есть... есть какая-то проблема, если он придёт?"
 
 # ch/samantha/date.rpy:399
-translate russian samantha_halloween_invitation_957d5a39:
+translate russian samantha_halloween_invitation_9567a302:
     mike.say "НЕТ... нет..."
 
 # ch/samantha/date.rpy:401
@@ -5077,7 +5069,7 @@ translate russian samantha_halloween_invitation_b09cb62a:
     samantha.say "Значит, нам с Райаном нужно придумать, что надеть!"
 
 # ch/samantha/date.rpy:412
-translate russian samantha_halloween_invitation_b1f828c9:
+translate russian samantha_halloween_invitation_113146cc:
     "Ура... не терпится увидеть, что он выдумает."
 
 # ch/samantha/date.rpy:413
@@ -5313,11 +5305,11 @@ translate russian samantha_halloween_arrival_30e74fc5:
     mike.say "Эм..."
 
 # ch/samantha/date.rpy:503
-translate russian samantha_halloween_arrival_890e8dab:
+translate russian samantha_halloween_arrival_4a8c4129:
     mike.say "Привет, Райан... Кексик."
 
 # ch/samantha/date.rpy:505
-translate russian samantha_halloween_arrival_5a42b628:
+translate russian samantha_halloween_arrival_622baa0a:
     mike.say "Привет, Райан... Сэм."
 
 # ch/samantha/date.rpy:506
@@ -5625,11 +5617,11 @@ translate russian samantha_halloween_arrival_832801bc:
     "Поэтому решаю сказать прямо."
 
 # ch/samantha/date.rpy:619
-translate russian samantha_halloween_arrival_b7f0e9e6:
+translate russian samantha_halloween_arrival_b378a1b8:
     mike.say "Я... наверное, просто ревную, Кексик."
 
 # ch/samantha/date.rpy:621
-translate russian samantha_halloween_arrival_7312efb1:
+translate russian samantha_halloween_arrival_d470e259:
     mike.say "Я... наверное, просто ревную, Сэм."
 
 # ch/samantha/date.rpy:622
@@ -5845,11 +5837,11 @@ translate russian samantha_halloween_arrival_832801bc_1:
     "Поэтому решаю сказать прямо."
 
 # ch/samantha/date.rpy:702
-translate russian samantha_halloween_arrival_b7f0e9e6_1:
+translate russian samantha_halloween_arrival_b378a1b8_1:
     mike.say "Я... наверное, просто ревную, Кексик."
 
 # ch/samantha/date.rpy:704
-translate russian samantha_halloween_arrival_7312efb1_1:
+translate russian samantha_halloween_arrival_d470e259_1:
     mike.say "Я... наверное, просто ревную, Сэм."
 
 # ch/samantha/date.rpy:705
@@ -6245,7 +6237,7 @@ translate russian samantha_halloween_dance_80d7bda4:
     mike.say "Я тут услышал, что произошло."
 
 # ch/samantha/date.rpy:864
-translate russian samantha_halloween_dance_d058b8d6:
+translate russian samantha_halloween_dance_53444f76:
     mike.say "И... ну..."
 
 # ch/samantha/date.rpy:865
@@ -6381,7 +6373,7 @@ translate russian samantha_halloween_dance_c633af0c_1:
     mike.say "Ты в порядке?"
 
 # ch/samantha/date.rpy:914
-translate russian samantha_halloween_dance_2d8aff8a:
+translate russian samantha_halloween_dance_41fba834:
     samantha.say "Что... а..."
 
 # ch/samantha/date.rpy:916
@@ -6493,7 +6485,7 @@ translate russian samantha_halloween_dance_13c124eb:
     "Она выглядит грустной, почти разочарованной."
 
 # ch/samantha/date.rpy:958
-translate russian samantha_halloween_dance_04efaf3a:
+translate russian samantha_halloween_dance_0360e12e:
     samantha.say "Ага... ага..."
 
 # ch/samantha/date.rpy:959
@@ -6605,11 +6597,11 @@ translate russian samantha_halloween_sex_7d9ff55d:
     samantha.say "Помнишь?"
 
 # ch/samantha/date.rpy:1004
-translate russian samantha_halloween_sex_1ccd817c:
+translate russian samantha_halloween_sex_48acf2c2:
     mike.say "Ну... да, Кексик."
 
 # ch/samantha/date.rpy:1006
-translate russian samantha_halloween_sex_9b9b4f59:
+translate russian samantha_halloween_sex_ec3bc25c:
     mike.say "Ну... да, Сэм."
 
 # ch/samantha/date.rpy:1007
@@ -6681,11 +6673,11 @@ translate russian samantha_halloween_sex_cc7d4fd5:
     "Пока она говорит, замечаю, что Сэм подходит всё ближе."
 
 # ch/samantha/date.rpy:1030
-translate russian samantha_halloween_sex_4fd1b34a:
+translate russian samantha_halloween_sex_5eaa83ee:
     mike.say "Я... я просто стараюсь быть хорошим другом, Кексик!"
 
 # ch/samantha/date.rpy:1032
-translate russian samantha_halloween_sex_bfecf914:
+translate russian samantha_halloween_sex_cb0ceab0:
     mike.say "Я... я просто стараюсь быть хорошим другом, Сэм!"
 
 # ch/samantha/date.rpy:1033
@@ -6849,15 +6841,15 @@ translate russian samantha_halloween_sex_93789bb5:
     "И в нужный момент я изливаюсь в неё."
 
 # ch/samantha/date.rpy:1151
-translate russian samantha_halloween_sex_c617541c:
+translate russian samantha_halloween_sex_6ff451f6:
     samantha.say "О... боже..."
 
 # ch/samantha/date.rpy:1153
-translate russian samantha_halloween_sex_7e7c9b9e:
+translate russian samantha_halloween_sex_2faf40fc:
     samantha.say "Как... же... хорошо..."
 
 # ch/samantha/date.rpy:1154
-translate russian samantha_halloween_sex_f203cbea:
+translate russian samantha_halloween_sex_09a501b3:
     samantha.say "Спасибо... спасибо!"
 
 # ch/samantha/date.rpy:1155
@@ -6965,7 +6957,7 @@ translate russian samantha_halloween_sex_5b52563a:
     samantha.say "Раньше это была моя комната."
 
 # ch/samantha/date.rpy:1198
-translate russian samantha_halloween_sex_1b230a2b:
+translate russian samantha_halloween_sex_14ad3522:
     samantha.say "Ну... наша с Райаном."
 
 # ch/samantha/date.rpy:1199
@@ -7029,7 +7021,7 @@ translate russian samantha_halloween_sex_466c8e6f:
     samantha.say "Никого нет."
 
 # ch/samantha/date.rpy:1222
-translate russian samantha_halloween_sex_c4f1da71:
+translate russian samantha_halloween_sex_7ed3a23d:
     samantha.say "О-о... ты только посмотри."
 
 # ch/samantha/date.rpy:1223
@@ -7573,7 +7565,7 @@ translate russian samantha_preg_talk_ryan_08c70309:
     samantha.say "Кого покрывать, [lssb_samantha.hero_name()]?"
 
 # ch/samantha/events.rpy:1176
-translate russian samantha_preg_talk_ryan_510f3e34:
+translate russian samantha_preg_talk_ryan_ec3d6356:
     samantha.say "Ч... что ты имеешь в виду?"
 
 # ch/samantha/events.rpy:1178
@@ -7597,7 +7589,7 @@ translate russian samantha_preg_talk_ryan_2dab1829:
     "Будто одним этим движением может опровергнуть мои слова."
 
 # ch/samantha/events.rpy:1185
-translate russian samantha_preg_talk_ryan_441f6f55:
+translate russian samantha_preg_talk_ryan_807f8a11:
     samantha.say "Он... он бы так со мной не поступил!"
 
 # ch/samantha/events.rpy:1186
@@ -7637,7 +7629,7 @@ translate russian samantha_preg_talk_ryan_77900329:
     mike.say "И, наверное, в твоём ребёнке тоже."
 
 # ch/samantha/events.rpy:1198
-translate russian samantha_preg_talk_ryan_8eae14bc:
+translate russian samantha_preg_talk_ryan_d99d5947:
     samantha.say "Но... почему ты говоришь сейчас, [lssb_samantha.hero_name()]?"
 
 # ch/samantha/events.rpy:1200
@@ -7724,22 +7716,6 @@ translate russian samantha_preg_talk_bca4c60f:
 translate russian samantha_preg_talk_39c92f78:
     "Отступив на шаг, указываю на коробку в её руках."
 
-# ch/samantha/events.rpy:1242
-translate russian samantha_preg_talk_7465ce16:
-    "Моё внимание привлекает стук в дверь."
-
-# ch/samantha/events.rpy:1244
-translate russian samantha_preg_talk_00df1b82:
-    "Хочется его проигнорировать, и несколько долгих секунд я не двигаюсь. Но стук продолжается."
-
-# ch/samantha/events.rpy:1245
-translate russian samantha_preg_talk_fc7d8b69:
-    mike.say "Иду, иду."
-
-# ch/samantha/events.rpy:1250
-translate russian samantha_preg_talk_e930c2e6:
-    "Неохотно поднимаюсь с дивана и иду к двери. Поворачиваю покрашенный золотой краской замок — и оказываюсь лицом к лицу с Самантой."
-
 # ch/samantha/events.rpy:1252
 translate russian samantha_preg_talk_2c6406d7:
     mike.say "Кексик?"
@@ -7747,10 +7723,6 @@ translate russian samantha_preg_talk_2c6406d7:
 # ch/samantha/events.rpy:1254
 translate russian samantha_preg_talk_13a94265:
     mike.say "Сэм?"
-
-# ch/samantha/events.rpy:1255
-translate russian samantha_preg_talk_462fd55d:
-    "Она стоит на крыльце с мягким взглядом и маленькой белой коробкой с логотипом пекарни."
 
 # ch/samantha/events.rpy:1256
 translate russian samantha_preg_talk_6b953e16:
@@ -7763,14 +7735,6 @@ translate russian samantha_preg_talk_e406223e:
 # ch/samantha/events.rpy:1258
 translate russian samantha_preg_talk_1ad67ab5:
     "Она уже знает, что я отвечу."
-
-# ch/samantha/events.rpy:1259
-translate russian samantha_preg_talk_f16acf3e:
-    mike.say "Да, конечно. Заходи."
-
-# ch/samantha/events.rpy:1260
-translate russian samantha_preg_talk_127a3eda:
-    "Отступаю и шире открываю дверь. Она входит, слегка нервничая и крепче прижимая коробку."
 
 # ch/samantha/events.rpy:1264
 translate russian samantha_preg_talk_7d540191:
@@ -7791,10 +7755,6 @@ translate russian samantha_preg_talk_3624762d:
 # ch/samantha/events.rpy:1270
 translate russian samantha_preg_talk_c2329294:
     "Сэм суёт мне коробку и быстро проходит мимо."
-
-# ch/samantha/events.rpy:1272
-translate russian samantha_preg_talk_7910a84b:
-    "Едва я закрываю дверь, Сэм суёт мне коробку. Я неловко её подхватываю."
 
 # ch/samantha/events.rpy:1273
 translate russian samantha_preg_talk_9b9ef87c:
@@ -8045,7 +8005,7 @@ translate russian samantha_wedding_baby_b450164f:
     "Ему мало того, что девушка досталась ему, а измены сходят с рук?"
 
 # ch/samantha/events.rpy:1376
-translate russian samantha_wedding_baby_5a89422b:
+translate russian samantha_wedding_baby_63803d0b:
     "Хотя... Сэм тоже изменяет ему со мной."
 
 # ch/samantha/events.rpy:1377
@@ -8153,11 +8113,11 @@ translate russian samantha_wedding_baby_adbf2938:
     mike.say "Конечно говорили, Сэм!"
 
 # ch/samantha/events.rpy:1411
-translate russian samantha_wedding_baby_409d6960:
+translate russian samantha_wedding_baby_8dd72dea:
     mike.say "У... у меня сейчас просто голова забита другим."
 
 # ch/samantha/events.rpy:1412
-translate russian samantha_wedding_baby_bd2b2256:
+translate russian samantha_wedding_baby_ff59d06c:
     mike.say "Поздравляю... вас обоих!"
 
 # ch/samantha/events.rpy:1414
@@ -8229,11 +8189,11 @@ translate russian samantha_wedding_baby_c633af0c:
     mike.say "Ты в порядке?"
 
 # ch/samantha/events.rpy:1442
-translate russian samantha_wedding_baby_027f1cd1:
+translate russian samantha_wedding_baby_a1a3fd50:
     samantha.say "Я... всё будет хорошо, [lssb_samantha.hero_name()]."
 
 # ch/samantha/events.rpy:1443
-translate russian samantha_wedding_baby_4b9e835f:
+translate russian samantha_wedding_baby_cbf73c92:
     samantha.say "Просто привыкаю быть мамой... вот и всё!"
 
 # ch/samantha/events.rpy:1446
@@ -8377,7 +8337,7 @@ translate russian samantha_booty_call_249ca88e:
     "Будто мне нужно ещё какое-то поощрение!"
 
 # ch/samantha/events.rpy:1503
-translate russian samantha_booty_call_cfb250a4:
+translate russian samantha_booty_call_06a51141:
     mike.say "Х... хорошо, я никуда не уйду!"
 
 # ch/samantha/events.rpy:1504
@@ -8509,11 +8469,11 @@ translate russian samantha_booty_call_b0d98026:
     "Наконец удаётся выдавить несколько слов."
 
 # ch/samantha/events.rpy:1550
-translate russian samantha_booty_call_231a3b75:
+translate russian samantha_booty_call_4a930ce2:
     mike.say "Нет, Кексик... не могу."
 
 # ch/samantha/events.rpy:1552
-translate russian samantha_booty_call_4a1b9b21:
+translate russian samantha_booty_call_ae380649:
     mike.say "Нет, Сэм... не могу."
 
 # ch/samantha/events.rpy:1554
@@ -8541,11 +8501,11 @@ translate russian samantha_booty_call_9e8230e4:
     "Соврать я точно не могу!"
 
 # ch/samantha/events.rpy:1562
-translate russian samantha_booty_call_fa535aa1:
+translate russian samantha_booty_call_8cf93ab5:
     mike.say "Д... да, Кексик."
 
 # ch/samantha/events.rpy:1564
-translate russian samantha_booty_call_56f02f01:
+translate russian samantha_booty_call_e2642368:
     mike.say "Д... да, Сэм."
 
 # ch/samantha/events.rpy:1565
@@ -8613,7 +8573,7 @@ translate russian samantha_booty_call_37c4d558:
     samantha.say "Хочу почувствовать себя грязной маленькой шлюхой, а не чистой и непорочной невестой!"
 
 # ch/samantha/events.rpy:1590
-translate russian samantha_booty_call_a0e1aa48:
+translate russian samantha_booty_call_b68eca4b:
     mike.say "О... хорошо, Сэм... как скажешь."
 
 # ch/samantha/events.rpy:1592
@@ -8817,7 +8777,7 @@ translate russian samantha_booty_call_087aecc4:
     "Встав на колени сзади, хватаю её за талию и притягиваю, прижимаясь к ягодицам."
 
 # ch/samantha/events.rpy:1667
-translate russian samantha_booty_call_c38828dc:
+translate russian samantha_booty_call_0f6ab81b:
     mike.say "Ого... видела бы ты сейчас свою киску."
 
 # ch/samantha/events.rpy:1668
@@ -9113,7 +9073,7 @@ translate russian sam_murder_talk_sasha_30e7d6d1:
     "Может, она ожидала разговора только обо мне, а не о нас обоих."
 
 # ch/samantha/events.rpy:1788
-translate russian sam_murder_talk_sasha_63199117:
+translate russian sam_murder_talk_sasha_7e2dd427:
     samantha.say "Я... я в порядке, [lssb_samantha.hero_name()]."
 
 # ch/samantha/events.rpy:1789
@@ -9129,7 +9089,7 @@ translate russian sam_murder_talk_sasha_cb4bf4b1:
     mike.say "Сумасшедшая девушка, с которой я был связан?"
 
 # ch/samantha/events.rpy:1793
-translate russian sam_murder_talk_sasha_0973f9a1:
+translate russian sam_murder_talk_sasha_ab050f4d:
     samantha.say "Я... я не это имела в виду, [lssb_samantha.hero_name()]."
 
 # ch/samantha/events.rpy:1795
@@ -9149,7 +9109,7 @@ translate russian sam_murder_talk_sasha_fb3e230e:
     samantha.say "Да брось, [lssb_samantha.hero_name()], ты же не можешь так думать?!"
 
 # ch/samantha/events.rpy:1800
-translate russian sam_murder_talk_sasha_d2af7ad4:
+translate russian sam_murder_talk_sasha_e39b2d6e:
     samantha.say "Я думала, что это... что это может быть моя вина!"
 
 # ch/samantha/events.rpy:1802
@@ -9349,7 +9309,7 @@ translate russian sam_murder_talk_bree_1ccab2e1:
     mike.say "Хм..."
 
 # ch/samantha/events.rpy:1865
-translate russian sam_murder_talk_bree_d40a66e9:
+translate russian sam_murder_talk_bree_0005e7ee:
     mike.say "Ч... что?"
 
 # ch/samantha/events.rpy:1866
@@ -9609,7 +9569,7 @@ translate russian samantha_waterpark_comment_a01716ad:
     samantha.say "Ты как будто на минуту отключился."
 
 # ch/samantha/events.rpy:1951
-translate russian samantha_waterpark_comment_06bedc8f:
+translate russian samantha_waterpark_comment_d9e5389a:
     mike.say "А?.. Ой, нет... Всё нормально."
 
 # ch/samantha/events.rpy:1952
@@ -9625,7 +9585,7 @@ translate russian samantha_waterpark_comment_3f8ed439:
     samantha.say "Что именно нам нужно?"
 
 # ch/samantha/events.rpy:1957
-translate russian samantha_waterpark_comment_3a80b4da:
+translate russian samantha_waterpark_comment_38b7e3bb:
     mike.say "Сходить в аквапарк... Нам обязательно нужно сходить в тот аквапарк, о котором ты говорила."
 
 # ch/samantha/events.rpy:1958
@@ -9805,7 +9765,7 @@ translate russian samantha_male_ending_f8703cde:
     "Я всё ещё любуюсь приближающейся Сэм, когда она подходит ко мне у алтаря и с улыбкой качает головой."
 
 # ch/samantha/events.rpy:2026
-translate russian samantha_male_ending_521f2279:
+translate russian samantha_male_ending_bb74389f:
     "Священник" "Кхм... Начнём?"
 
 # ch/samantha/events.rpy:2028
@@ -9881,11 +9841,11 @@ translate russian samantha_male_ending_cab29fcc:
     "Священник" "Ах..."
 
 # ch/samantha/events.rpy:2053
-translate russian samantha_male_ending_09d6c9d5:
+translate russian samantha_male_ending_1ad1217c:
     "Священник" "Я... э-э..."
 
 # ch/samantha/events.rpy:2054
-translate russian samantha_male_ending_b9f1484c:
+translate russian samantha_male_ending_48561065:
     "Священник" "Что ж... Настало время Саманте совершить... необычный жест."
 
 # ch/samantha/events.rpy:2055
@@ -9937,7 +9897,7 @@ translate russian samantha_male_ending_7c760fc9:
     "А я?"
 
 # ch/samantha/events.rpy:2074
-translate russian samantha_male_ending_a8cdc2b0:
+translate russian samantha_male_ending_4f512e6f:
     "Ну... Признаюсь, сердце у меня сейчас просто выскакивает из груди!"
 
 # ch/samantha/events.rpy:2075
@@ -10185,7 +10145,7 @@ translate russian samantha_male_ending_c38768d9:
     samantha.say "И когда он предложил мне выйти за него, я решила, что это доказательство правильности моего выбора."
 
 # ch/samantha/events.rpy:2156
-translate russian samantha_male_ending_c39cf221:
+translate russian samantha_male_ending_03412b93:
     samantha.say "Оказалось, я ошибалась... В некотором смысле."
 
 # ch/samantha/events.rpy:2157
@@ -10904,10 +10864,6 @@ translate russian samantha_meet_bree_bda787cf:
 translate russian samantha_meet_bree_65adca7e:
     samantha.say "Почему бы и нет? Может быть интересно..."
 
-# ch/samantha/events.rpy:2459
-translate russian samantha_meet_bree_9db51a26:
-    mike.say "Эй, [bree.name], это Саманта, моя бывшая соседка."
-
 # ch/samantha/events.rpy:2461
 translate russian samantha_meet_bree_dc005b40:
     samantha.say "Приятно познакомиться."
@@ -11087,10 +11043,6 @@ translate russian samantha_move_in_fc7d8b69:
 # ch/samantha/events.rpy:2563
 translate russian samantha_move_in_bcc8130e:
     "Мы медленно заносим стол вдвоём и ставим в квартире. Саманта облегчённо вздыхает."
-
-# ch/samantha/events.rpy:2573
-translate russian samantha_event_02_00a00dc3:
-    "Войдя через стеклянные двери пекарни, я сразу вижу, сколько здесь народу."
 
 # ch/samantha/events.rpy:2574
 translate russian samantha_event_02_fc6f443d:
@@ -11543,14 +11495,6 @@ translate russian samantha_event_02_a0ec0aa3:
 # ch/samantha/events.rpy:2774
 translate russian samantha_event_02_23a3b2cf:
     "Не сказав больше ни слова, она провожает меня до двери. Я даже не успеваю попрощаться, как та уже захлопывается за спиной."
-
-# ch/samantha/events.rpy:2785
-translate russian samantha_event_03_ddf4c823:
-    "Войдя в парк, я оглядываюсь. Тут и там отдыхают компании людей."
-
-# ch/samantha/events.rpy:2787
-translate russian samantha_event_03_32a39de7:
-    "Вдруг я замечаю Саманту: она сидит одна за столиком под деревом."
 
 # ch/samantha/events.rpy:2788
 translate russian samantha_event_03_e0dbb81d:
@@ -12449,7 +12393,7 @@ translate russian samantha_event_05_a4eec36e:
     samantha.say "Это неправда."
 
 # ch/samantha/events.rpy:3112
-translate russian samantha_event_05_1036db79:
+translate russian samantha_event_05_36cf413a:
     samantha.say "Я... не понимаю."
 
 # ch/samantha/events.rpy:3114
@@ -13157,7 +13101,7 @@ translate russian samantha_event_A01_ec4150dc:
     mike.say "Какого..."
 
 # ch/samantha/events.rpy:3403
-translate russian samantha_event_A01_e7849ea8:
+translate russian samantha_event_A01_1a4b019b:
     mike.say "Ох... Ох, бля!"
 
 # ch/samantha/events.rpy:3405
@@ -13249,7 +13193,7 @@ translate russian samantha_event_A01_437a01ea:
     mike.say "Ох, чёрт..."
 
 # ch/samantha/events.rpy:3443
-translate russian samantha_event_A01_7b9cf58c:
+translate russian samantha_event_A01_e8465126:
     mike.say "Я... Я сейчас кончу!"
 
 # ch/samantha/events.rpy:3444
@@ -14197,15 +14141,15 @@ translate russian samantha_event_A03_ab51ea53:
     "Вместо этого подавляю бессмысленную панику и киваю, предлагая продолжать."
 
 # ch/samantha/events.rpy:3821
-translate russian samantha_event_A03_1ddfb4cc:
+translate russian samantha_event_A03_cf15a526:
     mike.say "А... Ладно, Кексик."
 
 # ch/samantha/events.rpy:3823
-translate russian samantha_event_A03_b9cc61e5:
+translate russian samantha_event_A03_98e32935:
     mike.say "А... Ладно, Сэм."
 
 # ch/samantha/events.rpy:3824
-translate russian samantha_event_A03_6eda8d4f:
+translate russian samantha_event_A03_d34aa1c9:
     mike.say "Звучит... довольно драматично!"
 
 # ch/samantha/events.rpy:3825
@@ -14333,11 +14277,11 @@ translate russian samantha_event_A03_a61c310e:
     "От этих слов мои брови взлетают вверх. Внезапный интерес скрыть не удаётся."
 
 # ch/samantha/events.rpy:3864
-translate russian samantha_event_A03_5c0755e1:
+translate russian samantha_event_A03_ddb91b89:
     mike.say "С... с чем, Кексик?"
 
 # ch/samantha/events.rpy:3866
-translate russian samantha_event_A03_ae4012ee:
+translate russian samantha_event_A03_89096a13:
     mike.say "С... с чем, Сэм?"
 
 # ch/samantha/events.rpy:3868
@@ -14377,7 +14321,7 @@ translate russian samantha_event_A03_bcb8f882:
     "Её слова словно ударяют меня с настоящей физической силой."
 
 # ch/samantha/events.rpy:3878
-translate russian samantha_event_A03_48887c13:
+translate russian samantha_event_A03_3c04e68e:
     mike.say "Т-ты... Ты хочешь сказать?!"
 
 # ch/samantha/events.rpy:3880
@@ -14393,15 +14337,15 @@ translate russian samantha_event_A03_42615733:
     samantha.say "Но боялась, что ещё не готова, что не разобралась в себе. Понимаешь?"
 
 # ch/samantha/events.rpy:3884
-translate russian samantha_event_A03_7246f69f:
+translate russian samantha_event_A03_9aae2889:
     mike.say "Всё... Всё хорошо, Кексик... Хорошо!"
 
 # ch/samantha/events.rpy:3886
-translate russian samantha_event_A03_1cf1c2d1:
+translate russian samantha_event_A03_292659e9:
     mike.say "Всё... Всё хорошо, Сэм... Хорошо!"
 
 # ch/samantha/events.rpy:3887
-translate russian samantha_event_A03_046e3eaa:
+translate russian samantha_event_A03_aaf5bf37:
     mike.say "Ради этого... Ради этого стоило подождать!"
 
 # ch/samantha/events.rpy:3889
@@ -14497,7 +14441,7 @@ translate russian samantha_event_A04_143b520d:
     samantha.say "Никогда не оставляешь его разблокированным рядом со мной и не показываешь сообщения."
 
 # ch/samantha/events.rpy:3924
-translate russian samantha_event_A04_bf23ff21:
+translate russian samantha_event_A04_bf283bcd:
     mike.say "А... Ну..."
 
 # ch/samantha/events.rpy:3925
@@ -14597,11 +14541,11 @@ translate russian samantha_event_A04_f5259ee2:
     "А она, похоже, даже чувствует облегчение!"
 
 # ch/samantha/events.rpy:3957
-translate russian samantha_event_A04_fdcadd32:
+translate russian samantha_event_A04_8e0d31a1:
     mike.say "Я... Пойму, если ты захочешь всё закончить, Кексик."
 
 # ch/samantha/events.rpy:3959
-translate russian samantha_event_A04_9a12560c:
+translate russian samantha_event_A04_ab21f05a:
     mike.say "Я... Пойму, если ты захочешь всё закончить, Сэм."
 
 # ch/samantha/events.rpy:3960
@@ -14633,7 +14577,7 @@ translate russian samantha_event_A04_732ab14b:
     samantha.say "И я не припоминаю, чтобы мы сели и обсудили правила наших отношений!"
 
 # ch/samantha/events.rpy:3969
-translate russian samantha_event_A04_5be7c15a:
+translate russian samantha_event_A04_9b4eecc7:
     mike.say "То есть ты... не хочешь меня бросить?"
 
 # ch/samantha/events.rpy:3971
@@ -14661,11 +14605,11 @@ translate russian samantha_event_A04_e01a9e0c:
     samantha.say "Значит, я знаю, что небезразлична тебе."
 
 # ch/samantha/events.rpy:3978
-translate russian samantha_event_A04_c3e7564f:
+translate russian samantha_event_A04_08a81e92:
     mike.say "Ты... Ты мне небезразлична, Кексик."
 
 # ch/samantha/events.rpy:3980
-translate russian samantha_event_A04_ab4681db:
+translate russian samantha_event_A04_126b4afa:
     mike.say "Ты... Ты мне небезразлична, Сэм."
 
 # ch/samantha/events.rpy:3981
@@ -14769,7 +14713,7 @@ translate russian samantha_event_A04_c4a69311:
     "Но вместо этого она кивает и выглядит почти облегчённой."
 
 # ch/samantha/events.rpy:4023
-translate russian samantha_event_A04_2b884be1:
+translate russian samantha_event_A04_0fa837ce:
     mike.say "Ты... Ты не злишься?"
 
 # ch/samantha/events.rpy:4024
@@ -14797,7 +14741,7 @@ translate russian samantha_event_A04_41751d98:
     samantha.say "А я, блядь, не лицемерка!"
 
 # ch/samantha/events.rpy:4032
-translate russian samantha_event_A04_11973897:
+translate russian samantha_event_A04_a153817d:
     mike.say "То есть... ты... не хочешь со мной расстаться?"
 
 # ch/samantha/events.rpy:4033
@@ -14961,7 +14905,7 @@ translate russian samantha_event_A04_b7752d78:
     mike.say "Дело в Райане и в том, как он тебя ранил."
 
 # ch/samantha/events.rpy:4090
-translate russian samantha_event_A04_510f3e34:
+translate russian samantha_event_A04_ec3d6356:
     samantha.say "Ч-что ты имеешь в виду?"
 
 # ch/samantha/events.rpy:4091
@@ -14981,11 +14925,11 @@ translate russian samantha_event_A04_d791202b:
     "Осмысливая мои слова, Сэм растерянно качает головой."
 
 # ch/samantha/events.rpy:4096
-translate russian samantha_event_A04_f2b40fd4:
+translate russian samantha_event_A04_41b12eef:
     samantha.say "Нет... Нет, дело не в этом..."
 
 # ch/samantha/events.rpy:4097
-translate russian samantha_event_A04_b427ddcd:
+translate russian samantha_event_A04_b480d390:
     samantha.say "Но... Может, ты и прав, [lssb_samantha.hero_name()]."
 
 # ch/samantha/events.rpy:4098
@@ -15609,11 +15553,11 @@ translate russian samantha_event_B01_c5d1cfda:
     "Я слегка вздрагиваю, но человек, выбежавший на маленькую площадку, тоже явно не в себе."
 
 # ch/samantha/events.rpy:4305
-translate russian samantha_event_B01_3f313e80:
+translate russian samantha_event_B01_23179f4d:
     mike.say "Кексик... Какого чёрта ты здесь делаешь?"
 
 # ch/samantha/events.rpy:4307
-translate russian samantha_event_B01_119222da:
+translate russian samantha_event_B01_08791483:
     mike.say "Сэм... Какого чёрта ты здесь делаешь?"
 
 # ch/samantha/events.rpy:4308
@@ -15653,7 +15597,7 @@ translate russian samantha_event_B01_15562b33:
     "Затем встряхивает головой и словно возвращается к действительности."
 
 # ch/samantha/events.rpy:4318
-translate russian samantha_event_B01_3ea0d597:
+translate russian samantha_event_B01_85b05081:
     samantha.say "К чёрту свадьбу... И Райана туда же!"
 
 # ch/samantha/events.rpy:4320
@@ -15673,11 +15617,11 @@ translate russian samantha_event_B01_7b8f17f4:
     samantha.say "Ох, [lssb_samantha.hero_name()]... Это правда?"
 
 # ch/samantha/events.rpy:4327
-translate russian samantha_event_B01_f916f407:
+translate russian samantha_event_B01_1f45b241:
     mike.say "Кексик, я бы очень хотел сказать, что нет... Но правда."
 
 # ch/samantha/events.rpy:4329
-translate russian samantha_event_B01_6388a3de:
+translate russian samantha_event_B01_2d087084:
     mike.say "Сэм, я бы очень хотел сказать, что нет... Но правда."
 
 # ch/samantha/events.rpy:4330
@@ -15701,7 +15645,7 @@ translate russian samantha_event_B01_f87df5ef:
     "Мне следовало бы сочувствовать ей и быть хорошим другом в трудную минуту."
 
 # ch/samantha/events.rpy:4335
-translate russian samantha_event_B01_76fd0791:
+translate russian samantha_event_B01_a12d63d1:
     "А я думаю лишь о том, как приятно она прижимается ко мне... Как чудесно пахнут её волосы..."
 
 # ch/samantha/events.rpy:4336
@@ -15713,7 +15657,7 @@ translate russian samantha_event_B01_9d9630aa:
     "Огромными томными голубыми глазами под длинными ресницами."
 
 # ch/samantha/events.rpy:4339
-translate russian samantha_event_B01_264dfd1c:
+translate russian samantha_event_B01_4431d5b4:
     samantha.say "[lssb_samantha.hero_name()]... Ты ведь никогда бы так со мной не поступил? Если бы любил?"
 
 # ch/samantha/events.rpy:4340
@@ -15741,7 +15685,7 @@ translate russian samantha_event_B01_d8ec5eab:
     mike.say "Дело не в тебе, Сэм. Нужно быть безумцем, чтобы так с тобой поступить."
 
 # ch/samantha/events.rpy:4348
-translate russian samantha_event_B01_27ce8bf1:
+translate russian samantha_event_B01_a0dc9451:
     mike.say "Он просто подонок... И не понимает, как ему с тобой повезло."
 
 # ch/samantha/events.rpy:4350
@@ -15749,7 +15693,7 @@ translate russian samantha_event_B01_11ad1e08:
     "Саманта слабо улыбается сквозь слёзы. Мои слова явно её приободрили."
 
 # ch/samantha/events.rpy:4351
-translate russian samantha_event_B01_22870f89:
+translate russian samantha_event_B01_53bd122f:
     samantha.say "Спасибо, [lssb_samantha.hero_name()]... Я совершенно разбита... Наверное, мне просто нужно было поговорить с другом."
 
 # ch/samantha/events.rpy:4352
@@ -15769,7 +15713,7 @@ translate russian samantha_event_B01_775d358a:
     "Я улавливаю в её голосе тонкую перемену, словно она берёт себя в руки и начинает смотреть на всё иначе."
 
 # ch/samantha/events.rpy:4358
-translate russian samantha_event_B01_b81d0513:
+translate russian samantha_event_B01_5f532a36:
     samantha.say "Очень хорошим другом... А я никогда не отвечала тебе тем же... По-настоящему..."
 
 # ch/samantha/events.rpy:4359
@@ -15777,7 +15721,7 @@ translate russian samantha_event_B01_9ca4a4e3:
     "Вместо того чтобы отстраниться, Сэм прижимается ещё теснее."
 
 # ch/samantha/events.rpy:4360
-translate russian samantha_event_B01_f2b35b08:
+translate russian samantha_event_B01_6734b20d:
     samantha.say "Может, я могла бы всё изменить... Начиная прямо сейчас?"
 
 # ch/samantha/events.rpy:4361
@@ -15849,11 +15793,11 @@ translate russian samantha_event_B01_31344e56:
     "Сэм чуть ослабляет объятия, и пыл в её глазах отчасти сменяется печалью."
 
 # ch/samantha/events.rpy:4387
-translate russian samantha_event_B01_566730df:
+translate russian samantha_event_B01_a8e6f38f:
     mike.say "Пожалуйста, Кексик... Если у нас когда-нибудь будет шанс, пусть всё начнётся не так. Только не так!"
 
 # ch/samantha/events.rpy:4389
-translate russian samantha_event_B01_1e816019:
+translate russian samantha_event_B01_818beeba:
     mike.say "Пожалуйста, Сэм... Если у нас когда-нибудь будет шанс, пусть всё начнётся не так. Только не так!"
 
 # ch/samantha/events.rpy:4390
@@ -15893,11 +15837,11 @@ translate russian samantha_event_B01_ba29eff0:
     "Ну разве я не сама самоотверженность?"
 
 # ch/samantha/events.rpy:4403
-translate russian samantha_event_B01_5c3e875b:
+translate russian samantha_event_B01_ba520ac7:
     mike.say "Кексик... С радостью позволю тебе это сделать!"
 
 # ch/samantha/events.rpy:4405
-translate russian samantha_event_B01_ec37049f:
+translate russian samantha_event_B01_f8120699:
     mike.say "Сэм... С радостью позволю тебе это сделать!"
 
 # ch/samantha/events.rpy:4406
@@ -17308,10 +17252,6 @@ translate russian samantha_event_B02_556a39c5:
 # ch/samantha/events.rpy:4949
 translate russian samantha_event_B02_d8e48d83:
     bree.say "Ха! Теперь понятно, почему [lssb_samantha.hero_name()] так приуныл."
-
-# ch/samantha/events.rpy:4950
-translate russian samantha_event_B02_cbdda06b:
-    mike.say "[bree.name]! Всё, возвращайся в свою отшельничью нору."
 
 # ch/samantha/events.rpy:4952
 translate russian samantha_event_B02_201a1606:
@@ -20546,11 +20486,11 @@ translate russian samantha_event_D01_e3d69131:
     samantha.say "Привет, [lssb_samantha.hero_name()]!"
 
 # ch/samantha/events.rpy:6220
-translate russian samantha_event_D01_30db09a5:
+translate russian samantha_event_D01_7a49b751:
     mike.say "А... Привет, Кексик."
 
 # ch/samantha/events.rpy:6222
-translate russian samantha_event_D01_a42c3fa1:
+translate russian samantha_event_D01_df638d19:
     mike.say "А... Привет, Сэм."
 
 # ch/samantha/events.rpy:6223
@@ -20582,15 +20522,15 @@ translate russian samantha_event_D01_3313a2f9:
     "Так что отбрасываю остальные мысли и поспешно отступаю, приглашая её в прихожую."
 
 # ch/samantha/events.rpy:6231
-translate russian samantha_event_D01_0883d68b:
+translate russian samantha_event_D01_45391d04:
     mike.say "Конечно... Конечно, Кексик."
 
 # ch/samantha/events.rpy:6233
-translate russian samantha_event_D01_0f4b9f33:
+translate russian samantha_event_D01_1356feec:
     mike.say "Конечно... Конечно, Сэм."
 
 # ch/samantha/events.rpy:6234
-translate russian samantha_event_D01_74e65121:
+translate russian samantha_event_D01_c365af6e:
     mike.say "Я дома... Как видишь!"
 
 # ch/samantha/events.rpy:6235
@@ -20614,7 +20554,7 @@ translate russian samantha_event_D01_b656d4f4:
     samantha.say "Могу ведь прийти в другой раз..."
 
 # ch/samantha/events.rpy:6243
-translate russian samantha_event_D01_73014f9d:
+translate russian samantha_event_D01_1366e973:
     mike.say "Нет... Нет, всё нормально."
 
 # ch/samantha/events.rpy:6244
@@ -20738,7 +20678,7 @@ translate russian samantha_event_D01_407c4138:
     samantha.say "Пора признаться: я не совсем случайно проходила мимо."
 
 # ch/samantha/events.rpy:6284
-translate russian samantha_event_D01_9cf1e494:
+translate russian samantha_event_D01_7371ebe6:
     samantha.say "Хотела поговорить с тобой... о том, что ты рассказал."
 
 # ch/samantha/events.rpy:6285
@@ -20770,7 +20710,7 @@ translate russian samantha_event_D01_9e401156:
     "Она машинально опускает взгляд на экран в ладони."
 
 # ch/samantha/events.rpy:6296
-translate russian samantha_event_D01_4620b544:
+translate russian samantha_event_D01_8e8c121b:
     samantha.say "Чёрт... Это ОН!"
 
 # ch/samantha/events.rpy:6297
@@ -20858,7 +20798,7 @@ translate russian samantha_event_D01_effe58bb:
     "Поднося его к уху, стараюсь придать и лицу, и голосу подобие улыбки."
 
 # ch/samantha/events.rpy:6320
-translate russian samantha_event_D01_45f6c0e7:
+translate russian samantha_event_D01_3ce2f221:
     mike.say "П-привет, дружище!"
 
 # ch/samantha/events.rpy:6321
@@ -20882,11 +20822,11 @@ translate russian samantha_event_D01_01013d91:
     ryan.say "Эй, что там, [lssb_samantha.hero_name()]?"
 
 # ch/samantha/events.rpy:6327
-translate russian samantha_event_D01_c688456b:
+translate russian samantha_event_D01_28c3eb52:
     mike.say "Ничего... Совсем ничего."
 
 # ch/samantha/events.rpy:6328
-translate russian samantha_event_D01_d7cf5ba2:
+translate russian samantha_event_D01_b0fcc6cc:
     mike.say "Просто споткнулся... В собственных ногах запутался."
 
 # ch/samantha/events.rpy:6329
@@ -20918,7 +20858,7 @@ translate russian samantha_event_D01_ecf40bcc:
     "Её пальцы обхватывают член и начинают вытаскивать его из брюк."
 
 # ch/samantha/events.rpy:6338
-translate russian samantha_event_D01_af7068c7:
+translate russian samantha_event_D01_a4be0290:
     mike.say "ТАК... Так, Райан, как тебе семейная жизнь?"
 
 # ch/samantha/events.rpy:6339
@@ -21002,7 +20942,7 @@ translate russian samantha_event_D01_11a89571:
     ryan.say "[lssb_samantha.hero_name()], ты меня слушаешь?!"
 
 # ch/samantha/events.rpy:6361
-translate russian samantha_event_D01_a70309e4:
+translate russian samantha_event_D01_a6d316e4:
     mike.say "А... Д-да, Райан. Отлично тебя слышу!"
 
 # ch/samantha/events.rpy:6362
@@ -21058,7 +20998,7 @@ translate russian samantha_event_D01_c3f594b1:
     "Вдруг чувствую, что вот-вот кончу, а затем Сэм выпускает мой член изо рта."
 
 # ch/samantha/events.rpy:6376
-translate russian samantha_event_D01_d78fa98e:
+translate russian samantha_event_D01_bbc9b28d:
     mike.say "Ох... Вот чёрт!"
 
 # ch/samantha/events.rpy:6378
@@ -21074,7 +21014,7 @@ translate russian samantha_event_D01_0862940c:
     "При этом Сэм всё время улыбается и выглядит совершенно довольной результатом."
 
 # ch/samantha/events.rpy:6383
-translate russian samantha_event_D01_3dcc9205:
+translate russian samantha_event_D01_c8ed3f49:
     ryan.say "Эй... Какого чёрта!"
 
 # ch/samantha/events.rpy:6384
@@ -21102,7 +21042,7 @@ translate russian samantha_event_D01_7538f4a6:
     samantha.say "Я здесь, милый. Не волнуйся."
 
 # ch/samantha/events.rpy:6393
-translate russian samantha_event_D01_eca92d4b:
+translate russian samantha_event_D01_5d255f92:
     samantha.say "Нет-нет, с нами обоими всё хорошо. Правда."
 
 # ch/samantha/events.rpy:6394
@@ -21202,7 +21142,7 @@ translate russian samantha_event_D02_702cf712:
     "Как бы приятно мне ни было, я рассказал Сэм обо всём из дружеских побуждений."
 
 # ch/samantha/events.rpy:6429
-translate russian samantha_event_D02_ed5bd830:
+translate russian samantha_event_D02_550d123a:
     "Ну... И потому, что всегда был в неё влюблён, конечно!"
 
 # ch/samantha/events.rpy:6431
@@ -21234,11 +21174,11 @@ translate russian samantha_event_D02_7822c356:
     "Да, вот она, собственной персоной."
 
 # ch/samantha/events.rpy:6443
-translate russian samantha_event_D02_30db09a5:
+translate russian samantha_event_D02_7a49b751:
     mike.say "А... Привет, Кексик."
 
 # ch/samantha/events.rpy:6445
-translate russian samantha_event_D02_a42c3fa1:
+translate russian samantha_event_D02_df638d19:
     mike.say "А... Привет, Сэм."
 
 # ch/samantha/events.rpy:6446
@@ -21294,7 +21234,7 @@ translate russian samantha_event_D02_5fea86d4:
     "Она слегка краснеет и торопится продолжить объяснение."
 
 # ch/samantha/events.rpy:6461
-translate russian samantha_event_D02_a051eb3a:
+translate russian samantha_event_D02_a3d4b368:
     samantha.say "Ну... И вспомнила, что кое-что здесь оставила."
 
 # ch/samantha/events.rpy:6462
@@ -21390,7 +21330,7 @@ translate russian samantha_event_D02_cacd44ea:
     "Если подумать, Сэм даже не сказала, что именно ищет."
 
 # ch/samantha/events.rpy:6491
-translate russian samantha_event_D02_8127f709:
+translate russian samantha_event_D02_d73b9e85:
     mike.say "Эм... Так что ты здесь оставила?"
 
 # ch/samantha/events.rpy:6492
@@ -21462,7 +21402,7 @@ translate russian samantha_event_D02_203b7100:
     samantha.say "И его вкусом на языке..."
 
 # ch/samantha/events.rpy:6518
-translate russian samantha_event_D02_c04cfb23:
+translate russian samantha_event_D02_ea523b29:
     mike.say "Ну... Я... Рад, что ты нашла то, что хотела!"
 
 # ch/samantha/events.rpy:6519
@@ -21530,11 +21470,11 @@ translate russian samantha_event_D02_3de0998b:
     "И только тогда я замечаю, чем занята другая рука."
 
 # ch/samantha/events.rpy:6538
-translate russian samantha_event_D02_25fb05ff:
+translate russian samantha_event_D02_86d0708b:
     mike.say "Ах... Кексик..."
 
 # ch/samantha/events.rpy:6540
-translate russian samantha_event_D02_111c2f69:
+translate russian samantha_event_D02_ef3b4d12:
     mike.say "Ах... Сэм..."
 
 # ch/samantha/events.rpy:6541
@@ -21730,7 +21670,7 @@ translate russian samantha_event_D02_6a9b1e1c:
     ryan.say "[lssb_samantha.hero_name()]... Это ты?"
 
 # ch/samantha/events.rpy:6595
-translate russian samantha_event_D02_5714fda5:
+translate russian samantha_event_D02_545a97f0:
     mike.say "А... Привет, Райан!"
 
 # ch/samantha/events.rpy:6596
@@ -21746,7 +21686,7 @@ translate russian samantha_event_D02_7a194c1d:
     ryan.say "Вы там перекусываете, что ли?"
 
 # ch/samantha/events.rpy:6599
-translate russian samantha_event_D02_2c9fa2cf:
+translate russian samantha_event_D02_8ee55473:
     mike.say "Эм... Да, можно и так сказать."
 
 # ch/samantha/events.rpy:6600
@@ -21762,7 +21702,7 @@ translate russian samantha_event_D02_9f6ad71d:
     ryan.say "Если захочешь применить приём Геймлиха, разрешаю, приятель."
 
 # ch/samantha/events.rpy:6603
-translate russian samantha_event_D02_8335186d:
+translate russian samantha_event_D02_d0df4a84:
     mike.say "Конечно... приятель!"
 
 # ch/samantha/events.rpy:6605
@@ -21874,7 +21814,7 @@ translate russian samantha_event_D02_ffbdcc90:
     "От этого зрелища меня отвлекает лишь протянутый телефон."
 
 # ch/samantha/events.rpy:6642
-translate russian samantha_event_D02_811d747e:
+translate russian samantha_event_D02_6211b0e7:
     mike.say "Эм... Привет, Райан!"
 
 # ch/samantha/events.rpy:6643
@@ -21882,15 +21822,15 @@ translate russian samantha_event_D02_cf0deb60:
     ryan.say "Господи, [lssb_samantha.hero_name()], с Сэм точно всё хорошо?"
 
 # ch/samantha/events.rpy:6644
-translate russian samantha_event_D02_044ae282:
+translate russian samantha_event_D02_582a600e:
     mike.say "А, да... Наверное."
 
 # ch/samantha/events.rpy:6645
-translate russian samantha_event_D02_17b60b14:
+translate russian samantha_event_D02_11e5c418:
     mike.say "Кажется... Кажется, она уже всё откашляла."
 
 # ch/samantha/events.rpy:6646
-translate russian samantha_event_D02_aa73542f:
+translate russian samantha_event_D02_06633502:
     ryan.say "Фу... Прелестно!"
 
 # ch/samantha/events.rpy:6647
@@ -21902,7 +21842,7 @@ translate russian samantha_event_D02_16c834d3:
     ryan.say "И я знаю, что могу доверить тебе позаботиться о ней. Правда?"
 
 # ch/samantha/events.rpy:6649
-translate russian samantha_event_D02_b84d1c92:
+translate russian samantha_event_D02_7334fc8b:
     mike.say "Конечно... Конечно."
 
 # ch/samantha/events.rpy:6650
@@ -21986,11 +21926,11 @@ translate russian samantha_event_D03_fed01ec2:
     samantha.say "Привет, [lssb_samantha.hero_name()]! Чем сейчас занимаешься?"
 
 # ch/samantha/events.rpy:6688
-translate russian samantha_event_D03_b201ce17:
+translate russian samantha_event_D03_2b004169:
     mike.say "А... Привет, Кексик."
 
 # ch/samantha/events.rpy:6690
-translate russian samantha_event_D03_c006a5ad:
+translate russian samantha_event_D03_2b2507b3:
     mike.say "А... Привет, Сэм."
 
 # ch/samantha/events.rpy:6691
@@ -22018,7 +21958,7 @@ translate russian samantha_event_D03_26325b3f:
     samantha.say "А потом идёшь к двери и впускаешь меня!"
 
 # ch/samantha/events.rpy:6697
-translate russian samantha_event_D03_1b10092c:
+translate russian samantha_event_D03_6df7ebcf:
     mike.say "Что... Ты снаружи?"
 
 # ch/samantha/events.rpy:6698
@@ -22038,7 +21978,7 @@ translate russian samantha_event_D03_a386704b:
     samantha.say "Ну, пригласишь войти?"
 
 # ch/samantha/events.rpy:6706
-translate russian samantha_event_D03_3f510b35:
+translate russian samantha_event_D03_d508ac77:
     mike.say "Эм, да... Конечно."
 
 # ch/samantha/events.rpy:6708
@@ -22082,11 +22022,11 @@ translate russian samantha_event_D03_2bb771d9:
     "Сэм хлопает по кровати рядом с собой, и я послушно сажусь."
 
 # ch/samantha/events.rpy:6721
-translate russian samantha_event_D03_66f0d89e:
+translate russian samantha_event_D03_70b21012:
     mike.say "Я... Я рад тебя видеть, Кексик."
 
 # ch/samantha/events.rpy:6723
-translate russian samantha_event_D03_a40310d8:
+translate russian samantha_event_D03_d595ea27:
     mike.say "Я... Я рад тебя видеть, Сэм."
 
 # ch/samantha/events.rpy:6724
@@ -22102,7 +22042,7 @@ translate russian samantha_event_D03_61277a64:
     mike.say "Но не хочу думать, что ты просто..."
 
 # ch/samantha/events.rpy:6727
-translate russian samantha_event_D03_4625d89e:
+translate russian samantha_event_D03_a4dc31c5:
     mike.say "Ну... используешь меня, чтобы отомстить Райану!"
 
 # ch/samantha/events.rpy:6729
@@ -22110,7 +22050,7 @@ translate russian samantha_event_D03_56cc3cd0:
     "Глаза Сэм расширяются, словно она искренне удивлена."
 
 # ch/samantha/events.rpy:6730
-translate russian samantha_event_D03_1391622c:
+translate russian samantha_event_D03_c5f2d401:
     samantha.say "Нет... Конечно нет, [lssb_samantha.hero_name()]!"
 
 # ch/samantha/events.rpy:6732
@@ -22346,11 +22286,11 @@ translate russian samantha_event_D03_4bb76d29:
     "Поэтому говорит, тяжело дыша и задыхаясь, словно на пределе физических сил."
 
 # ch/samantha/events.rpy:6805
-translate russian samantha_event_D03_95ebf668:
+translate russian samantha_event_D03_35c8d1f6:
     samantha.say "Я... всё ещё... в зале."
 
 # ch/samantha/events.rpy:6806
-translate russian samantha_event_D03_f69d84f9:
+translate russian samantha_event_D03_f708c90c:
     samantha.say "Просто... решила позвонить!"
 
 # ch/samantha/events.rpy:6808
@@ -22366,11 +22306,11 @@ translate russian samantha_event_D03_90403165:
     "Но в ответе ничто не выдаёт этих чувств."
 
 # ch/samantha/events.rpy:6812
-translate russian samantha_event_D03_0eef3614:
+translate russian samantha_event_D03_0d3bdd11:
     samantha.say "Ах... Ты меня раскусил."
 
 # ch/samantha/events.rpy:6813
-translate russian samantha_event_D03_acfc1568:
+translate russian samantha_event_D03_427e1a22:
     samantha.say "Ты всегда... знаешь, что у меня... внутри!"
 
 # ch/samantha/events.rpy:6815
@@ -22382,7 +22322,7 @@ translate russian samantha_event_D03_8011fcc3:
     "И должен сказать, сейчас я знаю об этом больше Райана!"
 
 # ch/samantha/events.rpy:6817
-translate russian samantha_event_D03_535dc350:
+translate russian samantha_event_D03_fb3f5216:
     ryan.say "Слушай... По голосу похоже, тебя там хорошенько имеют!"
 
 # ch/samantha/events.rpy:6818
@@ -22394,11 +22334,11 @@ translate russian samantha_event_D03_3729f853:
     "Сэм смеётся над заботливым тоном Райана, явно наслаждаясь тем, как им манипулирует."
 
 # ch/samantha/events.rpy:6821
-translate russian samantha_event_D03_9b118865:
+translate russian samantha_event_D03_597588c7:
     samantha.say "Это... новый тренер. Его недавно... наняли."
 
 # ch/samantha/events.rpy:6823
-translate russian samantha_event_D03_17bf20de:
+translate russian samantha_event_D03_b8f4b836:
     samantha.say "Он сегодня... меня совсем загонял!"
 
 # ch/samantha/events.rpy:6824
@@ -22406,11 +22346,11 @@ translate russian samantha_event_D03_70cf7795:
     ryan.say "Чёрт, по голосу слышно!"
 
 # ch/samantha/events.rpy:6836
-translate russian samantha_event_D03_2665687a:
+translate russian samantha_event_D03_2ebf1723:
     samantha.say "Да... Он... тот ещё... хер."
 
 # ch/samantha/events.rpy:6848
-translate russian samantha_event_D03_e83c1d85:
+translate russian samantha_event_D03_75cd3973:
     samantha.say "Но... не волнуйся... я получу... всё, за что заплатила!"
 
 # ch/samantha/events.rpy:6849
@@ -22502,7 +22442,7 @@ translate russian samantha_event_D03_25f67173:
     mike.say "Ты ведь принимаешь таблетки, правда?"
 
 # ch/samantha/events.rpy:6906
-translate russian samantha_event_D03_2e2af206:
+translate russian samantha_event_D03_791029d8:
     samantha.say "М-м-м... нет."
 
 # ch/samantha/events.rpy:6908
@@ -22542,11 +22482,11 @@ translate russian samantha_event_D04_cfa4394a:
     mike.say "Эм, Сэм?"
 
 # ch/samantha/events.rpy:6930
-translate russian samantha_event_D04_1391f201:
+translate russian samantha_event_D04_49afe572:
     samantha.say "М-м... да, [lssb_samantha.hero_name()]?"
 
 # ch/samantha/events.rpy:6931
-translate russian samantha_event_D04_4dd35f08:
+translate russian samantha_event_D04_08ef8093:
     mike.say "Я... думаю, нам надо поговорить..."
 
 # ch/samantha/events.rpy:6932
@@ -22722,7 +22662,7 @@ translate russian samantha_event_D04_f9738d73:
     mike.say "Но пока мы всё скрываем, у нас просто связь на стороне."
 
 # ch/samantha/events.rpy:6982
-translate russian samantha_event_D04_999de463:
+translate russian samantha_event_D04_0817493c:
     mike.say "А я... хочу, чтобы между нами было нечто большее."
 
 # ch/samantha/events.rpy:6984
@@ -22822,7 +22762,7 @@ translate russian samantha_event_D05_a386704b:
     samantha.say "Ну что, не пригласишь меня войти?"
 
 # ch/samantha/events.rpy:7026
-translate russian samantha_event_D05_3f510b35:
+translate russian samantha_event_D05_d508ac77:
     mike.say "Э-э, да... конечно."
 
 # ch/samantha/events.rpy:7031
@@ -22858,7 +22798,7 @@ translate russian samantha_event_D05_adbd371b:
     samantha.say "Эй, [lssb_samantha.hero_name()]... что такое?"
 
 # ch/samantha/events.rpy:7042
-translate russian samantha_event_D05_97c6c0e4:
+translate russian samantha_event_D05_8386b12c:
     mike.say "А... ничего."
 
 # ch/samantha/events.rpy:7044
@@ -22866,7 +22806,7 @@ translate russian samantha_event_D05_5bded8f2:
     samantha.say "Если бы ничего, ты бы не переживал!"
 
 # ch/samantha/events.rpy:7045
-translate russian samantha_event_D05_d1af2ec1:
+translate russian samantha_event_D05_d81dc0c5:
     mike.say "Ну... вся эта история с Райаном, понимаешь?"
 
 # ch/samantha/events.rpy:7046
@@ -22886,7 +22826,7 @@ translate russian samantha_event_D05_cad6f525:
     "В том, как она произносит «минут», есть что-то, что выдёргивает меня из мрачных мыслей."
 
 # ch/samantha/events.rpy:7050
-translate russian samantha_event_D05_9fee4885:
+translate russian samantha_event_D05_e6201d00:
     mike.say "Погоди... что... в смысле «минут»?!"
 
 # ch/samantha/events.rpy:7051
@@ -22898,7 +22838,7 @@ translate russian samantha_event_D05_dcfd4143:
     "Сэм посмеивается и отводит взгляд, оставляя мой вопрос без ответа."
 
 # ch/samantha/events.rpy:7054
-translate russian samantha_event_D05_ef967a88:
+translate russian samantha_event_D05_45eef046:
     samantha.say "Может, да... а может, нет."
 
 # ch/samantha/events.rpy:7055
@@ -22990,11 +22930,11 @@ translate russian samantha_event_D05_f1d8a63c:
     mike.say "Эм..."
 
 # ch/samantha/events.rpy:7089
-translate russian samantha_event_D05_2a6a950c:
+translate russian samantha_event_D05_1ebf2cf5:
     mike.say "Тебе... нравится на ощупь?"
 
 # ch/samantha/events.rpy:7090
-translate russian samantha_event_D05_09f049c6:
+translate russian samantha_event_D05_5e83b99c:
     samantha.say "М-м... ещё как!"
 
 # ch/samantha/events.rpy:7091
@@ -23106,11 +23046,11 @@ translate russian samantha_event_D05_952f39a5:
     samantha.say "Как же мне хорошо... ТАК хорошо чувствовать тебя внутри!"
 
 # ch/samantha/events.rpy:7126
-translate russian samantha_event_D05_63e405a5:
+translate russian samantha_event_D05_cc21cc6d:
     samantha.say "Ты... ты и правда... показал мне... как это приятно!"
 
 # ch/samantha/events.rpy:7127
-translate russian samantha_event_D05_67237cd1:
+translate russian samantha_event_D05_c523b2c0:
     samantha.say "Я не хочу, чтобы ты останавливался... делай это со мной вечно!"
 
 # ch/samantha/events.rpy:7128
@@ -23118,7 +23058,7 @@ translate russian samantha_event_D05_209b4240:
     "Господи, вот ещё одна вещь, в которой она оказалась неожиданно хороша!"
 
 # ch/samantha/events.rpy:7129
-translate russian samantha_event_D05_11bfb8ca:
+translate russian samantha_event_D05_52f91d61:
     "Пошлости из этих безупречных губ звучат так... так правильно..."
 
 # ch/samantha/events.rpy:7130
@@ -23246,15 +23186,15 @@ translate russian samantha_event_D05_c6aa6ce6:
     "Поэтому совсем скоро приближающийся оргазм возвращается с удвоенной силой."
 
 # ch/samantha/events.rpy:7169
-translate russian samantha_event_D05_0167c8b9:
+translate russian samantha_event_D05_69d10065:
     mike.say "Ох... Кексик..."
 
 # ch/samantha/events.rpy:7171
-translate russian samantha_event_D05_e18bab65:
+translate russian samantha_event_D05_4e4db625:
     mike.say "Ох... Сэм..."
 
 # ch/samantha/events.rpy:7172
-translate russian samantha_event_D05_110eb8e0:
+translate russian samantha_event_D05_9fc0328c:
     mike.say "Ох... блядь... блядь!"
 
 # ch/samantha/events.rpy:7173
@@ -23414,7 +23354,7 @@ translate russian samantha_event_D05B_51b618dc:
     samantha.say "Отлично, [lssb_samantha.hero_name()]."
 
 # ch/samantha/events.rpy:7244
-translate russian samantha_event_D05B_22e5ec08:
+translate russian samantha_event_D05B_15ad5c01:
     samantha.say "Ну... ты пригласишь нас войти или нет?"
 
 # ch/samantha/events.rpy:7245
@@ -23582,7 +23522,7 @@ translate russian samantha_event_D05B_fa414837:
     "Но мы оба оборачиваемся и видим Натали в дверях гостиной."
 
 # ch/samantha/events.rpy:7306
-translate russian samantha_event_D05B_a54bfc31:
+translate russian samantha_event_D05B_a557845d:
     samantha.say "А... да."
 
 # ch/samantha/events.rpy:7307
@@ -23590,7 +23530,7 @@ translate russian samantha_event_D05B_ffd90ef2:
     samantha.say "[lssb_samantha.hero_name()] только что сказал, что у него дела."
 
 # ch/samantha/events.rpy:7308
-translate russian samantha_event_D05B_9806b73a:
+translate russian samantha_event_D05B_e30f6eff:
     natalie.say "А... понятно."
 
 # ch/samantha/events.rpy:7310
@@ -23670,7 +23610,7 @@ translate russian samantha_event_D05B_5a8032d6:
     samantha.say "Всё в силе, всё в силе."
 
 # ch/samantha/events.rpy:7340
-translate russian samantha_event_D05B_2c2f2418:
+translate russian samantha_event_D05B_5dc5eff7:
     natalie.say "О... ура!"
 
 # ch/samantha/events.rpy:7341
@@ -23754,11 +23694,11 @@ translate russian samantha_event_D05B_5d9388d3:
     "Она только что закрепила у себя на поясе большой страпон."
 
 # ch/samantha/events.rpy:7375
-translate russian samantha_event_D05B_5a0a22d2:
+translate russian samantha_event_D05B_3608dcd8:
     natalie.say "С... Сэм..."
 
 # ch/samantha/events.rpy:7376
-translate russian samantha_event_D05B_9b6040dc:
+translate russian samantha_event_D05B_a0c84187:
     natalie.say "Ч... что это?"
 
 # ch/samantha/events.rpy:7378
@@ -23778,11 +23718,11 @@ translate russian samantha_event_D05B_64b0f433:
     samantha.say "Но если тебе страшно..."
 
 # ch/samantha/events.rpy:7383
-translate russian samantha_event_D05B_5e1c714e:
+translate russian samantha_event_D05B_4c055578:
     natalie.say "Нет... нет, Сэм."
 
 # ch/samantha/events.rpy:7385
-translate russian samantha_event_D05B_c3c98f99:
+translate russian samantha_event_D05B_25f75c51:
     natalie.say "Всё хорошо... правда!"
 
 # ch/samantha/events.rpy:7393
@@ -23890,11 +23830,11 @@ translate russian samantha_event_D05B_7a0094a3:
     "Сэм, должно быть, замечает это по моему лицу и отчаянно качает головой."
 
 # ch/samantha/events.rpy:7454
-translate russian samantha_event_D05B_ba7bd215:
+translate russian samantha_event_D05B_53b54ffe:
     samantha.say "Нет... ах..."
 
 # ch/samantha/events.rpy:7455
-translate russian samantha_event_D05B_264a773d:
+translate russian samantha_event_D05B_f2560321:
     samantha.say "Ещё... не надо..."
 
 # ch/samantha/events.rpy:7456
@@ -24461,14 +24401,6 @@ translate russian samantha_buy_dress_d6954fd1:
 translate russian samantha_forgot_money_98a94ec4:
     samantha.say "Блядь!"
 
-# ch/samantha/events.rpy:7751
-translate russian samantha_forgot_money_1c14cacb:
-    mike.say "Что такое, Кексик?"
-
-# ch/samantha/events.rpy:7753
-translate russian samantha_forgot_money_70e238b7:
-    mike.say "Что такое, Саманта?"
-
 # ch/samantha/events.rpy:7756
 translate russian samantha_forgot_money_7a2610ed:
     samantha.say "Я забыла деньги."
@@ -24718,7 +24650,7 @@ translate russian samantha_birthday_date_male_2a50e64d:
     "Я чувствую, что сейчас в разговоре неизбежно появится «но»."
 
 # ch/samantha/events.rpy:7907
-translate russian samantha_birthday_date_male_05016d6d:
+translate russian samantha_birthday_date_male_ed471e8d:
     samantha.say "А... чёрт с ним."
 
 # ch/samantha/events.rpy:7908
@@ -24734,7 +24666,7 @@ translate russian samantha_birthday_date_male_1e21e84d:
     mike.say "Сказать что, Сэм?"
 
 # ch/samantha/events.rpy:7913
-translate russian samantha_birthday_date_male_c5265e5f:
+translate russian samantha_birthday_date_male_f2eb36c4:
     samantha.say "Ну... мы с Райаном раньше часто сюда ходили."
 
 # ch/samantha/events.rpy:7922
@@ -24818,11 +24750,11 @@ translate russian samantha_birthday_date_male_a0689668:
     samantha.say "Как ты догадался?"
 
 # ch/samantha/events.rpy:7960
-translate russian samantha_birthday_date_male_4bbe3351:
+translate russian samantha_birthday_date_male_9d3be02d:
     mike.say "Ч... что-то не так, Кексик?"
 
 # ch/samantha/events.rpy:7962
-translate russian samantha_birthday_date_male_03070b0b:
+translate russian samantha_birthday_date_male_702c750a:
     mike.say "Ч... что-то не так, Сэм?"
 
 # ch/samantha/events.rpy:7964
@@ -24830,7 +24762,7 @@ translate russian samantha_birthday_date_male_bf189d62:
     samantha.say "Это просто идеально! Райан бы никогда..."
 
 # ch/samantha/events.rpy:7965
-translate russian samantha_birthday_date_male_5ce4b5c9:
+translate russian samantha_birthday_date_male_b70d4f9c:
     samantha.say "Давай... просто скажем, что подарок идеальный, ладно?"
 
 # ch/samantha/events.rpy:7969
@@ -24838,19 +24770,19 @@ translate russian samantha_birthday_date_male_74f99301:
     samantha.say "А, да..."
 
 # ch/samantha/events.rpy:7970
-translate russian samantha_birthday_date_male_7d758558:
+translate russian samantha_birthday_date_male_4307cd21:
     samantha.say "Это... очень заботливо с твоей стороны!"
 
 # ch/samantha/events.rpy:7972
-translate russian samantha_birthday_date_male_4bbe3351_1:
+translate russian samantha_birthday_date_male_9d3be02d_1:
     mike.say "Ч... что-то не так, Кексик?"
 
 # ch/samantha/events.rpy:7974
-translate russian samantha_birthday_date_male_03070b0b_1:
+translate russian samantha_birthday_date_male_702c750a_1:
     mike.say "Ч... что-то не так, Сэм?"
 
 # ch/samantha/events.rpy:7976
-translate russian samantha_birthday_date_male_3009b5da:
+translate russian samantha_birthday_date_male_2bf3dca4:
     samantha.say "Нет... нет..."
 
 # ch/samantha/events.rpy:7977
@@ -24938,7 +24870,7 @@ translate russian samantha_birthday_date_male_db63f0b5:
     "Но она прикладывает ладонь ко лбу и кивает."
 
 # ch/samantha/events.rpy:8012
-translate russian samantha_birthday_date_male_75f96f6b:
+translate russian samantha_birthday_date_male_2d07205b:
     samantha.say "У меня... у меня тоже немного кружится голова."
 
 # ch/samantha/events.rpy:8013
@@ -24970,7 +24902,7 @@ translate russian samantha_birthday_date_male_cde821ba:
     mike.say "Эй, Сэм, тебе подлить?"
 
 # ch/samantha/events.rpy:8027
-translate russian samantha_birthday_date_male_2c9a1909:
+translate russian samantha_birthday_date_male_a12507a6:
     samantha.say "О... да, конечно!"
 
 # ch/samantha/events.rpy:8028
@@ -25178,7 +25110,7 @@ translate russian samantha_birthday_date_male_1cb4e0e9:
     "В скудном освещении она щурится, пытаясь разобрать мелкий шрифт."
 
 # ch/samantha/events.rpy:8108
-translate russian samantha_birthday_date_male_7c81de64:
+translate russian samantha_birthday_date_male_b455c3f3:
     samantha.say "А... да, похоже на то."
 
 # ch/samantha/events.rpy:8109
@@ -25418,7 +25350,7 @@ translate russian samantha_birthday_date_male_e5ed33df:
     samantha.say "В чём дело, [lssb_samantha.hero_name()]?"
 
 # ch/samantha/events.rpy:8248
-translate russian samantha_birthday_date_male_90d983f7:
+translate russian samantha_birthday_date_male_b87c8180:
     samantha.say "Я тебе нравлюсь... и ты мне нравишься..."
 
 # ch/samantha/events.rpy:8256
@@ -25478,7 +25410,7 @@ translate russian samantha_birthday_date_male_3c1e6db1:
     "И, кажется, это немного её отрезвляет."
 
 # ch/samantha/events.rpy:8283
-translate russian samantha_birthday_date_male_e6b992c3:
+translate russian samantha_birthday_date_male_8eeceafb:
     samantha.say "Ох... моя голова!"
 
 # ch/samantha/events.rpy:8285
@@ -25734,11 +25666,11 @@ translate russian samantha_birthday_sex_4168cc09:
     "Сэм тихо стонет, почти мяукая от удовольствия."
 
 # ch/samantha/events.rpy:8401
-translate russian samantha_birthday_sex_a86f27af:
+translate russian samantha_birthday_sex_dad496f6:
     samantha.say "О-о-ох... ох..."
 
 # ch/samantha/events.rpy:8402
-translate russian samantha_birthday_sex_f76005c0:
+translate russian samantha_birthday_sex_683e3634:
     samantha.say "Да... пожалуйста..."
 
 # ch/samantha/events.rpy:8403
@@ -25902,11 +25834,11 @@ translate russian samantha_exclusive_cheated_be5d933c:
     samantha.say "Ну как тебе, лживая ты мразь?!"
 
 # ch/samantha/events.rpy:8477
-translate russian samantha_exclusive_cheated_65096d74:
+translate russian samantha_exclusive_cheated_ab477284:
     mike.say "А... что..."
 
 # ch/samantha/events.rpy:8478
-translate russian samantha_exclusive_cheated_aa9d6e80:
+translate russian samantha_exclusive_cheated_f5976158:
     mike.say "Э... эй..."
 
 # ch/samantha/events.rpy:8479
@@ -25994,11 +25926,11 @@ translate russian samantha_exclusive_cheated_07d00e58:
     samantha.say "Но теперь я вижу тебя с ней и знаю, что не могу!"
 
 # ch/samantha/events.rpy:8511
-translate russian samantha_exclusive_cheated_50987e37:
+translate russian samantha_exclusive_cheated_da1a4a24:
     mike.say "Я... прости, Кексик."
 
 # ch/samantha/events.rpy:8513
-translate russian samantha_exclusive_cheated_61e12e13:
+translate russian samantha_exclusive_cheated_294f669b:
     mike.say "Я... прости, Сэм."
 
 # ch/samantha/events.rpy:8515
@@ -26358,7 +26290,7 @@ translate russian samantha_pregnant_request_4c82e648:
     "Она кивает с немного печальным видом."
 
 # ch/samantha/events.rpy:8639
-translate russian samantha_pregnant_request_cc5d3829:
+translate russian samantha_pregnant_request_aeb17a9b:
     samantha.say "В этом... действительно есть смысл, [lssb_samantha.hero_name()]."
 
 # ch/samantha/events.rpy:8640
@@ -26410,7 +26342,7 @@ translate russian samantha_side_event_01_8bacfac4:
     mike.say "Да, Сэм, получил."
 
 # ch/samantha/events.rpy:8663
-translate russian samantha_side_event_01_112aad5b:
+translate russian samantha_side_event_01_442e7282:
     samantha.say "Ну... ты можешь... зайти, я имею в виду?"
 
 # ch/samantha/events.rpy:8666
@@ -26438,7 +26370,7 @@ translate russian samantha_side_event_01_ebd937d1:
     samantha.say "И вернётся он ещё нескоро."
 
 # ch/samantha/events.rpy:8676
-translate russian samantha_side_event_01_008c5858:
+translate russian samantha_side_event_01_183788f3:
     mike.say "Эм... ладно, значит, ничто не мешает мне заглянуть к тебе."
 
 # ch/samantha/events.rpy:8677
@@ -26514,7 +26446,7 @@ translate russian samantha_side_event_01_22641c00:
     "Я киваю, понимая, каким параноиком, должно быть, выгляжу."
 
 # ch/samantha/events.rpy:8707
-translate russian samantha_side_event_01_ab7dc222:
+translate russian samantha_side_event_01_5d050aa8:
     mike.say "Ладно, ладно... Просто я не привык делать такое за его спиной!"
 
 # ch/samantha/events.rpy:8709
@@ -26614,7 +26546,7 @@ translate russian samantha_side_event_01_77d65967:
     "Никакой реакции."
 
 # ch/samantha/events.rpy:8747
-translate russian samantha_side_event_01_a8f0559e:
+translate russian samantha_side_event_01_b899a03c:
     samantha.say "Тут [lssb_samantha.hero_name()]... и он сейчас оттрахает меня до беспамятства прямо у тебя на глазах!"
 
 # ch/samantha/events.rpy:8748
@@ -26762,7 +26694,7 @@ translate russian samantha_side_event_01_9bbe3a43:
     "Я ускоряюсь, спеша ещё сильнее разжечь её."
 
 # ch/samantha/events.rpy:8796
-translate russian samantha_side_event_01_bf8cd51d:
+translate russian samantha_side_event_01_0209b338:
     samantha.say "Боже, как хорошо... Я хочу ещё жёстче, [lssb_samantha.hero_name()]!"
 
 # ch/samantha/events.rpy:8797
@@ -26778,7 +26710,7 @@ translate russian samantha_side_event_01_f5a40e1d:
     samantha.say "Трахай меня так сильно, чтобы я совсем о нём забыла..."
 
 # ch/samantha/events.rpy:8801
-translate russian samantha_side_event_01_485f7620:
+translate russian samantha_side_event_01_dddd1f10:
     samantha.say "Вытрахай... все... мысли... из... головы!"
 
 # ch/samantha/events.rpy:8802
@@ -26850,7 +26782,7 @@ translate russian samantha_side_event_01_3a10652e:
     "Неудивительно, что Сэм это приводит в восторг."
 
 # ch/samantha/events.rpy:8829
-translate russian samantha_side_event_01_1a69e289:
+translate russian samantha_side_event_01_e3313aec:
     samantha.say "Попробуй, ублюдок... вот каков на вкус парень, который трахает твою жену!"
 
 # ch/samantha/events.rpy:8832
@@ -26882,7 +26814,7 @@ translate russian samantha_side_event_01_3a7d8f0a:
     samantha.say "И если ты не возьмёшь меня сейчас, если не докажешь, что ДЕЙСТВИТЕЛЬНО любишь меня..."
 
 # ch/samantha/events.rpy:8839
-translate russian samantha_side_event_01_a5e27b03:
+translate russian samantha_side_event_01_55de9afa:
     samantha.say "Боюсь, я могу... могу... снова убить!"
 
 # ch/samantha/events.rpy:8841
@@ -26942,20 +26874,16 @@ translate russian samantha_side_event_01_db4e894e:
     "Я в ужасе смотрю, как она позволяет моей сперме вытекать из неё и капать на его уже застывающие черты."
 
 # ch/samantha/events.rpy:8869
-translate russian samantha_side_event_01_9e8161e5:
+translate russian samantha_side_event_01_4d7dd4e1:
     mike.say "Господи, Сэм... ты чудовище!"
 
 # ch/samantha/events.rpy:8872
-translate russian samantha_side_event_01_50c1567d:
+translate russian samantha_side_event_01_0c8e953c:
     samantha.say "Ах да... насчёт этого!"
 
 # ch/samantha/events.rpy:8873
 translate russian samantha_side_event_01_ea3231e1:
     samantha.say "Забавная штука: видишь ли, на самом деле он не мёртв."
-
-# ch/samantha/events.rpy:8874
-translate russian samantha_side_event_01_52473aca:
-    mike.say "ЧТО?!" with hpunch
 
 # ch/samantha/events.rpy:8876
 translate russian samantha_side_event_01_559fc46e:
@@ -27082,11 +27010,11 @@ translate russian samantha_side_event_02_4371f61c:
     "Могу лишь предположить, что она нарочно говорила так громко, чтобы Райан не услышал следующих слов."
 
 # ch/samantha/events.rpy:8933
-translate russian samantha_side_event_02_1fb5f00d:
+translate russian samantha_side_event_02_09a0d522:
     samantha.say "Это была ЕГО идея... но я рада, что ты согласился прийти."
 
 # ch/samantha/events.rpy:8934
-translate russian samantha_side_event_02_b3bd719b:
+translate russian samantha_side_event_02_568cd353:
     samantha.say "После свадьбы... мне очень казалось, что между нами осталось кое-что незаконченное... понимаешь?"
 
 # ch/samantha/events.rpy:8935
@@ -27098,7 +27026,7 @@ translate russian samantha_side_event_02_9f15e733:
     mike.say "Послушай, Сэм, если это создаст хоть какую-то неловкость..."
 
 # ch/samantha/events.rpy:8938
-translate russian samantha_side_event_02_7beaf1c3:
+translate russian samantha_side_event_02_851bf467:
     samantha.say "Нет, нет... всё нормально, правда... пожалуйста, не уходи."
 
 # ch/samantha/events.rpy:8939
@@ -27130,7 +27058,7 @@ translate russian samantha_side_event_02_ea365659:
     "Господи, ну и придурок."
 
 # ch/samantha/events.rpy:8950
-translate russian samantha_side_event_02_ec45376f:
+translate russian samantha_side_event_02_469a85bf:
     mike.say "Привет, Райан... рад тебя видеть."
 
 # ch/samantha/events.rpy:8952
@@ -27146,7 +27074,7 @@ translate russian samantha_side_event_02_52c65242:
     mike.say "Что?!"
 
 # ch/samantha/events.rpy:8957
-translate russian samantha_side_event_02_316886cb:
+translate russian samantha_side_event_02_82574a19:
     ryan.say "Ну, в смысле пообщаться... поболтать и обменяться сплетнями!"
 
 # ch/samantha/events.rpy:8958
@@ -27162,7 +27090,7 @@ translate russian samantha_side_event_02_62abcc17:
     samantha.say "Мне нужно проверить, как там еда."
 
 # ch/samantha/events.rpy:8962
-translate russian samantha_side_event_02_3dc78b05:
+translate russian samantha_side_event_02_0c03c29a:
     samantha.say "Ты ведь сам проведёшь экскурсию? Наш гость — [lssb_samantha.hero_name()], ты справишься... дорогой?"
 
 # ch/samantha/events.rpy:8963
@@ -27170,7 +27098,7 @@ translate russian samantha_side_event_02_b651e5f6:
     "В якобы ласковом обращении слышится лёгкая примесь яда, но Райан либо её не замечает, либо предпочитает полностью игнорировать."
 
 # ch/samantha/events.rpy:8964
-translate russian samantha_side_event_02_6be33ab0:
+translate russian samantha_side_event_02_b9938fb8:
     ryan.say "Конечно, дорогая... мы тут с тобой разберёмся, правда, [lssb_samantha.hero_name()]? Не волнуйся."
 
 # ch/samantha/events.rpy:8966
@@ -27262,7 +27190,7 @@ translate russian samantha_side_event_02_33c95177:
     "Готовка ещё только начиналась, так что сказать, будто вкусно пахнет, не получилось бы даже ради комплимента."
 
 # ch/samantha/events.rpy:8999
-translate russian samantha_side_event_02_a5188250:
+translate russian samantha_side_event_02_0ccae1d8:
     samantha.say "Уф... я уж думала, ты никогда не оторвёшься от этого напыщенного болтуна!"
 
 # ch/samantha/events.rpy:9001
@@ -27310,11 +27238,11 @@ translate russian samantha_side_event_02_48845e68:
     samantha.say "Когда Райан засыпал, я запускала пальцы..."
 
 # ch/samantha/events.rpy:9021
-translate russian samantha_side_event_02_b283e123:
+translate russian samantha_side_event_02_b99f905c:
     mike.say "Так, ладно... ладно, Кексик, я всё понял!"
 
 # ch/samantha/events.rpy:9023
-translate russian samantha_side_event_02_b054217a:
+translate russian samantha_side_event_02_9cf34a40:
     mike.say "Так, ладно... ладно, Сэм, я всё понял!"
 
 # ch/samantha/events.rpy:9024
@@ -27350,7 +27278,7 @@ translate russian samantha_side_event_02_b92e5318:
     mike.say "Если ты хотела встретиться, могла ведь прийти ко мне?"
 
 # ch/samantha/events.rpy:9032
-translate russian samantha_side_event_02_ede3954f:
+translate russian samantha_side_event_02_40f7b1b9:
     samantha.say "Не знаю... может, я надеялась, что увижу тебя и это желание утихнет..."
 
 # ch/samantha/events.rpy:9033
@@ -27378,11 +27306,11 @@ translate russian samantha_side_event_02_18ac4b18:
     "Когда поцелуй заканчивается, я немного отступаю с озадаченным видом."
 
 # ch/samantha/events.rpy:9044
-translate russian samantha_side_event_02_18df5910:
+translate russian samantha_side_event_02_e0ae7fc3:
     mike.say "Кексик... что именно это сейчас было?"
 
 # ch/samantha/events.rpy:9046
-translate russian samantha_side_event_02_4714cbbf:
+translate russian samantha_side_event_02_e013898a:
     mike.say "Сэм... что именно это сейчас было?"
 
 # ch/samantha/events.rpy:9047
@@ -27418,7 +27346,7 @@ translate russian samantha_side_event_02_414f1fe6:
     mike.say "Я помню, Сэм, я тоже там был!"
 
 # ch/samantha/events.rpy:9059
-translate russian samantha_side_event_02_84acc97f:
+translate russian samantha_side_event_02_1b11b32b:
     samantha.say "Видишь ли, я задумалась... Ты ведь мог воспользоваться тем, что я была так растеряна и подавлена."
 
 # ch/samantha/events.rpy:9060
@@ -27442,7 +27370,7 @@ translate russian samantha_side_event_02_48daf74f:
     samantha.say "Там один человек предал другого."
 
 # ch/samantha/events.rpy:9065
-translate russian samantha_side_event_02_b890d616:
+translate russian samantha_side_event_02_e976978b:
     samantha.say "А здесь двое понимают, что... что, возможно, совершили ошибку."
 
 # ch/samantha/events.rpy:9066
@@ -27454,7 +27382,7 @@ translate russian samantha_side_event_02_81382d98:
     "Признаю, в такой формулировке мне это нравится гораздо больше!"
 
 # ch/samantha/events.rpy:9068
-translate russian samantha_side_event_02_e7750d36:
+translate russian samantha_side_event_02_fbb027fb:
     mike.say "Ты всё ещё замужем за этим... как ты его назвала... «напыщенным болтуном», который сидит в соседней комнате!"
 
 # ch/samantha/events.rpy:9069
@@ -27466,7 +27394,7 @@ translate russian samantha_side_event_02_d4215a17:
     samantha.say "Поверь, я попрошу развод, как только смогу!"
 
 # ch/samantha/events.rpy:9072
-translate russian samantha_side_event_02_af4cc8ac:
+translate russian samantha_side_event_02_22d4e207:
     samantha.say "А пока... как насчёт того, чтобы трахнуть меня прямо здесь и сейчас?"
 
 # ch/samantha/events.rpy:9073
@@ -27506,11 +27434,11 @@ translate russian samantha_side_event_02_8f2c78ff:
     "Ей никогда не приходилось особенно стараться, чтобы выглядеть соблазнительно."
 
 # ch/samantha/events.rpy:9088
-translate russian samantha_side_event_02_d97d1008:
+translate russian samantha_side_event_02_558789ff:
     mike.say "Нет, Кексик... не думаю, что это хорошая идея."
 
 # ch/samantha/events.rpy:9090
-translate russian samantha_side_event_02_db0236da:
+translate russian samantha_side_event_02_62bd1a33:
     mike.say "Нет, Сэм... не думаю, что это хорошая идея."
 
 # ch/samantha/events.rpy:9092
@@ -27538,7 +27466,7 @@ translate russian samantha_side_event_02_f888e23d:
     "Сэм смотрит на меня с досадой и разочарованием."
 
 # ch/samantha/events.rpy:9100
-translate russian samantha_side_event_02_922151c3:
+translate russian samantha_side_event_02_79529d66:
     samantha.say "А-а-ах... наверное, ты прав."
 
 # ch/samantha/events.rpy:9102
@@ -27634,7 +27562,7 @@ translate russian samantha_side_event_02_7a4b4242:
     "Она глубоко вздыхает и даже начинает тяжело дышать, когда я трахаю её всё быстрее и энергичнее."
 
 # ch/samantha/events.rpy:9136
-translate russian samantha_side_event_02_e2a99cb1:
+translate russian samantha_side_event_02_e2986f34:
     samantha.say "Ах... боюсь, ужин будет ещё нескоро... Так почему бы тебе не поиграть со мной, пока ждёшь?"
 
 # ch/samantha/events.rpy:9138
@@ -27806,7 +27734,7 @@ translate russian samantha_ryan_dead_b011ba71:
     samantha.say "Ты всегда смотришь на меня так, словно я лучик солнца или что-то вроде того!"
 
 # ch/samantha/events.rpy:9220
-translate russian samantha_ryan_dead_3c4755b3:
+translate russian samantha_ryan_dead_e14b198f:
     "Так, спокойно... надо подумать."
 
 # ch/samantha/events.rpy:9221
@@ -27822,7 +27750,7 @@ translate russian samantha_ryan_dead_cc5c34ba:
     mike.say "С разбитым сердцем?!"
 
 # ch/samantha/events.rpy:9224
-translate russian samantha_ryan_dead_3639985f:
+translate russian samantha_ryan_dead_ebd373c3:
     mike.say "Сэм... что Райан сделал на этот раз?"
 
 # ch/samantha/events.rpy:9225
@@ -27998,7 +27926,7 @@ translate russian samantha_ryan_dead_ee0779c0:
     mike.say "Чёрт возьми, Сэм..."
 
 # ch/samantha/events.rpy:9286
-translate russian samantha_ryan_dead_c985c25d:
+translate russian samantha_ryan_dead_26dc87da:
     mike.say "Я понимаю... да, порой он был ещё тем занудой..."
 
 # ch/samantha/events.rpy:9287
@@ -28310,7 +28238,7 @@ translate russian samantha_ryan_funeral_103254b5:
     samantha.say "Конечно, я понимаю, что на похоронах никто по-настоящему не в порядке..."
 
 # ch/samantha/events.rpy:9408
-translate russian samantha_ryan_funeral_270e1842:
+translate russian samantha_ryan_funeral_7262be59:
     samantha.say "Но... это ведь просто принято спрашивать, правда?"
 
 # ch/samantha/events.rpy:9409
@@ -28594,7 +28522,7 @@ translate russian samantha_ryan_funeral_3fbbef94:
     "Как обычно, от благодарности Сэм я рискую совсем растаять."
 
 # ch/samantha/events.rpy:9506
-translate russian samantha_ryan_funeral_3cc7e7d6:
+translate russian samantha_ryan_funeral_7e68a5ad:
     mike.say "Н... не за что..."
 
 # ch/samantha/events.rpy:9507
@@ -28786,7 +28714,7 @@ translate russian samantha_ryan_funeral_missed_9b86f051:
     mike.say "Я ведь это понимаю."
 
 # ch/samantha/events.rpy:9576
-translate russian samantha_ryan_funeral_missed_eaa432e1:
+translate russian samantha_ryan_funeral_missed_ed1ff1e0:
     mike.say "Просто... кое-что случилось, вот и всё."
 
 # ch/samantha/events.rpy:9577
@@ -29086,7 +29014,7 @@ translate russian samantha_talk_confess_male_dd0cf63f:
     samantha.say "Просто..."
 
 # ch/samantha/events.rpy:9672
-translate russian samantha_talk_confess_male_ceb793fc:
+translate russian samantha_talk_confess_male_6cf08339:
     samantha.say "После... после похорон Райана..."
 
 # ch/samantha/events.rpy:9674
@@ -29134,7 +29062,7 @@ translate russian samantha_talk_confess_male_b3ac7da0:
     mike.say "Кого, меня?"
 
 # ch/samantha/events.rpy:9689
-translate russian samantha_talk_confess_male_d25f3205:
+translate russian samantha_talk_confess_male_7253eb08:
     mike.say "Да нет... я совершенно в порядке, Сэм."
 
 # ch/samantha/events.rpy:9691
@@ -29262,7 +29190,7 @@ translate russian samantha_talk_confess_male_f2717732:
     mike.say "Ну да, посмотрим, останешься ли ты моей подругой, когда услышишь!"
 
 # ch/samantha/events.rpy:9733
-translate russian samantha_talk_confess_male_9b4e19d7:
+translate russian samantha_talk_confess_male_27a696be:
     mike.say "Ладно... итак... ты ведь знаешь, что случилось с Райаном?"
 
 # ch/samantha/events.rpy:9735
@@ -29282,7 +29210,7 @@ translate russian samantha_talk_confess_male_0c820369:
     samantha.say "Как я вообще могу такое забыть?"
 
 # ch/samantha/events.rpy:9740
-translate russian samantha_talk_confess_male_a1147b38:
+translate russian samantha_talk_confess_male_4b0e0ce7:
     mike.say "Да, но... на самом деле он не сам вышел."
 
 # ch/samantha/events.rpy:9742
@@ -29302,7 +29230,7 @@ translate russian samantha_talk_confess_male_f89e1165:
     mike.say "Но он не сам вышел перед ним на дорогу."
 
 # ch/samantha/events.rpy:9746
-translate russian samantha_talk_confess_male_91f3989b:
+translate russian samantha_talk_confess_male_cd53ecbb:
     samantha.say "Он... не сам?"
 
 # ch/samantha/events.rpy:9747
@@ -29314,7 +29242,7 @@ translate russian samantha_talk_confess_male_45c817f8:
     "Глаза Сэм раскрываются всё шире."
 
 # ch/samantha/events.rpy:9750
-translate russian samantha_talk_confess_male_b28e0e44:
+translate russian samantha_talk_confess_male_11d5ff65:
     samantha.say "Но... откуда ты можешь это знать?"
 
 # ch/samantha/events.rpy:9751
@@ -29342,7 +29270,7 @@ translate russian samantha_talk_confess_male_93d84c7e:
     samantha.say "Пожалуйста, скажи, что ты шутишь."
 
 # ch/samantha/events.rpy:9759
-translate russian samantha_talk_confess_male_e9d02546:
+translate russian samantha_talk_confess_male_1175cb51:
     samantha.say "Что это очень... ОЧЕНЬ... неудачная шутка?"
 
 # ch/samantha/events.rpy:9760
@@ -29438,7 +29366,7 @@ translate russian samantha_talk_confess_male_d765d6b5:
     samantha.say "Я всегда считала тебя другом Райана!"
 
 # ch/samantha/events.rpy:9791
-translate russian samantha_talk_confess_male_8a1f5334:
+translate russian samantha_talk_confess_male_9f94ffd7:
     samantha.say "То есть... я понимаю, с ним иногда было непросто..."
 
 # ch/samantha/events.rpy:9792
@@ -29478,7 +29406,7 @@ translate russian samantha_talk_confess_male_d5217368:
     "Придётся серьёзно постараться, чтобы убедить её в своей правоте."
 
 # ch/samantha/events.rpy:9804
-translate russian samantha_talk_confess_male_710e2776:
+translate russian samantha_talk_confess_male_fd62675f:
     "Погоди... а как же коробка с фотографиями, которую я нашёл на чердаке?"
 
 # ch/samantha/events.rpy:9809
@@ -29550,7 +29478,7 @@ translate russian samantha_talk_confess_male_bde0eac1:
     "Но когда она заглядывает внутрь, я невольно вздрагиваю от того, как меняется её лицо."
 
 # ch/samantha/events.rpy:9832
-translate russian samantha_talk_confess_male_7c6b2985:
+translate russian samantha_talk_confess_male_39a99183:
     samantha.say "Это фотографии девушек... голых девушек!"
 
 # ch/samantha/events.rpy:9833
@@ -29574,7 +29502,7 @@ translate russian samantha_talk_confess_male_9789ddfb:
     samantha.say "Они..."
 
 # ch/samantha/events.rpy:9841
-translate russian samantha_talk_confess_male_8e2aa5e6:
+translate russian samantha_talk_confess_male_cd761384:
     samantha.say "О... о боже!"
 
 # ch/samantha/events.rpy:9842
@@ -29662,7 +29590,7 @@ translate russian samantha_talk_confess_male_0b62fb67_1:
     samantha.say "[lssb_samantha.hero_name()]…"
 
 # ch/samantha/events.rpy:9887
-translate russian samantha_talk_confess_male_550e3452:
+translate russian samantha_talk_confess_male_6a52edc1:
     samantha.say "Я... рада, что ты это сделал."
 
 # ch/samantha/events.rpy:9888
@@ -29690,7 +29618,7 @@ translate russian samantha_talk_confess_male_5b9104ef:
     samantha.say "Но очевидно, что насчёт Райана ты был прав."
 
 # ch/samantha/events.rpy:9894
-translate russian samantha_talk_confess_male_64510ab8:
+translate russian samantha_talk_confess_male_707b009e:
     samantha.say "И... что ж... он получил по заслугам."
 
 # ch/samantha/events.rpy:9896
@@ -29754,7 +29682,7 @@ translate russian samantha_talk_confess_male_5b9104ef_1:
     samantha.say "Но очевидно, что насчёт Райана ты был прав."
 
 # ch/samantha/events.rpy:9915
-translate russian samantha_talk_confess_male_64510ab8_1:
+translate russian samantha_talk_confess_male_707b009e_1:
     samantha.say "И... что ж... он получил по заслугам."
 
 # ch/samantha/events.rpy:9917
@@ -31082,15 +31010,15 @@ translate russian samantha_fuck_date_intro_male_5f62ec3e:
     samantha.say "Хочешь меня о чём-то спросить?"
 
 # ch/samantha/fuck.rpy:552
-translate russian samantha_fuck_date_intro_male_e7b00f55:
+translate russian samantha_fuck_date_intro_male_014e56d4:
     mike.say "Я... хотел узнать, не..."
 
 # ch/samantha/fuck.rpy:553
-translate russian samantha_fuck_date_intro_male_b0a9d878:
+translate russian samantha_fuck_date_intro_male_f0412212:
     mike.say "Ну... не хочешь ли ты пойти ко мне в комнату?"
 
 # ch/samantha/fuck.rpy:554
-translate russian samantha_fuck_date_intro_male_c87aa761:
+translate russian samantha_fuck_date_intro_male_7ae941c7:
     mike.say "То есть... если не хочешь, то не надо!"
 
 # ch/samantha/fuck.rpy:555
@@ -31154,7 +31082,7 @@ translate russian samantha_fuck_date_intro_male_a3794572:
     "Пока Сэм закрывает за мной дверь, я слушаю её с открытым ртом."
 
 # ch/samantha/fuck.rpy:576
-translate russian samantha_fuck_date_intro_male_b47a9d79:
+translate russian samantha_fuck_date_intro_male_8ffe9e18:
     mike.say "П... правда?"
 
 # ch/samantha/fuck.rpy:577
@@ -31282,11 +31210,11 @@ translate russian samantha_fuck_date_intro_male_df940e74:
     samantha.say "Тебе тоже нравится моя маленькая фантазия, да?"
 
 # ch/samantha/fuck.rpy:617
-translate russian samantha_fuck_date_intro_male_17540070:
+translate russian samantha_fuck_date_intro_male_a210fe40:
     mike.say "Д... да, Кексик!"
 
 # ch/samantha/fuck.rpy:619
-translate russian samantha_fuck_date_intro_male_ce9d2d33:
+translate russian samantha_fuck_date_intro_male_6136dd0b:
     mike.say "Д... да, Сэм!"
 
 # ch/samantha/fuck.rpy:620
@@ -31462,7 +31390,7 @@ translate russian samantha_fuck_date_intro_male_56d47ccb:
     "А затем начинает пятить меня к кровати."
 
 # ch/samantha/fuck.rpy:683
-translate russian samantha_fuck_date_intro_male_4741de89:
+translate russian samantha_fuck_date_intro_male_023323c6:
     samantha.say "О нет... ни за что!"
 
 # ch/samantha/fuck.rpy:684
@@ -31482,7 +31410,7 @@ translate russian samantha_fuck_date_intro_male_3a22b7dc:
     "И только от этих слов я ещё на мгновение продолжаю сопротивляться."
 
 # ch/samantha/fuck.rpy:689
-translate russian samantha_fuck_date_intro_male_ddbfc543:
+translate russian samantha_fuck_date_intro_male_1f9f7f2f:
     mike.say "Ч... что ты сказала?!"
 
 # ch/samantha/fuck.rpy:690
@@ -31825,17 +31753,9 @@ translate russian samantha_fuck_date_bj_9ba31cca:
 translate russian samantha_fuck_date_bj_0f4cbde2:
     "Когда она выгибается, украшение в пупке блестит передо мной, словно крошечный маяк."
 
-# ch/samantha/fuck.rpy:857
-translate russian samantha_fuck_date_bj_e32fc8ed:
-    "При этом она всё время поглядывает на меня, убеждаясь, что мне хорошо."
-
 # ch/samantha/fuck.rpy:858
 translate russian samantha_fuck_date_bj_8c891d95:
     "Она издаёт громкие, жадные звуки, сопровождая каждое действие ещё более громким, возможно, наигранным стоном."
-
-# ch/samantha/fuck.rpy:859
-translate russian samantha_fuck_date_bj_b62ec1cc:
-    "Наверное, старается сделать так, чтобы мне было хорошо."
 
 # ch/samantha/fuck.rpy:860
 translate russian samantha_fuck_date_bj_dfcd27b9:
@@ -31909,10 +31829,6 @@ translate russian samantha_fuck_date_bj_8e58477f:
 translate russian samantha_fuck_date_bj_cefb57f1:
     "Она вытирает уголок рта большим пальцем; когда она сглатывает, обручальное кольцо вспыхивает."
 
-# ch/samantha/fuck.rpy:898
-translate russian samantha_fuck_date_bj_12b182c6:
-    samantha.say "Ого... [lssb_samantha.hero_name()], тебе, наверное, очень понравилось! Я так рада доставить тебе удовольствие!"
-
 # ch/samantha/fuck.rpy:901
 translate russian samantha_fuck_date_bj_259d77de:
     "Я тянусь к её волосам и нежно глажу по голове."
@@ -31941,17 +31857,9 @@ translate russian samantha_fuck_date_bj_ed883826:
 translate russian samantha_fuck_date_bj_ba75c151:
     "Одна капля сползает с подбородка на горло; она подхватывает её двумя пальцами и облизывает их дочиста."
 
-# ch/samantha/fuck.rpy:914
-translate russian samantha_fuck_date_bj_df500d70:
-    samantha.say "Тебе нравится видеть меня такой, [lssb_samantha.hero_name()]? Ну, я рада, что смогла довести тебя до конца!"
-
 # ch/samantha/fuck.rpy:915
 translate russian samantha_fuck_date_bj_692f19cd:
     mike.say "Ты выглядишь прекрасно."
-
-# ch/samantha/fuck.rpy:916
-translate russian samantha_fuck_date_bj_7d87ae80:
-    samantha.say "Пока тебе нравится, я с радостью буду так выглядеть. Хорошо?"
 
 # ch/samantha/fuck.rpy:917
 translate russian samantha_fuck_date_bj_3ddf812b:
@@ -32237,29 +32145,9 @@ translate russian samantha_fuck_date_bj_ea4516c9:
 translate russian samantha_fuck_date_bj_c2d60648:
     "Ещё одна капля ползёт ниже; она ведёт за ней пальцем к округлому животу, мягко и удивлённо улыбаясь."
 
-# ch/samantha/fuck.rpy:1024
-translate russian samantha_fuck_date_bj_b7200e89:
-    "И всё это время она ни на секунду не перестаёт улыбаться!"
-
-# ch/samantha/fuck.rpy:1027
-translate russian samantha_fuck_date_bj_f004e532:
-    "Не знаю, понимает ли Сэм, что происходит."
-
-# ch/samantha/fuck.rpy:1028
-translate russian samantha_fuck_date_bj_10f362d5:
-    "На миг я беспокоюсь, что кончу ей в рот."
-
-# ch/samantha/fuck.rpy:1029
-translate russian samantha_fuck_date_bj_9ce03db9:
-    "Но в ту же секунду она показывает, что готова."
-
 # ch/samantha/fuck.rpy:1033
 translate russian samantha_fuck_date_bj_f4e787e8:
     "Когда я изливаюсь, Сэм словно собирается с силами."
-
-# ch/samantha/fuck.rpy:1035
-translate russian samantha_fuck_date_bj_9d9dc93c:
-    "И каким-то образом оказывается готова со всем справиться."
 
 # ch/samantha/fuck.rpy:1039
 translate russian samantha_fuck_date_bj_258ec123:
@@ -32269,17 +32157,9 @@ translate russian samantha_fuck_date_bj_258ec123:
 translate russian samantha_fuck_date_bj_a7d7a04e:
     "Она даёт сперме собраться на языке, показывает её с озорной улыбкой, затем проглатывает и слизывает остатки."
 
-# ch/samantha/fuck.rpy:1043
-translate russian samantha_fuck_date_bj_666a3425:
-    "Сэм без затруднений проглатывает всё, что я могу ей дать."
-
 # ch/samantha/fuck.rpy:1046
 translate russian samantha_fuck_date_bj_dcec6949:
     "Медленным движением языка она слизывает с губы последнюю перламутровую нить; вытирая рот, сверкает обручальным кольцом."
-
-# ch/samantha/fuck.rpy:1048
-translate russian samantha_fuck_date_bj_c720be4f:
-    "Она выпускает мой член только тогда, когда я заканчиваю, и довольно переводит дыхание!"
 
 # ch/samantha/fuck.rpy:1051
 translate russian samantha_fuck_date_bj_3909ba22:
@@ -33066,7 +32946,7 @@ translate russian samantha_fuck_date_cunnilingus_83988a19:
     samantha.say "Что ты..."
 
 # ch/samantha/fuck.rpy:1402
-translate russian samantha_fuck_date_cunnilingus_7b5cfee8:
+translate russian samantha_fuck_date_cunnilingus_c18a4a7a:
     samantha.say "О-о-ох... невероятно!"
 
 # ch/samantha/fuck.rpy:1404
@@ -33162,7 +33042,7 @@ translate russian samantha_fuck_date_cunnilingus_1b2fb7e0:
     samantha.say "О-о-ох..."
 
 # ch/samantha/fuck.rpy:1449
-translate russian samantha_fuck_date_cunnilingus_75d0f2be:
+translate russian samantha_fuck_date_cunnilingus_dd31af6d:
     samantha.say "Блядь... как же ХОРОШО!"
 
 # ch/samantha/fuck.rpy:1450
@@ -33254,7 +33134,7 @@ translate russian samantha_fuck_date_cunnilingus_62f49df0:
     samantha.say "А-а-ах..."
 
 # ch/samantha/fuck.rpy:1488
-translate russian samantha_fuck_date_cunnilingus_41ac35b5:
+translate russian samantha_fuck_date_cunnilingus_813c907a:
     samantha.say "Чёрт... как же ХОРОШО!"
 
 # ch/samantha/fuck.rpy:1489
@@ -33290,7 +33170,7 @@ translate russian samantha_fuck_date_cunnilingus_d081fea3:
     samantha.say "Что это..."
 
 # ch/samantha/fuck.rpy:1501
-translate russian samantha_fuck_date_cunnilingus_074e4faf:
+translate russian samantha_fuck_date_cunnilingus_c8b49153:
     samantha.say "М-м-м... о боже..."
 
 # ch/samantha/fuck.rpy:1502
@@ -33468,10 +33348,6 @@ translate russian samantha_date_fuck_beads_efa7b456:
 # ch/samantha/fuck.rpy:1572
 translate russian samantha_date_fuck_beads_8378dbae:
     samantha.say "Идеально. Он говорит «идеально» о моей маленькой сморщенной дырочке. Какой же ты странный и чудесный, [lssb_samantha.hero_name()]."
-
-# ch/samantha/fuck.rpy:1573
-translate russian samantha_date_fuck_beads_d93e842b:
-    mike.say "И это говорит женщина, которая выставила её передо мной во вторник."
 
 # ch/samantha/fuck.rpy:1574
 translate russian samantha_date_fuck_beads_71add2f9:
@@ -34202,7 +34078,7 @@ translate russian samantha_fuck_date_doggy_8bd63939_4:
     samantha.say "Ох, [lssb_samantha.hero_name()], пожалуйста!"
 
 # ch/samantha/fuck.rpy:1913
-translate russian samantha_fuck_date_doggy_15025e6e:
+translate russian samantha_fuck_date_doggy_620a0f6f:
     samantha.say "Ух... ух... ты... ты кончил в меня!"
 
 # ch/samantha/fuck.rpy:1914
@@ -34214,7 +34090,7 @@ translate russian samantha_fuck_date_doggy_ff141188:
     "Когда она это говорит, я всё ещё внутри неё."
 
 # ch/samantha/fuck.rpy:1917
-translate russian samantha_fuck_date_doggy_b1f89206:
+translate russian samantha_fuck_date_doggy_355a27ac:
     mike.say "Что тут скажешь... хотел оставить тебе что-нибудь на память!"
 
 # ch/samantha/fuck.rpy:1918
@@ -34342,7 +34218,7 @@ translate russian samantha_fuck_date_reverse_cowgirl_83988a19:
     samantha.say "Что ты..."
 
 # ch/samantha/fuck.rpy:1974
-translate russian samantha_fuck_date_reverse_cowgirl_72946ada:
+translate russian samantha_fuck_date_reverse_cowgirl_15fe77e8:
     samantha.say "Ох... о блядь!"
 
 # ch/samantha/fuck.rpy:1976
@@ -34798,7 +34674,7 @@ translate russian samantha_fuck_date_reverse_cowgirl_027a50ad:
     samantha.say "Продолжай..."
 
 # ch/samantha/fuck.rpy:2206
-translate russian samantha_fuck_date_reverse_cowgirl_3b24658d:
+translate russian samantha_fuck_date_reverse_cowgirl_f310b932:
     samantha.say "Я пью... таблетки!"
 
 # ch/samantha/fuck.rpy:2207
@@ -34830,7 +34706,7 @@ translate russian samantha_fuck_date_reverse_cowgirl_027a50ad_1:
     samantha.say "Продолжай..."
 
 # ch/samantha/fuck.rpy:2224
-translate russian samantha_fuck_date_reverse_cowgirl_ab3e9210:
+translate russian samantha_fuck_date_reverse_cowgirl_4b83063c:
     samantha.say "Я... беременна..."
 
 # ch/samantha/fuck.rpy:2225
@@ -35022,7 +34898,7 @@ translate russian samantha_fuck_date_cowgirl_52e2390d:
     "Услышав мои слова, Сэм широко раскрывает глаза."
 
 # ch/samantha/fuck.rpy:2318
-translate russian samantha_fuck_date_cowgirl_02a51e3f:
+translate russian samantha_fuck_date_cowgirl_22031f28:
     samantha.say "Ого... такого в моей фантазии не было!"
 
 # ch/samantha/fuck.rpy:2319
@@ -35402,11 +35278,11 @@ translate russian samantha_fuck_date_cowgirl_2d973952:
     samantha.say "О да..."
 
 # ch/samantha/fuck.rpy:2536
-translate russian samantha_fuck_date_cowgirl_c59fbbd8:
+translate russian samantha_fuck_date_cowgirl_05ba6441:
     samantha.say "Вот... вот так..."
 
 # ch/samantha/fuck.rpy:2537
-translate russian samantha_fuck_date_cowgirl_d7f9a50c:
+translate russian samantha_fuck_date_cowgirl_27e2280c:
     samantha.say "Я... всегда надеялась..."
 
 # ch/samantha/fuck.rpy:2539
@@ -35958,7 +35834,7 @@ translate russian samantha_fuck_date_missionary_63484f79:
     "И я не собираюсь идти ей навстречу, останавливаться и слезать."
 
 # ch/samantha/fuck.rpy:2911
-translate russian samantha_fuck_date_missionary_1703e325:
+translate russian samantha_fuck_date_missionary_77a6214c:
     samantha.say "Ах... ах... ты сейчас... кончишь в меня..."
 
 # ch/samantha/fuck.rpy:2912
@@ -35982,7 +35858,7 @@ translate russian samantha_fuck_date_missionary_4b9094a6:
     samantha.say "О БЛЯДЬ!"
 
 # ch/samantha/fuck.rpy:2923
-translate russian samantha_fuck_date_missionary_820c612a:
+translate russian samantha_fuck_date_missionary_9ca6f45c:
     samantha.say "О ДА... ТРАХНИ МЕНЯ... ПОЖАЛУЙСТА!!!"
 
 # ch/samantha/fuck.rpy:2925
@@ -36018,7 +35894,7 @@ translate russian samantha_fuck_date_missionary_63484f79_1:
     "И я не собираюсь идти ей навстречу, останавливаться и слезать."
 
 # ch/samantha/fuck.rpy:2936
-translate russian samantha_fuck_date_missionary_1703e325_1:
+translate russian samantha_fuck_date_missionary_77a6214c_1:
     samantha.say "Ах... ах... ты сейчас... кончишь в меня..."
 
 # ch/samantha/fuck.rpy:2937
@@ -36038,7 +35914,7 @@ translate russian samantha_fuck_date_missionary_4b9094a6_1:
     samantha.say "О БЛЯДЬ!"
 
 # ch/samantha/fuck.rpy:2947
-translate russian samantha_fuck_date_missionary_820c612a_1:
+translate russian samantha_fuck_date_missionary_9ca6f45c_1:
     samantha.say "О ДА... ТРАХНИ МЕНЯ... ПОЖАЛУЙСТА!!!"
 
 # ch/samantha/fuck.rpy:2949
@@ -36102,7 +35978,7 @@ translate russian samantha_fuck_date_missionary_63484f79_2:
     "И я не собираюсь идти ей навстречу, останавливаться и слезать."
 
 # ch/samantha/fuck.rpy:2969
-translate russian samantha_fuck_date_missionary_1703e325_2:
+translate russian samantha_fuck_date_missionary_77a6214c_2:
     samantha.say "Ах... ах... ты сейчас... кончишь в меня..."
 
 # ch/samantha/fuck.rpy:2970
@@ -36118,7 +35994,7 @@ translate russian samantha_fuck_date_missionary_9014a114:
     "Когда её ладонь хлещет меня по щеке, обручальное кольцо вспыхивает."
 
 # ch/samantha/fuck.rpy:2980
-translate russian samantha_fuck_date_missionary_15025e6e:
+translate russian samantha_fuck_date_missionary_620a0f6f:
     samantha.say "Ух... ух... ты... ты кончил в меня!"
 
 # ch/samantha/fuck.rpy:2981
@@ -36130,7 +36006,7 @@ translate russian samantha_fuck_date_missionary_ff141188:
     "Когда она это говорит, я всё ещё внутри неё."
 
 # ch/samantha/fuck.rpy:2983
-translate russian samantha_fuck_date_missionary_b1f89206:
+translate russian samantha_fuck_date_missionary_355a27ac:
     mike.say "Что тут скажешь... хотел оставить тебе что-нибудь на память!"
 
 # ch/samantha/fuck.rpy:2984
@@ -36286,7 +36162,7 @@ translate russian samantha_fuck_date_missionary_ec4150dc:
     mike.say "Какого..."
 
 # ch/samantha/fuck.rpy:3037
-translate russian samantha_fuck_date_missionary_e7849ea8:
+translate russian samantha_fuck_date_missionary_1a4b019b:
     mike.say "Ох... о блядь!"
 
 # ch/samantha/fuck.rpy:3042
@@ -36378,7 +36254,7 @@ translate russian samantha_fuck_date_missionary_437a01ea:
     mike.say "Ох, чёрт..."
 
 # ch/samantha/fuck.rpy:3080
-translate russian samantha_fuck_date_missionary_7b9cf58c:
+translate russian samantha_fuck_date_missionary_e8465126:
     mike.say "Я... я сейчас кончу!"
 
 # ch/samantha/fuck.rpy:3083
@@ -36446,7 +36322,7 @@ translate russian samantha_fuck_date_missionary_cd09cc0a:
     samantha.say "Всё хорошо..."
 
 # ch/samantha/fuck.rpy:3114
-translate russian samantha_fuck_date_missionary_7a57d639:
+translate russian samantha_fuck_date_missionary_b323429b:
     samantha.say "Я беременна... помнишь?"
 
 # ch/samantha/fuck.rpy:3115
@@ -36478,7 +36354,7 @@ translate russian samantha_fuck_date_missionary_cd09cc0a_1:
     samantha.say "Всё хорошо..."
 
 # ch/samantha/fuck.rpy:3129
-translate russian samantha_fuck_date_missionary_44f42c2c:
+translate russian samantha_fuck_date_missionary_031d3fb3:
     samantha.say "Я пью таблетки... помнишь?"
 
 # ch/samantha/fuck.rpy:3130
@@ -36546,7 +36422,7 @@ translate russian samantha_fuck_date_missionary_e89fd109:
     samantha.say "Вот будет тебе поделом, если я всё-таки забеременею!"
 
 # ch/samantha/fuck.rpy:3165
-translate russian samantha_fuck_date_missionary_b29c623c:
+translate russian samantha_fuck_date_missionary_582f2462:
     mike.say "Вот чёрт... Мне надо вытащить!"
 
 # ch/samantha/fuck.rpy:3166
@@ -36582,7 +36458,7 @@ translate russian samantha_fuck_date_missionary_5d95e60d:
     "Так мы и лежим, пока Сэм не приподнимается с улыбкой на лице."
 
 # ch/samantha/fuck.rpy:3181
-translate russian samantha_fuck_date_missionary_fe3a0757:
+translate russian samantha_fuck_date_missionary_f12d9e1b:
     mike.say "Зачем... зачем ты это сделала?"
 
 # ch/samantha/fuck.rpy:3182
@@ -36590,7 +36466,7 @@ translate russian samantha_fuck_date_missionary_aff39567:
     mike.say "Ты совсем с ума сошла?!"
 
 # ch/samantha/fuck.rpy:3184
-translate russian samantha_fuck_date_missionary_7cea7c7f:
+translate russian samantha_fuck_date_missionary_1ca14320:
     samantha.say "М-м-м... Я чувствую твоё семя внутри, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/fuck.rpy:3185
@@ -36730,7 +36606,7 @@ translate russian samantha_fuck_date_missionary_ec4150dc_1:
     mike.say "Какого..."
 
 # ch/samantha/fuck.rpy:3224
-translate russian samantha_fuck_date_missionary_e7849ea8_1:
+translate russian samantha_fuck_date_missionary_1a4b019b_1:
     mike.say "Ох... ох, блядь!"
 
 # ch/samantha/fuck.rpy:3226
@@ -36822,7 +36698,7 @@ translate russian samantha_fuck_date_missionary_437a01ea_1:
     mike.say "Ох, чёрт..."
 
 # ch/samantha/fuck.rpy:3264
-translate russian samantha_fuck_date_missionary_7b9cf58c_1:
+translate russian samantha_fuck_date_missionary_e8465126_1:
     mike.say "Я... я сейчас кончу!"
 
 # ch/samantha/fuck.rpy:3267
@@ -36906,11 +36782,11 @@ translate russian samantha_fuck_flat_doggy_7fcf9351:
     "И я стараюсь сделать вид, будто именно это и задумал с самого начала."
 
 # ch/samantha/fuck.rpy:3314
-translate russian samantha_fuck_flat_doggy_bce09b40:
+translate russian samantha_fuck_flat_doggy_621b9c9e:
     samantha.say "Ох... вот это да!"
 
 # ch/samantha/fuck.rpy:3316
-translate russian samantha_fuck_flat_doggy_250fe525:
+translate russian samantha_fuck_flat_doggy_30208426:
     samantha.say "Я... я не знала, что ты любишь такие шалости!"
 
 # ch/samantha/fuck.rpy:3317
@@ -36938,11 +36814,11 @@ translate russian samantha_fuck_flat_doggy_b3b5a600:
     "Я вхожу в её попку, а она, извиваясь, насаживается на мой член."
 
 # ch/samantha/fuck.rpy:3325
-translate russian samantha_fuck_flat_doggy_04efaf3a:
+translate russian samantha_fuck_flat_doggy_0360e12e:
     samantha.say "Да... да..."
 
 # ch/samantha/fuck.rpy:3326
-translate russian samantha_fuck_flat_doggy_b2b7c81d:
+translate russian samantha_fuck_flat_doggy_c594eabb:
     samantha.say "Как хорошо... очень хорошо!"
 
 # ch/samantha/fuck.rpy:3328
@@ -37118,15 +36994,15 @@ translate russian samantha_fuck_flat_doggy_e88070b5:
     "Но по какой-то причине я всё равно выдыхаю эти слова."
 
 # ch/samantha/fuck.rpy:3379
-translate russian samantha_fuck_flat_doggy_1a63077f:
+translate russian samantha_fuck_flat_doggy_1874b660:
     mike.say "К... Кексик..."
 
 # ch/samantha/fuck.rpy:3381
-translate russian samantha_fuck_flat_doggy_b2f56069:
+translate russian samantha_fuck_flat_doggy_bb313dac:
     mike.say "С... Сэм..."
 
 # ch/samantha/fuck.rpy:3382
-translate russian samantha_fuck_flat_doggy_c4aba016:
+translate russian samantha_fuck_flat_doggy_60cbc9e6:
     mike.say "Сейчас... сейчас!"
 
 # ch/samantha/fuck.rpy:3384
@@ -37406,7 +37282,7 @@ translate russian samantha_fuck_flat_doggy_2d973952:
     samantha.say "О да..."
 
 # ch/samantha/fuck.rpy:3488
-translate russian samantha_fuck_flat_doggy_66a3415f:
+translate russian samantha_fuck_flat_doggy_1133d9e4:
     samantha.say "Вот... именно... так!"
 
 # ch/samantha/fuck.rpy:3490
@@ -37450,11 +37326,11 @@ translate russian samantha_fuck_flat_doggy_52395826_1:
     samantha.say "М-м-м..."
 
 # ch/samantha/fuck.rpy:3503
-translate russian samantha_fuck_flat_doggy_80a318b5:
+translate russian samantha_fuck_flat_doggy_9f22f9a9:
     samantha.say "Не... не сдерживайся..."
 
 # ch/samantha/fuck.rpy:3504
-translate russian samantha_fuck_flat_doggy_2c8839fd:
+translate russian samantha_fuck_flat_doggy_84d8b9ac:
     samantha.say "Я... я хочу... жёстче!"
 
 # ch/samantha/fuck.rpy:3505
@@ -37710,7 +37586,7 @@ translate russian samantha_fuck_flat_doggy_29b1f94d:
     mike.say "Что мы наделали?!"
 
 # ch/samantha/fuck.rpy:3611
-translate russian samantha_fuck_flat_doggy_e881f33d:
+translate russian samantha_fuck_flat_doggy_3dfad791:
     samantha.say "Мы... мы облажались!"
 
 # ch/samantha/fuck.rpy:3612
@@ -37878,7 +37754,7 @@ translate russian samantha_fuck_flat_doggy_2d973952_1:
     samantha.say "О да..."
 
 # ch/samantha/fuck.rpy:3667
-translate russian samantha_fuck_flat_doggy_66a3415f_1:
+translate russian samantha_fuck_flat_doggy_1133d9e4_1:
     samantha.say "Вот... именно... так!"
 
 # ch/samantha/fuck.rpy:3668
@@ -37918,11 +37794,11 @@ translate russian samantha_fuck_flat_doggy_52395826_2:
     samantha.say "М-м-м..."
 
 # ch/samantha/fuck.rpy:3681
-translate russian samantha_fuck_flat_doggy_80a318b5_1:
+translate russian samantha_fuck_flat_doggy_9f22f9a9_1:
     samantha.say "Не... не сдерживайся..."
 
 # ch/samantha/fuck.rpy:3683
-translate russian samantha_fuck_flat_doggy_2c8839fd_1:
+translate russian samantha_fuck_flat_doggy_84d8b9ac_1:
     samantha.say "Я... я хочу... жёстче!"
 
 # ch/samantha/fuck.rpy:3684
@@ -38714,7 +38590,7 @@ translate russian samantha_fuck_bathroom_ea1671f7:
     "Сэм качает головой, словно вопрос даже не заслуживает ответа."
 
 # ch/samantha/fuck.rpy:4009
-translate russian samantha_fuck_bathroom_b841f10d:
+translate russian samantha_fuck_bathroom_e889b699:
     mike.say "Я к тому... нас могут застукать!"
 
 # ch/samantha/fuck.rpy:4010
@@ -38966,11 +38842,11 @@ translate russian samantha_fuck_bathroom_52395826:
     samantha.say "М-м-м..."
 
 # ch/samantha/fuck.rpy:4092
-translate russian samantha_fuck_bathroom_576f0c06:
+translate russian samantha_fuck_bathroom_42702873:
     samantha.say "Да... трахни меня..."
 
 # ch/samantha/fuck.rpy:4093
-translate russian samantha_fuck_bathroom_48a8daed:
+translate russian samantha_fuck_bathroom_581db8a2:
     samantha.say "Трахни меня... жёстче..."
 
 # ch/samantha/fuck.rpy:4094
@@ -39878,11 +39754,11 @@ translate russian samantha_fuck_date_beach_bec16c0f:
     samantha.say "Побудешь моим героем и попробуешь её размять?"
 
 # ch/samantha/fuck.rpy:4438
-translate russian samantha_fuck_date_beach_0700ffaa:
+translate russian samantha_fuck_date_beach_d357fb49:
     mike.say "К... конечно, Кексик."
 
 # ch/samantha/fuck.rpy:4440
-translate russian samantha_fuck_date_beach_74be7ee3:
+translate russian samantha_fuck_date_beach_e2fda37a:
     mike.say "К... конечно, Сэм."
 
 # ch/samantha/fuck.rpy:4441
@@ -39902,7 +39778,7 @@ translate russian samantha_fuck_date_beach_c306bd61:
     samantha.say "Не знаю, [lssb_samantha.hero_name()]."
 
 # ch/samantha/fuck.rpy:4445
-translate russian samantha_fuck_date_beach_4889ce36:
+translate russian samantha_fuck_date_beach_791c869d:
     samantha.say "Странно... всё время в разных местах."
 
 # ch/samantha/fuck.rpy:4446
@@ -39950,7 +39826,7 @@ translate russian samantha_fuck_date_beach_6666d538:
     "Нет, она издаёт такой чувственный звук, что слушать его — настоящая пытка!"
 
 # ch/samantha/fuck.rpy:4460
-translate russian samantha_fuck_date_beach_bda7cbd6:
+translate russian samantha_fuck_date_beach_deaec2ad:
     samantha.say "Ох... м-м-м..."
 
 # ch/samantha/fuck.rpy:4461
@@ -39994,7 +39870,7 @@ translate russian samantha_fuck_date_beach_0382033d:
     "Когда она шевелится, штанги пирсинга оставляют на полотенце две крошечные вмятинки."
 
 # ch/samantha/fuck.rpy:4472
-translate russian samantha_fuck_date_beach_e9061d4a:
+translate russian samantha_fuck_date_beach_9e98bd59:
     samantha.say "Знаешь... не то!"
 
 # ch/samantha/fuck.rpy:4473
@@ -40062,7 +39938,7 @@ translate russian samantha_fuck_date_beach_c5beb04c:
     samantha.say "Заставь меня принять тебя."
 
 # ch/samantha/fuck.rpy:4493
-translate russian samantha_fuck_date_beach_1a081ae4:
+translate russian samantha_fuck_date_beach_369fd9a3:
     mike.say "Ч... что?!"
 
 # ch/samantha/fuck.rpy:4494
@@ -40322,7 +40198,7 @@ translate russian samantha_fuck_date_beach_92a82d13:
     "Но затем согласно кивает."
 
 # ch/samantha/fuck.rpy:4580
-translate russian samantha_fuck_date_beach_f51108cc:
+translate russian samantha_fuck_date_beach_4731f028:
     samantha.say "Справедливо... тут не поспоришь."
 
 # ch/samantha/fuck.rpy:4581
@@ -40354,7 +40230,7 @@ translate russian samantha_fuck_date_beach_b1c123df:
     "Но всё-таки умудряется задать вопрос."
 
 # ch/samantha/fuck.rpy:4590
-translate russian samantha_fuck_date_beach_6878ddcc:
+translate russian samantha_fuck_date_beach_9b0af0f0:
     samantha.say "Я... кажется, мне между ягодицами набился песок!"
 
 # ch/samantha/fuck.rpy:4592
@@ -40922,11 +40798,11 @@ translate russian samantha_gift_collar_male_ca187306:
     "Я поднимаю руку, мягко прося её подождать и дать мне договорить, прежде чем возражать."
 
 # ch/samantha/gift.rpy:279
-translate russian samantha_gift_collar_male_150382dc:
+translate russian samantha_gift_collar_male_5f4ced9e:
     mike.say "Знаю... знаю, что ты скажешь, Кексик."
 
 # ch/samantha/gift.rpy:281
-translate russian samantha_gift_collar_male_362ba086:
+translate russian samantha_gift_collar_male_a974cb62:
     mike.say "Знаю... знаю, что ты скажешь, Сэм."
 
 # ch/samantha/gift.rpy:282
@@ -40958,7 +40834,7 @@ translate russian samantha_gift_collar_male_3c433016:
     mike.say "Больше никаких тайных встреч за чужими спинами и никаких секретов о наших чувствах."
 
 # ch/samantha/gift.rpy:291
-translate russian samantha_gift_collar_male_77475a61:
+translate russian samantha_gift_collar_male_fcdef57e:
     mike.say "Я... я хочу попросить тебя носить кое-что, что покажет всем: ты моя. Сделать это так, чтобы сомнений не осталось."
 
 # ch/samantha/gift.rpy:292
@@ -40986,7 +40862,7 @@ translate russian samantha_gift_collar_male_4c4bcb70:
     "Затем она пару раз моргает, и её губы снова начинают двигаться."
 
 # ch/samantha/gift.rpy:298
-translate russian samantha_gift_collar_male_7d7437c5:
+translate russian samantha_gift_collar_male_5dc40346:
     samantha.say "Н... но... [lssb_samantha.hero_name()], это же похоже на собачий ошейник?!"
 
 # ch/samantha/gift.rpy:299
@@ -41006,7 +40882,7 @@ translate russian samantha_gift_collar_male_bb3ee40d:
     "Она смотрит на меня так, будто я вдруг заговорил на иностранном языке; в глазах — непонимание."
 
 # ch/samantha/gift.rpy:305
-translate russian samantha_gift_collar_male_850fc336:
+translate russian samantha_gift_collar_male_61cd29d5:
     samantha.say "Ты просишь меня о чём... притворяться твоей собакой?!"
 
 # ch/samantha/gift.rpy:307
@@ -41098,11 +40974,11 @@ translate russian samantha_gift_collar_male_23f16b82:
     "После неловкой паузы я больше не выдерживаю."
 
 # ch/samantha/gift.rpy:339
-translate russian samantha_gift_collar_male_dc227e43:
+translate russian samantha_gift_collar_male_10c83fdb:
     mike.say "Кексик, скажи что-нибудь... пожалуйста!"
 
 # ch/samantha/gift.rpy:341
-translate russian samantha_gift_collar_male_6a192862:
+translate russian samantha_gift_collar_male_b57262aa:
     mike.say "Сэм, скажи что-нибудь... пожалуйста!"
 
 # ch/samantha/gift.rpy:342
@@ -41218,11 +41094,11 @@ translate russian samantha_ice_cream_reaction_male_38e2228c:
     "Сэм выбирает то же самое, но с другим сочетанием вкусов."
 
 # ch/samantha/reactions.rpy:9
-translate russian samantha_ice_cream_reaction_male_d9f41cf7:
+translate russian samantha_ice_cream_reaction_male_00e5ab99:
     samantha.say "М-м-м... Как же ВКУСНО!"
 
 # ch/samantha/reactions.rpy:10
-translate russian samantha_ice_cream_reaction_male_85921a92:
+translate russian samantha_ice_cream_reaction_male_81dc9e56:
     samantha.say "Ой... ой-ой-ой... а вот это уже не очень!"
 
 # ch/samantha/reactions.rpy:11
@@ -41750,7 +41626,7 @@ translate russian samantha_pet_intro_male_44f4d6e8:
     "Но потом начинаю переживать, как она отреагирует..."
 
 # ch/samantha/reactions.rpy:252
-translate russian samantha_pet_happy_male_0d6dc964:
+translate russian samantha_pet_happy_male_4ee0e860:
     samantha.say "Ох... надо же..."
 
 # ch/samantha/reactions.rpy:253
@@ -41862,7 +41738,7 @@ translate russian samantha_piercing_nipples_reaction_male_fbfe5fb6:
     samantha.say "То, чего я никогда не узнала бы, оставаясь с Райаном!"
 
 # ch/samantha/reactions.rpy:306
-translate russian samantha_piercing_navel_reaction_male_a34de41a:
+translate russian samantha_piercing_navel_reaction_male_5ee0e6a9:
     samantha.say "Хм... Я всегда хотела проколоть пупок."
 
 # ch/samantha/reactions.rpy:308
@@ -41894,11 +41770,11 @@ translate russian samantha_piercing_clit_reaction_male_bd3aacfd:
     samantha.say "Мне нравится, что благодаря тебе я открываю в себе что-то новое."
 
 # ch/samantha/reactions.rpy:322
-translate russian samantha_piercing_head_reaction_male_f5da3999:
+translate russian samantha_piercing_head_reaction_male_d85910c6:
     samantha.say "О-о... Так странно постоянно ощущать что-то во рту..."
 
 # ch/samantha/reactions.rpy:323
-translate russian samantha_piercing_head_reaction_male_2dd59f3b:
+translate russian samantha_piercing_head_reaction_male_19e22214:
     samantha.say "Боже... я не то хотела сказать... я имею в виду..."
 
 # ch/samantha/reactions.rpy:324
@@ -41922,7 +41798,7 @@ translate russian samantha_piercing_nose_reaction_male_c98c06a7:
     samantha.say "Видимо, так было до того, как я начала встречаться с тобой, [lssb_samantha.hero_name()]!"
 
 # ch/samantha/reactions.rpy:335
-translate russian samantha_movie_disliked_reaction_male_9f019834:
+translate russian samantha_movie_disliked_reaction_male_a58ee3bb:
     samantha.say "Фу... Ну и дрянной фильм, правда?"
 
 # ch/samantha/reactions.rpy:339
@@ -42094,7 +41970,7 @@ translate russian samantha_belly_caress_male_7479542d:
     mike.say "Ничего, Сэм, совсем ничего."
 
 # ch/samantha/reactions.rpy:408
-translate russian samantha_belly_caress_male_16d3c9ca:
+translate russian samantha_belly_caress_male_b5c3e989:
     mike.say "Я просто... прикусил язык..."
 
 # ch/samantha/reactions.rpy:409
@@ -42561,10 +42437,6 @@ translate russian samantha_talk_sex_male_f18502f2:
 translate russian samantha_talk_sex_male_8851cd05:
     samantha.say "Спроси ещё раз, когда я закончу получать удовольствие."
 
-# ch/samantha/talk.rpy:91
-translate russian samantha_talk_sex_male_c76d3ebe:
-    "Саманта облизывает губы."
-
 # ch/samantha/talk.rpy:93
 translate russian samantha_talk_sex_male_92b4a513:
     samantha.say "...Я скучаю по вкусу спермы..."
@@ -43010,7 +42882,7 @@ translate russian submissive_interact_samantha_male_3d131477:
     samantha.say "Чего ты хочешь, [lssb_samantha.hero_name()]?"
 
 # ch/samantha/talk.rpy:455
-translate russian submissive_interact_samantha_male_a21575bd:
+translate russian submissive_interact_samantha_male_9a10fd1d:
     mike.say "Ха... эм... да... ты слишком хорошо меня знаешь!"
 
 # ch/samantha/talk.rpy:456
@@ -43102,7 +42974,7 @@ translate russian samantha_friendly_texts_56143dbf:
     samantha_nvl "Привет! Просто пишу сказать, что твой Кексик думает о тебе!"
 
 # ch/samantha/texts.rpy:21
-translate russian samantha_friendly_texts_156fe56a:
+translate russian samantha_friendly_texts_7f9ce338:
     samantha_nvl "И, ну... я просто надеюсь..."
 
 # ch/samantha/texts.rpy:22
@@ -43386,7 +43258,7 @@ translate russian samantha_friendly_texts_male_dce0fe6f:
     samantha_nvl "Если что, это сарказм."
 
 # ch/samantha/texts.rpy:177
-translate russian samantha_flirty_texts_male_4e0e597e:
+translate russian samantha_flirty_texts_male_5232ad39:
     mchero_nvl "М-м-м... Когда я снова смогу попробовать своего Кексика?"
 
 # ch/samantha/texts.rpy:179
@@ -43402,7 +43274,7 @@ translate russian samantha_flirty_texts_male_d62e44d2:
     mchero_nvl "Потому что хочу слизать с тебя всю глазурь, Сэм!"
 
 # ch/samantha/texts.rpy:187
-translate russian samantha_flirty_texts_male_6236fadb:
+translate russian samantha_flirty_texts_male_ac702c46:
     samantha_nvl "Фу... прозвучало жутковато!"
 
 # ch/samantha/texts.rpy:188
@@ -43474,7 +43346,7 @@ translate russian samantha_flirty_texts_male_1d57bb43:
     mchero_nvl "Ты у меня в мыслях днём и ночью!"
 
 # ch/samantha/texts.rpy:239
-translate russian samantha_flirty_texts_male_facaaa9e:
+translate russian samantha_flirty_texts_male_bdb6d21e:
     samantha_nvl "Эй... может, чуть сбавишь напор?"
 
 # ch/samantha/texts.rpy:240
@@ -43538,7 +43410,7 @@ translate russian samantha_dirty_texts_male_55719a7b:
     samantha_nvl "Хуже момента ты выбрать не мог!"
 
 # ch/samantha/texts.rpy:284
-translate russian samantha_dirty_texts_male_f111241d:
+translate russian samantha_dirty_texts_male_199ff1ae:
     samantha_nvl "Ох... прекрати!"
 
 # ch/samantha/texts.rpy:285
@@ -43682,7 +43554,7 @@ translate russian samantha_dirty_texts_male_d32b2fec:
     samantha_nvl "Шанс отыграться на Райане?!"
 
 # ch/samantha/texts.rpy:396
-translate russian samantha_dirty_texts_male_73f937f8:
+translate russian samantha_dirty_texts_male_7a57a4a3:
     samantha_nvl "О да... понимаю, о чём ты!"
 
 # ch/samantha/texts.rpy:397
@@ -43726,9 +43598,13 @@ translate russian samantha_dirty_texts_male_8815cd6d:
     samantha_nvl "Я сейчас пеку, так что на мне фартук."
 
 # ch/samantha/texts.rpy:426
-translate russian samantha_dirty_texts_male_db4c8450:
+translate russian samantha_dirty_texts_male_b91ebe2c:
     samantha_nvl "Ну... и больше ничего!"
 
 # ch/samantha/texts.rpy:429
 translate russian samantha_dirty_texts_male_48500388_5:
     samantha_nvl "Из-за тебя я вся мокрая :$"
+
+# ch/samantha/events.rpy:5308
+translate russian samantha_event_B03_0dc96c50:
+    "Я ведь сказал ей «нет», но не могу же я оставить её стоять на крыльце всю ночь."

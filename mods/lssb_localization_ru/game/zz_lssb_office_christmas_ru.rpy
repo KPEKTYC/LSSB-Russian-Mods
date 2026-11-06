@@ -26,11 +26,15 @@ init 1086 python:
 screen choice(items):
     variant 'lssb_office_christmas_ru'
     style_prefix 'choice'
+    $ all_refused = bool(items) and all(choice_refused(i) for i in items)
+    $ can_leave = all_refused and SceneExit.possible()
     vbox:
         for i in items:
             $ refuse = (i.kwargs or {}).get("refuse")
-            if refuse and not refuse[0].accepts_act(refuse[1]):
+            if refuse and not refuse[0].accepts_act(refuse[1]) and (can_leave or not all_refused):
                 $ refused_act = SexAct.get(refuse[1])
                 textbutton lssb_office_christmas.caption(i.caption) action (None if refused_act.refused_now(refuse[0]) else Function(refused_act.refuse, refuse[0]))
             else:
                 textbutton lssb_office_christmas.caption(i.caption) action i.action
+        if can_leave:
+            textbutton _("Stop") action Function(SceneExit.leave)

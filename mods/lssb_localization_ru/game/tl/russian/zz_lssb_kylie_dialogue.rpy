@@ -81,7 +81,7 @@ translate russian kylie_greet_5ec62788:
     kylie.say "Добрый вечер, [lssb_kylie.hero_name()]."
 
 # ch/kylie/base.rpy:105
-translate russian kylie_greet_8a32ce06:
+translate russian kylie_greet_9ca55e73:
     kylie.say "М-м... хм... ах... как... как же я рада тебя видеть, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/base.rpy:107
@@ -389,7 +389,7 @@ translate russian kylie_bad_sweet_talk_male_42152f9f:
     kylie.say "У меня есть справки, что я не сумасшедшая!"
 
 # ch/kylie/chat.rpy:109
-translate russian kylie_bad_sweet_talk_male_1ff56ed0:
+translate russian kylie_bad_sweet_talk_male_9b9537dd:
     mike.say "Эм... может, забудем, что я это сказал?"
 
 # ch/kylie/condom.rpy:3
@@ -729,7 +729,7 @@ translate russian kylie_date_intro_halloween_male_0ffd8305:
     mike.say "Круто, Кайли... Но всё это бутафория, да?"
 
 # ch/kylie/date.rpy:22
-translate russian kylie_date_intro_halloween_male_6040c663:
+translate russian kylie_date_intro_halloween_male_ef280ec2:
     kylie.say "Эм... конечно, [lssb_kylie.hero_name()], конечно! Разумеется!"
 
 # ch/kylie/date.rpy:26
@@ -769,11 +769,11 @@ translate russian kylie_date_intro_birthday_male_e26e80e5:
     kylie.say "Что ты сейчас сказал?!"
 
 # ch/kylie/date.rpy:38
-translate russian kylie_date_intro_birthday_male_8da59e30:
+translate russian kylie_date_intro_birthday_male_a26ee80c:
     mike.say "Эм... просто поздравил с днём рождения, Кайли."
 
 # ch/kylie/date.rpy:39
-translate russian kylie_date_intro_birthday_male_da2db55e:
+translate russian kylie_date_intro_birthday_male_92c0dd60:
     mike.say "Ведь сегодня у тебя день рождения, да?"
 
 # ch/kylie/date.rpy:40
@@ -789,7 +789,7 @@ translate russian kylie_date_intro_birthday_male_7eaa1136:
     kylie.say "Всегда знала, что мой идеальный мужчина будет помнить!"
 
 # ch/kylie/date.rpy:43
-translate russian kylie_date_intro_birthday_male_19b5f23a:
+translate russian kylie_date_intro_birthday_male_edc2f29c:
     mike.say "Эм... ладно, Кайли..."
 
 # ch/kylie/date.rpy:44
@@ -801,7 +801,7 @@ translate russian kylie_date_intro_mc_birthday_male_13825e34:
     kylie.say "С ДНЁМ РОЖДЕНИЯ, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/date.rpy:49
-translate russian kylie_date_intro_mc_birthday_male_00c7259d:
+translate russian kylie_date_intro_mc_birthday_male_95cd9553:
     mike.say "Ого... Кайли, я аж подпрыгнул!"
 
 # ch/kylie/date.rpy:50
@@ -809,7 +809,7 @@ translate russian kylie_date_intro_mc_birthday_male_67582ff2:
     kylie.say "Ой, ты такой милый, когда пугаешься, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/date.rpy:51
-translate russian kylie_date_intro_mc_birthday_male_cd9eae09:
+translate russian kylie_date_intro_mc_birthday_male_ce75d2f1:
     mike.say "С... спасибо, наверное..."
 
 # ch/kylie/date.rpy:52
@@ -977,7 +977,7 @@ translate russian kylie_date_play_arcade_intro_male_862efd7a:
     "Словно мигающие огни и постоянный шум унесли её в другой мир."
 
 # ch/kylie/date.rpy:137
-translate russian kylie_date_play_arcade_intro_male_45cb81a2:
+translate russian kylie_date_play_arcade_intro_male_d74741f6:
     kylie.say "О... да, [lssb_kylie.hero_name()]..."
 
 # ch/kylie/date.rpy:138
@@ -1013,7 +1013,7 @@ translate russian kylie_date_play_arcade_intro_male_31639ae9:
     mike.say "А это главный герой. Его зовут Мейсон."
 
 # ch/kylie/date.rpy:146
-translate russian kylie_date_play_arcade_intro_male_53515f80:
+translate russian kylie_date_play_arcade_intro_male_beeee68e:
     kylie.say "Погоди... Этот безумный тип в маске — главный герой?!"
 
 # ch/kylie/date.rpy:147
@@ -1041,7 +1041,7 @@ translate russian kylie_date_play_arcade_intro_male_1d9f070a:
     mike.say "Она очень жестокая и кровавая!"
 
 # ch/kylie/date.rpy:153
-translate russian kylie_date_play_arcade_intro_male_597211a5:
+translate russian kylie_date_play_arcade_intro_male_12abf65a:
     kylie.say "О-о... звучит идеально!"
 
 # ch/kylie/date.rpy:154
@@ -1065,7 +1065,7 @@ translate russian kylie_date_play_arcade_intro_male_83845184:
     "Я бросаю монеты в щель, и мы начинаем играть по очереди."
 
 # ch/kylie/date.rpy:162
-translate russian kylie_date_play_arcade_win_male_273278c6:
+translate russian kylie_date_play_arcade_win_male_561ef2a7:
     kylie.say "О-о... тесак!"
 
 # ch/kylie/date.rpy:163
@@ -1097,7 +1097,7 @@ translate russian kylie_date_play_arcade_win_male_7332ec6f:
     "Чем больше зомби и упырей превращаю в фарш, тем сильнее нравится Кайли!"
 
 # ch/kylie/date.rpy:170
-translate russian kylie_date_play_arcade_win_male_5f17e612:
+translate russian kylie_date_play_arcade_win_male_ebe71329:
     kylie.say "О-о... о!"
 
 # ch/kylie/date.rpy:171
@@ -1109,7 +1109,7 @@ translate russian kylie_date_play_arcade_win_male_88462629:
     kylie.say "Распили его бензопилой!"
 
 # ch/kylie/date.rpy:173
-translate russian kylie_date_play_arcade_win_male_99890a41:
+translate russian kylie_date_play_arcade_win_male_1fe3a328:
     kylie.say "Да... да... ДА!"
 
 # ch/kylie/date.rpy:174
@@ -1157,7 +1157,7 @@ translate russian kylie_date_play_arcade_win_male_e0849c91:
     kylie.say "А я люблю это в мужчинах..."
 
 # ch/kylie/date.rpy:188
-translate russian kylie_date_play_arcade_lose_male_39605da3:
+translate russian kylie_date_play_arcade_lose_male_536f06d5:
     mike.say "О... о... хватай тесак!"
 
 # ch/kylie/date.rpy:189
@@ -1349,7 +1349,7 @@ translate russian kylie_halloween_invitation_ae384b75:
     kylie.say "За конфетами..."
 
 # ch/kylie/date.rpy:257
-translate russian kylie_halloween_invitation_b576c72a:
+translate russian kylie_halloween_invitation_1f6838c0:
     kylie.say "Ага... именно это я имела в виду."
 
 # ch/kylie/date.rpy:259
@@ -1437,7 +1437,7 @@ translate russian kylie_halloween_invitation_600613b3:
     "Но при чём тут её приглашение?"
 
 # ch/kylie/date.rpy:283
-translate russian kylie_halloween_invitation_72822a28:
+translate russian kylie_halloween_invitation_35d3cfcc:
     mike.say "Эм... да, Кайли."
 
 # ch/kylie/date.rpy:284
@@ -1553,7 +1553,7 @@ translate russian kylie_halloween_invitation_ff98fb22:
     kylie.say "Там ведь будут другие девушки?"
 
 # ch/kylie/date.rpy:317
-translate russian kylie_halloween_invitation_77a84f82:
+translate russian kylie_halloween_invitation_20c024ce:
     mike.say "Эм... да, наверное."
 
 # ch/kylie/date.rpy:319
@@ -1573,7 +1573,7 @@ translate russian kylie_halloween_invitation_e273d3fd:
     kylie.say "Даже не знаю, что могу сделать!"
 
 # ch/kylie/date.rpy:324
-translate russian kylie_halloween_invitation_cc1474f7:
+translate russian kylie_halloween_invitation_12d39996:
     mike.say "Ну... если так рассуждать..."
 
 # ch/kylie/date.rpy:326
@@ -1661,7 +1661,7 @@ translate russian kylie_halloween_crash_133e0883:
     "А ещё у этой маньячки весьма убойная фигура."
 
 # ch/kylie/date.rpy:354
-translate russian kylie_halloween_crash_a9d9df73:
+translate russian kylie_halloween_crash_1e04fed0:
     mike.say "К... Кайли?!"
 
 # ch/kylie/date.rpy:357
@@ -1685,7 +1685,7 @@ translate russian kylie_halloween_crash_b3367784:
     "Но вид лица Кайли мгновенно приводит меня в чувство."
 
 # ch/kylie/date.rpy:364
-translate russian kylie_halloween_crash_9a72d8d1:
+translate russian kylie_halloween_crash_3912da78:
     mike.say "Я... я... Костюм потрясающий, Кайли!"
 
 # ch/kylie/date.rpy:365
@@ -1725,7 +1725,7 @@ translate russian kylie_halloween_crash_48919cb3:
     "И я вижу: она не шутит."
 
 # ch/kylie/date.rpy:376
-translate russian kylie_halloween_crash_9aef6e51:
+translate russian kylie_halloween_crash_27e73fbc:
     mike.say "О... откуда ты узнала о вечеринке, Кайли?"
 
 # ch/kylie/date.rpy:377
@@ -1733,7 +1733,7 @@ translate russian kylie_halloween_crash_c33bb513:
     mike.say "Не помню, чтобы рассказывал тебе."
 
 # ch/kylie/date.rpy:378
-translate russian kylie_halloween_crash_24c1d756:
+translate russian kylie_halloween_crash_6853ab68:
     kylie.say "О... наверное, услышала, как ты о ней говорил."
 
 # ch/kylie/date.rpy:379
@@ -1829,11 +1829,11 @@ translate russian kylie_halloween_crash_960f8ad9:
     "Кайли качает головой."
 
 # ch/kylie/date.rpy:406
-translate russian kylie_halloween_crash_3ff1fbd0:
+translate russian kylie_halloween_crash_329a37ce:
     kylie.say "Я... я хотела, чтобы костюм был как можно правдоподобнее!"
 
 # ch/kylie/date.rpy:407
-translate russian kylie_halloween_crash_9aef6e51_1:
+translate russian kylie_halloween_crash_27e73fbc_1:
     mike.say "О... откуда ты узнала о вечеринке, Кайли?"
 
 # ch/kylie/date.rpy:408
@@ -1841,7 +1841,7 @@ translate russian kylie_halloween_crash_c33bb513_1:
     mike.say "Не помню, чтобы рассказывал тебе."
 
 # ch/kylie/date.rpy:410
-translate russian kylie_halloween_crash_24c1d756_1:
+translate russian kylie_halloween_crash_6853ab68_1:
     kylie.say "О... наверное, услышала, как ты о ней говорил."
 
 # ch/kylie/date.rpy:411
@@ -1873,7 +1873,7 @@ translate russian kylie_halloween_crash_83725568:
     mike.say "Может, тогда повеселимся без настоящих жертв?"
 
 # ch/kylie/date.rpy:420
-translate russian kylie_halloween_crash_8b871221:
+translate russian kylie_halloween_crash_a7cff36e:
     kylie.say "А, ладно... ладно..."
 
 # ch/kylie/date.rpy:421
@@ -1921,7 +1921,7 @@ translate russian kylie_halloween_arrival_133e0883:
     "А ещё у этой маньячки весьма убойная фигура."
 
 # ch/kylie/date.rpy:439
-translate russian kylie_halloween_arrival_a9d9df73:
+translate russian kylie_halloween_arrival_1e04fed0:
     mike.say "К... Кайли?!"
 
 # ch/kylie/date.rpy:440
@@ -1949,7 +1949,7 @@ translate russian kylie_halloween_arrival_b3367784:
     "Но вид лица Кайли мгновенно приводит меня в чувство."
 
 # ch/kylie/date.rpy:449
-translate russian kylie_halloween_arrival_9a72d8d1:
+translate russian kylie_halloween_arrival_3912da78:
     mike.say "Я... я... Костюм потрясающий, Кайли!"
 
 # ch/kylie/date.rpy:450
@@ -2065,7 +2065,7 @@ translate russian kylie_halloween_arrival_960f8ad9:
     "Кайли качает головой."
 
 # ch/kylie/date.rpy:484
-translate russian kylie_halloween_arrival_3ff1fbd0:
+translate russian kylie_halloween_arrival_329a37ce:
     kylie.say "Я... я хотела, чтобы костюм был как можно правдоподобнее!"
 
 # ch/kylie/date.rpy:485
@@ -2077,7 +2077,7 @@ translate russian kylie_halloween_arrival_83725568:
     mike.say "Может, тогда повеселимся без настоящих жертв?"
 
 # ch/kylie/date.rpy:489
-translate russian kylie_halloween_arrival_8b871221:
+translate russian kylie_halloween_arrival_a7cff36e:
     kylie.say "А, ладно... ладно..."
 
 # ch/kylie/date.rpy:490
@@ -2140,10 +2140,6 @@ translate russian kylie_halloween_party_804e2620:
 translate russian kylie_halloween_party_f1d8a63c:
     mike.say "Эм..."
 
-# ch/kylie/date.rpy:522
-translate russian kylie_halloween_party_69fea848:
-    mike.say "Ей не нужна экскурсия, [bree.name]."
-
 # ch/kylie/date.rpy:523
 translate russian kylie_halloween_party_21350807:
     mike.say "Ей просто нужно в туалет!"
@@ -2185,7 +2181,7 @@ translate russian kylie_halloween_party_74f30c77:
     kylie.say "Думаешь, [lssb_kylie.hero_name()] впечатлится?"
 
 # ch/kylie/date.rpy:538
-translate russian kylie_halloween_party_b437cdcc:
+translate russian kylie_halloween_party_bc79a32e:
     bree.say "Ч... что ты вообще несёшь?!"
 
 # ch/kylie/date.rpy:539
@@ -2689,11 +2685,11 @@ translate russian kylie_halloween_sex_031c24c8:
     kylie.say "А-ах..."
 
 # ch/kylie/date.rpy:728
-translate russian kylie_halloween_sex_7252a1e8:
+translate russian kylie_halloween_sex_37ddd40e:
     kylie.say "Ты... мой..."
 
 # ch/kylie/date.rpy:730
-translate russian kylie_halloween_sex_3b95daaf:
+translate russian kylie_halloween_sex_99a63d3e:
     kylie.say "Только... мой..."
 
 # ch/kylie/date.rpy:731
@@ -2721,7 +2717,7 @@ translate russian kylie_halloween_sex_2ebfd9cf:
     kylie.say "Дай мне..."
 
 # ch/kylie/date.rpy:737
-translate russian kylie_halloween_sex_2a0659e0:
+translate russian kylie_halloween_sex_2f44b3bd:
     kylie.say "Я... хочу... всё!"
 
 # ch/kylie/date.rpy:738
@@ -3017,11 +3013,11 @@ translate russian kylie_halloween_crash_sex_031c24c8:
     kylie.say "А-ах..."
 
 # ch/kylie/date.rpy:838
-translate russian kylie_halloween_crash_sex_7252a1e8:
+translate russian kylie_halloween_crash_sex_37ddd40e:
     kylie.say "Ты... мой..."
 
 # ch/kylie/date.rpy:840
-translate russian kylie_halloween_crash_sex_3b95daaf:
+translate russian kylie_halloween_crash_sex_99a63d3e:
     kylie.say "Только... мой..."
 
 # ch/kylie/date.rpy:841
@@ -3049,7 +3045,7 @@ translate russian kylie_halloween_crash_sex_2ebfd9cf:
     kylie.say "Дай мне..."
 
 # ch/kylie/date.rpy:847
-translate russian kylie_halloween_crash_sex_2a0659e0:
+translate russian kylie_halloween_crash_sex_2f44b3bd:
     kylie.say "Я... хочу... всё!"
 
 # ch/kylie/date.rpy:848
@@ -3193,7 +3189,7 @@ translate russian kylie_breakup_2_1abc8b3f:
     "На другом конце Алексис говорит тихо, с явным волнением."
 
 # ch/kylie/events.rpy:745
-translate russian kylie_breakup_2_2af963de:
+translate russian kylie_breakup_2_f47530d4:
     alexis.say "П... привет, [lssb_kylie.hero_name()]..."
 
 # ch/kylie/events.rpy:746
@@ -3469,7 +3465,7 @@ translate russian kylie_breakup_2_af240a5c:
     alexis.say "Кайли..."
 
 # ch/kylie/events.rpy:823
-translate russian kylie_breakup_2_6867bd00:
+translate russian kylie_breakup_2_1c7a3141:
     alexis.say "Она... она покончила с собой!"
 
 # ch/kylie/events.rpy:825
@@ -3493,7 +3489,7 @@ translate russian kylie_breakup_2_a306fc73:
     mike.say "Что ты говоришь?"
 
 # ch/kylie/events.rpy:830
-translate russian kylie_breakup_2_001f34b7:
+translate russian kylie_breakup_2_8fad327c:
     mike.say "Кайли... она умерла?!"
 
 # ch/kylie/events.rpy:831
@@ -3569,7 +3565,7 @@ translate russian kylie_breakup_2_01946a31:
     "Остаётся жить с виной за то, что стоял в стороне и ничего не сделал!"
 
 # ch/kylie/events.rpy:851
-translate russian kylie_breakup_2_126ab8cc:
+translate russian kylie_breakup_2_6cccdebc:
     mike.say "Я... не знаю, что сказать!"
 
 # ch/kylie/events.rpy:852
@@ -3585,7 +3581,7 @@ translate russian kylie_breakup_2_0e0a6c76:
     alexis.say "Когда мы её нашли, она уже умерла."
 
 # ch/kylie/events.rpy:856
-translate russian kylie_breakup_2_f8f0802f:
+translate russian kylie_breakup_2_e5886ebe:
     alexis.say "Я... думаю, она так и задумала."
 
 # ch/kylie/events.rpy:857
@@ -3613,11 +3609,11 @@ translate russian kylie_breakup_2_f3bc0b74:
     "Вот и ещё один удар под дых!"
 
 # ch/kylie/events.rpy:864
-translate russian kylie_breakup_2_46ca845a:
+translate russian kylie_breakup_2_93c2175c:
     mike.say "Д... да, Алексис..."
 
 # ch/kylie/events.rpy:865
-translate russian kylie_breakup_2_234381e9:
+translate russian kylie_breakup_2_558aa10e:
     mike.say "Мы с Кайли... были друзьями!"
 
 # ch/kylie/events.rpy:867
@@ -3737,7 +3733,7 @@ translate russian kylie_breakup_2_e2e47dae:
     alexis.say "Думаю, нам обоим сейчас не помешает друг!"
 
 # ch/kylie/events.rpy:897
-translate russian kylie_breakup_2_7bf53413:
+translate russian kylie_breakup_2_dffe545a:
     mike.say "С... спасибо, Алексис!"
 
 # ch/kylie/events.rpy:898
@@ -4085,7 +4081,7 @@ translate russian kylie_breakup_1_6aba9df3:
     mike.say "Ты не галлюцинируешь, обещаю."
 
 # ch/kylie/events.rpy:1004
-translate russian kylie_breakup_1_c77f9c9f:
+translate russian kylie_breakup_1_3b0e4ed1:
     mike.say "Ну... если не видишь ещё какую-то хрень помимо меня."
 
 # ch/kylie/events.rpy:1005
@@ -4105,7 +4101,7 @@ translate russian kylie_breakup_1_d6ab162d:
     "Туман словно слегка рассеивается, и она кивает."
 
 # ch/kylie/events.rpy:1011
-translate russian kylie_breakup_1_5c1c7168:
+translate russian kylie_breakup_1_1349b551:
     kylie.say "О... это точно ты."
 
 # ch/kylie/events.rpy:1012
@@ -4181,7 +4177,7 @@ translate russian kylie_breakup_1_d2a347bc:
     kylie.say "Понимаешь, был один парень, которого я очень любила."
 
 # ch/kylie/events.rpy:1037
-translate russian kylie_breakup_1_4f99c916:
+translate russian kylie_breakup_1_7a968504:
     kylie.say "Я связала с ним все надежды... а он разбил мне сердце!"
 
 # ch/kylie/events.rpy:1039
@@ -4217,7 +4213,7 @@ translate russian kylie_breakup_1_66d01e96:
     "Скорее, слишком вымотана, чтобы чувствовать ко мне что-либо, кроме безразличия."
 
 # ch/kylie/events.rpy:1049
-translate russian kylie_breakup_1_00f5f846:
+translate russian kylie_breakup_1_d16f29b9:
     kylie.say "Нет... нет... ни в коем случае."
 
 # ch/kylie/events.rpy:1051
@@ -4249,7 +4245,7 @@ translate russian kylie_breakup_1_a0ffd107:
     mike.say "Могу чем-нибудь помочь?"
 
 # ch/kylie/events.rpy:1060
-translate russian kylie_breakup_1_83acb18a:
+translate russian kylie_breakup_1_1bdbc4bd:
     kylie.say "О нет... ни за что!"
 
 # ch/kylie/events.rpy:1061
@@ -4257,7 +4253,7 @@ translate russian kylie_breakup_1_702480ee:
     kylie.say "Ты уже сделал более чем достаточно."
 
 # ch/kylie/events.rpy:1062
-translate russian kylie_breakup_1_231dd1f2:
+translate russian kylie_breakup_1_be9408f3:
     kylie.say "Да, с эмоциями у меня не очень... и с психикой тоже!"
 
 # ch/kylie/events.rpy:1063
@@ -4285,7 +4281,7 @@ translate russian kylie_breakup_1_1f384ade:
     mike.say "Мне правда пора!"
 
 # ch/kylie/events.rpy:1071
-translate russian kylie_breakup_1_37635a6e:
+translate russian kylie_breakup_1_7caa3081:
     mike.say "Нужно кое-что сделать... или куда-то успеть!"
 
 # ch/kylie/events.rpy:1073
@@ -4401,7 +4397,7 @@ translate russian kylie_bree_confrontation_6c27c737:
     "Кайли хватает прядь волос и безжалостно выкручивает. [bree.name] корчится, а я морщусь от сочувствия."
 
 # ch/kylie/events.rpy:1115
-translate russian kylie_bree_confrontation_c999e75a:
+translate russian kylie_bree_confrontation_f469f48c:
     bree.say "А-а... чёрт..."
 
 # ch/kylie/events.rpy:1116
@@ -4449,7 +4445,7 @@ translate russian kylie_bree_confrontation_dcacd98a:
     "А Кайли на миг теряется, будто я застал её вышедшей из роли и она не знает, как быть."
 
 # ch/kylie/events.rpy:1137
-translate russian kylie_bree_confrontation_5d818198:
+translate russian kylie_bree_confrontation_42a1fb8b:
     kylie.say "[lssb_kylie.hero_name()]... Это... всё не так, как кажется!"
 
 # ch/kylie/events.rpy:1138
@@ -4481,7 +4477,7 @@ translate russian kylie_bree_confrontation_2088ac31:
     "Кайли снова резко дёргает за волосы, и [bree.name] опять кричит."
 
 # ch/kylie/events.rpy:1148
-translate russian kylie_bree_confrontation_a603fda5:
+translate russian kylie_bree_confrontation_6f024877:
     mike.say "Кайли, ради бога, отпусти её... пожалуйста!"
 
 # ch/kylie/events.rpy:1150
@@ -4633,11 +4629,11 @@ translate russian kylie_bree_confrontation_bbd295a8:
     "[bree.name] снова вскрикивает от боли, пытаясь не дать вырвать волосы с корнем."
 
 # ch/kylie/events.rpy:1210
-translate russian kylie_bree_confrontation_c999e75a_1:
+translate russian kylie_bree_confrontation_f469f48c_1:
     bree.say "А-а... чёрт..."
 
 # ch/kylie/events.rpy:1211
-translate russian kylie_bree_confrontation_c8097db4:
+translate russian kylie_bree_confrontation_88bbdd70:
     bree.say "Ты... правда думаешь, что я хочу, чтобы [lssb_kylie.hero_name()] бросил тебя ради меня?!"
 
 # ch/kylie/events.rpy:1213
@@ -4665,7 +4661,7 @@ translate russian kylie_bree_confrontation_762cb6dc:
     kylie.say "А в итоге причиняете боль, изменяете и предаёте!"
 
 # ch/kylie/events.rpy:1222
-translate russian kylie_bree_confrontation_5fd3368a:
+translate russian kylie_bree_confrontation_84d0d42a:
     bree.say "Что... ты правда так думаешь?"
 
 # ch/kylie/events.rpy:1223
@@ -4709,7 +4705,7 @@ translate russian kylie_bree_confrontation_99aa79a3:
     kylie.say "А теперь беги и делай, что велено, как хорошая девочка."
 
 # ch/kylie/events.rpy:1244
-translate russian kylie_bree_confrontation_4984cad0:
+translate russian kylie_bree_confrontation_5ed8c504:
     kylie.say "Иначе... за последствия я не отвечаю."
 
 # ch/kylie/events.rpy:1245
@@ -4901,7 +4897,7 @@ translate russian kylie_voyeur_confront_caed0019:
     kylie.say "Не нужно притворяться, что злишься!"
 
 # ch/kylie/events.rpy:1325
-translate russian kylie_voyeur_confront_3d5866d8:
+translate russian kylie_voyeur_confront_7ca35936:
     mike.say "Ч... что ты сказала?"
 
 # ch/kylie/events.rpy:1327
@@ -4945,7 +4941,7 @@ translate russian kylie_voyeur_confront_a7f9a126:
     "Извращённой, да, но вполне правдоподобной."
 
 # ch/kylie/events.rpy:1342
-translate russian kylie_voyeur_confront_2c4338d4:
+translate russian kylie_voyeur_confront_e34f9000:
     mike.say "Нет... нет, всё было не так."
 
 # ch/kylie/events.rpy:1343
@@ -5001,7 +4997,7 @@ translate russian kylie_voyeur_confront_34f30d7e:
     kylie.say "Вообще-то я удивилась, насколько это меня возбудило. Ожидала обратного."
 
 # ch/kylie/events.rpy:1364
-translate russian kylie_voyeur_confront_5c2ed69b:
+translate russian kylie_voyeur_confront_b00d5ecd:
     mike.say "А... что ты имеешь в виду?"
 
 # ch/kylie/events.rpy:1366
@@ -5013,7 +5009,7 @@ translate russian kylie_voyeur_confront_aa3eab9f:
     kylie.say "Всегда знала."
 
 # ch/kylie/events.rpy:1368
-translate russian kylie_voyeur_confront_2289c44f:
+translate russian kylie_voyeur_confront_a7beaed4:
     kylie.say "Но НИКОГДА не думала, что вид тебя с другой так меня... заведёт!"
 
 # ch/kylie/events.rpy:1369
@@ -5121,7 +5117,7 @@ translate russian kylie_voyeur_confront_0c07f24e:
     "К тому же мысль, что её заводит именно наблюдение за мной, невероятно возбуждает!"
 
 # ch/kylie/events.rpy:1404
-translate russian kylie_voyeur_confront_91641ea3:
+translate russian kylie_voyeur_confront_51b1e706:
     mike.say "М... может, я был слишком резок."
 
 # ch/kylie/events.rpy:1406
@@ -5149,7 +5145,7 @@ translate russian kylie_voyeur_confront_55c034a4:
     kylie.say "Знала, что ты на самом деле любишь меня, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/events.rpy:1414
-translate russian kylie_voyeur_confront_ce42e9f5:
+translate russian kylie_voyeur_confront_27e3bbd5:
     kylie.say "Значит... позволишь смотреть?"
 
 # ch/kylie/events.rpy:1416
@@ -5561,7 +5557,7 @@ translate russian kylie_voyeur_2be35bc4:
     alexis.say "Вот это охрененно!"
 
 # ch/kylie/events.rpy:1548
-translate russian kylie_voyeur_5d959db1:
+translate russian kylie_voyeur_1eeaea9b:
     alexis.say "Заставь меня кончить... пожалуйста!"
 
 # ch/kylie/events.rpy:1550
@@ -5837,7 +5833,7 @@ translate russian kylie_investigation_2_596fc2ed:
     "Полицейский" "Или пришли признаться в первом преступлении?"
 
 # ch/kylie/events.rpy:1636
-translate russian kylie_investigation_2_3ac4d86d:
+translate russian kylie_investigation_2_d605a3b8:
     mike.say "Погодите... что?!"
 
 # ch/kylie/events.rpy:1638
@@ -5949,7 +5945,7 @@ translate russian kylie_investigation_2_ae5f16de:
     camila.say "Я подумала, со знакомым человеком тебе будет легче."
 
 # ch/kylie/events.rpy:1676
-translate russian kylie_investigation_2_2a9a54b2:
+translate russian kylie_investigation_2_28f6e126:
     mike.say "П... привет, Камила..."
 
 # ch/kylie/events.rpy:1677
@@ -5965,7 +5961,7 @@ translate russian kylie_investigation_2_0a140e68:
     "Хуже всего то, что она считает, будто помогает!"
 
 # ch/kylie/events.rpy:1680
-translate russian kylie_investigation_2_e3330e2d:
+translate russian kylie_investigation_2_0488357d:
     "Ладно, ладно... Нужно собраться и всё рассказать."
 
 # ch/kylie/events.rpy:1681
@@ -5977,7 +5973,7 @@ translate russian kylie_investigation_2_cf91d8b8:
     mike.say "Спасибо, что подумала обо мне и пришла."
 
 # ch/kylie/events.rpy:1683
-translate russian kylie_investigation_2_b75a93f5:
+translate russian kylie_investigation_2_d3167166:
     mike.say "Я просто немного нервничаю... если ты не заметила!"
 
 # ch/kylie/events.rpy:1684
@@ -6025,15 +6021,15 @@ translate russian kylie_investigation_2_ab2203f7:
     camila.say "Дежурный сказал, ты хочешь заявить о..."
 
 # ch/kylie/events.rpy:1698
-translate russian kylie_investigation_2_1f1c843a:
+translate russian kylie_investigation_2_43f3b47e:
     camila.say "О чём там... об убийстве?"
 
 # ch/kylie/events.rpy:1700
-translate russian kylie_investigation_2_c1c44d9c:
+translate russian kylie_investigation_2_21dfa1be:
     camila.say "О чём там... об изнасиловании?"
 
 # ch/kylie/events.rpy:1702
-translate russian kylie_investigation_2_e9dd2780:
+translate russian kylie_investigation_2_8e6cf9ac:
     camila.say "О чём там... о преследовании?"
 
 # ch/kylie/events.rpy:1704
@@ -6045,7 +6041,7 @@ translate russian kylie_investigation_2_53564837:
     "Но ещё и потому, как понимаю, что чувствую странное желание беспрекословно подчиняться Камиле."
 
 # ch/kylie/events.rpy:1706
-translate russian kylie_investigation_2_39455213:
+translate russian kylie_investigation_2_505e1fd3:
     mike.say "Да... то есть ага, всё верно, Камила."
 
 # ch/kylie/events.rpy:1707
@@ -6089,7 +6085,7 @@ translate russian kylie_investigation_2_5b46717f:
     camila.say "Тогда при чём здесь эта Алексис?"
 
 # ch/kylie/events.rpy:1724
-translate russian kylie_investigation_2_0de32727:
+translate russian kylie_investigation_2_4810d3cc:
     mike.say "Мы тогда встречались и расстались... плохо."
 
 # ch/kylie/events.rpy:1726
@@ -6108,16 +6104,12 @@ translate russian kylie_investigation_2_de7b5d85:
 translate russian kylie_investigation_2_3b1ca200:
     mike.say "Потом она начала повсюду за мной ходить и говорить, что всегда была мной одержима!"
 
-# ch/kylie/events.rpy:1732
-translate russian kylie_investigation_2_27155bc1:
-    "Камила вопросительно поднимает бровь: эта мысль её явно забавляет."
-
 # ch/kylie/events.rpy:1734
 translate russian kylie_investigation_2_4a1580fd:
     camila.say "Дай угадаю: потому что ты такой неотразимый?"
 
 # ch/kylie/events.rpy:1736
-translate russian kylie_investigation_2_32ecf0d8:
+translate russian kylie_investigation_2_c0997106:
     mike.say "Да... нет... не знаю!"
 
 # ch/kylie/events.rpy:1737
@@ -6125,7 +6117,7 @@ translate russian kylie_investigation_2_813d9a50:
     mike.say "Кайли безумная, ясно?"
 
 # ch/kylie/events.rpy:1738
-translate russian kylie_investigation_2_bee2f92f:
+translate russian kylie_investigation_2_2b920bc1:
     mike.say "Боюсь, она что-нибудь сделает с одной из моих соседок... или со мной."
 
 # ch/kylie/events.rpy:1741
@@ -6140,16 +6132,12 @@ translate russian kylie_investigation_2_3ad97b39:
 translate russian kylie_investigation_2_6132d2f2:
     mike.say "Меня изнасиловала Кайли!"
 
-# ch/kylie/events.rpy:1746
-translate russian kylie_investigation_2_28187f9d:
-    "Камила хмурится."
-
 # ch/kylie/events.rpy:1748
 translate russian kylie_investigation_2_518228f5:
     camila.say "Тогда какого хрена тут при чём эта Алексис?"
 
 # ch/kylie/events.rpy:1750
-translate russian kylie_investigation_2_0de32727_1:
+translate russian kylie_investigation_2_4810d3cc_1:
     mike.say "Мы тогда встречались и расстались... плохо."
 
 # ch/kylie/events.rpy:1752
@@ -6168,16 +6156,12 @@ translate russian kylie_investigation_2_de7b5d85_1:
 translate russian kylie_investigation_2_3b1ca200_1:
     mike.say "Потом она начала повсюду за мной ходить и говорить, что всегда была мной одержима!"
 
-# ch/kylie/events.rpy:1758
-translate russian kylie_investigation_2_27155bc1_1:
-    "Камила вопросительно поднимает бровь: эта мысль её явно забавляет."
-
 # ch/kylie/events.rpy:1760
 translate russian kylie_investigation_2_4a1580fd_1:
     camila.say "Дай угадаю: потому что ты такой неотразимый?"
 
 # ch/kylie/events.rpy:1762
-translate russian kylie_investigation_2_32ecf0d8_1:
+translate russian kylie_investigation_2_c0997106_1:
     mike.say "Да... нет... не знаю!"
 
 # ch/kylie/events.rpy:1763
@@ -6209,7 +6193,7 @@ translate russian kylie_investigation_2_518228f5_1:
     camila.say "Тогда какого хрена тут при чём эта Алексис?"
 
 # ch/kylie/events.rpy:1776
-translate russian kylie_investigation_2_0de32727_2:
+translate russian kylie_investigation_2_4810d3cc_2:
     mike.say "Мы тогда встречались и расстались... плохо."
 
 # ch/kylie/events.rpy:1778
@@ -6237,7 +6221,7 @@ translate russian kylie_investigation_2_4a1580fd_2:
     camila.say "Дай угадаю: потому что ты такой неотразимый?"
 
 # ch/kylie/events.rpy:1788
-translate russian kylie_investigation_2_32ecf0d8_2:
+translate russian kylie_investigation_2_c0997106_2:
     mike.say "Да... нет... не знаю!"
 
 # ch/kylie/events.rpy:1789
@@ -6265,7 +6249,7 @@ translate russian kylie_investigation_2_518228f5_2:
     camila.say "Тогда какого хрена тут при чём эта Алексис?"
 
 # ch/kylie/events.rpy:1801
-translate russian kylie_investigation_2_0de32727_3:
+translate russian kylie_investigation_2_4810d3cc_3:
     mike.say "Мы тогда встречались и расстались... плохо."
 
 # ch/kylie/events.rpy:1803
@@ -6293,7 +6277,7 @@ translate russian kylie_investigation_2_4a1580fd_3:
     camila.say "Дай угадаю: потому что ты такой неотразимый?"
 
 # ch/kylie/events.rpy:1813
-translate russian kylie_investigation_2_32ecf0d8_3:
+translate russian kylie_investigation_2_c0997106_3:
     mike.say "Да... нет... не знаю!"
 
 # ch/kylie/events.rpy:1814
@@ -6337,7 +6321,7 @@ translate russian kylie_investigation_2_c60740c3:
     camila.say "Скажи, эта сука тебе угрожала? До рукоприкладства доходило?"
 
 # ch/kylie/events.rpy:1829
-translate russian kylie_investigation_2_99a9cf7e:
+translate russian kylie_investigation_2_9a7966fa:
     mike.say "Ну... нет, вообще-то."
 
 # ch/kylie/events.rpy:1830
@@ -6369,11 +6353,11 @@ translate russian kylie_investigation_2_91e75357:
     camila.say "Где ты этой хрени нахватался?!"
 
 # ch/kylie/events.rpy:1840
-translate russian kylie_investigation_2_d85d9ce9:
+translate russian kylie_investigation_2_805fc190:
     mike.say "Я... наверное, по телевизору услышал."
 
 # ch/kylie/events.rpy:1841
-translate russian kylie_investigation_2_3e023c55:
+translate russian kylie_investigation_2_a6401c83:
     mike.say "Извини... я в этом не очень разбираюсь."
 
 # ch/kylie/events.rpy:1842
@@ -6397,11 +6381,11 @@ translate russian kylie_investigation_2_8fc35edf:
     "Я слабо улыбаюсь, с трудом веря, что ради извинений Камила вышла из образа крутого копа."
 
 # ch/kylie/events.rpy:1850
-translate russian kylie_investigation_2_7d947a11:
+translate russian kylie_investigation_2_e145f2b8:
     mike.say "Камила... всё это как-то странно, понимаешь?"
 
 # ch/kylie/events.rpy:1852
-translate russian kylie_investigation_2_de1474e5:
+translate russian kylie_investigation_2_933dc414:
     camila.say "Ладно, ладно... признаюсь, я тоже это чувствую."
 
 # ch/kylie/events.rpy:1853
@@ -6457,7 +6441,7 @@ translate russian kylie_investigation_2_10af17ea:
     camila.say "Боюсь, у меня связаны руки!"
 
 # ch/kylie/events.rpy:1873
-translate russian kylie_investigation_2_c8bdf3b3:
+translate russian kylie_investigation_2_cf15f18b:
     mike.say "Но... но..."
 
 # ch/kylie/events.rpy:1875
@@ -6481,7 +6465,7 @@ translate russian kylie_investigation_2_e20eb570:
     camila.say "Если дело примет серьёзный оборот, звони по этому номеру, ладно?"
 
 # ch/kylie/events.rpy:1883
-translate russian kylie_investigation_2_29702cd7:
+translate russian kylie_investigation_2_e400dfed:
     mike.say "А если... ну, если всё пойдёт совсем хреново... тогда что?"
 
 # ch/kylie/events.rpy:1885
@@ -6533,7 +6517,7 @@ translate russian kylie_investigation_2_c21cb3f8:
     "И тут кажется, будто подо мной разверзается чёрная дыра, готовая затянуть меня в свою бездну."
 
 # ch/kylie/events.rpy:1903
-translate russian kylie_investigation_2_18437b06:
+translate russian kylie_investigation_2_7c4004bf:
     mike.say "Она... она меня связала."
 
 # ch/kylie/events.rpy:1904
@@ -6541,7 +6525,7 @@ translate russian kylie_investigation_2_b75e5c8c:
     mike.say "Она заставила меня заниматься с ней сексом."
 
 # ch/kylie/events.rpy:1905
-translate russian kylie_investigation_2_b32f12ec:
+translate russian kylie_investigation_2_5822ae88:
     mike.say "Я... я даже не знаю, считается ли это изнасилованием!"
 
 # ch/kylie/events.rpy:1906
@@ -6617,7 +6601,7 @@ translate russian kylie_investigation_2_b6505e60:
     mike.say "Ты не представляешь, как мне нужно было это услышать!"
 
 # ch/kylie/events.rpy:1932
-translate russian kylie_investigation_2_18437b06_1:
+translate russian kylie_investigation_2_7c4004bf_1:
     mike.say "Она... она меня связала."
 
 # ch/kylie/events.rpy:1933
@@ -6625,7 +6609,7 @@ translate russian kylie_investigation_2_b75e5c8c_1:
     mike.say "Она заставила меня заниматься с ней сексом."
 
 # ch/kylie/events.rpy:1934
-translate russian kylie_investigation_2_b32f12ec_1:
+translate russian kylie_investigation_2_5822ae88_1:
     mike.say "Я... я даже не знаю, считается ли это изнасилованием!"
 
 # ch/kylie/events.rpy:1935
@@ -6789,11 +6773,11 @@ translate russian kylie_investigation_2_91e75357_1:
     camila.say "Где ты этой хрени нахватался?!"
 
 # ch/kylie/events.rpy:1990
-translate russian kylie_investigation_2_d85d9ce9_1:
+translate russian kylie_investigation_2_805fc190_1:
     mike.say "Я... наверное, по телевизору услышал."
 
 # ch/kylie/events.rpy:1991
-translate russian kylie_investigation_2_3e023c55_1:
+translate russian kylie_investigation_2_a6401c83_1:
     mike.say "Извини... я в этом не очень разбираюсь."
 
 # ch/kylie/events.rpy:1992
@@ -6817,11 +6801,11 @@ translate russian kylie_investigation_2_fe8f8d3e:
     "Я слабо улыбаюсь, с трудом веря, что ради меня Камила только что вышла из образа крутого копа."
 
 # ch/kylie/events.rpy:2000
-translate russian kylie_investigation_2_7d947a11_1:
+translate russian kylie_investigation_2_e145f2b8_1:
     mike.say "Камила... всё это как-то странно, понимаешь?"
 
 # ch/kylie/events.rpy:2002
-translate russian kylie_investigation_2_de1474e5_1:
+translate russian kylie_investigation_2_933dc414_1:
     camila.say "Ладно, ладно... признаюсь, я тоже это чувствую."
 
 # ch/kylie/events.rpy:2003
@@ -6901,7 +6885,7 @@ translate russian kylie_investigation_2_e20eb570_1:
     camila.say "Если дело примет серьёзный оборот, звони по этому номеру, ладно?"
 
 # ch/kylie/events.rpy:2031
-translate russian kylie_investigation_2_29702cd7_1:
+translate russian kylie_investigation_2_e400dfed_1:
     mike.say "А если... ну, если всё пойдёт совсем хреново... тогда что?"
 
 # ch/kylie/events.rpy:2033
@@ -6981,7 +6965,7 @@ translate russian kylie_investigation_2_10ec2683:
     "И я в считаные секунды прихожу в себя."
 
 # ch/kylie/events.rpy:2067
-translate russian kylie_investigation_2_9d74c586:
+translate russian kylie_investigation_2_b6bbd61d:
     mike.say "Э... да... простите!"
 
 # ch/kylie/events.rpy:2069
@@ -6993,15 +6977,15 @@ translate russian kylie_investigation_2_ce654439:
     "Детектив Фольо" "Итак, дежурный сказал, что вы хотите заявить..."
 
 # ch/kylie/events.rpy:2073
-translate russian kylie_investigation_2_ade8f5a0:
+translate russian kylie_investigation_2_4c526ef6:
     "Детектив Фольо" "О чём там... об убийстве?"
 
 # ch/kylie/events.rpy:2075
-translate russian kylie_investigation_2_15798691:
+translate russian kylie_investigation_2_833dc303:
     "Детектив Фольо" "О чём там... об изнасиловании?"
 
 # ch/kylie/events.rpy:2077
-translate russian kylie_investigation_2_a32e4a4b:
+translate russian kylie_investigation_2_ff5e948e:
     "Детектив Фольо" "О чём там... о преследовании?"
 
 # ch/kylie/events.rpy:2079
@@ -7013,7 +6997,7 @@ translate russian kylie_investigation_2_cd22e5ad:
     "Но ещё и потому, как я понимаю, что меня почему-то тянет почти беспрекословно подчиняться этой полицейской."
 
 # ch/kylie/events.rpy:2081
-translate russian kylie_investigation_2_def3b6a9:
+translate russian kylie_investigation_2_32e89356:
     mike.say "Да... то есть да, всё верно, офицер."
 
 # ch/kylie/events.rpy:2082
@@ -7057,7 +7041,7 @@ translate russian kylie_investigation_2_cea3ddbf:
     "Детектив Фольо" "Тогда какого хрена тут замешана эта Алексис?"
 
 # ch/kylie/events.rpy:2099
-translate russian kylie_investigation_2_0de32727_4:
+translate russian kylie_investigation_2_4810d3cc_4:
     mike.say "Мы тогда встречались и расстались... плохо."
 
 # ch/kylie/events.rpy:2101
@@ -7085,7 +7069,7 @@ translate russian kylie_investigation_2_5195abe5:
     "Детектив Фольо" "Дайте угадаю: потому что вы такой неотразимый, да?"
 
 # ch/kylie/events.rpy:2111
-translate russian kylie_investigation_2_32ecf0d8_4:
+translate russian kylie_investigation_2_c0997106_4:
     mike.say "Да... нет... не знаю!"
 
 # ch/kylie/events.rpy:2112
@@ -7093,7 +7077,7 @@ translate russian kylie_investigation_2_813d9a50_4:
     mike.say "Кайли безумная, ясно?"
 
 # ch/kylie/events.rpy:2113
-translate russian kylie_investigation_2_bee2f92f_1:
+translate russian kylie_investigation_2_2b920bc1_1:
     mike.say "Боюсь, она что-нибудь сделает с одной из моих соседок... или со мной."
 
 # ch/kylie/events.rpy:2116
@@ -7117,7 +7101,7 @@ translate russian kylie_investigation_2_cea3ddbf_1:
     "Детектив Фольо" "Тогда какого хрена тут замешана эта Алексис?"
 
 # ch/kylie/events.rpy:2125
-translate russian kylie_investigation_2_0de32727_5:
+translate russian kylie_investigation_2_4810d3cc_5:
     mike.say "Мы тогда встречались и расстались... плохо."
 
 # ch/kylie/events.rpy:2127
@@ -7145,7 +7129,7 @@ translate russian kylie_investigation_2_5195abe5_1:
     "Детектив Фольо" "Дайте угадаю: потому что вы такой неотразимый, да?"
 
 # ch/kylie/events.rpy:2137
-translate russian kylie_investigation_2_32ecf0d8_5:
+translate russian kylie_investigation_2_c0997106_5:
     mike.say "Да... нет... не знаю!"
 
 # ch/kylie/events.rpy:2138
@@ -7177,7 +7161,7 @@ translate russian kylie_investigation_2_cea3ddbf_2:
     "Детектив Фольо" "Тогда какого хрена тут замешана эта Алексис?"
 
 # ch/kylie/events.rpy:2151
-translate russian kylie_investigation_2_0de32727_6:
+translate russian kylie_investigation_2_4810d3cc_6:
     mike.say "Мы тогда встречались и расстались... плохо."
 
 # ch/kylie/events.rpy:2153
@@ -7205,7 +7189,7 @@ translate russian kylie_investigation_2_5195abe5_2:
     "Детектив Фольо" "Дайте угадаю: потому что вы такой неотразимый, да?"
 
 # ch/kylie/events.rpy:2163
-translate russian kylie_investigation_2_32ecf0d8_6:
+translate russian kylie_investigation_2_c0997106_6:
     mike.say "Да... нет... не знаю!"
 
 # ch/kylie/events.rpy:2164
@@ -7233,7 +7217,7 @@ translate russian kylie_investigation_2_cea3ddbf_3:
     "Детектив Фольо" "Тогда какого хрена тут замешана эта Алексис?"
 
 # ch/kylie/events.rpy:2176
-translate russian kylie_investigation_2_0de32727_7:
+translate russian kylie_investigation_2_4810d3cc_7:
     mike.say "Мы тогда встречались и расстались... плохо."
 
 # ch/kylie/events.rpy:2178
@@ -7261,7 +7245,7 @@ translate russian kylie_investigation_2_5195abe5_3:
     "Детектив Фольо" "Дайте угадаю: потому что вы такой неотразимый, да?"
 
 # ch/kylie/events.rpy:2188
-translate russian kylie_investigation_2_32ecf0d8_7:
+translate russian kylie_investigation_2_c0997106_7:
     mike.say "Да... нет... не знаю!"
 
 # ch/kylie/events.rpy:2189
@@ -7305,7 +7289,7 @@ translate russian kylie_investigation_2_32620782:
     "Детектив Фольо" "Скажите, эта сука вам угрожала? До рукоприкладства доходило?"
 
 # ch/kylie/events.rpy:2204
-translate russian kylie_investigation_2_99a9cf7e_1:
+translate russian kylie_investigation_2_9a7966fa_1:
     mike.say "Ну... нет, вообще-то."
 
 # ch/kylie/events.rpy:2205
@@ -7337,11 +7321,11 @@ translate russian kylie_investigation_2_da571762:
     "Детектив Фольо" "Где вы этой хрени нахватались?!"
 
 # ch/kylie/events.rpy:2215
-translate russian kylie_investigation_2_d85d9ce9_2:
+translate russian kylie_investigation_2_805fc190_2:
     mike.say "Я... наверное, по телевизору услышал."
 
 # ch/kylie/events.rpy:2216
-translate russian kylie_investigation_2_3e023c55_2:
+translate russian kylie_investigation_2_a6401c83_2:
     mike.say "Извините... я в этом не очень разбираюсь."
 
 # ch/kylie/events.rpy:2217
@@ -7417,7 +7401,7 @@ translate russian kylie_investigation_2_10af17ea_1:
     camila.say "Боюсь, у меня связаны руки!"
 
 # ch/kylie/events.rpy:2246
-translate russian kylie_investigation_2_c8bdf3b3_1:
+translate russian kylie_investigation_2_cf15f18b_1:
     mike.say "Но... но..."
 
 # ch/kylie/events.rpy:2248
@@ -7433,7 +7417,7 @@ translate russian kylie_investigation_2_69404bc3:
     camila.say "Если дело примет серьёзный оборот, звони мне, ладно?"
 
 # ch/kylie/events.rpy:2254
-translate russian kylie_investigation_2_29702cd7_2:
+translate russian kylie_investigation_2_e400dfed_2:
     mike.say "А если... ну, если всё пойдёт совсем хреново... тогда что?"
 
 # ch/kylie/events.rpy:2256
@@ -7485,7 +7469,7 @@ translate russian kylie_investigation_2_c21cb3f8_1:
     "И тут кажется, будто подо мной разверзается чёрная дыра, готовая затянуть меня в свою бездну."
 
 # ch/kylie/events.rpy:2274
-translate russian kylie_investigation_2_18437b06_2:
+translate russian kylie_investigation_2_7c4004bf_2:
     mike.say "Она... она меня связала."
 
 # ch/kylie/events.rpy:2275
@@ -7493,7 +7477,7 @@ translate russian kylie_investigation_2_b75e5c8c_2:
     mike.say "Она заставила меня заниматься с ней сексом."
 
 # ch/kylie/events.rpy:2276
-translate russian kylie_investigation_2_b32f12ec_2:
+translate russian kylie_investigation_2_5822ae88_2:
     mike.say "Я... я даже не знаю, считается ли это изнасилованием!"
 
 # ch/kylie/events.rpy:2277
@@ -7561,7 +7545,7 @@ translate russian kylie_investigation_2_b6505e60_1:
     mike.say "Ты не представляешь, как мне нужно было это услышать!"
 
 # ch/kylie/events.rpy:2301
-translate russian kylie_investigation_2_18437b06_3:
+translate russian kylie_investigation_2_7c4004bf_3:
     mike.say "Она... она меня связала."
 
 # ch/kylie/events.rpy:2302
@@ -7569,7 +7553,7 @@ translate russian kylie_investigation_2_b75e5c8c_3:
     mike.say "Она заставила меня заниматься с ней сексом."
 
 # ch/kylie/events.rpy:2303
-translate russian kylie_investigation_2_b32f12ec_3:
+translate russian kylie_investigation_2_5822ae88_3:
     mike.say "Я... я даже не знаю, считается ли это изнасилованием!"
 
 # ch/kylie/events.rpy:2304
@@ -7725,11 +7709,11 @@ translate russian kylie_investigation_2_da571762_1:
     "Детектив Фольо" "Где вы этой хрени нахватались?!"
 
 # ch/kylie/events.rpy:2357
-translate russian kylie_investigation_2_d85d9ce9_3:
+translate russian kylie_investigation_2_805fc190_3:
     mike.say "Я... наверное, по телевизору услышал."
 
 # ch/kylie/events.rpy:2358
-translate russian kylie_investigation_2_3e023c55_3:
+translate russian kylie_investigation_2_a6401c83_3:
     mike.say "Извините... я в этом не очень разбираюсь."
 
 # ch/kylie/events.rpy:2359
@@ -7821,7 +7805,7 @@ translate russian kylie_investigation_2_69404bc3_1:
     camila.say "Если дело примет серьёзный оборот, звони мне, ладно?"
 
 # ch/kylie/events.rpy:2394
-translate russian kylie_investigation_2_29702cd7_3:
+translate russian kylie_investigation_2_e400dfed_3:
     mike.say "А если... ну, если всё пойдёт совсем хреново... тогда что?"
 
 # ch/kylie/events.rpy:2396
@@ -7949,7 +7933,7 @@ translate russian kylie_investigation_3_d806fbdd:
     camila.say "Я же сказала: зови меня Камилой. А то арестую!"
 
 # ch/kylie/events.rpy:2449
-translate russian kylie_investigation_3_4c6ebd0c:
+translate russian kylie_investigation_3_d5e00a9c:
     mike.say "А по какому обвинению, дете... Камила?"
 
 # ch/kylie/events.rpy:2451
@@ -8017,11 +8001,11 @@ translate russian kylie_investigation_3_b199b4a5:
     mike.say "Нет..."
 
 # ch/kylie/events.rpy:2474
-translate russian kylie_investigation_3_3b4bb581:
+translate russian kylie_investigation_3_a0733ccc:
     mike.say "Прости, я рад... правда."
 
 # ch/kylie/events.rpy:2475
-translate russian kylie_investigation_3_eff2b522:
+translate russian kylie_investigation_3_0497842d:
     mike.say "Просто... я думал, эта новость сделает меня счастливым."
 
 # ch/kylie/events.rpy:2476
@@ -8073,7 +8057,7 @@ translate russian kylie_investigation_3_06b2a4ad:
     "Затем словно отгоняет мысль и снова становится привычно резкой."
 
 # ch/kylie/events.rpy:2494
-translate russian kylie_investigation_3_5e33225c:
+translate russian kylie_investigation_3_ee31021a:
     camila.say "Прости... пожалуй, это всё, что тебе нужно знать."
 
 # ch/kylie/events.rpy:2495
@@ -8128,10 +8112,6 @@ translate russian kylie_prison_visit_1_a63be566:
 translate russian kylie_prison_visit_1_af6c5a72:
     "Я до сих пор не могу до конца поверить в то, что Кайли сказала в прошлый раз."
 
-# ch/kylie/events.rpy:2525
-translate russian kylie_prison_visit_1_f0e9970e:
-    "В то, что она считает свой поступок простым недоразумением."
-
 # ch/kylie/events.rpy:2526
 translate russian kylie_prison_visit_1_041a84eb:
     "Знаю, я должен дать Кайли отпор, поставить её на место."
@@ -8139,10 +8119,6 @@ translate russian kylie_prison_visit_1_041a84eb:
 # ch/kylie/events.rpy:2527
 translate russian kylie_prison_visit_1_aa6a1c31:
     "Но какая-то часть меня всё равно её жалеет."
-
-# ch/kylie/events.rpy:2528
-translate russian kylie_prison_visit_1_851f10f6:
-    "Возможно, она и правда настолько больна, что ей место здесь."
 
 # ch/kylie/events.rpy:2529
 translate russian kylie_prison_visit_1_b4bd848f:
@@ -8253,7 +8229,7 @@ translate russian kylie_prison_visit_1_dcea724c:
     "А слова едва поспевают за движением головы."
 
 # ch/kylie/events.rpy:2568
-translate russian kylie_prison_visit_1_22f4fd0a:
+translate russian kylie_prison_visit_1_9647ba10:
     mike.say "Д... да, Кайли."
 
 # ch/kylie/events.rpy:2569
@@ -8339,10 +8315,6 @@ translate russian kylie_prison_visit_1_f5179fa6:
 # ch/kylie/events.rpy:2600
 translate russian kylie_prison_visit_1_f1d8a63c:
     mike.say "Эм..."
-
-# ch/kylie/events.rpy:2601
-translate russian kylie_prison_visit_1_3585c21d:
-    mike.say "Давай пока скажем «может быть», ладно?"
 
 # ch/kylie/events.rpy:2602
 translate russian kylie_prison_visit_1_ccd35804:
@@ -8532,14 +8504,6 @@ translate russian kylie_trial_1_bd58be8e:
 translate russian kylie_trial_1_d46cf2e2:
     "Моё имя тоже напечатано, так что, похоже, оно для меня."
 
-# ch/kylie/events.rpy:2668
-translate russian kylie_trial_1_2bd36f30:
-    "Наклоняюсь за ним и замечаю ещё и надпись {b}«Лично. Конфиденциально»{/b}!"
-
-# ch/kylie/events.rpy:2669
-translate russian kylie_trial_1_ca98eaa7:
-    "Признаюсь, от этого по спине пробегает холодок."
-
 # ch/kylie/events.rpy:2670
 translate russian kylie_trial_1_b116e5f5:
     "Чёрт, даже задница сжимается!"
@@ -8577,7 +8541,7 @@ translate russian kylie_trial_1_dafda34d:
     "Пишут, что мне нужно явиться на судебное заседание."
 
 # ch/kylie/events.rpy:2682
-translate russian kylie_trial_1_1ebca745:
+translate russian kylie_trial_1_7dec18e6:
     "И по какому же... делу?"
 
 # ch/kylie/events.rpy:2683
@@ -8617,7 +8581,7 @@ translate russian kylie_trial_1_41313392:
     "То есть практически валюсь на неё, и только стена удерживает меня на ногах."
 
 # ch/kylie/events.rpy:2692
-translate russian kylie_trial_1_e35a9041:
+translate russian kylie_trial_1_35a029d6:
     "Боже... я думал, всё уже почти закончилось."
 
 # ch/kylie/events.rpy:2693
@@ -8673,7 +8637,7 @@ translate russian kylie_trial_1_43fdd71c:
     "Если Кайли всё сойдёт с рук, она придёт за мной."
 
 # ch/kylie/events.rpy:2717
-translate russian kylie_trial_1_97d94774:
+translate russian kylie_trial_1_fe3a52a9:
     "Чтобы тоже убить или... не знаю, похитить и пытать!"
 
 # ch/kylie/events.rpy:2718
@@ -8715,10 +8679,6 @@ translate russian kylie_trial_2_missed_07bdde05:
 # ch/kylie/events.rpy:2733
 translate russian kylie_trial_2_missed_c6712ce4:
     "{b}ЧЁРТ ВОЗЬМИ!{/b}" with hpunch
-
-# ch/kylie/events.rpy:2734
-translate russian kylie_trial_2_missed_38acacd8:
-    "Только сейчас вспомнил: сегодня я должен был быть на суде над Кайли!"
 
 # ch/kylie/events.rpy:2735
 translate russian kylie_trial_2_missed_1415860e:
@@ -8928,10 +8888,6 @@ translate russian kylie_trial_2_7c131cca:
 translate russian kylie_trial_2_66d07219:
     "Не знаю, повлиял ли на меня тот последний взгляд Кайли."
 
-# ch/kylie/events.rpy:2809
-translate russian kylie_trial_2_c2855c74:
-    "Или я всё это время именно так к ней и относился."
-
 # ch/kylie/events.rpy:2810
 translate russian kylie_trial_2_483ff360:
     "Но так или иначе я уверен: во всём этом она жертва."
@@ -8984,10 +8940,6 @@ translate russian kylie_trial_2_c49df278:
 translate russian kylie_trial_2_66d07219_1:
     "Не знаю, повлиял ли на меня тот последний взгляд Кайли."
 
-# ch/kylie/events.rpy:2828
-translate russian kylie_trial_2_c2855c74_1:
-    "Или я всё это время именно так к ней и относился."
-
 # ch/kylie/events.rpy:2829
 translate russian kylie_trial_2_f56562fc:
     "Но так или иначе я уверен: Кайли нужно поместить туда, где она будет под надёжным присмотром."
@@ -9035,10 +8987,6 @@ translate russian kylie_trial_2_07601bfa:
 # ch/kylie/events.rpy:2845
 translate russian kylie_trial_2_66d07219_2:
     "Не знаю, повлиял ли на меня тот последний взгляд Кайли."
-
-# ch/kylie/events.rpy:2846
-translate russian kylie_trial_2_c2855c74_2:
-    "Или я всё это время именно так к ней и относился."
 
 # ch/kylie/events.rpy:2847
 translate russian kylie_trial_2_2074d193:
@@ -9340,10 +9288,6 @@ translate russian kylie_trial_2_40293a4c_1:
 translate russian kylie_trial_2_2c613461:
     "Может, на суде я мог сделать больше, чтобы ей помочь..."
 
-# ch/kylie/events.rpy:2954
-translate russian kylie_trial_2_6bf346d6:
-    "Стоило подготовить речь, изучить право и, возможно, даже одеться получше..."
-
 # ch/kylie/events.rpy:2965
 translate russian kylie_trial_3_missed_a20cefa7:
     "..."
@@ -9355,10 +9299,6 @@ translate russian kylie_trial_3_missed_07bdde05:
 # ch/kylie/events.rpy:2967
 translate russian kylie_trial_3_missed_2fa667ce:
     "{b}ЁЛКИ-ПАЛКИ!{/b}" with hpunch
-
-# ch/kylie/events.rpy:2968
-translate russian kylie_trial_3_missed_02ae094e:
-    "Только сейчас вспомнил: сегодня я должен был присутствовать на казни Кайли!"
 
 # ch/kylie/events.rpy:2969
 translate russian kylie_trial_3_missed_1f080766:
@@ -9785,7 +9725,7 @@ translate russian kylie_attack_8629e27e:
     kylie.say "Поэтому и стучала так тихо!"
 
 # ch/kylie/events.rpy:3131
-translate russian kylie_attack_438ec37e:
+translate russian kylie_attack_96e2d0d8:
     mike.say "Но... такой стук меня бы вообще не разбудил."
 
 # ch/kylie/events.rpy:3133
@@ -9929,7 +9869,7 @@ translate russian kylie_attack_05380bd3:
     kylie.say "Вот так! Принял лекарство, как хороший мальчик!"
 
 # ch/kylie/events.rpy:3187
-translate russian kylie_attack_c5040911:
+translate russian kylie_attack_b64c523e:
     mike.say "У-у... какого... хуя!"
 
 # ch/kylie/events.rpy:3189
@@ -9961,7 +9901,7 @@ translate russian kylie_attack_fcd2385c:
     "Раньше на мне были футболка и шорты, теперь же я совершенно голый."
 
 # ch/kylie/events.rpy:3202
-translate russian kylie_attack_efab6235:
+translate russian kylie_attack_4d43a1fa:
     mike.say "Блядь... блядь... блядь..."
 
 # ch/kylie/events.rpy:3203
@@ -9985,7 +9925,7 @@ translate russian kylie_attack_e3109aaa:
     "Теперь смеюсь я — отчаянно, поражённый тем, что она только что сказала."
 
 # ch/kylie/events.rpy:3209
-translate russian kylie_attack_94db0722:
+translate russian kylie_attack_0de9b319:
     mike.say "Что... ты... ты всё ещё думаешь, что я займусь с тобой сексом?"
 
 # ch/kylie/events.rpy:3210
@@ -10049,7 +9989,7 @@ translate russian kylie_attack_9be714c3:
     "К чёрту всю эту мачистскую чушь о том, что я должен справиться сам. Мне нужна помощь, срочно!"
 
 # ch/kylie/events.rpy:3231
-translate russian kylie_attack_23e08ebe:
+translate russian kylie_attack_60a3b925:
     mike.say "ПОМОГИТЕ... ПОМОГИТЕ МНЕ... РАДИ БОГА, ПОМОГИТЕ!"
 
 # ch/kylie/events.rpy:3232
@@ -10119,10 +10059,6 @@ translate russian kylie_attack_14a37675:
 # ch/kylie/events.rpy:3254
 translate russian kylie_attack_459a89cb:
     "Но я напрасно жду помощи: [bree.name] словно приросла к месту от ужаса."
-
-# ch/kylie/events.rpy:3255
-translate russian kylie_attack_cc5fa34c:
-    mike.say "[bree.name], чего ты ждёшь?!"
 
 # ch/kylie/events.rpy:3256
 translate russian kylie_attack_19de3572:
@@ -10253,7 +10189,7 @@ translate russian kylie_attack_437a01ea:
     mike.say "Ох, чёрт..."
 
 # ch/kylie/events.rpy:3303
-translate russian kylie_attack_fb47a952:
+translate russian kylie_attack_4f360ae2:
     mike.say "Кайли... я сейчас..."
 
 # ch/kylie/events.rpy:3304
@@ -10261,7 +10197,7 @@ translate russian kylie_attack_c2d69962:
     kylie.say "Ох, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/events.rpy:3305
-translate russian kylie_attack_7cbeae31:
+translate russian kylie_attack_c8968cdb:
     kylie.say "Давай... наполни меня изнутри!"
 
 # ch/kylie/events.rpy:3306
@@ -10461,7 +10397,7 @@ translate russian kylie_attack_437a01ea_1:
     mike.say "Ох, чёрт..."
 
 # ch/kylie/events.rpy:3382
-translate russian kylie_attack_fb47a952_1:
+translate russian kylie_attack_4f360ae2_1:
     mike.say "Кайли... я сейчас..."
 
 # ch/kylie/events.rpy:3383
@@ -10469,7 +10405,7 @@ translate russian kylie_attack_c2d69962_1:
     kylie.say "Ох, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/events.rpy:3384
-translate russian kylie_attack_7cbeae31_1:
+translate russian kylie_attack_c8968cdb_1:
     kylie.say "Давай... наполни меня изнутри!"
 
 # ch/kylie/events.rpy:3385
@@ -10601,7 +10537,7 @@ translate russian kylie_attack_437a01ea_2:
     mike.say "Ох, чёрт..."
 
 # ch/kylie/events.rpy:3433
-translate russian kylie_attack_fb47a952_2:
+translate russian kylie_attack_4f360ae2_2:
     mike.say "Кайли... я сейчас..."
 
 # ch/kylie/events.rpy:3434
@@ -10609,7 +10545,7 @@ translate russian kylie_attack_c2d69962_2:
     kylie.say "Ох, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/events.rpy:3435
-translate russian kylie_attack_7cbeae31_2:
+translate russian kylie_attack_c8968cdb_2:
     kylie.say "Давай... наполни меня изнутри!"
 
 # ch/kylie/events.rpy:3436
@@ -11089,7 +11025,7 @@ translate russian kylie_preg_talk_eeeb49d4:
     "Впрочем, вскоре вспоминаю: это Кайли попросила о встрече, потому что хотела что-то сообщить."
 
 # ch/kylie/events.rpy:3649
-translate russian kylie_preg_talk_b58fea97:
+translate russian kylie_preg_talk_7b03140e:
     mike.say "Эм... ты говорила, что хочешь увидеться, Кайли?"
 
 # ch/kylie/events.rpy:3650
@@ -11153,7 +11089,7 @@ translate russian kylie_preg_talk_3c530d5d:
     kylie.say "Разве ты не понимаешь?"
 
 # ch/kylie/events.rpy:3676
-translate russian kylie_preg_talk_ea1df29b:
+translate russian kylie_preg_talk_1b729669:
     kylie.say "Словно сама судьба вмешалась и дала нам причину, по которой мы ОБЯЗАНЫ быть вместе... навсегда!"
 
 # ch/kylie/events.rpy:3678
@@ -11169,7 +11105,7 @@ translate russian kylie_preg_talk_afa7eaa5:
     "Прежде её глаза казались широко раскрытыми от восторга, а теперь в них словно бушует огонь."
 
 # ch/kylie/events.rpy:3682
-translate russian kylie_preg_talk_30308d94:
+translate russian kylie_preg_talk_e8150456:
     "Это почти... что ж... честно говоря, это меня почти пугает."
 
 # ch/kylie/events.rpy:3685
@@ -11189,7 +11125,7 @@ translate russian kylie_preg_talk_eaac07f0:
     "И последнее, что ей сейчас нужно, — чтобы этот мужчина вёл себя как незрелый, безответственный придурок!"
 
 # ch/kylie/events.rpy:3689
-translate russian kylie_preg_talk_c2a38b4e:
+translate russian kylie_preg_talk_e8c39a19:
     mike.say "Прости, Кайли. Ты права... конечно, ты права."
 
 # ch/kylie/events.rpy:3690
@@ -11257,7 +11193,7 @@ translate russian kylie_preg_talk_186cf6c2:
     "Но я не готов к ребёнку, да и её никогда не представлял семейным человеком."
 
 # ch/kylie/events.rpy:3716
-translate russian kylie_preg_talk_7c455950:
+translate russian kylie_preg_talk_685715f4:
     mike.say "Ты... похоже, уже решила оставить ребёнка, Кайли."
 
 # ch/kylie/events.rpy:3718
@@ -11277,7 +11213,7 @@ translate russian kylie_preg_talk_75430e86:
     kylie.say "Этот малыш — символ того, что нам всегда было суждено быть вместе..."
 
 # ch/kylie/events.rpy:3723
-translate russian kylie_preg_talk_f066ed8a:
+translate russian kylie_preg_talk_44947b56:
     mike.say "Нет, Кайли... ты не понимаешь."
 
 # ch/kylie/events.rpy:3724
@@ -11313,7 +11249,7 @@ translate russian kylie_preg_talk_7172f2da:
     "Удивлённый тем, что она так быстро заговорила, я не сразу осознаю её слова."
 
 # ch/kylie/events.rpy:3736
-translate russian kylie_preg_talk_547f207e:
+translate russian kylie_preg_talk_90e05c57:
     mike.say "Подожди... что... понимаешь?!"
 
 # ch/kylie/events.rpy:3738
@@ -11329,7 +11265,7 @@ translate russian kylie_preg_talk_58d1f027:
     kylie.say "Вот и разбирайся. А мы с малышом будем ждать, когда ты будешь готов."
 
 # ch/kylie/events.rpy:3743
-translate russian kylie_preg_talk_ad9bbf07:
+translate russian kylie_preg_talk_4b80a2c6:
     mike.say "Нет, Кайли... дело не в этом. Ты переворачиваешь мои слова..."
 
 # ch/kylie/events.rpy:3745
@@ -11337,7 +11273,7 @@ translate russian kylie_preg_talk_d0b4656d:
     "Прежде чем я успеваю продолжить, Кайли прикладывает палец к моим губам и останавливает меня."
 
 # ch/kylie/events.rpy:3747
-translate russian kylie_preg_talk_f2d0b318:
+translate russian kylie_preg_talk_4fa64302:
     kylie.say "Тс-с... всё хорошо."
 
 # ch/kylie/events.rpy:3748
@@ -11461,7 +11397,7 @@ translate russian kylie_preg_talk_737e9e9b:
     "Не хочу этого говорить. Всем своим существом хочу удержаться."
 
 # ch/kylie/events.rpy:3787
-translate russian kylie_preg_talk_29461025:
+translate russian kylie_preg_talk_157c4d1d:
     "Но не могу... просто не могу."
 
 # ch/kylie/events.rpy:3788
@@ -11637,7 +11573,7 @@ translate russian kylie_preg_talk_50c176f0:
     "А значит, она совершенно и безнадёжно безумна!"
 
 # ch/kylie/events.rpy:3860
-translate russian kylie_preg_talk_aa495b3c:
+translate russian kylie_preg_talk_2ba97e57:
     mike.say "Ч... чего ты хочешь, Кайли?"
 
 # ch/kylie/events.rpy:3862
@@ -11741,11 +11677,11 @@ translate russian kylie_preg_talk_bf01803f:
     "Хочу я того или нет, здесь замешана ещё одна жизнь."
 
 # ch/kylie/events.rpy:3898
-translate russian kylie_preg_talk_772a044e:
+translate russian kylie_preg_talk_b5324e96:
     mike.say "П... правда, Кайли?"
 
 # ch/kylie/events.rpy:3899
-translate russian kylie_preg_talk_01530eae:
+translate russian kylie_preg_talk_8d40b2e2:
     mike.say "Э... это хорошая новость!"
 
 # ch/kylie/events.rpy:3900
@@ -11857,7 +11793,7 @@ translate russian kylie_preg_talk_19fa6846:
     "Я едва не вздыхаю с облегчением — наконец-то мои слова до неё доходят."
 
 # ch/kylie/events.rpy:3938
-translate russian kylie_preg_talk_b42c3913:
+translate russian kylie_preg_talk_2ecdaa38:
     kylie.say "Т... ты же не всерьёз, [lssb_kylie.hero_name()]."
 
 # ch/kylie/events.rpy:3939
@@ -11933,7 +11869,7 @@ translate russian kylie_preg_talk_47601a2e:
     "Внутри неё уже растёт ещё одна возможная жертва!"
 
 # ch/kylie/events.rpy:3962
-translate russian kylie_preg_talk_9ea95b71:
+translate russian kylie_preg_talk_a196391f:
     mike.say "Т... ты серьёзно, Кайли?"
 
 # ch/kylie/events.rpy:3963
@@ -12561,11 +12497,11 @@ translate russian kylie_event_11b_2a1666d2_2:
     "Священник" "В законные жёны?"
 
 # ch/kylie/events.rpy:4202
-translate russian kylie_event_11b_afdd02b0:
+translate russian kylie_event_11b_1a3f4f16:
     mike.say "Д... да..."
 
 # ch/kylie/events.rpy:4203
-translate russian kylie_event_11b_5691612e:
+translate russian kylie_event_11b_88546c1b:
     mike.say "Согласен... согласен!"
 
 # ch/kylie/events.rpy:4204
@@ -12653,7 +12589,7 @@ translate russian kylie_event_11b_5b286f3c:
     "Я не должен показывать ей свой страх..."
 
 # ch/kylie/events.rpy:4236
-translate russian kylie_event_11b_bfb2ee15:
+translate russian kylie_event_11b_a0168698:
     "Нужно показать, что я не сломлен... нужно!"
 
 # ch/kylie/events.rpy:4237
@@ -12965,7 +12901,7 @@ translate russian kylie_event_10b_609dd551:
     "Крики доносятся оттуда, а не из гостиной."
 
 # ch/kylie/events.rpy:4327
-translate russian kylie_event_10b_743b9c96:
+translate russian kylie_event_10b_ffacb7f1:
     bree.say "Ты... ты психопатка!"
 
 # ch/kylie/events.rpy:4328
@@ -13053,7 +12989,7 @@ translate russian kylie_event_10b_5fa9c859:
     "Один с Кайли, готовой убить, и её любимым оружием!"
 
 # ch/kylie/events.rpy:4365
-translate russian kylie_event_10b_34bce2a2:
+translate russian kylie_event_10b_49873691:
     mike.say "Т... тише, Кайли! Успокойся!"
 
 # ch/kylie/events.rpy:4366
@@ -13124,10 +13060,6 @@ translate russian kylie_event_10b_5c5ae3b1:
 translate russian kylie_event_10b_802c8cab:
     "В прихожей стоит [bree.name]."
 
-# ch/kylie/events.rpy:4392
-translate russian kylie_event_10b_3dc7f442:
-    mike.say "[bree.name]..."
-
 # ch/kylie/events.rpy:4393
 translate russian kylie_event_10b_c633af0c:
     mike.say "Ты в порядке?"
@@ -13135,10 +13067,6 @@ translate russian kylie_event_10b_c633af0c:
 # ch/kylie/events.rpy:4396
 translate russian kylie_event_10b_806e42e4:
     "В прихожей стоит [bree.name], и Саша её успокаивает."
-
-# ch/kylie/events.rpy:4397
-translate russian kylie_event_10b_3dc7f442_1:
-    mike.say "[bree.name]..."
 
 # ch/kylie/events.rpy:4398
 translate russian kylie_event_10b_c633af0c_1:
@@ -13161,7 +13089,7 @@ translate russian kylie_event_10b_2e0d9466:
     "Её лицо бледное, глаза широко раскрыты."
 
 # ch/kylie/events.rpy:4404
-translate russian kylie_event_10b_b822c020:
+translate russian kylie_event_10b_a3ae4007:
     bree.say "Я... я в порядке..."
 
 # ch/kylie/events.rpy:4405
@@ -13169,7 +13097,7 @@ translate russian kylie_event_10b_ba2002fa:
     bree.say "Она не задела меня ножом..."
 
 # ch/kylie/events.rpy:4406
-translate russian kylie_event_10b_e4191a36:
+translate russian kylie_event_10b_d2ca814c:
     bree.say "Т... ты знаешь эту девушку?"
 
 # ch/kylie/events.rpy:4409
@@ -13567,10 +13495,6 @@ translate russian kylie_event_09b_30b0370a:
 # ch/kylie/events.rpy:4553
 translate russian kylie_event_09b_d2be2437:
     "Иначе я бы, наверное, не поверил, что всё произошло на самом деле."
-
-# ch/kylie/events.rpy:4554
-translate russian kylie_event_09b_d23eba97:
-    "Убедил бы себя, что мне всё приснилось или померещилось!"
 
 # ch/kylie/events.rpy:4555
 translate russian kylie_event_09b_322752f3:
@@ -14185,11 +14109,11 @@ translate russian kylie_event_09a_46b19d0d:
     "К этому она пришла на сеансах терапии?"
 
 # ch/kylie/events.rpy:4783
-translate russian kylie_event_09a_4af9c99e:
+translate russian kylie_event_09a_fc74b6df:
     "О нет... неужели я сам подтолкнул её разобрать по кусочкам чувства ко мне?"
 
 # ch/kylie/events.rpy:4784
-translate russian kylie_event_09a_8602a828:
+translate russian kylie_event_09a_196285e4:
     mike.say "Т... ты хочешь сказать..."
 
 # ch/kylie/events.rpy:4785
@@ -14485,7 +14409,7 @@ translate russian kylie_event_08b_e69bb63a:
     mike.say "Кайли..."
 
 # ch/kylie/events.rpy:4888
-translate russian kylie_event_08b_bdc3aa66:
+translate russian kylie_event_08b_0b0e1c01:
     mike.say "Я... я волновался за тебя."
 
 # ch/kylie/events.rpy:4889
@@ -14729,7 +14653,7 @@ translate russian kylie_event_08a_48206999:
     kylie.say "Он научил меня разным способам успокаиваться и сосредотачиваться."
 
 # ch/kylie/events.rpy:4970
-translate russian kylie_event_08a_13deeffe:
+translate russian kylie_event_08a_ac19fd3f:
     kylie.say "Я... я просто так рада тебя видеть!"
 
 # ch/kylie/events.rpy:4972
@@ -15321,7 +15245,7 @@ translate russian kylie_event_07a_39a5ab38:
     kylie.say "Мне нужно кое-что сказать тебе, [lssb_kylie.hero_name()]."
 
 # ch/kylie/events.rpy:5204
-translate russian kylie_event_07a_72a2f099:
+translate russian kylie_event_07a_7e222ce3:
     kylie.say "Я... прости меня!"
 
 # ch/kylie/events.rpy:5206
@@ -15369,7 +15293,7 @@ translate russian kylie_event_07a_8106cc2b:
     kylie.say "За всё!"
 
 # ch/kylie/events.rpy:5218
-translate russian kylie_event_07a_31d229b8:
+translate russian kylie_event_07a_4f777bf7:
     kylie.say "Просто... иногда я словно не могу себя остановить!"
 
 # ch/kylie/events.rpy:5219
@@ -15433,7 +15357,7 @@ translate russian kylie_event_07a_75501c80:
     kylie.say "И это могло бы дать мне нужный стимул измениться."
 
 # ch/kylie/events.rpy:5238
-translate russian kylie_event_07a_b2b8698e:
+translate russian kylie_event_07a_93e614e0:
     kylie.say "Если... если позволишь мне стать твоей девушкой..."
 
 # ch/kylie/events.rpy:5239
@@ -15449,7 +15373,7 @@ translate russian kylie_event_07a_8eecc4a6:
     "Я понимаю: все её надежды сейчас зависят от моего ответа."
 
 # ch/kylie/events.rpy:5247
-translate russian kylie_event_07a_62edc68b:
+translate russian kylie_event_07a_7d4d76d9:
     "Господи... я пришёл поставить Кайли перед фактом."
 
 # ch/kylie/events.rpy:5248
@@ -15813,7 +15737,7 @@ translate russian kylie_event_06_eb40bfd4:
     kylie.say "Ещё раз спасибо, что впустил, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/events.rpy:5370
-translate russian kylie_event_06_1a31b107:
+translate russian kylie_event_06_101a4417:
     mike.say "Ну... что я за друг, если оставлю тебя одну на холоде?"
 
 # ch/kylie/events.rpy:5372
@@ -15821,7 +15745,7 @@ translate russian kylie_event_06_54c23f98:
     kylie.say "Ох, [lssb_kylie.hero_name()], как же мне повезло с таким другом!"
 
 # ch/kylie/events.rpy:5373
-translate russian kylie_event_06_6d726c6f:
+translate russian kylie_event_06_fbf1eccd:
     mike.say "Эм... ну... вот мы и здесь..."
 
 # ch/kylie/events.rpy:5374
@@ -15881,7 +15805,7 @@ translate russian kylie_event_06_4bbbcce4:
     "Но почему-то, когда она входит и садится рядом на кровать, всё ощущается иначе."
 
 # ch/kylie/events.rpy:5398
-translate russian kylie_event_06_38b562e6:
+translate russian kylie_event_06_1cef6e2e:
     mike.say "Ну... расскажешь, почему вот так появилась на моём пороге?"
 
 # ch/kylie/events.rpy:5399
@@ -15901,7 +15825,7 @@ translate russian kylie_event_06_d1953587:
     kylie.say "Я знала, что нужно обратиться именно к тебе!"
 
 # ch/kylie/events.rpy:5405
-translate russian kylie_event_06_4b258e15:
+translate russian kylie_event_06_90635239:
     mike.say "Эм... да... конечно..."
 
 # ch/kylie/events.rpy:5406
@@ -16069,7 +15993,7 @@ translate russian kylie_event_06_50c06d25:
     "Слегка хмурюсь, протягивая дымящуюся чашку."
 
 # ch/kylie/events.rpy:5456
-translate russian kylie_event_06_4805a227:
+translate russian kylie_event_06_24a1f205:
     mike.say "Эм... меня ведь не было от силы минут пять!"
 
 # ch/kylie/events.rpy:5458
@@ -16097,7 +16021,7 @@ translate russian kylie_event_06_bc23c880:
     "Чем больше узнаю о её, признаю, многочисленных недостатках, тем сильнее хочу её спасти."
 
 # ch/kylie/events.rpy:5465
-translate russian kylie_event_06_fa68662c:
+translate russian kylie_event_06_73d9ce2f:
     "Она словно прекрасная сломанная кукла. И мне так хочется стать тем, кто её починит, снова сделает целой."
 
 # ch/kylie/events.rpy:5466
@@ -16137,7 +16061,7 @@ translate russian kylie_event_06_fa10386c:
     "Кайли сплетает пальцы на коленях и смущённо смотрит на них."
 
 # ch/kylie/events.rpy:5478
-translate russian kylie_event_06_f645ce7b:
+translate russian kylie_event_06_aac3cbc1:
     kylie.say "И... хотела извиниться... за то, как повела себя, когда увидела тебя с той девушкой..."
 
 # ch/kylie/events.rpy:5480
@@ -16153,7 +16077,7 @@ translate russian kylie_event_06_86f1a916:
     mike.say "Это было не совсем правдой."
 
 # ch/kylie/events.rpy:5483
-translate russian kylie_event_06_b8c01542:
+translate russian kylie_event_06_157a3a67:
     mike.say "Хочу сказать... мои чувства к ней, наверное, не так сильны, как могло показаться из моих слов..."
 
 # ch/kylie/events.rpy:5484
@@ -16165,7 +16089,7 @@ translate russian kylie_event_06_33055056:
     kylie.say "То есть ты говоришь, что ко мне у тебя могут быть более сильные чувства?!"
 
 # ch/kylie/events.rpy:5488
-translate russian kylie_event_06_96e51c0b:
+translate russian kylie_event_06_4fdbb0a7:
     mike.say "Да... возможно... сам толком не знаю!"
 
 # ch/kylie/events.rpy:5490
@@ -16185,7 +16109,7 @@ translate russian kylie_event_06_dbc0de4a:
     "С этими словами она встаёт, словно собирается уходить."
 
 # ch/kylie/events.rpy:5496
-translate russian kylie_event_06_74bb6b4d:
+translate russian kylie_event_06_d72bdde3:
     mike.say "Ты... ты уходишь?"
 
 # ch/kylie/events.rpy:5498
@@ -16405,7 +16329,7 @@ translate russian kylie_event_05_440111b0:
     mike.say "Прекрасно понимаю твои чувства."
 
 # ch/kylie/events.rpy:5572
-translate russian kylie_event_05_d6d8af56:
+translate russian kylie_event_05_7ca82496:
     kylie.say "Уф... это же так СКУЧНО!"
 
 # ch/kylie/events.rpy:5573
@@ -16441,7 +16365,7 @@ translate russian kylie_event_05_4cd130c0:
     "Теперь она смотрит щенячьими глазами, и получается у неё пугающе хорошо."
 
 # ch/kylie/events.rpy:5585
-translate russian kylie_event_05_6659c6a6:
+translate russian kylie_event_05_deebe7b1:
     mike.say "Эм... Кайли, ты серьёзно просишь меня помочь с учёбой?"
 
 # ch/kylie/events.rpy:5587
@@ -16461,7 +16385,7 @@ translate russian kylie_event_05_7138042d:
     "Если хотела отвлечь и запутать меня, то прекрасно справилась."
 
 # ch/kylie/events.rpy:5592
-translate russian kylie_event_05_9d48d78e:
+translate russian kylie_event_05_0f33ca55:
     mike.say "А... я... эм..."
 
 # ch/kylie/events.rpy:5594
@@ -16525,7 +16449,7 @@ translate russian kylie_event_05_81bb9b47:
     "Неудивительно, что она рада... правда?"
 
 # ch/kylie/events.rpy:5619
-translate russian kylie_event_05_64e17725:
+translate russian kylie_event_05_8d444633:
     kylie.say "О-о... классное жильё, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/events.rpy:5620
@@ -16657,7 +16581,7 @@ translate russian kylie_event_05_fc2d1556:
     "Понимаю, почему новичок может запутаться, но для моего уровня это азы."
 
 # ch/kylie/events.rpy:5659
-translate russian kylie_event_05_62a848d4:
+translate russian kylie_event_05_dfe2eda1:
     kylie.say "Хм... кажется, понимаю, [lssb_kylie.hero_name()]. Но это пиздец как скучно!"
 
 # ch/kylie/events.rpy:5661
@@ -16669,11 +16593,11 @@ translate russian kylie_event_05_3ece2a5a:
     "Длинные светлые волосы ложатся мне на плечо, пряди касаются щеки."
 
 # ch/kylie/events.rpy:5663
-translate russian kylie_event_05_b77c5930:
+translate russian kylie_event_05_49354f25:
     mike.say "Я... наверное... да, это так!"
 
 # ch/kylie/events.rpy:5665
-translate russian kylie_event_05_a2b43f60:
+translate russian kylie_event_05_747e08a9:
     kylie.say "М-м-м... мне скучно, [lssb_kylie.hero_name()]..."
 
 # ch/kylie/events.rpy:5667
@@ -16685,11 +16609,11 @@ translate russian kylie_event_05_5bc0a6e6:
     "Она говорит с придыханием, почти шепчет мне на ухо."
 
 # ch/kylie/events.rpy:5670
-translate russian kylie_event_05_ffb93dcb:
+translate russian kylie_event_05_62b9a54c:
     kylie.say "Может, пойдём займёмся чем-нибудь... другим?"
 
 # ch/kylie/events.rpy:5672
-translate russian kylie_event_05_0a5095ff:
+translate russian kylie_event_05_3265978a:
     mike.say "Нет, думаю, не стоит... не стоит так быстро сдаваться!"
 
 # ch/kylie/events.rpy:5674
@@ -16697,7 +16621,7 @@ translate russian kylie_event_05_4147322d:
     "Кайли немного отодвигается, но я всё ещё вижу выражение её глаз."
 
 # ch/kylie/events.rpy:5676
-translate russian kylie_event_05_a74d5d3a:
+translate russian kylie_event_05_893b997f:
     kylie.say "То есть... ты не хочешь..."
 
 # ch/kylie/events.rpy:5678
@@ -16705,7 +16629,7 @@ translate russian kylie_event_05_3173e7f4:
     "Она проводит тыльной стороной ладони по моей щеке, затем обхватывает пальцами шею сзади."
 
 # ch/kylie/events.rpy:5679
-translate russian kylie_event_05_3f2ad3ba:
+translate russian kylie_event_05_b0260685:
     mike.say "Потом... потом куда-нибудь сходим. Когда закончим, ладно?"
 
 # ch/kylie/events.rpy:5680
@@ -16777,11 +16701,11 @@ translate russian kylie_event_05_70b7ae99:
     kylie.say "Я правда думала, что ты мой друг, [lssb_kylie.hero_name()]. Думала, я тебе небезразлична!"
 
 # ch/kylie/events.rpy:5705
-translate russian kylie_event_05_6c644dac:
+translate russian kylie_event_05_62024f87:
     mike.say "Послушай, Кайли... жаль, что ты разочарована, но..."
 
 # ch/kylie/events.rpy:5707
-translate russian kylie_event_05_794d3f73:
+translate russian kylie_event_05_acda60d7:
     kylie.say "НЕТ... нет... всё нормально... нормально."
 
 # ch/kylie/events.rpy:5709
@@ -16809,7 +16733,7 @@ translate russian kylie_event_05_19c7f114:
     mike.say "Господи, Кайли!"
 
 # ch/kylie/events.rpy:5718
-translate russian kylie_event_05_b6c68c44:
+translate russian kylie_event_05_e87c83aa:
     kylie.say "Уф... не могу поверить, что это происходит со мной!"
 
 # ch/kylie/events.rpy:5720
@@ -16845,7 +16769,7 @@ translate russian kylie_event_05_4afcc1a3:
     "Кайли начинает тащить меня за воротник против моей воли."
 
 # ch/kylie/events.rpy:5735
-translate russian kylie_event_05_92352f48:
+translate russian kylie_event_05_0160853d:
     mike.say "Кайли... Кайли, остановись!"
 
 # ch/kylie/events.rpy:5736
@@ -16889,11 +16813,11 @@ translate russian kylie_event_05_2ca6b043:
     "Она вздыхает так глубоко и горестно, словно на плечи опускается тяжесть всего мира."
 
 # ch/kylie/events.rpy:5753
-translate russian kylie_event_05_6162659f:
+translate russian kylie_event_05_d07973f8:
     kylie.say "Нет... ты прав. Я не могу заставить тебя пойти со мной."
 
 # ch/kylie/events.rpy:5754
-translate russian kylie_event_05_68c3d327:
+translate russian kylie_event_05_6bfce436:
     kylie.say "Прости, [lssb_kylie.hero_name()]... иногда я просто... слишком поддаюсь эмоциям, наверное."
 
 # ch/kylie/events.rpy:5758
@@ -16905,15 +16829,15 @@ translate russian kylie_event_05_86744003:
     "Хочу помочь Кайли, если смогу, но, по правде говоря, она начинает меня пугать."
 
 # ch/kylie/events.rpy:5760
-translate russian kylie_event_05_f354cd1b:
+translate russian kylie_event_05_1ae7a242:
     mike.say "Эм... ну... все мы иногда увлекаемся..."
 
 # ch/kylie/events.rpy:5762
-translate russian kylie_event_05_1dbad2ad:
+translate russian kylie_event_05_b07b92a4:
     kylie.say "Нет... это другое."
 
 # ch/kylie/events.rpy:5763
-translate russian kylie_event_05_2cefb032:
+translate russian kylie_event_05_ed3ab5f4:
     kylie.say "Это... по-другому. Только я не знаю, как объяснить!"
 
 # ch/kylie/events.rpy:5765
@@ -16937,7 +16861,7 @@ translate russian kylie_event_05_2ba71af1:
     kylie.say "А?"
 
 # ch/kylie/events.rpy:5772
-translate russian kylie_event_05_cc551fdf:
+translate russian kylie_event_05_bde6a61d:
     kylie.say "О... ладно... как скажешь."
 
 # ch/kylie/events.rpy:5774
@@ -16969,7 +16893,7 @@ translate russian kylie_event_05_6561adf0:
     alexis.say "Я тут невольно заметила вашу небольшую потасовку с моей младшей сестрой..."
 
 # ch/kylie/events.rpy:5785
-translate russian kylie_event_05_2e038adb:
+translate russian kylie_event_05_902f4478:
     mike.say "Что... это?"
 
 # ch/kylie/events.rpy:5786
@@ -16985,7 +16909,7 @@ translate russian kylie_event_05_d97e4595:
     "Между нами, как обычно, холодно. И её неодобрительно скрещённые на груди руки не помогают."
 
 # ch/kylie/events.rpy:5791
-translate russian kylie_event_05_f60b2011:
+translate russian kylie_event_05_ded6be7a:
     alexis.say "Ну... ты ведь знаешь, что Кайли всегда была немного... неуравновешенной?"
 
 # ch/kylie/events.rpy:5793
@@ -17013,7 +16937,7 @@ translate russian kylie_event_05_7bf4e305:
     mike.say "Спасибо за совет, Алексис. Обязательно учту."
 
 # ch/kylie/events.rpy:5802
-translate russian kylie_event_05_31cdaccc:
+translate russian kylie_event_05_a37bf62c:
     alexis.say "Да, конечно... конечно."
 
 # ch/kylie/events.rpy:5804
@@ -17213,7 +17137,7 @@ translate russian kylie_event_04_60aa4679:
     "Потом отворачивается и прислоняется к дальней стороне дерева, тяжело дыша от переполняющих эмоций."
 
 # ch/kylie/events.rpy:5871
-translate russian kylie_event_04_833d05f0:
+translate russian kylie_event_04_c636a7e6:
     mike.say "Эм... ну... ещё увидимся, да?"
 
 # ch/kylie/events.rpy:5872
@@ -17257,7 +17181,7 @@ translate russian kylie_event_04_2a957dcb:
     kylie.say "И как ТВОИ дела сегодня?"
 
 # ch/kylie/events.rpy:5894
-translate russian kylie_event_04_e85f3840:
+translate russian kylie_event_04_d3562f30:
     mike.say "Эм... привет, Кайли..."
 
 # ch/kylie/events.rpy:5896
@@ -17273,7 +17197,7 @@ translate russian kylie_event_04_098ba2ea:
     "Как это ни бесит, Кайли действует на меня именно так: хочется узнать, каково хоть на миг отдаться её безумию..."
 
 # ch/kylie/events.rpy:5899
-translate russian kylie_event_04_97a643d1:
+translate russian kylie_event_04_cfaa8220:
     mike.say "Я нормально... наверное, учитывая всё."
 
 # ch/kylie/events.rpy:5900
@@ -17289,7 +17213,7 @@ translate russian kylie_event_04_0e396159:
     "Но сразу после этих слов её лицо напрягается, и она склоняет голову набок."
 
 # ch/kylie/events.rpy:5906
-translate russian kylie_event_04_9c0b278e:
+translate russian kylie_event_04_3b664820:
     kylie.say "Правда... кое-что меня немножечко, совсем чуть-чуть беспокоит."
 
 # ch/kylie/events.rpy:5907
@@ -17317,7 +17241,7 @@ translate russian kylie_event_04_44333760:
     kylie.say "Ох, [lssb_kylie.hero_name()], я знаю, что могу рассказать тебе всё!"
 
 # ch/kylie/events.rpy:5916
-translate russian kylie_event_04_6f2da9a5:
+translate russian kylie_event_04_025b99ac:
     kylie.say "Но... боюсь, что ты обо мне подумаешь, если я скажу..."
 
 # ch/kylie/events.rpy:5918
@@ -17325,11 +17249,11 @@ translate russian kylie_event_04_46077a1b:
     "Она сцепляет руки за спиной и переминается с ноги на ногу."
 
 # ch/kylie/events.rpy:5920
-translate russian kylie_event_04_d90d928c:
+translate russian kylie_event_04_9f3a0ecb:
     kylie.say "Ох... не знаю, стоит ли говорить..."
 
 # ch/kylie/events.rpy:5922
-translate russian kylie_event_04_d0f4be7e:
+translate russian kylie_event_04_6240afc6:
     mike.say "Нет-нет, Кайли, всё хорошо. Рассказывай."
 
 # ch/kylie/events.rpy:5924
@@ -17353,11 +17277,11 @@ translate russian kylie_event_04_a0338d35:
     "Но с Кайли всегда словно шагаешь с обрыва в неизвестность."
 
 # ch/kylie/events.rpy:5931
-translate russian kylie_event_04_4fcf9fe1:
+translate russian kylie_event_04_ab640df5:
     kylie.say "Я... перед тем как подойти, видела, как с тобой разговаривала [active_girl.name]."
 
 # ch/kylie/events.rpy:5932
-translate russian kylie_event_04_7a488477:
+translate russian kylie_event_04_95b400fd:
     kylie.say "И... наверное, это заставило меня задуматься."
 
 # ch/kylie/events.rpy:5933
@@ -17397,7 +17321,7 @@ translate russian kylie_event_04_2823676a:
     kylie.say "То есть ты ждёшь таких разговоров?"
 
 # ch/kylie/events.rpy:5947
-translate russian kylie_event_04_40ae7036:
+translate russian kylie_event_04_160e4bf2:
     mike.say "Да... наверное."
 
 # ch/kylie/events.rpy:5948
@@ -17421,7 +17345,7 @@ translate russian kylie_event_04_2726a4a8:
     kylie.say "Хотел бы, чтобы она себя ласкала..."
 
 # ch/kylie/events.rpy:5955
-translate russian kylie_event_04_d74b0d6c:
+translate russian kylie_event_04_f355eeeb:
     mike.say "НЕТ... нет, всё не так!"
 
 # ch/kylie/events.rpy:5956
@@ -17429,7 +17353,7 @@ translate russian kylie_event_04_2853fc4f:
     "Она снова за своё: от спокойствия до безумия за пять секунд!"
 
 # ch/kylie/events.rpy:5957
-translate russian kylie_event_04_1f111340:
+translate russian kylie_event_04_61e0b8f5:
     mike.say "Мне... мне очень понравилось то, что ты устроила по телефону той ночью."
 
 # ch/kylie/events.rpy:5958
@@ -17437,7 +17361,7 @@ translate russian kylie_event_04_7b42f631:
     mike.say "Это было невероятно, просто я так устал..."
 
 # ch/kylie/events.rpy:5960
-translate russian kylie_event_04_5e238223:
+translate russian kylie_event_04_27f74b54:
     kylie.say "О... значит, я тебя совсем вымотала?"
 
 # ch/kylie/events.rpy:5961
@@ -17473,11 +17397,11 @@ translate russian kylie_event_04_fa15e4eb:
     kylie.say "Надеюсь, скоро увидимся?"
 
 # ch/kylie/events.rpy:5973
-translate russian kylie_event_04_c84e655e:
+translate russian kylie_event_04_9afbefc3:
     mike.say "Конечно... у нас вроде есть общие занятия."
 
 # ch/kylie/events.rpy:5975
-translate russian kylie_event_04_f3c47735:
+translate russian kylie_event_04_d3deec9a:
     kylie.say "Хм... может, я увижу тебя раньше."
 
 # ch/kylie/events.rpy:5976
@@ -17505,7 +17429,7 @@ translate russian kylie_event_04_5708b68c:
     "Даже поморщившись от её выбора слов, я уже решился сказать необходимое."
 
 # ch/kylie/events.rpy:5987
-translate russian kylie_event_04_2bdc5eee:
+translate russian kylie_event_04_9cea1a8c:
     mike.say "Я... кажется, она мне нравится."
 
 # ch/kylie/events.rpy:5988
@@ -17513,7 +17437,7 @@ translate russian kylie_event_04_e182b36f:
     mike.say "Вообще-то очень нравится..."
 
 # ch/kylie/events.rpy:5990
-translate russian kylie_event_04_6f11a4cd:
+translate russian kylie_event_04_35dc05ca:
     kylie.say "Я... понятно..."
 
 # ch/kylie/events.rpy:5992
@@ -17525,7 +17449,7 @@ translate russian kylie_event_04_0d169a1e:
     "Она не издаёт ни звука, но смотреть всё равно тяжело."
 
 # ch/kylie/events.rpy:5994
-translate russian kylie_event_04_5cd039d9:
+translate russian kylie_event_04_9ca769cc:
     mike.say "Кайли, ты... ты в порядке?"
 
 # ch/kylie/events.rpy:5996
@@ -17533,7 +17457,7 @@ translate russian kylie_event_04_60848aaf:
     kylie.say "О, я в порядке, [lssb_kylie.hero_name()]. Просто замечательно!"
 
 # ch/kylie/events.rpy:5998
-translate russian kylie_event_04_a1c8b3aa:
+translate russian kylie_event_04_0cfcca4b:
     mike.say "Эм... не думаю..."
 
 # ch/kylie/events.rpy:6000
@@ -17541,15 +17465,15 @@ translate russian kylie_event_04_da8fc3f2:
     kylie.say "Правда? С чего ты взял?"
 
 # ch/kylie/events.rpy:6002
-translate russian kylie_event_04_d8e9220b:
+translate russian kylie_event_04_a538fbb3:
     mike.say "Ну... ты выглядишь очень расстроенной. Из-за того, что мне нравится другая девушка."
 
 # ch/kylie/events.rpy:6004
-translate russian kylie_event_04_4da703ad:
+translate russian kylie_event_04_02386610:
     kylie.say "Ха... глупости! С чего бы меня это волновало?"
 
 # ch/kylie/events.rpy:6005
-translate russian kylie_event_04_0d1b7528:
+translate russian kylie_event_04_62772bc5:
     kylie.say "Нет... меня это нисколько не задевает. Ни капельки..."
 
 # ch/kylie/events.rpy:6007
@@ -17581,11 +17505,11 @@ translate russian kylie_event_04_371b8676:
     mike.say "..."
 
 # ch/kylie/events.rpy:6016
-translate russian kylie_event_04_8f925ad8:
+translate russian kylie_event_04_4d3b4df6:
     mike.say "Кайли... эй, поговори со мной. Пожалуйста?"
 
 # ch/kylie/events.rpy:6018
-translate russian kylie_event_04_45d8ffd8:
+translate russian kylie_event_04_fc454b10:
     kylie.say "Всё... всё хорошо... правда..."
 
 # ch/kylie/events.rpy:6020
@@ -17617,7 +17541,7 @@ translate russian kylie_event_04_f32f798d:
     "Но других идей у меня нет."
 
 # ch/kylie/events.rpy:6028
-translate russian kylie_event_04_739216dd:
+translate russian kylie_event_04_ea4718dc:
     mike.say "Я... прости, если дал тебе ложную надежду."
 
 # ch/kylie/events.rpy:6029
@@ -17713,7 +17637,7 @@ translate russian kylie_event_03_ed1581cf:
     "Девушки и раньше давали мне номера. Чёрт, иногда при звонке они даже оказывались настоящими."
 
 # ch/kylie/events.rpy:6064
-translate russian kylie_event_03_33547038:
+translate russian kylie_event_03_1ad89ea1:
     "Но почему-то сейчас всё иначе... «странно» — возможно, слишком сильно сказано, но близко к тому."
 
 # ch/kylie/events.rpy:6065
@@ -17793,7 +17717,7 @@ translate russian kylie_event_03_12d5e77c:
     "С нашей встречи прошло от силы пару дней."
 
 # ch/kylie/events.rpy:6089
-translate russian kylie_event_03_e3e8c3f5:
+translate russian kylie_event_03_4c94f248:
     mike.say "Что... почему ты так решила?"
 
 # ch/kylie/events.rpy:6095
@@ -17809,7 +17733,7 @@ translate russian kylie_event_03_06df8c1c:
     kylie.say "Я всё прокручивала в голове свои слова и поступки."
 
 # ch/kylie/events.rpy:6098
-translate russian kylie_event_03_d5dba390:
+translate russian kylie_event_03_f51c8375:
     kylie.say "Я... была уверена, что ты меня ненавидишь..."
 
 # ch/kylie/events.rpy:6099
@@ -17829,7 +17753,7 @@ translate russian kylie_event_03_4f12d289:
     mike.say "Я просто хотел подождать день-другой, прежде чем звонить."
 
 # ch/kylie/events.rpy:6103
-translate russian kylie_event_03_25dc2a32:
+translate russian kylie_event_03_0780943a:
     mike.say "Потому что... не хотел показаться жалким и навязчивым."
 
 # ch/kylie/events.rpy:6104
@@ -17845,7 +17769,7 @@ translate russian kylie_event_03_7b91cb6c:
     mike.say "И все моложе и симпатичнее меня..."
 
 # ch/kylie/events.rpy:6107
-translate russian kylie_event_03_7c83cbb3:
+translate russian kylie_event_03_9a83983d:
     kylie.say "НЕТ... то есть... нет, ничего подобного!"
 
 # ch/kylie/events.rpy:6108
@@ -17897,16 +17821,12 @@ translate russian kylie_event_03_d29cbbf6:
     kylie.say "Где ты сейчас?"
 
 # ch/kylie/events.rpy:6120
-translate russian kylie_event_03_9566755e:
+translate russian kylie_event_03_a4fc2cf6:
     mike.say "Эм... я как раз подумывал собираться спать."
 
 # ch/kylie/events.rpy:6121
 translate russian kylie_event_03_a54bea7b:
     kylie.say "А я тебя опередила. Уже под одеялом!"
-
-# ch/kylie/events.rpy:6122
-translate russian kylie_event_03_4274bc51:
-    kylie.say "И на мне только маленькие розовые трусики..."
 
 # ch/kylie/events.rpy:6123
 translate russian kylie_event_03_e40be934:
@@ -17925,7 +17845,7 @@ translate russian kylie_event_03_b7983842:
     kylie.say "Представляешь это, да, [lssb_kylie.hero_name()]?"
 
 # ch/kylie/events.rpy:6127
-translate russian kylie_event_03_c1b31958:
+translate russian kylie_event_03_1f969dd2:
     kylie.say "Не стыдись, всё хорошо. Я совершенно не против!"
 
 # ch/kylie/events.rpy:6128
@@ -17965,7 +17885,7 @@ translate russian kylie_event_03_0bea5a8b:
     "Может, именно ощущение, что всё это неправильно, заставляет так хотеть продолжения?"
 
 # ch/kylie/events.rpy:6141
-translate russian kylie_event_03_1d7f285d:
+translate russian kylie_event_03_e5e8f1a6:
     kylie.say "Ах... теперь я ввожу их в киску, [lssb_kylie.hero_name()]."
 
 # ch/kylie/events.rpy:6142
@@ -17999,10 +17919,6 @@ translate russian kylie_event_03_31fd7781:
 # ch/kylie/events.rpy:6149
 translate russian kylie_event_03_38ef5779:
     "Хуже всего, что я, кажется, и не хочу в ближайшее время её оттуда выгонять."
-
-# ch/kylie/events.rpy:6154
-translate russian kylie_event_02_7af0dcd9:
-    "Вхожу в университетскую библиотеку и оглядываюсь, словно впервые здесь оказался."
 
 # ch/kylie/events.rpy:6155
 translate russian kylie_event_02_0bae8a84:
@@ -18057,7 +17973,7 @@ translate russian kylie_event_02_28f1c28f:
     kylie.say "[lssb_kylie.hero_name()]... можешь не обращаться со мной как с маленькой девочкой?"
 
 # ch/kylie/events.rpy:6177
-translate russian kylie_event_02_a027bc83:
+translate russian kylie_event_02_892fb817:
     kylie.say "Я уже выросла. Совершеннолетняя... понимаешь?"
 
 # ch/kylie/events.rpy:6179
@@ -18133,7 +18049,7 @@ translate russian kylie_event_02_98fe7c22:
     kylie.say "Тем, что храню в себе уже много лет."
 
 # ch/kylie/events.rpy:6213
-translate russian kylie_event_02_0cdb05cb:
+translate russian kylie_event_02_fa4ee872:
     mike.say "Ладно, Кайли... что ты хочешь рассказать?"
 
 # ch/kylie/events.rpy:6214
@@ -18145,11 +18061,11 @@ translate russian kylie_event_02_0b797b41:
     kylie.say "Ты мне нравишься, [lssb_kylie.hero_name()]."
 
 # ch/kylie/events.rpy:6218
-translate russian kylie_event_02_27fb34aa:
+translate russian kylie_event_02_9ece2cf1:
     mike.say "Эм... ты мне тоже нравишься, Кайли."
 
 # ch/kylie/events.rpy:6220
-translate russian kylie_event_02_8e1ea35a:
+translate russian kylie_event_02_babbcad3:
     kylie.say "Нет... я имею в виду, ОЧЕНЬ нравишься."
 
 # ch/kylie/events.rpy:6221
@@ -18157,11 +18073,11 @@ translate russian kylie_event_02_e316b2cd:
     kylie.say "Ты нравишься мне с той самой минуты, как я тебя впервые увидела."
 
 # ch/kylie/events.rpy:6223
-translate russian kylie_event_02_ff2869b9:
+translate russian kylie_event_02_67d3b6aa:
     mike.say "Эм... правда?"
 
 # ch/kylie/events.rpy:6225
-translate russian kylie_event_02_4cef8dfd:
+translate russian kylie_event_02_bc1eb886:
     kylie.say "Да... правда!"
 
 # ch/kylie/events.rpy:6226
@@ -18185,7 +18101,7 @@ translate russian kylie_event_02_1f005bab:
     kylie.say "Что ты за чудовище?!"
 
 # ch/kylie/events.rpy:6254
-translate russian kylie_event_02_89c3aa09:
+translate russian kylie_event_02_adef726b:
     kylie.say "Что... тебе нравится [g], да?"
 
 # ch/kylie/events.rpy:6255
@@ -18233,7 +18149,7 @@ translate russian kylie_event_02_27fc09a4:
     kylie.say "А если пригласишь меня на свидание, мы сможем хорошенько привести тебя в чувство."
 
 # ch/kylie/events.rpy:6293
-translate russian kylie_event_02_8c999801:
+translate russian kylie_event_02_63bf3df1:
     mike.say "Ты... хочешь пойти со мной на свидание?"
 
 # ch/kylie/events.rpy:6295
@@ -18317,7 +18233,7 @@ translate russian kylie_birthday_date_male_467757e1:
     "Хотел точно знать, что весь дом будет в нашем распоряжении."
 
 # ch/kylie/events.rpy:6330
-translate russian kylie_birthday_date_male_9d5c91d5:
+translate russian kylie_birthday_date_male_8939ecdc:
     "Потому что... ну, думаю, причина понятна!"
 
 # ch/kylie/events.rpy:6331
@@ -18527,10 +18443,6 @@ translate russian kylie_birthday_date_male_44088c6c:
 # ch/kylie/events.rpy:6404
 translate russian kylie_birthday_date_male_09fbcb9a:
     kylie.say "Мне никто никогда таких вещей не говорит."
-
-# ch/kylie/events.rpy:6405
-translate russian kylie_birthday_date_male_132bee33:
-    kylie.say "А потом злятся, что я не знаю того, чего мне не сказали!"
 
 # ch/kylie/events.rpy:6406
 translate russian kylie_birthday_date_male_c0f4e576:
@@ -19509,7 +19421,7 @@ translate russian kylie_birthday_date_male_c47939b2:
     "Чёрт! Знал же, что нужно было вспомнить ещё что-то!"
 
 # ch/kylie/events.rpy:6756
-translate russian kylie_birthday_date_male_b1ec8dca:
+translate russian kylie_birthday_date_male_57105b4c:
     "Подождите... может, удастся выкрутиться."
 
 # ch/kylie/events.rpy:6757
@@ -19593,7 +19505,7 @@ translate russian kylie_birthday_date_male_c01caa0d:
     kylie.say "О нет, всё так."
 
 # ch/kylie/events.rpy:6791
-translate russian kylie_birthday_date_male_387c2ac2:
+translate russian kylie_birthday_date_male_8e6e8d82:
     kylie.say "Это просто... потрясающе!"
 
 # ch/kylie/events.rpy:6792
@@ -19637,7 +19549,7 @@ translate russian kylie_birthday_date_male_6474f968:
     kylie.say "А..."
 
 # ch/kylie/events.rpy:6806
-translate russian kylie_birthday_date_male_da891915:
+translate russian kylie_birthday_date_male_17f25d24:
     kylie.say "Нет... всё нормально."
 
 # ch/kylie/events.rpy:6807
@@ -19661,7 +19573,7 @@ translate russian kylie_birthday_date_male_c47939b2_1:
     "Чёрт! Знал же, что нужно было вспомнить ещё что-то!"
 
 # ch/kylie/events.rpy:6813
-translate russian kylie_birthday_date_male_b1ec8dca_1:
+translate russian kylie_birthday_date_male_57105b4c_1:
     "Подождите... может, удастся выкрутиться."
 
 # ch/kylie/events.rpy:6814
@@ -19961,7 +19873,7 @@ translate russian kylie_birthday_date_male_9708d76d_1:
     kylie.say "Что?"
 
 # ch/kylie/events.rpy:6925
-translate russian kylie_birthday_date_male_8152c893:
+translate russian kylie_birthday_date_male_cf3055b8:
     kylie.say "А... да, просто прекрасно."
 
 # ch/kylie/events.rpy:6927
@@ -20637,7 +20549,7 @@ translate russian kylie_propose_male_13436813:
     "И опускаюсь на одно колено перед дверью её камеры."
 
 # ch/kylie/events.rpy:7143
-translate russian kylie_propose_male_c2875b87:
+translate russian kylie_propose_male_7f448db3:
     kylie.say "Ч... что происходит?"
 
 # ch/kylie/events.rpy:7145
@@ -20661,7 +20573,7 @@ translate russian kylie_propose_male_84f38506:
     mike.say "Что всегда буду рядом."
 
 # ch/kylie/events.rpy:7150
-translate russian kylie_propose_male_d50a7be7:
+translate russian kylie_propose_male_0ab7236f:
     mike.say "Так... ты выйдешь за меня?"
 
 # ch/kylie/events.rpy:7151
@@ -20761,7 +20673,7 @@ translate russian kylie_propose_male_1cc0df1d:
     "Но она перебивает меня криком, глядя мне за спину."
 
 # ch/kylie/events.rpy:7179
-translate russian kylie_propose_male_d26307f4:
+translate russian kylie_propose_male_cf263717:
     kylie.say "ОХРАНА... ОХРАНА!"
 
 # ch/kylie/events.rpy:7181
@@ -20989,7 +20901,7 @@ translate russian kylie_propose_male_b0687b07:
     "И её глаза расширяются от искреннего удивления."
 
 # ch/kylie/events.rpy:7257
-translate russian kylie_propose_male_8f264c0c:
+translate russian kylie_propose_male_5d1643b5:
     kylie.say "Ч... что ты делаешь?"
 
 # ch/kylie/events.rpy:7258
@@ -21109,7 +21021,7 @@ translate russian kylie_propose_male_5dbb0433:
     kylie.say "Просто в твоей жизни есть кое-что."
 
 # ch/kylie/events.rpy:7292
-translate russian kylie_propose_male_381c790b:
+translate russian kylie_propose_male_98da6eab:
     kylie.say "Кое-что, с чем мне сначала нужно... разобраться."
 
 # ch/kylie/events.rpy:7293
@@ -21313,7 +21225,7 @@ translate russian kylie_male_ending_8a4e3362:
     "При этом оно прекрасно подчёркивает её великолепную фигуру."
 
 # ch/kylie/events.rpy:7369
-translate russian kylie_male_ending_8794ab5b:
+translate russian kylie_male_ending_c810097d:
     "А лицо... что тут сказать?"
 
 # ch/kylie/events.rpy:7370
@@ -21341,7 +21253,7 @@ translate russian kylie_male_ending_b616d13e:
     "И истинная красота Кайли сияет, словно маяк!"
 
 # ch/kylie/events.rpy:7376
-translate russian kylie_male_ending_d274e214:
+translate russian kylie_male_ending_f7b39e00:
     "Ах, чёрт... извините."
 
 # ch/kylie/events.rpy:7377
@@ -21489,7 +21401,7 @@ translate russian kylie_male_ending_0d35e491:
     "И знать, что теперь я смогу делать это всю оставшуюся жизнь!"
 
 # ch/kylie/events.rpy:7421
-translate russian kylie_male_ending_ef7a9c94:
+translate russian kylie_male_ending_95b09e98:
     kylie.say "Ох... будет непросто!"
 
 # ch/kylie/events.rpy:7422
@@ -21513,7 +21425,7 @@ translate russian kylie_male_ending_8c609c9e:
     kylie.say "Но я больше не такая, понимаете?"
 
 # ch/kylie/events.rpy:7427
-translate russian kylie_male_ending_ac866e7e:
+translate russian kylie_male_ending_e8966f33:
     kylie.say "Признаю, у меня была проблема... очень СЕРЬЁЗНАЯ проблема."
 
 # ch/kylie/events.rpy:7428
@@ -21537,7 +21449,7 @@ translate russian kylie_male_ending_cfb4ee15:
     kylie.say "Я влюбилась в него в тот самый миг, когда увидела рядом с Алексис."
 
 # ch/kylie/events.rpy:7433
-translate russian kylie_male_ending_9cf9e1f9:
+translate russian kylie_male_ending_954637ee:
     kylie.say "И... вот тогда всё и началось."
 
 # ch/kylie/events.rpy:7434
@@ -21561,7 +21473,7 @@ translate russian kylie_male_ending_4d25189b:
     kylie.say "А я знала: мне нужен [lssb_kylie.hero_name()]!"
 
 # ch/kylie/events.rpy:7439
-translate russian kylie_male_ending_b5fdc89a:
+translate russian kylie_male_ending_c899dd83:
     kylie.say "Я... наверное, я была слишком юной, чтобы понять."
 
 # ch/kylie/events.rpy:7440
@@ -21637,11 +21549,11 @@ translate russian kylie_male_ending_a8b25b78:
     kylie.say "Но вряд ли самый желанный мужчина на планете!"
 
 # ch/kylie/events.rpy:7458
-translate russian kylie_male_ending_1ef5b7a4:
+translate russian kylie_male_ending_383711cd:
     kylie.say "Ой... а... он это услышит?"
 
 # ch/kylie/events.rpy:7459
-translate russian kylie_male_ending_cb987f12:
+translate russian kylie_male_ending_64b1db0e:
     kylie.say "Если да... скажите ему, что я прошу прощения и вовсе не это имела в виду, ладно?"
 
 # ch/kylie/events.rpy:7460
@@ -21649,11 +21561,11 @@ translate russian kylie_male_ending_fa192c99:
     kylie.say "Скажите, что он и правда самый сексуальный мужчина всех времён!"
 
 # ch/kylie/events.rpy:7461
-translate russian kylie_male_ending_7bbc5bed:
+translate russian kylie_male_ending_3b188ab1:
     kylie.say "В общем... на чём я остановилась..."
 
 # ch/kylie/events.rpy:7462
-translate russian kylie_male_ending_47e706b4:
+translate russian kylie_male_ending_cff054c7:
     kylie.say "А, да... я чуть не сорвалась, чуть не натворила безумств."
 
 # ch/kylie/events.rpy:7463
@@ -21765,16 +21677,12 @@ translate russian kylie_male_ending_c5b67538:
     kylie.say "В итоге всё получилось почти как в сказке."
 
 # ch/kylie/events.rpy:7492
-translate russian kylie_male_ending_fdd7bc57:
+translate russian kylie_male_ending_b6a7832b:
     kylie.say "Ну... по пути было несколько неожиданных поворотов."
 
 # ch/kylie/events.rpy:7493
 translate russian kylie_male_ending_8e5c0779:
     kylie.say "Но в конце концов мы справились!"
-
-# ch/kylie/fuck.rpy:78
-translate russian kylie_hottub_sex_male_d896c043:
-    "Хотите верьте, хотите нет, но я пригласил Кайли в джакузи совершенно без задней мысли."
 
 # ch/kylie/fuck.rpy:79
 translate russian kylie_hottub_sex_male_53fb6d5b:
@@ -22189,7 +22097,7 @@ translate russian kylie_fuck_date_intro_male_ab9c3268:
     "Совершенно не готовый к такому странному замечанию, я пытаюсь отшутиться, пока не смутился окончательно."
 
 # ch/kylie/fuck.rpy:241
-translate russian kylie_fuck_date_intro_male_ec47bd91:
+translate russian kylie_fuck_date_intro_male_51b7c7ba:
     mike.say "Э-э... не нужно говорить так, будто ты на экскурсии по Ватикану!"
 
 # ch/kylie/fuck.rpy:242
@@ -22213,7 +22121,7 @@ translate russian kylie_fuck_date_intro_male_5f1b4c35:
     kylie.say "Ты не представляешь, как часто я воображала место, где ты будешь жить..."
 
 # ch/kylie/fuck.rpy:250
-translate russian kylie_fuck_date_intro_male_604ce989:
+translate russian kylie_fuck_date_intro_male_2eaf683f:
     mike.say "Ну да... только я здесь не один живу."
 
 # ch/kylie/fuck.rpy:251
@@ -22241,7 +22149,7 @@ translate russian kylie_fuck_date_intro_male_955f8ce5:
     "Чувствуя, что мы рискуем отвлечься от главного, я прочищаю горло, пожалуй, чуть громче, чем стоило бы."
 
 # ch/kylie/fuck.rpy:258
-translate russian kylie_fuck_date_intro_male_1671e478:
+translate russian kylie_fuck_date_intro_male_1281bd28:
     mike.say "Кхм, в общем... на большую экскурсию у нас сейчас, пожалуй, нет времени."
 
 # ch/kylie/fuck.rpy:259
@@ -22281,7 +22189,7 @@ translate russian kylie_fuck_date_intro_male_385e3f58:
     "Я уже беру её за руку и веду вниз по лестнице, когда до меня наконец доходит смысл сказанного."
 
 # ch/kylie/fuck.rpy:270
-translate russian kylie_fuck_date_intro_male_5060db8e:
+translate russian kylie_fuck_date_intro_male_e17a7efb:
     mike.say "Кайли... когда ты говоришь «сделаешь меня женщиной», что именно ты имеешь в виду?"
 
 # ch/kylie/fuck.rpy:271
@@ -22293,7 +22201,7 @@ translate russian kylie_fuck_date_intro_male_0cfebfbc:
     "По её глазам видно: она считает, что ответ мне уже известен."
 
 # ch/kylie/fuck.rpy:273
-translate russian kylie_fuck_date_intro_male_dd3ac138:
+translate russian kylie_fuck_date_intro_male_8fdee29c:
     kylie.say "Ну... я... я берегла себя для тебя, [lssb_kylie.hero_name()]."
 
 # ch/kylie/fuck.rpy:274
@@ -22333,7 +22241,7 @@ translate russian kylie_fuck_date_intro_male_50d55c92:
     mike.say "Рад, что ты сказала мне, Кайли."
 
 # ch/kylie/fuck.rpy:283
-translate russian kylie_fuck_date_intro_male_f4135ff3:
+translate russian kylie_fuck_date_intro_male_fcb7bf0b:
     mike.say "Это... очень романтично с твоей стороны!"
 
 # ch/kylie/fuck.rpy:284
@@ -22553,7 +22461,7 @@ translate russian kylie_fuck_date_intro_male_b2e401ff:
     "Положив руки на бёдра, она забирается ко мне на кровать."
 
 # ch/kylie/fuck.rpy:359
-translate russian kylie_fuck_date_intro_male_d57dcaee:
+translate russian kylie_fuck_date_intro_male_b1f8d6a1:
     mike.say "Д... да, Кайли!"
 
 # ch/kylie/fuck.rpy:360
@@ -22633,11 +22541,11 @@ translate russian kylie_fuck_date_intro_male_cd9a97df:
     "Почти спотыкаюсь, стараясь при этом не отрывать от неё взгляда."
 
 # ch/kylie/fuck.rpy:385
-translate russian kylie_fuck_date_intro_male_66a31a42:
+translate russian kylie_fuck_date_intro_male_d7f2182d:
     mike.say "Д... да, Кайли?"
 
 # ch/kylie/fuck.rpy:386
-translate russian kylie_fuck_date_intro_male_ef9c43bf:
+translate russian kylie_fuck_date_intro_male_a66e261b:
     mike.say "Я хочу тебя... очень сильно!"
 
 # ch/kylie/fuck.rpy:387
@@ -22733,7 +22641,7 @@ translate russian kylie_sleep_date_fuck_551b2283:
     mike.say "Ты тоже была потрясающей, Кайли."
 
 # ch/kylie/fuck.rpy:463
-translate russian kylie_sleep_date_fuck_16138889:
+translate russian kylie_sleep_date_fuck_83b2918c:
     mike.say "Для меня... большая честь стать твоим первым..."
 
 # ch/kylie/fuck.rpy:464
@@ -22825,7 +22733,7 @@ translate russian kylie_fuck_date_blowjob_88e9349b:
     mike.say "Не то чтобы меня нужно было загонять в угол."
 
 # ch/kylie/fuck.rpy:495
-translate russian kylie_fuck_date_blowjob_c94f8b30:
+translate russian kylie_fuck_date_blowjob_b04bf5c4:
     mike.say "То есть... я ведь от тебя не убегу!"
 
 # ch/kylie/fuck.rpy:496
@@ -23469,7 +23377,7 @@ translate russian kylie_fuck_date_missionary_db175915:
     "Я знаю, что нужно прорвать её, но инстинктивно стараюсь по возможности не причинять Кайли лишней боли."
 
 # ch/kylie/fuck.rpy:820
-translate russian kylie_fuck_date_missionary_043b7bac:
+translate russian kylie_fuck_date_missionary_09da1d86:
     kylie.say "Ах... чёрт..."
 
 # ch/kylie/fuck.rpy:821
@@ -23497,7 +23405,7 @@ translate russian kylie_fuck_date_missionary_1f1792e2:
     "Я толкаюсь дальше, чувствуя, как влажная шелковистая киска обволакивает мой член."
 
 # ch/kylie/fuck.rpy:830
-translate russian kylie_fuck_date_missionary_8de0c6a7:
+translate russian kylie_fuck_date_missionary_16050006:
     kylie.say "О боже... о... боже..."
 
 # ch/kylie/fuck.rpy:831
@@ -23505,7 +23413,7 @@ translate russian kylie_fuck_date_missionary_6bc2a57d:
     kylie.say "[lssb_kylie.hero_name()]... я чувствую тебя..."
 
 # ch/kylie/fuck.rpy:832
-translate russian kylie_fuck_date_missionary_51c85c48:
+translate russian kylie_fuck_date_missionary_09124122:
     kylie.say "Ты внутри меня... по-настоящему!"
 
 # ch/kylie/fuck.rpy:833
@@ -23629,7 +23537,7 @@ translate russian kylie_fuck_date_cowgirl_2f6b9784:
     "Ровно настолько, чтобы головка моего члена упёрлась в её киску."
 
 # ch/kylie/fuck.rpy:903
-translate russian kylie_fuck_date_cowgirl_6b554d4f:
+translate russian kylie_fuck_date_cowgirl_66b0e297:
     kylie.say "О-ох... блядь..."
 
 # ch/kylie/fuck.rpy:904
@@ -23661,15 +23569,15 @@ translate russian kylie_fuck_date_cowgirl_cce28a13:
     "Я смотрю снизу вверх в её широко раскрытые глаза, полные чувств."
 
 # ch/kylie/fuck.rpy:914
-translate russian kylie_fuck_date_cowgirl_3b2b47f3:
+translate russian kylie_fuck_date_cowgirl_d8baa6a2:
     kylie.say "Ты... ты внутри меня, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/fuck.rpy:915
-translate russian kylie_fuck_date_cowgirl_43048b57:
+translate russian kylie_fuck_date_cowgirl_589beca5:
     kylie.say "Я чувствую тебя... словно... словно ты часть меня..."
 
 # ch/kylie/fuck.rpy:916
-translate russian kylie_fuck_date_cowgirl_c5aab2f2:
+translate russian kylie_fuck_date_cowgirl_347ee0e7:
     kylie.say "Пожалуйста... пожалуйста, трахни меня!"
 
 # ch/kylie/fuck.rpy:917
@@ -23745,7 +23653,7 @@ translate russian kylie_fuck_date_cowgirl_ae885775:
     "Осознав, что я сделал, Кайли приходит в полный восторг. Она сияет, ощущая, как я наполняю её, и продолжает двигаться на мне до самого конца."
 
 # ch/kylie/fuck.rpy:960
-translate russian kylie_fuck_date_doggy_45798797:
+translate russian kylie_fuck_date_doggy_bd817e23:
     mike.say "На кровать... сейчас же!"
 
 # ch/kylie/fuck.rpy:961
@@ -23797,7 +23705,7 @@ translate russian kylie_fuck_date_doggy_af1a749a:
     "Затем давлю своим весом на её бёдра, почти складывая пополам и подводя член вплотную к открывшейся киске."
 
 # ch/kylie/fuck.rpy:980
-translate russian kylie_fuck_date_doggy_8df869d2:
+translate russian kylie_fuck_date_doggy_cec66bdb:
     "Я знаю, ей понравится то, что я собираюсь сделать... в конце концов."
 
 # ch/kylie/fuck.rpy:981
@@ -24020,10 +23928,6 @@ translate russian kylie_fuck_date_bondage_6876c4e2:
 translate russian kylie_fuck_date_bondage_4b7d3aa1:
     "Кажется, мне могла бы понравиться эта идея!"
 
-# ch/kylie/fuck.rpy:1068
-translate russian kylie_fuck_date_bondage_ebaa7055:
-    "Но затем она разводит руки, с хлопком натягивая предмет между ними."
-
 # ch/kylie/fuck.rpy:1069
 translate russian kylie_fuck_date_bondage_288a231c:
     "И я вижу, что на самом деле у неё верёвка."
@@ -24213,7 +24117,7 @@ translate russian kylie_fuck_date_bondage_8a876724:
     mike.say "Вот будет жалко, если кто-нибудь..."
 
 # ch/kylie/fuck.rpy:1123
-translate russian kylie_fuck_date_bondage_ec24440b:
+translate russian kylie_fuck_date_bondage_804dbad7:
     mike.say "Не знаю... засунет туда большой член?"
 
 # ch/kylie/fuck.rpy:1124
@@ -24705,7 +24609,7 @@ translate russian kylie_fuck_date_bondage_a447f14b:
     kylie.say "Не останавливайся..."
 
 # ch/kylie/fuck.rpy:1301
-translate russian kylie_fuck_date_bondage_49a3e34d:
+translate russian kylie_fuck_date_bondage_3cbd004f:
     kylie.say "Я... принимаю... таблетки!"
 
 # ch/kylie/fuck.rpy:1302
@@ -24737,7 +24641,7 @@ translate russian kylie_fuck_date_bondage_a447f14b_1:
     kylie.say "Не останавливайся..."
 
 # ch/kylie/fuck.rpy:1314
-translate russian kylie_fuck_date_bondage_3d49ef5c:
+translate russian kylie_fuck_date_bondage_d847f871:
     kylie.say "Я... не могу... забеременеть ещё сильнее!"
 
 # ch/kylie/fuck.rpy:1315
@@ -24845,7 +24749,7 @@ translate russian kylie_fuck_date_bondage_ce60f33d_1:
     "А я могу думать лишь о том, как сильно сейчас облажался."
 
 # ch/kylie/fuck.rpy:1363
-translate russian kylie_fuck_date_spoon_de2a5204:
+translate russian kylie_fuck_date_spoon_79bf57ce:
     kylie.say "Хм... а как тебе такое..."
 
 # ch/kylie/fuck.rpy:1364
@@ -24989,11 +24893,11 @@ translate russian kylie_fuck_date_spoon_1f5e28ba:
     kylie.say "Она уже никогда не будет прежней!"
 
 # ch/kylie/fuck.rpy:1404
-translate russian kylie_fuck_date_spoon_757bb2bb:
+translate russian kylie_fuck_date_spoon_1ee191fb:
     kylie.say "Но... но теперь не останавливайся, пожалуйста!"
 
 # ch/kylie/fuck.rpy:1410
-translate russian kylie_fuck_date_spoon_ceb37bce:
+translate russian kylie_fuck_date_spoon_e9d8075d:
     kylie.say "Ох... какой позор!"
 
 # ch/kylie/fuck.rpy:1416
@@ -25099,10 +25003,6 @@ translate russian kylie_fuck_date_spoon_712efdb8:
 # ch/kylie/fuck.rpy:1459
 translate russian kylie_fuck_date_spoon_0e79e576:
     "Я знаю, Кайли просит помочь ей кончить."
-
-# ch/kylie/fuck.rpy:1460
-translate russian kylie_fuck_date_spoon_d952fe7d:
-    "Но сейчас я и сам уже не могу сдержаться!"
 
 # ch/kylie/fuck.rpy:1463
 translate russian kylie_fuck_date_spoon_b5a6b2b3:
@@ -25359,10 +25259,6 @@ translate russian kylie_fuck_date_spoon_70163015:
 # ch/kylie/fuck.rpy:1582
 translate russian kylie_fuck_date_spoon_652242d3:
     "Стоит смыслу слов Кайли дойти до меня, как всё меняется."
-
-# ch/kylie/fuck.rpy:1583
-translate russian kylie_fuck_date_spoon_7cf37b63:
-    "Я понимаю, что тоже на грани оргазма."
 
 # ch/kylie/fuck.rpy:1584
 translate russian kylie_fuck_date_spoon_d579dfab:
@@ -25781,7 +25677,7 @@ translate russian fuck_kylie_jail_1_2806600b:
     kylie.say "Блядь..."
 
 # ch/kylie/fuck.rpy:1765
-translate russian fuck_kylie_jail_1_d8ea4812:
+translate russian fuck_kylie_jail_1_9a715884:
     kylie.say "Я вся горю... так хочу!"
 
 # ch/kylie/fuck.rpy:1766
@@ -25921,7 +25817,7 @@ translate russian fuck_kylie_jail_1_f1d8a63c:
     mike.say "Эм..."
 
 # ch/kylie/fuck.rpy:1803
-translate russian fuck_kylie_jail_1_ab3f4696:
+translate russian fuck_kylie_jail_1_2afa7efa:
     mike.say "Тебе... тебе нравится, а?"
 
 # ch/kylie/fuck.rpy:1804
@@ -25937,11 +25833,11 @@ translate russian fuck_kylie_jail_1_48ca015a:
     kylie.say "А-а-ах..."
 
 # ch/kylie/fuck.rpy:1807
-translate russian fuck_kylie_jail_1_6c31f644:
+translate russian fuck_kylie_jail_1_a77c771f:
     kylie.say "Ох... о боже... да!"
 
 # ch/kylie/fuck.rpy:1808
-translate russian fuck_kylie_jail_1_6cfb0e11:
+translate russian fuck_kylie_jail_1_ad594442:
     kylie.say "Обожаю... обожаю, когда меня трахают!"
 
 # ch/kylie/fuck.rpy:1809
@@ -26033,7 +25929,7 @@ translate russian fuck_kylie_jail_2_fe4a2268:
     "Кайли всё сильнее мучает неудовлетворённость, и я очень хочу помочь всем, чем могу."
 
 # ch/kylie/fuck.rpy:1843
-translate russian fuck_kylie_jail_2_4936be6e:
+translate russian fuck_kylie_jail_2_29e3c032:
     "Но как бы помягче сказать... это ведь не интимное свидание."
 
 # ch/kylie/fuck.rpy:1844
@@ -26085,7 +25981,7 @@ translate russian fuck_kylie_jail_2_8b5f0546:
     "И только тогда нахожу слова."
 
 # ch/kylie/fuck.rpy:1863
-translate russian fuck_kylie_jail_2_970adcde:
+translate russian fuck_kylie_jail_2_afa52f74:
     mike.say "П... прости, Кайли..."
 
 # ch/kylie/fuck.rpy:1864
@@ -26093,7 +25989,7 @@ translate russian fuck_kylie_jail_2_0fa4c749:
     mike.say "Просто не ожидал, что ты будешь такой..."
 
 # ch/kylie/fuck.rpy:1865
-translate russian fuck_kylie_jail_2_2bc38fb6:
+translate russian fuck_kylie_jail_2_f5ddc4f4:
     mike.say "Такой счастливой, вот и всё!"
 
 # ch/kylie/fuck.rpy:1866
@@ -26149,7 +26045,7 @@ translate russian fuck_kylie_jail_2_3f420fd8:
     "Но всё же продолжаю: хочу договорить."
 
 # ch/kylie/fuck.rpy:1881
-translate russian fuck_kylie_jail_2_55ad2a3e:
+translate russian fuck_kylie_jail_2_c7dc7dbb:
     mike.say "Ну... сегодня ведь обычное посещение, да?"
 
 # ch/kylie/fuck.rpy:1882
@@ -26408,10 +26304,6 @@ translate russian fuck_kylie_jail_2_8f80d58e:
 translate russian fuck_kylie_jail_2_6ca38c08:
     "Она жадно облизывает губы, ловя всё, что может, пока остальное стекает к подбородку."
 
-# ch/kylie/fuck.rpy:1975
-translate russian fuck_kylie_jail_2_2af711d1:
-    "Кайли присасывается ко мне, словно пиявка, не отпуская ни на секунду."
-
 # ch/kylie/fuck.rpy:1979
 translate russian fuck_kylie_jail_2_e4ae9609:
     "Поэтому, когда я кончаю, мой член глубоко у неё во рту."
@@ -26533,7 +26425,7 @@ translate russian kylie_university_blowjob_cbe1723f:
     "Наклоняюсь к Кайли и шепчу ей на ухо."
 
 # ch/kylie/fuck.rpy:2026
-translate russian kylie_university_blowjob_63d30800:
+translate russian kylie_university_blowjob_16965ee9:
     mike.say "Сюда... сейчас же!"
 
 # ch/kylie/fuck.rpy:2027
@@ -26569,7 +26461,7 @@ translate russian kylie_university_blowjob_573f2669:
     "Словно у неё течка или что-то в этом роде!"
 
 # ch/kylie/fuck.rpy:2036
-translate russian kylie_university_blowjob_c39d909c:
+translate russian kylie_university_blowjob_6d3ed5ff:
     mike.say "М... можешь не делать так посреди лекции?"
 
 # ch/kylie/fuck.rpy:2037
@@ -26913,7 +26805,7 @@ translate russian kylie_give_christmas_murder_2e31cd03:
     "Пока спускаюсь к входной двери, стук не прекращается."
 
 # ch/kylie/gift.rpy:95
-translate russian kylie_give_christmas_murder_26dfb76b:
+translate russian kylie_give_christmas_murder_f068c44f:
     mike.say "Ладно, ладно... иду так быстро, как могу!"
 
 # ch/kylie/gift.rpy:96
@@ -26961,7 +26853,7 @@ translate russian kylie_give_christmas_murder_e7bda1d6:
     kylie.say "Ох, [lssb_kylie.hero_name()], какая реакция! Я так польщена!"
 
 # ch/kylie/gift.rpy:109
-translate russian kylie_give_christmas_murder_d20bdcf2:
+translate russian kylie_give_christmas_murder_6b169c02:
     mike.say "Эм... да... не за что, наверное."
 
 # ch/kylie/gift.rpy:110
@@ -26973,7 +26865,7 @@ translate russian kylie_give_christmas_murder_d3683c24:
     "Я чешу затылок и киваю."
 
 # ch/kylie/gift.rpy:112
-translate russian kylie_give_christmas_murder_fce5c9bc:
+translate russian kylie_give_christmas_murder_27066cd5:
     mike.say "Ну... такая мысль мелькала..."
 
 # ch/kylie/gift.rpy:113
@@ -27005,7 +26897,7 @@ translate russian kylie_give_christmas_murder_385d13c4:
     mike.say "Правда, не стоило, Кайли."
 
 # ch/kylie/gift.rpy:122
-translate russian kylie_give_christmas_murder_a01118d9:
+translate russian kylie_give_christmas_murder_50c40138:
     mike.say "Мне так неловко, потому что... у меня ведь нет подарка для тебя!"
 
 # ch/kylie/gift.rpy:123
@@ -27381,7 +27273,7 @@ translate russian kylie_gift_slutty_dress_male_90b20da0:
     kylie.say "Ох..."
 
 # ch/kylie/gift.rpy:273
-translate russian kylie_gift_slutty_dress_male_14b3c366:
+translate russian kylie_gift_slutty_dress_male_069547ef:
     kylie.say "То есть... с тех пор как сейчас увидела коробку у тебя за спиной!"
 
 # ch/kylie/gift.rpy:275
@@ -27453,7 +27345,7 @@ translate russian kylie_gift_slutty_dress_male_dfd9a701:
     kylie.say "То есть..."
 
 # ch/kylie/gift.rpy:296
-translate russian kylie_gift_slutty_dress_male_97ef10ae:
+translate russian kylie_gift_slutty_dress_male_fd29be6c:
     kylie.say "Тебе... нравится это платье?"
 
 # ch/kylie/gift.rpy:298
@@ -27565,7 +27457,7 @@ translate russian kylie_gift_slutty_dress_male_f5d955c9:
     kylie.say "Но не волнуйся, я дам тебе ещё один шанс."
 
 # ch/kylie/gift.rpy:333
-translate russian kylie_gift_slutty_dress_male_9514ce60:
+translate russian kylie_gift_slutty_dress_male_30083410:
     kylie.say "Только... на этот раз сделай всё как надо."
 
 # ch/kylie/gift.rpy:335
@@ -27653,7 +27545,7 @@ translate russian kylie_gift_collar_male_e1fc0096:
     kylie.say "Ох, [lssb_kylie.hero_name()], я мечтала об этом дне с тех пор, как была девочкой!"
 
 # ch/kylie/gift.rpy:363
-translate russian kylie_gift_collar_male_bfb6947f:
+translate russian kylie_gift_collar_male_6973539e:
     kylie.say "Ты не представляешь, сколько раз я воображала, как ты попросишь меня надеть твой... СОБАЧИЙ ОШЕЙНИК?!"
 
 # ch/kylie/gift.rpy:364
@@ -27669,7 +27561,7 @@ translate russian kylie_gift_collar_male_19a68d53:
     mike.say "Будем честны, Кайли: порой ты бываешь весьма дикой!"
 
 # ch/kylie/gift.rpy:367
-translate russian kylie_gift_collar_male_afcd535d:
+translate russian kylie_gift_collar_male_40d00067:
     mike.say "Ну... если начистоту, ты совершенно дикая большую часть времени!"
 
 # ch/kylie/gift.rpy:368
@@ -27801,7 +27693,7 @@ translate russian kylie_ice_cream_reaction_male_d803f555:
     "Кайли выбирает то же самое, но со своим сочетанием вкусов."
 
 # ch/kylie/reactions.rpy:7
-translate russian kylie_ice_cream_reaction_male_b684c4e1:
+translate russian kylie_ice_cream_reaction_male_3b7b7524:
     kylie.say "Ах... фу... что за..."
 
 # ch/kylie/reactions.rpy:8
@@ -28001,7 +27893,7 @@ translate russian kylie_study_with_success_male_bd5019ac:
     mike.say "Теперь можешь меня отпустить."
 
 # ch/kylie/reactions.rpy:66
-translate russian kylie_study_with_success_male_3dfb945e:
+translate russian kylie_study_with_success_male_9f3040de:
     mike.say "То есть... НЕ ОБЯЗАТЕЛЬНО..."
 
 # ch/kylie/reactions.rpy:70
@@ -28117,7 +28009,7 @@ translate russian kylie_ask_phone_male_e210b66e:
     kylie.say "Так люди могут узнать, где я нахожусь."
 
 # ch/kylie/reactions.rpy:111
-translate russian kylie_ask_phone_male_5e3c315c:
+translate russian kylie_ask_phone_male_e94e998d:
     kylie.say "А иногда это бывает... неловко!"
 
 # ch/kylie/reactions.rpy:115
@@ -28149,7 +28041,7 @@ translate russian kylie_ask_birthday_male_85723530:
     kylie.say "Не могу тебе сказать, [lssb_kylie.hero_name()]."
 
 # ch/kylie/reactions.rpy:129
-translate russian kylie_ask_birthday_male_a983c72b:
+translate russian kylie_ask_birthday_male_9b777d2a:
     kylie.say "Это... это... секрет!"
 
 # ch/kylie/reactions.rpy:130
@@ -28175,10 +28067,6 @@ translate russian kylie_offer_a_drink_male_56346def:
 # ch/kylie/reactions.rpy:141
 translate russian kylie_offer_a_drink_male_deeaa248:
     kylie.say "Ты хочешь навредить нашему ребёнку?!"
-
-# ch/kylie/reactions.rpy:142
-translate russian kylie_offer_a_drink_male_ebad7e14:
-    kylie.say "Ты что, [lssb_kylie.hero_name()], с ума сошёл?!"
 
 # ch/kylie/reactions.rpy:147
 translate russian kylie_offer_a_drink_male_4e157e05:
@@ -28481,7 +28369,7 @@ translate russian kylie_go_steady_yes_male_c082318f:
     kylie.say "О да, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/reactions.rpy:263
-translate russian kylie_go_steady_yes_male_0b8b8783:
+translate russian kylie_go_steady_yes_male_cbb2278e:
     kylie.say "Сто... нет, тысячу... нет, миллион раз да!"
 
 # ch/kylie/reactions.rpy:264
@@ -28581,7 +28469,7 @@ translate russian kylie_massage_refuse_male_e2a176ec:
     kylie.say "НЕ ТРОГАЙ МЕНЯ!"
 
 # ch/kylie/reactions.rpy:309
-translate russian kylie_massage_refuse_male_e14128ef:
+translate russian kylie_massage_refuse_male_ee0a9cac:
     kylie.say "Я... то есть... пожалуйста, не трогай меня, [lssb_kylie.hero_name()]!"
 
 # ch/kylie/reactions.rpy:310
@@ -28617,7 +28505,7 @@ translate russian kylie_piercing_navel_reaction_male_5d6359ae:
     kylie.say "Что ты тоже становишься частью меня!"
 
 # ch/kylie/reactions.rpy:327
-translate russian kylie_piercing_clit_reaction_male_c81eb1c8:
+translate russian kylie_piercing_clit_reaction_male_403cc9ae:
     kylie.say "Ох... вот это да..."
 
 # ch/kylie/reactions.rpy:328
@@ -28649,11 +28537,11 @@ translate russian kylie_piercing_nose_reaction_male_d42e00b9:
     kylie.say "Если ты тоже сделаешь такой, мы сможем соединить себя цепочкой, а?"
 
 # ch/kylie/reactions.rpy:341
-translate russian kylie_piercing_nose_reaction_male_71d8a1a8:
+translate russian kylie_piercing_nose_reaction_male_76e11677:
     kylie.say "Шучу... я только шучу!"
 
 # ch/kylie/reactions.rpy:345
-translate russian kylie_movie_disliked_reaction_male_d64b28f3:
+translate russian kylie_movie_disliked_reaction_male_403472fe:
     kylie.say "О-ох... ненавижу настолько плохие фильмы. Я ТАК злюсь!"
 
 # ch/kylie/reactions.rpy:349
@@ -29101,7 +28989,7 @@ translate russian kylie_talk_stalking_male_28df81db:
     kylie.say "Но потом испугалась, что ты рассердишься, если я тебя разбужу."
 
 # ch/kylie/talk.rpy:72
-translate russian kylie_talk_stalking_male_a132909f:
+translate russian kylie_talk_stalking_male_be0e9387:
     kylie.say "Поэтому... поэтому просто стояла и надеялась, что ты всё-таки выйдешь."
 
 # ch/kylie/talk.rpy:73
@@ -29289,11 +29177,11 @@ translate russian submissive_interact_kylie_male_52e4e7de:
     kylie.say "Кто сказал, что я безумная?!"
 
 # ch/kylie/talk.rpy:254
-translate russian submissive_interact_kylie_male_731fb3f9:
+translate russian submissive_interact_kylie_male_20567bf7:
     kylie.say "А... точно, поняла, о чём ты."
 
 # ch/kylie/talk.rpy:256
-translate russian submissive_interact_kylie_male_8577b1c0:
+translate russian submissive_interact_kylie_male_dc6f884a:
     mike.say "Может... будешь говорить мне это при встрече?"
 
 # ch/kylie/talk.rpy:259
@@ -29377,7 +29265,7 @@ translate russian kylie_flirty_texts_f39c884f:
     kylie_nvl "Мне просто необходимо, чтобы ты смотрел на меня!"
 
 # ch/kylie/texts.rpy:32
-translate russian kylie_flirty_texts_203f3012:
+translate russian kylie_flirty_texts_72fb7653:
     kylie_nvl "Знать, что ты на меня смотришь... это... это возбуждает!"
 
 # ch/kylie/texts.rpy:34
@@ -29417,7 +29305,7 @@ translate russian kylie_dirty_texts_d61d2a72:
     kylie_nvl "Серьёзно, лучше она могла бы выглядеть только с твоим членом внутри!"
 
 # ch/kylie/texts.rpy:53
-translate russian kylie_dirty_texts_28d2df9c:
+translate russian kylie_dirty_texts_5fb30250:
     kylie_nvl "М-м-м... сейчас моя рука у меня в трусиках."
 
 # ch/kylie/texts.rpy:54
@@ -29449,7 +29337,7 @@ translate russian kylie_friendly_texts_male_0bdf6846:
     mchero_nvl "Откуда ты знаешь, что я учусь?"
 
 # ch/kylie/texts.rpy:72
-translate russian kylie_friendly_texts_male_2027dfdb:
+translate russian kylie_friendly_texts_male_cbfb3846:
     kylie_nvl "Удачно угадала... Я же не слежу за тобой или что-то такое..."
 
 # ch/kylie/texts.rpy:80
@@ -29521,11 +29409,11 @@ translate russian kylie_flirty_texts_male_ec500368:
     mchero_nvl "Не могу перестать думать о твоём теле!"
 
 # ch/kylie/texts.rpy:143
-translate russian kylie_flirty_texts_male_51970063:
+translate russian kylie_flirty_texts_male_fc6e2b5f:
     kylie_nvl "Что... разве оттуда ты меня не видишь?"
 
 # ch/kylie/texts.rpy:144
-translate russian kylie_flirty_texts_male_f6fdd2fd:
+translate russian kylie_flirty_texts_male_eadcf08c:
     kylie_nvl "Чёрт... то есть, конечно, ты не можешь меня видеть!"
 
 # ch/kylie/texts.rpy:145
@@ -29673,7 +29561,7 @@ translate russian kylie_dirty_texts_male_16a6ce98:
     kylie_nvl "Я и так отстаю в учёбе!"
 
 # ch/kylie/texts.rpy:254
-translate russian kylie_dirty_texts_male_1a955cf7:
+translate russian kylie_dirty_texts_male_8113ac6e:
     kylie_nvl "М-м-м... отличная идея!"
 
 # ch/kylie/texts.rpy:255

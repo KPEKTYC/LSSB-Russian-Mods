@@ -349,7 +349,7 @@ translate russian lexi_propose_male_7a112cd4:
     "Так что мне остаётся лишь ждать ответа..."
 
 # ch/lexi/base.rpy:220
-translate russian lexi_propose_male_c89888b5:
+translate russian lexi_propose_male_a564cd0a:
     lexi.say "Т... ты же шутишь... правда?"
 
 # ch/lexi/base.rpy:221
@@ -365,11 +365,11 @@ translate russian lexi_propose_male_0139a7b3:
     "Сначала я могу лишь беспомощно пожать плечами, чувствуя себя полным идиотом."
 
 # ch/lexi/base.rpy:224
-translate russian lexi_propose_male_03f8f6da:
+translate russian lexi_propose_male_ecf6bd87:
     mike.say "Н... ну да, Лекси..."
 
 # ch/lexi/base.rpy:225
-translate russian lexi_propose_male_9b09f2ae:
+translate russian lexi_propose_male_1e9291d0:
     mike.say "Я... я... вообще-то хочу!"
 
 # ch/lexi/base.rpy:227
@@ -429,7 +429,7 @@ translate russian lexi_propose_male_66aa114c:
     lexi.say "Будем жить долго и счастливо?"
 
 # ch/lexi/base.rpy:244
-translate russian lexi_propose_male_d03f2faf:
+translate russian lexi_propose_male_d79ca4c0:
     lexi.say "Ха... ну и умора!"
 
 # ch/lexi/base.rpy:245
@@ -485,7 +485,7 @@ translate russian lexi_propose_male_0b7e3d65:
     "Будто не может понять, что с ней происходит."
 
 # ch/lexi/base.rpy:262
-translate russian lexi_propose_male_e62d31d3:
+translate russian lexi_propose_male_e93d20f2:
     lexi.say "Но... но..."
 
 # ch/lexi/base.rpy:263
@@ -513,7 +513,7 @@ translate russian lexi_propose_male_2431485e:
     mike.say "Всё это — твои поступки, а не вся ты целиком."
 
 # ch/lexi/base.rpy:269
-translate russian lexi_propose_male_7b407281:
+translate russian lexi_propose_male_e8e9c5ed:
     mike.say "А ты сама... ну... замечательная."
 
 # ch/lexi/base.rpy:270
@@ -529,7 +529,7 @@ translate russian lexi_propose_male_85318a71:
     "Будто взвешивает всё, что я сказал."
 
 # ch/lexi/base.rpy:274
-translate russian lexi_propose_male_b1e0a456:
+translate russian lexi_propose_male_d40df785:
     lexi.say "Т... ты правда так думаешь?"
 
 # ch/lexi/base.rpy:275
@@ -1085,7 +1085,7 @@ translate russian lexi_masturbation_ba9f81f3:
     "И двигаются они у неё между бёдер..."
 
 # ch/lexi/base.rpy:578
-translate russian lexi_masturbation_8341dea4:
+translate russian lexi_masturbation_5644a143:
     "Ого... это объясняет звуки, которые она издаёт."
 
 # ch/lexi/base.rpy:579
@@ -1101,7 +1101,7 @@ translate russian lexi_masturbation_49aece8d:
     "Она действительно мастурбирует, а я на это смотрю!"
 
 # ch/lexi/base.rpy:584
-translate russian lexi_masturbation_e52519d3:
+translate russian lexi_masturbation_02dc9bef:
     "Эм... минуточку..."
 
 # ch/lexi/base.rpy:585
@@ -1721,7 +1721,7 @@ translate russian lexi_good_sweet_talk_male_47d79c3b:
     mike.say "Ты и так выглядишь идеально!"
 
 # ch/lexi/chat.rpy:126
-translate russian lexi_good_sweet_talk_male_65eb043d:
+translate russian lexi_good_sweet_talk_male_2fab9b81:
     lexi.say "О-о... я тебя тоже люблю, [lssb_lexi.hero_name()]!"
 
 # ch/lexi/chat.rpy:128
@@ -1773,7 +1773,7 @@ translate russian lexi_bad_sweet_talk_male_68387872:
     lexi.say "Считаешь меня шлюхой, да?!"
 
 # ch/lexi/chat.rpy:148
-translate russian lexi_bad_sweet_talk_male_fe38f622:
+translate russian lexi_bad_sweet_talk_male_1ed041f1:
     mike.say "Эм... я вроде не это сказал..."
 
 # ch/lexi/condom.rpy:4
@@ -1969,7 +1969,7 @@ translate russian lexi_force_condom_88bb0d71:
     "Через пару секунд он уже надет, и теперь мы действительно готовы."
 
 # ch/lexi/condom.rpy:83
-translate russian lexi_mad_condom_bae14da0:
+translate russian lexi_mad_condom_4502718d:
     mike.say "А... что?"
 
 # ch/lexi/condom.rpy:84
@@ -2133,7 +2133,7 @@ translate russian lexi_date_intro_halloween_male_08d51644:
     lexi.say "Мы ведь вроде на свидании?"
 
 # ch/lexi/date.rpy:67
-translate russian lexi_date_intro_christmas_male_1a43b0f7:
+translate russian lexi_date_intro_christmas_male_b4d211eb:
     lexi.say "М-м-м... с Рождеством, [lssb_lexi.hero_name()]!"
 
 # ch/lexi/date.rpy:68
@@ -2149,7 +2149,7 @@ translate russian lexi_date_intro_christmas_male_8353aa54:
     mike.say "И тебя, Лекси."
 
 # ch/lexi/date.rpy:71
-translate russian lexi_date_intro_christmas_male_e0975b85:
+translate russian lexi_date_intro_christmas_male_085289a0:
     mike.say "Выглядишь немного... голодной!"
 
 # ch/lexi/date.rpy:72
@@ -2157,7 +2157,7 @@ translate russian lexi_date_intro_christmas_male_0cfebc1f:
     "Лекси кивает, уже пожирая меня глазами."
 
 # ch/lexi/date.rpy:73
-translate russian lexi_date_intro_christmas_male_55e02480:
+translate russian lexi_date_intro_christmas_male_f980302a:
     lexi.say "О да... в это время года я всегда чувствую... голод!"
 
 # ch/lexi/date.rpy:77
@@ -2173,7 +2173,7 @@ translate russian lexi_date_intro_birthday_male_4d681d46:
     lexi.say "У кого это день рождения?"
 
 # ch/lexi/date.rpy:82
-translate russian lexi_date_intro_birthday_male_a913c6e1:
+translate russian lexi_date_intro_birthday_male_a4e4dc55:
     mike.say "Эм... у тебя, Лекси."
 
 # ch/lexi/date.rpy:83
@@ -2185,7 +2185,7 @@ translate russian lexi_date_intro_birthday_male_21bc8aba:
     lexi.say "Я?"
 
 # ch/lexi/date.rpy:86
-translate russian lexi_date_intro_birthday_male_06639666:
+translate russian lexi_date_intro_birthday_male_b7f08d04:
     lexi.say "Хм... точную дату я плохо помню."
 
 # ch/lexi/date.rpy:88
@@ -2585,7 +2585,7 @@ translate russian lexi_date_play_arcade_lose_male_230fad51:
     lexi.say "Что ты сказал, [lssb_lexi.hero_name()]?!"
 
 # ch/lexi/date.rpy:239
-translate russian lexi_date_play_arcade_lose_male_7862de2e:
+translate russian lexi_date_play_arcade_lose_male_c04f441e:
     mike.say "А... ничего, Лекси, ничего!"
 
 # ch/lexi/date.rpy:240
@@ -2757,7 +2757,7 @@ translate russian lexi_date_swim_pool_home_male_31d0f6d6:
     mike.say "В девушке в бикини у бассейна есть что-то особенное."
 
 # ch/lexi/date.rpy:297
-translate russian lexi_date_swim_pool_home_male_ce11838f:
+translate russian lexi_date_swim_pool_home_male_e7dc0bc4:
     mike.say "М-м-м... понимаешь, о чём я?"
 
 # ch/lexi/date.rpy:299
@@ -3125,7 +3125,7 @@ translate russian lexi_date_swim_pool_home_male_960f937b:
     lexi.say "Я, честно, даже не знаю, как на это реагировать."
 
 # ch/lexi/date.rpy:447
-translate russian lexi_date_swim_pool_home_male_e770c136:
+translate russian lexi_date_swim_pool_home_male_2cafd8ea:
     lexi.say "Но... да. Не переставай, ладно?"
 
 # ch/lexi/date.rpy:460
@@ -3137,7 +3137,7 @@ translate russian lexi_dick_reactions_4a8363cf:
     lexi.say "Давай паркуй эту штуку во мне, прямо сейчас!"
 
 # ch/lexi/date.rpy:462
-translate russian lexi_dick_reactions_f2f378e9:
+translate russian lexi_dick_reactions_0322a45c:
     mike.say "А... значит, тебе нравится то, что ты видишь?"
 
 # ch/lexi/date.rpy:463
@@ -3153,11 +3153,11 @@ translate russian lexi_dick_reactions_0909850d:
     lexi.say "Упс!"
 
 # ch/lexi/date.rpy:470
-translate russian lexi_dick_reactions_d23c516c:
+translate russian lexi_dick_reactions_70063472:
     mike.say "Ч... что не так?"
 
 # ch/lexi/date.rpy:471
-translate russian lexi_dick_reactions_c0757197:
+translate russian lexi_dick_reactions_697d2e38:
     lexi.say "Ничего... всё в порядке!"
 
 # ch/lexi/date.rpy:472
@@ -3165,11 +3165,11 @@ translate russian lexi_dick_reactions_f773c621:
     mike.say "Слишком маленький, да?"
 
 # ch/lexi/date.rpy:474
-translate russian lexi_dick_reactions_aaa1a4e8:
+translate russian lexi_dick_reactions_1ea813ac:
     lexi.say "Нет... что ты!"
 
 # ch/lexi/date.rpy:475
-translate russian lexi_dick_reactions_d80f9dc1:
+translate russian lexi_dick_reactions_8719c4e2:
     lexi.say "Только... обязательно скажи, когда вставишь, ладно?"
 
 # ch/lexi/date.rpy:482
@@ -3545,7 +3545,7 @@ translate russian lexi_peeping_reactions_male_d35ff258:
     "Но среди этих звуков мне удаётся разобрать слова."
 
 # ch/lexi/date.rpy:601
-translate russian lexi_peeping_reactions_male_52c09282:
+translate russian lexi_peeping_reactions_male_003bf9b0:
     lexi.say "Т... ты молодец..."
 
 # ch/lexi/date.rpy:602
@@ -3621,7 +3621,7 @@ translate russian lexi_peeping_reactions_male_62a30398:
     lexi.say "Ах... [lssb_lexi.hero_name()]..."
 
 # ch/lexi/date.rpy:631
-translate russian lexi_peeping_reactions_male_b8280c10:
+translate russian lexi_peeping_reactions_male_79b7213e:
     lexi.say "Я сейчас... сейчас кончу!"
 
 # ch/lexi/date.rpy:632
@@ -4005,7 +4005,7 @@ translate russian lexi_halloween_arrival_7155e040:
     "Готовясь высказать всё, что думаю."
 
 # ch/lexi/date.rpy:772
-translate russian lexi_halloween_arrival_958feac5:
+translate russian lexi_halloween_arrival_c5da1672:
     mike.say "Ого, Лекси... просто ого!"
 
 # ch/lexi/date.rpy:773
@@ -4105,11 +4105,11 @@ translate russian lexi_halloween_arrival_58b5f4dc:
     lexi.say "Я думала, ты помешан на играх?!"
 
 # ch/lexi/date.rpy:803
-translate russian lexi_halloween_arrival_49ec00b1:
+translate russian lexi_halloween_arrival_b926bdeb:
     mike.say "Т... так и есть, Лекси."
 
 # ch/lexi/date.rpy:804
-translate russian lexi_halloween_arrival_e3b00f80:
+translate russian lexi_halloween_arrival_360bf776:
     mike.say "Просто... эта игра уже старовата!"
 
 # ch/lexi/date.rpy:807
@@ -4201,7 +4201,7 @@ translate russian lexi_halloween_arrival_7155e040_1:
     "Готовясь высказать всё, что думаю."
 
 # ch/lexi/date.rpy:835
-translate russian lexi_halloween_arrival_958feac5_1:
+translate russian lexi_halloween_arrival_c5da1672_1:
     mike.say "Ого, Лекси... просто ого!"
 
 # ch/lexi/date.rpy:836
@@ -4297,11 +4297,11 @@ translate russian lexi_halloween_arrival_58b5f4dc_1:
     lexi.say "Я думала, ты помешан на играх?!"
 
 # ch/lexi/date.rpy:865
-translate russian lexi_halloween_arrival_49ec00b1_1:
+translate russian lexi_halloween_arrival_b926bdeb_1:
     mike.say "Т... так и есть, Лекси."
 
 # ch/lexi/date.rpy:866
-translate russian lexi_halloween_arrival_e3b00f80_1:
+translate russian lexi_halloween_arrival_360bf776_1:
     mike.say "Просто... эта игра уже старовата!"
 
 # ch/lexi/date.rpy:869
@@ -4493,11 +4493,11 @@ translate russian lexi_halloween_dance_0cb25e23:
     mike.say "Я тебя утомил, Лекси?"
 
 # ch/lexi/date.rpy:942
-translate russian lexi_halloween_dance_1d557ad3:
+translate russian lexi_halloween_dance_cb1ea3d8:
     lexi.say "А... что?"
 
 # ch/lexi/date.rpy:943
-translate russian lexi_halloween_dance_510b2946:
+translate russian lexi_halloween_dance_62b97131:
     lexi.say "Ну... да, пожалуй!"
 
 # ch/lexi/date.rpy:944
@@ -4685,7 +4685,7 @@ translate russian lexi_halloween_sex_68236ada:
     lexi.say "Шевели задницей!"
 
 # ch/lexi/date.rpy:1011
-translate russian lexi_halloween_sex_c58887fa:
+translate russian lexi_halloween_sex_e3d1ddbd:
     mike.say "Л... ладно, Лекси..."
 
 # ch/lexi/date.rpy:1012
@@ -4773,7 +4773,7 @@ translate russian lexi_halloween_sex_8a109998:
     lexi.say "Хочу его в себя!"
 
 # ch/lexi/date.rpy:1043
-translate russian lexi_halloween_sex_60d3ac6a:
+translate russian lexi_halloween_sex_5d344aa3:
     mike.say "Т... ты могла просто попросить, Лекси!"
 
 # ch/lexi/date.rpy:1044
@@ -4869,11 +4869,11 @@ translate russian lexi_halloween_sex_96edab1c:
     lexi.say "Ох..."
 
 # ch/lexi/date.rpy:1078
-translate russian lexi_halloween_sex_b32f8161:
+translate russian lexi_halloween_sex_7c554fd1:
     lexi.say "М-м-м... да... да..."
 
 # ch/lexi/date.rpy:1080
-translate russian lexi_halloween_sex_91ea56a8:
+translate russian lexi_halloween_sex_d838130a:
     lexi.say "Вот так... вот чего я хочу!"
 
 # ch/lexi/date.rpy:1081
@@ -4913,7 +4913,7 @@ translate russian lexi_halloween_sex_b95c7fa6:
     "От сильных толчков она, кажется, только больше возбуждается."
 
 # ch/lexi/date.rpy:1093
-translate russian lexi_halloween_sex_8b81bc69:
+translate russian lexi_halloween_sex_6667cd35:
     lexi.say "Да... используй меня, [lssb_lexi.hero_name()], я вся твоя!"
 
 # ch/lexi/date.rpy:1094
@@ -5549,7 +5549,7 @@ translate russian lexi_date_mall_weed_d5fd9cd9:
     lexi.say "Как думаешь, получится примерить их и незаметно уйти из магазина?"
 
 # ch/lexi/date.rpy:1341
-translate russian lexi_date_mall_weed_fc0437e4:
+translate russian lexi_date_mall_weed_dc879f48:
     lexi.say "О... иди глянь сюда!"
 
 # ch/lexi/date.rpy:1342
@@ -5825,7 +5825,7 @@ translate russian lexi_date_mall_weed_207e52ae:
     "А когда она достаёт мой член, тоже начинаю смеяться."
 
 # ch/lexi/date.rpy:1445
-translate russian lexi_date_mall_weed_1ca27891:
+translate russian lexi_date_mall_weed_799cabe0:
     mike.say "Т... ты же прикалываешься?"
 
 # ch/lexi/date.rpy:1446
@@ -5989,7 +5989,7 @@ translate russian lexi_date_mall_weed_270801d8:
     mike.say "Ещё чего!"
 
 # ch/lexi/date.rpy:1556
-translate russian lexi_date_mall_weed_16f066c1:
+translate russian lexi_date_mall_weed_bf57ba9f:
     mike.say "Вообще-то... мне как-то..."
 
 # ch/lexi/date.rpy:1557
@@ -6013,7 +6013,7 @@ translate russian lexi_date_mall_weed_67d5b96e:
     mike.say "Угх..."
 
 # ch/lexi/date.rpy:1565
-translate russian lexi_date_mall_weed_4358cfe3:
+translate russian lexi_date_mall_weed_d614d039:
     mike.say "П... прости, Лекси..."
 
 # ch/lexi/date.rpy:1566
@@ -6145,7 +6145,7 @@ translate russian lexi_start_91984f9a:
     "Обычно они охотно составляют компанию, но, наверное, у каждого свои дела."
 
 # ch/lexi/events.rpy:831
-translate russian lexi_start_4d31bef9:
+translate russian lexi_start_3f1b1fbc:
     "А пока... моё единственное дело — хорошо провести время и забыть, как на меня недавно чуть не напали."
 
 # ch/lexi/events.rpy:832
@@ -6169,7 +6169,7 @@ translate russian lexi_start_63f4d6fb:
     "Чего я точно не ожидаю, так это встретить знакомое лицо."
 
 # ch/lexi/events.rpy:837
-translate russian lexi_start_ce9fb3e6:
+translate russian lexi_start_7b3ba1c0:
     mike.say "Да... ну... нахрен..."
 
 # ch/lexi/events.rpy:839
@@ -6189,7 +6189,7 @@ translate russian lexi_start_c6cfd737:
     "Подойдя ближе и не сводя с неё глаз, я замечаю ловкие движения рук под столом, за которым она сидит."
 
 # ch/lexi/events.rpy:843
-translate russian lexi_start_819709cf:
+translate russian lexi_start_01d61fb5:
     "Значит... она не только участвует в ограблениях, но и балуется наркотиками?"
 
 # ch/lexi/events.rpy:844
@@ -6221,7 +6221,7 @@ translate russian lexi_start_1d474937:
     "Что ж, когда хочу, я умею неплохо притворяться. Может, стоит сыграть эту роль."
 
 # ch/lexi/events.rpy:851
-translate russian lexi_start_c553247f:
+translate russian lexi_start_05ce0078:
     "А можно... просто наябедничать одному из вышибал. Не особо круто, зато она не втянет меня ни во что."
 
 # ch/lexi/events.rpy:854
@@ -6293,7 +6293,7 @@ translate russian lexi_start_9e2a488d:
     "Лекси немного откидывается назад и вздыхает."
 
 # ch/lexi/events.rpy:876
-translate russian lexi_start_6dfe4ee7:
+translate russian lexi_start_4e0cb942:
     lexi.say "Ну да... Дэнни тогда понял, что лучше отступить."
 
 # ch/lexi/events.rpy:877
@@ -6385,7 +6385,7 @@ translate russian lexi_start_7db706d7:
     mike.say "Ну же? Мне не терпится узнать, чем вознаградят все мои усилия."
 
 # ch/lexi/events.rpy:905
-translate russian lexi_start_deddc8c1:
+translate russian lexi_start_7bfd49f0:
     lexi.say "Это... ладно, хорошо. Я тебе отсосу."
 
 # ch/lexi/events.rpy:906
@@ -6393,7 +6393,7 @@ translate russian lexi_start_c63179de:
     "Теперь удивляться моя очередь. От такого будничного предложения я чуть не падаю со стула."
 
 # ch/lexi/events.rpy:907
-translate russian lexi_start_d4f57ce9:
+translate russian lexi_start_5c4715ea:
     mike.say "...Прости... что?"
 
 # ch/lexi/events.rpy:908
@@ -6409,7 +6409,7 @@ translate russian lexi_start_0261db31:
     "Я теряю дар речи. Не знаю, что на это ответить."
 
 # ch/lexi/events.rpy:911
-translate russian lexi_start_5ee51cd4:
+translate russian lexi_start_c3d4719e:
     "Можно согласиться, но... вдруг она опять мной воспользуется?"
 
 # ch/lexi/events.rpy:912
@@ -6425,7 +6425,7 @@ translate russian lexi_start_7e55387f:
     "Я всего лишь хочу получить хоть какую-то компенсацию за то, что со мной случилось."
 
 # ch/lexi/events.rpy:915
-translate russian lexi_start_4e42cfb1:
+translate russian lexi_start_0227d8e1:
     "Честно говоря... думаю, я это определённо заслужил..."
 
 # ch/lexi/events.rpy:916
@@ -6497,7 +6497,7 @@ translate russian lexi_start_c01e7e19:
     "Девушка" "Не обращайте на него внимания, ха-ха!"
 
 # ch/lexi/events.rpy:945
-translate russian lexi_start_855cc70a:
+translate russian lexi_start_8d7eac8c:
     "Вышибала" "Эм... вам чем-то помочь?"
 
 # ch/lexi/events.rpy:951
@@ -6509,7 +6509,7 @@ translate russian lexi_start_9bd71dec:
     "Она приторно улыбается, и впервые я больше смотрю на её лицо, чем на грудь."
 
 # ch/lexi/events.rpy:953
-translate russian lexi_start_5e5a7f69:
+translate russian lexi_start_56af5f47:
     "Значит... это часть её плана?"
 
 # ch/lexi/events.rpy:954
@@ -6521,7 +6521,7 @@ translate russian lexi_start_cba4c5df:
     "Похоже, она всё-таки оказалась на шаг впереди."
 
 # ch/lexi/events.rpy:956
-translate russian lexi_start_cb284d7e:
+translate russian lexi_start_e3859994:
     mike.say "Привет... Лекси..."
 
 # ch/lexi/events.rpy:957
@@ -6549,7 +6549,7 @@ translate russian lexi_start_5845f36c:
     "Полагаю, это предупреждение."
 
 # ch/lexi/events.rpy:963
-translate russian lexi_start_0dd74973:
+translate russian lexi_start_e5e73855:
     mike.say "Эм... нет, это... ничего. Простите, что побеспокоил."
 
 # ch/lexi/events.rpy:964
@@ -6573,7 +6573,7 @@ translate russian lexi_start_dfd09dea:
     mike.say "Похоже, ты меня раскусила. Как и я тебя."
 
 # ch/lexi/events.rpy:974
-translate russian lexi_start_053e2d0e:
+translate russian lexi_start_6ddc8bcc:
     lexi.say "Да отъебись... не твоё дело ко мне лезть!"
 
 # ch/lexi/events.rpy:975
@@ -6693,7 +6693,7 @@ translate russian lexi_start_dcdcbeb1:
     mike.say "Вот именно. Хорошенько обдумай следующий шаг, потому что я не побоюсь кому-нибудь рассказать."
 
 # ch/lexi/events.rpy:1011
-translate russian lexi_start_d3a39870:
+translate russian lexi_start_fbe4792e:
     lexi.say "Ладно! Ладно-ладно, давай просто... не будем торопиться..."
 
 # ch/lexi/events.rpy:1012
@@ -6721,7 +6721,7 @@ translate russian lexi_start_a3e863d5:
     mike.say "Что ты имеешь в виду?"
 
 # ch/lexi/events.rpy:1020
-translate russian lexi_start_04074e53:
+translate russian lexi_start_266a8012:
     lexi.say "Я... ну... ты на меня посмотри..."
 
 # ch/lexi/events.rpy:1022
@@ -6753,7 +6753,7 @@ translate russian lexi_start_34009366:
     "Пусть тогда я был слегка пьян, всё равно чувствую себя идиотом, что повёлся."
 
 # ch/lexi/events.rpy:1030
-translate russian lexi_start_32e2ba8f:
+translate russian lexi_start_0f02c384:
     lexi.say "А если... не хочу обманывать людей, приходится заниматься чем-то таким. Не отсвечивать."
 
 # ch/lexi/events.rpy:1031
@@ -6773,7 +6773,7 @@ translate russian lexi_start_84881140:
     "Если бы она не одевалась буквально как шлюха, то, может, и нашла бы приличную работу."
 
 # ch/lexi/events.rpy:1036
-translate russian lexi_start_17ccd694:
+translate russian lexi_start_3730f90d:
     "Я понимаю, что одежда девушки не должна ничего решать, но... не могу представить Лекси за офисной перегородкой."
 
 # ch/lexi/events.rpy:1037
@@ -6793,7 +6793,7 @@ translate russian lexi_start_e47538b1:
     "А вот там я вполне могу её представить."
 
 # ch/lexi/events.rpy:1041
-translate russian lexi_start_827bff3f:
+translate russian lexi_start_ea21684e:
     lexi.say "Пожалуйста... я дам тебе кое-что взамен, если ты никому не расскажешь."
 
 # ch/lexi/events.rpy:1042
@@ -6801,7 +6801,7 @@ translate russian lexi_start_b9f45aba:
     "От этого предложения я немного оживляюсь."
 
 # ch/lexi/events.rpy:1043
-translate russian lexi_start_430c14cd:
+translate russian lexi_start_1a48cd45:
     mike.say "И когда ты говоришь «кое-что»... то имеешь в виду... что именно?"
 
 # ch/lexi/events.rpy:1045
@@ -6861,7 +6861,7 @@ translate russian lexi_start_9c384e07:
     mike.say "Хорошо, ладно, без проблем."
 
 # ch/lexi/events.rpy:1067
-translate russian lexi_start_c612dd36:
+translate russian lexi_start_6e453cea:
     "Она, конечно, многого просит, но... за молчание я всё-таки кое-что получаю."
 
 # ch/lexi/events.rpy:1069
@@ -6893,7 +6893,7 @@ translate russian lexi_start_b9d68e7d:
     "Мне не терпится, но я и немного боюсь."
 
 # ch/lexi/events.rpy:1077
-translate russian lexi_start_3e18a8df:
+translate russian lexi_start_2b4e8bc5:
     "Может, потому, что это впервые... да и раньше она меня изрядно подставила..."
 
 # ch/lexi/events.rpy:1080
@@ -7037,7 +7037,7 @@ translate russian lexi_start_36f799f8:
     "С одной стороны, было чертовски хорошо, и этого не отрицать. Она явно знает своё дело."
 
 # ch/lexi/events.rpy:1151
-translate russian lexi_start_dac57513:
+translate russian lexi_start_5ed543ff:
     "С другой... кажется, она всё-таки слишком легко отделалась."
 
 # ch/lexi/events.rpy:1152
@@ -7069,7 +7069,7 @@ translate russian lexi_start_111ef6fb:
     "Она оставляет меня одного, и я вздыхаю."
 
 # ch/lexi/events.rpy:1164
-translate russian lexi_start_6bbfebba:
+translate russian lexi_start_22a21e50:
     "Рука словно сама тянется к карману. И, как я и подозревал... она его забрала."
 
 # ch/lexi/events.rpy:1165
@@ -7121,7 +7121,7 @@ translate russian lexi_event_02_d33d9491:
     mike.say "...Что такое, испугалась попасться?"
 
 # ch/lexi/events.rpy:1193
-translate russian lexi_event_02_c2496c63:
+translate russian lexi_event_02_7af0f3bc:
     lexi.say "Я ничего не боюсь! Просто... передумала."
 
 # ch/lexi/events.rpy:1194
@@ -7181,7 +7181,7 @@ translate russian lexi_event_02_4fb245af:
     "На том конце повисает долгая пауза. Похоже, тут ей нечего возразить."
 
 # ch/lexi/events.rpy:1208
-translate russian lexi_event_02_5bcd5176:
+translate russian lexi_event_02_e59bd968:
     lexi.say "...Можешь хотя бы... разрешить мне зайти?"
 
 # ch/lexi/events.rpy:1209
@@ -7197,11 +7197,11 @@ translate russian lexi_event_02_ee8bff8a:
     "Блядь! Теперь она, похоже, знает обо мне слишком много."
 
 # ch/lexi/events.rpy:1212
-translate russian lexi_event_02_c08c5692:
+translate russian lexi_event_02_6eb3807d:
     mike.say "С чего бы мне... пускать тебя к себе домой?"
 
 # ch/lexi/events.rpy:1213
-translate russian lexi_event_02_ceae62bf:
+translate russian lexi_event_02_3e4669ce:
     lexi.say "Ну... чтобы я вернула бумажник."
 
 # ch/lexi/events.rpy:1214
@@ -7229,7 +7229,7 @@ translate russian lexi_event_02_fb68bd86:
     mike.say "...Ты ведь шутишь?"
 
 # ch/lexi/events.rpy:1220
-translate russian lexi_event_02_3bc2dee1:
+translate russian lexi_event_02_8ec844d8:
     lexi.say "Тупиковая улица для богачей... дурацкий коврик с надписью «УХОДИ»? Ничего не напоминает, придурок?"
 
 # ch/lexi/events.rpy:1221
@@ -7301,7 +7301,7 @@ translate russian lexi_event_02_ac9abf0c:
     mike.say "Да. На все 100%% — да."
 
 # ch/lexi/events.rpy:1252
-translate russian lexi_event_02_12fb2488:
+translate russian lexi_event_02_c6d3d019:
     lexi.say "Ну, ты всё равно его получил. Значит... теперь между нами без обид?"
 
 # ch/lexi/events.rpy:1254
@@ -7313,11 +7313,11 @@ translate russian lexi_event_02_028dd95e:
     mike.say "...Ты пришла ещё зачем-то?"
 
 # ch/lexi/events.rpy:1257
-translate russian lexi_event_02_d961107c:
+translate russian lexi_event_02_254017ae:
     "Я уже готов стукнуться лбом о столешницу, но её искренний взгляд сбивает меня с толку. Она выглядит... грустной? Лишь мгновение, но я это замечаю."
 
 # ch/lexi/events.rpy:1259
-translate russian lexi_event_02_8d837b73:
+translate russian lexi_event_02_79d607ea:
     lexi.say "Ну, я... хотела кое-что объяснить. Понимаешь, я не хочу творить такую хрень. Просто приходится."
 
 # ch/lexi/events.rpy:1261
@@ -7369,11 +7369,11 @@ translate russian lexi_event_02_c82d1ac9:
     mike.say "Почему? Потому что у меня хороший дом, на который я заработал, и я пью вино?"
 
 # ch/lexi/events.rpy:1283
-translate russian lexi_event_02_676b1564:
+translate russian lexi_event_02_3544ba9e:
     lexi.say "Да забей. В общем... откуда у тебя деньги на такую жизнь?"
 
 # ch/lexi/events.rpy:1285
-translate russian lexi_event_02_9db32ff0:
+translate russian lexi_event_02_604a2b89:
     mike.say "Ну... я заработал, как и все. Кроме тебя, видимо. Ты ведь любишь лёгкие пути?"
 
 # ch/lexi/events.rpy:1287
@@ -7389,7 +7389,7 @@ translate russian lexi_event_02_69e09123:
     "Она снова замолкает и сосредотачивается на выпивке. Между нами повисает неловкость."
 
 # ch/lexi/events.rpy:1293
-translate russian lexi_event_02_3229b9da:
+translate russian lexi_event_02_da227d3c:
     lexi.say "...Просто... у меня нет выбора."
 
 # ch/lexi/events.rpy:1295
@@ -7421,7 +7421,7 @@ translate russian lexi_event_02_98e6f778:
     mike.say "Да, такого трудно забыть."
 
 # ch/lexi/events.rpy:1310
-translate russian lexi_event_02_b6313643:
+translate russian lexi_event_02_4a714430:
     lexi.say "Ну, он бандит. Я должна ему, вернее, всей его банде, так что приходится... слушаться, иначе..."
 
 # ch/lexi/events.rpy:1312
@@ -7429,7 +7429,7 @@ translate russian lexi_event_02_68b54004:
     "По тому, как она обрывает фразу, я решаю не расспрашивать дальше."
 
 # ch/lexi/events.rpy:1313
-translate russian lexi_event_02_ad8d1d4f:
+translate russian lexi_event_02_a622fc0e:
     mike.say "Ясно... и поэтому ты всё это делаешь?"
 
 # ch/lexi/events.rpy:1315
@@ -7461,11 +7461,11 @@ translate russian lexi_event_02_371b8676_1:
     mike.say "..."
 
 # ch/lexi/events.rpy:1325
-translate russian lexi_event_02_b62d80e9:
+translate russian lexi_event_02_53e309ce:
     "Обдумав всё, я не могу по-настоящему на неё злиться. Легко просто во всём её обвинить, но... у неё, видимо, были причины."
 
 # ch/lexi/events.rpy:1326
-translate russian lexi_event_02_1b4833f5:
+translate russian lexi_event_02_a1a0ebd6:
     mike.say "Хорошо... ладно."
 
 # ch/lexi/events.rpy:1328
@@ -7473,7 +7473,7 @@ translate russian lexi_event_02_22e3bca9:
     "Она с надеждой поднимает глаза, и я окончательно сдаюсь."
 
 # ch/lexi/events.rpy:1329
-translate russian lexi_event_02_309c2d48:
+translate russian lexi_event_02_fa7f82c4:
     mike.say "Можем оставить прошлое в прошлом и... двигаться дальше."
 
 # ch/lexi/events.rpy:1331
@@ -7481,7 +7481,7 @@ translate russian lexi_event_02_fe8f8d44:
     lexi.say "Правда?!"
 
 # ch/lexi/events.rpy:1333
-translate russian lexi_event_02_4b55ae24:
+translate russian lexi_event_02_33593c93:
     mike.say "Да, правда. Только... больше ничего такого не выкидывай, пожалуйста."
 
 # ch/lexi/events.rpy:1335
@@ -7489,11 +7489,11 @@ translate russian lexi_event_02_4788e558:
     lexi.say "Договорились. Спасибо, что выслушал."
 
 # ch/lexi/events.rpy:1337
-translate russian lexi_event_02_cf12b22a:
+translate russian lexi_event_02_3330cd6d:
     "Меня удивляет её доброта и открытость. Конечно, это может быть обманом, но я всё равно ей верю. К тому же, когда она не стервозничает, она очень привлекательна."
 
 # ch/lexi/events.rpy:1340
-translate russian lexi_event_02_da2b9ed0:
+translate russian lexi_event_02_7d601c5c:
     lexi.say "Хм... эй, ого!"
 
 # ch/lexi/events.rpy:1342
@@ -7509,7 +7509,7 @@ translate russian lexi_event_02_f3811a2e:
     lexi.say "У тебя есть бассейн?!"
 
 # ch/lexi/events.rpy:1349
-translate russian lexi_event_02_41665fe9:
+translate russian lexi_event_02_263e60ac:
     mike.say "Да, эм... был вместе с домом. Может, его надо почистить, давно не пользовался."
 
 # ch/lexi/events.rpy:1351
@@ -7525,7 +7525,7 @@ translate russian lexi_event_02_cfd705db:
     "Я спешу за ней через открытую дверь. Она уже стоит у бассейна и с восторгом смотрит в воду."
 
 # ch/lexi/events.rpy:1358
-translate russian lexi_event_02_47ab0c78:
+translate russian lexi_event_02_ab2aadab:
     "И... снимает одежду. Её и так немного, так что скоро по моему саду будет разгуливать голая девица."
 
 # ch/lexi/events.rpy:1359
@@ -7557,7 +7557,7 @@ translate russian lexi_event_02_ac0482db:
     lexi.say "Расслабься и залезай! Со всей тяжёлой хренью ведь уже разобрались, да?"
 
 # ch/lexi/events.rpy:1374
-translate russian lexi_event_02_22522e1e:
+translate russian lexi_event_02_5a10c69f:
     "Её тело... великолепно. Этого не отрицать."
 
 # ch/lexi/events.rpy:1375
@@ -7565,7 +7565,7 @@ translate russian lexi_event_02_2639fa0b:
     "Пышная грудь, стройная талия и округлые бёдра. Она стройная, с изгибами во всех нужных местах."
 
 # ch/lexi/events.rpy:1377
-translate russian lexi_event_02_a48052e7:
+translate russian lexi_event_02_e0fe3489:
     "Увидеть всё это целиком... особое удовольствие."
 
 # ch/lexi/events.rpy:1379
@@ -7577,7 +7577,7 @@ translate russian lexi_event_02_fef58e7c_1:
     mike.say "Прости?"
 
 # ch/lexi/events.rpy:1381
-translate russian lexi_event_02_a9e176c9:
+translate russian lexi_event_02_1c2e32f6:
     "Она смеётся, подплывает к бортику и опирается на него сложенными руками и грудью. Груди сжимаются, с них стекает хлорированная вода. Зрелище, прямо скажем, заманчивое."
 
 # ch/lexi/events.rpy:1382
@@ -7589,7 +7589,7 @@ translate russian lexi_event_02_945e017b:
     lexi.say "В этот раз тебе ведь нечего бояться. Бумажник в бассейн не возьмёшь."
 
 # ch/lexi/events.rpy:1384
-translate russian lexi_event_02_79055163:
+translate russian lexi_event_02_7a8204a6:
     "Верно. Что ж... может, стоит. Или... нет?"
 
 # ch/lexi/events.rpy:1387
@@ -7605,7 +7605,7 @@ translate russian lexi_event_02_2bc7d022:
     "Поэтому, не оставляя себе времени на сомнения, я снимаю одежду и спускаюсь к ней в воду."
 
 # ch/lexi/events.rpy:1390
-translate russian lexi_event_02_66e6b60b:
+translate russian lexi_event_02_b650b2aa:
     "Да... совершенно голый."
 
 # ch/lexi/events.rpy:1391
@@ -7617,11 +7617,11 @@ translate russian lexi_event_02_308cd0fa:
     "Смотрит и смотрит..."
 
 # ch/lexi/events.rpy:1393
-translate russian lexi_event_02_aced90b4:
+translate russian lexi_event_02_0e898b65:
     lexi.say "Ого... ты и правда это сделал."
 
 # ch/lexi/events.rpy:1394
-translate russian lexi_event_02_a5d47bed:
+translate russian lexi_event_02_9e40800b:
     mike.say "Ну... решил, это лучше, чем неловко стоять и ждать, пока ты вылезешь."
 
 # ch/lexi/events.rpy:1395
@@ -7689,11 +7689,11 @@ translate russian lexi_event_02_667f7883:
     "Её руки тоже начинают исследовать моё тело, скользя по каждому сантиметру кожи. Вскоре они обхватывают несколько особенно важных сантиметров и начинают двигаться даже под водой."
 
 # ch/lexi/events.rpy:1425
-translate russian lexi_event_02_da10ea5b:
+translate russian lexi_event_02_d23cb5dc:
     "Но... готов ли я зайти дальше? Что ж... похоже, теперь пути назад нет."
 
 # ch/lexi/events.rpy:1427
-translate russian lexi_event_02_a00ede1c:
+translate russian lexi_event_02_afefac45:
     lexi.say "Посмотри на себя... у тебя уже встаёт."
 
 # ch/lexi/events.rpy:1429
@@ -7733,7 +7733,7 @@ translate russian lexi_event_02_2566e258:
     "Я начинаю ритмично двигаться внутри неё, и вскоре мы двигаемся в унисон, расплёскивая тёплую воду вокруг обнажённых тел."
 
 # ch/lexi/events.rpy:1445
-translate russian lexi_event_02_95ba4c7b:
+translate russian lexi_event_02_54b2f66d:
     lexi.say "Ах... сильнее!"
 
 # ch/lexi/events.rpy:1446
@@ -7769,7 +7769,7 @@ translate russian lexi_event_02_1eda3520_1:
     lexi.say "А-а-ах~!"
 
 # ch/lexi/events.rpy:1462
-translate russian lexi_event_02_e80e258e:
+translate russian lexi_event_02_b1ba0523:
     lexi.say "Т... ты слишком быстро вытащил..."
 
 # ch/lexi/events.rpy:1464
@@ -7781,7 +7781,7 @@ translate russian lexi_event_02_6d3a182e:
     "Честно говоря, я ещё не был с такой женщиной. Никогда прежде я не кончал настолько быстро."
 
 # ch/lexi/events.rpy:1466
-translate russian lexi_event_02_5f18bf74:
+translate russian lexi_event_02_43723a41:
     "Может, потому, что всё было так неожиданно. Трахнуть такую девушку, как Лекси, да ещё здесь... разве я мог это предвидеть?"
 
 # ch/lexi/events.rpy:1468
@@ -7929,7 +7929,7 @@ translate russian lexi_event_02b_9ba8d037:
     "Едва заметную, но в нём словно меньше наглости и больше уязвимости."
 
 # ch/lexi/events.rpy:1521
-translate russian lexi_event_02b_b379ec29:
+translate russian lexi_event_02b_98a8ca11:
     lexi.say "Я... я не вру, ясно?"
 
 # ch/lexi/events.rpy:1522
@@ -7937,7 +7937,7 @@ translate russian lexi_event_02b_249bd814:
     lexi.say "Не знаю, почему не воспользовалась ими..."
 
 # ch/lexi/events.rpy:1523
-translate russian lexi_event_02b_9b9ee68b:
+translate russian lexi_event_02b_d7b3747a:
     lexi.say "Казалось, что это неправильно... вот и всё!"
 
 # ch/lexi/events.rpy:1524
@@ -7953,7 +7953,7 @@ translate russian lexi_event_02b_b3724f0e:
     mike.say "И что это даст?"
 
 # ch/lexi/events.rpy:1527
-translate russian lexi_event_02b_60107946:
+translate russian lexi_event_02b_cdb83cf5:
     lexi.say "Не знаю... просто хочу, и всё!"
 
 # ch/lexi/events.rpy:1528
@@ -7961,7 +7961,7 @@ translate russian lexi_event_02b_bd8ef563:
     mike.say "Хочешь сделать шаг к примирению, Лекси? Так?"
 
 # ch/lexi/events.rpy:1529
-translate russian lexi_event_02b_ece31a80:
+translate russian lexi_event_02b_a101112b:
     lexi.say "Да-да... я не умею так красиво говорить, как ты!"
 
 # ch/lexi/events.rpy:1530
@@ -8081,11 +8081,11 @@ translate russian lexi_event_02b_43408103:
     mike.say "Я что-то сказал?"
 
 # ch/lexi/events.rpy:1574
-translate russian lexi_event_02b_ce3781cd:
+translate russian lexi_event_02b_d66659ab:
     lexi.say "Нет... то есть да..."
 
 # ch/lexi/events.rpy:1576
-translate russian lexi_event_02b_1f45fb3f:
+translate russian lexi_event_02b_d464b6ae:
     lexi.say "Просто... мне нравится, когда ты ко мне хорошо относишься!"
 
 # ch/lexi/events.rpy:1578
@@ -8113,7 +8113,7 @@ translate russian lexi_event_02b_1e181899:
     "Может, я просто ведусь на красивое лицо и жалостливую историю."
 
 # ch/lexi/events.rpy:1585
-translate russian lexi_event_02b_d508a216:
+translate russian lexi_event_02b_be9998c7:
     mike.say "Я... я как раз покупал подарки к Рождеству."
 
 # ch/lexi/events.rpy:1586
@@ -8121,7 +8121,7 @@ translate russian lexi_event_02b_d6ad96db:
     mike.say "Хочешь остаться и составить мне компанию?"
 
 # ch/lexi/events.rpy:1587
-translate russian lexi_event_02b_73adc3d6:
+translate russian lexi_event_02b_12789d27:
     mike.say "Можем ещё поболтать... если тебе больше никуда не нужно?"
 
 # ch/lexi/events.rpy:1589
@@ -8177,7 +8177,7 @@ translate russian lexi_event_02b_304bfca3:
     mike.say "Кто был тот байкер, с которым ты тогда была?"
 
 # ch/lexi/events.rpy:1609
-translate russian lexi_event_02b_93e2d49a:
+translate russian lexi_event_02b_6c74f559:
     lexi.say "А... он..."
 
 # ch/lexi/events.rpy:1610
@@ -8485,7 +8485,7 @@ translate russian lexi_event_02b_89e3e84a:
     mike.say "Это было..."
 
 # ch/lexi/events.rpy:1719
-translate russian lexi_event_02b_765b5ef3:
+translate russian lexi_event_02b_7da22a7f:
     mike.say "Это было... ОГО..."
 
 # ch/lexi/events.rpy:1720
@@ -8505,7 +8505,7 @@ translate russian lexi_event_02b_ba7d9546:
     lexi.say "Будь я твоей, делала бы это для тебя каждый день!"
 
 # ch/lexi/events.rpy:1728
-translate russian lexi_event_02b_6017df65:
+translate russian lexi_event_02b_d48ab608:
     lexi.say "Каждый... божий... день!"
 
 # ch/lexi/events.rpy:1732
@@ -8533,7 +8533,7 @@ translate russian lexi_event_02b_8c9ba473:
     lexi.say "Правда?"
 
 # ch/lexi/events.rpy:1738
-translate russian lexi_event_02b_de6e9d6e:
+translate russian lexi_event_02b_297fa514:
     lexi.say "Ну... можем ещё потусить вместе, да?"
 
 # ch/lexi/events.rpy:1739
@@ -8601,7 +8601,7 @@ translate russian lexi_event_02b_21adc391:
     "Но я вижу, что она обдумывает мои слова."
 
 # ch/lexi/events.rpy:1759
-translate russian lexi_event_02b_ede8bd4b:
+translate russian lexi_event_02b_422a0e44:
     lexi.say "Я... я просто подумала..."
 
 # ch/lexi/events.rpy:1761
@@ -8637,7 +8637,7 @@ translate russian lexi_event_02b_8c9ba473_1:
     lexi.say "Правда?"
 
 # ch/lexi/events.rpy:1772
-translate russian lexi_event_02b_de6e9d6e_1:
+translate russian lexi_event_02b_297fa514_1:
     lexi.say "Ну... можем ещё потусить вместе, да?"
 
 # ch/lexi/events.rpy:1773
@@ -8765,7 +8765,7 @@ translate russian lexi_event_04_caad210e:
     "Она курила и словно изо всех сил старалась не смотреть на проходящих мимо."
 
 # ch/lexi/events.rpy:1837
-translate russian lexi_event_04_fef55b56:
+translate russian lexi_event_04_88f89fde:
     mike.say "Лекси... эй, Лекси, как дела?"
 
 # ch/lexi/events.rpy:1838
@@ -8781,7 +8781,7 @@ translate russian lexi_event_04_43f05cf2:
     mike.say "Чёрт, Лекси! Что с тобой случилось?"
 
 # ch/lexi/events.rpy:1842
-translate russian lexi_event_04_15285212:
+translate russian lexi_event_04_287c1c4f:
     lexi.say "Ничего... ничего... я просто... упала в душе, вот и всё."
 
 # ch/lexi/events.rpy:1843
@@ -8789,7 +8789,7 @@ translate russian lexi_event_04_d744104c:
     "Мне сразу стыдно: первым делом я усомнился в её словах, потому что не верю, что в этом трейлере вообще есть душ."
 
 # ch/lexi/events.rpy:1844
-translate russian lexi_event_04_ecf4e6b9:
+translate russian lexi_event_04_5d3ecf08:
     mike.say "Нет... не упала. Иначе ты бы отшутилась, сказала, что была пьяная, обкуренная или ещё что."
 
 # ch/lexi/events.rpy:1846
@@ -8825,7 +8825,7 @@ translate russian lexi_event_04_f2cb48e4:
     mike.say "Да плевать мне, что его злит! Ненавижу, что эта подлая горилла поднимает на тебя руки!"
 
 # ch/lexi/events.rpy:1854
-translate russian lexi_event_04_b8c6a54d:
+translate russian lexi_event_04_3ad072a4:
     lexi.say "Ну да... может, тебе стоит задуматься о том, что его злит."
 
 # ch/lexi/events.rpy:1855
@@ -8841,7 +8841,7 @@ translate russian lexi_event_04_2a172424:
     lexi.say "Он сказал, что убьёт тебя, если я продолжу встречаться с тобой за его спиной."
 
 # ch/lexi/events.rpy:1858
-translate russian lexi_event_04_461b623d:
+translate russian lexi_event_04_03b64e6c:
     lexi.say "Поэтому я не перезванивала... хотела тебя от него уберечь."
 
 # ch/lexi/events.rpy:1859
@@ -8861,7 +8861,7 @@ translate russian lexi_event_04_d7895417:
     "Особенно то, как близок был к тому, чтобы больше никогда не бегать и даже не ходить."
 
 # ch/lexi/events.rpy:1865
-translate russian lexi_event_04_cb39cec8:
+translate russian lexi_event_04_2de2854d:
     mike.say "Может, мне стоит отступить... уйти с территории Дэнни?"
 
 # ch/lexi/events.rpy:1866
@@ -8873,7 +8873,7 @@ translate russian lexi_event_04_7dc21927:
     "Я вижу, что Лекси оставляет фразу незаконченной, ожидая продолжения от меня."
 
 # ch/lexi/events.rpy:1868
-translate russian lexi_event_04_098c5719:
+translate russian lexi_event_04_aa54f056:
     mike.say "То есть, если я останусь рядом... он ведь так и будет тебя бить?"
 
 # ch/lexi/events.rpy:1870
@@ -8881,7 +8881,7 @@ translate russian lexi_event_04_9b62081d:
     "Лекси отводит взгляд. Теперь в её глазах видны настоящая грусть и разочарование."
 
 # ch/lexi/events.rpy:1871
-translate russian lexi_event_04_19cf3b58:
+translate russian lexi_event_04_88d1293b:
     lexi.say "Ну... думаю, у него станет на один повод меньше... и это хоть что-то."
 
 # ch/lexi/events.rpy:1879
@@ -9005,7 +9005,7 @@ translate russian lexi_event_05_6fb043e0:
     thug_say "Она не послушалась, так что теперь расплачиваться тебе."
 
 # ch/lexi/events.rpy:1927
-translate russian lexi_event_05_503872fd:
+translate russian lexi_event_05_2e7c42c0:
     mike.say "Эй, Дэнни, минутку... что значит, ты велел ей оставить меня в покое?"
 
 # ch/lexi/events.rpy:1928
@@ -9021,7 +9021,7 @@ translate russian lexi_event_05_047e40cc:
     mike.say "Вообще-то она сказала, что ты просто её сутенёр!"
 
 # ch/lexi/events.rpy:1931
-translate russian lexi_event_05_c68b7d8f:
+translate russian lexi_event_05_4c81d1b2:
     thug_say "Ну... я и есть её чёртов сутенёр!"
 
 # ch/lexi/events.rpy:1932
@@ -9245,7 +9245,7 @@ translate russian lexi_event_06_4f390ad4:
     "Услышав издевательский голос Дэнни, я от неожиданности едва не роняю телефон."
 
 # ch/lexi/events.rpy:2053
-translate russian lexi_event_06_146d9263:
+translate russian lexi_event_06_f1319167:
     mike.say "Дэнни... какого хрена?!"
 
 # ch/lexi/events.rpy:2054
@@ -9253,11 +9253,11 @@ translate russian lexi_event_06_29567372:
     thug_say "Угадал, урод."
 
 # ch/lexi/events.rpy:2055
-translate russian lexi_event_06_3d56c352:
+translate russian lexi_event_06_e4ecb2ed:
     mike.say "Где Лекси?.. Что ты с ней сделал?"
 
 # ch/lexi/events.rpy:2056
-translate russian lexi_event_06_d429e25f:
+translate russian lexi_event_06_0283c008:
     thug_say "Успокойся, чувак. Я ничего ей не сделал... пока!"
 
 # ch/lexi/events.rpy:2057
@@ -9325,7 +9325,7 @@ translate russian lexi_event_06_3cdfc184:
     camila.say "Что случилось?"
 
 # ch/lexi/events.rpy:2079
-translate russian lexi_event_06_8f73a0bc:
+translate russian lexi_event_06_016dc24d:
     mike.say "Камила... Камила..."
 
 # ch/lexi/events.rpy:2080
@@ -9389,7 +9389,7 @@ translate russian lexi_event_06_6e36a9dc:
     camila.say "Та, которую я уже раз сто задерживала?"
 
 # ch/lexi/events.rpy:2097
-translate russian lexi_event_06_9bcfdb67:
+translate russian lexi_event_06_b77674e0:
     mike.say "Э-э... да..."
 
 # ch/lexi/events.rpy:2098
@@ -9505,7 +9505,7 @@ translate russian lexi_event_06_b30ce139:
     "Изо всех сил стараясь не показывать, как мне страшно."
 
 # ch/lexi/events.rpy:2137
-translate russian lexi_event_06_3a126305:
+translate russian lexi_event_06_b98cdf31:
     mike.say "Лекси... ты здесь?"
 
 # ch/lexi/events.rpy:2138
@@ -9577,7 +9577,7 @@ translate russian lexi_event_06_cfaf723e:
     "Пока она запихивает Дэнни на заднее сиденье патрульной машины, я спешу к Лекси."
 
 # ch/lexi/events.rpy:2182
-translate russian lexi_event_06_5e904a76:
+translate russian lexi_event_06_a55c3c98:
     lexi.say "Блядь... блядь... Как же я рада, что ты цел!"
 
 # ch/lexi/events.rpy:2183
@@ -9681,7 +9681,7 @@ translate russian lexi_event_06_c8cefabc:
     "Глубоко вздохнув, я вхожу в совсем не приветливую темноту."
 
 # ch/lexi/events.rpy:2233
-translate russian lexi_event_06_3a126305_1:
+translate russian lexi_event_06_b98cdf31_1:
     mike.say "Лекси... ты здесь?"
 
 # ch/lexi/events.rpy:2234
@@ -9721,7 +9721,7 @@ translate russian lexi_event_06_0ba0ed5f:
     "Кровь с одного из них капает на землю и брызгает на Лекси, заставляя её вздрагивать и отшатываться."
 
 # ch/lexi/events.rpy:2259
-translate russian lexi_event_06_07a2b1a5:
+translate russian lexi_event_06_da74a959:
     "Боли нет, лишь слабость, из-за которой я не могу пошевелиться... даже поднять голову."
 
 # ch/lexi/events.rpy:2260
@@ -9821,7 +9821,7 @@ translate russian lexi_event_06_e606936e:
     "Разобравшись с Дэнни, я бросаюсь к Лекси, вытаскиваю кляп и начинаю её развязывать."
 
 # ch/lexi/events.rpy:2331
-translate russian lexi_event_06_5e904a76_1:
+translate russian lexi_event_06_a55c3c98_1:
     lexi.say "Блядь... блядь... Как же я рада, что ты цел!"
 
 # ch/lexi/events.rpy:2332
@@ -9841,7 +9841,7 @@ translate russian lexi_event_06_c90f7202:
     "Когда этот порыв проходит, Лекси смотрит на неподвижное тело Дэнни."
 
 # ch/lexi/events.rpy:2341
-translate russian lexi_event_06_0df1a6cc:
+translate russian lexi_event_06_15db089d:
     lexi.say "Он... значит, умер?"
 
 # ch/lexi/events.rpy:2342
@@ -9849,7 +9849,7 @@ translate russian lexi_event_06_748b458d:
     mike.say "Если только не знает, как выжить, истекая кровью с собственными кишками в руках."
 
 # ch/lexi/events.rpy:2343
-translate russian lexi_event_06_b4ab7920:
+translate russian lexi_event_06_9b6d7221:
     lexi.say "Хм... Он всегда был как таракан в человеческом обличье... Наверное, я в глубине души думала, что он никогда не сдохнет."
 
 # ch/lexi/events.rpy:2344
@@ -9857,7 +9857,7 @@ translate russian lexi_event_06_0938d61f:
     lexi.say "Я всегда думала, что буду плясать на его трупе и распевать какую-нибудь грёбаную песню."
 
 # ch/lexi/events.rpy:2345
-translate russian lexi_event_06_f621976c:
+translate russian lexi_event_06_8e068a7f:
     lexi.say "А сейчас ничего не чувствую... Просто рада, что ты жив, а он — нет."
 
 # ch/lexi/events.rpy:2346
@@ -10401,7 +10401,7 @@ translate russian lexi_event_08_22bcb459:
     "Кто знает, может, Лекси уверена, что этот мерзавец ещё восстанет из мёртвых!"
 
 # ch/lexi/events.rpy:2510
-translate russian lexi_event_08_fb34a9c7:
+translate russian lexi_event_08_c70823ed:
     "Бр-р... Если подумать, Дэнни-зомби был бы ещё хуже живого Дэнни!"
 
 # ch/lexi/events.rpy:2511
@@ -10477,7 +10477,7 @@ translate russian lexi_event_08_9903ffbb:
     lexi.say "Ты Анти-Дэнни!"
 
 # ch/lexi/events.rpy:2530
-translate russian lexi_event_08_e0530406:
+translate russian lexi_event_08_d2b2159a:
     mike.say "А... да, Лекси."
 
 # ch/lexi/events.rpy:2531
@@ -10593,7 +10593,7 @@ translate russian lexi_male_ending_77220667:
     "Это правда происходит: мы с Лекси сейчас встанем перед священником и поженимся!"
 
 # ch/lexi/events.rpy:2583
-translate russian lexi_male_ending_35c4b075:
+translate russian lexi_male_ending_73609a98:
     "Я... ну, мне немного неловко это говорить..."
 
 # ch/lexi/events.rpy:2584
@@ -10693,7 +10693,7 @@ translate russian lexi_male_ending_33221b31:
     "Даже сейчас я вижу, как ей нравится, что я скольжу по ней взглядом."
 
 # ch/lexi/events.rpy:2613
-translate russian lexi_male_ending_950a91e6:
+translate russian lexi_male_ending_f320f72c:
     "И, ну... она чертовски сексуальна!"
 
 # ch/lexi/events.rpy:2615
@@ -10753,7 +10753,7 @@ translate russian lexi_male_ending_200f7f62:
     "Священник" "Согласны ли вы, [lssb_lexi.hero_name()], взять Лекси в законные жёны?"
 
 # ch/lexi/events.rpy:2630
-translate russian lexi_male_ending_0c3eae31:
+translate russian lexi_male_ending_ca3506a3:
     mike.say "Да... да, согласен!"
 
 # ch/lexi/events.rpy:2631
@@ -10849,7 +10849,7 @@ translate russian lexi_male_ending_c2f7c677:
     lexi.say "И всё?!"
 
 # ch/lexi/events.rpy:2666
-translate russian lexi_male_ending_c06aeb9a:
+translate russian lexi_male_ending_e9bbdd52:
     lexi.say "Хм... Ладно, если вам этого хочется."
 
 # ch/lexi/events.rpy:2667
@@ -10885,7 +10885,7 @@ translate russian lexi_male_ending_98fee4d2:
     lexi.say "Не сразу до меня дошло, что возвращался он на самом деле ради меня."
 
 # ch/lexi/events.rpy:2675
-translate russian lexi_male_ending_869754bc:
+translate russian lexi_male_ending_74a8c165:
     lexi.say "Потому что... потому что я ему так нравилась..."
 
 # ch/lexi/events.rpy:2676
@@ -11053,7 +11053,7 @@ translate russian lexi_male_ending_bab81726:
     lexi.say "Давно, блядь, пора!"
 
 # ch/lexi/events.rpy:2723
-translate russian lexi_male_ending_a5fa43db:
+translate russian lexi_male_ending_524be2de:
     lexi.say "Ой... простите. Мне нельзя ругаться?"
 
 # ch/lexi/events.rpy:2724
@@ -11085,7 +11085,7 @@ translate russian lexi_male_ending_da6dff2d:
     lexi.say "Потом отдать его бумажник Дэнни и забыть."
 
 # ch/lexi/events.rpy:2731
-translate russian lexi_male_ending_fad867ec:
+translate russian lexi_male_ending_d441316e:
     lexi.say "Но в нём было... ну, что-то другое."
 
 # ch/lexi/events.rpy:2732
@@ -11125,7 +11125,7 @@ translate russian lexi_male_ending_376a64b1:
     lexi.say "И при следующей встрече мог смотреть мне в глаза."
 
 # ch/lexi/events.rpy:2741
-translate russian lexi_male_ending_b8ace251:
+translate russian lexi_male_ending_3b192a2e:
     lexi.say "Тогда я... тогда он начал мне по-настоящему нравиться!"
 
 # ch/lexi/events.rpy:2742
@@ -11249,7 +11249,7 @@ translate russian lexi_male_ending_1edd8a80_1:
     lexi.say "Но пошли они! Кому какое дело, что они думают?"
 
 # ch/lexi/events.rpy:2774
-translate russian lexi_male_ending_bb50a69e:
+translate russian lexi_male_ending_f11a26bc:
     lexi.say "Хм... А знаете что?"
 
 # ch/lexi/events.rpy:2775
@@ -11637,7 +11637,7 @@ translate russian lexi_sasha_fuck_6e154b71:
     mike.say "Ладно, ладно..."
 
 # ch/lexi/events.rpy:2935
-translate russian lexi_sasha_fuck_bc2759d3:
+translate russian lexi_sasha_fuck_067daab9:
     mike.say "Саша, Лекси... Повеселились и хватит."
 
 # ch/lexi/events.rpy:2936
@@ -11689,7 +11689,7 @@ translate russian lexi_sasha_fuck_9053033f:
     sasha.say "Так что никуда ты не пойдёшь, пока мы не разрешим."
 
 # ch/lexi/events.rpy:2958
-translate russian lexi_sasha_fuck_e80a1461:
+translate russian lexi_sasha_fuck_339715c6:
     mike.say "А... понятно."
 
 # ch/lexi/events.rpy:2959
@@ -11709,7 +11709,7 @@ translate russian lexi_sasha_fuck_74b81d51:
     lexi.say "Так что хотим получить ответную услугу."
 
 # ch/lexi/events.rpy:2969
-translate russian lexi_sasha_fuck_8602a828:
+translate russian lexi_sasha_fuck_196285e4:
     mike.say "В... вы хотите сказать..."
 
 # ch/lexi/events.rpy:2971
@@ -11829,11 +11829,11 @@ translate russian lexi_sasha_fuck_420894f1:
     sasha.say "[lssb_lexi.hero_name()]..."
 
 # ch/lexi/events.rpy:3017
-translate russian lexi_sasha_fuck_5e3a7ad6:
+translate russian lexi_sasha_fuck_2c79b3f6:
     sasha.say "Мне нужен... твой член."
 
 # ch/lexi/events.rpy:3018
-translate russian lexi_sasha_fuck_08e968cd:
+translate russian lexi_sasha_fuck_cc195938:
     sasha.say "Пожалуйста... вставь его!"
 
 # ch/lexi/events.rpy:3019
@@ -12425,7 +12425,7 @@ translate russian lexi_slave_request_440668ad:
     mike.say "А потом вдруг звонишь, просишь приехать и ведёшь себя необыкновенно мило и любезно."
 
 # ch/lexi/events.rpy:3235
-translate russian lexi_slave_request_1800dc1c:
+translate russian lexi_slave_request_ef1c28c4:
     mike.say "Обычно ты не такая. А я знаю обычную тебя... Чёрт, я даже обожаю обычную тебя!"
 
 # ch/lexi/events.rpy:3237
@@ -12437,11 +12437,11 @@ translate russian lexi_slave_request_162d77df:
     "Это тоже пугает: раньше я ни разу не видел, чтобы она краснела, что бы ни происходило."
 
 # ch/lexi/events.rpy:3239
-translate russian lexi_slave_request_939b059e:
+translate russian lexi_slave_request_fb2cc21d:
     lexi.say "А... мне непросто это сказать..."
 
 # ch/lexi/events.rpy:3240
-translate russian lexi_slave_request_3ccee953:
+translate russian lexi_slave_request_dc7bf659:
     mike.say "Попробуй, Лекси. Я слушаю."
 
 # ch/lexi/events.rpy:3242
@@ -12453,7 +12453,7 @@ translate russian lexi_slave_request_7d31a4cf:
     "Первое знакомство моей девушки на стороне с моей рабыней — такое забудешь!"
 
 # ch/lexi/events.rpy:3244
-translate russian lexi_slave_request_837bbac2:
+translate russian lexi_slave_request_4a244d65:
     mike.say "Да... помню."
 
 # ch/lexi/events.rpy:3245
@@ -12461,19 +12461,19 @@ translate russian lexi_slave_request_cf493f25:
     lexi.say "А помнишь, о чём мы потом говорили?"
 
 # ch/lexi/events.rpy:3246
-translate russian lexi_slave_request_b4cf876d:
+translate russian lexi_slave_request_918cbc2c:
     "А, ну конечно... Теперь хоть что-то проясняется!"
 
 # ch/lexi/events.rpy:3247
-translate russian lexi_slave_request_50a1962e:
+translate russian lexi_slave_request_1ad82bd3:
     mike.say "Да, Лекси... Это я тоже помню."
 
 # ch/lexi/events.rpy:3248
-translate russian lexi_slave_request_48795fc6:
+translate russian lexi_slave_request_c3044a26:
     lexi.say "Я много об этом думала... О том, кем, как ты сказал, я могла бы стать..."
 
 # ch/lexi/events.rpy:3249
-translate russian lexi_slave_request_5757a34e:
+translate russian lexi_slave_request_df5dce4f:
     mike.say "Ты думала, хочешь ли тоже стать моей рабыней... как Саша?"
 
 # ch/lexi/events.rpy:3250
@@ -12485,7 +12485,7 @@ translate russian lexi_slave_request_424753bd:
     lexi.say "Ага, именно."
 
 # ch/lexi/events.rpy:3252
-translate russian lexi_slave_request_d57a45b7:
+translate russian lexi_slave_request_2de4e369:
     lexi.say "И думаю... то есть... я хочу."
 
 # ch/lexi/events.rpy:3253
@@ -12509,7 +12509,7 @@ translate russian lexi_slave_request_3cb825b9:
     "Трудно поверить, что она может так смущаться и, возможно, даже чего-то бояться."
 
 # ch/lexi/events.rpy:3259
-translate russian lexi_slave_request_9f24de40:
+translate russian lexi_slave_request_4e965cb2:
     lexi.say "[lssb_lexi.hero_name()], я хочу... хочу быть твоей... рабыней."
 
 # ch/lexi/events.rpy:3260
@@ -12529,7 +12529,7 @@ translate russian lexi_slave_request_f072ebb7:
     "Лекси продолжает удивлять непривычными выражениями лица: теперь на нём глубокое разочарование."
 
 # ch/lexi/events.rpy:3267
-translate russian lexi_slave_request_628d6bc9:
+translate russian lexi_slave_request_cc919dde:
     lexi.say "Но... почему?"
 
 # ch/lexi/events.rpy:3268
@@ -12537,7 +12537,7 @@ translate russian lexi_slave_request_8bbc23f1:
     lexi.say "С тех пор как мы сошлись, мы столько безумного дерьма вытворяли!"
 
 # ch/lexi/events.rpy:3269
-translate russian lexi_slave_request_9ac0741b:
+translate russian lexi_slave_request_eadf3eef:
     lexi.say "И я привыкла делать, что велят... Когда тебя так долго продаёт сутенёр, привыкаешь!"
 
 # ch/lexi/events.rpy:3270
@@ -12545,7 +12545,7 @@ translate russian lexi_slave_request_f63f9cda:
     "Я вздыхаю: мне совсем не хочется произносить то, что придётся сказать дальше."
 
 # ch/lexi/events.rpy:3271
-translate russian lexi_slave_request_0303bfe6:
+translate russian lexi_slave_request_9067b520:
     mike.say "Отчасти в этом и проблема, Лекси. Это не то, что было с тобой раньше."
 
 # ch/lexi/events.rpy:3272
@@ -12581,7 +12581,7 @@ translate russian lexi_slave_request_f7442508:
     "Лекси выглядит ещё более разочарованной, но, когда смысл моих слов доходит до неё, начинает слабо улыбаться."
 
 # ch/lexi/events.rpy:3281
-translate russian lexi_slave_request_e2811b47:
+translate russian lexi_slave_request_fa22e36f:
     lexi.say "Ты... ты правда это говоришь? Я нравлюсь тебе такой, какая есть?"
 
 # ch/lexi/events.rpy:3282
@@ -12625,7 +12625,7 @@ translate russian lexi_slave_request_08b5d41e:
     "Щёки Лекси уже пылают, но не поймёшь, от смущения или от возбуждения."
 
 # ch/lexi/events.rpy:3297
-translate russian lexi_slave_request_d39e2f1b:
+translate russian lexi_slave_request_90986464:
     mike.say "Тогда ладно... Если можешь обещать мне всё это, я приму тебя как свою рабыню."
 
 # ch/lexi/events.rpy:3299
@@ -12633,7 +12633,7 @@ translate russian lexi_slave_request_a4f3a750:
     "Лекси сидит, сложив руки на коленях, и с нетерпением смотрит на меня, ожидая первого приказа в качестве рабыни."
 
 # ch/lexi/events.rpy:3306
-translate russian lexi_slave_request_572d29ab:
+translate russian lexi_slave_request_c7ed63bd:
     lexi.say "С... спасибо... г... г... господин..."
 
 # ch/lexi/events.rpy:3307
@@ -12649,11 +12649,11 @@ translate russian lexi_sasha_1_11f0d0a6:
     lexi.say "Эй, хочу сюда заглянуть!"
 
 # ch/lexi/events.rpy:3318
-translate russian lexi_sasha_1_88a33abe:
+translate russian lexi_sasha_1_3d64e28b:
     mike.say "Эм... Не думал, что тебе нравится вся эта готика."
 
 # ch/lexi/events.rpy:3319
-translate russian lexi_sasha_1_e4fee1b0:
+translate russian lexi_sasha_1_21f1aaf2:
     lexi.say "Может, я хочу попробовать новое... У них и ремни есть, и шипы, и всякое такое."
 
 # ch/lexi/events.rpy:3321
@@ -12697,7 +12697,7 @@ translate russian lexi_sasha_1_07da694b:
     "Саша вдруг замечает Лекси, и я вижу, как она окидывает её суровым оценивающим взглядом."
 
 # ch/lexi/events.rpy:3336
-translate russian lexi_sasha_1_f106e08b:
+translate russian lexi_sasha_1_0cbfa422:
     sasha.say "Фу... Время от времени к нам такие забредают."
 
 # ch/lexi/events.rpy:3337
@@ -12737,11 +12737,11 @@ translate russian lexi_sasha_1_ddb9672b:
     "Желательно ещё и с бантиком сверху."
 
 # ch/lexi/events.rpy:3351
-translate russian lexi_sasha_1_110c2d1c:
+translate russian lexi_sasha_1_5f2b1ed1:
     mike.say "А, Лекси... Познакомься с Сашей!"
 
 # ch/lexi/events.rpy:3352
-translate russian lexi_sasha_1_4db8f5b3:
+translate russian lexi_sasha_1_58f03724:
     mike.say "Она... моя соседка."
 
 # ch/lexi/events.rpy:3353
@@ -12753,7 +12753,7 @@ translate russian lexi_sasha_1_8aebdeef:
     lexi.say "О, привет, Саша!"
 
 # ch/lexi/events.rpy:3356
-translate russian lexi_sasha_1_56e704ac:
+translate russian lexi_sasha_1_2589db3b:
     sasha.say "Привет... Лекси... А как вы с [lssb_lexi.hero_name()] познакомились?"
 
 # ch/lexi/events.rpy:3357
@@ -12773,7 +12773,7 @@ translate russian lexi_sasha_1_1be74973:
     sasha.say "Да что ты говоришь?"
 
 # ch/lexi/events.rpy:3362
-translate russian lexi_sasha_1_7706f76c:
+translate russian lexi_sasha_1_59227666:
     lexi.say "Вот именно! А теперь мы друзья по сексу!"
 
 # ch/lexi/events.rpy:3364
@@ -12789,7 +12789,7 @@ translate russian lexi_sasha_1_c2e19478:
     "Она возвращается к вешалкам, блаженно не подозревая, что происходит чуть поодаль."
 
 # ch/lexi/events.rpy:3368
-translate russian lexi_sasha_1_2af25c78:
+translate russian lexi_sasha_1_0b3d83c0:
     mike.say "Саша... Я могу объяснить..."
 
 # ch/lexi/events.rpy:3370
@@ -12809,7 +12809,7 @@ translate russian lexi_sasha_1_38a27d69:
     "Я открываю рот, но затем понуро опускаю плечи, понимая, что игра окончена."
 
 # ch/lexi/events.rpy:3375
-translate russian lexi_sasha_1_cb535641:
+translate russian lexi_sasha_1_41ae747e:
     sasha.say "Ох, [lssb_lexi.hero_name()]... Я не злюсь. Наверное, просто разочарована."
 
 # ch/lexi/events.rpy:3376
@@ -12833,7 +12833,7 @@ translate russian lexi_sasha_1_61358bd4:
     lexi.say "Минет в обмен на твои мысли?"
 
 # ch/lexi/events.rpy:3390
-translate russian lexi_sasha_1_ac42dbe3:
+translate russian lexi_sasha_1_6abfa255:
     mike.say "Что?.. А, да... Кажется, я только что испортил отношения с Сашей."
 
 # ch/lexi/events.rpy:3391
@@ -12841,11 +12841,11 @@ translate russian lexi_sasha_1_838b30a2:
     lexi.say "Почему?"
 
 # ch/lexi/events.rpy:3392
-translate russian lexi_sasha_1_25d1bf8f:
+translate russian lexi_sasha_1_0b239c8d:
     mike.say "Ну... Я был не совсем честен, когда сказал, что она просто моя соседка. Понимаешь, о чём я?"
 
 # ch/lexi/events.rpy:3393
-translate russian lexi_sasha_1_41a2eed8:
+translate russian lexi_sasha_1_b5245886:
     lexi.say "Ага, я примерно так и поняла... Просто не хотела тыкать тебя в это носом."
 
 # ch/lexi/events.rpy:3394
@@ -12921,7 +12921,7 @@ translate russian lexi_sasha_1_f7971b0f:
     sasha.say "Она доставляет тебе удовольствие, [lssb_lexi.hero_name()]?"
 
 # ch/lexi/events.rpy:3424
-translate russian lexi_sasha_1_e193f1ce:
+translate russian lexi_sasha_1_a99e7fa9:
     mike.say "Да, она меня удовлетворяет... Но она не такая послушная, как ты."
 
 # ch/lexi/events.rpy:3427
@@ -12949,7 +12949,7 @@ translate russian lexi_sasha_1_8b963639:
     sasha.say "Но только потому, что она занимает время, когда я сама могла бы доставлять тебе удовольствие."
 
 # ch/lexi/events.rpy:3435
-translate russian lexi_sasha_1_854dc82d:
+translate russian lexi_sasha_1_6af92599:
     sasha.say "Может... может, мы могли бы делать это вдвоём, [lssb_lexi.hero_name()]?"
 
 # ch/lexi/events.rpy:3436
@@ -12989,7 +12989,7 @@ translate russian lexi_sasha_1_373c6741:
     lexi.say "[lssb_lexi.hero_name()]... Что это было?"
 
 # ch/lexi/events.rpy:3450
-translate russian lexi_sasha_1_1a024aca:
+translate russian lexi_sasha_1_6e0871bb:
     lexi.say "Почему эта Саша так с тобой разговаривала?.. Всё время называла тебя «[lssb_lexi.sasha_name()]»?"
 
 # ch/lexi/events.rpy:3452
@@ -12997,7 +12997,7 @@ translate russian lexi_sasha_1_5b686bf3:
     lexi.say "Почему эта Саша так себя с тобой вела?.."
 
 # ch/lexi/events.rpy:3453
-translate russian lexi_sasha_1_2bce887d:
+translate russian lexi_sasha_1_b84a6d64:
     mike.say "Я не особо об этом распространяюсь, Лекси... Но в последнее время всерьёз увлёкся БДСМ: связыванием и всем таким."
 
 # ch/lexi/events.rpy:3454
@@ -13009,7 +13009,7 @@ translate russian lexi_sasha_1_b5b1378f:
     mike.say "Иначе и не скажешь: Саша — моя рабыня, а я — её господин."
 
 # ch/lexi/events.rpy:3456
-translate russian lexi_sasha_1_50d04258:
+translate russian lexi_sasha_1_c081544a:
     lexi.say "Выглядит как-то... как-то развратно."
 
 # ch/lexi/events.rpy:3457
@@ -13025,7 +13025,7 @@ translate russian lexi_sasha_1_33eeb09a:
     "Она так привыкла шокировать меня своим скандальным прошлым, что теперь сама растерялась и совсем не знает, что думать."
 
 # ch/lexi/events.rpy:3460
-translate russian lexi_sasha_1_f3d77d87:
+translate russian lexi_sasha_1_1d54f817:
     lexi.say "А ты бы... ну... хотел, чтобы я тоже стала такой?"
 
 # ch/lexi/events.rpy:3461
@@ -13037,7 +13037,7 @@ translate russian lexi_sasha_1_2532f357:
     mike.say "Я не перестану хотеть тебя трахать только потому, что ты тоже не стала моей рабыней."
 
 # ch/lexi/events.rpy:3463
-translate russian lexi_sasha_1_6fd4c0de:
+translate russian lexi_sasha_1_f494f96c:
     mike.say "Но если тебе интересно, то да... Я позволил бы и тебе стать моей рабыней."
 
 # ch/lexi/events.rpy:3464
@@ -13045,7 +13045,7 @@ translate russian lexi_sasha_1_e508d3c5:
     mike.say "Честно говоря, я не поднимал эту тему из-за твоего прошлого."
 
 # ch/lexi/events.rpy:3465
-translate russian lexi_sasha_1_db004491:
+translate russian lexi_sasha_1_f852c807:
     mike.say "Не хочу превращаться в Дэнни 2.0... Понимаешь?"
 
 # ch/lexi/events.rpy:3466
@@ -13053,7 +13053,7 @@ translate russian lexi_sasha_1_86046186:
     "Лекси пару минут раздумывает — для неё это долгое молчание, — а затем медленно качает головой."
 
 # ch/lexi/events.rpy:3467
-translate russian lexi_sasha_1_67e8708d:
+translate russian lexi_sasha_1_e8dfe1e1:
     lexi.say "По-моему, это другое... Ты совсем на него не похож. Ничуть."
 
 # ch/lexi/events.rpy:3468
@@ -13096,14 +13096,6 @@ translate russian lexi_preg_talk_a3cd45f4:
 translate russian lexi_preg_talk_6e1d0db2:
     "Но без возможности пустить в ход бёдра, задницу или грудь врёт она довольно плохо."
 
-# ch/lexi/events.rpy:3487
-translate russian lexi_preg_talk_39ad32f0:
-    "Она заметно нервничает и оглядывается через плечо, поднимаясь по подъездной дорожке к дому."
-
-# ch/lexi/events.rpy:3488
-translate russian lexi_preg_talk_64bc1d3b:
-    "Когда я открываю дверь, она почти юркает внутрь, словно боится, что её заметят."
-
 # ch/lexi/events.rpy:3489
 translate russian lexi_preg_talk_c0ce5bbe:
     "В голову сразу приходит самое очевидное объяснение."
@@ -13125,7 +13117,7 @@ translate russian lexi_preg_talk_92e5427b:
     "Лекси вздрагивает, но я не понимаю, от упоминания побоев или просто такого головореза, как Дэнни."
 
 # ch/lexi/events.rpy:3497
-translate russian lexi_preg_talk_f00a16f1:
+translate russian lexi_preg_talk_0e7470f4:
     lexi.say "Нет, нет... Ну, не больше обычного."
 
 # ch/lexi/events.rpy:3499
@@ -13149,11 +13141,11 @@ translate russian lexi_preg_talk_78af9373:
     "Мне трудно сохранять серьёзность и не пялиться на её потрясающую фигуру, которую почти не скрывает скудная одежда."
 
 # ch/lexi/events.rpy:3505
-translate russian lexi_preg_talk_1e28a494:
+translate russian lexi_preg_talk_4b9033ed:
     mike.say "Так что случилось, Лекси? Спрашиваю во второй раз."
 
 # ch/lexi/events.rpy:3507
-translate russian lexi_preg_talk_90a01ee3:
+translate russian lexi_preg_talk_603f0469:
     lexi.say "Эм... ну... об этом как-то трудно сказать..."
 
 # ch/lexi/events.rpy:3508
@@ -13169,7 +13161,7 @@ translate russian lexi_preg_talk_b0baf210:
     "Она слабо улыбается, показывая редкую искреннюю уязвимость, за которой видно: она гораздо больше, чем дешёвая шлюшка, какой кажется снаружи."
 
 # ch/lexi/events.rpy:3512
-translate russian lexi_preg_talk_6f26d9da:
+translate russian lexi_preg_talk_53663a34:
     lexi.say "Ну... учитывая то, чем мы занимались... я решила, что должна тебе сказать..."
 
 # ch/lexi/events.rpy:3513
@@ -13201,7 +13193,7 @@ translate russian lexi_preg_talk_b8ceec49:
     lexi.say "Я решила сказать тебе, потому что ты самый умный из всех, кого я знаю. И самый честный тоже."
 
 # ch/lexi/events.rpy:3522
-translate russian lexi_preg_talk_7fc8bfc8:
+translate russian lexi_preg_talk_0e5bf204:
     mike.say "Наверное, мне стоит польститься... Погоди, Лекси. Ребёнок ведь мой?!"
 
 # ch/lexi/events.rpy:3523
@@ -13337,7 +13329,7 @@ translate russian lexi_bj_alley_3936ea8f:
     "К тому же он очень знакомый и звучит изрядно нетрезво."
 
 # ch/lexi/events.rpy:3589
-translate russian lexi_bj_alley_1d9fa632:
+translate russian lexi_bj_alley_a88fd9ad:
     lexi.say "ЭЙ... Э-Э-ЭЙ, [lssb_lexi.upper_name(hero_name_upper)]!"
 
 # ch/lexi/events.rpy:3590
@@ -13405,11 +13397,11 @@ translate russian lexi_bj_alley_6fc38660:
     lexi.say "Хм..."
 
 # ch/lexi/events.rpy:3608
-translate russian lexi_bj_alley_44733168:
+translate russian lexi_bj_alley_9ed52a09:
     mike.say "Эм, нет... Конечно нет, Лекси."
 
 # ch/lexi/events.rpy:3609
-translate russian lexi_bj_alley_3310005d:
+translate russian lexi_bj_alley_b08d0eee:
     mike.say "Я просто... обрадовался встрече с тобой, вот и всё!"
 
 # ch/lexi/events.rpy:3611
@@ -13421,7 +13413,7 @@ translate russian lexi_bj_alley_bea386fb:
     "Её глаза загораются явной радостью, и она прижимается ко мне так тесно, как только может."
 
 # ch/lexi/events.rpy:3614
-translate russian lexi_bj_alley_41b36c88:
+translate russian lexi_bj_alley_c062a6d8:
     lexi.say "М-м-м... Вот что я хотела услышать!"
 
 # ch/lexi/events.rpy:3616
@@ -13441,7 +13433,7 @@ translate russian lexi_bj_alley_ff70df0c:
     "Я уже держу её руками. Клянусь, скорее чтобы она не упала, чем ради чего-то ещё."
 
 # ch/lexi/events.rpy:3621
-translate russian lexi_bj_alley_2604bb98:
+translate russian lexi_bj_alley_c9d39937:
     mike.say "Т... ты мне тоже нравишься, Лекси."
 
 # ch/lexi/events.rpy:3623
@@ -14113,7 +14105,7 @@ translate russian date_lexi_meet_jack_4_8c3044ad:
     lexi.say "Господи, что ты вообще тут делаешь?"
 
 # ch/lexi/events.rpy:3888
-translate russian date_lexi_meet_jack_4_36923c4d:
+translate russian date_lexi_meet_jack_4_385f8f90:
     mike.say "Эм... Не знаю. Просто жду Джека."
 
 # ch/lexi/events.rpy:3889
@@ -14125,7 +14117,7 @@ translate russian date_lexi_meet_jack_4_c40b9f5d:
     mike.say "Дай мне передохнуть, Лекси. Я ещё никогда никого не продавал!"
 
 # ch/lexi/events.rpy:3891
-translate russian date_lexi_meet_jack_4_52ea8ff9:
+translate russian date_lexi_meet_jack_4_08578422:
     lexi.say "Уф... Просто доверься мне. Меня продавали столько раз, что хватит на нас обоих!"
 
 # ch/lexi/events.rpy:3892
@@ -14141,7 +14133,7 @@ translate russian date_lexi_meet_jack_4_b78593dc:
     "Я киваю, стараясь выглядеть уверенно."
 
 # ch/lexi/events.rpy:3895
-translate russian date_lexi_meet_jack_4_20ebeae7:
+translate russian date_lexi_meet_jack_4_5776ba2c:
     lexi.say "Ладно... Господи, помоги... Просто подстрахуй, если услышишь, что творится серьёзная хрень, хорошо?"
 
 # ch/lexi/events.rpy:3896
@@ -14189,7 +14181,7 @@ translate russian date_lexi_meet_jack_4_d8da46f1:
     mike.say "Деньги вперёд."
 
 # ch/lexi/events.rpy:3911
-translate russian date_lexi_meet_jack_4_7cb3d532:
+translate russian date_lexi_meet_jack_4_2e87a799:
     jack.say "А, точно... Ладно."
 
 # ch/lexi/events.rpy:3912
@@ -14357,7 +14349,7 @@ translate russian date_lexi_meet_jack_4_eb850ba3:
     mike.say "Да, она что-то особенное, правда?"
 
 # ch/lexi/events.rpy:3965
-translate russian date_lexi_meet_jack_4_034310c8:
+translate russian date_lexi_meet_jack_4_8441f5c2:
     jack.say "Ещё бы! И, думаю, ей тоже понравилось... Если понимаешь, о чём я."
 
 # ch/lexi/events.rpy:3966
@@ -14481,7 +14473,7 @@ translate russian date_lexi_meet_ryan_1_4dda1c6b:
     mike.say "Что..."
 
 # ch/lexi/events.rpy:4006
-translate russian date_lexi_meet_ryan_1_87f5b8f8:
+translate russian date_lexi_meet_ryan_1_cb64029e:
     mike.say "О... Прости, Лекси."
 
 # ch/lexi/events.rpy:4007
@@ -14945,7 +14937,7 @@ translate russian date_lexi_meet_ryan_2_30e74fc5:
     mike.say "Эм..."
 
 # ch/lexi/events.rpy:4157
-translate russian date_lexi_meet_ryan_2_4de7f28d:
+translate russian date_lexi_meet_ryan_2_e273b3b8:
     mike.say "Спасибо... наверное!"
 
 # ch/lexi/events.rpy:4158
@@ -15169,7 +15161,7 @@ translate russian date_lexi_meet_ryan_2_999ca5a9:
     "Меньше всего мне хочется, чтобы она и правда повелась на его враньё!"
 
 # ch/lexi/events.rpy:4223
-translate russian date_lexi_meet_ryan_3_171bdf6c:
+translate russian date_lexi_meet_ryan_3_dd7c1df7:
     "Я жду от Лекси новостей о её... скажем так, «встрече» с Райаном."
 
 # ch/lexi/events.rpy:4224
@@ -15245,7 +15237,7 @@ translate russian date_lexi_meet_ryan_3_fd195ee0:
     lexi.say "Это работа. Способ заработать, только и всего!"
 
 # ch/lexi/events.rpy:4245
-translate russian date_lexi_meet_ryan_3_ee86e391:
+translate russian date_lexi_meet_ryan_3_e676ba77:
     mike.say "Я... я знаю, Лекси."
 
 # ch/lexi/events.rpy:4246
@@ -15569,7 +15561,7 @@ translate russian date_lexi_meet_master_1_1ccab2e1:
     mike.say "Хм..."
 
 # ch/lexi/events.rpy:4364
-translate russian date_lexi_meet_master_1_ebab0538:
+translate russian date_lexi_meet_master_1_b6cf8401:
     mike.say "А, точно... Прости, Лекси!"
 
 # ch/lexi/events.rpy:4365
@@ -15989,7 +15981,7 @@ translate russian date_lexi_meet_master_1_213fa8fd:
     lexi.say "Это ведь меня он лапал своими грязными руками!"
 
 # ch/lexi/events.rpy:4520
-translate russian date_lexi_meet_master_1_d2c4afbe:
+translate russian date_lexi_meet_master_1_9559397a:
     mike.say "Хм... Дай подумать, Лекси..."
 
 # ch/lexi/events.rpy:4521
@@ -16565,7 +16557,7 @@ translate russian date_lexi_meet_master_2_148ea85d:
     mike.say "Когда досчитаю до десяти..."
 
 # ch/lexi/events.rpy:4752
-translate russian date_lexi_meet_master_2_c9321c83:
+translate russian date_lexi_meet_master_2_ff63fa7c:
     mike.say "Раз... два... три..."
 
 # ch/lexi/events.rpy:4753
@@ -16593,7 +16585,7 @@ translate russian date_lexi_meet_master_2_a24132bc:
     lexi.say "А я ведь уже настроила губы на минет!"
 
 # ch/lexi/events.rpy:4762
-translate russian date_lexi_meet_master_2_42314882:
+translate russian date_lexi_meet_master_2_77d8c090:
     lexi.say "О... знаю! Хочешь в награду?"
 
 # ch/lexi/events.rpy:4770
@@ -16789,7 +16781,7 @@ translate russian date_lexi_meet_master_3_a2fa54ec:
     lexi.say "Мозги у тебя совсем набекрень!"
 
 # ch/lexi/events.rpy:4833
-translate russian date_lexi_meet_master_3_4fdcdef1:
+translate russian date_lexi_meet_master_3_aac7da19:
     mike.say "Дай угадаю, старик... Исцелить тебя может только секс?"
 
 # ch/lexi/events.rpy:4834
@@ -16877,7 +16869,7 @@ translate russian date_lexi_meet_master_3_142c99e7:
     "Мастер уже почти пускает слюни, кивая и потирая руки. Затем лезет в карман и достаёт свёрнутую пачку купюр."
 
 # ch/lexi/events.rpy:4865
-translate russian date_lexi_meet_master_3_3b93f63e:
+translate russian date_lexi_meet_master_3_c0486764:
     master.say "Полагаю, наличные предпочтительнее... м-м?"
 
 # ch/lexi/events.rpy:4868
@@ -16957,7 +16949,7 @@ translate russian date_lexi_meet_master_3_8db13497:
     "Она уже собирается приступить к делу, когда тоже замечает его."
 
 # ch/lexi/events.rpy:4903
-translate russian date_lexi_meet_master_3_87d5f483:
+translate russian date_lexi_meet_master_3_c13550f9:
     lexi.say "Так, слушай сюда... Ого, план меняется!"
 
 # ch/lexi/events.rpy:4904
@@ -17085,7 +17077,7 @@ translate russian date_lexi_meet_master_3_fad62817:
     "Она вскакивает и спешит ко мне. Мы оба смотрим на него, задаваясь одним и тем же вопросом."
 
 # ch/lexi/events.rpy:4973
-translate russian date_lexi_meet_master_3_ca5678e9:
+translate russian date_lexi_meet_master_3_735708ab:
     lexi.say "Как думаешь, он... ну, понимаешь?"
 
 # ch/lexi/events.rpy:4975
@@ -17109,7 +17101,7 @@ translate russian date_lexi_meet_master_3_e443603f:
     lexi.say "Нельзя же сесть за то, что затрахала кого-то до смерти!"
 
 # ch/lexi/events.rpy:4985
-translate russian date_lexi_meet_master_3_268fe1e0:
+translate russian date_lexi_meet_master_3_726aca33:
     master.say "Я... я не умер!"
 
 # ch/lexi/events.rpy:4987
@@ -17377,7 +17369,7 @@ translate russian lexi_sasha_samantha_nightclub_cfdef5da:
     "Потому что узнаю одно из лиц, смотрящих на меня с другого конца танцпола."
 
 # ch/lexi/events.rpy:5079
-translate russian lexi_sasha_samantha_nightclub_284171fc:
+translate russian lexi_sasha_samantha_nightclub_5c01fa81:
     "Это... да, точно. Сэм!"
 
 # ch/lexi/events.rpy:5080
@@ -17425,11 +17417,11 @@ translate russian lexi_sasha_samantha_nightclub_066d1c39:
     "Она скрестила руки на груди, и по лицу ясно: настроена серьёзно..."
 
 # ch/lexi/events.rpy:5098
-translate russian lexi_sasha_samantha_nightclub_1a63077f:
+translate russian lexi_sasha_samantha_nightclub_1874b660:
     mike.say "К... Кексик..."
 
 # ch/lexi/events.rpy:5100
-translate russian lexi_sasha_samantha_nightclub_b2f56069:
+translate russian lexi_sasha_samantha_nightclub_bb313dac:
     mike.say "С... Сэм..."
 
 # ch/lexi/events.rpy:5101
@@ -17453,7 +17445,7 @@ translate russian lexi_sasha_samantha_nightclub_122dae4c:
     samantha.say "После того как мы договорились, что встречаться с другими нормально, помнишь?"
 
 # ch/lexi/events.rpy:5107
-translate russian lexi_sasha_samantha_nightclub_dc419c74:
+translate russian lexi_sasha_samantha_nightclub_167ac53f:
     mike.say "А... да..."
 
 # ch/lexi/events.rpy:5109
@@ -17497,7 +17489,7 @@ translate russian lexi_sasha_samantha_nightclub_2ea77364:
     mike.say "Лекси, это Сэм."
 
 # ch/lexi/events.rpy:5124
-translate russian lexi_sasha_samantha_nightclub_6d56043f:
+translate russian lexi_sasha_samantha_nightclub_0fdacf24:
     mike.say "Я... ну... вроде как параллельно встречался и с Лекси!"
 
 # ch/lexi/events.rpy:5127
@@ -17521,7 +17513,7 @@ translate russian lexi_sasha_samantha_nightclub_1d8403ff:
     mike.say "Саша, Лекси — это Сэм."
 
 # ch/lexi/events.rpy:5137
-translate russian lexi_sasha_samantha_nightclub_3e5610c3:
+translate russian lexi_sasha_samantha_nightclub_a3e56eda:
     mike.say "Я... ну... вроде как встречался со всеми вами одновременно!"
 
 # ch/lexi/events.rpy:5138
@@ -17597,11 +17589,11 @@ translate russian lexi_sasha_samantha_nightclub_49ed145f:
     "Не то чтобы я возражал!"
 
 # ch/lexi/events.rpy:5164
-translate russian lexi_sasha_samantha_nightclub_595455f1:
+translate russian lexi_sasha_samantha_nightclub_1a893f39:
     mike.say "Что... а... Кексик!"
 
 # ch/lexi/events.rpy:5166
-translate russian lexi_sasha_samantha_nightclub_ae075064:
+translate russian lexi_sasha_samantha_nightclub_c693e034:
     mike.say "Что... а... Сэм!"
 
 # ch/lexi/events.rpy:5167
@@ -17697,11 +17689,11 @@ translate russian lexi_sasha_samantha_nightclub_a54a7ca7:
     samantha.say "Как ты мог лгать мне после того, как дал слово?"
 
 # ch/lexi/events.rpy:5202
-translate russian lexi_sasha_samantha_nightclub_676464f9:
+translate russian lexi_sasha_samantha_nightclub_2ecb3433:
     mike.say "Кексик... я... я думал..."
 
 # ch/lexi/events.rpy:5204
-translate russian lexi_sasha_samantha_nightclub_56194617:
+translate russian lexi_sasha_samantha_nightclub_03f8e77e:
     mike.say "Сэм... я... я думал..."
 
 # ch/lexi/events.rpy:5205
@@ -17817,11 +17809,11 @@ translate russian foursome_lexisamsasha_f488e83b:
     "Даже Лекси, обычно слишком напористая для собственного блага, следует за ней."
 
 # ch/lexi/events.rpy:5251
-translate russian foursome_lexisamsasha_1a3737fd:
+translate russian foursome_lexisamsasha_8593583a:
     mike.say "Я... я уже, Кексик!"
 
 # ch/lexi/events.rpy:5253
-translate russian foursome_lexisamsasha_93d5d6e1:
+translate russian foursome_lexisamsasha_b40f6937:
     mike.say "Я... я уже, Сэм!"
 
 # ch/lexi/events.rpy:5254
@@ -18009,11 +18001,11 @@ translate russian foursome_lexisamsasha_3ff547a1:
     mike.say "Ох, блядь..."
 
 # ch/lexi/events.rpy:5306
-translate russian foursome_lexisamsasha_c70d4d52:
+translate russian foursome_lexisamsasha_c08f76a4:
     mike.say "Кексик... как же хорошо!"
 
 # ch/lexi/events.rpy:5308
-translate russian foursome_lexisamsasha_26990540:
+translate russian foursome_lexisamsasha_0d0ac5d6:
     mike.say "Сэм... как же хорошо!"
 
 # ch/lexi/events.rpy:5309
@@ -18365,7 +18357,7 @@ translate russian lexi_trailer_on_fire_6328d1af:
     lexi.say "Знаю только, что не из-за того, что я курила в постели."
 
 # ch/lexi/events.rpy:5412
-translate russian lexi_trailer_on_fire_9b38938d:
+translate russian lexi_trailer_on_fire_73a48f69:
     lexi.say "На днях ночью я вернулась домой... Ну, туда, где должен был быть дом."
 
 # ch/lexi/events.rpy:5413
@@ -18697,7 +18689,7 @@ translate russian lexi_dwayne_event_9f9f5ad8:
     "Но ещё и неотразимо распущенную, раскрепощённую принцессу трейлерного парка, от одной мысли о которой у меня встаёт."
 
 # ch/lexi/events.rpy:5518
-translate russian lexi_dwayne_event_d067879b:
+translate russian lexi_dwayne_event_3086150a:
     mike.say "Что?.. А, это?"
 
 # ch/lexi/events.rpy:5519
@@ -18705,7 +18697,7 @@ translate russian lexi_dwayne_event_20eb72c1:
     "Я показываю на мятую рубашку и брюки, думая, что для неё это, наверное, верх офисной элегантности."
 
 # ch/lexi/events.rpy:5520
-translate russian lexi_dwayne_event_8c1abed8:
+translate russian lexi_dwayne_event_399daab6:
     mike.say "Я только с работы... Здесь с коллегами."
 
 # ch/lexi/events.rpy:5521
@@ -18713,7 +18705,7 @@ translate russian lexi_dwayne_event_388509df:
     mike.say "А ты?"
 
 # ch/lexi/events.rpy:5523
-translate russian lexi_dwayne_event_90041e89:
+translate russian lexi_dwayne_event_1e816f3e:
     lexi.say "Да так, знаешь... понемногу то, сё... и кое-что ещё!"
 
 # ch/lexi/events.rpy:5525
@@ -18733,7 +18725,7 @@ translate russian lexi_dwayne_event_4757eb51:
     mike.say "Ну, может, ещё увидимся. Потанцуем или что-нибудь ещё?"
 
 # ch/lexi/events.rpy:5530
-translate russian lexi_dwayne_event_f09126fc:
+translate russian lexi_dwayne_event_70aeaaa7:
     lexi.say "Конечно... «Что-нибудь ещё» мне нравится больше всего!"
 
 # ch/lexi/events.rpy:5531
@@ -18761,7 +18753,7 @@ translate russian lexi_dwayne_event_9bf89fef:
     dwayne.say "Я никогда не пропускаю женщин, уж поверь."
 
 # ch/lexi/events.rpy:5541
-translate russian lexi_dwayne_event_75efee8c:
+translate russian lexi_dwayne_event_d0be40e7:
     mike.say "А... Её зовут Лекси. Мы немного знакомы, наверное."
 
 # ch/lexi/events.rpy:5542
@@ -18793,7 +18785,7 @@ translate russian lexi_dwayne_event_07939875:
     dwayne.say "Она ведь обслуживает клиентов?"
 
 # ch/lexi/events.rpy:5549
-translate russian lexi_dwayne_event_25b4441d:
+translate russian lexi_dwayne_event_29f5c17e:
     mike.say "Ну... раньше да..."
 
 # ch/lexi/events.rpy:5550
@@ -18861,7 +18853,7 @@ translate russian lexi_dwayne_event_2ffc3dc5:
     dwayne.say "Я всего лишь спросил, сколько стоит тебя трахнуть!"
 
 # ch/lexi/events.rpy:5568
-translate russian lexi_dwayne_event_a8b09c59:
+translate russian lexi_dwayne_event_689f78d4:
     dwayne.say "Я знаю, как это устроено. Просто трахнемся в уединении за столиком, без изысков."
 
 # ch/lexi/events.rpy:5569
@@ -18885,7 +18877,7 @@ translate russian lexi_dwayne_event_b612e2b1:
     lexi.say "Я лишь изображала возмущение: думала, ему это понравится!"
 
 # ch/lexi/events.rpy:5580
-translate russian lexi_dwayne_event_7a425509:
+translate russian lexi_dwayne_event_7386288d:
     lexi.say "Так... что думаешь?"
 
 # ch/lexi/events.rpy:5581
@@ -19145,7 +19137,7 @@ translate russian lexi_dwayne_event_592bdb18:
     "Он замечает неподдельное удивление Лекси, которая тоже его увидела."
 
 # ch/lexi/events.rpy:5663
-translate russian lexi_dwayne_event_b8ee32ff:
+translate russian lexi_dwayne_event_e80f5a2f:
     dwayne.say "Не разочаровывайся, малышка. Он ещё вырастет... Сильно вырастет!"
 
 # ch/lexi/events.rpy:5664
@@ -19477,7 +19469,7 @@ translate russian lexi_dwayne_event_80d7a61c:
     "Лекси смотрит на Алетту и получает в ответ ледяной взгляд."
 
 # ch/lexi/events.rpy:5789
-translate russian lexi_dwayne_event_abaebc11:
+translate russian lexi_dwayne_event_bb666aed:
     lexi.say "Неудивительно... У неё такое лицо, будто осу жуёт!"
 
 # ch/lexi/events.rpy:5790
@@ -19509,7 +19501,7 @@ translate russian lexi_dwayne_event_edcdaa72:
     mike.say "Боюсь, ответ — нет. Сегодня она не продаётся."
 
 # ch/lexi/events.rpy:5801
-translate russian lexi_dwayne_event_ed380d6f:
+translate russian lexi_dwayne_event_df9b220b:
     dwayne.say "Говоришь так, будто ты её грёбаный сутенёр... А ты её сутенёр?"
 
 # ch/lexi/events.rpy:5802
@@ -19517,7 +19509,7 @@ translate russian lexi_dwayne_event_2d7cfb8d:
     "Я вдруг думаю о том, что Дуэйн может рассказать полиции, но отвечаю намёком на последствия для него самого."
 
 # ch/lexi/events.rpy:5803
-translate russian lexi_dwayne_event_c14849c0:
+translate russian lexi_dwayne_event_56c22b59:
     mike.say "Не больше, чем вы только что пытались купить у неё секс, Дуэйн. Правда?"
 
 # ch/lexi/events.rpy:5804
@@ -19533,7 +19525,7 @@ translate russian lexi_dwayne_event_449a4dd6:
     dwayne.say "Да к чёрту! Вы что, всерьёз думали, что я заплачу, чтобы её трахнуть?"
 
 # ch/lexi/events.rpy:5807
-translate russian lexi_dwayne_event_21d0d26a:
+translate russian lexi_dwayne_event_fd17b9ee:
     dwayne.say "Ни за что. Я просто вас разыгрывал!"
 
 # ch/lexi/events.rpy:5808
@@ -19809,7 +19801,7 @@ translate russian lexi_pregnant_request_c7f1aa43:
     "Ещё мгновение назад она сидит тихо как мышь."
 
 # ch/lexi/events.rpy:5914
-translate russian lexi_pregnant_request_91830181:
+translate russian lexi_pregnant_request_1b6099fa:
     "Ну... настолько тихо, насколько вообще бывает Лекси."
 
 # ch/lexi/events.rpy:5915
@@ -19829,7 +19821,7 @@ translate russian lexi_pregnant_request_1ccab2e1:
     mike.say "Хм..."
 
 # ch/lexi/events.rpy:5920
-translate russian lexi_pregnant_request_a54cadb6:
+translate russian lexi_pregnant_request_f322ba4a:
     mike.say "Что... что ты сказала?"
 
 # ch/lexi/events.rpy:5921
@@ -19901,7 +19893,7 @@ translate russian lexi_pregnant_request_5ab045e0:
     "Ведь вижу, что разговор рискует принять плохой оборот."
 
 # ch/lexi/events.rpy:5941
-translate russian lexi_pregnant_request_61af7689:
+translate russian lexi_pregnant_request_544def05:
     mike.say "Я... честно говоря, особо об этом не думал, Лекси."
 
 # ch/lexi/events.rpy:5942
@@ -19929,7 +19921,7 @@ translate russian lexi_pregnant_request_888a039e:
     lexi.say "Я ведь всё это время тоже здесь БЫЛА, помнишь?!"
 
 # ch/lexi/events.rpy:5950
-translate russian lexi_pregnant_request_d361cad5:
+translate russian lexi_pregnant_request_c825b709:
     lexi.say "Просто я... задумалась."
 
 # ch/lexi/events.rpy:5952
@@ -20061,7 +20053,7 @@ translate russian lexi_pregnant_request_67d5b96e:
     mike.say "Угх..."
 
 # ch/lexi/events.rpy:5992
-translate russian lexi_pregnant_request_03f8f6da:
+translate russian lexi_pregnant_request_ecf6bd87:
     mike.say "Д... да, Лекси..."
 
 # ch/lexi/events.rpy:5993
@@ -20097,7 +20089,7 @@ translate russian lexi_pregnant_request_d1c6686b:
     "Но действительно ли из неё выйдет хорошая мама?"
 
 # ch/lexi/events.rpy:6004
-translate russian lexi_pregnant_request_cc91bb4c:
+translate russian lexi_pregnant_request_8d3596e9:
     mike.say "Я... думаю, нам не стоит спешить, Лекси."
 
 # ch/lexi/events.rpy:6005
@@ -20581,7 +20573,7 @@ translate russian lexi_birthday_date_male_4db56a81:
     "И тут же начинаю путано оправдываться."
 
 # ch/lexi/events.rpy:6169
-translate russian lexi_birthday_date_male_1cbf3002:
+translate russian lexi_birthday_date_male_090cb84a:
     mike.say "Э-э... нет..."
 
 # ch/lexi/events.rpy:6170
@@ -20785,7 +20777,7 @@ translate russian lexi_birthday_date_male_b07fb168:
     mike.say "Хочу купить тебе что-нибудь новое."
 
 # ch/lexi/events.rpy:6232
-translate russian lexi_birthday_date_male_9e36cf2e:
+translate russian lexi_birthday_date_male_2f0b6b1e:
     mike.say "Что-нибудь... особенное."
 
 # ch/lexi/events.rpy:6234
@@ -20813,7 +20805,7 @@ translate russian lexi_birthday_date_male_9d39625d:
     "Но она совершенно права, так что отрицать не могу."
 
 # ch/lexi/events.rpy:6241
-translate russian lexi_birthday_date_male_c591f162:
+translate russian lexi_birthday_date_male_11277844:
     mike.say "Д... да, Лекси."
 
 # ch/lexi/events.rpy:6242
@@ -21041,7 +21033,7 @@ translate russian lexi_birthday_date_male_7af9fb74:
     mike.say "Ого, Лекси..."
 
 # ch/lexi/events.rpy:6315
-translate russian lexi_birthday_date_male_1446268f:
+translate russian lexi_birthday_date_male_c1f1daa6:
     mike.say "Просто... ого!"
 
 # ch/lexi/events.rpy:6316
@@ -21169,7 +21161,7 @@ translate russian lexi_birthday_date_male_2a8aebc8:
     lexi.say "Что ты делаешь?"
 
 # ch/lexi/events.rpy:6354
-translate russian lexi_birthday_date_male_65096d74:
+translate russian lexi_birthday_date_male_ab477284:
     mike.say "А... что..."
 
 # ch/lexi/events.rpy:6356
@@ -21177,7 +21169,7 @@ translate russian lexi_birthday_date_male_d00cef52:
     lexi.say "Ты спал!"
 
 # ch/lexi/events.rpy:6357
-translate russian lexi_birthday_date_male_cef18daa:
+translate russian lexi_birthday_date_male_43e4113e:
     mike.say "Н... нет... я..."
 
 # ch/lexi/events.rpy:6358
@@ -21352,10 +21344,6 @@ translate russian lexi_birthday_date_male_a5af7ac5:
 translate russian lexi_birthday_date_male_78b1bcfd:
     "И я вижу, что она уже готова возмущённо уйти."
 
-# ch/lexi/events.rpy:6422
-translate russian lexi_birthday_date_male_243b8063:
-    mike.say "Э-э, [bree.name]..."
-
 # ch/lexi/events.rpy:6423
 translate russian lexi_birthday_date_male_bb167b15:
     mike.say "Принеси нам просто два кофе, ладно?"
@@ -21389,11 +21377,11 @@ translate russian lexi_birthday_date_male_a457f7d5:
     lexi.say "Милашка [bree.name] продаёт свою задницу тому, кто больше заплатит?"
 
 # ch/lexi/events.rpy:6435
-translate russian lexi_birthday_date_male_7d4f9f6c:
+translate russian lexi_birthday_date_male_9131b696:
     mike.say "Нет... я..."
 
 # ch/lexi/events.rpy:6436
-translate russian lexi_birthday_date_male_3d31436b:
+translate russian lexi_birthday_date_male_c5fe450d:
     mike.say "Ну... наверное..."
 
 # ch/lexi/events.rpy:6438
@@ -21409,11 +21397,11 @@ translate russian lexi_birthday_date_male_2b09452e:
     lexi.say "Ты не поверишь, насколько распространена такая фантазия!"
 
 # ch/lexi/events.rpy:6441
-translate russian lexi_birthday_date_male_c62b821e:
+translate russian lexi_birthday_date_male_b7030b81:
     lexi.say "Вообще-то... можем узнать, не хочет ли она развлечься, понимаешь?"
 
 # ch/lexi/events.rpy:6442
-translate russian lexi_birthday_date_male_33ac203e:
+translate russian lexi_birthday_date_male_a771fa76:
     mike.say "Ты... ты про... секс втроём?"
 
 # ch/lexi/events.rpy:6443
@@ -21589,11 +21577,11 @@ translate russian lexi_birthday_date_male_050d41a8:
     lexi.say "Эта милашка-горничная продаёт свою задницу тому, кто больше заплатит?"
 
 # ch/lexi/events.rpy:6502
-translate russian lexi_birthday_date_male_7d4f9f6c_1:
+translate russian lexi_birthday_date_male_9131b696_1:
     mike.say "Нет... я..."
 
 # ch/lexi/events.rpy:6503
-translate russian lexi_birthday_date_male_3d31436b_1:
+translate russian lexi_birthday_date_male_c5fe450d_1:
     mike.say "Ну... наверное..."
 
 # ch/lexi/events.rpy:6505
@@ -21609,11 +21597,11 @@ translate russian lexi_birthday_date_male_2b09452e_1:
     lexi.say "Ты не поверишь, насколько распространена такая фантазия!"
 
 # ch/lexi/events.rpy:6508
-translate russian lexi_birthday_date_male_c62b821e_1:
+translate russian lexi_birthday_date_male_b7030b81_1:
     lexi.say "Вообще-то... можем узнать, не хочет ли она развлечься, понимаешь?"
 
 # ch/lexi/events.rpy:6509
-translate russian lexi_birthday_date_male_33ac203e_1:
+translate russian lexi_birthday_date_male_a771fa76_1:
     mike.say "Ты... ты про... секс втроём?"
 
 # ch/lexi/events.rpy:6510
@@ -21981,7 +21969,7 @@ translate russian lexi_birthday_date_male_91e95b3a:
     mike.say "Эм..."
 
 # ch/lexi/events.rpy:6634
-translate russian lexi_birthday_date_male_aee45604:
+translate russian lexi_birthday_date_male_7fa1eccf:
     mike.say "Д... да, Лекси!"
 
 # ch/lexi/events.rpy:6635
@@ -22285,7 +22273,7 @@ translate russian lexi_birthday_sex_male_26ce2fbd:
     "А я изо всех сил сдерживаю себя, чтобы не пуститься бегом."
 
 # ch/lexi/events.rpy:6735
-translate russian lexi_birthday_sex_male_e01d1867:
+translate russian lexi_birthday_sex_male_cdddf366:
     mike.say "Д... да, Лекси..."
 
 # ch/lexi/events.rpy:6736
@@ -22373,7 +22361,7 @@ translate russian lexi_birthday_sex_male_db79973e:
     lexi.say "Или драться."
 
 # ch/lexi/events.rpy:6766
-translate russian lexi_birthday_sex_male_8ae739ff:
+translate russian lexi_birthday_sex_male_b6880342:
     lexi.say "Или... трахаться!"
 
 # ch/lexi/events.rpy:6767
@@ -22501,11 +22489,11 @@ translate russian lexi_birthday_sex_male_0e3031cd:
     lexi.say "У-у-х..."
 
 # ch/lexi/events.rpy:6803
-translate russian lexi_birthday_sex_male_6c734772:
+translate russian lexi_birthday_sex_male_02648551:
     lexi.say "Б... блядь..."
 
 # ch/lexi/events.rpy:6804
-translate russian lexi_birthday_sex_male_303c9169:
+translate russian lexi_birthday_sex_male_1d24a235:
     lexi.say "Сильнее... сильнее!"
 
 # ch/lexi/events.rpy:6805
@@ -22889,11 +22877,11 @@ translate russian lexi_morningwood_96edab1c:
     lexi.say "Ох..."
 
 # ch/lexi/events.rpy:6940
-translate russian lexi_morningwood_15973977:
+translate russian lexi_morningwood_55d00ba1:
     lexi.say "Ох... ох, блядь!"
 
 # ch/lexi/events.rpy:6941
-translate russian lexi_morningwood_0541c7f8:
+translate russian lexi_morningwood_690c9135:
     lexi.say "Моя... моя киска!"
 
 # ch/lexi/events.rpy:6942
@@ -22909,7 +22897,7 @@ translate russian lexi_morningwood_6c8c5f0e:
     "Надеюсь, ей так же хорошо, как мне!"
 
 # ch/lexi/events.rpy:6945
-translate russian lexi_morningwood_78affe8d:
+translate russian lexi_morningwood_8bc928cc:
     lexi.say "Что... какого чёрта?!"
 
 # ch/lexi/events.rpy:6946
@@ -23053,7 +23041,7 @@ translate russian lexi_morningwood_12e633c8:
     lexi.say "О да..."
 
 # ch/lexi/events.rpy:7000
-translate russian lexi_morningwood_9c6c196c:
+translate russian lexi_morningwood_548abd42:
     lexi.say "Сейчас... сейчас кончу!"
 
 # ch/lexi/events.rpy:7001
@@ -23605,7 +23593,7 @@ translate russian lexi_fuck_beach_d9f933a4:
     "Хотя она поймала меня с поличным, я всё же пытаюсь отмахнуться."
 
 # ch/lexi/fuck.rpy:308
-translate russian lexi_fuck_beach_bae14da0:
+translate russian lexi_fuck_beach_4502718d:
     mike.say "А... что?"
 
 # ch/lexi/fuck.rpy:309
@@ -23633,7 +23621,7 @@ translate russian lexi_fuck_beach_3766cb2f:
     mike.say "Нет, Лекси. Совсем не то."
 
 # ch/lexi/fuck.rpy:316
-translate russian lexi_fuck_beach_e540ec6a:
+translate russian lexi_fuck_beach_caf442e1:
     mike.say "Я... я просто думал, как красиво ты выглядишь в купальнике."
 
 # ch/lexi/fuck.rpy:317
@@ -23657,7 +23645,7 @@ translate russian lexi_fuck_beach_158824db:
     "Перед её прямотой остаётся лишь пожать плечами, сдаться и кивнуть."
 
 # ch/lexi/fuck.rpy:323
-translate russian lexi_fuck_beach_889a1a4e:
+translate russian lexi_fuck_beach_f1d9d3c9:
     mike.say "Ну... конечно хочу, Лекси."
 
 # ch/lexi/fuck.rpy:324
@@ -23665,7 +23653,7 @@ translate russian lexi_fuck_beach_cfac7950:
     mike.say "Ты невероятно сексуальная, и я от тебя без ума."
 
 # ch/lexi/fuck.rpy:325
-translate russian lexi_fuck_beach_f08657ad:
+translate russian lexi_fuck_beach_673f7237:
     mike.say "А что... ты не хочешь... этого?"
 
 # ch/lexi/fuck.rpy:326
@@ -24029,7 +24017,7 @@ translate russian lexi_fuck_beach_f4cb05d5:
     "Наверное, это один из её талантов!"
 
 # ch/lexi/fuck.rpy:445
-translate russian lexi_fuck_beach_816ce2e5:
+translate russian lexi_fuck_beach_51580be9:
     mike.say "А... д-да, Лекси..."
 
 # ch/lexi/fuck.rpy:446
@@ -24057,7 +24045,7 @@ translate russian lexi_fuck_beach_52c65242:
     mike.say "Что?!"
 
 # ch/lexi/fuck.rpy:453
-translate russian lexi_fuck_beach_1255e13b:
+translate russian lexi_fuck_beach_de63d092:
     mike.say "Я... я не ревную!"
 
 # ch/lexi/fuck.rpy:455
@@ -24065,7 +24053,7 @@ translate russian lexi_fuck_beach_7e57a0e4:
     lexi.say "Ты ведь понимаешь, что они и о тебе думают?"
 
 # ch/lexi/fuck.rpy:456
-translate russian lexi_fuck_beach_6ed645b0:
+translate russian lexi_fuck_beach_881b0a4e:
     mike.say "С... с чего бы им думать обо мне, Лекси?"
 
 # ch/lexi/fuck.rpy:457
@@ -24253,7 +24241,7 @@ translate russian lexi_fuck_beach_8c543886:
     lexi.say "Ах..."
 
 # ch/lexi/fuck.rpy:515
-translate russian lexi_fuck_beach_fa44558d:
+translate russian lexi_fuck_beach_3674f3e8:
     lexi.say "Ах... чёрт..."
 
 # ch/lexi/fuck.rpy:516
@@ -24341,7 +24329,7 @@ translate russian lexi_fuck_nightclub_590d7405:
     "Я качаю головой, замечая внезапный лукавый блеск в глазах Лекси."
 
 # ch/lexi/fuck.rpy:559
-translate russian lexi_fuck_nightclub_f1dbd176:
+translate russian lexi_fuck_nightclub_369e3669:
     lexi.say "Сама нахожу себе развлечения... Так что, может, ненадолго улизнём наружу?"
 
 # ch/lexi/fuck.rpy:560
@@ -24349,7 +24337,7 @@ translate russian lexi_fuck_nightclub_359860ed:
     lexi.say "Хочешь трахнуть меня за мусорным баком? Вдруг от оргазма я выскочу оттуда, как чёртик из табакерки?"
 
 # ch/lexi/fuck.rpy:561
-translate russian lexi_fuck_nightclub_cdb77558:
+translate russian lexi_fuck_nightclub_3e117afd:
     mike.say "Ну... мне, скорее, не скучно, а просто я устал."
 
 # ch/lexi/fuck.rpy:562
@@ -24657,7 +24645,7 @@ translate russian lexi_fuck_nightclub_fb44dd24:
     mike.say "Ты права: самому находить себе развлечения — лучшее лекарство от скуки."
 
 # ch/lexi/fuck.rpy:688
-translate russian lexi_fuck_nightclub_7186281f:
+translate russian lexi_fuck_nightclub_748bb1fc:
     mike.say "Пойдём потанцуем... и, может, возьмём по энергетику?"
 
 # ch/lexi/fuck.rpy:689
@@ -24741,7 +24729,7 @@ translate russian lexi_fuck_date_intro_male_ac343cb3:
     "Я следую её примеру, пытаясь раздеться и при этом не отводя глаз от всё больше обнажающегося тела."
 
 # ch/lexi/fuck.rpy:759
-translate russian lexi_fuck_date_intro_male_f82fc0cb:
+translate russian lexi_fuck_date_intro_male_d1f728d2:
     mike.say "Конечно, Лекси... конечно."
 
 # ch/lexi/fuck.rpy:760
@@ -25065,7 +25053,7 @@ translate russian lexi_fuck_date_intro_male_d934b027:
     "Но, снова взглянув на Лекси, понимаю, что пуританкой её точно не назовёшь."
 
 # ch/lexi/fuck.rpy:863
-translate russian lexi_fuck_date_intro_male_4db02663:
+translate russian lexi_fuck_date_intro_male_500eceba:
     mike.say "Эй, Лекси, хочешь кое-что... для остроты ощущений?"
 
 # ch/lexi/fuck.rpy:866
@@ -26256,18 +26244,6 @@ translate russian lexi_fuck_date_missionary_8ad15f28:
 translate russian lexi_fuck_date_missionary_9b474ba6:
     "Впрочем, мне и не нужно поощрение, чтобы продолжать давать ей желаемое."
 
-# ch/lexi/fuck.rpy:1366
-translate russian lexi_fuck_date_missionary_654b7ed1:
-    "Внезапно Лекси начинает почти визжать, а всё её тело дёргается подо мной."
-
-# ch/lexi/fuck.rpy:1367
-translate russian lexi_fuck_date_missionary_37074937:
-    "Единственное объяснение, которое приходит мне в голову: она вот-вот кончит."
-
-# ch/lexi/fuck.rpy:1368
-translate russian lexi_fuck_date_missionary_4fed3b69:
-    "И осознание того, что я довёл её до оргазма, заставляет кончить и меня..."
-
 # ch/lexi/fuck.rpy:1372
 translate russian lexi_fuck_date_missionary_7b025b7d:
     "Я могу наслаждаться последними мгновениями внутри Лекси без малейшего страха."
@@ -27005,7 +26981,7 @@ translate russian lexi_fuck_date_cowgirl_96edab1c:
     lexi.say "Ох..."
 
 # ch/lexi/fuck.rpy:1681
-translate russian lexi_fuck_date_cowgirl_c173bb71:
+translate russian lexi_fuck_date_cowgirl_0f9b0f55:
     lexi.say "Ох... ох, ничего себе..."
 
 # ch/lexi/fuck.rpy:1683
@@ -27069,11 +27045,11 @@ translate russian lexi_fuck_date_cowgirl_33e76e68:
     "Тело Лекси сдаётся, и разум, кажется, следует за ним."
 
 # ch/lexi/fuck.rpy:1702
-translate russian lexi_fuck_date_cowgirl_440d8201:
+translate russian lexi_fuck_date_cowgirl_96629838:
     lexi.say "Д... да..."
 
 # ch/lexi/fuck.rpy:1703
-translate russian lexi_fuck_date_cowgirl_f1c0821a:
+translate russian lexi_fuck_date_cowgirl_f358a986:
     lexi.say "Ты... ты это делаешь..."
 
 # ch/lexi/fuck.rpy:1704
@@ -27081,7 +27057,7 @@ translate russian lexi_fuck_date_cowgirl_99fe6e28:
     lexi.say "Ещё как делаешь!"
 
 # ch/lexi/fuck.rpy:1705
-translate russian lexi_fuck_date_cowgirl_66dfb4cf:
+translate russian lexi_fuck_date_cowgirl_3391b1b3:
     lexi.say "Только... только не останавливайся... ладно?!"
 
 # ch/lexi/fuck.rpy:1706
@@ -27157,7 +27133,7 @@ translate russian lexi_fuck_date_cowgirl_f1d8a63c:
     mike.say "Эм..."
 
 # ch/lexi/fuck.rpy:1779
-translate russian lexi_fuck_date_cowgirl_44fdf09e:
+translate russian lexi_fuck_date_cowgirl_24735d3e:
     mike.say "Чёрт... Лекси..."
 
 # ch/lexi/fuck.rpy:1780
@@ -27261,7 +27237,7 @@ translate russian lexi_fuck_date_cowgirl_e8913576:
     mike.say "Ох, чёрт, Лекси..."
 
 # ch/lexi/fuck.rpy:1870
-translate russian lexi_fuck_date_cowgirl_d1fb63f8:
+translate russian lexi_fuck_date_cowgirl_f74515dc:
     lexi.say "Б... блядь, да..."
 
 # ch/lexi/fuck.rpy:1871
@@ -27269,7 +27245,7 @@ translate russian lexi_fuck_date_cowgirl_a61f2346:
     lexi.say "Вот чего я хочу!"
 
 # ch/lexi/fuck.rpy:1872
-translate russian lexi_fuck_date_cowgirl_b1b3a24d:
+translate russian lexi_fuck_date_cowgirl_0d9f486f:
     mike.say "Я тоже, Лекси... я тоже!"
 
 # ch/lexi/fuck.rpy:1873
@@ -27353,11 +27329,11 @@ translate russian lexi_fuck_date_cowgirl_3b641f09:
     lexi.say "М-м-м..."
 
 # ch/lexi/fuck.rpy:1923
-translate russian lexi_fuck_date_cowgirl_d160f05d:
+translate russian lexi_fuck_date_cowgirl_e4303bd3:
     lexi.say "Т... трахай меня сильнее..."
 
 # ch/lexi/fuck.rpy:1924
-translate russian lexi_fuck_date_cowgirl_caf47750:
+translate russian lexi_fuck_date_cowgirl_4e6c5e2b:
     lexi.say "Доведи меня... пожалуйста?!"
 
 # ch/lexi/fuck.rpy:1925
@@ -27449,7 +27425,7 @@ translate russian lexi_fuck_date_cowgirl_a41048b4_1:
     "Я тоже кончаю, забрызгивая её ягодицы спермой."
 
 # ch/lexi/fuck.rpy:2019
-translate russian lexi_fuck_date_cowgirl_4d216ca0:
+translate russian lexi_fuck_date_cowgirl_de978019:
     lexi.say "Не... не вынимай!"
 
 # ch/lexi/fuck.rpy:2020
@@ -27481,11 +27457,11 @@ translate russian lexi_fuck_date_cowgirl_8526f02e_2:
     "Лекси вскрикивает, тоже начиная кончать, и всё это время крепко держится за меня."
 
 # ch/lexi/fuck.rpy:2049
-translate russian lexi_fuck_date_cowgirl_4d216ca0_1:
+translate russian lexi_fuck_date_cowgirl_de978019_1:
     lexi.say "Не... не вынимай!"
 
 # ch/lexi/fuck.rpy:2050
-translate russian lexi_fuck_date_cowgirl_3b853629:
+translate russian lexi_fuck_date_cowgirl_46ffcb18:
     lexi.say "Я же не могу... снова забеременеть!"
 
 # ch/lexi/fuck.rpy:2058
@@ -27553,7 +27529,7 @@ translate russian lexi_fuck_date_cowgirl_bf149b5c:
     "Оба потрясённые и напуганные тем, что только что произошло."
 
 # ch/lexi/fuck.rpy:2110
-translate russian lexi_fuck_date_cowgirl_4d216ca0_2:
+translate russian lexi_fuck_date_cowgirl_de978019_2:
     lexi.say "Не... не вынимай!"
 
 # ch/lexi/fuck.rpy:2111
@@ -28085,7 +28061,7 @@ translate russian lexi_fuck_date_standing_e6fd9b48:
     "Чем глубже член входит ей в попку, тем больше ей, кажется, нравится!"
 
 # ch/lexi/fuck.rpy:2384
-translate russian lexi_fuck_date_standing_440d8201:
+translate russian lexi_fuck_date_standing_96629838:
     lexi.say "Д... да..."
 
 # ch/lexi/fuck.rpy:2385
@@ -28157,11 +28133,11 @@ translate russian lexi_fuck_date_standing_93e4023e:
     "Она кладёт голову мне на плечо и тихо скулит на ухо."
 
 # ch/lexi/fuck.rpy:2406
-translate russian lexi_fuck_date_standing_2276e1d9:
+translate russian lexi_fuck_date_standing_f62f2229:
     lexi.say "С... сильнее..."
 
 # ch/lexi/fuck.rpy:2407
-translate russian lexi_fuck_date_standing_16ea6f04:
+translate russian lexi_fuck_date_standing_ddb09506:
     lexi.say "Пожалуйста... сильнее..."
 
 # ch/lexi/fuck.rpy:2408
@@ -28317,7 +28293,7 @@ translate russian lexi_fuck_date_standing_d00943d8:
     "Но затем вдруг всё получается."
 
 # ch/lexi/fuck.rpy:2473
-translate russian lexi_fuck_date_standing_440d8201_1:
+translate russian lexi_fuck_date_standing_96629838_1:
     lexi.say "Д... да..."
 
 # ch/lexi/fuck.rpy:2474
@@ -28389,11 +28365,11 @@ translate russian lexi_fuck_date_standing_93e4023e_1:
     "Она кладёт голову мне на плечо и тихо скулит на ухо."
 
 # ch/lexi/fuck.rpy:2495
-translate russian lexi_fuck_date_standing_2276e1d9_1:
+translate russian lexi_fuck_date_standing_f62f2229_1:
     lexi.say "С... сильнее..."
 
 # ch/lexi/fuck.rpy:2496
-translate russian lexi_fuck_date_standing_16ea6f04_1:
+translate russian lexi_fuck_date_standing_ddb09506_1:
     lexi.say "Пожалуйста... сильнее..."
 
 # ch/lexi/fuck.rpy:2497
@@ -28481,7 +28457,7 @@ translate russian lexi_fuck_date_standing_0e3031cd:
     lexi.say "А-а-ах..."
 
 # ch/lexi/fuck.rpy:2538
-translate russian lexi_fuck_date_standing_b92ac763:
+translate russian lexi_fuck_date_standing_72d932e3:
     lexi.say "Кончай... в... меня..."
 
 # ch/lexi/fuck.rpy:2539
@@ -28521,7 +28497,7 @@ translate russian lexi_fuck_date_standing_0e3031cd_1:
     lexi.say "А-а-ах..."
 
 # ch/lexi/fuck.rpy:2553
-translate russian lexi_fuck_date_standing_b92ac763_1:
+translate russian lexi_fuck_date_standing_72d932e3_1:
     lexi.say "Кончай... в... меня..."
 
 # ch/lexi/fuck.rpy:2554
@@ -28561,11 +28537,11 @@ translate russian lexi_fuck_date_standing_0e3031cd_2:
     lexi.say "А-а-ах..."
 
 # ch/lexi/fuck.rpy:2568
-translate russian lexi_fuck_date_standing_eb15bef1:
+translate russian lexi_fuck_date_standing_ae0d50f7:
     lexi.say "Не... кончай... в... меня..."
 
 # ch/lexi/fuck.rpy:2569
-translate russian lexi_fuck_date_standing_a293ede3:
+translate russian lexi_fuck_date_standing_70a3943f:
     lexi.say "Вынимай... СЕЙЧАС!"
 
 # ch/lexi/fuck.rpy:2570
@@ -28605,7 +28581,7 @@ translate russian lexi_fuck_date_standing_0e3031cd_3:
     lexi.say "А-а-ах..."
 
 # ch/lexi/fuck.rpy:2585
-translate russian lexi_fuck_date_standing_b92ac763_2:
+translate russian lexi_fuck_date_standing_72d932e3_2:
     lexi.say "Кончай... в... меня..."
 
 # ch/lexi/fuck.rpy:2586
@@ -29253,7 +29229,7 @@ translate russian lexi_fuck_date_standing_0e3031cd_4:
     lexi.say "А-а-ах..."
 
 # ch/lexi/fuck.rpy:2795
-translate russian lexi_fuck_date_standing_b92ac763_3:
+translate russian lexi_fuck_date_standing_72d932e3_3:
     lexi.say "Кончай... в... меня..."
 
 # ch/lexi/fuck.rpy:2796
@@ -29293,7 +29269,7 @@ translate russian lexi_fuck_date_standing_0e3031cd_5:
     lexi.say "А-а-ах..."
 
 # ch/lexi/fuck.rpy:2810
-translate russian lexi_fuck_date_standing_b92ac763_4:
+translate russian lexi_fuck_date_standing_72d932e3_4:
     lexi.say "Кончай... в... меня..."
 
 # ch/lexi/fuck.rpy:2811
@@ -29333,11 +29309,11 @@ translate russian lexi_fuck_date_standing_0e3031cd_6:
     lexi.say "А-а-ах..."
 
 # ch/lexi/fuck.rpy:2825
-translate russian lexi_fuck_date_standing_eb15bef1_1:
+translate russian lexi_fuck_date_standing_ae0d50f7_1:
     lexi.say "Не... кончай... в... меня..."
 
 # ch/lexi/fuck.rpy:2826
-translate russian lexi_fuck_date_standing_a293ede3_1:
+translate russian lexi_fuck_date_standing_70a3943f_1:
     lexi.say "Вынимай... СЕЙЧАС!"
 
 # ch/lexi/fuck.rpy:2827
@@ -29377,7 +29353,7 @@ translate russian lexi_fuck_date_standing_0e3031cd_7:
     lexi.say "А-а-ах..."
 
 # ch/lexi/fuck.rpy:2842
-translate russian lexi_fuck_date_standing_b92ac763_5:
+translate russian lexi_fuck_date_standing_72d932e3_5:
     lexi.say "Кончай... в... меня..."
 
 # ch/lexi/fuck.rpy:2843
@@ -29453,7 +29429,7 @@ translate russian lexi_fuck_date_doggy_c7f8f7e8:
     "Тут меня осеняет: когда всё остальное не помогает, прибегай к лести!"
 
 # ch/lexi/fuck.rpy:2873
-translate russian lexi_fuck_date_doggy_b96a1dae:
+translate russian lexi_fuck_date_doggy_f5712242:
     mike.say "Я... я просто глаз от тебя оторвать не могу, Лекси!"
 
 # ch/lexi/fuck.rpy:2874
@@ -29801,7 +29777,7 @@ translate russian lexi_fuck_date_doggy_2399cc15:
     "А потом я уже внутри и одним плавным движением погружаюсь до конца."
 
 # ch/lexi/fuck.rpy:2993
-translate russian lexi_fuck_date_doggy_e930b16d:
+translate russian lexi_fuck_date_doggy_619e3bee:
     lexi.say "О да... ох, блядь..."
 
 # ch/lexi/fuck.rpy:2994
@@ -29941,7 +29917,7 @@ translate russian lexi_fuck_date_doggy_28eea78e:
     mike.say "Лекси..."
 
 # ch/lexi/fuck.rpy:3050
-translate russian lexi_fuck_date_doggy_dad576b5:
+translate russian lexi_fuck_date_doggy_d3853ad4:
     mike.say "Ты... на... таблетках..."
 
 # ch/lexi/fuck.rpy:3051
@@ -29949,11 +29925,11 @@ translate russian lexi_fuck_date_doggy_248891ca:
     mike.say "Да?!"
 
 # ch/lexi/fuck.rpy:3052
-translate russian lexi_fuck_date_doggy_440d8201:
+translate russian lexi_fuck_date_doggy_96629838:
     lexi.say "Д... да..."
 
 # ch/lexi/fuck.rpy:3053
-translate russian lexi_fuck_date_doggy_0b904afc:
+translate russian lexi_fuck_date_doggy_6840a6b8:
     lexi.say "А... что?"
 
 # ch/lexi/fuck.rpy:3054
@@ -30089,11 +30065,11 @@ translate russian lexi_sleep_date_fuck_male_b14370be:
     lexi.say "Можно мне сегодня разделить с тобой постель, господин?"
 
 # ch/lexi/fuck.rpy:3121
-translate russian lexi_sleep_date_fuck_male_8464e7ef:
+translate russian lexi_sleep_date_fuck_male_ed533294:
     lexi.say "М-м-м... Не против, если я останусь на ночь?"
 
 # ch/lexi/fuck.rpy:3124
-translate russian lexi_sleep_date_fuck_male_788d9cdd:
+translate russian lexi_sleep_date_fuck_male_4498d9e0:
     mike.say "Нет... Мне завтра очень рано вставать."
 
 # ch/lexi/fuck.rpy:3125
@@ -30105,7 +30081,7 @@ translate russian lexi_sleep_date_fuck_male_1f36a02c:
     "Лекси разочарованно хмурится, явно стараясь не показать, как её задел отказ."
 
 # ch/lexi/fuck.rpy:3127
-translate russian lexi_sleep_date_fuck_male_37b8965d:
+translate russian lexi_sleep_date_fuck_male_2e0b5df7:
     lexi.say "Ладно... Ну, спи спокойно."
 
 # ch/lexi/fuck.rpy:3128
@@ -30113,7 +30089,7 @@ translate russian lexi_sleep_date_fuck_male_24186f74:
     "Она качает головой, собирает вещи и выходит из моей спальни."
 
 # ch/lexi/fuck.rpy:3133
-translate russian lexi_sleep_date_fuck_male_785f12ef:
+translate russian lexi_sleep_date_fuck_male_32318b76:
     mike.say "ДА... То есть да... если хочешь!"
 
 # ch/lexi/fuck.rpy:3134
@@ -30140,17 +30116,9 @@ translate russian lexi_sleep_date_fuck_male_354ecb7e:
 translate russian lexi_hottub_sex_male_dd980bef:
     "Достаточно лишь упомянуть, что у меня есть джакузи, и Лекси уже соглашается искупаться."
 
-# ch/lexi/fuck.rpy:3153
-translate russian lexi_hottub_sex_male_35920ddf:
-    "Хотя, если честно, она скорее сама напрашивается в гости, прежде чем я успеваю предложить."
-
 # ch/lexi/fuck.rpy:3154
 translate russian lexi_hottub_sex_male_76d8f23e:
     "И стоит только взглянуть на Лекси, чтобы понять: тут я могу ответить лишь согласием!"
-
-# ch/lexi/fuck.rpy:3155
-translate russian lexi_hottub_sex_male_5fa93e50:
-    "Но всё равно, когда она приходит и торопится в ванную переодеться, я стараюсь держаться спокойно."
 
 # ch/lexi/fuck.rpy:3156
 translate russian lexi_hottub_sex_male_5dac19f3:
@@ -30293,7 +30261,7 @@ translate russian lexi_hottub_sex_male_ef902110:
     lexi.say "И я точно знаю, что у тебя сейчас каменный стояк!"
 
 # ch/lexi/fuck.rpy:3195
-translate russian lexi_hottub_sex_male_92b0b213:
+translate russian lexi_hottub_sex_male_166726b9:
     mike.say "Мы... мы же собирались отдыхать, Лекси."
 
 # ch/lexi/fuck.rpy:3196
@@ -30637,11 +30605,11 @@ translate russian lexi_fuck_bathroom_083c394d:
     "И она даже не пытается прикрыться."
 
 # ch/lexi/fuck.rpy:3323
-translate russian lexi_fuck_bathroom_d6da2f89:
+translate russian lexi_fuck_bathroom_81ea8ac5:
     mike.say "Я... хотел... душ..."
 
 # ch/lexi/fuck.rpy:3324
-translate russian lexi_fuck_bathroom_e4bd65c4:
+translate russian lexi_fuck_bathroom_fd7457df:
     mike.say "Я... я хотел принять душ, Лекси!"
 
 # ch/lexi/fuck.rpy:3326
@@ -30897,7 +30865,7 @@ translate russian lexi_fuck_bathroom_078a80cf:
     "И её стоны, пока я дразню её членом, подтверждают мою правоту."
 
 # ch/lexi/fuck.rpy:3421
-translate russian lexi_fuck_bathroom_414b798a:
+translate russian lexi_fuck_bathroom_2d37dbda:
     lexi.say "Ох... о да..."
 
 # ch/lexi/fuck.rpy:3422
@@ -31157,7 +31125,7 @@ translate russian lexi_gift_swimsuit_male_fdef993b_1:
     mike.say "На днях увидел это в магазине и подумал, что тебе понравится."
 
 # ch/lexi/gift.rpy:88
-translate russian lexi_gift_swimsuit_male_53b64ee0:
+translate russian lexi_gift_swimsuit_male_5d3ec28d:
     lexi.say "Да... пожалуй, нет."
 
 # ch/lexi/gift.rpy:94
@@ -31353,7 +31321,7 @@ translate russian lexi_gift_slutty_dress_male_5f7023f4:
     lexi.say "Или всякие штуки, чтобы связывать меня в спальне, понимаешь?"
 
 # ch/lexi/gift.rpy:164
-translate russian lexi_gift_slutty_dress_male_8db4542a:
+translate russian lexi_gift_slutty_dress_male_943f0826:
     lexi.say "Так что подарить мне вещь, в которой можно выйти куда-нибудь, — это... мило."
 
 # ch/lexi/gift.rpy:166
@@ -31605,7 +31573,7 @@ translate russian lexi_gift_collar_male_a4d64000:
     "А затем машет им у меня перед лицом для наглядности."
 
 # ch/lexi/gift.rpy:248
-translate russian lexi_gift_collar_male_b51f0141:
+translate russian lexi_gift_collar_male_be66d86f:
     mike.say "Эм... Лекси, погоди..."
 
 # ch/lexi/gift.rpy:249
@@ -31633,7 +31601,7 @@ translate russian lexi_gift_collar_male_410139db:
     lexi.say "Да, я люблю повеселиться, как любая другая девушка."
 
 # ch/lexi/gift.rpy:255
-translate russian lexi_gift_collar_male_fb5daddf:
+translate russian lexi_gift_collar_male_0ec8ac0f:
     lexi.say "Ну... может, побольше, чем другие."
 
 # ch/lexi/gift.rpy:256
@@ -31641,7 +31609,7 @@ translate russian lexi_gift_collar_male_c073a950:
     "Лекси качает головой, пытаясь вернуться к тому, что говорила."
 
 # ch/lexi/gift.rpy:257
-translate russian lexi_gift_collar_male_35c46e9b:
+translate russian lexi_gift_collar_male_edb33183:
     lexi.say "Но... неужели именно такой ты меня видишь?"
 
 # ch/lexi/gift.rpy:258
@@ -31653,7 +31621,7 @@ translate russian lexi_gift_collar_male_3dd3d1fb:
     "Лекси права: она не просто дешёвая потаскушка."
 
 # ch/lexi/gift.rpy:260
-translate russian lexi_gift_collar_male_f40b0e3a:
+translate russian lexi_gift_collar_male_f60b8fa8:
     mike.say "Я... прости, Лекси."
 
 # ch/lexi/gift.rpy:261
@@ -31681,11 +31649,11 @@ translate russian lexi_gift_collar_male_518e15c0:
     "Я киваю и смотрю, как Лекси бросает ошейник в ближайшую урну."
 
 # ch/lexi/gift.rpy:273
-translate russian lexi_gift_collar_male_a998755c:
+translate russian lexi_gift_collar_male_db25bd81:
     lexi.say "О-о-о... ВАУ!"
 
 # ch/lexi/gift.rpy:274
-translate russian lexi_gift_collar_male_1936e8d6:
+translate russian lexi_gift_collar_male_485530e4:
     lexi.say "[lssb_lexi.hero_name()], это так... развратно!"
 
 # ch/lexi/gift.rpy:275
@@ -31701,7 +31669,7 @@ translate russian lexi_gift_collar_male_3a181b0f:
     "Чувствую, как член с каждой секундой становится твёрже!"
 
 # ch/lexi/gift.rpy:278
-translate russian lexi_gift_collar_male_e0530406:
+translate russian lexi_gift_collar_male_d2b2159a:
     mike.say "А... да, Лекси."
 
 # ch/lexi/gift.rpy:279
@@ -32085,7 +32053,7 @@ translate russian lexi_breakup_male_c0656c4c:
     "И она смотрит на меня с потрясением."
 
 # ch/lexi/reactions.rpy:127
-translate russian lexi_breakup_male_12fa20cb:
+translate russian lexi_breakup_male_c6ff3715:
     lexi.say "Т... ты вот так сейчас на меня это вываливаешь, [lssb_lexi.hero_name()]?"
 
 # ch/lexi/reactions.rpy:128
@@ -32105,7 +32073,7 @@ translate russian lexi_breakup_male_3f790b70:
     "Она явно расстроена, даже оскорблена!"
 
 # ch/lexi/reactions.rpy:132
-translate russian lexi_breakup_male_702ff46f:
+translate russian lexi_breakup_male_7026cbd4:
     mike.say "Я... не понимаю, Лекси."
 
 # ch/lexi/reactions.rpy:133
@@ -32113,7 +32081,7 @@ translate russian lexi_breakup_male_57f07d6c:
     mike.say "Думал, ты отнесёшься спокойно."
 
 # ch/lexi/reactions.rpy:134
-translate russian lexi_breakup_male_de138849:
+translate russian lexi_breakup_male_4174463e:
     mike.say "Ну... учитывая твою работу..."
 
 # ch/lexi/reactions.rpy:135
@@ -32201,7 +32169,7 @@ translate russian lexi_go_steady_yes_male_65d6add8:
     lexi.say "Обычно я бы послала тебя нахер, [lssb_lexi.hero_name()]."
 
 # ch/lexi/reactions.rpy:163
-translate russian lexi_go_steady_yes_male_c2378a9b:
+translate russian lexi_go_steady_yes_male_92a74536:
     lexi.say "Но с тобой... не знаю... всё как-то иначе."
 
 # ch/lexi/reactions.rpy:164
@@ -32253,7 +32221,7 @@ translate russian lexi_pet_happy_male_ca2d8c24:
     lexi.say "Будто я твоя ручная сучка или вроде того!"
 
 # ch/lexi/reactions.rpy:191
-translate russian lexi_pet_annoyed_male_9ef6320a:
+translate russian lexi_pet_annoyed_male_eefda43c:
     lexi.say "Эм... это ещё зачем, [lssb_lexi.hero_name()]?"
 
 # ch/lexi/reactions.rpy:192
@@ -32289,7 +32257,7 @@ translate russian lexi_massage_accept_male_2dbd8938:
     lexi.say "Так что да, от массажа точно не откажусь."
 
 # ch/lexi/reactions.rpy:207
-translate russian lexi_massage_accept_male_074077e5:
+translate russian lexi_massage_accept_male_a172977b:
     lexi.say "И... спасибо. Что заботишься обо мне и малыше."
 
 # ch/lexi/reactions.rpy:209
@@ -32325,7 +32293,7 @@ translate russian lexi_massage_refuse_male_8e2f2cc6:
     lexi.say "Сейчас я вообще не хочу, чтобы меня трогали!"
 
 # ch/lexi/reactions.rpy:223
-translate russian lexi_piercing_nipples_reaction_male_8ca74e2d:
+translate russian lexi_piercing_nipples_reaction_male_ecde0911:
     lexi.say "О-ох... ох... вау!"
 
 # ch/lexi/reactions.rpy:224
@@ -32349,7 +32317,7 @@ translate russian lexi_piercing_navel_reaction_male_e61bc370:
     lexi.say "Представляешь?!"
 
 # ch/lexi/reactions.rpy:235
-translate russian lexi_piercing_clit_reaction_male_98e929d6:
+translate russian lexi_piercing_clit_reaction_male_d0a8f7be:
     lexi.say "О-о-ох... Мне нравится это ощущение, [lssb_lexi.hero_name()]!"
 
 # ch/lexi/reactions.rpy:236
@@ -32385,7 +32353,7 @@ translate russian lexi_piercing_nose_reaction_male_5249567f:
     lexi.say "Только бы придумать, где..."
 
 # ch/lexi/reactions.rpy:253
-translate russian lexi_movie_disliked_reaction_male_c9db74fa:
+translate russian lexi_movie_disliked_reaction_male_cb415588:
     lexi.say "Фу... Это было ужасно. Лучше бы мы там пошалили!"
 
 # ch/lexi/reactions.rpy:257
@@ -32809,7 +32777,7 @@ translate russian submissive_interact_lexi_male_fe6b57e4:
     lexi.say "Ладно, я согласна!"
 
 # ch/lexi/talk.rpy:153
-translate russian submissive_interact_lexi_male_9964c0d8:
+translate russian submissive_interact_lexi_male_d5a80800:
     lexi.say "Ха... Ни шанса, [lssb_lexi.hero_name()]!"
 
 # ch/lexi/talk.rpy:154
@@ -32821,7 +32789,7 @@ translate russian submissive_interact_lexi_male_5cb3909c:
     lexi.say "И тебе придётся заслужить очень много очков, чтобы это себе позволить!"
 
 # ch/lexi/talk.rpy:157
-translate russian submissive_interact_lexi_male_8d12e746:
+translate russian submissive_interact_lexi_male_0d5f50a2:
     mike.say "А, понимаю... Ладно, Лекси, забудем об этом."
 
 # ch/lexi/texts.rpy:7
@@ -32865,7 +32833,7 @@ translate russian lexi_friendly_texts_45c1ba5e:
     lexi_nvl "Без обязательств. Просто подумала, можно повеселиться, да?"
 
 # ch/lexi/texts.rpy:29
-translate russian lexi_flirty_texts_16a02f04:
+translate russian lexi_flirty_texts_8f8fc8ff:
     lexi_nvl "Боже... Я сегодня так чертовски возбуждена!"
 
 # ch/lexi/texts.rpy:30
@@ -32877,7 +32845,7 @@ translate russian lexi_flirty_texts_a2ad1412:
     lexi_nvl "Просто подумала, тебе будет интересно знать!"
 
 # ch/lexi/texts.rpy:33
-translate russian lexi_flirty_texts_17e3d9b3:
+translate russian lexi_flirty_texts_6ab4b0e1:
     lexi_nvl "У-у-у... Сегодня так холодно, что задницу отмораживаю!"
 
 # ch/lexi/texts.rpy:34
@@ -32901,7 +32869,7 @@ translate russian lexi_flirty_texts_912d706c:
     lexi_nvl "Которые так подчёркивают твою щёлку?"
 
 # ch/lexi/texts.rpy:42
-translate russian lexi_flirty_texts_d1d74a9f:
+translate russian lexi_flirty_texts_5e192d8b:
     lexi_nvl "М-м-м... Обожаю, как ты в них выглядишь!"
 
 # ch/lexi/texts.rpy:51
@@ -32997,7 +32965,7 @@ translate russian lexi_friendly_texts_male_d1612ebd:
     lexi_nvl "Да, вполне возможно."
 
 # ch/lexi/texts.rpy:111
-translate russian lexi_friendly_texts_male_2e9786e7:
+translate russian lexi_friendly_texts_male_d40a8149:
     lexi_nvl "Блин... Надеюсь, не поставили мою старую фотку из участка."
 
 # ch/lexi/texts.rpy:112
@@ -33053,7 +33021,7 @@ translate russian lexi_flirty_texts_male_728a1316:
     lexi_nvl "Я занята, так что придётся подождать."
 
 # ch/lexi/texts.rpy:160
-translate russian lexi_flirty_texts_male_d7cd045c:
+translate russian lexi_flirty_texts_male_c5ecfdaf:
     lexi_nvl "О-о... Уже недолго!"
 
 # ch/lexi/texts.rpy:161

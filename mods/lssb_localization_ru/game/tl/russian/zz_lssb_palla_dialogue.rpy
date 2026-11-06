@@ -3192,10 +3192,6 @@ translate russian palla_adult_gangbang_scene_ade48981_1:
 translate russian palla_adult_gangbang_scene_96d24674:
     "Все хлопают, как хлопали бы любому в последний съёмочный день. Медик дописывает кроссворд."
 
-# ch/palla/adult.rpy:1650
-translate russian palla_adult_gangbang_scene_bad31235:
-    "Для них это был обычный четверг."
-
 # ch/palla/adult.rpy:1653
 translate russian palla_adult_gangbang_scene_b3daef34:
     "В конце она встаёт на колени посреди площадки, открыв рот и высунув язык."
@@ -3271,10 +3267,6 @@ translate russian palla_adult_gangbang_scene_ade48981_3:
 # ch/palla/adult.rpy:1673
 translate russian palla_adult_gangbang_scene_96d24674_1:
     "Все хлопают, как хлопали бы любому в последний съёмочный день. Медик дописывает кроссворд."
-
-# ch/palla/adult.rpy:1674
-translate russian palla_adult_gangbang_scene_bad31235_1:
-    "Для них это был обычный четверг."
 
 # ch/palla/adult.rpy:1686
 translate russian palla_adult_gangbang_scene_30966739:
@@ -3449,7 +3441,7 @@ translate russian palla_greet_003f34d0:
     palla.say "..."
 
 # ch/palla/base.rpy:79
-translate russian palla_greet_070ab7df:
+translate russian palla_greet_9985ea36:
     palla.say "П... привет, б... больной ублюдок... Я... я течная сучка... и мне это нравится... Вот, заставил меня сказать. Доволен, [lssb_palla.hero_name()]?"
 
 # ch/palla/base.rpy:96
@@ -4061,7 +4053,7 @@ translate russian palla_propose_male_65a8831b:
     mike.say "Палла..."
 
 # ch/palla/base.rpy:351
-translate russian palla_propose_male_04ab1896:
+translate russian palla_propose_male_f4b4cedd:
     mike.say "Я... я люблю тебя..."
 
 # ch/palla/base.rpy:352
@@ -4117,7 +4109,7 @@ translate russian palla_propose_male_35702c05:
     "Наверное, даже не подумал, что буду делать, если она откажет!"
 
 # ch/palla/base.rpy:367
-translate russian palla_propose_male_21538a53:
+translate russian palla_propose_male_cf0f7e38:
     mike.say "Н... но, Палла..."
 
 # ch/palla/base.rpy:368
@@ -4737,7 +4729,7 @@ translate russian palla_pill_talk_64665a60:
     "Палла глубоко вдыхает."
 
 # ch/palla/base.rpy:686
-translate russian palla_pill_talk_49f494ce:
+translate russian palla_pill_talk_9d220c7f:
     palla.say "Слушай, [lssb_palla.hero_name()], если ты хочешь детей... наши отношения должны быть совсем другими."
 
 # ch/palla/base.rpy:688
@@ -4745,11 +4737,11 @@ translate russian palla_pill_talk_6486c9b9:
     palla.say "Мне нужно сначала разобраться с карьерой."
 
 # ch/palla/base.rpy:689
-translate russian palla_pill_talk_e2f1240e:
+translate russian palla_pill_talk_99299dfa:
     palla.say "И мы должны... ничего себе."
 
 # ch/palla/base.rpy:690
-translate russian palla_pill_talk_d2bcc2de:
+translate russian palla_pill_talk_be9575b8:
     palla.say "И прежде чем снова назовёшь меня стервой: мне приятно, ладно? Ты застал меня врасплох, и... чёрт. Правда хочешь детей? Посмотрим. Я подумаю, что для этого нужно."
 
 # ch/palla/base.rpy:691
@@ -4767,10 +4759,6 @@ translate russian palla_pill_talk_4377d9e4:
 # ch/palla/career.rpy:206
 translate russian palla_offers_e5e026a9:
     palla_nvl "Выбрала разумное предложение. Ты бы всё равно выбрал его, так что я сэкономила нам разговор."
-
-# ch/palla/career.rpy:219
-translate russian palla_offers_49f60a48:
-    "Понедельник. Вот предложения на эту неделю."
 
 # ch/palla/career.rpy:231
 translate russian palla_offer_declined_2b6a4407:
@@ -5637,7 +5625,7 @@ translate russian palla_chat_sexy_male_d44f249c:
     mike.say "Не только из-за сисек. У тебя ещё сексуальная попка. И ноги. Вообще, ты сексуальна с головы до пят."
 
 # ch/palla/chat.rpy:289
-translate russian palla_chat_sexy_male_1ff9dc9a:
+translate russian palla_chat_sexy_male_79561ce3:
     palla.say "Это... неплохо выкрутился."
 
 # ch/palla/chat.rpy:292
@@ -6001,7 +5989,7 @@ translate russian palla_chat_sexy_male_2c3826ca:
     mike.say "Ладно, возможно."
 
 # ch/palla/chat.rpy:431
-translate russian palla_chat_sexy_male_03bae5ae:
+translate russian palla_chat_sexy_male_058cc528:
     palla.say "В общем, мне нравится, что ты со мной делаешь. Большинство парней... неважно. Никому из парней я такого не говорила, так что не болтай."
 
 # ch/palla/chat.rpy:432
@@ -6449,7 +6437,7 @@ translate russian palla_chat_sex_male_da2245c5:
     palla.say "К твоему сведению: ему достался снимок, а тебе — я. Он бы махнулся не раздумывая."
 
 # ch/palla/chat.rpy:583
-translate russian palla_chat_sex_male_771b5998:
+translate russian palla_chat_sex_male_03f44cef:
     palla.say "В последней поездке в Белиз была ещё одна девушка, блондинка из... чёрт, откуда? Из Чехии или вроде того."
 
 # ch/palla/chat.rpy:584
@@ -6669,7 +6657,7 @@ translate russian palla_chat_gf_talk_male_86b4cefa:
     mike.say "Почему?"
 
 # ch/palla/chat.rpy:651
-translate russian palla_chat_gf_talk_male_b687bd52:
+translate russian palla_chat_gf_talk_male_a5bd7a79:
     palla.say "Я... на самом деле не хочу."
 
 # ch/palla/chat.rpy:652
@@ -6741,7 +6729,7 @@ translate russian palla_chat_gf_talk_male_30feb951:
     "Последний шанс! Хочу ли я, чтобы у неё был только я?"
 
 # ch/palla/chat.rpy:672
-translate russian palla_chat_gf_talk_male_b2262390:
+translate russian palla_chat_gf_talk_male_9bf4b137:
     mike.say "Я... да, пожалуй, хочу."
 
 # ch/palla/chat.rpy:675
@@ -6977,7 +6965,7 @@ translate russian palla_bad_sweet_talk_male_c89857cb:
     palla.say "Так что это богохульство!"
 
 # ch/palla/chat.rpy:753
-translate russian palla_bad_sweet_talk_male_b57ba3c3:
+translate russian palla_bad_sweet_talk_male_8a4a9e95:
     mike.say "Ой... может, исповедаться в грехах?"
 
 # ch/palla/condom.rpy:4
@@ -6997,7 +6985,7 @@ translate russian palla_use_condom_365832b7:
     mike.say "Привычка."
 
 # ch/palla/condom.rpy:8
-translate russian palla_use_condom_ccd8dd1c:
+translate russian palla_use_condom_91357e24:
     palla.say "Невероя... а-а-ах!"
 
 # ch/palla/condom.rpy:9
@@ -7065,7 +7053,7 @@ translate russian palla_use_condom_4184d9d7:
     mike.say "Торопишься?"
 
 # ch/palla/condom.rpy:28
-translate russian palla_use_condom_75ad8bb8:
+translate russian palla_use_condom_49cbfbf0:
     palla.say "Тороплюсь, мёрзну, а ты тратишь всё... а-ах!"
 
 # ch/palla/condom.rpy:29
@@ -7093,7 +7081,7 @@ translate russian palla_use_condom_f9a564e2:
     "Ничего не объясняя, я нетерпеливо толкаюсь вперёд и с силой вхожу в неё."
 
 # ch/palla/condom.rpy:37
-translate russian palla_use_condom_3886453a:
+translate russian palla_use_condom_189fca9b:
     palla.say "Что... а-а... а-ах!"
 
 # ch/palla/condom.rpy:39
@@ -7155,10 +7143,6 @@ translate russian palla_warn_condom_aeb6fd26:
 # ch/palla/condom.rpy:121
 translate russian palla_warn_condom_10e3f12a:
     palla.say "Хотя..."
-
-# ch/palla/condom.rpy:122
-translate russian palla_warn_condom_98b32243:
-    palla.say "Я на таблетках. Так что решай ты."
 
 # ch/palla/condom.rpy:123
 translate russian palla_warn_condom_0f957cf6:
@@ -7397,11 +7381,11 @@ translate russian palla_date_intro_valentine_male_4831d237:
     "Не сразу понимаю, что Палла ждёт ответа."
 
 # ch/palla/date.rpy:5
-translate russian palla_date_intro_valentine_male_1c91767c:
+translate russian palla_date_intro_valentine_male_b84fb056:
     mike.say "Я... эм..."
 
 # ch/palla/date.rpy:6
-translate russian palla_date_intro_valentine_male_efc9f3b1:
+translate russian palla_date_intro_valentine_male_aef0dc07:
     mike.say "У меня... наверное?"
 
 # ch/palla/date.rpy:7
@@ -7677,7 +7661,7 @@ translate russian palla_date_intro_christmas_male_a4bc99ed:
     mike.say "С Рождеством, Палла!"
 
 # ch/palla/date.rpy:92
-translate russian palla_date_intro_christmas_male_c7b75227:
+translate russian palla_date_intro_christmas_male_1f75c841:
     mike.say "Ух ты... какой стильный образ!"
 
 # ch/palla/date.rpy:93
@@ -7893,11 +7877,11 @@ translate russian palla_date_intro_birthday_male_12cbb095:
     "Она пытается сдержать улыбку и терпит сокрушительное поражение. Для Паллы это целое событие."
 
 # ch/palla/date.rpy:163
-translate russian palla_date_intro_mc_birthday_male_8b102f8e:
+translate russian palla_date_intro_mc_birthday_male_ea6382d9:
     mike.say "Эм... привет, Палла..."
 
 # ch/palla/date.rpy:164
-translate russian palla_date_intro_mc_birthday_male_73bd4623:
+translate russian palla_date_intro_mc_birthday_male_08357a56:
     mike.say "Ты... ты готова к свиданию?"
 
 # ch/palla/date.rpy:165
@@ -7913,7 +7897,7 @@ translate russian palla_date_intro_mc_birthday_male_2ebf270b:
     palla.say "Похоже, тебя что-то гложет."
 
 # ch/palla/date.rpy:168
-translate russian palla_date_intro_mc_birthday_male_d11be5f8:
+translate russian palla_date_intro_mc_birthday_male_5541f8a9:
     mike.say "А, да... ну..."
 
 # ch/palla/date.rpy:169
@@ -8029,7 +8013,7 @@ translate russian palla_date_eat_a_burger_e3e48d70:
     "Палла смотрит на бургер. Потом смотрит снова — с выражением, которого я ещё ни разу у неё не видел."
 
 # ch/palla/date.rpy:205
-translate russian palla_date_eat_a_burger_1a372a9e:
+translate russian palla_date_eat_a_burger_227af010:
     palla.say "Это... там что, бекон?"
 
 # ch/palla/date.rpy:206
@@ -8201,7 +8185,7 @@ translate russian palla_date_eat_a_burger_112b8ef7:
     "Палла издаёт презрительный звук."
 
 # ch/palla/date.rpy:260
-translate russian palla_date_buy_drink_82211dda:
+translate russian palla_date_buy_drink_7a72f2b5:
     palla.say "Эм... [lssb_palla.hero_name()], ты не забыл, что я от тебя забеременела?"
 
 # ch/palla/date.rpy:261
@@ -8585,7 +8569,7 @@ translate russian palla_date_pub_play_pool_6f32fb01:
     "Она отворачивается и отходит от стола, не оставив мне ничего вразумительного для ответа."
 
 # ch/palla/date.rpy:387
-translate russian palla_date_buy_a_round_82211dda:
+translate russian palla_date_buy_a_round_7a72f2b5:
     palla.say "Эм... [lssb_palla.hero_name()], ты не забыл, что я от тебя забеременела?"
 
 # ch/palla/date.rpy:388
@@ -9193,11 +9177,11 @@ translate russian palla_date_play_arcade_win_male_26d6d725:
     "А вот Палле достаётся практически с самого начала!"
 
 # ch/palla/date.rpy:652
-translate russian palla_date_play_arcade_win_male_fc6276d4:
+translate russian palla_date_play_arcade_win_male_a12b1cc7:
     palla.say "Чт... Что сейчас произошло?"
 
 # ch/palla/date.rpy:653
-translate russian palla_date_play_arcade_win_male_e147d8a4:
+translate russian palla_date_play_arcade_win_male_1eb52967:
     palla.say "Меня... меня только что убили?!"
 
 # ch/palla/date.rpy:654
@@ -9381,7 +9365,7 @@ translate russian palla_date_play_arcade_lose_male_15adbe1a:
     palla.say "Прямо как мультик."
 
 # ch/palla/date.rpy:707
-translate russian palla_date_play_arcade_lose_male_f7acf643:
+translate russian palla_date_play_arcade_lose_male_2be5040d:
     mike.say "Мне... мне вообще-то нужно сосредоточиться, Палла!"
 
 # ch/palla/date.rpy:708
@@ -9613,7 +9597,7 @@ translate russian palla_halloween_invitation_205da8ca:
     palla.say "Что, [lssb_palla.hero_name()]?"
 
 # ch/palla/date.rpy:796
-translate russian palla_halloween_invitation_d1c74535:
+translate russian palla_halloween_invitation_ca85f7ae:
     palla.say "Ты правда только что пригласил меня на... на вечеринку в честь Хэллоуина?"
 
 # ch/palla/date.rpy:797
@@ -9633,7 +9617,7 @@ translate russian palla_halloween_invitation_af375850:
     "У меня уже голова идёт кругом!"
 
 # ch/palla/date.rpy:801
-translate russian palla_halloween_invitation_11cd9330:
+translate russian palla_halloween_invitation_353f6e0e:
     mike.say "Эм... да, Палла."
 
 # ch/palla/date.rpy:802
@@ -9741,7 +9725,7 @@ translate russian palla_halloween_invitation_98017126:
     palla.say "...Повтори это на вечеринке, и я, может, даже поверю."
 
 # ch/palla/date.rpy:835
-translate russian palla_halloween_invitation_acb7d3bf:
+translate russian palla_halloween_invitation_b1df6225:
     mike.say "Д... да, Палла."
 
 # ch/palla/date.rpy:836
@@ -9773,7 +9757,7 @@ translate russian palla_halloween_invitation_0f44937d:
     mike.say "Конечно, Палла."
 
 # ch/palla/date.rpy:847
-translate russian palla_halloween_invitation_6c64fdf9:
+translate russian palla_halloween_invitation_21b3d5a0:
     mike.say "Эм... спасибо... наверное?"
 
 # ch/palla/date.rpy:848
@@ -9825,7 +9809,7 @@ translate russian palla_halloween_arrival_3f8382ca:
     mike.say "Ого..."
 
 # ch/palla/date.rpy:868
-translate russian palla_halloween_arrival_548c6281:
+translate russian palla_halloween_arrival_70f959f6:
     mike.say "Это... ты..."
 
 # ch/palla/date.rpy:869
@@ -9909,7 +9893,7 @@ translate russian palla_halloween_arrival_e85b0174:
     palla.say "Из меня вышла идеальная русалка, правда?"
 
 # ch/palla/date.rpy:895
-translate russian palla_halloween_arrival_a497cc6b:
+translate russian palla_halloween_arrival_049faf52:
     mike.say "Ух ты, Палла... Просто ух ты!"
 
 # ch/palla/date.rpy:896
@@ -9941,7 +9925,7 @@ translate russian palla_halloween_arrival_2687b04c:
     palla.say "Но ты прав: мне и правда очень идёт!"
 
 # ch/palla/date.rpy:904
-translate russian palla_halloween_arrival_72ff14dc:
+translate russian palla_halloween_arrival_8e9f48e5:
     mike.say "Я... мне всегда нравились русалки, Палла."
 
 # ch/palla/date.rpy:905
@@ -10099,10 +10083,6 @@ translate russian palla_halloween_party_fd103a0d:
 # ch/palla/date.rpy:959
 translate russian palla_halloween_party_6daf03c8:
     "Похоже, пора вмешаться, пока всё не вышло из-под контроля!"
-
-# ch/palla/date.rpy:962
-translate russian palla_halloween_party_1a0829b9:
-    mike.say "Эй, [bree.name]!"
 
 # ch/palla/date.rpy:963
 translate russian palla_halloween_party_be94063c:
@@ -10325,7 +10305,7 @@ translate russian palla_halloween_dance_5fc45063:
     "К концу песни она уже улыбается."
 
 # ch/palla/date.rpy:1050
-translate russian palla_halloween_dance_14ddfdde:
+translate russian palla_halloween_dance_0a7189d8:
     palla.say "Это было... приятно."
 
 # ch/palla/date.rpy:1051
@@ -10753,11 +10733,11 @@ translate russian palla_halloween_sex_467cfea8:
     "Последнее слово вырывается прежде, чем она успевает себя остановить. И мы оба его слышим."
 
 # ch/palla/date.rpy:1189
-translate russian palla_halloween_sex_a4c076cb:
+translate russian palla_halloween_sex_0be2eca1:
     palla.say "Просто... продолжай. Пожалуйста."
 
 # ch/palla/date.rpy:1191
-translate russian palla_halloween_sex_cbcf23cc:
+translate russian palla_halloween_sex_3f059442:
     palla.say "Боже, как я это люблю. Люблю... это. Заниматься этим."
 
 # ch/palla/date.rpy:1192
@@ -11509,7 +11489,7 @@ translate russian palla_event_03_01342147:
     mike.say "Ого, звучит горячо! Ты бы согласилась? За платье?"
 
 # ch/palla/events.rpy:865
-translate russian palla_event_03_d6bfa9a1:
+translate russian palla_event_03_0d73c911:
     palla.say "Что? Нет, я не наме... То есть не предла... Ох, блядь."
 
 # ch/palla/events.rpy:866
@@ -11549,7 +11529,7 @@ translate russian palla_event_03_d3fed2a6:
     palla.say "Пока нет. Но день ещё не закончился."
 
 # ch/palla/events.rpy:883
-translate russian palla_event_03_c5fea1ff:
+translate russian palla_event_03_3942a131:
     mike.say "То есть ты решила загладить вину новыми угрозами? Или опять назовёшь извращенцем в надежде, что я пойду за тобой в укромное место и... Даже не знаю, чего ты ждала."
 
 # ch/palla/events.rpy:885
@@ -11657,7 +11637,7 @@ translate russian palla_event_03_a7aed4d0:
     "Она тоже понижает голос, почти до шёпота."
 
 # ch/palla/events.rpy:921
-translate russian palla_event_03_a4323654:
+translate russian palla_event_03_f5ab7388:
     palla.say "Я... я... я просто хочу, чтобы ты меня отпустил."
 
 # ch/palla/events.rpy:922
@@ -11721,7 +11701,7 @@ translate russian palla_event_03_159fa5d9:
     "Палла запинается и легко выдёргивает запястье из моей разжатой руки."
 
 # ch/palla/events.rpy:954
-translate russian palla_event_03_f589b9f9:
+translate russian palla_event_03_5446e857:
     palla.say "Как ты сме... Ты грё... Извращенец! Засранец!"
 
 # ch/palla/events.rpy:955
@@ -11945,7 +11925,7 @@ translate russian palla_event_03a_0df73765:
     palla.say "Не с такими сиськами."
 
 # ch/palla/events.rpy:1064
-translate russian palla_event_03a_b0c1f126:
+translate russian palla_event_03a_aacdae12:
     mike.say "Палла... Я жду."
 
 # ch/palla/events.rpy:1066
@@ -12109,7 +12089,7 @@ translate russian palla_event_03b_38849052:
     palla.say "[lssb_palla.hero_name()], объясни, пожалуйста, этой сучке, кто я такая!"
 
 # ch/palla/events.rpy:1141
-translate russian palla_event_03b_58160683:
+translate russian palla_event_03b_fded6a93:
     sasha.say "[lssb_palla.hero_name()], сделай одолжение, проводи эту... женщину... к выходу."
 
 # ch/palla/events.rpy:1142
@@ -12357,7 +12337,7 @@ translate russian palla_event_03c_6693dcaa:
     "Пододвигая ко мне бокал, она слегка наклоняется и нарочито шепчет — так, что Палла прекрасно слышит."
 
 # ch/palla/events.rpy:1244
-translate russian palla_event_03c_f9e9f0e5:
+translate russian palla_event_03c_c0de5cfc:
     "Барменша" "Дай знать, если могу предложить тебе... что-нибудь ещё."
 
 # ch/palla/events.rpy:1245
@@ -14257,7 +14237,7 @@ translate russian palla_event_03g_c7537932:
     mike.say "Так откажись."
 
 # ch/palla/events.rpy:2058
-translate russian palla_event_03g_493e4286:
+translate russian palla_event_03g_af2566ef:
     palla.say "Говорит, если я откажусь... Ну, по его мнению, потом мне будет труднее получать другие заказы."
 
 # ch/palla/events.rpy:2059
@@ -14565,7 +14545,7 @@ translate russian palla_event_04_96ca8015:
     palla.say "Да, определённо. Спасибо, что признал. И, блядь, мне нужно в туалет. Не вздумай идти за мной, извращенец."
 
 # ch/palla/events.rpy:2200
-translate russian palla_event_04_d6163ceb:
+translate russian palla_event_04_20b01235:
     "Опять провоцирует меня пойти следом. Правда, в прошлый раз мне досталась отличная попка. Может, в этом всё дело? Ей просто хочется чувствовать, что её... используют?"
 
 # ch/palla/events.rpy:2202
@@ -14753,7 +14733,7 @@ translate russian palla_event_04b_930ebee8:
     mike.say "Погоди, ты пытаешься увести парня у лучшей подруги?"
 
 # ch/palla/events.rpy:2284
-translate russian palla_event_04b_82d0de14:
+translate russian palla_event_04b_ebe7aefc:
     palla.say "Нет! Всё не так. К тому же ты ведь не совсем... То есть она не совсем... То есть... Блядь. Нет! Я совсем не это имею в виду."
 
 # ch/palla/events.rpy:2285
@@ -15161,7 +15141,7 @@ translate russian palla_event_05_ea384e17:
     "Заметив моё замешательство, Палла смеётся."
 
 # ch/palla/events.rpy:2448
-translate russian palla_event_05_2e040f29:
+translate russian palla_event_05_8c2b137b:
     palla.say "Но! Но-но-но! Продолжай в том же духе — дам тебе это заслужить. Просто... сначала мне нужно кое-что выяснить."
 
 # ch/palla/events.rpy:2449
@@ -15721,7 +15701,7 @@ translate russian palla_event_07_dfaf2274:
     mike.say "Конечно, Палла. Что случилось?"
 
 # ch/palla/events.rpy:2697
-translate russian palla_event_07_a7eb9577:
+translate russian palla_event_07_3b5535d5:
     palla.say "Я... уф, не знаю, с чего начать. Просто... Ты теперь меня бросишь?"
 
 # ch/palla/events.rpy:2698
@@ -15729,11 +15709,11 @@ translate russian palla_event_07_b1eb04b1:
     "Ладно, я не знал, чего ждать, но такого точно не ожидал."
 
 # ch/palla/events.rpy:2699
-translate russian palla_event_07_71153ad5:
+translate russian palla_event_07_93ee6821:
     mike.say "Брошу? Я не... Мы ведь ни о чём таком не договаривались."
 
 # ch/palla/events.rpy:2701
-translate russian palla_event_07_ace22eac:
+translate russian palla_event_07_6b27a956:
     palla.say "Не в этом дело, [lssb_palla.hero_name()], просто... Уф, МУЖИКИ."
 
 # ch/palla/events.rpy:2702
@@ -15833,7 +15813,7 @@ translate russian palla_event_07_add81194:
     palla.say "А меня должно волновать, чего ты хочешь?"
 
 # ch/palla/events.rpy:2758
-translate russian palla_event_07_4ebac861:
+translate russian palla_event_07_b9203ac7:
     mike.say "Вот... уф... Сейчас ты объясняешь, почему мне не стоит хотеть тебя в девушки."
 
 # ch/palla/events.rpy:2759
@@ -15881,7 +15861,7 @@ translate russian palla_event_07_fe0b2092:
     mike.say "Что доказать?"
 
 # ch/palla/events.rpy:2771
-translate russian palla_event_07_bbf79da6:
+translate russian palla_event_07_3d393b53:
     palla.say "Что ты достаточно мужчина для меня. Мне нужно... много мужчины. Ну, обычно много мужчин. Но если сможешь за мной поспеть — может быть."
 
 # ch/palla/events.rpy:2772
@@ -16233,7 +16213,7 @@ translate russian palla_event_07b_loop_d0819f86:
     "Но сдержаться очень трудно."
 
 # ch/palla/events.rpy:2908
-translate russian palla_event_07b_loop_8609d784:
+translate russian palla_event_07b_loop_0f640c52:
     mike.say "Давай разберёмся. Парня хочешь, а проблема в том, чтобы... быть девушкой. То есть тебе нужен кто-то рядом, но быть рядом со мной ты не хочешь?"
 
 # ch/palla/events.rpy:2909
@@ -16241,7 +16221,7 @@ translate russian palla_event_07b_loop_9ba8d4a9:
     palla.say "Да! То есть нет! Не совсем так."
 
 # ch/palla/events.rpy:2911
-translate russian palla_event_07b_loop_903c5827:
+translate russian palla_event_07b_loop_e8a4a26c:
     palla.say "Я хочу... Слушай, ты ведь понимаешь, что все мужчины — дрянь?"
 
 # ch/palla/events.rpy:2912
@@ -16249,7 +16229,7 @@ translate russian palla_event_07b_loop_1e9147b1:
     mike.say "Уверен, если скажу «не все мужчины», получу пощёчину. Так что ради разговора допустим, что да."
 
 # ch/palla/events.rpy:2913
-translate russian palla_event_07b_loop_fa984696:
+translate russian palla_event_07b_loop_dd883403:
     palla.say "Вот именно. Я не хочу... Мне не нужно... То есть... Мужчины обманывают таких стерв, как я."
 
 # ch/palla/events.rpy:2914
@@ -16281,7 +16261,7 @@ translate russian palla_event_07b_loop_63a6733d:
     palla.say "Да, ты ТАКОЙ мужчина."
 
 # ch/palla/events.rpy:2925
-translate russian palla_event_07b_loop_13ea8b7f:
+translate russian palla_event_07b_loop_61ca8bc9:
     mike.say "Ладно. Значит, ты хотела услышать, что я твой парень, а ты... свободна делать всё, что пожелаешь."
 
 # ch/palla/events.rpy:2927
@@ -16349,7 +16329,7 @@ translate russian palla_event_07b_loop_b8fbfbd7:
     palla.say "А ну сейчас же прекрати эту хрень. Думаешь, не воткну тебе шпильку в ухо?"
 
 # ch/palla/events.rpy:2951
-translate russian palla_event_07b_loop_9be3f24e:
+translate russian palla_event_07b_loop_44b50579:
     mike.say "Я серьёзно. Ты сумасшедшая стерва, но... именно этого я и хочу. Может, я дурак, а может, мазохист."
 
 # ch/palla/events.rpy:2952
@@ -16413,7 +16393,7 @@ translate russian palla_event_07b_loop_8554960e:
     mike.say "Тогда скажу ещё раз, а ты снова поступишь как знаешь."
 
 # ch/palla/events.rpy:2976
-translate russian palla_event_07b_loop_93941340:
+translate russian palla_event_07b_loop_275bfba9:
     palla.say "Я просто... хочу это услышать."
 
 # ch/palla/events.rpy:2977
@@ -16469,7 +16449,7 @@ translate russian palla_event_07b_loop_a8eea60e:
     palla.say "Ты прав."
 
 # ch/palla/events.rpy:2991
-translate russian palla_event_07b_loop_7325ea51:
+translate russian palla_event_07b_loop_11a44e3c:
     palla.say "Значит... значит, хочешь... Хочешь, чтобы я была твоей... твоей..."
 
 # ch/palla/events.rpy:2992
@@ -16485,7 +16465,7 @@ translate russian palla_event_07b_loop_e69b3b98:
     mike.say "Да."
 
 # ch/palla/events.rpy:2996
-translate russian palla_event_07b_loop_a784dc9a:
+translate russian palla_event_07b_loop_71fb6e0d:
     palla.say "Нет. Я... погоди."
 
 # ch/palla/events.rpy:2997
@@ -16493,7 +16473,7 @@ translate russian palla_event_07b_loop_b19e7b9a:
     "Палла глубоко вздыхает. Её трясёт."
 
 # ch/palla/events.rpy:2999
-translate russian palla_event_07b_loop_71557659:
+translate russian palla_event_07b_loop_fbbb9490:
     palla.say "Ладно, но... мы не ограничиваемся друг другом. И никогда... не произноси этого."
 
 # ch/palla/events.rpy:3000
@@ -16505,7 +16485,7 @@ translate russian palla_event_07b_loop_cd538188:
     palla.say "Фу! Не говори так."
 
 # ch/palla/events.rpy:3002
-translate russian palla_event_07b_loop_7e6f83c6:
+translate russian palla_event_07b_loop_a85b1187:
     mike.say "Но... ты ею будешь?"
 
 # ch/palla/events.rpy:3004
@@ -16537,7 +16517,7 @@ translate russian palla_event_08_7de2b955:
     mike.say "Привет, сексуальная стерва. Что случилось?"
 
 # ch/palla/events.rpy:3026
-translate russian palla_event_08_3aa0a114:
+translate russian palla_event_08_bdd2e94e:
     palla.say "Привет, [lssb_palla.hero_name()]. Я никак не могла успокоиться и... У меня к тебе странный вопрос."
 
 # ch/palla/events.rpy:3027
@@ -16565,7 +16545,7 @@ translate russian palla_event_08_23f2033d:
     mike.say "От тебя странно такое слышать."
 
 # ch/palla/events.rpy:3035
-translate russian palla_event_08_7687279d:
+translate russian palla_event_08_1e97491b:
     palla.say "Знаю, просто... Просто ответь на грёбаный вопрос, ладно?"
 
 # ch/palla/events.rpy:3042
@@ -16585,7 +16565,7 @@ translate russian palla_event_08_12b26733:
     mike.say "Тогда зачем, блядь, спросила?"
 
 # ch/palla/events.rpy:3046
-translate russian palla_event_08_143e64f9:
+translate russian palla_event_08_b6b0b9e0:
     palla.say "Просто... вечер был паршивый, наверное. И я хотела..."
 
 # ch/palla/events.rpy:3047
@@ -16621,7 +16601,7 @@ translate russian palla_event_08_81d3994a:
     "Ещё несколько секунд тишины. Потом она говорит, и я слышу дрожь в голосе."
 
 # ch/palla/events.rpy:3057
-translate russian palla_event_08_130b66f8:
+translate russian palla_event_08_3c903116:
     palla.say "Погоди, [lssb_palla.hero_name()], погоди. Я не... Не говорю, что не стану. Но можно дать мне время?"
 
 # ch/palla/events.rpy:3058
@@ -16649,7 +16629,7 @@ translate russian palla_event_08_0005ca4b:
     mike.say "И скажешь это?"
 
 # ch/palla/events.rpy:3064
-translate russian palla_event_08_176b0432:
+translate russian palla_event_08_8e9d7681:
     palla.say "Может быть? Мне просто нужно... убедиться, что на этот раз всё будет правильно."
 
 # ch/palla/events.rpy:3065
@@ -16657,7 +16637,7 @@ translate russian palla_event_08_1e10c5ba:
     mike.say "Хорошо. Хорошо, Палла. Дадим этому время. Но теперь ты моя."
 
 # ch/palla/events.rpy:3066
-translate russian palla_event_08_83ed7ae6:
+translate russian palla_event_08_e72c7317:
     palla.say "Я... д-да. Мне пора, [lssb_palla.hero_name()]."
 
 # ch/palla/events.rpy:3068
@@ -16685,7 +16665,7 @@ translate russian palla_event_08_8b06176b:
     mike.say "Да, Палла. Я тебя люблю."
 
 # ch/palla/events.rpy:3076
-translate russian palla_event_08_1f22411b:
+translate russian palla_event_08_70629644:
     palla.say "Хорошо, [lssb_palla.hero_name()]. Думаю, именно это мне и нужно было услышать. И... я тоже тебя люблю!"
 
 # ch/palla/events.rpy:3077
@@ -16797,7 +16777,7 @@ translate russian palla_event_10_72ff86fc:
     "Шон украдкой оглядывается, будто проверяет, не смотрит ли кто."
 
 # ch/palla/events.rpy:3146
-translate russian palla_event_10_ee62f250:
+translate russian palla_event_10_8489ae82:
     shawn.say "И если захочешь что-нибудь, ну... купить... чтобы в клубе было веселее, например, — обращайся."
 
 # ch/palla/events.rpy:3148
@@ -16857,7 +16837,7 @@ translate russian palla_event_11_ac14bf42:
     mike.say "Ты собирался ударить меня."
 
 # ch/palla/events.rpy:3180
-translate russian palla_event_11_ecc59c3c:
+translate russian palla_event_11_9799462e:
     shawn.say "Я не... Нет, я не такой."
 
 # ch/palla/events.rpy:3181
@@ -16921,7 +16901,7 @@ translate russian palla_event_11_9d493c08:
     shawn.say "Слушай, ты её парень или что?"
 
 # ch/palla/events.rpy:3207
-translate russian palla_event_11_fc2e667d:
+translate russian palla_event_11_6cee5e4e:
     mike.say "У нас... есть договорённость, да."
 
 # ch/palla/events.rpy:3209
@@ -16949,7 +16929,7 @@ translate russian palla_event_11_b2ca57cb:
     mike.say "Но ты же говорил, что ходил с ней на свидание в VIP-зал."
 
 # ch/palla/events.rpy:3220
-translate russian palla_event_11_877ff68f:
+translate russian palla_event_11_e1c51cc2:
     shawn.say "А, это... Ну, для меня было свидание. Для неё — не особо."
 
 # ch/palla/events.rpy:3222
@@ -17217,7 +17197,7 @@ translate russian palla_event_12_e30a3938:
     palla.say "Ладно, может, всё это и про меня, но..."
 
 # ch/palla/events.rpy:3338
-translate russian palla_event_12_15200cdc:
+translate russian palla_event_12_522c000c:
     "Я вздыхаю. Мне уже надоело её хождение вокруг да около, но я не вру: скучал. И мне очень нравится сейчас держать её в объятиях."
 
 # ch/palla/events.rpy:3339
@@ -17357,7 +17337,7 @@ translate russian palla_event_13_ff291236:
     mike.say "Что ты имеешь в виду?"
 
 # ch/palla/events.rpy:3389
-translate russian palla_event_13_57a93492:
+translate russian palla_event_13_aef91f89:
     palla.say "Ладно, слушай. Мне... почему-то невероятно трудно это сказать. Так что... наверное, нужно просто сорвать пластырь."
 
 # ch/palla/events.rpy:3390
@@ -17369,7 +17349,7 @@ translate russian palla_event_13_edf2c485:
     mike.say "Не понимаю, что здесь так трудно сказать."
 
 # ch/palla/events.rpy:3392
-translate russian palla_event_13_e3440054:
+translate russian palla_event_13_14a14662:
     palla.say "Наверное, зря жду, что ты поймёшь. У тебя есть всё, чего ты хотел. А я... только этого и хотела. Модельная карьера — моя мечта. Моя жизнь. И какое-то время мне казалось, что всё получается."
 
 # ch/palla/events.rpy:3394
@@ -17381,7 +17361,7 @@ translate russian palla_event_13_80539c03:
     mike.say "Поэтому пришлось врать?"
 
 # ch/palla/events.rpy:3396
-translate russian palla_event_13_d1291d78:
+translate russian palla_event_13_eda1c11d:
     palla.say "Не думаю, что я врала. Не говорила, когда именно работаю и сколько зарабатываю. Всё, что рассказывала о карьере, было правдой. Когда-то. Просто не... упоминала, что новых заказов больше нет."
 
 # ch/palla/events.rpy:3397
@@ -17401,7 +17381,7 @@ translate russian palla_event_13_c42e27d9:
     mike.say "Тогда зачем?"
 
 # ch/palla/events.rpy:3403
-translate russian palla_event_13_c3fdc5b8:
+translate russian palla_event_13_3f03c8d7:
     palla.say "Если мы будем... ну, вместе, ты прав: я должна говорить тебе о таком. Как бы ни было больно."
 
 # ch/palla/events.rpy:3405
@@ -17441,7 +17421,7 @@ translate russian palla_event_13_c88a2130:
     palla.say "И всё? Я открываю тебе душу, а это всё, что ты можешь сказать?"
 
 # ch/palla/events.rpy:3417
-translate russian palla_event_13_16979f0f:
+translate russian palla_event_13_c32612cf:
     mike.say "Нет, не всё. Я просто... перевариваю. Послушай."
 
 # ch/palla/events.rpy:3418
@@ -17481,7 +17461,7 @@ translate russian palla_event_13_0d365ee0:
     mike.say "Но?"
 
 # ch/palla/events.rpy:3430
-translate russian palla_event_13_1f1f45ee:
+translate russian palla_event_13_12ca80b6:
     palla.say "Но... меня никто не нанимает."
 
 # ch/palla/events.rpy:3431
@@ -17493,7 +17473,7 @@ translate russian palla_event_13_57276d50:
     mike.say "Почему?"
 
 # ch/palla/events.rpy:3433
-translate russian palla_event_13_79e02643:
+translate russian palla_event_13_f646d54a:
     palla.say "Так, последний сослался на... Как он выразился? Несовместимость характеров."
 
 # ch/palla/events.rpy:3434
@@ -17573,7 +17553,7 @@ translate russian palla_event_13_db552dc3:
     palla.say "Можешь меня нанять? Найти работу?"
 
 # ch/palla/events.rpy:3459
-translate russian palla_event_13_0632d34c:
+translate russian palla_event_13_af148493:
     mike.say "Ну, кое-какие связи у меня есть. А если... Могу позвонить, поспрашивать. Стать твоим агентом. Плачу за аренду, пока ты не встанешь на ноги, а потом вернёшь."
 
 # ch/palla/events.rpy:3461
@@ -17609,7 +17589,7 @@ translate russian palla_event_13_8bd52848:
     "Палла смотрит на кофе, к которому так и не притронулась. Он уже остыл."
 
 # ch/palla/events.rpy:3471
-translate russian palla_event_13_fceb8671:
+translate russian palla_event_13_79045592:
     palla.say "Хорошо. Я... подумаю."
 
 # ch/palla/events.rpy:3472
@@ -17649,7 +17629,7 @@ translate russian palla_event_13_e202e522:
     "Палла встаёт и отодвигает кофе."
 
 # ch/palla/events.rpy:3486
-translate russian palla_event_13_648dc7d4:
+translate russian palla_event_13_cf90638d:
     palla.say "Я люблю тебя, [lssb_palla.hero_name()]. Спасибо за... ну... всё это."
 
 # ch/palla/events.rpy:3496
@@ -17717,7 +17697,7 @@ translate russian palla_event_14_e9da7644:
     "Теперь я могу управлять карьерой Паллы через смартфон."
 
 # ch/palla/events.rpy:3529
-translate russian palla_event_baby_ok_6666aa18:
+translate russian palla_event_baby_ok_80995e0d:
     palla.say "Эй, [lssb_palla.hero_name()]... Ты всё ещё хочешь, чтобы я... эм... Трудно сказать. Хочешь, чтобы у меня был... твой... ребёнок?"
 
 # ch/palla/events.rpy:3532
@@ -17729,7 +17709,7 @@ translate russian palla_event_baby_ok_6df14f87:
     mike.say "Мне достаточно того, что у меня есть ты."
 
 # ch/palla/events.rpy:3536
-translate russian palla_event_baby_ok_80e7fa54:
+translate russian palla_event_baby_ok_3e08952a:
     palla.say "Ну, я просто... Если снова попросишь перестать пить таблетки, я, может... отвечу иначе. Может. Ничего не обещаю. Ладно?"
 
 # ch/palla/events.rpy:3543
@@ -17761,7 +17741,7 @@ translate russian palla_preg_talk_c64580df:
     mike.say "И ты точно этого хочешь?"
 
 # ch/palla/events.rpy:3551
-translate russian palla_preg_talk_63c416de:
+translate russian palla_preg_talk_a3278fa4:
     palla.say "Ну... Я... не уверена. Но..."
 
 # ch/palla/events.rpy:3553
@@ -17777,7 +17757,7 @@ translate russian palla_preg_talk_dacdee9b:
     palla.say "Так сильно, что сделаю для тебя что угодно. Даже это."
 
 # ch/palla/events.rpy:3557
-translate russian palla_preg_talk_4ebd161b:
+translate russian palla_preg_talk_9a97cf33:
     palla.say "Так... [lssb_palla.hero_name()], ты всё ещё хочешь этого? Всё сильно изменится. Ребёнок. Мой ребёнок. Ты ведь поможешь мне не напортачить?"
 
 # ch/palla/events.rpy:3558
@@ -17801,7 +17781,7 @@ translate russian palla_preg_talk_96cac68b:
     mike.say "Понимаю. Я подтолкнул тебя к тому, чего ты {b}на самом деле{/b} не хочешь, да? Я эгоист?"
 
 # ch/palla/events.rpy:3570
-translate russian palla_preg_talk_8506e17e:
+translate russian palla_preg_talk_63674ecf:
     palla.say "Нет, [lssb_palla.hero_name()], ты не эгоист. Это я эгоистка. Прости. Я хочу... чтобы ты был счастлив."
 
 # ch/palla/events.rpy:3571
@@ -17833,7 +17813,7 @@ translate russian palla_preg_talk_0556ad38:
     "Палла шмыгает носом и начинает плакать."
 
 # ch/palla/events.rpy:3579
-translate russian palla_preg_talk_5ea0b166:
+translate russian palla_preg_talk_12329041:
     palla.say "Хорошо. Тогда я... разберусь с этим."
 
 # ch/palla/events.rpy:3590
@@ -19761,11 +19741,11 @@ translate russian palla_birthday_sex_5e802a96:
     "И когда я снова слышу шёпот Паллы, уже догадываюсь, о чём она."
 
 # ch/palla/events.rpy:4281
-translate russian palla_birthday_sex_de70a780:
+translate russian palla_birthday_sex_1633abe6:
     palla.say "Д... держи меня..."
 
 # ch/palla/events.rpy:4282
-translate russian palla_birthday_sex_400f440a:
+translate russian palla_birthday_sex_549ba462:
     palla.say "Я... сейчас..."
 
 # ch/palla/events.rpy:4283
@@ -19825,7 +19805,7 @@ translate russian palla_mall_date_fuck_7ffd6fe0:
     "После, кажется, нескольких часов я стою у зашторенной примерочной в магазине, название которого даже не пытаюсь вспомнить."
 
 # ch/palla/events.rpy:4317
-translate russian palla_mall_date_fuck_1fb77ab6:
+translate russian palla_mall_date_fuck_d6c4121d:
     "Палла сидит там почти вечность. Видимо, решила взбесить весь персонал, бесконечно гоняя за другими размерами и цветами вещей, которые, может быть, когда-нибудь задумается купить."
 
 # ch/palla/events.rpy:4318
@@ -19841,7 +19821,7 @@ translate russian palla_mall_date_fuck_981ee46c:
     palla.say "Магазин небольшой, и эти идиотки здесь работают! Как они могли потеряться?!"
 
 # ch/palla/events.rpy:4321
-translate russian palla_mall_date_fuck_bc131351:
+translate russian palla_mall_date_fuck_24f86211:
     mike.say "Не знаю... Может, ты наконец загоняла их до смерти."
 
 # ch/palla/events.rpy:4322
@@ -19885,7 +19865,7 @@ translate russian palla_mall_date_fuck_8821cc53:
     "Я хватаю вещи, пользуясь шансом уйти на пару минут."
 
 # ch/palla/events.rpy:4332
-translate russian palla_mall_date_fuck_d2e79adb:
+translate russian palla_mall_date_fuck_461416dd:
     "Что, блядь, такое фуксия и пюсовый? И чем лазурный отличается от... что там она ещё сказала?"
 
 # ch/palla/events.rpy:4333
@@ -19905,7 +19885,7 @@ translate russian palla_mall_date_fuck_186b3a57:
     "Вернувшись к примерочной, отдёргиваю штору и проскальзываю внутрь, прежде чем Палла понимает, что это я."
 
 # ch/palla/events.rpy:4340
-translate russian palla_mall_date_fuck_601acdbd:
+translate russian palla_mall_date_fuck_cf1f2164:
     palla.say "А, [lssb_palla.hero_name()], вот и ты... Наконец-то!"
 
 # ch/palla/events.rpy:4341
@@ -19933,7 +19913,7 @@ translate russian palla_mall_date_fuck_eb8b9c0d:
     palla.say "В следующий раз просто передай вещи через штору."
 
 # ch/palla/events.rpy:4347
-translate russian palla_mall_date_fuck_ee2266af:
+translate russian palla_mall_date_fuck_79603291:
     palla.say "[lssb_palla.hero_name()], ау... Можешь уже бежать, ладно?"
 
 # ch/palla/events.rpy:4348
@@ -19957,7 +19937,7 @@ translate russian palla_mall_date_fuck_bc4d0ef3:
     "Палла вскрикивает, когда я шагаю к ней и прижимаю к холодному зеркалу."
 
 # ch/palla/events.rpy:4357
-translate russian palla_mall_date_fuck_fef91c55:
+translate russian palla_mall_date_fuck_35da8b3b:
     palla.say "Т... Ты что, чёрт возьми, творишь, [lssb_palla.hero_name()]?!"
 
 # ch/palla/events.rpy:4358
@@ -20177,7 +20157,7 @@ translate russian palla_mall_date_fuck_62e05414:
     "Нам требуется несколько минут, чтобы отдышаться, одеться и собраться с мыслями, прежде чем выйти."
 
 # ch/palla/events.rpy:4422
-translate russian palla_mall_date_fuck_cd709b6f:
+translate russian palla_mall_date_fuck_1eb988f9:
     "И самое лучшее... теперь можно продолжить свидание!"
 
 # ch/palla/events.rpy:4432
@@ -20273,7 +20253,7 @@ translate russian palla_mall_date_fuck_02_c2b0c645:
     palla.say "Ой, {b}ладно{/b}. Хочешь представление — получишь представление."
 
 # ch/palla/events.rpy:4491
-translate russian palla_mall_date_fuck_02_68043b9b:
+translate russian palla_mall_date_fuck_02_3a43dab0:
     "Следующие не знаю сколько часов я наблюдаю бесконечный парад нарядов. В защиту Паллы: они сексуальные, показывает она их прекрасно, и смотреть интересно. Но сосредоточиться всё труднее."
 
 # ch/palla/events.rpy:4494
@@ -20865,7 +20845,7 @@ translate russian palla_male_ending_7546adc0:
     "Священник" "А вы, [lssb_palla.hero_name()], согласны взять Паллу в законные жёны?"
 
 # ch/palla/events.rpy:4702
-translate russian palla_male_ending_6c5d427c:
+translate russian palla_male_ending_af1870d2:
     mike.say "Д... да!"
 
 # ch/palla/events.rpy:4703
@@ -20949,7 +20929,7 @@ translate russian palla_male_ending_73ad1fef:
     palla.say "Обычно этой стороной дел у меня занимается [lssb_palla.hero_name()], знаете ли."
 
 # ch/palla/events.rpy:4734
-translate russian palla_male_ending_afaaca92:
+translate russian palla_male_ending_d021351a:
     palla.say "Я скорее художница... исполнительница. Выражаю себя через собственное тело!"
 
 # ch/palla/events.rpy:4736
@@ -21469,7 +21449,7 @@ translate russian palla_give_address_dec2bc09:
     palla.say "Мой адрес."
 
 # ch/palla/events.rpy:4925
-translate russian palla_give_address_5d07435b:
+translate russian palla_give_address_7b1307f9:
     palla.say "Я... подумала, может, тебе пригодится?"
 
 # ch/palla/events.rpy:4930
@@ -22261,11 +22241,11 @@ translate russian palla_apartment_sex_0e133257:
     "Теперь я киваю как заведённый и даже не могу связно говорить."
 
 # ch/palla/events.rpy:5287
-translate russian palla_apartment_sex_170bc528:
+translate russian palla_apartment_sex_f0ced9cc:
     mike.say "Д... да..."
 
 # ch/palla/events.rpy:5288
-translate russian palla_apartment_sex_e48dd786:
+translate russian palla_apartment_sex_c7232022:
     mike.say "П... пожалуйста!"
 
 # ch/palla/events.rpy:5289
@@ -22889,11 +22869,11 @@ translate russian palla_apartment_sex_0e133257_1:
     "Теперь я киваю как заведённый и даже не могу связно говорить."
 
 # ch/palla/events.rpy:5568
-translate russian palla_apartment_sex_170bc528_1:
+translate russian palla_apartment_sex_f0ced9cc_1:
     mike.say "Д... да..."
 
 # ch/palla/events.rpy:5569
-translate russian palla_apartment_sex_e48dd786_1:
+translate russian palla_apartment_sex_c7232022_1:
     mike.say "П... пожалуйста!"
 
 # ch/palla/events.rpy:5570
@@ -23525,7 +23505,7 @@ translate russian palla_apartment_sex_f1d8a63c:
     mike.say "Эм..."
 
 # ch/palla/events.rpy:5881
-translate russian palla_apartment_sex_0857929a:
+translate russian palla_apartment_sex_26b64f28:
     mike.say "Д... да, Палла..."
 
 # ch/palla/events.rpy:5882
@@ -23653,11 +23633,11 @@ translate russian palla_apartment_sex_0e133257_2:
     "Теперь я киваю как заведённый и даже не могу связно говорить."
 
 # ch/palla/events.rpy:5929
-translate russian palla_apartment_sex_170bc528_2:
+translate russian palla_apartment_sex_f0ced9cc_2:
     mike.say "Д... да..."
 
 # ch/palla/events.rpy:5930
-translate russian palla_apartment_sex_e48dd786_2:
+translate russian palla_apartment_sex_c7232022_2:
     mike.say "П... пожалуйста!"
 
 # ch/palla/events.rpy:5931
@@ -24117,7 +24097,7 @@ translate russian palla_apartment_sex_f1d8a63c_1:
     mike.say "Эм..."
 
 # ch/palla/events.rpy:6152
-translate russian palla_apartment_sex_0857929a_1:
+translate russian palla_apartment_sex_26b64f28_1:
     mike.say "Д... да, Палла..."
 
 # ch/palla/events.rpy:6153
@@ -24529,7 +24509,7 @@ translate russian palla_fuck_date_first_758a1cc2:
     "Я понимаю, что, несмотря на вечные придирки и жалобы, она вполне намерена со мной переспать."
 
 # ch/palla/fuck.rpy:181
-translate russian palla_fuck_date_first_5e1a7d65:
+translate russian palla_fuck_date_first_b3cb50e3:
     "Наверное, настолько к этому привыкла, что считает нормой... Или это ворчание её возбуждает?"
 
 # ch/palla/fuck.rpy:182
@@ -24577,7 +24557,7 @@ translate russian palla_fuck_date_first_e6bbfc9f:
     mike.say "В прошлый раз я жалоб не слышал."
 
 # ch/palla/fuck.rpy:200
-translate russian palla_fuck_date_first_05cf17fe:
+translate russian palla_fuck_date_first_f47a4cdd:
     palla.say "Эй, алло... Мы трахались в кабинке метр на метр, окружённые незнакомцами."
 
 # ch/palla/fuck.rpy:202
@@ -25069,7 +25049,7 @@ translate russian palla_fuck_date_third_e329acd2:
     palla.say "А ты заставь!"
 
 # ch/palla/fuck.rpy:451
-translate russian palla_fuck_date_third_12892608:
+translate russian palla_fuck_date_third_a902a42b:
     "Раз уж ей этого хочется... Я подхожу, беру её за плечи и грубо бросаю на кровать."
 
 # ch/palla/fuck.rpy:456
@@ -25405,7 +25385,7 @@ translate russian palla_fuck_date_third_52ed5bde:
     mike.say "Твоя задница в моём распоряжении."
 
 # ch/palla/fuck.rpy:608
-translate russian palla_fuck_date_third_4ad8fe80:
+translate russian palla_fuck_date_third_c491d674:
     "Вот только я не могу туда войти. Но... её киска мокрая и готовая. Смазка прямо здесь!"
 
 # ch/palla/fuck.rpy:611
@@ -25689,7 +25669,7 @@ translate russian palla_fuck_date_third_6662b3a9:
     "Оргазм Паллы почти неистовый: кажется, она танцует на мне. Её ноги сжимают мои бёдра, вдавливая меня глубже в кровать."
 
 # ch/palla/fuck.rpy:734
-translate russian palla_fuck_date_third_1494ecfc:
+translate russian palla_fuck_date_third_ec3c356a:
     palla.say "Это... было охренительно!"
 
 # ch/palla/fuck.rpy:741
@@ -25869,7 +25849,7 @@ translate russian palla_fuck_date_third_52ed5bde_1:
     mike.say "Твоя задница в моём распоряжении."
 
 # ch/palla/fuck.rpy:814
-translate russian palla_fuck_date_third_4ad8fe80_1:
+translate russian palla_fuck_date_third_c491d674_1:
     "Вот только я не могу туда войти. Но... её киска мокрая и готовая. Смазка прямо здесь!"
 
 # ch/palla/fuck.rpy:816
@@ -26117,7 +26097,7 @@ translate russian palla_fuck_date_spank_8a57154a:
     palla.say "Никто раньше так не ставил меня на место."
 
 # ch/palla/fuck.rpy:924
-translate russian palla_fuck_date_spank_00cbf2e5:
+translate russian palla_fuck_date_spank_339687fa:
     palla.say "Мне стало плохо... но в хорошем смысле!"
 
 # ch/palla/fuck.rpy:926
@@ -26157,11 +26137,11 @@ translate russian palla_fuck_date_spank_e1bc2509:
     "Но затем прикусывает губу и кивает."
 
 # ch/palla/fuck.rpy:939
-translate russian palla_fuck_date_spank_4341ef73:
+translate russian palla_fuck_date_spank_a7851cda:
     palla.say "Я... кажется, ты прав!"
 
 # ch/palla/fuck.rpy:940
-translate russian palla_fuck_date_spank_3c01473e:
+translate russian palla_fuck_date_spank_edb568fe:
     palla.say "Ты бы... наказал меня ещё?"
 
 # ch/palla/fuck.rpy:942
@@ -26293,7 +26273,7 @@ translate russian palla_fuck_date_spank_b1016edc:
     palla.say "Шлёпай сильнее!"
 
 # ch/palla/fuck.rpy:1008
-translate russian palla_fuck_date_spank_ce80be48:
+translate russian palla_fuck_date_spank_30d8a31f:
     palla.say "Я плохая... ПЛОХАЯ девочка!"
 
 # ch/palla/fuck.rpy:1009
@@ -26321,7 +26301,7 @@ translate russian palla_fuck_date_spank_153baf1e:
     "Но я всё же слышу, что она пытается что-то сказать."
 
 # ch/palla/fuck.rpy:1040
-translate russian palla_fuck_date_spank_d772cc3b:
+translate russian palla_fuck_date_spank_889045c4:
     palla.say "П... пожалуйста..."
 
 # ch/palla/fuck.rpy:1041
@@ -26329,7 +26309,7 @@ translate russian palla_fuck_date_spank_e8308eb6:
     palla.say "Пожалуйста, [lssb_palla.hero_name()]..."
 
 # ch/palla/fuck.rpy:1042
-translate russian palla_fuck_date_spank_3e8007ee:
+translate russian palla_fuck_date_spank_1b24dc5a:
     palla.say "Трахни меня... Я хочу, чтобы ты меня трахнул!"
 
 # ch/palla/fuck.rpy:1050
@@ -26437,7 +26417,7 @@ translate russian palla_doggy_menu_f9a564e2:
     "Ничего не объясняя, я подаюсь вперёд и с немалым напором вхожу в неё."
 
 # ch/palla/fuck.rpy:1097
-translate russian palla_doggy_menu_3886453a:
+translate russian palla_doggy_menu_189fca9b:
     palla.say "Чт... а-а... а-а-ах!"
 
 # ch/palla/fuck.rpy:1098
@@ -26477,7 +26457,7 @@ translate russian palla_doggy_menu_d301d279:
     "Это всё, что она успевает сказать, прежде чем я провожу членом по губкам её киски и начинаю медленно входить."
 
 # ch/palla/fuck.rpy:1120
-translate russian palla_doggy_menu_190ea0d1:
+translate russian palla_doggy_menu_44acc28c:
     palla.say "Ох... не-ет... ох!"
 
 # ch/palla/fuck.rpy:1123
@@ -26565,7 +26545,7 @@ translate russian palla_doggy_menu_9f99abc4:
     palla.say "ПОЖАЛУЙСТА, я умоляю, не надо!"
 
 # ch/palla/fuck.rpy:1158
-translate russian palla_doggy_menu_44e52d0b:
+translate russian palla_doggy_menu_4f41fd9e:
     palla.say "Ненавижу... ненавижу... мне будет... больно..."
 
 # ch/palla/fuck.rpy:1159
@@ -26629,7 +26609,7 @@ translate russian palla_doggy_menu_fd34e77d:
     mike.say "Скажи, что хочешь."
 
 # ch/palla/fuck.rpy:1182
-translate russian palla_doggy_menu_c20ce5a7:
+translate russian palla_doggy_menu_bba552a7:
     palla.say "Я... я хочу."
 
 # ch/palla/fuck.rpy:1183
@@ -26729,7 +26709,7 @@ translate russian palla_doggy_menu_fd34e77d_2:
     mike.say "Скажи, что хочешь."
 
 # ch/palla/fuck.rpy:1216
-translate russian palla_doggy_menu_95951f4a:
+translate russian palla_doggy_menu_8db3262a:
     palla.say "Не хо... нет... не хо... хочу."
 
 # ch/palla/fuck.rpy:1217
@@ -27057,11 +27037,11 @@ translate russian palla_sleep_date_fuck_0434e4c6:
     palla.say "Ты не слишком убедителен."
 
 # ch/palla/fuck.rpy:1362
-translate russian palla_sleep_date_fuck_fbf235ee:
+translate russian palla_sleep_date_fuck_3edca417:
     mike.say "А если так: тащи свою сексуальную попку ко мне в постель, чтобы утром я увидел что-нибудь прекрасное?"
 
 # ch/palla/fuck.rpy:1364
-translate russian palla_sleep_date_fuck_515dd5a1:
+translate russian palla_sleep_date_fuck_808b270f:
     palla.say "Ого, это... куда обаятельнее, чем у тебя обычно получается. Секс настолько хорош?"
 
 # ch/palla/fuck.rpy:1366
@@ -27101,7 +27081,7 @@ translate russian palla_sleep_date_fuck_687e22e3:
     mike.say "Я с тобой закончил, а завтра мне рано вставать. Тебе лучше уйти."
 
 # ch/palla/fuck.rpy:1387
-translate russian palla_sleep_date_fuck_b6d4514f:
+translate russian palla_sleep_date_fuck_71fc462a:
     palla.say "О. Я... ладно. Не останусь там, где мне не рады."
 
 # ch/palla/fuck.rpy:1389
@@ -27577,7 +27557,7 @@ translate russian palla_sleep_pillow_talk_audrey_0ff6a236:
     mike.say "Она не совсем в моём вкусе. А что?"
 
 # ch/palla/fuck.rpy:1593
-translate russian palla_sleep_pillow_talk_audrey_0ae6993a:
+translate russian palla_sleep_pillow_talk_audrey_b8b95964:
     palla.say "Я просто... представляла, как ты её трахаешь."
 
 # ch/palla/fuck.rpy:1595
@@ -27593,7 +27573,7 @@ translate russian palla_sleep_pillow_talk_audrey_75cf13b5:
     palla.say "Не смущайся, всё нормально. Меня это заводит."
 
 # ch/palla/fuck.rpy:1598
-translate russian palla_sleep_pillow_talk_audrey_21085343:
+translate russian palla_sleep_pillow_talk_audrey_be6ac1cd:
     mike.say "Да уж... в этом ты точно необычная."
 
 # ch/palla/fuck.rpy:1600
@@ -27633,7 +27613,7 @@ translate russian palla_sleep_pillow_talk_audrey_319fe059:
     palla.say "Ты наверняка врёшь, но звучит всё равно приятно."
 
 # ch/palla/fuck.rpy:1615
-translate russian palla_sleep_pillow_talk_audrey_a5dc8627:
+translate russian palla_sleep_pillow_talk_audrey_d7296dce:
     mike.say "Да, но... не с ней. Одри не в моём вкусе. К тому же она на меня работает, это неправильно."
 
 # ch/palla/fuck.rpy:1616
@@ -27731,10 +27711,6 @@ translate russian palla_hottub_sex_male_ca78320d:
 # ch/palla/fuck.rpy:1660
 translate russian palla_hottub_sex_male_a7b167b1:
     "И всё же Паллу этим, похоже, совершенно не впечатлить."
-
-# ch/palla/fuck.rpy:1661
-translate russian palla_hottub_sex_male_d65ef18f:
-    "Конечно, когда я рассказал ей, она согласилась прийти и искупаться со мной."
 
 # ch/palla/fuck.rpy:1662
 translate russian palla_hottub_sex_male_d686d36e:
@@ -27907,10 +27883,6 @@ translate russian palla_hottub_sex_male_5a9d65cb:
 # ch/palla/fuck.rpy:1734
 translate russian palla_hottub_sex_male_f319b23a:
     mike.say "С тобой в нём точно лучше, Палла."
-
-# ch/palla/fuck.rpy:1735
-translate russian palla_hottub_sex_male_a8a4159e:
-    mike.say "Ещё раз спасибо, что пришла искупаться со мной!"
 
 # ch/palla/fuck.rpy:1736
 translate russian palla_hottub_sex_male_ca85ffd7:
@@ -28741,7 +28713,7 @@ translate russian palla_fuck_date_cowgirl_52ed5bde:
     mike.say "Твоя задница в моём распоряжении."
 
 # ch/palla/fuck.rpy:2137
-translate russian palla_fuck_date_cowgirl_4ad8fe80:
+translate russian palla_fuck_date_cowgirl_c491d674:
     "Вот только я не могу туда войти. Но... её киска мокрая и готовая. Смазка прямо здесь!"
 
 # ch/palla/fuck.rpy:2139
@@ -29021,7 +28993,7 @@ translate russian palla_fuck_date_cowgirl_6662b3a9:
     "Оргазм Паллы почти неистовый: кажется, она танцует на мне. Её ноги сжимают мои бёдра, вдавливая меня глубже в кровать."
 
 # ch/palla/fuck.rpy:2264
-translate russian palla_fuck_date_cowgirl_1494ecfc:
+translate russian palla_fuck_date_cowgirl_ec3c356a:
     palla.say "Это... было охренительно!"
 
 # ch/palla/fuck.rpy:2268
@@ -29149,7 +29121,7 @@ translate russian palla_fuck_date_missionary_e329acd2:
     palla.say "А ты заставь!"
 
 # ch/palla/fuck.rpy:2330
-translate russian palla_fuck_date_missionary_12892608:
+translate russian palla_fuck_date_missionary_a902a42b:
     "Раз уж ей этого хочется... Я подхожу, беру её за плечи и грубо бросаю на кровать."
 
 # ch/palla/fuck.rpy:2332
@@ -29313,7 +29285,7 @@ translate russian palla_fuck_date_missionary_52ed5bde:
     mike.say "Твоя задница в моём распоряжении."
 
 # ch/palla/fuck.rpy:2381
-translate russian palla_fuck_date_missionary_4ad8fe80:
+translate russian palla_fuck_date_missionary_c491d674:
     "Вот только я не могу туда войти. Но... её киска мокрая и готовая. Смазка прямо здесь!"
 
 # ch/palla/fuck.rpy:2384
@@ -29849,7 +29821,7 @@ translate russian palla_fuck_date_doggy_9f99abc4:
     palla.say "ПОЖАЛУЙСТА, я умоляю, не надо!"
 
 # ch/palla/fuck.rpy:2659
-translate russian palla_fuck_date_doggy_44e52d0b:
+translate russian palla_fuck_date_doggy_4f41fd9e:
     palla.say "Ненавижу... ненавижу... мне будет... больно..."
 
 # ch/palla/fuck.rpy:2660
@@ -29913,7 +29885,7 @@ translate russian palla_fuck_date_doggy_fd34e77d:
     mike.say "Скажи, что хочешь."
 
 # ch/palla/fuck.rpy:2682
-translate russian palla_fuck_date_doggy_c20ce5a7:
+translate russian palla_fuck_date_doggy_bba552a7:
     palla.say "Я... я хочу."
 
 # ch/palla/fuck.rpy:2683
@@ -29977,7 +29949,7 @@ translate russian palla_fuck_date_doggy_fd34e77d_2:
     mike.say "Скажи, что хочешь."
 
 # ch/palla/fuck.rpy:2701
-translate russian palla_fuck_date_doggy_95951f4a:
+translate russian palla_fuck_date_doggy_8db3262a:
     palla.say "Не хо... нет... не хо... хочу."
 
 # ch/palla/fuck.rpy:2702
@@ -31065,7 +31037,7 @@ translate russian palla_date_restaurant_bj_93f0bede:
     mike.say "Просто у тебя всё заранее расписано, понимаешь?"
 
 # ch/palla/fuck.rpy:3163
-translate russian palla_date_restaurant_bj_c25ce183:
+translate russian palla_date_restaurant_bj_02858dc2:
     mike.say "Тебе немного не хватает... спонтанности, да?"
 
 # ch/palla/fuck.rpy:3165
@@ -31261,7 +31233,7 @@ translate russian palla_date_restaurant_bj_de3e5d45:
     "Но всё равно чувствую направленные на меня взгляды."
 
 # ch/palla/fuck.rpy:3222
-translate russian palla_date_restaurant_bj_3addbce4:
+translate russian palla_date_restaurant_bj_084f2a88:
     "Чёрт... Надеюсь, Палла скоро закончит!"
 
 # ch/palla/fuck.rpy:3224
@@ -32289,7 +32261,7 @@ translate russian palla_gift_slutty_dress_male_28968cd2:
     mike.say "Это я!"
 
 # ch/palla/gift.rpy:159
-translate russian palla_gift_slutty_dress_male_86bdf13e:
+translate russian palla_gift_slutty_dress_male_717ec20f:
     mike.say "Эй... погоди-ка!"
 
 # ch/palla/gift.rpy:163
@@ -32417,7 +32389,7 @@ translate russian palla_gift_flowers_male_b9dfa253:
     "Палла смотрит на цветы, на меня, снова на цветы — и улыбается."
 
 # ch/palla/gift.rpy:209
-translate russian palla_gift_flowers_male_bb71c36b:
+translate russian palla_gift_flowers_male_8938180c:
     palla.say "Хорошая попытка, [lssb_palla.hero_name()], но этого мало, чтобы получить... вот это."
 
 # ch/palla/gift.rpy:210
@@ -32629,7 +32601,7 @@ translate russian palla_gift_collar_male_29fa90b6:
     "Она смотрит на меня, не отводя глаз."
 
 # ch/palla/gift.rpy:285
-translate russian palla_gift_collar_male_38b94b55:
+translate russian palla_gift_collar_male_c7cf3bac:
     palla.say "Ты знаешь, мне нравится... немного грубости. Но это... Это уже серьёзно. Словно что-то постоянное."
 
 # ch/palla/gift.rpy:286
@@ -32649,7 +32621,7 @@ translate russian palla_gift_collar_male_44b1168a:
     "Она сглатывает, но пока не впадает в ярость."
 
 # ch/palla/gift.rpy:290
-translate russian palla_gift_collar_male_24e7e393:
+translate russian palla_gift_collar_male_27845ffe:
     palla.say "Если... если я это надену, то... мне нужно знать, что ты... всегда будешь обо мне заботиться. Что любишь меня, что я нужна тебе. И что ты никогда меня не обидишь."
 
 # ch/palla/gift.rpy:291
@@ -32677,7 +32649,7 @@ translate russian palla_gift_collar_male_6e7b272c:
     "Когда застёжка щёлкает, я произношу:"
 
 # ch/palla/gift.rpy:300
-translate russian palla_gift_collar_male_86ce2e3a:
+translate russian palla_gift_collar_male_33e96c3a:
     mike.say "Ты моя, Палла. Моя сучка. Подчиняешься мне. Будешь называть меня господином и... служить мне."
 
 # ch/palla/gift.rpy:301
@@ -32745,7 +32717,7 @@ translate russian palla_gift_collar_male_12c320ca:
     "Ой-ой."
 
 # ch/palla/gift.rpy:322
-translate russian palla_gift_collar_male_831a2c30:
+translate russian palla_gift_collar_male_03e02618:
     palla.say "С какой стати я надену такую... пошлость?! Фу. Ты настоящий кусок дерьма, [lssb_palla.hero_name()]."
 
 # ch/palla/gift.rpy:324
@@ -32785,7 +32757,7 @@ translate russian palla_give_male_64cf548a:
     "Затем она снова лезет в пакет, достаёт нечто сложенное, совсем крошечное, и без церемоний бросает мне на колени."
 
 # ch/palla/gift.rpy:344
-translate russian palla_give_male_c23abee2:
+translate russian palla_give_male_0e34ed61:
     palla.say "А это для... ну, знаешь. Для него. Или неё."
 
 # ch/palla/gift.rpy:345
@@ -33005,7 +32977,7 @@ translate russian palla_fired_talk_01_306cc5d6:
     mike.say "Что за ассистент?"
 
 # ch/palla/jobs.rpy:556
-translate russian palla_fired_talk_01_4b192659:
+translate russian palla_fired_talk_01_5716652a:
     palla.say "Ассистент съёмочной группы. Они делают... в общем, всё, что не входит в чьи-то конкретные обязанности. Так вот, не помню, что он сказал."
 
 # ch/palla/jobs.rpy:557
@@ -33081,7 +33053,7 @@ translate russian palla_fired_talk_01_bb668792:
     palla.say "Ты решай, а я приду и буду вести себя прилично. Мне и так лучше, когда кто-то говорит, куда встать."
 
 # ch/palla/jobs.rpy:577
-translate russian palla_fired_talk_01_01baa270:
+translate russian palla_fired_talk_01_a4114364:
     palla.say "Просто... скажи, что мне делать иначе, и я сделаю."
 
 # ch/palla/jobs.rpy:578
@@ -33233,7 +33205,7 @@ translate russian palla_fired_talk_02_327e760f:
     palla.say "...А потом, наверное, всё равно согласиться, да. Не радуйся так."
 
 # ch/palla/jobs.rpy:636
-translate russian palla_fired_talk_02_2652ca65:
+translate russian palla_fired_talk_02_2d9a8f07:
     palla.say "Спасибо, [lssb_palla.hero_name()]. Я... не знаю. Попробую разобраться, что пошло не так."
 
 # ch/palla/jobs.rpy:638
@@ -33241,7 +33213,7 @@ translate russian palla_fired_talk_02_b30edc24:
     palla.say "Ладно. Постарайся на этот раз найти место, за которое не стыдно."
 
 # ch/palla/jobs.rpy:639
-translate russian palla_fired_talk_02_7af6ec11:
+translate russian palla_fired_talk_02_a9268941:
     palla.say "Я... не знаю. Попробую разобраться, что пошло не так."
 
 # ch/palla/jobs.rpy:646
@@ -33273,7 +33245,7 @@ translate russian palla_fired_talk_03_d93f158c:
     mike.say "Настолько плохо?"
 
 # ch/palla/jobs.rpy:659
-translate russian palla_fired_talk_03_be3daff8:
+translate russian palla_fired_talk_03_a42c6524:
     palla.say "Я... прости, [lssb_palla.hero_name()]. Пыталась сдержаться, но пришлось защищаться. Ты бы слышал, какую хрень несли те девушки. Сам бы на них накричал."
 
 # ch/palla/jobs.rpy:660
@@ -33569,7 +33541,7 @@ translate russian palla_career_event_01_88b3b55a:
     palla.say "«Нова» не тянет. Платят мало, перспектив никаких. Но мы поговорили с другими девушками, и, думаю, ты сможешь найти кое-какие предложения."
 
 # ch/palla/jobs.rpy:817
-translate russian palla_career_event_01_8ffc7003:
+translate russian palla_career_event_01_580f5722:
     palla.say "Прежде чем звонить. Нужно будет сказать им. О... ну, ты знаешь."
 
 # ch/palla/jobs.rpy:818
@@ -33609,7 +33581,7 @@ translate russian palla_career_event_01_70580c07:
     palla.say "Спасибо. Наверное."
 
 # ch/palla/jobs.rpy:830
-translate russian palla_career_event_01_3b9e16cc:
+translate russian palla_career_event_01_b42802f6:
     palla.say "Принеси список вариантов, выберу. Я не стану хватать всё подряд... но принеси."
 
 # ch/palla/jobs.rpy:832
@@ -33812,10 +33784,6 @@ translate russian palla_career_event_02_40ad78a5:
 translate russian palla_career_event_02_e02a7b96:
     palla.say "...Люблю тебя. Заткнись. Примерь рубашку."
 
-# ch/palla/jobs.rpy:936
-translate russian palla_career_event_03_c1585e38:
-    "Когда я вхожу в студию, там меняют съёмочную сцену."
-
 # ch/palla/jobs.rpy:937
 translate russian palla_career_event_03_1f253a92:
     "Кто-то сворачивает фон, кто-то приклеивает кабели к полу. Мимо со скрипом неисправного колёсика проезжает стойка с одеждой."
@@ -33993,7 +33961,7 @@ translate russian palla_career_event_04_d0723324:
     mike.say "Привет, Палла!"
 
 # ch/palla/jobs.rpy:1023
-translate russian palla_career_event_04_c334caa3:
+translate russian palla_career_event_04_14d701a0:
     palla.say "Привет, [lssb_palla.hero_name()]! Хотела позвонить и поблагодарить! Не верится, сколько работы в последнее время. И... мне хорошо. Правда хорошо."
 
 # ch/palla/jobs.rpy:1024
@@ -34001,7 +33969,7 @@ translate russian palla_career_event_04_f6089735:
     palla.say "Всю жизнь чего-то не хватало. Я так старалась, но сама не справлялась. Ты помог."
 
 # ch/palla/jobs.rpy:1025
-translate russian palla_career_event_04_54da224f:
+translate russian palla_career_event_04_7e00b0f8:
     palla.say "Я просто... ой, чёрт, как неловко, прости."
 
 # ch/palla/jobs.rpy:1026
@@ -34009,7 +33977,7 @@ translate russian palla_career_event_04_c29bc1f2:
     mike.say "Всё хорошо, Палла! Я очень рад, что у тебя всё налаживается!"
 
 # ch/palla/jobs.rpy:1027
-translate russian palla_career_event_04_5189f291:
+translate russian palla_career_event_04_516248a7:
     palla.say "И всё благодаря тебе. Я... так рада, что ты есть в моей жизни."
 
 # ch/palla/jobs.rpy:1028
@@ -34121,7 +34089,7 @@ translate russian palla_career_event_05_720473b9:
     palla.say "Вот именно. В общем, я просто..."
 
 # ch/palla/jobs.rpy:1078
-translate russian palla_career_event_05_054af2fa:
+translate russian palla_career_event_05_134305f8:
     palla.say "Я просто... хотела сказать, что я твоя навсегда."
 
 # ch/palla/jobs.rpy:1080
@@ -34141,7 +34109,7 @@ translate russian palla_career_event_05_608fc3b9:
     mike.say "Я люблю тебя, Палла. Ты та приправа, с которой жизнь вкуснее."
 
 # ch/palla/jobs.rpy:1084
-translate russian palla_career_event_05_bd3371ee:
+translate russian palla_career_event_05_728f8a5c:
     palla.say "Да? Может, позже... дам тебе кое-что вкусное!"
 
 # ch/palla/jobs.rpy:1085
@@ -34365,7 +34333,7 @@ translate russian palla_ice_cream_reaction_male_fe3faa47:
     palla.say "Пойдём. Пока моя сила воли не вернулась с обеда."
 
 # ch/palla/reactions.rpy:29
-translate russian palla_ice_cream_reaction_male_9f24b9f3:
+translate russian palla_ice_cream_reaction_male_44669a83:
     palla.say "Хм... мне тоже. Пойдём."
 
 # ch/palla/reactions.rpy:30
@@ -34381,7 +34349,7 @@ translate russian palla_ice_cream_reaction_male_dd32250b:
     mike.say "Ого, Палла, выглядит роскошно!"
 
 # ch/palla/reactions.rpy:33
-translate russian palla_ice_cream_reaction_male_eee133c2:
+translate russian palla_ice_cream_reaction_male_d964b610:
     palla.say "М-м... чуть изысканнее обычного мороженого!"
 
 # ch/palla/reactions.rpy:34
@@ -34589,7 +34557,7 @@ translate russian palla_offer_a_drink_male_721b7b4a:
     "Едва я успеваю произнести это, как Палла поворачивается ко мне."
 
 # ch/palla/reactions.rpy:132
-translate russian palla_offer_a_drink_male_82211dda:
+translate russian palla_offer_a_drink_male_7a72f2b5:
     palla.say "Эм... не забыл, что сделал мне ребёнка, [lssb_palla.hero_name()]?"
 
 # ch/palla/reactions.rpy:133
@@ -34777,7 +34745,7 @@ translate russian palla_slap_ass_happy_male_698e9118:
     palla.say "Ладно."
 
 # ch/palla/reactions.rpy:218
-translate russian palla_slap_ass_happy_male_5ed8898e:
+translate russian palla_slap_ass_happy_male_40a95a2a:
     palla.say "Ладно, это... это можно."
 
 # ch/palla/reactions.rpy:219
@@ -34897,7 +34865,7 @@ translate russian palla_slap_ass_angry_male_ede4a8ea:
     palla.say "И ты решил, что СЕЙЧАС удачный момент привлекать внимание к моей заднице?"
 
 # ch/palla/reactions.rpy:256
-translate russian palla_slap_ass_angry_male_b62ca31f:
+translate russian palla_slap_ass_angry_male_8faf95f4:
     palla.say "Не надо. Просто... не надо."
 
 # ch/palla/reactions.rpy:258
@@ -34973,7 +34941,7 @@ translate russian palla_breakup_male_65873422:
     "Нет, нужно сделать это сейчас и принять возможные последствия."
 
 # ch/palla/reactions.rpy:283
-translate russian palla_breakup_male_c9536519:
+translate russian palla_breakup_male_44e95614:
     "Ой... Я сказал «возможные»?"
 
 # ch/palla/reactions.rpy:284
@@ -35017,7 +34985,7 @@ translate russian palla_breakup_male_1d5f8d3d:
     "Но затем я собираюсь с духом и произношу:"
 
 # ch/palla/reactions.rpy:294
-translate russian palla_breakup_male_a2f5d8e8:
+translate russian palla_breakup_male_020def24:
     mike.say "Я... кажется, у нас не складывается, Палла."
 
 # ch/palla/reactions.rpy:295
@@ -35113,7 +35081,7 @@ translate russian palla_breakup_male_90f3f54a:
     "Впервые она не ищет оскорбление. Действительно ждёт ответа."
 
 # ch/palla/reactions.rpy:331
-translate russian palla_breakup_male_5f89126c:
+translate russian palla_breakup_male_08caffdb:
     palla.say "Н... нет!"
 
 # ch/palla/reactions.rpy:332
@@ -35125,7 +35093,7 @@ translate russian palla_breakup_male_7d8940d9:
     palla.say "Не мне!"
 
 # ch/palla/reactions.rpy:334
-translate russian palla_breakup_male_7216f4c2:
+translate russian palla_breakup_male_54be4c8f:
     mike.say "Эм... да, Палла."
 
 # ch/palla/reactions.rpy:335
@@ -35169,7 +35137,7 @@ translate russian palla_breakup_male_9cd48969:
     palla.say "Но не можешь себе признаться и вместо этого притворяешься, будто бросаешь меня."
 
 # ch/palla/reactions.rpy:345
-translate russian palla_breakup_male_e59883fe:
+translate russian palla_breakup_male_417b4677:
     mike.say "Эм... не уверен, Палла..."
 
 # ch/palla/reactions.rpy:346
@@ -35341,7 +35309,7 @@ translate russian palla_go_steady_yes_male_63426702:
     "Палла складывает руки перед собой и демонстративно изображает внимание."
 
 # ch/palla/reactions.rpy:406
-translate russian palla_go_steady_yes_male_36e6a582:
+translate russian palla_go_steady_yes_male_610a65c4:
     mike.say "Чёрт, Палла, я влюблён в тебя и хочу... большего. Больше, чем дружбы."
 
 # ch/palla/reactions.rpy:407
@@ -35405,7 +35373,7 @@ translate russian palla_go_steady_yes_male_bd7d6587:
     mike.say "Раз тебя тянет к мудакам, почему, чёрт возьми, не стать девушкой этого мудака?"
 
 # ch/palla/reactions.rpy:422
-translate russian palla_go_steady_yes_male_0b92372e:
+translate russian palla_go_steady_yes_male_5910b92c:
     palla.say "Потому что, если стану твоей девушкой, это... то, что между нами, изменится."
 
 # ch/palla/reactions.rpy:423
@@ -35613,7 +35581,7 @@ translate russian palla_pet_happy_male_66e0dcb2:
     palla.say "Последнее забудь."
 
 # ch/palla/reactions.rpy:496
-translate russian palla_pet_happy_male_5a74f921:
+translate russian palla_pet_happy_male_2ca3bc30:
     palla.say "Это... нечестно, [lssb_palla.hero_name()]."
 
 # ch/palla/reactions.rpy:497
@@ -35649,7 +35617,7 @@ translate russian palla_pet_happy_male_52052e22:
     palla.say "Велела бы прекратить, но ты ведь, наверное, послушаешься."
 
 # ch/palla/reactions.rpy:508
-translate russian palla_pet_happy_male_3f3d616e:
+translate russian palla_pet_happy_male_d47f35a0:
     palla.say "О... я..."
 
 # ch/palla/reactions.rpy:509
@@ -35829,7 +35797,7 @@ translate russian palla_massage_accept_male_13778c1b_4:
     palla.say "Значит, заметил?"
 
 # ch/palla/reactions.rpy:575
-translate russian palla_massage_accept_male_8349a32b:
+translate russian palla_massage_accept_male_df73ae02:
     palla.say "Я... пожалуй, массаж был бы приятен..."
 
 # ch/palla/reactions.rpy:580
@@ -35853,7 +35821,7 @@ translate russian palla_massage_refuse_male_7f9650e8:
     palla.say "Просто ты не привык к людям с хорошей осанкой."
 
 # ch/palla/reactions.rpy:586
-translate russian palla_massage_refuse_male_1a0410ad:
+translate russian palla_massage_refuse_male_ca3aaa01:
     palla.say "Ай... это... только выглядит болезненно!"
 
 # ch/palla/reactions.rpy:590
@@ -35949,7 +35917,7 @@ translate russian palla_piercing_navel_reaction_male_a80c1c6e:
     palla.say "Я сказала «наверное», [lssb_palla.hero_name()]. Не раздувай."
 
 # ch/palla/reactions.rpy:627
-translate russian palla_piercing_clit_reaction_male_9c45c0c0:
+translate russian palla_piercing_clit_reaction_male_31551c07:
     palla.say "Ох... ого..."
 
 # ch/palla/reactions.rpy:628
@@ -36037,7 +36005,7 @@ translate russian palla_piercing_head_reaction_male_f201c9cc:
     palla.say "Я говорю, выбор хороший. Не заставляй повторять."
 
 # ch/palla/reactions.rpy:662
-translate russian palla_piercing_nose_reaction_male_61b4afe9:
+translate russian palla_piercing_nose_reaction_male_82124927:
     palla.say "Хм... думаю, мне идёт."
 
 # ch/palla/reactions.rpy:663
@@ -36093,7 +36061,7 @@ translate russian palla_movie_indifferent_reaction_male_583e6577:
     palla.say "Такая скука! Могла бы всё проспать!"
 
 # ch/palla/reactions.rpy:691
-translate russian palla_movie_liked_reaction_male_d1c7bf17:
+translate russian palla_movie_liked_reaction_male_fa4f2fa0:
     palla.say "Не хочется признавать... но фильм был ОТЛИЧНЫЙ!"
 
 # ch/palla/reactions.rpy:693
@@ -36149,7 +36117,7 @@ translate russian palla_belly_kiss_male_9bdf442e:
     palla.say "Что ты делаешь?"
 
 # ch/palla/reactions.rpy:715
-translate russian palla_belly_kiss_male_f41919c9:
+translate russian palla_belly_kiss_male_3fe4adc6:
     palla.say "Прекрати сейчас же... люди увидят, какая я толстая!"
 
 # ch/palla/reactions.rpy:717
@@ -36205,7 +36173,7 @@ translate russian palla_belly_kiss_male_bc5c54e6:
     palla.say "Ох..."
 
 # ch/palla/reactions.rpy:732
-translate russian palla_belly_kiss_male_e17d39dc:
+translate russian palla_belly_kiss_male_6d10df0f:
     palla.say "Нет... нет..."
 
 # ch/palla/reactions.rpy:733
@@ -36565,7 +36533,7 @@ translate russian palla_belly_listen_male_3f8382ca:
     mike.say "Ого..."
 
 # ch/palla/reactions.rpy:871
-translate russian palla_belly_listen_male_31a373f8:
+translate russian palla_belly_listen_male_463bef73:
     mike.say "Я... я слышу!"
 
 # ch/palla/reactions.rpy:872
@@ -37137,7 +37105,7 @@ translate russian palla_talk_fashion_male_2f07e224:
     palla.say "Это был диагноз. А теперь заткнись, я не закончила про весеннюю коллекцию."
 
 # ch/palla/talk.rpy:252
-translate russian palla_talk_fashion_male_1746ec47:
+translate russian palla_talk_fashion_male_0663d30f:
     palla.say "Нет, Пайер Мосс, он... а, да ну на хер. Зря я вообще решила, что в тебе есть хоть капля вкуса."
 
 # ch/palla/talk.rpy:260
@@ -37441,7 +37409,7 @@ translate russian palla_talk_music_male_490e6e12:
     palla.say "В прошлую пятницу в клубе на подиуме танцевала девушка, которая действительно знала, что делать с таким ритмом."
 
 # ch/palla/talk.rpy:405
-translate russian palla_talk_music_male_967e740c:
+translate russian palla_talk_music_male_be1a3213:
     palla.say "Все остальные просто... подпрыгивали. Целая комната собак, услышавших звонок в дверь."
 
 # ch/palla/talk.rpy:406
@@ -37513,7 +37481,7 @@ translate russian palla_talk_birthday_male_1f21b668:
     mike.say "А в чём тогда?"
 
 # ch/palla/talk.rpy:441
-translate russian palla_talk_birthday_male_d25167b6:
+translate russian palla_talk_birthday_male_e4ed620c:
     palla.say "Просто... ещё на год старше, и этот год я встречаю размером с карнавальную платформу."
 
 # ch/palla/talk.rpy:442
@@ -37529,7 +37497,7 @@ translate russian palla_talk_birthday_male_92779ccd:
     mike.say "Ты ещё наверстаешь этот год. И никогда не выглядела лучше, чем сейчас, веришь ты мне или нет."
 
 # ch/palla/talk.rpy:446
-translate russian palla_talk_birthday_male_911038dd:
+translate russian palla_talk_birthday_male_68d10ca6:
     palla.say "Просто... ещё на год старше. Ещё на год ближе к морщинам и дряблой коже. А потом меня никто не захочет нанимать. И что я буду делать?"
 
 # ch/palla/talk.rpy:447
@@ -37649,7 +37617,7 @@ translate russian submissive_interact_palla_male_3fc510a0:
     palla.say "О чём?"
 
 # ch/palla/talk.rpy:541
-translate russian submissive_interact_palla_male_203f3bd0:
+translate russian submissive_interact_palla_male_126b3ca0:
     mike.say "Ну... чтобы ты приветствовала меня как-нибудь сексуально."
 
 # ch/palla/talk.rpy:542
@@ -37657,15 +37625,15 @@ translate russian submissive_interact_palla_male_647f27ce:
     mike.say "Например, говорила, как сильно я тебя возбуждаю?"
 
 # ch/palla/talk.rpy:545
-translate russian submissive_interact_palla_male_a42f58d9:
+translate russian submissive_interact_palla_male_e97a8440:
     palla.say "А... я... я..."
 
 # ch/palla/talk.rpy:546
-translate russian submissive_interact_palla_male_15e9ec5a:
+translate russian submissive_interact_palla_male_2aab38f8:
     palla.say "Хочу сказать «нет»... но не могу!"
 
 # ch/palla/talk.rpy:548
-translate russian submissive_interact_palla_male_d509c070:
+translate russian submissive_interact_palla_male_b3fbe05b:
     palla.say "Уф... ты одновременно бесишь меня и так заводишь!"
 
 # ch/palla/talk.rpy:550
@@ -37693,7 +37661,7 @@ translate russian submissive_interact_palla_male_44df3cbf:
     palla.say "Но и «нет» я не говорю, [lssb_palla.hero_name()]. Попробуй ещё как-нибудь, только уже не спрашивай."
 
 # ch/palla/talk.rpy:563
-translate russian submissive_interact_palla_male_9743d9e1:
+translate russian submissive_interact_palla_male_8958b86e:
     palla.say "Фу... не будь такой свиньёй, [lssb_palla.hero_name()]!"
 
 # ch/palla/talk.rpy:564
@@ -37701,7 +37669,7 @@ translate russian submissive_interact_palla_male_6faf7c1c:
     palla.say "Ничего подобного я делать не стану!"
 
 # ch/palla/talk.rpy:566
-translate russian submissive_interact_palla_male_3c29d835:
+translate russian submissive_interact_palla_male_b8845651:
     mike.say "А... хорошо, Палла..."
 
 # ch/palla/talk.rpy:567
@@ -37757,7 +37725,7 @@ translate russian palla_friendly_texts_5cdf69eb:
     palla_nvl "За откровенность можешь благодарить. Больше такого не будет."
 
 # ch/palla/texts.rpy:26
-translate russian palla_friendly_texts_03311c90:
+translate russian palla_friendly_texts_85798daa:
     palla_nvl "Пишу без причины... вообще без причины."
 
 # ch/palla/texts.rpy:27
@@ -37789,7 +37757,7 @@ translate russian palla_friendly_texts_847e3eca:
     palla_nvl "Но у меня кое-что отменилось в расписании."
 
 # ch/palla/texts.rpy:36
-translate russian palla_friendly_texts_b3073669:
+translate russian palla_friendly_texts_9aacc2c0:
     palla_nvl "И... ну... хочешь встретиться и провести со мной время?"
 
 # ch/palla/texts.rpy:46
@@ -38165,7 +38133,7 @@ translate russian palla_flirty_texts_male_7b40d7ba:
     mchero_nvl "Мне нужно знать, когда я снова смогу до тебя добраться!"
 
 # ch/palla/texts.rpy:268
-translate russian palla_flirty_texts_male_ff2afa6d:
+translate russian palla_flirty_texts_male_f6e9842e:
     palla_nvl "Хм... пожалуй, я для тебя слишком эксклюзивна!"
 
 # ch/palla/texts.rpy:271
@@ -38257,11 +38225,11 @@ translate russian palla_dirty_texts_male_80a5229c:
     mchero_nvl "Но на моём члене выглядела бы гораздо лучше!"
 
 # ch/palla/texts.rpy:343
-translate russian palla_dirty_texts_male_06953153:
+translate russian palla_dirty_texts_male_3d098f34:
     palla_nvl "Хм... не думаю, что у тебя найдётся мой размер!"
 
 # ch/palla/texts.rpy:346
-translate russian palla_dirty_texts_male_a02face9:
+translate russian palla_dirty_texts_male_6422bce8:
     palla_nvl "М-м-м... звучит неплохо!"
 
 # ch/palla/texts.rpy:347

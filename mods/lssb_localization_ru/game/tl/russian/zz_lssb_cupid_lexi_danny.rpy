@@ -318,7 +318,7 @@ translate russian cupid_lexi_danny_event_01_b08c3069:
 translate russian cupid_lexi_danny_event_01_c5693bad:
     mike.say "Лекси правду сказала?"
 
-translate russian cupid_lexi_danny_event_01_6829664d:
+translate russian cupid_lexi_danny_event_01_aceaa2e7:
     mike.say "Ты потерял свою... ну, сутенёрскую хватку?"
 
 translate russian cupid_lexi_danny_event_01_b9f422c2:
@@ -351,7 +351,7 @@ translate russian cupid_lexi_danny_event_01_eb94a241:
 translate russian cupid_lexi_danny_event_01_91ade045:
     danny.say "Я находил клиента, она делала своё дело — деньги текли рекой."
 
-translate russian cupid_lexi_danny_event_01_87715629:
+translate russian cupid_lexi_danny_event_01_c350a3d9:
     danny.say "А теперь как будто... никак не могу... найти клиента, который был бы её достоин!"
 
 translate russian cupid_lexi_danny_event_01_20daaec7:
@@ -426,7 +426,7 @@ translate russian cupid_lexi_danny_event_01_16ab097a:
 translate russian cupid_lexi_danny_event_01_049612b6:
     danny.say "Бабки у них у всех были."
 
-translate russian cupid_lexi_danny_event_01_229a1c0f:
+translate russian cupid_lexi_danny_event_01_c1835da1:
     danny.say "Просто... ну, мне не нравилась мысль, что они будут с ней."
 
 translate russian cupid_lexi_danny_event_01_fdabbcf3:
@@ -603,7 +603,7 @@ translate russian cupid_lexi_danny_event_01_64701d9e:
 translate russian cupid_lexi_danny_event_01_04d438e5:
     mike.say "Человек, у которого врождённый талант к моторам."
 
-translate russian cupid_lexi_danny_event_01_a0922f84:
+translate russian cupid_lexi_danny_event_01_0ae12d10:
     danny.say "Хм... Наверное."
 
 translate russian cupid_lexi_danny_event_01_35c8c4c9:
@@ -873,7 +873,7 @@ translate russian cupid_lexi_danny_event_02_fff64730_2:
 translate russian cupid_lexi_danny_event_02_8917754f:
     victor.say "Я сказал «мокрухи»?"
 
-translate russian cupid_lexi_danny_event_02_08e11e0e:
+translate russian cupid_lexi_danny_event_02_bbc73eb6:
     victor.say "Я... имел в виду «развозки». Я еду доставляю, понимаете?"
 
 translate russian cupid_lexi_danny_event_02_ceaebdce_1:
@@ -933,7 +933,7 @@ translate russian cupid_lexi_danny_event_02_f467a383:
 translate russian cupid_lexi_danny_event_02_55f18775:
     danny.say "У-у-у..."
 
-translate russian cupid_lexi_danny_event_02_695eabeb:
+translate russian cupid_lexi_danny_event_02_b045268c:
     danny.say "Этот... этот ублюдок..."
 
 translate russian cupid_lexi_danny_event_02_9462d011:
@@ -1236,7 +1236,7 @@ translate russian cupid_lexi_danny_event_02_7681ad75:
 translate russian cupid_lexi_danny_event_02_6d3edcd3:
     danny.say "Ладно, ладно..."
 
-translate russian cupid_lexi_danny_event_02_e7cbf66a:
+translate russian cupid_lexi_danny_event_02_8b0d1787:
     danny.say "Господи... Ты хуже Лекси!"
 
 translate russian cupid_lexi_danny_event_02_99e77f7a:
@@ -1476,12 +1476,6 @@ translate russian cupid_lexi_danny_event_02_a5c17947:
 translate russian cupid_lexi_danny_event_02_4fdfdc93:
     camila.say "Где этот чёртов механик?"
 
-translate russian cupid_lexi_danny_event_02_82afc880:
-    camila "Я оборачиваюсь и вижу Камилу за рулём патрульной машины."
-
-translate russian cupid_lexi_danny_event_02_bf7249dc:
-    camila "Привет, Камила! Не ожидал тебя здесь увидеть!"
-
 translate russian cupid_lexi_danny_event_02_6ef5bc7b:
     "Я оборачиваюсь: за рулём патрульной машины сидит суровая, но симпатичная полицейская."
 
@@ -1590,7 +1584,7 @@ translate russian cupid_lexi_danny_event_02_26c18e05:
 translate russian cupid_lexi_danny_event_02_03809d29:
     danny.say "Старушка номер шестьдесят девять."
 
-translate russian cupid_lexi_danny_event_02_06599bfa:
+translate russian cupid_lexi_danny_event_02_702bb211:
     danny.say "У неё удобное местечко всегда было прямо... тут!"
 
 translate russian cupid_lexi_danny_event_02_3f4a8256:
@@ -1689,7 +1683,7 @@ translate russian cupid_lexi_danny_event_02_26c18e05_1:
 translate russian cupid_lexi_danny_event_02_03809d29_1:
     danny.say "Старушка номер шестьдесят девять."
 
-translate russian cupid_lexi_danny_event_02_06599bfa_1:
+translate russian cupid_lexi_danny_event_02_702bb211_1:
     danny.say "У неё удобное местечко всегда было прямо... тут!"
 
 translate russian cupid_lexi_danny_event_02_40553563:
@@ -1905,7 +1899,7 @@ translate russian cupid_lexi_danny_ending_81a70b3a:
 translate russian cupid_lexi_danny_ending_d601e095:
     "Priest" "Сегодня мы собрались здесь..."
 
-translate russian cupid_lexi_danny_ending_9874b16e:
+translate russian cupid_lexi_danny_ending_e2766968:
     "Priest" "Чтобы стать свидетелями соединения этих двух... людей..."
 
 translate russian cupid_lexi_danny_ending_20520034:
@@ -1947,7 +1941,7 @@ translate russian cupid_lexi_danny_ending_495b624a:
 translate russian cupid_lexi_danny_ending_5a5fa422:
     "Priest" "И вносить за него залог, если..."
 
-translate russian cupid_lexi_danny_ending_96df7df3:
+translate russian cupid_lexi_danny_ending_d86998cf:
     "Priest" "Господи помилуй... если его подставят легавые?"
 
 translate russian cupid_lexi_danny_ending_85082955:
@@ -2169,7 +2163,7 @@ translate russian cupid_lexi_danny_ending_6a20a80d:
 translate russian cupid_lexi_danny_ending_2d14ae9f:
     mike.say "Шутишь?"
 
-translate russian cupid_lexi_danny_ending_f43b92d7:
+translate russian cupid_lexi_danny_ending_80d7c72e:
     mike.say "Да уж... Паршиво вышло!"
 
 translate russian cupid_lexi_danny_ending_4ca26de9:

@@ -279,7 +279,7 @@ translate russian cupid_palla_shawn_event_01_7475dea7:
 translate russian cupid_palla_shawn_event_01_0fab8d0f:
     shawn.say "Ты должен сгорать от нетерпения его увидеть."
 
-translate russian cupid_palla_shawn_event_01_bddaae7c:
+translate russian cupid_palla_shawn_event_01_3683058e:
     mike.say "Ну... Просто..."
 
 translate russian cupid_palla_shawn_event_01_af5ca30b:
@@ -321,7 +321,7 @@ translate russian cupid_palla_shawn_event_01_bca83917:
 translate russian cupid_palla_shawn_event_01_3c0f9777:
     shawn.say "Ты хочешь смотреть этот чёртов фильм или нет?"
 
-translate russian cupid_palla_shawn_event_01_ebae1569:
+translate russian cupid_palla_shawn_event_01_3921d1e2:
     "Ух... Любая экранизация «Демонов и полубогов» внушает мне глубокий ужас."
 
 translate russian cupid_palla_shawn_event_01_5a710ae0:
@@ -414,7 +414,7 @@ translate russian cupid_palla_shawn_event_01_08b03312:
 translate russian cupid_palla_shawn_event_01_de108b36:
     shawn.say "Ладно, Палла..."
 
-translate russian cupid_palla_shawn_event_01_598b846f:
+translate russian cupid_palla_shawn_event_01_fc346132:
     shawn.say "Похоже, мы смотрим показ мод... опять."
 
 translate russian cupid_palla_shawn_event_01_a4575fc6:
@@ -663,9 +663,6 @@ translate russian cupid_palla_shawn_event_01_da81a7ba:
 translate russian cupid_palla_shawn_event_01_410284f4:
     mike.say "Потому что именно туда сейчас и отправлюсь."
 
-translate russian cupid_palla_shawn_event_01_62f8815a:
-    "Больше не говоря ни слова, я выхожу из комнаты и покидаю квартиру."
-
 translate russian cupid_palla_shawn_event_01_13f01b6d:
     "Оставляю Шона и Паллу наслаждаться их так называемой домашней идиллией."
 
@@ -765,7 +762,7 @@ translate russian cupid_palla_shawn_event_01_80b8ca72:
 translate russian cupid_palla_shawn_event_01_9a844e4d:
     palla.say "Ну уж нет! Это моя работа!"
 
-translate russian cupid_palla_shawn_event_01_660257af:
+translate russian cupid_palla_shawn_event_01_5a7e88ee:
     palla.say "Я... то есть... он мой друг!"
 
 translate russian cupid_palla_shawn_event_01_4c72744e:
@@ -1032,7 +1029,7 @@ translate russian cupid_palla_shawn_event_02_206b97bc:
 translate russian cupid_palla_shawn_event_02_227feae1:
     palla.say "Ей место только в твоей спальне — за закрытой дверью!"
 
-translate russian cupid_palla_shawn_event_02_57559179:
+translate russian cupid_palla_shawn_event_02_ff21a6ba:
     palla.say "Ух... Уж лучше бы я вошла и застала тебя за дрочкой!"
 
 translate russian cupid_palla_shawn_event_02_11f97278:
@@ -1203,7 +1200,7 @@ translate russian cupid_palla_shawn_event_02_3dfcb9b7:
 translate russian cupid_palla_shawn_event_02_627e93f9:
     shawn.say "ДА!"
 
-translate russian cupid_palla_shawn_event_02_7c63062e:
+translate russian cupid_palla_shawn_event_02_0b4dd5f7:
     shawn.say "Я... то есть да, всё верно."
 
 translate russian cupid_palla_shawn_event_02_59f7d8c9:
@@ -1389,7 +1386,7 @@ translate russian cupid_palla_shawn_event_02_0422de39:
 translate russian cupid_palla_shawn_event_02_b0e68f37:
     mike.say "Ой, только вспомнил..."
 
-translate russian cupid_palla_shawn_event_02_a28b4c9e:
+translate russian cupid_palla_shawn_event_02_0929f405:
     mike.say "Мне через... пять минут надо быть в другом месте!"
 
 translate russian cupid_palla_shawn_event_02_6569a60e:
@@ -1593,7 +1590,7 @@ translate russian cupid_palla_shawn_ending_dc6c8798:
 translate russian cupid_palla_shawn_ending_abc6242b:
     "Priest" "Эм..."
 
-translate russian cupid_palla_shawn_ending_a2a29c87:
+translate russian cupid_palla_shawn_ending_a6f0fe67:
     "Priest" "Д-да, мэм!"
 
 translate russian cupid_palla_shawn_ending_9a0d9bfd:
@@ -1674,7 +1671,7 @@ translate russian cupid_palla_shawn_ending_473aab73:
 translate russian cupid_palla_shawn_ending_4702bb90:
     shawn.say "..."
 
-translate russian cupid_palla_shawn_ending_2ccde51c:
+translate russian cupid_palla_shawn_ending_b140df9f:
     shawn.say "Обещаю... Согласен... Всё, что угодно!"
 
 translate russian cupid_palla_shawn_ending_108a1354:
@@ -1809,7 +1806,7 @@ translate russian cupid_palla_shawn_ending_2f9915f0:
 translate russian cupid_palla_shawn_ending_4e809e79:
     mike_nvl "Ни слова больше! Сейчас буду!"
 
-translate russian cupid_palla_shawn_ending_4ceea72e:
+translate russian cupid_palla_shawn_ending_500c6bf9:
     "Ладно, знаю: после такого разговора кажется, что меня впечатлить не сложнее, чем обычную собаку."
 
 translate russian cupid_palla_shawn_ending_15abe3bc:
@@ -1908,7 +1905,7 @@ translate russian cupid_palla_shawn_ending_b99e0f23:
 translate russian cupid_palla_shawn_ending_6c29c025:
     shawn.say "Вы сможете сказать, что были здесь..."
 
-translate russian cupid_palla_shawn_ending_da786529:
+translate russian cupid_palla_shawn_ending_2d8cbaf5:
     shawn.say "Что видели рождение феномена по имени... ПАЛЛА!"
 
 translate russian cupid_palla_shawn_ending_df036ea7:
@@ -2055,7 +2052,7 @@ translate russian cupid_palla_shawn_ending_ead3953e:
 translate russian cupid_palla_shawn_ending_0f6756e5:
     mike.say "Палла начинает карьеру певицы, идёт в политику или что?!"
 
-translate russian cupid_palla_shawn_ending_addbb4d7:
+translate russian cupid_palla_shawn_ending_19e2ff78:
     shawn.say "И то, и другое... Ни то ни другое... Всё сразу!"
 
 translate russian cupid_palla_shawn_ending_459f8c8a:

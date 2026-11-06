@@ -56,16 +56,12 @@ translate russian minami_request_e993db76:
 translate russian minami_request_736d3af2:
     "И всё же, когда она наконец это делает, я оказываюсь немного застигнут врасплох."
 
-# ch/harems/home/events/home_harem_minami.rpy:340
-translate russian minami_request_b53bbbee:
-    minami.say "Эм... привет, братик."
-
 # ch/harems/home/events/home_harem_minami.rpy:341
 translate russian minami_request_adbc8689:
     mike.say "Привет, Минами..."
 
 # ch/harems/home/events/home_harem_minami.rpy:342
-translate russian minami_request_4733db22:
+translate russian minami_request_851c3242:
     mike.say "Как-то... всё... неловко!"
 
 # ch/harems/home/events/home_harem_minami.rpy:344
@@ -104,10 +100,6 @@ translate russian minami_request_0dacb1d2:
 translate russian minami_request_e99952dc:
     "Знаете, тот взгляд, перед которым я почти не могу устоять?"
 
-# ch/harems/home/events/home_harem_minami.rpy:354
-translate russian minami_request_7288f801:
-    minami.say "Нет-нет, братик."
-
 # ch/harems/home/events/home_harem_minami.rpy:355
 translate russian minami_request_e2068b75:
     minami.say "Извиняться должен не ты."
@@ -117,11 +109,11 @@ translate russian minami_request_211b4f5d:
     minami.say "Просто я заревновала, когда ты рассказал, вот и всё."
 
 # ch/harems/home/events/home_harem_minami.rpy:357
-translate russian minami_request_0a43b409:
+translate russian minami_request_338d2e3f:
     mike.say "Т... ты ревновала?"
 
 # ch/harems/home/events/home_harem_minami.rpy:358
-translate russian minami_request_d0e4362a:
+translate russian minami_request_77e9ddfb:
     mike.say "А теперь... нет?"
 
 # ch/harems/home/events/home_harem_minami.rpy:359
@@ -132,16 +124,12 @@ translate russian minami_request_0b291110:
 translate russian minami_request_a928b0ff:
     "Минами подходит ближе, и с каждым шагом её улыбка становится всё менее невинной."
 
-# ch/harems/home/events/home_harem_minami.rpy:362
-translate russian minami_request_8b4325dd:
-    minami.say "О нет, братик."
-
 # ch/harems/home/events/home_harem_minami.rpy:363
 translate russian minami_request_6ab14761:
     minami.say "Я подумала, и знаешь, это очень ЗАВОДИТ!"
 
 # ch/harems/home/events/home_harem_minami.rpy:364
-translate russian minami_request_8383fcec:
+translate russian minami_request_171d6c56:
     mike.say "П... правда?!"
 
 # ch/harems/home/events/home_harem_minami.rpy:366
@@ -152,10 +140,6 @@ translate russian minami_request_e739ab3e:
 translate russian minami_request_84b61d4c:
     minami.say "Конечно!"
 
-# ch/harems/home/events/home_harem_minami.rpy:369
-translate russian minami_request_e41fcf53:
-    minami.say "Подумай: я приезжаю в большой город, чтобы быть с красавцем старшим братом."
-
 # ch/harems/home/events/home_harem_minami.rpy:370
 translate russian minami_request_d2b7cb3c:
     minami.say "И не только получаю его, причём он оказывается именно таким, как я мечтала."
@@ -163,10 +147,6 @@ translate russian minami_request_d2b7cb3c:
 # ch/harems/home/events/home_harem_minami.rpy:371
 translate russian minami_request_53209098:
     minami.say "У него ещё и целый гарем девушек, которые едят у него с ладони!"
-
-# ch/harems/home/events/home_harem_minami.rpy:372
-translate russian minami_request_06e0dc9e:
-    minami.say "Они словно не могут перед тобой устоять, братик."
 
 # ch/harems/home/events/home_harem_minami.rpy:374
 translate russian minami_request_1d6787c7:
@@ -197,16 +177,12 @@ translate russian minami_request_2f20ec8e:
     mike.say "Рад это слышать, Минами, правда!"
 
 # ch/harems/home/events/home_harem_minami.rpy:381
-translate russian minami_request_e52f2c19:
+translate russian minami_request_25de9839:
     mike.say "То есть... ты не против, что [lssb_homeminami.bree_name()] и Саша тоже со мной встречаются?"
 
 # ch/harems/home/events/home_harem_minami.rpy:382
 translate russian minami_request_ae088d13:
     "Минами склоняет голову набок, всё так же улыбаясь."
-
-# ch/harems/home/events/home_harem_minami.rpy:383
-translate russian minami_request_3a12070f:
-    minami.say "Конечно, братик, конечно."
 
 # ch/harems/home/events/home_harem_minami.rpy:385
 translate russian minami_request_8b01de01:
@@ -237,16 +213,12 @@ translate russian minami_request_bb8a2c60:
     mike.say "Минами, пожалуйста!"
 
 # ch/harems/home/events/home_harem_minami.rpy:397
-translate russian minami_request_bffeb7a0:
+translate russian minami_request_fb00348e:
     mike.say "[lssb_homeminami.bree_name()], Саша и я... у нас всё непросто."
 
 # ch/harems/home/events/home_harem_minami.rpy:398
 translate russian minami_request_59699990:
     mike.say "Я не могу просто подойти и попросить принять кого-то ещё."
-
-# ch/harems/home/events/home_harem_minami.rpy:400
-translate russian minami_request_591b28e8:
-    minami.say "Но попробовать можешь, братик! Вдруг они согласятся?"
 
 # ch/harems/home/events/home_harem_minami.rpy:401
 translate russian minami_request_c9c637e6:
@@ -255,10 +227,6 @@ translate russian minami_request_c9c637e6:
 # ch/harems/home/events/home_harem_minami.rpy:402
 translate russian minami_request_f212bb1b:
     mike.say "И как это должно выглядеть, а?"
-
-# ch/harems/home/events/home_harem_minami.rpy:403
-translate russian minami_request_8674df14:
-    mike.say "«Эй, [lssb_homeminami.bree_name()], Саша, не хотите, чтобы моя младшая сестра присоединилась, когда мы трахаемся?»"
 
 # ch/harems/home/events/home_harem_minami.rpy:404
 translate russian minami_request_1d0bf188:
@@ -279,10 +247,6 @@ translate russian minami_request_1d3e2a27:
 # ch/harems/home/events/home_harem_minami.rpy:409
 translate russian minami_request_b5e4086d:
     "Но теперь я свёл всё к тому, что мы приёмные брат и сестра, и переложил вину на неё."
-
-# ch/harems/home/events/home_harem_minami.rpy:410
-translate russian minami_request_007f53d1:
-    minami.say "И что, братик?"
 
 # ch/harems/home/events/home_harem_minami.rpy:411
 translate russian minami_request_b5dc4f59:
@@ -360,10 +324,6 @@ translate russian minami_request_4b630c81:
 translate russian minami_request_31939857:
     minami.say "Правда поговоришь?!"
 
-# ch/harems/home/events/home_harem_minami.rpy:443
-translate russian minami_request_eefe805c:
-    minami.say "Ох, братик, ты лучший!"
-
 # ch/harems/home/events/home_harem_minami.rpy:444
 translate russian minami_request_df7965f1:
     "Она обнимает меня за шею, из-за маленького роста почти подпрыгнув."
@@ -424,10 +384,6 @@ translate russian bree_sasha_request_53083101:
 translate russian bree_sasha_request_0e4b580e:
     "Но даже когда такой момент вроде бы наступает, я начинаю разговор весь на нервах."
 
-# ch/harems/home/events/home_harem_minami.rpy:468
-translate russian bree_sasha_request_e35ca177:
-    mike.say "Эм, [lssb_homeminami.bree_name()]... Саша..."
-
 # ch/harems/home/events/home_harem_minami.rpy:471
 translate russian bree_sasha_request_dccc6b53:
     "Они разом поворачиваются ко мне с тёплыми, открытыми лицами."
@@ -453,7 +409,7 @@ translate russian bree_sasha_request_02606cf7:
     "И стараюсь не выглядеть так, словно иду на электрический стул."
 
 # ch/harems/home/events/home_harem_minami.rpy:480
-translate russian bree_sasha_request_3cf5c62a:
+translate russian bree_sasha_request_dd7d4ba3:
     mike.say "Вы ведь знаете, что мы все... хорошо ладим?"
 
 # ch/harems/home/events/home_harem_minami.rpy:482
@@ -501,7 +457,7 @@ translate russian bree_sasha_request_5d24506b:
     "Я пожимаю плечами и качаю головой, пытаясь, скорее всего безуспешно, преуменьшить проблему."
 
 # ch/harems/home/events/home_harem_minami.rpy:497
-translate russian bree_sasha_request_e50e1510:
+translate russian bree_sasha_request_d57e7725:
     mike.say "Это... это насчёт Минами."
 
 # ch/harems/home/events/home_harem_minami.rpy:498
@@ -565,7 +521,7 @@ translate russian bree_sasha_request_a4682626:
     sasha.say "Если только она уже не знает."
 
 # ch/harems/home/events/home_harem_minami.rpy:519
-translate russian bree_sasha_request_d74cab74:
+translate russian bree_sasha_request_ef9573c2:
     bree.say "Ч... что это значит, Саша?"
 
 # ch/harems/home/events/home_harem_minami.rpy:520
@@ -649,7 +605,7 @@ translate russian bree_sasha_request_149c7f6d:
     mike.say "Минами не хочет нас останавливать."
 
 # ch/harems/home/events/home_harem_minami.rpy:543
-translate russian bree_sasha_request_461521ab:
+translate russian bree_sasha_request_ab943883:
     mike.say "Она хочет превратить наше трио в... ну, квартет!"
 
 # ch/harems/home/events/home_harem_minami.rpy:546
@@ -697,7 +653,7 @@ translate russian bree_sasha_request_ae7f1f3e:
     bree.say "Да, [lssb_common.hero_name()], почему ты хочешь трахаться с собственной сестрой?"
 
 # ch/harems/home/events/home_harem_minami.rpy:562
-translate russian bree_sasha_request_bbb69958:
+translate russian bree_sasha_request_60b7e92a:
     bree.say "Если только... если..."
 
 # ch/harems/home/events/home_harem_minami.rpy:565
@@ -753,7 +709,7 @@ translate russian bree_sasha_request_c572701e:
     bree.say "Может, это не настолько страннее?"
 
 # ch/harems/home/events/home_harem_minami.rpy:582
-translate russian bree_sasha_request_71c40360:
+translate russian bree_sasha_request_101d87b5:
     mike.say "Эм... так... что скажете?"
 
 # ch/harems/home/events/home_harem_minami.rpy:583
@@ -793,7 +749,7 @@ translate russian bree_sasha_request_73c65c95:
     bree.say "По-моему, Минами милая девчонка."
 
 # ch/harems/home/events/home_harem_minami.rpy:598
-translate russian bree_sasha_request_67430636:
+translate russian bree_sasha_request_a4a65045:
     bree.say "Точнее... я так думала, пока не узнала, что она за всеми нами шпионит!"
 
 # ch/harems/home/events/home_harem_minami.rpy:600
@@ -825,7 +781,7 @@ translate russian bree_sasha_request_26440be9:
     "Если [lssb_homeminami.bree_name()] согласится, Минами удастся успокоить, а я не найду способ всё испортить."
 
 # ch/harems/home/events/home_harem_minami.rpy:608
-translate russian bree_sasha_request_b80dd366:
+translate russian bree_sasha_request_7f1bfbb0:
     bree.say "Эм... думаю, меня это устраивает, Саша."
 
 # ch/harems/home/events/home_harem_minami.rpy:610
@@ -925,7 +881,7 @@ translate russian bree_sasha_request_cf59d7b7:
     "Наверное, я бы и возразил, если бы они не возбуждали меня так сильно!"
 
 # ch/harems/home/events/home_harem_minami.rpy:644
-translate russian bree_sasha_request_fea1eb84:
+translate russian bree_sasha_request_c7aad69e:
     mike.say "Т... то есть вы за, да?"
 
 # ch/harems/home/events/home_harem_minami.rpy:645
@@ -996,16 +952,12 @@ translate russian bree_request_e7452d8c:
 translate russian bree_request_11d4aa91:
     "Ну, была не была..."
 
-# ch/harems/home/events/home_harem_minami.rpy:681
-translate russian bree_request_3dc7f442:
-    mike.say "[lssb_homeminami.bree_name()]..."
-
 # ch/harems/home/events/home_harem_minami.rpy:682
 translate russian bree_request_becbb3bf:
     bree.say "Эм, да, [lssb_common.hero_name()]?"
 
 # ch/harems/home/events/home_harem_minami.rpy:683
-translate russian bree_request_6cadf39b:
+translate russian bree_request_9fa1cc9b:
     mike.say "Я... хотел кое о чём тебя спросить."
 
 # ch/harems/home/events/home_harem_minami.rpy:684
@@ -1021,7 +973,7 @@ translate russian bree_request_7e857d99:
     bree.say "Но ничего, спрашивай!"
 
 # ch/harems/home/events/home_harem_minami.rpy:687
-translate russian bree_request_5b7ac942:
+translate russian bree_request_02128c19:
     mike.say "Ну... вообще-то Минами хочет, чтобы я тебя спросил."
 
 # ch/harems/home/events/home_harem_minami.rpy:688
@@ -1029,7 +981,7 @@ translate russian bree_request_7ae6b754:
     mike.say "И меня это тоже касается."
 
 # ch/harems/home/events/home_harem_minami.rpy:689
-translate russian bree_request_9c6ccf20:
+translate russian bree_request_71ccf0b5:
     mike.say "И тебя... и Саши..."
 
 # ch/harems/home/events/home_harem_minami.rpy:691
@@ -1068,10 +1020,6 @@ translate russian bree_request_3a2c1b43:
 translate russian bree_request_2abaedd8:
     mike.say "Да, ну..."
 
-# ch/harems/home/events/home_harem_minami.rpy:703
-translate russian bree_request_9cefb1f8:
-    mike.say "Видишь ли, всё не совсем так, [lssb_homeminami.bree_name()]."
-
 # ch/harems/home/events/home_harem_minami.rpy:707
 translate russian bree_request_6570f659:
     mike.say "Она знает про тебя, меня и Сашу."
@@ -1087,10 +1035,6 @@ translate russian bree_request_869347db:
 # ch/harems/home/events/home_harem_minami.rpy:711
 translate russian bree_request_609cdd93:
     "Ладно, была не была."
-
-# ch/harems/home/events/home_harem_minami.rpy:712
-translate russian bree_request_b50e7457:
-    mike.say "Нет, [lssb_homeminami.bree_name()]."
 
 # ch/harems/home/events/home_harem_minami.rpy:713
 translate russian bree_request_39a718aa:
@@ -1109,7 +1053,7 @@ translate russian bree_request_4786023a:
     "А потом она краснеет ещё сильнее."
 
 # ch/harems/home/events/home_harem_minami.rpy:719
-translate russian bree_request_a033068f:
+translate russian bree_request_e29c4670:
     bree.say "О... боже... мой!"
 
 # ch/harems/home/events/home_harem_minami.rpy:721
@@ -1117,24 +1061,16 @@ translate russian bree_request_aa5cfd31:
     bree.say "Не может быть, [lssb_common.hero_name()]!"
 
 # ch/harems/home/events/home_harem_minami.rpy:722
-translate russian bree_request_b319fa8d:
+translate russian bree_request_c76d14d0:
     bree.say "Тогда ей пришлось бы заняться сексом... с тобой!"
-
-# ch/harems/home/events/home_harem_minami.rpy:723
-translate russian bree_request_90b7fd7d:
-    mike.say "Эм, да, [lssb_homeminami.bree_name()]."
 
 # ch/harems/home/events/home_harem_minami.rpy:724
 translate russian bree_request_76dc18aa:
     mike.say "Думаю, она это понимает."
 
 # ch/harems/home/events/home_harem_minami.rpy:727
-translate russian bree_request_0a945cf8:
+translate russian bree_request_fb113fa5:
     bree.say "Но... но она твоя СЕСТРА!"
-
-# ch/harems/home/events/home_harem_minami.rpy:728
-translate russian bree_request_8fbbbb55:
-    mike.say "Приёмная сестра, [lssb_homeminami.bree_name()]. По-моему, это ОЧЕНЬ важно помнить!"
 
 # ch/harems/home/events/home_harem_minami.rpy:729
 translate russian bree_request_0675e402:
@@ -1149,7 +1085,7 @@ translate russian bree_request_95041118:
     "А потом её глаза расширяются от ужаса."
 
 # ch/harems/home/events/home_harem_minami.rpy:733
-translate russian bree_request_538a2767:
+translate russian bree_request_a0b40c03:
     bree.say "Ты говоришь так... будто вы двое уже..."
 
 # ch/harems/home/events/home_harem_minami.rpy:734
@@ -1165,12 +1101,8 @@ translate russian bree_request_a256c46a:
     "И она довольно быстро приходит к единственному логичному выводу."
 
 # ch/harems/home/events/home_harem_minami.rpy:739
-translate russian bree_request_bf8893e3:
+translate russian bree_request_b8fc8c3b:
     bree.say "Ты... ты и... Минами?!"
-
-# ch/harems/home/events/home_harem_minami.rpy:740
-translate russian bree_request_f66cb98b:
-    mike.say "Да, [lssb_homeminami.bree_name()], примерно так."
 
 # ch/harems/home/events/home_harem_minami.rpy:741
 translate russian bree_request_90654d24:
@@ -1209,7 +1141,7 @@ translate russian bree_request_3dedb937:
     bree.say "Но я очень старалась принять всё это."
 
 # ch/harems/home/events/home_harem_minami.rpy:753
-translate russian bree_request_45c5d505:
+translate russian bree_request_22c2c395:
     bree.say "И... по-моему, между нами что-то особенное."
 
 # ch/harems/home/events/home_harem_minami.rpy:754
@@ -1223,10 +1155,6 @@ translate russian bree_request_17106ce7:
 # ch/harems/home/events/home_harem_minami.rpy:756
 translate russian bree_request_5899666a:
     "Но, может, это всё-таки для неё слишком."
-
-# ch/harems/home/events/home_harem_minami.rpy:757
-translate russian bree_request_93d1021f:
-    mike.say "Ладно, [lssb_homeminami.bree_name()], я тебя понимаю."
 
 # ch/harems/home/events/home_harem_minami.rpy:758
 translate russian bree_request_8c8c5df9:
@@ -1257,7 +1185,7 @@ translate russian bree_request_dbd4e0da:
     bree.say "Дело не в этом..."
 
 # ch/harems/home/events/home_harem_minami.rpy:771
-translate russian bree_request_bc170e2e:
+translate russian bree_request_e409ac3e:
     bree.say "Меня... вообще-то... эта мысль немного возбуждает!"
 
 # ch/harems/home/events/home_harem_minami.rpy:772
@@ -1265,7 +1193,7 @@ translate russian bree_request_65d61b2e:
     "Не сразу до меня доходит, что говорит [lssb_homeminami.bree_name()]."
 
 # ch/harems/home/events/home_harem_minami.rpy:773
-translate russian bree_request_a47cdc8e:
+translate russian bree_request_19c4483b:
     mike.say "Тебя... ПРАВДА?!"
 
 # ch/harems/home/events/home_harem_minami.rpy:775
@@ -1305,7 +1233,7 @@ translate russian bree_request_e8af75ba:
     "Мне остаётся лишь изумлённо покачать головой."
 
 # ch/harems/home/events/home_harem_minami.rpy:784
-translate russian bree_request_0895c62a:
+translate russian bree_request_86025556:
     mike.say "То есть... ты согласна?"
 
 # ch/harems/home/events/home_harem_minami.rpy:785
@@ -1365,7 +1293,7 @@ translate russian bree_convince_sasha_de199454:
     "Похоже, её застало врасплох, что та сразу перешла к делу."
 
 # ch/harems/home/events/home_harem_minami.rpy:819
-translate russian bree_convince_sasha_32773911:
+translate russian bree_convince_sasha_425ee4df:
     bree.say "Ну... да, насчёт неё."
 
 # ch/harems/home/events/home_harem_minami.rpy:821
@@ -1421,7 +1349,7 @@ translate russian bree_convince_sasha_9ebb784e:
     "Признаюсь, это совсем не похоже на её обычную беззаботную болтовню."
 
 # ch/harems/home/events/home_harem_minami.rpy:835
-translate russian bree_convince_sasha_d93a0874:
+translate russian bree_convince_sasha_d4763547:
     sasha.say "Что... что это должно значить?"
 
 # ch/harems/home/events/home_harem_minami.rpy:837
@@ -1453,7 +1381,7 @@ translate russian bree_convince_sasha_246ddfbb:
     bree.say "Играешь на гитаре в рок-группе, всё время носишь чёрное и ТАКАЯ затейница в постели!"
 
 # ch/harems/home/events/home_harem_minami.rpy:847
-translate russian bree_convince_sasha_e3741bc6:
+translate russian bree_convince_sasha_07ff4e73:
     bree.say "И... я бы не набралась смелости признать, что [lssb_common.hero_name()] И ты — мои партнёры."
 
 # ch/harems/home/events/home_harem_minami.rpy:848
@@ -1489,7 +1417,7 @@ translate russian bree_convince_sasha_191d9779:
     "Ей приходится переваривать всё, что на неё только что вывалили."
 
 # ch/harems/home/events/home_harem_minami.rpy:858
-translate russian bree_convince_sasha_aa7ec357:
+translate russian bree_convince_sasha_545b115a:
     sasha.say "Д... дело не в этом, [lssb_homeminami.bree_name()]."
 
 # ch/harems/home/events/home_harem_minami.rpy:859
@@ -1497,7 +1425,7 @@ translate russian bree_convince_sasha_b66b5f3c:
     sasha.say "Это вопрос принципа, понимаешь?"
 
 # ch/harems/home/events/home_harem_minami.rpy:860
-translate russian bree_convince_sasha_9ab3666f:
+translate russian bree_convince_sasha_183c8c2f:
     bree.say "А... чего?"
 
 # ch/harems/home/events/home_harem_minami.rpy:861
@@ -1537,7 +1465,7 @@ translate russian bree_convince_sasha_d8046c7d:
     bree.say "Потому что, знаешь, Саша, мы ведь можем создать другое трио, без тебя..."
 
 # ch/harems/home/events/home_harem_minami.rpy:873
-translate russian bree_convince_sasha_932ed343:
+translate russian bree_convince_sasha_568d6550:
     "[lssb_homeminami.bree_name()]... она сейчас действительно ей угрожает?"
 
 # ch/harems/home/events/home_harem_minami.rpy:874
@@ -1545,7 +1473,7 @@ translate russian bree_convince_sasha_cef4b62b:
     "Намекает, что просто заменит Сашу на Минами, если та не согласится?"
 
 # ch/harems/home/events/home_harem_minami.rpy:876
-translate russian bree_convince_sasha_a13cab25:
+translate russian bree_convince_sasha_d184e54f:
     sasha.say "Это... это шантаж, [lssb_homeminami.bree_name()]!"
 
 # ch/harems/home/events/home_harem_minami.rpy:877
@@ -1573,11 +1501,11 @@ translate russian bree_convince_sasha_43a9b3f1:
     "Как и тем, что ей недвусмысленно сказали: её могут заменить Минами."
 
 # ch/harems/home/events/home_harem_minami.rpy:884
-translate russian bree_convince_sasha_0aef12b3:
+translate russian bree_convince_sasha_f3a72010:
     sasha.say "Н... нет... нет... не надо!"
 
 # ch/harems/home/events/home_harem_minami.rpy:886
-translate russian bree_convince_sasha_3b770d02:
+translate russian bree_convince_sasha_878b644a:
     sasha.say "Слушай... может, я поспешила, да?"
 
 # ch/harems/home/events/home_harem_minami.rpy:888
@@ -1681,7 +1609,7 @@ translate russian sasha_request_0a146ac7:
     mike.say "Есть минутка?"
 
 # ch/harems/home/events/home_harem_minami.rpy:934
-translate russian sasha_request_da6058ed:
+translate russian sasha_request_11ec261e:
     sasha.say "А... да."
 
 # ch/harems/home/events/home_harem_minami.rpy:936
@@ -1693,7 +1621,7 @@ translate russian sasha_request_3cacf2e1:
     "Ну, была не была..."
 
 # ch/harems/home/events/home_harem_minami.rpy:938
-translate russian sasha_request_8b105a93:
+translate russian sasha_request_08316556:
     mike.say "Я... просто хотел с тобой кое о чём поговорить."
 
 # ch/harems/home/events/home_harem_minami.rpy:939
@@ -1989,7 +1917,7 @@ translate russian sasha_request_49995f8b:
     "Но как-то умудряется представить всё настолько пошло!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1042
-translate russian sasha_request_b562c543:
+translate russian sasha_request_a682d2af:
     mike.say "Я... наверное, можно и так сказать, Саша."
 
 # ch/harems/home/events/home_harem_minami.rpy:1043
@@ -2017,11 +1945,11 @@ translate russian sasha_request_74c8a8f4:
     sasha.say "Но если подумать, это довольно горячо..."
 
 # ch/harems/home/events/home_harem_minami.rpy:1050
-translate russian sasha_request_99b02eb3:
+translate russian sasha_request_f1566913:
     mike.say "П... правда?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1051
-translate russian sasha_request_1f0294f2:
+translate russian sasha_request_76e38175:
     mike.say "То есть да... конечно!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1052
@@ -2085,7 +2013,7 @@ translate russian sasha_convince_bree_84452b02:
     "Лишь произнеся всё это и не получив приветствия в ответ, она заметно мрачнеет."
 
 # ch/harems/home/events/home_harem_minami.rpy:1084
-translate russian sasha_convince_bree_c44754f8:
+translate russian sasha_convince_bree_e6f27ebe:
     bree.say "Эм... что случилось, Саша?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1085
@@ -2101,7 +2029,7 @@ translate russian sasha_convince_bree_0c959dfd:
     sasha.say "Ты прекрасно знаешь, о чём речь."
 
 # ch/harems/home/events/home_harem_minami.rpy:1090
-translate russian sasha_convince_bree_8e57dbfb:
+translate russian sasha_convince_bree_d71dd97b:
     bree.say "Я... знаю?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1092
@@ -2121,7 +2049,7 @@ translate russian sasha_convince_bree_7f1128fa:
     sasha.say "К нам в постель могла бы прыгнуть невинная младшая сестрёнка-японка, [lssb_homeminami.bree_name()]."
 
 # ch/harems/home/events/home_harem_minami.rpy:1098
-translate russian sasha_convince_bree_a1ce3577:
+translate russian sasha_convince_bree_d6a932a9:
     sasha.say "Невинная... японка... младшая сестрёнка!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1099
@@ -2233,7 +2161,7 @@ translate russian sasha_convince_bree_c552dae4:
     "Похоже, чтобы получить желаемое, придётся поддерживать её до конца."
 
 # ch/harems/home/events/home_harem_minami.rpy:1133
-translate russian sasha_convince_bree_6605d8e0:
+translate russian sasha_convince_bree_06c89d42:
     mike.say "Эм... ну..."
 
 # ch/harems/home/events/home_harem_minami.rpy:1134
@@ -2243,10 +2171,6 @@ translate russian sasha_convince_bree_ea196138:
 # ch/harems/home/events/home_harem_minami.rpy:1135
 translate russian sasha_convince_bree_f3fa6879:
     mike.say "Слово «неловко» тут даже близко не передаёт сути..."
-
-# ch/harems/home/events/home_harem_minami.rpy:1136
-translate russian sasha_convince_bree_f47b99eb:
-    mike.say "И без тебя всё было бы совсем не то, [lssb_homeminami.bree_name()]!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1137
 translate russian sasha_convince_bree_53ebe50a:
@@ -2276,10 +2200,6 @@ translate russian sasha_convince_bree_957a84b3:
 translate russian sasha_convince_bree_e58ecd96:
     "Но Саша тычет меня под рёбра, словно предугадав ответ."
 
-# ch/harems/home/events/home_harem_minami.rpy:1146
-translate russian sasha_convince_bree_e32f6983:
-    mike.say "Нет... ни за что, [lssb_homeminami.bree_name()]."
-
 # ch/harems/home/events/home_harem_minami.rpy:1147
 translate russian sasha_convince_bree_8b40557b:
     mike.say "Неважно, сколько нас."
@@ -2293,7 +2213,7 @@ translate russian sasha_convince_bree_f1496b08:
     "[lssb_homeminami.bree_name()] кивает, и улыбка медленно возвращается."
 
 # ch/harems/home/events/home_harem_minami.rpy:1151
-translate russian sasha_convince_bree_8b5f0e4e:
+translate russian sasha_convince_bree_4563faba:
     bree.say "Х... хорошо, [lssb_common.hero_name()]."
 
 # ch/harems/home/events/home_harem_minami.rpy:1152
@@ -2397,11 +2317,11 @@ translate russian samantha_request_58b480d5:
     "Она что, экстрасенс?!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1198
-translate russian samantha_request_869dc127:
+translate russian samantha_request_49e84448:
     mike.say "Ч... что ты имеешь в виду, Кексик?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1200
-translate russian samantha_request_adde6a30:
+translate russian samantha_request_805e9064:
     mike.say "Ч... что ты имеешь в виду, Сэм?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1201
@@ -2409,7 +2329,7 @@ translate russian samantha_request_01239f24:
     mike.say "У меня нет мыслей."
 
 # ch/harems/home/events/home_harem_minami.rpy:1202
-translate russian samantha_request_54385de3:
+translate russian samantha_request_4b4d0075:
     mike.say "То есть... у меня нет ничего такого на уме!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1203
@@ -2521,11 +2441,11 @@ translate russian samantha_request_967310dd:
     samantha.say "И теперь в ужасе?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1237
-translate russian samantha_request_b1087ca2:
+translate russian samantha_request_0cb62544:
     mike.say "Эм... нет, Кексик."
 
 # ch/harems/home/events/home_harem_minami.rpy:1239
-translate russian samantha_request_5ba8c64d:
+translate russian samantha_request_65d47aaf:
     mike.say "Эм... нет, Сэм."
 
 # ch/harems/home/events/home_harem_minami.rpy:1240
@@ -2537,7 +2457,7 @@ translate russian samantha_request_ab900956:
     mike.say "Но с ума из-за этого не сходит."
 
 # ch/harems/home/events/home_harem_minami.rpy:1242
-translate russian samantha_request_bff6a574:
+translate russian samantha_request_88e8a624:
     mike.say "Она... в общем, хочет присоединиться!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1243
@@ -2629,7 +2549,7 @@ translate russian samantha_request_180efe9f:
     samantha.say "Вообще-то это довольно горячо, знаешь?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1274
-translate russian samantha_request_8383fcec:
+translate russian samantha_request_171d6c56:
     mike.say "П... правда?!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1276
@@ -2836,10 +2756,6 @@ translate russian minami_crash_threesome_b83d5f6c:
 translate russian minami_crash_threesome_c6fb1801:
     "Качаю головой и снова прижимаю её к себе."
 
-# ch/harems/home/events/home_harem_minami.rpy:1360
-translate russian minami_crash_threesome_871229e0:
-    mike.say "Эй, [lssb_homeminami.bree_name()], не переживай."
-
 # ch/harems/home/events/home_harem_minami.rpy:1361
 translate russian minami_crash_threesome_e232e3ab:
     mike.say "Уверен, найдём для тебя что-нибудь не хуже!"
@@ -2949,7 +2865,7 @@ translate russian minami_crash_threesome_02690f72:
     "Открываю глаза и резко сажусь; [lssb_homeminami.bree_name()] при этом чуть не слетает с кровати."
 
 # ch/harems/home/events/home_harem_minami.rpy:1404
-translate russian minami_crash_threesome_0a7fe940:
+translate russian minami_crash_threesome_06f65e7c:
     bree.say "А... ой... эй, что такое?!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1406
@@ -2993,7 +2909,7 @@ translate russian minami_crash_threesome_5cda93ff:
     "Ну и на том, что мой член у неё во рту!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1419
-translate russian minami_crash_threesome_9716b615:
+translate russian minami_crash_threesome_f82d8405:
     mike.say "Минами... какого хрена?!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1421
@@ -3025,7 +2941,7 @@ translate russian minami_crash_threesome_4f493eaf:
     sasha.say "Меня не было сколько, минут пять?!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1434
-translate russian minami_crash_threesome_67b0de94:
+translate russian minami_crash_threesome_5e01c83c:
     mike.say "Ты... думаешь, я знал, что это не ты, Саша?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1435
@@ -3045,7 +2961,7 @@ translate russian minami_crash_threesome_711948a8:
     bree.say "Это несправедливо, Саша."
 
 # ch/harems/home/events/home_harem_minami.rpy:1442
-translate russian minami_crash_threesome_fda0d5ac:
+translate russian minami_crash_threesome_0f6ef69d:
     bree.say "[lssb_common.hero_name()] и я... ну, мы всё время целовались."
 
 # ch/harems/home/events/home_harem_minami.rpy:1443
@@ -3069,7 +2985,7 @@ translate russian minami_crash_threesome_c431d968:
     "Уже не выглядит пристыженной и пытается сдержать смех."
 
 # ch/harems/home/events/home_harem_minami.rpy:1449
-translate russian minami_crash_threesome_98878c81:
+translate russian minami_crash_threesome_4ed886e5:
     mike.say "Ч... что такое, Минами?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1451
@@ -3081,7 +2997,7 @@ translate russian minami_crash_threesome_b75f2208:
     "Минами качает головой и наконец настолько успокаивается, чтобы заговорить."
 
 # ch/harems/home/events/home_harem_minami.rpy:1454
-translate russian minami_crash_threesome_ca1a55b8:
+translate russian minami_crash_threesome_8ba5c228:
     minami.say "Это... это вы."
 
 # ch/harems/home/events/home_harem_minami.rpy:1455
@@ -3165,7 +3081,7 @@ translate russian minami_crash_threesome_1faabb26:
     "Но при таких обстоятельствах я решаю не защищать её."
 
 # ch/harems/home/events/home_harem_minami.rpy:1489
-translate russian minami_crash_threesome_d63c51dc:
+translate russian minami_crash_threesome_a5cc21bc:
     bree.say "А... да, понимаю."
 
 # ch/harems/home/events/home_harem_minami.rpy:1491
@@ -3253,11 +3169,11 @@ translate russian minami_crash_threesome_614067ed:
     "И я вижу, что происходящее вдруг начинает её тревожить."
 
 # ch/harems/home/events/home_harem_minami.rpy:1524
-translate russian minami_crash_threesome_4ec528c3:
+translate russian minami_crash_threesome_41222e24:
     minami.say "Эм... конечно, ребята... очень здорово с вашей стороны!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1525
-translate russian minami_crash_threesome_49aa2ac7:
+translate russian minami_crash_threesome_59dc76ca:
     minami.say "Так... что мне делать?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1526
@@ -3421,7 +3337,7 @@ translate russian bj_bree_sasha_minami_intro_29d2108a:
     "Не знаю, что со мной сегодня: что-то заставляет чувствовать себя..."
 
 # ch/harems/home/events/home_harem_minami.rpy:1608
-translate russian bj_bree_sasha_minami_intro_f33a9676:
+translate russian bj_bree_sasha_minami_intro_2bf3ade7:
     "Чувствовать себя... ну, как-то... никак!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1609
@@ -3512,10 +3428,6 @@ translate russian bj_bree_sasha_minami_intro_cd380d42:
 translate russian bj_bree_sasha_minami_intro_2930c811:
     "Но прежде чем я заговорю, появляется и последняя отсутствовавшая обитательница дома."
 
-# ch/harems/home/events/home_harem_minami.rpy:1644
-translate russian bj_bree_sasha_minami_intro_7ab4fd68:
-    minami.say "Привет, [lssb_homeminami.bree_name()]!"
-
 # ch/harems/home/events/home_harem_minami.rpy:1645
 translate russian bj_bree_sasha_minami_intro_0c2909eb:
     minami.say "Привет, Саша!"
@@ -3565,7 +3477,7 @@ translate russian bj_bree_sasha_minami_intro_baf6d2b4:
     sasha.say "Правда?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1663
-translate russian bj_bree_sasha_minami_intro_c0d15d95:
+translate russian bj_bree_sasha_minami_intro_f7ff4619:
     bree.say "О-о... вообще-то смешно!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1665
@@ -3583,10 +3495,6 @@ translate russian bj_bree_sasha_minami_intro_e720a27c:
 # ch/harems/home/events/home_harem_minami.rpy:1668
 translate russian bj_bree_sasha_minami_intro_5775bb05:
     "Минами закатывает глаза и качает головой, забавляясь моими отговорками."
-
-# ch/harems/home/events/home_harem_minami.rpy:1671
-translate russian bj_bree_sasha_minami_intro_3398f938:
-    minami.say "Ой, брось, братик!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1672
 translate russian bj_bree_sasha_minami_intro_2626e784:
@@ -3651,10 +3559,6 @@ translate russian bj_bree_sasha_minami_5e3a7e57:
 # ch/harems/home/events/home_harem_minami.rpy:1706
 translate russian bj_bree_sasha_minami_6087704c:
     "А через мгновение уже хватает мой член!"
-
-# ch/harems/home/events/home_harem_minami.rpy:1710
-translate russian bj_bree_sasha_minami_e19e9e27:
-    minami.say "Не волнуйся, братик."
 
 # ch/harems/home/events/home_harem_minami.rpy:1711
 translate russian bj_bree_sasha_minami_bf6e9f3f:
@@ -3980,10 +3884,6 @@ translate russian bree_minami_sasha_transition_bj_foursome_e2b3c68d:
 translate russian bree_minami_sasha_transition_bj_foursome_bbc6bae7:
     "Но сама ещё не получала ласк."
 
-# ch/harems/home/events/home_harem_minami.rpy:1812
-translate russian bree_minami_sasha_transition_bj_foursome_f288fe55:
-    mike.say "Эй, [lssb_homeminami.bree_name()]?"
-
 # ch/harems/home/events/home_harem_minami.rpy:1814
 translate russian bree_minami_sasha_transition_bj_foursome_5cac775a:
     mike.say "И ты, Саша?"
@@ -4141,7 +4041,7 @@ translate russian bree_minami_sasha_transition_bj_foursome_d299937a:
     sasha.say "Никогда не видели девушку со страпоном?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1870
-translate russian bree_minami_sasha_transition_bj_foursome_508522fc:
+translate russian bree_minami_sasha_transition_bj_foursome_275d7f43:
     minami.say "Она... она будет... этим пользоваться?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1871
@@ -4300,10 +4200,6 @@ translate russian bree_minami_sasha_transition_bj_foursome_f7a99c49:
 translate russian bree_minami_sasha_transition_bj_foursome_eccf55ed:
     "Минами кивает и берёт меня за руку."
 
-# ch/harems/home/events/home_harem_minami.rpy:1922
-translate russian bree_minami_sasha_transition_bj_foursome_94a1ae15:
-    minami.say "Конечно, братик."
-
 # ch/harems/home/events/home_harem_minami.rpy:1923
 translate russian bree_minami_sasha_transition_bj_foursome_7f65f777:
     minami.say "С тобой я в безопасности!"
@@ -4340,12 +4236,8 @@ translate russian bree_minami_threesome_intro_f972f019:
 translate russian bree_minami_threesome_intro_915cdee7:
     minami.say "Эм..."
 
-# ch/harems/home/events/home_harem_minami.rpy:1941
-translate russian bree_minami_threesome_intro_47caf974:
-    minami.say "Что теперь, братик?"
-
 # ch/harems/home/events/home_harem_minami.rpy:1942
-translate russian bree_minami_threesome_intro_1110f1d5:
+translate russian bree_minami_threesome_intro_7a03ab6d:
     minami.say "То есть... с чего начнём?"
 
 # ch/harems/home/events/home_harem_minami.rpy:1943
@@ -4356,12 +4248,8 @@ translate russian bree_minami_threesome_intro_b39058cd:
 translate russian bree_minami_threesome_intro_24e47843:
     mike.say "Для такого ведь нет правил!"
 
-# ch/harems/home/events/home_harem_minami.rpy:1945
-translate russian bree_minami_threesome_intro_877d00bc:
-    mike.say "Правда, [lssb_homeminami.bree_name()]?"
-
 # ch/harems/home/events/home_harem_minami.rpy:1947
-translate russian bree_minami_threesome_intro_822c59af:
+translate russian bree_minami_threesome_intro_2f014b59:
     bree.say "Н... нет, вообще-то!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1949
@@ -4428,10 +4316,6 @@ translate russian bree_minami_threesome_intro_5aa2403d:
 translate russian bree_minami_threesome_intro_5d9c0aae:
     bree.say "Скорее, [lssb_common.hero_name()]!"
 
-# ch/harems/home/events/home_harem_minami.rpy:1975
-translate russian bree_minami_threesome_intro_16d80e52:
-    minami.say "Ага, братик, а то начнём без тебя!"
-
 # ch/harems/home/events/home_harem_minami.rpy:1976
 translate russian bree_minami_threesome_intro_f45adf87:
     "Я качаю головой и стараюсь ещё усерднее."
@@ -4475,10 +4359,6 @@ translate russian bree_minami_threesome_intro_be2cba75:
 # ch/harems/home/events/home_harem_minami.rpy:1991
 translate russian bree_minami_threesome_intro_b1e133ea:
     "И я ахаю, когда она хватает мой член!"
-
-# ch/harems/home/events/home_harem_minami.rpy:1992
-translate russian bree_minami_threesome_intro_6440c202:
-    minami.say "Поймала, [lssb_homeminami.bree_name()]!"
 
 # ch/harems/home/events/home_harem_minami.rpy:1995
 translate russian bree_minami_threesome_intro_7e9efc09:
@@ -4571,10 +4451,6 @@ translate russian bree_minami_threesome_f6181712:
 # ch/harems/home/events/home_harem_minami.rpy:2034
 translate russian bree_minami_threesome_011131ce:
     minami.say "О-о-ох..."
-
-# ch/harems/home/events/home_harem_minami.rpy:2036
-translate russian bree_minami_threesome_a1f86e6a:
-    minami.say "О-о-ох, братик..."
 
 # ch/harems/home/events/home_harem_minami.rpy:2037
 translate russian bree_minami_threesome_29c38600:
@@ -4689,16 +4565,12 @@ translate russian bree_minami_threesome_f6adc6fa:
     "А поскольку рот у неё свободен, она может выразить всё это и голосом."
 
 # ch/harems/home/events/home_harem_minami.rpy:2082
-translate russian bree_minami_threesome_3ae0fe29:
+translate russian bree_minami_threesome_1980e862:
     minami.say "Ах... ах..."
 
 # ch/harems/home/events/home_harem_minami.rpy:2083
-translate russian bree_minami_threesome_9b3a5bc6:
+translate russian bree_minami_threesome_95388534:
     minami.say "Я... я сейчас..."
-
-# ch/harems/home/events/home_harem_minami.rpy:2084
-translate russian bree_minami_threesome_ba957eb7:
-    minami.say "[lssb_homeminami.bree_name()]... ты сейчас доведёшь меня до оргазма!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2085
 translate russian bree_minami_threesome_02d15011:
@@ -4869,16 +4741,12 @@ translate russian bree_minami_threesome_f6adc6fa_1:
     "А поскольку рот у неё свободен, она может выразить всё это и голосом."
 
 # ch/harems/home/events/home_harem_minami.rpy:2157
-translate russian bree_minami_threesome_3ae0fe29_1:
+translate russian bree_minami_threesome_1980e862_1:
     minami.say "Ах... ах..."
 
 # ch/harems/home/events/home_harem_minami.rpy:2158
-translate russian bree_minami_threesome_9b3a5bc6_1:
+translate russian bree_minami_threesome_95388534_1:
     minami.say "Я... я сейчас..."
-
-# ch/harems/home/events/home_harem_minami.rpy:2159
-translate russian bree_minami_threesome_ba957eb7_1:
-    minami.say "[lssb_homeminami.bree_name()]... ты сейчас доведёшь меня до оргазма!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2160
 translate russian bree_minami_threesome_02d15011_1:
@@ -4975,10 +4843,6 @@ translate russian bree_minami_sandwich_adbc8689:
 # ch/harems/home/events/home_harem_minami.rpy:2205
 translate russian bree_minami_sandwich_92a71858:
     mike.say "Иди сюда!"
-
-# ch/harems/home/events/home_harem_minami.rpy:2207
-translate russian bree_minami_sandwich_25802929:
-    minami.say "Л... ладно, братик!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2208
 translate russian bree_minami_sandwich_a374a6b6:
@@ -6109,16 +5973,12 @@ translate russian minami_sasha_threesome_intro_d942f92d:
     "Я бросаю быстрый взгляд на Минами и вижу, что она тоже покраснела."
 
 # ch/harems/home/events/home_harem_minami.rpy:2654
-translate russian minami_sasha_threesome_intro_15af66fd:
+translate russian minami_sasha_threesome_intro_d92fa5a9:
     mike.say "Н... нет, Саша!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2656
 translate russian minami_sasha_threesome_intro_184aec4d:
     mike.say "Я просто беспокоился о Минами, вот и всё!"
-
-# ch/harems/home/events/home_harem_minami.rpy:2658
-translate russian minami_sasha_threesome_intro_1ee85a7c:
-    minami.say "О, спасибо, братик!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2659
 translate russian minami_sasha_threesome_intro_d054e07b:
@@ -6205,7 +6065,7 @@ translate russian minami_sasha_threesome_intro_9e7ed070:
     "Когда мы заканчиваем, на нас наконец ничего не остаётся."
 
 # ch/harems/home/events/home_harem_minami.rpy:2690
-translate russian minami_sasha_threesome_intro_60613d61:
+translate russian minami_sasha_threesome_intro_57635391:
     minami.say "У... ух ты!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2692
@@ -6255,10 +6115,6 @@ translate russian minami_sasha_threesome_intro_5f524884:
 # ch/harems/home/events/home_harem_minami.rpy:2708
 translate russian minami_sasha_threesome_intro_72da2dd5:
     sasha.say "О нет, кто-то ревнует!"
-
-# ch/harems/home/events/home_harem_minami.rpy:2709
-translate russian minami_sasha_threesome_intro_cfac8c03:
-    minami.say "Ты тоже отлично выглядишь, братик!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2711
 translate russian minami_sasha_threesome_intro_ca908ed6:
@@ -6488,12 +6344,8 @@ translate russian minami_sasha_threesome_6e7a6a79:
 translate russian minami_sasha_threesome_f3137a95_1:
     minami.say "Ох..."
 
-# ch/harems/home/events/home_harem_minami.rpy:2800
-translate russian minami_sasha_threesome_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/harems/home/events/home_harem_minami.rpy:2802
-translate russian minami_sasha_threesome_cdbe5377:
+translate russian minami_sasha_threesome_cc8f2937:
     minami.say "Ты такой... такой БОЛЬШОЙ!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2803
@@ -6608,10 +6460,6 @@ translate russian minami_sasha_threesome_f128c380_1:
 translate russian minami_sasha_threesome_c4fd6e6d_1:
     "Награда мне — возможность чувствовать и слышать, как это действует на Сашу."
 
-# ch/harems/home/events/home_harem_minami.rpy:2837
-translate russian minami_sasha_threesome_eb282445:
-    minami.say "А как же я, братик?"
-
 # ch/harems/home/events/home_harem_minami.rpy:2838
 translate russian minami_sasha_threesome_f537a354:
     minami.say "Не забывай обо мне!"
@@ -6644,16 +6492,12 @@ translate russian minami_sasha_threesome_2c684516:
 translate russian minami_sasha_threesome_0183e2cd:
     "Так что удерживать их тоже становится всё труднее!"
 
-# ch/harems/home/events/home_harem_minami.rpy:2848
-translate russian minami_sasha_threesome_ccb41e35:
-    minami.say "Не останавливайся, братик!"
-
 # ch/harems/home/events/home_harem_minami.rpy:2849
-translate russian minami_sasha_threesome_bdb5a7a8:
+translate russian minami_sasha_threesome_317365fd:
     minami.say "Я... я сейчас кончу!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2850
-translate russian minami_sasha_threesome_d02f99ce:
+translate russian minami_sasha_threesome_9ff0a800:
     sasha.say "Ах... я..."
 
 # ch/harems/home/events/home_harem_minami.rpy:2851
@@ -6689,7 +6533,7 @@ translate russian minami_sasha_threesome_307b4676:
     "Она заваливается вперёд, едва не сделав колесо на кровати."
 
 # ch/harems/home/events/home_harem_minami.rpy:2866
-translate russian minami_sasha_threesome_cb07469c:
+translate russian minami_sasha_threesome_2b95e434:
     sasha.say "У... ух!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2867
@@ -6697,12 +6541,8 @@ translate russian minami_sasha_threesome_eb10f8e2:
     "Всё это происходит, пока я наполняю Минами всем, что у меня есть."
 
 # ch/harems/home/events/home_harem_minami.rpy:2868
-translate russian minami_sasha_threesome_3ae0fe29:
+translate russian minami_sasha_threesome_1980e862:
     minami.say "Ах... ах..."
-
-# ch/harems/home/events/home_harem_minami.rpy:2870
-translate russian minami_sasha_threesome_5ffa20f8:
-    minami.say "Ох... ох, братик!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2871
 translate russian minami_sasha_threesome_5e9a46b9:
@@ -6721,7 +6561,7 @@ translate russian minami_sasha_threesome_307b4676_1:
     "Она заваливается вперёд, едва не сделав колесо на кровати."
 
 # ch/harems/home/events/home_harem_minami.rpy:2876
-translate russian minami_sasha_threesome_cb07469c_1:
+translate russian minami_sasha_threesome_2b95e434_1:
     sasha.say "У... ух!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2878
@@ -6735,10 +6575,6 @@ translate russian minami_sasha_threesome_6b990722:
 # ch/harems/home/events/home_harem_minami.rpy:2882
 translate russian minami_sasha_threesome_89f7a72f:
     "Но затем оглядывается на меня через плечо и лукаво хихикает."
-
-# ch/harems/home/events/home_harem_minami.rpy:2883
-translate russian minami_sasha_threesome_f1785d84:
-    minami.say "Ох, братик!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2884
 translate russian minami_sasha_threesome_64a402f2:
@@ -6924,12 +6760,8 @@ translate russian minami_sasha_threesome_c2bbc2e2:
 translate russian minami_sasha_threesome_f3137a95_2:
     minami.say "Ох..."
 
-# ch/harems/home/events/home_harem_minami.rpy:2948
-translate russian minami_sasha_threesome_9e680d55_1:
-    minami.say "Ох, братик..."
-
 # ch/harems/home/events/home_harem_minami.rpy:2949
-translate russian minami_sasha_threesome_cdbe5377_1:
+translate russian minami_sasha_threesome_cc8f2937_1:
     minami.say "Ты такой... такой БОЛЬШОЙ!"
 
 # ch/harems/home/events/home_harem_minami.rpy:2950
@@ -8101,7 +7933,7 @@ translate russian foursome_bree_minami_sasha_intro_d299937a:
     sasha.say "Никогда не видели девушку со страпоном?"
 
 # ch/harems/home/events/home_harem_minami.rpy:3405
-translate russian foursome_bree_minami_sasha_intro_508522fc:
+translate russian foursome_bree_minami_sasha_intro_275d7f43:
     minami.say "Она... она будет... этим пользоваться?"
 
 # ch/harems/home/events/home_harem_minami.rpy:3406
@@ -8284,10 +8116,6 @@ translate russian foursome_bree_minami_sasha_intro_f7a99c49:
 translate russian foursome_bree_minami_sasha_intro_eccf55ed:
     "Минами кивает и берёт меня за руку."
 
-# ch/harems/home/events/home_harem_minami.rpy:3467
-translate russian foursome_bree_minami_sasha_intro_94a1ae15:
-    minami.say "Конечно, братик."
-
 # ch/harems/home/events/home_harem_minami.rpy:3468
 translate russian foursome_bree_minami_sasha_intro_7f65f777:
     minami.say "С тобой я в безопасности!"
@@ -8344,10 +8172,6 @@ translate russian foursome_bree_minami_sasha_1180b2bd:
 translate russian foursome_bree_minami_sasha_f3137a95:
     minami.say "А..."
 
-# ch/harems/home/events/home_harem_minami.rpy:3488
-translate russian foursome_bree_minami_sasha_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/harems/home/events/home_harem_minami.rpy:3489
 translate russian foursome_bree_minami_sasha_df2a02ea:
     minami.say "С тобой внутри так хорошо..."
@@ -8381,12 +8205,8 @@ translate russian foursome_bree_minami_sasha_cb71573b:
     "Затем чувствую, как Минами тянут чуть ниже прежнего."
 
 # ch/harems/home/events/home_harem_minami.rpy:3497
-translate russian foursome_bree_minami_sasha_0e1e51b3:
+translate russian foursome_bree_minami_sasha_b83155fb:
     minami.say "Ах... о нет!"
-
-# ch/harems/home/events/home_harem_minami.rpy:3498
-translate russian foursome_bree_minami_sasha_203d2fe2:
-    minami.say "Братик... она... она суёт его..."
 
 # ch/harems/home/events/home_harem_minami.rpy:3499
 translate russian foursome_bree_minami_sasha_47ca71ad:
@@ -8417,23 +8237,19 @@ translate russian foursome_bree_minami_sasha_0bbcb85c:
     "Мне хочется лишь, чтобы Саша зашла ещё дальше, может, даже до самого конца!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3506
-translate russian foursome_bree_minami_sasha_b44cfd1d:
+translate russian foursome_bree_minami_sasha_3d065fd9:
     mike.say "Всё... всё хорошо, Минами."
 
 # ch/harems/home/events/home_harem_minami.rpy:3507
 translate russian foursome_bree_minami_sasha_d692d4f3:
     mike.say "Поверь, Саша знает, что делает."
 
-# ch/harems/home/events/home_harem_minami.rpy:3508
-translate russian foursome_bree_minami_sasha_94041913:
-    minami.say "Ох... братик..."
-
 # ch/harems/home/events/home_harem_minami.rpy:3509
 translate russian foursome_bree_minami_sasha_e2322c0f:
     minami.say "Я чувствую его внутри!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3510
-translate russian foursome_bree_minami_sasha_7e598853:
+translate russian foursome_bree_minami_sasha_5afffb2c:
     minami.say "Он... ох... ох, чёрт!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3512
@@ -8889,7 +8705,7 @@ translate russian bree_minami_sasha_male_ending_13868bfc:
     "Священник" "Прекрасно. Объявляю вас мужем и жёнами."
 
 # ch/harems/home/events/home_harem_minami.rpy:3669
-translate russian bree_minami_sasha_male_ending_7f9813a4:
+translate russian bree_minami_sasha_male_ending_fe77e486:
     "Священник" "Можете поцеловать... э-э... ну..."
 
 # ch/harems/home/events/home_harem_minami.rpy:3670
@@ -8932,10 +8748,6 @@ translate russian bree_minami_sasha_male_ending_22ad1b32:
 translate russian bree_minami_sasha_male_ending_e8593d15:
     minami.say "Ну, наверное, стоит начать с самого начала."
 
-# ch/harems/home/events/home_harem_minami.rpy:3687
-translate russian bree_minami_sasha_male_ending_e0c535ce:
-    minami.say "Я помню, как впервые увидела братика..."
-
 # ch/harems/home/events/home_harem_minami.rpy:3689
 translate russian bree_minami_sasha_male_ending_e8dc4e01:
     bree.say "Эй, подожди-ка, Минами!"
@@ -8945,7 +8757,7 @@ translate russian bree_minami_sasha_male_ending_ead29123:
     sasha.say "Ага, что это ты делаешь?"
 
 # ch/harems/home/events/home_harem_minami.rpy:3692
-translate russian bree_minami_sasha_male_ending_43e43f34:
+translate russian bree_minami_sasha_male_ending_4e05632a:
     minami.say "Э-э... ничего... совсем ничего!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3693
@@ -8957,16 +8769,12 @@ translate russian bree_minami_sasha_male_ending_e1dc5e0b:
     sasha.say "Ты собиралась всё рассказать без нас, да?!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3695
-translate russian bree_minami_sasha_male_ending_0a39a586:
+translate russian bree_minami_sasha_male_ending_b1e4504a:
     minami.say "Нет... я... ну... пожалуй, немного!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3696
 translate russian bree_minami_sasha_male_ending_2170d76e:
     minami.say "Ну же, девчонки."
-
-# ch/harems/home/events/home_harem_minami.rpy:3697
-translate russian bree_minami_sasha_male_ending_f2021ebb:
-    minami.say "Я ведь знаю братика дольше всех!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3698
 translate russian bree_minami_sasha_male_ending_5b568d7f:
@@ -8979,10 +8787,6 @@ translate russian bree_minami_sasha_male_ending_ab6d3320:
 # ch/harems/home/events/home_harem_minami.rpy:3700
 translate russian bree_minami_sasha_male_ending_dedd56c5:
     sasha.say "А значит, всё делаем вчетвером, ясно?"
-
-# ch/harems/home/events/home_harem_minami.rpy:3701
-translate russian bree_minami_sasha_male_ending_14cbf184:
-    minami.say "А как же братик?"
 
 # ch/harems/home/events/home_harem_minami.rpy:3702
 translate russian bree_minami_sasha_male_ending_c4e0ba71:
@@ -9021,7 +8825,7 @@ translate russian bree_minami_sasha_male_ending_fcd6836d:
     bree.say "Хорошо, Саша."
 
 # ch/harems/home/events/home_harem_minami.rpy:3711
-translate russian bree_minami_sasha_male_ending_051dee5e:
+translate russian bree_minami_sasha_male_ending_be8b9b1e:
     bree.say "Т... ты знаешь, что у тебя сейчас вена на лбу вздулась?"
 
 # ch/harems/home/events/home_harem_minami.rpy:3712
@@ -9068,10 +8872,6 @@ translate russian bree_minami_sasha_male_ending_143acf55:
 translate russian bree_minami_sasha_male_ending_eaef04ff:
     minami.say "Да, конечно."
 
-# ch/harems/home/events/home_harem_minami.rpy:3723
-translate russian bree_minami_sasha_male_ending_3794d233:
-    minami.say "Как когда мы с братиком росли вместе."
-
 # ch/harems/home/events/home_harem_minami.rpy:3724
 translate russian bree_minami_sasha_male_ending_2d498ce3:
     minami.say "Мы, конечно, часто ссорились, зато очень хорошо узнали друг друга."
@@ -9113,7 +8913,7 @@ translate russian bree_minami_sasha_male_ending_ec0dafc4:
     sasha.say "Хотя здесь уже становится тесновато..."
 
 # ch/harems/home/events/home_harem_minami.rpy:3735
-translate russian bree_minami_sasha_male_ending_32b5dcf1:
+translate russian bree_minami_sasha_male_ending_06dacf17:
     bree.say "Хм... Мы общими усилиями превратили это место в коммуну!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3736
@@ -9124,10 +8924,6 @@ translate russian bree_minami_sasha_male_ending_64ae5242:
 translate russian bree_minami_sasha_male_ending_4ac65dd2:
     sasha.say "Не надо быть таким чертовски плодовитым!"
 
-# ch/harems/home/events/home_harem_minami.rpy:3738
-translate russian bree_minami_sasha_male_ending_b1a4ffff:
-    minami.say "Ох, братик ведь хотел купить спортивную машину."
-
 # ch/harems/home/events/home_harem_minami.rpy:3739
 translate russian bree_minami_sasha_male_ending_cc383bcc:
     minami.say "А пришлось брать минивэн!"
@@ -9137,7 +8933,7 @@ translate russian bree_minami_sasha_male_ending_0a5eb69f:
     bree.say "Ага, и всегда есть шанс, что здесь станет ещё теснее!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3742
-translate russian bree_minami_sasha_male_ending_c56b4231:
+translate russian bree_minami_sasha_male_ending_24cf2cb5:
     minami.say "А?.. Кто ещё к нам переезжает?"
 
 # ch/harems/home/events/home_harem_minami.rpy:3743
@@ -9193,7 +8989,7 @@ translate russian bree_minami_sasha_male_ending_df68178d:
     bree.say "Ну-у, это несправедливо..."
 
 # ch/harems/home/events/home_harem_minami.rpy:3760
-translate russian bree_minami_sasha_male_ending_09b65bd1:
+translate russian bree_minami_sasha_male_ending_4d6240d9:
     bree.say "Нет, погоди... Они ПРАВДА воняют!"
 
 # ch/harems/home/events/home_harem_minami.rpy:3761

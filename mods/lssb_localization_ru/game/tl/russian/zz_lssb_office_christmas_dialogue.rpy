@@ -57,7 +57,7 @@ translate russian office_christmas_intro_7088a355:
     "Когда все собираются передо мной, видимо, наступает моя очередь говорить."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:104
-translate russian office_christmas_intro_75c936a5:
+translate russian office_christmas_intro_94eb0ec7:
     mike.say "А... здравствуйте..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:105
@@ -89,7 +89,7 @@ translate russian office_christmas_intro_b1bed9e5:
     "Их не за что винить: на их месте я подумал бы то же самое!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:115
-translate russian office_christmas_intro_967bf65f:
+translate russian office_christmas_intro_f5edf2ea:
     mike.say "Эм... закроем пораньше, потому что устроим рождественский корпоратив!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:119
@@ -481,11 +481,11 @@ translate russian office_christmas_arrival_a3576c8f:
     "И тут я понимаю, что нарядиться потрудился только я!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:307
-translate russian office_christmas_arrival_130ce965:
+translate russian office_christmas_arrival_3e6a5e21:
     audrey.say "О... мой... бог!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:308
-translate russian office_christmas_arrival_65020f8a:
+translate russian office_christmas_arrival_4b64c713:
     lavish.say "Ха-ха... привет, Санта!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:309
@@ -573,7 +573,7 @@ translate russian office_christmas_arrival_88b4259d:
     lavish.say "С Рождеством!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:337
-translate russian office_christmas_arrival_1d0ba991:
+translate russian office_christmas_arrival_04da163d:
     shiori.say "Мне... мне очень нравится твой костюм, [lssb_common.hero_name()]!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:338
@@ -629,7 +629,7 @@ translate russian office_christmas_arrival_65cd5d8b:
     "Но, может, кому-то из коллег пришла в голову та же идея."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:353
-translate russian office_christmas_arrival_eb6eb24e:
+translate russian office_christmas_arrival_527fc1d6:
     "А если нет... что ж, по крайней мере, не я тут рождественский ворчун!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:355
@@ -649,11 +649,11 @@ translate russian office_christmas_arrival_a3576c8f_1:
     "И тут я понимаю, что нарядиться потрудился только я!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:363
-translate russian office_christmas_arrival_130ce965_1:
+translate russian office_christmas_arrival_3e6a5e21_1:
     audrey.say "О... мой... бог!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:364
-translate russian office_christmas_arrival_65020f8a_1:
+translate russian office_christmas_arrival_4b64c713_1:
     lavish.say "Ха-ха... привет, Санта!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:365
@@ -712,10 +712,6 @@ translate russian office_christmas_arrival_348cce4b:
 translate russian office_christmas_arrival_c0ab031a:
     dwayne.say "Ты ведь у нас такой, понимаешь?"
 
-# ch/harems_full/office/events/office_christmas_party.rpy:387
-translate russian office_christmas_arrival_0b015452:
-    "Дуэйн обхватывает меня за плечи своей огромной рукой." with hpunch
-
 # ch/harems_full/office/events/office_christmas_party.rpy:388
 translate russian office_christmas_arrival_5c672789:
     "Клянусь, я чувствую, как под этим нажимом сжимаются кости и сухожилия."
@@ -733,7 +729,7 @@ translate russian office_christmas_arrival_6f3ddfcc:
     dwayne.say "А тебе, [lssb_common.hero_name()], в этом плане терять нечего!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:393
-translate russian office_christmas_arrival_8a8bc391:
+translate russian office_christmas_arrival_60187aa7:
     mike.say "Спасибо... наверное?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:394
@@ -773,7 +769,7 @@ translate russian office_christmas_arrival_a41dab97:
     "Может, он и не заслуживает, чтобы о нём заботились?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:404
-translate russian office_christmas_arrival_33b894b6:
+translate russian office_christmas_arrival_1e8a2222:
     "Ах... хватит думать об этом козле!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:405
@@ -1141,7 +1137,7 @@ translate russian office_christmas_dancing_3364bee6:
     "А потом показывает на себя."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:558
-translate russian office_christmas_dancing_a73cecfa:
+translate russian office_christmas_dancing_63171700:
     shiori.say "П-почему ты хочешь танцевать со мной?!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:559
@@ -1293,7 +1289,7 @@ translate russian office_christmas_dancing_dbcb6fea:
     cherie.say "Просто до сих пор мне ни разу не хотелось прийти."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:612
-translate russian office_christmas_dancing_3ed48fbd:
+translate russian office_christmas_dancing_b578c43a:
     cherie.say "А сейчас... ну... мне захотелось выбраться из дома!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:614
@@ -1349,7 +1345,7 @@ translate russian office_christmas_dancing_bb8f933b:
     "Но потом искренне улыбается и хихикает совсем по-девичьи."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:632
-translate russian office_christmas_dancing_e38017c9:
+translate russian office_christmas_dancing_ec80dc9f:
     cherie.say "А знаете... какого чёрта, почему бы и нет!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:633
@@ -1593,7 +1589,7 @@ translate russian office_christmas_antics_f6e4fd72:
     "Она явно не ожидала, что я поймаю её на слове!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:740
-translate russian office_christmas_antics_24ec79d7:
+translate russian office_christmas_antics_68dd23b1:
     audrey.say "Ч-что?!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:741
@@ -1869,7 +1865,7 @@ translate russian office_christmas_antics_f0472dd0:
     "Она растерянно качает головой."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:853
-translate russian office_christmas_antics_bdd36f88:
+translate russian office_christmas_antics_cfc7a2c2:
     lavish.say "П-почему я?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:854
@@ -1913,7 +1909,7 @@ translate russian office_christmas_antics_f4fee195:
     "Она сглатывает, пытаясь побороть страх."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:869
-translate russian office_christmas_antics_b8670b2c:
+translate russian office_christmas_antics_7e0130a6:
     lavish.say "Что ж... раз уж ты так ставишь вопрос!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:870
@@ -2025,7 +2021,7 @@ translate russian office_christmas_antics_3eab221e:
     "Она смотрит по сторонам, надеясь найти выход."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:918
-translate russian office_christmas_antics_7b03d31d:
+translate russian office_christmas_antics_9254b3b7:
     shiori.say "П-пожалуйста, [lssb_common.hero_name()]..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:919
@@ -2077,7 +2073,7 @@ translate russian office_christmas_antics_6cd0e872:
     "В любом другом месте на свете."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:939
-translate russian office_christmas_antics_21c693b3:
+translate russian office_christmas_antics_fdd409a1:
     shiori.say "Д-да, [lssb_common.hero_name()]."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:940
@@ -2401,7 +2397,7 @@ translate russian office_christmas_mistletoe_kiss_2598e5f4:
     mike.say "Есть ведь такая традиция, правда?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1087
-translate russian office_christmas_mistletoe_kiss_987d7dc1:
+translate russian office_christmas_mistletoe_kiss_f302b4e9:
     mike.say "Ну... в это время года?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1088
@@ -2617,7 +2613,7 @@ translate russian office_christmas_mistletoe_kiss_2cc85820:
     lavish.say "Просишь у меня рождественский поцелуй, [lssb_common.hero_name()]?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1164
-translate russian office_christmas_mistletoe_kiss_6da90f37:
+translate russian office_christmas_mistletoe_kiss_ae387494:
     mike.say "Д-да, Лавиш."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1165
@@ -2829,7 +2825,7 @@ translate russian office_christmas_mistletoe_kiss_dc1e16d0:
     cherie.say "Омела!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1239
-translate russian office_christmas_mistletoe_kiss_d058b8d6:
+translate russian office_christmas_mistletoe_kiss_53444f76:
     mike.say "И... ну..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1240
@@ -2901,7 +2897,7 @@ translate russian office_christmas_mistletoe_kiss_f169d7c6:
     cherie.say "Ох..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1268
-translate russian office_christmas_mistletoe_kiss_295ae857:
+translate russian office_christmas_mistletoe_kiss_1d526cd1:
     cherie.say "Ничего себе... кажется, я немного увлеклась!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1269
@@ -3229,7 +3225,7 @@ translate russian office_christmas_dwayne_antics_c9ebd334:
     mike.say "Можем пойти и..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1388
-translate russian office_christmas_dwayne_antics_3ae78214:
+translate russian office_christmas_dwayne_antics_1224be2a:
     mike.say "О... здравствуйте, Дуэйн!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1390
@@ -3241,7 +3237,7 @@ translate russian office_christmas_dwayne_antics_1ba18dc4:
     "К счастью, Одри соображает быстрее."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1392
-translate russian office_christmas_dwayne_antics_3fced8f8:
+translate russian office_christmas_dwayne_antics_1eeb0f82:
     audrey.say "А... а, да!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1393
@@ -3297,7 +3293,7 @@ translate russian office_christmas_dwayne_antics_f1e5e910:
     audrey.say "На самом деле свободной кладовки нет, да?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1411
-translate russian office_christmas_dwayne_antics_cdd3acae:
+translate russian office_christmas_dwayne_antics_c341aa6b:
     mike.say "Эм... нет."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1412
@@ -3445,7 +3441,7 @@ translate russian office_christmas_dwayne_antics_7e74f3cd:
     "К счастью, Лавиш соображает быстрее."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1460
-translate russian office_christmas_dwayne_antics_e3a166fa:
+translate russian office_christmas_dwayne_antics_fba75e1f:
     lavish.say "А... а, да!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1461
@@ -3481,7 +3477,7 @@ translate russian office_christmas_dwayne_antics_2891a37c:
     "Дуэйн кивает, словно мгновенно протрезвев."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1469
-translate russian office_christmas_dwayne_antics_dc5a956a:
+translate russian office_christmas_dwayne_antics_6fb5c8a7:
     dwayne.say "Д-да, конечно!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1470
@@ -3573,7 +3569,7 @@ translate russian office_christmas_dwayne_antics_825fbc56:
     "А она слишком напугана, чтобы повернуться к нему спиной и сбежать."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1504
-translate russian office_christmas_dwayne_antics_f35bf32b:
+translate russian office_christmas_dwayne_antics_e2f5b8e3:
     shiori.say "Ч-чего вы хотите, мистер Джексон?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1505
@@ -3657,7 +3653,7 @@ translate russian office_christmas_dwayne_antics_53c5b392:
     "К счастью, Сиори соображает быстрее."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1530
-translate russian office_christmas_dwayne_antics_f7f07fde:
+translate russian office_christmas_dwayne_antics_b06e6a31:
     shiori.say "А... а, да-да, с ним такое бывает!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1531
@@ -3701,7 +3697,7 @@ translate russian office_christmas_dwayne_antics_2f20c361:
     "Серьёзно, вид у него неважный!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1542
-translate russian office_christmas_dwayne_antics_c08f0278:
+translate russian office_christmas_dwayne_antics_8d0fde37:
     dwayne.say "А... да..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1543
@@ -4009,7 +4005,7 @@ translate russian office_christmas_sex_1d203fae:
     aletta.say "Трахай меня так, [lssb_common.hero_name()]!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1683
-translate russian office_christmas_sex_c49bfd0f:
+translate russian office_christmas_sex_0be6e625:
     aletta.say "Доведи меня до оргазма... пожалуйста!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1684
@@ -4613,7 +4609,7 @@ translate russian office_christmas_sex_978ea959:
     lavish.say "Таким оно бывает, когда нужно вести себя профессионально."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1975
-translate russian office_christmas_sex_0aff895a:
+translate russian office_christmas_sex_d0081d47:
     lavish.say "А вот так... так я выгляжу, когда хочу удовольствия!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:1977
@@ -4929,7 +4925,7 @@ translate russian office_christmas_sex_68e29c4b:
     mike.say "О чём ты вообще говоришь?!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2075
-translate russian office_christmas_sex_8581e61f:
+translate russian office_christmas_sex_08fc948a:
     shiori.say "Я... я подумала..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2076
@@ -4945,7 +4941,7 @@ translate russian office_christmas_sex_d589a41d:
     mike.say "Боже, нет!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2079
-translate russian office_christmas_sex_4aac57f9:
+translate russian office_christmas_sex_5b20d53a:
     mike.say "Сиори... нет!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2080
@@ -5053,7 +5049,7 @@ translate russian office_christmas_sex_62e63a86:
     shiori.say "Ах..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2111
-translate russian office_christmas_sex_7aac2d05:
+translate russian office_christmas_sex_a6d8b8ee:
     shiori.say "Да... да..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2112
@@ -5225,7 +5221,7 @@ translate russian office_christmas_sex_d3c39b4b:
     "Кэссиди открывает дверь, заталкивает меня в пустой кабинет и закрывает за нами."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2174
-translate russian office_christmas_sex_721d7371:
+translate russian office_christmas_sex_0ace9940:
     mike.say "А... что такое, Кэссиди?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2175
@@ -5521,7 +5517,7 @@ translate russian office_christmas_sex_0af43b1a:
     cassidy.say "Сделай мне подарок на Рождество, [lssb_common.hero_name()]..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2285
-translate russian office_christmas_sex_3ed654df:
+translate russian office_christmas_sex_9503f24b:
     cassidy.say "Кончи... мне... в задницу!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2286
@@ -5641,7 +5637,7 @@ translate russian office_christmas_sex_96da6f22:
     mike.say "Пойдёмте туда, где никого нет, и там поговорим, хорошо?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2335
-translate russian office_christmas_sex_166477a2:
+translate russian office_christmas_sex_9b882661:
     cherie.say "О-о... звучит заманчиво!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2336
@@ -5693,7 +5689,7 @@ translate russian office_christmas_sex_d8d8ce3c:
     cherie.say "И, кажется, самую малость опьянела!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2351
-translate russian office_christmas_sex_718b2188:
+translate russian office_christmas_sex_9e604cb8:
     cherie.say "Вы... вы собираетесь этим воспользоваться?!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2353
@@ -5725,7 +5721,7 @@ translate russian office_christmas_sex_18688293:
     "Потому что она с силой прижимается задом к моему паху и трётся об него."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2361
-translate russian office_christmas_sex_8314d64d:
+translate russian office_christmas_sex_00ab4823:
     cherie.say "Я... я хочу, чтобы мной воспользовались..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2362
@@ -5777,7 +5773,7 @@ translate russian office_christmas_sex_2d4da954:
     "А теперь я будто наконец выпускаю его на охоту!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2377
-translate russian office_christmas_sex_cded42ee:
+translate russian office_christmas_sex_dd836ad8:
     "Эм... пожалуй, слишком хищное сравнение..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2378
@@ -5829,11 +5825,11 @@ translate russian office_christmas_sex_f2023b45:
     cherie.say "Ох, [lssb_common.hero_name()]..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2396
-translate russian office_christmas_sex_e0ce5d66:
+translate russian office_christmas_sex_4f9c612c:
     cherie.say "Ваш член... с ним так хорошо..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2397
-translate russian office_christmas_sex_a74b344b:
+translate russian office_christmas_sex_f4e6ce7a:
     cherie.say "Трахните меня... пожалуйста?"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2399
@@ -5857,7 +5853,7 @@ translate russian office_christmas_sex_727d0164:
     cherie.say "Ох, да, блядь..."
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2407
-translate russian office_christmas_sex_acbfe408:
+translate russian office_christmas_sex_405e71d1:
     cherie.say "Сильнее... трахайте меня сильнее!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2408
@@ -6813,7 +6809,7 @@ translate russian office_christmas_dwayne_sex_37ae3587:
     "Да ещё когда её трахают чуть ли не до потери сознания!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2795
-translate russian office_christmas_dwayne_sex_7eb8dda3:
+translate russian office_christmas_dwayne_sex_041e7790:
     "Этого более чем достаточно, чтобы у меня встал и участился пульс!"
 
 # ch/harems_full/office/events/office_christmas_party.rpy:2799

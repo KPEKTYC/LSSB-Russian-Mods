@@ -145,7 +145,7 @@ translate russian minami_couch_fun_c4adb4d8:
     "Но это куда менее интересно, чем возможность увидеть, как она гладит свою киску!"
 
 # ch/minami/base.rpy:159
-translate russian minami_couch_fun_9542e606:
+translate russian minami_couch_fun_e247ecec:
     "Ого... погоди-ка."
 
 # ch/minami/base.rpy:160
@@ -513,7 +513,7 @@ translate russian minami_masturbation_967fd3b7:
     "Втирает куда-то крем?"
 
 # ch/minami/base.rpy:284
-translate russian minami_masturbation_8d4257b3:
+translate russian minami_masturbation_67282201:
     "Или она на самом деле... мастурбирует?!"
 
 # ch/minami/base.rpy:286
@@ -549,7 +549,7 @@ translate russian minami_masturbation_8a030b3c:
     minami.say "Я так долго этого ждала..."
 
 # ch/minami/base.rpy:295
-translate russian minami_masturbation_42c57ef2:
+translate russian minami_masturbation_debeb95d:
     minami.say "А ты такой... большой!"
 
 # ch/minami/base.rpy:296
@@ -563,10 +563,6 @@ translate russian minami_masturbation_a49ae374:
 # ch/minami/base.rpy:298
 translate russian minami_masturbation_799e5a7b:
     "Хуже того, я знаю, что член уже твёрдый как камень под шортами."
-
-# ch/minami/base.rpy:299
-translate russian minami_masturbation_9e680d55:
-    minami.say "Ох, братик..."
 
 # ch/minami/base.rpy:300
 translate russian minami_masturbation_aa443bfc:
@@ -605,7 +601,7 @@ translate russian minami_masturbation_8a030b3c_1:
     minami.say "Я так долго этого ждала..."
 
 # ch/minami/base.rpy:312
-translate russian minami_masturbation_42c57ef2_1:
+translate russian minami_masturbation_debeb95d_1:
     minami.say "А ты такой... большой!"
 
 # ch/minami/base.rpy:313
@@ -619,10 +615,6 @@ translate russian minami_masturbation_a49ae374_1:
 # ch/minami/base.rpy:317
 translate russian minami_masturbation_799e5a7b_1:
     "Хуже того, я знаю, что член уже твёрдый как камень под шортами."
-
-# ch/minami/base.rpy:320
-translate russian minami_masturbation_9e680d55_1:
-    minami.say "Ох, братик..."
 
 # ch/minami/base.rpy:321
 translate russian minami_masturbation_aa443bfc_1:
@@ -772,10 +764,6 @@ translate russian minami_porn_bad_reaction_4efefa8b:
 translate russian minami_greet_6ce63492:
     minami.say "Привет, [lssb_minami.hero_name()]."
 
-# ch/minami/base.rpy:444
-translate russian minami_greet_f006afd1:
-    minami.say "Привет, братик."
-
 # ch/minami/base.rpy:446
 translate russian minami_greet_eab9d1f4:
     minami.say "Привет, [lssb_minami.hero_name()]."
@@ -784,29 +772,13 @@ translate russian minami_greet_eab9d1f4:
 translate russian minami_greet_4b7822ea:
     minami.say "Доброе утро, [lssb_minami.hero_name()]."
 
-# ch/minami/base.rpy:452
-translate russian minami_greet_c7b66835:
-    minami.say "Доброе утро, братик."
-
 # ch/minami/base.rpy:455
 translate russian minami_greet_c56a2d5f:
     minami.say "Добрый день, [lssb_minami.hero_name()]."
 
-# ch/minami/base.rpy:457
-translate russian minami_greet_f29b8823:
-    minami.say "Добрый день, братик."
-
 # ch/minami/base.rpy:460
 translate russian minami_greet_7fff9143:
     minami.say "Добрый вечер, [lssb_minami.hero_name()]."
-
-# ch/minami/base.rpy:462
-translate russian minami_greet_1398b6c3:
-    minami.say "Добрый вечер, братик."
-
-# ch/minami/base.rpy:466
-translate russian minami_greet_25da0531:
-    minami.say "Братик, хочешь нарушить запрет и заодно довести меня до оргазма?"
 
 # ch/minami/base.rpy:468
 translate russian minami_greet_080eb4c0:
@@ -944,10 +916,6 @@ translate russian minami_sleep_date_fuck_e2f8a65b:
 translate russian minami_sleep_date_fuck_361860ae:
     minami.say "[lssb_minami.hero_name()], можно я... Можно остаться на ночь, пожалуйста?"
 
-# ch/minami/base.rpy:551
-translate russian minami_sleep_date_fuck_60a5cb0a:
-    minami.say "Братик, можно я... Можно остаться на ночь, пожалуйста?"
-
 # ch/minami/base.rpy:554
 translate russian minami_sleep_date_fuck_f3b1ae81:
     mike.say "Нет, не стоит. Мне завтра рано вставать."
@@ -1032,10 +1000,6 @@ translate russian minami_sleep_date_fuck_b54fa3a3:
 translate russian minami_sleep_date_fuck_8c1758c3:
     mike.say "И тебе, моя милая маленькая рабыня."
 
-# ch/minami/base.rpy:586
-translate russian minami_sleep_date_fuck_a6760069:
-    minami.say "Спокойной ночи, братик."
-
 # ch/minami/base.rpy:587
 translate russian minami_sleep_date_fuck_585723e9:
     mike.say "И тебе."
@@ -1079,10 +1043,6 @@ translate russian minami_propose_male_796a7461:
 # ch/minami/base.rpy:604
 translate russian minami_propose_male_379f6bac:
     mike.say "Угу..."
-
-# ch/minami/base.rpy:606
-translate russian minami_propose_male_4d770cf6:
-    minami.say "Представляешь, братик?!"
 
 # ch/minami/base.rpy:607
 translate russian minami_propose_male_e9b3b5cf:
@@ -1200,10 +1160,6 @@ translate russian minami_propose_male_c4956938:
 translate russian minami_propose_male_dbcedb73:
     "И ещё до её ответа догадываюсь, что услышу."
 
-# ch/minami/base.rpy:639
-translate russian minami_propose_male_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/minami/base.rpy:640
 translate russian minami_propose_male_ba1790f6:
     minami.say "Зачем ты спрашиваешь об этом сейчас, а?"
@@ -1220,10 +1176,6 @@ translate russian minami_propose_male_451e1a66:
 translate russian minami_propose_male_243b915c:
     mike.say "Разве может быть время лучше?"
 
-# ch/minami/base.rpy:644
-translate russian minami_propose_male_a63132b8:
-    minami.say "Нет, братик, ни за что."
-
 # ch/minami/base.rpy:645
 translate russian minami_propose_male_88b86fa5:
     minami.say "Не после того, что с нами сделали мама и папа."
@@ -1237,7 +1189,7 @@ translate russian minami_propose_male_b68e022d:
     "Я всё ещё качаю головой, пытаясь возразить."
 
 # ch/minami/base.rpy:648
-translate russian minami_propose_male_eaf82a73:
+translate russian minami_propose_male_4184350e:
     mike.say "Н... не если мы решим это сами."
 
 # ch/minami/base.rpy:649
@@ -1251,10 +1203,6 @@ translate russian minami_propose_male_04c7c8b8:
 # ch/minami/base.rpy:652
 translate russian minami_propose_male_2b30d2d9:
     "И она режет меня как ножом."
-
-# ch/minami/base.rpy:653
-translate russian minami_propose_male_6bfc7b2a:
-    minami.say "Прости, братик."
 
 # ch/minami/base.rpy:654
 translate russian minami_propose_male_c5cdcb80:
@@ -1292,10 +1240,6 @@ translate russian minami_propose_male_6c0cb346:
 translate russian minami_propose_male_de22ee5d:
     "А потом и вовсе начинает прыгать на месте!"
 
-# ch/minami/base.rpy:667
-translate russian minami_propose_male_9e680d55_1:
-    minami.say "Ох, братик..."
-
 # ch/minami/base.rpy:668
 translate russian minami_propose_male_35f9e1c7:
     minami.say "Ты правда серьёзно?!"
@@ -1321,16 +1265,12 @@ translate russian minami_propose_male_dc24bb0d:
     mike.say "Я люблю тебя и хочу на тебе жениться."
 
 # ch/minami/base.rpy:674
-translate russian minami_propose_male_c95b10d6:
+translate russian minami_propose_male_6270d19b:
     mike.say "Ну... если ты тоже хочешь выйти за меня?"
 
 # ch/minami/base.rpy:676
 translate russian minami_propose_male_50667c9f:
     minami.say "Что, ты с ума сошёл?!"
-
-# ch/minami/base.rpy:677
-translate russian minami_propose_male_4a8ef123:
-    minami.say "Конечно хочу, братик!"
 
 # ch/minami/base.rpy:678
 translate russian minami_propose_male_ca246670:
@@ -1365,7 +1305,7 @@ translate russian minami_propose_male_ff7f5f6e:
     "Я прерываю поцелуй и, тяжело дыша, снова задаю вопрос."
 
 # ch/minami/base.rpy:690
-translate russian minami_propose_male_f1b5eff6:
+translate russian minami_propose_male_0828be91:
     mike.say "Т... так... ты выйдешь?"
 
 # ch/minami/base.rpy:691
@@ -1387,10 +1327,6 @@ translate russian minami_propose_male_44d659e9:
 # ch/minami/chat.rpy:2
 translate russian minami_desire_0_male_a9fd5890:
     minami.say "Я так рада, что смогла переехать сюда, а не в общежитие ко всем тем странным парням."
-
-# ch/minami/chat.rpy:3
-translate russian minami_desire_0_male_64c34e22:
-    minami.say "Ты единственный странный парень, рядом с которым я хочу быть, братик!"
 
 # ch/minami/chat.rpy:5
 translate russian minami_desire_0_male_622a9723:
@@ -1513,16 +1449,12 @@ translate russian minami_desire_1_male_6f248048:
     mike.say "Минами, ты даже НЕ представляешь!"
 
 # ch/minami/chat.rpy:57
-translate russian minami_desire_1_male_88dca2a0:
+translate russian minami_desire_1_male_d582e9bd:
     mike.say "Эм... Я смотрю телевизор... Много?"
 
 # ch/minami/chat.rpy:59
-translate russian minami_desire_1_male_e6eea522:
+translate russian minami_desire_1_male_29e432d5:
     mike.say "Эм... Мы иногда играем в настольные игры, если ты об этом?"
-
-# ch/minami/chat.rpy:64
-translate russian minami_desire_2_male_1af7f405:
-    minami.say "Братик..."
 
 # ch/minami/chat.rpy:66
 translate russian minami_desire_2_male_12ae7f89:
@@ -1577,7 +1509,7 @@ translate russian minami_desire_2_male_9c3a1e1e:
     mike.say "Я не знаю никого милее тебя!"
 
 # ch/minami/chat.rpy:86
-translate russian minami_desire_2_male_ea2cafc8:
+translate russian minami_desire_2_male_aceb26a3:
     mike.say "Я... не знаю, Минами."
 
 # ch/minami/chat.rpy:87
@@ -1597,7 +1529,7 @@ translate russian minami_desire_2_male_1862016d:
     mike.say "Но ей остаётся лишь мечтать быть такой же милой, как ты!"
 
 # ch/minami/chat.rpy:95
-translate russian minami_desire_2_male_ea2cafc8_1:
+translate russian minami_desire_2_male_aceb26a3_1:
     mike.say "Я... не знаю, Минами."
 
 # ch/minami/chat.rpy:96
@@ -1617,7 +1549,7 @@ translate russian minami_desire_2_male_1862016d_1:
     mike.say "Но ей остаётся лишь мечтать быть такой же милой, как ты!"
 
 # ch/minami/chat.rpy:104
-translate russian minami_desire_2_male_ea2cafc8_2:
+translate russian minami_desire_2_male_aceb26a3_2:
     mike.say "Я... не знаю, Минами."
 
 # ch/minami/chat.rpy:105
@@ -1637,40 +1569,24 @@ translate russian minami_desire_2_male_f0f9297f:
     mike.say "Но им обеим остаётся лишь мечтать быть такими же милыми, как ты!"
 
 # ch/minami/chat.rpy:113
-translate russian minami_desire_2_male_ea2cafc8_3:
+translate russian minami_desire_2_male_aceb26a3_3:
     mike.say "Я... не знаю, Минами."
 
 # ch/minami/chat.rpy:114
 translate russian minami_desire_2_male_bb7b7248:
     mike.say "Я не смотрю на них в таком смысле. И на тебя тоже!"
 
-# ch/minami/chat.rpy:120
-translate russian minami_desire_3_male_b1158720:
-    minami.say "Знаю, мы всегда были близки, братик."
-
 # ch/minami/chat.rpy:121
 translate russian minami_desire_3_male_545cdb58:
     minami.say "Но теперь, когда я ношу твоего ребёнка, будто узнаю тебя заново..."
-
-# ch/minami/chat.rpy:123
-translate russian minami_desire_3_male_a3345aa3:
-    minami.say "Знаю, теперь я полностью принадлежу тебе, братик."
 
 # ch/minami/chat.rpy:124
 translate russian minami_desire_3_male_0ace2941:
     minami.say "Но раз мы живём вместе, я хочу узнать все способы доставить тебе удовольствие..."
 
-# ch/minami/chat.rpy:126
-translate russian minami_desire_3_male_b1158720_1:
-    minami.say "Знаю, мы всегда были близки, братик."
-
 # ch/minami/chat.rpy:127
 translate russian minami_desire_3_male_14b11e61:
     minami.say "Но теперь, когда мы живём вместе, хочу заботиться о тебе совсем по-новому..."
-
-# ch/minami/chat.rpy:129
-translate russian minami_desire_3_male_3ba83996:
-    minami.say "Знаю, мы всегда были довольно близки, братик."
 
 # ch/minami/chat.rpy:130
 translate russian minami_desire_3_male_87172c97:
@@ -1728,25 +1644,13 @@ translate russian minami_desire_3_male_474e1e73:
 translate russian minami_desire_3_male_ef1e4d01:
     mike.say "По-моему, мы и так достаточно хорошие друзья, Минами. Разве нет?!"
 
-# ch/minami/chat.rpy:156
-translate russian minami_desire_4_male_c14eaddc:
-    minami.say "Вау, ты сегодня ТАК хорошо выглядишь, братик."
-
 # ch/minami/chat.rpy:157
 translate russian minami_desire_4_male_3a70cab6:
     minami.say "Из-за беременности мне в последнее время хочется ВСЕГО... А сейчас — тебя!"
 
-# ch/minami/chat.rpy:159
-translate russian minami_desire_4_male_c14eaddc_1:
-    minami.say "Вау, ты сегодня ТАК хорошо выглядишь, братик."
-
 # ch/minami/chat.rpy:160
 translate russian minami_desire_4_male_374414d3:
     minami.say "Так и съела бы... Но попробую только с твоего разрешения!"
-
-# ch/minami/chat.rpy:162
-translate russian minami_desire_4_male_d5478263:
-    minami.say "Вау, ты сегодня ТАК хорошо выглядишь, братик."
 
 # ch/minami/chat.rpy:163
 translate russian minami_desire_4_male_47dd6faf:
@@ -1797,24 +1701,12 @@ translate russian minami_desire_4_male_04c9fbab:
     mike.say "Потому что я всегда наполняю девушку до отказа!"
 
 # ch/minami/chat.rpy:182
-translate russian minami_desire_4_male_3d5a4ca5:
+translate russian minami_desire_4_male_12b1fa04:
     mike.say "Я... я выгляжу так же, как вчера!"
 
 # ch/minami/chat.rpy:183
 translate russian minami_desire_4_male_63c80af0:
     mike.say "И позавчера тоже..."
-
-# ch/minami/chat.rpy:189
-translate russian minami_desire_5_male_189eed40:
-    minami.say "Не знаю, как бы вставала с постели, если бы не могла служить тебе каждый день, братик!"
-
-# ch/minami/chat.rpy:191
-translate russian minami_desire_5_male_ece96ba8:
-    minami.say "Не знаю, как бы вставала с постели, если бы не могла каждый день быть твоей хорошей девочкой, братик!"
-
-# ch/minami/chat.rpy:193
-translate russian minami_desire_5_male_a0bc703c:
-    minami.say "Не знаю, как бы вставала с постели, если бы не видела тебя каждый день, братик!"
 
 # ch/minami/chat.rpy:195
 translate russian minami_desire_5_male_71887a23:
@@ -1861,12 +1753,8 @@ translate russian minami_desire_5_male_12330f8a:
     mike.say "Если правильно устроиться на ночь, ты могла бы видеть меня ещё до того, как тебе придётся..."
 
 # ch/minami/chat.rpy:212
-translate russian minami_desire_5_male_fc991e72:
+translate russian minami_desire_5_male_0274104d:
     mike.say "А... может, тебе стоит купить будильник?"
-
-# ch/minami/chat.rpy:217
-translate russian minami_love_0_male_01f73928:
-    minami.say "Привет, братик."
 
 # ch/minami/chat.rpy:218
 translate russian minami_love_0_male_06f628c4:
@@ -1948,14 +1836,6 @@ translate russian minami_love_1_male_314ee493:
 translate russian minami_love_1_male_e43d1113:
     minami.say "Ну конечно! А ты как думал, [lssb_minami.hero_name()]!"
 
-# ch/minami/chat.rpy:276
-translate russian minami_love_1_male_bae35023:
-    minami.say "А теперь хватит ныть, иди разомни мне плечи, братик!"
-
-# ch/minami/chat.rpy:281
-translate russian minami_love_2_male_a8067e7a:
-    minami.say "Я всё только о себе говорю, братик!"
-
 # ch/minami/chat.rpy:282
 translate russian minami_love_2_male_f90e2214:
     minami.say "А ты-то как?"
@@ -2008,10 +1888,6 @@ translate russian minami_love_2_male_656df2c9:
 translate russian minami_love_2_male_43aa5586:
     minami.say "Я просто хотела проявить заботу..."
 
-# ch/minami/chat.rpy:317
-translate russian minami_love_3_male_9bc1b9da:
-    minami.say "Хочешь, я тебя завтра с утра немного побалую, братик?"
-
 # ch/minami/chat.rpy:318
 translate russian minami_love_3_male_97ea2378:
     minami.say "Может, завтраком в постель?"
@@ -2021,7 +1897,7 @@ translate russian minami_love_3_male_e0666362:
     mike.say "Если бы я мог каждое утро первым делом видеть тебя, Минами, мне бы этого вполне хватило!"
 
 # ch/minami/chat.rpy:327
-translate russian minami_love_3_male_afebb560:
+translate russian minami_love_3_male_6dcbba2d:
     mike.say "М-м... было бы здорово, Минами."
 
 # ch/minami/chat.rpy:328
@@ -2059,10 +1935,6 @@ translate russian minami_love_3_male_35208ef2_1:
 # ch/minami/chat.rpy:342
 translate russian minami_love_3_male_6f3203b8_1:
     mike.say "И не бойся застать их за чем-нибудь..."
-
-# ch/minami/chat.rpy:347
-translate russian minami_love_4_male_3477c547:
-    minami.say "Я... хочу проводить с тобой больше времени, братик."
 
 # ch/minami/chat.rpy:349
 translate russian minami_love_4_male_e8784a65:
@@ -2180,20 +2052,12 @@ translate russian minami_love_4_male_d5e683f6:
 translate russian minami_love_4_male_b7b56558_2:
     mike.say "Особенно если мы будем ОЧЕНЬ близко друг к другу..."
 
-# ch/minami/chat.rpy:407
-translate russian minami_love_5_male_6aa1b3b4:
-    minami.say "Я... мне страшно это говорить, братик."
-
 # ch/minami/chat.rpy:408
 translate russian minami_love_5_male_21f8491f:
     minami.say "Но когда я чувствую, как во мне растёт наш малыш... Теперь я знаю. Кажется, я в тебя влюбилась!"
 
-# ch/minami/chat.rpy:410
-translate russian minami_love_5_male_6aa1b3b4_1:
-    minami.say "Я... мне страшно это говорить, братик."
-
 # ch/minami/chat.rpy:411
-translate russian minami_love_5_male_bd9373e6:
+translate russian minami_love_5_male_c5bde604:
     minami.say "Но... но... кажется, я в тебя влюбилась!"
 
 # ch/minami/chat.rpy:413
@@ -2225,7 +2089,7 @@ translate russian minami_love_5_male_1e64d9c6:
     "Она же не может всерьёз иметь в виду именно то, что сказала."
 
 # ch/minami/chat.rpy:426
-translate russian minami_love_5_male_90fbf70a:
+translate russian minami_love_5_male_f2107c79:
     mike.say "Я... я чувствую то же самое, Минами!"
 
 # ch/minami/chat.rpy:427
@@ -2256,10 +2120,6 @@ translate russian minami_good_sweet_talk_male_7dd5f585:
 translate russian minami_good_sweet_talk_male_7e764d9c:
     mike.say "Ты лучшее, что когда-либо со мной случалось!"
 
-# ch/minami/chat.rpy:448
-translate russian minami_good_sweet_talk_male_fdcd6e76:
-    minami.say "О-о, спасибо, братик!"
-
 # ch/minami/chat.rpy:449
 translate russian minami_good_sweet_talk_male_52ff3b0a:
     minami.say "И ты — всё, о чём я мечтала!"
@@ -2272,10 +2132,6 @@ translate russian minami_good_sweet_talk_male_2634102d:
 translate russian minami_good_sweet_talk_male_fbe1a9a7:
     mike.say "И куда естественнее, понимаешь?"
 
-# ch/minami/chat.rpy:453
-translate russian minami_good_sweet_talk_male_48086146:
-    minami.say "Да, братик, понимаю."
-
 # ch/minami/chat.rpy:454
 translate russian minami_good_sweet_talk_male_70b75cd7:
     minami.say "Мы наконец можем честно говорить о своих чувствах."
@@ -2287,10 +2143,6 @@ translate russian minami_good_sweet_talk_male_7d828c3b:
 # ch/minami/chat.rpy:457
 translate russian minami_good_sweet_talk_male_cf6dfab5:
     mike.say "Иногда мне хочется, чтобы ты носила только их и больше ничего!"
-
-# ch/minami/chat.rpy:459
-translate russian minami_good_sweet_talk_male_3789e835:
-    minami.say "Мне и самой ОЧЕНЬ нравится, как я в них выгляжу, братик."
 
 # ch/minami/chat.rpy:460
 translate russian minami_good_sweet_talk_male_59fe3fdf:
@@ -2319,10 +2171,6 @@ translate russian minami_good_sweet_talk_male_043281be:
 # ch/minami/chat.rpy:476
 translate russian minami_bad_sweet_talk_male_2f149044:
     mike.say "Ух ты, Минами! Не верится, что ты выросла такой красоткой!"
-
-# ch/minami/chat.rpy:478
-translate russian minami_bad_sweet_talk_male_a7ce5466:
-    minami.say "Фу, братик!"
 
 # ch/minami/chat.rpy:479
 translate russian minami_bad_sweet_talk_male_13b76565:
@@ -2353,7 +2201,7 @@ translate russian minami_bad_sweet_talk_male_a522b67e:
     "Да, неудачно вышло. Для неё я просто странный старший брат, который опять чудит, и, честно говоря, она права."
 
 # ch/minami/chat.rpy:491
-translate russian minami_bad_sweet_talk_male_87d06633:
+translate russian minami_bad_sweet_talk_male_5398d6cd:
     mike.say "Нет, Минами... я не это имел в виду!"
 
 # ch/minami/condom.rpy:4
@@ -2379,10 +2227,6 @@ translate russian minami_use_condom_e821f467:
 # ch/minami/condom.rpy:10
 translate russian minami_use_condom_20155d11:
     "Поэтому я останавливаюсь и тянусь за презервативом на прикроватном столике."
-
-# ch/minami/condom.rpy:11
-translate russian minami_use_condom_b9a4471a:
-    minami.say "Поторопись, братик!"
 
 # ch/minami/condom.rpy:12
 translate russian minami_use_condom_41ef0227:
@@ -2460,21 +2304,13 @@ translate russian minami_use_condom_5c938a8c:
 translate russian minami_use_condom_d0a062e8_1:
     "Теперь всё готово."
 
-# ch/minami/condom.rpy:44
-translate russian minami_warn_condom_1af7f405:
-    minami.say "Братик..."
-
 # ch/minami/condom.rpy:45
 translate russian minami_warn_condom_62a44b79:
     minami.say "Тебе не пора бы..."
 
 # ch/minami/condom.rpy:46
-translate russian minami_warn_condom_fd37f5f4:
+translate russian minami_warn_condom_6202ced5:
     minami.say "Ну... кое-что надеть?"
-
-# ch/minami/condom.rpy:48
-translate russian minami_warn_condom_4871a086:
-    minami.say "Ой... подожди, братик!"
 
 # ch/minami/condom.rpy:49
 translate russian minami_warn_condom_a432e15f:
@@ -2515,10 +2351,6 @@ translate russian minami_force_condom_beee0c4a:
 # ch/minami/condom.rpy:64
 translate russian minami_force_condom_4ae6d43d:
     "Особенно учитывая, что некоторые девушки целиком оставляют это на совести парня."
-
-# ch/minami/condom.rpy:66
-translate russian minami_force_condom_495527b1:
-    minami.say "Не волнуйся, братик."
 
 # ch/minami/condom.rpy:67
 translate russian minami_force_condom_767cc904:
@@ -2564,10 +2396,6 @@ translate russian minami_mad_condom_e84ffc6f:
 translate russian minami_mad_condom_d6e6f0f5:
     mike.say "Минами, ты же не серьёзно?!"
 
-# ch/minami/condom.rpy:85
-translate russian minami_mad_condom_6c6ff154:
-    minami.say "А почему бы и нет, братик?"
-
 # ch/minami/condom.rpy:86
 translate russian minami_mad_condom_8f247fa0:
     mike.say "Мы приёмные брат и сестра, нарушаем все правила и трахаемся."
@@ -2595,10 +2423,6 @@ translate russian minami_mad_condom_846b1dd8:
 # ch/minami/condom.rpy:93
 translate russian minami_mad_condom_5d2d8b8d:
     mike.say "Я ведь могу просто вынуть в конце, да?"
-
-# ch/minami/condom.rpy:94
-translate russian minami_mad_condom_91d2bd51:
-    minami.say "Ни за что, братик!"
 
 # ch/minami/condom.rpy:95
 translate russian minami_mad_condom_9b9e12b6:
@@ -2647,14 +2471,6 @@ translate russian minami_mad_condom_cb5ac61d:
 # ch/minami/condom.rpy:107
 translate russian minami_mad_condom_df8568ea:
     minami.say "Нет презерватива на тебе — нет члена во мне."
-
-# ch/minami/condom.rpy:108
-translate russian minami_mad_condom_8214c754:
-    minami.say "Дай знать, когда это дойдёт до твоей тугой головы, братик."
-
-# ch/minami/date.rpy:3
-translate russian minami_date_intro_valentine_male_ef6c93d7:
-    minami.say "Эй, братик..."
 
 # ch/minami/date.rpy:4
 translate russian minami_date_intro_valentine_male_5639f752:
@@ -2744,16 +2560,12 @@ translate russian minami_date_intro_halloween_male_1712aa73:
 translate russian minami_date_intro_halloween_male_aa948fd3:
     "Минами недоумённо морщит нос."
 
-# ch/minami/date.rpy:38
-translate russian minami_date_intro_halloween_male_90386081:
-    minami.say "Зачем мне костюм, братик?"
-
 # ch/minami/date.rpy:39
 translate russian minami_date_intro_halloween_male_71f7a876:
     minami.say "Мы же идём на свидание!"
 
 # ch/minami/date.rpy:41
-translate russian minami_date_intro_halloween_male_de9ee5ce:
+translate russian minami_date_intro_halloween_male_d9475b15:
     mike.say "Ну... сегодня Хэллоуин."
 
 # ch/minami/date.rpy:43
@@ -2761,7 +2573,7 @@ translate russian minami_date_intro_halloween_male_0e141f46:
     minami.say "Правда?!"
 
 # ch/minami/date.rpy:45
-translate russian minami_date_intro_halloween_male_9291da58:
+translate russian minami_date_intro_halloween_male_b2ff419b:
     minami.say "Ой... я так усердно училась, что совсем забыла!"
 
 # ch/minami/date.rpy:48
@@ -2811,10 +2623,6 @@ translate russian minami_date_intro_halloween_male_6904d97d:
 # ch/minami/date.rpy:64
 translate russian minami_date_intro_halloween_male_2d84f9d1:
     mike.say "Мы всё равно отлично проведём время на свидании."
-
-# ch/minami/date.rpy:69
-translate russian minami_date_intro_christmas_male_30c69f03:
-    minami.say "С Рождеством, братик!"
 
 # ch/minami/date.rpy:70
 translate russian minami_date_intro_christmas_male_47266755:
@@ -2869,7 +2677,7 @@ translate russian minami_date_intro_christmas_male_67ce38c6:
     "Как и каждый год, она ещё с ноября считает дни до праздников."
 
 # ch/minami/date.rpy:90
-translate russian minami_date_intro_christmas_male_b38de0f5:
+translate russian minami_date_intro_christmas_male_2f7f1522:
     mike.say "Эй... не так быстро, Минами!"
 
 # ch/minami/date.rpy:91
@@ -2883,10 +2691,6 @@ translate russian minami_date_intro_birthday_male_e0d2dfc9:
 # ch/minami/date.rpy:96
 translate russian minami_date_intro_birthday_male_8522fa13:
     mike.say "Думала, я забуду, да?"
-
-# ch/minami/date.rpy:98
-translate russian minami_date_intro_birthday_male_dc35049c:
-    minami.say "Спасибо, братик."
 
 # ch/minami/date.rpy:100
 translate russian minami_date_intro_birthday_male_c81811f4:
@@ -2939,10 +2743,6 @@ translate russian minami_date_intro_birthday_male_d8a9eeb5:
 # ch/minami/date.rpy:118
 translate russian minami_date_intro_birthday_male_dcd72508:
     mike.say "А, да, точно."
-
-# ch/minami/date.rpy:123
-translate russian minami_date_intro_mc_birthday_male_015e0bb9:
-    minami.say "С днём рождения, братик!"
 
 # ch/minami/date.rpy:125
 translate russian minami_date_intro_mc_birthday_male_8b1807e2:
@@ -3000,16 +2800,12 @@ translate russian minami_date_intro_mc_birthday_male_998bfc0c:
 translate russian minami_date_intro_mc_birthday_male_60dacb8e:
     mike.say "Стоило догадаться, что ты ни за что не забудешь мой день рождения."
 
-# ch/minami/date.rpy:145
-translate russian minami_date_intro_mc_birthday_male_ac46d242:
-    minami.say "В смысле, братик? Как ты забываешь мой?"
-
 # ch/minami/date.rpy:151
 translate russian minami_date_pub_male_41ef0227:
     minami.say "Угх..."
 
 # ch/minami/date.rpy:152
-translate russian minami_date_pub_male_20b82363:
+translate russian minami_date_pub_male_51363b6f:
     minami.say "Тебе не кажется, что здесь, ну... скучновато?"
 
 # ch/minami/date.rpy:158
@@ -3041,7 +2837,7 @@ translate russian minami_date_amusmentpark_male_70a2d460:
     minami.say "О-о, я просто ОБОЖАЮ парки аттракционов."
 
 # ch/minami/date.rpy:183
-translate russian minami_date_amusmentpark_male_dd8669ec:
+translate russian minami_date_amusmentpark_male_083f90f0:
     minami.say "Хочу покататься на том, и на том... И НА ВОТ ЭТОМ ПРЯМО СЕЙЧАС!"
 
 # ch/minami/date.rpy:189
@@ -3101,11 +2897,11 @@ translate russian minami_date_waterpark_male_3e8048bb:
     minami.say "Готовься: я тебя обрызгаю!"
 
 # ch/minami/date.rpy:220
-translate russian minami_date_park_male_73972a4c:
+translate russian minami_date_park_male_86e68b3c:
     minami.say "Просто прогулка в парке... серьёзно?"
 
 # ch/minami/date.rpy:221
-translate russian minami_date_park_male_7741b38a:
+translate russian minami_date_park_male_f6e95a03:
     minami.say "Эм... наверное, тоже неплохо..."
 
 # ch/minami/date.rpy:226
@@ -3119,10 +2915,6 @@ translate russian minami_date_eat_a_burger_0bb6d98c:
 # ch/minami/date.rpy:228
 translate russian minami_date_eat_a_burger_15d724c7:
     "Я почти забыл, какой отменный аппетит у этой миниатюрной девушки."
-
-# ch/minami/date.rpy:235
-translate russian minami_date_buy_drink_33b341ec:
-    minami.say "Мне нельзя пиво, братик!"
 
 # ch/minami/date.rpy:236
 translate russian minami_date_buy_drink_32e9d13f:
@@ -3203,10 +2995,6 @@ translate russian minami_date_pub_play_pool_9b650080:
 # ch/minami/date.rpy:269
 translate russian minami_date_pub_play_pool_35e5984e:
     "Я натираю кий мелом и даю ей прицелиться, радуясь, что мы просто проводим время вместе."
-
-# ch/minami/date.rpy:276
-translate russian minami_date_buy_a_round_33b341ec:
-    minami.say "Мне нельзя пиво, братик!"
 
 # ch/minami/date.rpy:277
 translate russian minami_date_buy_a_round_32e9d13f:
@@ -3289,12 +3077,8 @@ translate russian minami_dance_with_eec41576:
     "Всё так же ко мне липнет. Некоторые вещи не меняются."
 
 # ch/minami/date.rpy:318
-translate russian minami_date_play_arcade_intro_male_526e1381:
+translate russian minami_date_play_arcade_intro_male_0f0cc9e9:
     minami.say "О... МОЙ... БОГ!"
-
-# ch/minami/date.rpy:319
-translate russian minami_date_play_arcade_intro_male_84040c29:
-    minami.say "Братик, здесь потрясающе!"
 
 # ch/minami/date.rpy:320
 translate russian minami_date_play_arcade_intro_male_ac4c60e9:
@@ -3332,10 +3116,6 @@ translate russian minami_date_play_arcade_intro_male_6d5a4cde:
 translate russian minami_date_play_arcade_intro_male_d62e5d7d:
     minami.say "Мы же раньше во ВСЁ это играли!"
 
-# ch/minami/date.rpy:329
-translate russian minami_date_play_arcade_intro_male_a765fbe2:
-    minami.say "Ох, чёрт, братик..."
-
 # ch/minami/date.rpy:330
 translate russian minami_date_play_arcade_intro_male_5f7892d0:
     minami.say "И как нам теперь выбрать?"
@@ -3359,10 +3139,6 @@ translate russian minami_date_play_arcade_intro_male_3a99efef:
 # ch/minami/date.rpy:335
 translate russian minami_date_play_arcade_intro_male_c5a6cf41:
     mike.say "Та самая игра с матросками?"
-
-# ch/minami/date.rpy:336
-translate russian minami_date_play_arcade_intro_male_cb4e866c:
-    minami.say "Да, братик!"
 
 # ch/minami/date.rpy:337
 translate russian minami_date_play_arcade_intro_male_b5906526:
@@ -3444,10 +3220,6 @@ translate russian minami_date_play_arcade_win_male_ae639e67:
 translate russian minami_date_play_arcade_win_male_14d77ad8:
     "И это одна из тех игр, к которым меня так и тянет возвращаться."
 
-# ch/minami/date.rpy:365
-translate russian minami_date_play_arcade_win_male_309fcd6b:
-    minami.say "Эй, братик!"
-
 # ch/minami/date.rpy:366
 translate russian minami_date_play_arcade_win_male_8fab75d5:
     minami.say "Этот бонус был мой!"
@@ -3468,16 +3240,12 @@ translate russian minami_date_play_arcade_win_male_afca7a0c:
 translate russian minami_date_play_arcade_win_male_b21f7a76:
     "Вскоре она начинает сопеть и дуться, пока я вырываюсь вперёд."
 
-# ch/minami/date.rpy:371
-translate russian minami_date_play_arcade_win_male_576ac1e1:
-    minami.say "Что за дела, братик?"
-
 # ch/minami/date.rpy:372
 translate russian minami_date_play_arcade_win_male_401b1a88:
     minami.say "Раньше ты так хорошо не играл!"
 
 # ch/minami/date.rpy:373
-translate russian minami_date_play_arcade_win_male_54bd5213:
+translate russian minami_date_play_arcade_win_male_0d7780f1:
     minami.say "Эй... поддайся хоть немного!"
 
 # ch/minami/date.rpy:374
@@ -3508,16 +3276,12 @@ translate russian minami_date_play_arcade_win_male_e091e169:
 translate russian minami_date_play_arcade_win_male_cc8cbe72:
     minami.say "Хмпф..."
 
-# ch/minami/date.rpy:381
-translate russian minami_date_play_arcade_win_male_1dedc93d:
-    minami.say "А я ведь СОБИРАЛАСЬ показаться тебе в новом костюме Луны Маринер, братик."
-
 # ch/minami/date.rpy:382
 translate russian minami_date_play_arcade_win_male_f153995e:
     minami.say "Но теперь не покажусь, раз ты такой вредный противный придурок!"
 
 # ch/minami/date.rpy:383
-translate russian minami_date_play_arcade_win_male_e558ff4f:
+translate russian minami_date_play_arcade_win_male_c32add3b:
     mike.say "Подожди... что?!"
 
 # ch/minami/date.rpy:384
@@ -3528,16 +3292,12 @@ translate russian minami_date_play_arcade_win_male_37f57b56:
 translate russian minami_date_play_arcade_win_male_8b72dd56:
     "Минами улыбается, прекрасно понимая, что я заглотил наживку целиком."
 
-# ch/minami/date.rpy:386
-translate russian minami_date_play_arcade_win_male_126c4c32:
-    minami.say "Да, братик."
-
 # ch/minami/date.rpy:387
 translate russian minami_date_play_arcade_win_male_fb5048e3:
     minami.say "И если ты всё-таки ХОЧЕШЬ увидеть меня в нём..."
 
 # ch/minami/date.rpy:388
-translate russian minami_date_play_arcade_win_male_21ee0b8d:
+translate russian minami_date_play_arcade_win_male_7bed37d5:
     minami.say "Что ж... в следующий раз тебе лучше дать мне выиграть!"
 
 # ch/minami/date.rpy:390
@@ -3600,10 +3360,6 @@ translate russian minami_date_play_arcade_lose_male_0c1852b0:
 translate russian minami_date_play_arcade_lose_male_121e9def:
     mike.say "Этот бонус был мой!"
 
-# ch/minami/date.rpy:412
-translate russian minami_date_play_arcade_lose_male_a1f2e077:
-    minami.say "Ха-ха... не успел, братик!"
-
 # ch/minami/date.rpy:413
 translate russian minami_date_play_arcade_lose_male_66caad5c:
     "Хотя я стараюсь изо всех сил, до Минами мне далеко."
@@ -3625,12 +3381,8 @@ translate russian minami_date_play_arcade_lose_male_bfdf63a6:
     mike.say "Когда ты научилась так играть?!"
 
 # ch/minami/date.rpy:418
-translate russian minami_date_play_arcade_lose_male_7d0ce5d6:
+translate russian minami_date_play_arcade_lose_male_0e690daf:
     mike.say "Погоди... пожалей меня!"
-
-# ch/minami/date.rpy:419
-translate russian minami_date_play_arcade_lose_male_6df0fbc5:
-    minami.say "Не знаю, братик."
 
 # ch/minami/date.rpy:420
 translate russian minami_date_play_arcade_lose_male_0560a65c:
@@ -3689,7 +3441,7 @@ translate russian minami_date_play_arcade_lose_male_3663476a:
     "Моя младшая сестрёнка и её бесконечный косплей. Я уже сбился со счёта её костюмов."
 
 # ch/minami/date.rpy:439
-translate russian minami_date_play_arcade_lose_male_e558ff4f:
+translate russian minami_date_play_arcade_lose_male_c32add3b:
     mike.say "Подожди... что?!"
 
 # ch/minami/date.rpy:440
@@ -3699,10 +3451,6 @@ translate russian minami_date_play_arcade_lose_male_37f57b56:
 # ch/minami/date.rpy:441
 translate russian minami_date_play_arcade_lose_male_8b72dd56:
     "Минами улыбается, прекрасно понимая, что я заглотил наживку целиком."
-
-# ch/minami/date.rpy:442
-translate russian minami_date_play_arcade_lose_male_126c4c32:
-    minami.say "Да, братик."
 
 # ch/minami/date.rpy:443
 translate russian minami_date_play_arcade_lose_male_fb5048e3:
@@ -3724,10 +3472,6 @@ translate russian minami_date_play_arcade_lose_male_beff93db:
 translate russian minami_date_play_arcade_lose_male_a2e8a1de:
     "Минами показывает мне язык и заливается смехом."
 
-# ch/minami/date.rpy:448
-translate russian minami_date_play_arcade_lose_male_0d953012:
-    minami.say "Умей проигрывать, братик!"
-
 # ch/minami/date.rpy:449
 translate russian minami_date_play_arcade_lose_male_f1d8a63c:
     mike.say "Эм..."
@@ -3740,16 +3484,12 @@ translate russian minami_date_play_arcade_lose_male_18841c4e:
 translate russian minami_date_play_arcade_lose_male_7f9babc8:
     mike.say "А теперь насчёт того костюма, о котором ты говорила..."
 
-# ch/minami/date.rpy:459
-translate russian minami_dick_reactions_f6991a7a:
-    minami.say "Ого, братик, да у тебя он правда ОГРОМНЫЙ!"
-
 # ch/minami/date.rpy:460
 translate russian minami_dick_reactions_6eae179b:
     minami.say "То есть я и раньше его видела, но..."
 
 # ch/minami/date.rpy:461
-translate russian minami_dick_reactions_ef6c5b59:
+translate russian minami_dick_reactions_fad78d93:
     mike.say "Эй... что это значит?"
 
 # ch/minami/date.rpy:463
@@ -3764,17 +3504,9 @@ translate russian minami_dick_reactions_4b928e0e:
 translate russian minami_dick_reactions_430dfdf9:
     minami.say "О-о..."
 
-# ch/minami/date.rpy:469
-translate russian minami_dick_reactions_642cd614:
-    minami.say "Старший братик и младший братик!"
-
 # ch/minami/date.rpy:470
 translate russian minami_dick_reactions_200eb25b:
     mike.say "Эй!"
-
-# ch/minami/date.rpy:471
-translate russian minami_dick_reactions_6fcfe5d1:
-    minami.say "Не переживай, братик."
 
 # ch/minami/date.rpy:472
 translate russian minami_dick_reactions_ea55fce3:
@@ -3900,10 +3632,6 @@ translate russian minami_peeping_scene_male_5eb58a31:
 translate russian minami_peeping_scene_male_44f10b01:
     "Нужно тихо прикрыть дверь и оставить её в покое."
 
-# ch/minami/date.rpy:519
-translate russian minami_peeping_reactions_male_ef6c93d7:
-    minami.say "Эй, братик..."
-
 # ch/minami/date.rpy:520
 translate russian minami_peeping_reactions_male_c3d702a2:
     minami.say "Я знаю, что ты там!"
@@ -3944,10 +3672,6 @@ translate russian minami_peeping_reactions_male_3223bd7c:
 translate russian minami_peeping_reactions_male_7df764da:
     minami.say "М-м-м..."
 
-# ch/minami/date.rpy:531
-translate russian minami_peeping_reactions_male_d8a507e7:
-    minami.say "Я вижу то, чего тебе не видно, братик."
-
 # ch/minami/date.rpy:532
 translate russian minami_peeping_reactions_male_e3a75382:
     minami.say "То, что тоже становится всё мокрее!"
@@ -3969,16 +3693,12 @@ translate russian minami_peeping_reactions_male_09a56253:
     minami.say "Ах..."
 
 # ch/minami/date.rpy:537
-translate russian minami_peeping_reactions_male_e9a1c1fd:
+translate russian minami_peeping_reactions_male_5c2514b5:
     minami.say "Ох... о да..."
 
 # ch/minami/date.rpy:538
 translate russian minami_peeping_reactions_male_251dc927:
     minami.say "Это так меня заводит..."
-
-# ch/minami/date.rpy:539
-translate russian minami_peeping_reactions_male_554a9058:
-    minami.say "Знать, что ты на меня смотришь, братик..."
 
 # ch/minami/date.rpy:540
 translate russian minami_peeping_reactions_male_3ee4339e:
@@ -3993,12 +3713,8 @@ translate russian minami_peeping_reactions_male_be51d00c:
     "Чего бы я только не отдал, чтобы сейчас оказаться рядом!"
 
 # ch/minami/date.rpy:546
-translate russian minami_peeping_reactions_male_5ec1ec53:
+translate russian minami_peeping_reactions_male_23345b13:
     minami.say "Ох... ох..."
-
-# ch/minami/date.rpy:547
-translate russian minami_peeping_reactions_male_9edde1b7:
-    minami.say "Ах... братик!"
 
 # ch/minami/date.rpy:548
 translate russian minami_peeping_reactions_male_038ab92e:
@@ -4015,10 +3731,6 @@ translate russian minami_peeping_reactions_male_e50b44a7:
 # ch/minami/date.rpy:553
 translate russian minami_peeping_reactions_male_1625b153:
     minami.say "ЭЙ!"
-
-# ch/minami/date.rpy:554
-translate russian minami_peeping_reactions_male_e976b448:
-    minami.say "БРАТИК, это ты?!"
 
 # ch/minami/date.rpy:555
 translate russian minami_peeping_reactions_male_f730a376:
@@ -4037,7 +3749,7 @@ translate russian minami_peeping_reactions_male_0f7e9478:
     "И тогда, как и сейчас, он не сулил мне ничего хорошего!"
 
 # ch/minami/date.rpy:559
-translate russian minami_peeping_reactions_male_66de0b0a:
+translate russian minami_peeping_reactions_male_16be793e:
     mike.say "Эй... не надо злиться, Минами."
 
 # ch/minami/date.rpy:560
@@ -4051,10 +3763,6 @@ translate russian minami_peeping_reactions_male_964fe6fa:
 # ch/minami/date.rpy:562
 translate russian minami_peeping_reactions_male_1133eb4f:
     "Она стоит в дверях и смотрит на меня снизу вверх так, будто готова убить."
-
-# ch/minami/date.rpy:563
-translate russian minami_peeping_reactions_male_c6abadf4:
-    minami.say "Мы уже не дома, братик!"
 
 # ch/minami/date.rpy:565
 translate russian minami_peeping_reactions_male_fc65682e:
@@ -4071,10 +3779,6 @@ translate russian minami_peeping_reactions_male_dcbb2b23:
 # ch/minami/date.rpy:568
 translate russian minami_peeping_reactions_male_418a25e8:
     minami.say "Да, ну так..."
-
-# ch/minami/date.rpy:569
-translate russian minami_peeping_reactions_male_7e11b62e:
-    minami.say "Ещё одно такое недоразумение — и ты прекрасно поймёшь, за что я с тобой так поступила, братик!"
 
 # ch/minami/date.rpy:577
 translate russian minami_peeping_reactions_male_e6173ac6:
@@ -4140,10 +3844,6 @@ translate russian minami_halloween_invitation_8669f130:
 translate russian minami_halloween_invitation_d3f3e598:
     minami.say "А?"
 
-# ch/minami/date.rpy:598
-translate russian minami_halloween_invitation_78b5de50:
-    minami.say "Не знаю, братик."
-
 # ch/minami/date.rpy:599
 translate russian minami_halloween_invitation_24d96f35:
     minami.say "А что?"
@@ -4192,12 +3892,8 @@ translate russian minami_halloween_invitation_973dbd91:
 translate russian minami_halloween_invitation_03d44b06:
     "Оно означает, что ей ужасно хочется прийти на вечеринку!"
 
-# ch/minami/date.rpy:615
-translate russian minami_halloween_invitation_1fa5440d:
-    minami.say "Братик, это же идеально!"
-
 # ch/minami/date.rpy:616
-translate russian minami_halloween_invitation_99b02eb3:
+translate russian minami_halloween_invitation_f1566913:
     mike.say "Да... правда?"
 
 # ch/minami/date.rpy:617
@@ -4213,7 +3909,7 @@ translate russian minami_halloween_invitation_e3f75ef2:
     minami.say "Показать зрителям мои новые костюмы для косплея."
 
 # ch/minami/date.rpy:621
-translate russian minami_halloween_invitation_961cf86e:
+translate russian minami_halloween_invitation_ac91fbb6:
     mike.say "А теперь... не будешь?"
 
 # ch/minami/date.rpy:623
@@ -4239,10 +3935,6 @@ translate russian minami_halloween_invitation_ca9234a6:
 # ch/minami/date.rpy:629
 translate russian minami_halloween_invitation_e60bd153:
     "А потом кивает и улыбается."
-
-# ch/minami/date.rpy:630
-translate russian minami_halloween_invitation_3a12070f:
-    minami.say "Конечно, братик, конечно."
 
 # ch/minami/date.rpy:632
 translate russian minami_halloween_invitation_fab7bc51:
@@ -4288,10 +3980,6 @@ translate russian minami_halloween_invitation_973dbd91_1:
 translate russian minami_halloween_invitation_6b5e04b7:
     "Оно означает, что она сейчас мне откажет!"
 
-# ch/minami/date.rpy:647
-translate russian minami_halloween_invitation_6314ade2:
-    minami.say "Ох, я бы с радостью, братик."
-
 # ch/minami/date.rpy:648
 translate russian minami_halloween_invitation_71dfc2f3:
     minami.say "Но на Хэллоуин у меня стрим."
@@ -4305,7 +3993,7 @@ translate russian minami_halloween_invitation_cd2c9947:
     minami.say "Я не могу подвести подписчиков!"
 
 # ch/minami/date.rpy:652
-translate russian minami_halloween_invitation_13df2976:
+translate russian minami_halloween_invitation_749f4e74:
     mike.say "А... ну ладно... наверное."
 
 # ch/minami/date.rpy:653
@@ -4319,10 +4007,6 @@ translate russian minami_halloween_invitation_cba31f9f:
 # ch/minami/date.rpy:656
 translate russian minami_halloween_invitation_c416f1e8:
     minami.say "Спасибо за понимание."
-
-# ch/minami/date.rpy:658
-translate russian minami_halloween_invitation_c1309613:
-    minami.say "Ты лучший, братик!"
 
 # ch/minami/date.rpy:659
 translate russian minami_halloween_invitation_30225bb2:
@@ -4355,10 +4039,6 @@ translate russian minami_halloween_arrival_f05a3393:
 # ch/minami/date.rpy:673
 translate russian minami_halloween_arrival_a21c489d:
     "А вот Минами всё прекрасно помнит и смотрит на меня выжидающе."
-
-# ch/minami/date.rpy:674
-translate russian minami_halloween_arrival_0c0aba89:
-    minami.say "Ну что, братик?"
 
 # ch/minami/date.rpy:675
 translate russian minami_halloween_arrival_0fd41310:
@@ -4433,12 +4113,8 @@ translate russian minami_halloween_arrival_87544893:
     "Минами складывает ладони под подбородком и подпрыгивает на месте."
 
 # ch/minami/date.rpy:702
-translate russian minami_halloween_arrival_4c7d0696:
+translate russian minami_halloween_arrival_ba047fa4:
     "Ух ты... прямо героиня какого-нибудь милого аниме!"
-
-# ch/minami/date.rpy:703
-translate russian minami_halloween_arrival_8419b6f3:
-    minami.say "О-о, спасибо, братик!"
 
 # ch/minami/date.rpy:705
 translate russian minami_halloween_arrival_c1862a86:
@@ -4463,10 +4139,6 @@ translate russian minami_halloween_arrival_1cb01322:
 # ch/minami/date.rpy:710
 translate russian minami_halloween_arrival_d67235ee:
     "Минами хихикает в ответ на комплимент."
-
-# ch/minami/date.rpy:711
-translate russian minami_halloween_arrival_af4b9dcc:
-    minami.say "Ой, я бы не смогла носить его ПОСТОЯННО, братик."
 
 # ch/minami/date.rpy:712
 translate russian minami_halloween_arrival_aefe3cd8:
@@ -4493,7 +4165,7 @@ translate russian minami_halloween_arrival_1908e8fe:
     mike.say "Только не пойми меня неправильно."
 
 # ch/minami/date.rpy:720
-translate russian minami_halloween_arrival_70493c7f:
+translate russian minami_halloween_arrival_15e15b8b:
     mike.say "Но разве в этом наряде ты не выглядишь... ну, слишком юной?"
 
 # ch/minami/date.rpy:723
@@ -4503,10 +4175,6 @@ translate russian minami_halloween_arrival_b0395d61:
 # ch/minami/date.rpy:724
 translate russian minami_halloween_arrival_68d25ac9:
     "Я уже вижу, что всё идёт не так."
-
-# ch/minami/date.rpy:725
-translate russian minami_halloween_arrival_7f3b5fe4:
-    minami.say "Это школьная форма, братик."
 
 # ch/minami/date.rpy:726
 translate russian minami_halloween_arrival_726638d9:
@@ -4527,10 +4195,6 @@ translate russian minami_halloween_arrival_279af5a3:
 # ch/minami/date.rpy:731
 translate russian minami_halloween_arrival_457f474d:
     "Минами склоняет голову набок, явно ничего не понимая."
-
-# ch/minami/date.rpy:732
-translate russian minami_halloween_arrival_1f6b956a:
-    minami.say "Но... мы же давно знакомы, братик."
 
 # ch/minami/date.rpy:733
 translate russian minami_halloween_arrival_2c63cda7:
@@ -4584,10 +4248,6 @@ translate russian minami_halloween_arrival_57e6fe19:
 translate russian minami_halloween_arrival_e6985dda:
     "Щёки Минами розовеют, но улыбка становится лишь шире."
 
-# ch/minami/date.rpy:753
-translate russian minami_halloween_arrival_3a360312:
-    minami.say "Обещаешь, братик?"
-
 # ch/minami/date.rpy:754
 translate russian minami_halloween_arrival_03e75e77:
     minami.say "Я ведь выбрала его ИМЕННО для того, чтобы свести тебя с ума!"
@@ -4607,10 +4267,6 @@ translate russian minami_halloween_arrival_a4df153c_2:
 # ch/minami/date.rpy:760
 translate russian minami_halloween_arrival_1fc66e93:
     "Я иду за ней, уже размышляя, сколько вообще должна длиться эта вечеринка."
-
-# ch/minami/date.rpy:770
-translate russian minami_halloween_party_da3ad4ea:
-    minami.say "Эй, братик, давай выпьем пунша!"
 
 # ch/minami/date.rpy:772
 translate russian minami_halloween_party_0c673ee0:
@@ -4639,10 +4295,6 @@ translate russian minami_halloween_party_b54df582:
 # ch/minami/date.rpy:785
 translate russian minami_halloween_party_f5904280:
     minami.say "Конечно можно!"
-
-# ch/minami/date.rpy:786
-translate russian minami_halloween_party_c53d548c:
-    minami.say "Скажи ему, братик!"
 
 # ch/minami/date.rpy:788
 translate russian minami_halloween_party_9b5ba889:
@@ -4724,10 +4376,6 @@ translate russian minami_halloween_party_729dc67b:
 translate russian minami_halloween_party_3ae26df7:
     "А мне остаётся купаться в благодарности Минами."
 
-# ch/minami/date.rpy:822
-translate russian minami_halloween_party_5092876c:
-    minami.say "Вот так, братик!"
-
 # ch/minami/date.rpy:823
 translate russian minami_halloween_party_9b6b93b8:
     minami.say "Ты его на место поставил!"
@@ -4759,10 +4407,6 @@ translate russian minami_halloween_party_4d35e967:
 # ch/minami/date.rpy:835
 translate russian minami_halloween_party_3cae00f8:
     minami.say "Эй!"
-
-# ch/minami/date.rpy:836
-translate russian minami_halloween_party_5ad7118a:
-    minami.say "Какого чёрта, братик?!"
 
 # ch/minami/date.rpy:838
 translate russian minami_halloween_party_f05ce011:
@@ -4796,10 +4440,6 @@ translate russian minami_halloween_dance_cc0cb61c:
 translate russian minami_halloween_dance_21410149:
     minami.say "Обожаю эту песню!"
 
-# ch/minami/date.rpy:860
-translate russian minami_halloween_dance_85d0d11a:
-    minami.say "Братик, мы ОБЯЗАНЫ под неё потанцевать — прямо сейчас!"
-
 # ch/minami/date.rpy:862
 translate russian minami_halloween_dance_02a0879f:
     "Не успеваю я возразить, как Минами уже хватает меня за руку."
@@ -4823,10 +4463,6 @@ translate russian minami_halloween_dance_f1d8a63c:
 # ch/minami/date.rpy:867
 translate russian minami_halloween_dance_65f1da29:
     mike.say "Кажется, я не знаю эту песню, Минами!"
-
-# ch/minami/date.rpy:869
-translate russian minami_halloween_dance_495527b1:
-    minami.say "Не волнуйся, братик."
 
 # ch/minami/date.rpy:870
 translate russian minami_halloween_dance_13b5aadc:
@@ -4912,10 +4548,6 @@ translate russian minami_halloween_dance_3a6e8119:
 translate russian minami_halloween_dance_f9421235:
     "Когда я кладу руки ей на попку, Минами поднимает на меня улыбающийся взгляд."
 
-# ch/minami/date.rpy:902
-translate russian minami_halloween_dance_dc1cca72:
-    minami.say "Видишь, братик?"
-
 # ch/minami/date.rpy:903
 translate russian minami_halloween_dance_5131e130:
     minami.say "Я же говорила, что будет весело!"
@@ -4955,10 +4587,6 @@ translate russian minami_halloween_dance_c7605f53:
 # ch/minami/date.rpy:917
 translate russian minami_halloween_dance_7c30625b:
     "И не даю утащить себя на танцпол."
-
-# ch/minami/date.rpy:921
-translate russian minami_halloween_dance_0ee7a819:
-    minami.say "Ну, братик!"
 
 # ch/minami/date.rpy:922
 translate russian minami_halloween_dance_a3343da5:
@@ -5048,10 +4676,6 @@ translate russian minami_halloween_sex_130a1060:
 translate russian minami_halloween_sex_9a861f31:
     "И я замечаю, что она заперла за нами дверь."
 
-# ch/minami/date.rpy:969
-translate russian minami_halloween_sex_c3d65e93:
-    minami.say "Я больше не собираюсь ждать, братик."
-
 # ch/minami/date.rpy:970
 translate russian minami_halloween_sex_cd78bdba:
     minami.say "Я ужасно тебя хочу!"
@@ -5080,16 +4704,12 @@ translate russian minami_halloween_sex_94d0af1f:
 translate russian minami_halloween_sex_cba7d646:
     "Она сцепила руки за спиной и наклонилась вперёд."
 
-# ch/minami/date.rpy:980
-translate russian minami_halloween_sex_dd2c0c77:
-    minami.say "Я знаю, что ты весь вечер на меня смотрел, братик."
-
 # ch/minami/date.rpy:981
 translate russian minami_halloween_sex_e1093781:
     minami.say "И знаю, что ты думал, какая я непослушная!"
 
 # ch/minami/date.rpy:983
-translate russian minami_halloween_sex_b1c6de3a:
+translate russian minami_halloween_sex_4186e7a8:
     mike.say "Я... думал?"
 
 # ch/minami/date.rpy:985
@@ -5143,10 +4763,6 @@ translate russian minami_halloween_sex_5e583013:
 # ch/minami/date.rpy:998
 translate russian minami_halloween_sex_36d1b5cb:
     "Оглянувшись через плечо, она подзывает меня."
-
-# ch/minami/date.rpy:1000
-translate russian minami_halloween_sex_2dddd355:
-    minami.say "Ну же, братик."
 
 # ch/minami/date.rpy:1001
 translate russian minami_halloween_sex_111087a1:
@@ -5220,33 +4836,17 @@ translate russian minami_halloween_sex_e4817318:
 translate russian minami_halloween_sex_c6d5aa63:
     minami.say "О боже..."
 
-# ch/minami/date.rpy:1029
-translate russian minami_halloween_sex_e07ef8db:
-    minami.say "Обожаю, братик!"
-
 # ch/minami/date.rpy:1030
-translate russian minami_halloween_sex_a6b3eb50:
+translate russian minami_halloween_sex_a125bfbd:
     minami.say "Пожалуйста... трахай меня... сильнее!"
-
-# ch/minami/date.rpy:1032
-translate russian minami_halloween_sex_106ef01e:
-    minami.say "Я твоя, братик, вся твоя!"
 
 # ch/minami/date.rpy:1033
 translate russian minami_halloween_sex_63880838:
     minami.say "Делай со мной что хочешь, я просто хочу быть твоей хорошей девочкой!"
 
-# ch/minami/date.rpy:1035
-translate russian minami_halloween_sex_7279b9bf:
-    minami.say "Скажи, что я была непослушной, братик!"
-
 # ch/minami/date.rpy:1036
 translate russian minami_halloween_sex_ed55aef6:
     minami.say "Скажи, что мне делать, и я всё сделаю, обещаю!"
-
-# ch/minami/date.rpy:1038
-translate russian minami_halloween_sex_f7b49f87:
-    minami.say "Ты мне так нужен, братик!"
 
 # ch/minami/date.rpy:1039
 translate russian minami_halloween_sex_7da79372:
@@ -5313,12 +4913,8 @@ translate russian minami_halloween_sex_cc24a5bb:
     "Минами тоже это ощущает — я вижу по её лицу."
 
 # ch/minami/date.rpy:1057
-translate russian minami_halloween_sex_3994bfed:
+translate russian minami_halloween_sex_8ff4663c:
     minami.say "Д... да..."
-
-# ch/minami/date.rpy:1058
-translate russian minami_halloween_sex_03de7e55:
-    minami.say "Давай... братик..."
 
 # ch/minami/date.rpy:1059
 translate russian minami_halloween_sex_4d1195b0:
@@ -5396,10 +4992,6 @@ translate russian minami_murder_talk_sasha_421e2700:
 translate russian minami_murder_talk_sasha_46d61621:
     minami.say "А..."
 
-# ch/minami/events.rpy:1084
-translate russian minami_murder_talk_sasha_80f3c66d:
-    minami.say "О, привет, братик!"
-
 # ch/minami/events.rpy:1086
 translate russian minami_murder_talk_sasha_095b7944:
     minami.say "Как ты держишься?"
@@ -5413,7 +5005,7 @@ translate russian minami_murder_talk_sasha_d45f27b6:
     "Я уверен, что она прячется за своей заботой, как за щитом."
 
 # ch/minami/events.rpy:1089
-translate russian minami_murder_talk_sasha_42106909:
+translate russian minami_murder_talk_sasha_07ca9181:
     mike.say "Я... я справлюсь, Минами."
 
 # ch/minami/events.rpy:1090
@@ -5441,12 +5033,8 @@ translate russian minami_murder_talk_sasha_4d64f30b:
     "Глаза Минами расширяются от удивления."
 
 # ch/minami/events.rpy:1098
-translate russian minami_murder_talk_sasha_fac3b804:
+translate russian minami_murder_talk_sasha_2522de51:
     minami.say "П... почему ты хочешь об этом говорить?"
-
-# ch/minami/events.rpy:1099
-translate russian minami_murder_talk_sasha_02b45861:
-    minami.say "Со мной всё хорошо, братик, поверь!"
 
 # ch/minami/events.rpy:1101
 translate russian minami_murder_talk_sasha_0e7bf8a3:
@@ -5507,10 +5095,6 @@ translate russian minami_murder_talk_sasha_16600e71:
 # ch/minami/events.rpy:1118
 translate russian minami_murder_talk_sasha_6a1d987f:
     "Мысль о том, что я ей нужен и могу помочь, немного облегчает мои собственные мучительные переживания."
-
-# ch/minami/events.rpy:1119
-translate russian minami_murder_talk_sasha_9e680d55:
-    minami.say "Ох, братик..."
 
 # ch/minami/events.rpy:1120
 translate russian minami_murder_talk_sasha_7ca1a029:
@@ -5636,10 +5220,6 @@ translate russian minami_murder_talk_bree_eeb6a9be:
 translate russian minami_murder_talk_bree_d57d7a04:
     "И мгновение спустя она уже кажется беззаботно счастливой."
 
-# ch/minami/events.rpy:1160
-translate russian minami_murder_talk_bree_80f3c66d:
-    minami.say "О, привет, братик!"
-
 # ch/minami/events.rpy:1161
 translate russian minami_murder_talk_bree_1fc72f9d:
     minami.say "Конечно! Для тебя у меня всегда найдётся время!"
@@ -5676,10 +5256,6 @@ translate russian minami_murder_talk_bree_468e1c61:
 translate russian minami_murder_talk_bree_2740e27d:
     "Минами морщит нос и качает головой, будто её это забавляет."
 
-# ch/minami/events.rpy:1172
-translate russian minami_murder_talk_bree_116972e9:
-    minami.say "Ой, не беспокойся обо мне, братик."
-
 # ch/minami/events.rpy:1173
 translate russian minami_murder_talk_bree_ab03dce1:
     minami.say "Я крепче, чем кажусь!"
@@ -5689,7 +5265,7 @@ translate russian minami_murder_talk_bree_628773fa:
     mike.say "Если ты так говоришь, Минами."
 
 # ch/minami/events.rpy:1175
-translate russian minami_murder_talk_bree_c3e790b9:
+translate russian minami_murder_talk_bree_1b58112d:
     mike.say "Я... я совершенно разбит из-за того, что эта психопатка сделала с [bree.name]."
 
 # ch/minami/events.rpy:1176
@@ -5741,7 +5317,7 @@ translate russian minami_murder_talk_bree_3b8e4bc0:
     "Я обнимаю её хрупкое тело и держу рядом, пока она плачет."
 
 # ch/minami/events.rpy:1190
-translate russian minami_murder_talk_bree_a8de80b2:
+translate russian minami_murder_talk_bree_667cb631:
     mike.say "Тише... тише..."
 
 # ch/minami/events.rpy:1191
@@ -5755,10 +5331,6 @@ translate russian minami_murder_talk_bree_f9fc7419:
 # ch/minami/events.rpy:1193
 translate russian minami_murder_talk_bree_e57de830:
     "Минами немного поднимает голову — ровно настолько, чтобы я расслышал её слова."
-
-# ch/minami/events.rpy:1194
-translate russian minami_murder_talk_bree_a9cd14f4:
-    minami.say "Я... мне не хватает [bree.name], братик."
 
 # ch/minami/events.rpy:1195
 translate russian minami_murder_talk_bree_eb92b5ce:
@@ -5872,10 +5444,6 @@ translate russian minami_murder_talk_d49f8c3e:
 translate russian minami_murder_talk_64efda14:
     "И, как ни странно, именно в этот момент Минами наконец решается."
 
-# ch/minami/events.rpy:1229
-translate russian minami_murder_talk_11b56dee:
-    minami.say "Братик..."
-
 # ch/minami/events.rpy:1230
 translate russian minami_murder_talk_86d07102:
     mike.say "А..."
@@ -5895,10 +5463,6 @@ translate russian minami_murder_talk_b29cd443:
 # ch/minami/events.rpy:1234
 translate russian minami_murder_talk_c9ef038f:
     "Затем качает головой, отметая мои тревоги."
-
-# ch/minami/events.rpy:1237
-translate russian minami_murder_talk_fe9a5250:
-    minami.say "Конечно, братик!"
 
 # ch/minami/events.rpy:1238
 translate russian minami_murder_talk_046c00d1:
@@ -5932,12 +5496,8 @@ translate russian minami_murder_talk_391fc67c:
 translate russian minami_murder_talk_2b4c622a:
     "И останавливается, боясь сделать что-то не так."
 
-# ch/minami/events.rpy:1249
-translate russian minami_murder_talk_65abde9e:
-    minami.say "Прости, братик..."
-
 # ch/minami/events.rpy:1250
-translate russian minami_murder_talk_0b006254:
+translate russian minami_murder_talk_bbd16600:
     minami.say "Я просто подумала, что после... того, что случилось..."
 
 # ch/minami/events.rpy:1251
@@ -6056,10 +5616,6 @@ translate russian minami_murder_talk_edab1e70:
 translate russian minami_murder_talk_0babcba8:
     mike.say "Мне это было очень нужно!"
 
-# ch/minami/events.rpy:1285
-translate russian minami_murder_talk_f7a1fc2b:
-    minami.say "Всегда пожалуйста, братик!"
-
 # ch/minami/events.rpy:1286
 translate russian minami_murder_talk_6c70d921:
     minami.say "Я всегда готова обниматься!"
@@ -6172,12 +5728,8 @@ translate russian minami_murder_talk_391fc67c_1:
 translate russian minami_murder_talk_2b4c622a_1:
     "И останавливается, боясь сделать что-то не так."
 
-# ch/minami/events.rpy:1324
-translate russian minami_murder_talk_65abde9e_1:
-    minami.say "Прости, братик..."
-
 # ch/minami/events.rpy:1325
-translate russian minami_murder_talk_0b006254_1:
+translate russian minami_murder_talk_bbd16600_1:
     minami.say "Я просто подумала, что после... того, что случилось..."
 
 # ch/minami/events.rpy:1326
@@ -6251,10 +5803,6 @@ translate russian minami_murder_talk_edab1e70_1:
 # ch/minami/events.rpy:1344
 translate russian minami_murder_talk_0babcba8_1:
     mike.say "Мне это было очень нужно!"
-
-# ch/minami/events.rpy:1346
-translate russian minami_murder_talk_f7a1fc2b_1:
-    minami.say "Всегда пожалуйста, братик!"
 
 # ch/minami/events.rpy:1347
 translate russian minami_murder_talk_6c70d921_1:
@@ -6384,10 +5932,6 @@ translate russian minami_murder_talk_06136b32:
 translate russian minami_murder_talk_01b4a8a4:
     mike.say "Они прячут что-то глубоко внутри."
 
-# ch/minami/events.rpy:1387
-translate russian minami_murder_talk_2a9c26b6:
-    minami.say "Ты прав, братик..."
-
 # ch/minami/events.rpy:1388
 translate russian minami_murder_talk_eaf1f3bc:
     minami.say "Кайли всегда была ужасно увлекающейся."
@@ -6411,10 +5955,6 @@ translate russian minami_murder_talk_e9ec49bc:
 # ch/minami/events.rpy:1393
 translate russian minami_murder_talk_d597d755:
     minami.say "Просто странно, что для Кайли..."
-
-# ch/minami/events.rpy:1394
-translate russian minami_murder_talk_15baa6f1:
-    minami.say "Этим был ты, братик!"
 
 # ch/minami/events.rpy:1395
 translate russian minami_murder_talk_ed96ffae:
@@ -6496,10 +6036,6 @@ translate russian minami_angela_conversation_a2c82828:
 translate russian minami_angela_conversation_e88a6d9a:
     "Она выглядит смущённой и прикусывает губу, словно собираясь с духом."
 
-# ch/minami/events.rpy:1420
-translate russian minami_angela_conversation_ad241c0c:
-    minami.say "П... привет, братик."
-
 # ch/minami/events.rpy:1421
 translate russian minami_angela_conversation_fd30b6a4:
     mike.say "Привет, Минами."
@@ -6556,10 +6092,6 @@ translate russian minami_angela_conversation_e6383eff:
 translate russian minami_angela_conversation_0cbc8be0:
     "Я киваю, радуясь, что хотя бы в этом мы знаем одно и то же."
 
-# ch/minami/events.rpy:1438
-translate russian minami_angela_conversation_988a60f3:
-    minami.say "П... прости, что я убежала, братик."
-
 # ch/minami/events.rpy:1439
 translate russian minami_angela_conversation_bdfbb8d6:
     minami.say "Я испугалась того, что услышала!"
@@ -6600,10 +6132,6 @@ translate russian minami_angela_conversation_fb88fde2:
 translate russian minami_angela_conversation_ad1081e3:
     "Я даже представить не могу, что она при этом чувствовала."
 
-# ch/minami/events.rpy:1449
-translate russian minami_angela_conversation_4e029c4b:
-    minami.say "Что это значит, братик?"
-
 # ch/minami/events.rpy:1450
 translate russian minami_angela_conversation_2708c80d:
     minami.say "Что вообще всё это значит?"
@@ -6636,10 +6164,6 @@ translate russian minami_angela_conversation_fa075a81:
 translate russian minami_angela_conversation_64930a17:
     "Но он точно так же снова меня успокаивает."
 
-# ch/minami/events.rpy:1459
-translate russian minami_angela_conversation_554b872e:
-    minami.say "Я верю тебе, братик. Правда верю."
-
 # ch/minami/events.rpy:1460
 translate russian minami_angela_conversation_4cb88dde:
     minami.say "Знаешь почему?"
@@ -6647,10 +6171,6 @@ translate russian minami_angela_conversation_4cb88dde:
 # ch/minami/events.rpy:1461
 translate russian minami_angela_conversation_ec34a5f2:
     minami.say "Иначе ты бы не пытался так упорно передо мной устоять!"
-
-# ch/minami/events.rpy:1462
-translate russian minami_angela_conversation_845f2c7a:
-    minami.say "Но... но мне всё ещё страшно, братик."
 
 # ch/minami/events.rpy:1463
 translate russian minami_angela_conversation_92e6aa74:
@@ -6688,10 +6208,6 @@ translate russian minami_angela_conversation_7bd31e0f:
 translate russian minami_angela_conversation_b6d4d8d6:
     mike.say "С самого нашего детства и до сих пор!"
 
-# ch/minami/events.rpy:1472
-translate russian minami_angela_conversation_cdd0132f:
-    minami.say "Я больше не знаю, чему верить, братик."
-
 # ch/minami/events.rpy:1473
 translate russian minami_angela_conversation_91466509:
     minami.say "Хоть что-нибудь из того, что они нам говорили, было правдой?"
@@ -6711,10 +6227,6 @@ translate russian minami_angela_conversation_b24411fc:
 # ch/minami/events.rpy:1477
 translate russian minami_angela_conversation_e55cc473:
     mike.say "Мы всё ещё говорим о телефонном разговоре?"
-
-# ch/minami/events.rpy:1478
-translate russian minami_angela_conversation_e0e23fe2:
-    minami.say "Подумай, братик!"
 
 # ch/minami/events.rpy:1479
 translate russian minami_angela_conversation_34d131a7:
@@ -6744,10 +6256,6 @@ translate russian minami_angela_conversation_98b9ea1e:
 translate russian minami_angela_conversation_c4d641e2:
     "Минами смотрит на меня с неподдельным недоумением."
 
-# ch/minami/events.rpy:1487
-translate russian minami_angela_conversation_1587440b:
-    minami.say "Господи, братик!"
-
 # ch/minami/events.rpy:1488
 translate russian minami_angela_conversation_125542d0:
     minami.say "Какая разница, нравится тебе или нет?!"
@@ -6767,10 +6275,6 @@ translate russian minami_angela_conversation_00568fe6:
 # ch/minami/events.rpy:1492
 translate russian minami_angela_conversation_782cd3da:
     mike.say "Что ты пытаешься сказать, Минами?"
-
-# ch/minami/events.rpy:1493
-translate russian minami_angela_conversation_2dc1757c:
-    minami.say "Разве не понятно, братик?"
 
 # ch/minami/events.rpy:1494
 translate russian minami_angela_conversation_462c7ce5:
@@ -6860,16 +6364,12 @@ translate russian minami_angela_acceptation_bb9a9a2b:
 translate russian minami_angela_acceptation_59aad4a8:
     "Но какой бы болезненной ни была эта мысль, неизвестность о том, чего хочет Минами, ещё хуже."
 
-# ch/minami/events.rpy:1521
-translate russian minami_angela_acceptation_05ce75ee:
-    minami.say "Б... братик?"
-
 # ch/minami/events.rpy:1522
 translate russian minami_angela_acceptation_48aa8d31:
     mike.say "Да, Минами."
 
 # ch/minami/events.rpy:1523
-translate russian minami_angela_acceptation_356266ea:
+translate russian minami_angela_acceptation_10fb2906:
     minami.say "Ты... ты на меня злишься?"
 
 # ch/minami/events.rpy:1524
@@ -6896,10 +6396,6 @@ translate russian minami_angela_acceptation_65c6e314:
 translate russian minami_angela_acceptation_78438b8b:
     "Робость на её лице мгновенно сменяется горячей тревогой."
 
-# ch/minami/events.rpy:1531
-translate russian minami_angela_acceptation_f1785d84:
-    minami.say "Ох, братик!"
-
 # ch/minami/events.rpy:1532
 translate russian minami_angela_acceptation_a002aa91:
     minami.say "Не могу видеть тебя таким грустным!"
@@ -6909,7 +6405,7 @@ translate russian minami_angela_acceptation_d3e946b3:
     minami.say "Как же я могла быть такой дурой?!"
 
 # ch/minami/events.rpy:1534
-translate russian minami_angela_acceptation_5e11f243:
+translate russian minami_angela_acceptation_f87b321f:
     mike.say "Ч... что ты имеешь в виду, Минами?"
 
 # ch/minami/events.rpy:1535
@@ -6940,16 +6436,12 @@ translate russian minami_angela_acceptation_6a99f7d3:
 translate russian minami_angela_acceptation_cb9e0dfa:
     mike.say "Ты имеешь полное право злиться. Я вот точно злюсь!"
 
-# ch/minami/events.rpy:1543
-translate russian minami_angela_acceptation_62ff07cd:
-    minami.say "Ох, братик, ты ТАК хорошо ко мне относишься!"
-
 # ch/minami/events.rpy:1544
 translate russian minami_angela_acceptation_c5cd162f:
     minami.say "Знаю, сейчас это прозвучит безумно."
 
 # ch/minami/events.rpy:1545
-translate russian minami_angela_acceptation_99b223e7:
+translate russian minami_angela_acceptation_3e7e3ba8:
     minami.say "Но с тех пор, как мы узнали... ну..."
 
 # ch/minami/events.rpy:1546
@@ -6975,10 +6467,6 @@ translate russian minami_angela_acceptation_3dd0849d:
 # ch/minami/events.rpy:1551
 translate russian minami_angela_acceptation_2a0d8a3c:
     minami.say "Нет, нет, нет..."
-
-# ch/minami/events.rpy:1552
-translate russian minami_angela_acceptation_9b22ddcc:
-    minami.say "Пойми меня, братик."
 
 # ch/minami/events.rpy:1553
 translate russian minami_angela_acceptation_eb44b19d:
@@ -7011,10 +6499,6 @@ translate russian minami_angela_acceptation_8bec8515:
 # ch/minami/events.rpy:1561
 translate russian minami_angela_acceptation_cda3fdc9:
     "Это сразу успокаивает, почти заставляя забыть обо всём остальном."
-
-# ch/minami/events.rpy:1562
-translate russian minami_angela_acceptation_9e8fc04d:
-    minami.say "Нет, братик, ты не прав."
 
 # ch/minami/events.rpy:1563
 translate russian minami_angela_acceptation_eb24d73b:
@@ -7400,12 +6884,8 @@ translate russian angela_visit_3b3bac79:
 translate russian angela_visit_eb12dd36:
     "Но её нигде нет, и я понимаю, что стою на крыльце один."
 
-# ch/minami/events.rpy:1748
-translate russian minami_practice_blowjob_5a9c0b13:
-    minami.say "Привет, братик!"
-
 # ch/minami/events.rpy:1749
-translate russian minami_practice_blowjob_244be62f:
+translate russian minami_practice_blowjob_a318c44f:
     mike.say "Ч... что..."
 
 # ch/minami/events.rpy:1750
@@ -7440,10 +6920,6 @@ translate russian minami_practice_blowjob_95a524f9:
 translate russian minami_practice_blowjob_47366b2a:
     mike.say "Что такое?"
 
-# ch/minami/events.rpy:1758
-translate russian minami_practice_blowjob_9722933e:
-    minami.say "Я хотела поговорить о следующем уроке, братик."
-
 # ch/minami/events.rpy:1759
 translate russian minami_practice_blowjob_b13a3ac0:
     "Ну конечно!"
@@ -7468,10 +6944,6 @@ translate russian minami_practice_blowjob_7a7d300c:
 translate russian minami_practice_blowjob_cf298ed2:
     "Минами улыбается и качает головой."
 
-# ch/minami/events.rpy:1766
-translate russian minami_practice_blowjob_d1516153:
-    minami.say "Хорошая попытка, братик!"
-
 # ch/minami/events.rpy:1767
 translate russian minami_practice_blowjob_a20b7101:
     minami.say "Но дальше второй базы ты меня ещё не довёл!"
@@ -7485,7 +6957,7 @@ translate russian minami_practice_blowjob_3b34bc86:
     "Дальше второй базы — она вообще знает, что это значит?!"
 
 # ch/minami/events.rpy:1771
-translate russian minami_practice_blowjob_ab8856a6:
+translate russian minami_practice_blowjob_e524226c:
     "Погодите... может, в этом всё дело!"
 
 # ch/minami/events.rpy:1772
@@ -7516,10 +6988,6 @@ translate russian minami_practice_blowjob_a9f561b9:
 translate russian minami_practice_blowjob_5470dae6:
     "Минами смотрит на меня с усмешкой, будто я шучу."
 
-# ch/minami/events.rpy:1780
-translate russian minami_practice_blowjob_e7546ebd:
-    minami.say "Братик, не глупи."
-
 # ch/minami/events.rpy:1781
 translate russian minami_practice_blowjob_ae2425ef:
     minami.say "Ты же знаешь, что такое третья база!"
@@ -7540,10 +7008,6 @@ translate russian minami_practice_blowjob_0db21108:
 translate russian minami_practice_blowjob_de5290ef:
     "Минами снова качает головой, а затем всё же согласно кивает."
 
-# ch/minami/events.rpy:1787
-translate russian minami_practice_blowjob_2ee85080:
-    minami.say "Третья база — это оральный секс, братик."
-
 # ch/minami/events.rpy:1788
 translate russian minami_practice_blowjob_34045c86:
     minami.say "Так что мне нужно, чтобы ты научил меня правильно делать минет!"
@@ -7557,20 +7021,16 @@ translate russian minami_practice_blowjob_eb815400:
     "И, судя по её лицу, переубедить себя она не позволит."
 
 # ch/minami/events.rpy:1792
-translate russian minami_practice_blowjob_bf23ff21:
+translate russian minami_practice_blowjob_bf283bcd:
     mike.say "А... ну..."
 
 # ch/minami/events.rpy:1793
-translate russian minami_practice_blowjob_315052c3:
+translate russian minami_practice_blowjob_00cbd55b:
     mike.say "Мы могли бы... взять что-нибудь для практики."
 
 # ch/minami/events.rpy:1794
-translate russian minami_practice_blowjob_1a886de3:
+translate russian minami_practice_blowjob_0c731612:
     mike.say "Например... морковку... или, может, огурец!"
-
-# ch/minami/events.rpy:1796
-translate russian minami_practice_blowjob_2f5be7ad:
-    minami.say "Ну, братик, так не получится."
 
 # ch/minami/events.rpy:1797
 translate russian minami_practice_blowjob_12b15e87:
@@ -7589,7 +7049,7 @@ translate russian minami_practice_blowjob_814a579c:
     mike.say "Неужели ты правда хочешь, чтобы я позволил тебе..."
 
 # ch/minami/events.rpy:1804
-translate russian minami_practice_blowjob_5e3767e6:
+translate russian minami_practice_blowjob_48006d15:
     mike.say "Чтобы ты... потренировалась..."
 
 # ch/minami/events.rpy:1805
@@ -7603,10 +7063,6 @@ translate russian minami_practice_blowjob_2f6fc04c:
 # ch/minami/events.rpy:1808
 translate russian minami_practice_blowjob_daf61287:
     "Я вижу, что она пытается придумать, как выкрутиться и повернуть всё в нужную ей сторону."
-
-# ch/minami/events.rpy:1809
-translate russian minami_practice_blowjob_be623702:
-    minami.say "Это же просто практика, братик."
 
 # ch/minami/events.rpy:1810
 translate russian minami_practice_blowjob_b33c7c11:
@@ -7624,10 +7080,6 @@ translate russian minami_practice_blowjob_1a38e483:
 translate russian minami_practice_blowjob_5f44dd48:
     mike.say "А относиться к тебе как к шлюхе — ещё хуже!"
 
-# ch/minami/events.rpy:1815
-translate russian minami_practice_blowjob_ea74a357:
-    minami.say "Ну пожалуйста, братик!"
-
 # ch/minami/events.rpy:1816
 translate russian minami_practice_blowjob_9a240b15:
     minami.say "Ты бы мне очень помог."
@@ -7639,10 +7091,6 @@ translate russian minami_practice_blowjob_eb3aad84:
 # ch/minami/events.rpy:1818
 translate russian minami_practice_blowjob_9b715a91:
     mike.say "Я сказал нет, Минами, и не передумаю."
-
-# ch/minami/events.rpy:1820
-translate russian minami_practice_blowjob_40256383:
-    minami.say "Уф, с тобой просто НЕВОЗМОЖНО договориться, братик!"
 
 # ch/minami/events.rpy:1821
 translate russian minami_practice_blowjob_80729f38:
@@ -7852,10 +7300,6 @@ translate russian minami_practice_blowjob_24deb984:
 translate russian minami_practice_blowjob_e18932a2:
     "Немного даже капает в её всё ещё открытый рот."
 
-# ch/minami/events.rpy:1888
-translate russian minami_practice_blowjob_fe3ad94f:
-    minami.say "Зачем ты меня остановил, братик?"
-
 # ch/minami/events.rpy:1889
 translate russian minami_practice_blowjob_00b12f7d:
     minami.say "Я что-то сделала не так?"
@@ -7865,15 +7309,15 @@ translate russian minami_practice_blowjob_f25612c9:
     "Я ловлю ртом воздух, с трудом пытаясь ответить."
 
 # ch/minami/events.rpy:1892
-translate russian minami_practice_blowjob_663e6b9e:
+translate russian minami_practice_blowjob_c3184992:
     mike.say "Нет... Минами..."
 
 # ch/minami/events.rpy:1893
-translate russian minami_practice_blowjob_28a6fb5a:
+translate russian minami_practice_blowjob_c024d418:
     mike.say "Ты... сдала..."
 
 # ch/minami/events.rpy:1894
-translate russian minami_practice_blowjob_b23620ab:
+translate russian minami_practice_blowjob_bd80073b:
     mike.say "Лучше... всех... в... классе..."
 
 # ch/minami/events.rpy:1903
@@ -7901,7 +7345,7 @@ translate russian minami_practice_sex_95feb82b:
     "Началось всё достаточно невинно: я сводил Минами на тренировочное свидание."
 
 # ch/minami/events.rpy:1909
-translate russian minami_practice_sex_7348ba9b:
+translate russian minami_practice_sex_0259e83b:
     "Но потом ей захотелось перейти к более... скажем так, телесной стороне дела."
 
 # ch/minami/events.rpy:1910
@@ -7932,12 +7376,8 @@ translate russian minami_practice_sex_93adbb9c:
 translate russian minami_practice_sex_b0f11ee1:
     "И как раз когда я начал думать, что всё может вернуться в норму, Минами снова прижимает меня к стенке..."
 
-# ch/minami/events.rpy:1918
-translate russian minami_practice_sex_309fcd6b:
-    minami.say "Привет, братик!"
-
 # ch/minami/events.rpy:1919
-translate russian minami_practice_sex_abff9944:
+translate russian minami_practice_sex_2aea36e7:
     mike.say "А... привет, Минами..."
 
 # ch/minami/events.rpy:1920
@@ -7947,10 +7387,6 @@ translate russian minami_practice_sex_540106b2:
 # ch/minami/events.rpy:1923
 translate russian minami_practice_sex_6d8ac4fb:
     "Она хмурится, будто обижена моим предположением."
-
-# ch/minami/events.rpy:1924
-translate russian minami_practice_sex_41b3a5ee:
-    minami.say "Почему ты решил, что мне что-то нужно, братик?"
 
 # ch/minami/events.rpy:1926
 translate russian minami_practice_sex_58cba8da:
@@ -7971,10 +7407,6 @@ translate russian minami_practice_sex_a5afa26c:
 # ch/minami/events.rpy:1930
 translate russian minami_practice_sex_5229050e:
     mike.say "Так тебе что-то нужно или нет?"
-
-# ch/minami/events.rpy:1932
-translate russian minami_practice_sex_70ec56a0:
-    minami.say "Раскусил, братик."
 
 # ch/minami/events.rpy:1933
 translate russian minami_practice_sex_2e0b943a:
@@ -8008,10 +7440,6 @@ translate russian minami_practice_sex_6e39d50a:
 translate russian minami_practice_sex_a6282ba5:
     mike.say "Давай, Минами, ближе к делу!"
 
-# ch/minami/events.rpy:1944
-translate russian minami_practice_sex_97e3fc82:
-    minami.say "Господи, братик!"
-
 # ch/minami/events.rpy:1945
 translate russian minami_practice_sex_4a3c4089:
     minami.say "Дай мне договорить, прежде чем лезть в глотку!"
@@ -8024,16 +7452,12 @@ translate russian minami_practice_sex_c32f9cf6:
 translate russian minami_practice_sex_5e4de0ea:
     "Минами глубоко вдыхает и выполняет мою просьбу."
 
-# ch/minami/events.rpy:1949
-translate russian minami_practice_sex_1442223f:
-    minami.say "А как насчёт секса, братик?"
-
 # ch/minami/events.rpy:1950
 translate russian minami_practice_sex_ecf3d442:
     mike.say "А что с ним?"
 
 # ch/minami/events.rpy:1951
-translate russian minami_practice_sex_021c4487:
+translate russian minami_practice_sex_ca0842c9:
     minami.say "Ты понимаешь, о чём я! Откуда мне знать, что... что делать?!"
 
 # ch/minami/events.rpy:1952
@@ -8064,10 +7488,6 @@ translate russian minami_practice_sex_bfacc88b:
 translate russian minami_practice_sex_5794f0ca:
     mike.say "Послушай, о чём ты только что меня попросила!"
 
-# ch/minami/events.rpy:1962
-translate russian minami_practice_sex_7af262d9:
-    minami.say "Ну же, братик!"
-
 # ch/minami/events.rpy:1963
 translate russian minami_practice_sex_dd1aaabc:
     minami.say "Ты бы просто мне помог, вот и всё!"
@@ -8096,10 +7516,6 @@ translate russian minami_practice_sex_68965a49:
 translate russian minami_practice_sex_8ecfa652:
     "В каком-то смысле я даже восхищаюсь её наглостью: она хотя бы пытается."
 
-# ch/minami/events.rpy:1972
-translate russian minami_practice_sex_bdf8208c:
-    minami.say "Это только если мы кровные родственники, братик."
-
 # ch/minami/events.rpy:1973
 translate russian minami_practice_sex_18acf14a:
     minami.say "Мы оба знаем, что меня удочерили. А если бы нет, мы могли бы просто познакомиться на улице!"
@@ -8119,10 +7535,6 @@ translate russian minami_practice_sex_fb00b3c4:
 # ch/minami/events.rpy:1977
 translate russian minami_practice_sex_208ee1f9:
     "Но смотрит мне в глаза и, похоже, передумывает."
-
-# ch/minami/events.rpy:1979
-translate russian minami_practice_sex_6a01cbae:
-    minami.say "У-у, братик!"
 
 # ch/minami/events.rpy:1980
 translate russian minami_practice_sex_d812d61d:
@@ -8196,10 +7608,6 @@ translate russian minami_practice_sex_9a8284ee:
 translate russian minami_practice_sex_9a794ba2:
     "Затем забирается на кровать и манит меня за собой."
 
-# ch/minami/events.rpy:2006
-translate russian minami_practice_sex_2dddd355:
-    minami.say "Ну же, братик."
-
 # ch/minami/events.rpy:2007
 translate russian minami_practice_sex_a6f03b46:
     "Она хлопает по матрасу рядом, и я чувствую, что тело уже движется, подчиняясь."
@@ -8233,7 +7641,7 @@ translate russian minami_practice_sex_ee1b44e2:
     minami.say "Похоже, кто-то готов показать, на что способен!"
 
 # ch/minami/events.rpy:2017
-translate russian minami_practice_sex_ff642fda:
+translate russian minami_practice_sex_4a3870ec:
     mike.say "Я... ну... да..."
 
 # ch/minami/events.rpy:2018
@@ -8259,10 +7667,6 @@ translate russian minami_practice_sex_e701c090:
 # ch/minami/events.rpy:2023
 translate russian minami_practice_sex_2c1e194e:
     "Минами радостно кивает и шутливо отдаёт честь."
-
-# ch/minami/events.rpy:2024
-translate russian minami_practice_sex_054e7610:
-    minami.say "Ладно, приступим, братик!"
 
 # ch/minami/events.rpy:2025
 translate russian minami_practice_sex_dc3754b5:
@@ -8325,7 +7729,7 @@ translate russian minami_practice_sex_3a86956e:
     "Когда презерватив надет, Минами поднимает на меня взгляд, нетерпеливо ожидая следующего указания."
 
 # ch/minami/events.rpy:2043
-translate russian minami_practice_sex_b4b4c3c5:
+translate russian minami_practice_sex_1bb74063:
     mike.say "А... так..."
 
 # ch/minami/events.rpy:2044
@@ -8339,10 +7743,6 @@ translate russian minami_practice_sex_26650c7d:
 # ch/minami/events.rpy:2046
 translate russian minami_practice_sex_7df764da:
     minami.say "М-м-м..."
-
-# ch/minami/events.rpy:2047
-translate russian minami_practice_sex_1b1b5951:
-    minami.say "Не думаю, братик."
 
 # ch/minami/events.rpy:2048
 translate russian minami_practice_sex_bd949538:
@@ -8392,10 +7792,6 @@ translate russian minami_practice_sex_6a9a0936:
 translate russian minami_practice_sex_ef34e0aa:
     "И я впервые чувствую скользкое прикосновение её киски к своей голой коже."
 
-# ch/minami/events.rpy:2066
-translate russian minami_practice_sex_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/minami/events.rpy:2067
 translate russian minami_practice_sex_43180362:
     minami.say "Ты УВЕРЕН, что он во мне поместится?"
@@ -8441,19 +7837,19 @@ translate russian minami_practice_sex_addee785:
     "Затем она опускается на меня..."
 
 # ch/minami/events.rpy:2080
-translate russian minami_practice_sex_0ba46419:
+translate russian minami_practice_sex_99d8517b:
     minami.say "Ах... а-ах..."
 
 # ch/minami/events.rpy:2081
-translate russian minami_practice_sex_453f7156:
+translate russian minami_practice_sex_d8271526:
     minami.say "Б... больно!"
 
 # ch/minami/events.rpy:2082
-translate russian minami_practice_sex_05b3218f:
+translate russian minami_practice_sex_0d60aaa3:
     mike.say "Э... это твоя девственная плева, Минами..."
 
 # ch/minami/events.rpy:2083
-translate russian minami_practice_sex_d8b490b2:
+translate russian minami_practice_sex_cc1b4c7f:
     mike.say "Она должна... порваться!"
 
 # ch/minami/events.rpy:2084
@@ -8465,12 +7861,8 @@ translate russian minami_practice_sex_7db05920:
     "Минами опускается, всем весом насаживаясь на мой член."
 
 # ch/minami/events.rpy:2087
-translate russian minami_practice_sex_2a5e888e:
+translate russian minami_practice_sex_24c3ac0f:
     minami.say "Ох... ох, чёрт!"
-
-# ch/minami/events.rpy:2088
-translate russian minami_practice_sex_49a7c6b2:
-    minami.say "Братик... как же... как хорошо!"
 
 # ch/minami/events.rpy:2089
 translate russian minami_practice_sex_4e2a8be5:
@@ -8508,10 +7900,6 @@ translate russian minami_practice_sex_c16c630e:
 translate russian minami_practice_sex_29bf9fc1:
     "Так что она вдавливает её в мои ладони со всей силы."
 
-# ch/minami/events.rpy:2100
-translate russian minami_practice_sex_e92977b4:
-    minami.say "Как же мне нравится, братик..."
-
 # ch/minami/events.rpy:2101
 translate russian minami_practice_sex_cf5d9f6c:
     minami.say "Обожаю чувствовать твой член внутри!"
@@ -8524,12 +7912,8 @@ translate russian minami_practice_sex_2b0c9351:
 translate russian minami_practice_sex_0cd14fdb:
     "Ногти Минами впиваются мне в грудь, пока она гонится за удовольствием, ни на миг не замедляя бёдер."
 
-# ch/minami/events.rpy:2104
-translate russian minami_practice_sex_abd0de37:
-    minami.say "Не останавливайся, братик..."
-
 # ch/minami/events.rpy:2105
-translate russian minami_practice_sex_dd606293:
+translate russian minami_practice_sex_5f615079:
     minami.say "Мне нужно... я хочу тебя целиком!"
 
 # ch/minami/events.rpy:2106
@@ -8557,12 +7941,8 @@ translate russian minami_practice_sex_06527829:
     "И когда я теряю контроль, она выгибает спину и громко, безудержно стонет."
 
 # ch/minami/events.rpy:2115
-translate russian minami_practice_sex_6430ef38:
+translate russian minami_practice_sex_38497426:
     minami.say "Ах... да... да..."
-
-# ch/minami/events.rpy:2116
-translate russian minami_practice_sex_e8234496:
-    minami.say "Доведи меня до оргазма, братик!"
 
 # ch/minami/events.rpy:2117
 translate russian minami_practice_sex_371aa7d1:
@@ -8573,20 +7953,16 @@ translate russian minami_practice_sex_74cffd3d:
     "Она соскальзывает с него, и её тело такое же скользкое от пота, как моё."
 
 # ch/minami/events.rpy:2119
-translate russian minami_practice_sex_ad0cc0db:
+translate russian minami_practice_sex_f958e287:
     mike.say "Ну что... Минами..."
 
 # ch/minami/events.rpy:2120
-translate russian minami_practice_sex_cc7bf3ca:
+translate russian minami_practice_sex_0a6c68fb:
     mike.say "Ты... научилась тому... чему хотела?"
 
 # ch/minami/events.rpy:2121
 translate russian minami_practice_sex_eac16db7:
     minami.say "Фух!"
-
-# ch/minami/events.rpy:2122
-translate russian minami_practice_sex_35a30f3f:
-    minami.say "Да, братик."
 
 # ch/minami/events.rpy:2123
 translate russian minami_practice_sex_00e1772c:
@@ -8609,7 +7985,7 @@ translate russian minami_meet_alexis_8682e4e2:
     "Впрочем, её восторг заразителен, и вскоре я понимаю, что мне гораздо веселее, чем ожидалось."
 
 # ch/minami/events.rpy:2136
-translate russian minami_meet_alexis_4f15289b:
+translate russian minami_meet_alexis_3514dff9:
     minami.say "О... мой... бог!"
 
 # ch/minami/events.rpy:2137
@@ -8656,16 +8032,12 @@ translate russian minami_meet_alexis_7a464750:
 translate russian minami_meet_alexis_41515293:
     "А для Минами — целый новый мир неизведанных радостей и потребительских чудес."
 
-# ch/minami/events.rpy:2152
-translate russian minami_meet_alexis_3890c918:
-    minami.say "ОГРОМНОЕ спасибо, что привёл меня сюда, братик!"
-
 # ch/minami/events.rpy:2153
 translate russian minami_meet_alexis_2ad3c2d0:
     minami.say "Такое весёлое свидание!"
 
 # ch/minami/events.rpy:2155
-translate russian minami_meet_alexis_ee6e5891:
+translate russian minami_meet_alexis_f4ba0394:
     "Что... постойте!"
 
 # ch/minami/events.rpy:2156
@@ -8687,10 +8059,6 @@ translate russian minami_meet_alexis_18215003:
 # ch/minami/events.rpy:2160
 translate russian minami_meet_alexis_69ae7477:
     "Минами улыбается и закатывает глаза, забавляясь моей реакцией."
-
-# ch/minami/events.rpy:2162
-translate russian minami_meet_alexis_8de9564c:
-    minami.say "Ой, расслабься, братик!"
 
 # ch/minami/events.rpy:2163
 translate russian minami_meet_alexis_0947dafe:
@@ -8751,10 +8119,6 @@ translate russian minami_meet_alexis_5a7a825c:
 # ch/minami/events.rpy:2183
 translate russian minami_meet_alexis_53d44ac2:
     minami.say "По мне, так недостаточно давно!"
-
-# ch/minami/events.rpy:2184
-translate russian minami_meet_alexis_15eb6fcd:
-    minami.say "Не понимаю, как у тебя хватает совести разговаривать с моим бедным братиком."
 
 # ch/minami/events.rpy:2185
 translate russian minami_meet_alexis_226f62cf:
@@ -8856,10 +8220,6 @@ translate russian minami_meet_jack_e0ff5bb4:
 translate russian minami_meet_jack_41ef0227:
     minami.say "Угх..."
 
-# ch/minami/events.rpy:2223
-translate russian minami_meet_jack_67e7fe61:
-    minami.say "Надеюсь, это что-то хорошее, братик!"
-
 # ch/minami/events.rpy:2224
 translate russian minami_meet_jack_42ff6463:
     mike.say "«Винчестер Армс», в просторечии — просто «Винчестер»!"
@@ -8880,10 +8240,6 @@ translate russian minami_meet_jack_844b93f2:
 translate russian minami_meet_jack_483940bb:
     minami.say "О-о-о..."
 
-# ch/minami/events.rpy:2231
-translate russian minami_meet_jack_3c9ac30f:
-    minami.say "Так вот где ты проводишь время, братик?"
-
 # ch/minami/events.rpy:2232
 translate russian minami_meet_jack_b6eeff8c:
     minami.say "И меня теперь тоже возьмёшь!"
@@ -8900,10 +8256,6 @@ translate russian minami_meet_jack_c5041239:
 translate russian minami_meet_jack_e25c205b:
     mike.say "Я не открываю тебе доступ в какой-то тайный клуб!"
 
-# ch/minami/events.rpy:2238
-translate russian minami_meet_jack_f1785d84:
-    minami.say "Ох, братик!"
-
 # ch/minami/events.rpy:2239
 translate russian minami_meet_jack_a280252b:
     minami.say "Ты не знаешь, как долго я ждала, когда смогу делать что-нибудь такое."
@@ -8917,11 +8269,11 @@ translate russian minami_meet_jack_e48b599b:
     minami.say "Хотела быть там же, где ты, и делать то же, что и ты..."
 
 # ch/minami/events.rpy:2242
-translate russian minami_meet_jack_105b4305:
+translate russian minami_meet_jack_8b6d8ff8:
     mike.say "Эм... да."
 
 # ch/minami/events.rpy:2243
-translate russian minami_meet_jack_004c3600:
+translate russian minami_meet_jack_793a1ac3:
     mike.say "Ладно, Минами... как скажешь!"
 
 # ch/minami/events.rpy:2245
@@ -8937,7 +8289,7 @@ translate russian minami_meet_jack_f0d9c88b:
     jack.say "Эй, [lssb_minami.hero_name()], сюда!"
 
 # ch/minami/events.rpy:2250
-translate russian minami_meet_jack_2ffdd84e:
+translate russian minami_meet_jack_1ab202ce:
     minami.say "О... мой... бог!"
 
 # ch/minami/events.rpy:2251
@@ -8973,7 +8325,7 @@ translate russian minami_meet_jack_ed911f50:
     "Из вежливости я машу другу, но сомневаюсь, что он вообще замечает моё присутствие."
 
 # ch/minami/events.rpy:2263
-translate russian minami_meet_jack_7c2664a6:
+translate russian minami_meet_jack_d57b3bf1:
     jack.say "Т... ты не можешь быть Минами."
 
 # ch/minami/events.rpy:2264
@@ -8981,7 +8333,7 @@ translate russian minami_meet_jack_08681e11:
     jack.say "Минами — маленькая девочка."
 
 # ch/minami/events.rpy:2265
-translate russian minami_meet_jack_e8d8f89a:
+translate russian minami_meet_jack_1e55290d:
     jack.say "А ты... ты..."
 
 # ch/minami/events.rpy:2267
@@ -9053,7 +8405,7 @@ translate russian minami_meet_jack_29d9f900:
     mike.say "Думаю, ты был занят другими мыслями, да?"
 
 # ch/minami/events.rpy:2287
-translate russian minami_meet_jack_94fb2618:
+translate russian minami_meet_jack_fc30b0d7:
     jack.say "А... ну да... наверное..."
 
 # ch/minami/events.rpy:2288
@@ -9168,10 +8520,6 @@ translate russian minami_meet_kylie_5904bf8e:
 translate russian minami_meet_kylie_3cf9c69d:
     "Каждый новый совет, кажется, всё сильнее впечатляет Минами, упивающуюся моей якобы мудростью."
 
-# ch/minami/events.rpy:2325
-translate russian minami_meet_kylie_15018380:
-    minami.say "Ох, братик."
-
 # ch/minami/events.rpy:2326
 translate russian minami_meet_kylie_170760d0:
     minami.say "Не знаю, что бы я без тебя делала!"
@@ -9203,10 +8551,6 @@ translate russian minami_meet_kylie_b6ee54b4:
 # ch/minami/events.rpy:2334
 translate russian minami_meet_kylie_13639c72:
     mike.say "Да ну, не глупи, Минами!"
-
-# ch/minami/events.rpy:2336
-translate russian minami_meet_kylie_790ddbf2:
-    minami.say "Я серьёзно, братик."
 
 # ch/minami/events.rpy:2337
 translate russian minami_meet_kylie_d42cbeaa:
@@ -9275,10 +8619,6 @@ translate russian minami_meet_kylie_a21eb5f5:
 # ch/minami/events.rpy:2360
 translate russian minami_meet_kylie_ecff711a:
     "Когда Кайли подходит, Минами поворачивается ко мне и шутливо грозит пальцем."
-
-# ch/minami/events.rpy:2361
-translate russian minami_meet_kylie_ab98b45f:
-    minami.say "Плохой братик, очень-очень плохой!"
 
 # ch/minami/events.rpy:2362
 translate russian minami_meet_kylie_be4dbb6f:
@@ -9477,7 +8817,7 @@ translate russian minami_meet_morgan_ae8f6fe4:
     morgan.say "Да-да, ты, несомненно, ЗДЕСЬ!"
 
 # ch/minami/events.rpy:2435
-translate russian minami_meet_morgan_4c07377c:
+translate russian minami_meet_morgan_7caa74ad:
     mike.say "А... Морган, ты ведь помнишь Минами?"
 
 # ch/minami/events.rpy:2436
@@ -9577,7 +8917,7 @@ translate russian minami_meet_morgan_8aa0bcd9:
     "И даже Морган не может устоять перед этим страшным оружием!"
 
 # ch/minami/events.rpy:2470
-translate russian minami_meet_morgan_9b9ed480:
+translate russian minami_meet_morgan_2dc110cb:
     morgan.say "Я... ну... наверное..."
 
 # ch/minami/events.rpy:2471
@@ -9609,7 +8949,7 @@ translate russian minami_meet_morgan_781cb34d:
     "Морган совершенно не готова к этому, и я вижу, как она краснеет от комплимента."
 
 # ch/minami/events.rpy:2480
-translate russian minami_meet_morgan_598dd8a2:
+translate russian minami_meet_morgan_51986c94:
     morgan.say "С... спасибо, Минами..."
 
 # ch/minami/events.rpy:2481
@@ -9676,12 +9016,8 @@ translate russian minami_react_kylie_sentence_3f0c0cbd:
 translate russian minami_react_kylie_sentence_297f1e5a:
     "Затем начинает кивать, и мне кажется, что она сейчас заплачет."
 
-# ch/minami/events.rpy:2504
-translate russian minami_react_kylie_sentence_b90c836a:
-    minami.say "Да, братик..."
-
 # ch/minami/events.rpy:2505
-translate russian minami_react_kylie_sentence_bc40acda:
+translate russian minami_react_kylie_sentence_acb77d38:
     minami.say "Но... но я кое-чего боюсь!"
 
 # ch/minami/events.rpy:2506
@@ -9733,7 +9069,7 @@ translate russian minami_react_kylie_sentence_421e2700_1:
     mike.say "Минами..."
 
 # ch/minami/events.rpy:2518
-translate russian minami_react_kylie_sentence_cb24926c:
+translate russian minami_react_kylie_sentence_c014b5a8:
     mike.say "Я... я не понимаю."
 
 # ch/minami/events.rpy:2519
@@ -9751,10 +9087,6 @@ translate russian minami_react_kylie_sentence_e3c9668e:
 # ch/minami/events.rpy:2523
 translate russian minami_react_kylie_sentence_2a907f36:
     minami.say "Это..."
-
-# ch/minami/events.rpy:2524
-translate russian minami_react_kylie_sentence_fcaf1816:
-    minami.say "Это насчёт Кайли, братик..."
 
 # ch/minami/events.rpy:2525
 translate russian minami_react_kylie_sentence_e9164d7c:
@@ -9828,10 +9160,6 @@ translate russian minami_react_kylie_sentence_87b214c6:
 translate russian minami_react_kylie_sentence_62fbdaf8:
     minami.say "Я знаю, что должна ненавидеть Кайли за то, что она сделала."
 
-# ch/minami/events.rpy:2543
-translate russian minami_react_kylie_sentence_4171f62c:
-    minami.say "И... я правда ненавижу ТО, что она сделала, братик."
-
 # ch/minami/events.rpy:2545
 translate russian minami_react_kylie_sentence_3349059e:
     minami.say "Но так трудно забыть, какой она была раньше."
@@ -9872,12 +9200,8 @@ translate russian minami_react_kylie_sentence_ae8b8574:
 translate russian minami_react_kylie_sentence_82305f9d:
     mike.say "А ведь она родная сестра Кайли!"
 
-# ch/minami/events.rpy:2556
-translate russian minami_react_kylie_sentence_89a0b938:
-    minami.say "Но дело ещё и в другом, братик..."
-
 # ch/minami/events.rpy:2557
-translate russian minami_react_kylie_sentence_1e80cd7b:
+translate russian minami_react_kylie_sentence_ea691f24:
     minami.say "Я... я не знаю, правильно ли её убивать!"
 
 # ch/minami/events.rpy:2558
@@ -9932,12 +9256,8 @@ translate russian minami_react_kylie_sentence_04d97bf1:
 translate russian minami_react_kylie_sentence_3b0fd3b1:
     "Будто она ожидала услышать прямо противоположное."
 
-# ch/minami/events.rpy:2573
-translate russian minami_react_kylie_sentence_79ba8e08:
-    minami.say "Правда, братик?"
-
 # ch/minami/events.rpy:2575
-translate russian minami_react_kylie_sentence_98e3f41b:
+translate russian minami_react_kylie_sentence_374cc00f:
     minami.say "Даже после того, как она... так сильно тебя ранила?"
 
 # ch/minami/events.rpy:2576
@@ -9955,10 +9275,6 @@ translate russian minami_react_kylie_sentence_d7e679c1:
 # ch/minami/events.rpy:2579
 translate russian minami_react_kylie_sentence_0feb82c5:
     mike.say "От этого боль не становится меньше."
-
-# ch/minami/events.rpy:2580
-translate russian minami_react_kylie_sentence_54839844:
-    minami.say "Так что ты хочешь сказать, братик?"
 
 # ch/minami/events.rpy:2581
 translate russian minami_react_kylie_sentence_0bd84883:
@@ -9979,10 +9295,6 @@ translate russian minami_react_kylie_sentence_fab89615:
 # ch/minami/events.rpy:2586
 translate russian minami_react_kylie_sentence_5a09cc6e:
     "Минами улыбается и кладёт голову мне на плечо."
-
-# ch/minami/events.rpy:2587
-translate russian minami_react_kylie_sentence_84ddf856:
-    minami.say "Ладно, братик..."
 
 # ch/minami/events.rpy:2588
 translate russian minami_react_kylie_sentence_468d82e4:
@@ -10028,10 +9340,6 @@ translate russian minami_siscon_cap_04_aa67dcba:
 translate russian minami_siscon_cap_04_5024ce39:
     "Сначала она даже затрудняется с ответом."
 
-# ch/minami/events.rpy:2607
-translate russian minami_siscon_cap_04_bd6623ab:
-    minami.say "А, да, братик."
-
 # ch/minami/events.rpy:2608
 translate russian minami_siscon_cap_04_4d97c568:
     minami.say "Ты будто мысли читаешь!"
@@ -10049,7 +9357,7 @@ translate russian minami_siscon_cap_04_0f7dd2b5:
     mike.say "Повторение романтики?"
 
 # ch/minami/events.rpy:2612
-translate russian minami_siscon_cap_04_de868183:
+translate russian minami_siscon_cap_04_0f3b2368:
     minami.say "Эм... нет."
 
 # ch/minami/events.rpy:2613
@@ -10077,7 +9385,7 @@ translate russian minami_siscon_cap_04_a049ef56:
     minami.say "Ну..."
 
 # ch/minami/events.rpy:2620
-translate russian minami_siscon_cap_04_96475c73:
+translate russian minami_siscon_cap_04_82629c10:
     minami.say "Я хочу всё узнать о... членах."
 
 # ch/minami/events.rpy:2621
@@ -10095,10 +9403,6 @@ translate russian minami_siscon_cap_04_286768bd:
 # ch/minami/events.rpy:2625
 translate russian minami_siscon_cap_04_316f369a:
     "Минами качает головой, раздражённая моей явной незрелостью."
-
-# ch/minami/events.rpy:2626
-translate russian minami_siscon_cap_04_bf08fd4d:
-    minami.say "О членах, братик!"
 
 # ch/minami/events.rpy:2627
 translate russian minami_siscon_cap_04_7cec695e:
@@ -10123,10 +9427,6 @@ translate russian minami_siscon_cap_04_da716f59:
 # ch/minami/events.rpy:2632
 translate russian minami_siscon_cap_04_4e31c2f3:
     "Минами тоже вскидывает руки, раздражённая моей реакцией."
-
-# ch/minami/events.rpy:2633
-translate russian minami_siscon_cap_04_62e2bade:
-    minami.say "Да при чём тут вообще настоящий секс, братик!"
 
 # ch/minami/events.rpy:2634
 translate russian minami_siscon_cap_04_0c6dda82:
@@ -10176,10 +9476,6 @@ translate russian minami_siscon_cap_04_2956f60c:
 translate russian minami_siscon_cap_04_095d0a22:
     mike.say "Ничего подобного, Минами!"
 
-# ch/minami/events.rpy:2649
-translate russian minami_siscon_cap_04_bcd22f22:
-    minami.say "Пожалуйста, братик!"
-
 # ch/minami/events.rpy:2650
 translate russian minami_siscon_cap_04_ee613960:
     minami.say "Мне только одним глазком посмотреть!"
@@ -10211,10 +9507,6 @@ translate russian minami_siscon_cap_04_ca8c183c:
 # ch/minami/events.rpy:2659
 translate russian minami_siscon_cap_04_9d7ae7b1:
     "Я пячусь от неё, но она спешит следом."
-
-# ch/minami/events.rpy:2661
-translate russian minami_siscon_cap_04_7c60af6a:
-    minami.say "Только мельком взглянуть, братик."
 
 # ch/minami/events.rpy:2662
 translate russian minami_siscon_cap_04_78ca337e:
@@ -10317,7 +9609,7 @@ translate russian minami_siscon_cap_04_7df764da:
     minami.say "М-м-м..."
 
 # ch/minami/events.rpy:2698
-translate russian minami_siscon_cap_04_7e4b8754:
+translate russian minami_siscon_cap_04_d8888644:
     mike.say "Ч... что это за звуки?"
 
 # ch/minami/events.rpy:2699
@@ -10336,12 +9628,8 @@ translate russian minami_siscon_cap_04_3cf179d0:
 translate russian minami_siscon_cap_04_e9b13dff:
     mike.say "Что-то не так?"
 
-# ch/minami/events.rpy:2703
-translate russian minami_siscon_cap_04_d0736f4d:
-    minami.say "Ой, нет, братик."
-
 # ch/minami/events.rpy:2704
-translate russian minami_siscon_cap_04_a6b7ad19:
+translate russian minami_siscon_cap_04_11f31928:
     minami.say "Он... очень симпатичный."
 
 # ch/minami/events.rpy:2705
@@ -10364,16 +9652,12 @@ translate russian minami_siscon_cap_04_89f3e0af:
 translate russian minami_siscon_cap_04_3bab8c95:
     "Щёки Минами краснеют от смущения, и она тут же возражает."
 
-# ch/minami/events.rpy:2711
-translate russian minami_siscon_cap_04_d2a60a62:
-    minami.say "Что ты хочешь, чтобы я сказала, братик?!"
-
 # ch/minami/events.rpy:2712
 translate russian minami_siscon_cap_04_18e79996:
     minami.say "Он такой симпатичный, что мне хочется его потрогать!"
 
 # ch/minami/events.rpy:2713
-translate russian minami_siscon_cap_04_eaf15a08:
+translate russian minami_siscon_cap_04_e0b2cef6:
     minami.say "Я... я не думала, что он будет таким... большим!"
 
 # ch/minami/events.rpy:2714
@@ -10384,17 +9668,9 @@ translate russian minami_siscon_cap_04_b7df15c3:
 translate russian minami_siscon_cap_04_c840c381:
     mike.say "Это я сейчас сделал всё неловким, да?"
 
-# ch/minami/events.rpy:2716
-translate russian minami_siscon_cap_04_ab9663ee:
-    minami.say "Да, братик, ты."
-
 # ch/minami/events.rpy:2717
 translate russian minami_siscon_cap_04_7a298d4a:
     mike.say "Я сейчас подтяну штаны, ладно?"
-
-# ch/minami/events.rpy:2718
-translate russian minami_siscon_cap_04_84ddf856:
-    minami.say "Ладно, братик..."
 
 # ch/minami/events.rpy:2719
 translate russian minami_siscon_cap_04_30a7ce26:
@@ -10447,10 +9723,6 @@ translate russian minami_siscon_cap_03_f8e14102:
 # ch/minami/events.rpy:2742
 translate russian minami_siscon_cap_03_b03f449e:
     "Минами изо всех сил изображает потрясённое удивление."
-
-# ch/minami/events.rpy:2743
-translate russian minami_siscon_cap_03_f1785d84:
-    minami.say "Ой, братик!"
 
 # ch/minami/events.rpy:2744
 translate russian minami_siscon_cap_03_03de389d:
@@ -10508,10 +9780,6 @@ translate russian minami_siscon_cap_03_c1ebd5df:
 translate russian minami_siscon_cap_03_238cdc8f:
     mike.say "Я как раз собирался с тобой об этом поговорить."
 
-# ch/minami/events.rpy:2761
-translate russian minami_siscon_cap_03_884b5ec3:
-    minami.say "Здорово, братик, потому что я уже полностью готова!"
-
 # ch/minami/events.rpy:2762
 translate russian minami_siscon_cap_03_0c2ab347:
     mike.say "Да, вот в чём дело."
@@ -10548,16 +9816,12 @@ translate russian minami_siscon_cap_03_0872e1a8:
 translate russian minami_siscon_cap_03_4b689e42:
     "Минами вдруг смущается и отводит глаза."
 
-# ch/minami/events.rpy:2773
-translate russian minami_siscon_cap_03_4f386942:
-    minami.say "Братик, не дразни меня!"
-
 # ch/minami/events.rpy:2774
 translate russian minami_siscon_cap_03_b9d3fa4e:
     minami.say "Ну и что, если не целовалась?"
 
 # ch/minami/events.rpy:2775
-translate russian minami_siscon_cap_03_3929a656:
+translate russian minami_siscon_cap_03_c61ac4d7:
     minami.say "Я... ждала подходящего парня, понимаешь?"
 
 # ch/minami/events.rpy:2776
@@ -10583,10 +9847,6 @@ translate russian minami_siscon_cap_03_7274d088:
 # ch/minami/events.rpy:2783
 translate russian minami_siscon_cap_03_b7dee6d9:
     "Но затем она будто отгоняет эту мысль и начинает заново."
-
-# ch/minami/events.rpy:2784
-translate russian minami_siscon_cap_03_b36ca1b5:
-    minami.say "С тобой это ведь не будет считаться, братик."
 
 # ch/minami/events.rpy:2785
 translate russian minami_siscon_cap_03_5ee5d730:
@@ -10656,16 +9916,12 @@ translate russian minami_siscon_cap_03_6ef96c3f:
 translate russian minami_siscon_cap_03_79d433d9:
     minami.say "О-о, как же это ВОЛНИТЕЛЬНО!"
 
-# ch/minami/events.rpy:2811
-translate russian minami_siscon_cap_03_df9e20bf:
-    minami.say "Обещаешь быть нежным, братик?"
-
 # ch/minami/events.rpy:2812
-translate russian minami_siscon_cap_03_995e50b1:
+translate russian minami_siscon_cap_03_9698dd6e:
     mike.say "Я... конечно, Минами!"
 
 # ch/minami/events.rpy:2813
-translate russian minami_siscon_cap_03_e5141ad4:
+translate russian minami_siscon_cap_03_e5d65f7d:
     mike.say "Ладно... начнём с простого: просто коснёмся губами."
 
 # ch/minami/events.rpy:2815
@@ -10749,7 +10005,7 @@ translate russian minami_siscon_cap_03_e162ff43:
     "Собрав остатки воли, я отрываюсь от Минами."
 
 # ch/minami/events.rpy:2839
-translate russian minami_siscon_cap_03_79058802:
+translate russian minami_siscon_cap_03_885d4685:
     mike.say "П... прости, Минами..."
 
 # ch/minami/events.rpy:2840
@@ -10760,16 +10016,12 @@ translate russian minami_siscon_cap_03_df62a5da:
 translate russian minami_siscon_cap_03_1489f055:
     "Минами держит руку на груди, тяжело дышит и смотрит на меня широко раскрытыми, почти голодными глазами."
 
-# ch/minami/events.rpy:2845
-translate russian minami_siscon_cap_03_f1c17850:
-    minami.say "Я... я тоже, братик."
-
 # ch/minami/events.rpy:2846
 translate russian minami_siscon_cap_03_f907d306:
     minami.say "Но ты ОЧЕНЬ хорошо целуешься!"
 
 # ch/minami/events.rpy:2847
-translate russian minami_siscon_cap_03_1206ba86:
+translate russian minami_siscon_cap_03_9fd2d808:
     minami.say "Только... я должна была это чувствовать... вот здесь?"
 
 # ch/minami/events.rpy:2848
@@ -10777,7 +10029,7 @@ translate russian minami_siscon_cap_03_2433562d:
     "Я слежу за второй рукой Минами, когда она указывает себе между бёдер."
 
 # ch/minami/events.rpy:2849
-translate russian minami_siscon_cap_03_378678e0:
+translate russian minami_siscon_cap_03_f91d6617:
     mike.say "Да... нет... чёрт, я уже сам не знаю!"
 
 # ch/minami/events.rpy:2850
@@ -10812,10 +10064,6 @@ translate russian minami_siscon_cap_02_80613e35:
 translate russian minami_siscon_cap_02_2e38a064:
     mike.say "Эм, Минами..."
 
-# ch/minami/events.rpy:2872
-translate russian minami_siscon_cap_02_3a6341d7:
-    minami.say "Да, братик?"
-
 # ch/minami/events.rpy:2874
 translate russian minami_siscon_cap_02_492f8159:
     mike.say "Зачем ты держишь меня за руку?"
@@ -10831,10 +10079,6 @@ translate russian minami_siscon_cap_02_3e4fdccc:
 # ch/minami/events.rpy:2878
 translate russian minami_siscon_cap_02_ce77273b:
     "Минами склоняет голову набок и смотрит на меня с предельной снисходительностью."
-
-# ch/minami/events.rpy:2880
-translate russian minami_siscon_cap_02_5a3c3fd7:
-    minami.say "Не будь таким недотёпой, братик!"
 
 # ch/minami/events.rpy:2881
 translate russian minami_siscon_cap_02_b97cd7d0:
@@ -10859,10 +10103,6 @@ translate russian minami_siscon_cap_02_7db64b8a:
 # ch/minami/events.rpy:2889
 translate russian minami_siscon_cap_02_c7b64e95:
     "Вдруг лицо Минами меняется: улыбка уступает место хмурому выражению."
-
-# ch/minami/events.rpy:2891
-translate russian minami_siscon_cap_02_8d3f4c9c:
-    minami.say "Почему, братик?"
 
 # ch/minami/events.rpy:2892
 translate russian minami_siscon_cap_02_1085c7ff:
@@ -10924,10 +10164,6 @@ translate russian minami_siscon_cap_02_41d7ff79:
 translate russian minami_siscon_cap_02_56a0cf89:
     "Но, как обычно, на неё действует."
 
-# ch/minami/events.rpy:2917
-translate russian minami_siscon_cap_02_79ba8e08:
-    minami.say "Правда, братик?"
-
 # ch/minami/events.rpy:2919
 translate russian minami_siscon_cap_02_8b8c9227:
     mike.say "Правда, Минами."
@@ -10975,10 +10211,6 @@ translate russian minami_siscon_cap_02_c51b7438:
 # ch/minami/events.rpy:2934
 translate russian minami_siscon_cap_02_6a958760:
     "Но от моего смеха она краснеет и смотрит с искренней тревогой."
-
-# ch/minami/events.rpy:2936
-translate russian minami_siscon_cap_02_2480e5c8:
-    minami.say "Что такое, братик?"
 
 # ch/minami/events.rpy:2937
 translate russian minami_siscon_cap_02_00b12f7d:
@@ -11044,10 +10276,6 @@ translate russian minami_siscon_cap_02_04d4444f:
 translate russian minami_siscon_cap_02_2f5b10da:
     "Она поворачивает голову и ловит мой взгляд."
 
-# ch/minami/events.rpy:2960
-translate russian minami_siscon_cap_02_e0cbc23b:
-    minami.say "Как думаешь, братик?"
-
 # ch/minami/events.rpy:2961
 translate russian minami_siscon_cap_02_2256c9d8:
     minami.say "Мне пойдёт хвост?"
@@ -11080,10 +10308,6 @@ translate russian minami_siscon_cap_02_e88c3993:
 translate russian minami_siscon_cap_02_af03ce5e:
     minami.say "А-А-А!"
 
-# ch/minami/events.rpy:2971
-translate russian minami_siscon_cap_02_08cda4a4:
-    minami.say "БРАТИК, СПАСИ МЕНЯ!"
-
 # ch/minami/events.rpy:2974
 translate russian minami_siscon_cap_02_3e9e7805:
     "Минами отскакивает назад, отчаянно пытаясь оказаться как можно дальше от акулы."
@@ -11104,10 +10328,6 @@ translate russian minami_siscon_cap_02_692af8b1:
 translate russian minami_siscon_cap_02_6b522023:
     mike.say "Думаю, стекло достаточно толстое, чтобы справиться вместо меня, Минами!"
 
-# ch/minami/events.rpy:2983
-translate russian minami_siscon_cap_02_b70580eb:
-    minami.say "Не вредничай, братик."
-
 # ch/minami/events.rpy:2984
 translate russian minami_siscon_cap_02_4076772a:
     minami.say "Я правда испугалась, что она меня схватит!"
@@ -11123,10 +10343,6 @@ translate russian minami_siscon_cap_02_a0782e44:
 # ch/minami/events.rpy:2988
 translate russian minami_siscon_cap_02_07d56f13:
     mike.say "И на заметку: на настоящем свидании так не делай!"
-
-# ch/minami/events.rpy:2990
-translate russian minami_siscon_cap_02_5645b33c:
-    minami.say "Братик!"
 
 # ch/minami/events.rpy:2991
 translate russian minami_siscon_cap_02_8d9058e3:
@@ -11200,10 +10416,6 @@ translate russian minami_siscon_cap_02_e630fa77:
 translate russian minami_siscon_cap_02_c284c054:
     "На секунду моё нежелание отпускать её оказывается не совсем тем порывом, каким мне хотелось бы его считать. Но я говорю себе, что это просто инстинкт, и больше об этом не думаю."
 
-# ch/minami/events.rpy:3018
-translate russian minami_siscon_cap_02_d4ff2f19:
-    minami.say "Эм, братик..."
-
 # ch/minami/events.rpy:3020
 translate russian minami_siscon_cap_02_110589ce:
     mike.say "Да, Минами?"
@@ -11251,10 +10463,6 @@ translate russian minami_siscon_cap_02_d138d613:
 # ch/minami/events.rpy:3037
 translate russian minami_siscon_cap_02_9a4b068b:
     mike.say "Прости, Минами!"
-
-# ch/minami/events.rpy:3039
-translate russian minami_siscon_cap_02_3cf8e14c:
-    minami.say "Всё нормально, братик. Ты просто хотел меня защитить..."
 
 # ch/minami/events.rpy:3041
 translate russian minami_siscon_cap_02_c9a1c27d:
@@ -11320,10 +10528,6 @@ translate russian minami_siscon_cap_01_248c94e9:
 translate russian minami_siscon_cap_01_30a8a461:
     mike.say "Минами?"
 
-# ch/minami/events.rpy:3065
-translate russian minami_siscon_cap_01_01f73928:
-    minami.say "Привет, братик."
-
 # ch/minami/events.rpy:3067
 translate russian minami_siscon_cap_01_0207579e:
     minami.say "Чем могу тебе помочь?"
@@ -11364,17 +10568,9 @@ translate russian minami_siscon_cap_01_15d8efb2:
 translate russian minami_siscon_cap_01_991993cb:
     minami.say "У-у-у..."
 
-# ch/minami/events.rpy:3082
-translate russian minami_siscon_cap_01_9897c155:
-    minami.say "Ладно, братик, ладно. Твоя взяла!"
-
 # ch/minami/events.rpy:3084
 translate russian minami_siscon_cap_01_72c3e973:
     minami.say "Я ДЕЙСТВИТЕЛЬНО хочу кое о чём тебя попросить."
-
-# ch/minami/events.rpy:3085
-translate russian minami_siscon_cap_01_51ae76f3:
-    minami.say "Но милой я была только потому, что ты такой замечательный братик!"
 
 # ch/minami/events.rpy:3087
 translate russian minami_siscon_cap_01_c5fd4e68:
@@ -11396,10 +10592,6 @@ translate russian minami_siscon_cap_01_b7736de7:
 translate russian minami_siscon_cap_01_e05cb23c:
     "Как ни пытаюсь, не могу представить, что это принесёт мне что-нибудь, кроме головной боли."
 
-# ch/minami/events.rpy:3093
-translate russian minami_siscon_cap_01_a880bc09:
-    minami.say "Ну, братик."
-
 # ch/minami/events.rpy:3094
 translate russian minami_siscon_cap_01_817a75ad:
     minami.say "Ты, конечно, знаешь, что я приехала сюда учиться в колледже."
@@ -11419,10 +10611,6 @@ translate russian minami_siscon_cap_01_f612fdc2:
 # ch/minami/events.rpy:3101
 translate russian minami_siscon_cap_01_df60078e:
     mike.say "Университет жизни?"
-
-# ch/minami/events.rpy:3103
-translate russian minami_siscon_cap_01_2dab93d5:
-    minami.say "Конечно, братик."
 
 # ch/minami/events.rpy:3104
 translate russian minami_siscon_cap_01_835398b5:
@@ -11445,7 +10633,7 @@ translate russian minami_siscon_cap_01_c8e37290:
     "Минами кивает, сразу ухватившись за это признание."
 
 # ch/minami/events.rpy:3112
-translate russian minami_siscon_cap_01_e8d4d704:
+translate russian minami_siscon_cap_01_d21757e0:
     minami.say "И у тебя бывают... девушки..."
 
 # ch/minami/events.rpy:3114
@@ -11461,7 +10649,7 @@ translate russian minami_siscon_cap_01_3607f501:
     "И впервые за весь разговор я не могу понять, играет она или нет."
 
 # ch/minami/events.rpy:3118
-translate russian minami_siscon_cap_01_ebfb277d:
+translate russian minami_siscon_cap_01_e5ae5ef7:
     minami.say "Я... дома у меня ничего этого не было."
 
 # ch/minami/events.rpy:3119
@@ -11504,10 +10692,6 @@ translate russian minami_siscon_cap_01_d71d9cc5:
 translate russian minami_siscon_cap_01_3ac3cd44:
     mike.say "Записать всё на бумаге, что ли?"
 
-# ch/minami/events.rpy:3134
-translate russian minami_siscon_cap_01_47b43a93:
-    minami.say "Нет, не глупи, братик!"
-
 # ch/minami/events.rpy:3135
 translate russian minami_siscon_cap_01_af6f7858:
     minami.say "Я подумала, что ты мог бы ПОКАЗАТЬ."
@@ -11544,10 +10728,6 @@ translate russian minami_siscon_cap_01_df95a96a:
 translate russian minami_siscon_cap_01_46b7b26a:
     mike.say "Иногда получается, иногда нет."
 
-# ch/minami/events.rpy:3149
-translate russian minami_siscon_cap_01_c6707b25:
-    minami.say "Но... если ты мне поможешь, братик..."
-
 # ch/minami/events.rpy:3150
 translate russian minami_siscon_cap_01_7697772c:
     minami.say "Тогда удач будет больше, правда?"
@@ -11567,10 +10747,6 @@ translate russian minami_siscon_cap_01_f5d631d9:
 # ch/minami/events.rpy:3156
 translate russian minami_siscon_cap_01_430dfdf9:
     minami.say "Ну-у..."
-
-# ch/minami/events.rpy:3157
-translate russian minami_siscon_cap_01_da536a3b:
-    minami.say "Нечестно, братик!"
 
 # ch/minami/events.rpy:3159
 translate russian minami_siscon_cap_01_97603071:
@@ -11632,10 +10808,6 @@ translate russian minami_siscon_cap_01_db93e5e4:
 translate russian minami_siscon_cap_01_56ea57e5:
     "Минами уже улыбается во весь рот, радуясь, что добилась своего."
 
-# ch/minami/events.rpy:3182
-translate russian minami_siscon_cap_01_bfd42005:
-    minami.say "Да перестань, братик."
-
 # ch/minami/events.rpy:3183
 translate russian minami_siscon_cap_01_cf943845:
     minami.say "Вот теперь ты ТОЧНО говоришь глупости!"
@@ -11669,7 +10841,7 @@ translate russian minami_siscon_cap_01_bea6d532:
     "Я пытаюсь остановить Минами, пока от похвал моя голова не раздулась настолько, что не пройдёт в дверь."
 
 # ch/minami/events.rpy:3194
-translate russian minami_siscon_cap_01_883cd3e4:
+translate russian minami_siscon_cap_01_59affaa8:
     mike.say "А, ладно... да..."
 
 # ch/minami/events.rpy:3195
@@ -11788,16 +10960,12 @@ translate russian minami_siscon_10_0b2281b6:
 translate russian minami_siscon_10_5e224a96:
     "Ведь её лицо я ещё толком не разглядел."
 
-# ch/minami/events.rpy:3229
-translate russian minami_siscon_10_6ce3839c:
-    minami.say "Привет, братик."
-
 # ch/minami/events.rpy:3230
 translate russian minami_siscon_10_320e4536:
     minami.say "Ты танцуешь гораздо лучше, чем я ожидала!"
 
 # ch/minami/events.rpy:3233
-translate russian minami_siscon_10_6a660d71:
+translate russian minami_siscon_10_94d99339:
     mike.say "А... ЧТО... МИНАМИ?!"
 
 # ch/minami/events.rpy:3238
@@ -11811,10 +10979,6 @@ translate russian minami_siscon_10_f1ca85c4:
 # ch/minami/events.rpy:3240
 translate russian minami_siscon_10_5b80a48b:
     "На их место приходят потрясение и подкрадывающийся ужас от случившегося."
-
-# ch/minami/events.rpy:3242
-translate russian minami_siscon_10_86d7b667:
-    minami.say "Что такое, братик?"
 
 # ch/minami/events.rpy:3243
 translate russian minami_siscon_10_94c5b077:
@@ -11832,10 +10996,6 @@ translate russian minami_siscon_10_b823fab7:
 translate russian minami_siscon_10_c4f6f945:
     "Минами торопится следом, будто боится, что мне стало плохо."
 
-# ch/minami/events.rpy:3250
-translate russian minami_siscon_10_d2b99ad5:
-    minami.say "Скажи, в чём дело, братик!"
-
 # ch/minami/events.rpy:3251
 translate russian minami_siscon_10_c6edc7ab:
     minami.say "Ты меня уже по-настоящему пугаешь!"
@@ -11849,7 +11009,7 @@ translate russian minami_siscon_10_6c5620f3:
     mike.say "Минами, о чём ты там думала?"
 
 # ch/minami/events.rpy:3255
-translate russian minami_siscon_10_f131984d:
+translate russian minami_siscon_10_a142a6e1:
     mike.say "Я твой брат! Нельзя со мной... ТАК!"
 
 # ch/minami/events.rpy:3257
@@ -11860,16 +11020,12 @@ translate russian minami_siscon_10_164e8a01:
 translate russian minami_siscon_10_880cc510:
     "Вместо него — одна из её невинных и одновременно раздражающих улыбок."
 
-# ch/minami/events.rpy:3260
-translate russian minami_siscon_10_af344b06:
-    minami.say "Ну, не будь таким ханжой, братик."
-
 # ch/minami/events.rpy:3261
 translate russian minami_siscon_10_74dd0cc8:
     minami.say "Разве в таких местах не принято так танцевать?"
 
 # ch/minami/events.rpy:3263
-translate russian minami_siscon_10_7663538b:
+translate russian minami_siscon_10_76d13727:
     mike.say "Ну... да, наверное."
 
 # ch/minami/events.rpy:3264
@@ -11919,10 +11075,6 @@ translate russian minami_siscon_10_76ddb53a:
 # ch/minami/events.rpy:3280
 translate russian minami_siscon_10_ba130db9:
     "Но разве это не отличный шанс показать, что я тоже ещё способен на дерзости?"
-
-# ch/minami/events.rpy:3282
-translate russian minami_siscon_10_86d7b667_1:
-    minami.say "Что такое, братик?"
 
 # ch/minami/events.rpy:3283
 translate russian minami_siscon_10_94c5b077_1:
@@ -11996,10 +11148,6 @@ translate russian minami_siscon_10_6d3492fa:
 translate russian minami_siscon_10_cfaacf80:
     "Но он словно растворяется, переходя в более мягкий и чувственный звук."
 
-# ch/minami/events.rpy:3307
-translate russian minami_siscon_10_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/minami/events.rpy:3308
 translate russian minami_siscon_10_318fc5d1:
     minami.say "Какой же ты большой..."
@@ -12036,10 +11184,6 @@ translate russian minami_siscon_10_3e65cc2d:
 translate russian minami_siscon_09_b1187795:
     "Я совершенно невинно иду через коридор к своей комнате, когда слышу, что меня зовут."
 
-# ch/minami/events.rpy:3326
-translate russian minami_siscon_09_01f73928:
-    minami.say "Привет, братик."
-
 # ch/minami/events.rpy:3327
 translate russian minami_siscon_09_2ebae239:
     minami.say "Иди сюда, я хочу тебе кое-что показать!"
@@ -12075,10 +11219,6 @@ translate russian minami_siscon_09_f1fdbf37:
 # ch/minami/events.rpy:3338
 translate russian minami_siscon_09_fedc46a0:
     "Как только я подхожу достаточно близко, чтобы нас не услышали, Минами наклоняется ещё ближе."
-
-# ch/minami/events.rpy:3340
-translate russian minami_siscon_09_21b77a21:
-    minami.say "Помнишь, как ты раньше увлекался косплеем, братик?"
 
 # ch/minami/events.rpy:3342
 translate russian minami_siscon_09_7fb018a3:
@@ -12144,10 +11284,6 @@ translate russian minami_siscon_09_5f55dedc:
 translate russian minami_siscon_09_16be673a:
     "Вдруг она протягивает руки и обеими хватает меня за запястье."
 
-# ch/minami/events.rpy:3363
-translate russian minami_siscon_09_f22fd69d:
-    minami.say "Ты ОБЯЗАН пойти со мной, братик."
-
 # ch/minami/events.rpy:3364
 translate russian minami_siscon_09_babb3120:
     minami.say "Я привезла несколько своих костюмов."
@@ -12193,7 +11329,7 @@ translate russian minami_siscon_09_62c0a80e:
     "Минами тут же сникает и почти начинает дуться."
 
 # ch/minami/events.rpy:3380
-translate russian minami_siscon_09_e1d189c7:
+translate russian minami_siscon_09_d8d303e2:
     minami.say "Но... но..."
 
 # ch/minami/events.rpy:3382
@@ -12215,10 +11351,6 @@ translate russian minami_siscon_09_3b4596d3:
 # ch/minami/events.rpy:3386
 translate russian minami_siscon_09_9f7a744e:
     "Теперь она смотрит себе под ноги, а я начинаю чувствовать, что раздавил её юношеский задор."
-
-# ch/minami/events.rpy:3388
-translate russian minami_siscon_09_50816b1c:
-    minami.say "Н... наверное, ты прав, братик."
 
 # ch/minami/events.rpy:3389
 translate russian minami_siscon_09_016ec5f8:
@@ -12288,10 +11420,6 @@ translate russian minami_siscon_09_8081a915:
 translate russian minami_siscon_09_c284dca7:
     "Убедившись, что никто не помешает, она довольно грубо усаживает меня на кровать."
 
-# ch/minami/events.rpy:3412
-translate russian minami_siscon_09_7b773158:
-    minami.say "Жди здесь, братик."
-
 # ch/minami/events.rpy:3413
 translate russian minami_siscon_09_971273b0:
     minami.say "Тебе ОЧЕНЬ понравится, обещаю!"
@@ -12323,10 +11451,6 @@ translate russian minami_siscon_09_866c2285:
 # ch/minami/events.rpy:3421
 translate russian minami_siscon_09_1996f43b:
     "Прежде чем я решаю, что хуже, Минами снова окликает меня."
-
-# ch/minami/events.rpy:3423
-translate russian minami_siscon_09_437e7873:
-    minami.say "Посмотри на меня, братик!"
 
 # ch/minami/events.rpy:3424
 translate russian minami_siscon_09_200d4e35:
@@ -12375,10 +11499,6 @@ translate russian minami_siscon_09_4f24fc11:
 # ch/minami/events.rpy:3442
 translate russian minami_siscon_09_8574e4a9:
     minami.say "Но с этого ещё лучше!"
-
-# ch/minami/events.rpy:3443
-translate russian minami_siscon_09_536462b9:
-    minami.say "Правда, братик?"
 
 # ch/minami/events.rpy:3444
 translate russian minami_siscon_09_58d3ca0b:
@@ -12524,10 +11644,6 @@ translate russian minami_siscon_08_435d8573:
 translate russian minami_siscon_08_9b9712e4:
     "Но сколько бы Саша ни язвила, [bree.name] и Минами будто не замечают."
 
-# ch/minami/events.rpy:3513
-translate russian minami_siscon_08_60196867:
-    minami.say "Эй, братик, помнишь ту игру, в которую мы раньше играли?"
-
 # ch/minami/events.rpy:3515
 translate russian minami_siscon_08_b3b2a65a:
     mike.say "А, да, конечно."
@@ -12580,21 +11696,13 @@ translate russian minami_siscon_08_b2384a25:
 translate russian minami_siscon_08_7eafaee1:
     minami.say "Ну-у, Саша, ты всё веселье портишь!"
 
-# ch/minami/events.rpy:3536
-translate russian minami_siscon_08_c97ac0e2:
-    minami.say "А ты, [bree.name]?"
-
 # ch/minami/events.rpy:3538
-translate russian minami_siscon_08_4411254b:
+translate russian minami_siscon_08_52da26f3:
     bree.say "Я... ну... наверное, могла бы сыграть... может быть..."
 
 # ch/minami/events.rpy:3539
 translate russian minami_siscon_08_bda7048b:
     bree.say "Но я толком не знаю правил..."
-
-# ch/minami/events.rpy:3541
-translate russian minami_siscon_08_de5230cf:
-    minami.say "Ура, [bree.name], ты лучшая!"
 
 # ch/minami/events.rpy:3542
 translate russian minami_siscon_08_782090bd:
@@ -12603,10 +11711,6 @@ translate russian minami_siscon_08_782090bd:
 # ch/minami/events.rpy:3544
 translate russian minami_siscon_08_3c5d6373:
     "Не успеваю опомниться, как Минами переключается на меня."
-
-# ch/minami/events.rpy:3546
-translate russian minami_siscon_08_06ea5d59:
-    minami.say "А ты, братик?"
 
 # ch/minami/events.rpy:3547
 translate russian minami_siscon_08_b64d4c5a:
@@ -12671,10 +11775,6 @@ translate russian minami_siscon_08_1465e887:
 # ch/minami/events.rpy:3569
 translate russian minami_siscon_08_9ab0d77a:
     bree.say "Разве вдвоём будет не так весело?"
-
-# ch/minami/events.rpy:3570
-translate russian minami_siscon_08_3a635120:
-    minami.say "Не волнуйся, [bree.name]."
 
 # ch/minami/events.rpy:3571
 translate russian minami_siscon_08_d46eabcc:
@@ -12767,10 +11867,6 @@ translate russian minami_siscon_08_358fc8f9:
 # ch/minami/events.rpy:3599
 translate russian minami_siscon_08_e8b45550:
     bree.say "Ух ты, [lssb_minami.hero_name()], ты ужасно играешь!"
-
-# ch/minami/events.rpy:3602
-translate russian minami_siscon_08_6fe395ad:
-    minami.say "Да, [bree.name], ещё как!"
 
 # ch/minami/events.rpy:3603
 translate russian minami_siscon_08_c437ff73:
@@ -12876,10 +11972,6 @@ translate russian minami_siscon_07_61b79d74:
 translate russian minami_siscon_07_ccd5f0a9:
     "Но стоит прозвучать моему имени, как она тут же становится самим воплощением милоты."
 
-# ch/minami/events.rpy:3646
-translate russian minami_siscon_07_4f7fd71c:
-    minami.say "Братик, ты бы видел, как здорово [bree.name] играет!"
-
 # ch/minami/events.rpy:3647
 translate russian minami_siscon_07_5d22cd04:
     minami.say "Серьёзно, она НАМНОГО лучше тебя!"
@@ -12900,10 +11992,6 @@ translate russian minami_siscon_07_4d0c331f:
 translate russian minami_siscon_07_9b8c5cf5:
     "Минами заливается хихиканьем, прикрывая рот ладонью."
 
-# ch/minami/events.rpy:3654
-translate russian minami_siscon_07_6d3795c3:
-    minami.say "Чего такой серьёзный, братик?"
-
 # ch/minami/events.rpy:3655
 translate russian minami_siscon_07_c41581e7:
     minami.say "С каждым днём всё больше похож на папу!"
@@ -12915,10 +12003,6 @@ translate russian minami_siscon_07_a63cdc17:
 # ch/minami/events.rpy:3658
 translate russian minami_siscon_07_323735e4:
     bree.say "Почему бы не сесть и не посмотреть, как я надеру Минами задницу, [lssb_minami.hero_name()]?"
-
-# ch/minami/events.rpy:3661
-translate russian minami_siscon_07_3bf0f4df:
-    minami.say "Да, братик, посмотри на нас, пожалуйста!"
 
 # ch/minami/events.rpy:3662
 translate russian minami_siscon_07_d0964ed5:
@@ -13008,16 +12092,12 @@ translate russian minami_siscon_07_8f6c4de5:
 translate russian minami_siscon_07_ee02f435:
     minami.say "Ура!"
 
-# ch/minami/events.rpy:3694
-translate russian minami_siscon_07_2f4bf325:
-    minami.say "Ну что, [bree.name], поехали!"
-
 # ch/minami/events.rpy:3695
 translate russian minami_siscon_07_1b6e9d88:
     minami.say "Ты у меня ещё взмолишься о пощаде!"
 
 # ch/minami/events.rpy:3698
-translate russian minami_siscon_07_de802442:
+translate russian minami_siscon_07_9fb1c7aa:
     bree.say "О нет, ни за что."
 
 # ch/minami/events.rpy:3699
@@ -13041,7 +12121,7 @@ translate russian minami_siscon_07_ab3e2a9f:
     "А что, вы думали, девушки-геймеры всё время сидят тихо и скромно?"
 
 # ch/minami/events.rpy:3705
-translate russian minami_siscon_07_2355e3b2:
+translate russian minami_siscon_07_3950e248:
     "О боже... вы вообще на Земле бывали?"
 
 # ch/minami/events.rpy:3706
@@ -13205,7 +12285,7 @@ translate russian minami_siscon_06b_4594dc5a:
     "Она порхает от витрины к витрине, совершенно забыв, зачем мы пришли."
 
 # ch/minami/events.rpy:3763
-translate russian minami_siscon_06b_3ecc8934:
+translate russian minami_siscon_06b_8e61704e:
     mike.say "Э... эй!"
 
 # ch/minami/events.rpy:3764
@@ -13223,10 +12303,6 @@ translate russian minami_siscon_06b_46a44473:
 # ch/minami/events.rpy:3767
 translate russian minami_siscon_06b_1d22cc02:
     "Но, к счастью, она как раз останавливается и подзывает меня."
-
-# ch/minami/events.rpy:3768
-translate russian minami_siscon_06b_1af7f405:
-    minami.say "Братик..."
 
 # ch/minami/events.rpy:3769
 translate russian minami_siscon_06b_e71f8140:
@@ -13247,10 +12323,6 @@ translate russian minami_siscon_06b_e2f53ac6:
 # ch/minami/events.rpy:3774
 translate russian minami_siscon_06b_10cdd233:
     "Наконец оказываюсь позади Минами."
-
-# ch/minami/events.rpy:3776
-translate russian minami_siscon_06b_d690f3ae:
-    minami.say "Что ты так долго, братик?"
 
 # ch/minami/events.rpy:3778
 translate russian minami_siscon_06b_7c157082:
@@ -13328,12 +12400,8 @@ translate russian minami_siscon_06b_c85941b7:
 translate russian minami_siscon_06b_432adda7:
     minami.say "Какого чёрта?!"
 
-# ch/minami/events.rpy:3801
-translate russian minami_siscon_06b_d154f905:
-    minami.say "Братик, что ты делаешь?!"
-
 # ch/minami/events.rpy:3803
-translate russian minami_siscon_06b_6760c48b:
+translate russian minami_siscon_06b_e6955fdb:
     mike.say "П... прости, Минами!"
 
 # ch/minami/events.rpy:3804
@@ -13364,10 +12432,6 @@ translate russian minami_siscon_06b_f3137a95:
 translate russian minami_siscon_06b_09a56253:
     minami.say "Ах..."
 
-# ch/minami/events.rpy:3813
-translate russian minami_siscon_06b_f49aeb5f:
-    minami.say "Что у тебя в кармане, братик?"
-
 # ch/minami/events.rpy:3814
 translate russian minami_siscon_06b_59e47f63:
     minami.say "Что-то очень твёрдое..."
@@ -13395,10 +12459,6 @@ translate russian minami_siscon_06b_64917dc9:
 # ch/minami/events.rpy:3822
 translate russian minami_siscon_06b_a7cc8a3b:
     "Мгновение спустя мы уже внутри магазина."
-
-# ch/minami/events.rpy:3826
-translate russian minami_siscon_06b_38c677a6:
-    minami.say "Поняла, братик."
 
 # ch/minami/events.rpy:3827
 translate russian minami_siscon_06b_87320f3a:
@@ -13429,7 +12489,7 @@ translate russian minami_siscon_06b_6d118728:
     minami.say "И вот это..."
 
 # ch/minami/events.rpy:3837
-translate russian minami_siscon_06b_c3ea4b1b:
+translate russian minami_siscon_06b_73e7420e:
     minami.say "О-о... и это тоже!"
 
 # ch/minami/events.rpy:3839
@@ -13455,10 +12515,6 @@ translate russian minami_siscon_06b_15956d19:
 # ch/minami/events.rpy:3844
 translate russian minami_siscon_06b_4a1e3017:
     mike.say "Мы ведь пришли за рождественскими подарками, помнишь?!"
-
-# ch/minami/events.rpy:3846
-translate russian minami_siscon_06b_47e0692b:
-    minami.say "Да-да, братик, как скажешь..."
 
 # ch/minami/events.rpy:3847
 translate russian minami_siscon_06b_cc9db4c4:
@@ -13492,10 +12548,6 @@ translate russian minami_siscon_06b_1104287f:
 translate russian minami_siscon_06b_b7f89069:
     mike.say "Серьёзно, магазин скоро закроется!"
 
-# ch/minami/events.rpy:3856
-translate russian minami_siscon_06b_97602f83:
-    minami.say "Минутку, братик!"
-
 # ch/minami/events.rpy:3857
 translate russian minami_siscon_06b_06bc5419:
     minami.say "Кажется, я хочу этот комплект, но не уверена."
@@ -13519,10 +12571,6 @@ translate russian minami_siscon_06b_fe807eea:
 # ch/minami/events.rpy:3863
 translate russian minami_siscon_06b_cd987cd6:
     "И слова замирают на языке."
-
-# ch/minami/events.rpy:3865
-translate russian minami_siscon_06b_dc74ac66:
-    minami.say "Ну что, братик..."
 
 # ch/minami/events.rpy:3866
 translate russian minami_siscon_06b_0fd41310:
@@ -13584,10 +12632,6 @@ translate russian minami_siscon_06b_d152e23b:
 translate russian minami_siscon_06b_a0e5730e:
     "Нужно отвернуться. Моя младшая сестра стоит в белье, и моя неспособность отвести взгляд начинает немного пугать."
 
-# ch/minami/events.rpy:3887
-translate russian minami_siscon_06b_bc00373a:
-    minami.say "Скажи что-нибудь, братик!"
-
 # ch/minami/events.rpy:3888
 translate russian minami_siscon_06b_dc3cc416:
     minami.say "А то я подумаю, что тебе совсем не нравится!"
@@ -13609,7 +12653,7 @@ translate russian minami_siscon_06b_6c07d2f7:
     "Потому что вижу, как Минами радуется моей реакции."
 
 # ch/minami/events.rpy:3896
-translate russian minami_siscon_06b_95765dd7:
+translate russian minami_siscon_06b_b268eafe:
     mike.say "Ух ты, Минами... просто... УХ ТЫ!"
 
 # ch/minami/events.rpy:3897
@@ -13631,10 +12675,6 @@ translate russian minami_siscon_06b_dabe923f:
 # ch/minami/events.rpy:3903
 translate russian minami_siscon_06b_9b506b6a:
     minami.say "О-о..."
-
-# ch/minami/events.rpy:3904
-translate russian minami_siscon_06b_6165321f:
-    minami.say "Как мило с твоей стороны, братик!"
 
 # ch/minami/events.rpy:3906
 translate russian minami_siscon_06b_b93d3b1d:
@@ -13664,16 +12704,12 @@ translate russian minami_siscon_06b_7fef4f20:
 translate russian minami_siscon_06b_2caae760:
     "Она наклоняется ближе, приподняв бровь."
 
-# ch/minami/events.rpy:3918
-translate russian minami_siscon_06b_e40e6cea:
-    minami.say "То есть ты хотел бы почаще видеть меня в белье, братик?"
-
 # ch/minami/events.rpy:3920
-translate russian minami_siscon_06b_28dc3296:
+translate russian minami_siscon_06b_a50bc34e:
     mike.say "Да... я... то есть нет... то есть..."
 
 # ch/minami/events.rpy:3922
-translate russian minami_siscon_06b_f86f2ac7:
+translate russian minami_siscon_06b_ae680fcf:
     minami.say "О-о, ты, похоже, запутался!"
 
 # ch/minami/events.rpy:3923
@@ -13713,16 +12749,12 @@ translate russian minami_siscon_06b_04a4ef8b:
     "Минами гладит и сжимает его через штаны, заставляя меня судорожно вздохнуть."
 
 # ch/minami/events.rpy:3934
-translate russian minami_siscon_06b_db2a6ab0:
+translate russian minami_siscon_06b_7f606496:
     mike.say "Я... я мог бы помочь тебе, Минами!"
 
 # ch/minami/events.rpy:3935
-translate russian minami_siscon_06b_1c6c9e2f:
+translate russian minami_siscon_06b_80ce2f75:
     mike.say "Напомнить... может быть?"
-
-# ch/minami/events.rpy:3937
-translate russian minami_siscon_06b_f0fa4ed6:
-    minami.say "Уверена, мог бы, братик."
 
 # ch/minami/events.rpy:3938
 translate russian minami_siscon_06b_be722614:
@@ -13808,16 +12840,12 @@ translate russian minami_siscon_06b_17c96455:
 translate russian minami_siscon_06b_813d0d0d:
     "Теперь она похожа на глупую девчонку, которую отругал взрослый."
 
-# ch/minami/events.rpy:3969
-translate russian minami_siscon_06b_3aa6a2be:
-    minami.say "Н... не обязательно быть таким злым, братик!"
-
 # ch/minami/events.rpy:3971
 translate russian minami_siscon_06b_c5726140:
     minami.say "Я просто примеряла вещи..."
 
 # ch/minami/events.rpy:3972
-translate russian minami_siscon_06b_073ecca2:
+translate russian minami_siscon_06b_b36b163c:
     minami.say "Я... я всё сниму, ладно?"
 
 # ch/minami/events.rpy:3974
@@ -13992,10 +13020,6 @@ translate russian minami_siscon_06_dc0d50f5:
 translate russian minami_siscon_06_faa1f5a1:
     "К концу мне кажется, будто весь жар из её тела перешёл в моё!"
 
-# ch/minami/events.rpy:4041
-translate russian minami_siscon_06_25fc4f33:
-    minami.say "Ого, братик, ты прямо профессиональный массажист!"
-
 # ch/minami/events.rpy:4043
 translate russian minami_siscon_06_3f9cc79f:
     "Услышав Минами, я резко оборачиваюсь и краснею от смущения."
@@ -14128,10 +13152,6 @@ translate russian minami_siscon_06_51138351:
 translate russian minami_siscon_06_ca8d15ab:
     "Потом упирает кулак в бок и указывает на меня другой рукой."
 
-# ch/minami/events.rpy:4087
-translate russian minami_siscon_06_576ac1e1:
-    minami.say "Что за дела, братик?"
-
 # ch/minami/events.rpy:4088
 translate russian minami_siscon_06_08c72aab:
     minami.say "Ты должен хорошо ко мне относиться, пока я здесь живу."
@@ -14164,10 +13184,6 @@ translate russian minami_siscon_06_64a33826:
 translate russian minami_siscon_06_86acf21c:
     minami.say "Вот расскажу маме с папой, что ты сделал!"
 
-# ch/minami/events.rpy:4098
-translate russian minami_siscon_06_1517dff0:
-    minami.say "Тебе очень достанется, братик!"
-
 # ch/minami/events.rpy:4102
 translate russian minami_siscon_06_bb9e55bb:
     "С этими словами она разворачивается на пятках и сердито уходит в дом."
@@ -14179,10 +13195,6 @@ translate russian minami_siscon_06_853f9fc6:
 # ch/minami/events.rpy:4104
 translate russian minami_siscon_06_9d196e58:
     "Я лишь снова пожимаю плечами, показывая, что беспокоиться не о чем."
-
-# ch/minami/events.rpy:4105
-translate russian minami_siscon_06_40cf4bf2:
-    mike.say "Ну так, [bree.name], на чём мы остановились?"
 
 # ch/minami/events.rpy:4106
 translate russian minami_siscon_06_ef12790c:
@@ -14268,10 +13280,6 @@ translate russian minami_siscon_06_ed010557:
 translate russian minami_siscon_06_ffa3714d:
     "А я ещё даже пальцем её не коснулся!"
 
-# ch/minami/events.rpy:4134
-translate russian minami_siscon_06_52bffa12:
-    minami.say "Вот так, братик."
-
 # ch/minami/events.rpy:4136
 translate russian minami_siscon_06_7a20297d:
     minami.say "Только не волнуйся, можешь не осторожничать."
@@ -14296,10 +13304,6 @@ translate russian minami_siscon_06_378aa1e7:
 translate russian minami_siscon_06_7df764da:
     minami.say "М-м-м..."
 
-# ch/minami/events.rpy:4146
-translate russian minami_siscon_06_6e3afaad:
-    minami.say "Как же ХОРОШО, братик."
-
 # ch/minami/events.rpy:4147
 translate russian minami_siscon_06_b42f416f:
     minami.say "У тебя будто волшебные руки!"
@@ -14321,7 +13325,7 @@ translate russian minami_siscon_06_8a080ba3:
     "А когда я наконец добираюсь до талии, она приподнимает попку, будто не может сдержаться!"
 
 # ch/minami/events.rpy:4153
-translate russian minami_siscon_06_3e0e237c:
+translate russian minami_siscon_06_1be8490b:
     mike.say "ЛАДНО... то есть ладно..."
 
 # ch/minami/events.rpy:4154
@@ -14329,16 +13333,12 @@ translate russian minami_siscon_06_df51687e:
     mike.say "Всё, Минами, я закончил!"
 
 # ch/minami/events.rpy:4155
-translate russian minami_siscon_06_033c14bf:
+translate russian minami_siscon_06_47521def:
     mike.say "То есть... с тобой закончили."
 
 # ch/minami/events.rpy:4157
 translate russian minami_siscon_06_c0a397e5:
     "Минами оглядывается через плечо, и её широко раскрытые глаза тревожно напоминают взгляд возбуждённой женщины."
-
-# ch/minami/events.rpy:4159
-translate russian minami_siscon_06_38c03550:
-    minami.say "Ах, спасибо, братик."
 
 # ch/minami/events.rpy:4160
 translate russian minami_siscon_06_0f639bc4:
@@ -14381,7 +13381,7 @@ translate russian minami_siscon_05_97219953:
     "Она громко ругается, давая понять, что после моего отъезда выучила несколько новых ругательств."
 
 # ch/minami/events.rpy:4181
-translate russian minami_siscon_05_87fb2fa1:
+translate russian minami_siscon_05_e13de1d5:
     minami.say "Ах, чёрт, чёрт... блядь!"
 
 # ch/minami/events.rpy:4183
@@ -14403,10 +13403,6 @@ translate russian minami_siscon_05_b41af6eb:
 # ch/minami/events.rpy:4188
 translate russian minami_siscon_05_24aec89a:
     "Минами поднимает глаза и дарит мне одну из тех милых улыбок, с которыми я всегда её связываю."
-
-# ch/minami/events.rpy:4190
-translate russian minami_siscon_05_dc35049c:
-    minami.say "Спасибо, братик."
 
 # ch/minami/events.rpy:4191
 translate russian minami_siscon_05_aed0d03c:
@@ -14435,10 +13431,6 @@ translate russian minami_siscon_05_3a469a6d:
 # ch/minami/events.rpy:4199
 translate russian minami_siscon_05_d443ce78:
     minami.say "Это гораздо сложнее всего, что было в школе."
-
-# ch/minami/events.rpy:4201
-translate russian minami_siscon_05_967f1e66:
-    minami.say "Мне уже кажется, что я отстаю, братик!"
 
 # ch/minami/events.rpy:4203
 translate russian minami_siscon_05_21c01ec0:
@@ -14471,10 +13463,6 @@ translate russian minami_siscon_05_4015ebe3:
 # ch/minami/events.rpy:4214
 translate russian minami_siscon_05_68c03180:
     minami.say "Ну-у-у..."
-
-# ch/minami/events.rpy:4215
-translate russian minami_siscon_05_955737d4:
-    minami.say "Я тут подумала, что ты ведь хорошо учился в школе, братик."
 
 # ch/minami/events.rpy:4216
 translate russian minami_siscon_05_d1004634:
@@ -14515,10 +13503,6 @@ translate russian minami_siscon_05_17131b64:
 # ch/minami/events.rpy:4232
 translate russian minami_siscon_05_430dfdf9:
     minami.say "Ну-у..."
-
-# ch/minami/events.rpy:4233
-translate russian minami_siscon_05_45ea32e2:
-    minami.say "ПОЖАЛУЙСТА, братик."
 
 # ch/minami/events.rpy:4234
 translate russian minami_siscon_05_0ecd0637:
@@ -14616,10 +13600,6 @@ translate russian minami_siscon_05_96cb17e9:
 translate russian minami_siscon_05_0e81cc3a:
     "Улыбка Минами растягивается чуть ли не до ушей."
 
-# ch/minami/events.rpy:4265
-translate russian minami_siscon_05_a0cc5349:
-    minami.say "Ох, спасибо, братик."
-
 # ch/minami/events.rpy:4266
 translate russian minami_siscon_05_591d9c62:
     minami.say "С ТВОЕЙ помощью я справлюсь с чем угодно!"
@@ -14637,7 +13617,7 @@ translate russian minami_siscon_05_8ddc157c:
     mike.say "Ты занимаешься за столом, Минами?"
 
 # ch/minami/events.rpy:4274
-translate russian minami_siscon_05_fcb95c77:
+translate russian minami_siscon_05_ae4c9e95:
     minami.say "Ну... да."
 
 # ch/minami/events.rpy:4275
@@ -14672,10 +13652,6 @@ translate russian minami_siscon_05_233a2c8e:
 translate russian minami_siscon_05_ecba2722:
     minami.say "А, поняла!"
 
-# ch/minami/events.rpy:4285
-translate russian minami_siscon_05_5816dff8:
-    minami.say "Это очень помогает, братик."
-
 # ch/minami/events.rpy:4287
 translate russian minami_siscon_05_aa7ba853:
     "Только теперь я начинаю понимать, насколько она близко."
@@ -14687,10 +13663,6 @@ translate russian minami_siscon_05_ab31272e:
 # ch/minami/events.rpy:4289
 translate russian minami_siscon_05_82c75539:
     "Минами поворачивает ко мне голову, и наши лица разделяет не больше пары сантиметров."
-
-# ch/minami/events.rpy:4291
-translate russian minami_siscon_05_9a9a86d5:
-    minami.say "Я ТАК благодарна тебе за помощь, братик."
 
 # ch/minami/events.rpy:4293
 translate russian minami_siscon_05_49ca7822:
@@ -14729,7 +13701,7 @@ translate russian minami_siscon_05_125b312c:
     "Но мгновение спустя меня отрезвляет ощущение её руки, добравшейся до паха..."
 
 # ch/minami/events.rpy:4307
-translate russian minami_siscon_05_b60321b7:
+translate russian minami_siscon_05_b7bd5513:
     mike.say "Ну... пока хватит, Минами!"
 
 # ch/minami/events.rpy:4308
@@ -14743,10 +13715,6 @@ translate russian minami_siscon_05_492449a7:
 # ch/minami/events.rpy:4311
 translate russian minami_siscon_05_4cbc32eb:
     "Она просто улыбается, само воплощение невинности."
-
-# ch/minami/events.rpy:4312
-translate russian minami_siscon_05_da6bd722:
-    minami.say "Ещё раз спасибо, братик."
 
 # ch/minami/events.rpy:4313
 translate russian minami_siscon_05_c4b3dd86:
@@ -14844,10 +13812,6 @@ translate russian minami_siscon_04_125570be:
 translate russian minami_siscon_04_fbcce71e:
     mike.say "Чего тебе надо?!"
 
-# ch/minami/events.rpy:4363
-translate russian minami_siscon_04_eaf97e33:
-    minami.say "Это гроза, братик."
-
 # ch/minami/events.rpy:4364
 translate russian minami_siscon_04_24e2d3cc:
     minami.say "Я там наверху совсем одна, и мне страшно!"
@@ -14865,7 +13829,7 @@ translate russian minami_siscon_04_5a61d2f7:
     "Не помогает и то, что на чердаке нет жалюзи."
 
 # ch/minami/events.rpy:4369
-translate russian minami_siscon_04_8d435d50:
+translate russian minami_siscon_04_11fcdd1b:
     mike.say "Эм... ладно, Минами."
 
 # ch/minami/events.rpy:4370
@@ -14919,10 +13883,6 @@ translate russian minami_siscon_04_962bcc23:
 # ch/minami/events.rpy:4388
 translate russian minami_siscon_04_3fdf1406:
     mike.say "К тому же места в моей кровати нет: мне придётся спать на полу."
-
-# ch/minami/events.rpy:4390
-translate russian minami_siscon_04_7ec3c9bc:
-    minami.say "Не-е-ет, братик!"
 
 # ch/minami/events.rpy:4391
 translate russian minami_siscon_04_a7719bc7:
@@ -14984,10 +13944,6 @@ translate russian minami_siscon_04_815291e2:
 translate russian minami_siscon_04_344050d9:
     "Она торопливо кивает, ожидая, пока я закрою за ней дверь."
 
-# ch/minami/events.rpy:4411
-translate russian minami_siscon_04_374ecd85:
-    minami.say "Да, братик, уверена."
-
 # ch/minami/events.rpy:4412
 translate russian minami_siscon_04_dac5ed5a:
     minami.say "Просто хочу быть рядом с тем, кто напоминает мне о доме."
@@ -15036,10 +13992,6 @@ translate russian minami_siscon_04_0e96970f:
 translate russian minami_siscon_04_47e7e040:
     "Я ожидал, что она будет держаться на расстоянии, но вместо этого она буквально цепляется за меня."
 
-# ch/minami/events.rpy:4439
-translate russian minami_siscon_04_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/minami/events.rpy:4440
 translate russian minami_siscon_04_5b3820fa:
     minami.say "Мне так страшно!"
@@ -15071,10 +14023,6 @@ translate russian minami_siscon_04_bb2caf6d:
 # ch/minami/events.rpy:4449
 translate russian minami_siscon_04_7df764da:
     minami.say "М-м-м..."
-
-# ch/minami/events.rpy:4450
-translate russian minami_siscon_04_6e9dc3e1:
-    minami.say "Как приятно, братик."
 
 # ch/minami/events.rpy:4451
 translate russian minami_siscon_04_7b97ebe2:
@@ -15211,10 +14159,6 @@ translate russian minami_siscon_03_30b34fdd:
 # ch/minami/events.rpy:4502
 translate russian minami_siscon_03_b38a7e03:
     mike.say "МИНАМИ, ЭТО ТЫ?"
-
-# ch/minami/events.rpy:4503
-translate russian minami_siscon_03_12dd1514:
-    minami.say "Да, братик, я."
 
 # ch/minami/events.rpy:4504
 translate russian minami_siscon_03_3be7e9b1:
@@ -15408,10 +14352,6 @@ translate russian minami_siscon_02_99724adc:
 translate russian minami_siscon_02_d4a35ae6:
     "Долго ждать ответа не приходится: изнутри отзывается Минами."
 
-# ch/minami/events.rpy:4567
-translate russian minami_siscon_02_01f73928:
-    minami.say "Привет, братик."
-
 # ch/minami/events.rpy:4568
 translate russian minami_siscon_02_31c6aa14:
     minami.say "Тебе очень надо, да?"
@@ -15492,10 +14432,6 @@ translate russian minami_siscon_02_938c5522:
 translate russian minami_siscon_02_d3ee9470:
     mike.say "Я просто выйду на улицу."
 
-# ch/minami/events.rpy:4590
-translate russian minami_siscon_02_1a0e196c:
-    minami.say "Ну, не будь ханжой, братик."
-
 # ch/minami/events.rpy:4591
 translate russian minami_siscon_02_5c8c71c2:
     minami.say "Не то чтобы я раньше всего этого не видела!"
@@ -15540,10 +14476,6 @@ translate russian minami_siscon_02_fe9d50f2:
 translate russian minami_siscon_02_935497af:
     mike.say "Ладно, Минами, я захожу."
 
-# ch/minami/events.rpy:4605
-translate russian minami_siscon_02_94a1ae15:
-    minami.say "Конечно, братик."
-
 # ch/minami/events.rpy:4606
 translate russian minami_siscon_02_33035fa1:
     "Я поворачиваю ручку, толкаю дверь и вхожу в ванную."
@@ -15555,10 +14487,6 @@ translate russian minami_siscon_02_e390602c:
 # ch/minami/events.rpy:4608
 translate russian minami_siscon_02_8a0714c1:
     "Если первой ошибкой было поверить Минами на слово, то второй — не опустить взгляд."
-
-# ch/minami/events.rpy:4612
-translate russian minami_siscon_02_d4ef0b82:
-    minami.say "Что такое, братик?"
 
 # ch/minami/events.rpy:4613
 translate russian minami_siscon_02_c5586ece:
@@ -15612,10 +14540,6 @@ translate russian minami_siscon_02_d1494475:
 translate russian minami_siscon_02_0458af4a:
     minami.say "Да ладно тебе!"
 
-# ch/minami/events.rpy:4628
-translate russian minami_siscon_02_db0519f7:
-    minami.say "Подбери челюсть с пола, братик."
-
 # ch/minami/events.rpy:4629
 translate russian minami_siscon_02_ce7fe533:
     minami.say "Будто ты никогда не видел меня голой!"
@@ -15625,12 +14549,8 @@ translate russian minami_siscon_02_23b799df:
     mike.say "Д... да, Минами..."
 
 # ch/minami/events.rpy:4632
-translate russian minami_siscon_02_86672254:
+translate russian minami_siscon_02_605eca11:
     mike.say "Н... но тогда мы были детьми!"
-
-# ch/minami/events.rpy:4634
-translate russian minami_siscon_02_92159bfb:
-    minami.say "Ну, не будь таким ханжой, братик."
 
 # ch/minami/events.rpy:4635
 translate russian minami_siscon_02_92d0677c:
@@ -15655,10 +14575,6 @@ translate russian minami_siscon_02_984044a9:
 # ch/minami/events.rpy:4641
 translate russian minami_siscon_02_b8f73ac8:
     "Затем быстро оборачивается полотенцем и семенит к двери."
-
-# ch/minami/events.rpy:4643
-translate russian minami_siscon_02_6e41269a:
-    minami.say "Ванная полностью твоя, братик!"
 
 # ch/minami/events.rpy:4644
 translate russian minami_siscon_02_a32eab41:
@@ -15717,11 +14633,11 @@ translate russian minami_siscon_01_3df0eb35:
     "Внутрь влетает Минами, наполняя комнату шумом и болтовнёй."
 
 # ch/minami/events.rpy:4672
-translate russian minami_siscon_01_04ab1241:
+translate russian minami_siscon_01_d0e943af:
     minami.say "О... МОЙ... БОГ!"
 
 # ch/minami/events.rpy:4673
-translate russian minami_siscon_01_cac76dbb:
+translate russian minami_siscon_01_6eabd761:
     minami.say "Это... так... круто!"
 
 # ch/minami/events.rpy:4675
@@ -15731,10 +14647,6 @@ translate russian minami_siscon_01_61153328:
 # ch/minami/events.rpy:4676
 translate russian minami_siscon_01_1d293135:
     "Лавируя между инструментами и аппаратурой, она опасно близка к тому, чтобы что-нибудь серьёзно повредить."
-
-# ch/minami/events.rpy:4678
-translate russian minami_siscon_01_72460788:
-    minami.say "Ты говорил, что играешь в группе, братик."
 
 # ch/minami/events.rpy:4679
 translate russian minami_siscon_01_d3f8c1b9:
@@ -15751,14 +14663,6 @@ translate russian minami_siscon_01_16d21895:
 # ch/minami/events.rpy:4687
 translate russian minami_siscon_01_d36ad095:
     "Ещё до того, как Клео заговаривает, я чувствую её насмешливый взгляд."
-
-# ch/minami/events.rpy:4690
-translate russian minami_siscon_01_3bb8d8d8:
-    kleio.say "Эй, сердцеед, кто эта мисс «объелась сладкого»?"
-
-# ch/minami/events.rpy:4692
-translate russian minami_siscon_01_3bb8d8d8_1:
-    kleio.say "Эй, сердцеед, кто эта мисс «объелась сладкого»?"
 
 # ch/minami/events.rpy:4695
 translate russian minami_siscon_01_ef87a740:
@@ -15777,11 +14681,11 @@ translate russian minami_siscon_01_774e80c0:
     "Клео озадачена словами Минами и не сразу понимает, что это комплимент."
 
 # ch/minami/events.rpy:4703
-translate russian minami_siscon_01_87a478d5:
+translate russian minami_siscon_01_efd5584d:
     kleio.say "Ну... наверное... в общем, да."
 
 # ch/minami/events.rpy:4705
-translate russian minami_siscon_01_87a478d5_1:
+translate russian minami_siscon_01_efd5584d_1:
     kleio.say "Ну... наверное... в общем, да."
 
 # ch/minami/events.rpy:4708
@@ -15797,11 +14701,11 @@ translate russian minami_siscon_01_51498739:
     minami.say "Ты такая маленькая! Наверное, шума от тебя очень много!"
 
 # ch/minami/events.rpy:4720
-translate russian minami_siscon_01_b9776cc2:
+translate russian minami_siscon_01_23883265:
     anna.say "Да... но вообще-то в этом и смысл..."
 
 # ch/minami/events.rpy:4722
-translate russian minami_siscon_01_b9776cc2_1:
+translate russian minami_siscon_01_23883265_1:
     anna.say "Да... но вообще-то в этом и смысл..."
 
 # ch/minami/events.rpy:4724
@@ -15819,10 +14723,6 @@ translate russian minami_siscon_01_86baf95a:
 # ch/minami/events.rpy:4728
 translate russian minami_siscon_01_e377cb02:
     "Услышав мой голос, Минами тут же дуется и начинает ныть."
-
-# ch/minami/events.rpy:4730
-translate russian minami_siscon_01_cadaa226:
-    minami.say "Ну-у, знаю, братик."
 
 # ch/minami/events.rpy:4731
 translate russian minami_siscon_01_c1b687de:
@@ -15865,7 +14765,7 @@ translate russian minami_siscon_01_561b5f74:
     "Минами мрачнеет и теперь уже совершенно точно дуется."
 
 # ch/minami/events.rpy:4746
-translate russian minami_siscon_01_2d94c8e7:
+translate russian minami_siscon_01_7f297cb6:
     minami.say "Ну... но я..."
 
 # ch/minami/events.rpy:4748
@@ -15912,17 +14812,9 @@ translate russian minami_siscon_01_f4808263_1:
 translate russian minami_siscon_01_22677da4_1:
     anna.say "Она всего лишь хотела послушать, как ты играешь!"
 
-# ch/minami/events.rpy:4773
-translate russian minami_siscon_01_04e4f1cf:
-    kleio.say "Не-а, сердцеед прав, Анна."
-
 # ch/minami/events.rpy:4774
 translate russian minami_siscon_01_0578dcc6:
     kleio.say "С такими девчонками нужно быть построже!"
-
-# ch/minami/events.rpy:4778
-translate russian minami_siscon_01_04e4f1cf_1:
-    kleio.say "Не-а, сердцеед прав, Анна."
 
 # ch/minami/events.rpy:4779
 translate russian minami_siscon_01_0578dcc6_1:
@@ -15991,10 +14883,6 @@ translate russian minami_siscon_01_cc0a4f37:
 # ch/minami/events.rpy:4803
 translate russian minami_siscon_01_84edf9cc:
     minami.say "ДА!"
-
-# ch/minami/events.rpy:4804
-translate russian minami_siscon_01_479eb33e:
-    minami.say "Спасибо, братик, ты лучший!"
 
 # ch/minami/events.rpy:4806
 translate russian minami_siscon_01_82e05bd7:
@@ -16072,16 +14960,12 @@ translate russian minami_siscon_01_bec363a7:
 translate russian minami_siscon_01_20867c6d:
     "По дороге домой Минами, похоже, чувствует, что что-то не так."
 
-# ch/minami/events.rpy:4859
-translate russian minami_siscon_01_1af7f405:
-    minami.say "Братик..."
-
 # ch/minami/events.rpy:4860
 translate russian minami_siscon_01_db2a8f3f:
     minami.say "Ты на меня злишься?"
 
 # ch/minami/events.rpy:4862
-translate russian minami_siscon_01_141683f0:
+translate russian minami_siscon_01_c7dba648:
     mike.say "Что... нет, Минами."
 
 # ch/minami/events.rpy:4863
@@ -16089,7 +14973,7 @@ translate russian minami_siscon_01_2170a82e:
     mike.say "Просто мне кажется, сегодня я плохо играл, вот и всё."
 
 # ch/minami/events.rpy:4865
-translate russian minami_siscon_01_ecdcdc1c:
+translate russian minami_siscon_01_5f8e6d65:
     minami.say "А... в смысле?"
 
 # ch/minami/events.rpy:4866
@@ -16100,12 +14984,8 @@ translate russian minami_siscon_01_06487c21:
 translate russian minami_siscon_01_6df34a97:
     minami.say "Девушки падают в обморок, когда ты выходишь на сцену?"
 
-# ch/minami/events.rpy:4869
-translate russian minami_siscon_01_a43c977c:
-    minami.say "Думаю, должны. Ты настолько хорош, братик!"
-
 # ch/minami/events.rpy:4871
-translate russian minami_siscon_01_b5f9c819:
+translate russian minami_siscon_01_ce994b67:
     mike.say "Я... не уверен, Минами!"
 
 # ch/minami/events.rpy:4873
@@ -16180,12 +15060,8 @@ translate russian minami_preg_talk_fd30b6a4:
 translate russian minami_preg_talk_2514a66c:
     "Как ни старается Минами выглядеть совершенно спокойной, перед ответом она всё же вздыхает."
 
-# ch/minami/events.rpy:4901
-translate russian minami_preg_talk_01f73928:
-    minami.say "Привет, братик."
-
 # ch/minami/events.rpy:4903
-translate russian minami_preg_talk_cbe656f1:
+translate russian minami_preg_talk_5a8aba21:
     minami.say "Мне... мне нужно с тобой поговорить."
 
 # ch/minami/events.rpy:4905
@@ -16216,10 +15092,6 @@ translate russian minami_preg_talk_376b3ffb:
 translate russian minami_preg_talk_8a1a8d47:
     "Она отводит взгляд, словно не желая встречаться со мной глазами."
 
-# ch/minami/events.rpy:4914
-translate russian minami_preg_talk_662ced98:
-    minami.say "Надеюсь, братик."
-
 # ch/minami/events.rpy:4915
 translate russian minami_preg_talk_039ae342:
     minami.say "Очень надеюсь!"
@@ -16239,10 +15111,6 @@ translate russian minami_preg_talk_9ad7ce7e:
 # ch/minami/events.rpy:4921
 translate russian minami_preg_talk_68345618:
     "Лишь когда Минами снова поднимает глаза, я замечаю в них первые слёзы."
-
-# ch/minami/events.rpy:4923
-translate russian minami_preg_talk_c7d04a6b:
-    minami.say "Сейчас ты так говоришь, братик."
 
 # ch/minami/events.rpy:4924
 translate russian minami_preg_talk_4fa8d0ad:
@@ -16264,10 +15132,6 @@ translate russian minami_preg_talk_cd773045:
 translate russian minami_preg_talk_4d77b065:
     "Минами грустно кивает, возможно, понимая, что молчать бессмысленно."
 
-# ch/minami/events.rpy:4932
-translate russian minami_preg_talk_680e3f07:
-    minami.say "Я... я беременна, братик."
-
 # ch/minami/events.rpy:4933
 translate russian minami_preg_talk_4a6ab895:
     minami.say "У меня будет твой ребёнок!"
@@ -16280,12 +15144,8 @@ translate russian minami_preg_talk_e9450746:
 translate russian minami_preg_talk_76fb3325:
     "Девушка, которая сначала была моей младшей сестрой, потом возлюбленной, теперь носит моего ребёнка!"
 
-# ch/minami/events.rpy:4938
-translate russian minami_preg_talk_ae1a869b:
-    minami.say "Мне нужно знать, что ты хочешь делать, братик."
-
 # ch/minami/events.rpy:4939
-translate russian minami_preg_talk_c7cd161b:
+translate russian minami_preg_talk_e787403e:
     minami.say "То есть... я оставлю ребёнка. В этом я уверена."
 
 # ch/minami/events.rpy:4940
@@ -16364,10 +15224,6 @@ translate russian minami_preg_talk_fa07a844:
 translate russian minami_preg_talk_e40d26d5:
     "Теперь Минами действительно плачет, слёзы текут по щекам."
 
-# ch/minami/events.rpy:4968
-translate russian minami_preg_talk_9c293338:
-    minami.say "Нет, братик, это неправда."
-
 # ch/minami/events.rpy:4969
 translate russian minami_preg_talk_0b065824:
     minami.say "Ты должен мне поверить!"
@@ -16417,7 +15273,7 @@ translate russian minami_preg_talk_3387e488:
     mike.say "Минами, это лучшая новость на свете!"
 
 # ch/minami/events.rpy:4990
-translate russian minami_preg_talk_eeca8fb3:
+translate russian minami_preg_talk_d4439f74:
     minami.say "П... правда?"
 
 # ch/minami/events.rpy:4992
@@ -16469,7 +15325,7 @@ translate russian minami_preg_talk_b593fd59:
     "Я вижу, как в глазах Минами загорается понимание."
 
 # ch/minami/events.rpy:5009
-translate russian minami_preg_talk_9f6b80ad:
+translate russian minami_preg_talk_907b896e:
     minami.say "Я... я люблю тебя не из-за того, что они сделали, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:5010
@@ -16575,10 +15431,6 @@ translate russian minami_event_03_998a9a9d:
 # ch/minami/events.rpy:5047
 translate russian minami_event_03_84615915:
     "И вдруг чувствую бабочек в животе."
-
-# ch/minami/events.rpy:5049
-translate russian minami_event_03_e16aed83:
-    minami.say "ПРИВЕТ, БРАТИК!!!"
 
 # ch/minami/events.rpy:5050
 translate russian minami_event_03_adbaf1ad:
@@ -16717,7 +15569,7 @@ translate russian minami_event_03_877eca92:
     mike.say "Это просто вещи Минами."
 
 # ch/minami/events.rpy:5097
-translate russian minami_event_03_b01ee8b7:
+translate russian minami_event_03_96f7569e:
     bree.say "Эм... а кто такая Минами?"
 
 # ch/minami/events.rpy:5099
@@ -16765,7 +15617,7 @@ translate russian minami_event_03_4ac33581:
     "Но потом она, кажется, всё понимает и едва заметно кивает."
 
 # ch/minami/events.rpy:5120
-translate russian minami_event_03_ca5d5df9:
+translate russian minami_event_03_51f586fe:
     bree.say "Минами... да... точно."
 
 # ch/minami/events.rpy:5121
@@ -16817,7 +15669,7 @@ translate russian minami_event_03_ee9dfaef:
     bree.say "Даже ты не настолько похож на девчонку!"
 
 # ch/minami/events.rpy:5146
-translate russian minami_event_03_df700712:
+translate russian minami_event_03_cd51e2b5:
     mike.say "Ха-ха... очень смешно."
 
 # ch/minami/events.rpy:5150
@@ -16953,7 +15805,7 @@ translate russian minami_event_03_4b216428:
     "Но [bree.name] перебивает её, не дав высказать всё, что та думает."
 
 # ch/minami/events.rpy:5218
-translate russian minami_event_03_6d236b2b:
+translate russian minami_event_03_816daa8d:
     bree.say "Не слушай её... Минами, да?"
 
 # ch/minami/events.rpy:5219
@@ -17117,7 +15969,7 @@ translate russian minami_event_03_9c63964b:
     sasha.say "Это просто барахло Минами."
 
 # ch/minami/events.rpy:5300
-translate russian minami_event_03_b01ee8b7_1:
+translate russian minami_event_03_96f7569e_1:
     bree.say "Эм... а кто такая Минами?"
 
 # ch/minami/events.rpy:5302
@@ -17173,7 +16025,7 @@ translate russian minami_event_03_4ac33581_1:
     "Но потом она, кажется, всё понимает и едва заметно кивает."
 
 # ch/minami/events.rpy:5331
-translate russian minami_event_03_ca5d5df9_1:
+translate russian minami_event_03_51f586fe_1:
     bree.say "Минами... да... точно."
 
 # ch/minami/events.rpy:5332
@@ -17229,7 +16081,7 @@ translate russian minami_event_03_594fc8d2:
     sasha.say "Даже ты не настолько похож на девчонку!"
 
 # ch/minami/events.rpy:5360
-translate russian minami_event_03_df700712_1:
+translate russian minami_event_03_cd51e2b5_1:
     mike.say "Ха-ха... очень смешно."
 
 # ch/minami/events.rpy:5362
@@ -17328,10 +16180,6 @@ translate russian minami_event_03_8b05127c:
 translate russian minami_event_03_1cd07b0f:
     mike.say "В дальнейшем ты будешь жить в комнате на чердаке, Минами."
 
-# ch/minami/events.rpy:5414
-translate russian minami_event_03_b7b01b17:
-    minami.say "О, братик, здорово!"
-
 # ch/minami/events.rpy:5416
 translate russian minami_event_03_64949c1d:
     mike.say "Эм, да..."
@@ -17364,10 +16212,6 @@ translate russian minami_event_03_9c78c4a4:
 translate russian minami_event_03_5f39d2b2:
     "Минами кивает, но всё же немного шмыгает носом, задавая неизбежный вопрос."
 
-# ch/minami/events.rpy:5427
-translate russian minami_event_03_5d3088a7:
-    minami.say "Но... где же мне пока спать, братик?"
-
 # ch/minami/events.rpy:5429
 translate russian minami_event_03_13d610a7:
     mike.say "Я думал, ты могла бы спать в моей комнате."
@@ -17385,11 +16229,11 @@ translate russian minami_event_03_c47f078f:
     "Но вместе с тем она будто не верит своему счастью и пытается скрыть это от меня."
 
 # ch/minami/events.rpy:5434
-translate russian minami_event_03_7d588b81:
+translate russian minami_event_03_7f509074:
     minami.say "А... понятно."
 
 # ch/minami/events.rpy:5435
-translate russian minami_event_03_0077964a:
+translate russian minami_event_03_6f1cd3bf:
     minami.say "Ну... вдвоём нам, наверное, будет теплее!"
 
 # ch/minami/events.rpy:5437
@@ -17428,16 +16272,12 @@ translate russian minami_event_03_531d2f82:
 translate russian minami_event_03_9965bcd5:
     "И она снова улыбается и хихикает, словно ничего не случилось."
 
-# ch/minami/events.rpy:5449
-translate russian minami_event_03_0784db37:
-    minami.say "Конечно, братик, я всё поняла."
-
 # ch/minami/events.rpy:5450
 translate russian minami_event_03_d496451d:
     minami.say "Ну ты чего? Я просто пошутила!"
 
 # ch/minami/events.rpy:5451
-translate russian minami_event_03_62d60ad9:
+translate russian minami_event_03_e9c32dd5:
     minami.say "Ладно... посплю в твоей кровати, пока ты не приготовишь мою комнату."
 
 # ch/minami/events.rpy:5453
@@ -17476,10 +16316,6 @@ translate russian minami_event_03_6afe90a5:
 translate russian minami_event_03_1bcf9e02:
     "Вместо этого её глаза округляются ещё сильнее, и она становится похожа на мультяшного персонажа."
 
-# ch/minami/events.rpy:5466
-translate russian minami_event_03_f5e964c6:
-    minami.say "Братик, ты помнишь!"
-
 # ch/minami/events.rpy:5468
 translate russian minami_event_03_e7fdfcf3:
     mike.say "Что я помню?"
@@ -17512,16 +16348,12 @@ translate russian minami_event_03_07fd1113:
 translate russian minami_event_03_89366764:
     minami.say "А они только сказали, что я глупая и избалованная."
 
-# ch/minami/events.rpy:5477
-translate russian minami_event_03_2e7c4db3:
-    minami.say "Но ты помнишь, братик!"
-
 # ch/minami/events.rpy:5478
 translate russian minami_event_03_218de846:
     minami.say "Потому что ты самый лучший старший брат на свете!"
 
 # ch/minami/events.rpy:5480
-translate russian minami_event_03_63e727d9:
+translate russian minami_event_03_25c3aa4b:
     mike.say "А... да, Минами."
 
 # ch/minami/events.rpy:5481
@@ -17531,10 +16363,6 @@ translate russian minami_event_03_131e797d:
 # ch/minami/events.rpy:5482
 translate russian minami_event_03_801230ea:
     mike.say "Конечно же, я не просто поселил тебя в единственной свободной комнате..."
-
-# ch/minami/events.rpy:5484
-translate russian minami_event_03_cb1273e5:
-    minami.say "Я люблю тебя, братик!"
 
 # ch/minami/events.rpy:5486
 translate russian minami_event_03_9ef80c14:
@@ -17551,10 +16379,6 @@ translate russian minami_event_03_1fea6270:
 # ch/minami/events.rpy:5491
 translate russian minami_event_03_52094e92:
     "При упоминании одежды глаза Минами снова загораются."
-
-# ch/minami/events.rpy:5493
-translate russian minami_event_03_f0234ec5:
-    minami.say "Я привезла СТОЛЬКО новых милых нарядов, братик!"
 
 # ch/minami/events.rpy:5494
 translate russian minami_event_03_2639c70a:
@@ -17637,7 +16461,7 @@ translate russian bree_talk_minami_01_acd65dab:
     bree.say "Да, помню."
 
 # ch/minami/events.rpy:5531
-translate russian bree_talk_minami_01_830f3555:
+translate russian bree_talk_minami_01_c3565544:
     bree.say "Она твоя... сестра, да?"
 
 # ch/minami/events.rpy:5533
@@ -17692,10 +16516,6 @@ translate russian bree_talk_minami_01_e27bafb6:
 translate russian bree_talk_minami_01_0917ace8:
     "Волнение грозит взять верх, и я заставляю себя продолжить."
 
-# ch/minami/events.rpy:5550
-translate russian bree_talk_minami_01_58e7336c:
-    mike.say "Вот в этом-то и дело, [bree.name]."
-
 # ch/minami/events.rpy:5551
 translate russian bree_talk_minami_01_9b8842c3:
     mike.say "Я тут узнал, что Минами, возможно, задержится здесь дольше, чем я думал."
@@ -17705,7 +16525,7 @@ translate russian bree_talk_minami_01_46c2c0c3:
     mike.say "Вообще-то ей, наверное, придётся у нас пожить."
 
 # ch/minami/events.rpy:5554
-translate russian bree_talk_minami_01_8e8aed1c:
+translate russian bree_talk_minami_01_6d6e179c:
     bree.say "А... ладно."
 
 # ch/minami/events.rpy:5555
@@ -17715,10 +16535,6 @@ translate russian bree_talk_minami_01_1da9d81a:
 # ch/minami/events.rpy:5557
 translate russian bree_talk_minami_01_712653eb:
     bree.say "Думаю, какое-то время мы её потерпим."
-
-# ch/minami/events.rpy:5559
-translate russian bree_talk_minami_01_b50e7457:
-    mike.say "Нет, [bree.name]."
 
 # ch/minami/events.rpy:5560
 translate russian bree_talk_minami_01_757a3e39:
@@ -17737,7 +16553,7 @@ translate russian bree_talk_minami_01_5229dba9:
     "Я невольно морщусь, ожидая, что сейчас она взорвётся."
 
 # ch/minami/events.rpy:5566
-translate russian bree_talk_minami_01_2667cca6:
+translate russian bree_talk_minami_01_d3f91aca:
     bree.say "Это... это..."
 
 # ch/minami/events.rpy:5567
@@ -17749,7 +16565,7 @@ translate russian bree_talk_minami_01_d1d6f869:
     bree.say "ЭТО ПОТРЯСАЮЩЕ!"
 
 # ch/minami/events.rpy:5572
-translate russian bree_talk_minami_01_39d69c1f:
+translate russian bree_talk_minami_01_222b7c1c:
     mike.say "Что? Погоди... правда?!"
 
 # ch/minami/events.rpy:5575
@@ -17877,7 +16693,7 @@ translate russian sasha_talk_minami_01_36412f64:
     sasha.say "А, всё-таки что-то есть, да?"
 
 # ch/minami/events.rpy:5625
-translate russian sasha_talk_minami_01_0da3d7a8:
+translate russian sasha_talk_minami_01_853e1f76:
     mike.say "Эм... да, есть."
 
 # ch/minami/events.rpy:5626
@@ -18080,10 +16896,6 @@ translate russian minami_event_02_3dab209c:
 translate russian minami_event_02_26471edd:
     "И тут я понимаю, насколько ясно её вижу, и осознаю, как сильно, должно быть, скучаю по ней."
 
-# ch/minami/events.rpy:5705
-translate russian minami_event_02_6f0f416f:
-    minami.say "Ну братик, ну как ты можешь!"
-
 # ch/minami/events.rpy:5706
 translate russian minami_event_02_a4233322:
     minami.say "Я думала, сейчас ты только обо мне и думаешь."
@@ -18107,10 +16919,6 @@ translate russian minami_event_02_f20e62f7:
 # ch/minami/events.rpy:5711
 translate russian minami_event_02_18344f7c:
     "Минами снова заливается смехом."
-
-# ch/minami/events.rpy:5712
-translate russian minami_event_02_94a97082:
-    minami.say "Ох, братик, какой же ты смешной!"
 
 # ch/minami/events.rpy:5713
 translate russian minami_event_02_86a375b9:
@@ -18152,10 +16960,6 @@ translate russian minami_event_02_8ef3f0f3:
 translate russian minami_event_02_d099c33f:
     mike.say "Значит, звонок как-то с этим связан."
 
-# ch/minami/events.rpy:5723
-translate russian minami_event_02_3bbd82d2:
-    minami.say "Молодец, братик! Уже теплее!"
-
 # ch/minami/events.rpy:5724
 translate russian minami_event_02_f1d8a63c:
     mike.say "Эм..."
@@ -18176,20 +16980,16 @@ translate russian minami_event_02_6d21f95e:
 translate russian minami_event_02_7332eaa0:
     "Минами опять хихикает, и я почти вижу, как она качает головой из-за моей недогадливости."
 
-# ch/minami/events.rpy:5729
-translate russian minami_event_02_0bc86bcf:
-    minami.say "Ну братик, хватит меня разыгрывать."
-
 # ch/minami/events.rpy:5730
 translate russian minami_event_02_b182f1e6:
     minami.say "Ты уже проверил место, где я буду жить."
 
 # ch/minami/events.rpy:5731
-translate russian minami_event_02_ec962bfa:
+translate russian minami_event_02_e7f3af8d:
     mike.say "Эм... правда?"
 
 # ch/minami/events.rpy:5732
-translate russian minami_event_02_b10c21c9:
+translate russian minami_event_02_108fad57:
     minami.say "Я ведь буду жить у тебя... разве нет?"
 
 # ch/minami/events.rpy:5733
@@ -18261,12 +17061,8 @@ translate russian minami_event_02_14274b82:
     "Мне хочется затаить дыхание в ожидании того, что будет дальше."
 
 # ch/minami/events.rpy:5752
-translate russian minami_event_02_e2908ca9:
+translate russian minami_event_02_f490dd3e:
     minami.say "УА-А-А... а-а... а-а!"
-
-# ch/minami/events.rpy:5753
-translate russian minami_event_02_6536342e:
-    minami.say "В смысле, братик?!"
 
 # ch/minami/events.rpy:5754
 translate russian minami_event_02_2a997cfa:
@@ -18299,10 +17095,6 @@ translate russian minami_event_02_9bdffb01:
 # ch/minami/events.rpy:5761
 translate russian minami_event_02_dc8b8bd2:
     mike.say "Я позвоню в колледж и договорюсь о комнате в общежитии."
-
-# ch/minami/events.rpy:5762
-translate russian minami_event_02_184c42e0:
-    minami.say "Но там же чужие люди, братик!"
 
 # ch/minami/events.rpy:5763
 translate russian minami_event_02_38232c4e:
@@ -18352,10 +17144,6 @@ translate russian minami_event_02_60307ca9:
 translate russian minami_event_02_6f010a25:
     mike.say "Наверное, просто был так занят, что вылетело из головы."
 
-# ch/minami/events.rpy:5778
-translate russian minami_event_02_7acc40d4:
-    minami.say "Х-хорошо, братик."
-
 # ch/minami/events.rpy:5779
 translate russian minami_event_02_c802c7b7:
     minami.say "Точно можно?"
@@ -18379,10 +17167,6 @@ translate russian minami_event_02_db9ff1e6:
 # ch/minami/events.rpy:5784
 translate russian minami_event_02_32151c4b:
     "На другом конце провода Минами издаёт возглас ничем не омрачённой радости."
-
-# ch/minami/events.rpy:5785
-translate russian minami_event_02_200ceb3a:
-    minami.say "О, братик, ты и правда САМЫЙ лучший!"
 
 # ch/minami/events.rpy:5786
 translate russian minami_event_02_dd74d127:
@@ -18433,7 +17217,7 @@ translate russian spank_minami_a35dd631:
     "Снова раздаются крики, совсем как в прошлый раз."
 
 # ch/minami/events.rpy:5803
-translate russian spank_minami_16a222e0:
+translate russian spank_minami_d4cadfe9:
     sasha.say "О... мой... БОГ!"
 
 # ch/minami/events.rpy:5804
@@ -18481,7 +17265,7 @@ translate russian spank_minami_2a1b65d9:
     "И пытаюсь выступить миротворцем."
 
 # ch/minami/events.rpy:5819
-translate russian spank_minami_d7beaf57:
+translate russian spank_minami_022e696f:
     mike.say "Эм... эй, девчонки?"
 
 # ch/minami/events.rpy:5820
@@ -18515,10 +17299,6 @@ translate russian spank_minami_9f7d4acf:
 # ch/minami/events.rpy:5829
 translate russian spank_minami_acaac272:
     "Но Минами вступает в разговор, не дав мне сказать ни слова."
-
-# ch/minami/events.rpy:5831
-translate russian spank_minami_fe97735c:
-    minami.say "Братик, я об неё споткнулась!"
 
 # ch/minami/events.rpy:5832
 translate russian spank_minami_60baa4d8:
@@ -18636,10 +17416,6 @@ translate russian spank_minami_d1795211:
 translate russian spank_minami_4e517a86:
     "С этими словами Саша хватает мокрую бас-гитару и в ярости уходит."
 
-# ch/minami/events.rpy:5875
-translate russian spank_minami_71d08c06:
-    minami.say "Спасибо, что спас меня, братик!"
-
 # ch/minami/events.rpy:5877
 translate russian spank_minami_6904d97d:
     mike.say "Не за что, Минами."
@@ -18692,10 +17468,6 @@ translate russian spank_minami_7f1afc4e:
 translate russian spank_minami_e429ceb0:
     "А Саша тем временем приобретает откровенно самодовольный вид."
 
-# ch/minami/events.rpy:5898
-translate russian spank_minami_5645b33c:
-    minami.say "Братик!"
-
 # ch/minami/events.rpy:5899
 translate russian spank_minami_be7c3ff1:
     minami.say "Как ты можешь быть на ЕЁ стороне, а не на моей?!"
@@ -18733,7 +17505,7 @@ translate russian spank_minami_011131ce:
     minami.say "У-у-у..."
 
 # ch/minami/events.rpy:5911
-translate russian spank_minami_c0abc1a0:
+translate russian spank_minami_ade49f3d:
     minami.say "Ты... ты..."
 
 # ch/minami/events.rpy:5913
@@ -18769,7 +17541,7 @@ translate russian spank_minami_1d71f167:
     "Первой неловкое молчание нарушает она."
 
 # ch/minami/events.rpy:5930
-translate russian spank_minami_641edc3a:
+translate russian spank_minami_ca46679c:
     sasha.say "Я... прости, если я была с ней слишком резка, [lssb_minami.hero_name()]."
 
 # ch/minami/events.rpy:5931
@@ -18828,10 +17600,6 @@ translate russian spank_minami_09447b86:
 translate russian spank_minami_4193c620:
     "И через мгновение уже лежит поперёк моих колен."
 
-# ch/minami/events.rpy:5955
-translate russian spank_minami_1af7f405:
-    minami.say "Братик..."
-
 # ch/minami/events.rpy:5956
 translate russian spank_minami_47ae15e6:
     minami.say "Что ты..."
@@ -18861,7 +17629,7 @@ translate russian spank_minami_09a56253:
     minami.say "Ах..."
 
 # ch/minami/events.rpy:5969
-translate russian spank_minami_f533e62b:
+translate russian spank_minami_3e0e5f3f:
     minami.say "Т-ты меня шлёпнул!"
 
 # ch/minami/events.rpy:5973
@@ -18935,10 +17703,6 @@ translate russian spank_minami_c359f23d:
 # ch/minami/events.rpy:6008
 translate russian spank_minami_dd140f12:
     "Но она просто стоит, заложив руки за спину."
-
-# ch/minami/events.rpy:6009
-translate russian spank_minami_f78b83e0:
-    minami.say "С-спасибо, братик."
 
 # ch/minami/events.rpy:6010
 translate russian spank_minami_96c75b35:
@@ -19040,10 +17804,6 @@ translate russian minami_not_get_out_clothed_male_094919c9:
 translate russian minami_not_get_out_clothed_male_9fe556d1:
     minami.say "Да перестань. Мы слишком хорошо друг друга знаем, чтобы стесняться..."
 
-# ch/minami/events.rpy:6097
-translate russian minami_likes_blondes_5a9c0b13:
-    minami.say "Привет, братик!"
-
 # ch/minami/events.rpy:6098
 translate russian minami_likes_blondes_4b4e0e6c:
     minami.say "Чем занимаешься?"
@@ -19088,10 +17848,6 @@ translate russian minami_likes_blondes_efffcfc1:
 translate russian minami_likes_blondes_3bca7fff:
     "Но Минами всё равно улыбается."
 
-# ch/minami/events.rpy:6111
-translate russian minami_likes_blondes_8eedde98:
-    minami.say "О-о, братик!"
-
 # ch/minami/events.rpy:6112
 translate russian minami_likes_blondes_0cf0722d:
     minami.say "Это так мило."
@@ -19124,10 +17880,6 @@ translate russian minami_likes_blondes_4e9b17bf:
 translate russian minami_likes_blondes_399bc2cc:
     minami.say "Да нет..."
 
-# ch/minami/events.rpy:6122
-translate russian minami_likes_blondes_eba15d0c:
-    minami.say "Просто проходила мимо и решила узнать, как ты, братик."
-
 # ch/minami/events.rpy:6124
 translate russian minami_likes_blondes_806e353a:
     mike.say "То есть тебя сейчас ничего не гложет?"
@@ -19147,10 +17899,6 @@ translate russian minami_likes_blondes_f79ff9fe:
 # ch/minami/events.rpy:6128
 translate russian minami_likes_blondes_d1d13073:
     "Но потом я вижу, как она начинает сдавать позиции, и любопытство берёт верх."
-
-# ch/minami/events.rpy:6130
-translate russian minami_likes_blondes_dc74ac66:
-    minami.say "Ну, братик..."
 
 # ch/minami/events.rpy:6131
 translate russian minami_likes_blondes_28139a33:
@@ -19179,10 +17927,6 @@ translate russian minami_likes_blondes_60c9f583:
 # ch/minami/events.rpy:6138
 translate russian minami_likes_blondes_71ad2c06:
     mike.say "Может, просто захотелось перемен?"
-
-# ch/minami/events.rpy:6140
-translate russian minami_likes_blondes_ffc30843:
-    minami.say "Может, братик."
 
 # ch/minami/events.rpy:6142
 translate russian minami_likes_blondes_0e96e1c1:
@@ -19227,10 +17971,6 @@ translate russian minami_likes_blondes_5a8ed206:
 # ch/minami/events.rpy:6156
 translate russian minami_likes_blondes_1e604416:
     "И вот наконец нашла, во что вцепиться коготками."
-
-# ch/minami/events.rpy:6158
-translate russian minami_likes_blondes_249e4999:
-    minami.say "Ты говоришь «парни», братик..."
 
 # ch/minami/events.rpy:6159
 translate russian minami_likes_blondes_f141ed2c:
@@ -19293,12 +18033,8 @@ translate russian minami_likes_blondes_3dbdd101:
     "Которые, так уж вышло, черны как ночь!"
 
 # ch/minami/events.rpy:6181
-translate russian minami_likes_blondes_7d588b81:
+translate russian minami_likes_blondes_7f509074:
     minami.say "А... понятно."
-
-# ch/minami/events.rpy:6182
-translate russian minami_likes_blondes_9b69868e:
-    minami.say "Это... интересно, братик."
 
 # ch/minami/events.rpy:6184
 translate russian minami_likes_blondes_f123bffb:
@@ -19313,7 +18049,7 @@ translate russian minami_likes_blondes_8070c66a:
     mike.say "Тебе куда-то надо?"
 
 # ch/minami/events.rpy:6188
-translate russian minami_likes_blondes_9301ccba:
+translate russian minami_likes_blondes_3fecee3f:
     minami.say "Да... я..."
 
 # ch/minami/events.rpy:6189
@@ -19328,10 +18064,6 @@ translate russian minami_likes_blondes_57a268ff:
 translate russian minami_likes_blondes_527fda08:
     "С этими словами Минами торопливо уходит."
 
-# ch/minami/events.rpy:6199
-translate russian minami_likes_blondes_78a268fb:
-    minami.say "Ну как тебе, братик?"
-
 # ch/minami/events.rpy:6203
 translate russian minami_likes_blondes_d1fc49c9:
     mike.say "Мне нравится, Минами."
@@ -19341,7 +18073,7 @@ translate russian minami_likes_blondes_fbfa1b4f:
     mike.say "Мне больше нравится твой натуральный цвет."
 
 # ch/minami/events.rpy:6209
-translate russian minami_likes_blondes_7d588b81_1:
+translate russian minami_likes_blondes_7f509074_1:
     minami.say "А... понятно."
 
 # ch/minami/events.rpy:6214
@@ -19385,12 +18117,8 @@ translate russian minami_likes_blondes_3dbdd101_1:
     "Которые, так уж вышло, черны как ночь!"
 
 # ch/minami/events.rpy:6225
-translate russian minami_likes_blondes_7d588b81_2:
+translate russian minami_likes_blondes_7f509074_2:
     minami.say "А... понятно."
-
-# ch/minami/events.rpy:6226
-translate russian minami_likes_blondes_9b69868e_1:
-    minami.say "Это... интересно, братик."
 
 # ch/minami/events.rpy:6228
 translate russian minami_likes_blondes_6ed88f14:
@@ -19496,10 +18224,6 @@ translate russian minami_event_04_b3dd2347:
 translate russian minami_event_04_16e12866:
     "Выглядит это нелепо: она ведь застряла намертво."
 
-# ch/minami/events.rpy:6264
-translate russian minami_event_04_25bd1fb4:
-    minami.say "Братик?"
-
 # ch/minami/events.rpy:6265
 translate russian minami_event_04_442c0b35:
     minami.say "Это ты?"
@@ -19532,10 +18256,6 @@ translate russian minami_event_04_6bc8bf85:
 translate russian minami_event_04_b47a6415:
     mike.say "Я всё ещё не совсем понимаю, что происходит..."
 
-# ch/minami/events.rpy:6274
-translate russian minami_event_04_53882ecc:
-    minami.say "Я... я потеряла ключи, братик."
-
 # ch/minami/events.rpy:6275
 translate russian minami_event_04_39d588cf:
     minami.say "Хотела позвонить тебе, чтобы ты меня впустил."
@@ -19556,10 +18276,6 @@ translate russian minami_event_04_0028f902:
 translate russian minami_event_04_06d0f2e4:
     mike.say "И решила, что пролезешь?"
 
-# ch/minami/events.rpy:6280
-translate russian minami_event_04_faca0957:
-    minami.say "Ты должен мне помочь, братик!"
-
 # ch/minami/events.rpy:6281
 translate russian minami_event_04_e1c7b5fb:
     minami.say "Я не могу так и остаться здесь!"
@@ -19575,10 +18291,6 @@ translate russian minami_event_04_6a211168:
 # ch/minami/events.rpy:6285
 translate russian minami_event_04_b614a698:
     "В конце концов, она пыталась помочь ещё до моего появления."
-
-# ch/minami/events.rpy:6286
-translate russian minami_event_04_abbdeaa7:
-    mike.say "С твоей стороны никак не вытащить, [bree.name]?"
 
 # ch/minami/events.rpy:6287
 translate russian minami_event_04_7585a57b:
@@ -19633,7 +18345,7 @@ translate russian minami_event_04_5f28255a:
     "И тоже толкаю так сильно, как решаюсь."
 
 # ch/minami/events.rpy:6308
-translate russian minami_event_04_ebb2d5e3:
+translate russian minami_event_04_55462031:
     minami.say "Ай... ай... ай..."
 
 # ch/minami/events.rpy:6309
@@ -19652,17 +18364,9 @@ translate russian minami_event_04_031e23fb:
 translate russian minami_event_04_97612571:
     bree.say "Как будешь готов, попробуем ещё раз, ладно?"
 
-# ch/minami/events.rpy:6315
-translate russian minami_event_04_ec891ffb:
-    mike.say "Хорошо, [bree.name]. Дай мне секунду отдышаться."
-
 # ch/minami/events.rpy:6317
 translate russian minami_event_04_df763bcc:
     "Минами перестаёт толкаться, и я тоже останавливаюсь."
-
-# ch/minami/events.rpy:6319
-translate russian minami_event_04_c4673bad:
-    minami.say "Когда будешь готов, попробуем ещё раз, братик?"
 
 # ch/minami/events.rpy:6320
 translate russian minami_event_04_dc121d70:
@@ -19705,12 +18409,8 @@ translate russian minami_event_04_1926af12:
     "А затем задираю юбку Минами и стягиваю её трусики."
 
 # ch/minami/events.rpy:6333
-translate russian minami_event_04_6f11a94e:
+translate russian minami_event_04_ca372070:
     minami.say "Чт... что происходит?"
-
-# ch/minami/events.rpy:6334
-translate russian minami_event_04_d5b7ab83:
-    minami.say "Братик, что ты там делаешь?"
 
 # ch/minami/events.rpy:6335
 translate russian minami_event_04_4ede3278:
@@ -19733,7 +18433,7 @@ translate russian minami_event_04_cc7f5a7e:
     "Я не могу удержаться и дразню их головкой члена."
 
 # ch/minami/events.rpy:6341
-translate russian minami_event_04_f7fb8e4c:
+translate russian minami_event_04_bef5a84c:
     minami.say "Ох... о боже!"
 
 # ch/minami/events.rpy:6342
@@ -19864,10 +18564,6 @@ translate russian minami_event_04_5b64d88f:
 translate russian minami_event_04_cc0cb61c:
     minami.say "О-ох..."
 
-# ch/minami/events.rpy:6388
-translate russian minami_event_04_72b7b1f1:
-    minami.say "Братик..."
-
 # ch/minami/events.rpy:6389
 translate russian minami_event_04_7f68ed2c:
     minami.say "Чем ты меня толкал?!"
@@ -19883,10 +18579,6 @@ translate russian minami_event_04_b5621274:
 # ch/minami/events.rpy:6394
 translate russian minami_event_04_73d9be22:
     "Вместо этого я удваиваю усилия, стараясь её освободить."
-
-# ch/minami/events.rpy:6396
-translate russian minami_event_04_a47f6b5f:
-    mike.say "Ну что, [bree.name], давай!"
 
 # ch/minami/events.rpy:6397
 translate russian minami_event_04_7292ffdc:
@@ -19948,10 +18640,6 @@ translate russian minami_event_04_5b64d88f_1:
 translate russian minami_event_04_cc0cb61c_1:
     minami.say "О-ох..."
 
-# ch/minami/events.rpy:6425
-translate russian minami_event_04_72b7b1f1_1:
-    minami.say "Братик..."
-
 # ch/minami/events.rpy:6426
 translate russian minami_event_04_8142675a:
     minami.say "Как же болит задница!"
@@ -20004,10 +18692,6 @@ translate russian minami_pregnant_request_5bae8923:
 translate russian minami_pregnant_request_ea493e3d:
     "И я снова не могу устоять."
 
-# ch/minami/events.rpy:6446
-translate russian minami_pregnant_request_f1785d84:
-    minami.say "Ох, братик!"
-
 # ch/minami/events.rpy:6447
 translate russian minami_pregnant_request_6d0ff161:
     minami.say "Ты читаешь меня как открытую книгу."
@@ -20048,10 +18732,6 @@ translate russian minami_pregnant_request_0dcac9e9:
 translate russian minami_pregnant_request_e583c039:
     mike.say "Ты же знаешь: можешь попросить меня о чём угодно!"
 
-# ch/minami/events.rpy:6461
-translate russian minami_pregnant_request_b50e5a77:
-    minami.say "Хорошо, братик."
-
 # ch/minami/events.rpy:6462
 translate russian minami_pregnant_request_69125a8a:
     minami.say "Была не была..."
@@ -20075,10 +18755,6 @@ translate russian minami_pregnant_request_58c1a54a:
 # ch/minami/events.rpy:6468
 translate russian minami_pregnant_request_c5fa3fbd:
     "Кажется, она даже сочувствует моему состоянию."
-
-# ch/minami/events.rpy:6470
-translate russian minami_pregnant_request_21a0c225:
-    minami.say "О-о, бедный братик!"
 
 # ch/minami/events.rpy:6471
 translate russian minami_pregnant_request_338d8099:
@@ -20149,7 +18825,7 @@ translate russian minami_pregnant_request_26fe550a:
     "Но ей, кажется, нужно гораздо меньше времени, чтобы прийти в себя."
 
 # ch/minami/events.rpy:6494
-translate russian minami_pregnant_request_9082535a:
+translate russian minami_pregnant_request_6e8d6f48:
     minami.say "Ты... ты сказал «да»?"
 
 # ch/minami/events.rpy:6495
@@ -20165,7 +18841,7 @@ translate russian minami_pregnant_request_4b86ac8f:
     "И когда киваю в ответ, она радостно визжит."
 
 # ch/minami/events.rpy:6499
-translate russian minami_pregnant_request_4f15289b:
+translate russian minami_pregnant_request_3514dff9:
     minami.say "О... мой... бог!"
 
 # ch/minami/events.rpy:6500
@@ -20187,10 +18863,6 @@ translate russian minami_pregnant_request_c5f7a63d:
 # ch/minami/events.rpy:6505
 translate russian minami_pregnant_request_fdb41970:
     "Она шевелится в моих объятиях, позволяя мне ощутить каждое движение."
-
-# ch/minami/events.rpy:6507
-translate russian minami_pregnant_request_93ac3a9c:
-    minami.say "Не терпится начать, братик."
 
 # ch/minami/events.rpy:6508
 translate russian minami_pregnant_request_b7314bd6:
@@ -20225,12 +18897,8 @@ translate russian minami_pregnant_request_037b0ab0:
     mike.say "По крайней мере, пока."
 
 # ch/minami/events.rpy:6520
-translate russian minami_pregnant_request_29976eed:
+translate russian minami_pregnant_request_79427183:
     minami.say "Т-ты не хочешь от меня детей?"
-
-# ch/minami/events.rpy:6521
-translate russian minami_pregnant_request_b72301f3:
-    minami.say "В этом дело, братик?"
 
 # ch/minami/events.rpy:6522
 translate russian minami_pregnant_request_bbaa9d98:
@@ -20255,10 +18923,6 @@ translate russian minami_pregnant_request_92be9eea:
 # ch/minami/events.rpy:6529
 translate russian minami_pregnant_request_b0f96725:
     mike.say "Всё совсем не так!"
-
-# ch/minami/events.rpy:6531
-translate russian minami_pregnant_request_e12a6bdd:
-    minami.say "Тогда объясни, как, братик?"
 
 # ch/minami/events.rpy:6532
 translate russian minami_pregnant_request_d6fb7755:
@@ -20303,10 +18967,6 @@ translate russian minami_pregnant_request_2b58fe68:
 # ch/minami/events.rpy:6545
 translate russian minami_pregnant_request_e2d5c28e:
     "А потом наконец начинает всхлипывать."
-
-# ch/minami/events.rpy:6547
-translate russian minami_pregnant_request_9e680d55:
-    minami.say "Ох, братик..."
 
 # ch/minami/events.rpy:6548
 translate russian minami_pregnant_request_dbf0ea1d:
@@ -20425,7 +19085,7 @@ translate russian minami_male_ending_1ae67517:
     "Но мы всё раскрыли и сорвали их коварный замысел, как парочка юных сыщиков."
 
 # ch/minami/events.rpy:6591
-translate russian minami_male_ending_98dfc1d7:
+translate russian minami_male_ending_75be4378:
     "И теперь могли свободно... ну... всё равно пожениться."
 
 # ch/minami/events.rpy:6592
@@ -20533,7 +19193,7 @@ translate russian minami_male_ending_251ce43e:
     "Священник" "Берёшь ли ты, [lssb_minami.hero_name()], Минами в законные жёны?"
 
 # ch/minami/events.rpy:6624
-translate russian minami_male_ending_6c5d427c:
+translate russian minami_male_ending_af1870d2:
     mike.say "Д... да!"
 
 # ch/minami/events.rpy:6625
@@ -20569,7 +19229,7 @@ translate russian minami_male_ending_1bc92d64:
     "Священник" "На чём я остановился..."
 
 # ch/minami/events.rpy:6636
-translate russian minami_male_ending_dc7b277e:
+translate russian minami_male_ending_7d2cd0c1:
     "Священник" "А, да... берёшь ли ты, Минами, [lssb_minami.hero_name()] в законные мужья?"
 
 # ch/minami/events.rpy:6638
@@ -20701,7 +19361,7 @@ translate russian minami_male_ending_4229a369:
     minami.say "Они выбрали меня как идеальную жену для братика."
 
 # ch/minami/events.rpy:6680
-translate russian minami_male_ending_63ee667e:
+translate russian minami_male_ending_61109aa1:
     minami.say "Я... я начала сомневаться в нас, понимаете?"
 
 # ch/minami/events.rpy:6681
@@ -20711,10 +19371,6 @@ translate russian minami_male_ending_c56d932e:
 # ch/minami/events.rpy:6682
 translate russian minami_male_ending_b2a75957:
     minami.say "Но именно тогда он помог мне увидеть правду."
-
-# ch/minami/events.rpy:6683
-translate russian minami_male_ending_549e224d:
-    minami.say "Братик поддерживал меня всё это время."
 
 # ch/minami/events.rpy:6684
 translate russian minami_male_ending_d481dc2b:
@@ -20816,10 +19472,6 @@ translate russian minami_male_ending_b9dec7e3:
 translate russian minami_male_ending_85ae97b2:
     minami.say "У меня в жизни полно занятий получше!"
 
-# ch/minami/events.rpy:6711
-translate russian minami_male_ending_45d28d9a:
-    minami.say "И у братика, уверена, тоже."
-
 # ch/minami/events.rpy:6722
 translate russian minami_morningwood_b3ab3dd0:
     "Сегодня я проснулся необычно рано, и мне совсем не хочется выключить будильник и снова заснуть."
@@ -20881,7 +19533,7 @@ translate russian minami_morningwood_9ff7ebfe:
     "Минами не храпит."
 
 # ch/minami/events.rpy:6746
-translate russian minami_morningwood_6b61e79b:
+translate russian minami_morningwood_ff8f663c:
     "Ну... не совсем."
 
 # ch/minami/events.rpy:6747
@@ -20933,7 +19585,7 @@ translate russian minami_morningwood_7f4e83cf:
     "Первым делом вижу коротенькую ночнушку Минами."
 
 # ch/minami/events.rpy:6761
-translate russian minami_morningwood_3b060440:
+translate russian minami_morningwood_205e3c05:
     "Господи... она что, пытается меня замучить?"
 
 # ch/minami/events.rpy:6762
@@ -20945,11 +19597,11 @@ translate russian minami_morningwood_7df764da:
     minami.say "М-м-м..."
 
 # ch/minami/events.rpy:6764
-translate russian minami_morningwood_30b28d99:
+translate russian minami_morningwood_ca99fedd:
     minami.say "Б... б... б..."
 
 # ch/minami/events.rpy:6765
-translate russian minami_morningwood_4558300d:
+translate russian minami_morningwood_76553674:
     minami.say "Бра... тик..."
 
 # ch/minami/events.rpy:6766
@@ -20977,11 +19629,11 @@ translate russian minami_morningwood_011131ce:
     minami.say "О-о-ох..."
 
 # ch/minami/events.rpy:6772
-translate russian minami_morningwood_4558300d_1:
+translate russian minami_morningwood_76553674_1:
     minami.say "Бра... тик..."
 
 # ch/minami/events.rpy:6773
-translate russian minami_morningwood_e97ef9e1:
+translate russian minami_morningwood_56830481:
     minami.say "Такой... большой... братик..."
 
 # ch/minami/events.rpy:6774
@@ -21024,10 +19676,6 @@ translate russian minami_morningwood_7ba90406:
 translate russian minami_morningwood_806b51f0:
     "Минами продолжает бормотать, словно лаская себя во сне."
 
-# ch/minami/events.rpy:6784
-translate russian minami_morningwood_11b56dee:
-    minami.say "Братик..."
-
 # ch/minami/events.rpy:6785
 translate russian minami_morningwood_8eda0235:
     minami.say "Мой братик..."
@@ -21037,7 +19685,7 @@ translate russian minami_morningwood_ad3b5e42:
     minami.say "Такой большой... для меня..."
 
 # ch/minami/events.rpy:6787
-translate russian minami_morningwood_133cd1fb:
+translate russian minami_morningwood_eab4dfd6:
     minami.say "М-м-м... весь мой..."
 
 # ch/minami/events.rpy:6788
@@ -21079,10 +19727,6 @@ translate russian minami_morningwood_f3137a95:
 # ch/minami/events.rpy:6797
 translate russian minami_morningwood_518340ce:
     minami.say "Всё для меня..."
-
-# ch/minami/events.rpy:6798
-translate russian minami_morningwood_c94ac0d5:
-    minami.say "Братик внутри меня..."
 
 # ch/minami/events.rpy:6799
 translate russian minami_morningwood_c5b44dab:
@@ -21132,10 +19776,6 @@ translate russian minami_morningwood_f37f7d8f:
 translate russian minami_morningwood_f3137a95_1:
     minami.say "Ох..."
 
-# ch/minami/events.rpy:6815
-translate russian minami_morningwood_1af7f405:
-    minami.say "Братик..."
-
 # ch/minami/events.rpy:6816
 translate russian minami_morningwood_5b6b7bb8:
     minami.say "Я думала, мне снится."
@@ -21143,14 +19783,6 @@ translate russian minami_morningwood_5b6b7bb8:
 # ch/minami/events.rpy:6817
 translate russian minami_morningwood_c82f5a67:
     minami.say "Но так ГОРАЗДО лучше!"
-
-# ch/minami/events.rpy:6819
-translate russian minami_morningwood_6f9d60f8:
-    minami.say "Я твоя, братик..."
-
-# ch/minami/events.rpy:6820
-translate russian minami_morningwood_15ba0124:
-    minami.say "Бери от меня всё, что хочешь... ты заслуживаешь целого мира, братик!"
 
 # ch/minami/events.rpy:6821
 translate russian minami_morningwood_1fb01ec8:
@@ -21200,12 +19832,8 @@ translate russian minami_morningwood_cf4f6eae:
 translate russian minami_morningwood_39907a44:
     minami.say "О-о-о-ох..."
 
-# ch/minami/events.rpy:6836
-translate russian minami_morningwood_3a905e04:
-    minami.say "Ох... братик..."
-
 # ch/minami/events.rpy:6837
-translate russian minami_morningwood_2a222dac:
+translate russian minami_morningwood_fe48df2f:
     minami.say "Я сейчас... сейчас... кончу!"
 
 # ch/minami/events.rpy:6838
@@ -21247,10 +19875,6 @@ translate russian minami_morningwood_25f7d02c:
 # ch/minami/events.rpy:6849
 translate russian minami_morningwood_7df764da_1:
     minami.say "М-м-м..."
-
-# ch/minami/events.rpy:6850
-translate russian minami_morningwood_e6c65218:
-    minami.say "Ты гораздо лучше моего будильника, братик!"
 
 # ch/minami/events.rpy:6851
 translate russian minami_morningwood_a80d27e3:
@@ -21321,7 +19945,7 @@ translate russian minami_snooping_1ccab2e1:
     mike.say "Хм..."
 
 # ch/minami/events.rpy:6878
-translate russian minami_snooping_21607d05:
+translate russian minami_snooping_a835c3ca:
     mike.say "С... справитесь с чем?"
 
 # ch/minami/events.rpy:6880
@@ -21333,7 +19957,7 @@ translate russian minami_snooping_b143e956:
     "А затем почти одновременно наклоняются и начинают лизать основание моего члена."
 
 # ch/minami/events.rpy:6882
-translate russian minami_snooping_cfa3ae04:
+translate russian minami_snooping_18b5b9b3:
     mike.say "А... а, понятно!"
 
 # ch/minami/events.rpy:6883
@@ -21453,7 +20077,7 @@ translate russian minami_snooping_3b6176cf:
     "И мы делим не только дом, но и друг друга!"
 
 # ch/minami/events.rpy:6922
-translate russian minami_snooping_8fee4f25:
+translate russian minami_snooping_57f35496:
     "А, нет... с тремя сексуальными девушками."
 
 # ch/minami/events.rpy:6923
@@ -21532,16 +20156,12 @@ translate russian minami_snooping_82276a70:
 translate russian minami_snooping_ea24d710:
     "И как бы мне ни хотелось накричать на неё и выставить вон, я уже жалею о резких словах."
 
-# ch/minami/events.rpy:6946
-translate russian minami_snooping_1a9159c0:
-    minami.say "Я... прости, братик."
-
 # ch/minami/events.rpy:6947
-translate russian minami_snooping_4c0ec779:
+translate russian minami_snooping_f71035a6:
     minami.say "Я просто хотела... хотела..."
 
 # ch/minami/events.rpy:6949
-translate russian minami_snooping_94ef3299:
+translate russian minami_snooping_6a9609c6:
     minami.say "Удивить тебя... да, точно! Удивить!"
 
 # ch/minami/events.rpy:6950
@@ -21576,16 +20196,12 @@ translate russian minami_snooping_ba4bd720:
 translate russian minami_snooping_bd341576:
     "И выглядит невероятно сексуально: стоит в пижаме и так отчаянно хочет..."
 
-# ch/minami/events.rpy:6959
-translate russian minami_snooping_d8d1df1d:
-    minami.say "Эм, братик..."
-
 # ch/minami/events.rpy:6960
 translate russian minami_snooping_110589ce:
     mike.say "Да, Минами?"
 
 # ch/minami/events.rpy:6961
-translate russian minami_snooping_38b089fd:
+translate russian minami_snooping_2241624a:
     minami.say "Ну... ты в постели."
 
 # ch/minami/events.rpy:6962
@@ -21593,7 +20209,7 @@ translate russian minami_snooping_a5f08c67:
     minami.say "А я в твоей комнате."
 
 # ch/minami/events.rpy:6963
-translate russian minami_snooping_5a44ca13:
+translate russian minami_snooping_f97d0495:
     minami.say "Значит... я могла бы оказаться в твоей постели."
 
 # ch/minami/events.rpy:6965
@@ -21603,10 +20219,6 @@ translate russian minami_snooping_8dbef0d3:
 # ch/minami/events.rpy:6968
 translate russian minami_snooping_be6e86a6:
     mike.say "Минами, сейчас же, чёрт возьми, раннее утро!"
-
-# ch/minami/events.rpy:6970
-translate russian minami_snooping_8eedde98:
-    minami.say "Ну братик!"
 
 # ch/minami/events.rpy:6971
 translate russian minami_snooping_e0c700fc:
@@ -21635,10 +20247,6 @@ translate russian minami_snooping_7ce83a77:
 # ch/minami/events.rpy:6979
 translate russian minami_snooping_1127e5fb:
     "Минами упирает сжатые кулаки в бока и угрюмо смотрит на меня."
-
-# ch/minami/events.rpy:6980
-translate russian minami_snooping_956e53d7:
-    minami.say "Почему ты не хочешь меня трахнуть, братик?"
 
 # ch/minami/events.rpy:6981
 translate russian minami_snooping_46d2a126:
@@ -21704,10 +20312,6 @@ translate russian minami_snooping_e82429ff:
 translate russian minami_snooping_60a69439:
     "Глаза Минами расширяются от потрясения; она качает головой, разинув рот."
 
-# ch/minami/events.rpy:7012
-translate russian minami_snooping_d44dff8a:
-    minami.say "Ты... ты серьёзно, братик?"
-
 # ch/minami/events.rpy:7013
 translate russian minami_snooping_5a97cf73:
     minami.say "Ты трахаешь обеих, и ни одна не знает о другой?!"
@@ -21745,16 +20349,12 @@ translate russian minami_snooping_88d9186f:
     "Поэтому её простой кивок оказывается неожиданностью."
 
 # ch/minami/events.rpy:7022
-translate russian minami_snooping_7e7d1b7e:
+translate russian minami_snooping_ea2376b6:
     minami.say "Э... это логично... в каком-то смысле... наверное."
 
 # ch/minami/events.rpy:7023
 translate russian minami_snooping_960107af:
     minami.say "Всё-таки большой город..."
-
-# ch/minami/events.rpy:7024
-translate russian minami_snooping_d213a549:
-    minami.say "Прости, братик. Здесь всё так... по-другому!"
 
 # ch/minami/events.rpy:7026
 translate russian minami_snooping_5bc6e02b:
@@ -21812,16 +20412,12 @@ translate russian minami_snooping_f9df9aad:
 translate russian minami_snooping_a476c96e:
     "А другой тут же прижимает мои ладони к своим маленьким грудям."
 
-# ch/minami/events.rpy:7050
-translate russian minami_snooping_b430965f:
-    minami.say "Ого, братик."
-
 # ch/minami/events.rpy:7051
 translate russian minami_snooping_b2c50983:
     minami.say "Ты с утра настоящий ЗВЕРЬ!"
 
 # ch/minami/events.rpy:7053
-translate russian minami_snooping_1b423b36:
+translate russian minami_snooping_7a1f99af:
     minami.say "Ох... ох, да!"
 
 # ch/minami/events.rpy:7054
@@ -21857,19 +20453,15 @@ translate russian minami_snooping_302a8abd:
     "Она вскрикивает и стонет; я крепко сжимаю её грудь, ощущая твёрдые соски между пальцами."
 
 # ch/minami/events.rpy:7064
-translate russian minami_snooping_1588ae72:
+translate russian minami_snooping_32e3e51e:
     minami.say "Да... да..."
 
-# ch/minami/events.rpy:7065
-translate russian minami_snooping_cd4d6eaf:
-    minami.say "Ты же знаешь меня... братик..."
-
 # ch/minami/events.rpy:7066
-translate russian minami_snooping_b229a382:
+translate russian minami_snooping_c28821fa:
     minami.say "Мне... снится... как ты... трахаешь меня!"
 
 # ch/minami/events.rpy:7067
-translate russian minami_snooping_a9bb1a2c:
+translate russian minami_snooping_6003adc4:
     minami.say "Просыпаюсь... мокрой... киска хочет... чтобы ты её наполнил!"
 
 # ch/minami/events.rpy:7068
@@ -21919,10 +20511,6 @@ translate russian minami_snooping_36e2d999:
 # ch/minami/events.rpy:7095
 translate russian minami_birthday_date_male_5901ebfc:
     minami.say "Ай!"
-
-# ch/minami/events.rpy:7096
-translate russian minami_birthday_date_male_6289dd3b:
-    minami.say "Братик, я чуть не врезалась во что-то твёрдое!"
 
 # ch/minami/events.rpy:7097
 translate russian minami_birthday_date_male_9810bf52:
@@ -22032,10 +20620,6 @@ translate russian minami_birthday_date_male_73b6ee5e:
 translate russian minami_birthday_date_male_df65c0ac:
     minami.say "Ох, будет ТАК здорово!"
 
-# ch/minami/events.rpy:7129
-translate russian minami_birthday_date_male_c1eb0a02:
-    minami.say "Надо было привести меня сюда раньше, братик!"
-
 # ch/minami/events.rpy:7130
 translate russian minami_birthday_date_male_df7788a1:
     "В её голосе я слышу лёгкий упрёк."
@@ -22072,10 +20656,6 @@ translate russian minami_birthday_date_male_8e48c417:
 translate russian minami_birthday_date_male_8ac19077:
     "Но кивает и берёт меня под руку."
 
-# ch/minami/events.rpy:7141
-translate russian minami_birthday_date_male_6f55a0c5:
-    minami.say "Вот за это ты мне и нравишься, братик."
-
 # ch/minami/events.rpy:7143
 translate russian minami_birthday_date_male_3df2606a:
     minami.say "Ты гораздо спокойнее мамы с папой."
@@ -22099,10 +20679,6 @@ translate russian minami_birthday_date_male_06287d0c:
 # ch/minami/events.rpy:7150
 translate russian minami_birthday_date_male_90350b0d:
     "И качает головой."
-
-# ch/minami/events.rpy:7152
-translate russian minami_birthday_date_male_b2d75f56:
-    minami.say "Знаешь что, братик..."
 
 # ch/minami/events.rpy:7153
 translate russian minami_birthday_date_male_c1371074:
@@ -22168,10 +20744,6 @@ translate russian minami_birthday_date_male_3508ecc3:
 translate russian minami_birthday_date_male_37cd36d0:
     minami.say "Хм..."
 
-# ch/minami/events.rpy:7177
-translate russian minami_birthday_date_male_0de00176:
-    minami.say "Морские коньки или медузы, братик?"
-
 # ch/minami/events.rpy:7178
 translate russian minami_birthday_date_male_9d42cde6:
     mike.say "А что с ними?"
@@ -22215,10 +20787,6 @@ translate russian minami_birthday_date_male_535a6ada:
 # ch/minami/events.rpy:7193
 translate russian minami_birthday_date_male_5cd19cf8:
     minami.say "Большинство парней выбрали бы медуз."
-
-# ch/minami/events.rpy:7194
-translate russian minami_birthday_date_male_6e65d99b:
-    minami.say "Но не ты, братик."
 
 # ch/minami/events.rpy:7195
 translate russian minami_birthday_date_male_238f5dde:
@@ -22304,10 +20872,6 @@ translate russian minami_birthday_date_male_d37827bd:
 translate russian minami_birthday_date_male_bae9981c:
     minami.say "О-о-о!"
 
-# ch/minami/events.rpy:7225
-translate russian minami_birthday_date_male_ac0132b2:
-    minami.say "Братик, сегодня здесь шоу русалок!"
-
 # ch/minami/events.rpy:7226
 translate russian minami_birthday_date_male_29f67208:
     minami.say "А русалки ТАКИЕ милые!"
@@ -22372,10 +20936,6 @@ translate russian minami_birthday_date_male_e215b4c5:
 translate russian minami_birthday_date_male_d9a49f83:
     "И шепчет на ухо."
 
-# ch/minami/events.rpy:7246
-translate russian minami_birthday_date_male_ef6c93d7:
-    minami.say "Эй, братик..."
-
 # ch/minami/events.rpy:7247
 translate russian minami_birthday_date_male_673fe236:
     minami.say "У меня появилась идея для следующего косплея."
@@ -22427,10 +20987,6 @@ translate russian minami_birthday_date_male_4b4ddc25:
 # ch/minami/events.rpy:7264
 translate russian minami_birthday_date_male_72028e4e:
     "Она буквально сияет, купаясь в похвале."
-
-# ch/minami/events.rpy:7265
-translate russian minami_birthday_date_male_6f70aba1:
-    minami.say "Спасибо, что веришь в меня, братик."
 
 # ch/minami/events.rpy:7266
 translate russian minami_birthday_date_male_b21164f0:
@@ -22497,7 +21053,7 @@ translate russian minami_birthday_date_male_5bd0c12c:
     "Уставившись прямо в аквариум."
 
 # ch/minami/events.rpy:7286
-translate russian minami_birthday_date_male_c1d45aff:
+translate russian minami_birthday_date_male_6a9f60db:
     "Ох уж эти женщины!"
 
 # ch/minami/events.rpy:7287
@@ -22569,7 +21125,7 @@ translate russian minami_birthday_date_male_51944242:
     mike.say "И тебе захочется отдыхать в таком виде у нашего бассейна!"
 
 # ch/minami/events.rpy:7309
-translate russian minami_birthday_date_male_46d7bbaa:
+translate russian minami_birthday_date_male_090c42b5:
     mike.say "И-и-и... ты снова проснулась."
 
 # ch/minami/events.rpy:7311
@@ -22579,10 +21135,6 @@ translate russian minami_birthday_date_male_e0bfad3e:
 # ch/minami/events.rpy:7313
 translate russian minami_birthday_date_male_24f3760c:
     "Потом хмурится и качает головой."
-
-# ch/minami/events.rpy:7314
-translate russian minami_birthday_date_male_5645b33c:
-    minami.say "Братик!"
 
 # ch/minami/events.rpy:7316
 translate russian minami_birthday_date_male_82e9844d:
@@ -22668,10 +21220,6 @@ translate russian minami_birthday_date_male_d0832d17:
 translate russian minami_birthday_date_male_90d3bd12:
     "Кажется, её что-то тревожит."
 
-# ch/minami/events.rpy:7343
-translate russian minami_birthday_date_male_d4ff2f19:
-    minami.say "Эм, братик..."
-
 # ch/minami/events.rpy:7344
 translate russian minami_birthday_date_male_0b41d761:
     minami.say "Ты не против, если я буду русалкой с голой грудью?"
@@ -22691,10 +21239,6 @@ translate russian minami_birthday_date_male_064af7f8:
 # ch/minami/events.rpy:7348
 translate russian minami_birthday_date_male_eb37d259:
     mike.say "Я готов пойти на эту жертву."
-
-# ch/minami/events.rpy:7350
-translate russian minami_birthday_date_male_bc3b1fe2:
-    minami.say "О, спасибо, братик! Ты лучший!"
 
 # ch/minami/events.rpy:7353
 translate russian minami_birthday_date_male_8f7ffbfc:
@@ -22756,10 +21300,6 @@ translate russian minami_birthday_date_male_165db77b:
 translate russian minami_birthday_date_male_b75f8ce9:
     "Но Минами удивляет меня озорной улыбкой."
 
-# ch/minami/events.rpy:7372
-translate russian minami_birthday_date_male_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/minami/events.rpy:7373
 translate russian minami_birthday_date_male_9b94647f:
     minami.say "Хочешь, чтобы русалочка Минами тебе подрочила?"
@@ -22799,10 +21339,6 @@ translate russian minami_birthday_date_male_56992e88:
 # ch/minami/events.rpy:7386
 translate russian minami_birthday_date_male_fc801987:
     minami.say "Фу!"
-
-# ch/minami/events.rpy:7388
-translate russian minami_birthday_date_male_5645b33c_1:
-    minami.say "Братик!"
 
 # ch/minami/events.rpy:7389
 translate russian minami_birthday_date_male_236aabeb:
@@ -22844,10 +21380,6 @@ translate russian minami_birthday_date_male_550d4f86:
 translate russian minami_birthday_date_male_cf4dcc8e:
     "Я замечаю, что оно посвящено исчезающим видам."
 
-# ch/minami/events.rpy:7405
-translate russian minami_birthday_date_male_f1785d84:
-    minami.say "Ох, братик!"
-
 # ch/minami/events.rpy:7407
 translate russian minami_birthday_date_male_08f0705b:
     minami.say "Ты прочитал, что здесь написано?"
@@ -22869,7 +21401,7 @@ translate russian minami_birthday_date_male_71f084e8:
     "Она права: написанное действительно удручает."
 
 # ch/minami/events.rpy:7415
-translate russian minami_birthday_date_male_939d0f96:
+translate russian minami_birthday_date_male_58432f25:
     "Чёрт побери... как же это печально!"
 
 # ch/minami/events.rpy:7416
@@ -22887,10 +21419,6 @@ translate russian minami_birthday_date_male_eefbf487:
 # ch/minami/events.rpy:7420
 translate russian minami_birthday_date_male_6776464d:
     "Но всё ещё выглядит очень обеспокоенной."
-
-# ch/minami/events.rpy:7421
-translate russian minami_birthday_date_male_435a2feb:
-    minami.say "А что мы можем сделать, братик?"
 
 # ch/minami/events.rpy:7423
 translate russian minami_birthday_date_male_242cbc55:
@@ -22955,10 +21483,6 @@ translate russian minami_birthday_date_male_b6de2257:
 # ch/minami/events.rpy:7442
 translate russian minami_birthday_date_male_f29a7420:
     "Минами недовольно фыркает и надувается."
-
-# ch/minami/events.rpy:7443
-translate russian minami_birthday_date_male_dc74ac66:
-    minami.say "Знаешь, братик..."
 
 # ch/minami/events.rpy:7444
 translate russian minami_birthday_date_male_7415667c:
@@ -23048,10 +21572,6 @@ translate russian minami_birthday_date_male_1783b045:
 translate russian minami_birthday_date_male_1e60eb96:
     minami.say "Конечно!"
 
-# ch/minami/events.rpy:7474
-translate russian minami_birthday_date_male_4d1f78cd:
-    minami.say "Прости, братик. Это самый лучший подарок!"
-
 # ch/minami/events.rpy:7475
 translate russian minami_birthday_date_male_9e77185f:
     "Фух..."
@@ -23084,10 +21604,6 @@ translate russian minami_birthday_date_male_79d32303:
 translate russian minami_birthday_date_male_1f09ff89:
     "Минами берёт подарок и тут же начинает его разворачивать."
 
-# ch/minami/events.rpy:7492
-translate russian minami_birthday_date_male_5f5875ec:
-    minami.say "Спасибо, братик!"
-
 # ch/minami/events.rpy:7493
 translate russian minami_birthday_date_male_af8d00e7:
     minami.say "Уверена, он замечательный."
@@ -23103,10 +21619,6 @@ translate russian minami_birthday_date_male_e51b4165:
 # ch/minami/events.rpy:7498
 translate russian minami_birthday_date_male_e4804afb:
     "Она смотрит на меня, недоверчиво качая головой."
-
-# ch/minami/events.rpy:7500
-translate russian minami_birthday_date_male_1af7f405:
-    minami.say "Братик..."
 
 # ch/minami/events.rpy:7501
 translate russian minami_birthday_date_male_974227e3:
@@ -23131,10 +21643,6 @@ translate russian minami_birthday_date_male_2f9fc07f:
 # ch/minami/events.rpy:7506
 translate russian minami_birthday_date_male_1964b802:
     "В ответ Минами обвивает меня руками и обнимает изо всех сил."
-
-# ch/minami/events.rpy:7507
-translate russian minami_birthday_date_male_9e680d55_1:
-    minami.say "Ох, братик..."
 
 # ch/minami/events.rpy:7508
 translate russian minami_birthday_date_male_c6ecf27d:
@@ -23161,7 +21669,7 @@ translate russian minami_birthday_date_male_63fffaf8:
     minami.say "Это..."
 
 # ch/minami/events.rpy:7517
-translate russian minami_birthday_date_male_ce95ff5b:
+translate russian minami_birthday_date_male_568d0964:
     minami.say "Мило... очень мило."
 
 # ch/minami/events.rpy:7519
@@ -23216,10 +21724,6 @@ translate russian minami_birthday_date_male_1783b045_1:
 translate russian minami_birthday_date_male_1e60eb96_1:
     minami.say "Конечно!"
 
-# ch/minami/events.rpy:7536
-translate russian minami_birthday_date_male_4d1f78cd_1:
-    minami.say "Прости, братик. Это самый лучший подарок!"
-
 # ch/minami/events.rpy:7537
 translate russian minami_birthday_date_male_9e77185f_1:
     "Фух..."
@@ -23245,7 +21749,7 @@ translate russian minami_birthday_date_male_8a540018:
     "И Минами, кажется, в своей стихии!"
 
 # ch/minami/events.rpy:7546
-translate russian minami_birthday_date_male_4f15289b:
+translate russian minami_birthday_date_male_3514dff9:
     minami.say "О... мой... бог!"
 
 # ch/minami/events.rpy:7548
@@ -23280,17 +21784,9 @@ translate russian minami_birthday_date_male_01c9b526:
 translate russian minami_birthday_date_male_9997ff02:
     "И смотрит на меня своими огромными глазами!"
 
-# ch/minami/events.rpy:7557
-translate russian minami_birthday_date_male_1af7f405_1:
-    minami.say "Братик..."
-
 # ch/minami/events.rpy:7558
 translate russian minami_birthday_date_male_5e9a5fd4:
     mike.say "Нет, Минами!"
-
-# ch/minami/events.rpy:7559
-translate russian minami_birthday_date_male_22d5ed19:
-    minami.say "Пожалуйста, братик..."
 
 # ch/minami/events.rpy:7560
 translate russian minami_birthday_date_male_221df7b9:
@@ -23389,16 +21885,12 @@ translate russian minami_birthday_date_male_bd3a43e9:
     mike.say "Хочешь домой, Минами?"
 
 # ch/minami/events.rpy:7597
-translate russian minami_birthday_date_male_b943700b:
+translate russian minami_birthday_date_male_d6a6f7cd:
     mike.say "То есть... я сам не особо устал."
 
 # ch/minami/events.rpy:7598
 translate russian minami_birthday_date_male_6677510f:
     mike.say "А ты?"
-
-# ch/minami/events.rpy:7601
-translate russian minami_birthday_date_male_3976d8bf:
-    minami.say "Да, братик, хочу домой."
 
 # ch/minami/events.rpy:7602
 translate russian minami_birthday_date_male_fb5c09d8:
@@ -23457,7 +21949,7 @@ translate russian minami_birthday_date_male_bc0df5be:
     minami.say "Нет, я ещё бодрая."
 
 # ch/minami/events.rpy:7620
-translate russian minami_birthday_date_male_9aea7a95:
+translate russian minami_birthday_date_male_8fc0310d:
     mike.say "А... отлично!"
 
 # ch/minami/events.rpy:7621
@@ -23467,10 +21959,6 @@ translate russian minami_birthday_date_male_b2046c3a:
 # ch/minami/events.rpy:7622
 translate russian minami_birthday_date_male_b2a52ab5:
     "Минами поднимает руку, не дав мне договорить."
-
-# ch/minami/events.rpy:7624
-translate russian minami_birthday_date_male_12053210:
-    minami.say "Погоди, братик."
 
 # ch/minami/events.rpy:7625
 translate russian minami_birthday_date_male_ced6dd54:
@@ -23552,10 +22040,6 @@ translate russian minami_birthday_sex_cfda8e10:
 translate russian minami_birthday_sex_06da9cd0:
     "И продолжает в том же духе, лаская меня обеими руками."
 
-# ch/minami/events.rpy:7656
-translate russian minami_birthday_sex_86d7b667:
-    minami.say "Что такое, братик?"
-
 # ch/minami/events.rpy:7658
 translate russian minami_birthday_sex_35be4313:
     minami.say "Не справляешься со мной?"
@@ -23609,7 +22093,7 @@ translate russian minami_birthday_sex_b156cb55:
     mike.say "К тебе или ко мне?"
 
 # ch/minami/events.rpy:7674
-translate russian minami_birthday_sex_84bc2334:
+translate russian minami_birthday_sex_d9f2b4ab:
     mike.say "То есть... в твою КОМНАТУ или в мою?"
 
 # ch/minami/events.rpy:7675
@@ -23772,20 +22256,12 @@ translate russian minami_birthday_sex_df5c214d:
 translate russian minami_birthday_sex_f89d58c8:
     "Потому что я бросаю Минами на матрас."
 
-# ch/minami/events.rpy:7725
-translate russian minami_birthday_sex_f1785d84:
-    minami.say "Ох, братик!"
-
 # ch/minami/events.rpy:7726
 translate russian minami_birthday_sex_ebd2edfb:
     minami.say "Обожаю, когда ты берёшь всё в свои руки!"
 
-# ch/minami/events.rpy:7728
-translate russian minami_birthday_sex_ea18e1ca:
-    minami.say "Делай со мной что хочешь, братик..."
-
 # ch/minami/events.rpy:7729
-translate russian minami_birthday_sex_072f15ce:
+translate russian minami_birthday_sex_87195cfa:
     minami.say "Я вся твоя... просто хочу быть для тебя хорошей!"
 
 # ch/minami/events.rpy:7730
@@ -23865,7 +22341,7 @@ translate russian minami_birthday_sex_cc0cb61c:
     minami.say "О-ох..."
 
 # ch/minami/events.rpy:7752
-translate russian minami_birthday_sex_62648180:
+translate russian minami_birthday_sex_4289b28d:
     minami.say "Пожалуйста... не останавливайся!"
 
 # ch/minami/events.rpy:7753
@@ -23920,16 +22396,12 @@ translate russian minami_birthday_sex_50005f8a:
 translate russian minami_birthday_sex_5cb27fc8:
     "Она прижимает меня к себе так, будто от этого зависит её жизнь."
 
-# ch/minami/events.rpy:7771
-translate russian minami_birthday_sex_08b4b73b:
-    minami.say "Б-братик..."
-
 # ch/minami/events.rpy:7772
-translate russian minami_birthday_sex_82a29351:
+translate russian minami_birthday_sex_a5e47411:
     minami.say "Я так... хочу тебя..."
 
 # ch/minami/events.rpy:7773
-translate russian minami_birthday_sex_62289aed:
+translate russian minami_birthday_sex_aa18161c:
     minami.say "Хочу тебя... внутри!"
 
 # ch/minami/events.rpy:7774
@@ -24016,10 +22488,6 @@ translate russian minami_birthday_sex_49d44be8:
 translate russian minami_birthday_sex_1783b045:
     minami.say "О да..."
 
-# ch/minami/events.rpy:7799
-translate russian minami_birthday_sex_a6873cea:
-    minami.say "Наполни меня, братик..."
-
 # ch/minami/events.rpy:7800
 translate russian minami_birthday_sex_a2faa8e3:
     minami.say "Пожалуйста?"
@@ -24095,10 +22563,6 @@ translate russian minami_birthday_sex_25def72b:
 # ch/minami/events.rpy:7819
 translate russian minami_birthday_sex_d574c011:
     minami.say "Ох, блядь..."
-
-# ch/minami/events.rpy:7820
-translate russian minami_birthday_sex_1af7f405:
-    minami.say "Братик..."
 
 # ch/minami/events.rpy:7821
 translate russian minami_birthday_sex_f33de821:
@@ -24208,10 +22672,6 @@ translate russian minami_fuck_date_beach_2fba7256:
 translate russian minami_fuck_date_beach_b78bffc6:
     "В конце концов она не может не заметить моего внимания."
 
-# ch/minami/fuck.rpy:94
-translate russian minami_fuck_date_beach_d8d1df1d:
-    minami.say "Эм, братик..."
-
 # ch/minami/fuck.rpy:95
 translate russian minami_fuck_date_beach_090f4e71:
     minami.say "Ты в порядке?"
@@ -24241,7 +22701,7 @@ translate russian minami_fuck_date_beach_89c10608:
     minami.say "Просто..."
 
 # ch/minami/fuck.rpy:104
-translate russian minami_fuck_date_beach_526e9f69:
+translate russian minami_fuck_date_beach_bc605fc6:
     minami.say "Ну... ты всё время на меня пялишься!"
 
 # ch/minami/fuck.rpy:106
@@ -24249,7 +22709,7 @@ translate russian minami_fuck_date_beach_ccb1fde9:
     mike.say "Правда?!"
 
 # ch/minami/fuck.rpy:107
-translate russian minami_fuck_date_beach_7ee13339:
+translate russian minami_fuck_date_beach_a65f39f9:
     mike.say "Ох... прости, Минами."
 
 # ch/minami/fuck.rpy:109
@@ -24267,10 +22727,6 @@ translate russian minami_fuck_date_beach_84d30e0a:
 # ch/minami/fuck.rpy:113
 translate russian minami_fuck_date_beach_001c68fe:
     "Воображению он совсем ничего не оставляет."
-
-# ch/minami/fuck.rpy:115
-translate russian minami_fuck_date_beach_1ee85a7c:
-    minami.say "О, спасибо, братик!"
 
 # ch/minami/fuck.rpy:117
 translate russian minami_fuck_date_beach_bc6643dd:
@@ -24301,15 +22757,15 @@ translate russian minami_fuck_date_beach_bb65c922:
     "Я отчаянно качаю головой, пытаясь взять слова назад."
 
 # ch/minami/fuck.rpy:125
-translate russian minami_fuck_date_beach_bd5b5592:
+translate russian minami_fuck_date_beach_0bb764c5:
     mike.say "Я... я не это имел в виду, Минами!"
 
 # ch/minami/fuck.rpy:126
-translate russian minami_fuck_date_beach_32afaa99:
+translate russian minami_fuck_date_beach_e17dea9a:
     mike.say "Я хотел сказать... он подчёркивает твою фигуру..."
 
 # ch/minami/fuck.rpy:127
-translate russian minami_fuck_date_beach_bb0af298:
+translate russian minami_fuck_date_beach_a0ee9716:
     mike.say "То есть... очень тебе идёт!"
 
 # ch/minami/fuck.rpy:129
@@ -24319,10 +22775,6 @@ translate russian minami_fuck_date_beach_7b520137:
 # ch/minami/fuck.rpy:130
 translate russian minami_fuck_date_beach_62b74956:
     "Она поворачивается на бок, нарочно ещё больше выставляя себя напоказ."
-
-# ch/minami/fuck.rpy:132
-translate russian minami_fuck_date_beach_59cc9fd7:
-    minami.say "О-о... как мило, братик!"
 
 # ch/minami/fuck.rpy:134
 translate russian minami_fuck_date_beach_3fc8be66:
@@ -24347,10 +22799,6 @@ translate russian minami_fuck_date_beach_138d7625:
 # ch/minami/fuck.rpy:142
 translate russian minami_fuck_date_beach_5c488d27:
     "И я знаю, что она видит бугор в моих шортах!"
-
-# ch/minami/fuck.rpy:143
-translate russian minami_fuck_date_beach_4ef92b98:
-    minami.say "Ну же, братик, чего ждёшь?"
 
 # ch/minami/fuck.rpy:144
 translate russian minami_fuck_date_beach_b638c4d2:
@@ -24415,10 +22863,6 @@ translate russian minami_fuck_date_beach_bbdcb79f:
 # ch/minami/fuck.rpy:162
 translate russian minami_fuck_date_beach_7df764da:
     minami.say "М-м-м..."
-
-# ch/minami/fuck.rpy:163
-translate russian minami_fuck_date_beach_87ef1a9e:
-    minami.say "Вот так, братик..."
 
 # ch/minami/fuck.rpy:164
 translate russian minami_fuck_date_beach_ce3f8f07:
@@ -24509,12 +22953,8 @@ translate russian minami_fuck_date_beach_1696ad7f:
     "А когда она оглядывается через плечо, её взгляд затуманен."
 
 # ch/minami/fuck.rpy:188
-translate russian minami_fuck_date_beach_3ae0fe29:
+translate russian minami_fuck_date_beach_1980e862:
     minami.say "Ах... ах..."
-
-# ch/minami/fuck.rpy:189
-translate russian minami_fuck_date_beach_1af7f405:
-    minami.say "Братик..."
 
 # ch/minami/fuck.rpy:190
 translate russian minami_fuck_date_beach_f08ab7dd:
@@ -24559,10 +22999,6 @@ translate russian minami_fuck_date_beach_c335c7ea:
 # ch/minami/fuck.rpy:204
 translate russian minami_fuck_date_beach_2172e9fb:
     "Я кладу руку на её округлый, согретый солнцем живот, и она накрывает её своей."
-
-# ch/minami/fuck.rpy:205
-translate russian minami_fuck_date_beach_9b32d067:
-    minami.say "М-м-м... лучший день на пляже в нашей жизни, братик. У всех троих."
 
 # ch/minami/fuck.rpy:206
 translate russian minami_fuck_date_beach_b6c27196:
@@ -24692,10 +23128,6 @@ translate russian minami_fuck_date_intro_male_c34a7f90:
 translate russian minami_fuck_date_intro_male_26f6ac86:
     "Минами заливается смехом и хлопает в ладоши от предвкушения."
 
-# ch/minami/fuck.rpy:310
-translate russian minami_fuck_date_intro_male_630c530d:
-    minami.say "Громкие слова, братик!"
-
 # ch/minami/fuck.rpy:311
 translate russian minami_fuck_date_intro_male_30c0379a:
     minami.say "Надеюсь, ты сумеешь их подкрепить..."
@@ -24752,10 +23184,6 @@ translate russian minami_fuck_date_intro_male_314d9312:
 translate russian minami_fuck_date_intro_male_f388bc6d:
     "Здесь только мы двое, и мы оба знаем, чего хотим!"
 
-# ch/minami/fuck.rpy:339
-translate russian minami_fuck_date_intro_male_f1785d84:
-    minami.say "Ох, братик!"
-
 # ch/minami/fuck.rpy:340
 translate russian minami_fuck_date_intro_male_09fe2cdc:
     minami.say "Я думала, мы никогда не доберёмся!"
@@ -24787,10 +23215,6 @@ translate russian minami_fuck_date_intro_male_1f8c93ed:
 # ch/minami/fuck.rpy:349
 translate russian minami_fuck_date_intro_male_09a56253:
     minami.say "Ах..."
-
-# ch/minami/fuck.rpy:350
-translate russian minami_fuck_date_intro_male_febdb041:
-    minami.say "Ты ДОЛЖЕН меня трахнуть, братик!"
 
 # ch/minami/fuck.rpy:351
 translate russian minami_fuck_date_intro_male_38f7fd51:
@@ -24920,10 +23344,6 @@ translate russian minami_fuck_date_intro_male_5921915f:
 translate russian minami_fuck_date_intro_male_7df764da:
     minami.say "М-м-м..."
 
-# ch/minami/fuck.rpy:399
-translate russian minami_fuck_date_intro_male_ad28441f:
-    minami.say "Я думала, что наелась за ужином, братик."
-
 # ch/minami/fuck.rpy:400
 translate russian minami_fuck_date_intro_male_761244c3:
     minami.say "А теперь понимаю, что всё ещё голодна!"
@@ -24979,10 +23399,6 @@ translate russian minami_fuck_date_intro_male_fe622116:
 # ch/minami/fuck.rpy:416
 translate russian minami_fuck_date_intro_male_786aeaf8:
     mike.say "Ого!"
-
-# ch/minami/fuck.rpy:417
-translate russian minami_fuck_date_intro_male_2d8f523d:
-    minami.say "Не бойся, братик!"
 
 # ch/minami/fuck.rpy:418
 translate russian minami_fuck_date_intro_male_766e63c4:
@@ -25068,10 +23484,6 @@ translate russian minami_fuck_date_kiss_9ab75b97:
 translate russian minami_fuck_date_kiss_6b65441e:
     "А когда её рука тянется к моему члену, я понимаю, к чему всё идёт!"
 
-# ch/minami/fuck.rpy:496
-translate russian minami_fuck_date_doggy_d7fe179d:
-    minami.say "Ну же, братик!"
-
 # ch/minami/fuck.rpy:497
 translate russian minami_fuck_date_doggy_111087a1:
     minami.say "Чего ты ждёшь?"
@@ -25081,7 +23493,7 @@ translate russian minami_fuck_date_doggy_514dd98c:
     minami.say "Я уже ТАКАЯ мокрая! Всё ради тебя!"
 
 # ch/minami/fuck.rpy:499
-translate russian minami_fuck_date_doggy_d894efa9:
+translate russian minami_fuck_date_doggy_88d34d87:
     mike.say "Я... я иду, Минами!"
 
 # ch/minami/fuck.rpy:500
@@ -25107,10 +23519,6 @@ translate russian minami_fuck_date_doggy_c5ed06ee:
 # ch/minami/fuck.rpy:505
 translate russian minami_fuck_date_doggy_7df764da:
     minami.say "М-м-м..."
-
-# ch/minami/fuck.rpy:506
-translate russian minami_fuck_date_doggy_e3f2dc05:
-    minami.say "Ты и правда БОЛЬШОЙ братик!"
 
 # ch/minami/fuck.rpy:507
 translate russian minami_fuck_date_doggy_15983647:
@@ -25144,10 +23552,6 @@ translate russian minami_fuck_date_doggy_e36db7d4:
 translate russian minami_fuck_date_doggy_ba770e2c:
     minami.say "ЗЛЮКА! Всё-таки поймал!"
 
-# ch/minami/fuck.rpy:518
-translate russian minami_fuck_date_doggy_03f9e1c2:
-    minami.say "Ладно-ладно, сдаюсь, братик!"
-
 # ch/minami/fuck.rpy:519
 translate russian minami_fuck_date_doggy_abe689e5:
     "Впрочем, она ничуть не расстроена тем, что попалась."
@@ -25159,10 +23563,6 @@ translate russian minami_fuck_date_doggy_6e7a38d8:
 # ch/minami/fuck.rpy:521
 translate russian minami_fuck_date_doggy_ef21dd38:
     minami.say "Ну-у-у... сегодня научишь меня чему-нибудь НОВЕНЬКОМУ?"
-
-# ch/minami/fuck.rpy:522
-translate russian minami_fuck_date_doggy_5aa11966:
-    minami.say "Я прочитала об этом ЦЕЛУЮ мангу, братик! Выполнила домашнее задание и всё такое!"
 
 # ch/minami/fuck.rpy:523
 translate russian minami_fuck_date_doggy_c3a5185c:
@@ -25216,17 +23616,9 @@ translate russian minami_fuck_date_doggy_2725bab0:
 translate russian minami_fuck_date_doggy_488559bd:
     "Её приподнятая попка покачивается — открытое приглашение, от которого я не намерен отказываться."
 
-# ch/minami/fuck.rpy:537
-translate russian minami_fuck_date_doggy_f9278074:
-    minami.say "Пользуйся мной как хочешь, братик. Я только об этом и мечтаю."
-
 # ch/minami/fuck.rpy:538
 translate russian minami_fuck_date_doggy_ea53c096:
     "Она произносит это как клятву, прижавшись лбом к простыне и полностью отдаваясь мне."
-
-# ch/minami/fuck.rpy:540
-translate russian minami_fuck_date_doggy_037a1e39:
-    minami.say "Скажи, как тебе нравится, братик. Хочу сделать всё идеально!"
 
 # ch/minami/fuck.rpy:541
 translate russian minami_fuck_date_doggy_6a33af90:
@@ -25261,16 +23653,12 @@ translate russian minami_fuck_date_doggy_48c5bdc1:
     "Затем направляю головку к своей цели и толкаюсь изо всех сил."
 
 # ch/minami/fuck.rpy:554
-translate russian minami_fuck_date_doggy_5ec1ec53:
+translate russian minami_fuck_date_doggy_23345b13:
     minami.say "Ох... ох..."
 
 # ch/minami/fuck.rpy:556
-translate russian minami_fuck_date_doggy_a76ac52f:
+translate russian minami_fuck_date_doggy_83bf2f37:
     minami.say "О-о-ох... о боже!"
-
-# ch/minami/fuck.rpy:557
-translate russian minami_fuck_date_doggy_2a5aa177:
-    minami.say "Ты у меня в попке, братик!"
 
 # ch/minami/fuck.rpy:559
 translate russian minami_fuck_date_doggy_67721558:
@@ -25285,16 +23673,12 @@ translate russian minami_fuck_date_doggy_ad474624:
     "И по мере этого я слышу, как начинает меняться её голос."
 
 # ch/minami/fuck.rpy:562
-translate russian minami_fuck_date_doggy_b1a4be0d:
+translate russian minami_fuck_date_doggy_ba364b20:
     minami.say "Ох... о-о-ох..."
 
 # ch/minami/fuck.rpy:563
-translate russian minami_fuck_date_doggy_03404418:
+translate russian minami_fuck_date_doggy_b1266d2c:
     minami.say "Моя попка... она тает!"
-
-# ch/minami/fuck.rpy:564
-translate russian minami_fuck_date_doggy_447e2d1a:
-    minami.say "Не... не останавливайся, братик!"
 
 # ch/minami/fuck.rpy:565
 translate russian minami_fuck_date_doggy_91ba6346:
@@ -25504,10 +23888,6 @@ translate russian minami_fuck_date_doggy_f3137a95:
 translate russian minami_fuck_date_doggy_78b10b17:
     minami.say "Ого..."
 
-# ch/minami/fuck.rpy:637
-translate russian minami_fuck_date_doggy_c22462b2:
-    minami.say "Как же хорошо, братик!"
-
 # ch/minami/fuck.rpy:638
 translate russian minami_fuck_date_doggy_4042f44c:
     "Без предупреждения Минами начинает двигаться вперёд-назад."
@@ -25552,12 +23932,8 @@ translate russian minami_fuck_date_doggy_30cf7818:
 translate russian minami_fuck_date_doggy_09a56253:
     minami.say "Ах..."
 
-# ch/minami/fuck.rpy:650
-translate russian minami_fuck_date_doggy_0d8fcacf:
-    minami.say "П-пожалуйста, братик..."
-
 # ch/minami/fuck.rpy:651
-translate russian minami_fuck_date_doggy_ea47c76c:
+translate russian minami_fuck_date_doggy_8d45611c:
     minami.say "Трахни меня... трахай сильнее!"
 
 # ch/minami/fuck.rpy:652
@@ -25668,10 +24044,6 @@ translate russian minami_fuck_date_doggy_9242da0d_1:
 translate russian minami_fuck_date_doggy_0ce3b80e_1:
     "А через мгновение я падаю на неё: мышцы наконец отказывают."
 
-# ch/minami/fuck.rpy:690
-translate russian minami_fuck_date_doggy_af611acd:
-    minami.say "Я принимаю таблетки, братик..."
-
 # ch/minami/fuck.rpy:691
 translate russian minami_fuck_date_doggy_68a91366:
     minami.say "Только не останавливайся!"
@@ -25744,10 +24116,6 @@ translate russian minami_fuck_date_doggy_079373b7_3:
 translate russian minami_fuck_date_doggy_5af11049_3:
     "Но едва силы иссякают, Минами опускается на кровать, а я падаю на неё."
 
-# ch/minami/fuck.rpy:720
-translate russian minami_fuck_date_doggy_1af7f405:
-    minami.say "Братик..."
-
 # ch/minami/fuck.rpy:721
 translate russian minami_fuck_date_doggy_a8ce18d6:
     minami.say "Выходи! СЕЙЧАС ЖЕ!"
@@ -25792,10 +24160,6 @@ translate russian minami_fuck_date_doggy_17f36749:
 translate russian minami_fuck_date_doggy_37838193:
     minami.say "А вот и нет!"
 
-# ch/minami/fuck.rpy:739
-translate russian minami_fuck_date_doggy_a5af210e:
-    minami.say "Никуда ты не денешься, братик!"
-
 # ch/minami/fuck.rpy:740
 translate russian minami_fuck_date_doggy_1d9e70e2_1:
     "Слова Минами застают меня врасплох, и именно это приводит к беде."
@@ -25835,14 +24199,6 @@ translate russian minami_fuck_date_doggy_7668a075:
 # ch/minami/fuck.rpy:756
 translate russian minami_fuck_date_doggy_e912477d:
     "Да, другие. И каждая перемена заставляет меня любить её ещё сильнее."
-
-# ch/minami/fuck.rpy:758
-translate russian minami_fuck_date_doggy_a61f1463:
-    minami.say "Я самая счастливая сестрёнка на всём белом свете, братик. Надеюсь, ты это знаешь."
-
-# ch/minami/fuck.rpy:760
-translate russian minami_fuck_date_doggy_7a4b05d6:
-    minami.say "Ты... будешь здесь, когда я проснусь, да, братик? Обещаешь?"
 
 # ch/minami/fuck.rpy:761
 translate russian minami_fuck_date_doggy_c4c35ab2:
@@ -25928,10 +24284,6 @@ translate russian minami_fuck_date_spank_a8e2703c:
 translate russian minami_fuck_date_spank_61bebe4e:
     "По её лицу медленно расплывается озорная улыбка."
 
-# ch/minami/fuck.rpy:788
-translate russian minami_fuck_date_spank_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/minami/fuck.rpy:789
 translate russian minami_fuck_date_spank_8654323d:
     minami.say "Неужели я была такой плохой?"
@@ -25964,10 +24316,6 @@ translate russian minami_fuck_date_spank_a8e2703c_1:
 translate russian minami_fuck_date_spank_61bebe4e_1:
     "По её лицу медленно расплывается озорная улыбка."
 
-# ch/minami/fuck.rpy:799
-translate russian minami_fuck_date_spank_9e680d55_1:
-    minami.say "Ох, братик..."
-
 # ch/minami/fuck.rpy:800
 translate russian minami_fuck_date_spank_cc03ea0a:
     minami.say "Мне так понравилось, когда ты меня шлёпал."
@@ -25991,10 +24339,6 @@ translate russian minami_fuck_date_spank_f738c642_1:
 # ch/minami/fuck.rpy:808
 translate russian minami_fuck_date_spank_09a56253:
     minami.say "Эм..."
-
-# ch/minami/fuck.rpy:809
-translate russian minami_fuck_date_spank_1af7f405:
-    minami.say "Братик..."
 
 # ch/minami/fuck.rpy:810
 translate russian minami_fuck_date_spank_861c3249:
@@ -26069,15 +24413,11 @@ translate russian minami_fuck_date_spank_3f422dce:
     "Скорее от неожиданности, чем от боли."
 
 # ch/minami/fuck.rpy:835
-translate russian minami_fuck_date_spank_ad1c1892:
+translate russian minami_fuck_date_spank_a8b3d860:
     minami.say "Ох... ай!"
 
-# ch/minami/fuck.rpy:836
-translate russian minami_fuck_date_spank_f7d208d9:
-    minami.say "Я... понимаю, братик."
-
 # ch/minami/fuck.rpy:837
-translate russian minami_fuck_date_spank_8395eb91:
+translate russian minami_fuck_date_spank_76d76a0d:
     minami.say "Я такая плохая девочка... и заслужила это!"
 
 # ch/minami/fuck.rpy:839
@@ -26133,16 +24473,12 @@ translate russian minami_fuck_date_spank_5eb4350f:
     "Но она по-прежнему не просит остановиться, а лишь кивает, требуя ещё."
 
 # ch/minami/fuck.rpy:870
-translate russian minami_fuck_date_spank_3ae0fe29:
+translate russian minami_fuck_date_spank_1980e862:
     minami.say "Ах... ах..."
 
 # ch/minami/fuck.rpy:871
-translate russian minami_fuck_date_spank_9a541460:
+translate russian minami_fuck_date_spank_02759899:
     minami.say "Да... пожалуйста..."
-
-# ch/minami/fuck.rpy:872
-translate russian minami_fuck_date_spank_b939f26c:
-    minami.say "Я буду хорошей, братик... обещаю!"
 
 # ch/minami/fuck.rpy:876
 translate russian minami_fuck_date_spank_78c83530:
@@ -26196,12 +24532,8 @@ translate russian minami_fuck_date_handcuffs_37bd79a7:
 translate russian minami_fuck_date_handcuffs_37cd36d0:
     minami.say "М-м..."
 
-# ch/minami/fuck.rpy:911
-translate russian minami_fuck_date_handcuffs_3a6341d7:
-    minami.say "Да, братик?"
-
 # ch/minami/fuck.rpy:912
-translate russian minami_fuck_date_handcuffs_b5f5c663:
+translate russian minami_fuck_date_handcuffs_b8b14927:
     mike.say "Как ты относишься к... наручникам?"
 
 # ch/minami/fuck.rpy:913
@@ -26213,7 +24545,7 @@ translate russian minami_fuck_date_handcuffs_cf727588:
     minami.say "К наручникам?!"
 
 # ch/minami/fuck.rpy:915
-translate russian minami_fuck_date_handcuffs_48c8fee7:
+translate russian minami_fuck_date_handcuffs_eaa5aeef:
     mike.say "Ну... в спальне?"
 
 # ch/minami/fuck.rpy:918
@@ -26221,7 +24553,7 @@ translate russian minami_fuck_date_handcuffs_dc2f8f44:
     "Глаза Минами расширяются."
 
 # ch/minami/fuck.rpy:919
-translate russian minami_fuck_date_handcuffs_929fa4cb:
+translate russian minami_fuck_date_handcuffs_728f7c35:
     minami.say "Ты имеешь в виду... бондаж и всё такое?!"
 
 # ch/minami/fuck.rpy:920
@@ -26236,25 +24568,13 @@ translate russian minami_fuck_date_handcuffs_684a6c1c:
 translate russian minami_fuck_date_handcuffs_bd0deb3f:
     mike.say "Но, конечно, если тебе такое не нравится..."
 
-# ch/minami/fuck.rpy:924
-translate russian minami_fuck_date_handcuffs_3c3e4ccd:
-    minami.say "Ладно, братик! Надевай на меня наручники, поразвлекаемся!"
-
 # ch/minami/fuck.rpy:925
-translate russian minami_fuck_date_handcuffs_4f9372d3:
+translate russian minami_fuck_date_handcuffs_80bdca3c:
     mike.say "Т-ты согласна?!"
-
-# ch/minami/fuck.rpy:927
-translate russian minami_fuck_date_handcuffs_a9f9892e:
-    minami.say "Конечно, братик! Звучит весело!"
 
 # ch/minami/fuck.rpy:929
 translate russian minami_fuck_date_handcuffs_f0302cf9:
     mike.say "Хочешь снова поиграть с наручниками?"
-
-# ch/minami/fuck.rpy:932
-translate russian minami_fuck_date_handcuffs_3c3e4ccd_1:
-    minami.say "Ладно, братик! Надевай на меня наручники, поразвлекаемся!"
 
 # ch/minami/fuck.rpy:938
 translate russian minami_fuck_date_missionary_8037c7c7:
@@ -26300,10 +24620,6 @@ translate russian minami_fuck_date_missionary_a0bccdc5:
 translate russian minami_fuck_date_missionary_6c1be300:
     "От искреннего доверия в её глазах у меня едва не замирает сердце."
 
-# ch/minami/fuck.rpy:949
-translate russian minami_fuck_date_missionary_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/minami/fuck.rpy:950
 translate russian minami_fuck_date_missionary_8e358b44:
     minami.say "С тобой иначе и БЫТЬ не может!"
@@ -26328,10 +24644,6 @@ translate russian minami_fuck_date_missionary_3f8d8e71:
 translate russian minami_fuck_date_missionary_6d14365f:
     "Минами устраивается на подушках и тянет ко мне руки, нетерпеливо шевеля пальцами."
 
-# ch/minami/fuck.rpy:959
-translate russian minami_fuck_date_missionary_1796a317:
-    minami.say "Братик, братик, иди уже сюда!"
-
 # ch/minami/fuck.rpy:960
 translate russian minami_fuck_date_missionary_49b51b97:
     minami.say "Ты возишься ЦЕЛУЮ ВЕЧНОСТЬ, а мне тут уже совсем невтерпёж!"
@@ -26341,7 +24653,7 @@ translate russian minami_fuck_date_missionary_b89e6a97:
     "Я перехватываю её запястья и мягко прижимаю над головой, просто чтобы услышать её писк."
 
 # ch/minami/fuck.rpy:962
-translate russian minami_fuck_date_missionary_3feed21a:
+translate russian minami_fuck_date_missionary_2ba8d4a0:
     minami.say "Э-эй! Нечестно, я же так не могу двигаться!"
 
 # ch/minami/fuck.rpy:963
@@ -26375,10 +24687,6 @@ translate russian minami_fuck_date_missionary_7d48025e:
 # ch/minami/fuck.rpy:970
 translate russian minami_fuck_date_missionary_298dd928:
     "Всё её тело извивается подо мной — отчасти от щекотки, отчасти от куда более жадного чувства."
-
-# ch/minami/fuck.rpy:971
-translate russian minami_fuck_date_missionary_fb7b1424:
-    minami.say "Ня-а... ладно-ладно! Это место — НЕЧЕСТНО, братик!"
 
 # ch/minami/fuck.rpy:972
 translate russian minami_fuck_date_missionary_0733fb71:
@@ -26424,17 +24732,9 @@ translate russian minami_fuck_date_missionary_5ae70262:
 translate russian minami_fuck_date_missionary_564e0ddc:
     "Она сияет так, словно я преподнёс ей целый мир на блюдечке."
 
-# ch/minami/fuck.rpy:983
-translate russian minami_fuck_date_missionary_a379cf63:
-    minami.say "Тогда ПОТОРОПИСЬ и преподай сестрёнке урок, братик!"
-
 # ch/minami/fuck.rpy:984
 translate russian minami_fuck_date_missionary_d46bde42:
     "И вот застенчивость исчезает, а моя нетерпеливая затейница возвращается во всей красе."
-
-# ch/minami/fuck.rpy:986
-translate russian minami_fuck_date_missionary_fab0dbc6:
-    minami.say "Бери всё, что тебе нужно, братик. Нет для меня большего счастья, чем принадлежать тебе."
 
 # ch/minami/fuck.rpy:988
 translate russian minami_fuck_date_missionary_b2e66d7a:
@@ -26468,17 +24768,9 @@ translate russian minami_fuck_date_missionary_7b102bf5:
 translate russian minami_fuck_date_missionary_408c4fc6:
     minami.say "Ох!"
 
-# ch/minami/fuck.rpy:1001
-translate russian minami_fuck_date_missionary_fe39dfb5:
-    minami.say "Братик, что ты..."
-
 # ch/minami/fuck.rpy:1003
 translate russian minami_fuck_date_missionary_eec79cae:
     minami.say "Ого..."
-
-# ch/minami/fuck.rpy:1004
-translate russian minami_fuck_date_missionary_8a04e79a:
-    minami.say "Братик, какой же ты шалун!"
 
 # ch/minami/fuck.rpy:1005
 translate russian minami_fuck_date_missionary_ace13b4e:
@@ -26563,10 +24855,6 @@ translate russian minami_fuck_date_missionary_29aec106:
 # ch/minami/fuck.rpy:1026
 translate russian minami_fuck_date_missionary_27d1f6a5:
     "Я сбавляю напор, замираю до её жалобного стона, а затем вхожу сильнее, чтобы ощутить, как она сжимает меня."
-
-# ch/minami/fuck.rpy:1027
-translate russian minami_fuck_date_missionary_3bee7cf9:
-    minami.say "Н-н-н... братик, я чувствую ВСЁ... слишком сильно... не останавливайся..."
 
 # ch/minami/fuck.rpy:1028
 translate russian minami_fuck_date_missionary_bf5218a9:
@@ -26720,10 +25008,6 @@ translate russian minami_fuck_date_missionary_3baf3ad5:
 translate russian minami_fuck_date_missionary_7df764da:
     minami.say "М-м-м..."
 
-# ch/minami/fuck.rpy:1089
-translate russian minami_fuck_date_missionary_a17da5b1:
-    minami.say "Как же ПРИЯТНО снова ощущать тебя внутри, братик!"
-
 # ch/minami/fuck.rpy:1090
 translate russian minami_fuck_date_missionary_983e5894:
     "Воодушевлённый её словами, я начинаю двигаться."
@@ -26768,10 +25052,6 @@ translate russian minami_fuck_date_missionary_09a56253:
 translate russian minami_fuck_date_missionary_8abc1474:
     minami.say "Да, пожалуйста..."
 
-# ch/minami/fuck.rpy:1103
-translate russian minami_fuck_date_missionary_547abd35:
-    minami.say "Не останавливайся, братик..."
-
 # ch/minami/fuck.rpy:1104
 translate russian minami_fuck_date_missionary_1781eade:
     minami.say "Хочу, чтобы твой член был во мне вечно!"
@@ -26793,7 +25073,7 @@ translate russian minami_fuck_date_missionary_d574c011:
     minami.say "Ох, блядь..."
 
 # ch/minami/fuck.rpy:1110
-translate russian minami_fuck_date_missionary_9d7f88c3:
+translate russian minami_fuck_date_missionary_3c9bef0f:
     minami.say "Ох... блядь..."
 
 # ch/minami/fuck.rpy:1111
@@ -26871,10 +25151,6 @@ translate russian minami_fuck_date_missionary_0488a214_1:
 # ch/minami/fuck.rpy:1146
 translate russian minami_fuck_date_missionary_945430d4_1:
     "Никогда ещё она не казалась мне прекраснее."
-
-# ch/minami/fuck.rpy:1148
-translate russian minami_fuck_date_missionary_09b571de:
-    minami.say "Всё хорошо, братик..."
 
 # ch/minami/fuck.rpy:1149
 translate russian minami_fuck_date_missionary_0d4e75fb:
@@ -26960,10 +25236,6 @@ translate russian minami_fuck_date_missionary_9b7563c3:
 translate russian minami_fuck_date_missionary_f809254b:
     mike.say "Что ты делаешь?!"
 
-# ch/minami/fuck.rpy:1182
-translate russian minami_fuck_date_missionary_f8490868:
-    minami.say "Всё хорошо, братик."
-
 # ch/minami/fuck.rpy:1183
 translate russian minami_fuck_date_missionary_71111c1e:
     minami.say "Именно так всё и должно было случиться!"
@@ -27013,11 +25285,11 @@ translate russian minami_fuck_date_cowgirl_034af380:
     "Когда она наконец отстраняется, прерывая поцелуй, я слышу её тяжёлое дыхание."
 
 # ch/minami/fuck.rpy:1212
-translate russian minami_fuck_date_cowgirl_523cfdaf:
+translate russian minami_fuck_date_cowgirl_741a76bf:
     minami.say "Вот... чего я хочу..."
 
 # ch/minami/fuck.rpy:1213
-translate russian minami_fuck_date_cowgirl_d718d11f:
+translate russian minami_fuck_date_cowgirl_542fc064:
     minami.say "Вот так глубоко... хочу тебя в себе..."
 
 # ch/minami/fuck.rpy:1214
@@ -27035,10 +25307,6 @@ translate russian minami_fuck_date_cowgirl_4d3adef1:
 # ch/minami/fuck.rpy:1217
 translate russian minami_fuck_date_cowgirl_03b1e1a7:
     "Она расслабленно откидывается мне на грудь и довольно ёрзает."
-
-# ch/minami/fuck.rpy:1218
-translate russian minami_fuck_date_cowgirl_5eaa2efa:
-    minami.say "М-м-м... ОБОЖАЮ, когда ты обнимаешь меня сзади, братик."
 
 # ch/minami/fuck.rpy:1219
 translate russian minami_fuck_date_cowgirl_31b7cba8:
@@ -27076,10 +25344,6 @@ translate russian minami_fuck_date_cowgirl_42038148:
 translate russian minami_fuck_date_cowgirl_4fb39d42:
     "Её бёдра уже нетерпеливо и совершенно бесстыдно трутся обо меня."
 
-# ch/minami/fuck.rpy:1228
-translate russian minami_fuck_date_cowgirl_37f1767e:
-    minami.say "Братик... я ведь прекрасно чувствую тебя сзади."
-
 # ch/minami/fuck.rpy:1229
 translate russian minami_fuck_date_cowgirl_16dbf00c:
     minami.say "Ты в меня ТЫЧЕШЬ! Так неловко... продолжишь?"
@@ -27103,10 +25367,6 @@ translate russian minami_fuck_date_cowgirl_567b57e4:
 # ch/minami/fuck.rpy:1234
 translate russian minami_fuck_date_cowgirl_954320cd:
     minami.say "Покажи своей ненасытной сестрёнке, ради чего она так усердно тренировалась."
-
-# ch/minami/fuck.rpy:1236
-translate russian minami_fuck_date_cowgirl_0b748b14:
-    minami.say "Я принадлежу тебе, братик. Вся, целиком. Делай что хочешь."
 
 # ch/minami/fuck.rpy:1238
 translate russian minami_fuck_date_cowgirl_cbd72c3a:
@@ -27152,10 +25412,6 @@ translate russian minami_fuck_date_cowgirl_681eda44:
 translate russian minami_fuck_date_cowgirl_db01fab9:
     minami.say "ОГО!"
 
-# ch/minami/fuck.rpy:1254
-translate russian minami_fuck_date_cowgirl_bfc8a3fe:
-    minami.say "Братик, что ты..."
-
 # ch/minami/fuck.rpy:1255
 translate russian minami_fuck_date_cowgirl_98e41938:
     minami.say "А-а-ах..."
@@ -27179,10 +25435,6 @@ translate russian minami_fuck_date_cowgirl_7df764da:
 # ch/minami/fuck.rpy:1260
 translate russian minami_fuck_date_cowgirl_a4263271:
     minami.say "Ох, блядь..."
-
-# ch/minami/fuck.rpy:1261
-translate russian minami_fuck_date_cowgirl_17ddb058:
-    minami.say "Как же ХОРОШО, братик..."
 
 # ch/minami/fuck.rpy:1262
 translate russian minami_fuck_date_cowgirl_111bb39c:
@@ -27365,11 +25617,11 @@ translate russian minami_fuck_date_cowgirl_c85941b7:
     minami.say "Чт..."
 
 # ch/minami/fuck.rpy:1348
-translate russian minami_fuck_date_cowgirl_1233d162:
+translate russian minami_fuck_date_cowgirl_9c356b05:
     minami.say "Ох, чёрт... ты внутри меня!"
 
 # ch/minami/fuck.rpy:1349
-translate russian minami_fuck_date_cowgirl_6cb0b6fa:
+translate russian minami_fuck_date_cowgirl_d743ac98:
     minami.say "Ох... как хорошо, так хорошо!"
 
 # ch/minami/fuck.rpy:1350
@@ -27424,12 +25676,8 @@ translate russian minami_fuck_date_cowgirl_146961ff:
 translate russian minami_fuck_date_cowgirl_7df764da_1:
     minami.say "М-м-м..."
 
-# ch/minami/fuck.rpy:1365
-translate russian minami_fuck_date_cowgirl_1af7f405:
-    minami.say "Братик..."
-
 # ch/minami/fuck.rpy:1366
-translate russian minami_fuck_date_cowgirl_4ed0311e:
+translate russian minami_fuck_date_cowgirl_ba7360e3:
     minami.say "Я сейчас из-за тебя... кончу!"
 
 # ch/minami/fuck.rpy:1367
@@ -27496,16 +25744,12 @@ translate russian minami_fuck_date_cowgirl_354fdcfe:
 translate russian minami_fuck_date_cowgirl_1e75f313:
     "Почти сразу я неудержимо кончаю, покрывая спермой её живот и грудь."
 
-# ch/minami/fuck.rpy:1403
-translate russian minami_fuck_date_cowgirl_d8d1df1d:
-    minami.say "Эм, братик..."
-
 # ch/minami/fuck.rpy:1404
 translate russian minami_fuck_date_cowgirl_166909a2:
     minami.say "Надо было сказать..."
 
 # ch/minami/fuck.rpy:1405
-translate russian minami_fuck_date_cowgirl_acd921ad:
+translate russian minami_fuck_date_cowgirl_10aa0605:
     minami.say "Я... на... таблетках!"
 
 # ch/minami/fuck.rpy:1406
@@ -27556,10 +25800,6 @@ translate russian minami_fuck_date_cowgirl_a381d2bb:
 translate russian minami_fuck_date_cowgirl_3eb4394f:
     "Смотрю, как она лежит, обнимая живот и бессознательно защищая растущую внутри жизнь."
 
-# ch/minami/fuck.rpy:1429
-translate russian minami_fuck_date_cowgirl_d8d1df1d_1:
-    minami.say "Эм, братик..."
-
 # ch/minami/fuck.rpy:1430
 translate russian minami_fuck_date_cowgirl_e05087b4:
     minami.say "Мы не..."
@@ -27596,10 +25836,6 @@ translate russian minami_fuck_date_cowgirl_eb80a7bc:
 translate russian minami_fuck_date_cowgirl_35df6292:
     "И тут же пытаюсь выйти из Минами, пока не поздно."
 
-# ch/minami/fuck.rpy:1445
-translate russian minami_fuck_date_cowgirl_00eda63e:
-    minami.say "А вот и нет, братик!"
-
 # ch/minami/fuck.rpy:1446
 translate russian minami_fuck_date_cowgirl_40de753d:
     "Я чувствую, как Минами обвивает меня, не позволяя выйти."
@@ -27611,10 +25847,6 @@ translate russian minami_fuck_date_cowgirl_4dda1c6b:
 # ch/minami/fuck.rpy:1448
 translate russian minami_fuck_date_cowgirl_de2ad759:
     mike.say "Что ты..."
-
-# ch/minami/fuck.rpy:1449
-translate russian minami_fuck_date_cowgirl_495527b1:
-    minami.say "Не волнуйся, братик."
 
 # ch/minami/fuck.rpy:1450
 translate russian minami_fuck_date_cowgirl_6f604aad:
@@ -27631,10 +25863,6 @@ translate russian minami_fuck_date_cowgirl_bc62db7d:
 # ch/minami/fuck.rpy:1457
 translate russian minami_fuck_date_cowgirl_ee4da92f:
     "И слышу лишь, как Минами издаёт звуки довольной кошки..."
-
-# ch/minami/fuck.rpy:1464
-translate russian minami_fuck_date_bj_1735fb66:
-    minami.say "Ох, братик..."
 
 # ch/minami/fuck.rpy:1465
 translate russian minami_fuck_date_bj_87e71f79:
@@ -27659,10 +25887,6 @@ translate russian minami_fuck_date_bj_0dd4b5e7:
 # ch/minami/fuck.rpy:1470
 translate russian minami_fuck_date_bj_34820702:
     "Только Минами может выглядеть такой гордой собой, стоя на коленях."
-
-# ch/minami/fuck.rpy:1471
-translate russian minami_fuck_date_bj_0f94ef37:
-    minami.say "Я даже искала советы, братик! В... исследовательских целях!"
 
 # ch/minami/fuck.rpy:1472
 translate russian minami_fuck_date_bj_9cee68bd:
@@ -27849,7 +26073,7 @@ translate russian minami_fuck_date_bj_67017e42:
     "Любовь всей моей жизни смотрит снизу вверх так, словно я для неё весь свет. Я обожаю её до боли."
 
 # ch/minami/fuck.rpy:1526
-translate russian minami_fuck_date_bj_391845bc:
+translate russian minami_fuck_date_bj_b2daadda:
     "Ох... понимаю, как ужасно это прозвучит..."
 
 # ch/minami/fuck.rpy:1527
@@ -27944,10 +26168,6 @@ translate russian minami_fuck_date_bj_e54c1ccf:
 translate russian minami_fuck_date_bj_9fa56963:
     "Минами устало дышит, слизывая с губ остатки спермы."
 
-# ch/minami/fuck.rpy:1572
-translate russian minami_fuck_date_bj_e80c8990:
-    minami.say "М-м-м... до последней капли, братик. Не хочу терять ни частички тебя."
-
 # ch/minami/fuck.rpy:1574
 translate russian minami_fuck_date_bj_83500a2d:
     minami.say "Я всё правильно сделала? Видишь, проглотила ВСЁ! Гордишься мной?"
@@ -27979,10 +26199,6 @@ translate russian minami_fuck_date_bj_343eae5d:
 # ch/minami/fuck.rpy:1583
 translate russian minami_fuck_date_bj_54ddb3d0:
     "Если она продолжит, у меня откроется второе дыхание!"
-
-# ch/minami/fuck.rpy:1584
-translate russian minami_fuck_date_bj_c8402beb:
-    minami.say "Ну? НУ? Как я справилась, братик? Расскажи ВСЁ!"
 
 # ch/minami/fuck.rpy:1585
 translate russian minami_fuck_date_bj_27c96dc4:
@@ -28028,10 +26244,6 @@ translate russian minami_fuck_date_bj_0f2a0e68:
 translate russian minami_fuck_date_bj_730e85cd:
     "Она без малейшего колебания забирается ко мне на колени."
 
-# ch/minami/fuck.rpy:1597
-translate russian minami_fuck_date_bj_3ef53640:
-    minami.say "ЛУЧШЕЕ свидание! И оно ведь ещё не закончилось, правда, братик?"
-
 # ch/minami/fuck.rpy:1598
 translate russian minami_fuck_date_bj_15f07051:
     "Лукавый огонёк в её глазах ясно говорит, что она уже задумала."
@@ -28048,17 +26260,9 @@ translate russian minami_fuck_date_oral_intro_9931a239:
 translate russian minami_fuck_date_oral_intro_71cda423:
     "И наслаждаюсь тем, как она обхватывает меня руками и ногами."
 
-# ch/minami/fuck.rpy:1611
-translate russian minami_fuck_date_oral_intro_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/minami/fuck.rpy:1612
 translate russian minami_fuck_date_oral_intro_99083c36:
     minami.say "Мне сегодня было ТАК весело!"
-
-# ch/minami/fuck.rpy:1613
-translate russian minami_fuck_date_oral_intro_b7e820b9:
-    minami.say "Знаешь, братик, я всё ещё чувствую этот запах от нас обоих."
 
 # ch/minami/fuck.rpy:1614
 translate russian minami_fuck_date_oral_intro_e8cb7913:
@@ -28105,12 +26309,8 @@ translate russian minami_fuck_date_oral_intro_d4225001:
     "Лишь когда я подхожу к кровати, Минами опускает взгляд и начинает понимать."
 
 # ch/minami/fuck.rpy:1626
-translate russian minami_fuck_date_oral_intro_183f0a26:
+translate russian minami_fuck_date_oral_intro_240ab699:
     minami.say "М... меня?"
-
-# ch/minami/fuck.rpy:1627
-translate russian minami_fuck_date_oral_intro_c2c9c0cd:
-    minami.say "Ты хочешь попробовать меня, братик?"
 
 # ch/minami/fuck.rpy:1628
 translate russian minami_fuck_date_oral_intro_3a4477a7:
@@ -28272,10 +26472,6 @@ translate russian minami_fuck_date_oral_01dba3b6:
 translate russian minami_fuck_date_oral_0b821dd2:
     minami.say "Ох, чёрт..."
 
-# ch/minami/fuck.rpy:1683
-translate russian minami_fuck_date_oral_1af7f405:
-    minami.say "Братик..."
-
 # ch/minami/fuck.rpy:1684
 translate russian minami_fuck_date_oral_c5673f97:
     "Её слова лишь укрепляют мою решимость продолжать."
@@ -28295,10 +26491,6 @@ translate russian minami_fuck_date_oral_0b479403:
 # ch/minami/fuck.rpy:1689
 translate russian minami_fuck_date_oral_cfa34f04:
     "Каждое движение языка вызывает новый звук, и я запоминаю их все."
-
-# ch/minami/fuck.rpy:1690
-translate russian minami_fuck_date_oral_1cc5bdb7:
-    minami.say "А-а-ах... братик, вот ЗДЕСЬ! Не двигайся, даже не смей!"
 
 # ch/minami/fuck.rpy:1691
 translate russian minami_fuck_date_oral_4db4dc98:
@@ -28333,7 +26525,7 @@ translate russian minami_fuck_date_oral_5fc9c1f1:
     "И сама это знает, судя по смущённым взглядам, которые бросает на меня."
 
 # ch/minami/fuck.rpy:1701
-translate russian minami_fuck_date_oral_b656ce07:
+translate russian minami_fuck_date_oral_75bdcc20:
     minami.say "П-перестань так ухмыляться! Мне ТАК неловко!"
 
 # ch/minami/fuck.rpy:1702
@@ -28504,10 +26696,6 @@ translate russian minami_fuck_date_oral_ae835825:
 translate russian minami_fuck_date_oral_f2816189:
     "И в ту секунду, когда Минами замечает, что я отвлёкся, пальцы находят игрушку."
 
-# ch/minami/fuck.rpy:1758
-translate russian minami_fuck_date_oral_aea39739:
-    minami.say "Э-эй, братик..."
-
 # ch/minami/fuck.rpy:1759
 translate russian minami_fuck_date_oral_d4211843:
     minami.say "Что такое?"
@@ -28591,10 +26779,6 @@ translate russian minami_fuck_date_oral_4b820aa1:
 # ch/minami/fuck.rpy:1789
 translate russian minami_fuck_date_oral_0e896898:
     "Минами замечает, что я отвлёкся, как раз когда рука находит искомое."
-
-# ch/minami/fuck.rpy:1790
-translate russian minami_fuck_date_oral_aea39739_1:
-    minami.say "Э-эй, братик..."
 
 # ch/minami/fuck.rpy:1791
 translate russian minami_fuck_date_oral_d4211843_1:
@@ -28728,10 +26912,6 @@ translate russian minami_fuck_date_oral_0cce070a:
 translate russian minami_fuck_date_oral_541f0da9:
     "Но она улыбается мне, и глаза полны нежности."
 
-# ch/minami/fuck.rpy:1838
-translate russian minami_fuck_date_oral_a298e24d:
-    minami.say "О-о, братик."
-
 # ch/minami/fuck.rpy:1839
 translate russian minami_fuck_date_oral_a8e0724e:
     minami.say "Обожаю быть твоим любимым вкусом!"
@@ -28772,10 +26952,6 @@ translate russian minami_fuck_date_oral_ae2f3b5d:
 translate russian minami_fuck_date_oral_ea4e18aa:
     "Моя ладонь ложится на мягко округлившийся живот между нами, и она тут же накрывает её своей."
 
-# ch/minami/fuck.rpy:1851
-translate russian minami_fuck_date_oral_dca0fa4d:
-    minami.say "Осторожнее с животиком, братик! Ну... НЕМНОЖКО. Я ведь всё ещё хочу свою очередь!"
-
 # ch/minami/fuck.rpy:1852
 translate russian minami_fuck_date_oral_0f92353e:
     "Даже вынашивая нашего ребёнка, она остаётся той же ненасытной, сияющей капризницей. Кажется, я никогда не любил её сильнее."
@@ -28791,10 +26967,6 @@ translate russian minami_fuck_date_oral_cdc8a422:
 # ch/minami/fuck.rpy:1856
 translate russian minami_fuck_date_oral_61d6cb56:
     "Дерзкая, шумная, нелепая девушка, рядом с которой я вырос, выбрала именно меня."
-
-# ch/minami/fuck.rpy:1857
-translate russian minami_fuck_date_oral_cdd9c7ff:
-    minami.say "Эй, братик?"
 
 # ch/minami/fuck.rpy:1858
 translate russian minami_fuck_date_oral_c2c0930d:
@@ -28844,10 +27016,6 @@ translate russian minami_hottub_sex_male_79cbc8ce:
 translate russian minami_hottub_sex_male_05c487b7:
     "Звуки, которых обычно не замечаю, смягчённые расстоянием почти до мелодии..."
 
-# ch/minami/fuck.rpy:1878
-translate russian minami_hottub_sex_male_309fcd6b:
-    minami.say "Эй, братик!"
-
 # ch/minami/fuck.rpy:1879
 translate russian minami_hottub_sex_male_38462e88:
     minami.say "Просыпайся уже!"
@@ -28896,10 +27064,6 @@ translate russian minami_hottub_sex_male_94d31111:
 translate russian minami_hottub_sex_male_1521c4a0:
     "А вторая выдаёт, как ей нравится моя реакция."
 
-# ch/minami/fuck.rpy:1892
-translate russian minami_hottub_sex_male_60c971d6:
-    minami.say "Нравится, братик?"
-
 # ch/minami/fuck.rpy:1893
 translate russian minami_hottub_sex_male_a039ee0d:
     minami.say "Хочешь посмотреть поближе?"
@@ -28911,10 +27075,6 @@ translate russian minami_hottub_sex_male_ec59ed99:
 # ch/minami/fuck.rpy:1895
 translate russian minami_hottub_sex_male_5c51ad78:
     "Она сгоняет меня на другую сторону, чтобы ей тоже хватило места."
-
-# ch/minami/fuck.rpy:1896
-translate russian minami_hottub_sex_male_edfecba1:
-    minami.say "Подвинься, братик."
 
 # ch/minami/fuck.rpy:1897
 translate russian minami_hottub_sex_male_26e6cdc3:
@@ -28967,10 +27127,6 @@ translate russian minami_hottub_sex_male_17951216:
 # ch/minami/fuck.rpy:1912
 translate russian minami_hottub_sex_male_ed78af2b:
     "Прикусывая губу в предвкушении, она преодолевает короткое расстояние между нами."
-
-# ch/minami/fuck.rpy:1913
-translate russian minami_hottub_sex_male_436293f2:
-    minami.say "Ох, братик, какой же ты пошляк!"
 
 # ch/minami/fuck.rpy:1914
 translate russian minami_hottub_sex_male_924e8431:
@@ -29048,12 +27204,8 @@ translate russian minami_hottub_sex_male_d77d275d:
 translate russian minami_hottub_sex_male_f3137a95:
     minami.say "Ох..."
 
-# ch/minami/fuck.rpy:1935
-translate russian minami_hottub_sex_male_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/minami/fuck.rpy:1936
-translate russian minami_hottub_sex_male_8391f051:
+translate russian minami_hottub_sex_male_72548fa1:
     minami.say "Дай мне... пожалуйста!"
 
 # ch/minami/fuck.rpy:1937
@@ -29096,10 +27248,6 @@ translate russian minami_hottub_sex_male_aa2847f7:
 translate russian minami_hottub_sex_male_2b3f7c45:
     "Я резко замедляюсь, глубоко прижимаясь к ней, чтобы ощутить дрожь, а затем снова ускоряюсь, пока она не начинает задыхаться."
 
-# ch/minami/fuck.rpy:1948
-translate russian minami_hottub_sex_male_3590482c:
-    minami.say "Н-н... братик, ВОТ ТАМ, это место... не ОСТАНАВЛИВАЙСЯ..."
-
 # ch/minami/fuck.rpy:1949
 translate russian minami_hottub_sex_male_5c73419f:
     "Я подхватываю её под бёдра и меняю угол, ища точку, от которой она кричит громче всего."
@@ -29131,10 +27279,6 @@ translate russian minami_hottub_sex_male_a8045904:
 # ch/minami/fuck.rpy:1956
 translate russian minami_hottub_sex_male_98b9fef8:
     "В ответ я ещё сильнее притягиваю её к себе, и её возглас пронзает меня насквозь."
-
-# ch/minami/fuck.rpy:1958
-translate russian minami_hottub_sex_male_c6cf6d90:
-    minami.say "Я твоя, вся твоя... пользуйся мной, братик... пожалуйста..."
 
 # ch/minami/fuck.rpy:1960
 translate russian minami_hottub_sex_male_b5f60fd5:
@@ -29233,7 +27377,7 @@ translate russian minami_hottub_sex_male_0b821dd2:
     minami.say "Ох, чёрт..."
 
 # ch/minami/fuck.rpy:1993
-translate russian minami_hottub_sex_male_0f02be5f:
+translate russian minami_hottub_sex_male_8d1820f6:
     minami.say "Я... я сейчас кончу!"
 
 # ch/minami/fuck.rpy:1994
@@ -29287,10 +27431,6 @@ translate russian minami_hottub_sex_male_44155063:
 # ch/minami/fuck.rpy:2014
 translate russian minami_hottub_sex_male_b63e1255:
     minami.say "Надо делать так каждый день. Я, ты и животик. Лучшее джакузи В МИРЕ."
-
-# ch/minami/fuck.rpy:2016
-translate russian minami_hottub_sex_male_bf6e9bcc:
-    minami.say "Совсем не хочется вылезать. Может, будем жить в джакузи вечно, братик?"
 
 # ch/minami/fuck.rpy:2017
 translate russian minami_hottub_sex_male_7add2cd9:
@@ -29348,10 +27488,6 @@ translate russian minami_fuck_bathroom_421e2700:
 translate russian minami_fuck_bathroom_f537758c:
     mike.say "Обязательно это делать, когда я принимаю душ?"
 
-# ch/minami/fuck.rpy:2042
-translate russian minami_fuck_bathroom_e1c4707c:
-    minami.say "А что такого, братик?"
-
 # ch/minami/fuck.rpy:2043
 translate russian minami_fuck_bathroom_309a2b9b:
     minami.say "В детстве тебя это никогда не беспокоило!"
@@ -29371,10 +27507,6 @@ translate russian minami_fuck_bathroom_2b130f1e:
 # ch/minami/fuck.rpy:2047
 translate russian minami_fuck_bathroom_5c78a7fd:
     "Она делает ещё что-то, но я не могу понять что."
-
-# ch/minami/fuck.rpy:2049
-translate russian minami_fuck_bathroom_91a23a1f:
-    minami.say "Нет, братик."
 
 # ch/minami/fuck.rpy:2050
 translate russian minami_fuck_bathroom_c506b9ac:
@@ -29428,10 +27560,6 @@ translate russian minami_fuck_bathroom_09a56253:
 translate russian minami_fuck_bathroom_011131ce:
     minami.say "О-о-ох..."
 
-# ch/minami/fuck.rpy:2064
-translate russian minami_fuck_bathroom_bb20f95b:
-    minami.say "М-м-м... братик!"
-
 # ch/minami/fuck.rpy:2065
 translate russian minami_fuck_bathroom_c44982fc:
     "Мгновение спустя Минами уже со мной в душе."
@@ -29476,17 +27604,9 @@ translate russian minami_fuck_bathroom_932b75a2:
 translate russian minami_fuck_bathroom_7df764da:
     minami.say "М-м-м..."
 
-# ch/minami/fuck.rpy:2079
-translate russian minami_fuck_bathroom_1af7f405:
-    minami.say "Братик..."
-
 # ch/minami/fuck.rpy:2080
-translate russian minami_fuck_bathroom_2809545c:
+translate russian minami_fuck_bathroom_8d23c4b0:
     minami.say "Войди в меня... пожалуйста!"
-
-# ch/minami/fuck.rpy:2082
-translate russian minami_fuck_bathroom_505925c9:
-    minami.say "Как захочешь, братик. Я твоя, делай со мной что угодно. Всегда."
 
 # ch/minami/fuck.rpy:2084
 translate russian minami_fuck_bathroom_a2ea64fe:
@@ -29543,10 +27663,6 @@ translate russian minami_fuck_bathroom_b27b556e:
 # ch/minami/fuck.rpy:2101
 translate russian minami_fuck_bathroom_7df764da_1:
     minami.say "М-м-м..."
-
-# ch/minami/fuck.rpy:2102
-translate russian minami_fuck_bathroom_880a6d00:
-    minami.say "Хорошо, братик..."
 
 # ch/minami/fuck.rpy:2103
 translate russian minami_fuck_bathroom_68a91366:
@@ -29615,10 +27731,6 @@ translate russian minami_fuck_bathroom_c562e63c:
 # ch/minami/fuck.rpy:2120
 translate russian minami_fuck_bathroom_09a56253_1:
     minami.say "Ах..."
-
-# ch/minami/fuck.rpy:2121
-translate russian minami_fuck_bathroom_1af7f405_1:
-    minami.say "Братик..."
 
 # ch/minami/fuck.rpy:2122
 translate russian minami_fuck_bathroom_f33de821:
@@ -29692,10 +27804,6 @@ translate russian minami_fuck_bathroom_a422dce6:
 translate russian minami_fuck_bathroom_7df764da_2:
     minami.say "М-м-м..."
 
-# ch/minami/fuck.rpy:2154
-translate russian minami_fuck_bathroom_11c77eb4:
-    minami.say "Вот так, братик..."
-
 # ch/minami/fuck.rpy:2155
 translate russian minami_fuck_bathroom_ec3b5e3d:
     minami.say "Именно этого я хочу!"
@@ -29717,12 +27825,8 @@ translate russian minami_fuck_bathroom_09a56253_2:
     minami.say "Ах..."
 
 # ch/minami/fuck.rpy:2161
-translate russian minami_fuck_bathroom_9a541460:
+translate russian minami_fuck_bathroom_02759899:
     minami.say "Да... пожалуйста..."
-
-# ch/minami/fuck.rpy:2162
-translate russian minami_fuck_bathroom_bdabd0d8:
-    minami.say "Трахни меня, братик! Пожалуйста, трахни!"
 
 # ch/minami/fuck.rpy:2164
 translate russian minami_fuck_bathroom_b999df3d:
@@ -29793,11 +27897,11 @@ translate russian minami_fuck_bathroom_09a56253_3:
     minami.say "Ах..."
 
 # ch/minami/fuck.rpy:2181
-translate russian minami_fuck_bathroom_7f22bff7:
+translate russian minami_fuck_bathroom_e8b788ac:
     minami.say "Бра... тик..."
 
 # ch/minami/fuck.rpy:2182
-translate russian minami_fuck_bathroom_96c0ad2a:
+translate russian minami_fuck_bathroom_5bca4407:
     minami.say "Я... сейчас... кончу!"
 
 # ch/minami/fuck.rpy:2183
@@ -29855,10 +27959,6 @@ translate russian minami_fuck_bathroom_541a03e6:
 # ch/minami/fuck.rpy:2209
 translate russian minami_fuck_bathroom_8fc7b58a:
     "Она прижимается щекой к моей груди, обнимая одной рукой округлый живот, по которому стекает тёплая вода."
-
-# ch/minami/fuck.rpy:2210
-translate russian minami_fuck_bathroom_3f5b02c9:
-    minami.say "Прокрадываться к тебе в душ ГОРАЗДО веселее, когда нас трое, братик."
 
 # ch/minami/fuck.rpy:2211
 translate russian minami_fuck_bathroom_a05b63d9:
@@ -30116,10 +28216,6 @@ translate russian minami_birthday_gift_male_e0d2dfc9:
 translate russian minami_birthday_gift_male_8ba2db59:
     mike.say "Надеюсь, тебе понравится мой подарок."
 
-# ch/minami/gift.rpy:142
-translate russian minami_birthday_gift_male_750d166c:
-    minami.say "О-о, братик, ты вспомнил о моём дне рождения!"
-
 # ch/minami/gift.rpy:143
 translate russian minami_birthday_gift_male_04711d45:
     minami.say "Ты и правда ЛУЧШИЙ!"
@@ -30171,10 +28267,6 @@ translate russian minami_christmas_gift_male_01e0bab5:
 # ch/minami/gift.rpy:170
 translate russian minami_christmas_gift_male_330a6f30:
     minami.say "Дома ты всегда забывал!"
-
-# ch/minami/gift.rpy:172
-translate russian minami_christmas_gift_male_3edce1f5:
-    minami.say "Но спасибо, братик. Мило, что теперь вспомнил."
 
 # ch/minami/gift.rpy:173
 translate russian minami_christmas_gift_male_b8ba7032:
@@ -30261,7 +28353,7 @@ translate russian minami_gift_swimsuit_male_45693b0e:
     minami.say "Это СЛИШКОМ откровенно!"
 
 # ch/minami/gift.rpy:223
-translate russian minami_gift_swimsuit_male_6d22fe64:
+translate russian minami_gift_swimsuit_male_ed58cbfe:
     minami.say "Нет... спасибо!"
 
 # ch/minami/gift.rpy:231
@@ -30324,10 +28416,6 @@ translate russian minami_gift_sexy_dress_2_d2ac9c3d:
 translate russian minami_gift_sexy_dress_2_a490bd91:
     "Но она всегда любила красоваться в обновках, а я люблю её баловать."
 
-# ch/minami/gift.rpy:267
-translate russian minami_gift_sexy_dress_2_6a01cbae:
-    minami.say "О-о, братик!"
-
 # ch/minami/gift.rpy:268
 translate russian minami_gift_sexy_dress_2_832ed8a2:
     minami.say "Что это у тебя?"
@@ -30353,16 +28441,12 @@ translate russian minami_gift_sexy_dress_2_eadbef89:
     mike.say "И, возможно, подумал, что это хорошо смотрелось бы на одном человеке."
 
 # ch/minami/gift.rpy:278
-translate russian minami_gift_sexy_dress_2_c0cc0f53:
+translate russian minami_gift_sexy_dress_2_ee9d47d4:
     minami.say "Да... да?"
 
 # ch/minami/gift.rpy:280
 translate russian minami_gift_sexy_dress_2_e0a31fbc:
     mike.say "И, возможно, купил это для того самого человека..."
-
-# ch/minami/gift.rpy:282
-translate russian minami_gift_sexy_dress_2_d315bf85:
-    minami.say "Ну братик, ты меня замучил!"
 
 # ch/minami/gift.rpy:284
 translate russian minami_gift_sexy_dress_2_36e478ca:
@@ -30405,7 +28489,7 @@ translate russian minami_gift_sexy_dress_2_eec79cae:
     minami.say "Ого..."
 
 # ch/minami/gift.rpy:296
-translate russian minami_gift_sexy_dress_2_7475dbc8:
+translate russian minami_gift_sexy_dress_2_b0318d28:
     minami.say "Это... это..."
 
 # ch/minami/gift.rpy:297
@@ -30456,12 +28540,8 @@ translate russian minami_gift_sexy_dress_2_985acccd:
 translate russian minami_gift_sexy_dress_2_889ce998:
     "Минами знает, как сильно я хочу увидеть её в этом чёртовом платье!"
 
-# ch/minami/gift.rpy:312
-translate russian minami_gift_sexy_dress_2_fd767ac9:
-    minami.say "Ты уже представляешь меня в нём, да, братик?"
-
 # ch/minami/gift.rpy:313
-translate russian minami_gift_sexy_dress_2_0b8f20d5:
+translate russian minami_gift_sexy_dress_2_e5286b77:
     minami.say "М-м-м... такое взрослое, совсем не похоже на то, что я обычно ношу."
 
 # ch/minami/gift.rpy:314
@@ -30479,10 +28559,6 @@ translate russian minami_gift_sexy_dress_2_235fbf30:
 # ch/minami/gift.rpy:319
 translate russian minami_gift_sexy_dress_2_68eebd3a:
     minami.say "В этом платье ты бы видел всё."
-
-# ch/minami/gift.rpy:320
-translate russian minami_gift_sexy_dress_2_95c3c69a:
-    minami.say "Каждый сантиметр меня был бы напоказ, братик."
 
 # ch/minami/gift.rpy:322
 translate russian minami_gift_sexy_dress_2_a4fb70af:
@@ -30504,10 +28580,6 @@ translate russian minami_gift_sexy_dress_2_63387652:
 translate russian minami_gift_sexy_dress_2_c15d21e9:
     "И я не могу не заметить, как она трётся о мой пах!"
 
-# ch/minami/gift.rpy:329
-translate russian minami_gift_sexy_dress_2_1ee85a7c:
-    minami.say "О, спасибо, братик!"
-
 # ch/minami/gift.rpy:330
 translate russian minami_gift_sexy_dress_2_ee8efa9f:
     minami.say "Не терпится надеть его для тебя!"
@@ -30523,10 +28595,6 @@ translate russian minami_gift_sexy_dress_2_b8d7e544:
 # ch/minami/gift.rpy:342
 translate russian minami_gift_sexy_dress_2_fc801987:
     minami.say "Фу!"
-
-# ch/minami/gift.rpy:343
-translate russian minami_gift_sexy_dress_2_4b54a85c:
-    minami.say "Не могу такое носить, братик."
 
 # ch/minami/gift.rpy:344
 translate russian minami_gift_sexy_dress_2_619bed64:
@@ -30549,7 +28617,7 @@ translate russian minami_gift_sexy_dress_2_ad4484be:
     "Я тоже киваю, стараясь скрыть разочарование."
 
 # ch/minami/gift.rpy:353
-translate russian minami_gift_sexy_dress_2_faf06c23:
+translate russian minami_gift_sexy_dress_2_a05e6ddb:
     mike.say "Д-да, Минами."
 
 # ch/minami/gift.rpy:354
@@ -30624,10 +28692,6 @@ translate russian minami_gift_collar_male_592c0c27:
 translate russian minami_gift_collar_male_af36dc95:
     "Не стану заранее забивать голову мрачными мыслями."
 
-# ch/minami/gift.rpy:384
-translate russian minami_gift_collar_male_309fcd6b:
-    minami.say "Привет, братик!"
-
 # ch/minami/gift.rpy:385
 translate russian minami_gift_collar_male_1d53da61:
     minami.say "Я пришла, как только смогла."
@@ -30657,7 +28721,7 @@ translate russian minami_gift_collar_male_9dfdbc7d:
     "Теперь же понимаю, насколько упорно всё отрицал: то, что у нас есть, ощущается так естественно и правильно."
 
 # ch/minami/gift.rpy:393
-translate russian minami_gift_collar_male_dd413605:
+translate russian minami_gift_collar_male_64d377fc:
     mike.say "У... у меня кое-что для тебя, Минами."
 
 # ch/minami/gift.rpy:394
@@ -30672,10 +28736,6 @@ translate russian minami_gift_collar_male_6829ada3:
 translate russian minami_gift_collar_male_e10212a9:
     minami.say "Ого!"
 
-# ch/minami/gift.rpy:400
-translate russian minami_gift_collar_male_134275bf:
-    minami.say "Как мило с твоей стороны, братик!"
-
 # ch/minami/gift.rpy:401
 translate russian minami_gift_collar_male_3a3c0e3c:
     "К моему удивлению, в уголках её глаз собираются слёзы."
@@ -30689,23 +28749,19 @@ translate russian minami_gift_collar_male_c633af0c:
     mike.say "Ты в порядке?"
 
 # ch/minami/gift.rpy:404
-translate russian minami_gift_collar_male_fb9251f3:
+translate russian minami_gift_collar_male_d95a06c7:
     minami.say "Ох... что..."
 
 # ch/minami/gift.rpy:406
 translate russian minami_gift_collar_male_3b1bbbec:
     "Минами качает головой и поспешно вытирает слёзы."
 
-# ch/minami/gift.rpy:408
-translate russian minami_gift_collar_male_959d5b12:
-    minami.say "Ничего, братик."
-
 # ch/minami/gift.rpy:409
 translate russian minami_gift_collar_male_d950c7d3:
     minami.say "Просто мне ещё никто не дарил таких украшений!"
 
 # ch/minami/gift.rpy:410
-translate russian minami_gift_collar_male_ad951efb:
+translate russian minami_gift_collar_male_c34f0e6c:
     minami.say "Наверное... наверное, никто не любил меня так, как ты!"
 
 # ch/minami/gift.rpy:412
@@ -30777,7 +28833,7 @@ translate russian minami_gift_collar_male_2a0d8a3c:
     minami.say "Нет-нет-нет..."
 
 # ch/minami/gift.rpy:433
-translate russian minami_gift_collar_male_6cd39ebe:
+translate russian minami_gift_collar_male_a41a57d6:
     minami.say "Просто... он слишком выделяется на фоне моего наряда. Вот!"
 
 # ch/minami/gift.rpy:434
@@ -30801,7 +28857,7 @@ translate russian minami_gift_collar_male_b64220cd:
     "Похоже, я серьёзно просчитался!"
 
 # ch/minami/gift.rpy:440
-translate russian minami_gift_collar_male_1abc49f1:
+translate russian minami_gift_collar_male_6e71f9c4:
     mike.say "Ну... он твой, Минами. Делай с ним что хочешь."
 
 # ch/minami/gift.rpy:441
@@ -30876,10 +28932,6 @@ translate russian minami_gift_collar_male_d9bfdf1a:
 translate russian minami_gift_collar_male_3f45fbcd:
     "Словно мои слова возбуждают её сильнее прежнего."
 
-# ch/minami/gift.rpy:470
-translate russian minami_gift_collar_male_9e680d55:
-    minami.say "Ох, братик..."
-
 # ch/minami/gift.rpy:471
 translate russian minami_gift_collar_male_2631ac0d:
     minami.say "Я никогда ничего не хотела так сильно!"
@@ -30887,10 +28939,6 @@ translate russian minami_gift_collar_male_2631ac0d:
 # ch/minami/gift.rpy:473
 translate russian minami_gift_collar_male_369dd22f:
     "Минами на мгновение умолкает и смущённо опускает взгляд."
-
-# ch/minami/gift.rpy:474
-translate russian minami_gift_collar_male_8a67c054:
-    minami.say "Эм, братик?"
 
 # ch/minami/gift.rpy:475
 translate russian minami_gift_collar_male_989adbb5:
@@ -30932,10 +28980,6 @@ translate russian minami_gift_butt_plug_male_50f01584:
 translate russian minami_ice_cream_reaction_male_f6da3291:
     mike.say "Здесь почти невыносимо жарко, Минами. Нам нужно мороженое, и срочно!"
 
-# ch/minami/reactions.rpy:3
-translate russian minami_ice_cream_reaction_male_505b38e5:
-    minami.say "Ты прав, братик! Пойдём к киоску с мороженым!"
-
 # ch/minami/reactions.rpy:4
 translate russian minami_ice_cream_reaction_male_73a4ddd7:
     "У киоска с мороженым я покупаю рожок с парой разных шариков."
@@ -30947,10 +28991,6 @@ translate russian minami_ice_cream_reaction_male_44d5eeca:
 # ch/minami/reactions.rpy:6
 translate russian minami_ice_cream_reaction_male_568940c2:
     mike.say "Эй, ты за мной повторяешь?"
-
-# ch/minami/reactions.rpy:7
-translate russian minami_ice_cream_reaction_male_0d285a6c:
-    minami.say "Нет, братик! Это ты за МНОЙ повторяешь?"
 
 # ch/minami/reactions.rpy:8
 translate russian minami_ice_cream_reaction_male_429ece92:
@@ -31004,10 +29044,6 @@ translate russian minami_study_with_intro_male_76e4d3ec:
 translate russian minami_study_with_intro_male_e81f7a2e:
     "Может, поэтому я и вызвался помочь."
 
-# ch/minami/reactions.rpy:29
-translate russian minami_study_with_intro_male_2f7c9f13:
-    minami.say "Спасибо за помощь, братик."
-
 # ch/minami/reactions.rpy:30
 translate russian minami_study_with_intro_male_3cc0639c:
     minami.say "Мне СТОЛЬКО всего нужно сделать!"
@@ -31056,10 +29092,6 @@ translate russian minami_study_with_intro_male_6df0f369:
 translate russian minami_study_with_intro_male_130d8e9d:
     mike.say "Сложноват для первого семестра!"
 
-# ch/minami/reactions.rpy:42
-translate russian minami_study_with_intro_male_91d2bd51:
-    minami.say "Ну конечно, братик!"
-
 # ch/minami/reactions.rpy:43
 translate russian minami_study_with_intro_male_4b2a4c6f:
     minami.say "Мы по нему на лекциях занимаемся."
@@ -31075,10 +29107,6 @@ translate russian minami_study_with_intro_male_acd8a673:
 # ch/minami/reactions.rpy:46
 translate russian minami_study_with_intro_male_c6284eb2:
     mike.say "Да нет, всё нормально!"
-
-# ch/minami/reactions.rpy:47
-translate russian minami_study_with_intro_male_0d5d3845:
-    minami.say "Вот и хорошо, братик."
 
 # ch/minami/reactions.rpy:48
 translate russian minami_study_with_intro_male_7c5f6c4c:
@@ -31180,10 +29208,6 @@ translate russian minami_study_with_success_male_c11177cd:
 translate russian minami_study_with_success_male_ec4da588:
     minami.say "Я уж думала, с ума схожу!"
 
-# ch/minami/reactions.rpy:81
-translate russian minami_study_with_success_male_69c3dc82:
-    minami.say "Ты такой УМНЫЙ, братик!"
-
 # ch/minami/reactions.rpy:82
 translate russian minami_study_with_success_male_fe060bec:
     minami.say "Самый умный парень из всех, кого я знаю!"
@@ -31228,10 +29252,6 @@ translate russian minami_study_with_failure_male_e3de74c9:
 translate russian minami_study_with_failure_male_0307a2bb:
     mike.say "Мне просто нужно..."
 
-# ch/minami/reactions.rpy:96
-translate russian minami_study_with_failure_male_1af7f405:
-    minami.say "Братик..."
-
 # ch/minami/reactions.rpy:97
 translate russian minami_study_with_failure_male_35ad138c:
     minami.say "Ты ведь ничего не понимаешь, да?"
@@ -31264,10 +29284,6 @@ translate russian minami_study_with_failure_male_63f571c9:
 translate russian minami_study_with_failure_male_d42ba8ff:
     "Она скрещивает руки на груди и выглядит недовольной."
 
-# ch/minami/reactions.rpy:105
-translate russian minami_study_with_failure_male_3bbbf4f0:
-    minami.say "Ты врёшь, братик, я чувствую."
-
 # ch/minami/reactions.rpy:106
 translate russian minami_study_with_failure_male_41ef0227:
     minami.say "Угх..."
@@ -31283,10 +29299,6 @@ translate russian minami_study_with_failure_male_e3bde564:
 # ch/minami/reactions.rpy:109
 translate russian minami_study_with_failure_male_200eb25b:
     mike.say "Эй!"
-
-# ch/minami/reactions.rpy:110
-translate russian minami_study_with_failure_male_7afcf2f2:
-    minami.say "Да хватит, братик."
 
 # ch/minami/reactions.rpy:111
 translate russian minami_study_with_failure_male_4f0ed1dc:
@@ -31304,17 +29316,9 @@ translate russian minami_ask_phone_male_2891a1f5:
 translate russian minami_ask_phone_male_9d923112:
     minami.say "Что?!"
 
-# ch/minami/reactions.rpy:121
-translate russian minami_ask_phone_male_87bf0b12:
-    minami.say "Разве я тебе его не давала, братик?"
-
 # ch/minami/reactions.rpy:122
 translate russian minami_ask_phone_male_79b92ed8:
     minami.say "Вот я дурочка — держи!"
-
-# ch/minami/reactions.rpy:127
-translate russian minami_ask_phone_male_784a7fb8:
-    minami.say "Да, я знаю, братик."
 
 # ch/minami/reactions.rpy:128
 translate russian minami_ask_phone_male_20031f36:
@@ -31336,20 +29340,12 @@ translate russian minami_ask_birthday_male_8accfd98:
 translate russian minami_ask_birthday_male_7054361d:
     mike.say "Когда у тебя день рождения?"
 
-# ch/minami/reactions.rpy:139
-translate russian minami_ask_birthday_male_8d5b240e:
-    minami.say "Ох, братик, какой же ты забывчивый!"
-
 # ch/minami/reactions.rpy:140
 translate russian minami_ask_birthday_male_d3bcc741:
     minami.say "Конечно же, 25-го числа лета!"
 
-# ch/minami/reactions.rpy:145
-translate russian minami_ask_birthday_male_cf5c10a3:
-    minami.say "Ох, братик, какой же ты рассеянный!"
-
 # ch/minami/reactions.rpy:146
-translate russian minami_ask_birthday_male_afc23b18:
+translate russian minami_ask_birthday_male_87319d15:
     minami.say "Я тебе уже сто раз говорила... Да скорее тысячу!"
 
 # ch/minami/reactions.rpy:147
@@ -31368,10 +29364,6 @@ translate russian minami_offer_a_drink_male_4053fade:
 translate russian minami_offer_a_drink_male_4a6bc532:
     "Едва я успеваю это произнести, Минами поворачивается ко мне."
 
-# ch/minami/reactions.rpy:157
-translate russian minami_offer_a_drink_male_33b341ec:
-    minami.say "Мне нельзя пиво, братик!"
-
 # ch/minami/reactions.rpy:158
 translate russian minami_offer_a_drink_male_32e9d13f:
     minami.say "Это вредно для малыша."
@@ -31383,10 +29375,6 @@ translate russian minami_offer_a_drink_male_86eb6250:
 # ch/minami/reactions.rpy:164
 translate russian minami_offer_a_drink_male_cc0cb61c:
     minami.say "О-о..."
-
-# ch/minami/reactions.rpy:165
-translate russian minami_offer_a_drink_male_dc35049c:
-    minami.say "Спасибо, братик."
 
 # ch/minami/reactions.rpy:167
 translate russian minami_offer_a_drink_male_572942e0:
@@ -31419,10 +29407,6 @@ translate russian minami_offer_a_drink_male_8b711a6e:
 # ch/minami/reactions.rpy:191
 translate russian minami_offer_a_drink_male_41ef0227:
     minami.say "Угх..."
-
-# ch/minami/reactions.rpy:193
-translate russian minami_offer_a_drink_male_26e7fca3:
-    minami.say "Я уже не маленькая, братик!"
 
 # ch/minami/reactions.rpy:194
 translate russian minami_offer_a_drink_male_fb61e748:
@@ -31476,10 +29460,6 @@ translate russian minami_slap_ass_happy_male_71a0f3bc:
 translate russian minami_slap_ass_happy_male_4fd3c69e:
     "А потом поворачивается ко мне с раскрасневшимися щеками."
 
-# ch/minami/reactions.rpy:221
-translate russian minami_slap_ass_happy_male_5645b33c:
-    minami.say "Братик!"
-
 # ch/minami/reactions.rpy:222
 translate russian minami_slap_ass_happy_male_16d75c5f:
     minami.say "Ты только что..."
@@ -31495,10 +29475,6 @@ translate russian minami_slap_ass_happy_male_c2c46eb7:
 # ch/minami/reactions.rpy:225
 translate russian minami_slap_ass_happy_male_6feec929:
     "Минами тоже улыбается и смущённо опускает глаза."
-
-# ch/minami/reactions.rpy:226
-translate russian minami_slap_ass_happy_male_654e7787:
-    minami.say "Всё... всё нормально, братик."
 
 # ch/minami/reactions.rpy:227
 translate russian minami_slap_ass_happy_male_f1892061:
@@ -31544,10 +29520,6 @@ translate russian minami_slap_ass_angry_male_71a0f3bc:
 translate russian minami_slap_ass_angry_male_4fd3c69e:
     "А потом поворачивается ко мне с раскрасневшимися щеками."
 
-# ch/minami/reactions.rpy:247
-translate russian minami_slap_ass_angry_male_5645b33c:
-    minami.say "Братик!"
-
 # ch/minami/reactions.rpy:248
 translate russian minami_slap_ass_angry_male_16d75c5f:
     minami.say "Ты только что..."
@@ -31565,7 +29537,7 @@ translate russian minami_slap_ass_angry_male_7dc5b2be:
     "Минами хмурится и краснеет ещё сильнее."
 
 # ch/minami/reactions.rpy:252
-translate russian minami_slap_ass_angry_male_bef65b4a:
+translate russian minami_slap_ass_angry_male_3fd47848:
     minami.say "Ну... ну ты..."
 
 # ch/minami/reactions.rpy:253
@@ -31628,10 +29600,6 @@ translate russian minami_breakup_male_9b219480:
 translate russian minami_breakup_male_f5c6090d:
     "По её лицу видно: она уже решила, что новости плохие."
 
-# ch/minami/reactions.rpy:279
-translate russian minami_breakup_male_c9851249:
-    minami.say "О нет, братик!"
-
 # ch/minami/reactions.rpy:280
 translate russian minami_breakup_male_42a8c64d:
     minami.say "Сейчас будет паршиво!"
@@ -31649,12 +29617,8 @@ translate russian minami_breakup_male_0e7a37b8:
     "Всеми силами стараюсь изобразить недоумение от её реакции."
 
 # ch/minami/reactions.rpy:285
-translate russian minami_breakup_male_0390c386:
+translate russian minami_breakup_male_61ae025c:
     mike.say "Я... я ведь ещё ничего не сказал, Минами!"
-
-# ch/minami/reactions.rpy:287
-translate russian minami_breakup_male_4f5d7513:
-    minami.say "И не надо, братик."
 
 # ch/minami/reactions.rpy:288
 translate russian minami_breakup_male_05da2e22:
@@ -31700,10 +29664,6 @@ translate russian minami_breakup_male_3370c948:
 translate russian minami_breakup_male_94444d55:
     "Минами смотрит на меня в изумлении."
 
-# ch/minami/reactions.rpy:302
-translate russian minami_breakup_male_95d41436:
-    minami.say "А как это может быть хорошо, братик?"
-
 # ch/minami/reactions.rpy:303
 translate russian minami_breakup_male_0131dbf8:
     minami.say "Мы из брата с сестрой превратились в любовников!"
@@ -31712,10 +29672,6 @@ translate russian minami_breakup_male_0131dbf8:
 translate russian minami_breakup_male_4ea0f92e:
     mike.say "Э-э... с ПРИЁМНОЙ сестрой!"
 
-# ch/minami/reactions.rpy:307
-translate russian minami_breakup_male_aa9e8556:
-    minami.say "Какая разница, братик!"
-
 # ch/minami/reactions.rpy:308
 translate russian minami_breakup_male_c6433d1e:
     minami.say "Назад уже не вернуться, после такого-то!"
@@ -31723,10 +29679,6 @@ translate russian minami_breakup_male_c6433d1e:
 # ch/minami/reactions.rpy:310
 translate russian minami_breakup_male_421e2700_1:
     mike.say "Минами..."
-
-# ch/minami/reactions.rpy:312
-translate russian minami_breakup_male_e061ce40:
-    minami.say "Оставь меня одну, братик."
 
 # ch/minami/reactions.rpy:313
 translate russian minami_breakup_male_63793563:
@@ -31768,10 +29720,6 @@ translate russian minami_go_steady_intro_male_0a3554b8:
 translate russian minami_go_steady_intro_male_bbcb24cb:
     "Странно спрашивать такое у младшей сестры. Я почти жду, что она поднимет меня на смех."
 
-# ch/minami/reactions.rpy:336
-translate russian minami_go_steady_yes_male_894fbf24:
-    minami.say "Ты читаешь мои мысли, братик!"
-
 # ch/minami/reactions.rpy:337
 translate russian minami_go_steady_yes_male_2481cd07:
     minami.say "И какая разница, что подумают другие?"
@@ -31807,10 +29755,6 @@ translate russian minami_go_steady_yes_male_79c9f6c7:
 # ch/minami/reactions.rpy:353
 translate russian minami_go_steady_yes_male_0d4a0443:
     "Я со смехом подхватываю её, всё ещё отчасти убеждая себя, что братья и сёстры так и делают."
-
-# ch/minami/reactions.rpy:358
-translate russian minami_go_steady_no_male_94d0a1fd:
-    minami.say "Думаю, я пока не готова, братик."
 
 # ch/minami/reactions.rpy:359
 translate russian minami_go_steady_no_male_2ade1e9d:
@@ -31877,16 +29821,12 @@ translate russian minami_pet_intro_male_c44fd080:
     "Я уже сотни раз так гладил младшую сестру по голове."
 
 # ch/minami/reactions.rpy:392
-translate russian minami_pet_happy_male_de7e237f:
+translate russian minami_pet_happy_male_e4ac3335:
     minami.say "О... ты погладил меня по голове!"
 
 # ch/minami/reactions.rpy:393
 translate russian minami_pet_happy_male_0de32f22:
     minami.say "Значит, ты мной очень доволен."
-
-# ch/minami/reactions.rpy:394
-translate russian minami_pet_happy_male_64fb3049:
-    minami.say "Правда, братик?"
 
 # ch/minami/reactions.rpy:396
 translate russian minami_pet_happy_male_6ac481f2:
@@ -31907,10 +29847,6 @@ translate russian minami_pet_happy_male_572b095c:
 # ch/minami/reactions.rpy:404
 translate russian minami_pet_happy_male_cdf49531:
     "Просто моя младшая сестра счастлива, что старший брат ею доволен."
-
-# ch/minami/reactions.rpy:408
-translate russian minami_pet_annoyed_male_309fcd6b:
-    minami.say "Эй, братик!"
 
 # ch/minami/reactions.rpy:409
 translate russian minami_pet_annoyed_male_8cc323c2:
@@ -31997,12 +29933,8 @@ translate russian minami_massage_accept_male_4725ebcd:
     minami.say "Просто скажи, как мне устроиться, и я не шелохнусь."
 
 # ch/minami/reactions.rpy:449
-translate russian minami_massage_accept_male_ad1c1892:
+translate russian minami_massage_accept_male_a8b3d860:
     minami.say "У-у... ай!"
-
-# ch/minami/reactions.rpy:450
-translate russian minami_massage_accept_male_8b24230c:
-    minami.say "Ты прав, братик!"
 
 # ch/minami/reactions.rpy:451
 translate russian minami_massage_accept_male_790a1224:
@@ -32040,10 +29972,6 @@ translate russian minami_massage_refuse_male_3cae00f8:
 translate russian minami_massage_refuse_male_51c67d75:
     minami.say "Ты просто ищешь предлог."
 
-# ch/minami/reactions.rpy:468
-translate russian minami_massage_refuse_male_8d940439:
-    minami.say "Ничего не выйдет, братик."
-
 # ch/minami/reactions.rpy:469
 translate russian minami_massage_refuse_male_41f91a34:
     minami.say "Руки ко мне не протянешь!"
@@ -32067,10 +29995,6 @@ translate russian minami_massage_refuse_male_3b626f51:
 # ch/minami/reactions.rpy:479
 translate russian minami_massage_refuse_male_65a1c4d9:
     "Я поднимаю руки, сражённый острым язычком младшей сестры. Она всегда видела меня насквозь."
-
-# ch/minami/reactions.rpy:483
-translate russian minami_piercing_nipples_reaction_male_132bf5a7:
-    minami.say "Ох, братик, они мне так нравятся!"
 
 # ch/minami/reactions.rpy:484
 translate russian minami_piercing_nipples_reaction_male_94482b68:
@@ -32101,12 +30025,8 @@ translate russian minami_piercing_nipples_reaction_male_7d7c6088:
     "Ей просто не терпится поделиться со старшим братом очередной безумной затеей. Вся в этом она."
 
 # ch/minami/reactions.rpy:499
-translate russian minami_piercing_navel_reaction_male_85beaedd:
+translate russian minami_piercing_navel_reaction_male_104b6978:
     minami.say "О-о... с этой штучкой мой пупок такой милый!"
-
-# ch/minami/reactions.rpy:500
-translate russian minami_piercing_navel_reaction_male_b119f9c8:
-    minami.say "Спасибо, что уговорил меня, братик."
 
 # ch/minami/reactions.rpy:501
 translate russian minami_piercing_navel_reaction_male_333d3dcf:
@@ -32132,16 +30052,12 @@ translate russian minami_piercing_navel_reaction_male_7f8dd529:
 translate russian minami_piercing_navel_reaction_male_c231e56e:
     "Она просто гордится симпатичным новым пирсингом и уже строит планы на лето."
 
-# ch/minami/reactions.rpy:515
-translate russian minami_piercing_clit_reaction_male_49ba79ee:
-    minami.say "Ох, братик!"
-
 # ch/minami/reactions.rpy:516
 translate russian minami_piercing_clit_reaction_male_5cd68204:
     minami.say "Я всё ещё чувствую его там!"
 
 # ch/minami/reactions.rpy:517
-translate russian minami_piercing_clit_reaction_male_3cc1f27f:
+translate russian minami_piercing_clit_reaction_male_3b05239c:
     minami.say "И это... это меня возбуждает!"
 
 # ch/minami/reactions.rpy:519
@@ -32163,10 +30079,6 @@ translate russian minami_piercing_clit_reaction_male_bbf68e74:
 # ch/minami/reactions.rpy:527
 translate russian minami_piercing_clit_reaction_male_ce7d6882:
     "Она просто, как всегда, эпатирует и говорит всё, что взбредёт в голову."
-
-# ch/minami/reactions.rpy:531
-translate russian minami_piercing_head_reaction_male_654d297e:
-    minami.say "Ох, братик, теперь хочется всем показывать язык!"
 
 # ch/minami/reactions.rpy:532
 translate russian minami_piercing_head_reaction_male_62e96985:
@@ -32197,12 +30109,8 @@ translate russian minami_piercing_head_reaction_male_7f7737dc:
     "Ей просто нравится шокировать людей, как и всегда. Сплошное озорство."
 
 # ch/minami/reactions.rpy:547
-translate russian minami_piercing_nose_reaction_male_60a216cb:
+translate russian minami_piercing_nose_reaction_male_1aba01de:
     minami.say "О-о... как же МИЛО смотрится!"
-
-# ch/minami/reactions.rpy:548
-translate russian minami_piercing_nose_reaction_male_43c1d10c:
-    minami.say "Я всегда о таком мечтала, братик!"
 
 # ch/minami/reactions.rpy:549
 translate russian minami_piercing_nose_reaction_male_98682a3f:
@@ -32233,7 +30141,7 @@ translate russian minami_piercing_nose_reaction_male_7870e08f:
     "Она любит меня так, как младшая сестра любит брата, который её балует."
 
 # ch/minami/reactions.rpy:564
-translate russian minami_movie_disliked_reaction_male_1db25057:
+translate russian minami_movie_disliked_reaction_male_abb72f58:
     minami.say "Фу... ужасный фильм! Он мне даже впечатление от оригинала испортил!"
 
 # ch/minami/reactions.rpy:566
@@ -32256,10 +30164,6 @@ translate russian minami_movie_disliked_reaction_male_b938a3ef:
 translate russian minami_movie_disliked_reaction_male_feef2590:
     "Моя младшая сестра просто с жаром разносит очередной фильм, как обычно."
 
-# ch/minami/reactions.rpy:578
-translate russian minami_movie_indifferent_reaction_male_e9ae5e9c:
-    minami.say "Ну, всё такое... никакое и вообще. Понимаешь, братик?"
-
 # ch/minami/reactions.rpy:580
 translate russian minami_movie_indifferent_reaction_male_6abde02d:
     "Не помню ни одного кадра. Все два часа я слишком остро ощущал тепло её тела рядом со мной в темноте."
@@ -32281,7 +30185,7 @@ translate russian minami_movie_indifferent_reaction_male_b3814329:
     "Просто ленивый день в кино с младшей сестрой."
 
 # ch/minami/reactions.rpy:592
-translate russian minami_movie_liked_reaction_male_557447f8:
+translate russian minami_movie_liked_reaction_male_4c730dcc:
     minami.say "О... боже... мой... Лучший фильм ВСЕХ ВРЕМЁН!"
 
 # ch/minami/reactions.rpy:594
@@ -32380,10 +30284,6 @@ translate russian minami_belly_kiss_male_e6cf01dd:
 translate russian minami_belly_kiss_male_5c9d9855:
     "А когда начинает радостно хихикать, я понимаю, что добился своего."
 
-# ch/minami/reactions.rpy:638
-translate russian minami_belly_caress_male_11b56dee:
-    minami.say "Братик..."
-
 # ch/minami/reactions.rpy:639
 translate russian minami_belly_caress_male_50f28139:
     minami.say "Скорее сюда!"
@@ -32452,10 +30352,6 @@ translate russian minami_belly_caress_male_f98a0f95:
 translate russian minami_belly_caress_male_3ca9e26a:
     "Минами радостно кивает, сияя улыбкой."
 
-# ch/minami/reactions.rpy:662
-translate russian minami_belly_caress_male_f55e3372:
-    minami.say "Да, братик..."
-
 # ch/minami/reactions.rpy:663
 translate russian minami_belly_caress_male_864f0fbb:
     minami.say "Это малыш шевелится у меня внутри."
@@ -32479,10 +30375,6 @@ translate russian minami_belly_listen_male_584bc68f:
 # ch/minami/reactions.rpy:674
 translate russian minami_belly_listen_male_a032d240:
     "Минами удивлённо смотрит на меня."
-
-# ch/minami/reactions.rpy:676
-translate russian minami_belly_listen_male_0a6afd87:
-    minami.say "Что ты задумал, братик?"
 
 # ch/minami/reactions.rpy:677
 translate russian minami_belly_listen_male_a56bc4a7:
@@ -32556,16 +30448,12 @@ translate russian minami_belly_listen_male_9c9c75b8:
 translate russian minami_belly_listen_male_4771d224:
     mike.say "Ого..."
 
-# ch/minami/reactions.rpy:703
-translate russian minami_belly_listen_male_ac7c705e:
-    minami.say "Что там, братик?"
-
 # ch/minami/reactions.rpy:704
 translate russian minami_belly_listen_male_390b4261:
     minami.say "Что ты слышишь?"
 
 # ch/minami/reactions.rpy:706
-translate russian minami_belly_listen_male_6576ac24:
+translate russian minami_belly_listen_male_681828ec:
     mike.say "Я... кажется, малыш читает Шекспира!"
 
 # ch/minami/reactions.rpy:708
@@ -32581,7 +30469,7 @@ translate russian minami_belly_listen_male_4bd5c8e3:
     mike.say "Я пошутил."
 
 # ch/minami/reactions.rpy:712
-translate russian minami_belly_listen_male_cee5b827:
+translate russian minami_belly_listen_male_dbfedec9:
     mike.say "Еле слышно... немного похоже на пение китов."
 
 # ch/minami/reactions.rpy:714
@@ -32608,16 +30496,12 @@ translate russian minami_talk_love_male_dc891ec9:
 translate russian minami_talk_love_male_c4ae767c:
     "Минами прищуривается и легонько бьёт меня по руке."
 
-# ch/minami/talk.rpy:7
-translate russian minami_talk_love_male_4e649eb3:
-    minami.say "Ну конечно, переросла, братик!"
-
 # ch/minami/talk.rpy:8
 translate russian minami_talk_love_male_8699738d:
     minami.say "Я уже не маленькая девочка!"
 
 # ch/minami/talk.rpy:11
-translate russian minami_talk_love_male_d75e05d5:
+translate russian minami_talk_love_male_a5fe7ac4:
     minami.say "Ну... посмотри на меня сейчас, [lssb_minami.hero_name()]."
 
 # ch/minami/talk.rpy:12
@@ -32625,7 +30509,7 @@ translate russian minami_talk_love_male_d2a1a649:
     minami.say "Та, кто носит ТВОЕГО ребёнка, точно не считает любовь гадостью!"
 
 # ch/minami/talk.rpy:15
-translate russian minami_talk_love_male_cbe8a927:
+translate russian minami_talk_love_male_81aeb030:
     minami.say "И вообще... я бы всё сделала, чтобы ты был счастлив, [lssb_minami.hero_name()]."
 
 # ch/minami/talk.rpy:16
@@ -32661,23 +30545,19 @@ translate russian minami_talk_sex_male_02de5b61:
     mike.say "Но мама с папой провели с тобой ту же беседу, что и со мной перед переездом?"
 
 # ch/minami/talk.rpy:33
-translate russian minami_talk_sex_male_abb98b67:
+translate russian minami_talk_sex_male_92e2ea58:
     mike.say "Ну... ту самую... про секс?"
 
 # ch/minami/talk.rpy:35
 translate russian minami_talk_sex_male_296ab6d8:
     "Минами краснеет, но всё равно улыбается."
 
-# ch/minami/talk.rpy:37
-translate russian minami_talk_sex_male_290b0023:
-    minami.say "Братик, ты меня УЖАСНО смущаешь!"
-
 # ch/minami/talk.rpy:38
 translate russian minami_talk_sex_male_3e02dec9:
     minami.say "Тебе незачем знать о ТАКОМ!"
 
 # ch/minami/talk.rpy:41
-translate russian minami_talk_sex_male_0705bbf9:
+translate russian minami_talk_sex_male_11981589:
     minami.say "Хотя... животик, наверное, всё выдаёт, да?"
 
 # ch/minami/talk.rpy:42
@@ -32689,7 +30569,7 @@ translate russian minami_talk_sex_male_3bba5e2e:
     minami.say "Лучше бы ты сам меня всему научил, [lssb_minami.hero_name()]."
 
 # ch/minami/talk.rpy:46
-translate russian minami_talk_sex_male_b3c20a47:
+translate russian minami_talk_sex_male_69049506:
     minami.say "Я хочу научиться всему... так, как ты захочешь."
 
 # ch/minami/talk.rpy:48
@@ -32717,7 +30597,7 @@ translate russian minami_talk_politics_male_02183c7a:
     mike.say "Когда я ещё жил дома, новости и газеты тебя ужасно утомляли."
 
 # ch/minami/talk.rpy:62
-translate russian minami_talk_politics_male_2824846c:
+translate russian minami_talk_politics_male_2ac3d23c:
     mike.say "Сейчас тебя больше интересуют такие вещи, как, скажем... политика?"
 
 # ch/minami/talk.rpy:64
@@ -32725,7 +30605,7 @@ translate russian minami_talk_politics_male_26bed49c:
     "Минами закатывает глаза и качает головой."
 
 # ch/minami/talk.rpy:66
-translate russian minami_talk_politics_male_2c9d0ab0:
+translate russian minami_talk_politics_male_87a9e076:
     minami.say "Фу... это ТАК скучно."
 
 # ch/minami/talk.rpy:67
@@ -32747,10 +30627,6 @@ translate russian minami_talk_food_male_0e61ddc6:
 # ch/minami/talk.rpy:76
 translate russian minami_talk_food_male_b6231e77:
     "От этого вопроса глаза Минами загораются."
-
-# ch/minami/talk.rpy:77
-translate russian minami_talk_food_male_1f1cef9a:
-    minami.say "О да, братик! Я хочу попробовать ВСЁ!"
 
 # ch/minami/talk.rpy:78
 translate russian minami_talk_food_male_a73fb804:
@@ -32779,10 +30655,6 @@ translate russian minami_talk_travels_male_83164984:
 # ch/minami/talk.rpy:91
 translate russian minami_talk_travels_male_8ec1c0cc:
     "Минами мило улыбается и придвигается ко мне."
-
-# ch/minami/talk.rpy:93
-translate russian minami_talk_travels_male_8a4d2755:
-    minami.say "Мне всё равно, где быть, братик."
 
 # ch/minami/talk.rpy:94
 translate russian minami_talk_travels_male_2e842b96:
@@ -32865,7 +30737,7 @@ translate russian minami_talk_fashion_male_d2d8a2af:
     minami.say "Мне нравится шокировать!"
 
 # ch/minami/talk.rpy:137
-translate russian minami_talk_fashion_male_9091d99f:
+translate russian minami_talk_fashion_male_82b29db2:
     minami.say "Хотя... если бы ты сказал, что надеть, [lssb_minami.hero_name()], я бы надела."
 
 # ch/minami/talk.rpy:138
@@ -32904,10 +30776,6 @@ translate russian minami_talk_books_male_838810f4:
 translate russian minami_talk_books_male_0a8e93ab:
     "Минами улыбается моему интересу к её читательским привычкам."
 
-# ch/minami/talk.rpy:157
-translate russian minami_talk_books_male_4ce2e607:
-    minami.say "Ты же меня знаешь, братик."
-
 # ch/minami/talk.rpy:158
 translate russian minami_talk_books_male_434abce0:
     minami.say "Либо манга, либо учебник!"
@@ -32927,10 +30795,6 @@ translate russian minami_talk_people_male_b07b5a8a:
 # ch/minami/talk.rpy:167
 translate russian minami_talk_people_male_63dc04e3:
     "Минами улыбается и склоняет голову ко мне."
-
-# ch/minami/talk.rpy:168
-translate russian minami_talk_people_male_5bcce430:
-    minami.say "Здесь может жить миллиард человек или всего двое, братик."
 
 # ch/minami/talk.rpy:169
 translate russian minami_talk_people_male_e7d93085:
@@ -32971,10 +30835,6 @@ translate russian minami_talk_computers_male_801550b6:
 # ch/minami/talk.rpy:188
 translate russian minami_talk_computers_male_a943fc50:
     "Минами едва не обижается на этот вопрос."
-
-# ch/minami/talk.rpy:189
-translate russian minami_talk_computers_male_ed589a50:
-    minami.say "Ну ты даёшь, братик."
 
 # ch/minami/talk.rpy:191
 translate russian minami_talk_computers_male_ba8573c9:
@@ -33032,10 +30892,6 @@ translate russian minami_talk_birthday_male_a16229ae:
 translate russian minami_talk_birthday_male_9e3abd13:
     mike.say "Как здорово наконец поздравить тебя прямо в сам день рождения!"
 
-# ch/minami/talk.rpy:225
-translate russian minami_talk_birthday_male_1ee85a7c:
-    minami.say "Ой, спасибо, братик!"
-
 # ch/minami/talk.rpy:227
 translate russian minami_talk_birthday_male_c94dc0c9:
     minami.say "Я думала, ты даже не вспомнишь."
@@ -33063,10 +30919,6 @@ translate russian submissive_interact_minami_male_adbc8689:
 # ch/minami/talk.rpy:279
 translate russian submissive_interact_minami_male_4c77ea7d:
     mike.say "То, что мы стали парой, — само по себе довольно безумно, да?"
-
-# ch/minami/talk.rpy:281
-translate russian submissive_interact_minami_male_42d3c774:
-    minami.say "Ещё как, братик!"
 
 # ch/minami/talk.rpy:283
 translate russian submissive_interact_minami_male_4bf5327b:
@@ -33100,10 +30952,6 @@ translate russian submissive_interact_minami_male_c5f6a21a:
 translate russian submissive_interact_minami_male_36dc9f52:
     "Даже говоря это, я всё ещё отчасти вижу в ней несносную младшую сестру и жду, что она просто начнёт дурачиться."
 
-# ch/minami/talk.rpy:298
-translate russian submissive_interact_minami_male_0c7e34b4:
-    minami.say "Безумная идея, братик!"
-
 # ch/minami/talk.rpy:299
 translate russian submissive_interact_minami_male_8e4f2e05:
     minami.say "Мы просто ОБЯЗАНЫ попробовать."
@@ -33111,10 +30959,6 @@ translate russian submissive_interact_minami_male_8e4f2e05:
 # ch/minami/talk.rpy:301
 translate russian submissive_interact_minami_male_52db93ea:
     minami.say "Не терпится посмотреть, какие у людей будут лица!"
-
-# ch/minami/talk.rpy:305
-translate russian submissive_interact_minami_male_d8c8c522:
-    minami.say "Не знаю, братик..."
 
 # ch/minami/talk.rpy:306
 translate russian submissive_interact_minami_male_b9bec8b5:
@@ -33217,7 +31061,7 @@ translate russian minami_dirty_texts_4dfae76d:
     minami_nvl "Придёшь трахнуть меня в нём?"
 
 # ch/minami/texts.rpy:51
-translate russian minami_dirty_texts_e07e07b8:
+translate russian minami_dirty_texts_130cf64a:
     minami_nvl "Эх... мне сейчас ОЧЕНЬ надо заниматься, [lssb_minami.hero_name()]."
 
 # ch/minami/texts.rpy:52
@@ -33229,7 +31073,7 @@ translate russian minami_dirty_texts_69661e1f:
     minami_nvl "Приди и отшлёпай меня за то, что я такая непослушная и всё время отвлекаюсь!"
 
 # ch/minami/texts.rpy:55
-translate russian minami_dirty_texts_46ddc755:
+translate russian minami_dirty_texts_b0948e91:
     minami_nvl "Эх... мне сейчас ОЧЕНЬ надо заниматься, братик."
 
 # ch/minami/texts.rpy:56
@@ -33337,7 +31181,7 @@ translate russian minami_flirty_texts_male_3479d479:
     mchero_nvl "Скажи, что да! Та, с короткой юбкой!"
 
 # ch/minami/texts.rpy:132
-translate russian minami_flirty_texts_male_192ba0a7:
+translate russian minami_flirty_texts_male_35b3df80:
     minami_nvl "Фу... гадость!"
 
 # ch/minami/texts.rpy:133
@@ -33345,7 +31189,7 @@ translate russian minami_flirty_texts_male_2983af2f:
     minami_nvl "Я не ради тебя наряжаюсь, извращенец!"
 
 # ch/minami/texts.rpy:136
-translate russian minami_flirty_texts_male_ed75b4f0:
+translate russian minami_flirty_texts_male_24c86c7c:
     minami_nvl "Хи-хи-хи... может быть, братик!"
 
 # ch/minami/texts.rpy:137
@@ -33437,7 +31281,7 @@ translate russian minami_flirty_texts_male_ee5f2c96:
     mchero_nvl "Хочу уединиться с тобой в кабинке и побыть поближе!"
 
 # ch/minami/texts.rpy:195
-translate russian minami_flirty_texts_male_c950f259:
+translate russian minami_flirty_texts_male_260b962d:
     minami_nvl "Фу... только не в этой дыре!"
 
 # ch/minami/texts.rpy:196
@@ -33601,7 +31445,7 @@ translate russian minami_dirty_texts_male_37dfd917:
     minami_nvl "Да, [lssb_minami.hero_name()]! Свяжи меня и делай со мной что хочешь!"
 
 # ch/minami/texts.rpy:311
-translate russian minami_dirty_texts_male_a703f50a:
+translate russian minami_dirty_texts_male_67a02985:
     minami_nvl "Буду твоей хорошей девочкой... или плохой, если тебе больше хочется меня наказать :$"
 
 # ch/minami/texts.rpy:313

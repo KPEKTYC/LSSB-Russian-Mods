@@ -228,714 +228,6 @@ translate russian hanna_kiss_me_51c2182a:
 translate russian hanna_kiss_me_7b88d9ac:
     "Если это сон, я даже не стану пытаться проснуться."
 
-# ch/hanna/base.rpy:179
-translate russian hanna_walk_outside_cd8a9608:
-    hanna.say "Эй, [lssb_hanna.hero_name()]..."
-
-# ch/hanna/base.rpy:180
-translate russian hanna_walk_outside_5add33e1:
-    hanna.say "Снова пришло время!"
-
-# ch/hanna/base.rpy:181
-translate russian hanna_walk_outside_dcbc78d7:
-    "Услышав голос Ханны, я без особой спешки отрываюсь от своего занятия."
-
-# ch/hanna/base.rpy:182
-translate russian hanna_walk_outside_5293c12e:
-    "Но едва взглянув на неё, вскакиваю, чуть ли не вытянувшись по стойке смирно."
-
-# ch/hanna/base.rpy:183
-translate russian hanna_walk_outside_a38c0c09:
-    "Потому что она совершенно голая!"
-
-# ch/hanna/base.rpy:185
-translate russian hanna_walk_outside_85d7ac53:
-    "Ну, если не считать ошейника..."
-
-# ch/hanna/base.rpy:186
-translate russian hanna_walk_outside_1e48e078:
-    "В руке Ханна держит подходящий к нему поводок и небрежно им покачивает."
-
-# ch/hanna/base.rpy:187
-translate russian hanna_walk_outside_599b50be:
-    hanna.say "Чего ты ждёшь?"
-
-# ch/hanna/base.rpy:188
-translate russian hanna_walk_outside_1328c754:
-    hanna.say "Ты должен отвести меня в парк размяться!"
-
-# ch/hanna/base.rpy:189
-translate russian hanna_walk_outside_06b32995:
-    "С этими словами Ханна бросает мне поводок, а я неловко его ловлю."
-
-# ch/hanna/base.rpy:190
-translate russian hanna_walk_outside_085e6914:
-    "Она хихикает над моей неуклюжестью, а потом опускается на четвереньки."
-
-# ch/hanna/base.rpy:191
-translate russian hanna_walk_outside_961a46db:
-    mike.say "Д... да, конечно, Ханна..."
-
-# ch/hanna/base.rpy:192
-translate russian hanna_walk_outside_8614b7a3:
-    mike.say "Дай только пристегнуть поводок..."
-
-# ch/hanna/base.rpy:193
-translate russian hanna_walk_outside_9813920a:
-    "Я спешу к ней, всё ещё путаясь в поводке."
-
-# ch/hanna/base.rpy:194
-translate russian hanna_walk_outside_59321687:
-    "Наклониться и пристегнуть его к ошейнику оказывается труднее, чем я ожидал."
-
-# ch/hanna/base.rpy:195
-translate russian hanna_walk_outside_76d582d4:
-    "Сами попробуйте сделать это с таким стояком, какой она у меня сейчас вызвала!"
-
-# ch/hanna/base.rpy:196
-translate russian hanna_walk_outside_be214934:
-    "Ханна только усугубляет дело: виляет задницей и высовывает язык."
-
-# ch/hanna/base.rpy:197
-translate russian hanna_walk_outside_8d7e232b:
-    "Я понимаю, она изо всех сил старается вжиться в роль."
-
-# ch/hanna/base.rpy:198
-translate russian hanna_walk_outside_babb1518:
-    "Но мне от этого хочется лишь спустить штаны и трахнуть её прямо здесь и сейчас!"
-
-# ch/hanna/base.rpy:199
-translate russian hanna_walk_outside_944e77ee:
-    mike.say "А... кхм..."
-
-# ch/hanna/base.rpy:200
-translate russian hanna_walk_outside_dd39a79c:
-    mike.say "Вот так... хорошая девочка."
-
-# ch/hanna/base.rpy:201
-translate russian hanna_walk_outside_011ecc32:
-    hanna.say "М-м-м..."
-
-# ch/hanna/base.rpy:202
-translate russian hanna_walk_outside_a368c1da:
-    hanna.say "Мне нравится, когда ты меня так называешь!"
-
-# ch/hanna/base.rpy:203
-translate russian hanna_walk_outside_432b18e2:
-    hanna.say "Сразу хочется стать самой хорошей девочкой на свете!"
-
-# ch/hanna/base.rpy:207
-translate russian hanna_walk_outside_4b88f4cc:
-    "Я спешу открыть входную дверь, легонько потянув за поводок."
-
-# ch/hanna/base.rpy:210
-translate russian hanna_walk_outside_4214a1a5:
-    "Ханна послушно выбегает следом, всё время оставаясь на четвереньках."
-
-# ch/hanna/base.rpy:211
-translate russian hanna_walk_outside_d8a57a19:
-    "К счастью, уже достаточно поздно: все, наверное, улеглись спать."
-
-# ch/hanna/base.rpy:212
-translate russian hanna_walk_outside_287ab9fb:
-    "А даже если и нет, в нашем районе в это время тихо."
-
-# ch/hanna/base.rpy:213
-translate russian hanna_walk_outside_d69cb26c:
-    "Вряд ли кто-то станет выглядывать из-за штор, пока мы этим занимаемся."
-
-# ch/hanna/base.rpy:214
-translate russian hanna_walk_outside_b427034a:
-    "Но на всякий случай я уже продумал безопасный маршрут до парка."
-
-# ch/hanna/base.rpy:215
-translate russian hanna_walk_outside_b4b2cee1:
-    "Подальше от фонарей и больших дорог."
-
-# ch/hanna/base.rpy:216
-translate russian hanna_walk_outside_18c92be2:
-    "Если повезёт, со стороны я буду похож на обычного человека, выгуливающего собаку."
-
-# ch/hanna/base.rpy:217
-translate russian hanna_walk_outside_3fcbde91:
-    mike.say "Пойдём, девочка."
-
-# ch/hanna/base.rpy:218
-translate russian hanna_walk_outside_c72ee0a2:
-    mike.say "Так и будем здесь торчать? Нам ведь ещё до парка добраться!"
-
-# ch/hanna/base.rpy:219
-translate russian hanna_walk_outside_38283e95:
-    "Ханна радостно кивает и уже шагает по улице."
-
-# ch/hanna/base.rpy:220
-translate russian hanna_walk_outside_7712aff7:
-    "Я не успеваю приготовиться, и она рывком тянет меня за собой."
-
-# ch/hanna/base.rpy:221
-translate russian hanna_walk_outside_3e583fca:
-    "Приходится пробежать несколько шагов, чтобы её догнать."
-
-# ch/hanna/base.rpy:222
-translate russian hanna_walk_outside_71a592f7:
-    "Да и потом я всё равно иду довольно быстро."
-
-# ch/hanna/base.rpy:223
-translate russian hanna_walk_outside_bec9da73:
-    "Меня поражает, насколько Ханна сильная."
-
-# ch/hanna/base.rpy:224
-translate russian hanna_walk_outside_4ae1924a:
-    "И как быстро она умеет передвигаться на четвереньках!"
-
-# ch/hanna/base.rpy:225
-translate russian hanna_walk_outside_af773ed5:
-    "Я знаю, что она практически живёт в спортзале."
-
-# ch/hanna/base.rpy:226
-translate russian hanna_walk_outside_845c880a:
-    "Но это уже что-то невероятное!"
-
-# ch/hanna/base.rpy:227
-translate russian hanna_walk_outside_74544e5a:
-    "С темпом, который задала Ханна, мы добираемся до парка в рекордные сроки."
-
-# ch/hanna/base.rpy:228
-translate russian hanna_walk_outside_16c4b8db:
-    "И я думаю, что теперь мы сможем неторопливо прогуляться."
-
-# ch/hanna/base.rpy:229
-translate russian hanna_walk_outside_8134547e:
-    "Но вдруг чувствую, как Ханна тянет меня к ближайшей лужайке."
-
-# ch/hanna/base.rpy:230
-translate russian hanna_walk_outside_e745d508:
-    hanna.say "Ну... пойдём...[lssb_hanna.hero_name()]..."
-
-# ch/hanna/base.rpy:234
-translate russian hanna_walk_outside_4f53bbe0:
-    hanna.say "Хочу... поиграть... в мячик!"
-
-# ch/hanna/base.rpy:235
-translate russian hanna_walk_outside_bc3172b0:
-    "Не знаю, Ханна просто разыгрывает всё это ради меня..."
-
-# ch/hanna/base.rpy:236
-translate russian hanna_walk_outside_0eb7305c:
-    "Или ей самой ужасно нравится, что я обращаюсь с ней как с собакой."
-
-# ch/hanna/base.rpy:237
-translate russian hanna_walk_outside_cf6eda32:
-    "В любом случае такими темпами она мне руку из сустава выдернет!"
-
-# ch/hanna/base.rpy:238
-translate russian hanna_walk_outside_4fb89529:
-    "Если только я прямо сейчас что-нибудь не решу..."
-
-# ch/hanna/base.rpy:241
-translate russian hanna_walk_outside_957f6cd4:
-    "Задор Ханны заразителен, и устоять перед ней я не могу."
-
-# ch/hanna/base.rpy:243
-translate russian hanna_walk_outside_fbdac7cd:
-    "Поэтому уступаю и позволяю ей утащить меня на траву."
-
-# ch/hanna/base.rpy:244
-translate russian hanna_walk_outside_f93c92d1:
-    "Похоже, она чувствует, что добилась своего."
-
-# ch/hanna/base.rpy:245
-translate russian hanna_walk_outside_1ed40f42:
-    "И мне приходится прибавить шагу, чтобы не споткнуться!"
-
-# ch/hanna/base.rpy:246
-translate russian hanna_walk_outside_c155a10d:
-    mike.say "Эй..."
-
-# ch/hanna/base.rpy:247
-translate russian hanna_walk_outside_67fab455:
-    mike.say "Погоди..."
-
-# ch/hanna/base.rpy:248
-translate russian hanna_walk_outside_0d3e6cc3:
-    "Услышав мой голос, Ханна перестаёт тянуть поводок."
-
-# ch/hanna/base.rpy:249
-translate russian hanna_walk_outside_e570934a:
-    "Она с удивлением оглядывается на меня через плечо."
-
-# ch/hanna/base.rpy:250
-translate russian hanna_walk_outside_24c2d186:
-    hanna.say "Ч... что?"
-
-# ch/hanna/base.rpy:251
-translate russian hanna_walk_outside_0cd4171c:
-    hanna.say "Я сделала что-то плохое?"
-
-# ch/hanna/base.rpy:252
-translate russian hanna_walk_outside_1616c762:
-    "Качаю головой и улыбаюсь ей — надеюсь, ободряюще."
-
-# ch/hanna/base.rpy:253
-translate russian hanna_walk_outside_0eafb8f5:
-    mike.say "Нет, Ханна..."
-
-# ch/hanna/base.rpy:254
-translate russian hanna_walk_outside_6496be5d:
-    mike.say "Ну, разве что немножко нашалила!"
-
-# ch/hanna/base.rpy:255
-translate russian hanna_walk_outside_ff12b676:
-    mike.say "Так, куда же я дел мячик..."
-
-# ch/hanna/base.rpy:256
-translate russian hanna_walk_outside_41a120db:
-    "Прежде чем искать его, я отстёгиваю поводок."
-
-# ch/hanna/base.rpy:257
-translate russian hanna_walk_outside_4d98526f:
-    "А затем достаю из кармана принесённый с собой теннисный мяч."
-
-# ch/hanna/base.rpy:258
-translate russian hanna_walk_outside_33a4999e:
-    "При одном его виде Ханна словно сходит с ума."
-
-# ch/hanna/base.rpy:259
-translate russian hanna_walk_outside_92823987:
-    "Она кивает и снуёт передо мной туда-сюда."
-
-# ch/hanna/base.rpy:260
-translate russian hanna_walk_outside_b74db877:
-    "Даже язык высунула!"
-
-# ch/hanna/base.rpy:261
-translate russian hanna_walk_outside_df4bf2de:
-    hanna.say "О да!"
-
-# ch/hanna/base.rpy:262
-translate russian hanna_walk_outside_78275919:
-    hanna.say "О да, да, да!"
-
-# ch/hanna/base.rpy:263
-translate russian hanna_walk_outside_d6c680a0:
-    mike.say "Лови, девочка!"
-
-# ch/hanna/base.rpy:264
-translate russian hanna_walk_outside_14ac0115:
-    mike.say "Апорт!"
-
-# ch/hanna/base.rpy:265
-translate russian hanna_walk_outside_9a03694a:
-    "Я бросаю мяч изо всех сил, стараясь закинуть его подальше."
-
-# ch/hanna/base.rpy:267
-translate russian hanna_walk_outside_3a044011:
-    "И готов поклясться: Ханна срывается с места ещё до того, как он вылетает из моей руки!"
-
-# ch/hanna/base.rpy:268
-translate russian hanna_walk_outside_acdb6ada:
-    "Я во все глаза смотрю, как она бежит на четвереньках."
-
-# ch/hanna/base.rpy:269
-translate russian hanna_walk_outside_0c02d152:
-    "Преследуя мяч, она каким-то образом развивает невероятную скорость."
-
-# ch/hanna/base.rpy:270
-translate russian hanna_walk_outside_c8332490:
-    "Конечно, с первого отскока поймать его она не успевает."
-
-# ch/hanna/base.rpy:271
-translate russian hanna_walk_outside_d8ba50d2:
-    "Зато со второго хватает зубами."
-
-# ch/hanna/base.rpy:272
-translate russian hanna_walk_outside_5adc9318:
-    "Как только мяч оказывается у неё в пасти, Ханна несётся обратно ко мне."
-
-# ch/hanna/base.rpy:273
-translate russian hanna_walk_outside_65d4c887:
-    "Она едва успевает затормозить, чуть не врезавшись мне в ноги."
-
-# ch/hanna/base.rpy:274
-translate russian hanna_walk_outside_218aa487:
-    "Потом роняет мяч к моим ногам и подталкивает его носом."
-
-# ch/hanna/base.rpy:276
-translate russian hanna_walk_outside_fce36d04:
-    "Я чуть не забываю поднять мяч и бросить его снова."
-
-# ch/hanna/base.rpy:277
-translate russian hanna_walk_outside_f606f8f4:
-    "Но разве меня можно винить, когда Ханна так задрала задницу?"
-
-# ch/hanna/base.rpy:278
-translate russian hanna_walk_outside_dc21e2c3:
-    "Будь у неё хвост, сейчас она бы виляла им как сумасшедшая!"
-
-# ch/hanna/base.rpy:279
-translate russian hanna_walk_outside_36520e61:
-    hanna.say "М-м..."
-
-# ch/hanna/base.rpy:280
-translate russian hanna_walk_outside_7ae8476e:
-    hanna.say "Ну же!"
-
-# ch/hanna/base.rpy:281
-translate russian hanna_walk_outside_947ab932:
-    hanna.say "Бросай уже мячик!"
-
-# ch/hanna/base.rpy:282
-translate russian hanna_walk_outside_2431c5e3:
-    "Вот чёрт..."
-
-# ch/hanna/base.rpy:283
-translate russian hanna_walk_outside_a50bf1f2:
-    "Теперь она скулит и смотрит на меня большими грустными глазами!"
-
-# ch/hanna/base.rpy:284
-translate russian hanna_walk_outside_2339c95a:
-    "Кажется, ещё никогда мне так не хотелось её трахнуть!"
-
-# ch/hanna/base.rpy:285
-translate russian hanna_walk_outside_efd9201b:
-    "Каким-то чудом я заставляю себя снова бросить мяч."
-
-# ch/hanna/base.rpy:286
-translate russian hanna_walk_outside_228d855e:
-    "И Ханна опять срывается за ним."
-
-# ch/hanna/base.rpy:287
-translate russian hanna_walk_outside_131da4d9:
-    "После этого с каждым разом становится немного легче."
-
-# ch/hanna/base.rpy:288
-translate russian hanna_walk_outside_f304aa01:
-    "Я по-прежнему страшно возбуждён, но уже могу держать себя в руках."
-
-# ch/hanna/base.rpy:290
-translate russian hanna_walk_outside_2da14b31:
-    "Когда Ханна наконец начинает уставать, я снова пристёгиваю поводок."
-
-# ch/hanna/base.rpy:292
-translate russian hanna_walk_outside_c765e8be:
-    "Думаю, пора мне увлечься этой игрой не меньше Ханны."
-
-# ch/hanna/base.rpy:293
-translate russian hanna_walk_outside_3700e73a:
-    "А лучший способ — обращаться с ней как с собакой."
-
-# ch/hanna/base.rpy:294
-translate russian hanna_walk_outside_9dc198de:
-    "Вернее, именно с такой собакой, какую она изображает."
-
-# ch/hanna/base.rpy:295
-translate russian hanna_walk_outside_2ab9059e:
-    "Поэтому я крепче перехватываю поводок."
-
-# ch/hanna/base.rpy:296
-translate russian hanna_walk_outside_01941e19:
-    "Не настолько, чтобы душить Ханну или причинить ей боль."
-
-# ch/hanna/base.rpy:297
-translate russian hanna_walk_outside_5a371a06:
-    "Лишь настолько, чтобы она перестала тащить меня к траве."
-
-# ch/hanna/base.rpy:298
-translate russian hanna_walk_outside_0eafb8f5_1:
-    mike.say "Нет, Ханна..."
-
-# ch/hanna/base.rpy:299
-translate russian hanna_walk_outside_bf65a1c7:
-    mike.say "Плохая девочка!"
-
-# ch/hanna/base.rpy:300
-translate russian hanna_walk_outside_0d3e6cc3_1:
-    "Услышав мой голос, Ханна перестаёт тянуть поводок."
-
-# ch/hanna/base.rpy:301
-translate russian hanna_walk_outside_e570934a_1:
-    "Она с удивлением оглядывается на меня через плечо."
-
-# ch/hanna/base.rpy:303
-translate russian hanna_walk_outside_24c2d186_1:
-    hanna.say "Ч... что?"
-
-# ch/hanna/base.rpy:304
-translate russian hanna_walk_outside_0cd4171c_1:
-    hanna.say "Я сделала что-то плохое?"
-
-# ch/hanna/base.rpy:305
-translate russian hanna_walk_outside_1616c762_1:
-    "Качаю головой и улыбаюсь ей — надеюсь, ободряюще."
-
-# ch/hanna/base.rpy:306
-translate russian hanna_walk_outside_8a75ad47:
-    mike.say "Нет, Ханна, просто шалишь."
-
-# ch/hanna/base.rpy:307
-translate russian hanna_walk_outside_ec564c95:
-    mike.say "Хочешь быть хорошей девочкой — иди рядом, ладно?"
-
-# ch/hanna/base.rpy:308
-translate russian hanna_walk_outside_b666afc8:
-    "Глаза Ханны загораются: ей дали возможность исправиться."
-
-# ch/hanna/base.rpy:309
-translate russian hanna_walk_outside_d4ab7594:
-    "Она послушно ждёт следующей команды."
-
-# ch/hanna/base.rpy:310
-translate russian hanna_walk_outside_887421a7:
-    mike.say "Пойдём, Ханна."
-
-# ch/hanna/base.rpy:311
-translate russian hanna_walk_outside_47b1a490:
-    mike.say "Вот так, хорошая девочка!"
-
-# ch/hanna/base.rpy:313
-translate russian hanna_walk_outside_70293e45:
-    "И вот мы уже идём."
-
-# ch/hanna/base.rpy:314
-translate russian hanna_walk_outside_68e0082b:
-    "Мы гуляем по парку, и Ханна держится у моей ноги."
-
-# ch/hanna/base.rpy:315
-translate russian hanna_walk_outside_dc53e6c2:
-    "Каждый раз, когда я смотрю на неё сверху вниз, она отвечает сияющей улыбкой."
-
-# ch/hanna/base.rpy:316
-translate russian hanna_walk_outside_ed29d410:
-    "И я не упускаю возможности полюбоваться тем, что она выставляет напоказ."
-
-# ch/hanna/base.rpy:317
-translate russian hanna_walk_outside_3f0d6715:
-    "Даже на четвереньках движения тела Ханны исполнены изящества."
-
-# ch/hanna/base.rpy:318
-translate russian hanna_walk_outside_05ce3806:
-    "Её упругие ягодицы так и подпрыгивают, а грудь восхитительно покачивается."
-
-# ch/hanna/base.rpy:319
-translate russian hanna_walk_outside_98dc36cf:
-    "Я настолько засматриваюсь, что забываю: вести должен я."
-
-# ch/hanna/base.rpy:320
-translate russian hanna_walk_outside_b67d6dcf:
-    "И едва не врезаюсь прямо в дерево."
-
-# ch/hanna/base.rpy:321
-translate russian hanna_walk_outside_3255f0e0:
-    "Но в последний момент Ханна дёргает поводок."
-
-# ch/hanna/base.rpy:322
-translate russian hanna_walk_outside_a1d26e1f:
-    "Я прихожу в себя, решив, что она снова балуется."
-
-# ch/hanna/base.rpy:323
-translate russian hanna_walk_outside_15e50263:
-    "И вижу ствол в нескольких сантиметрах от лица."
-
-# ch/hanna/base.rpy:324
-translate russian hanna_walk_outside_3f8382ca:
-    mike.say "Ого..."
-
-# ch/hanna/base.rpy:325
-translate russian hanna_walk_outside_8dd5c4bc:
-    mike.say "Спасибо, Ханна!"
-
-# ch/hanna/base.rpy:327
-translate russian hanna_walk_outside_42b83f82:
-    hanna.say "Не за что, [lssb_hanna.hero_name()]."
-
-# ch/hanna/base.rpy:328
-translate russian hanna_walk_outside_92ce9904:
-    hanna.say "Просто стараюсь быть самой лучшей собачкой!"
-
-# ch/hanna/base.rpy:330
-translate russian hanna_walk_outside_cc03bf3c:
-    hanna.say "Дашь мне поиграть с твоей палочкой?"
-
-# ch/hanna/base.rpy:332
-translate russian hanna_walk_outside_913ee72b:
-    "Словно намёка недостаточно, Ханна принимается лапкой трогать мою ширинку..."
-
-# ch/hanna/base.rpy:335
-translate russian hanna_walk_outside_b2675411:
-    "Я нервно оглядываюсь, высматривая вокруг хоть какие-то признаки жизни."
-
-# ch/hanna/base.rpy:336
-translate russian hanna_walk_outside_0f26e87d:
-    "Никого не видно, но согласиться — значит, по-моему, искушать судьбу."
-
-# ch/hanna/base.rpy:337
-translate russian hanna_walk_outside_77999368:
-    mike.say "Нет, плохая собака!"
-
-# ch/hanna/base.rpy:339
-translate russian hanna_walk_outside_1feddd21:
-    mike.say "Делай, что тебе говорят."
-
-# ch/hanna/base.rpy:340
-translate russian hanna_walk_outside_ce7b71a5:
-    mike.say "А не то сегодня будешь спать во дворе!"
-
-# ch/hanna/base.rpy:341
-translate russian hanna_walk_outside_b4a82151:
-    "Ханна ещё немного скулит, потом опускает голову и смиренно кивает."
-
-# ch/hanna/base.rpy:342
-translate russian hanna_walk_outside_9cbd6f8b:
-    "Я тяну за поводок, и она снова послушно идёт рядом."
-
-# ch/hanna/base.rpy:344
-translate russian hanna_walk_outside_1ca8f1c5:
-    "До моего дома мы добираемся ещё быстрее, чем до парка."
-
-# ch/hanna/base.rpy:345
-translate russian hanna_walk_outside_afa2465d:
-    "Как только дверь за нами закрывается, я вздыхаю с облегчением."
-
-# ch/hanna/base.rpy:348
-translate russian hanna_walk_outside_b2675411_1:
-    "Я нервно оглядываюсь, высматривая вокруг хоть какие-то признаки жизни."
-
-# ch/hanna/base.rpy:349
-translate russian hanna_walk_outside_bc87be27:
-    "Никого не видно, и я решаю: да пошло оно всё."
-
-# ch/hanna/base.rpy:350
-translate russian hanna_walk_outside_d87bc041:
-    "Расстегнув ширинку, я разрешаю Ханне дать себе волю."
-
-# ch/hanna/base.rpy:351
-translate russian hanna_walk_outside_58d7ceec:
-    mike.say "Ладно, вот."
-
-# ch/hanna/base.rpy:352
-translate russian hanna_walk_outside_63ee7e47:
-    mike.say "Сегодня ты была хорошей собачкой."
-
-# ch/hanna/base.rpy:353
-translate russian hanna_walk_outside_50f69b39:
-    mike.say "И заслужила награду!"
-
-# ch/hanna/base.rpy:355
-translate russian hanna_walk_outside_c089cd2d:
-    "Ханна радостно хлопает в ладоши, едва не подпрыгивая на месте."
-
-# ch/hanna/base.rpy:356
-translate russian hanna_walk_outside_fb621e55:
-    "Потом просовывает руку в расстёгнутую ширинку и осторожно достаёт мой член."
-
-# ch/hanna/base.rpy:357
-translate russian hanna_walk_outside_a0c86092:
-    "За всю эту странную ночную прогулку он ни разу не опускался ниже половины мачты."
-
-# ch/hanna/base.rpy:358
-translate russian hanna_walk_outside_7328ae56:
-    "Так что нескольких её прикосновений хватает, чтобы он окончательно затвердел."
-
-# ch/hanna/base.rpy:359
-translate russian hanna_walk_outside_5e08c9e3:
-    "Возможно, Ханна это чувствует, а может, помнит, что мы в общественном месте, — в любом случае она не медлит."
-
-# ch/hanna/base.rpy:361
-translate russian hanna_walk_outside_a0ca52e1:
-    "Сразу берёт мой член в рот и переходит к делу, обходясь без прелюдий."
-
-# ch/hanna/base.rpy:362
-translate russian hanna_walk_outside_1d7c50c2:
-    "Поэтому получается грубовато, без её привычной виртуозности."
-
-# ch/hanna/base.rpy:363
-translate russian hanna_walk_outside_342ac3cb:
-    "Но в столь необычных обстоятельствах меня всё вполне устраивает."
-
-# ch/hanna/base.rpy:364
-translate russian hanna_walk_outside_3936d6f8:
-    "Ханна заглатывает член как можно глубже и неряшливо скользит по нему ртом."
-
-# ch/hanna/base.rpy:365
-translate russian hanna_walk_outside_ea56ad30:
-    "Звуки довольно дикие, зато ощущения просто неземные."
-
-# ch/hanna/base.rpy:367
-translate russian hanna_walk_outside_7bfe064b:
-    "Вскоре её голова начинает двигаться туда-сюда с изрядной скоростью."
-
-# ch/hanna/base.rpy:368
-translate russian hanna_walk_outside_e929c923:
-    "И я уже чувствую, как внутри нарастает желание кончить."
-
-# ch/hanna/base.rpy:369
-translate russian hanna_walk_outside_517d66a3:
-    "Всё это время я поглядываю по сторонам, вглядываясь в окружающую темноту."
-
-# ch/hanna/base.rpy:370
-translate russian hanna_walk_outside_c93202a8:
-    "Вдруг слышу звук и совершенно уверен: к нам кто-то идёт."
-
-# ch/hanna/base.rpy:371
-translate russian hanna_walk_outside_1cf980a4:
-    "Этого хватает, чтобы я потерял контроль и кончил Ханне в рот!"
-
-# ch/hanna/base.rpy:373
-translate russian hanna_walk_outside_d104d95a:
-    "Она не ожидала столь ранней разрядки и давится, кашляя, когда сперма ударяет ей в горло."
-
-# ch/hanna/base.rpy:374
-translate russian hanna_walk_outside_36b8fe76:
-    "А мне не до помощи: я слишком занят тем, чтобы вытащить член из её рта и запихнуть обратно в штаны."
-
-# ch/hanna/base.rpy:376
-translate russian hanna_walk_outside_cc250a11:
-    "Но паника проходит почти так же быстро, как началась."
-
-# ch/hanna/base.rpy:377
-translate russian hanna_walk_outside_843ea7b0:
-    "И я понимаю, что это было животное или просто ветер в кронах деревьев."
-
-# ch/hanna/base.rpy:378
-translate russian hanna_walk_outside_f9620fd0:
-    "Перестав кашлять, Ханна смотрит на меня снизу вверх и вопросительно скулит."
-
-# ch/hanna/base.rpy:379
-translate russian hanna_walk_outside_1e5f4d04:
-    "Я улыбаюсь и глажу её по голове. Похоже, это помогает: она счастливо улыбается в ответ."
-
-# ch/hanna/base.rpy:380
-translate russian hanna_walk_outside_bb264edd:
-    mike.say "Думаю, на сегодня мы оба достаточно размялись, Ханна."
-
-# ch/hanna/base.rpy:381
-translate russian hanna_walk_outside_07589b51:
-    mike.say "Пора домой, ладно?"
-
-# ch/hanna/base.rpy:383
-translate russian hanna_walk_outside_d2008c6b:
-    "Ханна охотно кивает и сразу пристраивается у моей ноги."
-
-# ch/hanna/base.rpy:384
-translate russian hanna_walk_outside_4946faa9:
-    "Я машинально глажу её по голове."
-
-# ch/hanna/base.rpy:385
-translate russian hanna_walk_outside_385a35aa:
-    "А ей, похоже, это действительно нравится."
-
-# ch/hanna/base.rpy:386
-translate russian hanna_walk_outside_ac8435c9:
-    "Я беру это на заметку, пока мы идём к выходу из парка."
-
-# ch/hanna/base.rpy:387
-translate russian hanna_walk_outside_10f2d98c:
-    "И стараюсь как можно лучше запомнить, как она выглядит на поводке."
-
-# ch/hanna/base.rpy:388
-translate russian hanna_walk_outside_59316d8b:
-    "Чтобы потом вспомнить, когда останусь один и появится свободная минутка."
-
 # ch/hanna/base.rpy:395
 translate russian hanna_propose_male_39dac8fd:
     "Я никогда прежде такого не делал, поэтому весь на нервах."
@@ -1089,7 +381,7 @@ translate russian hanna_propose_male_43ff26ed:
     "И окажемся героями одного из тех ужасно неловких видео, которые всегда разлетаются по сети!"
 
 # ch/hanna/base.rpy:435
-translate russian hanna_propose_male_6fcd53d4:
+translate russian hanna_propose_male_c43be8f8:
     hanna.say "Я... я..."
 
 # ch/hanna/base.rpy:437
@@ -1157,7 +449,7 @@ translate russian hanna_propose_male_a0f8eff0:
     hanna.say "Я не хочу с тобой расставаться."
 
 # ch/hanna/base.rpy:454
-translate russian hanna_propose_male_c8e2c566:
+translate russian hanna_propose_male_43a0fcf9:
     hanna.say "Просто... сейчас не хочу выходить замуж!"
 
 # ch/hanna/base.rpy:455
@@ -1461,7 +753,7 @@ translate russian hanna_love_5_male_b3e66faf:
     hanna.say "Так бы и съела тебя живьём."
 
 # ch/hanna/chat.rpy:97
-translate russian hanna_good_sweet_talk_male_c08863a2:
+translate russian hanna_good_sweet_talk_male_dc843c25:
     mike.say "Ого... Ханна, ты в ПОТРЯСАЮЩЕЙ форме!"
 
 # ch/hanna/chat.rpy:98
@@ -1469,11 +761,11 @@ translate russian hanna_good_sweet_talk_male_90a65c64:
     mike.say "И такая выносливая."
 
 # ch/hanna/chat.rpy:99
-translate russian hanna_good_sweet_talk_male_671d677c:
+translate russian hanna_good_sweet_talk_male_fbe0f74c:
     mike.say "Это... ну, это очень сексуально!"
 
 # ch/hanna/chat.rpy:101
-translate russian hanna_good_sweet_talk_male_8c1c4271:
+translate russian hanna_good_sweet_talk_male_ccd7a028:
     hanna.say "М-м-м... я люблю тренироваться."
 
 # ch/hanna/chat.rpy:102
@@ -1505,7 +797,7 @@ translate russian hanna_good_sweet_talk_male_f5e68757:
     mike.say "И результат налицо: выглядишь потрясающе!"
 
 # ch/hanna/chat.rpy:113
-translate russian hanna_good_sweet_talk_male_ddd3efa2:
+translate russian hanna_good_sweet_talk_male_86c73e8e:
     hanna.say "Ой... спасибо за комплимент!"
 
 # ch/hanna/chat.rpy:114
@@ -1521,7 +813,7 @@ translate russian hanna_bad_sweet_talk_male_2c276c56:
     mike.say "Правда, Ханна?"
 
 # ch/hanna/chat.rpy:123
-translate russian hanna_bad_sweet_talk_male_3d1cf39b:
+translate russian hanna_bad_sweet_talk_male_871f1382:
     hanna.say "Т... ты считаешь, что я похожа на парня?"
 
 # ch/hanna/chat.rpy:124
@@ -1713,7 +1005,7 @@ translate russian hanna_force_condom_261b29ab:
     "Я шарю по прикроватной тумбочке в поисках презерватива, но ничего не нахожу."
 
 # ch/hanna/condom.rpy:81
-translate russian hanna_force_condom_479879e4:
+translate russian hanna_force_condom_26be2ead:
     mike.say "Чёрт... закончились!"
 
 # ch/hanna/condom.rpy:82
@@ -1793,7 +1085,7 @@ translate russian hanna_force_condom_261b29ab_1:
     "Я шарю по прикроватной тумбочке в поисках презерватива, но ничего не нахожу."
 
 # ch/hanna/condom.rpy:110
-translate russian hanna_force_condom_479879e4_1:
+translate russian hanna_force_condom_26be2ead_1:
     mike.say "Чёрт... закончились!"
 
 # ch/hanna/condom.rpy:111
@@ -1817,7 +1109,7 @@ translate russian hanna_mad_condom_bd33e68c:
     "Ханна брыкается и больно попадает мне сбоку по голове."
 
 # ch/hanna/condom.rpy:122
-translate russian hanna_mad_condom_3d57c2e4:
+translate russian hanna_mad_condom_4f2f6e56:
     mike.say "Ай... чёрт!"
 
 # ch/hanna/condom.rpy:123
@@ -1869,11 +1161,11 @@ translate russian hanna_mad_condom_235249d8:
     "Спорить с ней я не могу: в спортзале ещё полно народу."
 
 # ch/hanna/condom.rpy:137
-translate russian hanna_mad_condom_23102f7e:
+translate russian hanna_mad_condom_0e0f7c52:
     hanna.say "Эй... минутку."
 
 # ch/hanna/condom.rpy:138
-translate russian hanna_mad_condom_d136b000:
+translate russian hanna_mad_condom_ce0b177a:
     mike.say "Ч... что такое?!"
 
 # ch/hanna/condom.rpy:139
@@ -2017,7 +1309,7 @@ translate russian hanna_date_intro_christmas_male_b73cfb03:
     hanna.say "Да-да, [lssb_hanna.hero_name()], как скажешь."
 
 # ch/hanna/date.rpy:27
-translate russian hanna_date_intro_christmas_male_e737a973:
+translate russian hanna_date_intro_christmas_male_796abd16:
     hanna.say "Уф... терпеть не могу холод!"
 
 # ch/hanna/date.rpy:28
@@ -2025,7 +1317,7 @@ translate russian hanna_date_intro_christmas_male_8b1c4571:
     mike.say "Тебе некомфортно?"
 
 # ch/hanna/date.rpy:29
-translate russian hanna_date_intro_christmas_male_02611c2e:
+translate russian hanna_date_intro_christmas_male_25cc8211:
     hanna.say "Нет... не люблю так кутаться."
 
 # ch/hanna/date.rpy:30
@@ -2269,7 +1561,7 @@ translate russian hanna_dance_with_d5b3deda:
     "А на танцполе она прижимается ближе и двигается восхитительно непристойно..."
 
 # ch/hanna/date.rpy:174
-translate russian hanna_date_play_arcade_intro_male_7f1015e7:
+translate russian hanna_date_play_arcade_intro_male_cbb1b2c4:
     hanna.say "Эх... это совсем не моё, [lssb_hanna.hero_name()]."
 
 # ch/hanna/date.rpy:175
@@ -2541,11 +1833,11 @@ translate russian hanna_date_play_arcade_lose_male_cb9e133c:
     hanna.say "Трибуны ликуют!"
 
 # ch/hanna/date.rpy:248
-translate russian hanna_date_play_arcade_lose_male_0a669095:
+translate russian hanna_date_play_arcade_lose_male_b1334c59:
     hanna.say "Слышишь, как скандируют: «Ханна! Ханна! Ханна!»?"
 
 # ch/hanna/date.rpy:249
-translate russian hanna_date_play_arcade_lose_male_266745d6:
+translate russian hanna_date_play_arcade_lose_male_fbb05f95:
     mike.say "А... ладно, Ханна."
 
 # ch/hanna/date.rpy:250
@@ -2553,7 +1845,7 @@ translate russian hanna_date_play_arcade_lose_male_1ce32c33:
     mike.say "Ты победила, только не зазнавайся, а?"
 
 # ch/hanna/date.rpy:251
-translate russian hanna_date_play_arcade_lose_male_96d6467d:
+translate russian hanna_date_play_arcade_lose_male_ba6a4dfa:
     mike.say "Кстати... ты ведь хотела уйти, когда доиграем?"
 
 # ch/hanna/date.rpy:252
@@ -2569,7 +1861,7 @@ translate russian hanna_dick_reactions_594759f4:
     hanna.say "Здравствуй! Это кто у нас тут?"
 
 # ch/hanna/date.rpy:262
-translate russian hanna_dick_reactions_b685240b:
+translate russian hanna_dick_reactions_ffe979f4:
     mike.say "Т... тебе нравится, Ханна?"
 
 # ch/hanna/date.rpy:264
@@ -2589,7 +1881,7 @@ translate russian hanna_dick_reactions_221b1937:
     hanna.say "Это всё, что у тебя там есть?"
 
 # ch/hanna/date.rpy:272
-translate russian hanna_dick_reactions_ac2593e1:
+translate russian hanna_dick_reactions_d56dc603:
     mike.say "Эм... ну да, вроде!"
 
 # ch/hanna/date.rpy:273
@@ -2657,7 +1949,7 @@ translate russian hanna_halloween_invitation_faf3f2e0:
     mike.say "Вот и отлично!"
 
 # ch/hanna/date.rpy:298
-translate russian hanna_halloween_invitation_fc5743f6:
+translate russian hanna_halloween_invitation_c10f459a:
     mike.say "То есть... не отлично, что у тебя нет планов."
 
 # ch/hanna/date.rpy:299
@@ -2805,7 +2097,7 @@ translate russian hanna_halloween_invitation_e1ff9de2:
     "Потом я качаю головой, не веря, что она отказала."
 
 # ch/hanna/date.rpy:344
-translate russian hanna_halloween_invitation_0aa7bfb1:
+translate russian hanna_halloween_invitation_b5fd945e:
     mike.say "Н... но почему, Ханна?"
 
 # ch/hanna/date.rpy:345
@@ -2909,7 +2201,7 @@ translate russian hanna_halloween_arrival_d00725b6:
     "Потому что глаза у меня чуть не вылезли из орбит!"
 
 # ch/hanna/date.rpy:376
-translate russian hanna_halloween_arrival_2d4c6d78:
+translate russian hanna_halloween_arrival_7deb863d:
     mike.say "Н... нет, Ханна..."
 
 # ch/hanna/date.rpy:377
@@ -3193,7 +2485,7 @@ translate russian hanna_halloween_party_ae15b510:
     "И видно, что она возбуждена!"
 
 # ch/hanna/date.rpy:474
-translate russian hanna_halloween_party_3c681d25:
+translate russian hanna_halloween_party_e631239b:
     scottie.say "О... привет!"
 
 # ch/hanna/date.rpy:475
@@ -3225,7 +2517,7 @@ translate russian hanna_halloween_party_ff3d2df4:
     mike.say "Но скакать на тебе буду только я!"
 
 # ch/hanna/date.rpy:485
-translate russian hanna_halloween_party_bd6be938:
+translate russian hanna_halloween_party_f822fc1a:
     hanna.say "Н... ничего страшного, [lssb_hanna.hero_name()]."
 
 # ch/hanna/date.rpy:486
@@ -3237,7 +2529,7 @@ translate russian hanna_halloween_party_16c8e521:
     hanna.say "Только сдержи своё обещание!"
 
 # ch/hanna/date.rpy:490
-translate russian hanna_halloween_party_03c9c85f:
+translate russian hanna_halloween_party_ba7465a6:
     mike.say "Эм... привет!"
 
 # ch/hanna/date.rpy:491
@@ -3261,7 +2553,7 @@ translate russian hanna_halloween_party_97085975:
     "А Ханна лишь раздражённо смотрит на меня."
 
 # ch/hanna/date.rpy:500
-translate russian hanna_halloween_party_3c681d25_1:
+translate russian hanna_halloween_party_e631239b_1:
     scottie.say "О... привет!"
 
 # ch/hanna/date.rpy:501
@@ -4569,7 +3861,7 @@ translate russian hanna_event_04_6113dc02:
     "Сразу уточню: я не стесняюсь, а раннее утро выбираю лишь потому, что тогда тише."
 
 # ch/hanna/events.rpy:888
-translate russian hanna_event_04_dc6a2405:
+translate russian hanna_event_04_b8dd7292:
     "Ну... может, чуточку и стесняюсь. Совсем немного!"
 
 # ch/hanna/events.rpy:889
@@ -4609,7 +3901,7 @@ translate russian hanna_event_04_6eeea004:
     "Поэтому замечаю Ханну лишь тогда, когда она буквально выскакивает передо мной."
 
 # ch/hanna/events.rpy:901
-translate russian hanna_event_04_dd7c2a59:
+translate russian hanna_event_04_7a44029f:
     mike.say "А-а... блядь!"
 
 # ch/hanna/events.rpy:903
@@ -4717,7 +4009,7 @@ translate russian hanna_event_04_22e80f0f:
     hanna.say "А встреча с тобой — приятный бонус."
 
 # ch/hanna/events.rpy:959
-translate russian hanna_event_04_fd560679:
+translate russian hanna_event_04_7c993ef3:
     mike.say "Эм... бонус?"
 
 # ch/hanna/events.rpy:961
@@ -4729,7 +4021,7 @@ translate russian hanna_event_04_7a88c059:
     hanna.say "Теперь ты можешь составить мне компанию на пробежке!"
 
 # ch/hanna/events.rpy:964
-translate russian hanna_event_04_1b880313:
+translate russian hanna_event_04_4a3e182a:
     mike.say "Ну... наверное..."
 
 # ch/hanna/events.rpy:968
@@ -4825,11 +4117,11 @@ translate russian hanna_event_04_ef9c849b:
     "Согнувшись пополам и упёршись руками в бёдра, она жадно хватает воздух, пытаясь восстановиться."
 
 # ch/hanna/events.rpy:1005
-translate russian hanna_event_04_a73c2198:
+translate russian hanna_event_04_d8661109:
     hanna.say "Это было... очень... круто... [lssb_hanna.hero_name()]..."
 
 # ch/hanna/events.rpy:1006
-translate russian hanna_event_04_9eba257b:
+translate russian hanna_event_04_e91762ef:
     hanna.say "Где ты... прятал... такую выносливость?!"
 
 # ch/hanna/events.rpy:1008
@@ -4853,7 +4145,7 @@ translate russian hanna_event_04_b5f954ef:
     "К этому времени Ханна уже выпрямилась и почти отдышалась."
 
 # ch/hanna/events.rpy:1015
-translate russian hanna_event_04_1f2f5862:
+translate russian hanna_event_04_558f43fe:
     hanna.say "Ну... конечно, [lssb_hanna.hero_name()]."
 
 # ch/hanna/events.rpy:1017
@@ -4877,7 +4169,7 @@ translate russian hanna_event_05_177be790:
     "Поэтому сегодня мне кажется странным, что, выйдя из раздевалки, я обнаруживаю ждущую меня Ханну."
 
 # ch/hanna/events.rpy:1038
-translate russian hanna_event_05_3261c1f9:
+translate russian hanna_event_05_b073e846:
     mike.say "А... привет, Ханна."
 
 # ch/hanna/events.rpy:1039
@@ -5009,7 +4301,7 @@ translate russian hanna_event_05_f0664819:
     "Ненадолго это удаётся, но потом я оборачиваюсь и замечаю, чем занята Ханна."
 
 # ch/hanna/events.rpy:1094
-translate russian hanna_event_05_fa43bc04:
+translate russian hanna_event_05_38760939:
     "Ладно... ладно, буду честен."
 
 # ch/hanna/events.rpy:1095
@@ -5027,10 +4319,6 @@ translate russian hanna_event_05_36b497fe:
 # ch/hanna/events.rpy:1106
 translate russian hanna_event_05_a20cefa7:
     "..."
-
-# ch/hanna/events.rpy:1109
-translate russian hanna_event_05_daaa9394:
-    "И тут понимаю: она делает ровно то же самое со мной!" with hpunch
 
 # ch/hanna/events.rpy:1116
 translate russian hanna_event_05_2c8c9b39:
@@ -5129,7 +4417,7 @@ translate russian hanna_event_05_6e528ca6:
     "С этими словами она уходит, оставляя меня гадать, что именно имела в виду..."
 
 # ch/hanna/events.rpy:1169
-translate russian hanna_event_06_eeda8a0d:
+translate russian hanna_event_06_3ad810be:
     mike.say "Ханна... что с тобой?"
 
 # ch/hanna/events.rpy:1170
@@ -5153,7 +4441,7 @@ translate russian hanna_event_06_79f67cb7:
     "Качаю головой и улыбаюсь в ответ, давая понять, что извиняться не за что."
 
 # ch/hanna/events.rpy:1181
-translate russian hanna_event_06_d504e482:
+translate russian hanna_event_06_4fae40e5:
     mike.say "Нет... нет, просто немного устала, вот и всё."
 
 # ch/hanna/events.rpy:1183
@@ -5193,7 +4481,7 @@ translate russian hanna_event_06_2057f2a7:
     hanna.say "Дело в спортзале."
 
 # ch/hanna/events.rpy:1204
-translate russian hanna_event_06_30d56424:
+translate russian hanna_event_06_fa41820f:
     "Погоди... что? Она сказала «в спортзале»?"
 
 # ch/hanna/events.rpy:1205
@@ -5233,7 +4521,7 @@ translate russian hanna_event_06_637a95ad:
     "На меня накатывает смесь облегчения и стыда: я совершенно не понял ситуацию."
 
 # ch/hanna/events.rpy:1220
-translate russian hanna_event_06_77c17e32:
+translate russian hanna_event_06_69082c8a:
     mike.say "А... ясно... прости, Ханна."
 
 # ch/hanna/events.rpy:1222
@@ -5241,7 +4529,7 @@ translate russian hanna_event_06_ff4211ad:
     hanna.say "Мне нужно поговорить о самом спортзале."
 
 # ch/hanna/events.rpy:1224
-translate russian hanna_event_06_f6dec076:
+translate russian hanna_event_06_6bfcc234:
     hanna.say "Но это непросто, потому что проблема... личная."
 
 # ch/hanna/events.rpy:1226
@@ -5381,7 +4669,7 @@ translate russian hanna_event_06_af7e33a1:
     "В глазах Ханны вдруг вспыхивает надежда."
 
 # ch/hanna/events.rpy:1301
-translate russian hanna_event_06_a2bb4117:
+translate russian hanna_event_06_1065203c:
     hanna.say "Да... да, верно."
 
 # ch/hanna/events.rpy:1302
@@ -5389,7 +4677,7 @@ translate russian hanna_event_06_ccc7f992:
     hanna.say "Этого хватит на счета, и у меня появится необходимая передышка."
 
 # ch/hanna/events.rpy:1304
-translate russian hanna_event_06_ad8ef280:
+translate russian hanna_event_06_d13f20a3:
     mike.say "Хм... наверное, я мог бы одолжить тебе такую сумму из накоплений."
 
 # ch/hanna/events.rpy:1305
@@ -5449,7 +4737,7 @@ translate russian hanna_event_06_44e334fc:
     mike.say "Она могла бы оживить бизнес."
 
 # ch/hanna/events.rpy:1335
-translate russian hanna_event_06_e2d5ab50:
+translate russian hanna_event_06_6dd13616:
     mike.say "Но... эм, не уверен, что тебе такое подойдёт..."
 
 # ch/hanna/events.rpy:1338
@@ -5489,7 +4777,7 @@ translate russian hanna_event_06_0b3e7598:
     "Ханна кивает, даже слишком охотно."
 
 # ch/hanna/events.rpy:1353
-translate russian hanna_event_06_9b1f8196:
+translate russian hanna_event_06_c1fd1cbe:
     mike.say "Вот приходишь, например, в автосалон за машиной — товар там выставлен напоказ."
 
 # ch/hanna/events.rpy:1356
@@ -5533,7 +4821,7 @@ translate russian hanna_event_06_80ffc749:
     "Я решительно киваю."
 
 # ch/hanna/events.rpy:1375
-translate russian hanna_event_06_00084ccd:
+translate russian hanna_event_06_b4074901:
     hanna.say "Но... это не будет непрофессионально? Или даже... не знаю, пошло?"
 
 # ch/hanna/events.rpy:1377
@@ -5645,7 +4933,7 @@ translate russian hanna_event_07a_144dd642:
     "Ханна выглядит неловко и смущённо, словно вопрос застал её врасплох."
 
 # ch/hanna/events.rpy:1440
-translate russian hanna_event_07a_868138ac:
+translate russian hanna_event_07a_abd8c387:
     hanna.say "Эм... думаю, теперь мне самой нужно управлять спортзалом."
 
 # ch/hanna/events.rpy:1442
@@ -5697,7 +4985,7 @@ translate russian hanna_event_07a_07536b96:
     mike.say "А что с твоим отцом?"
 
 # ch/hanna/events.rpy:1464
-translate russian hanna_event_07a_66656ccb:
+translate russian hanna_event_07a_f03217c6:
     hanna.say "А... а что с ним?"
 
 # ch/hanna/events.rpy:1466
@@ -5721,7 +5009,7 @@ translate russian hanna_event_07a_7ce51e71:
     hanna.say "А, да. Он обещал пойти в одну из этих групп анонимных игроков."
 
 # ch/hanna/events.rpy:1476
-translate russian hanna_event_07a_262a2c1c:
+translate russian hanna_event_07a_61995327:
     hanna.say "Чтобы поговорить с другими... другими зависимыми..."
 
 # ch/hanna/events.rpy:1478
@@ -5901,7 +5189,7 @@ translate russian hanna_event_07b_a9d2ce54:
     "Она разводит руками, обводя пространство вокруг, и с улыбкой поворачивается на месте."
 
 # ch/hanna/events.rpy:1568
-translate russian hanna_event_07b_05344f00:
+translate russian hanna_event_07b_3fa27843:
     hanna.say "Та-дам! Нравится то, что видишь?"
 
 # ch/hanna/events.rpy:1570
@@ -5933,7 +5221,7 @@ translate russian hanna_event_07b_7097d9e2:
     "Что-нибудь, от чего я не покажусь пускающим слюни извращенцем..."
 
 # ch/hanna/events.rpy:1585
-translate russian hanna_event_07b_3445106c:
+translate russian hanna_event_07b_09eff009:
     mike.say "Это... это... столько всего сразу!"
 
 # ch/hanna/events.rpy:1586
@@ -6165,7 +5453,7 @@ translate russian hanna_event_07c_593a1fca:
     "Хотя звучит не настолько драматично, как она это представляет."
 
 # ch/hanna/events.rpy:1695
-translate russian hanna_event_07c_14e06617:
+translate russian hanna_event_07c_8c8e84bb:
     mike.say "То есть... ты ищешь место получше?"
 
 # ch/hanna/events.rpy:1696
@@ -6189,7 +5477,7 @@ translate russian hanna_event_07c_e5aa703c:
     "Очень похоже, что Ханна подводит к тому, что уезжает."
 
 # ch/hanna/events.rpy:1704
-translate russian hanna_event_07c_59d735c1:
+translate russian hanna_event_07c_2d6f8a99:
     mike.say "Ханна... ты ведь не собираешься переезжать?"
 
 # ch/hanna/events.rpy:1705
@@ -6392,10 +5680,6 @@ translate russian hanna_event_08_ee7cd98a:
 translate russian hanna_event_08_a29fc58a:
     "Только теперь замечаю: это стриптиз-клуб."
 
-# ch/hanna/events.rpy:1814
-translate russian hanna_event_08_f20b066f:
-    "Точнее, тот самый, в котором я пару раз бывал!" with hpunch
-
 # ch/hanna/events.rpy:1815
 translate russian hanna_event_08_02659430:
     "Не то чтобы я завсегдатай."
@@ -6405,7 +5689,7 @@ translate russian hanna_event_08_c61c3ba9:
     "Но у кого-нибудь из персонала может быть хорошая память на лица!"
 
 # ch/hanna/events.rpy:1817
-translate russian hanna_event_08_1638f19f:
+translate russian hanna_event_08_a60636a2:
     mike.say "А... ты про стриптиз-клуб?!"
 
 # ch/hanna/events.rpy:1818
@@ -6413,7 +5697,7 @@ translate russian hanna_event_08_0c1347c5:
     mike.say "А что с ним, Ханна?"
 
 # ch/hanna/events.rpy:1819
-translate russian hanna_event_08_4fe34958:
+translate russian hanna_event_08_77ef6819:
     mike.say "То есть... какие мысли он у тебя вызывает?"
 
 # ch/hanna/events.rpy:1822
@@ -6481,11 +5765,11 @@ translate russian hanna_event_08_d234bf37:
     mike.say "Почему бы не зайти и не посмотреть самой?"
 
 # ch/hanna/events.rpy:1848
-translate russian hanna_event_08_9fa339e4:
+translate russian hanna_event_08_73e1519f:
     hanna.say "Я... думаю, ничего плохого не случится."
 
 # ch/hanna/events.rpy:1850
-translate russian hanna_event_08_4f65ad0a:
+translate russian hanna_event_08_bf6dcf26:
     hanna.say "Ладно... пойдём!"
 
 # ch/hanna/events.rpy:1852
@@ -6537,7 +5821,7 @@ translate russian hanna_event_08_9279185b:
     mike.say "Всё хорошо, Ханна?"
 
 # ch/hanna/events.rpy:1874
-translate russian hanna_event_08_1cfc5bb3:
+translate russian hanna_event_08_43b0c961:
     mike.say "То есть... большинству девушек такие места не нравятся!"
 
 # ch/hanna/events.rpy:1875
@@ -6653,7 +5937,7 @@ translate russian hanna_event_08_41234eab:
     mike.say "Ты сногсшибательная и в отличной форме!"
 
 # ch/hanna/events.rpy:1926
-translate russian hanna_event_08_eaf258cd:
+translate russian hanna_event_08_ac316109:
     mike.say "И... погоди-ка..."
 
 # ch/hanna/events.rpy:1927
@@ -6845,7 +6129,7 @@ translate russian hanna_event_08_97fc9107:
     mike.say "Это было потрясающе, Ханна!"
 
 # ch/hanna/events.rpy:2023
-translate russian hanna_event_08_5cc52393:
+translate russian hanna_event_08_ffb40b47:
     hanna.say "Да... я знаю!"
 
 # ch/hanna/events.rpy:2025
@@ -6929,7 +6213,7 @@ translate russian hanna_event_08_ba86f6ba:
     "Но я вижу, что мои слова подействовали."
 
 # ch/hanna/events.rpy:2056
-translate russian hanna_event_08_676f69a2:
+translate russian hanna_event_08_a5e53583:
     hanna.say "Ладно, ладно... твоя взяла!"
 
 # ch/hanna/events.rpy:2058
@@ -6965,7 +6249,7 @@ translate russian hanna_event_08_2c9b0bc2:
     hanna.say "Может, отвезёшь меня домой?"
 
 # ch/hanna/events.rpy:2073
-translate russian hanna_event_08_83718410:
+translate russian hanna_event_08_84d832a5:
     mike.say "Эм... ладно, Ханна."
 
 # ch/hanna/events.rpy:2074
@@ -7329,7 +6613,7 @@ translate russian hanna_event_08c_ace24745:
     "Она смеётся над собой и качает головой."
 
 # ch/hanna/events.rpy:2262
-translate russian hanna_event_08c_7dc9ae49:
+translate russian hanna_event_08c_7a28a5bf:
     hanna.say "Папа ходит на встречи, долгов нет, а я могу просто... быть инструктором."
 
 # ch/hanna/events.rpy:2263
@@ -7461,7 +6745,7 @@ translate russian hanna_event_09_intro_fbb2caae:
     hanna.say "Пойдём уже!"
 
 # ch/hanna/events.rpy:2318
-translate russian hanna_event_09_intro_0fcc6b02:
+translate russian hanna_event_09_intro_e0dc48f1:
     mike.say "Эм... я..."
 
 # ch/hanna/events.rpy:2319
@@ -7553,7 +6837,7 @@ translate russian hanna_event_09_98f21cf0:
     hanna.say "Как думаешь..."
 
 # ch/hanna/events.rpy:2376
-translate russian hanna_event_09_b523744c:
+translate russian hanna_event_09_aee16b02:
     mike.say "Т... ты хочешь танцевать?"
 
 # ch/hanna/events.rpy:2377
@@ -7645,7 +6929,7 @@ translate russian hanna_event_09_e888eccc:
     mike.say "И да, думал, получится дикое и необычное свидание."
 
 # ch/hanna/events.rpy:2408
-translate russian hanna_event_09_e3c051f6:
+translate russian hanna_event_09_0d190400:
     mike.say "Но... я..."
 
 # ch/hanna/events.rpy:2409
@@ -7689,7 +6973,7 @@ translate russian hanna_event_09_1729f2a3:
     "Но вдруг выражение её лица смягчается."
 
 # ch/hanna/events.rpy:2425
-translate russian hanna_event_09_0f9b4b5d:
+translate russian hanna_event_09_3e0c4614:
     hanna.say "Я... настолько тебе нравлюсь?"
 
 # ch/hanna/events.rpy:2427
@@ -7917,7 +7201,7 @@ translate russian hanna_event_09_63716e37:
     hanna.say "Похоже, ты под большим впечатлением, [lssb_hanna.hero_name()]!"
 
 # ch/hanna/events.rpy:2536
-translate russian hanna_event_09_b1217d3a:
+translate russian hanna_event_09_5c8b9d04:
     mike.say "А... я... пожалуй, да, Ханна!"
 
 # ch/hanna/events.rpy:2538
@@ -8693,7 +7977,7 @@ translate russian hanna_event_10_644e7294:
     hanna.say "Ничего, [lssb_hanna.hero_name()]."
 
 # ch/hanna/events.rpy:2866
-translate russian hanna_event_10_a2ec17f7:
+translate russian hanna_event_10_46db059d:
     hanna.say "Так... на чём мы остановились?"
 
 # ch/hanna/events.rpy:2869
@@ -9117,7 +8401,7 @@ translate russian hanna_event_10_6c50ad38:
     hanna.say "О боже..."
 
 # ch/hanna/events.rpy:3050
-translate russian hanna_event_10_ffe9db75:
+translate russian hanna_event_10_ab7e629b:
     hanna.say "Твой... твой член стал больше?"
 
 # ch/hanna/events.rpy:3051
@@ -9617,7 +8901,7 @@ translate russian hanna_event_10a_b4096ae9:
     hanna.say "Вот..."
 
 # ch/hanna/events.rpy:3278
-translate russian hanna_event_10a_fb743ea7:
+translate russian hanna_event_10a_41dd4d30:
     hanna.say "[lssb_hanna.hero_name()], кажется... кажется, я тебя люблю!"
 
 # ch/hanna/events.rpy:3281
@@ -9633,7 +8917,7 @@ translate russian hanna_event_10a_6eb1015b:
     "Недоумённо качаю головой: не понимаю, почему это было так трудно сказать."
 
 # ch/hanna/events.rpy:3284
-translate russian hanna_event_10a_db41f026:
+translate russian hanna_event_10a_37fd9db4:
     mike.say "Но это же хорошо... правда?"
 
 # ch/hanna/events.rpy:3285
@@ -9677,7 +8961,7 @@ translate russian hanna_event_10a_bbbc378f:
     hanna.say "Я перестала пытаться ловить взгляды других парней."
 
 # ch/hanna/events.rpy:3305
-translate russian hanna_event_10a_4bd88aec:
+translate russian hanna_event_10a_2d691ebf:
     hanna.say "А когда они на меня смотрели, я чувствовала себя... будто грязной."
 
 # ch/hanna/events.rpy:3306
@@ -9833,7 +9117,7 @@ translate russian hanna_event_10a_8356aec9:
     mike.say "ХАННА!"
 
 # ch/hanna/events.rpy:3366
-translate russian hanna_event_10a_aed4560f:
+translate russian hanna_event_10a_a5ccae93:
     hanna.say "Ч... что?!"
 
 # ch/hanna/events.rpy:3367
@@ -10013,7 +9297,7 @@ translate russian hanna_event_11_04039ff3:
     "Она не скрывает, что любит красоваться."
 
 # ch/hanna/events.rpy:3452
-translate russian hanna_event_11_159d22e0:
+translate russian hanna_event_11_7c4fcd7f:
     "И по голосу слышно, когда она... ну, в настроении!"
 
 # ch/hanna/events.rpy:3453
@@ -10345,7 +9629,7 @@ translate russian hanna_sub_event_01_adc428eb:
     mike.say "Я видел, что случилось у степперов."
 
 # ch/hanna/events.rpy:3600
-translate russian hanna_sub_event_01_699c0407:
+translate russian hanna_sub_event_01_41c04688:
     hanna.say "Уф... вот-вот!"
 
 # ch/hanna/events.rpy:3601
@@ -10377,7 +9661,7 @@ translate russian hanna_sub_event_01_eac733c5:
     "Но потом качает головой, словно напоминая себе, что сама на всё это согласилась."
 
 # ch/hanna/events.rpy:3612
-translate russian hanna_sub_event_01_09ad1bc8:
+translate russian hanna_sub_event_01_6c1e6f8a:
     hanna.say "А... да..."
 
 # ch/hanna/events.rpy:3613
@@ -10513,7 +9797,7 @@ translate russian hanna_sub_event_01_4bfdcb57:
     "Он разворачивается и поспешно уходит, понимая, что теперь все смотрят на него."
 
 # ch/hanna/events.rpy:3663
-translate russian hanna_sub_event_01_4cded3d1:
+translate russian hanna_sub_event_01_ce21f606:
     hanna.say "Эм... спасибо, наверное..."
 
 # ch/hanna/events.rpy:3664
@@ -10705,7 +9989,7 @@ translate russian hanna_sub_event_02_1451a838:
     hanna.say "Наконец-то ты пришёл!"
 
 # ch/hanna/events.rpy:3744
-translate russian hanna_sub_event_02_3f92d318:
+translate russian hanna_sub_event_02_b1d1b3ad:
     hanna.say "Гулять... пожалуйста?"
 
 # ch/hanna/events.rpy:3745
@@ -10748,10 +10032,6 @@ translate russian hanna_sub_event_02_d490fabd:
 translate russian hanna_sub_event_02_1ae2c902:
     "Ханна вдруг бросается к открытой двери, как собака, увидевшая возможность сбежать."
 
-# ch/hanna/events.rpy:3761
-translate russian hanna_sub_event_02_2564e606:
-    "Я инстинктивно тяну поводок назад, не успев подумать о последствиях." with hpunch
-
 # ch/hanna/events.rpy:3762
 translate russian hanna_sub_event_02_bbf9e0f5:
     "Её резко дёргает обратно, и она испуганно взвизгивает."
@@ -10777,7 +10057,7 @@ translate russian hanna_sub_event_02_45c70292:
     hanna.say "Пожалуйста, не наказывай меня!"
 
 # ch/hanna/events.rpy:3770
-translate russian hanna_sub_event_02_0a563344:
+translate russian hanna_sub_event_02_67be73fd:
     mike.say "А... всё... всё хорошо, Ханна."
 
 # ch/hanna/events.rpy:3771
@@ -11261,7 +10541,7 @@ translate russian hanna_gym_profits_4bbbfdf6:
     "Она отступает и изумлённо смотрит на меня."
 
 # ch/hanna/events.rpy:3966
-translate russian hanna_gym_profits_86372f2c:
+translate russian hanna_gym_profits_a9c7fa98:
     hanna.say "Эм... ты ПРАВДА такой тугодум?"
 
 # ch/hanna/events.rpy:3967
@@ -11665,7 +10945,7 @@ translate russian hanna_gym_profits_alternate_e1eeef9f:
     hanna.say "Я для тебя недостаточно хороша?"
 
 # ch/hanna/events.rpy:4116
-translate russian hanna_gym_profits_alternate_2371c2c0:
+translate russian hanna_gym_profits_alternate_fa8bafc4:
     hanna.say "Или... погоди-ка..."
 
 # ch/hanna/events.rpy:4118
@@ -11952,17 +11232,9 @@ translate russian hanna_gym_bj_097883c9:
 translate russian hanna_gym_bj_cd4f3ffa:
     "Тело жаждет разрядки, и я ничего не могу с этим поделать."
 
-# ch/hanna/events.rpy:4233
-translate russian hanna_gym_bj_643bc2f3:
-    mike.say "Ханна..." with hpunch
-
 # ch/hanna/events.rpy:4234
 translate russian hanna_gym_bj_c6b0b655:
     mike.say "Я не могу..."
-
-# ch/hanna/events.rpy:4235
-translate russian hanna_gym_bj_e1a5a9b0:
-    mike.say "Больше не выдержу..." with hpunch
 
 # ch/hanna/events.rpy:4236
 translate russian hanna_gym_bj_4756d527:
@@ -12317,7 +11589,7 @@ translate russian hanna_masturbate_68de4815:
     "Приподнимает задницу, вставая на носки, и вскрикивает."
 
 # ch/hanna/events.rpy:4369
-translate russian hanna_masturbate_85369c80:
+translate russian hanna_masturbate_5af8513d:
     "Девушка" "Да, давай... сделаем это! Лучшая тренировка. Грубее, грубее!"
 
 # ch/hanna/events.rpy:4370
@@ -12461,7 +11733,7 @@ translate russian hanna_masturbate_91a6eeb9:
     "Но как, чёрт возьми, её зовут? И как мне ТЕПЕРЬ представиться?!"
 
 # ch/hanna/events.rpy:4414
-translate russian hanna_preg_talk_e44d4152:
+translate russian hanna_preg_talk_d630b1db:
     hanna.say "Эй... эй, [lssb_hanna.hero_name()]... привет!"
 
 # ch/hanna/events.rpy:4416
@@ -12521,7 +11793,7 @@ translate russian hanna_preg_talk_98c83651:
     hanna.say "Как мы раньше ни разу не встретились?"
 
 # ch/hanna/events.rpy:4440
-translate russian hanna_preg_talk_ac5092fe:
+translate russian hanna_preg_talk_fb47c1f9:
     mike.say "Ну... вон там моё здание."
 
 # ch/hanna/events.rpy:4441
@@ -12553,11 +11825,11 @@ translate russian hanna_preg_talk_4b435ebc:
     "Но хоть убей не понимаю почему."
 
 # ch/hanna/events.rpy:4452
-translate russian hanna_preg_talk_024b984a:
+translate russian hanna_preg_talk_937aeb3a:
     hanna.say "Ну... возможно, чуть позже ты ещё подумаешь, веришь ли в это."
 
 # ch/hanna/events.rpy:4454
-translate russian hanna_preg_talk_4b7fe16d:
+translate russian hanna_preg_talk_fdb8b5d6:
     mike.say "Что... почему, Ханна?"
 
 # ch/hanna/events.rpy:4456
@@ -12581,7 +11853,7 @@ translate russian hanna_preg_talk_fb5c0f6c:
     mike.say "Ханна, ты меня пугаешь. Хочешь сказать, что мы расстаёмся?"
 
 # ch/hanna/events.rpy:4464
-translate russian hanna_preg_talk_852595fc:
+translate russian hanna_preg_talk_4e40c754:
     hanna.say "[lssb_hanna.hero_name()], нет... боже, нет! Не это!"
 
 # ch/hanna/events.rpy:4466
@@ -12589,7 +11861,7 @@ translate russian hanna_preg_talk_c4ca035c:
     hanna.say "Но почти так же серьёзно, наверное."
 
 # ch/hanna/events.rpy:4467
-translate russian hanna_preg_talk_9f7a2beb:
+translate russian hanna_preg_talk_3f2d6e3b:
     mike.say "Ох, чёрт... просто скажи, пожалуйста."
 
 # ch/hanna/events.rpy:4469
@@ -12605,7 +11877,7 @@ translate russian hanna_preg_talk_e9bf757c:
     "Словно кто-то подкрался и ударил меня кувалдой в живот."
 
 # ch/hanna/events.rpy:4478
-translate russian hanna_preg_talk_fa7589e8:
+translate russian hanna_preg_talk_36dd442b:
     mike.say "Ты... уверена?"
 
 # ch/hanna/events.rpy:4480
@@ -12685,7 +11957,7 @@ translate russian hanna_preg_talk_fe825999_1:
     mike.say "Да, твой отец владеет спортзалом. Но мы ведь оба не хотим садиться ему на шею?"
 
 # ch/hanna/events.rpy:4515
-translate russian hanna_preg_talk_32c314f8:
+translate russian hanna_preg_talk_a4edc649:
     hanna.say "То есть ты думаешь, нам... нам нужно..."
 
 # ch/hanna/events.rpy:4517
@@ -12721,7 +11993,7 @@ translate russian hanna_preg_talk_4cf775c5:
     mike.say "Что?"
 
 # ch/hanna/events.rpy:4538
-translate russian hanna_preg_talk_2c187b07:
+translate russian hanna_preg_talk_1f38e8fa:
     mike.say "Нет, Ханна... я... я... наоборот... понимаешь?"
 
 # ch/hanna/events.rpy:4540
@@ -12737,11 +12009,11 @@ translate russian hanna_preg_talk_a2dfdf9c:
     "Сама она выглядит скорее ошеломлённой, чем счастливой."
 
 # ch/hanna/events.rpy:4546
-translate russian hanna_preg_talk_f3b1f33f:
+translate russian hanna_preg_talk_37ef002b:
     hanna.say "Боже, я думала, ты разозлишься... или скажешь избавиться от него!"
 
 # ch/hanna/events.rpy:4548
-translate russian hanna_preg_talk_7909161b:
+translate russian hanna_preg_talk_e1ffd382:
     mike.say "Нет... с чего бы?"
 
 # ch/hanna/events.rpy:4550
@@ -12757,7 +12029,7 @@ translate russian hanna_preg_talk_08d7f687:
     hanna.say "Потом думала, как тебя выматывает работа, а у меня ведь не лучше..."
 
 # ch/hanna/events.rpy:4554
-translate russian hanna_preg_talk_5badda46:
+translate russian hanna_preg_talk_e9035cdc:
     mike.say "К чёрту работу, Ханна! Я хоть туалеты драить готов, лишь бы быть с тобой... и нашим ребёнком!"
 
 # ch/hanna/events.rpy:4555
@@ -12909,7 +12181,7 @@ translate russian hanna_birthday_date_male_ec459312:
     mike.say "Может, перенесут бронь попозже."
 
 # ch/hanna/events.rpy:4626
-translate russian hanna_birthday_date_male_da67f52f:
+translate russian hanna_birthday_date_male_6ced0e7f:
     mike.say "А если нет... ну, пойдём в другое место."
 
 # ch/hanna/events.rpy:4632
@@ -13497,7 +12769,7 @@ translate russian hanna_birthday_date_male_3487f21e:
     hanna.say "И все видят меня!"
 
 # ch/hanna/events.rpy:4850
-translate russian hanna_birthday_date_male_3a4fa1c2:
+translate russian hanna_birthday_date_male_a4447306:
     hanna.say "НАС... то есть все видят нас..."
 
 # ch/hanna/events.rpy:4851
@@ -13953,7 +13225,7 @@ translate russian hanna_birthday_date_male_c944d859:
     hanna.say "За мной там куча парней присматривала."
 
 # ch/hanna/events.rpy:5020
-translate russian hanna_birthday_date_male_9f22f531:
+translate russian hanna_birthday_date_male_16f0160f:
     mike.say "О... отлично."
 
 # ch/hanna/events.rpy:5021
@@ -14257,7 +13529,7 @@ translate russian hanna_birthday_date_male_94e524c9:
     "Потом лицо вытягивается: она понимает, что подарка не будет."
 
 # ch/hanna/events.rpy:5143
-translate russian hanna_birthday_date_male_09ad1bc8:
+translate russian hanna_birthday_date_male_6c1e6f8a:
     hanna.say "А... да..."
 
 # ch/hanna/events.rpy:5144
@@ -14393,7 +13665,7 @@ translate russian hanna_birthday_date_male_94e524c9_1:
     "Потом лицо вытягивается: она понимает, что подарка не будет."
 
 # ch/hanna/events.rpy:5211
-translate russian hanna_birthday_date_male_09ad1bc8_1:
+translate russian hanna_birthday_date_male_6c1e6f8a_1:
     hanna.say "А... да..."
 
 # ch/hanna/events.rpy:5212
@@ -14429,7 +13701,7 @@ translate russian hanna_birthday_date_male_30e74fc5:
     mike.say "Эм..."
 
 # ch/hanna/events.rpy:5225
-translate russian hanna_birthday_date_male_6acb7236:
+translate russian hanna_birthday_date_male_8ea6b899:
     mike.say "Ну что... домой?"
 
 # ch/hanna/events.rpy:5226
@@ -14629,7 +13901,7 @@ translate russian hanna_birthday_sex_4ec1bc87:
     "В тот самый, где каждый день проходят занятия!"
 
 # ch/hanna/events.rpy:5312
-translate russian hanna_birthday_sex_465f04a8:
+translate russian hanna_birthday_sex_e7b1aa14:
     mike.say "Х... Ханна..."
 
 # ch/hanna/events.rpy:5313
@@ -14877,7 +14149,7 @@ translate russian hanna_birthday_sex_da222432:
     hanna.say "Быстрее..."
 
 # ch/hanna/events.rpy:5435
-translate russian hanna_birthday_sex_e3424c35:
+translate russian hanna_birthday_sex_9819717e:
     hanna.say "Ну же... дай мне... ещё!"
 
 # ch/hanna/events.rpy:5436
@@ -14921,7 +14193,7 @@ translate russian hanna_birthday_sex_3e9bb378:
     hanna.say "О, блядь..."
 
 # ch/hanna/events.rpy:5476
-translate russian hanna_birthday_sex_0439669b:
+translate russian hanna_birthday_sex_7df0e5ac:
     hanna.say "Я... я сейчас кончу!"
 
 # ch/hanna/events.rpy:5477
@@ -15681,7 +14953,7 @@ translate russian hanna_hottub_sex_male_2b1a110e:
     hanna.say "Именно то, что мне было нужно."
 
 # ch/hanna/fuck.rpy:90
-translate russian hanna_hottub_sex_male_bc94b2a0:
+translate russian hanna_hottub_sex_male_234e7641:
     hanna.say "М-м-м... Как хорошо!"
 
 # ch/hanna/fuck.rpy:91
@@ -15711,10 +14983,6 @@ translate russian hanna_hottub_sex_male_c7e67b5e:
 # ch/hanna/fuck.rpy:97
 translate russian hanna_hottub_sex_male_d2622e7f:
     hanna.say "Я думала, мы просто вместе отдыхаем в джакузи."
-
-# ch/hanna/fuck.rpy:98
-translate russian hanna_hottub_sex_male_d820684d:
-    hanna.say "Или ты позвал меня сюда с какими-то другими намерениями?"
 
 # ch/hanna/fuck.rpy:99
 translate russian hanna_hottub_sex_male_26050ac6:
@@ -15783,10 +15051,6 @@ translate russian hanna_hottub_sex_male_47455e95:
 # ch/hanna/fuck.rpy:115
 translate russian hanna_hottub_sex_male_92f4e9a7:
     "Сколько бы Ханна ни строила из себя недотрогу, я знаю, что это лишь игра."
-
-# ch/hanna/fuck.rpy:116
-translate russian hanna_hottub_sex_male_6a954c68:
-    "Она хотела этого с той минуты, как согласилась прийти ко мне и посидеть в джакузи."
 
 # ch/hanna/fuck.rpy:117
 translate russian hanna_hottub_sex_male_67b796e2:
@@ -16305,7 +15569,7 @@ translate russian hanna_fuck_date_cunnilingus_a395912d:
     "Я уступаю это ей, и темп она выбирает жёсткий."
 
 # ch/hanna/fuck.rpy:353
-translate russian hanna_fuck_date_cunnilingus_1666dd99:
+translate russian hanna_fuck_date_cunnilingus_0b716261:
     hanna.say "Ах... блядь!"
 
 # ch/hanna/fuck.rpy:354
@@ -16565,7 +15829,7 @@ translate russian hanna_fuck_date_cowgirl_d18548af:
     "Я успеваю лишь потянуться к её бёдрам, собираясь приподнять её, пока не поздно."
 
 # ch/hanna/fuck.rpy:598
-translate russian hanna_fuck_date_cowgirl_1976fcfa:
+translate russian hanna_fuck_date_cowgirl_6ee1ee9f:
     hanna.say "Не надо... Я хочу внутрь."
 
 # ch/hanna/fuck.rpy:605
@@ -16625,7 +15889,7 @@ translate russian hanna_fuck_date_doggy_138d6cab:
     hanna.say "Чт..."
 
 # ch/hanna/fuck.rpy:631
-translate russian hanna_fuck_date_doggy_2d05df17:
+translate russian hanna_fuck_date_doggy_b61443fa:
     hanna.say "Ой... чёрт!"
 
 # ch/hanna/fuck.rpy:632
@@ -16661,7 +15925,7 @@ translate russian hanna_fuck_date_doggy_eefbadbb:
     hanna.say "Я такая ужасная растяпа."
 
 # ch/hanna/fuck.rpy:645
-translate russian hanna_fuck_date_doggy_1ede6717:
+translate russian hanna_fuck_date_doggy_1eb54aed:
     hanna.say "Ничего... ничего страшного, [lssb_hanna.hero_name()]."
 
 # ch/hanna/fuck.rpy:646
@@ -16737,7 +16001,7 @@ translate russian hanna_fuck_date_doggy_d226dd12:
     hanna.say "Как я и сказала, [lssb_hanna.hero_name()], кое-где ещё немного побаливает."
 
 # ch/hanna/fuck.rpy:671
-translate russian hanna_fuck_date_doggy_1ec156df:
+translate russian hanna_fuck_date_doggy_46d9964d:
     hanna.say "Может... ты не против... мне помочь?"
 
 # ch/hanna/fuck.rpy:672
@@ -17149,7 +16413,7 @@ translate russian hanna_fuck_date_doggy_c6081be6_1:
     "Я валюсь в другую сторону, обессиленный и тяжело дышащий."
 
 # ch/hanna/fuck.rpy:843
-translate russian hanna_fuck_date_doggy_529b5909:
+translate russian hanna_fuck_date_doggy_f84e8962:
     hanna.say "Ах... ах... [lssb_hanna.hero_name()]..."
 
 # ch/hanna/fuck.rpy:844
@@ -17157,7 +16421,7 @@ translate russian hanna_fuck_date_doggy_298319b9:
     hanna.say "Не останавливайся..."
 
 # ch/hanna/fuck.rpy:845
-translate russian hanna_fuck_date_doggy_1dea1297:
+translate russian hanna_fuck_date_doggy_030a89ad:
     hanna.say "Я... пью... таблетки!"
 
 # ch/hanna/fuck.rpy:846
@@ -17581,7 +16845,7 @@ translate russian hanna_fuck_date_missionary_f91768e2:
     "Круг замкнулся: ученик стал мастером!"
 
 # ch/hanna/fuck.rpy:1036
-translate russian hanna_fuck_date_missionary_edd7f895:
+translate russian hanna_fuck_date_missionary_ca45ce54:
     "Ну... по крайней мере, посетителю спортзала удалось превзойти своего тренера..."
 
 # ch/hanna/fuck.rpy:1037
@@ -17649,7 +16913,7 @@ translate russian hanna_fuck_date_missionary_11f2a1d3:
     "А я могу лишь лежать рядом и делать то же самое."
 
 # ch/hanna/fuck.rpy:1075
-translate russian hanna_fuck_date_missionary_26dea79d:
+translate russian hanna_fuck_date_missionary_539a5e27:
     hanna.say "Таблетки... ТАБЛЕТКИ!"
 
 # ch/hanna/fuck.rpy:1076
@@ -17673,11 +16937,11 @@ translate russian hanna_fuck_date_missionary_11f2a1d3_1:
     "А я могу лишь лежать рядом и делать то же самое."
 
 # ch/hanna/fuck.rpy:1089
-translate russian hanna_fuck_date_missionary_9075f864:
+translate russian hanna_fuck_date_missionary_3d0b19f2:
     hanna.say "Ох... ох..."
 
 # ch/hanna/fuck.rpy:1090
-translate russian hanna_fuck_date_missionary_88f0d6ef:
+translate russian hanna_fuck_date_missionary_e463e89d:
     hanna.say "Бере... беременна!"
 
 # ch/hanna/fuck.rpy:1091
@@ -17713,7 +16977,7 @@ translate russian hanna_fuck_date_missionary_aeb2a12f:
     mike.say "Ох, блядь... Ханна!"
 
 # ch/hanna/fuck.rpy:1113
-translate russian hanna_fuck_date_missionary_1137100f:
+translate russian hanna_fuck_date_missionary_8f15e901:
     hanna.say "Ты... ты кончил в меня!"
 
 # ch/hanna/fuck.rpy:1114
@@ -18261,7 +17525,7 @@ translate russian hanna_porch_sex_2d04e00e:
     mike.say "Ханна..."
 
 # ch/hanna/fuck.rpy:1367
-translate russian hanna_porch_sex_86a6d755:
+translate russian hanna_porch_sex_1dcdbb0e:
     mike.say "Ты... ты голая!"
 
 # ch/hanna/fuck.rpy:1369
@@ -18861,7 +18125,7 @@ translate russian get_hanna_lapdance_f0318f8f:
     hanna.say "Ещё со мной?"
 
 # ch/hanna/fuck.rpy:1545
-translate russian get_hanna_lapdance_afdd02b0:
+translate russian get_hanna_lapdance_1a3f4f16:
     mike.say "Д... да..."
 
 # ch/hanna/fuck.rpy:1546
@@ -18869,7 +18133,7 @@ translate russian get_hanna_lapdance_8c27dda4:
     mike.say "Да, Ханна..."
 
 # ch/hanna/fuck.rpy:1547
-translate russian get_hanna_lapdance_4fa75ce2:
+translate russian get_hanna_lapdance_9b56e889:
     mike.say "Я ещё... жив!"
 
 # ch/hanna/fuck.rpy:1548
@@ -19105,7 +18369,7 @@ translate russian hanna_gift_slutty_dress_male_97512740:
     mike.say "Я тут тебе кое-что купил."
 
 # ch/hanna/gift.rpy:130
-translate russian hanna_gift_slutty_dress_male_3fd74267:
+translate russian hanna_gift_slutty_dress_male_c36a917e:
     mike.say "Ну... кое-что, что поможет тебе... хорошо выглядеть?"
 
 # ch/hanna/gift.rpy:131
@@ -19197,7 +18461,7 @@ translate russian hanna_gift_slutty_dress_male_5582ea31:
     hanna.say "Ни один парень ещё не покупал мне такого платья!"
 
 # ch/hanna/gift.rpy:159
-translate russian hanna_gift_slutty_dress_male_2cd6a365:
+translate russian hanna_gift_slutty_dress_male_1d2c3f92:
     mike.say "Я... я понимаю, оно довольно смелое."
 
 # ch/hanna/gift.rpy:160
@@ -19233,7 +18497,7 @@ translate russian hanna_gift_slutty_dress_male_9ba91e72:
     hanna.say "Я хотела сказать, что ни у одного парня раньше не хватало смелости купить мне такое платье."
 
 # ch/hanna/gift.rpy:171
-translate russian hanna_gift_slutty_dress_male_924e69b5:
+translate russian hanna_gift_slutty_dress_male_c84c6759:
     hanna.say "Понять меня и выбрать что-то настолько... ну, настолько в моём духе!"
 
 # ch/hanna/gift.rpy:172
@@ -19253,7 +18517,7 @@ translate russian hanna_gift_slutty_dress_male_2c2e9a08:
     mike.say "Я хочу видеть, как ты показываешь себя во всей красе!"
 
 # ch/hanna/gift.rpy:177
-translate russian hanna_gift_slutty_dress_male_18700d0c:
+translate russian hanna_gift_slutty_dress_male_fc2c4433:
     mike.say "То есть... разумеется, в хорошем смысле, с уважением к тебе и твоей свободе."
 
 # ch/hanna/gift.rpy:178
@@ -19349,7 +18613,7 @@ translate russian hanna_gift_collar_male_0e071977:
     "Я вижу эту понимающую улыбку, и мне хочется смотреть ещё больше..."
 
 # ch/hanna/gift.rpy:216
-translate russian hanna_gift_collar_male_2c265241:
+translate russian hanna_gift_collar_male_2e6d67cc:
     "Нет... нужно сосредоточиться. Чёртова сексуальная Ханна!"
 
 # ch/hanna/gift.rpy:217
@@ -19357,7 +18621,7 @@ translate russian hanna_gift_collar_male_be831dff:
     mike.say "Что со мной?"
 
 # ch/hanna/gift.rpy:218
-translate russian hanna_gift_collar_male_7c4b75c0:
+translate russian hanna_gift_collar_male_569f0259:
     mike.say "Ничего со мной... в общем-то..."
 
 # ch/hanna/gift.rpy:219
@@ -19441,7 +18705,7 @@ translate russian hanna_gift_collar_male_cdcb0b2d:
     "И наконец обретает дар речи."
 
 # ch/hanna/gift.rpy:243
-translate russian hanna_gift_collar_male_4dfe5269:
+translate russian hanna_gift_collar_male_8cc83338:
     hanna.say "Ох, [lssb_hanna.hero_name()]... о нет... нет..."
 
 # ch/hanna/gift.rpy:244
@@ -19453,7 +18717,7 @@ translate russian hanna_gift_collar_male_97b287d5:
     "Она отводит его в сторону — не грубо, а словно не в силах даже видеть его у меня в руках."
 
 # ch/hanna/gift.rpy:246
-translate russian hanna_gift_collar_male_56625320:
+translate russian hanna_gift_collar_male_fe0d4f70:
     mike.say "Ханна... я думал..."
 
 # ch/hanna/gift.rpy:247
@@ -19469,7 +18733,7 @@ translate russian hanna_gift_collar_male_e3c54774:
     "Я и опомниться не успеваю, как она снова убегает размеренным шагом."
 
 # ch/hanna/gift.rpy:250
-translate russian hanna_gift_collar_male_d86a8ed3:
+translate russian hanna_gift_collar_male_e566020b:
     mike.say "Ханна... подожди!"
 
 # ch/hanna/gift.rpy:251
@@ -19481,11 +18745,11 @@ translate russian hanna_gift_collar_male_7909dba4:
     "Через мгновение я остаюсь один, мучительно осознавая, как сильно облажался."
 
 # ch/hanna/gift.rpy:256
-translate russian hanna_gift_collar_male_d88e57a8:
+translate russian hanna_gift_collar_male_8fda5e84:
     hanna.say "Чт... что это?"
 
 # ch/hanna/gift.rpy:257
-translate russian hanna_gift_collar_male_09b7c122:
+translate russian hanna_gift_collar_male_636385c5:
     hanna.say "Похоже на... собачий ошейник!"
 
 # ch/hanna/gift.rpy:258
@@ -19501,7 +18765,7 @@ translate russian hanna_gift_collar_male_6764f05f:
     mike.say "Да, Ханна, он похож на собачий ошейник."
 
 # ch/hanna/gift.rpy:261
-translate russian hanna_gift_collar_male_6873dba9:
+translate russian hanna_gift_collar_male_1e1a8444:
     mike.say "Но он твоего размера... и я хочу, чтобы ты его носила."
 
 # ch/hanna/gift.rpy:262
@@ -19525,7 +18789,7 @@ translate russian hanna_gift_collar_male_b7e515ea:
     mike.say "Скорее хочу показывать тебя всем как настоящий образец превосходной породы."
 
 # ch/hanna/gift.rpy:267
-translate russian hanna_gift_collar_male_9faf5347:
+translate russian hanna_gift_collar_male_4abf01a2:
     hanna.say "Ты хочешь... показывать меня всем?"
 
 # ch/hanna/gift.rpy:268
@@ -19589,7 +18853,7 @@ translate russian hanna_gift_collar_male_d879b13f:
     "Она охотно кивает."
 
 # ch/hanna/gift.rpy:286
-translate russian hanna_gift_collar_male_d64bd261:
+translate russian hanna_gift_collar_male_cb7fd71b:
     hanna.say "Да... господин!"
 
 # ch/hanna/gift.rpy:293
@@ -19637,11 +18901,11 @@ translate russian hanna_ice_cream_reaction_male_892ffc18:
     "Она выбирает то же самое, но с другим сочетанием вкусов."
 
 # ch/hanna/reactions.rpy:6
-translate russian hanna_ice_cream_reaction_male_598112f9:
+translate russian hanna_ice_cream_reaction_male_95ffb3ad:
     hanna.say "Обожаю мороженое... но..."
 
 # ch/hanna/reactions.rpy:7
-translate russian hanna_ice_cream_reaction_male_d4a0cd84:
+translate russian hanna_ice_cream_reaction_male_5d08f856:
     hanna.say "Уф... чёрт... ну-ка сюда!"
 
 # ch/hanna/reactions.rpy:8
@@ -19925,7 +19189,7 @@ translate russian hanna_breakup_male_52c65242:
     mike.say "Что?!"
 
 # ch/hanna/reactions.rpy:138
-translate russian hanna_breakup_male_89b11508:
+translate russian hanna_breakup_male_eb7a37bf:
     mike.say "Ой... нет, нет."
 
 # ch/hanna/reactions.rpy:139
@@ -19977,7 +19241,7 @@ translate russian hanna_breakup_male_210c809b:
     hanna.say "Чувствую, будто меня просто выбросили!"
 
 # ch/hanna/reactions.rpy:152
-translate russian hanna_breakup_male_f5c710a0:
+translate russian hanna_breakup_male_eca0b7c7:
     hanna.say "Как... как старый, пропотевший спортивный лифчик!"
 
 # ch/hanna/reactions.rpy:153
@@ -20053,7 +19317,7 @@ translate russian hanna_pet_happy_male_138d6cab:
     hanna.say "Чт..."
 
 # ch/hanna/reactions.rpy:188
-translate russian hanna_pet_happy_male_2309eaa2:
+translate russian hanna_pet_happy_male_dfc19c6d:
     hanna.say "Ты... ты сейчас..."
 
 # ch/hanna/reactions.rpy:189
@@ -20141,7 +19405,7 @@ translate russian hanna_piercing_nipples_reaction_male_96246cbf:
     hanna.say "Они делают меня ещё красивее!"
 
 # ch/hanna/reactions.rpy:228
-translate russian hanna_piercing_navel_reaction_male_97ee06d0:
+translate russian hanna_piercing_navel_reaction_male_caa657ce:
     hanna.say "Ух ты... Раньше я думала, что мой пресс уже не может стать лучше."
 
 # ch/hanna/reactions.rpy:229
@@ -20193,11 +19457,11 @@ translate russian hanna_movie_disliked_reaction_male_e5f8879a:
     hanna.say "Ну и тухлятина! Даже моя спортивная форма недельной давности лучше!"
 
 # ch/hanna/reactions.rpy:256
-translate russian hanna_movie_indifferent_reaction_male_e3a92c4e:
+translate russian hanna_movie_indifferent_reaction_male_d30e8799:
     hanna.say "Уф... Мне было ТАК скучно, что я перестала следить за фильмом!"
 
 # ch/hanna/reactions.rpy:260
-translate russian hanna_movie_liked_reaction_male_ebfc20be:
+translate russian hanna_movie_liked_reaction_male_2ffb007b:
     hanna.say "Вау... Мне очень понравилось! Сердце так и колотилось!"
 
 # ch/hanna/reactions.rpy:265
@@ -20325,7 +19589,7 @@ translate russian hanna_belly_kiss_male_1791605f:
     hanna.say "Если правда хочешь..."
 
 # ch/hanna/reactions.rpy:305
-translate russian hanna_belly_kiss_male_80e54d3c:
+translate russian hanna_belly_kiss_male_e92536c5:
     hanna.say "Ладно, ладно... Только если считаешь меня богиней красоты."
 
 # ch/hanna/reactions.rpy:306
@@ -20601,7 +19865,7 @@ translate russian hanna_talk_sex_male_7db1a2d3:
     mike.say "Дать волю зверю и хорошенько оттрахать девушку, понимаешь?"
 
 # ch/hanna/talk.rpy:46
-translate russian hanna_talk_sex_male_0246f76b:
+translate russian hanna_talk_sex_male_3d354178:
     hanna.say "А-а... н... ну... это... сильно!"
 
 # ch/hanna/talk.rpy:49
@@ -20677,7 +19941,7 @@ translate russian hanna_talk_politics_male_ba0b200a:
     mike.say "В политике тоже есть вопросы здоровья и физкультуры: например, как приучить детей заниматься спортом и правильно питаться."
 
 # ch/hanna/talk.rpy:80
-translate russian hanna_talk_politics_male_f91ab44f:
+translate russian hanna_talk_politics_male_866b5f5f:
     hanna.say "Хм... Знаешь, может, ты и прав."
 
 # ch/hanna/talk.rpy:81
@@ -21169,7 +20433,7 @@ translate russian submissive_interact_hanna_male_418f6856:
     mike.say "Может, что хочешь, чтобы я показывал тебя всем?"
 
 # ch/hanna/talk.rpy:393
-translate russian submissive_interact_hanna_male_dca0f296:
+translate russian submissive_interact_hanna_male_fa6f21e8:
     hanna.say "Мне... мне правда нравится, когда на меня смотрят."
 
 # ch/hanna/talk.rpy:394
@@ -21337,7 +20601,7 @@ translate russian hanna_friendly_texts_male_4568e97e:
     hanna_nvl "Хочешь присоединиться?"
 
 # ch/hanna/texts.rpy:77
-translate russian hanna_friendly_texts_male_3d10b85c:
+translate russian hanna_friendly_texts_male_3cd9c4eb:
     mchero_nvl "Эм... Думаю, я пас."
 
 # ch/hanna/texts.rpy:85
@@ -21513,7 +20777,7 @@ translate russian hanna_dirty_texts_male_0efd1ef1:
     hanna_nvl "А не чтобы тебе было на что подрочить!"
 
 # ch/hanna/texts.rpy:215
-translate russian hanna_dirty_texts_male_f02eee4a:
+translate russian hanna_dirty_texts_male_592db392:
     hanna_nvl "О да... Я ТАК вспотела, что с меня капает!"
 
 # ch/hanna/texts.rpy:216

@@ -24,10 +24,6 @@ translate russian ask_bree_about_lexi_0c9f3230:
 translate russian ask_bree_about_lexi_b57eb115:
     "И я знаю, что она старается помочь везде, где может."
 
-# ch/harems/home/events/home_harem_lexi.rpy:241
-translate russian ask_bree_about_lexi_1a0829b9:
-    mike.say "Эй, [lssb_homelexi.bree_name()]!"
-
 # ch/harems/home/events/home_harem_lexi.rpy:242
 translate russian ask_bree_about_lexi_9e3c01f5:
     mike.say "Есть свободная минутка?"
@@ -49,7 +45,7 @@ translate russian ask_bree_about_lexi_b576b98f:
     bree.say "Что случилось?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:249
-translate russian ask_bree_about_lexi_24620634:
+translate russian ask_bree_about_lexi_14976137:
     mike.say "Эм... я..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:250
@@ -93,7 +89,7 @@ translate russian ask_bree_about_lexi_cd0f1ccf:
     bree.say "Какой ужас!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:263
-translate russian ask_bree_about_lexi_64642b1b:
+translate russian ask_bree_about_lexi_730e020a:
     bree.say "То есть теперь... даже жить негде?!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:264
@@ -107,10 +103,6 @@ translate russian ask_bree_about_lexi_73a9420e:
 # ch/harems/home/events/home_harem_lexi.rpy:266
 translate russian ask_bree_about_lexi_62b3cf7a:
     "А она уже заполняет пробелы быстрее, чем я успеваю говорить!"
-
-# ch/harems/home/events/home_harem_lexi.rpy:267
-translate russian ask_bree_about_lexi_61c549bd:
-    mike.say "Да, [lssb_homelexi.bree_name()], именно так."
 
 # ch/harems/home/events/home_harem_lexi.rpy:268
 translate russian ask_bree_about_lexi_d8699dfe:
@@ -135,10 +127,6 @@ translate russian ask_bree_about_lexi_102b10a9:
 # ch/harems/home/events/home_harem_lexi.rpy:274
 translate russian ask_bree_about_lexi_2a24396e:
     "Поэтому я глубоко вдыхаю, готовясь перейти к сути."
-
-# ch/harems/home/events/home_harem_lexi.rpy:275
-translate russian ask_bree_about_lexi_873cde24:
-    mike.say "Вот к этому я и подводил, [lssb_homelexi.bree_name()]."
 
 # ch/harems/home/events/home_harem_lexi.rpy:276
 translate russian ask_bree_about_lexi_d3d160af:
@@ -197,7 +185,7 @@ translate russian ask_bree_about_lexi_e6466705:
     mike.say "А какая разница?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:296
-translate russian ask_bree_about_lexi_8a1c4863:
+translate russian ask_bree_about_lexi_1ada80fc:
     bree.say "Я... понимаю, что разницы быть не должно..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:297
@@ -761,7 +749,7 @@ translate russian ask_sam_about_lexi_6d4b9257:
     samantha.say "Как я могу согласиться помочь, если даже этого не знаю?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:487
-translate russian ask_sam_about_lexi_4578e59b:
+translate russian ask_sam_about_lexi_5741118b:
     mike.say "Я... пожалуй, ты права."
 
 # ch/harems/home/events/home_harem_lexi.rpy:489
@@ -785,11 +773,11 @@ translate russian ask_sam_about_lexi_37bb305a:
     "Кажется, отрицать уже бессмысленно."
 
 # ch/harems/home/events/home_harem_lexi.rpy:496
-translate russian ask_sam_about_lexi_44b372ce:
+translate russian ask_sam_about_lexi_c47ef478:
     mike.say "А... да, Кексик, ты меня раскусила!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:498
-translate russian ask_sam_about_lexi_f4f9891f:
+translate russian ask_sam_about_lexi_d8ef093d:
     mike.say "А... да, Сэм, ты меня раскусила!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:499
@@ -977,7 +965,7 @@ translate russian ask_sasha_about_lexi_b251ee36:
     "Так что поднимаю эту тему с немалым трепетом..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:564
-translate russian ask_sasha_about_lexi_ea409598:
+translate russian ask_sasha_about_lexi_f932e9c2:
     mike.say "Эм... Саша?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:565
@@ -1005,7 +993,7 @@ translate russian ask_sasha_about_lexi_56ffe635:
     sasha.say "Я вся внимание."
 
 # ch/harems/home/events/home_harem_lexi.rpy:572
-translate russian ask_sasha_about_lexi_97752920:
+translate russian ask_sasha_about_lexi_1c53c5fb:
     mike.say "Отлично, Саша... просто отлично!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:574
@@ -1077,7 +1065,7 @@ translate russian ask_sasha_about_lexi_fbca8703:
     sasha.say "Ты подумал, нельзя ли временно поселиться здесь, верно?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:594
-translate russian ask_sasha_about_lexi_6c56733f:
+translate russian ask_sasha_about_lexi_6eb07044:
     mike.say "А... да, именно!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:596
@@ -1093,7 +1081,7 @@ translate russian ask_sasha_about_lexi_fcb5bdf0:
     sasha.say "Случайно не с девушкой?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:600
-translate russian ask_sasha_about_lexi_34b7e006:
+translate russian ask_sasha_about_lexi_d5d9cc4a:
     mike.say "Д... да, с девушкой."
 
 # ch/harems/home/events/home_harem_lexi.rpy:601
@@ -1137,7 +1125,7 @@ translate russian ask_sasha_about_lexi_ecf3ac22:
     "Саша задумчиво хмурится."
 
 # ch/harems/home/events/home_harem_lexi.rpy:616
-translate russian ask_sasha_about_lexi_764ac22e:
+translate russian ask_sasha_about_lexi_45cfd8a3:
     sasha.say "Хм... не знаю."
 
 # ch/harems/home/events/home_harem_lexi.rpy:617
@@ -1345,7 +1333,7 @@ translate russian lexi_moving_in_39518b5b:
     lexi.say "Мне ведь, похоже, всего лишь на диване спать!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:710
-translate russian lexi_moving_in_4958fada:
+translate russian lexi_moving_in_3fd45733:
     mike.say "А... я..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:711
@@ -1353,7 +1341,7 @@ translate russian lexi_moving_in_fd9b0acf:
     mike.say "Разве тебе не нужно забрать вещи?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:713
-translate russian lexi_moving_in_8a81bfe4:
+translate russian lexi_moving_in_5d688d6e:
     lexi.say "Эй... приём?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:714
@@ -1537,7 +1525,7 @@ translate russian lexi_moving_in_f138070a:
     "Потому что все мои соседки сидят прямо здесь!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:785
-translate russian lexi_moving_in_1290fb96:
+translate russian lexi_moving_in_0adcbef7:
     mike.say "А... это..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:786
@@ -1817,7 +1805,7 @@ translate russian lexi_moving_in_8e9306b8:
     "Остальные девушки переглядываются, краснеют и опускают глаза."
 
 # ch/harems/home/events/home_harem_lexi.rpy:925
-translate russian lexi_moving_in_68296c1e:
+translate russian lexi_moving_in_50692370:
     bree.say "Я... думаю, надо быть честными с нашей новой соседкой."
 
 # ch/harems/home/events/home_harem_lexi.rpy:927
@@ -1953,7 +1941,7 @@ translate russian bree_lexi_threesome_intro_dae29c1b:
     mike.say "Прости..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:994
-translate russian bree_lexi_threesome_intro_88a109a8:
+translate russian bree_lexi_threesome_intro_a82b28d3:
     mike.say "Ты сейчас сказала, что вам хочется... секса?!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:996
@@ -2025,7 +2013,7 @@ translate russian bree_lexi_threesome_intro_61b39988:
     mike.say "Вы заявились сюда словно две участницы пикета!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:1019
-translate russian bree_lexi_threesome_intro_d5920690:
+translate russian bree_lexi_threesome_intro_e15a3af0:
     mike.say "Ну... может, озабоченные участницы пикета..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:1021
@@ -2053,7 +2041,7 @@ translate russian bree_lexi_threesome_intro_3a109166:
     "И я вижу, как их щёки начинают краснеть."
 
 # ch/harems/home/events/home_harem_lexi.rpy:1032
-translate russian bree_lexi_threesome_intro_22874f59:
+translate russian bree_lexi_threesome_intro_fcd791b6:
     bree.say "Ну... а ты хочешь?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:1034
@@ -2280,10 +2268,6 @@ translate russian bree_lexi_threesome_breefuck_af814592:
 translate russian bree_lexi_threesome_breefuck_85465b8a:
     "Всем существом я хочу погрузиться в неё, едва почувствовав это."
 
-# ch/harems/home/events/home_harem_lexi.rpy:1128
-translate russian bree_lexi_threesome_breefuck_cbccb5bf:
-    mike.say "Как приятно, [lssb_homelexi.bree_name()]..."
-
 # ch/harems/home/events/home_harem_lexi.rpy:1129
 translate russian bree_lexi_threesome_breefuck_8d150dc8:
     mike.say "Охуенно приятно!"
@@ -2437,7 +2421,7 @@ translate russian bree_lexi_threesome_breefuck_9920efc1:
     bree.say "Ох, блядь..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:1176
-translate russian bree_lexi_threesome_breefuck_5ad0b820:
+translate russian bree_lexi_threesome_breefuck_114e581a:
     bree.say "Я... я больше не могу!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:1177
@@ -2507,10 +2491,6 @@ translate russian bree_lexi_threesome_breefuck_1bab3e29:
 # ch/harems/home/events/home_harem_lexi.rpy:1205
 translate russian bree_lexi_threesome_breefuck_85465b8a_1:
     "Всем существом я хочу погрузиться в неё, едва почувствовав это."
-
-# ch/harems/home/events/home_harem_lexi.rpy:1206
-translate russian bree_lexi_threesome_breefuck_cbccb5bf_1:
-    mike.say "Как приятно, [lssb_homelexi.bree_name()]..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:1207
 translate russian bree_lexi_threesome_breefuck_8d150dc8_1:
@@ -2673,7 +2653,7 @@ translate russian bree_lexi_threesome_breefuck_9920efc1_1:
     bree.say "Ох, блядь..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:1251
-translate russian bree_lexi_threesome_breefuck_5ad0b820_1:
+translate russian bree_lexi_threesome_breefuck_114e581a_1:
     bree.say "Я... я больше не могу!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:1252
@@ -3633,7 +3613,7 @@ translate russian lexi_sasha_threesome_intro_d28f27f3:
     mike.say "Саша..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:1599
-translate russian lexi_sasha_threesome_intro_58338e87:
+translate russian lexi_sasha_threesome_intro_eba59d0b:
     mike.say "Т... ты следующая!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:1600
@@ -3813,7 +3793,7 @@ translate russian lexi_sasha_threesome_intro_a0f60288:
     sasha.say "Ох, [lssb_common.hero_name()]..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:1669
-translate russian lexi_sasha_threesome_intro_0db9fd31:
+translate russian lexi_sasha_threesome_intro_6c267977:
     sasha.say "Он... он такой большой!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:1671
@@ -3901,7 +3881,7 @@ translate russian lexi_sasha_threesome_intro_8d214992:
     sasha.say "Ох, блядь..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:1694
-translate russian lexi_sasha_threesome_intro_48c82545:
+translate russian lexi_sasha_threesome_intro_a3cc6640:
     sasha.say "Сейчас... сейчас кончу!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:1695
@@ -4113,7 +4093,7 @@ translate russian lexi_sasha_threesome_intro_a0f60288_1:
     sasha.say "Ох, [lssb_common.hero_name()]..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:1769
-translate russian lexi_sasha_threesome_intro_0db9fd31_1:
+translate russian lexi_sasha_threesome_intro_6c267977_1:
     sasha.say "Он... он такой большой!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:1770
@@ -4201,7 +4181,7 @@ translate russian lexi_sasha_threesome_intro_8d214992_1:
     sasha.say "Ох, блядь..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:1794
-translate russian lexi_sasha_threesome_intro_48c82545_1:
+translate russian lexi_sasha_threesome_intro_a3cc6640_1:
     sasha.say "Сейчас... сейчас кончу!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:1795
@@ -4740,10 +4720,6 @@ translate russian bree_lexi_pregnant_showdown_6387b773:
 translate russian bree_lexi_pregnant_showdown_55c6f4a2:
     bree.say "И спорим, даже не знает, кто отец!"
 
-# ch/harems/home/events/home_harem_lexi.rpy:2065
-translate russian bree_lexi_pregnant_showdown_76d50394:
-    mike.say "Тебе бы говорить потише, [lssb_homelexi.bree_name()]!"
-
 # ch/harems/home/events/home_harem_lexi.rpy:2067
 translate russian bree_lexi_pregnant_showdown_ca184174:
     "Бри поворачивается ко мне с нескрываемым удивлением."
@@ -4909,7 +4885,7 @@ translate russian bree_lexi_pregnant_showdown_27fcb0e4:
     "Но, к моему удивлению, в их глазах словно появляется сомнение!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:2124
-translate russian bree_lexi_pregnant_showdown_da39073f:
+translate russian bree_lexi_pregnant_showdown_bb358ba2:
     bree.say "Я... понимаю, что это странно."
 
 # ch/harems/home/events/home_harem_lexi.rpy:2125
@@ -4945,7 +4921,7 @@ translate russian bree_lexi_pregnant_showdown_19b70f05:
     "А они, кажется, находят выход прямо у меня на глазах!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:2136
-translate russian bree_lexi_pregnant_showdown_ff830329:
+translate russian bree_lexi_pregnant_showdown_54c1ccf9:
     mike.say "Ну... конечно..."
 
 # ch/harems/home/events/home_harem_lexi.rpy:2137
@@ -5053,7 +5029,7 @@ translate russian bree_lexi_pregnant_showdown_0c5c065f:
     "Не обращая внимания на мои просьбы поговорить."
 
 # ch/harems/home/events/home_harem_lexi.rpy:2176
-translate russian bree_lexi_pregnant_showdown_da39073f_1:
+translate russian bree_lexi_pregnant_showdown_bb358ba2_1:
     bree.say "Я... понимаю, что это странно."
 
 # ch/harems/home/events/home_harem_lexi.rpy:2177
@@ -5501,7 +5477,7 @@ translate russian bree_lexi_minami_sasha_male_ending_c896f494:
     sasha.say "Значит, я знаю его дольше всех."
 
 # ch/harems/home/events/home_harem_lexi.rpy:2345
-translate russian bree_lexi_minami_sasha_male_ending_33ac1836:
+translate russian bree_lexi_minami_sasha_male_ending_189e5bd1:
     bree.say "Эй, нет уж, Саша!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:2346
@@ -5577,7 +5553,7 @@ translate russian bree_lexi_minami_sasha_male_ending_e5aa71d0:
     sasha.say "[lssb_common.hero_name()] мог бы стать основателем целого народа."
 
 # ch/harems/home/events/home_harem_lexi.rpy:2368
-translate russian bree_lexi_minami_sasha_male_ending_689bc470:
+translate russian bree_lexi_minami_sasha_male_ending_9b973e85:
     lexi.say "Эм... странно!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:2369
@@ -5601,7 +5577,7 @@ translate russian bree_lexi_minami_sasha_male_ending_538f70f3:
     lexi.say "Парочку ещё втиснем, а?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:2375
-translate russian bree_lexi_minami_sasha_male_ending_96074712:
+translate russian bree_lexi_minami_sasha_male_ending_8cb093c0:
     minami.say "Эм... к нам кто-то ещё переезжает?"
 
 # ch/harems/home/events/home_harem_lexi.rpy:2376
@@ -6109,7 +6085,7 @@ translate russian bree_lexi_samantha_sasha_male_ending_c896f494:
     sasha.say "Значит, я знаю его дольше всех."
 
 # ch/harems/home/events/home_harem_lexi.rpy:2553
-translate russian bree_lexi_samantha_sasha_male_ending_33ac1836:
+translate russian bree_lexi_samantha_sasha_male_ending_189e5bd1:
     bree.say "Эй, нет уж, Саша!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:2554
@@ -6201,7 +6177,7 @@ translate russian bree_lexi_samantha_sasha_male_ending_e5aa71d0:
     sasha.say "[lssb_common.hero_name()] мог бы стать основателем целого народа."
 
 # ch/harems/home/events/home_harem_lexi.rpy:2579
-translate russian bree_lexi_samantha_sasha_male_ending_689bc470:
+translate russian bree_lexi_samantha_sasha_male_ending_9b973e85:
     lexi.say "Эм... странно!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:2580
@@ -6233,7 +6209,7 @@ translate russian bree_lexi_samantha_sasha_male_ending_baf2acfc:
     sasha.say "Но чего ещё ждать от ребёнка, у которого пять мам!"
 
 # ch/harems/home/events/home_harem_lexi.rpy:2592
-translate russian bree_lexi_samantha_sasha_male_ending_421c41b0:
+translate russian bree_lexi_samantha_sasha_male_ending_29912d2b:
     samantha.say "Ха... Джемайма уже вьёт из нас верёвки."
 
 # ch/harems/home/events/home_harem_lexi.rpy:2593

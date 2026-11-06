@@ -73,7 +73,7 @@ translate russian best_customer_service_93897638:
     "И правильно: она сильная, независимая женщина и спуску никому не даёт!"
 
 # ch/harems_full/fashion/events.rpy:48
-translate russian best_customer_service_e746dbd0:
+translate russian best_customer_service_03cc353d:
     "Ну и... чертовски сексуальная!"
 
 # ch/harems_full/fashion/events.rpy:49
@@ -161,7 +161,7 @@ translate russian best_customer_service_6d2303b8:
     "Но затем встряхивается и устало мне улыбается."
 
 # ch/harems_full/fashion/events.rpy:81
-translate russian best_customer_service_b12d09ec:
+translate russian best_customer_service_1d45b372:
     sasha.say "А... да, [lssb_common.hero_name()]!"
 
 # ch/harems_full/fashion/events.rpy:82
@@ -269,7 +269,7 @@ translate russian best_customer_service_24408388:
     "Лишь когда она уходит, я задумываюсь над её словами."
 
 # ch/harems_full/fashion/events.rpy:117
-translate russian best_customer_service_d0f72f8c:
+translate russian best_customer_service_6b0b08ee:
     "Постойте... То есть голосовавшие за неё люди нравятся ей больше, чем я?!"
 
 # ch/harems_full/fashion/events.rpy:118
@@ -457,7 +457,7 @@ translate russian best_customer_service_9543ac75:
     "Она тут же выходит за мной в торговый зал и закрывает дверь."
 
 # ch/harems_full/fashion/events.rpy:177
-translate russian best_customer_service_17f4c60e:
+translate russian best_customer_service_b71f784f:
     mike.say "Эм... Это магазин, Саша."
 
 # ch/harems_full/fashion/events.rpy:178
@@ -481,7 +481,7 @@ translate russian best_customer_service_5f826373:
     "Она растеряна и злится гораздо сильнее, чем того заслуживает ситуация."
 
 # ch/harems_full/fashion/events.rpy:184
-translate russian best_customer_service_e8731ad3:
+translate russian best_customer_service_10c90634:
     sasha.say "Я... наверное, ты прав..."
 
 # ch/harems_full/fashion/events.rpy:185
@@ -509,7 +509,7 @@ translate russian best_customer_service_d6f70e4b:
     mike.say "Тебя здесь не слишком загоняли?"
 
 # ch/harems_full/fashion/events.rpy:191
-translate russian best_customer_service_d7cbe634:
+translate russian best_customer_service_038a3ea4:
     mike.say "Я... хотел сказать, как здорово, что ты получила награду."
 
 # ch/harems_full/fashion/events.rpy:192
@@ -629,7 +629,7 @@ translate russian best_customer_service_0350326d:
     "Я подаюсь вперёд, пытаясь получше рассмотреть вторую участницу."
 
 # ch/harems_full/fashion/events.rpy:229
-translate russian best_customer_service_a5a291ed:
+translate russian best_customer_service_258b6edc:
     "Это... это Палла!"
 
 # ch/harems_full/fashion/events.rpy:230
@@ -677,7 +677,7 @@ translate russian best_customer_service_b5f0d174:
     sasha.say "Тебя заводит обращаться с людьми как с ДЕРЬМОМ!"
 
 # ch/harems_full/fashion/events.rpy:245
-translate russian best_customer_service_77bfef7a:
+translate russian best_customer_service_5b795829:
     "Ого... Вот это накал!"
 
 # ch/harems_full/fashion/events.rpy:246
@@ -1033,11 +1033,11 @@ translate russian fashion_sex_2143187b:
     "Но затем Палла оглядывается на Сашу, и они словно молча о чём-то договариваются."
 
 # ch/harems_full/fashion/events.rpy:380
-translate russian fashion_sex_ba955c42:
+translate russian fashion_sex_fb3108f0:
     sasha.say "Я... думаю, помощь не помешает..."
 
 # ch/harems_full/fashion/events.rpy:381
-translate russian fashion_sex_63aa9394:
+translate russian fashion_sex_bcf40233:
     sasha.say "Я как раз пыталась... удовлетворить эту непростую покупательницу!"
 
 # ch/harems_full/fashion/events.rpy:382
@@ -2073,7 +2073,7 @@ translate russian palla_sasha_male_ending_3e2575fe:
     sasha.say "Я чуть не опоздала..."
 
 # ch/harems_full/fashion/events.rpy:770
-translate russian palla_sasha_male_ending_c25e865e:
+translate russian palla_sasha_male_ending_cfc0b92b:
     palla.say "Эм... ладно..."
 
 # ch/harems_full/fashion/events.rpy:771
@@ -2101,7 +2101,7 @@ translate russian palla_sasha_male_ending_592a782c:
     sasha.say "А, да..."
 
 # ch/harems_full/fashion/events.rpy:780
-translate russian palla_sasha_male_ending_c929c2c4:
+translate russian palla_sasha_male_ending_a2e6446a:
     sasha.say "Ну... с ним-то жить несложно, Палла."
 
 # ch/harems_full/fashion/events.rpy:781
@@ -2189,7 +2189,7 @@ translate russian palla_sasha_male_ending_c8efdc87:
     palla.say "Что ты такое говоришь, Саша?"
 
 # ch/harems_full/fashion/events.rpy:809
-translate russian palla_sasha_male_ending_40b43ead:
+translate russian palla_sasha_male_ending_962f73a8:
     palla.say "Он ведь не стал бы... правда?!"
 
 # ch/harems_full/fashion/events.rpy:810
@@ -2337,7 +2337,7 @@ translate russian palla_sasha_male_ending_d61857ca:
     sasha.say "А-А!"
 
 # ch/harems_full/fashion/events.rpy:892
-translate russian palla_sasha_male_ending_fecb2a0f:
+translate russian palla_sasha_male_ending_dc689745:
     sasha.say "Да... такое вполне возможно."
 
 # ch/harems_full/fashion/events.rpy:895

@@ -123,7 +123,7 @@ screen appearance(npc=None):
 
     key ["K_ESCAPE", "mouseup_3", "pad_b_press"] action Return()
 
-    on "show" action [Hide("smartphone"), Hide("story_tracker"), Function(hide_people)]
+    on "show" action [Hide("smartphone"), Hide("story_tracker"), Function(hide_people), Function(renpy.hide, npc.id, layer="master")]
     on "hide" action Function(show_people)
 
     default submenu = None

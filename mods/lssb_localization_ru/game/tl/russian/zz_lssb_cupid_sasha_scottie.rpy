@@ -270,7 +270,7 @@ translate russian cupid_sasha_scottie_event_01_2255a4e0:
 translate russian cupid_sasha_scottie_event_01_7c49134f:
     sasha.say "У неё ещё были рукава, и заканчивалась она не сразу под грудью!"
 
-translate russian cupid_sasha_scottie_event_01_c294b3a5:
+translate russian cupid_sasha_scottie_event_01_5f69ce46:
     scottie.say "А... ну..."
 
 translate russian cupid_sasha_scottie_event_01_5f1bee00:
@@ -294,7 +294,7 @@ translate russian cupid_sasha_scottie_event_01_0668020d:
 translate russian cupid_sasha_scottie_event_01_8f1793b9:
     sasha.say "Знаешь, Скотти, иногда я ловлю себя на мысли, что ты не так уж плох."
 
-translate russian cupid_sasha_scottie_event_01_ab6b541e:
+translate russian cupid_sasha_scottie_event_01_d9115bc7:
     scottie.say "О... Спасибо, Саша!"
 
 translate russian cupid_sasha_scottie_event_01_e37be6e7:
@@ -315,7 +315,7 @@ translate russian cupid_sasha_scottie_event_01_49996674:
 translate russian cupid_sasha_scottie_event_01_ad92dfd9:
     "Затем сердито уходит наверх, оставив его ошарашенным."
 
-translate russian cupid_sasha_scottie_event_01_ee1f1bd4:
+translate russian cupid_sasha_scottie_event_01_0d54c621:
     "Вот же бедный тупица. Он и правда не понимает, что только что произошло!"
 
 translate russian cupid_sasha_scottie_event_01_2ef1845a:
@@ -345,7 +345,7 @@ translate russian cupid_sasha_scottie_event_01_678f49d2:
 translate russian cupid_sasha_scottie_event_01_6cb12b49:
     mike.say "Скотти, можно тебя кое о чём спросить?"
 
-translate russian cupid_sasha_scottie_event_01_b7ce0e83:
+translate russian cupid_sasha_scottie_event_01_46c1385d:
     scottie.say "Э-э... Попробуй."
 
 translate russian cupid_sasha_scottie_event_01_ef29f311:
@@ -363,7 +363,7 @@ translate russian cupid_sasha_scottie_event_01_79c1ee87:
 translate russian cupid_sasha_scottie_event_01_50f43749:
     scottie.say "Если бы я был Сашей?"
 
-translate russian cupid_sasha_scottie_event_01_41239a47:
+translate russian cupid_sasha_scottie_event_01_d54d67cf:
     scottie.say "Эм... А сиськи бы у меня были?"
 
 translate russian cupid_sasha_scottie_event_01_4cf775c5:
@@ -402,7 +402,7 @@ translate russian cupid_sasha_scottie_event_01_01190669:
 translate russian cupid_sasha_scottie_event_01_44d3ddd5:
     mike.say "И как бы ты мог загладить вину перед Сашей?"
 
-translate russian cupid_sasha_scottie_event_01_fefbfd49:
+translate russian cupid_sasha_scottie_event_01_e3c5d055:
     scottie.say "Э-э... Прокатить её на «Скотти-экспрессе»?"
 
 translate russian cupid_sasha_scottie_event_01_1a5efb1b:
@@ -462,7 +462,7 @@ translate russian cupid_sasha_scottie_event_01_02b6fae5:
 translate russian cupid_sasha_scottie_event_01_2cf9c873:
     scottie.say "Прости, что угробил твою футболку."
 
-translate russian cupid_sasha_scottie_event_01_d66b4c8d:
+translate russian cupid_sasha_scottie_event_01_ebed6d88:
     scottie.say "Я бы... хотел купить тебе новую. Если разрешишь?"
 
 translate russian cupid_sasha_scottie_event_01_3694742a:
@@ -510,7 +510,7 @@ translate russian cupid_sasha_scottie_event_01_2ed5707b:
 translate russian cupid_sasha_scottie_event_01_ac27e4ba:
     mike.say "Похоже, кое-кто до сих пор неровно дышит к Скотти!"
 
-translate russian cupid_sasha_scottie_event_01_f3bfc27f:
+translate russian cupid_sasha_scottie_event_01_66225659:
     sasha.say "Может, да... Может, нет."
 
 translate russian cupid_sasha_scottie_event_01_fb0e6ce9:
@@ -831,7 +831,7 @@ translate russian cupid_sasha_scottie_event_02_d427de35:
 translate russian cupid_sasha_scottie_event_02_b283c6ab:
     mike.say "У тебя наушник, чтобы меня слышать, да?"
 
-translate russian cupid_sasha_scottie_event_02_46b3b10a:
+translate russian cupid_sasha_scottie_event_02_2b61b8aa:
     scottie.say "А, точно... Вспомнил."
 
 translate russian cupid_sasha_scottie_event_02_8615cfcd:
@@ -864,13 +864,13 @@ translate russian cupid_sasha_scottie_event_02_6d758e28:
 translate russian cupid_sasha_scottie_event_02_0fd5e684:
     scottie.say "Что делать?"
 
-translate russian cupid_sasha_scottie_event_02_0027f903:
+translate russian cupid_sasha_scottie_event_02_c172b8bb:
     "Ладно, ладно... Началось."
 
 translate russian cupid_sasha_scottie_event_02_593f543f:
     "Надо сосредоточиться и направлять Скотти, чтобы он смог вернуть Сашу."
 
-translate russian cupid_sasha_scottie_event_02_9f33788b:
+translate russian cupid_sasha_scottie_event_02_dccc3f17:
     "Хм... Я думал, на выбранном месте Саша просто не сможет его не заметить."
 
 translate russian cupid_sasha_scottie_event_02_b895f252:
@@ -900,10 +900,10 @@ translate russian cupid_sasha_scottie_event_02_de8cfe2f:
 translate russian cupid_sasha_scottie_event_02_6d1fce33:
     scottie.say "САША..."
 
-translate russian cupid_sasha_scottie_event_02_87edf1fa:
+translate russian cupid_sasha_scottie_event_02_6ba32164:
     scottie.say "Это я, твой горячий Скотти!"
 
-translate russian cupid_sasha_scottie_event_02_601de3c1:
+translate russian cupid_sasha_scottie_event_02_b3243e1b:
     "Господи... Он правда сказал то, что я сейчас услышал?"
 
 translate russian cupid_sasha_scottie_event_02_a7507db7:
@@ -945,7 +945,7 @@ translate russian cupid_sasha_scottie_event_02_248907df:
 translate russian cupid_sasha_scottie_event_02_23a1472b:
     scottie.say "Облом!"
 
-translate russian cupid_sasha_scottie_event_02_9f33788b_1:
+translate russian cupid_sasha_scottie_event_02_dccc3f17_1:
     "Хм... Я думал, на выбранном месте Саша просто не сможет его не заметить."
 
 translate russian cupid_sasha_scottie_event_02_b895f252_1:
@@ -969,7 +969,7 @@ translate russian cupid_sasha_scottie_event_02_447ed18d:
 translate russian cupid_sasha_scottie_event_02_a39cc04d:
     mike.say "Помни: мы хотим её заинтриговать."
 
-translate russian cupid_sasha_scottie_event_02_a32abb96:
+translate russian cupid_sasha_scottie_event_02_431942ff:
     scottie.say "Ага... Кажется, она как-то делала такое со мной."
 
 translate russian cupid_sasha_scottie_event_02_c38ce999:
@@ -993,7 +993,7 @@ translate russian cupid_sasha_scottie_event_02_ba41d761:
 translate russian cupid_sasha_scottie_event_02_97f5f705:
     sasha.say "Это ты?"
 
-translate russian cupid_sasha_scottie_event_02_62b51fd8:
+translate russian cupid_sasha_scottie_event_02_bfaa3fbe:
     sasha.say "У тебя что... пикник?"
 
 translate russian cupid_sasha_scottie_event_02_a69a3663:
@@ -1020,7 +1020,7 @@ translate russian cupid_sasha_scottie_event_02_68e5a2b5:
 translate russian cupid_sasha_scottie_event_02_60cdc858:
     sasha.say "Мои любимые!"
 
-translate russian cupid_sasha_scottie_event_02_cbbc4b45:
+translate russian cupid_sasha_scottie_event_02_44fcab06:
     sasha.say "Ты... приготовил их для меня?"
 
 translate russian cupid_sasha_scottie_event_02_62186b2d:
@@ -1035,7 +1035,7 @@ translate russian cupid_sasha_scottie_event_02_8c8654fa:
 translate russian cupid_sasha_scottie_event_02_21678863:
     mike.say "СКАЖИ, ЧТО ДЛЯ НЕЁ, ТУПОЙ ТЫ ПРИДУРОК!"
 
-translate russian cupid_sasha_scottie_event_02_fb702cbe:
+translate russian cupid_sasha_scottie_event_02_c70e7d91:
     scottie.say "Я... то есть да! Конечно, для тебя, Саша!"
 
 translate russian cupid_sasha_scottie_event_02_aa19b5c6:
@@ -1206,7 +1206,7 @@ translate russian cupid_sasha_scottie_event_02_3e21d23d:
 translate russian cupid_sasha_scottie_event_02_527dad3b:
     sasha.say "Но так и не сказал зачем."
 
-translate russian cupid_sasha_scottie_event_02_a6089c94:
+translate russian cupid_sasha_scottie_event_02_d0d074c0:
     scottie.say "А... что?"
 
 translate russian cupid_sasha_scottie_event_02_3d516fcd:
@@ -1320,7 +1320,7 @@ translate russian cupid_sasha_scottie_event_02_2c60d3cd_1:
 translate russian cupid_sasha_scottie_event_02_3f5490a2_1:
     "Я смотрю, как он поворачивается и заглядывает Саше в глаза."
 
-translate russian cupid_sasha_scottie_event_02_10363a2e:
+translate russian cupid_sasha_scottie_event_02_fac1016a:
     scottie.say "Саша... Я просто хотел, чтобы мы были друзьями."
 
 translate russian cupid_sasha_scottie_event_02_393b116a:
@@ -1344,7 +1344,7 @@ translate russian cupid_sasha_scottie_event_02_a0a4447b:
 translate russian cupid_sasha_scottie_event_02_c22eb2c4:
     sasha.say "И что ты с ним сделал?"
 
-translate russian cupid_sasha_scottie_event_02_9752a8f3:
+translate russian cupid_sasha_scottie_event_02_dfbc3913:
     scottie.say "Но... Я и есть настоящий Скотти!"
 
 translate russian cupid_sasha_scottie_event_02_06485230:
@@ -1722,7 +1722,7 @@ translate russian cupid_sasha_scottie_event_04_ba41d761:
 translate russian cupid_sasha_scottie_event_04_6c7e51c3:
     sasha.say "СКОТТИ..."
 
-translate russian cupid_sasha_scottie_event_04_afbdc128:
+translate russian cupid_sasha_scottie_event_04_f842707f:
     sasha.say "Где ты, тупая туша?!"
 
 translate russian cupid_sasha_scottie_event_04_dc185cb2:
@@ -1905,7 +1905,7 @@ translate russian cupid_sasha_scottie_event_04_4026fbc5:
 translate russian cupid_sasha_scottie_event_04_8433128d:
     sasha.say "Бри..."
 
-translate russian cupid_sasha_scottie_event_04_6c69e31d:
+translate russian cupid_sasha_scottie_event_04_5062a629:
     sasha.say "Ты... меня... задушишь!"
 
 translate russian cupid_sasha_scottie_event_04_f4e7133f:
@@ -1983,7 +1983,7 @@ translate russian cupid_sasha_scottie_event_04_76e7ec69:
 translate russian cupid_sasha_scottie_event_04_b31c9213:
     scottie.say "Детка..."
 
-translate russian cupid_sasha_scottie_event_04_86d6c9ff:
+translate russian cupid_sasha_scottie_event_04_0ef02e42:
     scottie.say "Можешь... помочь?"
 
 translate russian cupid_sasha_scottie_event_04_6a6388dd:
@@ -2037,7 +2037,7 @@ translate russian cupid_sasha_scottie_event_04_e81d5c55:
 translate russian cupid_sasha_scottie_event_04_1b70069c:
     bree.say "И любовью к спортзалу? В откровенной одежде, чтобы показать фигуру?"
 
-translate russian cupid_sasha_scottie_event_04_6ae15044:
+translate russian cupid_sasha_scottie_event_04_5022d453:
     mike.say "Бри, ты словно читаешь мои мысли!"
 
 translate russian cupid_sasha_scottie_event_04_6d87c9d9:
@@ -2082,7 +2082,7 @@ translate russian cupid_sasha_scottie_event_04_alone_ba41d761:
 translate russian cupid_sasha_scottie_event_04_alone_6c7e51c3:
     sasha.say "СКОТТИ..."
 
-translate russian cupid_sasha_scottie_event_04_alone_afbdc128:
+translate russian cupid_sasha_scottie_event_04_alone_f842707f:
     sasha.say "Где ты, тупая туша?!"
 
 translate russian cupid_sasha_scottie_event_04_alone_723f8c78:

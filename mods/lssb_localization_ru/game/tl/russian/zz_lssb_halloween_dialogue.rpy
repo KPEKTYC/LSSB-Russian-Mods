@@ -73,7 +73,7 @@ translate russian halloween_intro_9c76d0f3:
     "Обе тут же выпрямляются и настораживаются, словно собаки Павлова при звуке звонка."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:194
-translate russian halloween_intro_2058ea3b:
+translate russian halloween_intro_adfb23b6:
     mike.say "Как... у вас обеих прошёл день на работе?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:195
@@ -89,7 +89,7 @@ translate russian halloween_intro_7364dda5:
     "А [lssb_halloween.bree_name()] просто издаёт высокий возмущённый писк, ясно давая понять: предел моего дозволенного нахальства достигнут."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:200
-translate russian halloween_intro_ca779497:
+translate russian halloween_intro_b817acd4:
     mike.say "Ладно-ладно... Простите, правда!"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:201
@@ -121,7 +121,7 @@ translate russian halloween_intro_057f11ee:
     "Ну, это далеко не самое зловещее, что они могли обсуждать за моей спиной."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:212
-translate russian halloween_intro_b21ef1f9:
+translate russian halloween_intro_fe0d08af:
     mike.say "А, понятно... Но к чему такая секретность?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:214
@@ -261,7 +261,7 @@ translate russian halloween_event_ba7f7e02:
     mike.say "Ого..."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:290
-translate russian halloween_event_1446268f:
+translate russian halloween_event_c1f1daa6:
     mike.say "Просто... ого!"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:292
@@ -271,10 +271,6 @@ translate russian halloween_event_28d63341:
 # ch/harems/home/events/home_harem_halloween_event.rpy:293
 translate russian halloween_event_909372af:
     bree.say "Мы же, наверное, сутками играли в ту игру!"
-
-# ch/harems/home/events/home_harem_halloween_event.rpy:295
-translate russian halloween_event_23e4a46a:
-    mike.say "Да, [lssb_halloween.bree_name()], разве можно забыть Синди?!?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:296
 translate russian halloween_event_ea7b65e1:
@@ -311,10 +307,6 @@ translate russian halloween_event_19a18855:
 # ch/harems/home/events/home_harem_halloween_event.rpy:306
 translate russian halloween_event_3cae00f8:
     minami.say "Эй!"
-
-# ch/harems/home/events/home_harem_halloween_event.rpy:310
-translate russian halloween_event_f503713b:
-    minami.say "А как же я, братик?!?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:311
 translate russian halloween_event_ff4960ac:
@@ -364,10 +356,6 @@ translate russian halloween_event_19a18855_1:
 translate russian halloween_event_3cae00f8_1:
     minami.say "Эй!"
 
-# ch/harems/home/events/home_harem_halloween_event.rpy:339
-translate russian halloween_event_f503713b_1:
-    minami.say "А как же я, братик?!?"
-
 # ch/harems/home/events/home_harem_halloween_event.rpy:340
 translate russian halloween_event_ff4960ac_1:
     mike.say "Ого, Минами..."
@@ -415,10 +403,6 @@ translate russian halloween_event_42052b7e_1:
 # ch/harems/home/events/home_harem_halloween_event.rpy:361
 translate russian halloween_event_3cae00f8_2:
     minami.say "Эй!"
-
-# ch/harems/home/events/home_harem_halloween_event.rpy:363
-translate russian halloween_event_f503713b_2:
-    minami.say "А как же я, братик?!?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:364
 translate russian halloween_event_ff4960ac_2:
@@ -468,10 +452,6 @@ translate russian halloween_event_19a18855_3:
 translate russian halloween_event_3cae00f8_3:
     minami.say "Эй!"
 
-# ch/harems/home/events/home_harem_halloween_event.rpy:387
-translate russian halloween_event_f503713b_3:
-    minami.say "А как же я, братик?!?"
-
 # ch/harems/home/events/home_harem_halloween_event.rpy:388
 translate russian halloween_event_ff4960ac_3:
     mike.say "Ого, Минами..."
@@ -505,16 +485,12 @@ translate russian halloween_event_9ec9e386:
     bree.say "А ты у нас..."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:404
-translate russian halloween_event_c5ad0191:
+translate russian halloween_event_3badba16:
     bree.say "Хм... тот парень из «Трона»?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:405
 translate russian halloween_event_7f48bc4b:
     bree.say "Которого омолаживали компьютерной графикой?"
-
-# ch/harems/home/events/home_harem_halloween_event.rpy:407
-translate russian halloween_event_95ba8700:
-    mike.say "Нет, [lssb_halloween.bree_name()], я тот же парень, но из первого фильма."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:408
 translate russian halloween_event_d52c9c8d:
@@ -619,10 +595,6 @@ translate russian halloween_event_917cc110:
 # ch/harems/home/events/home_harem_halloween_event.rpy:457
 translate russian halloween_event_f2fc74fb:
     "Но Джек мой друг, и я должен его защитить."
-
-# ch/harems/home/events/home_harem_halloween_event.rpy:458
-translate russian halloween_event_8efa4b15:
-    mike.say "Ты права, [lssb_halloween.bree_name()]."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:460
 translate russian halloween_event_25719655:
@@ -765,7 +737,7 @@ translate russian halloween_event_a8db07e6:
     "Я вижу, как лицо Скотти становится озадаченным."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:520
-translate russian halloween_event_7a15c416:
+translate russian halloween_event_2fc812dd:
     scottie.say "Эм... что такое, чувак?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:521
@@ -805,7 +777,7 @@ translate russian halloween_event_c246ee3d:
     mike.say "Скотти, не знал, что ты такой ценитель первоисточника!"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:534
-translate russian halloween_event_c3608caf:
+translate russian halloween_event_795038c1:
     scottie.say "Я... кто?!?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:535
@@ -825,7 +797,7 @@ translate russian halloween_event_75aa9597:
     "Но потом он вдруг кивает и улыбается."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:540
-translate russian halloween_event_7c669280:
+translate russian halloween_event_b0f13bd3:
     scottie.say "Эм... ага... точно!"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:541
@@ -857,11 +829,11 @@ translate russian halloween_event_e52f0f09:
     "Не могу удержаться."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:551
-translate russian halloween_event_f6732714:
+translate russian halloween_event_b217ee90:
     mike.say "Ого... Ну ты и лопух, Скотти!"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:553
-translate russian halloween_event_f3066194:
+translate russian halloween_event_9d46c609:
     scottie.say "Чт... что?!?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:554
@@ -1113,7 +1085,7 @@ translate russian nodate_halloween_party_3e7bf54c:
     jack.say "Так нечестно!"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:687
-translate russian nodate_halloween_party_4c643171:
+translate russian nodate_halloween_party_16f1874c:
     scottie.say "Но... эм..."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:688
@@ -1213,7 +1185,7 @@ translate russian nodate_halloween_party_3e7bf54c_1:
     jack.say "Так нечестно!"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:722
-translate russian nodate_halloween_party_4c643171_1:
+translate russian nodate_halloween_party_16f1874c_1:
     scottie.say "Но... э-э..."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:723
@@ -1255,10 +1227,6 @@ translate russian nodate_halloween_dance_857d627f:
 # ch/harems/home/events/home_harem_halloween_event.rpy:741
 translate russian nodate_halloween_dance_9f599f26:
     "Которую же счастливицу пригласить на танец?"
-
-# ch/harems/home/events/home_harem_halloween_event.rpy:745
-translate russian nodate_halloween_dance_fe7e321b:
-    mike.say "Эй, [lssb_halloween.bree_name()]..."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:746
 translate russian nodate_halloween_dance_91c8aa7e:
@@ -1456,10 +1424,6 @@ translate russian nodate_halloween_dance_e6f4e811:
 translate russian nodate_halloween_dance_00ad477e:
     "Стоит мне спросить, и лицо Минами озаряется улыбкой."
 
-# ch/harems/home/events/home_harem_halloween_event.rpy:815
-translate russian nodate_halloween_dance_94a1ae15:
-    minami.say "Конечно, братик."
-
 # ch/harems/home/events/home_harem_halloween_event.rpy:816
 translate russian nodate_halloween_dance_4b9f0263:
     minami.say "Пойдём танцевать!"
@@ -1495,10 +1459,6 @@ translate russian nodate_halloween_dance_3a6e8119:
 # ch/harems/home/events/home_harem_halloween_event.rpy:827
 translate russian nodate_halloween_dance_f9421235:
     "Когда я кладу ладони ей на попку, Минами поднимает на меня глаза и улыбается."
-
-# ch/harems/home/events/home_harem_halloween_event.rpy:828
-translate russian nodate_halloween_dance_dc1cca72:
-    minami.say "Видишь, братик?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:829
 translate russian nodate_halloween_dance_5131e130:
@@ -1549,7 +1509,7 @@ translate russian nodate_halloween_dance_0c4f3e14:
     mike.say "Хочешь потанцевать?"
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:846
-translate russian nodate_halloween_dance_2d8aff8a:
+translate russian nodate_halloween_dance_41fba834:
     samantha.say "Что... а..."
 
 # ch/harems/home/events/home_harem_halloween_event.rpy:848

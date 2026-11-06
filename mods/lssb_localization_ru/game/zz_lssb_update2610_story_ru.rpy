@@ -22,6 +22,8 @@ init 1006 python:
         "I'm falling for my bandmates, and I'm not going to hide it from any of them.": "Я влюбляюсь в своих товарищей по группе и не собираюсь скрывать это ни от одной из них.",
         "Band Harem - No Secrets": "Гарем группы — без секретов",
         "{image=notify anna}{image=notify kleio} · Band Harem": "{image=notify anna}{image=notify kleio} · Гарем группы",
+        "{image=notify anna}{image=notify kleio} · Band Harem - No Secrets": "{image=notify anna}{image=notify kleio} · Гарем группы — без секретов",
+        "Wait for Sam's pregnancy to show, then be home alone in the afternoon or evening": "Дождаться, когда беременность Сэм станет заметна, и побыть дома без посторонних днём или вечером",
         "Practice with the band (wait a day if I just talked to Kleio). Anna has something to tell me.": "Порепетировать с группой (подождать день, если я только что говорил с Клео). Анне нужно мне кое-что сказать.",
         "Anna told me she has a crush on me. I told her about Kleio.": "Анна призналась, что я ей нравлюсь. Я рассказал ей о Клео.",
         "I told Anna we should stay friends.": "Я сказал Анне, что нам лучше остаться друзьями.",

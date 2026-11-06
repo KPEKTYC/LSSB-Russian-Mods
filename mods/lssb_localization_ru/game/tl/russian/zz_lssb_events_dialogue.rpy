@@ -77,16 +77,12 @@ translate russian battle_of_the_bands_lose_43c8b24c:
     "Анна грустно улыбается, склонив голову набок."
 
 # ch/gen_full/battle_of_the_bands.rpy:165
-translate russian battle_of_the_bands_lose_11d909f5:
+translate russian battle_of_the_bands_lose_fdbb19af:
     anna.say "Ох... спасибо, [lssb_common.hero_name()]!"
 
 # ch/gen_full/battle_of_the_bands.rpy:167
 translate russian battle_of_the_bands_lose_a0c21225:
     "А в улыбке Клео гораздо больше горькой иронии."
-
-# ch/gen_full/battle_of_the_bands.rpy:168
-translate russian battle_of_the_bands_lose_dbd449c8:
-    kleio.say "Мило, сердцеед."
 
 # ch/gen_full/battle_of_the_bands.rpy:171
 translate russian battle_of_the_bands_lose_e64176be:
@@ -145,7 +141,7 @@ translate russian battle_of_the_bands_lose_84a6f014:
     "Но я уже вижу, как это действует."
 
 # ch/gen_full/battle_of_the_bands.rpy:189
-translate russian battle_of_the_bands_lose_20c8a8af:
+translate russian battle_of_the_bands_lose_13c5b856:
     kleio.say "Нет... ни за что, Анна!"
 
 # ch/gen_full/battle_of_the_bands.rpy:191
@@ -352,10 +348,6 @@ translate russian battle_of_the_bands_lose_899cd33f:
 translate russian battle_of_the_bands_lose_354e975a:
     "По её взгляду я понимаю: сейчас мне достанется по полной."
 
-# ch/gen_full/battle_of_the_bands.rpy:265
-translate russian battle_of_the_bands_lose_7588c63c:
-    kleio.say "За тебя, сердцеед."
-
 # ch/gen_full/battle_of_the_bands.rpy:266
 translate russian battle_of_the_bands_lose_a0814e2c:
     kleio.say "Хоть на что-то твоя правая рука ещё годится!"
@@ -468,10 +460,6 @@ translate russian battle_of_the_bands_lose_ab823b0a:
 translate russian battle_of_the_bands_lose_d31621ca:
     "Они неловко смотрят друг на друга, а затем обе кивают."
 
-# ch/gen_full/battle_of_the_bands.rpy:301
-translate russian battle_of_the_bands_lose_d5e82614:
-    kleio.say "Прости, сердцеед."
-
 # ch/gen_full/battle_of_the_bands.rpy:302
 translate russian battle_of_the_bands_lose_de96e784:
     sasha.say "Ты прав. Нам нужно держаться вместе."
@@ -503,10 +491,6 @@ translate russian battle_of_the_bands_lose_899cd33f_1:
 # ch/gen_full/battle_of_the_bands.rpy:314
 translate russian battle_of_the_bands_lose_58e584c9:
     "По её взгляду я понимаю: сейчас мне достанется."
-
-# ch/gen_full/battle_of_the_bands.rpy:315
-translate russian battle_of_the_bands_lose_7588c63c_1:
-    kleio.say "За тебя, сердцеед."
 
 # ch/gen_full/battle_of_the_bands.rpy:316
 translate russian battle_of_the_bands_lose_a0814e2c_1:
@@ -623,10 +607,6 @@ translate russian battle_of_the_bands_lose_ecf1cc79:
 # ch/gen_full/battle_of_the_bands.rpy:351
 translate russian battle_of_the_bands_lose_d31621ca_1:
     "Они неловко смотрят друг на друга, а затем обе кивают."
-
-# ch/gen_full/battle_of_the_bands.rpy:353
-translate russian battle_of_the_bands_lose_d5e82614_1:
-    kleio.say "Прости, сердцеед."
 
 # ch/gen_full/battle_of_the_bands.rpy:355
 translate russian battle_of_the_bands_lose_41e6a0d6:
@@ -836,10 +816,6 @@ translate russian battle_of_the_bands_lose_f32f7119:
 translate russian battle_of_the_bands_lose_9f58c230:
     "Но взгляд выдаёт, что намерения у неё не такие уж добрые."
 
-# ch/gen_full/battle_of_the_bands.rpy:429
-translate russian battle_of_the_bands_lose_7588c63c_2:
-    kleio.say "За тебя, сердцеед."
-
 # ch/gen_full/battle_of_the_bands.rpy:430
 translate russian battle_of_the_bands_lose_a2125caa_2:
     "Я закатываю глаза, давно привыкнув быть мишенью для колкостей Клео."
@@ -905,7 +881,7 @@ translate russian battle_of_the_bands_lose_7bc12c0d:
     anna.say "Да, Саша! Один за всех и все за одного."
 
 # ch/gen_full/battle_of_the_bands.rpy:451
-translate russian battle_of_the_bands_lose_403c8941:
+translate russian battle_of_the_bands_lose_abbeebc5:
     anna.say "Слушайте... это не из песни Оззи?"
 
 # ch/gen_full/battle_of_the_bands.rpy:453
@@ -1373,11 +1349,11 @@ translate russian battle_of_the_bands_win_restaurant_c27c7072:
     "Мы с Анной и Клео почти одновременно замираем и смотрим на Сашу через стол."
 
 # ch/gen_full/battle_of_the_bands.rpy:612
-translate russian battle_of_the_bands_win_restaurant_4df88acc:
+translate russian battle_of_the_bands_win_restaurant_795b23bd:
     anna.say "А?.. Ой, прости."
 
 # ch/gen_full/battle_of_the_bands.rpy:613
-translate russian battle_of_the_bands_win_restaurant_db757062:
+translate russian battle_of_the_bands_win_restaurant_7429f902:
     mike.say "А, да... извини, Саша."
 
 # ch/gen_full/battle_of_the_bands.rpy:615
@@ -1621,7 +1597,7 @@ translate russian battle_of_the_bands_win_restaurant_31e19929:
     anna.say "Ты сегодня был ТАК хорош на сцене, [lssb_common.hero_name()]."
 
 # ch/gen_full/battle_of_the_bands.rpy:686
-translate russian battle_of_the_bands_win_restaurant_a9ba7dd6:
+translate russian battle_of_the_bands_win_restaurant_00b75fb0:
     mike.say "А... спасибо, Анна."
 
 # ch/gen_full/battle_of_the_bands.rpy:687
@@ -1760,10 +1736,6 @@ translate russian battle_of_the_bands_win_restaurant_034322e8:
 translate russian battle_of_the_bands_win_restaurant_88da8642:
     "Она игриво толкает меня локтем в бок и прижимается ко мне."
 
-# ch/gen_full/battle_of_the_bands.rpy:726
-translate russian battle_of_the_bands_win_restaurant_f5e72711:
-    kleio.say "Сегодня ты хорошо справился, сердцеед."
-
 # ch/gen_full/battle_of_the_bands.rpy:727
 translate russian battle_of_the_bands_win_restaurant_7e6d8f07:
     kleio.say "ОЧЕНЬ хорошо..."
@@ -1781,7 +1753,7 @@ translate russian battle_of_the_bands_win_restaurant_241f8c21:
     "И стоит ей польстить моему самолюбию, как я уже у неё на крючке."
 
 # ch/gen_full/battle_of_the_bands.rpy:731
-translate russian battle_of_the_bands_win_restaurant_61ca2f36:
+translate russian battle_of_the_bands_win_restaurant_cd12d40f:
     mike.say "А... я старался, Клео."
 
 # ch/gen_full/battle_of_the_bands.rpy:732
@@ -1905,7 +1877,7 @@ translate russian battle_of_the_bands_win_restaurant_d3a806f4:
     "Разумеется, все сразу притихают и украдкой оглядываются на официанта."
 
 # ch/gen_full/battle_of_the_bands.rpy:772
-translate russian battle_of_the_bands_win_restaurant_52a81a63:
+translate russian battle_of_the_bands_win_restaurant_6566e3dd:
     anna.say "Ой... надеюсь, они на нас не сердятся!"
 
 # ch/gen_full/battle_of_the_bands.rpy:773
@@ -2033,12 +2005,8 @@ translate russian battle_of_the_bands_win_nightclub_eba9f379:
     sasha.say "Надо было ещё в ресторане сходить, знаешь ли!"
 
 # ch/gen_full/battle_of_the_bands.rpy:831
-translate russian battle_of_the_bands_win_nightclub_099bf3f8:
+translate russian battle_of_the_bands_win_nightclub_ff6cc394:
     anna.say "А?.. Что такое?"
-
-# ch/gen_full/battle_of_the_bands.rpy:832
-translate russian battle_of_the_bands_win_nightclub_ab2c811e:
-    kleio.say "Ого, сердцеед, похоже, трогает себя на публике!"
 
 # ch/gen_full/battle_of_the_bands.rpy:833
 translate russian battle_of_the_bands_win_nightclub_bc4269d8:
@@ -2099,10 +2067,6 @@ translate russian battle_of_the_bands_win_nightclub_95a48a94:
 # ch/gen_full/battle_of_the_bands.rpy:857
 translate russian battle_of_the_bands_win_nightclub_dc21ab3d:
     "Клео смеётся и качает головой."
-
-# ch/gen_full/battle_of_the_bands.rpy:858
-translate russian battle_of_the_bands_win_nightclub_27b79b97:
-    kleio.say "А с чего бы тебе знать, сердцеед?"
 
 # ch/gen_full/battle_of_the_bands.rpy:859
 translate russian battle_of_the_bands_win_nightclub_f81713cd:
@@ -2189,7 +2153,7 @@ translate russian battle_of_the_bands_win_nightclub_4a3f2b4b:
     "Анна осекается и густо краснеет, заметив, что все смотрят на неё."
 
 # ch/gen_full/battle_of_the_bands.rpy:890
-translate russian battle_of_the_bands_win_nightclub_043ac6f0:
+translate russian battle_of_the_bands_win_nightclub_50b8b9ee:
     anna.say "А... я..."
 
 # ch/gen_full/battle_of_the_bands.rpy:892
@@ -2293,19 +2257,19 @@ translate russian battle_of_the_bands_win_nightclub_f7b333da:
     kleio.say "А?"
 
 # ch/gen_full/battle_of_the_bands.rpy:931
-translate russian battle_of_the_bands_win_nightclub_7a5f857b:
+translate russian battle_of_the_bands_win_nightclub_08dcf9fb:
     kleio.say "Ты... хочешь позвонить с моего телефона?!"
 
 # ch/gen_full/battle_of_the_bands.rpy:932
-translate russian battle_of_the_bands_win_nightclub_66eafd49:
+translate russian battle_of_the_bands_win_nightclub_6d78f244:
     mike.say "Нет... я хочу заняться с вами любовью!"
 
 # ch/gen_full/battle_of_the_bands.rpy:934
-translate russian battle_of_the_bands_win_nightclub_87177f03:
+translate russian battle_of_the_bands_win_nightclub_281df118:
     anna.say "Что?.. Хочешь залить перчатку клеем?!"
 
 # ch/gen_full/battle_of_the_bands.rpy:935
-translate russian battle_of_the_bands_win_nightclub_73c18ebc:
+translate russian battle_of_the_bands_win_nightclub_4c7f1a36:
     mike.say "Я... нам пора перейти к делу!"
 
 # ch/gen_full/battle_of_the_bands.rpy:937
@@ -2453,15 +2417,15 @@ translate russian battle_of_the_bands_win_nightclub_f7b333da_1:
     kleio.say "А?"
 
 # ch/gen_full/battle_of_the_bands.rpy:982
-translate russian battle_of_the_bands_win_nightclub_7a5f857b_1:
+translate russian battle_of_the_bands_win_nightclub_08dcf9fb_1:
     kleio.say "Ты... хочешь позвонить с моего телефона?!"
 
 # ch/gen_full/battle_of_the_bands.rpy:983
-translate russian battle_of_the_bands_win_nightclub_66eafd49_1:
+translate russian battle_of_the_bands_win_nightclub_6d78f244_1:
     mike.say "Нет... я хочу заняться с вами любовью!"
 
 # ch/gen_full/battle_of_the_bands.rpy:985
-translate russian battle_of_the_bands_win_nightclub_87177f03_1:
+translate russian battle_of_the_bands_win_nightclub_281df118_1:
     anna.say "Что?.. Хочешь залить перчатку клеем?!"
 
 # ch/gen_full/battle_of_the_bands.rpy:986
@@ -2601,15 +2565,15 @@ translate russian battle_of_the_bands_win_nightclub_eb35c172:
     sasha.say "А?"
 
 # ch/gen_full/battle_of_the_bands.rpy:1028
-translate russian battle_of_the_bands_win_nightclub_d94538a1:
+translate russian battle_of_the_bands_win_nightclub_65a9a6bc:
     sasha.say "Ты... хочешь позвонить с моего телефона?!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1029
-translate russian battle_of_the_bands_win_nightclub_66eafd49_2:
+translate russian battle_of_the_bands_win_nightclub_6d78f244_2:
     mike.say "Нет... я хочу заняться с тобой любовью!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1030
-translate russian battle_of_the_bands_win_nightclub_05d9304e:
+translate russian battle_of_the_bands_win_nightclub_782a3da4:
     sasha.say "Что?.. Хочешь залить перчатку клеем?!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1031
@@ -2741,15 +2705,15 @@ translate russian battle_of_the_bands_win_nightclub_365733dd:
     anna.say "А?"
 
 # ch/gen_full/battle_of_the_bands.rpy:1070
-translate russian battle_of_the_bands_win_nightclub_23018214:
+translate russian battle_of_the_bands_win_nightclub_a9d9bfd5:
     anna.say "Ты... хочешь позвонить с моего телефона?!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1071
-translate russian battle_of_the_bands_win_nightclub_66eafd49_3:
+translate russian battle_of_the_bands_win_nightclub_6d78f244_3:
     mike.say "Нет... я хочу заняться с тобой любовью!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1072
-translate russian battle_of_the_bands_win_nightclub_87177f03_2:
+translate russian battle_of_the_bands_win_nightclub_281df118_2:
     anna.say "Что?.. Хочешь залить перчатку клеем?!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1073
@@ -2885,15 +2849,15 @@ translate russian battle_of_the_bands_win_nightclub_f7b333da_2:
     kleio.say "А?"
 
 # ch/gen_full/battle_of_the_bands.rpy:1113
-translate russian battle_of_the_bands_win_nightclub_7a5f857b_2:
+translate russian battle_of_the_bands_win_nightclub_08dcf9fb_2:
     kleio.say "Ты... хочешь позвонить с моего телефона?!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1114
-translate russian battle_of_the_bands_win_nightclub_66eafd49_4:
+translate russian battle_of_the_bands_win_nightclub_6d78f244_4:
     mike.say "Нет... я хочу заняться с тобой любовью!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1116
-translate russian battle_of_the_bands_win_nightclub_f4963bae:
+translate russian battle_of_the_bands_win_nightclub_fc044709:
     kleio.say "Что?.. Хочешь залить перчатку клеем?!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1117
@@ -3005,7 +2969,7 @@ translate russian battle_of_the_bands_win_nightclub_e626c5e5:
     sasha.say "Поспи, [lssb_common.hero_name()]."
 
 # ch/gen_full/battle_of_the_bands.rpy:1162
-translate russian battle_of_the_bands_win_nightclub_741c5ca1:
+translate russian battle_of_the_bands_win_nightclub_a26b7b6d:
     anna.say "Ох... утром у него будет адское похмелье!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1164
@@ -3029,7 +2993,7 @@ translate russian battle_of_the_bands_round_two_e7089e0c:
     kleio.say "БЛЯДЬ! Нас поставили последними!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1179
-translate russian battle_of_the_bands_round_two_8f5283e4:
+translate russian battle_of_the_bands_round_two_fc3cbded:
     anna.say "Это хорошо... или плохо?"
 
 # ch/gen_full/battle_of_the_bands.rpy:1181
@@ -3069,7 +3033,7 @@ translate russian battle_of_the_bands_round_two_e0f95251:
     kleio.say "Мы Deathless Harpies и хотим выиграть весь этот грёбаный конкурс!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1193
-translate russian battle_of_the_bands_round_two_6e3cd433:
+translate russian battle_of_the_bands_round_two_febf38e4:
     kleio.say "Но сначала нужно покорить вас, засранцы... так что погнали!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1196
@@ -3213,7 +3177,7 @@ translate russian battle_of_the_bands_round_two_90ed7ed2:
     "После выступления мы словно оглушены, и смысл его слов доходит не сразу."
 
 # ch/gen_full/battle_of_the_bands.rpy:1273
-translate russian battle_of_the_bands_round_two_d3edba40:
+translate russian battle_of_the_bands_round_two_f060dbbf:
     sasha.say "Что, погоди... мы выиграли?"
 
 # ch/gen_full/battle_of_the_bands.rpy:1275
@@ -3265,15 +3229,15 @@ translate russian battle_of_the_bands_round_two_ebe369a1:
     kleio.say "Это бред, чувак! Мы играли лучше всего того мусора на сцене!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1306
-translate russian battle_of_the_bands_round_two_05aaeadc:
+translate russian battle_of_the_bands_round_two_ac5287c1:
     sasha.say "Да чтоб меня... После выхода в финал я правда думала, что победа у нас в кармане."
 
 # ch/gen_full/battle_of_the_bands.rpy:1308
-translate russian battle_of_the_bands_round_two_e40632ec:
+translate russian battle_of_the_bands_round_two_dc5cac49:
     anna.say "Ой... значит, мы не выиграли?"
 
 # ch/gen_full/battle_of_the_bands.rpy:1309
-translate russian battle_of_the_bands_round_two_cdaddb68:
+translate russian battle_of_the_bands_round_two_cee95d97:
     mike.say "Нет, Анна... не выиграли."
 
 # ch/gen_full/battle_of_the_bands.rpy:1312
@@ -3308,12 +3272,8 @@ translate russian battle_of_the_bands_round_one_a711e7c9:
 translate russian battle_of_the_bands_round_one_aa420014:
     "Все четверо нервничают и скрывают это по-своему: угрюмостью, весельем или притворным безразличием к результату."
 
-# ch/gen_full/battle_of_the_bands.rpy:1326
-translate russian battle_of_the_bands_round_one_739da76e:
-    "Сегодня пятница, поэтому мы приезжаем как можно раньше и начинаем выгружать оборудование из фургона."
-
 # ch/gen_full/battle_of_the_bands.rpy:1331
-translate russian battle_of_the_bands_round_one_e4b4c554:
+translate russian battle_of_the_bands_round_one_37afbe38:
     anna.say "Ого, гляньте на их аппаратуру... вот это вещи!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1334
@@ -3373,7 +3333,7 @@ translate russian battle_of_the_bands_round_one_a5549340:
     kleio.say "А, плевать! Мы готовы хоть к одному концерту, хоть к сотне."
 
 # ch/gen_full/battle_of_the_bands.rpy:1371
-translate russian battle_of_the_bands_round_one_65c2af0c:
+translate russian battle_of_the_bands_round_one_28b082fa:
     mike.say "Не знаю... По-моему, разницы нет."
 
 # ch/gen_full/battle_of_the_bands.rpy:1375
@@ -3393,7 +3353,7 @@ translate russian battle_of_the_bands_round_one_e120c571:
     sasha.say "Да ёб вашу мать, я же сказала, что предупреждала вас, придурки!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1385
-translate russian battle_of_the_bands_round_one_1b0c9a1f:
+translate russian battle_of_the_bands_round_one_e5a46c47:
     anna.say "Эй, ребята... Не думаю, что сейчас стоит ссориться."
 
 # ch/gen_full/battle_of_the_bands.rpy:1391
@@ -3581,7 +3541,7 @@ translate russian first_gig_224bcbc2:
     "Анна, наоборот, молча сидела за барабанами. Но её лицо выдавало страх перед внезапным концертом."
 
 # ch/gen_full/battle_of_the_bands.rpy:1493
-translate russian first_gig_82e2df8c:
+translate russian first_gig_ba328b0c:
     sasha.say "Да ладно вам! Отличная возможность применить всю нашу практику... на практике!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1494
@@ -3685,7 +3645,7 @@ translate russian first_gig_cf60ec1c:
     sasha.say "В «Лидмилл». Парень с моего курса знаком с управляющим, а тому срочно нужна группа на замену."
 
 # ch/gen_full/battle_of_the_bands.rpy:1550
-translate russian first_gig_d0e63040:
+translate russian first_gig_c98bc75e:
     kleio.say "Ого, там суровая публика... Слышала, вокалиста одной группы стащили со сцены и отметелили: решили, что он отстой."
 
 # ch/gen_full/battle_of_the_bands.rpy:1551
@@ -3697,7 +3657,7 @@ translate russian first_gig_f82e79ec:
     sasha.say "Не паникуй, [lssb_common.hero_name()]. Это просто городская легенда."
 
 # ch/gen_full/battle_of_the_bands.rpy:1555
-translate russian first_gig_6e2651d4:
+translate russian first_gig_bf6c466f:
     mike.say "Ты так говоришь, Саша... Но если они так поступают с плохими музыкантами, что сделают, узнав, что я парень в колготках и набитом лифчике?"
 
 # ch/gen_full/battle_of_the_bands.rpy:1556
@@ -3725,7 +3685,7 @@ translate russian first_gig_aa1b2a5f:
     "Время пролетает незаметно, и вот мы уже стоим за кулисами, ожидая выхода."
 
 # ch/gen_full/battle_of_the_bands.rpy:1577
-translate russian first_gig_3e91f49b:
+translate russian first_gig_2a290e5b:
     kleio.say "Привет... Мы Deathless Harpies, и сейчас у вас пойдёт кровь из ушей!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1579
@@ -3773,7 +3733,7 @@ translate russian first_gig_e7800da1:
     "Мы сходим со сцены мокрые и измотанные, но от приветственных криков улыбаемся, как четыре клоуна."
 
 # ch/gen_full/battle_of_the_bands.rpy:1613
-translate russian first_gig_d54a5148:
+translate russian first_gig_071c7edc:
     kleio.say "Мы Deathless Harpies, и... мы... мы здесь, чтобы играть рок."
 
 # ch/gen_full/battle_of_the_bands.rpy:1615
@@ -3845,7 +3805,7 @@ translate russian first_gig_edcdb985:
     "Я с искренним удивлением смотрю вниз и впервые замечаю, что всё ещё в женской одежде."
 
 # ch/gen_full/battle_of_the_bands.rpy:1664
-translate russian first_gig_70330150:
+translate russian first_gig_582a5641:
     mike.say "Чёрт... Видимо, забыл в суете после концерта!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1666
@@ -3857,7 +3817,7 @@ translate russian first_gig_f67f675e:
     kleio.say "Ага, рядом с такой страшилой, как ты, мы все сразу в десять раз красивее!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1669
-translate russian first_gig_246c0847:
+translate russian first_gig_f14e5d34:
     sasha.say "Не слушай её. По-моему, ты отлично справился, и это даже добавило группе изюминку."
 
 # ch/gen_full/battle_of_the_bands.rpy:1679
@@ -3865,7 +3825,7 @@ translate russian first_gig_119b3204:
     sasha.say "Вот видите! Я говорила, что нам это нужно!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1681
-translate russian first_gig_67e82c24:
+translate russian first_gig_4fac86f3:
     kleio.say "Господи, Саша... Только не зазнавайся!"
 
 # ch/gen_full/battle_of_the_bands.rpy:1683
@@ -3881,7 +3841,7 @@ translate russian first_gig_94dd15cd:
     "В эту минуту я чувствую нежность ко всем троим, видя, как проступают их лучшие стороны."
 
 # ch/gen_full/battle_of_the_bands.rpy:1687
-translate russian first_gig_a5f6f04e:
+translate russian first_gig_c2cf478f:
     mike.say "Скажу прямо: девчонки, вы были потрясающие... По-моему, мы все были."
 
 # ch/gen_full/battle_of_the_bands.rpy:1697
@@ -3889,7 +3849,7 @@ translate russian first_gig_20ef032e:
     sasha.say "Не скажу, что нельзя было лучше, но в целом хорошего было больше, чем плохого."
 
 # ch/gen_full/battle_of_the_bands.rpy:1698
-translate russian first_gig_629bc775:
+translate russian first_gig_a5c609cc:
     kleio.say "Хм... Ну да... Наверное, ты права."
 
 # ch/gen_full/battle_of_the_bands.rpy:1699
@@ -4261,7 +4221,7 @@ translate russian ayesha_emma_event_01_d7b515fe:
     emma.say "Ты зачем меня хватаешь?!"
 
 # ch/gen_full/events.rpy:156
-translate russian ayesha_emma_event_01_e0b7f606:
+translate russian ayesha_emma_event_01_9693f8dd:
     mike.say "А... что..."
 
 # ch/gen_full/events.rpy:158
@@ -4317,7 +4277,7 @@ translate russian ayesha_emma_event_01_ad1e1881:
     "Едва произнеся это, Эмма понимает свою ошибку."
 
 # ch/gen_full/events.rpy:174
-translate russian ayesha_emma_event_01_bd657ec1:
+translate russian ayesha_emma_event_01_89d53cdc:
     mike.say "Ну... кроме меня!"
 
 # ch/gen_full/events.rpy:175
@@ -4325,7 +4285,7 @@ translate russian ayesha_emma_event_01_5727d12e:
     mike.say "И я схватил его ровно по той же причине!"
 
 # ch/gen_full/events.rpy:176
-translate russian ayesha_emma_event_01_8eb46ab6:
+translate russian ayesha_emma_event_01_13c83833:
     mike.say "Эм... странно и неловко получилось, да?"
 
 # ch/gen_full/events.rpy:178
@@ -4517,7 +4477,7 @@ translate russian ayesha_emma_event_01_6ad597ef:
     ayesha.say "Ну что, представишь меня?"
 
 # ch/gen_full/events.rpy:247
-translate russian ayesha_emma_event_01_b9ce0b29:
+translate russian ayesha_emma_event_01_a48ac6fe:
     mike.say "Конечно... конечно..."
 
 # ch/gen_full/events.rpy:248
@@ -4549,11 +4509,11 @@ translate russian ayesha_emma_event_01_51299b52:
     emma.say "Кто это сказал?"
 
 # ch/gen_full/events.rpy:257
-translate russian ayesha_emma_event_01_7d6b4366:
+translate russian ayesha_emma_event_01_46ee2fe6:
     ayesha.say "Эм... я."
 
 # ch/gen_full/events.rpy:259
-translate russian ayesha_emma_event_01_e7f7aaed:
+translate russian ayesha_emma_event_01_a4d69fae:
     ayesha.say "Привет... я здесь, наверху."
 
 # ch/gen_full/events.rpy:260
@@ -4585,7 +4545,7 @@ translate russian ayesha_emma_event_01_7af82d09:
     "Вижу, это замечание её несколько ошарашило."
 
 # ch/gen_full/events.rpy:269
-translate russian ayesha_emma_event_01_d40142d0:
+translate russian ayesha_emma_event_01_5e9e0745:
     ayesha.say "А, да... спасибо, Эмма!"
 
 # ch/gen_full/events.rpy:271
@@ -4857,7 +4817,7 @@ translate russian ayesha_emma_event_01_b4e3553f:
     "От моего предложения глаза Эммы становятся огромными."
 
 # ch/gen_full/events.rpy:365
-translate russian ayesha_emma_event_01_1a55605e:
+translate russian ayesha_emma_event_01_23347b6b:
     emma.say "Ой... нет..."
 
 # ch/gen_full/events.rpy:366
@@ -4925,7 +4885,7 @@ translate russian ayesha_emma_event_01_132a0311:
     "А Эмма смотрит на меня с паникой в глазах."
 
 # ch/gen_full/events.rpy:391
-translate russian ayesha_emma_event_01_7009d427:
+translate russian ayesha_emma_event_01_6d2a6169:
     emma.say "Ч... что со мной только что произошло?"
 
 # ch/gen_full/events.rpy:392
@@ -4933,7 +4893,7 @@ translate russian ayesha_emma_event_01_c0db49f6:
     mike.say "Кажется, тебя записали на рестлинг, Эмма!"
 
 # ch/gen_full/events.rpy:394
-translate russian ayesha_emma_event_01_14a0934c:
+translate russian ayesha_emma_event_01_97e1df43:
     emma.say "Н... но... я не хочу быть рестлершей!"
 
 # ch/gen_full/events.rpy:396
@@ -7041,7 +7001,7 @@ translate russian test_shiori_outfits_958cae0a:
     "Рабочая одежда"
 
 # ev/general_events.rpy:421
-translate russian minami_event_01_634750ad:
+translate russian minami_event_01_34ed0be9:
     mike.say "А... привет! Как дела?"
 
 # ev/general_events.rpy:422
@@ -7064,10 +7024,6 @@ translate russian minami_event_01_f4e73a07:
 translate russian minami_event_01_f0d85ab9:
     minami.say "Эй, [lssb_common.hero_name()], ты там вообще есть?"
 
-# ev/general_events.rpy:427
-translate russian minami_event_01_bc00373a:
-    minami.say "Скажи что-нибудь, братик!"
-
 # ev/general_events.rpy:428
 translate russian minami_event_01_8e91fddb:
     "Встречались вам люди, от одного разговора с которыми ощущаешь себя так, будто объелся сахара?"
@@ -7085,23 +7041,19 @@ translate russian minami_event_01_f98e05e6:
     "Более того, я с таким человеком вырос."
 
 # ev/general_events.rpy:432
-translate russian minami_event_01_692a87ee:
+translate russian minami_event_01_a0069fe9:
     mike.say "Э... привет, Минами."
 
 # ev/general_events.rpy:433
-translate russian minami_event_01_286cc02d:
+translate russian minami_event_01_16d67841:
     mike.say "Да... Наверное, и правда давно!"
-
-# ev/general_events.rpy:434
-translate russian minami_event_01_2462ea16:
-    minami.say "Ещё как, братик!"
 
 # ev/general_events.rpy:435
 translate russian minami_event_01_144b4341:
     minami.say "Нам столько всего нужно друг другу рассказать..."
 
 # ev/general_events.rpy:436
-translate russian minami_event_01_9945edd5:
+translate russian minami_event_01_306997e7:
     mike.say "Ну... Я как раз подумывал в ближайшее время съездить домой."
 
 # ev/general_events.rpy:437
@@ -7113,7 +7065,7 @@ translate russian minami_event_01_d90b054a:
     minami.say "Увидишь меня раньше, чем думаешь!"
 
 # ev/general_events.rpy:439
-translate russian minami_event_01_1b40587d:
+translate russian minami_event_01_84f228b6:
     mike.say "А... хорошо, Минами."
 
 # ev/general_events.rpy:440
@@ -7161,7 +7113,7 @@ translate russian minami_event_01_55af01c3:
     "Смиритесь."
 
 # ev/general_events.rpy:451
-translate russian minami_event_01_57510fb1:
+translate russian minami_event_01_6bd1eab5:
     "Стоп... Что она там сказала про скорую встречу?!"
 
 # ev/general_events.rpy:452
@@ -7171,10 +7123,6 @@ translate russian minami_event_01_37bd79a7:
 # ev/general_events.rpy:453
 translate russian minami_event_01_218513fb:
     mike.say "Когда ты говоришь, что мы скоро увидимся..."
-
-# ev/general_events.rpy:454
-translate russian minami_event_01_570a0a7a:
-    minami.say "Ой, братик!"
 
 # ev/general_events.rpy:455
 translate russian minami_event_01_925556ba:
@@ -7197,7 +7145,7 @@ translate russian minami_event_01_fe876fbe:
     "Задвинул мысль куда подальше и благополучно забыл."
 
 # ev/general_events.rpy:460
-translate russian minami_event_01_9d77083e:
+translate russian minami_event_01_6a5a3079:
     mike.say "Эм... Нет, Минами..."
 
 # ev/general_events.rpy:461
@@ -7245,7 +7193,7 @@ translate russian minami_event_01_27ef9c0a:
     minami.say "Представь, сколько у нас будет девчачьих дел! Сколько историй о тебе я ей расскажу..."
 
 # ev/general_events.rpy:472
-translate russian minami_event_01_2953bfd6:
+translate russian minami_event_01_24ad62f8:
     mike.say "Ладно, ладно... Давай по порядку, хорошо?"
 
 # ev/general_events.rpy:473
@@ -7257,7 +7205,7 @@ translate russian minami_event_01_db20d2ec:
     minami.say "Не волнуйся, я напишу, когда меня ждать."
 
 # ev/general_events.rpy:475
-translate russian minami_event_01_2d802eb8:
+translate russian minami_event_01_0a5acb20:
     mike.say "Подожди... Что?"
 
 # ev/general_events.rpy:476
@@ -8301,7 +8249,7 @@ translate russian kylie_event_01_51c28b2b:
     "Девушка" "Ну же! Только не говори, что совсем меня забыл, [lssb_common.hero_name()]?"
 
 # ev/general_events.rpy:848
-translate russian kylie_event_01_d043c6c0:
+translate russian kylie_event_01_6d443a3b:
     mike.say "Эм... Я... ну..."
 
 # ev/general_events.rpy:849
@@ -8333,7 +8281,7 @@ translate russian kylie_event_01_df8ee5eb:
     "Брекеты, прыщи, худые ноги, косички. Младшая сестра Алексис, которая вечно ей докучала, когда мы учились в школе."
 
 # ev/general_events.rpy:856
-translate russian kylie_event_01_c14d1c23:
+translate russian kylie_event_01_713f75a1:
     mike.say "Ого... Кайли... Ты выросла... ПОВЗРОСЛЕЛА! Ты повзрослела!"
 
 # ev/general_events.rpy:857
@@ -8393,7 +8341,7 @@ translate russian kylie_event_01_29816dd5:
     kylie.say "А я всё думала, когда ты упомянешь ЕЁ!"
 
 # ev/general_events.rpy:873
-translate russian kylie_event_01_54ccc861:
+translate russian kylie_event_01_a767ef02:
     kylie.say "О-о... Вижу, тебе всё ещё больно из-за её измены."
 
 # ev/general_events.rpy:874
@@ -8425,7 +8373,7 @@ translate russian kylie_event_01_c95c168f:
     mike.say "...ПРАВДА отлично!"
 
 # ev/general_events.rpy:882
-translate russian kylie_event_01_87b02259:
+translate russian kylie_event_01_5748325d:
     mike.say "Юбка и рубашка... ну... они тебе очень... идут!"
 
 # ev/general_events.rpy:883
@@ -8433,7 +8381,7 @@ translate russian kylie_event_01_066dc65a:
     "Вдруг невинная улыбка Кайли сменяется понимающей усмешкой."
 
 # ev/general_events.rpy:884
-translate russian kylie_event_01_9699b653:
+translate russian kylie_event_01_77610f90:
     kylie.say "О-о... Спасибо тебе большое, [lssb_common.hero_name()]."
 
 # ev/general_events.rpy:885
@@ -8505,7 +8453,7 @@ translate russian kylie_event_01_e1fbf207:
     "От моего вопроса её глаза расширяются. Она смотрит по сторонам, словно на мгновение не может встретиться со мной взглядом."
 
 # ev/general_events.rpy:903
-translate russian kylie_event_01_2ca0ecff:
+translate russian kylie_event_01_b5544e06:
     kylie.say "А... Что... Откуда бы я..."
 
 # ev/general_events.rpy:904
@@ -8519,10 +8467,6 @@ translate russian kylie_event_01_7ddd7bce:
 # ev/general_events.rpy:906
 translate russian kylie_event_01_2e15df1c:
     kylie.say "[bree.name]?"
-
-# ev/general_events.rpy:907
-translate russian kylie_event_01_9d9dd7f8:
-    mike.say "Да, [bree.name]. Моя соседка, знаешь?"
 
 # ev/general_events.rpy:908
 translate russian kylie_event_01_9f382f5a:
@@ -8717,7 +8661,7 @@ translate russian harmony_event_02_f58a941d:
     "Свежий воздух ещё никогда не казался таким приятным. Словно долгожданная свобода..."
 
 # ev/general_events.rpy:967
-translate russian harmony_event_02_ffbbd8b3:
+translate russian harmony_event_02_5fac896a:
     "Девушка" "Эм... Привет..."
 
 # ev/general_events.rpy:968
@@ -8729,7 +8673,7 @@ translate russian harmony_event_02_59a48c43:
     "Медленно оборачиваюсь. Та же пышная фигура, то же весёлое платье, то же открытое, невинное лицо."
 
 # ev/general_events.rpy:970
-translate russian harmony_event_02_d7715e95:
+translate russian harmony_event_02_c104b61d:
     mike.say "П... привет..."
 
 # ev/general_events.rpy:971
@@ -8741,7 +8685,7 @@ translate russian harmony_event_02_3aa17616:
     "Хоть что-то. Значит, она подошла не для того, чтобы накричать или опозорить меня перед остальными прихожанами."
 
 # ev/general_events.rpy:973
-translate russian harmony_event_02_cc3303d3:
+translate russian harmony_event_02_1b106ac8:
     mike.say "Послушай... Насчёт прошлой недели, я не..."
 
 # ev/general_events.rpy:974
@@ -8793,7 +8737,7 @@ translate russian harmony_event_02_c475bd6e:
     "В ответ мне остаётся лишь тихо усмехнуться."
 
 # ev/general_events.rpy:986
-translate russian harmony_event_02_637dbd8b:
+translate russian harmony_event_02_d760df80:
     mike.say "Ладно... Если это всё..."
 
 # ev/general_events.rpy:987
@@ -8809,7 +8753,7 @@ translate russian harmony_event_02_f67ef81c:
     "Снова смотрю на неё. Она чуть ли не вздрагивает и отпускает руку, осознав, что прямо сейчас держит меня силой."
 
 # ev/general_events.rpy:990
-translate russian harmony_event_02_1b81a6e3:
+translate russian harmony_event_02_dffb3ae8:
     "Девушка" "Прости... Я просто хотела кое о чём спросить. Можно?"
 
 # ev/general_events.rpy:991
@@ -8841,7 +8785,7 @@ translate russian harmony_event_02_1d3eadd3:
     "Резко вскидываю голову и смотрю ей прямо в глаза."
 
 # ev/general_events.rpy:1000
-translate russian harmony_event_02_4ad81327:
+translate russian harmony_event_02_699d9e39:
     mike.say "А, нет... Не думаю, что это хорошая идея."
 
 # ev/general_events.rpy:1001
@@ -8889,7 +8833,7 @@ translate russian harmony_event_02_c3735c78:
     mike.say "Спасибо за комплимент! Сам придумал!"
 
 # ev/general_events.rpy:1014
-translate russian harmony_event_02_878c7e30:
+translate russian harmony_event_02_db487d12:
     mike.say "Эм, да... Конечно, почему бы и нет."
 
 # ev/general_events.rpy:1015
@@ -8905,11 +8849,11 @@ translate russian harmony_event_02_191afbc7:
     harmony.say "Тогда представлюсь. Хармони. Приятно познакомиться."
 
 # ev/general_events.rpy:1018
-translate russian harmony_event_02_b9af91f3:
+translate russian harmony_event_02_c0462a0e:
     harmony.say "Когда на прошлой неделе ты сделал... то, что сделал со мной, я была уверена: это дело рук дьявола!"
 
 # ev/general_events.rpy:1019
-translate russian harmony_event_02_b1321796:
+translate russian harmony_event_02_caebb0d4:
     harmony.say "Но почему-то твоё лицо не выходило у меня из мыслей... и из снов..."
 
 # ev/general_events.rpy:1020
@@ -8933,7 +8877,7 @@ translate russian harmony_event_02_6ac7919f:
     "Особенно когда я уже придумал столько куда более приятных применений для её рта!"
 
 # ev/general_events.rpy:1025
-translate russian harmony_event_02_794176ac:
+translate russian harmony_event_02_cc1828be:
     "Ах да... Пожалуй, в чём-то она насчёт меня права..."
 
 # ev/general_events.rpy:1026
@@ -9137,7 +9081,7 @@ translate russian lexi_event_01_549aaaf4:
     "Поворачиваюсь."
 
 # ev/general_events.rpy:1097
-translate russian lexi_event_01_d0b5d3f1:
+translate russian lexi_event_01_56017945:
     "И... вижу её."
 
 # ev/general_events.rpy:1099
@@ -9157,7 +9101,7 @@ translate russian lexi_event_01_16dc2586:
     "Симпатичное лицо и несколько серебряных украшений для пирсинга."
 
 # ev/general_events.rpy:1103
-translate russian lexi_event_01_75840b63:
+translate russian lexi_event_01_0d1872f8:
     "Если честно... выглядит довольно шлюховато."
 
 # ev/general_events.rpy:1104
@@ -9177,7 +9121,7 @@ translate russian lexi_event_01_6eaa5414:
     "Не ожидал, что ей захочется со мной заговорить."
 
 # ev/general_events.rpy:1108
-translate russian lexi_event_01_e54d5430:
+translate russian lexi_event_01_86827864:
     "Всё-таки... не думаю, что сильно выделяюсь среди других парней."
 
 # ev/general_events.rpy:1109
@@ -9189,7 +9133,7 @@ translate russian lexi_event_01_c338dea4:
     "Девушка" "Ну? Язык проглотил, что ли?"
 
 # ev/general_events.rpy:1111
-translate russian lexi_event_01_1cd91636:
+translate russian lexi_event_01_3b410907:
     mike.say "Нет, я... Не..."
 
 # ev/general_events.rpy:1112
@@ -9245,7 +9189,7 @@ translate russian lexi_event_01_ef1ee2e7:
     lexi.say "Ну, было?"
 
 # ev/general_events.rpy:1125
-translate russian lexi_event_01_b4c50c62:
+translate russian lexi_event_01_9335820a:
     mike.say "Э... да. Да, весело..."
 
 # ev/general_events.rpy:1126
@@ -9313,7 +9257,7 @@ translate russian lexi_event_01_b9e4a84b:
     lexi.say "Я знаю, что сначала ты посмотрел именно на них. Всё хорошо, можешь не стесняться..."
 
 # ev/general_events.rpy:1148
-translate russian lexi_event_01_ba37cdf7:
+translate russian lexi_event_01_53419a6f:
     mike.say "...Ты... уверена?"
 
 # ev/general_events.rpy:1149
@@ -9325,7 +9269,7 @@ translate russian lexi_event_01_da62519b:
     "«Здоровяк»? Я всегда считал себя скорее долговязым. Значит, она имеет в виду..."
 
 # ev/general_events.rpy:1151
-translate russian lexi_event_01_404fef9d:
+translate russian lexi_event_01_95114004:
     mike.say "Ну... Мы ведь даже не знаем друг друга..."
 
 # ev/general_events.rpy:1152
@@ -9353,7 +9297,7 @@ translate russian lexi_event_01_56c67b56:
     "Позволяю ей начать ласкать меня. Мои руки тем временем тянутся к ней..."
 
 # ev/general_events.rpy:1158
-translate russian lexi_event_01_196d821d:
+translate russian lexi_event_01_ef4de5c1:
     "Но... я даже не успеваю её коснуться. Её ладони ещё только на моих плечах, когда она вдруг отстраняется."
 
 # ev/general_events.rpy:1159
@@ -9361,11 +9305,11 @@ translate russian lexi_event_01_008cce3f:
     "Я удивлённо смотрю на неё и вижу: она уже смотрит не на меня."
 
 # ev/general_events.rpy:1160
-translate russian lexi_event_01_4e78770b:
+translate russian lexi_event_01_1ecc573e:
     "Что-то... у меня за спиной?"
 
 # ev/general_events.rpy:1161
-translate russian lexi_event_01_4be0f1b0:
+translate russian lexi_event_01_707050bc:
     "Медленно... тревожно... оборачиваюсь."
 
 # ev/general_events.rpy:1164
@@ -9445,7 +9389,7 @@ translate russian lexi_event_01_02df42b6:
     "За его спиной Лекси смотрит с похожим выражением."
 
 # ev/general_events.rpy:1189
-translate russian lexi_event_01_49bdd479:
+translate russian lexi_event_01_f7dfc0e9:
     "Значит... она и правда меня подставила?"
 
 # ev/general_events.rpy:1190
@@ -9473,7 +9417,7 @@ translate russian lexi_event_01_8b7494cf:
     "Есть ли у меня сожаления? Наверное. Наверное, много. Но машины времени-то нет."
 
 # ev/general_events.rpy:1197
-translate russian lexi_event_01_469bf790:
+translate russian lexi_event_01_c59d7b21:
     mike.say "...Наверное... нет..."
 
 # ev/general_events.rpy:1198
@@ -9493,7 +9437,7 @@ translate russian lexi_event_01_4cde6654:
     "Хитрую схему они придумали. Должно быть, неплохо зарабатывают."
 
 # ev/general_events.rpy:1202
-translate russian lexi_event_01_5a36d984:
+translate russian lexi_event_01_2c8a4fb1:
     "...Но... Неужели это действительно конец?"
 
 # ev/general_events.rpy:1203
@@ -9509,7 +9453,7 @@ translate russian lexi_event_01_d676ced5:
     "После всего, через что прошёл, так легко сдаться?"
 
 # ev/general_events.rpy:1206
-translate russian lexi_event_01_2da8c454:
+translate russian lexi_event_01_415540a6:
     "Нет... Это ведь ерунда, правда? Нужно лишь остановить его."
 
 # ev/general_events.rpy:1212
@@ -9525,7 +9469,7 @@ translate russian lexi_event_01_299ac82c:
     "Я жду, что он согнётся пополам."
 
 # ev/general_events.rpy:1215
-translate russian lexi_event_01_c3634898:
+translate russian lexi_event_01_6140cc12:
     "Но... он даже не вздрагивает. Только насмешливо смотрит на меня."
 
 # ev/general_events.rpy:1216
@@ -9845,7 +9789,7 @@ translate russian ayesha_teaser_5895e897:
     "Отрываю взгляд от ринга и вижу: пока я отвлёкся, рядом подошла Ханна."
 
 # ev/general_events.rpy:1343
-translate russian ayesha_teaser_1799dde7:
+translate russian ayesha_teaser_ecaddf7f:
     mike.say "Э... да... Точнее не скажешь!"
 
 # ev/general_events.rpy:1344
@@ -9861,7 +9805,7 @@ translate russian ayesha_teaser_d8eed02d:
     "Отрываю взгляд от ринга и вижу: пока я отвлёкся, рядом подошла девушка с беговой дорожки."
 
 # ev/general_events.rpy:1348
-translate russian ayesha_teaser_1799dde7_1:
+translate russian ayesha_teaser_ecaddf7f_1:
     mike.say "Э... да... Точнее не скажешь!"
 
 # ev/general_events.rpy:1349
@@ -9889,7 +9833,7 @@ translate russian ayesha_teaser_43821184:
     "А потом изумлённо сглатываю: Айша падает следом, садится ему на грудь и начинает колотить его прямо на настиле."
 
 # ev/general_events.rpy:1355
-translate russian ayesha_teaser_c118db83:
+translate russian ayesha_teaser_c4891015:
     mike.say "Она... ничего себе!"
 
 # ev/general_events.rpy:1356
@@ -10057,11 +10001,11 @@ translate russian ayesha_teaser_01ba4758:
     "Айша возвышается надо мной такая мощная и внушительная, что я невольно съёживаюсь."
 
 # ev/general_events.rpy:1410
-translate russian ayesha_teaser_b0f5bcc9:
+translate russian ayesha_teaser_ae0e7587:
     mike.say "Ладно, ладно... Прости за мои слова!"
 
 # ev/general_events.rpy:1411
-translate russian ayesha_teaser_c5583ad6:
+translate russian ayesha_teaser_065374b7:
     mike.say "Это было глупо. Я не подумал... Пожалуйста, не бей!"
 
 # ev/general_events.rpy:1412
@@ -10073,7 +10017,7 @@ translate russian ayesha_teaser_1ad1f173:
     "И с удивлением вижу, как злость на её лице смягчается."
 
 # ev/general_events.rpy:1414
-translate russian ayesha_teaser_046b2257:
+translate russian ayesha_teaser_892b6e7a:
     mike.say "Пожалуйста... Я не знаю ни единоборств, ни борьбы..."
 
 # ev/general_events.rpy:1416
@@ -10081,7 +10025,7 @@ translate russian ayesha_teaser_4050e18a:
     ayesha.say "Всё хорошо. Я не стану тебя бить."
 
 # ev/general_events.rpy:1417
-translate russian ayesha_teaser_276cee69:
+translate russian ayesha_teaser_0be545b7:
     ayesha.say "Просто... разозлилась. Вот и всё."
 
 # ev/general_events.rpy:1418
@@ -10229,7 +10173,7 @@ translate russian ayesha_teaser_2_4fa214e7:
     "Но по лицу [bree.name] вижу: получается плохо."
 
 # ev/general_events.rpy:1465
-translate russian ayesha_teaser_2_28db8cd7:
+translate russian ayesha_teaser_2_1a31ad80:
     mike.say "Ладно, ладно... Да, это рестлинг-шоу."
 
 # ev/general_events.rpy:1466
@@ -10252,10 +10196,6 @@ translate russian ayesha_teaser_2_218f8e8a:
 translate russian ayesha_teaser_2_0070a50b:
     "Нужно срочно спасать положение. Нельзя, чтобы [bree.name] ушла и оставила меня одного, раз уж мы добрались сюда."
 
-# ev/general_events.rpy:1471
-translate russian ayesha_teaser_2_e6c2bb72:
-    mike.say "Слушай, [bree.name]. Давай выложу карты на стол, ладно?"
-
 # ev/general_events.rpy:1472
 translate russian ayesha_teaser_2_0aa281d9:
     "Поднимаю руки, сдаваясь."
@@ -10267,10 +10207,6 @@ translate russian ayesha_teaser_2_e522286b:
 # ev/general_events.rpy:1474
 translate russian ayesha_teaser_2_4be0b14b:
     bree.say "Надеюсь, объяснение стоящее, [lssb_common.hero_name()]!"
-
-# ev/general_events.rpy:1475
-translate russian ayesha_teaser_2_4f814146:
-    mike.say "Честно, [bree.name]. Здесь в зале есть девушка, которая сегодня выступает на ринге."
 
 # ev/general_events.rpy:1476
 translate russian ayesha_teaser_2_1cb6d706:
@@ -10321,7 +10257,7 @@ translate russian ayesha_teaser_2_e5e6d4e9:
     "Чёрт, я почти забыл, что надо объяснить [bree.name] историю с Айшей. Думал, сходства с её любимым сериалом хватит."
 
 # ev/general_events.rpy:1488
-translate russian ayesha_teaser_2_a33513e9:
+translate russian ayesha_teaser_2_1a69c103:
     mike.say "Да... Ну, это она дала мне билеты."
 
 # ev/general_events.rpy:1489
@@ -10341,7 +10277,7 @@ translate russian ayesha_teaser_2_9e28eae9:
     "Смотрю на неё почти с полным недоверием."
 
 # ev/general_events.rpy:1493
-translate russian ayesha_teaser_2_bcad44a7:
+translate russian ayesha_teaser_2_2f44f3a7:
     mike.say "Что... Ты серьёзно?!"
 
 # ev/general_events.rpy:1494
@@ -11033,7 +10969,7 @@ translate russian bree_sasha_pet_request_77011d87:
     "Представляю, такими голосами они разговаривают с отцами, когда им что-то нужно."
 
 # ev/general_events.rpy:1788
-translate russian bree_sasha_pet_request_989c2048:
+translate russian bree_sasha_pet_request_65891fe5:
     mike.say "О... Привет, девчонки!"
 
 # ev/general_events.rpy:1789
@@ -11089,7 +11025,7 @@ translate russian bree_sasha_pet_request_56e609fd:
     "Но от упоминания маленьких ножек резко прихожу в себя."
 
 # ev/general_events.rpy:1812
-translate russian bree_sasha_pet_request_1a081ae4:
+translate russian bree_sasha_pet_request_369fd9a3:
     mike.say "Ч... что?!"
 
 # ev/general_events.rpy:1813
@@ -11425,7 +11361,7 @@ translate russian bree_sasha_pet_request_1e67c2a6:
     "Словно я заговорил на непонятном им языке."
 
 # ev/general_events.rpy:1959
-translate russian bree_sasha_pet_request_0281dd40:
+translate russian bree_sasha_pet_request_42ff89a9:
     bree.say "Но... но..."
 
 # ev/general_events.rpy:1961
@@ -11457,7 +11393,7 @@ translate russian bree_sasha_pet_request_fbd919f8:
     mike.say "Так что я предпочту обойтись без надоедливого животного в доме!"
 
 # ev/general_events.rpy:1973
-translate russian bree_sasha_pet_request_d3a59560:
+translate russian bree_sasha_pet_request_66ec1b4f:
     bree.say "Ну... По-моему, ты просто вредничаешь!"
 
 # ev/general_events.rpy:1976
@@ -11497,7 +11433,7 @@ translate russian choose_dog_27234540:
     "Едва мы входим, [bree.name] хватает меня за руку, дрожа от возбуждения."
 
 # ev/general_events.rpy:1998
-translate russian choose_dog_a033068f:
+translate russian choose_dog_e29c4670:
     bree.say "О... мой... бог!"
 
 # ev/general_events.rpy:2000
@@ -11509,7 +11445,7 @@ translate russian choose_dog_60e9da4d:
     bree.say "Мы станем родителями!"
 
 # ev/general_events.rpy:2003
-translate russian choose_dog_a95bd04f:
+translate russian choose_dog_d5eb251d:
     bree.say "Я... то есть хозяевами питомца!"
 
 # ev/general_events.rpy:2004
@@ -11531,10 +11467,6 @@ translate russian choose_dog_7762c0f6:
 # ev/general_events.rpy:2011
 translate russian choose_dog_b803dfa6:
     "Не могу сдержаться!"
-
-# ev/general_events.rpy:2012
-translate russian choose_dog_addd2d89:
-    mike.say "Меня трясёт, [bree.name]!"
 
 # ev/general_events.rpy:2013
 translate russian choose_dog_26d3de89:
@@ -11568,10 +11500,6 @@ translate russian choose_dog_e6434778:
 translate russian choose_dog_f2de2504:
     "Значит, кто-то должен проявить ответственность."
 
-# ev/general_events.rpy:2023
-translate russian choose_dog_dfb6c996:
-    mike.say "Конечно, мне не терпится посмотреть собак, [bree.name]."
-
 # ev/general_events.rpy:2024
 translate russian choose_dog_7f7bb207:
     mike.say "Но нужно убедиться, что выберем подходящую, ладно?"
@@ -11600,10 +11528,6 @@ translate russian choose_dog_9989ba9a:
 translate russian choose_dog_acdd66bd:
     "Вести себя по-детски в такой момент — очень на неё похоже."
 
-# ev/general_events.rpy:2039
-translate russian choose_dog_458ac973:
-    mike.say "Могла бы хоть попытаться сдержаться, [bree.name]!"
-
 # ev/general_events.rpy:2040
 translate russian choose_dog_ea42b923:
     mike.say "Притворись взрослой, пока мы отсюда не выйдем?"
@@ -11621,7 +11545,7 @@ translate russian choose_dog_aaf94c68:
     "Но, кажется, принимает предупреждение всерьёз."
 
 # ev/general_events.rpy:2046
-translate russian choose_dog_8b5f0e4e:
+translate russian choose_dog_4563faba:
     bree.say "Х... хорошо, [lssb_common.hero_name()]."
 
 # ev/general_events.rpy:2047
@@ -11732,10 +11656,6 @@ translate russian choose_dog_2cf6adfe:
 translate russian choose_dog_5d28de17:
     "К тому же он просто красавец. Уже представляю, как гордо гуляю с ним."
 
-# ev/general_events.rpy:2088
-translate russian choose_dog_643167e1:
-    mike.say "Сложный выбор, [bree.name]!"
-
 # ev/general_events.rpy:2089
 translate russian choose_dog_436fe286:
     mike.say "Но, думаю, стоит взять большого."
@@ -11764,10 +11684,6 @@ translate russian choose_dog_663070b4:
 translate russian choose_dog_09756949:
     "Поэтому я знаю: выбирать надо мопса."
 
-# ev/general_events.rpy:2100
-translate russian choose_dog_7a694268:
-    mike.say "Нужно брать мопса, [bree.name]!"
-
 # ev/general_events.rpy:2101
 translate russian choose_dog_c73c3271:
     mike.say "У него такая чудная рожа!"
@@ -11785,7 +11701,7 @@ translate russian choose_dog_fabacb1d:
     "Словно я сказал худшее, что только можно."
 
 # ev/general_events.rpy:2107
-translate russian choose_dog_3d780605:
+translate russian choose_dog_0b82858a:
     bree.say "Эм... Нет."
 
 # ev/general_events.rpy:2108
@@ -11816,10 +11732,6 @@ translate russian choose_dog_5d28de17_1:
 translate russian choose_dog_5e65213f:
     "Но, может, [bree.name] в этом разбирается лучше?"
 
-# ev/general_events.rpy:2117
-translate russian choose_dog_72a69231:
-    mike.say "Не знаю, [bree.name]."
-
 # ev/general_events.rpy:2118
 translate russian choose_dog_317362fd:
     mike.say "Выбор непростой!"
@@ -11837,7 +11749,7 @@ translate russian choose_dog_bef2a5dc:
     "Потом кивает и улыбается."
 
 # ev/general_events.rpy:2125
-translate russian choose_dog_4b086912:
+translate russian choose_dog_fd63356a:
     bree.say "Ой... спасибо, [lssb_common.hero_name()]!"
 
 # ev/general_events.rpy:2126
@@ -11919,10 +11831,6 @@ translate russian name_dog_dc83faf0:
 # ev/general_events.rpy:2159
 translate russian name_dog_5e070bda:
     "Вернувшись с очередной прогулки, я сразу зову девушек."
-
-# ev/general_events.rpy:2160
-translate russian name_dog_1debee26:
-    mike.say "[bree.name]... Саша..."
 
 # ev/general_events.rpy:2161
 translate russian name_dog_2a85586f:
@@ -12035,10 +11943,6 @@ translate russian name_dog_b23d3091:
 # ev/general_events.rpy:2207
 translate russian name_dog_01164f4e:
     "И вдруг понимаю..."
-
-# ev/general_events.rpy:2210
-translate russian name_dog_c40824d5:
-    mike.say "Согласен с тобой, [bree.name]."
 
 # ev/general_events.rpy:2211
 translate russian name_dog_25bb1e80:
@@ -12297,7 +12201,7 @@ translate russian choose_cat_8c930a77:
     "Она опускает взгляд, не желая смотреть мне в глаза."
 
 # ev/general_events.rpy:2317
-translate russian choose_cat_84ea816e:
+translate russian choose_cat_ec520fc1:
     sasha.say "Л... ладно, [lssb_common.hero_name()]..."
 
 # ev/general_events.rpy:2318
@@ -12644,10 +12548,6 @@ translate russian name_cat_9871db20:
 translate russian name_cat_0eb83578:
     bree.say "Кто-то умер, что ли?"
 
-# ev/general_events.rpy:2444
-translate russian name_cat_b50e7457:
-    mike.say "Нет, [bree.name]."
-
 # ev/general_events.rpy:2445
 translate russian name_cat_c6cf3210:
     mike.say "Саша только что напомнила, что мы забыли дать коту имя!"
@@ -12800,10 +12700,6 @@ translate russian name_cat_3d2223e2:
 translate russian name_cat_8821e523:
     bree.say "А мне даже имя выбрать нельзя?!"
 
-# ev/general_events.rpy:2515
-translate russian name_cat_457cf6b4:
-    mike.say "Прости, [bree.name]."
-
 # ev/general_events.rpy:2516
 translate russian name_cat_c6b5a445:
     mike.say "Просто Сашин вариант ему больше подходит!"
@@ -12861,7 +12757,7 @@ translate russian name_cat_4ab13891:
     mike.say "И раз вы никак не договоритесь, так и назовём."
 
 # ev/general_events.rpy:2542
-translate russian name_cat_d15d7a58:
+translate russian name_cat_67349c7f:
     sasha.say "Но... но я же выбрала его в приюте!"
 
 # ev/general_events.rpy:2545

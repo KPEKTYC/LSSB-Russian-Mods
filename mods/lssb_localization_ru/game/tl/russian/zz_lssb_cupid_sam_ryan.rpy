@@ -1254,7 +1254,7 @@ translate russian cupid_sam_ryan_event_02_11e386d0:
 translate russian cupid_sam_ryan_event_02_34acdcdf:
     mike.say "Саша особенная, Райан..."
 
-translate russian cupid_sam_ryan_event_02_0ef485af:
+translate russian cupid_sam_ryan_event_02_52976ad3:
     mike.say "Музыкант, поэт... да она по-настоящему свободная душа."
 
 translate russian cupid_sam_ryan_event_02_ca97e9c7:
@@ -1509,7 +1509,7 @@ translate russian cupid_sam_ryan_ending_73f431aa:
 translate russian cupid_sam_ryan_ending_694b3082:
     "Настолько прекрасной, что моё влечение к ней начинает возвращаться..."
 
-translate russian cupid_sam_ryan_ending_92327ea4:
+translate russian cupid_sam_ryan_ending_21e744d7:
     "Нет... нет... нет..."
 
 translate russian cupid_sam_ryan_ending_5afa7509:
@@ -1536,7 +1536,7 @@ translate russian cupid_sam_ryan_ending_3791ea5a:
 translate russian cupid_sam_ryan_ending_4cf775c5:
     mike.say "Что?"
 
-translate russian cupid_sam_ryan_ending_5849ffb9:
+translate russian cupid_sam_ryan_ending_5c74e371:
     mike.say "Нет... нет... всё хорошо, честно."
 
 translate russian cupid_sam_ryan_ending_7479dbbb:
@@ -1908,7 +1908,7 @@ translate russian cupid_sam_ryan_ending_86d07102:
 translate russian cupid_sam_ryan_ending_2abaedd8:
     mike.say "Да, ну..."
 
-translate russian cupid_sam_ryan_ending_398ab7a4:
+translate russian cupid_sam_ryan_ending_dc256a45:
     mike.say "Наверное, это... хорошо?"
 
 translate russian cupid_sam_ryan_ending_ae6cd8e5:

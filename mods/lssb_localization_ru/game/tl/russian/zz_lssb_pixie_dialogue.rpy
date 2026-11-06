@@ -157,7 +157,7 @@ translate russian morgan_kleio_event_01_9abe6bcb:
     "Блондинка-панк, вечно на всех обиженная, которой нравятся девушки!"
 
 # ch/harems_full/pixie/events.rpy:312
-translate russian morgan_kleio_event_01_6dc95ca1:
+translate russian morgan_kleio_event_01_24b18bec:
     mike.say "Эм, Морган... а твою бывшую случайно зовут не..."
 
 # ch/harems_full/pixie/events.rpy:318
@@ -183,10 +183,6 @@ translate russian morgan_kleio_event_01_8de703da:
 # ch/harems_full/pixie/events.rpy:327
 translate russian morgan_kleio_event_01_aeb2bc86:
     "Мы так давно дружим и через столько прошли, что я сразу вступаюсь за неё, едва Клео вопросительно смотрит на меня."
-
-# ch/harems_full/pixie/events.rpy:329
-translate russian morgan_kleio_event_01_88cae76b:
-    kleio.say "Не объяснишь, какого хрена ты выпиваешь с этой лживой маленькой сучкой, сердцеед?"
 
 # ch/harems_full/pixie/events.rpy:330
 translate russian morgan_kleio_event_01_1dcea02c:
@@ -277,7 +273,7 @@ translate russian morgan_kleio_event_01_b1fd29f5:
     "Морган растерянно качает головой, словно у неё выбили последнюю опору из-под ног."
 
 # ch/harems_full/pixie/events.rpy:360
-translate russian morgan_kleio_event_01_21d14313:
+translate russian morgan_kleio_event_01_4efa7723:
     morgan.say "Что... что ты хочешь сказать, [lssb_common.hero_name()]?"
 
 # ch/harems_full/pixie/events.rpy:361
@@ -985,7 +981,7 @@ translate russian morgan_kleio_event_03_7f714467:
     "И я почти уверен: ни Морган, ни Клео не заметили бы, что обе держат меня за руки, если бы я не вскрикнул и не поднял их на всеобщее обозрение."
 
 # ch/harems_full/pixie/events.rpy:605
-translate russian morgan_kleio_event_03_d9342b48:
+translate russian morgan_kleio_event_03_400ad5e3:
     morgan.say "Что ж... интересно!"
 
 # ch/harems_full/pixie/events.rpy:606
@@ -1017,7 +1013,7 @@ translate russian morgan_kleio_event_03_03dac0b4:
     kleio.say "[lssb_common.hero_name()] очень помог мне после того, как ты меня бросила."
 
 # ch/harems_full/pixie/events.rpy:617
-translate russian morgan_kleio_event_03_5695633e:
+translate russian morgan_kleio_event_03_36e012c8:
     kleio.say "Помог снова встать на ноги. С ним я чувствую себя нужной... даже особенной!"
 
 # ch/harems_full/pixie/events.rpy:618
@@ -1049,7 +1045,7 @@ translate russian morgan_kleio_event_03_1e5bf9b5:
     "Но почти без колебаний говорю сам за себя."
 
 # ch/harems_full/pixie/events.rpy:627
-translate russian morgan_kleio_event_03_af4df440:
+translate russian morgan_kleio_event_03_69fdd08e:
     mike.say "Морган... я хочу быть с тобой."
 
 # ch/harems_full/pixie/events.rpy:628
@@ -1069,7 +1065,7 @@ translate russian morgan_kleio_event_03_32f57665:
     morgan.say "Думаю, в детстве мы просто ещё не были готовы друг к другу."
 
 # ch/harems_full/pixie/events.rpy:635
-translate russian morgan_kleio_event_03_6013e7f2:
+translate russian morgan_kleio_event_03_45575242:
     morgan.say "Но теперь... теперь у нас и правда может всё получиться!"
 
 # ch/harems_full/pixie/events.rpy:639
@@ -1113,7 +1109,7 @@ translate russian morgan_kleio_event_03_58b0a748:
     "И о том, как я ей сочувствовал и как хотел всё исправить."
 
 # ch/harems_full/pixie/events.rpy:661
-translate russian morgan_kleio_event_03_1a845277:
+translate russian morgan_kleio_event_03_acdc38e7:
     mike.say "Клео... я хочу быть с тобой."
 
 # ch/harems_full/pixie/events.rpy:662
@@ -1125,7 +1121,7 @@ translate russian morgan_kleio_event_03_59f969b3:
     "Я ожидал увидеть на лице Клео торжество, но вместо этого она, кажется, вот-вот расплачется."
 
 # ch/harems_full/pixie/events.rpy:665
-translate russian morgan_kleio_event_03_6fb4cc8b:
+translate russian morgan_kleio_event_03_0fc66e49:
     kleio.say "Чёрт... чего я реву, как последняя размазня?!"
 
 # ch/harems_full/pixie/events.rpy:666
@@ -1161,7 +1157,7 @@ translate russian morgan_kleio_event_03_4a9fb628:
     "Мне остаётся лишь смотреть ей вслед, находя утешение в том, как Клео сжимает мою руку."
 
 # ch/harems_full/pixie/events.rpy:680
-translate russian morgan_kleio_event_03_505b020c:
+translate russian morgan_kleio_event_03_bc067e7b:
     morgan.say "Я... я не справляюсь со всем этим дерьмом."
 
 # ch/harems_full/pixie/events.rpy:683
@@ -1181,11 +1177,11 @@ translate russian morgan_kleio_event_03_39ece72e:
     "Я пытаюсь утешить Морган, но она тут же отпускает мою руку и начинает пятиться."
 
 # ch/harems_full/pixie/events.rpy:688
-translate russian morgan_kleio_event_03_1df454f7:
+translate russian morgan_kleio_event_03_e9674afd:
     morgan.say "Нет... пожалуйста, не трогай меня."
 
 # ch/harems_full/pixie/events.rpy:689
-translate russian morgan_kleio_event_03_cc9132e5:
+translate russian morgan_kleio_event_03_f9f26fa9:
     morgan.say "Я так запуталась... не знаю, что сделаю, если ты меня обнимешь!"
 
 # ch/harems_full/pixie/events.rpy:691
@@ -1237,7 +1233,7 @@ translate russian morgan_kleio_event_03_84009617:
     "Следующее возражение она тоже отмахивает и отпускает мою руку."
 
 # ch/harems_full/pixie/events.rpy:710
-translate russian morgan_kleio_event_03_6ac6a198:
+translate russian morgan_kleio_event_03_34a880d2:
     kleio.say "Ах... надо уйти отсюда, проветрить голову."
 
 # ch/harems_full/pixie/events.rpy:711
@@ -1337,7 +1333,7 @@ translate russian morgan_kleio_event_03_alternate_9bf7ccbe:
     kleio.say "Эй, [lssb_common.hero_name()]."
 
 # ch/harems_full/pixie/events.rpy:755
-translate russian morgan_kleio_event_03_alternate_59c298f1:
+translate russian morgan_kleio_event_03_alternate_77f13cb5:
     kleio.say "Я... я хотела кое-что спросить..."
 
 # ch/harems_full/pixie/events.rpy:756
@@ -1353,7 +1349,7 @@ translate russian morgan_kleio_event_03_alternate_b35acef8:
     "Во-вторых, она вообще спрашивает о чём-то разрешения!"
 
 # ch/harems_full/pixie/events.rpy:759
-translate russian morgan_kleio_event_03_alternate_20ec184e:
+translate russian morgan_kleio_event_03_alternate_77ab3443:
     mike.say "А... хорошо, Клео."
 
 # ch/harems_full/pixie/events.rpy:760
@@ -1489,7 +1485,7 @@ translate russian morgan_kleio_event_03_alternate_90e6c70b:
     "Особенно когда она говорит, что не может выбросить из головы бывшую!"
 
 # ch/harems_full/pixie/events.rpy:800
-translate russian morgan_kleio_event_03_alternate_6581c4ba:
+translate russian morgan_kleio_event_03_alternate_a6fc8088:
     kleio.say "О нет... чёрт, нет!"
 
 # ch/harems_full/pixie/events.rpy:801
@@ -1549,7 +1545,7 @@ translate russian morgan_kleio_event_03_alternate_5d7b1421:
     "Но звучит именно так..."
 
 # ch/harems_full/pixie/events.rpy:820
-translate russian morgan_kleio_event_03_alternate_e7fe36d4:
+translate russian morgan_kleio_event_03_alternate_935b46d0:
     mike.say "Ты... и я... и Морган?"
 
 # ch/harems_full/pixie/events.rpy:821
@@ -1681,7 +1677,7 @@ translate russian morgan_kleio_event_03_alternate_0f71a935:
     "Затем качает головой, словно этим движением проясняет мысли."
 
 # ch/harems_full/pixie/events.rpy:865
-translate russian morgan_kleio_event_03_alternate_efc18af0:
+translate russian morgan_kleio_event_03_alternate_d1ae0c59:
     kleio.say "Ты... ты серьёзно?"
 
 # ch/harems_full/pixie/events.rpy:866
@@ -1765,7 +1761,7 @@ translate russian morgan_kleio_event_04_fb96998b:
     "Пытаясь попасть ключом в замок входной двери, я кричу обеим, чтобы они вели себя тихо."
 
 # ch/harems_full/pixie/events.rpy:902
-translate russian morgan_kleio_event_04_2287aae5:
+translate russian morgan_kleio_event_04_fd0d9507:
     mike.say "Тсс... тсс... за-замолчите!"
 
 # ch/harems_full/pixie/events.rpy:903
@@ -1777,7 +1773,7 @@ translate russian morgan_kleio_event_04_c4ecdffe:
     "Клео и Морган, тесно прижавшись ко мне сзади, отвечают лишь новым приступом хихиканья и фырканья."
 
 # ch/harems_full/pixie/events.rpy:907
-translate russian morgan_kleio_event_04_a540c3d4:
+translate russian morgan_kleio_event_04_6eadc599:
     mike.say "Я серьёзно, ребята... и девчата!"
 
 # ch/harems_full/pixie/events.rpy:908
@@ -1789,7 +1785,7 @@ translate russian morgan_kleio_event_04_df66e276:
     mike.say "Они не должны знать, что мы собираемся заняться сексом втроём!"
 
 # ch/harems_full/pixie/events.rpy:911
-translate russian morgan_kleio_event_04_8e8ed57f:
+translate russian morgan_kleio_event_04_f5abb123:
     kleio.say "А... чем?"
 
 # ch/harems_full/pixie/events.rpy:914
@@ -1817,11 +1813,11 @@ translate russian morgan_kleio_event_04_67be0292:
     morgan.say "Я тоже!"
 
 # ch/harems_full/pixie/events.rpy:925
-translate russian morgan_kleio_event_04_d6122d6e:
+translate russian morgan_kleio_event_04_64fbaaa8:
     mike.say "Уф... вы что, оглохли?"
 
 # ch/harems_full/pixie/events.rpy:927
-translate russian morgan_kleio_event_04_952908e0:
+translate russian morgan_kleio_event_04_715bb72b:
     mike.say "Я сказал... СОСЕДКИ НЕ ДОЛЖНЫ ЗНАТЬ, ЧТО МЫ ЗАЙМЁМСЯ СЕКСОМ ВТРОЁМ!"
 
 # ch/harems_full/pixie/events.rpy:928
@@ -1835,10 +1831,6 @@ translate russian morgan_kleio_event_04_4409c198:
 # ch/harems_full/pixie/events.rpy:932
 translate russian morgan_kleio_event_04_a108fd5d:
     morgan.say "Спасибо, [lssb_common.hero_name()]! Теперь-то я отлично расслышала!"
-
-# ch/harems_full/pixie/events.rpy:934
-translate russian morgan_kleio_event_04_66aa2e61:
-    kleio.say "Ага, о соседках я бы на твоём месте не переживала, сердцеед."
 
 # ch/harems_full/pixie/events.rpy:935
 translate russian morgan_kleio_event_04_b09f6825:
@@ -1904,10 +1896,6 @@ translate russian morgan_kleio_event_04_3ee27c18:
 translate russian morgan_kleio_event_04_17cd4910:
     "Только когда обе останавливаются и смотрят мне прямо в глаза, я возвращаюсь к реальности."
 
-# ch/harems_full/pixie/events.rpy:961
-translate russian morgan_kleio_event_04_1e898bfa:
-    kleio.say "Ты только посмотри на нашего сердцееда."
-
 # ch/harems_full/pixie/events.rpy:962
 translate russian morgan_kleio_event_04_ed1b4f9d:
     kleio.say "Он бы о собственный язык споткнулся, если бы мог с места сдвинуться!"
@@ -1933,11 +1921,11 @@ translate russian morgan_kleio_event_04_db3d798c:
     "Но, едва почувствовав себя снова здесь, я тоже начинаю раздеваться."
 
 # ch/harems_full/pixie/events.rpy:972
-translate russian morgan_kleio_event_04_8c673f7c:
+translate russian morgan_kleio_event_04_79520fad:
     mike.say "Да... конечно, нет."
 
 # ch/harems_full/pixie/events.rpy:973
-translate russian morgan_kleio_event_04_77100ef5:
+translate russian morgan_kleio_event_04_cb6b30d4:
     mike.say "Просто засмотрелся на вас и... ну, на секунду выпал из реальности!"
 
 # ch/harems_full/pixie/events.rpy:974
@@ -2105,7 +2093,7 @@ translate russian morgan_kleio_event_04_ce1d8c5c:
     "Как я и надеялся, внезапное прекращение ласк тут же привлекает внимание обеих."
 
 # ch/harems_full/pixie/events.rpy:1052
-translate russian morgan_kleio_event_04_3540a911:
+translate russian morgan_kleio_event_04_a304dba0:
     kleio.say "Эй... ты чего?!"
 
 # ch/harems_full/pixie/events.rpy:1053
@@ -2176,10 +2164,6 @@ translate russian morgan_kleio_event_05_84942864:
 translate russian morgan_kleio_event_05_1228100b:
     "Но теперь невольно поднимаю глаза, чтобы понять, кто на меня смотрит."
 
-# ch/harems_full/pixie/events.rpy:1086
-translate russian morgan_kleio_event_05_d49c216f:
-    kleio.say "Привет, сердцеед!"
-
 # ch/harems_full/pixie/events.rpy:1087
 translate russian morgan_kleio_event_05_e9dbc84c:
     kleio.say "Чем занят?"
@@ -2231,10 +2215,6 @@ translate russian morgan_kleio_event_05_f7255894:
 # ch/harems_full/pixie/events.rpy:1104
 translate russian morgan_kleio_event_05_56d6a947:
     mike.say "Вы ведь совершенно случайно не заглянули сначала ко мне домой?"
-
-# ch/harems_full/pixie/events.rpy:1106
-translate russian morgan_kleio_event_05_e97d150b:
-    kleio.say "Господи, сердцеед..."
 
 # ch/harems_full/pixie/events.rpy:1107
 translate russian morgan_kleio_event_05_779d8526:
@@ -2301,7 +2281,7 @@ translate russian morgan_kleio_event_05_2691bd6f:
     kleio.say "Нечего ходить вокруг да около!"
 
 # ch/harems_full/pixie/events.rpy:1129
-translate russian morgan_kleio_event_05_c8a8aa87:
+translate russian morgan_kleio_event_05_15e17884:
     kleio.say "Ну... ты понимаешь, о чём я!"
 
 # ch/harems_full/pixie/events.rpy:1130
@@ -2329,7 +2309,7 @@ translate russian morgan_kleio_event_05_9b38526f:
     morgan.say "Вот в чём дело, [lssb_common.hero_name()]..."
 
 # ch/harems_full/pixie/events.rpy:1139
-translate russian morgan_kleio_event_05_fdfc89a7:
+translate russian morgan_kleio_event_05_e0e32401:
     morgan.say "Помнишь, как мы все... ну, сделали это вместе?"
 
 # ch/harems_full/pixie/events.rpy:1141
@@ -2337,7 +2317,7 @@ translate russian morgan_kleio_event_05_3ef50cd5:
     morgan.say "Даже не знаю, как сказать, [lssb_common.hero_name()]."
 
 # ch/harems_full/pixie/events.rpy:1142
-translate russian morgan_kleio_event_05_f6b2d229:
+translate russian morgan_kleio_event_05_71fbb328:
     morgan.say "Но помнишь, как мы все... кое-чем вместе занимались?"
 
 # ch/harems_full/pixie/events.rpy:1143
@@ -2436,10 +2416,6 @@ translate russian morgan_kleio_event_05_75f7b105:
 translate russian morgan_kleio_event_05_85a21b3a:
     "Теперь развитие событий явно радует их гораздо больше."
 
-# ch/harems_full/pixie/events.rpy:1181
-translate russian morgan_kleio_event_05_0d08166b:
-    kleio.say "Притормози, сердцеед!"
-
 # ch/harems_full/pixie/events.rpy:1182
 translate russian morgan_kleio_event_05_e1dd5951:
     kleio.say "Мы ещё уточняем детали."
@@ -2520,10 +2496,6 @@ translate russian morgan_kleio_event_05_27e55bbd:
 translate russian morgan_kleio_event_05_124f71d5:
     kleio.say "Ты ведь понимаешь, что мы предлагаем не просто посмотреть?"
 
-# ch/harems_full/pixie/events.rpy:1213
-translate russian morgan_kleio_event_05_965df7c4:
-    kleio.say "Правда, сердцеед?"
-
 # ch/harems_full/pixie/events.rpy:1215
 translate russian morgan_kleio_event_05_ff9c0db1:
     morgan.say "Ага, [lssb_common.hero_name()]..."
@@ -2588,10 +2560,6 @@ translate russian pixie_threesome_c494301f:
 translate russian pixie_threesome_2aa8843f:
     morgan.say "А, да! В прошлый раз было довольно весело."
 
-# ch/harems_full/pixie/events.rpy:1246
-translate russian pixie_threesome_997eefb3:
-    kleio.say "Что скажешь, сердцеед?"
-
 # ch/harems_full/pixie/events.rpy:1247
 translate russian pixie_threesome_29bbe8c1:
     mike.say "Пошли!"
@@ -2620,10 +2588,6 @@ translate russian pixie_threesome_3ee27c18:
 translate russian pixie_threesome_17cd4910:
     "Только когда обе останавливаются и смотрят мне прямо в глаза, я возвращаюсь к реальности."
 
-# ch/harems_full/pixie/events.rpy:1261
-translate russian pixie_threesome_1e898bfa:
-    kleio.say "Ты только посмотри на нашего сердцееда."
-
 # ch/harems_full/pixie/events.rpy:1262
 translate russian pixie_threesome_ed1b4f9d:
     kleio.say "Он бы о собственный язык споткнулся, если бы мог с места сдвинуться!"
@@ -2649,11 +2613,11 @@ translate russian pixie_threesome_db3d798c:
     "Но, едва почувствовав себя снова здесь, я тоже начинаю раздеваться."
 
 # ch/harems_full/pixie/events.rpy:1269
-translate russian pixie_threesome_8c673f7c:
+translate russian pixie_threesome_79520fad:
     mike.say "Да... конечно, нет."
 
 # ch/harems_full/pixie/events.rpy:1270
-translate russian pixie_threesome_77100ef5:
+translate russian pixie_threesome_cb6b30d4:
     mike.say "Просто засмотрелся на вас и... ну, на секунду выпал из реальности!"
 
 # ch/harems_full/pixie/events.rpy:1271
@@ -2817,7 +2781,7 @@ translate russian pixie_threesome_ce1d8c5c:
     "Как я и надеялся, внезапное прекращение ласк тут же привлекает внимание обеих."
 
 # ch/harems_full/pixie/events.rpy:1348
-translate russian pixie_threesome_3540a911:
+translate russian pixie_threesome_a304dba0:
     kleio.say "Эй... ты чего?!"
 
 # ch/harems_full/pixie/events.rpy:1349
@@ -2989,7 +2953,7 @@ translate russian pixie_threesome_ce1d8c5c_1:
     "Как я и надеялся, внезапное прекращение ласк тут же привлекает внимание обеих."
 
 # ch/harems_full/pixie/events.rpy:1430
-translate russian pixie_threesome_3540a911_1:
+translate russian pixie_threesome_a304dba0_1:
     kleio.say "Эй... ты чего?!"
 
 # ch/harems_full/pixie/events.rpy:1431
@@ -3063,10 +3027,6 @@ translate russian pixie_second_threesome_494de244:
 # ch/harems_full/pixie/events.rpy:1470
 translate russian pixie_second_threesome_3d022d56:
     "Обе уже разделись до белья и снимают даже его!"
-
-# ch/harems_full/pixie/events.rpy:1471
-translate russian pixie_second_threesome_91a9e09a:
-    kleio.say "Поторопись, сердцеед!"
 
 # ch/harems_full/pixie/events.rpy:1473
 translate russian pixie_second_threesome_398d23e0:
@@ -3177,7 +3137,7 @@ translate russian pixie_second_threesome_0d93e8eb:
     morgan.say "Но вообще я на всё согласна!"
 
 # ch/harems_full/pixie/events.rpy:1509
-translate russian pixie_second_threesome_9927b723:
+translate russian pixie_second_threesome_acca00d2:
     "Хм... вот это выбор!"
 
 # ch/harems_full/pixie/events.rpy:1510
@@ -3549,7 +3509,7 @@ translate russian pixie_second_threesome_f445ec29:
     morgan.say "Подожди минутку, Клео!"
 
 # ch/harems_full/pixie/events.rpy:1668
-translate russian pixie_second_threesome_2139d9a5:
+translate russian pixie_second_threesome_84d720b3:
     morgan.say "Хи-хи... только не ревнуй, Клео!"
 
 # ch/harems_full/pixie/events.rpy:1669
@@ -3708,10 +3668,6 @@ translate russian pixie_second_threesome_f66d6cfd:
 translate russian pixie_second_threesome_fd2b33ed:
     "И тут Клео останавливается и смотрит мне в глаза."
 
-# ch/harems_full/pixie/events.rpy:1721
-translate russian pixie_second_threesome_3bc25c9a:
-    kleio.say "Эй, сердцеед..."
-
 # ch/harems_full/pixie/events.rpy:1722
 translate russian pixie_second_threesome_728192fd:
     kleio.say "Что у тебя там случилось?"
@@ -3761,7 +3717,7 @@ translate russian pixie_second_threesome_11931ff0:
     mike.say "Простите, девчонки."
 
 # ch/harems_full/pixie/events.rpy:1740
-translate russian pixie_second_threesome_5a14136a:
+translate russian pixie_second_threesome_649ce492:
     mike.say "Я... кажется, я разволновался!"
 
 # ch/harems_full/pixie/events.rpy:1742
@@ -3817,7 +3773,7 @@ translate russian pixie_second_threesome_c9484cc7:
     mike.say "Просто..."
 
 # ch/harems_full/pixie/events.rpy:1762
-translate russian pixie_second_threesome_1cb6bf10:
+translate russian pixie_second_threesome_85e5d068:
     mike.say "Ну... вы-то уже делали это раньше."
 
 # ch/harems_full/pixie/events.rpy:1763
@@ -3840,10 +3796,6 @@ translate russian pixie_second_threesome_a96065e8:
 translate russian pixie_second_threesome_bf086fb8:
     "Вдвоём они стаскивают меня на матрас."
 
-# ch/harems_full/pixie/events.rpy:1769
-translate russian pixie_second_threesome_93b83c75:
-    kleio.say "Всё не так, сердцеед."
-
 # ch/harems_full/pixie/events.rpy:1772
 translate russian pixie_second_threesome_3c33a4c9:
     morgan.say "Для нас это тоже пока в новинку."
@@ -3865,11 +3817,11 @@ translate russian pixie_second_threesome_9b8810ea:
     "Я ахаю и чувствую, как сердце бьётся быстрее."
 
 # ch/harems_full/pixie/events.rpy:1781
-translate russian pixie_second_threesome_5b92475b:
+translate russian pixie_second_threesome_3a1c1f9a:
     mike.say "Н-но как же фаллоимитаторы?"
 
 # ch/harems_full/pixie/events.rpy:1782
-translate russian pixie_second_threesome_39417f88:
+translate russian pixie_second_threesome_d4a77368:
     mike.say "И... и всё такое?"
 
 # ch/harems_full/pixie/events.rpy:1784
@@ -4040,10 +3992,6 @@ translate russian pixie_second_threesome_d8fef25d:
 translate russian pixie_second_threesome_f424093b:
     "Выбрать непросто."
 
-# ch/harems_full/pixie/events.rpy:1852
-translate russian pixie_second_threesome_f1db3425:
-    "Но если кончить им на лица, может, выбирать вообще не придётся." with hpunch
-
 # ch/harems_full/pixie/events.rpy:1853
 translate russian pixie_second_threesome_6f421172:
     "Пока обе стоят передо мной на коленях, я даю себе волю."
@@ -4128,10 +4076,6 @@ translate russian pixie_second_threesome_717b9f5e:
 translate russian pixie_second_threesome_ab1b1c21:
     "Клео кивает с дьявольской улыбкой."
 
-# ch/harems_full/pixie/events.rpy:1886
-translate russian pixie_second_threesome_f60dafcd:
-    kleio.say "Почему бы и нет, сердцеед!"
-
 # ch/harems_full/pixie/events.rpy:1887
 translate russian pixie_second_threesome_05ba0a5f:
     kleio.say "Только делай, как я, ладно?"
@@ -4153,7 +4097,7 @@ translate russian pixie_second_threesome_01d09eef:
     morgan.say "Чего вы вдвоём на меня нацелились?!"
 
 # ch/harems_full/pixie/events.rpy:1894
-translate russian pixie_second_threesome_27fbf898:
+translate russian pixie_second_threesome_263690ee:
     morgan.say "Ч-что происходит?"
 
 # ch/harems_full/pixie/events.rpy:1895
@@ -4331,10 +4275,6 @@ translate russian pixie_second_threesome_f9a088c2:
 # ch/harems_full/pixie/events.rpy:1955
 translate russian pixie_second_threesome_9b2bbc18:
     kleio.say "Чёрт..."
-
-# ch/harems_full/pixie/events.rpy:1956
-translate russian pixie_second_threesome_9aa399f5:
-    kleio.say "Трахай её сильнее, сердцеед!"
 
 # ch/harems_full/pixie/events.rpy:1957
 translate russian pixie_second_threesome_b43380b9:
@@ -4555,10 +4495,6 @@ translate russian pixie_second_threesome_f9a088c2_1:
 # ch/harems_full/pixie/events.rpy:2041
 translate russian pixie_second_threesome_9b2bbc18_1:
     kleio.say "Чёрт..."
-
-# ch/harems_full/pixie/events.rpy:2042
-translate russian pixie_second_threesome_9aa399f5_1:
-    kleio.say "Трахай её сильнее, сердцеед!"
 
 # ch/harems_full/pixie/events.rpy:2043
 translate russian pixie_second_threesome_b43380b9_1:
@@ -4817,7 +4753,7 @@ translate russian pixie_second_threesome_c2bac22e:
     morgan.say "Поторопись, [lssb_common.hero_name()]!"
 
 # ch/harems_full/pixie/events.rpy:2137
-translate russian pixie_second_threesome_b55e8ea1:
+translate russian pixie_second_threesome_76f1382d:
     morgan.say "О-о... куда ты его вставишь?"
 
 # ch/harems_full/pixie/events.rpy:2138
@@ -4847,10 +4783,6 @@ translate russian pixie_second_threesome_361716eb:
 # ch/harems_full/pixie/events.rpy:2146
 translate russian pixie_second_threesome_a0c62621:
     kleio.say "О боже..."
-
-# ch/harems_full/pixie/events.rpy:2147
-translate russian pixie_second_threesome_c2b223ee:
-    kleio.say "Да, сердцеед..."
 
 # ch/harems_full/pixie/events.rpy:2148
 translate russian pixie_second_threesome_ae121f6b:
@@ -5045,7 +4977,7 @@ translate russian pixie_second_threesome_c2bac22e_1:
     morgan.say "Поторопись, [lssb_common.hero_name()]!"
 
 # ch/harems_full/pixie/events.rpy:2225
-translate russian pixie_second_threesome_b55e8ea1_1:
+translate russian pixie_second_threesome_76f1382d_1:
     morgan.say "О-о... куда ты его вставишь?"
 
 # ch/harems_full/pixie/events.rpy:2226
@@ -5071,10 +5003,6 @@ translate russian pixie_second_threesome_4373e3f9:
 # ch/harems_full/pixie/events.rpy:2233
 translate russian pixie_second_threesome_a0c62621_1:
     kleio.say "О боже..."
-
-# ch/harems_full/pixie/events.rpy:2234
-translate russian pixie_second_threesome_c2b223ee_1:
-    kleio.say "Да, сердцеед..."
 
 # ch/harems_full/pixie/events.rpy:2235
 translate russian pixie_second_threesome_ae121f6b_1:
@@ -5320,12 +5248,8 @@ translate russian kleio_morgan_propose_male_4cfe2922:
 translate russian kleio_morgan_propose_male_3680297f:
     "И поворачивается посмотреть, что случилось."
 
-# ch/harems_full/pixie/events.rpy:2336
-translate russian kleio_morgan_propose_male_cecab4b8:
-    kleio.say "Только не говори, что сердцеед опять в дерьмо наступил?"
-
 # ch/harems_full/pixie/events.rpy:2338
-translate russian kleio_morgan_propose_male_153dc843:
+translate russian kleio_morgan_propose_male_9756daae:
     morgan.say "А, нет... не совсем!"
 
 # ch/harems_full/pixie/events.rpy:2340
@@ -5353,11 +5277,11 @@ translate russian kleio_morgan_propose_male_361c590e:
     "Но уже кажется, будто меня бросили волкам!"
 
 # ch/harems_full/pixie/events.rpy:2347
-translate russian kleio_morgan_propose_male_621ce463:
+translate russian kleio_morgan_propose_male_5970d84c:
     mike.say "К-Клео... Морган..."
 
 # ch/harems_full/pixie/events.rpy:2348
-translate russian kleio_morgan_propose_male_cc9bb3c7:
+translate russian kleio_morgan_propose_male_7085e115:
     mike.say "Я хотел спросить... вы выйдете за меня?"
 
 # ch/harems_full/pixie/events.rpy:2351
@@ -5371,10 +5295,6 @@ translate russian kleio_morgan_propose_male_32f88405:
 # ch/harems_full/pixie/events.rpy:2353
 translate russian kleio_morgan_propose_male_7a33bcde:
     "Каждая следующая секунда молчания лишь усиливает мучение."
-
-# ch/harems_full/pixie/events.rpy:2355
-translate russian kleio_morgan_propose_male_957b6ea0:
-    kleio.say "Господи, сердцеед."
 
 # ch/harems_full/pixie/events.rpy:2357
 translate russian kleio_morgan_propose_male_d7b454e3:
@@ -5413,7 +5333,7 @@ translate russian kleio_morgan_propose_male_0a95a4ae:
     "Я медленно качаю головой, уже запихивая кольца обратно в карман."
 
 # ch/harems_full/pixie/events.rpy:2371
-translate russian kleio_morgan_propose_male_48587e72:
+translate russian kleio_morgan_propose_male_7be7aebb:
     mike.say "Я... простите."
 
 # ch/harems_full/pixie/events.rpy:2372
@@ -5431,10 +5351,6 @@ translate russian kleio_morgan_propose_male_4589daa3:
 # ch/harems_full/pixie/events.rpy:2375
 translate russian kleio_morgan_propose_male_d2b70cc5:
     "Когда я встаю, она презрительно фыркает."
-
-# ch/harems_full/pixie/events.rpy:2376
-translate russian kleio_morgan_propose_male_8ee08727:
-    kleio.say "Ага, только вышло совсем иначе, сердцеед."
 
 # ch/harems_full/pixie/events.rpy:2378
 translate russian kleio_morgan_propose_male_fc475553:
@@ -5455,10 +5371,6 @@ translate russian kleio_morgan_propose_male_ac1673ad:
 # ch/harems_full/pixie/events.rpy:2383
 translate russian kleio_morgan_propose_male_5826ae3a:
     "И всё же своими мыслями она не делится."
-
-# ch/harems_full/pixie/events.rpy:2389
-translate russian kleio_morgan_propose_male_957b6ea0_1:
-    kleio.say "Господи, сердцеед."
 
 # ch/harems_full/pixie/events.rpy:2390
 translate russian kleio_morgan_propose_male_7b8b68bc:
@@ -5512,10 +5424,6 @@ translate russian kleio_morgan_propose_male_976e2e33:
 translate russian kleio_morgan_propose_male_bca9f761:
     "Затем каждая хватает меня за руку, и они поднимают меня на ноги."
 
-# ch/harems_full/pixie/events.rpy:2408
-translate russian kleio_morgan_propose_male_f03947d8:
-    kleio.say "Может, отныне важные решения будешь оставлять нам, сердцеед?"
-
 # ch/harems_full/pixie/events.rpy:2410
 translate russian kleio_morgan_propose_male_ef6760cf:
     kleio.say "Не хочется, чтобы ты слишком напрягался и надорвался!"
@@ -5529,11 +5437,11 @@ translate russian kleio_morgan_propose_male_d699c10a:
     morgan.say "Мы с Клео с радостью выйдем за тебя!"
 
 # ch/harems_full/pixie/events.rpy:2414
-translate russian kleio_morgan_propose_male_d9d09d8d:
+translate russian kleio_morgan_propose_male_1f5b48ed:
     mike.say "Э-это здорово!"
 
 # ch/harems_full/pixie/events.rpy:2415
-translate russian kleio_morgan_propose_male_e8500787:
+translate russian kleio_morgan_propose_male_d26c7c1f:
     mike.say "Вот... дайте только..."
 
 # ch/harems_full/pixie/events.rpy:2416
@@ -5736,10 +5644,6 @@ translate russian kleio_morgan_male_ending_dc31ef29:
 translate russian kleio_morgan_male_ending_4f414e9e:
     "Каждый взгляд на них напоминает, за что я люблю обеих."
 
-# ch/harems_full/pixie/events.rpy:2491
-translate russian kleio_morgan_male_ending_43adc6e7:
-    kleio.say "Нравится, сердцеед?"
-
 # ch/harems_full/pixie/events.rpy:2492
 translate russian kleio_morgan_male_ending_8ccdf9e0:
     "Клео шепчет мне это, но без яда и раздражения."
@@ -5817,7 +5721,7 @@ translate russian kleio_morgan_male_ending_88dc4960:
     morgan.say "КЛЕО!"
 
 # ch/harems_full/pixie/events.rpy:2517
-translate russian kleio_morgan_male_ending_fe39d9b1:
+translate russian kleio_morgan_male_ending_073574b5:
     kleio.say "Ладно-ладно... обещаю!"
 
 # ch/harems_full/pixie/events.rpy:2519
@@ -5988,10 +5892,6 @@ translate russian kleio_morgan_male_ending_3483e9da:
 translate russian kleio_morgan_male_ending_6557ad0e:
     kleio.say "О нет, этого я точно не допущу!"
 
-# ch/harems_full/pixie/events.rpy:2572
-translate russian kleio_morgan_male_ending_60dcda1f:
-    kleio.say "Сердцеед и так слишком долго занимал всю сцену."
-
 # ch/harems_full/pixie/events.rpy:2573
 translate russian kleio_morgan_male_ending_99ccd196:
     kleio.say "Пора публике услышать моё соло!"
@@ -6060,10 +5960,6 @@ translate russian kleio_morgan_male_ending_a778010f:
 translate russian kleio_morgan_male_ending_8210ff18:
     kleio.say "Потому что давно осталось бы в прошлом."
 
-# ch/harems_full/pixie/events.rpy:2596
-translate russian kleio_morgan_male_ending_f1c9ac6a:
-    kleio.say "Если бы не наш старый добрый сердцеед!"
-
 # ch/harems_full/pixie/events.rpy:2598
 translate russian kleio_morgan_male_ending_f785c430:
     morgan.say "Иронично, да?"
@@ -6117,7 +6013,7 @@ translate russian kleio_morgan_male_ending_f92ea0d9:
     morgan.say "Кхм!"
 
 # ch/harems_full/pixie/events.rpy:2613
-translate russian kleio_morgan_male_ending_a899f0f3:
+translate russian kleio_morgan_male_ending_66a67d26:
     kleio.say "А, да... точно."
 
 # ch/harems_full/pixie/events.rpy:2614
@@ -6173,7 +6069,7 @@ translate russian kleio_morgan_male_ending_c9c2d097:
     morgan.say "Вообще-то без своего большого живота ты выглядела бы убедительнее, Клео!"
 
 # ch/harems_full/pixie/events.rpy:2628
-translate russian kleio_morgan_male_ending_91799c9b:
+translate russian kleio_morgan_male_ending_e7d15d1b:
     kleio.say "Я... я... он умеет уговаривать, знаешь ли!"
 
 # ch/harems_full/pixie/events.rpy:2630
@@ -6181,7 +6077,7 @@ translate russian kleio_morgan_male_ending_5e6a1b08:
     morgan.say "Без своего большого живота ты звучала бы убедительнее, Клео!"
 
 # ch/harems_full/pixie/events.rpy:2631
-translate russian kleio_morgan_male_ending_2902d826:
+translate russian kleio_morgan_male_ending_6da3a2a0:
     kleio.say "Что... эй!"
 
 # ch/harems_full/pixie/events.rpy:2632
@@ -6221,7 +6117,7 @@ translate russian kleio_morgan_male_ending_5af9e05c:
     morgan.say "Думаю, тут мы обе согласимся."
 
 # ch/harems_full/pixie/events.rpy:2643
-translate russian kleio_morgan_male_ending_afc29f67:
+translate russian kleio_morgan_male_ending_7017d678:
     kleio.say "М-м... да."
 
 # ch/harems_full/pixie/events.rpy:2644

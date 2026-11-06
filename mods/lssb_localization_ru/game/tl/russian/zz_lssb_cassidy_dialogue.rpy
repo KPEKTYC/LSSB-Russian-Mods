@@ -253,7 +253,7 @@ translate russian cassidy_kiss_dom_f83fd2d9:
     cassidy.say "Ты хорошо себя вёл в последнее время?"
 
 # ch/cassidy/base.rpy:227
-translate russian cassidy_kiss_dom_fe9ff09c:
+translate russian cassidy_kiss_dom_2281374a:
     mike.say "Наверное... мог бы и лучше, госпожа?"
 
 # ch/cassidy/base.rpy:229
@@ -437,7 +437,7 @@ translate russian cassidy_ask_fuck_date_male_c889c6e3_1:
     mike.say "Но если поедешь, думаю, тебе понравится."
 
 # ch/cassidy/base.rpy:318
-translate russian cassidy_ask_fuck_date_male_e04fe184:
+translate russian cassidy_ask_fuck_date_male_58295b4d:
     cassidy.say "Я... пожалуйста, можно мне домой? Я плохо себя чувствую. Обещаю, в следующий раз буду хорошей."
 
 # ch/cassidy/base.rpy:319
@@ -447,558 +447,6 @@ translate russian cassidy_ask_fuck_date_male_cb36223c:
 # ch/cassidy/base.rpy:320
 translate russian cassidy_ask_fuck_date_male_03e32005:
     cassidy.say "Спасибо, [lssb_cassidy.hero_name()]. Я этого не забуду!"
-
-# ch/cassidy/base.rpy:325
-translate russian cassidy_walk_outside_1643fb2d:
-    mike.say "Кэссиди!"
-
-# ch/cassidy/base.rpy:326
-translate russian cassidy_walk_outside_c3bb432f:
-    mike.say "Ко мне, девочка!"
-
-# ch/cassidy/base.rpy:327
-translate russian cassidy_walk_outside_76c104c2:
-    mike.say "Пора гулять!"
-
-# ch/cassidy/base.rpy:328
-translate russian cassidy_walk_outside_7c3308bb:
-    "Едва я успеваю произнести эти слова, слышу, как Кэссиди встаёт."
-
-# ch/cassidy/base.rpy:329
-translate russian cassidy_walk_outside_0aa0d03c:
-    "Но это не значит, что я ожидаю увидеть её уже через пару секунд. О нет."
-
-# ch/cassidy/base.rpy:330
-translate russian cassidy_walk_outside_0f664182:
-    "Ведь я знаю, что она будет собираться."
-
-# ch/cassidy/base.rpy:331
-translate russian cassidy_walk_outside_4c15149b:
-    "Причём совершенно определённым образом!"
-
-# ch/cassidy/base.rpy:332
-translate russian cassidy_walk_outside_06b006a2:
-    "Если я прав, Кэссиди должна быть готова с минуты на минуту..."
-
-# ch/cassidy/base.rpy:333
-translate russian cassidy_walk_outside_bb55d4c3:
-    cassidy.say "Вот и я, [lssb_cassidy.hero_name()]!"
-
-# ch/cassidy/base.rpy:335
-translate russian cassidy_walk_outside_f95c240f:
-    cassidy.say "Я готова, пойдём!"
-
-# ch/cassidy/base.rpy:337
-translate russian cassidy_walk_outside_730b6aa0:
-    "Меня ничуть не удивляет, что Кэссиди появляется на четвереньках."
-
-# ch/cassidy/base.rpy:338
-translate russian cassidy_walk_outside_ddb90e4d:
-    "И то, что она совершенно голая, меня тоже не шокирует."
-
-# ch/cassidy/base.rpy:339
-translate russian cassidy_walk_outside_98c9aac9:
-    "Ей потребовалось ровно столько времени, чтобы сбросить одежду."
-
-# ch/cassidy/base.rpy:340
-translate russian cassidy_walk_outside_9b9922da:
-    "Теперь на ней только собачий ошейник!"
-
-# ch/cassidy/base.rpy:341
-translate russian cassidy_walk_outside_7092cbbd:
-    "Я улыбаюсь и киваю, протягивая руку за подходящим поводком."
-
-# ch/cassidy/base.rpy:342
-translate russian cassidy_walk_outside_0f5c8d6f:
-    "Пристёгиваю его и легонько тяну."
-
-# ch/cassidy/base.rpy:343
-translate russian cassidy_walk_outside_d1063144:
-    mike.say "Хорошая девочка, Кэссиди!"
-
-# ch/cassidy/base.rpy:344
-translate russian cassidy_walk_outside_88a21f96:
-    mike.say "Ну, пошли..."
-
-# ch/cassidy/base.rpy:345
-translate russian cassidy_walk_outside_a21d38bc:
-    "Если бы у Кэссиди был хвост, она бы сейчас вовсю им виляла."
-
-# ch/cassidy/base.rpy:346
-translate russian cassidy_walk_outside_426e8bdf:
-    "Вместо этого она сияет от гордости, пока я открываю входную дверь и вывожу её наружу."
-
-# ch/cassidy/base.rpy:347
-translate russian cassidy_walk_outside_f824a3dc:
-    "От моего дома до парка недалеко."
-
-# ch/cassidy/base.rpy:348
-translate russian cassidy_walk_outside_46247661:
-    "А в это время ночи в районе всегда мёртвая тишина."
-
-# ch/cassidy/base.rpy:349
-translate russian cassidy_walk_outside_516e1f1e:
-    "К тому же я знаю путь в обход большинства уличных фонарей."
-
-# ch/cassidy/base.rpy:350
-translate russian cassidy_walk_outside_6d273b36:
-    "Я не переживаю, если кто-нибудь увидит, как я выгуливаю голую Кэссиди посреди ночи."
-
-# ch/cassidy/base.rpy:351
-translate russian cassidy_walk_outside_b25b731e:
-    "В лучшем случае примут меня за человека с большой собакой."
-
-# ch/cassidy/base.rpy:352
-translate russian cassidy_walk_outside_c5422f13:
-    "В худшем — поймут, что я на самом деле делаю."
-
-# ch/cassidy/base.rpy:353
-translate russian cassidy_walk_outside_6b1c263c:
-    "И будут слишком ошарашены, чтобы что-то предпринять."
-
-# ch/cassidy/base.rpy:354
-translate russian cassidy_walk_outside_24edff9b:
-    "Я так уверен, что нас не поймают, что даже не слежу за обстановкой."
-
-# ch/cassidy/base.rpy:357
-translate russian cassidy_walk_outside_19f044cb:
-    "Большую часть пути до парка я любуюсь Кэссиди, идущей рядом."
-
-# ch/cassidy/base.rpy:358
-translate russian cassidy_walk_outside_2908d098:
-    "Никогда не думал, что такой избалованной принцессе понравится нечто подобное."
-
-# ch/cassidy/base.rpy:359
-translate russian cassidy_walk_outside_fde282ce:
-    "Но ей, похоже, нравится, когда её заставляют вести себя как собаку."
-
-# ch/cassidy/base.rpy:360
-translate russian cassidy_walk_outside_c787ed9e:
-    "И её характер при этом тоже проявляется."
-
-# ch/cassidy/base.rpy:361
-translate russian cassidy_walk_outside_9fb35009:
-    "То есть она не просто повторяет обычные собачьи повадки."
-
-# ch/cassidy/base.rpy:362
-translate russian cassidy_walk_outside_08064f64:
-    "О нет, Кэссиди добавляет изрядную долю высокомерия."
-
-# ch/cassidy/base.rpy:363
-translate russian cassidy_walk_outside_c98ef9b5:
-    "Она ведёт себя как одна из тех избалованных собачек, которых встречаешь в богатых кварталах."
-
-# ch/cassidy/base.rpy:364
-translate russian cassidy_walk_outside_2f31668b:
-    "Кэссиди шествует на четвереньках, едва ли не задрав нос."
-
-# ch/cassidy/base.rpy:365
-translate russian cassidy_walk_outside_48ee53e7:
-    "Да, она представляет себя собакой."
-
-# ch/cassidy/base.rpy:366
-translate russian cassidy_walk_outside_27952019:
-    "Но одной из самых редких и дорогих пород!"
-
-# ch/cassidy/base.rpy:367
-translate russian cassidy_walk_outside_44769eba:
-    "Я знаю, что Кэссиди замечает мой неотрывный взгляд."
-
-# ch/cassidy/base.rpy:368
-translate russian cassidy_walk_outside_c485b236:
-    "Потому что начинает почти подпрыгивать, двигаясь рядом со мной."
-
-# ch/cassidy/base.rpy:369
-translate russian cassidy_walk_outside_5b77bc61:
-    "С каждым шагом её попка покачивается из стороны в сторону."
-
-# ch/cassidy/base.rpy:370
-translate russian cassidy_walk_outside_cc585ebb:
-    "А грудь одновременно колышется внизу!"
-
-# ch/cassidy/base.rpy:371
-translate russian cassidy_walk_outside_def86cc9:
-    "Мне с трудом удаётся продолжать идти прямо к парку."
-
-# ch/cassidy/base.rpy:372
-translate russian cassidy_walk_outside_d96efb91:
-    "Человек с настоящей собакой никогда бы так не отвлекался!"
-
-# ch/cassidy/base.rpy:373
-translate russian cassidy_walk_outside_0d08d70d:
-    "По крайней мере, надеюсь..."
-
-# ch/cassidy/base.rpy:374
-translate russian cassidy_walk_outside_b1030e1f:
-    "Когда мы наконец добираемся до парка, я с облегчением вижу, что он пуст."
-
-# ch/cassidy/base.rpy:375
-translate russian cassidy_walk_outside_b7a84cbe:
-    "Так что весь парк в нашем с Кэссиди распоряжении."
-
-# ch/cassidy/base.rpy:377
-translate russian cassidy_walk_outside_9316355f:
-    "Я выхожу на траву и отстёгиваю поводок."
-
-# ch/cassidy/base.rpy:378
-translate russian cassidy_walk_outside_399afb0d:
-    "Кэссиди продолжает играть свою роль, бегая туда-сюда."
-
-# ch/cassidy/base.rpy:379
-translate russian cassidy_walk_outside_3219bfd9:
-    "Чёрт, она даже некоторое время красуется, катаясь на спине."
-
-# ch/cassidy/base.rpy:380
-translate russian cassidy_walk_outside_2c7bf788:
-    "И не прекращает, пока я как следует не почешу ей живот."
-
-# ch/cassidy/base.rpy:381
-translate russian cassidy_walk_outside_284e8c6b:
-    "Я достаю из кармана теннисный мяч."
-
-# ch/cassidy/base.rpy:382
-translate russian cassidy_walk_outside_f1691794:
-    "Но едва показываю его, Кэссиди презрительно фыркает."
-
-# ch/cassidy/base.rpy:383
-translate russian cassidy_walk_outside_5a76a902:
-    "И буквально воротит от него нос!"
-
-# ch/cassidy/base.rpy:384
-translate russian cassidy_walk_outside_906af92f:
-    "Видимо, Кэссиди считает ниже своего достоинства приносить мяч."
-
-# ch/cassidy/base.rpy:385
-translate russian cassidy_walk_outside_a9f51e34:
-    "Она ещё немного гордо расхаживает по траве."
-
-# ch/cassidy/base.rpy:386
-translate russian cassidy_walk_outside_4cf1430f:
-    "Но вскоре на её лице появляется выражение срочной нужды."
-
-# ch/cassidy/base.rpy:387
-translate russian cassidy_walk_outside_f91c340e:
-    "Кэссиди спешит ко мне с широко раскрытыми глазами."
-
-# ch/cassidy/base.rpy:388
-translate russian cassidy_walk_outside_9620654f:
-    "Садится на пятки и скребёт рукой мою ногу."
-
-# ch/cassidy/base.rpy:390
-translate russian cassidy_walk_outside_0226519e:
-    cassidy.say "Нам нужно вернуться к тебе. СЕЙЧАС ЖЕ!"
-
-# ch/cassidy/base.rpy:391
-translate russian cassidy_walk_outside_e02d61fd:
-    cassidy.say "Пожалуйста, [lssb_cassidy.hero_name()], нужно спешить!"
-
-# ch/cassidy/base.rpy:392
-translate russian cassidy_walk_outside_ca87f4eb:
-    mike.say "Так, так, так..."
-
-# ch/cassidy/base.rpy:393
-translate russian cassidy_walk_outside_1f2a6285:
-    mike.say "Погоди-ка, Кэссиди."
-
-# ch/cassidy/base.rpy:394
-translate russian cassidy_walk_outside_ad0eeba1:
-    mike.say "Вся суть в том, что ты собака, а я хозяин."
-
-# ch/cassidy/base.rpy:395
-translate russian cassidy_walk_outside_b5d3d06e:
-    mike.say "Поэтому я решаю, когда и куда мы идём, ясно?"
-
-# ch/cassidy/base.rpy:396
-translate russian cassidy_walk_outside_cd4f26ee:
-    cassidy.say "Но, [lssb_cassidy.hero_name()]..."
-
-# ch/cassidy/base.rpy:397
-translate russian cassidy_walk_outside_89f467d6:
-    cassidy.say "Ты не понимаешь, мне нужно пописать!"
-
-# ch/cassidy/base.rpy:398
-translate russian cassidy_walk_outside_2e68ee0f:
-    "От этого признания мои глаза немного расширяются."
-
-# ch/cassidy/base.rpy:399
-translate russian cassidy_walk_outside_8fee6980:
-    "Но затем я оглядываю пустой парк и пожимаю плечами."
-
-# ch/cassidy/base.rpy:400
-translate russian cassidy_walk_outside_4997ebb9:
-    mike.say "Просто пописай здесь, Кэссиди."
-
-# ch/cassidy/base.rpy:401
-translate russian cassidy_walk_outside_e5ad2420:
-    mike.say "Собака бы так и сделала, верно?"
-
-# ch/cassidy/base.rpy:402
-translate russian cassidy_walk_outside_c28487d4:
-    mike.say "Если хочешь, я даже отвернусь!"
-
-# ch/cassidy/base.rpy:403
-translate russian cassidy_walk_outside_c45d37e9:
-    "Кэссиди смотрит на меня с ужасом."
-
-# ch/cassidy/base.rpy:404
-translate russian cassidy_walk_outside_debe14fd:
-    "Похоже, она готова терпеть, когда её водят голой на собачьем поводке."
-
-# ch/cassidy/base.rpy:405
-translate russian cassidy_walk_outside_cbb352da:
-    "Но вот писать в общественном месте для неё почему-то уже слишком."
-
-# ch/cassidy/base.rpy:406
-translate russian cassidy_walk_outside_027a65b4:
-    cassidy.say "НЕТ!"
-
-# ch/cassidy/base.rpy:407
-translate russian cassidy_walk_outside_da70d0f9:
-    cassidy.say "Ты должен отвести меня домой!"
-
-# ch/cassidy/base.rpy:408
-translate russian cassidy_walk_outside_fa03af55:
-    cassidy.say "Ты не можешь заставить меня сходить в туалет здесь!"
-
-# ch/cassidy/base.rpy:411
-translate russian cassidy_walk_outside_f5107535:
-    "В ответ на мольбы Кэссиди я качаю головой."
-
-# ch/cassidy/base.rpy:412
-translate russian cassidy_walk_outside_bdb7d5b2:
-    "От игры с мячом я ещё могу её избавить."
-
-# ch/cassidy/base.rpy:413
-translate russian cassidy_walk_outside_7321d1ab:
-    "Но это уже основа собачьей жизни."
-
-# ch/cassidy/base.rpy:414
-translate russian cassidy_walk_outside_8d36647c:
-    mike.say "Два варианта, Кэссиди."
-
-# ch/cassidy/base.rpy:415
-translate russian cassidy_walk_outside_c955c234:
-    mike.say "Первый: я отвожу тебя к тому дереву, и ты делаешь это там."
-
-# ch/cassidy/base.rpy:416
-translate russian cassidy_walk_outside_0c6946ec:
-    mike.say "Второй: мы остаёмся здесь, пока природа не возьмёт своё."
-
-# ch/cassidy/base.rpy:417
-translate russian cassidy_walk_outside_06537d7b:
-    mike.say "Что выбираешь?"
-
-# ch/cassidy/base.rpy:418
-translate russian cassidy_walk_outside_36283c09:
-    "Кэссиди смотрит на деревья, затем снова на меня."
-
-# ch/cassidy/base.rpy:419
-translate russian cassidy_walk_outside_cb83b06a:
-    "Я вижу мольбу в её глазах."
-
-# ch/cassidy/base.rpy:420
-translate russian cassidy_walk_outside_866cb0e5:
-    "Наверняка, когда она очаровывала папочку, это срабатывало каждый раз."
-
-# ch/cassidy/base.rpy:421
-translate russian cassidy_walk_outside_e69148f8:
-    "Но со мной не сработает."
-
-# ch/cassidy/base.rpy:422
-translate russian cassidy_walk_outside_facbb419:
-    "Я просто скрещиваю руки на груди и смотрю на неё сверху вниз."
-
-# ch/cassidy/base.rpy:423
-translate russian cassidy_walk_outside_ebd58315:
-    "И в итоге оказываюсь прав: первой сдаётся Кэссиди."
-
-# ch/cassidy/base.rpy:424
-translate russian cassidy_walk_outside_f112b478:
-    cassidy.say "Ладно, ладно..."
-
-# ch/cassidy/base.rpy:425
-translate russian cassidy_walk_outside_720e28cb:
-    cassidy.say "Отведи меня к деревьям."
-
-# ch/cassidy/base.rpy:426
-translate russian cassidy_walk_outside_4beb1378:
-    cassidy.say "Только быстрее!"
-
-# ch/cassidy/base.rpy:427
-translate russian cassidy_walk_outside_392d40a3:
-    "Я пристёгиваю поводок к ошейнику Кэссиди и направляюсь к деревьям."
-
-# ch/cassidy/base.rpy:428
-translate russian cassidy_walk_outside_7a2f7f7b:
-    "Конечно, по пути я не мешкаю."
-
-# ch/cassidy/base.rpy:429
-translate russian cassidy_walk_outside_811909f3:
-    "Но и бежать сломя голову не собираюсь."
-
-# ch/cassidy/base.rpy:430
-translate russian cassidy_walk_outside_542b9640:
-    "Когда мы добираемся, Кэссиди уже ёрзает и извивается."
-
-# ch/cassidy/base.rpy:431
-translate russian cassidy_walk_outside_72207248:
-    "Она смотрит на меня снизу вверх, и я быстро киваю."
-
-# ch/cassidy/base.rpy:432
-translate russian cassidy_walk_outside_4fda18a2:
-    "Тогда она подползает к ближайшему дереву и поворачивается к нему задом."
-
-# ch/cassidy/base.rpy:434
-translate russian cassidy_walk_outside_3f204903:
-    cassidy.say "А-а-ах..."
-
-# ch/cassidy/base.rpy:435
-translate russian cassidy_walk_outside_4fbe6d35:
-    cassidy.say "ТАК гораздо лучше!"
-
-# ch/cassidy/base.rpy:436
-translate russian cassidy_walk_outside_663d32bc:
-    cassidy.say "П... погоди, ты же сказал, что не будешь смотреть!"
-
-# ch/cassidy/base.rpy:437
-translate russian cassidy_walk_outside_23a7f295:
-    "Я невольно усмехаюсь, наблюдая, как краснеют щёки Кэссиди."
-
-# ch/cassidy/base.rpy:438
-translate russian cassidy_walk_outside_2d5b7a68:
-    "Унижение едва не заставляет её трястись от злости."
-
-# ch/cassidy/base.rpy:439
-translate russian cassidy_walk_outside_6da011e9:
-    "И после всех её капризов это для меня отличная награда."
-
-# ch/cassidy/base.rpy:440
-translate russian cassidy_walk_outside_81eae6ab:
-    mike.say "Я сказал, что отвернусь, если ты захочешь, Кэссиди."
-
-# ch/cassidy/base.rpy:441
-translate russian cassidy_walk_outside_54925d60:
-    mike.say "Но прежде чем начать писать, ты так и не приняла предложение."
-
-# ch/cassidy/base.rpy:442
-translate russian cassidy_walk_outside_1ffbdc61:
-    mike.say "Поэтому я решил, что ты не против моего взгляда."
-
-# ch/cassidy/base.rpy:444
-translate russian cassidy_walk_outside_ed898da0:
-    "Когда я вывожу Кэссиди из парка, она бормочет и ругается себе под нос."
-
-# ch/cassidy/base.rpy:445
-translate russian cassidy_walk_outside_1e158714:
-    "А по дороге домой ведёт себя высокомернее прежнего."
-
-# ch/cassidy/base.rpy:446
-translate russian cassidy_walk_outside_4823b493:
-    "Не то чтобы меня это сильно беспокоило."
-
-# ch/cassidy/base.rpy:447
-translate russian cassidy_walk_outside_2886403c:
-    "Мне даже нравится, как она изображает нервную породистую сучку!"
-
-# ch/cassidy/base.rpy:450
-translate russian cassidy_walk_outside_4b4d0485:
-    "Я оглядываюсь, всерьёз подумывая заставить Кэссиди пописать прямо здесь."
-
-# ch/cassidy/base.rpy:451
-translate russian cassidy_walk_outside_4cb5e2df:
-    "Но затем вздыхаю и качаю головой, признавая поражение."
-
-# ch/cassidy/base.rpy:452
-translate russian cassidy_walk_outside_35f767a4:
-    "Я уже надел на девушку ошейник и выгулял её голой."
-
-# ch/cassidy/base.rpy:453
-translate russian cassidy_walk_outside_43e29ea7:
-    "Много ли добавит к этому то, что она пописает в парке?"
-
-# ch/cassidy/base.rpy:454
-translate russian cassidy_walk_outside_99ec7d9f:
-    mike.say "Ладно, Кэссиди..."
-
-# ch/cassidy/base.rpy:455
-translate russian cassidy_walk_outside_9e35f525:
-    mike.say "Пойдём домой."
-
-# ch/cassidy/base.rpy:456
-translate russian cassidy_walk_outside_5ffa40cc:
-    cassidy.say "Ох, спасибо!"
-
-# ch/cassidy/base.rpy:457
-translate russian cassidy_walk_outside_6c1204af:
-    cassidy.say "Спасибо, что не заставляешь писать здесь!"
-
-# ch/cassidy/base.rpy:458
-translate russian cassidy_walk_outside_e71d73e6:
-    cassidy.say "Теперь я буду хорошей девочкой, обещаю!"
-
-# ch/cassidy/base.rpy:459
-translate russian cassidy_walk_outside_1a1e1edc:
-    "Понятия не имею, что именно подразумевается под хорошим поведением Кэссиди."
-
-# ch/cassidy/base.rpy:460
-translate russian cassidy_walk_outside_649ff32c:
-    "Но уверен, что, когда понадобится, что-нибудь придумаю."
-
-# ch/cassidy/base.rpy:461
-translate russian cassidy_walk_outside_cff84214:
-    "Я снова пристёгиваю поводок, и мы идём обратно."
-
-# ch/cassidy/base.rpy:463
-translate russian cassidy_walk_outside_b36bc6ab:
-    "На этот раз я задаю темп быстрее, и Кэссиди приходится поспевать."
-
-# ch/cassidy/base.rpy:464
-translate russian cassidy_walk_outside_f420502e:
-    "Время от времени она словно собирается пожаловаться или попросить меня сбавить шаг."
-
-# ch/cassidy/base.rpy:465
-translate russian cassidy_walk_outside_f21fd75a:
-    "Но затем что-то её останавливает, и она продолжает идти."
-
-# ch/cassidy/base.rpy:466
-translate russian cassidy_walk_outside_272d1d76:
-    "Не знаю, то ли дело в недавнем обещании."
-
-# ch/cassidy/base.rpy:467
-translate russian cassidy_walk_outside_ba25a18e:
-    "То ли мочевой пузырь вдруг напоминает, насколько он полон."
-
-# ch/cassidy/base.rpy:468
-translate russian cassidy_walk_outside_dcb72734:
-    "Так или иначе, домой мы возвращаемся в рекордное время."
-
-# ch/cassidy/base.rpy:469
-translate russian cassidy_walk_outside_ba748b85:
-    "Я едва успеваю открыть дверь, прежде чем Кэссиди влетает внутрь."
-
-# ch/cassidy/base.rpy:470
-translate russian cassidy_walk_outside_44067d38:
-    "Выпускаю поводок, позволяя ей юркнуть в ванную."
-
-# ch/cassidy/base.rpy:471
-translate russian cassidy_walk_outside_96538eef:
-    "И не могу сдержать улыбку, услышав через мгновение вздох облегчения."
-
-# ch/cassidy/base.rpy:472
-translate russian cassidy_walk_outside_551167d8:
-    "Похоже, над послушанием и туалетными привычками нам ещё предстоит поработать."
-
-# ch/cassidy/base.rpy:473
-translate russian cassidy_walk_outside_bda41de6:
-    "Но это подождёт до следующей прогулки с Кэссиди."
-
-# ch/cassidy/base.rpy:474
-translate russian cassidy_walk_outside_2cc7d208:
-    "А пока можно придумать, чем поощрять её учиться."
-
-# ch/cassidy/base.rpy:475
-translate russian cassidy_walk_outside_fe36078d:
-    "Может, и несколько наказаний..."
 
 # ch/cassidy/base.rpy:481
 translate russian cassidy_propose_male_f88d8506:
@@ -1365,7 +813,7 @@ translate russian cassidy_propose_male_1d159bb5:
     "Кэссиди кивает и машет рукой, пытаясь заговорить."
 
 # ch/cassidy/base.rpy:593
-translate russian cassidy_propose_male_099ce028:
+translate russian cassidy_propose_male_537b8927:
     cassidy.say "Д... да..."
 
 # ch/cassidy/base.rpy:595
@@ -1649,7 +1097,7 @@ translate russian cassidy_desire_2_male_184c591c:
     cassidy.say "Правда, ещё ты редкостный придурок."
 
 # ch/cassidy/chat.rpy:44
-translate russian cassidy_desire_2_male_826cab59:
+translate russian cassidy_desire_2_male_2db5cc0a:
     cassidy.say "Трудно привыкнуть к нашей... договорённости. Раньше я ездила куда угодно, а теперь должна оставаться здесь и целыми днями сидеть в твоём офисе."
 
 # ch/cassidy/chat.rpy:45
@@ -1881,7 +1329,7 @@ translate russian cassidy_love_0_male_5126ef1f:
     mike.say "Нет, я о том, почему ты вообще это сказала?"
 
 # ch/cassidy/chat.rpy:151
-translate russian cassidy_love_0_male_b4e5c373:
+translate russian cassidy_love_0_male_a02dde69:
     cassidy.say "Просто представила тебя в нём, на коленях, выпрашивающего... косточку."
 
 # ch/cassidy/chat.rpy:152
@@ -1953,7 +1401,7 @@ translate russian cassidy_love_2_male_de1608e2:
     cassidy.say "Перестал их трахать, когда всё это началось, да?"
 
 # ch/cassidy/chat.rpy:182
-translate russian cassidy_love_2_male_383d0879:
+translate russian cassidy_love_2_male_27887e6e:
     mike.say "Я... нет. Не думал, что наша договорённость подразумевает исключительность. Я же просто твоя секс-игрушка? Хочешь сказать, мне нельзя иметь другие отношения?"
 
 # ch/cassidy/chat.rpy:183
@@ -2029,7 +1477,7 @@ translate russian cassidy_love_3_male_9c419153:
     mike.say "О, странно."
 
 # ch/cassidy/chat.rpy:208
-translate russian cassidy_love_3_male_7f45bed4:
+translate russian cassidy_love_3_male_dc118443:
     cassidy.say "Нет, это чудесно. Впитываешь всё вокруг, и там так... всё можно."
 
 # ch/cassidy/chat.rpy:210
@@ -2133,7 +1581,7 @@ translate russian cassidy_love_5_male_a7125d93:
     cassidy.say "Знаешь, я рада, что мой план провалился. Было бы весело какое-то время тобой помыкать, но мне всегда становится скучно."
 
 # ch/cassidy/chat.rpy:261
-translate russian cassidy_love_5_male_94f8183e:
+translate russian cassidy_love_5_male_88ae20ac:
     cassidy.say "А ты мне не надоел. И это всё тоже. Мне... даже немного нравится."
 
 # ch/cassidy/chat.rpy:263
@@ -2149,7 +1597,7 @@ translate russian cassidy_love_5_male_15fec34c:
     mike.say "Счастливой?"
 
 # ch/cassidy/chat.rpy:268
-translate russian cassidy_love_5_male_7189dd05:
+translate russian cassidy_love_5_male_a0ccf149:
     cassidy.say "Сотри эту ухмылку. Но... да. Счастливой."
 
 # ch/cassidy/chat.rpy:270
@@ -2241,7 +1689,7 @@ translate russian cassidy_good_sweet_talk_male_b6993a8a:
     cassidy.say "Это мой природный талант."
 
 # ch/cassidy/chat.rpy:310
-translate russian cassidy_bad_sweet_talk_male_46a8bc7b:
+translate russian cassidy_bad_sweet_talk_male_31bbcb05:
     mike.say "Ого... Выглядишь на миллион долларов, Кэссиди!"
 
 # ch/cassidy/chat.rpy:311
@@ -2257,7 +1705,7 @@ translate russian cassidy_bad_sweet_talk_male_105e2080:
     cassidy.say "Просто избалованной богатенькой девочкой?!?"
 
 # ch/cassidy/chat.rpy:316
-translate russian cassidy_bad_sweet_talk_male_fa1da8e3:
+translate russian cassidy_bad_sweet_talk_male_1b0c418b:
     mike.say "Нет, Кэссиди, я не это имел в виду!"
 
 # ch/cassidy/condom.rpy:4
@@ -2605,7 +2053,7 @@ translate russian cassidy_mad_condom_96c14df2:
     "Я переворачиваюсь и смотрю, как она начинает одеваться."
 
 # ch/cassidy/condom.rpy:117
-translate russian cassidy_mad_condom_7600688a:
+translate russian cassidy_mad_condom_2556628d:
     mike.say "Т... ты уходишь?"
 
 # ch/cassidy/condom.rpy:118
@@ -2801,7 +2249,7 @@ translate russian cassidy_date_intro_halloween_male_ee86b95b:
     "Кэссиди хмурится и слегка морщит нос."
 
 # ch/cassidy/date.rpy:37
-translate russian cassidy_date_intro_halloween_male_9c01e62b:
+translate russian cassidy_date_intro_halloween_male_1dd83584:
     cassidy.say "Ч... что ты хочешь сказать, [lssb_cassidy.hero_name()]?"
 
 # ch/cassidy/date.rpy:38
@@ -2809,7 +2257,7 @@ translate russian cassidy_date_intro_halloween_male_56e72e64:
     cassidy.say "Я не пугающая! Это готы пугающие!"
 
 # ch/cassidy/date.rpy:40
-translate russian cassidy_date_intro_halloween_male_3ecf8195:
+translate russian cassidy_date_intro_halloween_male_9cd2bbf9:
     mike.say "Эм... сегодня Хэллоуин, Кэссиди. Я просто сделал тебе комплимент!"
 
 # ch/cassidy/date.rpy:42
@@ -2817,7 +2265,7 @@ translate russian cassidy_date_intro_halloween_male_4a9f52bc:
     "Лицо Кэссиди светлеет: она наконец понимает, что я имел в виду."
 
 # ch/cassidy/date.rpy:44
-translate russian cassidy_date_intro_halloween_male_df82feff:
+translate russian cassidy_date_intro_halloween_male_ca20bee1:
     cassidy.say "А... тогда ладно!"
 
 # ch/cassidy/date.rpy:45
@@ -2833,7 +2281,7 @@ translate russian cassidy_date_intro_halloween_male_324a73b2:
     cassidy.say "Ты ведь всегда считаешь меня милой, правда, [lssb_cassidy.hero_name()]? Даже когда я вредничаю."
 
 # ch/cassidy/date.rpy:51
-translate russian cassidy_date_intro_halloween_male_af344b98:
+translate russian cassidy_date_intro_halloween_male_ce37cdf7:
     cassidy.say "Милая, прекрасная, устрашающая... Выбирай то слово, за которое получишь меньше пощёчин, [lssb_cassidy.hero_name()]."
 
 # ch/cassidy/date.rpy:53
@@ -2949,7 +2397,7 @@ translate russian cassidy_date_intro_mc_birthday_male_1b8c559d:
     cassidy.say "Разве у тебя сегодня не день рождения?"
 
 # ch/cassidy/date.rpy:107
-translate russian cassidy_date_intro_mc_birthday_male_1c0f2642:
+translate russian cassidy_date_intro_mc_birthday_male_49f78f61:
     mike.say "Эм... да, сегодня."
 
 # ch/cassidy/date.rpy:109
@@ -3017,11 +2465,11 @@ translate russian cassidy_date_eat_a_burger_03f1103c:
     cassidy.say "Еда для простолюдинов. Захоти я питаться как прислуга, [lssb_cassidy.hero_name()], осталась бы дома."
 
 # ch/cassidy/date.rpy:138
-translate russian cassidy_date_eat_a_burger_7d674a28:
+translate russian cassidy_date_eat_a_burger_cc267b8d:
     cassidy.say "Я съем, если ты велишь, [lssb_cassidy.hero_name()]. Только... пожалуйста, не заставляй меня."
 
 # ch/cassidy/date.rpy:145
-translate russian cassidy_date_buy_drink_f995236d:
+translate russian cassidy_date_buy_drink_27a40e2b:
     cassidy.say "[lssb_cassidy.hero_name()], ты... ты чудовище!"
 
 # ch/cassidy/date.rpy:146
@@ -3097,7 +2545,7 @@ translate russian cassidy_date_pub_play_pool_0bba8986:
     cassidy.say "Я бы лучше сделала что-нибудь для тебя, чем гоняла дурацкие шары, [lssb_cassidy.hero_name()]."
 
 # ch/cassidy/date.rpy:186
-translate russian cassidy_date_buy_a_round_f995236d:
+translate russian cassidy_date_buy_a_round_27a40e2b:
     cassidy.say "[lssb_cassidy.hero_name()], ты... ты чудовище!"
 
 # ch/cassidy/date.rpy:187
@@ -3261,7 +2709,7 @@ translate russian cassidy_date_play_arcade_intro_male_471dfe0c:
     cassidy.say "Ладно, [lssb_cassidy.hero_name()], ладно."
 
 # ch/cassidy/date.rpy:249
-translate russian cassidy_date_play_arcade_intro_male_642239a1:
+translate russian cassidy_date_play_arcade_intro_male_fb606c34:
     cassidy.say "Давай сыграем... вот в эту!"
 
 # ch/cassidy/date.rpy:250
@@ -3381,7 +2829,7 @@ translate russian cassidy_date_play_arcade_lose_male_15902bf1:
     "Потому что играю я не лучше Кэссиди: мы оба полные новички."
 
 # ch/cassidy/date.rpy:288
-translate russian cassidy_date_play_arcade_lose_male_0b9e75fc:
+translate russian cassidy_date_play_arcade_lose_male_224c4735:
     mike.say "Э... эй, что это было?"
 
 # ch/cassidy/date.rpy:289
@@ -3465,7 +2913,7 @@ translate russian cassidy_dick_reactions_6bff2e6b:
     cassidy.say "Весьма внушительный размер!"
 
 # ch/cassidy/date.rpy:320
-translate russian cassidy_dick_reactions_f05354b5:
+translate russian cassidy_dick_reactions_6d1ec010:
     mike.say "Эм... спасибо за комплимент."
 
 # ch/cassidy/date.rpy:322
@@ -3477,11 +2925,11 @@ translate russian cassidy_dick_reactions_5c0589f1:
     cassidy.say "Просто иди сюда и дай мне его!"
 
 # ch/cassidy/date.rpy:327
-translate russian cassidy_dick_reactions_8e62519c:
+translate russian cassidy_dick_reactions_7f7dcaab:
     cassidy.say "Ох... я ожидала, что он будет больше!"
 
 # ch/cassidy/date.rpy:328
-translate russian cassidy_dick_reactions_d45ababc:
+translate russian cassidy_dick_reactions_26abf632:
     mike.say "Эм... прости, что разочаровал тебя, Кэссиди!"
 
 # ch/cassidy/date.rpy:329
@@ -3513,7 +2961,7 @@ translate russian cassidy_halloween_invitation_a782b8b4:
     "Будем честны: иногда она бывает немного избалованной!"
 
 # ch/cassidy/date.rpy:343
-translate russian cassidy_halloween_invitation_83ef68f4:
+translate russian cassidy_halloween_invitation_0988f0dc:
     "Ладно, ладно... Иногда она бывает ОЧЕНЬ избалованной."
 
 # ch/cassidy/date.rpy:344
@@ -3573,7 +3021,7 @@ translate russian cassidy_halloween_invitation_ee4d35ed:
     "Я произнёс всего две фразы, а Кэссиди уже прижала меня к канатам!"
 
 # ch/cassidy/date.rpy:362
-translate russian cassidy_halloween_invitation_6f993e85:
+translate russian cassidy_halloween_invitation_e975292f:
     mike.say "А... ха-ха!"
 
 # ch/cassidy/date.rpy:363
@@ -3601,7 +3049,7 @@ translate russian cassidy_halloween_invitation_59c86435:
     cassidy.say "Твои соседки по дому — все девушки, верно?"
 
 # ch/cassidy/date.rpy:372
-translate russian cassidy_halloween_invitation_70cf9c09:
+translate russian cassidy_halloween_invitation_88c3b28b:
     mike.say "Н... наверное, да, Кэссиди."
 
 # ch/cassidy/date.rpy:373
@@ -3657,7 +3105,7 @@ translate russian cassidy_halloween_invitation_07a39f55:
     cassidy.say "Заодно и твоих соседушек затмю!"
 
 # ch/cassidy/date.rpy:394
-translate russian cassidy_halloween_invitation_c0c69b26:
+translate russian cassidy_halloween_invitation_d26e4039:
     mike.say "Д... да, Кэссиди."
 
 # ch/cassidy/date.rpy:395
@@ -3689,7 +3137,7 @@ translate russian cassidy_halloween_invitation_c29f8fe6:
     mike.say "Хорошо, Кэссиди."
 
 # ch/cassidy/date.rpy:408
-translate russian cassidy_halloween_invitation_66ce4894:
+translate russian cassidy_halloween_invitation_b3a3ca77:
     mike.say "Эм... спасибо... наверное?"
 
 # ch/cassidy/date.rpy:409
@@ -3949,11 +3397,11 @@ translate russian cassidy_halloween_arrival_c56d7312_1:
     mike.say "Прошу не сравнивать меня с Джобой Членастым!"
 
 # ch/cassidy/date.rpy:517
-translate russian cassidy_halloween_party_78330777:
+translate russian cassidy_halloween_party_9f6d7953:
     jack.say "Принцесса... Лейла..."
 
 # ch/cassidy/date.rpy:518
-translate russian cassidy_halloween_party_20549834:
+translate russian cassidy_halloween_party_65e79bc8:
     scottie.say "Металлическое... бикини..."
 
 # ch/cassidy/date.rpy:519
@@ -4045,7 +3493,7 @@ translate russian cassidy_halloween_party_7b5b1d1f:
     mike.say "Вы можете держать свои подростковые фантазии при себе?"
 
 # ch/cassidy/date.rpy:553
-translate russian cassidy_halloween_party_198d114d:
+translate russian cassidy_halloween_party_ce552293:
     jack.say "А... прости, чувак."
 
 # ch/cassidy/date.rpy:555
@@ -4156,10 +3604,6 @@ translate russian cassidy_halloween_dance_2e73def5:
 translate russian cassidy_halloween_dance_ca1fac4f:
     "И вряд ли ей понравится увидеть меня танцующим с другой девушкой."
 
-# ch/cassidy/date.rpy:611
-translate russian cassidy_halloween_dance_1fb573a6:
-    mike.say "Я бы с радостью, [bree.name]."
-
 # ch/cassidy/date.rpy:612
 translate russian cassidy_halloween_dance_6a73ab4b:
     mike.say "Но я жду Кэссиди."
@@ -4251,10 +3695,6 @@ translate russian cassidy_halloween_dance_9ef4ff4e:
 # ch/cassidy/date.rpy:651
 translate russian cassidy_halloween_dance_e038b84d:
     cassidy.say "Пусть блондиночка смотрит, [lssb_cassidy.hero_name()]. Ей полезно увидеть то, чего ей не получить."
-
-# ch/cassidy/date.rpy:653
-translate russian cassidy_halloween_dance_8e5ee797:
-    mike.say "Конечно, [bree.name]."
 
 # ch/cassidy/date.rpy:654
 translate russian cassidy_halloween_dance_f7bfd4a2:
@@ -4381,7 +3821,7 @@ translate russian cassidy_halloween_sex_4f504647:
     "Кэссиди в этом костюме чертовски сексуальна, это неоспоримо."
 
 # ch/cassidy/date.rpy:707
-translate russian cassidy_halloween_sex_c0c69b26:
+translate russian cassidy_halloween_sex_d26e4039:
     mike.say "Д... да, Кэссиди."
 
 # ch/cassidy/date.rpy:708
@@ -4693,7 +4133,7 @@ translate russian cassidy_halloween_sex_4cab3f6b:
     "Я кладу ладони на её живот и изливаюсь в неё, наполняя её, хотя она уже носит моего ребёнка."
 
 # ch/cassidy/date.rpy:812
-translate russian cassidy_halloween_sex_0334465a:
+translate russian cassidy_halloween_sex_1a2b13d6:
     cassidy.say "М-м-м... Посмотри, что ты уже однажды со мной сделал, [lssb_cassidy.hero_name()]. Тебе повезло, что я решила оставить ребёнка."
 
 # ch/cassidy/date.rpy:814
@@ -4741,7 +4181,7 @@ translate russian cassidy_halloween_sex_093a2d17:
     cassidy.say "Теперь мне ни за что не вернут залог за эту штуку!"
 
 # ch/cassidy/date.rpy:831
-translate russian cassidy_halloween_sex_5958b9c0:
+translate russian cassidy_halloween_sex_bb37628c:
     cassidy.say "Но... боже, как же хорошо было. Только попробуй кому-нибудь сказать, что я это признала, [lssb_cassidy.hero_name()]."
 
 # ch/cassidy/date.rpy:833
@@ -4793,7 +4233,7 @@ translate russian cassidy_humiliated_01_0de73bd3:
     mike.say "Ну а чего ты хочешь?"
 
 # ch/cassidy/events.rpy:657
-translate russian cassidy_humiliated_01_1a95869f:
+translate russian cassidy_humiliated_01_36ce8565:
     cassidy.say "Не знаю. Просто... может, будь ко мне добрее?"
 
 # ch/cassidy/events.rpy:658
@@ -5089,7 +4529,7 @@ translate russian cassidy_birthday_date_male_baaad015:
     cassidy.say "Правда, [lssb_cassidy.hero_name()]?"
 
 # ch/cassidy/events.rpy:778
-translate russian cassidy_birthday_date_male_51e274ea:
+translate russian cassidy_birthday_date_male_eced4668:
     mike.say "Эм... нет..."
 
 # ch/cassidy/events.rpy:779
@@ -5241,7 +4681,7 @@ translate russian cassidy_birthday_date_male_cc91999e:
     cassidy.say "Он вечно твердит, что я должна вести себя как утончённая молодая леди."
 
 # ch/cassidy/events.rpy:836
-translate russian cassidy_birthday_date_male_e7ebeef1:
+translate russian cassidy_birthday_date_male_b4391159:
     cassidy.say "Так что да... звучит весело!"
 
 # ch/cassidy/events.rpy:838
@@ -5749,15 +5189,15 @@ translate russian cassidy_birthday_date_male_38a2dd18:
     mike.say "Уф..."
 
 # ch/cassidy/events.rpy:1032
-translate russian cassidy_birthday_date_male_d4c281cc:
+translate russian cassidy_birthday_date_male_107f9e95:
     mike.say "Да... всё хорошо..."
 
 # ch/cassidy/events.rpy:1033
-translate russian cassidy_birthday_date_male_98af7dd6:
+translate russian cassidy_birthday_date_male_44ae26c9:
     mike.say "Просто... нужно..."
 
 # ch/cassidy/events.rpy:1034
-translate russian cassidy_birthday_date_male_cfeef9e7:
+translate russian cassidy_birthday_date_male_d9c76ca1:
     mike.say "Перевести... дух!"
 
 # ch/cassidy/events.rpy:1037
@@ -6237,7 +5677,7 @@ translate russian cassidy_birthday_date_male_3e35701b:
     cassidy.say "Мне просто интересно..."
 
 # ch/cassidy/events.rpy:1220
-translate russian cassidy_birthday_date_male_75511f5c:
+translate russian cassidy_birthday_date_male_3c1e4567:
     cassidy.say "Ну... ты купил мне что-нибудь на день рождения?"
 
 # ch/cassidy/events.rpy:1222
@@ -6341,7 +5781,7 @@ translate russian cassidy_birthday_date_male_87cec541:
     cassidy.say "Конечно!"
 
 # ch/cassidy/events.rpy:1262
-translate russian cassidy_birthday_date_male_2823201e:
+translate russian cassidy_birthday_date_male_c7444d9d:
     cassidy.say "Это... это лучший подарок на свете!"
 
 # ch/cassidy/events.rpy:1264
@@ -6373,11 +5813,11 @@ translate russian cassidy_birthday_date_male_036f869f:
     mike.say "Что не так?"
 
 # ch/cassidy/events.rpy:1275
-translate russian cassidy_birthday_date_male_3bcbf77a:
+translate russian cassidy_birthday_date_male_14ee11c3:
     cassidy.say "Ну... он какой-то убогий, правда?"
 
 # ch/cassidy/events.rpy:1277
-translate russian cassidy_birthday_date_male_1b880313:
+translate russian cassidy_birthday_date_male_4a3e182a:
     mike.say "Я... наверное..."
 
 # ch/cassidy/events.rpy:1278
@@ -6469,7 +5909,7 @@ translate russian cassidy_birthday_date_male_1b035060:
     bree.say "Вот так встреча."
 
 # ch/cassidy/events.rpy:1314
-translate russian cassidy_birthday_date_male_d56e451b:
+translate russian cassidy_birthday_date_male_28692ef6:
     bree.say "О-о... кто твоя подруга?"
 
 # ch/cassidy/events.rpy:1315
@@ -6495,10 +5935,6 @@ translate russian cassidy_birthday_date_male_a1e0c69e:
 # ch/cassidy/events.rpy:1322
 translate russian cassidy_birthday_date_male_9a1dee55:
     "Слишком велик соблазн для моей спутницы вновь показать свою снобскую натуру!"
-
-# ch/cassidy/events.rpy:1323
-translate russian cassidy_birthday_date_male_4c91599f:
-    mike.say "Да, [bree.name]..."
 
 # ch/cassidy/events.rpy:1324
 translate russian cassidy_birthday_date_male_faba2ec8:
@@ -6571,10 +6007,6 @@ translate russian cassidy_birthday_date_male_be110853:
 # ch/cassidy/events.rpy:1346
 translate russian cassidy_birthday_date_male_9ea4312c:
     "А Кэссиди не помешает урок хороших манер и вежливости!"
-
-# ch/cassidy/events.rpy:1347
-translate russian cassidy_birthday_date_male_4c91599f_1:
-    mike.say "Да, [bree.name]..."
 
 # ch/cassidy/events.rpy:1348
 translate russian cassidy_birthday_date_male_faba2ec8_1:
@@ -6697,7 +6129,7 @@ translate russian cassidy_birthday_date_male_1084c7de:
     mike.say "Ты уверена, Кэссиди?"
 
 # ch/cassidy/events.rpy:1394
-translate russian cassidy_birthday_date_male_e7a847e4:
+translate russian cassidy_birthday_date_male_d496322f:
     mike.say "Тебе не нужно... вернуться к определённому часу?"
 
 # ch/cassidy/events.rpy:1396
@@ -6793,7 +6225,7 @@ translate russian cassidy_birthday_sex_30e74fc5:
     mike.say "Эм..."
 
 # ch/cassidy/events.rpy:1435
-translate russian cassidy_birthday_sex_97fabb52:
+translate russian cassidy_birthday_sex_2102e2a9:
     mike.say "Ко мне... наверное?"
 
 # ch/cassidy/events.rpy:1436
@@ -6845,7 +6277,7 @@ translate russian cassidy_birthday_sex_31223aa6:
     cassidy.say "Но внутри я впервые!"
 
 # ch/cassidy/events.rpy:1455
-translate russian cassidy_birthday_sex_37b508f2:
+translate russian cassidy_birthday_sex_849c3b07:
     mike.say "Эм... ладно, Кэссиди."
 
 # ch/cassidy/events.rpy:1456
@@ -6973,7 +6405,7 @@ translate russian cassidy_birthday_sex_53f6d158:
     cassidy.say "Мне бы очень хотелось заняться любовью с таким парнем!"
 
 # ch/cassidy/events.rpy:1500
-translate russian cassidy_birthday_sex_7507cba9:
+translate russian cassidy_birthday_sex_fc9b2508:
     mike.say "Д... думаю, это можно устроить!"
 
 # ch/cassidy/events.rpy:1501
@@ -7061,7 +6493,7 @@ translate russian cassidy_birthday_sex_7cb2a4de_1:
     cassidy.say "А-ах..."
 
 # ch/cassidy/events.rpy:1534
-translate russian cassidy_birthday_sex_39be4d83:
+translate russian cassidy_birthday_sex_be41a188:
     cassidy.say "Д... да..."
 
 # ch/cassidy/events.rpy:1535
@@ -7069,7 +6501,7 @@ translate russian cassidy_birthday_sex_69d4ec56_1:
     cassidy.say "Пожалуйста..."
 
 # ch/cassidy/events.rpy:1536
-translate russian cassidy_birthday_sex_d95f258e:
+translate russian cassidy_birthday_sex_ee138028:
     cassidy.say "Вот... вот так..."
 
 # ch/cassidy/events.rpy:1537
@@ -7089,11 +6521,11 @@ translate russian cassidy_birthday_sex_db2fe268:
     mike.say "А-ах..."
 
 # ch/cassidy/events.rpy:1541
-translate russian cassidy_birthday_sex_d06db634:
+translate russian cassidy_birthday_sex_fee5230e:
     mike.say "К... Кэссиди..."
 
 # ch/cassidy/events.rpy:1542
-translate russian cassidy_birthday_sex_c552d36e:
+translate russian cassidy_birthday_sex_08592834:
     mike.say "Не так... сильно!"
 
 # ch/cassidy/events.rpy:1543
@@ -7305,7 +6737,7 @@ translate russian cassidy_birthday_sex_0ffba102:
     cassidy.say "Может, стоит ещё немного подержать тебя при себе."
 
 # ch/cassidy/events.rpy:1614
-translate russian cassidy_birthday_sex_8315287e:
+translate russian cassidy_birthday_sex_f029f6cc:
     cassidy.say "Это было... спасибо, [lssb_cassidy.hero_name()]."
 
 # ch/cassidy/events.rpy:1615
@@ -7429,7 +6861,7 @@ translate russian cassidy_start_11beb426:
     "Глаза Кэссиди округляются: она понимает, что я только что отказался выполнить её требование."
 
 # ch/cassidy/events.rpy:1673
-translate russian cassidy_start_6c24cd0a:
+translate russian cassidy_start_9cfac9b6:
     cassidy.say "Ты... ты сейчас сказал то, что я услышала?"
 
 # ch/cassidy/events.rpy:1674
@@ -7613,7 +7045,7 @@ translate russian cassidy_start_0fa0619d:
     "Надеюсь, моего умения врать хватит: такую развесистую лапшу я девушкам ещё редко вешал."
 
 # ch/cassidy/events.rpy:1734
-translate russian cassidy_start_b89f812a:
+translate russian cassidy_start_db31db19:
     cassidy.say "Мне никто не отказывает... как-тебя-там. Никто. Звони в свою службу. Через десять минут человек должен ждать внизу. И пусть будет не хуже тебя собой."
 
 # ch/cassidy/events.rpy:1735
@@ -7629,7 +7061,7 @@ translate russian cassidy_start_1f89a6fb:
     "Я торопливо звоню в службу аренды машин с водителем. Это обходится недёшево, но кого-то удаётся уговорить."
 
 # ch/cassidy/events.rpy:1740
-translate russian cassidy_start_4d68f894:
+translate russian cassidy_start_bd15fb61:
     "Правда, за десять минут никто не приедет. Это... это мне ещё аукнется."
 
 # ch/cassidy/events.rpy:1748
@@ -7665,7 +7097,7 @@ translate russian cassidy_preg_talk_ba1c2afc:
     cassidy.say "Нет, [lssb_cassidy.hero_name()], наша договорённость на это не распространяется. Я не предлагаю тебе выбирать."
 
 # ch/cassidy/events.rpy:1769
-translate russian cassidy_preg_talk_62a7f2e2:
+translate russian cassidy_preg_talk_c3a82181:
     "Я правда хочу, чтобы она оставила ребёнка? Она настроена решительно, но... это мой ребёнок! И она моя питомица!"
 
 # ch/cassidy/events.rpy:1772
@@ -7689,7 +7121,7 @@ translate russian cassidy_preg_talk_a9dc39e1:
     "Затем она стремительно пробегает мимо меня. Ушла. Просто так. И Кэссиди, И мой ребёнок."
 
 # ch/cassidy/events.rpy:1785
-translate russian cassidy_preg_talk_215d04e9:
+translate russian cassidy_preg_talk_eb629992:
     mike.say "Ладно. Наверное. Это твоё тело, но... чёрт."
 
 # ch/cassidy/events.rpy:1787
@@ -7697,7 +7129,7 @@ translate russian cassidy_preg_talk_87951277:
     "Кэссиди подходит и касается моего лица. Она говорит сквозь слёзы, медленно стекающие по щекам."
 
 # ch/cassidy/events.rpy:1788
-translate russian cassidy_preg_talk_f3fac799:
+translate russian cassidy_preg_talk_1a305ea6:
     cassidy.say "Послушай, может... когда-нибудь, ладно? Но не сегодня. Не сейчас."
 
 # ch/cassidy/events.rpy:1791
@@ -7769,7 +7201,7 @@ translate russian cassidy_preg_talk_c48f6a73:
     mike.say "Жестоко, Кэссиди. Жестоко!"
 
 # ch/cassidy/events.rpy:1831
-translate russian cassidy_preg_talk_53a1da2c:
+translate russian cassidy_preg_talk_5c2469cc:
     cassidy.say "Милый, я не... не знаю, готова ли к ребёнку."
 
 # ch/cassidy/events.rpy:1833
@@ -7789,7 +7221,7 @@ translate russian cassidy_preg_talk_76c30047:
     cassidy.say "Послушай, я никогда не представляла себя матерью. Просто никогда этого не хотела. Но дело в том..."
 
 # ch/cassidy/events.rpy:1841
-translate russian cassidy_preg_talk_76ca527e:
+translate russian cassidy_preg_talk_2d1bbde9:
     cassidy.say "Я люблю тебя, [lssb_cassidy.hero_name()]. Думаю... я могла бы. Возможно, я согласна, ну, понимаешь."
 
 # ch/cassidy/events.rpy:1842
@@ -7801,7 +7233,7 @@ translate russian cassidy_preg_talk_50eac267:
     mike.say "Ты предлагаешь мне выбрать?"
 
 # ch/cassidy/events.rpy:1847
-translate russian cassidy_preg_talk_b8081a8f:
+translate russian cassidy_preg_talk_42aacb11:
     cassidy.say "Сейчас нам весело вместе, но это... это навсегда. Так что да, я хочу, чтобы ты был полностью и безоговорочно согласен."
 
 # ch/cassidy/events.rpy:1851
@@ -7821,11 +7253,11 @@ translate russian cassidy_preg_talk_3d48c61b:
     mike.say "Я люблю тебя!"
 
 # ch/cassidy/events.rpy:1857
-translate russian cassidy_preg_talk_a3c96c32:
+translate russian cassidy_preg_talk_de429097:
     mike.say "Кэссиди, не думаю... не думаю, что это хорошая идея."
 
 # ch/cassidy/events.rpy:1859
-translate russian cassidy_preg_talk_79ae3ed3:
+translate russian cassidy_preg_talk_2764fbb9:
     cassidy.say "Знаю, нехорошая, но... нет, ты прав. Я подумала, может, если ты захочешь... но ты прав."
 
 # ch/cassidy/events.rpy:1861
@@ -7885,7 +7317,7 @@ translate russian cassidy_start_investigation_b3500ef7:
     aletta.say "[lssb_cassidy.hero_name()], со счетов отдела пропали деньги. Много денег. И твои счета вызвали подозрения."
 
 # ch/cassidy/events.rpy:1897
-translate russian cassidy_start_investigation_53740f67:
+translate russian cassidy_start_investigation_0609423b:
     mike.say "Пропали? Погоди, так вот что... охренеть. Они думают, что я украл почти три миллиона долларов?"
 
 # ch/cassidy/events.rpy:1899
@@ -8005,7 +7437,7 @@ translate russian cassidy_start_investigation_421aec3a:
     mike.say "В моих счетах? Как такое вообще возможно?"
 
 # ch/cassidy/events.rpy:1951
-translate russian cassidy_start_investigation_53740f67_1:
+translate russian cassidy_start_investigation_0609423b_1:
     mike.say "Пропали? Погоди, так вот что... охренеть. Они думают, что я украл почти три миллиона долларов?"
 
 # ch/cassidy/events.rpy:1953
@@ -8129,7 +7561,7 @@ translate russian cassidy_setup_meeting_10c827be:
     cassidy.say "Отлично. Значит, у тебя найдётся время встретиться со мной."
 
 # ch/cassidy/events.rpy:2009
-translate russian cassidy_setup_meeting_632a34ce:
+translate russian cassidy_setup_meeting_10bf9685:
     mike.say "Не могу, у меня... работа."
 
 # ch/cassidy/events.rpy:2010
@@ -8149,7 +7581,7 @@ translate russian cassidy_setup_meeting_22cd1fe2:
     cassidy.say "Милый, хватит уже притворяться."
 
 # ch/cassidy/events.rpy:2014
-translate russian cassidy_setup_meeting_d987bf39:
+translate russian cassidy_setup_meeting_9fa895d7:
     "Затем её голос становится ниже и... чувственно хрипловатым. Одновременно зловещим и сексуальным."
 
 # ch/cassidy/events.rpy:2015
@@ -8169,7 +7601,7 @@ translate russian cassidy_setup_meeting_ea6fa8a4:
     mike.say "Эм, какая помощь тебе нужна?"
 
 # ch/cassidy/events.rpy:2019
-translate russian cassidy_setup_meeting_e0662044:
+translate russian cassidy_setup_meeting_895abc59:
     cassidy.say "Судя по слухам о тебе, такая, в которой ты очень, очень хорош. Давай обсудим это... лично."
 
 # ch/cassidy/events.rpy:2020
@@ -8177,7 +7609,7 @@ translate russian cassidy_setup_meeting_96ec5b1e:
     mike.say "Хорошо. Где?"
 
 # ch/cassidy/events.rpy:2021
-translate russian cassidy_setup_meeting_246273b9:
+translate russian cassidy_setup_meeting_dfbdf9a4:
     cassidy.say "Скажем... в твоём кабинете. В одиннадцать. Сегодня вечером."
 
 # ch/cassidy/events.rpy:2022
@@ -8241,7 +7673,7 @@ translate russian cassidy_setup_meeting_de13f124:
     cassidy.say "Запомни, милый. Сегодня. В одиннадцать. Твой кабинет."
 
 # ch/cassidy/events.rpy:2040
-translate russian cassidy_setup_meeting_6e59b48d:
+translate russian cassidy_setup_meeting_ff6083f3:
     cassidy.say "Приходи один. И надень что-нибудь... сексуальное."
 
 # ch/cassidy/events.rpy:2041
@@ -8273,7 +7705,7 @@ translate russian cassidy_hold_meeting_90f62ed5:
     "Её голос снова становится томным."
 
 # ch/cassidy/events.rpy:2063
-translate russian cassidy_hold_meeting_2b794123:
+translate russian cassidy_hold_meeting_cad3cd08:
     cassidy.say "Было бы так жаль, если бы ты решил не заняться мной... всерьёз."
 
 # ch/cassidy/events.rpy:2065
@@ -8285,11 +7717,11 @@ translate russian cassidy_hold_meeting_031c5020:
     mike.say "Да, Кэссиди. Я воспринимаю тебя всерьёз. Чего ты хочешь?"
 
 # ch/cassidy/events.rpy:2068
-translate russian cassidy_hold_meeting_e900e937:
+translate russian cassidy_hold_meeting_e318b3de:
     cassidy.say "Прежде чем перейти к этому, не хочешь узнать, что я могу... сделать с тобой? Или для тебя?"
 
 # ch/cassidy/events.rpy:2070
-translate russian cassidy_hold_meeting_cf2e8d43:
+translate russian cassidy_hold_meeting_8841dcd0:
     mike.say "Эм, начнём с того... что ты можешь сделать для меня?"
 
 # ch/cassidy/events.rpy:2071
@@ -8513,7 +7945,7 @@ translate russian cassidy_meeting_loop_988ba079:
     "Едва договорив, я понимаю, что она ни за что на это не купится. Но..."
 
 # ch/cassidy/events.rpy:2203
-translate russian cassidy_meeting_loop_2f8db32e:
+translate russian cassidy_meeting_loop_685a1a5c:
     cassidy.say "Ладно. Джефф, бухгалтер, который ведёт расследование. Он женат, знаешь ли. И не хочет, чтобы жена узнала о... нас."
 
 # ch/cassidy/events.rpy:2205
@@ -8717,7 +8149,7 @@ translate russian cassidy_first_dom_d3656cf2:
     "Я вздыхаю и берусь за член. Он лишь наполовину твёрдый, поэтому встаёт медленно."
 
 # ch/cassidy/events.rpy:2306
-translate russian cassidy_first_dom_05c77e72:
+translate russian cassidy_first_dom_552dd440:
     mike.say "Помогло бы, если... госпожа, может, вы немного поможете мне рукой?"
 
 # ch/cassidy/events.rpy:2308
@@ -8725,7 +8157,7 @@ translate russian cassidy_first_dom_c5e15977:
     cassidy.say "Хрен тебе. Я здесь главная, а ты не вправе просить, чтобы я тебе подрочила."
 
 # ch/cassidy/events.rpy:2310
-translate russian cassidy_first_dom_e492fabb:
+translate russian cassidy_first_dom_86e80b43:
     mike.say "Я имел в виду... может, дадите на что-нибудь посмотреть? Чтобы его заинтересовать?"
 
 # ch/cassidy/events.rpy:2312
@@ -8909,7 +8341,7 @@ translate russian cassidy_investigation_good_ending_c0c28b50:
     mike.say "Будешь делать всё, что я захочу. Расстанешься со всеми своими парнями. Со всеми до единого."
 
 # ch/cassidy/events.rpy:2414
-translate russian cassidy_investigation_good_ending_22bd7961:
+translate russian cassidy_investigation_good_ending_87eb50b4:
     mike.say "Устроишься сюда моей личной помощницей. А затем будешь мне... помогать."
 
 # ch/cassidy/events.rpy:2416
@@ -8953,7 +8385,7 @@ translate russian cassidy_investigation_good_ending_7ec15d6a:
     mike.say "Ну?"
 
 # ch/cassidy/events.rpy:2431
-translate russian cassidy_investigation_good_ending_af94ff70:
+translate russian cassidy_investigation_good_ending_07621e14:
     cassidy.say "Без боли. Без крови. Я бы не стала причинять тебе боль. Я прошу... только о том же."
 
 # ch/cassidy/events.rpy:2433
@@ -8961,7 +8393,7 @@ translate russian cassidy_investigation_good_ending_115048a4:
     mike.say "Договорились."
 
 # ch/cassidy/events.rpy:2435
-translate russian cassidy_investigation_good_ending_814537d8:
+translate russian cassidy_investigation_good_ending_e278dd07:
     cassidy.say "Тогда... наверное. Наверное, я пойду к папочке и..."
 
 # ch/cassidy/events.rpy:2437
@@ -8981,7 +8413,7 @@ translate russian cassidy_investigation_good_ending_1cf2e4ed:
     "Кэссиди морщится и явно хочет съязвить, но сдерживается."
 
 # ch/cassidy/events.rpy:2444
-translate russian cassidy_investigation_good_ending_84bc238e:
+translate russian cassidy_investigation_good_ending_0bf656f3:
     cassidy.say "Да... господин."
 
 # ch/cassidy/events.rpy:2455
@@ -9037,7 +8469,7 @@ translate russian cassidy_investigation_good_ending_fb58ea36:
     dwayne.say "Хорошо, хорошо."
 
 # ch/cassidy/events.rpy:2480
-translate russian cassidy_investigation_good_ending_871313b0:
+translate russian cassidy_investigation_good_ending_1048c0ac:
     "Уходя, Дуэйн выглядит встревоженным и... пожалуй, немного напуганным."
 
 # ch/cassidy/events.rpy:2482
@@ -9097,7 +8529,7 @@ translate russian cassidy_investigation_successful_286ce30e:
     "Она снова смотрит на меня."
 
 # ch/cassidy/events.rpy:2511
-translate russian cassidy_investigation_successful_246fb669:
+translate russian cassidy_investigation_successful_bdcd97c6:
     cassidy.say "Вперёд, делай что хочешь. Мой папочка гораздо умнее тебя. Тебе ни за что не удастся доказать... что бы это ни было."
 
 # ch/cassidy/events.rpy:2513
@@ -9105,7 +8537,7 @@ translate russian cassidy_investigation_successful_093b6ccd:
     "Она бросает папку обратно на стол и возмущённо уходит."
 
 # ch/cassidy/events.rpy:2515
-translate russian cassidy_investigation_successful_c0505ca5:
+translate russian cassidy_investigation_successful_43c14a22:
     "Этого я не ожидал. Понятно, она не разобралась в содержимом папки, но я надеялся договориться, не пуская его в ход. Теперь... что ж, посмотрим."
 
 # ch/cassidy/events.rpy:2519
@@ -9121,7 +8553,7 @@ translate russian cassidy_investigation_successful_37d7de54:
     "Я передаю папку Алетте. Она быстро просматривает бумаги, и вскоре её брови взлетают вверх."
 
 # ch/cassidy/events.rpy:2524
-translate russian cassidy_investigation_successful_10a61437:
+translate russian cassidy_investigation_successful_3ca44074:
     aletta.say "Дуэйн, судя по этому, деньги присваивал ты. Здесь видно, как дочерняя компания... «Дуэ Холдингс». «Дуэ»? Серьёзно, Дуэйн?"
 
 # ch/cassidy/events.rpy:2527
@@ -9133,7 +8565,7 @@ translate russian cassidy_investigation_successful_0cb23476:
     aletta.say "Неважно. Когда совет директоров увидит это, если данные подтвердятся, тебя уволят, Дуэйн."
 
 # ch/cassidy/events.rpy:2533
-translate russian cassidy_investigation_successful_2b80e200:
+translate russian cassidy_investigation_successful_eceda278:
     dwayne.say "Это... это невозможно."
 
 # ch/cassidy/events.rpy:2536
@@ -9181,7 +8613,7 @@ translate russian cassidy_investigation_blackmail_de31bafd:
     "Кэссиди бледнеет."
 
 # ch/cassidy/events.rpy:2566
-translate russian cassidy_investigation_blackmail_bb084554:
+translate russian cassidy_investigation_blackmail_91e8d332:
     mike.say "Конечно, я, возможно, готов обойтись без всей этой... грязи."
 
 # ch/cassidy/events.rpy:2568
@@ -9197,7 +8629,7 @@ translate russian cassidy_investigation_blackmail_518de694:
     cassidy.say "Хм. Хочешь, чтобы я стала твоим личным камердинером?"
 
 # ch/cassidy/events.rpy:2574
-translate russian cassidy_investigation_blackmail_d1bbd661:
+translate russian cassidy_investigation_blackmail_f9862be9:
     mike.say "Назовём это помощницей. Будешь... помогать мне."
 
 # ch/cassidy/events.rpy:2576
@@ -9233,7 +8665,7 @@ translate russian cassidy_investigation_blackmail_ced6a610:
     mike.say "Понятно. Что ж, значит, разговор окончен. Ради тебя я работу не потеряю."
 
 # ch/cassidy/events.rpy:2590
-translate russian cassidy_investigation_blackmail_cde5dd66:
+translate russian cassidy_investigation_blackmail_8b3acd70:
     cassidy.say "Погоди секунду. Уверена, мы можем... договориться как-нибудь иначе."
 
 # ch/cassidy/events.rpy:2592
@@ -9373,7 +8805,7 @@ translate russian cassidy_investigation_blackmail_ad93fa91:
     "Не сказав больше ни слова и даже не приведя себя в порядок, она выходит из кабинета."
 
 # ch/cassidy/events.rpy:2663
-translate russian cassidy_investigation_blackmail_cd0dd293:
+translate russian cassidy_investigation_blackmail_b40c5ead:
     "Это было потрясающе, но я думаю: мог ли добиться большего? Эти губы и грудь на моём члене каждый день — это было бы... невероятно."
 
 # ch/cassidy/events.rpy:2668
@@ -9705,7 +9137,7 @@ translate russian cassidy_dom_oral_ed780385:
     cassidy.say "Тогда встань, блядь, на колени и делай, что велено."
 
 # ch/cassidy/events.rpy:2888
-translate russian cassidy_dom_oral_b1456437:
+translate russian cassidy_dom_oral_1eca5e78:
     "Я прищуриваюсь, прикидывая, как далеко можно зайти. Решаю, что пока достаточно."
 
 # ch/cassidy/events.rpy:2889
@@ -9937,7 +9369,7 @@ translate russian cassidy_new_assistant_9f6964a3:
     cassidy.say "Да, кто?"
 
 # ch/cassidy/events.rpy:3027
-translate russian cassidy_new_assistant_7abbb384:
+translate russian cassidy_new_assistant_bcc8b9ae:
     mike.say "Да... госпожа."
 
 # ch/cassidy/events.rpy:3029
@@ -9965,7 +9397,7 @@ translate russian cassidy_new_assistant_89946edf:
     "С заметным усилием она прогоняет грустное выражение с лица."
 
 # ch/cassidy/events.rpy:3042
-translate russian cassidy_new_assistant_c1a6fa38:
+translate russian cassidy_new_assistant_cb392998:
     cassidy.say "Да, всё хорошо. Просто... сегодня я собиралась в Париж."
 
 # ch/cassidy/events.rpy:3044
@@ -10169,11 +9601,11 @@ translate russian cassidy_dom_boredom_395a27c3:
     cassidy.say "Но знаешь что? С тобой всё иначе. Я ещё ни к кому по-настоящему не привязывалась."
 
 # ch/cassidy/events.rpy:3167
-translate russian cassidy_dom_boredom_80ccc197:
+translate russian cassidy_dom_boredom_12923c09:
     cassidy.say "Поэтому я решила оставить тебя себе. То есть... если ты хочешь."
 
 # ch/cassidy/events.rpy:3175
-translate russian cassidy_dom_boredom_keep_4ee2131a:
+translate russian cassidy_dom_boredom_keep_2ef41c43:
     mike.say "Да, моя госпожа, хочу. Хочу быть вашим. Сначала не хотел, но время с вами... я им дорожу."
 
 # ch/cassidy/events.rpy:3177
@@ -10209,7 +9641,7 @@ translate russian cassidy_dom_boredom_keep_a398f09d:
     "Да. И, думаю, всё будет хорошо."
 
 # ch/cassidy/events.rpy:3191
-translate russian cassidy_dom_boredom_keep_c24c0f24:
+translate russian cassidy_dom_boredom_keep_7fb2f675:
     mike.say "Кэссиди, ты потрясающая, и нам действительно было весело. Но у меня есть цели и мечты. Быть твоим секс-рабом с ними несовместимо."
 
 # ch/cassidy/events.rpy:3193
@@ -10217,11 +9649,11 @@ translate russian cassidy_dom_boredom_keep_e593ca0f:
     mike.say "Рано или поздно я нашёл бы другую работу. И тебе нечем было бы меня удерживать."
 
 # ch/cassidy/events.rpy:3194
-translate russian cassidy_dom_boredom_keep_ef658f2f:
+translate russian cassidy_dom_boredom_keep_f5433448:
     mike.say "Тогда я всё равно ушёл бы. Если ты... привязываешься, может, лучше закончить сейчас."
 
 # ch/cassidy/events.rpy:3196
-translate russian cassidy_dom_boredom_keep_1251981c:
+translate russian cassidy_dom_boredom_keep_54eff400:
     cassidy.say "Мне... мне жаль, [lssb_cassidy.hero_name()]. Я думала... была уверена, что ты чувствуешь то же самое."
 
 # ch/cassidy/events.rpy:3197
@@ -10273,7 +9705,7 @@ translate russian cassidy_bad_day_306119e8:
     "Кэссиди пожимает плечами и машет руками. Уходит от ответа."
 
 # ch/cassidy/events.rpy:3224
-translate russian cassidy_bad_day_ab664b61:
+translate russian cassidy_bad_day_ab612afd:
     cassidy.say "Просто... неважно, наверное. Хочу побольше узнать о компании?"
 
 # ch/cassidy/events.rpy:3226
@@ -10289,7 +9721,7 @@ translate russian cassidy_bad_day_af06cfe5:
     cassidy.say "Погоди, если ты мой секс-раб, а она твоя секс-рабыня, значит, она тоже моя секс-рабыня?"
 
 # ch/cassidy/events.rpy:3234
-translate russian cassidy_bad_day_10450c10:
+translate russian cassidy_bad_day_4357b483:
     mike.say "Не... думаю, что она с этим согласится."
 
 # ch/cassidy/events.rpy:3236
@@ -10393,7 +9825,7 @@ translate russian cassidy_bad_day_ac5c62d6_1:
     mike.say "Я ведь не каждую минуту рядом с ней. А что?"
 
 # ch/cassidy/events.rpy:3289
-translate russian cassidy_bad_day_97860854:
+translate russian cassidy_bad_day_a4d9a95d:
     cassidy.say "Просто... я кое-что услышала. Наверное, ничего важного."
 
 # ch/cassidy/events.rpy:3291
@@ -10461,7 +9893,7 @@ translate russian cassidy_dwayne_fight_fallout_6e66da0a:
     cassidy.say "Отвали, [lssb_cassidy.hero_name()]."
 
 # ch/cassidy/events.rpy:3330
-translate russian cassidy_dwayne_fight_fallout_cf300b87:
+translate russian cassidy_dwayne_fight_fallout_d90e8ccc:
     mike.say "Просто... возможно, я кое-что услышал, и ты выглядишь расстроенной. Хочешь с кем-нибудь поговорить?"
 
 # ch/cassidy/events.rpy:3332
@@ -10485,7 +9917,7 @@ translate russian cassidy_dwayne_fight_fallout_4f6ac23b:
     mike.say "Как, Кэсс?"
 
 # ch/cassidy/events.rpy:3346
-translate russian cassidy_dwayne_fight_fallout_e076d71b:
+translate russian cassidy_dwayne_fight_fallout_7ea4641e:
     cassidy.say "Да, так... так меня называет папочка."
 
 # ch/cassidy/events.rpy:3348
@@ -10513,7 +9945,7 @@ translate russian cassidy_dwayne_fight_fallout_7cd74ffb:
     "Она поворачивается и впервые смотрит прямо на меня."
 
 # ch/cassidy/events.rpy:3360
-translate russian cassidy_dwayne_fight_fallout_d2cbe63f:
+translate russian cassidy_dwayne_fight_fallout_50616623:
     cassidy.say "Я узнала, что папа изменяет мачехе. Пришла выяснить отношения и... не знаю, чего ждала. Может, что станет отрицать или раскается. Но нет."
 
 # ch/cassidy/events.rpy:3361
@@ -10577,7 +10009,7 @@ translate russian cassidy_dwayne_fight_fallout_31134e6c:
     cassidy.say "Наверное. Да, может, так и сделаю."
 
 # ch/cassidy/events.rpy:3387
-translate russian cassidy_dwayne_fight_fallout_09845585:
+translate russian cassidy_dwayne_fight_fallout_33cceaee:
     cassidy.say "Я редко кому это говорю, но... спасибо, [lssb_cassidy.hero_name()]. За то, что выслушал."
 
 # ch/cassidy/events.rpy:3389
@@ -10817,7 +10249,7 @@ translate russian cassidy_aletta_fight_0a8dee86:
     mike.say "Это всё на тебя не похоже, Алетта. Прогибаться под такого человека?"
 
 # ch/cassidy/events.rpy:3509
-translate russian cassidy_aletta_fight_8810901a:
+translate russian cassidy_aletta_fight_c764035c:
     aletta.say "Дуэйн знает, как сильно я люблю работу. С этого всё и началось. Я думала... сначала даже было весело. Но..."
 
 # ch/cassidy/events.rpy:3511
@@ -10853,7 +10285,7 @@ translate russian cassidy_aletta_fight_ba7fde97:
     "Затем она разворачивается и с топотом выходит из кабинета Алетты."
 
 # ch/cassidy/events.rpy:3529
-translate russian cassidy_aletta_fight_e924be71:
+translate russian cassidy_aletta_fight_8690573d:
     aletta.say "Лучше поговори с ней, [lssb_cassidy.hero_name()]. Она может сделать... какую-нибудь глупость."
 
 # ch/cassidy/events.rpy:3531
@@ -10889,7 +10321,7 @@ translate russian cassidy_needs_comfort_31d01bc9:
     mike.say "Кэссиди! Я уже думал, ты ушла навсегда. Всё хорошо?"
 
 # ch/cassidy/events.rpy:3559
-translate russian cassidy_needs_comfort_8171ef82:
+translate russian cassidy_needs_comfort_04c39dc4:
     cassidy.say "Да, хорошо. Нет. Ничего хорошего. Я не... чёрт."
 
 # ch/cassidy/events.rpy:3563
@@ -10937,7 +10369,7 @@ translate russian cassidy_needs_comfort_0d9640ec:
     mike.say "Что случилось?"
 
 # ch/cassidy/events.rpy:3584
-translate russian cassidy_needs_comfort_26bba26d:
+translate russian cassidy_needs_comfort_f24d6e7e:
     cassidy.say "Она... Папочка говорил, что она просто ушла, потому что болела и нуждалась в помощи."
 
 # ch/cassidy/events.rpy:3585
@@ -10945,7 +10377,7 @@ translate russian cassidy_needs_comfort_aeda7ac1:
     cassidy.say "Это не совсем ложь. Она была больна и проходила реабилитацию. А выйдя оттуда, узнала, что папочка ей изменяет."
 
 # ch/cassidy/events.rpy:3586
-translate russian cassidy_needs_comfort_3edddfda:
+translate russian cassidy_needs_comfort_9ad35c37:
     cassidy.say "Она наняла адвоката и собиралась подать в суд. А потом... я не совсем поняла, но его адвокат что-то сделал, и ей стала грозить тюрьма."
 
 # ch/cassidy/events.rpy:3587
@@ -10997,7 +10429,7 @@ translate russian cassidy_needs_comfort_892abe7c:
     mike.say "Память — странная штука. Может, она пыталась, но не могла рассказать, что происходит на самом деле. Поэтому спросила не так."
 
 # ch/cassidy/events.rpy:3610
-translate russian cassidy_needs_comfort_0c19f4e7:
+translate russian cassidy_needs_comfort_18278e0a:
     cassidy.say "Нет! Ни за что. Она не... нет."
 
 # ch/cassidy/events.rpy:3612
@@ -11105,7 +10537,7 @@ translate russian cassidy_needs_comfort_7d1a750b:
     mike.say "Кэссиди, что ты делаешь? По-моему, у нас не такие отношения."
 
 # ch/cassidy/events.rpy:3674
-translate russian cassidy_needs_comfort_23b56be8:
+translate russian cassidy_needs_comfort_b9640706:
     cassidy.say "Знаю, просто... мне больше не с кем поговорить."
 
 # ch/cassidy/events.rpy:3676
@@ -11149,7 +10581,7 @@ translate russian cassidy_aletta_make_nice_6a431597:
     aletta.say "И тебе тоже."
 
 # ch/cassidy/events.rpy:3703
-translate russian cassidy_aletta_make_nice_45dec27d:
+translate russian cassidy_aletta_make_nice_1218f4c0:
     mike.say "Что касается меня, тут все карты у Кэссиди. Поэтому мы и заключили эту... договорённость."
 
 # ch/cassidy/events.rpy:3705
@@ -11177,7 +10609,7 @@ translate russian cassidy_aletta_make_nice_e992f8eb:
     mike.say "Ты готова меня отпустить?"
 
 # ch/cassidy/events.rpy:3722
-translate russian cassidy_aletta_make_nice_8d15aa4c:
+translate russian cassidy_aletta_make_nice_3085a31c:
     cassidy.say "Когда всё закончится, я действительно не смогу держать тебя работой. Но... обсудим это потом, ладно?"
 
 # ch/cassidy/events.rpy:3726
@@ -11193,7 +10625,7 @@ translate russian cassidy_aletta_make_nice_e59121dc:
     aletta.say "Всё просто. Я иду в совет директоров со всем, что есть у тебя и Кэссиди."
 
 # ch/cassidy/events.rpy:3733
-translate russian cassidy_aletta_make_nice_d10ab1a7:
+translate russian cassidy_aletta_make_nice_8744e408:
     cassidy.say "Боюсь, этого мало. Из-за проблем с советом он может лишиться должности, но... думаю, его нужно посадить."
 
 # ch/cassidy/events.rpy:3736
@@ -11401,7 +10833,7 @@ translate russian cassidy_arrange_party_1ddc415e:
     cassidy.say "Для меня он больше не отец. Просто человек, который всех использует. Так что да, теперь я использую его."
 
 # ch/cassidy/events.rpy:3858
-translate russian cassidy_arrange_party_80e9a9b1:
+translate russian cassidy_arrange_party_622bddc1:
     mike.say "Осторожнее. Если он действительно... что-нибудь с тобой сделает, последствия могут быть серьёзными."
 
 # ch/cassidy/events.rpy:3860
@@ -11477,7 +10909,7 @@ translate russian cassidy_arrange_party_5eb09987:
     cassidy.say "Честно говоря, до встречи тебе стоит поработать над обаянием. Потренируйся."
 
 # ch/cassidy/events.rpy:3893
-translate russian cassidy_arrange_party_cdc1d960:
+translate russian cassidy_arrange_party_cf5a61a7:
     cassidy.say "Так что напои её и польсти. Если придётся соблазнить, просто... не рассказывай мне, ладно?"
 
 # ch/cassidy/events.rpy:3895
@@ -11565,7 +10997,7 @@ translate russian cassidy_arrange_party_d226a393:
     mike.say "Он твой {b}отец{/b}! Нет!"
 
 # ch/cassidy/events.rpy:3984
-translate russian cassidy_arrange_party_86ccbcdd:
+translate russian cassidy_arrange_party_51dcc6e6:
     mike.say "Ладно, это {b}заводит{/b}, но... член твоего папочки в твоей пизде меня не особо радует."
 
 # ch/cassidy/events.rpy:3986
@@ -11577,7 +11009,7 @@ translate russian cassidy_arrange_party_1baf01ed:
     mike.say "Если ты этого хочешь, мы обсудим, ладно?"
 
 # ch/cassidy/events.rpy:3990
-translate russian cassidy_arrange_party_b64780ee:
+translate russian cassidy_arrange_party_14e8342f:
     mike.say "Как пожелаете, моя госпожа. Но если вам просто нужно больше члена в жизни, это ведь моя работа?"
 
 # ch/cassidy/events.rpy:3994
@@ -11613,11 +11045,11 @@ translate russian cassidy_arrange_party_3b06120c:
     cassidy.say "О, тогда посмотрю, что можно устроить!"
 
 # ch/cassidy/events.rpy:4014
-translate russian cassidy_arrange_party_a393b355:
+translate russian cassidy_arrange_party_211a106a:
     mike.say "Только с кем-нибудь другим? Он... не пойдёт нашим отношениям на пользу, понимаете?"
 
 # ch/cassidy/events.rpy:4016
-translate russian cassidy_arrange_party_2ef9d0b0:
+translate russian cassidy_arrange_party_1cceb011:
     cassidy.say "Но это так... нет, ты прав."
 
 # ch/cassidy/events.rpy:4018
@@ -11625,7 +11057,7 @@ translate russian cassidy_arrange_party_c00067d9:
     mike.say "Ладно, значит, в субботу вечером. Я подготовлюсь."
 
 # ch/cassidy/events.rpy:4024
-translate russian cassidy_cherie_next_steps_fcfdd986:
+translate russian cassidy_cherie_next_steps_ec176733:
     cassidy.say "Как прошла встреча с Шери? Когда она уходила, лицо у неё было... интересное."
 
 # ch/cassidy/events.rpy:4026
@@ -11681,7 +11113,7 @@ translate russian cassidy_cherie_next_steps_c439b3db:
     cassidy.say "Ты правда такого обо мне мнения?"
 
 # ch/cassidy/events.rpy:4052
-translate russian cassidy_cherie_next_steps_bac91f6c:
+translate russian cassidy_cherie_next_steps_31119072:
     mike.say "Поначалу был. Но с тех пор ты немного изменилась."
 
 # ch/cassidy/events.rpy:4057
@@ -11745,7 +11177,7 @@ translate russian cassidy_cherie_next_steps_4c27959e:
     "Кэссиди вздыхает и неловко отводит взгляд."
 
 # ch/cassidy/events.rpy:4089
-translate russian cassidy_cherie_next_steps_ae065e40:
+translate russian cassidy_cherie_next_steps_6ec38f37:
     cassidy.say "Наверное, она начала столько пить, когда папочка перестал с ней спать. И... знаю, это мерзко, но тогда я была так рада."
 
 # ch/cassidy/events.rpy:4091
@@ -11841,7 +11273,7 @@ translate russian cassidy_cherie_missed_party_f13caf49:
     cassidy.say "Я тоже так думала. Но если нельзя довериться тебе в важном, значит, нельзя довериться вообще."
 
 # ch/cassidy/events.rpy:4133
-translate russian cassidy_cherie_missed_party_7a114b30:
+translate russian cassidy_cherie_missed_party_68504864:
     mike.say "Я... не знаю, что между нами было."
 
 # ch/cassidy/events.rpy:4135
@@ -11933,7 +11365,7 @@ translate russian cassidy_chat_about_cherie_e2c43223:
     cassidy.say "Так, выкладывай. Хочу подробности. Все."
 
 # ch/cassidy/events.rpy:4178
-translate russian cassidy_chat_about_cherie_0f405095:
+translate russian cassidy_chat_about_cherie_618008a7:
     mike.say "Эм. Не думаю, что мне стоит... что ты хочешь..."
 
 # ch/cassidy/events.rpy:4180
@@ -11953,7 +11385,7 @@ translate russian cassidy_chat_about_cherie_dd45f03a:
     cassidy.say "Ты её соблазнил!!"
 
 # ch/cassidy/events.rpy:4187
-translate russian cassidy_chat_about_cherie_88cf6c8b:
+translate russian cassidy_chat_about_cherie_1a655683:
     mike.say "Нет! Ну, много флиртовал. Пытался. Но она... ужасно боится твоего отца. Не знаю, насколько удачно всё прошло."
 
 # ch/cassidy/events.rpy:4188
@@ -12017,7 +11449,7 @@ translate russian cassidy_chat_about_cherie_49f6acae:
     cassidy.say "Что мы сделаем всё необходимое, чтобы пройти через это. А потом решим, так ли важно, что ты переспал с другой."
 
 # ch/cassidy/events.rpy:4220
-translate russian cassidy_chat_about_cherie_24972e77:
+translate russian cassidy_chat_about_cherie_ee622382:
     cassidy.say "Это... это неважно."
 
 # ch/cassidy/events.rpy:4222
@@ -12033,7 +11465,7 @@ translate russian cassidy_chat_about_cherie_d08f2859:
     cassidy.say "Какая?"
 
 # ch/cassidy/events.rpy:4228
-translate russian cassidy_chat_about_cherie_fe92b015:
+translate russian cassidy_chat_about_cherie_ac350079:
     mike.say "Она не заслуживает, чтобы ей причинили боль. Если мне придётся... сделать это только ради компромата на мужа, она, наверное, будет раздавлена."
 
 # ch/cassidy/events.rpy:4230
@@ -12057,7 +11489,7 @@ translate russian cassidy_chat_about_cherie_6a48e47d:
     cassidy.say "Хорошо. Если получится, я подумаю, не разрешить ли тебе оставить её себе, когда всё закончится. Если она согласится, конечно."
 
 # ch/cassidy/events.rpy:4239
-translate russian cassidy_chat_about_cherie_bb16ef18:
+translate russian cassidy_chat_about_cherie_9ef349f1:
     cassidy.say "Мне... нравится идея отнять у папочки его трофей."
 
 # ch/cassidy/events.rpy:4241
@@ -12133,7 +11565,7 @@ translate russian cassidy_chat_about_cherie_5e0f6b3e:
     mike.say "Я, эм..."
 
 # ch/cassidy/events.rpy:4276
-translate russian cassidy_chat_about_cherie_8813e2e8:
+translate russian cassidy_chat_about_cherie_c6926228:
     cassidy.say "Тебе нужна минутка? Или... помочь тебе там внизу?"
 
 # ch/cassidy/events.rpy:4278
@@ -12217,7 +11649,7 @@ translate russian cassidy_chat_about_cherie2_4b45c81c:
     cassidy.say "Ты что-то очень бодрый."
 
 # ch/cassidy/events.rpy:4322
-translate russian cassidy_chat_about_cherie2_898bbca2:
+translate russian cassidy_chat_about_cherie2_e4f3820c:
     mike.say "Ну, возможно, Шери наконец позвонила. И... думаю, я её заинтересовал."
 
 # ch/cassidy/events.rpy:4324
@@ -12225,7 +11657,7 @@ translate russian cassidy_chat_about_cherie2_d59fef0c:
     cassidy.say "О! Я уже боялась, что весь наш план ни к чему не приведёт!"
 
 # ch/cassidy/events.rpy:4326
-translate russian cassidy_chat_about_cherie2_f005e07c:
+translate russian cassidy_chat_about_cherie2_88bb308f:
     mike.say "Ещё может. Снова жду звонка, но она точно флиртовала. И... я кое-что услышал в её голосе."
 
 # ch/cassidy/events.rpy:4328
@@ -12237,7 +11669,7 @@ translate russian cassidy_chat_about_cherie2_32f0d4db:
     mike.say "Уже много лет от её жизни осталась одна пустая оболочка. Ей приятно, что кто-то уделяет внимание."
 
 # ch/cassidy/events.rpy:4333
-translate russian cassidy_chat_about_cherie2_d662b09a:
+translate russian cassidy_chat_about_cherie2_165ea960:
     mike.say "Но... не знаю, получится ли так, как ей хочется."
 
 # ch/cassidy/events.rpy:4335
@@ -12257,7 +11689,7 @@ translate russian cassidy_chat_about_cherie2_a293e1c4:
     mike.say "Возможно."
 
 # ch/cassidy/events.rpy:4343
-translate russian cassidy_chat_about_cherie2_23e89f48:
+translate russian cassidy_chat_about_cherie2_c6817f3d:
     mike.say "Она милая, сексуальная и... явно меня хочет. И я её тоже, пожалуй."
 
 # ch/cassidy/events.rpy:4346
@@ -12273,7 +11705,7 @@ translate russian cassidy_chat_about_cherie2_4abb8fa4:
     mike.say "Вот именно, как же ты? Чего хочешь ты?"
 
 # ch/cassidy/events.rpy:4352
-translate russian cassidy_chat_about_cherie2_74655484:
+translate russian cassidy_chat_about_cherie2_d2571e5a:
     cassidy.say "Думаю... я влюблена в тебя."
 
 # ch/cassidy/events.rpy:4354
@@ -12281,7 +11713,7 @@ translate russian cassidy_chat_about_cherie2_27a59902:
     mike.say "Ого."
 
 # ch/cassidy/events.rpy:4356
-translate russian cassidy_chat_about_cherie2_31a33e6a:
+translate russian cassidy_chat_about_cherie2_fceb0a5f:
     cassidy.say "Ты знаешь, я хочу, чтобы ты сделал всё необходимое. Но... не хочу тебя терять."
 
 # ch/cassidy/events.rpy:4358
@@ -12293,7 +11725,7 @@ translate russian cassidy_chat_about_cherie2_4348914f:
     cassidy.say "Не совсем. Просто... я не знаю, что думать, ясно? Всё это сложнее, чем я могу осилить."
 
 # ch/cassidy/events.rpy:4363
-translate russian cassidy_chat_about_cherie2_0fb1dd9d:
+translate russian cassidy_chat_about_cherie2_8f634d9b:
     cassidy.say "Если придётся. Не хочу причинять ей боль, но... если иначе потеряю тебя?"
 
 # ch/cassidy/events.rpy:4364
@@ -12305,7 +11737,7 @@ translate russian cassidy_chat_about_cherie2_78c786b4:
     cassidy.say "Не знаю. Сейчас я не могу об этом думать."
 
 # ch/cassidy/events.rpy:4368
-translate russian cassidy_chat_about_cherie2_64f6915f:
+translate russian cassidy_chat_about_cherie2_f05a7dbe:
     cassidy.say "Я не... я правда не знаю."
 
 # ch/cassidy/events.rpy:4370
@@ -12321,7 +11753,7 @@ translate russian cassidy_chat_about_cherie2_1bb1f5c8:
     mike.say "А ты говорила, что знаешь об их секс-игрушках. И я одновременно начал думать о тебе."
 
 # ch/cassidy/events.rpy:4374
-translate russian cassidy_chat_about_cherie2_72ef99f1:
+translate russian cassidy_chat_about_cherie2_77e6b687:
     mike.say "И... это чертовски заводит."
 
 # ch/cassidy/events.rpy:4377
@@ -12421,7 +11853,7 @@ translate russian cassidy_chat_about_cherie2_fdae3cf1:
     mike.say "Плохая идея. Если выстрелишь в него, в тюрьму сядешь ты, а не он."
 
 # ch/cassidy/events.rpy:4426
-translate russian cassidy_chat_about_cherie2_3143d2f0:
+translate russian cassidy_chat_about_cherie2_e448ab8c:
     cassidy.say "Я... подумаю, прежде чем что-то делать."
 
 # ch/cassidy/events.rpy:4429
@@ -12465,7 +11897,7 @@ translate russian cassidy_dwayne_denouement_b75b5fd1:
     cassidy.say "Это он с тобой сделал?! Я его, блядь, убью!!"
 
 # ch/cassidy/events.rpy:4456
-translate russian cassidy_dwayne_denouement_203749a5:
+translate russian cassidy_dwayne_denouement_82e1e479:
     mike.say "Нет-нет! То есть да, он, но... ты не можешь."
 
 # ch/cassidy/events.rpy:4457
@@ -12513,7 +11945,7 @@ translate russian cassidy_dwayne_denouement_bdfe8a13:
     cassidy.say "Почему?"
 
 # ch/cassidy/events.rpy:4486
-translate russian cassidy_dwayne_denouement_512d79d9:
+translate russian cassidy_dwayne_denouement_a515faf2:
     mike.say "Я... ох, чёрт. Кэссиди. Ты должна знать."
 
 # ch/cassidy/events.rpy:4488
@@ -12541,7 +11973,7 @@ translate russian cassidy_dwayne_denouement_e77dce61:
     cassidy.say "Тогда почему не убил?"
 
 # ch/cassidy/events.rpy:4500
-translate russian cassidy_dwayne_denouement_68a4e060:
+translate russian cassidy_dwayne_denouement_59d10535:
     "Как ей сказать? Знаю, она злится на него за всё, что он сделал, но это... этого в планах не было."
 
 # ch/cassidy/events.rpy:4501
@@ -12549,7 +11981,7 @@ translate russian cassidy_dwayne_denouement_4e13f10b:
     "Но я должен. Просто произнести слова."
 
 # ch/cassidy/events.rpy:4502
-translate russian cassidy_dwayne_denouement_5e979a1f:
+translate russian cassidy_dwayne_denouement_706c2033:
     mike.say "Я... он."
 
 # ch/cassidy/events.rpy:4503
@@ -12569,7 +12001,7 @@ translate russian cassidy_dwayne_denouement_6fd0f36c:
     mike.say "Он собирался размазать меня по полу!"
 
 # ch/cassidy/events.rpy:4510
-translate russian cassidy_dwayne_denouement_58505175:
+translate russian cassidy_dwayne_denouement_d07c2f6c:
     cassidy.say "Ты уверен, что он... в него ведь и раньше стреляли!"
 
 # ch/cassidy/events.rpy:4512
@@ -12577,7 +12009,7 @@ translate russian cassidy_dwayne_denouement_8c3c0454:
     mike.say "Да. Он мёртв. Точно. Без вариантов."
 
 # ch/cassidy/events.rpy:4513
-translate russian cassidy_dwayne_denouement_476df5b6:
+translate russian cassidy_dwayne_denouement_6994c44b:
     mike.say "Надеюсь... Боже, Кэссиди, пожалуйста, не ненавидь меня."
 
 # ch/cassidy/events.rpy:4515
@@ -12585,7 +12017,7 @@ translate russian cassidy_dwayne_denouement_f45dd524:
     cassidy.say "Что?"
 
 # ch/cassidy/events.rpy:4517
-translate russian cassidy_dwayne_denouement_bb87e2a9:
+translate russian cassidy_dwayne_denouement_2598f141:
     mike.say "Я не ожидал... его вообще не должно было там быть."
 
 # ch/cassidy/events.rpy:4519
@@ -12593,7 +12025,7 @@ translate russian cassidy_dwayne_denouement_8cf0599b:
     cassidy.say "Хорошо."
 
 # ch/cassidy/events.rpy:4521
-translate russian cassidy_dwayne_denouement_5f4f7bac:
+translate russian cassidy_dwayne_denouement_225b7721:
     mike.say "Ты воспринимаешь это... спокойнее, чем я ожидал."
 
 # ch/cassidy/events.rpy:4523
@@ -12637,7 +12069,7 @@ translate russian cassidy_dwayne_denouement_c0340d33:
     cassidy.say "А дальше?"
 
 # ch/cassidy/events.rpy:4542
-translate russian cassidy_dwayne_denouement_a6c0c815:
+translate russian cassidy_dwayne_denouement_f154d1c6:
     mike.say "Потом набросился на меня. Я думал, что есть шанс: я тренировался, но... он крупнее, сильнее. Злее."
 
 # ch/cassidy/events.rpy:4543
@@ -12693,7 +12125,7 @@ translate russian cassidy_dwayne_denouement_fa34b5a3:
     cassidy.say "Что теперь?"
 
 # ch/cassidy/events.rpy:4567
-translate russian cassidy_dwayne_denouement_135975c1:
+translate russian cassidy_dwayne_denouement_86fac91c:
     mike.say "Наверное... всё закончилось. Если Шери не посадят. Тогда не знаю. Если посадят, возможно, мне придётся... не знаю."
 
 # ch/cassidy/events.rpy:4569
@@ -12729,7 +12161,7 @@ translate russian cassidy_dwayne_denouement_ebf5b8a9:
     cassidy.say "Я думала об этом."
 
 # ch/cassidy/events.rpy:4584
-translate russian cassidy_dwayne_denouement_5c36d08e:
+translate russian cassidy_dwayne_denouement_234e6bde:
     cassidy.say "Я люблю тебя, [lssb_cassidy.hero_name()]. Не... не ожидала, что полюблю. Но люблю. Люблю тебя."
 
 # ch/cassidy/events.rpy:4586
@@ -12741,7 +12173,7 @@ translate russian cassidy_dwayne_denouement_dad2346f:
     cassidy.say "Было весело держать тебя своей секс-игрушкой."
 
 # ch/cassidy/events.rpy:4590
-translate russian cassidy_dwayne_denouement_25d34d1a:
+translate russian cassidy_dwayne_denouement_9d0498c9:
     cassidy.say "Отношения с тобой... многому меня научили. Но, возможно, пора идти дальше."
 
 # ch/cassidy/events.rpy:4591
@@ -12761,11 +12193,11 @@ translate russian cassidy_dwayne_denouement_menu_f8db339c:
     mike.say "Да."
 
 # ch/cassidy/events.rpy:4604
-translate russian cassidy_dwayne_denouement_menu_752e74e6:
+translate russian cassidy_dwayne_denouement_menu_76ca9cb1:
     cassidy.say "Понятно. Наверное, это... к лучшему."
 
 # ch/cassidy/events.rpy:4606
-translate russian cassidy_dwayne_denouement_menu_fbcd8c70:
+translate russian cassidy_dwayne_denouement_menu_22270264:
     cassidy.say "Удачи тебе... во всём, наверное."
 
 # ch/cassidy/events.rpy:4611
@@ -12781,7 +12213,7 @@ translate russian cassidy_dwayne_denouement_menu_9fd4e90e:
     mike.say "О."
 
 # ch/cassidy/events.rpy:4623
-translate russian cassidy_dwayne_denouement_menu_a694758f:
+translate russian cassidy_dwayne_denouement_menu_f1366caf:
     cassidy.say "Ты... хочешь, чтобы это стало постоянным? Без шантажа, просто чтобы я... служила тебе?"
 
 # ch/cassidy/events.rpy:4625
@@ -12789,11 +12221,11 @@ translate russian cassidy_dwayne_denouement_menu_e69b3b98:
     mike.say "Да."
 
 # ch/cassidy/events.rpy:4627
-translate russian cassidy_dwayne_denouement_menu_53a92123:
+translate russian cassidy_dwayne_denouement_menu_9e7606d4:
     cassidy.say "Наверное... наверное, я не против. И я люблю тебя."
 
 # ch/cassidy/events.rpy:4628
-translate russian cassidy_dwayne_denouement_menu_ebab7421:
+translate russian cassidy_dwayne_denouement_menu_e5f37df0:
     cassidy.say "Тогда хорошо. Если ты правда этого хочешь. Только... ты меня любишь?"
 
 # ch/cassidy/events.rpy:4630
@@ -12849,7 +12281,7 @@ translate russian cassidy_dwayne_denouement_menu_184aeb20:
     cassidy.say "Мы многое пережили. Может, перестав быть твоей игрушкой, я увижу тебя иначе."
 
 # ch/cassidy/events.rpy:4665
-translate russian cassidy_dwayne_denouement_menu_7fb1e5a5:
+translate russian cassidy_dwayne_denouement_menu_c692a7a1:
     cassidy.say "Я... нет. Не думаю, что у меня к тебе такие чувства."
 
 # ch/cassidy/events.rpy:4670
@@ -12905,7 +12337,7 @@ translate russian cassidy_dwayne_denouement_menu_2a2e7448:
     mike.say "А Шери останется совсем одна? Вы обе сегодня потеряли близкого человека. Ей понадобится поддержка."
 
 # ch/cassidy/events.rpy:4703
-translate russian cassidy_dwayne_denouement_menu_76753bd5:
+translate russian cassidy_dwayne_denouement_menu_ba8df6f7:
     cassidy.say "Да, но... поддержка твоего члена?"
 
 # ch/cassidy/events.rpy:4705
@@ -12953,7 +12385,7 @@ translate russian cassidy_dwayne_denouement_menu_bb960c43:
     mike.say "Теперь у тебя есть шанс стать лучше."
 
 # ch/cassidy/events.rpy:4729
-translate russian cassidy_dwayne_denouement_menu_96c542b3:
+translate russian cassidy_dwayne_denouement_menu_25bc4575:
     cassidy.say "Ладно. Но... пообещай, что не сделаешь больно ни мне, ни ей. Никому из нас."
 
 # ch/cassidy/events.rpy:4731
@@ -12989,7 +12421,7 @@ translate russian cassidy_dwayne_denouement_menu_5789617c:
     cassidy.say "Ещё бы!"
 
 # ch/cassidy/events.rpy:4748
-translate russian cassidy_dwayne_denouement_menu_e1862f17:
+translate russian cassidy_dwayne_denouement_menu_8de53d2e:
     mike.say "Но Алетта... особенная. Посмотри, что твой отец с ней сделал."
 
 # ch/cassidy/events.rpy:4750
@@ -13025,7 +12457,7 @@ translate russian cassidy_dwayne_denouement_menu_6b5b68db:
     mike.say "Знаю, всё сложно, но... многое случилось. Со всеми нами."
 
 # ch/cassidy/events.rpy:4769
-translate russian cassidy_dwayne_denouement_menu_96c542b3_1:
+translate russian cassidy_dwayne_denouement_menu_25bc4575_1:
     cassidy.say "Ладно. Но... пообещай, что не сделаешь больно ни мне, ни ей. Никому из нас."
 
 # ch/cassidy/events.rpy:4771
@@ -13069,7 +12501,7 @@ translate russian cassidy_dwayne_denouement_menu_2dbe2ef1:
     mike.say "Им понадобится моя поддержка."
 
 # ch/cassidy/events.rpy:4791
-translate russian cassidy_dwayne_denouement_menu_76753bd5_1:
+translate russian cassidy_dwayne_denouement_menu_ba8df6f7_1:
     cassidy.say "Да, но... поддержка твоего члена?"
 
 # ch/cassidy/events.rpy:4793
@@ -13093,7 +12525,7 @@ translate russian cassidy_dwayne_denouement_menu_6b5b68db_1:
     mike.say "Знаю, всё сложно, но... многое случилось. Со всеми нами."
 
 # ch/cassidy/events.rpy:4806
-translate russian cassidy_dwayne_denouement_menu_96c542b3_2:
+translate russian cassidy_dwayne_denouement_menu_25bc4575_2:
     cassidy.say "Ладно. Но... пообещай, что не сделаешь больно ни мне, ни ей. Никому из нас."
 
 # ch/cassidy/events.rpy:4808
@@ -13137,7 +12569,7 @@ translate russian cassidy_dwayne_denouement_menu_96a84c6e:
     cassidy.say "Я так тебя люблю!"
 
 # ch/cassidy/events.rpy:4829
-translate russian cassidy_dwayne_denouement_menu_450bd671:
+translate russian cassidy_dwayne_denouement_menu_21f29e25:
     mike.say "Думаю... мне пора поспать."
 
 # ch/cassidy/events.rpy:4831
@@ -13156,18 +12588,6 @@ translate russian cassidy_sub_01_e9dc51e5:
 translate russian cassidy_sub_01_943c6d48:
     cassidy.say "Вот ты где..."
 
-# ch/cassidy/events.rpy:5045
-translate russian cassidy_sub_01_4d8e80da:
-    "Я оборачиваюсь на знакомый голос, зовущий меня по имени."
-
-# ch/cassidy/events.rpy:5046
-translate russian cassidy_sub_01_09b80def:
-    "Потому что отчётливо слышу: это девушка."
-
-# ch/cassidy/events.rpy:5048
-translate russian cassidy_sub_01_da160666:
-    "Но сердце уходит в пятки, когда я вижу спешащую ко мне Кэссиди."
-
 # ch/cassidy/events.rpy:5049
 translate russian cassidy_sub_01_1722941f:
     "Главным образом из-за её лица, мрачного как туча."
@@ -13183,14 +12603,6 @@ translate russian cassidy_sub_01_30e74fc5:
 # ch/cassidy/events.rpy:5052
 translate russian cassidy_sub_01_19e928bf:
     mike.say "Привет, Кэссиди..."
-
-# ch/cassidy/events.rpy:5053
-translate russian cassidy_sub_01_8ab8399b:
-    mike.say "Какой приятный сюрприз! Не ожидал увидеть тебя сегодня!"
-
-# ch/cassidy/events.rpy:5054
-translate russian cassidy_sub_01_1ec84486:
-    "Кэссиди останавливается прямо передо мной."
 
 # ch/cassidy/events.rpy:5055
 translate russian cassidy_sub_01_55257452:
@@ -13217,7 +12629,7 @@ translate russian cassidy_sub_01_6d0e1313:
     cassidy.say "Я прекрасно знаю, чем ты занимаешься у меня за спиной!"
 
 # ch/cassidy/events.rpy:5063
-translate russian cassidy_sub_01_6a813371:
+translate russian cassidy_sub_01_632c4e82:
     "Ладно, ладно... Когда Кэссиди налетела на меня, я испугался."
 
 # ch/cassidy/events.rpy:5064
@@ -13345,7 +12757,7 @@ translate russian cassidy_sub_01_86d07102:
     mike.say "А..."
 
 # ch/cassidy/events.rpy:5101
-translate russian cassidy_sub_01_37105a4b:
+translate russian cassidy_sub_01_811e64bb:
     mike.say "Ты видела, как я немного... выгуливал собачку?"
 
 # ch/cassidy/events.rpy:5102
@@ -13377,7 +12789,7 @@ translate russian cassidy_sub_01_ae826ab1:
     cassidy.say "Ты..."
 
 # ch/cassidy/events.rpy:5111
-translate russian cassidy_sub_01_f5d37079:
+translate russian cassidy_sub_01_809901c0:
     cassidy.say "Ты... так это называешь?"
 
 # ch/cassidy/events.rpy:5113
@@ -13573,7 +12985,7 @@ translate russian cassidy_sub_01_0cfb4b7b:
     cassidy.say "Ты сделаешь это?"
 
 # ch/cassidy/events.rpy:5177
-translate russian cassidy_sub_01_0d31e2bc:
+translate russian cassidy_sub_01_5051911a:
     cassidy.say "Выгуляешь меня... как... как собаку?"
 
 # ch/cassidy/events.rpy:5178
@@ -13609,7 +13021,7 @@ translate russian cassidy_sub_01_b8c3b0ad:
     "Она в восторге от этой мысли и радостно хлопает в ладоши."
 
 # ch/cassidy/events.rpy:5191
-translate russian cassidy_sub_01_9cd5b433:
+translate russian cassidy_sub_01_8b800bd5:
     cassidy.say "О... боже... мой!"
 
 # ch/cassidy/events.rpy:5192
@@ -13744,10 +13156,6 @@ translate russian cassidy_sub_02a_abbf69ea:
 translate russian cassidy_sub_02a_439e8724:
     mike.say "Рад, что ты смогла..."
 
-# ch/cassidy/events.rpy:5254
-translate russian cassidy_sub_02a_765176a3:
-    mike.say "Уф..." with hpunch
-
 # ch/cassidy/events.rpy:5255
 translate russian cassidy_sub_02a_a3ecc5b2:
     "Только что я пытался поздороваться с Кэссиди, а теперь меня толкают назад в прихожую."
@@ -13773,7 +13181,7 @@ translate russian cassidy_sub_02a_58feffd7:
     mike.say "Чувствуй себя как дома, Кэссиди..."
 
 # ch/cassidy/events.rpy:5265
-translate russian cassidy_sub_02a_0bd7133a:
+translate russian cassidy_sub_02a_9c684f7f:
     mike.say "Мой дом — твой дом... знаешь?"
 
 # ch/cassidy/events.rpy:5266
@@ -13789,7 +13197,7 @@ translate russian cassidy_sub_02a_a2e9d31f:
     cassidy.say "Что ты сказал?"
 
 # ch/cassidy/events.rpy:5272
-translate russian cassidy_sub_02a_37be6e16:
+translate russian cassidy_sub_02a_b938f167:
     cassidy.say "А... да..."
 
 # ch/cassidy/events.rpy:5273
@@ -14057,7 +13465,7 @@ translate russian cassidy_sub_02a_37bf95c1:
     mike.say "Как ощущения?"
 
 # ch/cassidy/events.rpy:5353
-translate russian cassidy_sub_02a_4b3f1512:
+translate russian cassidy_sub_02a_4df8b9ba:
     cassidy.say "Приятно... даже очень!"
 
 # ch/cassidy/events.rpy:5355
@@ -14093,7 +13501,7 @@ translate russian cassidy_sub_02a_2559bca1:
     "И она кивает."
 
 # ch/cassidy/events.rpy:5365
-translate russian cassidy_sub_02a_14361356:
+translate russian cassidy_sub_02a_f2a26b07:
     cassidy.say "Да... господин?"
 
 # ch/cassidy/events.rpy:5366
@@ -14285,7 +13693,7 @@ translate russian cassidy_sub_02a_3d39f5c2:
     "В таком положении грациозно двигаться вообще-то трудно."
 
 # ch/cassidy/events.rpy:5427
-translate russian cassidy_sub_02a_a3e5edb7:
+translate russian cassidy_sub_02a_651c0f9e:
     "Но то, как она там резвится... это нечто!"
 
 # ch/cassidy/events.rpy:5428
@@ -14513,7 +13921,7 @@ translate russian cassidy_sub_02b_4cb2982a:
     mike.say "Наверное, лиса или что-то вроде того."
 
 # ch/cassidy/events.rpy:5541
-translate russian cassidy_sub_02b_aa52d27f:
+translate russian cassidy_sub_02b_4bdb67ed:
     "Женский голос" "Р-р-р... гав!"
 
 # ch/cassidy/events.rpy:5542
@@ -14553,7 +13961,7 @@ translate russian cassidy_sub_02b_9fee5fdb:
     mike.say "Кэссиди?"
 
 # ch/cassidy/events.rpy:5552
-translate russian cassidy_sub_02b_1c73cab2:
+translate russian cassidy_sub_02b_2ebc61ef:
     mike.say "Это... это правда ты?!"
 
 # ch/cassidy/events.rpy:5554
@@ -14857,7 +14265,7 @@ translate russian cassidy_spanking_start_c222b52c:
     "Заодно вызывающе приподнимает брови."
 
 # ch/cassidy/events.rpy:5655
-translate russian cassidy_spanking_start_bf23ff21:
+translate russian cassidy_spanking_start_bf283bcd:
     mike.say "А... ну..."
 
 # ch/cassidy/events.rpy:5656
@@ -14917,7 +14325,7 @@ translate russian cassidy_spanking_start_cc6068c2:
     "И всё же к первому шлепку она не готова."
 
 # ch/cassidy/events.rpy:5680
-translate russian cassidy_spanking_start_9945c69a:
+translate russian cassidy_spanking_start_00ed792f:
     cassidy.say "О-о... ай!"
 
 # ch/cassidy/events.rpy:5681
@@ -14949,7 +14357,7 @@ translate russian cassidy_spanking_start_26f9ce73:
     "Но при этом умудряется выговаривать отдельные слова."
 
 # ch/cassidy/events.rpy:5693
-translate russian cassidy_spanking_start_1d0807f4:
+translate russian cassidy_spanking_start_8d9cdc20:
     cassidy.say "Ох... я такая плохая девочка..."
 
 # ch/cassidy/events.rpy:5694
@@ -15037,7 +14445,7 @@ translate russian cassidy_male_ending_560cc3ce:
     "Часть меня не верит, что это происходит на самом деле."
 
 # ch/cassidy/events.rpy:5752
-translate russian cassidy_male_ending_e91ccc22:
+translate russian cassidy_male_ending_f6363938:
     "Вообще... дайте-ка я себя ущипну..."
 
 # ch/cassidy/events.rpy:5753
@@ -15173,7 +14581,7 @@ translate russian cassidy_male_ending_bab89b10:
     "И теперь тоже широко улыбается."
 
 # ch/cassidy/events.rpy:5795
-translate russian cassidy_male_ending_7071e6d4:
+translate russian cassidy_male_ending_503b1910:
     cassidy.say "Ну... в общем-то, так и есть!"
 
 # ch/cassidy/events.rpy:5797
@@ -15229,7 +14637,7 @@ translate russian cassidy_male_ending_44d8f95a:
     cassidy.say "Мы закончим, когда закончим, ясно?"
 
 # ch/cassidy/events.rpy:5815
-translate russian cassidy_male_ending_752ff6b4:
+translate russian cassidy_male_ending_1423daab:
     "Священник" "Эм... хорошо?"
 
 # ch/cassidy/events.rpy:5817
@@ -15261,7 +14669,7 @@ translate russian cassidy_male_ending_d601e095:
     "Священник" "Сегодня мы собрались здесь..."
 
 # ch/cassidy/events.rpy:5828
-translate russian cassidy_male_ending_f33183b8:
+translate russian cassidy_male_ending_0b7b25c3:
     "Священник" "Чтобы соединить этих двух... людей... священными узами брака."
 
 # ch/cassidy/events.rpy:5829
@@ -15289,7 +14697,7 @@ translate russian cassidy_male_ending_95766bb4:
     cassidy.say "Согласна."
 
 # ch/cassidy/events.rpy:5835
-translate russian cassidy_male_ending_7ab42737:
+translate russian cassidy_male_ending_07616d26:
     "Священник" "А вы, [lssb_cassidy.hero_name()], согласны ли взять эту... женщину... Кэссиди..."
 
 # ch/cassidy/events.rpy:5836
@@ -15553,7 +14961,7 @@ translate russian cassidy_male_ending_b1b984bc:
     cassidy.say "Папочка такой замечательный!"
 
 # ch/cassidy/events.rpy:5913
-translate russian cassidy_male_ending_5a5b8153:
+translate russian cassidy_male_ending_53033a8d:
     cassidy.say "Ой... я, конечно, о том, какой замечательный [lssb_cassidy.hero_name()]!"
 
 # ch/cassidy/events.rpy:5914
@@ -15580,33 +14988,13 @@ translate russian cassidy_male_ending_03954818:
 translate russian cassidy_hottub_sex_male_30a07a7c:
     "Узнав, что у меня есть джакузи, Кэссиди всё время упрашивает пустить её туда."
 
-# ch/cassidy/fuck.rpy:63
-translate russian cassidy_hottub_sex_male_4033d22d:
-    "Поверьте, я вовсе не против пригласить её и залезть в воду вместе."
-
 # ch/cassidy/fuck.rpy:64
 translate russian cassidy_hottub_sex_male_74b1d6e2:
     "Кто бы от такого отказался?"
 
-# ch/cassidy/fuck.rpy:65
-translate russian cassidy_hottub_sex_male_91dc1fc4:
-    "Просто всякий раз, когда я вспоминал о её желании, что-нибудь мешало."
-
-# ch/cassidy/fuck.rpy:66
-translate russian cassidy_hottub_sex_male_b7547957:
-    "Поэтому к моменту, когда я наконец её приглашаю, Кэссиди уже сгорает от нетерпения!"
-
-# ch/cassidy/fuck.rpy:68
-translate russian cassidy_hottub_sex_male_791ebc31:
-    "К её приходу я уже в плавках, а подготовленное джакузи вовсю бурлит."
-
 # ch/cassidy/fuck.rpy:69
 translate russian cassidy_hottub_sex_male_3adc4d2d:
     cassidy.say "Привет, [lssb_cassidy.hero_name()]!"
-
-# ch/cassidy/fuck.rpy:70
-translate russian cassidy_hottub_sex_male_06a5e802:
-    cassidy.say "Я примчалась как можно быстрее."
 
 # ch/cassidy/fuck.rpy:72
 translate russian cassidy_hottub_sex_male_b039aa0a:
@@ -16133,11 +15521,11 @@ translate russian cassidy_fuck_beach_58c42180:
     cassidy.say "Дело не только в этом."
 
 # ch/cassidy/fuck.rpy:248
-translate russian cassidy_fuck_beach_f836765d:
+translate russian cassidy_fuck_beach_36b80057:
     cassidy.say "Я... ну..."
 
 # ch/cassidy/fuck.rpy:249
-translate russian cassidy_fuck_beach_03860e8c:
+translate russian cassidy_fuck_beach_511753ae:
     cassidy.say "Мне немного... хочется пошалить... понимаешь?"
 
 # ch/cassidy/fuck.rpy:250
@@ -16153,7 +15541,7 @@ translate russian cassidy_fuck_beach_6691d6f1:
     "Но, сидя рядом с ней в этом купальнике, я только о сексе и думаю!"
 
 # ch/cassidy/fuck.rpy:253
-translate russian cassidy_fuck_beach_853120f6:
+translate russian cassidy_fuck_beach_56ad7d38:
     mike.say "А... да, Кэссиди."
 
 # ch/cassidy/fuck.rpy:254
@@ -16181,7 +15569,7 @@ translate russian cassidy_fuck_beach_b1c05a83:
     "Я пожимаю плечами, пытаясь развеять сомнения Кэссиди."
 
 # ch/cassidy/fuck.rpy:263
-translate russian cassidy_fuck_beach_5a945b2f:
+translate russian cassidy_fuck_beach_d924be74:
     mike.say "Ну... секс — это ведь совершенно естественно, Кэссиди."
 
 # ch/cassidy/fuck.rpy:264
@@ -16397,7 +15785,7 @@ translate russian cassidy_fuck_beach_b46f6abf:
     cassidy.say "Ох..."
 
 # ch/cassidy/fuck.rpy:327
-translate russian cassidy_fuck_beach_080079a6:
+translate russian cassidy_fuck_beach_6903e3d8:
     cassidy.say "Я... я чувствую..."
 
 # ch/cassidy/fuck.rpy:328
@@ -16413,7 +15801,7 @@ translate russian cassidy_fuck_beach_c6911b13:
     "Опускаясь на меня, она прижимается тёплым округлившимся животом и принимает каждую каплю, хотя уже носит моего ребёнка."
 
 # ch/cassidy/fuck.rpy:335
-translate russian cassidy_fuck_beach_64c6b50c:
+translate russian cassidy_fuck_beach_77ee692f:
     cassidy.say "М-м-м... я уже беременна, [lssb_cassidy.hero_name()], ещё сильнее не забеременею. Всё равно кончай в меня."
 
 # ch/cassidy/fuck.rpy:336
@@ -16469,7 +15857,7 @@ translate russian cassidy_fuck_date_sub_a3195849:
     "Дома я молча веду Кэссиди в свою спальню. Она без особого интереса оглядывает мои вещи."
 
 # ch/cassidy/fuck.rpy:371
-translate russian cassidy_fuck_date_sub_360baeb0:
+translate russian cassidy_fuck_date_sub_37c23378:
     "Вряд ли это похоже на то, к чему она привыкла. У неё всё самое лучшее, а у меня... что ж, это мой дом, и мне здесь нравится."
 
 # ch/cassidy/fuck.rpy:373
@@ -16565,7 +15953,7 @@ translate russian cassidy_fuck_date_sub_7dbe3d3e:
     "Я качаю головой и торопливо подхожу к ней."
 
 # ch/cassidy/fuck.rpy:410
-translate russian cassidy_fuck_date_sub_336b8a40:
+translate russian cassidy_fuck_date_sub_dbabb109:
     mike.say "Н... нет, Кэссиди..."
 
 # ch/cassidy/fuck.rpy:411
@@ -16637,7 +16025,7 @@ translate russian cassidy_fuck_date_sub_845fca47:
     "Она будто не может решить, что ей хочется больше: засунуть мне язык в рот или сорвать с меня одежду!"
 
 # ch/cassidy/fuck.rpy:440
-translate russian cassidy_fuck_date_sub_eaf3d8a9:
+translate russian cassidy_fuck_date_sub_62830128:
     mike.say "П... погоди, Кэссиди!"
 
 # ch/cassidy/fuck.rpy:441
@@ -16981,7 +16369,7 @@ translate russian cassidy_fuck_date_sub_c351854e:
     "Она закрывает глаза."
 
 # ch/cassidy/fuck.rpy:556
-translate russian cassidy_fuck_date_sub_5cb1057e:
+translate russian cassidy_fuck_date_sub_e9cfa421:
     cassidy.say "Я... хочу тебя."
 
 # ch/cassidy/fuck.rpy:557
@@ -17005,7 +16393,7 @@ translate russian cassidy_fuck_date_sub_c351854e_1:
     "Она закрывает глаза."
 
 # ch/cassidy/fuck.rpy:564
-translate russian cassidy_fuck_date_sub_5cb1057e_1:
+translate russian cassidy_fuck_date_sub_e9cfa421_1:
     cassidy.say "Я... хочу тебя."
 
 # ch/cassidy/fuck.rpy:565
@@ -17121,11 +16509,11 @@ translate russian cassidy_missionary_pussy_sub_92be9127_1:
     "Она тихо постанывает, и с каждым толчком стоны становятся громче."
 
 # ch/cassidy/fuck.rpy:680
-translate russian cassidy_missionary_pussy_sub_35d285e5:
+translate russian cassidy_missionary_pussy_sub_0e8e7593:
     cassidy.say "О да! Да, [lssb_cassidy.hero_name()], так... о боже, да!"
 
 # ch/cassidy/fuck.rpy:682
-translate russian cassidy_missionary_pussy_sub_35d285e5_1:
+translate russian cassidy_missionary_pussy_sub_0e8e7593_1:
     cassidy.say "О да! Да, [lssb_cassidy.hero_name()], так... о боже, да!"
 
 # ch/cassidy/fuck.rpy:683
@@ -17385,7 +16773,7 @@ translate russian cassidy_doggy_d08d7881:
     "Не успевает Кэссиди понять, что происходит, как мой член оказывается между её ягодицами."
 
 # ch/cassidy/fuck.rpy:838
-translate russian cassidy_doggy_b85eff19:
+translate russian cassidy_doggy_cec67e1e:
     cassidy.say "Ч... что ты..."
 
 # ch/cassidy/fuck.rpy:839
@@ -17393,7 +16781,7 @@ translate russian cassidy_doggy_593883b1:
     cassidy.say "[lssb_cassidy.hero_name()]... это же моя..."
 
 # ch/cassidy/fuck.rpy:840
-translate russian cassidy_doggy_9f7ca83e:
+translate russian cassidy_doggy_57fb3cf1:
     cassidy.say "Это же моя поп..."
 
 # ch/cassidy/fuck.rpy:841
@@ -17417,7 +16805,7 @@ translate russian cassidy_doggy_3ed45044:
     cassidy.say "О боже..."
 
 # ch/cassidy/fuck.rpy:847
-translate russian cassidy_doggy_d30b3e30:
+translate russian cassidy_doggy_73609fe1:
     cassidy.say "Как... как хорошо!"
 
 # ch/cassidy/fuck.rpy:848
@@ -17837,7 +17225,7 @@ translate russian cassidy_doggy_9b9e4655:
     cassidy.say "Стой..."
 
 # ch/cassidy/fuck.rpy:1004
-translate russian cassidy_doggy_cd65b8b3:
+translate russian cassidy_doggy_59fd4214:
     mike.say "А... что?!"
 
 # ch/cassidy/fuck.rpy:1006
@@ -17869,11 +17257,11 @@ translate russian cassidy_doggy_ef952b8f:
     "В голове уже проносятся мысли о серьёзности случившегося."
 
 # ch/cassidy/fuck.rpy:1019
-translate russian cassidy_doggy_a32748c7:
+translate russian cassidy_doggy_0b1f6310:
     cassidy.say "Не... останавливайся..."
 
 # ch/cassidy/fuck.rpy:1020
-translate russian cassidy_doggy_cd65b8b3_1:
+translate russian cassidy_doggy_59fd4214_1:
     mike.say "А... что?!"
 
 # ch/cassidy/fuck.rpy:1021
@@ -17973,7 +17361,7 @@ translate russian cassidy_cowgirl_acaed28a:
     cassidy.say "Что ты..."
 
 # ch/cassidy/fuck.rpy:1061
-translate russian cassidy_cowgirl_03591520:
+translate russian cassidy_cowgirl_6631543e:
     cassidy.say "Ох... о бо... О БОЖЕ!"
 
 # ch/cassidy/fuck.rpy:1062
@@ -18005,7 +17393,7 @@ translate russian cassidy_cowgirl_33dcac49:
     "Через несколько мгновений Кэссиди сама подтверждает мою догадку."
 
 # ch/cassidy/fuck.rpy:1070
-translate russian cassidy_cowgirl_30ac29de:
+translate russian cassidy_cowgirl_5f215bda:
     cassidy.say "Ох... ты..."
 
 # ch/cassidy/fuck.rpy:1071
@@ -18221,7 +17609,7 @@ translate russian cassidy_cowgirl_e75eaf24:
     cassidy.say "Ах..."
 
 # ch/cassidy/fuck.rpy:1152
-translate russian cassidy_cowgirl_c8e15581:
+translate russian cassidy_cowgirl_ce9d2e96:
     cassidy.say "Ох... ох... чёрт!"
 
 # ch/cassidy/fuck.rpy:1153
@@ -18245,7 +17633,7 @@ translate russian cassidy_cowgirl_0dd28d75:
     cassidy.say "Это так приятно..."
 
 # ch/cassidy/fuck.rpy:1158
-translate russian cassidy_cowgirl_4641e159:
+translate russian cassidy_cowgirl_007a89c0:
     cassidy.say "Пожалуйста... пожалуйста, трахай меня так!"
 
 # ch/cassidy/fuck.rpy:1159
@@ -18477,7 +17865,7 @@ translate russian cassidy_cowgirl_826e4e0a_3:
     "Затем Кэссиди падает вперёд, захлёстнутая ощущениями."
 
 # ch/cassidy/fuck.rpy:1246
-translate russian cassidy_cowgirl_6fbf9e86:
+translate russian cassidy_cowgirl_bfe3ed9f:
     cassidy.say "Нет... нет... нет!"
 
 # ch/cassidy/fuck.rpy:1247
@@ -18525,7 +17913,7 @@ translate russian cassidy_cowgirl_e90dc11f:
     "Что мы наделали?!"
 
 # ch/cassidy/fuck.rpy:1265
-translate russian cassidy_cowgirl_6fbf9e86_1:
+translate russian cassidy_cowgirl_bfe3ed9f_1:
     cassidy.say "Нет... нет... нет!"
 
 # ch/cassidy/fuck.rpy:1266
@@ -18637,7 +18025,7 @@ translate russian cassidy_reverse_cowgirl_eeac7c62:
     "А затем направляю головку прямо к открывшемуся анусу."
 
 # ch/cassidy/fuck.rpy:1310
-translate russian cassidy_reverse_cowgirl_65a3947a:
+translate russian cassidy_reverse_cowgirl_c846f785:
     cassidy.say "Э... эй..."
 
 # ch/cassidy/fuck.rpy:1311
@@ -18681,11 +18069,11 @@ translate russian cassidy_reverse_cowgirl_07bb3981:
     cassidy.say "О-о-ох..."
 
 # ch/cassidy/fuck.rpy:1324
-translate russian cassidy_reverse_cowgirl_e692679e:
+translate russian cassidy_reverse_cowgirl_4f08bacc:
     cassidy.say "К... как хорошо..."
 
 # ch/cassidy/fuck.rpy:1325
-translate russian cassidy_reverse_cowgirl_bb651c60:
+translate russian cassidy_reverse_cowgirl_282a8c1f:
     cassidy.say "Это на самом деле... ЧЕРТОВСКИ приятно!"
 
 # ch/cassidy/fuck.rpy:1326
@@ -18941,7 +18329,7 @@ translate russian cassidy_reverse_cowgirl_5e051bb5:
     "Наоборот, она жадно принимает всё, что я могу ей дать."
 
 # ch/cassidy/fuck.rpy:1420
-translate russian cassidy_reverse_cowgirl_37be6e16:
+translate russian cassidy_reverse_cowgirl_b938f167:
     cassidy.say "Ох... о да..."
 
 # ch/cassidy/fuck.rpy:1421
@@ -18949,7 +18337,7 @@ translate russian cassidy_reverse_cowgirl_41248e1e:
     cassidy.say "Вот чего я хочу..."
 
 # ch/cassidy/fuck.rpy:1422
-translate russian cassidy_reverse_cowgirl_60fd56a6:
+translate russian cassidy_reverse_cowgirl_c38e71ae:
     cassidy.say "Дай мне это... ПОЖАЛУЙСТА!"
 
 # ch/cassidy/fuck.rpy:1423
@@ -19101,7 +18489,7 @@ translate russian cassidy_reverse_cowgirl_8dd91f8c:
     cassidy.say "Я пью противозачаточные..."
 
 # ch/cassidy/fuck.rpy:1482
-translate russian cassidy_reverse_cowgirl_752678e6:
+translate russian cassidy_reverse_cowgirl_d025f15c:
     cassidy.say "Так что можешь не сдерживаться... ладно?!"
 
 # ch/cassidy/fuck.rpy:1483
@@ -19141,7 +18529,7 @@ translate russian cassidy_reverse_cowgirl_d7da2a08:
     cassidy.say "Я уже беременна от тебя..."
 
 # ch/cassidy/fuck.rpy:1498
-translate russian cassidy_reverse_cowgirl_752678e6_1:
+translate russian cassidy_reverse_cowgirl_d025f15c_1:
     cassidy.say "Так что можешь не сдерживаться... ладно?!"
 
 # ch/cassidy/fuck.rpy:1499
@@ -19341,7 +18729,7 @@ translate russian cassidy_sleep_date_fuck_sub_72298c1b_1:
     "Кэссиди вытягивается на моей кровати, отдавая себя в моё распоряжение. Я прижимаюсь к ней и засыпаю, устроив голову между её великолепных грудей."
 
 # ch/cassidy/fuck.rpy:1615
-translate russian cassidy_fuck_date_dom_c4a99ec6:
+translate russian cassidy_fuck_date_dom_adf1b00d:
     cassidy.say "Ничего себе, [lssb_cassidy.hero_name()], у тебя ведь хорошая работа. Почему ты живёшь... здесь? Мог бы позволить себе что-нибудь приличное!"
 
 # ch/cassidy/fuck.rpy:1616
@@ -19405,7 +18793,7 @@ translate russian cassidy_missionary_pussy_dom_d98f1f15:
     cassidy.say "Трахни меня, пока я не передумала, [lssb_cassidy.hero_name()]!"
 
 # ch/cassidy/fuck.rpy:1660
-translate russian cassidy_missionary_pussy_dom_8b948020:
+translate russian cassidy_missionary_pussy_dom_a4e5b282:
     cassidy.say "А после можешь немного меня пообнимать. Только не придавай этому значения, просто... сделай это."
 
 # ch/cassidy/fuck.rpy:1661
@@ -19425,7 +18813,7 @@ translate russian cassidy_missionary_pussy_dom_92be9127:
     "Она тихо постанывает, и с каждым толчком стоны становятся громче."
 
 # ch/cassidy/fuck.rpy:1666
-translate russian cassidy_missionary_pussy_dom_35d285e5:
+translate russian cassidy_missionary_pussy_dom_0e8e7593:
     cassidy.say "О да! Да, [lssb_cassidy.hero_name()], так... о боже, да!"
 
 # ch/cassidy/fuck.rpy:1667
@@ -19853,7 +19241,7 @@ translate russian cassidy_fuck_office_reverse_cowgirl_26597ace:
     cassidy.say "Моя попка!"
 
 # ch/cassidy/fuck.rpy:1969
-translate russian cassidy_fuck_office_reverse_cowgirl_31b0c998:
+translate russian cassidy_fuck_office_reverse_cowgirl_5fce10e6:
     cassidy.say "Ох... как же ПРИЯТНО!"
 
 # ch/cassidy/fuck.rpy:1970
@@ -19877,7 +19265,7 @@ translate russian cassidy_fuck_office_reverse_cowgirl_9d58336d:
     cassidy.say "Это я..."
 
 # ch/cassidy/fuck.rpy:1975
-translate russian cassidy_fuck_office_reverse_cowgirl_9d63222f:
+translate russian cassidy_fuck_office_reverse_cowgirl_6067e74c:
     cassidy.say "Это... ох, чёрт!"
 
 # ch/cassidy/fuck.rpy:1976
@@ -20125,7 +19513,7 @@ translate russian cassidy_fuck_office_reverse_cowgirl_9d58336d_1:
     cassidy.say "Это я..."
 
 # ch/cassidy/fuck.rpy:2067
-translate russian cassidy_fuck_office_reverse_cowgirl_9d63222f_1:
+translate russian cassidy_fuck_office_reverse_cowgirl_6067e74c_1:
     cassidy.say "Это... ох, чёрт!"
 
 # ch/cassidy/fuck.rpy:2068
@@ -20613,7 +20001,7 @@ translate russian cassidy_gift_swimsuit_male_6d86de3c:
     mike.say "Да!"
 
 # ch/cassidy/gift.rpy:74
-translate russian cassidy_gift_swimsuit_male_041cd45a:
+translate russian cassidy_gift_swimsuit_male_f404e2b7:
     cassidy.say "Он какой-то... слишком откровенный, тебе не кажется?"
 
 # ch/cassidy/gift.rpy:75
@@ -20981,7 +20369,7 @@ translate russian cassidy_gift_collar_male_ae1e9abd:
     cassidy.say "Правда? Надеюсь, не какая-нибудь дешёвка."
 
 # ch/cassidy/gift.rpy:217
-translate russian cassidy_gift_collar_male_7714b1c9:
+translate russian cassidy_gift_collar_male_e9184335:
     mike.say "Нет, это... ну, может, по твоим меркам и недорого, но не дёшево."
 
 # ch/cassidy/gift.rpy:218
@@ -21285,7 +20673,7 @@ translate russian cassidy_offer_a_drink_male_29efbd05:
     "Едва я заканчиваю говорить, Кэссиди поворачивается ко мне."
 
 # ch/cassidy/reactions.rpy:64
-translate russian cassidy_offer_a_drink_male_f995236d:
+translate russian cassidy_offer_a_drink_male_27a40e2b:
     cassidy.say "[lssb_cassidy.hero_name()], ты... ты чудовище!"
 
 # ch/cassidy/reactions.rpy:65
@@ -21553,7 +20941,7 @@ translate russian cassidy_breakup_male_f5c33e2b:
     mike.say "Но я именно это и чувствую."
 
 # ch/cassidy/reactions.rpy:167
-translate russian cassidy_breakup_male_f4508b6a:
+translate russian cassidy_breakup_male_bfda4875:
     mike.say "Уверен, ты это переживёшь... со временем!"
 
 # ch/cassidy/reactions.rpy:168
@@ -21645,11 +21033,11 @@ translate russian cassidy_pet_happy_male_3140813c:
     cassidy.say "О-о..."
 
 # ch/cassidy/reactions.rpy:207
-translate russian cassidy_pet_happy_male_1da6dc43:
+translate russian cassidy_pet_happy_male_6cfca80e:
     cassidy.say "С... спасибо, [lssb_cassidy.hero_name()]."
 
 # ch/cassidy/reactions.rpy:208
-translate russian cassidy_pet_happy_male_75d33967:
+translate russian cassidy_pet_happy_male_ca1ea9db:
     cassidy.say "Хи-хи... значит, я хорошая девочка!"
 
 # ch/cassidy/reactions.rpy:212
@@ -21857,7 +21245,7 @@ translate russian cassidy_movie_disliked_reaction_male_3cdf7a50:
     cassidy.say "Фу, ужасный фильм. Хорошо хоть компания всё компенсировала, [lssb_cassidy.hero_name()]."
 
 # ch/cassidy/reactions.rpy:307
-translate russian cassidy_movie_disliked_reaction_male_1fad892d:
+translate russian cassidy_movie_disliked_reaction_male_31411fa7:
     cassidy.say "Уф... фильм — отстой. Зря потратила время!"
 
 # ch/cassidy/reactions.rpy:312
@@ -22209,7 +21597,7 @@ translate russian cassidy_belly_caress_male_ec163786:
     cassidy.say "Многим парням нравятся пышные девушки!"
 
 # ch/cassidy/reactions.rpy:441
-translate russian cassidy_belly_caress_male_1a081ae4:
+translate russian cassidy_belly_caress_male_369fd9a3:
     mike.say "Ч... что?!"
 
 # ch/cassidy/reactions.rpy:442
@@ -22217,7 +21605,7 @@ translate russian cassidy_belly_caress_male_6f931a5f:
     mike.say "Мне не нравятся пышные девушки!"
 
 # ch/cassidy/reactions.rpy:443
-translate russian cassidy_belly_caress_male_7c25400c:
+translate russian cassidy_belly_caress_male_3dd1963e:
     mike.say "Я... то есть я ничего против них не имею."
 
 # ch/cassidy/reactions.rpy:444
@@ -22381,7 +21769,7 @@ translate russian cassidy_belly_listen_male_7cf87a8d:
     cassidy.say "Я не привыкла, чтобы со мной разговаривали таким..."
 
 # ch/cassidy/reactions.rpy:501
-translate russian cassidy_belly_listen_male_ef8ff1ae:
+translate russian cassidy_belly_listen_male_f310f1ab:
     cassidy.say "Погоди... почему ты... ты что..."
 
 # ch/cassidy/reactions.rpy:502
@@ -22549,7 +21937,7 @@ translate russian cassidy_talk_sex_male_d9da088d:
     mike.say "Нет, госпожа, я бы никогда такого не сказал!"
 
 # ch/cassidy/talk.rpy:74
-translate russian cassidy_talk_sex_male_5b10aaba:
+translate russian cassidy_talk_sex_male_ea59b75c:
     mike.say "Я... должен признать, мне нравится находиться между ваших бёдер."
 
 # ch/cassidy/talk.rpy:76
@@ -22833,7 +22221,7 @@ translate russian cassidy_talk_tv_male_b9952636:
     cassidy.say "Ну, вроде «Ханны Монтаны»?"
 
 # ch/cassidy/talk.rpy:257
-translate russian cassidy_talk_tv_male_ae548a1c:
+translate russian cassidy_talk_tv_male_f10d2d99:
     mike.say "Да, о ней слышал. Ну и... необычной она выросла."
 
 # ch/cassidy/talk.rpy:259
@@ -22957,7 +22345,7 @@ translate russian cassidy_talk_fashion_male_5b6bebd7:
     cassidy.say "Своди меня по магазинам. Носи мои пакеты, говори, какая я красивая, и, если будешь очень хорошим, разрешу выбрать одну вещь, которую надену дома только для тебя, [lssb_cassidy.hero_name()]."
 
 # ch/cassidy/talk.rpy:329
-translate russian cassidy_talk_fashion_male_65463475:
+translate russian cassidy_talk_fashion_male_7bfc643a:
     cassidy.say "Давай как-нибудь пройдёмся по магазинам. Скажешь, какая милая вещица мне идёт больше всего, а я помогу тебе подобрать что-нибудь, чтобы ты меньше напоминал... бомжа."
 
 # ch/cassidy/talk.rpy:333
@@ -22985,7 +22373,7 @@ translate russian cassidy_talk_books_male_1b369751:
     mike.say "Что, ты не читаешь?"
 
 # ch/cassidy/talk.rpy:352
-translate russian cassidy_talk_books_male_c78ae3ea:
+translate russian cassidy_talk_books_male_38e597a9:
     cassidy.say "Читаю! Я читаю! Читаю... журналы. И, эм... всякое."
 
 # ch/cassidy/talk.rpy:355
@@ -23525,7 +22913,7 @@ translate russian cassidy_friendly_texts_male_ddaccfef_1:
     cassidy_nvl "Отстань, я спала..."
 
 # ch/cassidy/texts.rpy:194
-translate russian cassidy_friendly_texts_male_5138e283:
+translate russian cassidy_friendly_texts_male_554822c9:
     cassidy_nvl "Да ничего... просто сижу и думаю об одном знакомом парне..."
 
 # ch/cassidy/texts.rpy:195
@@ -23565,7 +22953,7 @@ translate russian cassidy_flirty_texts_male_42c53ab5:
     mchero_nvl "Думаю, что-нибудь сексуальное, да?"
 
 # ch/cassidy/texts.rpy:232
-translate russian cassidy_flirty_texts_male_70813383:
+translate russian cassidy_flirty_texts_male_f0994952:
     cassidy_nvl "Фу... это ТАК стрёмно!"
 
 # ch/cassidy/texts.rpy:233
@@ -23609,7 +22997,7 @@ translate russian cassidy_flirty_texts_male_3ff33bb1:
     mchero_nvl "Ужасно хочется тебя потрогать!"
 
 # ch/cassidy/texts.rpy:262
-translate russian cassidy_flirty_texts_male_d942d67b:
+translate russian cassidy_flirty_texts_male_50c8a245:
     cassidy_nvl "Хм... а говорят, романтика умерла!"
 
 # ch/cassidy/texts.rpy:263
@@ -23653,7 +23041,7 @@ translate russian cassidy_flirty_texts_male_ac019347:
     mchero_nvl "Ты как наркотик, которого мне всё время мало!"
 
 # ch/cassidy/texts.rpy:292
-translate russian cassidy_flirty_texts_male_6c0ac60a:
+translate russian cassidy_flirty_texts_male_199bfb08:
     cassidy_nvl "Эй... это обидно!"
 
 # ch/cassidy/texts.rpy:293
@@ -23701,7 +23089,7 @@ translate russian cassidy_dirty_texts_male_8feb2806:
     cassidy_nvl "Нельзя быть со мной помилее?"
 
 # ch/cassidy/texts.rpy:332
-translate russian cassidy_dirty_texts_male_36842f1f:
+translate russian cassidy_dirty_texts_male_448aa6d9:
     cassidy_nvl "Ох... у тебя одно на уме!"
 
 # ch/cassidy/texts.rpy:333
@@ -23737,7 +23125,7 @@ translate russian cassidy_dirty_texts_male_2713c907:
     mchero_nvl "Мне нужно, чтобы ты как можно скорее отсосала мой член!"
 
 # ch/cassidy/texts.rpy:360
-translate russian cassidy_dirty_texts_male_e847641d:
+translate russian cassidy_dirty_texts_male_d08fa729:
     cassidy_nvl "Эм... грубо!"
 
 # ch/cassidy/texts.rpy:361
@@ -23785,7 +23173,7 @@ translate russian cassidy_dirty_texts_male_0ed7a384:
     mchero_nvl "Надо бы уложить тебя поперёк коленей и хорошенько отшлёпать!"
 
 # ch/cassidy/texts.rpy:393
-translate russian cassidy_dirty_texts_male_6d5de070:
+translate russian cassidy_dirty_texts_male_ea137bdf:
     cassidy_nvl "Хм... папочка меня никогда не шлёпал. Ни разу!"
 
 # ch/cassidy/texts.rpy:394
@@ -23793,7 +23181,7 @@ translate russian cassidy_dirty_texts_male_bda89cbf:
     cassidy_nvl "Думаешь, я позволю тебе такое?!"
 
 # ch/cassidy/texts.rpy:397
-translate russian cassidy_dirty_texts_male_cdbd2b2b:
+translate russian cassidy_dirty_texts_male_4df16760:
     cassidy_nvl "Ох... хочешь меня наказать?!"
 
 # ch/cassidy/texts.rpy:398

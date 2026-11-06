@@ -140,10 +140,6 @@ translate russian kleio_greet_c2224aad:
 translate russian kleio_greet_50f7b01e:
     kleio.say "Добрый вечер, [lssb_kleio.hero_name()]. Похоже, денёк у тебя выдался тот ещё."
 
-# ch/kleio/base.rpy:135
-translate russian kleio_greet_70cf17d5:
-    kleio.say "Бесит, что ты заставил меня это сказать, сердцеед, но мне ДО ЗАРЕЗУ нужен твой член внутри!"
-
 # ch/kleio/base.rpy:137
 translate russian kleio_greet_77f4ff38:
     kleio.say "Знаешь, чего я хочу, [lssb_kleio.hero_name()]?"
@@ -317,12 +313,8 @@ translate russian kleio_propose_male_03cfc266:
     "Через пару секунд она смотрит обратно, а меня на прежнем месте уже нет."
 
 # ch/kleio/base.rpy:223
-translate russian kleio_propose_male_bc36dfe8:
+translate russian kleio_propose_male_867b36ed:
     kleio.say "А?.. Какого хрена?"
-
-# ch/kleio/base.rpy:224
-translate russian kleio_propose_male_afb34799:
-    kleio.say "Ты куда делся, сердцеед?"
 
 # ch/kleio/base.rpy:225
 translate russian kleio_propose_male_d442dabf:
@@ -377,11 +369,11 @@ translate russian kleio_propose_male_4e7ced5f:
     "Поэтому просто следую заготовленному в голове тексту."
 
 # ch/kleio/base.rpy:239
-translate russian kleio_propose_male_4858ce03:
+translate russian kleio_propose_male_7ec50e59:
     mike.say "Э-э... нет, Клео."
 
 # ch/kleio/base.rpy:240
-translate russian kleio_propose_male_5bf917d3:
+translate russian kleio_propose_male_1db63109:
     mike.say "Я... я хотел спросить..."
 
 # ch/kleio/base.rpy:241
@@ -425,7 +417,7 @@ translate russian kleio_propose_male_f63b2d87:
     "И отчаянно пытаюсь хоть что-то спасти."
 
 # ch/kleio/base.rpy:254
-translate russian kleio_propose_male_60e0a6b3:
+translate russian kleio_propose_male_2f39ef16:
     mike.say "Я... понимаю, что это неожиданно, Клео."
 
 # ch/kleio/base.rpy:255
@@ -461,11 +453,11 @@ translate russian kleio_propose_male_86736f15:
     "Но затем прихожу в себя после отказа и начинаю прятать кольцо в карман."
 
 # ch/kleio/base.rpy:264
-translate russian kleio_propose_male_08e2d09f:
+translate russian kleio_propose_male_5e05c262:
     mike.say "Да... конечно..."
 
 # ch/kleio/base.rpy:265
-translate russian kleio_propose_male_7929b46e:
+translate russian kleio_propose_male_f25c27fe:
     mike.say "Я... сам не знаю, о чём думал, Клео."
 
 # ch/kleio/base.rpy:266
@@ -485,7 +477,7 @@ translate russian kleio_propose_male_2e93fa9a:
     "Словно понимает, как больно ранила меня резкими словами."
 
 # ch/kleio/base.rpy:271
-translate russian kleio_propose_male_677a3474:
+translate russian kleio_propose_male_2c97fe5d:
     kleio.say "Слушай, [lssb_kleio.hero_name()]... Я... прости, ладно?"
 
 # ch/kleio/base.rpy:272
@@ -512,16 +504,12 @@ translate russian kleio_propose_male_f7fe280a:
 translate russian kleio_propose_male_ef5e3439:
     mike.say "И не последний."
 
-# ch/kleio/base.rpy:279
-translate russian kleio_propose_male_2a8eda73:
-    kleio.say "Эй, это не значит, что я тебя бросаю, сердцеед!"
-
 # ch/kleio/base.rpy:280
 translate russian kleio_propose_male_245e2a1b:
     kleio.say "По крайней мере, не обязательно..."
 
 # ch/kleio/base.rpy:281
-translate russian kleio_propose_male_4b6b492b:
+translate russian kleio_propose_male_86df174d:
     kleio.say "То есть... я не хочу!"
 
 # ch/kleio/base.rpy:282
@@ -557,7 +545,7 @@ translate russian kleio_propose_male_44c2ed11:
     "Затем поднимает руку, размахивая кольцом, словно трофеем."
 
 # ch/kleio/base.rpy:294
-translate russian kleio_propose_male_c84cee10:
+translate russian kleio_propose_male_f33951ee:
     kleio.say "ХА! ДА! ДА!"
 
 # ch/kleio/base.rpy:295
@@ -565,7 +553,7 @@ translate russian kleio_propose_male_2a362338:
     kleio.say "Нашёлся-таки тот, кто хочет на мне жениться!"
 
 # ch/kleio/base.rpy:296
-translate russian kleio_propose_male_007f3df3:
+translate russian kleio_propose_male_b4568ddc:
     kleio.say "Съела, мама? Утрись, папа..."
 
 # ch/kleio/base.rpy:297
@@ -593,7 +581,7 @@ translate russian kleio_propose_male_f3f6b189:
     kleio.say "Девушке уже и порадоваться нельзя, что на ней хотят жениться?!"
 
 # ch/kleio/base.rpy:303
-translate russian kleio_propose_male_3db53ded:
+translate russian kleio_propose_male_b9c53af9:
     mike.say "Д... да, Клео, конечно можно."
 
 # ch/kleio/base.rpy:304
@@ -664,10 +652,6 @@ translate russian kleio_propose_male_a2576227:
 translate russian kleio_propose_male_81e20bd6:
     "И к ней возвращается привычное самообладание."
 
-# ch/kleio/base.rpy:323
-translate russian kleio_propose_male_b3bfa445:
-    kleio.say "Заливаешь, сердцеед!"
-
 # ch/kleio/base.rpy:324
 translate russian kleio_propose_male_a087eece:
     kleio.say "Но я могу сделать тебя настолько счастливым, насколько смогу."
@@ -716,10 +700,6 @@ translate russian kleio_ask_date_amy_kleio_9b87dd0e:
 translate russian kleio_ask_date_band_fivesome_126b2f1f:
     mike.say "Не хочешь снова собрать всю группу в студии и повторить выступление?"
 
-# ch/kleio/base.rpy:405
-translate russian kleio_ask_date_band_fivesome_379f924d:
-    kleio.say "Ещё бы, блядь! Только в этот раз запасись выносливостью, сердцеед."
-
 # ch/kleio/base.rpy:418
 translate russian kleio_ask_date_alone_male_b8c449a2:
     mike.say "Клео, сходишь со мной на свидание?"
@@ -739,10 +719,6 @@ translate russian kleio_desire_0_male_44c99e68:
 # ch/kleio/chat.rpy:6
 translate russian kleio_desire_0_male_e9fe4f39:
     kleio.say "Как дела, [lssb_kleio.hero_name()]?"
-
-# ch/kleio/chat.rpy:8
-translate russian kleio_desire_0_male_23b26a9e:
-    kleio.say "Что-то нужно? Только скажи, сердцеед, я разберусь."
 
 # ch/kleio/chat.rpy:11
 translate russian kleio_desire_0_male_9522fd9d:
@@ -803,10 +779,6 @@ translate russian kleio_desire_2_male_58ec15ad:
 # ch/kleio/chat.rpy:49
 translate russian kleio_desire_2_male_6ce8ef73:
     mike.say "Расслабься, я не пытаюсь тебя очаровать."
-
-# ch/kleio/chat.rpy:50
-translate russian kleio_desire_2_male_6f22fd72:
-    kleio.say "Вот и хорошо. Всё равно бы не вышло, сердцеед."
 
 # ch/kleio/chat.rpy:57
 translate russian kleio_desire_3_male_8ca2f4ab:
@@ -880,10 +852,6 @@ translate russian kleio_desire_5_male_d28be4c7:
 translate russian kleio_desire_5_male_17316e25:
     mike.say "Может, позже, Клео. Сейчас не время."
 
-# ch/kleio/chat.rpy:105
-translate russian kleio_desire_5_male_dac8a012:
-    kleio.say "Как хочешь. Сам себя обделяешь, сердцеед."
-
 # ch/kleio/chat.rpy:112
 translate russian kleio_love_0_male_a7985f7c:
     kleio.say "Пошёл от меня к чёрту."
@@ -919,10 +887,6 @@ translate russian kleio_love_1_male_ace6e393:
 # ch/kleio/chat.rpy:134
 translate russian kleio_love_1_male_f25cd01b:
     mike.say "Хороший парень? Из твоих уст, Клео, приму как комплимент."
-
-# ch/kleio/chat.rpy:135
-translate russian kleio_love_1_male_d615c8a2:
-    kleio.say "Только не зазнавайся, сердцеед."
 
 # ch/kleio/chat.rpy:138
 translate russian kleio_love_1_male_ff5db230:
@@ -988,10 +952,6 @@ translate russian kleio_love_3_male_ac15630a:
 translate russian kleio_love_3_male_9332bb6d:
     mike.say "Мне стоит бояться конкуренции?"
 
-# ch/kleio/chat.rpy:180
-translate russian kleio_love_3_male_3a3063da:
-    kleio.say "Расслабься, сердцеед. Я не собираюсь бегать за незнакомкой. Своим не делюсь и сама общей быть не хочу. Ясно?"
-
 # ch/kleio/chat.rpy:183
 translate russian kleio_love_3_male_2400e8f1:
     mike.say "Как скажешь, Клео."
@@ -1015,10 +975,6 @@ translate russian kleio_love_4_male_b2b86df6:
 # ch/kleio/chat.rpy:199
 translate russian kleio_love_4_male_ad313e03:
     mike.say "Нам обязательно это как-то называть?"
-
-# ch/kleio/chat.rpy:200
-translate russian kleio_love_4_male_5eaa018f:
-    kleio.say "Наверное, нет. Забудь, сердцеед."
 
 # ch/kleio/chat.rpy:203
 translate russian kleio_love_4_male_9c008599:
@@ -1061,12 +1017,8 @@ translate russian kleio_good_sweet_talk_male_fde41948:
     mike.say "Я уже говорил, что ты чертовски дерзкая, Клео?"
 
 # ch/kleio/chat.rpy:233
-translate russian kleio_good_sweet_talk_male_37ae6be8:
+translate russian kleio_good_sweet_talk_male_c6c302ff:
     mike.say "Потому что это так... И мне нравится!"
-
-# ch/kleio/chat.rpy:235
-translate russian kleio_good_sweet_talk_male_63756072:
-    kleio.say "О-о... Спасибо, сердцеед!"
 
 # ch/kleio/chat.rpy:236
 translate russian kleio_good_sweet_talk_male_0ea7b50a:
@@ -1079,10 +1031,6 @@ translate russian kleio_good_sweet_talk_male_4fa1cc76:
 # ch/kleio/chat.rpy:239
 translate russian kleio_good_sweet_talk_male_fcd09552:
     mike.say "Те, что уже есть, тебе очень идут!"
-
-# ch/kleio/chat.rpy:241
-translate russian kleio_good_sweet_talk_male_6c7faa29:
-    kleio.say "Спасибо, сердцеед!"
 
 # ch/kleio/chat.rpy:242
 translate russian kleio_good_sweet_talk_male_ec0e1c76:
@@ -1120,16 +1068,12 @@ translate russian kleio_bad_sweet_talk_male_9d04b76d:
 translate russian kleio_bad_sweet_talk_male_cdcc9f22:
     mike.say "Но не мне... По-моему, это мило!"
 
-# ch/kleio/chat.rpy:263
-translate russian kleio_bad_sweet_talk_male_ccbc378a:
-    kleio.say "И что это, блядь, должно значить, сердцеед?"
-
 # ch/kleio/chat.rpy:264
 translate russian kleio_bad_sweet_talk_male_cbbc5d9d:
     kleio.say "С какого хрена ты называешь меня милой?!"
 
 # ch/kleio/chat.rpy:265
-translate russian kleio_bad_sweet_talk_male_3698850e:
+translate russian kleio_bad_sweet_talk_male_6f84e630:
     mike.say "Эм... Прости, Клео..."
 
 # ch/kleio/condom.rpy:4
@@ -1173,11 +1117,11 @@ translate russian kleio_use_condom_4dda9fe5:
     mike.say "Лучше воспользоваться презервативом."
 
 # ch/kleio/condom.rpy:16
-translate russian kleio_use_condom_0684c89f:
+translate russian kleio_use_condom_08da6c43:
     kleio.say "А?.. Чт..."
 
 # ch/kleio/condom.rpy:17
-translate russian kleio_use_condom_3d81380e:
+translate russian kleio_use_condom_71454f7d:
     kleio.say "А, да... Ты прав!"
 
 # ch/kleio/condom.rpy:18
@@ -1316,10 +1260,6 @@ translate russian kleio_no_condom_29a2c7c8:
 translate russian kleio_no_condom_eea706a1:
     "Но она кивает и начинает меня подгонять."
 
-# ch/kleio/condom.rpy:90
-translate russian kleio_no_condom_438dcda0:
-    kleio.say "Конечно, сердцеед, конечно!"
-
 # ch/kleio/condom.rpy:91
 translate russian kleio_no_condom_69f89833:
     kleio.say "Просто накрутила себя!"
@@ -1329,20 +1269,12 @@ translate russian kleio_mad_condom_261b29ab:
     "Шарю по прикроватной тумбочке в поисках презерватива, но ничего нет."
 
 # ch/kleio/condom.rpy:98
-translate russian kleio_mad_condom_479879e4:
+translate russian kleio_mad_condom_26be2ead:
     mike.say "Чёрт... Закончились!"
 
 # ch/kleio/condom.rpy:99
 translate russian kleio_mad_condom_bee8f54f:
     "Клео криво улыбается, качает головой и пожимает плечами, слезая с кровати."
-
-# ch/kleio/condom.rpy:100
-translate russian kleio_mad_condom_e4dbaa05:
-    kleio.say "Прости, сердцеед. Похоже, на сегодня с тебя хватит!"
-
-# ch/kleio/condom.rpy:102
-translate russian kleio_mad_condom_f5301f52:
-    kleio.say "Нет уж, спасибо, сердцеед!"
 
 # ch/kleio/condom.rpy:103
 translate russian kleio_mad_condom_7ff39db3:
@@ -1404,10 +1336,6 @@ translate russian kleio_date_intro_valentine_male_04ee46e3:
 translate russian kleio_date_intro_valentine_male_0ec4d51e:
     "Клео поглаживает округлившийся живот и иронично смотрит на меня."
 
-# ch/kleio/date.rpy:5
-translate russian kleio_date_intro_valentine_male_60453e32:
-    kleio.say "Да-да. Ты уже подарил мне единственную валентинку, которая надолго останется со мной, сердцеед."
-
 # ch/kleio/date.rpy:6
 translate russian kleio_date_intro_valentine_male_6a731561:
     "Говорит будто в шутку, но руку с живота не убирает."
@@ -1440,10 +1368,6 @@ translate russian kleio_date_intro_valentine_male_4fe09740:
 translate russian kleio_date_intro_valentine_male_e6346055:
     "Клео разражается смехом."
 
-# ch/kleio/date.rpy:17
-translate russian kleio_date_intro_valentine_male_38d59328:
-    kleio.say "Ты уверен, сердцеед?"
-
 # ch/kleio/date.rpy:18
 translate russian kleio_date_intro_valentine_male_a056451c:
     kleio.say "Со мной День святого Валентина может быть с перчинкой!"
@@ -1455,10 +1379,6 @@ translate russian kleio_date_intro_valentine_male_7544b338:
 # ch/kleio/date.rpy:20
 translate russian kleio_date_intro_valentine_male_7b981ff0:
     mike.say "Ты же знаешь, я люблю твою перчинку!"
-
-# ch/kleio/date.rpy:21
-translate russian kleio_date_intro_valentine_male_989e178f:
-    kleio.say "Ох, ну ты и балбес, сердцеед!"
 
 # ch/kleio/date.rpy:22
 translate russian kleio_date_intro_valentine_male_cf13e9ca:
@@ -1484,12 +1404,8 @@ translate russian kleio_date_intro_valentine_male_488534b0:
 translate russian kleio_date_intro_valentine_male_24bc8507:
     kleio.say "День святого Валентина, да? День, когда лохам впаривают розы втридорога."
 
-# ch/kleio/date.rpy:30
-translate russian kleio_date_intro_valentine_male_665dce1e:
-    kleio.say "Ты же не спустил деньги на эту хрень, сердцеед?"
-
 # ch/kleio/date.rpy:31
-translate russian kleio_date_intro_valentine_male_80737b53:
+translate russian kleio_date_intro_valentine_male_174cb45c:
     mike.say "Э-э... Нет, Клео."
 
 # ch/kleio/date.rpy:32
@@ -1524,16 +1440,12 @@ translate russian kleio_date_intro_halloween_male_e82065a6:
 translate russian kleio_date_intro_halloween_male_3f4e576c:
     kleio.say "Хочешь, чтобы я надела миленький костюмчик и дефилировала перед тобой?"
 
-# ch/kleio/date.rpy:43
-translate russian kleio_date_intro_halloween_male_6a2aac6b:
-    kleio.say "Ты это пытаешься сказать, сердцеед?"
-
 # ch/kleio/date.rpy:44
 translate russian kleio_date_intro_halloween_male_c7537c16:
     "От её прямого вопроса я чувствую, как начинаю краснеть."
 
 # ch/kleio/date.rpy:45
-translate russian kleio_date_intro_halloween_male_1206ee51:
+translate russian kleio_date_intro_halloween_male_bbf581da:
     mike.say "Нет... то есть да... В смысле только если ты сама хочешь, Клео!"
 
 # ch/kleio/date.rpy:46
@@ -1543,10 +1455,6 @@ translate russian kleio_date_intro_halloween_male_9bf11487:
 # ch/kleio/date.rpy:47
 translate russian kleio_date_intro_halloween_male_f37caf02:
     kleio.say "Можно и так. А можно и тебе подефилировать передо мной!"
-
-# ch/kleio/date.rpy:52
-translate russian kleio_date_intro_christmas_male_a4423479:
-    kleio.say "Привет, сердцеед. Полон праздничного духа и прочей хрени?"
 
 # ch/kleio/date.rpy:53
 translate russian kleio_date_intro_christmas_male_3e05371f:
@@ -1564,17 +1472,9 @@ translate russian kleio_date_intro_christmas_male_4d0d005d:
 translate russian kleio_date_intro_christmas_male_598c3e75:
     "Она поглаживает живот и ухмыляется."
 
-# ch/kleio/date.rpy:57
-translate russian kleio_date_intro_christmas_male_b344e15f:
-    kleio.say "Твой подарок уже прижился, сердцеед. А теперь подай эгг-ног и помассируй мне ноги."
-
 # ch/kleio/date.rpy:59
 translate russian kleio_date_intro_christmas_male_5fb0b15b:
     kleio.say "Ну же, [lssb_kleio.hero_name()]. Рождество всё-таки."
-
-# ch/kleio/date.rpy:61
-translate russian kleio_date_intro_christmas_male_c6b31c7b:
-    kleio.say "Эй, сердцеед, полон праздничного духа и прочей хрени?"
 
 # ch/kleio/date.rpy:62
 translate russian kleio_date_intro_christmas_male_4ddd11cd:
@@ -1592,10 +1492,6 @@ translate russian kleio_date_intro_christmas_male_bb5ac8c3:
 translate russian kleio_date_intro_christmas_male_2f60dbba:
     "Клео похабно смеётся: ей нравится, что я не остаюсь в долгу."
 
-# ch/kleio/date.rpy:66
-translate russian kleio_date_intro_christmas_male_f7634902:
-    kleio.say "Вот окажемся под омелой — узнаешь, сердцеед."
-
 # ch/kleio/date.rpy:67
 translate russian kleio_date_intro_christmas_male_ac508bd9:
     kleio.say "Я из тебя, блядь, все соки высосу!"
@@ -1611,10 +1507,6 @@ translate russian kleio_date_intro_birthday_male_a395e16b:
 # ch/kleio/date.rpy:74
 translate russian kleio_date_intro_birthday_male_08bf1191:
     "Она медленно поглаживает живот. На лице попеременно недовольство и что-то более нежное."
-
-# ch/kleio/date.rpy:75
-translate russian kleio_date_intro_birthday_male_822deef6:
-    kleio.say "Вот такой день рождения, сердцеед."
 
 # ch/kleio/date.rpy:76
 translate russian kleio_date_intro_birthday_male_1ae1a802:
@@ -1644,16 +1536,12 @@ translate russian kleio_date_intro_birthday_male_828fd3f2_1:
 translate russian kleio_date_intro_birthday_male_44977a65:
     kleio.say "А-а..."
 
-# ch/kleio/date.rpy:86
-translate russian kleio_date_intro_birthday_male_f2d368d4:
-    kleio.say "С чем тут поздравлять, сердцеед?"
-
 # ch/kleio/date.rpy:87
 translate russian kleio_date_intro_birthday_male_b597aecd:
     kleio.say "Я всего лишь стала на год старше!"
 
 # ch/kleio/date.rpy:88
-translate russian kleio_date_intro_birthday_male_4a0ac48b:
+translate russian kleio_date_intro_birthday_male_a25ce74c:
     mike.say "Эм... Да, Клео... Понимаю, о чём ты..."
 
 # ch/kleio/date.rpy:89
@@ -1664,10 +1552,6 @@ translate russian kleio_date_intro_birthday_male_cc523acb:
 translate russian kleio_date_intro_birthday_male_a019cf3e:
     kleio.say "Вот теперь ты говоришь на моём языке!"
 
-# ch/kleio/date.rpy:94
-translate russian kleio_date_intro_mc_birthday_male_7b3bea90:
-    kleio.say "С днём рождения, сердцеед!"
-
 # ch/kleio/date.rpy:95
 translate russian kleio_date_intro_mc_birthday_male_b4e3d12b:
     kleio.say "Ну что, сегодня оторвёмся?"
@@ -1677,7 +1561,7 @@ translate russian kleio_date_intro_mc_birthday_male_203b8c8b:
     kleio.say "Как следует отметим твой день?"
 
 # ch/kleio/date.rpy:97
-translate russian kleio_date_intro_mc_birthday_male_e51aded4:
+translate russian kleio_date_intro_mc_birthday_male_71032d40:
     mike.say "Д... да, Клео!"
 
 # ch/kleio/date.rpy:98
@@ -1828,10 +1712,6 @@ translate russian kleio_dance_with_614e38b1:
 translate russian kleio_dance_with_8f069aba:
     "Я нервно сглатываю, чувствуя, как она трётся об меня своим стройным упругим телом."
 
-# ch/kleio/date.rpy:181
-translate russian kleio_date_play_arcade_intro_male_d5296788:
-    kleio.say "Тут попахивает, сердцеед!"
-
 # ch/kleio/date.rpy:182
 translate russian kleio_date_play_arcade_intro_male_8b74c200:
     kleio.say "Тебе правда нравится здесь торчать?"
@@ -1953,7 +1833,7 @@ translate russian kleio_date_play_arcade_win_male_59d34575:
     kleio.say "А едет как кусок говна!"
 
 # ch/kleio/date.rpy:215
-translate russian kleio_date_play_arcade_win_male_e4df486c:
+translate russian kleio_date_play_arcade_win_male_a7ef6a5a:
     mike.say "Э-э... Ты сильно отстаёшь, Клео."
 
 # ch/kleio/date.rpy:216
@@ -1975,10 +1855,6 @@ translate russian kleio_date_play_arcade_win_male_a8b6628d:
 # ch/kleio/date.rpy:220
 translate russian kleio_date_play_arcade_win_male_c42fb658:
     "Клянусь, она уже чуть не протёрла дыры в кнопках!"
-
-# ch/kleio/date.rpy:221
-translate russian kleio_date_play_arcade_win_male_b630cc53:
-    kleio.say "Ну вот, сердцеед."
 
 # ch/kleio/date.rpy:222
 translate russian kleio_date_play_arcade_win_male_962713ce:
@@ -2020,16 +1896,12 @@ translate russian kleio_date_play_arcade_lose_male_cc27b26e:
 translate russian kleio_date_play_arcade_lose_male_7606dc25:
     kleio.say "Ю-ху!"
 
-# ch/kleio/date.rpy:235
-translate russian kleio_date_play_arcade_lose_male_3d7e0d31:
-    kleio.say "Пока-пока, сердцеед!"
-
 # ch/kleio/date.rpy:236
 translate russian kleio_date_play_arcade_lose_male_599b2ace:
     kleio.say "Вот это я жгу резину!"
 
 # ch/kleio/date.rpy:237
-translate russian kleio_date_play_arcade_lose_male_61b8c4ce:
+translate russian kleio_date_play_arcade_lose_male_370d3cba:
     mike.say "Эй... Я... никак не могу..."
 
 # ch/kleio/date.rpy:238
@@ -2051,10 +1923,6 @@ translate russian kleio_date_play_arcade_lose_male_6add43d6:
 # ch/kleio/date.rpy:242
 translate russian kleio_date_play_arcade_lose_male_6d9a01f1:
     "Руки приходится буквально отрывать от автомата!"
-
-# ch/kleio/date.rpy:243
-translate russian kleio_date_play_arcade_lose_male_b630cc53:
-    kleio.say "Ну вот, сердцеед."
 
 # ch/kleio/date.rpy:244
 translate russian kleio_date_play_arcade_lose_male_b2937e1c:
@@ -2096,17 +1964,9 @@ translate russian kleio_dick_reactions_883bdcc0:
 translate russian kleio_dick_reactions_21c8a8ed:
     mike.say "Ну спасибо, Клео!"
 
-# ch/kleio/date.rpy:261
-translate russian kleio_dick_reactions_673e8cf8:
-    kleio.say "Да ладно, сердцеед, не дуйся."
-
 # ch/kleio/date.rpy:263
 translate russian kleio_dick_reactions_e8ba6b82:
     kleio.say "Иди лучше поблагодари меня этой штукой!"
-
-# ch/kleio/date.rpy:267
-translate russian kleio_dick_reactions_dad8a31a:
-    kleio.say "Беру свои слова назад, сердцеед."
 
 # ch/kleio/date.rpy:268
 translate russian kleio_dick_reactions_e5455161:
@@ -2201,7 +2061,7 @@ translate russian kleio_halloween_invitation_75ec9ed5:
     mike.say "И я подумал: может, ты хочешь прийти?"
 
 # ch/kleio/date.rpy:299
-translate russian kleio_halloween_invitation_f38d0c55:
+translate russian kleio_halloween_invitation_d1c4cd49:
     mike.say "Ну... Со мной, вроде как на свидание?"
 
 # ch/kleio/date.rpy:300
@@ -2225,28 +2085,20 @@ translate russian kleio_halloween_invitation_30e74fc5:
     mike.say "Эм..."
 
 # ch/kleio/date.rpy:306
-translate russian kleio_halloween_invitation_3a453ef2:
+translate russian kleio_halloween_invitation_7abb9561:
     mike.say "Кажется, про костюмы что-то говорили... Да."
-
-# ch/kleio/date.rpy:307
-translate russian kleio_halloween_invitation_9861bd59:
-    kleio.say "И у тебя уже нарисовалась картинка в голове, да, сердцеед?"
 
 # ch/kleio/date.rpy:308
 translate russian kleio_halloween_invitation_1bc5f5f7:
     kleio.say "Может, представляешь меня в каком-нибудь особенном костюмчике, а?"
 
 # ch/kleio/date.rpy:309
-translate russian kleio_halloween_invitation_506c89b8:
+translate russian kleio_halloween_invitation_53f8fcfb:
     mike.say "Я... я..."
 
 # ch/kleio/date.rpy:313
 translate russian kleio_halloween_invitation_197ca6dd:
     "Клео качает головой и заливисто смеётся."
-
-# ch/kleio/date.rpy:314
-translate russian kleio_halloween_invitation_1c5bfd7e:
-    kleio.say "Ладно, сердцеед."
 
 # ch/kleio/date.rpy:315
 translate russian kleio_halloween_invitation_d1d58fae:
@@ -2276,10 +2128,6 @@ translate russian kleio_halloween_invitation_5440730f:
 translate russian kleio_halloween_invitation_4e493689:
     kleio.say "Эй!"
 
-# ch/kleio/date.rpy:323
-translate russian kleio_halloween_invitation_68285e7b:
-    kleio.say "Притормози, сердцеед."
-
 # ch/kleio/date.rpy:324
 translate russian kleio_halloween_invitation_5463ce70:
     kleio.say "Есть одно условие."
@@ -2297,11 +2145,11 @@ translate russian kleio_halloween_invitation_c579e323:
     kleio.say "Хочешь увидеть меня в милом костюмчике, да?"
 
 # ch/kleio/date.rpy:328
-translate russian kleio_halloween_invitation_e4cab34a:
+translate russian kleio_halloween_invitation_8912fdf5:
     mike.say "Эм... Да, Клео."
 
 # ch/kleio/date.rpy:329
-translate russian kleio_halloween_invitation_999c68ba:
+translate russian kleio_halloween_invitation_c055c6fe:
     mike.say "То есть... если ты сама захочешь его надеть."
 
 # ch/kleio/date.rpy:330
@@ -2340,10 +2188,6 @@ translate russian kleio_halloween_invitation_42e2aa5b:
 translate russian kleio_halloween_invitation_5fb63261:
     "Клео заливисто смеётся и качает головой."
 
-# ch/kleio/date.rpy:343
-translate russian kleio_halloween_invitation_7f8e19dd:
-    kleio.say "Ну блядь, сердцеед!"
-
 # ch/kleio/date.rpy:344
 translate russian kleio_halloween_invitation_6da8a5d4:
     kleio.say "Ты бы ещё очевиднее намекнул!"
@@ -2372,10 +2216,6 @@ translate russian kleio_halloween_invitation_063b2305:
 translate russian kleio_halloween_invitation_52817abf:
     mike.say "Наверное, я просто не подумал..."
 
-# ch/kleio/date.rpy:353
-translate russian kleio_halloween_invitation_e48a54ef:
-    kleio.say "Ну не кисни, сердцеед."
-
 # ch/kleio/date.rpy:354
 translate russian kleio_halloween_invitation_4fac2e73:
     kleio.say "Я на тебя не злюсь."
@@ -2391,10 +2231,6 @@ translate russian kleio_halloween_invitation_33e4d6d2:
 # ch/kleio/date.rpy:357
 translate russian kleio_halloween_invitation_240ecfd2:
     mike.say "Предлагаешь бросить вечеринку?"
-
-# ch/kleio/date.rpy:358
-translate russian kleio_halloween_invitation_021de14c:
-    kleio.say "Да, сердцеед."
 
 # ch/kleio/date.rpy:360
 translate russian kleio_halloween_invitation_b444f447:
@@ -2413,12 +2249,8 @@ translate russian kleio_halloween_invitation_131eac07:
     "Я киваю: звучит это весьма заманчиво."
 
 # ch/kleio/date.rpy:364
-translate russian kleio_halloween_invitation_f26a6575:
+translate russian kleio_halloween_invitation_6f8753dc:
     mike.say "Я... подумаю, Клео."
-
-# ch/kleio/date.rpy:366
-translate russian kleio_halloween_invitation_44129972:
-    kleio.say "Только не думай слишком долго, сердцеед."
 
 # ch/kleio/date.rpy:367
 translate russian kleio_halloween_invitation_74746c93:
@@ -2465,7 +2297,7 @@ translate russian kleio_halloween_arrival_b3367716:
     "Всё становится понятно, когда я узнаю её костюм."
 
 # ch/kleio/date.rpy:383
-translate russian kleio_halloween_arrival_b0592cc2:
+translate russian kleio_halloween_arrival_48a35d40:
     mike.say "Ч... Чарли Куин?!"
 
 # ch/kleio/date.rpy:385
@@ -2489,7 +2321,7 @@ translate russian kleio_halloween_arrival_de8823c8:
     "Идеальная Чарли Куин, вплоть до безумной улыбки!"
 
 # ch/kleio/date.rpy:392
-translate russian kleio_halloween_arrival_0b85c0fb:
+translate russian kleio_halloween_arrival_74c434bb:
     mike.say "Е... если безумие выглядит так..."
 
 # ch/kleio/date.rpy:393
@@ -2511,10 +2343,6 @@ translate russian kleio_halloween_arrival_e79b35aa:
 # ch/kleio/date.rpy:399
 translate russian kleio_halloween_arrival_6f645d78:
     kleio.say "Ты правда так думаешь, пупсик?"
-
-# ch/kleio/date.rpy:400
-translate russian kleio_halloween_arrival_d0f1407c:
-    kleio.say "То есть... сердцеед?"
 
 # ch/kleio/date.rpy:401
 translate russian kleio_halloween_arrival_813e5ccc:
@@ -2672,10 +2500,6 @@ translate russian kleio_halloween_party_6f3382b3:
 translate russian kleio_halloween_party_f1d8a63c:
     mike.say "Эм..."
 
-# ch/kleio/date.rpy:461
-translate russian kleio_halloween_party_31f4f2f6:
-    mike.say "Клео просто шутит, [bree.name]!"
-
 # ch/kleio/date.rpy:463
 translate russian kleio_halloween_party_abf32d1f:
     kleio.say "Да ну? Правда, что ли?!"
@@ -2687,10 +2511,6 @@ translate russian kleio_halloween_party_dd3ff199:
 # ch/kleio/date.rpy:465
 translate russian kleio_halloween_party_30b6729f:
     bree.say "Не очень-то смешно!"
-
-# ch/kleio/date.rpy:467
-translate russian kleio_halloween_party_607a1ae9:
-    mike.say "Слушай, [bree.name], Клео работает автомехаником."
 
 # ch/kleio/date.rpy:468
 translate russian kleio_halloween_party_2734c698:
@@ -2716,10 +2536,6 @@ translate russian kleio_halloween_party_eb72730a:
 translate russian kleio_halloween_party_a72e0c27:
     "Наконец-то можно выдохнуть."
 
-# ch/kleio/date.rpy:480
-translate russian kleio_halloween_party_fbcfd0cb:
-    kleio.say "Ловко выкрутился, сердцеед!"
-
 # ch/kleio/date.rpy:482
 translate russian kleio_halloween_party_f805e4ea:
     mike.say "Клео, да отстань уже!"
@@ -2743,10 +2559,6 @@ translate russian kleio_halloween_party_506d724b:
 # ch/kleio/date.rpy:491
 translate russian kleio_halloween_party_4517965e:
     "А Клео фыркает и качает головой."
-
-# ch/kleio/date.rpy:492
-translate russian kleio_halloween_party_b2e55bb5:
-    kleio.say "Господи, сердцеед."
 
 # ch/kleio/date.rpy:493
 translate russian kleio_halloween_party_99c4b9a7:
@@ -2796,10 +2608,6 @@ translate russian kleio_halloween_dance_9cb7345a:
 translate russian kleio_halloween_dance_cd8ce8e7:
     "Боюсь, вдруг сочтёт это сексизмом или ещё чем-нибудь."
 
-# ch/kleio/date.rpy:515
-translate russian kleio_halloween_dance_4014166a:
-    kleio.say "Эй, сердцеед!"
-
 # ch/kleio/date.rpy:516
 translate russian kleio_halloween_dance_91e95b3a:
     mike.say "Эм..."
@@ -2833,7 +2641,7 @@ translate russian kleio_halloween_dance_4062250e:
     "Какая разница, кто кого пригласил?"
 
 # ch/kleio/date.rpy:527
-translate russian kleio_halloween_dance_2f76bc50:
+translate russian kleio_halloween_dance_804debea:
     mike.say "П... погоди, Клео."
 
 # ch/kleio/date.rpy:529
@@ -2919,10 +2727,6 @@ translate russian kleio_halloween_dance_b535c037:
 # ch/kleio/date.rpy:555
 translate russian kleio_halloween_dance_4662505c:
     "Клео закатывает глаза и усмехается."
-
-# ch/kleio/date.rpy:556
-translate russian kleio_halloween_dance_6fb543f1:
-    kleio.say "Знаешь что, сердцеед? Давай как-нибудь в другой раз."
 
 # ch/kleio/date.rpy:557
 translate russian kleio_halloween_dance_7e76b451:
@@ -3033,7 +2837,7 @@ translate russian kleio_halloween_sex_38057474:
     "Пытаюсь сопротивляться, но она пугающе сильная."
 
 # ch/kleio/date.rpy:600
-translate russian kleio_halloween_sex_2e532194:
+translate russian kleio_halloween_sex_1a1deb5f:
     mike.say "А... а если Саша нас застукает?"
 
 # ch/kleio/date.rpy:601
@@ -3685,7 +3489,7 @@ translate russian kleio_event_01_b266250f:
     "Снова молча проходим через почти пустой торговый центр и выходим той же дверью. Наконец Клео заговаривает."
 
 # ch/kleio/events.rpy:833
-translate russian kleio_event_01_c8c8e58a:
+translate russian kleio_event_01_007d39e1:
     kleio.say "Прости, что сегодня была такой отстранённой. У меня... кое-что происходит. Хотелось отвлечься."
 
 # ch/kleio/events.rpy:834
@@ -4120,10 +3924,6 @@ translate russian kleio_event_02_8b5157bb:
 translate russian kleio_event_02_6cc97bde:
     "Мои мечтания прерывает резкий смех Клео."
 
-# ch/kleio/events.rpy:1010
-translate russian kleio_event_02_f6f9fb46:
-    kleio.say "Наслаждайся видом, сердцеед. В ближайшее время больше тебе ничего не светит."
-
 # ch/kleio/events.rpy:1015
 translate russian kleio_event_02_4c5c877c:
     "Она тут же ложится грудью вниз, скрываясь от моего взгляда и подставляя спину под иглу."
@@ -4169,7 +3969,7 @@ translate russian kleio_event_02_46ce3665:
     kleio.say "Почему? Боишься?"
 
 # ch/kleio/events.rpy:1034
-translate russian kleio_event_02_abb31cb7:
+translate russian kleio_event_02_644982ae:
     mike.say "Да... Я, наверное, просто плохо переношу боль."
 
 # ch/kleio/events.rpy:1035
@@ -4243,10 +4043,6 @@ translate russian kleio_event_02_071cb677:
 # ch/kleio/events.rpy:1059
 translate russian kleio_event_02_99a47b51:
     mike.say "Э-э, может, в другой раз. Хочется ещё обдумать."
-
-# ch/kleio/events.rpy:1060
-translate russian kleio_event_02_796dc0be:
-    kleio.say "Как хочешь, сердцеед. Ты бы стал раз в десять горячее."
 
 # ch/kleio/events.rpy:1061
 translate russian kleio_event_02_ea879f35:
@@ -4813,7 +4609,7 @@ translate russian kleio_event_03_5a1f2f52:
     "Спускаемся молча, каждый по-своему запоминая увиденное."
 
 # ch/kleio/events.rpy:1306
-translate russian kleio_event_03_cbe93b20:
+translate russian kleio_event_03_0bd0b103:
     kleio.say "Ну... Может, выпьем кофе или ещё чего? Поговорим о том, что увидели?"
 
 # ch/kleio/events.rpy:1307
@@ -4837,7 +4633,7 @@ translate russian kleio_event_03_f9b84476:
     "Улыбаюсь ей и протягиваю руку через консоль, беря её за ладонь, прежде чем мы едем навстречу утреннему солнцу."
 
 # ch/kleio/events.rpy:1316
-translate russian kleio_event_03_a9b3c5fa:
+translate russian kleio_event_03_c1188848:
     kleio.say "Ну... Наверное, всё. Могу отвезти тебя домой."
 
 # ch/kleio/events.rpy:1317
@@ -4861,7 +4657,7 @@ translate russian kleio_event_03_923887a3:
     kleio.say "Ладно. Доспишь то, что я тебе не дала."
 
 # ch/kleio/events.rpy:1322
-translate russian kleio_event_03_d204b0f8:
+translate russian kleio_event_03_67712caf:
     mike.say "Да... да. Хорошо."
 
 # ch/kleio/events.rpy:1323
@@ -5065,7 +4861,7 @@ translate russian kleio_event_04_0f40b40c:
     "Мужик смотрит так, словно я сморозил невероятную глупость, и медленно качает головой."
 
 # ch/kleio/events.rpy:1413
-translate russian kleio_event_04_6b1bc64a:
+translate russian kleio_event_04_ea0cd0c2:
     mike.say "Эм... Ладно. А Кей внутри?"
 
 # ch/kleio/events.rpy:1414
@@ -5160,12 +4956,8 @@ translate russian kleio_event_04_1332728e:
 translate russian kleio_event_04_7b94b0cd:
     "Когда она наконец поднимает щиток маски, я почти задерживаю дыхание в ожидании."
 
-# ch/kleio/events.rpy:1438
-translate russian kleio_event_04_c9804037:
-    kleio.say "Привет, сердцеед. Нравится зрелище?"
-
 # ch/kleio/events.rpy:1439
-translate russian kleio_event_04_b68ab575:
+translate russian kleio_event_04_86c80bc6:
     mike.say "А?.. Клео... Это правда ты?!"
 
 # ch/kleio/events.rpy:1440
@@ -5241,7 +5033,7 @@ translate russian kleio_event_04_0c8807e1:
     "Не знаю, нарочно ли она говорит двусмысленно, поэтому решаю не обращать внимания и продолжать."
 
 # ch/kleio/events.rpy:1458
-translate russian kleio_event_04_92b61aa3:
+translate russian kleio_event_04_61156799:
     mike.say "Да... да... Хотел попросить тебя посмотреть машину."
 
 # ch/kleio/events.rpy:1459
@@ -5351,10 +5143,6 @@ translate russian kleio_event_04_769d8032:
 # ch/kleio/events.rpy:1497
 translate russian kleio_event_04_a2d39447:
     kleio.say "Без проблем. С такими легко справиться, очень предсказуемые, понимаешь?"
-
-# ch/kleio/events.rpy:1498
-translate russian kleio_event_04_40ae7036:
-    mike.say "Да... наверное."
 
 # ch/kleio/events.rpy:1499
 translate russian kleio_event_04_6bb32ee6:
@@ -5893,7 +5681,7 @@ translate russian kleio_event_05b_da0847c3:
     mike.say "Ремонт влетит в копеечку, да?"
 
 # ch/kleio/events.rpy:1760
-translate russian kleio_event_05b_51080231:
+translate russian kleio_event_05b_567573c3:
     mike.say "Ладно, ладно... Просто скажи, сколько. Давай уже покончим с этим!"
 
 # ch/kleio/events.rpy:1761
@@ -5909,7 +5697,7 @@ translate russian kleio_event_05b_a549c047:
     mike.say "Ну, Клео, неужели всё так плохо?!"
 
 # ch/kleio/events.rpy:1764
-translate russian kleio_event_05b_a731a749:
+translate russian kleio_event_05b_bbc2a27f:
     kleio.say "Нет... нет... Ты не так понял."
 
 # ch/kleio/events.rpy:1765
@@ -5933,7 +5721,7 @@ translate russian kleio_event_05b_497e8fa1:
     "Смотрю на часы и недоумённо хмурюсь."
 
 # ch/kleio/events.rpy:1770
-translate russian kleio_event_05b_7785a812:
+translate russian kleio_event_05b_671f5fdd:
     mike.say "Ну... А до утра это не могло подождать?"
 
 # ch/kleio/events.rpy:1771
@@ -5945,7 +5733,7 @@ translate russian kleio_event_05b_cf0edc6d:
     "Снова напряжённая тишина. Мысленно умоляю Клео прямо сказать, чего она хочет."
 
 # ch/kleio/events.rpy:1773
-translate russian kleio_event_05b_4fb7e966:
+translate russian kleio_event_05b_9b81e713:
     kleio.say "Могло, конечно... Просто я занялась ею после работы. Ты ведь друг."
 
 # ch/kleio/events.rpy:1774
@@ -5961,7 +5749,7 @@ translate russian kleio_event_05b_5f08e1aa:
     mike.say "А, понятно..."
 
 # ch/kleio/events.rpy:1777
-translate russian kleio_event_05b_4dda90d6:
+translate russian kleio_event_05b_2a1d3626:
     mike.say "Слушай, прости, Клео. Я повёл себя неблагодарно."
 
 # ch/kleio/events.rpy:1778
@@ -6073,7 +5861,7 @@ translate russian kleio_event_05b_31a31d81:
     "Повторяя, она выглядит почти застенчивой. Это удивляет едва ли не сильнее самих слов."
 
 # ch/kleio/events.rpy:1811
-translate russian kleio_event_05b_03085875:
+translate russian kleio_event_05b_c7bbba9b:
     kleio.say "Я сказала... Хочу, чтобы ты и меня так завёл..."
 
 # ch/kleio/events.rpy:1812
@@ -6269,7 +6057,7 @@ translate russian kleio_event_05b_92e2de13:
     "Клео довольно посмеивается, обнимая меня. Последние отголоски оргазма всё ещё заставляют меня вздрагивать и двигаться в ней."
 
 # ch/kleio/events.rpy:1877
-translate russian kleio_event_05b_400fb8f2:
+translate russian kleio_event_05b_2369ff46:
     kleio.say "Основы обслуживания мотора: чтобы двигатель был здоров, его надо регулярно гонять и давать ему полную нагрузку!"
 
 # ch/kleio/events.rpy:1878
@@ -6348,10 +6136,6 @@ translate russian kleio_event_05c_22e0f7b1:
 translate russian kleio_event_05c_525e6f10:
     "Когда наконец подхожу, она высовывает и голову."
 
-# ch/kleio/events.rpy:1908
-translate russian kleio_event_05c_19291045:
-    kleio.say "Привет, сердцеед."
-
 # ch/kleio/events.rpy:1909
 translate russian kleio_event_05c_a7b33f33:
     kleio.say "Вернула твою трахомобильку, как и обещала!"
@@ -6407,10 +6191,6 @@ translate russian kleio_event_05c_44aca55f:
 # ch/kleio/events.rpy:1922
 translate russian kleio_event_05c_ffd1afc5:
     "Клео пинает шину и пренебрежительно качает головой."
-
-# ch/kleio/events.rpy:1923
-translate russian kleio_event_05c_fb2e0468:
-    kleio.say "Бесплатно, сердцеед."
 
 # ch/kleio/events.rpy:1924
 translate russian kleio_event_05c_3a415c98:
@@ -6509,7 +6289,7 @@ translate russian kleio_event_06_e398a85d:
     "На миг я даже не понимаю вопроса."
 
 # ch/kleio/events.rpy:1964
-translate russian kleio_event_06_a2a36708:
+translate russian kleio_event_06_85ca0b14:
     mike.say "Э-э... Видимо, не там, где должен быть?"
 
 # ch/kleio/events.rpy:1965
@@ -6525,7 +6305,7 @@ translate russian kleio_event_06_dcf48e03:
     kleio.say "А тебя нет, чтобы поддержать меня!"
 
 # ch/kleio/events.rpy:1968
-translate russian kleio_event_06_3f0aac79:
+translate russian kleio_event_06_b3d710cc:
     mike.say "Протест? Какой протест?"
 
 # ch/kleio/events.rpy:1969
@@ -6621,11 +6401,11 @@ translate russian kleio_event_06_749e6fbd:
     "Сгибаюсь пополам, упираюсь ладонями в колени и сразу начинаю извиняться."
 
 # ch/kleio/events.rpy:1997
-translate russian kleio_event_06_d5384aa2:
+translate russian kleio_event_06_59b5e65b:
     mike.say "Прости... Клео..."
 
 # ch/kleio/events.rpy:1998
-translate russian kleio_event_06_a1b609cb:
+translate russian kleio_event_06_5196099f:
     mike.say "Совсем... забыл..."
 
 # ch/kleio/events.rpy:1999
@@ -6892,10 +6672,6 @@ translate russian kleio_event_06b_6540aef2:
 translate russian kleio_event_06b_b03f5139:
     "Клео фыркает и качает головой."
 
-# ch/kleio/events.rpy:2085
-translate russian kleio_event_06b_812e7345:
-    kleio.say "Господи помилуй, сердцеед!"
-
 # ch/kleio/events.rpy:2086
 translate russian kleio_event_06b_d71380f5:
     kleio.say "Ты же полчаса назад ел."
@@ -7017,7 +6793,7 @@ translate russian kleio_event_06b_161067a7:
     kleio.say "Так весь смысл пропадает, понимаешь?"
 
 # ch/kleio/events.rpy:2117
-translate russian kleio_event_06b_ad93d33d:
+translate russian kleio_event_06b_fe1a40de:
     kleio.say "Уф... А я ведь..."
 
 # ch/kleio/events.rpy:2118
@@ -7049,12 +6825,8 @@ translate russian kleio_event_06b_c0150bf9:
     mike.say "Я НЕ похож на твоего отца."
 
 # ch/kleio/events.rpy:2126
-translate russian kleio_event_06b_6bbf6d00:
+translate russian kleio_event_06b_091f661c:
     mike.say "И это... хорошо?"
-
-# ch/kleio/events.rpy:2127
-translate russian kleio_event_06b_253dcd51:
-    kleio.say "Ещё как хорошо, блядь, сердцеед!"
 
 # ch/kleio/events.rpy:2129
 translate russian kleio_event_06b_ad7f8a0a:
@@ -7109,7 +6881,7 @@ translate russian kleio_event_06b_450a1fa4:
     mike.say "И от меня это скрывать не нужно."
 
 # ch/kleio/events.rpy:2144
-translate russian kleio_event_06b_36d93ff9:
+translate russian kleio_event_06b_03b3b558:
     mike.say "Я... не представляю, каково это."
 
 # ch/kleio/events.rpy:2145
@@ -7117,7 +6889,7 @@ translate russian kleio_event_06b_e57c7dfe:
     mike.say "Не стану говорить, что понимаю. Потому что не понимаю."
 
 # ch/kleio/events.rpy:2146
-translate russian kleio_event_06b_79711b2a:
+translate russian kleio_event_06b_6d7b4368:
     mike.say "Но буду рядом, захочешь ты поговорить или нет. Хорошо?"
 
 # ch/kleio/events.rpy:2148
@@ -7127,10 +6899,6 @@ translate russian kleio_event_06b_887aaf1e:
 # ch/kleio/events.rpy:2150
 translate russian kleio_event_06b_ff3a5944:
     "Совсем без силы, а затем прижимается ко мне."
-
-# ch/kleio/events.rpy:2151
-translate russian kleio_event_06b_4b4c3ce9:
-    kleio.say "Ну охренеть, сердцеед."
 
 # ch/kleio/events.rpy:2152
 translate russian kleio_event_06b_6f04a20a:
@@ -7184,10 +6952,6 @@ translate russian kleio_getting_serious_01_1d7a4284:
 translate russian kleio_getting_serious_01_6b1d54e7:
     "Клео поднимает брови и открывает рот в притворном возмущении."
 
-# ch/kleio/events.rpy:2172
-translate russian kleio_getting_serious_01_0d0cc91e:
-    kleio.say "Правда хочешь знать, сердцеед?"
-
 # ch/kleio/events.rpy:2173
 translate russian kleio_getting_serious_01_50f719b5:
     mike.say "Да, Клео, правда хочу!"
@@ -7235,10 +6999,6 @@ translate russian kleio_getting_serious_01_9f7c5aa2:
 # ch/kleio/events.rpy:2186
 translate russian kleio_getting_serious_01_2160de4b:
     "По её взгляду ясно: она получает огромное удовольствие."
-
-# ch/kleio/events.rpy:2187
-translate russian kleio_getting_serious_01_96aca17f:
-    kleio.say "Не моя вина, что приходится работать с таким плохим материалом, сердцеед!"
 
 # ch/kleio/events.rpy:2189
 translate russian kleio_getting_serious_01_5d7d3b12:
@@ -7288,10 +7048,6 @@ translate russian kleio_getting_serious_01_5467c29b:
 translate russian kleio_getting_serious_01_7ac9c8e9:
     kleio.say "Да ну?"
 
-# ch/kleio/events.rpy:2207
-translate russian kleio_getting_serious_01_fb25357c:
-    kleio.say "Так считаешь, сердцеед?!"
-
 # ch/kleio/events.rpy:2208
 translate russian kleio_getting_serious_01_f9a9889e:
     mike.say "Да, Клео."
@@ -7319,10 +7075,6 @@ translate russian kleio_getting_serious_01_1008f7af:
 # ch/kleio/events.rpy:2216
 translate russian kleio_getting_serious_01_e43b018e:
     "Но когда она оказывается достаточно близко для объятия, понимаю: удара не будет."
-
-# ch/kleio/events.rpy:2217
-translate russian kleio_getting_serious_01_75f98fe3:
-    kleio.say "Ну и яйца у тебя, сердцеед!"
 
 # ch/kleio/events.rpy:2218
 translate russian kleio_getting_serious_01_97f1b624:
@@ -7412,10 +7164,6 @@ translate russian kleio_event_07_141e5efd:
 translate russian kleio_event_07_3fe1a38a:
     mike.say "Тебя что-то беспокоит?"
 
-# ch/kleio/events.rpy:2253
-translate russian kleio_event_07_2d985a5e:
-    kleio.say "Ты о чём, сердцеед?"
-
 # ch/kleio/events.rpy:2254
 translate russian kleio_event_07_28589fe0:
     mike.say "Я серьёзно, Клео. Что с тобой?"
@@ -7501,7 +7249,7 @@ translate russian kleio_event_07_f87f061c:
     "Словно её саму потряс этот внезапный порыв."
 
 # ch/kleio/events.rpy:2282
-translate russian kleio_event_07_c15d20fc:
+translate russian kleio_event_07_e5dea783:
     mike.say "Что... Что ты имеешь в виду, Клео?"
 
 # ch/kleio/events.rpy:2283
@@ -7521,11 +7269,11 @@ translate russian kleio_event_07_64fe8c41:
     kleio.say "Нет, нет..."
 
 # ch/kleio/events.rpy:2288
-translate russian kleio_event_07_a0aaf17f:
+translate russian kleio_event_07_f850edff:
     kleio.say "Я... не хочу, чтобы ты менялся, [lssb_kleio.hero_name()]."
 
 # ch/kleio/events.rpy:2289
-translate russian kleio_event_07_1f2463bb:
+translate russian kleio_event_07_64858fed:
     kleio.say "Ты... нравишься мне таким, какой есть!"
 
 # ch/kleio/events.rpy:2291
@@ -7549,7 +7297,7 @@ translate russian kleio_event_07_343c0ca6:
     "Жёсткая оболочка так срослась с Клео, что признать свои чувства ей нелегко."
 
 # ch/kleio/events.rpy:2297
-translate russian kleio_event_07_ac4b8589:
+translate russian kleio_event_07_bdde3b03:
     mike.say "Ты... тоже мне нравишься, Клео."
 
 # ch/kleio/events.rpy:2298
@@ -7557,7 +7305,7 @@ translate russian kleio_event_07_193c93dc:
     mike.say "И то, как ты меня подкалываешь, тоже..."
 
 # ch/kleio/events.rpy:2300
-translate russian kleio_event_07_3276a15f:
+translate russian kleio_event_07_17e0a904:
     kleio.say "П... правда?!"
 
 # ch/kleio/events.rpy:2301
@@ -7676,10 +7424,6 @@ translate russian kleio_getting_serious_02_210aac36:
 translate russian kleio_getting_serious_02_91149468:
     "Продолжаю идти, делая вид, что не замечаю её попыток меня остановить."
 
-# ch/kleio/events.rpy:2339
-translate russian kleio_getting_serious_02_1e7647d4:
-    kleio.say "Эй... эй, сердцеед!"
-
 # ch/kleio/events.rpy:2340
 translate russian kleio_getting_serious_02_1cee54c2:
     kleio.say "Да притормози ты!"
@@ -7725,7 +7469,7 @@ translate russian kleio_getting_serious_02_57431999:
     kleio.say "Сейчас я говорю серьёзно, [lssb_kleio.hero_name()]."
 
 # ch/kleio/events.rpy:2355
-translate russian kleio_getting_serious_02_1adec246:
+translate russian kleio_getting_serious_02_12c7f7e8:
     kleio.say "Сегодня было здорово... правда здорово."
 
 # ch/kleio/events.rpy:2357
@@ -7873,11 +7617,11 @@ translate russian kleio_event_07_1_30e74fc5:
     mike.say "Эм..."
 
 # ch/kleio/events.rpy:2405
-translate russian kleio_event_07_1_b5041089:
+translate russian kleio_event_07_1_775bcba4:
     mike.say "Туда выбрасывают собачьи... отходы."
 
 # ch/kleio/events.rpy:2407
-translate russian kleio_event_07_1_ccc6e06b:
+translate russian kleio_event_07_1_e6cbf066:
     kleio.say "Фу... собачье говно, что ли?!"
 
 # ch/kleio/events.rpy:2409
@@ -7901,7 +7645,7 @@ translate russian kleio_event_07_1_ebecf1c6:
     mike.say "Это, кстати, дикая яблоня."
 
 # ch/kleio/events.rpy:2414
-translate russian kleio_event_07_1_6d0fe8e5:
+translate russian kleio_event_07_1_0e2f325a:
     kleio.say "Ха... скорее дерьмовая яблоня!"
 
 # ch/kleio/events.rpy:2416
@@ -7931,10 +7675,6 @@ translate russian kleio_event_07_1_9fe41f8a:
 # ch/kleio/events.rpy:2422
 translate russian kleio_event_07_1_10ebe3ea:
     mike.say "Вот дерьмо!"
-
-# ch/kleio/events.rpy:2424
-translate russian kleio_event_07_1_c62700d1:
-    kleio.say "Что такое, сердцеед?"
 
 # ch/kleio/events.rpy:2426
 translate russian kleio_event_07_1_ce7a52f7:
@@ -7971,10 +7711,6 @@ translate russian kleio_event_07_1_18668951:
 # ch/kleio/events.rpy:2436
 translate russian kleio_event_07_1_ec1fd674:
     "Клео от неожиданности даже присматривается к ней ещё раз."
-
-# ch/kleio/events.rpy:2437
-translate russian kleio_event_07_1_f8406850:
-    kleio.say "Да ЛАДНО, сердцеед!"
 
 # ch/kleio/events.rpy:2438
 translate russian kleio_event_07_1_c2afe1c6:
@@ -8061,7 +7797,7 @@ translate russian kleio_event_07_1_ac132624:
     "Потому что у мамы такое лицо, будто в неё попала пуля."
 
 # ch/kleio/events.rpy:2467
-translate russian kleio_event_07_1_4a311122:
+translate russian kleio_event_07_1_f71b72f5:
     angela.say "Т... ты ведь хотела сказать... его девушка?"
 
 # ch/kleio/events.rpy:2468
@@ -8077,7 +7813,7 @@ translate russian kleio_event_07_1_3d8c22df:
     kleio.say "Так что подруга по перепихону — вполне подходящее название."
 
 # ch/kleio/events.rpy:2471
-translate russian kleio_event_07_1_0fa31e98:
+translate russian kleio_event_07_1_4cf1ddb7:
     mike.say "П... привет, мам!"
 
 # ch/kleio/events.rpy:2472
@@ -8089,7 +7825,7 @@ translate russian kleio_event_07_1_8e2286f9:
     angela.say "Вот и ты, дорогой!"
 
 # ch/kleio/events.rpy:2475
-translate russian kleio_event_07_1_76b1a528:
+translate russian kleio_event_07_1_5048f3d0:
     angela.say "Да... ещё как представилась!"
 
 # ch/kleio/events.rpy:2476
@@ -8101,7 +7837,7 @@ translate russian kleio_event_07_1_ed9c4a97:
     "Ей явно нравится возможность устроить скандальчик."
 
 # ch/kleio/events.rpy:2479
-translate russian kleio_event_07_1_1dc84eaf:
+translate russian kleio_event_07_1_ffb03a5c:
     angela.say "Она говорит, что вы... вместе?"
 
 # ch/kleio/events.rpy:2480
@@ -8185,7 +7921,7 @@ translate russian kleio_event_07_1_86526574:
     angela.say "Скажи, Клео, тебя часто принимают за мальчика?"
 
 # ch/kleio/events.rpy:2509
-translate russian kleio_event_07_1_011506e9:
+translate russian kleio_event_07_1_731a9978:
     kleio.say "Чт... да... что ты сказала?!"
 
 # ch/kleio/events.rpy:2511
@@ -8197,7 +7933,7 @@ translate russian kleio_event_07_1_ac921656:
     "С безумной улыбкой на лице я утаскиваю её по дорожке."
 
 # ch/kleio/events.rpy:2514
-translate russian kleio_event_07_1_3a3f3ccf:
+translate russian kleio_event_07_1_fcbe4ad4:
     mike.say "А... ладно, мам!"
 
 # ch/kleio/events.rpy:2515
@@ -8276,10 +8012,6 @@ translate russian kleio_event_08_196155db:
 translate russian kleio_event_08_fe103996:
     "Просто лучше это скрывает."
 
-# ch/kleio/events.rpy:2547
-translate russian kleio_event_08_734e06d4:
-    kleio.say "Боже, сердцеед!"
-
 # ch/kleio/events.rpy:2549
 translate russian kleio_event_08_2d2f65c5:
     kleio.say "Ты весь вечер будешь улыбаться как идиот?"
@@ -8343,10 +8075,6 @@ translate russian kleio_event_08_c879c47d:
 # ch/kleio/events.rpy:2565
 translate russian kleio_event_08_5c770f84:
     mike.say "Что происходит?!"
-
-# ch/kleio/events.rpy:2566
-translate russian kleio_event_08_2c0bc66d:
-    kleio.say "Давай, сердцеед."
 
 # ch/kleio/events.rpy:2568
 translate russian kleio_event_08_db2a7691:
@@ -8477,7 +8205,7 @@ translate russian kleio_event_08_2cf465e2:
     kleio.say "Правда, [lssb_kleio.hero_name()]?"
 
 # ch/kleio/events.rpy:2616
-translate russian kleio_event_08_41d596df:
+translate russian kleio_event_08_30d7d7fd:
     kleio.say "И тебя... тебя это не напрягает?"
 
 # ch/kleio/events.rpy:2617
@@ -8497,7 +8225,7 @@ translate russian kleio_event_08_1d0e1a9a:
     kleio.say "Знаю, знаю..."
 
 # ch/kleio/events.rpy:2622
-translate russian kleio_event_08_5621d6fc:
+translate russian kleio_event_08_93579501:
     kleio.say "Просто... ну..."
 
 # ch/kleio/events.rpy:2623
@@ -8565,7 +8293,7 @@ translate russian kleio_event_08_7f41ad17:
     "Не до конца понимаю, что она имеет в виду, но рад, что ей хорошо."
 
 # ch/kleio/events.rpy:2648
-translate russian kleio_event_08_684c63c1:
+translate russian kleio_event_08_e1b0c8fe:
     mike.say "Т... ты правда так думаешь?"
 
 # ch/kleio/events.rpy:2649
@@ -8605,7 +8333,7 @@ translate russian kleio_event_08_52c65242:
     mike.say "Что?!"
 
 # ch/kleio/events.rpy:2659
-translate russian kleio_event_08_029affd4:
+translate russian kleio_event_08_dd1955b8:
     mike.say "Нет... не говори глупостей."
 
 # ch/kleio/events.rpy:2661
@@ -8749,7 +8477,7 @@ translate russian kleio_event_09_e2acad36:
     "Будто одного моего голоса достаточно, чтобы придать ей сил."
 
 # ch/kleio/events.rpy:2712
-translate russian kleio_event_09_12111b64:
+translate russian kleio_event_09_9c9cb112:
     kleio.say "Я... я в порядке, [lssb_kleio.hero_name()]."
 
 # ch/kleio/events.rpy:2713
@@ -8757,7 +8485,7 @@ translate russian kleio_event_09_c3b21948:
     kleio.say "Мне просто нужна помощь, вот и всё."
 
 # ch/kleio/events.rpy:2714
-translate russian kleio_event_09_80188e0f:
+translate russian kleio_event_09_bb06b26b:
     kleio.say "Я тут... немного влипла, понимаешь?"
 
 # ch/kleio/events.rpy:2715
@@ -8789,7 +8517,7 @@ translate russian kleio_event_09_741351c2:
     mike.say "Клео, на тебя напали или что?!"
 
 # ch/kleio/events.rpy:2723
-translate russian kleio_event_09_5d4ddf6b:
+translate russian kleio_event_09_fcd98a2a:
     kleio.say "Нет... нет..."
 
 # ch/kleio/events.rpy:2724
@@ -8884,10 +8612,6 @@ translate russian kleio_event_09_67431588:
 translate russian kleio_event_09_d5b34e10:
     "Как только Клео отпускают, я бросаюсь к ней."
 
-# ch/kleio/events.rpy:2753
-translate russian kleio_event_09_d49c216f:
-    kleio.say "Привет, сердцеед!"
-
 # ch/kleio/events.rpy:2754
 translate russian kleio_event_09_362f45dd:
     kleio.say "Сколько я тебе должна за спасение?"
@@ -8916,10 +8640,6 @@ translate russian kleio_event_09_e72cb9f2:
 translate russian kleio_event_09_0c541b00:
     "Она качает головой, пытаясь отвлечь меня от злобных взглядов в сторону проходящих мимо полицейских."
 
-# ch/kleio/events.rpy:2761
-translate russian kleio_event_09_6fc44831:
-    kleio.say "Тише, сердцеед, тише!"
-
 # ch/kleio/events.rpy:2762
 translate russian kleio_event_09_fe536d89:
     kleio.say "Никто ничего не сделал. Я в порядке, ясно?"
@@ -8945,7 +8665,7 @@ translate russian kleio_event_09_61edcf3a:
     "На её лице появляется недоумение."
 
 # ch/kleio/events.rpy:2769
-translate russian kleio_event_09_183fffde:
+translate russian kleio_event_09_390d3dfd:
     kleio.say "Ты... ты запрещаешь мне ходить на протесты?!"
 
 # ch/kleio/events.rpy:2770
@@ -9013,7 +8733,7 @@ translate russian kleio_event_09_bbbe3794:
     kleio.say "Эм..."
 
 # ch/kleio/events.rpy:2790
-translate russian kleio_event_09_9d042421:
+translate russian kleio_event_09_8f4aa39e:
     kleio.say "Ну... пару сотен баксов..."
 
 # ch/kleio/events.rpy:2791
@@ -9025,7 +8745,7 @@ translate russian kleio_event_09_6e1a087a:
     mike.say "Я что тебе, блядь, банкомат?"
 
 # ch/kleio/events.rpy:2793
-translate russian kleio_event_09_6985e8e1:
+translate russian kleio_event_09_9fefbc68:
     kleio.say "К... конечно нет!"
 
 # ch/kleio/events.rpy:2794
@@ -9084,10 +8804,6 @@ translate russian kleio_event_09_1043ae8a:
 translate russian kleio_event_10_bc8bfb50:
     "Звонит телефон, и я машинально отвечаю, едва заметив, что это Клео."
 
-# ch/kleio/events.rpy:2819
-translate russian kleio_event_10_05e94cbb:
-    kleio.say "Привет, сердцеед. Чем сейчас занимаешься?"
-
 # ch/kleio/events.rpy:2820
 translate russian kleio_event_10_c38957ff:
     mike.say "А, Клео..."
@@ -9121,7 +8837,7 @@ translate russian kleio_event_10_16f223ab:
     mike.say "Но почему туда?"
 
 # ch/kleio/events.rpy:2828
-translate russian kleio_event_10_3b50aefe:
+translate russian kleio_event_10_473a1745:
     kleio.say "Эм... просто так."
 
 # ch/kleio/events.rpy:2829
@@ -9173,7 +8889,7 @@ translate russian kleio_event_11_06e4e2bd:
     "Почти любую другую девушку я бы прямо спросил, что случилось."
 
 # ch/kleio/events.rpy:2846
-translate russian kleio_event_11_e68aee71:
+translate russian kleio_event_11_677a3636:
     "Но это Клео, а с ней всё... сложнее."
 
 # ch/kleio/events.rpy:2847
@@ -9205,7 +8921,7 @@ translate russian kleio_event_11_31c5fc5d:
     kleio.say "Понимаю..."
 
 # ch/kleio/events.rpy:2857
-translate russian kleio_event_11_0dadb265:
+translate russian kleio_event_11_4984395c:
     kleio.say "Погоди... ЧТО?!"
 
 # ch/kleio/events.rpy:2858
@@ -9273,7 +8989,7 @@ translate russian kleio_event_11_49f700e8:
     "Наверное, достала это, пока я смотрел ей в глаза."
 
 # ch/kleio/events.rpy:2876
-translate russian kleio_event_11_051771cd:
+translate russian kleio_event_11_71e2b7f5:
     kleio.say "Я... знаю, обычно всё происходит иначе."
 
 # ch/kleio/events.rpy:2877
@@ -9333,7 +9049,7 @@ translate russian kleio_event_11_63de83c2:
     "Теперь Клео смотрит на меня озадаченно."
 
 # ch/kleio/events.rpy:2898
-translate russian kleio_event_11_23b92ce7:
+translate russian kleio_event_11_c4cb6dc1:
     kleio.say "П... правда?"
 
 # ch/kleio/events.rpy:2900
@@ -9396,10 +9112,6 @@ translate russian kleio_event_11_f4747fd2:
 translate russian kleio_event_11_9953c1c3:
     "Она обнимает меня в ответ, и я чувствую, как кольцо скользит мне на палец."
 
-# ch/kleio/events.rpy:2917
-translate russian kleio_event_11_f1481f39:
-    kleio.say "Всё, сердцеед, ты попался."
-
 # ch/kleio/events.rpy:2918
 translate russian kleio_event_11_38ad8fad:
     kleio.say "Теперь от меня не отделаешься!"
@@ -9461,7 +9173,7 @@ translate russian kleio_event_11_a3261fca:
     mike.say "Может быть, когда-нибудь, но не сейчас."
 
 # ch/kleio/events.rpy:2941
-translate russian kleio_event_11_455c549b:
+translate russian kleio_event_11_b2cb2059:
     kleio.say "А... ладно... ладно..."
 
 # ch/kleio/events.rpy:2942
@@ -9681,7 +9393,7 @@ translate russian kleio_male_ending_1f8e9375:
     "Байкер" "Мы собрались здесь сегодня, чтобы соединить нашу дорогую малышку Клео..."
 
 # ch/kleio/events.rpy:3019
-translate russian kleio_male_ending_427cfef7:
+translate russian kleio_male_ending_afd87984:
     "Байкер" "И... так-так... [lssb_kleio.hero_name()]..."
 
 # ch/kleio/events.rpy:3020
@@ -9808,10 +9520,6 @@ translate russian kleio_male_ending_a28fa98f:
 translate russian kleio_male_ending_78a81a3f:
     "Клео прерывает поцелуй, морщится от этой какофонии, но всё равно улыбается."
 
-# ch/kleio/events.rpy:3059
-translate russian kleio_male_ending_11b0793c:
-    kleio.say "Поздно теперь убегать, сердцеед."
-
 # ch/kleio/events.rpy:3061
 translate russian kleio_male_ending_f8dd1f4a:
     kleio.say "Ты мой, и все эти ребята — свидетели."
@@ -9832,10 +9540,6 @@ translate russian kleio_male_ending_336ee54c:
 translate russian kleio_male_ending_a38ef411:
     kleio.say "Ой, как мило сказано!"
 
-# ch/kleio/events.rpy:3069
-translate russian kleio_male_ending_7f0474e4:
-    kleio.say "Люблю тебя, сердцеед."
-
 # ch/kleio/events.rpy:3070
 translate russian kleio_male_ending_b55b3dfb:
     mike.say "И я тебя люблю, Клео."
@@ -9855,10 +9559,6 @@ translate russian kleio_male_ending_25ebdf43:
 # ch/kleio/events.rpy:3078
 translate russian kleio_male_ending_7c0b4a3a:
     kleio.say "Ну не способен он толком объяснить, насколько я сексуальная и дерзкая."
-
-# ch/kleio/events.rpy:3080
-translate russian kleio_male_ending_5e7ea389:
-    kleio.say "Бедный мой сердцеед!"
 
 # ch/kleio/events.rpy:3082
 translate russian kleio_male_ending_b620d339:
@@ -9903,10 +9603,6 @@ translate russian kleio_male_ending_b3771bfa:
 # ch/kleio/events.rpy:3095
 translate russian kleio_male_ending_f75d6960:
     kleio.say "Обычно такие очень быстро понимали, что на меня впечатления не произвели."
-
-# ch/kleio/events.rpy:3096
-translate russian kleio_male_ending_7d4eaf3b:
-    kleio.say "Но только не сердцеед. Нет уж."
 
 # ch/kleio/events.rpy:3097
 translate russian kleio_male_ending_7ab7a885:
@@ -9953,7 +9649,7 @@ translate russian kleio_male_ending_2f2dc1aa:
     kleio.say "Он ни разу не ругал меня за то, какая я есть, и не просил измениться."
 
 # ch/kleio/events.rpy:3110
-translate russian kleio_male_ending_7721799c:
+translate russian kleio_male_ending_7315f2ed:
     kleio.say "Будто... будто все хотят видеть во мне кого-то другого."
 
 # ch/kleio/events.rpy:3111
@@ -9963,10 +9659,6 @@ translate russian kleio_male_ending_7e83d962:
 # ch/kleio/events.rpy:3112
 translate russian kleio_male_ending_27e5419b:
     kleio.say "Фу, развела тут сопли и сантименты, как Анна с Сашей!"
-
-# ch/kleio/events.rpy:3113
-translate russian kleio_male_ending_67c41bdc:
-    kleio.say "Но когда говорю о сердцееде, со мной так и случается."
 
 # ch/kleio/events.rpy:3116
 translate russian kleio_male_ending_f18b1987:
@@ -10003,10 +9695,6 @@ translate russian kleio_male_ending_74e2ffc1:
 # ch/kleio/events.rpy:3129
 translate russian kleio_male_ending_52e50c0c:
     kleio.say "Это будет девочка. Мы решили назвать её Кортни."
-
-# ch/kleio/events.rpy:3130
-translate russian kleio_male_ending_dfac6749:
-    kleio.say "Каждый раз, когда заходит речь, сердцеед чуть не обсирается."
 
 # ch/kleio/events.rpy:3131
 translate russian kleio_male_ending_8c27ad41:
@@ -10055,10 +9743,6 @@ translate russian kleio_male_ending_4af4efb6:
 # ch/kleio/events.rpy:3143
 translate russian kleio_male_ending_3d51fd60:
     kleio.say "Ничего подобного..."
-
-# ch/kleio/events.rpy:3144
-translate russian kleio_male_ending_2aa74f6b:
-    kleio.say "Хотя... может быть, с сердцеедом!"
 
 # ch/kleio/events.rpy:3145
 translate russian kleio_male_ending_ba0b6cee:
@@ -10137,7 +9821,7 @@ translate russian kleio_event_talk_murder_a9e95a00:
     kleio.say "Блядь, чувак, хуже этого вообще ничего не придумаешь!"
 
 # ch/kleio/events.rpy:3175
-translate russian kleio_event_talk_murder_d60bef3e:
+translate russian kleio_event_talk_murder_33b3717e:
     mike.say "Я... знаю, да..."
 
 # ch/kleio/events.rpy:3176
@@ -10344,10 +10028,6 @@ translate russian kleio_birthday_date_male_56495980:
 translate russian kleio_birthday_date_male_5d6303dd:
     "Одна бровь у неё приподнята, а на лице весёлое удивление."
 
-# ch/kleio/events.rpy:3247
-translate russian kleio_birthday_date_male_7b90a213:
-    kleio.say "Ты серьёзно, сердцеед?"
-
 # ch/kleio/events.rpy:3248
 translate russian kleio_birthday_date_male_7c5be2ed:
     kleio.say "Картинг разве не для детей?"
@@ -10497,7 +10177,7 @@ translate russian kleio_birthday_date_male_39ea416f:
     "Женщина" "Но..."
 
 # ch/kleio/events.rpy:3303
-translate russian kleio_birthday_date_male_edc6df82:
+translate russian kleio_birthday_date_male_3c980884:
     "Женщина" "Вы не слишком... ну, взрослые для этого?"
 
 # ch/kleio/events.rpy:3304
@@ -10547,10 +10227,6 @@ translate russian kleio_birthday_date_male_1675b7bc:
 # ch/kleio/events.rpy:3319
 translate russian kleio_birthday_date_male_a5dcc328:
     mike.say "Ай!"
-
-# ch/kleio/events.rpy:3321
-translate russian kleio_birthday_date_male_60598966:
-    kleio.say "Так держать, сердцеед."
 
 # ch/kleio/events.rpy:3322
 translate russian kleio_birthday_date_male_808d3a1a:
@@ -10605,7 +10281,7 @@ translate russian kleio_birthday_date_male_36fcd50f:
     "Женщина" "Те, что пытаются накормить червями младших?!"
 
 # ch/kleio/events.rpy:3339
-translate russian kleio_birthday_date_male_45431fca:
+translate russian kleio_birthday_date_male_f0e482f3:
     mike.say "А... да!"
 
 # ch/kleio/events.rpy:3341
@@ -10623,10 +10299,6 @@ translate russian kleio_birthday_date_male_1675b7bc_1:
 # ch/kleio/events.rpy:3346
 translate russian kleio_birthday_date_male_a5dcc328_1:
     mike.say "Ай!"
-
-# ch/kleio/events.rpy:3348
-translate russian kleio_birthday_date_male_60598966_1:
-    kleio.say "Молодец, сердцеед."
 
 # ch/kleio/events.rpy:3349
 translate russian kleio_birthday_date_male_568b1363:
@@ -10673,12 +10345,8 @@ translate russian kleio_birthday_date_male_d02dcd88:
     kleio.say "О той дурацкой видеоигре?"
 
 # ch/kleio/events.rpy:3363
-translate russian kleio_birthday_date_male_f815840a:
+translate russian kleio_birthday_date_male_79ba11f9:
     mike.say "Эм... да, Клео."
-
-# ch/kleio/events.rpy:3365
-translate russian kleio_birthday_date_male_ddc6d324:
-    kleio.say "Ничего ты не понимаешь, сердцеед!"
 
 # ch/kleio/events.rpy:3366
 translate russian kleio_birthday_date_male_3f3eaaa2:
@@ -10789,7 +10457,7 @@ translate russian kleio_birthday_date_male_4a24c6e3:
     "Нужно как-нибудь обратить это себе на пользу."
 
 # ch/kleio/events.rpy:3406
-translate russian kleio_birthday_date_male_87027359:
+translate russian kleio_birthday_date_male_40778e1d:
     "Хм... интересно, можно ли заставить её рассказать, на что смотреть?"
 
 # ch/kleio/events.rpy:3407
@@ -10932,10 +10600,6 @@ translate russian kleio_birthday_date_male_d5552114:
 translate russian kleio_birthday_date_male_4c8f832d:
     kleio.say "Не знаешь, какой выбрать, а?"
 
-# ch/kleio/events.rpy:3456
-translate russian kleio_birthday_date_male_981aa435:
-    kleio.say "Надо было подтянуть матчасть, сердцеед!"
-
 # ch/kleio/events.rpy:3457
 translate russian kleio_birthday_date_male_010df176:
     kleio.say "И помощи у меня не проси."
@@ -11045,7 +10709,7 @@ translate russian kleio_birthday_date_male_12536193:
     kleio.say "Ты, блядь, дебил или как?!"
 
 # ch/kleio/events.rpy:3493
-translate russian kleio_birthday_date_male_95d20241:
+translate russian kleio_birthday_date_male_8e8d6c58:
     kleio.say "Нет... не отвечай."
 
 # ch/kleio/events.rpy:3496
@@ -11449,12 +11113,8 @@ translate russian kleio_birthday_date_male_29201723:
     "По этому взгляду ясно: сработало."
 
 # ch/kleio/events.rpy:3663
-translate russian kleio_birthday_date_male_c3ff15a6:
+translate russian kleio_birthday_date_male_1c908159:
     kleio.say "Ну... да!"
-
-# ch/kleio/events.rpy:3665
-translate russian kleio_birthday_date_male_904b6fc8:
-    kleio.say "Тут ты меня раскусил, сердцеед!"
 
 # ch/kleio/events.rpy:3666
 translate russian kleio_birthday_date_male_e39d1d74:
@@ -11541,7 +11201,7 @@ translate russian kleio_birthday_date_male_1528dd84:
     kleio.say "Я сто лет такое ищу!"
 
 # ch/kleio/events.rpy:3697
-translate russian kleio_birthday_date_male_6dbe51bb:
+translate russian kleio_birthday_date_male_5df277b0:
     mike.say "А... да, Клео."
 
 # ch/kleio/events.rpy:3698
@@ -11661,12 +11321,8 @@ translate russian kleio_birthday_date_male_29201723_1:
     "По этому взгляду ясно: сработало."
 
 # ch/kleio/events.rpy:3741
-translate russian kleio_birthday_date_male_c3ff15a6_1:
+translate russian kleio_birthday_date_male_1c908159_1:
     kleio.say "Ну... да!"
-
-# ch/kleio/events.rpy:3743
-translate russian kleio_birthday_date_male_904b6fc8_1:
-    kleio.say "Тут ты меня раскусил, сердцеед!"
 
 # ch/kleio/events.rpy:3744
 translate russian kleio_birthday_date_male_e39d1d74_1:
@@ -11683,10 +11339,6 @@ translate russian kleio_birthday_date_male_b093fbdc:
 # ch/kleio/events.rpy:3750
 translate russian kleio_birthday_date_male_40ba55d2:
     "И она, похоже, тоже: вдруг вскакивает на ноги."
-
-# ch/kleio/events.rpy:3751
-translate russian kleio_birthday_date_male_34ccd6f9:
-    kleio.say "Знаешь что, сердцеед?"
 
 # ch/kleio/events.rpy:3752
 translate russian kleio_birthday_date_male_08aa3d04:
@@ -11865,7 +11517,7 @@ translate russian kleio_birthday_date_male_993f04bd:
     kleio.say "Надо бы скоро попробовать настоящие гонки."
 
 # ch/kleio/events.rpy:3814
-translate russian kleio_birthday_date_male_0bebed12:
+translate russian kleio_birthday_date_male_5fc87da5:
     mike.say "В смысле... на настоящих машинах?"
 
 # ch/kleio/events.rpy:3816
@@ -11920,10 +11572,6 @@ translate russian kleio_birthday_date_male_794bacfd_1:
 translate russian kleio_birthday_date_male_66dd19a6:
     kleio.say "Я была уверена, что ты откажешься."
 
-# ch/kleio/events.rpy:3835
-translate russian kleio_birthday_date_male_36611200:
-    kleio.say "Может, ты не такая уж тряпка, сердцеед!"
-
 # ch/kleio/events.rpy:3837
 translate russian kleio_birthday_date_male_a82d0b98:
     "Одна мысль о полноценной гоночной машине приводит меня в ужас."
@@ -11956,10 +11604,6 @@ translate russian kleio_birthday_date_male_3245567e:
 translate russian kleio_birthday_date_male_9562dec8_1:
     kleio.say "Уф..."
 
-# ch/kleio/events.rpy:3847
-translate russian kleio_birthday_date_male_2747cd43:
-    kleio.say "Забудь, что я сказала, сердцеед."
-
 # ch/kleio/events.rpy:3848
 translate russian kleio_birthday_date_male_00f4d34a:
     kleio.say "И не истери!"
@@ -11983,10 +11627,6 @@ translate russian kleio_birthday_date_male_43edcafc:
 # ch/kleio/events.rpy:3854
 translate russian kleio_birthday_date_male_d9dba59a:
     "Кажется, она мысленно подводит итоги."
-
-# ch/kleio/events.rpy:3857
-translate russian kleio_birthday_date_male_98e2661c:
-    kleio.say "Знаешь что, сердцеед..."
 
 # ch/kleio/events.rpy:3858
 translate russian kleio_birthday_date_male_b38c0c50:
@@ -12256,10 +11896,6 @@ translate russian kleio_birthday_sex_41bd588c:
 translate russian kleio_birthday_sex_39bd5d52:
     "Клео усмехается и качает головой."
 
-# ch/kleio/events.rpy:3947
-translate russian kleio_birthday_sex_323c3375:
-    kleio.say "Можно было догадаться, что ты её не узнаешь, сердцеед!"
-
 # ch/kleio/events.rpy:3949
 translate russian kleio_birthday_sex_955e2694:
     kleio.say "К твоему сведению, это Buccaneer Banzai."
@@ -12284,10 +11920,6 @@ translate russian kleio_birthday_sex_eb0143e8:
 translate russian kleio_birthday_sex_f76b34cd:
     "Клео становится рядом и накрывает мою руку своей."
 
-# ch/kleio/events.rpy:3957
-translate russian kleio_birthday_sex_2e932a92:
-    kleio.say "Понимаешь, сердцеед..."
-
 # ch/kleio/events.rpy:3958
 translate russian kleio_birthday_sex_47bcd623:
     kleio.say "Хозяин ни за что не даст мне на ней прокатиться."
@@ -12297,7 +11929,7 @@ translate russian kleio_birthday_sex_aac20190:
     kleio.say "Поэтому, пока она здесь, хочу попробовать кое-что почти такое же приятное."
 
 # ch/kleio/events.rpy:3960
-translate russian kleio_birthday_sex_753da3a2:
+translate russian kleio_birthday_sex_2b7a6bfa:
     mike.say "И что же, Клео?"
 
 # ch/kleio/events.rpy:3961
@@ -12331,10 +11963,6 @@ translate russian kleio_birthday_sex_72bf43ee:
 # ch/kleio/events.rpy:3970
 translate russian kleio_birthday_sex_4d087dad:
     "Затем рывком притягивает ближе, глядя прямо в глаза."
-
-# ch/kleio/events.rpy:3971
-translate russian kleio_birthday_sex_f158aef7:
-    kleio.say "Прости, сердцеед..."
 
 # ch/kleio/events.rpy:3972
 translate russian kleio_birthday_sex_27b09f72:
@@ -12413,7 +12041,7 @@ translate russian kleio_birthday_sex_519f8c62:
     kleio.say "О да..."
 
 # ch/kleio/events.rpy:3998
-translate russian kleio_birthday_sex_d08924d7:
+translate russian kleio_birthday_sex_f9a8c384:
     kleio.say "Вот так... именно так!"
 
 # ch/kleio/events.rpy:4001
@@ -12501,7 +12129,7 @@ translate russian kleio_birthday_sex_e89e49c3:
     "И, несмотря на всю свою дерзость, становится совершенно беспомощной."
 
 # ch/kleio/events.rpy:4027
-translate russian kleio_birthday_sex_956e29f1:
+translate russian kleio_birthday_sex_e42308f7:
     kleio.say "Д... да..."
 
 # ch/kleio/events.rpy:4028
@@ -12553,7 +12181,7 @@ translate russian kleio_birthday_sex_669c5856:
     kleio.say "Ох, блядь..."
 
 # ch/kleio/events.rpy:4041
-translate russian kleio_birthday_sex_26acc6e8:
+translate russian kleio_birthday_sex_307ce0a3:
     kleio.say "Я... я сейчас кончу!"
 
 # ch/kleio/events.rpy:4043
@@ -12599,10 +12227,6 @@ translate russian kleio_birthday_sex_5f011712:
 # ch/kleio/events.rpy:4057
 translate russian kleio_birthday_sex_aa6d1cbd:
     "Она раскраснелась и тяжело дышит, но выглядит совершенно довольной."
-
-# ch/kleio/events.rpy:4059
-translate russian kleio_birthday_sex_0dcc9004:
-    kleio.say "Да хрен с машиной, сердцеед."
 
 # ch/kleio/events.rpy:4060
 translate russian kleio_birthday_sex_487129b5:
@@ -12657,7 +12281,7 @@ translate russian kleio_say_preg_c33f7d2c:
     mike.say "И тебе доброе утро!"
 
 # ch/kleio/events.rpy:4093
-translate russian kleio_say_preg_f215c9e9:
+translate russian kleio_say_preg_b8d31ac5:
     kleio.say "Что... ты мне что-то сказал?"
 
 # ch/kleio/events.rpy:4094
@@ -12669,7 +12293,7 @@ translate russian kleio_say_preg_a7c478c8:
     mike.say "Я просто пожелал доброго утра."
 
 # ch/kleio/events.rpy:4096
-translate russian kleio_say_preg_565bd323:
+translate russian kleio_say_preg_3a12b389:
     kleio.say "А... ладно... как скажешь."
 
 # ch/kleio/events.rpy:4097
@@ -12685,7 +12309,7 @@ translate russian kleio_say_preg_018de506:
     mike.say "Клео, что с тобой, чёрт возьми?"
 
 # ch/kleio/events.rpy:4100
-translate russian kleio_say_preg_9f2df6e7:
+translate russian kleio_say_preg_7197a3b1:
     kleio.say "Да... я вроде в порядке. Просто нам нужно поговорить, вот и всё."
 
 # ch/kleio/events.rpy:4101
@@ -12753,7 +12377,7 @@ translate russian kleio_say_preg_b70b190e:
     kleio.say "Я всегда говорила себе: если забеременею, сделаю аборт."
 
 # ch/kleio/events.rpy:4132
-translate russian kleio_say_preg_44af153f:
+translate russian kleio_say_preg_01e649f4:
     kleio.say "Но это было до знакомства с тобой. А... ну, время вместе как-то изменило моё мнение."
 
 # ch/kleio/events.rpy:4133
@@ -12769,7 +12393,7 @@ translate russian kleio_say_preg_51fd1e0f:
     "Клео продолжает смотреть на меня, словно не успокоится, пока не услышит нужный ответ."
 
 # ch/kleio/events.rpy:4138
-translate russian kleio_say_preg_dde25b0a:
+translate russian kleio_say_preg_df99095c:
     mike.say "Господи, Клео... нельзя вывалить на меня такое и ждать, что я сразу справлюсь!"
 
 # ch/kleio/events.rpy:4139
@@ -12785,15 +12409,15 @@ translate russian kleio_say_preg_47c64c02:
     kleio.say "Что ты хочешь сказать, [lssb_kleio.hero_name()]? Что я буду хреновой матерью или что у тебя на это кишка тонка?!"
 
 # ch/kleio/events.rpy:4144
-translate russian kleio_say_preg_fe4ebbee:
+translate russian kleio_say_preg_aad51928:
     mike.say "Да... нет... и то и другое... ничего из этого... я сам не знаю, что хочу сказать, чёрт!"
 
 # ch/kleio/events.rpy:4145
-translate russian kleio_say_preg_b09a0af3:
+translate russian kleio_say_preg_2d3995d6:
     kleio.say "Ага, может быть... но теперь я знаю, что недостаточно тебе дорога..."
 
 # ch/kleio/events.rpy:4148
-translate russian kleio_say_preg_4da4b647:
+translate russian kleio_say_preg_797c36e6:
     mike.say "Да... конечно... если ты этого хочешь... ты ведь этого хочешь?!"
 
 # ch/kleio/events.rpy:4150
@@ -12805,7 +12429,7 @@ translate russian kleio_say_preg_8a536625:
     kleio.say "Конечно хочу, придурок! Иначе разве стала бы просить?"
 
 # ch/kleio/events.rpy:4152
-translate russian kleio_say_preg_44a55a7a:
+translate russian kleio_say_preg_dd609750:
     mike.say "Прости... просто раньше я не представлял тебя в роли матери, вот и всё."
 
 # ch/kleio/events.rpy:4154
@@ -12813,7 +12437,7 @@ translate russian kleio_say_preg_a1c9bc85:
     "Клео косится на меня и лукаво улыбается, уловив в моих словах невольную колкость."
 
 # ch/kleio/events.rpy:4155
-translate russian kleio_say_preg_328f0fa6:
+translate russian kleio_say_preg_06adc3bb:
     mike.say "Ещё раз прости... я и сам об этом никогда не думал. Но с тобой это почему-то кажется правильным."
 
 # ch/kleio/events.rpy:4159
@@ -12929,7 +12553,7 @@ translate russian kleio_practice_01_43795cad:
     kleio.say "ДА!"
 
 # ch/kleio/events.rpy:4207
-translate russian kleio_practice_01_ecc57ff1:
+translate russian kleio_practice_01_605d0c07:
     sasha.say "Мы всегда играли по-старому... Сейчас нет времени разучивать новый проигрыш."
 
 # ch/kleio/events.rpy:4209
@@ -12941,7 +12565,7 @@ translate russian kleio_practice_01_628dca0f:
     "Клео откладывает гитару и вприпрыжку отправляется на пожарную лестницу за победной сигаретой."
 
 # ch/kleio/events.rpy:4214
-translate russian kleio_practice_01_3fa081b2:
+translate russian kleio_practice_01_37cf861d:
     mike.say "Мне нравятся оба варианта... А ты что думаешь, Анна?"
 
 # ch/kleio/events.rpy:4216
@@ -12957,7 +12581,7 @@ translate russian kleio_practice_01_8dc668a1:
     "Клео стонет, словно её пытают, и топает на пожарную лестницу покурить."
 
 # ch/kleio/events.rpy:4221
-translate russian kleio_practice_01_c86fd12d:
+translate russian kleio_practice_01_40794bec:
     sasha.say "Ладно, Анна... попробуем найти компромисс."
 
 # ch/kleio/events.rpy:4225
@@ -12981,7 +12605,7 @@ translate russian kleio_practice_01_b566b3f4:
     "Лицо Клео привычно хмурое и пренебрежительное, но она слегка шмыгает носом. Неужели я случайно нашёл брешь в её броне?"
 
 # ch/kleio/events.rpy:4233
-translate russian kleio_practice_01_b69af6f4:
+translate russian kleio_practice_01_8027fc9a:
     kleio.say "Да не извиняйся, я взрослая, переживу... Просто думала, что после..."
 
 # ch/kleio/events.rpy:4234
@@ -12993,7 +12617,7 @@ translate russian kleio_practice_01_9ca93cc9:
     mike.say "После чего, Клео?"
 
 # ch/kleio/events.rpy:4237
-translate russian kleio_practice_01_7ef8c0c6:
+translate russian kleio_practice_01_e85179eb:
     kleio.say "Ничего... забудь... просто на секунду сморозила глупость."
 
 # ch/kleio/events.rpy:4239
@@ -13017,7 +12641,7 @@ translate russian kleio_practice_01_4a511cbb:
     "Обвивает руками мою шею и тесно прижимается."
 
 # ch/kleio/events.rpy:4246
-translate russian kleio_practice_01_c228da45:
+translate russian kleio_practice_01_d0a36097:
     kleio.say "Кажется, при первой встрече я в тебе ошиблась. Очень жду дальнейшего сотрудничества... Если понимаешь, о чём я?"
 
 # ch/kleio/events.rpy:4247
@@ -13037,7 +12661,7 @@ translate russian kleio_practice_01_e370bc5a:
     "Неужели случившееся на репетиции так задело эту с виду жёсткую девушку?"
 
 # ch/kleio/events.rpy:4256
-translate russian kleio_practice_01_7e159074:
+translate russian kleio_practice_01_3d5f226e:
     kleio.say "Я в порядке... правда."
 
 # ch/kleio/events.rpy:4257
@@ -13049,7 +12673,7 @@ translate russian kleio_practice_01_82707675:
     mike.say "Прости, что втянул Анну в спор. Мне показалось, не мне решать всё одним голосом."
 
 # ch/kleio/events.rpy:4259
-translate russian kleio_practice_01_9cd381a4:
+translate russian kleio_practice_01_37f83bcd:
     kleio.say "Нет, ты прав... мы вроде как группа, значит, право голоса есть у всех."
 
 # ch/kleio/events.rpy:4260
@@ -13103,10 +12727,6 @@ translate russian kleio_preg_talk_1ed3104a:
 # ch/kleio/events.rpy:4279
 translate russian kleio_preg_talk_afbe9423:
     kleio.say "А?.."
-
-# ch/kleio/events.rpy:4280
-translate russian kleio_preg_talk_6f3bba07:
-    kleio.say "О чём ты, сердцеед?"
 
 # ch/kleio/events.rpy:4281
 translate russian kleio_preg_talk_ff20472e:
@@ -13245,7 +12865,7 @@ translate russian kleio_preg_talk_fc0b3512:
     "И качает головой."
 
 # ch/kleio/events.rpy:4321
-translate russian kleio_preg_talk_8eb227bd:
+translate russian kleio_preg_talk_716accfd:
     kleio.say "Ч... что ты хочешь сказать?"
 
 # ch/kleio/events.rpy:4322
@@ -13263,10 +12883,6 @@ translate russian kleio_preg_talk_9bcc7463:
 # ch/kleio/events.rpy:4325
 translate russian kleio_preg_talk_cefd8544:
     mike.say "Но с каких пор ты живёшь, руководствуясь только ими?"
-
-# ch/kleio/events.rpy:4327
-translate russian kleio_preg_talk_54540d52:
-    kleio.say "Ты вообще слышал, что я сказала, сердцеед?"
 
 # ch/kleio/events.rpy:4328
 translate russian kleio_preg_talk_dc020baa:
@@ -13305,7 +12921,7 @@ translate russian kleio_preg_talk_df750465:
     kleio.say "Ты правда так думаешь?"
 
 # ch/kleio/events.rpy:4338
-translate russian kleio_preg_talk_8948e164:
+translate russian kleio_preg_talk_48319402:
     kleio.say "Ты... правда хочешь ребёнка... от МЕНЯ?!"
 
 # ch/kleio/events.rpy:4339
@@ -13335,10 +12951,6 @@ translate russian kleio_preg_talk_7d77c357:
 # ch/kleio/events.rpy:4346
 translate russian kleio_preg_talk_a9721423:
     "Мне не нужно говорить, чтобы я её обнял."
-
-# ch/kleio/events.rpy:4348
-translate russian kleio_preg_talk_4fe848cc:
-    kleio.say "Ох, сердцеед..."
 
 # ch/kleio/events.rpy:4349
 translate russian kleio_preg_talk_a5ce4969:
@@ -13468,10 +13080,6 @@ translate russian kleio_meet_bree_67f6b9a4:
 translate russian kleio_meet_bree_64064a1e:
     "И вижу, как она идёт ко мне."
 
-# ch/kleio/events.rpy:4393
-translate russian kleio_meet_bree_e3e15182:
-    kleio.say "Эй, сердцеед!"
-
 # ch/kleio/events.rpy:4394
 translate russian kleio_meet_bree_f0d5c960:
     kleio.say "Ты что здесь делаешь?"
@@ -13519,10 +13127,6 @@ translate russian kleio_meet_bree_cd456f95:
 # ch/kleio/events.rpy:4413
 translate russian kleio_meet_bree_38ae7f9d:
     kleio.say "А?!"
-
-# ch/kleio/events.rpy:4414
-translate russian kleio_meet_bree_7e93febc:
-    mike.say "[bree.name], познакомься: Клео."
 
 # ch/kleio/events.rpy:4415
 translate russian kleio_meet_bree_455d496c:
@@ -13581,7 +13185,7 @@ translate russian kleio_meet_bree_152e36e7:
     kleio.say "Значит, ты её соседка, да?"
 
 # ch/kleio/events.rpy:4437
-translate russian kleio_meet_bree_dec00a96:
+translate russian kleio_meet_bree_1ac9ad91:
     bree.say "Я... да, наверное!"
 
 # ch/kleio/events.rpy:4438
@@ -13589,7 +13193,7 @@ translate russian kleio_meet_bree_16c80ec3:
     bree.say "Полагаю, Саша тебе уже всё обо мне рассказала!"
 
 # ch/kleio/events.rpy:4439
-translate russian kleio_meet_bree_e44926b8:
+translate russian kleio_meet_bree_578ba756:
     kleio.say "А... пару раз твоё имя упоминала."
 
 # ch/kleio/events.rpy:4440
@@ -13655,10 +13259,6 @@ translate russian kleio_meet_bree_9562dec8:
 # ch/kleio/events.rpy:4462
 translate russian kleio_meet_bree_22c34e24:
     kleio.say "Скукотища!"
-
-# ch/kleio/events.rpy:4464
-translate russian kleio_meet_bree_1f1f6ead:
-    kleio.say "Я хочу в бильярд, сердцеед!"
 
 # ch/kleio/events.rpy:4465
 translate russian kleio_meet_bree_39947744:
@@ -13741,11 +13341,11 @@ translate russian kleio_meet_bree_bc38b264:
     "Клянусь, Клео замечает, как я любуюсь длинными золотистыми волосами, которыми тряхнула [bree.name]!"
 
 # ch/kleio/events.rpy:4494
-translate russian kleio_meet_bree_be1e8972:
+translate russian kleio_meet_bree_598ef676:
     "Она... она правда ревнует?"
 
 # ch/kleio/events.rpy:4495
-translate russian kleio_meet_bree_4e3e00c9:
+translate russian kleio_meet_bree_07347970:
     "Нет... не может быть."
 
 # ch/kleio/events.rpy:4496
@@ -13799,10 +13399,6 @@ translate russian kleio_meet_bree_c67f8b14:
 # ch/kleio/events.rpy:4513
 translate russian kleio_meet_bree_483ef6f6:
     "Как и задницы Клео!"
-
-# ch/kleio/events.rpy:4514
-translate russian kleio_meet_bree_d838491b:
-    mike.say "На Zbox мы и дома поиграем, [bree.name]."
 
 # ch/kleio/events.rpy:4515
 translate russian kleio_meet_bree_3921382f:
@@ -13949,7 +13545,7 @@ translate russian kleio_twintails_01_fc13c4de:
     mike.say "Да, Клео..."
 
 # ch/kleio/events.rpy:4565
-translate russian kleio_twintails_01_6fb1d89d:
+translate russian kleio_twintails_01_b6f01e29:
     kleio.say "Я... вообще-то хотела кое о чём поговорить."
 
 # ch/kleio/events.rpy:4566
@@ -14137,7 +13733,7 @@ translate russian kleio_twintails_01_e2863f85:
     kleio.say "Изысканнее, значит?"
 
 # ch/kleio/events.rpy:4621
-translate russian kleio_twintails_01_b561565b:
+translate russian kleio_twintails_01_d8d63084:
     kleio.say "Интересно... очень интересно."
 
 # ch/kleio/events.rpy:4622
@@ -14200,10 +13796,6 @@ translate russian kleio_twintails_02_04391b10:
 translate russian kleio_twintails_02_b0dce918:
     "Но как ни стараюсь, мозг отказывается это осмыслить."
 
-# ch/kleio/events.rpy:4644
-translate russian kleio_twintails_02_d49c216f:
-    kleio.say "Привет, сердцеед!"
-
 # ch/kleio/events.rpy:4645
 translate russian kleio_twintails_02_65b3cc0b:
     kleio.say "Давно не виделись, а?"
@@ -14225,7 +13817,7 @@ translate russian kleio_twintails_02_ca8951dc:
     mike.say "Да, давно, правда?"
 
 # ch/kleio/events.rpy:4651
-translate russian kleio_twintails_02_dccdd404:
+translate russian kleio_twintails_02_1c8ff175:
     mike.say "Ты... эм... отлично выглядишь!"
 
 # ch/kleio/events.rpy:4652
@@ -14321,7 +13913,7 @@ translate russian kleio_twintails_02_7253b1f3:
     "Но эта перемена делает её для меня ещё привлекательнее!"
 
 # ch/kleio/events.rpy:4677
-translate russian kleio_twintails_02_bd8da8c8:
+translate russian kleio_twintails_02_2878c47d:
     mike.say "Ух ты, Клео... просто ух ты!"
 
 # ch/kleio/events.rpy:4678
@@ -14381,7 +13973,7 @@ translate russian kleio_twintails_02_a8921e8e:
     "Теперь Клео начинает выглядеть немного неуверенно."
 
 # ch/kleio/events.rpy:4698
-translate russian kleio_twintails_02_ded63b86:
+translate russian kleio_twintails_02_c98b5307:
     kleio.say "Н... ну да!"
 
 # ch/kleio/events.rpy:4699
@@ -14397,7 +13989,7 @@ translate russian kleio_twintails_02_54819d17:
     mike.say "У меня бы на такую длину ушли месяцы!"
 
 # ch/kleio/events.rpy:4702
-translate russian kleio_twintails_02_ac9814d9:
+translate russian kleio_twintails_02_ced83740:
     mike.say "Ого... тебе что, приходится стричься каждую неделю?"
 
 # ch/kleio/events.rpy:4704
@@ -14441,7 +14033,7 @@ translate russian kleio_twintails_02_534b1359:
     kleio.say "Какая ещё [bree.name]?"
 
 # ch/kleio/events.rpy:4716
-translate russian kleio_twintails_02_9f37e1f9:
+translate russian kleio_twintails_02_8d3b0c48:
     kleio.say "А... та белобрысая пустышка?"
 
 # ch/kleio/events.rpy:4717
@@ -14661,7 +14253,7 @@ translate russian kleio_call_me_master_9d43e7eb:
     "Клео кивает, спеша показать свою преданность."
 
 # ch/kleio/events.rpy:4785
-translate russian kleio_call_me_master_0f86b238:
+translate russian kleio_call_me_master_d37ca092:
     kleio.say "О да... господин!"
 
 # ch/kleio/events.rpy:4786
@@ -15061,11 +14653,11 @@ translate russian kleio_sub_event_1_ff7c34a5:
     kleio.say "Ох..."
 
 # ch/kleio/events.rpy:4925
-translate russian kleio_sub_event_1_50a2ab43:
+translate russian kleio_sub_event_1_dfa2439e:
     kleio.say "Ты это заслужил... господин!"
 
 # ch/kleio/events.rpy:4926
-translate russian kleio_sub_event_1_fb1bc026:
+translate russian kleio_sub_event_1_39110606:
     kleio.say "Но, пожалуйста... можно мне его?"
 
 # ch/kleio/events.rpy:4927
@@ -15217,7 +14809,7 @@ translate russian kleio_sub_event_1_2a1943f9:
     "Клео с готовностью кивает в ответ на ласки, продолжая энергично двигаться."
 
 # ch/kleio/events.rpy:4975
-translate russian kleio_sub_event_1_956e29f1:
+translate russian kleio_sub_event_1_e42308f7:
     kleio.say "Д... да..."
 
 # ch/kleio/events.rpy:4976
@@ -15225,7 +14817,7 @@ translate russian kleio_sub_event_1_9bd20c39:
     kleio.say "Играй со мной, господин..."
 
 # ch/kleio/events.rpy:4977
-translate russian kleio_sub_event_1_835f4ca8:
+translate russian kleio_sub_event_1_d7540731:
     kleio.say "Я вся твоя... до последней частички!"
 
 # ch/kleio/events.rpy:4979
@@ -15341,7 +14933,7 @@ translate russian kleio_sub_event_1_31e053ea:
     "Но всё же находит что ответить."
 
 # ch/kleio/events.rpy:5038
-translate russian kleio_sub_event_1_b8f3fa9c:
+translate russian kleio_sub_event_1_21cadf9a:
     kleio.say "Это... просто крем для лица, офицер."
 
 # ch/kleio/events.rpy:5039
@@ -15368,10 +14960,6 @@ translate russian kleio_sub_event_1_80d06a5d:
 translate russian kleio_sub_event_1_46d0e349:
     "Но сначала нахожу для Клео пачку бумажных салфеток в бардачке."
 
-# ch/kleio/fuck.rpy:73
-translate russian kleio_hottub_sex_male_87d06e01:
-    "Приглашая Клео понежиться в джакузи, я старался придать предложению невинный вид."
-
 # ch/kleio/fuck.rpy:74
 translate russian kleio_hottub_sex_male_88be186d:
     "Ну, будто это просто возможность расслабиться и побыть вместе."
@@ -15393,7 +14981,7 @@ translate russian kleio_hottub_sex_male_43325e3a:
     "Она не меньше других девушек любит повеселиться."
 
 # ch/kleio/fuck.rpy:79
-translate russian kleio_hottub_sex_male_5b411ec2:
+translate russian kleio_hottub_sex_male_f4ae43ca:
     "Просто иногда бывает... ну, колючей."
 
 # ch/kleio/fuck.rpy:80
@@ -15424,10 +15012,6 @@ translate russian kleio_hottub_sex_male_9e77d8ab:
 translate russian kleio_hottub_sex_male_4361aff9:
     "Большая часть меня рада, что та часть, которая становится всё больше, скрыта под водой!"
 
-# ch/kleio/fuck.rpy:89
-translate russian kleio_hottub_sex_male_6499ff36:
-    kleio.say "Что ты так на меня смотришь, сердцеед?"
-
 # ch/kleio/fuck.rpy:91
 translate russian kleio_hottub_sex_male_f1d8a63c:
     mike.say "Эм..."
@@ -15441,7 +15025,7 @@ translate russian kleio_hottub_sex_male_99552147:
     kleio.say "Будто умираешь от жажды, а я — стакан воды!"
 
 # ch/kleio/fuck.rpy:96
-translate russian kleio_hottub_sex_male_3c7b1247:
+translate russian kleio_hottub_sex_male_733d9d67:
     mike.say "Я... не понимаю, о чём ты, Клео!"
 
 # ch/kleio/fuck.rpy:97
@@ -15488,10 +15072,6 @@ translate russian kleio_hottub_sex_male_abe9c5fd:
 translate russian kleio_hottub_sex_male_c3de752b:
     mike.say "Ничего я не репетировал..."
 
-# ch/kleio/fuck.rpy:112
-translate russian kleio_hottub_sex_male_22424377:
-    kleio.say "Сердцеед, ну пожалуйста. Ты с таким лицом стоял, ещё когда я куртку не сняла."
-
 # ch/kleio/fuck.rpy:114
 translate russian kleio_hottub_sex_male_026f44f7:
     "Она права, и ухмылка говорит, что она это знает. А я ничего не могу поделать ни с тем, ни с другим."
@@ -15499,10 +15079,6 @@ translate russian kleio_hottub_sex_male_026f44f7:
 # ch/kleio/fuck.rpy:116
 translate russian kleio_hottub_sex_male_236d13d2:
     "Клео пожимает плечами и тихонько усмехается."
-
-# ch/kleio/fuck.rpy:118
-translate russian kleio_hottub_sex_male_1c5bfd7e:
-    kleio.say "Ладно, сердцеед."
 
 # ch/kleio/fuck.rpy:119
 translate russian kleio_hottub_sex_male_5f36288d:
@@ -15536,10 +15112,6 @@ translate russian kleio_hottub_sex_male_67ca7695:
 translate russian kleio_hottub_sex_male_bb314273:
     "Она откидывает голову на облицованный плиткой край, закрывает глаза и вытягивает ногу, нарочно проводя ступнёй по моей икре под водой."
 
-# ch/kleio/fuck.rpy:130
-translate russian kleio_hottub_sex_male_64bf2bf6:
-    kleio.say "Спорим, ты хотел бы делать это руками, а, сердцеед? Сидишь тут и изнываешь."
-
 # ch/kleio/fuck.rpy:131
 translate russian kleio_hottub_sex_male_f1d8a63c_1:
     mike.say "Эм..."
@@ -15563,10 +15135,6 @@ translate russian kleio_hottub_sex_male_70c2e2f5:
 # ch/kleio/fuck.rpy:136
 translate russian kleio_hottub_sex_male_587d5713:
     "Притворная невинность так и сочится из каждой поры."
-
-# ch/kleio/fuck.rpy:137
-translate russian kleio_hottub_sex_male_1c6a93a8:
-    kleio.say "Ой, что такое, сердцеед?"
 
 # ch/kleio/fuck.rpy:138
 translate russian kleio_hottub_sex_male_004d958d:
@@ -15599,10 +15167,6 @@ translate russian kleio_hottub_sex_male_28fc67b6:
 # ch/kleio/fuck.rpy:145
 translate russian kleio_hottub_sex_male_26fdf997:
     "Но улыбка, расцветающая на нём, тёплая и ободряющая."
-
-# ch/kleio/fuck.rpy:146
-translate russian kleio_hottub_sex_male_18505eb8:
-    kleio.say "Ох, сердцеед!"
 
 # ch/kleio/fuck.rpy:147
 translate russian kleio_hottub_sex_male_a3f947ff:
@@ -15660,10 +15224,6 @@ translate russian kleio_hottub_sex_male_44dd1392:
 translate russian kleio_hottub_sex_male_8bc0bf5e:
     "Под водой она медленно ласкает меня, поворачивая кисть при каждом движении, и следит за моим лицом, чтобы поймать миг, когда я потеряю самообладание."
 
-# ch/kleio/fuck.rpy:164
-translate russian kleio_hottub_sex_male_27a30033:
-    kleio.say "Ага, вот оно. Когда я так делаю, ты становишься совсем глупым и честным. Люблю в тебе это, сердцеед."
-
 # ch/kleio/fuck.rpy:165
 translate russian kleio_hottub_sex_male_69c8a22d:
     "Радуясь, что игры наконец позади, я спешу подчиниться."
@@ -15716,10 +15276,6 @@ translate russian kleio_hottub_sex_male_f597bdbc:
 translate russian kleio_hottub_sex_male_ea8c9286:
     "Она хватает меня за волосы и притягивает ухом к губам, всё ещё командуя, хотя мои пальцы глубоко в ней."
 
-# ch/kleio/fuck.rpy:181
-translate russian kleio_hottub_sex_male_bbf3dbad:
-    kleio.say "Хватит дразнить, сердцеед. Я не ради флирта сюда залезла. Хочу по-настоящему."
-
 # ch/kleio/fuck.rpy:182
 translate russian kleio_hottub_sex_male_f1c85e75:
     "Стоит нам взяться за дело, и прежняя неловкость бесследно исчезает."
@@ -15735,10 +15291,6 @@ translate russian kleio_hottub_sex_male_ead447b9:
 # ch/kleio/fuck.rpy:187
 translate russian kleio_hottub_sex_male_ef2cb151:
     "Она заводит руку назад и сама направляет меня, проводя головкой по своей мокрой киске. Теперь, получив желаемое, уже никуда не торопится."
-
-# ch/kleio/fuck.rpy:188
-translate russian kleio_hottub_sex_male_0eb6af67:
-    kleio.say "Думаю об этом с тех пор, как увидела твоё поплывшее лицо у края джакузи, сердцеед."
 
 # ch/kleio/fuck.rpy:190
 translate russian kleio_hottub_sex_male_75543870:
@@ -15779,10 +15331,6 @@ translate russian kleio_hottub_sex_male_1010536e:
 # ch/kleio/fuck.rpy:200
 translate russian kleio_hottub_sex_male_c0c4027a:
     "Всё время кивает, подбадривая, пока я не вхожу до предела."
-
-# ch/kleio/fuck.rpy:201
-translate russian kleio_hottub_sex_male_0960a313:
-    kleio.say "Вот он. Боже, вот он. Именно там, где я весь вечер его хотела, сердцеед."
 
 # ch/kleio/fuck.rpy:202
 translate russian kleio_hottub_sex_male_9fc35938:
@@ -15864,10 +15412,6 @@ translate russian kleio_hottub_sex_male_78d28c19:
 translate russian kleio_hottub_sex_male_889e183f:
     "Сегодня в ней ни капли покорности, и она недвусмысленно это показывает, с каждым толчком подавая бёдра назад и перехватывая инициативу."
 
-# ch/kleio/fuck.rpy:231
-translate russian kleio_hottub_sex_male_1a4e3315:
-    kleio.say "Секс есть секс, сердцеед. Так что постарайся для меня. Докажи, на что способен."
-
 # ch/kleio/fuck.rpy:233
 translate russian kleio_hottub_sex_male_bfd7b1f9:
     "Тепло воды и её тела, запах хлорки и пота сливаются воедино, пока во всём мире не остаётся только Клео."
@@ -15877,7 +15421,7 @@ translate russian kleio_hottub_sex_male_f43dadd2:
     "На долю секунды сарказм сходит с её лица, обнажая то, в чём при свете дня она ни за что не признается."
 
 # ch/kleio/fuck.rpy:236
-translate russian kleio_hottub_sex_male_7907f0ba:
+translate russian kleio_hottub_sex_male_dac14d37:
     kleio.say "У меня кончились шутки, [lssb_kleio.hero_name()]. Просто... останься. Останься здесь со мной."
 
 # ch/kleio/fuck.rpy:238
@@ -15892,10 +15436,6 @@ translate russian kleio_hottub_sex_male_b3de5620:
 translate russian kleio_hottub_sex_male_68177cd9:
     "Её глаза полуприкрыты, взгляд отрешён. Для неё это уже просто хороший вечер и ничего больше — именно так она и предпочитает."
 
-# ch/kleio/fuck.rpy:242
-translate russian kleio_hottub_sex_male_1bb70f2b:
-    kleio.say "Никаких чувств, сердцеед. Просто охрененное удовольствие. Таков уговор."
-
 # ch/kleio/fuck.rpy:244
 translate russian kleio_hottub_sex_male_f476674c:
     "Округлый живот возвышается над водой. Я кладу раскрытую ладонь на его нижнюю часть и чувствую, как всё её тело сжимается вокруг меня."
@@ -15909,7 +15449,7 @@ translate russian kleio_hottub_sex_male_53f5107a:
     "Всё её тело напрягается, дыхание сбивается с каждым толчком. Я понимаю: она на самом краю."
 
 # ch/kleio/fuck.rpy:248
-translate russian kleio_hottub_sex_male_86f680f1:
+translate russian kleio_hottub_sex_male_9ea854f4:
     kleio.say "О... мой... бог!"
 
 # ch/kleio/fuck.rpy:249
@@ -15917,7 +15457,7 @@ translate russian kleio_hottub_sex_male_70f96de7:
     kleio.say "От тебя я сейчас кончу..."
 
 # ch/kleio/fuck.rpy:250
-translate russian kleio_hottub_sex_male_92befbad:
+translate russian kleio_hottub_sex_male_80a1dbfa:
     kleio.say "Пожалуйста... не... останавливайся!"
 
 # ch/kleio/fuck.rpy:251
@@ -15936,16 +15476,12 @@ translate russian kleio_hottub_sex_male_1446a7ac:
 translate russian kleio_hottub_sex_male_346c0682:
     "Она чувствует это и сжимается, вдавливаясь мне в бёдра, чтобы мне некуда было деться, кроме как глубже."
 
-# ch/kleio/fuck.rpy:257
-translate russian kleio_hottub_sex_male_a805200d:
-    kleio.say "Не смей вытаскивать, сердцеед. Хочу каждую каплю там, где ей положено быть."
-
 # ch/kleio/fuck.rpy:262
 translate russian kleio_hottub_sex_male_7e9a03d7:
     "Я изливаюсь как можно глубже, ощущая тепло её округлого живота, и больше нет ни одной причины сдерживаться."
 
 # ch/kleio/fuck.rpy:263
-translate russian kleio_hottub_sex_male_a2a752ed:
+translate russian kleio_hottub_sex_male_e69da991:
     kleio.say "М-м... теперь уже поздновато стесняться, [lssb_kleio.hero_name()]. Дай мне всё."
 
 # ch/kleio/fuck.rpy:265
@@ -15959,10 +15495,6 @@ translate russian kleio_hottub_sex_male_405b22c5:
 # ch/kleio/fuck.rpy:269
 translate russian kleio_hottub_sex_male_ac2b0592:
     kleio.say "Всё до капли, [lssb_kleio.hero_name()]. Именно куда ты хочешь."
-
-# ch/kleio/fuck.rpy:271
-translate russian kleio_hottub_sex_male_5e6379bb:
-    kleio.say "Всё до капли, сердцеед. Именно куда ты хочешь."
 
 # ch/kleio/fuck.rpy:273
 translate russian kleio_hottub_sex_male_ecbabd89:
@@ -15997,7 +15529,7 @@ translate russian kleio_hottub_sex_male_05b9c8aa:
     "Она издаёт почти отчаянный звериный звук, лишившись того, к чему так стремилась."
 
 # ch/kleio/fuck.rpy:286
-translate russian kleio_hottub_sex_male_84e32311:
+translate russian kleio_hottub_sex_male_a4f7906e:
     kleio.say "Нет, нет, нет... вернись внутрь, ты... ох, ох, чёрт..."
 
 # ch/kleio/fuck.rpy:287
@@ -16023,10 +15555,6 @@ translate russian kleio_hottub_sex_male_e0998dcf:
 # ch/kleio/fuck.rpy:298
 translate russian kleio_hottub_sex_male_f2c3c490:
     "Она поворачивается посмотреть, как я покрываю её спермой, непристойно ухмыляется, проводит двумя пальцами по бедру и засовывает их в рот."
-
-# ch/kleio/fuck.rpy:299
-translate russian kleio_hottub_sex_male_9187c474:
-    kleio.say "Трус. Я хотела это внутрь. В следующий раз будешь должен, сердцеед."
 
 # ch/kleio/fuck.rpy:300
 translate russian kleio_hottub_sex_male_9b2df078:
@@ -16157,7 +15685,7 @@ translate russian kleio_fuck_date_intro_male_a9f2f781:
     mike.say "Но не слишком спеши, ладно?"
 
 # ch/kleio/fuck.rpy:388
-translate russian kleio_fuck_date_intro_male_c99f2506:
+translate russian kleio_fuck_date_intro_male_31214bea:
     kleio.say "Эм... да, хорошо."
 
 # ch/kleio/fuck.rpy:389
@@ -16204,10 +15732,6 @@ translate russian kleio_fuck_date_intro_male_e39cf678:
 translate russian kleio_fuck_date_intro_male_f1ee24d0:
     "А теперь едва ли не сама тащит меня в спальню!"
 
-# ch/kleio/fuck.rpy:401
-translate russian kleio_fuck_date_intro_male_6d650dc2:
-    kleio.say "Давай, сердцеед!"
-
 # ch/kleio/fuck.rpy:402
 translate russian kleio_fuck_date_intro_male_edaf8658:
     kleio.say "Чего ты ждёшь?"
@@ -16249,12 +15773,8 @@ translate russian kleio_fuck_date_intro_male_54308bee:
     "И вскоре мы отчаянно путаемся в руках и ногах."
 
 # ch/kleio/fuck.rpy:413
-translate russian kleio_fuck_date_intro_male_150040ae:
+translate russian kleio_fuck_date_intro_male_2e8b1d2f:
     kleio.say "А... что..."
-
-# ch/kleio/fuck.rpy:414
-translate russian kleio_fuck_date_intro_male_82b21425:
-    kleio.say "В чём дело, сердцеед?"
 
 # ch/kleio/fuck.rpy:415
 translate russian kleio_fuck_date_intro_male_d6018c09:
@@ -16269,7 +15789,7 @@ translate russian kleio_fuck_date_intro_male_67d5b96e:
     mike.say "Угх..."
 
 # ch/kleio/fuck.rpy:418
-translate russian kleio_fuck_date_intro_male_3e6535b5:
+translate russian kleio_fuck_date_intro_male_451ba26d:
     mike.say "Я... я тоже, Клео!"
 
 # ch/kleio/fuck.rpy:419
@@ -16313,16 +15833,12 @@ translate russian kleio_fuck_date_intro_male_072e5a1c:
     kleio.say "Весь вечер об этом думала."
 
 # ch/kleio/fuck.rpy:430
-translate russian kleio_fuck_date_intro_male_1eb51b83:
+translate russian kleio_fuck_date_intro_male_7a35d9da:
     mike.say "П... правда?"
 
 # ch/kleio/fuck.rpy:431
 translate russian kleio_fuck_date_intro_male_e34418fa:
     kleio.say "О да!"
-
-# ch/kleio/fuck.rpy:432
-translate russian kleio_fuck_date_intro_male_d29149d4:
-    kleio.say "Так что трахни меня как следует, сердцеед!"
 
 # ch/kleio/fuck.rpy:433
 translate russian kleio_fuck_date_intro_male_021f570e:
@@ -16335,10 +15851,6 @@ translate russian kleio_fuck_date_intro_male_c10f753a:
 # ch/kleio/fuck.rpy:435
 translate russian kleio_fuck_date_intro_male_b6a0d97e:
     "Она прикусывает губу, а я чувствую, какая она мокрая."
-
-# ch/kleio/fuck.rpy:436
-translate russian kleio_fuck_date_intro_male_baf1ab97:
-    kleio.say "Давай, сердцеед, вытрахай из меня все мозги!"
 
 # ch/kleio/fuck.rpy:438
 translate russian kleio_fuck_date_intro_male_736e479d:
@@ -16355,10 +15867,6 @@ translate russian kleio_fuck_date_intro_male_76692332:
 # ch/kleio/fuck.rpy:441
 translate russian kleio_fuck_date_intro_male_c61c6537:
     "Не то чтобы меня нужно уговаривать: я следую за ней с таким нетерпением, словно это наш первый раз."
-
-# ch/kleio/fuck.rpy:442
-translate russian kleio_fuck_date_intro_male_2c0bc66d:
-    kleio.say "Давай, сердцеед."
 
 # ch/kleio/fuck.rpy:443
 translate russian kleio_fuck_date_intro_male_d0363417:
@@ -16480,10 +15988,6 @@ translate russian kleio_fuck_date_choices_male_e0870643:
 translate russian kleio_fuck_date_reverse_cowgirl_b6d142c1:
     "Клео не ждёт приглашения. Перекидывает ногу через меня, поворачивается спиной к моей груди и опускается верхом на бёдра."
 
-# ch/kleio/fuck.rpy:526
-translate russian kleio_fuck_date_reverse_cowgirl_8632d3ea:
-    kleio.say "Моя очередь за руль, сердцеед."
-
 # ch/kleio/fuck.rpy:527
 translate russian kleio_fuck_date_reverse_cowgirl_0447591f:
     "Она оглядывается через плечо с уже готовой непристойной ухмылкой и сама направляет мой член."
@@ -16495,10 +15999,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_8f696ef6:
 # ch/kleio/fuck.rpy:530
 translate russian kleio_fuck_date_reverse_cowgirl_8a1e61fc:
     kleio.say "Просто лежи красивый, [lssb_kleio.hero_name()]. И постарайся за мной поспеть."
-
-# ch/kleio/fuck.rpy:532
-translate russian kleio_fuck_date_reverse_cowgirl_66775e54:
-    kleio.say "Просто лежи красивый, сердцеед. И постарайся за мной поспеть."
 
 # ch/kleio/fuck.rpy:534
 translate russian kleio_fuck_date_reverse_cowgirl_ff694fdb:
@@ -16540,10 +16040,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_950ae95d:
 translate russian kleio_fuck_date_reverse_cowgirl_7d2fbb9c:
     "Она разминает плечи, хрустит шеей, будто перед сменой под машиной, и заводит руку назад, вцепляясь мне в волосы."
 
-# ch/kleio/fuck.rpy:549
-translate russian kleio_fuck_date_reverse_cowgirl_b0e98be6:
-    kleio.say "Пристегнись, сердцеед. Медленно и тихо я не умею."
-
 # ch/kleio/fuck.rpy:560
 translate russian kleio_fuck_date_reverse_cowgirl_92fc9f50:
     "Одним жадным движением она насаживается на всю длину, прежде чем я успеваю приготовиться к такому удовольствию."
@@ -16555,10 +16051,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_aa03add8:
 # ch/kleio/fuck.rpy:562
 translate russian kleio_fuck_date_reverse_cowgirl_19cebcc8:
     "Она разок вращает бёдрами, примеряясь. От этого медленного непристойного движения я весь напрягаюсь, чтобы не кончить сразу."
-
-# ch/kleio/fuck.rpy:563
-translate russian kleio_fuck_date_reverse_cowgirl_e980a467:
-    kleio.say "Вот он. Знала, что в этих жалких джинсиках ты прячешь что-то стоящее, сердцеед."
 
 # ch/kleio/fuck.rpy:567
 translate russian kleio_fuck_date_reverse_cowgirl_5d8b6e64:
@@ -16588,10 +16080,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_651a3310:
 translate russian kleio_fuck_date_reverse_cowgirl_3c5c21cc:
     kleio.say "Бери, [lssb_kleio.hero_name()]. Как угодно жёстко. Я здесь, чтобы меня использовали."
 
-# ch/kleio/fuck.rpy:589
-translate russian kleio_fuck_date_reverse_cowgirl_01d8fbf3:
-    kleio.say "Бери, сердцеед. Как угодно жёстко. Я здесь, чтобы меня использовали."
-
 # ch/kleio/fuck.rpy:590
 translate russian kleio_fuck_date_reverse_cowgirl_c38bac03:
     "Я сжимаю её бёдра и толкаюсь снизу, сам задавая темп. Она теряет голову и с каждым движением стонет благодарности."
@@ -16607,10 +16095,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_57249578:
 # ch/kleio/fuck.rpy:601
 translate russian kleio_fuck_date_reverse_cowgirl_734e2b6a:
     "Сегодня она ничего не уступает. Скачет на мне так, будто хочет что-то доказать, а вспоминать об этом утром придётся мне."
-
-# ch/kleio/fuck.rpy:602
-translate russian kleio_fuck_date_reverse_cowgirl_8f469ec7:
-    kleio.say "Секс есть секс, сердцеед, и я в нём очень хороша. Постарайся помнить об этом, пока я тебя затрахиваю."
 
 # ch/kleio/fuck.rpy:606
 translate russian kleio_fuck_date_reverse_cowgirl_4e6974fd:
@@ -16644,10 +16128,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_ffa6e880:
 translate russian kleio_fuck_date_reverse_cowgirl_2c7b6710:
     "Глаза у неё уже полуприкрыты, взгляд отрешён. Для неё это просто удовольствие и ничего больше — именно так ей нравится."
 
-# ch/kleio/fuck.rpy:626
-translate russian kleio_fuck_date_reverse_cowgirl_b9c23e52:
-    kleio.say "Никаких чувств, сердцеед. Просто хорошая жёсткая скачка. Только и всего."
-
 # ch/kleio/fuck.rpy:631
 translate russian kleio_fuck_date_reverse_cowgirl_6ec2e504:
     "Округлый живот меняет её движения: они медленнее, тяжелее, больше вращений, чем ударов. Я кладу ладонь внизу живота и чувствую её дрожь."
@@ -16668,17 +16148,9 @@ translate russian kleio_fuck_date_reverse_cowgirl_35c520d1:
 translate russian kleio_fuck_date_reverse_cowgirl_40bd178b:
     "Успеваю приподнять её с себя и кончаю ей на поясницу."
 
-# ch/kleio/fuck.rpy:643
-translate russian kleio_fuck_date_reverse_cowgirl_1bcd056c:
-    kleio.say "Тьфу. Зря добру пропадать, сердцеед."
-
 # ch/kleio/fuck.rpy:647
 translate russian kleio_fuck_date_reverse_cowgirl_645fd3fa:
     "Я кончаю глубоко внутри, в презерватив, а она с каждым сокращением прижимается сильнее, выжимая меня досуха."
-
-# ch/kleio/fuck.rpy:651
-translate russian kleio_fuck_date_reverse_cowgirl_4c473cd8:
-    kleio.say "Я предохраняюсь, сердцеед. Давай всё."
 
 # ch/kleio/fuck.rpy:652
 translate russian kleio_fuck_date_reverse_cowgirl_ed4c8bd0:
@@ -16691,10 +16163,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_4d82d665:
 # ch/kleio/fuck.rpy:661
 translate russian kleio_fuck_date_reverse_cowgirl_5821b117:
     "Пытаюсь вытащить, но Клео прижимается и следует за мной, пресекает эту мысль, едва она успевает возникнуть."
-
-# ch/kleio/fuck.rpy:662
-translate russian kleio_fuck_date_reverse_cowgirl_9b2022c5:
-    kleio.say "Не-а. Поздно, сердцеед. Теперь мы в этом вместе."
 
 # ch/kleio/fuck.rpy:663
 translate russian kleio_fuck_date_reverse_cowgirl_3f3fd8eb:
@@ -16712,10 +16180,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_6aa29dfa:
 translate russian kleio_fuck_date_reverse_cowgirl_9e976570:
     "Я слишком близко, чтобы вытащить. Когда осознаю это, уже изливаюсь глубоко внутри неё."
 
-# ch/kleio/fuck.rpy:676
-translate russian kleio_fuck_date_reverse_cowgirl_351f017e:
-    kleio.say "...сердцеед. У тебя сегодня была ОДНА задача. Одна."
-
 # ch/kleio/fuck.rpy:677
 translate russian kleio_fuck_date_reverse_cowgirl_14d7bc83:
     "Температура в комнате будто падает градусов на десять, и я прикидываю, как быстро смогу найти джинсы."
@@ -16723,10 +16187,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_14d7bc83:
 # ch/kleio/fuck.rpy:681
 translate russian kleio_fuck_date_reverse_cowgirl_90d463f4:
     "Она приподнимается, рукой направляет меня выше и насаживается на член уже попкой, шипя сквозь зубы от растяжения."
-
-# ch/kleio/fuck.rpy:682
-translate russian kleio_fuck_date_reverse_cowgirl_641c8dd8:
-    kleio.say "Блядь. Да. Вот так. Затрахай меня, сердцеед."
 
 # ch/kleio/fuck.rpy:686
 translate russian kleio_fuck_date_reverse_cowgirl_e3043d15:
@@ -16760,10 +16220,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_ff182253:
 translate russian kleio_fuck_date_reverse_cowgirl_dd8de7e8:
     kleio.say "Твоя, [lssb_kleio.hero_name()]. Вся, каждая дырочка, всё что хочешь. Только не останавливайся."
 
-# ch/kleio/fuck.rpy:709
-translate russian kleio_fuck_date_reverse_cowgirl_e68b5465:
-    kleio.say "Твоя, сердцеед. Вся целиком. Что хочешь, только не останавливайся."
-
 # ch/kleio/fuck.rpy:714
 translate russian kleio_fuck_date_reverse_cowgirl_c67f42ea:
     "Даже принимая так глубоко, она не сдаётся окончательно: подаётся навстречу, словно всё ещё главная, до конца жадная и дерзкая."
@@ -16795,10 +16251,6 @@ translate russian kleio_fuck_date_reverse_cowgirl_52869188:
 # ch/kleio/fuck.rpy:735
 translate russian kleio_fuck_date_reverse_cowgirl_7f42a5a4:
     kleio.say "Трус. Я хотела это внутрь."
-
-# ch/kleio/fuck.rpy:740
-translate russian kleio_fuck_date_reverse_cowgirl_83b93972:
-    kleio.say "Ха. В этот раз ты почти за мной поспел, сердцеед. Почти."
 
 # ch/kleio/fuck.rpy:742
 translate russian kleio_fuck_date_reverse_cowgirl_af2f5c12:
@@ -16888,17 +16340,9 @@ translate russian kleio_fuck_date_cunni_2a53bb22:
 translate russian kleio_fuck_date_cunni_1fc06c00:
     "Одной рукой продолжает касаться половых губ, другой подзывает меня."
 
-# ch/kleio/fuck.rpy:778
-translate russian kleio_fuck_date_cunni_3270d7cc:
-    kleio.say "Ну? Так и будешь стоять и любоваться пейзажем, сердцеед? Иди сюда, вниз."
-
 # ch/kleio/fuck.rpy:780
 translate russian kleio_fuck_date_cunni_c515f0f5:
     kleio.say "Давай, [lssb_kleio.hero_name()]. Вылижи мою киску, а? Весь вечер думаю об этом твоём дерзком ротике."
-
-# ch/kleio/fuck.rpy:782
-translate russian kleio_fuck_date_cunni_1b44a955:
-    kleio.say "Давай, сердцеед. Вылижи мою киску, а? Пусть твой дерзкий рот хоть раз займётся делом."
 
 # ch/kleio/fuck.rpy:784
 translate russian kleio_fuck_date_cunni_ec1491ce:
@@ -16931,10 +16375,6 @@ translate russian kleio_fuck_date_cunni_424687b5:
 # ch/kleio/fuck.rpy:797
 translate russian kleio_fuck_date_cunni_f6edc053:
     "Она откидывается на руки, округлый живот возвышается между нами. Разводит колени шире и неспешно, непристойно вращает бёдрами."
-
-# ch/kleio/fuck.rpy:798
-translate russian kleio_fuck_date_cunni_dcbf0a94:
-    kleio.say "Я от гормонов всю неделю на стены лезу, сердцеед. Так что ты там надолго. Надеюсь, размялся."
 
 # ch/kleio/fuck.rpy:799
 translate russian kleio_fuck_date_cunni_56858138:
@@ -16980,10 +16420,6 @@ translate russian kleio_fuck_date_cunni_d400162d:
 translate russian kleio_fuck_date_cunni_ac08edf5:
     "Её бёдра уже тянутся к моему рту. Я едва начал, а поток непристойных комментариев уже льётся."
 
-# ch/kleio/fuck.rpy:811
-translate russian kleio_fuck_date_cunni_514e9085:
-    kleio.say "Знала, что этот рот годится не только для огрызаний. Докажи мою правоту, сердцеед."
-
 # ch/kleio/fuck.rpy:815
 translate russian kleio_fuck_date_cunni_7ec39b03:
     "Клео реагирует почти сразу, как только мой язык начинает гладить складки её киски."
@@ -17028,10 +16464,6 @@ translate russian kleio_fuck_date_cunni_b799c696:
 translate russian kleio_fuck_date_cunni_36dd362a:
     "Она хватает меня за волосы и трётся о мой рот, продолжая командовать, даже лёжа на спине и теряя голову."
 
-# ch/kleio/fuck.rpy:829
-translate russian kleio_fuck_date_cunni_29ccf192:
-    kleio.say "Вот так. Работай ртом. Наконец нашли, на что он годится, а, сердцеед?"
-
 # ch/kleio/fuck.rpy:831
 translate russian kleio_fuck_date_cunni_6fb68024:
     "Но удовольствие получает не только она."
@@ -17064,10 +16496,6 @@ translate russian kleio_fuck_date_cunni_2b4485d7:
 translate russian kleio_fuck_date_cunni_f65e61a2:
     "Я ослабляю ласку и просто дышу на неё, едва касаясь губами. Она рычит и тянется за моим ртом, не вынося даже мгновенной потери."
 
-# ch/kleio/fuck.rpy:839
-translate russian kleio_fuck_date_cunni_ea1b9c6a:
-    kleio.say "Не смей дразнить. Я тебе не игрушка, сердцеед. Вернись к работе."
-
 # ch/kleio/fuck.rpy:841
 translate russian kleio_fuck_date_cunni_fbb0ed32:
     "Я даю ей желаемое, теперь настойчивее: ввожу два пальца и сгибаю к чувствительной точке, пока язык продолжает ласку. Её спина выгибается над кроватью."
@@ -17096,10 +16524,6 @@ translate russian kleio_fuck_date_cunni_7fb0732a:
 translate russian kleio_fuck_date_cunni_a38ee88c:
     "От обычного сопротивления ничего не осталось. Под моим языком она стала податливой и молящей, позволяя мне вести её куда угодно."
 
-# ch/kleio/fuck.rpy:852
-translate russian kleio_fuck_date_cunni_65f4a732:
-    kleio.say "Пожалуйста. Пожалуйста, я уже близко. Не смей теперь останавливаться, сердцеед, я серьёзно."
-
 # ch/kleio/fuck.rpy:854
 translate russian kleio_fuck_date_cunni_a06118ef:
     "Она прижимается к моему лицу, словно владеет им, жадная и громкая, берёт всё что хочет. Я с радостью даю."
@@ -17116,10 +16540,6 @@ translate russian kleio_fuck_date_cunni_1b7ee66b:
 translate russian kleio_fuck_date_cunni_36c73f1f:
     "Почувствовав остановку, она резко распахивает глаза, одновременно яростные и отчаянные."
 
-# ch/kleio/fuck.rpy:859
-translate russian kleio_fuck_date_cunni_aa9f312a:
-    kleio.say "Я разрешала останавливаться? Назад, вниз, сердцеед. Мы ещё даже близко не закончили."
-
 # ch/kleio/fuck.rpy:861
 translate russian kleio_fuck_date_cunni_fab70026:
     "Я смеюсь, прижавшись к ней, и возвращаюсь к делу. Одной вибрации от смеха едва не хватает, чтобы она кончила."
@@ -17135,10 +16555,6 @@ translate russian kleio_fuck_date_cunni_5c27b003:
 # ch/kleio/fuck.rpy:864
 translate russian kleio_fuck_date_cunni_5b07ff4b:
     "Она цепляется за простыни, за волосы, за что угодно. Все её непристойности растворяются в одном долгом нескончаемом стоне."
-
-# ch/kleio/fuck.rpy:865
-translate russian kleio_fuck_date_cunni_bbaaca9e:
-    kleio.say "Я сейчас... о боже, сердцеед, я уже... уже... не... не... не останавливайся."
 
 # ch/kleio/fuck.rpy:866
 translate russian kleio_fuck_date_cunni_dc7558d0:
@@ -17237,7 +16653,7 @@ translate russian kleio_fuck_date_cunni_86a21e1a_1:
     kleio.say "Что ты..."
 
 # ch/kleio/fuck.rpy:896
-translate russian kleio_fuck_date_cunni_36a6c361:
+translate russian kleio_fuck_date_cunni_decd321b:
     kleio.say "Ох... о-о-ох... ох, чёрт!"
 
 # ch/kleio/fuck.rpy:897
@@ -17293,7 +16709,7 @@ translate russian kleio_fuck_date_cunni_5e624359:
     kleio.say "Это так..."
 
 # ch/kleio/fuck.rpy:914
-translate russian kleio_fuck_date_cunni_870c89c5:
+translate russian kleio_fuck_date_cunni_82a1eff1:
     kleio.say "Приятно... как приятно!"
 
 # ch/kleio/fuck.rpy:915
@@ -17349,7 +16765,7 @@ translate russian kleio_fuck_date_cunni_315b0a7c:
     kleio.say "Ух..."
 
 # ch/kleio/fuck.rpy:931
-translate russian kleio_fuck_date_cunni_86d38822:
+translate russian kleio_fuck_date_cunni_b259ff6e:
     kleio.say "Чт... что ты..."
 
 # ch/kleio/fuck.rpy:933
@@ -17445,7 +16861,7 @@ translate russian kleio_fuck_date_cunni_86a21e1a_3:
     kleio.say "Что ты..."
 
 # ch/kleio/fuck.rpy:960
-translate russian kleio_fuck_date_cunni_36a6c361_1:
+translate russian kleio_fuck_date_cunni_decd321b_1:
     kleio.say "Ох... о-о-ох... ох, чёрт!"
 
 # ch/kleio/fuck.rpy:961
@@ -17485,7 +16901,7 @@ translate russian kleio_fuck_date_cunni_5e624359_1:
     kleio.say "Это так..."
 
 # ch/kleio/fuck.rpy:972
-translate russian kleio_fuck_date_cunni_870c89c5_1:
+translate russian kleio_fuck_date_cunni_82a1eff1_1:
     kleio.say "Приятно... как приятно!"
 
 # ch/kleio/fuck.rpy:973
@@ -17519,10 +16935,6 @@ translate russian kleio_fuck_date_cunni_bffb2049_1:
 # ch/kleio/fuck.rpy:980
 translate russian kleio_fuck_date_cunni_e65c9c00:
     "Чувствую, как в ней всё нарастает: тело натягивается, а с каждым движением языка дыхание становится выше и прерывистее."
-
-# ch/kleio/fuck.rpy:981
-translate russian kleio_fuck_date_cunni_fef4aab4:
-    kleio.say "Не останавливайся. Только не останавливайся. Клянусь богом, сердцеед, бросишь меня сейчас — я тебя прикончу."
 
 # ch/kleio/fuck.rpy:982
 translate russian kleio_fuck_date_cunni_e478cd48:
@@ -17561,19 +16973,15 @@ translate russian kleio_fuck_date_cunni_34d8d78d:
     "Она падает на кровать, и я резко выпрямляюсь, жадно вдыхая воздух."
 
 # ch/kleio/fuck.rpy:993
-translate russian kleio_fuck_date_cunni_1048c738:
+translate russian kleio_fuck_date_cunni_ec4bd14e:
     mike.say "Ах... ах..."
-
-# ch/kleio/fuck.rpy:994
-translate russian kleio_fuck_date_cunni_f777647c:
-    kleio.say "Чт... что такое, сердцеед?"
 
 # ch/kleio/fuck.rpy:995
 translate russian kleio_fuck_date_cunni_a39c071f:
     kleio.say "Ты в порядке?"
 
 # ch/kleio/fuck.rpy:996
-translate russian kleio_fuck_date_cunni_70f676ae:
+translate russian kleio_fuck_date_cunni_41adc3b0:
     mike.say "Я... думаю, да, Клео."
 
 # ch/kleio/fuck.rpy:997
@@ -17624,17 +17032,9 @@ translate russian kleio_fuck_date_cunni_554d1cf4:
 translate russian kleio_fuck_date_cunni_befa0e53:
     "Она закидывает лодыжку мне на плечо, не спеша отпускать, и лениво улыбается так, как стала бы отрицать перед каждым, кто этого не видел."
 
-# ch/kleio/fuck.rpy:1014
-translate russian kleio_fuck_date_cunni_30516fc5:
-    kleio.say "Ладно. Ладно, добавим это в список причин, по которым я держу тебя рядом, сердцеед."
-
 # ch/kleio/fuck.rpy:1016
 translate russian kleio_fuck_date_cunni_1f99e343:
     "Она довольно стонет и вытягивается, расслабленная, словно без костей. Для неё это просто удовольствие и ничего больше — так ей нравится."
-
-# ch/kleio/fuck.rpy:1017
-translate russian kleio_fuck_date_cunni_445b2fb9:
-    kleio.say "Секс есть секс, сердцеед. Но такой рот? Это настоящий талант. Не растрачивай впустую."
 
 # ch/kleio/fuck.rpy:1019
 translate russian kleio_fuck_date_cunni_40267641:
@@ -17680,10 +17080,6 @@ translate russian kleio_fuck_date_bj_55f7551f:
 translate russian kleio_fuck_date_bj_99d32113:
     "Плюёт между грудей, чтобы лучше скользило, сжимает их сильнее и сохраняет ритм, не отводя взгляда."
 
-# ch/kleio/fuck.rpy:1040
-translate russian kleio_fuck_date_bj_4b26fb73:
-    kleio.say "Нравится смотреть на меня внизу, сердцеед? Ага. Ещё бы."
-
 # ch/kleio/fuck.rpy:1042
 translate russian kleio_fuck_date_bj_cfb57314:
     kleio.say "Не привыкай к этому виду. Я работаю только когда хочу. И сейчас хочу."
@@ -17693,7 +17089,7 @@ translate russian kleio_fuck_date_bj_55aa8567:
     kleio.say "Пожалуйста, позволь мне поклоняться твоему члену, [lssb_kleio.hero_name()]."
 
 # ch/kleio/fuck.rpy:1046
-translate russian kleio_fuck_date_bj_26017610:
+translate russian kleio_fuck_date_bj_b5e5d775:
     kleio.say "Представь, мы всё ещё не дома, а я под столом... делаю вот это."
 
 # ch/kleio/fuck.rpy:1048
@@ -17728,10 +17124,6 @@ translate russian kleio_fuck_date_bj_14cb5d8b:
 translate russian kleio_fuck_date_bj_2a9a22dd:
     "Обхватывает губами за головкой и замирает, медленно обводя её языком, позволяя сполна ощутить этот порочный рот, прежде чем дать больше."
 
-# ch/kleio/fuck.rpy:1064
-translate russian kleio_fuck_date_bj_d1e2db94:
-    kleio.say "М-м. Ещё в ресторане этого хотела, сердцеед. Смотрела, как ты ёрзаешь за ужином, будто тебе есть куда спешить."
-
 # ch/kleio/fuck.rpy:1065
 translate russian kleio_fuck_date_bj_5cfb39e8:
     "Она опускается ниже, принимает ещё немного, потом ещё, совсем не торопясь и смакуя каждый мой сбившийся вдох."
@@ -17744,17 +17136,9 @@ translate russian kleio_fuck_date_bj_3aab30f2:
 translate russian kleio_fuck_date_bj_093932f0:
     "Сегодня в её ласках есть мягкость, в том, как она устраивается между моих колен, — добровольная отдача. Будто стоять здесь на коленях именно то, чего ей хочется."
 
-# ch/kleio/fuck.rpy:1069
-translate russian kleio_fuck_date_bj_864d7f51:
-    kleio.say "Никому не говори, что мне нравится эта часть. Быть здесь, внизу. Это между нами, сердцеед."
-
 # ch/kleio/fuck.rpy:1071
 translate russian kleio_fuck_date_bj_5ce19261:
     "В её ласках нет мягкости, только голод и дерзость. Она берёт меня на своих условиях, словно предлагая рискнуть и поторопить её."
-
-# ch/kleio/fuck.rpy:1072
-translate russian kleio_fuck_date_bj_b6d3ac68:
-    kleio.say "Убери руки, сердцеед. Здесь темп задаю я. Учись получать удовольствие."
 
 # ch/kleio/fuck.rpy:1074
 translate russian kleio_fuck_date_bj_e79d85c7:
@@ -17784,10 +17168,6 @@ translate russian kleio_fuck_date_bj_ef3fe4ef:
 translate russian kleio_fuck_date_bj_cfd71eef:
     "Но она читает это по моему лицу раньше любого предупреждения и медленно выпускает член с непристойным чмоканьем."
 
-# ch/kleio/fuck.rpy:1083
-translate russian kleio_fuck_date_bj_f0322cd3:
-    kleio.say "Не-а. Ещё нет, сердцеед. Я едва начала, а ты уже дрожишь. Боже, как жалко. Обожаю."
-
 # ch/kleio/fuck.rpy:1084
 translate russian kleio_fuck_date_bj_6e7b3cbe:
     "Вместо этого ведёт языком снизу, от основания до головки, совершенно не торопясь и наблюдая за моим лицом."
@@ -17795,10 +17175,6 @@ translate russian kleio_fuck_date_bj_6e7b3cbe:
 # ch/kleio/fuck.rpy:1086
 translate russian kleio_fuck_date_bj_679b404b:
     kleio.say "Вот что самое приятное, [lssb_kleio.hero_name()]. Смотреть, как ты держишься, пока я не спеша тобой занимаюсь."
-
-# ch/kleio/fuck.rpy:1088
-translate russian kleio_fuck_date_bj_f05aa540:
-    kleio.say "Вот что самое приятное, сердцеед. Смотреть, как ты держишься, пока я никуда не спешу."
 
 # ch/kleio/fuck.rpy:1089
 translate russian kleio_fuck_date_bj_35774c24:
@@ -17832,10 +17208,6 @@ translate russian kleio_fuck_date_bj_0fbba7e7:
 translate russian kleio_fuck_date_bj_4da976fb:
     "В ней ни капли уступчивости. Она всем управляет от начала до конца, и ухмылка не оставляет в этом сомнений."
 
-# ch/kleio/fuck.rpy:1102
-translate russian kleio_fuck_date_bj_65089f8c:
-    kleio.say "Откинься и наслаждайся, сердцеед. Я достаточно этим занималась, чтобы точно знать, что с тобой делаю."
-
 # ch/kleio/fuck.rpy:1104
 translate russian kleio_fuck_date_bj_b1289160:
     "Потом она снова заглатывает меня, втягивая щёки, и все планы продержаться подольше летят в окно."
@@ -17852,10 +17224,6 @@ translate russian kleio_fuck_date_bj_be106eaf:
 translate russian kleio_fuck_date_bj_80944532:
     "Рука продолжает ласкать мои яйца, а глаза не отрываются от лица, впитывая каждое вызванное ею вздрагивание."
 
-# ch/kleio/fuck.rpy:1110
-translate russian kleio_fuck_date_bj_3a40c889:
-    kleio.say "М-м. М-м-м. Да, тебе нравится. Чувствую, как пульсируешь, сердцеед. Долго ты не выдержишь, мы оба знаем."
-
 # ch/kleio/fuck.rpy:1111
 translate russian kleio_fuck_date_bj_19e03b62:
     "Она отстраняется лишь затем, чтобы плюнуть на головку, снова помещает член между небольших грудей и ухмыляется снизу вверх."
@@ -17867,10 +17235,6 @@ translate russian kleio_fuck_date_bj_d3db9ad0:
 # ch/kleio/fuck.rpy:1115
 translate russian kleio_fuck_date_bj_1d55fe69:
     "Ошейник плотно облегает её горло. Я вижу, как он движется, когда она глотает, а она прекрасно знает, как меня заводит этот вид."
-
-# ch/kleio/fuck.rpy:1116
-translate russian kleio_fuck_date_bj_d3467ccd:
-    kleio.say "Вся твоя, сердцеед. Вместе с ошейником. Пользуйся моим ртом как захочешь."
 
 # ch/kleio/fuck.rpy:1118
 translate russian kleio_fuck_date_bj_da1d4473:
@@ -17888,17 +17252,9 @@ translate russian kleio_fuck_date_bj_54859f5e:
 translate russian kleio_fuck_date_bj_ede9f898:
     "Она низко смеётся, не выпуская меня изо рта: так звучит девушка, которая ещё месяцы назад перестала притворяться, будто всё это только ради оргазма."
 
-# ch/kleio/fuck.rpy:1123
-translate russian kleio_fuck_date_bj_89873fe4:
-    kleio.say "Ты дурная привычка, сердцеед. Самая грязная из моих. Тебе повезло: я люблю свои дурные привычки."
-
 # ch/kleio/fuck.rpy:1125
 translate russian kleio_fuck_date_bj_648bebd1:
     "Ни нежности, ни обязательств: Клео просто занимается тем, что умеет, потому что хочет, и словно бросает вызов придать этому больший смысл."
-
-# ch/kleio/fuck.rpy:1126
-translate russian kleio_fuck_date_bj_443b011e:
-    kleio.say "Секс есть секс, сердцеед. Не разводи сантименты, пока твой член у меня во рту."
 
 # ch/kleio/fuck.rpy:1128
 translate russian kleio_fuck_date_bj_4ff328f4:
@@ -17908,17 +17264,9 @@ translate russian kleio_fuck_date_bj_4ff328f4:
 translate russian kleio_fuck_date_bj_a0ce1c6d:
     "Подняв голову, тяжело дышит; от губ к головке тянется нить слюны. Никогда ещё она не выглядела такой довольной собой."
 
-# ch/kleio/fuck.rpy:1130
-translate russian kleio_fuck_date_bj_8ca9f806:
-    kleio.say "Видишь? Говорила, я в этом хороша. А теперь хватит сдерживаться, дай закончить работу, сердцеед."
-
 # ch/kleio/fuck.rpy:1132
 translate russian kleio_fuck_date_bj_a725615a:
     "Но кончить она пока не даёт. Конечно же. Отступает от края и держит меня на нём дрожащим: мучить меня — половина её удовольствия."
-
-# ch/kleio/fuck.rpy:1133
-translate russian kleio_fuck_date_bj_03f6ba5b:
-    kleio.say "Ещё нет, сердцеед. Пока я не скажу. Боже, посмотри на себя. Всё лицо умоляет, а гордость не даёт попросить вслух."
 
 # ch/kleio/fuck.rpy:1134
 translate russian kleio_fuck_date_bj_abe0d501:
@@ -17927,10 +17275,6 @@ translate russian kleio_fuck_date_bj_abe0d501:
 # ch/kleio/fuck.rpy:1136
 translate russian kleio_fuck_date_bj_5f6422aa:
     kleio.say "Лежи спокойно, [lssb_kleio.hero_name()]. Получишь, когда я решу, что заслужил. Таков уговор."
-
-# ch/kleio/fuck.rpy:1138
-translate russian kleio_fuck_date_bj_b95d76b9:
-    kleio.say "Лежи спокойно, сердцеед. Получишь, когда я решу, что заслужил. Таков уговор."
 
 # ch/kleio/fuck.rpy:1140
 translate russian kleio_fuck_date_bj_3d783668:
@@ -17972,10 +17316,6 @@ translate russian kleio_fuck_date_bj_a1d1a9d0:
 translate russian kleio_fuck_date_bj_7716fedd:
     "Свободная рука снова скользит между её бёдер, лаская себя в такт мне. Знать, что ей так нравится, почти невыносимо."
 
-# ch/kleio/fuck.rpy:1157
-translate russian kleio_fuck_date_bj_856b0787:
-    kleio.say "М-м. Угу. Давай. Дай мне, сердцеед. Я заслужила, правда? Скажи, что заслужила."
-
 # ch/kleio/fuck.rpy:1158
 translate russian kleio_fuck_date_bj_30c2a946:
     "Она снова берёт меня в рот и работает быстрее. Дразнить закончила: теперь намеренно приближает развязку, а не оттягивает."
@@ -17987,10 +17327,6 @@ translate russian kleio_fuck_date_bj_3554e2c0:
 # ch/kleio/fuck.rpy:1162
 translate russian kleio_fuck_date_bj_df8ef2d9:
     "Отстраняется с шумным вдохом, берёт мою руку с кровати и прижимает к тёплой округлости живота, удерживая там, пока другой продолжает ласкать меня."
-
-# ch/kleio/fuck.rpy:1163
-translate russian kleio_fuck_date_bj_637994cf:
-    kleio.say "Посмотри, что со мной. Это ты сделал, сердцеед. Но с тобой я ещё далеко не закончила."
 
 # ch/kleio/fuck.rpy:1165
 translate russian kleio_fuck_date_bj_394435e0:
@@ -18012,10 +17348,6 @@ translate russian kleio_fuck_date_bj_5a1409f6:
 translate russian kleio_fuck_date_bj_2ff5f618:
     kleio.say "Давай, [lssb_kleio.hero_name()]. Я с тобой. Дай мне. Хочу всё."
 
-# ch/kleio/fuck.rpy:1173
-translate russian kleio_fuck_date_bj_2426cf2c:
-    kleio.say "Давай, сердцеед. Я с тобой. Дай мне. Хочу всё."
-
 # ch/kleio/fuck.rpy:1175
 translate russian kleio_fuck_date_bj_4f03e64a:
     "Она в последний раз опускается до основания, и сдерживаться мне уже нечем."
@@ -18035,10 +17367,6 @@ translate russian kleio_fuck_date_bj_30048b32:
 # ch/kleio/fuck.rpy:1184
 translate russian kleio_fuck_date_bj_e3d2eac9:
     kleio.say "Кончай мне на лицо, [lssb_kleio.hero_name()]. Давай. Дай мне."
-
-# ch/kleio/fuck.rpy:1186
-translate russian kleio_fuck_date_bj_5d5277a6:
-    kleio.say "Ну давай, сердцеед. Разрисуй меня. Только теперь не стесняйся."
 
 # ch/kleio/fuck.rpy:1187
 translate russian kleio_fuck_date_bj_a1396d1f:
@@ -18064,10 +17392,6 @@ translate russian kleio_fuck_date_bj_62a94175:
 translate russian kleio_fuck_date_bj_d0286783:
     kleio.say "Спасибо, [lssb_kleio.hero_name()]. Говорила же, это моё. Всё."
 
-# ch/kleio/fuck.rpy:1199
-translate russian kleio_fuck_date_bj_ff1c3e7c:
-    kleio.say "Спасибо, сердцеед. Говорила же, это моё. Всё."
-
 # ch/kleio/fuck.rpy:1201
 translate russian kleio_fuck_date_bj_36d353ef:
     kleio.say "Посмотри, что ты со мной сделал. ...и хватит так улыбаться, самодовольный засранец. Мне нравится, и ты это знаешь."
@@ -18077,7 +17401,7 @@ translate russian kleio_fuck_date_bj_54ff3f72:
     kleio.say "Спасибо, [lssb_kleio.hero_name()]."
 
 # ch/kleio/fuck.rpy:1205
-translate russian kleio_fuck_date_bj_063812c9:
+translate russian kleio_fuck_date_bj_332d12ae:
     kleio.say "Говорила же, это моё... всё."
 
 # ch/kleio/fuck.rpy:1206
@@ -18112,10 +17436,6 @@ translate russian kleio_fuck_date_bj_77ae7870:
 translate russian kleio_fuck_date_bj_1c792ed4:
     kleio.say "...ни капли, господин. Обещаю. Всё моё."
 
-# ch/kleio/fuck.rpy:1229
-translate russian kleio_fuck_date_bj_9ff52e5c:
-    kleio.say "...ни капли, сердцеед. Даю слово."
-
 # ch/kleio/fuck.rpy:1231
 translate russian kleio_fuck_date_bj_9ab163d6:
     mike.say "Глотай, Клео. Всё."
@@ -18141,19 +17461,15 @@ translate russian kleio_fuck_date_bj_08b330de:
     kleio.say "...ага. Моё. Только не делай это неловким, [lssb_kleio.hero_name()]. Серьёзно. Не надо."
 
 # ch/kleio/fuck.rpy:1241
-translate russian kleio_fuck_date_bj_c455abc7:
+translate russian kleio_fuck_date_bj_258d70c7:
     mike.say "Это твоё, Клео... но я тоже решаю, как ты это получишь."
 
 # ch/kleio/fuck.rpy:1243
 translate russian kleio_fuck_date_bj_4842d34a:
     "Её запыхавшееся выражение постепенно сменяется понимающей усмешкой, выдавая удовольствие от редких проявлений моей власти."
 
-# ch/kleio/fuck.rpy:1244
-translate russian kleio_fuck_date_bj_34e5debe:
-    kleio.say "Сегодня командуешь. Я могла бы привыкнуть, сердцеед. Только не зазнавайся."
-
 # ch/kleio/fuck.rpy:1252
-translate russian kleio_fuck_date_bj_5ea573c4:
+translate russian kleio_fuck_date_bj_b5177f98:
     mike.say "Ох, блядь... Клео, хватит... хочу кончить в тебя!"
 
 # ch/kleio/fuck.rpy:1253
@@ -18193,11 +17509,11 @@ translate russian kleio_sleep_date_fuck_e66e78a0:
     kleio.say "Можно сегодня разделить с тобой постель, господин?"
 
 # ch/kleio/fuck.rpy:1281
-translate russian kleio_sleep_date_fuck_cf397c03:
+translate russian kleio_sleep_date_fuck_967f9157:
     kleio.say "М-м-м... не против, если я останусь на ночь?"
 
 # ch/kleio/fuck.rpy:1284
-translate russian kleio_sleep_date_fuck_788d9cdd:
+translate russian kleio_sleep_date_fuck_4498d9e0:
     mike.say "Нет... мне завтра очень рано вставать."
 
 # ch/kleio/fuck.rpy:1285
@@ -18209,7 +17525,7 @@ translate russian kleio_sleep_date_fuck_59ee62ee:
     "Клео разочарованно хмурится, явно пытаясь отмахнуться от чувства отверженности."
 
 # ch/kleio/fuck.rpy:1287
-translate russian kleio_sleep_date_fuck_8254957e:
+translate russian kleio_sleep_date_fuck_e73a667f:
     kleio.say "Ладно... спокойной ночи, наверное."
 
 # ch/kleio/fuck.rpy:1288
@@ -18217,7 +17533,7 @@ translate russian kleio_sleep_date_fuck_24186f74:
     "Она качает головой, собирает вещи и выходит из спальни."
 
 # ch/kleio/fuck.rpy:1293
-translate russian kleio_sleep_date_fuck_785f12ef:
+translate russian kleio_sleep_date_fuck_32318b76:
     mike.say "ДА... то есть да... если хочешь!"
 
 # ch/kleio/fuck.rpy:1294
@@ -18244,10 +17560,6 @@ translate russian kleio_sleep_date_fuck_ce6cf086:
 translate russian kleio_fuck_date_cowgirl_947f485c:
     "Клео ставит колени по обе стороны моих бёдер и приподнимается надо мной: сухие мышцы и дурные намерения. Ладонь на груди удерживает меня там, где ей нужно."
 
-# ch/kleio/fuck.rpy:1311
-translate russian kleio_fuck_date_cowgirl_ff905451:
-    kleio.say "Моя поездка — мои правила, сердцеед. Просто лежи и принимай, что дают."
-
 # ch/kleio/fuck.rpy:1312
 translate russian kleio_fuck_date_cowgirl_efd1f684:
     "Неон из окна красит её в красные и синие тона, на ключицах уже выступает пот, а кривая усмешка нацелена прямо на меня."
@@ -18255,10 +17567,6 @@ translate russian kleio_fuck_date_cowgirl_efd1f684:
 # ch/kleio/fuck.rpy:1314
 translate russian kleio_fuck_date_cowgirl_63b4449d:
     kleio.say "Постарайся сохранить лицо, [lssb_kleio.hero_name()]. Не хочется сломать тебя на первом круге."
-
-# ch/kleio/fuck.rpy:1316
-translate russian kleio_fuck_date_cowgirl_8989e114:
-    kleio.say "Держись, сердцеед. Не хочется сломать тебя на первом круге."
 
 # ch/kleio/fuck.rpy:1318
 translate russian kleio_fuck_date_cowgirl_39525eaf:
@@ -18293,7 +17601,7 @@ translate russian kleio_fuck_date_cowgirl_86187531:
     "На секунду она замолкает и смотрит на меня так, словно больше не может убедить себя перестать меня хотеть."
 
 # ch/kleio/fuck.rpy:1332
-translate russian kleio_fuck_date_cowgirl_433650a4:
+translate russian kleio_fuck_date_cowgirl_9e45492c:
     kleio.say "Не придавай этому значения, [lssb_kleio.hero_name()]. Я просто... ага. Заткнись. Иди сюда."
 
 # ch/kleio/fuck.rpy:1334
@@ -18307,10 +17615,6 @@ translate russian kleio_fuck_date_cowgirl_f6e62a8c:
 # ch/kleio/fuck.rpy:1337
 translate russian kleio_fuck_date_cowgirl_0a6d586a:
     "Она медленно и непристойно проводит бёдрами по мне, ещё не впуская внутрь, просто чтобы увидеть мою дрожь."
-
-# ch/kleio/fuck.rpy:1338
-translate russian kleio_fuck_date_cowgirl_a41b9c3b:
-    kleio.say "Итак. Куда ты меня хочешь, сердцеед? Тебе решать. Выбирай хорошо."
 
 # ch/kleio/fuck.rpy:1341
 translate russian kleio_fuck_date_cowgirl_00bd9577:
@@ -18329,11 +17633,11 @@ translate russian kleio_fuck_date_cowgirl_230e838b:
     "Через мгновение её глаза расширяются: значит, попал точно в цель."
 
 # ch/kleio/fuck.rpy:1346
-translate russian kleio_fuck_date_cowgirl_8926ba9a:
+translate russian kleio_fuck_date_cowgirl_c79db596:
     kleio.say "А-ах... блядь..."
 
 # ch/kleio/fuck.rpy:1347
-translate russian kleio_fuck_date_cowgirl_40a416bb:
+translate russian kleio_fuck_date_cowgirl_fa9d7c3f:
     kleio.say "[lssb_kleio.hero_name()]... это... моя задница!"
 
 # ch/kleio/fuck.rpy:1348
@@ -18361,15 +17665,15 @@ translate russian kleio_fuck_date_cowgirl_43e46e78:
     "Она тихо всхлипывает, а мышцы дрожат, принимая меня целиком."
 
 # ch/kleio/fuck.rpy:1354
-translate russian kleio_fuck_date_cowgirl_a578c5b3:
+translate russian kleio_fuck_date_cowgirl_34527918:
     kleio.say "Это... приятно..."
 
 # ch/kleio/fuck.rpy:1355
-translate russian kleio_fuck_date_cowgirl_bd5add41:
+translate russian kleio_fuck_date_cowgirl_cc8b3442:
     kleio.say "Очень... приятно!"
 
 # ch/kleio/fuck.rpy:1357
-translate russian kleio_fuck_date_cowgirl_830a2ed3:
+translate russian kleio_fuck_date_cowgirl_4a45c74c:
     kleio.say "Пожалуйста... не вытаскивай... не останавливайся!"
 
 # ch/kleio/fuck.rpy:1358
@@ -18493,7 +17797,7 @@ translate russian kleio_fuck_date_cowgirl_61f50d96:
     "Я почти чувствую её внутренний голод, то, как сильно она сейчас меня жаждет."
 
 # ch/kleio/fuck.rpy:1415
-translate russian kleio_fuck_date_cowgirl_285e5550:
+translate russian kleio_fuck_date_cowgirl_13e2c5e1:
     kleio.say "Вот... об этом... я и... говорю!"
 
 # ch/kleio/fuck.rpy:1416
@@ -18513,11 +17817,11 @@ translate russian kleio_fuck_date_cowgirl_b7339781:
     "Упирается руками мне в грудь и, кажется, наслаждается тем, что делает основную работу."
 
 # ch/kleio/fuck.rpy:1420
-translate russian kleio_fuck_date_cowgirl_7e971a74:
+translate russian kleio_fuck_date_cowgirl_cec014e3:
     mike.say "Мой... мой член... любит тебя, Клео!"
 
 # ch/kleio/fuck.rpy:1421
-translate russian kleio_fuck_date_cowgirl_29143027:
+translate russian kleio_fuck_date_cowgirl_0cd1db45:
     mike.say "Любит... твою... киску..."
 
 # ch/kleio/fuck.rpy:1422
@@ -18568,10 +17872,6 @@ translate russian kleio_fuck_date_cowgirl_ff57bc4e:
 translate russian kleio_fuck_date_cowgirl_dab11978:
     kleio.say "Бери как угодно жёстко, [lssb_kleio.hero_name()]. Я здесь, чтобы меня использовали."
 
-# ch/kleio/fuck.rpy:1439
-translate russian kleio_fuck_date_cowgirl_3549b080:
-    kleio.say "Бери как хочешь, сердцеед. Я здесь, чтобы меня использовали."
-
 # ch/kleio/fuck.rpy:1440
 translate russian kleio_fuck_date_cowgirl_473d5659:
     "Я упираюсь пятками и толкаюсь снизу, сам задавая ритм. Она теряет голову и стонет благодарности при каждом движении."
@@ -18580,17 +17880,9 @@ translate russian kleio_fuck_date_cowgirl_473d5659:
 translate russian kleio_fuck_date_cowgirl_80f059b2:
     "На миг ритм дикой кошки сбивается, и она позволяет мне управлять, принимая мои движения вместо того, чтобы командовать."
 
-# ch/kleio/fuck.rpy:1444
-translate russian kleio_fuck_date_cowgirl_0b6b56bd:
-    kleio.say "Блядь. Ладно. Этот раунд твой, сердцеед. Только не смей останавливаться."
-
 # ch/kleio/fuck.rpy:1447
 translate russian kleio_fuck_date_cowgirl_a9c7eb47:
     "Сегодня она ничего не уступает. Скачет на мне так, будто хочет что-то доказать, а вспоминать об этом утром придётся мне."
-
-# ch/kleio/fuck.rpy:1448
-translate russian kleio_fuck_date_cowgirl_e40db93f:
-    kleio.say "Секс есть секс, сердцеед, и я в нём очень хороша. Помни об этом, пока я тебя затрахиваю."
 
 # ch/kleio/fuck.rpy:1451
 translate russian kleio_fuck_date_cowgirl_a09cc8c7:
@@ -18611,10 +17903,6 @@ translate russian kleio_fuck_date_cowgirl_1fb41fbb:
 # ch/kleio/fuck.rpy:1459
 translate russian kleio_fuck_date_cowgirl_f4b6662b:
     "Округлый живот меняет её движения: медленнее, тяжелее, больше вращений, чем ударов. Я кладу ладонь внизу живота и чувствую её дрожь."
-
-# ch/kleio/fuck.rpy:1460
-translate russian kleio_fuck_date_cowgirl_d64dfd81:
-    kleio.say "Осторожно, сердцеед. Ценный груз. Но это не значит, что можно сбавлять темп."
 
 # ch/kleio/fuck.rpy:1461
 translate russian kleio_fuck_date_cowgirl_4e6974fd:
@@ -18709,7 +17997,7 @@ translate russian kleio_fuck_date_cowgirl_3c080e19:
     "Она качает головой, побуждая продолжать."
 
 # ch/kleio/fuck.rpy:1504
-translate russian kleio_fuck_date_cowgirl_eeac72c4:
+translate russian kleio_fuck_date_cowgirl_137d15b4:
     kleio.say "Таблетки... помнишь... [lssb_kleio.hero_name()]!"
 
 # ch/kleio/fuck.rpy:1505
@@ -18845,15 +18133,15 @@ translate russian kleio_fuck_date_cowgirl_75b68a25:
     kleio.say "Не останавливайся, [lssb_kleio.hero_name()], пожалуйста!"
 
 # ch/kleio/fuck.rpy:1562
-translate russian kleio_fuck_date_cowgirl_4dbebb42:
+translate russian kleio_fuck_date_cowgirl_eaa63acf:
     kleio.say "Я... я этого хочу."
 
 # ch/kleio/fuck.rpy:1563
-translate russian kleio_fuck_date_cowgirl_71026233:
+translate russian kleio_fuck_date_cowgirl_d4129fad:
     kleio.say "Пожалуйста... кончи в меня?"
 
 # ch/kleio/fuck.rpy:1565
-translate russian kleio_fuck_date_cowgirl_5ab04edf:
+translate russian kleio_fuck_date_cowgirl_f5bbb4b9:
     kleio.say "Наполни меня, [lssb_kleio.hero_name()]. Сделай мне ребёнка, если хочешь... я в любом случае твоя."
 
 # ch/kleio/fuck.rpy:1567
@@ -18912,10 +18200,6 @@ translate russian kleio_fuck_date_cowgirl_6feeddfd:
 translate russian kleio_fuck_date_cowgirl_38861bfe:
     "Она разом выдыхает и тает у меня на груди, наконец замирая."
 
-# ch/kleio/fuck.rpy:1589
-translate russian kleio_fuck_date_cowgirl_d3df70c8:
-    kleio.say "...только не зазнавайся, сердцеед."
-
 # ch/kleio/fuck.rpy:1590
 translate russian kleio_fuck_date_cowgirl_a70d64bc:
     "Но слезать не спешит. Вскоре прячет лицо у меня на шее, скрывая улыбку, которую скорее умрёт, чем покажет."
@@ -18927,10 +18211,6 @@ translate russian kleio_fuck_date_cowgirl_7a5113a3:
 # ch/kleio/fuck.rpy:1593
 translate russian kleio_fuck_date_cowgirl_13f9e8e1:
     "Она улыбается у моей ключицы, расслабленная и беззаботная, какой больше никому на свете не позволила бы себя увидеть."
-
-# ch/kleio/fuck.rpy:1595
-translate russian kleio_fuck_date_cowgirl_0263b742:
-    kleio.say "Ну вот. Убили час, сердцеед."
 
 # ch/kleio/fuck.rpy:1596
 translate russian kleio_fuck_date_cowgirl_22f39403:
@@ -18948,10 +18228,6 @@ translate russian kleio_fuck_date_cowgirl_7e838b88:
 translate russian kleio_fuck_date_cowgirl2_fe5128c3:
     "Клео уже сидит на мне верхом и водит горячей мокрой киской вдоль члена, не впуская внутрь. Ухмылка говорит: она точно знает, что делает."
 
-# ch/kleio/fuck.rpy:1608
-translate russian kleio_fuck_date_cowgirl2_7e89171c:
-    kleio.say "Посмотри на себя, весь извёлся. Так сильно хочешь, сердцеед?"
-
 # ch/kleio/fuck.rpy:1609
 translate russian kleio_fuck_date_cowgirl2_e8ef9117:
     "Она снова вращает бёдрами, дразня и проводя по мне, пока я почти не схожу с ума. Её смех — сплошная непристойность."
@@ -18959,10 +18235,6 @@ translate russian kleio_fuck_date_cowgirl2_e8ef9117:
 # ch/kleio/fuck.rpy:1611
 translate russian kleio_fuck_date_cowgirl2_a21ea8a5:
     kleio.say "Попроси немного. Давай, [lssb_kleio.hero_name()]. Хочу услышать."
-
-# ch/kleio/fuck.rpy:1613
-translate russian kleio_fuck_date_cowgirl2_4cd1657c:
-    kleio.say "Попроси немного. Давай, сердцеед. Хочу услышать."
 
 # ch/kleio/fuck.rpy:1615
 translate russian kleio_fuck_date_cowgirl2_a32f6dc5:
@@ -18987,10 +18259,6 @@ translate russian kleio_fuck_date_cowgirl2_fa12d046:
 # ch/kleio/fuck.rpy:1625
 translate russian kleio_fuck_date_cowgirl2_c27dc500:
     "Надо мной движется её полный округлый живот. Я веду ладонью по его изгибу, и она не отмахивается, как раньше."
-
-# ch/kleio/fuck.rpy:1626
-translate russian kleio_fuck_date_cowgirl2_fe645538:
-    kleio.say "Осторожнее с товаром, сердцеед. Но это не просьба нежничать."
 
 # ch/kleio/fuck.rpy:1628
 translate russian kleio_fuck_date_cowgirl2_3f235cad:
@@ -19029,15 +18297,15 @@ translate russian kleio_fuck_date_cowgirl2_9ca0570c:
     "Глаза расширяются, когда она понимает, что я делаю."
 
 # ch/kleio/fuck.rpy:1641
-translate russian kleio_fuck_date_cowgirl2_c8314341:
+translate russian kleio_fuck_date_cowgirl2_62bdc64b:
     kleio.say "Ох... ты..."
 
 # ch/kleio/fuck.rpy:1642
-translate russian kleio_fuck_date_cowgirl2_8f51d965:
+translate russian kleio_fuck_date_cowgirl2_a1fbbeb5:
     kleio.say "Ты... ты не посмеешь..."
 
 # ch/kleio/fuck.rpy:1643
-translate russian kleio_fuck_date_cowgirl2_84512f03:
+translate russian kleio_fuck_date_cowgirl2_3119e805:
     kleio.say "Ты... ты не можешь..."
 
 # ch/kleio/fuck.rpy:1645
@@ -19053,7 +18321,7 @@ translate russian kleio_fuck_date_cowgirl2_0f04015d:
     "Но я толкаюсь вверх, а она одновременно опускается."
 
 # ch/kleio/fuck.rpy:1648
-translate russian kleio_fuck_date_cowgirl2_e7d39eee:
+translate russian kleio_fuck_date_cowgirl2_6908dbab:
     kleio.say "Блядь... блядь..."
 
 # ch/kleio/fuck.rpy:1649
@@ -19077,15 +18345,15 @@ translate russian kleio_fuck_date_cowgirl2_12eb4054:
     "Наконец щёки краснеют, и она стыдливо отводит взгляд."
 
 # ch/kleio/fuck.rpy:1654
-translate russian kleio_fuck_date_cowgirl2_5ad70938:
+translate russian kleio_fuck_date_cowgirl2_603b041e:
     kleio.say "Мне... мне нравится..."
 
 # ch/kleio/fuck.rpy:1655
-translate russian kleio_fuck_date_cowgirl2_38fe4245:
+translate russian kleio_fuck_date_cowgirl2_e2a09406:
     kleio.say "То есть... я в восторге!"
 
 # ch/kleio/fuck.rpy:1656
-translate russian kleio_fuck_date_cowgirl2_64ff3404:
+translate russian kleio_fuck_date_cowgirl2_227f4b24:
     kleio.say "Пожалуйста... трахни меня в попку?"
 
 # ch/kleio/fuck.rpy:1657
@@ -19232,10 +18500,6 @@ translate russian kleio_fuck_date_cowgirl2_5e816508:
 translate russian kleio_fuck_date_cowgirl2_cbefa456:
     kleio.say "М-м-м..."
 
-# ch/kleio/fuck.rpy:1720
-translate russian kleio_fuck_date_cowgirl2_b159eaf2:
-    kleio.say "Как же хорош сегодня твой член, сердцеед!"
-
 # ch/kleio/fuck.rpy:1721
 translate russian kleio_fuck_date_cowgirl2_2df36308:
     kleio.say "Такой большой, заполняет меня целиком!"
@@ -19251,10 +18515,6 @@ translate russian kleio_fuck_date_cowgirl2_e93af0dd:
 # ch/kleio/fuck.rpy:1724
 translate russian kleio_fuck_date_cowgirl2_3d169868:
     "Она улыбается мне сверху и массирует себе грудь."
-
-# ch/kleio/fuck.rpy:1725
-translate russian kleio_fuck_date_cowgirl2_f1c62d2f:
-    kleio.say "Давай, сердцеед."
 
 # ch/kleio/fuck.rpy:1726
 translate russian kleio_fuck_date_cowgirl2_93cb8862:
@@ -19285,11 +18545,11 @@ translate russian kleio_fuck_date_cowgirl2_519f8c62:
     kleio.say "О да..."
 
 # ch/kleio/fuck.rpy:1733
-translate russian kleio_fuck_date_cowgirl2_df35d5a3:
+translate russian kleio_fuck_date_cowgirl2_80db0ba5:
     kleio.say "Вот так... вот..."
 
 # ch/kleio/fuck.rpy:1734
-translate russian kleio_fuck_date_cowgirl2_10c613fb:
+translate russian kleio_fuck_date_cowgirl2_33fafbe1:
     kleio.say "О боже... я... ох, блядь..."
 
 # ch/kleio/fuck.rpy:1735
@@ -19340,10 +18600,6 @@ translate russian kleio_fuck_date_cowgirl2_4a7be277:
 translate russian kleio_fuck_date_cowgirl2_d916107f:
     kleio.say "Как захочешь, [lssb_kleio.hero_name()]. Используй меня до конца. Для этого я и нужна."
 
-# ch/kleio/fuck.rpy:1752
-translate russian kleio_fuck_date_cowgirl2_1206076b:
-    kleio.say "Как захочешь, сердцеед. Используй меня до конца. Для этого я и нужна."
-
 # ch/kleio/fuck.rpy:1753
 translate russian kleio_fuck_date_cowgirl2_203f11ab:
     "Я крепко держу её бёдра и вколачиваюсь снизу, перехватывая управление. С каждым толчком она всхлипывает благодарности."
@@ -19359,10 +18615,6 @@ translate russian kleio_fuck_date_cowgirl2_06121d29:
 # ch/kleio/fuck.rpy:1760
 translate russian kleio_fuck_date_cowgirl2_f90973d1:
     "Она ни на миг не уступает руль, скачет словно что-то доказывая, до конца жадная и дерзкая."
-
-# ch/kleio/fuck.rpy:1761
-translate russian kleio_fuck_date_cowgirl2_659f31b8:
-    kleio.say "Вот так. Именно так. Секс есть секс, сердцеед, а лучше меня у тебя не будет."
 
 # ch/kleio/fuck.rpy:1764
 translate russian kleio_fuck_date_cowgirl2_18a65d69:
@@ -19596,10 +18848,6 @@ translate russian kleio_fuck_date_cowgirl2_6feeddfd:
 translate russian kleio_fuck_date_cowgirl2_3f4b2c9e:
     "Что-то в ней окончательно отпускает, и она прячет лицо у меня на шее, скрывая улыбку, которую скорее умрёт, чем покажет."
 
-# ch/kleio/fuck.rpy:1880
-translate russian kleio_fuck_date_cowgirl2_08721b7c:
-    kleio.say "...это останется между нами, сердцеед."
-
 # ch/kleio/fuck.rpy:1881
 translate russian kleio_fuck_date_cowgirl2_1b3d23b5:
     "Но слезать не спешит. Находит мою руку среди переплетённых потных тел и просто держит её."
@@ -19611,10 +18859,6 @@ translate russian kleio_fuck_date_cowgirl2_ceb707cc:
 # ch/kleio/fuck.rpy:1884
 translate russian kleio_fuck_date_cowgirl2_b62c013a:
     "Она улыбается куда-то вверх, расслабленная и беззаботная, какой не бывает больше ни с кем."
-
-# ch/kleio/fuck.rpy:1886
-translate russian kleio_fuck_date_cowgirl2_aa6ed0b7:
-    kleio.say "Ну что ж. Сойдёт, сердцеед."
 
 # ch/kleio/fuck.rpy:1887
 translate russian kleio_fuck_date_cowgirl2_5236a84f:
@@ -19649,7 +18893,7 @@ translate russian kleio_fuck_date_doggy2_177f2384:
     kleio.say "Думала, может, я буду сверху?"
 
 # ch/kleio/fuck.rpy:1900
-translate russian kleio_fuck_date_doggy2_c4526e1d:
+translate russian kleio_fuck_date_doggy2_12c51513:
     kleio.say "Ну... для разнообразия?"
 
 # ch/kleio/fuck.rpy:1901
@@ -19741,7 +18985,7 @@ translate russian kleio_fuck_date_doggy2_8b5775a4:
     "Она держит лоб опущенным, бёдра поднятыми — точно так, как знает, что мне нравится, и без приказа не двигается ни на сантиметр."
 
 # ch/kleio/fuck.rpy:1930
-translate russian kleio_fuck_date_doggy2_1eb7cda9:
+translate russian kleio_fuck_date_doggy2_f5f494e3:
     kleio.say "Буду хорошей, [lssb_kleio.hero_name()]. Клянусь. Просто... используй меня уже."
 
 # ch/kleio/fuck.rpy:1932
@@ -19751,10 +18995,6 @@ translate russian kleio_fuck_date_doggy2_5d204dfe:
 # ch/kleio/fuck.rpy:1934
 translate russian kleio_fuck_date_doggy2_b6acc5e9:
     "Даже лицом вниз и в ожидании она не может полностью отбросить дерзость: бросает взгляд через плечо, словно требуя оправдать её старания."
-
-# ch/kleio/fuck.rpy:1935
-translate russian kleio_fuck_date_doggy2_be01ce18:
-    kleio.say "Ну хоть сегодня, сердцеед. Я сюда не для здоровья забралась."
 
 # ch/kleio/fuck.rpy:1937
 translate russian kleio_fuck_date_doggy2_2fd88fc4:
@@ -19833,7 +19073,7 @@ translate russian kleio_fuck_date_doggy2_4571bce4:
     "Смотрит прямо перед собой, словно боится оглянуться и увидеть, что с ней происходит."
 
 # ch/kleio/fuck.rpy:1962
-translate russian kleio_fuck_date_doggy2_8bebb686:
+translate russian kleio_fuck_date_doggy2_5d2a9f36:
     kleio.say "Пожалуйста... нежнее..."
 
 # ch/kleio/fuck.rpy:1963
@@ -19985,11 +19225,11 @@ translate russian kleio_fuck_date_doggy2_d4befe15:
     mike.say "А? Что ты сказала?"
 
 # ch/kleio/fuck.rpy:2019
-translate russian kleio_fuck_date_doggy2_76f6312c:
+translate russian kleio_fuck_date_doggy2_150dd176:
     kleio.say "Да... да... очень..."
 
 # ch/kleio/fuck.rpy:2021
-translate russian kleio_fuck_date_doggy2_d2a2506f:
+translate russian kleio_fuck_date_doggy2_b88d355c:
     kleio.say "Обожаю... твой член внутри, [lssb_kleio.hero_name()]!"
 
 # ch/kleio/fuck.rpy:2022
@@ -20021,11 +19261,11 @@ translate russian kleio_fuck_date_doggy2_2624a9d2:
     "От прежней дерзости не осталось ни следа. Она моя, я двигаю её как хочу, а она принимает всё, словно лишь для этого и создана."
 
 # ch/kleio/fuck.rpy:2033
-translate russian kleio_fuck_date_doggy2_101aacf3:
+translate russian kleio_fuck_date_doggy2_ef082b86:
     kleio.say "Спасибо, господин... спасибо, не останавливайся, пожалуйста, никогда не останавливайся..."
 
 # ch/kleio/fuck.rpy:2035
-translate russian kleio_fuck_date_doggy2_cca95867:
+translate russian kleio_fuck_date_doggy2_6b639ff8:
     kleio.say "Спасибо... боже, спасибо, [lssb_kleio.hero_name()], не останавливайся..."
 
 # ch/kleio/fuck.rpy:2036
@@ -20039,10 +19279,6 @@ translate russian kleio_fuck_date_doggy2_b4b9e862:
 # ch/kleio/fuck.rpy:2040
 translate russian kleio_fuck_date_doggy2_739f0a29:
     "Даже измотанная, лицом вниз, она не может не отвечать движениями, жадная и требовательная, берущая столько же, сколько отдаёт."
-
-# ch/kleio/fuck.rpy:2041
-translate russian kleio_fuck_date_doggy2_0d6c50e8:
-    kleio.say "Это всё, сердцеед? Давай. Хочу и завтра это чувствовать."
 
 # ch/kleio/fuck.rpy:2044
 translate russian kleio_fuck_date_doggy2_0fbbcdda:
@@ -20276,10 +19512,6 @@ translate russian kleio_fuck_date_doggy2_6feeddfd:
 translate russian kleio_fuck_date_doggy2_7c254ca9:
     "Что-то в ней окончательно расслабляется, и она прячет лицо у меня на плече, скрывая улыбку, которую скорее умрёт, чем покажет."
 
-# ch/kleio/fuck.rpy:2153
-translate russian kleio_fuck_date_doggy2_d3df70c8:
-    kleio.say "...только не зазнавайся, сердцеед."
-
 # ch/kleio/fuck.rpy:2154
 translate russian kleio_fuck_date_doggy2_c1befa59:
     "Но не отодвигается. Вскоре находит мою руку в спутанных простынях и просто держит её."
@@ -20291,10 +19523,6 @@ translate russian kleio_fuck_date_doggy2_845a692d:
 # ch/kleio/fuck.rpy:2157
 translate russian kleio_fuck_date_doggy2_32000167:
     "Она улыбается потолку, расслабленная и беззаботная, какой больше никому на свете не позволила бы себя увидеть."
-
-# ch/kleio/fuck.rpy:2159
-translate russian kleio_fuck_date_doggy2_0263b742:
-    kleio.say "Ну вот. Убили час, сердцеед."
 
 # ch/kleio/fuck.rpy:2160
 translate russian kleio_fuck_date_doggy2_c1a4c5a7:
@@ -20321,7 +19549,7 @@ translate russian kleio_fuck_date_doggy_dad438a7:
     "Восторг в глазах сразу выдаёт: ей нравится, и она хочет ещё."
 
 # ch/kleio/fuck.rpy:2174
-translate russian kleio_fuck_date_doggy_af9675e0:
+translate russian kleio_fuck_date_doggy_1b9f5317:
     mike.say "Никакая порка тебя не исправит, Клео... и никакое количество члена тоже... но пытаться я не перестану."
 
 # ch/kleio/fuck.rpy:2175
@@ -20365,16 +19593,12 @@ translate russian kleio_fuck_date_doggy_5121193b:
     "Держит лоб прижатым к матрасу, бёдра поднятыми — точно так, как знает, что мне нравится, и без приказа не двигается ни на сантиметр."
 
 # ch/kleio/fuck.rpy:2190
-translate russian kleio_fuck_date_doggy_8eb46e2d:
+translate russian kleio_fuck_date_doggy_2bd300e9:
     kleio.say "Буду хорошей. Клянусь, буду, только... используй меня уже."
 
 # ch/kleio/fuck.rpy:2192
 translate russian kleio_fuck_date_doggy_19d4df71:
     "Она выгибает спину и поднимает ко мне попку, непристойно покачиваясь. Этот жест опровергает все её циничные слова о том, что секс ничего не значит."
-
-# ch/kleio/fuck.rpy:2193
-translate russian kleio_fuck_date_doggy_87ad6aac:
-    kleio.say "Хватит пялиться, займись мной, сердцеед. Я не ради пейзажа встала на четвереньки."
 
 # ch/kleio/fuck.rpy:2195
 translate russian kleio_fuck_date_doggy_acf1a268:
@@ -20419,10 +19643,6 @@ translate russian kleio_fuck_date_doggy_c9e70432:
 # ch/kleio/fuck.rpy:2209
 translate russian kleio_fuck_date_doggy_8880125a:
     "Она подаёт бёдра назад, пытаясь поймать меня, но я снова отстраняюсь на те же пару сантиметров. Её звук — чистая досада под видом угрозы."
-
-# ch/kleio/fuck.rpy:2210
-translate russian kleio_fuck_date_doggy_7727ffd4:
-    kleio.say "Клянусь богом, сердцеед, продолжишь — я сама всё закончу."
 
 # ch/kleio/fuck.rpy:2211
 translate russian kleio_fuck_date_doggy_5866c7cb:
@@ -20533,11 +19753,11 @@ translate russian kleio_fuck_date_doggy_b1ebd00a:
     "От прежней дерзости не осталось ни следа. Она моя, я двигаю её как хочу, а она принимает всё, словно лишь для этого и создана."
 
 # ch/kleio/fuck.rpy:2257
-translate russian kleio_fuck_date_doggy_101aacf3:
+translate russian kleio_fuck_date_doggy_ef082b86:
     kleio.say "Спасибо, господин... спасибо, не останавливайся, пожалуйста, никогда не останавливайся..."
 
 # ch/kleio/fuck.rpy:2259
-translate russian kleio_fuck_date_doggy_a146220e:
+translate russian kleio_fuck_date_doggy_c1118863:
     kleio.say "Спасибо... боже, спасибо, не останавливайся, пожалуйста..."
 
 # ch/kleio/fuck.rpy:2260
@@ -20551,10 +19771,6 @@ translate russian kleio_fuck_date_doggy_a88cc9ee:
 # ch/kleio/fuck.rpy:2264
 translate russian kleio_fuck_date_doggy_4a01e980:
     "Даже измотанная, лицом вниз, она не может не отвечать движениями, жадная и требовательная, берущая столько же, сколько отдаёт."
-
-# ch/kleio/fuck.rpy:2265
-translate russian kleio_fuck_date_doggy_0d6c50e8:
-    kleio.say "Это всё, сердцеед? Давай. Хочу и завтра это чувствовать."
 
 # ch/kleio/fuck.rpy:2268
 translate russian kleio_fuck_date_doggy_1138d660:
@@ -20757,7 +19973,7 @@ translate russian kleio_fuck_date_doggy_11a459dd:
     "Не трачу время на нежность и чувствую, как она дрожит и продолжает вскрикивать, пока я двигаюсь внутри."
 
 # ch/kleio/fuck.rpy:2369
-translate russian kleio_fuck_date_doggy_ccf5da45:
+translate russian kleio_fuck_date_doggy_98ee3eb2:
     mike.say "Ты заслужила это, Клео... была очень плохой девочкой, и это твоё наказание."
 
 # ch/kleio/fuck.rpy:2370
@@ -20769,7 +19985,7 @@ translate russian kleio_fuck_date_doggy_23b063cb:
     "За несколько толчков вскрики сменяются стонами. Тело перестаёт бороться и начинает подаваться мне навстречу."
 
 # ch/kleio/fuck.rpy:2372
-translate russian kleio_fuck_date_doggy_4f981e26:
+translate russian kleio_fuck_date_doggy_4c872441:
     kleio.say "Блядь... ох, блядь, это... ненавижу, что мне это нравится, ненавижу..."
 
 # ch/kleio/fuck.rpy:2373
@@ -20793,11 +20009,11 @@ translate russian kleio_fuck_date_doggy_88dccf9a:
     "Позади и слова, и гордость. Осталась лишь острая жажда быть использованной и частые кивки: не останавливайся, не останавливайся, не останавливайся."
 
 # ch/kleio/fuck.rpy:2382
-translate russian kleio_fuck_date_doggy_8bd68d12:
+translate russian kleio_fuck_date_doggy_e5c95a0f:
     kleio.say "Куда хочешь, господин... мне всё равно, только не останавливайся..."
 
 # ch/kleio/fuck.rpy:2384
-translate russian kleio_fuck_date_doggy_222581da:
+translate russian kleio_fuck_date_doggy_be3ecb3a:
     kleio.say "Куда хочешь... мне уже всё равно, только не останавливайся..."
 
 # ch/kleio/fuck.rpy:2387
@@ -20888,10 +20104,6 @@ translate russian kleio_fuck_date_doggy_6feeddfd:
 translate russian kleio_fuck_date_doggy_37f02c3c:
     "Что-то в ней окончательно расслабляется, и она прячет лицо у меня на плече, скрывая улыбку, которую скорее умрёт, чем покажет."
 
-# ch/kleio/fuck.rpy:2429
-translate russian kleio_fuck_date_doggy_d3df70c8:
-    kleio.say "...только не зазнавайся, сердцеед."
-
 # ch/kleio/fuck.rpy:2430
 translate russian kleio_fuck_date_doggy_c1befa59:
     "Но не отодвигается. Вскоре находит мою руку в спутанных простынях и просто держит её."
@@ -20903,10 +20115,6 @@ translate russian kleio_fuck_date_doggy_fcc39a48:
 # ch/kleio/fuck.rpy:2433
 translate russian kleio_fuck_date_doggy_239d0488:
     "Она улыбается потолку, расслабленная и беззаботная, какой больше никому на свете не позволила бы себя увидеть."
-
-# ch/kleio/fuck.rpy:2435
-translate russian kleio_fuck_date_doggy_0263b742:
-    kleio.say "Ну вот. Убили час, сердцеед."
 
 # ch/kleio/fuck.rpy:2436
 translate russian kleio_fuck_date_doggy_c1a4c5a7:
@@ -20997,7 +20205,7 @@ translate russian kleio_fuck_date_missionary_706757e1:
     kleio.say "Ох, блядь... [lssb_kleio.hero_name()]... ты превращаешь меня в человеческое оригами!"
 
 # ch/kleio/fuck.rpy:2482
-translate russian kleio_fuck_date_missionary_300d2053:
+translate russian kleio_fuck_date_missionary_0fe87240:
     kleio.say "Ломай что хочешь... только, блядь, не останавливайся!"
 
 # ch/kleio/fuck.rpy:2484
@@ -21009,7 +20217,7 @@ translate russian kleio_fuck_date_missionary_996010dd:
     "Каждый толчок выбивает из неё воздух коротким резким стоном."
 
 # ch/kleio/fuck.rpy:2486
-translate russian kleio_fuck_date_missionary_c0782e25:
+translate russian kleio_fuck_date_missionary_e9de5b27:
     kleio.say "Блядь, да... вот там!"
 
 # ch/kleio/fuck.rpy:2487
@@ -21028,10 +20236,6 @@ translate russian kleio_fuck_date_missionary_76a6d058:
 translate russian kleio_fuck_date_missionary_6f2240fe:
     kleio.say "Вот так, [lssb_kleio.hero_name()]... затрахай меня по-настоящему."
 
-# ch/kleio/fuck.rpy:2494
-translate russian kleio_fuck_date_missionary_7e46a65b:
-    kleio.say "Вот так, сердцеед... затрахай меня по-настоящему."
-
 # ch/kleio/fuck.rpy:2497
 translate russian kleio_fuck_date_missionary_f3a3fb5c:
     "Дерзость уходит из голоса, уступая чему-то более низкому и обнажённому."
@@ -21045,7 +20249,7 @@ translate russian kleio_fuck_date_missionary_be26442c:
     kleio.say "Используй меня, господин. Я твоя, делай что хочешь."
 
 # ch/kleio/fuck.rpy:2502
-translate russian kleio_fuck_date_missionary_42137a7b:
+translate russian kleio_fuck_date_missionary_c5431c1c:
     kleio.say "Используй меня. Пожалуйста... скажи, что делать, и я сделаю."
 
 # ch/kleio/fuck.rpy:2503
@@ -21065,7 +20269,7 @@ translate russian kleio_fuck_date_missionary_77a666e2:
     "Больше не выкрикивает приказы, лишь принимает заданный мной темп и благодарит всем телом."
 
 # ch/kleio/fuck.rpy:2509
-translate russian kleio_fuck_date_missionary_73be2a3e:
+translate russian kleio_fuck_date_missionary_0a55421d:
     kleio.say "Не спрашивай... просто делай это со мной."
 
 # ch/kleio/fuck.rpy:2512
@@ -21109,7 +20313,7 @@ translate russian kleio_fuck_date_missionary_57e70e83:
     kleio.say "У меня кончились шутки, [lssb_kleio.hero_name()]."
 
 # ch/kleio/fuck.rpy:2526
-translate russian kleio_fuck_date_missionary_67ef6248:
+translate russian kleio_fuck_date_missionary_8ed22194:
     kleio.say "Просто... останься во мне. Останься."
 
 # ch/kleio/fuck.rpy:2529
@@ -21161,7 +20365,7 @@ translate russian kleio_fuck_date_missionary_2645fe53:
     "Чувствую, как она подходит к краю, и сам балансирую рядом."
 
 # ch/kleio/fuck.rpy:2548
-translate russian kleio_fuck_date_missionary_61088e09:
+translate russian kleio_fuck_date_missionary_3ffad64a:
     mike.say "Клео... я скоро..."
 
 # ch/kleio/fuck.rpy:2549
@@ -21321,7 +20525,7 @@ translate russian kleio_fuck_date_missionary_d1419d7f:
     kleio.say "Я хочу. Всё."
 
 # ch/kleio/fuck.rpy:2633
-translate russian kleio_fuck_date_missionary_349c1806:
+translate russian kleio_fuck_date_missionary_c1c0a110:
     kleio.say "Кончи в меня... пожалуйста?"
 
 # ch/kleio/fuck.rpy:2635
@@ -21357,7 +20561,7 @@ translate russian kleio_fuck_date_missionary_3130ad7f:
     "Она потрясённо вскрикивает, пока я вхожу до конца, а рот складывается в огромную букву «О»."
 
 # ch/kleio/fuck.rpy:2650
-translate russian kleio_fuck_date_missionary_5923e6dc:
+translate russian kleio_fuck_date_missionary_26607184:
     mike.say "Не меняй выражение, Клео... ты так похожа на секс-куклу!"
 
 # ch/kleio/fuck.rpy:2651
@@ -21381,11 +20585,11 @@ translate russian kleio_fuck_date_missionary_dc3c2806:
     "Последняя дерзость сгорает, оставляя её открытой и молящей подо мной."
 
 # ch/kleio/fuck.rpy:2660
-translate russian kleio_fuck_date_missionary_8b7d3bbd:
+translate russian kleio_fuck_date_missionary_0db0c833:
     kleio.say "Куда хочешь, господин... мне всё равно, только не останавливайся."
 
 # ch/kleio/fuck.rpy:2662
-translate russian kleio_fuck_date_missionary_d4777277:
+translate russian kleio_fuck_date_missionary_1f893e1a:
     kleio.say "Куда хочешь... мне уже всё равно, только не останавливайся."
 
 # ch/kleio/fuck.rpy:2665
@@ -21401,7 +20605,7 @@ translate russian kleio_fuck_date_missionary_fdb316a4:
     "Сочетание её ядовитого языка и невероятного тела окончательно лишает меня возможности сдерживаться."
 
 # ch/kleio/fuck.rpy:2669
-translate russian kleio_fuck_date_missionary_c1c18606:
+translate russian kleio_fuck_date_missionary_75893e1b:
     kleio.say "Не сдерживайся... забери меня с собой!"
 
 # ch/kleio/fuck.rpy:2672
@@ -21468,10 +20672,6 @@ translate russian kleio_fuck_date_missionary_6feeddfd:
 translate russian kleio_fuck_date_missionary_1e429458:
     "Напряжение разом уходит, и она словно тает в матрасе, наконец замирая подо мной."
 
-# ch/kleio/fuck.rpy:2709
-translate russian kleio_fuck_date_missionary_6689880f:
-    kleio.say "...только не вздумай зазнаваться, сердцеед."
-
 # ch/kleio/fuck.rpy:2710
 translate russian kleio_fuck_date_missionary_ce73fc2a:
     "Но рук не размыкает. Вскоре прячет лицо у меня на шее и остаётся так, скрывая его выражение."
@@ -21533,11 +20733,11 @@ translate russian kleio_garage_fuck_9c47a2d9:
     "Целыми днями потеет и пачкается в масле рядом с классными машинами!"
 
 # ch/kleio/fuck.rpy:2735
-translate russian kleio_garage_fuck_2a162a2e:
+translate russian kleio_garage_fuck_0c594646:
     "И, ну... однажды мы уже делали это в её мастерской, так что..."
 
 # ch/kleio/fuck.rpy:2736
-translate russian kleio_garage_fuck_81ca43d4:
+translate russian kleio_garage_fuck_fc378e30:
     "Да-да... никакой гарантии, что она захочет повторить."
 
 # ch/kleio/fuck.rpy:2737
@@ -21564,10 +20764,6 @@ translate russian kleio_garage_fuck_cfa6876e:
 translate russian kleio_garage_fuck_63b7f8f7:
     mike.say "Где ты, чёрт возьми?"
 
-# ch/kleio/fuck.rpy:2743
-translate russian kleio_garage_fuck_38e9a47b:
-    kleio.say "В глубине, сердцеед."
-
 # ch/kleio/fuck.rpy:2744
 translate russian kleio_garage_fuck_c52a7a64:
     kleio.say "Через минуту подойду."
@@ -21591,10 +20787,6 @@ translate russian kleio_garage_fuck_5c57eacd:
 # ch/kleio/fuck.rpy:2749
 translate russian kleio_garage_fuck_2fd7f7dc:
     mike.say "Дивана тут что-то не видно!"
-
-# ch/kleio/fuck.rpy:2750
-translate russian kleio_garage_fuck_d1d8408b:
-    kleio.say "Не знаю, сердцеед..."
 
 # ch/kleio/fuck.rpy:2751
 translate russian kleio_garage_fuck_9a23c852:
@@ -21644,10 +20836,6 @@ translate russian kleio_garage_fuck_77cc40a3:
 translate russian kleio_garage_fuck_1488cfa4:
     "Затем поворачивается ко мне, вытирая руки грязной тряпкой."
 
-# ch/kleio/fuck.rpy:2765
-translate russian kleio_garage_fuck_65736e4d:
-    kleio.say "Не утруждай себя помощью, сердцеед."
-
 # ch/kleio/fuck.rpy:2767
 translate russian kleio_garage_fuck_8a9924fc:
     kleio.say "Не хочу испортить тебе маникюр!"
@@ -21665,7 +20853,7 @@ translate russian kleio_garage_fuck_5d07fe90:
     kleio.say "Никогда механика за работой не видел?"
 
 # ch/kleio/fuck.rpy:2772
-translate russian kleio_garage_fuck_74d227fc:
+translate russian kleio_garage_fuck_6d9d5dc6:
     mike.say "В... видел, Клео..."
 
 # ch/kleio/fuck.rpy:2773
@@ -21688,10 +20876,6 @@ translate russian kleio_garage_fuck_aaec4ac7:
 translate russian kleio_garage_fuck_1fb33f10:
     "Но, к моему огромному облегчению, она заливается смехом."
 
-# ch/kleio/fuck.rpy:2778
-translate russian kleio_garage_fuck_19caa53a:
-    kleio.say "Это ТАК мило, сердцеед!"
-
 # ch/kleio/fuck.rpy:2780
 translate russian kleio_garage_fuck_09e05a64:
     kleio.say "Ты прямо как эти беспомощные дамочки, понимаешь?"
@@ -21707,10 +20891,6 @@ translate russian kleio_garage_fuck_200eb25b:
 # ch/kleio/fuck.rpy:2783
 translate russian kleio_garage_fuck_e311abf0:
     mike.say "Я и есть настоящий мужик!"
-
-# ch/kleio/fuck.rpy:2784
-translate russian kleio_garage_fuck_4e00621e:
-    kleio.say "Конечно, сердцеед!"
 
 # ch/kleio/fuck.rpy:2786
 translate russian kleio_garage_fuck_c967b08f:
@@ -21743,10 +20923,6 @@ translate russian kleio_garage_fuck_9e3b70b8:
 # ch/kleio/fuck.rpy:2793
 translate russian kleio_garage_fuck_03a609fe:
     "Обнимает за шею и придвигается вплотную."
-
-# ch/kleio/fuck.rpy:2795
-translate russian kleio_garage_fuck_a8f71840:
-    kleio.say "Да я просто прикалываюсь, сердцеед!"
 
 # ch/kleio/fuck.rpy:2796
 translate russian kleio_garage_fuck_5bc46d1e:
@@ -21799,10 +20975,6 @@ translate russian kleio_garage_fuck_33c135d5:
 # ch/kleio/fuck.rpy:2812
 translate russian kleio_garage_fuck_d3805c16:
     "Клео откидывается на машину, тяжело дыша."
-
-# ch/kleio/fuck.rpy:2814
-translate russian kleio_garage_fuck_3d57a320:
-    kleio.say "Оттрахай меня как следует, сердцеед!"
 
 # ch/kleio/fuck.rpy:2815
 translate russian kleio_garage_fuck_194f4118:
@@ -21949,15 +21121,11 @@ translate russian kleio_garage_fuck_dd3861e0:
     "Важно только одно — трахать Клео так сильно, как я могу."
 
 # ch/kleio/fuck.rpy:2863
-translate russian kleio_garage_fuck_6d08c9b5:
+translate russian kleio_garage_fuck_097801a8:
     kleio.say "В... вот так..."
 
-# ch/kleio/fuck.rpy:2864
-translate russian kleio_garage_fuck_b2e35969:
-    kleio.say "Трахай меня... сердцеед..."
-
 # ch/kleio/fuck.rpy:2866
-translate russian kleio_garage_fuck_da6e11ab:
+translate russian kleio_garage_fuck_1a0a6bf3:
     kleio.say "Заставь... меня... кончить!"
 
 # ch/kleio/fuck.rpy:2867
@@ -22028,10 +21196,6 @@ translate russian kleio_garage_fuck_dbfc9cfe_1:
 translate russian kleio_garage_fuck_a7a8791f:
     "И удерживает внутри, пока сама тоже кончает."
 
-# ch/kleio/fuck.rpy:2901
-translate russian kleio_garage_fuck_fa2df528:
-    kleio.say "Давай, сердцеед!"
-
 # ch/kleio/fuck.rpy:2902
 translate russian kleio_garage_fuck_c25d9695:
     kleio.say "Кончи в меня!"
@@ -22067,10 +21231,6 @@ translate russian kleio_garage_fuck_dbfc9cfe_2:
 # ch/kleio/fuck.rpy:2914
 translate russian kleio_garage_fuck_a7a8791f_1:
     "И удерживает внутри, пока сама тоже кончает."
-
-# ch/kleio/fuck.rpy:2916
-translate russian kleio_garage_fuck_fa2df528_1:
-    kleio.say "Давай, сердцеед!"
 
 # ch/kleio/fuck.rpy:2917
 translate russian kleio_garage_fuck_c25d9695_1:
@@ -22109,7 +21269,7 @@ translate russian kleio_garage_fuck_a7a8791f_2:
     "И удерживает внутри, пока сама тоже кончает."
 
 # ch/kleio/fuck.rpy:2931
-translate russian kleio_garage_fuck_1e3a0121:
+translate russian kleio_garage_fuck_94d80b80:
     kleio.say "Т... тебе надо вытащить!"
 
 # ch/kleio/fuck.rpy:2932
@@ -22163,10 +21323,6 @@ translate russian kleio_garage_fuck_048fae11_1:
 # ch/kleio/fuck.rpy:2950
 translate russian kleio_garage_fuck_be2c4b3a:
     "Но стоит мне пошевелиться, как Клео обхватывает меня руками и ногами!"
-
-# ch/kleio/fuck.rpy:2951
-translate russian kleio_garage_fuck_fa2df528_2:
-    kleio.say "Давай, сердцеед!"
 
 # ch/kleio/fuck.rpy:2952
 translate russian kleio_garage_fuck_c25d9695_2:
@@ -22236,10 +21392,6 @@ translate russian kleio_garage_fuck_8e65edfc:
 translate russian kleio_garage_fuck_c57e6a26:
     "И направляю головку члена немного ниже!"
 
-# ch/kleio/fuck.rpy:2977
-translate russian kleio_garage_fuck_37bf3d40:
-    kleio.say "Эй, сердцеед..."
-
 # ch/kleio/fuck.rpy:2978
 translate russian kleio_garage_fuck_c1f5b946:
     kleio.say "Ты куда это собрался?"
@@ -22263,10 +21415,6 @@ translate russian kleio_garage_fuck_f652feea:
 # ch/kleio/fuck.rpy:2984
 translate russian kleio_garage_fuck_bf8db6da:
     "Но Клео смеётся и кивает."
-
-# ch/kleio/fuck.rpy:2985
-translate russian kleio_garage_fuck_faf1072d:
-    kleio.say "А ты не робкого десятка, сердцеед!"
 
 # ch/kleio/fuck.rpy:2986
 translate russian kleio_garage_fuck_bbac1953:
@@ -22389,15 +21537,11 @@ translate russian kleio_garage_fuck_da8e2858:
     "Теперь она смотрит на меня и подгоняет!"
 
 # ch/kleio/fuck.rpy:3018
-translate russian kleio_garage_fuck_6d08c9b5_1:
+translate russian kleio_garage_fuck_097801a8_1:
     kleio.say "В... вот так..."
 
-# ch/kleio/fuck.rpy:3019
-translate russian kleio_garage_fuck_b2e35969_1:
-    kleio.say "Трахай меня... сердцеед..."
-
 # ch/kleio/fuck.rpy:3021
-translate russian kleio_garage_fuck_da6e11ab_1:
+translate russian kleio_garage_fuck_1a0a6bf3_1:
     kleio.say "Заставь... меня... кончить!"
 
 # ch/kleio/fuck.rpy:3022
@@ -22504,16 +21648,12 @@ translate russian kleio_studio_bj_4566f396:
 translate russian kleio_studio_bj_697024d5:
     "А затем торопливо подходит."
 
-# ch/kleio/fuck.rpy:3076
-translate russian kleio_studio_bj_fc1e933b:
-    kleio.say "Голосу пиздец, сердцеед!"
-
 # ch/kleio/fuck.rpy:3077
 translate russian kleio_studio_bj_59322dd8:
     kleio.say "Не знаю почему, но вот так."
 
 # ch/kleio/fuck.rpy:3078
-translate russian kleio_studio_bj_f47adb05:
+translate russian kleio_studio_bj_32757112:
     mike.say "Хм... хреново."
 
 # ch/kleio/fuck.rpy:3079
@@ -22559,10 +21699,6 @@ translate russian kleio_studio_bj_c45c2f58:
 # ch/kleio/fuck.rpy:3096
 translate russian kleio_studio_bj_33f5f521:
     "Она щурится, то ли хмурясь, то ли усмехаясь, и почти ласково показывает мне средний палец."
-
-# ch/kleio/fuck.rpy:3097
-translate russian kleio_studio_bj_62fc4d75:
-    kleio.say "Сам виноват, сердцеед. Дважды не предлагаю."
 
 # ch/kleio/fuck.rpy:3098
 translate russian kleio_studio_bj_da10b8e7:
@@ -22668,14 +21804,6 @@ translate russian kleio_studio_bj_169ab573:
 translate russian kleio_studio_bj_baa40605:
     "Впрочем, Клео моего разрешения не ждёт. Никогда не ждала. Риск — половина причины её ухмылки."
 
-# ch/kleio/fuck.rpy:3131
-translate russian kleio_studio_bj_22b7e7d6:
-    kleio.say "Расслабься, сердцеед. Поживи в своё удовольствие. В худшем случае они чему-нибудь научатся."
-
-# ch/kleio/fuck.rpy:3132
-translate russian kleio_studio_bj_0c105e8f:
-    kleio.say "Ну же, сердцеед..."
-
 # ch/kleio/fuck.rpy:3134
 translate russian kleio_studio_bj_6d29fbfd:
     kleio.say "Мне нужен хороший стояк!"
@@ -22744,10 +21872,6 @@ translate russian kleio_studio_bj_bb9b9782:
 translate russian kleio_studio_bj_63db87af:
     "Она выпускает член с влажным вздохом; ниточка слюны между головкой и губами обрывается. Похабно ухмыльнувшись, Клео кивает на дверь."
 
-# ch/kleio/fuck.rpy:3158
-translate russian kleio_studio_bj_4144eb38:
-    kleio.say "Надейся, что Саша не спешит, сердцеед. Потому что я не остановлюсь, пока ты не кончишь. Ни за что."
-
 # ch/kleio/fuck.rpy:3159
 translate russian kleio_studio_bj_c9ac4feb:
     "И снова берётся за меня. Риск, открытая дверь, шаги, которые могут послышаться в любую секунду, — всё это лишь подстёгивает её."
@@ -22792,10 +21916,6 @@ translate russian kleio_studio_bj_497abafc:
 translate russian kleio_studio_bj_2e323a2b:
     "Заметив мой взгляд на своей руке, она бесстыдно подмигивает, ни на секунду не замедляясь."
 
-# ch/kleio/fuck.rpy:3178
-translate russian kleio_studio_bj_00cfdeea:
-    kleio.say "А что? Ты получаешь своё, я — своё. Честная сделка, сердцеед."
-
 # ch/kleio/fuck.rpy:3182
 translate russian kleio_studio_bj_2c3215bb:
     "От этого я чуть не кончаю сразу."
@@ -22819,10 +21939,6 @@ translate russian kleio_studio_bj_e446aa33:
 # ch/kleio/fuck.rpy:3197
 translate russian kleio_studio_bj_028fa421:
     "На миг она останавливается, лишь прижимая головку к губам, и смотрит на меня. При всей непристойности происходящего её лицо совершенно открыто."
-
-# ch/kleio/fuck.rpy:3198
-translate russian kleio_studio_bj_d18f5bba:
-    kleio.say "Не вздумай кому-нибудь это пересказать. Но мне нравится, что здесь, на коленях, я делаю это именно для тебя, сердцеед."
 
 # ch/kleio/fuck.rpy:3199
 translate russian kleio_studio_bj_269a4d5d:
@@ -22860,10 +21976,6 @@ translate russian kleio_studio_bj_78bef717:
 translate russian kleio_studio_bj_86843edc:
     "Она нарочно держит меня на самой грани, заставляя дрожать, растягивая каждую секунду и слушая, как сбивается моё дыхание."
 
-# ch/kleio/fuck.rpy:3235
-translate russian kleio_studio_bj_4f56f45e:
-    kleio.say "Вот так. Боже, да ты весь поплыл, сердцеед. Еле держишься, а к нам вот-вот вернутся."
-
 # ch/kleio/fuck.rpy:3237
 translate russian kleio_studio_bj_18491b71:
     "Она ещё раз глубоко берёт меня в горло, не отводя глаз, словно бросая вызов: осмелюсь ли я издать звук, который нас выдаст?"
@@ -22871,10 +21983,6 @@ translate russian kleio_studio_bj_18491b71:
 # ch/kleio/fuck.rpy:3239
 translate russian kleio_studio_bj_3e158ccc:
     kleio.say "Когда будешь готов, [lssb_kleio.hero_name()]. Я позабочусь о тебе. Только постарайся потише."
-
-# ch/kleio/fuck.rpy:3241
-translate russian kleio_studio_bj_e7a11571:
-    kleio.say "Когда будешь готов, сердцеед. Я позабочусь о тебе. Только постарайся потише."
 
 # ch/kleio/fuck.rpy:3244
 translate russian kleio_studio_bj_deaedf6e:
@@ -22907,10 +22015,6 @@ translate russian kleio_studio_bj_ded5ed91:
 # ch/kleio/fuck.rpy:3259
 translate russian kleio_studio_bj_aa2ffecc:
     kleio.say "Спасибо, [lssb_kleio.hero_name()]. Всё моё, до последней капли. А теперь помоги привести себя в порядок, пока нас не застукали."
-
-# ch/kleio/fuck.rpy:3261
-translate russian kleio_studio_bj_2a635e10:
-    kleio.say "Осторожнее, сердцеед. Ещё немного — и придётся объяснять Саше, почему у меня лицо сияет."
 
 # ch/kleio/fuck.rpy:3264
 translate russian kleio_studio_bj_7a1e5438:
@@ -22952,10 +22056,6 @@ translate russian kleio_studio_bj_351cd8d8:
 translate russian kleio_studio_bj_570c1e39:
     kleio.say "Всё, [lssb_kleio.hero_name()]. Видишь? Тихо и чисто. Я могу быть хорошей даже здесь."
 
-# ch/kleio/fuck.rpy:3284
-translate russian kleio_studio_bj_698d5435:
-    kleio.say "М-м. Тёплое и густое — то, что доктор прописал. Я же говорила, что знаю лекарство, сердцеед."
-
 # ch/kleio/fuck.rpy:3286
 translate russian kleio_studio_bj_c87065b5:
     "После этого Клео поднимается, потягиваясь, как довольная кошка."
@@ -22967,10 +22067,6 @@ translate russian kleio_studio_bj_574d617e:
 # ch/kleio/fuck.rpy:3292
 translate russian kleio_studio_bj_cbefa456:
     kleio.say "М-м-м..."
-
-# ch/kleio/fuck.rpy:3293
-translate russian kleio_studio_bj_d75f328f:
-    kleio.say "Вот это то, что нужно, сердцеед!"
 
 # ch/kleio/fuck.rpy:3295
 translate russian kleio_studio_bj_89a32017:
@@ -22991,10 +22087,6 @@ translate russian kleio_studio_bj_b5b89dbf:
 # ch/kleio/fuck.rpy:3301
 translate russian kleio_studio_bj_8dada817:
     mike.say "Это было безумие. Они же могли застукать нас, Клео."
-
-# ch/kleio/fuck.rpy:3302
-translate russian kleio_studio_bj_e530008f:
-    kleio.say "Ага. В этом и смысл, сердцеед. Не благодари."
 
 # ch/kleio/fuck.rpy:3303
 translate russian kleio_studio_bj_9c46e81a:
@@ -23212,10 +22304,6 @@ translate russian kleio_gift_slutty_dress_male_30e74fc5:
 translate russian kleio_gift_slutty_dress_male_7ae59f1c:
     mike.say "Клео?"
 
-# ch/kleio/gift.rpy:137
-translate russian kleio_gift_slutty_dress_male_e587afdb:
-    kleio.say "Да, сердцеед?"
-
 # ch/kleio/gift.rpy:139
 translate russian kleio_gift_slutty_dress_male_8fb73da4:
     mike.say "Я..."
@@ -23273,7 +22361,7 @@ translate russian kleio_gift_slutty_dress_male_ae4fe99c:
     kleio.say "Ладно..."
 
 # ch/kleio/gift.rpy:156
-translate russian kleio_gift_slutty_dress_male_1237e483:
+translate russian kleio_gift_slutty_dress_male_1ad36a60:
     kleio.say "Значит, это... что, подарок?"
 
 # ch/kleio/gift.rpy:157
@@ -23281,7 +22369,7 @@ translate russian kleio_gift_slutty_dress_male_047239ba:
     kleio.say "Знаешь, люди обычно объясняют такие вещи, когда что-то вручают."
 
 # ch/kleio/gift.rpy:159
-translate russian kleio_gift_slutty_dress_male_471cd276:
+translate russian kleio_gift_slutty_dress_male_463d9523:
     mike.say "Ах да... конечно!"
 
 # ch/kleio/gift.rpy:160
@@ -23324,10 +22412,6 @@ translate russian kleio_gift_slutty_dress_male_457ebcd2:
 translate russian kleio_gift_slutty_dress_male_fb8f472d:
     "За считаные секунды удивление сменяется понимающей усмешкой."
 
-# ch/kleio/gift.rpy:173
-translate russian kleio_gift_slutty_dress_male_ae5c496e:
-    kleio.say "Ну, я бы так не сказала, сердцеед..."
-
 # ch/kleio/gift.rpy:174
 translate russian kleio_gift_slutty_dress_male_bf87f5d4:
     kleio.say "Вполне логично, что ты хочешь увидеть меня в чём-то подобном."
@@ -23367,10 +22451,6 @@ translate russian kleio_gift_slutty_dress_male_163c87f4:
 # ch/kleio/gift.rpy:184
 translate russian kleio_gift_slutty_dress_male_e63cf969:
     "От этого я сразу вспоминаю, сколько стоила эта чёртова вещь!"
-
-# ch/kleio/gift.rpy:186
-translate russian kleio_gift_slutty_dress_male_be3ab233:
-    kleio.say "Знаешь что, сердцеед..."
 
 # ch/kleio/gift.rpy:187
 translate russian kleio_gift_slutty_dress_male_4482c269:
@@ -23423,10 +22503,6 @@ translate russian kleio_gift_slutty_dress_male_eb33eccc:
 # ch/kleio/gift.rpy:205
 translate russian kleio_gift_slutty_dress_male_9562dec8:
     kleio.say "Уф..."
-
-# ch/kleio/gift.rpy:206
-translate russian kleio_gift_slutty_dress_male_525012f5:
-    kleio.say "Я думала, мы уже переросли такую херню, сердцеед."
 
 # ch/kleio/gift.rpy:207
 translate russian kleio_gift_slutty_dress_male_24e5586a:
@@ -23508,16 +22584,12 @@ translate russian kleio_gift_collar_male_6d54dc8b:
 translate russian kleio_gift_collar_male_39cbf8c6:
     "Если выбрать неудачное время, всё точно закончится катастрофой!"
 
-# ch/kleio/gift.rpy:235
-translate russian kleio_gift_collar_male_4e88da5d:
-    kleio.say "Эй, сердцеед..."
-
 # ch/kleio/gift.rpy:236
 translate russian kleio_gift_collar_male_f0dd4b0a:
     kleio.say "Ты нормально себя чувствуешь?"
 
 # ch/kleio/gift.rpy:237
-translate russian kleio_gift_collar_male_bae14da0:
+translate russian kleio_gift_collar_male_4502718d:
     mike.say "А... что?"
 
 # ch/kleio/gift.rpy:238
@@ -23581,7 +22653,7 @@ translate russian kleio_gift_collar_male_e4ca6ece:
     kleio.say "Чего сразу не сказал?"
 
 # ch/kleio/gift.rpy:253
-translate russian kleio_gift_collar_male_08e362d8:
+translate russian kleio_gift_collar_male_2c7f8d64:
     mike.say "Я... я хотел сделать сюрприз, Клео."
 
 # ch/kleio/gift.rpy:254
@@ -23628,10 +22700,6 @@ translate russian kleio_gift_collar_male_2cf7d2bc:
 translate russian kleio_gift_collar_male_bc433014:
     mike.say "И сразу подумал о тебе..."
 
-# ch/kleio/gift.rpy:269
-translate russian kleio_gift_collar_male_5d3fdb8e:
-    kleio.say "А чем ты в это время занимался, сердцеед?"
-
 # ch/kleio/gift.rpy:270
 translate russian kleio_gift_collar_male_f831d829:
     kleio.say "Собаку выгуливал?"
@@ -23641,7 +22709,7 @@ translate russian kleio_gift_collar_male_e20cb539:
     kleio.say "Знаю! Наверное, зашёл в местный зоомагазин!"
 
 # ch/kleio/gift.rpy:272
-translate russian kleio_gift_collar_male_4858ce03:
+translate russian kleio_gift_collar_male_7ec50e59:
     mike.say "Э-э... нет, Клео."
 
 # ch/kleio/gift.rpy:273
@@ -23669,12 +22737,8 @@ translate russian kleio_gift_collar_male_4457af70:
     mike.say "Но не собачий."
 
 # ch/kleio/gift.rpy:280
-translate russian kleio_gift_collar_male_2da60dd8:
+translate russian kleio_gift_collar_male_16812619:
     mike.say "Потому что... потому что ты не собака!"
-
-# ch/kleio/gift.rpy:281
-translate russian kleio_gift_collar_male_b614a508:
-    kleio.say "Уверен, сердцеед?"
 
 # ch/kleio/gift.rpy:282
 translate russian kleio_gift_collar_male_4114486a:
@@ -23692,10 +22756,6 @@ translate russian kleio_gift_collar_male_352bea73:
 translate russian kleio_gift_collar_male_a4420983:
     "Клео качает головой и суёт ошейник обратно в мои раскрытые ладони."
 
-# ch/kleio/gift.rpy:287
-translate russian kleio_gift_collar_male_a47e843e:
-    kleio.say "Спасибо за внимание, сердцеед."
-
 # ch/kleio/gift.rpy:288
 translate russian kleio_gift_collar_male_1c8ef155:
     kleio.say "Но впредь давай я сама буду выбирать себе аксессуары, ладно?"
@@ -23709,19 +22769,15 @@ translate russian kleio_gift_collar_male_1ed71746:
     kleio.say "Как собаке?!"
 
 # ch/kleio/gift.rpy:296
-translate russian kleio_gift_collar_male_9d9f7478:
+translate russian kleio_gift_collar_male_9b561d31:
     mike.say "Э-э... я бы не совсем так это выразил..."
-
-# ch/kleio/gift.rpy:297
-translate russian kleio_gift_collar_male_3ebe4c2e:
-    kleio.say "Ох, сердцеед."
 
 # ch/kleio/gift.rpy:298
 translate russian kleio_gift_collar_male_99e72e79:
     kleio.say "Это так... ВОЗБУЖДАЕТ!"
 
 # ch/kleio/gift.rpy:299
-translate russian kleio_gift_collar_male_8383fcec:
+translate russian kleio_gift_collar_male_171d6c56:
     mike.say "Д... да?!"
 
 # ch/kleio/gift.rpy:300
@@ -23737,7 +22793,7 @@ translate russian kleio_gift_collar_male_84343484:
     kleio.say "Бродячая, которую ты подобрал на улице."
 
 # ch/kleio/gift.rpy:303
-translate russian kleio_gift_collar_male_daa3949c:
+translate russian kleio_gift_collar_male_bfe04d59:
     mike.say "Эм... ну, допустим!"
 
 # ch/kleio/gift.rpy:305
@@ -23765,12 +22821,8 @@ translate russian kleio_gift_collar_male_0c845599:
     kleio.say "И точно знаешь, что ей нужно..."
 
 # ch/kleio/gift.rpy:313
-translate russian kleio_gift_collar_male_8aa49dc5:
+translate russian kleio_gift_collar_male_cacec374:
     mike.say "Я... кажется, догадываюсь!"
-
-# ch/kleio/gift.rpy:314
-translate russian kleio_gift_collar_male_f1a15faf:
-    kleio.say "Тогда дай ей это, сердцеед!"
 
 # ch/kleio/gift.rpy:315
 translate russian kleio_gift_collar_male_3d81d1f0:
@@ -23808,10 +22860,6 @@ translate russian kleio_gift_butt_plug_male_5b3bb828:
 translate russian kleio_ice_cream_reaction_male_fd695a5e:
     mike.say "Сегодня чертовски жарко, Клео. Мне бы мороженого, чтобы остыть!"
 
-# ch/kleio/reactions.rpy:3
-translate russian kleio_ice_cream_reaction_male_eaadef5a:
-    kleio.say "И не говори, сердцеед. Пойдём купим!"
-
 # ch/kleio/reactions.rpy:4
 translate russian kleio_ice_cream_reaction_male_73a4ddd7:
     "У киоска с мороженым я покупаю рожок с парой разных шариков."
@@ -23821,7 +22869,7 @@ translate russian kleio_ice_cream_reaction_male_53f0a336:
     "Клео выбирает то же самое, только с шоколадным мороженым."
 
 # ch/kleio/reactions.rpy:6
-translate russian kleio_ice_cream_reaction_male_71c2d2b3:
+translate russian kleio_ice_cream_reaction_male_1af7b2a4:
     kleio.say "Ар-р... да что за... Ты только посмотри!"
 
 # ch/kleio/reactions.rpy:7
@@ -23856,17 +22904,9 @@ translate russian kleio_ask_phone_male_4d6ac2eb:
 translate russian kleio_ask_phone_male_3a26a9c7:
     kleio.say "Нет?"
 
-# ch/kleio/reactions.rpy:21
-translate russian kleio_ask_phone_male_6f0df32b:
-    kleio.say "Ну, так дело не пойдёт, сердцеед!"
-
 # ch/kleio/reactions.rpy:22
 translate russian kleio_ask_phone_male_b771609e:
     kleio.say "Держи."
-
-# ch/kleio/reactions.rpy:27
-translate russian kleio_ask_phone_male_243fe679:
-    kleio.say "Понимаешь, сердцеед..."
 
 # ch/kleio/reactions.rpy:28
 translate russian kleio_ask_phone_male_b4e21531:
@@ -23884,10 +22924,6 @@ translate russian kleio_ask_birthday_male_ef66578c:
 translate russian kleio_ask_birthday_male_db74d3df:
     kleio.say "16-го числа зимы, как всегда."
 
-# ch/kleio/reactions.rpy:38
-translate russian kleio_ask_birthday_male_c90db299:
-    kleio.say "Так что запомни, сердцеед."
-
 # ch/kleio/reactions.rpy:39
 translate russian kleio_ask_birthday_male_0cf2426d:
     kleio.say "И подарок приготовь хороший!"
@@ -23895,10 +22931,6 @@ translate russian kleio_ask_birthday_male_0cf2426d:
 # ch/kleio/reactions.rpy:44
 translate russian kleio_ask_birthday_male_611f9ec7:
     kleio.say "А может, я вообще не скажу?"
-
-# ch/kleio/reactions.rpy:45
-translate russian kleio_ask_birthday_male_dd1fdac9:
-    kleio.say "Буду держать тебя в тонусе, сердцеед!"
 
 # ch/kleio/reactions.rpy:49
 translate russian kleio_offer_a_drink_male_647913e6:
@@ -23924,17 +22956,9 @@ translate russian kleio_offer_a_drink_male_9765da70:
 translate russian kleio_offer_a_drink_male_46a84233:
     kleio.say "Теперь ещё и ребёнка угробить хочешь?!"
 
-# ch/kleio/reactions.rpy:62
-translate russian kleio_offer_a_drink_male_2e629594:
-    kleio.say "Я за, сердцеед."
-
 # ch/kleio/reactions.rpy:63
 translate russian kleio_offer_a_drink_male_3005e938:
     kleio.say "Прямо мысли читаешь!"
-
-# ch/kleio/reactions.rpy:75
-translate russian kleio_offer_a_drink_male_f3006eb7:
-    kleio.say "Как будто мне нужно, чтобы ты покупал мне пиво, сердцеед!"
 
 # ch/kleio/reactions.rpy:76
 translate russian kleio_offer_a_drink_male_1ed4f6b1:
@@ -23995,10 +23019,6 @@ translate russian kleio_slap_ass_happy_male_fa9315f9:
 # ch/kleio/reactions.rpy:99
 translate russian kleio_slap_ass_happy_male_bbc0a9ff:
     kleio.say "В следующий раз сильнее, ладно? Я выдержу."
-
-# ch/kleio/reactions.rpy:101
-translate russian kleio_slap_ass_happy_male_d9532926:
-    kleio.say "Значит, и я могу шлёпать тебя, сердцеед!"
 
 # ch/kleio/reactions.rpy:105
 translate russian kleio_slap_ass_angry_male_4d9d26fc:
@@ -24084,10 +23104,6 @@ translate russian kleio_breakup_male_040ebb61:
 translate russian kleio_breakup_male_712f47f5:
     "Затем поднимает руку, останавливая меня."
 
-# ch/kleio/reactions.rpy:131
-translate russian kleio_breakup_male_18945575:
-    kleio.say "Погоди, сердцеед."
-
 # ch/kleio/reactions.rpy:132
 translate russian kleio_breakup_male_88250b40:
     kleio.say "Я ведь не первый день живу, ясно?"
@@ -24113,7 +23129,7 @@ translate russian kleio_breakup_male_51ea3b7d:
     "Потом перестаю пытаться говорить и просто киваю. Так, кажется, легче."
 
 # ch/kleio/reactions.rpy:138
-translate russian kleio_breakup_male_0e7fc9d0:
+translate russian kleio_breakup_male_82b96e1e:
     mike.say "Я... я знаю, это хреново, Клео."
 
 # ch/kleio/reactions.rpy:139
@@ -24127,10 +23143,6 @@ translate russian kleio_breakup_male_b24ee688:
 # ch/kleio/reactions.rpy:141
 translate russian kleio_breakup_male_eabdbaa3:
     "Клео стонет и проводит рукой по волосам."
-
-# ch/kleio/reactions.rpy:143
-translate russian kleio_breakup_male_91b4d573:
-    kleio.say "Ещё как хреново, сердцеед!"
 
 # ch/kleio/reactions.rpy:144
 translate russian kleio_breakup_male_f51b5c6d:
@@ -24153,7 +23165,7 @@ translate russian kleio_breakup_male_2e6e68b6:
     kleio.say "Не указывай мне, что я чувствую!"
 
 # ch/kleio/reactions.rpy:149
-translate russian kleio_breakup_male_859227d9:
+translate russian kleio_breakup_male_4a37db8e:
     kleio.say "Уф... мужики!"
 
 # ch/kleio/reactions.rpy:150
@@ -24184,10 +23196,6 @@ translate russian kleio_go_steady_intro_male_77ff4860:
 translate russian kleio_go_steady_intro_male_ef16cc39:
     mike.say "Но можем назвать это как-нибудь иначе."
 
-# ch/kleio/reactions.rpy:163
-translate russian kleio_go_steady_yes_male_d08c944e:
-    kleio.say "Хватит соплей, сердцеед!"
-
 # ch/kleio/reactions.rpy:164
 translate russian kleio_go_steady_yes_male_15ee6870:
     kleio.say "Просто скажем, что теперь всё официально, ладно?"
@@ -24203,10 +23211,6 @@ translate russian kleio_go_steady_yes_male_9bbc8bdc:
 # ch/kleio/reactions.rpy:173
 translate russian kleio_go_steady_no_male_9562dec8:
     kleio.say "Уф..."
-
-# ch/kleio/reactions.rpy:174
-translate russian kleio_go_steady_no_male_00e4cbb1:
-    kleio.say "Ты же знаешь, я терпеть не могу твои сопли, сердцеед!"
 
 # ch/kleio/reactions.rpy:175
 translate russian kleio_go_steady_no_male_7ec22530:
@@ -24240,10 +23244,6 @@ translate russian kleio_pet_happy_male_bf29f51c:
 translate russian kleio_pet_happy_male_abc1b9ca:
     kleio.say "Никому ни слова."
 
-# ch/kleio/reactions.rpy:192
-translate russian kleio_pet_happy_male_b7b6b3a7:
-    kleio.say "Может, ещё косточку бросишь, сердцеед?"
-
 # ch/kleio/reactions.rpy:193
 translate russian kleio_pet_happy_male_3e288be6:
     kleio.say "Тебе повезло, что ты мне так нравишься."
@@ -24271,10 +23271,6 @@ translate russian kleio_pet_annoyed_male_ab7d0a9e:
 # ch/kleio/reactions.rpy:204
 translate russian kleio_pet_annoyed_male_d90e230d:
     kleio.say "Ни хрена подобного!"
-
-# ch/kleio/reactions.rpy:205
-translate russian kleio_pet_annoyed_male_ccb7b5ca:
-    kleio.say "Повторишь, сердцеед, — тебе конец!"
 
 # ch/kleio/reactions.rpy:209
 translate russian kleio_massage_intro_male_edd4ce45:
@@ -24304,10 +23300,6 @@ translate russian kleio_massage_accept_male_f913c600:
 translate russian kleio_massage_accept_male_54376095:
     kleio.say "Разминай, пока я не передумала!"
 
-# ch/kleio/reactions.rpy:221
-translate russian kleio_massage_accept_male_98e2661c:
-    kleio.say "Знаешь что, сердцеед..."
-
 # ch/kleio/reactions.rpy:222
 translate russian kleio_massage_accept_male_1bb72b0a:
     kleio.say "А это неплохая идея!"
@@ -24316,10 +23308,6 @@ translate russian kleio_massage_accept_male_1bb72b0a:
 translate russian kleio_massage_accept_male_5aba85a9:
     kleio.say "Иди сюда, дай волю рукам..."
 
-# ch/kleio/reactions.rpy:227
-translate russian kleio_massage_refuse_male_e90d5f62:
-    kleio.say "Господи, сердцеед..."
-
 # ch/kleio/reactions.rpy:228
 translate russian kleio_massage_refuse_male_94401eeb:
     kleio.say "Меньше всего мне сейчас нужны твои руки на моём теле!"
@@ -24327,10 +23315,6 @@ translate russian kleio_massage_refuse_male_94401eeb:
 # ch/kleio/reactions.rpy:229
 translate russian kleio_massage_refuse_male_0d347cbf:
     kleio.say "Зная тебя, после такого массажа меня скрутит ещё сильнее!"
-
-# ch/kleio/reactions.rpy:233
-translate russian kleio_piercing_nipples_reaction_male_d25f84c4:
-    kleio.say "Ну, что скажешь, сердцеед?"
 
 # ch/kleio/reactions.rpy:234
 translate russian kleio_piercing_nipples_reaction_male_233cd687:
@@ -24352,10 +23336,6 @@ translate russian kleio_piercing_navel_reaction_male_055bf9e7:
 translate russian kleio_piercing_navel_reaction_male_79e3ef31:
     kleio.say "Мой пупок просто создан для такой хрени!"
 
-# ch/kleio/reactions.rpy:242
-translate russian kleio_piercing_navel_reaction_male_929d8bb1:
-    kleio.say "Спасибо, что подтолкнул в нужную сторону, сердцеед!"
-
 # ch/kleio/reactions.rpy:246
 translate russian kleio_piercing_clit_reaction_male_cbefa456:
     kleio.say "М-м-м..."
@@ -24368,10 +23348,6 @@ translate russian kleio_piercing_clit_reaction_male_50a68c30:
 translate russian kleio_piercing_clit_reaction_male_0b6387ce:
     kleio.say "От одной мысли уже завожусь!"
 
-# ch/kleio/reactions.rpy:249
-translate russian kleio_piercing_clit_reaction_male_ae5549ab:
-    kleio.say "Спасибо за идею, сердцеед."
-
 # ch/kleio/reactions.rpy:253
 translate russian kleio_piercing_head_reaction_male_8ec00856:
     kleio.say "Мне вечно говорят, что мой язык доведёт меня до беды."
@@ -24380,10 +23356,6 @@ translate russian kleio_piercing_head_reaction_male_8ec00856:
 translate russian kleio_piercing_head_reaction_male_47cba1da:
     kleio.say "Но ты единственный, кто захотел сделать его ещё интереснее."
 
-# ch/kleio/reactions.rpy:255
-translate russian kleio_piercing_head_reaction_male_ee6d7336:
-    kleio.say "Значит, тебе нравится, что я им вытворяю, сердцеед!"
-
 # ch/kleio/reactions.rpy:259
 translate russian kleio_piercing_nose_reaction_male_f8b00b20:
     kleio.say "Да, вот это настоящий рок-н-ролл!"
@@ -24391,10 +23363,6 @@ translate russian kleio_piercing_nose_reaction_male_f8b00b20:
 # ch/kleio/reactions.rpy:260
 translate russian kleio_piercing_nose_reaction_male_5896fe33:
     kleio.say "Чувствую себя участницей грёбаных Sex Pistols!"
-
-# ch/kleio/reactions.rpy:261
-translate russian kleio_piercing_nose_reaction_male_05c67b5f:
-    kleio.say "Отличная идея, сердцеед!"
 
 # ch/kleio/reactions.rpy:265
 translate russian kleio_movie_disliked_reaction_male_7b831c9a:
@@ -24405,7 +23373,7 @@ translate russian kleio_movie_indifferent_reaction_male_21c82200:
     kleio.say "Ну и скукотища, хоть плачь!"
 
 # ch/kleio/reactions.rpy:273
-translate russian kleio_movie_liked_reaction_male_b69e883b:
+translate russian kleio_movie_liked_reaction_male_b5f89129:
     kleio.say "ВАУ... Просто ВАУ! Это было нечто!"
 
 # ch/kleio/reactions.rpy:278
@@ -24520,10 +23488,6 @@ translate russian kleio_belly_kiss_male_f1d8a63c:
 translate russian kleio_belly_kiss_male_8c9af46f:
     mike.say "Мой любимый малыш, который ещё не родился!"
 
-# ch/kleio/reactions.rpy:316
-translate russian kleio_belly_kiss_male_0cf21913:
-    kleio.say "Эм, сердцеед..."
-
 # ch/kleio/reactions.rpy:318
 translate russian kleio_belly_kiss_male_e701013b:
     kleio.say "Я тебе говорила, что ты грёбаный засранец?"
@@ -24535,10 +23499,6 @@ translate russian kleio_belly_kiss_male_4c9e625a:
 # ch/kleio/reactions.rpy:320
 translate russian kleio_belly_kiss_male_eaf1e871:
     mike.say "Вообще-то довольно часто!"
-
-# ch/kleio/reactions.rpy:325
-translate russian kleio_belly_caress_male_3bc25c9a:
-    kleio.say "Эй, сердцеед..."
 
 # ch/kleio/reactions.rpy:326
 translate russian kleio_belly_caress_male_0c2b70a8:
@@ -24671,10 +23631,6 @@ translate russian kleio_belly_caress_male_5a30ef2d:
 # ch/kleio/reactions.rpy:364
 translate russian kleio_belly_caress_male_d2fc970d:
     "Значит, шутку всё-таки оценила."
-
-# ch/kleio/reactions.rpy:369
-translate russian kleio_belly_listen_male_3bc25c9a:
-    kleio.say "Эй, сердцеед..."
 
 # ch/kleio/reactions.rpy:370
 translate russian kleio_belly_listen_male_7246c175:
@@ -24933,7 +23889,7 @@ translate russian kleio_talk_love_male_8e88deb9:
     mike.say "Значит, мне остаётся ждать, пока разобьют сердце?"
 
 # ch/kleio/talk.rpy:36
-translate russian kleio_talk_love_male_27e1095c:
+translate russian kleio_talk_love_male_39963530:
     kleio.say "Надеюсь, с тобой этого не случится. Но мне надежда пока не особо помогала, так что... не знаю."
 
 # ch/kleio/talk.rpy:37
@@ -25167,10 +24123,6 @@ translate russian kleio_talk_politics_male_cc46216c:
 # ch/kleio/talk.rpy:127
 translate russian kleio_talk_politics_male_c6ac5fed:
     mike.say "Здравый разговор полезен, и, думаю, мы оба достаточно взрослые, чтобы справиться."
-
-# ch/kleio/talk.rpy:128
-translate russian kleio_talk_politics_male_24cbfc44:
-    kleio.say "Как скажешь, сердцеед. Говори."
 
 # ch/kleio/talk.rpy:131
 translate russian kleio_talk_politics_male_f5dccef2:
@@ -25413,7 +24365,7 @@ translate russian kleio_talk_fashion_male_8623d1ac:
     "Я запинаюсь, отчаянно стараясь не обидеть её, но так же отчаянно желая понять, что у неё в голове."
 
 # ch/kleio/talk.rpy:235
-translate russian kleio_talk_fashion_male_330a2ef3:
+translate russian kleio_talk_fashion_male_2e55172e:
     mike.say "Ну, у тебя всегда такие гранжевые вещи: чёрные или серые, с яркими пятнами, вечно рваные... Я понимаю, мода и всё такое, но... почему?"
 
 # ch/kleio/talk.rpy:236
@@ -25483,10 +24435,6 @@ translate russian kleio_talk_fashion_male_fafb96d8:
 # ch/kleio/talk.rpy:259
 translate russian kleio_talk_fashion_male_1f682ea3:
     "Клео широко улыбается и даже кружится, показывая сегодняшний наряд и без смущения позволяя мне разглядывать её тело."
-
-# ch/kleio/talk.rpy:261
-translate russian kleio_talk_fashion_male_a68227a3:
-    kleio.say "Отлично. В этом и смысл, да? Ну же, сердцеед, по глазам вижу: ты тоже хочешь крутые шмотки?"
 
 # ch/kleio/talk.rpy:262
 translate russian kleio_talk_fashion_male_6c506087:
@@ -25881,7 +24829,7 @@ translate russian kleio_talk_anna_male_833db4de:
     "Когда смысл моих слов доходит до Клео, её глаза расширяются."
 
 # ch/kleio/talk.rpy:452
-translate russian kleio_talk_anna_male_388fa3a7:
+translate russian kleio_talk_anna_male_84b03c38:
     kleio.say "Ч... что ты хочешь сказать, [lssb_kleio.hero_name()]?"
 
 # ch/kleio/talk.rpy:453
@@ -26069,7 +25017,7 @@ translate russian kleio_talk_anna_male_96ce1bd2:
     kleio.say "Ар-р..."
 
 # ch/kleio/talk.rpy:508
-translate russian kleio_talk_anna_male_aebf30d5:
+translate russian kleio_talk_anna_male_6b2f7612:
     kleio.say "Не стоит... Конечно, не стоит!"
 
 # ch/kleio/talk.rpy:509
@@ -26119,10 +25067,6 @@ translate russian submissive_interact_kleio_male_96dbccba:
 # ch/kleio/talk.rpy:574
 translate russian submissive_interact_kleio_male_a06d93e4:
     mike.say "Просто выслушай, ладно?"
-
-# ch/kleio/talk.rpy:576
-translate russian submissive_interact_kleio_male_9a3fdf06:
-    kleio.say "Я вся внимание, сердцеед!"
 
 # ch/kleio/talk.rpy:578
 translate russian submissive_interact_kleio_male_ef015464:
@@ -26269,7 +25213,7 @@ translate russian kleio_dirty_texts_89fabfdc:
     kleio_nvl "Только скажи когда, и буду ждать на коленях."
 
 # ch/kleio/texts.rpy:60
-translate russian kleio_dirty_texts_bacacbdf:
+translate russian kleio_dirty_texts_640cc6c7:
     kleio_nvl "М-м... Моя киска так проголодалась, что уже рычит!"
 
 # ch/kleio/texts.rpy:61
@@ -26481,7 +25425,7 @@ translate russian kleio_dirty_texts_male_0a307332:
     kleio_nvl "Скажи, как меня хочешь, и я всю ночь буду настроена на тебя."
 
 # ch/kleio/texts.rpy:220
-translate russian kleio_dirty_texts_male_22350ea5:
+translate russian kleio_dirty_texts_male_9468c527:
     kleio_nvl "Господи... Всё тебе нужно превратить в фантазию для дрочки!"
 
 # ch/kleio/texts.rpy:223
@@ -26551,3 +25495,27 @@ translate russian kleio_dirty_texts_male_88a1b6d0:
 # ch/kleio/texts.rpy:275
 translate russian kleio_dirty_texts_male_9f0d7ce0_2:
     kleio_nvl "От тебя я вся мокрая :$"
+
+# ch/kleio/events.rpy:1738
+translate russian kleio_event_05_27cc7986:
+    "Я перехватываю её руки, прежде чем она успевает расстегнуть пуговицу."
+
+# ch/kleio/events.rpy:1739
+translate russian kleio_event_05_59018b78:
+    mike.say "[kleio.callname], подожди. Не сегодня."
+
+# ch/kleio/events.rpy:1743
+translate russian kleio_event_05_52800f4a:
+    "Она смотрит на меня, а потом слезает с моих колен."
+
+# ch/kleio/events.rpy:1744
+translate russian kleio_event_05_b90eab0c:
+    kleio.say "Серьёзно?"
+
+# ch/kleio/events.rpy:1745
+translate russian kleio_event_05_ca65e2fe:
+    kleio.say "Тебе же хуже, [hero.name]."
+
+# ch/kleio/events.rpy:1746
+translate russian kleio_event_05_cd628807:
+    "Через час, когда дождь стихает, она закидывает на плечо чехол с гитарой и уходит."

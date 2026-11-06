@@ -157,11 +157,11 @@ translate russian emma_kiss_512ca062:
     emma.say "Я бы никогда так не поступила с Самантой!"
 
 # ch/emma/base.rpy:142
-translate russian emma_kiss_9901db22:
+translate russian emma_kiss_3e552461:
     emma.say "Я, эм. Я не... нет, давай не будем, ладно?"
 
 # ch/emma/base.rpy:147
-translate russian emma_kiss_ba4aac8a:
+translate russian emma_kiss_f44c4485:
     emma.say "Я не... я ещё не... наверное, я пока не совсем к этому готова, ладно?"
 
 # ch/emma/base.rpy:150
@@ -255,10 +255,6 @@ translate russian emma_kiss_928cb935:
 # ch/emma/base.rpy:194
 translate russian emma_kiss_e2044f52:
     emma.say "М-м-м. Сцена с поцелуем открыта. Лучшая ветка из всех, [lssb_emma.hero_name()]."
-
-# ch/emma/base.rpy:202
-translate russian emma_propose_male_8648767b:
-    "Никогда не думал, что однажды в буквальном смысле сделаю предложение девушке своей мечты."
 
 # ch/emma/base.rpy:203
 translate russian emma_propose_male_7a02000f:
@@ -393,7 +389,7 @@ translate russian emma_propose_male_8a8662e4:
     mike.say "СТАНЕШЬ?!"
 
 # ch/emma/base.rpy:240
-translate russian emma_propose_male_b041e79f:
+translate russian emma_propose_male_3b43ec66:
     mike.say "Я... то есть... станешь?"
 
 # ch/emma/base.rpy:241
@@ -529,7 +525,7 @@ translate russian emma_propose_male_657cfb71:
     "Я киваю снова, на этот раз увереннее."
 
 # ch/emma/base.rpy:285
-translate russian emma_propose_male_afdd02b0:
+translate russian emma_propose_male_1a3f4f16:
     mike.say "Д... да..."
 
 # ch/emma/base.rpy:286
@@ -557,7 +553,7 @@ translate russian emma_ask_fuck_date_male_a3206150:
     emma.say "Я пока к этому не готова."
 
 # ch/emma/base.rpy:300
-translate russian emma_ask_fuck_date_male_4482a3e8:
+translate russian emma_ask_fuck_date_male_2c695e82:
     emma.say "Думаю... нет, пока нет."
 
 # ch/emma/base.rpy:302
@@ -565,7 +561,7 @@ translate russian emma_ask_fuck_date_male_97f27b07:
     emma.say "Ты замечательный парень, [lssb_emma.hero_name()], но я к этому не готова."
 
 # ch/emma/base.rpy:304
-translate russian emma_ask_fuck_date_male_dc192a3f:
+translate russian emma_ask_fuck_date_male_fa77c774:
     emma.say "Я... думаю, может... Ладно, конечно, только, эм. Да, хорошо!"
 
 # ch/emma/base.rpy:307
@@ -693,7 +689,7 @@ translate russian emma_chat_family_male_68e865ba:
     mike.say "Ты так и не рассказала мне о них."
 
 # ch/emma/chat.rpy:56
-translate russian emma_chat_family_male_c7d9299e:
+translate russian emma_chat_family_male_a9991b06:
     emma.say "Ох, я... я не хочу тебя расстраивать."
 
 # ch/emma/chat.rpy:61
@@ -741,7 +737,7 @@ translate russian emma_chat_family_male_33dced14:
     emma.say "Полицейский по телефону сказал, что все погибли мгновенно."
 
 # ch/emma/chat.rpy:74
-translate russian emma_chat_family_male_7861c345:
+translate russian emma_chat_family_male_93da32ee:
     mike.say "О нет, мне так... мне очень жаль!"
 
 # ch/emma/chat.rpy:75
@@ -853,7 +849,7 @@ translate russian emma_chat_notwork_male_55dfddab:
     mike.say "Это помогает понять, чего ты на самом деле хочешь."
 
 # ch/emma/chat.rpy:129
-translate russian emma_chat_notwork_male_415964bb:
+translate russian emma_chat_notwork_male_d4098acb:
     emma.say "Кажется... я уже знаю, чего хочу. Тебя, [lssb_emma.hero_name()]. Всегда хотела только тебя."
 
 # ch/emma/chat.rpy:132
@@ -881,7 +877,7 @@ translate russian emma_chat_school_male_8cd11edb:
     mike.say "Тогда хорошо, что ты назвала его милым!"
 
 # ch/emma/chat.rpy:144
-translate russian emma_chat_school_male_2cec04ea:
+translate russian emma_chat_school_male_687b3a5b:
     emma.say "Я весь день среди детей, а теперь ещё и нашего жду... Постоянно витаю в мечтах, [lssb_emma.hero_name()]."
 
 # ch/emma/chat.rpy:145
@@ -949,7 +945,7 @@ translate russian emma_chat_rp_male_b9c2012c:
     mike.say "Конечно. Или ты имела в виду что-то другое?"
 
 # ch/emma/chat.rpy:178
-translate russian emma_chat_rp_male_6e370ed3:
+translate russian emma_chat_rp_male_968c3026:
     emma.say "Я имела в виду, эм. Наверное, что-то более... эм. Интимное?"
 
 # ch/emma/chat.rpy:179
@@ -1041,7 +1037,7 @@ translate russian emma_chat_girlcrush_male_89ed6043:
     mike.say "Всегда."
 
 # ch/emma/chat.rpy:234
-translate russian emma_chat_girlcrush_male_66651e48:
+translate russian emma_chat_girlcrush_male_54c995ce:
     emma.say "В «Принцессе Марико» есть девушка, принцесса, и она просто... очень красивая."
 
 # ch/emma/chat.rpy:235
@@ -1057,7 +1053,7 @@ translate russian emma_chat_girlcrush_male_283385da:
     emma.say "Она храбрая, нежная и краснеет по любому поводу. Немного похожа на меня, наверное!"
 
 # ch/emma/chat.rpy:241
-translate russian emma_chat_girlcrush_male_2d0a36b4:
+translate russian emma_chat_girlcrush_male_b504dea6:
     emma.say "Никогда не думала, что от девушки у меня тоже может трепетать сердце, но... может, это не так уж странно."
 
 # ch/emma/chat.rpy:244
@@ -1065,7 +1061,7 @@ translate russian emma_chat_girlcrush_male_3e423020:
     mike.say "Странновато, не находишь?"
 
 # ch/emma/chat.rpy:246
-translate russian emma_chat_girlcrush_male_3c42c0f2:
+translate russian emma_chat_girlcrush_male_89936ca7:
     emma.say "О... наверное, ты прав. Забудь, что я сказала, ладно?"
 
 # ch/emma/chat.rpy:254
@@ -1085,7 +1081,7 @@ translate russian emma_good_sweet_talk_male_bb0dbd49:
     mike.say "Ты моя, Эмма. Только моя."
 
 # ch/emma/chat.rpy:261
-translate russian emma_good_sweet_talk_male_2588ac4f:
+translate russian emma_good_sweet_talk_male_e1206dbc:
     emma.say "Да... только твоя, [lssb_emma.hero_name()]. Просто скажи, чего хочешь, и я буду послушной, обещаю!"
 
 # ch/emma/chat.rpy:263
@@ -1133,7 +1129,7 @@ translate russian emma_good_sweet_talk_male_fa1ec50d:
     mike.say "Ведь о такой подруге я даже мечтать не мог!"
 
 # ch/emma/chat.rpy:281
-translate russian emma_good_sweet_talk_male_f841468f:
+translate russian emma_good_sweet_talk_male_7e850550:
     emma.say "Ох... это так мило!"
 
 # ch/emma/chat.rpy:287
@@ -1149,7 +1145,7 @@ translate russian emma_bad_sweet_talk_male_7a22931e:
     emma.say "Сразу кажется, что ты меня не замечаешь!"
 
 # ch/emma/chat.rpy:291
-translate russian emma_bad_sweet_talk_male_7a1eda63:
+translate russian emma_bad_sweet_talk_male_3f16fdf6:
     mike.say "Ох... если посмотреть на это так..."
 
 # ch/emma/chat.rpy:292
@@ -1261,7 +1257,7 @@ translate russian emma_warn_condom_76a0f496:
     "Эмма машет руками, привлекая моё внимание."
 
 # ch/emma/condom.rpy:44
-translate russian emma_warn_condom_cb4a507c:
+translate russian emma_warn_condom_6fd55a19:
     emma.say "Стой... подожди секунду!"
 
 # ch/emma/condom.rpy:45
@@ -1345,7 +1341,7 @@ translate russian emma_date_intro_valentine_male_d78d970e:
     "Но всё же умудряется улыбнуться и кивнуть."
 
 # ch/emma/date.rpy:9
-translate russian emma_date_intro_valentine_male_31dca243:
+translate russian emma_date_intro_valentine_male_efeea186:
     emma.say "Я... я немного нервничаю, [lssb_emma.hero_name()]."
 
 # ch/emma/date.rpy:10
@@ -1361,7 +1357,7 @@ translate russian emma_date_intro_valentine_male_0d815bb3:
     emma.say "Только на этот раз всё по-настоящему, рядом ты, а та самая девушка — я."
 
 # ch/emma/date.rpy:16
-translate russian emma_date_intro_valentine_male_f2019c1c:
+translate russian emma_date_intro_valentine_male_fc066d69:
     emma.say "Я... я всё ещё не могу поверить, что на День святого Валентина ты выбрал именно МЕНЯ."
 
 # ch/emma/date.rpy:17
@@ -1369,7 +1365,7 @@ translate russian emma_date_intro_valentine_male_fa3d6f30:
     emma.say "Наверняка найдётся сотня девушек, которые подошли бы тебе лучше..."
 
 # ch/emma/date.rpy:20
-translate russian emma_date_intro_valentine_male_35f0bcef:
+translate russian emma_date_intro_valentine_male_875d8109:
     emma.say "С Днём святого Валентина, [lssb_emma.hero_name()]. Хи-хи... когда я так к тебе обращаюсь, у меня в сердце всё ещё вспыхивают те самые искорки из аниме."
 
 # ch/emma/date.rpy:24
@@ -1413,7 +1409,7 @@ translate russian emma_date_intro_halloween_male_616ca912:
     emma.say "Дело не в том, что мне НЕ НРАВЯТСЯ костюмы, [lssb_emma.hero_name()]."
 
 # ch/emma/date.rpy:39
-translate russian emma_date_intro_halloween_male_cf2d78ed:
+translate russian emma_date_intro_halloween_male_9a961fde:
     emma.say "У меня дома целый шкаф костюмов для косплея... Просто я надеваю их только там, где никто не видит."
 
 # ch/emma/date.rpy:40
@@ -1437,7 +1433,7 @@ translate russian emma_date_intro_christmas_male_9b86c7ed:
     "Эмма улыбается, но я вижу, что она нервничает."
 
 # ch/emma/date.rpy:51
-translate russian emma_date_intro_christmas_male_d9ea7668:
+translate russian emma_date_intro_christmas_male_68dd2a35:
     emma.say "Ох... хорошо, [lssb_emma.hero_name()]."
 
 # ch/emma/date.rpy:52
@@ -1461,7 +1457,7 @@ translate russian emma_date_intro_christmas_male_a8e0e4ef:
     emma.say "Я раньше смотрела их и чувствовала себя такой одинокой. А теперь сама могу оказаться в такой серии — с тобой."
 
 # ch/emma/date.rpy:61
-translate russian emma_date_intro_christmas_male_2eeb3f52:
+translate russian emma_date_intro_christmas_male_c8dbd9a1:
     emma.say "Просто... я всё жду момента, когда ты поймёшь, что предпочёл бы провести этот день с кем-нибудь другим."
 
 # ch/emma/date.rpy:63
@@ -1485,7 +1481,7 @@ translate russian emma_date_intro_birthday_male_e353465d:
     mike.say "А зачем ещё я пригласил бы тебя на свидание в твой день рождения?"
 
 # ch/emma/date.rpy:74
-translate russian emma_date_intro_birthday_male_37801f46:
+translate russian emma_date_intro_birthday_male_026f4dd7:
     emma.say "Ох... ну... ты же знаешь, какими бывают парни..."
 
 # ch/emma/date.rpy:76
@@ -1505,7 +1501,7 @@ translate russian emma_date_intro_birthday_male_c2e92f64:
     emma.say "Словно сбылось желание, которое я даже ни разу не произнесла вслух."
 
 # ch/emma/date.rpy:83
-translate russian emma_date_intro_birthday_male_d063ee35:
+translate russian emma_date_intro_birthday_male_3bd70f5b:
     emma.say "Обычно в свой день рождения я просто сижу дома и читаю мангу, так что... этот уже лучший в моей жизни."
 
 # ch/emma/date.rpy:88
@@ -1557,7 +1553,7 @@ translate russian emma_date_eat_a_burger_9cd6a7d3:
     "Свободную руку она кладёт на округлившийся живот и жуёт, тихонько вздыхая от блаженства."
 
 # ch/emma/date.rpy:109
-translate russian emma_date_eat_a_burger_9b7cfd3f:
+translate russian emma_date_eat_a_burger_9f680358:
     emma.say "М-м-м... прости, [lssb_emma.hero_name()]. Малышу хотелось этого ВСЮ неделю!"
 
 # ch/emma/date.rpy:110
@@ -1577,7 +1573,7 @@ translate russian emma_date_eat_a_burger_39745f41:
     "Затем улыбается — вкус ей явно нравится — и вскоре откусывает куда больший кусок."
 
 # ch/emma/date.rpy:116
-translate russian emma_date_eat_a_burger_ed2fc35a:
+translate russian emma_date_eat_a_burger_a2bf5f8d:
     emma.say "Есть такая сцена, где героиня ест огромный бургер, и это ТАК мило... Мне всегда хотелось попробовать."
 
 # ch/emma/date.rpy:117
@@ -1645,7 +1641,7 @@ translate russian emma_date_pub_play_pool_6a153203:
     "Может, за этой невинной внешностью скрывается немного бильярдной акулы?"
 
 # ch/emma/date.rpy:151
-translate russian emma_date_pub_play_pool_27d55e5a:
+translate russian emma_date_pub_play_pool_eae7b743:
     emma.say "Хи-хи... в манге тихоня ВСЕГДА тайком оказывается лучшей в чём-нибудь. Похоже, я воплощаю этот штамп в жизнь."
 
 # ch/emma/date.rpy:157
@@ -1741,7 +1737,7 @@ translate russian emma_dance_with_55928bd4:
     "Её неловкость должна бы меня раздражать, но в том, как она ищет у меня защиты, есть что-то притягательное..."
 
 # ch/emma/date.rpy:221
-translate russian emma_dance_with_eeb4671f:
+translate russian emma_dance_with_877d5fe5:
     emma.say "Только... не отпускай меня, ладно, [lssb_emma.hero_name()]?"
 
 # ch/emma/date.rpy:225
@@ -1785,7 +1781,7 @@ translate russian emma_date_play_arcade_intro_male_7f3bb6ed:
     emma.say "Что ж, значит, я не такая, как большинство."
 
 # ch/emma/date.rpy:235
-translate russian emma_date_play_arcade_intro_male_d93f2a65:
+translate russian emma_date_play_arcade_intro_male_f59637b4:
     emma.say "А... вот он!"
 
 # ch/emma/date.rpy:236
@@ -1861,15 +1857,15 @@ translate russian emma_date_play_arcade_intro_male_435567f2:
     "И, честно говоря, я в любом случае в выигрыше."
 
 # ch/emma/date.rpy:256
-translate russian emma_date_play_arcade_intro_male_9751643b:
+translate russian emma_date_play_arcade_intro_male_2c97903b:
     emma.say "Ой... эм... прости, что читаю тебе лекции. Со мной такое бывает, когда я слишком увлекаюсь играми."
 
 # ch/emma/date.rpy:257
-translate russian emma_date_play_arcade_intro_male_cb2ac2a3:
+translate russian emma_date_play_arcade_intro_male_3eee7c3a:
     emma.say "Многих это ужасно раздражает, так что... можешь попросить меня остановиться."
 
 # ch/emma/date.rpy:258
-translate russian emma_date_play_arcade_intro_male_f1443688:
+translate russian emma_date_play_arcade_intro_male_af2524f1:
     emma.say "В общем... давай просто поиграем, ладно?"
 
 # ch/emma/date.rpy:260
@@ -1997,7 +1993,7 @@ translate russian emma_date_play_arcade_lose_male_c2348340:
     emma.say "Все знают, что он там, [lssb_emma.hero_name()]!"
 
 # ch/emma/date.rpy:300
-translate russian emma_date_play_arcade_lose_male_aa1b06fd:
+translate russian emma_date_play_arcade_lose_male_79f5e8b1:
     mike.say "А... не знаю, Эмма!"
 
 # ch/emma/date.rpy:301
@@ -2057,11 +2053,11 @@ translate russian emma_date_play_arcade_lose_male_605ed83d:
     emma.say "Ладно?"
 
 # ch/emma/date.rpy:316
-translate russian emma_date_play_arcade_lose_male_7d2aca76:
+translate russian emma_date_play_arcade_lose_male_172c7ffc:
     emma.say "Хи-хи... я ещё сделаю из тебя настоящего геймера, [lssb_emma.hero_name()]. Второй игрок навсегда."
 
 # ch/emma/date.rpy:324
-translate russian emma_dick_reactions_4dd3858b:
+translate russian emma_dick_reactions_0bf1c617:
     emma.say "О... он... большой!"
 
 # ch/emma/date.rpy:325
@@ -2073,7 +2069,7 @@ translate russian emma_dick_reactions_678ef3b5:
     mike.say "Не волнуйся, Эмма, я буду нежным."
 
 # ch/emma/date.rpy:327
-translate russian emma_dick_reactions_4bf4403b:
+translate russian emma_dick_reactions_77403b4c:
     emma.say "Х... хорошо..."
 
 # ch/emma/date.rpy:328
@@ -2173,7 +2169,7 @@ translate russian emma_halloween_invitation_0a98ed44:
     "Эмма кивает."
 
 # ch/emma/date.rpy:369
-translate russian emma_halloween_invitation_28e22fdf:
+translate russian emma_halloween_invitation_e84d2517:
     emma.say "О... понятно."
 
 # ch/emma/date.rpy:371
@@ -2217,7 +2213,7 @@ translate russian emma_halloween_invitation_75c7253a:
     mike.say "Здорово, Эмма!"
 
 # ch/emma/date.rpy:386
-translate russian emma_halloween_invitation_2fa70519:
+translate russian emma_halloween_invitation_26f3f6fa:
     emma.say "Но... но подожди минутку!"
 
 # ch/emma/date.rpy:387
@@ -2549,11 +2545,11 @@ translate russian emma_halloween_arrival_f3856444:
     "Эмма прикусывает губу, не зная, что делать дальше."
 
 # ch/emma/date.rpy:515
-translate russian emma_halloween_arrival_dcf8f1d8:
+translate russian emma_halloween_arrival_10c6575e:
     emma.say "А мне... всё-таки можно войти?"
 
 # ch/emma/date.rpy:517
-translate russian emma_halloween_arrival_b9ce0b29:
+translate russian emma_halloween_arrival_a48ac6fe:
     mike.say "Конечно... конечно..."
 
 # ch/emma/date.rpy:518
@@ -2629,7 +2625,7 @@ translate russian emma_halloween_party_3cffdd3e:
     mike.say "Эмма просто немного застенчива, вот и всё."
 
 # ch/emma/date.rpy:553
-translate russian emma_halloween_party_b02e1d6e:
+translate russian emma_halloween_party_eef0e837:
     emma.say "Д... да, [lssb_emma.hero_name()]."
 
 # ch/emma/date.rpy:554
@@ -2685,11 +2681,11 @@ translate russian emma_halloween_party_f5ef51be:
     "Эмма качает головой."
 
 # ch/emma/date.rpy:578
-translate russian emma_halloween_party_4d903958:
+translate russian emma_halloween_party_3c135a78:
     emma.say "Т... ты же знаешь о моих проблемах, [lssb_emma.hero_name()]."
 
 # ch/emma/date.rpy:579
-translate russian emma_halloween_party_bf701407:
+translate russian emma_halloween_party_9d17b458:
     emma.say "Социальная тревожность... мы об этом говорили!"
 
 # ch/emma/date.rpy:581
@@ -2705,7 +2701,7 @@ translate russian emma_halloween_party_c55a5b52:
     "Эмма смотрит на меня с обидой в глазах."
 
 # ch/emma/date.rpy:586
-translate russian emma_halloween_party_ac74445d:
+translate russian emma_halloween_party_d10cc55d:
     emma.say "П... прости, [lssb_emma.hero_name()]."
 
 # ch/emma/date.rpy:587
@@ -2741,7 +2737,7 @@ translate russian emma_halloween_dance_080ee2e1:
     mike.say "Эмма..."
 
 # ch/emma/date.rpy:606
-translate russian emma_halloween_dance_7cbfdbe1:
+translate russian emma_halloween_dance_63ddf42d:
     emma.say "О... да, [lssb_emma.hero_name()]?"
 
 # ch/emma/date.rpy:608
@@ -2757,7 +2753,7 @@ translate russian emma_halloween_dance_1444d0e6:
     "Она смотрит на танцпол так, словно боится его."
 
 # ch/emma/date.rpy:614
-translate russian emma_halloween_dance_381cfcab:
+translate russian emma_halloween_dance_32430d1a:
     emma.say "Я... я не знаю."
 
 # ch/emma/date.rpy:615
@@ -2845,7 +2841,7 @@ translate russian emma_halloween_dance_2f15a798:
     mike.say "Знаешь что, Эмма, забудь."
 
 # ch/emma/date.rpy:645
-translate russian emma_halloween_dance_a5dd0549:
+translate russian emma_halloween_dance_e052f25e:
     emma.say "П... правда?!"
 
 # ch/emma/date.rpy:647
@@ -2957,7 +2953,7 @@ translate russian emma_halloween_sex_3af20051:
     mike.say "Понимаешь, о чём я?"
 
 # ch/emma/date.rpy:696
-translate russian emma_halloween_sex_820b44d1:
+translate russian emma_halloween_sex_59b335b0:
     emma.say "О... О!"
 
 # ch/emma/date.rpy:698
@@ -3121,11 +3117,11 @@ translate russian emma_halloween_sex_de1054f4:
     emma.say "Ах..."
 
 # ch/emma/date.rpy:754
-translate russian emma_halloween_sex_648068ef:
+translate russian emma_halloween_sex_f0a6744c:
     emma.say "Я... я готова."
 
 # ch/emma/date.rpy:755
-translate russian emma_halloween_sex_4ddb2eb0:
+translate russian emma_halloween_sex_058b6e3f:
     emma.say "Пожалуйста... можно мне?"
 
 # ch/emma/date.rpy:757
@@ -3221,7 +3217,7 @@ translate russian emma_halloween_sex_2edfb20c:
     emma.say "Вот так..."
 
 # ch/emma/date.rpy:784
-translate russian emma_halloween_sex_cbe0af6c:
+translate russian emma_halloween_sex_43c1e85c:
     emma.say "Обожаю... твой член... внутри меня!"
 
 # ch/emma/date.rpy:785
@@ -3765,7 +3761,7 @@ translate russian emma_event_02_5ef2c6d4:
     samantha.say "Будто собираешься её съесть!"
 
 # ch/emma/events.rpy:679
-translate russian emma_event_02_04126675:
+translate russian emma_event_02_4b92434b:
     mike.say "А? О! Боже, прости. Я просто... прости, Эмма кажется такой знакомой, словно я её знаю и не знаю одновременно. Как дежавю! Понимаешь?"
 
 # ch/emma/events.rpy:680
@@ -3797,7 +3793,7 @@ translate russian emma_event_02_b5833693:
     samantha.say "Молодец, взял и напугал её! Да что с тобой {b}происходит{/b}?"
 
 # ch/emma/events.rpy:689
-translate russian emma_event_02_b2b9411b:
+translate russian emma_event_02_31df681a:
     mike.say "Ничего, я просто... прости, наверное, голова забита всяким, а она кажется такой знакомой, и..."
 
 # ch/emma/events.rpy:691
@@ -3837,11 +3833,11 @@ translate russian emma_event_02_79016ec6:
     mike.say "Да, то есть для меня это было неожиданно, я не был к этому готов."
 
 # ch/emma/events.rpy:709
-translate russian emma_event_02_f59b78bf:
+translate russian emma_event_02_75d40af3:
     samantha.say "О. Я... я думала..."
 
 # ch/emma/events.rpy:710
-translate russian emma_event_02_636464b6:
+translate russian emma_event_02_150fca6f:
     mike.say "Нет, погоди! Я не говорю, что не хочу этого, просто... не ставь меня перед фактом, ладно? Давай обсудим позже, хорошо?"
 
 # ch/emma/events.rpy:711
@@ -4033,7 +4029,7 @@ translate russian emma_event_03_appointment_bf23ed26:
     samantha.say "А у тебя какое оправдание, Эмма?"
 
 # ch/emma/events.rpy:810
-translate russian emma_event_03_appointment_8e8c2b65:
+translate russian emma_event_03_appointment_45041c1e:
     emma.say "Ой, эм. Я, э, просто... задумалась кое о чём, наверное."
 
 # ch/emma/events.rpy:811
@@ -4217,7 +4213,7 @@ translate russian emma_event_03_appointment_9c6170b9:
     mike.say "Рад, что удалось познакомиться с тобой по-настоящему, Эмма."
 
 # ch/emma/events.rpy:883
-translate russian emma_event_03_appointment_c1ab4ebd:
+translate russian emma_event_03_appointment_dd6fff19:
     emma.say "Ой, я, эм... да, я тоже рада знакомству, [lssb_emma.hero_name()]!"
 
 # ch/emma/events.rpy:884
@@ -4325,7 +4321,7 @@ translate russian emma_event_04_9dc32041:
     mike.say "Раньше Райан был моим лучшим другом. Мы с ним и Самантой жили в одном доме, а потом они сошлись."
 
 # ch/emma/events.rpy:927
-translate russian emma_event_04_8d0bdf69:
+translate russian emma_event_04_562fcb7e:
     mike.say "Но... Райан не всегда ведёт себя порядочно."
 
 # ch/emma/events.rpy:928
@@ -4365,7 +4361,7 @@ translate russian emma_event_04_adff180b:
     emma.say "Не понимаю."
 
 # ch/emma/events.rpy:943
-translate russian emma_event_04_fa639e72:
+translate russian emma_event_04_7945e7f7:
     mike.say "Я, честно говоря, тоже, но... она знает, что происходит, и как-то с этим живёт."
 
 # ch/emma/events.rpy:944
@@ -4377,7 +4373,7 @@ translate russian emma_event_04_43283472:
     mike.say "Возможно, так и есть."
 
 # ch/emma/events.rpy:948
-translate russian emma_event_04_a2d866a1:
+translate russian emma_event_04_46d25f5e:
     mike.say "Я... нет, не хотел причинять ей боль."
 
 # ch/emma/events.rpy:949
@@ -4401,7 +4397,7 @@ translate russian emma_event_04_b2b211ad:
     mike.say "Ладно. Ты права. Нужно просто перебороть себя и сорвать пластырь."
 
 # ch/emma/events.rpy:959
-translate russian emma_event_04_b8d948ac:
+translate russian emma_event_04_c4f20cbe:
     mike.say "Я... эм, у нас с Райаном и Сэм есть договорённость."
 
 # ch/emma/events.rpy:960
@@ -4421,7 +4417,7 @@ translate russian emma_event_04_20c7178c:
     emma.say "То есть вы втроём?!"
 
 # ch/emma/events.rpy:964
-translate russian emma_event_04_fdb43bf1:
+translate russian emma_event_04_a4c9da93:
     mike.say "Это... не мне об этом рассказывать."
 
 # ch/emma/events.rpy:965
@@ -4433,7 +4429,7 @@ translate russian emma_event_04_f51afdd6:
     emma.say "Мне нужно время, чтобы это осмыслить!"
 
 # ch/emma/events.rpy:970
-translate russian emma_event_04_d24a65b0:
+translate russian emma_event_04_76aa276a:
     mike.say "Думаю, изменяет, но... трудно быть уверенным."
 
 # ch/emma/events.rpy:972
@@ -4453,7 +4449,7 @@ translate russian emma_event_04_4220a086:
     mike.say "Не знаю. Если рассказать о подозрениях, не будучи уверенными, можно лишь навредить. Это не будет помощью."
 
 # ch/emma/events.rpy:977
-translate russian emma_event_04_228caa67:
+translate russian emma_event_04_79063598:
     emma.say "Тогда... тогда, наверное, нужно выяснить."
 
 # ch/emma/events.rpy:978
@@ -4481,7 +4477,7 @@ translate russian emma_event_04_790e70d8:
     emma.say "Тогда что ты имеешь в виду?"
 
 # ch/emma/events.rpy:987
-translate russian emma_event_04_864983cb:
+translate russian emma_event_04_14e88f10:
     mike.say "Что... я просто не видел ничего, что давало бы повод так сказать."
 
 # ch/emma/events.rpy:989
@@ -4533,7 +4529,7 @@ translate russian emma_event_04_8619f2c6:
     "Я пожимаю плечами."
 
 # ch/emma/events.rpy:1006
-translate russian emma_event_04_6f5b03e0:
+translate russian emma_event_04_7ba2abd8:
     emma.say "Это... разочаровывает."
 
 # ch/emma/events.rpy:1007
@@ -4569,7 +4565,7 @@ translate russian emma_event_04_dcfae3c7:
     emma.say "Хорошо, наверное, это хорошо."
 
 # ch/emma/events.rpy:1019
-translate russian emma_event_04_09f32b55:
+translate russian emma_event_04_380c1f90:
     mike.say "Нет, это просто... помогает ей. Брак у неё паршивый, а так ей легче его переносить."
 
 # ch/emma/events.rpy:1020
@@ -4597,7 +4593,7 @@ translate russian emma_event_04_b5d45bfc:
     emma.say "Она не очень-то обдумывает свои поступки, да?"
 
 # ch/emma/events.rpy:1029
-translate russian emma_event_04_3b0adaa2:
+translate russian emma_event_04_df770a3b:
     mike.say "Пожалуй... она склонна сначала делать, а потом думать."
 
 # ch/emma/events.rpy:1030
@@ -4621,7 +4617,7 @@ translate russian emma_event_05_e1342756:
     mike.say "Да? Надеюсь, что-нибудь хорошее?"
 
 # ch/emma/events.rpy:1043
-translate russian emma_event_05_13b5b36a:
+translate russian emma_event_05_62e9b89a:
     emma.say "Я... эм, да. Слушай, есть минутка выпить кофе?"
 
 # ch/emma/events.rpy:1044
@@ -4733,11 +4729,11 @@ translate russian emma_event_05_46a1124d:
     mike.say "Нет! Нет! Совсем нет, ни капельки."
 
 # ch/emma/events.rpy:1077
-translate russian emma_event_05_deaa1f09:
+translate russian emma_event_05_6cd4ea5f:
     emma.say "О. Начнёшь, когда я расскажу... что это был за сон."
 
 # ch/emma/events.rpy:1078
-translate russian emma_event_05_5825ef34:
+translate russian emma_event_05_63767a21:
     mike.say "Я... это был эротический сон."
 
 # ch/emma/events.rpy:1080
@@ -4745,11 +4741,11 @@ translate russian emma_event_05_236d023e:
     emma.say "Как? То есть это так очевидно?"
 
 # ch/emma/events.rpy:1081
-translate russian emma_event_05_5eb4d3f0:
+translate russian emma_event_05_de9ec36c:
     mike.say "Там было, эм... я позади тебя? Держал тебя на... эм."
 
 # ch/emma/events.rpy:1082
-translate russian emma_event_05_3715bc4a:
+translate russian emma_event_05_96601006:
     emma.say "...поводке. Что... откуда ты?"
 
 # ch/emma/events.rpy:1083
@@ -4777,7 +4773,7 @@ translate russian emma_event_05_6496db06:
     mike.say "Не знаю. Судьба? Предначертание?"
 
 # ch/emma/events.rpy:1093
-translate russian emma_event_05_a53ceb73:
+translate russian emma_event_05_0dc93c1b:
     emma.say "Но... ты встречаешься с моей лучшей подругой! Неужели... неужели судьба настолько жестока к людям?"
 
 # ch/emma/events.rpy:1094
@@ -4785,11 +4781,11 @@ translate russian emma_event_05_20eee7a8:
     emma.say "Сэм заслуживает лучшего."
 
 # ch/emma/events.rpy:1096
-translate russian emma_event_05_98cece6d:
+translate russian emma_event_05_6247a545:
     emma.say "Я никогда толком не верила во что-то подобное. И не могу поверить. Как же это было бы ужасно, если... Крисса."
 
 # ch/emma/events.rpy:1097
-translate russian emma_event_05_0e3b79f5:
+translate russian emma_event_05_458727c6:
     mike.say "Не знаю. Я вообще никогда об этом не задумывался. Наверное... может, это ничего не значит. А может, значит."
 
 # ch/emma/events.rpy:1099
@@ -4809,7 +4805,7 @@ translate russian emma_event_05_86149da5:
     emma.say "Дай мне подумать об этом."
 
 # ch/emma/events.rpy:1103
-translate russian emma_event_05_a531712f:
+translate russian emma_event_05_e2cd8646:
     mike.say "Только... не накручивай себя, ладно?"
 
 # ch/emma/events.rpy:1104
@@ -4861,7 +4857,7 @@ translate russian emma_event_06_7e6023df:
     mike.say "Прости, Эмма. Не звучит особо интересно."
 
 # ch/emma/events.rpy:1131
-translate russian emma_event_06_fb684eed:
+translate russian emma_event_06_4d1fedd6:
     emma.say "О. П-прости, я думала, что это... не обращай внимания, я просто глупости говорю."
 
 # ch/emma/events.rpy:1132
@@ -5061,15 +5057,15 @@ translate russian emma_event_06_finish_e1b95b9d:
     emma.say "Прощать меня должен не {b}ты{/b}. А Саманта!"
 
 # ch/emma/events.rpy:1302
-translate russian emma_event_06_finish_06fdcd33:
+translate russian emma_event_06_finish_9a0d9e46:
     emma.say "Нужно ей рассказать... немедленно!"
 
 # ch/emma/events.rpy:1304
-translate russian emma_event_06_finish_f5068aad:
+translate russian emma_event_06_finish_4e99be90:
     emma.say "Нет, то есть я, эм. Чёрт, я не... я не хочу, то есть я не... не готова! Я не!"
 
 # ch/emma/events.rpy:1305
-translate russian emma_event_06_finish_6ea7959e:
+translate russian emma_event_06_finish_595762d8:
     emma.say "Прости, я всегда так теряюсь, когда... пожалуйста, мне нужно идти!"
 
 # ch/emma/events.rpy:1306
@@ -5105,7 +5101,7 @@ translate russian emma_event_07_490beb9f:
     emma.say "Ой, даже не знаю."
 
 # ch/emma/events.rpy:1334
-translate russian emma_event_07_9825e1b0:
+translate russian emma_event_07_cfcc7fd5:
     mike.say "Давай что-нибудь лёгкое и... хм. Ты больше любишь мяту или ананас?"
 
 # ch/emma/events.rpy:1336
@@ -5125,7 +5121,7 @@ translate russian emma_event_07_f082a220:
     "Она смотрит на него с сомнением, но всё же пробует."
 
 # ch/emma/events.rpy:1340
-translate russian emma_event_07_c4c4e0f8:
+translate russian emma_event_07_0a03d173:
     emma.say "Хм, неплохо. Я думала, будет более... не знаю. Резко?"
 
 # ch/emma/events.rpy:1341
@@ -5145,7 +5141,7 @@ translate russian emma_event_07_f2229bba:
     emma.say "Ты словно всегда знаешь, что мне нужно. Будто сошёл прямо из моих мечтаний!"
 
 # ch/emma/events.rpy:1348
-translate russian emma_event_07_32a5c8ff:
+translate russian emma_event_07_0324be29:
     emma.say "Я... я не очень привыкла, чтобы обо мне так заботились."
 
 # ch/emma/events.rpy:1349
@@ -5173,7 +5169,7 @@ translate russian emma_event_07_f3f1cb7e:
     mike.say "Мне должно быть {b}очень{/b} лестно?"
 
 # ch/emma/events.rpy:1358
-translate russian emma_event_07_5a0ab9f0:
+translate russian emma_event_07_0644c20f:
     emma.say "Ой! Я, эм. То есть вроде да, это... я о снах. Не могу выбросить их из головы!"
 
 # ch/emma/events.rpy:1359
@@ -5189,7 +5185,7 @@ translate russian emma_event_07_8a55e681:
     mike.say "Я не верю ни в судьбу, ни в предначертание. Мы сами творим свою судьбу. Мы сильные люди и сами оставляем след в мире."
 
 # ch/emma/events.rpy:1366
-translate russian emma_event_07_0b7c12fb:
+translate russian emma_event_07_eced55d5:
     emma.say "Конечно, но есть столько... внешних обстоятельств, которыми мы не управляем. Да, ты хорош в работе, но что, если начальник — мерзавец и ненавидит тебя?"
 
 # ch/emma/events.rpy:1367
@@ -5249,7 +5245,7 @@ translate russian emma_event_07_70b64955:
     emma.say "Если мы заснём одновременно, думая друг о друге, то, может быть, только может быть..."
 
 # ch/emma/events.rpy:1386
-translate russian emma_event_07_704efccd:
+translate russian emma_event_07_c7679257:
     mike.say "А если мне приснится... очень приятный сон о тебе просто потому, что ты рядом, ты красивая, и я думаю... ну, о таком!"
 
 # ch/emma/events.rpy:1388
@@ -5277,7 +5273,7 @@ translate russian emma_event_07_a8cc9c61:
     mike.say "Ладно, я, пожалуй, согласен. Когда и где?"
 
 # ch/emma/events.rpy:1395
-translate russian emma_event_07_314cb238:
+translate russian emma_event_07_48853bc1:
     emma.say "Нужно в выходные: в будни я сразу после подъёма иду в школу, а мне бы не хотелось учить детей в... таком состоянии."
 
 # ch/emma/events.rpy:1396
@@ -5301,7 +5297,7 @@ translate russian emma_event_07_25079578:
     emma.say "Нет! Не свидание!"
 
 # ch/emma/events.rpy:1404
-translate russian emma_event_07_4502b37b:
+translate russian emma_event_07_d86b1528:
     emma.say "Это... просто ночёвка!"
 
 # ch/emma/events.rpy:1405
@@ -5521,7 +5517,7 @@ translate russian emma_event_08_336e8455:
     mike.say "Ну как работа? С детьми всё хорошо?"
 
 # ch/emma/events.rpy:1498
-translate russian emma_event_08_ef254c35:
+translate russian emma_event_08_939c581d:
     emma.say "О! Ну, знаешь, эм. Дети... то есть некоторые просто чудо: смотришь, как они учатся и впитывают всё, что ты говоришь."
 
 # ch/emma/events.rpy:1499
@@ -5601,7 +5597,7 @@ translate russian emma_event_08_1a1d927f:
     "Следующие две серии мы смотрим молча, обнявшись на диване. Во время титров Эмма зевает и потягивается, чуть отодвинувшись от меня."
 
 # ch/emma/events.rpy:1533
-translate russian emma_event_08_2dc82018:
+translate russian emma_event_08_846bc768:
     emma.say "Думаю... думаю, теперь я готова попробовать заснуть."
 
 # ch/emma/events.rpy:1534
@@ -5633,7 +5629,7 @@ translate russian emma_event_08_2eda599f:
     bree.say "О. У вас свидание или что-то такое?"
 
 # ch/emma/events.rpy:1547
-translate russian emma_event_08_90e67fcb:
+translate russian emma_event_08_a8e5df12:
     mike.say "Нет-нет! Она сегодня переночует на диване. Это просто... мы кое-что проверяем."
 
 # ch/emma/events.rpy:1548
@@ -5725,7 +5721,7 @@ translate russian emma_event_08_1a1d927f_1:
     "Следующие две серии мы смотрим молча, обнявшись на диване. Во время титров Эмма зевает и потягивается, чуть отодвинувшись от меня."
 
 # ch/emma/events.rpy:1582
-translate russian emma_event_08_2dc82018_1:
+translate russian emma_event_08_846bc768_1:
     emma.say "Думаю... думаю, теперь я готова попробовать заснуть."
 
 # ch/emma/events.rpy:1583
@@ -5901,7 +5897,7 @@ translate russian emma_event_09_f28845de:
     mike.say "Понимаю."
 
 # ch/emma/events.rpy:1644
-translate russian emma_event_09_cb8c6fb8:
+translate russian emma_event_09_866e9754:
     emma.say "Мне нужно было... проветрить голову."
 
 # ch/emma/events.rpy:1645
@@ -5909,7 +5905,7 @@ translate russian emma_event_09_9718cc85:
     mike.say "Да?"
 
 # ch/emma/events.rpy:1646
-translate russian emma_event_09_22fb4d26:
+translate russian emma_event_09_3527f09c:
     emma.say "Так... тебе что-нибудь, эм... снилось?"
 
 # ch/emma/events.rpy:1649
@@ -5917,7 +5913,7 @@ translate russian emma_event_09_3f4da0f3:
     mike.say "Да, ещё как снилось."
 
 # ch/emma/events.rpy:1651
-translate russian emma_event_09_55192055:
+translate russian emma_event_09_473b68f4:
     emma.say "Там было... ну, знаешь. Эм. Внизу... там?"
 
 # ch/emma/events.rpy:1652
@@ -5925,7 +5921,7 @@ translate russian emma_event_09_6d86de3c:
     mike.say "Да!"
 
 # ch/emma/events.rpy:1653
-translate russian emma_event_09_c5ecabad:
+translate russian emma_event_09_4c25147c:
     emma.say "Боже мой. Значит, это... то есть ты, эм. Что ты делал?"
 
 # ch/emma/events.rpy:1654
@@ -6005,7 +6001,7 @@ translate russian emma_event_09_17387fa1:
     "Она врёт, это совершенно очевидно. И ещё она расстроена."
 
 # ch/emma/events.rpy:1684
-translate russian emma_event_09_74f7ff16:
+translate russian emma_event_09_f7b6f1fa:
     mike.say "Я... ладно, слушай, я не очень хотел признаваться, но мне и правда снился сон. О тебе."
 
 # ch/emma/events.rpy:1685
@@ -6025,7 +6021,7 @@ translate russian emma_event_09_620e7730:
     mike.say "Полагаю, тебе тоже?"
 
 # ch/emma/events.rpy:1690
-translate russian emma_event_09_ab281c37:
+translate russian emma_event_09_472d9287:
     emma.say "Я, эм. Возможно... может быть, вроде того."
 
 # ch/emma/events.rpy:1691
@@ -6061,7 +6057,7 @@ translate russian emma_event_09_a1783a7f:
     emma.say "Эм. Да. Наверное, ты прав."
 
 # ch/emma/events.rpy:1707
-translate russian emma_event_09_do_what_2a1195e5:
+translate russian emma_event_09_do_what_1bba2212:
     emma.say "Но, эм... что нам с этим делать?"
 
 # ch/emma/events.rpy:1712
@@ -6101,7 +6097,7 @@ translate russian emma_event_09_do_what_7e48b886:
     "Эмма выглядит разочарованной, но одновременно почти испытывает облегчение."
 
 # ch/emma/events.rpy:1729
-translate russian emma_event_09_do_what_f2cfd829:
+translate russian emma_event_09_do_what_5cf430e3:
     emma.say "Да, наверное, ты прав. Лучше просто... сделать вид, что ничего не было."
 
 # ch/emma/events.rpy:1730
@@ -6165,15 +6161,15 @@ translate russian emma_event_09_sam_7ffd12fc:
     mike.say "Конечно люблю!"
 
 # ch/emma/events.rpy:1762
-translate russian emma_event_09_sam_95010494:
+translate russian emma_event_09_sam_f0259863:
     samantha.say "Любишь? Потому что... я просто... то есть вы с Эммой."
 
 # ch/emma/events.rpy:1765
-translate russian emma_event_09_sam_30949c54:
+translate russian emma_event_09_sam_b911dbe5:
     mike.say "Кексик, я... прости, но, кажется, нет."
 
 # ch/emma/events.rpy:1767
-translate russian emma_event_09_sam_e9811743:
+translate russian emma_event_09_sam_3b8354f0:
     mike.say "Сэм, я... прости, но, кажется, нет."
 
 # ch/emma/events.rpy:1768
@@ -6205,7 +6201,7 @@ translate russian emma_event_09_sam_129ff0ae:
     samantha.say "Слушай, я знаю, что внезапно назвала тебя своим парнем, а ты, вообще-то, не соглашался."
 
 # ch/emma/events.rpy:1780
-translate russian emma_event_09_sam_d0d9327c:
+translate russian emma_event_09_sam_949795e2:
     mike.say "Наверное... дело в этом?"
 
 # ch/emma/events.rpy:1781
@@ -6277,7 +6273,7 @@ translate russian emma_event_09_sam_157ddefe:
     mike.say "Не знаю! Не думаю. Я ведь едва её знаю. Мы немного поболтали, вместе посмотрели аниме, было приятно."
 
 # ch/emma/events.rpy:1798
-translate russian emma_event_09_sam_205128ef:
+translate russian emma_event_09_sam_ab26bcf4:
     samantha.say "Ты хочешь, чтобы я... не мешала?"
 
 # ch/emma/events.rpy:1801
@@ -6393,11 +6389,11 @@ translate russian emma_event_09_sam_1e579505:
     samantha.say "Ладно, пока."
 
 # ch/emma/events.rpy:1835
-translate russian emma_event_09_sam_0392a09e:
+translate russian emma_event_09_sam_f0af566b:
     mike.say "Я... мне тяжело это говорить, Кексик, но я хочу разобраться, что между нами с ней. Не могу это игнорировать."
 
 # ch/emma/events.rpy:1837
-translate russian emma_event_09_sam_822bb453:
+translate russian emma_event_09_sam_caec045f:
     mike.say "Я... мне тяжело это говорить, Сэм, но я хочу разобраться, что между нами с ней. Не могу это игнорировать."
 
 # ch/emma/events.rpy:1838
@@ -6413,11 +6409,11 @@ translate russian emma_event_09_sam_fa7cefae:
     samantha.say "Но причинил."
 
 # ch/emma/events.rpy:1843
-translate russian emma_event_09_sam_5d0c802e:
+translate russian emma_event_09_sam_137e7204:
     mike.say "Я... прости, Кексик. Я не хотел."
 
 # ch/emma/events.rpy:1845
-translate russian emma_event_09_sam_456364b7:
+translate russian emma_event_09_sam_d1b4eb4b:
     mike.say "Я... прости, Сэм. Я не хотел."
 
 # ch/emma/events.rpy:1846
@@ -6425,7 +6421,7 @@ translate russian emma_event_09_sam_edf5e331:
     samantha.say "Мне тоже жаль."
 
 # ch/emma/events.rpy:1849
-translate russian emma_event_09_sam_933dcd86:
+translate russian emma_event_09_sam_485c4e18:
     samantha.say "Наверное, поэтому ты не... мы не..."
 
 # ch/emma/events.rpy:1850
@@ -6461,7 +6457,7 @@ translate russian emma_event_09_sam_2a590059:
     "Ох."
 
 # ch/emma/events.rpy:1858
-translate russian emma_event_09_sam_87aba364:
+translate russian emma_event_09_sam_1b6dbecd:
     samantha.say "Я... я ей скажу. Всё улажу."
 
 # ch/emma/events.rpy:1860
@@ -6497,7 +6493,7 @@ translate russian emma_event_09_betrayed_c3816000:
     emma.say "Не вздумай водить меня за нос!"
 
 # ch/emma/events.rpy:1874
-translate russian emma_event_09_betrayed_8d778e0f:
+translate russian emma_event_09_betrayed_9ae3f4ee:
     mike.say "Я... ну, наверное, хотел дать нам шанс разобраться в том, что между нами..."
 
 # ch/emma/events.rpy:1875
@@ -6549,7 +6545,7 @@ translate russian emma_event_09_okayed_82f72d6a:
     mike.say "Она сказала, что я её бросил?!"
 
 # ch/emma/events.rpy:1893
-translate russian emma_event_09_okayed_c05a2b05:
+translate russian emma_event_09_okayed_c0cde504:
     emma.say "Нет, но... она была расстроена и пыталась это скрыть."
 
 # ch/emma/events.rpy:1894
@@ -6569,7 +6565,7 @@ translate russian emma_event_09_okayed_e8da623b:
     "Эмма ещё немного хмурится, затем расслабляется."
 
 # ch/emma/events.rpy:1900
-translate russian emma_event_09_okayed_3577662a:
+translate russian emma_event_09_okayed_2d43addf:
     emma.say "Я... чёрт, надо было ей поверить."
 
 # ch/emma/events.rpy:1901
@@ -6589,11 +6585,11 @@ translate russian emma_event_09_okayed_41d3c657:
     emma.say "Что ты имеешь в виду?"
 
 # ch/emma/events.rpy:1905
-translate russian emma_event_09_okayed_ab257f14:
+translate russian emma_event_09_okayed_cf63b620:
     mike.say "Ладно, слушай. Назвав меня своим парнем, она решила всё сама. На самом деле мы этого не обсуждали. Потом поговорили, и... мне было некомфортно."
 
 # ch/emma/events.rpy:1906
-translate russian emma_event_09_okayed_ea705743:
+translate russian emma_event_09_okayed_bdb19bb1:
     mike.say "Я долго об этом думал и просто... не был уверен, что это правильно."
 
 # ch/emma/events.rpy:1907
@@ -6605,7 +6601,7 @@ translate russian emma_event_09_okayed_70cc80a3:
     emma.say "Понятно."
 
 # ch/emma/events.rpy:1909
-translate russian emma_event_09_okayed_d3f86a7d:
+translate russian emma_event_09_okayed_499b134a:
     mike.say "Было бы гораздо хуже, если бы я сначала согласился, а потом передумал. Поэтому я подождал, и... нужного чувства так и не появилось."
 
 # ch/emma/events.rpy:1910
@@ -6625,7 +6621,7 @@ translate russian emma_event_09_okayed_91e7ef86:
     mike.say "Правда."
 
 # ch/emma/events.rpy:1914
-translate russian emma_event_09_okayed_5623876d:
+translate russian emma_event_09_okayed_2e01a486:
     emma.say "Хорошо. Наверное... думаю... то есть да, наверное, тогда всё нормально."
 
 # ch/emma/events.rpy:1926
@@ -6665,7 +6661,7 @@ translate russian emma_event_09_appointment_f7754a20:
     samantha.say "Эмма, а чего хотела бы {b}ты{/b}?"
 
 # ch/emma/events.rpy:1938
-translate russian emma_event_09_appointment_95374844:
+translate russian emma_event_09_appointment_de7fcc66:
     emma.say "Я, э. То есть я вроде... но не... слушай, Сэм. Я очень тебя люблю. Я никогда, {b}ни за что{/b} не причиню тебе боль намеренно."
 
 # ch/emma/events.rpy:1939
@@ -6717,7 +6713,7 @@ translate russian emma_event_09_appointment_4388bc5a:
     mike.say "Конечно!"
 
 # ch/emma/events.rpy:1953
-translate russian emma_event_09_appointment_a4f8ccf1:
+translate russian emma_event_09_appointment_751442c0:
     samantha.say "Я имею в виду... она тебе {b}нравится{/b}?"
 
 # ch/emma/events.rpy:1954
@@ -6857,7 +6853,7 @@ translate russian emma_event_10_bree_3321edda:
     bree.say "...он отец!"
 
 # ch/emma/events.rpy:2046
-translate russian emma_event_10_bree_adcbaef3:
+translate russian emma_event_10_bree_43f7ee85:
     emma.say "О. Вот это да. Я не... это, эм. Боже, кажется, я совершила огромную ошибку!"
 
 # ch/emma/events.rpy:2047
@@ -6865,7 +6861,7 @@ translate russian emma_event_10_bree_77c0ee11:
     bree.say "Что ты имеешь в виду?"
 
 # ch/emma/events.rpy:2048
-translate russian emma_event_10_bree_a3bcdb34:
+translate russian emma_event_10_bree_d13e4dab:
     emma.say "Просто... мне и [lssb_emma.hero_name()] снились сны друг о друге, и я подумала, что между нами, может, что-то есть, но..."
 
 # ch/emma/events.rpy:2049
@@ -6957,7 +6953,7 @@ translate russian emma_event_10_bree_6f2e4e95:
     "[bree.name] поднимает руку и касается ошейника на шее."
 
 # ch/emma/events.rpy:2088
-translate russian emma_event_10_bree_023667a3:
+translate russian emma_event_10_bree_a02cbc84:
     bree.say "О, милая, всеми возможными способами. Я... ради него на всё готова."
 
 # ch/emma/events.rpy:2090
@@ -6981,7 +6977,7 @@ translate russian emma_event_10_bree_292e3fbc:
     bree.say "Я это, блядь, обожаю."
 
 # ch/emma/events.rpy:2096
-translate russian emma_event_10_bree_6ed2131c:
+translate russian emma_event_10_bree_fa42ef99:
     emma.say "О, странно. Как ты... почему ты? То есть это так..."
 
 # ch/emma/events.rpy:2098
@@ -7045,7 +7041,7 @@ translate russian emma_event_10_bree_6398fbc8:
     emma.say "Я, хм, ладно."
 
 # ch/emma/events.rpy:2123
-translate russian emma_event_10_bree_c450753f:
+translate russian emma_event_10_bree_b93edafd:
     bree.say "Не стоит рассказывать, но... эм, да, было!"
 
 # ch/emma/events.rpy:2124
@@ -7061,7 +7057,7 @@ translate russian emma_event_10_bree_eb9e6d82:
     bree.say "А почему спрашиваешь?"
 
 # ch/emma/events.rpy:2128
-translate russian emma_event_10_bree_4c22ade5:
+translate russian emma_event_10_bree_f75e5b47:
     emma.say "Я, э. То есть никак не могу перестать думать... эм."
 
 # ch/emma/events.rpy:2129
@@ -7069,7 +7065,7 @@ translate russian emma_event_10_bree_d2bf8257:
     bree.say "Так вот в чём был ваш маленький эксперимент в ту ночь? Когда ты спала на диване? На самом деле надеялась переночевать в его комнате?"
 
 # ch/emma/events.rpy:2130
-translate russian emma_event_10_bree_7780b080:
+translate russian emma_event_10_bree_ce9057cd:
     emma.say "Нет! То есть нет, не надеялась, но мне это... приснилось. И, эм... я не могу перестать думать о том сне."
 
 # ch/emma/events.rpy:2131
@@ -7085,7 +7081,7 @@ translate russian emma_event_10_bree_7ef5d29c:
     bree.say "Ну, это очень мило с твоей стороны!"
 
 # ch/emma/events.rpy:2136
-translate russian emma_event_10_bree_97d3d32b:
+translate russian emma_event_10_bree_1e26553f:
     bree.say "А что... если я скажу, что не против?"
 
 # ch/emma/events.rpy:2137
@@ -7185,7 +7181,7 @@ translate russian emma_event_10_gfs_26d948f6:
     mike.say "Что бы я?"
 
 # ch/emma/events.rpy:2190
-translate russian emma_event_10_gfs_c9caf0a2:
+translate russian emma_event_10_gfs_af1ccd66:
     emma.say "Ну, это... нет, неважно. Не сейчас. Может... нет, не сейчас."
 
 # ch/emma/events.rpy:2191
@@ -7201,7 +7197,7 @@ translate russian emma_event_10_gfs_05c0f463:
     emma.say "Слушай, эм."
 
 # ch/emma/events.rpy:2198
-translate russian emma_event_10_gfs_84ee4404:
+translate russian emma_event_10_gfs_141d8973:
     emma.say "Помнишь, мы говорили, что у тебя есть девушка, а отношения у вас... открытые?"
 
 # ch/emma/events.rpy:2199
@@ -7237,11 +7233,11 @@ translate russian emma_event_10_gfs_5c536fee:
     mike.say "Лекси просто не собственница. Пока я хорошо к ней отношусь, ей всё равно, чем ещё я занимаюсь и с кем встречаюсь."
 
 # ch/emma/events.rpy:2210
-translate russian emma_event_10_gfs_1b9182e9:
+translate russian emma_event_10_gfs_f9fcbf3f:
     mike.say "И отсюда вопрос... тебе подошло бы что-то подобное?"
 
 # ch/emma/events.rpy:2211
-translate russian emma_event_10_gfs_40119a77:
+translate russian emma_event_10_gfs_0476fbb0:
     emma.say "Это... знаешь, я никогда о таком особо не думала. Что делать, когда кто-то ревнует или ему не хватает внимания?"
 
 # ch/emma/events.rpy:2212
@@ -7257,7 +7253,7 @@ translate russian emma_event_10_gfs_84f44829:
     emma.say "Хм."
 
 # ch/emma/events.rpy:2217
-translate russian emma_event_10_gfs_5442b901:
+translate russian emma_event_10_gfs_457a6255:
     emma.say "Я... возможно, была бы готова попробовать."
 
 # ch/emma/events.rpy:2218
@@ -7285,7 +7281,7 @@ translate russian emma_event_10_gfs_fe84d3a3:
     emma.say "Что случилось?"
 
 # ch/emma/events.rpy:2226
-translate russian emma_event_10_gfs_a74ea647:
+translate russian emma_event_10_gfs_183c903a:
     mike.say "Это... между нами с ней. Надеюсь, ты понимаешь."
 
 # ch/emma/events.rpy:2227
@@ -7341,7 +7337,7 @@ translate russian emma_event_10_gfs_d6ebbe2b:
     mike.say "Что такое?"
 
 # ch/emma/events.rpy:2246
-translate russian emma_event_10_gfs_de5970cc:
+translate russian emma_event_10_gfs_36736024:
     emma.say "Просто... не хочу быть той, другой девушкой, с которой изменяют."
 
 # ch/emma/events.rpy:2247
@@ -7373,7 +7369,7 @@ translate russian emma_event_10_gfs_97d192e8:
     mike.say "Что ты хочешь от меня услышать?"
 
 # ch/emma/events.rpy:2254
-translate russian emma_event_10_gfs_e76580e6:
+translate russian emma_event_10_gfs_69e8c3ba:
     emma.say "Просто... ничего не говори. Тут нечего сказать."
 
 # ch/emma/events.rpy:2255
@@ -7409,7 +7405,7 @@ translate russian emma_event_10_6166182a:
     mike.say "Да?"
 
 # ch/emma/events.rpy:2279
-translate russian emma_event_10_ae0fd092:
+translate russian emma_event_10_ba943ba0:
     emma.say "Есть... у меня есть вопросы. Но... но, кажется... я, возможно..."
 
 # ch/emma/events.rpy:2280
@@ -7473,7 +7469,7 @@ translate russian emma_event_10_84d3f770:
     mike.say "Что?!"
 
 # ch/emma/events.rpy:2304
-translate russian emma_event_10_756f6d2c:
+translate russian emma_event_10_0449178e:
     emma.say "Ты просто... и... не знаю. Прости. Слушай, может, останемся друзьями?"
 
 # ch/emma/events.rpy:2305
@@ -7501,7 +7497,7 @@ translate russian emma_event_10_dfa0a480:
     mike.say "Ладно, наверное."
 
 # ch/emma/events.rpy:2311
-translate russian emma_event_10_9ee5bba1:
+translate russian emma_event_10_e9015d34:
     emma.say "Спасибо, что... ну, не устраиваешь из этого драму."
 
 # ch/emma/events.rpy:2313
@@ -7573,7 +7569,7 @@ translate russian emma_event_11_a26f8f16:
     emma.say "Что?!"
 
 # ch/emma/events.rpy:2340
-translate russian emma_event_11_ef113e39:
+translate russian emma_event_11_bb9600b1:
     emma.say "Я... я не понимаю, о чём ты!"
 
 # ch/emma/events.rpy:2341
@@ -7589,7 +7585,7 @@ translate russian emma_event_11_d397f9a1:
     mike.say "Не знаю, Эмма."
 
 # ch/emma/events.rpy:2344
-translate russian emma_event_11_cd0c1416:
+translate russian emma_event_11_dd9c96a9:
     mike.say "Ты просто немного... рассеянная, вот и всё."
 
 # ch/emma/events.rpy:2346
@@ -7789,7 +7785,7 @@ translate russian emma_event_11_6538ab29:
     emma.say "Я всё жду, что проснусь и окажется, что это неправда. Что такой, как ты, не может по-настоящему хотеть быть с такой, как я."
 
 # ch/emma/events.rpy:2409
-translate russian emma_event_11_e061c24c:
+translate russian emma_event_11_0a1278c2:
     "Ого... вот это напор."
 
 # ch/emma/events.rpy:2410
@@ -7825,7 +7821,7 @@ translate russian emma_event_11_46a8f7ed:
     "И выглядит в точности как щенок, которого я только что пнул."
 
 # ch/emma/events.rpy:2419
-translate russian emma_event_11_4abae75d:
+translate russian emma_event_11_9630a726:
     emma.say "Чт... что ты имеешь в виду?!"
 
 # ch/emma/events.rpy:2420
@@ -7893,7 +7889,7 @@ translate russian emma_event_11_b7767d5e:
     "Не идеально, но хотя бы начало."
 
 # ch/emma/events.rpy:2438
-translate russian emma_event_11_6c453e58:
+translate russian emma_event_11_0005eba3:
     emma.say "Но... однажды скоро мы к этому придём, правда?"
 
 # ch/emma/events.rpy:2439
@@ -7961,7 +7957,7 @@ translate russian emma_event_12_4cf775c5:
     mike.say "Что?"
 
 # ch/emma/events.rpy:2464
-translate russian emma_event_12_9ccad13a:
+translate russian emma_event_12_6b9ce697:
     mike.say "О... нет, Эмма, всё в порядке."
 
 # ch/emma/events.rpy:2465
@@ -7973,7 +7969,7 @@ translate russian emma_event_12_97ac0ca3:
     "Эмма пожимает плечами и качает головой."
 
 # ch/emma/events.rpy:2468
-translate russian emma_event_12_6d8d26ba:
+translate russian emma_event_12_c2fcc451:
     emma.say "Ну... день и ПРАВДА чудесный."
 
 # ch/emma/events.rpy:2469
@@ -8145,7 +8141,7 @@ translate russian emma_event_12_d0a2bbda:
     emma.say "Если бы кто-нибудь сделал для меня такое..."
 
 # ch/emma/events.rpy:2518
-translate russian emma_event_12_098dfe14:
+translate russian emma_event_12_84277f5b:
     emma.say "Ну... я бы знала, что он любит меня больше всего на свете!"
 
 # ch/emma/events.rpy:2520
@@ -8417,7 +8413,7 @@ translate russian emma_preg_talk_9a4389da:
     emma.say "[lssb_emma.hero_name()]..."
 
 # ch/emma/events.rpy:2607
-translate russian emma_preg_talk_5f31c474:
+translate russian emma_preg_talk_9131e4c2:
     emma.say "Ох... прости!"
 
 # ch/emma/events.rpy:2608
@@ -8477,7 +8473,7 @@ translate russian emma_preg_talk_95f79724:
     "Держа её за руки, я чувствую дрожь."
 
 # ch/emma/events.rpy:2623
-translate russian emma_preg_talk_801462f0:
+translate russian emma_preg_talk_383c24fe:
     emma.say "Я... я должна кое-что тебе сказать, [lssb_emma.hero_name()]."
 
 # ch/emma/events.rpy:2624
@@ -8497,7 +8493,7 @@ translate russian emma_preg_talk_61eaa650:
     "Ей не нужно уточнять, что это за тест: и так очевидно."
 
 # ch/emma/events.rpy:2629
-translate russian emma_preg_talk_92957cc8:
+translate russian emma_preg_talk_8f74032f:
     mike.say "То есть... ты беременна?"
 
 # ch/emma/events.rpy:2630
@@ -8517,7 +8513,7 @@ translate russian emma_preg_talk_93c34851:
     emma.say "Мне так страшно!"
 
 # ch/emma/events.rpy:2634
-translate russian emma_preg_talk_c9b297f5:
+translate russian emma_preg_talk_c6dcc28b:
     emma.say "Я... я не могу родить ребёнка, просто не могу!"
 
 # ch/emma/events.rpy:2635
@@ -8565,7 +8561,7 @@ translate russian emma_preg_talk_0075ee79:
     emma.say "Я боюсь не пережить роды!"
 
 # ch/emma/events.rpy:2646
-translate russian emma_preg_talk_01e31956:
+translate russian emma_preg_talk_1b4e5e4b:
     emma.say "Я... я всегда была слабой, с детства здоровье плохое."
 
 # ch/emma/events.rpy:2647
@@ -8629,7 +8625,7 @@ translate russian emma_preg_talk_5056a559:
     "На её лице написано потрясение."
 
 # ch/emma/events.rpy:2668
-translate russian emma_preg_talk_257abc58:
+translate russian emma_preg_talk_ef86f10e:
     emma.say "Н... но, [lssb_emma.hero_name()]..."
 
 # ch/emma/events.rpy:2669
@@ -8713,7 +8709,7 @@ translate russian emma_preg_talk_e9b88832:
     "Так почему бы не посоветоваться с ними и сейчас?"
 
 # ch/emma/events.rpy:2691
-translate russian emma_preg_talk_f187806a:
+translate russian emma_preg_talk_afde4d94:
     emma.say "Я... наверное, можно попробовать."
 
 # ch/emma/events.rpy:2692
@@ -9029,7 +9025,7 @@ translate russian emma_male_ending_1ccab2e1:
     mike.say "Хм..."
 
 # ch/emma/events.rpy:2800
-translate russian emma_male_ending_08a97ebb:
+translate russian emma_male_ending_fa0f4d76:
     mike.say "О... да, да..."
 
 # ch/emma/events.rpy:2801
@@ -9253,7 +9249,7 @@ translate russian emma_male_ending_82779a4d:
     emma.say "Не хочу сказать что-нибудь, из-за чего потом будут неприятности!"
 
 # ch/emma/events.rpy:2870
-translate russian emma_male_ending_108aaabc:
+translate russian emma_male_ending_df6dc2ae:
     emma.say "Ладно-ладно... раз ты так говоришь."
 
 # ch/emma/events.rpy:2871
@@ -9305,7 +9301,7 @@ translate russian emma_male_ending_a9982fc8:
     emma.say "Хотя бы буду уверена, что рассказываю о том, что действительно было!"
 
 # ch/emma/events.rpy:2883
-translate russian emma_male_ending_9256bd58:
+translate russian emma_male_ending_ddeb4bcd:
     emma.say "Ну... после знакомства с [lssb_emma.hero_name()] нам понадобилось время, чтобы перестать зацикливаться на снах."
 
 # ch/emma/events.rpy:2884
@@ -9361,7 +9357,7 @@ translate russian emma_male_ending_82c68008:
     emma.say "И я точно могу сказать, что он совсем не прекрасный принц из сказки!"
 
 # ch/emma/events.rpy:2897
-translate russian emma_male_ending_7cd6d997:
+translate russian emma_male_ending_10350c20:
     emma.say "О нет... как же грубо прозвучало!"
 
 # ch/emma/events.rpy:2898
@@ -9457,7 +9453,7 @@ translate russian emma_male_ending_e4bd35a1:
     emma.say "До знакомства с [lssb_emma.hero_name()] я понятия не имела, какую карьеру хочу построить."
 
 # ch/emma/events.rpy:2923
-translate russian emma_male_ending_4bc635be:
+translate russian emma_male_ending_a7cfe607:
     emma.say "Но из-за всей этой истории с девушкой из сна... в общем, я начала читать на эту тему."
 
 # ch/emma/events.rpy:2924
@@ -9545,7 +9541,7 @@ translate russian emma_fuck_date_first_76dd353d:
     "Она на мгновение задерживается в дверях, оглядываясь, словно запоминает обстановку."
 
 # ch/emma/fuck.rpy:101
-translate russian emma_fuck_date_first_091a1dfb:
+translate russian emma_fuck_date_first_3dfef1e7:
     emma.say "Значит, вот где ты живёшь. Очень... чисто. Подозрительно чисто. Ты убрался ради меня?"
 
 # ch/emma/fuck.rpy:103
@@ -9553,7 +9549,7 @@ translate russian emma_fuck_date_first_9762b017:
     mike.say "Может, немного."
 
 # ch/emma/fuck.rpy:105
-translate russian emma_fuck_date_first_54a4bcfa:
+translate russian emma_fuck_date_first_418235cd:
     emma.say "Ты убрался ради меня! Боже, это так... неважно. Просто мило."
 
 # ch/emma/fuck.rpy:107
@@ -9581,7 +9577,7 @@ translate russian emma_fuck_date_first_f9fbe721:
     mike.say "Что прекратить?"
 
 # ch/emma/fuck.rpy:121
-translate russian emma_fuck_date_first_2806cd3b:
+translate russian emma_fuck_date_first_98801649:
     emma.say "Прекрати быть... собой!"
 
 # ch/emma/fuck.rpy:123
@@ -9625,7 +9621,7 @@ translate russian emma_fuck_date_first_f8888ff1:
     emma.say "Так, начнём с главного. Где твои плакаты?"
 
 # ch/emma/fuck.rpy:143
-translate russian emma_fuck_date_first_a55f329f:
+translate russian emma_fuck_date_first_d8082a6f:
     mike.say "Мои... плакаты?"
 
 # ch/emma/fuck.rpy:145
@@ -9653,7 +9649,7 @@ translate russian emma_fuck_date_first_de2fcd17:
     mike.say "Ты совсем перестала стесняться, заметила?"
 
 # ch/emma/fuck.rpy:155
-translate russian emma_fuck_date_first_70fd256d:
+translate russian emma_fuck_date_first_2f84d675:
     emma.say "Я... ой. И правда, да?"
 
 # ch/emma/fuck.rpy:157
@@ -9661,7 +9657,7 @@ translate russian emma_fuck_date_first_fe945e78:
     "И тут застенчивость возвращается, заливая её щёки румянцем."
 
 # ch/emma/fuck.rpy:159
-translate russian emma_fuck_date_first_d92bf135:
+translate russian emma_fuck_date_first_b8f703c6:
     emma.say "Просто так... легче. Когда говоришь о любимом. Слова не путаются."
 
 # ch/emma/fuck.rpy:161
@@ -9685,7 +9681,7 @@ translate russian emma_fuck_date_first_e2f40554:
     "Берёт плед с подлокотника, но вместо того, чтобы укрыться, прижимает его к груди, как щит."
 
 # ch/emma/fuck.rpy:167
-translate russian emma_fuck_date_first_6c10f5e7:
+translate russian emma_fuck_date_first_6bc67782:
     emma.say "Можно я сяду поближе? Не, эм... не совсем близко. Просто... обычно близко. По-анимешному."
 
 # ch/emma/fuck.rpy:169
@@ -9721,7 +9717,7 @@ translate russian emma_fuck_date_first_142f2081:
     "Затем по её лицу пробегает тень, и она немного замыкается."
 
 # ch/emma/fuck.rpy:183
-translate russian emma_fuck_date_first_7548f91d:
+translate russian emma_fuck_date_first_f79961d0:
     emma.say "Я всё думаю о Сэм. Она моя лучшая подруга, а я тут сижу у тебя на диване и веду себя... как бы это ни называлось."
 
 # ch/emma/fuck.rpy:184
@@ -9749,7 +9745,7 @@ translate russian emma_fuck_date_first_89ed6043:
     mike.say "Всегда."
 
 # ch/emma/fuck.rpy:196
-translate russian emma_fuck_date_first_2ce38170:
+translate russian emma_fuck_date_first_b77dc10b:
     emma.say "Когда я впервые тебя встретила, у меня в голове прозвенело... дзинь! Как звуковой эффект при первом появлении романтического героя на экране."
 
 # ch/emma/fuck.rpy:197
@@ -9781,7 +9777,7 @@ translate russian emma_fuck_date_first_d9314ff1:
     emma.say "Ещё бы."
 
 # ch/emma/fuck.rpy:211
-translate russian emma_fuck_date_first_0a71a86d:
+translate russian emma_fuck_date_first_a8e2f86b:
     emma.say "Опять ты весь такой... ты. Мой [lssb_emma.hero_name(bare=True)]."
 
 # ch/emma/fuck.rpy:213
@@ -9801,7 +9797,7 @@ translate russian emma_fuck_date_first_4939fabc:
     emma.say "Всё, если уж делать это, то нужно обняться и посмотреть залпом ещё серий восемь!"
 
 # ch/emma/fuck.rpy:225
-translate russian emma_fuck_date_first_67a22bde:
+translate russian emma_fuck_date_first_388c924e:
     mike.say "Я бы предпочёл... что-нибудь другое."
 
 # ch/emma/fuck.rpy:227
@@ -9813,7 +9809,7 @@ translate russian emma_fuck_date_first_46be1664:
     mike.say "Может, немного пошалим?"
 
 # ch/emma/fuck.rpy:231
-translate russian emma_fuck_date_first_ce7c06c2:
+translate russian emma_fuck_date_first_178d8729:
     emma.say "Ой! Я, э. Я не... нет, я не. Ещё рано, то есть это... мы."
 
 # ch/emma/fuck.rpy:232
@@ -9861,7 +9857,7 @@ translate russian emma_fuck_date_binge_e9e85c7b:
     "Ещё через две серии Эмму заметно клонит в сон. Но мы сразу включаем следующую: останавливаться она не хочет."
 
 # ch/emma/fuck.rpy:261
-translate russian emma_fuck_date_binge_ae469cb9:
+translate russian emma_fuck_date_binge_506bcf3d:
     "На финальных титрах... какой там, восьмой серии? — я начинаю спрашивать, не хватит ли на сегодня."
 
 # ch/emma/fuck.rpy:262
@@ -9901,7 +9897,7 @@ translate russian emma_fuck_date_binge_or_else_02a497fc:
     emma.say "Ну что, [lssb_emma.hero_name()], готов к марафону Бэндзи?"
 
 # ch/emma/fuck.rpy:284
-translate russian emma_fuck_date_binge_or_else_8decb814:
+translate russian emma_fuck_date_binge_or_else_602320c8:
     emma.say "Неужели... это правда так... я думала, тебе нравится. Разве мы не..."
 
 # ch/emma/fuck.rpy:286
@@ -9937,7 +9933,7 @@ translate russian emma_fuck_date_binge_or_else_74506507:
     mike.say "Эмма! Прости, я не... наверное, я просто не так увлечён аниме, как ты."
 
 # ch/emma/fuck.rpy:305
-translate russian emma_fuck_date_binge_or_else_1d19bb5a:
+translate russian emma_fuck_date_binge_or_else_c5dbfce3:
     emma.say "О. Я... да. Лучше пойду."
 
 # ch/emma/fuck.rpy:307
@@ -9945,7 +9941,7 @@ translate russian emma_fuck_date_binge_or_else_deab648b:
     mike.say "Нет, подожди!"
 
 # ch/emma/fuck.rpy:309
-translate russian emma_fuck_date_binge_or_else_e94316d3:
+translate russian emma_fuck_date_binge_or_else_427f7e26:
     emma.say "Нет! Ничего страшного, если тебе это не нравится, но я чувствую... будто ты соврал. А это уже плохо!"
 
 # ch/emma/fuck.rpy:311
@@ -9965,7 +9961,7 @@ translate russian emma_fuck_date_binge_or_else_bc6a3772:
     "С этими словами она исчезает."
 
 # ch/emma/fuck.rpy:325
-translate russian emma_fuck_date_binge_or_else_6f3435f3:
+translate russian emma_fuck_date_binge_or_else_d5dae792:
     mike.say "Наверное, между нами всё-таки нет связи. Может, сны были просто... какой-то иллюзией."
 
 # ch/emma/fuck.rpy:329
@@ -9985,7 +9981,7 @@ translate russian emma_fuck_date_binge_or_else_a7270301:
     mike.say "Дела, серьёзно?"
 
 # ch/emma/fuck.rpy:342
-translate russian emma_fuck_date_binge_or_else_9fbaf5e4:
+translate russian emma_fuck_date_binge_or_else_94b1a7f1:
     emma.say "Ну, то есть... я просто... да. Мне нужно посмотреть аниме. Одной."
 
 # ch/emma/fuck.rpy:344
@@ -9993,7 +9989,7 @@ translate russian emma_fuck_date_binge_or_else_a6a2c418:
     mike.say "Эмма, погоди..."
 
 # ch/emma/fuck.rpy:346
-translate russian emma_fuck_date_binge_or_else_e94316d3_1:
+translate russian emma_fuck_date_binge_or_else_427f7e26_1:
     emma.say "Нет! Ничего страшного, если тебе это не нравится, но я чувствую... будто ты соврал. А это уже плохо!"
 
 # ch/emma/fuck.rpy:348
@@ -10081,7 +10077,7 @@ translate russian emma_fuck_date_second_3ee6f2e7:
     emma.say "А что, если бы я была шлюхой?"
 
 # ch/emma/fuck.rpy:404
-translate russian emma_fuck_date_second_c6087b69:
+translate russian emma_fuck_date_second_22f2b0b4:
     mike.say "Я не... честно, не знаю, что на это ответить."
 
 # ch/emma/fuck.rpy:406
@@ -10093,7 +10089,7 @@ translate russian emma_fuck_date_second_7ff89a22:
     mike.say "Ну, не знаю, наверное."
 
 # ch/emma/fuck.rpy:409
-translate russian emma_fuck_date_second_1a40d9fd:
+translate russian emma_fuck_date_second_5f00040c:
     "Приходится задуматься. У моей коллеги Одри явно было немало... сотен приключений. Меня это волнует?"
 
 # ch/emma/fuck.rpy:410
@@ -10121,11 +10117,11 @@ translate russian emma_fuck_date_second_298e5247:
     mike.say "Наверное, опыт чего-то стоит. Но исследовать и учиться тоже интересно? Честно, не знаю."
 
 # ch/emma/fuck.rpy:421
-translate russian emma_fuck_date_second_eba993ca:
+translate russian emma_fuck_date_second_5ef17aab:
     emma.say "А ты сам... опытный?"
 
 # ch/emma/fuck.rpy:424
-translate russian emma_fuck_date_second_9f9d79f5:
+translate russian emma_fuck_date_second_466cb69d:
     mike.say "У меня... было несколько девушек, да."
 
 # ch/emma/fuck.rpy:426
@@ -10221,7 +10217,7 @@ translate russian emma_fuck_date_second_80ec412b:
     mike.say "Честно? У нас свободные отношения. Так что да, честно."
 
 # ch/emma/fuck.rpy:476
-translate russian emma_fuck_date_second_63a0ce9c:
+translate russian emma_fuck_date_second_7c8000ca:
     emma.say "О. О! Это... девушки правда на такое соглашаются?"
 
 # ch/emma/fuck.rpy:478
@@ -10233,7 +10229,7 @@ translate russian emma_fuck_date_second_368a9a9b:
     "Эмма смотрит на меня и задумывается."
 
 # ch/emma/fuck.rpy:481
-translate russian emma_fuck_date_second_e19924af:
+translate russian emma_fuck_date_second_a50e56d3:
     emma.say "На самом деле вопрос в другом... если мы с тобой будем... вместе. Устроит ли это {b}меня{/b}?"
 
 # ch/emma/fuck.rpy:483
@@ -10361,7 +10357,7 @@ translate russian emma_fuck_date_second_2ccb2277:
     mike.say "Сегодня? Завтра? Когда-нибудь? Мне везёт каждую минуту, которую я провожу с тобой."
 
 # ch/emma/fuck.rpy:550
-translate russian emma_fuck_date_second_34238237:
+translate russian emma_fuck_date_second_74b3767c:
     emma.say "Я... ого!"
 
 # ch/emma/fuck.rpy:553
@@ -10381,11 +10377,11 @@ translate russian emma_fuck_date_second_de843d85:
     emma.say "Ага. Честно говоря, он довольно ужасный. Какая-то странная история: его проклинают, и теперь любой может вызвать его, трижды произнеся его имя."
 
 # ch/emma/fuck.rpy:561
-translate russian emma_fuck_date_second_c80b099a:
+translate russian emma_fuck_date_second_ea78ac3f:
     mike.say "Ну... наверное, это могло бы быть смешно?"
 
 # ch/emma/fuck.rpy:563
-translate russian emma_fuck_date_second_4784f80c:
+translate russian emma_fuck_date_second_fd355b54:
     emma.say "Должно бы, но... так себе. В общем, «Бэндзи навсегда» мне понравился, хотя это немного другая версия событий. А «Бэндзи в Киото» — полноценное продолжение, его обязательно надо посмотреть."
 
 # ch/emma/fuck.rpy:565
@@ -10421,7 +10417,7 @@ translate russian emma_fuck_date_second_ae63224b:
     "Не знаю, остановилось время или пролетело незаметно. Всё вокруг исчезает — остаётся только она."
 
 # ch/emma/fuck.rpy:580
-translate russian emma_fuck_date_second_c1f345f1:
+translate russian emma_fuck_date_second_c3d7a620:
     mike.say "Ух ты. Это было... очень приятно. Я..."
 
 # ch/emma/fuck.rpy:582
@@ -10485,7 +10481,7 @@ translate russian emma_fuck_date_second_00710b69:
     "Она снова смотрит на мой член, который уже от одного её прикосновения пришёл в полную готовность."
 
 # ch/emma/fuck.rpy:607
-translate russian emma_fuck_date_second_488703fd:
+translate russian emma_fuck_date_second_3e62ac37:
     "Она водит рукой вверх-вниз... немного неловко и не слишком нежно. Явно не знает, что делать."
 
 # ch/emma/fuck.rpy:608
@@ -10501,7 +10497,7 @@ translate russian emma_fuck_date_second_dc806443:
     emma.say "[lssb_emma.hero_name()]? Я сделала тебе больно?"
 
 # ch/emma/fuck.rpy:611
-translate russian emma_fuck_date_second_60b5517a:
+translate russian emma_fuck_date_second_8c6b12eb:
     mike.say "Нет, просто... я... можно покажу?"
 
 # ch/emma/fuck.rpy:612
@@ -10529,7 +10525,7 @@ translate russian emma_fuck_date_second_caccb0eb:
     emma.say "Медленнее? Быстрее?"
 
 # ch/emma/fuck.rpy:624
-translate russian emma_fuck_date_second_c744c150:
+translate russian emma_fuck_date_second_bd3d2b09:
     mike.say "Вот так. Может... чуть-чуть быстрее, когда мы... О! Ох!"
 
 # ch/emma/fuck.rpy:626
@@ -10577,7 +10573,7 @@ translate russian emma_fuck_date_second_c989b9b7:
     emma.say "Ты просто невозможен, знаешь, [lssb_emma.hero_name()]?"
 
 # ch/emma/fuck.rpy:648
-translate russian emma_fuck_date_second_910e466b:
+translate russian emma_fuck_date_second_4baa6c23:
     emma.say "Не... в этот раз. Может, в другой."
 
 # ch/emma/fuck.rpy:651
@@ -10625,7 +10621,7 @@ translate russian emma_fuck_date_third_dbd8720e:
     mike.say "Да? О чём?"
 
 # ch/emma/fuck.rpy:682
-translate russian emma_fuck_date_third_123575e9:
+translate russian emma_fuck_date_third_658a52eb:
     emma.say "Ну... а что, если... ты ведь знаешь, как я люблю Бэндзи?"
 
 # ch/emma/fuck.rpy:684
@@ -10641,7 +10637,7 @@ translate russian emma_fuck_date_third_fdd716f2:
     mike.say "Да?"
 
 # ch/emma/fuck.rpy:690
-translate russian emma_fuck_date_third_6db20acc:
+translate russian emma_fuck_date_third_372a4e09:
     emma.say "Что, если ты... то есть, допустим, ты при... то есть я при... Ох, я всё порчу, да?"
 
 # ch/emma/fuck.rpy:692
@@ -10657,7 +10653,7 @@ translate russian emma_fuck_date_third_90c8b1a8:
     "Она закрывает глаза и глубоко вздыхает."
 
 # ch/emma/fuck.rpy:698
-translate russian emma_fuck_date_third_33c6ffbe:
+translate russian emma_fuck_date_third_b2a8ddba:
     emma.say "Что, если ты притворишься Бэндзи, а я — принцессой Акари, и мы... ну... мы... понимаешь."
 
 # ch/emma/fuck.rpy:700
@@ -10701,7 +10697,7 @@ translate russian emma_fuck_date_third_5be970f8:
     emma.say "Нет! Не так! Скажи, как сказал бы Бэндзи!"
 
 # ch/emma/fuck.rpy:717
-translate russian emma_fuck_date_third_5de50fe3:
+translate russian emma_fuck_date_third_60956a09:
     mike.say "А! Точно. Да... Ваше Высочество?"
 
 # ch/emma/fuck.rpy:719
@@ -10713,7 +10709,7 @@ translate russian emma_fuck_date_third_4333215c:
     mike.say "Э-э, прошу сюда, принцесса!"
 
 # ch/emma/fuck.rpy:725
-translate russian emma_fuck_date_third_da28f77f:
+translate russian emma_fuck_date_third_72e7fade:
     emma.say "О... о, Бэндзи! Не верится, что я наконец... то есть мы наконец это сделаем!"
 
 # ch/emma/fuck.rpy:727
@@ -10729,7 +10725,7 @@ translate russian emma_fuck_date_third_53154d42:
     mike.say "Да! Моей любимой среди дзюнмай!"
 
 # ch/emma/fuck.rpy:733
-translate russian emma_fuck_date_third_3c42c341:
+translate russian emma_fuck_date_third_a25f95dd:
     emma.say "А ты мой любимый среди... всех во всей галактике, Бэндзи!"
 
 # ch/emma/fuck.rpy:735
@@ -10761,7 +10757,7 @@ translate russian emma_fuck_date_third_32e9313e:
     emma.say "Вот так, Бэндзи?"
 
 # ch/emma/fuck.rpy:746
-translate russian emma_fuck_date_third_c14bde69:
+translate russian emma_fuck_date_third_5ffb3fee:
     mike.say "О, принцесса, это... ещё, пожалуйста!"
 
 # ch/emma/fuck.rpy:748
@@ -10773,7 +10769,7 @@ translate russian emma_fuck_date_third_7c41b457:
     mike.say "О. О да, принцесса."
 
 # ch/emma/fuck.rpy:752
-translate russian emma_fuck_date_third_de4ad4bb:
+translate russian emma_fuck_date_third_54c2b5ce:
     emma.say "Что... что мне теперь делать, Бэндзи?"
 
 # ch/emma/fuck.rpy:754
@@ -10781,7 +10777,7 @@ translate russian emma_fuck_date_third_3c16fe40:
     mike.say "Ложись на спину."
 
 # ch/emma/fuck.rpy:758
-translate russian emma_fuck_date_third_c1e72cd6:
+translate russian emma_fuck_date_third_90ae8215:
     "Эмма ложится на кровать и широко раздвигает ноги, открывая мне прекрасный вид на... ну, на всё."
 
 # ch/emma/fuck.rpy:760
@@ -10789,7 +10785,7 @@ translate russian emma_fuck_date_third_22430c20:
     "При виде её в такой открытой, манящей позе мой член твердеет."
 
 # ch/emma/fuck.rpy:762
-translate russian emma_fuck_date_third_b78c11dc:
+translate russian emma_fuck_date_third_1616befa:
     emma.say "О боже, [lssb_emma.hero_name()]... то есть Бэндзи! Он... такой большой!"
 
 # ch/emma/fuck.rpy:763
@@ -10801,7 +10797,7 @@ translate russian emma_fuck_date_third_63a3875b:
     "Я делаю шаг к ней, и на её лице появляется тревога. Даже лёгкий испуг."
 
 # ch/emma/fuck.rpy:765
-translate russian emma_fuck_date_third_51e1b77c:
+translate russian emma_fuck_date_third_23008c53:
     emma.say "Нет-нет-нет, нет! Это... нет! Он не влезет!"
 
 # ch/emma/fuck.rpy:766
@@ -10813,7 +10809,7 @@ translate russian emma_fuck_date_third_6cc198e2:
     emma.say "Нет! Может, и не настолько, но... я не... я не могу!"
 
 # ch/emma/fuck.rpy:768
-translate russian emma_fuck_date_third_574842af:
+translate russian emma_fuck_date_third_e2158e42:
     emma.say "Не смей засовывать это в меня! Лучше... лучше языком!"
 
 # ch/emma/fuck.rpy:771
@@ -10829,7 +10825,7 @@ translate russian emma_fuck_date_third_da969e90:
     "Когда я приближаюсь и пытаюсь войти в неё, Эмма кричит во всё горло и вскакивает с кровати с неожиданной для меня скоростью."
 
 # ch/emma/fuck.rpy:777
-translate russian emma_fuck_date_third_cf83c11c:
+translate russian emma_fuck_date_third_0e4c267a:
     emma.say "Чёрт, [lssb_emma.hero_name()], никогда бы не подумала, что ты... что ты можешь!"
 
 # ch/emma/fuck.rpy:778
@@ -10849,7 +10845,7 @@ translate russian emma_fuck_date_third_0ef4ddd7:
     "Она быстро хватает одежду и выбегает из дома."
 
 # ch/emma/fuck.rpy:785
-translate russian emma_fuck_date_third_cdc6a5e9:
+translate russian emma_fuck_date_third_d790b1c9:
     "Чёрт. Всё случилось... так быстро. Неужели я настолько облажался?"
 
 # ch/emma/fuck.rpy:786
@@ -10889,7 +10885,7 @@ translate russian emma_fuck_date_third_028ab918:
     "Долго ждать не приходится..."
 
 # ch/emma/fuck.rpy:803
-translate russian emma_fuck_date_third_a329ecdb:
+translate russian emma_fuck_date_third_2ee34386:
     emma.say "О! О боже. О... О, Бэндзи! О, [lssb_emma.hero_name()]! Я... я кончаю!"
 
 # ch/emma/fuck.rpy:804
@@ -10897,11 +10893,11 @@ translate russian emma_fuck_date_third_2a133929:
     "В этот миг моё лицо буквально заливает её соками."
 
 # ch/emma/fuck.rpy:808
-translate russian emma_fuck_date_third_541b240a:
+translate russian emma_fuck_date_third_f4791ffb:
     "Я забираюсь на кровать рядом с ней, и она кладёт голову мне на плечо. Голос у неё довольный... и, кажется, немного сонный."
 
 # ch/emma/fuck.rpy:809
-translate russian emma_fuck_date_third_d77c741e:
+translate russian emma_fuck_date_third_622b59f9:
     emma.say "О, [lssb_emma.hero_name()]! Это было... охренеть как здорово!"
 
 # ch/emma/fuck.rpy:810
@@ -10909,7 +10905,7 @@ translate russian emma_fuck_date_third_ca389e10:
     mike.say "Бэндзи!"
 
 # ch/emma/fuck.rpy:811
-translate russian emma_fuck_date_third_28be574c:
+translate russian emma_fuck_date_third_d2213410:
     emma.say "Ах да. То есть... Бэндзи, мой герой! Ты снова всех спас!"
 
 # ch/emma/fuck.rpy:812
@@ -10917,11 +10913,11 @@ translate russian emma_fuck_date_third_e6979737:
     mike.say "Для тебя — всё что угодно, моя принцесса!"
 
 # ch/emma/fuck.rpy:813
-translate russian emma_fuck_date_third_cbada93e:
+translate russian emma_fuck_date_third_a4bffdc7:
     emma.say "Спасибо. Прости... что я так перепугалась из-за... ну... твоего размера."
 
 # ch/emma/fuck.rpy:814
-translate russian emma_fuck_date_third_e1c03bfa:
+translate russian emma_fuck_date_third_336322f5:
     mike.say "Признаюсь, сначала я немного расстроился. Но... ты особенная, Эмма. Я ни за что не хочу причинить тебе боль."
 
 # ch/emma/fuck.rpy:815
@@ -10941,15 +10937,15 @@ translate russian emma_fuck_date_third_707249c2:
     "Но в глазах есть и тень тревоги, и чувство вины перед Сэм. Я понимаю: какая-то часть её всё ещё ждёт, что я передумаю."
 
 # ch/emma/fuck.rpy:821
-translate russian emma_fuck_date_third_031ea0cd:
+translate russian emma_fuck_date_third_729a826d:
     emma.say "Если ты хочешь... то есть... мой врач говорит, что над этим придётся работать."
 
 # ch/emma/fuck.rpy:822
-translate russian emma_fuck_date_third_4a7d8f01:
+translate russian emma_fuck_date_third_9b9eb6d6:
     mike.say "Что-то... не так? Просто я никогда о таком не слышал."
 
 # ch/emma/fuck.rpy:823
-translate russian emma_fuck_date_third_a725f5b6:
+translate russian emma_fuck_date_third_47e47434:
     emma.say "Это... заболевание. Называется вагинизм. Мышцы влагалища очень сильные и очень-очень сильно сжимаются."
 
 # ch/emma/fuck.rpy:824
@@ -10957,7 +10953,7 @@ translate russian emma_fuck_date_third_96e33796:
     emma.say "Можно попробовать специальные упражнения. Я всегда боялась их делать. Это больно."
 
 # ch/emma/fuck.rpy:825
-translate russian emma_fuck_date_third_a84b2a12:
+translate russian emma_fuck_date_third_2302e30d:
     emma.say "Но я, возможно... возможно, готова попробовать. Ради тебя."
 
 # ch/emma/fuck.rpy:826
@@ -10965,7 +10961,7 @@ translate russian emma_fuck_date_third_cef3f791:
     mike.say "Это очень мило, Эмма!"
 
 # ch/emma/fuck.rpy:827
-translate russian emma_fuck_date_third_aee15a40:
+translate russian emma_fuck_date_third_29a8433e:
     emma.say "Если... если..."
 
 # ch/emma/fuck.rpy:828
@@ -10973,7 +10969,7 @@ translate russian emma_fuck_date_third_330bbdc6:
     mike.say "Если что?"
 
 # ch/emma/fuck.rpy:829
-translate russian emma_fuck_date_third_e5b96f3d:
+translate russian emma_fuck_date_third_e92989dd:
     emma.say "Если ты... о боже, прости, я ведь вечно начинаю запинаться, когда пытаюсь что-то сказать?"
 
 # ch/emma/fuck.rpy:830
@@ -10989,7 +10985,7 @@ translate russian emma_fuck_date_third_da8d2e5f:
     emma.say "Стань моим парнем! Будь моим Бэндзи, [lssb_emma.hero_name()]! Я этого хочу."
 
 # ch/emma/fuck.rpy:833
-translate russian emma_fuck_date_third_329c1946:
+translate russian emma_fuck_date_third_96e7831f:
     "О. Наверное, стоило догадаться, но я не ожидал этого... сейчас!"
 
 # ch/emma/fuck.rpy:836
@@ -11009,7 +11005,7 @@ translate russian emma_fuck_date_third_a7cbbd0c:
     mike.say "Именно."
 
 # ch/emma/fuck.rpy:840
-translate russian emma_fuck_date_third_3a5d63ab:
+translate russian emma_fuck_date_third_caf6c699:
     emma.say "О, я не могу... я думала... я так..."
 
 # ch/emma/fuck.rpy:841
@@ -11017,7 +11013,7 @@ translate russian emma_fuck_date_third_d6007026:
     "Она обнимает меня так крепко, как только позволяет её хрупкое тело."
 
 # ch/emma/fuck.rpy:842
-translate russian emma_fuck_date_third_7f615b30:
+translate russian emma_fuck_date_third_5d68e1fc:
     emma.say "С нетерпением жду... наших новых открытий."
 
 # ch/emma/fuck.rpy:843
@@ -11029,7 +11025,7 @@ translate russian emma_fuck_date_third_5d97ea92:
     emma.say "Мой [lssb_emma.hero_name(bare=True)]. Мой настоящий. На этот раз не нарисованный."
 
 # ch/emma/fuck.rpy:846
-translate russian emma_fuck_date_third_7386cd4c:
+translate russian emma_fuck_date_third_78be09bf:
     emma.say "Только... будь со мной терпелив, ладно?"
 
 # ch/emma/fuck.rpy:847
@@ -11041,7 +11037,7 @@ translate russian emma_fuck_date_third_8b034522:
     "Потом она целует меня в плечо и засыпает."
 
 # ch/emma/fuck.rpy:858
-translate russian emma_fuck_date_third_e912cda7:
+translate russian emma_fuck_date_third_31cb3075:
     mike.say "Я... не могу, Эмма."
 
 # ch/emma/fuck.rpy:859
@@ -11049,7 +11045,7 @@ translate russian emma_fuck_date_third_9b896b89:
     emma.say "О."
 
 # ch/emma/fuck.rpy:860
-translate russian emma_fuck_date_third_7ae0b86b:
+translate russian emma_fuck_date_third_e033f67d:
     "Признаюсь, я ожидал... более бурной реакции. Поэтому немного жду."
 
 # ch/emma/fuck.rpy:861
@@ -11069,7 +11065,7 @@ translate russian emma_fuck_date_third_fc6a7759:
     mike.say "Эмма?"
 
 # ch/emma/fuck.rpy:865
-translate russian emma_fuck_date_third_8f68909a:
+translate russian emma_fuck_date_third_08036630:
     emma.say "Просто... просто спи, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:866
@@ -11085,7 +11081,7 @@ translate russian emma_fuck_date_fourth_f5f71bf4:
     emma.say "Ну что, [lssb_emma.hero_name()], чем хочешь заняться?"
 
 # ch/emma/fuck.rpy:883
-translate russian emma_fuck_date_fourth_dd758497:
+translate russian emma_fuck_date_fourth_19fbb176:
     mike.say "Как твои... э-э... упражнения?"
 
 # ch/emma/fuck.rpy:885
@@ -11097,7 +11093,7 @@ translate russian emma_fuck_date_fourth_82b84b4b:
     mike.say "Они помогают?"
 
 # ch/emma/fuck.rpy:889
-translate russian emma_fuck_date_fourth_d38d43b9:
+translate russian emma_fuck_date_fourth_841b5267:
     emma.say "Наверное... то есть пока нет."
 
 # ch/emma/fuck.rpy:891
@@ -11113,7 +11109,7 @@ translate russian emma_fuck_date_fourth_dff239ff:
     "Она теребит край пиджака и не решается встретиться со мной взглядом."
 
 # ch/emma/fuck.rpy:897
-translate russian emma_fuck_date_fourth_0da91b17:
+translate russian emma_fuck_date_fourth_fb5fd8b8:
     emma.say "Врач дал мне эти... расширители. Начинаешь с самого маленького и просто... оставляешь его там. Дышишь. И стараешься не заплакать."
 
 # ch/emma/fuck.rpy:899
@@ -11149,7 +11145,7 @@ translate russian emma_fuck_date_fourth_063bb348:
     "Она робко улыбается, и за улыбкой снова мелькает чувство вины."
 
 # ch/emma/fuck.rpy:913
-translate russian emma_fuck_date_fourth_eeff3421:
+translate russian emma_fuck_date_fourth_6e7715c3:
     emma.say "Я всё время думаю, что со мной что-то не так. Что любая нормальная девушка просто... смогла бы. Что ты заслуживаешь ту, которая сможет."
 
 # ch/emma/fuck.rpy:914
@@ -11181,7 +11177,7 @@ translate russian emma_fuck_date_fourth_8a431bd1:
     "Она снимает пиджак и аккуратно вешает на стул; даже от такого скромного раздевания её уши становятся пунцовыми."
 
 # ch/emma/fuck.rpy:926
-translate russian emma_fuck_date_fourth_5edc9af0:
+translate russian emma_fuck_date_fourth_e9d6012d:
     emma.say "Так что... ну... раз уж на то пошло. Может, мы снова... поиграем? Притворимся кем-нибудь?"
 
 # ch/emma/fuck.rpy:928
@@ -11245,7 +11241,7 @@ translate russian emma_fuck_date_fourth_5b540289:
     "Она забирается на кровать, откидывается на подушки и робко, но решительно хлопает по месту перед собой."
 
 # ch/emma/fuck.rpy:956
-translate russian emma_fuck_date_fourth_fe7ee2de:
+translate russian emma_fuck_date_fourth_86152f31:
     emma.say "Я могу... ну... рукой, если хочешь? Или... или ты мог бы... поласкать меня ртом? Если... если тебе хочется."
 
 # ch/emma/fuck.rpy:957
@@ -11257,7 +11253,7 @@ translate russian emma_fuck_date_fourth_4b63859d:
     "Я осторожно укладываю её на спину, и она медленно, с волнением разводит колени."
 
 # ch/emma/fuck.rpy:967
-translate russian emma_fuck_date_fourth_272775e6:
+translate russian emma_fuck_date_fourth_946ce6be:
     emma.say "Ладно. Ладно, я справлюсь. Просто... трудно, когда на меня так смотрят."
 
 # ch/emma/fuck.rpy:968
@@ -11277,7 +11273,7 @@ translate russian emma_fuck_date_fourth_dae0621d:
     "Я ласкаю её языком; она уже невероятно мокрая и вздыхает почти каждый раз, когда я касаюсь клитора."
 
 # ch/emma/fuck.rpy:972
-translate russian emma_fuck_date_fourth_f2b3a545:
+translate russian emma_fuck_date_fourth_38b76282:
     emma.say "О! О, это... ох, так хорошо уметь такое — просто нечестно."
 
 # ch/emma/fuck.rpy:973
@@ -11289,7 +11285,7 @@ translate russian emma_fuck_date_fourth_c123135c:
     "Она так плотно сжата, что он едва проходит до первого сустава. Я не давлю и не тороплюсь, давая её телу привыкнуть к самому прикосновению."
 
 # ch/emma/fuck.rpy:976
-translate russian emma_fuck_date_fourth_0881d0f7:
+translate russian emma_fuck_date_fourth_1b75032a:
     emma.say "Всё хорошо... всё хорошо, продолжай, только... только не торопись."
 
 # ch/emma/fuck.rpy:977
@@ -11301,7 +11297,7 @@ translate russian emma_fuck_date_fourth_6e8b8beb:
     "Она уже не так зажата, как раньше: осторожные упражнения дают результат. Палец входит до первого сустава, и она даже не вздрагивает."
 
 # ch/emma/fuck.rpy:980
-translate russian emma_fuck_date_fourth_1bf3f5bc:
+translate russian emma_fuck_date_fourth_350eb16f:
     emma.say "Видишь? Видишь, я тренировалась! В этот... в этот раз не больно!"
 
 # ch/emma/fuck.rpy:981
@@ -11313,7 +11309,7 @@ translate russian emma_fuck_date_fourth_f05617b9:
     "Я изгибаю язык и задаю медленный ритм; её бёдра начинают двигаться навстречу, а она словно этого не замечает."
 
 # ch/emma/fuck.rpy:983
-translate russian emma_fuck_date_fourth_3c395e54:
+translate russian emma_fuck_date_fourth_d8dd78d4:
     emma.say "О. О, это... я не знала, что будет так... ох."
 
 # ch/emma/fuck.rpy:984
@@ -11325,7 +11321,7 @@ translate russian emma_fuck_date_fourth_441fe0c2:
     "Я не спешу. Торопиться некуда, и сейчас я ни за что не хотел бы оказаться в другом месте. Пусть она почувствует это каждую секунду."
 
 # ch/emma/fuck.rpy:986
-translate russian emma_fuck_date_fourth_ea3f94f4:
+translate russian emma_fuck_date_fourth_8ac429b4:
     emma.say "Это... я должна быть такой громкой? Ничего не могу с собой поделать, прости, я так..."
 
 # ch/emma/fuck.rpy:987
@@ -11341,7 +11337,7 @@ translate russian emma_fuck_date_fourth_5a7872cb:
     "Я чуть сильнее надавливаю языком, и она выгибается над подушками с писком, который тут же превращается в стон."
 
 # ch/emma/fuck.rpy:990
-translate russian emma_fuck_date_fourth_3288840d:
+translate russian emma_fuck_date_fourth_a0f51004:
     emma.say "О боже. Боже мой. О... о, Бэндзи, не останавливайся, мой Бэндзи, пожалуйста, не останавливайся!"
 
 # ch/emma/fuck.rpy:991
@@ -11353,7 +11349,7 @@ translate russian emma_fuck_date_fourth_5b7210ac:
     emma.say "Я люблю тебя, люблю тебя, не верится, как сильно я тебя люблю, [lssb_emma.hero_name()]!"
 
 # ch/emma/fuck.rpy:996
-translate russian emma_fuck_date_fourth_c0873895:
+translate russian emma_fuck_date_fourth_6dd12f70:
     emma.say "Я никогда... никто никогда... ох, я не знала, что может быть так хорошо!"
 
 # ch/emma/fuck.rpy:998
@@ -11365,7 +11361,7 @@ translate russian emma_fuck_date_fourth_51374f72:
     "Она крепко сжимает мою голову бёдрами, всё её тело напрягается."
 
 # ch/emma/fuck.rpy:1000
-translate russian emma_fuck_date_fourth_14909962:
+translate russian emma_fuck_date_fourth_b001d014:
     emma.say "Что-то... что-то происходит, я чувствую, как нарастает... это... ох, о нет, о да, я..."
 
 # ch/emma/fuck.rpy:1001
@@ -11377,7 +11373,7 @@ translate russian emma_fuck_date_fourth_59131324:
     "После этого ей нужно совсем немного времени..."
 
 # ch/emma/fuck.rpy:1003
-translate russian emma_fuck_date_fourth_68a26174:
+translate russian emma_fuck_date_fourth_586bc9bb:
     emma.say "О! О боже. О... О, Бэндзи! О, [lssb_emma.hero_name()]! Я... я кончаю!"
 
 # ch/emma/fuck.rpy:1004
@@ -11397,7 +11393,7 @@ translate russian emma_fuck_date_fourth_79ced68c:
     "Я ложусь рядом, и она тут же прижимается ко мне, устраиваясь под моей рукой так, словно там ей и место."
 
 # ch/emma/fuck.rpy:1009
-translate russian emma_fuck_date_fourth_0d515951:
+translate russian emma_fuck_date_fourth_9d867c4e:
     emma.say "Это было... ладно, теперь я официально понимаю всех девушек из аниме с сердечками в глазах. Всех до единой. Надо перед ними извиниться за то, что считала это преувеличением."
 
 # ch/emma/fuck.rpy:1011
@@ -11465,7 +11461,7 @@ translate russian emma_fuck_date_fifth_e4197d8f:
     "Она до чёртиков напугана!"
 
 # ch/emma/fuck.rpy:1040
-translate russian emma_fuck_date_fifth_f2af8eb7:
+translate russian emma_fuck_date_fifth_e824b362:
     emma.say "Н... нет..."
 
 # ch/emma/fuck.rpy:1041
@@ -11509,11 +11505,11 @@ translate russian emma_fuck_date_fifth_d7b3dfc1:
     mike.say "Ты не против?"
 
 # ch/emma/fuck.rpy:1054
-translate russian emma_fuck_date_fifth_340f777b:
+translate russian emma_fuck_date_fifth_1d93a0f4:
     emma.say "Мне... тоже было очень хорошо, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:1055
-translate russian emma_fuck_date_fifth_5946ce40:
+translate russian emma_fuck_date_fifth_82c9c2c2:
     emma.say "И... я... я хочу..."
 
 # ch/emma/fuck.rpy:1056
@@ -11525,7 +11521,7 @@ translate russian emma_fuck_date_fifth_263d4f21:
     "У неё дрожат руки. Заметив, что я это увидел, она прячет их под бёдра."
 
 # ch/emma/fuck.rpy:1060
-translate russian emma_fuck_date_fifth_75fb9a23:
+translate russian emma_fuck_date_fifth_888da7c0:
     emma.say "Просто... мозг опять вытворяет своё. Пугается. Забегает вперёд и представляет всё, что может пойти не так."
 
 # ch/emma/fuck.rpy:1062
@@ -11569,7 +11565,7 @@ translate russian emma_fuck_date_fifth_f9e7a32b:
     emma.say "А потом к страху добавляется вина перед Сэм, и, честно говоря, в голове творится нечто."
 
 # ch/emma/fuck.rpy:1080
-translate russian emma_fuck_date_fifth_d7b604cf:
+translate russian emma_fuck_date_fifth_cf00b146:
     emma.say "Но я хочу попробовать. Правда хочу. Только... будешь медленно? Медленнее медленного?"
 
 # ch/emma/fuck.rpy:1082
@@ -11593,7 +11589,7 @@ translate russian emma_fuck_date_fifth_210ba679:
     "Она цепляется своим мизинцем за мой и держится так, будто это единственная надёжная вещь в комнате."
 
 # ch/emma/fuck.rpy:1091
-translate russian emma_fuck_date_fifth_f56dbe7a:
+translate russian emma_fuck_date_fifth_b6480ce6:
     emma.say "Так. Ну. Что... что теперь? Тебе придётся вроде как... поставить эту сцену. Я не знаю своей мизансцены."
 
 # ch/emma/fuck.rpy:1093
@@ -11605,7 +11601,7 @@ translate russian emma_fuck_date_fifth_8a6a5a30:
     emma.say "Это театральное слово! Кто из актёров где стоит! Я посмотрела, потому что думала, вдруг пригодится, и... ох, забудь, я опять болтаю без умолку."
 
 # ch/emma/fuck.rpy:1096
-translate russian emma_fuck_date_fifth_0fe5785f:
+translate russian emma_fuck_date_fifth_8a2eed70:
     emma.say "Я просто не хочу обещать больше, чем сможет моё тело. Та... та часть, где надо, чтобы влезло, всё ещё меня пугает. Очень."
 
 # ch/emma/fuck.rpy:1098
@@ -11657,7 +11653,7 @@ translate russian emma_fuck_date_fifth_571fca0f:
     emma.say "Правда?!"
 
 # ch/emma/fuck.rpy:1116
-translate russian emma_fuck_date_fifth_8fe0f279:
+translate russian emma_fuck_date_fifth_47fdc4f4:
     emma.say "Н... но почему?"
 
 # ch/emma/fuck.rpy:1117
@@ -11665,7 +11661,7 @@ translate russian emma_fuck_date_fifth_4eb28682:
     emma.say "У тебя ведь наверняка много..."
 
 # ch/emma/fuck.rpy:1118
-translate russian emma_fuck_date_fifth_4a4c6a18:
+translate russian emma_fuck_date_fifth_73fda22e:
     emma.say "Ну... много опыта, да?"
 
 # ch/emma/fuck.rpy:1120
@@ -11693,7 +11689,7 @@ translate russian emma_fuck_date_fifth_bb367b56:
     "Кажется, мне удалось до неё достучаться."
 
 # ch/emma/fuck.rpy:1128
-translate russian emma_fuck_date_fifth_287893cd:
+translate russian emma_fuck_date_fifth_b66515c3:
     emma.say "М... может, не будем торопиться?"
 
 # ch/emma/fuck.rpy:1129
@@ -11725,7 +11721,7 @@ translate russian emma_fuck_date_fifth_e5294f7c:
     emma.say "Нет, [lssb_emma.hero_name()], всё в порядке."
 
 # ch/emma/fuck.rpy:1144
-translate russian emma_fuck_date_fifth_5c3f650d:
+translate russian emma_fuck_date_fifth_2f5fbb37:
     "Эх... непросто."
 
 # ch/emma/fuck.rpy:1145
@@ -11765,7 +11761,7 @@ translate russian emma_fuck_date_fifth_9c05a4c6:
     "Одно это слово приводит её в ужас!"
 
 # ch/emma/fuck.rpy:1157
-translate russian emma_fuck_date_fifth_ede3cfb9:
+translate russian emma_fuck_date_fifth_58dd4035:
     emma.say "Нет... нет... нет..."
 
 # ch/emma/fuck.rpy:1158
@@ -11785,7 +11781,7 @@ translate russian emma_fuck_date_fifth_3e7d13db:
     "Так что я даже не могу попытаться её переубедить."
 
 # ch/emma/fuck.rpy:1164
-translate russian emma_fuck_date_fifth_67c72c69:
+translate russian emma_fuck_date_fifth_dfb3f6c0:
     emma.say "Я... мне надо идти!"
 
 # ch/emma/fuck.rpy:1165
@@ -12057,7 +12053,7 @@ translate russian emma_fuck_date_bj_190c74da:
     "Она отстраняется лишь на мгновение, чтобы перевести дух; щёки пылают, как у героини на обложке манги."
 
 # ch/emma/fuck.rpy:1261
-translate russian emma_fuck_date_bj_ce601dc0:
+translate russian emma_fuck_date_bj_b73d85ba:
     emma.say "Я всё правильно делаю? Я сотню раз читала об этом в книжках, но по-настоящему это... ой!"
 
 # ch/emma/fuck.rpy:1263
@@ -12149,7 +12145,7 @@ translate russian emma_fuck_date_bj_8bd09869:
     "И по её лицу я понимаю, что она ждёт одобрения."
 
 # ch/emma/fuck.rpy:1307
-translate russian emma_fuck_date_bj_75744754:
+translate russian emma_fuck_date_bj_787fd1eb:
     emma.say "Я... я..."
 
 # ch/emma/fuck.rpy:1308
@@ -12209,11 +12205,11 @@ translate russian emma_fuck_date_sixth_38541e2a:
     "Будто моё обращение разом выдало всё её волнение."
 
 # ch/emma/fuck.rpy:1333
-translate russian emma_fuck_date_sixth_9f89d0e2:
+translate russian emma_fuck_date_sixth_fca09b5d:
     emma.say "Что... я..."
 
 # ch/emma/fuck.rpy:1335
-translate russian emma_fuck_date_sixth_a9e8f92a:
+translate russian emma_fuck_date_sixth_0a46ecf6:
     emma.say "Н... нет, [lssb_emma.hero_name()]..."
 
 # ch/emma/fuck.rpy:1336
@@ -12241,7 +12237,7 @@ translate russian emma_fuck_date_sixth_348caefd:
     "Но при этом искренне."
 
 # ch/emma/fuck.rpy:1346
-translate russian emma_fuck_date_sixth_201eb365:
+translate russian emma_fuck_date_sixth_bd0e72b9:
     emma.say "Я... наверное, немного нервничаю."
 
 # ch/emma/fuck.rpy:1347
@@ -12249,7 +12245,7 @@ translate russian emma_fuck_date_sixth_acca6a33:
     emma.say "Для меня это очень большой шаг!"
 
 # ch/emma/fuck.rpy:1348
-translate russian emma_fuck_date_sixth_02cba08a:
+translate russian emma_fuck_date_sixth_d70ca341:
     emma.say "И... и вдруг он ДЕЙСТВИТЕЛЬНО окажется для меня слишком большим!"
 
 # ch/emma/fuck.rpy:1349
@@ -12305,7 +12301,7 @@ translate russian emma_fuck_date_sixth_35b58326:
     emma.say "Но я всё равно тебе доверяю."
 
 # ch/emma/fuck.rpy:1370
-translate russian emma_fuck_date_sixth_4bee1dd3:
+translate russian emma_fuck_date_sixth_e429afcc:
     emma.say "Только... будь нежным, ладно?"
 
 # ch/emma/fuck.rpy:1372
@@ -12365,7 +12361,7 @@ translate russian emma_fuck_date_missionary_7d4f3d2f:
     "Между нами округляется её живот, и я на мгновение замираю от восхищения. Там уже целый маленький человек, а она всё равно нашла место для меня."
 
 # ch/emma/fuck.rpy:1414
-translate russian emma_fuck_date_missionary_73448af8:
+translate russian emma_fuck_date_missionary_e3f6b44a:
     emma.say "Осторожнее с животиком, ладно? Ох... до сих пор не верится, что мы сделали ребёнка, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:1416
@@ -12385,7 +12381,7 @@ translate russian emma_fuck_date_missionary_19b75a66:
     emma.say "Скажи, что делать, [lssb_emma.hero_name()]. Я хочу только одного — угодить тебе."
 
 # ch/emma/fuck.rpy:1424
-translate russian emma_fuck_date_missionary_c115db30:
+translate russian emma_fuck_date_missionary_e835157a:
     emma.say "Т... только медленно, ладно? Хочу, чтобы всё было идеально."
 
 # ch/emma/fuck.rpy:1425
@@ -12421,7 +12417,7 @@ translate russian emma_fuck_date_missionary_60fa6d3a:
     mike.say "Эмма, тебе придётся мне довериться, ладно?"
 
 # ch/emma/fuck.rpy:1435
-translate russian emma_fuck_date_missionary_e9c375b6:
+translate russian emma_fuck_date_missionary_aa9baf1a:
     emma.say "Ч... что?"
 
 # ch/emma/fuck.rpy:1436
@@ -12457,7 +12453,7 @@ translate russian emma_fuck_date_missionary_f264f28b:
     emma.say "О боже..."
 
 # ch/emma/fuck.rpy:1445
-translate russian emma_fuck_date_missionary_84dad9c2:
+translate russian emma_fuck_date_missionary_827d7f24:
     emma.say "Это... это моя попа!"
 
 # ch/emma/fuck.rpy:1446
@@ -12469,7 +12465,7 @@ translate russian emma_fuck_date_missionary_e5d1b719:
     "Но стараюсь не обращать на неё внимания, силой проникая внутрь."
 
 # ch/emma/fuck.rpy:1449
-translate russian emma_fuck_date_missionary_675cf30f:
+translate russian emma_fuck_date_missionary_7b47f1be:
     emma.say "Ох... ох... о-о-ох..."
 
 # ch/emma/fuck.rpy:1450
@@ -12477,7 +12473,7 @@ translate russian emma_fuck_date_missionary_d906e409:
     emma.say "М-м-м..."
 
 # ch/emma/fuck.rpy:1452
-translate russian emma_fuck_date_missionary_e0b6bcfa:
+translate russian emma_fuck_date_missionary_6a6c3a3d:
     emma.say "О боже... что ты со мной делаешь!"
 
 # ch/emma/fuck.rpy:1453
@@ -12613,11 +12609,11 @@ translate russian emma_fuck_date_missionary_5b6daa0a:
     "И напрягаю слух..."
 
 # ch/emma/fuck.rpy:1495
-translate russian emma_fuck_date_missionary_90fa5071:
+translate russian emma_fuck_date_missionary_f2c5301c:
     emma.say "Т... ты кончил..."
 
 # ch/emma/fuck.rpy:1496
-translate russian emma_fuck_date_missionary_2c9390fa:
+translate russian emma_fuck_date_missionary_a6ea0c48:
     emma.say "Ты кончил... мне в попку..."
 
 # ch/emma/fuck.rpy:1497
@@ -12649,11 +12645,11 @@ translate russian emma_fuck_date_missionary_5b6daa0a_1:
     "И напрягаю слух..."
 
 # ch/emma/fuck.rpy:1516
-translate russian emma_fuck_date_missionary_90fa5071_1:
+translate russian emma_fuck_date_missionary_f2c5301c_1:
     emma.say "Т... ты кончил..."
 
 # ch/emma/fuck.rpy:1518
-translate russian emma_fuck_date_missionary_04428b61:
+translate russian emma_fuck_date_missionary_e71f3c92:
     emma.say "Ты кончил... на меня..."
 
 # ch/emma/fuck.rpy:1519
@@ -12721,7 +12717,7 @@ translate russian emma_fuck_date_missionary_597ac764:
     "Хочется только одного — войти глубже."
 
 # ch/emma/fuck.rpy:1549
-translate russian emma_fuck_date_missionary_c20cd068:
+translate russian emma_fuck_date_missionary_8e3b455d:
     emma.say "Ай... ай... ай..."
 
 # ch/emma/fuck.rpy:1550
@@ -12749,7 +12745,7 @@ translate russian emma_fuck_date_missionary_84f35b14:
     "Поэтому я выхожу как можно быстрее."
 
 # ch/emma/fuck.rpy:1559
-translate russian emma_fuck_date_missionary_a73e2e5c:
+translate russian emma_fuck_date_missionary_3f71e51a:
     mike.say "Я... прости, Эмма."
 
 # ch/emma/fuck.rpy:1560
@@ -12769,7 +12765,7 @@ translate russian emma_fuck_date_missionary_200aaf43:
     emma.say "Нет, это ты меня прости, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:1564
-translate russian emma_fuck_date_missionary_537ca98b:
+translate russian emma_fuck_date_missionary_4856bf98:
     emma.say "Просто ты такой... большой!"
 
 # ch/emma/fuck.rpy:1565
@@ -12797,11 +12793,11 @@ translate russian emma_fuck_date_missionary_d074163b:
     mike.say "Необязательно делать это сегодня. Может, займёмся чем-нибудь другим?"
 
 # ch/emma/fuck.rpy:1575
-translate russian emma_fuck_date_missionary_d5e73fa6:
+translate russian emma_fuck_date_missionary_9600b935:
     emma.say "Ох... о боже..."
 
 # ch/emma/fuck.rpy:1576
-translate russian emma_fuck_date_missionary_f1985e61:
+translate russian emma_fuck_date_missionary_31d52246:
     emma.say "Это... ТАК приятно!"
 
 # ch/emma/fuck.rpy:1580
@@ -12841,7 +12837,7 @@ translate russian emma_fuck_date_missionary_dfb5b5ba:
     "Она так плотно сжимает меня, что обоим почти больно. Я чувствую, как её тело медленно и осторожно учится принимать моё."
 
 # ch/emma/fuck.rpy:1590
-translate russian emma_fuck_date_missionary_8db89675:
+translate russian emma_fuck_date_missionary_1efdf478:
     emma.say "Ты такой большой... только... дай мне минутку, ладно? Думаю, я смогу тебя принять, если не будем торопиться."
 
 # ch/emma/fuck.rpy:1591
@@ -12853,7 +12849,7 @@ translate russian emma_fuck_date_missionary_f4793e61:
     "Она принимает меня без той боли, к которой готовилась, и всё её тело расслабляется от облегчения."
 
 # ch/emma/fuck.rpy:1594
-translate russian emma_fuck_date_missionary_809764a6:
+translate russian emma_fuck_date_missionary_f891e1fe:
     emma.say "Ох... совсем не больно! Я так боялась, а ты просто... вошёл. Какое облегчение!"
 
 # ch/emma/fuck.rpy:1596
@@ -12865,7 +12861,7 @@ translate russian emma_fuck_date_missionary_c576c5de:
     "Её широко раскрытые зелёные глаза сияют, глядя в мои, и я понимаю: она отвела мне роль принца в кульминации любимой истории."
 
 # ch/emma/fuck.rpy:1599
-translate russian emma_fuck_date_missionary_1ecc7723:
+translate russian emma_fuck_date_missionary_0df20b15:
     emma.say "Совсем как сцена из моей манги... только ты настоящий и правда мой."
 
 # ch/emma/fuck.rpy:1601
@@ -12981,11 +12977,11 @@ translate russian emma_fuck_date_missionary_5b6daa0a_2:
     "И напрягаю слух..."
 
 # ch/emma/fuck.rpy:1645
-translate russian emma_fuck_date_missionary_90fa5071_2:
+translate russian emma_fuck_date_missionary_f2c5301c_2:
     emma.say "Т... ты кончил..."
 
 # ch/emma/fuck.rpy:1647
-translate russian emma_fuck_date_missionary_04428b61_1:
+translate russian emma_fuck_date_missionary_e71f3c92_1:
     emma.say "Ты кончил... на меня..."
 
 # ch/emma/fuck.rpy:1648
@@ -13017,11 +13013,11 @@ translate russian emma_fuck_date_missionary_5b6daa0a_3:
     "И напрягаю слух..."
 
 # ch/emma/fuck.rpy:1661
-translate russian emma_fuck_date_missionary_90fa5071_3:
+translate russian emma_fuck_date_missionary_f2c5301c_3:
     emma.say "Т... ты кончил..."
 
 # ch/emma/fuck.rpy:1662
-translate russian emma_fuck_date_missionary_c7605f38:
+translate russian emma_fuck_date_missionary_93aeb716:
     emma.say "Ты кончил... мне в киску..."
 
 # ch/emma/fuck.rpy:1663
@@ -13029,7 +13025,7 @@ translate russian emma_fuck_date_missionary_8d18d330_1:
     emma.say "И мне понравилось!"
 
 # ch/emma/fuck.rpy:1665
-translate russian emma_fuck_date_missionary_fe3267f7:
+translate russian emma_fuck_date_missionary_6afe6a77:
     emma.say "Я пью... таблетки..."
 
 # ch/emma/fuck.rpy:1666
@@ -13061,7 +13057,7 @@ translate russian emma_fuck_date_missionary_36c45da1:
     emma.say "Ты это сделал..."
 
 # ch/emma/fuck.rpy:1677
-translate russian emma_fuck_date_missionary_c7605f38_1:
+translate russian emma_fuck_date_missionary_93aeb716_1:
     emma.say "Ты кончил... мне в киску..."
 
 # ch/emma/fuck.rpy:1678
@@ -13125,7 +13121,7 @@ translate russian emma_fuck_date_missionary_de1054f4:
     emma.say "Ах..."
 
 # ch/emma/fuck.rpy:1705
-translate russian emma_fuck_date_missionary_8f7508ce:
+translate russian emma_fuck_date_missionary_814f00a1:
     emma.say "О боже... о боже..."
 
 # ch/emma/fuck.rpy:1706
@@ -13169,7 +13165,7 @@ translate russian emma_fuck_date_missionary_de1054f4_1:
     emma.say "Ах..."
 
 # ch/emma/fuck.rpy:1722
-translate russian emma_fuck_date_missionary_8f7508ce_1:
+translate russian emma_fuck_date_missionary_814f00a1_1:
     emma.say "О боже... о боже..."
 
 # ch/emma/fuck.rpy:1723
@@ -13229,7 +13225,7 @@ translate russian emma_fuck_date_seventh_ede8fe82:
     "Она краснеет и искренне улыбается."
 
 # ch/emma/fuck.rpy:1749
-translate russian emma_fuck_date_seventh_a52eace5:
+translate russian emma_fuck_date_seventh_aeffe49d:
     emma.say "П... правда, [lssb_emma.hero_name()]?"
 
 # ch/emma/fuck.rpy:1750
@@ -13281,7 +13277,7 @@ translate russian emma_fuck_date_seventh_12e79200:
     "С каждой встречей эти странности делают её ещё дороже мне."
 
 # ch/emma/fuck.rpy:1766
-translate russian emma_fuck_date_seventh_63575df3:
+translate russian emma_fuck_date_seventh_18a6b473:
     "Ну... и ещё потому, что она такая милая!"
 
 # ch/emma/fuck.rpy:1767
@@ -13309,7 +13305,7 @@ translate russian emma_fuck_date_seventh_8220c2eb:
     "Но выглядеть озабоченным похотливым типом тоже не хочется."
 
 # ch/emma/fuck.rpy:1775
-translate russian emma_fuck_date_seventh_b4c1fe83:
+translate russian emma_fuck_date_seventh_762ab475:
     emma.say "О... да..."
 
 # ch/emma/fuck.rpy:1776
@@ -13385,7 +13381,7 @@ translate russian emma_fuck_date_cowgirl_e49f53d3:
     "Поэтому я удивляюсь, когда она согласно кивает."
 
 # ch/emma/fuck.rpy:1819
-translate russian emma_fuck_date_cowgirl_dfdbc63f:
+translate russian emma_fuck_date_cowgirl_b43370e8:
     emma.say "Л... ладно, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:1820
@@ -13413,7 +13409,7 @@ translate russian emma_fuck_date_cowgirl_e6915c5b:
     "Она осторожно устраивается сверху, поддерживая округлившийся живот рукой. Даже сейчас бережёт маленькую жизнь, которую мы создали вместе."
 
 # ch/emma/fuck.rpy:1831
-translate russian emma_fuck_date_cowgirl_1d3199fd:
+translate russian emma_fuck_date_cowgirl_37b2fde5:
     emma.say "Ради малыша нужно осторожно... но я всё равно так сильно тебя хочу, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:1833
@@ -13433,7 +13429,7 @@ translate russian emma_fuck_date_cowgirl_10329c0b:
     emma.say "Я очень постараюсь, [lssb_emma.hero_name()]. Только скажи, нравится ли тебе."
 
 # ch/emma/fuck.rpy:1841
-translate russian emma_fuck_date_cowgirl_1883bfdc:
+translate russian emma_fuck_date_cowgirl_4e334ab1:
     emma.say "Л... ладно. Я держусь. Очень надеюсь, что всё делаю правильно, [lssb_emma.hero_name()]!"
 
 # ch/emma/fuck.rpy:1844
@@ -13477,7 +13473,7 @@ translate russian emma_fuck_date_cowgirl_f264f28b:
     emma.say "О боже..."
 
 # ch/emma/fuck.rpy:1855
-translate russian emma_fuck_date_cowgirl_7ccad442:
+translate russian emma_fuck_date_cowgirl_8c07e06e:
     emma.say "Это моя... это моя попа!"
 
 # ch/emma/fuck.rpy:1856
@@ -13485,7 +13481,7 @@ translate russian emma_fuck_date_cowgirl_65d8cc7e:
     emma.say "Это так..."
 
 # ch/emma/fuck.rpy:1858
-translate russian emma_fuck_date_cowgirl_47021ddd:
+translate russian emma_fuck_date_cowgirl_560c7ec7:
     emma.say "Ох... это ТАК приятно!"
 
 # ch/emma/fuck.rpy:1859
@@ -13689,7 +13685,7 @@ translate russian emma_fuck_date_cowgirl_28ae8ea2:
     "Но когда я начинаю входить в неё, выражение быстро меняется..."
 
 # ch/emma/fuck.rpy:1954
-translate russian emma_fuck_date_cowgirl_9e923eeb:
+translate russian emma_fuck_date_cowgirl_3dfb9aa1:
     emma.say "Ох... ох... ох..."
 
 # ch/emma/fuck.rpy:1955
@@ -13717,7 +13713,7 @@ translate russian emma_fuck_date_cowgirl_ea43e315:
     "Поэтому я вынимаю член как можно скорее."
 
 # ch/emma/fuck.rpy:1965
-translate russian emma_fuck_date_cowgirl_d883c198:
+translate russian emma_fuck_date_cowgirl_385d3a13:
     mike.say "Чёрт... прости меня, Эмма."
 
 # ch/emma/fuck.rpy:1966
@@ -13789,11 +13785,11 @@ translate russian emma_fuck_date_cowgirl_4771d224:
     mike.say "О, ничего себе..."
 
 # ch/emma/fuck.rpy:1993
-translate russian emma_fuck_date_cowgirl_f4bdb186:
+translate russian emma_fuck_date_cowgirl_d003deeb:
     mike.say "О, ничего себе... ничего себе... ого!"
 
 # ch/emma/fuck.rpy:1996
-translate russian emma_fuck_date_cowgirl_42eacb7e:
+translate russian emma_fuck_date_cowgirl_46e903cd:
     emma.say "Ох... ты такой большой, мне нужно медленно... дай привыкнуть, ладно?"
 
 # ch/emma/fuck.rpy:1997
@@ -13801,7 +13797,7 @@ translate russian emma_fuck_date_cowgirl_4e0c8482:
     "Она осторожно опускается, позволяя телу приспособиться ко мне. С каждым новым сантиметром её страх всё больше тает."
 
 # ch/emma/fuck.rpy:1999
-translate russian emma_fuck_date_cowgirl_e4b3b376:
+translate russian emma_fuck_date_cowgirl_6d0d76dd:
     emma.say "Ох... он просто вошёл! Я зря так нервничала. Это легко!"
 
 # ch/emma/fuck.rpy:2000
@@ -13885,7 +13881,7 @@ translate russian emma_fuck_date_cowgirl_498e7fc4:
     "А бёдра громко шлёпают о мои."
 
 # ch/emma/fuck.rpy:2034
-translate russian emma_fuck_date_cowgirl_0c6cf20a:
+translate russian emma_fuck_date_cowgirl_9242e98e:
     emma.say "Ох... ох... ох..."
 
 # ch/emma/fuck.rpy:2035
@@ -13893,7 +13889,7 @@ translate russian emma_fuck_date_cowgirl_f264f28b_1:
     emma.say "О боже..."
 
 # ch/emma/fuck.rpy:2036
-translate russian emma_fuck_date_cowgirl_acdb5e05:
+translate russian emma_fuck_date_cowgirl_e2df6d6f:
     emma.say "Кажется... кажется, я сейчас кончу!"
 
 # ch/emma/fuck.rpy:2040
@@ -13941,7 +13937,7 @@ translate russian emma_fuck_date_cowgirl_36c45da1:
     emma.say "Ты это сделал..."
 
 # ch/emma/fuck.rpy:2063
-translate russian emma_fuck_date_cowgirl_c7605f38:
+translate russian emma_fuck_date_cowgirl_93aeb716:
     emma.say "Ты кончил... мне в киску..."
 
 # ch/emma/fuck.rpy:2064
@@ -13973,7 +13969,7 @@ translate russian emma_fuck_date_cowgirl_36c45da1_1:
     emma.say "Ты это сделал..."
 
 # ch/emma/fuck.rpy:2082
-translate russian emma_fuck_date_cowgirl_04428b61:
+translate russian emma_fuck_date_cowgirl_e71f3c92:
     emma.say "Ты кончил... на меня..."
 
 # ch/emma/fuck.rpy:2083
@@ -13981,7 +13977,7 @@ translate russian emma_fuck_date_cowgirl_d59c1d15_1:
     emma.say "Это было потрясающе!"
 
 # ch/emma/fuck.rpy:2087
-translate russian emma_fuck_date_cowgirl_d51020e3:
+translate russian emma_fuck_date_cowgirl_6ca08456:
     emma.say "Ох... ох... я пью таблетки..."
 
 # ch/emma/fuck.rpy:2088
@@ -14005,7 +14001,7 @@ translate russian emma_fuck_date_cowgirl_36c45da1_2:
     emma.say "Ты это сделал..."
 
 # ch/emma/fuck.rpy:2097
-translate russian emma_fuck_date_cowgirl_c7605f38_1:
+translate russian emma_fuck_date_cowgirl_93aeb716_1:
     emma.say "Ты кончил... мне в киску..."
 
 # ch/emma/fuck.rpy:2098
@@ -14049,7 +14045,7 @@ translate russian emma_fuck_date_cowgirl_de1054f4:
     emma.say "Ах..."
 
 # ch/emma/fuck.rpy:2119
-translate russian emma_fuck_date_cowgirl_8f7508ce:
+translate russian emma_fuck_date_cowgirl_814f00a1:
     emma.say "О боже... о боже..."
 
 # ch/emma/fuck.rpy:2122
@@ -14145,7 +14141,7 @@ translate russian emma_fuck_date_eighth_2f00a3c5:
     "Я замечаю, как крепко она сжимает руки."
 
 # ch/emma/fuck.rpy:2160
-translate russian emma_fuck_date_eighth_73d2bc66:
+translate russian emma_fuck_date_eighth_7e2ba94d:
     emma.say "О... я... правда?"
 
 # ch/emma/fuck.rpy:2161
@@ -14197,7 +14193,7 @@ translate russian emma_fuck_date_eighth_452a0e3c:
     emma.say "Пожалуйста, не думай так!"
 
 # ch/emma/fuck.rpy:2176
-translate russian emma_fuck_date_eighth_ab40e423:
+translate russian emma_fuck_date_eighth_cfb44153:
     emma.say "Я хочу... хочу заняться... ну, ты понимаешь."
 
 # ch/emma/fuck.rpy:2177
@@ -14273,7 +14269,7 @@ translate russian emma_fuck_date_eighth_f7bbc742:
     "Затем игриво хлопает по матрасу рядом с собой."
 
 # ch/emma/fuck.rpy:2200
-translate russian emma_fuck_date_eighth_c6bfbe94:
+translate russian emma_fuck_date_eighth_961b63c1:
     emma.say "М... может, подойдёшь?"
 
 # ch/emma/fuck.rpy:2201
@@ -14317,7 +14313,7 @@ translate russian emma_fuck_date_reverse_cowgirl_6cf694ed:
     "На мгновение мне кажется, что я сказал что-то не то."
 
 # ch/emma/fuck.rpy:2235
-translate russian emma_fuck_date_reverse_cowgirl_cd925bdb:
+translate russian emma_fuck_date_reverse_cowgirl_e6a30a91:
     emma.say "Я... я тоже!"
 
 # ch/emma/fuck.rpy:2236
@@ -14361,7 +14357,7 @@ translate russian emma_fuck_date_reverse_cowgirl_066f2113:
     emma.say "О боже!"
 
 # ch/emma/fuck.rpy:2250
-translate russian emma_fuck_date_reverse_cowgirl_12691fe2:
+translate russian emma_fuck_date_reverse_cowgirl_b3bac1b4:
     emma.say "Я... я не знала, что они так умеют!"
 
 # ch/emma/fuck.rpy:2252
@@ -14385,7 +14381,7 @@ translate russian emma_fuck_date_reverse_cowgirl_a5291715:
     "Когда она наклоняется вперёд, сбоку я едва различаю округлившийся живот. Меня внезапно захлёстывает острая нежность."
 
 # ch/emma/fuck.rpy:2258
-translate russian emma_fuck_date_reverse_cowgirl_6ed56766:
+translate russian emma_fuck_date_reverse_cowgirl_edbca4ee:
     emma.say "Ты там поосторожнее со мной... я теперь везу ценный груз!"
 
 # ch/emma/fuck.rpy:2260
@@ -14401,11 +14397,11 @@ translate russian emma_fuck_date_reverse_cowgirl_f8b71753:
     emma.say "Я даже не вижу тебя, [lssb_emma.hero_name()], но всё равно твоя. Делай со мной что хочешь."
 
 # ch/emma/fuck.rpy:2266
-translate russian emma_fuck_date_reverse_cowgirl_7445f92e:
+translate russian emma_fuck_date_reverse_cowgirl_cacc1cc5:
     emma.say "Я полностью тебе доверяю, [lssb_emma.hero_name()]. Пожалуйста... бери от меня всё, что пожелаешь."
 
 # ch/emma/fuck.rpy:2268
-translate russian emma_fuck_date_reverse_cowgirl_18c7e115:
+translate russian emma_fuck_date_reverse_cowgirl_f0be4e51:
     emma.say "Мне не видно, что ты там делаешь! Т... только нежно, ладно?"
 
 # ch/emma/fuck.rpy:2270
@@ -14457,7 +14453,7 @@ translate russian emma_fuck_date_reverse_cowgirl_4222ace2:
     emma.say "Ох, [lssb_emma.hero_name()]..."
 
 # ch/emma/fuck.rpy:2286
-translate russian emma_fuck_date_reverse_cowgirl_263721e4:
+translate russian emma_fuck_date_reverse_cowgirl_d563d186:
     emma.say "Ты... ты в моей попке!"
 
 # ch/emma/fuck.rpy:2287
@@ -14465,7 +14461,7 @@ translate russian emma_fuck_date_reverse_cowgirl_d906e409:
     emma.say "М-м-м..."
 
 # ch/emma/fuck.rpy:2288
-translate russian emma_fuck_date_reverse_cowgirl_ed8a7846:
+translate russian emma_fuck_date_reverse_cowgirl_df1f3a06:
     emma.say "Ох... пожалуйста..."
 
 # ch/emma/fuck.rpy:2289
@@ -14573,11 +14569,11 @@ translate russian emma_fuck_date_reverse_cowgirl_de1054f4:
     emma.say "Ах..."
 
 # ch/emma/fuck.rpy:2352
-translate russian emma_fuck_date_reverse_cowgirl_26443bca:
+translate russian emma_fuck_date_reverse_cowgirl_a5ced948:
     emma.say "Я... я больше не могу!"
 
 # ch/emma/fuck.rpy:2353
-translate russian emma_fuck_date_reverse_cowgirl_673326d1:
+translate russian emma_fuck_date_reverse_cowgirl_32866e59:
     emma.say "Пожалуйста... сделай это!"
 
 # ch/emma/fuck.rpy:2365
@@ -14689,7 +14685,7 @@ translate russian emma_fuck_date_reverse_cowgirl_5177205b:
     "Она почти сразу останавливается, приняв лишь первые пару сантиметров. Я чувствую, как она медленно и глубоко дышит, стараясь расслабиться и привыкнуть к моему размеру."
 
 # ch/emma/fuck.rpy:2435
-translate russian emma_fuck_date_reverse_cowgirl_c0243cff:
+translate russian emma_fuck_date_reverse_cowgirl_22c1acc5:
     emma.say "Т... такой большой! Только дай мне привыкнуть, ладно, [lssb_emma.hero_name()]?"
 
 # ch/emma/fuck.rpy:2437
@@ -14697,11 +14693,11 @@ translate russian emma_fuck_date_reverse_cowgirl_2aa206d1:
     "Привычного напряжения нет. Она легко и свободно принимает меня, тихо вздыхая от облегчения."
 
 # ch/emma/fuck.rpy:2438
-translate russian emma_fuck_date_reverse_cowgirl_290fa752:
+translate russian emma_fuck_date_reverse_cowgirl_e3d66994:
     emma.say "Ох... ты так легко вошёл! Можно совсем не волноваться!"
 
 # ch/emma/fuck.rpy:2440
-translate russian emma_fuck_date_reverse_cowgirl_301ef84f:
+translate russian emma_fuck_date_reverse_cowgirl_f525c27d:
     emma.say "Ай... ай... ай..."
 
 # ch/emma/fuck.rpy:2441
@@ -14733,7 +14729,7 @@ translate russian emma_fuck_date_reverse_cowgirl_a3d0fecc:
     mike.say "Прости, Эмма."
 
 # ch/emma/fuck.rpy:2451
-translate russian emma_fuck_date_reverse_cowgirl_e6140bfc:
+translate russian emma_fuck_date_reverse_cowgirl_3f7edb32:
     mike.say "Я... я не хотел делать тебе больно."
 
 # ch/emma/fuck.rpy:2452
@@ -14745,7 +14741,7 @@ translate russian emma_fuck_date_reverse_cowgirl_9902a37f:
     "И всё же качает головой."
 
 # ch/emma/fuck.rpy:2454
-translate russian emma_fuck_date_reverse_cowgirl_2e2f2254:
+translate russian emma_fuck_date_reverse_cowgirl_cbf723bf:
     emma.say "Всё хорошо... всё хорошо..."
 
 # ch/emma/fuck.rpy:2455
@@ -14913,7 +14909,7 @@ translate russian emma_fuck_date_reverse_cowgirl_64949cd3:
     "Вскоре результат моих усилий становится слышен."
 
 # ch/emma/fuck.rpy:2570
-translate russian emma_fuck_date_reverse_cowgirl_98c45dd1:
+translate russian emma_fuck_date_reverse_cowgirl_f18207f6:
     emma.say "Б... блядь..."
 
 # ch/emma/fuck.rpy:2571
@@ -15073,7 +15069,7 @@ translate russian emma_fuck_date_reverse_cowgirl_f9679dea_1:
     emma.say "Ох..."
 
 # ch/emma/fuck.rpy:2702
-translate russian emma_fuck_date_reverse_cowgirl_b164a47f:
+translate russian emma_fuck_date_reverse_cowgirl_345b5c24:
     emma.say "О чёрт... о чёрт..."
 
 # ch/emma/fuck.rpy:2704
@@ -15097,7 +15093,7 @@ translate russian emma_fuck_date_reverse_cowgirl_f9679dea_2:
     emma.say "Ох..."
 
 # ch/emma/fuck.rpy:2711
-translate russian emma_fuck_date_reverse_cowgirl_b164a47f_1:
+translate russian emma_fuck_date_reverse_cowgirl_345b5c24_1:
     emma.say "О чёрт... о чёрт..."
 
 # ch/emma/fuck.rpy:2712
@@ -15165,7 +15161,7 @@ translate russian emma_fuck_date_ninth_d65945e4:
     "Но поверьте, для неё это очень смело!"
 
 # ch/emma/fuck.rpy:2755
-translate russian emma_fuck_date_ninth_20b47ee8:
+translate russian emma_fuck_date_ninth_f307a994:
     mike.say "О... ладно, Эмма."
 
 # ch/emma/fuck.rpy:2756
@@ -15205,7 +15201,7 @@ translate russian emma_fuck_date_ninth_8c74c1d7:
     emma.say "А?.."
 
 # ch/emma/fuck.rpy:2767
-translate russian emma_fuck_date_ninth_2b1bad96:
+translate russian emma_fuck_date_ninth_411a5329:
     emma.say "Ч... что ты..."
 
 # ch/emma/fuck.rpy:2772
@@ -15281,7 +15277,7 @@ translate russian emma_fuck_date_doggy_f9679dea:
     emma.say "Ох..."
 
 # ch/emma/fuck.rpy:2822
-translate russian emma_fuck_date_doggy_e45dc436:
+translate russian emma_fuck_date_doggy_ef489327:
     emma.say "Я... я никогда раньше так не делала!"
 
 # ch/emma/fuck.rpy:2823
@@ -15289,7 +15285,7 @@ translate russian emma_fuck_date_doggy_96afe3ea:
     "Эмма оглядывается на меня через плечо."
 
 # ch/emma/fuck.rpy:2824
-translate russian emma_fuck_date_doggy_e14039fe:
+translate russian emma_fuck_date_doggy_fecd5d25:
     emma.say "Ты... обещаешь быть нежным?"
 
 # ch/emma/fuck.rpy:2825
@@ -15309,7 +15305,7 @@ translate russian emma_fuck_date_doggy_956dec65:
     mike.say "Обещаю, ты ничего не почувствуешь!"
 
 # ch/emma/fuck.rpy:2829
-translate russian emma_fuck_date_doggy_a0e65ed0:
+translate russian emma_fuck_date_doggy_fe4e22bb:
     mike.say "Ну... нет... не так."
 
 # ch/emma/fuck.rpy:2830
@@ -15333,7 +15329,7 @@ translate russian emma_fuck_date_doggy_70c64d45:
     "Она стоит на четвереньках, и её тяжёлый округлый живот свисает вниз. Я мысленно обещаю ни в коем случае не давить на него своим весом."
 
 # ch/emma/fuck.rpy:2836
-translate russian emma_fuck_date_doggy_f334719b:
+translate russian emma_fuck_date_doggy_34f7e6bf:
     emma.say "Только... поддерживай меня, ладно? Теперь тебе нужно заботиться о нас двоих, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:2838
@@ -15353,7 +15349,7 @@ translate russian emma_fuck_date_doggy_1f61a8bf:
     emma.say "Как только захочешь, [lssb_emma.hero_name()]. Я просто хочу, чтобы тебе было хорошо."
 
 # ch/emma/fuck.rpy:2846
-translate russian emma_fuck_date_doggy_b645815d:
+translate russian emma_fuck_date_doggy_737e8868:
     emma.say "Я чувствую себя такой... открытой! Н... но я тебе доверяю, [lssb_emma.hero_name()]. Только медленно."
 
 # ch/emma/fuck.rpy:2848
@@ -15417,7 +15413,7 @@ translate russian emma_fuck_date_doggy_a395bc61:
     emma.say "О боже..."
 
 # ch/emma/fuck.rpy:2866
-translate russian emma_fuck_date_doggy_198ee0ff:
+translate russian emma_fuck_date_doggy_2f0622cd:
     emma.say "Это... это не случайно!"
 
 # ch/emma/fuck.rpy:2868
@@ -15485,7 +15481,7 @@ translate russian emma_fuck_date_doggy_9a427f8d:
     "Её голова тоже движется вверх-вниз почти в такт моим толчкам."
 
 # ch/emma/fuck.rpy:2886
-translate russian emma_fuck_date_doggy_810f0d67:
+translate russian emma_fuck_date_doggy_69d854c7:
     emma.say "Да... да..."
 
 # ch/emma/fuck.rpy:2888
@@ -15493,7 +15489,7 @@ translate russian emma_fuck_date_doggy_acd645f8:
     emma.say "Продолжай, [lssb_emma.hero_name()]..."
 
 # ch/emma/fuck.rpy:2889
-translate russian emma_fuck_date_doggy_718ced00:
+translate russian emma_fuck_date_doggy_3fae4794:
     emma.say "Быстрее... сильнее... пожалуйста!"
 
 # ch/emma/fuck.rpy:2890
@@ -15697,7 +15693,7 @@ translate russian emma_fuck_date_doggy_109625fd:
     "Она так плотно сжимает меня, что приходится входить понемногу, каждый раз дожидаясь, пока она расслабится, прежде чем продвинуться глубже."
 
 # ch/emma/fuck.rpy:2968
-translate russian emma_fuck_date_doggy_05b079b8:
+translate russian emma_fuck_date_doggy_65323e1d:
     emma.say "М... медленнее, [lssb_emma.hero_name()]! Ты так сильно меня растягиваешь..."
 
 # ch/emma/fuck.rpy:2970
@@ -15705,7 +15701,7 @@ translate russian emma_fuck_date_doggy_0882a164:
     "На этот раз она не морщится и не напрягается. Принимает меня одним плавным, лёгким движением и вздыхает с явным облегчением."
 
 # ch/emma/fuck.rpy:2971
-translate russian emma_fuck_date_doggy_87086de5:
+translate russian emma_fuck_date_doggy_94325904:
     emma.say "Ох... на самом деле очень приятно! Можно просто расслабиться!"
 
 # ch/emma/fuck.rpy:2972
@@ -15733,11 +15729,11 @@ translate russian emma_fuck_date_doggy_f2bdc0b1:
     "Однако она быстро избавляет меня от этого страха."
 
 # ch/emma/fuck.rpy:2978
-translate russian emma_fuck_date_doggy_1583c891:
+translate russian emma_fuck_date_doggy_76283bfd:
     emma.say "Ох... о боже!"
 
 # ch/emma/fuck.rpy:2980
-translate russian emma_fuck_date_doggy_8d5adb9f:
+translate russian emma_fuck_date_doggy_b83fb057:
     emma.say "Твой член... он такой большой!"
 
 # ch/emma/fuck.rpy:2981
@@ -15781,7 +15777,7 @@ translate russian emma_fuck_date_doggy_9d8982eb:
     "Мне виден только её затылок, пока она отчаянно кивает."
 
 # ch/emma/fuck.rpy:2994
-translate russian emma_fuck_date_doggy_883fc952:
+translate russian emma_fuck_date_doggy_97dea0a0:
     emma.say "О да... да..."
 
 # ch/emma/fuck.rpy:2996
@@ -15789,7 +15785,7 @@ translate russian emma_fuck_date_doggy_37ec45da:
     emma.say "Продолжай, [lssb_emma.hero_name()], не останавливайся..."
 
 # ch/emma/fuck.rpy:2997
-translate russian emma_fuck_date_doggy_5570d770:
+translate russian emma_fuck_date_doggy_7d637e0b:
     emma.say "Трахай меня сильнее... сильнее... пожалуйста!"
 
 # ch/emma/fuck.rpy:2998
@@ -15993,7 +15989,7 @@ translate russian emma_fuck_date_doggy_ac82342e:
     "В её глазах восторг, губы складываются в улыбку."
 
 # ch/emma/fuck.rpy:3074
-translate russian emma_fuck_date_doggy_4b105dba:
+translate russian emma_fuck_date_doggy_b6c895c9:
     emma.say "Ты... ты это сделал!"
 
 # ch/emma/fuck.rpy:3075
@@ -16029,7 +16025,7 @@ translate russian emma_fuck_date_doggy_7a572bea:
     "В её глазах шок, рот открыт."
 
 # ch/emma/fuck.rpy:3090
-translate russian emma_fuck_date_doggy_4b105dba_1:
+translate russian emma_fuck_date_doggy_b6c895c9_1:
     emma.say "Ты... ты это сделал!"
 
 # ch/emma/fuck.rpy:3091
@@ -16085,7 +16081,7 @@ translate russian emma_fuck_date_handjob_daf2c878:
     emma.say "Я читала сотню таких сцен в манге, [lssb_emma.hero_name()]. И ни разу не верила, что сама стану героиней одной из них."
 
 # ch/emma/fuck.rpy:3114
-translate russian emma_fuck_date_handjob_e85047b6:
+translate russian emma_fuck_date_handjob_17243416:
     emma.say "Можно... можно немного поиграть? Пока я это делаю?"
 
 # ch/emma/fuck.rpy:3115
@@ -16117,7 +16113,7 @@ translate russian emma_fuck_date_handjob_96b213dd:
     "Она всё поглядывает на меня с недоверием, словно не может принять, что парень хочет, чтобы его касались именно ЕЁ руки."
 
 # ch/emma/fuck.rpy:3123
-translate russian emma_fuck_date_handjob_3367018a:
+translate russian emma_fuck_date_handjob_dcc99637:
     emma.say "Ты... ты правда хочешь, чтобы это была я? Я всё жду, когда ты поймёшь, что предпочёл бы Саманту."
 
 # ch/emma/fuck.rpy:3124
@@ -16153,7 +16149,7 @@ translate russian emma_fuck_date_handjob_59afd787:
     "Ей нужны обе руки, чтобы справиться со мной. Я чувствую её осторожность, словно она держит что-то, что может выстрелить."
 
 # ch/emma/fuck.rpy:3137
-translate russian emma_fuck_date_handjob_3987e3ab:
+translate russian emma_fuck_date_handjob_4bf594d9:
     emma.say "Ты такой... большой. Я всё об этом думаю. Получится ли когда-нибудь вместить его."
 
 # ch/emma/fuck.rpy:3138
@@ -16169,7 +16165,7 @@ translate russian emma_fuck_date_handjob_3686a1cc:
     "Она легко и уверенно обхватывает меня, и я вижу, как исчезает последнее волнение."
 
 # ch/emma/fuck.rpy:3142
-translate russian emma_fuck_date_handjob_8ea1ac69:
+translate russian emma_fuck_date_handjob_13dcaec5:
     emma.say "Знаешь... это совсем не страшно. Ты как раз помещаешься у меня в руке, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:3143
@@ -16185,7 +16181,7 @@ translate russian emma_fuck_date_handjob_8572891b:
     "Убирает прядь за ухо, облизывает губы и полностью сосредотачивается на том, что держит в руках."
 
 # ch/emma/fuck.rpy:3146
-translate russian emma_fuck_date_handjob_8dc0824c:
+translate russian emma_fuck_date_handjob_9750c77c:
     emma.say "Так. Полная концентрация. Как бой с боссом, только... приятнее."
 
 # ch/emma/fuck.rpy:3147
@@ -16193,7 +16189,7 @@ translate russian emma_fuck_date_handjob_bf0c86ac:
     "Я сдерживаю смех, но она замечает это, шлёпает меня по руке и краснеет."
 
 # ch/emma/fuck.rpy:3151
-translate russian emma_fuck_date_handjob_d03c030b:
+translate russian emma_fuck_date_handjob_20c137aa:
     "Она водит рукой вверх-вниз отработанным движением, нежно и чувственно."
 
 # ch/emma/fuck.rpy:3152
@@ -16237,7 +16233,7 @@ translate russian emma_fuck_date_handjob_a7e058de:
     "Она хихикает, радуясь собственной смелости, а я не смог бы отказать, даже если бы захотел."
 
 # ch/emma/fuck.rpy:3164
-translate russian emma_fuck_date_handjob_3bf8afca:
+translate russian emma_fuck_date_handjob_79b0da35:
     emma.say "Я... я всё правильно делаю? Если бы нет, ты бы сказал? Правда?"
 
 # ch/emma/fuck.rpy:3165
@@ -16277,7 +16273,7 @@ translate russian emma_fuck_date_handjob_b7304267:
     "Она наклоняется ближе, следя за своими пальцами, и сосредоточенно прикусывает нижнюю губу."
 
 # ch/emma/fuck.rpy:3177
-translate russian emma_fuck_date_handjob_b99f1c4b:
+translate russian emma_fuck_date_handjob_0c2107a2:
     emma.say "Это как... как заполняющаяся шкала. Я вижу, что ты уже близко, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:3178
@@ -16337,7 +16333,7 @@ translate russian emma_fuck_date_handjob_fcc1e158:
     "Я чувствую, как внимательно она ловит каждую перемену в моём лице, каждый вздох, принимая их за похвалу."
 
 # ch/emma/fuck.rpy:3192
-translate russian emma_fuck_date_handjob_4136d271:
+translate russian emma_fuck_date_handjob_a3546b0a:
     emma.say "Твоё лицо сейчас... хочу запомнить его навсегда."
 
 # ch/emma/fuck.rpy:3193
@@ -16385,7 +16381,7 @@ translate russian emma_fuck_date_handjob_9af5054c:
     "Немного попадает ей на пальцы. Она смотрит на них, затем на меня, красная до невозможности."
 
 # ch/emma/fuck.rpy:3206
-translate russian emma_fuck_date_handjob_f1681fc3:
+translate russian emma_fuck_date_handjob_94065e58:
     emma.say "Ого. Оно правда... то есть ЭТУ часть они вообще неправильно рисуют."
 
 # ch/emma/fuck.rpy:3207
@@ -16417,7 +16413,7 @@ translate russian emma_fuck_date_too_small_43fe49b4:
     "Эмма свернулась на боку, подтянув колени. Она ещё переводит дыхание, щёки горят."
 
 # ch/emma/fuck.rpy:3265
-translate russian emma_fuck_date_too_small_462c1d07:
+translate russian emma_fuck_date_too_small_62ddf13d:
     emma.say "Прости. Мне ТАК жаль. Будто тело просто... запирается. Каждый раз."
 
 # ch/emma/fuck.rpy:3267
@@ -16445,7 +16441,7 @@ translate russian emma_fuck_date_too_small_6bd49757:
     "Она слабо и благодарно улыбается, а я вижу, как она снова решает набраться смелости."
 
 # ch/emma/fuck.rpy:3281
-translate russian emma_fuck_date_too_small_b058b859:
+translate russian emma_fuck_date_too_small_0c6579e7:
     emma.say "Тогда... может, попробуем что-нибудь другое? Что-нибудь, что поместится?"
 
 # ch/emma/fuck.rpy:3303
@@ -16453,7 +16449,7 @@ translate russian emma_fuck_date_cunni_d286aeda:
     "Эмма ложится на спину и разводит колени, хотя руки всё время нервно мнут простыню."
 
 # ch/emma/fuck.rpy:3304
-translate russian emma_fuck_date_cunni_646dd11f:
+translate russian emma_fuck_date_cunni_4e1b02a0:
     emma.say "До сих пор не верится, что я позволяю тебе смотреть туда. А уж... такое..."
 
 # ch/emma/fuck.rpy:3305
@@ -16469,7 +16465,7 @@ translate russian emma_fuck_date_cunni_20f1a9fe:
     "Я медленно, успокаивающе провожу ладонями по внешней стороне её бёдер и чувствую, как под моим дыханием нервно вздрагивает её живот."
 
 # ch/emma/fuck.rpy:3308
-translate russian emma_fuck_date_cunni_804ce1ec:
+translate russian emma_fuck_date_cunni_21243d07:
     emma.say "Ты уверен? Правда хочешь? Кажется, столько... усилий, и всё ради меня."
 
 # ch/emma/fuck.rpy:3309
@@ -16485,7 +16481,7 @@ translate russian emma_fuck_date_cunni_74f86df0:
     "Теперь приходится учитывать округлый живот. Прежде чем устроиться ниже, я нежно целую его."
 
 # ch/emma/fuck.rpy:3313
-translate russian emma_fuck_date_cunni_4e422558:
+translate russian emma_fuck_date_cunni_95138818:
     emma.say "Осторожнее там... теперь баловать будут не только тебя, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:3315
@@ -16509,7 +16505,7 @@ translate russian emma_fuck_date_cunni_f196a3e4:
     mike.say "Тогда парни в твоих комиксах — дураки. Я давно этого ждал."
 
 # ch/emma/fuck.rpy:3322
-translate russian emma_fuck_date_cunni_74d0603d:
+translate russian emma_fuck_date_cunni_a17a7bf6:
     emma.say "Л... ладно. Я вся твоя, [lssb_emma.hero_name()]. Только нежно."
 
 # ch/emma/fuck.rpy:3323
@@ -16521,7 +16517,7 @@ translate russian emma_fuck_date_cunni_5a10974e:
     "Мгновение я просто вдыхаю её запах, затем медленно целую внутреннюю сторону бедра и чувствую, как она вздрагивает и ахает."
 
 # ch/emma/fuck.rpy:3325
-translate russian emma_fuck_date_cunni_8c4526ec:
+translate russian emma_fuck_date_cunni_8742f95b:
     emma.say "О! Ты ещё даже не... а я уже... ох, будет неловко, да?"
 
 # ch/emma/fuck.rpy:3326
@@ -16537,7 +16533,7 @@ translate russian emma_fuck_date_cunni_912cc9d0:
     "Каждое прикосновение вызывает тихий удивлённый звук, словно собственное тело снова и снова застаёт её врасплох."
 
 # ch/emma/fuck.rpy:3329
-translate russian emma_fuck_date_cunni_debd5b19:
+translate russian emma_fuck_date_cunni_2e869d54:
     emma.say "О! О, это... я не знала, что может быть так приятно."
 
 # ch/emma/fuck.rpy:3330
@@ -16561,7 +16557,7 @@ translate russian emma_fuck_date_cunni_65e9ee17:
     "Её пятки упираются в матрас, одна рука взлетает к изголовью и вцепляется в него до побелевших костяшек."
 
 # ch/emma/fuck.rpy:3335
-translate russian emma_fuck_date_cunni_8eefbfbf:
+translate russian emma_fuck_date_cunni_b4fc1d99:
     emma.say "З... здесь. Вот здесь. Пожалуйста, не останавливайся, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:3336
@@ -16573,7 +16569,7 @@ translate russian emma_fuck_date_cunni_191b8a49:
     "Она начинает забывать о смущении, и наблюдать за этим — уже награда."
 
 # ch/emma/fuck.rpy:3338
-translate russian emma_fuck_date_cunni_35c7db48:
+translate russian emma_fuck_date_cunni_fcfa4376:
     emma.say "Я всегда пропускала такие сцены. Никогда не думала... ох... никогда не думала, что будет ТАК."
 
 # ch/emma/fuck.rpy:3339
@@ -16585,7 +16581,7 @@ translate russian emma_fuck_date_cunni_d5b38dfe:
     "Теперь она говорит почти непрерывно: сбивчивый поток обрывков фраз, которые она, кажется, не замечает, что произносит вслух."
 
 # ch/emma/fuck.rpy:3341
-translate russian emma_fuck_date_cunni_ecd39e11:
+translate russian emma_fuck_date_cunni_a78ec377:
     emma.say "Это... из-за этого девушки в моих сериалах всё время падают в обморок? Если так, мне стоит перед ними извиниться."
 
 # ch/emma/fuck.rpy:3342
@@ -16593,7 +16589,7 @@ translate russian emma_fuck_date_cunni_e5193d16:
     "Я не могу сдержать улыбку, и она чувствует её — почему-то это волнует её ещё сильнее."
 
 # ch/emma/fuck.rpy:3343
-translate russian emma_fuck_date_cunni_662d6d49:
+translate russian emma_fuck_date_cunni_7ce82275:
     emma.say "Не улыбайся! Я начну стесняться, и тогда... ох. О, сделай так ещё раз."
 
 # ch/emma/fuck.rpy:3344
@@ -16605,7 +16601,7 @@ translate russian emma_fuck_date_cunni_c2dd2016:
     "Пальцы крепче сжимают мои волосы; теперь она направляет меня уже совсем не робко."
 
 # ch/emma/fuck.rpy:3346
-translate russian emma_fuck_date_cunni_4f9617c5:
+translate russian emma_fuck_date_cunni_bed6c78a:
     emma.say "Прости, прости, я не хотела тянуть, просто... мне нужно... я даже не знаю, что мне нужно!"
 
 # ch/emma/fuck.rpy:3347
@@ -16625,7 +16621,7 @@ translate russian emma_fuck_date_cunni_74e5f809:
     "Знаю, этот образ останется со мной очень надолго."
 
 # ch/emma/fuck.rpy:3351
-translate russian emma_fuck_date_cunni_639399ea:
+translate russian emma_fuck_date_cunni_eba5c474:
     emma.say "Почему ты так на меня... ох. ОХ. Ладно, смотри так. Продолжай так смотреть."
 
 # ch/emma/fuck.rpy:3352
@@ -16657,7 +16653,7 @@ translate russian emma_fuck_date_cunni_623de11e:
     "Я продолжаю ласкать её ртом, оставив палец у входа, и терпеливо даю ей привыкнуть хотя бы к этому."
 
 # ch/emma/fuck.rpy:3360
-translate russian emma_fuck_date_cunni_3823d4ea:
+translate russian emma_fuck_date_cunni_677541f4:
     emma.say "Дело не в тебе. Правда, не в тебе. Просто моё тело... робкое. Как и я сама."
 
 # ch/emma/fuck.rpy:3361
@@ -16697,7 +16693,7 @@ translate russian emma_fuck_date_cunni_7fb6ed62:
     "Я сгибаю палец так, как ей нравится, и её бёдра жадно тянутся за ним. Если бы она это заметила, ужасно бы смутилась."
 
 # ch/emma/fuck.rpy:3371
-translate russian emma_fuck_date_cunni_5d811996:
+translate russian emma_fuck_date_cunni_0f9258d8:
     emma.say "Я читала об этом чувстве, но читать... ох... читать СОВСЕМ не то же самое, что испытать!"
 
 # ch/emma/fuck.rpy:3372
@@ -16717,7 +16713,7 @@ translate russian emma_fuck_date_cunni_d8a28d2e:
     "Я обхватываю её бёдра, нежно удерживая на месте, чтобы она не могла ускользнуть от ощущений."
 
 # ch/emma/fuck.rpy:3376
-translate russian emma_fuck_date_cunni_3ea00291:
+translate russian emma_fuck_date_cunni_9983d003:
     emma.say "Нечестно, я не могу вырваться, не могу... я и НЕ ХОЧУ вырываться, продолжай!"
 
 # ch/emma/fuck.rpy:3377
@@ -16729,7 +16725,7 @@ translate russian emma_fuck_date_cunni_ceaca7e9:
     "Каждая перемена вызывает новый звук, и каждый я бережно сохраняю в памяти."
 
 # ch/emma/fuck.rpy:3379
-translate russian emma_fuck_date_cunni_a77547f1:
+translate russian emma_fuck_date_cunni_855339b7:
     emma.say "Я не могу... не могу молчать, прости, не могу... ты сейчас заставишь меня...!"
 
 # ch/emma/fuck.rpy:3380
@@ -16753,7 +16749,7 @@ translate russian emma_fuck_date_cunni_6c227643:
     "Всё её тело напрягается сильнее, застенчивая нерешительность сгорает, уступая место искреннему желанию."
 
 # ch/emma/fuck.rpy:3385
-translate russian emma_fuck_date_cunni_e2e68a4f:
+translate russian emma_fuck_date_cunni_a3e330de:
     emma.say "Я близко. Совсем близко. Это... это нормально, что так хорошо?"
 
 # ch/emma/fuck.rpy:3386
@@ -16841,7 +16837,7 @@ translate russian emma_fuck_date_cunni_cc02d4bf:
     "Она смеётся, сияя и ещё не придя в себя, и притягивает меня для поцелуя без малейшего следа привычной робости."
 
 # ch/emma/fuck.rpy:3414
-translate russian emma_fuck_date_cunni_15ea907e:
+translate russian emma_fuck_date_cunni_e8adc8a9:
     emma.say "Кажется... кажется, я наконец поняла, о чём всё это время говорили мои комиксы."
 
 # ch/emma/fuck.rpy:3415
@@ -16889,7 +16885,7 @@ translate russian emma_hottub_sex_male_90e546a3:
     "Поэтому собираюсь вылезти из воды и зайти в дом — узнать, что её задерживает."
 
 # ch/emma/fuck.rpy:3433
-translate russian emma_hottub_sex_male_3df349bc:
+translate russian emma_hottub_sex_male_42dbbf96:
     emma.say "Э-э... нет, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:3434
@@ -17069,7 +17065,7 @@ translate russian emma_hottub_sex_male_348caefd:
     "Но при этом искренне."
 
 # ch/emma/fuck.rpy:3489
-translate russian emma_hottub_sex_male_201eb365:
+translate russian emma_hottub_sex_male_bd0e72b9:
     emma.say "Я... наверное, немного нервничаю."
 
 # ch/emma/fuck.rpy:3490
@@ -17077,7 +17073,7 @@ translate russian emma_hottub_sex_male_acca6a33:
     emma.say "Для меня это очень большой шаг!"
 
 # ch/emma/fuck.rpy:3491
-translate russian emma_hottub_sex_male_02cba08a:
+translate russian emma_hottub_sex_male_d70ca341:
     emma.say "И... и вдруг он ДЕЙСТВИТЕЛЬНО окажется для меня слишком большим!"
 
 # ch/emma/fuck.rpy:3492
@@ -17145,7 +17141,7 @@ translate russian emma_hottub_sex_male_fd0157de:
     emma.say "Это из-за меня?!"
 
 # ch/emma/fuck.rpy:3509
-translate russian emma_hottub_sex_male_cb6a7b67:
+translate russian emma_hottub_sex_male_ff25d459:
     mike.say "Э-э... да, Эмма."
 
 # ch/emma/fuck.rpy:3510
@@ -17161,7 +17157,7 @@ translate russian emma_hottub_sex_male_3cc41f18:
     "Но в последний момент отдёргивает руку и смотрит мне в глаза."
 
 # ch/emma/fuck.rpy:3513
-translate russian emma_hottub_sex_male_c16c7d1b:
+translate russian emma_hottub_sex_male_77877fcf:
     emma.say "Можно... потрогать?"
 
 # ch/emma/fuck.rpy:3514
@@ -17197,7 +17193,7 @@ translate russian emma_hottub_sex_male_c644241b:
     "Её улыбка становится шире, щёки наливаются румянцем."
 
 # ch/emma/fuck.rpy:3522
-translate russian emma_hottub_sex_male_e3cd3117:
+translate russian emma_hottub_sex_male_58e40b7e:
     emma.say "Т... ты хотел бы..."
 
 # ch/emma/fuck.rpy:3523
@@ -17241,7 +17237,7 @@ translate russian emma_hottub_sex_male_46f04625:
     "Эмма устраивается на краю джакузи, пока член раздвигает губы её киски."
 
 # ch/emma/fuck.rpy:3536
-translate russian emma_hottub_sex_male_c20cd068:
+translate russian emma_hottub_sex_male_8e3b455d:
     emma.say "Ай... ай... ай..."
 
 # ch/emma/fuck.rpy:3537
@@ -17269,7 +17265,7 @@ translate russian emma_hottub_sex_male_84f35b14:
     "Поэтому я выхожу как можно быстрее."
 
 # ch/emma/fuck.rpy:3546
-translate russian emma_hottub_sex_male_a73e2e5c:
+translate russian emma_hottub_sex_male_3f71e51a:
     mike.say "Я... прости, Эмма."
 
 # ch/emma/fuck.rpy:3547
@@ -17289,7 +17285,7 @@ translate russian emma_hottub_sex_male_200aaf43:
     emma.say "Нет, это ты меня прости, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:3553
-translate russian emma_hottub_sex_male_537ca98b:
+translate russian emma_hottub_sex_male_4856bf98:
     emma.say "Просто ты такой... большой!"
 
 # ch/emma/fuck.rpy:3554
@@ -17329,7 +17325,7 @@ translate russian emma_hottub_sex_male_5addd23b:
     "Тёплая вода поддерживает её живот между нами, а я держу её так бережно, словно она из стекла. Моя беременная девушка мечты доверяет мне безопасность их обоих."
 
 # ch/emma/fuck.rpy:3570
-translate russian emma_hottub_sex_male_851206f5:
+translate russian emma_hottub_sex_male_1ce8f07f:
     emma.say "М-м-м... осторожнее с малышом... но продолжай, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:3572
@@ -17349,7 +17345,7 @@ translate russian emma_hottub_sex_male_23c72feb:
     emma.say "Всё, что пожелаешь, [lssb_emma.hero_name()]. Я просто хочу угодить тебе."
 
 # ch/emma/fuck.rpy:3580
-translate russian emma_hottub_sex_male_5d039e1f:
+translate russian emma_hottub_sex_male_aaf0425a:
     emma.say "Это... так приятно. Не знала, что бывает так хорошо, [lssb_emma.hero_name()]!"
 
 # ch/emma/fuck.rpy:3582
@@ -17553,11 +17549,11 @@ translate russian emma_fuck_beach_5bba708d:
     mike.say "Тут все на всех смотрят!"
 
 # ch/emma/fuck.rpy:3671
-translate russian emma_fuck_beach_a684977f:
+translate russian emma_fuck_beach_c62455d0:
     emma.say "Я... я знаю, [lssb_emma.hero_name()]."
 
 # ch/emma/fuck.rpy:3673
-translate russian emma_fuck_beach_d04cda07:
+translate russian emma_fuck_beach_d3345eaa:
     emma.say "Но когда ты... это... это другое!"
 
 # ch/emma/fuck.rpy:3675
@@ -17581,11 +17577,11 @@ translate russian emma_fuck_beach_3acde974:
     mike.say "А в чём разница, Эмма?"
 
 # ch/emma/fuck.rpy:3681
-translate russian emma_fuck_beach_3658aafb:
+translate russian emma_fuck_beach_a2e26b70:
     emma.say "Ну... когда ты смотришь на меня..."
 
 # ch/emma/fuck.rpy:3682
-translate russian emma_fuck_beach_45445c9b:
+translate russian emma_fuck_beach_daf8cf94:
     emma.say "Я... я вроде как не против!"
 
 # ch/emma/fuck.rpy:3684
@@ -17605,7 +17601,7 @@ translate russian emma_fuck_beach_706ad360:
     "Прежде чем ответить, она тоже проверяет, одни ли мы."
 
 # ch/emma/fuck.rpy:3690
-translate russian emma_fuck_beach_d67f061d:
+translate russian emma_fuck_beach_7ae18d76:
     emma.say "Потому что мне от этого хочется... пошалить!"
 
 # ch/emma/fuck.rpy:3691
@@ -17621,7 +17617,7 @@ translate russian emma_fuck_beach_fafaddfa:
     "Поэтому мне нужно мгновение, чтобы понять её слова."
 
 # ch/emma/fuck.rpy:3694
-translate russian emma_fuck_beach_fc8e7d84:
+translate russian emma_fuck_beach_9b5d7964:
     mike.say "Ты... хочешь сказать, тебя это заводит?"
 
 # ch/emma/fuck.rpy:3696
@@ -17649,7 +17645,7 @@ translate russian emma_fuck_beach_83b26c7c:
     "Закусывает губу, явно борясь с этой мыслью и собственной робостью."
 
 # ch/emma/fuck.rpy:3704
-translate russian emma_fuck_beach_ce04d25b:
+translate russian emma_fuck_beach_730b1417:
     emma.say "Я... наверное, можно..."
 
 # ch/emma/fuck.rpy:3705
@@ -17689,11 +17685,11 @@ translate russian emma_fuck_beach_9359f746:
     mike.say "Смотри туда, а остальное предоставь мне."
 
 # ch/emma/fuck.rpy:3717
-translate russian emma_fuck_beach_94533cee:
+translate russian emma_fuck_beach_93e5a859:
     emma.say "О... ладно."
 
 # ch/emma/fuck.rpy:3718
-translate russian emma_fuck_beach_e6cad385:
+translate russian emma_fuck_beach_eec34c1d:
     emma.say "Только... будь нежным, хорошо?"
 
 # ch/emma/fuck.rpy:3720
@@ -17721,7 +17717,7 @@ translate russian emma_fuck_beach_7354e325:
     "Морской бриз обдувает её округлый живот, а я поддерживаю её. Моя беременная девушка набралась смелости сделать это именно здесь."
 
 # ch/emma/fuck.rpy:3730
-translate russian emma_fuck_beach_e384d334:
+translate russian emma_fuck_beach_d53f8b4c:
     emma.say "Только крепко держи... нас теперь трое на этом полотенце, [lssb_emma.hero_name()]!"
 
 # ch/emma/fuck.rpy:3732
@@ -17741,7 +17737,7 @@ translate russian emma_fuck_beach_4f254d78:
     emma.say "Всё, что тебе приятно, [lssb_emma.hero_name()]. Я просто хочу угодить тебе."
 
 # ch/emma/fuck.rpy:3740
-translate russian emma_fuck_beach_81b7553c:
+translate russian emma_fuck_beach_69b43b3c:
     emma.say "Не верится, что мы правда... делаем это здесь. Н... нежно, ладно?"
 
 # ch/emma/fuck.rpy:3743
@@ -17845,11 +17841,11 @@ translate russian emma_fuck_beach_37921604:
     "Я вижу, что она раскраснелась и смутилась сильнее прежнего."
 
 # ch/emma/fuck.rpy:3771
-translate russian emma_fuck_beach_a8256341:
+translate russian emma_fuck_beach_33673703:
     emma.say "Я... не думала, что он туда поместится."
 
 # ch/emma/fuck.rpy:3772
-translate russian emma_fuck_beach_78a26dbe:
+translate russian emma_fuck_beach_c15cf0d8:
     emma.say "Но это... очень приятно!"
 
 # ch/emma/fuck.rpy:3773
@@ -17965,15 +17961,15 @@ translate russian emma_fuck_beach_cf8ed8bf:
     "Она говорит, но слова невнятные, словно она пьяна или под кайфом."
 
 # ch/emma/fuck.rpy:3867
-translate russian emma_fuck_beach_6026ac77:
+translate russian emma_fuck_beach_2a0a21f5:
     emma.say "Я... я..."
 
 # ch/emma/fuck.rpy:3868
-translate russian emma_fuck_beach_a12d48b7:
+translate russian emma_fuck_beach_5b5eadbc:
     emma.say "Я... сейчас..."
 
 # ch/emma/fuck.rpy:3869
-translate russian emma_fuck_beach_e4025672:
+translate russian emma_fuck_beach_125d0ac8:
     emma.say "Я... сейчас... кончу!"
 
 # ch/emma/fuck.rpy:3870
@@ -18113,7 +18109,7 @@ translate russian emma_fuck_beach_14d4446d:
     mike.say "Я не хотел..."
 
 # ch/emma/fuck.rpy:3954
-translate russian emma_fuck_beach_bf8bb8fc:
+translate russian emma_fuck_beach_3e863d06:
     emma.say "Со... со мной всё будет хорошо, честно!"
 
 # ch/emma/fuck.rpy:3955
@@ -18164,10 +18160,6 @@ translate russian emma_fuck_beach_e3db4df2:
 translate russian emma_fuck_beach_d0f824f3:
     "Голос Эммы растворяется в стонах и вздохах удовольствия."
 
-# ch/emma/fuck.rpy:3975
-translate russian emma_fuck_beach_5f5e4cb3:
-    "Её тело тает так же."
-
 # ch/emma/fuck.rpy:3976
 translate russian emma_fuck_beach_43774dea:
     "С каждой секундой она всё больше отдаётся мне."
@@ -18205,15 +18197,15 @@ translate russian emma_fuck_beach_654a9323:
     "Я вижу, что она раскраснелась и смутилась сильнее прежнего!"
 
 # ch/emma/fuck.rpy:3993
-translate russian emma_fuck_beach_ce4237b5:
+translate russian emma_fuck_beach_b30e19ef:
     emma.say "Твой член... он ТАКОЙ большой!"
 
 # ch/emma/fuck.rpy:3994
-translate russian emma_fuck_beach_a8256341_1:
+translate russian emma_fuck_beach_33673703_1:
     emma.say "Я... не думала, что он туда поместится."
 
 # ch/emma/fuck.rpy:3995
-translate russian emma_fuck_beach_78a26dbe_1:
+translate russian emma_fuck_beach_c15cf0d8_1:
     emma.say "Но это... очень приятно!"
 
 # ch/emma/fuck.rpy:3996
@@ -18293,15 +18285,15 @@ translate russian emma_fuck_beach_cf8ed8bf_1:
     "Она говорит, но слова невнятные, словно она пьяна или под кайфом."
 
 # ch/emma/fuck.rpy:4061
-translate russian emma_fuck_beach_6026ac77_1:
+translate russian emma_fuck_beach_2a0a21f5_1:
     emma.say "Я... я..."
 
 # ch/emma/fuck.rpy:4062
-translate russian emma_fuck_beach_a12d48b7_1:
+translate russian emma_fuck_beach_5b5eadbc_1:
     emma.say "Я... сейчас..."
 
 # ch/emma/fuck.rpy:4063
-translate russian emma_fuck_beach_e4025672_1:
+translate russian emma_fuck_beach_125d0ac8_1:
     emma.say "Я... сейчас... кончу!"
 
 # ch/emma/fuck.rpy:4064
@@ -18385,15 +18377,15 @@ translate russian emma_fuck_beach_6f9b90e0_2:
     "А она уже охвачена оргазмом."
 
 # ch/emma/fuck.rpy:4121
-translate russian emma_fuck_beach_0fa72aae:
+translate russian emma_fuck_beach_0deeba7d:
     emma.say "Всё... хорошо..."
 
 # ch/emma/fuck.rpy:4122
-translate russian emma_fuck_beach_0fb918c4:
+translate russian emma_fuck_beach_62886e77:
     emma.say "Таблетки... помнишь?"
 
 # ch/emma/fuck.rpy:4123
-translate russian emma_fuck_beach_cab22184:
+translate russian emma_fuck_beach_569e9be6:
     emma.say "Я... пью... таблетки!"
 
 # ch/emma/fuck.rpy:4124
@@ -18429,15 +18421,15 @@ translate russian emma_fuck_beach_6f9b90e0_3:
     "А она уже охвачена оргазмом."
 
 # ch/emma/fuck.rpy:4150
-translate russian emma_fuck_beach_0fa72aae_1:
+translate russian emma_fuck_beach_0deeba7d_1:
     emma.say "Всё... хорошо..."
 
 # ch/emma/fuck.rpy:4151
-translate russian emma_fuck_beach_7d2be75d:
+translate russian emma_fuck_beach_7238c129:
     emma.say "Я беременна... помнишь?"
 
 # ch/emma/fuck.rpy:4152
-translate russian emma_fuck_beach_56b7d87a:
+translate russian emma_fuck_beach_b26be66e:
     emma.say "Я... уже... беременна!"
 
 # ch/emma/fuck.rpy:4153
@@ -18681,7 +18673,7 @@ translate russian emma_gift_slutty_dress_male_d0d821d6:
     "Предвкушаю её удивление, когда достану его прямо перед ней."
 
 # ch/emma/gift.rpy:93
-translate russian emma_gift_slutty_dress_male_61b3c335:
+translate russian emma_gift_slutty_dress_male_ec981111:
     "Э-э... да... прозвучало немного двусмысленно!"
 
 # ch/emma/gift.rpy:94
@@ -18697,7 +18689,7 @@ translate russian emma_gift_slutty_dress_male_74733275:
     "И всё усложняется тем, что Эмма бывает..."
 
 # ch/emma/gift.rpy:97
-translate russian emma_gift_slutty_dress_male_3405c2a8:
+translate russian emma_gift_slutty_dress_male_9186dd2f:
     "Ну... чуть более робкой и замкнутой, чем обычная девушка."
 
 # ch/emma/gift.rpy:98
@@ -18757,7 +18749,7 @@ translate russian emma_gift_slutty_dress_male_b0f122d0:
     "Сдаюсь, достаю коробку и протягиваю ей."
 
 # ch/emma/gift.rpy:116
-translate russian emma_gift_slutty_dress_male_222a5fbf:
+translate russian emma_gift_slutty_dress_male_000aaf6b:
     mike.say "Ладно, ладно... признаюсь."
 
 # ch/emma/gift.rpy:117
@@ -18953,7 +18945,7 @@ translate russian emma_gift_slutty_dress_male_8510946a:
     emma.say "Это не помогает, [lssb_emma.hero_name()]!"
 
 # ch/emma/gift.rpy:180
-translate russian emma_gift_slutty_dress_male_868e2f4a:
+translate russian emma_gift_slutty_dress_male_83481c56:
     emma.say "Я... мне нужно подышать воздухом."
 
 # ch/emma/gift.rpy:182
@@ -19241,7 +19233,7 @@ translate russian emma_gift_collar_male_9df1ddcb:
     "Всё складывается лучше, чем я мог надеяться."
 
 # ch/emma/gift.rpy:274
-translate russian emma_gift_collar_male_b460ca5e:
+translate russian emma_gift_collar_male_e6d7c10e:
     mike.say "Т... тебе нравится?"
 
 # ch/emma/gift.rpy:276
@@ -19337,7 +19329,7 @@ translate russian emma_gift_collar_male_76682231:
     emma.say "Как ты мог купить мне такое?!"
 
 # ch/emma/gift.rpy:309
-translate russian emma_gift_collar_male_568c3bf6:
+translate russian emma_gift_collar_male_115767a3:
     emma.say "Такое носят... носят животные!"
 
 # ch/emma/gift.rpy:310
@@ -19525,7 +19517,7 @@ translate russian emma_ice_cream_reaction_male_690857eb:
     "Эмма тоже выбирает мороженое, только поменьше и поаккуратнее. Странно, но оно напоминает мне её!"
 
 # ch/emma/reactions.rpy:6
-translate russian emma_ice_cream_reaction_male_d663a05d:
+translate russian emma_ice_cream_reaction_male_f269fcba:
     emma.say "О... о боже!"
 
 # ch/emma/reactions.rpy:7
@@ -19541,7 +19533,7 @@ translate russian emma_ice_cream_reaction_male_b51d98a6:
     "А точнее, на каплю мороженого на нём."
 
 # ch/emma/reactions.rpy:10
-translate russian emma_ice_cream_reaction_male_129530f4:
+translate russian emma_ice_cream_reaction_male_d29e804d:
     emma.say "Уф... как я умудрилась?!"
 
 # ch/emma/reactions.rpy:11
@@ -19565,7 +19557,7 @@ translate russian emma_ice_cream_reaction_male_4b729dd2:
     emma.say "Ладно, ладно, смейся! Сегодня я, видимо, твоя неуклюжая героиня аниме, [lssb_emma.hero_name()]."
 
 # ch/emma/reactions.rpy:20
-translate russian emma_ice_cream_reaction_male_8b54a531:
+translate russian emma_ice_cream_reaction_male_fb520480:
     emma.say "Ох, не смотри так! Я... обычно не такая неуклюжая, честно."
 
 # ch/emma/reactions.rpy:21
@@ -19721,11 +19713,11 @@ translate russian emma_study_with_success_male_7be5c607:
     emma.say "О нет, это не..."
 
 # ch/emma/reactions.rpy:66
-translate russian emma_study_with_success_male_fdff094c:
+translate russian emma_study_with_success_male_a64e8040:
     emma.say "Нет... погоди..."
 
 # ch/emma/reactions.rpy:67
-translate russian emma_study_with_success_male_c85bf670:
+translate russian emma_study_with_success_male_c25deff7:
     emma.say "Да... вот оно!"
 
 # ch/emma/reactions.rpy:68
@@ -19761,11 +19753,11 @@ translate russian emma_study_with_success_male_dbc1876a:
     emma.say "Ты как умный сэмпай, который появляется, когда героиня зашла в тупик, [lssb_emma.hero_name()]!"
 
 # ch/emma/reactions.rpy:80
-translate russian emma_study_with_success_male_382ea137:
+translate russian emma_study_with_success_male_ad4c1053:
     emma.say "О! Ты... ты правда разобрался. Я не ожидала... то есть спасибо, [lssb_emma.hero_name()]."
 
 # ch/emma/reactions.rpy:81
-translate russian emma_study_with_success_male_71b422bc:
+translate russian emma_study_with_success_male_792ddbd2:
     emma.say "И, ну... теперь можешь убрать руку. Не то чтобы я была против. Я... я этого не говорила."
 
 # ch/emma/reactions.rpy:83
@@ -19885,11 +19877,11 @@ translate russian emma_ask_phone_male_f2df75ea:
     emma.say "Звони, когда захочешь меня услышать, [lssb_emma.hero_name()]. Тебе я всегда отвечу."
 
 # ch/emma/reactions.rpy:124
-translate russian emma_ask_phone_male_a39ab94e:
+translate russian emma_ask_phone_male_73aa9812:
     emma.say "Теперь можешь связаться со мной в любой момент... я радуюсь этому, наверное, даже больше, чем стоит, [lssb_emma.hero_name()]!"
 
 # ch/emma/reactions.rpy:126
-translate russian emma_ask_phone_male_c9b5c13a:
+translate russian emma_ask_phone_male_7d4d0b18:
     emma.say "Я... я нечасто даю свой номер. Так что... не заставляй пожалеть, ладно?"
 
 # ch/emma/reactions.rpy:128
@@ -19917,7 +19909,7 @@ translate russian emma_ask_birthday_male_2206e31d:
     mike.say "Когда у тебя день рождения?"
 
 # ch/emma/reactions.rpy:146
-translate russian emma_ask_birthday_male_21601dc0:
+translate russian emma_ask_birthday_male_bc74150c:
     emma.say "Р... разве я ещё не говорила?"
 
 # ch/emma/reactions.rpy:147
@@ -19937,11 +19929,11 @@ translate russian emma_ask_birthday_male_0ca75acb:
     emma.say "Не нужно устраивать ради меня ничего особенного, [lssb_emma.hero_name()]. Достаточно провести его с тобой."
 
 # ch/emma/reactions.rpy:154
-translate russian emma_ask_birthday_male_0a33ab5a:
+translate russian emma_ask_birthday_male_708199d0:
     emma.say "Ты правда хотел узнать? Это... это важнее любого подарка, [lssb_emma.hero_name()]."
 
 # ch/emma/reactions.rpy:156
-translate russian emma_ask_birthday_male_a08048eb:
+translate russian emma_ask_birthday_male_43aea57c:
     emma.say "Ты... правда хочешь запомнить? Обычно никто особо не интересуется, так что... спасибо, [lssb_emma.hero_name()]."
 
 # ch/emma/reactions.rpy:158
@@ -20025,7 +20017,7 @@ translate russian emma_slap_ass_happy_male_eda4cff6:
     emma.say "Чт..."
 
 # ch/emma/reactions.rpy:212
-translate russian emma_slap_ass_happy_male_1c6c44c2:
+translate russian emma_slap_ass_happy_male_9e62eb5b:
     emma.say "Что... что это было?!"
 
 # ch/emma/reactions.rpy:213
@@ -20053,7 +20045,7 @@ translate russian emma_slap_ass_happy_male_e99f2bfe:
     "Эмма краснеет, но улыбается."
 
 # ch/emma/reactions.rpy:219
-translate russian emma_slap_ass_happy_male_69260b71:
+translate russian emma_slap_ass_happy_male_64f4d6f7:
     emma.say "О... ладно..."
 
 # ch/emma/reactions.rpy:220
@@ -20073,11 +20065,11 @@ translate russian emma_slap_ass_happy_male_76b27b3e:
     emma.say "Ты смелеешь, [lssb_emma.hero_name()]! Как Хикару в новой главе... мне даже нравится."
 
 # ch/emma/reactions.rpy:228
-translate russian emma_slap_ass_happy_male_8f3b1918:
+translate russian emma_slap_ass_happy_male_37f07efc:
     emma.say "Я... не верю, что ты это сделал! Так неловко..."
 
 # ch/emma/reactions.rpy:229
-translate russian emma_slap_ass_happy_male_342b4baf:
+translate russian emma_slap_ass_happy_male_c4e60799:
     emma.say "Н... но не могу сказать, что совсем против. Только не смей никому рассказывать, [lssb_emma.hero_name()]!"
 
 # ch/emma/reactions.rpy:231
@@ -20089,7 +20081,7 @@ translate russian emma_slap_ass_angry_male_eda4cff6:
     emma.say "Чт..."
 
 # ch/emma/reactions.rpy:236
-translate russian emma_slap_ass_angry_male_1c6c44c2:
+translate russian emma_slap_ass_angry_male_9e62eb5b:
     emma.say "Что... что это было?!"
 
 # ch/emma/reactions.rpy:237
@@ -20197,7 +20189,7 @@ translate russian emma_breakup_male_5e157bb8:
     mike.say "Нет, Эмма, всё не так, как ты думаешь!"
 
 # ch/emma/reactions.rpy:270
-translate russian emma_breakup_male_e0220ebd:
+translate russian emma_breakup_male_fe87be1e:
     mike.say "Хотя нет... именно так..."
 
 # ch/emma/reactions.rpy:271
@@ -20305,11 +20297,11 @@ translate russian emma_go_steady_yes_male_43ecb6ca:
     emma.say "Я читала об этом в сотне манг, [lssb_emma.hero_name()], но ни одна не ощущалась такой настоящей!"
 
 # ch/emma/reactions.rpy:314
-translate russian emma_go_steady_yes_male_3a54f0d1:
+translate russian emma_go_steady_yes_male_310add00:
     emma.say "П... правда? Ты точно хочешь быть со мной? Всё жду, когда проснусь."
 
 # ch/emma/reactions.rpy:315
-translate russian emma_go_steady_yes_male_daf79fd5:
+translate russian emma_go_steady_yes_male_410013e9:
     emma.say "Ладно... ладно, да! Давай, ну... станем настоящей парой, [lssb_emma.hero_name()]."
 
 # ch/emma/reactions.rpy:317
@@ -20341,7 +20333,7 @@ translate russian emma_pet_intro_male_b3640170:
     "Но, едва сделав это, понимаю: она может воспринять иначе!"
 
 # ch/emma/reactions.rpy:333
-translate russian emma_pet_happy_male_792a02d2:
+translate russian emma_pet_happy_male_cfbf2f68:
     emma.say "О-о... о боже!"
 
 # ch/emma/reactions.rpy:334
@@ -20365,11 +20357,11 @@ translate russian emma_pet_happy_male_cab8e137:
     emma.say "Гладишь по голове! ТАК по-анимешному, [lssb_emma.hero_name()]. Ещё?"
 
 # ch/emma/reactions.rpy:343
-translate russian emma_pet_happy_male_79aa1ae0:
+translate russian emma_pet_happy_male_54c2d449:
     emma.say "О! Ну... это... это довольно приятно. Меня раньше так никто не гладил."
 
 # ch/emma/reactions.rpy:344
-translate russian emma_pet_happy_male_e0d12aaf:
+translate russian emma_pet_happy_male_56b35b74:
     emma.say "М... можешь ещё, если хочешь, [lssb_emma.hero_name()]."
 
 # ch/emma/reactions.rpy:346
@@ -20405,7 +20397,7 @@ translate russian emma_massage_accept_male_0f07df99:
     emma.say "Что?"
 
 # ch/emma/reactions.rpy:363
-translate russian emma_massage_accept_male_a88499e2:
+translate russian emma_massage_accept_male_97255c6a:
     emma.say "О... наверное, да, [lssb_emma.hero_name()]."
 
 # ch/emma/reactions.rpy:364
@@ -20429,7 +20421,7 @@ translate russian emma_massage_accept_male_cb218b09:
     emma.say "Ты меня балуешь, [lssb_emma.hero_name()]! Словно я принцесса, а ты мой преданный рыцарь."
 
 # ch/emma/reactions.rpy:373
-translate russian emma_massage_accept_male_8c0b41c7:
+translate russian emma_massage_accept_male_3276ade1:
     emma.say "Только... только нежно, ладно? Я не очень привыкла, чтобы вокруг меня хлопотали."
 
 # ch/emma/reactions.rpy:374
@@ -20445,7 +20437,7 @@ translate russian emma_massage_refuse_male_0f07df99:
     emma.say "Что?"
 
 # ch/emma/reactions.rpy:381
-translate russian emma_massage_refuse_male_d42d9bf6:
+translate russian emma_massage_refuse_male_1f6c028c:
     emma.say "О... нет, [lssb_emma.hero_name()]."
 
 # ch/emma/reactions.rpy:382
@@ -20457,7 +20449,7 @@ translate russian emma_massage_refuse_male_549687d8:
     emma.say "Не хочу, чтобы кто-то ещё там что-то мял!"
 
 # ch/emma/reactions.rpy:387
-translate russian emma_piercing_nipples_reaction_male_c2dc55f8:
+translate russian emma_piercing_nipples_reaction_male_65f7a07e:
     emma.say "Я... очень сомневалась, [lssb_emma.hero_name()]."
 
 # ch/emma/reactions.rpy:388
@@ -20465,11 +20457,11 @@ translate russian emma_piercing_nipples_reaction_male_b723d76b:
     emma.say "Но теперь, когда соски уже проколоты..."
 
 # ch/emma/reactions.rpy:389
-translate russian emma_piercing_nipples_reaction_male_23a0f15a:
+translate russian emma_piercing_nipples_reaction_male_db99c178:
     emma.say "Мне... мне вроде нравится!"
 
 # ch/emma/reactions.rpy:393
-translate russian emma_piercing_navel_reaction_male_32268bc1:
+translate russian emma_piercing_navel_reaction_male_790925e3:
     emma.say "Хм... выглядит... очень мило!"
 
 # ch/emma/reactions.rpy:394
@@ -20481,7 +20473,7 @@ translate russian emma_piercing_navel_reaction_male_3ad692fa:
     emma.say "Спасибо, что уговорил, [lssb_emma.hero_name()]!"
 
 # ch/emma/reactions.rpy:399
-translate russian emma_piercing_clit_reaction_male_b52bcaf3:
+translate russian emma_piercing_clit_reaction_male_badf4e09:
     emma.say "Ах... немного странное ощущение, [lssb_emma.hero_name()]..."
 
 # ch/emma/reactions.rpy:400
@@ -20489,11 +20481,11 @@ translate russian emma_piercing_clit_reaction_male_fac4c293:
     emma.say "Но это не значит, что мне не нравится!"
 
 # ch/emma/reactions.rpy:401
-translate russian emma_piercing_clit_reaction_male_173fd17d:
+translate russian emma_piercing_clit_reaction_male_a532ea18:
     emma.say "Потому что... нравится... очень нравится!"
 
 # ch/emma/reactions.rpy:405
-translate russian emma_piercing_head_reaction_male_625c8cba:
+translate russian emma_piercing_head_reaction_male_4abd4037:
     emma.say "Ах... э-э..."
 
 # ch/emma/reactions.rpy:406
@@ -20521,11 +20513,11 @@ translate russian emma_piercing_nose_reaction_male_f1cc0363:
     emma.say "Но я люблю, когда тебе тоже нравится!"
 
 # ch/emma/reactions.rpy:418
-translate russian emma_movie_disliked_reaction_male_61182287:
+translate russian emma_movie_disliked_reaction_male_8bdc9dd4:
     emma.say "Ох... мне... мне совсем не понравился фильм. Лучше бы посмотрели что-нибудь другое!"
 
 # ch/emma/reactions.rpy:422
-translate russian emma_movie_indifferent_reaction_male_296197ee:
+translate russian emma_movie_indifferent_reaction_male_86792460:
     emma.say "Это было... ну... в целом нормально... наверное."
 
 # ch/emma/reactions.rpy:427
@@ -20541,7 +20533,7 @@ translate russian emma_movie_liked_reaction_male_f95091fc:
     emma.say "Я В ВОСТОРГЕ, [lssb_emma.hero_name()]! А обниматься с тобой было даже лучше самого фильма!"
 
 # ch/emma/reactions.rpy:433
-translate russian emma_movie_liked_reaction_male_dd778472:
+translate russian emma_movie_liked_reaction_male_211d3cf4:
     emma.say "Ого... я В ВОСТОРГЕ от фильма, просто в восторге!"
 
 # ch/emma/reactions.rpy:435
@@ -20665,7 +20657,7 @@ translate russian emma_belly_kiss_male_cef92f6e:
     "Начинаю нежно целовать округлившийся живот."
 
 # ch/emma/reactions.rpy:481
-translate russian emma_belly_kiss_male_7c4c0b11:
+translate russian emma_belly_kiss_male_58c309f3:
     emma.say "М-м-м... немного щекотно, [lssb_emma.hero_name()]. Но мило. Очень мило."
 
 # ch/emma/reactions.rpy:483
@@ -20741,7 +20733,7 @@ translate russian emma_belly_caress_male_6eb15a58:
     emma.say "Я не знаю, [lssb_emma.hero_name()]!"
 
 # ch/emma/reactions.rpy:508
-translate russian emma_belly_caress_male_05705497:
+translate russian emma_belly_caress_male_4b717b11:
     emma.say "Я... кажется, вообще больше ничего не знаю!"
 
 # ch/emma/reactions.rpy:510
@@ -21005,7 +20997,7 @@ translate russian emma_talk_love_male_2e6c3aea:
     emma.say "И, ну... твоя любовь может причинить боль другим. Я никогда не хочу стать девушкой, которая забирает чужое."
 
 # ch/emma/talk.rpy:31
-translate russian emma_talk_love_male_436e43b6:
+translate russian emma_talk_love_male_543159c9:
     emma.say "Любовь... я много читала о ней, но всегда думала, что она для других."
 
 # ch/emma/talk.rpy:32
@@ -21029,7 +21021,7 @@ translate russian emma_talk_love_male_e97d85a5:
     mike.say "И откуда?"
 
 # ch/emma/talk.rpy:44
-translate russian emma_talk_love_male_80e7d4bb:
+translate russian emma_talk_love_male_21c1d7d1:
     emma.say "Это... чувство в животе, когда видишь любимого человека. Будто бабочки, только шоколадные!"
 
 # ch/emma/talk.rpy:45
@@ -21153,7 +21145,7 @@ translate russian emma_talk_sex_male_76b81367:
     emma.say "Так, ну... как дела на работе?"
 
 # ch/emma/talk.rpy:93
-translate russian emma_talk_sex_male_501d6dd4:
+translate russian emma_talk_sex_male_c992208a:
     emma.say "Это было... всё, что я когда-либо представляла. И одновременно совсем другое."
 
 # ch/emma/talk.rpy:94
@@ -21265,7 +21257,7 @@ translate russian emma_talk_travels_male_8e3f2954:
     mike.say "Ты знаешь японский?"
 
 # ch/emma/talk.rpy:165
-translate russian emma_talk_travels_male_2e04b95f:
+translate russian emma_talk_travels_male_24f14c5d:
     emma.say "Н... немного. Два года учила в колледже. Но недостаточно, чтобы чувствовать себя уверенно."
 
 # ch/emma/talk.rpy:168
@@ -21317,7 +21309,7 @@ translate russian emma_talk_fashion_male_1fa05338:
     emma.say "Люблю говорить, что не интересуюсь модой, но всё равно выбираю одежду, которая помогает чувствовать себя ближе к любимым людям и вещам."
 
 # ch/emma/talk.rpy:212
-translate russian emma_talk_fashion_male_667f75c5:
+translate russian emma_talk_fashion_male_cec1717f:
     emma.say "Модой я не увлекаюсь, а покупать одежду для беременных — вообще ужас. Всё такое... бе."
 
 # ch/emma/talk.rpy:218
@@ -21357,7 +21349,7 @@ translate russian emma_talk_books_male_00f22e52:
     emma.say "Можно признаться в неловкой вещи? Иногда милыми мне кажутся не только парни."
 
 # ch/emma/talk.rpy:229
-translate russian emma_talk_books_male_15214037:
+translate russian emma_talk_books_male_111b8e24:
     emma.say "Есть одна героиня, принцесса Акари, она такая красивая, смелая и... ну..."
 
 # ch/emma/talk.rpy:231
@@ -21437,7 +21429,7 @@ translate russian emma_talk_computers_male_c686f562:
     mike.say "О да, кажется, я играл в несколько. Правда, они вроде откровеннее того, что ты обычно предпочитаешь?"
 
 # ch/emma/talk.rpy:283
-translate russian emma_talk_computers_male_8362e385:
+translate russian emma_talk_computers_male_f1ac837d:
     emma.say "Может, немного, но... иногда мне такое нравится."
 
 # ch/emma/talk.rpy:285
@@ -21445,7 +21437,7 @@ translate russian emma_talk_computers_male_f65c86a6:
     emma.say "Не хочешь как-нибудь разыграть одну?"
 
 # ch/emma/talk.rpy:286
-translate russian emma_talk_computers_male_68fa1db0:
+translate russian emma_talk_computers_male_561782a5:
     mike.say "О! Звучит... интересно!"
 
 # ch/emma/talk.rpy:289
@@ -21549,7 +21541,7 @@ translate russian submissive_interact_emma_male_14ecdf96:
     mike.say "Ты не против здороваться со мной определённым образом?"
 
 # ch/emma/talk.rpy:398
-translate russian submissive_interact_emma_male_20c0dd93:
+translate russian submissive_interact_emma_male_2e2d15a3:
     emma.say "Э-э... что ты имеешь в виду, [lssb_emma.hero_name()]?"
 
 # ch/emma/talk.rpy:399
@@ -21569,7 +21561,7 @@ translate russian submissive_interact_emma_male_ad013870:
     mike.say "О том, как я увидел тебя во сне, а сам стал сбывшейся мечтой?"
 
 # ch/emma/talk.rpy:406
-translate russian submissive_interact_emma_male_7a35f5a8:
+translate russian submissive_interact_emma_male_a9a4efbc:
     emma.say "Это... немного странно, [lssb_emma.hero_name()]."
 
 # ch/emma/talk.rpy:407
@@ -21581,7 +21573,7 @@ translate russian submissive_interact_emma_male_158040cc:
     emma.say "Тогда я постараюсь."
 
 # ch/emma/talk.rpy:412
-translate russian submissive_interact_emma_male_dad5540f:
+translate russian submissive_interact_emma_male_8366e8cb:
     emma.say "Я... я не смогу, [lssb_emma.hero_name()]."
 
 # ch/emma/talk.rpy:413
@@ -21685,7 +21677,7 @@ translate russian emma_friendly_texts_8c32925d:
     emma_nvl "Только что думала о тебе."
 
 # ch/emma/texts.rpy:42
-translate russian emma_friendly_texts_a7094327:
+translate russian emma_friendly_texts_e888c424:
     emma_nvl "Ну... в последнее время я часто этим занимаюсь!"
 
 # ch/emma/texts.rpy:43
@@ -21713,7 +21705,7 @@ translate russian emma_flirty_texts_4ade8471:
     emma_nvl "Всё ловлю своё отражение: такая округлая и сияющая."
 
 # ch/emma/texts.rpy:59
-translate russian emma_flirty_texts_5945f91d:
+translate russian emma_flirty_texts_1a98a5a8:
     emma_nvl "Хочу, чтобы ты увидел меня такой... поскорее, ладно?"
 
 # ch/emma/texts.rpy:61
@@ -21813,7 +21805,7 @@ translate russian emma_flirty_texts_1868eef5:
     emma_nvl "Уверена, мы найдём, чем заняться вдвоём..."
 
 # ch/emma/texts.rpy:104
-translate russian emma_dirty_texts_d59f1efb:
+translate russian emma_dirty_texts_8c66f7dc:
     emma_nvl "Говорят, во время беременности становишься, ну... особенно чувствительной."
 
 # ch/emma/texts.rpy:105
@@ -21885,11 +21877,11 @@ translate russian emma_dirty_texts_05abd4a3:
     emma_nvl "Только скажи — и я уже на коленях!"
 
 # ch/emma/texts.rpy:132
-translate russian emma_dirty_texts_8f2b2a43:
+translate russian emma_dirty_texts_9ba8d1de:
     emma_nvl "Ну... я тут думала о тебе. Много."
 
 # ch/emma/texts.rpy:133
-translate russian emma_dirty_texts_8ad686f0:
+translate russian emma_dirty_texts_0ba67620:
     emma_nvl "Думала о... ну, ты понимаешь!"
 
 # ch/emma/texts.rpy:134
@@ -21989,15 +21981,15 @@ translate russian emma_friendly_texts_male_344ce161:
     emma_nvl "Ты же знаешь, мне так нравится, когда ты обо мне справляешься!"
 
 # ch/emma/texts.rpy:179
-translate russian emma_friendly_texts_male_55374bff:
+translate russian emma_friendly_texts_male_8918e99b:
     emma_nvl "Ничем особенным... просто мечтаю о тебе, [lssb_emma.hero_name()]!"
 
 # ch/emma/texts.rpy:181
-translate russian emma_friendly_texts_male_a302d6c9:
+translate russian emma_friendly_texts_male_f0c655bb:
     emma_nvl "Ничем особенным... отдыхаю."
 
 # ch/emma/texts.rpy:182
-translate russian emma_friendly_texts_male_b1ea17d3:
+translate russian emma_friendly_texts_male_9a3f2d5e:
     mchero_nvl "Я тоже... тоже."
 
 # ch/emma/texts.rpy:183
@@ -22185,7 +22177,7 @@ translate russian emma_flirty_texts_male_84afdade:
     emma_nvl "Скоро ещё успеешь меня потрогать!"
 
 # ch/emma/texts.rpy:324
-translate russian emma_flirty_texts_male_06f613aa:
+translate russian emma_flirty_texts_male_03752a14:
     emma_nvl "Твои руки, животик, всё это... возвращайся уже :$"
 
 # ch/emma/texts.rpy:331
@@ -22229,7 +22221,7 @@ translate russian emma_dirty_texts_male_5fc9c9b7:
     emma_nvl "Ты меня в могилу сведёшь, да ещё и беременную!"
 
 # ch/emma/texts.rpy:376
-translate russian emma_dirty_texts_male_3236e625:
+translate russian emma_dirty_texts_male_757a90e6:
     emma_nvl "Но да... я тоже этого хочу. Очень :$"
 
 # ch/emma/texts.rpy:378

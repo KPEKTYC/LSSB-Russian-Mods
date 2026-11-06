@@ -377,7 +377,7 @@ translate russian aletta_propose_male_196c4ced:
     "Глаза Алетты широко раскрываются, когда я поднимаю его перед ней."
 
 # ch/aletta/base.rpy:242
-translate russian aletta_propose_male_ed3279c2:
+translate russian aletta_propose_male_acabac76:
     mike.say "А... Алетта..."
 
 # ch/aletta/base.rpy:243
@@ -417,7 +417,7 @@ translate russian aletta_propose_male_18c7e3fc:
     "Всё это время пытаюсь понять, что она имеет в виду."
 
 # ch/aletta/base.rpy:255
-translate russian aletta_propose_male_0ee4466b:
+translate russian aletta_propose_male_3350e178:
     mike.say "Я... знаю?"
 
 # ch/aletta/base.rpy:256
@@ -505,7 +505,7 @@ translate russian aletta_propose_male_18c7e3fc_1:
     "Всё это время пытаюсь понять, что она имеет в виду."
 
 # ch/aletta/base.rpy:282
-translate russian aletta_propose_male_c00f6550:
+translate russian aletta_propose_male_5aac4813:
     mike.say "Т... ты выйдешь?"
 
 # ch/aletta/base.rpy:283
@@ -529,7 +529,7 @@ translate russian aletta_propose_male_06e47645:
     "Потрясённо качая головой, я начинаю торопливо говорить."
 
 # ch/aletta/base.rpy:288
-translate russian aletta_propose_male_bf33c7ba:
+translate russian aletta_propose_male_7209c281:
     mike.say "Я... я так нервничал, ты даже не представляешь!"
 
 # ch/aletta/base.rpy:289
@@ -1045,7 +1045,7 @@ translate russian aletta_good_sweet_talk_male_c4cc4f21:
     mike.say "Но быть с тобой парой НАМНОГО лучше."
 
 # ch/aletta/chat.rpy:350
-translate russian aletta_good_sweet_talk_male_351c08ab:
+translate russian aletta_good_sweet_talk_male_732514b0:
     aletta.say "Я... я даже не знаю, что сказать!"
 
 # ch/aletta/chat.rpy:352
@@ -1085,7 +1085,7 @@ translate russian aletta_good_sweet_talk_male_a3cec3f0:
     mike.say "А вне работы с тобой ещё и очень весело!"
 
 # ch/aletta/chat.rpy:366
-translate russian aletta_good_sweet_talk_male_a8543bb8:
+translate russian aletta_good_sweet_talk_male_118eaf0a:
     aletta.say "О... спасибо!"
 
 # ch/aletta/chat.rpy:372
@@ -1101,7 +1101,7 @@ translate russian aletta_bad_sweet_talk_male_8a0f0d5e:
     aletta.say "Что с собранными волосами и в очках я выгляжу ужасно?!"
 
 # ch/aletta/chat.rpy:376
-translate russian aletta_bad_sweet_talk_male_f9e90ab7:
+translate russian aletta_bad_sweet_talk_male_f9fd4e87:
     mike.say "Эм... нет... прости, Алетта!"
 
 # ch/aletta/condom.rpy:3
@@ -1589,7 +1589,7 @@ translate russian aletta_date_intro_halloween_male_82566c4e:
     aletta.say "Будешь так на меня смотреть — узнаешь, что ещё я умею хорошо."
 
 # ch/aletta/date.rpy:42
-translate russian aletta_date_intro_halloween_male_7e09d113:
+translate russian aletta_date_intro_halloween_male_33ab869f:
     aletta.say "Хм... мне уже говорили, что она мне идёт!"
 
 # ch/aletta/date.rpy:46
@@ -1717,7 +1717,7 @@ translate russian aletta_date_intro_mc_birthday_male_c2488e7b:
     aletta.say "Ты ничего не забыл?"
 
 # ch/aletta/date.rpy:90
-translate russian aletta_date_intro_mc_birthday_male_4a998abb:
+translate russian aletta_date_intro_mc_birthday_male_c3b60b77:
     mike.say "Эм... не думаю..."
 
 # ch/aletta/date.rpy:91
@@ -1725,7 +1725,7 @@ translate russian aletta_date_intro_mc_birthday_male_701dc650:
     aletta.say "С днём рождения, [lssb_aletta.hero_name()]!"
 
 # ch/aletta/date.rpy:92
-translate russian aletta_date_intro_mc_birthday_male_1fbe36cb:
+translate russian aletta_date_intro_mc_birthday_male_cc654228:
     mike.say "О... точно!"
 
 # ch/aletta/date.rpy:93
@@ -2045,7 +2045,7 @@ translate russian aletta_date_play_arcade_win_male_f7cd5d72:
     aletta.say "Но я учитывала отдачу при прицеливании!"
 
 # ch/aletta/date.rpy:221
-translate russian aletta_date_play_arcade_win_male_11527a82:
+translate russian aletta_date_play_arcade_win_male_c8cb092f:
     aletta.say "И... чёрт..."
 
 # ch/aletta/date.rpy:222
@@ -2169,7 +2169,7 @@ translate russian aletta_dick_reactions_edd5021d:
     aletta.say "Ну что ж..."
 
 # ch/aletta/date.rpy:265
-translate russian aletta_dick_reactions_bc082534:
+translate russian aletta_dick_reactions_75969ec8:
     mike.say "Ты... ты говоришь так, будто разочарована, Алетта!"
 
 # ch/aletta/date.rpy:266
@@ -2273,11 +2273,11 @@ translate russian aletta_halloween_invitation_cb9f5333:
     "Но отступать уже поздно..."
 
 # ch/aletta/date.rpy:302
-translate russian aletta_halloween_invitation_729e0361:
+translate russian aletta_halloween_invitation_c98ec304:
     mike.say "Ха... ну..."
 
 # ch/aletta/date.rpy:303
-translate russian aletta_halloween_invitation_316e91dc:
+translate russian aletta_halloween_invitation_858e1938:
     mike.say "Мы собирались... вообще-то это скорее идея моих соседей..."
 
 # ch/aletta/date.rpy:304
@@ -2289,7 +2289,7 @@ translate russian aletta_halloween_invitation_e7458dd3:
     mike.say "И я хотел спросить, не хочешь ли ты прийти?"
 
 # ch/aletta/date.rpy:306
-translate russian aletta_halloween_invitation_6d88a100:
+translate russian aletta_halloween_invitation_c520bef0:
     mike.say "Возможно... в качестве моей... ну, понимаешь... спутницы?"
 
 # ch/aletta/date.rpy:309
@@ -2317,7 +2317,7 @@ translate russian aletta_halloween_invitation_5554486d:
     "Она действительно сказала то, что мне послышалось?"
 
 # ch/aletta/date.rpy:318
-translate russian aletta_halloween_invitation_c00f6550:
+translate russian aletta_halloween_invitation_5aac4813:
     mike.say "Т... ты выйдешь?"
 
 # ch/aletta/date.rpy:319
@@ -2493,7 +2493,7 @@ translate russian aletta_halloween_arrival_c6047b42:
     "И всё её тело затянуто в чёрный облегающий комбинезон."
 
 # ch/aletta/date.rpy:383
-translate russian aletta_halloween_arrival_34c9473d:
+translate russian aletta_halloween_arrival_f62e3518:
     mike.say "Б... Б... Байолетта..."
 
 # ch/aletta/date.rpy:385
@@ -2617,7 +2617,7 @@ translate russian aletta_halloween_arrival_7a3c4b9d:
     "Будто она пытается прикрыться."
 
 # ch/aletta/date.rpy:433
-translate russian aletta_halloween_arrival_65cd9eab:
+translate russian aletta_halloween_arrival_56835e14:
     aletta.say "Ч... что ты имеешь в виду?"
 
 # ch/aletta/date.rpy:434
@@ -2645,7 +2645,7 @@ translate russian aletta_halloween_arrival_ce5bee35:
     mike.say "Наверное, я думал, что и вне офиса ты такая же."
 
 # ch/aletta/date.rpy:442
-translate russian aletta_halloween_arrival_351c08ab:
+translate russian aletta_halloween_arrival_732514b0:
     aletta.say "Я... я даже не знаю, что сказать!"
 
 # ch/aletta/date.rpy:444
@@ -2677,7 +2677,7 @@ translate russian aletta_halloween_party_2ede0c9d:
     aletta.say "Мне послышалось, или ты только что неодобрительно цокнула в мою сторону?"
 
 # ch/aletta/date.rpy:468
-translate russian aletta_halloween_party_f32c6810:
+translate russian aletta_halloween_party_f4c355ed:
     bree.say "Нет... я... ну..."
 
 # ch/aletta/date.rpy:469
@@ -2697,7 +2697,7 @@ translate russian aletta_halloween_party_e29aab85:
     "И по опыту я знаю, что [bree.name] так просто не отделается."
 
 # ch/aletta/date.rpy:477
-translate russian aletta_halloween_party_c63dbf96:
+translate russian aletta_halloween_party_c2ff433f:
     bree.say "Всё... всё дело в пистолетах."
 
 # ch/aletta/date.rpy:479
@@ -2705,7 +2705,7 @@ translate russian aletta_halloween_party_f6bf8948:
     aletta.say "Ой, да ладно, это всего лишь игрушки!"
 
 # ch/aletta/date.rpy:481
-translate russian aletta_halloween_party_1500f0e9:
+translate russian aletta_halloween_party_092d97eb:
     bree.say "Ну... мой отец помешан на оружии."
 
 # ch/aletta/date.rpy:482
@@ -2719,10 +2719,6 @@ translate russian aletta_halloween_party_a34b5d12:
 # ch/aletta/date.rpy:487
 translate russian aletta_halloween_party_c90eee48:
     aletta.say "По-моему, сумасшедшая здесь вовсе не твой отец..."
-
-# ch/aletta/date.rpy:491
-translate russian aletta_halloween_party_89d331f9:
-    mike.say "Алетта права, [bree.name]."
 
 # ch/aletta/date.rpy:492
 translate russian aletta_halloween_party_23250330:
@@ -2861,7 +2857,7 @@ translate russian aletta_halloween_dance_e84ffc6f:
     mike.say "Что?"
 
 # ch/aletta/date.rpy:563
-translate russian aletta_halloween_dance_b3d122b2:
+translate russian aletta_halloween_dance_23a6543b:
     mike.say "О... прости, Алетта."
 
 # ch/aletta/date.rpy:564
@@ -3404,25 +3400,9 @@ translate russian aletta_stress_587bc899:
 translate russian aletta_stress_f3cef474:
     "Через некоторое время перестаёшь это замечать, словно её крики растворяются в обычном офисном шуме."
 
-# ch/aletta/events.rpy:797
-translate russian aletta_stress_7510275d:
-    "Поэтому я удивляюсь, услышав из дверного проёма сдержанный и почти деликатный кашель."
-
-# ch/aletta/events.rpy:798
-translate russian aletta_stress_798be5f7:
-    "Я поднимаю взгляд, полностью ожидая увидеть там одну из более робких и спокойных девушек."
-
-# ch/aletta/events.rpy:800
-translate russian aletta_stress_81e605ec:
-    "Но вместо этого вижу Алетту, которая смотрит прямо на меня с болезненной улыбкой."
-
 # ch/aletta/events.rpy:801
 translate russian aletta_stress_d6be390c:
     mike.say "Эм, Алетта..."
-
-# ch/aletta/events.rpy:802
-translate russian aletta_stress_11c7c0f0:
-    mike.say "Прости, я не услышал, как ты вошла!"
 
 # ch/aletta/events.rpy:803
 translate russian aletta_stress_da127422:
@@ -3441,7 +3421,7 @@ translate russian aletta_stress_c0899a20:
     "С ней перед бурей иногда наступает почти зловещая тишина."
 
 # ch/aletta/events.rpy:807
-translate russian aletta_stress_f7f0fb51:
+translate russian aletta_stress_2ca49524:
     aletta.say "Я... я просто хотела сообщить..."
 
 # ch/aletta/events.rpy:808
@@ -3489,7 +3469,7 @@ translate russian aletta_stress_5a30fb8b:
     aletta.say "Я хотела сказать, чтобы ты пока оставил их у себя."
 
 # ch/aletta/events.rpy:819
-translate russian aletta_stress_cf45d219:
+translate russian aletta_stress_d57d5c57:
     aletta.say "Я... я опаздываю с отчётом, для которого они нужны..."
 
 # ch/aletta/events.rpy:820
@@ -3549,7 +3529,7 @@ translate russian aletta_stress_8d64e0c7:
     mike.say "Тревожно видеть, что ты выбилась из ритма."
 
 # ch/aletta/events.rpy:834
-translate russian aletta_stress_8b1cc733:
+translate russian aletta_stress_80e5619e:
     aletta.say "Я... я не знаю, что со мной, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:835
@@ -3744,10 +3724,6 @@ translate russian aletta_stress_2b_9a315a30:
 translate russian aletta_stress_2b_42eaf4ab:
     "Но теперь мы целыми днями не оказываемся в одной комнате."
 
-# ch/aletta/events.rpy:903
-translate russian aletta_stress_2b_c7fd4b06:
-    "Пока однажды я не слышу стук в дверь и, подняв взгляд, не вижу её в проёме."
-
 # ch/aletta/events.rpy:904
 translate russian aletta_stress_2b_e20a2795:
     "Мой мозг мгновенно переключается на автопилот, и я жду, пока Алетта заговорит первой."
@@ -3769,7 +3745,7 @@ translate russian aletta_stress_2b_5c80a738:
     "Несколько раз она открывает рот, собираясь заговорить, но замолкает, как только кто-то проходит рядом."
 
 # ch/aletta/events.rpy:910
-translate russian aletta_stress_2b_df2c8906:
+translate russian aletta_stress_2b_8ceba2b5:
     "Она... она действительно нервничает?"
 
 # ch/aletta/events.rpy:911
@@ -3779,10 +3755,6 @@ translate russian aletta_stress_2b_f1d8a63c:
 # ch/aletta/events.rpy:912
 translate russian aletta_stress_2b_94cfce31:
     mike.say "Доброе утро, Алетта."
-
-# ch/aletta/events.rpy:913
-translate russian aletta_stress_2b_b3494565:
-    mike.say "Не хочешь войти?"
 
 # ch/aletta/events.rpy:914
 translate russian aletta_stress_2b_1fb17204:
@@ -3796,10 +3768,6 @@ translate russian aletta_stress_2b_f42f43c4:
 translate russian aletta_stress_2b_cb97ef18:
     aletta.say "Кхм..."
 
-# ch/aletta/events.rpy:918
-translate russian aletta_stress_2b_54a5e810:
-    aletta.say "Да, [lssb_aletta.hero_name()], хочу."
-
 # ch/aletta/events.rpy:919
 translate russian aletta_stress_2b_651b6121:
     aletta.say "И в будущем я была бы признательна, если бы меня не заставляли вот так стоять и ждать!"
@@ -3807,10 +3775,6 @@ translate russian aletta_stress_2b_651b6121:
 # ch/aletta/events.rpy:920
 translate russian aletta_stress_2b_1af7c005:
     "Но едва закончив, Алетта снова возвращается в прежнее взволнованное состояние."
-
-# ch/aletta/events.rpy:921
-translate russian aletta_stress_2b_39bd180b:
-    "Она торопливо входит в кабинет и закрывает за собой дверь."
 
 # ch/aletta/events.rpy:922
 translate russian aletta_stress_2b_ad836cd5:
@@ -3969,7 +3933,7 @@ translate russian aletta_stress_2b_f16e5083:
     "Но меньше всего я мог представить, что она придёт и попросит повторить!"
 
 # ch/aletta/events.rpy:968
-translate russian aletta_stress_2b_04d88871:
+translate russian aletta_stress_2b_d9d6a1db:
     mike.say "Ты... ты серьёзно, Алетта?"
 
 # ch/aletta/events.rpy:969
@@ -4125,7 +4089,7 @@ translate russian aletta_stress_2b_de5314e9:
     mike.say "Мне очень жаль, что тебе пришлось через это пройти."
 
 # ch/aletta/events.rpy:1015
-translate russian aletta_stress_2b_88bcc9f9:
+translate russian aletta_stress_2b_1f63338c:
     mike.say "Я... я не смогу сделать это с тобой снова!"
 
 # ch/aletta/events.rpy:1017
@@ -4361,7 +4325,7 @@ translate russian aletta_stress_meeting_850424ca:
     "Но затем Сиори задаёт вопрос вслух, и проигнорировать его уже невозможно."
 
 # ch/aletta/events.rpy:1092
-translate russian aletta_stress_meeting_35c1488b:
+translate russian aletta_stress_meeting_4d563bfb:
     shiori.say "Я... простите, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:1093
@@ -4397,7 +4361,7 @@ translate russian aletta_stress_meeting_99bd6f2b:
     aletta.say "Сборище чёртовых идиотов?!"
 
 # ch/aletta/events.rpy:1108
-translate russian aletta_stress_meeting_e18970a3:
+translate russian aletta_stress_meeting_b6af347b:
     mike.say "Ладно... ладно..."
 
 # ch/aletta/events.rpy:1109
@@ -4477,7 +4441,7 @@ translate russian aletta_stress_meeting_ce565589:
     aletta.say "Ах..."
 
 # ch/aletta/events.rpy:1133
-translate russian aletta_stress_meeting_22613959:
+translate russian aletta_stress_meeting_08f658c4:
     aletta.say "О... о боже!"
 
 # ch/aletta/events.rpy:1135
@@ -4501,15 +4465,15 @@ translate russian aletta_stress_meeting_9fbc8b50:
     "Я представляю, как там сжимаются её кулаки и ногти впиваются в ладони!"
 
 # ch/aletta/events.rpy:1140
-translate russian aletta_stress_meeting_642b6b75:
+translate russian aletta_stress_meeting_8ee29724:
     aletta.say "О нет... о нет..."
 
 # ch/aletta/events.rpy:1141
-translate russian aletta_stress_meeting_31001641:
+translate russian aletta_stress_meeting_45eae3cf:
     aletta.say "Только не здесь... не сейчас!"
 
 # ch/aletta/events.rpy:1142
-translate russian aletta_stress_meeting_a0c3fe11:
+translate russian aletta_stress_meeting_9e1fddf1:
     aletta.say "О... о, БЛЯТЬ!"
 
 # ch/aletta/events.rpy:1143
@@ -4637,7 +4601,7 @@ translate russian aletta_stress_3_8f4d9625:
     "Причём так, чтобы я непременно заглянул ей в декольте."
 
 # ch/aletta/events.rpy:1191
-translate russian aletta_stress_3_2b9d42fb:
+translate russian aletta_stress_3_f93525c0:
     mike.say "Я... я..."
 
 # ch/aletta/events.rpy:1192
@@ -4781,7 +4745,7 @@ translate russian aletta_kink_03_3090270c:
     "Но затем огонь в её взгляде угасает, и она качает головой."
 
 # ch/aletta/events.rpy:1255
-translate russian aletta_kink_03_6e1a605b:
+translate russian aletta_kink_03_85667714:
     aletta.say "Я... прости, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:1256
@@ -4853,7 +4817,7 @@ translate russian aletta_kink_03_3d38df81:
     "И тут до меня доходит: она смотрит с надеждой, почти умоляюще!"
 
 # ch/aletta/events.rpy:1277
-translate russian aletta_kink_03_e16c1ab6:
+translate russian aletta_kink_03_fa3b0e04:
     mike.say "Ты... хочешь, чтобы я снова воспользовался той штукой?"
 
 # ch/aletta/events.rpy:1279
@@ -4865,7 +4829,7 @@ translate russian aletta_kink_03_7955e1c3:
     aletta.say "Не думаю, что это сработает, если я заранее буду знать."
 
 # ch/aletta/events.rpy:1281
-translate russian aletta_kink_03_9612fbe0:
+translate russian aletta_kink_03_fc6dce4a:
     aletta.say "Я подумала, что ты мог бы... ну, проявить фантазию?"
 
 # ch/aletta/events.rpy:1283
@@ -4885,7 +4849,7 @@ translate russian aletta_kink_03_07057fde:
     "Неужели безумно сексуальная женщина действительно просит превратить её в мою игрушку?"
 
 # ch/aletta/events.rpy:1289
-translate russian aletta_kink_03_e72a0a4d:
+translate russian aletta_kink_03_718c44a8:
     mike.say "К... конечно, Алетта!"
 
 # ch/aletta/events.rpy:1290
@@ -4945,7 +4909,7 @@ translate russian aletta_kink_03_deab3d8b:
     "А от её декольте кое-что другое определённо начинает увеличиваться!"
 
 # ch/aletta/events.rpy:1307
-translate russian aletta_kink_03_6454460d:
+translate russian aletta_kink_03_daed72ea:
     mike.say "Я... я сделаю всё, чтобы помочь, Алетта!"
 
 # ch/aletta/events.rpy:1309
@@ -5013,7 +4977,7 @@ translate russian aletta_kink_03_6108e518:
     mike.say "Я бы ни за что не стал тебя так провоцировать, если бы знал..."
 
 # ch/aletta/events.rpy:1330
-translate russian aletta_kink_03_89dd352e:
+translate russian aletta_kink_03_bb216b44:
     mike.say "Ну... если бы знал, что они с тобой делают!"
 
 # ch/aletta/events.rpy:1331
@@ -5029,7 +4993,7 @@ translate russian aletta_kink_03_8b76eb7f:
     "Но затем сдерживается и выдавливает кивок."
 
 # ch/aletta/events.rpy:1334
-translate russian aletta_kink_03_4d2a3e27:
+translate russian aletta_kink_03_1ed2760d:
     aletta.say "Х... хорошо, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:1335
@@ -5233,11 +5197,11 @@ translate russian aletta_kink_04_ce565589:
     aletta.say "Ах..."
 
 # ch/aletta/events.rpy:1409
-translate russian aletta_kink_04_ae547045:
+translate russian aletta_kink_04_559d6ae3:
     aletta.say "М... моя задница..."
 
 # ch/aletta/events.rpy:1410
-translate russian aletta_kink_04_c2d6f37c:
+translate russian aletta_kink_04_a99346d2:
     aletta.say "Ты... ты меня отшлёпал!"
 
 # ch/aletta/events.rpy:1416
@@ -5373,11 +5337,11 @@ translate russian aletta_kink_04_c785b37a:
     "А ещё через несколько мгновений даже обретает дар речи."
 
 # ch/aletta/events.rpy:1482
-translate russian aletta_kink_04_24b75fb8:
+translate russian aletta_kink_04_d0056a94:
     aletta.say "Я... я..."
 
 # ch/aletta/events.rpy:1483
-translate russian aletta_kink_04_d41a1358:
+translate russian aletta_kink_04_c100932e:
     aletta.say "Мне... потрясающе!"
 
 # ch/aletta/events.rpy:1486
@@ -5405,7 +5369,7 @@ translate russian aletta_kink_04_3cce90e0:
     "Но я вижу, что щёки на её лице покраснели не меньше тех, что скрываются под юбкой!"
 
 # ch/aletta/events.rpy:1493
-translate russian aletta_kink_04_82e6fc39:
+translate russian aletta_kink_04_4b2347d0:
     aletta.say "О... об этом можешь не беспокоиться, [lssb_aletta.hero_name()]!"
 
 # ch/aletta/events.rpy:1494
@@ -5413,7 +5377,7 @@ translate russian aletta_kink_04_1a571485:
     aletta.say "Ты бы хотел..."
 
 # ch/aletta/events.rpy:1496
-translate russian aletta_kink_04_3c0faa8f:
+translate russian aletta_kink_04_9fdb80f1:
     aletta.say "Не знаю... может, как-нибудь повторим?"
 
 # ch/aletta/events.rpy:1497
@@ -5497,11 +5461,11 @@ translate russian aletta_kink_04_c785b37a_1:
     "А ещё через несколько мгновений даже обретает дар речи."
 
 # ch/aletta/events.rpy:1536
-translate russian aletta_kink_04_24b75fb8_1:
+translate russian aletta_kink_04_d0056a94_1:
     aletta.say "Я... я..."
 
 # ch/aletta/events.rpy:1537
-translate russian aletta_kink_04_c6034ff3:
+translate russian aletta_kink_04_e3f31f38:
     aletta.say "Мне... довольно хорошо!"
 
 # ch/aletta/events.rpy:1540
@@ -5517,7 +5481,7 @@ translate russian aletta_kink_04_0e9f5b50:
     mike.say "Но я не думаю, что смогу снова это сделать, Алетта."
 
 # ch/aletta/events.rpy:1543
-translate russian aletta_kink_04_cea352b8:
+translate russian aletta_kink_04_04535cc6:
     mike.say "В смысле... мы можем найти другой способ... если захочешь."
 
 # ch/aletta/events.rpy:1544
@@ -5531,14 +5495,6 @@ translate russian aletta_kink_04_bbd8e983:
 # ch/aletta/events.rpy:1547
 translate russian aletta_kink_04_d8c692fe:
     "Однако сейчас у неё, похоже, нет сил спорить."
-
-# ch/aletta/events.rpy:1557
-translate russian aletta_kink_05_20f60480:
-    "Я без промедления вхожу в кабинет Алетты."
-
-# ch/aletta/events.rpy:1558
-translate russian aletta_kink_05_37995257:
-    "Просто распахиваю дверь и врываюсь внутрь, даже не постучав."
 
 # ch/aletta/events.rpy:1559
 translate russian aletta_kink_05_2500d3ef:
@@ -5637,7 +5593,7 @@ translate russian aletta_kink_05_b4294e26:
     "Наверное, она уже догадалась, что скалолазанием мы заниматься не будем!"
 
 # ch/aletta/events.rpy:1592
-translate russian aletta_kink_05_0959fa7a:
+translate russian aletta_kink_05_85ab0275:
     aletta.say "Ты... ты уверен, [lssb_aletta.hero_name()]?"
 
 # ch/aletta/events.rpy:1593
@@ -5705,7 +5661,7 @@ translate russian aletta_kink_05_899d16ca:
     "Поэтому всё проходит гладко, и вскоре Алетта оказывается полностью связанной."
 
 # ch/aletta/events.rpy:1613
-translate russian aletta_kink_05_d880d8ad:
+translate russian aletta_kink_05_ed4d3abb:
     "Ну... почти гладко."
 
 # ch/aletta/events.rpy:1615
@@ -5761,7 +5717,7 @@ translate russian aletta_kink_05_e314c139:
     aletta.say "М-м-м..."
 
 # ch/aletta/events.rpy:1632
-translate russian aletta_kink_05_fe6289a7:
+translate russian aletta_kink_05_15f363e6:
     aletta.say "М-м... м-м... М-М-М!"
 
 # ch/aletta/events.rpy:1633
@@ -5881,7 +5837,7 @@ translate russian aletta_kink_05_2f5f680d:
     mike.say "А мне разрешила воспользоваться её кабинетом, пока мой..."
 
 # ch/aletta/events.rpy:1669
-translate russian aletta_kink_05_d6bdec6b:
+translate russian aletta_kink_05_1b0d32fa:
     mike.say "Эм... обрабатывают от вредителей..."
 
 # ch/aletta/events.rpy:1670
@@ -5901,7 +5857,7 @@ translate russian aletta_kink_05_75c265e9:
     "И я вдвойне рад тому, что она ещё и самый ленивый человек во всём офисе."
 
 # ch/aletta/events.rpy:1674
-translate russian aletta_kink_05_6f942da0:
+translate russian aletta_kink_05_88bd2873:
     audrey.say "Хм... правда..."
 
 # ch/aletta/events.rpy:1675
@@ -5969,7 +5925,7 @@ translate russian aletta_kink_05_d7a0144c:
     mike.say "О, это просто я..."
 
 # ch/aletta/events.rpy:1697
-translate russian aletta_kink_05_d6ef8b4d:
+translate russian aletta_kink_05_917956ef:
     mike.say "Я... ударился коленом о стол, вот и всё."
 
 # ch/aletta/events.rpy:1698
@@ -6111,14 +6067,6 @@ translate russian aletta_kink_06_56bebd73:
 # ch/aletta/events.rpy:1756
 translate russian aletta_kink_06_71b5ea23:
     "Хотя до назначенного дня она держит любопытство при себе."
-
-# ch/aletta/events.rpy:1758
-translate russian aletta_kink_06_e3b2fc2d:
-    "И даже войдя в мой кабинет, она всё ещё не знает, что я приготовил."
-
-# ch/aletta/events.rpy:1759
-translate russian aletta_kink_06_067186f8:
-    "Алетта застаёт меня сидящим за столом и с улыбкой ожидающим её прихода."
 
 # ch/aletta/events.rpy:1760
 translate russian aletta_kink_06_a38f2867:
@@ -6573,7 +6521,7 @@ translate russian aletta_kink_07_1a5b5a9e:
     "В её случае это почти равносильно открытому признанию вины."
 
 # ch/aletta/events.rpy:1920
-translate russian aletta_kink_07_24b75fb8:
+translate russian aletta_kink_07_d0056a94:
     aletta.say "Я... я..."
 
 # ch/aletta/events.rpy:1921
@@ -6609,7 +6557,7 @@ translate russian aletta_kink_07_391b821b:
     "Затем качает головой, и на лице появляется понимание."
 
 # ch/aletta/events.rpy:1932
-translate russian aletta_kink_07_6e1a605b:
+translate russian aletta_kink_07_85667714:
     aletta.say "Я... прости, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:1933
@@ -6637,7 +6585,7 @@ translate russian aletta_kink_07_11de1727:
     "Видно, что бы ни занимало её мысли, это серьёзно влияет на неё во всех отношениях."
 
 # ch/aletta/events.rpy:1940
-translate russian aletta_kink_07_8e68dd4c:
+translate russian aletta_kink_07_e4186966:
     aletta.say "Я должна... кое в чём признаться."
 
 # ch/aletta/events.rpy:1941
@@ -6733,7 +6681,7 @@ translate russian aletta_kink_07_17745854:
     aletta.say "НЕТ!"
 
 # ch/aletta/events.rpy:1968
-translate russian aletta_kink_07_91f8ac0a:
+translate russian aletta_kink_07_4efe9e42:
     aletta.say "Я... то есть... нет!"
 
 # ch/aletta/events.rpy:1969
@@ -6793,7 +6741,7 @@ translate russian aletta_kink_07_6e837c62:
     "А теперь передо мной дрожащий комок извращённых желаний!"
 
 # ch/aletta/events.rpy:1986
-translate russian aletta_kink_07_e7214586:
+translate russian aletta_kink_07_c962720d:
     mike.say "Ты... ты серьёзно, Алетта?"
 
 # ch/aletta/events.rpy:1987
@@ -6857,7 +6805,7 @@ translate russian aletta_kink_07_d8def7e1:
     aletta.say "Ты ведь понимаешь, о чём я, [lssb_aletta.hero_name()]?"
 
 # ch/aletta/events.rpy:2004
-translate russian aletta_kink_07_220c46c7:
+translate russian aletta_kink_07_4f777b0b:
     aletta.say "И ты... чувствуешь то же самое, правда?"
 
 # ch/aletta/events.rpy:2005
@@ -7105,11 +7053,11 @@ translate russian aletta_kink_08_5029323d:
     aletta.say "Я просто хотела сказать..."
 
 # ch/aletta/events.rpy:2081
-translate russian aletta_kink_08_1da26ffe:
+translate russian aletta_kink_08_3dcf79e6:
     aletta.say "Все эти... эти вещи, которыми мы занимались..."
 
 # ch/aletta/events.rpy:2082
-translate russian aletta_kink_08_aeb33e89:
+translate russian aletta_kink_08_4fae3cf7:
     aletta.say "То, чем мы занимались вместе... из-за моего стресса..."
 
 # ch/aletta/events.rpy:2084
@@ -7441,7 +7389,7 @@ translate russian aletta_spanking_start_c02e4452:
     "Но за столь короткое время Алетта снова удивляет меня, не произнеся ни слова."
 
 # ch/aletta/events.rpy:2196
-translate russian aletta_spanking_start_3c2d1b45:
+translate russian aletta_spanking_start_258b70aa:
     mike.say "Алетта... ты хорошо себя чувствуешь?"
 
 # ch/aletta/events.rpy:2197
@@ -7469,7 +7417,7 @@ translate russian aletta_spanking_start_9f226fd5:
     aletta.say "Что..."
 
 # ch/aletta/events.rpy:2204
-translate russian aletta_spanking_start_6938b168:
+translate russian aletta_spanking_start_e9365195:
     aletta.say "Прости... прости, я просто..."
 
 # ch/aletta/events.rpy:2206
@@ -7537,7 +7485,7 @@ translate russian aletta_spanking_start_9ab9e744:
     "Да что с ней сегодня?"
 
 # ch/aletta/events.rpy:2224
-translate russian aletta_spanking_start_f3df5f72:
+translate russian aletta_spanking_start_73ca1408:
     aletta.say "Ты... ты имеешь право злиться, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:2225
@@ -7597,7 +7545,7 @@ translate russian aletta_spanking_start_14a3fa39:
     "Ей удаётся лишь в третий раз покачать головой."
 
 # ch/aletta/events.rpy:2242
-translate russian aletta_spanking_start_7d3c4b27:
+translate russian aletta_spanking_start_e0f50563:
     mike.say "Так... что?"
 
 # ch/aletta/events.rpy:2243
@@ -7613,7 +7561,7 @@ translate russian aletta_spanking_start_69e05292:
     mike.say "Но разве письма по электронной почте было бы недостаточно?"
 
 # ch/aletta/events.rpy:2246
-translate russian aletta_spanking_start_9d695a25:
+translate russian aletta_spanking_start_d5321071:
     aletta.say "Это... был не мой сотрудник."
 
 # ch/aletta/events.rpy:2247
@@ -7621,7 +7569,7 @@ translate russian aletta_spanking_start_5f9578ab:
     "Кажется, каждое слово даётся Алетте с огромным трудом."
 
 # ch/aletta/events.rpy:2249
-translate russian aletta_spanking_start_1fec0182:
+translate russian aletta_spanking_start_d0b2a046:
     aletta.say "Это была... я."
 
 # ch/aletta/events.rpy:2250
@@ -7681,7 +7629,7 @@ translate russian aletta_spanking_start_b339648e:
     aletta.say "И подумала, что извинение поможет избавиться от этого чувства."
 
 # ch/aletta/events.rpy:2267
-translate russian aletta_spanking_start_9a1d220c:
+translate russian aletta_spanking_start_f8517339:
     mike.say "И... помогло?"
 
 # ch/aletta/events.rpy:2268
@@ -7693,11 +7641,11 @@ translate russian aletta_spanking_start_9326ae69:
     aletta.say "Думаю, мне нужно нечто большее."
 
 # ch/aletta/events.rpy:2270
-translate russian aletta_spanking_start_0cc1bee8:
+translate russian aletta_spanking_start_f5732f5b:
     aletta.say "Словно... мне необходимо почувствовать, что меня отчитали за содеянное."
 
 # ch/aletta/events.rpy:2272
-translate russian aletta_spanking_start_ce7dbaab:
+translate russian aletta_spanking_start_f3ef3d19:
     aletta.say "Ну... что меня... наказали."
 
 # ch/aletta/events.rpy:2273
@@ -7705,7 +7653,7 @@ translate russian aletta_spanking_start_360076e7:
     "Алетта украдкой бросает на меня взгляд, в котором явно виден стыд."
 
 # ch/aletta/events.rpy:2274
-translate russian aletta_spanking_start_123404d3:
+translate russian aletta_spanking_start_a090376a:
     "Она... она действительно просит меня... наказать её?"
 
 # ch/aletta/events.rpy:2277
@@ -7773,7 +7721,7 @@ translate russian aletta_spanking_start_1b5b48ec:
     mike.say "В такой, где мы можем прийти друг к другу и свободно облегчить душу, не боясь насмешек или осуждения."
 
 # ch/aletta/events.rpy:2299
-translate russian aletta_spanking_start_e5c3f5d7:
+translate russian aletta_spanking_start_885d6e8f:
     mike.say "Но я также считаю, что, когда дисциплина всё же необходима, можно проявить... изобретательность!"
 
 # ch/aletta/events.rpy:2300
@@ -7881,7 +7829,7 @@ translate russian aletta_spanking_start_2c07a133:
     "Алетта поспешно опускает юбку и приводит себя в порядок."
 
 # ch/aletta/events.rpy:2353
-translate russian aletta_spanking_start_993a5671:
+translate russian aletta_spanking_start_1b66f187:
     aletta.say "С... спасибо, [lssb_aletta.hero_name()]..."
 
 # ch/aletta/events.rpy:2354
@@ -7893,7 +7841,7 @@ translate russian aletta_spanking_start_e6d3a45f:
     mike.say "Не за что, Алетта."
 
 # ch/aletta/events.rpy:2356
-translate russian aletta_spanking_start_d0e07f2b:
+translate russian aletta_spanking_start_7499548b:
     mike.say "Приходи в любое время, когда снова почувствуешь необходимость... извиниться передо мной!"
 
 # ch/aletta/events.rpy:2357
@@ -7917,7 +7865,7 @@ translate russian aletta_preg_talk_f3bac735:
     "Нужно взять себя в руки и перестать быть таким жалким развалиной!"
 
 # ch/aletta/events.rpy:2370
-translate russian aletta_preg_talk_7583bb30:
+translate russian aletta_preg_talk_520a3c3d:
     mike.say "Всё нормально, Алетта... я... просто волнуюсь за тебя, вот и всё."
 
 # ch/aletta/events.rpy:2371
@@ -7933,7 +7881,7 @@ translate russian aletta_preg_talk_b9316c3f:
     "И всё же кивает, показывая, что тема разговора важнее сомнений в моей искренности."
 
 # ch/aletta/events.rpy:2374
-translate russian aletta_preg_talk_1299f922:
+translate russian aletta_preg_talk_ba1da234:
     aletta.say "Ну да... Мне нужно сказать кое-что очень важное, и это действительно касается именно тебя."
 
 # ch/aletta/events.rpy:2375
@@ -7941,7 +7889,7 @@ translate russian aletta_preg_talk_bc047622:
     "Она делает паузу, а я энергично киваю, не позволяя ей даже ненадолго остановиться."
 
 # ch/aletta/events.rpy:2376
-translate russian aletta_preg_talk_968f0bb1:
+translate russian aletta_preg_talk_c9df5e70:
     mike.say "И это... что именно?"
 
 # ch/aletta/events.rpy:2377
@@ -7957,7 +7905,7 @@ translate russian aletta_preg_talk_ffbee981:
     "Это так похоже на Алетту: не ходить вокруг да около и не тратить время на украшение слов."
 
 # ch/aletta/events.rpy:2380
-translate russian aletta_preg_talk_8a1f7f7a:
+translate russian aletta_preg_talk_26876370:
     mike.say "Ты... беременна?"
 
 # ch/aletta/events.rpy:2381
@@ -7969,11 +7917,11 @@ translate russian aletta_preg_talk_b2086d1b:
     aletta.say "Да. Разве я только что сказала не это?"
 
 # ch/aletta/events.rpy:2383
-translate russian aletta_preg_talk_758e84ff:
+translate russian aletta_preg_talk_883061da:
     mike.say "Да... да, я услышал, Алетта."
 
 # ch/aletta/events.rpy:2384
-translate russian aletta_preg_talk_a25df134:
+translate russian aletta_preg_talk_593650de:
     mike.say "Просто это потрясение, понимаешь... слишком многое нужно осмыслить сразу."
 
 # ch/aletta/events.rpy:2385
@@ -8073,7 +8021,7 @@ translate russian aletta_preg_talk_f92d134b:
     "Но по лицу Алетты понимаю, что у меня не получается."
 
 # ch/aletta/events.rpy:2418
-translate russian aletta_preg_talk_da316f21:
+translate russian aletta_preg_talk_e272b2a1:
     aletta.say "Хм... я начинаю думать, что ошиблась в тебе, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:2419
@@ -8133,7 +8081,7 @@ translate russian aletta_preg_talk_8f4a6daa:
     aletta.say "Зачем ещё я бы всё тебе рассказывала, а не просто сделала аборт, если бы твоё мнение ничего не значило?"
 
 # ch/aletta/events.rpy:2438
-translate russian aletta_preg_talk_81085f1e:
+translate russian aletta_preg_talk_0c1f9e1a:
     mike.say "Что ж... возможно, я считаю, что лучше всего оставить ребёнка."
 
 # ch/aletta/events.rpy:2439
@@ -8145,7 +8093,7 @@ translate russian aletta_preg_talk_52cd2b2d:
     "Алетта косо смотрит на меня, словно взвешивая всю ситуацию."
 
 # ch/aletta/events.rpy:2442
-translate russian aletta_preg_talk_41372a6f:
+translate russian aletta_preg_talk_2a81d21e:
     aletta.say "Хм... я не до конца уверена, что ты справишься, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:2443
@@ -8185,7 +8133,7 @@ translate russian aletta_preg_talk_3fe0c7b8:
     aletta.say "В ближайшие день-два я позвоню в клинику и всё организую."
 
 # ch/aletta/events.rpy:2455
-translate russian aletta_preg_talk_4bc88b9a:
+translate russian aletta_preg_talk_a9c567bd:
     mike.say "Алетта... я оплачу свою часть расходов."
 
 # ch/aletta/events.rpy:2456
@@ -8193,7 +8141,7 @@ translate russian aletta_preg_talk_3d4c959b:
     "Она грустно улыбается и едва заметно кивает."
 
 # ch/aletta/events.rpy:2457
-translate russian aletta_preg_talk_c194c939:
+translate russian aletta_preg_talk_6c7d2b42:
     aletta.say "Хорошо... значит, решено..."
 
 # ch/aletta/events.rpy:2459
@@ -8229,7 +8177,7 @@ translate russian aletta_kiss_me_eddf1904:
     "И тут она целует меня, совершенно неожиданно."
 
 # ch/aletta/events.rpy:2474
-translate russian aletta_kiss_me_4572bafa:
+translate russian aletta_kiss_me_76c83f25:
     "Это невозможно описать... но я всё же попробую."
 
 # ch/aletta/events.rpy:2475
@@ -8593,7 +8541,7 @@ translate russian aletta_birthday_date_male_f80101ff:
     aletta.say "Не может быть!"
 
 # ch/aletta/events.rpy:2614
-translate russian aletta_birthday_date_male_c4aeca8a:
+translate russian aletta_birthday_date_male_293069e6:
     aletta.say "То есть... в конце концов я бы сама это заметила."
 
 # ch/aletta/events.rpy:2617
@@ -9729,7 +9677,7 @@ translate russian aletta_birthday_sex_c3e667c3:
     aletta.say "Тебе нравится, да?"
 
 # ch/aletta/events.rpy:3039
-translate russian aletta_birthday_sex_d16c4d14:
+translate russian aletta_birthday_sex_1cbdd7ca:
     mike.say "Д... да, Алетта..."
 
 # ch/aletta/events.rpy:3040
@@ -10969,7 +10917,7 @@ translate russian aletta_event_03b_3a2307d2:
     "А теперь придётся ещё и жить с воспоминанием о нём в чёрной коже, обтягивающей каждый изгиб!"
 
 # ch/aletta/events.rpy:3602
-translate russian aletta_event_03b_76d9f602:
+translate russian aletta_event_03b_b4ff28aa:
     mike.say "Э-э... Прости, Алетта, я, кажется, замечтался."
 
 # ch/aletta/events.rpy:3604
@@ -10989,7 +10937,7 @@ translate russian aletta_event_03b_d8d7f070:
     aletta.say "Отлично прочищает голову, уж поверь."
 
 # ch/aletta/events.rpy:3610
-translate russian aletta_event_03b_5c71acf2:
+translate russian aletta_event_03b_24bcacb8:
     mike.say "Хм... я не узнал тебя, пока ты не сняла шлем."
 
 # ch/aletta/events.rpy:3611
@@ -11009,7 +10957,7 @@ translate russian aletta_event_03b_da665838:
     mike.say "Я понятия не имел, что ты увлекаешься мотоциклами."
 
 # ch/aletta/events.rpy:3615
-translate russian aletta_event_03b_6851b040:
+translate russian aletta_event_03b_3486eb35:
     mike.say "По крайней мере, раньше я никогда не видел тебя на байке... да и на работе ты о них не говорила."
 
 # ch/aletta/events.rpy:3617
@@ -11041,7 +10989,7 @@ translate russian aletta_event_03b_35767f79:
     "Изображая повороты, она почти запрокидывает голову, и мне невольно кажется, что в воображении она страстно оседлала нечто совсем другое..."
 
 # ch/aletta/events.rpy:3627
-translate russian aletta_event_03b_8c14948d:
+translate russian aletta_event_03b_426a2cc3:
     aletta.say "Как бы то ни было... я не могу весь день сидеть здесь и болтать."
 
 # ch/aletta/events.rpy:3628
@@ -11053,7 +11001,7 @@ translate russian aletta_event_03b_840f21c3:
     "Она задумчиво замирает, причём настолько наигранно, что я подозреваю: всё было подготовлено заранее."
 
 # ch/aletta/events.rpy:3631
-translate russian aletta_event_03b_873f0866:
+translate russian aletta_event_03b_0f1237d4:
     aletta.say "Слушай... хочешь, я подвезу тебя домой?"
 
 # ch/aletta/events.rpy:3634
@@ -11069,7 +11017,7 @@ translate russian aletta_event_03b_6ee1ca2e:
     "Сейчас я ей полностью верю!"
 
 # ch/aletta/events.rpy:3641
-translate russian aletta_event_03b_cbd80ae9:
+translate russian aletta_event_03b_fa9689d7:
     mike.say "Эм... спасибо за предложение, Алетта."
 
 # ch/aletta/events.rpy:3642
@@ -11093,7 +11041,7 @@ translate russian aletta_event_03b_a49abdb7:
     "Но затем она кивает и пожимает плечами, вроде бы принимая объяснение."
 
 # ch/aletta/events.rpy:3650
-translate russian aletta_event_03b_5eb40836:
+translate russian aletta_event_03b_91125ec9:
     aletta.say "Хм... наверное, в этом есть смысл, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:3651
@@ -11145,11 +11093,11 @@ translate russian aletta_event_03b_d0afa907:
     "Но Алетта предложила мне прокатиться на её мотоцикле, а не на ней самой."
 
 # ch/aletta/events.rpy:3675
-translate russian aletta_event_03b_02c6344d:
+translate russian aletta_event_03b_27905bec:
     aletta.say "Просто держи ноги поднятыми и обязательно держись за меня... крепко."
 
 # ch/aletta/events.rpy:3676
-translate russian aletta_event_03b_4e78b349:
+translate russian aletta_event_03b_0d95047a:
     mike.say "Хорошо, хорошо... только не разгоняйся так, чтобы я свалился!"
 
 # ch/aletta/events.rpy:3677
@@ -11301,7 +11249,7 @@ translate russian aletta_event_03b_58c60555:
     "Алетта снимает шлем."
 
 # ch/aletta/events.rpy:3733
-translate russian aletta_event_03b_38842e16:
+translate russian aletta_event_03b_6706d0ad:
     mike.say "С... спасибо... спасибо, что подвезла... Алетта."
 
 # ch/aletta/events.rpy:3735
@@ -11325,7 +11273,7 @@ translate russian aletta_event_03b_09fab69b:
     "Алетта кивает и слегка машет рукой."
 
 # ch/aletta/events.rpy:3745
-translate russian aletta_event_03b_fc640aa0:
+translate russian aletta_event_03b_4665250e:
     aletta.say "Было весело... может, как-нибудь повторим?"
 
 # ch/aletta/events.rpy:3746
@@ -11821,7 +11769,7 @@ translate russian aletta_event_04b_c2494da8:
     "Но меня не заваливают предложениями настолько, чтобы я мог проигнорировать звонок от девушки вроде Алетты."
 
 # ch/aletta/events.rpy:3962
-translate russian aletta_event_04b_a624e721:
+translate russian aletta_event_04b_eb3aef67:
     mike.say "Привет... Алетта, что случилось?"
 
 # ch/aletta/events.rpy:3963
@@ -11917,15 +11865,15 @@ translate russian aletta_event_04b_d4cc2a65:
     "Может, это она помешанная на оружии?"
 
 # ch/aletta/events.rpy:3988
-translate russian aletta_event_04b_3247767f:
+translate russian aletta_event_04b_3e00dd7e:
     mike.say "Эм... звучит замечательно, Алетта."
 
 # ch/aletta/events.rpy:3989
-translate russian aletta_event_04b_2d049120:
+translate russian aletta_event_04b_cca05781:
     mike.say "Но мне придётся отказаться... прости."
 
 # ch/aletta/events.rpy:3990
-translate russian aletta_event_04b_0d1412fd:
+translate russian aletta_event_04b_4682b6ae:
     aletta.say "О... ладно, наверное."
 
 # ch/aletta/events.rpy:3991
@@ -11937,11 +11885,11 @@ translate russian aletta_event_04b_1e7909c6:
     "Вот и началось... Нужно срочно придумать убедительную отговорку."
 
 # ch/aletta/events.rpy:3993
-translate russian aletta_event_04b_95b0b44b:
+translate russian aletta_event_04b_a7be132d:
     mike.say "Помнишь, мы говорили, сколько работы накопилось на этой неделе в офисе?"
 
 # ch/aletta/events.rpy:3994
-translate russian aletta_event_04b_483a404e:
+translate russian aletta_event_04b_559d232c:
     aletta.say "Да... вроде бы..."
 
 # ch/aletta/events.rpy:3995
@@ -11993,7 +11941,7 @@ translate russian aletta_event_04b_41ab7da5:
     "Кажется, мне действительно удалось выкрутиться!"
 
 # ch/aletta/events.rpy:4011
-translate russian aletta_event_04b_57e87f52:
+translate russian aletta_event_04b_9305f941:
     mike.say "Тир... конечно, почему бы и нет."
 
 # ch/aletta/events.rpy:4012
@@ -12125,7 +12073,7 @@ translate russian aletta_event_04b_342fc2bc:
     aletta.say "Приятно знать, что у тебя вообще есть труба!"
 
 # ch/aletta/events.rpy:4099
-translate russian aletta_event_04b_4bee244f:
+translate russian aletta_event_04b_1862ce33:
     mike.say "Ну... каким придурком я был бы, если бы начал хвастаться сразу после твоего предложения пострелять?"
 
 # ch/aletta/events.rpy:4101
@@ -12149,7 +12097,7 @@ translate russian aletta_event_04b_3923b90e:
     mike.say "С тобой всё хорошо, Алетта?"
 
 # ch/aletta/events.rpy:4109
-translate russian aletta_event_04b_9e68880e:
+translate russian aletta_event_04b_66ce29ad:
     aletta.say "А, да... всё нормально."
 
 # ch/aletta/events.rpy:4110
@@ -12193,7 +12141,7 @@ translate russian aletta_event_04b_e43a78a6:
     "Теперь никто не стреляет, поэтому мы можем безопасно снять наушники."
 
 # ch/aletta/events.rpy:4138
-translate russian aletta_event_04b_eedc65eb:
+translate russian aletta_event_04b_dfc7146f:
     mike.say "Прости... кажется... я ужасно тебя опозорил, да?"
 
 # ch/aletta/events.rpy:4140
@@ -12213,7 +12161,7 @@ translate russian aletta_event_04b_9222bfb9:
     aletta.say "Ну, скажем так: если бы целью было ни разу не попасть в мишень, ты был бы прирождённым талантом."
 
 # ch/aletta/events.rpy:4147
-translate russian aletta_event_04b_f3c2a17b:
+translate russian aletta_event_04b_1dd3019c:
     mike.say "Как я уже сказал... прости."
 
 # ch/aletta/events.rpy:4148
@@ -12237,7 +12185,7 @@ translate russian aletta_event_04b_f2a380ce:
     "И, возможно, моя честность показалась ей довольно милой."
 
 # ch/aletta/events.rpy:4155
-translate russian aletta_event_04b_6f0296ab:
+translate russian aletta_event_04b_dd335feb:
     aletta.say "Я всегда могу тебя научить... если хочешь?"
 
 # ch/aletta/events.rpy:4157
@@ -12721,7 +12669,7 @@ translate russian aletta_event_05b_f2988282:
     aletta.say "Я полагала, ты всё-таки пригласишь меня войти?"
 
 # ch/aletta/events.rpy:4385
-translate russian aletta_event_05b_264dfb6a:
+translate russian aletta_event_05b_4ea515e9:
     mike.say "А, да... конечно... заходи!"
 
 # ch/aletta/events.rpy:4387
@@ -12933,15 +12881,15 @@ translate russian aletta_event_05b_64f6cb5f:
     aletta.say "Ты в порядке?"
 
 # ch/aletta/events.rpy:4474
-translate russian aletta_event_05b_f1c1723e:
+translate russian aletta_event_05b_35b5aa95:
     mike.say "Конечно, конечно... всё нормально."
 
 # ch/aletta/events.rpy:4475
-translate russian aletta_event_05b_4f8447d3:
+translate russian aletta_event_05b_21e9f017:
     mike.say "Просто... новый пистолет, понимаешь?"
 
 # ch/aletta/events.rpy:4476
-translate russian aletta_event_05b_94912e4e:
+translate russian aletta_event_05b_7389b162:
     aletta.say "Хорошо... но есть ещё одна вещь."
 
 # ch/aletta/events.rpy:4477
@@ -13533,7 +13481,7 @@ translate russian aletta_event_06_f0949e74:
     aletta.say "Думала, что буду так рада его смерти, что всё остальное не будет иметь значения."
 
 # ch/aletta/events.rpy:4751
-translate russian aletta_event_06_5c62c84c:
+translate russian aletta_event_06_b814fcd2:
     mike.say "Ты... ты ведь о Дуэйне, да?"
 
 # ch/aletta/events.rpy:4752
@@ -13549,7 +13497,7 @@ translate russian aletta_event_06_f9319d1d:
     aletta.say "Я не могу выбросить его из головы, [lssb_aletta.hero_name()]!"
 
 # ch/aletta/events.rpy:4756
-translate russian aletta_event_06_c4e69f92:
+translate russian aletta_event_06_7b3ef9d9:
     aletta.say "Каждый раз, когда закрываю глаза... он там!"
 
 # ch/aletta/events.rpy:4757
@@ -13749,11 +13697,11 @@ translate russian aletta_event_06_d4294c3a:
     mike.say "Иначе сядешь в тюрьму и уже не выйдешь."
 
 # ch/aletta/events.rpy:4823
-translate russian aletta_event_06_33048bbc:
+translate russian aletta_event_06_bbb7a55b:
     aletta.say "Н... но..."
 
 # ch/aletta/events.rpy:4824
-translate russian aletta_event_06_24b75fb8:
+translate russian aletta_event_06_d0056a94:
     aletta.say "Я... я..."
 
 # ch/aletta/events.rpy:4826
@@ -13801,7 +13749,7 @@ translate russian aletta_event_06_59795ad7:
     "Через мгновение она отводит взгляд и кивает, и я с облегчением выдыхаю."
 
 # ch/aletta/events.rpy:4839
-translate russian aletta_event_06_4d2a3e27:
+translate russian aletta_event_06_1ed2760d:
     aletta.say "Х... хорошо, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:4840
@@ -14501,7 +14449,7 @@ translate russian aletta_event_08_14f0d7cf:
     "Всё ещё чувствуя паранойю, я пытаюсь выяснить, какого чёрта ему нужно."
 
 # ch/aletta/events.rpy:5088
-translate russian aletta_event_08_59921b93:
+translate russian aletta_event_08_3ae97522:
     mike.say "Эм... вы..."
 
 # ch/aletta/events.rpy:5089
@@ -14517,7 +14465,7 @@ translate russian aletta_event_08_4bfe5346:
     "Детектив" "Мне поручили дело Дуэйна Джексона. Уверен, вы уже слышали о нём в новостях."
 
 # ch/aletta/events.rpy:5094
-translate russian aletta_event_08_e78d539c:
+translate russian aletta_event_08_70974929:
     "Майклс" "Человека такого положения находят мёртвым... Здесь только об этом и говорят."
 
 # ch/aletta/events.rpy:5096
@@ -14565,7 +14513,7 @@ translate russian aletta_event_08_14f0d7cf_1:
     "Всё ещё чувствуя паранойю, я пытаюсь спросить, чего же он хочет."
 
 # ch/aletta/events.rpy:5111
-translate russian aletta_event_08_59921b93_1:
+translate russian aletta_event_08_3ae97522_1:
     mike.say "А... вы..."
 
 # ch/aletta/events.rpy:5112
@@ -14633,7 +14581,7 @@ translate russian aletta_event_08_2ddc77e3:
     "Сейчас с тем же успехом это мог бы быть бутерброд с сыром: я совершенно не способен сосредоточиться."
 
 # ch/aletta/events.rpy:5132
-translate russian aletta_event_08_c2099015:
+translate russian aletta_event_08_fb595ecd:
     mike.say "Д... Д... Дуэйн?!"
 
 # ch/aletta/events.rpy:5134
@@ -14873,7 +14821,7 @@ translate russian aletta_event_08_0b2a6ebd:
     "Он немного отступает и поднимает руки в примирительном жесте."
 
 # ch/aletta/events.rpy:5214
-translate russian aletta_event_08_bae40768:
+translate russian aletta_event_08_65f4a835:
     "Майклс" "Эй... эй..."
 
 # ch/aletta/events.rpy:5215
@@ -14889,7 +14837,7 @@ translate russian aletta_event_08_a4b1dc9e:
     "Я отчаянно киваю, уже не способный остановиться."
 
 # ch/aletta/events.rpy:5219
-translate russian aletta_event_08_c8c97515:
+translate russian aletta_event_08_2ed8d982:
     mike.say "Да... да, сказал!"
 
 # ch/aletta/events.rpy:5220
@@ -15045,7 +14993,7 @@ translate russian aletta_event_09_ced8b9c7:
     "Но затем я замечаю, что она начинает улыбаться."
 
 # ch/aletta/events.rpy:5280
-translate russian aletta_event_09_cb24926c:
+translate russian aletta_event_09_c014b5a8:
     mike.say "Я... я не понимаю."
 
 # ch/aletta/events.rpy:5281
@@ -15105,7 +15053,7 @@ translate russian aletta_event_09_da3dee4e:
     "Я просто не понимаю, как всё это могло внезапно исчезнуть."
 
 # ch/aletta/events.rpy:5299
-translate russian aletta_event_09_2072608d:
+translate russian aletta_event_09_fe7ab08e:
     mike.say "То есть... всё действительно закончилось?"
 
 # ch/aletta/events.rpy:5300
@@ -15181,7 +15129,7 @@ translate russian aletta_event_09_5addddf4:
     "Но что-то внутри всё равно не позволяет отпустить чувство вины и тревогу!"
 
 # ch/aletta/events.rpy:5326
-translate russian aletta_event_09_a1c2f009:
+translate russian aletta_event_09_e70456b2:
     mike.say "Ого... то есть... просто невероятно!"
 
 # ch/aletta/events.rpy:5327
@@ -15261,7 +15209,7 @@ translate russian aletta_event_09_e667287a:
     aletta.say "Но когда убийство сходит тебе с рук..."
 
 # ch/aletta/events.rpy:5352
-translate russian aletta_event_09_5a06e992:
+translate russian aletta_event_09_df0544f7:
     aletta.say "Что ж... это довольно возбуждает!"
 
 # ch/aletta/events.rpy:5354
@@ -15333,7 +15281,7 @@ translate russian aletta_event_09_28bea41c:
     "Теперь я вижу, что такой вариант ей прежде даже не приходил в голову."
 
 # ch/aletta/events.rpy:5381
-translate russian aletta_event_09_ca462611:
+translate russian aletta_event_09_123ed655:
     aletta.say "Но... но он был чудовищем, [lssb_aletta.hero_name()]."
 
 # ch/aletta/events.rpy:5383
@@ -15437,7 +15385,7 @@ translate russian aletta_event_10_ba782958:
     "И одновременно заставить себя изобразить, надеюсь, убедительную улыбку."
 
 # ch/aletta/events.rpy:5423
-translate russian aletta_event_10_7a9b6fcc:
+translate russian aletta_event_10_305385e3:
     mike.say "Здесь... странно, Алетта."
 
 # ch/aletta/events.rpy:5424
@@ -15509,7 +15457,7 @@ translate russian aletta_event_10_445160c1:
     "Затем снова поворачиваюсь к ней, чувствуя, как сердце колотится в груди."
 
 # ch/aletta/events.rpy:5447
-translate russian aletta_event_10_e1e1e8c3:
+translate russian aletta_event_10_2400d47b:
     mike.say "Он... он мёртв, Алетта."
 
 # ch/aletta/events.rpy:5448
@@ -15813,7 +15761,7 @@ translate russian aletta_event_10_0320160b:
     "Когда она тоже кончает, я не вынимаю член и чувствую каждое мгновение её оргазма."
 
 # ch/aletta/events.rpy:5561
-translate russian aletta_event_10_67ed14a1:
+translate russian aletta_event_10_8f3d9c6f:
     aletta.say "Я... я люблю тебя, [lssb_aletta.hero_name()]!"
 
 # ch/aletta/events.rpy:5562
@@ -15837,7 +15785,7 @@ translate russian aletta_event_10_a7a09ff6:
     mike.say "О боже!"
 
 # ch/aletta/events.rpy:5569
-translate russian aletta_event_10_777c01df:
+translate russian aletta_event_10_afd2f11a:
     mike.say "Я... я тоже тебя люблю, Алетта!"
 
 # ch/aletta/events.rpy:5570
@@ -15865,7 +15813,7 @@ translate russian aletta_event_10_93396a3d:
     "Никакой маски профессионализма или превосходства."
 
 # ch/aletta/events.rpy:5576
-translate russian aletta_event_10_d7c6fe77:
+translate russian aletta_event_10_5f516c63:
     "Она выглядит просто... счастливой!"
 
 # ch/aletta/events.rpy:5577
@@ -15929,7 +15877,7 @@ translate russian aletta_event_10_b5fd1c4b:
     "Я качаю головой, всё ещё потрясённый нахлынувшими эмоциями."
 
 # ch/aletta/events.rpy:5602
-translate russian aletta_event_10_5ea1cb75:
+translate russian aletta_event_10_b5992eeb:
     mike.say "Я... я не ожидал этого, Алетта."
 
 # ch/aletta/events.rpy:5603
@@ -15953,7 +15901,7 @@ translate russian aletta_event_10_33d1a067:
     aletta.say "Я просто думала, что мы честны друг с другом."
 
 # ch/aletta/events.rpy:5610
-translate russian aletta_event_10_9739ac9c:
+translate russian aletta_event_10_5cdecc95:
     aletta.say "И... я не шучу, я правда тебя люблю!"
 
 # ch/aletta/events.rpy:5612
@@ -16097,7 +16045,7 @@ translate russian aletta_event_06_alt_444ce6ff:
     "Потому что на её лице появляется облегчение."
 
 # ch/aletta/events.rpy:5662
-translate russian aletta_event_06_alt_b542b05f:
+translate russian aletta_event_06_alt_c7058e95:
     aletta.say "В... вот ты где, [lssb_aletta.hero_name()]!"
 
 # ch/aletta/events.rpy:5663
@@ -16393,7 +16341,7 @@ translate russian aletta_event_08_alt_ec4150dc:
     mike.say "Какого..."
 
 # ch/aletta/events.rpy:5770
-translate russian aletta_event_08_alt_8fccd9f1:
+translate russian aletta_event_08_alt_f78ad155:
     mike.say "А... привет, Алетта!"
 
 # ch/aletta/events.rpy:5771
@@ -16797,7 +16745,7 @@ translate russian aletta_event_09_alt_97e6fe34:
     "Я всё ещё изрядно ошеломлён, но совершенно не сопротивляюсь."
 
 # ch/aletta/events.rpy:5900
-translate russian aletta_event_09_alt_65658b6d:
+translate russian aletta_event_09_alt_ddcd4814:
     mike.say "Р... рад..."
 
 # ch/aletta/events.rpy:5901
@@ -16841,7 +16789,7 @@ translate russian aletta_event_09_alt_6c68916d:
     aletta.say "Наладить баланс между работой и личной жизнью."
 
 # ch/aletta/events.rpy:5912
-translate russian aletta_event_09_alt_d16c4d14:
+translate russian aletta_event_09_alt_1cbdd7ca:
     mike.say "Д... да, Алетта..."
 
 # ch/aletta/events.rpy:5913
@@ -17609,11 +17557,11 @@ translate russian aletta_event_10_alt_fe24c277:
     "Я смотрю на неё и качаю головой, пытаясь осмыслить услышанное."
 
 # ch/aletta/events.rpy:6165
-translate russian aletta_event_10_alt_14048e9c:
+translate russian aletta_event_10_alt_ab91da05:
     mike.say "Т... ты серьёзно, Алетта?"
 
 # ch/aletta/events.rpy:6166
-translate russian aletta_event_10_alt_3c82b1cd:
+translate russian aletta_event_10_alt_b1989ad0:
     mike.say "То есть... это замечательно!"
 
 # ch/aletta/events.rpy:6167
@@ -17797,7 +17745,7 @@ translate russian aletta_event_10_alt_fired_59e2fe6d:
     mike.say "Ведь у тебя там была довольно хорошая должность, Алетта!"
 
 # ch/aletta/events.rpy:6232
-translate russian aletta_event_10_alt_fired_0b48c6e8:
+translate russian aletta_event_10_alt_fired_0457a661:
     mike.say "Ну... если не считать сексуальных домогательств..."
 
 # ch/aletta/events.rpy:6233
@@ -17869,7 +17817,7 @@ translate russian aletta_event_10_alt_fired_e74a212b:
     aletta.say "И она даже лучше предыдущей."
 
 # ch/aletta/events.rpy:6255
-translate russian aletta_event_10_alt_fired_3310fa8b:
+translate russian aletta_event_10_alt_fired_fa19e16d:
     mike.say "Значит, это... хорошо?"
 
 # ch/aletta/events.rpy:6256
@@ -17949,11 +17897,11 @@ translate russian aletta_event_10_alt_fired_fe24c277:
     "Я смотрю на неё и качаю головой, пытаясь осмыслить услышанное."
 
 # ch/aletta/events.rpy:6283
-translate russian aletta_event_10_alt_fired_14048e9c:
+translate russian aletta_event_10_alt_fired_ab91da05:
     mike.say "Т... ты серьёзно, Алетта?"
 
 # ch/aletta/events.rpy:6284
-translate russian aletta_event_10_alt_fired_3c82b1cd:
+translate russian aletta_event_10_alt_fired_b1989ad0:
     mike.say "То есть... это замечательно!"
 
 # ch/aletta/events.rpy:6285
@@ -17967,10 +17915,6 @@ translate russian aletta_chat_about_cherie_2facba07:
 # ch/aletta/events.rpy:6293
 translate russian aletta_chat_about_cherie_8f700c2f:
     mike.say "Конечно, без проблем."
-
-# ch/aletta/events.rpy:6294
-translate russian aletta_chat_about_cherie_a83d0d14:
-    aletta.say "Как прошла встреча с мачехой Кэссиди?"
 
 # ch/aletta/events.rpy:6295
 translate russian aletta_chat_about_cherie_c05eac28:
@@ -18029,7 +17973,7 @@ translate russian aletta_chat_about_cherie_bc432346:
     "Алетта вздыхает."
 
 # ch/aletta/events.rpy:6315
-translate russian aletta_chat_about_cherie_649368fa:
+translate russian aletta_chat_about_cherie_ba001361:
     aletta.say "Послушай, [lssb_aletta.hero_name()], я так долго была у Дуэйна... под каблуком, что почти привыкла. А потом появилась эта возможность, я начала надеяться, и теперь больше не могу так жить."
 
 # ch/aletta/events.rpy:6317
@@ -18093,7 +18037,7 @@ translate russian aletta_chat_about_cherie2_fb33ee29:
     mike.say "Ты в порядке?"
 
 # ch/aletta/events.rpy:6342
-translate russian aletta_chat_about_cherie2_ab81df6c:
+translate russian aletta_chat_about_cherie2_0ec89c7e:
     aletta.say "Да. Просто... я устала чувствовать себя шлюхой, понимаешь? Я уже почти достигла предела."
 
 # ch/aletta/events.rpy:6343
@@ -18121,7 +18065,7 @@ translate russian aletta_chat_about_cherie2_53e0aea3:
     mike.say "Кого? Шери?"
 
 # ch/aletta/events.rpy:6350
-translate russian aletta_chat_about_cherie2_4c971378:
+translate russian aletta_chat_about_cherie2_941ac8d0:
     mike.say "Я... не знаю. Возможно."
 
 # ch/aletta/events.rpy:6351
@@ -18129,7 +18073,7 @@ translate russian aletta_chat_about_cherie2_5b8c644d:
     aletta.say "Ты хочешь?"
 
 # ch/aletta/events.rpy:6354
-translate russian aletta_chat_about_cherie2_30c25a19:
+translate russian aletta_chat_about_cherie2_d864dc26:
     mike.say "Да. Она сексуальная, и... в том, чтобы отнять у него что-то, есть своя привлекательность."
 
 # ch/aletta/events.rpy:6355
@@ -18169,11 +18113,11 @@ translate russian aletta_chat_about_cherie2_3cc35d88:
     aletta.say "Серьёзно, [lssb_aletta.hero_name()], сколько у тебя женщин?"
 
 # ch/aletta/events.rpy:6373
-translate russian aletta_chat_about_cherie2_42f2c078:
+translate russian aletta_chat_about_cherie2_e86040ba:
     mike.say "Эм. Наверное... довольно много."
 
 # ch/aletta/events.rpy:6375
-translate russian aletta_chat_about_cherie2_0c6e4737:
+translate russian aletta_chat_about_cherie2_21918bad:
     mike.say "Это... несколько?"
 
 # ch/aletta/events.rpy:6377
@@ -18305,7 +18249,7 @@ translate russian aletta_chat_about_cherie2_7cb35bb1:
     aletta.say "Пожалуй, уже хоть что-то."
 
 # ch/aletta/events.rpy:6426
-translate russian aletta_chat_about_cherie2_9c36065f:
+translate russian aletta_chat_about_cherie2_2991e6bf:
     mike.say "Но... сейчас мы все делаем то, чего не очень хотим, разве нет?"
 
 # ch/aletta/events.rpy:6427
@@ -18317,7 +18261,7 @@ translate russian aletta_chat_about_cherie2_bc06cf78:
     mike.say "Да ладно, хоть немного приятно ведь должно быть? Или хотя бы когда-то было?"
 
 # ch/aletta/events.rpy:6429
-translate russian aletta_chat_about_cherie2_47e583e0:
+translate russian aletta_chat_about_cherie2_772bbd16:
     aletta.say "Ну... у него действительно самый большой... то есть..."
 
 # ch/aletta/events.rpy:6431
@@ -18553,7 +18497,7 @@ translate russian aletta_male_ending_a9538244:
     "Я понимаю, что теперь всё внимание обращено на меня."
 
 # ch/aletta/events.rpy:6512
-translate russian aletta_male_ending_6c5d427c:
+translate russian aletta_male_ending_af1870d2:
     mike.say "Д... да!"
 
 # ch/aletta/events.rpy:6513
@@ -18629,7 +18573,7 @@ translate russian aletta_male_ending_507019a3:
     "Но до тех пор я ни о чём другом и думать не могу..."
 
 # ch/aletta/events.rpy:6543
-translate russian aletta_male_ending_b1cb3382:
+translate russian aletta_male_ending_74be9579:
     aletta.say "Хм... мне, конечно, не нравится, что лишь сейчас мне наконец дали возможность говорить за себя!"
 
 # ch/aletta/events.rpy:6544
@@ -18637,7 +18581,7 @@ translate russian aletta_male_ending_df18add9:
     aletta.say "Я современная женщина, которой есть что сказать, и мне не нужен [lssb_aletta.hero_name()], чтобы говорить вместо меня!"
 
 # ch/aletta/events.rpy:6545
-translate russian aletta_male_ending_720e5ef8:
+translate russian aletta_male_ending_3886ee03:
     aletta.say "Но... должна признать: я его ЛЮБЛЮ, даже если порой он ведёт себя как типичный мужчина!"
 
 # ch/aletta/events.rpy:6546
@@ -18649,7 +18593,7 @@ translate russian aletta_male_ending_ed5ac6c3:
     aletta.say "А к тому моменту уже поздно: сама того не замечая, ты начинаешь поддаваться его обаянию."
 
 # ch/aletta/events.rpy:6548
-translate russian aletta_male_ending_2ced3435:
+translate russian aletta_male_ending_bd9df1f5:
     aletta.say "Но его дурацкое чувство юмора... вот к чему я никогда не привыкну!"
 
 # ch/aletta/events.rpy:6549
@@ -18661,7 +18605,7 @@ translate russian aletta_male_ending_eb9f54ed:
     aletta.say "Так представьте, насколько всё хуже теперь, когда мы женаты и вместе растим семью!"
 
 # ch/aletta/events.rpy:6551
-translate russian aletta_male_ending_236f4e08:
+translate russian aletta_male_ending_f954a40b:
     aletta.say "Ого... простите... просто всё это так странно произносить вслух!"
 
 # ch/aletta/events.rpy:6552
@@ -18713,7 +18657,7 @@ translate russian aletta_male_ending_e07574ec:
     aletta.say "Но, думаю, я также скрывала собственный страх перед материнством."
 
 # ch/aletta/events.rpy:6565
-translate russian aletta_male_ending_c5baa966:
+translate russian aletta_male_ending_341c0e44:
     aletta.say "То есть... откуда мне было знать, что делать с ребёнком?!"
 
 # ch/aletta/events.rpy:6566
@@ -18917,7 +18861,7 @@ translate russian aletta_male_ending_90deaad3:
     aletta.say "И я говорила себе, что его обращение со мной неважно, лишь бы помогало продвинуться по службе."
 
 # ch/aletta/events.rpy:6621
-translate russian aletta_male_ending_53e83d11:
+translate russian aletta_male_ending_c6dd9b3e:
     aletta.say "Д... думаю, именно этим [lssb_aletta.hero_name()] и отличался."
 
 # ch/aletta/events.rpy:6622
@@ -19125,7 +19069,7 @@ translate russian aletta_fuck_date_intro_male_686b9370:
     aletta.say "На самом деле это был лучший вечер за долгое время!"
 
 # ch/aletta/fuck.rpy:204
-translate russian aletta_fuck_date_intro_male_04829402:
+translate russian aletta_fuck_date_intro_male_0b60d8ce:
     mike.say "П... правда?"
 
 # ch/aletta/fuck.rpy:205
@@ -19157,7 +19101,7 @@ translate russian aletta_fuck_date_intro_male_1778c9f7:
     aletta.say "Ты устроил мне такой прекрасный вечер, что заслуживаешь награды."
 
 # ch/aletta/fuck.rpy:212
-translate russian aletta_fuck_date_intro_male_0ee4466b:
+translate russian aletta_fuck_date_intro_male_3350e178:
     mike.say "Я... знаю?"
 
 # ch/aletta/fuck.rpy:213
@@ -19237,7 +19181,7 @@ translate russian aletta_fuck_date_intro_male_9cdb3a9f:
     aletta.say "Не заставляй меня ждать, [lssb_aletta.hero_name()]..."
 
 # ch/aletta/fuck.rpy:239
-translate russian aletta_fuck_date_intro_male_2282eae6:
+translate russian aletta_fuck_date_intro_male_deb7ef54:
     aletta.say "Я хочу почувствовать твои руки по всему телу... начиная отсюда!"
 
 # ch/aletta/fuck.rpy:240
@@ -19297,7 +19241,7 @@ translate russian aletta_sleep_date_fuck_fd296d23:
     aletta.say "Мне разрешено остаться на ночь, Господин?"
 
 # ch/aletta/fuck.rpy:296
-translate russian aletta_sleep_date_fuck_2eaa39f6:
+translate russian aletta_sleep_date_fuck_b0b6d8de:
     mike.say "Эм... не думаю, что это хорошая идея..."
 
 # ch/aletta/fuck.rpy:297
@@ -19337,7 +19281,7 @@ translate russian aletta_sleep_date_fuck_0bd58036:
     aletta.say "Спасибо, [lssb_aletta.hero_name()]... Обещаю, ты не пожалеешь."
 
 # ch/aletta/fuck.rpy:312
-translate russian aletta_sleep_date_fuck_f8e2212f:
+translate russian aletta_sleep_date_fuck_4ef257fc:
     aletta.say "Спасибо, Господин... Обещаю, вы не пожалеете."
 
 # ch/aletta/fuck.rpy:313
@@ -19713,7 +19657,7 @@ translate russian aletta_fuck_date_assplay_70d22c49:
     "Я прижимаю к ней плоский язык и наконец надавливаю так, как она просила."
 
 # ch/aletta/fuck.rpy:429
-translate russian aletta_fuck_date_assplay_c240bc28:
+translate russian aletta_fuck_date_assplay_a2ea4fff:
     aletta.say "Поиграй с ней... пожалуйста!"
 
 # ch/aletta/fuck.rpy:430
@@ -20245,7 +20189,7 @@ translate russian aletta_fuck_date_missionary_240bd771:
     "Это было бы совершенно естественно."
 
 # ch/aletta/fuck.rpy:613
-translate russian aletta_fuck_date_missionary_9c26a8d3:
+translate russian aletta_fuck_date_missionary_85df3621:
     "Но кажется слишком... не знаю... очевидным!"
 
 # ch/aletta/fuck.rpy:614
@@ -20265,7 +20209,7 @@ translate russian aletta_fuck_date_missionary_97699ebe:
     aletta.say "Ох... [lssb_aletta.hero_name()]!"
 
 # ch/aletta/fuck.rpy:620
-translate russian aletta_fuck_date_missionary_8f7b9228:
+translate russian aletta_fuck_date_missionary_d1b66740:
     aletta.say "Ох... Господин!"
 
 # ch/aletta/fuck.rpy:621
@@ -20277,7 +20221,7 @@ translate russian aletta_fuck_date_missionary_104544bb:
     "Прежде чем Алетта успевает договорить, я первым толчком вхожу в неё."
 
 # ch/aletta/fuck.rpy:624
-translate russian aletta_fuck_date_missionary_d3364841:
+translate russian aletta_fuck_date_missionary_e102a831:
     aletta.say "ЗАДНИЦУ... В ЗАДНИЦУ!"
 
 # ch/aletta/fuck.rpy:626
@@ -20709,7 +20653,7 @@ translate russian aletta_fuck_date_missionary_37dd25a8:
     aletta.say "[lssb_aletta.hero_name()]... [lssb_aletta.hero_name()]!"
 
 # ch/aletta/fuck.rpy:823
-translate russian aletta_fuck_date_missionary_33543785:
+translate russian aletta_fuck_date_missionary_7a287a67:
     aletta.say "Ох, чёрт... чёрт!"
 
 # ch/aletta/fuck.rpy:824
@@ -20721,7 +20665,7 @@ translate russian aletta_fuck_date_missionary_df886bc4:
     mike.say "Что случилось?"
 
 # ch/aletta/fuck.rpy:827
-translate russian aletta_fuck_date_missionary_74675ae2:
+translate russian aletta_fuck_date_missionary_adf607a0:
     aletta.say "Ты... ты только что кончил в меня!"
 
 # ch/aletta/fuck.rpy:828
@@ -20749,11 +20693,11 @@ translate russian aletta_fuck_date_missionary_37dd25a8_1:
     aletta.say "[lssb_aletta.hero_name()]... [lssb_aletta.hero_name()]!"
 
 # ch/aletta/fuck.rpy:844
-translate russian aletta_fuck_date_missionary_2aa1b4c6:
+translate russian aletta_fuck_date_missionary_0c8c83c7:
     aletta.say "Господин... Господин!"
 
 # ch/aletta/fuck.rpy:845
-translate russian aletta_fuck_date_missionary_579e00d2:
+translate russian aletta_fuck_date_missionary_e7e9b007:
     mike.say "Ох, чёрт... Алетта..."
 
 # ch/aletta/fuck.rpy:846
@@ -20765,11 +20709,11 @@ translate russian aletta_fuck_date_missionary_192e31d1:
     "Алетта отчаянно качает головой и крепко держится за меня."
 
 # ch/aletta/fuck.rpy:848
-translate russian aletta_fuck_date_missionary_21f837c7:
+translate russian aletta_fuck_date_missionary_9d02fa70:
     aletta.say "Нет... нет... всё хорошо."
 
 # ch/aletta/fuck.rpy:849
-translate russian aletta_fuck_date_missionary_4983d785:
+translate russian aletta_fuck_date_missionary_8fca8666:
     aletta.say "Я хочу этого... хочу родить твоего ребёнка!"
 
 # ch/aletta/fuck.rpy:850
@@ -20861,7 +20805,7 @@ translate russian aletta_fuck_date_cowgirl_d73f2e1b:
     "Алетта выглядит немного подавленной, но покорно кивает."
 
 # ch/aletta/fuck.rpy:880
-translate russian aletta_fuck_date_cowgirl_9f3cd875:
+translate russian aletta_fuck_date_cowgirl_164b8017:
     aletta.say "Да, Господин... Простите, Господин."
 
 # ch/aletta/fuck.rpy:881
@@ -20897,7 +20841,7 @@ translate russian aletta_fuck_date_cowgirl_26864519:
     aletta.say "Ах... [lssb_aletta.hero_name()]... я хочу, чтобы ты был внутри..."
 
 # ch/aletta/fuck.rpy:890
-translate russian aletta_fuck_date_cowgirl_ab67594a:
+translate russian aletta_fuck_date_cowgirl_86aad39a:
     aletta.say "Пожалуйста... не заставляй меня ждать!"
 
 # ch/aletta/fuck.rpy:891
@@ -21005,11 +20949,11 @@ translate russian aletta_fuck_date_cowgirl_9b0db2f6:
     "Не проходит и удара сердца, как я кончаю, ощущая, как изливаюсь внутри Алетты, и не двигаюсь до самого конца."
 
 # ch/aletta/fuck.rpy:990
-translate russian aletta_fuck_date_cowgirl_15fb263a:
+translate russian aletta_fuck_date_cowgirl_6535643d:
     aletta.say "[lssb_aletta.hero_name()]... ты... ты кончил в меня!"
 
 # ch/aletta/fuck.rpy:992
-translate russian aletta_fuck_date_cowgirl_8ad4531f:
+translate russian aletta_fuck_date_cowgirl_154bc9a1:
     aletta.say "Господин... вы... вы кончили в меня!"
 
 # ch/aletta/fuck.rpy:993
@@ -21017,11 +20961,11 @@ translate russian aletta_fuck_date_cowgirl_3c68a3fd:
     aletta.say "Огромное спасибо!"
 
 # ch/aletta/fuck.rpy:996
-translate russian aletta_fuck_date_cowgirl_202bd077:
+translate russian aletta_fuck_date_cowgirl_906624f8:
     aletta.say "[lssb_aletta.hero_name()]... Ты... ты кончил в меня без презерватива!"
 
 # ch/aletta/fuck.rpy:998
-translate russian aletta_fuck_date_cowgirl_793646c4:
+translate russian aletta_fuck_date_cowgirl_774ab6b7:
     aletta.say "Хозяин... Ты... ты кончил в меня без презерватива!"
 
 # ch/aletta/fuck.rpy:1000
@@ -21089,11 +21033,11 @@ translate russian aletta_fuck_date_cowgirl_a2300a33:
     "Но наконец лицо тает в почти бредовом удовольствии."
 
 # ch/aletta/fuck.rpy:1026
-translate russian aletta_fuck_date_cowgirl_df644f27:
+translate russian aletta_fuck_date_cowgirl_74c6d2e8:
     aletta.say "Ох... ох... [lssb_aletta.hero_name()]..."
 
 # ch/aletta/fuck.rpy:1028
-translate russian aletta_fuck_date_cowgirl_c4600ab6:
+translate russian aletta_fuck_date_cowgirl_acd9a463:
     aletta.say "Ох... ох... Господин..."
 
 # ch/aletta/fuck.rpy:1029
@@ -21113,7 +21057,7 @@ translate russian aletta_fuck_date_cowgirl_f47e928d:
     "Теперь я уже двигаюсь внутри и наружу, поэтому Алетта не может не извиваться, пока я трахаю её задницу."
 
 # ch/aletta/fuck.rpy:1042
-translate russian aletta_fuck_date_cowgirl_4d577c5c:
+translate russian aletta_fuck_date_cowgirl_e52d95d7:
     aletta.say "Это... это невероятно!"
 
 # ch/aletta/fuck.rpy:1044
@@ -21129,7 +21073,7 @@ translate russian aletta_fuck_date_cowgirl_ca750859:
     "Она снова стонет, когда я толкаюсь сильнее."
 
 # ch/aletta/fuck.rpy:1053
-translate russian aletta_fuck_date_cowgirl_8ef464b6:
+translate russian aletta_fuck_date_cowgirl_a6909c44:
     aletta.say "Да... да..."
 
 # ch/aletta/fuck.rpy:1061
@@ -21137,11 +21081,11 @@ translate russian aletta_fuck_date_cowgirl_b1f51ae6:
     mike.say "Скажи, что именно тебе нравится, Алетта."
 
 # ch/aletta/fuck.rpy:1062
-translate russian aletta_fuck_date_cowgirl_efa09b64:
+translate russian aletta_fuck_date_cowgirl_10c34434:
     aletta.say "Мне... мне нравится чувствовать твой член в своей заднице..."
 
 # ch/aletta/fuck.rpy:1070
-translate russian aletta_fuck_date_cowgirl_b9f27da5:
+translate russian aletta_fuck_date_cowgirl_2ce77eed:
     aletta.say "Пожалуйста... не останавливайся... трахай мою задницу сильнее!"
 
 # ch/aletta/fuck.rpy:1072
@@ -21429,7 +21373,7 @@ translate russian aletta_fuck_date_doggy_a34b5d12:
     aletta.say "Хм..."
 
 # ch/aletta/fuck.rpy:1206
-translate russian aletta_fuck_date_doggy_e677ada1:
+translate russian aletta_fuck_date_doggy_8d6f1665:
     aletta.say "Ох... как же приятно!"
 
 # ch/aletta/fuck.rpy:1207
@@ -21637,7 +21581,7 @@ translate russian aletta_fuck_date_doggy_ce565589:
     aletta.say "Ах..."
 
 # ch/aletta/fuck.rpy:1280
-translate russian aletta_fuck_date_doggy_bb36009d:
+translate russian aletta_fuck_date_doggy_afbe6e19:
     aletta.say "Да... да..."
 
 # ch/aletta/fuck.rpy:1281
@@ -21645,7 +21589,7 @@ translate russian aletta_fuck_date_doggy_21fb4d64:
     aletta.say "Я хочу всё, [lssb_aletta.hero_name()]..."
 
 # ch/aletta/fuck.rpy:1282
-translate russian aletta_fuck_date_doggy_7291155a:
+translate russian aletta_fuck_date_doggy_c733d1a4:
     aletta.say "Хочу всё... СЕЙЧАС!"
 
 # ch/aletta/fuck.rpy:1284
@@ -21729,11 +21673,11 @@ translate russian aletta_fuck_date_doggy_471921c2:
     "Прежде чем я успеваю подумать о том, чтобы выйти, Алетта хватает меня за запястье и крепко удерживает."
 
 # ch/aletta/fuck.rpy:1320
-translate russian aletta_fuck_date_doggy_f98200da:
+translate russian aletta_fuck_date_doggy_180e2adf:
     aletta.say "Даже... не смей... останавливаться!"
 
 # ch/aletta/fuck.rpy:1321
-translate russian aletta_fuck_date_doggy_b1fd76a8:
+translate russian aletta_fuck_date_doggy_76af389e:
     aletta.say "Я... принимаю... таблетки!"
 
 # ch/aletta/fuck.rpy:1322
@@ -21777,11 +21721,11 @@ translate russian aletta_fuck_date_doggy_0bb105b3:
     "Её низкие звуки и размеры почти напоминают мне рожащее животное!"
 
 # ch/aletta/fuck.rpy:1342
-translate russian aletta_fuck_date_doggy_fc4dafc2:
+translate russian aletta_fuck_date_doggy_f75b9759:
     aletta.say "Погоди... минуту..."
 
 # ch/aletta/fuck.rpy:1343
-translate russian aletta_fuck_date_doggy_a9d4f73c:
+translate russian aletta_fuck_date_doggy_73d0b1b1:
     aletta.say "Ты... ведь..."
 
 # ch/aletta/fuck.rpy:1348
@@ -21797,7 +21741,7 @@ translate russian aletta_fuck_date_doggy_70184b9e:
     "Такое чувство настолько непривычно для лица Алетты, что я невольно обращаю внимание."
 
 # ch/aletta/fuck.rpy:1352
-translate russian aletta_fuck_date_doggy_a0419984:
+translate russian aletta_fuck_date_doggy_e79ba348:
     aletta.say "Ты... ты кончил в меня."
 
 # ch/aletta/fuck.rpy:1353
@@ -21813,15 +21757,15 @@ translate russian aletta_fuck_date_doggy_471921c2_1:
     "Прежде чем я успеваю подумать о том, чтобы выйти, Алетта хватает меня за запястье и крепко удерживает."
 
 # ch/aletta/fuck.rpy:1357
-translate russian aletta_fuck_date_doggy_f98200da_1:
+translate russian aletta_fuck_date_doggy_180e2adf_1:
     aletta.say "Даже... не смей... останавливаться!"
 
 # ch/aletta/fuck.rpy:1358
-translate russian aletta_fuck_date_doggy_21aac9da:
+translate russian aletta_fuck_date_doggy_31a63b1d:
     aletta.say "Кончи... в меня... [lssb_aletta.hero_name()]..."
 
 # ch/aletta/fuck.rpy:1359
-translate russian aletta_fuck_date_doggy_3cc6cc94:
+translate russian aletta_fuck_date_doggy_cac15c05:
     aletta.say "Используй меня... как... как дешёвую шлюху!"
 
 # ch/aletta/fuck.rpy:1360
@@ -21836,22 +21780,6 @@ translate russian aletta_fuck_date_doggy_302a4b22_1:
 translate russian aletta_fuck_date_doggy_33165c56:
     "Пока я заканчиваю, она издаёт тихие покорные вздохи, почти обезумев от удовольствия от содеянного."
 
-# ch/aletta/fuck.rpy:1373
-translate russian aletta_hottub_sex_male_c94b257e:
-    "Обычно, приглашая девушку к себе, ты хочешь произвести впечатление, верно?"
-
-# ch/aletta/fuck.rpy:1374
-translate russian aletta_hottub_sex_male_402405ee:
-    "Переживаешь, правильно ли себя показываешь и выглядишь ли хорошим парнем."
-
-# ch/aletta/fuck.rpy:1375
-translate russian aletta_hottub_sex_male_224904b2:
-    "С Алеттой приходится учитывать всё это, как и с любой другой девушкой."
-
-# ch/aletta/fuck.rpy:1376
-translate russian aletta_hottub_sex_male_c6f1caa2:
-    "Но вдобавок она, похоже, предъявляет определённые стандарты."
-
 # ch/aletta/fuck.rpy:1377
 translate russian aletta_hottub_sex_male_b3f20347:
     "Ну, вы понимаете: существует черта, ниже которой она не опустится."
@@ -21863,10 +21791,6 @@ translate russian aletta_hottub_sex_male_cff1f1f3:
 # ch/aletta/fuck.rpy:1379
 translate russian aletta_hottub_sex_male_d2f7266c:
     "Что ж, приходится задумываться, насколько близко к этому уровню нахожусь я сам!"
-
-# ch/aletta/fuck.rpy:1380
-translate russian aletta_hottub_sex_male_68d6ca1c:
-    "Когда Алетта соглашается прийти и поплескаться в джакузи, меня разрывают противоречивые чувства."
 
 # ch/aletta/fuck.rpy:1381
 translate russian aletta_hottub_sex_male_e1bd2e0e:
@@ -21917,7 +21841,7 @@ translate russian aletta_hottub_sex_male_3d86308e:
     aletta.say "В чём проблема?"
 
 # ch/aletta/fuck.rpy:1395
-translate russian aletta_hottub_sex_male_0f3728b3:
+translate russian aletta_hottub_sex_male_be946dca:
     mike.say "Эм... да..."
 
 # ch/aletta/fuck.rpy:1396
@@ -21969,7 +21893,7 @@ translate russian aletta_hottub_sex_male_4fc9b074:
     "Но она всё же человек, а кому не нравятся комплименты?"
 
 # ch/aletta/fuck.rpy:1408
-translate russian aletta_hottub_sex_male_28a94787:
+translate russian aletta_hottub_sex_male_cae92d4d:
     aletta.say "Ох... спасибо, [lssb_aletta.hero_name()]."
 
 # ch/aletta/fuck.rpy:1409
@@ -21977,7 +21901,7 @@ translate russian aletta_hottub_sex_male_8e953be3:
     aletta.say "Очень мило с твоей стороны."
 
 # ch/aletta/fuck.rpy:1410
-translate russian aletta_hottub_sex_male_7f3f0077:
+translate russian aletta_hottub_sex_male_0f39bf35:
     aletta.say "Я... я нечасто надеваю эту старую вещь."
 
 # ch/aletta/fuck.rpy:1411
@@ -22041,7 +21965,7 @@ translate russian aletta_hottub_sex_male_7a607952:
     "Произнося это, Алетта украдкой оглядывает двор и дом."
 
 # ch/aletta/fuck.rpy:1426
-translate russian aletta_hottub_sex_male_c78e5eb9:
+translate russian aletta_hottub_sex_male_7d5d072d:
     aletta.say "Твои... твои соседки сейчас дома?"
 
 # ch/aletta/fuck.rpy:1427
@@ -22365,7 +22289,7 @@ translate russian aletta_fuck_mc_office_947e7d82:
     aletta.say "Что такого важного, что тебе понадобилось увидеть меня лично?"
 
 # ch/aletta/fuck.rpy:1539
-translate russian aletta_fuck_mc_office_d0c1699d:
+translate russian aletta_fuck_mc_office_9d00a582:
     mike.say "Ну... я..."
 
 # ch/aletta/fuck.rpy:1541
@@ -23261,11 +23185,11 @@ translate russian aletta_fuck_office_spank_ce565589:
     aletta.say "Ах..."
 
 # ch/aletta/fuck.rpy:1882
-translate russian aletta_fuck_office_spank_ae547045:
+translate russian aletta_fuck_office_spank_559d6ae3:
     aletta.say "М... моя задница..."
 
 # ch/aletta/fuck.rpy:1883
-translate russian aletta_fuck_office_spank_c2d6f37c:
+translate russian aletta_fuck_office_spank_a99346d2:
     aletta.say "Ты... ты меня отшлёпал!"
 
 # ch/aletta/fuck.rpy:1889
@@ -23405,11 +23329,11 @@ translate russian aletta_fuck_office_spank_c785b37a:
     "А ещё через несколько мгновений даже обретает дар речи."
 
 # ch/aletta/fuck.rpy:1955
-translate russian aletta_fuck_office_spank_24b75fb8:
+translate russian aletta_fuck_office_spank_d0056a94:
     aletta.say "Я... я..."
 
 # ch/aletta/fuck.rpy:1956
-translate russian aletta_fuck_office_spank_d41a1358:
+translate russian aletta_fuck_office_spank_c100932e:
     aletta.say "Мне... потрясающе!"
 
 # ch/aletta/fuck.rpy:1959
@@ -23457,7 +23381,7 @@ translate russian aletta_fuck_surprise_office_spank_da127422:
     mike.say "Что я могу для тебя сделать?"
 
 # ch/aletta/fuck.rpy:1977
-translate russian aletta_fuck_surprise_office_spank_64ff05de:
+translate russian aletta_fuck_surprise_office_spank_1b84666e:
     aletta.say "К... как ты узнал?"
 
 # ch/aletta/fuck.rpy:1979
@@ -23485,7 +23409,7 @@ translate russian aletta_fuck_surprise_office_spank_4a4da298:
     mike.say "Поэтому я могу застать тебя врасплох, когда захочу."
 
 # ch/aletta/fuck.rpy:1985
-translate russian aletta_fuck_surprise_office_spank_6f26f4d1:
+translate russian aletta_fuck_surprise_office_spank_d398ebf0:
     aletta.say "Э... это неправда!"
 
 # ch/aletta/fuck.rpy:1987
@@ -23569,7 +23493,7 @@ translate russian aletta_fuck_surprise_office_spank_df46fcd8:
     "А затем задираю её юбку."
 
 # ch/aletta/fuck.rpy:2011
-translate russian aletta_fuck_surprise_office_spank_604ab19e:
+translate russian aletta_fuck_surprise_office_spank_9d3449c1:
     aletta.say "Ч... что ты..."
 
 # ch/aletta/fuck.rpy:2012
@@ -23577,7 +23501,7 @@ translate russian aletta_fuck_surprise_office_spank_f0b25f07:
     "Я шлёпаю её по обнажённым ягодицам, не дав договорить."
 
 # ch/aletta/fuck.rpy:2016
-translate russian aletta_fuck_surprise_office_spank_d3b02ab3:
+translate russian aletta_fuck_surprise_office_spank_59360dde:
     aletta.say "Ох... боже!"
 
 # ch/aletta/fuck.rpy:2018
@@ -23625,11 +23549,11 @@ translate russian aletta_fuck_surprise_office_spank_7d7c1caa:
     "При каждом шаге в коридоре она напрягается, потом вздрагивает, а затем подаётся назад, требуя ещё."
 
 # ch/aletta/fuck.rpy:2044
-translate russian aletta_fuck_surprise_office_spank_95eaab00:
+translate russian aletta_fuck_surprise_office_spank_b77f0c53:
     aletta.say "О... они могут услышать..."
 
 # ch/aletta/fuck.rpy:2045
-translate russian aletta_fuck_surprise_office_spank_96c18be7:
+translate russian aletta_fuck_surprise_office_spank_da9ecf2b:
     aletta.say "Ты не... ты не посмеешь..."
 
 # ch/aletta/fuck.rpy:2046
@@ -24133,7 +24057,7 @@ translate russian aletta_fuck_office_ropeplay_899d16ca:
     "Поэтому всё проходит гладко, и вскоре Алетта оказывается полностью связанной."
 
 # ch/aletta/fuck.rpy:2248
-translate russian aletta_fuck_office_ropeplay_d880d8ad:
+translate russian aletta_fuck_office_ropeplay_ed4d3abb:
     "Ну... почти гладко."
 
 # ch/aletta/fuck.rpy:2250
@@ -24305,15 +24229,15 @@ translate russian aletta_fuck_office_ropeplay_663e9583:
     mike.say "Пожалуйста, не двигайся, пока я не закончу с последним."
 
 # ch/aletta/fuck.rpy:2301
-translate russian aletta_fuck_office_ropeplay_fe6289a7:
+translate russian aletta_fuck_office_ropeplay_15f363e6:
     aletta.say "М-м... м-м... М-М-М!"
 
 # ch/aletta/fuck.rpy:2302
-translate russian aletta_fuck_office_ropeplay_fe6289a7_1:
+translate russian aletta_fuck_office_ropeplay_15f363e6_1:
     aletta.say "М-м... м-м... М-М-М!"
 
 # ch/aletta/fuck.rpy:2303
-translate russian aletta_fuck_office_ropeplay_fe6289a7_2:
+translate russian aletta_fuck_office_ropeplay_15f363e6_2:
     aletta.say "М-м... м-м... М-М-М!"
 
 # ch/aletta/fuck.rpy:2305
@@ -24429,7 +24353,7 @@ translate russian aletta_fuck_office_cowgirl_c744b344:
     "Поэтому, когда она опускается, он скользит между её ягодицами."
 
 # ch/aletta/fuck.rpy:2354
-translate russian aletta_fuck_office_cowgirl_f80f7053:
+translate russian aletta_fuck_office_cowgirl_c1cc17ed:
     aletta.say "Ох... о-о-ох..."
 
 # ch/aletta/fuck.rpy:2356
@@ -24437,11 +24361,11 @@ translate russian aletta_fuck_office_cowgirl_e70c4d73:
     aletta.say "[lssb_aletta.hero_name()]... ах ты негодяй!"
 
 # ch/aletta/fuck.rpy:2358
-translate russian aletta_fuck_office_cowgirl_fe59843e:
+translate russian aletta_fuck_office_cowgirl_48dad9e5:
     aletta.say "Хозяин... ах ты негодяй!"
 
 # ch/aletta/fuck.rpy:2359
-translate russian aletta_fuck_office_cowgirl_acc1e8fe:
+translate russian aletta_fuck_office_cowgirl_1e0c406a:
     aletta.say "Это... это моя задница!"
 
 # ch/aletta/fuck.rpy:2360
@@ -24501,7 +24425,7 @@ translate russian aletta_fuck_office_cowgirl_5d7c5003:
     "Наконец её щёки заливаются глубоким румянцем."
 
 # ch/aletta/fuck.rpy:2376
-translate russian aletta_fuck_office_cowgirl_cbd4d0a5:
+translate russian aletta_fuck_office_cowgirl_dbd4570e:
     aletta.say "П... пожалуйста..."
 
 # ch/aletta/fuck.rpy:2377
@@ -24681,7 +24605,7 @@ translate russian aletta_fuck_office_cowgirl_d10f32a3:
     mike.say "Алетта..."
 
 # ch/aletta/fuck.rpy:2512
-translate russian aletta_fuck_office_cowgirl_7f3fbe24:
+translate russian aletta_fuck_office_cowgirl_71ca1334:
     mike.say "Ты можешь... можешь съесть меня живьём!"
 
 # ch/aletta/fuck.rpy:2513
@@ -24729,11 +24653,11 @@ translate russian aletta_fuck_office_cowgirl_d7ca4089:
     aletta.say "Ты хотел бы трахать меня вечно?"
 
 # ch/aletta/fuck.rpy:2556
-translate russian aletta_fuck_office_cowgirl_36993bfc:
+translate russian aletta_fuck_office_cowgirl_e6dcc559:
     mike.say "Ух... ух..."
 
 # ch/aletta/fuck.rpy:2557
-translate russian aletta_fuck_office_cowgirl_22a38143:
+translate russian aletta_fuck_office_cowgirl_6c31a12f:
     mike.say "Боже... да..."
 
 # ch/aletta/fuck.rpy:2558
@@ -24749,7 +24673,7 @@ translate russian aletta_fuck_office_cowgirl_d7966fda:
     aletta.say "А теперь будь хорошим мальчиком."
 
 # ch/aletta/fuck.rpy:2574
-translate russian aletta_fuck_office_cowgirl_657b5bff:
+translate russian aletta_fuck_office_cowgirl_d542770e:
     aletta.say "И... заставь... меня... кончить!"
 
 # ch/aletta/fuck.rpy:2575
@@ -24897,7 +24821,7 @@ translate russian aletta_fuck_office_cowgirl_23061f60_4:
     "Затем откидывается назад, едва удерживаясь в вертикальном положении."
 
 # ch/aletta/fuck.rpy:2698
-translate russian aletta_fuck_office_cowgirl_e2fa8516:
+translate russian aletta_fuck_office_cowgirl_ba99623b:
     aletta.say "Кончи в меня... пожалуйста?"
 
 # ch/aletta/fuck.rpy:2699
@@ -24933,11 +24857,11 @@ translate russian aletta_fuck_office_cowgirl_23061f60_5:
     "Затем откидывается назад, едва удерживаясь в вертикальном положении."
 
 # ch/aletta/fuck.rpy:2715
-translate russian aletta_fuck_office_cowgirl_e2fa8516_1:
+translate russian aletta_fuck_office_cowgirl_ba99623b_1:
     aletta.say "Кончи в меня... пожалуйста?"
 
 # ch/aletta/fuck.rpy:2716
-translate russian aletta_fuck_office_cowgirl_06c5950c:
+translate russian aletta_fuck_office_cowgirl_425051d3:
     aletta.say "Я... я уже беременна!"
 
 # ch/aletta/fuck.rpy:2717
@@ -25009,7 +24933,7 @@ translate russian aletta_fuck_office_cowgirl_91cdb447:
     aletta.say "Кончи в меня!"
 
 # ch/aletta/fuck.rpy:2747
-translate russian aletta_fuck_office_cowgirl_5587d6f6:
+translate russian aletta_fuck_office_cowgirl_2c0da3f7:
     aletta.say "Сделай это... пожалуйста?"
 
 # ch/aletta/fuck.rpy:2748
@@ -25189,7 +25113,7 @@ translate russian aletta_fuck_office_doggy_00e74618:
     aletta.say "О боже..."
 
 # ch/aletta/fuck.rpy:2810
-translate russian aletta_fuck_office_doggy_5857a022:
+translate russian aletta_fuck_office_doggy_5bba1d69:
     aletta.say "Ты такой злой... такой злой..."
 
 # ch/aletta/fuck.rpy:2811
@@ -25209,7 +25133,7 @@ translate russian aletta_fuck_office_doggy_810a3069:
     "Она низко опускает голову и всё время кивает."
 
 # ch/aletta/fuck.rpy:2816
-translate russian aletta_fuck_office_doggy_2d69c7cc:
+translate russian aletta_fuck_office_doggy_f57e6073:
     aletta.say "Это так... приятно..."
 
 # ch/aletta/fuck.rpy:2817
@@ -25261,7 +25185,7 @@ translate russian aletta_fuck_office_doggy_4601c5b5:
     "Двигаясь вместе с телом, они почти гипнотизируют."
 
 # ch/aletta/fuck.rpy:2829
-translate russian aletta_fuck_office_doggy_bf4434ed:
+translate russian aletta_fuck_office_doggy_62b766d6:
     aletta.say "Ох... ох..."
 
 # ch/aletta/fuck.rpy:2830
@@ -25425,7 +25349,7 @@ translate russian aletta_fuck_office_doggy_b68ee6e2:
     aletta.say "Твой член ТАК приятно ощущается внутри..."
 
 # ch/aletta/fuck.rpy:2894
-translate russian aletta_fuck_office_doggy_1ad4d6e0:
+translate russian aletta_fuck_office_doggy_dd4d361d:
     aletta.say "Я... хочу, чтобы он остался во мне навсегда!"
 
 # ch/aletta/fuck.rpy:2896
@@ -25493,7 +25417,7 @@ translate russian aletta_fuck_office_doggy_b28b15f5:
     "Гипнотически двигаясь вперёд и назад."
 
 # ch/aletta/fuck.rpy:2913
-translate russian aletta_fuck_office_doggy_bf4434ed_1:
+translate russian aletta_fuck_office_doggy_62b766d6_1:
     aletta.say "Ох... ох..."
 
 # ch/aletta/fuck.rpy:2914
@@ -25597,7 +25521,7 @@ translate russian aletta_fuck_office_doggy_70a373e9_4:
     "Затем падает вперёд, едва удерживаясь на руках."
 
 # ch/aletta/fuck.rpy:2958
-translate russian aletta_fuck_office_doggy_e2fa8516:
+translate russian aletta_fuck_office_doggy_ba99623b:
     aletta.say "Кончи в меня... пожалуйста?"
 
 # ch/aletta/fuck.rpy:2959
@@ -25633,11 +25557,11 @@ translate russian aletta_fuck_office_doggy_70a373e9_5:
     "Затем падает вперёд, едва удерживаясь на руках."
 
 # ch/aletta/fuck.rpy:2973
-translate russian aletta_fuck_office_doggy_e2fa8516_1:
+translate russian aletta_fuck_office_doggy_ba99623b_1:
     aletta.say "Кончи в меня... пожалуйста?"
 
 # ch/aletta/fuck.rpy:2974
-translate russian aletta_fuck_office_doggy_06c5950c:
+translate russian aletta_fuck_office_doggy_425051d3:
     aletta.say "Я... я уже беременна!"
 
 # ch/aletta/fuck.rpy:2975
@@ -25709,7 +25633,7 @@ translate russian aletta_fuck_office_doggy_91cdb447:
     aletta.say "Кончи в меня!"
 
 # ch/aletta/fuck.rpy:3004
-translate russian aletta_fuck_office_doggy_5587d6f6:
+translate russian aletta_fuck_office_doggy_2c0da3f7:
     aletta.say "Сделай это... пожалуйста?"
 
 # ch/aletta/fuck.rpy:3005
@@ -26833,7 +26757,7 @@ translate russian aletta_gift_slutty_dress_male_d35e6756:
     "Особенно когда собираюсь сделать настолько рискованный шаг."
 
 # ch/aletta/gift.rpy:122
-translate russian aletta_gift_slutty_dress_male_c67e382e:
+translate russian aletta_gift_slutty_dress_male_9453a84f:
     mike.say "П... привет, Алетта..."
 
 # ch/aletta/gift.rpy:123
@@ -26993,7 +26917,7 @@ translate russian aletta_gift_slutty_dress_male_9bc5fd13:
     "Так что я не уверен, слышит ли она меня вообще."
 
 # ch/aletta/gift.rpy:172
-translate russian aletta_gift_slutty_dress_male_93d89948:
+translate russian aletta_gift_slutty_dress_male_cf49d482:
     aletta.say "Да-да... конечно."
 
 # ch/aletta/gift.rpy:173
@@ -27069,7 +26993,7 @@ translate russian aletta_gift_slutty_dress_male_e80db79b:
     mike.say "Ладно, Алетта. Хорошо, что я сохранил чек!"
 
 # ch/aletta/gift.rpy:227
-translate russian aletta_gift_collar_male_53f799fe:
+translate russian aletta_gift_collar_male_fdd175d3:
     mike.say "Ладно, ладно... Алетта, мы ведь стали гораздо больше, чем просто коллегами, верно?"
 
 # ch/aletta/gift.rpy:228
@@ -27085,7 +27009,7 @@ translate russian aletta_gift_collar_male_e0d0585f:
     "Алетта закатывает глаза от этой приторной фразы и вращает пальцем, намекая, что мне стоит быстрее перейти к сути."
 
 # ch/aletta/gift.rpy:231
-translate russian aletta_gift_collar_male_a3fe9378:
+translate russian aletta_gift_collar_male_aa322515:
     mike.say "Наверное, я пытаюсь сказать, что когда впервые тебя встретил... честно говоря, я считал тебя стервой!"
 
 # ch/aletta/gift.rpy:232
@@ -27201,7 +27125,7 @@ translate russian aletta_gift_collar_male_a4e9cf81:
     "Она касается шеи, ощущая ошейник и, похоже, понимая, что он означает."
 
 # ch/aletta/gift.rpy:269
-translate russian aletta_gift_collar_male_6fdd3dd7:
+translate russian aletta_gift_collar_male_29a326dd:
     aletta.say "О... ощущается... хорошо. Мне хорошо, [lssb_aletta.hero_name()]..."
 
 # ch/aletta/gift.rpy:270
@@ -27213,7 +27137,7 @@ translate russian aletta_gift_collar_male_df3510e4:
     mike.say "Ну-ну, Алетта. Не помню, чтобы я разрешал тебе так меня называть!"
 
 # ch/aletta/gift.rpy:272
-translate russian aletta_gift_collar_male_1409c8ee:
+translate russian aletta_gift_collar_male_6ce117f2:
     aletta.say "Простите... Г... Господин?"
 
 # ch/aletta/gift.rpy:273
@@ -27257,7 +27181,7 @@ translate russian aletta_ice_cream_reaction_male_b8f91c1a:
     mike.say "Эй, Алетта, давай купим мороженого!"
 
 # ch/aletta/reactions.rpy:3
-translate russian aletta_ice_cream_reaction_male_c0b191f3:
+translate russian aletta_ice_cream_reaction_male_ddb890dc:
     aletta.say "Хм... звучит неплохо."
 
 # ch/aletta/reactions.rpy:4
@@ -27277,7 +27201,7 @@ translate russian aletta_ice_cream_reaction_male_b9b49f3f:
     mike.say "Ого, Алетта, выглядит потрясающе!"
 
 # ch/aletta/reactions.rpy:8
-translate russian aletta_ice_cream_reaction_male_6ea7471e:
+translate russian aletta_ice_cream_reaction_male_1ab8380c:
     aletta.say "М-м-м... и на вкус тоже потрясающе!"
 
 # ch/aletta/reactions.rpy:9
@@ -27597,7 +27521,7 @@ translate russian aletta_breakup_male_393377b7:
     "И от этой тишины я начинаю бессвязно говорить дальше."
 
 # ch/aletta/reactions.rpy:154
-translate russian aletta_breakup_male_c5474a95:
+translate russian aletta_breakup_male_78995a89:
     mike.say "То есть... мы всё ещё можем остаться друзьями."
 
 # ch/aletta/reactions.rpy:155
@@ -27705,7 +27629,7 @@ translate russian aletta_go_steady_yes_male_ff4f2609:
     aletta.say "Мне нравится, как это звучит, [lssb_aletta.hero_name()]."
 
 # ch/aletta/reactions.rpy:189
-translate russian aletta_go_steady_yes_male_f8dfde9b:
+translate russian aletta_go_steady_yes_male_40f1782d:
     aletta.say "Теперь всё кажется... официальным!"
 
 # ch/aletta/reactions.rpy:194
@@ -27897,11 +27821,11 @@ translate russian aletta_piercing_navel_reaction_male_82ee4d85:
     aletta.say "Спасибо, что подал мне эту идею."
 
 # ch/aletta/reactions.rpy:281
-translate russian aletta_piercing_clit_reaction_male_8063640e:
+translate russian aletta_piercing_clit_reaction_male_2bbe3f90:
     aletta.say "О... о боже..."
 
 # ch/aletta/reactions.rpy:282
-translate russian aletta_piercing_clit_reaction_male_26cf5020:
+translate russian aletta_piercing_clit_reaction_male_034a520c:
     aletta.say "Ощущается так... так странно!"
 
 # ch/aletta/reactions.rpy:283
@@ -27933,11 +27857,11 @@ translate russian aletta_piercing_nose_reaction_male_e3bf0ef4:
     aletta.say "О боже, в офисе все будут на меня пялиться!"
 
 # ch/aletta/reactions.rpy:296
-translate russian aletta_piercing_nose_reaction_male_f8f1caa5:
+translate russian aletta_piercing_nose_reaction_male_2b92262a:
     aletta.say "Но... я... мне всё-таки немного нравится!"
 
 # ch/aletta/reactions.rpy:300
-translate russian aletta_movie_disliked_reaction_male_a82e0ea4:
+translate russian aletta_movie_disliked_reaction_male_21b31297:
     aletta.say "Уф... И зачем я только позволила тебе уговорить меня на этот фильм? Он просто ужасен!"
 
 # ch/aletta/reactions.rpy:304
@@ -28025,7 +27949,7 @@ translate russian aletta_call_in_592b9e1d:
     "Скорее она остаётся деловой, но звучит уже не настолько сердито."
 
 # ch/aletta/reactions.rpy:342
-translate russian aletta_call_in_196bbdbe:
+translate russian aletta_call_in_19cb36d1:
     mike.say "Я... я хотел попросить тебя зайти ко мне в кабинет."
 
 # ch/aletta/reactions.rpy:343
@@ -28513,7 +28437,7 @@ translate russian aletta_talk_sex_male_179ae54f:
     "Алетта снимает очки и покусывает дужку, разглядывая меня."
 
 # ch/aletta/talk.rpy:54
-translate russian aletta_talk_sex_male_3aca3afb:
+translate russian aletta_talk_sex_male_5db38948:
     aletta.say "Возможно, когда-нибудь тебя и стоит попробовать... если мне действительно понадобится."
 
 # ch/aletta/talk.rpy:60
@@ -28533,7 +28457,7 @@ translate russian aletta_talk_politics_male_44166a3e:
     mike.say "Да уж, настоящая вечеринка бледных сосисок!"
 
 # ch/aletta/talk.rpy:71
-translate russian aletta_talk_politics_male_f9d8db20:
+translate russian aletta_talk_politics_male_8bda392b:
     aletta.say "Уф... ты говоришь это только чтобы произвести на меня впечатление?"
 
 # ch/aletta/talk.rpy:74
@@ -28725,7 +28649,7 @@ translate russian submissive_interact_aletta_male_02fd01b5:
     aletta.say "А во-вторых, зачем мне унижаться подобным образом?"
 
 # ch/aletta/talk.rpy:281
-translate russian submissive_interact_aletta_male_b9fd9936:
+translate russian submissive_interact_aletta_male_64f40b57:
     mike.say "Эм... ладно, Алетта."
 
 # ch/aletta/talk.rpy:282
@@ -28753,7 +28677,7 @@ translate russian aletta_friendly_texts_22531ae0:
     aletta_nvl "Мне нужно поговорить с тобой о чём-то важном!"
 
 # ch/aletta/texts.rpy:14
-translate russian aletta_friendly_texts_7ee99a23:
+translate russian aletta_friendly_texts_5a1c50d0:
     aletta_nvl "И... в общем... это не связано с работой..."
 
 # ch/aletta/texts.rpy:16
@@ -28793,7 +28717,7 @@ translate russian aletta_flirty_texts_28dea236:
     aletta_nvl "Приходи полюбоваться лично. Я разрешаю."
 
 # ch/aletta/texts.rpy:36
-translate russian aletta_flirty_texts_366ef4a1:
+translate russian aletta_flirty_texts_1ed2e524:
     aletta_nvl "Уф... эта встреча такая скучная!"
 
 # ch/aletta/texts.rpy:37
@@ -28841,7 +28765,7 @@ translate russian aletta_dirty_texts_51b7befc:
     aletta_nvl "Явись сюда и разберись с тем, что натворил, [lssb_aletta.hero_name()]."
 
 # ch/aletta/texts.rpy:60
-translate russian aletta_dirty_texts_8ca7ea59:
+translate russian aletta_dirty_texts_5b4fd02f:
     aletta_nvl "Уф... ты забираешься мне в голову!"
 
 # ch/aletta/texts.rpy:61

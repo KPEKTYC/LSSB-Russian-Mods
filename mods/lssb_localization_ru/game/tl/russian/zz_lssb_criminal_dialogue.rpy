@@ -33,11 +33,11 @@ translate russian criminal_harem_event_01_47366b2a:
     mike.say "Как дела?"
 
 # ch/harems_full/criminal/events.rpy:83
-translate russian criminal_harem_event_01_c32520f7:
+translate russian criminal_harem_event_01_472ce6a1:
     lexi.say "А... привет, [lssb_common.hero_name()]."
 
 # ch/harems_full/criminal/events.rpy:84
-translate russian criminal_harem_event_01_89e70d2b:
+translate russian criminal_harem_event_01_76a41793:
     lexi.say "Мне... вроде как нужна твоя помощь, понимаешь?"
 
 # ch/harems_full/criminal/events.rpy:85
@@ -141,7 +141,7 @@ translate russian criminal_harem_event_01_4b38f53b:
     "И возвращается к тому, что для неё важно."
 
 # ch/harems_full/criminal/events.rpy:111
-translate russian criminal_harem_event_01_d614a597:
+translate russian criminal_harem_event_01_6ec109d3:
     lexi.say "Бла-бла-бла... Как скажешь, [lssb_common.hero_name()]."
 
 # ch/harems_full/criminal/events.rpy:112
@@ -349,7 +349,7 @@ translate russian criminal_harem_event_01_fdda42b4:
     "Когда я спешу к ним, он радуется моему приходу почти так же, как сама Лекси!"
 
 # ch/harems_full/criminal/events.rpy:172
-translate russian criminal_harem_event_01_1297c9f7:
+translate russian criminal_harem_event_01_fa6ac0fe:
     mike.say "А... привет, Лекси."
 
 # ch/harems_full/criminal/events.rpy:173
@@ -449,7 +449,7 @@ translate russian criminal_harem_event_01_c1726503:
     "Понимаю: наконец заметила меня."
 
 # ch/harems_full/criminal/events.rpy:210
-translate russian criminal_harem_event_01_e88a7eda:
+translate russian criminal_harem_event_01_a236c9f8:
     camila.say "Ч-что ты здесь делаешь, [lssb_common.hero_name()]?"
 
 # ch/harems_full/criminal/events.rpy:211
@@ -457,7 +457,7 @@ translate russian criminal_harem_event_01_5c5965a5:
     camila.say "Погоди-ка..."
 
 # ch/harems_full/criminal/events.rpy:212
-translate russian criminal_harem_event_01_ef1e1af3:
+translate russian criminal_harem_event_01_b4dd6b4a:
     camila.say "Вы двое... знакомы?!"
 
 # ch/harems_full/criminal/events.rpy:213
@@ -493,7 +493,7 @@ translate russian criminal_harem_event_01_a262cfc1:
     lexi.say "И он тут же прибежал!"
 
 # ch/harems_full/criminal/events.rpy:224
-translate russian criminal_harem_event_01_85f6c990:
+translate russian criminal_harem_event_01_5c6ada61:
     mike.say "Ну... «прибежал» — это громко сказано!"
 
 # ch/harems_full/criminal/events.rpy:225
@@ -521,7 +521,7 @@ translate russian criminal_harem_event_01_7fb307da:
     "И, что хуже, кажется, не уверена теперь и во мне."
 
 # ch/harems_full/criminal/events.rpy:232
-translate russian criminal_harem_event_01_d68d9731:
+translate russian criminal_harem_event_01_ac5cc1a7:
     camila.say "Я... я понятия не имела."
 
 # ch/harems_full/criminal/events.rpy:233
@@ -605,7 +605,7 @@ translate russian criminal_harem_event_02_d37e4239:
     "Мне остаётся только кивнуть и согласиться."
 
 # ch/harems_full/criminal/events.rpy:260
-translate russian criminal_harem_event_02_3241b997:
+translate russian criminal_harem_event_02_96639c66:
     mike.say "Я... понимаю тебя, Камила."
 
 # ch/harems_full/criminal/events.rpy:261
@@ -685,7 +685,7 @@ translate russian criminal_harem_event_02_1d2e887d:
     mike.say "Тогда должна знать, что она та ещё врушка, верно?"
 
 # ch/harems_full/criminal/events.rpy:286
-translate russian criminal_harem_event_02_e8550d7f:
+translate russian criminal_harem_event_02_3191d957:
     camila.say "Я... наверное."
 
 # ch/harems_full/criminal/events.rpy:287
@@ -773,7 +773,7 @@ translate russian criminal_harem_event_02_988bda5a:
     "И с заметным усилием пытается выглядеть серьёзнее."
 
 # ch/harems_full/criminal/events.rpy:315
-translate russian criminal_harem_event_02_6e6e8296:
+translate russian criminal_harem_event_02_4215660d:
     mike.say "Я... пойму, если между нами всё кончено, Камила."
 
 # ch/harems_full/criminal/events.rpy:316
@@ -849,7 +849,7 @@ translate russian criminal_harem_event_02_805a8d98_1:
     camila.say "Ага..."
 
 # ch/harems_full/criminal/events.rpy:337
-translate russian criminal_harem_event_02_24636a38:
+translate russian criminal_harem_event_02_42d176d9:
     camila.say "Она такая... развратная!"
 
 # ch/harems_full/criminal/events.rpy:338
@@ -865,7 +865,7 @@ translate russian criminal_harem_event_02_319f6ff4:
     camila.say "Но я должна оставаться хорошим копом."
 
 # ch/harems_full/criminal/events.rpy:341
-translate russian criminal_harem_event_02_a60fc60a:
+translate russian criminal_harem_event_02_a9b2a99c:
     camila.say "Я бы никогда не смогла попросить её... научить меня."
 
 # ch/harems_full/criminal/events.rpy:342
@@ -909,7 +909,7 @@ translate russian criminal_harem_event_02_c1a45fdf:
     "Уверен, не только от облегчения, но и от желания."
 
 # ch/harems_full/criminal/events.rpy:357
-translate russian criminal_harem_event_02_2c6e6c7b:
+translate russian criminal_harem_event_02_68b8e619:
     camila.say "Вообще-то это совсем нехорошо, [lssb_common.hero_name()]."
 
 # ch/harems_full/criminal/events.rpy:358
@@ -985,7 +985,7 @@ translate russian criminal_harem_event_03_44e7ce91:
     "Просто утром мне на работу, так что нужно хоть немного поспать."
 
 # ch/harems_full/criminal/events.rpy:388
-translate russian criminal_harem_event_03_02ec0294:
+translate russian criminal_harem_event_03_90725b74:
     "А Лекси... э-э... Я, вообще-то, не знаю, чем Лекси займётся завтра."
 
 # ch/harems_full/criminal/events.rpy:389
@@ -1077,7 +1077,7 @@ translate russian criminal_harem_event_03_6811af4e:
     "???" "Стоять!"
 
 # ch/harems_full/criminal/events.rpy:420
-translate russian criminal_harem_event_03_55c38a38:
+translate russian criminal_harem_event_03_ae711646:
     "???" "Так-так-так... Кто это у нас тут?"
 
 # ch/harems_full/criminal/events.rpy:421
@@ -1252,10 +1252,6 @@ translate russian criminal_harem_event_03_5dd3c991:
 translate russian criminal_harem_event_03_9ce04822:
     lexi.say "Ага, разберёмся вон в том переулке!"
 
-# ch/harems_full/criminal/events.rpy:483
-translate russian criminal_harem_event_03_b4e964cb:
-    "Прежде чем успеваю возразить, каждая хватает меня за запястье." with hpunch
-
 # ch/harems_full/criminal/events.rpy:484
 translate russian criminal_harem_event_03_d44865c6:
     "И они тащат меня за собой в переулок."
@@ -1309,7 +1305,7 @@ translate russian criminal_harem_event_03_7e3f0e25:
     "Едва она открывается, Лекси засовывает руку мне в брюки!"
 
 # ch/harems_full/criminal/events.rpy:507
-translate russian criminal_harem_event_03_711d4979:
+translate russian criminal_harem_event_03_0592622c:
     lexi.say "О... о..."
 
 # ch/harems_full/criminal/events.rpy:508
@@ -1383,10 +1379,6 @@ translate russian criminal_harem_event_03_6911dbf7:
 # ch/harems_full/criminal/events.rpy:530
 translate russian criminal_harem_event_03_5365453a:
     "Но занять одно и то же место они не могут."
-
-# ch/harems_full/criminal/events.rpy:532
-translate russian criminal_harem_event_03_551ec57b:
-    "И сталкиваются лбами!" with hpunch
 
 # ch/harems_full/criminal/events.rpy:533
 translate russian criminal_harem_event_03_b8e0d5b6:
@@ -1476,10 +1468,6 @@ translate russian criminal_harem_event_03_bc3e63ea:
 translate russian criminal_harem_event_03_509097cf:
     "На мгновение кажется, что они будут действовать сообща до самого конца."
 
-# ch/harems_full/criminal/events.rpy:566
-translate russian criminal_harem_event_03_32ee01e4:
-    "Но тут Камила толкает Лекси локтем в рёбра и оттесняет её." with hpunch
-
 # ch/harems_full/criminal/events.rpy:568
 translate russian criminal_harem_event_03_cb66da56:
     "Затем набрасывается на мой член и берёт его в рот."
@@ -1503,10 +1491,6 @@ translate russian criminal_harem_event_03_afff893d:
 # ch/harems_full/criminal/events.rpy:575
 translate russian criminal_harem_event_03_509097cf_1:
     "На мгновение кажется, что они будут действовать сообща до самого конца."
-
-# ch/harems_full/criminal/events.rpy:577
-translate russian criminal_harem_event_03_bd6343b0:
-    "Но тут Лекси толкает Камилу локтем в рёбра и оттесняет её." with hpunch
 
 # ch/harems_full/criminal/events.rpy:579
 translate russian criminal_harem_event_03_cb66da56_1:
@@ -2245,7 +2229,7 @@ translate russian criminal_harem_event_04_20489e14_1:
     "Но удивление быстро сменяется смущением."
 
 # ch/harems_full/criminal/events.rpy:867
-translate russian criminal_harem_event_04_fde9cfba:
+translate russian criminal_harem_event_04_8e7afc35:
     camila.say "Я... не знала, что ты так к этому относишься, [lssb_common.hero_name()]."
 
 # ch/harems_full/criminal/events.rpy:869
@@ -2301,7 +2285,7 @@ translate russian criminal_harem_event_04_02843957:
     "Обе удивлены тем, что я вмешался."
 
 # ch/harems_full/criminal/events.rpy:887
-translate russian criminal_harem_event_04_6a71dd16:
+translate russian criminal_harem_event_04_1b3b994c:
     camila.say "Н-но..."
 
 # ch/harems_full/criminal/events.rpy:888
@@ -3097,7 +3081,7 @@ translate russian criminal_harem_event_04_bbfe4c08_2:
     lexi.say "Звучит мерзко!"
 
 # ch/harems_full/criminal/events.rpy:1165
-translate russian criminal_harem_event_04_fbc00de5:
+translate russian criminal_harem_event_04_0db41990:
     camila.say "Ага... совсем неаппетитно!"
 
 # ch/harems_full/criminal/events.rpy:1166
@@ -4301,7 +4285,7 @@ translate russian camila_lexi_threesome_eeca6db0:
     lexi.say "Можно было бы его связать!"
 
 # ch/harems_full/criminal/events.rpy:1605
-translate russian camila_lexi_threesome_bd434fcf:
+translate russian camila_lexi_threesome_61ed3f88:
     mike.say "Н-наручники?"
 
 # ch/harems_full/criminal/events.rpy:1606
@@ -4565,7 +4549,7 @@ translate russian criminal_harem_fuck_date_eeca6db0:
     lexi.say "Можно было бы его связать!"
 
 # ch/harems_full/criminal/events.rpy:1701
-translate russian criminal_harem_fuck_date_bd434fcf:
+translate russian criminal_harem_fuck_date_61ed3f88:
     mike.say "Н-наручники?"
 
 # ch/harems_full/criminal/events.rpy:1702
@@ -5017,7 +5001,7 @@ translate russian criminal_harem_blowjob_28eea78e:
     mike.say "Лекси..."
 
 # ch/harems_full/criminal/events.rpy:1924
-translate russian criminal_harem_blowjob_49b8d702:
+translate russian criminal_harem_blowjob_9a2d5665:
     mike.say "Я сейчас... кончу!"
 
 # ch/harems_full/criminal/events.rpy:1927
@@ -6793,7 +6777,7 @@ translate russian camila_lexi_propose_male_d64a8cad:
     "Мне до сих пор немного странно встречаться с двумя настолько разными девушками, как Камила и Лекси."
 
 # ch/harems_full/criminal/events.rpy:2621
-translate russian camila_lexi_propose_male_daabd967:
+translate russian camila_lexi_propose_male_1b9b45ab:
     "Одна — полицейская, а другая... ну, из тех, у кого постоянно неприятности с полицией!"
 
 # ch/harems_full/criminal/events.rpy:2622
@@ -6937,7 +6921,7 @@ translate russian camila_lexi_propose_male_ecba780f:
     camila.say "Сказала бы, что уже замужем за работой в полиции."
 
 # ch/harems_full/criminal/events.rpy:2674
-translate russian camila_lexi_propose_male_fd068a0b:
+translate russian camila_lexi_propose_male_2ab62afb:
     camila.say "Но не знаю... Сейчас всё кажется правильным."
 
 # ch/harems_full/criminal/events.rpy:2675
@@ -7061,7 +7045,7 @@ translate russian camila_lexi_propose_male_ecba780f_1:
     camila.say "Сказала бы, что уже замужем за работой в полиции."
 
 # ch/harems_full/criminal/events.rpy:2728
-translate russian camila_lexi_propose_male_fd068a0b_1:
+translate russian camila_lexi_propose_male_2ab62afb_1:
     camila.say "Но не знаю... Сейчас всё кажется правильным."
 
 # ch/harems_full/criminal/events.rpy:2729
@@ -7313,7 +7297,7 @@ translate russian camila_lexi_male_ending_3867abd1:
     "Лекси в своём платье просто загляденье, но при этом всё так же дерзка."
 
 # ch/harems_full/criminal/events.rpy:2826
-translate russian camila_lexi_male_ending_1ee65bb8:
+translate russian camila_lexi_male_ending_ecac5827:
     "Она что... она... точно!"
 
 # ch/harems_full/criminal/events.rpy:2827
@@ -7509,7 +7493,7 @@ translate russian camila_lexi_male_ending_0f2fbf2e:
     camila.say "Нам нужно всем рассказать, какой [lssb_common.hero_name()] замечательный муж?"
 
 # ch/harems_full/criminal/events.rpy:2886
-translate russian camila_lexi_male_ending_675bcdec:
+translate russian camila_lexi_male_ending_8dd6587c:
     camila.say "Хм... Мы тут под присягой или как?"
 
 # ch/harems_full/criminal/events.rpy:2887
@@ -7525,7 +7509,7 @@ translate russian camila_lexi_male_ending_c057e7c7:
     lexi.say "И чего тут стесняться, а?"
 
 # ch/harems_full/criminal/events.rpy:2890
-translate russian camila_lexi_male_ending_00a32224:
+translate russian camila_lexi_male_ending_9087c4e7:
     camila.say "Ага... Наверное, ты права, Лекси."
 
 # ch/harems_full/criminal/events.rpy:2891
