@@ -5,7 +5,7 @@ init 1091 python in lssb_sporty:
     _constant = True
     variant = 'lssb_sporty_ru'
     strings = {"Cum in Ayesha's mouth": 'Кончить Айше в рот', "Cum in Hanna's mouth": 'Кончить Ханне в рот', 'Cum on their faces': 'Кончить им на лица', 'Double facial': 'Кончить на лица обеих'}
-    aliases = {'Кончить Аише в рот': 'Кончить Айше в рот'}
+    aliases = {'Кончить Айше в рот': 'Кончить Айше в рот'}
     def caption(value):
         if engine.game.preferences.language != 'russian':return value
         node=engine.game.script.namemap.get(engine.game.context().current)

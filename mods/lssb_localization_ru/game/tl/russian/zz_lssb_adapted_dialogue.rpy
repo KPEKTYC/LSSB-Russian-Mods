@@ -15,7 +15,7 @@ translate russian cassidy_arrange_party_c68ce494:
 
 # Direct translation.
 translate russian cassidy_arrange_party_66f3401c:
-    mike.say "Погоди, ты что… подслушивала их?"
+    mike.say "Погоди, ты что... подслушивала их?"
 
 # Non-graphic adaptation.
 translate russian cassidy_arrange_party_4a45a8d0:
@@ -83,7 +83,7 @@ translate russian kylie_event_03_3346c824:
 
 # Non-graphic adaptation.
 translate russian kylie_event_03_ef3b1a2d:
-    kylie.say "Ага… Когда ты не позвонил в тот вечер, я решила, что ты считаешь меня какой-то ненормальной!"
+    kylie.say "Ага... Когда ты не позвонил в тот вечер, я решила, что ты считаешь меня какой-то ненормальной!"
 
 # Non-graphic adaptation.
 translate russian kylie_event_03_faf06815:
@@ -103,7 +103,7 @@ translate russian kylie_event_03_661f91a9:
 
 # Non-graphic adaptation.
 translate russian kylie_event_02_123c2b1a:
-    kylie.say "Однажды я случайно увидела вас с Алексис наедине. Я долго не могла рассказать об этом…"
+    kylie.say "Однажды я случайно увидела вас с Алексис наедине. Я долго не могла рассказать об этом..."
 
 # Non-graphic adaptation.
 translate russian kylie_event_02_be59c16a:
@@ -139,7 +139,7 @@ translate russian kylie_event_02_4c807333:
 
 # Non-graphic adaptation.
 translate russian morgan_fuck_nightclub_fcb623d8:
-    morgan.say "Я тогда… мечтала о тебе!"
+    morgan.say "Я тогда... мечтала о тебе!"
 
 # Direct translation.
 translate russian morgan_fuck_nightclub_0dfb33dd:
@@ -159,7 +159,7 @@ translate russian morgan_fuck_nightclub_fe16d6a9:
 
 # Non-graphic adaptation.
 translate russian morgan_fuck_nightclub_25829de8:
-    mike.say "Просто… твоё признание меня взволновало."
+    mike.say "Просто... твоё признание меня взволновало."
 
 # Direct translation.
 translate russian morgan_fuck_nightclub_298b39d9:
@@ -191,7 +191,7 @@ translate russian morgan_fuck_date_cunnilingus_d251b5bc:
 
 # Non-graphic adaptation.
 translate russian morgan_fuck_date_cunnilingus_69d6c67f:
-    morgan.say "Одной из моих давних мечтаний о нас с тобой…"
+    morgan.say "Одной из моих давних мечтаний о нас с тобой..."
 
 # Non-graphic adaptation.
 translate russian morgan_fuck_date_cunnilingus_e870aa4e:

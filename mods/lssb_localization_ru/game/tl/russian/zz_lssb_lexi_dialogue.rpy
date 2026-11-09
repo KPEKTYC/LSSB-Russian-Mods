@@ -31170,7 +31170,7 @@ translate russian lexi_gift_slutty_dress_male_d5987a02:
 
 # ch/lexi/gift.rpy:116
 translate russian lexi_gift_slutty_dress_male_5bca9489:
-    lexi.say "Эй, [lssb_lexi.hero_name()]…"
+    lexi.say "Эй, [lssb_lexi.hero_name()]..."
 
 # ch/lexi/gift.rpy:117
 translate russian lexi_gift_slutty_dress_male_d68a8f3b:

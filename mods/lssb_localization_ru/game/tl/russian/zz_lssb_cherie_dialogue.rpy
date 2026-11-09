@@ -4814,7 +4814,7 @@ translate russian dwayne_corpse_discovery_07c55682:
 
 # ch/cherie/events.rpy:2204
 translate russian dwayne_corpse_discovery_f8c56251:
-    "Корреспондент" "По нашим сведениям, тело обнаружил здесь прохожий…"
+    "Корреспондент" "По нашим сведениям, тело обнаружил здесь прохожий..."
 
 # ch/cherie/events.rpy:2205
 translate russian dwayne_corpse_discovery_0a7af0ac:
@@ -4850,7 +4850,7 @@ translate russian dwayne_corpse_discovery_83396bf8:
 
 # ch/cherie/events.rpy:2217
 translate russian dwayne_corpse_discovery_f8c56251_1:
-    "Корреспондент" "По нашим сведениям, тело обнаружил здесь прохожий…"
+    "Корреспондент" "По нашим сведениям, тело обнаружил здесь прохожий..."
 
 # ch/cherie/events.rpy:2218
 translate russian dwayne_corpse_discovery_b9a671e1:

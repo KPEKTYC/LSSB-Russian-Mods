@@ -3838,7 +3838,7 @@ translate russian anna_kleio_sasha_propose_male_6f9760fa:
 
 # ch/harems_full/band/events.rpy:1953
 translate russian anna_kleio_sasha_propose_male_a6badb33:
-    "Её непосредственность и искренность — две из тех черт, которые я в ней люблю больше всего."
+    "Её непосредственность и искренность — две из тех чёрт, которые я в ней люблю больше всего."
 
 # ch/harems_full/band/events.rpy:1955
 translate russian anna_kleio_sasha_propose_male_33ebba00:
@@ -5966,7 +5966,7 @@ translate russian anna_concert_naked_8c3e325f:
 
 # ch/harems_full/band/events.rpy:2938
 translate russian anna_concert_naked_a18ae663:
-    anna.say "Ох, [lssb_common.hero_name()]…"
+    anna.say "Ох, [lssb_common.hero_name()]..."
 
 # ch/harems_full/band/events.rpy:2939
 translate russian anna_concert_naked_447f1b67:
@@ -6162,7 +6162,7 @@ translate russian anna_concert_naked_df563417:
 
 # ch/harems_full/band/events.rpy:3004
 translate russian anna_concert_naked_40483f35:
-    anna.say "Ты прав, [lssb_common.hero_name()]…"
+    anna.say "Ты прав, [lssb_common.hero_name()]..."
 
 # ch/harems_full/band/events.rpy:3006
 translate russian anna_concert_naked_232a8c8c:
@@ -6250,7 +6250,7 @@ translate russian anna_concert_naked_88ebfdd0:
 
 # ch/harems_full/band/events.rpy:3035
 translate russian anna_concert_naked_73a34cd7:
-    anna.say "Как скажешь, [lssb_common.hero_name()]…"
+    anna.say "Как скажешь, [lssb_common.hero_name()]..."
 
 # ch/harems_full/band/events.rpy:3036
 translate russian anna_concert_naked_51bcaca7:
@@ -6274,7 +6274,7 @@ translate russian anna_concert_naked_c533293b:
 
 # ch/harems_full/band/events.rpy:3046
 translate russian anna_concert_naked_b19436e4:
-    anna.say "О нет, [lssb_common.hero_name()]…"
+    anna.say "О нет, [lssb_common.hero_name()]..."
 
 # ch/harems_full/band/events.rpy:3047
 translate russian anna_concert_naked_770d4490:

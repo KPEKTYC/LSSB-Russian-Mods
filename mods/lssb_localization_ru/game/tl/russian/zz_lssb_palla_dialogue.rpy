@@ -20910,7 +20910,7 @@ translate russian palla_male_ending_e7980fc3:
 
 # ch/palla/events.rpy:4723
 translate russian palla_male_ending_1c4d2320:
-    "Но тревожиться ей не о чем."
+    "Но тревожиться ей не о чём."
 
 # ch/palla/events.rpy:4724
 translate russian palla_male_ending_90d4ddfe:
@@ -22042,7 +22042,7 @@ translate russian palla_apartment_sex_e34b14e1:
 
 # ch/palla/events.rpy:5206
 translate russian palla_apartment_sex_49ee4867:
-    palla.say "Пойдём, [lssb_palla.hero_name()]…"
+    palla.say "Пойдём, [lssb_palla.hero_name()]..."
 
 # ch/palla/events.rpy:5207
 translate russian palla_apartment_sex_7ea2d372:
@@ -22094,7 +22094,7 @@ translate russian palla_apartment_sex_34dc89e7:
 
 # ch/palla/events.rpy:5232
 translate russian palla_apartment_sex_6469a7fa:
-    palla.say "Как хочешь, [lssb_palla.hero_name()]…"
+    palla.say "Как хочешь, [lssb_palla.hero_name()]..."
 
 # ch/palla/events.rpy:5233
 translate russian palla_apartment_sex_6fd0a01b:
@@ -31594,7 +31594,7 @@ translate russian palla_fuck_date_blowjob_5085e4a9:
 
 # ch/palla/fuck.rpy:3390
 translate russian palla_fuck_date_blowjob_1fdafc0b:
-    palla.say "Но, [lssb_palla.hero_name()]…"
+    palla.say "Но, [lssb_palla.hero_name()]..."
 
 # ch/palla/fuck.rpy:3391
 translate russian palla_fuck_date_blowjob_692c13fd:
@@ -31654,7 +31654,7 @@ translate russian palla_fuck_date_blowjob_97a18242:
 
 # ch/palla/fuck.rpy:3409
 translate russian palla_fuck_date_blowjob_6ceccbac:
-    palla.say "Ладно, [lssb_palla.hero_name()]…"
+    palla.say "Ладно, [lssb_palla.hero_name()]..."
 
 # ch/palla/fuck.rpy:3410
 translate russian palla_fuck_date_blowjob_590a3ccf:
@@ -32142,7 +32142,7 @@ translate russian palla_gift_slutty_dress_male_734f5857:
 
 # ch/palla/gift.rpy:121
 translate russian palla_gift_slutty_dress_male_4c05f4e0:
-    mike.say "Чт…"
+    mike.say "Чт..."
 
 # ch/palla/gift.rpy:122
 translate russian palla_gift_slutty_dress_male_de2ad759:

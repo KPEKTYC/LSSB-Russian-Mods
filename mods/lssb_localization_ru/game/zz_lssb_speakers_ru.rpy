@@ -48,7 +48,7 @@ init 1180 python in lssb_speakers:
     # stays exactly as typed, even when it matches a character's.
     persons = {
         "Aletta": "Алетта", "Alexis": "Алексис", "Amy": "Эми", "Angela": "Анджела", "Anna": "Анна",
-        "Audrey": "Одри", "Ayesha": "Аиша", "Bree": "Бри", "Camila": "Камила", "Cassidy": "Кэссиди",
+        "Audrey": "Одри", "Ayesha": "Айша", "Bree": "Бри", "Camila": "Камила", "Cassidy": "Кэссиди",
         "Cherie": "Шери", "Claire": "Клэр", "Danny": "Дэнни", "Dwayne": "Дуэйн", "Emma": "Эмма",
         "Hanna": "Ханна", "Harmony": "Хармони", "Jack": "Джек", "Kat": "Кэт", "Kiara": "Киара",
         "Kleio": "Клео", "Kylie": "Кайли", "Lavish": "Лавиш", "Lexi": "Лекси", "Master": "Мастер",

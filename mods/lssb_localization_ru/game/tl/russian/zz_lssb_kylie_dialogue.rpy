@@ -1366,7 +1366,7 @@ translate russian kylie_halloween_invitation_ae4001dd:
 
 # ch/kylie/date.rpy:262
 translate russian kylie_halloween_invitation_6de3d119:
-    "Но уверен, волноваться не о чем."
+    "Но уверен, волноваться не о чём."
 
 # ch/kylie/date.rpy:263
 translate russian kylie_halloween_invitation_fa648c16:
@@ -21138,7 +21138,7 @@ translate russian kylie_propose_male_e70cfc5a:
 
 # ch/kylie/events.rpy:7329
 translate russian kylie_propose_male_0093655d:
-    kylie.say "О, тебе совершенно не о чем волноваться!"
+    kylie.say "О, тебе совершенно не о чём волноваться!"
 
 # ch/kylie/events.rpy:7330
 translate russian kylie_propose_male_e7d99877:
@@ -22678,7 +22678,7 @@ translate russian kylie_sleep_date_fuck_085458ca:
 
 # ch/kylie/fuck.rpy:473
 translate russian kylie_sleep_date_fuck_ec771cb9:
-    kylie.say "Тебе не о чем волноваться: теперь есть только ты и я."
+    kylie.say "Тебе не о чём волноваться: теперь есть только ты и я."
 
 # ch/kylie/fuck.rpy:475
 translate russian kylie_sleep_date_fuck_343bbee9:

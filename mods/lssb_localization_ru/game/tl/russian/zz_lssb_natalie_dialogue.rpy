@@ -94,7 +94,7 @@ translate russian natalie_date_amusement_park_male_4925f355:
 
 # ch/natalie/date.rpy:28
 translate russian natalie_date_amusement_park_male_5340d95c:
-    natalie.say "Надеюсь, [hero.name]…"
+    natalie.say "Надеюсь, [hero.name]..."
 
 # ch/natalie/date.rpy:29
 translate russian natalie_date_amusement_park_male_ad014a47:

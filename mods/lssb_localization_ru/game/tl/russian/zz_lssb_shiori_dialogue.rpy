@@ -5074,7 +5074,7 @@ translate russian shiori_event_05_c8c9c495:
 
 # ch/shiori/events.rpy:1028
 translate russian shiori_event_05_382e54fd:
-    mike.say "Маме ведь не о чем волноваться?"
+    mike.say "Маме ведь не о чём волноваться?"
 
 # ch/shiori/events.rpy:1029
 translate russian shiori_event_05_733b5997:
@@ -13334,7 +13334,7 @@ translate russian shiori_stripclub_f645138a:
 
 # ch/shiori/events.rpy:3782
 translate russian shiori_stripclub_f7682133:
-    "Родителю-одиночке сейчас тяжело, тут спорить не о чем."
+    "Родителю-одиночке сейчас тяжело, тут спорить не о чём."
 
 # ch/shiori/events.rpy:3783
 translate russian shiori_stripclub_f8aefae2:
@@ -16530,7 +16530,7 @@ translate russian shiori_fuck_date_intro_male_cedaf3e3:
 
 # ch/shiori/fuck.rpy:454
 translate russian shiori_fuck_date_intro_male_90dcde55:
-    "По правде говоря, это одна из самых привлекательных для меня её черт."
+    "По правде говоря, это одна из самых привлекательных для меня её чёрт."
 
 # ch/shiori/fuck.rpy:455
 translate russian shiori_fuck_date_intro_male_729cee7f:
@@ -23314,7 +23314,7 @@ translate russian shiori_gift_collar_male_affe931d:
 
 # ch/shiori/gift.rpy:128
 translate russian shiori_gift_collar_male_b7527f36:
-    mike.say "Вот так, Сиори. Теперь ты моя домашняя любимица, больше не о чем волноваться."
+    mike.say "Вот так, Сиори. Теперь ты моя домашняя любимица, больше не о чём волноваться."
 
 # ch/shiori/gift.rpy:129
 translate russian shiori_gift_collar_male_78c08079:
@@ -23406,7 +23406,7 @@ translate russian shiori_gift_slutty_dress_male_c102a48f:
 
 # ch/shiori/gift.rpy:177
 translate russian shiori_gift_slutty_dress_male_a3166a9c:
-    shiori.say "Привет, [lssb_shiori.hero_name()]…"
+    shiori.say "Привет, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/gift.rpy:178
 translate russian shiori_gift_slutty_dress_male_52c9a89b:
@@ -23550,7 +23550,7 @@ translate russian shiori_gift_slutty_dress_male_f427cc7a:
 
 # ch/shiori/gift.rpy:226
 translate russian shiori_gift_slutty_dress_male_9828552f:
-    shiori.say "Хорошо, [lssb_shiori.hero_name()]…"
+    shiori.say "Хорошо, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/gift.rpy:227
 translate russian shiori_gift_slutty_dress_male_fa2d2709:
@@ -24566,7 +24566,7 @@ translate russian shiori_movie_liked_reaction_male_45f44e8d:
 
 # ch/shiori/reactions.rpy:324
 translate russian shiori_belly_kiss_male_ea3c6c04:
-    shiori.say "Уф…"
+    shiori.say "Уф..."
 
 # ch/shiori/reactions.rpy:325
 translate russian shiori_belly_kiss_male_c102a48f:
@@ -24662,7 +24662,7 @@ translate russian shiori_belly_kiss_male_106dbcb0:
 
 # ch/shiori/reactions.rpy:359
 translate russian shiori_belly_caress_male_dbb4eefe:
-    shiori.say "Ох, [lssb_shiori.hero_name()]…"
+    shiori.say "Ох, [lssb_shiori.hero_name()]..."
 
 # ch/shiori/reactions.rpy:360
 translate russian shiori_belly_caress_male_14e59ffb:

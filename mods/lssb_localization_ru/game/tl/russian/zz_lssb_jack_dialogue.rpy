@@ -4110,7 +4110,7 @@ translate russian jack_react_kylie_sentence_103a42c9:
 
 # ch/jack/events.rpy:1573
 translate russian jack_react_kylie_sentence_09f27c8b:
-    jack.say "Эй, [hero.name]…"
+    jack.say "Эй, [hero.name]..."
 
 # ch/jack/events.rpy:1575
 translate russian jack_react_kylie_sentence_3207ab73:
@@ -4226,7 +4226,7 @@ translate russian jack_react_kylie_sentence_fd649bd7:
 
 # ch/jack/events.rpy:1610
 translate russian jack_react_kylie_sentence_44854130:
-    jack.say "Я правда хотел спросить, [hero.name]…"
+    jack.say "Я правда хотел спросить, [hero.name]..."
 
 # ch/jack/events.rpy:1611
 translate russian jack_react_kylie_sentence_1a3e5868:

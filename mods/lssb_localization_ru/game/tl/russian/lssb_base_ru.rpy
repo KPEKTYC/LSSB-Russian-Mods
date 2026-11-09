@@ -257,7 +257,7 @@ translate russian amy_teaser_009bac59:
 
 translate russian amy_teaser_020f72f9:
 
-    "Я просто оказался в торговом центре и убиваю время, поэтому зашел в магазин электроники."
+    "Я просто оказался в торговом центре и убиваю время, поэтому зашёл в магазин электроники."
 
 translate russian amy_teaser_0755084c:
 
@@ -269,11 +269,11 @@ translate russian amy_teaser_07f307e8:
 
 translate russian amy_teaser_0a6f5feb:
 
-    amy.say "Интересно, еще в чем ты хорош?"
+    amy.say "Интересно, ещё в чём ты хорош?"
 
 translate russian amy_teaser_0a6f5feb_1:
 
-    amy.say "Интересно, еще в чем ты хорош?"
+    amy.say "Интересно, ещё в чём ты хорош?"
 
 translate russian amy_teaser_0a987852:
 
@@ -341,15 +341,15 @@ translate russian amy_teaser_20598d93_1:
 
 translate russian amy_teaser_22687fbe:
 
-    "Это новый сотрудник, а именно – сотрудница."
+    "Это новый сотрудник, а именно — сотрудница."
 
 translate russian amy_teaser_237b3018:
 
-    "Я слышу, как глотаю, и внимательнее рассматриваю ее."
+    "Я слышу, как глотаю, и внимательнее рассматриваю её."
 
 translate russian amy_teaser_237b3018_1:
 
-    "Я слышу, как глотаю, и внимательнее рассматриваю ее."
+    "Я слышу, как глотаю, и внимательнее рассматриваю её."
 
 translate russian amy_teaser_240ecda5:
 
@@ -373,7 +373,7 @@ translate russian amy_teaser_2561339c_1:
 
 translate russian amy_teaser_25c76b4f:
 
-    "И еще лучше – она явно готтка, несмотря на свою униформу!"
+    "И ещё лучше — она явно готтка, несмотря на свою униформу!"
 
 translate russian amy_teaser_260eb311:
 
@@ -457,11 +457,11 @@ translate russian amy_teaser_42710614:
 
 translate russian amy_teaser_42af4db2:
 
-    amy.say "На самом деле, я рада, что ты подошел сюда."
+    amy.say "На самом деле, я рада, что ты подошёл сюда."
 
 translate russian amy_teaser_42af4db2_1:
 
-    amy.say "На самом деле, я рада, что ты подошел сюда."
+    amy.say "На самом деле, я рада, что ты подошёл сюда."
 
 translate russian amy_teaser_437b237a:
 
@@ -469,7 +469,7 @@ translate russian amy_teaser_437b237a:
 
 translate russian amy_teaser_4472d14a:
 
-    "Теперь девушка одна, все еще раскладывает товары на полках."
+    "Теперь девушка одна, всё ещё раскладывает товары на полках."
 
 translate russian amy_teaser_44c02808:
 
@@ -537,7 +537,7 @@ translate russian amy_teaser_52c65242:
 
 translate russian amy_teaser_554b29d8:
 
-    "Все, что мне остается, это уйти, чувствуя себя совершенно подавленным."
+    "Всё, что мне остаётся, это уйти, чувствуя себя совершенно подавленным."
 
 translate russian amy_teaser_55d50cf2:
 
@@ -553,7 +553,7 @@ translate russian amy_teaser_55e1add1:
 
 translate russian amy_teaser_5632f576:
 
-    shawn.say "Чушь – я видел, как ты обменивался номерами!"
+    shawn.say "Чушь — я видел, как ты обменивался номерами!"
 
 translate russian amy_teaser_5a6c4ddf:
 
@@ -573,19 +573,19 @@ translate russian amy_teaser_5ebee31e:
 
 translate russian amy_teaser_5f2dc4d4:
 
-    amy.say "В любом случае, забудь о нем."
+    amy.say "В любом случае, забудь о нём."
 
 translate russian amy_teaser_5f2dc4d4_1:
 
-    amy.say "В любом случае, забудь о нем."
+    amy.say "В любом случае, забудь о нём."
 
 translate russian amy_teaser_8dc4ebf0:
 
-    mike.say "Я просто... я просто пойду куда-нибудь еще?"
+    mike.say "Я просто... я просто пойду куда-нибудь ещё?"
 
 translate russian amy_teaser_8dc4ebf0_1:
 
-    mike.say "Я просто... я просто пойду куда-нибудь еще?"
+    mike.say "Я просто... я просто пойду куда-нибудь ещё?"
 
 translate russian amy_teaser_61d85a6e:
 
@@ -609,11 +609,11 @@ translate russian amy_teaser_63a145fd_1:
 
 translate russian amy_teaser_64805695:
 
-    "И этот звук – восхитительно вызывающий."
+    "И этот звук — восхитительно вызывающий."
 
 translate russian amy_teaser_64805695_1:
 
-    "И этот звук – восхитительно вызывающий."
+    "И этот звук — восхитительно вызывающий."
 
 translate russian amy_teaser_6658acb2:
 
@@ -629,7 +629,7 @@ translate russian amy_teaser_68bca6d6:
 
 translate russian amy_teaser_692d84eb:
 
-    "И я более чем готов сражаться за нее сам!"
+    "И я более чем готов сражаться за неё сам!"
 
 translate russian amy_teaser_6cee9fe2:
 
@@ -637,7 +637,7 @@ translate russian amy_teaser_6cee9fe2:
 
 translate russian amy_teaser_6ec422ae:
 
-    shawn.say "Тебе лучше отступить, потому что я обратил на нее внимание первым!"
+    shawn.say "Тебе лучше отступить, потому что я обратил на неё внимание первым!"
 
 translate russian amy_teaser_700f54ac:
 
@@ -653,11 +653,11 @@ translate russian amy_teaser_710f1617_1:
 
 translate russian amy_teaser_71de399f:
 
-    "Я не знаю, сдержу ли я свое обещание ему или нет."
+    "Я не знаю, сдержу ли я своё обещание ему или нет."
 
 translate russian amy_teaser_728cfbd2:
 
-    shawn.say "У нее еще период испытания."
+    shawn.say "У неё ещё период испытания."
 
 translate russian amy_teaser_74143306:
 
@@ -673,15 +673,15 @@ translate russian amy_teaser_3b484601_1:
 
 translate russian amy_teaser_7a513575:
 
-    "Потому что вблизи она выглядит еще более сексуально, чем издалека!"
+    "Потому что вблизи она выглядит ещё более сексуально, чем издалека!"
 
 translate russian amy_teaser_7a513575_1:
 
-    "Потому что вблизи она выглядит еще более сексуально, чем издалека!"
+    "Потому что вблизи она выглядит ещё более сексуально, чем издалека!"
 
 translate russian amy_teaser_7b61f6d7:
 
-    mike.say "Черт, Шон – ты меня напугал до смерти!"
+    mike.say "Чёрт, Шон — ты меня напугал до смерти!"
 
 translate russian amy_teaser_7e645ada:
 
@@ -705,7 +705,7 @@ translate russian amy_teaser_87bf1a46:
 
 translate russian amy_teaser_8a1ed3e8:
 
-    shawn.say "И, благодаря моему обучению, у нее все получится."
+    shawn.say "И, благодаря моему обучению, у неё всё получится."
 
 translate russian amy_teaser_8b4dbb30:
 
@@ -729,7 +729,7 @@ translate russian amy_teaser_8dce6ec1:
 
 translate russian amy_teaser_8e66b9bf:
 
-    "Шон скрестил руки на бедрах."
+    "Шон скрестил руки на бёдрах."
 
 translate russian amy_teaser_8f531c09:
 
@@ -737,7 +737,7 @@ translate russian amy_teaser_8f531c09:
 
 translate russian amy_teaser_9070d91a:
 
-    mike.say "Я здесь, чтобы посмотреть на то, что ты продаешь."
+    mike.say "Я здесь, чтобы посмотреть на то, что ты продаёшь."
 
 translate russian amy_teaser_90f07af8:
 
@@ -745,7 +745,7 @@ translate russian amy_teaser_90f07af8:
 
 translate russian amy_teaser_916090fd:
 
-    "Я делаю паузу, чтобы взглянуть на ее бейджик."
+    "Я делаю паузу, чтобы взглянуть на её бейджик."
 
 translate russian amy_teaser_94c16ea5:
 
@@ -753,7 +753,7 @@ translate russian amy_teaser_94c16ea5:
 
 translate russian amy_teaser_95abdf8a:
 
-    mike.say "Эми – это не предмет, который можно просто забрать себе!"
+    mike.say "Эми — это не предмет, который можно просто забрать себе!"
 
 translate russian amy_teaser_95f6a3b3:
 
@@ -761,27 +761,27 @@ translate russian amy_teaser_95f6a3b3:
 
 translate russian amy_teaser_9768fe54:
 
-    "Все, что я могу сделать, это покачать головой и уйти."
+    "Всё, что я могу сделать, это покачать головой и уйти."
 
 translate russian amy_teaser_9768fe54_1:
 
-    "Все, что я могу сделать, это покачать головой и уйти."
+    "Всё, что я могу сделать, это покачать головой и уйти."
 
 translate russian amy_teaser_98607517:
 
-    "Я думал, мы продвигаемся вперед, но она просто прервала меня!"
+    "Я думал, мы продвигаемся вперёд, но она просто прервала меня!"
 
 translate russian amy_teaser_98607517_1:
 
-    "Я думал, мы продвигаемся вперед, но она просто прервала меня!"
+    "Я думал, мы продвигаемся вперёд, но она просто прервала меня!"
 
 translate russian amy_teaser_9a2a95ba:
 
-    amy.say "Я только что увидела, как ты вошел, и хотела поздороваться."
+    amy.say "Я только что увидела, как ты вошёл, и хотела поздороваться."
 
 translate russian amy_teaser_9a2a95ba_1:
 
-    amy.say "Я только что увидела, как ты вошел, и хотела поздороваться."
+    amy.say "Я только что увидела, как ты вошёл, и хотела поздороваться."
 
 translate russian amy_teaser_9db90706:
 
@@ -833,7 +833,7 @@ translate russian amy_teaser_a56e4692:
 
 translate russian amy_teaser_a84d6fcd:
 
-    "Он, должно быть, заметил меня, когда я зашел, и тихонько подобрался ко мне."
+    "Он, должно быть, заметил меня, когда я зашёл, и тихонько подобрался ко мне."
 
 translate russian amy_teaser_aa874548:
 
@@ -853,7 +853,7 @@ translate russian amy_teaser_b2ab948a:
 
 translate russian amy_teaser_b445bbe8:
 
-    "Наверное, он ее обучает работе в магазине."
+    "Наверное, он её обучает работе в магазине."
 
 translate russian amy_teaser_b5c442b8:
 
@@ -865,7 +865,7 @@ translate russian amy_teaser_b7701f95:
 
 translate russian amy_teaser_beab5b59:
 
-    "Затем я выхожу из этого места, чувствуя себя так, будто лечу над землей."
+    "Затем я выхожу из этого места, чувствуя себя так, будто лечу над землёй."
 
 translate russian amy_teaser_c1e5f61f:
 
@@ -885,7 +885,7 @@ translate russian amy_teaser_c83a991c:
 
 translate russian amy_teaser_c916c646:
 
-    "Я закатываю глаза, понимая, насколько же этот Шон – пустозвон."
+    "Я закатываю глаза, понимая, насколько же этот Шон — пустозвон."
 
 translate russian amy_teaser_c92f9dde:
 
@@ -909,7 +909,7 @@ translate russian amy_teaser_d0de7cd6_1:
 
 translate russian amy_teaser_d137dbb6:
 
-    "А потом я выхожу из этого места, чувствуя себя так, будто лечу над землей."
+    "А потом я выхожу из этого места, чувствуя себя так, будто лечу над землёй."
 
 translate russian amy_teaser_d164890a:
 
@@ -917,7 +917,7 @@ translate russian amy_teaser_d164890a:
 
 translate russian amy_teaser_d179aca4:
 
-    "И сегодня это тоже так, если не считать того, что мое внимание привлекла не новая техника."
+    "И сегодня это тоже так, если не считать того, что моё внимание привлекла не новая техника."
 
 translate russian amy_teaser_d1d4d5e9:
 
@@ -937,11 +937,11 @@ translate russian amy_teaser_d32d8f7a_1:
 
 translate russian amy_teaser_d3dac635:
 
-    "Кажется, Эми понимает, что я не пришел сюда за покупками."
+    "Кажется, Эми понимает, что я не пришёл сюда за покупками."
 
 translate russian amy_teaser_d3dac635_1:
 
-    "Кажется, Эми понимает, что я не пришел сюда за покупками."
+    "Кажется, Эми понимает, что я не пришёл сюда за покупками."
 
 translate russian amy_teaser_d589358f:
 
@@ -1013,7 +1013,7 @@ translate russian amy_teaser_df6ed4af_1:
 
 translate russian amy_teaser_e03a0a8b:
 
-    "Я стараюсь выглядеть непринужденно, пока жду, когда Шон уйдет."
+    "Я стараюсь выглядеть непринуждённо, пока жду, когда Шон уйдёт."
 
 translate russian amy_teaser_e0a33d3e:
 
@@ -1041,11 +1041,11 @@ translate russian amy_teaser_eb0ce906:
 
 translate russian amy_teaser_ecdda39a:
 
-    mike.say "Так что если ты хочешь ее, тебе придется бороться за нее!"
+    mike.say "Так что если ты хочешь её, тебе придётся бороться за неё!"
 
 translate russian amy_teaser_eed609d8:
 
-    shawn.say "Потому что у меня хорошее предчувствие насчет Эми и меня."
+    shawn.say "Потому что у меня хорошее предчувствие насчёт Эми и меня."
 
 translate russian amy_teaser_f1d8a63c:
 
@@ -1077,11 +1077,11 @@ translate russian amy_teaser_f4549cbb_1:
 
 translate russian amy_teaser_f4e8eaf9:
 
-    "Эми смеется над этим."
+    "Эми смеётся над этим."
 
 translate russian amy_teaser_f4e8eaf9_1:
 
-    "Эми смеется над этим."
+    "Эми смеётся над этим."
 
 translate russian amy_teaser_f64e3ea9:
 
@@ -1101,15 +1101,15 @@ translate russian amy_teaser_kiss_098ddef0:
 
 translate russian amy_teaser_kiss_0ada2d04:
 
-    "И, делая это, она видит меня, стоящего позади нее."
+    "И, делая это, она видит меня, стоящего позади неё."
 
 translate russian amy_teaser_kiss_0c596ed9:
 
-    "Тогда я смогу наконец спросить ее, что вообще происходит между нами."
+    "Тогда я смогу наконец спросить её, что вообще происходит между нами."
 
 translate russian amy_teaser_kiss_0f976421:
 
-    "Это все равно, что тебя перенесло из самой неловкой ситуации, которую только можно представить."
+    "Это всё равно, что тебя перенесло из самой неловкой ситуации, которую только можно представить."
 
 translate russian amy_teaser_kiss_10bb44c7:
 
@@ -1153,7 +1153,7 @@ translate russian amy_teaser_kiss_3908d5c8:
 
 translate russian amy_teaser_kiss_3c375110:
 
-    "Теперь, когда ее нет рядом, Шон подходит ко мне."
+    "Теперь, когда её нет рядом, Шон подходит ко мне."
 
 translate russian amy_teaser_kiss_3d148637:
 
@@ -1173,11 +1173,11 @@ translate russian amy_teaser_kiss_429ba3a7:
 
 translate russian amy_teaser_kiss_433f28db:
 
-    "Я вижу, как выражение ее лица становится решительным."
+    "Я вижу, как выражение её лица становится решительным."
 
 translate russian amy_teaser_kiss_45baacdd:
 
-    shawn.say "Она даже со мной не ведет себя так!"
+    shawn.say "Она даже со мной не ведёт себя так!"
 
 translate russian amy_teaser_kiss_46114186:
 
@@ -1189,7 +1189,7 @@ translate russian amy_teaser_kiss_46ac1bee:
 
 translate russian amy_teaser_kiss_4a0408b3:
 
-    "Она удивлена, но легко рывком тянет меня вперед."
+    "Она удивлена, но легко рывком тянет меня вперёд."
 
 translate russian amy_teaser_kiss_4cf775c5:
 
@@ -1213,7 +1213,7 @@ translate russian amy_teaser_kiss_60edea6b:
 
 translate russian amy_teaser_kiss_6386d373:
 
-    "В этот момент я совершенно ошеломлен и не могу пошевелиться."
+    "В этот момент я совершенно ошеломлён и не могу пошевелиться."
 
 translate russian amy_teaser_kiss_65dd98e6:
 
@@ -1233,7 +1233,7 @@ translate russian amy_teaser_kiss_6a7b4991:
 
 translate russian amy_teaser_kiss_6abbd721:
 
-    "Я зашел внутрь с глупой улыбкой на лице, предвкушая встречу с ней."
+    "Я зашёл внутрь с глупой улыбкой на лице, предвкушая встречу с ней."
 
 translate russian amy_teaser_kiss_764c311c:
 
@@ -1241,11 +1241,11 @@ translate russian amy_teaser_kiss_764c311c:
 
 translate russian amy_teaser_kiss_7f3529e5:
 
-    "Ну, когда я говорю \"целоваться\", я имею в виду не просто легкий поцелуй."
+    "Ну, когда я говорю «целоваться», я имею в виду не просто лёгкий поцелуй."
 
 translate russian amy_teaser_kiss_7f454da4:
 
-    mike.say "Она обычно так себя ведет с клиентами?"
+    mike.say "Она обычно так себя ведёт с клиентами?"
 
 translate russian amy_teaser_kiss_7f98d569:
 
@@ -1265,7 +1265,7 @@ translate russian amy_teaser_kiss_8550155f:
 
 translate russian amy_teaser_kiss_8f83df7b:
 
-    "Клянусь, если бы она положила руку мне под штаны, я бы не смог ее остановить."
+    "Клянусь, если бы она положила руку мне под штаны, я бы не смог её остановить."
 
 translate russian amy_teaser_kiss_99b4437e:
 
@@ -1289,7 +1289,7 @@ translate russian amy_teaser_kiss_a36c8ef6:
 
 translate russian amy_teaser_kiss_a8c17a2e:
 
-    "Я смотрю на Эми, надеясь, что она придет мне на помощь."
+    "Я смотрю на Эми, надеясь, что она придёт мне на помощь."
 
 translate russian amy_teaser_kiss_ad9e7b30:
 
@@ -1305,7 +1305,7 @@ translate russian amy_teaser_kiss_b7b38692:
 
 translate russian amy_teaser_kiss_bdd170a6:
 
-    amy.say "Чего ты еще хочешь?"
+    amy.say "Чего ты ещё хочешь?"
 
 translate russian amy_teaser_kiss_c3ad8fda:
 
@@ -1329,7 +1329,7 @@ translate russian amy_teaser_kiss_e04a41cb:
 
 translate russian amy_teaser_kiss_e813d541:
 
-    "И ощущение ее тела, соприкасающегося с моим, мгновенно приводит меня в возбуждение."
+    "И ощущение её тела, соприкасающегося с моим, мгновенно приводит меня в возбуждение."
 
 translate russian amy_teaser_kiss_f1d8a63c:
 
@@ -1377,7 +1377,7 @@ translate russian amy_teaser_sex_1e8e033a:
 
 translate russian amy_teaser_sex_05c4cf67:
 
-    "Направив свой член выше ее влагалища, я целился в ее аккуратную попку."
+    "Направив свой член выше её влагалища, я целился в её аккуратную попку."
 
 translate russian amy_teaser_sex_065cb505:
 
@@ -1385,7 +1385,7 @@ translate russian amy_teaser_sex_065cb505:
 
 translate russian amy_teaser_sex_076d611c:
 
-    "И ее юбка тоже опасно задирается!"
+    "И её юбка тоже опасно задирается!"
 
 translate russian amy_teaser_sex_ab4f14b5:
 
@@ -1409,7 +1409,7 @@ translate russian amy_teaser_sex_0f6c7f5c:
 
 translate russian amy_teaser_sex_0fadda20:
 
-    amy.say "Что…"
+    amy.say "Что..."
 
 translate russian amy_teaser_sex_11265af5:
 
@@ -1473,11 +1473,11 @@ translate russian amy_teaser_sex_1887500e_3:
 
 translate russian amy_teaser_sex_18dff2b9:
 
-    "На самом деле, я почти поднимаю ее над землей!"
+    "На самом деле, я почти поднимаю её над землёй!"
 
 translate russian amy_teaser_sex_18dff2b9_1:
 
-    "На самом деле, я почти поднимаю ее над землей!"
+    "На самом деле, я почти поднимаю её над землёй!"
 
 translate russian amy_teaser_sex_19335038:
 
@@ -1521,7 +1521,7 @@ translate russian amy_teaser_sex_20ba89c1:
 
 translate russian amy_teaser_sex_212c2118:
 
-    "Пока Эми задает вопрос, я уже расстегиваю свою молнию."
+    "Пока Эми задаёт вопрос, я уже расстёгиваю свою молнию."
 
 translate russian amy_teaser_sex_21abdeb8:
 
@@ -1529,19 +1529,19 @@ translate russian amy_teaser_sex_21abdeb8:
 
 translate russian amy_teaser_sex_21ae5bf2:
 
-    "Эми пищит, когда я одним плавным движением вытаскиваю свой член из ее влагалища."
+    "Эми пищит, когда я одним плавным движением вытаскиваю свой член из её влагалища."
 
 translate russian amy_teaser_sex_2381f05a:
 
-    "И тут я вижу что-то в дверном проеме, ведущем в заднюю комнату."
+    "И тут я вижу что-то в дверном проёме, ведущем в заднюю комнату."
 
 translate russian amy_teaser_sex_2381f05a_1:
 
-    "И тут я вижу что-то в дверном проеме, ведущем в заднюю комнату."
+    "И тут я вижу что-то в дверном проёме, ведущем в заднюю комнату."
 
 translate russian amy_teaser_sex_27b826a4:
 
-    amy.say "Он достает свой член."
+    amy.say "Он достаёт свой член."
 
 translate russian amy_teaser_sex_27d49f37:
 
@@ -1557,7 +1557,7 @@ translate russian amy_teaser_sex_299a30f9:
 
 translate russian amy_teaser_sex_2c5d83f4:
 
-    "А затем она начинает стонать, когда я извергаю сперму на ее задницу."
+    "А затем она начинает стонать, когда я извергаю сперму на её задницу."
 
 translate russian amy_teaser_sex_2cd56263:
 
@@ -1565,7 +1565,7 @@ translate russian amy_teaser_sex_2cd56263:
 
 translate russian amy_teaser_sex_2cd56263_1:
 
-    amy.say "О боже…"
+    amy.say "О боже..."
 
 translate russian amy_teaser_sex_2dfb22e9:
 
@@ -1597,15 +1597,15 @@ translate russian amy_teaser_sex_36e8ff68:
 
 translate russian amy_teaser_sex_3700f9c4:
 
-    "Не поймите меня неправильно, Шон – довольно хороший парень."
+    "Не поймите меня неправильно, Шон — довольно хороший парень."
 
 translate russian amy_teaser_sex_390cca9d:
 
-    "А затем она начинает стонать, пока я извергаю сперму на ее ягодицы."
+    "А затем она начинает стонать, пока я извергаю сперму на её ягодицы."
 
 translate russian amy_teaser_sex_3976ead9:
 
-    "Шон кивает, все еще выглядя довольно взволнованным."
+    "Шон кивает, всё ещё выглядя довольно взволнованным."
 
 translate russian amy_teaser_sex_3b810c39:
 
@@ -1637,7 +1637,7 @@ translate russian amy_teaser_sex_437b237a:
 
 translate russian amy_teaser_sex_43d5b967:
 
-    "И я изо всех сил пытаюсь привлечь внимание Шона, пока он зовет ее."
+    "И я изо всех сил пытаюсь привлечь внимание Шона, пока он зовёт её."
 
 translate russian amy_teaser_sex_450dcfdc:
 
@@ -1669,19 +1669,19 @@ translate russian amy_teaser_sex_47340aca:
 
 translate russian amy_teaser_sex_47a8d18d:
 
-    "Но сейчас у меня уже глубоко член внутри нее."
+    "Но сейчас у меня уже глубоко член внутри неё."
 
 translate russian amy_teaser_sex_47a8d18d_1:
 
-    "Но сейчас у меня уже глубоко член внутри нее."
+    "Но сейчас у меня уже глубоко член внутри неё."
 
 translate russian amy_teaser_sex_49445dd2:
 
-    "Эми начинает пищать, когда я проникаю в нее настолько глубоко, насколько это возможно."
+    "Эми начинает пищать, когда я проникаю в неё настолько глубоко, насколько это возможно."
 
 translate russian amy_teaser_sex_49445dd2_1:
 
-    "Эми начинает пищать, когда я проникаю в нее настолько глубоко, насколько это возможно."
+    "Эми начинает пищать, когда я проникаю в неё настолько глубоко, насколько это возможно."
 
 translate russian amy_teaser_sex_4a86e050:
 
@@ -1713,7 +1713,7 @@ translate russian amy_teaser_sex_4ef29c01_1:
 
 translate russian amy_teaser_sex_4f0f441c:
 
-    "Одновременно она тянется и нежно гладит мою щеку."
+    "Одновременно она тянется и нежно гладит мою щёку."
 
 translate russian amy_teaser_sex_50b6584c:
 
@@ -1757,11 +1757,11 @@ translate russian amy_teaser_sex_59c1cec5:
 
 translate russian amy_teaser_sex_e5a3f069:
 
-    mike.say "Ты серьезно, Эми?"
+    mike.say "Ты серьёзно, Эми?"
 
 translate russian amy_teaser_sex_5b58d1ac:
 
-    "Там очень тесно, и ее мышцы постоянно сжимают меня, пытаясь не пустить меня внутрь."
+    "Там очень тесно, и её мышцы постоянно сжимают меня, пытаясь не пустить меня внутрь."
 
 translate russian amy_teaser_sex_5c816265:
 
@@ -1777,7 +1777,7 @@ translate russian amy_teaser_sex_37c2a191:
 
 translate russian amy_teaser_sex_37c2a191_1:
 
-    mike.say "Шон… смотрит!"
+    mike.say "Шон... смотрит!"
 
 translate russian amy_teaser_sex_5d645fa9:
 
@@ -1785,7 +1785,7 @@ translate russian amy_teaser_sex_5d645fa9:
 
 translate russian amy_teaser_sex_5fa3e7cf:
 
-    amy.say "Черт…"
+    amy.say "Чёрт..."
 
 translate russian amy_teaser_sex_61fcd316:
 
@@ -1797,7 +1797,7 @@ translate russian amy_teaser_sex_61fcd316_1:
 
 translate russian amy_teaser_sex_671b914f:
 
-    "Эми немного продвинулась вперед, но она все равно хихикает и кивает."
+    "Эми немного продвинулась вперёд, но она всё равно хихикает и кивает."
 
 translate russian amy_teaser_sex_6832f70c:
 
@@ -1805,7 +1805,7 @@ translate russian amy_teaser_sex_6832f70c:
 
 translate russian amy_teaser_sex_68c0f290:
 
-    "Я все еще чувствую, что нас могут поймать в любой момент."
+    "Я всё ещё чувствую, что нас могут поймать в любой момент."
 
 translate russian amy_teaser_sex_6add1126:
 
@@ -1845,11 +1845,11 @@ translate russian amy_teaser_sex_7142b9f1:
 
 translate russian amy_teaser_sex_7531810b:
 
-    "Но потом я снова смотрю на нее, и я знаю, каким будет мой ответ."
+    "Но потом я снова смотрю на неё, и я знаю, каким будет мой ответ."
 
 translate russian amy_teaser_sex_78aa6762:
 
-    "Но также потому, что у меня есть сюрприз для нее."
+    "Но также потому, что у меня есть сюрприз для неё."
 
 translate russian amy_teaser_sex_79dd7541:
 
@@ -1877,7 +1877,7 @@ translate russian amy_teaser_sex_81cd0d4b:
 
 translate russian amy_teaser_sex_81cd0d4b_1:
 
-    amy.say "Мне это НУЖНО…"
+    amy.say "Мне это НУЖНО..."
 
 translate russian amy_teaser_sex_82255768:
 
@@ -1889,11 +1889,11 @@ translate russian amy_teaser_sex_83e8558b:
 
 translate russian amy_teaser_sex_83fd9fdf:
 
-    "Ее синие волосы покачиваются вверх и вниз, когда она проходит небольшое расстояние до того места, где я стою."
+    "Её синие волосы покачиваются вверх и вниз, когда она проходит небольшое расстояние до того места, где я стою."
 
 translate russian amy_teaser_sex_85e7f352:
 
-    "И мой член становится твердым, как камень, только при мысли о том, чтобы заняться с ней."
+    "И мой член становится твёрдым, как камень, только при мысли о том, чтобы заняться с ней."
 
 translate russian amy_teaser_sex_86730e8e:
 
@@ -1905,7 +1905,7 @@ translate russian amy_teaser_sex_87fe0fdf:
 
 translate russian amy_teaser_sex_88c66995:
 
-    "Но вскоре я забываю о нем и начинаю думать об Эми."
+    "Но вскоре я забываю о нём и начинаю думать об Эми."
 
 translate russian amy_teaser_sex_88e7af72:
 
@@ -1921,7 +1921,7 @@ translate russian amy_teaser_sex_8df1d2c9:
 
 translate russian amy_teaser_sex_8e1dff0f:
 
-    "И ее язык проникает в мой рот еще до того, как я успеваю понять, что происходит!"
+    "И её язык проникает в мой рот ещё до того, как я успеваю понять, что происходит!"
 
 translate russian amy_teaser_sex_8f56215c:
 
@@ -1945,7 +1945,7 @@ translate russian amy_teaser_sex_9638e62e:
 
 translate russian amy_teaser_sex_9638e62e_1:
 
-    mike.say "Эми…"
+    mike.say "Эми..."
 
 translate russian amy_teaser_sex_9699f4f2:
 
@@ -1961,7 +1961,7 @@ translate russian amy_teaser_sex_9b1fffcf:
 
 translate russian amy_teaser_sex_9b975450:
 
-    "И я думаю о том, что, черт возьми, мог подумать об этом Шон."
+    "И я думаю о том, что, чёрт возьми, мог подумать об этом Шон."
 
 translate russian amy_teaser_sex_9c75c525:
 
@@ -1985,7 +1985,7 @@ translate russian amy_teaser_sex_a1321d11:
 
 translate russian amy_teaser_sex_a19c62e3:
 
-    amy.say "Но знаешь что – я хочу большего!"
+    amy.say "Но знаешь что — я хочу большего!"
 
 translate russian amy_teaser_sex_a36fcece:
 
@@ -1997,7 +1997,7 @@ translate russian amy_teaser_sex_a4bb270c:
 
 translate russian amy_teaser_sex_a543b956:
 
-    "Мои глаза расширяются, когда Эми наклоняется вперед и прижимает свои губы к моим."
+    "Мои глаза расширяются, когда Эми наклоняется вперёд и прижимает свои губы к моим."
 
 translate russian amy_teaser_sex_a55cf6cd:
 
@@ -2065,7 +2065,7 @@ translate russian amy_teaser_sex_b2afc985_1:
 
 translate russian amy_teaser_sex_b2afc985_2:
 
-    amy.say "Ммм…"
+    amy.say "Ммм..."
 
 translate russian amy_teaser_sex_b2e83d33:
 
@@ -2081,7 +2081,7 @@ translate russian amy_teaser_sex_b443c437:
 
 translate russian amy_teaser_sex_b748e488:
 
-    amy.say "Шон – довольно спокойный начальник, ты знаешь?"
+    amy.say "Шон — довольно спокойный начальник, ты знаешь?"
 
 translate russian amy_teaser_sex_bcc13120:
 
@@ -2101,15 +2101,15 @@ translate russian amy_teaser_sex_c161531e:
 
 translate russian amy_teaser_sex_c196902b:
 
-    "Но когда я наконец его замечаю, это лишь мимолетный взгляд."
+    "Но когда я наконец его замечаю, это лишь мимолётный взгляд."
 
 translate russian amy_teaser_sex_c2db1c31:
 
-    amy.say "Что ты делаешь…"
+    amy.say "Что ты делаешь..."
 
 translate russian amy_teaser_sex_c3532fe6:
 
-    "Улыбка Эми говорит мне все, что мне нужно знать."
+    "Улыбка Эми говорит мне всё, что мне нужно знать."
 
 translate russian amy_teaser_sex_c665391c:
 
@@ -2117,7 +2117,7 @@ translate russian amy_teaser_sex_c665391c:
 
 translate russian amy_teaser_sex_c6c9bbb5:
 
-    "Как только мы остаемся одни, я чувствую волну облегчения."
+    "Как только мы остаёмся одни, я чувствую волну облегчения."
 
 translate russian amy_teaser_sex_c6f3b014:
 
@@ -2173,7 +2173,7 @@ translate russian amy_teaser_sex_ca22bd67:
 
 translate russian amy_teaser_sex_e3a6be64:
 
-    amy.say "Ты представляешь, я наклоняюсь вперед... вот так."
+    amy.say "Ты представляешь, я наклоняюсь вперёд... вот так."
 
 translate russian amy_teaser_sex_ccc2305e:
 
@@ -2181,7 +2181,7 @@ translate russian amy_teaser_sex_ccc2305e:
 
 translate russian amy_teaser_sex_ccf146b9:
 
-    "И ее голова наклонена ко мне."
+    "И её голова наклонена ко мне."
 
 translate russian amy_teaser_sex_ceb53051:
 
@@ -2189,27 +2189,27 @@ translate russian amy_teaser_sex_ceb53051:
 
 translate russian amy_teaser_sex_cf01586a:
 
-    "Я ни в чем не стесняюсь, позволяя ей получить все, что я могу дать."
+    "Я ни в чём не стесняюсь, позволяя ей получить всё, что я могу дать."
 
 translate russian amy_teaser_sex_cf01586a_1:
 
-    "Я ни в чем не стесняюсь, позволяя ей получить все, что я могу дать."
+    "Я ни в чём не стесняюсь, позволяя ей получить всё, что я могу дать."
 
 translate russian amy_teaser_sex_d35dc4d2:
 
-    "А именно – я начинаю кончить!"
+    "А именно — я начинаю кончить!"
 
 translate russian amy_teaser_sex_d35dc4d2_1:
 
-    "А именно – я начинаю кончить!"
+    "А именно — я начинаю кончить!"
 
 translate russian amy_teaser_sex_d3c25749:
 
-    "Белые полосы спермы покрывают ее бледную кожу и впитываются в ее юбку."
+    "Белые полосы спермы покрывают её бледную кожу и впитываются в её юбку."
 
 translate russian amy_teaser_sex_d3c25749_1:
 
-    "Белые полосы спермы покрывают ее бледную кожу и впитываются в ее юбку."
+    "Белые полосы спермы покрывают её бледную кожу и впитываются в её юбку."
 
 translate russian amy_teaser_sex_d3d17437:
 
@@ -2225,11 +2225,11 @@ translate russian amy_teaser_sex_d4c5ef5a:
 
 translate russian amy_teaser_sex_d77cea10:
 
-    "И ее смех становится еще более восторженным, когда я поднимаю ее юбку."
+    "И её смех становится ещё более восторженным, когда я поднимаю её юбку."
 
 translate russian amy_teaser_sex_d7bb15ab:
 
-    "Эми стонет, когда я одним плавным движением вытаскиваю свой член из ее ануса."
+    "Эми стонет, когда я одним плавным движением вытаскиваю свой член из её ануса."
 
 translate russian amy_teaser_sex_da1de010:
 
@@ -2257,7 +2257,7 @@ translate russian amy_teaser_sex_deaa474f:
 
 translate russian amy_teaser_sex_df6be74b:
 
-    "Я подхожу к ней сзади и прижимаю свой член к ее ягодицам."
+    "Я подхожу к ней сзади и прижимаю свой член к её ягодицам."
 
 translate russian amy_teaser_sex_e0b709ed:
 
@@ -2269,11 +2269,11 @@ translate russian amy_teaser_sex_e0b709ed_1:
 
 translate russian amy_teaser_sex_e24ae26a:
 
-    "Я уже набираю скорость, двигаясь вперед и назад внутри нее."
+    "Я уже набираю скорость, двигаясь вперёд и назад внутри неё."
 
 translate russian amy_teaser_sex_e24ae26a_1:
 
-    "Я уже набираю скорость, двигаясь вперед и назад внутри нее."
+    "Я уже набираю скорость, двигаясь вперёд и назад внутри неё."
 
 translate russian amy_teaser_sex_e341d7ff:
 
@@ -2281,7 +2281,7 @@ translate russian amy_teaser_sex_e341d7ff:
 
 translate russian amy_teaser_sex_e38bd009:
 
-    "И теперь она кажется еще более решительной, чтобы и она добилась своего со мной!"
+    "И теперь она кажется ещё более решительной, чтобы и она добилась своего со мной!"
 
 translate russian amy_teaser_sex_e41395a3:
 
@@ -2301,7 +2301,7 @@ translate russian amy_teaser_sex_e5ce134b:
 
 translate russian amy_teaser_sex_e7d05b3f:
 
-    amy.say "Будет только ты и я – будем веселиться!"
+    amy.say "Будет только ты и я — будем веселиться!"
 
 translate russian amy_teaser_sex_e84ffc6f:
 
@@ -2345,7 +2345,7 @@ translate russian amy_teaser_sex_ee796b93:
 
 translate russian amy_teaser_sex_f11c6403:
 
-    mike.say "Ты уверена, что Шон – не подходящий кандидат для отношений?"
+    mike.say "Ты уверена, что Шон — не подходящий кандидат для отношений?"
 
 translate russian amy_teaser_sex_f1d8a63c:
 
@@ -2365,11 +2365,11 @@ translate russian amy_teaser_sex_f53daee5:
 
 translate russian amy_teaser_sex_f60f8207:
 
-    "Голова моего члена скользит по губам ее влагалища."
+    "Голова моего члена скользит по губам её влагалища."
 
 translate russian amy_teaser_sex_f955f24c:
 
-    "И затем я опускаю их вниз, обнажая бледные щечки ее ягодиц."
+    "И затем я опускаю их вниз, обнажая бледные щечки её ягодиц."
 
 translate russian amy_teaser_sex_fc71b18a:
 
@@ -2381,7 +2381,7 @@ translate russian amy_teaser_sex_fc71b18a_1:
 
 translate russian amy_teaser_sex_fec0c84c:
 
-    "Она конкретно трет мой член через штаны!"
+    "Она конкретно трёт мой член через штаны!"
 
 translate russian amy_teaser_sex_fec2a8ab:
 
@@ -2397,7 +2397,7 @@ translate russian angela_afterblow_bruce_call_07d17da3:
 
 translate russian angela_afterblow_bruce_call_0e3bf868:
 
-    "Я слышу, как Брюс смеется на другом конце линии."
+    "Я слышу, как Брюс смеётся на другом конце линии."
 
 translate russian angela_afterblow_bruce_call_109eface:
 
@@ -2425,7 +2425,7 @@ translate russian angela_afterblow_bruce_call_2d4583a7:
 
 translate russian angela_afterblow_bruce_call_34fe0985:
 
-    mike.say "Привет, Брюс – это [hero.name]."
+    mike.say "Привет, Брюс — это [hero.name]."
 
 translate russian angela_afterblow_bruce_call_37e9c219:
 
@@ -2481,7 +2481,7 @@ translate russian angela_afterblow_bruce_call_29a59224:
 
 translate russian angela_afterblow_bruce_call_81a9f94e:
 
-    "И еще есть вопрос о том, как она расспрашивала этого парня о [bree.name]."
+    "И ещё есть вопрос о том, как она расспрашивала этого парня о [bree.name]."
 
 translate russian angela_afterblow_bruce_call_81f7aca7:
 
@@ -2501,11 +2501,11 @@ translate russian angela_afterblow_bruce_call_87567724:
 
 translate russian angela_afterblow_bruce_call_89a65dbd:
 
-    "В итоге у меня теперь еще больше вопросов, чем было раньше!"
+    "В итоге у меня теперь ещё больше вопросов, чем было раньше!"
 
 translate russian angela_afterblow_bruce_call_92caf287:
 
-    breesdad "Кто, черт возьми, мне звонит?"
+    breesdad "Кто, чёрт возьми, мне звонит?"
 
 translate russian angela_afterblow_bruce_call_9883aeec:
 
@@ -2529,7 +2529,7 @@ translate russian angela_afterblow_bruce_call_b40a650e:
 
 translate russian angela_afterblow_bruce_call_b544b0b1:
 
-    breesdad "И теперь, когда я об этом подумал – кто дал тебе мой чертов номер?"
+    breesdad "И теперь, когда я об этом подумал — кто дал тебе мой чёртов номер?"
 
 translate russian angela_afterblow_bruce_call_b5f1cffb:
 
@@ -2537,7 +2537,7 @@ translate russian angela_afterblow_bruce_call_b5f1cffb:
 
 translate russian angela_afterblow_bruce_call_be1e1baa:
 
-    breesdad "Но она разорвала отношения на следующий день – бросила меня через текстовое сообщение!"
+    breesdad "Но она разорвала отношения на следующий день — бросила меня через текстовое сообщение!"
 
 translate russian angela_afterblow_bruce_call_c3bba402:
 
@@ -2545,7 +2545,7 @@ translate russian angela_afterblow_bruce_call_c3bba402:
 
 translate russian angela_afterblow_bruce_call_c9982741:
 
-    mike.say "Я – сожитель [bree.name], помнишь?"
+    mike.say "Я — сожитель [bree.name], помнишь?"
 
 translate russian angela_afterblow_bruce_call_ca8540bc:
 
@@ -2665,7 +2665,7 @@ translate russian angela_afterblow_call_78f2187e:
 
 translate russian angela_afterblow_call_85bbf1f9:
 
-    "Но когда она наконец заговорила, я был очень удивлен."
+    "Но когда она наконец заговорила, я был очень удивлён."
 
 translate russian angela_afterblow_call_89fb0610:
 
@@ -2689,7 +2689,7 @@ translate russian angela_afterblow_call_9500f2a9:
 
 translate russian angela_afterblow_call_95bfe2db:
 
-    mike.say "И я тебя там увидел – ты была с кем-то..."
+    mike.say "И я тебя там увидел — ты была с кем-то..."
 
 translate russian angela_afterblow_call_98c65439:
 
@@ -2717,7 +2717,7 @@ translate russian angela_afterblow_call_b69e086e:
 
 translate russian angela_afterblow_call_bbc4f282:
 
-    angela.say "Это просто такая фраза – понимаешь?"
+    angela.say "Это просто такая фраза — понимаешь?"
 
 translate russian angela_afterblow_call_bd3c4753:
 
@@ -2769,7 +2769,7 @@ translate russian angela_afterblow_call_e84ffc6f:
 
 translate russian angela_afterblow_call_eb42d52d:
 
-    "Я не хочу выходить и обвинять ее в измене и лжи."
+    "Я не хочу выходить и обвинять её в измене и лжи."
 
 translate russian angela_afterblow_call_f38cf864:
 
@@ -2777,7 +2777,7 @@ translate russian angela_afterblow_call_f38cf864:
 
 translate russian angela_afterblow_call_f7393625:
 
-    "Или она просто неистово врет, пытаясь скрыть свои действия."
+    "Или она просто неистово врёт, пытаясь скрыть свои действия."
 
 translate russian angela_afterblow_call_f91aa6de:
 
@@ -2853,7 +2853,7 @@ translate russian angela_afterblow_dad_call_2c8e3584:
 
 translate russian angela_afterblow_dad_call_2d58a3be:
 
-    "Это как закрыть глаза, ожидая, что тебе дадут пощечину."
+    "Это как закрыть глаза, ожидая, что тебе дадут пощёчину."
 
 translate russian angela_afterblow_dad_call_368305b4:
 
@@ -2865,7 +2865,7 @@ translate russian angela_afterblow_dad_call_39b0e029:
 
 translate russian angela_afterblow_dad_call_39db924f:
 
-    "И когда он заговорил, его голос стал более серьезным."
+    "И когда он заговорил, его голос стал более серьёзным."
 
 translate russian angela_afterblow_dad_call_47d84b93:
 
@@ -2965,7 +2965,7 @@ translate russian angela_afterblow_dad_call_d55396fa:
 
 translate russian angela_afterblow_dad_call_d75a572b:
 
-    "Dad" "Слушай, сынок, это не так уж и серьезно."
+    "Dad" "Слушай, сынок, это не так уж и серьёзно."
 
 translate russian angela_afterblow_dad_call_ddf68483:
 
@@ -2981,11 +2981,11 @@ translate russian angela_afterblow_dad_call_e84ffc6f:
 
 translate russian angela_afterblow_dad_call_e9e05252:
 
-    "Но что-то все равно продолжает тревожить меня."
+    "Но что-то всё равно продолжает тревожить меня."
 
 translate russian angela_afterblow_dad_call_ea2583c2:
 
-    "На самом деле, это тон, который я хорошо помню с тех пор, как был ребенком!"
+    "На самом деле, это тон, который я хорошо помню с тех пор, как был ребёнком!"
 
 translate russian angela_afterblow_dad_call_ee60becc:
 
@@ -3009,7 +3009,7 @@ translate russian angela_afterblow_dad_call_fb9bf7d6:
 
 translate russian angela_bj_bruce_00c0a806:
 
-    mike.say "Если один парень пойдет в туалет для женщин, это будет подозрительно."
+    mike.say "Если один парень пойдёт в туалет для женщин, это будет подозрительно."
 
 translate russian angela_bj_bruce_05e13b1a:
 
@@ -3029,7 +3029,7 @@ translate russian angela_bj_bruce_0b356088:
 
 translate russian angela_bj_bruce_0ff02064:
 
-    mike.say "Слушай, давай просто понаблюдаем за ними, посмотрим, что произойдет."
+    mike.say "Слушай, давай просто понаблюдаем за ними, посмотрим, что произойдёт."
 
 translate russian angela_bj_bruce_13220f91:
 
@@ -3037,7 +3037,7 @@ translate russian angela_bj_bruce_13220f91:
 
 translate russian angela_bj_bruce_19b23bde:
 
-    minami.say "Это мама – и она с каким-то парнем, который не папа!"
+    minami.say "Это мама — и она с каким-то парнем, который не папа!"
 
 translate russian angela_bj_bruce_212ae386:
 
@@ -3049,11 +3049,11 @@ translate russian angela_bj_bruce_212ae386_1:
 
 translate russian angela_bj_bruce_2208b1d2:
 
-    "Ее глаза расширяются от удивления, когда я это говорю."
+    "Её глаза расширяются от удивления, когда я это говорю."
 
 translate russian angela_bj_bruce_2208b1d2_1:
 
-    "Ее глаза расширяются от удивления, когда я это говорю."
+    "Её глаза расширяются от удивления, когда я это говорю."
 
 translate russian angela_bj_bruce_22bc74dc:
 
@@ -3069,7 +3069,7 @@ translate russian angela_bj_bruce_257ed31b:
 
 translate russian angela_bj_bruce_27f85bce:
 
-    "Не стоит паниковать, похоже, она просто идет в туалет."
+    "Не стоит паниковать, похоже, она просто идёт в туалет."
 
 translate russian angela_bj_bruce_29a54305:
 
@@ -3077,7 +3077,7 @@ translate russian angela_bj_bruce_29a54305:
 
 translate russian angela_bj_bruce_2ba01c05:
 
-    bree.say "\"Я ужасно голодна, [hero.name]\"."
+    bree.say "«Я ужасно голодна, [hero.name]»."
 
 translate russian angela_bj_bruce_2bb23d9b:
 
@@ -3093,7 +3093,7 @@ translate russian angela_bj_bruce_30ba9581:
 
 translate russian angela_bj_bruce_33c44e7f:
 
-    bree.say "Там - в углу."
+    bree.say "Там — в углу."
 
 translate russian angela_bj_bruce_346463c5:
 
@@ -3105,7 +3105,7 @@ translate russian angela_bj_bruce_347b9976:
 
 translate russian angela_bj_bruce_35887351:
 
-    "Но я протянул руку и положил ее на ее запястье."
+    "Но я протянул руку и положил её на её запястье."
 
 translate russian angela_bj_bruce_393ca63c:
 
@@ -3129,7 +3129,7 @@ translate russian angela_bj_bruce_42bbca92:
 
 translate russian angela_bj_bruce_45fd148c:
 
-    "Я поднимаю голову и вижу, что Брюс тоже встает со своего места."
+    "Я поднимаю голову и вижу, что Брюс тоже встаёт со своего места."
 
 translate russian angela_bj_bruce_47889e37:
 
@@ -3173,7 +3173,7 @@ translate russian angela_bj_bruce_6400f0b5:
 
 translate russian angela_bj_bruce_64eed76f:
 
-    "Они просят счет и довольно быстро уходят."
+    "Они просят счёт и довольно быстро уходят."
 
 translate russian angela_bj_bruce_650c6219:
 
@@ -3213,7 +3213,7 @@ translate russian angela_bj_bruce_6f5a8f5e:
 
 translate russian angela_bj_bruce_6f8316ce:
 
-    "[bree.name] серьезно нахмурилась и кивнула."
+    "[bree.name] серьёзно нахмурилась и кивнула."
 
 translate russian angela_bj_bruce_6ff60c93:
 
@@ -3237,7 +3237,7 @@ translate russian angela_bj_bruce_7181587d:
 
 translate russian angela_bj_bruce_71d177a5:
 
-    "[bree.name] встает с места и идет за мной в дамскую комнату."
+    "[bree.name] встаёт с места и идёт за мной в дамскую комнату."
 
 translate russian angela_bj_bruce_72517e2b:
 
@@ -3261,7 +3261,7 @@ translate russian angela_bj_bruce_86a9cfa0:
 
 translate russian angela_bj_bruce_8a6606bb:
 
-    "Минами кивает и изо всех сил пытается выглядеть серьезной."
+    "Минами кивает и изо всех сил пытается выглядеть серьёзной."
 
 translate russian angela_bj_bruce_8b644f5e:
 
@@ -3273,7 +3273,7 @@ translate russian angela_bj_bruce_8ecdcd2c:
 
 translate russian angela_bj_bruce_91866a6d:
 
-    "Но я сразу вижу, что она все еще взволнована."
+    "Но я сразу вижу, что она всё ещё взволнована."
 
 translate russian angela_bj_bruce_920e7962:
 
@@ -3285,7 +3285,7 @@ translate russian angela_bj_bruce_9599a7a7:
 
 translate russian angela_bj_bruce_99cf2fcb:
 
-    "Некоторое время нам удается следовать плану."
+    "Некоторое время нам удаётся следовать плану."
 
 translate russian angela_bj_bruce_9bac4cb6:
 
@@ -3305,7 +3305,7 @@ translate russian angela_bj_bruce_a4bc1cf1:
 
 translate russian angela_bj_bruce_a55fb44d:
 
-    mike.say "Давай - чего ты ждешь?"
+    mike.say "Давай — чего ты ждёшь?"
 
 translate russian angela_bj_bruce_a9867758:
 
@@ -3313,15 +3313,15 @@ translate russian angela_bj_bruce_a9867758:
 
 translate russian angela_bj_bruce_b2fd8892:
 
-    "Мы вместе крадемся к соседней кабинке и встаем возле унитаза."
+    "Мы вместе крадёмся к соседней кабинке и встаём возле унитаза."
 
 translate russian angela_bj_bruce_b3ca36e3:
 
-    "Минами радостно позволяет официанту отодвинуть ее стул и берет меню."
+    "Минами радостно позволяет официанту отодвинуть её стул и берет меню."
 
 translate russian angela_bj_bruce_b7353732:
 
-    minami.say "О нет – это значит, что мама и папа разводятся?!"
+    minami.say "О нет — это значит, что мама и папа разводятся?!"
 
 translate russian angela_bj_bruce_b859efe2:
 
@@ -3333,7 +3333,7 @@ translate russian angela_bj_bruce_be9eab97:
 
 translate russian angela_bj_bruce_c060ede2:
 
-    "Через некоторое время Брюс выходит из женской уборной и возвращается на свое место."
+    "Через некоторое время Брюс выходит из женской уборной и возвращается на своё место."
 
 translate russian angela_bj_bruce_c2a80f99:
 
@@ -3349,7 +3349,7 @@ translate russian angela_bj_bruce_c76bb041:
 
 translate russian angela_bj_bruce_c8e08457:
 
-    "Моя мама появляется через несколько минут, выглядя немного растрепанной."
+    "Моя мама появляется через несколько минут, выглядя немного растрёпанной."
 
 translate russian angela_bj_bruce_cc0cb61c:
 
@@ -3369,7 +3369,7 @@ translate russian angela_bj_bruce_d1e4d9cc:
 
 translate russian angela_bj_bruce_d310ebeb:
 
-    "Минами встает с места и идет за мной в дамскую комнату."
+    "Минами встаёт с места и идёт за мной в дамскую комнату."
 
 translate russian angela_bj_bruce_b326bed5:
 
@@ -3381,11 +3381,11 @@ translate russian angela_bj_bruce_d66a0ec8:
 
 translate russian angela_bj_bruce_d6796a40:
 
-    "В результате она успевает лишь издать несколько приглушенных звуков испуга."
+    "В результате она успевает лишь издать несколько приглушённых звуков испуга."
 
 translate russian angela_bj_bruce_d8de3117:
 
-    "Кажется, все идет хорошо, нас проводят к нашему столику в ресторане."
+    "Кажется, все идёт хорошо, нас проводят к нашему столику в ресторане."
 
 translate russian angela_bj_bruce_df886bc4:
 
@@ -3393,23 +3393,23 @@ translate russian angela_bj_bruce_df886bc4:
 
 translate russian angela_bj_bruce_df961a4f:
 
-    mike.say "Почему же он туда пошел?!"
+    mike.say "Почему же он туда пошёл?!"
 
 translate russian angela_bj_bruce_df961a4f_1:
 
-    mike.say "Почему он вообще туда пошел?!?"
+    mike.say "Почему он вообще туда пошёл?!?"
 
 translate russian angela_bj_bruce_e9f4a726:
 
-    "Но потом я вижу, как ее глаза расширяются от удивления."
+    "Но потом я вижу, как её глаза расширяются от удивления."
 
 translate russian angela_bj_bruce_ed1c03c0:
 
-    "Но вы знаете, как это бывает – стоит мне услышать эти слова, моя голова поворачивается."
+    "Но вы знаете, как это бывает — стоит мне услышать эти слова, моя голова поворачивается."
 
 translate russian angela_bj_bruce_eee30080:
 
-    "Ничего особенного не происходит, пока моя мама не встает со своего места и не уходит."
+    "Ничего особенного не происходит, пока моя мама не встаёт со своего места и не уходит."
 
 translate russian angela_bj_bruce_f62e86a5:
 
@@ -3601,7 +3601,7 @@ translate russian ask_bruce_number_4b485cdf:
 
 translate russian ask_bruce_number_53655b02:
 
-    "Конечно, я могу позвонить своей маме и расспросить ее о том, что я видел в ресторане на прошлой неделе."
+    "Конечно, я могу позвонить своей маме и расспросить её о том, что я видел в ресторане на прошлой неделе."
 
 translate russian ask_bruce_number_644e20bf:
 
@@ -3649,11 +3649,11 @@ translate russian ask_bruce_number_d5ad4dea_1:
 
 translate russian ask_bruce_number_dc695aec:
 
-    "Она выглядит не очень убежденной."
+    "Она выглядит не очень убеждённой."
 
 translate russian ask_bruce_number_e6d12cf1:
 
-    "Но, может быть, человеку, которому мне действительно стоит позвонить по этому поводу, – это сам отец [bree.name]?"
+    "Но, может быть, человеку, которому мне действительно стоит позвонить по этому поводу, — это сам отец [bree.name]?"
 
 translate russian ask_bruce_number_e8df7633:
 
@@ -3673,7 +3673,7 @@ translate russian ask_bruce_number_f31548b3:
 
 translate russian ask_bruce_number_fd120d22:
 
-    "И единственный человек, у которого я могу его попросить – это [bree.name]."
+    "И единственный человек, у которого я могу его попросить — это [bree.name]."
 
 translate russian ask_for_a_job_day_e739f25e:
 
@@ -10869,7 +10869,7 @@ translate russian polygamy_news_26ae5171:
 
 translate russian polygamy_news_2aeb2d3a:
 
-    "Shady guy" "…сегодня в нижней палате состоялось второе чтение скандального «Законопроекта о реформе брака и социальных институтов»."
+    "Shady guy" "...сегодня в нижней палате состоялось второе чтение скандального «Законопроекта о реформе брака и социальных институтов»."
 
 translate russian polygamy_news_324e3629:
 
@@ -13225,7 +13225,7 @@ translate russian takeanappark_57fefccf:
 
 translate russian talk_d59fd609:
 
-    "Нам не о чем говорить."
+    "Нам не о чём говорить."
 
 translate russian taming_bondage_ayesha_fuck_c68cc434:
 
@@ -16652,16 +16652,16 @@ translate russian strings:
     new "Много"
 
     old "A mermaid for Ayesha and a mermaid for Kylie"
-    new "Русалка для Аиши и русалка для Кайли"
+    new "Русалка для Айши и русалка для Кайли"
 
     old "A mermaid for Ayesha and a shark for Kylie"
-    new "Русалка для Аиши и акула для Кайли"
+    new "Русалка для Айши и акула для Кайли"
 
     old "A mermaid for Kylie and a whale for Ayesha"
-    new "Русалка для Кайли и кит для Аиши"
+    new "Русалка для Кайли и кит для Айши"
 
     old "A whale for Ayesha and a shark for Kylie"
-    new "Кит для Аиши и акула для Кайли"
+    new "Кит для Айши и акула для Кайли"
 
     old "Abort"
     new "Прервать"
@@ -16790,7 +16790,7 @@ translate russian strings:
     new "Согласиться и сделать Кайли комплимент"
 
     old "Agree that Ayesha should have a termination"
-    new "Согласиться, что Аише стоит прервать беременность"
+    new "Согласиться, что Айше стоит прервать беременность"
 
     old "Agree that the verses have illuminated your own sins"
     new "Согласиться, что эти стихи раскрыли твои собственные грехи"
@@ -16820,7 +16820,7 @@ translate russian strings:
     new "Разрешить Алексис обниматься"
 
     old "Agree to manage Ayesha"
-    new "Согласиться быть менеджером Аиши"
+    new "Согласиться быть менеджером Айши"
 
     old "Agree to meet Harmony's family"
     new "Согласиться встретиться с семьёй Хармони"
@@ -17165,16 +17165,16 @@ translate russian strings:
     new "Пригласить Одри, Кэссиди и Паллу на свидание"
 
     old "Ask Ayesha and Hanna on a date"
-    new "Пригласить Аишу и Ханну на свидание"
+    new "Пригласить Айшу и Ханну на свидание"
 
     old "Ask Ayesha and Kylie on a date"
-    new "Пригласить Аишу и Кайли на свидание"
+    new "Пригласить Айшу и Кайли на свидание"
 
     old "Ask Ayesha for a blowjob"
-    new "Попросить Аишу сделать минет"
+    new "Попросить Айшу сделать минет"
 
     old "Ask Ayesha on a date"
-    new "Пригласить Аишу на свидание"
+    new "Пригласить Айшу на свидание"
 
     old "Ask Camila on a date"
     new "Пригласить Камилу на свидание"
@@ -17249,7 +17249,7 @@ translate russian strings:
     new "Пригласить Клео на свидание"
 
     old "Ask Kylie and Ayesha on a date"
-    new "Пригласить Кайли и Аишу на свидание"
+    new "Пригласить Кайли и Айшу на свидание"
 
     old "Ask Kylie on a date"
     new "Пригласить Кайли на свидание"
@@ -17408,34 +17408,34 @@ translate russian strings:
     new "Axium, Thormakar, Tomcat2k, CouncilOfOne, Zach Johnson,"
 
     old "Ayesha fucks Kylie's ass"
-    new "Аиша трахает Кайли в задницу"
+    new "Айша трахает Кайли в задницу"
 
     old "Ayesha fucks Kylie's pussy"
-    new "Аиша трахает киску Кайли"
+    new "Айша трахает киску Кайли"
 
     old "Ayesha is a personal trainer"
-    new "Аиша — персональный тренер"
+    new "Айша — персональный тренер"
 
     old "Ayesha is a professional wrestler"
-    new "Аиша — профессиональная рестлерша"
+    new "Айша — профессиональная рестлерша"
 
     old "Ayesha needs to cool down"
-    new "Аише нужно остыть"
+    new "Айше нужно остыть"
 
     old "Ayesha pulls out"
-    new "Аиша вытаскивает"
+    new "Айша вытаскивает"
 
     old "Ayesha stays inside"
-    new "Аиша остаётся внутри"
+    new "Айша остаётся внутри"
 
     old "Ayesha! Shut up!"
-    new "Аиша! Заткнись!"
+    new "Айша! Заткнись!"
 
     old "Ayesha, I'm disappointed"
-    new "Аиша, я разочарован"
+    new "Айша, я разочарован"
 
     old "Ayesha, it's just a joke"
-    new "Аиша, это просто шутка"
+    new "Айша, это просто шутка"
 
     old "B"
     new "B"
@@ -17672,7 +17672,7 @@ translate russian strings:
     new "Blackspack, Evan Laforet, Hunter ingram, Phillip Razlow,"
 
     old "Blame Ayesha"
-    new "Обвинить Аишу"
+    new "Обвинить Айшу"
 
     old "Blame Kylie"
     new "Обвинить Кайли"
@@ -18581,7 +18581,7 @@ translate russian strings:
     new "Кончить Одри в рот"
 
     old "Cum in Ayesha's mouth"
-    new "Кончить Аише в рот"
+    new "Кончить Айше в рот"
 
     old "Cum in Camila's mouth"
     new "Кончить Камиле в рот"
@@ -18785,7 +18785,7 @@ translate russian strings:
     new "Танцевать с Одри"
 
     old "Dance with Ayesha"
-    new "Танцевать с Аишей"
+    new "Танцевать с Айшей"
 
     old "Dance with Cherie"
     new "Танцевать с Шери"
@@ -18884,10 +18884,10 @@ translate russian strings:
     new "Защитить Одри"
 
     old "Defend Ayesha"
-    new "Защитить Аишу"
+    new "Защитить Айшу"
 
     old "Defend Ayesha and yourself"
-    new "Защитить Аишу и себя"
+    new "Защитить Айшу и себя"
 
     old "Defend Camila"
     new "Защитить Камилу"
@@ -18992,7 +18992,7 @@ translate russian strings:
     new "Не согласиться с Алексис"
 
     old "Disagree, Ayesha shouldn't have a termination"
-    new "Не согласиться: Аише не стоит прерывать беременность"
+    new "Не согласиться: Айше не стоит прерывать беременность"
 
     old "Disapprove"
     new "Выразить неодобрение"
@@ -19754,10 +19754,10 @@ translate russian strings:
     new "Трахнуть Одри в киску"
 
     old "Fuck Ayesha"
-    new "Трахнуть Аишу"
+    new "Трахнуть Айшу"
 
     old "Fuck Ayesha too"
-    new "Трахнуть и Аишу"
+    new "Трахнуть и Айшу"
 
     old "Fuck Camila"
     new "Трахнуть Камилу"
@@ -20009,7 +20009,7 @@ translate russian strings:
     new "Сделать Алексис массаж"
 
     old "Give Ayesha oral"
-    new "Сделать Аише кунилингус"
+    new "Сделать Айше кунилингус"
 
     old "Give her a cunnilingus"
     new "Сделать ей кунилингус"
@@ -22007,16 +22007,16 @@ translate russian strings:
     new "Позволить Одри сделать по-своему"
 
     old "Let Ayesha defend you"
-    new "Позволить Аише защитить тебя"
+    new "Позволить Айше защитить тебя"
 
     old "Let Ayesha pick up the tab"
-    new "Позволить Аише оплатить счёт"
+    new "Позволить Айше оплатить счёт"
 
     old "Let Ayesha put Kylie in her place"
-    new "Позволить Аише поставить Кайли на место"
+    new "Позволить Айше поставить Кайли на место"
 
     old "Let Ayesha use Kylie"
-    new "Позволить Аише использовать Кайли"
+    new "Позволить Айше использовать Кайли"
 
     old "Let go"
     new "Отпустить"
@@ -22577,7 +22577,7 @@ translate russian strings:
     new "Средняя кнопка"
 
     old "MidnightDatura as Ayesha, Kiara & Cherie"
-    new "MidnightDatura — Аиша, Киара и Шери"
+    new "MidnightDatura — Айша, Киара и Шери"
 
     old "Mighty Heimskr, Jacob Brickner, alexlycan805, Kory Davis,"
     new "Mighty Heimskr, Jacob Brickner, alexlycan805, Kory Davis,"
@@ -23444,7 +23444,7 @@ translate russian strings:
     new "Энергосбережение"
 
     old "Praise Ayesha's performance"
-    new "Похвалить выступление Аиши"
+    new "Похвалить выступление Айши"
 
     old "Praise Sasha when she gets home"
     new "Похвалить Сашу, когда она вернётся домой"
@@ -23720,7 +23720,7 @@ translate russian strings:
     new "Не разрешать Алексис обниматься"
 
     old "Refuse to manage Ayesha"
-    new "Отказаться быть менеджером Аиши"
+    new "Отказаться быть менеджером Айши"
 
     old "Refuse to meet Harmony's family"
     new "Отказаться встречаться с семьёй Хармони"
@@ -25406,16 +25406,16 @@ translate russian strings:
     new "Сказать Алетте уйти"
 
     old "Tell Ayesha it was an accident"
-    new "Сказать Аише, что это была случайность"
+    new "Сказать Айше, что это была случайность"
 
     old "Tell Ayesha not to do it"
-    new "Сказать Аише не делать этого"
+    new "Сказать Айше не делать этого"
 
     old "Tell Ayesha off"
-    new "Отчитать Аишу"
+    new "Отчитать Айшу"
 
     old "Tell Ayesha to go for it"
-    new "Сказать Аише, чтобы она попробовала"
+    new "Сказать Айше, чтобы она попробовала"
 
     old "Tell Emma to get rid of it"
     new "Сказать Эмме избавиться от этого"

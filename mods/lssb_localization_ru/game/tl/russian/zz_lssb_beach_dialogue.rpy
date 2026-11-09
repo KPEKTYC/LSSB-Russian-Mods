@@ -5482,7 +5482,7 @@ translate russian home_harem_lexi_minami_samantha_beach_date_31326dbc:
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2413
 translate russian home_harem_lexi_minami_samantha_beach_date_33bb80b1:
-    "Так что спорить не о чем."
+    "Так что спорить не о чём."
 
 # ch/harems/home/events/home_harem_beach_date.rpy:2415
 translate russian home_harem_lexi_minami_samantha_beach_date_fffaf52b:

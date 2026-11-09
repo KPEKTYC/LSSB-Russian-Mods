@@ -22,7 +22,7 @@ translate russian cupid_hanna_master_event_01_e3d7e3c4:
     "А вот навстречу мне кто-то бежит."
 
 translate russian cupid_hanna_master_event_01_929c7c1d:
-    "Так, [hero.name], да, это девушка в облегающей спортивной одежде…"
+    "Так, [hero.name], да, это девушка в облегающей спортивной одежде..."
 
 translate russian cupid_hanna_master_event_01_837e58b7:
     "Но это не повод уделять ей всё своё внимание."
@@ -46,7 +46,7 @@ translate russian cupid_hanna_master_event_01_74e81f31:
     hanna.say "О..."
 
 translate russian cupid_hanna_master_event_01_25a0df99:
-    hanna.say "Привет, [hero.name]…"
+    hanna.say "Привет, [hero.name]..."
 
 translate russian cupid_hanna_master_event_01_e2a5dea3:
     hanna.say "Какая встреча!"
@@ -94,7 +94,7 @@ translate russian cupid_hanna_master_event_01_bf7d4bda:
     hanna.say "Ты прав!"
 
 translate russian cupid_hanna_master_event_01_8d5804a7:
-    hanna.say "Спасибо, [hero.name]…"
+    hanna.say "Спасибо, [hero.name]..."
 
 translate russian cupid_hanna_master_event_01_dfbfe655:
     hanna.say "Увидимся в зале, ладно?"
@@ -154,7 +154,7 @@ translate russian cupid_hanna_master_event_01_ed4ab965:
     "Ханна указывает на меня пальцем и снова трусит вперёд."
 
 translate russian cupid_hanna_master_event_01_8820c694:
-    hanna.say "Ловлю на слове, [hero.name]…"
+    hanna.say "Ловлю на слове, [hero.name]..."
 
 translate russian cupid_hanna_master_event_01_fa75e04f:
     hanna.say "И можешь не сомневаться: следующая тренировка со мной будет особенно тяжёлой!"
@@ -187,7 +187,7 @@ translate russian cupid_hanna_master_event_01_782fe241:
     hanna.say "Эм..."
 
 translate russian cupid_hanna_master_event_01_13f0e1bf:
-    hanna.say "Я просто поздоровалась, [hero.name]…"
+    hanna.say "Я просто поздоровалась, [hero.name]..."
 
 translate russian cupid_hanna_master_event_01_af51cf7d:
     hanna.say "Я за тобой не шпионила!"

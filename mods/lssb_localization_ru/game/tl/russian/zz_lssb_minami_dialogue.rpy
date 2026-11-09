@@ -7570,7 +7570,7 @@ translate russian minami_practice_sex_f3f89b8b:
 
 # ch/minami/events.rpy:1992
 translate russian minami_practice_sex_16433e0e:
-    "Ведь после этого ей уже не о чем будет меня просить, правда?"
+    "Ведь после этого ей уже не о чём будет меня просить, правда?"
 
 # ch/minami/events.rpy:1993
 translate russian minami_practice_sex_d901eb99:
@@ -13194,7 +13194,7 @@ translate russian minami_siscon_06_853f9fc6:
 
 # ch/minami/events.rpy:4104
 translate russian minami_siscon_06_9d196e58:
-    "Я лишь снова пожимаю плечами, показывая, что беспокоиться не о чем."
+    "Я лишь снова пожимаю плечами, показывая, что беспокоиться не о чём."
 
 # ch/minami/events.rpy:4106
 translate russian minami_siscon_06_ef12790c:

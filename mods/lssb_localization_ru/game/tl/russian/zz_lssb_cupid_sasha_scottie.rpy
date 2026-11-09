@@ -34,10 +34,10 @@ translate russian cupid_sasha_scottie_event_01_49645cb4:
     "Потом нарочито неспешно иду в прихожую."
 
 translate russian cupid_sasha_scottie_event_01_61a63f7c:
-    mike.say "Помой посуду, [hero.name]…"
+    mike.say "Помой посуду, [hero.name]..."
 
 translate russian cupid_sasha_scottie_event_01_33f66ac5:
-    mike.say "Подмети пол, [hero.name]…"
+    mike.say "Подмети пол, [hero.name]..."
 
 translate russian cupid_sasha_scottie_event_01_3f1027ae:
     mike.say "А мы пока примерим платья для бала у принца..."
@@ -616,7 +616,7 @@ translate russian cupid_sasha_scottie_event_02_172c5f0c:
     "Где его черти носят?"
 
 translate russian cupid_sasha_scottie_event_02_783714a0:
-    scottie.say "Эй, [hero.name]…"
+    scottie.say "Эй, [hero.name]..."
 
 translate russian cupid_sasha_scottie_event_02_8bb843bd:
     scottie.say "Как оно?"
@@ -1609,7 +1609,7 @@ translate russian cupid_sasha_scottie_event_03_70a8f2b2:
     "Priest" "Достаточно простого «да»."
 
 translate russian cupid_sasha_scottie_event_03_d571e133:
-    "Priest" "А ты, Саша…"
+    "Priest" "А ты, Саша..."
 
 translate russian cupid_sasha_scottie_event_03_8ad20850:
     "Priest" "Согласна ли взять Скотти..."
@@ -1930,7 +1930,7 @@ translate russian cupid_sasha_scottie_event_04_885c91f7:
     "Но затем Саша улыбается и пожимает плечами."
 
 translate russian cupid_sasha_scottie_event_04_354fd3c8:
-    sasha.say "Иди сюда, [hero.name]…"
+    sasha.say "Иди сюда, [hero.name]..."
 
 translate russian cupid_sasha_scottie_event_04_3c892256:
     "Я обнимаю Сашу, и мы ненадолго замираем в дружеских объятиях."

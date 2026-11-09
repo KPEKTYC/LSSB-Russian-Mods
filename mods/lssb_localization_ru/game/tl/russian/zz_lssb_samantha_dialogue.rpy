@@ -5666,7 +5666,7 @@ translate russian samantha_halloween_arrival_3404bce2_1:
 
 # ch/samantha/date.rpy:636
 translate russian samantha_halloween_arrival_273b5e14:
-    samantha.say "Поверь, тебе не о чем волноваться!"
+    samantha.say "Поверь, тебе не о чём волноваться!"
 
 # ch/samantha/date.rpy:637
 translate russian samantha_halloween_arrival_d9bb4271:
@@ -5886,7 +5886,7 @@ translate russian samantha_halloween_arrival_3404bce2_3:
 
 # ch/samantha/date.rpy:719
 translate russian samantha_halloween_arrival_273b5e14_1:
-    samantha.say "Поверь, тебе не о чем волноваться!"
+    samantha.say "Поверь, тебе не о чём волноваться!"
 
 # ch/samantha/date.rpy:720
 translate russian samantha_halloween_arrival_d9bb4271_1:
@@ -19367,7 +19367,7 @@ translate russian samantha_event_B04_89e9cbe0:
 
 # ch/samantha/events.rpy:5811
 translate russian samantha_event_B04_9b54f047:
-    "Если ребёнок не мой, то беспокоиться не о чем, кроме злости Райана."
+    "Если ребёнок не мой, то беспокоиться не о чём, кроме злости Райана."
 
 # ch/samantha/events.rpy:5813
 translate russian samantha_event_B04_fd4a7ff2:
@@ -27655,7 +27655,7 @@ translate russian samantha_side_event_02_f8a4b7d1:
 
 # ch/samantha/events.rpy:9193
 translate russian samantha_ryan_dead_d2370ebc:
-    samantha.say "Привет, [lssb_samantha.hero_name()]…"
+    samantha.say "Привет, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/events.rpy:9194
 translate russian samantha_ryan_dead_bed37969:
@@ -27699,7 +27699,7 @@ translate russian samantha_ryan_dead_89af6b06:
 
 # ch/samantha/events.rpy:9206
 translate russian samantha_ryan_dead_209d0bea:
-    samantha.say "Ох, [lssb_samantha.hero_name()]…"
+    samantha.say "Ох, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/events.rpy:9207
 translate russian samantha_ryan_dead_90f2de0b:
@@ -28003,7 +28003,7 @@ translate russian samantha_ryan_dead_ee32df43:
 
 # ch/samantha/events.rpy:9313
 translate russian samantha_ryan_dead_8001e00f:
-    samantha.say "Спасибо, [lssb_samantha.hero_name()]…"
+    samantha.say "Спасибо, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/events.rpy:9314
 translate russian samantha_ryan_dead_6117a68c:
@@ -28507,7 +28507,7 @@ translate russian samantha_ryan_funeral_9f70ab4a:
 
 # ch/samantha/events.rpy:9501
 translate russian samantha_ryan_funeral_209d0bea:
-    samantha.say "Ох, [lssb_samantha.hero_name()]…"
+    samantha.say "Ох, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/events.rpy:9502
 translate russian samantha_ryan_funeral_a69d07fa:
@@ -28751,7 +28751,7 @@ translate russian samantha_ryan_funeral_missed_20d7523c:
 
 # ch/samantha/events.rpy:9587
 translate russian samantha_ryan_funeral_missed_020a47c5:
-    samantha.say "Мне сегодня очень нужна была твоя поддержка, [lssb_samantha.hero_name()]…"
+    samantha.say "Мне сегодня очень нужна была твоя поддержка, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/events.rpy:9588
 translate russian samantha_ryan_funeral_missed_3bb15e4b:
@@ -28795,7 +28795,7 @@ translate russian samantha_ryan_funeral_missed_ab87baf4:
 
 # ch/samantha/events.rpy:9599
 translate russian samantha_ryan_funeral_missed_e9986799:
-    samantha.say "Да, [lssb_samantha.hero_name()]…"
+    samantha.say "Да, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/events.rpy:9600
 translate russian samantha_ryan_funeral_missed_f5ee077b:
@@ -28855,7 +28855,7 @@ translate russian samantha_ryan_funeral_missed_5ceda87e:
 
 # ch/samantha/events.rpy:9615
 translate russian samantha_ryan_funeral_missed_020a47c5_1:
-    samantha.say "Мне сегодня очень нужна была твоя поддержка, [lssb_samantha.hero_name()]…"
+    samantha.say "Мне сегодня очень нужна была твоя поддержка, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/events.rpy:9616
 translate russian samantha_ryan_funeral_missed_3bb15e4b_1:
@@ -29203,7 +29203,7 @@ translate russian samantha_talk_confess_male_665c18f9:
 
 # ch/samantha/events.rpy:9738
 translate russian samantha_talk_confess_male_27d83a4f:
-    samantha.say "Он угодил под чёртов автобус, [lssb_samantha.hero_name()]…"
+    samantha.say "Он угодил под чёртов автобус, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/events.rpy:9739
 translate russian samantha_talk_confess_male_0c820369:
@@ -31883,7 +31883,7 @@ translate russian samantha_fuck_date_bj_98fb1705:
 
 # ch/samantha/fuck.rpy:930
 translate russian samantha_fuck_date_bj_5c58cb7b:
-    samantha.say "Я буду нежной… а потом ненасытной."
+    samantha.say "Я буду нежной... а потом ненасытной."
 
 # ch/samantha/fuck.rpy:931
 translate russian samantha_fuck_date_bj_fd604e2f:
@@ -32291,11 +32291,11 @@ translate russian samantha_fuck_date_titjob_888c76ea:
 
 # ch/samantha/fuck.rpy:1107
 translate russian samantha_fuck_date_titjob_68b4302b:
-    samantha.say "Нежнее… я всё ещё хочу всё чувствовать."
+    samantha.say "Нежнее... я всё ещё хочу всё чувствовать."
 
 # ch/samantha/fuck.rpy:1109
 translate russian samantha_fuck_date_titjob_cc25e7bf:
-    samantha.say "Полегче… помни, наш малыш слышит."
+    samantha.say "Полегче... помни, наш малыш слышит."
 
 # ch/samantha/fuck.rpy:1110
 translate russian samantha_fuck_date_titjob_9a66522a:
@@ -34191,7 +34191,7 @@ translate russian samantha_fuck_date_reverse_cowgirl_8ae8ef78:
 
 # ch/samantha/fuck.rpy:1965
 translate russian samantha_fuck_date_reverse_cowgirl_13912693:
-    samantha.say "Полегче… хотя бы сначала."
+    samantha.say "Полегче... хотя бы сначала."
 
 # ch/samantha/fuck.rpy:1968
 translate russian samantha_fuck_date_reverse_cowgirl_04c0339c:
@@ -35031,7 +35031,7 @@ translate russian samantha_fuck_date_cowgirl_989cc7e0:
 
 # ch/samantha/fuck.rpy:2364
 translate russian samantha_fuck_date_cowgirl_9afe8ee5:
-    samantha.say "Нежнее… а потом сильнее. Пожалуйста."
+    samantha.say "Нежнее... а потом сильнее. Пожалуйста."
 
 # ch/samantha/fuck.rpy:2365
 translate russian samantha_fuck_date_cowgirl_2a5749b2:
@@ -35683,7 +35683,7 @@ translate russian samantha_fuck_date_missionary_54075c31:
 
 # ch/samantha/fuck.rpy:2851
 translate russian samantha_fuck_date_missionary_8248bc6c:
-    samantha.say "Медленно… хочу почувствовать каждый сантиметр."
+    samantha.say "Медленно... хочу почувствовать каждый сантиметр."
 
 # ch/samantha/fuck.rpy:2853
 translate russian samantha_fuck_date_missionary_392fb636:
@@ -36295,7 +36295,7 @@ translate russian samantha_fuck_date_missionary_be6aeab2:
 
 # ch/samantha/fuck.rpy:3101
 translate russian samantha_fuck_date_missionary_1faffa99:
-    "К счастью, мы нашли время на презерватив, так что беспокоиться не о чем."
+    "К счастью, мы нашли время на презерватив, так что беспокоиться не о чём."
 
 # ch/samantha/fuck.rpy:3103
 translate russian samantha_fuck_date_missionary_1f757ae3:
@@ -36907,7 +36907,7 @@ translate russian samantha_fuck_flat_doggy_8d4c4f9b:
 
 # ch/samantha/fuck.rpy:3355
 translate russian samantha_fuck_flat_doggy_aa8938ea:
-    samantha.say "Начни размеренно… а потом разнеси меня."
+    samantha.say "Начни размеренно... а потом разнеси меня."
 
 # ch/samantha/fuck.rpy:3356
 translate russian samantha_fuck_flat_doggy_a09bdab9:
@@ -37295,7 +37295,7 @@ translate russian samantha_fuck_flat_doggy_ade7e48d:
 
 # ch/samantha/fuck.rpy:3494
 translate russian samantha_fuck_flat_doggy_c212201c:
-    samantha.say "Сначала размеренно… потом сильнее."
+    samantha.say "Сначала размеренно... потом сильнее."
 
 # ch/samantha/fuck.rpy:3495
 translate russian samantha_fuck_flat_doggy_10ebe3ea:
@@ -37787,7 +37787,7 @@ translate russian samantha_fuck_flat_doggy_c8c89151:
 
 # ch/samantha/fuck.rpy:3679
 translate russian samantha_fuck_flat_doggy_839107b0:
-    samantha.say "Наполни меня… только не спеши."
+    samantha.say "Наполни меня... только не спеши."
 
 # ch/samantha/fuck.rpy:3680
 translate russian samantha_fuck_flat_doggy_52395826_2:
@@ -37971,7 +37971,7 @@ translate russian samantha_date_fuck_beads_out_cc42a8db:
 
 # ch/samantha/fuck.rpy:3757
 translate russian samantha_date_fuck_beads_out_55aa249f:
-    samantha.say "Твоя рабыня освобождается для тебя…"
+    samantha.say "Твоя рабыня освобождается для тебя..."
 
 # ch/samantha/fuck.rpy:3759
 translate russian samantha_date_fuck_beads_out_fd32efcd:
@@ -37979,7 +37979,7 @@ translate russian samantha_date_fuck_beads_out_fd32efcd:
 
 # ch/samantha/fuck.rpy:3761
 translate russian samantha_date_fuck_beads_out_cb73f6c6:
-    samantha.say "Боже... ладно... дыши... сделай так ещё… только в следующий раз помедленнее."
+    samantha.say "Боже... ладно... дыши... сделай так ещё... только в следующий раз помедленнее."
 
 # ch/samantha/fuck.rpy:3763
 translate russian samantha_date_fuck_beads_out_c097a993:
@@ -38035,7 +38035,7 @@ translate russian samantha_date_fuck_dildo_30c672d5:
 
 # ch/samantha/fuck.rpy:3790
 translate russian samantha_date_fuck_dildo_e8c17c9f:
-    samantha.say "Покажи мне… только будь нежным."
+    samantha.say "Покажи мне... только будь нежным."
 
 # ch/samantha/fuck.rpy:3791
 translate russian samantha_date_fuck_dildo_779e339f:
@@ -38235,7 +38235,7 @@ translate russian samantha_sleep_date_fuck_ea60a2d2:
 
 # ch/samantha/fuck.rpy:3880
 translate russian samantha_sleep_date_fuck_5e5d0676:
-    samantha.say "Останься здесь… Мне нравится чувствовать тебя у себя за спиной."
+    samantha.say "Останься здесь... Мне нравится чувствовать тебя у себя за спиной."
 
 # ch/samantha/fuck.rpy:3882
 translate russian samantha_sleep_date_fuck_fe442ecf:
@@ -38811,7 +38811,7 @@ translate russian samantha_fuck_bathroom_e0578896:
 
 # ch/samantha/fuck.rpy:4084
 translate russian samantha_fuck_bathroom_45137384:
-    samantha.say "Держи ровный темп… а потом сильнее."
+    samantha.say "Держи ровный темп... а потом сильнее."
 
 # ch/samantha/fuck.rpy:4085
 translate russian samantha_fuck_bathroom_9b122763:
@@ -39015,7 +39015,7 @@ translate russian samantha_fuck_bathroom_3086dcff:
 
 # ch/samantha/fuck.rpy:4157
 translate russian samantha_fuck_bathroom_5298f36d:
-    samantha.say "Сначала медленно… а потом разнеси меня."
+    samantha.say "Сначала медленно... а потом разнеси меня."
 
 # ch/samantha/fuck.rpy:4158
 translate russian samantha_fuck_bathroom_3435d5dc:
@@ -39411,7 +39411,7 @@ translate russian samantha_fuck_date_beach_8267fd42:
 
 # ch/samantha/fuck.rpy:4314
 translate russian samantha_fuck_date_beach_4630075d:
-    samantha.say "Не спеши… а потом не останавливайся."
+    samantha.say "Не спеши... а потом не останавливайся."
 
 # ch/samantha/fuck.rpy:4315
 translate russian samantha_fuck_date_beach_075750f7:
@@ -40611,7 +40611,7 @@ translate russian samantha_gift_slutty_dress_male_eddbaa3d:
 
 # ch/samantha/gift.rpy:208
 translate russian samantha_gift_slutty_dress_male_bf21f3b0:
-    samantha.say "Это довольно вызывающе, [lssb_samantha.hero_name()]…"
+    samantha.say "Это довольно вызывающе, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/gift.rpy:209
 translate russian samantha_gift_slutty_dress_male_2b200487:
@@ -40655,7 +40655,7 @@ translate russian samantha_gift_slutty_dress_male_bafcea8c:
 
 # ch/samantha/gift.rpy:221
 translate russian samantha_gift_slutty_dress_male_6d33d4fc:
-    samantha.say "Успокойся, [lssb_samantha.hero_name()]…"
+    samantha.say "Успокойся, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/gift.rpy:222
 translate russian samantha_gift_slutty_dress_male_4cb571b6:
@@ -40735,7 +40735,7 @@ translate russian samantha_gift_slutty_dress_male_eddbaa3d_1:
 
 # ch/samantha/gift.rpy:255
 translate russian samantha_gift_slutty_dress_male_bf21f3b0_1:
-    samantha.say "Это довольно вызывающе, [lssb_samantha.hero_name()]…"
+    samantha.say "Это довольно вызывающе, [lssb_samantha.hero_name()]..."
 
 # ch/samantha/gift.rpy:256
 translate russian samantha_gift_slutty_dress_male_0448837e:

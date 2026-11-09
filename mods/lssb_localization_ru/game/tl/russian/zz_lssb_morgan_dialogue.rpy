@@ -4422,7 +4422,7 @@ translate russian morgan_murder_talk_d486ffb2:
 
 # ch/morgan/events.rpy:546
 translate russian morgan_murder_talk_f9d3a6fc:
-    morgan.say "Привет, [lssb_morgan.hero_name()]…"
+    morgan.say "Привет, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/events.rpy:547
 translate russian morgan_murder_talk_a63dea91:
@@ -4486,7 +4486,7 @@ translate russian morgan_murder_talk_14de4e34:
 
 # ch/morgan/events.rpy:564
 translate russian morgan_murder_talk_185049f9:
-    morgan.say "Эм…"
+    morgan.say "Эм..."
 
 # ch/morgan/events.rpy:565
 translate russian morgan_murder_talk_712a80ba:
@@ -4494,7 +4494,7 @@ translate russian morgan_murder_talk_712a80ba:
 
 # ch/morgan/events.rpy:567
 translate russian morgan_murder_talk_04556f19:
-    morgan.say "Прости, [lssb_morgan.hero_name()]…"
+    morgan.say "Прости, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/events.rpy:568
 translate russian morgan_murder_talk_81a8e25d:
@@ -4502,7 +4502,7 @@ translate russian morgan_murder_talk_81a8e25d:
 
 # ch/morgan/events.rpy:570
 translate russian morgan_murder_talk_63e555b3:
-    morgan.say "Ох, [lssb_morgan.hero_name()]…"
+    morgan.say "Ох, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/events.rpy:571
 translate russian morgan_murder_talk_1dfe7a3d:
@@ -4822,7 +4822,7 @@ translate russian morgan_murder_talk_2d6b92f6:
 
 # ch/morgan/events.rpy:676
 translate russian morgan_murder_talk_050b8e97:
-    morgan.say "Всё это доказывает одно, [lssb_morgan.hero_name()]…"
+    morgan.say "Всё это доказывает одно, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/events.rpy:677
 translate russian morgan_murder_talk_7d540191:
@@ -12306,7 +12306,7 @@ translate russian morgan_react_kylie_sentence_d0990c3b:
 
 # ch/morgan/events.rpy:3224
 translate russian morgan_react_kylie_sentence_e347a0e5:
-    morgan.say "Всё, что нужно, [lssb_morgan.hero_name()]…"
+    morgan.say "Всё, что нужно, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/events.rpy:3225
 translate russian morgan_react_kylie_sentence_36115cd6:
@@ -12382,7 +12382,7 @@ translate russian morgan_birthday_date_tomboy_8b0b5bfe:
 
 # ch/morgan/events.rpy:3260
 translate russian morgan_birthday_date_tomboy_64fb3656:
-    "Затем непринуждённо пожимаю плечами, показывая, что волноваться не о чем."
+    "Затем непринуждённо пожимаю плечами, показывая, что волноваться не о чём."
 
 # ch/morgan/events.rpy:3261
 translate russian morgan_birthday_date_tomboy_7a2f0486:
@@ -12394,7 +12394,7 @@ translate russian morgan_birthday_date_tomboy_8f12a112:
 
 # ch/morgan/events.rpy:3263
 translate russian morgan_birthday_date_tomboy_2223f648:
-    mike.say "Не о чем беспокоиться."
+    mike.say "Не о чём беспокоиться."
 
 # ch/morgan/events.rpy:3265
 translate russian morgan_birthday_date_tomboy_2d08fc90:
@@ -14378,7 +14378,7 @@ translate russian morgan_birthday_date_feminine_8b0b5bfe:
 
 # ch/morgan/events.rpy:3904
 translate russian morgan_birthday_date_feminine_64fb3656:
-    "Затем непринуждённо пожимаю плечами, показывая, что волноваться не о чем."
+    "Затем непринуждённо пожимаю плечами, показывая, что волноваться не о чём."
 
 # ch/morgan/events.rpy:3905
 translate russian morgan_birthday_date_feminine_7a2f0486:
@@ -14390,7 +14390,7 @@ translate russian morgan_birthday_date_feminine_8f12a112:
 
 # ch/morgan/events.rpy:3907
 translate russian morgan_birthday_date_feminine_2223f648:
-    mike.say "Не о чем беспокоиться."
+    mike.say "Не о чём беспокоиться."
 
 # ch/morgan/events.rpy:3908
 translate russian morgan_birthday_date_feminine_ebdbd551:
@@ -16242,7 +16242,7 @@ translate russian morgan_birthday_sex_feminine_e47a6486:
 
 # ch/morgan/events.rpy:4531
 translate russian morgan_birthday_sex_feminine_3ac81517:
-    mike.say "Даже если кто-то дома, беспокоиться не о чем."
+    mike.say "Даже если кто-то дома, беспокоиться не о чём."
 
 # ch/morgan/events.rpy:4532
 translate russian morgan_birthday_sex_feminine_5e905d15:
@@ -17550,7 +17550,7 @@ translate russian morgan_fuck_date_intro_male_ea8f66c7:
 
 # ch/morgan/fuck.rpy:502
 translate russian morgan_fuck_date_intro_male_50a9b309:
-    morgan.say "Эй, [lssb_morgan.hero_name()]…"
+    morgan.say "Эй, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/fuck.rpy:503
 translate russian morgan_fuck_date_intro_male_93a609c1:
@@ -17654,7 +17654,7 @@ translate russian morgan_fuck_date_intro_male_4f637831:
 
 # ch/morgan/fuck.rpy:542
 translate russian morgan_fuck_date_intro_male_88dc3c39:
-    morgan.say "Т... ты не представляешь, каково это, [lssb_morgan.hero_name()]…"
+    morgan.say "Т... ты не представляешь, каково это, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/fuck.rpy:543
 translate russian morgan_fuck_date_intro_male_5da10e78:
@@ -22238,7 +22238,7 @@ translate russian morgan_fuck_date_standing_8400eb3f:
 
 # ch/morgan/fuck.rpy:2526
 translate russian morgan_fuck_date_standing_ecb79a22:
-    morgan.say "Не на кровати, [lssb_morgan.hero_name()]…"
+    morgan.say "Не на кровати, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/fuck.rpy:2527
 translate russian morgan_fuck_date_standing_68b9491a:
@@ -23714,7 +23714,7 @@ translate russian morgan_gift_slutty_dress_male_3c1357af:
 
 # ch/morgan/gift.rpy:302
 translate russian morgan_gift_slutty_dress_male_bb9c3457:
-    morgan.say "Спасибо, [lssb_morgan.hero_name()]…"
+    morgan.say "Спасибо, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/gift.rpy:303
 translate russian morgan_gift_slutty_dress_male_6cbd5f4d:
@@ -23802,7 +23802,7 @@ translate russian morgan_gift_slutty_dress_male_45cd2e91:
 
 # ch/morgan/gift.rpy:337
 translate russian morgan_gift_slutty_dress_male_f51317be:
-    morgan.say "Ты АБСОЛЮТНО прав, [lssb_morgan.hero_name()]…"
+    morgan.say "Ты АБСОЛЮТНО прав, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/gift.rpy:338
 translate russian morgan_gift_slutty_dress_male_b8c245bd:
@@ -24870,7 +24870,7 @@ translate russian morgan_belly_kiss_male_9adf3d5d:
 
 # ch/morgan/reactions.rpy:432
 translate russian morgan_belly_kiss_male_8cd4b541:
-    morgan.say "Не такая уж это странная просьба, [lssb_morgan.hero_name()]…"
+    morgan.say "Не такая уж это странная просьба, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/reactions.rpy:433
 translate russian morgan_belly_kiss_male_d69b0815:
@@ -24878,7 +24878,7 @@ translate russian morgan_belly_kiss_male_d69b0815:
 
 # ch/morgan/reactions.rpy:435
 translate russian morgan_belly_kiss_male_53263422:
-    morgan.say "Это мило, [lssb_morgan.hero_name()]…"
+    morgan.say "Это мило, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/reactions.rpy:436
 translate russian morgan_belly_kiss_male_fb97cb7f:
@@ -24974,7 +24974,7 @@ translate russian morgan_belly_caress_male_3290c679:
 
 # ch/morgan/reactions.rpy:471
 translate russian morgan_belly_caress_male_9030e820:
-    morgan.say "Вот, [lssb_morgan.hero_name()]…"
+    morgan.say "Вот, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/reactions.rpy:472
 translate russian morgan_belly_caress_male_4390e337:
@@ -24982,7 +24982,7 @@ translate russian morgan_belly_caress_male_4390e337:
 
 # ch/morgan/reactions.rpy:474
 translate russian morgan_belly_caress_male_b47f1773:
-    morgan.say "Конечно, можно, [lssb_morgan.hero_name()]…"
+    morgan.say "Конечно, можно, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/reactions.rpy:475
 translate russian morgan_belly_caress_male_b85a0825:
@@ -24990,7 +24990,7 @@ translate russian morgan_belly_caress_male_b85a0825:
 
 # ch/morgan/reactions.rpy:477
 translate russian morgan_belly_caress_male_63e555b3:
-    morgan.say "О, [lssb_morgan.hero_name()]…"
+    morgan.say "О, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/reactions.rpy:478
 translate russian morgan_belly_caress_male_a84debbc:
@@ -25082,7 +25082,7 @@ translate russian morgan_belly_listen_male_f2071346:
 
 # ch/morgan/reactions.rpy:512
 translate russian morgan_belly_listen_male_0eca52e3:
-    morgan.say "Всё хорошо, [lssb_morgan.hero_name()]…"
+    morgan.say "Всё хорошо, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/reactions.rpy:513
 translate russian morgan_belly_listen_male_e63f14a3:

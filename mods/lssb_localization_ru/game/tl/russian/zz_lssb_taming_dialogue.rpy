@@ -6158,7 +6158,7 @@ translate russian taming_event_03_c_93c01ef1:
 
 # ch/harems_full/taming/events.rpy:2589
 translate russian taming_event_03_c_61319e2b:
-    "Что-нибудь настолько простое и незамысловатое, что спорить будет не о чем."
+    "Что-нибудь настолько простое и незамысловатое, что спорить будет не о чём."
 
 # ch/harems_full/taming/events.rpy:2590
 translate russian taming_event_03_c_7d353401:

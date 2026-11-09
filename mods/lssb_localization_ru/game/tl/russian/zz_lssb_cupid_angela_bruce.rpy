@@ -865,7 +865,7 @@ translate russian cupid_angela_bruce_event_02_448e1842:
     mike.say "Нет, мам, после этого, пока его не было."
 
 translate russian cupid_angela_bruce_event_02_f2ce920b:
-    angela.say "Но мы не сказали ни слова, пока он отсутствовал, [hero.name]…"
+    angela.say "Но мы не сказали ни слова, пока он отсутствовал, [hero.name]..."
 
 translate russian cupid_angela_bruce_event_02_f491f928:
     angela.say "Я пила чай, а ты молча смотрел в стену."
@@ -2098,7 +2098,7 @@ translate russian cupid_angela_bruce_event_04_2b237af9:
     breesdad "Потом вы с ним обменялись парой фраз."
 
 translate russian cupid_angela_bruce_event_04_14188637:
-    angela.say "Да, [hero.name]…"
+    angela.say "Да, [hero.name]..."
 
 translate russian cupid_angela_bruce_event_04_f99efa2a:
     angela.say "И он просто упал."
@@ -2419,7 +2419,7 @@ translate russian cupid_angela_bruce_event_05_7f8875e9:
     "Мама прикладывает ладонь ко лбу. Она совершенно потрясена."
 
 translate russian cupid_angela_bruce_event_05_c38a6d92:
-    angela.say "Всё это словно сон, [hero.name]…"
+    angela.say "Всё это словно сон, [hero.name]..."
 
 translate russian cupid_angela_bruce_event_05_1dee7634:
     angela.say "Будто я заснула ещё в колледже..."
@@ -2449,7 +2449,7 @@ translate russian cupid_angela_bruce_event_05_69e95eed:
     "Она качает головой; глаза наполняются слезами, и те стекают по щекам."
 
 translate russian cupid_angela_bruce_event_05_fb1cefe9:
-    angela.say "Нет, [hero.name]…"
+    angela.say "Нет, [hero.name]..."
 
 translate russian cupid_angela_bruce_event_05_91487063:
     angela.say "Кое-что было очень даже настоящим."
@@ -2476,7 +2476,7 @@ translate russian cupid_angela_bruce_event_05_a7ebc4f3:
     "Мама кивает, вытирая глаза тыльной стороной ладони."
 
 translate russian cupid_angela_bruce_event_05_b8bc4453:
-    angela.say "Но, [hero.name]…"
+    angela.say "Но, [hero.name]..."
 
 translate russian cupid_angela_bruce_event_05_7db6571b:
     angela.say "Ты сейчас сказал «мы». «Мы думаем», верно?"
@@ -2845,7 +2845,7 @@ translate russian cupid_angela_bruce_ending_32d70e60:
     mike.say "Только скажи, что не занервничала в последнюю минуту?"
 
 translate russian cupid_angela_bruce_ending_ca0d1a3b:
-    angela.say "Не говори глупостей, [hero.name]…"
+    angela.say "Не говори глупостей, [hero.name]..."
 
 translate russian cupid_angela_bruce_ending_ec7fb2da:
     angela.say "Почти двадцать лет мной буквально управлял другой человек."

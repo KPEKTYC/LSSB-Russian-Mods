@@ -18710,7 +18710,7 @@ translate russian kleio_fuck_date_cowgirl2_5fdceb80:
 
 # ch/kleio/fuck.rpy:1812
 translate russian kleio_fuck_date_cowgirl2_3d644c4b:
-    "Поэтому, когда кончаю, волноваться не о чем."
+    "Поэтому, когда кончаю, волноваться не о чём."
 
 # ch/kleio/fuck.rpy:1814
 translate russian kleio_fuck_date_cowgirl2_89cd1dfb_2:

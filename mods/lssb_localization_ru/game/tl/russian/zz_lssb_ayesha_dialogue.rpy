@@ -2,7 +2,7 @@
 
 # ch/ayesha/base.rpy:30
 translate russian ayesha_ask_date_ayesha_hanna_ca229ab3:
-    mike.say "Как насчет того, чтобы вместе с Ханной и мной немного... позаниматься?"
+    mike.say "Как насчёт того, чтобы вместе с Ханной и мной немного... позаниматься?"
 
 # ch/ayesha/base.rpy:31
 translate russian ayesha_ask_date_ayesha_hanna_9459caad:
@@ -70,7 +70,7 @@ translate russian ayesha_ask_fuck_date_male_faf39bad:
 
 # ch/ayesha/base.rpy:99
 translate russian ayesha_ask_fuck_date_male_31b80550:
-    "Я в последнее время слишком много \"горячего кофе\" выпиваю, мне нужно отдохнуть."
+    "Я в последнее время слишком много «горячего кофе» выпиваю, мне нужно отдохнуть."
 
 # ch/ayesha/base.rpy:101
 translate russian ayesha_ask_fuck_date_male_155ee037_1:
@@ -250,7 +250,7 @@ translate russian ayesha_greet_7f99240d:
 
 # ch/ayesha/base.rpy:240
 translate russian ayesha_greet_dialogues_male_183735ae:
-    mike.say "Привет, Аиша."
+    mike.say "Привет, Айша."
 
 # ch/ayesha/base.rpy:242
 translate russian ayesha_greet_dialogues_male_6810e1f5:
@@ -258,19 +258,19 @@ translate russian ayesha_greet_dialogues_male_6810e1f5:
 
 # ch/ayesha/base.rpy:245
 translate russian ayesha_greet_dialogues_male_3c835ac7:
-    mike.say "Привет, Аиша."
+    mike.say "Привет, Айша."
 
 # ch/ayesha/base.rpy:247
 translate russian ayesha_greet_dialogues_male_5428ec7b:
-    mike.say "Доброе утро, Аиша."
+    mike.say "Доброе утро, Айша."
 
 # ch/ayesha/base.rpy:249
 translate russian ayesha_greet_dialogues_male_7dcfbbf4:
-    mike.say "Добрый день, Аиша."
+    mike.say "Добрый день, Айша."
 
 # ch/ayesha/base.rpy:251
 translate russian ayesha_greet_dialogues_male_26e2e012:
-    mike.say "Добрый вечер, Аиша."
+    mike.say "Добрый вечер, Айша."
 
 # ch/ayesha/base.rpy:263
 translate russian ayesha_kiss_male_e82f0250:
@@ -278,7 +278,7 @@ translate russian ayesha_kiss_male_e82f0250:
 
 # ch/ayesha/base.rpy:264
 translate russian ayesha_kiss_male_96290364:
-    "Возможно, часть проблемы в том, что я никогда раньше не был настолько близок к девушке, как Аиша."
+    "Возможно, часть проблемы в том, что я никогда раньше не был настолько близок к девушке, как Айша."
 
 # ch/ayesha/base.rpy:265
 translate russian ayesha_kiss_male_a784de08:
@@ -286,7 +286,7 @@ translate russian ayesha_kiss_male_a784de08:
 
 # ch/ayesha/base.rpy:266
 translate russian ayesha_kiss_male_5476861b:
-    "Но когда я наконец набираюсь смелости и наклоняюсь вперед, я удивлен тем, какой оказывается ее реакция."
+    "Но когда я наконец набираюсь смелости и наклоняюсь вперёд, я удивлён тем, какой оказывается её реакция."
 
 # ch/ayesha/base.rpy:267
 translate russian ayesha_kiss_male_ecb7de4b:
@@ -294,11 +294,11 @@ translate russian ayesha_kiss_male_ecb7de4b:
 
 # ch/ayesha/base.rpy:268
 translate russian ayesha_kiss_male_d87b360c:
-    "Но странно то, что она делает это застенчиво и скромно, что кажется таким несовместимым с ее образом..."
+    "Но странно то, что она делает это застенчиво и скромно, что кажется таким несовместимым с её образом..."
 
 # ch/ayesha/base.rpy:277
 translate russian ayesha_kiss_male_58224103:
-    "Я так долго беспокоился о том, чтобы поцеловать Аишу, что боюсь, что это превращается в проблему для меня."
+    "Я так долго беспокоился о том, чтобы поцеловать Айшу, что боюсь, что это превращается в проблему для меня."
 
 # ch/ayesha/base.rpy:278
 translate russian ayesha_kiss_male_4e3fec12:
@@ -306,11 +306,11 @@ translate russian ayesha_kiss_male_4e3fec12:
 
 # ch/ayesha/base.rpy:279
 translate russian ayesha_kiss_male_2f109517:
-    "И тем не менее, быть с ней – это невероятно захватывающе именно из-за этого."
+    "И тем не менее, быть с ней — это невероятно захватывающе именно из-за этого."
 
 # ch/ayesha/base.rpy:280
 translate russian ayesha_kiss_male_5c55fa67:
-    "В конце концов, я просто решаю: \"Черт с ним!\" и целую ее в губы."
+    "В конце концов, я просто решаю: «Чёрт с ним!» и целую её в губы."
 
 # ch/ayesha/base.rpy:281
 translate russian ayesha_kiss_male_a70465ee:
@@ -326,7 +326,7 @@ translate russian ayesha_kiss_male_4b8404ce:
 
 # ch/ayesha/base.rpy:291
 translate russian ayesha_kiss_male_dfe0a831:
-    "После этого первого поцелуя я изо всех сил стараюсь сдержаться, чтобы не целовать ее снова при любой возможности."
+    "После этого первого поцелуя я изо всех сил стараюсь сдержаться, чтобы не целовать её снова при любой возможности."
 
 # ch/ayesha/base.rpy:292
 translate russian ayesha_kiss_male_00f1dec0:
@@ -338,7 +338,7 @@ translate russian ayesha_kiss_male_940a3e09:
 
 # ch/ayesha/base.rpy:294
 translate russian ayesha_kiss_male_bd79f522:
-    "Прикосновение ее губ такое мягкое и нежное, то, как она обнимает меня."
+    "Прикосновение её губ такое мягкое и нежное, то, как она обнимает меня."
 
 # ch/ayesha/base.rpy:295
 translate russian ayesha_kiss_male_7c26a45f:
@@ -346,7 +346,7 @@ translate russian ayesha_kiss_male_7c26a45f:
 
 # ch/ayesha/base.rpy:296
 translate russian ayesha_kiss_male_6fe7ea75:
-    "Честно говоря, мне стыдно, что я раньше никогда не видел этой стороны ее."
+    "Честно говоря, мне стыдно, что я раньше никогда не видел этой стороны её."
 
 # ch/ayesha/base.rpy:306
 translate russian ayesha_sleep_date_fuck_30e04ee2:
@@ -374,7 +374,7 @@ translate russian ayesha_sleep_date_fuck_3ed5a4e8:
 
 # ch/ayesha/base.rpy:316
 translate russian ayesha_sleep_date_fuck_a3c8f3ea:
-    ayesha.say "Все в порядке, спокойной ночи!"
+    ayesha.say "Всё в порядке, спокойной ночи!"
 
 # ch/ayesha/base.rpy:317
 translate russian ayesha_sleep_date_fuck_2c186440:
@@ -386,7 +386,7 @@ translate russian ayesha_sleep_date_fuck_08d41291:
 
 # ch/ayesha/base.rpy:323
 translate russian ayesha_sleep_date_fuck_5e69bcee:
-    "Я замечаю, как на мгновение ее лицо озаряется радостью, прежде чем она прижимает меня к себе в объятиях, снова уткнувшись в меня."
+    "Я замечаю, как на мгновение её лицо озаряется радостью, прежде чем она прижимает меня к себе в объятиях, снова уткнувшись в меня."
 
 # ch/ayesha/base.rpy:324
 translate russian ayesha_sleep_date_fuck_1e44a900:
@@ -426,7 +426,7 @@ translate russian ayesha_sleep_date_fuck_ee93a6d2:
 
 # ch/ayesha/base.rpy:343
 translate russian ayesha_propose_male_4864c962:
-    "Кто бы мог подумать, когда ты встретишь девушку, которая окажется \"той самой\"?"
+    "Кто бы мог подумать, когда ты встретишь девушку, которая окажется «той самой»?"
 
 # ch/ayesha/base.rpy:344
 translate russian ayesha_propose_male_82db887f:
@@ -434,23 +434,23 @@ translate russian ayesha_propose_male_82db887f:
 
 # ch/ayesha/base.rpy:345
 translate russian ayesha_propose_male_f9152a84:
-    "Ну, кто бы мог подумать, что отношения могут начаться с того, что она называет меня \"ублюдком\"?"
+    "Ну, кто бы мог подумать, что отношения могут начаться с того, что она называет меня «ублюдком»?"
 
 # ch/ayesha/base.rpy:346
 translate russian ayesha_propose_male_9a793c48:
-    "Но это были первые слова, которые Аиша когда-либо произнесла в мой адрес, и они были незабываемы!"
+    "Но это были первые слова, которые Айша когда-либо произнесла в мой адрес, и они были незабываемы!"
 
 # ch/ayesha/base.rpy:347
 translate russian ayesha_propose_male_fc540785:
-    "Еще лучше то, что она сама оказалась такой же незабываемой."
+    "Ещё лучше то, что она сама оказалась такой же незабываемой."
 
 # ch/ayesha/base.rpy:348
 translate russian ayesha_propose_male_d5db9ae5:
-    "Ну, это и то, как она перестала называть меня \"ублюдком\", когда мы начали узнавать друг друга!"
+    "Ну, это и то, как она перестала называть меня «ублюдком», когда мы начали узнавать друг друга!"
 
 # ch/ayesha/base.rpy:349
 translate russian ayesha_propose_male_0f69225e:
-    "С тех пор я прошел путь открытий, наблюдая за развитием наших отношений."
+    "С тех пор я прошёл путь открытий, наблюдая за развитием наших отношений."
 
 # ch/ayesha/base.rpy:350
 translate russian ayesha_propose_male_4f70722a:
@@ -458,7 +458,7 @@ translate russian ayesha_propose_male_4f70722a:
 
 # ch/ayesha/base.rpy:351
 translate russian ayesha_propose_male_9fc1f252:
-    "На ринге, когда она показывает свои \"фишки\" в рестлинге, она может выглядеть как уверенная амазонка."
+    "На ринге, когда она показывает свои «фишки» в рестлинге, она может выглядеть как уверенная амазонка."
 
 # ch/ayesha/base.rpy:352
 translate russian ayesha_propose_male_83a7be59:
@@ -482,7 +482,7 @@ translate russian ayesha_propose_male_0265223b:
 
 # ch/ayesha/base.rpy:357
 translate russian ayesha_propose_male_ea7d1763:
-    "Но мне абсолютно все равно, что думают эти идиоты."
+    "Но мне абсолютно всё равно, что думают эти идиоты."
 
 # ch/ayesha/base.rpy:358
 translate russian ayesha_propose_male_8ee5d5f4:
@@ -594,7 +594,7 @@ translate russian ayesha_propose_male_f4089031:
 
 # ch/ayesha/base.rpy:391
 translate russian ayesha_propose_male_e56e44f8:
-    ayesha.say "Ты серьезно?!"
+    ayesha.say "Ты серьёзно?!"
 
 # ch/ayesha/base.rpy:392
 translate russian ayesha_propose_male_327e5b27:
@@ -618,7 +618,7 @@ translate russian ayesha_propose_male_483f23ac:
 
 # ch/ayesha/base.rpy:398
 translate russian ayesha_propose_male_d809d065:
-    "Я неуклюже пытаюсь надеть кольцо на ее палец, нервы делают меня неловким и скованным."
+    "Я неуклюже пытаюсь надеть кольцо на её палец, нервы делают меня неловким и скованным."
 
 # ch/ayesha/base.rpy:399
 translate russian ayesha_propose_male_adf29ceb:
@@ -638,7 +638,7 @@ translate russian ayesha_propose_male_311bb23d:
 
 # ch/ayesha/base.rpy:403
 translate russian ayesha_propose_male_c0f8e7c5:
-    "Ее лицо светится от счастья, как я никогда раньше не видел!"
+    "Её лицо светится от счастья, как я никогда раньше не видел!"
 
 # ch/ayesha/base.rpy:404
 translate russian ayesha_propose_male_74e8d35d_2:
@@ -658,7 +658,7 @@ translate russian ayesha_propose_male_2f7b7292:
 
 # ch/ayesha/base.rpy:408
 translate russian ayesha_propose_male_7c3564ce:
-    "Затем ей удается выговорить несколько слов."
+    "Затем ей удаётся выговорить несколько слов."
 
 # ch/ayesha/base.rpy:409
 translate russian ayesha_propose_male_ab133044:
@@ -694,7 +694,7 @@ translate russian ayesha_propose_male_454da48b:
 
 # ch/ayesha/base.rpy:419
 translate russian ayesha_propose_male_d53b97bd:
-    "Айша начинает говорить все быстрее и быстрее."
+    "Айша начинает говорить всё быстрее и быстрее."
 
 # ch/ayesha/base.rpy:420
 translate russian ayesha_propose_male_ed5f6fb2:
@@ -702,7 +702,7 @@ translate russian ayesha_propose_male_ed5f6fb2:
 
 # ch/ayesha/base.rpy:421
 translate russian ayesha_propose_male_75460114:
-    "И я пытаюсь ее успокоить, чтобы она перестала тараторить."
+    "И я пытаюсь её успокоить, чтобы она перестала тараторить."
 
 # ch/ayesha/base.rpy:422
 translate russian ayesha_propose_male_1ad055fe:
@@ -710,7 +710,7 @@ translate russian ayesha_propose_male_1ad055fe:
 
 # ch/ayesha/base.rpy:423
 translate russian ayesha_propose_male_d952c5e0:
-    mike.say "Быть женственной – это не значит быть маленькой и хрупкой."
+    mike.say "Быть женственной — это не значит быть маленькой и хрупкой."
 
 # ch/ayesha/base.rpy:424
 translate russian ayesha_propose_male_ff80b9ee:
@@ -718,7 +718,7 @@ translate russian ayesha_propose_male_ff80b9ee:
 
 # ch/ayesha/base.rpy:425
 translate russian ayesha_propose_male_dc5e8b30:
-    mike.say "Но твое прикосновение такое нежное, как перышко."
+    mike.say "Но твоё прикосновение такое нежное, как перышко."
 
 # ch/ayesha/base.rpy:427
 translate russian ayesha_propose_male_94800173:
@@ -730,11 +730,11 @@ translate russian ayesha_propose_male_070a2676:
 
 # ch/ayesha/base.rpy:432
 translate russian ayesha_propose_male_50e0fddc:
-    "Аиша наклоняется, чтобы поцеловать меня, притягивая меня к себе."
+    "Айша наклоняется, чтобы поцеловать меня, притягивая меня к себе."
 
 # ch/ayesha/base.rpy:433
 translate russian ayesha_propose_male_a5db6f77:
-    "Я отвечаю ей взаимностью, наслаждаясь ощущением ее тела рядом со своим."
+    "Я отвечаю ей взаимностью, наслаждаясь ощущением её тела рядом со своим."
 
 # ch/ayesha/base.rpy:434
 translate russian ayesha_propose_male_af55f947:
@@ -754,7 +754,7 @@ translate russian ayesha_propose_male_d4e64d4f:
 
 # ch/ayesha/base.rpy:440
 translate russian ayesha_propose_male_060a2877:
-    ayesha.say "Но я должна сказать \"нет\"!"
+    ayesha.say "Но я должна сказать «нет»!"
 
 # ch/ayesha/base.rpy:441
 translate russian ayesha_propose_male_6a8cf589_1:
@@ -766,15 +766,15 @@ translate russian ayesha_propose_male_cd8f837c_1:
 
 # ch/ayesha/base.rpy:443
 translate russian ayesha_propose_male_6df320b5:
-    "Неужели Аиша только что сказала \"нет\"?"
+    "Неужели Айша только что сказала «нет»?"
 
 # ch/ayesha/base.rpy:444
 translate russian ayesha_propose_male_4846f6d2:
-    mike.say "Почему, Аиша?"
+    mike.say "Почему, Айша?"
 
 # ch/ayesha/base.rpy:445
 translate russian ayesha_propose_male_19f50616:
-    mike.say "В чем дело?"
+    mike.say "В чём дело?"
 
 # ch/ayesha/base.rpy:446
 translate russian ayesha_propose_male_a5657bd6:
@@ -794,7 +794,7 @@ translate russian ayesha_propose_male_0569077a:
 
 # ch/ayesha/base.rpy:451
 translate russian ayesha_propose_male_e61d7209:
-    ayesha.say "Все в порядке, [lssb_ayesha.hero_name()]."
+    ayesha.say "Всё в порядке, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/base.rpy:452
 translate russian ayesha_propose_male_ebaaaf5f:
@@ -818,7 +818,7 @@ translate russian ayesha_propose_male_7ed74cac:
 
 # ch/ayesha/base.rpy:459
 translate russian ayesha_propose_male_568710fc:
-    ayesha.say "Выйти за тебя – звучит хорошо, [lssb_ayesha.hero_name()]."
+    ayesha.say "Выйти за тебя — звучит хорошо, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/base.rpy:461
 translate russian ayesha_propose_male_7242e118:
@@ -858,11 +858,11 @@ translate russian ayesha_propose_male_90ed462c:
 
 # ch/ayesha/base.rpy:470
 translate russian ayesha_propose_male_74b357d2:
-    "Я чувствую себя немного подавленным, почти опустошенным."
+    "Я чувствую себя немного подавленным, почти опустошённым."
 
 # ch/ayesha/base.rpy:471
 translate russian ayesha_propose_male_09a8080f:
-    "Но потом я вспоминаю еще кое-что, что только что сказала Аиша."
+    "Но потом я вспоминаю ещё кое-что, что только что сказала Айша."
 
 # ch/ayesha/base.rpy:472
 translate russian ayesha_propose_male_6757cf6b:
@@ -874,11 +874,11 @@ translate russian ayesha_propose_male_69597828:
 
 # ch/ayesha/base.rpy:474
 translate russian ayesha_propose_male_5f56a909:
-    mike.say "Скорее, это \"не сейчас\"?"
+    mike.say "Скорее, это «не сейчас»?"
 
 # ch/ayesha/base.rpy:476
 translate russian ayesha_propose_male_6e0a2877:
-    "Аиша закатывает глаза на меня."
+    "Айша закатывает глаза на меня."
 
 # ch/ayesha/base.rpy:477
 translate russian ayesha_propose_male_dda5ba62:
@@ -926,7 +926,7 @@ translate russian ayesha_desire_0_male_fa2df24f:
 
 # ch/ayesha/chat.rpy:6
 translate russian ayesha_desire_0_male_fff861c0:
-    mike.say "Ты – одна из причин, по которой я туда хожу."
+    mike.say "Ты — одна из причин, по которой я туда хожу."
 
 # ch/ayesha/chat.rpy:9
 translate russian ayesha_desire_0_male_1b8a8455:
@@ -986,7 +986,7 @@ translate russian ayesha_desire_2_male_6c19462a:
 
 # ch/ayesha/chat.rpy:38
 translate russian ayesha_desire_2_male_f22c8345:
-    mike.say "Да, черт побери!"
+    mike.say "Да, чёрт побери!"
 
 # ch/ayesha/chat.rpy:39
 translate russian ayesha_desire_2_male_63977909:
@@ -1010,7 +1010,7 @@ translate russian ayesha_desire_3_male_520ea401:
 
 # ch/ayesha/chat.rpy:50
 translate russian ayesha_desire_3_male_b8df705b:
-    mike.say "Я так рад, что ты это сказала, Аиша."
+    mike.say "Я так рад, что ты это сказала, Айша."
 
 # ch/ayesha/chat.rpy:51
 translate russian ayesha_desire_3_male_1e19288e:
@@ -1030,7 +1030,7 @@ translate russian ayesha_desire_4_male_7cfd89ab:
 
 # ch/ayesha/chat.rpy:62
 translate russian ayesha_desire_4_male_60f885c7:
-    mike.say "Спасибо за комплимент, Аиша."
+    mike.say "Спасибо за комплимент, Айша."
 
 # ch/ayesha/chat.rpy:63
 translate russian ayesha_desire_4_male_604d85e6:
@@ -1038,7 +1038,7 @@ translate russian ayesha_desire_4_male_604d85e6:
 
 # ch/ayesha/chat.rpy:66
 translate russian ayesha_desire_4_male_983cd921:
-    mike.say "Ну, хотя бы один из нас должен прилагать усилия, Аиша."
+    mike.say "Ну, хотя бы один из нас должен прилагать усилия, Айша."
 
 # ch/ayesha/chat.rpy:71
 translate russian ayesha_desire_5_male_ca22b216:
@@ -1050,7 +1050,7 @@ translate russian ayesha_desire_5_male_014799b1:
 
 # ch/ayesha/chat.rpy:74
 translate russian ayesha_desire_5_male_48b14e5e:
-    mike.say "Это не так уж и странно, Аиша."
+    mike.say "Это не так уж и странно, Айша."
 
 # ch/ayesha/chat.rpy:75
 translate russian ayesha_desire_5_male_eecf9d86:
@@ -1066,7 +1066,7 @@ translate russian ayesha_desire_5_male_a0bd8545:
 
 # ch/ayesha/chat.rpy:80
 translate russian ayesha_desire_5_male_f22de7b2:
-    mike.say "Я прав, Аиша?"
+    mike.say "Я прав, Айша?"
 
 # ch/ayesha/chat.rpy:85
 translate russian ayesha_love_0_male_e6718c9a:
@@ -1074,7 +1074,7 @@ translate russian ayesha_love_0_male_e6718c9a:
 
 # ch/ayesha/chat.rpy:86
 translate russian ayesha_love_0_male_bbbb3109:
-    ayesha.say "У меня был такой тяжелый день в спортзале..."
+    ayesha.say "У меня был такой тяжёлый день в спортзале..."
 
 # ch/ayesha/chat.rpy:88
 translate russian ayesha_love_0_male_76a423d9:
@@ -1094,7 +1094,7 @@ translate russian ayesha_love_0_male_65743ab3:
 
 # ch/ayesha/chat.rpy:95
 translate russian ayesha_love_0_male_6823eb4f:
-    mike.say "Это последнее, о чем я хочу слышать!"
+    mike.say "Это последнее, о чём я хочу слышать!"
 
 # ch/ayesha/chat.rpy:100
 translate russian ayesha_love_1_male_b3970fd1:
@@ -1106,7 +1106,7 @@ translate russian ayesha_love_1_male_6140990a:
 
 # ch/ayesha/chat.rpy:103
 translate russian ayesha_love_1_male_6cf7f756:
-    mike.say "Я чувствовал себя довольно плохо, Аиша."
+    mike.say "Я чувствовал себя довольно плохо, Айша."
 
 # ch/ayesha/chat.rpy:104
 translate russian ayesha_love_1_male_fc64d959:
@@ -1114,7 +1114,7 @@ translate russian ayesha_love_1_male_fc64d959:
 
 # ch/ayesha/chat.rpy:107
 translate russian ayesha_love_1_male_53d968e5:
-    mike.say "Жаль отвечать на глупые вопросы, Аиша..."
+    mike.say "Жаль отвечать на глупые вопросы, Айша..."
 
 # ch/ayesha/chat.rpy:109
 translate russian ayesha_love_1_male_dab1aa0a:
@@ -1134,7 +1134,7 @@ translate russian ayesha_love_2_male_939129b2:
 
 # ch/ayesha/chat.rpy:118
 translate russian ayesha_love_2_male_4466da4b:
-    mike.say "Ну, я не знаю насчет этого, Аиша!"
+    mike.say "Ну, я не знаю насчёт этого, Айша!"
 
 # ch/ayesha/chat.rpy:119
 translate russian ayesha_love_2_male_09936b10:
@@ -1142,7 +1142,7 @@ translate russian ayesha_love_2_male_09936b10:
 
 # ch/ayesha/chat.rpy:122
 translate russian ayesha_love_2_male_3aa87121:
-    mike.say "О, боже, Аиша!"
+    mike.say "О, боже, Айша!"
 
 # ch/ayesha/chat.rpy:123
 translate russian ayesha_love_2_male_ed021399:
@@ -1158,7 +1158,7 @@ translate russian ayesha_love_3_male_f333e3bf:
 
 # ch/ayesha/chat.rpy:131
 translate russian ayesha_love_3_male_20a07b7a:
-    mike.say "Правда, Аиша?"
+    mike.say "Правда, Айша?"
 
 # ch/ayesha/chat.rpy:132
 translate russian ayesha_love_3_male_d8c38214:
@@ -1166,7 +1166,7 @@ translate russian ayesha_love_3_male_d8c38214:
 
 # ch/ayesha/chat.rpy:135
 translate russian ayesha_love_3_male_f202a00f:
-    mike.say "Ты уверена, что это хорошая идея, Аиша?"
+    mike.say "Ты уверена, что это хорошая идея, Айша?"
 
 # ch/ayesha/chat.rpy:136
 translate russian ayesha_love_3_male_62f1905f:
@@ -1182,7 +1182,7 @@ translate russian ayesha_love_4_male_721529ea:
 
 # ch/ayesha/chat.rpy:144
 translate russian ayesha_love_4_male_fa2df24f:
-    mike.say "Я тоже, Аиша."
+    mike.say "Я тоже, Айша."
 
 # ch/ayesha/chat.rpy:145
 translate russian ayesha_love_4_male_0fea9fe5:
@@ -1190,7 +1190,7 @@ translate russian ayesha_love_4_male_0fea9fe5:
 
 # ch/ayesha/chat.rpy:148
 translate russian ayesha_love_4_male_20a07b7a:
-    mike.say "Правда, Аиша?"
+    mike.say "Правда, Айша?"
 
 # ch/ayesha/chat.rpy:149
 translate russian ayesha_love_4_male_b434fa7c:
@@ -1230,7 +1230,7 @@ translate russian ayesha_good_sweet_talk_male_517c2974:
 
 # ch/ayesha/chat.rpy:171
 translate russian ayesha_good_sweet_talk_male_c5e71e86:
-    mike.say "И... ну, ты еще очень сексуальна!"
+    mike.say "И... ну, ты ещё очень сексуальна!"
 
 # ch/ayesha/chat.rpy:173
 translate russian ayesha_good_sweet_talk_male_8ff879f2:
@@ -1262,7 +1262,7 @@ translate russian ayesha_good_sweet_talk_male_b6f1edd5:
 
 # ch/ayesha/chat.rpy:183
 translate russian ayesha_good_sweet_talk_male_d657bf1f:
-    mike.say "И еще очень смешная!"
+    mike.say "И ещё очень смешная!"
 
 # ch/ayesha/chat.rpy:184
 translate russian ayesha_good_sweet_talk_male_a03f4c25:
@@ -1274,7 +1274,7 @@ translate russian ayesha_good_sweet_talk_male_7035cf2f:
 
 # ch/ayesha/chat.rpy:191
 translate russian ayesha_bad_sweet_talk_male_326a3bc9:
-    mike.say "Здорово, что сейчас можно найти сексуальную одежду в твоем размере, Айша!"
+    mike.say "Здорово, что сейчас можно найти сексуальную одежду в твоём размере, Айша!"
 
 # ch/ayesha/chat.rpy:193
 translate russian ayesha_bad_sweet_talk_male_9fbcb976:
@@ -1290,7 +1290,7 @@ translate russian ayesha_bad_sweet_talk_male_73649c99:
 
 # ch/ayesha/condom.rpy:4
 translate russian ayesha_use_condom_b375b8cd:
-    "Даже когда я сосредоточен на том, чтобы Айше было комфортно, я все равно не могу забыть об основах."
+    "Даже когда я сосредоточен на том, чтобы Айше было комфортно, я всё равно не могу забыть об основах."
 
 # ch/ayesha/condom.rpy:5
 translate russian ayesha_use_condom_e84ef0ee:
@@ -1334,15 +1334,15 @@ translate russian ayesha_use_condom_b2b20b34:
 
 # ch/ayesha/condom.rpy:16
 translate russian ayesha_use_condom_683a3a64:
-    "Она кивает и ждет, пока я беру презерватив со столика возле кровати."
+    "Она кивает и ждёт, пока я беру презерватив со столика возле кровати."
 
 # ch/ayesha/condom.rpy:17
 translate russian ayesha_use_condom_7a243dbf:
-    "Айша терпеливо ждет, пока я надеваю его, и затем мы готовы."
+    "Айша терпеливо ждёт, пока я надеваю его, и затем мы готовы."
 
 # ch/ayesha/condom.rpy:19
 translate russian ayesha_use_condom_841e2307:
-    "Но сначала самое главное – нельзя забывать об основах!"
+    "Но сначала самое главное — нельзя забывать об основах!"
 
 # ch/ayesha/condom.rpy:20
 translate russian ayesha_use_condom_0e76085e:
@@ -1358,7 +1358,7 @@ translate russian ayesha_use_condom_45185fb9:
 
 # ch/ayesha/condom.rpy:24
 translate russian ayesha_use_condom_21113d4d:
-    "Но как бы я ни был поглощен этой мыслью, я все равно не могу забыть об основах."
+    "Но как бы я ни был поглощён этой мыслью, я всё равно не могу забыть об основах."
 
 # ch/ayesha/condom.rpy:25
 translate russian ayesha_use_condom_960db119:
@@ -1366,7 +1366,7 @@ translate russian ayesha_use_condom_960db119:
 
 # ch/ayesha/condom.rpy:26
 translate russian ayesha_use_condom_1d2b360b:
-    "Она не издает ни звука протеста, уже понимая, что я собираюсь делать."
+    "Она не издаёт ни звука протеста, уже понимая, что я собираюсь делать."
 
 # ch/ayesha/condom.rpy:27
 translate russian ayesha_use_condom_988ba64c:
@@ -1382,7 +1382,7 @@ translate russian ayesha_use_condom_d65361d1:
 
 # ch/ayesha/condom.rpy:37
 translate russian ayesha_intro_condom_6317dfcc:
-    "Мои мысли настолько поглощены желанием сделать Айше комфортно, что я забываю почти обо всем остальном."
+    "Мои мысли настолько поглощены желанием сделать Айше комфортно, что я забываю почти обо всём остальном."
 
 # ch/ayesha/condom.rpy:39
 translate russian ayesha_intro_condom_314a5aef:
@@ -1390,7 +1390,7 @@ translate russian ayesha_intro_condom_314a5aef:
 
 # ch/ayesha/condom.rpy:45
 translate russian ayesha_warn_condom_536bc7c8:
-    "Но то же самое нельзя сказать об Айше, которая смотрит на меня серьезным взглядом, останавливая меня."
+    "Но то же самое нельзя сказать об Айше, которая смотрит на меня серьёзным взглядом, останавливая меня."
 
 # ch/ayesha/condom.rpy:46
 translate russian ayesha_warn_condom_dc72a1ad:
@@ -1482,7 +1482,7 @@ translate russian ayesha_force_condom_2e4a3ebf:
 
 # ch/ayesha/condom.rpy:79
 translate russian ayesha_force_condom_9d95b8bb:
-    "Приняв его из ее рук, я даже не говорю ни слова и сразу надеваю его."
+    "Приняв его из её рук, я даже не говорю ни слова и сразу надеваю его."
 
 # ch/ayesha/condom.rpy:80
 translate russian ayesha_force_condom_f3db8f86:
@@ -1490,7 +1490,7 @@ translate russian ayesha_force_condom_f3db8f86:
 
 # ch/ayesha/condom.rpy:86
 translate russian ayesha_mad_condom_536bc7c8:
-    "Но то же самое нельзя сказать об Айше, которая смотрит на меня серьезным взглядом, останавливая меня."
+    "Но то же самое нельзя сказать об Айше, которая смотрит на меня серьёзным взглядом, останавливая меня."
 
 # ch/ayesha/condom.rpy:87
 translate russian ayesha_mad_condom_dc72a1ad:
@@ -1502,11 +1502,11 @@ translate russian ayesha_mad_condom_a7c8159b:
 
 # ch/ayesha/condom.rpy:89
 translate russian ayesha_mad_condom_f9160510:
-    "Айша издает звук презрительного фырканья."
+    "Айша издаёт звук презрительного фырканья."
 
 # ch/ayesha/condom.rpy:90
 translate russian ayesha_mad_condom_02591f94:
-    ayesha.say "А как насчет презерватива, гений?!"
+    ayesha.say "А как насчёт презерватива, гений?!"
 
 # ch/ayesha/condom.rpy:91
 translate russian ayesha_mad_condom_2a660341:
@@ -1522,11 +1522,11 @@ translate russian ayesha_mad_condom_48ab9755:
 
 # ch/ayesha/condom.rpy:94
 translate russian ayesha_mad_condom_aff85fa1:
-    "Я задыхаюсь, воздух вырывается из моих легких, и я падаю на спину на кровать."
+    "Я задыхаюсь, воздух вырывается из моих лёгких, и я падаю на спину на кровать."
 
 # ch/ayesha/condom.rpy:95
 translate russian ayesha_mad_condom_bc476e74:
-    "Я все еще ворочаюсь, пытаясь отдышаться, пока Айша встает и начинает одеваться."
+    "Я всё ещё ворочаюсь, пытаясь отдышаться, пока Айша встаёт и начинает одеваться."
 
 # ch/ayesha/condom.rpy:96
 translate russian ayesha_mad_condom_6b7f6377:
@@ -1538,7 +1538,7 @@ translate russian ayesha_mad_condom_b1c25bf0:
 
 # ch/ayesha/condom.rpy:100
 translate russian ayesha_mad_condom_3846b3ce:
-    "Айша качает головой, пораженная моим ответом."
+    "Айша качает головой, поражённая моим ответом."
 
 # ch/ayesha/condom.rpy:101
 translate russian ayesha_mad_condom_a02afc0c:
@@ -1566,7 +1566,7 @@ translate russian ayesha_mad_condom_2a09a7a2:
 
 # ch/ayesha/condom.rpy:109
 translate russian ayesha_mad_condom_20a07b7a:
-    mike.say "Серьезно, Айша?"
+    mike.say "Серьёзно, Айша?"
 
 # ch/ayesha/condom.rpy:110
 translate russian ayesha_mad_condom_ac7bedb8:
@@ -1606,7 +1606,7 @@ translate russian ayesha_mad_condom_2ab3d51d:
 
 # ch/ayesha/condom.rpy:119
 translate russian ayesha_mad_condom_8c643512:
-    "Все, что мне остается, – это молча наблюдать, как Айша выполняет свое обещание."
+    "Всё, что мне остаётся, — это молча наблюдать, как Айша выполняет своё обещание."
 
 # ch/ayesha/condom.rpy:120
 translate russian ayesha_mad_condom_b317ff3c:
@@ -1614,7 +1614,7 @@ translate russian ayesha_mad_condom_b317ff3c:
 
 # ch/ayesha/condom.rpy:122
 translate russian ayesha_mad_condom_606efe9d:
-    mike.say "Что за бред ты несешь?!"
+    mike.say "Что за бред ты несёшь?!"
 
 # ch/ayesha/condom.rpy:123
 translate russian ayesha_mad_condom_68aa5070:
@@ -1622,15 +1622,15 @@ translate russian ayesha_mad_condom_68aa5070:
 
 # ch/ayesha/condom.rpy:124
 translate russian ayesha_mad_condom_83458927:
-    ayesha.say "\"Защита, ты, черт побери!\", - говорит Айша Майку."
+    ayesha.say "«Защита, ты, чёрт побери!», — говорит Айша Майку."
 
 # ch/ayesha/condom.rpy:125
 translate russian ayesha_mad_condom_0fc839cc:
-    ayesha.say "\"Нам не двигаться дальше без этого\", - говорит Айша Майку."
+    ayesha.say "«Нам не двигаться дальше без этого», — говорит Айша Майку."
 
 # ch/ayesha/condom.rpy:126
 translate russian ayesha_mad_condom_0a1dfad0:
-    "Айша отталкивает меня, с легкостью бросая в сторону."
+    "Айша отталкивает меня, с лёгкостью бросая в сторону."
 
 # ch/ayesha/condom.rpy:127
 translate russian ayesha_mad_condom_7264f037:
@@ -1646,7 +1646,7 @@ translate russian ayesha_mad_condom_a5c36d6f:
 
 # ch/ayesha/condom.rpy:130
 translate russian ayesha_mad_condom_d4897f28:
-    "И единственный звук, который следует за этим, – это хлопок двери, которая закрывается за ней."
+    "И единственный звук, который следует за этим, — это хлопок двери, которая закрывается за ней."
 
 # ch/ayesha/date.rpy:2
 translate russian ayesha_date_intro_valentine_male_7672e9bd:
@@ -1654,7 +1654,7 @@ translate russian ayesha_date_intro_valentine_male_7672e9bd:
 
 # ch/ayesha/date.rpy:3
 translate russian ayesha_date_intro_valentine_male_53bc9a07:
-    ayesha.say "Я… немного нервничаю из-за сегодняшнего вечера."
+    ayesha.say "Я... немного нервничаю из-за сегодняшнего вечера."
 
 # ch/ayesha/date.rpy:4
 translate russian ayesha_date_intro_valentine_male_0ecd8f1c:
@@ -1662,7 +1662,7 @@ translate russian ayesha_date_intro_valentine_male_0ecd8f1c:
 
 # ch/ayesha/date.rpy:5
 translate russian ayesha_date_intro_valentine_male_793d41a1:
-    "Едва слова слетают с ее губ, мое сердце сжимается от сочувствия к ней."
+    "Едва слова слетают с её губ, моё сердце сжимается от сочувствия к ней."
 
 # ch/ayesha/date.rpy:6
 translate russian ayesha_date_intro_valentine_male_511e9b9a:
@@ -1670,7 +1670,7 @@ translate russian ayesha_date_intro_valentine_male_511e9b9a:
 
 # ch/ayesha/date.rpy:7
 translate russian ayesha_date_intro_valentine_male_beed4dcd:
-    mike.say "Не волнуйся, Аиша, просто следуй за мной."
+    mike.say "Не волнуйся, Айша, просто следуй за мной."
 
 # ch/ayesha/date.rpy:8
 translate russian ayesha_date_intro_valentine_male_15d88afa:
@@ -1682,7 +1682,7 @@ translate russian ayesha_date_intro_halloween_male_b83442d2:
 
 # ch/ayesha/date.rpy:13
 translate russian ayesha_date_intro_halloween_male_0e25bfb2:
-    "Аиша краснеет и улыбается в ответ на мой комплимент."
+    "Айша краснеет и улыбается в ответ на мой комплимент."
 
 # ch/ayesha/date.rpy:14
 translate russian ayesha_date_intro_halloween_male_1a34974c:
@@ -1698,7 +1698,7 @@ translate russian ayesha_date_intro_halloween_male_55a71ad1:
 
 # ch/ayesha/date.rpy:17
 translate russian ayesha_date_intro_halloween_male_00ec73c6:
-    "Услышав слово \"Хэллоуин\", я хлопаю себя по лбу."
+    "Услышав слово «Хэллоуин», я хлопаю себя по лбу."
 
 # ch/ayesha/date.rpy:18
 translate russian ayesha_date_intro_halloween_male_d0f13795:
@@ -1710,7 +1710,7 @@ translate russian ayesha_date_intro_halloween_male_062e0fba:
 
 # ch/ayesha/date.rpy:20
 translate russian ayesha_date_intro_halloween_male_4fcc6245:
-    "Аиша качает головой в ответ на это."
+    "Айша качает головой в ответ на это."
 
 # ch/ayesha/date.rpy:21
 translate russian ayesha_date_intro_halloween_male_89c60743:
@@ -1726,7 +1726,7 @@ translate russian ayesha_date_intro_christmas_male_80afbc2c:
 
 # ch/ayesha/date.rpy:27
 translate russian ayesha_date_intro_christmas_male_7b9e7c39:
-    mike.say "Конечно, Аиша."
+    mike.say "Конечно, Айша."
 
 # ch/ayesha/date.rpy:28
 translate russian ayesha_date_intro_christmas_male_a4573b3a:
@@ -1734,7 +1734,7 @@ translate russian ayesha_date_intro_christmas_male_a4573b3a:
 
 # ch/ayesha/date.rpy:29
 translate russian ayesha_date_intro_christmas_male_a989c0b2:
-    "Лицо Аиши озаряется, когда она слышит мой восторженный голос."
+    "Лицо Айши озаряется, когда она слышит мой восторженный голос."
 
 # ch/ayesha/date.rpy:30
 translate russian ayesha_date_intro_christmas_male_d8613351:
@@ -1746,7 +1746,7 @@ translate russian ayesha_date_intro_christmas_male_5ad3a6b0:
 
 # ch/ayesha/date.rpy:35
 translate russian ayesha_date_intro_birthday_male_ec86fe2e:
-    mike.say "С днем рождения, Аиша!"
+    mike.say "С днём рождения, Айша!"
 
 # ch/ayesha/date.rpy:36
 translate russian ayesha_date_intro_birthday_male_e4bbb275:
@@ -1758,7 +1758,7 @@ translate russian ayesha_date_intro_birthday_male_0735ad81:
 
 # ch/ayesha/date.rpy:38
 translate russian ayesha_date_intro_birthday_male_bd9fc62f:
-    mike.say "Никто, кроме меня, Аиша."
+    mike.say "Никто, кроме меня, Айша."
 
 # ch/ayesha/date.rpy:39
 translate russian ayesha_date_intro_birthday_male_7c29276d:
@@ -1770,7 +1770,7 @@ translate russian ayesha_date_intro_birthday_male_3f4e9afe:
 
 # ch/ayesha/date.rpy:44
 translate russian ayesha_date_intro_mc_birthday_male_36408d41:
-    mike.say "Ты готова к нашей встрече, Аиша?"
+    mike.say "Ты готова к нашей встрече, Айша?"
 
 # ch/ayesha/date.rpy:45
 translate russian ayesha_date_intro_mc_birthday_male_c5e0ef62:
@@ -1782,7 +1782,7 @@ translate russian ayesha_date_intro_mc_birthday_male_d58c5cfc:
 
 # ch/ayesha/date.rpy:47
 translate russian ayesha_date_intro_mc_birthday_male_c754a389:
-    ayesha.say "С днем рождения, [lssb_ayesha.hero_name()]!"
+    ayesha.say "С днём рождения, [lssb_ayesha.hero_name()]!"
 
 # ch/ayesha/date.rpy:48
 translate russian ayesha_date_intro_mc_birthday_male_856e5146:
@@ -1826,7 +1826,7 @@ translate russian ayesha_date_familyrestaurant_male_9e8c6483:
 
 # ch/ayesha/date.rpy:72
 translate russian ayesha_date_familyrestaurant_male_21b6ab05:
-    mike.say "Что случилось, Аиша?"
+    mike.say "Что случилось, Айша?"
 
 # ch/ayesha/date.rpy:73
 translate russian ayesha_date_familyrestaurant_male_329e80d8:
@@ -1862,11 +1862,11 @@ translate russian ayesha_date_ride_the_ferris_wheel_24308571:
 
 # ch/ayesha/date.rpy:96
 translate russian ayesha_date_ride_the_ferris_wheel_28fec5c6:
-    ayesha.say "Если мы поедем на нем, мне, возможно, придется держаться за тебя все время!"
+    ayesha.say "Если мы поедем на нём, мне, возможно, придётся держаться за тебя всё время!"
 
 # ch/ayesha/date.rpy:105
 translate russian ayesha_date_waterpark_male_77691c57:
-    "Когда я предложил ей, я немного ожидал, что Аиша отреагирует негативно на идею пойти со мной в аквапарк."
+    "Когда я предложил ей, я немного ожидал, что Айша отреагирует негативно на идею пойти со мной в аквапарк."
 
 # ch/ayesha/date.rpy:106
 translate russian ayesha_date_waterpark_male_5bd5e2bc:
@@ -1874,7 +1874,7 @@ translate russian ayesha_date_waterpark_male_5bd5e2bc:
 
 # ch/ayesha/date.rpy:107
 translate russian ayesha_date_waterpark_male_1e70c87c:
-    "В конце концов, она очень серьезно относится к физической дисциплине и поддержанию себя в форме."
+    "В конце концов, она очень серьёзно относится к физической дисциплине и поддержанию себя в форме."
 
 # ch/ayesha/date.rpy:108
 translate russian ayesha_date_waterpark_male_0990be01:
@@ -1894,11 +1894,11 @@ translate russian ayesha_date_waterpark_male_63568193:
 
 # ch/ayesha/date.rpy:112
 translate russian ayesha_date_waterpark_male_e84ef02c:
-    "У меня были все мои аргументы и альтернативы наготове, если бы Аиша отказала."
+    "У меня были все мои аргументы и альтернативы наготове, если бы Айша отказала."
 
 # ch/ayesha/date.rpy:113
 translate russian ayesha_date_waterpark_male_24c1ed9f:
-    "Единственное, чего я никогда не ожидал – это того, что она согласится сразу!"
+    "Единственное, чего я никогда не ожидал — это того, что она согласится сразу!"
 
 # ch/ayesha/date.rpy:114
 translate russian ayesha_date_waterpark_male_352188a2:
@@ -1906,7 +1906,7 @@ translate russian ayesha_date_waterpark_male_352188a2:
 
 # ch/ayesha/date.rpy:115
 translate russian ayesha_date_waterpark_male_4e4f5207:
-    mike.say "Постой... ты сказала \"да\"?"
+    mike.say "Постой... ты сказала «да»?"
 
 # ch/ayesha/date.rpy:116
 translate russian ayesha_date_waterpark_male_f1b620e3:
@@ -1950,7 +1950,7 @@ translate russian ayesha_date_waterpark_male_8bdef303:
 
 # ch/ayesha/date.rpy:126
 translate russian ayesha_date_waterpark_male_f59e4415:
-    mike.say "Может, сегодня днем?"
+    mike.say "Может, сегодня днём?"
 
 # ch/ayesha/date.rpy:127
 translate russian ayesha_date_waterpark_male_b163f680:
@@ -1966,7 +1966,7 @@ translate russian ayesha_date_waterpark_male_a002de42:
 
 # ch/ayesha/date.rpy:130
 translate russian ayesha_date_waterpark_male_614c45df:
-    "Я был готов немного раньше, чем она, и пока ждал, невольно смотрел на свое отражение."
+    "Я был готов немного раньше, чем она, и пока ждал, невольно смотрел на своё отражение."
 
 # ch/ayesha/date.rpy:131
 translate russian ayesha_date_waterpark_male_1774e055:
@@ -1986,7 +1986,7 @@ translate russian ayesha_date_waterpark_male_f305f09d:
 
 # ch/ayesha/date.rpy:137
 translate russian ayesha_date_waterpark_male_66c5dc1a:
-    "Но когда я оборачиваюсь, услышав ее голос, все мысли о том, чтобы произвести на нее впечатление своей фигурой, мгновенно исчезают."
+    "Но когда я оборачиваюсь, услышав её голос, все мысли о том, чтобы произвести на неё впечатление своей фигурой, мгновенно исчезают."
 
 # ch/ayesha/date.rpy:138
 translate russian ayesha_date_waterpark_male_8a097af6:
@@ -1994,7 +1994,7 @@ translate russian ayesha_date_waterpark_male_8a097af6:
 
 # ch/ayesha/date.rpy:139
 translate russian ayesha_date_waterpark_male_cc031965:
-    "Но вид ее, стоящей там в купальнике, заставляет меня остановиться."
+    "Но вид её, стоящей там в купальнике, заставляет меня остановиться."
 
 # ch/ayesha/date.rpy:140
 translate russian ayesha_date_waterpark_male_9edcbff8:
@@ -2034,7 +2034,7 @@ translate russian ayesha_date_waterpark_male_e6058583:
 
 # ch/ayesha/date.rpy:151
 translate russian ayesha_date_waterpark_male_94dc516f:
-    mike.say "Ни за что, Аиша."
+    mike.say "Ни за что, Айша."
 
 # ch/ayesha/date.rpy:152
 translate russian ayesha_date_waterpark_male_5599453b:
@@ -2042,7 +2042,7 @@ translate russian ayesha_date_waterpark_male_5599453b:
 
 # ch/ayesha/date.rpy:153
 translate russian ayesha_date_waterpark_male_63a88f19:
-    "Аиша качает головой и смущенно отворачивается от моего замечания."
+    "Айша качает головой и смущённо отворачивается от моего замечания."
 
 # ch/ayesha/date.rpy:154
 translate russian ayesha_date_waterpark_male_3b311171:
@@ -2054,11 +2054,11 @@ translate russian ayesha_date_waterpark_male_966ff6db:
 
 # ch/ayesha/date.rpy:158
 translate russian ayesha_date_waterpark_male_7ef9682e:
-    "Сначала Аиша, кажется, не хочет присоединяться к моим шалостям, когда я обрызгиваю ее водой и вообще веду себя как ребенок."
+    "Сначала Айша, кажется, не хочет присоединяться к моим шалостям, когда я обрызгиваю её водой и вообще веду себя как ребёнок."
 
 # ch/ayesha/date.rpy:159
 translate russian ayesha_date_waterpark_male_7193434d:
-    "Но затем, как только она начинает расслабляться и отвечает мне тем же, из-за наших спин раздается крик."
+    "Но затем, как только она начинает расслабляться и отвечает мне тем же, из-за наших спин раздаётся крик."
 
 # ch/ayesha/date.rpy:160
 translate russian ayesha_date_waterpark_male_5a39c227:
@@ -2070,7 +2070,7 @@ translate russian ayesha_date_waterpark_male_fd7bb37f:
 
 # ch/ayesha/date.rpy:162
 translate russian ayesha_date_waterpark_male_b5640155:
-    "Мы с Аишей одновременно оборачиваемся и видим двух очень сердитых мальчиков, стоящих немного в стороне."
+    "Мы с Айшей одновременно оборачиваемся и видим двух очень сердитых мальчиков, стоящих немного в стороне."
 
 # ch/ayesha/date.rpy:166
 translate russian ayesha_date_waterpark_male_91c560e0:
@@ -2102,7 +2102,7 @@ translate russian ayesha_date_waterpark_male_770104f4:
 
 # ch/ayesha/date.rpy:175
 translate russian ayesha_date_waterpark_male_b95257e8:
-    "И я вижу в ее глазах безмолственную мольбу о помощи..."
+    "И я вижу в её глазах безмолственную мольбу о помощи..."
 
 # ch/ayesha/date.rpy:178
 translate russian ayesha_date_waterpark_male_b14dcfa4:
@@ -2114,7 +2114,7 @@ translate russian ayesha_date_waterpark_male_34a99d8f:
 
 # ch/ayesha/date.rpy:180
 translate russian ayesha_date_waterpark_male_86ee568c:
-    "А теперь они собираются все испортить из-за какого-то глупого рестлинг-матча, на котором ее видели?!?"
+    "А теперь они собираются все испортить из-за какого-то глупого рестлинг-матча, на котором её видели?!?"
 
 # ch/ayesha/date.rpy:181
 translate russian ayesha_date_waterpark_male_2af01b05:
@@ -2166,7 +2166,7 @@ translate russian ayesha_date_waterpark_male_3fa487d0:
 
 # ch/ayesha/date.rpy:193
 translate russian ayesha_date_waterpark_male_3c5a4846:
-    mike.say "Борьба – это подделка, выдумка, и вы, тупицы, думаете, что это настоящее!"
+    mike.say "Борьба — это подделка, выдумка, и вы, тупицы, думаете, что это настоящее!"
 
 # ch/ayesha/date.rpy:195
 translate russian ayesha_date_waterpark_male_79b99535:
@@ -2182,7 +2182,7 @@ translate russian ayesha_date_waterpark_male_54ef6756:
 
 # ch/ayesha/date.rpy:198
 translate russian ayesha_date_waterpark_male_5037830c:
-    "Я оставляю этих двух мальчиков переваривать эту информацию и беру Айшу под руку, уводя ее от них."
+    "Я оставляю этих двух мальчиков переваривать эту информацию и беру Айшу под руку, уводя её от них."
 
 # ch/ayesha/date.rpy:199
 translate russian ayesha_date_waterpark_male_5170b520:
@@ -2218,7 +2218,7 @@ translate russian ayesha_date_waterpark_male_4459c110:
 
 # ch/ayesha/date.rpy:212
 translate russian ayesha_date_waterpark_male_0e0098d0:
-    "Но проблема в том, что я не могу сделать ничего, что заставит их поверить, что борьба – это нереально."
+    "Но проблема в том, что я не могу сделать ничего, что заставит их поверить, что борьба — это нереально."
 
 # ch/ayesha/date.rpy:213
 translate russian ayesha_date_waterpark_male_33bb8190:
@@ -2226,7 +2226,7 @@ translate russian ayesha_date_waterpark_male_33bb8190:
 
 # ch/ayesha/date.rpy:214
 translate russian ayesha_date_waterpark_male_8fe81acf:
-    "Я напрягаю все свои мысли, пытаясь придумать какое-нибудь правило борьбы, которое могло бы спасти ей задницу…"
+    "Я напрягаю все свои мысли, пытаясь придумать какое-нибудь правило борьбы, которое могло бы спасти ей задницу..."
 
 # ch/ayesha/date.rpy:215
 translate russian ayesha_date_waterpark_male_54f32d13_1:
@@ -2242,7 +2242,7 @@ translate russian ayesha_date_waterpark_male_7cceb6d3_1:
 
 # ch/ayesha/date.rpy:218
 translate russian ayesha_date_waterpark_male_5b29ee5e:
-    mike.say "Ты оскорбляешь моего партнера по команде, и мне это не нравится."
+    mike.say "Ты оскорбляешь моего партнёра по команде, и мне это не нравится."
 
 # ch/ayesha/date.rpy:219
 translate russian ayesha_date_waterpark_male_042541e5_1:
@@ -2262,7 +2262,7 @@ translate russian ayesha_date_waterpark_male_7114cc53:
 
 # ch/ayesha/date.rpy:223
 translate russian ayesha_date_waterpark_male_24ac8e14:
-    mike.say "Значит, тебе придется взять меня к себе!"
+    mike.say "Значит, тебе придётся взять меня к себе!"
 
 # ch/ayesha/date.rpy:224
 translate russian ayesha_date_waterpark_male_4fff3898:
@@ -2282,11 +2282,11 @@ translate russian ayesha_date_waterpark_male_9c12cca4:
 
 # ch/ayesha/date.rpy:228
 translate russian ayesha_date_waterpark_male_ec03f58b:
-    mike.say "А как насчет того, чтобы ты вышел на ринг и бросил мне вызов, братан?"
+    mike.say "А как насчёт того, чтобы ты вышел на ринг и бросил мне вызов, братан?"
 
 # ch/ayesha/date.rpy:229
 translate russian ayesha_date_waterpark_male_546c3c52:
-    mike.say "Или ты боишься, что [lssb_ayesha.hero_name()]mania сорвется на тебе?!?"
+    mike.say "Или ты боишься, что [lssb_ayesha.hero_name()]mania сорвётся на тебе?!?"
 
 # ch/ayesha/date.rpy:230
 translate russian ayesha_date_waterpark_male_1e1f69a9:
@@ -2298,11 +2298,11 @@ translate russian ayesha_date_waterpark_male_1a333d25:
 
 # ch/ayesha/date.rpy:233
 translate russian ayesha_date_waterpark_male_51f31174:
-    "И тут же они разворачиваются и убегают, оставляя Аишу и меня одних снова."
+    "И тут же они разворачиваются и убегают, оставляя Айшу и меня одних снова."
 
 # ch/ayesha/date.rpy:235
 translate russian ayesha_date_waterpark_male_1c913973:
-    "Я поворачиваюсь к Аише, только сейчас осознавая, что все еще стою в своей лучшей позе борца."
+    "Я поворачиваюсь к Айше, только сейчас осознавая, что всё ещё стою в своей лучшей позе борца."
 
 # ch/ayesha/date.rpy:237
 translate russian ayesha_date_waterpark_male_2d28a75a:
@@ -2318,15 +2318,15 @@ translate russian ayesha_date_waterpark_male_b3490c89:
 
 # ch/ayesha/date.rpy:240
 translate russian ayesha_date_waterpark_male_5348c4ba:
-    mike.say "Прости меня, Аиша."
+    mike.say "Прости меня, Айша."
 
 # ch/ayesha/date.rpy:241
 translate russian ayesha_date_waterpark_male_4436c26c:
-    mike.say "Я пытался сохранить... что это, \"кайтейб\"?"
+    mike.say "Я пытался сохранить... что это, «кайтейб»?"
 
 # ch/ayesha/date.rpy:242
 translate russian ayesha_date_waterpark_male_bc1a02f5:
-    "Она смеется и качает головой, ее улыбка успокаивает меня, показывая, что она не очень сердится."
+    "Она смеётся и качает головой, её улыбка успокаивает меня, показывая, что она не очень сердится."
 
 # ch/ayesha/date.rpy:243
 translate russian ayesha_date_waterpark_male_8898b6c0:
@@ -2334,7 +2334,7 @@ translate russian ayesha_date_waterpark_male_8898b6c0:
 
 # ch/ayesha/date.rpy:245
 translate russian ayesha_date_waterpark_male_f918aef8:
-    ayesha.say "Мне, кстати, даже понравилось, когда ты назвал меня своим партнером по команде."
+    ayesha.say "Мне, кстати, даже понравилось, когда ты назвал меня своим партнёром по команде."
 
 # ch/ayesha/date.rpy:246
 translate russian ayesha_date_waterpark_male_ca6bf17c:
@@ -2342,11 +2342,11 @@ translate russian ayesha_date_waterpark_male_ca6bf17c:
 
 # ch/ayesha/date.rpy:248
 translate russian ayesha_date_waterpark_male_4d98df11:
-    "Теперь, когда угроза нашему веселью устранена, Аиша и я стараемся вернуться к тому, чем занимались до этого."
+    "Теперь, когда угроза нашему веселью устранена, Айша и я стараемся вернуться к тому, чем занимались до этого."
 
 # ch/ayesha/date.rpy:250
 translate russian ayesha_date_waterpark_male_51f97f16:
-    "Сначала это кажется немного неловким и неестественным, но вскоре атмосфера снова начинает становиться более легкой."
+    "Сначала это кажется немного неловким и неестественным, но вскоре атмосфера снова начинает становиться более лёгкой."
 
 # ch/ayesha/date.rpy:251
 translate russian ayesha_date_waterpark_male_a599e2dc:
@@ -2370,7 +2370,7 @@ translate russian ayesha_date_waterpark_male_88e8073d:
 
 # ch/ayesha/date.rpy:267
 translate russian ayesha_date_park_male_ce5b4870:
-    "Клянусь, что причина, по которой я решил сегодня погулять с Аишей в парке, была исключительно хорошая погода, и ничто больше."
+    "Клянусь, что причина, по которой я решил сегодня погулять с Айшей в парке, была исключительно хорошая погода, и ничто больше."
 
 # ch/ayesha/date.rpy:268
 translate russian ayesha_date_park_male_d40e5f00:
@@ -2382,7 +2382,7 @@ translate russian ayesha_date_park_male_d335d13c:
 
 # ch/ayesha/date.rpy:270
 translate russian ayesha_date_park_male_852440bc:
-    "Это ни имеет никакого отношения к тому факту, что я проверил свой банковский счет, прежде чем выглянул в окно, и чуть не потерял сознание."
+    "Это ни имеет никакого отношения к тому факту, что я проверил свой банковский счёт, прежде чем выглянул в окно, и чуть не потерял сознание."
 
 # ch/ayesha/date.rpy:271
 translate russian ayesha_date_park_male_7afb48c0:
@@ -2398,11 +2398,11 @@ translate russian ayesha_date_park_male_30b07741:
 
 # ch/ayesha/date.rpy:274
 translate russian ayesha_date_park_male_8b8127f5:
-    "В любом случае, Аиша вроде бы не против этой идеи, когда я звоню ей и предлагаю."
+    "В любом случае, Айша вроде бы не против этой идеи, когда я звоню ей и предлагаю."
 
 # ch/ayesha/date.rpy:276
 translate russian ayesha_date_park_male_2d807991:
-    mike.say "Привет, Аиша."
+    mike.say "Привет, Айша."
 
 # ch/ayesha/date.rpy:277
 translate russian ayesha_date_park_male_b3970fd1:
@@ -2410,7 +2410,7 @@ translate russian ayesha_date_park_male_b3970fd1:
 
 # ch/ayesha/date.rpy:278
 translate russian ayesha_date_park_male_c3567dea:
-    ayesha.say "Итак, куда мы сегодня идем на свидание?"
+    ayesha.say "Итак, куда мы сегодня идём на свидание?"
 
 # ch/ayesha/date.rpy:279
 translate russian ayesha_date_park_male_1d5e9d6e:
@@ -2430,7 +2430,7 @@ translate russian ayesha_date_park_male_28bfac67:
 
 # ch/ayesha/date.rpy:284
 translate russian ayesha_date_park_male_09c75f84:
-    ayesha.say "Прогулка – это отличная идея."
+    ayesha.say "Прогулка — это отличная идея."
 
 # ch/ayesha/date.rpy:285
 translate russian ayesha_date_park_male_f6cd673f:
@@ -2442,7 +2442,7 @@ translate russian ayesha_date_park_male_0727c385:
 
 # ch/ayesha/date.rpy:287
 translate russian ayesha_date_park_male_82bd4e47:
-    "Я заканчиваю разговор, чувствуя легкое волнение от мысли, что Аише понравилась моя идея."
+    "Я заканчиваю разговор, чувствуя лёгкое волнение от мысли, что Айше понравилась моя идея."
 
 # ch/ayesha/date.rpy:288
 translate russian ayesha_date_park_male_e112b48d:
@@ -2466,11 +2466,11 @@ translate russian ayesha_date_park_male_1ba8afa5:
 
 # ch/ayesha/date.rpy:294
 translate russian ayesha_date_park_male_23f2ab08:
-    "Я начинаю ходить взад-вперед, почти убеждаясь, что меня ждет разочарование."
+    "Я начинаю ходить взад-вперёд, почти убеждаясь, что меня ждёт разочарование."
 
 # ch/ayesha/date.rpy:295
 translate russian ayesha_date_park_male_17d86bbf:
-    "Но тут я вижу, как Аиша идет ко мне, и я внезапно вспоминаю, что опоздал, а она пришла точно вовремя."
+    "Но тут я вижу, как Айша идёт ко мне, и я внезапно вспоминаю, что опоздал, а она пришла точно вовремя."
 
 # ch/ayesha/date.rpy:296
 translate russian ayesha_date_park_male_ce368024:
@@ -2486,11 +2486,11 @@ translate russian ayesha_date_park_male_be8e6a86:
 
 # ch/ayesha/date.rpy:299
 translate russian ayesha_date_park_male_b9090b89:
-    "Аиша смотрит на меня с легким удивлением в глазах."
+    "Айша смотрит на меня с лёгким удивлением в глазах."
 
 # ch/ayesha/date.rpy:300
 translate russian ayesha_date_park_male_6e1f5665:
-    "Как будто я выдернул ее из размышлений и вернул в реальность."
+    "Как будто я выдернул её из размышлений и вернул в реальность."
 
 # ch/ayesha/date.rpy:301
 translate russian ayesha_date_park_male_add6f7b3:
@@ -2506,7 +2506,7 @@ translate russian ayesha_date_park_male_032851d4:
 
 # ch/ayesha/date.rpy:304
 translate russian ayesha_date_park_male_cd2705e2:
-    mike.say "Потому что мы всегда можем пойти куда-нибудь еще, если у тебя есть сомнения насчет этого места."
+    mike.say "Потому что мы всегда можем пойти куда-нибудь ещё, если у тебя есть сомнения насчёт этого места."
 
 # ch/ayesha/date.rpy:305
 translate russian ayesha_date_park_male_b40f7361:
@@ -2526,7 +2526,7 @@ translate russian ayesha_date_park_male_94f57a6a:
 
 # ch/ayesha/date.rpy:310
 translate russian ayesha_date_park_male_b618fb80:
-    "Я решаю принять объяснение Аиши таким, какое оно есть, и не хочу углубляться в детали."
+    "Я решаю принять объяснение Айши таким, какое оно есть, и не хочу углубляться в детали."
 
 # ch/ayesha/date.rpy:311
 translate russian ayesha_date_park_male_2aee1d0f:
@@ -2534,11 +2534,11 @@ translate russian ayesha_date_park_male_2aee1d0f:
 
 # ch/ayesha/date.rpy:312
 translate russian ayesha_date_park_male_e9fa1efd:
-    "Поэтому я протягиваю руку, чтобы взять ее за руку, и мы начинаем нашу прогулку."
+    "Поэтому я протягиваю руку, чтобы взять её за руку, и мы начинаем нашу прогулку."
 
 # ch/ayesha/date.rpy:313
 translate russian ayesha_date_park_male_5344f432:
-    "К моему облегчению, Аиша довольно быстро выходит из этого странного состояния."
+    "К моему облегчению, Айша довольно быстро выходит из этого странного состояния."
 
 # ch/ayesha/date.rpy:315
 translate russian ayesha_date_park_male_3b86d475:
@@ -2546,7 +2546,7 @@ translate russian ayesha_date_park_male_3b86d475:
 
 # ch/ayesha/date.rpy:316
 translate russian ayesha_date_park_male_0a670ee4:
-    "Даже когда нам приходится уворачиваться от велосипедистов и бегунов, мы просто смеемся и продолжаем наш путь."
+    "Даже когда нам приходится уворачиваться от велосипедистов и бегунов, мы просто смеёмся и продолжаем наш путь."
 
 # ch/ayesha/date.rpy:317
 translate russian ayesha_date_park_male_6ba11ae5:
@@ -2606,15 +2606,15 @@ translate russian ayesha_date_park_male_fd202270:
 
 # ch/ayesha/date.rpy:334
 translate russian ayesha_date_park_male_b29edb36:
-    "Айша, будучи полностью застигнутой врасплох, ловит меня, когда я обнимаю ее за шею."
+    "Айша, будучи полностью застигнутой врасплох, ловит меня, когда я обнимаю её за шею."
 
 # ch/ayesha/date.rpy:335
 translate russian ayesha_date_park_male_86c50a82:
-    "Это означает, что когда эта скачущая, слюнявящаяся собака появляется на месте, я оказываюсь в ее объятиях."
+    "Это означает, что когда эта скачущая, слюнявящаяся собака появляется на месте, я оказываюсь в её объятиях."
 
 # ch/ayesha/date.rpy:336
 translate russian ayesha_date_park_male_555f0c81:
-    "Затем она издает серию рычащих лаев и пытается подпрыгнуть к Айше."
+    "Затем она издаёт серию рычащих лаев и пытается подпрыгнуть к Айше."
 
 # ch/ayesha/date.rpy:337
 translate russian ayesha_date_park_male_2026e5f9:
@@ -2638,7 +2638,7 @@ translate russian ayesha_date_park_male_ea8cde71:
 
 # ch/ayesha/date.rpy:342
 translate russian ayesha_date_park_male_5693b333:
-    "Слова затихают, становится понятно, что я не ребенок, а взрослый мужчина."
+    "Слова затихают, становится понятно, что я не ребёнок, а взрослый мужчина."
 
 # ch/ayesha/date.rpy:343
 translate russian ayesha_date_park_male_7002d852:
@@ -2674,7 +2674,7 @@ translate russian ayesha_date_park_male_103658f0:
 
 # ch/ayesha/date.rpy:353
 translate russian ayesha_date_park_male_32f75581:
-    "Но лучшее, что я могу сделать, чтобы объяснить себя – это глупо улыбнуться, а потом пожать плечами."
+    "Но лучшее, что я могу сделать, чтобы объяснить себя — это глупо улыбнуться, а потом пожать плечами."
 
 # ch/ayesha/date.rpy:354
 translate russian ayesha_date_park_male_8ea7189c:
@@ -2706,11 +2706,11 @@ translate russian ayesha_date_park_male_819a0d0e:
 
 # ch/ayesha/date.rpy:363
 translate russian ayesha_date_park_male_b4ebe533:
-    mike.say "На нее можно было бы седло надеть и выдать за лошадь!"
+    mike.say "На неё можно было бы седло надеть и выдать за лошадь!"
 
 # ch/ayesha/date.rpy:364
 translate russian ayesha_date_park_male_9f0353fb:
-    "Аиша качает головой, явно развлеченная как моей выходкой, так и моими оправданиями."
+    "Айша качает головой, явно развлеченная как моей выходкой, так и моими оправданиями."
 
 # ch/ayesha/date.rpy:365
 translate russian ayesha_date_park_male_04b8198c:
@@ -2726,15 +2726,15 @@ translate russian ayesha_date_park_male_5ce30910:
 
 # ch/ayesha/date.rpy:368
 translate russian ayesha_date_park_male_acadf131:
-    "Наверное, это было довольно смешно – парень бросается в объятия девушки."
+    "Наверное, это было довольно смешно — парень бросается в объятия девушки."
 
 # ch/ayesha/date.rpy:369
 translate russian ayesha_date_park_male_e571887c:
-    "Я просто надеюсь, что это не значит, что Аиша потеряла ко мне какое-то уважение..."
+    "Я просто надеюсь, что это не значит, что Айша потеряла ко мне какое-то уважение..."
 
 # ch/ayesha/date.rpy:372
 translate russian ayesha_date_park_male_9365beb3:
-    "Не говоря ни слова, я встал между Аишей и приближающейся собакой."
+    "Не говоря ни слова, я встал между Айшей и приближающейся собакой."
 
 # ch/ayesha/date.rpy:373
 translate russian ayesha_date_park_male_8d152d83:
@@ -2742,7 +2742,7 @@ translate russian ayesha_date_park_male_8d152d83:
 
 # ch/ayesha/date.rpy:374
 translate russian ayesha_date_park_male_a713ee74:
-    "Это означает, что когда эта прыгающая, слюнявящаяся собака появляется, я оказываюсь прямо у нее на пути."
+    "Это означает, что когда эта прыгающая, слюнявящаяся собака появляется, я оказываюсь прямо у неё на пути."
 
 # ch/ayesha/date.rpy:375
 translate russian ayesha_date_park_male_5a89299b:
@@ -2778,11 +2778,11 @@ translate russian ayesha_date_park_male_e38dad57:
 
 # ch/ayesha/date.rpy:385
 translate russian ayesha_date_park_male_c4892158:
-    "Услышав ее испуганный голос, я бросаю взгляд на Ayesha."
+    "Услышав её испуганный голос, я бросаю взгляд на Ayesha."
 
 # ch/ayesha/date.rpy:386
 translate russian ayesha_date_park_male_ea62b629:
-    mike.say "Все в порядке, Ayesha."
+    mike.say "Всё в порядке, Ayesha."
 
 # ch/ayesha/date.rpy:387
 translate russian ayesha_date_park_male_e14bbedc:
@@ -2830,19 +2830,19 @@ translate russian ayesha_date_park_male_ecefac72:
 
 # ch/ayesha/date.rpy:399
 translate russian ayesha_date_park_male_3b84727d:
-    "Хозяйка благодарно кивает, рада, что ее не упрекали за то, что она не смогла держать собаку на поводке."
+    "Хозяйка благодарно кивает, рада, что её не упрекали за то, что она не смогла держать собаку на поводке."
 
 # ch/ayesha/date.rpy:400
 translate russian ayesha_date_park_male_6d85aeda:
-    "И как только собака снова оказывается на поводке, ее с трудом оттаскивают хозяин."
+    "И как только собака снова оказывается на поводке, её с трудом оттаскивают хозяин."
 
 # ch/ayesha/date.rpy:401
 translate russian ayesha_date_park_male_49e64b28:
-    "Только тогда я обращаю внимание на Аишу и замечаю искренний страх в ее глазах."
+    "Только тогда я обращаю внимание на Айшу и замечаю искренний страх в её глазах."
 
 # ch/ayesha/date.rpy:402
 translate russian ayesha_date_park_male_200a50c9:
-    mike.say "Боже, Аиша..."
+    mike.say "Боже, Айша..."
 
 # ch/ayesha/date.rpy:403
 translate russian ayesha_date_park_male_c633af0c:
@@ -2866,11 +2866,11 @@ translate russian ayesha_date_park_male_40635368:
 
 # ch/ayesha/date.rpy:409
 translate russian ayesha_date_park_male_3f13c473:
-    "Я осторожно обнимаю Аишу, пытаясь ее успокоить."
+    "Я осторожно обнимаю Айшу, пытаясь её успокоить."
 
 # ch/ayesha/date.rpy:410
 translate russian ayesha_date_park_male_1c9a0554:
-    mike.say "Эй, эй, все в порядке, Аиша."
+    mike.say "Эй, эй, всё в порядке, Айша."
 
 # ch/ayesha/date.rpy:411
 translate russian ayesha_date_park_male_bc3dfc50:
@@ -2914,7 +2914,7 @@ translate russian ayesha_date_park_male_672db7dd:
 
 # ch/ayesha/date.rpy:422
 translate russian ayesha_date_park_male_0dd104aa:
-    mike.say "Не волнуйся, Аиша."
+    mike.say "Не волнуйся, Айша."
 
 # ch/ayesha/date.rpy:423
 translate russian ayesha_date_park_male_31b5dc75:
@@ -2926,7 +2926,7 @@ translate russian ayesha_date_park_male_92774d07:
 
 # ch/ayesha/date.rpy:425
 translate russian ayesha_date_park_male_eb7222c7:
-    "Аиша остается в моих объятиях еще несколько минут."
+    "Айша остаётся в моих объятиях ещё несколько минут."
 
 # ch/ayesha/date.rpy:426
 translate russian ayesha_date_park_male_3a7b36b1:
@@ -2946,7 +2946,7 @@ translate russian ayesha_date_park_male_cb914a9a:
 
 # ch/ayesha/date.rpy:431
 translate russian ayesha_date_park_male_ed423460:
-    "Возможно, даже живой талисман против некоторых из ее самых страшных страхов..."
+    "Возможно, даже живой талисман против некоторых из её самых страшных страхов..."
 
 # ch/ayesha/date.rpy:438
 translate russian ayesha_date_park_male_5066f975:
@@ -2974,7 +2974,7 @@ translate russian ayesha_date_park_male_19ed22c5:
 
 # ch/ayesha/date.rpy:451
 translate russian ayesha_date_livingroom_male_831be3d9:
-    "Я прекрасно понимаю, что приглашать девушку к себе домой – это одна из тех вещей, которые просто нужно делать."
+    "Я прекрасно понимаю, что приглашать девушку к себе домой — это одна из тех вещей, которые просто нужно делать."
 
 # ch/ayesha/date.rpy:452
 translate russian ayesha_date_livingroom_male_78b767b1:
@@ -2982,7 +2982,7 @@ translate russian ayesha_date_livingroom_male_78b767b1:
 
 # ch/ayesha/date.rpy:453
 translate russian ayesha_date_livingroom_male_61c419af:
-    "Но я, будучи тем, кто я есть, не могу удержаться от того, чтобы слишком много думать обо всем сразу после того, как предлагаю это Айше, и она соглашается."
+    "Но я, будучи тем, кто я есть, не могу удержаться от того, чтобы слишком много думать обо всём сразу после того, как предлагаю это Айше, и она соглашается."
 
 # ch/ayesha/date.rpy:454
 translate russian ayesha_date_livingroom_male_77c811d5:
@@ -2990,11 +2990,11 @@ translate russian ayesha_date_livingroom_male_77c811d5:
 
 # ch/ayesha/date.rpy:455
 translate russian ayesha_date_livingroom_male_e8d9a799:
-    "В конце концов, это просто означает, что Айша придет ко мне, и мы проведем время вместе, смотря что-нибудь по телевизору."
+    "В конце концов, это просто означает, что Айша придёт ко мне, и мы проведём время вместе, смотря что-нибудь по телевизору."
 
 # ch/ayesha/date.rpy:456
 translate russian ayesha_date_livingroom_male_6b5e3869:
-    "Но потом я понимаю, что это значит, что она впервые войдет в мой дом."
+    "Но потом я понимаю, что это значит, что она впервые войдёт в мой дом."
 
 # ch/ayesha/date.rpy:457
 translate russian ayesha_date_livingroom_male_a326309d:
@@ -3002,7 +3002,7 @@ translate russian ayesha_date_livingroom_male_a326309d:
 
 # ch/ayesha/date.rpy:458
 translate russian ayesha_date_livingroom_male_5f4b3417:
-    "Что, если это заставит ее подумать, что это отражение меня?"
+    "Что, если это заставит её подумать, что это отражение меня?"
 
 # ch/ayesha/date.rpy:459
 translate russian ayesha_date_livingroom_male_db29a04e:
@@ -3018,7 +3018,7 @@ translate russian ayesha_date_livingroom_male_0a6c8c6d:
 
 # ch/ayesha/date.rpy:462
 translate russian ayesha_date_livingroom_male_31b12b93:
-    "Когда я провожу ее в гостиную, я замечаю, что Айша с интересом осматривается."
+    "Когда я провожу её в гостиную, я замечаю, что Айша с интересом осматривается."
 
 # ch/ayesha/date.rpy:464
 translate russian ayesha_date_livingroom_male_847c82bb:
@@ -3058,7 +3058,7 @@ translate russian ayesha_date_livingroom_male_be1b2652:
 
 # ch/ayesha/date.rpy:473
 translate russian ayesha_date_livingroom_male_512592e1:
-    "Аиша кивает, когда мы садимся на диван."
+    "Айша кивает, когда мы садимся на диван."
 
 # ch/ayesha/date.rpy:474
 translate russian ayesha_date_livingroom_male_6972c2e5:
@@ -3074,15 +3074,15 @@ translate russian ayesha_date_livingroom_male_4e678801:
 
 # ch/ayesha/date.rpy:477
 translate russian ayesha_date_livingroom_male_f83e48ce:
-    "На мгновение мне кажется, что Аиша вот-вот продолжит разговор на эту тему."
+    "На мгновение мне кажется, что Айша вот-вот продолжит разговор на эту тему."
 
 # ch/ayesha/date.rpy:478
 translate russian ayesha_date_livingroom_male_9f1d2333:
-    "Но потом она улыбается и качает головой, закрывая возможность заглянуть в ее прошлое."
+    "Но потом она улыбается и качает головой, закрывая возможность заглянуть в её прошлое."
 
 # ch/ayesha/date.rpy:479
 translate russian ayesha_date_livingroom_male_16b7f91c:
-    ayesha.say "Но ты ведь не хочешь говорить о моем детстве."
+    ayesha.say "Но ты ведь не хочешь говорить о моём детстве."
 
 # ch/ayesha/date.rpy:481
 translate russian ayesha_date_livingroom_male_ea3bdc12:
@@ -3090,11 +3090,11 @@ translate russian ayesha_date_livingroom_male_ea3bdc12:
 
 # ch/ayesha/date.rpy:482
 translate russian ayesha_date_livingroom_male_7a0dc5f8:
-    "Я думаю, стоит сказать Аише, что все в порядке, и побудить ее продолжить то, о чем она собиралась рассказать."
+    "Я думаю, стоит сказать Айше, что всё в порядке, и побудить её продолжить то, о чём она собиралась рассказать."
 
 # ch/ayesha/date.rpy:483
 translate russian ayesha_date_livingroom_male_25faa87e:
-    "Но потом я передумал, подумав, что не стоит давить на нее и заставлять говорить, когда она уже сменила тему."
+    "Но потом я передумал, подумав, что не стоит давить на неё и заставлять говорить, когда она уже сменила тему."
 
 # ch/ayesha/date.rpy:484
 translate russian ayesha_date_livingroom_male_59cdb08a:
@@ -3102,7 +3102,7 @@ translate russian ayesha_date_livingroom_male_59cdb08a:
 
 # ch/ayesha/date.rpy:485
 translate russian ayesha_date_livingroom_male_14184b84:
-    mike.say "Ну, о чем мы говорили?"
+    mike.say "Ну, о чём мы говорили?"
 
 # ch/ayesha/date.rpy:488
 translate russian ayesha_date_livingroom_male_cbbd9458:
@@ -3126,7 +3126,7 @@ translate russian ayesha_date_livingroom_male_baebb96f:
 
 # ch/ayesha/date.rpy:498
 translate russian ayesha_date_livingroom_male_15e6e852:
-    "И я совсем не удивляюсь, увидев [bree.name] и Сашу, выглядывающих из дверного проема."
+    "И я совсем не удивляюсь, увидев [bree.name] и Сашу, выглядывающих из дверного проёма."
 
 # ch/ayesha/date.rpy:499
 translate russian ayesha_date_livingroom_male_fdbe0c74:
@@ -3146,7 +3146,7 @@ translate russian ayesha_date_livingroom_male_936494a2:
 
 # ch/ayesha/date.rpy:503
 translate russian ayesha_date_livingroom_male_e823d545:
-    sasha.say "Если я правильно помню, мы сказали, что уйдем, когда она будет ЗДЕСЬ."
+    sasha.say "Если я правильно помню, мы сказали, что уйдём, когда она будет ЗДЕСЬ."
 
 # ch/ayesha/date.rpy:504
 translate russian ayesha_date_livingroom_male_2784c9de:
@@ -3178,7 +3178,7 @@ translate russian ayesha_date_livingroom_male_a9f4b071:
 
 # ch/ayesha/date.rpy:514
 translate russian ayesha_date_livingroom_male_db2e43bb:
-    "Когда Майк произнес слово \"соседки\", [bree.name] и Саша разразились смехом."
+    "Когда Майк произнёс слово «соседки», [bree.name] и Саша разразились смехом."
 
 # ch/ayesha/date.rpy:517
 translate russian ayesha_date_livingroom_male_54ea8bd4:
@@ -3274,7 +3274,7 @@ translate russian ayesha_date_livingroom_male_6d9ee67c:
 
 # ch/ayesha/date.rpy:552
 translate russian ayesha_date_livingroom_male_06062714:
-    "Все, что я могу сделать, это кивнуть, гадая, означает ли это, что Айша присоединится к [bree.name], Саше и мне в ближайшем будущем."
+    "Всё, что я могу сделать, это кивнуть, гадая, означает ли это, что Айша присоединится к [bree.name], Саше и мне в ближайшем будущем."
 
 # ch/ayesha/date.rpy:554
 translate russian ayesha_date_livingroom_male_d195b002_1:
@@ -3286,7 +3286,7 @@ translate russian ayesha_date_livingroom_male_bc82d185:
 
 # ch/ayesha/date.rpy:556
 translate russian ayesha_date_livingroom_male_ccff5ab5:
-    "Айша смеется над моим очевидным раздражением и игриво хлопает меня по плечу."
+    "Айша смеётся над моим очевидным раздражением и игриво хлопает меня по плечу."
 
 # ch/ayesha/date.rpy:558
 translate russian ayesha_date_livingroom_male_f58e0964:
@@ -3350,7 +3350,7 @@ translate russian ayesha_date_livingroom_male_6203e65b:
 
 # ch/ayesha/date.rpy:578
 translate russian ayesha_date_livingroom_male_f599678f:
-    mike.say "Просто будь ко мне добрее, и тебе не придется столкнуться с гневом моих сестер!"
+    mike.say "Просто будь ко мне добрее, и тебе не придётся столкнуться с гневом моих сестер!"
 
 # ch/ayesha/date.rpy:580
 translate russian ayesha_date_livingroom_male_e3c9187a:
@@ -3362,7 +3362,7 @@ translate russian ayesha_date_livingroom_male_2751b905:
 
 # ch/ayesha/date.rpy:582
 translate russian ayesha_date_livingroom_male_6f852954:
-    "Сначала мы просто сидим рядом друг с другом, и наши бедра – это почти единственное, к чему прикасаемся."
+    "Сначала мы просто сидим рядом друг с другом, и наши бедра — это почти единственное, к чему прикасаемся."
 
 # ch/ayesha/date.rpy:583
 translate russian ayesha_date_livingroom_male_8b8b6402:
@@ -3394,11 +3394,11 @@ translate russian ayesha_date_livingroom_male_964fe270:
 
 # ch/ayesha/date.rpy:592
 translate russian ayesha_date_livingroom_male_d7327734:
-    "Я чувствую, как чьи-то руки хватают меня за голову, поворачивая ее."
+    "Я чувствую, как чьи-то руки хватают меня за голову, поворачивая её."
 
 # ch/ayesha/date.rpy:593
 translate russian ayesha_date_livingroom_male_3fca127e:
-    "Прежде чем я успеваю понять, что происходит, я оказываюсь лицом к лицу с Аишей."
+    "Прежде чем я успеваю понять, что происходит, я оказываюсь лицом к лицу с Айшей."
 
 # ch/ayesha/date.rpy:594
 translate russian ayesha_date_livingroom_male_4c6022e0:
@@ -3410,7 +3410,7 @@ translate russian ayesha_date_livingroom_male_d629d6e3:
 
 # ch/ayesha/date.rpy:599
 translate russian ayesha_date_livingroom_male_d8930d0a:
-    "Сначала я напрягаюсь, что означает, что Аише приходится почти насильно проталкивать свой язык между моими губами."
+    "Сначала я напрягаюсь, что означает, что Айше приходится почти насильно проталкивать свой язык между моими губами."
 
 # ch/ayesha/date.rpy:600
 translate russian ayesha_date_livingroom_male_03579fa2:
@@ -3426,7 +3426,7 @@ translate russian ayesha_date_livingroom_male_2a1e5d34:
 
 # ch/ayesha/date.rpy:604
 translate russian ayesha_date_livingroom_male_c33f081b:
-    "\"Сейчас или никогда\", – говорю я себе, поворачиваясь лицом к Айше."
+    "«Сейчас или никогда», — говорю я себе, поворачиваясь лицом к Айше."
 
 # ch/ayesha/date.rpy:605
 translate russian ayesha_date_livingroom_male_d6087827:
@@ -3434,11 +3434,11 @@ translate russian ayesha_date_livingroom_male_d6087827:
 
 # ch/ayesha/date.rpy:606
 translate russian ayesha_date_livingroom_male_e36702d4:
-    "И не дожидаясь разрешения, я обхватываю ее щеки руками."
+    "И не дожидаясь разрешения, я обхватываю её щеки руками."
 
 # ch/ayesha/date.rpy:609
 translate russian ayesha_date_livingroom_male_52154e7e:
-    "Затем я целую ее, страстно и полно, отдавая все свои чувства."
+    "Затем я целую её, страстно и полно, отдавая все свои чувства."
 
 # ch/ayesha/date.rpy:610
 translate russian ayesha_date_livingroom_male_ddd389d9:
@@ -3446,11 +3446,11 @@ translate russian ayesha_date_livingroom_male_ddd389d9:
 
 # ch/ayesha/date.rpy:613
 translate russian ayesha_date_livingroom_male_3bc8b497:
-    "Айша остается в том же положении, в котором была, когда я ее поцеловал."
+    "Айша остаётся в том же положении, в котором была, когда я её поцеловал."
 
 # ch/ayesha/date.rpy:614
 translate russian ayesha_date_livingroom_male_61a3a52b:
-    "Она смотрит на меня, ее глаза, кажется, все еще где-то далеко, пока они не фокусируются на мне."
+    "Она смотрит на меня, её глаза, кажется, всё ещё где-то далеко, пока они не фокусируются на мне."
 
 # ch/ayesha/date.rpy:615
 translate russian ayesha_date_livingroom_male_94800173:
@@ -3462,7 +3462,7 @@ translate russian ayesha_date_livingroom_male_5ab8903a:
 
 # ch/ayesha/date.rpy:617
 translate russian ayesha_date_livingroom_male_aa8afad2:
-    "Ее слова и выражение лица означают, что мне не нужно объяснять дважды."
+    "Её слова и выражение лица означают, что мне не нужно объяснять дважды."
 
 # ch/ayesha/date.rpy:620
 translate russian ayesha_date_livingroom_male_e6a6c619:
@@ -3470,7 +3470,7 @@ translate russian ayesha_date_livingroom_male_e6a6c619:
 
 # ch/ayesha/date.rpy:621
 translate russian ayesha_date_livingroom_male_4cccdc62:
-    "Но на этот раз Айша тоже играет свою роль, и поэтому это становится еще более приятным."
+    "Но на этот раз Айша тоже играет свою роль, и поэтому это становится ещё более приятным."
 
 # ch/ayesha/date.rpy:624
 translate russian ayesha_date_livingroom_male_720becd3:
@@ -3478,15 +3478,15 @@ translate russian ayesha_date_livingroom_male_720becd3:
 
 # ch/ayesha/date.rpy:625
 translate russian ayesha_date_livingroom_male_60aaf91b:
-    "Аиша и я превращаемся в клубок переплетенных конечностей и вздымающихся частей тела на диване."
+    "Айша и я превращаемся в клубок переплетённых конечностей и вздымающихся частей тела на диване."
 
 # ch/ayesha/date.rpy:626
 translate russian ayesha_date_livingroom_male_96dd5078:
-    "Я забываю обо всем на свете, кроме девушки, которая находится у меня на руках."
+    "Я забываю обо всём на свете, кроме девушки, которая находится у меня на руках."
 
 # ch/ayesha/date.rpy:627
 translate russian ayesha_date_livingroom_male_3329beba:
-    "Я хочу почувствовать каждый сантиметр тела Аиши, своими руками и губами."
+    "Я хочу почувствовать каждый сантиметр тела Айши, своими руками и губами."
 
 # ch/ayesha/date.rpy:628
 translate russian ayesha_date_livingroom_male_8845f7bd:
@@ -3494,11 +3494,11 @@ translate russian ayesha_date_livingroom_male_8845f7bd:
 
 # ch/ayesha/date.rpy:629
 translate russian ayesha_date_livingroom_male_9fe1d938:
-    "Мышцы Аиши не делают ее такой твердой, как камень, а скорее гибкой, как у большой кошки."
+    "Мышцы Айши не делают её такой твёрдой, как камень, а скорее гибкой, как у большой кошки."
 
 # ch/ayesha/date.rpy:630
 translate russian ayesha_date_livingroom_male_1a34441c:
-    "И все, о чем я могу думать, это то, что я так сильно хочу, чтобы этот хищник поймал меня..."
+    "И все, о чём я могу думать, это то, что я так сильно хочу, чтобы этот хищник поймал меня..."
 
 # ch/ayesha/date.rpy:631
 translate russian ayesha_date_livingroom_male_c8586729:
@@ -3506,7 +3506,7 @@ translate russian ayesha_date_livingroom_male_c8586729:
 
 # ch/ayesha/date.rpy:632
 translate russian ayesha_date_livingroom_male_fded6382:
-    "Единственное, чего я хочу, – это как можно скорее познакомить Аишу с этим."
+    "Единственное, чего я хочу, — это как можно скорее познакомить Айшу с этим."
 
 # ch/ayesha/date.rpy:633
 translate russian ayesha_date_livingroom_male_0ae7640d:
@@ -3514,11 +3514,11 @@ translate russian ayesha_date_livingroom_male_0ae7640d:
 
 # ch/ayesha/date.rpy:634
 translate russian ayesha_date_livingroom_male_f567f5fd:
-    "По какой-то причине мы с Аишей отстраняемся друг от друга, как виноватые подростки, пойманные на месте преступления."
+    "По какой-то причине мы с Айшей отстраняемся друг от друга, как виноватые подростки, пойманные на месте преступления."
 
 # ch/ayesha/date.rpy:635
 translate russian ayesha_date_livingroom_male_eb3b2035:
-    "Я могу только предположить, что она была так же увлечена этим, как и я, и ее мысли тоже блуждали в том же направлении."
+    "Я могу только предположить, что она была так же увлечена этим, как и я, и её мысли тоже блуждали в том же направлении."
 
 # ch/ayesha/date.rpy:636
 translate russian ayesha_date_livingroom_male_bcae88ec:
@@ -3538,15 +3538,15 @@ translate russian ayesha_date_livingroom_male_47a7314f:
 
 # ch/ayesha/date.rpy:641
 translate russian ayesha_date_livingroom_male_c82ec82f:
-    mike.say "Хорошо, Аиша."
+    mike.say "Хорошо, Айша."
 
 # ch/ayesha/date.rpy:642
 translate russian ayesha_date_livingroom_male_2efda1e2:
-    mike.say "Если ты так считаешь…"
+    mike.say "Если ты так считаешь..."
 
 # ch/ayesha/date.rpy:645
 translate russian ayesha_date_livingroom_male_dca31933:
-    "Когда я провожу Айшу до двери, нам все еще кажется, что мы ведем себя как застенчивые подростки, порабощенные своими желаниями."
+    "Когда я провожу Айшу до двери, нам всё ещё кажется, что мы ведём себя как застенчивые подростки, порабощенные своими желаниями."
 
 # ch/ayesha/date.rpy:646
 translate russian ayesha_date_livingroom_male_6ff65388:
@@ -3574,11 +3574,11 @@ translate russian ayesha_date_livingroom_male_feda22e2:
 
 # ch/ayesha/date.rpy:653
 translate russian ayesha_date_livingroom_male_580cb7be:
-    mike.say "Ты всегда можешь… остаться… со мной."
+    mike.say "Ты всегда можешь... остаться... со мной."
 
 # ch/ayesha/date.rpy:654
 translate russian ayesha_date_livingroom_male_e183c78c:
-    "Она улыбается этому, но все равно качает головой."
+    "Она улыбается этому, но всё равно качает головой."
 
 # ch/ayesha/date.rpy:655
 translate russian ayesha_date_livingroom_male_6377b661:
@@ -3590,19 +3590,19 @@ translate russian ayesha_date_livingroom_male_03dd0b31:
 
 # ch/ayesha/date.rpy:657
 translate russian ayesha_date_livingroom_male_dfbe7523:
-    mike.say "Да, Айша… да."
+    mike.say "Да, Айша... да."
 
 # ch/ayesha/date.rpy:659
 translate russian ayesha_date_livingroom_male_39d7dd00:
-    "Айша поворачивается и идет к улице, останавливаясь помахать рукой, прежде чем отправиться своей дорогой."
+    "Айша поворачивается и идёт к улице, останавливаясь помахать рукой, прежде чем отправиться своей дорогой."
 
 # ch/ayesha/date.rpy:660
 translate russian ayesha_date_livingroom_male_dd1ca3eb:
-    "Я стою в дверях и смотрю, как она уходит, пока не потеряю ее из виду."
+    "Я стою в дверях и смотрю, как она уходит, пока не потеряю её из виду."
 
 # ch/ayesha/date.rpy:661
 translate russian ayesha_date_livingroom_male_dd426354:
-    "Но мой разум уже представляет себе возможности, если она сдержит свое обещание…"
+    "Но мой разум уже представляет себе возможности, если она сдержит своё обещание..."
 
 # ch/ayesha/date.rpy:671
 translate russian ayesha_date_livingroom_male_2fa238d3:
@@ -3634,7 +3634,7 @@ translate russian ayesha_date_nightclub_male_e5cdcd89:
 
 # ch/ayesha/date.rpy:686
 translate russian ayesha_date_nightclub_male_bad711e6:
-    "Судя по ее реакции на это предложение, можно было подумать, что она никогда раньше не была в ночном клубе."
+    "Судя по её реакции на это предложение, можно было подумать, что она никогда раньше не была в ночном клубе."
 
 # ch/ayesha/date.rpy:687
 translate russian ayesha_date_nightclub_male_8de96673:
@@ -3662,7 +3662,7 @@ translate russian ayesha_date_nightclub_male_a8861c7c:
 
 # ch/ayesha/date.rpy:694
 translate russian ayesha_date_nightclub_male_e2fa9361:
-    "Благодаря своему росту, который выше большинства, у нее хороший обзор на них."
+    "Благодаря своему росту, который выше большинства, у неё хороший обзор на них."
 
 # ch/ayesha/date.rpy:695
 translate russian ayesha_date_nightclub_male_3480c0f5:
@@ -3678,7 +3678,7 @@ translate russian ayesha_date_nightclub_male_1bf6245e:
 
 # ch/ayesha/date.rpy:699
 translate russian ayesha_date_nightclub_male_b9f7555b:
-    "Я невольно качаю головой, пока мы движемся вперед вместе с остальной частью очереди."
+    "Я невольно качаю головой, пока мы движемся вперёд вместе с остальной частью очереди."
 
 # ch/ayesha/date.rpy:700
 translate russian ayesha_date_nightclub_male_1a447954:
@@ -3686,7 +3686,7 @@ translate russian ayesha_date_nightclub_male_1a447954:
 
 # ch/ayesha/date.rpy:701
 translate russian ayesha_date_nightclub_male_0b5a18de:
-    mike.say "Тебя все время осматривают, когда ты находишься на ринге."
+    mike.say "Тебя всё время осматривают, когда ты находишься на ринге."
 
 # ch/ayesha/date.rpy:702
 translate russian ayesha_date_nightclub_male_d4289aa1:
@@ -3714,15 +3714,15 @@ translate russian ayesha_date_nightclub_male_f6007886:
 
 # ch/ayesha/date.rpy:709
 translate russian ayesha_date_nightclub_male_7c15ccb5:
-    "Айша улыбается мне, и эта улыбка слабая, но она все равно заставляет мое сердце немного трепетать."
+    "Айша улыбается мне, и эта улыбка слабая, но она всё равно заставляет моё сердце немного трепетать."
 
 # ch/ayesha/date.rpy:710
 translate russian ayesha_date_nightclub_male_a9453a5f:
-    mike.say "И не волнуйся ни о чем."
+    mike.say "И не волнуйся ни о чём."
 
 # ch/ayesha/date.rpy:711
 translate russian ayesha_date_nightclub_male_685ab9d9:
-    mike.say "Я буду с тобой все время."
+    mike.say "Я буду с тобой всё время."
 
 # ch/ayesha/date.rpy:712
 translate russian ayesha_date_nightclub_male_f2540222:
@@ -3742,11 +3742,11 @@ translate russian ayesha_date_nightclub_male_2c6b8f02:
 
 # ch/ayesha/date.rpy:716
 translate russian ayesha_date_nightclub_male_4f090712:
-    "И еще более странно то, что это совершенно меня не отталкивает."
+    "И ещё более странно то, что это совершенно меня не отталкивает."
 
 # ch/ayesha/date.rpy:717
 translate russian ayesha_date_nightclub_male_67b655c5:
-    "Наоборот, это делает ее еще более привлекательной, а меня – еще более решительным защищать ее."
+    "Наоборот, это делает её ещё более привлекательной, а меня — ещё более решительным защищать её."
 
 # ch/ayesha/date.rpy:718
 translate russian ayesha_date_nightclub_male_88e822f4:
@@ -3762,11 +3762,11 @@ translate russian ayesha_date_nightclub_male_b185e653:
 
 # ch/ayesha/date.rpy:721
 translate russian ayesha_date_nightclub_male_2d08d1e4:
-    "Пока мы ждем, когда нас обслужат, я думаю о том, чтобы пошутить о преимуществах того, что она такая высокая."
+    "Пока мы ждём, когда нас обслужат, я думаю о том, чтобы пошутить о преимуществах того, что она такая высокая."
 
 # ch/ayesha/date.rpy:722
 translate russian ayesha_date_nightclub_male_45b150e9:
-    "Ну, сказать что-то вскользь о том, что ее можно использовать как ориентир, чтобы ориентироваться в толпе."
+    "Ну, сказать что-то вскользь о том, что её можно использовать как ориентир, чтобы ориентироваться в толпе."
 
 # ch/ayesha/date.rpy:723
 translate russian ayesha_date_nightclub_male_9345ff9b:
@@ -3778,7 +3778,7 @@ translate russian ayesha_date_nightclub_male_26480fd8:
 
 # ch/ayesha/date.rpy:725
 translate russian ayesha_date_nightclub_male_e66a8b34:
-    "Последнее, что ей нужно, это чтобы ее собственный спутник над ней смеялся."
+    "Последнее, что ей нужно, это чтобы её собственный спутник над ней смеялся."
 
 # ch/ayesha/date.rpy:726
 translate russian ayesha_date_nightclub_male_437e80be:
@@ -3794,11 +3794,11 @@ translate russian ayesha_date_nightclub_male_12582f4c:
 
 # ch/ayesha/date.rpy:729
 translate russian ayesha_date_nightclub_male_fa470c3d:
-    mike.say "Пойдем и займем это место, хорошо?"
+    mike.say "Пойдём и займём это место, хорошо?"
 
 # ch/ayesha/date.rpy:730
 translate russian ayesha_date_nightclub_male_cae4d2f7:
-    "Я вижу, как Айша открывает рот, и готовлюсь к тому, что она скажет \"нет\"."
+    "Я вижу, как Айша открывает рот, и готовлюсь к тому, что она скажет «нет»."
 
 # ch/ayesha/date.rpy:731
 translate russian ayesha_date_nightclub_male_1e7d532e:
@@ -3818,15 +3818,15 @@ translate russian ayesha_date_nightclub_male_71929118:
 
 # ch/ayesha/date.rpy:735
 translate russian ayesha_date_nightclub_male_518fd971:
-    "И вот, снова взяв Айшу за руку, я провожу ее в то место, которое заметил мгновение назад."
+    "И вот, снова взяв Айшу за руку, я провожу её в то место, которое заметил мгновение назад."
 
 # ch/ayesha/date.rpy:736
 translate russian ayesha_date_nightclub_male_337db73d:
-    "Даже когда мы оказываемся там и начинаем двигаться в такт музыке, Айша все еще выглядит нервной."
+    "Даже когда мы оказываемся там и начинаем двигаться в такт музыке, Айша всё ещё выглядит нервной."
 
 # ch/ayesha/date.rpy:739
 translate russian ayesha_date_nightclub_male_d80b48ab:
-    "Я стараюсь изо всех сил успокоить ее, следя за тем, чтобы она смотрела только на меня."
+    "Я стараюсь изо всех сил успокоить её, следя за тем, чтобы она смотрела только на меня."
 
 # ch/ayesha/date.rpy:740
 translate russian ayesha_date_nightclub_male_372c76e7:
@@ -3834,7 +3834,7 @@ translate russian ayesha_date_nightclub_male_372c76e7:
 
 # ch/ayesha/date.rpy:741
 translate russian ayesha_date_nightclub_male_cef8cc39:
-    "Ее взгляд постоянно переключается на людей, танцующих по обе стороны от нас, словно ей мешает их присутствие."
+    "Её взгляд постоянно переключается на людей, танцующих по обе стороны от нас, словно ей мешает их присутствие."
 
 # ch/ayesha/date.rpy:742
 translate russian ayesha_date_nightclub_male_07ae1018:
@@ -3842,7 +3842,7 @@ translate russian ayesha_date_nightclub_male_07ae1018:
 
 # ch/ayesha/date.rpy:743
 translate russian ayesha_date_nightclub_male_183865a3:
-    "Только тогда я внимательнее присматриваюсь к этим \"нарушителям\" и впервые замечаю кое-что."
+    "Только тогда я внимательнее присматриваюсь к этим «нарушителям» и впервые замечаю кое-что."
 
 # ch/ayesha/date.rpy:744
 translate russian ayesha_date_nightclub_male_942aeaf4:
@@ -3862,7 +3862,7 @@ translate russian ayesha_date_nightclub_male_445ec186:
 
 # ch/ayesha/date.rpy:748
 translate russian ayesha_date_nightclub_male_3ec94a2e:
-    "Но они определенно заставляют ее чувствовать себя очень некомфортно..."
+    "Но они определённо заставляют её чувствовать себя очень некомфортно..."
 
 # ch/ayesha/date.rpy:751
 translate russian ayesha_date_nightclub_male_da3849d0:
@@ -3874,11 +3874,11 @@ translate russian ayesha_date_nightclub_male_a41a40c6:
 
 # ch/ayesha/date.rpy:753
 translate russian ayesha_date_nightclub_male_162f1c2b:
-    "Может быть, лучший способ для нее преодолеть свои страхи – это столкнуться с ними?"
+    "Может быть, лучший способ для неё преодолеть свои страхи — это столкнуться с ними?"
 
 # ch/ayesha/date.rpy:754
 translate russian ayesha_date_nightclub_male_d34ebf01:
-    "Или же... чтобы ее заставили столкнуться с ними..."
+    "Или же... чтобы её заставили столкнуться с ними..."
 
 # ch/ayesha/date.rpy:755
 translate russian ayesha_date_nightclub_male_eaa68d10:
@@ -3894,7 +3894,7 @@ translate russian ayesha_date_nightclub_male_d56a6578:
 
 # ch/ayesha/date.rpy:758
 translate russian ayesha_date_nightclub_male_1e4bab01:
-    "Аиша видит, что я делаю."
+    "Айша видит, что я делаю."
 
 # ch/ayesha/date.rpy:759
 translate russian ayesha_date_nightclub_male_cca8bc23:
@@ -3910,7 +3910,7 @@ translate russian ayesha_date_nightclub_male_313ec208:
 
 # ch/ayesha/date.rpy:762
 translate russian ayesha_date_nightclub_male_48fb2fe5:
-    "Теперь моя очередь взять Аишу за запястья, осторожно втягивая ее в образовавшееся вокруг нас круглое пространство."
+    "Теперь моя очередь взять Айшу за запястья, осторожно втягивая её в образовавшееся вокруг нас круглое пространство."
 
 # ch/ayesha/date.rpy:763
 translate russian ayesha_date_nightclub_male_dfdfc5c8:
@@ -3922,11 +3922,11 @@ translate russian ayesha_date_nightclub_male_cceb1bf7:
 
 # ch/ayesha/date.rpy:765
 translate russian ayesha_date_nightclub_male_919a69f5:
-    "Аиша повторяет за мной, двигаясь в унисон с окружающими ее людьми."
+    "Айша повторяет за мной, двигаясь в унисон с окружающими её людьми."
 
 # ch/ayesha/date.rpy:766
 translate russian ayesha_date_nightclub_male_324a9f86:
-    "Но все это время я вижу на ее лице слегка болезненную улыбку."
+    "Но все это время я вижу на её лице слегка болезненную улыбку."
 
 # ch/ayesha/date.rpy:767
 translate russian ayesha_date_nightclub_male_19749ca2:
@@ -3934,19 +3934,19 @@ translate russian ayesha_date_nightclub_male_19749ca2:
 
 # ch/ayesha/date.rpy:768
 translate russian ayesha_date_nightclub_male_28d6bdad:
-    "И именно в этот момент Аиша использует шанс, чтобы сбежать."
+    "И именно в этот момент Айша использует шанс, чтобы сбежать."
 
 # ch/ayesha/date.rpy:769
 translate russian ayesha_date_nightclub_male_fa18c9fb:
-    "Я оказываюсь почти вытащенным с танцпола, ее хватка на моем запястье как железная."
+    "Я оказываюсь почти вытащенным с танцпола, её хватка на моём запястье как железная."
 
 # ch/ayesha/date.rpy:772
 translate russian ayesha_date_nightclub_male_d9c05864:
-    "Мне требуется несколько мгновений, но в конце концов мне удается заставить ее замедлиться и остановиться."
+    "Мне требуется несколько мгновений, но в конце концов мне удаётся заставить её замедлиться и остановиться."
 
 # ch/ayesha/date.rpy:773
 translate russian ayesha_date_nightclub_male_ebb9a192:
-    mike.say "Аиша... привет, Аиша!"
+    mike.say "Айша... привет, Айша!"
 
 # ch/ayesha/date.rpy:774
 translate russian ayesha_date_nightclub_male_c633af0c:
@@ -3974,7 +3974,7 @@ translate russian ayesha_date_nightclub_male_cf430905:
 
 # ch/ayesha/date.rpy:783
 translate russian ayesha_date_nightclub_male_ff4d6c39:
-    "Для нее уже было большим достижением просто прийти сюда!"
+    "Для неё уже было большим достижением просто прийти сюда!"
 
 # ch/ayesha/date.rpy:784
 translate russian ayesha_date_nightclub_male_0c28c352:
@@ -3986,11 +3986,11 @@ translate russian ayesha_date_nightclub_male_29174e72:
 
 # ch/ayesha/date.rpy:786
 translate russian ayesha_date_nightclub_male_54334658:
-    "Даже когда новые люди приближаются к нам, я двигаюсь, чтобы уменьшить расстояние между Аишей и мной."
+    "Даже когда новые люди приближаются к нам, я двигаюсь, чтобы уменьшить расстояние между Айшей и мной."
 
 # ch/ayesha/date.rpy:787
 translate russian ayesha_date_nightclub_male_343ddfb8:
-    "Неожиданно для нее, я обхватил ее ягодицы руками и прижал к себе."
+    "Неожиданно для неё, я обхватил её ягодицы руками и прижал к себе."
 
 # ch/ayesha/date.rpy:788
 translate russian ayesha_date_nightclub_male_d31dcbdb:
@@ -3998,19 +3998,19 @@ translate russian ayesha_date_nightclub_male_d31dcbdb:
 
 # ch/ayesha/date.rpy:789
 translate russian ayesha_date_nightclub_male_b5cc047f:
-    "Я поворачиваюсь спиной к тем, кто пытается вмешаться, подчеркивая, что им здесь не рады."
+    "Я поворачиваюсь спиной к тем, кто пытается вмешаться, подчёркивая, что им здесь не рады."
 
 # ch/ayesha/date.rpy:790
 translate russian ayesha_date_nightclub_male_ae40d553:
-    "И только тогда я начинаю чувствовать, как Аиша прижата ко мне."
+    "И только тогда я начинаю чувствовать, как Айша прижата ко мне."
 
 # ch/ayesha/date.rpy:791
 translate russian ayesha_date_nightclub_male_d04f93b5:
-    "Ее тело – это удивительное сочетание упругости и мягкости в моих объятиях."
+    "Её тело — это удивительное сочетание упругости и мягкости в моих объятиях."
 
 # ch/ayesha/date.rpy:792
 translate russian ayesha_date_nightclub_male_17fd2222:
-    "Ее дыхание каким-то образом громче в моем ухе, чем музыка, которая заполняет клуб."
+    "Её дыхание каким-то образом громче в моём ухе, чем музыка, которая заполняет клуб."
 
 # ch/ayesha/date.rpy:793
 translate russian ayesha_date_nightclub_male_fdee56dc:
@@ -4050,7 +4050,7 @@ translate russian ayesha_date_nightclub_male_e54c3d0f:
 
 # ch/ayesha/date.rpy:807
 translate russian ayesha_date_nightclub_male_d4ae5f07:
-    "Но теперь, зная причину ее такой тесной привязанности ко мне, я тоже хочу, чтобы это продолжалось."
+    "Но теперь, зная причину её такой тесной привязанности ко мне, я тоже хочу, чтобы это продолжалось."
 
 # ch/ayesha/date.rpy:808
 translate russian ayesha_date_nightclub_male_2fadd2fe:
@@ -4058,15 +4058,15 @@ translate russian ayesha_date_nightclub_male_2fadd2fe:
 
 # ch/ayesha/date.rpy:809
 translate russian ayesha_date_nightclub_male_4ca8e6a7:
-    "В этот раз все идет как надо, мы оба понимаем друг друга."
+    "В этот раз все идёт как надо, мы оба понимаем друг друга."
 
 # ch/ayesha/date.rpy:810
 translate russian ayesha_date_nightclub_male_cc4b1c44:
-    "И с каждой секундой я все больше наслаждаюсь ощущениями от того, что так близко к Айше."
+    "И с каждой секундой я всё больше наслаждаюсь ощущениями от того, что так близко к Айше."
 
 # ch/ayesha/date.rpy:811
 translate russian ayesha_date_nightclub_male_ba733ceb:
-    "Когда песня заканчивается, она остается прижатой ко мне, словно не желая отпускать."
+    "Когда песня заканчивается, она остаётся прижатой ко мне, словно не желая отпускать."
 
 # ch/ayesha/date.rpy:813
 translate russian ayesha_date_nightclub_male_4bca6e73:
@@ -4090,11 +4090,11 @@ translate russian ayesha_date_nightclub_male_24166be3:
 
 # ch/ayesha/date.rpy:826
 translate russian ayesha_date_nightclub_male_fcbe726a:
-    "Мы идем в ночной клуб."
+    "Мы идём в ночной клуб."
 
 # ch/ayesha/date.rpy:831
 translate russian ayesha_date_eat_a_burger_ef85c040:
-    "Айша берет свой бургер, но затем останавливается, поняв, что я на нее смотрю."
+    "Айша берет свой бургер, но затем останавливается, поняв, что я на неё смотрю."
 
 # ch/ayesha/date.rpy:832
 translate russian ayesha_date_eat_a_burger_6d4cc517:
@@ -4110,7 +4110,7 @@ translate russian ayesha_date_buy_drink_6770cbd7:
 
 # ch/ayesha/date.rpy:841
 translate russian ayesha_date_buy_drink_82b48019:
-    ayesha.say "Когда я буду беременна твоим ребенком?!"
+    ayesha.say "Когда я буду беременна твоим ребёнком?!"
 
 # ch/ayesha/date.rpy:842
 translate russian ayesha_date_buy_drink_ed27f3b0:
@@ -4130,19 +4130,19 @@ translate russian ayesha_date_buy_drink_365a737b:
 
 # ch/ayesha/date.rpy:852
 translate russian ayesha_date_play_darts_31d54b53:
-    "Айша пожимает плечами в ответ на приглашение поиграть в дартс, но все равно соглашается."
+    "Айша пожимает плечами в ответ на приглашение поиграть в дартс, но всё равно соглашается."
 
 # ch/ayesha/date.rpy:853
 translate russian ayesha_date_play_darts_a7b2013d:
-    "Ей удается попасть в мишень почти всеми бросками."
+    "Ей удаётся попасть в мишень почти всеми бросками."
 
 # ch/ayesha/date.rpy:854
 translate russian ayesha_date_play_darts_8808a977:
-    "Но у меня складывается четкое впечатление, что это не совсем ее игра..."
+    "Но у меня складывается четкое впечатление, что это не совсем её игра..."
 
 # ch/ayesha/date.rpy:858
 translate russian ayesha_date_pub_play_pool_a2b1689c:
-    "Айша берет кий для бильярда с легкой улыбкой, ловко насыпая мела на кончик."
+    "Айша берет кий для бильярда с лёгкой улыбкой, ловко насыпая мела на кончик."
 
 # ch/ayesha/date.rpy:859
 translate russian ayesha_date_pub_play_pool_847474ac:
@@ -4150,7 +4150,7 @@ translate russian ayesha_date_pub_play_pool_847474ac:
 
 # ch/ayesha/date.rpy:860
 translate russian ayesha_date_pub_play_pool_0ee878d6:
-    "Затем Айша начинает легко и непринужденно обыгрывать меня."
+    "Затем Айша начинает легко и непринуждённо обыгрывать меня."
 
 # ch/ayesha/date.rpy:867
 translate russian ayesha_date_buy_a_round_6770cbd7:
@@ -4158,7 +4158,7 @@ translate russian ayesha_date_buy_a_round_6770cbd7:
 
 # ch/ayesha/date.rpy:868
 translate russian ayesha_date_buy_a_round_82b48019:
-    ayesha.say "Когда я буду беременна твоим ребенком?!"
+    ayesha.say "Когда я буду беременна твоим ребёнком?!"
 
 # ch/ayesha/date.rpy:869
 translate russian ayesha_date_buy_a_round_ed27f3b0:
@@ -4182,11 +4182,11 @@ translate russian ayesha_date_buy_a_round_fb20fd2c:
 
 # ch/ayesha/date.rpy:883
 translate russian ayesha_date_buy_a_round_7ba9b6e9:
-    "Но похоже, Аише совсем не хочется пить, поэтому я воздерживаюсь."
+    "Но похоже, Айше совсем не хочется пить, поэтому я воздерживаюсь."
 
 # ch/ayesha/date.rpy:888
 translate russian ayesha_dance_with_7e11c195:
-    "Мне приходится очень постараться, чтобы затащить Аишу на танцпол со мной."
+    "Мне приходится очень постараться, чтобы затащить Айшу на танцпол со мной."
 
 # ch/ayesha/date.rpy:889
 translate russian ayesha_dance_with_42440c5e:
@@ -4198,7 +4198,7 @@ translate russian ayesha_dance_with_43a49139:
 
 # ch/ayesha/date.rpy:891
 translate russian ayesha_dance_with_d7b3e8c9:
-    "Аиша всё время прижимается ко мне, словно боится отпустить меня даже на секунду."
+    "Айша всё время прижимается ко мне, словно боится отпустить меня даже на секунду."
 
 # ch/ayesha/date.rpy:895
 translate russian ayesha_date_play_arcade_intro_male_3c8c24d2:
@@ -4214,7 +4214,7 @@ translate russian ayesha_date_play_arcade_intro_male_f53edbf7:
 
 # ch/ayesha/date.rpy:898
 translate russian ayesha_date_play_arcade_intro_male_8a190d74:
-    "Не могу отвести глаз от Аиши, как будто она собака, которой показали фокус с картами."
+    "Не могу отвести глаз от Айши, как будто она собака, которой показали фокус с картами."
 
 # ch/ayesha/date.rpy:899
 translate russian ayesha_date_play_arcade_intro_male_2ef1d337:
@@ -4226,7 +4226,7 @@ translate russian ayesha_date_play_arcade_intro_male_f0576ea8:
 
 # ch/ayesha/date.rpy:901
 translate russian ayesha_date_play_arcade_intro_male_85451378:
-    mike.say "Ты не можешь быть серьезной, Айша!"
+    mike.say "Ты не можешь быть серьёзной, Айша!"
 
 # ch/ayesha/date.rpy:902
 translate russian ayesha_date_play_arcade_intro_male_e89e4a22:
@@ -4238,7 +4238,7 @@ translate russian ayesha_date_play_arcade_intro_male_0766d58d:
 
 # ch/ayesha/date.rpy:904
 translate russian ayesha_date_play_arcade_intro_male_8c1ec04a:
-    "Айша выглядит немного смущенной, когда я задаю ей этот вопрос."
+    "Айша выглядит немного смущённой, когда я задаю ей этот вопрос."
 
 # ch/ayesha/date.rpy:905
 translate russian ayesha_date_play_arcade_intro_male_f69aa843:
@@ -4274,11 +4274,11 @@ translate russian ayesha_date_play_arcade_intro_male_10faef09:
 
 # ch/ayesha/date.rpy:913
 translate russian ayesha_date_play_arcade_intro_male_343b3abb:
-    "Сначала Айша совсем не выглядит убежденной."
+    "Сначала Айша совсем не выглядит убеждённой."
 
 # ch/ayesha/date.rpy:914
 translate russian ayesha_date_play_arcade_intro_male_a1c01a61:
-    "Но потом мне кажется, что ее уши насторожились."
+    "Но потом мне кажется, что её уши насторожились."
 
 # ch/ayesha/date.rpy:915
 translate russian ayesha_date_play_arcade_intro_male_19c7cfac:
@@ -4290,7 +4290,7 @@ translate russian ayesha_date_play_arcade_intro_male_a028a81e:
 
 # ch/ayesha/date.rpy:917
 translate russian ayesha_date_play_arcade_intro_male_d5fbfb72:
-    mike.say "Ну да, Аиша."
+    mike.say "Ну да, Айша."
 
 # ch/ayesha/date.rpy:918
 translate russian ayesha_date_play_arcade_intro_male_35dbbd27:
@@ -4298,11 +4298,11 @@ translate russian ayesha_date_play_arcade_intro_male_35dbbd27:
 
 # ch/ayesha/date.rpy:919
 translate russian ayesha_date_play_arcade_intro_male_8d8f745d:
-    "Аиша почти отталкивает меня в своем нетерпении увидеть игровой автомат."
+    "Айша почти отталкивает меня в своём нетерпении увидеть игровой автомат."
 
 # ch/ayesha/date.rpy:920
 translate russian ayesha_date_play_arcade_intro_male_24eae201:
-    ayesha.say "\"The Ultimate Amazon\", Андреа-гигант... \"Million-Dollar Lass\"!"
+    ayesha.say "«The Ultimate Amazon», Андреа-гигант... «Million-Dollar Lass»!"
 
 # ch/ayesha/date.rpy:921
 translate russian ayesha_date_play_arcade_intro_male_aabed1c6:
@@ -4322,7 +4322,7 @@ translate russian ayesha_date_play_arcade_intro_male_878d45aa:
 
 # ch/ayesha/date.rpy:928
 translate russian ayesha_date_play_arcade_win_male_f40571b9:
-    "У Аиши, кажется, столько энтузиазма, сколько только можно."
+    "У Айши, кажется, столько энтузиазма, сколько только можно."
 
 # ch/ayesha/date.rpy:929
 translate russian ayesha_date_play_arcade_win_male_1ce6ad31:
@@ -4334,7 +4334,7 @@ translate russian ayesha_date_play_arcade_win_male_530d98fa:
 
 # ch/ayesha/date.rpy:931
 translate russian ayesha_date_play_arcade_win_male_0051fe5e:
-    ayesha.say "Что за черт?"
+    ayesha.say "Что за чёрт?"
 
 # ch/ayesha/date.rpy:932
 translate russian ayesha_date_play_arcade_win_male_69d377cc:
@@ -4346,11 +4346,11 @@ translate russian ayesha_date_play_arcade_win_male_64bdb44a:
 
 # ch/ayesha/date.rpy:934
 translate russian ayesha_date_play_arcade_win_male_31579a2f:
-    "Я постоянно поглядываю в сторону Аиши, пока мы играем."
+    "Я постоянно поглядываю в сторону Айши, пока мы играем."
 
 # ch/ayesha/date.rpy:935
 translate russian ayesha_date_play_arcade_win_male_83b443c0:
-    "И я клянусь, что вижу, как на ее лбу выступают вены."
+    "И я клянусь, что вижу, как на её лбу выступают вены."
 
 # ch/ayesha/date.rpy:936
 translate russian ayesha_date_play_arcade_win_male_5013f05f:
@@ -4366,7 +4366,7 @@ translate russian ayesha_date_play_arcade_win_male_23ac7761:
 
 # ch/ayesha/date.rpy:939
 translate russian ayesha_date_play_arcade_win_male_97d8fe07:
-    mike.say "Ты выглядишь немного напряженной!"
+    mike.say "Ты выглядишь немного напряжённой!"
 
 # ch/ayesha/date.rpy:940
 translate russian ayesha_date_play_arcade_win_male_84c45f85:
@@ -4414,7 +4414,7 @@ translate russian ayesha_date_play_arcade_lose_male_d523b92a:
 
 # ch/ayesha/date.rpy:954
 translate russian ayesha_date_play_arcade_lose_male_b1b0e842:
-    "Может быть, это просто удача, или, возможно, ее опыт борьбы помогает ей."
+    "Может быть, это просто удача, или, возможно, её опыт борьбы помогает ей."
 
 # ch/ayesha/date.rpy:955
 translate russian ayesha_date_play_arcade_lose_male_92566621:
@@ -4430,15 +4430,15 @@ translate russian ayesha_date_play_arcade_lose_male_8ec2f3e3:
 
 # ch/ayesha/date.rpy:958
 translate russian ayesha_date_play_arcade_lose_male_1317ede2:
-    mike.say "Аиша, как ты это делаешь?!"
+    mike.say "Айша, как ты это делаешь?!"
 
 # ch/ayesha/date.rpy:959
 translate russian ayesha_date_play_arcade_lose_male_fb192ce8:
-    "Я постоянно поглядываю в сторону Аиши, пока мы играем."
+    "Я постоянно поглядываю в сторону Айши, пока мы играем."
 
 # ch/ayesha/date.rpy:960
 translate russian ayesha_date_play_arcade_lose_male_def2b240:
-    "И я клянусь, она все время ухмыляется мне."
+    "И я клянусь, она всё время ухмыляется мне."
 
 # ch/ayesha/date.rpy:961
 translate russian ayesha_date_play_arcade_lose_male_200625ac:
@@ -4466,7 +4466,7 @@ translate russian ayesha_date_play_arcade_lose_male_8773f309:
 
 # ch/ayesha/date.rpy:967
 translate russian ayesha_date_play_arcade_lose_male_7f828dfc:
-    "Я смотрю, как виртуальный борец Аиши нокаутирует моего."
+    "Я смотрю, как виртуальный борец Айши нокаутирует моего."
 
 # ch/ayesha/date.rpy:968
 translate russian ayesha_date_play_arcade_lose_male_f8b1292c:
@@ -4482,7 +4482,7 @@ translate russian ayesha_date_play_arcade_lose_male_22c57739:
 
 # ch/ayesha/date.rpy:971
 translate russian ayesha_date_play_arcade_lose_male_dd6f2fa2:
-    mike.say "Говори сама за себя, Аиша."
+    mike.say "Говори сама за себя, Айша."
 
 # ch/ayesha/date.rpy:972
 translate russian ayesha_date_play_arcade_lose_male_9d9524eb:
@@ -4498,7 +4498,7 @@ translate russian ayesha_dick_reactions_2c69ef53:
 
 # ch/ayesha/date.rpy:982
 translate russian ayesha_dick_reactions_49b44310:
-    mike.say "Что случилось, Аиша?"
+    mike.say "Что случилось, Айша?"
 
 # ch/ayesha/date.rpy:984
 translate russian ayesha_dick_reactions_79d7f9c1:
@@ -4514,7 +4514,7 @@ translate russian ayesha_dick_reactions_2c69ef53_1:
 
 # ch/ayesha/date.rpy:990
 translate russian ayesha_dick_reactions_49b44310_1:
-    mike.say "Что случилось, Аиша?"
+    mike.say "Что случилось, Айша?"
 
 # ch/ayesha/date.rpy:992
 translate russian ayesha_dick_reactions_79d7f9c1_1:
@@ -4530,11 +4530,11 @@ translate russian ayesha_halloween_invitation_d2a0edda:
 
 # ch/ayesha/date.rpy:1001
 translate russian ayesha_halloween_invitation_7ce84f86:
-    "Мы так здорово проводим время вместе, что Аиша – это единственный вариант."
+    "Мы так здорово проводим время вместе, что Айша — это единственный вариант."
 
 # ch/ayesha/date.rpy:1002
 translate russian ayesha_halloween_invitation_8f495769:
-    "И к тому моменту, когда я решусь ее пригласить, я уже представляю себе вечер с ней."
+    "И к тому моменту, когда я решусь её пригласить, я уже представляю себе вечер с ней."
 
 # ch/ayesha/date.rpy:1003
 translate russian ayesha_halloween_invitation_f49c2c79:
@@ -4546,7 +4546,7 @@ translate russian ayesha_halloween_invitation_33cb73bb:
 
 # ch/ayesha/date.rpy:1006
 translate russian ayesha_halloween_invitation_74e8d35d:
-    mike.say "Аиша..."
+    mike.say "Айша..."
 
 # ch/ayesha/date.rpy:1007
 translate russian ayesha_halloween_invitation_d3735ff2:
@@ -4554,7 +4554,7 @@ translate russian ayesha_halloween_invitation_d3735ff2:
 
 # ch/ayesha/date.rpy:1009
 translate russian ayesha_halloween_invitation_07abe5b3:
-    "Аиша оглядывается, услышав мой голос."
+    "Айша оглядывается, услышав мой голос."
 
 # ch/ayesha/date.rpy:1010
 translate russian ayesha_halloween_invitation_376516a5:
@@ -4638,7 +4638,7 @@ translate russian ayesha_halloween_invitation_60520bab:
 
 # ch/ayesha/date.rpy:1033
 translate russian ayesha_halloween_invitation_c864ef29:
-    "Я чувствую возможность повлиять на Аишу и решаю воспользоваться ею."
+    "Я чувствую возможность повлиять на Айшу и решаю воспользоваться ею."
 
 # ch/ayesha/date.rpy:1034
 translate russian ayesha_halloween_invitation_9e594538:
@@ -4650,11 +4650,11 @@ translate russian ayesha_halloween_invitation_229eb5b2:
 
 # ch/ayesha/date.rpy:1037
 translate russian ayesha_halloween_invitation_3f7b46ca:
-    "Я вижу, что Аиша начинает проявлять интерес к этой идее."
+    "Я вижу, что Айша начинает проявлять интерес к этой идее."
 
 # ch/ayesha/date.rpy:1038
 translate russian ayesha_halloween_invitation_507ed656:
-    "И с каждой секундой ее улыбка становится шире."
+    "И с каждой секундой её улыбка становится шире."
 
 # ch/ayesha/date.rpy:1040
 translate russian ayesha_halloween_invitation_de451203:
@@ -4666,7 +4666,7 @@ translate russian ayesha_halloween_invitation_2593b8da:
 
 # ch/ayesha/date.rpy:1042
 translate russian ayesha_halloween_invitation_b291cf5d:
-    "Я вижу по блеску в глазах Аиши, что она врет."
+    "Я вижу по блеску в глазах Айши, что она врёт."
 
 # ch/ayesha/date.rpy:1043
 translate russian ayesha_halloween_invitation_ed39c860:
@@ -4678,11 +4678,11 @@ translate russian ayesha_halloween_invitation_144b1a61:
 
 # ch/ayesha/date.rpy:1045
 translate russian ayesha_halloween_invitation_f9e0c982:
-    mike.say "Надеюсь, мне тоже повезет вечером!"
+    mike.say "Надеюсь, мне тоже повезёт вечером!"
 
 # ch/ayesha/date.rpy:1047
 translate russian ayesha_halloween_invitation_5e05302e:
-    ayesha.say "Это еще предстоит узнать!"
+    ayesha.say "Это ещё предстоит узнать!"
 
 # ch/ayesha/date.rpy:1051
 translate russian ayesha_halloween_invitation_11e83608_1:
@@ -4702,11 +4702,11 @@ translate russian ayesha_halloween_invitation_ba086b9e:
 
 # ch/ayesha/date.rpy:1055
 translate russian ayesha_halloween_invitation_5af76777:
-    ayesha.say "Профессиональная борьба – это совсем не похоже на костюмированную вечеринку!"
+    ayesha.say "Профессиональная борьба — это совсем не похоже на костюмированную вечеринку!"
 
 # ch/ayesha/date.rpy:1056
 translate russian ayesha_halloween_invitation_37066ba6:
-    mike.say "Я не понимаю, Аиша."
+    mike.say "Я не понимаю, Айша."
 
 # ch/ayesha/date.rpy:1057
 translate russian ayesha_halloween_invitation_6dc843cb:
@@ -4722,7 +4722,7 @@ translate russian ayesha_halloween_invitation_a6346800:
 
 # ch/ayesha/date.rpy:1062
 translate russian ayesha_halloween_invitation_1b65a02a:
-    "Аиша издает разочарованный стон."
+    "Айша издаёт разочарованный стон."
 
 # ch/ayesha/date.rpy:1063
 translate russian ayesha_halloween_invitation_ca3809e2:
@@ -4730,7 +4730,7 @@ translate russian ayesha_halloween_invitation_ca3809e2:
 
 # ch/ayesha/date.rpy:1064
 translate russian ayesha_halloween_invitation_5d601daa:
-    ayesha.say "То, что я делаю на ринге – это перформанс."
+    ayesha.say "То, что я делаю на ринге — это перформанс."
 
 # ch/ayesha/date.rpy:1065
 translate russian ayesha_halloween_invitation_415ddccb:
@@ -4778,7 +4778,7 @@ translate russian ayesha_halloween_arrival_6aed1a12:
 
 # ch/ayesha/date.rpy:1084
 translate russian ayesha_halloween_arrival_b7e695fa:
-    "Ее тень накрывает меня, и я почти чувствую, как дрожу."
+    "Её тень накрывает меня, и я почти чувствую, как дрожу."
 
 # ch/ayesha/date.rpy:1085
 translate russian ayesha_halloween_arrival_99165b87:
@@ -4794,7 +4794,7 @@ translate russian ayesha_halloween_arrival_faa44c64:
 
 # ch/ayesha/date.rpy:1088
 translate russian ayesha_halloween_arrival_4d472861:
-    "В этот момент гигант у моего порога наклоняется вперед."
+    "В этот момент гигант у моего порога наклоняется вперёд."
 
 # ch/ayesha/date.rpy:1089
 translate russian ayesha_halloween_arrival_b3231f63:
@@ -4810,7 +4810,7 @@ translate russian ayesha_halloween_arrival_06e3311a:
 
 # ch/ayesha/date.rpy:1093
 translate russian ayesha_halloween_arrival_4adf13d1:
-    mike.say "Аиша?"
+    mike.say "Айша?"
 
 # ch/ayesha/date.rpy:1094
 translate russian ayesha_halloween_arrival_0a3756b8:
@@ -4822,7 +4822,7 @@ translate russian ayesha_halloween_arrival_81a07964:
 
 # ch/ayesha/date.rpy:1096
 translate russian ayesha_halloween_arrival_d6511585:
-    "Она смотрит на меня сверху вниз, с огромной иконой, прикрепленной к ее плечу."
+    "Она смотрит на меня сверху вниз, с огромной иконой, прикрепленной к её плечу."
 
 # ch/ayesha/date.rpy:1097
 translate russian ayesha_halloween_arrival_24d5f580:
@@ -4830,7 +4830,7 @@ translate russian ayesha_halloween_arrival_24d5f580:
 
 # ch/ayesha/date.rpy:1099
 translate russian ayesha_halloween_arrival_04539fbf:
-    "Вдруг Аиша немного смущается."
+    "Вдруг Айша немного смущается."
 
 # ch/ayesha/date.rpy:1100
 translate russian ayesha_halloween_arrival_f2b4bd21:
@@ -4858,7 +4858,7 @@ translate russian ayesha_halloween_arrival_a9e97789:
 
 # ch/ayesha/date.rpy:1108
 translate russian ayesha_halloween_arrival_167a24cc:
-    mike.say "Кому какое дело, что думают другие, Аиша?"
+    mike.say "Кому какое дело, что думают другие, Айша?"
 
 # ch/ayesha/date.rpy:1109
 translate russian ayesha_halloween_arrival_1074fd52:
@@ -4874,7 +4874,7 @@ translate russian ayesha_halloween_arrival_dbb57bad:
 
 # ch/ayesha/date.rpy:1114
 translate russian ayesha_halloween_arrival_f10e5545:
-    "Аиша не может удержаться от покраснения, когда я восхищаюсь ею."
+    "Айша не может удержаться от покраснения, когда я восхищаюсь ею."
 
 # ch/ayesha/date.rpy:1115
 translate russian ayesha_halloween_arrival_bae6b68a:
@@ -4898,7 +4898,7 @@ translate russian ayesha_halloween_arrival_e4047bad:
 
 # ch/ayesha/date.rpy:1120
 translate russian ayesha_halloween_arrival_7948b09c:
-    mike.say "Конечно, мне он нравится, Аиша."
+    mike.say "Конечно, мне он нравится, Айша."
 
 # ch/ayesha/date.rpy:1121
 translate russian ayesha_halloween_arrival_cf70dc9b:
@@ -4910,15 +4910,15 @@ translate russian ayesha_halloween_arrival_ef70fd43:
 
 # ch/ayesha/date.rpy:1124
 translate russian ayesha_halloween_arrival_445e7635:
-    "Аиша сама по себе практически гигантский персонаж."
+    "Айша сама по себе практически гигантский персонаж."
 
 # ch/ayesha/date.rpy:1125
 translate russian ayesha_halloween_arrival_9358e1ce:
-    "И переодевание в роль \"Жрицы-кальмара\" только добавляет ей величия."
+    "И переодевание в роль «Жрицы-кальмара» только добавляет ей величия."
 
 # ch/ayesha/date.rpy:1126
 translate russian ayesha_halloween_arrival_78237b17:
-    mike.say "Тебе стоило лучше подумать, Аиша."
+    mike.say "Тебе стоило лучше подумать, Айша."
 
 # ch/ayesha/date.rpy:1127
 translate russian ayesha_halloween_arrival_4f93336d:
@@ -4926,7 +4926,7 @@ translate russian ayesha_halloween_arrival_4f93336d:
 
 # ch/ayesha/date.rpy:1130
 translate russian ayesha_halloween_arrival_42932e4b:
-    "Судя по моему ответу, Аиша чувствует себя немного обиженной."
+    "Судя по моему ответу, Айша чувствует себя немного обиженной."
 
 # ch/ayesha/date.rpy:1131
 translate russian ayesha_halloween_arrival_89789bcf:
@@ -4950,11 +4950,11 @@ translate russian ayesha_halloween_arrival_8b1a8946:
 
 # ch/ayesha/date.rpy:1136
 translate russian ayesha_halloween_arrival_23108aed:
-    "Последнее, что мне нужно, чтобы Аиша начала давить на меня чувством вины."
+    "Последнее, что мне нужно, чтобы Айша начала давить на меня чувством вины."
 
 # ch/ayesha/date.rpy:1137
 translate russian ayesha_halloween_arrival_ad0e33b6:
-    mike.say "Что я могу сказать тебе, Аиша?"
+    mike.say "Что я могу сказать тебе, Айша?"
 
 # ch/ayesha/date.rpy:1138
 translate russian ayesha_halloween_arrival_a8567a8b:
@@ -4962,11 +4962,11 @@ translate russian ayesha_halloween_arrival_a8567a8b:
 
 # ch/ayesha/date.rpy:1140
 translate russian ayesha_halloween_arrival_6cf3c73b:
-    "Аиша хмурится и поджимает губу."
+    "Айша хмурится и поджимает губу."
 
 # ch/ayesha/date.rpy:1141
 translate russian ayesha_halloween_arrival_7af7cfab:
-    "Но она все равно заходит в дом."
+    "Но она всё равно заходит в дом."
 
 # ch/ayesha/date.rpy:1142
 translate russian ayesha_halloween_arrival_7aefc8fd:
@@ -4974,7 +4974,7 @@ translate russian ayesha_halloween_arrival_7aefc8fd:
 
 # ch/ayesha/date.rpy:1143
 translate russian ayesha_halloween_arrival_a9bde9d3:
-    "В конце концов, я не хочу, чтобы на меня обрушилась ее праведный гнев!"
+    "В конце концов, я не хочу, чтобы на меня обрушилась её праведный гнев!"
 
 # ch/ayesha/date.rpy:1152
 translate russian ayesha_halloween_party_8cbb83b8:
@@ -4982,7 +4982,7 @@ translate russian ayesha_halloween_party_8cbb83b8:
 
 # ch/ayesha/date.rpy:1153
 translate russian ayesha_halloween_party_68c997e2:
-    ayesha.say "Я говорю – уходи!"
+    ayesha.say "Я говорю — уходи!"
 
 # ch/ayesha/date.rpy:1154
 translate russian ayesha_halloween_party_8ae424f6:
@@ -4994,7 +4994,7 @@ translate russian ayesha_halloween_party_3359c7b9:
 
 # ch/ayesha/date.rpy:1156
 translate russian ayesha_halloween_party_ac210aac:
-    "Я сразу узнаю голос Аиши, как только слышу его."
+    "Я сразу узнаю голос Айши, как только слышу его."
 
 # ch/ayesha/date.rpy:1157
 translate russian ayesha_halloween_party_04060af2:
@@ -5006,7 +5006,7 @@ translate russian ayesha_halloween_party_cfad11d2:
 
 # ch/ayesha/date.rpy:1161
 translate russian ayesha_halloween_party_494b75b6:
-    "И еще тот факт, что Джек, похоже, прячется от нее!"
+    "И ещё тот факт, что Джек, похоже, прячется от неё!"
 
 # ch/ayesha/date.rpy:1162
 translate russian ayesha_halloween_party_685a28da:
@@ -5026,7 +5026,7 @@ translate russian ayesha_halloween_party_a22d933a:
 
 # ch/ayesha/date.rpy:1166
 translate russian ayesha_halloween_party_9986521d:
-    "Решительно встаю между Джеком и огромным оружием Аиши."
+    "Решительно встаю между Джеком и огромным оружием Айши."
 
 # ch/ayesha/date.rpy:1169
 translate russian ayesha_halloween_party_4d9b4710:
@@ -5034,7 +5034,7 @@ translate russian ayesha_halloween_party_4d9b4710:
 
 # ch/ayesha/date.rpy:1170
 translate russian ayesha_halloween_party_e5f718e7:
-    mike.say "Что здесь происходит, Аиша?!"
+    mike.say "Что здесь происходит, Айша?!"
 
 # ch/ayesha/date.rpy:1171
 translate russian ayesha_halloween_party_53eda2a0:
@@ -5042,11 +5042,11 @@ translate russian ayesha_halloween_party_53eda2a0:
 
 # ch/ayesha/date.rpy:1173
 translate russian ayesha_halloween_party_1d6d1b23:
-    "Аиша опускает тяжелый предмет."
+    "Айша опускает тяжёлый предмет."
 
 # ch/ayesha/date.rpy:1174
 translate russian ayesha_halloween_party_f82992f7:
-    "Но она все равно следит за Джеком одним глазом."
+    "Но она всё равно следит за Джеком одним глазом."
 
 # ch/ayesha/date.rpy:1175
 translate russian ayesha_halloween_party_7216d8c9:
@@ -5054,7 +5054,7 @@ translate russian ayesha_halloween_party_7216d8c9:
 
 # ch/ayesha/date.rpy:1177
 translate russian ayesha_halloween_party_ecec703f:
-    jack.say "Это был всего лишь легкий щипок."
+    jack.say "Это был всего лишь лёгкий щипок."
 
 # ch/ayesha/date.rpy:1178
 translate russian ayesha_halloween_party_8b34e4e4:
@@ -5070,7 +5070,7 @@ translate russian ayesha_halloween_party_e5e7dd00:
 
 # ch/ayesha/date.rpy:1181
 translate russian ayesha_halloween_party_f58338ab:
-    mike.say "Аиша здесь может связать тебя узлом без особых усилий."
+    mike.say "Айша здесь может связать тебя узлом без особых усилий."
 
 # ch/ayesha/date.rpy:1182
 translate russian ayesha_halloween_party_d38e742f:
@@ -5094,7 +5094,7 @@ translate russian ayesha_halloween_party_11ff9e3c:
 
 # ch/ayesha/date.rpy:1189
 translate russian ayesha_halloween_party_bad3bef1:
-    "Он издает короткий крик и убегает."
+    "Он издаёт короткий крик и убегает."
 
 # ch/ayesha/date.rpy:1193
 translate russian ayesha_halloween_party_927b0505:
@@ -5110,7 +5110,7 @@ translate russian ayesha_halloween_party_61282b48:
 
 # ch/ayesha/date.rpy:1199
 translate russian ayesha_halloween_party_1635bb6e:
-    "Айша смеется и качает головой."
+    "Айша смеётся и качает головой."
 
 # ch/ayesha/date.rpy:1200
 translate russian ayesha_halloween_party_8257b0d1:
@@ -5130,15 +5130,15 @@ translate russian ayesha_halloween_party_4d9b4710_1:
 
 # ch/ayesha/date.rpy:1205
 translate russian ayesha_halloween_party_e5f718e7_1:
-    mike.say "Что здесь происходит, Аиша?!"
+    mike.say "Что здесь происходит, Айша?!"
 
 # ch/ayesha/date.rpy:1206
 translate russian ayesha_halloween_party_129ad85d:
-    mike.say "Ты же не собираешься использовать эту штуку на нем, правда?"
+    mike.say "Ты же не собираешься использовать эту штуку на нём, правда?"
 
 # ch/ayesha/date.rpy:1208
 translate russian ayesha_halloween_party_b5efcc83:
-    "Айша сердито смотрит на меня, очевидно, она все еще злится."
+    "Айша сердито смотрит на меня, очевидно, она всё ещё злится."
 
 # ch/ayesha/date.rpy:1209
 translate russian ayesha_halloween_party_bc48340b:
@@ -5154,7 +5154,7 @@ translate russian ayesha_halloween_party_7216d8c9_1:
 
 # ch/ayesha/date.rpy:1213
 translate russian ayesha_halloween_party_ecec703f_1:
-    jack.say "Это был всего лишь легкий щипок."
+    jack.say "Это был всего лишь лёгкий щипок."
 
 # ch/ayesha/date.rpy:1214
 translate russian ayesha_halloween_party_8b34e4e4_1:
@@ -5178,7 +5178,7 @@ translate russian ayesha_halloween_party_af29d41d:
 
 # ch/ayesha/date.rpy:1224
 translate russian ayesha_halloween_party_f98690c7:
-    "Она слишком занята тем, что выглядит смущенной и немного стыдится себя."
+    "Она слишком занята тем, что выглядит смущённой и немного стыдится себя."
 
 # ch/ayesha/date.rpy:1225
 translate russian ayesha_halloween_party_613a50ee:
@@ -5206,7 +5206,7 @@ translate russian ayesha_halloween_dance_fbd85885:
 
 # ch/ayesha/date.rpy:1240
 translate russian ayesha_halloween_dance_868422fb:
-    "И когда она так делает, на ее лице читается вина."
+    "И когда она так делает, на её лице читается вина."
 
 # ch/ayesha/date.rpy:1241
 translate russian ayesha_halloween_dance_aabb2f98:
@@ -5218,7 +5218,7 @@ translate russian ayesha_halloween_dance_4beceea5:
 
 # ch/ayesha/date.rpy:1243
 translate russian ayesha_halloween_dance_14bedcb3:
-    "Аyesha, должно быть, ждет, пока я приглашу её потанцевать!"
+    "Аyesha, должно быть, ждёт, пока я приглашу её потанцевать!"
 
 # ch/ayesha/date.rpy:1244
 translate russian ayesha_halloween_dance_e25f3437:
@@ -5238,7 +5238,7 @@ translate russian ayesha_halloween_dance_7669ba1d:
 
 # ch/ayesha/date.rpy:1249
 translate russian ayesha_halloween_dance_9ebf8ec0:
-    "Но теперь она выглядит еще более нервной, чем раньше!"
+    "Но теперь она выглядит ещё более нервной, чем раньше!"
 
 # ch/ayesha/date.rpy:1250
 translate russian ayesha_halloween_dance_8c9ecbee:
@@ -5250,7 +5250,7 @@ translate russian ayesha_halloween_dance_3378278a:
 
 # ch/ayesha/date.rpy:1254
 translate russian ayesha_halloween_dance_283a2158:
-    "Я немного хмурюсь, смущенный нерешительностью Айши."
+    "Я немного хмурюсь, смущённый нерешительностью Айши."
 
 # ch/ayesha/date.rpy:1255
 translate russian ayesha_halloween_dance_e9117111:
@@ -5262,19 +5262,19 @@ translate russian ayesha_halloween_dance_7b6e0779:
 
 # ch/ayesha/date.rpy:1257
 translate russian ayesha_halloween_dance_23448c2c:
-    mike.say "Тогда пойдем танцевать!"
+    mike.say "Тогда пойдём танцевать!"
 
 # ch/ayesha/date.rpy:1260
 translate russian ayesha_halloween_dance_087dcc1d:
-    "Айша не оказывает никакого сопротивления, когда я провожу ее на танцпол."
+    "Айша не оказывает никакого сопротивления, когда я провожу её на танцпол."
 
 # ch/ayesha/date.rpy:1261
 translate russian ayesha_halloween_dance_b4c50055:
-    "Но она выглядит взволнованной все время, постоянно оглядываясь по сторонам."
+    "Но она выглядит взволнованной всё время, постоянно оглядываясь по сторонам."
 
 # ch/ayesha/date.rpy:1262
 translate russian ayesha_halloween_dance_917dc5e2:
-    "Я стараюсь изо всех сил привлечь ее внимание к себе."
+    "Я стараюсь изо всех сил привлечь её внимание к себе."
 
 # ch/ayesha/date.rpy:1264
 translate russian ayesha_halloween_dance_6487d3c5:
@@ -5282,7 +5282,7 @@ translate russian ayesha_halloween_dance_6487d3c5:
 
 # ch/ayesha/date.rpy:1265
 translate russian ayesha_halloween_dance_54030d7c:
-    "Айша остается скованной и неуклюжей на протяжении всего времени."
+    "Айша остаётся скованной и неуклюжей на протяжении всего времени."
 
 # ch/ayesha/date.rpy:1267
 translate russian ayesha_halloween_dance_e893fd39:
@@ -5294,7 +5294,7 @@ translate russian ayesha_halloween_dance_30a8e03b:
 
 # ch/ayesha/date.rpy:1270
 translate russian ayesha_halloween_dance_283a2158_1:
-    "Я немного хмурюсь, смущенный нерешительностью Айши."
+    "Я немного хмурюсь, смущённый нерешительностью Айши."
 
 # ch/ayesha/date.rpy:1271
 translate russian ayesha_halloween_dance_912dac83:
@@ -5302,7 +5302,7 @@ translate russian ayesha_halloween_dance_912dac83:
 
 # ch/ayesha/date.rpy:1272
 translate russian ayesha_halloween_dance_e688c43a:
-    mike.say "\"Если тебе это не нравится, Айша\"."
+    mike.say "«Если тебе это не нравится, Айша»."
 
 # ch/ayesha/date.rpy:1273
 translate russian ayesha_halloween_dance_4898dbfc:
@@ -5314,15 +5314,15 @@ translate russian ayesha_halloween_dance_3f823ad8:
 
 # ch/ayesha/date.rpy:1276
 translate russian ayesha_halloween_dance_a039d34d:
-    "Она внезапно выглядит облегченной."
+    "Она внезапно выглядит облегчённой."
 
 # ch/ayesha/date.rpy:1277
 translate russian ayesha_halloween_dance_75835ae4:
-    "Как будто с нее сняли тяжелый груз."
+    "Как будто с неё сняли тяжёлый груз."
 
 # ch/ayesha/date.rpy:1278
 translate russian ayesha_halloween_dance_4aa18bf0:
-    ayesha.say "\"Я всегда чувствую себя неловко, когда танцую\"."
+    ayesha.say "«Я всегда чувствую себя неловко, когда танцую»."
 
 # ch/ayesha/date.rpy:1279
 translate russian ayesha_halloween_dance_041e9b2d:
@@ -5334,7 +5334,7 @@ translate russian ayesha_halloween_dance_0209db7d:
 
 # ch/ayesha/date.rpy:1281
 translate russian ayesha_halloween_dance_2ed2e13d:
-    mike.say "Давай просто закажем еще по одному напитку."
+    mike.say "Давай просто закажем ещё по одному напитку."
 
 # ch/ayesha/date.rpy:1283
 translate russian ayesha_halloween_dance_c1623f81:
@@ -5354,7 +5354,7 @@ translate russian ayesha_halloween_sex_7f1fdb2e:
 
 # ch/ayesha/date.rpy:1295
 translate russian ayesha_halloween_sex_094622c5:
-    "Сначала я думал, что она может расстроиться из-за того, что я постоянно на нее смотрю."
+    "Сначала я думал, что она может расстроиться из-за того, что я постоянно на неё смотрю."
 
 # ch/ayesha/date.rpy:1296
 translate russian ayesha_halloween_sex_dedf1aa2:
@@ -5418,7 +5418,7 @@ translate russian ayesha_halloween_sex_d6eed50f:
 
 # ch/ayesha/date.rpy:1313
 translate russian ayesha_halloween_sex_13c94c05:
-    "Вместо этого ее темп ускоряется, и она продолжает снимать с меня одежду."
+    "Вместо этого её темп ускоряется, и она продолжает снимать с меня одежду."
 
 # ch/ayesha/date.rpy:1315
 translate russian ayesha_halloween_sex_e7e5aaed:
@@ -5442,7 +5442,7 @@ translate russian ayesha_halloween_sex_b62187f7:
 
 # ch/ayesha/date.rpy:1321
 translate russian ayesha_halloween_sex_b4dd4798:
-    "Прежде чем я успеваю возразить, Айша кладет свою руку ровно на мою грудь."
+    "Прежде чем я успеваю возразить, Айша кладёт свою руку ровно на мою грудь."
 
 # ch/ayesha/date.rpy:1322
 translate russian ayesha_halloween_sex_7d3e2a0b:
@@ -5478,7 +5478,7 @@ translate russian ayesha_halloween_sex_5f5819f8:
 
 # ch/ayesha/date.rpy:1330
 translate russian ayesha_halloween_sex_0934f41d:
-    "Я принимаю свое решение сразу после того, как Айша опускается на кровать."
+    "Я принимаю своё решение сразу после того, как Айша опускается на кровать."
 
 # ch/ayesha/date.rpy:1331
 translate russian ayesha_halloween_sex_2ac92d71:
@@ -5486,7 +5486,7 @@ translate russian ayesha_halloween_sex_2ac92d71:
 
 # ch/ayesha/date.rpy:1333
 translate russian ayesha_halloween_sex_d8690b02:
-    "Но мне удается выскользнуть из-под нее в последний момент."
+    "Но мне удаётся выскользнуть из-под неё в последний момент."
 
 # ch/ayesha/date.rpy:1334
 translate russian ayesha_halloween_sex_919015fe:
@@ -5494,11 +5494,11 @@ translate russian ayesha_halloween_sex_919015fe:
 
 # ch/ayesha/date.rpy:1335
 translate russian ayesha_halloween_sex_973dd094:
-    "Но я благодарен алкоголю за то, что он немного замедлил ее."
+    "Но я благодарен алкоголю за то, что он немного замедлил её."
 
 # ch/ayesha/date.rpy:1336
 translate russian ayesha_halloween_sex_31569544:
-    "Она бьет по одеялу, а затем поднимает голову с удивлением."
+    "Она бьёт по одеялу, а затем поднимает голову с удивлением."
 
 # ch/ayesha/date.rpy:1338
 translate russian ayesha_halloween_sex_c4572836:
@@ -5514,11 +5514,11 @@ translate russian ayesha_halloween_sex_22d5c47b:
 
 # ch/ayesha/date.rpy:1341
 translate russian ayesha_halloween_sex_4e7c3784:
-    "Она издает крик от испуга, когда я оказываюсь у нее на спине."
+    "Она издаёт крик от испуга, когда я оказываюсь у неё на спине."
 
 # ch/ayesha/date.rpy:1342
 translate russian ayesha_halloween_sex_384cb660:
-    "Но я замечаю, что ее попытки сбросить меня не очень эффективны."
+    "Но я замечаю, что её попытки сбросить меня не очень эффективны."
 
 # ch/ayesha/date.rpy:1343
 translate russian ayesha_halloween_sex_c9e3f813:
@@ -5538,7 +5538,7 @@ translate russian ayesha_halloween_sex_020215e8:
 
 # ch/ayesha/date.rpy:1349
 translate russian ayesha_halloween_sex_f41db2b0:
-    "У меня уже эрекция из-за того, что Аиша со мной так обращается."
+    "У меня уже эрекция из-за того, что Айша со мной так обращается."
 
 # ch/ayesha/date.rpy:1350
 translate russian ayesha_halloween_sex_7a38e309:
@@ -5546,7 +5546,7 @@ translate russian ayesha_halloween_sex_7a38e309:
 
 # ch/ayesha/date.rpy:1351
 translate russian ayesha_halloween_sex_73a62ecd:
-    "Я направляю свой член между ягодицами Аиши."
+    "Я направляю свой член между ягодицами Айши."
 
 # ch/ayesha/date.rpy:1355
 translate russian ayesha_halloween_sex_d7385107:
@@ -5558,7 +5558,7 @@ translate russian ayesha_halloween_sex_9614a429:
 
 # ch/ayesha/date.rpy:1357
 translate russian ayesha_halloween_sex_7bd7237e:
-    ayesha.say "Я в твоем распоряжении..."
+    ayesha.say "Я в твоём распоряжении..."
 
 # ch/ayesha/date.rpy:1358
 translate russian ayesha_halloween_sex_c1130c26:
@@ -5574,11 +5574,11 @@ translate russian ayesha_halloween_sex_b426b018:
 
 # ch/ayesha/date.rpy:1361
 translate russian ayesha_halloween_sex_c6d23a90:
-    "Как только я чувствую свой член внутри Аиши, я отдаю всего себя."
+    "Как только я чувствую свой член внутри Айши, я отдаю всего себя."
 
 # ch/ayesha/date.rpy:1362
 translate russian ayesha_halloween_sex_ccdba59b:
-    "Ее влагалище ощущается потрясающе вокруг моего члена, сильно сжимая меня."
+    "Её влагалище ощущается потрясающе вокруг моего члена, сильно сжимая меня."
 
 # ch/ayesha/date.rpy:1363
 translate russian ayesha_halloween_sex_8fd0d3f0:
@@ -5586,7 +5586,7 @@ translate russian ayesha_halloween_sex_8fd0d3f0:
 
 # ch/ayesha/date.rpy:1364
 translate russian ayesha_halloween_sex_a32685b5:
-    "Теперь от Аиши больше нет слов."
+    "Теперь от Айши больше нет слов."
 
 # ch/ayesha/date.rpy:1365
 translate russian ayesha_halloween_sex_5b9122cd:
@@ -5598,19 +5598,19 @@ translate russian ayesha_halloween_sex_a1a87742:
 
 # ch/ayesha/date.rpy:1367
 translate russian ayesha_halloween_sex_7347a4f3:
-    "С каждым движением я чувствую, как она все больше и больше отдается мне."
+    "С каждым движением я чувствую, как она всё больше и больше отдаётся мне."
 
 # ch/ayesha/date.rpy:1368
 translate russian ayesha_halloween_sex_206c2e26:
-    "Я чувствую, что приручаю ее своим членом!"
+    "Я чувствую, что приручаю её своим членом!"
 
 # ch/ayesha/date.rpy:1369
 translate russian ayesha_halloween_sex_41b11d0c:
-    "Все, что Аиша может делать, это смотреть через плечо на меня."
+    "Всё, что Айша может делать, это смотреть через плечо на меня."
 
 # ch/ayesha/date.rpy:1370
 translate russian ayesha_halloween_sex_a6c80ef9:
-    "Выражение на ее лице кажется мольбой о том же самом."
+    "Выражение на её лице кажется мольбой о том же самом."
 
 # ch/ayesha/date.rpy:1371
 translate russian ayesha_halloween_sex_d3ce8680:
@@ -5622,7 +5622,7 @@ translate russian ayesha_halloween_sex_a2559e55:
 
 # ch/ayesha/date.rpy:1373
 translate russian ayesha_halloween_sex_8f438266:
-    "Аиша отчаянно кивает, пока я выкладываюсь по полной для нее."
+    "Айша отчаянно кивает, пока я выкладываюсь по полной для неё."
 
 # ch/ayesha/date.rpy:1374
 translate russian ayesha_halloween_sex_31039273:
@@ -5634,7 +5634,7 @@ translate russian ayesha_halloween_sex_cb9cce9a:
 
 # ch/ayesha/date.rpy:1376
 translate russian ayesha_halloween_sex_e2365f21:
-    "Или же с ощущением того, что Аиша начинает достигать оргазма под мной."
+    "Или же с ощущением того, что Айша начинает достигать оргазма под мной."
 
 # ch/ayesha/date.rpy:1377
 translate russian ayesha_halloween_sex_81ba1871:
@@ -5642,7 +5642,7 @@ translate russian ayesha_halloween_sex_81ba1871:
 
 # ch/ayesha/date.rpy:1379
 translate russian ayesha_halloween_sex_11c81e3a:
-    "В самый последний момент я вытаскиваю свой член из Аиши."
+    "В самый последний момент я вытаскиваю свой член из Айши."
 
 # ch/ayesha/date.rpy:1380
 translate russian ayesha_halloween_sex_e134f8e6:
@@ -5654,7 +5654,7 @@ translate russian ayesha_halloween_sex_dbdedd8a:
 
 # ch/ayesha/date.rpy:1384
 translate russian ayesha_halloween_sex_56674d2d:
-    "И я извергаю свою сперму на ее спину и ягодицы."
+    "И я извергаю свою сперму на её спину и ягодицы."
 
 # ch/ayesha/date.rpy:1386
 translate russian ayesha_halloween_sex_e00430e8:
@@ -5666,7 +5666,7 @@ translate russian ayesha_halloween_sex_39039f35:
 
 # ch/ayesha/date.rpy:1388
 translate russian ayesha_halloween_sex_13076763:
-    "Так мы и остаемся, тяжело дыша и покрытые потом."
+    "Так мы и остаёмся, тяжело дыша и покрытые потом."
 
 # ch/ayesha/date.rpy:1399
 translate russian ayesha_date_forest_male_a3d29f98:
@@ -5686,11 +5686,11 @@ translate russian ayesha_date_forest_male_73cf5982:
 
 # ch/ayesha/date.rpy:1406
 translate russian ayesha_date_forest_male_9b591f23:
-    "Это хаотичная смесь водонепроницаемого материала, карбоновых шестов и сложных на вид веревок, заканчивающихся металлическими колышками."
+    "Это хаотичная смесь водонепроницаемого материала, карбоновых шестов и сложных на вид верёвок, заканчивающихся металлическими колышками."
 
 # ch/ayesha/date.rpy:1407
 translate russian ayesha_date_forest_male_d1756755:
-    "Моя палатка, ту самую, которую я всегда обещал себе использовать чаще, когда собирал ее вместе со всеми остальными вещами!"
+    "Моя палатка, ту самую, которую я всегда обещал себе использовать чаще, когда собирал её вместе со всеми остальными вещами!"
 
 # ch/ayesha/date.rpy:1408
 translate russian ayesha_date_forest_male_dbef045f:
@@ -5726,7 +5726,7 @@ translate russian ayesha_date_forest_male_7f154969:
 
 # ch/ayesha/date.rpy:1422
 translate russian ayesha_date_forest_male_b9090b89:
-    "Аиша смотрит на меня с легким удивлением в глазах."
+    "Айша смотрит на меня с лёгким удивлением в глазах."
 
 # ch/ayesha/date.rpy:1423
 translate russian ayesha_date_forest_male_e6edfd02:
@@ -5742,11 +5742,11 @@ translate russian ayesha_date_forest_male_08e64605:
 
 # ch/ayesha/date.rpy:1426
 translate russian ayesha_date_forest_male_900736fe:
-    mike.say "У меня есть палатка, и я могу достать все остальное, что нам понадобится."
+    mike.say "У меня есть палатка, и я могу достать всё остальное, что нам понадобится."
 
 # ch/ayesha/date.rpy:1427
 translate russian ayesha_date_forest_male_34931a31:
-    mike.say "Мы сможем развести костер и жарить зефир под светом звезд."
+    mike.say "Мы сможем развести костёр и жарить зефир под светом звёзд."
 
 # ch/ayesha/date.rpy:1428
 translate russian ayesha_date_forest_male_0480fe2e:
@@ -5766,15 +5766,15 @@ translate russian ayesha_date_forest_male_982e7328:
 
 # ch/ayesha/date.rpy:1434
 translate russian ayesha_date_forest_male_fc21c642:
-    "Несмотря на то, что Айша пытается дать мне возможность отказаться от этой идеи, я просто ее не слушаю."
+    "Несмотря на то, что Айша пытается дать мне возможность отказаться от этой идеи, я просто её не слушаю."
 
 # ch/ayesha/date.rpy:1435
 translate russian ayesha_date_forest_male_d3a8b4da:
-    "В моем воображении мы уже сидим у костра, прижавшись друг к другу под одеялом."
+    "В моём воображении мы уже сидим у костра, прижавшись друг к другу под одеялом."
 
 # ch/ayesha/date.rpy:1436
 translate russian ayesha_date_forest_male_c748733d:
-    "И еще нужно подумать о том, где мы будем спать..."
+    "И ещё нужно подумать о том, где мы будем спать..."
 
 # ch/ayesha/date.rpy:1437
 translate russian ayesha_date_forest_male_6589dc23:
@@ -5790,11 +5790,11 @@ translate russian ayesha_date_forest_male_2bdedbab:
 
 # ch/ayesha/date.rpy:1446
 translate russian ayesha_date_forest_male_12efffb1:
-    "И когда мы с Айшей идем по лесу, направляясь к месту, которое я выбрал для нашей стоянки, кажется, она тоже это чувствует."
+    "И когда мы с Айшей идём по лесу, направляясь к месту, которое я выбрал для нашей стоянки, кажется, она тоже это чувствует."
 
 # ch/ayesha/date.rpy:1447
 translate russian ayesha_date_forest_male_bfadab85:
-    "Несмотря на то, что она всегда говорила мне, что в душе она городская девушка, природа все равно поднимает ей настроение."
+    "Несмотря на то, что она всегда говорила мне, что в душе она городская девушка, природа всё равно поднимает ей настроение."
 
 # ch/ayesha/date.rpy:1448
 translate russian ayesha_date_forest_male_59baf7ba:
@@ -5830,7 +5830,7 @@ translate russian ayesha_date_forest_male_b779212d:
 
 # ch/ayesha/date.rpy:1457
 translate russian ayesha_date_forest_male_57459d4c:
-    "Я не могу удержаться от улыбки, чувствуя себя правым за то, что проигнорировал ее первоначальные сомнения."
+    "Я не могу удержаться от улыбки, чувствуя себя правым за то, что проигнорировал её первоначальные сомнения."
 
 # ch/ayesha/date.rpy:1458
 translate russian ayesha_date_forest_male_fdf8a4bb:
@@ -5842,15 +5842,15 @@ translate russian ayesha_date_forest_male_02f2074f:
 
 # ch/ayesha/date.rpy:1464
 translate russian ayesha_date_forest_male_35f14827:
-    "Слышен еще один раскат грома, более низкий и гулкий, зловещий по своему звучанию."
+    "Слышен ещё один раскат грома, более низкий и гулкий, зловещий по своему звучанию."
 
 # ch/ayesha/date.rpy:1468
 translate russian ayesha_date_forest_male_3abb5ffc:
-    "И тут небо разверзается, и мы оказываемся под проливным дождем."
+    "И тут небо разверзается, и мы оказываемся под проливным дождём."
 
 # ch/ayesha/date.rpy:1470
 translate russian ayesha_date_forest_male_a1bcc21d:
-    "Аиша и я бросаемся под самое большое дерево, которое можем найти."
+    "Айша и я бросаемся под самое большое дерево, которое можем найти."
 
 # ch/ayesha/date.rpy:1471
 translate russian ayesha_date_forest_male_24f75519:
@@ -5858,7 +5858,7 @@ translate russian ayesha_date_forest_male_24f75519:
 
 # ch/ayesha/date.rpy:1472
 translate russian ayesha_date_forest_male_e255d8d1:
-    "Мы прижимаемся друг к другу, глядя на бурю, которая застала нас врасплох, и Аиша тыкает меня в ребра."
+    "Мы прижимаемся друг к другу, глядя на бурю, которая застала нас врасплох, и Айша тыкает меня в рёбра."
 
 # ch/ayesha/date.rpy:1474
 translate russian ayesha_date_forest_male_24bfdad6:
@@ -5890,7 +5890,7 @@ translate russian ayesha_date_forest_male_a90fed41:
 
 # ch/ayesha/date.rpy:1485
 translate russian ayesha_date_forest_male_7b8c3d15:
-    "Я просто хотел поставить палатку и поспать в спальном мешке с Аишей."
+    "Я просто хотел поставить палатку и поспать в спальном мешке с Айшей."
 
 # ch/ayesha/date.rpy:1486
 translate russian ayesha_date_forest_male_60692627:
@@ -5918,11 +5918,11 @@ translate russian ayesha_date_forest_male_1fe221f0:
 
 # ch/ayesha/date.rpy:1493
 translate russian ayesha_date_forest_male_ff7eecc3:
-    "Я рассчитывал, что у меня будет время и место, чтобы установить палатку, но я даже не удосужился прочитать эту чертову инструкцию."
+    "Я рассчитывал, что у меня будет время и место, чтобы установить палатку, но я даже не удосужился прочитать эту чёртову инструкцию."
 
 # ch/ayesha/date.rpy:1499
 translate russian ayesha_date_forest_male_80031cdf:
-    "Но максимум, на что я способен – это неуклюже возиться с подкладкой, вставлять стойки наугад и надеяться на лучшее."
+    "Но максимум, на что я способен — это неуклюже возиться с подкладкой, вставлять стойки наугад и надеяться на лучшее."
 
 # ch/ayesha/date.rpy:1500
 translate russian ayesha_date_forest_male_661ced21:
@@ -5978,7 +5978,7 @@ translate russian ayesha_date_forest_male_327b1c1f:
 
 # ch/ayesha/date.rpy:1516
 translate russian ayesha_date_forest_male_61bdc2b9:
-    "С трудом мне удается выбраться из палатки и осмотреть ущерб, который я нанес."
+    "С трудом мне удаётся выбраться из палатки и осмотреть ущерб, который я нанёс."
 
 # ch/ayesha/date.rpy:1517
 translate russian ayesha_date_forest_male_8f7e11c6:
@@ -5990,7 +5990,7 @@ translate russian ayesha_date_forest_male_3440f402:
 
 # ch/ayesha/date.rpy:1520
 translate russian ayesha_date_forest_male_102b0ebd:
-    "Аиша дарит мне печальную улыбку, а затем качает головой."
+    "Айша дарит мне печальную улыбку, а затем качает головой."
 
 # ch/ayesha/date.rpy:1521
 translate russian ayesha_date_forest_male_a064b608:
@@ -6006,15 +6006,15 @@ translate russian ayesha_date_forest_male_2543a1b9:
 
 # ch/ayesha/date.rpy:1525
 translate russian ayesha_date_forest_male_ee838150:
-    "Когда мы свернулись калачиком внутри нашего импровизированного убежища, я начал рыться в своем рюкзаке в поисках чего-нибудь поесть."
+    "Когда мы свернулись калачиком внутри нашего импровизированного убежища, я начал рыться в своём рюкзаке в поисках чего-нибудь поесть."
 
 # ch/ayesha/date.rpy:1526
 translate russian ayesha_date_forest_male_2df28ef9:
-    "Из всего, что можно съесть сырым, я нашел только пару шоколадных батончиков."
+    "Из всего, что можно съесть сырым, я нашёл только пару шоколадных батончиков."
 
 # ch/ayesha/date.rpy:1527
 translate russian ayesha_date_forest_male_7f09a219:
-    "Поэтому я отдал один Аише, а другой оставил себе."
+    "Поэтому я отдал один Айше, а другой оставил себе."
 
 # ch/ayesha/date.rpy:1529
 translate russian ayesha_date_forest_male_0f17447d:
@@ -6022,7 +6022,7 @@ translate russian ayesha_date_forest_male_0f17447d:
 
 # ch/ayesha/date.rpy:1530
 translate russian ayesha_date_forest_male_298250bc:
-    mike.say "Аиша...ты в порядке?"
+    mike.say "Айша...ты в порядке?"
 
 # ch/ayesha/date.rpy:1531
 translate russian ayesha_date_forest_male_1b536687:
@@ -6030,7 +6030,7 @@ translate russian ayesha_date_forest_male_1b536687:
 
 # ch/ayesha/date.rpy:1532
 translate russian ayesha_date_forest_male_9f549d58:
-    ayesha.say "Я лежу в сложенной палатке посреди леса, ем шоколад под проливным дождем."
+    ayesha.say "Я лежу в сложенной палатке посреди леса, ем шоколад под проливным дождём."
 
 # ch/ayesha/date.rpy:1534
 translate russian ayesha_date_forest_male_a51077e1:
@@ -6038,7 +6038,7 @@ translate russian ayesha_date_forest_male_a51077e1:
 
 # ch/ayesha/date.rpy:1535
 translate russian ayesha_date_forest_male_4f3f5903:
-    "Я тоже начинаю смеяться, чувствуя, как между нами растет чувство товарищества."
+    "Я тоже начинаю смеяться, чувствуя, как между нами растёт чувство товарищества."
 
 # ch/ayesha/date.rpy:1537
 translate russian ayesha_date_forest_male_20d57da5:
@@ -6066,11 +6066,11 @@ translate russian ayesha_date_forest_male_83c1a2ef:
 
 # ch/ayesha/date.rpy:1544
 translate russian ayesha_date_forest_male_b29a425c:
-    "Мне не требуется много времени, чтобы определить лучшее место для палатки – защищенное и находящееся подальше от любых источников воды."
+    "Мне не требуется много времени, чтобы определить лучшее место для палатки — защищённое и находящееся подальше от любых источников воды."
 
 # ch/ayesha/date.rpy:1545
 translate russian ayesha_date_forest_male_a9a4f883:
-    "Я расчищаю землю и начинаю ставить палатку, и вскоре она уже установлена и надежно закреплена."
+    "Я расчищаю землю и начинаю ставить палатку, и вскоре она уже установлена и надёжно закреплена."
 
 # ch/ayesha/date.rpy:1546
 translate russian ayesha_date_forest_male_1f90b425:
@@ -6082,7 +6082,7 @@ translate russian ayesha_date_forest_male_502333c8:
 
 # ch/ayesha/date.rpy:1548
 translate russian ayesha_date_forest_male_2bb1bc72:
-    "Дальше – круг камней для костра и импровизированное укрытие из папоротников рядом с ним."
+    "Дальше — круг камней для костра и импровизированное укрытие из папоротников рядом с ним."
 
 # ch/ayesha/date.rpy:1549
 translate russian ayesha_date_forest_male_518fe266:
@@ -6106,11 +6106,11 @@ translate russian ayesha_date_forest_male_85f5cb7c:
 
 # ch/ayesha/date.rpy:1560
 translate russian ayesha_date_forest_male_8d62c788:
-    mike.say "Да это совсем ничего особенного, Аиша."
+    mike.say "Да это совсем ничего особенного, Айша."
 
 # ch/ayesha/date.rpy:1561
 translate russian ayesha_date_forest_male_a555d7c9:
-    mike.say "И я бы не привез тебя сюда, если бы не знал, что делаю."
+    mike.say "И я бы не привёз тебя сюда, если бы не знал, что делаю."
 
 # ch/ayesha/date.rpy:1562
 translate russian ayesha_date_forest_male_8c97019d:
@@ -6118,23 +6118,23 @@ translate russian ayesha_date_forest_male_8c97019d:
 
 # ch/ayesha/date.rpy:1563
 translate russian ayesha_date_forest_male_6d0b40de:
-    "Указывая на место на бревне, которое можно использовать как скамейку, я приглашаю Аишу присоединиться ко мне."
+    "Указывая на место на бревне, которое можно использовать как скамейку, я приглашаю Айшу присоединиться ко мне."
 
 # ch/ayesha/date.rpy:1565
 translate russian ayesha_date_forest_male_2be253ee:
-    "Дождь все еще идет, и не похоже, что он прекратится до утра."
+    "Дождь всё ещё идёт, и не похоже, что он прекратится до утра."
 
 # ch/ayesha/date.rpy:1566
 translate russian ayesha_date_forest_male_ae8377d4:
-    "Но мы можем увидеть часть ночного неба сквозь темные облака."
+    "Но мы можем увидеть часть ночного неба сквозь тёмные облака."
 
 # ch/ayesha/date.rpy:1567
 translate russian ayesha_date_forest_male_2b962477:
-    mike.say "Какой у тебя знак зодиака, Аиша?"
+    mike.say "Какой у тебя знак зодиака, Айша?"
 
 # ch/ayesha/date.rpy:1568
 translate russian ayesha_date_forest_male_3cf7dd74:
-    ayesha.say "Я – Телец..."
+    ayesha.say "Я — Телец..."
 
 # ch/ayesha/date.rpy:1570
 translate russian ayesha_date_forest_male_f0f20cd7:
@@ -6146,7 +6146,7 @@ translate russian ayesha_date_forest_male_87d29810:
 
 # ch/ayesha/date.rpy:1572
 translate russian ayesha_date_forest_male_6ccd6e4e:
-    "И вместо этого я указываю на группу звезд, едва различимых между облаками."
+    "И вместо этого я указываю на группу звёзд, едва различимых между облаками."
 
 # ch/ayesha/date.rpy:1573
 translate russian ayesha_date_forest_male_03f8e656:
@@ -6162,7 +6162,7 @@ translate russian ayesha_date_forest_male_6bed9093:
 
 # ch/ayesha/date.rpy:1579
 translate russian ayesha_date_forest_male_955ce03d:
-    "Она смеется и прислоняется ко мне, обвивая меня рукой."
+    "Она смеётся и прислоняется ко мне, обвивая меня рукой."
 
 # ch/ayesha/date.rpy:1580
 translate russian ayesha_date_forest_male_396ef4b4:
@@ -6182,15 +6182,15 @@ translate russian ayesha_date_forest_male_921392b6:
 
 # ch/ayesha/date.rpy:1585
 translate russian ayesha_date_forest_male_c8922b6d:
-    "Я ничего не говорю, а просто улыбаюсь, наслаждаясь тем, как между нами растет близость."
+    "Я ничего не говорю, а просто улыбаюсь, наслаждаясь тем, как между нами растёт близость."
 
 # ch/ayesha/date.rpy:1598
 translate russian ayesha_date_forest_male_a71e7de2:
-    "Утром я осторожно бужу Аишу и вылезаю из спального мешка, чтобы начать разбирать лагерь."
+    "Утром я осторожно бужу Айшу и вылезаю из спального мешка, чтобы начать разбирать лагерь."
 
 # ch/ayesha/date.rpy:1600
 translate russian ayesha_date_forest_male_2a4b1041:
-    "Мы мало говорим, пока нужно работать, но приятные чувства от прошлой ночи все еще остаются."
+    "Мы мало говорим, пока нужно работать, но приятные чувства от прошлой ночи всё ещё остаются."
 
 # ch/ayesha/date.rpy:1601
 translate russian ayesha_date_forest_male_e6e06d39:
@@ -6198,23 +6198,23 @@ translate russian ayesha_date_forest_male_e6e06d39:
 
 # ch/ayesha/date.rpy:1602
 translate russian ayesha_date_forest_male_db38227b:
-    "В общем, я не могу не думать о том, что Аиша надолго запомнит свою первую вылазку в поход."
+    "В общем, я не могу не думать о том, что Айша надолго запомнит свою первую вылазку в поход."
 
 # ch/ayesha/date.rpy:1609
 translate russian ayesha_date_aquarium_male_9bc10645:
-    "Я лишь вскользь упомянул Аише идею о том, чтобы сходить вместе в аквариум, просто перебирая возможные варианты свиданий."
+    "Я лишь вскользь упомянул Айше идею о том, чтобы сходить вместе в аквариум, просто перебирая возможные варианты свиданий."
 
 # ch/ayesha/date.rpy:1610
 translate russian ayesha_date_aquarium_male_ec867607:
-    "Но как только я произношу это слово, она кажется очень воодушевленной этой перспективой."
+    "Но как только я произношу это слово, она кажется очень воодушевлённой этой перспективой."
 
 # ch/ayesha/date.rpy:1611
 translate russian ayesha_date_aquarium_male_89272969:
-    "Поэтому, не желая отказываться от предложенного, я решаю воспользоваться возможностью и отвезти ее туда, куда она действительно хочет."
+    "Поэтому, не желая отказываться от предложенного, я решаю воспользоваться возможностью и отвезти её туда, куда она действительно хочет."
 
 # ch/ayesha/date.rpy:1612
 translate russian ayesha_date_aquarium_male_f13f7b8c:
-    mike.say "Так что, решено, Аиша?"
+    mike.say "Так что, решено, Айша?"
 
 # ch/ayesha/date.rpy:1613
 translate russian ayesha_date_aquarium_male_6acf86dd:
@@ -6226,7 +6226,7 @@ translate russian ayesha_date_aquarium_male_6a1a59eb:
 
 # ch/ayesha/date.rpy:1616
 translate russian ayesha_date_aquarium_male_243f2090:
-    "Аиша качает головой и начинает смеяться."
+    "Айша качает головой и начинает смеяться."
 
 # ch/ayesha/date.rpy:1618
 translate russian ayesha_date_aquarium_male_643fa2fc:
@@ -6246,7 +6246,7 @@ translate russian ayesha_date_aquarium_male_1f588598:
 
 # ch/ayesha/date.rpy:1624
 translate russian ayesha_date_aquarium_male_ea03e4cc:
-    mike.say "Аквариум, Аиша..."
+    mike.say "Аквариум, Айша..."
 
 # ch/ayesha/date.rpy:1625
 translate russian ayesha_date_aquarium_male_8ad5a7a9:
@@ -6254,7 +6254,7 @@ translate russian ayesha_date_aquarium_male_8ad5a7a9:
 
 # ch/ayesha/date.rpy:1627
 translate russian ayesha_date_aquarium_male_47314e43:
-    "Аиша снова смеется, явно наслаждаясь тем, что ей удалось меня так смутить."
+    "Айша снова смеётся, явно наслаждаясь тем, что ей удалось меня так смутить."
 
 # ch/ayesha/date.rpy:1629
 translate russian ayesha_date_aquarium_male_4e9b4816:
@@ -6266,11 +6266,11 @@ translate russian ayesha_date_aquarium_male_eecc1cd5:
 
 # ch/ayesha/date.rpy:1632
 translate russian ayesha_date_aquarium_male_f1f235db:
-    "По какой-то причине, сама мысль о том, что мы действительно идем на официальное свидание, вызывает у меня гораздо больше нервозности, чем следовало бы."
+    "По какой-то причине, сама мысль о том, что мы действительно идём на официальное свидание, вызывает у меня гораздо больше нервозности, чем следовало бы."
 
 # ch/ayesha/date.rpy:1633
 translate russian ayesha_date_aquarium_male_1a96b273:
-    "И это не связано с ее внешностью, которая, кстати, мне очень нравится."
+    "И это не связано с её внешностью, которая, кстати, мне очень нравится."
 
 # ch/ayesha/date.rpy:1634
 translate russian ayesha_date_aquarium_male_bffbc264:
@@ -6286,15 +6286,15 @@ translate russian ayesha_date_aquarium_male_b58f702b:
 
 # ch/ayesha/date.rpy:1642
 translate russian ayesha_date_aquarium_male_555909cf:
-    "Когда мы идем покупать билеты, Аиша берет меня за руку."
+    "Когда мы идём покупать билеты, Айша берет меня за руку."
 
 # ch/ayesha/date.rpy:1643
 translate russian ayesha_date_aquarium_male_767ff379:
-    "Она даже не спрашивает разрешения, и ее хватка, как обычно, крепкая."
+    "Она даже не спрашивает разрешения, и её хватка, как обычно, крепкая."
 
 # ch/ayesha/date.rpy:1644
 translate russian ayesha_date_aquarium_male_c1e13380:
-    "Мое сердце чуть не замирает от этого ощущения."
+    "Моё сердце чуть не замирает от этого ощущения."
 
 # ch/ayesha/date.rpy:1645
 translate russian ayesha_date_aquarium_male_8a80a887:
@@ -6334,7 +6334,7 @@ translate russian ayesha_date_aquarium_male_5e86083b:
 
 # ch/ayesha/date.rpy:1658
 translate russian ayesha_date_aquarium_male_256f61d3:
-    "Но я все равно могу различить очертания ее головы, когда она кивает в знак согласия."
+    "Но я всё равно могу различить очертания её головы, когда она кивает в знак согласия."
 
 # ch/ayesha/date.rpy:1660
 translate russian ayesha_date_aquarium_male_ad358892:
@@ -6350,11 +6350,11 @@ translate russian ayesha_date_aquarium_male_39fdd35a:
 
 # ch/ayesha/date.rpy:1666
 translate russian ayesha_date_aquarium_male_44d73734:
-    "И я вижу, что она смотрит прямо на меня, и на ее губах играет улыбка."
+    "И я вижу, что она смотрит прямо на меня, и на её губах играет улыбка."
 
 # ch/ayesha/date.rpy:1667
 translate russian ayesha_date_aquarium_male_5852d756:
-    "Странное, водное свечение от аквариума создает вокруг лица Айши неземную ауру."
+    "Странное, водное свечение от аквариума создаёт вокруг лица Айши неземную ауру."
 
 # ch/ayesha/date.rpy:1668
 translate russian ayesha_date_aquarium_male_63254c9a:
@@ -6378,7 +6378,7 @@ translate russian ayesha_date_aquarium_male_f58320cd:
 
 # ch/ayesha/date.rpy:1673
 translate russian ayesha_date_aquarium_male_8162ec23:
-    ayesha.say "Это Pterois volitans, более известная как \"рыба-лев\"."
+    ayesha.say "Это Pterois volitans, более известная как «рыба-лев»."
 
 # ch/ayesha/date.rpy:1674
 translate russian ayesha_date_aquarium_male_6ce5d8a9:
@@ -6390,7 +6390,7 @@ translate russian ayesha_date_aquarium_male_57834c9d:
 
 # ch/ayesha/date.rpy:1676
 translate russian ayesha_date_aquarium_male_c271f611:
-    "Айша улыбается моему недоверию, но все равно качает головой."
+    "Айша улыбается моему недоверию, но всё равно качает головой."
 
 # ch/ayesha/date.rpy:1678
 translate russian ayesha_date_aquarium_male_3f409a80:
@@ -6414,7 +6414,7 @@ translate russian ayesha_date_aquarium_male_37baa22a:
 
 # ch/ayesha/date.rpy:1686
 translate russian ayesha_date_aquarium_male_280a2c39:
-    "Но она, похоже, способна бросать вызов моей \"мужской гордости\"!"
+    "Но она, похоже, способна бросать вызов моей «мужской гордости»!"
 
 # ch/ayesha/date.rpy:1687
 translate russian ayesha_date_aquarium_male_d930addc:
@@ -6426,15 +6426,15 @@ translate russian ayesha_date_aquarium_male_28d9c5b4:
 
 # ch/ayesha/date.rpy:1689
 translate russian ayesha_date_aquarium_male_ae7ccb9d:
-    mike.say "Но я все равно думаю, что это было удачное предположение!"
+    mike.say "Но я всё равно думаю, что это было удачное предположение!"
 
 # ch/ayesha/date.rpy:1691
 translate russian ayesha_date_aquarium_male_814fb98a:
-    "Айша немного хмурится и слегка бьет меня по руке."
+    "Айша немного хмурится и слегка бьёт меня по руке."
 
 # ch/ayesha/date.rpy:1692
 translate russian ayesha_date_aquarium_male_a5a1108b:
-    "Ну, я думаю, она бьет меня так, как ей кажется, что это нежно."
+    "Ну, я думаю, она бьёт меня так, как ей кажется, что это нежно."
 
 # ch/ayesha/date.rpy:1693
 translate russian ayesha_date_aquarium_male_8d36f779:
@@ -6454,15 +6454,15 @@ translate russian ayesha_date_aquarium_male_74f6d0d8:
 
 # ch/ayesha/date.rpy:1699
 translate russian ayesha_date_aquarium_male_4fc08cf7:
-    mike.say "Я так и не имел в виду, Аиша."
+    mike.say "Я так и не имел в виду, Айша."
 
 # ch/ayesha/date.rpy:1701
 translate russian ayesha_date_aquarium_male_0d6ed72b:
-    "Я вижу, как ее нахмуренные брови немного разглаживаются от моих слов поддержки."
+    "Я вижу, как её нахмуренные брови немного разглаживаются от моих слов поддержки."
 
 # ch/ayesha/date.rpy:1702
 translate russian ayesha_date_aquarium_male_d0497777:
-    "Но все равно в ее глазах читается обида из-за того, что я только что сказал."
+    "Но всё равно в её глазах читается обида из-за того, что я только что сказал."
 
 # ch/ayesha/date.rpy:1703
 translate russian ayesha_date_aquarium_male_4e9b4816_1:
@@ -6474,7 +6474,7 @@ translate russian ayesha_date_aquarium_male_35922a46:
 
 # ch/ayesha/date.rpy:1706
 translate russian ayesha_date_aquarium_male_085f655b:
-    "Я киваю в знак согласия, очень желая забыть обо всем этом."
+    "Я киваю в знак согласия, очень желая забыть обо всём этом."
 
 # ch/ayesha/date.rpy:1708
 translate russian ayesha_date_aquarium_male_d9aea856:
@@ -6482,7 +6482,7 @@ translate russian ayesha_date_aquarium_male_d9aea856:
 
 # ch/ayesha/date.rpy:1709
 translate russian ayesha_date_aquarium_male_a5a1dd08:
-    "Единственное, что заставляет нас говорить – это указание на что-то особенно яркое или интересное."
+    "Единственное, что заставляет нас говорить — это указание на что-то особенно яркое или интересное."
 
 # ch/ayesha/date.rpy:1710
 translate russian ayesha_date_aquarium_male_a35e0106:
@@ -6490,11 +6490,11 @@ translate russian ayesha_date_aquarium_male_a35e0106:
 
 # ch/ayesha/date.rpy:1711
 translate russian ayesha_date_aquarium_male_b40920e5:
-    "К концу свидания я уже пообещал себе быть более внимательным к Аише в будущем."
+    "К концу свидания я уже пообещал себе быть более внимательным к Айше в будущем."
 
 # ch/ayesha/date.rpy:1712
 translate russian ayesha_date_aquarium_male_fe8fc083:
-    "И еще – мне нужно преодолеть свои собственные комплексы относительно того, что встречаюсь с неожиданно умной девушкой!"
+    "И ещё — мне нужно преодолеть свои собственные комплексы относительно того, что встречаюсь с неожиданно умной девушкой!"
 
 # ch/ayesha/date.rpy:1714
 translate russian ayesha_date_aquarium_male_e37b9cef:
@@ -6502,11 +6502,11 @@ translate russian ayesha_date_aquarium_male_e37b9cef:
 
 # ch/ayesha/date.rpy:1715
 translate russian ayesha_date_aquarium_male_55c038e6:
-    "Это кажется таким контрастом к образу, который она создает."
+    "Это кажется таким контрастом к образу, который она создаёт."
 
 # ch/ayesha/date.rpy:1716
 translate russian ayesha_date_aquarium_male_13d7d66b:
-    "Прекрасное откровение, которое показывает ее в совершенно новом свете."
+    "Прекрасное откровение, которое показывает её в совершенно новом свете."
 
 # ch/ayesha/date.rpy:1717
 translate russian ayesha_date_aquarium_male_4885d70e:
@@ -6514,7 +6514,7 @@ translate russian ayesha_date_aquarium_male_4885d70e:
 
 # ch/ayesha/date.rpy:1718
 translate russian ayesha_date_aquarium_male_06d8dd45:
-    "Схватив Аишу за руку, я почти тащу её от одного аквариума к другому."
+    "Схватив Айшу за руку, я почти тащу её от одного аквариума к другому."
 
 # ch/ayesha/date.rpy:1720
 translate russian ayesha_date_aquarium_male_352d76e9:
@@ -6542,11 +6542,11 @@ translate russian ayesha_date_aquarium_male_54d7ceee:
 
 # ch/ayesha/date.rpy:1727
 translate russian ayesha_date_aquarium_male_dd5eb68d:
-    "После того, как мне показалось, что этот процесс повторялся десятки раз, я могу только признать свое поражение."
+    "После того, как мне показалось, что этот процесс повторялся десятки раз, я могу только признать своё поражение."
 
 # ch/ayesha/date.rpy:1728
 translate russian ayesha_date_aquarium_male_74843cbc:
-    mike.say "Всё, Аиша."
+    mike.say "Всё, Айша."
 
 # ch/ayesha/date.rpy:1729
 translate russian ayesha_date_aquarium_male_1d57e7d6:
@@ -6554,15 +6554,15 @@ translate russian ayesha_date_aquarium_male_1d57e7d6:
 
 # ch/ayesha/date.rpy:1732
 translate russian ayesha_date_aquarium_male_02877ab9:
-    "Я не могу не видеть выражение удовлетворения на лице Аиши, когда она видит мое признание."
+    "Я не могу не видеть выражение удовлетворения на лице Айши, когда она видит моё признание."
 
 # ch/ayesha/date.rpy:1733
 translate russian ayesha_date_aquarium_male_3cd7aa5d:
-    "Но это не просто самодовольство победителя, в ее глазах есть что-то еще."
+    "Но это не просто самодовольство победителя, в её глазах есть что-то ещё."
 
 # ch/ayesha/date.rpy:1734
 translate russian ayesha_date_aquarium_male_62521393:
-    "Кажется, ей нравится то, как я на нее смотрю, она понимает, насколько она умна."
+    "Кажется, ей нравится то, как я на неё смотрю, она понимает, насколько она умна."
 
 # ch/ayesha/date.rpy:1735
 translate russian ayesha_date_aquarium_male_0bd78592:
@@ -6590,7 +6590,7 @@ translate russian ayesha_date_aquarium_male_59ed8248:
 
 # ch/ayesha/date.rpy:1743
 translate russian ayesha_date_aquarium_male_730c53f4:
-    "Внезапно я чувствую себя смущенным и немного виноватым из-за того, что только что сказал."
+    "Внезапно я чувствую себя смущённым и немного виноватым из-за того, что только что сказал."
 
 # ch/ayesha/date.rpy:1744
 translate russian ayesha_date_aquarium_male_cee221d6:
@@ -6626,7 +6626,7 @@ translate russian ayesha_date_aquarium_male_14c10343:
 
 # ch/ayesha/date.rpy:1754
 translate russian ayesha_date_aquarium_male_e573c880:
-    "Я чувствую, как Айша сжимает мою руку, напоминая мне, что она держала ее все это время."
+    "Я чувствую, как Айша сжимает мою руку, напоминая мне, что она держала её все это время."
 
 # ch/ayesha/date.rpy:1756
 translate russian ayesha_date_aquarium_male_2a9cffb4:
@@ -6642,7 +6642,7 @@ translate russian ayesha_date_aquarium_male_0d4bee3c:
 
 # ch/ayesha/date.rpy:1759
 translate russian ayesha_date_aquarium_male_0dae04ae:
-    "Хотя Айша охотно делится своими знаниями, мне тоже удается внести свой вклад."
+    "Хотя Айша охотно делится своими знаниями, мне тоже удаётся внести свой вклад."
 
 # ch/ayesha/date.rpy:1760
 translate russian ayesha_date_aquarium_male_07242581:
@@ -6650,7 +6650,7 @@ translate russian ayesha_date_aquarium_male_07242581:
 
 # ch/ayesha/date.rpy:1761
 translate russian ayesha_date_aquarium_male_34701a9d:
-    "А также заново оценил невероятный ум, который она хранит в своем удивительном теле..."
+    "А также заново оценил невероятный ум, который она хранит в своём удивительном теле..."
 
 # ch/ayesha/events.rpy:311
 translate russian ayesha_preg_talk_a1e57085:
@@ -6658,7 +6658,7 @@ translate russian ayesha_preg_talk_a1e57085:
 
 # ch/ayesha/events.rpy:312
 translate russian ayesha_preg_talk_1c291b49:
-    "Каждый раз, когда я звоню ей, она всегда слишком занята для разговора, или ее телефон сразу переводит на автоответчик, и я не получаю ответа."
+    "Каждый раз, когда я звоню ей, она всегда слишком занята для разговора, или её телефон сразу переводит на автоответчик, и я не получаю ответа."
 
 # ch/ayesha/events.rpy:313
 translate russian ayesha_preg_talk_b0c72da2:
@@ -6674,7 +6674,7 @@ translate russian ayesha_preg_talk_3be71d8b:
 
 # ch/ayesha/events.rpy:316
 translate russian ayesha_preg_talk_993c168b:
-    "Фактически, одного только ее голоса достаточно, чтобы я мгновенно забыл обо всех своих заботах."
+    "Фактически, одного только её голоса достаточно, чтобы я мгновенно забыл обо всех своих заботах."
 
 # ch/ayesha/events.rpy:317
 translate russian ayesha_preg_talk_31d6adb7:
@@ -6690,11 +6690,11 @@ translate russian ayesha_preg_talk_4f5ec3d9:
 
 # ch/ayesha/events.rpy:320
 translate russian ayesha_preg_talk_33c8575f:
-    "Ее странная реакция и дрожь в голосе меня искренне удивляют."
+    "Её странная реакция и дрожь в голосе меня искренне удивляют."
 
 # ch/ayesha/events.rpy:321
 translate russian ayesha_preg_talk_13e18a23:
-    "Обычно она такая уверенная в себе, но мое желание снова связаться с ней заставляет меня игнорировать все это."
+    "Обычно она такая уверенная в себе, но моё желание снова связаться с ней заставляет меня игнорировать все это."
 
 # ch/ayesha/events.rpy:322
 translate russian ayesha_preg_talk_cb580c27:
@@ -6718,7 +6718,7 @@ translate russian ayesha_preg_talk_186c193e:
 
 # ch/ayesha/events.rpy:327
 translate russian ayesha_preg_talk_0cb56f44:
-    "Но потом я слышу ее вздох, и она снова начинает говорить."
+    "Но потом я слышу её вздох, и она снова начинает говорить."
 
 # ch/ayesha/events.rpy:328
 translate russian ayesha_preg_talk_6288f756:
@@ -6742,7 +6742,7 @@ translate russian ayesha_preg_talk_1ad81e41:
 
 # ch/ayesha/events.rpy:333
 translate russian ayesha_preg_talk_9f9de6d7:
-    "И вот я оказываюсь в ожидании ее в назначенное время и месте."
+    "И вот я оказываюсь в ожидании её в назначенное время и месте."
 
 # ch/ayesha/events.rpy:334
 translate russian ayesha_preg_talk_0601e281:
@@ -6750,11 +6750,11 @@ translate russian ayesha_preg_talk_0601e281:
 
 # ch/ayesha/events.rpy:335
 translate russian ayesha_preg_talk_cb8b8279:
-    "Что означает, что странность ее слов наконец-то начинает меня беспокоить."
+    "Что означает, что странность её слов наконец-то начинает меня беспокоить."
 
 # ch/ayesha/events.rpy:336
 translate russian ayesha_preg_talk_b9f5b1dd:
-    "Но все же, когда она появляется, я чувствую, как мое сердце чуть не замирает."
+    "Но все же, когда она появляется, я чувствую, как моё сердце чуть не замирает."
 
 # ch/ayesha/events.rpy:337
 translate russian ayesha_preg_talk_cc18d9ab:
@@ -6770,7 +6770,7 @@ translate russian ayesha_preg_talk_7981cc18:
 
 # ch/ayesha/events.rpy:341
 translate russian ayesha_preg_talk_df1825e3:
-    "Она выглядит почти смущенной из-за того внимания, которое я ей уделяю, словно это нежелательно по какой-то причине."
+    "Она выглядит почти смущённой из-за того внимания, которое я ей уделяю, словно это нежелательно по какой-то причине."
 
 # ch/ayesha/events.rpy:342
 translate russian ayesha_preg_talk_2f794892:
@@ -6798,7 +6798,7 @@ translate russian ayesha_preg_talk_c6d698a5:
 
 # ch/ayesha/events.rpy:348
 translate russian ayesha_preg_talk_f1a90122:
-    ayesha.say "О, черт, [lssb_ayesha.hero_name()]."
+    ayesha.say "О, чёрт, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/events.rpy:349
 translate russian ayesha_preg_talk_a8c72c4d:
@@ -6874,7 +6874,7 @@ translate russian ayesha_preg_talk_5b4b655e:
 
 # ch/ayesha/events.rpy:371
 translate russian ayesha_preg_talk_64fd282b:
-    mike.say "Черт, Аyesha!"
+    mike.say "Чёрт, Аyesha!"
 
 # ch/ayesha/events.rpy:372
 translate russian ayesha_preg_talk_9889688c:
@@ -6910,11 +6910,11 @@ translate russian ayesha_preg_talk_28501f2c:
 
 # ch/ayesha/events.rpy:381
 translate russian ayesha_preg_talk_685f7c45:
-    mike.say "Ты права, Аиша."
+    mike.say "Ты права, Айша."
 
 # ch/ayesha/events.rpy:382
 translate russian ayesha_preg_talk_bbdb9f86:
-    mike.say "Я еще не готов стать отцом."
+    mike.say "Я ещё не готов стать отцом."
 
 # ch/ayesha/events.rpy:383
 translate russian ayesha_preg_talk_191b2a43:
@@ -6922,7 +6922,7 @@ translate russian ayesha_preg_talk_191b2a43:
 
 # ch/ayesha/events.rpy:384
 translate russian ayesha_preg_talk_1bbcae7a:
-    "В этот момент я вижу, как брови Аиши приподнимаются с любопытством."
+    "В этот момент я вижу, как брови Айши приподнимаются с любопытством."
 
 # ch/ayesha/events.rpy:385
 translate russian ayesha_preg_talk_bbe35c7b:
@@ -6934,7 +6934,7 @@ translate russian ayesha_preg_talk_f23afec3:
 
 # ch/ayesha/events.rpy:387
 translate russian ayesha_preg_talk_f1810820:
-    "Аиша грустно качает головой и выдыхает устало."
+    "Айша грустно качает головой и выдыхает устало."
 
 # ch/ayesha/events.rpy:388
 translate russian ayesha_preg_talk_77fd2ccf:
@@ -6942,7 +6942,7 @@ translate russian ayesha_preg_talk_77fd2ccf:
 
 # ch/ayesha/events.rpy:389
 translate russian ayesha_preg_talk_45b04afa:
-    "Я думаю, что ее печаль связана с тем, что она осознала, что я прав."
+    "Я думаю, что её печаль связана с тем, что она осознала, что я прав."
 
 # ch/ayesha/events.rpy:390
 translate russian ayesha_preg_talk_5e0adb05:
@@ -6966,7 +6966,7 @@ translate russian ayesha_preg_talk_7007649b:
 
 # ch/ayesha/events.rpy:399
 translate russian ayesha_preg_talk_6b067100:
-    "Аиша мгновенно приходит в ярость от этих слов, и я понимаю, что выбрал неудачную фразу."
+    "Айша мгновенно приходит в ярость от этих слов, и я понимаю, что выбрал неудачную фразу."
 
 # ch/ayesha/events.rpy:400
 translate russian ayesha_preg_talk_d24cd861:
@@ -6974,7 +6974,7 @@ translate russian ayesha_preg_talk_d24cd861:
 
 # ch/ayesha/events.rpy:401
 translate russian ayesha_preg_talk_81b7ee59:
-    ayesha.say "Мое тело, мой выбор!"
+    ayesha.say "Моё тело, мой выбор!"
 
 # ch/ayesha/events.rpy:402
 translate russian ayesha_preg_talk_7f5b4da7:
@@ -6994,7 +6994,7 @@ translate russian ayesha_preg_talk_551cd7db:
 
 # ch/ayesha/events.rpy:407
 translate russian ayesha_preg_talk_0e24b9b6:
-    "Это говорит мне о том, что все, что я скажу дальше, должно быть очень хорошо."
+    "Это говорит мне о том, что всё, что я скажу дальше, должно быть очень хорошо."
 
 # ch/ayesha/events.rpy:408
 translate russian ayesha_preg_talk_e7bfd644:
@@ -7010,11 +7010,11 @@ translate russian ayesha_preg_talk_3ee2d282:
 
 # ch/ayesha/events.rpy:411
 translate russian ayesha_preg_talk_cc99347c:
-    mike.say "Но я только что узнал о ребенке, которого мы оба помогли создать."
+    mike.say "Но я только что узнал о ребёнке, которого мы оба помогли создать."
 
 # ch/ayesha/events.rpy:412
 translate russian ayesha_preg_talk_7e557446:
-    mike.say "И когда я это услышал, мое сердце забилось быстрее!"
+    mike.say "И когда я это услышал, моё сердце забилось быстрее!"
 
 # ch/ayesha/events.rpy:414
 translate russian ayesha_preg_talk_50bb3c8a:
@@ -7042,7 +7042,7 @@ translate russian ayesha_preg_talk_49ec6f60:
 
 # ch/ayesha/events.rpy:421
 translate russian ayesha_preg_talk_f20b4f78:
-    ayesha.say "Ты видишь эти руки, которые держат маленького ребенка?"
+    ayesha.say "Ты видишь эти руки, которые держат маленького ребёнка?"
 
 # ch/ayesha/events.rpy:423
 translate russian ayesha_preg_talk_bea5b4c5:
@@ -7050,11 +7050,11 @@ translate russian ayesha_preg_talk_bea5b4c5:
 
 # ch/ayesha/events.rpy:424
 translate russian ayesha_preg_talk_c1e1aae6:
-    mike.say "Аиша, ты была бы отличной мамой."
+    mike.say "Айша, ты была бы отличной мамой."
 
 # ch/ayesha/events.rpy:425
 translate russian ayesha_preg_talk_c11e8f2e:
-    mike.say "И ребенок любил бы тебя больше всего на свете."
+    mike.say "И ребёнок любил бы тебя больше всего на свете."
 
 # ch/ayesha/events.rpy:427
 translate russian ayesha_preg_talk_5ffcb802:
@@ -7062,15 +7062,15 @@ translate russian ayesha_preg_talk_5ffcb802:
 
 # ch/ayesha/events.rpy:429
 translate russian ayesha_preg_talk_88870331:
-    mike.say "Потому что я уже так сильно люблю тебя, Аиша."
+    mike.say "Потому что я уже так сильно люблю тебя, Айша."
 
 # ch/ayesha/events.rpy:431
 translate russian ayesha_preg_talk_6e0c64da:
-    "Аиша не отвечает ни слова, а просто обнимает меня и прижимает к себе."
+    "Айша не отвечает ни слова, а просто обнимает меня и прижимает к себе."
 
 # ch/ayesha/events.rpy:432
 translate russian ayesha_preg_talk_dafecdad:
-    "Я отвечаю ей взаимностью, наслаждаясь ощущением ее тела, плотно прижатого к моему."
+    "Я отвечаю ей взаимностью, наслаждаясь ощущением её тела, плотно прижатого к моему."
 
 # ch/ayesha/events.rpy:433
 translate russian ayesha_preg_talk_aa074757:
@@ -7086,7 +7086,7 @@ translate russian ayesha_event_01_cf445657:
 
 # ch/ayesha/events.rpy:441
 translate russian ayesha_event_01_136a93df:
-    "Если это продолжится еще долго, я боюсь, что в конце концов брошу спортзал совсем, а потом кто знает, как я буду поддерживать себя в форме."
+    "Если это продолжится ещё долго, я боюсь, что в конце концов брошу спортзал совсем, а потом кто знает, как я буду поддерживать себя в форме."
 
 # ch/ayesha/events.rpy:442
 translate russian ayesha_event_01_e21c370b:
@@ -7102,7 +7102,7 @@ translate russian ayesha_event_01_cd952a0f:
 
 # ch/ayesha/events.rpy:445
 translate russian ayesha_event_01_4d251eb4:
-    "Ханна сказала мне, что мой новый тренер будет знать о моем приходе и будет ждать меня, когда я буду готов."
+    "Ханна сказала мне, что мой новый тренер будет знать о моём приходе и будет ждать меня, когда я буду готов."
 
 # ch/ayesha/events.rpy:446
 translate russian ayesha_event_01_41e1dd04:
@@ -7122,11 +7122,11 @@ translate russian ayesha_event_01_272f3798:
 
 # ch/ayesha/events.rpy:453
 translate russian ayesha_event_01_56de30a7:
-    "Я оглядываю Айшу, больше удивленный, чем напуганный тем, что она назвала меня так уже второй раз."
+    "Я оглядываю Айшу, больше удивлённый, чем напуганный тем, что она назвала меня так уже второй раз."
 
 # ch/ayesha/events.rpy:454
 translate russian ayesha_event_01_59b57137:
-    "В этот раз в ее голосе слышится что-то другое – более шутливое и знакомое."
+    "В этот раз в её голосе слышится что-то другое — более шутливое и знакомое."
 
 # ch/ayesha/events.rpy:455
 translate russian ayesha_event_01_05918ed9:
@@ -7138,7 +7138,7 @@ translate russian ayesha_event_01_5ce8eea8:
 
 # ch/ayesha/events.rpy:457
 translate russian ayesha_event_01_62b9f6a9:
-    "Я неуверенно указываю на ближайшее оборудование в тренажерном зале, все еще гадая, почему ее так волнует то, чем я занимаюсь."
+    "Я неуверенно указываю на ближайшее оборудование в тренажерном зале, всё ещё гадая, почему её так волнует то, чем я занимаюсь."
 
 # ch/ayesha/events.rpy:459
 translate russian ayesha_event_01_a2a71530:
@@ -7194,7 +7194,7 @@ translate russian ayesha_event_01_daecb5c8:
 
 # ch/ayesha/events.rpy:474
 translate russian ayesha_event_01_d8159c58:
-    "Мне едва удается не сказать ничего о том, что англичан можно использовать для приготовления хлеба..."
+    "Мне едва удаётся не сказать ничего о том, что англичан можно использовать для приготовления хлеба..."
 
 # ch/ayesha/events.rpy:475
 translate russian ayesha_event_01_84f114dd:
@@ -7206,7 +7206,7 @@ translate russian ayesha_event_01_c2e7e95f:
 
 # ch/ayesha/events.rpy:479
 translate russian ayesha_event_01_9928a63d:
-    "Она смеется так, что это напоминает мне викингов в фильмах, положив руки на бедра."
+    "Она смеётся так, что это напоминает мне викингов в фильмах, положив руки на бедра."
 
 # ch/ayesha/events.rpy:480
 translate russian ayesha_event_01_eb82e341:
@@ -7218,11 +7218,11 @@ translate russian ayesha_event_01_22e85725:
 
 # ch/ayesha/events.rpy:483
 translate russian ayesha_event_01_21bf59bb:
-    "Я киваю, пытаясь смеяться вместе с этой амазонкой, пока она рассказывает мне о том, что меня ждет."
+    "Я киваю, пытаясь смеяться вместе с этой амазонкой, пока она рассказывает мне о том, что меня ждёт."
 
 # ch/ayesha/events.rpy:484
 translate russian ayesha_event_01_f5067f35:
-    "Но ее описание тренировки и логика, лежащая в основе этой тренировки, как-то ускользают от меня."
+    "Но её описание тренировки и логика, лежащая в основе этой тренировки, как-то ускользают от меня."
 
 # ch/ayesha/events.rpy:485
 translate russian ayesha_event_01_97d834c6:
@@ -7234,15 +7234,15 @@ translate russian ayesha_event_01_2c823bf3:
 
 # ch/ayesha/events.rpy:487
 translate russian ayesha_event_01_41909b22:
-    "Иногда мне кажется, что она была бы не против добавления плетки к инструментам, которые у нее есть."
+    "Иногда мне кажется, что она была бы не против добавления плетки к инструментам, которые у неё есть."
 
 # ch/ayesha/events.rpy:488
 translate russian ayesha_event_01_e545d98d:
-    "Но эта мысль порождает тревожные образы, и поэтому я быстро отгоняю ее и сосредотачиваюсь на том, чтобы не умереть."
+    "Но эта мысль порождает тревожные образы, и поэтому я быстро отгоняю её и сосредотачиваюсь на том, чтобы не умереть."
 
 # ch/ayesha/events.rpy:489
 translate russian ayesha_event_01_9ea89a0a:
-    "Однако, есть одна вещь, которая постоянно привлекает мое внимание во время тренировки."
+    "Однако, есть одна вещь, которая постоянно привлекает моё внимание во время тренировки."
 
 # ch/ayesha/events.rpy:490
 translate russian ayesha_event_01_a1029c1b:
@@ -7250,11 +7250,11 @@ translate russian ayesha_event_01_a1029c1b:
 
 # ch/ayesha/events.rpy:491
 translate russian ayesha_event_01_da79b103:
-    "Она двигается как машина, покрытая тонкой пленкой пота."
+    "Она двигается как машина, покрытая тонкой плёнкой пота."
 
 # ch/ayesha/events.rpy:492
 translate russian ayesha_event_01_4371c5b5:
-    "Но при этом в ней есть определенная и неоспоримая красота."
+    "Но при этом в ней есть определённая и неоспоримая красота."
 
 # ch/ayesha/events.rpy:493
 translate russian ayesha_event_01_63b76018:
@@ -7266,7 +7266,7 @@ translate russian ayesha_event_01_c8ae3b4f:
 
 # ch/ayesha/events.rpy:495
 translate russian ayesha_event_01_9d4a39a5:
-    "Может быть, комплимент поможет мне расположить ее к себе или даже узнать ее чуть лучше?"
+    "Может быть, комплимент поможет мне расположить её к себе или даже узнать её чуть лучше?"
 
 # ch/ayesha/events.rpy:498
 translate russian ayesha_event_01_8ae39913:
@@ -7278,7 +7278,7 @@ translate russian ayesha_event_01_dfd16d6a:
 
 # ch/ayesha/events.rpy:500
 translate russian ayesha_event_01_390eeb2f:
-    "Айша приподнимает бровь, но улыбка на ее лице остается сдержанной."
+    "Айша приподнимает бровь, но улыбка на её лице остаётся сдержанной."
 
 # ch/ayesha/events.rpy:502
 translate russian ayesha_event_01_26f27b6e:
@@ -7290,7 +7290,7 @@ translate russian ayesha_event_01_0dcc8511:
 
 # ch/ayesha/events.rpy:505
 translate russian ayesha_event_01_275da1c4:
-    ayesha.say "Но ты только что немного этого попробовал, так что ты понимаешь, о чем я говорю!"
+    ayesha.say "Но ты только что немного этого попробовал, так что ты понимаешь, о чём я говорю!"
 
 # ch/ayesha/events.rpy:506
 translate russian ayesha_event_01_8a0eeb0d:
@@ -7306,7 +7306,7 @@ translate russian ayesha_event_01_831effbd:
 
 # ch/ayesha/events.rpy:509
 translate russian ayesha_event_01_bbe2398b:
-    "Аиша кивает в знак одобрения."
+    "Айша кивает в знак одобрения."
 
 # ch/ayesha/events.rpy:510
 translate russian ayesha_event_01_f0a5b582:
@@ -7318,7 +7318,7 @@ translate russian ayesha_event_01_84813cdf:
 
 # ch/ayesha/events.rpy:513
 translate russian ayesha_event_01_49b1b3b9:
-    "Я смеюсь, и Аиша присоединяется ко мне, ее улыбка становится более искренней."
+    "Я смеюсь, и Айша присоединяется ко мне, её улыбка становится более искренней."
 
 # ch/ayesha/events.rpy:514
 translate russian ayesha_event_01_014a8102:
@@ -7326,11 +7326,11 @@ translate russian ayesha_event_01_014a8102:
 
 # ch/ayesha/events.rpy:515
 translate russian ayesha_event_01_c6dbcb78:
-    "И только что мне пообещали, что еще будет хуже."
+    "И только что мне пообещали, что ещё будет хуже."
 
 # ch/ayesha/events.rpy:516
 translate russian ayesha_event_01_661aa994:
-    "Но, по крайней мере, у меня появилось ощущение, что я разрушил некоторые барьеры между Аишей и мной."
+    "Но, по крайней мере, у меня появилось ощущение, что я разрушил некоторые барьеры между Айшей и мной."
 
 # ch/ayesha/events.rpy:517
 translate russian ayesha_event_01_46dbf234:
@@ -7350,7 +7350,7 @@ translate russian ayesha_event_01_215cdba3:
 
 # ch/ayesha/events.rpy:524
 translate russian ayesha_event_01_501c3b42:
-    "В этот момент я вижу, как глаза Аиши расширяются, а ее рот приоткрывается от удивления."
+    "В этот момент я вижу, как глаза Айши расширяются, а её рот приоткрывается от удивления."
 
 # ch/ayesha/events.rpy:525
 translate russian ayesha_event_01_cce7eff5:
@@ -7366,7 +7366,7 @@ translate russian ayesha_event_01_23e94450:
 
 # ch/ayesha/events.rpy:529
 translate russian ayesha_event_01_f7acfde7:
-    "Аиша качает головой, ее глаза остаются широко раскрытыми, и пытается что-то сказать в ответ."
+    "Айша качает головой, её глаза остаются широко раскрытыми, и пытается что-то сказать в ответ."
 
 # ch/ayesha/events.rpy:530
 translate russian ayesha_event_01_38a22edb:
@@ -7390,11 +7390,11 @@ translate russian ayesha_event_01_82eadba3:
 
 # ch/ayesha/events.rpy:535
 translate russian ayesha_event_01_3a261b00:
-    mike.say "Почему это, Аиша?"
+    mike.say "Почему это, Айша?"
 
 # ch/ayesha/events.rpy:537
 translate russian ayesha_event_01_abff276f:
-    "В ее глазах видна какая-то боль, когда она отвечает."
+    "В её глазах видна какая-то боль, когда она отвечает."
 
 # ch/ayesha/events.rpy:538
 translate russian ayesha_event_01_ab91850e:
@@ -7406,15 +7406,15 @@ translate russian ayesha_event_01_6ad94948:
 
 # ch/ayesha/events.rpy:540
 translate russian ayesha_event_01_2fd34bf2:
-    "И все же они звучат так искренне и честно, как все, что я слышал от нее раньше."
+    "И все же они звучат так искренне и честно, как всё, что я слышал от неё раньше."
 
 # ch/ayesha/events.rpy:541
 translate russian ayesha_event_01_b4c777f2:
-    "Я хочу сказать что-то полезное, чтобы поддержать ее."
+    "Я хочу сказать что-то полезное, чтобы поддержать её."
 
 # ch/ayesha/events.rpy:542
 translate russian ayesha_event_01_22963c43:
-    "Но когда Аиша замечает, что я тяну к ней руку, ее настроение мгновенно меняется."
+    "Но когда Айша замечает, что я тяну к ней руку, её настроение мгновенно меняется."
 
 # ch/ayesha/events.rpy:544
 translate russian ayesha_event_01_d61c5738:
@@ -7426,7 +7426,7 @@ translate russian ayesha_event_01_5e2528f6:
 
 # ch/ayesha/events.rpy:546
 translate russian ayesha_event_01_b1a71916:
-    "Я улыбаюсь в ответ, пытаясь поддержать ее попытки скрыть предыдущие проявления эмоций и слабости."
+    "Я улыбаюсь в ответ, пытаясь поддержать её попытки скрыть предыдущие проявления эмоций и слабости."
 
 # ch/ayesha/events.rpy:547
 translate russian ayesha_event_01_daf614e2:
@@ -7438,7 +7438,7 @@ translate russian ayesha_event_01_f45a049b:
 
 # ch/ayesha/events.rpy:549
 translate russian ayesha_event_01_e7f5236b:
-    "По крайней мере, кажется, что Аyesha – это человек со скрытыми, неизведанными глубинами, которые мне еще предстоит открыть."
+    "По крайней мере, кажется, что Аyesha — это человек со скрытыми, неизведанными глубинами, которые мне ещё предстоит открыть."
 
 # ch/ayesha/events.rpy:555
 translate russian ayesha_event_02_40fe5b9d:
@@ -7466,7 +7466,7 @@ translate russian ayesha_event_02_ef5a48f3:
 
 # ch/ayesha/events.rpy:562
 translate russian ayesha_event_02_96d58dd0:
-    "Проблема в том, что человек, которому они кричат, и который находится на той же стороне улицы, что и я, – это ни кто иной, как Аyesha."
+    "Проблема в том, что человек, которому они кричат, и который находится на той же стороне улицы, что и я, — это ни кто иной, как Аyesha."
 
 # ch/ayesha/events.rpy:563
 translate russian ayesha_event_02_c6285600:
@@ -7490,11 +7490,11 @@ translate russian ayesha_event_02_9ba3a066:
 
 # ch/ayesha/events.rpy:568
 translate russian ayesha_event_02_0b583717:
-    "Но она все равно болезненно реагирует на каждую обиду, почти как будто это физический удар."
+    "Но она всё равно болезненно реагирует на каждую обиду, почти как будто это физический удар."
 
 # ch/ayesha/events.rpy:569
 translate russian ayesha_event_02_2affd3f7:
-    "Как я уже сказал, обычно я просто бы прошел мимо."
+    "Как я уже сказал, обычно я просто бы прошёл мимо."
 
 # ch/ayesha/events.rpy:570
 translate russian ayesha_event_02_9e47c12e:
@@ -7502,7 +7502,7 @@ translate russian ayesha_event_02_9e47c12e:
 
 # ch/ayesha/events.rpy:573
 translate russian ayesha_event_02_c9d4b8b4:
-    "Думаю, ответ – да, я мог бы."
+    "Думаю, ответ — да, я мог бы."
 
 # ch/ayesha/events.rpy:574
 translate russian ayesha_event_02_7716fb2a:
@@ -7522,7 +7522,7 @@ translate russian ayesha_event_02_c2fdf019:
 
 # ch/ayesha/events.rpy:578
 translate russian ayesha_event_02_0ca11173:
-    "Или просто покачает головой с отвращением и уйдет от этих парней, сохранив свое достоинство."
+    "Или просто покачает головой с отвращением и уйдёт от этих парней, сохранив своё достоинство."
 
 # ch/ayesha/events.rpy:580
 translate russian ayesha_event_02_05b5c1f7:
@@ -7530,7 +7530,7 @@ translate russian ayesha_event_02_05b5c1f7:
 
 # ch/ayesha/events.rpy:581
 translate russian ayesha_event_02_f3f5c907:
-    "И с каждым новым оскорблением от парней через дорогу, Айша все больше сутулится."
+    "И с каждым новым оскорблением от парней через дорогу, Айша всё больше сутулится."
 
 # ch/ayesha/events.rpy:582
 translate russian ayesha_event_02_62ee4e9d:
@@ -7546,11 +7546,11 @@ translate russian ayesha_event_02_43a8114b:
 
 # ch/ayesha/events.rpy:585
 translate russian ayesha_event_02_70e93060:
-    "Поэтому все, что я могу сделать, это покачать головой и продолжать идти."
+    "Поэтому всё, что я могу сделать, это покачать головой и продолжать идти."
 
 # ch/ayesha/events.rpy:590
 translate russian ayesha_event_02_f6632937:
-    "Это довольно странно – видеть, как кто-то такой уверенный и дерзкий на ринге реагирует именно так."
+    "Это довольно странно — видеть, как кто-то такой уверенный и дерзкий на ринге реагирует именно так."
 
 # ch/ayesha/events.rpy:591
 translate russian ayesha_event_02_0662e49a:
@@ -7558,11 +7558,11 @@ translate russian ayesha_event_02_0662e49a:
 
 # ch/ayesha/events.rpy:592
 translate russian ayesha_event_02_9799ef2f:
-    "И сейчас Айше просто нужно, чтобы кто-то вмешался, как это сделал бы ее напарник на ринге!"
+    "И сейчас Айше просто нужно, чтобы кто-то вмешался, как это сделал бы её напарник на ринге!"
 
 # ch/ayesha/events.rpy:593
 translate russian ayesha_event_02_a66e9d10:
-    "Поэтому я не раздумываю ни секунды и подхожу к ней, давая всем понять, что я на ее стороне."
+    "Поэтому я не раздумываю ни секунды и подхожу к ней, давая всем понять, что я на её стороне."
 
 # ch/ayesha/events.rpy:594
 translate russian ayesha_event_02_2d807991:
@@ -7582,7 +7582,7 @@ translate russian ayesha_event_02_d5e84940:
 
 # ch/ayesha/events.rpy:600
 translate russian ayesha_event_02_80143dc0:
-    "Но вскоре выражение ее лица меняется на облегчение, когда она понимает, что я здесь, чтобы помочь."
+    "Но вскоре выражение её лица меняется на облегчение, когда она понимает, что я здесь, чтобы помочь."
 
 # ch/ayesha/events.rpy:601
 translate russian ayesha_event_02_b9591929:
@@ -7598,7 +7598,7 @@ translate russian ayesha_event_02_8c297cf9:
 
 # ch/ayesha/events.rpy:605
 translate russian ayesha_event_02_5f98e7f0:
-    "Внезапно осознав, что шансы выровнялись, они отчаянно пытаются восстановить свое прежнее доминирование."
+    "Внезапно осознав, что шансы выровнялись, они отчаянно пытаются восстановить своё прежнее доминирование."
 
 # ch/ayesha/events.rpy:606
 translate russian ayesha_event_02_8978e785:
@@ -7610,7 +7610,7 @@ translate russian ayesha_event_02_c31fa9b1:
 
 # ch/ayesha/events.rpy:608
 translate russian ayesha_event_02_2090fc1c:
-    "Я поднимаю бровь, сначала смотрю на Айшу, а затем на ее обидчиков."
+    "Я поднимаю бровь, сначала смотрю на Айшу, а затем на её обидчиков."
 
 # ch/ayesha/events.rpy:609
 translate russian ayesha_event_02_d1bc175d:
@@ -7630,7 +7630,7 @@ translate russian ayesha_event_02_0561c5e8:
 
 # ch/ayesha/events.rpy:613
 translate russian ayesha_event_02_b0074cc9:
-    mike.say "Потому что я уверен, что могу вам двоим нанести серьезный вред."
+    mike.say "Потому что я уверен, что могу вам двоим нанести серьёзный вред."
 
 # ch/ayesha/events.rpy:614
 translate russian ayesha_event_02_bdcf36b7:
@@ -7662,7 +7662,7 @@ translate russian ayesha_event_02_db4bed1a:
 
 # ch/ayesha/events.rpy:621
 translate russian ayesha_event_02_1ec22acb:
-    "До них, кажется, наконец дошло, что драться с совершенно незнакомым человеком ради женщины – плохая идея."
+    "До них, кажется, наконец дошло, что драться с совершенно незнакомым человеком ради женщины — плохая идея."
 
 # ch/ayesha/events.rpy:622
 translate russian ayesha_event_02_a449058c:
@@ -7694,11 +7694,11 @@ translate russian ayesha_event_02_680b468d:
 
 # ch/ayesha/events.rpy:632
 translate russian ayesha_event_02_78096516:
-    "Айша улыбается, явно смущенная моей демонстрацией преданности ей."
+    "Айша улыбается, явно смущённая моей демонстрацией преданности ей."
 
 # ch/ayesha/events.rpy:633
 translate russian ayesha_event_02_e9de0a95:
-    "Но потом она смотрит мне в глаза, и в ее голосе снова появляется нервозность."
+    "Но потом она смотрит мне в глаза, и в её голосе снова появляется нервозность."
 
 # ch/ayesha/events.rpy:634
 translate russian ayesha_event_02_88f1fc4c:
@@ -7714,7 +7714,7 @@ translate russian ayesha_event_02_3d8983fe:
 
 # ch/ayesha/events.rpy:637
 translate russian ayesha_event_02_2a6d944c:
-    "И это изменение на ее лице вызывает у меня странное, теплое чувство в груди."
+    "И это изменение на её лице вызывает у меня странное, тёплое чувство в груди."
 
 # ch/ayesha/events.rpy:647
 translate russian ayesha_event_03b_20f0c62a:
@@ -7730,11 +7730,11 @@ translate russian ayesha_event_03b_ef3b8ce9:
 
 # ch/ayesha/events.rpy:650
 translate russian ayesha_event_03b_82f0f8b7:
-    "И мне очень приятно, что рука Айши все время была зацеплена за мою."
+    "И мне очень приятно, что рука Айши всё время была зацеплена за мою."
 
 # ch/ayesha/events.rpy:651
 translate russian ayesha_event_03b_32e9400b:
-    "Мы просто болтаем, разговариваем обо всем и ни о чем конкретном."
+    "Мы просто болтаем, разговариваем обо всём и ни о чём конкретном."
 
 # ch/ayesha/events.rpy:652
 translate russian ayesha_event_03b_94cac55d:
@@ -7746,7 +7746,7 @@ translate russian ayesha_event_03b_23939f7c:
 
 # ch/ayesha/events.rpy:654
 translate russian ayesha_event_03b_2d807991:
-    mike.say "Привет, Аиша."
+    mike.say "Привет, Айша."
 
 # ch/ayesha/events.rpy:655
 translate russian ayesha_event_03b_bb9d608a:
@@ -7754,15 +7754,15 @@ translate russian ayesha_event_03b_bb9d608a:
 
 # ch/ayesha/events.rpy:656
 translate russian ayesha_event_03b_8ee1a914:
-    "Кажется, Аиша хочет просто идти дальше."
+    "Кажется, Айша хочет просто идти дальше."
 
 # ch/ayesha/events.rpy:657
 translate russian ayesha_event_03b_6b8957a4:
-    "Но она все равно идет мне навстречу, останавливается и смотрит на ворота."
+    "Но она всё равно идёт мне навстречу, останавливается и смотрит на ворота."
 
 # ch/ayesha/events.rpy:659
 translate russian ayesha_event_03b_b0f877f4:
-    ayesha.say "Я... я не уверена насчет этого, [lssb_ayesha.hero_name()]."
+    ayesha.say "Я... я не уверена насчёт этого, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/events.rpy:660
 translate russian ayesha_event_03b_144b46b6:
@@ -7774,11 +7774,11 @@ translate russian ayesha_event_03b_28eefe73:
 
 # ch/ayesha/events.rpy:664
 translate russian ayesha_event_03b_fbafe994:
-    "Я качаю головой, отмахиваясь от опасений Аиши."
+    "Я качаю головой, отмахиваясь от опасений Айши."
 
 # ch/ayesha/events.rpy:665
 translate russian ayesha_event_03b_0dd104aa:
-    mike.say "Не волнуйся, Аиша."
+    mike.say "Не волнуйся, Айша."
 
 # ch/ayesha/events.rpy:666
 translate russian ayesha_event_03b_a1219800:
@@ -7790,7 +7790,7 @@ translate russian ayesha_event_03b_6c83b814:
 
 # ch/ayesha/events.rpy:668
 translate russian ayesha_event_03b_05601d11:
-    "И, не желая отпускать меня, Аиша вынуждена идти следом."
+    "И, не желая отпускать меня, Айша вынуждена идти следом."
 
 # ch/ayesha/events.rpy:669
 translate russian ayesha_event_03b_f18ba3e8:
@@ -7802,11 +7802,11 @@ translate russian ayesha_event_03b_65bbcb1e:
 
 # ch/ayesha/events.rpy:673
 translate russian ayesha_event_03b_0ee92170:
-    "Идя между надгробиями, я вижу, что Аиша все еще нервничает."
+    "Идя между надгробиями, я вижу, что Айша всё ещё нервничает."
 
 # ch/ayesha/events.rpy:674
 translate russian ayesha_event_03b_6d1ef03c:
-    "Она качает головой, но все равно идет за мной."
+    "Она качает головой, но всё равно идёт за мной."
 
 # ch/ayesha/events.rpy:675
 translate russian ayesha_event_03b_119a789e:
@@ -7818,7 +7818,7 @@ translate russian ayesha_event_03b_defa6b5f:
 
 # ch/ayesha/events.rpy:677
 translate russian ayesha_event_03b_74e8d35d:
-    mike.say "Аиша..."
+    mike.say "Айша..."
 
 # ch/ayesha/events.rpy:678
 translate russian ayesha_event_03b_fd330c6d:
@@ -7830,7 +7830,7 @@ translate russian ayesha_event_03b_de82fc0d:
 
 # ch/ayesha/events.rpy:680
 translate russian ayesha_event_03b_1162dcde:
-    "Теперь я вижу на лице Аиши и смущение, и страх."
+    "Теперь я вижу на лице Айши и смущение, и страх."
 
 # ch/ayesha/events.rpy:681
 translate russian ayesha_event_03b_d0774064:
@@ -7842,7 +7842,7 @@ translate russian ayesha_event_03b_0eb2f21c:
 
 # ch/ayesha/events.rpy:683
 translate russian ayesha_event_03b_773fa98d:
-    "Я начинаю смеяться, собираясь подшутить над Аишей."
+    "Я начинаю смеяться, собираясь подшутить над Айшей."
 
 # ch/ayesha/events.rpy:684
 translate russian ayesha_event_03b_b04f8c63:
@@ -7866,7 +7866,7 @@ translate russian ayesha_event_03b_c4c7e150:
 
 # ch/ayesha/events.rpy:692
 translate russian ayesha_event_03b_824c8986:
-    "Мне нравится, как неожиданный звук заставляет Аишу прижаться ко мне."
+    "Мне нравится, как неожиданный звук заставляет Айшу прижаться ко мне."
 
 # ch/ayesha/events.rpy:693
 translate russian ayesha_event_03b_776687b7:
@@ -7878,7 +7878,7 @@ translate russian ayesha_event_03b_67d5b96e:
 
 # ch/ayesha/events.rpy:695
 translate russian ayesha_event_03b_74fa1aa3:
-    mike.say "Я... я не знаю, Аиша."
+    mike.say "Я... я не знаю, Айша."
 
 # ch/ayesha/events.rpy:696
 translate russian ayesha_event_03b_5eae37c8:
@@ -7886,7 +7886,7 @@ translate russian ayesha_event_03b_5eae37c8:
 
 # ch/ayesha/events.rpy:698
 translate russian ayesha_event_03b_6b1c7522:
-    "Почти волоча Аишу за собой, я иду в направлении звука."
+    "Почти волоча Айшу за собой, я иду в направлении звука."
 
 # ch/ayesha/events.rpy:699
 translate russian ayesha_event_03b_e6de8717:
@@ -7898,11 +7898,11 @@ translate russian ayesha_event_03b_ba0444de:
 
 # ch/ayesha/events.rpy:701
 translate russian ayesha_event_03b_4da711bc:
-    "Приложив палец к губам, я жестом показываю Аише, чтобы она замолчала."
+    "Приложив палец к губам, я жестом показываю Айше, чтобы она замолчала."
 
 # ch/ayesha/events.rpy:702
 translate russian ayesha_event_03b_749aea1f:
-    "Затем я наклоняюсь в дверном проеме и использую фонарик на своем телефоне, чтобы посмотреть внутрь."
+    "Затем я наклоняюсь в дверном проёме и использую фонарик на своём телефоне, чтобы посмотреть внутрь."
 
 # ch/ayesha/events.rpy:703
 translate russian ayesha_event_03b_80bd077b:
@@ -7942,7 +7942,7 @@ translate russian ayesha_event_03b_057b230e:
 
 # ch/ayesha/events.rpy:719
 translate russian ayesha_event_03b_6a3f677f:
-    mike.say "Черт побери, Айша!"
+    mike.say "Чёрт побери, Айша!"
 
 # ch/ayesha/events.rpy:720
 translate russian ayesha_event_03b_92e6e817:
@@ -7978,7 +7978,7 @@ translate russian ayesha_event_03b_40e3a0ec:
 
 # ch/ayesha/events.rpy:732
 translate russian ayesha_event_03b_2a4aa7c9:
-    "Теперь я вижу, что вторая фигура – это готическая девушка."
+    "Теперь я вижу, что вторая фигура — это готическая девушка."
 
 # ch/ayesha/events.rpy:733
 translate russian ayesha_event_03b_3d75fde9:
@@ -8050,7 +8050,7 @@ translate russian ayesha_event_03b_acb01313:
 
 # ch/ayesha/events.rpy:751
 translate russian ayesha_event_03b_9a9c6693:
-    mike.say "Может быть, мы еще увидимся?"
+    mike.say "Может быть, мы ещё увидимся?"
 
 # ch/ayesha/events.rpy:752
 translate russian ayesha_event_03b_e530476f:
@@ -8062,7 +8062,7 @@ translate russian ayesha_event_03b_16bfe58b:
 
 # ch/ayesha/events.rpy:754
 translate russian ayesha_event_03b_a66b7206:
-    "Что позволяет мне впервые внимательно рассмотреть ее."
+    "Что позволяет мне впервые внимательно рассмотреть её."
 
 # ch/ayesha/events.rpy:755
 translate russian ayesha_event_03b_85fb3ece:
@@ -8070,11 +8070,11 @@ translate russian ayesha_event_03b_85fb3ece:
 
 # ch/ayesha/events.rpy:756
 translate russian ayesha_event_03b_be0a32eb:
-    "Готический стиль только подчеркивает ее загадочность."
+    "Готический стиль только подчёркивает её загадочность."
 
 # ch/ayesha/events.rpy:757
 translate russian ayesha_event_03b_c3a5cabc:
-    "Она улыбается, явно понимая, что я на нее смотрю, и ей это, похоже, нравится!"
+    "Она улыбается, явно понимая, что я на неё смотрю, и ей это, похоже, нравится!"
 
 # ch/ayesha/events.rpy:758
 translate russian ayesha_event_03b_15435ea5:
@@ -8094,7 +8094,7 @@ translate russian ayesha_event_03b_dfa94857:
 
 # ch/ayesha/events.rpy:766
 translate russian ayesha_event_03b_a756c6a1:
-    "Я еще раз окидываю взглядом ворота."
+    "Я ещё раз окидываю взглядом ворота."
 
 # ch/ayesha/events.rpy:767
 translate russian ayesha_event_03b_efdffc66:
@@ -8122,7 +8122,7 @@ translate russian ayesha_event_03b_2d5294f5:
 
 # ch/ayesha/events.rpy:773
 translate russian ayesha_event_03b_220e5f57:
-    "Айша сразу же выглядит облегченной из-за этого."
+    "Айша сразу же выглядит облегчённой из-за этого."
 
 # ch/ayesha/events.rpy:774
 translate russian ayesha_event_03b_e04a88ae:
@@ -8142,7 +8142,7 @@ translate russian ayesha_event_03_006d5f1d:
 
 # ch/ayesha/events.rpy:785
 translate russian ayesha_event_03_3e6f3a5b:
-    mike.say "Привет, Аиша."
+    mike.say "Привет, Айша."
 
 # ch/ayesha/events.rpy:786
 translate russian ayesha_event_03_3c2a5cfe:
@@ -8170,7 +8170,7 @@ translate russian ayesha_event_03_e8066ace:
 
 # ch/ayesha/events.rpy:792
 translate russian ayesha_event_03_b744adc1:
-    "И я почти слышу, как Аиша мучается этим вопросом."
+    "И я почти слышу, как Айша мучается этим вопросом."
 
 # ch/ayesha/events.rpy:793
 translate russian ayesha_event_03_efe710b8:
@@ -8178,7 +8178,7 @@ translate russian ayesha_event_03_efe710b8:
 
 # ch/ayesha/events.rpy:794
 translate russian ayesha_event_03_a2807866:
-    mike.say "Отлично, Аиша."
+    mike.say "Отлично, Айша."
 
 # ch/ayesha/events.rpy:795
 translate russian ayesha_event_03_81725e57:
@@ -8186,19 +8186,19 @@ translate russian ayesha_event_03_81725e57:
 
 # ch/ayesha/events.rpy:796
 translate russian ayesha_event_03_c57936fb:
-    "Когда я кладу телефон и собираю свои вещи, я все еще не понимаю, почему Аиша так колебалась."
+    "Когда я кладу телефон и собираю свои вещи, я всё ещё не понимаю, почему Айша так колебалась."
 
 # ch/ayesha/events.rpy:797
 translate russian ayesha_event_03_df6b9262:
-    "Эта мысль продолжает меня беспокоить, пока я жду ее прибытия на парковку через некоторое время."
+    "Эта мысль продолжает меня беспокоить, пока я жду её прибытия на парковку через некоторое время."
 
 # ch/ayesha/events.rpy:798
 translate russian ayesha_event_03_540a43c5:
-    "Она практически хозяйка этого спортзала, когда там находится, и я видела ее даже на борцовском ринге."
+    "Она практически хозяйка этого спортзала, когда там находится, и я видела её даже на борцовском ринге."
 
 # ch/ayesha/events.rpy:799
 translate russian ayesha_event_03_3c8c7cba:
-    "Почему мысль о том, чтобы пойти на пляж, так сильно ее беспокоит?"
+    "Почему мысль о том, чтобы пойти на пляж, так сильно её беспокоит?"
 
 # ch/ayesha/events.rpy:800
 translate russian ayesha_event_03_9f17f362:
@@ -8214,7 +8214,7 @@ translate russian ayesha_event_03_10a27173:
 
 # ch/ayesha/events.rpy:803
 translate russian ayesha_event_03_70b18701:
-    "Но когда она подходит ближе, я замечаю, что выражение ее лица отражает ее настроение, которое она передавала по телефону."
+    "Но когда она подходит ближе, я замечаю, что выражение её лица отражает её настроение, которое она передавала по телефону."
 
 # ch/ayesha/events.rpy:804
 translate russian ayesha_event_03_480cd243:
@@ -8234,7 +8234,7 @@ translate russian ayesha_event_03_8be5b750:
 
 # ch/ayesha/events.rpy:812
 translate russian ayesha_event_03_e1e36b19:
-    ayesha.say "О чем ты говоришь, [lssb_ayesha.hero_name()]?"
+    ayesha.say "О чём ты говоришь, [lssb_ayesha.hero_name()]?"
 
 # ch/ayesha/events.rpy:813
 translate russian ayesha_event_03_c4084daf:
@@ -8262,7 +8262,7 @@ translate russian ayesha_event_03_ac7e30a8:
 
 # ch/ayesha/events.rpy:821
 translate russian ayesha_event_03_46707264:
-    ayesha.say "Я тоже смотрю на свое отражение в зеркале, знаешь ли?"
+    ayesha.say "Я тоже смотрю на своё отражение в зеркале, знаешь ли?"
 
 # ch/ayesha/events.rpy:822
 translate russian ayesha_event_03_6043888d:
@@ -8274,7 +8274,7 @@ translate russian ayesha_event_03_3696906e:
 
 # ch/ayesha/events.rpy:824
 translate russian ayesha_event_03_bd9aa576:
-    "Я тянусь и беру ее за руку."
+    "Я тянусь и беру её за руку."
 
 # ch/ayesha/events.rpy:825
 translate russian ayesha_event_03_992e2f42:
@@ -8282,11 +8282,11 @@ translate russian ayesha_event_03_992e2f42:
 
 # ch/ayesha/events.rpy:826
 translate russian ayesha_event_03_8050e175:
-    "И вот, я тащу ее за собой на песок."
+    "И вот, я тащу её за собой на песок."
 
 # ch/ayesha/events.rpy:827
 translate russian ayesha_event_03_28dbd747:
-    "Айша позволяет мне вести ее, и даже возражает, когда она пытается выбрать укромные места, где мы могли бы устроиться."
+    "Айша позволяет мне вести её, и даже возражает, когда она пытается выбрать укромные места, где мы могли бы устроиться."
 
 # ch/ayesha/events.rpy:829
 translate russian ayesha_event_03_86b4f5b2:
@@ -8302,7 +8302,7 @@ translate russian ayesha_event_03_ecc05545:
 
 # ch/ayesha/events.rpy:832
 translate russian ayesha_event_03_1acc4870:
-    "К счастью, не слишком много этого песка попало мне в глаза, поэтому я все еще вижу, что происходит."
+    "К счастью, не слишком много этого песка попало мне в глаза, поэтому я всё ещё вижу, что происходит."
 
 # ch/ayesha/events.rpy:833
 translate russian ayesha_event_03_6327deda:
@@ -8322,7 +8322,7 @@ translate russian ayesha_event_03_ed624ea3:
 
 # ch/ayesha/events.rpy:837
 translate russian ayesha_event_03_477c7d62:
-    mike.say "Черт..."
+    mike.say "Чёрт..."
 
 # ch/ayesha/events.rpy:838
 translate russian ayesha_event_03_0d9640ec:
@@ -8338,7 +8338,7 @@ translate russian ayesha_event_03_beafb1f0:
 
 # ch/ayesha/events.rpy:841
 translate russian ayesha_event_03_604f7ba6:
-    "Я могла бы отругать этого парня по полной, действительно сказать ему все, что о нем думаю, из-за того, что он сделал."
+    "Я могла бы отругать этого парня по полной, действительно сказать ему всё, что о нём думаю, из-за того, что он сделал."
 
 # ch/ayesha/events.rpy:842
 translate russian ayesha_event_03_b6dcf435:
@@ -8354,7 +8354,7 @@ translate russian ayesha_event_03_c47dde6a:
 
 # ch/ayesha/events.rpy:845
 translate russian ayesha_event_03_17057240:
-    "Здоровяк" "Ой...черт!"
+    "Здоровяк" "Ой...чёрт!"
 
 # ch/ayesha/events.rpy:847
 translate russian ayesha_event_03_8cccc7f6:
@@ -8402,7 +8402,7 @@ translate russian ayesha_event_03_1265e7cc:
 
 # ch/ayesha/events.rpy:859
 translate russian ayesha_event_03_d6319c58:
-    "Она стоит, крепко сжав кулаки на бедрах, кивает с удовлетворением, глядя, как он уходит."
+    "Она стоит, крепко сжав кулаки на бёдрах, кивает с удовлетворением, глядя, как он уходит."
 
 # ch/ayesha/events.rpy:862
 translate russian ayesha_event_03_02ffe6b4:
@@ -8530,7 +8530,7 @@ translate russian ayesha_event_03_fde9064f:
 
 # ch/ayesha/events.rpy:898
 translate russian ayesha_event_03_be0c802c:
-    "В ее голосе столько убежденности и... немного боли."
+    "В её голосе столько убежденности и... немного боли."
 
 # ch/ayesha/events.rpy:899
 translate russian ayesha_event_03_a42cc3ec:
@@ -8542,7 +8542,7 @@ translate russian ayesha_event_03_6ee4e86d:
 
 # ch/ayesha/events.rpy:901
 translate russian ayesha_event_03_c02399f3:
-    mike.say "Ну, я не думаю, что этот парень скоро вернется!"
+    mike.say "Ну, я не думаю, что этот парень скоро вернётся!"
 
 # ch/ayesha/events.rpy:902
 translate russian ayesha_event_03_7ca456e6:
@@ -8570,11 +8570,11 @@ translate russian ayesha_event_03_df7d1808:
 
 # ch/ayesha/events.rpy:909
 translate russian ayesha_event_03_e018693e:
-    "Айша все еще выглядит такой же смущенной, как и раньше."
+    "Айша всё ещё выглядит такой же смущённой, как и раньше."
 
 # ch/ayesha/events.rpy:911
 translate russian ayesha_event_03_b215726e:
-    "Но теперь она не может удержаться от улыбки, даже слегка смеется."
+    "Но теперь она не может удержаться от улыбки, даже слегка смеётся."
 
 # ch/ayesha/events.rpy:912
 translate russian ayesha_event_03_b460e509:
@@ -8586,7 +8586,7 @@ translate russian ayesha_event_03_a88ea3f7:
 
 # ch/ayesha/events.rpy:914
 translate russian ayesha_event_03_3eaf2e3d:
-    mike.say "Тогда тебе повезло, что я – не большинство парней!"
+    mike.say "Тогда тебе повезло, что я — не большинство парней!"
 
 # ch/ayesha/events.rpy:915
 translate russian ayesha_event_03_5709c9d9:
@@ -8602,19 +8602,19 @@ translate russian ayesha_event_03_3886e11d:
 
 # ch/ayesha/events.rpy:918
 translate russian ayesha_event_03_cbed8c8f:
-    mike.say "А что насчет того, чтобы ты пришла и присматривала за мной, пока я загораю?"
+    mike.say "А что насчёт того, чтобы ты пришла и присматривала за мной, пока я загораю?"
 
 # ch/ayesha/events.rpy:919
 translate russian ayesha_event_03_c05dd704:
-    "Аиша смеется и качает головой."
+    "Айша смеётся и качает головой."
 
 # ch/ayesha/events.rpy:920
 translate russian ayesha_event_03_0b505231:
-    "Но она не колеблется и соглашается на мое предложение..."
+    "Но она не колеблется и соглашается на моё предложение..."
 
 # ch/ayesha/events.rpy:927
 translate russian ayesha_event_04_ea5aa6d0:
-    "Поход в кино сегодня вечером был для меня и Аиши своего рода спонтанным решением, но я все равно с нетерпением жду этого."
+    "Поход в кино сегодня вечером был для меня и Айши своего рода спонтанным решением, но я всё равно с нетерпением жду этого."
 
 # ch/ayesha/events.rpy:928
 translate russian ayesha_event_04_e3ed0398:
@@ -8626,11 +8626,11 @@ translate russian ayesha_event_04_64f20a6d:
 
 # ch/ayesha/events.rpy:930
 translate russian ayesha_event_04_e6dd4464:
-    "Было бы здорово, если бы один из плакатов, который нам виден, был посвящен фильму, который мы действительно хотим посмотреть."
+    "Было бы здорово, если бы один из плакатов, который нам виден, был посвящён фильму, который мы действительно хотим посмотреть."
 
 # ch/ayesha/events.rpy:931
 translate russian ayesha_event_04_f9d8831e:
-    "В противном случае нам приходится либо гадать о том, о чем фильм, основываясь на названии и рейтинге."
+    "В противном случае нам приходится либо гадать о том, о чём фильм, основываясь на названии и рейтинге."
 
 # ch/ayesha/events.rpy:932
 translate russian ayesha_event_04_dd55bf78:
@@ -8662,7 +8662,7 @@ translate russian ayesha_event_04_ad023aba:
 
 # ch/ayesha/events.rpy:939
 translate russian ayesha_event_04_7d820d8f:
-    mike.say "Нет, Аиша, правда."
+    mike.say "Нет, Айша, правда."
 
 # ch/ayesha/events.rpy:940
 translate russian ayesha_event_04_0c7a361c:
@@ -8678,7 +8678,7 @@ translate russian ayesha_event_04_cbb9f424:
 
 # ch/ayesha/events.rpy:945
 translate russian ayesha_event_04_9ea91ad3:
-    ayesha.say "Все будет хорошо, [lssb_ayesha.hero_name()]."
+    ayesha.say "Всё будет хорошо, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/events.rpy:946
 translate russian ayesha_event_04_24b1e262:
@@ -8690,7 +8690,7 @@ translate russian ayesha_event_04_03b38068:
 
 # ch/ayesha/events.rpy:948
 translate russian ayesha_event_04_ca816bf9:
-    "Даже если мы в итоге посмотрим какой-нибудь скучный фильм, это все равно лучше, чем ничего не смотреть, верно?"
+    "Даже если мы в итоге посмотрим какой-нибудь скучный фильм, это всё равно лучше, чем ничего не смотреть, верно?"
 
 # ch/ayesha/events.rpy:949
 translate russian ayesha_event_04_b9b1bc45:
@@ -8706,15 +8706,15 @@ translate russian ayesha_event_04_ff3ef07b:
 
 # ch/ayesha/events.rpy:952
 translate russian ayesha_event_04_aa0d8f32:
-    "Первый фильм называется \"Парики и ведьмы\"."
+    "Первый фильм называется «Парики и ведьмы»."
 
 # ch/ayesha/events.rpy:953
 translate russian ayesha_event_04_7325039c:
-    "Это один из тех серьезных исторических фильмов, в данном случае о салемских судах над ведьмами."
+    "Это один из тех серьёзных исторических фильмов, в данном случае о салемских судах над ведьмами."
 
 # ch/ayesha/events.rpy:954
 translate russian ayesha_event_04_c6d63f9d:
-    "Второй фильм – \"Истребитель\"."
+    "Второй фильм — «Истребитель»."
 
 # ch/ayesha/events.rpy:955
 translate russian ayesha_event_04_01bf0671:
@@ -8734,7 +8734,7 @@ translate russian ayesha_event_04_73d3030c:
 
 # ch/ayesha/events.rpy:961
 translate russian ayesha_event_04_88cee210:
-    "В конце концов, она практически живет в спортзале и подрабатывает профессиональным рестлером!"
+    "В конце концов, она практически живёт в спортзале и подрабатывает профессиональным рестлером!"
 
 # ch/ayesha/events.rpy:962
 translate russian ayesha_event_04_6e801ca8:
@@ -8750,11 +8750,11 @@ translate russian ayesha_event_04_0e99534a:
 
 # ch/ayesha/events.rpy:966
 translate russian ayesha_event_04_7bdaca52:
-    ayesha.say "Серьезно, [lssb_ayesha.hero_name()]?"
+    ayesha.say "Серьёзно, [lssb_ayesha.hero_name()]?"
 
 # ch/ayesha/events.rpy:968
 translate russian ayesha_event_04_207d3ed7:
-    "Но потом она, кажется, вспоминает о нашей договоренности и просто пожимает плечами."
+    "Но потом она, кажется, вспоминает о нашей договорённости и просто пожимает плечами."
 
 # ch/ayesha/events.rpy:970
 translate russian ayesha_event_04_7d9541e6:
@@ -8862,7 +8862,7 @@ translate russian ayesha_event_04_cbe8ecfe:
 
 # ch/ayesha/events.rpy:998
 translate russian ayesha_event_04_f58e0964:
-    ayesha.say "Все в порядке, [lssb_ayesha.hero_name()]."
+    ayesha.say "Всё в порядке, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/events.rpy:999
 translate russian ayesha_event_04_6b0abaf8:
@@ -8874,7 +8874,7 @@ translate russian ayesha_event_04_08943db8:
 
 # ch/ayesha/events.rpy:1002
 translate russian ayesha_event_04_d6c39973:
-    "Кажется, в Айше есть такие глубины, которые мне еще только предстоит исследовать..."
+    "Кажется, в Айше есть такие глубины, которые мне ещё только предстоит исследовать..."
 
 # ch/ayesha/events.rpy:1004
 translate russian ayesha_event_04_ce4b84c0_1:
@@ -8886,11 +8886,11 @@ translate russian ayesha_event_04_73d3030c_1:
 
 # ch/ayesha/events.rpy:1006
 translate russian ayesha_event_04_69ddafb4:
-    "Но потом меня озаряет мысль, что я просто предполагаю, что ей нравятся боевики, основываясь на ее внешности, и ничем больше."
+    "Но потом меня озаряет мысль, что я просто предполагаю, что ей нравятся боевики, основываясь на её внешности, и ничем больше."
 
 # ch/ayesha/events.rpy:1007
 translate russian ayesha_event_04_70c18183:
-    "И вообще, исторические драмы – это больше мой вкус, поэтому я решаю быть честным в своем выборе."
+    "И вообще, исторические драмы — это больше мой вкус, поэтому я решаю быть честным в своём выборе."
 
 # ch/ayesha/events.rpy:1008
 translate russian ayesha_event_04_7491a7db_1:
@@ -8898,7 +8898,7 @@ translate russian ayesha_event_04_7491a7db_1:
 
 # ch/ayesha/events.rpy:1010
 translate russian ayesha_event_04_c4de35a6:
-    ayesha.say "\"Парики и ведьмы\"?"
+    ayesha.say "«Парики и ведьмы»?"
 
 # ch/ayesha/events.rpy:1011
 translate russian ayesha_event_04_7bdaca52_1:
@@ -8906,7 +8906,7 @@ translate russian ayesha_event_04_7bdaca52_1:
 
 # ch/ayesha/events.rpy:1013
 translate russian ayesha_event_04_207d3ed7_1:
-    "Но потом она, кажется, вспоминает о нашей договоренности и просто пожимает плечами."
+    "Но потом она, кажется, вспоминает о нашей договорённости и просто пожимает плечами."
 
 # ch/ayesha/events.rpy:1015
 translate russian ayesha_event_04_7d9541e6_1:
@@ -8918,7 +8918,7 @@ translate russian ayesha_event_04_ca354ecf_1:
 
 # ch/ayesha/events.rpy:1017
 translate russian ayesha_event_04_fe14c4c5:
-    "Да, начало может показаться медленным, и тема довольно серьезная."
+    "Да, начало может показаться медленным, и тема довольно серьёзная."
 
 # ch/ayesha/events.rpy:1018
 translate russian ayesha_event_04_abf552ba:
@@ -8934,11 +8934,11 @@ translate russian ayesha_event_04_706a8a47:
 
 # ch/ayesha/events.rpy:1021
 translate russian ayesha_event_04_6111b5df:
-    "Но когда заканчиваются титры и мы встаем, чтобы уйти из кинотеатра, я уже предвкушаю реакцию Айше."
+    "Но когда заканчиваются титры и мы встаём, чтобы уйти из кинотеатра, я уже предвкушаю реакцию Айше."
 
 # ch/ayesha/events.rpy:1022
 translate russian ayesha_event_04_1d6cb781:
-    "Именно поэтому я удивляюсь, увидев улыбку на ее лице, когда мы стоим в холле."
+    "Именно поэтому я удивляюсь, увидев улыбку на её лице, когда мы стоим в холле."
 
 # ch/ayesha/events.rpy:1025
 translate russian ayesha_event_04_3f7fdbc4:
@@ -8986,7 +8986,7 @@ translate russian ayesha_event_04_00cf6abc:
 
 # ch/ayesha/events.rpy:1038
 translate russian ayesha_event_04_3b3a1428:
-    "Айша смеется над моими отчаянными попытками сохранить лицо, а затем берет меня за руку."
+    "Айша смеётся над моими отчаянными попытками сохранить лицо, а затем берет меня за руку."
 
 # ch/ayesha/events.rpy:1039
 translate russian ayesha_event_04_f89e8047:
@@ -9002,7 +9002,7 @@ translate russian ayesha_event_04_a87d2250:
 
 # ch/ayesha/events.rpy:1043
 translate russian ayesha_event_04_d6c39973_1:
-    "Кажется, в Айше есть такие глубины, которые мне еще только предстоит исследовать..."
+    "Кажется, в Айше есть такие глубины, которые мне ещё только предстоит исследовать..."
 
 # ch/ayesha/events.rpy:1056
 translate russian ayesha_event_05_aeda37a9:
@@ -9010,11 +9010,11 @@ translate russian ayesha_event_05_aeda37a9:
 
 # ch/ayesha/events.rpy:1057
 translate russian ayesha_event_05_8f586b0d:
-    "Я просто ждал, что она скажет, что у нее появились планы в последний момент, чтобы сделать что-то сумасшедшее и веселое."
+    "Я просто ждал, что она скажет, что у неё появились планы в последний момент, чтобы сделать что-то сумасшедшее и весёлое."
 
 # ch/ayesha/events.rpy:1058
 translate russian ayesha_event_05_41f5eb2a:
-    "Но мои надежды рухнули довольно быстро, почти сразу же, когда я услышал тон ее голоса."
+    "Но мои надежды рухнули довольно быстро, почти сразу же, когда я услышал тон её голоса."
 
 # ch/ayesha/events.rpy:1059
 translate russian ayesha_event_05_3c8c24d2:
@@ -9046,7 +9046,7 @@ translate russian ayesha_event_05_d886b999:
 
 # ch/ayesha/events.rpy:1066
 translate russian ayesha_event_05_66d2d36f:
-    mike.say "Прости, Аиша."
+    mike.say "Прости, Айша."
 
 # ch/ayesha/events.rpy:1067
 translate russian ayesha_event_05_42034061:
@@ -9054,19 +9054,19 @@ translate russian ayesha_event_05_42034061:
 
 # ch/ayesha/events.rpy:1068
 translate russian ayesha_event_05_f9a9c12b:
-    ayesha.say "Черт..."
+    ayesha.say "Чёрт..."
 
 # ch/ayesha/events.rpy:1069
 translate russian ayesha_event_05_017673ea:
-    ayesha.say "Я хотя бы хотела поздороваться, прежде чем мы начнем!"
+    ayesha.say "Я хотя бы хотела поздороваться, прежде чем мы начнём!"
 
 # ch/ayesha/events.rpy:1070
 translate russian ayesha_event_05_b79f0f77:
-    "Раньше я просто беспокоилась о настроении Аиши."
+    "Раньше я просто беспокоилась о настроении Айши."
 
 # ch/ayesha/events.rpy:1071
 translate russian ayesha_event_05_28e8f779:
-    "Но теперь меня беспокоит то, что, похоже, все, что ее тревожит, связано и со мной."
+    "Но теперь меня беспокоит то, что, похоже, всё, что её тревожит, связано и со мной."
 
 # ch/ayesha/events.rpy:1072
 translate russian ayesha_event_05_4e4d360b:
@@ -9074,7 +9074,7 @@ translate russian ayesha_event_05_4e4d360b:
 
 # ch/ayesha/events.rpy:1073
 translate russian ayesha_event_05_388d4c61:
-    mike.say "Это... это из-за того, что я сделал, Аиша?"
+    mike.say "Это... это из-за того, что я сделал, Айша?"
 
 # ch/ayesha/events.rpy:1074
 translate russian ayesha_event_05_6363c3e5:
@@ -9082,7 +9082,7 @@ translate russian ayesha_event_05_6363c3e5:
 
 # ch/ayesha/events.rpy:1075
 translate russian ayesha_event_05_687660d0:
-    "Как будто почувствовав, что я собираюсь перейти в режим \"я могу измениться\", Аиша перебивает меня."
+    "Как будто почувствовав, что я собираюсь перейти в режим «я могу измениться», Айша перебивает меня."
 
 # ch/ayesha/events.rpy:1076
 translate russian ayesha_event_05_784aae71:
@@ -9118,7 +9118,7 @@ translate russian ayesha_event_05_5e063740:
 
 # ch/ayesha/events.rpy:1084
 translate russian ayesha_event_05_b31cdfd7:
-    mike.say "Конечно, Аиша."
+    mike.say "Конечно, Айша."
 
 # ch/ayesha/events.rpy:1085
 translate russian ayesha_event_05_975bd4fe:
@@ -9126,15 +9126,15 @@ translate russian ayesha_event_05_975bd4fe:
 
 # ch/ayesha/events.rpy:1087
 translate russian ayesha_event_05_99bb2b62:
-    "Я выхожу из дома и почти сразу же отправляюсь туда, куда мы с Аишей договорились встретиться."
+    "Я выхожу из дома и почти сразу же отправляюсь туда, куда мы с Айшей договорились встретиться."
 
 # ch/ayesha/events.rpy:1088
 translate russian ayesha_event_05_d52f60cc:
-    "Наверное, мне стоит быть рад тому, что она не хочет серьезно обсуждать наши отношения."
+    "Наверное, мне стоит быть рад тому, что она не хочет серьёзно обсуждать наши отношения."
 
 # ch/ayesha/events.rpy:1089
 translate russian ayesha_event_05_60babf88:
-    "Но все равно, я искренне беспокоюсь о том, о чем именно Аиша хочет поговорить."
+    "Но всё равно, я искренне беспокоюсь о том, о чём именно Айша хочет поговорить."
 
 # ch/ayesha/events.rpy:1091
 translate russian ayesha_event_05_af5a56bd:
@@ -9142,7 +9142,7 @@ translate russian ayesha_event_05_af5a56bd:
 
 # ch/ayesha/events.rpy:1092
 translate russian ayesha_event_05_56386db9:
-    "Этот факт заставляет меня осознать, насколько сильно я начал заботиться об Аише за это короткое время, что мы провели вместе."
+    "Этот факт заставляет меня осознать, насколько сильно я начал заботиться об Айше за это короткое время, что мы провели вместе."
 
 # ch/ayesha/events.rpy:1094
 translate russian ayesha_event_05_de87db17:
@@ -9150,15 +9150,15 @@ translate russian ayesha_event_05_de87db17:
 
 # ch/ayesha/events.rpy:1096
 translate russian ayesha_event_05_97cf5c33:
-    mike.say "Аиша, вот ты!"
+    mike.say "Айша, вот ты!"
 
 # ch/ayesha/events.rpy:1097
 translate russian ayesha_event_05_f18940b0:
-    mike.say "Я пришел сюда как можно быстрее."
+    mike.say "Я пришёл сюда как можно быстрее."
 
 # ch/ayesha/events.rpy:1099
 translate russian ayesha_event_05_d003d5a5:
-    "Аиша качает головой в замешательстве, и я сразу понимаю, что, вероятно, слишком сильно реагирую."
+    "Айша качает головой в замешательстве, и я сразу понимаю, что, вероятно, слишком сильно реагирую."
 
 # ch/ayesha/events.rpy:1101
 translate russian ayesha_event_05_4b83e151:
@@ -9186,11 +9186,11 @@ translate russian ayesha_event_05_b5c61a22:
 
 # ch/ayesha/events.rpy:1110
 translate russian ayesha_event_05_d01ab0a8:
-    "Я громко сглатываю, пытаясь почувствовать себя серьезным взрослым человеком, который здесь, чтобы дать мудрый совет."
+    "Я громко сглатываю, пытаясь почувствовать себя серьёзным взрослым человеком, который здесь, чтобы дать мудрый совет."
 
 # ch/ayesha/events.rpy:1111
 translate russian ayesha_event_05_bc994006:
-    "Что сложно, когда Аиша только что заставила меня чувствовать себя щенком, которого просто невозможно не погладить."
+    "Что сложно, когда Айша только что заставила меня чувствовать себя щенком, которого просто невозможно не погладить."
 
 # ch/ayesha/events.rpy:1112
 translate russian ayesha_event_05_d2fc2e13:
@@ -9202,7 +9202,7 @@ translate russian ayesha_event_05_285e63db:
 
 # ch/ayesha/events.rpy:1114
 translate russian ayesha_event_05_f35d9425:
-    "Теперь настала очередь Аиши собраться с силами перед тем, что ее ждет."
+    "Теперь настала очередь Айши собраться с силами перед тем, что её ждёт."
 
 # ch/ayesha/events.rpy:1115
 translate russian ayesha_event_05_9901a84e:
@@ -9214,7 +9214,7 @@ translate russian ayesha_event_05_f980f5d6:
 
 # ch/ayesha/events.rpy:1117
 translate russian ayesha_event_05_bc08669d:
-    ayesha.say "И я серьезно рассматриваю его."
+    ayesha.say "И я серьёзно рассматриваю его."
 
 # ch/ayesha/events.rpy:1118
 translate russian ayesha_event_05_619aaae4:
@@ -9226,11 +9226,11 @@ translate russian ayesha_event_05_30e74fc5:
 
 # ch/ayesha/events.rpy:1120
 translate russian ayesha_event_05_a42e3520:
-    mike.say "О каком именно предложении идет речь, Аиша?"
+    mike.say "О каком именно предложении идёт речь, Айша?"
 
 # ch/ayesha/events.rpy:1121
 translate russian ayesha_event_05_098b2bfb:
-    "Аиша хлопает себя по лбу одной рукой."
+    "Айша хлопает себя по лбу одной рукой."
 
 # ch/ayesha/events.rpy:1123
 translate russian ayesha_event_05_0b961f34:
@@ -9250,7 +9250,7 @@ translate russian ayesha_event_05_5476a5c9:
 
 # ch/ayesha/events.rpy:1127
 translate russian ayesha_event_05_2303554c:
-    "Но правда в том, что я просто не привык видеть Аишу такой растерянной."
+    "Но правда в том, что я просто не привык видеть Айшу такой растерянной."
 
 # ch/ayesha/events.rpy:1129
 translate russian ayesha_event_05_23dbf839:
@@ -9262,7 +9262,7 @@ translate russian ayesha_event_05_59e3759d:
 
 # ch/ayesha/events.rpy:1131
 translate russian ayesha_event_05_041a5737:
-    ayesha.say "Это было скорее способом поддерживать форму, чем чем-то, чему я серьезно посвящала себя."
+    ayesha.say "Это было скорее способом поддерживать форму, чем чем-то, чему я серьёзно посвящала себя."
 
 # ch/ayesha/events.rpy:1132
 translate russian ayesha_event_05_c1a2c5c6:
@@ -9278,7 +9278,7 @@ translate russian ayesha_event_05_105fd368:
 
 # ch/ayesha/events.rpy:1135
 translate russian ayesha_event_05_cfaf80c2:
-    "Аиша делает паузу, и я чувствую, что сейчас она задаст мне вопрос."
+    "Айша делает паузу, и я чувствую, что сейчас она задаст мне вопрос."
 
 # ch/ayesha/events.rpy:1136
 translate russian ayesha_event_05_c10c3862:
@@ -9298,15 +9298,15 @@ translate russian ayesha_event_05_0416b75c:
 
 # ch/ayesha/events.rpy:1140
 translate russian ayesha_event_05_b2f6bd4c:
-    "Как только я представляю себе Аишу на ринге ММА, моя первая реакция – сказать \"нет\"."
+    "Как только я представляю себе Айшу на ринге ММА, моя первая реакция — сказать «нет»."
 
 # ch/ayesha/events.rpy:1141
 translate russian ayesha_event_05_635800d7:
-    "На самом деле, то, как мое внутреннее чувство почти сводит меня с ума от одной мысли о том, что ей может навредить, – это уже само по себе шокирует."
+    "На самом деле, то, как моё внутреннее чувство почти сводит меня с ума от одной мысли о том, что ей может навредить, — это уже само по себе шокирует."
 
 # ch/ayesha/events.rpy:1142
 translate russian ayesha_event_05_a3a57b05:
-    "Но потом я делаю паузу и пытаюсь немного более рационально взглянуть на этот вопрос, стараясь избавиться от эмоциональной окраски в своем восприятии."
+    "Но потом я делаю паузу и пытаюсь немного более рационально взглянуть на этот вопрос, стараясь избавиться от эмоциональной окраски в своём восприятии."
 
 # ch/ayesha/events.rpy:1143
 translate russian ayesha_event_05_02d761ae:
@@ -9330,11 +9330,11 @@ translate russian ayesha_event_05_3042b94e:
 
 # ch/ayesha/events.rpy:1151
 translate russian ayesha_event_05_501872fa:
-    "Она знает свое тело и то, на что оно способно."
+    "Она знает своё тело и то, на что оно способно."
 
 # ch/ayesha/events.rpy:1152
 translate russian ayesha_event_05_d377b0db:
-    "Так что если я скажу что-то другое, кроме \"да\", я буду виновата в том, что сдерживаю ее ради себя."
+    "Так что если я скажу что-то другое, кроме «да», я буду виновата в том, что сдерживаю её ради себя."
 
 # ch/ayesha/events.rpy:1153
 translate russian ayesha_event_05_04af08a0:
@@ -9350,7 +9350,7 @@ translate russian ayesha_event_05_f6f9cb32:
 
 # ch/ayesha/events.rpy:1156
 translate russian ayesha_event_05_eb20f3f3:
-    ayesha.say "Я почти была уверена, что ты скажешь \"нет\"."
+    ayesha.say "Я почти была уверена, что ты скажешь «нет»."
 
 # ch/ayesha/events.rpy:1157
 translate russian ayesha_event_05_cfdcaba9:
@@ -9370,11 +9370,11 @@ translate russian ayesha_event_05_19be7bb9:
 
 # ch/ayesha/events.rpy:1161
 translate russian ayesha_event_05_3de88f5e:
-    "Я поднимаю руку, давая понять Аише, что я еще не закончил объяснять."
+    "Я поднимаю руку, давая понять Айше, что я ещё не закончил объяснять."
 
 # ch/ayesha/events.rpy:1162
 translate russian ayesha_event_05_6650c446:
-    mike.say "Потому что я знаю, что ты сама справишься, Аиша."
+    mike.say "Потому что я знаю, что ты сама справишься, Айша."
 
 # ch/ayesha/events.rpy:1163
 translate russian ayesha_event_05_cac8c383:
@@ -9382,7 +9382,7 @@ translate russian ayesha_event_05_cac8c383:
 
 # ch/ayesha/events.rpy:1166
 translate russian ayesha_event_05_6c2d6fc2:
-    "Я вижу, как на лице Аиши появляется облегченная улыбка."
+    "Я вижу, как на лице Айши появляется облегченная улыбка."
 
 # ch/ayesha/events.rpy:1167
 translate russian ayesha_event_05_26f27b6e:
@@ -9394,7 +9394,7 @@ translate russian ayesha_event_05_164b7246:
 
 # ch/ayesha/events.rpy:1170
 translate russian ayesha_event_05_2aa4f285:
-    mike.say "Есть только одно, что ты должна мне пообещать, Аиша."
+    mike.say "Есть только одно, что ты должна мне пообещать, Айша."
 
 # ch/ayesha/events.rpy:1171
 translate russian ayesha_event_05_83f0e8b7:
@@ -9402,19 +9402,19 @@ translate russian ayesha_event_05_83f0e8b7:
 
 # ch/ayesha/events.rpy:1172
 translate russian ayesha_event_05_500daa32:
-    mike.say "Просто не проси меня быть твоим спарринг-партнером, хорошо?"
+    mike.say "Просто не проси меня быть твоим спарринг-партнёром, хорошо?"
 
 # ch/ayesha/events.rpy:1174
 translate russian ayesha_event_05_b5ac81cc:
-    "Аиша качает головой, смеясь над моими словами."
+    "Айша качает головой, смеясь над моими словами."
 
 # ch/ayesha/events.rpy:1175
 translate russian ayesha_event_05_754a037e:
-    "И я безумно рад видеть ее снова счастливой."
+    "И я безумно рад видеть её снова счастливой."
 
 # ch/ayesha/events.rpy:1177
 translate russian ayesha_event_05_2e74ce0a:
-    "Часть меня понимает, что я эгоистичен, что Аиша прекрасно справится сама."
+    "Часть меня понимает, что я эгоистичен, что Айша прекрасно справится сама."
 
 # ch/ayesha/events.rpy:1178
 translate russian ayesha_event_05_fd73b30b:
@@ -9422,7 +9422,7 @@ translate russian ayesha_event_05_fd73b30b:
 
 # ch/ayesha/events.rpy:1179
 translate russian ayesha_event_05_bc2b0517:
-    "Тот факт, что Аиша сложена как амазонка, не означает, что она обладает сверхспособностями."
+    "Тот факт, что Айша сложена как амазонка, не означает, что она обладает сверхспособностями."
 
 # ch/ayesha/events.rpy:1180
 translate russian ayesha_event_05_7c4e02e1:
@@ -9430,11 +9430,11 @@ translate russian ayesha_event_05_7c4e02e1:
 
 # ch/ayesha/events.rpy:1181
 translate russian ayesha_event_05_385fe0fe:
-    mike.say "Аиша, мне нелегко это говорить."
+    mike.say "Айша, мне нелегко это говорить."
 
 # ch/ayesha/events.rpy:1182
 translate russian ayesha_event_05_f11b7e4d:
-    mike.say "Но я действительно думаю, что заниматься смешанными единоборствами – это неправильный выбор."
+    mike.say "Но я действительно думаю, что заниматься смешанными единоборствами — это неправильный выбор."
 
 # ch/ayesha/events.rpy:1185
 translate russian ayesha_event_05_e67debe0:
@@ -9446,7 +9446,7 @@ translate russian ayesha_event_05_2a363174:
 
 # ch/ayesha/events.rpy:1187
 translate russian ayesha_event_05_203a383c:
-    mike.say "Я не буду притворяться, что я не эгоист, Аиша."
+    mike.say "Я не буду притворяться, что я не эгоист, Айша."
 
 # ch/ayesha/events.rpy:1188
 translate russian ayesha_event_05_ad3594e3:
@@ -9454,7 +9454,7 @@ translate russian ayesha_event_05_ad3594e3:
 
 # ch/ayesha/events.rpy:1189
 translate russian ayesha_event_05_eecb7b48:
-    mike.say "Это меня пугает, Аиша."
+    mike.say "Это меня пугает, Айша."
 
 # ch/ayesha/events.rpy:1190
 translate russian ayesha_event_05_6997af8a:
@@ -9462,11 +9462,11 @@ translate russian ayesha_event_05_6997af8a:
 
 # ch/ayesha/events.rpy:1191
 translate russian ayesha_event_05_020154ac:
-    "На мгновение кажется, что Аиша собирается ответить мне в том же духе."
+    "На мгновение кажется, что Айша собирается ответить мне в том же духе."
 
 # ch/ayesha/events.rpy:1193
 translate russian ayesha_event_05_70e63148:
-    "Но потом я вижу, как выражение ее лица меняется, словно вся эта агрессия уходит из нее."
+    "Но потом я вижу, как выражение её лица меняется, словно вся эта агрессия уходит из неё."
 
 # ch/ayesha/events.rpy:1194
 translate russian ayesha_event_05_441fe040:
@@ -9474,7 +9474,7 @@ translate russian ayesha_event_05_441fe040:
 
 # ch/ayesha/events.rpy:1195
 translate russian ayesha_event_05_1586b3ce:
-    "Прежде чем я успеваю что-либо сказать, Аиша кивает и дарит мне грустную, но милую улыбку."
+    "Прежде чем я успеваю что-либо сказать, Айша кивает и дарит мне грустную, но милую улыбку."
 
 # ch/ayesha/events.rpy:1196
 translate russian ayesha_event_05_0ac7c129:
@@ -9502,15 +9502,15 @@ translate russian ayesha_event_05_3aa25452:
 
 # ch/ayesha/events.rpy:1202
 translate russian ayesha_event_05_66392c8c:
-    mike.say "Ну... еще и я переживал, что ты можешь попросить меня стать твоим партнером для тренировок..."
+    mike.say "Ну... ещё и я переживал, что ты можешь попросить меня стать твоим партнёром для тренировок..."
 
 # ch/ayesha/events.rpy:1205
 translate russian ayesha_event_05_b5ac81cc_1:
-    "Аиша качает головой, смеясь над моими словами."
+    "Айша качает головой, смеясь над моими словами."
 
 # ch/ayesha/events.rpy:1206
 translate russian ayesha_event_05_754a037e_1:
-    "И я безумно рад видеть ее снова счастливой."
+    "И я безумно рад видеть её снова счастливой."
 
 # ch/ayesha/events.rpy:1218
 translate russian ayesha_event_06_a6a3956d:
@@ -9554,7 +9554,7 @@ translate russian ayesha_event_06_a7a193a1:
 
 # ch/ayesha/events.rpy:1228
 translate russian ayesha_event_06_e8ddac78:
-    ayesha.say "Нет, черт возьми, собачья выставка, [lssb_ayesha.hero_name()]."
+    ayesha.say "Нет, чёрт возьми, собачья выставка, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/events.rpy:1229
 translate russian ayesha_event_06_36c8d692:
@@ -9582,19 +9582,19 @@ translate russian ayesha_event_06_dddeae53:
 
 # ch/ayesha/events.rpy:1235
 translate russian ayesha_event_06_5037eebc:
-    mike.say "Это отличные новости, Аиша."
+    mike.say "Это отличные новости, Айша."
 
 # ch/ayesha/events.rpy:1236
 translate russian ayesha_event_06_0b4146f6:
-    mike.say "Уверена, у тебя все получится!"
+    mike.say "Уверена, у тебя всё получится!"
 
 # ch/ayesha/events.rpy:1237
 translate russian ayesha_event_06_920de70d:
-    mike.say "И ты хочешь, чтобы я пришел посмотреть?"
+    mike.say "И ты хочешь, чтобы я пришёл посмотреть?"
 
 # ch/ayesha/events.rpy:1238
 translate russian ayesha_event_06_d26fc988:
-    "В этот момент Аиша делает паузу, глубоко вздыхая."
+    "В этот момент Айша делает паузу, глубоко вздыхая."
 
 # ch/ayesha/events.rpy:1239
 translate russian ayesha_event_06_04c05c37:
@@ -9618,7 +9618,7 @@ translate russian ayesha_event_06_81215dfb:
 
 # ch/ayesha/events.rpy:1244
 translate russian ayesha_event_06_fe85c9c5:
-    mike.say "Эм... что случилось, Аиша?"
+    mike.say "Эм... что случилось, Айша?"
 
 # ch/ayesha/events.rpy:1245
 translate russian ayesha_event_06_cad0dbcb:
@@ -9634,7 +9634,7 @@ translate russian ayesha_event_06_45acaaaf:
 
 # ch/ayesha/events.rpy:1250
 translate russian ayesha_event_06_186e32c9:
-    "Практически в тот же момент, когда я слышу эти слова, вырывающиеся из уст Аиши, мой живот скручивается от настоящего страха."
+    "Практически в тот же момент, когда я слышу эти слова, вырывающиеся из уст Айши, мой живот скручивается от настоящего страха."
 
 # ch/ayesha/events.rpy:1251
 translate russian ayesha_event_06_2f16081a:
@@ -9650,7 +9650,7 @@ translate russian ayesha_event_06_9051d309:
 
 # ch/ayesha/events.rpy:1254
 translate russian ayesha_event_06_859a101d:
-    "Их почти так же ненавидят, как и злодеев-борцов, и они гораздо более легкая мишень, которая находится ближе, чем парни на ринге."
+    "Их почти так же ненавидят, как и злодеев-борцов, и они гораздо более лёгкая мишень, которая находится ближе, чем парни на ринге."
 
 # ch/ayesha/events.rpy:1255
 translate russian ayesha_event_06_31836238:
@@ -9658,11 +9658,11 @@ translate russian ayesha_event_06_31836238:
 
 # ch/ayesha/events.rpy:1256
 translate russian ayesha_event_06_6fcb9610:
-    "Чтобы меня разорвали на куски толпы незрелых фанатов и \"горлышников\", которые живут в подвале у мамы?!"
+    "Чтобы меня разорвали на куски толпы незрелых фанатов и «горлышников», которые живут в подвале у мамы?!"
 
 # ch/ayesha/events.rpy:1257
 translate russian ayesha_event_06_920080e6:
-    mike.say "Я... я польщен, Аиша, правда, очень."
+    mike.say "Я... я польщён, Айша, правда, очень."
 
 # ch/ayesha/events.rpy:1258
 translate russian ayesha_event_06_fabcb2a9:
@@ -9682,7 +9682,7 @@ translate russian ayesha_event_06_f9e02559:
 
 # ch/ayesha/events.rpy:1263
 translate russian ayesha_event_06_74bf93b6:
-    "Кажется, Аиша немного разочарована моим ответом, она тихо вздыхает."
+    "Кажется, Айша немного разочарована моим ответом, она тихо вздыхает."
 
 # ch/ayesha/events.rpy:1264
 translate russian ayesha_event_06_f80e8af0:
@@ -9706,7 +9706,7 @@ translate russian ayesha_event_06_2678f930:
 
 # ch/ayesha/events.rpy:1270
 translate russian ayesha_event_06_189a0876:
-    "Но тут в моей голове возникает образ Айши в ее борцовской форме, и все остальное отходит на второй план."
+    "Но тут в моей голове возникает образ Айши в её борцовской форме, и всё остальное отходит на второй план."
 
 # ch/ayesha/events.rpy:1271
 translate russian ayesha_event_06_f8a5682b:
@@ -9742,7 +9742,7 @@ translate russian ayesha_event_06_8c348048:
 
 # ch/ayesha/events.rpy:1280
 translate russian ayesha_event_06_8ec5e391:
-    mike.say "Не волнуйся ни о чем, Айша."
+    mike.say "Не волнуйся ни о чём, Айша."
 
 # ch/ayesha/events.rpy:1281
 translate russian ayesha_event_06_87be6a88:
@@ -9750,15 +9750,15 @@ translate russian ayesha_event_06_87be6a88:
 
 # ch/ayesha/events.rpy:1282
 translate russian ayesha_event_06_3e222314:
-    ayesha.say "Не волнуйся ни о чем."
+    ayesha.say "Не волнуйся ни о чём."
 
 # ch/ayesha/events.rpy:1283
 translate russian ayesha_event_06_93478e3d:
-    ayesha.say "Тебе не придется делать слишком много чего-либо."
+    ayesha.say "Тебе не придётся делать слишком много чего-либо."
 
 # ch/ayesha/events.rpy:1284
 translate russian ayesha_event_06_e8b585a6:
-    ayesha.say "Твоя задача – просто следовать за мной до ринга."
+    ayesha.say "Твоя задача — просто следовать за мной до ринга."
 
 # ch/ayesha/events.rpy:1285
 translate russian ayesha_event_06_a7f057c6:
@@ -9782,7 +9782,7 @@ translate russian ayesha_event_06_7e382606:
 
 # ch/ayesha/events.rpy:1291
 translate russian ayesha_event_06_6a5e88e9:
-    mike.say "Черт, правда?!"
+    mike.say "Чёрт, правда?!"
 
 # ch/ayesha/events.rpy:1292
 translate russian ayesha_event_06_092f752c:
@@ -9794,11 +9794,11 @@ translate russian ayesha_event_06_278b896c:
 
 # ch/ayesha/events.rpy:1296
 translate russian ayesha_event_06_91fe3bc2:
-    "Когда я прибываю в парк, я – измотанный и нервный, уверенный, что уже опоздал."
+    "Когда я прибываю в парк, я — измотанный и нервный, уверенный, что уже опоздал."
 
 # ch/ayesha/events.rpy:1297
 translate russian ayesha_event_06_5dd1df7a:
-    "Это место легко найти, ведь я быстро замечаю ринг для борьбы, окруженный рядами сидений."
+    "Это место легко найти, ведь я быстро замечаю ринг для борьбы, окружённый рядами сидений."
 
 # ch/ayesha/events.rpy:1298
 translate russian ayesha_event_06_69954d46:
@@ -9810,7 +9810,7 @@ translate russian ayesha_event_06_9f8594c0:
 
 # ch/ayesha/events.rpy:1300
 translate russian ayesha_event_06_bb7775ef:
-    "Но затем я вижу длинную очередь людей в футболках с надписями про борьбу – это явный признак того, где его можно найти."
+    "Но затем я вижу длинную очередь людей в футболках с надписями про борьбу — это явный признак того, где его можно найти."
 
 # ch/ayesha/events.rpy:1302
 translate russian ayesha_event_06_b3aab099:
@@ -9866,15 +9866,15 @@ translate russian ayesha_event_06_b312182a:
 
 # ch/ayesha/events.rpy:1315
 translate russian ayesha_event_06_bdf82d58:
-    "Но потом я вспоминаю, что Айша должна быть одной из \"плохих\", рестлершей-злодейкой."
+    "Но потом я вспоминаю, что Айша должна быть одной из «плохих», рестлершей-злодейкой."
 
 # ch/ayesha/events.rpy:1316
 translate russian ayesha_event_06_18a29008:
-    "И я только что выдал себя за одного из ее друзей!"
+    "И я только что выдал себя за одного из её друзей!"
 
 # ch/ayesha/events.rpy:1317
 translate russian ayesha_event_06_19361d8c:
-    "Опустив голову, я тороплюсь найти свое место."
+    "Опустив голову, я тороплюсь найти своё место."
 
 # ch/ayesha/events.rpy:1318
 translate russian ayesha_event_06_0f7988d6:
@@ -9894,11 +9894,11 @@ translate russian ayesha_event_06_35a2052b:
 
 # ch/ayesha/events.rpy:1322
 translate russian ayesha_event_06_b18dcb5c:
-    "Оглядываясь на толпу, я вижу, как она выходит из-за занавеса и идет по проходу к рингу."
+    "Оглядываясь на толпу, я вижу, как она выходит из-за занавеса и идёт по проходу к рингу."
 
 # ch/ayesha/events.rpy:1323
 translate russian ayesha_event_06_404fefe6:
-    "И тогда я забываю обо всем, кроме того, чтобы скрыть свою симпатию от окружающих."
+    "И тогда я забываю обо всём, кроме того, чтобы скрыть свою симпатию от окружающих."
 
 # ch/ayesha/events.rpy:1325
 translate russian ayesha_event_06_1e461413:
@@ -9926,11 +9926,11 @@ translate russian ayesha_event_06_70c33cfd:
 
 # ch/ayesha/events.rpy:1332
 translate russian ayesha_event_06_c101a3d5:
-    "И все, я чувствую, как мое сердце бешено колотится в груди."
+    "И все, я чувствую, как моё сердце бешено колотится в груди."
 
 # ch/ayesha/events.rpy:1333
 translate russian ayesha_event_06_951e7ad2:
-    "Я снова чувствую себя ребенком, смотрящим по выходным рестлинг и кричащим перед телевизором!"
+    "Я снова чувствую себя ребёнком, смотрящим по выходным рестлинг и кричащим перед телевизором!"
 
 # ch/ayesha/events.rpy:1334
 translate russian ayesha_event_06_8a5cb92d:
@@ -9946,19 +9946,19 @@ translate russian ayesha_event_06_15c3b848:
 
 # ch/ayesha/events.rpy:1337
 translate russian ayesha_event_06_b7c73b13:
-    "Остальное – это калейдоскоп криков поддержки, свиста и моих собственных бурных эмоций."
+    "Остальное — это калейдоскоп криков поддержки, свиста и моих собственных бурных эмоций."
 
 # ch/ayesha/events.rpy:1338
 translate russian ayesha_event_06_1f4e1d08:
-    "Я переживаю каждый ее шаг, радуюсь ее победам и расстраиваюсь, когда ей приходится терпеть поражение."
+    "Я переживаю каждый её шаг, радуюсь её победам и расстраиваюсь, когда ей приходится терпеть поражение."
 
 # ch/ayesha/events.rpy:1339
 translate russian ayesha_event_06_4ad18f0d:
-    "Она легко справляется со своей первой соперницей, придавив ее к полу мощным броском \"пауэрслэмом\"."
+    "Она легко справляется со своей первой соперницей, придавив её к полу мощным броском «пауэрслэмом»."
 
 # ch/ayesha/events.rpy:1340
 translate russian ayesha_event_06_3588ca3a:
-    "Вторая соперница оказывает ей больше сопротивления, но в итоге сдается под ее медвежий захват."
+    "Вторая соперница оказывает ей больше сопротивления, но в итоге сдаётся под её медвежий захват."
 
 # ch/ayesha/events.rpy:1341
 translate russian ayesha_event_06_6966242d:
@@ -9966,15 +9966,15 @@ translate russian ayesha_event_06_6966242d:
 
 # ch/ayesha/events.rpy:1342
 translate russian ayesha_event_06_bc291655:
-    "Но в своем третьем бою Аyesha, кажется, встретила достойного противника."
+    "Но в своём третьем бою Аyesha, кажется, встретила достойного противника."
 
 # ch/ayesha/events.rpy:1343
 translate russian ayesha_event_06_789bf955:
-    "Эта девушка меньше ростом, но с самого начала за нее активно болеют зрители."
+    "Эта девушка меньше ростом, но с самого начала за неё активно болеют зрители."
 
 # ch/ayesha/events.rpy:1344
 translate russian ayesha_event_06_5c8d5288:
-    "Каким-то образом ей всегда удается перехитрить Ayesha или парировать ее действия в самый подходящий момент."
+    "Каким-то образом ей всегда удаётся перехитрить Ayesha или парировать её действия в самый подходящий момент."
 
 # ch/ayesha/events.rpy:1345
 translate russian ayesha_event_06_e3a2b14f:
@@ -9982,11 +9982,11 @@ translate russian ayesha_event_06_e3a2b14f:
 
 # ch/ayesha/events.rpy:1346
 translate russian ayesha_event_06_d974246e:
-    "Беззащитную девушку бросают вперед на коврик с помощью немецкого суплекса."
+    "Беззащитную девушку бросают вперёд на коврик с помощью немецкого суплекса."
 
 # ch/ayesha/events.rpy:1347
 translate russian ayesha_event_06_0c0411b8:
-    "Я слышу, как судья бьет молотком по рингу."
+    "Я слышу, как судья бьёт молотком по рингу."
 
 # ch/ayesha/events.rpy:1348
 translate russian ayesha_event_06_fe64cea5:
@@ -10010,7 +10010,7 @@ translate russian ayesha_event_06_de9bc97a:
 
 # ch/ayesha/events.rpy:1353
 translate russian ayesha_event_06_a46f876e:
-    "Меньшая из девушек с трудом поднимается на ноги, пока судья поднимает ее руку в знак победы."
+    "Меньшая из девушек с трудом поднимается на ноги, пока судья поднимает её руку в знак победы."
 
 # ch/ayesha/events.rpy:1354
 translate russian ayesha_event_06_e5a59e87:
@@ -10026,7 +10026,7 @@ translate russian ayesha_event_06_a0d3e9a3:
 
 # ch/ayesha/events.rpy:1358
 translate russian ayesha_event_06_5f05c271:
-    "Я иду прямо к началу очереди, стараясь игнорировать возмущенные взгляды, которые это у меня вызывает."
+    "Я иду прямо к началу очереди, стараясь игнорировать возмущённые взгляды, которые это у меня вызывает."
 
 # ch/ayesha/events.rpy:1359
 translate russian ayesha_event_06_d99071d9:
@@ -10042,19 +10042,19 @@ translate russian ayesha_event_06_7e62002f:
 
 # ch/ayesha/events.rpy:1362
 translate russian ayesha_event_06_cdff88ee:
-    mike.say "Я ее..."
+    mike.say "Я её..."
 
 # ch/ayesha/events.rpy:1363
 translate russian ayesha_event_06_4b114561:
-    "Прежде чем я успеваю произнести это слово, я вспоминаю, что мы – плохие парни, и стою рядом с фанатами."
+    "Прежде чем я успеваю произнести это слово, я вспоминаю, что мы — плохие парни, и стою рядом с фанатами."
 
 # ch/ayesha/events.rpy:1364
 translate russian ayesha_event_06_803b40a6:
-    "Поэтому я наклоняюсь вперед и пытаюсь прошептать это слово так, чтобы его услышал только охранник."
+    "Поэтому я наклоняюсь вперёд и пытаюсь прошептать это слово так, чтобы его услышал только охранник."
 
 # ch/ayesha/events.rpy:1365
 translate russian ayesha_event_06_4a7ee843:
-    mike.say "Я ее менеджер!"
+    mike.say "Я её менеджер!"
 
 # ch/ayesha/events.rpy:1366
 translate russian ayesha_event_06_e67ca7bc_1:
@@ -10062,11 +10062,11 @@ translate russian ayesha_event_06_e67ca7bc_1:
 
 # ch/ayesha/events.rpy:1367
 translate russian ayesha_event_06_704f4e85_1:
-    mike.say "[heroname]. (Обращение на \"ты\")"
+    mike.say "[heroname]. (Обращение на «ты»)"
 
 # ch/ayesha/events.rpy:1368
 translate russian ayesha_event_06_2c26e0bf_1:
-    mike.say "[heroname] [hero.family_name]. (Обращение на \"ты\")"
+    mike.say "[heroname] [hero.family_name]. (Обращение на «ты»)"
 
 # ch/ayesha/events.rpy:1369
 translate russian ayesha_event_06_5d94d98b_1:
@@ -10078,11 +10078,11 @@ translate russian ayesha_event_06_76aa685e:
 
 # ch/ayesha/events.rpy:1371
 translate russian ayesha_event_06_93fca21a:
-    "Я чуть не спотыкаюсь об Аюшу, пробираясь через гримерку."
+    "Я чуть не спотыкаюсь об Аюшу, пробираясь через гримёрку."
 
 # ch/ayesha/events.rpy:1372
 translate russian ayesha_event_06_b71b112c:
-    "Но потом она встает, надевает последнюю часть своей спортивной формы и начинает шнуровать ботинки."
+    "Но потом она встаёт, надевает последнюю часть своей спортивной формы и начинает шнуровать ботинки."
 
 # ch/ayesha/events.rpy:1375
 translate russian ayesha_event_06_1ee4aac1:
@@ -10094,11 +10094,11 @@ translate russian ayesha_event_06_e32ce7f4:
 
 # ch/ayesha/events.rpy:1377
 translate russian ayesha_event_06_854a474f:
-    "Я слышу, как дрожит мой голос, и чувствую, как бешено колотится мое сердце."
+    "Я слышу, как дрожит мой голос, и чувствую, как бешено колотится моё сердце."
 
 # ch/ayesha/events.rpy:1378
 translate russian ayesha_event_06_040f192e:
-    "Видите ли, я никогда раньше не был так близко к Аюше в ее костюме."
+    "Видите ли, я никогда раньше не был так близко к Аюше в её костюме."
 
 # ch/ayesha/events.rpy:1379
 translate russian ayesha_event_06_6640ede9:
@@ -10122,7 +10122,7 @@ translate russian ayesha_event_06_d37ee418:
 
 # ch/ayesha/events.rpy:1385
 translate russian ayesha_event_06_24465b25:
-    ayesha.say "Но тебе не о чем беспокоиться, просто следуй за мной, ладно?"
+    ayesha.say "Но тебе не о чём беспокоиться, просто следуй за мной, ладно?"
 
 # ch/ayesha/events.rpy:1386
 translate russian ayesha_event_06_e5798e3e:
@@ -10154,7 +10154,7 @@ translate russian ayesha_event_06_bf772404:
 
 # ch/ayesha/events.rpy:1393
 translate russian ayesha_event_06_356d4d41:
-    "Я киваю второй раз, и тут кто-то произносит ее имя."
+    "Я киваю второй раз, и тут кто-то произносит её имя."
 
 # ch/ayesha/events.rpy:1394
 translate russian ayesha_event_06_e48c82ba:
@@ -10162,11 +10162,11 @@ translate russian ayesha_event_06_e48c82ba:
 
 # ch/ayesha/events.rpy:1395
 translate russian ayesha_event_06_c29c6078:
-    "В следующий момент я понимаю, что мы стоим за кулисами, а музыка Аиши начинает играть по громкой связи."
+    "В следующий момент я понимаю, что мы стоим за кулисами, а музыка Айши начинает играть по громкой связи."
 
 # ch/ayesha/events.rpy:1396
 translate russian ayesha_event_06_d617d149:
-    "То, что происходит дальше, – это калейдоскоп цветов, звуков и эмоций."
+    "То, что происходит дальше, — это калейдоскоп цветов, звуков и эмоций."
 
 # ch/ayesha/events.rpy:1397
 translate russian ayesha_event_06_633b7494:
@@ -10174,7 +10174,7 @@ translate russian ayesha_event_06_633b7494:
 
 # ch/ayesha/events.rpy:1398
 translate russian ayesha_event_06_18814e30:
-    "Но когда мы выходим из-за кулис и идем по проходу к рингу, все становится гораздо больше."
+    "Но когда мы выходим из-за кулис и идём по проходу к рингу, все становится гораздо больше."
 
 # ch/ayesha/events.rpy:1399
 translate russian ayesha_event_06_7fc3bc99:
@@ -10182,7 +10182,7 @@ translate russian ayesha_event_06_7fc3bc99:
 
 # ch/ayesha/events.rpy:1400
 translate russian ayesha_event_06_e74eb547:
-    "Когда мы подходим к бортику ринга, Аиша кивает мне, чтобы я оставался на месте."
+    "Когда мы подходим к бортику ринга, Айша кивает мне, чтобы я оставался на месте."
 
 # ch/ayesha/events.rpy:1401
 translate russian ayesha_event_06_e975cd4e:
@@ -10194,11 +10194,11 @@ translate russian ayesha_event_06_70c33cfd_1:
 
 # ch/ayesha/events.rpy:1403
 translate russian ayesha_event_06_c101a3d5_1:
-    "И все, я чувствую, как мое сердце бешено колотится в груди."
+    "И все, я чувствую, как моё сердце бешено колотится в груди."
 
 # ch/ayesha/events.rpy:1404
 translate russian ayesha_event_06_d0ed245f:
-    "Сейчас мне совершенно все равно, что думают или говорят фанаты за моей спиной."
+    "Сейчас мне совершенно всё равно, что думают или говорят фанаты за моей спиной."
 
 # ch/ayesha/events.rpy:1405
 translate russian ayesha_event_06_9c301fb8:
@@ -10206,15 +10206,15 @@ translate russian ayesha_event_06_9c301fb8:
 
 # ch/ayesha/events.rpy:1406
 translate russian ayesha_event_06_1f4e1d08_1:
-    "Я переживаю каждый ее шаг, радуюсь ее победам и расстраиваюсь, когда ей приходится терпеть поражение."
+    "Я переживаю каждый её шаг, радуюсь её победам и расстраиваюсь, когда ей приходится терпеть поражение."
 
 # ch/ayesha/events.rpy:1407
 translate russian ayesha_event_06_4ad18f0d_1:
-    "Она легко справляется со своей первой соперницей, придавив ее к полу мощным броском \"пауэрслэмом\"."
+    "Она легко справляется со своей первой соперницей, придавив её к полу мощным броском «пауэрслэмом»."
 
 # ch/ayesha/events.rpy:1408
 translate russian ayesha_event_06_3588ca3a_1:
-    "Вторая соперница оказывает ей больше сопротивления, но в итоге сдается под ее медвежий захват."
+    "Вторая соперница оказывает ей больше сопротивления, но в итоге сдаётся под её медвежий захват."
 
 # ch/ayesha/events.rpy:1409
 translate russian ayesha_event_06_6966242d_1:
@@ -10222,15 +10222,15 @@ translate russian ayesha_event_06_6966242d_1:
 
 # ch/ayesha/events.rpy:1410
 translate russian ayesha_event_06_bc291655_1:
-    "Но в своем третьем бою Аyesha, кажется, встретила достойного противника."
+    "Но в своём третьем бою Аyesha, кажется, встретила достойного противника."
 
 # ch/ayesha/events.rpy:1411
 translate russian ayesha_event_06_789bf955_1:
-    "Эта девушка меньше ростом, но с самого начала за нее активно болеют зрители."
+    "Эта девушка меньше ростом, но с самого начала за неё активно болеют зрители."
 
 # ch/ayesha/events.rpy:1412
 translate russian ayesha_event_06_5c8d5288_1:
-    "Каким-то образом ей всегда удается перехитрить Ayesha или парировать ее действия в самый подходящий момент."
+    "Каким-то образом ей всегда удаётся перехитрить Ayesha или парировать её действия в самый подходящий момент."
 
 # ch/ayesha/events.rpy:1413
 translate russian ayesha_event_06_e3a2b14f_1:
@@ -10238,7 +10238,7 @@ translate russian ayesha_event_06_e3a2b14f_1:
 
 # ch/ayesha/events.rpy:1414
 translate russian ayesha_event_06_d974246e_1:
-    "Беззащитную девушку бросают вперед на коврик с помощью немецкого суплекса."
+    "Беззащитную девушку бросают вперёд на коврик с помощью немецкого суплекса."
 
 # ch/ayesha/events.rpy:1415
 translate russian ayesha_event_06_40216ed1:
@@ -10266,7 +10266,7 @@ translate russian ayesha_event_06_de9bc97a_1:
 
 # ch/ayesha/events.rpy:1421
 translate russian ayesha_event_06_a46f876e_1:
-    "Меньшая из девушек с трудом поднимается на ноги, пока судья поднимает ее руку в знак победы."
+    "Меньшая из девушек с трудом поднимается на ноги, пока судья поднимает её руку в знак победы."
 
 # ch/ayesha/events.rpy:1422
 translate russian ayesha_event_06_e5a59e87_1:
@@ -10306,19 +10306,19 @@ translate russian ayesha_event_06_bf5395ca:
 
 # ch/ayesha/events.rpy:1440
 translate russian ayesha_event_06_3c34a681:
-    mike.say "Черт возьми, ты даже заставила меня поверить, что ты настоящая стерва!"
+    mike.say "Чёрт возьми, ты даже заставила меня поверить, что ты настоящая стерва!"
 
 # ch/ayesha/events.rpy:1443
 translate russian ayesha_event_06_d49a0826:
-    "Айша громко смеется над моими словами, явно amused тем, что я только что сказал."
+    "Айша громко смеётся над моими словами, явно amused тем, что я только что сказал."
 
 # ch/ayesha/events.rpy:1444
 translate russian ayesha_event_06_0518fd08:
-    ayesha.say "Как ты можешь знать, что я не притворяюсь все остальное время?"
+    ayesha.say "Как ты можешь знать, что я не притворяюсь всё остальное время?"
 
 # ch/ayesha/events.rpy:1445
 translate russian ayesha_event_06_eac1c98a:
-    ayesha.say "Может быть, единственное время, когда я настоящая – это на ринге."
+    ayesha.say "Может быть, единственное время, когда я настоящая — это на ринге."
 
 # ch/ayesha/events.rpy:1446
 translate russian ayesha_event_06_d47a1023:
@@ -10326,7 +10326,7 @@ translate russian ayesha_event_06_d47a1023:
 
 # ch/ayesha/events.rpy:1447
 translate russian ayesha_event_06_b059d919:
-    mike.say "Знаешь, Аиша, я никогда этого не делал, пока ты только что не сказала об этом."
+    mike.say "Знаешь, Айша, я никогда этого не делал, пока ты только что не сказала об этом."
 
 # ch/ayesha/events.rpy:1448
 translate russian ayesha_event_06_75432fd0:
@@ -10334,7 +10334,7 @@ translate russian ayesha_event_06_75432fd0:
 
 # ch/ayesha/events.rpy:1449
 translate russian ayesha_event_06_a40460e3:
-    "Аиша приподнимает одну бровь, и ее улыбка становится почти коварной."
+    "Айша приподнимает одну бровь, и её улыбка становится почти коварной."
 
 # ch/ayesha/events.rpy:1450
 translate russian ayesha_event_06_2ea3d790:
@@ -10354,7 +10354,7 @@ translate russian ayesha_event_06_beb6619c:
 
 # ch/ayesha/events.rpy:1456
 translate russian ayesha_event_06_1a7cf654:
-    "Встав и подойдя к тому месту, где я стою, Аиша наклоняется ко мне очень близко."
+    "Встав и подойдя к тому месту, где я стою, Айша наклоняется ко мне очень близко."
 
 # ch/ayesha/events.rpy:1458
 translate russian ayesha_event_06_8e7122ff:
@@ -10366,7 +10366,7 @@ translate russian ayesha_event_06_237926b0:
 
 # ch/ayesha/events.rpy:1463
 translate russian ayesha_event_06_6f17ecb4:
-    "Я вижу веселый огонек в ее глазах."
+    "Я вижу весёлый огонёк в её глазах."
 
 # ch/ayesha/events.rpy:1464
 translate russian ayesha_event_06_823ef5b5:
@@ -10422,7 +10422,7 @@ translate russian ayesha_event_06_manager_postgame_425a70d7:
 
 # ch/ayesha/events.rpy:1481
 translate russian ayesha_event_06_manager_postgame_5d597934:
-    "Айша издает звук, похожий на фырканье, а затем заливается смехом."
+    "Айша издаёт звук, похожий на фырканье, а затем заливается смехом."
 
 # ch/ayesha/events.rpy:1484
 translate russian ayesha_event_06_manager_postgame_ae62865f:
@@ -10430,7 +10430,7 @@ translate russian ayesha_event_06_manager_postgame_ae62865f:
 
 # ch/ayesha/events.rpy:1485
 translate russian ayesha_event_06_manager_postgame_faefc199:
-    ayesha.say "Я знаю, что ты знаешь, что все это – спектакль."
+    ayesha.say "Я знаю, что ты знаешь, что все это — спектакль."
 
 # ch/ayesha/events.rpy:1486
 translate russian ayesha_event_06_manager_postgame_a05263e6:
@@ -10454,7 +10454,7 @@ translate russian ayesha_event_06_manager_postgame_ea70f9e4:
 
 # ch/ayesha/events.rpy:1491
 translate russian ayesha_event_06_manager_postgame_07784e37:
-    "Однако, похоже, Айша этого не замечает, она встает и подходит к тому месту, где я стою."
+    "Однако, похоже, Айша этого не замечает, она встаёт и подходит к тому месту, где я стою."
 
 # ch/ayesha/events.rpy:1498
 translate russian ayesha_event_07_e1e28ed2:
@@ -10470,7 +10470,7 @@ translate russian ayesha_event_07_332e253c:
 
 # ch/ayesha/events.rpy:1501
 translate russian ayesha_event_07_352384d7:
-    mike.say "Я не имею в виду, что я буду тусоваться и сравнивать покемонов с местными подростками, Аиша!"
+    mike.say "Я не имею в виду, что я буду тусоваться и сравнивать покемонов с местными подростками, Айша!"
 
 # ch/ayesha/events.rpy:1502
 translate russian ayesha_event_07_4389194f:
@@ -10494,19 +10494,19 @@ translate russian ayesha_event_07_f6c1a13b:
 
 # ch/ayesha/events.rpy:1507
 translate russian ayesha_event_07_4713426a:
-    "Наверное, я просто предполагал, что все знают, что прогулка по торговому центру – это нормально."
+    "Наверное, я просто предполагал, что все знают, что прогулка по торговому центру — это нормально."
 
 # ch/ayesha/events.rpy:1508
 translate russian ayesha_event_07_08439449:
-    "Но, возможно, Аиша просто никогда не делала этого, когда была ребенком?"
+    "Но, возможно, Айша просто никогда не делала этого, когда была ребёнком?"
 
 # ch/ayesha/events.rpy:1509
 translate russian ayesha_event_07_51be9ae0:
-    "Что, конечно, является еще одной причиной для того, чтобы познакомить ее с этим сейчас."
+    "Что, конечно, является ещё одной причиной для того, чтобы познакомить её с этим сейчас."
 
 # ch/ayesha/events.rpy:1510
 translate russian ayesha_event_07_8af64107:
-    "Когда я встречаюсь с Аишей через некоторое время, я сразу вижу, что она все еще не уверена в этой идее."
+    "Когда я встречаюсь с Айшей через некоторое время, я сразу вижу, что она всё ещё не уверена в этой идее."
 
 # ch/ayesha/events.rpy:1511
 translate russian ayesha_event_07_281950d4:
@@ -10514,7 +10514,7 @@ translate russian ayesha_event_07_281950d4:
 
 # ch/ayesha/events.rpy:1512
 translate russian ayesha_event_07_2d807991:
-    mike.say "Привет, Аиша."
+    mike.say "Привет, Айша."
 
 # ch/ayesha/events.rpy:1513
 translate russian ayesha_event_07_9d6721e1:
@@ -10530,19 +10530,19 @@ translate russian ayesha_event_07_c3a8a4b3:
 
 # ch/ayesha/events.rpy:1517
 translate russian ayesha_event_07_42b5b4ca:
-    mike.say "Конечно, Аиша, конечно."
+    mike.say "Конечно, Айша, конечно."
 
 # ch/ayesha/events.rpy:1518
 translate russian ayesha_event_07_08a9bb04:
-    mike.say "Слушай, может, пойдем выпьем кофе?"
+    mike.say "Слушай, может, пойдём выпьем кофе?"
 
 # ch/ayesha/events.rpy:1520
 translate russian ayesha_event_07_6cd3c0b6:
-    "Когда мы начинаем прогулку по торговому центру, Аиша все еще кажется заметно нервной."
+    "Когда мы начинаем прогулку по торговому центру, Айша всё ещё кажется заметно нервной."
 
 # ch/ayesha/events.rpy:1521
 translate russian ayesha_event_07_9d4bfc7e:
-    "Она оглядывается и колеблется, прежде чем заговорить, словно боится, что произойдет что-то неожиданное."
+    "Она оглядывается и колеблется, прежде чем заговорить, словно боится, что произойдёт что-то неожиданное."
 
 # ch/ayesha/events.rpy:1522
 translate russian ayesha_event_07_614556ec:
@@ -10550,11 +10550,11 @@ translate russian ayesha_event_07_614556ec:
 
 # ch/ayesha/events.rpy:1523
 translate russian ayesha_event_07_ac44cd75:
-    "Может быть, мне нужно вмешаться и убедиться, что все пройдет хорошо, пока не стало слишком поздно..."
+    "Может быть, мне нужно вмешаться и убедиться, что все пройдёт хорошо, пока не стало слишком поздно..."
 
 # ch/ayesha/events.rpy:1526
 translate russian ayesha_event_07_7952bdb4:
-    mike.say "Я до сих пор не могу поверить, что ты не делала этого раньше, Аиша!"
+    mike.say "Я до сих пор не могу поверить, что ты не делала этого раньше, Айша!"
 
 # ch/ayesha/events.rpy:1527
 translate russian ayesha_event_07_dd9295bc:
@@ -10562,7 +10562,7 @@ translate russian ayesha_event_07_dd9295bc:
 
 # ch/ayesha/events.rpy:1528
 translate russian ayesha_event_07_15782866:
-    "Аиша дарит мне печальную улыбку, качая головой."
+    "Айша дарит мне печальную улыбку, качая головой."
 
 # ch/ayesha/events.rpy:1529
 translate russian ayesha_event_07_d4de349a:
@@ -10594,7 +10594,7 @@ translate russian ayesha_event_07_65f15f8f:
 
 # ch/ayesha/events.rpy:1537
 translate russian ayesha_event_07_de9d815f:
-    "Но меня все равно беспокоит, что она может разрушить всё, даже не осознавая этого."
+    "Но меня всё равно беспокоит, что она может разрушить всё, даже не осознавая этого."
 
 # ch/ayesha/events.rpy:1538
 translate russian ayesha_event_07_33ef8af5:
@@ -10602,7 +10602,7 @@ translate russian ayesha_event_07_33ef8af5:
 
 # ch/ayesha/events.rpy:1540
 translate russian ayesha_event_07_3d6671c0:
-    ayesha.say "Я не уверена насчет этого..."
+    ayesha.say "Я не уверена насчёт этого..."
 
 # ch/ayesha/events.rpy:1541
 translate russian ayesha_event_07_a08cb324:
@@ -10638,11 +10638,11 @@ translate russian ayesha_event_07_beb1aecb:
 
 # ch/ayesha/events.rpy:1549
 translate russian ayesha_event_07_cec1170a:
-    mike.say "А сейчас – вот."
+    mike.say "А сейчас — вот."
 
 # ch/ayesha/events.rpy:1550
 translate russian ayesha_event_07_91c79a38:
-    mike.say "Ты все еще можешь наверстать упущенное, знаешь?"
+    mike.say "Ты всё ещё можешь наверстать упущенное, знаешь?"
 
 # ch/ayesha/events.rpy:1551
 translate russian ayesha_event_07_07d3eeb7:
@@ -10654,7 +10654,7 @@ translate russian ayesha_event_07_c861c55a:
 
 # ch/ayesha/events.rpy:1555
 translate russian ayesha_event_07_253fed34:
-    mike.say "Аиша, я действительно был искренен, когда сказал, что благодарен тебе за то, что ты пришла сюда."
+    mike.say "Айша, я действительно был искренен, когда сказал, что благодарен тебе за то, что ты пришла сюда."
 
 # ch/ayesha/events.rpy:1556
 translate russian ayesha_event_07_2ba57595:
@@ -10678,7 +10678,7 @@ translate russian ayesha_event_07_c3d64d27:
 
 # ch/ayesha/events.rpy:1563
 translate russian ayesha_event_07_518a9f00:
-    "Я качаю головой, желая, чтобы Аиша почувствовала, что может открыться мне."
+    "Я качаю головой, желая, чтобы Айша почувствовала, что может открыться мне."
 
 # ch/ayesha/events.rpy:1564
 translate russian ayesha_event_07_f433a5f5:
@@ -10698,7 +10698,7 @@ translate russian ayesha_event_07_e9691651:
 
 # ch/ayesha/events.rpy:1569
 translate russian ayesha_event_07_097cd61c:
-    "Признание Аиши застало меня врасплох."
+    "Признание Айши застало меня врасплох."
 
 # ch/ayesha/events.rpy:1570
 translate russian ayesha_event_07_fb2e6f62:
@@ -10710,7 +10710,7 @@ translate russian ayesha_event_07_6885f03f:
 
 # ch/ayesha/events.rpy:1572
 translate russian ayesha_event_07_03cbda15:
-    "Аиша молча кивает."
+    "Айша молча кивает."
 
 # ch/ayesha/events.rpy:1573
 translate russian ayesha_event_07_c23f6582:
@@ -10722,7 +10722,7 @@ translate russian ayesha_event_07_d27dc9dc:
 
 # ch/ayesha/events.rpy:1575
 translate russian ayesha_event_07_49758bf5:
-    ayesha.say "И когда мы проводили время вместе, мы занимались учебой или читали в библиотеке."
+    ayesha.say "И когда мы проводили время вместе, мы занимались учёбой или читали в библиотеке."
 
 # ch/ayesha/events.rpy:1576
 translate russian ayesha_event_07_092f92ac:
@@ -10766,7 +10766,7 @@ translate russian ayesha_event_07_e2344098:
 
 # ch/ayesha/events.rpy:1587
 translate russian ayesha_event_07_6954a7d6:
-    "Я вижу, как немного грусти уходит с ее улыбки."
+    "Я вижу, как немного грусти уходит с её улыбки."
 
 # ch/ayesha/events.rpy:1588
 translate russian ayesha_event_07_1cf80307:
@@ -10786,11 +10786,11 @@ translate russian ayesha_event_07_85ec6fda:
 
 # ch/ayesha/events.rpy:1592
 translate russian ayesha_event_07_07906dec:
-    "И хотя я чувствую, что Айше все еще не совсем комфортно здесь, она старается получить удовольствие."
+    "И хотя я чувствую, что Айше всё ещё не совсем комфортно здесь, она старается получить удовольствие."
 
 # ch/ayesha/events.rpy:1593
 translate russian ayesha_event_07_84c16ba7:
-    "Я не могу не думать, что мои слова действительно до нее дошли, что она их восприняла близко к сердцу."
+    "Я не могу не думать, что мои слова действительно до неё дошли, что она их восприняла близко к сердцу."
 
 # ch/ayesha/events.rpy:1594
 translate russian ayesha_event_07_6d31e995:
@@ -10818,7 +10818,7 @@ translate russian ayesha_event_08a_188e5673:
 
 # ch/ayesha/events.rpy:1607
 translate russian ayesha_event_08a_ba7ed9ad:
-    "Я резко оборачиваюсь на каблуке, будучи совершенно удивленным."
+    "Я резко оборачиваюсь на каблуке, будучи совершенно удивлённым."
 
 # ch/ayesha/events.rpy:1608
 translate russian ayesha_event_08a_e84ffc6f:
@@ -10842,7 +10842,7 @@ translate russian ayesha_event_08a_eae1d648:
 
 # ch/ayesha/events.rpy:1614
 translate russian ayesha_event_08a_d60cdba9:
-    "Все это говорит мне о том, что она настроена серьезно!"
+    "Все это говорит мне о том, что она настроена серьёзно!"
 
 # ch/ayesha/events.rpy:1615
 translate russian ayesha_event_08a_7e8b635c:
@@ -10850,7 +10850,7 @@ translate russian ayesha_event_08a_7e8b635c:
 
 # ch/ayesha/events.rpy:1616
 translate russian ayesha_event_08a_c4fb2153:
-    ayesha.say "Потому что мне нужна определенная степень вовлеченности от моей команды!"
+    ayesha.say "Потому что мне нужна определённая степень вовлеченности от моей команды!"
 
 # ch/ayesha/events.rpy:1617
 translate russian ayesha_event_08a_75a67333:
@@ -10870,7 +10870,7 @@ translate russian ayesha_event_08a_f5b72104:
 
 # ch/ayesha/events.rpy:1621
 translate russian ayesha_event_08a_841c281f:
-    "К тому же, у меня будет возможность \"лично\" поработать с Айшей!"
+    "К тому же, у меня будет возможность «лично» поработать с Айшей!"
 
 # ch/ayesha/events.rpy:1622
 translate russian ayesha_event_08a_fa68f7c1:
@@ -10898,11 +10898,11 @@ translate russian ayesha_event_08a_977290df:
 
 # ch/ayesha/events.rpy:1632
 translate russian ayesha_event_08a_88b86c28:
-    "Она не видит меня, когда я захожу, потому что ее спина повернута."
+    "Она не видит меня, когда я захожу, потому что её спина повернута."
 
 # ch/ayesha/events.rpy:1633
 translate russian ayesha_event_08a_e33800d7:
-    "Я открываю рот, чтобы сообщить о своем присутствии."
+    "Я открываю рот, чтобы сообщить о своём присутствии."
 
 # ch/ayesha/events.rpy:1634
 translate russian ayesha_event_08a_8450106a:
@@ -10914,7 +10914,7 @@ translate russian ayesha_event_08a_8eed6a34:
 
 # ch/ayesha/events.rpy:1636
 translate russian ayesha_event_08a_5bcbe972:
-    "И он отлично обтягивает ее, когда она делает растяжку и разминается."
+    "И он отлично обтягивает её, когда она делает растяжку и разминается."
 
 # ch/ayesha/events.rpy:1637
 translate russian ayesha_event_08a_9eb64829:
@@ -10938,7 +10938,7 @@ translate russian ayesha_event_08a_8f74f5bd:
 
 # ch/ayesha/events.rpy:1646
 translate russian ayesha_event_08a_b09095cf:
-    ayesha.say "Иди сюда, черт возьми!"
+    ayesha.say "Иди сюда, чёрт возьми!"
 
 # ch/ayesha/events.rpy:1647
 translate russian ayesha_event_08a_889802a8:
@@ -10954,7 +10954,7 @@ translate russian ayesha_event_08a_fa311b3c:
 
 # ch/ayesha/events.rpy:1651
 translate russian ayesha_event_08a_90a528ec:
-    "Я быстро подхожу к коврикам, где меня ждет Айша."
+    "Я быстро подхожу к коврикам, где меня ждёт Айша."
 
 # ch/ayesha/events.rpy:1652
 translate russian ayesha_event_08a_dba6f805:
@@ -10978,7 +10978,7 @@ translate russian ayesha_event_08a_aef7dedf:
 
 # ch/ayesha/events.rpy:1658
 translate russian ayesha_event_08a_7acbb5df:
-    ayesha.say "Это именно про приемы и работу на полу, верно?"
+    ayesha.say "Это именно про приёмы и работу на полу, верно?"
 
 # ch/ayesha/events.rpy:1659
 translate russian ayesha_event_08a_90211d4a:
@@ -10986,7 +10986,7 @@ translate russian ayesha_event_08a_90211d4a:
 
 # ch/ayesha/events.rpy:1660
 translate russian ayesha_event_08a_9767c07f:
-    mike.say "А чем я могу помочь в этом, Аиша?"
+    mike.say "А чем я могу помочь в этом, Айша?"
 
 # ch/ayesha/events.rpy:1661
 translate russian ayesha_event_08a_18854128:
@@ -10998,11 +10998,11 @@ translate russian ayesha_event_08a_0bb98ae8:
 
 # ch/ayesha/events.rpy:1664
 translate russian ayesha_event_08a_83e0d45a:
-    "Аиша улыбается, приподнимая одну сторону губ."
+    "Айша улыбается, приподнимая одну сторону губ."
 
 # ch/ayesha/events.rpy:1665
 translate russian ayesha_event_08a_8392a6bd:
-    "И честно говоря, мне не нравится выражение ее глаз!"
+    "И честно говоря, мне не нравится выражение её глаз!"
 
 # ch/ayesha/events.rpy:1666
 translate russian ayesha_event_08a_1cb183c5:
@@ -11026,7 +11026,7 @@ translate russian ayesha_event_08a_7fa89472:
 
 # ch/ayesha/events.rpy:1672
 translate russian ayesha_event_08a_3486fe05:
-    "Но одновременно с этим Аиша принимает боевую стойку."
+    "Но одновременно с этим Айша принимает боевую стойку."
 
 # ch/ayesha/events.rpy:1674
 translate russian ayesha_event_08a_305bbc7b:
@@ -11034,7 +11034,7 @@ translate russian ayesha_event_08a_305bbc7b:
 
 # ch/ayesha/events.rpy:1676
 translate russian ayesha_event_08a_3c2500fc:
-    "И, честно говоря, я не уверен, что произойдет дальше."
+    "И, честно говоря, я не уверен, что произойдёт дальше."
 
 # ch/ayesha/events.rpy:1678
 translate russian ayesha_event_08a_f682247a:
@@ -11046,7 +11046,7 @@ translate russian ayesha_event_08a_9a106d82:
 
 # ch/ayesha/events.rpy:1681
 translate russian ayesha_event_08a_a704de6a:
-    "Я чувствую, как ее руки обвивают мою талию."
+    "Я чувствую, как её руки обвивают мою талию."
 
 # ch/ayesha/events.rpy:1682
 translate russian ayesha_event_08a_af822f54:
@@ -11078,7 +11078,7 @@ translate russian ayesha_event_08a_174f6146:
 
 # ch/ayesha/events.rpy:1695
 translate russian ayesha_event_08a_4192d1e2:
-    "Затем что-то тяжелое падает на середину моей спины."
+    "Затем что-то тяжёлое падает на середину моей спины."
 
 # ch/ayesha/events.rpy:1696
 translate russian ayesha_event_08a_8a5d5c08:
@@ -11090,7 +11090,7 @@ translate russian ayesha_event_08a_e86a7271:
 
 # ch/ayesha/events.rpy:1698
 translate russian ayesha_event_08a_1ca9d3d7:
-    mike.say "Что за черт?!?"
+    mike.say "Что за чёрт?!?"
 
 # ch/ayesha/events.rpy:1699
 translate russian ayesha_event_08a_7c919430:
@@ -11102,7 +11102,7 @@ translate russian ayesha_event_08a_74a5eff6:
 
 # ch/ayesha/events.rpy:1702
 translate russian ayesha_event_08a_54bfe85a:
-    ayesha.say "Это \"Camel Clutch\"."
+    ayesha.say "Это «Camel Clutch»."
 
 # ch/ayesha/events.rpy:1703
 translate russian ayesha_event_08a_990a1bb5:
@@ -11110,7 +11110,7 @@ translate russian ayesha_event_08a_990a1bb5:
 
 # ch/ayesha/events.rpy:1708
 translate russian ayesha_event_08a_3256ceac:
-    "Айша откидывается назад, и мне кажется, что я застрял в гребном тренажере."
+    "Айша откидывается назад, и мне кажется, что я застрял в гребном тренажёре."
 
 # ch/ayesha/events.rpy:1709
 translate russian ayesha_event_08a_fda650bf:
@@ -11130,7 +11130,7 @@ translate russian ayesha_event_08a_c61849ae:
 
 # ch/ayesha/events.rpy:1715
 translate russian ayesha_event_08a_2171de1b:
-    "Через мгновение Аиша отпускает меня из захвата."
+    "Через мгновение Айша отпускает меня из захвата."
 
 # ch/ayesha/events.rpy:1716
 translate russian ayesha_event_08a_ba211f5c:
@@ -11138,7 +11138,7 @@ translate russian ayesha_event_08a_ba211f5c:
 
 # ch/ayesha/events.rpy:1717
 translate russian ayesha_event_08a_32e5ca90:
-    "Потому что затем она перекатывается через мое тело и хватает мои ноги."
+    "Потому что затем она перекатывается через моё тело и хватает мои ноги."
 
 # ch/ayesha/events.rpy:1718
 translate russian ayesha_event_08a_f1c1c213:
@@ -11146,7 +11146,7 @@ translate russian ayesha_event_08a_f1c1c213:
 
 # ch/ayesha/events.rpy:1719
 translate russian ayesha_event_08a_40958597:
-    "На этот раз ноги Аиши переплетены с моими."
+    "На этот раз ноги Айши переплетены с моими."
 
 # ch/ayesha/events.rpy:1720
 translate russian ayesha_event_08a_95326c4c:
@@ -11162,7 +11162,7 @@ translate russian ayesha_event_08a_427789eb:
 
 # ch/ayesha/events.rpy:1724
 translate russian ayesha_event_08a_db38e665:
-    mike.say "Да, Аиша..."
+    mike.say "Да, Айша..."
 
 # ch/ayesha/events.rpy:1726
 translate russian ayesha_event_08a_545bd92b:
@@ -11174,11 +11174,11 @@ translate russian ayesha_event_08a_40fbf4a1:
 
 # ch/ayesha/events.rpy:1729
 translate russian ayesha_event_08a_33e93c10:
-    "Аиша смеется от торжества, но она не проявляет ко мне никакой жалости."
+    "Айша смеётся от торжества, но она не проявляет ко мне никакой жалости."
 
 # ch/ayesha/events.rpy:1731
 translate russian ayesha_event_08a_81ef1b41:
-    "Если что, она оказывает на меня еще большее давление, чем раньше."
+    "Если что, она оказывает на меня ещё большее давление, чем раньше."
 
 # ch/ayesha/events.rpy:1732
 translate russian ayesha_event_08a_754ff11c:
@@ -11186,7 +11186,7 @@ translate russian ayesha_event_08a_754ff11c:
 
 # ch/ayesha/events.rpy:1733
 translate russian ayesha_event_08a_19c00daf:
-    "Но Аиша полностью сосредоточена."
+    "Но Айша полностью сосредоточена."
 
 # ch/ayesha/events.rpy:1734
 translate russian ayesha_event_08a_f2c7eefa:
@@ -11194,7 +11194,7 @@ translate russian ayesha_event_08a_f2c7eefa:
 
 # ch/ayesha/events.rpy:1736
 translate russian ayesha_event_08a_f7980865:
-    "Без предупреждения Аиша снова двигается."
+    "Без предупреждения Айша снова двигается."
 
 # ch/ayesha/events.rpy:1737
 translate russian ayesha_event_08a_702850be:
@@ -11210,7 +11210,7 @@ translate russian ayesha_event_08a_f5fd242f:
 
 # ch/ayesha/events.rpy:1741
 translate russian ayesha_event_08a_53b2ec8a:
-    "Мне удаётся продвинуться примерно на метр, прежде чем Аиша снова набрасывается на меня."
+    "Мне удаётся продвинуться примерно на метр, прежде чем Айша снова набрасывается на меня."
 
 # ch/ayesha/events.rpy:1742
 translate russian ayesha_event_08a_e14a490b:
@@ -11234,11 +11234,11 @@ translate russian ayesha_event_08a_909bcb45:
 
 # ch/ayesha/events.rpy:1753
 translate russian ayesha_event_08a_14d5f34c:
-    ayesha.say "\"От этого тебе не убежать, [lssb_ayesha.hero_name()]!\"."
+    ayesha.say "«От этого тебе не убежать, [lssb_ayesha.hero_name()]!»."
 
 # ch/ayesha/events.rpy:1754
 translate russian ayesha_event_08a_1541b81c:
-    "Аиша откидывается назад, сгибая мою спину."
+    "Айша откидывается назад, сгибая мою спину."
 
 # ch/ayesha/events.rpy:1755
 translate russian ayesha_event_08a_199d58b8:
@@ -11282,7 +11282,7 @@ translate russian ayesha_event_08a_f9c424d3:
 
 # ch/ayesha/events.rpy:1770
 translate russian ayesha_event_08a_2ec37b13:
-    ayesha.say "Черт..."
+    ayesha.say "Чёрт..."
 
 # ch/ayesha/events.rpy:1772
 translate russian ayesha_event_08a_6c09de26:
@@ -11314,7 +11314,7 @@ translate russian ayesha_event_08a_edd4ce45:
 
 # ch/ayesha/events.rpy:1780
 translate russian ayesha_event_08a_60d56a18:
-    mike.say "Все будет хорошо, Айша."
+    mike.say "Всё будет хорошо, Айша."
 
 # ch/ayesha/events.rpy:1781
 translate russian ayesha_event_08a_757761fe:
@@ -11354,7 +11354,7 @@ translate russian ayesha_event_08a_69b5a2ee:
 
 # ch/ayesha/events.rpy:1790
 translate russian ayesha_event_08a_884ba499:
-    "Но немного \"потянуть время\" не повредит."
+    "Но немного «потянуть время» не повредит."
 
 # ch/ayesha/events.rpy:1791
 translate russian ayesha_event_08a_eeb25d50:
@@ -11382,11 +11382,11 @@ translate russian ayesha_event_08b_34c368e9:
 
 # ch/ayesha/events.rpy:1803
 translate russian ayesha_event_08b_8865e38d:
-    mike.say "Отличная идея, Аиша, я пойду с тобой!"
+    mike.say "Отличная идея, Айша, я пойду с тобой!"
 
 # ch/ayesha/events.rpy:1811
 translate russian missed_ayesha_event_08b_date_b61525b3:
-    "Черт, я пропустил свидание. Аиша разозлится."
+    "Чёрт, я пропустил свидание. Айша разозлится."
 
 # ch/ayesha/events.rpy:1823
 translate russian ayesha_event_08b_date_67e2dd67:
@@ -11406,7 +11406,7 @@ translate russian ayesha_event_08b_date_f837541b:
 
 # ch/ayesha/events.rpy:1827
 translate russian ayesha_event_08b_date_88718446:
-    "И если ты хочешь, чтобы он был доволен, тебе придется смириться с этим и потакать ему."
+    "И если ты хочешь, чтобы он был доволен, тебе придётся смириться с этим и потакать ему."
 
 # ch/ayesha/events.rpy:1831
 translate russian ayesha_event_08b_date_bc0ce23d:
@@ -11414,7 +11414,7 @@ translate russian ayesha_event_08b_date_bc0ce23d:
 
 # ch/ayesha/events.rpy:1832
 translate russian ayesha_event_08b_date_8d00de0a:
-    "Аиша увлечена этим видом спорта... или развлечения... или чем угодно, и она затащила меня сюда вместе с собой."
+    "Айша увлечена этим видом спорта... или развлечения... или чем угодно, и она затащила меня сюда вместе с собой."
 
 # ch/ayesha/events.rpy:1833
 translate russian ayesha_event_08b_date_ad6870b9:
@@ -11426,7 +11426,7 @@ translate russian ayesha_event_08b_date_c11a56b0:
 
 # ch/ayesha/events.rpy:1835
 translate russian ayesha_event_08b_date_cb11f143:
-    mike.say "Ты уверена, что сегодня не будешь бороться, Аиша?"
+    mike.say "Ты уверена, что сегодня не будешь бороться, Айша?"
 
 # ch/ayesha/events.rpy:1836
 translate russian ayesha_event_08b_date_9a880bb7:
@@ -11438,11 +11438,11 @@ translate russian ayesha_event_08b_date_51ba8793:
 
 # ch/ayesha/events.rpy:1839
 translate russian ayesha_event_08b_date_ce0bae82:
-    "Аиша фыркает от смеха и качает головой."
+    "Айша фыркает от смеха и качает головой."
 
 # ch/ayesha/events.rpy:1840
 translate russian ayesha_event_08b_date_9d0412b3:
-    ayesha.say "Ты имеешь в виду \"резкий поворот\", [lssb_ayesha.hero_name()]?"
+    ayesha.say "Ты имеешь в виду «резкий поворот», [lssb_ayesha.hero_name()]?"
 
 # ch/ayesha/events.rpy:1841
 translate russian ayesha_event_08b_date_7f86c12a:
@@ -11466,11 +11466,11 @@ translate russian ayesha_event_08b_date_4363733f:
 
 # ch/ayesha/events.rpy:1846
 translate russian ayesha_event_08b_date_ecf8a5c7:
-    "Что кто-то подойдет ко мне со складным стулом."
+    "Что кто-то подойдёт ко мне со складным стулом."
 
 # ch/ayesha/events.rpy:1850
 translate russian ayesha_event_08b_date_5bfc2f75:
-    "Прежде чем я успеваю поделиться своими опасениями с Аишей, гаснет свет."
+    "Прежде чем я успеваю поделиться своими опасениями с Айшей, гаснет свет."
 
 # ch/ayesha/events.rpy:1852
 translate russian ayesha_event_08b_date_e8673d8c:
@@ -11486,11 +11486,11 @@ translate russian ayesha_event_08b_date_39da164a:
 
 # ch/ayesha/events.rpy:1857
 translate russian ayesha_event_08b_date_ae530cef:
-    "Я наблюдаю, как мужчина в костюме идет по проходу."
+    "Я наблюдаю, как мужчина в костюме идёт по проходу."
 
 # ch/ayesha/events.rpy:1858
 translate russian ayesha_event_08b_date_f469c8b0:
-    "У него микрофон, поэтому я предполагаю, что он – комментатор ринга."
+    "У него микрофон, поэтому я предполагаю, что он — комментатор ринга."
 
 # ch/ayesha/events.rpy:1859
 translate russian ayesha_event_08b_date_9bf30a14:
@@ -11498,7 +11498,7 @@ translate russian ayesha_event_08b_date_9bf30a14:
 
 # ch/ayesha/events.rpy:1860
 translate russian ayesha_event_08b_date_0f12f2d9:
-    "Ведущий" "Дамы и господа…"
+    "Ведущий" "Дамы и господа..."
 
 # ch/ayesha/events.rpy:1861
 translate russian ayesha_event_08b_date_3047ae49:
@@ -11514,19 +11514,19 @@ translate russian ayesha_event_08b_date_4f7911a6:
 
 # ch/ayesha/events.rpy:1865
 translate russian ayesha_event_08b_date_0c633a60:
-    "Я подпрыгиваю на своем месте, когда вся толпа хором выкрикивает эти слова."
+    "Я подпрыгиваю на своём месте, когда вся толпа хором выкрикивает эти слова."
 
 # ch/ayesha/events.rpy:1867
 translate russian ayesha_event_08b_date_be466c28:
-    "Аиша замечает мое удивление и смеется, явно развлеченная."
+    "Айша замечает моё удивление и смеётся, явно развлеченная."
 
 # ch/ayesha/events.rpy:1868
 translate russian ayesha_event_08b_date_558d5464:
-    "Ведущий" "Представляем вам первую участницу, вес – сто тридцать фунтов…"
+    "Ведущий" "Представляем вам первую участницу, вес — сто тридцать фунтов..."
 
 # ch/ayesha/events.rpy:1870
 translate russian ayesha_event_08b_date_6d139de5:
-    "Ведущий" "Повелительница муай-тай…"
+    "Ведущий" "Повелительница муай-тай..."
 
 # ch/ayesha/events.rpy:1871
 translate russian ayesha_event_08b_date_28748fe2:
@@ -11534,11 +11534,11 @@ translate russian ayesha_event_08b_date_28748fe2:
 
 # ch/ayesha/events.rpy:1872
 translate russian ayesha_event_08b_date_4b8e8298:
-    "Звучит очень жесткая музыка, когда появляется девушка с суровым видом."
+    "Звучит очень жёсткая музыка, когда появляется девушка с суровым видом."
 
 # ch/ayesha/events.rpy:1873
 translate russian ayesha_event_08b_date_180ab7d1:
-    "Она гораздо более мускулистая, чем большинство парней, которых я видел, и у нее даже повязка на глазу!"
+    "Она гораздо более мускулистая, чем большинство парней, которых я видел, и у неё даже повязка на глазу!"
 
 # ch/ayesha/events.rpy:1874
 translate russian ayesha_event_08b_date_c156dbf8:
@@ -11550,15 +11550,15 @@ translate russian ayesha_event_08b_date_a61f333d:
 
 # ch/ayesha/events.rpy:1876
 translate russian ayesha_event_08b_date_12ad5aa0:
-    "Ведущий" "А ее соперница, из Осаки, Япония…"
+    "Ведущий" "А её соперница, из Осаки, Япония..."
 
 # ch/ayesha/events.rpy:1877
 translate russian ayesha_event_08b_date_a1cdad3e:
-    "Ведущий" "Вес – двести шестьдесят фунтов…"
+    "Ведущий" "Вес — двести шестьдесят фунтов..."
 
 # ch/ayesha/events.rpy:1878
 translate russian ayesha_event_08b_date_96976f8a:
-    "Ведущий" "Эднa Хёндэ…"
+    "Ведущий" "Эднa Хёндэ..."
 
 # ch/ayesha/events.rpy:1879
 translate russian ayesha_event_08b_date_feff2988:
@@ -11570,11 +11570,11 @@ translate russian ayesha_event_08b_date_6a642399:
 
 # ch/ayesha/events.rpy:1881
 translate russian ayesha_event_08b_date_a9202551:
-    "Но когда я вижу мисс Hyundai своими глазами, я не могу сдержать удивленный вздох."
+    "Но когда я вижу мисс Hyundai своими глазами, я не могу сдержать удивлённый вздох."
 
 # ch/ayesha/events.rpy:1882
 translate russian ayesha_event_08b_date_97d58460:
-    "Она идет по проходу, рассыпая что-то похожее на белый порошок."
+    "Она идёт по проходу, рассыпая что-то похожее на белый порошок."
 
 # ch/ayesha/events.rpy:1883
 translate russian ayesha_event_08b_date_c8d7e66a:
@@ -11594,7 +11594,7 @@ translate russian ayesha_event_08b_date_06909441:
 
 # ch/ayesha/events.rpy:1887
 translate russian ayesha_event_08b_date_b34c1e0c:
-    "Вместо этого она ходит вокруг, пока толпа освистывает ее."
+    "Вместо этого она ходит вокруг, пока толпа освистывает её."
 
 # ch/ayesha/events.rpy:1888
 translate russian ayesha_event_08b_date_0f1b68ea:
@@ -11610,15 +11610,15 @@ translate russian ayesha_event_08b_date_25d3329f:
 
 # ch/ayesha/events.rpy:1891
 translate russian ayesha_event_08b_date_e6a2e1d9:
-    ayesha.say "Она – злодейка, [lssb_ayesha.hero_name()]."
+    ayesha.say "Она — злодейка, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/events.rpy:1892
 translate russian ayesha_event_08b_date_3b3f5e03:
-    ayesha.say "Ей нужно, чтобы фанаты ее ненавидели и волновались."
+    ayesha.say "Ей нужно, чтобы фанаты её ненавидели и волновались."
 
 # ch/ayesha/events.rpy:1893
 translate russian ayesha_event_08b_date_fd149cb1:
-    ayesha.say "Это часть ее работы – заставлять их вовлекаться, вызывая у них негативные эмоции по отношению к ней!"
+    ayesha.say "Это часть её работы — заставлять их вовлекаться, вызывая у них негативные эмоции по отношению к ней!"
 
 # ch/ayesha/events.rpy:1895
 translate russian ayesha_event_08b_date_b5ae8f23:
@@ -11626,11 +11626,11 @@ translate russian ayesha_event_08b_date_b5ae8f23:
 
 # ch/ayesha/events.rpy:1896
 translate russian ayesha_event_08b_date_59b9863f:
-    "На самом деле, кажется, что она съеживается и втягивается в свое кресло."
+    "На самом деле, кажется, что она съёживается и втягивается в своё кресло."
 
 # ch/ayesha/events.rpy:1897
 translate russian ayesha_event_08b_date_5a40974c:
-    "Это довольно забавно, потому что у нее нет никаких шансов спрятаться."
+    "Это довольно забавно, потому что у неё нет никаких шансов спрятаться."
 
 # ch/ayesha/events.rpy:1898
 translate russian ayesha_event_08b_date_8cb21591:
@@ -11682,7 +11682,7 @@ translate russian ayesha_event_08b_date_c1a07715:
 
 # ch/ayesha/events.rpy:1912
 translate russian ayesha_event_08b_date_400008b1:
-    "Но потом Айша встает и поправляет меня."
+    "Но потом Айша встаёт и поправляет меня."
 
 # ch/ayesha/events.rpy:1913
 translate russian ayesha_event_08b_date_7b0529eb:
@@ -11726,7 +11726,7 @@ translate russian ayesha_event_08b_date_389789c0:
 
 # ch/ayesha/events.rpy:1928
 translate russian ayesha_event_08b_date_43613da0:
-    "Или, возможно, мои слова задели ее там, где больно."
+    "Или, возможно, мои слова задели её там, где больно."
 
 # ch/ayesha/events.rpy:1929
 translate russian ayesha_event_08b_date_ca6b3535:
@@ -11754,15 +11754,15 @@ translate russian ayesha_event_08b_date_0cff5a10:
 
 # ch/ayesha/events.rpy:1935
 translate russian ayesha_event_08b_date_6611147a:
-    mike.say "Потому что Аиша, амазонка, сейчас покажет всем!"
+    mike.say "Потому что Айша, амазонка, сейчас покажет всем!"
 
 # ch/ayesha/events.rpy:1939
 translate russian ayesha_event_08b_date_959cc911:
-    "И я чувствую, как мое сердце начинает биться быстрее от того, что она сделает дальше."
+    "И я чувствую, как моё сердце начинает биться быстрее от того, что она сделает дальше."
 
 # ch/ayesha/events.rpy:1947
 translate russian ayesha_event_08b_date_23495573:
-    "Аиша напрягает свои мышцы, и ее руки покрываются рельефом."
+    "Айша напрягает свои мышцы, и её руки покрываются рельефом."
 
 # ch/ayesha/events.rpy:1951
 translate russian ayesha_event_08b_date_a4e6e411:
@@ -11770,7 +11770,7 @@ translate russian ayesha_event_08b_date_a4e6e411:
 
 # ch/ayesha/events.rpy:1952
 translate russian ayesha_event_08b_date_d1dd3edc:
-    ayesha.say "Да, конечно, я – амазонка!"
+    ayesha.say "Да, конечно, я — амазонка!"
 
 # ch/ayesha/events.rpy:1953
 translate russian ayesha_event_08b_date_d0ada3f3:
@@ -11786,7 +11786,7 @@ translate russian ayesha_event_08b_date_5ce3c5d2:
 
 # ch/ayesha/events.rpy:1958
 translate russian ayesha_event_08b_date_4a2f3b08:
-    "Толпа" "Аиша...Аиша...Аиша!"
+    "Толпа" "Айша...Айша...Айша!"
 
 # ch/ayesha/events.rpy:1959
 translate russian ayesha_event_08b_date_d07df5f4:
@@ -11794,19 +11794,19 @@ translate russian ayesha_event_08b_date_d07df5f4:
 
 # ch/ayesha/events.rpy:1960
 translate russian ayesha_event_08b_date_a5770c49:
-    "Но она все равно отступает, забираясь на ринг."
+    "Но она всё равно отступает, забираясь на ринг."
 
 # ch/ayesha/events.rpy:1962
 translate russian ayesha_event_08b_date_ad4e5160:
-    "Я поворачиваюсь к Аише, мои глаза полны восхищения и нежности."
+    "Я поворачиваюсь к Айше, мои глаза полны восхищения и нежности."
 
 # ch/ayesha/events.rpy:1963
 translate russian ayesha_event_08b_date_20c03dcb:
-    "И, если честно, еще и немалой плотской страсти!"
+    "И, если честно, ещё и немалой плотской страсти!"
 
 # ch/ayesha/events.rpy:1964
 translate russian ayesha_event_08b_date_a103b9c9:
-    mike.say "Аиша...ты моя героиня!"
+    mike.say "Айша...ты моя героиня!"
 
 # ch/ayesha/events.rpy:1967
 translate russian ayesha_event_08b_date_ba086b9e:
@@ -11830,7 +11830,7 @@ translate russian ayesha_event_08b_date_cd1a0851:
 
 # ch/ayesha/events.rpy:1975
 translate russian ayesha_event_08b_date_766f1ab3:
-    "Я смотрю на Эдну, а потом снова на Аишу."
+    "Я смотрю на Эдну, а потом снова на Айшу."
 
 # ch/ayesha/events.rpy:1976
 translate russian ayesha_event_08b_date_61a8c8e1:
@@ -11850,23 +11850,23 @@ translate russian ayesha_event_08b_date_608d9424:
 
 # ch/ayesha/events.rpy:1981
 translate russian ayesha_event_08b_date_1784aa1a:
-    "Когда Аиша говорит, в ее голосе есть такая уверенность, которую невозможно игнорировать."
+    "Когда Айша говорит, в её голосе есть такая уверенность, которую невозможно игнорировать."
 
 # ch/ayesha/events.rpy:1982
 translate russian ayesha_event_08b_date_5b919db3:
-    "Я сразу узнаю этот тон – это тот, который она использует на ринге."
+    "Я сразу узнаю этот тон — это тот, который она использует на ринге."
 
 # ch/ayesha/events.rpy:1983
 translate russian ayesha_event_08b_date_77ed38da:
-    "Все, кто находится поблизости и слышат ее, теперь смотрят на нее."
+    "Все, кто находится поблизости и слышат её, теперь смотрят на неё."
 
 # ch/ayesha/events.rpy:1987
 translate russian ayesha_event_08b_date_959cc911_1:
-    "И я чувствую, как мое сердце начинает биться быстрее от того, что она сделает дальше."
+    "И я чувствую, как моё сердце начинает биться быстрее от того, что она сделает дальше."
 
 # ch/ayesha/events.rpy:1993
 translate russian ayesha_event_08b_date_23495573_1:
-    "Аиша напрягает свои мышцы, и ее руки покрываются рельефом."
+    "Айша напрягает свои мышцы, и её руки покрываются рельефом."
 
 # ch/ayesha/events.rpy:1997
 translate russian ayesha_event_08b_date_a4e6e411_1:
@@ -11874,7 +11874,7 @@ translate russian ayesha_event_08b_date_a4e6e411_1:
 
 # ch/ayesha/events.rpy:1999
 translate russian ayesha_event_08b_date_d1dd3edc_1:
-    ayesha.say "Да, конечно, я – амазонка!"
+    ayesha.say "Да, конечно, я — амазонка!"
 
 # ch/ayesha/events.rpy:2000
 translate russian ayesha_event_08b_date_d0ada3f3_1:
@@ -11890,7 +11890,7 @@ translate russian ayesha_event_08b_date_5ce3c5d2_1:
 
 # ch/ayesha/events.rpy:2005
 translate russian ayesha_event_08b_date_4a2f3b08_1:
-    "Толпа" "Аиша...Аиша...Аиша!"
+    "Толпа" "Айша...Айша...Айша!"
 
 # ch/ayesha/events.rpy:2006
 translate russian ayesha_event_08b_date_d07df5f4_1:
@@ -11898,19 +11898,19 @@ translate russian ayesha_event_08b_date_d07df5f4_1:
 
 # ch/ayesha/events.rpy:2007
 translate russian ayesha_event_08b_date_a5770c49_1:
-    "Но она все равно отступает, забираясь на ринг."
+    "Но она всё равно отступает, забираясь на ринг."
 
 # ch/ayesha/events.rpy:2009
 translate russian ayesha_event_08b_date_ad4e5160_1:
-    "Я поворачиваюсь к Аише, мои глаза полны восхищения и нежности."
+    "Я поворачиваюсь к Айше, мои глаза полны восхищения и нежности."
 
 # ch/ayesha/events.rpy:2010
 translate russian ayesha_event_08b_date_20c03dcb_1:
-    "И, если честно, еще и немалой плотской страсти!"
+    "И, если честно, ещё и немалой плотской страсти!"
 
 # ch/ayesha/events.rpy:2011
 translate russian ayesha_event_08b_date_a103b9c9_1:
-    mike.say "Аиша...ты моя героиня!"
+    mike.say "Айша...ты моя героиня!"
 
 # ch/ayesha/events.rpy:2014
 translate russian ayesha_event_08b_date_ba086b9e_1:
@@ -11930,15 +11930,15 @@ translate russian ayesha_event_08b_date_2c6495f3:
 
 # ch/ayesha/events.rpy:2021
 translate russian ayesha_event_08b_date_3626b1d9:
-    "Вскоре начинается поединок, и внимание отворачивается от Аиши и меня."
+    "Вскоре начинается поединок, и внимание отворачивается от Айши и меня."
 
 # ch/ayesha/events.rpy:2022
 translate russian ayesha_event_08b_date_1bbabd98:
-    "Но я чувствую, как она берет мою руку и нежно сжимает ее."
+    "Но я чувствую, как она берет мою руку и нежно сжимает её."
 
 # ch/ayesha/events.rpy:2023
 translate russian ayesha_event_08b_date_6a0c3513:
-    "Это заставляет меня улыбнуться, и мое сердце снова радостно подпрыгивает в груди."
+    "Это заставляет меня улыбнуться, и моё сердце снова радостно подпрыгивает в груди."
 
 # ch/ayesha/events.rpy:2024
 translate russian ayesha_event_08b_date_c7e1418a:
@@ -12018,7 +12018,7 @@ translate russian ayesha_event_09_ee1a096f:
 
 # ch/ayesha/events.rpy:2055
 translate russian ayesha_event_09_b5261f28:
-    mike.say "Аиша, это отличные новости!"
+    mike.say "Айша, это отличные новости!"
 
 # ch/ayesha/events.rpy:2056
 translate russian ayesha_event_09_028a14f9:
@@ -12030,7 +12030,7 @@ translate russian ayesha_event_09_08821f51:
 
 # ch/ayesha/events.rpy:2058
 translate russian ayesha_event_09_ace62c29:
-    ayesha.say "Ты придешь на шоу?"
+    ayesha.say "Ты придёшь на шоу?"
 
 # ch/ayesha/events.rpy:2059
 translate russian ayesha_event_09_967342c1:
@@ -12042,19 +12042,19 @@ translate russian ayesha_event_09_69633ed2:
 
 # ch/ayesha/events.rpy:2062
 translate russian ayesha_event_09_ded5cf15:
-    "Я до сих пор не могу поверить в то, что только что услышал от Аиши."
+    "Я до сих пор не могу поверить в то, что только что услышал от Айши."
 
 # ch/ayesha/events.rpy:2063
 translate russian ayesha_event_09_8d9ddb2d:
-    "И еще думаю о том, как мне добраться до арены."
+    "И ещё думаю о том, как мне добраться до арены."
 
 # ch/ayesha/events.rpy:2064
 translate russian ayesha_event_09_dd6d1070:
-    "Но я знаю, что сейчас она спросит меня, какое мое решение."
+    "Но я знаю, что сейчас она спросит меня, какое моё решение."
 
 # ch/ayesha/events.rpy:2065
 translate russian ayesha_event_09_46530d07:
-    mike.say "Если ты хочешь, чтобы я был твоим менеджером, Аиша, то да!"
+    mike.say "Если ты хочешь, чтобы я был твоим менеджером, Айша, то да!"
 
 # ch/ayesha/events.rpy:2066
 translate russian ayesha_event_09_88798e9e:
@@ -12066,11 +12066,11 @@ translate russian ayesha_event_09_34ef58cb:
 
 # ch/ayesha/events.rpy:2068
 translate russian ayesha_event_09_02cee688:
-    "Аиша не может удержаться и издает радостный вздох."
+    "Айша не может удержаться и издаёт радостный вздох."
 
 # ch/ayesha/events.rpy:2069
 translate russian ayesha_event_09_3752000d:
-    "Что еще больше убеждает меня в том, что я сделал правильный выбор."
+    "Что ещё больше убеждает меня в том, что я сделал правильный выбор."
 
 # ch/ayesha/events.rpy:2070
 translate russian ayesha_event_09_02603bfb:
@@ -12094,19 +12094,19 @@ translate russian ayesha_event_09_67de42a7:
 
 # ch/ayesha/events.rpy:2076
 translate russian ayesha_event_09_ded5cf15_1:
-    "Я до сих пор не могу поверить в то, что только что услышал от Аиши."
+    "Я до сих пор не могу поверить в то, что только что услышал от Айши."
 
 # ch/ayesha/events.rpy:2077
 translate russian ayesha_event_09_8d9ddb2d_1:
-    "И еще думаю о том, как мне добраться до арены."
+    "И ещё думаю о том, как мне добраться до арены."
 
 # ch/ayesha/events.rpy:2078
 translate russian ayesha_event_09_7788d4ec:
-    "Я просто не справлюсь с тем, чтобы еще и руководить ею во всем этом!"
+    "Я просто не справлюсь с тем, чтобы ещё и руководить ею во всём этом!"
 
 # ch/ayesha/events.rpy:2079
 translate russian ayesha_event_09_ea25b6e9:
-    mike.say "Я буду там, как только смогу, Аиша."
+    mike.say "Я буду там, как только смогу, Айша."
 
 # ch/ayesha/events.rpy:2080
 translate russian ayesha_event_09_196032b4:
@@ -12126,7 +12126,7 @@ translate russian ayesha_event_09_439ef95a:
 
 # ch/ayesha/events.rpy:2084
 translate russian ayesha_event_09_ff2a6648:
-    "Это говорит мне о том, что Аиша обдумывает мои слова."
+    "Это говорит мне о том, что Айша обдумывает мои слова."
 
 # ch/ayesha/events.rpy:2085
 translate russian ayesha_event_09_8a332030:
@@ -12142,7 +12142,7 @@ translate russian ayesha_event_09_275472cf:
 
 # ch/ayesha/events.rpy:2088
 translate russian ayesha_event_09_c31c1828:
-    ayesha.say "Мне придется довольствоваться тем, что ты будешь рядом со зрителями."
+    ayesha.say "Мне придётся довольствоваться тем, что ты будешь рядом со зрителями."
 
 # ch/ayesha/events.rpy:2089
 translate russian ayesha_event_09_951fa37e:
@@ -12154,11 +12154,11 @@ translate russian ayesha_event_09_9eac5fd9:
 
 # ch/ayesha/events.rpy:2092
 translate russian ayesha_event_09_dc51a6c1:
-    "И когда я туда добираюсь, я поражен размером толпы снаружи."
+    "И когда я туда добираюсь, я поражён размером толпы снаружи."
 
 # ch/ayesha/events.rpy:2093
 translate russian ayesha_event_09_a4319974:
-    "Но это для меня не проблема, потому что я вижу, как Аиша машет мне рукой у бокового входа."
+    "Но это для меня не проблема, потому что я вижу, как Айша машет мне рукой у бокового входа."
 
 # ch/ayesha/events.rpy:2095
 translate russian ayesha_event_09_4dc55c47:
@@ -12174,7 +12174,7 @@ translate russian ayesha_event_09_4ec1022e:
 
 # ch/ayesha/events.rpy:2099
 translate russian ayesha_event_09_8072b9aa:
-    mike.say "Привет, Аиша..."
+    mike.say "Привет, Айша..."
 
 # ch/ayesha/events.rpy:2100
 translate russian ayesha_event_09_dac52b65:
@@ -12182,11 +12182,11 @@ translate russian ayesha_event_09_dac52b65:
 
 # ch/ayesha/events.rpy:2104
 translate russian ayesha_event_09_02bd1d85:
-    "Моя награда за это – быть схваченным за воротник."
+    "Моя награда за это — быть схваченным за воротник."
 
 # ch/ayesha/events.rpy:2108
 translate russian ayesha_event_09_c045ae80:
-    "И тогда Аиша тащит меня внутрь здания."
+    "И тогда Айша тащит меня внутрь здания."
 
 # ch/ayesha/events.rpy:2110
 translate russian ayesha_event_09_da425897:
@@ -12214,7 +12214,7 @@ translate russian ayesha_event_09_19c89993:
 
 # ch/ayesha/events.rpy:2117
 translate russian ayesha_event_09_b7b9cfc8:
-    "Она выглядит как воительница-королева из древних времен."
+    "Она выглядит как воительница-королева из древних времён."
 
 # ch/ayesha/events.rpy:2118
 translate russian ayesha_event_09_067b3ae4:
@@ -12222,7 +12222,7 @@ translate russian ayesha_event_09_067b3ae4:
 
 # ch/ayesha/events.rpy:2119
 translate russian ayesha_event_09_1f6f3668:
-    "И никогда раньше я не хотел ее так сильно, как сейчас!"
+    "И никогда раньше я не хотел её так сильно, как сейчас!"
 
 # ch/ayesha/events.rpy:2121
 translate russian ayesha_event_09_4dc55c47_1:
@@ -12246,7 +12246,7 @@ translate russian ayesha_event_09_0777863f:
 
 # ch/ayesha/events.rpy:2127
 translate russian ayesha_event_09_489c4143:
-    "Она кивает и ведет меня в раздевалку."
+    "Она кивает и ведёт меня в раздевалку."
 
 # ch/ayesha/events.rpy:2129
 translate russian ayesha_event_09_3e1551f9:
@@ -12262,7 +12262,7 @@ translate russian ayesha_event_09_3b0ccb98:
 
 # ch/ayesha/events.rpy:2132
 translate russian ayesha_event_09_e4022e95:
-    "В этот момент к нам подходит еще одна девушка, но она останавливается в поле моего зрения."
+    "В этот момент к нам подходит ещё одна девушка, но она останавливается в поле моего зрения."
 
 # ch/ayesha/events.rpy:2133
 translate russian ayesha_event_09_5205f328:
@@ -12294,7 +12294,7 @@ translate russian ayesha_event_09_8767ecbc:
 
 # ch/ayesha/events.rpy:2142
 translate russian ayesha_event_09_a9202551:
-    "Но когда я вижу мисс Hyundai своими глазами, я не могу сдержать удивленный вздох."
+    "Но когда я вижу мисс Hyundai своими глазами, я не могу сдержать удивлённый вздох."
 
 # ch/ayesha/events.rpy:2143
 translate russian ayesha_event_09_6a68e56e:
@@ -12314,7 +12314,7 @@ translate russian ayesha_event_09_43dfdac9:
 
 # ch/ayesha/events.rpy:2147
 translate russian ayesha_event_09_5f81f4f5:
-    "Вместо того чтобы обидеться на мое удивление, Эднэ хихикает."
+    "Вместо того чтобы обидеться на моё удивление, Эднэ хихикает."
 
 # ch/ayesha/events.rpy:2148
 translate russian ayesha_event_09_e456e348:
@@ -12338,11 +12338,11 @@ translate russian ayesha_event_09_530df8f6:
 
 # ch/ayesha/events.rpy:2154
 translate russian ayesha_event_09_f129a026:
-    "Айша и я ждем за кулисами, пока ведущий объявит нас."
+    "Айша и я ждём за кулисами, пока ведущий объявит нас."
 
 # ch/ayesha/events.rpy:2157
 translate russian ayesha_event_09_0f12f2d9:
-    "Ведущий" "Дамы и господа…"
+    "Ведущий" "Дамы и господа..."
 
 # ch/ayesha/events.rpy:2158
 translate russian ayesha_event_09_3047ae49:
@@ -12358,15 +12358,15 @@ translate russian ayesha_event_09_4f7911a6:
 
 # ch/ayesha/events.rpy:2161
 translate russian ayesha_event_09_2712236b:
-    "Ведущий" "Представляем вам первую участницу, вес – двести пятьдесят фунтов…"
+    "Ведущий" "Представляем вам первую участницу, вес — двести пятьдесят фунтов..."
 
 # ch/ayesha/events.rpy:2162
 translate russian ayesha_event_09_411f07e0:
-    "Ведущий" "Ужасная Тигрица…"
+    "Ведущий" "Ужасная Тигрица..."
 
 # ch/ayesha/events.rpy:2163
 translate russian ayesha_event_09_075e6275:
-    "Ведущий" "Принцесса Боли…"
+    "Ведущий" "Принцесса Боли..."
 
 # ch/ayesha/events.rpy:2164
 translate russian ayesha_event_09_a0cd6398:
@@ -12386,15 +12386,15 @@ translate russian ayesha_event_09_58ff0d29:
 
 # ch/ayesha/events.rpy:2171
 translate russian ayesha_event_09_12ad5aa0:
-    "Ведущий" "А ее соперница, из Осаки, Япония…"
+    "Ведущий" "А её соперница, из Осаки, Япония..."
 
 # ch/ayesha/events.rpy:2172
 translate russian ayesha_event_09_a1cdad3e:
-    "Ведущий" "Вес – двести шестьдесят фунтов…"
+    "Ведущий" "Вес — двести шестьдесят фунтов..."
 
 # ch/ayesha/events.rpy:2173
 translate russian ayesha_event_09_96976f8a:
-    "Ведущий" "Эдна Хёндэ…"
+    "Ведущий" "Эдна Хёндэ..."
 
 # ch/ayesha/events.rpy:2176
 translate russian ayesha_event_09_feff2988:
@@ -12406,11 +12406,11 @@ translate russian ayesha_event_09_6a642399:
 
 # ch/ayesha/events.rpy:2178
 translate russian ayesha_event_09_a9202551_1:
-    "Но когда я вижу мисс Hyundai своими глазами, я не могу сдержать удивленный вздох."
+    "Но когда я вижу мисс Hyundai своими глазами, я не могу сдержать удивлённый вздох."
 
 # ch/ayesha/events.rpy:2179
 translate russian ayesha_event_09_97d58460:
-    "Она идет по проходу, рассыпая что-то похожее на белый порошок."
+    "Она идёт по проходу, рассыпая что-то похожее на белый порошок."
 
 # ch/ayesha/events.rpy:2180
 translate russian ayesha_event_09_2c8fd516:
@@ -12438,7 +12438,7 @@ translate russian ayesha_event_09_b774c842:
 
 # ch/ayesha/events.rpy:2186
 translate russian ayesha_event_09_ba5e3dc3:
-    "Опираясь на край ринга, я пытаюсь подготовиться к тому, что произойдет дальше."
+    "Опираясь на край ринга, я пытаюсь подготовиться к тому, что произойдёт дальше."
 
 # ch/ayesha/events.rpy:2187
 translate russian ayesha_event_09_050a5d07:
@@ -12466,11 +12466,11 @@ translate russian ayesha_event_09_ca9b950b:
 
 # ch/ayesha/events.rpy:2195
 translate russian ayesha_event_09_8ea2efc2:
-    "Ну, и еще ругаюсь на рефери за то, что он не встал на сторону Айши!"
+    "Ну, и ещё ругаюсь на рефери за то, что он не встал на сторону Айши!"
 
 # ch/ayesha/events.rpy:2199
 translate russian ayesha_event_09_e40e664a:
-    "Я чувствую, что сейчас произойдет что-то важное, когда Аиша сильно упадет."
+    "Я чувствую, что сейчас произойдёт что-то важное, когда Айша сильно упадёт."
 
 # ch/ayesha/events.rpy:2200
 translate russian ayesha_event_09_0b41bc33:
@@ -12490,11 +12490,11 @@ translate russian ayesha_event_09_8d06bc8b:
 
 # ch/ayesha/events.rpy:2205
 translate russian ayesha_event_09_cccf5292:
-    "Но тут Аиша встает и хватает Эдн снизу."
+    "Но тут Айша встаёт и хватает Эдн снизу."
 
 # ch/ayesha/events.rpy:2207
 translate russian ayesha_event_09_5108a706:
-    "Она поднимает другую девушку в воздух, а затем бросает ее на мат!"
+    "Она поднимает другую девушку в воздух, а затем бросает её на мат!"
 
 # ch/ayesha/events.rpy:2212
 translate russian ayesha_event_09_de20f4b2:
@@ -12506,7 +12506,7 @@ translate russian ayesha_event_09_58dcb2ea:
 
 # ch/ayesha/events.rpy:2214
 translate russian ayesha_event_09_ea4c8b35:
-    "Аиша бросается на Эдн и обхватывает ее огромную ногу."
+    "Айша бросается на Эдн и обхватывает её огромную ногу."
 
 # ch/ayesha/events.rpy:2215
 translate russian ayesha_event_09_03ddba2d:
@@ -12518,7 +12518,7 @@ translate russian ayesha_event_09_5b874310:
 
 # ch/ayesha/events.rpy:2218
 translate russian ayesha_event_09_fe68df3e:
-    "Вот и все, Аиша – победительница!"
+    "Вот и все, Айша — победительница!"
 
 # ch/ayesha/events.rpy:2219
 translate russian ayesha_event_09_20eb4c8d:
@@ -12526,7 +12526,7 @@ translate russian ayesha_event_09_20eb4c8d:
 
 # ch/ayesha/events.rpy:2220
 translate russian ayesha_event_09_a54b7e17:
-    "Я забегаю на ринг как раз в тот момент, когда судья поднимает руку Аише в знак победы."
+    "Я забегаю на ринг как раз в тот момент, когда судья поднимает руку Айше в знак победы."
 
 # ch/ayesha/events.rpy:2221
 translate russian ayesha_event_09_9cc740f3:
@@ -12582,7 +12582,7 @@ translate russian ayesha_event_09_c155a10d:
 
 # ch/ayesha/events.rpy:2237
 translate russian ayesha_event_09_02155887:
-    mike.say "О чем тебе нервничать, Айша?"
+    mike.say "О чём тебе нервничать, Айша?"
 
 # ch/ayesha/events.rpy:2238
 translate russian ayesha_event_09_7a324f99:
@@ -12602,11 +12602,11 @@ translate russian ayesha_event_09_067490f9:
 
 # ch/ayesha/events.rpy:2245
 translate russian ayesha_event_09_a3354d3e:
-    "С этими словами она поворачивается и идет обратно к раздевалке."
+    "С этими словами она поворачивается и идёт обратно к раздевалке."
 
 # ch/ayesha/events.rpy:2246
 translate russian ayesha_event_09_6f6905c3:
-    "Я тороплюсь найти свое место и устраиваюсь у ринга."
+    "Я тороплюсь найти своё место и устраиваюсь у ринга."
 
 # ch/ayesha/events.rpy:2249
 translate russian ayesha_event_09_e462995f:
@@ -12634,11 +12634,11 @@ translate russian ayesha_event_09_39da164a:
 
 # ch/ayesha/events.rpy:2257
 translate russian ayesha_event_09_ae530cef:
-    "Я наблюдаю, как мужчина в костюме идет по проходу."
+    "Я наблюдаю, как мужчина в костюме идёт по проходу."
 
 # ch/ayesha/events.rpy:2258
 translate russian ayesha_event_09_f469c8b0:
-    "У него микрофон, поэтому я предполагаю, что он – комментатор ринга."
+    "У него микрофон, поэтому я предполагаю, что он — комментатор ринга."
 
 # ch/ayesha/events.rpy:2259
 translate russian ayesha_event_09_9bf30a14:
@@ -12662,7 +12662,7 @@ translate russian ayesha_event_09_4f7911a6_1:
 
 # ch/ayesha/events.rpy:2265
 translate russian ayesha_event_09_0c633a60:
-    "Я подпрыгиваю на своем месте, когда вся толпа хором выкрикивает эти слова."
+    "Я подпрыгиваю на своём месте, когда вся толпа хором выкрикивает эти слова."
 
 # ch/ayesha/events.rpy:2266
 translate russian ayesha_event_09_85535910:
@@ -12670,11 +12670,11 @@ translate russian ayesha_event_09_85535910:
 
 # ch/ayesha/events.rpy:2267
 translate russian ayesha_event_09_b485d1fb:
-    "Я знаю, что Аиша не участвует в первом поединке этой ночи."
+    "Я знаю, что Айша не участвует в первом поединке этой ночи."
 
 # ch/ayesha/events.rpy:2268
 translate russian ayesha_event_09_bbd6271a:
-    "Кажется, она выйдет на ринг третьей или четвертой."
+    "Кажется, она выйдет на ринг третьей или четвёртой."
 
 # ch/ayesha/events.rpy:2269
 translate russian ayesha_event_09_b9e144e9:
@@ -12690,11 +12690,11 @@ translate russian ayesha_event_09_d8ec9367:
 
 # ch/ayesha/events.rpy:2272
 translate russian ayesha_event_09_05ef8e7f:
-    "Но я не чувствую себя частью этого, пока не услышу ее музыку."
+    "Но я не чувствую себя частью этого, пока не услышу её музыку."
 
 # ch/ayesha/events.rpy:2273
 translate russian ayesha_event_09_2712236b_1:
-    "Ведущий" "Представляем вам первую участницу, вес – двести пятьдесят фунтов..."
+    "Ведущий" "Представляем вам первую участницу, вес — двести пятьдесят фунтов..."
 
 # ch/ayesha/events.rpy:2274
 translate russian ayesha_event_09_411f07e0_1:
@@ -12706,19 +12706,19 @@ translate russian ayesha_event_09_075e6275_1:
 
 # ch/ayesha/events.rpy:2276
 translate russian ayesha_event_09_a0cd6398_1:
-    "Ведущий" "Амазонка Аиша!"
+    "Ведущий" "Амазонка Айша!"
 
 # ch/ayesha/events.rpy:2278
 translate russian ayesha_event_09_34936637:
-    "Я вскакиваю на ноги, когда Аиша идет по проходу."
+    "Я вскакиваю на ноги, когда Айша идёт по проходу."
 
 # ch/ayesha/events.rpy:2279
 translate russian ayesha_event_09_8eab3507:
-    "И как только я ее вижу, у меня подкашиваются колени!"
+    "И как только я её вижу, у меня подкашиваются колени!"
 
 # ch/ayesha/events.rpy:2280
 translate russian ayesha_event_09_b7b9cfc8_1:
-    "Она выглядит как воительница-королева из древних времен."
+    "Она выглядит как воительница-королева из древних времён."
 
 # ch/ayesha/events.rpy:2281
 translate russian ayesha_event_09_067b3ae4_1:
@@ -12726,23 +12726,23 @@ translate russian ayesha_event_09_067b3ae4_1:
 
 # ch/ayesha/events.rpy:2282
 translate russian ayesha_event_09_1f6f3668_1:
-    "И никогда раньше я не хотел ее так сильно, как сейчас!"
+    "И никогда раньше я не хотел её так сильно, как сейчас!"
 
 # ch/ayesha/events.rpy:2284
 translate russian ayesha_event_09_5c32874c:
-    "Я смотрю, завороженно, как она добирается до ринга и залезает внутрь."
+    "Я смотрю, заворожённо, как она добирается до ринга и залезает внутрь."
 
 # ch/ayesha/events.rpy:2285
 translate russian ayesha_event_09_12ad5aa0_1:
-    "Ведущий" "И ее соперница, из Осаки, Япония…"
+    "Ведущий" "И её соперница, из Осаки, Япония..."
 
 # ch/ayesha/events.rpy:2286
 translate russian ayesha_event_09_a1cdad3e_1:
-    "Ведущий" "Ее вес – двести шестьдесят фунтов…"
+    "Ведущий" "Её вес — двести шестьдесят фунтов..."
 
 # ch/ayesha/events.rpy:2287
 translate russian ayesha_event_09_96976f8a_1:
-    "Ведущий" "Эднa Хундай…"
+    "Ведущий" "Эднa Хундай..."
 
 # ch/ayesha/events.rpy:2289
 translate russian ayesha_event_09_feff2988_1:
@@ -12754,11 +12754,11 @@ translate russian ayesha_event_09_6a642399_1:
 
 # ch/ayesha/events.rpy:2291
 translate russian ayesha_event_09_a9202551_2:
-    "Но когда я вижу мисс Hyundai своими глазами, я не могу сдержать удивленный вздох."
+    "Но когда я вижу мисс Hyundai своими глазами, я не могу сдержать удивлённый вздох."
 
 # ch/ayesha/events.rpy:2292
 translate russian ayesha_event_09_97d58460_1:
-    "Она идет по проходу, рассыпая что-то похожее на белый порошок."
+    "Она идёт по проходу, рассыпая что-то похожее на белый порошок."
 
 # ch/ayesha/events.rpy:2293
 translate russian ayesha_event_09_c8d7e66a:
@@ -12798,7 +12798,7 @@ translate russian ayesha_event_09_09202590_1:
 
 # ch/ayesha/events.rpy:2304
 translate russian ayesha_event_09_561249aa:
-    "В любом случае, я поддерживаю Айшу и радуюсь за нее."
+    "В любом случае, я поддерживаю Айшу и радуюсь за неё."
 
 # ch/ayesha/events.rpy:2305
 translate russian ayesha_event_09_ca9b950b_1:
@@ -12806,11 +12806,11 @@ translate russian ayesha_event_09_ca9b950b_1:
 
 # ch/ayesha/events.rpy:2306
 translate russian ayesha_event_09_8ea2efc2_1:
-    "Ну, и еще ругаюсь на рефери за то, что он не встал на сторону Айши!"
+    "Ну, и ещё ругаюсь на рефери за то, что он не встал на сторону Айши!"
 
 # ch/ayesha/events.rpy:2310
 translate russian ayesha_event_09_e40e664a_1:
-    "Я чувствую, что сейчас произойдет что-то важное, когда Аиша сильно упадет."
+    "Я чувствую, что сейчас произойдёт что-то важное, когда Айша сильно упадёт."
 
 # ch/ayesha/events.rpy:2311
 translate russian ayesha_event_09_0b41bc33_1:
@@ -12830,11 +12830,11 @@ translate russian ayesha_event_09_8d06bc8b_1:
 
 # ch/ayesha/events.rpy:2316
 translate russian ayesha_event_09_cccf5292_1:
-    "Но тут Аиша встает и хватает Эдн снизу."
+    "Но тут Айша встаёт и хватает Эдн снизу."
 
 # ch/ayesha/events.rpy:2318
 translate russian ayesha_event_09_5108a706_1:
-    "Она поднимает другую девушку в воздух, а затем бросает ее на мат!"
+    "Она поднимает другую девушку в воздух, а затем бросает её на мат!"
 
 # ch/ayesha/events.rpy:2323
 translate russian ayesha_event_09_de20f4b2_1:
@@ -12842,11 +12842,11 @@ translate russian ayesha_event_09_de20f4b2_1:
 
 # ch/ayesha/events.rpy:2324
 translate russian ayesha_event_09_58dcb2ea_1:
-    mike.say "\"ДАВАЙ!\", (сохраняя все откровенные сексуальные термины без эвфемизмов)."
+    mike.say "«ДАВАЙ!», (сохраняя все откровенные сексуальные термины без эвфемизмов)."
 
 # ch/ayesha/events.rpy:2325
 translate russian ayesha_event_09_ea4c8b35_1:
-    "Аиша бросается на Эдн и обхватывает ее огромную ногу."
+    "Айша бросается на Эдн и обхватывает её огромную ногу."
 
 # ch/ayesha/events.rpy:2326
 translate russian ayesha_event_09_03ddba2d_1:
@@ -12858,7 +12858,7 @@ translate russian ayesha_event_09_5b874310_1:
 
 # ch/ayesha/events.rpy:2329
 translate russian ayesha_event_09_fe68df3e_1:
-    "Вот и все, Аиша – победительница!"
+    "Вот и все, Айша — победительница!"
 
 # ch/ayesha/events.rpy:2330
 translate russian ayesha_event_09_20eb4c8d_1:
@@ -12874,7 +12874,7 @@ translate russian ayesha_event_09_b0c1cd0e:
 
 # ch/ayesha/events.rpy:2336
 translate russian ayesha_event_09_71e498c6:
-    "Она прижимает лед к своему плечу."
+    "Она прижимает лёд к своему плечу."
 
 # ch/ayesha/events.rpy:2337
 translate russian ayesha_event_09_0677cca3:
@@ -12898,7 +12898,7 @@ translate russian ayesha_event_09_47f03c66:
 
 # ch/ayesha/events.rpy:2343
 translate russian ayesha_event_09_57bb191b:
-    ayesha.say "Все в порядке, не волнуйся обо мне."
+    ayesha.say "Всё в порядке, не волнуйся обо мне."
 
 # ch/ayesha/events.rpy:2344
 translate russian ayesha_event_09_db921933:
@@ -12906,19 +12906,19 @@ translate russian ayesha_event_09_db921933:
 
 # ch/ayesha/events.rpy:2346
 translate russian ayesha_event_09_56a069cb:
-    "Айша горько смеется над этим."
+    "Айша горько смеётся над этим."
 
 # ch/ayesha/events.rpy:2347
 translate russian ayesha_event_09_c7ce74cc:
-    "Затем она игриво бьет меня по груди кулаком."
+    "Затем она игриво бьёт меня по груди кулаком."
 
 # ch/ayesha/events.rpy:2349
 translate russian ayesha_event_09_914038c7:
-    "Но это движение заставляет ее поморщиться из-за боли в плече."
+    "Но это движение заставляет её поморщиться из-за боли в плече."
 
 # ch/ayesha/events.rpy:2350
 translate russian ayesha_event_09_9ae116a1:
-    ayesha.say "Ах... черт..."
+    ayesha.say "Ах... чёрт..."
 
 # ch/ayesha/events.rpy:2352
 translate russian ayesha_event_09_e497a9b7:
@@ -12938,31 +12938,31 @@ translate russian ayesha_event_09_53be4c87:
 
 # ch/ayesha/events.rpy:2357
 translate russian ayesha_event_09_a32747d2:
-    "Аиша подмигивает, чтобы подчеркнуть свои слова."
+    "Айша подмигивает, чтобы подчеркнуть свои слова."
 
 # ch/ayesha/events.rpy:2358
 translate russian ayesha_event_09_a0a37cae:
-    "Затем она смеется, когда я киваю с явным энтузиазмом."
+    "Затем она смеётся, когда я киваю с явным энтузиазмом."
 
 # ch/ayesha/events.rpy:2367
 translate russian ayesha_event_10_c3768f9b:
-    "Одна из вещей, которые мне нравятся в Аише, это то, как она кажется жесткой и неприступной снаружи."
+    "Одна из вещей, которые мне нравятся в Айше, это то, как она кажется жёсткой и неприступной снаружи."
 
 # ch/ayesha/events.rpy:2368
 translate russian ayesha_event_10_e302288b:
-    "Но если ты заглянешь глубже, она оказывается теплой и чувствительной, даже немного уязвимой."
+    "Но если ты заглянешь глубже, она оказывается тёплой и чувствительной, даже немного уязвимой."
 
 # ch/ayesha/events.rpy:2369
 translate russian ayesha_event_10_863bb7b3:
-    "И это делает ее еще более интересной и привлекательной, зная, что она скрывает внутри."
+    "И это делает её ещё более интересной и привлекательной, зная, что она скрывает внутри."
 
 # ch/ayesha/events.rpy:2370
 translate russian ayesha_event_10_bb9ebc9a:
-    "Но как только она открывается тебе, почти невозможно обмануть Аишу снова."
+    "Но как только она открывается тебе, почти невозможно обмануть Айшу снова."
 
 # ch/ayesha/events.rpy:2371
 translate russian ayesha_event_10_d1590624:
-    "Вся эта маскулинность и жесткое поведение не могут скрыть настоящую Аишу, которую ты знаешь, что она скрывает."
+    "Вся эта маскулинность и жесткое поведение не могут скрыть настоящую Айшу, которую ты знаешь, что она скрывает."
 
 # ch/ayesha/events.rpy:2372
 translate russian ayesha_event_10_329069b3:
@@ -12986,7 +12986,7 @@ translate russian ayesha_event_10_630ea90b:
 
 # ch/ayesha/events.rpy:2378
 translate russian ayesha_event_10_b408256d:
-    "Аиша надевает комичный голос, имитируя воображаемого и бесполезного сотрудника."
+    "Айша надевает комичный голос, имитируя воображаемого и бесполезного сотрудника."
 
 # ch/ayesha/events.rpy:2379
 translate russian ayesha_event_10_eec20cde:
@@ -13002,7 +13002,7 @@ translate russian ayesha_event_10_3fba2323:
 
 # ch/ayesha/events.rpy:2382
 translate russian ayesha_event_10_74e8d35d:
-    mike.say "Аиша..."
+    mike.say "Айша..."
 
 # ch/ayesha/events.rpy:2383
 translate russian ayesha_event_10_e480ec43:
@@ -13010,15 +13010,15 @@ translate russian ayesha_event_10_e480ec43:
 
 # ch/ayesha/events.rpy:2385
 translate russian ayesha_event_10_48fe1d30:
-    "Голова Аиши резко поворачивается в ответ на вопрос, так быстро, что я чуть не подпрыгнул."
+    "Голова Айши резко поворачивается в ответ на вопрос, так быстро, что я чуть не подпрыгнул."
 
 # ch/ayesha/events.rpy:2386
 translate russian ayesha_event_10_e2e3a9d3:
-    "Но выражение ее лица – это шок и удивление."
+    "Но выражение её лица — это шок и удивление."
 
 # ch/ayesha/events.rpy:2387
 translate russian ayesha_event_10_c8f1d4cd:
-    "Ее глаза широко раскрыты, и кажется, что она вот-вот начнет потеть!"
+    "Её глаза широко раскрыты, и кажется, что она вот-вот начнёт потеть!"
 
 # ch/ayesha/events.rpy:2389
 translate russian ayesha_event_10_9b7842ed:
@@ -13030,11 +13030,11 @@ translate russian ayesha_event_10_e3ffa28e:
 
 # ch/ayesha/events.rpy:2392
 translate russian ayesha_event_10_0a3f468b:
-    "Я дарю Аише ироничную улыбку и качаю головой."
+    "Я дарю Айше ироничную улыбку и качаю головой."
 
 # ch/ayesha/events.rpy:2393
 translate russian ayesha_event_10_6a604f4a:
-    mike.say "Да ладно тебе, Аиша!"
+    mike.say "Да ладно тебе, Айша!"
 
 # ch/ayesha/events.rpy:2394
 translate russian ayesha_event_10_c21cdd5a:
@@ -13050,7 +13050,7 @@ translate russian ayesha_event_10_d0f641b3:
 
 # ch/ayesha/events.rpy:2397
 translate russian ayesha_event_10_89c86334:
-    "Аиша моргает несколько раз, а затем отводит взгляд."
+    "Айша моргает несколько раз, а затем отводит взгляд."
 
 # ch/ayesha/events.rpy:2398
 translate russian ayesha_event_10_a67b050a:
@@ -13058,15 +13058,15 @@ translate russian ayesha_event_10_a67b050a:
 
 # ch/ayesha/events.rpy:2399
 translate russian ayesha_event_10_ed8553dd:
-    "Но ни слова не вырывается у нее изо рта."
+    "Но ни слова не вырывается у неё изо рта."
 
 # ch/ayesha/events.rpy:2401
 translate russian ayesha_event_10_15d4cdda:
-    "Наконец, она издает странный хрипящий звук."
+    "Наконец, она издаёт странный хрипящий звук."
 
 # ch/ayesha/events.rpy:2402
 translate russian ayesha_event_10_662d1373:
-    "Я воспринимаю это как признак того, что она сдается."
+    "Я воспринимаю это как признак того, что она сдаётся."
 
 # ch/ayesha/events.rpy:2403
 translate russian ayesha_event_10_0b961f34:
@@ -13086,7 +13086,7 @@ translate russian ayesha_event_10_a9d6b052:
 
 # ch/ayesha/events.rpy:2407
 translate russian ayesha_event_10_f3cbc4bc:
-    "Но я все равно не могу сдержать кривую улыбку удовлетворения."
+    "Но я всё равно не могу сдержать кривую улыбку удовлетворения."
 
 # ch/ayesha/events.rpy:2408
 translate russian ayesha_event_10_f39f2205:
@@ -13130,7 +13130,7 @@ translate russian ayesha_event_10_72875b8b:
 
 # ch/ayesha/events.rpy:2419
 translate russian ayesha_event_10_afeca769:
-    mike.say "Это все, что ты хотела сказать?"
+    mike.say "Это всё, что ты хотела сказать?"
 
 # ch/ayesha/events.rpy:2420
 translate russian ayesha_event_10_c7e64773:
@@ -13142,7 +13142,7 @@ translate russian ayesha_event_10_15ba3ce1:
 
 # ch/ayesha/events.rpy:2423
 translate russian ayesha_event_10_4cf6f55f:
-    "Очевидно, ей есть еще что сказать."
+    "Очевидно, ей есть ещё что сказать."
 
 # ch/ayesha/events.rpy:2424
 translate russian ayesha_event_10_5ebc86f3:
@@ -13150,7 +13150,7 @@ translate russian ayesha_event_10_5ebc86f3:
 
 # ch/ayesha/events.rpy:2425
 translate russian ayesha_event_10_13eccd8b:
-    ayesha.say "Но у меня действительно есть еще кое-что сказать."
+    ayesha.say "Но у меня действительно есть ещё кое-что сказать."
 
 # ch/ayesha/events.rpy:2427
 translate russian ayesha_event_10_5eca4c5f:
@@ -13186,23 +13186,23 @@ translate russian ayesha_event_10_a4160a94:
 
 # ch/ayesha/events.rpy:2436
 translate russian ayesha_event_10_3e254a77:
-    mike.say "Думаю, да, Аиша."
+    mike.say "Думаю, да, Айша."
 
 # ch/ayesha/events.rpy:2437
 translate russian ayesha_event_10_3099d39f:
-    mike.say "Мне кажется, ты рядом со мной – это настоящая ты."
+    mike.say "Мне кажется, ты рядом со мной — это настоящая ты."
 
 # ch/ayesha/events.rpy:2438
 translate russian ayesha_event_10_567d68cd:
-    mike.say "Как будто ты должна быть такой же великолепной, как выглядит твое тело."
+    mike.say "Как будто ты должна быть такой же великолепной, как выглядит твоё тело."
 
 # ch/ayesha/events.rpy:2439
 translate russian ayesha_event_10_41d3939f:
-    mike.say "Но это сочетается с той нежной и любящей девушкой, которая живет внутри тебя."
+    mike.say "Но это сочетается с той нежной и любящей девушкой, которая живёт внутри тебя."
 
 # ch/ayesha/events.rpy:2440
 translate russian ayesha_event_10_01e531c1:
-    "Аиша снова кивает, ее глаза широко раскрыты, и в них почти видны слезы."
+    "Айша снова кивает, её глаза широко раскрыты, и в них почти видны слезы."
 
 # ch/ayesha/events.rpy:2441
 translate russian ayesha_event_10_cb6a9752:
@@ -13218,15 +13218,15 @@ translate russian ayesha_event_10_08435853:
 
 # ch/ayesha/events.rpy:2444
 translate russian ayesha_event_10_84ed28ca:
-    mike.say "Ну...ты именно такая, какой ты видишься мне, Аиша!"
+    mike.say "Ну...ты именно такая, какой ты видишься мне, Айша!"
 
 # ch/ayesha/events.rpy:2449
 translate russian ayesha_event_10_f26354c3:
-    "Аиша обнимает меня."
+    "Айша обнимает меня."
 
 # ch/ayesha/events.rpy:2450
 translate russian ayesha_event_10_1632f59f:
-    "Ее объятия похожи на крепкие медвежьи объятия."
+    "Её объятия похожи на крепкие медвежьи объятия."
 
 # ch/ayesha/events.rpy:2451
 translate russian ayesha_event_10_fc1af90b:
@@ -13234,7 +13234,7 @@ translate russian ayesha_event_10_fc1af90b:
 
 # ch/ayesha/events.rpy:2452
 translate russian ayesha_event_10_f5b83dcc:
-    "Голова Аиши прижимается к моей шее, она вздыхает от удовольствия."
+    "Голова Айши прижимается к моей шее, она вздыхает от удовольствия."
 
 # ch/ayesha/events.rpy:2453
 translate russian ayesha_event_10_9614a429:
@@ -13274,7 +13274,7 @@ translate russian ayesha_male_ending_59b1a40d:
 
 # ch/ayesha/events.rpy:2474
 translate russian ayesha_male_ending_ad56400c:
-    "Все взгляды либо направлены на меня, либо на двери, через которые она сейчас войдет."
+    "Все взгляды либо направлены на меня, либо на двери, через которые она сейчас войдёт."
 
 # ch/ayesha/events.rpy:2475
 translate russian ayesha_male_ending_8e6aa743:
@@ -13290,19 +13290,19 @@ translate russian ayesha_male_ending_78a448ec:
 
 # ch/ayesha/events.rpy:2478
 translate russian ayesha_male_ending_1b7fc18c:
-    "Я качаю головой, все еще не до конца понимая это всё."
+    "Я качаю головой, всё ещё не до конца понимая это всё."
 
 # ch/ayesha/events.rpy:2479
 translate russian ayesha_male_ending_4e17da44:
-    "Думаю, это еще один старый штамп, который на самом деле верен..."
+    "Думаю, это ещё один старый штамп, который на самом деле верен..."
 
 # ch/ayesha/events.rpy:2480
 translate russian ayesha_male_ending_3ae9c1d0:
-    "Жизнь – это то, что происходит, пока ты строишь планы!"
+    "Жизнь — это то, что происходит, пока ты строишь планы!"
 
 # ch/ayesha/events.rpy:2481
 translate russian ayesha_male_ending_b8fb4f61:
-    "И вот тогда все начинает двигаться вперед."
+    "И вот тогда все начинает двигаться вперёд."
 
 # ch/ayesha/events.rpy:2482
 translate russian ayesha_male_ending_d6035135:
@@ -13318,11 +13318,11 @@ translate russian ayesha_male_ending_46a20d89:
 
 # ch/ayesha/events.rpy:2486
 translate russian ayesha_male_ending_fca4fb7b:
-    "И когда Айша входит внутрь, она – все, о чем я могу думать."
+    "И когда Айша входит внутрь, она — все, о чём я могу думать."
 
 # ch/ayesha/events.rpy:2487
 translate russian ayesha_male_ending_c44959b5:
-    "Честно говоря, я не могу отвести от нее глаз ни на секунду."
+    "Честно говоря, я не могу отвести от неё глаз ни на секунду."
 
 # ch/ayesha/events.rpy:2488
 translate russian ayesha_male_ending_8086500c:
@@ -13338,15 +13338,15 @@ translate russian ayesha_male_ending_110f2e4b:
 
 # ch/ayesha/events.rpy:2492
 translate russian ayesha_male_ending_a6b0a89a:
-    "Когда она идет по проходу, ее платье становится все более и более роскошным с каждым шагом."
+    "Когда она идёт по проходу, её платье становится все более и более роскошным с каждым шагом."
 
 # ch/ayesha/events.rpy:2493
 translate russian ayesha_male_ending_fabbd8b0:
-    "Все говорят, что Айша – амазонка, что у нее фигура воительницы."
+    "Все говорят, что Айша — амазонка, что у неё фигура воительницы."
 
 # ch/ayesha/events.rpy:2494
 translate russian ayesha_male_ending_3b035dac:
-    "Сегодня она выглядит больше как воинственная королева, величественная и властная, когда идет ко мне."
+    "Сегодня она выглядит больше как воинственная королева, величественная и властная, когда идёт ко мне."
 
 # ch/ayesha/events.rpy:2496
 translate russian ayesha_male_ending_b1edf218:
@@ -13358,11 +13358,11 @@ translate russian ayesha_male_ending_36af714e:
 
 # ch/ayesha/events.rpy:2498
 translate russian ayesha_male_ending_2f579d97:
-    "Как-то ее округлый животик делает ее еще более женственной."
+    "Как-то её округлый животик делает её ещё более женственной."
 
 # ch/ayesha/events.rpy:2499
 translate russian ayesha_male_ending_06df5263:
-    "И я не мог бы гордиться больше тем, что являюсь отцом ее ребенка."
+    "И я не мог бы гордиться больше тем, что являюсь отцом её ребёнка."
 
 # ch/ayesha/events.rpy:2501
 translate russian ayesha_male_ending_e582f5ee:
@@ -13370,7 +13370,7 @@ translate russian ayesha_male_ending_e582f5ee:
 
 # ch/ayesha/events.rpy:2502
 translate russian ayesha_male_ending_e143f44e:
-    "Я так хорошо знаю контуры ее тела, что могу представить их даже, когда закрываю глаза."
+    "Я так хорошо знаю контуры её тела, что могу представить их даже, когда закрываю глаза."
 
 # ch/ayesha/events.rpy:2503
 translate russian ayesha_male_ending_c6a9af59:
@@ -13378,7 +13378,7 @@ translate russian ayesha_male_ending_c6a9af59:
 
 # ch/ayesha/events.rpy:2504
 translate russian ayesha_male_ending_c9eaa0cf:
-    "Оно придает ей элегантность, которая совершенно нова и очень интригует!"
+    "Оно придаёт ей элегантность, которая совершенно нова и очень интригует!"
 
 # ch/ayesha/events.rpy:2506
 translate russian ayesha_male_ending_abccdf3a:
@@ -13430,7 +13430,7 @@ translate russian ayesha_male_ending_85baa3c1:
 
 # ch/ayesha/events.rpy:2520
 translate russian ayesha_male_ending_42ca719d:
-    "В следующий момент мы почти стоим \"строевым шагом\", стараясь выглядеть внимательными."
+    "В следующий момент мы почти стоим «строевым шагом», стараясь выглядеть внимательными."
 
 # ch/ayesha/events.rpy:2521
 translate russian ayesha_male_ending_7ad1ece9:
@@ -13534,11 +13534,11 @@ translate russian ayesha_male_ending_713d080b:
 
 # ch/ayesha/events.rpy:2546
 translate russian ayesha_male_ending_f2ceabcb:
-    "Наступает традиционная пауза, после которой раздается нервный смех."
+    "Наступает традиционная пауза, после которой раздаётся нервный смех."
 
 # ch/ayesha/events.rpy:2547
 translate russian ayesha_male_ending_a77574ca:
-    "К счастью, никто не врывается в часовню и никто не встает со скамеек."
+    "К счастью, никто не врывается в часовню и никто не встаёт со скамеек."
 
 # ch/ayesha/events.rpy:2548
 translate russian ayesha_male_ending_0f6d6f6a:
@@ -13554,7 +13554,7 @@ translate russian ayesha_male_ending_5afd38c2:
 
 # ch/ayesha/events.rpy:2552
 translate russian ayesha_male_ending_cbcba410:
-    "Я собираюсь поднять Айшу на руки и поцеловать ее изо всех сил."
+    "Я собираюсь поднять Айшу на руки и поцеловать её изо всех сил."
 
 # ch/ayesha/events.rpy:2553
 translate russian ayesha_male_ending_ab1430ec:
@@ -13562,7 +13562,7 @@ translate russian ayesha_male_ending_ab1430ec:
 
 # ch/ayesha/events.rpy:2558
 translate russian ayesha_male_ending_eae793dc:
-    "Айша смеется, когда целует меня в губы."
+    "Айша смеётся, когда целует меня в губы."
 
 # ch/ayesha/events.rpy:2559
 translate russian ayesha_male_ending_68120eb6:
@@ -13570,7 +13570,7 @@ translate russian ayesha_male_ending_68120eb6:
 
 # ch/ayesha/events.rpy:2560
 translate russian ayesha_male_ending_f8e78a17:
-    "Мы обнимаемся как равные, и поцелуй становится еще более страстным."
+    "Мы обнимаемся как равные, и поцелуй становится ещё более страстным."
 
 # ch/ayesha/events.rpy:2561
 translate russian ayesha_male_ending_83c7a352:
@@ -13582,7 +13582,7 @@ translate russian ayesha_male_ending_33d462ce:
 
 # ch/ayesha/events.rpy:2563
 translate russian ayesha_male_ending_5d19e778:
-    "И я с нетерпением жду того, куда приведет нас совместная жизнь."
+    "И я с нетерпением жду того, куда приведёт нас совместная жизнь."
 
 # ch/ayesha/events.rpy:2566
 translate russian ayesha_male_ending_130aaca4:
@@ -13622,11 +13622,11 @@ translate russian ayesha_male_ending_b247df52:
 
 # ch/ayesha/events.rpy:2575
 translate russian ayesha_male_ending_f33ab236:
-    ayesha.say "Я видела только еще одного типичного парня в спортзале, который пытается произвести впечатление на девушек."
+    ayesha.say "Я видела только ещё одного типичного парня в спортзале, который пытается произвести впечатление на девушек."
 
 # ch/ayesha/events.rpy:2576
 translate russian ayesha_male_ending_1d717eeb:
-    ayesha.say "Есть тысячи таких парней, и все, что они видят, когда смотрят на меня – это мои размеры."
+    ayesha.say "Есть тысячи таких парней, и всё, что они видят, когда смотрят на меня — это мои размеры."
 
 # ch/ayesha/events.rpy:2577
 translate russian ayesha_male_ending_165630eb:
@@ -13642,7 +13642,7 @@ translate russian ayesha_male_ending_0b63cde6:
 
 # ch/ayesha/events.rpy:2580
 translate russian ayesha_male_ending_d6defc34:
-    ayesha.say "Они предполагают, что ты будешь хулиганом и будешь использовать свое положение."
+    ayesha.say "Они предполагают, что ты будешь хулиганом и будешь использовать своё положение."
 
 # ch/ayesha/events.rpy:2581
 translate russian ayesha_male_ending_6417e8b4:
@@ -13666,7 +13666,7 @@ translate russian ayesha_male_ending_9e4d41da:
 
 # ch/ayesha/events.rpy:2586
 translate russian ayesha_male_ending_01a42587:
-    ayesha.say "Таким, которого мне придется уложить на коврик и преподать урок."
+    ayesha.say "Таким, которого мне придётся уложить на коврик и преподать урок."
 
 # ch/ayesha/events.rpy:2587
 translate russian ayesha_male_ending_9ede2f58:
@@ -13702,15 +13702,15 @@ translate russian ayesha_male_ending_5b6ab3e9:
 
 # ch/ayesha/events.rpy:2595
 translate russian ayesha_male_ending_9419f1db:
-    ayesha.say "Он хорошо это скрывает, но я все равно думаю, что его задевает, что я всегда побеждаю, когда мы боремся на руках."
+    ayesha.say "Он хорошо это скрывает, но я всё равно думаю, что его задевает, что я всегда побеждаю, когда мы боремся на руках."
 
 # ch/ayesha/events.rpy:2596
 translate russian ayesha_male_ending_2c1169a9:
-    ayesha.say "Но самое главное – как [lssb_ayesha.hero_name()] помог мне снова почувствовать свою женственность."
+    ayesha.say "Но самое главное — как [lssb_ayesha.hero_name()] помог мне снова почувствовать свою женственность."
 
 # ch/ayesha/events.rpy:2597
 translate russian ayesha_male_ending_e2b70526:
-    ayesha.say "Это всегда было там, скрытое под моим образом \"крутой девчонки\", как и все остальное."
+    ayesha.say "Это всегда было там, скрытое под моим образом «крутой девчонки», как и всё остальное."
 
 # ch/ayesha/events.rpy:2598
 translate russian ayesha_male_ending_d9ce33cf:
@@ -13718,7 +13718,7 @@ translate russian ayesha_male_ending_d9ce33cf:
 
 # ch/ayesha/events.rpy:2599
 translate russian ayesha_male_ending_72b95605:
-    ayesha.say "Вскоре я начала чувствовать себя достаточно уверенно, чтобы демонстрировать свое тело не только на ринге для борьбы."
+    ayesha.say "Вскоре я начала чувствовать себя достаточно уверенно, чтобы демонстрировать своё тело не только на ринге для борьбы."
 
 # ch/ayesha/events.rpy:2600
 translate russian ayesha_male_ending_8027f9d4:
@@ -13746,7 +13746,7 @@ translate russian ayesha_male_ending_c496328c:
 
 # ch/ayesha/events.rpy:2606
 translate russian ayesha_male_ending_67b66754:
-    ayesha.say "Я была абсолютно влюблена в этого парня, и я все еще люблю его!"
+    ayesha.say "Я была абсолютно влюблена в этого парня, и я всё ещё люблю его!"
 
 # ch/ayesha/events.rpy:2608
 translate russian ayesha_male_ending_340391e8:
@@ -13778,11 +13778,11 @@ translate russian ayesha_male_ending_a3fcad43:
 
 # ch/ayesha/events.rpy:2616
 translate russian ayesha_male_ending_6d36747b:
-    ayesha.say "С того момента я ни о чем не жалею, и мне не терпится узнать, что нас ждет дальше."
+    ayesha.say "С того момента я ни о чём не жалею, и мне не терпится узнать, что нас ждёт дальше."
 
 # ch/ayesha/events.rpy:2617
 translate russian ayesha_male_ending_a1720e5a:
-    ayesha.say "И думаю, что наша семья скоро начнет пополняться!"
+    ayesha.say "И думаю, что наша семья скоро начнёт пополняться!"
 
 # ch/ayesha/events.rpy:2618
 translate russian ayesha_male_ending_4863e839:
@@ -13846,7 +13846,7 @@ translate russian ayesha_male_ending_9ed5ffd7:
 
 # ch/ayesha/events.rpy:2633
 translate russian ayesha_male_ending_b5377257:
-    ayesha.say "Иногда я всё ещё называю его \"сука\"."
+    ayesha.say "Иногда я всё ещё называю его «сука»."
 
 # ch/ayesha/events.rpy:2634
 translate russian ayesha_male_ending_f9bf5a6d:
@@ -13870,7 +13870,7 @@ translate russian ayesha_sub_event_01_c449c8d8:
 
 # ch/ayesha/events.rpy:2650
 translate russian ayesha_sub_event_01_e26310fc:
-    ayesha.say "Ты знаешь, что-то, о чем я хотела у тебя спросить?"
+    ayesha.say "Ты знаешь, что-то, о чём я хотела у тебя спросить?"
 
 # ch/ayesha/events.rpy:2651
 translate russian ayesha_sub_event_01_85ebb617:
@@ -13910,7 +13910,7 @@ translate russian ayesha_sub_event_01_ca998ee5:
 
 # ch/ayesha/events.rpy:2660
 translate russian ayesha_sub_event_01_ff440027:
-    ayesha.say "Я… я хотела узнать, поможешь ли ты мне?"
+    ayesha.say "Я... я хотела узнать, поможешь ли ты мне?"
 
 # ch/ayesha/events.rpy:2662
 translate russian ayesha_sub_event_01_8ae4f3e9:
@@ -13918,7 +13918,7 @@ translate russian ayesha_sub_event_01_8ae4f3e9:
 
 # ch/ayesha/events.rpy:2663
 translate russian ayesha_sub_event_01_f1981d9a:
-    "К этому моменту я уже почти начинаю потеть от мысли о том, что мне придется бороться с Айшей в облегающем костюме."
+    "К этому моменту я уже почти начинаю потеть от мысли о том, что мне придётся бороться с Айшей в облегающем костюме."
 
 # ch/ayesha/events.rpy:2664
 translate russian ayesha_sub_event_01_6f73a5b2:
@@ -13942,7 +13942,7 @@ translate russian ayesha_sub_event_01_715f3869:
 
 # ch/ayesha/events.rpy:2669
 translate russian ayesha_sub_event_01_8e87dbf8:
-    "Айша качает головой, выглядя более смущенной, чем когда-либо."
+    "Айша качает головой, выглядя более смущённой, чем когда-либо."
 
 # ch/ayesha/events.rpy:2670
 translate russian ayesha_sub_event_01_d77dfcb7:
@@ -13950,19 +13950,19 @@ translate russian ayesha_sub_event_01_d77dfcb7:
 
 # ch/ayesha/events.rpy:2672
 translate russian ayesha_sub_event_01_cf81685d:
-    ayesha.say "А… нет..."
+    ayesha.say "А... нет..."
 
 # ch/ayesha/events.rpy:2673
 translate russian ayesha_sub_event_01_2e039829:
-    ayesha.say "Я думала о своем…"
+    ayesha.say "Я думала о своём..."
 
 # ch/ayesha/events.rpy:2674
 translate russian ayesha_sub_event_01_d5d49c23:
-    ayesha.say "О моем болевом пороге!"
+    ayesha.say "О моём болевом пороге!"
 
 # ch/ayesha/events.rpy:2675
 translate russian ayesha_sub_event_01_d605a3b8:
-    mike.say "Постой… что?!"
+    mike.say "Постой... что?!"
 
 # ch/ayesha/events.rpy:2676
 translate russian ayesha_sub_event_01_71a0cab0:
@@ -13978,7 +13978,7 @@ translate russian ayesha_sub_event_01_cc348e5e:
 
 # ch/ayesha/events.rpy:2680
 translate russian ayesha_sub_event_01_4c63de25:
-    "К этому моменту Аиша настолько смущена тем, что она говорит, что едва может смотреть мне в глаза."
+    "К этому моменту Айша настолько смущена тем, что она говорит, что едва может смотреть мне в глаза."
 
 # ch/ayesha/events.rpy:2681
 translate russian ayesha_sub_event_01_4bd38238:
@@ -14006,7 +14006,7 @@ translate russian ayesha_sub_event_01_b1b0a997:
 
 # ch/ayesha/events.rpy:2688
 translate russian ayesha_sub_event_01_33844884:
-    mike.say "Ты имеешь в виду, как плети и веревки?"
+    mike.say "Ты имеешь в виду, как плети и верёвки?"
 
 # ch/ayesha/events.rpy:2689
 translate russian ayesha_sub_event_01_dbb0fec9:
@@ -14026,7 +14026,7 @@ translate russian ayesha_sub_event_01_a4899263:
 
 # ch/ayesha/events.rpy:2695
 translate russian ayesha_sub_event_01_24f316d1:
-    "Часть меня действительно хочет экспериментировать с Аишей, и это может быть интересно."
+    "Часть меня действительно хочет экспериментировать с Айшей, и это может быть интересно."
 
 # ch/ayesha/events.rpy:2696
 translate russian ayesha_sub_event_01_dab6b550:
@@ -14050,7 +14050,7 @@ translate russian ayesha_sub_event_01_4b68e912:
 
 # ch/ayesha/events.rpy:2702
 translate russian ayesha_sub_event_01_4a17d888:
-    ayesha.say "Все в порядке, если ты не хочешь."
+    ayesha.say "Всё в порядке, если ты не хочешь."
 
 # ch/ayesha/events.rpy:2703
 translate russian ayesha_sub_event_01_2d08be0d:
@@ -14058,7 +14058,7 @@ translate russian ayesha_sub_event_01_2d08be0d:
 
 # ch/ayesha/events.rpy:2704
 translate russian ayesha_sub_event_01_49ceb5db:
-    "Атмосфера стала заметно напряженной."
+    "Атмосфера стала заметно напряжённой."
 
 # ch/ayesha/events.rpy:2705
 translate russian ayesha_sub_event_01_db9e2a7b:
@@ -14070,7 +14070,7 @@ translate russian ayesha_sub_event_01_4506c605:
 
 # ch/ayesha/events.rpy:2709
 translate russian ayesha_sub_event_01_b387bfa5:
-    "Обнаженная и связанная в неловкой позе."
+    "Обнажённая и связанная в неловкой позе."
 
 # ch/ayesha/events.rpy:2710
 translate russian ayesha_sub_event_01_d76d16c2:
@@ -14082,7 +14082,7 @@ translate russian ayesha_sub_event_01_b091f75e:
 
 # ch/ayesha/events.rpy:2712
 translate russian ayesha_sub_event_01_c7f18955:
-    "Айша не может сдержать удивленный смешок."
+    "Айша не может сдержать удивлённый смешок."
 
 # ch/ayesha/events.rpy:2713
 translate russian ayesha_sub_event_01_64f1fb59:
@@ -14094,7 +14094,7 @@ translate russian ayesha_sub_event_01_fe79f297:
 
 # ch/ayesha/events.rpy:2716
 translate russian ayesha_sub_event_01_67b770ad:
-    ayesha.say "Знаешь, для таких вещей нужно серьезное планирование."
+    ayesha.say "Знаешь, для таких вещей нужно серьёзное планирование."
 
 # ch/ayesha/events.rpy:2717
 translate russian ayesha_sub_event_01_c4b5a44f:
@@ -14106,7 +14106,7 @@ translate russian ayesha_sub_event_01_880f8442:
 
 # ch/ayesha/events.rpy:2720
 translate russian ayesha_sub_event_01_3bb1f65e:
-    "Улыбка, медленно расползающаяся по ее лицу, идеально передает все это."
+    "Улыбка, медленно расползающаяся по её лицу, идеально передаёт все это."
 
 # ch/ayesha/events.rpy:2721
 translate russian ayesha_sub_event_01_f9af0bb0:
@@ -14118,7 +14118,7 @@ translate russian ayesha_sub_event_01_f21ed964:
 
 # ch/ayesha/events.rpy:2727
 translate russian ayesha_sub_event_02_missed_d4f5cc6c:
-    "Черт, я пропустил свою встречу с Айшей."
+    "Чёрт, я пропустил свою встречу с Айшей."
 
 # ch/ayesha/events.rpy:2734
 translate russian ayesha_sub_event_02_0fdc3b40:
@@ -14126,7 +14126,7 @@ translate russian ayesha_sub_event_02_0fdc3b40:
 
 # ch/ayesha/events.rpy:2735
 translate russian ayesha_sub_event_02_cc431652:
-    "Но я согласился помочь Айше повысить ее выносливость для соревнований по смешанным единоборствам."
+    "Но я согласился помочь Айше повысить её выносливость для соревнований по смешанным единоборствам."
 
 # ch/ayesha/events.rpy:2736
 translate russian ayesha_sub_event_02_05f06d7b:
@@ -14138,11 +14138,11 @@ translate russian ayesha_sub_event_02_cc341350:
 
 # ch/ayesha/events.rpy:2738
 translate russian ayesha_sub_event_02_7158b103:
-    "Я даже не знаю, делает ли тот факт, что Айша – девушка, это лучше или хуже."
+    "Я даже не знаю, делает ли тот факт, что Айша — девушка, это лучше или хуже."
 
 # ch/ayesha/events.rpy:2739
 translate russian ayesha_sub_event_02_fc02e813:
-    "И это еще до того, как я учитываю, что она тоже сложена как амазонская богиня!"
+    "И это ещё до того, как я учитываю, что она тоже сложена как амазонская богиня!"
 
 # ch/ayesha/events.rpy:2740
 translate russian ayesha_sub_event_02_2f4a4440:
@@ -14170,7 +14170,7 @@ translate russian ayesha_sub_event_02_64949c1d:
 
 # ch/ayesha/events.rpy:2749
 translate russian ayesha_sub_event_02_acdfee6a:
-    mike.say "Для меня это все новое, Аиша."
+    mike.say "Для меня это все новое, Айша."
 
 # ch/ayesha/events.rpy:2750
 translate russian ayesha_sub_event_02_16773e6a:
@@ -14186,7 +14186,7 @@ translate russian ayesha_sub_event_02_d63585db:
 
 # ch/ayesha/events.rpy:2754
 translate russian ayesha_sub_event_02_5adfe022:
-    mike.say "Да, я уверен, Аиша."
+    mike.say "Да, я уверен, Айша."
 
 # ch/ayesha/events.rpy:2755
 translate russian ayesha_sub_event_02_b952094d:
@@ -14198,11 +14198,11 @@ translate russian ayesha_sub_event_02_a727c3ca:
 
 # ch/ayesha/events.rpy:2757
 translate russian ayesha_sub_event_02_0255813b:
-    "Аиша улыбается и кивает, явно успокоенная моими словами."
+    "Айша улыбается и кивает, явно успокоенная моими словами."
 
 # ch/ayesha/events.rpy:2759
 translate russian ayesha_sub_event_02_e107ec33:
-    mike.say "Эм, нет, Аиша..."
+    mike.say "Эм, нет, Айша..."
 
 # ch/ayesha/events.rpy:2760
 translate russian ayesha_sub_event_02_35795a46:
@@ -14214,15 +14214,15 @@ translate russian ayesha_sub_event_02_9945eda0:
 
 # ch/ayesha/events.rpy:2762
 translate russian ayesha_sub_event_02_f45bb8c5:
-    "Аиша кивает."
+    "Айша кивает."
 
 # ch/ayesha/events.rpy:2763
 translate russian ayesha_sub_event_02_42f53c45:
-    "Она выглядит разочарованной, но и немного облегченной."
+    "Она выглядит разочарованной, но и немного облегчённой."
 
 # ch/ayesha/events.rpy:2764
 translate russian ayesha_sub_event_02_f58e0964:
-    ayesha.say "Все в порядке, [lssb_ayesha.hero_name()]."
+    ayesha.say "Всё в порядке, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/events.rpy:2766
 translate russian ayesha_sub_event_02_722ca779:
@@ -14230,11 +14230,11 @@ translate russian ayesha_sub_event_02_722ca779:
 
 # ch/ayesha/events.rpy:2767
 translate russian ayesha_sub_event_02_19514336:
-    "Она опускает взгляд и тихо смеется себе под нос."
+    "Она опускает взгляд и тихо смеётся себе под нос."
 
 # ch/ayesha/events.rpy:2768
 translate russian ayesha_sub_event_02_770824e2:
-    "Тогда я замечаю, что ее щеки покраснели."
+    "Тогда я замечаю, что её щеки покраснели."
 
 # ch/ayesha/events.rpy:2769
 translate russian ayesha_sub_event_02_e08af3da:
@@ -14250,19 +14250,19 @@ translate russian ayesha_sub_event_02_80b22392:
 
 # ch/ayesha/events.rpy:2778
 translate russian ayesha_sub_event_02_728ba300:
-    "Убедившись, что мы идем дальше, я достаю инструмент, который собираюсь использовать."
+    "Убедившись, что мы идём дальше, я достаю инструмент, который собираюсь использовать."
 
 # ch/ayesha/events.rpy:2779
 translate russian ayesha_sub_event_02_0ffbd139:
-    "Я вижу, как глаза Аиши расширяются, когда она видит его впервые."
+    "Я вижу, как глаза Айши расширяются, когда она видит его впервые."
 
 # ch/ayesha/events.rpy:2780
 translate russian ayesha_sub_event_02_ceb3d29e:
-    "Но она все равно кивает и начинает медленно идти ко мне."
+    "Но она всё равно кивает и начинает медленно идти ко мне."
 
 # ch/ayesha/events.rpy:2781
 translate russian ayesha_sub_event_02_d30db0bf:
-    mike.say "Ну же, Аиша."
+    mike.say "Ну же, Айша."
 
 # ch/ayesha/events.rpy:2782
 translate russian ayesha_sub_event_02_e4477581:
@@ -14270,11 +14270,11 @@ translate russian ayesha_sub_event_02_e4477581:
 
 # ch/ayesha/events.rpy:2783
 translate russian ayesha_sub_event_02_8665cfcf:
-    "Честно говоря, я не знаю, откуда в моем голосе появляется этот тон повеления."
+    "Честно говоря, я не знаю, откуда в моём голосе появляется этот тон повеления."
 
 # ch/ayesha/events.rpy:2785
 translate russian ayesha_sub_event_02_df14173f:
-    "Но когда я вижу, как Аиша удивленно вздрагивает и спешит подчиниться..."
+    "Но когда я вижу, как Айша удивлённо вздрагивает и спешит подчиниться..."
 
 # ch/ayesha/events.rpy:2786
 translate russian ayesha_sub_event_02_26477d37:
@@ -14282,7 +14282,7 @@ translate russian ayesha_sub_event_02_26477d37:
 
 # ch/ayesha/events.rpy:2787
 translate russian ayesha_sub_event_02_05549221:
-    mike.say "Иди сюда, Аиша."
+    mike.say "Иди сюда, Айша."
 
 # ch/ayesha/events.rpy:2788
 translate russian ayesha_sub_event_02_02e3d25a:
@@ -14294,11 +14294,11 @@ translate russian ayesha_sub_event_02_950b68ce:
 
 # ch/ayesha/events.rpy:2792
 translate russian ayesha_sub_event_02_5843e22f:
-    "Когда мы закончили, я вижу, как Айша надевает свое нижнее белье."
+    "Когда мы закончили, я вижу, как Айша надевает своё нижнее белье."
 
 # ch/ayesha/events.rpy:2794
 translate russian ayesha_sub_event_02_eb7a3084:
-    "Она делает это осторожно, словно ее ягодицы еще чувствительны после шлепков."
+    "Она делает это осторожно, словно её ягодицы ещё чувствительны после шлепков."
 
 # ch/ayesha/events.rpy:2795
 translate russian ayesha_sub_event_02_1f3c3139:
@@ -14318,7 +14318,7 @@ translate russian ayesha_sub_event_02_c633af0c:
 
 # ch/ayesha/events.rpy:2800
 translate russian ayesha_sub_event_02_76c9c67d:
-    ayesha.say "Д...да, у меня все хорошо."
+    ayesha.say "Д...да, у меня всё хорошо."
 
 # ch/ayesha/events.rpy:2802
 translate russian ayesha_sub_event_02_03c87751:
@@ -14338,7 +14338,7 @@ translate russian ayesha_sub_event_02_6d30d477:
 
 # ch/ayesha/events.rpy:2812
 translate russian ayesha_sub_event_03_missed_d4f5cc6c:
-    "Черт, я пропустил свою встречу с Айшей."
+    "Чёрт, я пропустил свою встречу с Айшей."
 
 # ch/ayesha/events.rpy:2819
 translate russian ayesha_sub_event_03_0fdc3b40:
@@ -14346,7 +14346,7 @@ translate russian ayesha_sub_event_03_0fdc3b40:
 
 # ch/ayesha/events.rpy:2820
 translate russian ayesha_sub_event_03_cc431652:
-    "Но я согласился помочь Айше повысить ее выносливость для соревнований по смешанным единоборствам."
+    "Но я согласился помочь Айше повысить её выносливость для соревнований по смешанным единоборствам."
 
 # ch/ayesha/events.rpy:2821
 translate russian ayesha_sub_event_03_05f06d7b:
@@ -14358,11 +14358,11 @@ translate russian ayesha_sub_event_03_cc341350:
 
 # ch/ayesha/events.rpy:2823
 translate russian ayesha_sub_event_03_7158b103:
-    "Я даже не знаю, делает ли тот факт, что Айша – девушка, это лучше или хуже."
+    "Я даже не знаю, делает ли тот факт, что Айша — девушка, это лучше или хуже."
 
 # ch/ayesha/events.rpy:2824
 translate russian ayesha_sub_event_03_fc02e813:
-    "И это еще до того, как я учитываю, что она тоже сложена как амазонская богиня!"
+    "И это ещё до того, как я учитываю, что она тоже сложена как амазонская богиня!"
 
 # ch/ayesha/events.rpy:2825
 translate russian ayesha_sub_event_03_2f4a4440:
@@ -14390,7 +14390,7 @@ translate russian ayesha_sub_event_03_64949c1d:
 
 # ch/ayesha/events.rpy:2834
 translate russian ayesha_sub_event_03_acdfee6a:
-    mike.say "Для меня это все новое, Аиша."
+    mike.say "Для меня это все новое, Айша."
 
 # ch/ayesha/events.rpy:2835
 translate russian ayesha_sub_event_03_16773e6a:
@@ -14406,7 +14406,7 @@ translate russian ayesha_sub_event_03_d63585db:
 
 # ch/ayesha/events.rpy:2839
 translate russian ayesha_sub_event_03_5adfe022:
-    mike.say "Я – Майк, Аиша."
+    mike.say "Я — Майк, Айша."
 
 # ch/ayesha/events.rpy:2840
 translate russian ayesha_sub_event_03_b952094d:
@@ -14418,11 +14418,11 @@ translate russian ayesha_sub_event_03_a727c3ca:
 
 # ch/ayesha/events.rpy:2842
 translate russian ayesha_sub_event_03_0255813b:
-    "Аиша улыбается и кивает, явно успокоенная моими словами."
+    "Айша улыбается и кивает, явно успокоенная моими словами."
 
 # ch/ayesha/events.rpy:2844
 translate russian ayesha_sub_event_03_e107ec33:
-    mike.say "Эм, нет, Аиша…"
+    mike.say "Эм, нет, Айша..."
 
 # ch/ayesha/events.rpy:2845
 translate russian ayesha_sub_event_03_35795a46:
@@ -14438,11 +14438,11 @@ translate russian ayesha_sub_event_03_f45bb8c5:
 
 # ch/ayesha/events.rpy:2848
 translate russian ayesha_sub_event_03_42f53c45:
-    "Она выглядит разочарованной, но и немного облегченной."
+    "Она выглядит разочарованной, но и немного облегчённой."
 
 # ch/ayesha/events.rpy:2849
 translate russian ayesha_sub_event_03_f58e0964:
-    ayesha.say "Все в порядке, [lssb_ayesha.hero_name()]."
+    ayesha.say "Всё в порядке, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/events.rpy:2851
 translate russian ayesha_sub_event_03_722ca779:
@@ -14450,11 +14450,11 @@ translate russian ayesha_sub_event_03_722ca779:
 
 # ch/ayesha/events.rpy:2852
 translate russian ayesha_sub_event_03_19514336:
-    "Она опускает взгляд и тихо смеется себе под нос."
+    "Она опускает взгляд и тихо смеётся себе под нос."
 
 # ch/ayesha/events.rpy:2853
 translate russian ayesha_sub_event_03_770824e2:
-    "Тогда я замечаю, что ее щеки покраснели."
+    "Тогда я замечаю, что её щеки покраснели."
 
 # ch/ayesha/events.rpy:2854
 translate russian ayesha_sub_event_03_e08af3da:
@@ -14470,15 +14470,15 @@ translate russian ayesha_sub_event_03_80b22392:
 
 # ch/ayesha/events.rpy:2863
 translate russian ayesha_sub_event_03_728ba300:
-    "Убедившись, что мы идем дальше, я достаю инструмент, который собираюсь использовать."
+    "Убедившись, что мы идём дальше, я достаю инструмент, который собираюсь использовать."
 
 # ch/ayesha/events.rpy:2864
 translate russian ayesha_sub_event_03_0ffbd139:
-    "Я вижу, как глаза Аиши расширяются, когда она видит его впервые."
+    "Я вижу, как глаза Айши расширяются, когда она видит его впервые."
 
 # ch/ayesha/events.rpy:2865
 translate russian ayesha_sub_event_03_ceb3d29e:
-    "Но она все равно кивает и начинает медленно идти ко мне."
+    "Но она всё равно кивает и начинает медленно идти ко мне."
 
 # ch/ayesha/events.rpy:2866
 translate russian ayesha_sub_event_03_d30db0bf:
@@ -14490,11 +14490,11 @@ translate russian ayesha_sub_event_03_e4477581:
 
 # ch/ayesha/events.rpy:2868
 translate russian ayesha_sub_event_03_8665cfcf:
-    "Честно говоря, я не знаю, откуда в моем голосе появляется этот тон повеления."
+    "Честно говоря, я не знаю, откуда в моём голосе появляется этот тон повеления."
 
 # ch/ayesha/events.rpy:2870
 translate russian ayesha_sub_event_03_df14173f:
-    "Но когда я вижу, как Аиша удивленно вздрагивает и спешит подчиниться..."
+    "Но когда я вижу, как Айша удивлённо вздрагивает и спешит подчиниться..."
 
 # ch/ayesha/events.rpy:2871
 translate russian ayesha_sub_event_03_26477d37:
@@ -14502,7 +14502,7 @@ translate russian ayesha_sub_event_03_26477d37:
 
 # ch/ayesha/events.rpy:2872
 translate russian ayesha_sub_event_03_05549221:
-    mike.say "Иди сюда, Аиша."
+    mike.say "Иди сюда, Айша."
 
 # ch/ayesha/events.rpy:2873
 translate russian ayesha_sub_event_03_02e3d25a:
@@ -14514,11 +14514,11 @@ translate russian ayesha_sub_event_03_950b68ce:
 
 # ch/ayesha/events.rpy:2877
 translate russian ayesha_sub_event_03_5843e22f:
-    "Когда мы закончили, я вижу, как Айша надевает свое нижнее белье."
+    "Когда мы закончили, я вижу, как Айша надевает своё нижнее белье."
 
 # ch/ayesha/events.rpy:2879
 translate russian ayesha_sub_event_03_eb7a3084:
-    "Она делает это осторожно, словно ее ягодицы еще чувствительны после шлепков."
+    "Она делает это осторожно, словно её ягодицы ещё чувствительны после шлепков."
 
 # ch/ayesha/events.rpy:2880
 translate russian ayesha_sub_event_03_1f3c3139:
@@ -14538,7 +14538,7 @@ translate russian ayesha_sub_event_03_c633af0c:
 
 # ch/ayesha/events.rpy:2885
 translate russian ayesha_sub_event_03_76c9c67d:
-    ayesha.say "Д...да, у меня все хорошо."
+    ayesha.say "Д...да, у меня всё хорошо."
 
 # ch/ayesha/events.rpy:2887
 translate russian ayesha_sub_event_03_03c87751:
@@ -14558,11 +14558,11 @@ translate russian ayesha_sub_event_03_067db869:
 
 # ch/ayesha/events.rpy:2897
 translate russian ayesha_sub_event_04_missed_d4f5cc6c:
-    "Черт, я пропустил свою встречу с Айшей."
+    "Чёрт, я пропустил свою встречу с Айшей."
 
 # ch/ayesha/events.rpy:2904
 translate russian ayesha_sub_event_04_c63b7705:
-    "Я начинаю чувствовать себя более комфортно с мыслью о том, чтобы заниматься с Аишей вещами, которые кажутся мне более вызывающими."
+    "Я начинаю чувствовать себя более комфортно с мыслью о том, чтобы заниматься с Айшей вещами, которые кажутся мне более вызывающими."
 
 # ch/ayesha/events.rpy:2905
 translate russian ayesha_sub_event_04_56f64f8e:
@@ -14590,7 +14590,7 @@ translate russian ayesha_sub_event_04_95a6ef68:
 
 # ch/ayesha/events.rpy:2911
 translate russian ayesha_sub_event_04_b1d09430:
-    "Возможность попробовать БДСМ и все такое – это было просто приятным бонусом!"
+    "Возможность попробовать БДСМ и все такое — это было просто приятным бонусом!"
 
 # ch/ayesha/events.rpy:2912
 translate russian ayesha_sub_event_04_42f8ed00:
@@ -14618,7 +14618,7 @@ translate russian ayesha_sub_event_04_18a99b38:
 
 # ch/ayesha/events.rpy:2919
 translate russian ayesha_sub_event_04_6159f2f8:
-    "Мы оба знаем, что сейчас – момент, когда мы можем все отменить."
+    "Мы оба знаем, что сейчас — момент, когда мы можем все отменить."
 
 # ch/ayesha/events.rpy:2920
 translate russian ayesha_sub_event_04_1c3d056d:
@@ -14630,7 +14630,7 @@ translate russian ayesha_sub_event_04_6a43e85c:
 
 # ch/ayesha/events.rpy:2924
 translate russian ayesha_sub_event_04_e2b51863:
-    mike.say "Мне очень понравилось в прошлый раз, когда мы так… побаловались."
+    mike.say "Мне очень понравилось в прошлый раз, когда мы так... побаловались."
 
 # ch/ayesha/events.rpy:2925
 translate russian ayesha_sub_event_04_848a038b:
@@ -14642,7 +14642,7 @@ translate russian ayesha_sub_event_04_61038777:
 
 # ch/ayesha/events.rpy:2928
 translate russian ayesha_sub_event_04_d004c1c2:
-    ayesha.say "И я должна признаться…"
+    ayesha.say "И я должна признаться..."
 
 # ch/ayesha/events.rpy:2929
 translate russian ayesha_sub_event_04_f7d81991:
@@ -14650,7 +14650,7 @@ translate russian ayesha_sub_event_04_f7d81991:
 
 # ch/ayesha/events.rpy:2930
 translate russian ayesha_sub_event_04_5dade6f6:
-    ayesha.say "Я не могу перестать думать о том, как ты меня шлепал!"
+    ayesha.say "Я не могу перестать думать о том, как ты меня шлёпал!"
 
 # ch/ayesha/events.rpy:2931
 translate russian ayesha_sub_event_04_7f91aa6e:
@@ -14662,7 +14662,7 @@ translate russian ayesha_sub_event_04_a78559f4:
 
 # ch/ayesha/events.rpy:2933
 translate russian ayesha_sub_event_04_586a7615:
-    mike.say "Но если ты мне доверяешь, я уверен, что все будет хорошо."
+    mike.say "Но если ты мне доверяешь, я уверен, что всё будет хорошо."
 
 # ch/ayesha/events.rpy:2934
 translate russian ayesha_sub_event_04_d8e314c4:
@@ -14674,23 +14674,23 @@ translate russian ayesha_sub_event_04_3d530c9b:
 
 # ch/ayesha/events.rpy:2938
 translate russian ayesha_sub_event_04_757e6843:
-    mike.say "Мне кажется, я должен сказать \"да\"."
+    mike.say "Мне кажется, я должен сказать «да»."
 
 # ch/ayesha/events.rpy:2939
 translate russian ayesha_sub_event_04_d2aecbad:
-    mike.say "Но на самом деле, нет, Аиша."
+    mike.say "Но на самом деле, нет, Айша."
 
 # ch/ayesha/events.rpy:2940
 translate russian ayesha_sub_event_04_38f9eaf3:
-    mike.say "Шлепать тебя – это одно."
+    mike.say "Шлёпать тебя — это одно."
 
 # ch/ayesha/events.rpy:2941
 translate russian ayesha_sub_event_04_0f021a15:
-    mike.say "Но это… это начинает ощущаться как настоящие мучения!"
+    mike.say "Но это... это начинает ощущаться как настоящие мучения!"
 
 # ch/ayesha/events.rpy:2942
 translate russian ayesha_sub_event_04_3b8579eb:
-    "Аиша немного разочарованно смотрит на его признание."
+    "Айша немного разочарованно смотрит на его признание."
 
 # ch/ayesha/events.rpy:2943
 translate russian ayesha_sub_event_04_88a289ec:
@@ -14698,7 +14698,7 @@ translate russian ayesha_sub_event_04_88a289ec:
 
 # ch/ayesha/events.rpy:2944
 translate russian ayesha_sub_event_04_f58e0964:
-    ayesha.say "Все в порядке, [lssb_ayesha.hero_name()]."
+    ayesha.say "Всё в порядке, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/events.rpy:2946
 translate russian ayesha_sub_event_04_722ca779:
@@ -14726,7 +14726,7 @@ translate russian ayesha_sub_event_04_fab4009d:
 
 # ch/ayesha/events.rpy:2959
 translate russian ayesha_sub_event_04_6494f853:
-    "Мы оба киваем, зная, что сейчас мы действительно перейдем к делу."
+    "Мы оба киваем, зная, что сейчас мы действительно перейдём к делу."
 
 # ch/ayesha/events.rpy:2960
 translate russian ayesha_sub_event_04_409b247e:
@@ -14734,7 +14734,7 @@ translate russian ayesha_sub_event_04_409b247e:
 
 # ch/ayesha/events.rpy:2961
 translate russian ayesha_sub_event_04_e4b786ea:
-    "Взгляд Аиши мгновенно прикован к нему, и я вижу, как она сглатывает от предвкушения."
+    "Взгляд Айши мгновенно прикован к нему, и я вижу, как она сглатывает от предвкушения."
 
 # ch/ayesha/events.rpy:2962
 translate russian ayesha_sub_event_04_8eba42d3:
@@ -14746,7 +14746,7 @@ translate russian ayesha_sub_event_04_03f6c7d6:
 
 # ch/ayesha/events.rpy:2967
 translate russian ayesha_sub_event_04_ca70acaf:
-    "Аише – по очевидным причинам, а мне – потому что я только что причинил ей боль."
+    "Айше — по очевидным причинам, а мне — потому что я только что причинил ей боль."
 
 # ch/ayesha/events.rpy:2968
 translate russian ayesha_sub_event_04_955d4fa1:
@@ -14762,11 +14762,11 @@ translate russian ayesha_sub_event_04_d6f1c5c3:
 
 # ch/ayesha/events.rpy:2972
 translate russian ayesha_sub_event_04_c54a06bd:
-    ayesha.say "[lssb_ayesha.hero_name()], ты серьезно цитируешь Queen прямо сейчас?!"
+    ayesha.say "[lssb_ayesha.hero_name()], ты серьёзно цитируешь Queen прямо сейчас?!"
 
 # ch/ayesha/events.rpy:2973
 translate russian ayesha_sub_event_04_3fd11b6b:
-    "Айша смеется и качает головой, давая мне понять, что она шутит."
+    "Айша смеётся и качает головой, давая мне понять, что она шутит."
 
 # ch/ayesha/events.rpy:2974
 translate russian ayesha_sub_event_04_a48a46f1:
@@ -14774,7 +14774,7 @@ translate russian ayesha_sub_event_04_a48a46f1:
 
 # ch/ayesha/events.rpy:2975
 translate russian ayesha_sub_event_04_b1334240:
-    "Значит, мы с ней вдвоем."
+    "Значит, мы с ней вдвоём."
 
 # ch/ayesha/events.rpy:2976
 translate russian ayesha_sub_event_04_8e160fd9:
@@ -14786,11 +14786,11 @@ translate russian ayesha_sub_event_04_e3027423:
 
 # ch/ayesha/events.rpy:2984
 translate russian ayesha_sub_event_05_missed_d4f5cc6c:
-    "Черт, я пропустил свою встречу с Айшей."
+    "Чёрт, я пропустил свою встречу с Айшей."
 
 # ch/ayesha/events.rpy:2991
 translate russian ayesha_sub_event_05_c63b7705:
-    "Я начинаю чувствовать себя более комфортно с мыслью о том, чтобы заниматься с Аишей вещами, которые кажутся мне более вызывающими."
+    "Я начинаю чувствовать себя более комфортно с мыслью о том, чтобы заниматься с Айшей вещами, которые кажутся мне более вызывающими."
 
 # ch/ayesha/events.rpy:2992
 translate russian ayesha_sub_event_05_56f64f8e:
@@ -14818,7 +14818,7 @@ translate russian ayesha_sub_event_05_95a6ef68:
 
 # ch/ayesha/events.rpy:2998
 translate russian ayesha_sub_event_05_b1d09430:
-    "Возможность попробовать БДСМ и все такое – это было просто приятным бонусом!"
+    "Возможность попробовать БДСМ и все такое — это было просто приятным бонусом!"
 
 # ch/ayesha/events.rpy:2999
 translate russian ayesha_sub_event_05_42f8ed00:
@@ -14846,7 +14846,7 @@ translate russian ayesha_sub_event_05_18a99b38:
 
 # ch/ayesha/events.rpy:3006
 translate russian ayesha_sub_event_05_6159f2f8:
-    "Мы оба знаем, что сейчас – момент, когда мы можем все отменить."
+    "Мы оба знаем, что сейчас — момент, когда мы можем все отменить."
 
 # ch/ayesha/events.rpy:3007
 translate russian ayesha_sub_event_05_1c3d056d:
@@ -14858,7 +14858,7 @@ translate russian ayesha_sub_event_05_6a43e85c:
 
 # ch/ayesha/events.rpy:3011
 translate russian ayesha_sub_event_05_e2b51863:
-    mike.say "Мне очень понравилось в прошлый раз, когда мы так… побаловались."
+    mike.say "Мне очень понравилось в прошлый раз, когда мы так... побаловались."
 
 # ch/ayesha/events.rpy:3012
 translate russian ayesha_sub_event_05_848a038b:
@@ -14870,7 +14870,7 @@ translate russian ayesha_sub_event_05_61038777:
 
 # ch/ayesha/events.rpy:3015
 translate russian ayesha_sub_event_05_d004c1c2:
-    ayesha.say "И я должна признаться…"
+    ayesha.say "И я должна признаться..."
 
 # ch/ayesha/events.rpy:3016
 translate russian ayesha_sub_event_05_f7d81991:
@@ -14878,7 +14878,7 @@ translate russian ayesha_sub_event_05_f7d81991:
 
 # ch/ayesha/events.rpy:3017
 translate russian ayesha_sub_event_05_5dade6f6:
-    ayesha.say "Я не могу перестать думать о том, как ты меня шлепал!"
+    ayesha.say "Я не могу перестать думать о том, как ты меня шлёпал!"
 
 # ch/ayesha/events.rpy:3018
 translate russian ayesha_sub_event_05_7f91aa6e:
@@ -14890,7 +14890,7 @@ translate russian ayesha_sub_event_05_a78559f4:
 
 # ch/ayesha/events.rpy:3020
 translate russian ayesha_sub_event_05_586a7615:
-    mike.say "Но если ты мне доверяешь, я уверен, что все будет хорошо."
+    mike.say "Но если ты мне доверяешь, я уверен, что всё будет хорошо."
 
 # ch/ayesha/events.rpy:3021
 translate russian ayesha_sub_event_05_d8e314c4:
@@ -14902,23 +14902,23 @@ translate russian ayesha_sub_event_05_3d530c9b:
 
 # ch/ayesha/events.rpy:3025
 translate russian ayesha_sub_event_05_757e6843:
-    mike.say "Мне кажется, я должен сказать \"да\"."
+    mike.say "Мне кажется, я должен сказать «да»."
 
 # ch/ayesha/events.rpy:3026
 translate russian ayesha_sub_event_05_d2aecbad:
-    mike.say "Но на самом деле, нет, Аиша."
+    mike.say "Но на самом деле, нет, Айша."
 
 # ch/ayesha/events.rpy:3027
 translate russian ayesha_sub_event_05_38f9eaf3:
-    mike.say "Шлепать тебя – это одно."
+    mike.say "Шлёпать тебя — это одно."
 
 # ch/ayesha/events.rpy:3028
 translate russian ayesha_sub_event_05_0f021a15:
-    mike.say "Но это… это начинает ощущаться как настоящие мучения!"
+    mike.say "Но это... это начинает ощущаться как настоящие мучения!"
 
 # ch/ayesha/events.rpy:3029
 translate russian ayesha_sub_event_05_3b8579eb:
-    "Аиша немного разочарованно смотрит на его признание."
+    "Айша немного разочарованно смотрит на его признание."
 
 # ch/ayesha/events.rpy:3030
 translate russian ayesha_sub_event_05_88a289ec:
@@ -14926,7 +14926,7 @@ translate russian ayesha_sub_event_05_88a289ec:
 
 # ch/ayesha/events.rpy:3031
 translate russian ayesha_sub_event_05_f58e0964:
-    ayesha.say "Все в порядке, [lssb_ayesha.hero_name()]."
+    ayesha.say "Всё в порядке, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/events.rpy:3033
 translate russian ayesha_sub_event_05_722ca779:
@@ -14954,7 +14954,7 @@ translate russian ayesha_sub_event_05_fab4009d:
 
 # ch/ayesha/events.rpy:3046
 translate russian ayesha_sub_event_05_6494f853:
-    "Мы оба киваем, зная, что сейчас мы действительно перейдем к делу."
+    "Мы оба киваем, зная, что сейчас мы действительно перейдём к делу."
 
 # ch/ayesha/events.rpy:3047
 translate russian ayesha_sub_event_05_409b247e:
@@ -14962,7 +14962,7 @@ translate russian ayesha_sub_event_05_409b247e:
 
 # ch/ayesha/events.rpy:3048
 translate russian ayesha_sub_event_05_e4b786ea:
-    "Взгляд Аиши мгновенно прикован к нему, и я вижу, как она сглатывает от предвкушения."
+    "Взгляд Айши мгновенно прикован к нему, и я вижу, как она сглатывает от предвкушения."
 
 # ch/ayesha/events.rpy:3049
 translate russian ayesha_sub_event_05_8eba42d3:
@@ -14974,7 +14974,7 @@ translate russian ayesha_sub_event_05_03f6c7d6:
 
 # ch/ayesha/events.rpy:3054
 translate russian ayesha_sub_event_05_ca70acaf:
-    "Аише – по очевидным причинам, а мне – потому что я только что причинил ей боль."
+    "Айше — по очевидным причинам, а мне — потому что я только что причинил ей боль."
 
 # ch/ayesha/events.rpy:3055
 translate russian ayesha_sub_event_05_955d4fa1:
@@ -14990,11 +14990,11 @@ translate russian ayesha_sub_event_05_d6f1c5c3:
 
 # ch/ayesha/events.rpy:3059
 translate russian ayesha_sub_event_05_c54a06bd:
-    ayesha.say "[lssb_ayesha.hero_name()], ты серьезно цитируешь Queen прямо сейчас?!"
+    ayesha.say "[lssb_ayesha.hero_name()], ты серьёзно цитируешь Queen прямо сейчас?!"
 
 # ch/ayesha/events.rpy:3060
 translate russian ayesha_sub_event_05_3fd11b6b:
-    "Айша смеется и качает головой, давая мне понять, что она шутит."
+    "Айша смеётся и качает головой, давая мне понять, что она шутит."
 
 # ch/ayesha/events.rpy:3061
 translate russian ayesha_sub_event_05_a48a46f1:
@@ -15002,7 +15002,7 @@ translate russian ayesha_sub_event_05_a48a46f1:
 
 # ch/ayesha/events.rpy:3062
 translate russian ayesha_sub_event_05_b1334240:
-    "Значит, мы с ней вдвоем."
+    "Значит, мы с ней вдвоём."
 
 # ch/ayesha/events.rpy:3063
 translate russian ayesha_sub_event_05_8e160fd9:
@@ -15026,7 +15026,7 @@ translate russian ayesha_birthday_date_male_12a2b4e6:
 
 # ch/ayesha/events.rpy:3075
 translate russian ayesha_birthday_date_male_8545fdc7:
-    "В этот момент я вижу, как она выходит из дверного проема, разговаривая с еще парой девушек."
+    "В этот момент я вижу, как она выходит из дверного проёма, разговаривая с ещё парой девушек."
 
 # ch/ayesha/events.rpy:3076
 translate russian ayesha_birthday_date_male_744cfe45:
@@ -15066,7 +15066,7 @@ translate russian ayesha_birthday_date_male_2191461b:
 
 # ch/ayesha/events.rpy:3088
 translate russian ayesha_birthday_date_male_4ac55c55:
-    "Она качает головой и выглядит смущенной."
+    "Она качает головой и выглядит смущённой."
 
 # ch/ayesha/events.rpy:3089
 translate russian ayesha_birthday_date_male_da4ef342:
@@ -15094,7 +15094,7 @@ translate russian ayesha_birthday_date_male_fb833fda:
 
 # ch/ayesha/events.rpy:3096
 translate russian ayesha_birthday_date_male_3f55bc30:
-    "Я подставил палец под ее подбородок, приподнимая голову."
+    "Я подставил палец под её подбородок, приподнимая голову."
 
 # ch/ayesha/events.rpy:3097
 translate russian ayesha_birthday_date_male_1a621a8e:
@@ -15102,7 +15102,7 @@ translate russian ayesha_birthday_date_male_1a621a8e:
 
 # ch/ayesha/events.rpy:3098
 translate russian ayesha_birthday_date_male_7bf85c5e:
-    mike.say "Принято, Аиша."
+    mike.say "Принято, Айша."
 
 # ch/ayesha/events.rpy:3099
 translate russian ayesha_birthday_date_male_9625665b:
@@ -15114,7 +15114,7 @@ translate russian ayesha_birthday_date_male_33179a09:
 
 # ch/ayesha/events.rpy:3103
 translate russian ayesha_birthday_date_male_a13ba270:
-    "Аиша с энтузиазмом кивает головой, а затем торопливо уходит, чтобы выполнить указание."
+    "Айша с энтузиазмом кивает головой, а затем торопливо уходит, чтобы выполнить указание."
 
 # ch/ayesha/events.rpy:3108
 translate russian ayesha_birthday_date_male_485eeb69:
@@ -15122,11 +15122,11 @@ translate russian ayesha_birthday_date_male_485eeb69:
 
 # ch/ayesha/events.rpy:3109
 translate russian ayesha_birthday_date_male_ed632dca:
-    "Здесь нет необходимости терять самообладание и портить свидание, пока оно еще не началось."
+    "Здесь нет необходимости терять самообладание и портить свидание, пока оно ещё не началось."
 
 # ch/ayesha/events.rpy:3110
 translate russian ayesha_birthday_date_male_b31cdfd7:
-    mike.say "Конечно, Аиша."
+    mike.say "Конечно, Айша."
 
 # ch/ayesha/events.rpy:3111
 translate russian ayesha_birthday_date_male_a19f9f8d:
@@ -15142,7 +15142,7 @@ translate russian ayesha_birthday_date_male_1b783efb:
 
 # ch/ayesha/events.rpy:3115
 translate russian ayesha_birthday_date_male_c1949a79:
-    "Айша выглядит удивленной, услышав, что мы опаздываем."
+    "Айша выглядит удивлённой, услышав, что мы опаздываем."
 
 # ch/ayesha/events.rpy:3116
 translate russian ayesha_birthday_date_male_58f25247:
@@ -15166,7 +15166,7 @@ translate russian ayesha_birthday_date_male_7bbfb3f3:
 
 # ch/ayesha/events.rpy:3123
 translate russian ayesha_birthday_date_male_48f6d7b6:
-    "Айша кивает и улыбается, успокоенная тем, что все в порядке."
+    "Айша кивает и улыбается, успокоенная тем, что всё в порядке."
 
 # ch/ayesha/events.rpy:3124
 translate russian ayesha_birthday_date_male_78207fe1:
@@ -15190,11 +15190,11 @@ translate russian ayesha_birthday_date_male_9cba9dd1:
 
 # ch/ayesha/events.rpy:3132
 translate russian ayesha_birthday_date_male_c1949a79_1:
-    "Айша выглядит удивленной, услышав, что мы опаздываем."
+    "Айша выглядит удивлённой, услышав, что мы опаздываем."
 
 # ch/ayesha/events.rpy:3133
 translate russian ayesha_birthday_date_male_0d050ef8:
-    "Но она кажется еще более удивленной тем тоном, с которым я к ней обращаюсь."
+    "Но она кажется ещё более удивлённой тем тоном, с которым я к ней обращаюсь."
 
 # ch/ayesha/events.rpy:3134
 translate russian ayesha_birthday_date_male_f8c8075e:
@@ -15210,11 +15210,11 @@ translate russian ayesha_birthday_date_male_8bc3efe3:
 
 # ch/ayesha/events.rpy:3137
 translate russian ayesha_birthday_date_male_badd0e62:
-    "Я киваю в знак согласия, но на моем лице все еще читается разочарование."
+    "Я киваю в знак согласия, но на моём лице всё ещё читается разочарование."
 
 # ch/ayesha/events.rpy:3138
 translate russian ayesha_birthday_date_male_7bf57466:
-    "Я качаю головой, когда Аиша торопливо уходит, чтобы собраться."
+    "Я качаю головой, когда Айша торопливо уходит, чтобы собраться."
 
 # ch/ayesha/events.rpy:3140
 translate russian ayesha_birthday_date_male_9732d24d:
@@ -15222,15 +15222,15 @@ translate russian ayesha_birthday_date_male_9732d24d:
 
 # ch/ayesha/events.rpy:3142
 translate russian ayesha_birthday_date_male_b65445db:
-    "Мы даже еще не добрались до ресторана."
+    "Мы даже ещё не добрались до ресторана."
 
 # ch/ayesha/events.rpy:3143
 translate russian ayesha_birthday_date_male_0875d7ac:
-    "И уже все идет не так, как должно."
+    "И уже все идёт не так, как должно."
 
 # ch/ayesha/events.rpy:3144
 translate russian ayesha_birthday_date_male_3e205495:
-    "Как и обещала, Аиша вернулась быстрее, чем я мог себе представить."
+    "Как и обещала, Айша вернулась быстрее, чем я мог себе представить."
 
 # ch/ayesha/events.rpy:3145
 translate russian ayesha_birthday_date_male_1701a129:
@@ -15246,7 +15246,7 @@ translate russian ayesha_birthday_date_male_4234bbe2:
 
 # ch/ayesha/events.rpy:3149
 translate russian ayesha_birthday_date_male_32207bb5:
-    "И наряд, который на ней, тоже получает мое одобрение!"
+    "И наряд, который на ней, тоже получает моё одобрение!"
 
 # ch/ayesha/events.rpy:3151
 translate russian ayesha_birthday_date_male_628c82c9:
@@ -15262,7 +15262,7 @@ translate russian ayesha_birthday_date_male_a826ea08:
 
 # ch/ayesha/events.rpy:3155
 translate russian ayesha_birthday_date_male_32fb74b4:
-    ayesha.say "Пойдем уже кушать!"
+    ayesha.say "Пойдём уже кушать!"
 
 # ch/ayesha/events.rpy:3157
 translate russian ayesha_birthday_date_male_e1fb3165:
@@ -15270,7 +15270,7 @@ translate russian ayesha_birthday_date_male_e1fb3165:
 
 # ch/ayesha/events.rpy:3160
 translate russian ayesha_birthday_date_male_7cb02839:
-    "Сразу после того, как мы выходим из спортзала, Аиша и я заходим в это место."
+    "Сразу после того, как мы выходим из спортзала, Айша и я заходим в это место."
 
 # ch/ayesha/events.rpy:3161
 translate russian ayesha_birthday_date_male_d83b4307:
@@ -15314,7 +15314,7 @@ translate russian ayesha_birthday_date_male_82e0cd39:
 
 # ch/ayesha/events.rpy:3173
 translate russian ayesha_birthday_date_male_aaf66541:
-    "Но я замечаю, что Айша, должно быть, самая высокая женщина здесь – она выше всех примерно на полметра!"
+    "Но я замечаю, что Айша, должно быть, самая высокая женщина здесь — она выше всех примерно на полметра!"
 
 # ch/ayesha/events.rpy:3175
 translate russian ayesha_birthday_date_male_8ad9053c:
@@ -15322,7 +15322,7 @@ translate russian ayesha_birthday_date_male_8ad9053c:
 
 # ch/ayesha/events.rpy:3176
 translate russian ayesha_birthday_date_male_b4142238:
-    mike.say "Единственный человек, который должен тебя интересовать – это я."
+    mike.say "Единственный человек, который должен тебя интересовать — это я."
 
 # ch/ayesha/events.rpy:3177
 translate russian ayesha_birthday_date_male_74325238:
@@ -15330,7 +15330,7 @@ translate russian ayesha_birthday_date_male_74325238:
 
 # ch/ayesha/events.rpy:3178
 translate russian ayesha_birthday_date_male_0990a13e:
-    "И она пытается изобразить улыбку на своем лице."
+    "И она пытается изобразить улыбку на своём лице."
 
 # ch/ayesha/events.rpy:3180
 translate russian ayesha_birthday_date_male_4404d80c:
@@ -15342,7 +15342,7 @@ translate russian ayesha_birthday_date_male_713cc33b:
 
 # ch/ayesha/events.rpy:3182
 translate russian ayesha_birthday_date_male_db125c94:
-    "Я киваю, показывая свое согласие, и решаю не поднимать эту тему снова."
+    "Я киваю, показывая своё согласие, и решаю не поднимать эту тему снова."
 
 # ch/ayesha/events.rpy:3183
 translate russian ayesha_birthday_date_male_ef022fd1:
@@ -15390,7 +15390,7 @@ translate russian ayesha_birthday_date_male_33f564b4:
 
 # ch/ayesha/events.rpy:3199
 translate russian ayesha_birthday_date_male_3835e380:
-    mike.say "И кого волнует, почему кто-то еще на тебя смотрит?"
+    mike.say "И кого волнует, почему кто-то ещё на тебя смотрит?"
 
 # ch/ayesha/events.rpy:3200
 translate russian ayesha_birthday_date_male_07b927b1:
@@ -15402,11 +15402,11 @@ translate russian ayesha_birthday_date_male_2adae8ce:
 
 # ch/ayesha/events.rpy:3203
 translate russian ayesha_birthday_date_male_1dbfadd4:
-    "Но когда она снова смотрит мне в глаза, в ее взгляде появляется новая уверенность."
+    "Но когда она снова смотрит мне в глаза, в её взгляде появляется новая уверенность."
 
 # ch/ayesha/events.rpy:3206
 translate russian ayesha_birthday_date_male_27cac422:
-    mike.say "Конечно, они на тебя смотрят, Аиша..."
+    mike.say "Конечно, они на тебя смотрят, Айша..."
 
 # ch/ayesha/events.rpy:3207
 translate russian ayesha_birthday_date_male_cdd0cda7:
@@ -15418,7 +15418,7 @@ translate russian ayesha_birthday_date_male_d222666a:
 
 # ch/ayesha/events.rpy:3209
 translate russian ayesha_birthday_date_male_77379bf5:
-    "Потому что что я еще могу сказать?"
+    "Потому что что я ещё могу сказать?"
 
 # ch/ayesha/events.rpy:3210
 translate russian ayesha_birthday_date_male_e96daac6:
@@ -15426,7 +15426,7 @@ translate russian ayesha_birthday_date_male_e96daac6:
 
 # ch/ayesha/events.rpy:3212
 translate russian ayesha_birthday_date_male_a7320656:
-    "Аиша краснеет и съеживается на своем месте."
+    "Айша краснеет и съёживается на своём месте."
 
 # ch/ayesha/events.rpy:3213
 translate russian ayesha_birthday_date_male_7553ef7a:
@@ -15446,11 +15446,11 @@ translate russian ayesha_birthday_date_male_92ce751e:
 
 # ch/ayesha/events.rpy:3220
 translate russian ayesha_birthday_date_male_f929d71e:
-    "Прежде чем мы сядем за стол, Аиша останавливается возле своего стула."
+    "Прежде чем мы сядем за стол, Айша останавливается возле своего стула."
 
 # ch/ayesha/events.rpy:3222
 translate russian ayesha_birthday_date_male_6b0d9a21:
-    "Кажется, она ждет, когда что-нибудь произойдет."
+    "Кажется, она ждёт, когда что-нибудь произойдёт."
 
 # ch/ayesha/events.rpy:3223
 translate russian ayesha_birthday_date_male_559d237c:
@@ -15458,15 +15458,15 @@ translate russian ayesha_birthday_date_male_559d237c:
 
 # ch/ayesha/events.rpy:3224
 translate russian ayesha_birthday_date_male_dfc1996d:
-    "Но потом я понимаю, в чем проблема."
+    "Но потом я понимаю, в чём проблема."
 
 # ch/ayesha/events.rpy:3226
 translate russian ayesha_birthday_date_male_22a4baa0:
-    "Аиша, должно быть, ждет разрешения сесть!"
+    "Айша, должно быть, ждёт разрешения сесть!"
 
 # ch/ayesha/events.rpy:3227
 translate russian ayesha_birthday_date_male_fd9f5482:
-    mike.say "Садись, Аиша."
+    mike.say "Садись, Айша."
 
 # ch/ayesha/events.rpy:3229
 translate russian ayesha_birthday_date_male_ef8756d8:
@@ -15478,11 +15478,11 @@ translate russian ayesha_birthday_date_male_4bb0c305:
 
 # ch/ayesha/events.rpy:3231
 translate russian ayesha_birthday_date_male_c31f9503:
-    "Уверенный в том, что все знают свое место."
+    "Уверенный в том, что все знают своё место."
 
 # ch/ayesha/events.rpy:3236
 translate russian ayesha_birthday_date_male_f9e0f171:
-    "Наверное, Айша ждет, пока я помогу ей придвинуть стул."
+    "Наверное, Айша ждёт, пока я помогу ей придвинуть стул."
 
 # ch/ayesha/events.rpy:3237
 translate russian ayesha_birthday_date_male_d6567e63:
@@ -15494,7 +15494,7 @@ translate russian ayesha_birthday_date_male_45597c4c:
 
 # ch/ayesha/events.rpy:3239
 translate russian ayesha_birthday_date_male_ca95cc6d:
-    "И я помогаю ей придвинуть стул и жестом приглашаю ее сесть."
+    "И я помогаю ей придвинуть стул и жестом приглашаю её сесть."
 
 # ch/ayesha/events.rpy:3241
 translate russian ayesha_birthday_date_male_0ba469f0:
@@ -15510,7 +15510,7 @@ translate russian ayesha_birthday_date_male_5d634eb2:
 
 # ch/ayesha/events.rpy:3246
 translate russian ayesha_birthday_date_male_61fbcfa6:
-    "Наверное, Айша ждет, пока я сначала сяду."
+    "Наверное, Айша ждёт, пока я сначала сяду."
 
 # ch/ayesha/events.rpy:3247
 translate russian ayesha_birthday_date_male_5de76de9:
@@ -15518,7 +15518,7 @@ translate russian ayesha_birthday_date_male_5de76de9:
 
 # ch/ayesha/events.rpy:3248
 translate russian ayesha_birthday_date_male_0479a5d6:
-    "Не желая заставлять ее ждать, я помогаю придвинуть свой стул и сажусь."
+    "Не желая заставлять её ждать, я помогаю придвинуть свой стул и сажусь."
 
 # ch/ayesha/events.rpy:3250
 translate russian ayesha_birthday_date_male_47da82df:
@@ -15530,7 +15530,7 @@ translate russian ayesha_birthday_date_male_aee2e1c5:
 
 # ch/ayesha/events.rpy:3253
 translate russian ayesha_birthday_date_male_430131ca:
-    "Однако на ее лице читается легкое разочарование."
+    "Однако на её лице читается лёгкое разочарование."
 
 # ch/ayesha/events.rpy:3257
 translate russian ayesha_birthday_date_male_0953c066:
@@ -15574,11 +15574,11 @@ translate russian ayesha_birthday_date_male_765738c0:
 
 # ch/ayesha/events.rpy:3268
 translate russian ayesha_birthday_date_male_8f4cfd0c:
-    mike.say "И думаю, тебе тоже это подойдет."
+    mike.say "И думаю, тебе тоже это подойдёт."
 
 # ch/ayesha/events.rpy:3269
 translate russian ayesha_birthday_date_male_c089f844:
-    "Глаза Айши расширяются, когда она осознает свою ошибку."
+    "Глаза Айши расширяются, когда она осознаёт свою ошибку."
 
 # ch/ayesha/events.rpy:3270
 translate russian ayesha_birthday_date_male_aedce2d3:
@@ -15614,7 +15614,7 @@ translate russian ayesha_birthday_date_male_0e71455a:
 
 # ch/ayesha/events.rpy:3282
 translate russian ayesha_birthday_date_male_1a88339d:
-    mike.say "Но тебе все равно стоит спросить."
+    mike.say "Но тебе всё равно стоит спросить."
 
 # ch/ayesha/events.rpy:3283
 translate russian ayesha_birthday_date_male_b5fa8ddd:
@@ -15658,7 +15658,7 @@ translate russian ayesha_birthday_date_male_5a44147f:
 
 # ch/ayesha/events.rpy:3296
 translate russian ayesha_birthday_date_male_e685bba1:
-    "Ayesha хмурится на меня через свое меню."
+    "Ayesha хмурится на меня через своё меню."
 
 # ch/ayesha/events.rpy:3297
 translate russian ayesha_birthday_date_male_ed2c5575:
@@ -15686,7 +15686,7 @@ translate russian ayesha_birthday_date_male_90385b1a:
 
 # ch/ayesha/events.rpy:3306
 translate russian ayesha_birthday_date_male_37b6732b:
-    "После того, как он принимает наши заказы, буквально минута или две – и еда уже на столе."
+    "После того, как он принимает наши заказы, буквально минута или две — и еда уже на столе."
 
 # ch/ayesha/events.rpy:3307
 translate russian ayesha_birthday_date_male_0dbbe7fe:
@@ -15694,7 +15694,7 @@ translate russian ayesha_birthday_date_male_0dbbe7fe:
 
 # ch/ayesha/events.rpy:3308
 translate russian ayesha_birthday_date_male_d1cdbc21:
-    "Но похоже, Аише это совсем не мешает."
+    "Но похоже, Айше это совсем не мешает."
 
 # ch/ayesha/events.rpy:3310
 translate russian ayesha_birthday_date_male_f36870f8:
@@ -15714,7 +15714,7 @@ translate russian ayesha_birthday_date_male_9705f834:
 
 # ch/ayesha/events.rpy:3314
 translate russian ayesha_birthday_date_male_0d735c79:
-    "Что остается мне только пожать плечами и последовать ее примеру."
+    "Что остаётся мне только пожать плечами и последовать её примеру."
 
 # ch/ayesha/events.rpy:3316
 translate russian ayesha_birthday_date_male_279a58a8:
@@ -15722,7 +15722,7 @@ translate russian ayesha_birthday_date_male_279a58a8:
 
 # ch/ayesha/events.rpy:3317
 translate russian ayesha_birthday_date_male_62cc429f:
-    "Но когда я собираюсь посмотреть, что там, Аиша тянется ко мне и останавливает меня."
+    "Но когда я собираюсь посмотреть, что там, Айша тянется ко мне и останавливает меня."
 
 # ch/ayesha/events.rpy:3318
 translate russian ayesha_birthday_date_male_bc1c1362:
@@ -15750,15 +15750,15 @@ translate russian ayesha_birthday_date_male_3eaa0e51:
 
 # ch/ayesha/events.rpy:3325
 translate russian ayesha_birthday_date_male_05165356:
-    mike.say "Не беспокойся об этом, Аиша..."
+    mike.say "Не беспокойся об этом, Айша..."
 
 # ch/ayesha/events.rpy:3326
 translate russian ayesha_birthday_date_male_f747f216:
-    "Аиша на мгновение выглядит растерянной."
+    "Айша на мгновение выглядит растерянной."
 
 # ch/ayesha/events.rpy:3327
 translate russian ayesha_birthday_date_male_d40d1352:
-    "Но затем она чувствует, как мои ноги начинают массировать ее ступни под столом."
+    "Но затем она чувствует, как мои ноги начинают массировать её ступни под столом."
 
 # ch/ayesha/events.rpy:3328
 translate russian ayesha_birthday_date_male_44456ce4:
@@ -15766,7 +15766,7 @@ translate russian ayesha_birthday_date_male_44456ce4:
 
 # ch/ayesha/events.rpy:3329
 translate russian ayesha_birthday_date_male_e097cb7b:
-    ayesha.say "Ты хочешь поиграть в \"ножки-ножки\" со мной?"
+    ayesha.say "Ты хочешь поиграть в «ножки-ножки» со мной?"
 
 # ch/ayesha/events.rpy:3331
 translate russian ayesha_birthday_date_male_9a4a9064:
@@ -15786,11 +15786,11 @@ translate russian ayesha_birthday_date_male_cb21e556:
 
 # ch/ayesha/events.rpy:3335
 translate russian ayesha_birthday_date_male_3091ca8d:
-    "Я наблюдаю, как лицо Аиши преображается в выражение блаженства."
+    "Я наблюдаю, как лицо Айши преображается в выражение блаженства."
 
 # ch/ayesha/events.rpy:3336
 translate russian ayesha_birthday_date_male_907b16a2:
-    "Как мышцы ее ног расслабляются, так же и она сама."
+    "Как мышцы её ног расслабляются, так же и она сама."
 
 # ch/ayesha/events.rpy:3337
 translate russian ayesha_birthday_date_male_4f8b0a5e:
@@ -15818,7 +15818,7 @@ translate russian ayesha_birthday_date_male_ec360843:
 
 # ch/ayesha/events.rpy:3344
 translate russian ayesha_birthday_date_male_cfa5c25c:
-    "Но сейчас в ее глазах появляется голодный блеск."
+    "Но сейчас в её глазах появляется голодный блеск."
 
 # ch/ayesha/events.rpy:3345
 translate russian ayesha_birthday_date_male_c72ba3c8:
@@ -15854,7 +15854,7 @@ translate russian ayesha_birthday_date_male_23a73daa:
 
 # ch/ayesha/events.rpy:3356
 translate russian ayesha_birthday_date_male_c9244e8b:
-    ayesha.say "Черт возьми..."
+    ayesha.say "Чёрт возьми..."
 
 # ch/ayesha/events.rpy:3357
 translate russian ayesha_birthday_date_male_64e16c8a:
@@ -15862,11 +15862,11 @@ translate russian ayesha_birthday_date_male_64e16c8a:
 
 # ch/ayesha/events.rpy:3358
 translate russian ayesha_birthday_date_male_8f3925b8:
-    "Я наблюдаю, с ужасом съёживаясь от боли, которую испытывает Аиша."
+    "Я наблюдаю, с ужасом съёживаясь от боли, которую испытывает Айша."
 
 # ch/ayesha/events.rpy:3359
 translate russian ayesha_birthday_date_male_437106ef:
-    "И я отдергиваю ноги, пока она пытается разогреть свою ногу."
+    "И я отдёргиваю ноги, пока она пытается разогреть свою ногу."
 
 # ch/ayesha/events.rpy:3362
 translate russian ayesha_birthday_date_male_7987f16b:
@@ -15878,7 +15878,7 @@ translate russian ayesha_birthday_date_male_b205669b:
 
 # ch/ayesha/events.rpy:3364
 translate russian ayesha_birthday_date_male_0563c173:
-    "Увидев, что я делаю, Аиша наклоняется ближе и ловит мой взгляд."
+    "Увидев, что я делаю, Айша наклоняется ближе и ловит мой взгляд."
 
 # ch/ayesha/events.rpy:3366
 translate russian ayesha_birthday_date_male_f765134e:
@@ -15894,7 +15894,7 @@ translate russian ayesha_birthday_date_male_aaac4b5c:
 
 # ch/ayesha/events.rpy:3369
 translate russian ayesha_birthday_date_male_db38e665:
-    mike.say "Да, Аиша..."
+    mike.say "Да, Айша..."
 
 # ch/ayesha/events.rpy:3370
 translate russian ayesha_birthday_date_male_d236d79e:
@@ -15910,7 +15910,7 @@ translate russian ayesha_birthday_date_male_e3fe4d1e:
 
 # ch/ayesha/events.rpy:3375
 translate russian ayesha_birthday_date_male_0dd104aa:
-    mike.say "Не волнуйся, Аиша."
+    mike.say "Не волнуйся, Айша."
 
 # ch/ayesha/events.rpy:3376
 translate russian ayesha_birthday_date_male_961c0057:
@@ -15918,7 +15918,7 @@ translate russian ayesha_birthday_date_male_961c0057:
 
 # ch/ayesha/events.rpy:3377
 translate russian ayesha_birthday_date_male_b564126e:
-    "Оглядевшись, мне удается привлечь внимание официанта."
+    "Оглядевшись, мне удаётся привлечь внимание официанта."
 
 # ch/ayesha/events.rpy:3378
 translate russian ayesha_birthday_date_male_4f3266c4:
@@ -15954,7 +15954,7 @@ translate russian ayesha_birthday_date_male_49394410:
 
 # ch/ayesha/events.rpy:3388
 translate russian ayesha_birthday_date_male_816e7661:
-    "Я смотрю и вижу, что Айша выглядит облегченной."
+    "Я смотрю и вижу, что Айша выглядит облегчённой."
 
 # ch/ayesha/events.rpy:3389
 translate russian ayesha_birthday_date_male_f7fce23a:
@@ -15966,7 +15966,7 @@ translate russian ayesha_birthday_date_male_1aa97fef:
 
 # ch/ayesha/events.rpy:3393
 translate russian ayesha_birthday_date_male_740b42fe:
-    mike.say "И это – пожаловаться самым решительным образом!"
+    mike.say "И это — пожаловаться самым решительным образом!"
 
 # ch/ayesha/events.rpy:3394
 translate russian ayesha_birthday_date_male_394fa3c4:
@@ -15974,11 +15974,11 @@ translate russian ayesha_birthday_date_male_394fa3c4:
 
 # ch/ayesha/events.rpy:3396
 translate russian ayesha_birthday_date_male_bc10fbe2:
-    "Но я намеренно игнорирую ее."
+    "Но я намеренно игнорирую её."
 
 # ch/ayesha/events.rpy:3397
 translate russian ayesha_birthday_date_male_b564126e_1:
-    "Оглядевшись, мне удается привлечь внимание официанта."
+    "Оглядевшись, мне удаётся привлечь внимание официанта."
 
 # ch/ayesha/events.rpy:3398
 translate russian ayesha_birthday_date_male_e8193d10:
@@ -16022,7 +16022,7 @@ translate russian ayesha_birthday_date_male_a688a350:
 
 # ch/ayesha/events.rpy:3410
 translate russian ayesha_birthday_date_male_b0faa0fa:
-    "Я оглядываюсь и вижу, что Айша явно смущается на своем месте."
+    "Я оглядываюсь и вижу, что Айша явно смущается на своём месте."
 
 # ch/ayesha/events.rpy:3411
 translate russian ayesha_birthday_date_male_ef7cc794:
@@ -16058,7 +16058,7 @@ translate russian ayesha_birthday_date_male_dfaeef0c:
 
 # ch/ayesha/events.rpy:3422
 translate russian ayesha_birthday_date_male_c21aae30:
-    "Я просто не уверен, что быть в центре внимания – это всегда хорошо!"
+    "Я просто не уверен, что быть в центре внимания — это всегда хорошо!"
 
 # ch/ayesha/events.rpy:3424
 translate russian ayesha_birthday_date_male_26ca82b8:
@@ -16070,7 +16070,7 @@ translate russian ayesha_birthday_date_male_b4b5c78d:
 
 # ch/ayesha/events.rpy:3426
 translate russian ayesha_birthday_date_male_4024d161:
-    "Значит, все ее внимание направлено на меня."
+    "Значит, все её внимание направлено на меня."
 
 # ch/ayesha/events.rpy:3427
 translate russian ayesha_birthday_date_male_1f588598:
@@ -16090,7 +16090,7 @@ translate russian ayesha_birthday_date_male_31a9570b:
 
 # ch/ayesha/events.rpy:3432
 translate russian ayesha_birthday_date_male_b33a705f:
-    "По ее лицу видно, как ей стыдно за то, что она сделала."
+    "По её лицу видно, как ей стыдно за то, что она сделала."
 
 # ch/ayesha/events.rpy:3433
 translate russian ayesha_birthday_date_male_c4c01fa2:
@@ -16118,7 +16118,7 @@ translate russian ayesha_birthday_date_male_9905b8cf:
 
 # ch/ayesha/events.rpy:3444
 translate russian ayesha_birthday_date_male_90fd81f8:
-    "Сначала Аиша выглядит немного озадаченной."
+    "Сначала Айша выглядит немного озадаченной."
 
 # ch/ayesha/events.rpy:3445
 translate russian ayesha_birthday_date_male_30a0cd6a:
@@ -16130,7 +16130,7 @@ translate russian ayesha_birthday_date_male_0909aadf:
 
 # ch/ayesha/events.rpy:3447
 translate russian ayesha_birthday_date_male_a32c4ec1:
-    "И я вижу, как на ее лице появляется улыбка, когда она так делает."
+    "И я вижу, как на её лице появляется улыбка, когда она так делает."
 
 # ch/ayesha/events.rpy:3449
 translate russian ayesha_birthday_date_male_aab14f31:
@@ -16158,7 +16158,7 @@ translate russian ayesha_birthday_date_male_1a5c2fd5:
 
 # ch/ayesha/events.rpy:3457
 translate russian ayesha_birthday_date_male_805f8918:
-    "Я тихонько шиплю сквозь зубы в сторону Аиши."
+    "Я тихонько шиплю сквозь зубы в сторону Айши."
 
 # ch/ayesha/events.rpy:3458
 translate russian ayesha_birthday_date_male_604fc1e0:
@@ -16166,11 +16166,11 @@ translate russian ayesha_birthday_date_male_604fc1e0:
 
 # ch/ayesha/events.rpy:3459
 translate russian ayesha_birthday_date_male_cc18d9ab:
-    mike.say "Аиша!"
+    mike.say "Айша!"
 
 # ch/ayesha/events.rpy:3460
 translate russian ayesha_birthday_date_male_cc18d9ab_1:
-    mike.say "Аиша!"
+    mike.say "Айша!"
 
 # ch/ayesha/events.rpy:3461
 translate russian ayesha_birthday_date_male_6719c9c4:
@@ -16178,7 +16178,7 @@ translate russian ayesha_birthday_date_male_6719c9c4:
 
 # ch/ayesha/events.rpy:3462
 translate russian ayesha_birthday_date_male_9c343259:
-    "И по выражению ее лица я вижу, что она совершенно не понимает, что происходит."
+    "И по выражению её лица я вижу, что она совершенно не понимает, что происходит."
 
 # ch/ayesha/events.rpy:3464
 translate russian ayesha_birthday_date_male_ddf4bfad:
@@ -16222,7 +16222,7 @@ translate russian ayesha_birthday_date_male_3f57bd6a:
 
 # ch/ayesha/events.rpy:3479
 translate russian ayesha_birthday_date_male_89e789b5:
-    "И наступает такая естественная пауза, пока мы ждем его возвращения."
+    "И наступает такая естественная пауза, пока мы ждём его возвращения."
 
 # ch/ayesha/events.rpy:3480
 translate russian ayesha_birthday_date_male_acdc2f91:
@@ -16230,7 +16230,7 @@ translate russian ayesha_birthday_date_male_acdc2f91:
 
 # ch/ayesha/events.rpy:3481
 translate russian ayesha_birthday_date_male_53158250:
-    "Фактически, кажется, она ждет, что я сделаю что-то."
+    "Фактически, кажется, она ждёт, что я сделаю что-то."
 
 # ch/ayesha/events.rpy:3483
 translate russian ayesha_birthday_date_male_af231f81:
@@ -16246,7 +16246,7 @@ translate russian ayesha_birthday_date_male_d5e0778b:
 
 # ch/ayesha/events.rpy:3486
 translate russian ayesha_birthday_date_male_4053e014:
-    "Раньше я не была уверена, что именно Аиша имела в виду."
+    "Раньше я не была уверена, что именно Айша имела в виду."
 
 # ch/ayesha/events.rpy:3487
 translate russian ayesha_birthday_date_male_b11cd3c5:
@@ -16254,15 +16254,15 @@ translate russian ayesha_birthday_date_male_b11cd3c5:
 
 # ch/ayesha/events.rpy:3488
 translate russian ayesha_birthday_date_male_6c2381b6:
-    "Очевидно, она гадает, купил ли я ей подарок на ее день рождения."
+    "Очевидно, она гадает, купил ли я ей подарок на её день рождения."
 
 # ch/ayesha/events.rpy:3490
 translate russian ayesha_birthday_date_male_016f333a:
-    "Ну… это неловко!"
+    "Ну... это неловко!"
 
 # ch/ayesha/events.rpy:3491
 translate russian ayesha_birthday_date_male_8e26735a:
-    "На самом деле, я ничего не купила Аише."
+    "На самом деле, я ничего не купила Айше."
 
 # ch/ayesha/events.rpy:3492
 translate russian ayesha_birthday_date_male_4f2d4bb7:
@@ -16270,7 +16270,7 @@ translate russian ayesha_birthday_date_male_4f2d4bb7:
 
 # ch/ayesha/events.rpy:3493
 translate russian ayesha_birthday_date_male_95f590b9:
-    mike.say "Ну, ты же знаешь, Аиша..."
+    mike.say "Ну, ты же знаешь, Айша..."
 
 # ch/ayesha/events.rpy:3494
 translate russian ayesha_birthday_date_male_2ee2ccfd:
@@ -16278,7 +16278,7 @@ translate russian ayesha_birthday_date_male_2ee2ccfd:
 
 # ch/ayesha/events.rpy:3495
 translate russian ayesha_birthday_date_male_70974816:
-    mike.say "Что-то, о чем ты, вероятно, быстро забудешь."
+    mike.say "Что-то, о чём ты, вероятно, быстро забудешь."
 
 # ch/ayesha/events.rpy:3496
 translate russian ayesha_birthday_date_male_81860cf9:
@@ -16286,7 +16286,7 @@ translate russian ayesha_birthday_date_male_81860cf9:
 
 # ch/ayesha/events.rpy:3497
 translate russian ayesha_birthday_date_male_8f705919:
-    "Я улыбаюсь, пытаясь убедить Аишу в этом."
+    "Я улыбаюсь, пытаясь убедить Айшу в этом."
 
 # ch/ayesha/events.rpy:3498
 translate russian ayesha_birthday_date_male_b9145a77:
@@ -16306,7 +16306,7 @@ translate russian ayesha_birthday_date_male_bbbd9862:
 
 # ch/ayesha/events.rpy:3509
 translate russian ayesha_birthday_date_male_ba750519:
-    mike.say "Это еще не все, Айша..."
+    mike.say "Это ещё не все, Айша..."
 
 # ch/ayesha/events.rpy:3510
 translate russian ayesha_birthday_date_male_1bdd628e:
@@ -16314,7 +16314,7 @@ translate russian ayesha_birthday_date_male_1bdd628e:
 
 # ch/ayesha/events.rpy:3511
 translate russian ayesha_birthday_date_male_a882e193:
-    "Айша издает неожиданно девичью радостную всхлип."
+    "Айша издаёт неожиданно девичью радостную всхлип."
 
 # ch/ayesha/events.rpy:3513
 translate russian ayesha_birthday_date_male_d86c29a7:
@@ -16362,7 +16362,7 @@ translate russian ayesha_birthday_date_male_4699a2de:
 
 # ch/ayesha/events.rpy:3531
 translate russian ayesha_birthday_date_male_9b448e02:
-    "Я качаю головой, обеспокоенный ее реакцией."
+    "Я качаю головой, обеспокоенный её реакцией."
 
 # ch/ayesha/events.rpy:3532
 translate russian ayesha_birthday_date_male_30e74fc5:
@@ -16394,11 +16394,11 @@ translate russian ayesha_birthday_date_male_bfd65e67:
 
 # ch/ayesha/events.rpy:3542
 translate russian ayesha_birthday_date_male_016f333a_1:
-    "Ну… это неловко!"
+    "Ну... это неловко!"
 
 # ch/ayesha/events.rpy:3543
 translate russian ayesha_birthday_date_male_8e26735a_1:
-    "На самом деле, я ничего не купила Аише."
+    "На самом деле, я ничего не купила Айше."
 
 # ch/ayesha/events.rpy:3544
 translate russian ayesha_birthday_date_male_4f2d4bb7_1:
@@ -16406,7 +16406,7 @@ translate russian ayesha_birthday_date_male_4f2d4bb7_1:
 
 # ch/ayesha/events.rpy:3545
 translate russian ayesha_birthday_date_male_95f590b9_1:
-    mike.say "Ну, ты же знаешь, Аиша..."
+    mike.say "Ну, ты же знаешь, Айша..."
 
 # ch/ayesha/events.rpy:3546
 translate russian ayesha_birthday_date_male_2ee2ccfd_1:
@@ -16414,7 +16414,7 @@ translate russian ayesha_birthday_date_male_2ee2ccfd_1:
 
 # ch/ayesha/events.rpy:3547
 translate russian ayesha_birthday_date_male_70974816_1:
-    mike.say "Что-то, о чем ты, вероятно, быстро забудешь."
+    mike.say "Что-то, о чём ты, вероятно, быстро забудешь."
 
 # ch/ayesha/events.rpy:3548
 translate russian ayesha_birthday_date_male_81860cf9_1:
@@ -16422,7 +16422,7 @@ translate russian ayesha_birthday_date_male_81860cf9_1:
 
 # ch/ayesha/events.rpy:3549
 translate russian ayesha_birthday_date_male_8f705919_1:
-    "Я улыбаюсь, пытаясь убедить Аишу в этом."
+    "Я улыбаюсь, пытаясь убедить Айшу в этом."
 
 # ch/ayesha/events.rpy:3550
 translate russian ayesha_birthday_date_male_b9145a77_1:
@@ -16486,7 +16486,7 @@ translate russian ayesha_birthday_date_male_65059848:
 
 # ch/ayesha/events.rpy:3571
 translate russian ayesha_birthday_date_male_3fed391a:
-    "Я качаю головой, глядя на Аишу."
+    "Я качаю головой, глядя на Айшу."
 
 # ch/ayesha/events.rpy:3572
 translate russian ayesha_birthday_date_male_67dfb7a0:
@@ -16494,7 +16494,7 @@ translate russian ayesha_birthday_date_male_67dfb7a0:
 
 # ch/ayesha/events.rpy:3573
 translate russian ayesha_birthday_date_male_07bd7b08:
-    mike.say "Мое слово важнее любой глупой диеты."
+    mike.say "Моё слово важнее любой глупой диеты."
 
 # ch/ayesha/events.rpy:3574
 translate russian ayesha_birthday_date_male_a663f00a:
@@ -16514,7 +16514,7 @@ translate russian ayesha_birthday_date_male_f70ac550:
 
 # ch/ayesha/events.rpy:3583
 translate russian ayesha_birthday_date_male_de9fa614:
-    "Что-то в том, что только что сказала Айша, привлекает мое внимание."
+    "Что-то в том, что только что сказала Айша, привлекает моё внимание."
 
 # ch/ayesha/events.rpy:3584
 translate russian ayesha_birthday_date_male_54bc8ad6:
@@ -16578,7 +16578,7 @@ translate russian ayesha_birthday_date_male_6767cd93:
 
 # ch/ayesha/events.rpy:3603
 translate russian ayesha_birthday_date_male_4a03ff01:
-    "В конце концов, я не хочу, чтобы ее пристальный взгляд испортил мне аппетит!"
+    "В конце концов, я не хочу, чтобы её пристальный взгляд испортил мне аппетит!"
 
 # ch/ayesha/events.rpy:3605
 translate russian ayesha_birthday_date_male_3ab40f87:
@@ -16610,7 +16610,7 @@ translate russian ayesha_birthday_date_male_75a49474:
 
 # ch/ayesha/events.rpy:3616
 translate russian ayesha_birthday_date_male_ddfbfada:
-    "Айша качает головой, на ее лице появляется улыбка."
+    "Айша качает головой, на её лице появляется улыбка."
 
 # ch/ayesha/events.rpy:3617
 translate russian ayesha_birthday_date_male_92b61773:
@@ -16622,7 +16622,7 @@ translate russian ayesha_birthday_date_male_1e969a85_3:
 
 # ch/ayesha/events.rpy:3620
 translate russian ayesha_birthday_date_male_45760079:
-    ayesha.say "Думаю, у меня еще есть немного сил!"
+    ayesha.say "Думаю, у меня ещё есть немного сил!"
 
 # ch/ayesha/events.rpy:3621
 translate russian ayesha_birthday_date_male_08b792f6:
@@ -16630,7 +16630,7 @@ translate russian ayesha_birthday_date_male_08b792f6:
 
 # ch/ayesha/events.rpy:3622
 translate russian ayesha_birthday_date_male_f9d4c513:
-    "И меня тянут за собой, я слишком удивлен, чтобы хоть как-то сопротивляться."
+    "И меня тянут за собой, я слишком удивлён, чтобы хоть как-то сопротивляться."
 
 # ch/ayesha/events.rpy:3623
 translate russian ayesha_birthday_date_male_e0d440cc:
@@ -16650,7 +16650,7 @@ translate russian ayesha_birthday_date_male_a73ddb8d:
 
 # ch/ayesha/events.rpy:3630
 translate russian ayesha_birthday_date_male_4943b53c:
-    ayesha.say "Но теперь мне нужно, чтобы ты сделал это еще лучше."
+    ayesha.say "Но теперь мне нужно, чтобы ты сделал это ещё лучше."
 
 # ch/ayesha/events.rpy:3631
 translate russian ayesha_birthday_date_male_7da8344f:
@@ -16666,7 +16666,7 @@ translate russian ayesha_birthday_date_male_f1c55819:
 
 # ch/ayesha/events.rpy:3636
 translate russian ayesha_birthday_date_male_52c7cc1f:
-    "А затем она добавляет еще один кивок, на всякий случай."
+    "А затем она добавляет ещё один кивок, на всякий случай."
 
 # ch/ayesha/events.rpy:3637
 translate russian ayesha_birthday_date_male_3b55024f:
@@ -16678,7 +16678,7 @@ translate russian ayesha_birthday_date_male_07b46eac:
 
 # ch/ayesha/events.rpy:3639
 translate russian ayesha_birthday_date_male_26ae51fd:
-    ayesha.say "Да, черт возьми, [lssb_ayesha.hero_name()]!"
+    ayesha.say "Да, чёрт возьми, [lssb_ayesha.hero_name()]!"
 
 # ch/ayesha/events.rpy:3640
 translate russian ayesha_birthday_date_male_2b7ecc37:
@@ -16702,7 +16702,7 @@ translate russian ayesha_birthday_date_male_f721f6f9:
 
 # ch/ayesha/events.rpy:3646
 translate russian ayesha_birthday_date_male_a1098d63:
-    "Я оборачиваюсь и начинаю звать такси для Аиши."
+    "Я оборачиваюсь и начинаю звать такси для Айши."
 
 # ch/ayesha/events.rpy:3647
 translate russian ayesha_birthday_date_male_f6304516:
@@ -16714,7 +16714,7 @@ translate russian ayesha_birthday_sex_6ea5b4be:
 
 # ch/ayesha/events.rpy:3656
 translate russian ayesha_birthday_sex_7e27d307:
-    "Потому что Аиша сейчас вся во мне."
+    "Потому что Айша сейчас вся во мне."
 
 # ch/ayesha/events.rpy:3657
 translate russian ayesha_birthday_sex_72a0d489:
@@ -16734,7 +16734,7 @@ translate russian ayesha_birthday_sex_e9bcb451:
 
 # ch/ayesha/events.rpy:3661
 translate russian ayesha_birthday_sex_b14d3023:
-    "Аиша использует весь свой вес, чтобы сильно прижать меня к стене."
+    "Айша использует весь свой вес, чтобы сильно прижать меня к стене."
 
 # ch/ayesha/events.rpy:3666
 translate russian ayesha_birthday_sex_701deb32:
@@ -16742,11 +16742,11 @@ translate russian ayesha_birthday_sex_701deb32:
 
 # ch/ayesha/events.rpy:3667
 translate russian ayesha_birthday_sex_d0786d0b:
-    "Я уже чувствую, какое влияние она оказывает на мое тело."
+    "Я уже чувствую, какое влияние она оказывает на моё тело."
 
 # ch/ayesha/events.rpy:3668
 translate russian ayesha_birthday_sex_e78a43ed:
-    "Мое сердце бешено колотится в груди."
+    "Моё сердце бешено колотится в груди."
 
 # ch/ayesha/events.rpy:3669
 translate russian ayesha_birthday_sex_de9a06bd:
@@ -16754,11 +16754,11 @@ translate russian ayesha_birthday_sex_de9a06bd:
 
 # ch/ayesha/events.rpy:3670
 translate russian ayesha_birthday_sex_ea06d79f:
-    "И, разумеется, мой член настолько твердый, что это больно!"
+    "И, разумеется, мой член настолько твёрдый, что это больно!"
 
 # ch/ayesha/events.rpy:3671
 translate russian ayesha_birthday_sex_52a4545b:
-    "Внезапно Аиша прерывает поцелуй, задыхаясь при этом."
+    "Внезапно Айша прерывает поцелуй, задыхаясь при этом."
 
 # ch/ayesha/events.rpy:3675
 translate russian ayesha_birthday_sex_b1694e53:
@@ -16778,19 +16778,19 @@ translate russian ayesha_birthday_sex_54bddb92:
 
 # ch/ayesha/events.rpy:3679
 translate russian ayesha_birthday_sex_1e0df492:
-    "Аиша обнимает меня, прижимая к себе."
+    "Айша обнимает меня, прижимая к себе."
 
 # ch/ayesha/events.rpy:3680
 translate russian ayesha_birthday_sex_ae954bdb:
-    "Теперь я чувствую, как сильно бьется и ее сердце."
+    "Теперь я чувствую, как сильно бьётся и её сердце."
 
 # ch/ayesha/events.rpy:3681
 translate russian ayesha_birthday_sex_4e07ced5:
-    "И я ощущаю сладкий запах ее пота."
+    "И я ощущаю сладкий запах её пота."
 
 # ch/ayesha/events.rpy:3682
 translate russian ayesha_birthday_sex_d2dca700:
-    "Для меня это как феромон, заставляющий меня хотеть ее еще больше."
+    "Для меня это как феромон, заставляющий меня хотеть её ещё больше."
 
 # ch/ayesha/events.rpy:3683
 translate russian ayesha_birthday_sex_5c0356c3:
@@ -16802,11 +16802,11 @@ translate russian ayesha_birthday_sex_308713c2:
 
 # ch/ayesha/events.rpy:3685
 translate russian ayesha_birthday_sex_0cbad21f:
-    "Я киваю с нетерпением, желая только одного – доставить ей удовольствие."
+    "Я киваю с нетерпением, желая только одного — доставить ей удовольствие."
 
 # ch/ayesha/events.rpy:3686
 translate russian ayesha_birthday_sex_3611fe70:
-    "Быть в объятиях Аиши совсем не страшно."
+    "Быть в объятиях Айши совсем не страшно."
 
 # ch/ayesha/events.rpy:3687
 translate russian ayesha_birthday_sex_c527f205:
@@ -16822,7 +16822,7 @@ translate russian ayesha_birthday_sex_451a85a0:
 
 # ch/ayesha/events.rpy:3690
 translate russian ayesha_birthday_sex_5f764939:
-    "Внезапно что-то щелкает у меня в голове."
+    "Внезапно что-то щёлкает у меня в голове."
 
 # ch/ayesha/events.rpy:3691
 translate russian ayesha_birthday_sex_181b63b2:
@@ -16830,31 +16830,31 @@ translate russian ayesha_birthday_sex_181b63b2:
 
 # ch/ayesha/events.rpy:3692
 translate russian ayesha_birthday_sex_833f8c4b:
-    "Скорее, она пытается заставить меня соответствовать ее физической форме."
+    "Скорее, она пытается заставить меня соответствовать её физической форме."
 
 # ch/ayesha/events.rpy:3693
 translate russian ayesha_birthday_sex_eeab96e1:
-    "Эта мысль дает мне стимул взять дело в свои руки."
+    "Эта мысль даёт мне стимул взять дело в свои руки."
 
 # ch/ayesha/events.rpy:3694
 translate russian ayesha_birthday_sex_8916e00c:
-    "Айша уже сделала это довольно жестким занятием, поэтому я решаю оставить все как есть."
+    "Айша уже сделала это довольно жёстким занятием, поэтому я решаю оставить все как есть."
 
 # ch/ayesha/events.rpy:3695
 translate russian ayesha_birthday_sex_d28a944a:
-    "Я освобождаю свои руки из ее объятий."
+    "Я освобождаю свои руки из её объятий."
 
 # ch/ayesha/events.rpy:3696
 translate russian ayesha_birthday_sex_b39ebe84:
-    "Затем я хватаю ее за ягодицы руками."
+    "Затем я хватаю её за ягодицы руками."
 
 # ch/ayesha/events.rpy:3697
 translate russian ayesha_birthday_sex_16a1ef1d:
-    "Айша удивленно вскрикивает, когда я сжимаю их."
+    "Айша удивлённо вскрикивает, когда я сжимаю их."
 
 # ch/ayesha/events.rpy:3698
 translate russian ayesha_birthday_sex_4d9cfd47:
-    "Но это еще не все, что я собираюсь делать, ведь я также поднимаю ее со земли."
+    "Но это ещё не всё, что я собираюсь делать, ведь я также поднимаю её со земли."
 
 # ch/ayesha/events.rpy:3699
 translate russian ayesha_birthday_sex_e481486b:
@@ -16866,11 +16866,11 @@ translate russian ayesha_birthday_sex_0e0c6939:
 
 # ch/ayesha/events.rpy:3701
 translate russian ayesha_birthday_sex_d1afa6ee:
-    "Наоборот, она кивает и цепляется еще сильнее, чем прежде."
+    "Наоборот, она кивает и цепляется ещё сильнее, чем прежде."
 
 # ch/ayesha/events.rpy:3702
 translate russian ayesha_birthday_sex_c637b65c:
-    "И когда я использую свои руки, чтобы подтянуть ее юбку, она делает все возможное, чтобы помочь."
+    "И когда я использую свои руки, чтобы подтянуть её юбку, она делает все возможное, чтобы помочь."
 
 # ch/ayesha/events.rpy:3703
 translate russian ayesha_birthday_sex_aae251c0:
@@ -16962,11 +16962,11 @@ translate russian ayesha_birthday_sex_7ae577e1:
 
 # ch/ayesha/events.rpy:3731
 translate russian ayesha_birthday_sex_4e1701be:
-    "Это ощущение просто невероятное – видеть, как львица превращается в котенка!"
+    "Это ощущение просто невероятное — видеть, как львица превращается в котенка!"
 
 # ch/ayesha/events.rpy:3732
 translate russian ayesha_birthday_sex_577ab350:
-    "И хотя мы начали довольно бурно, сейчас все стало более нежным."
+    "И хотя мы начали довольно бурно, сейчас всё стало более нежным."
 
 # ch/ayesha/events.rpy:3734
 translate russian ayesha_birthday_sex_fe374531:
@@ -16994,11 +16994,11 @@ translate russian ayesha_birthday_sex_ea84c64d:
 
 # ch/ayesha/events.rpy:3742
 translate russian ayesha_birthday_sex_da70e1f5:
-    "И кажется, она ценит мои усилия с каждой секундой все больше."
+    "И кажется, она ценит мои усилия с каждой секундой всё больше."
 
 # ch/ayesha/events.rpy:3743
 translate russian ayesha_birthday_sex_0e686549:
-    "Голова Айши лежит у меня на плече, ее руки обнимают мою талию."
+    "Голова Айши лежит у меня на плече, её руки обнимают мою талию."
 
 # ch/ayesha/events.rpy:3745
 translate russian ayesha_birthday_sex_3e7647a4:
@@ -17006,11 +17006,11 @@ translate russian ayesha_birthday_sex_3e7647a4:
 
 # ch/ayesha/events.rpy:3746
 translate russian ayesha_birthday_sex_a8d3260d:
-    "Но настоящая награда для меня – это ощущение ее тела, прижатого к моему."
+    "Но настоящая награда для меня — это ощущение её тела, прижатого к моему."
 
 # ch/ayesha/events.rpy:3748
 translate russian ayesha_birthday_sex_83cc298d:
-    "Каждый мускул ее тела расслаблен, почти безвольно лежит в моих объятиях."
+    "Каждый мускул её тела расслаблен, почти безвольно лежит в моих объятиях."
 
 # ch/ayesha/events.rpy:3749
 translate russian ayesha_birthday_sex_dbf74ca9:
@@ -17054,11 +17054,11 @@ translate russian ayesha_birthday_sex_f732418e:
 
 # ch/ayesha/events.rpy:3766
 translate russian ayesha_birthday_sex_0feb5b18:
-    "Айша кивает, и я слышу, как она начинает задыхаться все сильнее."
+    "Айша кивает, и я слышу, как она начинает задыхаться всё сильнее."
 
 # ch/ayesha/events.rpy:3767
 translate russian ayesha_birthday_sex_80c1435d:
-    "Медленно ее хватка на мне крепчает, силы возвращаются к ней."
+    "Медленно её хватка на мне крепчает, силы возвращаются к ней."
 
 # ch/ayesha/events.rpy:3771
 translate russian ayesha_birthday_sex_b1119d61:
@@ -17078,11 +17078,11 @@ translate russian ayesha_birthday_sex_10723d35:
 
 # ch/ayesha/events.rpy:3781
 translate russian ayesha_birthday_sex_92bf315d:
-    "И поэтому я отвечаю на ее пробуждение всем, что у меня осталось."
+    "И поэтому я отвечаю на её пробуждение всем, что у меня осталось."
 
 # ch/ayesha/events.rpy:3785
 translate russian ayesha_birthday_sex_e8bc3864:
-    "Это означает, что она начинает хрипеть и задыхаться, когда я проникаю в нее."
+    "Это означает, что она начинает хрипеть и задыхаться, когда я проникаю в неё."
 
 # ch/ayesha/events.rpy:3793
 translate russian ayesha_birthday_sex_bded1f10:
@@ -17094,19 +17094,19 @@ translate russian ayesha_birthday_sex_54e321f2:
 
 # ch/ayesha/events.rpy:3809
 translate russian ayesha_birthday_sex_c3d73613:
-    "И единственное, что меня замедляет, – это ощущение приближающегося оргазма."
+    "И единственное, что меня замедляет, — это ощущение приближающегося оргазма."
 
 # ch/ayesha/events.rpy:3825
 translate russian ayesha_birthday_sex_d8b1eacf:
-    "Айша повторяет за мной, когда я извергаю сперму в нее."
+    "Айша повторяет за мной, когда я извергаю сперму в неё."
 
 # ch/ayesha/events.rpy:3827
 translate russian ayesha_birthday_sex_424d4af6:
-    "Ее руки и ноги обнимают меня, как у медведя."
+    "Её руки и ноги обнимают меня, как у медведя."
 
 # ch/ayesha/events.rpy:3829
 translate russian ayesha_birthday_sex_6cb24678:
-    "Я клянусь, даже мышцы ее влагалища выжимают из меня всю жизнь!"
+    "Я клянусь, даже мышцы её влагалища выжимают из меня всю жизнь!"
 
 # ch/ayesha/events.rpy:3830
 translate russian ayesha_birthday_sex_991146fd:
@@ -17114,7 +17114,7 @@ translate russian ayesha_birthday_sex_991146fd:
 
 # ch/ayesha/events.rpy:3831
 translate russian ayesha_birthday_sex_5cf37d5a:
-    "И мы остаемся, цепляясь друг за друга, дрожа и обессиленные."
+    "И мы остаёмся, цепляясь друг за друга, дрожа и обессиленные."
 
 # ch/ayesha/events.rpy:3833
 translate russian ayesha_birthday_sex_0298dec3:
@@ -17130,7 +17130,7 @@ translate russian ayesha_birthday_sex_d9f9707d:
 
 # ch/ayesha/fuck.rpy:26
 translate russian ayesha_hottub_sex_male_52346b89:
-    "Я уже сижу в гидромассажной ванне, наслаждаясь теплом воды и ожидая, когда Аиша присоединится ко мне."
+    "Я уже сижу в гидромассажной ванне, наслаждаясь теплом воды и ожидая, когда Айша присоединится ко мне."
 
 # ch/ayesha/fuck.rpy:28
 translate russian ayesha_hottub_sex_male_fe6bd915:
@@ -17138,7 +17138,7 @@ translate russian ayesha_hottub_sex_male_fe6bd915:
 
 # ch/ayesha/fuck.rpy:29
 translate russian ayesha_hottub_sex_male_a8283246:
-    "Каждый сантиметр тела Аиши двигается гипнотически, когда она подходит к краю ванны."
+    "Каждый сантиметр тела Айши двигается гипнотически, когда она подходит к краю ванны."
 
 # ch/ayesha/fuck.rpy:30
 translate russian ayesha_hottub_sex_male_1a78adc9:
@@ -17174,7 +17174,7 @@ translate russian ayesha_hottub_sex_male_a98f9948:
 
 # ch/ayesha/fuck.rpy:41
 translate russian ayesha_hottub_sex_male_3512c4fa:
-    mike.say "Аиша, что случилось?"
+    mike.say "Айша, что случилось?"
 
 # ch/ayesha/fuck.rpy:42
 translate russian ayesha_hottub_sex_male_23ac7761:
@@ -17182,11 +17182,11 @@ translate russian ayesha_hottub_sex_male_23ac7761:
 
 # ch/ayesha/fuck.rpy:43
 translate russian ayesha_hottub_sex_male_c2436e14:
-    "Аиша смотрит на меня и улыбается, качая головой, как будто это ничего."
+    "Айша смотрит на меня и улыбается, качая головой, как будто это ничего."
 
 # ch/ayesha/fuck.rpy:44
 translate russian ayesha_hottub_sex_male_62da6618:
-    ayesha.say "Я просто немного затекла, [lssb_ayesha.hero_name()], все в порядке."
+    ayesha.say "Я просто немного затекла, [lssb_ayesha.hero_name()], всё в порядке."
 
 # ch/ayesha/fuck.rpy:45
 translate russian ayesha_hottub_sex_male_0d52ba87:
@@ -17214,7 +17214,7 @@ translate russian ayesha_hottub_sex_male_2f081428:
 
 # ch/ayesha/fuck.rpy:51
 translate russian ayesha_hottub_sex_male_81c692ae:
-    "Но тем не менее, мне действительно небезразлична ее судьба."
+    "Но тем не менее, мне действительно небезразлична её судьба."
 
 # ch/ayesha/fuck.rpy:52
 translate russian ayesha_hottub_sex_male_f07b6103:
@@ -17286,7 +17286,7 @@ translate russian ayesha_hottub_sex_male_9e197a92:
 
 # ch/ayesha/fuck.rpy:69
 translate russian ayesha_hottub_sex_male_01316e29:
-    "Я с энтузиазмом киваю и начинаю массировать мышцы плеч Аиши."
+    "Я с энтузиазмом киваю и начинаю массировать мышцы плеч Айши."
 
 # ch/ayesha/fuck.rpy:70
 translate russian ayesha_hottub_sex_male_c954b700:
@@ -17298,7 +17298,7 @@ translate russian ayesha_hottub_sex_male_0712bf51:
 
 # ch/ayesha/fuck.rpy:72
 translate russian ayesha_hottub_sex_male_7a970d2b:
-    "Мышцы Аиши кажутся камнями, а не приятными упругими сгустками, как я помню."
+    "Мышцы Айши кажутся камнями, а не приятными упругими сгустками, как я помню."
 
 # ch/ayesha/fuck.rpy:73
 translate russian ayesha_hottub_sex_male_04c76dbf:
@@ -17322,7 +17322,7 @@ translate russian ayesha_hottub_sex_male_e6df6b9f:
 
 # ch/ayesha/fuck.rpy:78
 translate russian ayesha_hottub_sex_male_7414b0e4:
-    "Аиша откидывается назад к краю ванны, когда мои руки опускаются все ниже."
+    "Айша откидывается назад к краю ванны, когда мои руки опускаются всё ниже."
 
 # ch/ayesha/fuck.rpy:79
 translate russian ayesha_hottub_sex_male_8dae871e:
@@ -17374,7 +17374,7 @@ translate russian ayesha_hottub_sex_male_147bbb35:
 
 # ch/ayesha/fuck.rpy:93
 translate russian ayesha_hottub_sex_male_330663cf:
-    "Я следую за ее взглядом вниз, когда она смотрит между ног."
+    "Я следую за её взглядом вниз, когда она смотрит между ног."
 
 # ch/ayesha/fuck.rpy:94
 translate russian ayesha_hottub_sex_male_0a24b8df:
@@ -17442,7 +17442,7 @@ translate russian ayesha_hottub_sex_male_a5cbb774:
 
 # ch/ayesha/fuck.rpy:114
 translate russian ayesha_hottub_sex_male_69db3ff2:
-    "И Аиша отвечает мне взаимностью, с удовольствием лежа на спине и позволяя мне делать все, что захочу."
+    "И Айша отвечает мне взаимностью, с удовольствием лёжа на спине и позволяя мне делать всё, что захочу."
 
 # ch/ayesha/fuck.rpy:115
 translate russian ayesha_hottub_sex_male_63880840:
@@ -17602,7 +17602,7 @@ translate russian ayesha_hottub_sex_male_5ac802a4:
 
 # ch/ayesha/fuck.rpy:178
 translate russian ayesha_hottub_sex_male_bd77b614:
-    "Голова Аиши откидывается назад, когда она отдается этому моменту."
+    "Голова Айши откидывается назад, когда она отдаётся этому моменту."
 
 # ch/ayesha/fuck.rpy:179
 translate russian ayesha_hottub_sex_male_a44c5d7f:
@@ -17614,11 +17614,11 @@ translate russian ayesha_hottub_sex_male_1bc10de8:
 
 # ch/ayesha/fuck.rpy:185
 translate russian ayesha_hottub_sex_male_118960b3:
-    "Смотря на плоский, напряженный живот Аиши, я вынимаюсь из нее."
+    "Смотря на плоский, напряжённый живот Айши, я вынимаюсь из неё."
 
 # ch/ayesha/fuck.rpy:187
 translate russian ayesha_hottub_sex_male_f6d9f31f:
-    "(Я, Майк) Мой член выскальзывает из ее влагалища одним плавным движением."
+    "(Я, Майк) Мой член выскальзывает из её влагалища одним плавным движением."
 
 # ch/ayesha/fuck.rpy:188
 translate russian ayesha_hottub_sex_male_0a2f6b7f:
@@ -17630,15 +17630,15 @@ translate russian ayesha_hottub_sex_male_20bac923:
 
 # ch/ayesha/fuck.rpy:193
 translate russian ayesha_hottub_sex_male_a69da009:
-    "(Я, Майк) Сперма стекает на ее грудь и живот, покрывая их липкими белыми полосками."
+    "(Я, Майк) Сперма стекает на её грудь и живот, покрывая их липкими белыми полосками."
 
 # ch/ayesha/fuck.rpy:195
 translate russian ayesha_hottub_sex_male_8b04c6a7:
-    "Все это время Аиша тяжело дышит и смотрит на меня."
+    "Все это время Айша тяжело дышит и смотрит на меня."
 
 # ch/ayesha/fuck.rpy:196
 translate russian ayesha_hottub_sex_male_71f0cc4f:
-    "Ее глаза широко раскрыты, а щеки ярко покраснели."
+    "Её глаза широко раскрыты, а щеки ярко покраснели."
 
 # ch/ayesha/fuck.rpy:197
 translate russian ayesha_hottub_sex_male_28c54b68:
@@ -17726,7 +17726,7 @@ translate russian ayesha_hottub_sex_male_9b769b24:
 
 # ch/ayesha/fuck.rpy:246
 translate russian ayesha_hottub_sex_male_b0afe1eb:
-    "Я вхожу как можно глубже в Аишу и удерживаю это положение."
+    "Я вхожу как можно глубже в Айшу и удерживаю это положение."
 
 # ch/ayesha/fuck.rpy:247
 translate russian ayesha_hottub_sex_male_b02a09d6:
@@ -17742,11 +17742,11 @@ translate russian ayesha_hottub_sex_male_f154881f:
 
 # ch/ayesha/fuck.rpy:252
 translate russian ayesha_hottub_sex_male_576a7be2:
-    "Я выплескиваю всю свою эякуляцию в Айшу, задыхаясь от этого."
+    "Я выплёскиваю всю свою эякуляцию в Айшу, задыхаясь от этого."
 
 # ch/ayesha/fuck.rpy:254
 translate russian ayesha_hottub_sex_male_1ee20b92:
-    "И она принимает все, что я могу ей дать, без колебаний."
+    "И она принимает всё, что я могу ей дать, без колебаний."
 
 # ch/ayesha/fuck.rpy:256
 translate russian ayesha_hottub_sex_male_89f8e37a:
@@ -17762,7 +17762,7 @@ translate russian ayesha_hottub_sex_male_5d807743:
 
 # ch/ayesha/fuck.rpy:261
 translate russian ayesha_hottub_sex_male_a54df580:
-    "Я беру её на руки, она кладет голову мне на плечо и выдыхает с облегчением."
+    "Я беру её на руки, она кладёт голову мне на плечо и выдыхает с облегчением."
 
 # ch/ayesha/fuck.rpy:263
 translate russian ayesha_hottub_sex_male_a0e41d39:
@@ -17798,7 +17798,7 @@ translate russian ayesha_hottub_sex_male_97c40503:
 
 # ch/ayesha/fuck.rpy:326
 translate russian ayesha_fuck_date_first_03fbe4d1:
-    "Когда я впервые увидел Айшу, я не мог избавиться от образа её как какой-то разъяренной амазонки."
+    "Когда я впервые увидел Айшу, я не мог избавиться от образа её как какой-то разъярённой амазонки."
 
 # ch/ayesha/fuck.rpy:327
 translate russian ayesha_fuck_date_first_c586f247:
@@ -17822,7 +17822,7 @@ translate russian ayesha_fuck_date_first_8a653d47:
 
 # ch/ayesha/fuck.rpy:332
 translate russian ayesha_fuck_date_first_a4fb47fc:
-    "Я чувствую силу ее хватки, пока она держит мою руку все это время."
+    "Я чувствую силу её хватки, пока она держит мою руку все это время."
 
 # ch/ayesha/fuck.rpy:333
 translate russian ayesha_fuck_date_first_9cac2a1a:
@@ -17842,7 +17842,7 @@ translate russian ayesha_fuck_date_first_2d807991:
 
 # ch/ayesha/fuck.rpy:337
 translate russian ayesha_fuck_date_first_e7e9afcb:
-    mike.say "Все в порядке?"
+    mike.say "Всё в порядке?"
 
 # ch/ayesha/fuck.rpy:339
 translate russian ayesha_fuck_date_first_4818bdf2:
@@ -17854,7 +17854,7 @@ translate russian ayesha_fuck_date_first_0a07ceb1:
 
 # ch/ayesha/fuck.rpy:342
 translate russian ayesha_fuck_date_first_cda25dde:
-    "Это дает мне понять, что она нервничает, но пытается сдерживать это."
+    "Это даёт мне понять, что она нервничает, но пытается сдерживать это."
 
 # ch/ayesha/fuck.rpy:344
 translate russian ayesha_fuck_date_first_adbfb0ae:
@@ -17882,7 +17882,7 @@ translate russian ayesha_fuck_date_first_3169da73:
 
 # ch/ayesha/fuck.rpy:351
 translate russian ayesha_fuck_date_first_5deef239:
-    "Или, в данном случае, девушка, учитывая, что у нее руки больше, чем мои ноги!"
+    "Или, в данном случае, девушка, учитывая, что у неё руки больше, чем мои ноги!"
 
 # ch/ayesha/fuck.rpy:352
 translate russian ayesha_fuck_date_first_0dd104aa:
@@ -17922,15 +17922,15 @@ translate russian ayesha_fuck_date_first_f3b0181c:
 
 # ch/ayesha/fuck.rpy:363
 translate russian ayesha_fuck_date_first_6625e798:
-    "Кажется безумным чувствовать себя так, особенно после того, как я столько раз видел ее в обтягивающей одежде."
+    "Кажется безумным чувствовать себя так, особенно после того, как я столько раз видел её в обтягивающей одежде."
 
 # ch/ayesha/fuck.rpy:364
 translate russian ayesha_fuck_date_first_15ae6247:
-    "Но само ощущение раздевания достаточно, чтобы мое сердце бешено заколотилось в груди."
+    "Но само ощущение раздевания достаточно, чтобы моё сердце бешено заколотилось в груди."
 
 # ch/ayesha/fuck.rpy:365
 translate russian ayesha_fuck_date_first_2819680c:
-    "В ее больших, карих глазах есть что-то такое открытое и беззащитное, когда она смотрит на меня."
+    "В её больших, карих глазах есть что-то такое открытое и беззащитное, когда она смотрит на меня."
 
 # ch/ayesha/fuck.rpy:366
 translate russian ayesha_fuck_date_first_dd887fab:
@@ -17938,7 +17938,7 @@ translate russian ayesha_fuck_date_first_dd887fab:
 
 # ch/ayesha/fuck.rpy:367
 translate russian ayesha_fuck_date_first_56ce9ca2:
-    "Возможно, это отличается от занятий спортом вместе с ней или от того, как я видел ее в борьбе, потому что сейчас она не играет роль."
+    "Возможно, это отличается от занятий спортом вместе с ней или от того, как я видел её в борьбе, потому что сейчас она не играет роль."
 
 # ch/ayesha/fuck.rpy:368
 translate russian ayesha_fuck_date_first_b5ba65b6:
@@ -17962,15 +17962,15 @@ translate russian ayesha_fuck_date_first_bdd41a31:
 
 # ch/ayesha/fuck.rpy:381
 translate russian ayesha_fuck_date_first_6da442c8:
-    "И она не оказывает никакого сопротивления, когда я осторожно опускаю ее на кровать."
+    "И она не оказывает никакого сопротивления, когда я осторожно опускаю её на кровать."
 
 # ch/ayesha/fuck.rpy:383
 translate russian ayesha_fuck_date_first_1c132be5:
-    "Мой член, уже напряженный благодаря моему желанию Айши, касается между ее ног."
+    "Мой член, уже напряжённый благодаря моему желанию Айши, касается между её ног."
 
 # ch/ayesha/fuck.rpy:384
 translate russian ayesha_fuck_date_first_1f12f900:
-    "Она вздыхает в предвкушении, и ощущение того, что находится там, заставляет меня хотеть ее как никогда раньше..."
+    "Она вздыхает в предвкушении, и ощущение того, что находится там, заставляет меня хотеть её как никогда раньше..."
 
 # ch/ayesha/fuck.rpy:388
 translate russian ayesha_fuck_date_first_fc3418fa:
@@ -17990,7 +17990,7 @@ translate russian ayesha_fuck_date_first_0f38c5b5:
 
 # ch/ayesha/fuck.rpy:392
 translate russian ayesha_fuck_date_first_b847f447:
-    "Может быть, потому что подсознательно я воспринимаю это как способ покорить Айшу, даже подчинить ее."
+    "Может быть, потому что подсознательно я воспринимаю это как способ покорить Айшу, даже подчинить её."
 
 # ch/ayesha/fuck.rpy:393
 translate russian ayesha_fuck_date_first_03e3c4e3:
@@ -17998,7 +17998,7 @@ translate russian ayesha_fuck_date_first_03e3c4e3:
 
 # ch/ayesha/fuck.rpy:395
 translate russian ayesha_fuck_date_first_6ea454b9:
-    "Поэтому я направляю свой член в ту точку, о которой думаю, и проникаю в нее."
+    "Поэтому я направляю свой член в ту точку, о которой думаю, и проникаю в неё."
 
 # ch/ayesha/fuck.rpy:396
 translate russian ayesha_fuck_date_first_ad6aa9fb:
@@ -18026,27 +18026,27 @@ translate russian ayesha_fuck_date_first_1d62ea9a:
 
 # ch/ayesha/fuck.rpy:406
 translate russian ayesha_fuck_date_first_e43b0ed5:
-    "Любые сомнения или опасения, которые могли быть у Аиши, исчезают, и ее слова превращаются в просто стоны удовольствия."
+    "Любые сомнения или опасения, которые могли быть у Айши, исчезают, и её слова превращаются в просто стоны удовольствия."
 
 # ch/ayesha/fuck.rpy:407
 translate russian ayesha_fuck_date_first_dedd49a8:
-    "Мышцы, пытающиеся сопротивляться мне, такие же сильные, как те, которые я видел у нее в спортзале."
+    "Мышцы, пытающиеся сопротивляться мне, такие же сильные, как те, которые я видел у неё в спортзале."
 
 # ch/ayesha/fuck.rpy:408
 translate russian ayesha_fuck_date_first_87a994b4:
-    "Но они скоро сдаются, позволяя моему члену продвигаться все дальше внутрь ее тела."
+    "Но они скоро сдаются, позволяя моему члену продвигаться всё дальше внутрь её тела."
 
 # ch/ayesha/fuck.rpy:409
 translate russian ayesha_fuck_date_first_0710413a:
-    "И по мере того, как эти мышцы расслабляются, Аиша тоже расслабляется."
+    "И по мере того, как эти мышцы расслабляются, Айша тоже расслабляется."
 
 # ch/ayesha/fuck.rpy:411
 translate russian ayesha_fuck_date_first_db0ebbd0:
-    "Я с завороженностью наблюдаю, как меняется выражение ее лица."
+    "Я с завороженностью наблюдаю, как меняется выражение её лица."
 
 # ch/ayesha/fuck.rpy:412
 translate russian ayesha_fuck_date_first_48e6261d:
-    "Мой член настолько глубоко внутри нее, насколько это возможно, и она смотрит на меня в состоянии полного подчинения."
+    "Мой член настолько глубоко внутри неё, насколько это возможно, и она смотрит на меня в состоянии полного подчинения."
 
 # ch/ayesha/fuck.rpy:413
 translate russian ayesha_fuck_date_first_981c3ed0:
@@ -18054,19 +18054,19 @@ translate russian ayesha_fuck_date_first_981c3ed0:
 
 # ch/ayesha/fuck.rpy:415
 translate russian ayesha_fuck_date_first_90703374:
-    "Аиша кивает, почти отчаянно."
+    "Айша кивает, почти отчаянно."
 
 # ch/ayesha/fuck.rpy:416
 translate russian ayesha_fuck_date_first_67b51485:
-    mike.say "Ты хочешь еще?"
+    mike.say "Ты хочешь ещё?"
 
 # ch/ayesha/fuck.rpy:418
 translate russian ayesha_fuck_date_first_31878302:
-    "Аиша снова кивает."
+    "Айша снова кивает."
 
 # ch/ayesha/fuck.rpy:419
 translate russian ayesha_fuck_date_first_775e48a4:
-    mike.say "Я не расслышал, Аиша."
+    mike.say "Я не расслышал, Айша."
 
 # ch/ayesha/fuck.rpy:421
 translate russian ayesha_fuck_date_first_f98eee89:
@@ -18078,7 +18078,7 @@ translate russian ayesha_fuck_date_first_22bd1af4:
 
 # ch/ayesha/fuck.rpy:423
 translate russian ayesha_fuck_date_first_a9cdda6a:
-    "Даже когда я начинал видеть в Аише более мягкую сторону, я никогда не мог представить себе ничего подобного."
+    "Даже когда я начинал видеть в Айше более мягкую сторону, я никогда не мог представить себе ничего подобного."
 
 # ch/ayesha/fuck.rpy:424
 translate russian ayesha_fuck_date_first_fa9898ae:
@@ -18086,19 +18086,19 @@ translate russian ayesha_fuck_date_first_fa9898ae:
 
 # ch/ayesha/fuck.rpy:425
 translate russian ayesha_fuck_date_first_ac06dff9:
-    "Но само ее нынешнее состояние – это уже достаточно, чтобы вызвать во мне сильное желание сделать то, что я собираюсь сделать."
+    "Но само её нынешнее состояние — это уже достаточно, чтобы вызвать во мне сильное желание сделать то, что я собираюсь сделать."
 
 # ch/ayesha/fuck.rpy:426
 translate russian ayesha_fuck_date_first_7ee3e294:
-    "Медленно, словно стремясь насладиться каждой секундой, я начинаю двигаться внутри Аиши."
+    "Медленно, словно стремясь насладиться каждой секундой, я начинаю двигаться внутри Айши."
 
 # ch/ayesha/fuck.rpy:427
 translate russian ayesha_fuck_date_first_afa2ba7c:
-    "И с каждым движением она все сильнее извивается под собой."
+    "И с каждым движением она всё сильнее извивается под собой."
 
 # ch/ayesha/fuck.rpy:428
 translate russian ayesha_fuck_date_first_0f9da775:
-    "Вскоре Аиша начинает стонать и плакать в такт моим движениям."
+    "Вскоре Айша начинает стонать и плакать в такт моим движениям."
 
 # ch/ayesha/fuck.rpy:429
 translate russian ayesha_fuck_date_first_64365b0d:
@@ -18110,7 +18110,7 @@ translate russian ayesha_fuck_date_first_5d644810:
 
 # ch/ayesha/fuck.rpy:433
 translate russian ayesha_fuck_date_first_d49082b2:
-    "Все время я чувствую, как ее задница хватает меня, словно кулак."
+    "Всё время я чувствую, как её задница хватает меня, словно кулак."
 
 # ch/ayesha/fuck.rpy:434
 translate russian ayesha_fuck_date_first_d49f0fc7:
@@ -18118,11 +18118,11 @@ translate russian ayesha_fuck_date_first_d49f0fc7:
 
 # ch/ayesha/fuck.rpy:435
 translate russian ayesha_fuck_date_first_436d6b85:
-    "Поэтому я продолжаю двигаться, стараясь проникнуть в нее как можно глубже."
+    "Поэтому я продолжаю двигаться, стараясь проникнуть в неё как можно глубже."
 
 # ch/ayesha/fuck.rpy:436
 translate russian ayesha_fuck_date_first_69d535ef:
-    "Аиша принимает все, что я ей предлагаю, и ее глаза словно умоляют о большем."
+    "Айша принимает всё, что я ей предлагаю, и её глаза словно умоляют о большем."
 
 # ch/ayesha/fuck.rpy:438
 translate russian ayesha_fuck_date_first_10e94767:
@@ -18130,11 +18130,11 @@ translate russian ayesha_fuck_date_first_10e94767:
 
 # ch/ayesha/fuck.rpy:442
 translate russian ayesha_fuck_date_first_7d214c59:
-    "Глаза Аиши закатываются, и она полностью замолкает, пока я наполняю ее."
+    "Глаза Айши закатываются, и она полностью замолкает, пока я наполняю её."
 
 # ch/ayesha/fuck.rpy:444
 translate russian ayesha_fuck_date_first_dee410bb:
-    "Единственный звук в этот момент – это наши прерывистые вздохи и попытки вдохнуть."
+    "Единственный звук в этот момент — это наши прерывистые вздохи и попытки вдохнуть."
 
 # ch/ayesha/fuck.rpy:446
 translate russian ayesha_fuck_date_first_37556eb4:
@@ -18150,7 +18150,7 @@ translate russian ayesha_fuck_date_first_1e4e4361:
 
 # ch/ayesha/fuck.rpy:450
 translate russian ayesha_fuck_date_first_879d6952:
-    "Выражение удивления на ее лице от внезапного ощущения – это что-то невероятное."
+    "Выражение удивления на её лице от внезапного ощущения — это что-то невероятное."
 
 # ch/ayesha/fuck.rpy:460
 translate russian ayesha_fuck_date_first_be578781:
@@ -18158,11 +18158,11 @@ translate russian ayesha_fuck_date_first_be578781:
 
 # ch/ayesha/fuck.rpy:469
 translate russian ayesha_fuck_date_first_485848ae:
-    "Белые струйки оставляют липкие полосы вокруг ее приоткрытого рта и на подбородке."
+    "Белые струйки оставляют липкие полосы вокруг её приоткрытого рта и на подбородке."
 
 # ch/ayesha/fuck.rpy:471
 translate russian ayesha_fuck_date_first_6fc3b732:
-    "Остальное стекает на ее грудь, которая все еще вздымается, пока она пытается отдышаться."
+    "Остальное стекает на её грудь, которая всё ещё вздымается, пока она пытается отдышаться."
 
 # ch/ayesha/fuck.rpy:474
 translate russian ayesha_fuck_date_first_cfc8d94a:
@@ -18174,31 +18174,31 @@ translate russian ayesha_fuck_date_first_6309f106:
 
 # ch/ayesha/fuck.rpy:476
 translate russian ayesha_fuck_date_first_f6363001:
-    "Но, конечно, идея заняться ею в \"ванильном\" стиле совсем не отталкивает!"
+    "Но, конечно, идея заняться ею в «ванильном» стиле совсем не отталкивает!"
 
 # ch/ayesha/fuck.rpy:477
 translate russian ayesha_fuck_date_first_531c085e:
-    "Я позволяю головке моего члена еще раз коснуться ее влагалища."
+    "Я позволяю головке моего члена ещё раз коснуться её влагалища."
 
 # ch/ayesha/fuck.rpy:478
 translate russian ayesha_fuck_date_first_21c5ce90:
-    "Просто чтобы Айша знала о моих намерениях относительно того, что произойдет дальше."
+    "Просто чтобы Айша знала о моих намерениях относительно того, что произойдёт дальше."
 
 # ch/ayesha/fuck.rpy:484
 translate russian ayesha_fuck_date_first_19f8a6c0:
-    "Несмотря на всю ее нерешительность и потребность в том, чтобы ей указывали, Айша застает меня врасплох с самого начала."
+    "Несмотря на всю её нерешительность и потребность в том, чтобы ей указывали, Айша застаёт меня врасплох с самого начала."
 
 # ch/ayesha/fuck.rpy:485
 translate russian ayesha_fuck_date_first_48311c57:
-    "Как только кончик моего члена начинает исследовать ее губы, я понимаю, что они уже влажные от предвкушения."
+    "Как только кончик моего члена начинает исследовать её губы, я понимаю, что они уже влажные от предвкушения."
 
 # ch/ayesha/fuck.rpy:486
 translate russian ayesha_fuck_date_first_8165e5e0:
-    "Я смотрю Айше в глаза, вижу ее улыбку и легкое пожатие плечами, отражающие мое очевидное удивление."
+    "Я смотрю Айше в глаза, вижу её улыбку и лёгкое пожатие плечами, отражающие моё очевидное удивление."
 
 # ch/ayesha/fuck.rpy:487
 translate russian ayesha_fuck_date_first_3dbe9b8d:
-    ayesha.say "\"Я нервничаю, [lssb_ayesha.hero_name()]\"."
+    ayesha.say "«Я нервничаю, [lssb_ayesha.hero_name()]»."
 
 # ch/ayesha/fuck.rpy:488
 translate russian ayesha_fuck_date_first_c7d1e8b8:
@@ -18206,27 +18206,27 @@ translate russian ayesha_fuck_date_first_c7d1e8b8:
 
 # ch/ayesha/fuck.rpy:490
 translate russian ayesha_fuck_date_first_d17384f0:
-    "Едва Аиша произносит эти слова, как я понимаю, что мой член ни на секунду не прекратил движение."
+    "Едва Айша произносит эти слова, как я понимаю, что мой член ни на секунду не прекратил движение."
 
 # ch/ayesha/fuck.rpy:491
 translate russian ayesha_fuck_date_first_7e509e90:
-    "Это значит, что я чувствую, как оно давит между губами ее влагалища, а затем и внутри, в то время как мои мысли где-то далеко."
+    "Это значит, что я чувствую, как оно давит между губами её влагалища, а затем и внутри, в то время как мои мысли где-то далеко."
 
 # ch/ayesha/fuck.rpy:492
 translate russian ayesha_fuck_date_first_ada119f9:
-    "В результате ощущение становится еще более интенсивным и вырывает мои мысли из всего остального."
+    "В результате ощущение становится ещё более интенсивным и вырывает мои мысли из всего остального."
 
 # ch/ayesha/fuck.rpy:493
 translate russian ayesha_fuck_date_first_81b4b5f7:
-    "Аиша реагирует примерно так же, ее слова растворяются в стонах чистого наслаждения, когда я проникаю внутрь нее."
+    "Айша реагирует примерно так же, её слова растворяются в стонах чистого наслаждения, когда я проникаю внутрь неё."
 
 # ch/ayesha/fuck.rpy:495
 translate russian ayesha_fuck_date_first_5f755b5d:
-    "Я вижу, как закрываются ее глаза, а улыбка сменяется задыхающимся выражением того, что она чувствует."
+    "Я вижу, как закрываются её глаза, а улыбка сменяется задыхающимся выражением того, что она чувствует."
 
 # ch/ayesha/fuck.rpy:496
 translate russian ayesha_fuck_date_first_b042a3f2:
-    "Возможно, так даже лучше, чтобы я проникал внутрь нее, не зная точного момента, когда это произошло."
+    "Возможно, так даже лучше, чтобы я проникал внутрь неё, не зная точного момента, когда это произошло."
 
 # ch/ayesha/fuck.rpy:497
 translate russian ayesha_fuck_date_first_92304475:
@@ -18242,15 +18242,15 @@ translate russian ayesha_fuck_date_first_cda48164:
 
 # ch/ayesha/fuck.rpy:500
 translate russian ayesha_fuck_date_first_78434fd1:
-    "Тело Аиши такое же сильное и плотное, как всегда, но она чувствуется теплой внутри, почти жидкой вокруг моего члена."
+    "Тело Айши такое же сильное и плотное, как всегда, но она чувствуется тёплой внутри, почти жидкой вокруг моего члена."
 
 # ch/ayesha/fuck.rpy:501
 translate russian ayesha_fuck_date_first_a65e29f6:
-    "Выражение удовольствия на ее лице настолько велико, что мне недостаточно просто наблюдать за этим."
+    "Выражение удовольствия на её лице настолько велико, что мне недостаточно просто наблюдать за этим."
 
 # ch/ayesha/fuck.rpy:502
 translate russian ayesha_fuck_date_first_1046ef01:
-    "Вместо этого я наклоняюсь ближе и засовываю свой язык в открытый рот Аиши."
+    "Вместо этого я наклоняюсь ближе и засовываю свой язык в открытый рот Айши."
 
 # ch/ayesha/fuck.rpy:503
 translate russian ayesha_fuck_date_first_1085ab29:
@@ -18258,15 +18258,15 @@ translate russian ayesha_fuck_date_first_1085ab29:
 
 # ch/ayesha/fuck.rpy:504
 translate russian ayesha_fuck_date_first_d0a7e92f:
-    "Находясь вместе таким образом, я начинаю ласкать ее тело."
+    "Находясь вместе таким образом, я начинаю ласкать её тело."
 
 # ch/ayesha/fuck.rpy:505
 translate russian ayesha_fuck_date_first_dc14fa12:
-    "Мои руки массируют ее бедра, ягодицы, а затем грудь."
+    "Мои руки массируют её бедра, ягодицы, а затем грудь."
 
 # ch/ayesha/fuck.rpy:506
 translate russian ayesha_fuck_date_first_8ca8be1b:
-    "И когда я сжимаю последние части ее тела между пальцами, я чувствую, как ее спина выгибается в ответ."
+    "И когда я сжимаю последние части её тела между пальцами, я чувствую, как её спина выгибается в ответ."
 
 # ch/ayesha/fuck.rpy:507
 translate russian ayesha_fuck_date_first_cbbd5955:
@@ -18286,7 +18286,7 @@ translate russian ayesha_fuck_date_first_c3a88716:
 
 # ch/ayesha/fuck.rpy:513
 translate russian ayesha_fuck_date_first_e89511bc:
-    "Это означает, что я могу пережить последние несколько секунд этого опыта, не беспокоясь ни о чем."
+    "Это означает, что я могу пережить последние несколько секунд этого опыта, не беспокоясь ни о чём."
 
 # ch/ayesha/fuck.rpy:515
 translate russian ayesha_fuck_date_first_1339edd4:
@@ -18314,19 +18314,19 @@ translate russian ayesha_fuck_date_first_6f462798:
 
 # ch/ayesha/fuck.rpy:527
 translate russian ayesha_fuck_date_first_93d38857:
-    "Глаза Айши расширяются, когда она чувствует, как мой член выскальзывает из нее."
+    "Глаза Айши расширяются, когда она чувствует, как мой член выскальзывает из неё."
 
 # ch/ayesha/fuck.rpy:537
 translate russian ayesha_fuck_date_first_b0f1df64:
-    "Но у нее нет времени среагировать, прежде чем я кончу прямо на ее ошеломленное лицо."
+    "Но у неё нет времени среагировать, прежде чем я кончу прямо на её ошеломлённое лицо."
 
 # ch/ayesha/fuck.rpy:545
 translate russian ayesha_fuck_date_first_3a6d8dd2:
-    "Белые струйки оставляют липкие полосы на открытом рте Айши, стекая по ее подбородку."
+    "Белые струйки оставляют липкие полосы на открытом рте Айши, стекая по её подбородку."
 
 # ch/ayesha/fuck.rpy:546
 translate russian ayesha_fuck_date_first_8bd0eee5:
-    "То, что осталось, разбрызгивается на ее груди, стекает вниз и капает с ее напряженных сосков."
+    "То, что осталось, разбрызгивается на её груди, стекает вниз и капает с её напряженных сосков."
 
 # ch/ayesha/fuck.rpy:549
 translate russian ayesha_fuck_date_first_60da7f7a:
@@ -18338,7 +18338,7 @@ translate russian ayesha_fuck_date_first_a018c069:
 
 # ch/ayesha/fuck.rpy:553
 translate russian ayesha_fuck_date_first_508096de:
-    "К счастью, Айша остановила меня, чтобы сказать именно это, а я извергаю сперму всего через несколько секунд после нее."
+    "К счастью, Айша остановила меня, чтобы сказать именно это, а я извергаю сперму всего через несколько секунд после неё."
 
 # ch/ayesha/fuck.rpy:555
 translate russian ayesha_fuck_date_first_97b445ac:
@@ -18346,7 +18346,7 @@ translate russian ayesha_fuck_date_first_97b445ac:
 
 # ch/ayesha/fuck.rpy:557
 translate russian ayesha_fuck_date_first_9db14ed0:
-    "Она крепко держится за меня все время, словно не желая, чтобы это закончилось, пока мы оба уносимся этим чувством."
+    "Она крепко держится за меня всё время, словно не желая, чтобы это закончилось, пока мы оба уносимся этим чувством."
 
 # ch/ayesha/fuck.rpy:562
 translate russian ayesha_fuck_date_first_1abe533f:
@@ -18358,7 +18358,7 @@ translate russian ayesha_fuck_date_first_2773e248:
 
 # ch/ayesha/fuck.rpy:566
 translate russian ayesha_fuck_date_first_34f9a24e:
-    ayesha.say "Ну что, можешь кончать в меня сколько угодно…"
+    ayesha.say "Ну что, можешь кончать в меня сколько угодно..."
 
 # ch/ayesha/fuck.rpy:567
 translate russian ayesha_fuck_date_first_3e047caf:
@@ -18374,11 +18374,11 @@ translate russian ayesha_fuck_date_first_d3618e7a:
 
 # ch/ayesha/fuck.rpy:573
 translate russian ayesha_fuck_date_first_3d2b8e76:
-    "Кажется, ей тоже нравится каждый момент этого, она крепко держится за меня все время."
+    "Кажется, ей тоже нравится каждый момент этого, она крепко держится за меня всё время."
 
 # ch/ayesha/fuck.rpy:579
 translate russian ayesha_fuck_date_first_a0579e68:
-    "После этого она обмякает, наконец-то удовлетворенная, а сперма уже начинает вытекать обратно из неё."
+    "После этого она обмякает, наконец-то удовлетворённая, а сперма уже начинает вытекать обратно из неё."
 
 # ch/ayesha/fuck.rpy:581
 translate russian ayesha_fuck_date_first_0c0abc1c:
@@ -18398,7 +18398,7 @@ translate russian ayesha_fuck_date_first_de2ad759:
 
 # ch/ayesha/fuck.rpy:587
 translate russian ayesha_fuck_date_first_7ab675ef:
-    "Едва я начинаю напрягаться, я чувствую, как теряю контроль внутри нее."
+    "Едва я начинаю напрягаться, я чувствую, как теряю контроль внутри неё."
 
 # ch/ayesha/fuck.rpy:590
 translate russian ayesha_fuck_date_first_184d37bb:
@@ -18406,7 +18406,7 @@ translate russian ayesha_fuck_date_first_184d37bb:
 
 # ch/ayesha/fuck.rpy:591
 translate russian ayesha_fuck_date_first_3c03cee5:
-    "И все, о чем я могу думать в последние секунды, это то, что она сделала это намеренно."
+    "И все, о чём я могу думать в последние секунды, это то, что она сделала это намеренно."
 
 # ch/ayesha/fuck.rpy:592
 translate russian ayesha_fuck_date_first_5ecace91:
@@ -18426,7 +18426,7 @@ translate russian ayesha_fuck_date_first_0a26b41c:
 
 # ch/ayesha/fuck.rpy:606
 translate russian ayesha_fuck_date_first_0e5227c9:
-    "Это означает, что когда я наконец-то извергну сперму, я останусь настолько глубоко внутри нее, насколько это вообще возможно."
+    "Это означает, что когда я наконец-то извергну сперму, я останусь настолько глубоко внутри неё, насколько это вообще возможно."
 
 # ch/ayesha/fuck.rpy:608
 translate russian ayesha_fuck_date_first_b2394787:
@@ -18462,11 +18462,11 @@ translate russian ayesha_fuck_date_intro_male_0a24faad:
 
 # ch/ayesha/fuck.rpy:632
 translate russian ayesha_fuck_date_intro_male_6a92c597:
-    "Но есть определенное волнение от того, чтобы тебя тащили к кровати женщина таких внушительных размеров."
+    "Но есть определённое волнение от того, чтобы тебя тащили к кровати женщина таких внушительных размеров."
 
 # ch/ayesha/fuck.rpy:633
 translate russian ayesha_fuck_date_intro_male_a59630c3:
-    "Поэтому я делаю вид, что сопротивляюсь, наслаждаясь ощущением ее тяги, возвращающей меня в нужное русло."
+    "Поэтому я делаю вид, что сопротивляюсь, наслаждаясь ощущением её тяги, возвращающей меня в нужное русло."
 
 # ch/ayesha/fuck.rpy:634
 translate russian ayesha_fuck_date_intro_male_d745e603:
@@ -18478,11 +18478,11 @@ translate russian ayesha_fuck_date_intro_male_c4eeaa20:
 
 # ch/ayesha/fuck.rpy:636
 translate russian ayesha_fuck_date_intro_male_7d406981:
-    "Конечно, я знаю, что на самом деле ее личность гораздо сложнее, чем это кажется."
+    "Конечно, я знаю, что на самом деле её личность гораздо сложнее, чем это кажется."
 
 # ch/ayesha/fuck.rpy:637
 translate russian ayesha_fuck_date_intro_male_44e22863:
-    "И все же мне нравится, когда меня берут в свои руки и чувствую силу ее конечностей, обвивающих меня."
+    "И все же мне нравится, когда меня берут в свои руки и чувствую силу её конечностей, обвивающих меня."
 
 # ch/ayesha/fuck.rpy:638
 translate russian ayesha_fuck_date_intro_male_82f969fa:
@@ -18490,7 +18490,7 @@ translate russian ayesha_fuck_date_intro_male_82f969fa:
 
 # ch/ayesha/fuck.rpy:639
 translate russian ayesha_fuck_date_intro_male_f4a3cec0:
-    "Я присоединяюсь к ее усилиям, делая все возможное, чтобы раздеться."
+    "Я присоединяюсь к её усилиям, делая все возможное, чтобы раздеться."
 
 # ch/ayesha/fuck.rpy:641
 translate russian ayesha_fuck_date_intro_male_03472dc7:
@@ -18498,7 +18498,7 @@ translate russian ayesha_fuck_date_intro_male_03472dc7:
 
 # ch/ayesha/fuck.rpy:642
 translate russian ayesha_fuck_date_intro_male_8a3c8c5a:
-    "В итоге мы оба оказываемся на кровати, наполовину одетые и наполовину обнаженные."
+    "В итоге мы оба оказываемся на кровати, наполовину одетые и наполовину обнажённые."
 
 # ch/ayesha/fuck.rpy:644
 translate russian ayesha_fuck_date_intro_male_3cc9d67c:
@@ -18510,11 +18510,11 @@ translate russian ayesha_fuck_date_intro_male_5cf27c92:
 
 # ch/ayesha/fuck.rpy:646
 translate russian ayesha_fuck_date_intro_male_537e0562:
-    "В то же время, ее другая рука твердо прижата к моей паховой области через брюки."
+    "В то же время, её другая рука твёрдо прижата к моей паховой области через брюки."
 
 # ch/ayesha/fuck.rpy:647
 translate russian ayesha_fuck_date_intro_male_b5615e80:
-    "Весь вечер Айша давала мне явные намеки на то, что ей интересно \"познакомиться\" с тем, что у меня внутри."
+    "Весь вечер Айша давала мне явные намёки на то, что ей интересно «познакомиться» с тем, что у меня внутри."
 
 # ch/ayesha/fuck.rpy:648
 translate russian ayesha_fuck_date_intro_male_5eb7bb53:
@@ -18530,7 +18530,7 @@ translate russian ayesha_fuck_date_intro_male_53c1ffae:
 
 # ch/ayesha/fuck.rpy:652
 translate russian ayesha_fuck_date_intro_male_d239bd1c:
-    "Но в тот момент, когда она видит мои отчаянные попытки, на ее лице появляется улыбка, и она поворачивается, чтобы тянуть меня еще сильнее."
+    "Но в тот момент, когда она видит мои отчаянные попытки, на её лице появляется улыбка, и она поворачивается, чтобы тянуть меня ещё сильнее."
 
 # ch/ayesha/fuck.rpy:654
 translate russian ayesha_fuck_date_intro_male_3a65114d:
@@ -18546,31 +18546,31 @@ translate russian ayesha_fuck_date_intro_male_49b2a7a5:
 
 # ch/ayesha/fuck.rpy:657
 translate russian ayesha_fuck_date_intro_male_6a20958e:
-    "Хотя я уверен, что Аиша просто шутит, всегда есть подозрение, что она может и сдержать свое слово!"
+    "Хотя я уверен, что Айша просто шутит, всегда есть подозрение, что она может и сдержать своё слово!"
 
 # ch/ayesha/fuck.rpy:659
 translate russian ayesha_fuck_date_intro_male_1416bee9:
-    "Теперь, когда она стоит у кровати, Аиша начинает снимать свою одежду."
+    "Теперь, когда она стоит у кровати, Айша начинает снимать свою одежду."
 
 # ch/ayesha/fuck.rpy:660
 translate russian ayesha_fuck_date_intro_male_7a8913a1:
-    "И я сразу вижу по ее лицу, что она понимает, насколько это отвлекает меня."
+    "И я сразу вижу по её лицу, что она понимает, насколько это отвлекает меня."
 
 # ch/ayesha/fuck.rpy:662
 translate russian ayesha_fuck_date_intro_male_7751e5c5:
-    "Мое внимание мучительно разделено между тем, чтобы снять последний предмет одежды, и тем, чтобы наблюдать за тем, как Аиша делает то же самое."
+    "Моё внимание мучительно разделено между тем, чтобы снять последний предмет одежды, и тем, чтобы наблюдать за тем, как Айша делает то же самое."
 
 # ch/ayesha/fuck.rpy:663
 translate russian ayesha_fuck_date_intro_male_a45aa395:
-    "Я знаю, что она получает удовольствие от каждого момента так же сильно, как это мучает меня, я вижу это в ее глазах."
+    "Я знаю, что она получает удовольствие от каждого момента так же сильно, как это мучает меня, я вижу это в её глазах."
 
 # ch/ayesha/fuck.rpy:664
 translate russian ayesha_fuck_date_intro_male_fd6c38c7:
-    "Но в тот момент, когда я наконец-то голый, кажется, что что-то меняется в ее выражении лица."
+    "Но в тот момент, когда я наконец-то голый, кажется, что что-то меняется в её выражении лица."
 
 # ch/ayesha/fuck.rpy:666
 translate russian ayesha_fuck_date_intro_male_48acbcba:
-    "Возможно, Аиша была немного застенчива, когда между нами только начинались близкие отношения."
+    "Возможно, Айша была немного застенчива, когда между нами только начинались близкие отношения."
 
 # ch/ayesha/fuck.rpy:667
 translate russian ayesha_fuck_date_intro_male_388bc5b8:
@@ -18578,27 +18578,27 @@ translate russian ayesha_fuck_date_intro_male_388bc5b8:
 
 # ch/ayesha/fuck.rpy:668
 translate russian ayesha_fuck_date_intro_male_7bbf4692:
-    "Но теперь, когда я сумел завоевать такое же доверие у Аиши, кажется, что мы наверстываем упущенное время."
+    "Но теперь, когда я сумел завоевать такое же доверие у Айши, кажется, что мы наверстываем упущенное время."
 
 # ch/ayesha/fuck.rpy:669
 translate russian ayesha_fuck_date_intro_male_f5bc06fa:
-    "И ничего не может лучше иллюстрировать это, чем то, как она сейчас ведет меня в мою спальню."
+    "И ничего не может лучше иллюстрировать это, чем то, как она сейчас ведёт меня в мою спальню."
 
 # ch/ayesha/fuck.rpy:670
 translate russian ayesha_fuck_date_intro_male_f914916b:
-    "В ее манерах нет ни тени сомнения, уверенность, которую она чувствует, проявляется во всем, что она делает."
+    "В её манерах нет ни тени сомнения, уверенность, которую она чувствует, проявляется во всём, что она делает."
 
 # ch/ayesha/fuck.rpy:671
 translate russian ayesha_fuck_date_intro_male_a667227f:
-    "Но при этом Аиша не тянет меня к кровати, а наоборот, медленно и неторопливо двигается в этом направлении."
+    "Но при этом Айша не тянет меня к кровати, а наоборот, медленно и неторопливо двигается в этом направлении."
 
 # ch/ayesha/fuck.rpy:672
 translate russian ayesha_fuck_date_intro_male_2bbc813d:
-    "Все это создает ощущение, что она теперь гораздо больше контролирует ситуацию, чем когда-либо прежде."
+    "Все это создаёт ощущение, что она теперь гораздо больше контролирует ситуацию, чем когда-либо прежде."
 
 # ch/ayesha/fuck.rpy:673
 translate russian ayesha_fuck_date_intro_male_5c167138:
-    "Она знает, чего хочет, и уверена, что может добиться этого, используя свое чувственное обаяние."
+    "Она знает, чего хочет, и уверена, что может добиться этого, используя своё чувственное обаяние."
 
 # ch/ayesha/fuck.rpy:675
 translate russian ayesha_fuck_date_intro_male_22ebd36b:
@@ -18618,7 +18618,7 @@ translate russian ayesha_fuck_date_intro_male_58433b02:
 
 # ch/ayesha/fuck.rpy:679
 translate russian ayesha_fuck_date_intro_male_b1ca11ec:
-    "В отличие от нее, мне трудно снять даже одну вещь без серьезных усилий и напряжения."
+    "В отличие от неё, мне трудно снять даже одну вещь без серьёзных усилий и напряжения."
 
 # ch/ayesha/fuck.rpy:680
 translate russian ayesha_fuck_date_intro_male_90c6328e:
@@ -18626,7 +18626,7 @@ translate russian ayesha_fuck_date_intro_male_90c6328e:
 
 # ch/ayesha/fuck.rpy:681
 translate russian ayesha_fuck_date_intro_male_abdc3281:
-    "Но это не только я получаю удовольствие от этого небольшого \"шоу\", которое происходит передо мной."
+    "Но это не только я получаю удовольствие от этого небольшого «шоу», которое происходит передо мной."
 
 # ch/ayesha/fuck.rpy:682
 translate russian ayesha_fuck_date_intro_male_d15da91e:
@@ -18638,7 +18638,7 @@ translate russian ayesha_fuck_date_intro_male_967596b5:
 
 # ch/ayesha/fuck.rpy:684
 translate russian ayesha_fuck_date_intro_male_c7988735:
-    "Ту самую уверенность, которая заставляет ее улыбаться, когда ей восхищаются в спортзале."
+    "Ту самую уверенность, которая заставляет её улыбаться, когда ей восхищаются в спортзале."
 
 # ch/ayesha/fuck.rpy:685
 translate russian ayesha_fuck_date_intro_male_e47e7565:
@@ -18646,11 +18646,11 @@ translate russian ayesha_fuck_date_intro_male_e47e7565:
 
 # ch/ayesha/fuck.rpy:686
 translate russian ayesha_fuck_date_intro_male_8bfd83ae:
-    "В любом случае, я знаю, что ей нравится, когда я смотрю на нее во время ее \"выступления\"."
+    "В любом случае, я знаю, что ей нравится, когда я смотрю на неё во время её «выступления»."
 
 # ch/ayesha/fuck.rpy:688
 translate russian ayesha_fuck_date_intro_male_226734c9:
-    "И теперь, будучи абсолютно обнаженной, она перелезает на другую сторону кровати, вытягиваясь при этом."
+    "И теперь, будучи абсолютно обнажённой, она перелезает на другую сторону кровати, вытягиваясь при этом."
 
 # ch/ayesha/fuck.rpy:690
 translate russian ayesha_fuck_date_intro_male_3a613a61:
@@ -18658,7 +18658,7 @@ translate russian ayesha_fuck_date_intro_male_3a613a61:
 
 # ch/ayesha/fuck.rpy:692
 translate russian ayesha_fuck_date_intro_male_aebc4519:
-    "Это видно по тому, как она идет по комнате, оглядываясь на меня через плечо."
+    "Это видно по тому, как она идёт по комнате, оглядываясь на меня через плечо."
 
 # ch/ayesha/fuck.rpy:694
 translate russian ayesha_fuck_date_intro_male_397c7845:
@@ -18674,7 +18674,7 @@ translate russian ayesha_fuck_date_intro_male_a1cd4f56:
 
 # ch/ayesha/fuck.rpy:700
 translate russian ayesha_fuck_date_intro_male_63966959:
-    "Например, сейчас выражение ее лица, когда она массирует мышцы шеи, просто сводит меня с ума!"
+    "Например, сейчас выражение её лица, когда она массирует мышцы шеи, просто сводит меня с ума!"
 
 # ch/ayesha/fuck.rpy:702
 translate russian ayesha_fuck_date_intro_male_9614a429:
@@ -18682,7 +18682,7 @@ translate russian ayesha_fuck_date_intro_male_9614a429:
 
 # ch/ayesha/fuck.rpy:703
 translate russian ayesha_fuck_date_intro_male_ead786af:
-    ayesha.say "Мое тело такое напряженное после моего последнего матча."
+    ayesha.say "Моё тело такое напряженное после моего последнего матча."
 
 # ch/ayesha/fuck.rpy:704
 translate russian ayesha_fuck_date_intro_male_ac787309:
@@ -18690,11 +18690,11 @@ translate russian ayesha_fuck_date_intro_male_ac787309:
 
 # ch/ayesha/fuck.rpy:705
 translate russian ayesha_fuck_date_intro_male_81051593:
-    "Ее огромные, карие глаза встречаются с моими, и я сразу понимаю, что она не просто жалуется на боль."
+    "Её огромные, карие глаза встречаются с моими, и я сразу понимаю, что она не просто жалуется на боль."
 
 # ch/ayesha/fuck.rpy:707
 translate russian ayesha_fuck_date_intro_male_5e97b2d1:
-    "Айша дает мне довольно явный намек о том, чего она хочет от меня сегодня вечером."
+    "Айша даёт мне довольно явный намёк о том, чего она хочет от меня сегодня вечером."
 
 # ch/ayesha/fuck.rpy:708
 translate russian ayesha_fuck_date_intro_male_8109ce45:
@@ -18722,7 +18722,7 @@ translate russian ayesha_fuck_date_intro_male_9493424a:
 
 # ch/ayesha/fuck.rpy:716
 translate russian ayesha_fuck_date_intro_male_53316386:
-    "Айша смеется над этим и качает головой."
+    "Айша смеётся над этим и качает головой."
 
 # ch/ayesha/fuck.rpy:717
 translate russian ayesha_fuck_date_intro_male_ec7a0219:
@@ -18734,7 +18734,7 @@ translate russian ayesha_fuck_date_intro_male_d6d39c69:
 
 # ch/ayesha/fuck.rpy:719
 translate russian ayesha_fuck_date_intro_male_86a618fb:
-    "Я с энтузиазмом киваю, когда Аиша садится на кровать и стягивает с плеч свою блузку."
+    "Я с энтузиазмом киваю, когда Айша садится на кровать и стягивает с плеч свою блузку."
 
 # ch/ayesha/fuck.rpy:720
 translate russian ayesha_fuck_date_intro_male_dba03885:
@@ -18750,27 +18750,27 @@ translate russian ayesha_fuck_date_intro_male_ec56d657:
 
 # ch/ayesha/fuck.rpy:724
 translate russian ayesha_fuck_date_intro_male_4ec280f2:
-    "Я начинаю массировать плечи Аиши, осторожно ощупывая контуры ее мускулистой шеи."
+    "Я начинаю массировать плечи Айши, осторожно ощупывая контуры её мускулистой шеи."
 
 # ch/ayesha/fuck.rpy:725
 translate russian ayesha_fuck_date_intro_male_f92f940f:
-    "И хотя я уверен, что она использовала это как кокетливый прием, на самом деле у нее действительно очень напряженные мышцы."
+    "И хотя я уверен, что она использовала это как кокетливый приём, на самом деле у неё действительно очень напряжённые мышцы."
 
 # ch/ayesha/fuck.rpy:726
 translate russian ayesha_fuck_date_intro_male_ce182f59:
-    "Осознавая, что могу причинить больше вреда, чем пользы, я действую осторожно, массируя ее запутавшиеся ткани."
+    "Осознавая, что могу причинить больше вреда, чем пользы, я действую осторожно, массируя её запутавшиеся ткани."
 
 # ch/ayesha/fuck.rpy:727
 translate russian ayesha_fuck_date_intro_male_9fdbfe31:
-    "Но, несмотря на то, что я новичок в этом, Аише, похоже, нравятся мои прикосновения."
+    "Но, несмотря на то, что я новичок в этом, Айше, похоже, нравятся мои прикосновения."
 
 # ch/ayesha/fuck.rpy:728
 translate russian ayesha_fuck_date_intro_male_e2434a19:
-    "Она издает приятные и очень возбуждающие стоны от удовольствия каждый раз, когда я оказываю даже небольшое давление."
+    "Она издаёт приятные и очень возбуждающие стоны от удовольствия каждый раз, когда я оказываю даже небольшое давление."
 
 # ch/ayesha/fuck.rpy:729
 translate russian ayesha_fuck_date_intro_male_38d62483:
-    "Ирония заключается в том, что чем она больше расслабляется, тем сильнее становится мое возбуждение в ответ."
+    "Ирония заключается в том, что чем она больше расслабляется, тем сильнее становится моё возбуждение в ответ."
 
 # ch/ayesha/fuck.rpy:731
 translate russian ayesha_fuck_date_intro_male_41120747:
@@ -18782,15 +18782,15 @@ translate russian ayesha_fuck_date_intro_male_a6bb3af0:
 
 # ch/ayesha/fuck.rpy:734
 translate russian ayesha_fuck_date_intro_male_a10c3d5d:
-    "Как будто подчеркивая этот вопрос, Аиша опускает бретельки своего бюстгальтера и расстегивает его сзади."
+    "Как будто подчёркивая этот вопрос, Айша опускает бретельки своего бюстгальтера и расстёгивает его сзади."
 
 # ch/ayesha/fuck.rpy:735
 translate russian ayesha_fuck_date_intro_male_a69c45cd:
-    "Мне не нужно говорить дважды, и мои руки вскоре начинают двигаться дальше вниз по ее спине."
+    "Мне не нужно говорить дважды, и мои руки вскоре начинают двигаться дальше вниз по её спине."
 
 # ch/ayesha/fuck.rpy:737
 translate russian ayesha_fuck_date_intro_male_b1bdabe6:
-    "Айша продолжает раздеваться, сбрасывая все больше и больше одежды, пока я медленно опускаюсь ниже."
+    "Айша продолжает раздеваться, сбрасывая всё больше и больше одежды, пока я медленно опускаюсь ниже."
 
 # ch/ayesha/fuck.rpy:738
 translate russian ayesha_fuck_date_intro_male_7c5facb7:
@@ -18798,7 +18798,7 @@ translate russian ayesha_fuck_date_intro_male_7c5facb7:
 
 # ch/ayesha/fuck.rpy:739
 translate russian ayesha_fuck_date_intro_male_0c041b7d:
-    "Она радостно вскрикивает от ощущения моего члена, трущегося и подпрыгивающего о ее ягодицах."
+    "Она радостно вскрикивает от ощущения моего члена, трущегося и подпрыгивающего о её ягодицах."
 
 # ch/ayesha/fuck.rpy:740
 translate russian ayesha_fuck_date_intro_male_b06eee76:
@@ -18822,7 +18822,7 @@ translate russian ayesha_fuck_date_intro_male_71156c7c:
 
 # ch/ayesha/fuck.rpy:746
 translate russian ayesha_fuck_date_intro_male_4dfff3e0:
-    "Из всех вещей, которые я люблю в Айше, ее застенчивость всегда находится в топе списка."
+    "Из всех вещей, которые я люблю в Айше, её застенчивость всегда находится в топе списка."
 
 # ch/ayesha/fuck.rpy:747
 translate russian ayesha_fuck_date_intro_male_dcbf4c97:
@@ -18830,19 +18830,19 @@ translate russian ayesha_fuck_date_intro_male_dcbf4c97:
 
 # ch/ayesha/fuck.rpy:748
 translate russian ayesha_fuck_date_intro_male_59fb1c9d:
-    "Но вне борцовского ринга она – совсем другая девушка."
+    "Но вне борцовского ринга она — совсем другая девушка."
 
 # ch/ayesha/fuck.rpy:749
 translate russian ayesha_fuck_date_intro_male_785b3207:
-    "Она довольно стеснительна, когда дело касается ее размера и телосложения."
+    "Она довольно стеснительна, когда дело касается её размера и телосложения."
 
 # ch/ayesha/fuck.rpy:750
 translate russian ayesha_fuck_date_intro_male_b4ee2dcf:
-    "Поэтому требуется много усилий, чтобы заставить ее раскрыться."
+    "Поэтому требуется много усилий, чтобы заставить её раскрыться."
 
 # ch/ayesha/fuck.rpy:751
 translate russian ayesha_fuck_date_intro_male_8b9bf27b:
-    "Когда мы идем на свидание, мне нужно быть с ней нежным и понимающим."
+    "Когда мы идём на свидание, мне нужно быть с ней нежным и понимающим."
 
 # ch/ayesha/fuck.rpy:752
 translate russian ayesha_fuck_date_intro_male_d7a9cd6d:
@@ -18850,7 +18850,7 @@ translate russian ayesha_fuck_date_intro_male_d7a9cd6d:
 
 # ch/ayesha/fuck.rpy:753
 translate russian ayesha_fuck_date_intro_male_e78098af:
-    "И эта девушка – чувствительная, веселая и, прежде всего, глубоко страстная."
+    "И эта девушка — чувствительная, весёлая и, прежде всего, глубоко страстная."
 
 # ch/ayesha/fuck.rpy:754
 translate russian ayesha_fuck_date_intro_male_acc2b1ce:
@@ -18858,7 +18858,7 @@ translate russian ayesha_fuck_date_intro_male_acc2b1ce:
 
 # ch/ayesha/fuck.rpy:755
 translate russian ayesha_fuck_date_intro_male_2af53dc7:
-    "И сегодня вечером, кажется, мне удалось добиться успеха в своих попытках пробудить ее."
+    "И сегодня вечером, кажется, мне удалось добиться успеха в своих попытках пробудить её."
 
 # ch/ayesha/fuck.rpy:756
 translate russian ayesha_fuck_date_intro_male_ff02ce68:
@@ -18878,11 +18878,11 @@ translate russian ayesha_fuck_date_intro_male_764b5649:
 
 # ch/ayesha/fuck.rpy:761
 translate russian ayesha_fuck_date_intro_male_e37e96f1:
-    "Она притягивает меня к себе в объятиях, прижимая мое тело к ее телу."
+    "Она притягивает меня к себе в объятиях, прижимая моё тело к её телу."
 
 # ch/ayesha/fuck.rpy:762
 translate russian ayesha_fuck_date_intro_male_0488dce2:
-    "Я чувствую, как под ее кожей напрягаются мышцы, как скрученная сталь."
+    "Я чувствую, как под её кожей напрягаются мышцы, как скрученная сталь."
 
 # ch/ayesha/fuck.rpy:767
 translate russian ayesha_fuck_date_intro_male_84f2a4a6:
@@ -18934,11 +18934,11 @@ translate russian ayesha_fuck_date_intro_male_430e36e9:
 
 # ch/ayesha/fuck.rpy:779
 translate russian ayesha_fuck_date_intro_male_284257ee:
-    "Наконец, я чувствую, как последняя часть моей одежды рвется."
+    "Наконец, я чувствую, как последняя часть моей одежды рвётся."
 
 # ch/ayesha/fuck.rpy:782
 translate russian ayesha_fuck_date_intro_male_a5e4f61a:
-    "А через мгновение мне удается ответить Айше взаимностью."
+    "А через мгновение мне удаётся ответить Айше взаимностью."
 
 # ch/ayesha/fuck.rpy:783
 translate russian ayesha_fuck_date_intro_male_0c0df9f7:
@@ -18958,11 +18958,11 @@ translate russian ayesha_fuck_date_intro_male_0203026a:
 
 # ch/ayesha/fuck.rpy:790
 translate russian ayesha_fuck_date_intro_male_00d03c20:
-    "Я оказываюсь в положении, когда смотрю вверх на нее, возвышающуюся надо мной."
+    "Я оказываюсь в положении, когда смотрю вверх на неё, возвышающуюся надо мной."
 
 # ch/ayesha/fuck.rpy:791
 translate russian ayesha_fuck_date_intro_male_31c50727:
-    "И вдруг я понимаю, каково это – быть ее соперником на ринге!"
+    "И вдруг я понимаю, каково это — быть её соперником на ринге!"
 
 # ch/ayesha/fuck.rpy:792
 translate russian ayesha_fuck_date_intro_male_76c9d133:
@@ -18970,15 +18970,15 @@ translate russian ayesha_fuck_date_intro_male_76c9d133:
 
 # ch/ayesha/fuck.rpy:793
 translate russian ayesha_fuck_date_intro_male_90d5945e:
-    "Мне кажется, что я смотрю за ней в замедленной съемке."
+    "Мне кажется, что я смотрю за ней в замедленной съёмке."
 
 # ch/ayesha/fuck.rpy:794
 translate russian ayesha_fuck_date_intro_male_803af529:
-    "В этот момент ее тело зависает надо мной, и я вижу каждый сантиметр ее тела."
+    "В этот момент её тело зависает надо мной, и я вижу каждый сантиметр её тела."
 
 # ch/ayesha/fuck.rpy:795
 translate russian ayesha_fuck_date_intro_male_fe29f5c0:
-    "Но затем время снова ускоряется, и мое восприятие возвращается к норме."
+    "Но затем время снова ускоряется, и моё восприятие возвращается к норме."
 
 # ch/ayesha/fuck.rpy:796
 translate russian ayesha_fuck_date_intro_male_cd4e51df:
@@ -18998,11 +18998,11 @@ translate russian ayesha_fuck_date_intro_male_386e7fe5:
 
 # ch/ayesha/fuck.rpy:801
 translate russian ayesha_fuck_date_intro_male_61855dac:
-    "Айша громко смеется над моей игрой с ней."
+    "Айша громко смеётся над моей игрой с ней."
 
 # ch/ayesha/fuck.rpy:802
 translate russian ayesha_fuck_date_intro_male_4be94aed:
-    "В ее глазах искры, на губах – легкая улыбка."
+    "В её глазах искры, на губах — лёгкая улыбка."
 
 # ch/ayesha/fuck.rpy:803
 translate russian ayesha_fuck_date_intro_male_84d591f1:
@@ -19010,15 +19010,15 @@ translate russian ayesha_fuck_date_intro_male_84d591f1:
 
 # ch/ayesha/fuck.rpy:804
 translate russian ayesha_fuck_date_intro_male_f53bb6a3:
-    "И я не могу удержаться от того, чтобы тоже испытать возбуждение от мысли о том, что я в ее власти."
+    "И я не могу удержаться от того, чтобы тоже испытать возбуждение от мысли о том, что я в её власти."
 
 # ch/ayesha/fuck.rpy:805
 translate russian ayesha_fuck_date_intro_male_f7f17a91:
-    "Мой член уже был напряжен в тот момент, когда она на меня прыгнула."
+    "Мой член уже был напряжён в тот момент, когда она на меня прыгнула."
 
 # ch/ayesha/fuck.rpy:806
 translate russian ayesha_fuck_date_intro_male_f923fcfe:
-    "Но теперь это начинает становиться болезненным, пока я жду, чтобы увидеть, что у нее на уме."
+    "Но теперь это начинает становиться болезненным, пока я жду, чтобы увидеть, что у неё на уме."
 
 # ch/ayesha/fuck.rpy:808
 translate russian ayesha_fuck_date_intro_male_a860586e:
@@ -19026,7 +19026,7 @@ translate russian ayesha_fuck_date_intro_male_a860586e:
 
 # ch/ayesha/fuck.rpy:809
 translate russian ayesha_fuck_date_intro_male_a41849c4:
-    ayesha.say "Я буду делать с тобой все, что захочу!"
+    ayesha.say "Я буду делать с тобой всё, что захочу!"
 
 # ch/ayesha/fuck.rpy:810
 translate russian ayesha_fuck_date_intro_male_3ad3d370:
@@ -19050,7 +19050,7 @@ translate russian ayesha_fuck_date_intro_male_a7d15129:
 
 # ch/ayesha/fuck.rpy:815
 translate russian ayesha_fuck_date_intro_male_cbf71222:
-    mike.say "Все, что ты захочешь, Аиша!"
+    mike.say "Всё, что ты захочешь, Айша!"
 
 # ch/ayesha/fuck.rpy:816
 translate russian ayesha_fuck_date_intro_male_3319e2de:
@@ -19058,7 +19058,7 @@ translate russian ayesha_fuck_date_intro_male_3319e2de:
 
 # ch/ayesha/fuck.rpy:818
 translate russian ayesha_fuck_date_intro_male_db586e5c:
-    "Аиша снова смеется, приседая на меня и прижимая меня к кровати."
+    "Айша снова смеётся, приседая на меня и прижимая меня к кровати."
 
 # ch/ayesha/fuck.rpy:820
 translate russian ayesha_fuck_date_intro_male_3a613a61_1:
@@ -19066,7 +19066,7 @@ translate russian ayesha_fuck_date_intro_male_3a613a61_1:
 
 # ch/ayesha/fuck.rpy:821
 translate russian ayesha_fuck_date_intro_male_aebc4519_1:
-    "Это видно по тому, как она идет по комнате, оглядываясь на меня через плечо."
+    "Это видно по тому, как она идёт по комнате, оглядываясь на меня через плечо."
 
 # ch/ayesha/fuck.rpy:822
 translate russian ayesha_fuck_date_intro_male_397c7845_1:
@@ -19082,7 +19082,7 @@ translate russian ayesha_fuck_date_intro_male_a1cd4f56_1:
 
 # ch/ayesha/fuck.rpy:825
 translate russian ayesha_fuck_date_intro_male_63966959_1:
-    "Например, сейчас выражение ее лица, когда она массирует мышцы шеи, просто сводит меня с ума!"
+    "Например, сейчас выражение её лица, когда она массирует мышцы шеи, просто сводит меня с ума!"
 
 # ch/ayesha/fuck.rpy:826
 translate russian ayesha_fuck_date_intro_male_9614a429_2:
@@ -19090,7 +19090,7 @@ translate russian ayesha_fuck_date_intro_male_9614a429_2:
 
 # ch/ayesha/fuck.rpy:827
 translate russian ayesha_fuck_date_intro_male_ead786af_1:
-    ayesha.say "Мое тело такое напряженное после моего последнего матча."
+    ayesha.say "Моё тело такое напряженное после моего последнего матча."
 
 # ch/ayesha/fuck.rpy:829
 translate russian ayesha_fuck_date_intro_male_ac787309_1:
@@ -19098,11 +19098,11 @@ translate russian ayesha_fuck_date_intro_male_ac787309_1:
 
 # ch/ayesha/fuck.rpy:830
 translate russian ayesha_fuck_date_intro_male_81051593_1:
-    "Ее огромные, карие глаза встречаются с моими, и я сразу понимаю, что она не просто жалуется на боль."
+    "Её огромные, карие глаза встречаются с моими, и я сразу понимаю, что она не просто жалуется на боль."
 
 # ch/ayesha/fuck.rpy:831
 translate russian ayesha_fuck_date_intro_male_5e97b2d1_1:
-    "Айша дает мне довольно явный намек о том, чего она хочет от меня сегодня вечером."
+    "Айша даёт мне довольно явный намёк о том, чего она хочет от меня сегодня вечером."
 
 # ch/ayesha/fuck.rpy:832
 translate russian ayesha_fuck_date_intro_male_8109ce45_1:
@@ -19130,7 +19130,7 @@ translate russian ayesha_fuck_date_intro_male_9493424a_1:
 
 # ch/ayesha/fuck.rpy:839
 translate russian ayesha_fuck_date_intro_male_53316386_1:
-    "Айша смеется над этим и качает головой."
+    "Айша смеётся над этим и качает головой."
 
 # ch/ayesha/fuck.rpy:840
 translate russian ayesha_fuck_date_intro_male_ec7a0219_1:
@@ -19142,7 +19142,7 @@ translate russian ayesha_fuck_date_intro_male_d6d39c69_1:
 
 # ch/ayesha/fuck.rpy:843
 translate russian ayesha_fuck_date_intro_male_86a618fb_1:
-    "Я с энтузиазмом киваю, когда Аиша садится на кровать и стягивает с плеч свою блузку."
+    "Я с энтузиазмом киваю, когда Айша садится на кровать и стягивает с плеч свою блузку."
 
 # ch/ayesha/fuck.rpy:844
 translate russian ayesha_fuck_date_intro_male_dba03885_1:
@@ -19150,7 +19150,7 @@ translate russian ayesha_fuck_date_intro_male_dba03885_1:
 
 # ch/ayesha/fuck.rpy:845
 translate russian ayesha_fuck_date_intro_male_236991c2:
-    ayesha.say "Ммм…"
+    ayesha.say "Ммм..."
 
 # ch/ayesha/fuck.rpy:847
 translate russian ayesha_fuck_date_intro_male_ec56d657_1:
@@ -19158,27 +19158,27 @@ translate russian ayesha_fuck_date_intro_male_ec56d657_1:
 
 # ch/ayesha/fuck.rpy:848
 translate russian ayesha_fuck_date_intro_male_4ec280f2_1:
-    "Я начинаю массировать плечи Аиши, осторожно ощупывая контуры ее мускулистой шеи."
+    "Я начинаю массировать плечи Айши, осторожно ощупывая контуры её мускулистой шеи."
 
 # ch/ayesha/fuck.rpy:849
 translate russian ayesha_fuck_date_intro_male_f92f940f_1:
-    "И хотя я уверен, что она использовала это как кокетливый прием, на самом деле у нее действительно очень напряженные мышцы."
+    "И хотя я уверен, что она использовала это как кокетливый приём, на самом деле у неё действительно очень напряжённые мышцы."
 
 # ch/ayesha/fuck.rpy:850
 translate russian ayesha_fuck_date_intro_male_ce182f59_1:
-    "Осознавая, что могу причинить больше вреда, чем пользы, я действую осторожно, массируя ее запутавшиеся ткани."
+    "Осознавая, что могу причинить больше вреда, чем пользы, я действую осторожно, массируя её запутавшиеся ткани."
 
 # ch/ayesha/fuck.rpy:851
 translate russian ayesha_fuck_date_intro_male_9fdbfe31_1:
-    "Но, несмотря на то, что я новичок в этом, Аише, похоже, нравятся мои прикосновения."
+    "Но, несмотря на то, что я новичок в этом, Айше, похоже, нравятся мои прикосновения."
 
 # ch/ayesha/fuck.rpy:852
 translate russian ayesha_fuck_date_intro_male_e2434a19_1:
-    "Она издает приятные и очень возбуждающие стоны от удовольствия каждый раз, когда я оказываю даже небольшое давление."
+    "Она издаёт приятные и очень возбуждающие стоны от удовольствия каждый раз, когда я оказываю даже небольшое давление."
 
 # ch/ayesha/fuck.rpy:853
 translate russian ayesha_fuck_date_intro_male_38d62483_1:
-    "Ирония заключается в том, что чем она больше расслабляется, тем сильнее становится мое возбуждение в ответ."
+    "Ирония заключается в том, что чем она больше расслабляется, тем сильнее становится моё возбуждение в ответ."
 
 # ch/ayesha/fuck.rpy:854
 translate russian ayesha_fuck_date_intro_male_41120747_1:
@@ -19190,15 +19190,15 @@ translate russian ayesha_fuck_date_intro_male_a6bb3af0_1:
 
 # ch/ayesha/fuck.rpy:858
 translate russian ayesha_fuck_date_intro_male_a10c3d5d_1:
-    "Как будто подчеркивая этот вопрос, Аиша опускает бретельки своего бюстгальтера и расстегивает его сзади."
+    "Как будто подчёркивая этот вопрос, Айша опускает бретельки своего бюстгальтера и расстёгивает его сзади."
 
 # ch/ayesha/fuck.rpy:859
 translate russian ayesha_fuck_date_intro_male_a69c45cd_1:
-    "Мне не нужно говорить дважды, и мои руки вскоре начинают двигаться дальше вниз по ее спине."
+    "Мне не нужно говорить дважды, и мои руки вскоре начинают двигаться дальше вниз по её спине."
 
 # ch/ayesha/fuck.rpy:860
 translate russian ayesha_fuck_date_intro_male_b1bdabe6_1:
-    "Айша продолжает раздеваться, сбрасывая все больше и больше одежды, пока я медленно опускаюсь ниже."
+    "Айша продолжает раздеваться, сбрасывая всё больше и больше одежды, пока я медленно опускаюсь ниже."
 
 # ch/ayesha/fuck.rpy:862
 translate russian ayesha_fuck_date_intro_male_7c5facb7_1:
@@ -19206,7 +19206,7 @@ translate russian ayesha_fuck_date_intro_male_7c5facb7_1:
 
 # ch/ayesha/fuck.rpy:863
 translate russian ayesha_fuck_date_intro_male_0c041b7d_1:
-    "Она радостно вскрикивает от ощущения моего члена, трущегося и подпрыгивающего о ее ягодицах."
+    "Она радостно вскрикивает от ощущения моего члена, трущегося и подпрыгивающего о её ягодицах."
 
 # ch/ayesha/fuck.rpy:865
 translate russian ayesha_fuck_date_intro_male_b06eee76_1:
@@ -19230,7 +19230,7 @@ translate russian ayesha_fuck_date_intro_male_71156c7c_1:
 
 # ch/ayesha/fuck.rpy:872
 translate russian ayesha_fuck_date_intro_male_70d8b014:
-    "Я чувствую себя очень спокойно и расслабленно, когда мы с Аишей возвращаемся ко мне домой."
+    "Я чувствую себя очень спокойно и расслабленно, когда мы с Айшей возвращаемся ко мне домой."
 
 # ch/ayesha/fuck.rpy:873
 translate russian ayesha_fuck_date_intro_male_1efd3a94:
@@ -19262,11 +19262,11 @@ translate russian ayesha_fuck_date_intro_male_56443ec5:
 
 # ch/ayesha/fuck.rpy:884
 translate russian ayesha_fuck_date_intro_male_5dbce695:
-    "Я имею в виду, это не медвежья объятие, от которого ломаются ребра."
+    "Я имею в виду, это не медвежья объятие, от которого ломаются рёбра."
 
 # ch/ayesha/fuck.rpy:885
 translate russian ayesha_fuck_date_intro_male_942ac4b3:
-    "Айша обнимает меня, прижимая свое тело к моему в чувственной манере."
+    "Айша обнимает меня, прижимая своё тело к моему в чувственной манере."
 
 # ch/ayesha/fuck.rpy:886
 translate russian ayesha_fuck_date_intro_male_1ed0cfe2:
@@ -19278,19 +19278,19 @@ translate russian ayesha_fuck_date_intro_male_4313d40b:
 
 # ch/ayesha/fuck.rpy:888
 translate russian ayesha_fuck_date_intro_male_3a24d47e:
-    "Я и представить себе не мог, что можно одновременно чувствовать себя настолько в безопасности и настолько возбужденным!"
+    "Я и представить себе не мог, что можно одновременно чувствовать себя настолько в безопасности и настолько возбуждённым!"
 
 # ch/ayesha/fuck.rpy:889
 translate russian ayesha_fuck_date_intro_male_6a8a1f6b:
-    "Айша тоже целует меня, ее язык скользит в мой рот."
+    "Айша тоже целует меня, её язык скользит в мой рот."
 
 # ch/ayesha/fuck.rpy:890
 translate russian ayesha_fuck_date_intro_male_7a9f04f0:
-    "Все это время мои руки повсюду по ее телу."
+    "Все это время мои руки повсюду по её телу."
 
 # ch/ayesha/fuck.rpy:891
 translate russian ayesha_fuck_date_intro_male_3c6db162:
-    "Ощущение ее женственной, но мускулистой фигуры уже заставляет меня встать."
+    "Ощущение её женственной, но мускулистой фигуры уже заставляет меня встать."
 
 # ch/ayesha/fuck.rpy:895
 translate russian ayesha_fuck_date_intro_male_69d796d0:
@@ -19302,7 +19302,7 @@ translate russian ayesha_fuck_date_intro_male_8881b406:
 
 # ch/ayesha/fuck.rpy:902
 translate russian ayesha_fuck_date_intro_male_b57a5a3a:
-    "И вот, как только дверь спальни закрывается за нами, я беру ее голову в свои руки и жадно целую."
+    "И вот, как только дверь спальни закрывается за нами, я беру её голову в свои руки и жадно целую."
 
 # ch/ayesha/fuck.rpy:903
 translate russian ayesha_fuck_date_intro_male_37b5e586:
@@ -19314,7 +19314,7 @@ translate russian ayesha_fuck_date_intro_male_c22c1404:
 
 # ch/ayesha/fuck.rpy:905
 translate russian ayesha_fuck_date_intro_male_0b747739:
-    "Ни одна из них даже не требует от нее ни единого слова."
+    "Ни одна из них даже не требует от неё ни единого слова."
 
 # ch/ayesha/fuck.rpy:906
 translate russian ayesha_fuck_date_intro_male_35e43c8a:
@@ -19322,7 +19322,7 @@ translate russian ayesha_fuck_date_intro_male_35e43c8a:
 
 # ch/ayesha/fuck.rpy:907
 translate russian ayesha_fuck_date_intro_male_716fee85:
-    "Черт возьми, я уверен, что она могла бы связать меня, как чертов узел, если бы ей вздумалось!"
+    "Чёрт возьми, я уверен, что она могла бы связать меня, как чёртов узел, если бы ей вздумалось!"
 
 # ch/ayesha/fuck.rpy:908
 translate russian ayesha_fuck_date_intro_male_439778f5:
@@ -19334,7 +19334,7 @@ translate russian ayesha_fuck_date_intro_male_147e6c62:
 
 # ch/ayesha/fuck.rpy:910
 translate russian ayesha_fuck_date_intro_male_22f7e675:
-    "Фактически, кажется, она идет еще дальше, не оказывая никакого сопротивления, когда я провожу руками по ее спине."
+    "Фактически, кажется, она идёт ещё дальше, не оказывая никакого сопротивления, когда я провожу руками по её спине."
 
 # ch/ayesha/fuck.rpy:911
 translate russian ayesha_fuck_date_intro_male_4de17181:
@@ -19342,7 +19342,7 @@ translate russian ayesha_fuck_date_intro_male_4de17181:
 
 # ch/ayesha/fuck.rpy:912
 translate russian ayesha_fuck_date_intro_male_b9e5e70d:
-    "Но я чувствую по ее жестам, что Айша рада тому, что я беру инициативу в свои руки."
+    "Но я чувствую по её жестам, что Айша рада тому, что я беру инициативу в свои руки."
 
 # ch/ayesha/fuck.rpy:913
 translate russian ayesha_fuck_date_intro_male_4408d66d:
@@ -19350,19 +19350,19 @@ translate russian ayesha_fuck_date_intro_male_4408d66d:
 
 # ch/ayesha/fuck.rpy:914
 translate russian ayesha_fuck_date_intro_male_3c7d3c1c:
-    "Продолжая целовать ее, я медленно отвожу Айшу назад."
+    "Продолжая целовать её, я медленно отвожу Айшу назад."
 
 # ch/ayesha/fuck.rpy:915
 translate russian ayesha_fuck_date_intro_male_de2720f4:
-    "Она идет без сопротивления, останавливаясь только тогда, когда ее ноги касаются кровати."
+    "Она идёт без сопротивления, останавливаясь только тогда, когда её ноги касаются кровати."
 
 # ch/ayesha/fuck.rpy:919
 translate russian ayesha_fuck_date_intro_male_a44bc8fb:
-    "Воспринимая это как сигнал, я прекращаю поцелуй, слыша ее вздох."
+    "Воспринимая это как сигнал, я прекращаю поцелуй, слыша её вздох."
 
 # ch/ayesha/fuck.rpy:920
 translate russian ayesha_fuck_date_intro_male_247c5084:
-    "Стараясь быть максимально близко к Айше, я начинаю быстро снимать с нее одежду."
+    "Стараясь быть максимально близко к Айше, я начинаю быстро снимать с неё одежду."
 
 # ch/ayesha/fuck.rpy:921
 translate russian ayesha_fuck_date_intro_male_296a9962:
@@ -19370,7 +19370,7 @@ translate russian ayesha_fuck_date_intro_male_296a9962:
 
 # ch/ayesha/fuck.rpy:922
 translate russian ayesha_fuck_date_intro_male_94dcc8b7:
-    "Но моей спешки вполне достаточно, чтобы она поняла, насколько сильно я хочу увидеть ее обнаженное тело."
+    "Но моей спешки вполне достаточно, чтобы она поняла, насколько сильно я хочу увидеть её обнажённое тело."
 
 # ch/ayesha/fuck.rpy:923
 translate russian ayesha_fuck_date_intro_male_f89a81c9:
@@ -19378,15 +19378,15 @@ translate russian ayesha_fuck_date_intro_male_f89a81c9:
 
 # ch/ayesha/fuck.rpy:924
 translate russian ayesha_fuck_date_intro_male_9e3a1d9f:
-    "И у меня возникает отчетливое ощущение, что ей даже нравится то, как я взял ситуацию под контроль."
+    "И у меня возникает отчётливое ощущение, что ей даже нравится то, как я взял ситуацию под контроль."
 
 # ch/ayesha/fuck.rpy:925
 translate russian ayesha_fuck_date_intro_male_9603f73c:
-    "Конечно, это только усиливает мое возбуждение."
+    "Конечно, это только усиливает моё возбуждение."
 
 # ch/ayesha/fuck.rpy:926
 translate russian ayesha_fuck_date_intro_male_5a19d00f:
-    "Мысль о том, что эта потрясающая, сильная женщина полностью отдается мне."
+    "Мысль о том, что эта потрясающая, сильная женщина полностью отдаётся мне."
 
 # ch/ayesha/fuck.rpy:927
 translate russian ayesha_fuck_date_intro_male_5157dbc1:
@@ -19394,11 +19394,11 @@ translate russian ayesha_fuck_date_intro_male_5157dbc1:
 
 # ch/ayesha/fuck.rpy:928
 translate russian ayesha_fuck_date_intro_male_9bec89b2:
-    "К этому моменту я уже почти раздевал Айшу до талии, ее грудь освобождена от бюстгальтера."
+    "К этому моменту я уже почти раздевал Айшу до талии, её грудь освобождена от бюстгальтера."
 
 # ch/ayesha/fuck.rpy:929
 translate russian ayesha_fuck_date_intro_male_57631523:
-    "И на мгновение я останавливаюсь в процессе раздевания и наклоняюсь, чтобы прижать голову к ее груди."
+    "И на мгновение я останавливаюсь в процессе раздевания и наклоняюсь, чтобы прижать голову к её груди."
 
 # ch/ayesha/fuck.rpy:930
 translate russian ayesha_fuck_date_intro_male_1ef0e996:
@@ -19406,7 +19406,7 @@ translate russian ayesha_fuck_date_intro_male_1ef0e996:
 
 # ch/ayesha/fuck.rpy:931
 translate russian ayesha_fuck_date_intro_male_bc6ad9fe:
-    "Я слышу, как Айша стонет от удовольствия, ее грудь поднимается и опускается в такт учащенному сердцебиению."
+    "Я слышу, как Айша стонет от удовольствия, её грудь поднимается и опускается в такт учащенному сердцебиению."
 
 # ch/ayesha/fuck.rpy:932
 translate russian ayesha_fuck_date_intro_male_3c8c24d2:
@@ -19418,23 +19418,23 @@ translate russian ayesha_fuck_date_intro_male_cc3231bd:
 
 # ch/ayesha/fuck.rpy:934
 translate russian ayesha_fuck_date_intro_male_bd9c4a99:
-    "Затем я чувствую, как она прижимает мою голову к своей руке, подтягивая меня еще ближе к ее груди."
+    "Затем я чувствую, как она прижимает мою голову к своей руке, подтягивая меня ещё ближе к её груди."
 
 # ch/ayesha/fuck.rpy:935
 translate russian ayesha_fuck_date_intro_male_81b05bd2:
-    "Другая рука начинает судорожно расстегивать одежду, оставшуюся у нее ниже талии, пытаясь от нее избавиться."
+    "Другая рука начинает судорожно расстёгивать одежду, оставшуюся у неё ниже талии, пытаясь от неё избавиться."
 
 # ch/ayesha/fuck.rpy:936
 translate russian ayesha_fuck_date_intro_male_95310d8a:
-    "Так, все еще с соской во рту, я опускаюсь вниз и помогаю ей закончить начатое."
+    "Так, всё ещё с соской во рту, я опускаюсь вниз и помогаю ей закончить начатое."
 
 # ch/ayesha/fuck.rpy:938
 translate russian ayesha_fuck_date_intro_male_3d688b78:
-    "Вскоре наших совместных усилий достаточно, чтобы увидеть Айшу полностью обнаженной."
+    "Вскоре наших совместных усилий достаточно, чтобы увидеть Айшу полностью обнажённой."
 
 # ch/ayesha/fuck.rpy:939
 translate russian ayesha_fuck_date_intro_male_9c8b3ca8:
-    "Медленно и нежно я отпускаю ее сосок и встаю перед ней."
+    "Медленно и нежно я отпускаю её сосок и встаю перед ней."
 
 # ch/ayesha/fuck.rpy:940
 translate russian ayesha_fuck_date_intro_male_c07779d0:
@@ -19446,7 +19446,7 @@ translate russian ayesha_fuck_date_intro_male_f6a42854:
 
 # ch/ayesha/fuck.rpy:961
 translate russian ayesha_fuck_date_blowjob_4f0ab49d:
-    "Глаза Айши устремлены прямо на мой член, и я вижу, что в ее голове только одна мысль."
+    "Глаза Айши устремлены прямо на мой член, и я вижу, что в её голове только одна мысль."
 
 # ch/ayesha/fuck.rpy:962
 translate russian ayesha_fuck_date_blowjob_a0bfb630:
@@ -19454,7 +19454,7 @@ translate russian ayesha_fuck_date_blowjob_a0bfb630:
 
 # ch/ayesha/fuck.rpy:963
 translate russian ayesha_fuck_date_blowjob_4da818a6:
-    "Но вид обнаженного тела Айши и знание того, что она хочет со мной сделать..."
+    "Но вид обнажённого тела Айши и знание того, что она хочет со мной сделать..."
 
 # ch/ayesha/fuck.rpy:964
 translate russian ayesha_fuck_date_blowjob_633c65c1:
@@ -19478,7 +19478,7 @@ translate russian ayesha_fuck_date_blowjob_cdae0a5a:
 
 # ch/ayesha/fuck.rpy:969
 translate russian ayesha_fuck_date_blowjob_8d37a9c2:
-    "Аyesha смеется над этим, и это можно описать только как коварный смех."
+    "Аyesha смеётся над этим, и это можно описать только как коварный смех."
 
 # ch/ayesha/fuck.rpy:970
 translate russian ayesha_fuck_date_blowjob_84aad992:
@@ -19510,7 +19510,7 @@ translate russian ayesha_fuck_date_blowjob_7af5b696:
 
 # ch/ayesha/fuck.rpy:977
 translate russian ayesha_fuck_date_blowjob_d0114d4c:
-    "И мое замешательство только усиливается, когда Айша буквально прыгает на меня сверху!"
+    "И моё замешательство только усиливается, когда Айша буквально прыгает на меня сверху!"
 
 # ch/ayesha/fuck.rpy:978
 translate russian ayesha_fuck_date_blowjob_7be67f62:
@@ -19518,7 +19518,7 @@ translate russian ayesha_fuck_date_blowjob_7be67f62:
 
 # ch/ayesha/fuck.rpy:982
 translate russian ayesha_fuck_date_blowjob_d24a17f7:
-    "Вместо этого Айша издает звуки, которые можно описать как мурлыканье и рычание."
+    "Вместо этого Айша издаёт звуки, которые можно описать как мурлыканье и рычание."
 
 # ch/ayesha/fuck.rpy:983
 translate russian ayesha_fuck_date_blowjob_67fdcce9:
@@ -19546,15 +19546,15 @@ translate russian ayesha_fuck_date_blowjob_777e4852:
 
 # ch/ayesha/fuck.rpy:991
 translate russian ayesha_fuck_date_blowjob_6ce2badb:
-    "Ее голова находится всего в дюйме от головы моего члена, который стоит в состоянии возбуждения."
+    "Её голова находится всего в дюйме от головы моего члена, который стоит в состоянии возбуждения."
 
 # ch/ayesha/fuck.rpy:992
 translate russian ayesha_fuck_date_blowjob_1de66d03:
-    "Она ловит мой взгляд, когда опускается еще ниже, и ствол начинает скрывать ее черты лица."
+    "Она ловит мой взгляд, когда опускается ещё ниже, и ствол начинает скрывать её черты лица."
 
 # ch/ayesha/fuck.rpy:996
 translate russian ayesha_fuck_date_blowjob_5dc00812:
-    "И тогда я чувствую ее губы, когда она начинает целоваться, и ее язык, когда она начинает облизывать."
+    "И тогда я чувствую её губы, когда она начинает целоваться, и её язык, когда она начинает облизывать."
 
 # ch/ayesha/fuck.rpy:997
 translate russian ayesha_fuck_date_blowjob_2b2deca0:
@@ -19562,7 +19562,7 @@ translate russian ayesha_fuck_date_blowjob_2b2deca0:
 
 # ch/ayesha/fuck.rpy:998
 translate russian ayesha_fuck_date_blowjob_50a117b1:
-    "Ощущение ее движений одновременно волнующее и немного пугающее."
+    "Ощущение её движений одновременно волнующее и немного пугающее."
 
 # ch/ayesha/fuck.rpy:999
 translate russian ayesha_fuck_date_blowjob_200bd01b:
@@ -19578,7 +19578,7 @@ translate russian ayesha_fuck_date_blowjob_78569a14:
 
 # ch/ayesha/fuck.rpy:1002
 translate russian ayesha_fuck_date_blowjob_0314a5e6:
-    "Вместо этого, внезапные ощущения усиливают чувственное восприятие, делая удовольствие еще более острым и интенсивным."
+    "Вместо этого, внезапные ощущения усиливают чувственное восприятие, делая удовольствие ещё более острым и интенсивным."
 
 # ch/ayesha/fuck.rpy:1003
 translate russian ayesha_fuck_date_blowjob_623660d6:
@@ -19586,7 +19586,7 @@ translate russian ayesha_fuck_date_blowjob_623660d6:
 
 # ch/ayesha/fuck.rpy:1004
 translate russian ayesha_fuck_date_blowjob_b5a9aaf1:
-    "Теперь ее глаза снова на одном уровне с моими, и я вижу, что выражение в них изменилось."
+    "Теперь её глаза снова на одном уровне с моими, и я вижу, что выражение в них изменилось."
 
 # ch/ayesha/fuck.rpy:1005
 translate russian ayesha_fuck_date_blowjob_52b83ecd:
@@ -19594,7 +19594,7 @@ translate russian ayesha_fuck_date_blowjob_52b83ecd:
 
 # ch/ayesha/fuck.rpy:1006
 translate russian ayesha_fuck_date_blowjob_102eccb9:
-    "Возможно, она утолила это прежнее чувство, когда ее губы двигались вверх по стволу."
+    "Возможно, она утолила это прежнее чувство, когда её губы двигались вверх по стволу."
 
 # ch/ayesha/fuck.rpy:1007
 translate russian ayesha_fuck_date_blowjob_0748e3c0:
@@ -19606,15 +19606,15 @@ translate russian ayesha_fuck_date_blowjob_a1970651:
 
 # ch/ayesha/fuck.rpy:1009
 translate russian ayesha_fuck_date_blowjob_615c6611:
-    "Я задерживаю дыхание, чувствуя мягкость ее губ, а затем внезапный контраст ее зубов."
+    "Я задерживаю дыхание, чувствуя мягкость её губ, а затем внезапный контраст её зубов."
 
 # ch/ayesha/fuck.rpy:1010
 translate russian ayesha_fuck_date_blowjob_996c7aec:
-    "Прежде чем я успеваю слишком сильно беспокоиться о том, что Айша может сделать дальше, меня отвлекает ее язык."
+    "Прежде чем я успеваю слишком сильно беспокоиться о том, что Айша может сделать дальше, меня отвлекает её язык."
 
 # ch/ayesha/fuck.rpy:1012
 translate russian ayesha_fuck_date_blowjob_169d76f0:
-    "Он обволакивает головку, а затем и ствол, когда все это уходит глубже в ее рот."
+    "Он обволакивает головку, а затем и ствол, когда все это уходит глубже в её рот."
 
 # ch/ayesha/fuck.rpy:1013
 translate russian ayesha_fuck_date_blowjob_ec41383c:
@@ -19642,19 +19642,19 @@ translate russian ayesha_fuck_date_blowjob_1c900991:
 
 # ch/ayesha/fuck.rpy:1020
 translate russian ayesha_fuck_date_blowjob_20bc79d9:
-    "Первое, что я вижу, это то, что Аиша почти на три четверти держит мой член во рту."
+    "Первое, что я вижу, это то, что Айша почти на три четверти держит мой член во рту."
 
 # ch/ayesha/fuck.rpy:1021
 translate russian ayesha_fuck_date_blowjob_c6a2ddf1:
-    "Ее голова быстро двигается вверх и вниз, пока она с энтузиазмом продолжает заниматься этим."
+    "Её голова быстро двигается вверх и вниз, пока она с энтузиазмом продолжает заниматься этим."
 
 # ch/ayesha/fuck.rpy:1022
 translate russian ayesha_fuck_date_blowjob_22be8d59:
-    "Я слышу звук ее сосания и облизывания, в то время как я чувствую это."
+    "Я слышу звук её сосания и облизывания, в то время как я чувствую это."
 
 # ch/ayesha/fuck.rpy:1023
 translate russian ayesha_fuck_date_blowjob_2cdfe70d:
-    "Щеки Аиши краснеют от напряжения, ее глаза закрыты от сосредоточенности."
+    "Щеки Айши краснеют от напряжения, её глаза закрыты от сосредоточенности."
 
 # ch/ayesha/fuck.rpy:1025
 translate russian ayesha_fuck_date_blowjob_84cecb13:
@@ -19662,11 +19662,11 @@ translate russian ayesha_fuck_date_blowjob_84cecb13:
 
 # ch/ayesha/fuck.rpy:1027
 translate russian ayesha_fuck_date_blowjob_04b3a0e9:
-    "Этот взгляд близости и подчинения в ее глазах так контрастирует с тем, как она на меня напала."
+    "Этот взгляд близости и подчинения в её глазах так контрастирует с тем, как она на меня напала."
 
 # ch/ayesha/fuck.rpy:1028
 translate russian ayesha_fuck_date_blowjob_c027b894:
-    "И, насколько это может показаться невероятным, именно это заставляет мое сердце начать бешено колотиться в груди."
+    "И, насколько это может показаться невероятным, именно это заставляет моё сердце начать бешено колотиться в груди."
 
 # ch/ayesha/fuck.rpy:1030
 translate russian ayesha_fuck_date_blowjob_b0153a9b:
@@ -19706,11 +19706,11 @@ translate russian ayesha_fuck_date_blowjob_c314a0aa:
 
 # ch/ayesha/fuck.rpy:1047
 translate russian ayesha_fuck_date_blowjob_fbcbfbda:
-    "Аиша моргает и начинает давиться, когда я пытаюсь вытащить свой член изо рта."
+    "Айша моргает и начинает давиться, когда я пытаюсь вытащить свой член изо рта."
 
 # ch/ayesha/fuck.rpy:1048
 translate russian ayesha_fuck_date_blowjob_22e6b0bd:
-    "Этот жест полностью ее удивляет, почти разрушая магию предыдущего момента."
+    "Этот жест полностью её удивляет, почти разрушая магию предыдущего момента."
 
 # ch/ayesha/fuck.rpy:1049
 translate russian ayesha_fuck_date_blowjob_958fc0f6:
@@ -19726,23 +19726,23 @@ translate russian ayesha_fuck_date_blowjob_0b9eb808:
 
 # ch/ayesha/fuck.rpy:1057
 translate russian ayesha_fuck_date_blowjob_e3ce8fc5:
-    "Как ни странно, Аиша только что открыла рот, чтобы спросить меня, что происходит."
+    "Как ни странно, Айша только что открыла рот, чтобы спросить меня, что происходит."
 
 # ch/ayesha/fuck.rpy:1061
 translate russian ayesha_fuck_date_blowjob_203c1283:
-    "Что означает, что, когда мой член выталкивает все, что у него есть, более половины попадает прямо ей в лицо."
+    "Что означает, что, когда мой член выталкивает всё, что у него есть, более половины попадает прямо ей в лицо."
 
 # ch/ayesha/fuck.rpy:1062
 translate russian ayesha_fuck_date_blowjob_4c508b07:
-    "Ее губы сомкнулись, но я вижу и слышу, как жидкость стекает по ее горлу."
+    "Её губы сомкнулись, но я вижу и слышу, как жидкость стекает по её горлу."
 
 # ch/ayesha/fuck.rpy:1063
 translate russian ayesha_fuck_date_blowjob_6a6e5215:
-    "Остальное поднимается выше и разбрызгивается вокруг ее глаз и лба."
+    "Остальное поднимается выше и разбрызгивается вокруг её глаз и лба."
 
 # ch/ayesha/fuck.rpy:1064
 translate russian ayesha_fuck_date_blowjob_53a826db:
-    "А затем, под действием силы тяжести, это стекает по ее глазам, носу и щекам."
+    "А затем, под действием силы тяжести, это стекает по её глазам, носу и щекам."
 
 # ch/ayesha/fuck.rpy:1066
 translate russian ayesha_fuck_date_blowjob_4e2f4278:
@@ -19778,7 +19778,7 @@ translate russian ayesha_fuck_date_blowjob_90dcca3b:
 
 # ch/ayesha/fuck.rpy:1080
 translate russian ayesha_fuck_date_blowjob_97a74c81:
-    "Она должна знать, что вот-вот произойдет, и поэтому я предполагаю, что ей это тоже нужно."
+    "Она должна знать, что вот-вот произойдёт, и поэтому я предполагаю, что ей это тоже нужно."
 
 # ch/ayesha/fuck.rpy:1084
 translate russian ayesha_fuck_date_blowjob_9ee2ed12:
@@ -19786,11 +19786,11 @@ translate russian ayesha_fuck_date_blowjob_9ee2ed12:
 
 # ch/ayesha/fuck.rpy:1086
 translate russian ayesha_fuck_date_blowjob_dbc0426d:
-    "Айша закашливается и хрипит, когда я извергаю сперму в ее рот."
+    "Айша закашливается и хрипит, когда я извергаю сперму в её рот."
 
 # ch/ayesha/fuck.rpy:1088
 translate russian ayesha_fuck_date_blowjob_78ef8701:
-    "Но она не показывает никаких признаков того, что это слишком для нее."
+    "Но она не показывает никаких признаков того, что это слишком для неё."
 
 # ch/ayesha/fuck.rpy:1089
 translate russian ayesha_fuck_date_blowjob_cb2a7217:
@@ -19802,15 +19802,15 @@ translate russian ayesha_fuck_date_blowjob_ae7061f3:
 
 # ch/ayesha/fuck.rpy:1092
 translate russian ayesha_fuck_date_blowjob_c4cf2bff:
-    "Это вытекает из-под ее губ и стекает обратно по тем нескольким сантиметрам моего члена, которые не находятся у нее во рту."
+    "Это вытекает из-под её губ и стекает обратно по тем нескольким сантиметрам моего члена, которые не находятся у неё во рту."
 
 # ch/ayesha/fuck.rpy:1093
 translate russian ayesha_fuck_date_blowjob_ef5367bd:
-    "Ее щеки сейчас ярко покраснели, но в ее глазах – такой интенсивный взгляд, который трудно понять."
+    "Её щеки сейчас ярко покраснели, но в её глазах — такой интенсивный взгляд, который трудно понять."
 
 # ch/ayesha/fuck.rpy:1094
 translate russian ayesha_fuck_date_blowjob_533d1fa0:
-    "Часть этого – подчинение, а большая часть, вероятно, усталость, которую она чувствует прямо сейчас."
+    "Часть этого — подчинение, а большая часть, вероятно, усталость, которую она чувствует прямо сейчас."
 
 # ch/ayesha/fuck.rpy:1095
 translate russian ayesha_fuck_date_blowjob_ef704f57:
@@ -19874,11 +19874,11 @@ translate russian ayesha_fuck_date_blowjob_efbabeca:
 
 # ch/ayesha/fuck.rpy:1120
 translate russian ayesha_fuck_date_blowjob_b4f333cc:
-    "Лежа на спине, я стараюсь оставаться максимально неподвижным, просто наблюдая за тем, как она двигается."
+    "Лёжа на спине, я стараюсь оставаться максимально неподвижным, просто наблюдая за тем, как она двигается."
 
 # ch/ayesha/fuck.rpy:1121
 translate russian ayesha_fuck_date_blowjob_733b87d1:
-    "Единственная часть меня, которая хоть немного двигается – это мой член, который не может удержаться и начинает набухать."
+    "Единственная часть меня, которая хоть немного двигается — это мой член, который не может удержаться и начинает набухать."
 
 # ch/ayesha/fuck.rpy:1122
 translate russian ayesha_fuck_date_blowjob_31347156:
@@ -19886,7 +19886,7 @@ translate russian ayesha_fuck_date_blowjob_31347156:
 
 # ch/ayesha/fuck.rpy:1123
 translate russian ayesha_fuck_date_blowjob_059ad6a7:
-    "И к тому моменту, когда она проползает между моих ног, он покачивается перед ее лицом, почти загораживая мой обзор."
+    "И к тому моменту, когда она проползает между моих ног, он покачивается перед её лицом, почти загораживая мой обзор."
 
 # ch/ayesha/fuck.rpy:1125
 translate russian ayesha_fuck_date_blowjob_6f6c06bd:
@@ -19910,15 +19910,15 @@ translate russian ayesha_fuck_date_blowjob_6a7447c7:
 
 # ch/ayesha/fuck.rpy:1131
 translate russian ayesha_fuck_date_blowjob_f1acd9eb:
-    "То, что следует за этим – довольно сложно описать словами."
+    "То, что следует за этим — довольно сложно описать словами."
 
 # ch/ayesha/fuck.rpy:1132
 translate russian ayesha_fuck_date_blowjob_a0b37c2d:
-    "Скажу лишь, что ощущение от того, как Айша сосет мои яички, достаточно, чтобы я схватил простыни кровати."
+    "Скажу лишь, что ощущение от того, как Айша сосёт мои яички, достаточно, чтобы я схватил простыни кровати."
 
 # ch/ayesha/fuck.rpy:1133
 translate russian ayesha_fuck_date_blowjob_fe44d60b:
-    "В один момент я думаю, что боль станет невыносимой, а в следующий – что она заставит меня кончить."
+    "В один момент я думаю, что боль станет невыносимой, а в следующий — что она заставит меня кончить."
 
 # ch/ayesha/fuck.rpy:1134
 translate russian ayesha_fuck_date_blowjob_2553eaf1:
@@ -19926,7 +19926,7 @@ translate russian ayesha_fuck_date_blowjob_2553eaf1:
 
 # ch/ayesha/fuck.rpy:1135
 translate russian ayesha_fuck_date_blowjob_b319edf0:
-    "Или, возможно, она чувствует, что я могу кончить слишком рано и лишить ее большего удовольствия."
+    "Или, возможно, она чувствует, что я могу кончить слишком рано и лишить её большего удовольствия."
 
 # ch/ayesha/fuck.rpy:1136
 translate russian ayesha_fuck_date_blowjob_e370797c:
@@ -19934,7 +19934,7 @@ translate russian ayesha_fuck_date_blowjob_e370797c:
 
 # ch/ayesha/fuck.rpy:1137
 translate russian ayesha_fuck_date_blowjob_3314b09b:
-    "прежде чем я успеваю почувствовать хоть малейшее разочарование, я ощущаю ее губы на моей члене."
+    "прежде чем я успеваю почувствовать хоть малейшее разочарование, я ощущаю её губы на моей члене."
 
 # ch/ayesha/fuck.rpy:1142
 translate russian ayesha_fuck_date_blowjob_ef809aba:
@@ -19942,7 +19942,7 @@ translate russian ayesha_fuck_date_blowjob_ef809aba:
 
 # ch/ayesha/fuck.rpy:1143
 translate russian ayesha_fuck_date_blowjob_5fa70df7:
-    "Ее движения такие же медленные, как и раньше, словно она наслаждается каждым мгновением этого процесса."
+    "Её движения такие же медленные, как и раньше, словно она наслаждается каждым мгновением этого процесса."
 
 # ch/ayesha/fuck.rpy:1144
 translate russian ayesha_fuck_date_blowjob_7a8e3e0e:
@@ -19950,11 +19950,11 @@ translate russian ayesha_fuck_date_blowjob_7a8e3e0e:
 
 # ch/ayesha/fuck.rpy:1145
 translate russian ayesha_fuck_date_blowjob_6b7386f2:
-    "...вид ее влажных губ, когда мне удается на них взглянуть."
+    "...вид её влажных губ, когда мне удаётся на них взглянуть."
 
 # ch/ayesha/fuck.rpy:1146
 translate russian ayesha_fuck_date_blowjob_63dbe626:
-    "...или звук, который они издают, скользя по моей коже и соприкасаясь с ее языком."
+    "...или звук, который они издают, скользя по моей коже и соприкасаясь с её языком."
 
 # ch/ayesha/fuck.rpy:1147
 translate russian ayesha_fuck_date_blowjob_3bad31db:
@@ -19970,11 +19970,11 @@ translate russian ayesha_fuck_date_blowjob_6678a444:
 
 # ch/ayesha/fuck.rpy:1150
 translate russian ayesha_fuck_date_blowjob_9c80f0e5:
-    "Еще до того, как я успеваю полностью осознать ощущение моего члена внутри ее рта, она проглатывает еще больше."
+    "Ещё до того, как я успеваю полностью осознать ощущение моего члена внутри её рта, она проглатывает ещё больше."
 
 # ch/ayesha/fuck.rpy:1151
 translate russian ayesha_fuck_date_blowjob_ef6fdd97:
-    "Она не делает ни пауз, ни колебаний, и вскоре почти половина его длины оказывается у нее во рту."
+    "Она не делает ни пауз, ни колебаний, и вскоре почти половина его длины оказывается у неё во рту."
 
 # ch/ayesha/fuck.rpy:1153
 translate russian ayesha_fuck_date_blowjob_a91fbb51:
@@ -19986,15 +19986,15 @@ translate russian ayesha_fuck_date_blowjob_7aa689ed:
 
 # ch/ayesha/fuck.rpy:1155
 translate russian ayesha_fuck_date_blowjob_55695779:
-    "Просто глядя на это, я чувствую желание ощутить, как мой член давит на ее влагалище."
+    "Просто глядя на это, я чувствую желание ощутить, как мой член давит на её влагалище."
 
 # ch/ayesha/fuck.rpy:1156
 translate russian ayesha_fuck_date_blowjob_58b2e323:
-    "К этому моменту рот Айши почти доходит до моих яиц, ее глаза закрыты, она сосредоточена на том, что делает."
+    "К этому моменту рот Айши почти доходит до моих яиц, её глаза закрыты, она сосредоточена на том, что делает."
 
 # ch/ayesha/fuck.rpy:1157
 translate russian ayesha_fuck_date_blowjob_5b5e9b16:
-    "Несмотря на то, что ее голова двигается лишь слегка, ощущение все равно невероятное."
+    "Несмотря на то, что её голова двигается лишь слегка, ощущение всё равно невероятное."
 
 # ch/ayesha/fuck.rpy:1159
 translate russian ayesha_fuck_date_blowjob_d60aab03:
@@ -20002,15 +20002,15 @@ translate russian ayesha_fuck_date_blowjob_d60aab03:
 
 # ch/ayesha/fuck.rpy:1160
 translate russian ayesha_fuck_date_blowjob_cad33993:
-    "Я понятия не имею, насколько глубоко Аиша засунула мой член в свою горло на этом этапе."
+    "Я понятия не имею, насколько глубоко Айша засунула мой член в свою горло на этом этапе."
 
 # ch/ayesha/fuck.rpy:1161
 translate russian ayesha_fuck_date_blowjob_ae205d94:
-    "Но звуки, которые доносятся из ее рта, заставляют меня думать, что ей трудно дышать."
+    "Но звуки, которые доносятся из её рта, заставляют меня думать, что ей трудно дышать."
 
 # ch/ayesha/fuck.rpy:1162
 translate russian ayesha_fuck_date_blowjob_12bda8bb:
-    "Что делает тот факт, что я вот-вот получу оргазм, еще более желанным..."
+    "Что делает тот факт, что я вот-вот получу оргазм, ещё более желанным..."
 
 # ch/ayesha/fuck.rpy:1165
 translate russian ayesha_fuck_date_blowjob_5c262096:
@@ -20038,11 +20038,11 @@ translate russian ayesha_fuck_date_blowjob_a28985bb:
 
 # ch/ayesha/fuck.rpy:1177
 translate russian ayesha_fuck_date_blowjob_3cd2399a:
-    "Мои руки вытягиваются вперед и хватают голову Аиши, чтобы она не смогла выбраться."
+    "Мои руки вытягиваются вперёд и хватают голову Айши, чтобы она не смогла выбраться."
 
 # ch/ayesha/fuck.rpy:1179
 translate russian ayesha_fuck_date_blowjob_d1ad70e0:
-    "Ее глаза широко открываются от этого, но она ни разу не пытается вырваться из моей хватки."
+    "Её глаза широко открываются от этого, но она ни разу не пытается вырваться из моей хватки."
 
 # ch/ayesha/fuck.rpy:1180
 translate russian ayesha_fuck_date_blowjob_5339ec44:
@@ -20050,11 +20050,11 @@ translate russian ayesha_fuck_date_blowjob_5339ec44:
 
 # ch/ayesha/fuck.rpy:1182
 translate russian ayesha_fuck_date_blowjob_4cbd1078:
-    "А затем я отдаюсь этому чувству, мой член глубоко зарывается в ее рот."
+    "А затем я отдаюсь этому чувству, мой член глубоко зарывается в её рот."
 
 # ch/ayesha/fuck.rpy:1185
 translate russian ayesha_fuck_date_blowjob_3b0f3c92:
-    "Аиша кашляет и захлебывается, когда сперма попадает ей в горло."
+    "Айша кашляет и захлёбывается, когда сперма попадает ей в горло."
 
 # ch/ayesha/fuck.rpy:1187
 translate russian ayesha_fuck_date_blowjob_bb1667b3:
@@ -20062,15 +20062,15 @@ translate russian ayesha_fuck_date_blowjob_bb1667b3:
 
 # ch/ayesha/fuck.rpy:1188
 translate russian ayesha_fuck_date_blowjob_05210ca0:
-    "Все время она смотрит на меня, показывая мне, что позволяет мне делать это с ней."
+    "Всё время она смотрит на меня, показывая мне, что позволяет мне делать это с ней."
 
 # ch/ayesha/fuck.rpy:1189
 translate russian ayesha_fuck_date_blowjob_10c7895f:
-    "И затем, наконец, когда я полностью израсходован, я отпускаю ее."
+    "И затем, наконец, когда я полностью израсходован, я отпускаю её."
 
 # ch/ayesha/fuck.rpy:1190
 translate russian ayesha_fuck_date_blowjob_e2ca82a3:
-    "Аиша отрывает свой рот от моего члена и жадно вдыхает воздух."
+    "Айша отрывает свой рот от моего члена и жадно вдыхает воздух."
 
 # ch/ayesha/fuck.rpy:1192
 translate russian ayesha_fuck_date_blowjob_8b0f4e11:
@@ -20094,11 +20094,11 @@ translate russian ayesha_fuck_date_blowjob_1612017c:
 
 # ch/ayesha/fuck.rpy:1200
 translate russian ayesha_fuck_date_blowjob_c9412aa8:
-    "Мои руки вытягиваются вперед и хватают голову Аиши, и я отрываю ее от моего члена."
+    "Мои руки вытягиваются вперёд и хватают голову Айши, и я отрываю её от моего члена."
 
 # ch/ayesha/fuck.rpy:1202
 translate russian ayesha_fuck_date_blowjob_d1ad70e0_1:
-    "Ее глаза широко открываются от этого, но она ни разу не пытается вырваться из моей хватки."
+    "Её глаза широко открываются от этого, но она ни разу не пытается вырваться из моей хватки."
 
 # ch/ayesha/fuck.rpy:1203
 translate russian ayesha_fuck_date_blowjob_5339ec44_1:
@@ -20106,11 +20106,11 @@ translate russian ayesha_fuck_date_blowjob_5339ec44_1:
 
 # ch/ayesha/fuck.rpy:1204
 translate russian ayesha_fuck_date_blowjob_434a984e:
-    "Я позволил себе расслабиться, и мой член все еще покачивался перед ее лицом."
+    "Я позволил себе расслабиться, и мой член всё ещё покачивался перед её лицом."
 
 # ch/ayesha/fuck.rpy:1206
 translate russian ayesha_fuck_date_blowjob_67f22bda:
-    "Сперма попала ей прямо между глаз, заставив ее закрыть их."
+    "Сперма попала ей прямо между глаз, заставив её закрыть их."
 
 # ch/ayesha/fuck.rpy:1208
 translate russian ayesha_fuck_date_blowjob_a4b707d3:
@@ -20118,7 +20118,7 @@ translate russian ayesha_fuck_date_blowjob_a4b707d3:
 
 # ch/ayesha/fuck.rpy:1210
 translate russian ayesha_fuck_date_blowjob_73cd5cce:
-    "Потоки липкой, белой спермы начали стекать по ее щекам и по бокам носа."
+    "Потоки липкой, белой спермы начали стекать по её щекам и по бокам носа."
 
 # ch/ayesha/fuck.rpy:1211
 translate russian ayesha_fuck_date_blowjob_c247d1c5:
@@ -20142,7 +20142,7 @@ translate russian ayesha_fuck_date_blowjob_045eede0:
 
 # ch/ayesha/fuck.rpy:1218
 translate russian ayesha_fuck_date_blowjob_10c7895f_1:
-    "И затем, наконец, когда я полностью израсходован, я отпускаю ее."
+    "И затем, наконец, когда я полностью израсходован, я отпускаю её."
 
 # ch/ayesha/fuck.rpy:1221
 translate russian ayesha_fuck_date_blowjob_ac9e250b:
@@ -20166,7 +20166,7 @@ translate russian ayesha_fuck_date_blowjob_5839d28a:
 
 # ch/ayesha/fuck.rpy:1228
 translate russian ayesha_fuck_date_blowjob_2a968142:
-    "Несмотря на то, насколько она, казалось, удовлетворена, я не пытался ее разбудить."
+    "Несмотря на то, насколько она, казалось, удовлетворена, я не пытался её разбудить."
 
 # ch/ayesha/fuck.rpy:1229
 translate russian ayesha_fuck_date_blowjob_85337e16:
@@ -20174,23 +20174,23 @@ translate russian ayesha_fuck_date_blowjob_85337e16:
 
 # ch/ayesha/fuck.rpy:1304
 translate russian ayesha_fuck_date_cunnilingus_d81b84ac:
-    "Ресницы Айши коснулись моей щеки, ее дыхание было теплым у моего уха."
+    "Ресницы Айши коснулись моей щеки, её дыхание было тёплым у моего уха."
 
 # ch/ayesha/fuck.rpy:1305
 translate russian ayesha_fuck_date_cunnilingus_51f8c694:
-    "Но все же она не решалась взять инициативу на себя, позволяя мне крепко обнять ее."
+    "Но все же она не решалась взять инициативу на себя, позволяя мне крепко обнять её."
 
 # ch/ayesha/fuck.rpy:1306
 translate russian ayesha_fuck_date_cunnilingus_c459151a:
-    "Я держал ее при себе около получай минуты, лаская ее великолепное тело руками."
+    "Я держал её при себе около получай минуты, лаская её великолепное тело руками."
 
 # ch/ayesha/fuck.rpy:1307
 translate russian ayesha_fuck_date_cunnilingus_fc7e08b9:
-    "Затем я осторожно и медленно положил ее на кровать, следуя за ней, когда она откинулась назад."
+    "Затем я осторожно и медленно положил её на кровать, следуя за ней, когда она откинулась назад."
 
 # ch/ayesha/fuck.rpy:1308
 translate russian ayesha_fuck_date_cunnilingus_60c096b4:
-    "Сначала я просто лег сверху на Айшу, наслаждаясь ощущением ее тела, раскинувшегося под собой."
+    "Сначала я просто лёг сверху на Айшу, наслаждаясь ощущением её тела, раскинувшегося под собой."
 
 # ch/ayesha/fuck.rpy:1309
 translate russian ayesha_fuck_date_cunnilingus_6d2196f9:
@@ -20198,19 +20198,19 @@ translate russian ayesha_fuck_date_cunnilingus_6d2196f9:
 
 # ch/ayesha/fuck.rpy:1310
 translate russian ayesha_fuck_date_cunnilingus_184cc465:
-    "Я целую ее в рот на мгновение, а затем начинаю двигаться ниже."
+    "Я целую её в рот на мгновение, а затем начинаю двигаться ниже."
 
 # ch/ayesha/fuck.rpy:1311
 translate russian ayesha_fuck_date_cunnilingus_3da1d9f8:
-    "Айша запрокидывает голову назад на подушки, когда я целую ее в шею, а затем перехожу к ее груди."
+    "Айша запрокидывает голову назад на подушки, когда я целую её в шею, а затем перехожу к её груди."
 
 # ch/ayesha/fuck.rpy:1312
 translate russian ayesha_fuck_date_cunnilingus_b2b66d8a:
-    "Я не тороплюсь с ее животом, ощущая рельеф ее упругих мышц, которые подергиваются под кожей."
+    "Я не тороплюсь с её животом, ощущая рельеф её упругих мышц, которые подёргиваются под кожей."
 
 # ch/ayesha/fuck.rpy:1313
 translate russian ayesha_fuck_date_cunnilingus_bd8b80d6:
-    "И когда я опускаюсь ниже ее талии, я намеренно обхожу мягкие, нежные губы ее влагалища."
+    "И когда я опускаюсь ниже её талии, я намеренно обхожу мягкие, нежные губы её влагалища."
 
 # ch/ayesha/fuck.rpy:1314
 translate russian ayesha_fuck_date_cunnilingus_8fc952f0:
@@ -20218,7 +20218,7 @@ translate russian ayesha_fuck_date_cunnilingus_8fc952f0:
 
 # ch/ayesha/fuck.rpy:1318
 translate russian ayesha_fuck_date_cunnilingus_22c03c49:
-    "Она переворачивается на живот и затем встает на четвереньки."
+    "Она переворачивается на живот и затем встаёт на четвереньки."
 
 # ch/ayesha/fuck.rpy:1319
 translate russian ayesha_fuck_date_cunnilingus_6bf8f324:
@@ -20226,7 +20226,7 @@ translate russian ayesha_fuck_date_cunnilingus_6bf8f324:
 
 # ch/ayesha/fuck.rpy:1320
 translate russian ayesha_fuck_date_cunnilingus_2fd0c873:
-    ayesha.say "Черт..."
+    ayesha.say "Чёрт..."
 
 # ch/ayesha/fuck.rpy:1321
 translate russian ayesha_fuck_date_cunnilingus_10f32bd2:
@@ -20250,19 +20250,19 @@ translate russian ayesha_fuck_date_cunnilingus_b8772bcf:
 
 # ch/ayesha/fuck.rpy:1326
 translate russian ayesha_fuck_date_cunnilingus_91e3b8db:
-    "В любом случае, это делает меня еще более решительным сделать все хорошо."
+    "В любом случае, это делает меня ещё более решительным сделать всё хорошо."
 
 # ch/ayesha/fuck.rpy:1330
 translate russian ayesha_fuck_date_cunnilingus_2b7ca609:
-    "И если она думает, что будет лучше с этого ракурса, то черт его знает."
+    "И если она думает, что будет лучше с этого ракурса, то чёрт его знает."
 
 # ch/ayesha/fuck.rpy:1331
 translate russian ayesha_fuck_date_cunnilingus_2069803c:
-    "Я (Майк) думаю о том, что это делает вкус ее влагалища, который одновременно и горький, и невероятно привлекательный, еще более восхитительным на моем языке."
+    "Я (Майк) думаю о том, что это делает вкус её влагалища, который одновременно и горький, и невероятно привлекательный, ещё более восхитительным на моём языке."
 
 # ch/ayesha/fuck.rpy:1332
 translate russian ayesha_fuck_date_cunnilingus_831d393d:
-    "И когда я наконец сдаюсь и начинаю проникать внутрь нее, я чувствую трепет, как будто облизываю живую батарейку."
+    "И когда я наконец сдаюсь и начинаю проникать внутрь неё, я чувствую трепет, как будто облизываю живую батарейку."
 
 # ch/ayesha/fuck.rpy:1333
 translate russian ayesha_fuck_date_cunnilingus_dc88e730:
@@ -20270,11 +20270,11 @@ translate russian ayesha_fuck_date_cunnilingus_dc88e730:
 
 # ch/ayesha/fuck.rpy:1334
 translate russian ayesha_fuck_date_cunnilingus_410febcd:
-    "Ее взгляд сосредоточен только на мне."
+    "Её взгляд сосредоточен только на мне."
 
 # ch/ayesha/fuck.rpy:1335
 translate russian ayesha_fuck_date_cunnilingus_9fda8606:
-    "Я (Майк) думаю о том, что одна из ее рук играет с ее грудью, возможно, пытаясь повторить прикосновение моей руки."
+    "Я (Майк) думаю о том, что одна из её рук играет с её грудью, возможно, пытаясь повторить прикосновение моей руки."
 
 # ch/ayesha/fuck.rpy:1336
 translate russian ayesha_fuck_date_cunnilingus_e47c5eba:
@@ -20382,7 +20382,7 @@ translate russian ayesha_fuck_date_cunnilingus_2d9616cf:
 
 # ch/ayesha/fuck.rpy:1378
 translate russian ayesha_fuck_date_cunnilingus_a53c5ca7:
-    "Мой язык работает неустанно, почти начинает сводить судорогой, но я еще не добрался до середины."
+    "Мой язык работает неустанно, почти начинает сводить судорогой, но я ещё не добрался до середины."
 
 # ch/ayesha/fuck.rpy:1386
 translate russian ayesha_fuck_date_cunnilingus_f124aff9:
@@ -20418,7 +20418,7 @@ translate russian ayesha_fuck_date_cunnilingus_1f76a90a:
 
 # ch/ayesha/fuck.rpy:1398
 translate russian ayesha_fuck_date_cunnilingus_9aa79b58:
-    "Я (Майк) думаю о том, что вкус ее влагалища все еще ощущается на моем языке."
+    "Я (Майк) думаю о том, что вкус её влагалища всё ещё ощущается на моём языке."
 
 # ch/ayesha/fuck.rpy:1400
 translate russian ayesha_fuck_date_cunnilingus_2d9616cf_1:
@@ -20430,11 +20430,11 @@ translate russian ayesha_fuck_date_cunnilingus_bace4f86:
 
 # ch/ayesha/fuck.rpy:1402
 translate russian ayesha_fuck_date_cunnilingus_e896c412:
-    "Я слышу, как Айша начинает стонать и плакать от моих действий, что только подстегивает меня делать больше."
+    "Я слышу, как Айша начинает стонать и плакать от моих действий, что только подстёгивает меня делать больше."
 
 # ch/ayesha/fuck.rpy:1403
 translate russian ayesha_fuck_date_cunnilingus_a5fac01a:
-    "И вскоре ее крики превращаются в настоящие вопли чистого, ничем не замутненного наслаждения."
+    "И вскоре её крики превращаются в настоящие вопли чистого, ничем не замутненного наслаждения."
 
 # ch/ayesha/fuck.rpy:1405
 translate russian ayesha_fuck_date_cunnilingus_a005f8fb:
@@ -20466,15 +20466,15 @@ translate russian ayesha_fuck_date_cunnilingus_ff21ef89:
 
 # ch/ayesha/fuck.rpy:1414
 translate russian ayesha_fuck_date_cunnilingus_33a31e97:
-    "Я чувствую, как напрягаются ее мышцы, и я прижимаюсь лицом еще ближе к ее влагалищу."
+    "Я чувствую, как напрягаются её мышцы, и я прижимаюсь лицом ещё ближе к её влагалищу."
 
 # ch/ayesha/fuck.rpy:1415
 translate russian ayesha_fuck_date_cunnilingus_1da2ae21:
-    "На мгновение мне кажется, что я задохнусь, уткнувшись в ее пах."
+    "На мгновение мне кажется, что я задохнусь, уткнувшись в её пах."
 
 # ch/ayesha/fuck.rpy:1416
 translate russian ayesha_fuck_date_cunnilingus_c7579611:
-    "Но затем я чувствую, как все ее тело начинает судорожно дрожать."
+    "Но затем я чувствую, как все её тело начинает судорожно дрожать."
 
 # ch/ayesha/fuck.rpy:1417
 translate russian ayesha_fuck_date_cunnilingus_7bfd1a5b:
@@ -20482,7 +20482,7 @@ translate russian ayesha_fuck_date_cunnilingus_7bfd1a5b:
 
 # ch/ayesha/fuck.rpy:1425
 translate russian ayesha_fuck_date_cunnilingus_856dc45e:
-    "И поэтому я до конца переживаю этот момент, прижавшись лицом к ее влагалищу."
+    "И поэтому я до конца переживаю этот момент, прижавшись лицом к её влагалищу."
 
 # ch/ayesha/fuck.rpy:1427
 translate russian ayesha_fuck_date_cunnilingus_97f13da8:
@@ -20514,7 +20514,7 @@ translate russian ayesha_fuck_date_cunnilingus_8b0fb826:
 
 # ch/ayesha/fuck.rpy:1438
 translate russian ayesha_fuck_date_cunnilingus_fa426b50:
-    "Но как только она появляется у меня в голове, я никак не могу от нее избавиться."
+    "Но как только она появляется у меня в голове, я никак не могу от неё избавиться."
 
 # ch/ayesha/fuck.rpy:1439
 translate russian ayesha_fuck_date_cunnilingus_53634e53:
@@ -20526,7 +20526,7 @@ translate russian ayesha_fuck_date_cunnilingus_8310010c:
 
 # ch/ayesha/fuck.rpy:1442
 translate russian ayesha_fuck_date_cunnilingus_28a90ea3:
-    "Затем я наклоняюсь вперед, проталкивая свой язык между ними."
+    "Затем я наклоняюсь вперёд, проталкивая свой язык между ними."
 
 # ch/ayesha/fuck.rpy:1444
 translate russian ayesha_fuck_date_cunnilingus_96a3afa4:
@@ -20550,7 +20550,7 @@ translate russian ayesha_fuck_date_cunnilingus_c9ae970c:
 
 # ch/ayesha/fuck.rpy:1451
 translate russian ayesha_fuck_date_cunnilingus_a53c5ca7_1:
-    "Мой язык работает неустанно, почти начинает сводить судорогой, но я еще не добрался до середины."
+    "Мой язык работает неустанно, почти начинает сводить судорогой, но я ещё не добрался до середины."
 
 # ch/ayesha/fuck.rpy:1459
 translate russian ayesha_fuck_date_cunnilingus_f124aff9_1:
@@ -20590,7 +20590,7 @@ translate russian ayesha_fuck_date_cunnilingus_1f76a90a_1:
 
 # ch/ayesha/fuck.rpy:1472
 translate russian ayesha_fuck_date_cunnilingus_cd2b780a:
-    "Вкус ее сладкого пота все еще ощущается на моем языке."
+    "Вкус её сладкого пота всё ещё ощущается на моём языке."
 
 # ch/ayesha/fuck.rpy:1474
 translate russian ayesha_fuck_date_cunnilingus_c9ae970c_1:
@@ -20602,11 +20602,11 @@ translate russian ayesha_fuck_date_cunnilingus_bace4f86_1:
 
 # ch/ayesha/fuck.rpy:1476
 translate russian ayesha_fuck_date_cunnilingus_e896c412_1:
-    "Я слышу, как Айша начинает стонать и плакать от моих действий, что только подстегивает меня делать больше."
+    "Я слышу, как Айша начинает стонать и плакать от моих действий, что только подстёгивает меня делать больше."
 
 # ch/ayesha/fuck.rpy:1477
 translate russian ayesha_fuck_date_cunnilingus_a5fac01a_1:
-    "И вскоре ее крики превращаются в настоящие вопли чистого, ничем не замутненного наслаждения."
+    "И вскоре её крики превращаются в настоящие вопли чистого, ничем не замутненного наслаждения."
 
 # ch/ayesha/fuck.rpy:1479
 translate russian ayesha_fuck_date_cunnilingus_a005f8fb_1:
@@ -20642,15 +20642,15 @@ translate russian ayesha_fuck_date_cunnilingus_ff21ef89_1:
 
 # ch/ayesha/fuck.rpy:1489
 translate russian ayesha_fuck_date_cunnilingus_fcd40aa4:
-    "Я чувствую, как напрягаются ее мышцы, и прижимаюсь еще сильнее лицом к ее влагалищу."
+    "Я чувствую, как напрягаются её мышцы, и прижимаюсь ещё сильнее лицом к её влагалищу."
 
 # ch/ayesha/fuck.rpy:1490
 translate russian ayesha_fuck_date_cunnilingus_1da2ae21_1:
-    "На мгновение мне кажется, что я задохнусь, уткнувшись в ее пах."
+    "На мгновение мне кажется, что я задохнусь, уткнувшись в её пах."
 
 # ch/ayesha/fuck.rpy:1491
 translate russian ayesha_fuck_date_cunnilingus_c7579611_1:
-    "Но затем я чувствую, как все ее тело начинает судорожно дрожать."
+    "Но затем я чувствую, как все её тело начинает судорожно дрожать."
 
 # ch/ayesha/fuck.rpy:1492
 translate russian ayesha_fuck_date_cunnilingus_7bfd1a5b_1:
@@ -21178,11 +21178,11 @@ translate russian ayesha_fuck_date_standing_126cf2dd:
 
 # ch/ayesha/fuck.rpy:1816
 translate russian ayesha_fuck_date_reversecowgirl_c338417a:
-    "Лежа на спине, я кладу обе руки на талию Айши и направляю ее назад, пока она не окажется верхом на мне."
+    "Лёжа на спине, я кладу обе руки на талию Айши и направляю её назад, пока она не окажется верхом на мне."
 
 # ch/ayesha/fuck.rpy:1817
 translate russian ayesha_fuck_date_reversecowgirl_259cb7f2:
-    "Она подходит ко мне без малейшего намека на протест, оглядывается через плечо с улыбкой на лице."
+    "Она подходит ко мне без малейшего намёка на протест, оглядывается через плечо с улыбкой на лице."
 
 # ch/ayesha/fuck.rpy:1821
 translate russian ayesha_fuck_date_reversecowgirl_9614a429:
@@ -21194,11 +21194,11 @@ translate russian ayesha_fuck_date_reversecowgirl_10f32bd2:
 
 # ch/ayesha/fuck.rpy:1823
 translate russian ayesha_fuck_date_reversecowgirl_cbbcbc65:
-    "Я удивленно поднимаю голову, услышав голос Айши."
+    "Я удивлённо поднимаю голову, услышав голос Айши."
 
 # ch/ayesha/fuck.rpy:1824
 translate russian ayesha_fuck_date_reversecowgirl_bf43621e:
-    "И я поднимаю брови, показывая, что она привлекла мое внимание."
+    "И я поднимаю брови, показывая, что она привлекла моё внимание."
 
 # ch/ayesha/fuck.rpy:1825
 translate russian ayesha_fuck_date_reversecowgirl_57e524b0:
@@ -21214,7 +21214,7 @@ translate russian ayesha_fuck_date_reversecowgirl_19f2caf3:
 
 # ch/ayesha/fuck.rpy:1828
 translate russian ayesha_fuck_date_reversecowgirl_7a2044e9:
-    "Глаза Аиши загораются при одном упоминании этого слова."
+    "Глаза Айши загораются при одном упоминании этого слова."
 
 # ch/ayesha/fuck.rpy:1829
 translate russian ayesha_fuck_date_reversecowgirl_3d8d81cf:
@@ -21230,7 +21230,7 @@ translate russian ayesha_fuck_date_reversecowgirl_6ef6be92:
 
 # ch/ayesha/fuck.rpy:1834
 translate russian ayesha_fuck_date_reversecowgirl_cbbcbc65_1:
-    "Я удивленно поднимаю голову, услышав голос Айши."
+    "Я удивлённо поднимаю голову, услышав голос Айши."
 
 # ch/ayesha/fuck.rpy:1835
 translate russian ayesha_fuck_date_reversecowgirl_b879ba0e:
@@ -21262,11 +21262,11 @@ translate russian ayesha_fuck_date_reversecowgirl_85b7801f:
 
 # ch/ayesha/fuck.rpy:1851
 translate russian ayesha_fuck_date_reversecowgirl_2dc66763:
-    "Я мог бы сейчас распоряжаться Аишей абсолютно так, как захочу."
+    "Я мог бы сейчас распоряжаться Айшей абсолютно так, как захочу."
 
 # ch/ayesha/fuck.rpy:1852
 translate russian ayesha_fuck_date_reversecowgirl_32be9727:
-    "Но часть меня не может удержаться от воспоминаний о том, как я массировал ее напряженные мышцы до этого момента."
+    "Но часть меня не может удержаться от воспоминаний о том, как я массировал её напряжённые мышцы до этого момента."
 
 # ch/ayesha/fuck.rpy:1853
 translate russian ayesha_fuck_date_reversecowgirl_cbdcd168:
@@ -21278,7 +21278,7 @@ translate russian ayesha_fuck_date_reversecowgirl_0cf6907e:
 
 # ch/ayesha/fuck.rpy:1855
 translate russian ayesha_fuck_date_reversecowgirl_479c9673:
-    "Вот почему я слежу за тем, чтобы кончик моего члена был направлен к ее ягодицам, когда она садится на меня."
+    "Вот почему я слежу за тем, чтобы кончик моего члена был направлен к её ягодицам, когда она садится на меня."
 
 # ch/ayesha/fuck.rpy:1857
 translate russian ayesha_fuck_date_reversecowgirl_1e969a85:
@@ -21290,11 +21290,11 @@ translate russian ayesha_fuck_date_reversecowgirl_061e6b5f:
 
 # ch/ayesha/fuck.rpy:1859
 translate russian ayesha_fuck_date_reversecowgirl_90cf506f:
-    "Я чувствую, как Айша немного напрягается, когда головка моего члена начинает проникать в нее."
+    "Я чувствую, как Айша немного напрягается, когда головка моего члена начинает проникать в неё."
 
 # ch/ayesha/fuck.rpy:1860
 translate russian ayesha_fuck_date_reversecowgirl_0758d293:
-    "Но она не пытается вырваться из моей хватки, когда сила тяжести начинает брать свое."
+    "Но она не пытается вырваться из моей хватки, когда сила тяжести начинает брать своё."
 
 # ch/ayesha/fuck.rpy:1861
 translate russian ayesha_fuck_date_reversecowgirl_548d7576:
@@ -21306,7 +21306,7 @@ translate russian ayesha_fuck_date_reversecowgirl_7f4ef6dd:
 
 # ch/ayesha/fuck.rpy:1863
 translate russian ayesha_fuck_date_reversecowgirl_c0e2914f:
-    "С каждым сантиметром, на который Айша опускается, я чувствую, как напрягаются ее мышцы и как они протестуют."
+    "С каждым сантиметром, на который Айша опускается, я чувствую, как напрягаются её мышцы и как они протестуют."
 
 # ch/ayesha/fuck.rpy:1865
 translate russian ayesha_fuck_date_reversecowgirl_c6408ff1:
@@ -21314,15 +21314,15 @@ translate russian ayesha_fuck_date_reversecowgirl_c6408ff1:
 
 # ch/ayesha/fuck.rpy:1866
 translate russian ayesha_fuck_date_reversecowgirl_cceb2673:
-    "Но ощущение тех же самых мышц, когда они наконец сдаются, еще лучше."
+    "Но ощущение тех же самых мышц, когда они наконец сдаются, ещё лучше."
 
 # ch/ayesha/fuck.rpy:1867
 translate russian ayesha_fuck_date_reversecowgirl_05106aad:
-    "Айша выдыхает последний вздох облегчения, когда ее ягодицы касаются моих коленей."
+    "Айша выдыхает последний вздох облегчения, когда её ягодицы касаются моих коленей."
 
 # ch/ayesha/fuck.rpy:1868
 translate russian ayesha_fuck_date_reversecowgirl_40f0bc8c:
-    "И я вполне доволен тем, что позволяю ей отдохнуть там несколько мгновений, наслаждаясь ее весом на себе."
+    "И я вполне доволен тем, что позволяю ей отдохнуть там несколько мгновений, наслаждаясь её весом на себе."
 
 # ch/ayesha/fuck.rpy:1869
 translate russian ayesha_fuck_date_reversecowgirl_d63416ca:
@@ -21334,15 +21334,15 @@ translate russian ayesha_fuck_date_reversecowgirl_13f81ed0:
 
 # ch/ayesha/fuck.rpy:1871
 translate russian ayesha_fuck_date_reversecowgirl_807fc5e9:
-    "Звуки, которые она издает, почти идеально синхронизированы с моими движениями."
+    "Звуки, которые она издаёт, почти идеально синхронизированы с моими движениями."
 
 # ch/ayesha/fuck.rpy:1872
 translate russian ayesha_fuck_date_reversecowgirl_068b0622:
-    "Я чувствую, как эти звуки идеально дополняют ощущения, которые я испытываю в своем члене."
+    "Я чувствую, как эти звуки идеально дополняют ощущения, которые я испытываю в своём члене."
 
 # ch/ayesha/fuck.rpy:1873
 translate russian ayesha_fuck_date_reversecowgirl_790bb1f4:
-    "Это значит, что очень скоро я начинаю терять счет того, что было раньше."
+    "Это значит, что очень скоро я начинаю терять счёт того, что было раньше."
 
 # ch/ayesha/fuck.rpy:1874
 translate russian ayesha_fuck_date_reversecowgirl_5c129633:
@@ -21350,7 +21350,7 @@ translate russian ayesha_fuck_date_reversecowgirl_5c129633:
 
 # ch/ayesha/fuck.rpy:1875
 translate russian ayesha_fuck_date_reversecowgirl_64d11373:
-    "Или же я так сильно бью ее задницу из-за тех звуков, которые она издает!"
+    "Или же я так сильно бью её задницу из-за тех звуков, которые она издаёт!"
 
 # ch/ayesha/fuck.rpy:1876
 translate russian ayesha_fuck_date_reversecowgirl_e877254d:
@@ -21370,7 +21370,7 @@ translate russian ayesha_fuck_date_reversecowgirl_7048c917:
 
 # ch/ayesha/fuck.rpy:1885
 translate russian ayesha_fuck_date_reversecowgirl_0bc3a3fe:
-    "Как только это происходит, ее стоны становятся еще громче, достигая пика в настоящем крике чистого наслаждения."
+    "Как только это происходит, её стоны становятся ещё громче, достигая пика в настоящем крике чистого наслаждения."
 
 # ch/ayesha/fuck.rpy:1887
 translate russian ayesha_fuck_date_reversecowgirl_e2438849:
@@ -21378,11 +21378,11 @@ translate russian ayesha_fuck_date_reversecowgirl_e2438849:
 
 # ch/ayesha/fuck.rpy:1888
 translate russian ayesha_fuck_date_reversecowgirl_fadeee67:
-    "Она провисает назад, как марионетка, у которой перерезали нити, и я едва успеваю ее поймать."
+    "Она провисает назад, как марионетка, у которой перерезали нити, и я едва успеваю её поймать."
 
 # ch/ayesha/fuck.rpy:1889
 translate russian ayesha_fuck_date_reversecowgirl_aba8beb3:
-    "Я держу ее, пока она беспомощно дышит, мой член все еще глубоко внутри ее задницы."
+    "Я держу её, пока она беспомощно дышит, мой член всё ещё глубоко внутри её задницы."
 
 # ch/ayesha/fuck.rpy:1893
 translate russian ayesha_fuck_date_reversecowgirl_6b1b9bcf:
@@ -21390,23 +21390,23 @@ translate russian ayesha_fuck_date_reversecowgirl_6b1b9bcf:
 
 # ch/ayesha/fuck.rpy:1895
 translate russian ayesha_fuck_date_reversecowgirl_06a2d483:
-    "Но каким-то образом мне удается вытащить свой член из задницы Айши, даже несмотря на то, что она лежит сверху."
+    "Но каким-то образом мне удаётся вытащить свой член из задницы Айши, даже несмотря на то, что она лежит сверху."
 
 # ch/ayesha/fuck.rpy:1896
 translate russian ayesha_fuck_date_reversecowgirl_f6ac53fb:
-    "Она издает испуганный писк, когда он выскакивает у нее, и бросает взгляд через плечо."
+    "Она издаёт испуганный писк, когда он выскакивает у неё, и бросает взгляд через плечо."
 
 # ch/ayesha/fuck.rpy:1899
 translate russian ayesha_fuck_date_reversecowgirl_25247d04:
-    "Тем не менее, мое внимание полностью сосредоточено на том, как выглядит эффект моей эякуляции через секунду."
+    "Тем не менее, моё внимание полностью сосредоточено на том, как выглядит эффект моей эякуляции через секунду."
 
 # ch/ayesha/fuck.rpy:1905
 translate russian ayesha_fuck_date_reversecowgirl_de4b28b7:
-    "Весь объем спермы вырывается наружу, покрывая грудь Айши и медленно стекая вниз к ее животу."
+    "Весь объём спермы вырывается наружу, покрывая грудь Айши и медленно стекая вниз к её животу."
 
 # ch/ayesha/fuck.rpy:1906
 translate russian ayesha_fuck_date_reversecowgirl_14550d12:
-    "Все, что я могу делать, это тяжело дышать, отчаянно пытаясь набрать воздух, пока смотрю на это."
+    "Всё, что я могу делать, это тяжело дышать, отчаянно пытаясь набрать воздух, пока смотрю на это."
 
 # ch/ayesha/fuck.rpy:1911
 translate russian ayesha_fuck_date_reversecowgirl_deb45665:
@@ -21422,19 +21422,19 @@ translate russian ayesha_fuck_date_reversecowgirl_8bb7e109:
 
 # ch/ayesha/fuck.rpy:1914
 translate russian ayesha_fuck_date_reversecowgirl_a38c1fc8:
-    "И это заставляет меня задуматься о том, какое влияние мои действия оказали на то, что находится между ее ног..."
+    "И это заставляет меня задуматься о том, какое влияние мои действия оказали на то, что находится между её ног..."
 
 # ch/ayesha/fuck.rpy:1922
 translate russian ayesha_fuck_date_reversecowgirl_fe85363c:
-    "Еще до того, как у меня появится возможность принять осознанное решение, мои руки делают это за меня."
+    "Ещё до того, как у меня появится возможность принять осознанное решение, мои руки делают это за меня."
 
 # ch/ayesha/fuck.rpy:1927
 translate russian ayesha_fuck_date_reversecowgirl_1976899c:
-    "Айша вскрикивает от неожиданности, когда понимает, что ее тянут вниз и к себе."
+    "Айша вскрикивает от неожиданности, когда понимает, что её тянут вниз и к себе."
 
 # ch/ayesha/fuck.rpy:1928
 translate russian ayesha_fuck_date_reversecowgirl_92f68406:
-    "И даже звуки, которые она издает, кажутся смягченными, превращаясь в тихий, чувственный стон."
+    "И даже звуки, которые она издаёт, кажутся смягченными, превращаясь в тихий, чувственный стон."
 
 # ch/ayesha/fuck.rpy:1929
 translate russian ayesha_fuck_date_reversecowgirl_9243b627:
@@ -21442,15 +21442,15 @@ translate russian ayesha_fuck_date_reversecowgirl_9243b627:
 
 # ch/ayesha/fuck.rpy:1930
 translate russian ayesha_fuck_date_reversecowgirl_1f2d8ba4:
-    "Ее губы теплые и влажные, и они оказывают почти никакого сопротивления, когда головка моего члена оказывается между ними."
+    "Её губы тёплые и влажные, и они оказывают почти никакого сопротивления, когда головка моего члена оказывается между ними."
 
 # ch/ayesha/fuck.rpy:1931
 translate russian ayesha_fuck_date_reversecowgirl_4e29fcda:
-    "Я мог бы почти поверить, что внутри ее влагалища тоже жидкость, оно кажется таким мягким."
+    "Я мог бы почти поверить, что внутри её влагалища тоже жидкость, оно кажется таким мягким."
 
 # ch/ayesha/fuck.rpy:1932
 translate russian ayesha_fuck_date_reversecowgirl_633fbb73:
-    "И я мог бы продолжать давить бесконечно, если бы не ощущение ее ягодиц, когда она садится ко мне на колени."
+    "И я мог бы продолжать давить бесконечно, если бы не ощущение её ягодиц, когда она садится ко мне на колени."
 
 # ch/ayesha/fuck.rpy:1934
 translate russian ayesha_fuck_date_reversecowgirl_1e969a85_1:
@@ -21470,11 +21470,11 @@ translate russian ayesha_fuck_date_reversecowgirl_3bc6a274:
 
 # ch/ayesha/fuck.rpy:1938
 translate russian ayesha_fuck_date_reversecowgirl_54475a2c:
-    "Вес Айши такой, что ощущение ее сверху на мне просто невероятно."
+    "Вес Айши такой, что ощущение её сверху на мне просто невероятно."
 
 # ch/ayesha/fuck.rpy:1939
 translate russian ayesha_fuck_date_reversecowgirl_1bc6331c:
-    "А внутри ее влагалища так мягко и скользко, что у меня перехватывает дыхание."
+    "А внутри её влагалища так мягко и скользко, что у меня перехватывает дыхание."
 
 # ch/ayesha/fuck.rpy:1940
 translate russian ayesha_fuck_date_reversecowgirl_ee7f12f7:
@@ -21482,11 +21482,11 @@ translate russian ayesha_fuck_date_reversecowgirl_ee7f12f7:
 
 # ch/ayesha/fuck.rpy:1941
 translate russian ayesha_fuck_date_reversecowgirl_62529e34:
-    "Я отвечаю ей тем же, двигаясь вперед и назад, стараясь не отставать от нее."
+    "Я отвечаю ей тем же, двигаясь вперёд и назад, стараясь не отставать от неё."
 
 # ch/ayesha/fuck.rpy:1942
 translate russian ayesha_fuck_date_reversecowgirl_f4f6d4af:
-    "Уже сейчас это начинает напоминать гонку, где Айша задает ритм, а я пытаюсь за ней угнаться."
+    "Уже сейчас это начинает напоминать гонку, где Айша задаёт ритм, а я пытаюсь за ней угнаться."
 
 # ch/ayesha/fuck.rpy:1943
 translate russian ayesha_fuck_date_reversecowgirl_f38cdefb:
@@ -21494,11 +21494,11 @@ translate russian ayesha_fuck_date_reversecowgirl_f38cdefb:
 
 # ch/ayesha/fuck.rpy:1944
 translate russian ayesha_fuck_date_reversecowgirl_5ccec535:
-    "Необходимость усилить собственные усилия и соответствовать ее темпу – это резкий контраст с мягкостью ее тела."
+    "Необходимость усилить собственные усилия и соответствовать её темпу — это резкий контраст с мягкостью её тела."
 
 # ch/ayesha/fuck.rpy:1945
 translate russian ayesha_fuck_date_reversecowgirl_f022566b:
-    "И я уже чувствую, как мое сердце бьется все быстрее с каждой минутой."
+    "И я уже чувствую, как моё сердце бьётся всё быстрее с каждой минутой."
 
 # ch/ayesha/fuck.rpy:1946
 translate russian ayesha_fuck_date_reversecowgirl_7aeec15d:
@@ -21510,7 +21510,7 @@ translate russian ayesha_fuck_date_reversecowgirl_94bf30bd:
 
 # ch/ayesha/fuck.rpy:1951
 translate russian ayesha_fuck_date_reversecowgirl_a67924ab:
-    "Айша не показывает никаких признаков усталости, даже когда я теряюсь внутри нее."
+    "Айша не показывает никаких признаков усталости, даже когда я теряюсь внутри неё."
 
 # ch/ayesha/fuck.rpy:1953
 translate russian ayesha_fuck_date_reversecowgirl_ab6c9018:
@@ -21518,11 +21518,11 @@ translate russian ayesha_fuck_date_reversecowgirl_ab6c9018:
 
 # ch/ayesha/fuck.rpy:1954
 translate russian ayesha_fuck_date_reversecowgirl_8df47661:
-    "Я наблюдаю за тем, как ее волосы развеваются в разные стороны, и это выглядит настолько похоже на гриву, что это почти нереально."
+    "Я наблюдаю за тем, как её волосы развеваются в разные стороны, и это выглядит настолько похоже на гриву, что это почти нереально."
 
 # ch/ayesha/fuck.rpy:1955
 translate russian ayesha_fuck_date_reversecowgirl_c30a2753:
-    "И только когда она наконец останавливается, я понимаю, что стук в моих ушах – это мой собственный пульс."
+    "И только когда она наконец останавливается, я понимаю, что стук в моих ушах — это мой собственный пульс."
 
 # ch/ayesha/fuck.rpy:1960
 translate russian ayesha_fuck_date_reversecowgirl_dafb8825:
@@ -21530,11 +21530,11 @@ translate russian ayesha_fuck_date_reversecowgirl_dafb8825:
 
 # ch/ayesha/fuck.rpy:1961
 translate russian ayesha_fuck_date_reversecowgirl_7d96ff6f:
-    "Я, Майк, чувствую, как в последний момент едва не выдергиваю свой член из влагалища Айши."
+    "Я, Майк, чувствую, как в последний момент едва не выдёргиваю свой член из влагалища Айши."
 
 # ch/ayesha/fuck.rpy:1962
 translate russian ayesha_fuck_date_reversecowgirl_a9b6f2e5:
-    "Она издает внезапный и удивленный звук, который обрывается через секунду."
+    "Она издаёт внезапный и удивлённый звук, который обрывается через секунду."
 
 # ch/ayesha/fuck.rpy:1965
 translate russian ayesha_fuck_date_reversecowgirl_3d9676eb:
@@ -21542,11 +21542,11 @@ translate russian ayesha_fuck_date_reversecowgirl_3d9676eb:
 
 # ch/ayesha/fuck.rpy:1972
 translate russian ayesha_fuck_date_reversecowgirl_45124432:
-    "Вся жидкость вылетает вверх, попадая на грудь Айши и стекая вниз по ее животу."
+    "Вся жидкость вылетает вверх, попадая на грудь Айши и стекая вниз по её животу."
 
 # ch/ayesha/fuck.rpy:1973
 translate russian ayesha_fuck_date_reversecowgirl_14550d12_1:
-    "Все, что я могу делать, это тяжело дышать, отчаянно пытаясь набрать воздух, пока смотрю на это."
+    "Всё, что я могу делать, это тяжело дышать, отчаянно пытаясь набрать воздух, пока смотрю на это."
 
 # ch/ayesha/fuck.rpy:1977
 translate russian ayesha_fuck_date_reversecowgirl_c964c4cf:
@@ -21558,7 +21558,7 @@ translate russian ayesha_fuck_date_reversecowgirl_be39bdee:
 
 # ch/ayesha/fuck.rpy:1981
 translate russian ayesha_fuck_date_reversecowgirl_33ae5539:
-    "И вот, в тот же момент, когда слова Айши становятся понятными, я кончаю прямо у нее внутри."
+    "И вот, в тот же момент, когда слова Айши становятся понятными, я кончаю прямо у неё внутри."
 
 # ch/ayesha/fuck.rpy:1983
 translate russian ayesha_fuck_date_reversecowgirl_587bd880:
@@ -21566,11 +21566,11 @@ translate russian ayesha_fuck_date_reversecowgirl_587bd880:
 
 # ch/ayesha/fuck.rpy:1984
 translate russian ayesha_fuck_date_reversecowgirl_c30a2753_1:
-    "И только когда она наконец останавливается, я понимаю, что стук в моих ушах – это мой собственный пульс."
+    "И только когда она наконец останавливается, я понимаю, что стук в моих ушах — это мой собственный пульс."
 
 # ch/ayesha/fuck.rpy:1986
 translate russian ayesha_fuck_date_reversecowgirl_6c35824a:
-    "Мне нужно увидеть только руку Айши, когда она проводит ее по изгибу ее округлого живота."
+    "Мне нужно увидеть только руку Айши, когда она проводит её по изгибу её округлого живота."
 
 # ch/ayesha/fuck.rpy:1987
 translate russian ayesha_fuck_date_reversecowgirl_0050472a:
@@ -21578,7 +21578,7 @@ translate russian ayesha_fuck_date_reversecowgirl_0050472a:
 
 # ch/ayesha/fuck.rpy:1990
 translate russian ayesha_fuck_date_reversecowgirl_c4a783e9:
-    "Она нежно обхватывает изгиб, пока я теряюсь внутри нее, задыхаясь от моих усилий."
+    "Она нежно обхватывает изгиб, пока я теряюсь внутри неё, задыхаясь от моих усилий."
 
 # ch/ayesha/fuck.rpy:1992
 translate russian ayesha_fuck_date_reversecowgirl_99a64750:
@@ -21614,7 +21614,7 @@ translate russian ayesha_fuck_date_reversecowgirl_a616a4fa:
 
 # ch/ayesha/fuck.rpy:2005
 translate russian ayesha_fuck_date_reversecowgirl_e8473d13:
-    ayesha.say "Все хорошо..."
+    ayesha.say "Всё хорошо..."
 
 # ch/ayesha/fuck.rpy:2007
 translate russian ayesha_fuck_date_reversecowgirl_447bb805:
@@ -21622,7 +21622,7 @@ translate russian ayesha_fuck_date_reversecowgirl_447bb805:
 
 # ch/ayesha/fuck.rpy:2011
 translate russian ayesha_fuck_date_reversecowgirl_e4f0be7a:
-    "Айше удается произнести это именно в тот момент, когда я теряюсь в ней."
+    "Айше удаётся произнести это именно в тот момент, когда я теряюсь в ней."
 
 # ch/ayesha/fuck.rpy:2013
 translate russian ayesha_fuck_date_reversecowgirl_27dd8bd7:
@@ -21630,7 +21630,7 @@ translate russian ayesha_fuck_date_reversecowgirl_27dd8bd7:
 
 # ch/ayesha/fuck.rpy:2014
 translate russian ayesha_fuck_date_reversecowgirl_8ec2f3e3:
-    mike.say "Что за черт?"
+    mike.say "Что за чёрт?"
 
 # ch/ayesha/fuck.rpy:2015
 translate russian ayesha_fuck_date_reversecowgirl_3ea61fbc:
@@ -21638,7 +21638,7 @@ translate russian ayesha_fuck_date_reversecowgirl_3ea61fbc:
 
 # ch/ayesha/fuck.rpy:2017
 translate russian ayesha_fuck_date_reversecowgirl_7aeab075:
-    "Но все, что может сделать Айша, это смотреть на меня, качая головой в недоумении."
+    "Но всё, что может сделать Айша, это смотреть на меня, качая головой в недоумении."
 
 # ch/ayesha/fuck.rpy:2019
 translate russian ayesha_fuck_date_reversecowgirl_f3834bb1:
@@ -21650,7 +21650,7 @@ translate russian ayesha_fuck_date_reversecowgirl_b22f3dca:
 
 # ch/ayesha/fuck.rpy:2021
 translate russian ayesha_fuck_date_reversecowgirl_9b80d572:
-    "Как же захватывающе – быть грубо обращающимся амазонкой!"
+    "Как же захватывающе — быть грубо обращающимся амазонкой!"
 
 # ch/ayesha/fuck.rpy:2022
 translate russian ayesha_fuck_date_reversecowgirl_bf24335e:
@@ -21666,7 +21666,7 @@ translate russian ayesha_fuck_date_reversecowgirl_bf98e714:
 
 # ch/ayesha/fuck.rpy:2025
 translate russian ayesha_fuck_date_reversecowgirl_998b3b3e:
-    "Я с энтузиазмом киваю, когда Аиша ложится на меня и устраивается поудобнее."
+    "Я с энтузиазмом киваю, когда Айша ложится на меня и устраивается поудобнее."
 
 # ch/ayesha/fuck.rpy:2026
 translate russian ayesha_fuck_date_reversecowgirl_9a731c3f:
@@ -21674,7 +21674,7 @@ translate russian ayesha_fuck_date_reversecowgirl_9a731c3f:
 
 # ch/ayesha/fuck.rpy:2029
 translate russian ayesha_fuck_date_reversecowgirl_154443d6:
-    "Робко кладу руки на бедра Аиши."
+    "Робко кладу руки на бедра Айши."
 
 # ch/ayesha/fuck.rpy:2030
 translate russian ayesha_fuck_date_reversecowgirl_1adb3146:
@@ -21686,7 +21686,7 @@ translate russian ayesha_fuck_date_reversecowgirl_9c32a9ed:
 
 # ch/ayesha/fuck.rpy:2032
 translate russian ayesha_fuck_date_reversecowgirl_0f8cdd87:
-    "Или просто дает мне понять, что мне нужно крепко держаться!"
+    "Или просто даёт мне понять, что мне нужно крепко держаться!"
 
 # ch/ayesha/fuck.rpy:2033
 translate russian ayesha_fuck_date_reversecowgirl_26cf72b6:
@@ -21694,7 +21694,7 @@ translate russian ayesha_fuck_date_reversecowgirl_26cf72b6:
 
 # ch/ayesha/fuck.rpy:2037
 translate russian ayesha_fuck_date_reversecowgirl_97739bf1:
-    "И вот Аиша поднимается и через мгновение поворачивает мой член под определенным углом."
+    "И вот Айша поднимается и через мгновение поворачивает мой член под определённым углом."
 
 # ch/ayesha/fuck.rpy:2038
 translate russian ayesha_fuck_date_reversecowgirl_78b9dbe7:
@@ -21706,11 +21706,11 @@ translate russian ayesha_fuck_date_reversecowgirl_b45c47e8:
 
 # ch/ayesha/fuck.rpy:2040
 translate russian ayesha_fuck_date_reversecowgirl_57db5b47:
-    "Я немного поворачиваюсь, всего на миллиметр в определенном направлении."
+    "Я немного поворачиваюсь, всего на миллиметр в определённом направлении."
 
 # ch/ayesha/fuck.rpy:2041
 translate russian ayesha_fuck_date_reversecowgirl_c0f84cae:
-    "Но этого достаточно, чтобы Аиша села на мой член именно так..."
+    "Но этого достаточно, чтобы Айша села на мой член именно так..."
 
 # ch/ayesha/fuck.rpy:2043
 translate russian ayesha_fuck_date_reversecowgirl_bc1c1362:
@@ -21722,11 +21722,11 @@ translate russian ayesha_fuck_date_reversecowgirl_19ef6137:
 
 # ch/ayesha/fuck.rpy:2045
 translate russian ayesha_fuck_date_reversecowgirl_becedcfc:
-    ayesha.say "Я не помню, чтобы я говорила тебе, что ты можешь использовать \"запасный выход\"!"
+    ayesha.say "Я не помню, чтобы я говорила тебе, что ты можешь использовать «запасный выход»!"
 
 # ch/ayesha/fuck.rpy:2046
 translate russian ayesha_fuck_date_reversecowgirl_03e70c33:
-    "Сейчас мой член зажат между ягодицами Аиши."
+    "Сейчас мой член зажат между ягодицами Айши."
 
 # ch/ayesha/fuck.rpy:2047
 translate russian ayesha_fuck_date_reversecowgirl_debad462:
@@ -21734,7 +21734,7 @@ translate russian ayesha_fuck_date_reversecowgirl_debad462:
 
 # ch/ayesha/fuck.rpy:2048
 translate russian ayesha_fuck_date_reversecowgirl_68866da3:
-    "Но вместо этого Аиша наклоняет голову набок и улыбается мне сверху вниз."
+    "Но вместо этого Айша наклоняет голову набок и улыбается мне сверху вниз."
 
 # ch/ayesha/fuck.rpy:2049
 translate russian ayesha_fuck_date_reversecowgirl_2790ddf3:
@@ -21750,7 +21750,7 @@ translate russian ayesha_fuck_date_reversecowgirl_181cecb4:
 
 # ch/ayesha/fuck.rpy:2052
 translate russian ayesha_fuck_date_reversecowgirl_91c65a42:
-    "После этого Аиша опускает руку и направляет мой член внутрь."
+    "После этого Айша опускает руку и направляет мой член внутрь."
 
 # ch/ayesha/fuck.rpy:2053
 translate russian ayesha_fuck_date_reversecowgirl_e38c6376:
@@ -21758,7 +21758,7 @@ translate russian ayesha_fuck_date_reversecowgirl_e38c6376:
 
 # ch/ayesha/fuck.rpy:2054
 translate russian ayesha_fuck_date_reversecowgirl_f107fd7a:
-    "Понемногу Аиша помогает мне продвинуться глубже в её задницу."
+    "Понемногу Айша помогает мне продвинуться глубже в её задницу."
 
 # ch/ayesha/fuck.rpy:2055
 translate russian ayesha_fuck_date_reversecowgirl_67fa8fb5:
@@ -21770,7 +21770,7 @@ translate russian ayesha_fuck_date_reversecowgirl_ec27169c:
 
 # ch/ayesha/fuck.rpy:2057
 translate russian ayesha_fuck_date_reversecowgirl_f2d1339e:
-    "Но Аиша держит своё слово, помогая мне преодолеть их."
+    "Но Айша держит своё слово, помогая мне преодолеть их."
 
 # ch/ayesha/fuck.rpy:2058
 translate russian ayesha_fuck_date_reversecowgirl_88670faa:
@@ -21786,7 +21786,7 @@ translate russian ayesha_fuck_date_reversecowgirl_10e8d559:
 
 # ch/ayesha/fuck.rpy:2061
 translate russian ayesha_fuck_date_reversecowgirl_4aa9438b:
-    "Но я думаю, что сейчас она показывает то же самое, что и Аиша."
+    "Но я думаю, что сейчас она показывает то же самое, что и Айша."
 
 # ch/ayesha/fuck.rpy:2062
 translate russian ayesha_fuck_date_reversecowgirl_6066caba:
@@ -21794,7 +21794,7 @@ translate russian ayesha_fuck_date_reversecowgirl_6066caba:
 
 # ch/ayesha/fuck.rpy:2063
 translate russian ayesha_fuck_date_reversecowgirl_74d468f5:
-    "Именно Аиша контролирует ситуацию, и это невероятно захватывающе."
+    "Именно Айша контролирует ситуацию, и это невероятно захватывающе."
 
 # ch/ayesha/fuck.rpy:2064
 translate russian ayesha_fuck_date_reversecowgirl_b16c0dbc:
@@ -21802,7 +21802,7 @@ translate russian ayesha_fuck_date_reversecowgirl_b16c0dbc:
 
 # ch/ayesha/fuck.rpy:2065
 translate russian ayesha_fuck_date_reversecowgirl_3eb0a0b3:
-    "Но потом она смотрит на меня, в ее глазах читается мольба."
+    "Но потом она смотрит на меня, в её глазах читается мольба."
 
 # ch/ayesha/fuck.rpy:2067
 translate russian ayesha_fuck_date_reversecowgirl_4a8e2a21:
@@ -21814,27 +21814,27 @@ translate russian ayesha_fuck_date_reversecowgirl_e9f666b0:
 
 # ch/ayesha/fuck.rpy:2069
 translate russian ayesha_fuck_date_reversecowgirl_f58900ff:
-    "В голосе Аиши нет ничего, что превращало бы ее слова в приказ."
+    "В голосе Айши нет ничего, что превращало бы её слова в приказ."
 
 # ch/ayesha/fuck.rpy:2070
 translate russian ayesha_fuck_date_reversecowgirl_f2a6eacf:
-    "Но все равно я чувствую, как во мне поднимается желание выполнить ее просьбу."
+    "Но всё равно я чувствую, как во мне поднимается желание выполнить её просьбу."
 
 # ch/ayesha/fuck.rpy:2071
 translate russian ayesha_fuck_date_reversecowgirl_326c203b:
-    "Кажется, я просто не могу иначе, чем сделать то, о чем она просит."
+    "Кажется, я просто не могу иначе, чем сделать то, о чём она просит."
 
 # ch/ayesha/fuck.rpy:2072
 translate russian ayesha_fuck_date_reversecowgirl_2f61e40e:
-    "Я чувствую, как мои пальцы сжимают ее сильнее, и мое тело начинает двигаться."
+    "Я чувствую, как мои пальцы сжимают её сильнее, и моё тело начинает двигаться."
 
 # ch/ayesha/fuck.rpy:2073
 translate russian ayesha_fuck_date_reversecowgirl_f57089aa:
-    "Аиша кивает с возрастающей отчаянностью, когда я начинаю двигаться быстрее."
+    "Айша кивает с возрастающей отчаянностью, когда я начинаю двигаться быстрее."
 
 # ch/ayesha/fuck.rpy:2074
 translate russian ayesha_fuck_date_reversecowgirl_c889a7a7:
-    "Ее глаза закрываются, и она начинает стонать от удовольствия, ощущая мои движения."
+    "Её глаза закрываются, и она начинает стонать от удовольствия, ощущая мои движения."
 
 # ch/ayesha/fuck.rpy:2075
 translate russian ayesha_fuck_date_reversecowgirl_45011621:
@@ -21842,11 +21842,11 @@ translate russian ayesha_fuck_date_reversecowgirl_45011621:
 
 # ch/ayesha/fuck.rpy:2076
 translate russian ayesha_fuck_date_reversecowgirl_8cdff2c0:
-    "Все мои силы направлены на то, чтобы дать Аише то, что она хочет."
+    "Все мои силы направлены на то, чтобы дать Айше то, что она хочет."
 
 # ch/ayesha/fuck.rpy:2077
 translate russian ayesha_fuck_date_reversecowgirl_cc00c613:
-    "И наблюдая за ее реакцией, кажется, что это время потрачено не зря."
+    "И наблюдая за её реакцией, кажется, что это время потрачено не зря."
 
 # ch/ayesha/fuck.rpy:2078
 translate russian ayesha_fuck_date_reversecowgirl_4fb6949c:
@@ -21862,11 +21862,11 @@ translate russian ayesha_fuck_date_reversecowgirl_47ba8876:
 
 # ch/ayesha/fuck.rpy:2081
 translate russian ayesha_fuck_date_reversecowgirl_03898ac7:
-    "На самом деле, я настолько увлечен наблюдением за ними, что не замечаю, как голова Айши откидывается назад."
+    "На самом деле, я настолько увлечён наблюдением за ними, что не замечаю, как голова Айши откидывается назад."
 
 # ch/ayesha/fuck.rpy:2082
 translate russian ayesha_fuck_date_reversecowgirl_88a61029:
-    "Поэтому первое, что я узнаю о её оргазме, – это стон, вырвавшийся с её губ."
+    "Поэтому первое, что я узнаю о её оргазме, — это стон, вырвавшийся с её губ."
 
 # ch/ayesha/fuck.rpy:2083
 translate russian ayesha_fuck_date_reversecowgirl_1d2eca5b:
@@ -21930,7 +21930,7 @@ translate russian ayesha_fuck_date_reversecowgirl_4ba26b69:
 
 # ch/ayesha/fuck.rpy:2108
 translate russian ayesha_fuck_date_reversecowgirl_c452643f:
-    "Я (Майк) понятия не имею, как мне это удается, но каким-то образом я вытаскиваю свой член из её задницы."
+    "Я (Майк) понятия не имею, как мне это удаётся, но каким-то образом я вытаскиваю свой член из её задницы."
 
 # ch/ayesha/fuck.rpy:2109
 translate russian ayesha_fuck_date_reversecowgirl_1847279d:
@@ -21946,7 +21946,7 @@ translate russian ayesha_fuck_date_reversecowgirl_44055f1a:
 
 # ch/ayesha/fuck.rpy:2123
 translate russian ayesha_fuck_date_reversecowgirl_154443d6_1:
-    "Робко кладу руки на бедра Аиши."
+    "Робко кладу руки на бедра Айши."
 
 # ch/ayesha/fuck.rpy:2124
 translate russian ayesha_fuck_date_reversecowgirl_1adb3146_1:
@@ -21958,7 +21958,7 @@ translate russian ayesha_fuck_date_reversecowgirl_9c32a9ed_1:
 
 # ch/ayesha/fuck.rpy:2126
 translate russian ayesha_fuck_date_reversecowgirl_0f8cdd87_1:
-    "Или просто дает мне понять, что мне нужно крепко держаться!"
+    "Или просто даёт мне понять, что мне нужно крепко держаться!"
 
 # ch/ayesha/fuck.rpy:2127
 translate russian ayesha_fuck_date_reversecowgirl_26cf72b6_1:
@@ -21966,7 +21966,7 @@ translate russian ayesha_fuck_date_reversecowgirl_26cf72b6_1:
 
 # ch/ayesha/fuck.rpy:2128
 translate russian ayesha_fuck_date_reversecowgirl_97739bf1_1:
-    "И вот Аиша поднимается и через мгновение поворачивает мой член под определенным углом."
+    "И вот Айша поднимается и через мгновение поворачивает мой член под определённым углом."
 
 # ch/ayesha/fuck.rpy:2136
 translate russian ayesha_fuck_date_reversecowgirl_4f961a8b:
@@ -21978,7 +21978,7 @@ translate russian ayesha_fuck_date_reversecowgirl_3af45b8c:
 
 # ch/ayesha/fuck.rpy:2138
 translate russian ayesha_fuck_date_reversecowgirl_49f10662:
-    "И я с удовольствием позволю ей делать со мной все, что она захочет!"
+    "И я с удовольствием позволю ей делать со мной всё, что она захочет!"
 
 # ch/ayesha/fuck.rpy:2139
 translate russian ayesha_fuck_date_reversecowgirl_11576441:
@@ -21990,7 +21990,7 @@ translate russian ayesha_fuck_date_reversecowgirl_d1c3321f:
 
 # ch/ayesha/fuck.rpy:2141
 translate russian ayesha_fuck_date_reversecowgirl_6b424a54:
-    mike.say "Д... да, Аиша!"
+    mike.say "Д... да, Айша!"
 
 # ch/ayesha/fuck.rpy:2142
 translate russian ayesha_fuck_date_reversecowgirl_a1525cba:
@@ -22002,7 +22002,7 @@ translate russian ayesha_fuck_date_reversecowgirl_c38451b1:
 
 # ch/ayesha/fuck.rpy:2145
 translate russian ayesha_fuck_date_reversecowgirl_a49d0b66:
-    "Аиша улыбается мне сверху, выглядя как благосклонная богиня."
+    "Айша улыбается мне сверху, выглядя как благосклонная богиня."
 
 # ch/ayesha/fuck.rpy:2146
 translate russian ayesha_fuck_date_reversecowgirl_458507a2:
@@ -22018,31 +22018,31 @@ translate russian ayesha_fuck_date_reversecowgirl_70bb0766:
 
 # ch/ayesha/fuck.rpy:2149
 translate russian ayesha_fuck_date_reversecowgirl_5bbba9d3:
-    "Внезапно и без предупреждения Аиша начинает действовать."
+    "Внезапно и без предупреждения Айша начинает действовать."
 
 # ch/ayesha/fuck.rpy:2153
 translate russian ayesha_fuck_date_reversecowgirl_d322db96:
-    "Она прижимает головку моего члена к ее влагалищу."
+    "Она прижимает головку моего члена к её влагалищу."
 
 # ch/ayesha/fuck.rpy:2154
 translate russian ayesha_fuck_date_reversecowgirl_f2acb579:
-    "И одновременно она сама наклоняется вперед."
+    "И одновременно она сама наклоняется вперёд."
 
 # ch/ayesha/fuck.rpy:2155
 translate russian ayesha_fuck_date_reversecowgirl_7bd7b09f:
-    "Я задыхаюсь, чувствуя, как мой член трется о ее мягкие, скользкие губы."
+    "Я задыхаюсь, чувствуя, как мой член трётся о её мягкие, скользкие губы."
 
 # ch/ayesha/fuck.rpy:2156
 translate russian ayesha_fuck_date_reversecowgirl_f51a49f3:
-    "Влагалище Аиши на мгновение пытается сопротивляться."
+    "Влагалище Айши на мгновение пытается сопротивляться."
 
 # ch/ayesha/fuck.rpy:2157
 translate russian ayesha_fuck_date_reversecowgirl_863b5139:
-    "Но затем оно раздвигается, и я чувствую, как погружаюсь в нее."
+    "Но затем оно раздвигается, и я чувствую, как погружаюсь в неё."
 
 # ch/ayesha/fuck.rpy:2158
 translate russian ayesha_fuck_date_reversecowgirl_d1ec28c8:
-    "Аиша не медлит, она просто садится сверху на меня."
+    "Айша не медлит, она просто садится сверху на меня."
 
 # ch/ayesha/fuck.rpy:2159
 translate russian ayesha_fuck_date_reversecowgirl_e3d5dafe:
@@ -22058,7 +22058,7 @@ translate russian ayesha_fuck_date_reversecowgirl_c68cc434:
 
 # ch/ayesha/fuck.rpy:2162
 translate russian ayesha_fuck_date_reversecowgirl_74e8d35d:
-    mike.say "Аиша..."
+    mike.say "Айша..."
 
 # ch/ayesha/fuck.rpy:2163
 translate russian ayesha_fuck_date_reversecowgirl_d3412765:
@@ -22066,7 +22066,7 @@ translate russian ayesha_fuck_date_reversecowgirl_d3412765:
 
 # ch/ayesha/fuck.rpy:2164
 translate russian ayesha_fuck_date_reversecowgirl_161df6fd:
-    "Аиша запрокидывает голову и смеется."
+    "Айша запрокидывает голову и смеётся."
 
 # ch/ayesha/fuck.rpy:2165
 translate russian ayesha_fuck_date_reversecowgirl_ef9a9574:
@@ -22074,7 +22074,7 @@ translate russian ayesha_fuck_date_reversecowgirl_ef9a9574:
 
 # ch/ayesha/fuck.rpy:2166
 translate russian ayesha_fuck_date_reversecowgirl_952f5a17:
-    "Но он вызывает несомненное возбуждение во всем моем теле."
+    "Но он вызывает несомненное возбуждение во всём моем теле."
 
 # ch/ayesha/fuck.rpy:2167
 translate russian ayesha_fuck_date_reversecowgirl_03af01a0:
@@ -22098,7 +22098,7 @@ translate russian ayesha_fuck_date_reversecowgirl_13f60dc1:
 
 # ch/ayesha/fuck.rpy:2172
 translate russian ayesha_fuck_date_reversecowgirl_70d01a4d:
-    "Как и обещала, Аиша начинает двигаться немного позже."
+    "Как и обещала, Айша начинает двигаться немного позже."
 
 # ch/ayesha/fuck.rpy:2173
 translate russian ayesha_fuck_date_reversecowgirl_98818052:
@@ -22106,11 +22106,11 @@ translate russian ayesha_fuck_date_reversecowgirl_98818052:
 
 # ch/ayesha/fuck.rpy:2174
 translate russian ayesha_fuck_date_reversecowgirl_7fd15e40:
-    "Все, что я могу делать – это держаться."
+    "Всё, что я могу делать — это держаться."
 
 # ch/ayesha/fuck.rpy:2175
 translate russian ayesha_fuck_date_reversecowgirl_6fd20a75:
-    "Мышцы Аиши напрягаются под кожей, как свернувшиеся змеи."
+    "Мышцы Айши напрягаются под кожей, как свернувшиеся змеи."
 
 # ch/ayesha/fuck.rpy:2176
 translate russian ayesha_fuck_date_reversecowgirl_319e170f:
@@ -22134,11 +22134,11 @@ translate russian ayesha_fuck_date_reversecowgirl_047e76f6:
 
 # ch/ayesha/fuck.rpy:2182
 translate russian ayesha_fuck_date_reversecowgirl_10e04960:
-    "Я настолько увлечен наблюдением за ее руками, что не замечаю, как голова Айши откидывается назад."
+    "Я настолько увлечён наблюдением за её руками, что не замечаю, как голова Айши откидывается назад."
 
 # ch/ayesha/fuck.rpy:2183
 translate russian ayesha_fuck_date_reversecowgirl_88a61029_1:
-    "Поэтому первое, что я узнаю о её оргазме, – это стон, вырвавшийся с её губ."
+    "Поэтому первое, что я узнаю о её оргазме, — это стон, вырвавшийся с её губ."
 
 # ch/ayesha/fuck.rpy:2184
 translate russian ayesha_fuck_date_reversecowgirl_1d2eca5b_1:
@@ -22182,7 +22182,7 @@ translate russian ayesha_fuck_date_reversecowgirl_a6d96279_1:
 
 # ch/ayesha/fuck.rpy:2198
 translate russian ayesha_fuck_date_reversecowgirl_ae7b4f01:
-    "Я чувствую, как мышцы ее влагалища сжимаются вокруг меня до самого конца."
+    "Я чувствую, как мышцы её влагалища сжимаются вокруг меня до самого конца."
 
 # ch/ayesha/fuck.rpy:2200
 translate russian ayesha_fuck_date_reversecowgirl_5ee643de_1:
@@ -22190,7 +22190,7 @@ translate russian ayesha_fuck_date_reversecowgirl_5ee643de_1:
 
 # ch/ayesha/fuck.rpy:2201
 translate russian ayesha_fuck_date_reversecowgirl_eb169c23:
-    "Она сжимается так сильно, что сперма начинает просачиваться из ее влагалища на мой член."
+    "Она сжимается так сильно, что сперма начинает просачиваться из её влагалища на мой член."
 
 # ch/ayesha/fuck.rpy:2205
 translate russian ayesha_fuck_date_reversecowgirl_74822eb3:
@@ -22206,7 +22206,7 @@ translate russian ayesha_fuck_date_reversecowgirl_4ba26b69_1:
 
 # ch/ayesha/fuck.rpy:2209
 translate russian ayesha_fuck_date_reversecowgirl_78ba591c:
-    "Я понятия не имею, как мне это удается, но каким-то образом я вытягиваю свой член из ее влагалища."
+    "Я понятия не имею, как мне это удаётся, но каким-то образом я вытягиваю свой член из её влагалища."
 
 # ch/ayesha/fuck.rpy:2210
 translate russian ayesha_fuck_date_reversecowgirl_1847279d_1:
@@ -22214,7 +22214,7 @@ translate russian ayesha_fuck_date_reversecowgirl_1847279d_1:
 
 # ch/ayesha/fuck.rpy:2213
 translate russian ayesha_fuck_date_reversecowgirl_a3368fef:
-    "И она продолжает издавать те же звуки, когда через мгновение я омываю ее задницу спермой."
+    "И она продолжает издавать те же звуки, когда через мгновение я омываю её задницу спермой."
 
 # ch/ayesha/fuck.rpy:2220
 translate russian ayesha_fuck_date_reversecowgirl_44055f1a_1:
@@ -22230,7 +22230,7 @@ translate russian ayesha_fuck_date_reversecowgirl_534002e2:
 
 # ch/ayesha/fuck.rpy:2226
 translate russian ayesha_fuck_date_reversecowgirl_d8d2bd5c_1:
-    "Я даже не думаю о том, чтобы вытащиться из ее влагалища до окончания."
+    "Я даже не думаю о том, чтобы вытащиться из её влагалища до окончания."
 
 # ch/ayesha/fuck.rpy:2227
 translate russian ayesha_fuck_date_reversecowgirl_b4955ccd_2:
@@ -22254,7 +22254,7 @@ translate russian ayesha_fuck_date_reversecowgirl_a6d96279_2:
 
 # ch/ayesha/fuck.rpy:2235
 translate russian ayesha_fuck_date_reversecowgirl_ae7b4f01_1:
-    "Я чувствую, как мышцы ее влагалища сжимаются вокруг меня до самого конца."
+    "Я чувствую, как мышцы её влагалища сжимаются вокруг меня до самого конца."
 
 # ch/ayesha/fuck.rpy:2237
 translate russian ayesha_fuck_date_reversecowgirl_5ee643de_2:
@@ -22262,7 +22262,7 @@ translate russian ayesha_fuck_date_reversecowgirl_5ee643de_2:
 
 # ch/ayesha/fuck.rpy:2239
 translate russian ayesha_fuck_date_reversecowgirl_eb169c23_1:
-    "Она сжимается так сильно, что сперма начинает просачиваться из ее влагалища на мой член."
+    "Она сжимается так сильно, что сперма начинает просачиваться из её влагалища на мой член."
 
 # ch/ayesha/fuck.rpy:2241
 translate russian ayesha_fuck_date_reversecowgirl_548714ff_1:
@@ -22274,7 +22274,7 @@ translate russian ayesha_fuck_date_reversecowgirl_3e2a0515:
 
 # ch/ayesha/fuck.rpy:2243
 translate russian ayesha_fuck_date_reversecowgirl_d8d2bd5c_2:
-    "Я даже не думаю о том, чтобы вытащиться из ее влагалища до окончания."
+    "Я даже не думаю о том, чтобы вытащиться из её влагалища до окончания."
 
 # ch/ayesha/fuck.rpy:2244
 translate russian ayesha_fuck_date_reversecowgirl_b4955ccd_3:
@@ -22298,7 +22298,7 @@ translate russian ayesha_fuck_date_reversecowgirl_a6d96279_3:
 
 # ch/ayesha/fuck.rpy:2252
 translate russian ayesha_fuck_date_reversecowgirl_ae7b4f01_2:
-    "Я чувствую, как мышцы ее влагалища сжимаются вокруг меня до самого конца."
+    "Я чувствую, как мышцы её влагалища сжимаются вокруг меня до самого конца."
 
 # ch/ayesha/fuck.rpy:2254
 translate russian ayesha_fuck_date_reversecowgirl_5ee643de_3:
@@ -22306,7 +22306,7 @@ translate russian ayesha_fuck_date_reversecowgirl_5ee643de_3:
 
 # ch/ayesha/fuck.rpy:2256
 translate russian ayesha_fuck_date_reversecowgirl_eb169c23_2:
-    "Она сжимается так сильно, что сперма начинает просачиваться из ее влагалища на мой член."
+    "Она сжимается так сильно, что сперма начинает просачиваться из её влагалища на мой член."
 
 # ch/ayesha/fuck.rpy:2258
 translate russian ayesha_fuck_date_reversecowgirl_6b70f909:
@@ -22318,7 +22318,7 @@ translate russian ayesha_fuck_date_reversecowgirl_a59f1c5d:
 
 # ch/ayesha/fuck.rpy:2260
 translate russian ayesha_fuck_date_reversecowgirl_e8c6c564:
-    "Я настолько привык делать то, что говорит Аиша, что просто подчиняюсь."
+    "Я настолько привык делать то, что говорит Айша, что просто подчиняюсь."
 
 # ch/ayesha/fuck.rpy:2261
 translate russian ayesha_fuck_date_reversecowgirl_01ea64d4_4:
@@ -22334,7 +22334,7 @@ translate russian ayesha_fuck_date_reversecowgirl_a6d96279_4:
 
 # ch/ayesha/fuck.rpy:2266
 translate russian ayesha_fuck_date_reversecowgirl_ae7b4f01_3:
-    "Я чувствую, как мышцы ее влагалища сжимаются вокруг меня до самого конца."
+    "Я чувствую, как мышцы её влагалища сжимаются вокруг меня до самого конца."
 
 # ch/ayesha/fuck.rpy:2268
 translate russian ayesha_fuck_date_reversecowgirl_5ee643de_4:
@@ -22342,7 +22342,7 @@ translate russian ayesha_fuck_date_reversecowgirl_5ee643de_4:
 
 # ch/ayesha/fuck.rpy:2271
 translate russian ayesha_fuck_date_reversecowgirl_eb169c23_3:
-    "Она сжимается так сильно, что сперма начинает просачиваться из ее влагалища на мой член."
+    "Она сжимается так сильно, что сперма начинает просачиваться из её влагалища на мой член."
 
 # ch/ayesha/fuck.rpy:2272
 translate russian ayesha_fuck_date_reversecowgirl_5ea9e56e:
@@ -22350,7 +22350,7 @@ translate russian ayesha_fuck_date_reversecowgirl_5ea9e56e:
 
 # ch/ayesha/fuck.rpy:2273
 translate russian ayesha_fuck_date_reversecowgirl_0de16c48:
-    "Я только что вставил свой член в Аишу без презерватива!"
+    "Я только что вставил свой член в Айшу без презерватива!"
 
 # ch/ayesha/fuck.rpy:2274
 translate russian ayesha_fuck_date_reversecowgirl_4eb44326:
@@ -22382,7 +22382,7 @@ translate russian ayesha_fuck_date_reversecowgirl_326016d8:
 
 # ch/ayesha/fuck.rpy:2285
 translate russian ayesha_fuck_date_reversecowgirl_5a9d1487:
-    "Но уже поздно, так как я извергаю сперму в нее через секунду."
+    "Но уже поздно, так как я извергаю сперму в неё через секунду."
 
 # ch/ayesha/fuck.rpy:2287
 translate russian ayesha_fuck_date_reversecowgirl_9ed8db7d:
@@ -22390,7 +22390,7 @@ translate russian ayesha_fuck_date_reversecowgirl_9ed8db7d:
 
 # ch/ayesha/fuck.rpy:2289
 translate russian ayesha_fuck_date_reversecowgirl_77c08526:
-    "Айша заметно провисает, когда я наполняю ее влагалище, ее глаза опущены вниз."
+    "Айша заметно провисает, когда я наполняю её влагалище, её глаза опущены вниз."
 
 # ch/ayesha/fuck.rpy:2290
 translate russian ayesha_fuck_date_reversecowgirl_fefd0f53:
@@ -22398,7 +22398,7 @@ translate russian ayesha_fuck_date_reversecowgirl_fefd0f53:
 
 # ch/ayesha/fuck.rpy:2291
 translate russian ayesha_fuck_date_reversecowgirl_4280e753:
-    "Ни один из нас не произносит ни слова, слишком поглощенные своими мыслями."
+    "Ни один из нас не произносит ни слова, слишком поглощённые своими мыслями."
 
 # ch/ayesha/fuck.rpy:2293
 translate russian ayesha_fuck_date_reversecowgirl_1012f765:
@@ -22410,7 +22410,7 @@ translate russian ayesha_fuck_date_reversecowgirl_a2e3eda6:
 
 # ch/ayesha/fuck.rpy:2295
 translate russian ayesha_fuck_date_reversecowgirl_8a19ebfc:
-    "Она позволяет моему члену выскользнуть из нее, а затем вытягивает свое тело поверх моего."
+    "Она позволяет моему члену выскользнуть из неё, а затем вытягивает своё тело поверх моего."
 
 # ch/ayesha/fuck.rpy:2296
 translate russian ayesha_fuck_date_reversecowgirl_4b052e21:
@@ -22518,11 +22518,11 @@ translate russian ayesha_fuck_date_doggy_74cd85b3:
 
 # ch/ayesha/fuck.rpy:2333
 translate russian ayesha_fuck_date_doggy_7a2044e9:
-    "Глаза Аиши загораются при одном упоминании этого слова."
+    "Глаза Айши загораются при одном упоминании этого слова."
 
 # ch/ayesha/fuck.rpy:2334
 translate russian ayesha_fuck_date_doggy_88b8ee61:
-    "Но одновременно с этим, она выглядит почти смущенной из-за своего желания."
+    "Но одновременно с этим, она выглядит почти смущённой из-за своего желания."
 
 # ch/ayesha/fuck.rpy:2335
 translate russian ayesha_fuck_date_doggy_3d8d81cf:
@@ -22538,7 +22538,7 @@ translate russian ayesha_fuck_date_doggy_6ef6be92:
 
 # ch/ayesha/fuck.rpy:2340
 translate russian ayesha_fuck_date_doggy_06f6e0ae:
-    "Я наблюдаю, как рука Аиши начинает поглаживать ее ягодицы."
+    "Я наблюдаю, как рука Айши начинает поглаживать её ягодицы."
 
 # ch/ayesha/fuck.rpy:2341
 translate russian ayesha_fuck_date_doggy_397cb38f:
@@ -22554,11 +22554,11 @@ translate russian ayesha_fuck_date_doggy_1952dc44:
 
 # ch/ayesha/fuck.rpy:2344
 translate russian ayesha_fuck_date_doggy_81a576c7:
-    "Я не могу удержаться и облизываю губы, слушая, как Аиша рассказывает об этом."
+    "Я не могу удержаться и облизываю губы, слушая, как Айша рассказывает об этом."
 
 # ch/ayesha/fuck.rpy:2345
 translate russian ayesha_fuck_date_doggy_08aa4350:
-    "И я уже чувствую, как мой член становится тверже, представляя себе картину, которую ее слова рисуют для меня."
+    "И я уже чувствую, как мой член становится тверже, представляя себе картину, которую её слова рисуют для меня."
 
 # ch/ayesha/fuck.rpy:2346
 translate russian ayesha_fuck_date_doggy_1a6affaa:
@@ -22570,11 +22570,11 @@ translate russian ayesha_fuck_date_doggy_b6c2d6b2:
 
 # ch/ayesha/fuck.rpy:2348
 translate russian ayesha_fuck_date_doggy_17d8cdf2:
-    "Глаза Аиши внезапно расширяются от ужаса, когда она понимает, что наделала."
+    "Глаза Айши внезапно расширяются от ужаса, когда она понимает, что наделала."
 
 # ch/ayesha/fuck.rpy:2349
 translate russian ayesha_fuck_date_doggy_a9c29b95:
-    "Она качает головой, пытаясь убедить меня, что я неправильно поняла ее слова."
+    "Она качает головой, пытаясь убедить меня, что я неправильно поняла её слова."
 
 # ch/ayesha/fuck.rpy:2350
 translate russian ayesha_fuck_date_doggy_9f833bd4:
@@ -22598,19 +22598,19 @@ translate russian ayesha_fuck_date_doggy_b63e2cde:
 
 # ch/ayesha/fuck.rpy:2362
 translate russian ayesha_fuck_date_doggy_fe123029:
-    "Клянусь, я чувствую, как по всему ее телу пробегает дрожь, когда она придвигает свою задницу ко мне."
+    "Клянусь, я чувствую, как по всему её телу пробегает дрожь, когда она придвигает свою задницу ко мне."
 
 # ch/ayesha/fuck.rpy:2363
 translate russian ayesha_fuck_date_doggy_9025cbb9:
-    "И мне едва приходится раздвигать ее щеки, так как она сама расставляет ноги передо мной."
+    "И мне едва приходится раздвигать её щеки, так как она сама расставляет ноги передо мной."
 
 # ch/ayesha/fuck.rpy:2364
 translate russian ayesha_fuck_date_doggy_99d78b8e:
-    "Но это не значит, что ее задница готова подчиниться мне так же, как и сама Айша."
+    "Но это не значит, что её задница готова подчиниться мне так же, как и сама Айша."
 
 # ch/ayesha/fuck.rpy:2365
 translate russian ayesha_fuck_date_doggy_b4250614:
-    "Я чувствую естественное сопротивление ее мышц в тот момент, когда кончик касается ее клитора."
+    "Я чувствую естественное сопротивление её мышц в тот момент, когда кончик касается её клитора."
 
 # ch/ayesha/fuck.rpy:2366
 translate russian ayesha_fuck_date_doggy_b3f0383a:
@@ -22618,27 +22618,27 @@ translate russian ayesha_fuck_date_doggy_b3f0383a:
 
 # ch/ayesha/fuck.rpy:2370
 translate russian ayesha_fuck_date_doggy_118ba70b:
-    "В ответ я даю ей понять о своих намерениях, резко толкая свой член вперед."
+    "В ответ я даю ей понять о своих намерениях, резко толкая свой член вперёд."
 
 # ch/ayesha/fuck.rpy:2371
 translate russian ayesha_fuck_date_doggy_4538c856:
-    "Одновременно я тяну Айшу назад и прижимаю ее к себе."
+    "Одновременно я тяну Айшу назад и прижимаю её к себе."
 
 # ch/ayesha/fuck.rpy:2372
 translate russian ayesha_fuck_date_doggy_d75f3f25:
-    "Мне удается проникнуть внутрь не более чем на один дюйм."
+    "Мне удаётся проникнуть внутрь не более чем на один дюйм."
 
 # ch/ayesha/fuck.rpy:2373
 translate russian ayesha_fuck_date_doggy_2f672fe6:
-    "Но судя по тому, что я чувствую и по звукам, которые она издает, я знаю, что мы делаем отличное начало."
+    "Но судя по тому, что я чувствую и по звукам, которые она издаёт, я знаю, что мы делаем отличное начало."
 
 # ch/ayesha/fuck.rpy:2374
 translate russian ayesha_fuck_date_doggy_76096986:
-    "Поэтому, пока Айша не успевает опомниться, я проникаю внутрь еще на дюйм."
+    "Поэтому, пока Айша не успевает опомниться, я проникаю внутрь ещё на дюйм."
 
 # ch/ayesha/fuck.rpy:2375
 translate russian ayesha_fuck_date_doggy_fefc81d2:
-    "На этот раз нет никаких сомнений в том, какое влияние я оказываю на нее."
+    "На этот раз нет никаких сомнений в том, какое влияние я оказываю на неё."
 
 # ch/ayesha/fuck.rpy:2376
 translate russian ayesha_fuck_date_doggy_13a9c17d:
@@ -22646,19 +22646,19 @@ translate russian ayesha_fuck_date_doggy_13a9c17d:
 
 # ch/ayesha/fuck.rpy:2377
 translate russian ayesha_fuck_date_doggy_de357244:
-    "Я вижу, как ее руки хватаются за простыни, словно она цепляется за жизнь."
+    "Я вижу, как её руки хватаются за простыни, словно она цепляется за жизнь."
 
 # ch/ayesha/fuck.rpy:2378
 translate russian ayesha_fuck_date_doggy_d49704bc:
-    "Снова я повторяю это движение, еще сильнее проталкивая свой член внутрь."
+    "Снова я повторяю это движение, ещё сильнее проталкивая свой член внутрь."
 
 # ch/ayesha/fuck.rpy:2379
 translate russian ayesha_fuck_date_doggy_28693b94:
-    "Аиша издает долгий, тихий стон полного подчинения, когда я это делаю."
+    "Айша издаёт долгий, тихий стон полного подчинения, когда я это делаю."
 
 # ch/ayesha/fuck.rpy:2381
 translate russian ayesha_fuck_date_doggy_94320c8e:
-    "Это означает, что к тому моменту, когда я не смогу зайти в нее глубже, она полностью находится в моей власти."
+    "Это означает, что к тому моменту, когда я не смогу зайти в неё глубже, она полностью находится в моей власти."
 
 # ch/ayesha/fuck.rpy:2382
 translate russian ayesha_fuck_date_doggy_4f85c755:
@@ -22714,7 +22714,7 @@ translate russian ayesha_fuck_date_doggy_6461f987:
 
 # ch/ayesha/fuck.rpy:2412
 translate russian ayesha_fuck_date_doggy_34492f81:
-    "Но я ведь не просто наблюдал за тем, как рушатся ее защиты все это время."
+    "Но я ведь не просто наблюдал за тем, как рушатся её защиты все это время."
 
 # ch/ayesha/fuck.rpy:2413
 translate russian ayesha_fuck_date_doggy_48b736ef:
@@ -22722,7 +22722,7 @@ translate russian ayesha_fuck_date_doggy_48b736ef:
 
 # ch/ayesha/fuck.rpy:2414
 translate russian ayesha_fuck_date_doggy_effaf8b9:
-    "Я думаю только о моменте, о том, что я делаю с Аишей."
+    "Я думаю только о моменте, о том, что я делаю с Айшей."
 
 # ch/ayesha/fuck.rpy:2420
 translate russian ayesha_fuck_date_doggy_d5979cb9:
@@ -22734,43 +22734,43 @@ translate russian ayesha_fuck_date_doggy_ce4589b4:
 
 # ch/ayesha/fuck.rpy:2422
 translate russian ayesha_fuck_date_doggy_ec4e2d1b:
-    "Интересно, так ли это ощущается, когда ты – тупое животное в разгар брачного сезона?"
+    "Интересно, так ли это ощущается, когда ты — тупое животное в разгар брачного сезона?"
 
 # ch/ayesha/fuck.rpy:2423
 translate russian ayesha_fuck_date_doggy_b24a379b:
-    "Потому что сейчас для меня все остальное кажется бессмысленным, кроме как потеряться в Аише..."
+    "Потому что сейчас для меня всё остальное кажется бессмысленным, кроме как потеряться в Айше..."
 
 # ch/ayesha/fuck.rpy:2426
 translate russian ayesha_fuck_date_doggy_f9324449:
-    "Наконец, я чувствую, как опускаю ее на кровать, словно мне нужно зафиксировать ее на месте."
+    "Наконец, я чувствую, как опускаю её на кровать, словно мне нужно зафиксировать её на месте."
 
 # ch/ayesha/fuck.rpy:2427
 translate russian ayesha_fuck_date_doggy_9ec81b37:
-    "Аиша извивается под мной, когда я вкладываю последние силы в это усилие."
+    "Айша извивается под мной, когда я вкладываю последние силы в это усилие."
 
 # ch/ayesha/fuck.rpy:2431
 translate russian ayesha_fuck_date_doggy_5f80c448:
-    "И затем я кончаю, мой член глубоко зарывается в ее заднице настолько, насколько это возможно."
+    "И затем я кончаю, мой член глубоко зарывается в её заднице настолько, насколько это возможно."
 
 # ch/ayesha/fuck.rpy:2433
 translate russian ayesha_fuck_date_doggy_2103fef5:
-    "Аиша стонет, когда я наполняю ее, полностью отдаваясь этому моменту и моему оргазму одновременно."
+    "Айша стонет, когда я наполняю её, полностью отдаваясь этому моменту и моему оргазму одновременно."
 
 # ch/ayesha/fuck.rpy:2435
 translate russian ayesha_fuck_date_doggy_b2e05669:
-    "Я наблюдаю, как сперма начинает вытекать из нее вокруг основания моего члена."
+    "Я наблюдаю, как сперма начинает вытекать из неё вокруг основания моего члена."
 
 # ch/ayesha/fuck.rpy:2436
 translate russian ayesha_fuck_date_doggy_875066ff:
-    "И в этот момент ее стоны переходят в звук ее прерывистого дыхания."
+    "И в этот момент её стоны переходят в звук её прерывистого дыхания."
 
 # ch/ayesha/fuck.rpy:2439
 translate russian ayesha_fuck_date_doggy_a0843908:
-    "Аиша извивается и шевелится, когда я вытаскиваю свой член из ее задницы."
+    "Айша извивается и шевелится, когда я вытаскиваю свой член из её задницы."
 
 # ch/ayesha/fuck.rpy:2440
 translate russian ayesha_fuck_date_doggy_41cd79b2:
-    "Звуки, которые она издает, – это смесь вздоха удивления и стона протеста."
+    "Звуки, которые она издаёт, — это смесь вздоха удивления и стона протеста."
 
 # ch/ayesha/fuck.rpy:2441
 translate russian ayesha_fuck_date_doggy_fbd6fc2d:
@@ -22782,11 +22782,11 @@ translate russian ayesha_fuck_date_doggy_616f3def:
 
 # ch/ayesha/fuck.rpy:2445
 translate russian ayesha_fuck_date_doggy_9f47a9f5:
-    "И в этот момент я извергаю сперму прямо на нее."
+    "И в этот момент я извергаю сперму прямо на неё."
 
 # ch/ayesha/fuck.rpy:2448
 translate russian ayesha_fuck_date_doggy_c41dcb07:
-    "Она обрызгивает ее спину, ягодицы и бедра липкими белыми полосками."
+    "Она обрызгивает её спину, ягодицы и бедра липкими белыми полосками."
 
 # ch/ayesha/fuck.rpy:2449
 translate russian ayesha_fuck_date_doggy_7557a3c4:
@@ -22794,7 +22794,7 @@ translate russian ayesha_fuck_date_doggy_7557a3c4:
 
 # ch/ayesha/fuck.rpy:2450
 translate russian ayesha_fuck_date_doggy_72693f58:
-    "И это, в свою очередь, наполняет меня теплым чувством удовлетворения."
+    "И это, в свою очередь, наполняет меня тёплым чувством удовлетворения."
 
 # ch/ayesha/fuck.rpy:2456
 translate russian ayesha_fuck_date_doggy_f2e7af9c:
@@ -22802,11 +22802,11 @@ translate russian ayesha_fuck_date_doggy_f2e7af9c:
 
 # ch/ayesha/fuck.rpy:2457
 translate russian ayesha_fuck_date_doggy_d66397b7:
-    "Когда она двигается в такт моему прикосновению, мой взгляд падает на мягкие складки ее влагалища, которые до этого момента были скрыты."
+    "Когда она двигается в такт моему прикосновению, мой взгляд падает на мягкие складки её влагалища, которые до этого момента были скрыты."
 
 # ch/ayesha/fuck.rpy:2458
 translate russian ayesha_fuck_date_doggy_2cac02dd:
-    "И даже при приглушенном освещении я вижу, что эти губы блестят в предвкушении того, что произойдет."
+    "И даже при приглушённом освещении я вижу, что эти губы блестят в предвкушении того, что произойдёт."
 
 # ch/ayesha/fuck.rpy:2459
 translate russian ayesha_fuck_date_doggy_dcc2ae45:
@@ -22818,7 +22818,7 @@ translate russian ayesha_fuck_date_doggy_bfb4565f:
 
 # ch/ayesha/fuck.rpy:2466
 translate russian ayesha_fuck_date_doggy_eb2fad99:
-    "Я сжимаю ее щеки, наслаждаясь ощущением упругих мышц под кожей Айши."
+    "Я сжимаю её щеки, наслаждаясь ощущением упругих мышц под кожей Айши."
 
 # ch/ayesha/fuck.rpy:2467
 translate russian ayesha_fuck_date_doggy_9614a429:
@@ -22834,7 +22834,7 @@ translate russian ayesha_fuck_date_doggy_c6198fad:
 
 # ch/ayesha/fuck.rpy:2470
 translate russian ayesha_fuck_date_doggy_db023aeb:
-    mike.say "Я не знаю насчет этого, Айша."
+    mike.say "Я не знаю насчёт этого, Айша."
 
 # ch/ayesha/fuck.rpy:2471
 translate russian ayesha_fuck_date_doggy_249d1890:
@@ -22846,7 +22846,7 @@ translate russian ayesha_fuck_date_doggy_df9efbe0:
 
 # ch/ayesha/fuck.rpy:2473
 translate russian ayesha_fuck_date_doggy_b6f81933:
-    "Но это все, что мне пришло в голову так быстро."
+    "Но это всё, что мне пришло в голову так быстро."
 
 # ch/ayesha/fuck.rpy:2474
 translate russian ayesha_fuck_date_doggy_2df4e06f:
@@ -22858,7 +22858,7 @@ translate russian ayesha_fuck_date_doggy_b642389b:
 
 # ch/ayesha/fuck.rpy:2479
 translate russian ayesha_fuck_date_doggy_eacb41c7:
-    "Одновременно толкая свой член вперед, я тяну Айшу к себе и погружаюсь в нее."
+    "Одновременно толкая свой член вперёд, я тяну Айшу к себе и погружаюсь в неё."
 
 # ch/ayesha/fuck.rpy:2480
 translate russian ayesha_fuck_date_doggy_a58ba49d:
@@ -22874,19 +22874,19 @@ translate russian ayesha_fuck_date_doggy_414125fb:
 
 # ch/ayesha/fuck.rpy:2483
 translate russian ayesha_fuck_date_doggy_8df3d408:
-    "Но в этом звуке нет ни малейшего намека на тревогу или дискомфорт."
+    "Но в этом звуке нет ни малейшего намёка на тревогу или дискомфорт."
 
 # ch/ayesha/fuck.rpy:2484
 translate russian ayesha_fuck_date_doggy_3f60ed84:
-    "Вместо этого она полностью погружается в момент, ощущая мое проникновение."
+    "Вместо этого она полностью погружается в момент, ощущая моё проникновение."
 
 # ch/ayesha/fuck.rpy:2485
 translate russian ayesha_fuck_date_doggy_0ea0e8b4:
-    "Я вижу, как глаза Айши закрываются, а ее губы плотно сжимаются в кружок."
+    "Я вижу, как глаза Айши закрываются, а её губы плотно сжимаются в кружок."
 
 # ch/ayesha/fuck.rpy:2486
 translate russian ayesha_fuck_date_doggy_8600facb:
-    "Они выглядят так соблазнительно, когда я бросаю на них взгляд через ее плечо, напоминая мне о тех, что находятся... там."
+    "Они выглядят так соблазнительно, когда я бросаю на них взгляд через её плечо, напоминая мне о тех, что находятся... там."
 
 # ch/ayesha/fuck.rpy:2487
 translate russian ayesha_fuck_date_doggy_543143cb:
@@ -22894,7 +22894,7 @@ translate russian ayesha_fuck_date_doggy_543143cb:
 
 # ch/ayesha/fuck.rpy:2488
 translate russian ayesha_fuck_date_doggy_0011e5f2:
-    "Мои руки скользят вверх по ее ягодицам и останавливаются у нее в пояснице."
+    "Мои руки скользят вверх по её ягодицам и останавливаются у неё в пояснице."
 
 # ch/ayesha/fuck.rpy:2489
 translate russian ayesha_fuck_date_doggy_736bb18e:
@@ -22978,7 +22978,7 @@ translate russian ayesha_fuck_date_doggy_c0df959d:
 
 # ch/ayesha/fuck.rpy:2540
 translate russian ayesha_fuck_date_doggy_6f778786:
-    "Это движение, ощущение её влагалища и звуки, которые она издает – всё это просто слишком много."
+    "Это движение, ощущение её влагалища и звуки, которые она издаёт — всё это просто слишком много."
 
 # ch/ayesha/fuck.rpy:2541
 translate russian ayesha_fuck_date_doggy_dcd130fb:
@@ -23002,7 +23002,7 @@ translate russian ayesha_fuck_date_doggy_61d1e0ca:
 
 # ch/ayesha/fuck.rpy:2551
 translate russian ayesha_fuck_date_doggy_ab1b1694:
-    "После этого Айша остается почти придавленной к кровати и тяжело дышит, пока я извлекаюсь из неё."
+    "После этого Айша остаётся почти придавленной к кровати и тяжело дышит, пока я извлекаюсь из неё."
 
 # ch/ayesha/fuck.rpy:2555
 translate russian ayesha_fuck_date_doggy_1d9d9a37:
@@ -23010,19 +23010,19 @@ translate russian ayesha_fuck_date_doggy_1d9d9a37:
 
 # ch/ayesha/fuck.rpy:2556
 translate russian ayesha_fuck_date_doggy_c03b703e:
-    "Она издает звук, который больше похож на отсутствие звука, чем на что-либо ещё, но остается именно там, где она есть."
+    "Она издаёт звук, который больше похож на отсутствие звука, чем на что-либо ещё, но остаётся именно там, где она есть."
 
 # ch/ayesha/fuck.rpy:2559
 translate russian ayesha_fuck_date_doggy_974e687a:
-    "Это значит, что я извергаю сперму на ее спину и ягодицы, оставляя полосы, как у зебры, но в негативном цвете."
+    "Это значит, что я извергаю сперму на её спину и ягодицы, оставляя полосы, как у зебры, но в негативном цвете."
 
 # ch/ayesha/fuck.rpy:2562
 translate russian ayesha_fuck_date_doggy_f900750e:
-    "Она оборачивается ко мне через плечо, ее щеки красные, а глаза широко раскрыты."
+    "Она оборачивается ко мне через плечо, её щеки красные, а глаза широко раскрыты."
 
 # ch/ayesha/fuck.rpy:2564
 translate russian ayesha_fuck_date_doggy_27aa6feb:
-    "Никто из нас не произносит ни слова, мы оба все еще задыхаемся."
+    "Никто из нас не произносит ни слова, мы оба всё ещё задыхаемся."
 
 # ch/ayesha/fuck.rpy:2565
 translate russian ayesha_fuck_date_doggy_efcabf54:
@@ -23054,19 +23054,19 @@ translate russian ayesha_fuck_date_doggy_93a150d6:
 
 # ch/ayesha/fuck.rpy:2577
 translate russian ayesha_fuck_date_doggy_27f9357b:
-    "Я не мог бы зайти в нее глубже, даже если бы попытался."
+    "Я не мог бы зайти в неё глубже, даже если бы попытался."
 
 # ch/ayesha/fuck.rpy:2579
 translate russian ayesha_fuck_date_doggy_85a97b2a:
-    "Она лежит под мной, и все, что она может делать – это продолжать двигаться и принимать все, что я ей даю."
+    "Она лежит под мной, и всё, что она может делать — это продолжать двигаться и принимать всё, что я ей даю."
 
 # ch/ayesha/fuck.rpy:2580
 translate russian ayesha_fuck_date_doggy_57bf6e68:
-    "Айша почти прижата к кровати, тяжело дышит, когда я наконец-то вытаскиваюсь из нее."
+    "Айша почти прижата к кровати, тяжело дышит, когда я наконец-то вытаскиваюсь из неё."
 
 # ch/ayesha/fuck.rpy:2581
 translate russian ayesha_fuck_date_doggy_835f7e91:
-    "Ее щеки красные, она задыхается, и сперма уже стекает по внутренней стороне ее ног."
+    "Её щеки красные, она задыхается, и сперма уже стекает по внутренней стороне её ног."
 
 # ch/ayesha/fuck.rpy:2583
 translate russian ayesha_fuck_date_doggy_dfa013a6:
@@ -23094,11 +23094,11 @@ translate russian ayesha_fuck_date_doggy_91cc3225:
 
 # ch/ayesha/fuck.rpy:2592
 translate russian ayesha_fuck_date_doggy_57bf6e68_1:
-    "Айша почти прижата к кровати, тяжело дышит, когда я наконец-то вытаскиваюсь из нее."
+    "Айша почти прижата к кровати, тяжело дышит, когда я наконец-то вытаскиваюсь из неё."
 
 # ch/ayesha/fuck.rpy:2594
 translate russian ayesha_fuck_date_doggy_835f7e91_1:
-    "Ее щеки красные, она задыхается, и сперма уже стекает по внутренней стороне ее ног."
+    "Её щеки красные, она задыхается, и сперма уже стекает по внутренней стороне её ног."
 
 # ch/ayesha/fuck.rpy:2596
 translate russian ayesha_fuck_date_doggy_d5c2b4a3:
@@ -23106,7 +23106,7 @@ translate russian ayesha_fuck_date_doggy_d5c2b4a3:
 
 # ch/ayesha/fuck.rpy:2597
 translate russian ayesha_fuck_date_doggy_d3325aa2:
-    "Я так удивлен этим, что почти замираю, все мысли о том, что я делал, мгновенно исчезают."
+    "Я так удивлён этим, что почти замираю, все мысли о том, что я делал, мгновенно исчезают."
 
 # ch/ayesha/fuck.rpy:2598
 translate russian ayesha_fuck_date_doggy_49e6f78c:
@@ -23118,7 +23118,7 @@ translate russian ayesha_fuck_date_doggy_c651deb1:
 
 # ch/ayesha/fuck.rpy:2603
 translate russian ayesha_fuck_date_doggy_33c1f383:
-    ayesha.say "Черт...да...вот оно!"
+    ayesha.say "Чёрт...да...вот оно!"
 
 # ch/ayesha/fuck.rpy:2605
 translate russian ayesha_fuck_date_doggy_79ca6701:
@@ -23126,15 +23126,15 @@ translate russian ayesha_fuck_date_doggy_79ca6701:
 
 # ch/ayesha/fuck.rpy:2607
 translate russian ayesha_fuck_date_doggy_84fce141:
-    "Но я все еще в замешательстве относительно того, что только что произошло и почему…"
+    "Но я всё ещё в замешательстве относительно того, что только что произошло и почему..."
 
 # ch/ayesha/fuck.rpy:2612
 translate russian ayesha_fuck_date_doggy_83c98dc7:
-    ayesha.say "О...черт..."
+    ayesha.say "О...чёрт..."
 
 # ch/ayesha/fuck.rpy:2613
 translate russian ayesha_fuck_date_doggy_466c8137:
-    ayesha.say "Вот что мне было нужно…"
+    ayesha.say "Вот что мне было нужно..."
 
 # ch/ayesha/fuck.rpy:2615
 translate russian ayesha_fuck_date_doggy_9cee237b:
@@ -23142,7 +23142,7 @@ translate russian ayesha_fuck_date_doggy_9cee237b:
 
 # ch/ayesha/fuck.rpy:2616
 translate russian ayesha_fuck_date_doggy_09657af6:
-    mike.say "Черт побери! Десять чертей!"
+    mike.say "Чёрт побери! Десять чертей!"
 
 # ch/ayesha/fuck.rpy:2618
 translate russian ayesha_fuck_date_doggy_79ca6701_1:
@@ -23150,7 +23150,7 @@ translate russian ayesha_fuck_date_doggy_79ca6701_1:
 
 # ch/ayesha/fuck.rpy:2620
 translate russian ayesha_fuck_date_doggy_26c9ca9d:
-    "Но это ощущение навсегда испорчено знанием о том, что только что произошло…"
+    "Но это ощущение навсегда испорчено знанием о том, что только что произошло..."
 
 # ch/ayesha/fuck.rpy:2626
 translate russian ayesha_fuck_date_missionary_2a3f63ef:
@@ -23170,7 +23170,7 @@ translate russian ayesha_fuck_date_missionary_239508f2:
 
 # ch/ayesha/fuck.rpy:2630
 translate russian ayesha_fuck_date_missionary_0d49f0f3:
-    "Может быть, дело в ощущении горизонтального положения поверх Аиши."
+    "Может быть, дело в ощущении горизонтального положения поверх Айши."
 
 # ch/ayesha/fuck.rpy:2631
 translate russian ayesha_fuck_date_missionary_67e6b822:
@@ -23178,7 +23178,7 @@ translate russian ayesha_fuck_date_missionary_67e6b822:
 
 # ch/ayesha/fuck.rpy:2632
 translate russian ayesha_fuck_date_missionary_6ee77f8e:
-    "Но что бы ни было причиной, я чувствую, как мое сердце начинает бешено колотиться в груди."
+    "Но что бы ни было причиной, я чувствую, как моё сердце начинает бешено колотиться в груди."
 
 # ch/ayesha/fuck.rpy:2633
 translate russian ayesha_fuck_date_missionary_fc7a0e9a:
@@ -23218,11 +23218,11 @@ translate russian ayesha_fuck_date_missionary_b444e22d:
 
 # ch/ayesha/fuck.rpy:2645
 translate russian ayesha_fuck_date_missionary_a5d0857f:
-    "Я хочу только одного – перейти к следующему этапу с Аишей."
+    "Я хочу только одного — перейти к следующему этапу с Айшей."
 
 # ch/ayesha/fuck.rpy:2646
 translate russian ayesha_fuck_date_missionary_4219b964:
-    "Но сначала мне нужно решить, куда именно…"
+    "Но сначала мне нужно решить, куда именно..."
 
 # ch/ayesha/fuck.rpy:2649
 translate russian ayesha_fuck_date_missionary_9614a429:
@@ -23234,7 +23234,7 @@ translate russian ayesha_fuck_date_missionary_10f32bd2:
 
 # ch/ayesha/fuck.rpy:2651
 translate russian ayesha_fuck_date_missionary_7be2e0d3:
-    "Я удивленно смотрю вниз, услышав голос Аиши."
+    "Я удивлённо смотрю вниз, услышав голос Айши."
 
 # ch/ayesha/fuck.rpy:2652
 translate russian ayesha_fuck_date_missionary_374206ce:
@@ -23254,7 +23254,7 @@ translate russian ayesha_fuck_date_missionary_46809888:
 
 # ch/ayesha/fuck.rpy:2656
 translate russian ayesha_fuck_date_missionary_e77205d2:
-    "Аиша почти истерически кивает, едва услышав это слово."
+    "Айша почти истерически кивает, едва услышав это слово."
 
 # ch/ayesha/fuck.rpy:2657
 translate russian ayesha_fuck_date_missionary_5fbc20ed:
@@ -23270,7 +23270,7 @@ translate russian ayesha_fuck_date_missionary_efefe4b0:
 
 # ch/ayesha/fuck.rpy:2662
 translate russian ayesha_fuck_date_missionary_7be2e0d3_1:
-    "Я удивленно смотрю вниз, услышав голос Аиши."
+    "Я удивлённо смотрю вниз, услышав голос Айши."
 
 # ch/ayesha/fuck.rpy:2663
 translate russian ayesha_fuck_date_missionary_374206ce_1:
@@ -23294,7 +23294,7 @@ translate russian ayesha_fuck_date_missionary_c5418fb6:
 
 # ch/ayesha/fuck.rpy:2668
 translate russian ayesha_fuck_date_missionary_f47b8af2:
-    "Но и потому, что меня возбуждает сама Аиша, которая так скромно просит об этом."
+    "Но и потому, что меня возбуждает сама Айша, которая так скромно просит об этом."
 
 # ch/ayesha/fuck.rpy:2669
 translate russian ayesha_fuck_date_missionary_85b7801f:
@@ -23306,15 +23306,15 @@ translate russian ayesha_fuck_date_missionary_63cc375b:
 
 # ch/ayesha/fuck.rpy:2677
 translate russian ayesha_fuck_date_missionary_c76f2688:
-    "Но когда я готовлюсь погрузить свой член в задницу Аиши, это просто кажется таким правильным."
+    "Но когда я готовлюсь погрузить свой член в задницу Айши, это просто кажется таким правильным."
 
 # ch/ayesha/fuck.rpy:2678
 translate russian ayesha_fuck_date_missionary_47182038:
-    "И когда она смотрит на меня, я почти уверен, что вижу то же самое в ее глазах."
+    "И когда она смотрит на меня, я почти уверен, что вижу то же самое в её глазах."
 
 # ch/ayesha/fuck.rpy:2679
 translate russian ayesha_fuck_date_missionary_850ab42c:
-    "Когда я чувствую, как моя голова проникает между ягодицами Айши, она издает тихий стон."
+    "Когда я чувствую, как моя голова проникает между ягодицами Айши, она издаёт тихий стон."
 
 # ch/ayesha/fuck.rpy:2680
 translate russian ayesha_fuck_date_missionary_abc27360:
@@ -23322,19 +23322,19 @@ translate russian ayesha_fuck_date_missionary_abc27360:
 
 # ch/ayesha/fuck.rpy:2681
 translate russian ayesha_fuck_date_missionary_416584a4:
-    "Вместо этого это только подстегивает меня, ведь я знаю, насколько сильно она ждет того, что произойдет дальше."
+    "Вместо этого это только подстёгивает меня, ведь я знаю, насколько сильно она ждёт того, что произойдёт дальше."
 
 # ch/ayesha/fuck.rpy:2682
 translate russian ayesha_fuck_date_missionary_fb52ecc4:
-    "Даже мышцы ее ягодиц, кажется, дрожат от прикосновения моего члена."
+    "Даже мышцы её ягодиц, кажется, дрожат от прикосновения моего члена."
 
 # ch/ayesha/fuck.rpy:2683
 translate russian ayesha_fuck_date_missionary_ba307f14:
-    "И хотя сопротивление остается на том же уровне, как и должно быть, я все равно могу проникнуть внутрь."
+    "И хотя сопротивление остаётся на том же уровне, как и должно быть, я всё равно могу проникнуть внутрь."
 
 # ch/ayesha/fuck.rpy:2684
 translate russian ayesha_fuck_date_missionary_db1998b4:
-    "Айша издает еще один стон, когда я начинаю проникать в нее все глубже."
+    "Айша издаёт ещё один стон, когда я начинаю проникать в неё всё глубже."
 
 # ch/ayesha/fuck.rpy:2685
 translate russian ayesha_fuck_date_missionary_b7653081:
@@ -23366,19 +23366,19 @@ translate russian ayesha_fuck_date_missionary_74cce4c6:
 
 # ch/ayesha/fuck.rpy:2692
 translate russian ayesha_fuck_date_missionary_2fa7369b:
-    "Но все, что я действительно могу сделать, – это начать медленно двигаться вперед и назад внутри нее."
+    "Но всё, что я действительно могу сделать, — это начать медленно двигаться вперёд и назад внутри неё."
 
 # ch/ayesha/fuck.rpy:2694
 translate russian ayesha_fuck_date_missionary_4c98e81f:
-    "И хотя, возможно, это не то, чего она хотела, этого все равно достаточно, чтобы снова оставить ее без слов."
+    "И хотя, возможно, это не то, чего она хотела, этого всё равно достаточно, чтобы снова оставить её без слов."
 
 # ch/ayesha/fuck.rpy:2695
 translate russian ayesha_fuck_date_missionary_73a0c9f9:
-    "Сила речи Айши исчезает, и вместо нее снова звучат стоны удовольствия."
+    "Сила речи Айши исчезает, и вместо неё снова звучат стоны удовольствия."
 
 # ch/ayesha/fuck.rpy:2701
 translate russian ayesha_fuck_date_missionary_37152627:
-    "Каждый раз, когда я проникаю в неё, звук, который она издает, почти похож на слово, но не совсем."
+    "Каждый раз, когда я проникаю в неё, звук, который она издаёт, почти похож на слово, но не совсем."
 
 # ch/ayesha/fuck.rpy:2702
 translate russian ayesha_fuck_date_missionary_8eab09fe:
@@ -23434,15 +23434,15 @@ translate russian ayesha_fuck_date_missionary_353db7ef:
 
 # ch/ayesha/fuck.rpy:2727
 translate russian ayesha_fuck_date_missionary_5b48707f:
-    "Ее вся суть поглощена самим актом получения удовольствия таким образом."
+    "Её вся суть поглощена самим актом получения удовольствия таким образом."
 
 # ch/ayesha/fuck.rpy:2733
 translate russian ayesha_fuck_date_missionary_d0a6b7a7:
-    "И все, что она может делать, это просто лежать и принимать все, что я ей даю."
+    "И всё, что она может делать, это просто лежать и принимать всё, что я ей даю."
 
 # ch/ayesha/fuck.rpy:2734
 translate russian ayesha_fuck_date_missionary_1a62e27d:
-    "Последнее из этого – это кульминация, которую я чувствую, нарастающую во мне прямо сейчас!"
+    "Последнее из этого — это кульминация, которую я чувствую, нарастающую во мне прямо сейчас!"
 
 # ch/ayesha/fuck.rpy:2738
 translate russian ayesha_fuck_date_missionary_68f86f5c:
@@ -23454,7 +23454,7 @@ translate russian ayesha_fuck_date_missionary_e9a9373b:
 
 # ch/ayesha/fuck.rpy:2742
 translate russian ayesha_fuck_date_missionary_79005820:
-    "Поэтому именно это я и делаю, вкладывая себя на абсолютный предел и используя все, что у меня осталось."
+    "Поэтому именно это я и делаю, вкладывая себя на абсолютный предел и используя всё, что у меня осталось."
 
 # ch/ayesha/fuck.rpy:2744
 translate russian ayesha_fuck_date_missionary_e96ca213:
@@ -23462,15 +23462,15 @@ translate russian ayesha_fuck_date_missionary_e96ca213:
 
 # ch/ayesha/fuck.rpy:2745
 translate russian ayesha_fuck_date_missionary_e1aad445:
-    "Я вижу, как ее глаза закатываются, а голова падает назад на кровать."
+    "Я вижу, как её глаза закатываются, а голова падает назад на кровать."
 
 # ch/ayesha/fuck.rpy:2746
 translate russian ayesha_fuck_date_missionary_5d9272ee:
-    "Единственное, что убеждает меня в том, что она еще жива, – это звук ее прерывистого дыхания."
+    "Единственное, что убеждает меня в том, что она ещё жива, — это звук её прерывистого дыхания."
 
 # ch/ayesha/fuck.rpy:2747
 translate russian ayesha_fuck_date_missionary_f9dfbdb0:
-    "Именно тогда я слышу это сквозь свое собственное тяжелое дыхание."
+    "Именно тогда я слышу это сквозь своё собственное тяжёлое дыхание."
 
 # ch/ayesha/fuck.rpy:2751
 translate russian ayesha_fuck_date_missionary_33cfdd76:
@@ -23478,11 +23478,11 @@ translate russian ayesha_fuck_date_missionary_33cfdd76:
 
 # ch/ayesha/fuck.rpy:2752
 translate russian ayesha_fuck_date_missionary_6e1bfaab:
-    "Затем, в самый последний момент, я вытаскиваюсь из нее без какого-либо предупреждения."
+    "Затем, в самый последний момент, я вытаскиваюсь из неё без какого-либо предупреждения."
 
 # ch/ayesha/fuck.rpy:2754
 translate russian ayesha_fuck_date_missionary_1441ae5c:
-    "Я вижу, как глаза Айши широко открываются от неожиданности этого ощущения, ее рот приоткрывается от внезапного шока."
+    "Я вижу, как глаза Айши широко открываются от неожиданности этого ощущения, её рот приоткрывается от внезапного шока."
 
 # ch/ayesha/fuck.rpy:2755
 translate russian ayesha_fuck_date_missionary_d1424392:
@@ -23494,11 +23494,11 @@ translate russian ayesha_fuck_date_missionary_26a3f8e6:
 
 # ch/ayesha/fuck.rpy:2759
 translate russian ayesha_fuck_date_missionary_25da106c:
-    "Вид того, как это стекает по ее лицу и вниз по ее груди, что-то невероятное."
+    "Вид того, как это стекает по её лицу и вниз по её груди, что-то невероятное."
 
 # ch/ayesha/fuck.rpy:2761
 translate russian ayesha_fuck_date_missionary_044d167b:
-    "Почти так же хорошо, как ощущение, которое я получил, когда был внутри нее."
+    "Почти так же хорошо, как ощущение, которое я получил, когда был внутри неё."
 
 # ch/ayesha/fuck.rpy:2764
 translate russian ayesha_fuck_date_missionary_ef42df62:
@@ -23514,19 +23514,19 @@ translate russian ayesha_fuck_date_missionary_2c45282e:
 
 # ch/ayesha/fuck.rpy:2767
 translate russian ayesha_fuck_date_missionary_d9288296:
-    "Я уже представляю себе ощущение того, как я погружаюсь в нее настолько глубоко, насколько это возможно."
+    "Я уже представляю себе ощущение того, как я погружаюсь в неё настолько глубоко, насколько это возможно."
 
 # ch/ayesha/fuck.rpy:2775
 translate russian ayesha_fuck_date_missionary_b88bce0e:
-    "Айша прикусывает губу, когда я начинаю тереть кончиком своего члена о ее губы."
+    "Айша прикусывает губу, когда я начинаю тереть кончиком своего члена о её губы."
 
 # ch/ayesha/fuck.rpy:2776
 translate russian ayesha_fuck_date_missionary_3ff62b90:
-    "Сначала я не могу не беспокоиться о том, что это признак боли или дискомфорта с ее стороны."
+    "Сначала я не могу не беспокоиться о том, что это признак боли или дискомфорта с её стороны."
 
 # ch/ayesha/fuck.rpy:2777
 translate russian ayesha_fuck_date_missionary_f2a70688:
-    "Но затем я понимаю, что то, что я вижу в ее глазах, – это чистый восторг."
+    "Но затем я понимаю, что то, что я вижу в её глазах, — это чистый восторг."
 
 # ch/ayesha/fuck.rpy:2778
 translate russian ayesha_fuck_date_missionary_31e9d3d3:
@@ -23542,11 +23542,11 @@ translate russian ayesha_fuck_date_missionary_a632b88b:
 
 # ch/ayesha/fuck.rpy:2781
 translate russian ayesha_fuck_date_missionary_73a65ac7:
-    "Я понимаю, что добиваюсь успеха, когда она перестает прикусывать губу."
+    "Я понимаю, что добиваюсь успеха, когда она перестаёт прикусывать губу."
 
 # ch/ayesha/fuck.rpy:2783
 translate russian ayesha_fuck_date_missionary_c32b47d8:
-    "И вместо этого ее рот открывается в беззвучный, учащенный вдох."
+    "И вместо этого её рот открывается в беззвучный, учащенный вдох."
 
 # ch/ayesha/fuck.rpy:2784
 translate russian ayesha_fuck_date_missionary_91813941:
@@ -23554,27 +23554,27 @@ translate russian ayesha_fuck_date_missionary_91813941:
 
 # ch/ayesha/fuck.rpy:2785
 translate russian ayesha_fuck_date_missionary_d76c8440:
-    "При этом я внимательно слежу за выражением лица Айши, наблюдая за ее реакцией."
+    "При этом я внимательно слежу за выражением лица Айши, наблюдая за её реакцией."
 
 # ch/ayesha/fuck.rpy:2786
 translate russian ayesha_fuck_date_missionary_95ac99b8:
-    "И действительно, я вижу, как ее рот открывается еще шире, почти превращаясь в беззвучный крик."
+    "И действительно, я вижу, как её рот открывается ещё шире, почти превращаясь в беззвучный крик."
 
 # ch/ayesha/fuck.rpy:2787
 translate russian ayesha_fuck_date_missionary_f7c7fcec:
-    "Я чувствую, как рука Айши опускается между ее ног, и она ищет свою влагалище."
+    "Я чувствую, как рука Айши опускается между её ног, и она ищет свою влагалище."
 
 # ch/ayesha/fuck.rpy:2788
 translate russian ayesha_fuck_date_missionary_547cf619:
-    "И когда ее пальцы оказываются там, они пытаются еще шире раскрыть губы."
+    "И когда её пальцы оказываются там, они пытаются ещё шире раскрыть губы."
 
 # ch/ayesha/fuck.rpy:2789
 translate russian ayesha_fuck_date_missionary_0c6e01f3:
-    "Что это может значить, кроме того, что она хочет, чтобы я зашел глубже?"
+    "Что это может значить, кроме того, что она хочет, чтобы я зашёл глубже?"
 
 # ch/ayesha/fuck.rpy:2790
 translate russian ayesha_fuck_date_missionary_5717e3f1:
-    "Я делаю все возможное, чтобы это произошло, двигаясь в нее с большей интенсивностью, чем когда-либо прежде."
+    "Я делаю все возможное, чтобы это произошло, двигаясь в неё с большей интенсивностью, чем когда-либо прежде."
 
 # ch/ayesha/fuck.rpy:2792
 translate russian ayesha_fuck_date_missionary_2f562652:
@@ -23582,7 +23582,7 @@ translate russian ayesha_fuck_date_missionary_2f562652:
 
 # ch/ayesha/fuck.rpy:2793
 translate russian ayesha_fuck_date_missionary_6dc421fd:
-    "Ее язык вылетает наружу, чтобы найти мой рот, словно нам необходимо быть связанными всеми возможными способами."
+    "Её язык вылетает наружу, чтобы найти мой рот, словно нам необходимо быть связанными всеми возможными способами."
 
 # ch/ayesha/fuck.rpy:2801
 translate russian ayesha_fuck_date_missionary_af79298a:
@@ -23590,11 +23590,11 @@ translate russian ayesha_fuck_date_missionary_af79298a:
 
 # ch/ayesha/fuck.rpy:2802
 translate russian ayesha_fuck_date_missionary_587167ab:
-    "И с любой другой девушкой я бы испугался, что это слишком для нее."
+    "И с любой другой девушкой я бы испугался, что это слишком для неё."
 
 # ch/ayesha/fuck.rpy:2803
 translate russian ayesha_fuck_date_missionary_210ce14a:
-    "Но Айша просто принимает все, что я ей даю, и требует больше."
+    "Но Айша просто принимает всё, что я ей даю, и требует больше."
 
 # ch/ayesha/fuck.rpy:2805
 translate russian ayesha_fuck_date_missionary_c06d3b69:
@@ -23666,7 +23666,7 @@ translate russian ayesha_fuck_date_missionary_c71a2dbd:
 
 # ch/ayesha/fuck.rpy:2835
 translate russian ayesha_fuck_date_missionary_353be555:
-    "Проблема в том, что у нее может быть выносливость скачки, а у меня нет!"
+    "Проблема в том, что у неё может быть выносливость скачки, а у меня нет!"
 
 # ch/ayesha/fuck.rpy:2839
 translate russian ayesha_fuck_date_missionary_bbb460cc:
@@ -23682,11 +23682,11 @@ translate russian ayesha_fuck_date_missionary_ac39d1c4:
 
 # ch/ayesha/fuck.rpy:2845
 translate russian ayesha_fuck_date_missionary_66114767:
-    "Мы остаёмся переплетенными друг с другом до самого конца."
+    "Мы остаёмся переплетёнными друг с другом до самого конца."
 
 # ch/ayesha/fuck.rpy:2846
 translate russian ayesha_fuck_date_missionary_5d83fb8b:
-    "И когда это заканчивается, мы все равно остаемся крепко связанными."
+    "И когда это заканчивается, мы всё равно остаёмся крепко связанными."
 
 # ch/ayesha/fuck.rpy:2847
 translate russian ayesha_fuck_date_missionary_f90d0a83:
@@ -23694,7 +23694,7 @@ translate russian ayesha_fuck_date_missionary_f90d0a83:
 
 # ch/ayesha/fuck.rpy:2849
 translate russian ayesha_fuck_date_missionary_b89046a7:
-    "Насколько бы сильной ни была Айша, у нее недостаточно силы мышц, чтобы удерживать меня внутри себя."
+    "Насколько бы сильной ни была Айша, у неё недостаточно силы мышц, чтобы удерживать меня внутри себя."
 
 # ch/ayesha/fuck.rpy:2850
 translate russian ayesha_fuck_date_missionary_decad628:
@@ -23702,19 +23702,19 @@ translate russian ayesha_fuck_date_missionary_decad628:
 
 # ch/ayesha/fuck.rpy:2851
 translate russian ayesha_fuck_date_missionary_3b43298f:
-    "В тот момент, когда мой член выскользнул из нее, Айша застонала от разочарования."
+    "В тот момент, когда мой член выскользнул из неё, Айша застонала от разочарования."
 
 # ch/ayesha/fuck.rpy:2854
 translate russian ayesha_fuck_date_missionary_30744a14:
-    "Но я настолько поглощен моментом, что не могу предложить ей никакой поддержки."
+    "Но я настолько поглощён моментом, что не могу предложить ей никакой поддержки."
 
 # ch/ayesha/fuck.rpy:2856
 translate russian ayesha_fuck_date_missionary_3fcd3966:
-    "Ну, есть еще и тот факт, что я не могу оторвать взгляд, пока кончу на нее."
+    "Ну, есть ещё и тот факт, что я не могу оторвать взгляд, пока кончу на неё."
 
 # ch/ayesha/fuck.rpy:2857
 translate russian ayesha_fuck_date_missionary_bc720c73:
-    "Я тяжело дышу и задыхаюсь, наблюдая, как белые полосы рисуют узоры на изысканных изгибах ее кожи."
+    "Я тяжело дышу и задыхаюсь, наблюдая, как белые полосы рисуют узоры на изысканных изгибах её кожи."
 
 # ch/ayesha/fuck.rpy:2859
 translate russian ayesha_fuck_date_missionary_a018c069:
@@ -23734,11 +23734,11 @@ translate russian ayesha_fuck_date_missionary_d3618e7a:
 
 # ch/ayesha/fuck.rpy:2866
 translate russian ayesha_fuck_date_missionary_3d2b8e76:
-    "Кажется, ей тоже нравится каждый момент этого, она крепко держится за меня все время."
+    "Кажется, ей тоже нравится каждый момент этого, она крепко держится за меня всё время."
 
 # ch/ayesha/fuck.rpy:2868
 translate russian ayesha_fuck_date_missionary_a0579e68:
-    "После этого она обмякает, наконец-то удовлетворенная, а сперма уже начинает вытекать обратно из неё."
+    "После этого она обмякает, наконец-то удовлетворённая, а сперма уже начинает вытекать обратно из неё."
 
 # ch/ayesha/fuck.rpy:2870
 translate russian ayesha_fuck_date_missionary_2773e248:
@@ -23746,7 +23746,7 @@ translate russian ayesha_fuck_date_missionary_2773e248:
 
 # ch/ayesha/fuck.rpy:2871
 translate russian ayesha_fuck_date_missionary_34f9a24e:
-    ayesha.say "Ну что, можешь кончать в меня сколько угодно…"
+    ayesha.say "Ну что, можешь кончать в меня сколько угодно..."
 
 # ch/ayesha/fuck.rpy:2872
 translate russian ayesha_fuck_date_missionary_3e047caf:
@@ -23762,23 +23762,23 @@ translate russian ayesha_fuck_date_missionary_d3618e7a_1:
 
 # ch/ayesha/fuck.rpy:2878
 translate russian ayesha_fuck_date_missionary_3d2b8e76_1:
-    "Кажется, ей тоже нравится каждый момент этого, она крепко держится за меня все время."
+    "Кажется, ей тоже нравится каждый момент этого, она крепко держится за меня всё время."
 
 # ch/ayesha/fuck.rpy:2880
 translate russian ayesha_fuck_date_missionary_a0579e68_1:
-    "После этого она обмякает, наконец-то удовлетворенная, а сперма уже начинает вытекать обратно из неё."
+    "После этого она обмякает, наконец-то удовлетворённая, а сперма уже начинает вытекать обратно из неё."
 
 # ch/ayesha/fuck.rpy:2882
 translate russian ayesha_fuck_date_missionary_74e8d35d:
-    mike.say "Айша…"
+    mike.say "Айша..."
 
 # ch/ayesha/fuck.rpy:2883
 translate russian ayesha_fuck_date_missionary_5d503ecf:
-    mike.say "Ты должна отпустить меня…"
+    mike.say "Ты должна отпустить меня..."
 
 # ch/ayesha/fuck.rpy:2884
 translate russian ayesha_fuck_date_missionary_08de0621:
-    mike.say "Сейчас, пока не стало слишком поздно…"
+    mike.say "Сейчас, пока не стало слишком поздно..."
 
 # ch/ayesha/fuck.rpy:2885
 translate russian ayesha_fuck_date_missionary_8817fe5e:
@@ -23786,23 +23786,23 @@ translate russian ayesha_fuck_date_missionary_8817fe5e:
 
 # ch/ayesha/fuck.rpy:2886
 translate russian ayesha_fuck_date_missionary_40fcee9f:
-    "Вместо этого она держит меня так крепко, как только может, и ее сильные руки удерживают меня в своих объятиях."
+    "Вместо этого она держит меня так крепко, как только может, и её сильные руки удерживают меня в своих объятиях."
 
 # ch/ayesha/fuck.rpy:2890
 translate russian ayesha_fuck_date_missionary_fef3cd98:
-    "Через мгновение я теряюсь внутри нее, но восторг омрачается тем, что она только что сделала."
+    "Через мгновение я теряюсь внутри неё, но восторг омрачается тем, что она только что сделала."
 
 # ch/ayesha/fuck.rpy:2892
 translate russian ayesha_fuck_date_missionary_84169095:
-    "И даже когда Айша переживает последние моменты моего оргазма, я уже думаю о последствиях…"
+    "И даже когда Айша переживает последние моменты моего оргазма, я уже думаю о последствиях..."
 
 # ch/ayesha/fuck.rpy:2894
 translate russian ayesha_fuck_date_missionary_f9890ee2:
-    ayesha.say "Ох… черт…"
+    ayesha.say "Ох... чёрт..."
 
 # ch/ayesha/fuck.rpy:2895
 translate russian ayesha_fuck_date_missionary_7eababef:
-    ayesha.say "Да… да…"
+    ayesha.say "Да... да..."
 
 # ch/ayesha/fuck.rpy:2896
 translate russian ayesha_fuck_date_missionary_e5c7a7a6:
@@ -23814,19 +23814,19 @@ translate russian ayesha_fuck_date_missionary_8b8a0ea0:
 
 # ch/ayesha/fuck.rpy:2903
 translate russian ayesha_fuck_date_missionary_5cb5004a:
-    "Поглощенные моментом, мы оба забыли, что я сейчас еду на Айше верхом, без седла."
+    "Поглощённые моментом, мы оба забыли, что я сейчас еду на Айше верхом, без седла."
 
 # ch/ayesha/fuck.rpy:2904
 translate russian ayesha_fuck_date_missionary_63ef1355:
-    "И теперь нам остается только смотреть друг на друга в ошеломленной тишине, пока реальность доходит до нас."
+    "И теперь нам остаётся только смотреть друг на друга в ошеломлённой тишине, пока реальность доходит до нас."
 
 # ch/ayesha/fuck.rpy:2912
 translate russian ayesha_fuck_date_cowgirl_332db5fa:
-    "Лежа на спине, я кладу обе руки на талию Айши, направляя ее, пока она не окажется верхом на мне."
+    "Лёжа на спине, я кладу обе руки на талию Айши, направляя её, пока она не окажется верхом на мне."
 
 # ch/ayesha/fuck.rpy:2913
 translate russian ayesha_fuck_date_cowgirl_b379d5c8:
-    "Она подходит ко мне без малейшего намека на протест, смотрит вниз на меня с улыбкой на лице."
+    "Она подходит ко мне без малейшего намёка на протест, смотрит вниз на меня с улыбкой на лице."
 
 # ch/ayesha/fuck.rpy:2916
 translate russian ayesha_fuck_date_cowgirl_9614a429:
@@ -23838,11 +23838,11 @@ translate russian ayesha_fuck_date_cowgirl_10f32bd2:
 
 # ch/ayesha/fuck.rpy:2918
 translate russian ayesha_fuck_date_cowgirl_cbbcbc65:
-    "Я удивленно поднимаю голову, услышав голос Айши."
+    "Я удивлённо поднимаю голову, услышав голос Айши."
 
 # ch/ayesha/fuck.rpy:2919
 translate russian ayesha_fuck_date_cowgirl_bf43621e:
-    "И я поднимаю брови, показывая, что она привлекла мое внимание."
+    "И я поднимаю брови, показывая, что она привлекла моё внимание."
 
 # ch/ayesha/fuck.rpy:2920
 translate russian ayesha_fuck_date_cowgirl_57e524b0:
@@ -23858,7 +23858,7 @@ translate russian ayesha_fuck_date_cowgirl_19f2caf3:
 
 # ch/ayesha/fuck.rpy:2923
 translate russian ayesha_fuck_date_cowgirl_7a2044e9:
-    "Глаза Аиши загораются при одном упоминании этого слова."
+    "Глаза Айши загораются при одном упоминании этого слова."
 
 # ch/ayesha/fuck.rpy:2924
 translate russian ayesha_fuck_date_cowgirl_3d8d81cf:
@@ -23874,7 +23874,7 @@ translate russian ayesha_fuck_date_cowgirl_6ef6be92:
 
 # ch/ayesha/fuck.rpy:2929
 translate russian ayesha_fuck_date_cowgirl_cbbcbc65_1:
-    "Я удивленно поднимаю голову, услышав голос Айши."
+    "Я удивлённо поднимаю голову, услышав голос Айши."
 
 # ch/ayesha/fuck.rpy:2930
 translate russian ayesha_fuck_date_cowgirl_b879ba0e:
@@ -23906,11 +23906,11 @@ translate russian ayesha_fuck_date_cowgirl_85b7801f:
 
 # ch/ayesha/fuck.rpy:2943
 translate russian ayesha_fuck_date_cowgirl_2dc66763:
-    "Я мог бы сейчас распоряжаться Аишей абсолютно так, как захочу."
+    "Я мог бы сейчас распоряжаться Айшей абсолютно так, как захочу."
 
 # ch/ayesha/fuck.rpy:2944
 translate russian ayesha_fuck_date_cowgirl_32be9727:
-    "Но часть меня не может удержаться от воспоминаний о том, как я массировал ее напряженные мышцы до этого момента."
+    "Но часть меня не может удержаться от воспоминаний о том, как я массировал её напряжённые мышцы до этого момента."
 
 # ch/ayesha/fuck.rpy:2945
 translate russian ayesha_fuck_date_cowgirl_cbdcd168:
@@ -23922,7 +23922,7 @@ translate russian ayesha_fuck_date_cowgirl_0cf6907e:
 
 # ch/ayesha/fuck.rpy:2947
 translate russian ayesha_fuck_date_cowgirl_479c9673:
-    "Вот почему я слежу за тем, чтобы кончик моего члена был направлен к ее ягодицам, когда она садится на меня."
+    "Вот почему я слежу за тем, чтобы кончик моего члена был направлен к её ягодицам, когда она садится на меня."
 
 # ch/ayesha/fuck.rpy:2948
 translate russian ayesha_fuck_date_cowgirl_1e969a85:
@@ -23934,11 +23934,11 @@ translate russian ayesha_fuck_date_cowgirl_061e6b5f:
 
 # ch/ayesha/fuck.rpy:2951
 translate russian ayesha_fuck_date_cowgirl_90cf506f:
-    "Я чувствую, как Айша немного напрягается, когда головка моего члена начинает проникать в нее."
+    "Я чувствую, как Айша немного напрягается, когда головка моего члена начинает проникать в неё."
 
 # ch/ayesha/fuck.rpy:2952
 translate russian ayesha_fuck_date_cowgirl_0758d293:
-    "Но она не пытается вырваться из моей хватки, когда сила тяжести начинает брать свое."
+    "Но она не пытается вырваться из моей хватки, когда сила тяжести начинает брать своё."
 
 # ch/ayesha/fuck.rpy:2953
 translate russian ayesha_fuck_date_cowgirl_548d7576:
@@ -23950,7 +23950,7 @@ translate russian ayesha_fuck_date_cowgirl_7f4ef6dd:
 
 # ch/ayesha/fuck.rpy:2955
 translate russian ayesha_fuck_date_cowgirl_c0e2914f:
-    "С каждым сантиметром, на который Айша опускается, я чувствую, как напрягаются ее мышцы и как они протестуют."
+    "С каждым сантиметром, на который Айша опускается, я чувствую, как напрягаются её мышцы и как они протестуют."
 
 # ch/ayesha/fuck.rpy:2957
 translate russian ayesha_fuck_date_cowgirl_c6408ff1:
@@ -23958,15 +23958,15 @@ translate russian ayesha_fuck_date_cowgirl_c6408ff1:
 
 # ch/ayesha/fuck.rpy:2958
 translate russian ayesha_fuck_date_cowgirl_cceb2673:
-    "Но ощущение тех же самых мышц, когда они наконец сдаются, еще лучше."
+    "Но ощущение тех же самых мышц, когда они наконец сдаются, ещё лучше."
 
 # ch/ayesha/fuck.rpy:2959
 translate russian ayesha_fuck_date_cowgirl_05106aad:
-    "Айша выдыхает последний вздох облегчения, когда ее ягодицы касаются моих коленей."
+    "Айша выдыхает последний вздох облегчения, когда её ягодицы касаются моих коленей."
 
 # ch/ayesha/fuck.rpy:2961
 translate russian ayesha_fuck_date_cowgirl_40f0bc8c:
-    "И я вполне доволен тем, что позволяю ей отдохнуть там несколько мгновений, наслаждаясь ее весом на себе."
+    "И я вполне доволен тем, что позволяю ей отдохнуть там несколько мгновений, наслаждаясь её весом на себе."
 
 # ch/ayesha/fuck.rpy:2962
 translate russian ayesha_fuck_date_cowgirl_d63416ca:
@@ -23978,15 +23978,15 @@ translate russian ayesha_fuck_date_cowgirl_13f81ed0:
 
 # ch/ayesha/fuck.rpy:2973
 translate russian ayesha_fuck_date_cowgirl_807fc5e9:
-    "Звуки, которые она издает, почти идеально синхронизированы с моими движениями."
+    "Звуки, которые она издаёт, почти идеально синхронизированы с моими движениями."
 
 # ch/ayesha/fuck.rpy:2983
 translate russian ayesha_fuck_date_cowgirl_068b0622:
-    "Я чувствую, как эти звуки идеально дополняют ощущения, которые я испытываю в своем члене."
+    "Я чувствую, как эти звуки идеально дополняют ощущения, которые я испытываю в своём члене."
 
 # ch/ayesha/fuck.rpy:2984
 translate russian ayesha_fuck_date_cowgirl_790bb1f4:
-    "Это значит, что очень скоро я начинаю терять счет того, что было раньше."
+    "Это значит, что очень скоро я начинаю терять счёт того, что было раньше."
 
 # ch/ayesha/fuck.rpy:2994
 translate russian ayesha_fuck_date_cowgirl_5c129633:
@@ -23994,7 +23994,7 @@ translate russian ayesha_fuck_date_cowgirl_5c129633:
 
 # ch/ayesha/fuck.rpy:2995
 translate russian ayesha_fuck_date_cowgirl_64d11373:
-    "Или же я так сильно бью ее задницу из-за тех звуков, которые она издает!"
+    "Или же я так сильно бью её задницу из-за тех звуков, которые она издаёт!"
 
 # ch/ayesha/fuck.rpy:3013
 translate russian ayesha_fuck_date_cowgirl_e877254d:
@@ -24014,7 +24014,7 @@ translate russian ayesha_fuck_date_cowgirl_7048c917:
 
 # ch/ayesha/fuck.rpy:3029
 translate russian ayesha_fuck_date_cowgirl_0bc3a3fe:
-    "Как только это происходит, ее стоны становятся еще громче, достигая пика в настоящем крике чистого наслаждения."
+    "Как только это происходит, её стоны становятся ещё громче, достигая пика в настоящем крике чистого наслаждения."
 
 # ch/ayesha/fuck.rpy:3031
 translate russian ayesha_fuck_date_cowgirl_e2438849:
@@ -24022,35 +24022,35 @@ translate russian ayesha_fuck_date_cowgirl_e2438849:
 
 # ch/ayesha/fuck.rpy:3032
 translate russian ayesha_fuck_date_cowgirl_fadeee67:
-    "Она провисает назад, как марионетка, у которой перерезали нити, и я едва успеваю ее поймать."
+    "Она провисает назад, как марионетка, у которой перерезали нити, и я едва успеваю её поймать."
 
 # ch/ayesha/fuck.rpy:3033
 translate russian ayesha_fuck_date_cowgirl_aba8beb3:
-    "Я держу ее, пока она беспомощно дышит, мой член все еще глубоко внутри ее задницы."
+    "Я держу её, пока она беспомощно дышит, мой член всё ещё глубоко внутри её задницы."
 
 # ch/ayesha/fuck.rpy:3039
 translate russian ayesha_fuck_date_cowgirl_6b1b9bcf:
-    "Я понятия не имею, какие безумные движения совершит мое тело в следующие несколько секунд."
+    "Я понятия не имею, какие безумные движения совершит моё тело в следующие несколько секунд."
 
 # ch/ayesha/fuck.rpy:3041
 translate russian ayesha_fuck_date_cowgirl_06a2d483:
-    "Но каким-то образом мне удается вытащить свой член из задницы Айши, даже несмотря на то, что она лежит сверху."
+    "Но каким-то образом мне удаётся вытащить свой член из задницы Айши, даже несмотря на то, что она лежит сверху."
 
 # ch/ayesha/fuck.rpy:3043
 translate russian ayesha_fuck_date_cowgirl_f6ac53fb:
-    "Она издает испуганный писк, когда он выскакивает у нее, и бросает взгляд через плечо."
+    "Она издаёт испуганный писк, когда он выскакивает у неё, и бросает взгляд через плечо."
 
 # ch/ayesha/fuck.rpy:3044
 translate russian ayesha_fuck_date_cowgirl_25247d04:
-    "Тем не менее, мое внимание полностью сосредоточено на том, как выглядит эффект моей эякуляции через секунду."
+    "Тем не менее, моё внимание полностью сосредоточено на том, как выглядит эффект моей эякуляции через секунду."
 
 # ch/ayesha/fuck.rpy:3051
 translate russian ayesha_fuck_date_cowgirl_de4b28b7:
-    "Весь объем спермы вырывается наружу, покрывая грудь Айши и медленно стекая вниз к ее животу."
+    "Весь объём спермы вырывается наружу, покрывая грудь Айши и медленно стекая вниз к её животу."
 
 # ch/ayesha/fuck.rpy:3052
 translate russian ayesha_fuck_date_cowgirl_14550d12:
-    "Все, что я могу делать, это тяжело дышать, отчаянно пытаясь набрать воздух, пока смотрю на это."
+    "Всё, что я могу делать, это тяжело дышать, отчаянно пытаясь набрать воздух, пока смотрю на это."
 
 # ch/ayesha/fuck.rpy:3057
 translate russian ayesha_fuck_date_cowgirl_deb45665:
@@ -24066,19 +24066,19 @@ translate russian ayesha_fuck_date_cowgirl_8bb7e109:
 
 # ch/ayesha/fuck.rpy:3060
 translate russian ayesha_fuck_date_cowgirl_a38c1fc8:
-    "И это заставляет меня задуматься о том, какое влияние мои действия оказали на то, что находится между ее ног..."
+    "И это заставляет меня задуматься о том, какое влияние мои действия оказали на то, что находится между её ног..."
 
 # ch/ayesha/fuck.rpy:3066
 translate russian ayesha_fuck_date_cowgirl_fe85363c:
-    "Еще до того, как у меня появится возможность принять осознанное решение, мои руки делают это за меня."
+    "Ещё до того, как у меня появится возможность принять осознанное решение, мои руки делают это за меня."
 
 # ch/ayesha/fuck.rpy:3067
 translate russian ayesha_fuck_date_cowgirl_1976899c:
-    "Айша вскрикивает от неожиданности, когда понимает, что ее тянут вниз и к себе."
+    "Айша вскрикивает от неожиданности, когда понимает, что её тянут вниз и к себе."
 
 # ch/ayesha/fuck.rpy:3069
 translate russian ayesha_fuck_date_cowgirl_92f68406:
-    "И даже звуки, которые она издает, кажутся смягченными, превращаясь в тихий, чувственный стон."
+    "И даже звуки, которые она издаёт, кажутся смягченными, превращаясь в тихий, чувственный стон."
 
 # ch/ayesha/fuck.rpy:3070
 translate russian ayesha_fuck_date_cowgirl_9243b627:
@@ -24086,15 +24086,15 @@ translate russian ayesha_fuck_date_cowgirl_9243b627:
 
 # ch/ayesha/fuck.rpy:3071
 translate russian ayesha_fuck_date_cowgirl_1f2d8ba4:
-    "Ее губы теплые и влажные, и они оказывают почти никакого сопротивления, когда головка моего члена оказывается между ними."
+    "Её губы тёплые и влажные, и они оказывают почти никакого сопротивления, когда головка моего члена оказывается между ними."
 
 # ch/ayesha/fuck.rpy:3072
 translate russian ayesha_fuck_date_cowgirl_4e29fcda:
-    "Я мог бы почти поверить, что внутри ее влагалища тоже жидкость, оно кажется таким мягким."
+    "Я мог бы почти поверить, что внутри её влагалища тоже жидкость, оно кажется таким мягким."
 
 # ch/ayesha/fuck.rpy:3074
 translate russian ayesha_fuck_date_cowgirl_633fbb73:
-    "И я мог бы продолжать давить бесконечно, если бы не ощущение ее ягодиц, когда она садится ко мне на колени."
+    "И я мог бы продолжать давить бесконечно, если бы не ощущение её ягодиц, когда она садится ко мне на колени."
 
 # ch/ayesha/fuck.rpy:3075
 translate russian ayesha_fuck_date_cowgirl_1e969a85_1:
@@ -24114,11 +24114,11 @@ translate russian ayesha_fuck_date_cowgirl_3bc6a274:
 
 # ch/ayesha/fuck.rpy:3080
 translate russian ayesha_fuck_date_cowgirl_54475a2c:
-    "Вес Айши такой, что ощущение ее сверху на мне просто невероятно."
+    "Вес Айши такой, что ощущение её сверху на мне просто невероятно."
 
 # ch/ayesha/fuck.rpy:3081
 translate russian ayesha_fuck_date_cowgirl_1bc6331c:
-    "А внутри ее влагалища так мягко и скользко, что у меня перехватывает дыхание."
+    "А внутри её влагалища так мягко и скользко, что у меня перехватывает дыхание."
 
 # ch/ayesha/fuck.rpy:3083
 translate russian ayesha_fuck_date_cowgirl_ee7f12f7:
@@ -24126,11 +24126,11 @@ translate russian ayesha_fuck_date_cowgirl_ee7f12f7:
 
 # ch/ayesha/fuck.rpy:3093
 translate russian ayesha_fuck_date_cowgirl_62529e34:
-    "Я отвечаю ей тем же, двигаясь вперед и назад, стараясь не отставать от нее."
+    "Я отвечаю ей тем же, двигаясь вперёд и назад, стараясь не отставать от неё."
 
 # ch/ayesha/fuck.rpy:3103
 translate russian ayesha_fuck_date_cowgirl_f4f6d4af:
-    "Уже сейчас это начинает напоминать гонку, где Айша задает ритм, а я пытаюсь за ней угнаться."
+    "Уже сейчас это начинает напоминать гонку, где Айша задаёт ритм, а я пытаюсь за ней угнаться."
 
 # ch/ayesha/fuck.rpy:3104
 translate russian ayesha_fuck_date_cowgirl_f38cdefb:
@@ -24138,11 +24138,11 @@ translate russian ayesha_fuck_date_cowgirl_f38cdefb:
 
 # ch/ayesha/fuck.rpy:3114
 translate russian ayesha_fuck_date_cowgirl_5ccec535:
-    "Необходимость усилить собственные усилия и соответствовать ее темпу – это резкий контраст с мягкостью ее тела."
+    "Необходимость усилить собственные усилия и соответствовать её темпу — это резкий контраст с мягкостью её тела."
 
 # ch/ayesha/fuck.rpy:3115
 translate russian ayesha_fuck_date_cowgirl_f022566b:
-    "И я уже чувствую, как мое сердце бьется все быстрее с каждой минутой."
+    "И я уже чувствую, как моё сердце бьётся всё быстрее с каждой минутой."
 
 # ch/ayesha/fuck.rpy:3133
 translate russian ayesha_fuck_date_cowgirl_7aeec15d:
@@ -24154,7 +24154,7 @@ translate russian ayesha_fuck_date_cowgirl_94bf30bd:
 
 # ch/ayesha/fuck.rpy:3138
 translate russian ayesha_fuck_date_cowgirl_a67924ab:
-    "Айша не показывает никаких признаков усталости, даже когда я теряюсь внутри нее."
+    "Айша не показывает никаких признаков усталости, даже когда я теряюсь внутри неё."
 
 # ch/ayesha/fuck.rpy:3148
 translate russian ayesha_fuck_date_cowgirl_ab6c9018:
@@ -24162,11 +24162,11 @@ translate russian ayesha_fuck_date_cowgirl_ab6c9018:
 
 # ch/ayesha/fuck.rpy:3150
 translate russian ayesha_fuck_date_cowgirl_8df47661:
-    "Я наблюдаю за тем, как ее волосы развеваются в разные стороны, и это выглядит настолько похоже на гриву, что это почти нереально."
+    "Я наблюдаю за тем, как её волосы развеваются в разные стороны, и это выглядит настолько похоже на гриву, что это почти нереально."
 
 # ch/ayesha/fuck.rpy:3152
 translate russian ayesha_fuck_date_cowgirl_c30a2753:
-    "И только когда она наконец останавливается, я понимаю, что стук в моих ушах – это мой собственный пульс."
+    "И только когда она наконец останавливается, я понимаю, что стук в моих ушах — это мой собственный пульс."
 
 # ch/ayesha/fuck.rpy:3154
 translate russian ayesha_fuck_date_cowgirl_dafb8825:
@@ -24174,11 +24174,11 @@ translate russian ayesha_fuck_date_cowgirl_dafb8825:
 
 # ch/ayesha/fuck.rpy:3164
 translate russian ayesha_fuck_date_cowgirl_7d96ff6f:
-    "Я, Майк, чувствую, как в последний момент едва не выдергиваю свой член из влагалища Айши."
+    "Я, Майк, чувствую, как в последний момент едва не выдёргиваю свой член из влагалища Айши."
 
 # ch/ayesha/fuck.rpy:3169
 translate russian ayesha_fuck_date_cowgirl_a9b6f2e5:
-    "Она издает внезапный и удивленный звук, который обрывается через секунду."
+    "Она издаёт внезапный и удивлённый звук, который обрывается через секунду."
 
 # ch/ayesha/fuck.rpy:3171
 translate russian ayesha_fuck_date_cowgirl_67908f84:
@@ -24186,15 +24186,15 @@ translate russian ayesha_fuck_date_cowgirl_67908f84:
 
 # ch/ayesha/fuck.rpy:3179
 translate russian ayesha_fuck_date_cowgirl_de4b28b7_1:
-    "Весь объем спермы вырывается наружу, покрывая грудь Айши и медленно стекая вниз к ее животу."
+    "Весь объём спермы вырывается наружу, покрывая грудь Айши и медленно стекая вниз к её животу."
 
 # ch/ayesha/fuck.rpy:3180
 translate russian ayesha_fuck_date_cowgirl_14550d12_1:
-    "Все, что я могу делать, это тяжело дышать, отчаянно пытаясь набрать воздух, пока смотрю на это."
+    "Всё, что я могу делать, это тяжело дышать, отчаянно пытаясь набрать воздух, пока смотрю на это."
 
 # ch/ayesha/fuck.rpy:3184
 translate russian ayesha_fuck_date_cowgirl_c964c4cf:
-    ayesha.say "Таблетка… таблетка!"
+    ayesha.say "Таблетка... таблетка!"
 
 # ch/ayesha/fuck.rpy:3194
 translate russian ayesha_fuck_date_cowgirl_be39bdee:
@@ -24202,7 +24202,7 @@ translate russian ayesha_fuck_date_cowgirl_be39bdee:
 
 # ch/ayesha/fuck.rpy:3197
 translate russian ayesha_fuck_date_cowgirl_33ae5539:
-    "И вот, в тот же момент, когда слова Айши становятся понятными, я кончаю прямо у нее внутри."
+    "И вот, в тот же момент, когда слова Айши становятся понятными, я кончаю прямо у неё внутри."
 
 # ch/ayesha/fuck.rpy:3198
 translate russian ayesha_fuck_date_cowgirl_587bd880:
@@ -24210,11 +24210,11 @@ translate russian ayesha_fuck_date_cowgirl_587bd880:
 
 # ch/ayesha/fuck.rpy:3199
 translate russian ayesha_fuck_date_cowgirl_c30a2753_1:
-    "И только когда она наконец останавливается, я понимаю, что стук в моих ушах – это мой собственный пульс."
+    "И только когда она наконец останавливается, я понимаю, что стук в моих ушах — это мой собственный пульс."
 
 # ch/ayesha/fuck.rpy:3201
 translate russian ayesha_fuck_date_cowgirl_6c35824a:
-    "Мне нужно увидеть только руку Айши, когда она проводит ее по изгибу ее округлого живота."
+    "Мне нужно увидеть только руку Айши, когда она проводит её по изгибу её округлого живота."
 
 # ch/ayesha/fuck.rpy:3204
 translate russian ayesha_fuck_date_cowgirl_0050472a:
@@ -24222,7 +24222,7 @@ translate russian ayesha_fuck_date_cowgirl_0050472a:
 
 # ch/ayesha/fuck.rpy:3206
 translate russian ayesha_fuck_date_cowgirl_c4a783e9:
-    "Она нежно обхватывает изгиб, пока я теряюсь внутри нее, задыхаясь от моих усилий."
+    "Она нежно обхватывает изгиб, пока я теряюсь внутри неё, задыхаясь от моих усилий."
 
 # ch/ayesha/fuck.rpy:3207
 translate russian ayesha_fuck_date_cowgirl_99a64750:
@@ -24250,7 +24250,7 @@ translate russian ayesha_fuck_date_cowgirl_7eb6ddad:
 
 # ch/ayesha/fuck.rpy:3218
 translate russian ayesha_fuck_date_cowgirl_9614a429_1:
-    ayesha.say "Ммм…"
+    ayesha.say "Ммм..."
 
 # ch/ayesha/fuck.rpy:3219
 translate russian ayesha_fuck_date_cowgirl_a616a4fa:
@@ -24258,7 +24258,7 @@ translate russian ayesha_fuck_date_cowgirl_a616a4fa:
 
 # ch/ayesha/fuck.rpy:3220
 translate russian ayesha_fuck_date_cowgirl_fb5e8748:
-    ayesha.say "Все в порядке!"
+    ayesha.say "Всё в порядке!"
 
 # ch/ayesha/fuck.rpy:3222
 translate russian ayesha_fuck_date_cowgirl_447bb805:
@@ -24266,7 +24266,7 @@ translate russian ayesha_fuck_date_cowgirl_447bb805:
 
 # ch/ayesha/fuck.rpy:3224
 translate russian ayesha_fuck_date_cowgirl_e4f0be7a:
-    "Айше удается произнести это именно в тот момент, когда я теряюсь в ней."
+    "Айше удаётся произнести это именно в тот момент, когда я теряюсь в ней."
 
 # ch/ayesha/fuck.rpy:3229
 translate russian ayesha_fuck_date_cowgirl_27dd8bd7:
@@ -24282,7 +24282,7 @@ translate russian ayesha_fuck_date_cowgirl_3ea61fbc:
 
 # ch/ayesha/fuck.rpy:3232
 translate russian ayesha_fuck_date_cowgirl_7aeab075:
-    "Но все, что может сделать Айша, это смотреть на меня, качая головой в недоумении."
+    "Но всё, что может сделать Айша, это смотреть на меня, качая головой в недоумении."
 
 # ch/ayesha/fuck.rpy:3239
 translate russian ayesha_bdsm_choices_adfa58bf:
@@ -24290,11 +24290,11 @@ translate russian ayesha_bdsm_choices_adfa58bf:
 
 # ch/ayesha/fuck.rpy:3240
 translate russian ayesha_bdsm_choices_ae6e9eb6:
-    "Я достаю веревки из-под кровати."
+    "Я достаю верёвки из-под кровати."
 
 # ch/ayesha/fuck.rpy:3241
 translate russian ayesha_bdsm_choices_49e86785:
-    "И начинаю связывать Аишу."
+    "И начинаю связывать Айшу."
 
 # ch/ayesha/fuck.rpy:3243
 translate russian ayesha_bdsm_choices_8fa99325:
@@ -24334,7 +24334,7 @@ translate russian ayesha_bdsm_choices_20489ab1:
 
 # ch/ayesha/fuck.rpy:3260
 translate russian ayesha_bdsm_choices_3f8f3eb6:
-    "Но все же я вижу, что Аиша уже напугана, увидев ее."
+    "Но все же я вижу, что Айша уже напугана, увидев её."
 
 # ch/ayesha/fuck.rpy:3261
 translate russian ayesha_bdsm_choices_ab30b756:
@@ -24342,7 +24342,7 @@ translate russian ayesha_bdsm_choices_ab30b756:
 
 # ch/ayesha/fuck.rpy:3262
 translate russian ayesha_bdsm_choices_d9cbbac0:
-    "Кажется, эта уязвимость, которую проявляет Аиша, меня возбуждает."
+    "Кажется, эта уязвимость, которую проявляет Айша, меня возбуждает."
 
 # ch/ayesha/fuck.rpy:3263
 translate russian ayesha_bdsm_choices_66e9b73c:
@@ -24370,11 +24370,11 @@ translate russian ayesha_bdsm_choices_9614a429:
 
 # ch/ayesha/fuck.rpy:3272
 translate russian ayesha_bdsm_choices_1f613e3d:
-    "Я жду немного, чтобы дать Айше возможность сказать мне, все ли у нее в порядке."
+    "Я жду немного, чтобы дать Айше возможность сказать мне, все ли у неё в порядке."
 
 # ch/ayesha/fuck.rpy:3273
 translate russian ayesha_bdsm_choices_dea99020:
-    "Но потом она смотрит на меня через плечо, ее щеки покраснели."
+    "Но потом она смотрит на меня через плечо, её щеки покраснели."
 
 # ch/ayesha/fuck.rpy:3275
 translate russian ayesha_bdsm_choices_9838030c:
@@ -24390,7 +24390,7 @@ translate russian ayesha_bdsm_choices_07b46eac:
 
 # ch/ayesha/fuck.rpy:3280
 translate russian ayesha_bdsm_choices_9a571196:
-    ayesha.say "Еще..."
+    ayesha.say "Ещё..."
 
 # ch/ayesha/fuck.rpy:3281
 translate russian ayesha_bdsm_choices_a007fc23:
@@ -24402,19 +24402,19 @@ translate russian ayesha_bdsm_choices_2f70a621:
 
 # ch/ayesha/fuck.rpy:3284
 translate russian ayesha_bdsm_choices_8b94b892:
-    "И это еще больше побуждает меня дать ей то, что она хочет."
+    "И это ещё больше побуждает меня дать ей то, что она хочет."
 
 # ch/ayesha/fuck.rpy:3285
 translate russian ayesha_bdsm_choices_f79b85b2:
-    "В третий раз, когда я опускаю веер на ее ягодицы, это происходит гораздо легче."
+    "В третий раз, когда я опускаю веер на её ягодицы, это происходит гораздо легче."
 
 # ch/ayesha/fuck.rpy:3286
 translate russian ayesha_bdsm_choices_f595aba6:
-    "Звук удара о ее ягодицы не заставляет меня морщиться."
+    "Звук удара о её ягодицы не заставляет меня морщиться."
 
 # ch/ayesha/fuck.rpy:3289
 translate russian ayesha_bdsm_choices_21c0928e:
-    "Но еще более полезно то, что Айша не кричит, а скорее стонет."
+    "Но ещё более полезно то, что Айша не кричит, а скорее стонет."
 
 # ch/ayesha/fuck.rpy:3290
 translate russian ayesha_bdsm_choices_40cbd896:
@@ -24426,7 +24426,7 @@ translate russian ayesha_bdsm_choices_db4310fc:
 
 # ch/ayesha/fuck.rpy:3293
 translate russian ayesha_bdsm_choices_6c904378:
-    "Четвертый и пятый удары приземляются еще быстрее."
+    "Четвёртый и пятый удары приземляются ещё быстрее."
 
 # ch/ayesha/fuck.rpy:3296
 translate russian ayesha_bdsm_choices_51a70d14:
@@ -24434,7 +24434,7 @@ translate russian ayesha_bdsm_choices_51a70d14:
 
 # ch/ayesha/fuck.rpy:3297
 translate russian ayesha_bdsm_choices_7be70681:
-    "Я бью ее ладонью, слышу звук шлепка, а потом она стонет."
+    "Я бью её ладонью, слышу звук шлепка, а потом она стонет."
 
 # ch/ayesha/fuck.rpy:3298
 translate russian ayesha_bdsm_choices_866b7019:
@@ -24454,7 +24454,7 @@ translate russian ayesha_bdsm_choices_6b925801:
 
 # ch/ayesha/fuck.rpy:3305
 translate russian ayesha_bdsm_choices_643c91fc:
-    "Честно говоря, я не знаю, связано ли это с ее крепким телосложением, из-за которого она так хорошо переносит наказания."
+    "Честно говоря, я не знаю, связано ли это с её крепким телосложением, из-за которого она так хорошо переносит наказания."
 
 # ch/ayesha/fuck.rpy:3306
 translate russian ayesha_bdsm_choices_96c5fbea:
@@ -24470,15 +24470,15 @@ translate russian ayesha_bdsm_choices_0700204d:
 
 # ch/ayesha/fuck.rpy:3311
 translate russian ayesha_bdsm_choices_e90c0008:
-    "И когда я начинаю видеть признаки синяков на ее коже, я замедляю все."
+    "И когда я начинаю видеть признаки синяков на её коже, я замедляю все."
 
 # ch/ayesha/fuck.rpy:3313
 translate russian ayesha_bdsm_choices_5556e5ae:
-    "Я слышу разочарование в ее стонах, когда я заканчиваю."
+    "Я слышу разочарование в её стонах, когда я заканчиваю."
 
 # ch/ayesha/fuck.rpy:3314
 translate russian ayesha_bdsm_choices_2dd14eb2:
-    "Но я хочу остановиться сейчас, пока она еще может спокойно сесть после этого!"
+    "Но я хочу остановиться сейчас, пока она ещё может спокойно сесть после этого!"
 
 # ch/ayesha/fuck.rpy:3317
 translate russian ayesha_bdsm_choices_dd6e8fa9:
@@ -24490,7 +24490,7 @@ translate russian ayesha_bdsm_choices_75177f78:
 
 # ch/ayesha/fuck.rpy:3319
 translate russian ayesha_bdsm_choices_d033e364:
-    "Я говорю \"хлыст\", но это скорее наездной кнут."
+    "Я говорю «хлыст», но это скорее наездной кнут."
 
 # ch/ayesha/fuck.rpy:3321
 translate russian ayesha_bdsm_choices_98f56bb4:
@@ -24526,7 +24526,7 @@ translate russian ayesha_bdsm_choices_c090880d:
 
 # ch/ayesha/fuck.rpy:3329
 translate russian ayesha_bdsm_choices_364008cc:
-    "Ее ягодицы такие гладкие и упругие."
+    "Её ягодицы такие гладкие и упругие."
 
 # ch/ayesha/fuck.rpy:3330
 translate russian ayesha_bdsm_choices_382e5939:
@@ -24542,7 +24542,7 @@ translate russian ayesha_bdsm_choices_bb73c370:
 
 # ch/ayesha/fuck.rpy:3334
 translate russian ayesha_bdsm_choices_e83a9ffe:
-    "Но даже я не готов к тому громкому звуку, который он издает."
+    "Но даже я не готов к тому громкому звуку, который он издаёт."
 
 # ch/ayesha/fuck.rpy:3337
 translate russian ayesha_bdsm_choices_2476f335:
@@ -24558,7 +24558,7 @@ translate russian ayesha_bdsm_choices_67554222:
 
 # ch/ayesha/fuck.rpy:3340
 translate russian ayesha_bdsm_choices_04f0d08a:
-    "Я жду, когда Аиша скажет, чтобы всё прекратилось."
+    "Я жду, когда Айша скажет, чтобы всё прекратилось."
 
 # ch/ayesha/fuck.rpy:3341
 translate russian ayesha_bdsm_choices_8b8408e7:
@@ -24590,15 +24590,15 @@ translate russian ayesha_bdsm_choices_6f00cd38:
 
 # ch/ayesha/fuck.rpy:3353
 translate russian ayesha_bdsm_choices_73768345:
-    "Вскоре Аиша начинает дрожать и скулить в предвкушении каждого удара."
+    "Вскоре Айша начинает дрожать и скулить в предвкушении каждого удара."
 
 # ch/ayesha/fuck.rpy:3356
 translate russian ayesha_bdsm_choices_1df9c4d9:
-    "И есть кое-что, что возбуждает меня ещё больше, чем это – то, что она делает после того, как хлыст оказывается на её ягодицах!"
+    "И есть кое-что, что возбуждает меня ещё больше, чем это — то, что она делает после того, как хлыст оказывается на её ягодицах!"
 
 # ch/ayesha/fuck.rpy:3357
 translate russian ayesha_bdsm_choices_442ed928:
-    "Звук удовлетворения, который она издает потом, запоминается надолго."
+    "Звук удовлетворения, который она издаёт потом, запоминается надолго."
 
 # ch/ayesha/fuck.rpy:3358
 translate russian ayesha_bdsm_choices_27325b01:
@@ -24610,7 +24610,7 @@ translate russian ayesha_bdsm_choices_9e84ef9a:
 
 # ch/ayesha/fuck.rpy:3361
 translate russian ayesha_bdsm_choices_1ef5df6e:
-    "Даже в одиночестве этого достаточно, чтобы я понял, что Аиша получает удовольствие."
+    "Даже в одиночестве этого достаточно, чтобы я понял, что Айша получает удовольствие."
 
 # ch/ayesha/fuck.rpy:3363
 translate russian ayesha_bdsm_choices_31163c6f:
@@ -24626,7 +24626,7 @@ translate russian ayesha_bdsm_choices_278c9110:
 
 # ch/ayesha/fuck.rpy:3368
 translate russian ayesha_bdsm_choices_4df6d6f8:
-    "Я стараюсь угодить ей как могу, обрушивая на ее ягодицы удары настолько быстро, насколько осмеливаюсь."
+    "Я стараюсь угодить ей как могу, обрушивая на её ягодицы удары настолько быстро, насколько осмеливаюсь."
 
 # ch/ayesha/fuck.rpy:3370
 translate russian ayesha_bdsm_choices_c756e4c1:
@@ -24634,7 +24634,7 @@ translate russian ayesha_bdsm_choices_c756e4c1:
 
 # ch/ayesha/fuck.rpy:3371
 translate russian ayesha_bdsm_choices_59e0525d:
-    "И я чувствую, как мое сердце бешено колотится в моей груди."
+    "И я чувствую, как моё сердце бешено колотится в моей груди."
 
 # ch/ayesha/fuck.rpy:3374
 translate russian ayesha_bdsm_choices_a2f5cc1a:
@@ -24666,7 +24666,7 @@ translate russian ayesha_bdsm_choices_2a55e886:
 
 # ch/ayesha/fuck.rpy:3385
 translate russian ayesha_bdsm_choices_7588b039:
-    "Но быстрый взгляд вниз показывает мне, что ее соски сейчас твердые как камень."
+    "Но быстрый взгляд вниз показывает мне, что её соски сейчас твёрдые как камень."
 
 # ch/ayesha/fuck.rpy:3386
 translate russian ayesha_bdsm_choices_d0f046d6:
@@ -24690,23 +24690,23 @@ translate russian ayesha_bdsm_choices_52ec1c67:
 
 # ch/ayesha/fuck.rpy:3391
 translate russian ayesha_bdsm_choices_1adbeeb2:
-    "Айша кивает, прикусывая губу в предвкушении того, что произойдет."
+    "Айша кивает, прикусывая губу в предвкушении того, что произойдёт."
 
 # ch/ayesha/fuck.rpy:3392
 translate russian ayesha_bdsm_choices_4ae7045a:
-    "Я сажусь на кровать рядом с ней, наклоняясь над ее обнаженным телом."
+    "Я сажусь на кровать рядом с ней, наклоняясь над её обнажённым телом."
 
 # ch/ayesha/fuck.rpy:3393
 translate russian ayesha_bdsm_choices_0e641514:
-    "Сначала я беру один зажим в руку, отгибаю его и подношу к ее открытой соске."
+    "Сначала я беру один зажим в руку, отгибаю его и подношу к её открытой соске."
 
 # ch/ayesha/fuck.rpy:3394
 translate russian ayesha_bdsm_choices_60a8dc0b:
-    "Айша начинает заметно дрожать, что заставляет ее грудь тоже вздрагивать."
+    "Айша начинает заметно дрожать, что заставляет её грудь тоже вздрагивать."
 
 # ch/ayesha/fuck.rpy:3395
 translate russian ayesha_bdsm_choices_be070f37:
-    "К тому моменту, когда я подношу зажим к ее соске, она почти задыхается."
+    "К тому моменту, когда я подношу зажим к её соске, она почти задыхается."
 
 # ch/ayesha/fuck.rpy:3396
 translate russian ayesha_bdsm_choices_d4830f4b:
@@ -24714,31 +24714,31 @@ translate russian ayesha_bdsm_choices_d4830f4b:
 
 # ch/ayesha/fuck.rpy:3398
 translate russian ayesha_bdsm_choices_8d32a911:
-    "Но я слежу за тем, чтобы ее соска совсем не попала в зажим."
+    "Но я слежу за тем, чтобы её соска совсем не попала в зажим."
 
 # ch/ayesha/fuck.rpy:3399
 translate russian ayesha_bdsm_choices_871f5dac:
-    "Айша отчаянно выдыхает, на мгновение убежденная, что он сжимается вокруг нее."
+    "Айша отчаянно выдыхает, на мгновение убежденная, что он сжимается вокруг неё."
 
 # ch/ayesha/fuck.rpy:3400
 translate russian ayesha_bdsm_choices_e1457861:
-    "Затем ее глаза устремляются вниз, чтобы посмотреть, как я глажу ее соску закрытым зажимом."
+    "Затем её глаза устремляются вниз, чтобы посмотреть, как я глажу её соску закрытым зажимом."
 
 # ch/ayesha/fuck.rpy:3401
 translate russian ayesha_bdsm_choices_640dcbc5:
-    "Я не знаю, связано ли то, что я играю с ее сосками, с тем, что она стонет."
+    "Я не знаю, связано ли то, что я играю с её сосками, с тем, что она стонет."
 
 # ch/ayesha/fuck.rpy:3402
 translate russian ayesha_bdsm_choices_a1b1a249:
-    "Или же ей нравится тот факт, что я одновременно дразню ее."
+    "Или же ей нравится тот факт, что я одновременно дразню её."
 
 # ch/ayesha/fuck.rpy:3403
 translate russian ayesha_bdsm_choices_1cd8cd90:
-    "В любом случае, Айша становится все более возбужденной с каждой секундой."
+    "В любом случае, Айша становится все более возбуждённой с каждой секундой."
 
 # ch/ayesha/fuck.rpy:3404
 translate russian ayesha_bdsm_choices_8c31d752:
-    "Так сильно, что когда я действительно прижимаю первый зажим к ее соске, она почти этого не замечает!"
+    "Так сильно, что когда я действительно прижимаю первый зажим к её соске, она почти этого не замечает!"
 
 # ch/ayesha/fuck.rpy:3405
 translate russian ayesha_bdsm_choices_3c8c24d2:
@@ -24770,15 +24770,15 @@ translate russian ayesha_bdsm_choices_60151292:
 
 # ch/ayesha/fuck.rpy:3413
 translate russian ayesha_bdsm_choices_06f38998:
-    "Аиша отчаянно кивает головой, снова прикусывая губу."
+    "Айша отчаянно кивает головой, снова прикусывая губу."
 
 # ch/ayesha/fuck.rpy:3415
 translate russian ayesha_bdsm_choices_76479946:
-    "Я делаю то, что она хочет, позволяя второй защелке сжать ее другую сосок."
+    "Я делаю то, что она хочет, позволяя второй защелке сжать её другую сосок."
 
 # ch/ayesha/fuck.rpy:3416
 translate russian ayesha_bdsm_choices_d73dd19c:
-    "Она издает стон удовольствия и боли."
+    "Она издаёт стон удовольствия и боли."
 
 # ch/ayesha/fuck.rpy:3417
 translate russian ayesha_bdsm_choices_1858400f:
@@ -24786,7 +24786,7 @@ translate russian ayesha_bdsm_choices_1858400f:
 
 # ch/ayesha/fuck.rpy:3418
 translate russian ayesha_bdsm_choices_efcd9839:
-    "Сидя и наблюдая, я вижу, как взгляд Аиши прикован к моим глазам."
+    "Сидя и наблюдая, я вижу, как взгляд Айши прикован к моим глазам."
 
 # ch/ayesha/fuck.rpy:3419
 translate russian ayesha_bdsm_choices_38d5d6c2:
@@ -24794,11 +24794,11 @@ translate russian ayesha_bdsm_choices_38d5d6c2:
 
 # ch/ayesha/fuck.rpy:3420
 translate russian ayesha_bdsm_choices_411ccd15:
-    "Ее руки постоянно ласкают ее тело, словно она ищет способ освободиться."
+    "Её руки постоянно ласкают её тело, словно она ищет способ освободиться."
 
 # ch/ayesha/fuck.rpy:3421
 translate russian ayesha_bdsm_choices_9d79a420:
-    "Но каждый раз, когда они приближаются к ее соскам, я вижу, как Аиша борется сама с собой."
+    "Но каждый раз, когда они приближаются к её соскам, я вижу, как Айша борется сама с собой."
 
 # ch/ayesha/fuck.rpy:3423
 translate russian ayesha_bdsm_choices_b205b0b6:
@@ -24822,7 +24822,7 @@ translate russian ayesha_bdsm_choices_9d710390:
 
 # ch/ayesha/fuck.rpy:3430
 translate russian ayesha_bdsm_choices_f49d2ef8:
-    "Я хочу ей помочь, хотя сам я тоже не собираюсь ее освобождать."
+    "Я хочу ей помочь, хотя сам я тоже не собираюсь её освобождать."
 
 # ch/ayesha/fuck.rpy:3431
 translate russian ayesha_bdsm_choices_22328f85:
@@ -24830,7 +24830,7 @@ translate russian ayesha_bdsm_choices_22328f85:
 
 # ch/ayesha/fuck.rpy:3432
 translate russian ayesha_bdsm_choices_9a657dd8:
-    "Я хватаю цепочку, висящую между грудью Аиши, и резко дергаю ее."
+    "Я хватаю цепочку, висящую между грудью Айши, и резко дёргаю её."
 
 # ch/ayesha/fuck.rpy:3433
 translate russian ayesha_bdsm_choices_7d84efd8:
@@ -24838,19 +24838,19 @@ translate russian ayesha_bdsm_choices_7d84efd8:
 
 # ch/ayesha/fuck.rpy:3434
 translate russian ayesha_bdsm_choices_0bc9e12e:
-    "Но я также вижу, как руки Айши тянутся к ее паху."
+    "Но я также вижу, как руки Айши тянутся к её паху."
 
 # ch/ayesha/fuck.rpy:3435
 translate russian ayesha_bdsm_choices_97968ab2:
-    "Я снова дергаю цепь, на этот раз сильнее."
+    "Я снова дёргаю цепь, на этот раз сильнее."
 
 # ch/ayesha/fuck.rpy:3436
 translate russian ayesha_bdsm_choices_34373e14:
-    "Теперь Айша не может удержать руки от своей влагалища, она яростно трет губы от разочарования."
+    "Теперь Айша не может удержать руки от своей влагалища, она яростно трёт губы от разочарования."
 
 # ch/ayesha/fuck.rpy:3437
 translate russian ayesha_bdsm_choices_4f9604f9:
-    "Еще несколько рывков заставляют ее начать заниматься самостимуляцией почти в панике, как будто это поможет ей освободиться."
+    "Ещё несколько рывков заставляют её начать заниматься самостимуляцией почти в панике, как будто это поможет ей освободиться."
 
 # ch/ayesha/fuck.rpy:3438
 translate russian ayesha_bdsm_choices_2fa2ba9b:
@@ -24858,7 +24858,7 @@ translate russian ayesha_bdsm_choices_2fa2ba9b:
 
 # ch/ayesha/fuck.rpy:3439
 translate russian ayesha_bdsm_choices_6d70530e:
-    "И когда она начинает стонать в предвкушении неизбежного оргазма, я чувствую себя почти головокружительно возбужденным."
+    "И когда она начинает стонать в предвкушении неизбежного оргазма, я чувствую себя почти головокружительно возбуждённым."
 
 # ch/ayesha/fuck.rpy:3441
 translate russian ayesha_bdsm_choices_01bd922f:
@@ -24866,7 +24866,7 @@ translate russian ayesha_bdsm_choices_01bd922f:
 
 # ch/ayesha/fuck.rpy:3442
 translate russian ayesha_bdsm_choices_27dff5c7:
-    "Этот шок доводит ее до предела, и она прячет голову в подушки, испытывая сильную оргазмическую волну."
+    "Этот шок доводит её до предела, и она прячет голову в подушки, испытывая сильную оргазмическую волну."
 
 # ch/ayesha/fuck.rpy:3445
 translate russian ayesha_bdsm_choices_640e3ad4:
@@ -24878,7 +24878,7 @@ translate russian ayesha_bdsm_choices_f5a81c2f:
 
 # ch/ayesha/fuck.rpy:3448
 translate russian ayesha_bdsm_choices_85218a92:
-    "Это на самом деле называется электростимулятором, это секс-игрушка, которая подает небольшой электрический разряд."
+    "Это на самом деле называется электростимулятором, это секс-игрушка, которая подаёт небольшой электрический разряд."
 
 # ch/ayesha/fuck.rpy:3449
 translate russian ayesha_bdsm_choices_33e1add1:
@@ -24918,11 +24918,11 @@ translate russian ayesha_bdsm_choices_67fcbf97:
 
 # ch/ayesha/fuck.rpy:3458
 translate russian ayesha_bdsm_choices_aa903669:
-    "Айша кивает, но все еще не выглядит полностью убежденной."
+    "Айша кивает, но всё ещё не выглядит полностью убеждённой."
 
 # ch/ayesha/fuck.rpy:3459
 translate russian ayesha_bdsm_choices_465d94c7:
-    "Я сажусь рядом с ней на кровать и тянусь к ванночке, стоящей на столе неподалеку."
+    "Я сажусь рядом с ней на кровать и тянусь к ванночке, стоящей на столе неподалёку."
 
 # ch/ayesha/fuck.rpy:3460
 translate russian ayesha_bdsm_choices_dc0a7a36:
@@ -24930,11 +24930,11 @@ translate russian ayesha_bdsm_choices_dc0a7a36:
 
 # ch/ayesha/fuck.rpy:3461
 translate russian ayesha_bdsm_choices_d3d130de:
-    "Айша внимательно наблюдает за мной, когда я начинаю втирать ее по всему телу, уделяя особое внимание ее влагалищу."
+    "Айша внимательно наблюдает за мной, когда я начинаю втирать её по всему телу, уделяя особое внимание её влагалищу."
 
 # ch/ayesha/fuck.rpy:3463
 translate russian ayesha_bdsm_choices_74719252:
-    "Я замечаю из угла глаза, как ее соски напрягаются от моего прикосновения."
+    "Я замечаю из угла глаза, как её соски напрягаются от моего прикосновения."
 
 # ch/ayesha/fuck.rpy:3464
 translate russian ayesha_bdsm_choices_768ed364:
@@ -24986,7 +24986,7 @@ translate russian ayesha_bdsm_choices_f4089031:
 
 # ch/ayesha/fuck.rpy:3478
 translate russian ayesha_bdsm_choices_6ca127ee:
-    "Даже когда я выключаю его, я все еще слышу ее прерывистое дыхание от шока."
+    "Даже когда я выключаю его, я всё ещё слышу её прерывистое дыхание от шока."
 
 # ch/ayesha/fuck.rpy:3479
 translate russian ayesha_bdsm_choices_185017da:
@@ -25010,7 +25010,7 @@ translate russian ayesha_bdsm_choices_7d7051f3:
 
 # ch/ayesha/fuck.rpy:3484
 translate russian ayesha_bdsm_choices_938a5f70:
-    "Я немного увеличиваю интенсивность и нажимаю кнопку \"Старт\"."
+    "Я немного увеличиваю интенсивность и нажимаю кнопку «Старт»."
 
 # ch/ayesha/fuck.rpy:3485
 translate russian ayesha_bdsm_choices_df8f3657:
@@ -25030,7 +25030,7 @@ translate russian ayesha_bdsm_choices_90515941:
 
 # ch/ayesha/fuck.rpy:3490
 translate russian ayesha_bdsm_choices_08498c25:
-    "Аиша уже почти стонет, не в силах произнести цельных слов."
+    "Айша уже почти стонет, не в силах произнести цельных слов."
 
 # ch/ayesha/fuck.rpy:3492
 translate russian ayesha_bdsm_choices_4d0eca20:
@@ -25042,7 +25042,7 @@ translate russian ayesha_bdsm_choices_4757dce6:
 
 # ch/ayesha/fuck.rpy:3496
 translate russian ayesha_bdsm_choices_37203bc4:
-    "Этот звук – смесь удовольствия и мольбы, словно она просит о большем."
+    "Этот звук — смесь удовольствия и мольбы, словно она просит о большем."
 
 # ch/ayesha/fuck.rpy:3497
 translate russian ayesha_bdsm_choices_e1df8665:
@@ -25054,7 +25054,7 @@ translate russian ayesha_bdsm_choices_0bd11935:
 
 # ch/ayesha/fuck.rpy:3499
 translate russian ayesha_bdsm_choices_6d70530e_1:
-    "И когда она начинает стонать в предвкушении неизбежного оргазма, я чувствую себя почти головокружительно возбужденным."
+    "И когда она начинает стонать в предвкушении неизбежного оргазма, я чувствую себя почти головокружительно возбуждённым."
 
 # ch/ayesha/fuck.rpy:3500
 translate russian ayesha_bdsm_choices_033e73f9:
@@ -25062,7 +25062,7 @@ translate russian ayesha_bdsm_choices_033e73f9:
 
 # ch/ayesha/fuck.rpy:3502
 translate russian ayesha_bdsm_choices_27dff5c7_1:
-    "Этот шок доводит ее до предела, и она прячет голову в подушки, испытывая сильную оргазмическую волну."
+    "Этот шок доводит её до предела, и она прячет голову в подушки, испытывая сильную оргазмическую волну."
 
 # ch/ayesha/fuck.rpy:3504
 translate russian ayesha_bdsm_choices_9bb2e1d8:
@@ -25110,7 +25110,7 @@ translate russian ayesha_fuck_date_handjob_efabae76:
 
 # ch/ayesha/fuck.rpy:3526
 translate russian ayesha_fuck_date_handjob_8718b4d5:
-    ayesha.say "Ты хочешь, чтобы я поиграла с тобой еще немного?"
+    ayesha.say "Ты хочешь, чтобы я поиграла с тобой ещё немного?"
 
 # ch/ayesha/fuck.rpy:3527
 translate russian ayesha_fuck_date_handjob_9b5a5bcb:
@@ -25118,7 +25118,7 @@ translate russian ayesha_fuck_date_handjob_9b5a5bcb:
 
 # ch/ayesha/fuck.rpy:3528
 translate russian ayesha_fuck_date_handjob_db38e665:
-    mike.say "Да, Аиша..."
+    mike.say "Да, Айша..."
 
 # ch/ayesha/fuck.rpy:3529
 translate russian ayesha_fuck_date_handjob_3b232988:
@@ -25130,7 +25130,7 @@ translate russian ayesha_fuck_date_handjob_4f1f008e:
 
 # ch/ayesha/fuck.rpy:3531
 translate russian ayesha_fuck_date_handjob_d6725210:
-    "Айша издает смех, полный чистого и искреннего удовольствия."
+    "Айша издаёт смех, полный чистого и искреннего удовольствия."
 
 # ch/ayesha/fuck.rpy:3532
 translate russian ayesha_fuck_date_handjob_dcdac666:
@@ -25146,11 +25146,11 @@ translate russian ayesha_fuck_date_handjob_e264d968:
 
 # ch/ayesha/fuck.rpy:3535
 translate russian ayesha_fuck_date_handjob_43e81e64:
-    "Одна рука Айши лежит на моем паху, а другой она берет мою руку."
+    "Одна рука Айши лежит на моём паху, а другой она берет мою руку."
 
 # ch/ayesha/fuck.rpy:3536
 translate russian ayesha_fuck_date_handjob_f17670e0:
-    "Затем она ведет меня через комнату к краю моей кровати."
+    "Затем она ведёт меня через комнату к краю моей кровати."
 
 # ch/ayesha/fuck.rpy:3537
 translate russian ayesha_fuck_date_handjob_fb85bb50:
@@ -25174,7 +25174,7 @@ translate russian ayesha_fuck_date_handjob_7b4c4210:
 
 # ch/ayesha/fuck.rpy:3553
 translate russian ayesha_fuck_date_handjob_d3c0cf62:
-    "И на короткое мгновение я вспоминаю, насколько сильные у нее руки."
+    "И на короткое мгновение я вспоминаю, насколько сильные у неё руки."
 
 # ch/ayesha/fuck.rpy:3554
 translate russian ayesha_fuck_date_handjob_a0d1cb34:
@@ -25198,7 +25198,7 @@ translate russian ayesha_fuck_date_handjob_7a408422:
 
 # ch/ayesha/fuck.rpy:3559
 translate russian ayesha_fuck_date_handjob_feacebd1:
-    "Чего же я на самом деле ожидал от нее?"
+    "Чего же я на самом деле ожидал от неё?"
 
 # ch/ayesha/fuck.rpy:3560
 translate russian ayesha_fuck_date_handjob_b30968c3:
@@ -25206,7 +25206,7 @@ translate russian ayesha_fuck_date_handjob_b30968c3:
 
 # ch/ayesha/fuck.rpy:3561
 translate russian ayesha_fuck_date_handjob_3df26f5c:
-    "Но вместо этого я чувствую твердое, но нежное прикосновение Айши."
+    "Но вместо этого я чувствую твёрдое, но нежное прикосновение Айши."
 
 # ch/ayesha/fuck.rpy:3563
 translate russian ayesha_fuck_date_handjob_1ebaa33f:
@@ -25230,7 +25230,7 @@ translate russian ayesha_fuck_date_handjob_9d66f550:
 
 # ch/ayesha/fuck.rpy:3586
 translate russian ayesha_fuck_date_handjob_266170fc:
-    "Ее руки двигаются целенаправленно и точно."
+    "Её руки двигаются целенаправленно и точно."
 
 # ch/ayesha/fuck.rpy:3587
 translate russian ayesha_fuck_date_handjob_b37b389f:
@@ -25238,7 +25238,7 @@ translate russian ayesha_fuck_date_handjob_b37b389f:
 
 # ch/ayesha/fuck.rpy:3588
 translate russian ayesha_fuck_date_handjob_de605e1e:
-    "Одна из ее рук обхватывает мои яички, удерживая их в ладони."
+    "Одна из её рук обхватывает мои яички, удерживая их в ладони."
 
 # ch/ayesha/fuck.rpy:3589
 translate russian ayesha_fuck_date_handjob_70cfc493:
@@ -25258,7 +25258,7 @@ translate russian ayesha_fuck_date_handjob_654e8f74:
 
 # ch/ayesha/fuck.rpy:3593
 translate russian ayesha_fuck_date_handjob_f6e13479:
-    "Но когда она двигается, она сжимает мои яички, от чего я удивленно выдыхаю."
+    "Но когда она двигается, она сжимает мои яички, от чего я удивлённо выдыхаю."
 
 # ch/ayesha/fuck.rpy:3594
 translate russian ayesha_fuck_date_handjob_33ccccb8:
@@ -25270,7 +25270,7 @@ translate russian ayesha_fuck_date_handjob_5979b3cf:
 
 # ch/ayesha/fuck.rpy:3596
 translate russian ayesha_fuck_date_handjob_c9f52ccb:
-    "Мне удается прикусить губу и сдержать крик."
+    "Мне удаётся прикусить губу и сдержать крик."
 
 # ch/ayesha/fuck.rpy:3597
 translate russian ayesha_fuck_date_handjob_c983ba18:
@@ -25278,7 +25278,7 @@ translate russian ayesha_fuck_date_handjob_c983ba18:
 
 # ch/ayesha/fuck.rpy:3621
 translate russian ayesha_fuck_date_handjob_5c65db24:
-    "Ее первая рука уже набирает скорость, двигаясь вверх и вниз."
+    "Её первая рука уже набирает скорость, двигаясь вверх и вниз."
 
 # ch/ayesha/fuck.rpy:3622
 translate russian ayesha_fuck_date_handjob_68e12a7d:
@@ -25302,7 +25302,7 @@ translate russian ayesha_fuck_date_handjob_8c8a8377:
 
 # ch/ayesha/fuck.rpy:3627
 translate russian ayesha_fuck_date_handjob_d8569af0:
-    "Но каким-то образом я сдерживаюсь еще немного."
+    "Но каким-то образом я сдерживаюсь ещё немного."
 
 # ch/ayesha/fuck.rpy:3629
 translate russian ayesha_fuck_date_handjob_384066a4:
@@ -25326,7 +25326,7 @@ translate russian ayesha_fuck_date_handjob_d2e14498:
 
 # ch/ayesha/fuck.rpy:3649
 translate russian ayesha_fuck_date_handjob_9ddecbdf:
-    "В любом случае, я чувствую, как мое сердце бешено колотится в груди."
+    "В любом случае, я чувствую, как моё сердце бешено колотится в груди."
 
 # ch/ayesha/fuck.rpy:3650
 translate russian ayesha_fuck_date_handjob_f475928b:
@@ -25342,7 +25342,7 @@ translate russian ayesha_fuck_date_handjob_ce0ceab4:
 
 # ch/ayesha/fuck.rpy:3653
 translate russian ayesha_fuck_date_handjob_a757390e:
-    "Но я клянусь, что то, что доводит меня до предела, – это не прикосновение руки Айше."
+    "Но я клянусь, что то, что доводит меня до предела, — это не прикосновение руки Айше."
 
 # ch/ayesha/fuck.rpy:3654
 translate russian ayesha_fuck_date_handjob_b66782f2:
@@ -25394,7 +25394,7 @@ translate russian ayesha_fuck_date_handjob_25982273:
 
 # ch/ayesha/fuck.rpy:3720
 translate russian ayesha_fuck_date_handjob_0480c1c2:
-    "И то, что следует за этим, кажется, разворачивается в замедленной съемке."
+    "И то, что следует за этим, кажется, разворачивается в замедленной съёмке."
 
 # ch/ayesha/fuck.rpy:3732
 translate russian ayesha_fuck_date_handjob_a585a34e:
@@ -25406,11 +25406,11 @@ translate russian ayesha_fuck_date_handjob_a65aee22:
 
 # ch/ayesha/fuck.rpy:3756
 translate russian ayesha_fuck_date_handjob_9f56d47d:
-    "На ее лице разлетаются брызги липкой, белой спермы."
+    "На её лице разлетаются брызги липкой, белой спермы."
 
 # ch/ayesha/fuck.rpy:3760
 translate russian ayesha_fuck_date_handjob_416ba8bf:
-    "Они резко контрастируют с ее безупречной, угольно-черной кожей."
+    "Они резко контрастируют с её безупречной, угольно-чёрной кожей."
 
 # ch/ayesha/fuck.rpy:3761
 translate russian ayesha_fuck_date_handjob_c433fa2f:
@@ -25418,7 +25418,7 @@ translate russian ayesha_fuck_date_handjob_c433fa2f:
 
 # ch/ayesha/fuck.rpy:3762
 translate russian ayesha_fuck_date_handjob_40bcff3a:
-    "Затем сила тяжести берет свое, и она начинает медленно сползать вниз."
+    "Затем сила тяжести берет своё, и она начинает медленно сползать вниз."
 
 # ch/ayesha/fuck.rpy:3763
 translate russian ayesha_fuck_date_handjob_e5516874:
@@ -25462,7 +25462,7 @@ translate russian ayesha_fuck_date_handjob_fe580473:
 
 # ch/ayesha/fuck.rpy:3775
 translate russian ayesha_fuck_date_handjob_860c0288:
-    "Надеюсь, что мое сердце в конце концов перестанет бешено колотиться."
+    "Надеюсь, что моё сердце в конце концов перестанет бешено колотиться."
 
 # ch/ayesha/gift.rpy:26
 translate russian ayesha_birthday_gift_male_24b8ad10:
@@ -25526,7 +25526,7 @@ translate russian ayesha_christmas_gift_male_1f9c5eb3:
 
 # ch/ayesha/gift.rpy:65
 translate russian ayesha_valentine_gift_male_52e02c87:
-    mike.say "С Днем святого Валентина, Айша."
+    mike.say "С Днём святого Валентина, Айша."
 
 # ch/ayesha/gift.rpy:68
 translate russian ayesha_valentine_gift_male_c9130570:
@@ -25594,7 +25594,7 @@ translate russian ayesha_gift_sexy_dress_male_65c6c35b:
 
 # ch/ayesha/gift.rpy:117
 translate russian ayesha_gift_slutty_dress_male_bbae2778:
-    "Я жду подходящего момента, чтобы подарить Айше подарок, который я для нее приготовил."
+    "Я жду подходящего момента, чтобы подарить Айше подарок, который я для неё приготовил."
 
 # ch/ayesha/gift.rpy:118
 translate russian ayesha_gift_slutty_dress_male_ebe82dbe:
@@ -25602,11 +25602,11 @@ translate russian ayesha_gift_slutty_dress_male_ebe82dbe:
 
 # ch/ayesha/gift.rpy:119
 translate russian ayesha_gift_slutty_dress_male_ff71ea9c:
-    "Но проблема в том, что меня постоянно отвлекает сама ее фигура в движении."
+    "Но проблема в том, что меня постоянно отвлекает сама её фигура в движении."
 
 # ch/ayesha/gift.rpy:120
 translate russian ayesha_gift_slutty_dress_male_42ce73d2:
-    "Парадоксально, но подарок – это то, что вдохновило меня купить его именно по этой причине."
+    "Парадоксально, но подарок — это то, что вдохновило меня купить его именно по этой причине."
 
 # ch/ayesha/gift.rpy:122
 translate russian ayesha_gift_slutty_dress_male_ab8995f9:
@@ -25618,11 +25618,11 @@ translate russian ayesha_gift_slutty_dress_male_93ccf20b:
 
 # ch/ayesha/gift.rpy:125
 translate russian ayesha_gift_slutty_dress_male_505e9080:
-    "Вдруг я понимаю, что Аиша пытается привлечь мое внимание."
+    "Вдруг я понимаю, что Айша пытается привлечь моё внимание."
 
 # ch/ayesha/gift.rpy:126
 translate russian ayesha_gift_slutty_dress_male_aa856b19:
-    "И она еще машет рукой прямо перед моим лицом."
+    "И она ещё машет рукой прямо перед моим лицом."
 
 # ch/ayesha/gift.rpy:127
 translate russian ayesha_gift_slutty_dress_male_86d07102:
@@ -25638,7 +25638,7 @@ translate russian ayesha_gift_slutty_dress_male_57c08473:
 
 # ch/ayesha/gift.rpy:130
 translate russian ayesha_gift_slutty_dress_male_9b71e03c:
-    "Аиша реагирует на это признание хитрой улыбкой."
+    "Айша реагирует на это признание хитрой улыбкой."
 
 # ch/ayesha/gift.rpy:132
 translate russian ayesha_gift_slutty_dress_male_dc311a6a:
@@ -25646,7 +25646,7 @@ translate russian ayesha_gift_slutty_dress_male_dc311a6a:
 
 # ch/ayesha/gift.rpy:133
 translate russian ayesha_gift_slutty_dress_male_eaf49b45:
-    ayesha.say "Может быть, ты просто отвлекся?"
+    ayesha.say "Может быть, ты просто отвлёкся?"
 
 # ch/ayesha/gift.rpy:134
 translate russian ayesha_gift_slutty_dress_male_3a134006:
@@ -25654,7 +25654,7 @@ translate russian ayesha_gift_slutty_dress_male_3a134006:
 
 # ch/ayesha/gift.rpy:136
 translate russian ayesha_gift_slutty_dress_male_e181b635:
-    "Вдруг я чувствую, как начинаю паниковать, потому что понимаю, что Аиша меня раскусила."
+    "Вдруг я чувствую, как начинаю паниковать, потому что понимаю, что Айша меня раскусила."
 
 # ch/ayesha/gift.rpy:137
 translate russian ayesha_gift_slutty_dress_male_a912688b:
@@ -25666,7 +25666,7 @@ translate russian ayesha_gift_slutty_dress_male_d0a81853:
 
 # ch/ayesha/gift.rpy:139
 translate russian ayesha_gift_slutty_dress_male_76f59416:
-    mike.say "Хорошо, Аиша..."
+    mike.say "Хорошо, Айша..."
 
 # ch/ayesha/gift.rpy:140
 translate russian ayesha_gift_slutty_dress_male_d70cef57:
@@ -25678,7 +25678,7 @@ translate russian ayesha_gift_slutty_dress_male_4691ffd8:
 
 # ch/ayesha/gift.rpy:142
 translate russian ayesha_gift_slutty_dress_male_874743ae:
-    "Я передаю Аише коробку в подарочной обертке, и она не может скрыть своего восторга."
+    "Я передаю Айше коробку в подарочной обертке, и она не может скрыть своего восторга."
 
 # ch/ayesha/gift.rpy:144
 translate russian ayesha_gift_slutty_dress_male_88200ea7:
@@ -25686,11 +25686,11 @@ translate russian ayesha_gift_slutty_dress_male_88200ea7:
 
 # ch/ayesha/gift.rpy:145
 translate russian ayesha_gift_slutty_dress_male_01978de4:
-    "Но когда она достает из нее это смелое платье, выражение ее лица меняется."
+    "Но когда она достаёт из неё это смелое платье, выражение её лица меняется."
 
 # ch/ayesha/gift.rpy:146
 translate russian ayesha_gift_slutty_dress_male_e0b154b8:
-    "Она поражена, и ее глаза стараются охватить все детали."
+    "Она поражена, и её глаза стараются охватить все детали."
 
 # ch/ayesha/gift.rpy:148
 translate russian ayesha_gift_slutty_dress_male_fae22785:
@@ -25718,19 +25718,19 @@ translate russian ayesha_gift_slutty_dress_male_00c53c3f:
 
 # ch/ayesha/gift.rpy:160
 translate russian ayesha_gift_slutty_dress_male_b9d7b92d:
-    "Аиша смотрит мне прямо в глаза, когда задает этот вопрос."
+    "Айша смотрит мне прямо в глаза, когда задаёт этот вопрос."
 
 # ch/ayesha/gift.rpy:161
 translate russian ayesha_gift_slutty_dress_male_38523b1c:
-    "И я уже чувствую, как ее взгляд начинает трогать самые тонкие струны моей души."
+    "И я уже чувствую, как её взгляд начинает трогать самые тонкие струны моей души."
 
 # ch/ayesha/gift.rpy:162
 translate russian ayesha_gift_slutty_dress_male_cfbe5954:
-    "Как будто она просит у меня разрешения сделать этот огромный шаг вперед."
+    "Как будто она просит у меня разрешения сделать этот огромный шаг вперёд."
 
 # ch/ayesha/gift.rpy:163
 translate russian ayesha_gift_slutty_dress_male_1a4ee663:
-    mike.say "Аиша, тебе правда нужно спрашивать у меня этого?"
+    mike.say "Айша, тебе правда нужно спрашивать у меня этого?"
 
 # ch/ayesha/gift.rpy:164
 translate russian ayesha_gift_slutty_dress_male_ef26f1f2:
@@ -25742,19 +25742,19 @@ translate russian ayesha_gift_slutty_dress_male_cc7a6249:
 
 # ch/ayesha/gift.rpy:166
 translate russian ayesha_gift_slutty_dress_male_1230b537:
-    mike.say "Ты можешь все, что захочешь."
+    mike.say "Ты можешь всё, что захочешь."
 
 # ch/ayesha/gift.rpy:167
 translate russian ayesha_gift_slutty_dress_male_fcb70ad6:
-    "Сейчас Аиша смотрит на меня с настоящим огнем в глазах."
+    "Сейчас Айша смотрит на меня с настоящим огнём в глазах."
 
 # ch/ayesha/gift.rpy:168
 translate russian ayesha_gift_slutty_dress_male_dec8d449:
-    "Она прижимает платье к груди, словно оно стало для нее очень важным."
+    "Она прижимает платье к груди, словно оно стало для неё очень важным."
 
 # ch/ayesha/gift.rpy:169
 translate russian ayesha_gift_slutty_dress_male_61faae8e:
-    "Затем она начинает кивать, как будто мои слова ее вдохновляют."
+    "Затем она начинает кивать, как будто мои слова её вдохновляют."
 
 # ch/ayesha/gift.rpy:171
 translate russian ayesha_gift_slutty_dress_male_c44b7040:
@@ -25778,7 +25778,7 @@ translate russian ayesha_gift_slutty_dress_male_80f8cdf4:
 
 # ch/ayesha/gift.rpy:179
 translate russian ayesha_gift_slutty_dress_male_dfe135a3:
-    "Не могу удержаться от широкой улыбки, когда Аиша подносит платье к себе."
+    "Не могу удержаться от широкой улыбки, когда Айша подносит платье к себе."
 
 # ch/ayesha/gift.rpy:180
 translate russian ayesha_gift_slutty_dress_male_bc0d7667:
@@ -25786,7 +25786,7 @@ translate russian ayesha_gift_slutty_dress_male_bc0d7667:
 
 # ch/ayesha/gift.rpy:181
 translate russian ayesha_gift_slutty_dress_male_de4a7dfb:
-    "И сама мысль обо всем этом в движении почти сводит меня с ума."
+    "И сама мысль обо всём этом в движении почти сводит меня с ума."
 
 # ch/ayesha/gift.rpy:182
 translate russian ayesha_gift_slutty_dress_male_55d99be7:
@@ -25802,11 +25802,11 @@ translate russian ayesha_gift_slutty_dress_male_84dcca7f:
 
 # ch/ayesha/gift.rpy:190
 translate russian ayesha_gift_slutty_dress_male_91c7029c:
-    "Внезапно я чувствую, как будто мне дали пощечину."
+    "Внезапно я чувствую, как будто мне дали пощёчину."
 
 # ch/ayesha/gift.rpy:191
 translate russian ayesha_gift_slutty_dress_male_51c08c1f:
-    "Потому что я не могу поверить в то, что только что сказала Аиша."
+    "Потому что я не могу поверить в то, что только что сказала Айша."
 
 # ch/ayesha/gift.rpy:192
 translate russian ayesha_gift_slutty_dress_male_b7617a62:
@@ -25826,7 +25826,7 @@ translate russian ayesha_gift_slutty_dress_male_6da0801c:
 
 # ch/ayesha/gift.rpy:196
 translate russian ayesha_gift_slutty_dress_male_e0f2025d:
-    "Айша качает головой, ее глаза широко раскрыты от недоверия."
+    "Айша качает головой, её глаза широко раскрыты от недоверия."
 
 # ch/ayesha/gift.rpy:198
 translate russian ayesha_gift_slutty_dress_male_38f3b940:
@@ -25866,15 +25866,15 @@ translate russian ayesha_gift_collar_male_1fb02c29:
 
 # ch/ayesha/gift.rpy:214
 translate russian ayesha_gift_collar_male_04451169:
-    "Просто глядя на нее, видно, что у Айши есть все."
+    "Просто глядя на неё, видно, что у Айши есть все."
 
 # ch/ayesha/gift.rpy:215
 translate russian ayesha_gift_collar_male_7df337b6:
-    "Но за время, проведенное с ней, я заметил, что это не совсем так."
+    "Но за время, проведённое с ней, я заметил, что это не совсем так."
 
 # ch/ayesha/gift.rpy:216
 translate russian ayesha_gift_collar_male_87f46d28:
-    "Айша – это совсем не та личность, которую она изображает на ринге для борьбы."
+    "Айша — это совсем не та личность, которую она изображает на ринге для борьбы."
 
 # ch/ayesha/gift.rpy:217
 translate russian ayesha_gift_collar_male_85e604a7:
@@ -25886,7 +25886,7 @@ translate russian ayesha_gift_collar_male_7ef17276:
 
 # ch/ayesha/gift.rpy:219
 translate russian ayesha_gift_collar_male_d9f4ac90:
-    "Особенно это заметно, когда мы одни, тогда ее настоящая личность проявляется во всей красе."
+    "Особенно это заметно, когда мы одни, тогда её настоящая личность проявляется во всей красе."
 
 # ch/ayesha/gift.rpy:220
 translate russian ayesha_gift_collar_male_e7c7a4fa:
@@ -25910,7 +25910,7 @@ translate russian ayesha_gift_collar_male_963decbe:
 
 # ch/ayesha/gift.rpy:225
 translate russian ayesha_gift_collar_male_c4f41bc5:
-    mike.say "Я принес тебе небольшой подарок, Айша."
+    mike.say "Я принёс тебе небольшой подарок, Айша."
 
 # ch/ayesha/gift.rpy:226
 translate russian ayesha_gift_collar_male_78fb0f5a:
@@ -25946,15 +25946,15 @@ translate russian ayesha_gift_collar_male_3d7e58e0:
 
 # ch/ayesha/gift.rpy:235
 translate russian ayesha_gift_collar_male_34712380:
-    "И это подчеркивает ее естественную красоту, которой у нее так много."
+    "И это подчёркивает её естественную красоту, которой у неё так много."
 
 # ch/ayesha/gift.rpy:236
 translate russian ayesha_gift_collar_male_61b40282:
-    "Надеюсь, она будет еще счастливее, когда увидит, что я ей подарил..."
+    "Надеюсь, она будет ещё счастливее, когда увидит, что я ей подарил..."
 
 # ch/ayesha/gift.rpy:237
 translate russian ayesha_gift_collar_male_94b91cf1:
-    mike.say "Ну… я заметил, что ты почти не носишь украшения, Айша."
+    mike.say "Ну... я заметил, что ты почти не носишь украшения, Айша."
 
 # ch/ayesha/gift.rpy:238
 translate russian ayesha_gift_collar_male_be4cbf8c:
@@ -26002,7 +26002,7 @@ translate russian ayesha_gift_collar_male_af794c25:
 
 # ch/ayesha/gift.rpy:250
 translate russian ayesha_gift_collar_male_cd6744ff:
-    "Хотя на нем есть бирка в форме кости со словом \"Щенок\", выгравированным на ней."
+    "Хотя на нём есть бирка в форме кости со словом «Щенок», выгравированным на ней."
 
 # ch/ayesha/gift.rpy:251
 translate russian ayesha_gift_collar_male_0408edc7:
@@ -26030,7 +26030,7 @@ translate russian ayesha_gift_collar_male_1d60940c:
 
 # ch/ayesha/gift.rpy:258
 translate russian ayesha_gift_collar_male_5b1134cf:
-    "Но потом я понимаю, что это – изумление."
+    "Но потом я понимаю, что это — изумление."
 
 # ch/ayesha/gift.rpy:259
 translate russian ayesha_gift_collar_male_c63805c5:
@@ -26042,7 +26042,7 @@ translate russian ayesha_gift_collar_male_bc1c1362:
 
 # ch/ayesha/gift.rpy:262
 translate russian ayesha_gift_collar_male_a2ad7c05:
-    ayesha.say "Это… для меня?!?!?"
+    ayesha.say "Это... для меня?!?!?"
 
 # ch/ayesha/gift.rpy:263
 translate russian ayesha_gift_collar_male_7309deda:
@@ -26094,7 +26094,7 @@ translate russian ayesha_gift_collar_male_bfff1571:
 
 # ch/ayesha/gift.rpy:275
 translate russian ayesha_gift_collar_male_c9f7c1fc:
-    "Затем она застегивает его на своей шее."
+    "Затем она застёгивает его на своей шее."
 
 # ch/ayesha/gift.rpy:276
 translate russian ayesha_gift_collar_male_faf6a21e:
@@ -26114,7 +26114,7 @@ translate russian ayesha_gift_collar_male_800a7ee8:
 
 # ch/ayesha/gift.rpy:283
 translate russian ayesha_gift_collar_male_aff64464:
-    "Она играет с этикеткой на воротнике, пока улыбка расплывается по ее лицу."
+    "Она играет с этикеткой на воротнике, пока улыбка расплывается по её лицу."
 
 # ch/ayesha/gift.rpy:284
 translate russian ayesha_gift_collar_male_1f2e1647:
@@ -26138,7 +26138,7 @@ translate russian ayesha_gift_collar_male_109bd463:
 
 # ch/ayesha/gift.rpy:290
 translate russian ayesha_gift_collar_male_110fbf7d:
-    "Айша кивает, все еще улыбаясь своей милой и застенчивой улыбкой."
+    "Айша кивает, всё ещё улыбаясь своей милой и застенчивой улыбкой."
 
 # ch/ayesha/gift.rpy:291
 translate russian ayesha_gift_collar_male_6a32b87b:
@@ -26182,11 +26182,11 @@ translate russian ayesha_gift_collar_male_3d181c9b:
 
 # ch/ayesha/gift.rpy:305
 translate russian ayesha_gift_collar_male_1969ccdd:
-    "И я уже начинаю жалеть об этом, глядя на нее."
+    "И я уже начинаю жалеть об этом, глядя на неё."
 
 # ch/ayesha/gift.rpy:306
 translate russian ayesha_gift_collar_male_9902b7a6:
-    "Когда я пытаюсь заглянуть ей в глаза, все становится еще хуже."
+    "Когда я пытаюсь заглянуть ей в глаза, все становится ещё хуже."
 
 # ch/ayesha/gift.rpy:307
 translate russian ayesha_gift_collar_male_563e06a5:
@@ -26214,11 +26214,11 @@ translate russian ayesha_gift_collar_male_a077c57c:
 
 # ch/ayesha/gift.rpy:314
 translate russian ayesha_gift_collar_male_13ee3737:
-    "Мне отчаянно хочется сказать Аише, что она не права."
+    "Мне отчаянно хочется сказать Айше, что она не права."
 
 # ch/ayesha/gift.rpy:315
 translate russian ayesha_gift_collar_male_0fc92144:
-    mike.say "Нет, Аиша, нет!"
+    mike.say "Нет, Айша, нет!"
 
 # ch/ayesha/gift.rpy:316
 translate russian ayesha_gift_collar_male_34553b06:
@@ -26234,7 +26234,7 @@ translate russian ayesha_gift_collar_male_6b07e372:
 
 # ch/ayesha/gift.rpy:319
 translate russian ayesha_gift_collar_male_1bb9fcb4:
-    "Аиша почти рычит от отчаяния."
+    "Айша почти рычит от отчаяния."
 
 # ch/ayesha/gift.rpy:320
 translate russian ayesha_gift_collar_male_c30f76aa:
@@ -26250,7 +26250,7 @@ translate russian ayesha_gift_collar_male_4315572c:
 
 # ch/ayesha/gift.rpy:324
 translate russian ayesha_gift_collar_male_e0d25ed3:
-    "Аиша действительно плачет, слезы текут по ее щекам."
+    "Айша действительно плачет, слезы текут по её щекам."
 
 # ch/ayesha/gift.rpy:325
 translate russian ayesha_gift_collar_male_6cb9a05f:
@@ -26258,7 +26258,7 @@ translate russian ayesha_gift_collar_male_6cb9a05f:
 
 # ch/ayesha/gift.rpy:326
 translate russian ayesha_gift_collar_male_3793f80d:
-    "Но то, что хуже смущения, – это сейчас вид Аиши."
+    "Но то, что хуже смущения, — это сейчас вид Айши."
 
 # ch/ayesha/gift.rpy:327
 translate russian ayesha_gift_collar_male_b4d2bc97:
@@ -26294,7 +26294,7 @@ translate russian ayesha_gift_collar_male_a3c5f2f2:
 
 # ch/ayesha/gift.rpy:336
 translate russian ayesha_gift_collar_male_5671376d:
-    "Все, что я могу сделать, это молча кивнуть, пока Айша уходит."
+    "Всё, что я могу сделать, это молча кивнуть, пока Айша уходит."
 
 # ch/ayesha/gift.rpy:338
 translate russian ayesha_gift_collar_male_bc2cf776:
@@ -26302,11 +26302,11 @@ translate russian ayesha_gift_collar_male_bc2cf776:
 
 # ch/ayesha/gift.rpy:339
 translate russian ayesha_gift_collar_male_79f211b6:
-    "Простит ли она меня когда-нибудь, даст ли мне еще один шанс?"
+    "Простит ли она меня когда-нибудь, даст ли мне ещё один шанс?"
 
 # ch/ayesha/gift.rpy:340
 translate russian ayesha_gift_collar_male_30b7afe2:
-    "Думаю, все, что я могу сделать, это ждать и надеяться."
+    "Думаю, всё, что я могу сделать, это ждать и надеяться."
 
 # ch/ayesha/gift.rpy:348
 translate russian ayesha_gift_butt_plug_male_a28efc40:
@@ -26342,11 +26342,11 @@ translate russian ayesha_gift_butt_plug_male_8db6f94e:
 
 # ch/ayesha/reactions.rpy:2
 translate russian ayesha_ice_cream_reaction_male_52771393:
-    mike.say "Я умираю от этой жары, Айша – давай возьмем мороженое?"
+    mike.say "Я умираю от этой жары, Айша — давай возьмём мороженое?"
 
 # ch/ayesha/reactions.rpy:3
 translate russian ayesha_ice_cream_reaction_male_f2114ca1:
-    ayesha.say "Хм... Я не заметила - но да, можем."
+    ayesha.say "Хм... Я не заметила — но да, можем."
 
 # ch/ayesha/reactions.rpy:4
 translate russian ayesha_ice_cream_reaction_male_73a4ddd7:
@@ -26354,7 +26354,7 @@ translate russian ayesha_ice_cream_reaction_male_73a4ddd7:
 
 # ch/ayesha/reactions.rpy:5
 translate russian ayesha_ice_cream_reaction_male_e7198fb8:
-    "Айша тоже берет себе рожок, но у нее только один шарик розового мороженого."
+    "Айша тоже берет себе рожок, но у неё только один шарик розового мороженого."
 
 # ch/ayesha/reactions.rpy:6
 translate russian ayesha_ice_cream_reaction_male_22884910:
@@ -26366,7 +26366,7 @@ translate russian ayesha_ice_cream_reaction_male_4583cf16:
 
 # ch/ayesha/reactions.rpy:8
 translate russian ayesha_ice_cream_reaction_male_c18f0d42:
-    ayesha.say "А... нет - просто я не очень люблю мороженое, понимаешь?"
+    ayesha.say "А... нет — просто я не очень люблю мороженое, понимаешь?"
 
 # ch/ayesha/reactions.rpy:9
 translate russian ayesha_ice_cream_reaction_male_a567f8bd:
@@ -26410,7 +26410,7 @@ translate russian ayesha_ask_birthday_male_84505754:
 
 # ch/ayesha/reactions.rpy:32
 translate russian ayesha_ask_birthday_male_34d0115f:
-    mike.say "Когда у тебя день рождения, Аиша?"
+    mike.say "Когда у тебя день рождения, Айша?"
 
 # ch/ayesha/reactions.rpy:36
 translate russian ayesha_ask_birthday_male_084241ee:
@@ -26426,11 +26426,11 @@ translate russian ayesha_ask_birthday_male_724cd766:
 
 # ch/ayesha/reactions.rpy:43
 translate russian ayesha_ask_birthday_male_11a6da26:
-    ayesha.say "Нельзя спрашивать у девушки ее возраст, [lssb_ayesha.hero_name()]!"
+    ayesha.say "Нельзя спрашивать у девушки её возраст, [lssb_ayesha.hero_name()]!"
 
 # ch/ayesha/reactions.rpy:44
 translate russian ayesha_ask_birthday_male_36865abc:
-    ayesha.say "И вообще, это мышцы делают меня такой... \"особенной\"."
+    ayesha.say "И вообще, это мышцы делают меня такой... «особенной»."
 
 # ch/ayesha/reactions.rpy:45
 translate russian ayesha_ask_birthday_male_83002c61:
@@ -26438,7 +26438,7 @@ translate russian ayesha_ask_birthday_male_83002c61:
 
 # ch/ayesha/reactions.rpy:49
 translate russian ayesha_offer_a_drink_male_6c1fe577:
-    mike.say "Мне нужен напиток, Аиша!"
+    mike.say "Мне нужен напиток, Айша!"
 
 # ch/ayesha/reactions.rpy:50
 translate russian ayesha_offer_a_drink_male_17f5a72d:
@@ -26446,7 +26446,7 @@ translate russian ayesha_offer_a_drink_male_17f5a72d:
 
 # ch/ayesha/reactions.rpy:51
 translate russian ayesha_offer_a_drink_male_af5badc7:
-    "Едва слова слетают с моих уст, Аиша поворачивается ко мне лицом."
+    "Едва слова слетают с моих уст, Айша поворачивается ко мне лицом."
 
 # ch/ayesha/reactions.rpy:55
 translate russian ayesha_offer_a_drink_male_6770cbd7:
@@ -26454,7 +26454,7 @@ translate russian ayesha_offer_a_drink_male_6770cbd7:
 
 # ch/ayesha/reactions.rpy:56
 translate russian ayesha_offer_a_drink_male_82b48019:
-    ayesha.say "Когда я буду беременна твоим собственным ребенком?!?"
+    ayesha.say "Когда я буду беременна твоим собственным ребёнком?!?"
 
 # ch/ayesha/reactions.rpy:57
 translate russian ayesha_offer_a_drink_male_ed27f3b0:
@@ -26486,11 +26486,11 @@ translate russian ayesha_slap_ass_intro_male_baaeab6f:
 
 # ch/ayesha/reactions.rpy:84
 translate russian ayesha_slap_ass_intro_male_23ae5adf:
-    "Но Аиша почти гипнотизирует своей походкой."
+    "Но Айша почти гипнотизирует своей походкой."
 
 # ch/ayesha/reactions.rpy:85
 translate russian ayesha_slap_ass_intro_male_29cc6794:
-    "Все под ее кожей перекатывается и рябит."
+    "Все под её кожей перекатывается и рябит."
 
 # ch/ayesha/reactions.rpy:86
 translate russian ayesha_slap_ass_intro_male_b98e958d:
@@ -26506,11 +26506,11 @@ translate russian ayesha_slap_ass_intro_male_d66da6eb:
 
 # ch/ayesha/reactions.rpy:92
 translate russian ayesha_slap_ass_happy_male_c17ad214:
-    "Аиша не издает ни звука, когда я хлопаю ее по попе."
+    "Айша не издаёт ни звука, когда я хлопаю её по попе."
 
 # ch/ayesha/reactions.rpy:93
 translate russian ayesha_slap_ass_happy_male_b6e5b95a:
-    "Она просто останавливается, и ее глаза расширяются."
+    "Она просто останавливается, и её глаза расширяются."
 
 # ch/ayesha/reactions.rpy:94
 translate russian ayesha_slap_ass_happy_male_c56beb84:
@@ -26570,11 +26570,11 @@ translate russian ayesha_slap_ass_happy_male_b9415ab4:
 
 # ch/ayesha/reactions.rpy:118
 translate russian ayesha_slap_ass_angry_male_c17ad214:
-    "Аиша не издает ни звука, когда я хлопаю ее по попе."
+    "Айша не издаёт ни звука, когда я хлопаю её по попе."
 
 # ch/ayesha/reactions.rpy:119
 translate russian ayesha_slap_ass_angry_male_b6e5b95a:
-    "Она просто останавливается, и ее глаза расширяются."
+    "Она просто останавливается, и её глаза расширяются."
 
 # ch/ayesha/reactions.rpy:120
 translate russian ayesha_slap_ass_angry_male_c56beb84:
@@ -26602,11 +26602,11 @@ translate russian ayesha_slap_ass_angry_male_90b03e4a:
 
 # ch/ayesha/reactions.rpy:126
 translate russian ayesha_slap_ass_angry_male_bd9af1e5:
-    "И я быстро киваю, показывая, что понял, о чем речь!"
+    "И я быстро киваю, показывая, что понял, о чём речь!"
 
 # ch/ayesha/reactions.rpy:131
 translate russian ayesha_breakup_male_c0c55605:
-    "Мне немного не по себе, когда я собираюсь поговорить с Аишей."
+    "Мне немного не по себе, когда я собираюсь поговорить с Айшей."
 
 # ch/ayesha/reactions.rpy:132
 translate russian ayesha_breakup_male_c86193ef:
@@ -26622,7 +26622,7 @@ translate russian ayesha_breakup_male_a8f337b3:
 
 # ch/ayesha/reactions.rpy:135
 translate russian ayesha_breakup_male_74e8d35d:
-    mike.say "Аиша..."
+    mike.say "Айша..."
 
 # ch/ayesha/reactions.rpy:136
 translate russian ayesha_breakup_male_92e42cc5:
@@ -26638,7 +26638,7 @@ translate russian ayesha_breakup_male_a002bd46:
 
 # ch/ayesha/reactions.rpy:139
 translate russian ayesha_breakup_male_14b95fea:
-    "Черт возьми, я даже не знаю, хотел ли я, чтобы она догадалась!"
+    "Чёрт возьми, я даже не знаю, хотел ли я, чтобы она догадалась!"
 
 # ch/ayesha/reactions.rpy:140
 translate russian ayesha_breakup_male_e9b74461:
@@ -26686,11 +26686,11 @@ translate russian ayesha_breakup_male_d3ab1731:
 
 # ch/ayesha/reactions.rpy:152
 translate russian ayesha_breakup_male_bf63d829:
-    "Ожидая, что со мной произойдет то же самое, что и с одним из ее противников на профессиональном рестлинг-шоу."
+    "Ожидая, что со мной произойдёт то же самое, что и с одним из её противников на профессиональном рестлинг-шоу."
 
 # ch/ayesha/reactions.rpy:153
 translate russian ayesha_breakup_male_c79567b5:
-    "И тогда я вижу, как дрожит ее губа, и замечаю капельку воды в уголке ее глаза."
+    "И тогда я вижу, как дрожит её губа, и замечаю капельку воды в уголке её глаза."
 
 # ch/ayesha/reactions.rpy:154
 translate russian ayesha_breakup_male_0690a313:
@@ -26730,7 +26730,7 @@ translate russian ayesha_breakup_male_69a3782c:
 
 # ch/ayesha/reactions.rpy:163
 translate russian ayesha_breakup_male_63a3d6a8:
-    "Сказать ей, что все будет хорошо?"
+    "Сказать ей, что всё будет хорошо?"
 
 # ch/ayesha/reactions.rpy:164
 translate russian ayesha_breakup_male_5348c4ba:
@@ -26758,11 +26758,11 @@ translate russian ayesha_breakup_male_476831a2:
 
 # ch/ayesha/reactions.rpy:173
 translate russian ayesha_go_steady_intro_male_74e8d35d:
-    mike.say "Аиша…"
+    mike.say "Айша..."
 
 # ch/ayesha/reactions.rpy:174
 translate russian ayesha_go_steady_intro_male_63863f9a:
-    mike.say "Я только что подумал…"
+    mike.say "Я только что подумал..."
 
 # ch/ayesha/reactions.rpy:175
 translate russian ayesha_go_steady_intro_male_d32eead5:
@@ -26778,19 +26778,19 @@ translate russian ayesha_go_steady_yes_male_57f2a009:
 
 # ch/ayesha/reactions.rpy:181
 translate russian ayesha_go_steady_yes_male_615dc206:
-    ayesha.say "Я бы хотела перейти на новый уровень…"
+    ayesha.say "Я бы хотела перейти на новый уровень..."
 
 # ch/ayesha/reactions.rpy:182
 translate russian ayesha_go_steady_yes_male_5f9b0de1:
-    "Аиша обнимает меня руками, как две влюбленные змеи."
+    "Айша обнимает меня руками, как две влюбленные змеи."
 
 # ch/ayesha/reactions.rpy:183
 translate russian ayesha_go_steady_yes_male_5cb78876:
-    "И затем она целует меня – это долгий и нежный поцелуй."
+    "И затем она целует меня — это долгий и нежный поцелуй."
 
 # ch/ayesha/reactions.rpy:187
 translate russian ayesha_go_steady_no_male_8f39e219:
-    ayesha.say "Я...я думаю, я еще не готова, [lssb_ayesha.hero_name()]."
+    ayesha.say "Я...я думаю, я ещё не готова, [lssb_ayesha.hero_name()]."
 
 # ch/ayesha/reactions.rpy:188
 translate russian ayesha_go_steady_no_male_24dff3be:
@@ -26810,7 +26810,7 @@ translate russian ayesha_pet_intro_male_a5471f35:
 
 # ch/ayesha/reactions.rpy:195
 translate russian ayesha_pet_intro_male_75211e6b:
-    "Моя рука тянется к Аише, и я поглаживаю ее по голове…"
+    "Моя рука тянется к Айше, и я поглаживаю её по голове..."
 
 # ch/ayesha/reactions.rpy:199
 translate russian ayesha_pet_happy_male_7560fbed:
@@ -26878,11 +26878,11 @@ translate russian ayesha_pet_annoyed_male_cd3a2064:
 
 # ch/ayesha/reactions.rpy:228
 translate russian ayesha_massage_intro_male_6d64b588:
-    mike.say "Эй, Аиша!"
+    mike.say "Эй, Айша!"
 
 # ch/ayesha/reactions.rpy:229
 translate russian ayesha_massage_intro_male_4398797f:
-    mike.say "У тебя плечи напряжены, как будто из веревок!"
+    mike.say "У тебя плечи напряжены, как будто из верёвок!"
 
 # ch/ayesha/reactions.rpy:230
 translate russian ayesha_massage_intro_male_dfedcaad:
@@ -26990,7 +26990,7 @@ translate russian ayesha_movie_disliked_reaction_male_f8a86e3f:
 
 # ch/ayesha/reactions.rpy:284
 translate russian ayesha_movie_indifferent_reaction_male_17631e81:
-    ayesha.say "Я...думаю, он был неплох, но в нем не было ничего особенного."
+    ayesha.say "Я...думаю, он был неплох, но в нём не было ничего особенного."
 
 # ch/ayesha/reactions.rpy:288
 translate russian ayesha_movie_liked_reaction_male_241bcf6c:
@@ -27006,7 +27006,7 @@ translate russian ayesha_belly_kiss_male_feddc57e:
 
 # ch/ayesha/reactions.rpy:295
 translate russian ayesha_belly_kiss_male_deb3053a:
-    "Но у меня такое впечатление, что она все еще считает, будто этот \"шарик\" испортил ее фигуру."
+    "Но у меня такое впечатление, что она всё ещё считает, будто этот «шарик» испортил её фигуру."
 
 # ch/ayesha/reactions.rpy:296
 translate russian ayesha_belly_kiss_male_719a0db0:
@@ -27038,7 +27038,7 @@ translate russian ayesha_belly_kiss_male_1480ec68:
 
 # ch/ayesha/reactions.rpy:306
 translate russian ayesha_belly_kiss_male_2eddbbbc:
-    "Вместо этого я наклоняюсь и целую ее живот в верхней части."
+    "Вместо этого я наклоняюсь и целую её живот в верхней части."
 
 # ch/ayesha/reactions.rpy:308
 translate russian ayesha_belly_kiss_male_ac2d8f0e:
@@ -27066,11 +27066,11 @@ translate russian ayesha_belly_kiss_male_422d2ab2:
 
 # ch/ayesha/reactions.rpy:316
 translate russian ayesha_belly_kiss_male_5e4ac4e6:
-    mike.say "И я целую его сейчас, потому что ты носишь моего ребенка."
+    mike.say "И я целую его сейчас, потому что ты носишь моего ребёнка."
 
 # ch/ayesha/reactions.rpy:318
 translate russian ayesha_belly_kiss_male_a9541933:
-    "Я вижу, как Аиша начинает краснеть от смущения."
+    "Я вижу, как Айша начинает краснеть от смущения."
 
 # ch/ayesha/reactions.rpy:319
 translate russian ayesha_belly_kiss_male_3989d906:
@@ -27078,7 +27078,7 @@ translate russian ayesha_belly_kiss_male_3989d906:
 
 # ch/ayesha/reactions.rpy:320
 translate russian ayesha_belly_kiss_male_005628d9:
-    ayesha.say "Ты этого не имеешь в виду, [lssb_ayesha.hero_name()]…"
+    ayesha.say "Ты этого не имеешь в виду, [lssb_ayesha.hero_name()]..."
 
 # ch/ayesha/reactions.rpy:321
 translate russian ayesha_belly_kiss_male_42d10f67:
@@ -27090,7 +27090,7 @@ translate russian ayesha_belly_kiss_male_dbcbba05:
 
 # ch/ayesha/reactions.rpy:324
 translate russian ayesha_belly_kiss_male_57db982c:
-    "И затем я снова начинаю целовать живот Аиши."
+    "И затем я снова начинаю целовать живот Айши."
 
 # ch/ayesha/reactions.rpy:326
 translate russian ayesha_belly_kiss_male_1e969a85:
@@ -27106,7 +27106,7 @@ translate russian ayesha_belly_kiss_male_fce5dafd:
 
 # ch/ayesha/reactions.rpy:330
 translate russian ayesha_belly_kiss_male_66b1ff4e:
-    ayesha.say "Ты… ты можешь продолжать… если тебе действительно этого хочется?"
+    ayesha.say "Ты... ты можешь продолжать... если тебе действительно этого хочется?"
 
 # ch/ayesha/reactions.rpy:332
 translate russian ayesha_belly_kiss_male_da2de92d:
@@ -27114,11 +27114,11 @@ translate russian ayesha_belly_kiss_male_da2de92d:
 
 # ch/ayesha/reactions.rpy:337
 translate russian ayesha_belly_caress_male_27b321c7:
-    "Я украдкой смотрю на живот Аиши, пока она нежно прижимает его к себе руками."
+    "Я украдкой смотрю на живот Айши, пока она нежно прижимает его к себе руками."
 
 # ch/ayesha/reactions.rpy:338
 translate russian ayesha_belly_caress_male_0de9bf09:
-    "Но каждый раз, когда она ловит меня на том, что я смотрю на нее, мне приходится отворачивать голову."
+    "Но каждый раз, когда она ловит меня на том, что я смотрю на неё, мне приходится отворачивать голову."
 
 # ch/ayesha/reactions.rpy:340
 translate russian ayesha_belly_caress_male_21d526ee:
@@ -27126,11 +27126,11 @@ translate russian ayesha_belly_caress_male_21d526ee:
 
 # ch/ayesha/reactions.rpy:341
 translate russian ayesha_belly_caress_male_913091ee:
-    "Как будто ей очень неловко из-за формы ее тела."
+    "Как будто ей очень неловко из-за формы её тела."
 
 # ch/ayesha/reactions.rpy:342
 translate russian ayesha_belly_caress_male_ba64da79:
-    "И ей кажется, что я на нее смотрю, потому что она поправилась, или из-за какой-нибудь другой глупости."
+    "И ей кажется, что я на неё смотрю, потому что она поправилась, или из-за какой-нибудь другой глупости."
 
 # ch/ayesha/reactions.rpy:343
 translate russian ayesha_belly_caress_male_ea53c54c:
@@ -27138,7 +27138,7 @@ translate russian ayesha_belly_caress_male_ea53c54c:
 
 # ch/ayesha/reactions.rpy:344
 translate russian ayesha_belly_caress_male_e1ac50de:
-    "Иначе боюсь, у нее разовьется комплекс из-за этого или что-то в этом роде."
+    "Иначе боюсь, у неё разовьется комплекс из-за этого или что-то в этом роде."
 
 # ch/ayesha/reactions.rpy:346
 translate russian ayesha_belly_caress_male_74e8d35d:
@@ -27154,15 +27154,15 @@ translate russian ayesha_belly_caress_male_12f0cb35:
 
 # ch/ayesha/reactions.rpy:350
 translate russian ayesha_belly_caress_male_1f10d6f6:
-    "Айша смотрит на меня, и я вижу, что в ее голове идет настоящая борьба."
+    "Айша смотрит на меня, и я вижу, что в её голове идёт настоящая борьба."
 
 # ch/ayesha/reactions.rpy:351
 translate russian ayesha_belly_caress_male_1de9335f:
-    "С одной стороны, она хочет, чтобы я ушел, оставил ее в покое."
+    "С одной стороны, она хочет, чтобы я ушёл, оставил её в покое."
 
 # ch/ayesha/reactions.rpy:352
 translate russian ayesha_belly_caress_male_a1dbaf08:
-    "Но с другой – ей тоже очень хочется моего внимания."
+    "Но с другой — ей тоже очень хочется моего внимания."
 
 # ch/ayesha/reactions.rpy:353
 translate russian ayesha_belly_caress_male_26ae7063:
@@ -27182,11 +27182,11 @@ translate russian ayesha_belly_caress_male_e31af4e8:
 
 # ch/ayesha/reactions.rpy:359
 translate russian ayesha_belly_caress_male_acf25430:
-    "Затем я осторожно провожу рукой по изгибу ее живота, пока не почувствую что-то."
+    "Затем я осторожно провожу рукой по изгибу её живота, пока не почувствую что-то."
 
 # ch/ayesha/reactions.rpy:360
 translate russian ayesha_belly_caress_male_68009cff:
-    "И когда ребенок решает в этот момент пнуть, я не могу сдержаться."
+    "И когда ребёнок решает в этот момент пнуть, я не могу сдержаться."
 
 # ch/ayesha/reactions.rpy:361
 translate russian ayesha_belly_caress_male_7f803a51:
@@ -27198,7 +27198,7 @@ translate russian ayesha_belly_caress_male_3d3b2683:
 
 # ch/ayesha/reactions.rpy:364
 translate russian ayesha_belly_caress_male_902e0f9a:
-    "И она опускает руку и кладет ее поверх моей."
+    "И она опускает руку и кладёт её поверх моей."
 
 # ch/ayesha/reactions.rpy:365
 translate russian ayesha_belly_caress_male_e7b1d919:
@@ -27230,7 +27230,7 @@ translate russian ayesha_belly_listen_male_a3cf3725:
 
 # ch/ayesha/reactions.rpy:378
 translate russian ayesha_belly_listen_male_7b0e5a32:
-    "Ее живот трясется и подпрыгивает просто безумно!"
+    "Её живот трясётся и подпрыгивает просто безумно!"
 
 # ch/ayesha/reactions.rpy:379
 translate russian ayesha_belly_listen_male_3f8382ca:
@@ -27242,15 +27242,15 @@ translate russian ayesha_belly_listen_male_cb1ce5ac:
 
 # ch/ayesha/reactions.rpy:381
 translate russian ayesha_belly_listen_male_47e9a78e:
-    mike.say "Этот ребенок вырастет настоящим крутым борцом, как и его мама!"
+    mike.say "Этот ребёнок вырастет настоящим крутым борцом, как и его мама!"
 
 # ch/ayesha/reactions.rpy:382
 translate russian ayesha_belly_listen_male_38c806c7:
-    "Я вижу, что Айша немного смущена моей восторженной реакцией по поводу нее и ребенка."
+    "Я вижу, что Айша немного смущена моей восторженной реакцией по поводу неё и ребёнка."
 
 # ch/ayesha/reactions.rpy:383
 translate russian ayesha_belly_listen_male_790060e1:
-    "Но также я замечаю, что в ее глазах сейчас горит какой-то огонек."
+    "Но также я замечаю, что в её глазах сейчас горит какой-то огонёк."
 
 # ch/ayesha/reactions.rpy:384
 translate russian ayesha_belly_listen_male_91b21860:
@@ -27290,7 +27290,7 @@ translate russian ayesha_belly_listen_male_3b2a1e8f:
 
 # ch/ayesha/reactions.rpy:396
 translate russian ayesha_belly_listen_male_0d5b7729:
-    mike.say "Звучит как подводный \"Битва за выживание\"!"
+    mike.say "Звучит как подводный «Битва за выживание»!"
 
 # ch/ayesha/reactions.rpy:397
 translate russian ayesha_belly_listen_male_3bb167c7:
@@ -27306,7 +27306,7 @@ translate russian ayesha_belly_listen_male_ebd2b381:
 
 # ch/ayesha/reactions.rpy:400
 translate russian ayesha_belly_listen_male_dbabfce2:
-    mike.say "Ребенок только что ударил меня головой?!"
+    mike.say "Ребёнок только что ударил меня головой?!"
 
 # ch/ayesha/reactions.rpy:402
 translate russian ayesha_belly_listen_male_28efb68f:
@@ -27318,7 +27318,7 @@ translate russian ayesha_belly_listen_male_f56c3d3f:
 
 # ch/ayesha/talk.rpy:3
 translate russian ayesha_talk_love_male_80ec8695:
-    mike.say "Айша, ты думаешь, что настоящая любовь – это реальная вещь?"
+    mike.say "Айша, ты думаешь, что настоящая любовь — это реальная вещь?"
 
 # ch/ayesha/talk.rpy:4
 translate russian ayesha_talk_love_male_6e29607f:
@@ -27326,7 +27326,7 @@ translate russian ayesha_talk_love_male_6e29607f:
 
 # ch/ayesha/talk.rpy:6
 translate russian ayesha_talk_love_male_40c7bf36:
-    "Айша на мгновение отводит взгляд, в ее глазах читается грусть."
+    "Айша на мгновение отводит взгляд, в её глазах читается грусть."
 
 # ch/ayesha/talk.rpy:7
 translate russian ayesha_talk_love_male_8b42199a:
@@ -27350,7 +27350,7 @@ translate russian ayesha_talk_sex_male_e2eaa6c6:
 
 # ch/ayesha/talk.rpy:21
 translate russian ayesha_talk_sex_male_2515c86d:
-    "Айша смотрит на меня так, будто то, что я только что сказал, задело ее."
+    "Айша смотрит на меня так, будто то, что я только что сказал, задело её."
 
 # ch/ayesha/talk.rpy:22
 translate russian ayesha_talk_sex_male_ba086b9e:
@@ -27358,7 +27358,7 @@ translate russian ayesha_talk_sex_male_ba086b9e:
 
 # ch/ayesha/talk.rpy:23
 translate russian ayesha_talk_sex_male_9c80a3f0:
-    ayesha.say "Просто потому, что я могу поднять больше веса в жиме лежа, чем большинство парней, это не значит, что я не настоящая женщина!"
+    ayesha.say "Просто потому, что я могу поднять больше веса в жиме лёжа, чем большинство парней, это не значит, что я не настоящая женщина!"
 
 # ch/ayesha/talk.rpy:31
 translate russian ayesha_talk_politics_male_5100099c:
@@ -27382,7 +27382,7 @@ translate russian ayesha_talk_politics_male_155e9bbc:
 
 # ch/ayesha/talk.rpy:42
 translate russian ayesha_talk_food_male_ef26f253:
-    mike.say "Вау, у тебя определенно очень хороший аппетит, Айша!"
+    mike.say "Вау, у тебя определённо очень хороший аппетит, Айша!"
 
 # ch/ayesha/talk.rpy:44
 translate russian ayesha_talk_food_male_a9e771b7:
@@ -27442,7 +27442,7 @@ translate russian ayesha_talk_tv_male_10873fc7:
 
 # ch/ayesha/talk.rpy:75
 translate russian ayesha_talk_tv_male_dee85852:
-    ayesha.say "В основном то, что я вижу по телевизору – это просто бессмытная ерунда."
+    ayesha.say "В основном то, что я вижу по телевизору — это просто бессмытная ерунда."
 
 # ch/ayesha/talk.rpy:81
 translate russian ayesha_talk_sports_male_c4dd99b7:
@@ -27462,7 +27462,7 @@ translate russian ayesha_talk_sports_male_4398a0be:
 
 # ch/ayesha/talk.rpy:87
 translate russian ayesha_talk_sports_male_e6150bf9:
-    ayesha.say "Большинство борцов – лучшие спортсмены по сравнению с этими слабаками в других видах спорта!"
+    ayesha.say "Большинство борцов — лучшие спортсмены по сравнению с этими слабаками в других видах спорта!"
 
 # ch/ayesha/talk.rpy:95
 translate russian ayesha_talk_fashion_male_e6614f48:
@@ -27470,15 +27470,15 @@ translate russian ayesha_talk_fashion_male_e6614f48:
 
 # ch/ayesha/talk.rpy:96
 translate russian ayesha_talk_fashion_male_cd4338ca:
-    mike.say "Так, у тебя тоже такая же история, Аиша?"
+    mike.say "Так, у тебя тоже такая же история, Айша?"
 
 # ch/ayesha/talk.rpy:98
 translate russian ayesha_talk_fashion_male_5f10431d:
-    "Аиша мгновенно смущается и чувствует себя неловко."
+    "Айша мгновенно смущается и чувствует себя неловко."
 
 # ch/ayesha/talk.rpy:99
 translate russian ayesha_talk_fashion_male_9316638b:
-    "Ее голова дергается то в одну, то в другую сторону, как будто она уверена, что люди на нее смотрят."
+    "Её голова дёргается то в одну, то в другую сторону, как будто она уверена, что люди на неё смотрят."
 
 # ch/ayesha/talk.rpy:100
 translate russian ayesha_talk_fashion_male_dbb83469:
@@ -27494,7 +27494,7 @@ translate russian ayesha_talk_fashion_male_5854cbd2:
 
 # ch/ayesha/talk.rpy:109
 translate russian ayesha_talk_books_male_2d099aee:
-    mike.say "У тебя много времени на чтение, Аиша?"
+    mike.say "У тебя много времени на чтение, Айша?"
 
 # ch/ayesha/talk.rpy:110
 translate russian ayesha_talk_books_male_0d01d562:
@@ -27502,7 +27502,7 @@ translate russian ayesha_talk_books_male_0d01d562:
 
 # ch/ayesha/talk.rpy:112
 translate russian ayesha_talk_books_male_599b0fbb:
-    "Аиша прищуривается и слегка качает головой."
+    "Айша прищуривается и слегка качает головой."
 
 # ch/ayesha/talk.rpy:113
 translate russian ayesha_talk_books_male_d98115f3:
@@ -27514,7 +27514,7 @@ translate russian ayesha_talk_books_male_906147ac:
 
 # ch/ayesha/talk.rpy:121
 translate russian ayesha_talk_people_male_881e54f0:
-    mike.say "Ты в такой отличной форме, Аиша."
+    mike.say "Ты в такой отличной форме, Айша."
 
 # ch/ayesha/talk.rpy:122
 translate russian ayesha_talk_people_male_77630891:
@@ -27522,7 +27522,7 @@ translate russian ayesha_talk_people_male_77630891:
 
 # ch/ayesha/talk.rpy:123
 translate russian ayesha_talk_people_male_b6e9c986:
-    "Айша улыбается, но в ее глазах читается какая-то грусть."
+    "Айша улыбается, но в её глазах читается какая-то грусть."
 
 # ch/ayesha/talk.rpy:124
 translate russian ayesha_talk_people_male_e6fbc6d3:
@@ -27558,7 +27558,7 @@ translate russian ayesha_talk_computers_male_6d4c2247:
 
 # ch/ayesha/talk.rpy:145
 translate russian ayesha_talk_computers_male_9d20cfa4:
-    mike.say "А что насчет тебя, Айша?"
+    mike.say "А что насчёт тебя, Айша?"
 
 # ch/ayesha/talk.rpy:146
 translate russian ayesha_talk_computers_male_11e83608:
@@ -27598,7 +27598,7 @@ translate russian ayesha_talk_music_male_7514a335:
 
 # ch/ayesha/talk.rpy:170
 translate russian ayesha_talk_birthday_male_24b8ad10:
-    mike.say "С днем рождения, Айша."
+    mike.say "С днём рождения, Айша."
 
 # ch/ayesha/talk.rpy:171
 translate russian ayesha_talk_birthday_male_01a546a1:
@@ -27618,7 +27618,7 @@ translate russian ayesha_talk_birthday_male_9619bbae:
 
 # ch/ayesha/talk.rpy:210
 translate russian submissive_interact_ayesha_male_74e8d35d:
-    mike.say "Аиша..."
+    mike.say "Айша..."
 
 # ch/ayesha/talk.rpy:211
 translate russian submissive_interact_ayesha_male_49279255:
@@ -27626,11 +27626,11 @@ translate russian submissive_interact_ayesha_male_49279255:
 
 # ch/ayesha/talk.rpy:213
 translate russian submissive_interact_ayesha_male_4475a9e5:
-    ayesha.say "Это зависит от того, что это за \"что-нибудь\"!"
+    ayesha.say "Это зависит от того, что это за «что-нибудь»!"
 
 # ch/ayesha/talk.rpy:215
 translate russian submissive_interact_ayesha_male_395e9b57:
-    mike.say "Ну, раз мы вместе, я подумал, ты могла бы здороваться со мной определенным образом."
+    mike.say "Ну, раз мы вместе, я подумал, ты могла бы здороваться со мной определённым образом."
 
 # ch/ayesha/talk.rpy:216
 translate russian submissive_interact_ayesha_male_7e54d1e2:
@@ -27658,7 +27658,7 @@ translate russian submissive_interact_ayesha_male_462084be:
 
 # ch/ayesha/talk.rpy:228
 translate russian submissive_interact_ayesha_male_7aea7926:
-    mike.say "Ага, я понимаю, что ты имеешь в виду, Аиша."
+    mike.say "Ага, я понимаю, что ты имеешь в виду, Айша."
 
 # ch/ayesha/talk.rpy:229
 translate russian submissive_interact_ayesha_male_698b46a3:
@@ -27670,7 +27670,7 @@ translate russian ayesha_friendly_texts_c623c59f:
 
 # ch/ayesha/texts.rpy:8
 translate russian ayesha_friendly_texts_57b2708e:
-    ayesha_nvl "Потому что я только что выучила один очень крутой новый прием."
+    ayesha_nvl "Потому что я только что выучила один очень крутой новый приём."
 
 # ch/ayesha/texts.rpy:9
 translate russian ayesha_friendly_texts_b0b12cb1:
@@ -27754,7 +27754,7 @@ translate russian ayesha_flirty_texts_1db9c899:
 
 # ch/ayesha/texts.rpy:47
 translate russian ayesha_flirty_texts_2f564299:
-    ayesha_nvl "Ух… Я только что закончила тренировку на сегодня."
+    ayesha_nvl "Ух... Я только что закончила тренировку на сегодня."
 
 # ch/ayesha/texts.rpy:48
 translate russian ayesha_flirty_texts_09a22360:
@@ -27834,7 +27834,7 @@ translate russian ayesha_dirty_texts_0176ef06:
 
 # ch/ayesha/texts.rpy:81
 translate russian ayesha_dirty_texts_2af7892c:
-    ayesha_nvl "И... и потом займешься со мной любовью, когда закончишь?"
+    ayesha_nvl "И... и потом займёшься со мной любовью, когда закончишь?"
 
 # ch/ayesha/texts.rpy:82
 translate russian ayesha_dirty_texts_d990a267:
@@ -27858,7 +27858,7 @@ translate russian ayesha_dirty_texts_a641d4f0:
 
 # ch/ayesha/texts.rpy:88
 translate russian ayesha_dirty_texts_194c710c:
-    ayesha_nvl "И чтобы ты тоже \"искупался\" во мне!"
+    ayesha_nvl "И чтобы ты тоже «искупался» во мне!"
 
 # ch/ayesha/texts.rpy:97
 translate russian ayesha_friendly_texts_male_72bbc380:
@@ -27922,7 +27922,7 @@ translate russian ayesha_flirty_texts_male_4fa216cf:
 
 # ch/ayesha/texts.rpy:152
 translate russian ayesha_flirty_texts_male_c1962d99:
-    mchero_nvl "Твои глаза, твои губы, твое тело!"
+    mchero_nvl "Твои глаза, твои губы, твоё тело!"
 
 # ch/ayesha/texts.rpy:154
 translate russian ayesha_flirty_texts_male_2ff9113c:
@@ -27962,7 +27962,7 @@ translate russian ayesha_flirty_texts_male_fa25d8c5_1:
 
 # ch/ayesha/texts.rpy:179
 translate russian ayesha_flirty_texts_male_b139ef04:
-    mchero_nvl "В той, которая подчеркивает все твои мышцы?"
+    mchero_nvl "В той, которая подчёркивает все твои мышцы?"
 
 # ch/ayesha/texts.rpy:181
 translate russian ayesha_flirty_texts_male_512e0498:
@@ -28038,7 +28038,7 @@ translate russian ayesha_dirty_texts_male_3abe5b75:
 
 # ch/ayesha/texts.rpy:237
 translate russian ayesha_dirty_texts_male_8c66e635:
-    mchero_nvl "А твоя пизда...она такая мягкая и теплая!"
+    mchero_nvl "А твоя пизда...она такая мягкая и тёплая!"
 
 # ch/ayesha/texts.rpy:239
 translate russian ayesha_dirty_texts_male_0bf0aa08:
@@ -28170,7 +28170,7 @@ translate russian ayesha_dirty_texts_male_7e901351:
 
 # ch/ayesha/texts.rpy:317
 translate russian ayesha_dirty_texts_male_91bd191c:
-    ayesha_nvl "Но с тех пор, как я услышала тебя, самая влажная часть меня – это моя пизда!"
+    ayesha_nvl "Но с тех пор, как я услышала тебя, самая влажная часть меня — это моя пизда!"
 
 # ch/ayesha/texts.rpy:320
 translate russian ayesha_dirty_texts_male_ea39542e_2:

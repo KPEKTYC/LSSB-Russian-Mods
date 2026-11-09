@@ -4538,7 +4538,7 @@ translate russian camila_event_01_15f6f8b8:
 
 # ch/camila/events.rpy:701
 translate russian camila_event_01_bd37a6a1:
-    mike.say "Теперь я знаю, что волноваться не о чем."
+    mike.say "Теперь я знаю, что волноваться не о чём."
 
 # ch/camila/events.rpy:702
 translate russian camila_event_01_a28ec9d6:
@@ -10722,7 +10722,7 @@ translate russian camila_sub_event_03_c9f36a66:
 
 # ch/camila/events.rpy:2897
 translate russian camila_sub_event_03_95311b04:
-    "Где-то на краю сознания мелькает мысль: сегодня тревожиться не о чем. Она уже беременна, уже связана со мной так прочно, как только возможно."
+    "Где-то на краю сознания мелькает мысль: сегодня тревожиться не о чём. Она уже беременна, уже связана со мной так прочно, как только возможно."
 
 # ch/camila/events.rpy:2898
 translate russian camila_sub_event_03_5d0066b0:
@@ -18474,11 +18474,11 @@ translate russian camila_pregnant_request_b9516bb6:
 
 # ch/camila/events.rpy:6139
 translate russian camila_pregnant_request_e20bd59c:
-    camila.say "Всё не так, [lssb_camila.hero_name()]…"
+    camila.say "Всё не так, [lssb_camila.hero_name()]..."
 
 # ch/camila/events.rpy:6140
 translate russian camila_pregnant_request_0f7a27e1:
-    camila.say "Мне не в чем тебе признаваться или что-то в этом роде."
+    camila.say "Мне не в чём тебе признаваться или что-то в этом роде."
 
 # ch/camila/events.rpy:6142
 translate russian camila_pregnant_request_dbe4c897:
@@ -19150,7 +19150,7 @@ translate russian camila_collar_request_1864919b:
 
 # ch/camila/events.rpy:6374
 translate russian camila_collar_request_048b5e97:
-    camila.say "Ошейники, [lssb_camila.hero_name()]…"
+    camila.say "Ошейники, [lssb_camila.hero_name()]..."
 
 # ch/camila/events.rpy:6375
 translate russian camila_collar_request_38b87735:
@@ -19226,7 +19226,7 @@ translate russian camila_collar_request_0eb87595:
 
 # ch/camila/events.rpy:6399
 translate russian camila_collar_request_bf4ed755:
-    camila.say "Я тут перед тобой раскрываюсь, [lssb_camila.hero_name()]…"
+    camila.say "Я тут перед тобой раскрываюсь, [lssb_camila.hero_name()]..."
 
 # ch/camila/events.rpy:6400
 translate russian camila_collar_request_2fcb40a3:
@@ -19902,7 +19902,7 @@ translate russian camila_fuck_date_intro_male_c575411d:
 
 # ch/camila/fuck.rpy:220
 translate russian camila_fuck_date_intro_male_2be4b318:
-    "Но тревожиться не о чем: к аппетитам Камилы я уже привык!"
+    "Но тревожиться не о чём: к аппетитам Камилы я уже привык!"
 
 # ch/camila/fuck.rpy:221
 translate russian camila_fuck_date_intro_male_c91334d4:
@@ -25094,7 +25094,7 @@ translate russian camila_belly_caress_male_1775211c:
 
 # ch/camila/reactions.rpy:400
 translate russian camila_belly_caress_male_3576bcb9:
-    camila.say "Прости, [lssb_camila.hero_name()]…"
+    camila.say "Прости, [lssb_camila.hero_name()]..."
 
 # ch/camila/reactions.rpy:401
 translate russian camila_belly_caress_male_953e3e0d:
@@ -25110,7 +25110,7 @@ translate russian camila_belly_caress_male_19577f96:
 
 # ch/camila/reactions.rpy:408
 translate russian camila_belly_listen_male_d9341218:
-    camila.say "Эй, [lssb_camila.hero_name()]…"
+    camila.say "Эй, [lssb_camila.hero_name()]..."
 
 # ch/camila/reactions.rpy:409
 translate russian camila_belly_listen_male_9ee911d3:
@@ -25182,7 +25182,7 @@ translate russian camila_belly_listen_male_d04f9fe5:
 
 # ch/camila/reactions.rpy:432
 translate russian camila_belly_listen_male_b250903c:
-    camila.say "Господи, [lssb_camila.hero_name()]…"
+    camila.say "Господи, [lssb_camila.hero_name()]..."
 
 # ch/camila/reactions.rpy:433
 translate russian camila_belly_listen_male_d2a347ce:

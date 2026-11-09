@@ -6246,7 +6246,7 @@ translate russian camila_lexi_threesome_fuck_c99ca9ae:
 
 # ch/harems_full/criminal/events.rpy:2391
 translate russian camila_lexi_threesome_fuck_0ca37f2d:
-    "Мы не забыли о презервативе, так что беспокоиться не о чем."
+    "Мы не забыли о презервативе, так что беспокоиться не о чём."
 
 # ch/harems_full/criminal/events.rpy:2392
 translate russian camila_lexi_threesome_fuck_48519c94:
@@ -6574,7 +6574,7 @@ translate russian camila_lexi_threesome_fuck_8c720cc7_1:
 
 # ch/harems_full/criminal/events.rpy:2515
 translate russian camila_lexi_threesome_fuck_d67ab093:
-    "Я решил трахнуть Лекси в попку, так что беспокоиться не о чем."
+    "Я решил трахнуть Лекси в попку, так что беспокоиться не о чём."
 
 # ch/harems_full/criminal/events.rpy:2516
 translate russian camila_lexi_threesome_fuck_48519c94_1:

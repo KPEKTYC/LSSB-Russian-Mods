@@ -8442,7 +8442,7 @@ translate russian cassidy_investigation_good_ending_7c111f5a:
 
 # ch/cassidy/events.rpy:2468
 translate russian cassidy_investigation_good_ending_1c5f6feb:
-    dwayne.say "Но раз ты, вероятнее всего, невиновен, тебе не о чем беспокоиться, пока не вляпаешься в неприятности."
+    dwayne.say "Но раз ты, вероятнее всего, невиновен, тебе не о чём беспокоиться, пока не вляпаешься в неприятности."
 
 # ch/cassidy/events.rpy:2470
 translate russian cassidy_investigation_good_ending_1bf10c12:
@@ -8882,7 +8882,7 @@ translate russian cassidy_mike_fired_09f35d61:
 
 # ch/cassidy/events.rpy:2718
 translate russian cassidy_mike_fired_4c070184:
-    "Я киваю. Алетта провожает меня к выходу, но говорить нам особо не о чем."
+    "Я киваю. Алетта провожает меня к выходу, но говорить нам особо не о чём."
 
 # ch/cassidy/events.rpy:2723
 translate russian cassidy_mike_fired_9032f7a2:
@@ -17774,7 +17774,7 @@ translate russian cassidy_cowgirl_c351c8e9:
 
 # ch/cassidy/fuck.rpy:1210
 translate russian cassidy_cowgirl_a4f19eb6:
-    "Так что беспокоиться не о чем."
+    "Так что беспокоиться не о чём."
 
 # ch/cassidy/fuck.rpy:1212
 translate russian cassidy_cowgirl_c3eb12c4:
@@ -18458,7 +18458,7 @@ translate russian cassidy_reverse_cowgirl_567ce0bb_1:
 
 # ch/cassidy/fuck.rpy:1470
 translate russian cassidy_reverse_cowgirl_9aa58a60:
-    "Но мы заранее предохранились, так что мне не о чем беспокоиться."
+    "Но мы заранее предохранились, так что мне не о чём беспокоиться."
 
 # ch/cassidy/fuck.rpy:1471
 translate russian cassidy_reverse_cowgirl_cd8e7aaa_1:
@@ -19390,7 +19390,7 @@ translate russian cassidy_fuck_office_reverse_cowgirl_a3822af5:
 
 # ch/cassidy/fuck.rpy:2011
 translate russian cassidy_fuck_office_reverse_cowgirl_ad96c19a:
-    "Хотя беспокоиться мне не о чем."
+    "Хотя беспокоиться мне не о чём."
 
 # ch/cassidy/fuck.rpy:2012
 translate russian cassidy_fuck_office_reverse_cowgirl_f12ab1c7:
@@ -19638,7 +19638,7 @@ translate russian cassidy_fuck_office_reverse_cowgirl_a3822af5_1:
 
 # ch/cassidy/fuck.rpy:2102
 translate russian cassidy_fuck_office_reverse_cowgirl_6c202a9a:
-    "Впрочем, мы с презервативом, так что беспокоиться не о чем."
+    "Впрочем, мы с презервативом, так что беспокоиться не о чём."
 
 # ch/cassidy/fuck.rpy:2103
 translate russian cassidy_fuck_office_reverse_cowgirl_4c982582:

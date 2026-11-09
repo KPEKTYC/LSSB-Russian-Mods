@@ -16,10 +16,10 @@ translate russian cassidy_arrange_party_d3ec14f8:
     cassidy.say "Не твоё дело!"
 
 translate russian kylie_event_03_f0ec7bdf:
-    mike.say "Ох… Прости, Кайли, если я произвёл такое впечатление."
+    mike.say "Ох... Прости, Кайли, если я произвёл такое впечатление."
 
 translate russian kylie_event_03_c660401a:
-    mike.say "Д… д… да!"
+    mike.say "Д... д... да!"
 
 translate russian kylie_event_02_0786c70e:
     "Кайли заканчивает фразу, а я никак не могу понять, что об этом думать."
@@ -34,7 +34,7 @@ translate russian kylie_event_02_174e8045:
     "Вопрос только в том, что именно."
 
 translate russian kylie_event_02_82c4bc15:
-    mike.say "Ладно, Кайли…"
+    mike.say "Ладно, Кайли..."
 
 translate russian kylie_event_02_2dd45745:
     "Не хочу её обидеть, но то, в чём Кайли только что призналась, совершенно недопустимо."
@@ -52,7 +52,7 @@ translate russian kylie_event_02_8666ce4a:
     mike.say "Это вторжение в чужую личную жизнь. Так нельзя."
 
 translate russian kylie_event_02_97c707f9:
-    mike.say "И… мне неприятно знать, что ты так поступила со мной."
+    mike.say "И... мне неприятно знать, что ты так поступила со мной."
 
 translate russian kylie_event_02_4796cd55:
     "Часть меня понимает, насколько неправильно то, в чём она только что призналась, причём по многим причинам."
@@ -70,19 +70,19 @@ translate russian kylie_event_02_1ffbd3b8:
     "Ей нравится смотреть, как я изворачиваюсь?"
 
 translate russian kylie_event_02_316ec6e8:
-    mike.say "Ух… Прости, Кайли. Ты меня совсем запутала."
+    mike.say "Ух... Прости, Кайли. Ты меня совсем запутала."
 
 translate russian kylie_event_02_a8e9dbcc:
     kylie.say "Не переживай, [hero.name]. Мне даже льстит, что я тебя так смутила!"
 
 translate russian morgan_fuck_nightclub_2f06bd57:
-    morgan.say "Когда-то давно…"
+    morgan.say "Когда-то давно..."
 
 translate russian morgan_fuck_nightclub_c1c00a92:
-    morgan.say "Я слушала эту песню, когда…"
+    morgan.say "Я слушала эту песню, когда..."
 
 translate russian morgan_fuck_nightclub_495cdfa0:
-    morgan.say "Когда… думала о тебе!"
+    morgan.say "Когда... думала о тебе!"
 
 translate russian morgan_fuck_nightclub_45190f2e:
     "Когда Морган заканчивает, я отстраняюсь."
@@ -97,22 +97,22 @@ translate russian morgan_fuck_nightclub_f4cb650e:
     "Она нервно хихикает."
 
 translate russian morgan_fuck_nightclub_7b20ea25:
-    morgan.say "Я…"
+    morgan.say "Я..."
 
 translate russian morgan_fuck_nightclub_f8933b84:
     "Я вздыхаю и понимаю, что у меня слегка кружится голова."
 
 translate russian morgan_fuck_nightclub_5b3115ea:
-    morgan.say "Ты…"
+    morgan.say "Ты..."
 
 translate russian morgan_fuck_nightclub_f34ebe4c:
     morgan.say "Ты в порядке, [hero.name]?"
 
 translate russian morgan_fuck_nightclub_5494e88f:
-    mike.say "Да, Морган…"
+    mike.say "Да, Морган..."
 
 translate russian morgan_fuck_nightclub_58879229:
-    mike.say "Я просто…"
+    mike.say "Я просто..."
 
 translate russian morgan_fuck_nightclub_e43ae97e:
     "Морган удивлена моим признанием."
@@ -121,7 +121,7 @@ translate russian morgan_fuck_nightclub_55ad220e:
     "Отказаться было бы просто невежливо!"
 
 translate russian morgan_fuck_date_cunnilingus_5b0144b9:
-    morgan.say "Это было…"
+    morgan.say "Это было..."
 
 translate russian morgan_fuck_date_cunnilingus_f3b5635b:
     "Постой-ка!"

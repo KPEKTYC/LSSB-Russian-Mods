@@ -2930,7 +2930,7 @@ translate russian meeting_cassidy_cherie_02_male_e83ebba7:
 
 # bg/ceo/ceo.rpy:1792
 translate russian meeting_cassidy_cherie_02_male_760d9a19:
-    cherie.say "Меня это очень тревожит, мон ами…"
+    cherie.say "Меня это очень тревожит, мон ами..."
 
 # bg/ceo/ceo.rpy:1794
 translate russian meeting_cassidy_cherie_02_male_bb42f35a:
@@ -2954,7 +2954,7 @@ translate russian meeting_cassidy_cherie_02_male_6881747b:
 
 # bg/ceo/ceo.rpy:1806
 translate russian meeting_cassidy_cherie_02_male_4a4e056a:
-    cherie.say "С удовольствием, мон ами…"
+    cherie.say "С удовольствием, мон ами..."
 
 # bg/ceo/ceo.rpy:1807
 translate russian meeting_cassidy_cherie_02_male_ee2f408f:
@@ -3458,7 +3458,7 @@ translate russian meeting_cherie_02_male_1b2b9726:
 
 # bg/ceo/ceo.rpy:2091
 translate russian meeting_cherie_02_male_0da27b67:
-    cherie.say "Хорошо. Но если выяснится, что тревожиться не о чем, вы сами позвоните Элен и будете с ней очаровательны."
+    cherie.say "Хорошо. Но если выяснится, что тревожиться не о чём, вы сами позвоните Элен и будете с ней очаровательны."
 
 # bg/ceo/ceo.rpy:2093
 translate russian meeting_cherie_02_male_11b46f3c:
@@ -3662,7 +3662,7 @@ translate russian meeting_cherie_03_male_2e71adc1:
 
 # bg/ceo/ceo.rpy:2204
 translate russian meeting_cherie_03_male_229cae33:
-    cherie.say "Она не согласится, мон ами…"
+    cherie.say "Она не согласится, мон ами..."
 
 # bg/ceo/ceo.rpy:2205
 translate russian meeting_cherie_03_male_467952b9:
@@ -3710,7 +3710,7 @@ translate russian meeting_cherie_03_male_af2f98d4:
 
 # bg/ceo/ceo.rpy:2228
 translate russian meeting_cherie_03_male_e29ec655:
-    cherie.say "Спасибо, {i}мон ами{/i}…"
+    cherie.say "Спасибо, {i}мон ами{/i}..."
 
 # bg/ceo/ceo.rpy:2229
 translate russian meeting_cherie_03_male_55aef606:

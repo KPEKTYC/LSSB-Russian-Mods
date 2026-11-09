@@ -50,7 +50,7 @@ translate russian audrey_bye_d63c2b1b:
 
 # ch/audrey/base.rpy:58
 translate russian audrey_cheated_d917439e:
-    "Я вижу, как Одри смотрит на меня [action], и в ее глазах я замечаю зависть и похоть."
+    "Я вижу, как Одри смотрит на меня [action], и в её глазах я замечаю зависть и похоть."
 
 # ch/audrey/base.rpy:70
 translate russian audrey_greet_b43fd856:
@@ -186,7 +186,7 @@ translate russian audrey_greet_f8a3b706:
 
 # ch/audrey/base.rpy:150
 translate russian audrey_greet_24b41a0d:
-    audrey.say "Поиграй со мной еще немного."
+    audrey.say "Поиграй со мной ещё немного."
 
 # ch/audrey/base.rpy:158
 translate russian audrey_greet_dialogues_male_57580fda:
@@ -242,7 +242,7 @@ translate russian audrey_kiss_0aada717:
 
 # ch/audrey/base.rpy:192
 translate russian audrey_kiss_2c0683f7:
-    "Одри только что поставила меня в такую ситуацию, заставив задуматься о том, как я мог вызвать у нее такую реакцию, особенно учитывая ее поведение по отношению ко мне."
+    "Одри только что поставила меня в такую ситуацию, заставив задуматься о том, как я мог вызвать у неё такую реакцию, особенно учитывая её поведение по отношению ко мне."
 
 # ch/audrey/base.rpy:193
 translate russian audrey_kiss_e24b4f78:
@@ -250,7 +250,7 @@ translate russian audrey_kiss_e24b4f78:
 
 # ch/audrey/base.rpy:194
 translate russian audrey_kiss_fe8070b8:
-    "Обычно я бы постарался либо игнорировать ее флирт, либо сделать ей замечание за какое-нибудь другое, выдуманное нарушение."
+    "Обычно я бы постарался либо игнорировать её флирт, либо сделать ей замечание за какое-нибудь другое, выдуманное нарушение."
 
 # ch/audrey/base.rpy:195
 translate russian audrey_kiss_36af0712:
@@ -262,7 +262,7 @@ translate russian audrey_kiss_769aad4d:
 
 # ch/audrey/base.rpy:197
 translate russian audrey_kiss_3a16f672:
-    "В моей голове была только одна мысль: поцеловать ее быстро, возможно, просто слегка коснуться губ."
+    "В моей голове была только одна мысль: поцеловать её быстро, возможно, просто слегка коснуться губ."
 
 # ch/audrey/base.rpy:198
 translate russian audrey_kiss_e1188c09:
@@ -278,11 +278,11 @@ translate russian audrey_kiss_6b726d07:
 
 # ch/audrey/base.rpy:201
 translate russian audrey_kiss_c346bf61:
-    "Все это оставляет меня еще более растерянным, чем я был в начале."
+    "Все это оставляет меня ещё более растерянным, чем я был в начале."
 
 # ch/audrey/base.rpy:202
 translate russian audrey_kiss_b6f2fefa:
-    "Я всегда думал, что цель флирта Одри – заманить меня в свою ловушку."
+    "Я всегда думал, что цель флирта Одри — заманить меня в свою ловушку."
 
 # ch/audrey/base.rpy:203
 translate russian audrey_kiss_e0ecf91b:
@@ -290,7 +290,7 @@ translate russian audrey_kiss_e0ecf91b:
 
 # ch/audrey/base.rpy:204
 translate russian audrey_kiss_511bf217:
-    "Или она просто переходит от одного крайности к другой, чтобы еще больше сбить меня с толку?"
+    "Или она просто переходит от одного крайности к другой, чтобы ещё больше сбить меня с толку?"
 
 # ch/audrey/base.rpy:213
 translate russian audrey_kiss_2806c119:
@@ -310,27 +310,27 @@ translate russian audrey_kiss_01814687:
 
 # ch/audrey/base.rpy:217
 translate russian audrey_kiss_d484143f:
-    "Но даже несмотря на то, что это двадцать первый век, я все равно чувствовал бы себя идиотом, если бы пожаловался в отдел кадров."
+    "Но даже несмотря на то, что это двадцать первый век, я всё равно чувствовал бы себя идиотом, если бы пожаловался в отдел кадров."
 
 # ch/audrey/base.rpy:218
 translate russian audrey_kiss_a3ea824c:
-    "наверное, поэтому однажды я просто думаю: \"черт с этим\"."
+    "наверное, поэтому однажды я просто думаю: «чёрт с этим»."
 
 # ch/audrey/base.rpy:219
 translate russian audrey_kiss_2400736d:
-    "И вместо того чтобы отворачиваться от нее, когда она произносит свои обычные манипулятивные фразы и завуалированные угрозы, я решаю проверить ее на прочность."
+    "И вместо того чтобы отворачиваться от неё, когда она произносит свои обычные манипулятивные фразы и завуалированные угрозы, я решаю проверить её на прочность."
 
 # ch/audrey/base.rpy:220
 translate russian audrey_kiss_a7438281:
-    "Когда Одри наклоняется вперед, чтобы использовать очередной из своих манипулятивных приемов, я просто повторяю ее движение и крепко прижимаюсь своими губами к ее губам."
+    "Когда Одри наклоняется вперёд, чтобы использовать очередной из своих манипулятивных приёмов, я просто повторяю её движение и крепко прижимаюсь своими губами к её губам."
 
 # ch/audrey/base.rpy:221
 translate russian audrey_kiss_6df63cc0:
-    "Мгновенно я вижу, как расширяются ее глаза, и они почти наполняются шоком."
+    "Мгновенно я вижу, как расширяются её глаза, и они почти наполняются шоком."
 
 # ch/audrey/base.rpy:222
 translate russian audrey_kiss_babda3ef:
-    "Фактически, она кажется настолько удивленной, что проходит почти целая минута, прежде чем я чувствую, как она начинает расслабляться и отвечает на поцелуй."
+    "Фактически, она кажется настолько удивлённой, что проходит почти целая минута, прежде чем я чувствую, как она начинает расслабляться и отвечает на поцелуй."
 
 # ch/audrey/base.rpy:223
 translate russian audrey_kiss_df10822f:
@@ -354,15 +354,15 @@ translate russian audrey_kiss_1d58bb4f:
 
 # ch/audrey/base.rpy:236
 translate russian audrey_kiss_a2a8ad19:
-    "Но теперь я более чем охотно участвую в этом, и я действительно жду, чтобы узнать, какие шалости она приготовила для меня, когда увижу ее в следующий раз."
+    "Но теперь я более чем охотно участвую в этом, и я действительно жду, чтобы узнать, какие шалости она приготовила для меня, когда увижу её в следующий раз."
 
 # ch/audrey/base.rpy:237
 translate russian audrey_kiss_24a015cc:
-    "Если раньше я бы съеживался или, по крайней мере, пытался перекричать ее, то теперь я не могу дождаться возможности схватить Одри и притянуть ее к себе для страстного поцелуя, как только представится такая возможность."
+    "Если раньше я бы съеживался или, по крайней мере, пытался перекричать её, то теперь я не могу дождаться возможности схватить Одри и притянуть её к себе для страстного поцелуя, как только представится такая возможность."
 
 # ch/audrey/base.rpy:238
 translate russian audrey_kiss_d327357b:
-    "Вся злость и острота, которые раньше проявлялись в ее попытках соблазнить меня, теперь могут быть направлены на то, чтобы сделать наши украденные моменты вместе чем-то незабываемым."
+    "Вся злость и острота, которые раньше проявлялись в её попытках соблазнить меня, теперь могут быть направлены на то, чтобы сделать наши украденные моменты вместе чем-то незабываемым."
 
 # ch/audrey/base.rpy:239
 translate russian audrey_kiss_d7ef7cc3:
@@ -386,15 +386,15 @@ translate russian audrey_propose_male_b138e571:
 
 # ch/audrey/base.rpy:250
 translate russian audrey_propose_male_64bb9218:
-    "Она – тот тип девушки, о которой я никогда не представлял, что буду пытаться сделать ей предложение руки и сердца таким образом."
+    "Она — тот тип девушки, о которой я никогда не представлял, что буду пытаться сделать ей предложение руки и сердца таким образом."
 
 # ch/audrey/base.rpy:251
 translate russian audrey_propose_male_f4b82d2d:
-    "Черт возьми, когда я впервые встретил ее, я даже не мог представить, что сделаю ей предложение вообще."
+    "Чёрт возьми, когда я впервые встретил её, я даже не мог представить, что сделаю ей предложение вообще."
 
 # ch/audrey/base.rpy:252
 translate russian audrey_propose_male_bff11789:
-    "На самом деле, мне было бы легче поверить, что я заставлю ее упасть в шахту лифта!"
+    "На самом деле, мне было бы легче поверить, что я заставлю её упасть в шахту лифта!"
 
 # ch/audrey/base.rpy:253
 translate russian audrey_propose_male_f0b2c0df:
@@ -406,19 +406,19 @@ translate russian audrey_propose_male_ff393d38:
 
 # ch/audrey/base.rpy:255
 translate russian audrey_propose_male_268732c8:
-    "Не только у меня появились чувства к Одри, но я и влюбился в нее!"
+    "Не только у меня появились чувства к Одри, но я и влюбился в неё!"
 
 # ch/audrey/base.rpy:256
 translate russian audrey_propose_male_c2de7f67:
-    "Думаю, это помогает, что мне наконец-то удалось понять ее на базовом уровне."
+    "Думаю, это помогает, что мне наконец-то удалось понять её на базовом уровне."
 
 # ch/audrey/base.rpy:257
 translate russian audrey_propose_male_1681b8cb:
-    "Знаете, узнать, что ее подколки – это на самом деле форма проявления нежности?"
+    "Знаете, узнать, что её подколки — это на самом деле форма проявления нежности?"
 
 # ch/audrey/base.rpy:258
 translate russian audrey_propose_male_0116852f:
-    "После этого ни одна из ее маленьких странностей больше не казалась такой уж важной."
+    "После этого ни одна из её маленьких странностей больше не казалась такой уж важной."
 
 # ch/audrey/base.rpy:259
 translate russian audrey_propose_male_a0f27a00:
@@ -438,7 +438,7 @@ translate russian audrey_propose_male_2ac7dd92:
 
 # ch/audrey/base.rpy:265
 translate russian audrey_propose_male_6e2c40cc:
-    mike.say "Есть кое-что, о чем я хотел тебя спросить..."
+    mike.say "Есть кое-что, о чём я хотел тебя спросить..."
 
 # ch/audrey/base.rpy:267
 translate russian audrey_propose_male_0c16cb1f:
@@ -450,7 +450,7 @@ translate russian audrey_propose_male_16d5acd7:
 
 # ch/audrey/base.rpy:269
 translate russian audrey_propose_male_9412f271:
-    "Одри удивленно оглядывается."
+    "Одри удивлённо оглядывается."
 
 # ch/audrey/base.rpy:270
 translate russian audrey_propose_male_bf9b46b1:
@@ -470,7 +470,7 @@ translate russian audrey_propose_male_91db7314:
 
 # ch/audrey/base.rpy:277
 translate russian audrey_propose_male_11f9284c:
-    audrey.say "Черт, ты действительно!"
+    audrey.say "Чёрт, ты действительно!"
 
 # ch/audrey/base.rpy:278
 translate russian audrey_propose_male_ac7a6c24:
@@ -490,7 +490,7 @@ translate russian audrey_propose_male_8069cfae:
 
 # ch/audrey/base.rpy:284
 translate russian audrey_propose_male_ef1bc521:
-    "Я делаю глубокий вдох и задерживаю его, ожидая ее ответа."
+    "Я делаю глубокий вдох и задерживаю его, ожидая её ответа."
 
 # ch/audrey/base.rpy:286
 translate russian audrey_propose_male_8a0f1107:
@@ -542,7 +542,7 @@ translate russian audrey_propose_male_5cdd276d:
 
 # ch/audrey/base.rpy:301
 translate russian audrey_propose_male_73cfe347:
-    audrey.say "Убери эту штуку и вставай – ты меня позоришь."
+    audrey.say "Убери эту штуку и вставай — ты меня позоришь."
 
 # ch/audrey/base.rpy:302
 translate russian audrey_propose_male_20d7df49:
@@ -582,7 +582,7 @@ translate russian audrey_propose_male_bec5df3a:
 
 # ch/audrey/base.rpy:315
 translate russian audrey_propose_male_a77fa499:
-    "Я улыбаюсь ей и надеваю кольцо на ее палец."
+    "Я улыбаюсь ей и надеваю кольцо на её палец."
 
 # ch/audrey/base.rpy:317
 translate russian audrey_propose_male_a2a93d75:
@@ -630,7 +630,7 @@ translate russian audrey_propose_male_6486026d:
 
 # ch/audrey/base.rpy:330
 translate russian audrey_propose_male_06444111:
-    "Что заставляет меня задуматься, серьезно ли она или нет!"
+    "Что заставляет меня задуматься, серьёзно ли она или нет!"
 
 # ch/audrey/base.rpy:353
 translate russian audrey_ask_date_audrey_sasha_4e718a2a:
@@ -642,7 +642,7 @@ translate russian audrey_ask_date_audrey_sasha_3e83bbb2:
 
 # ch/audrey/base.rpy:367
 translate russian audrey_ask_date_audrey_palla_50cad4e4:
-    mike.say "А как насчет того, чтобы пойти куда-нибудь с Паллой и повеселиться?"
+    mike.say "А как насчёт того, чтобы пойти куда-нибудь с Паллой и повеселиться?"
 
 # ch/audrey/base.rpy:369
 translate russian audrey_ask_date_audrey_palla_1f990fe9:
@@ -718,7 +718,7 @@ translate russian audrey_desire_1_male_0366da05:
 
 # ch/audrey/chat.rpy:19
 translate russian audrey_desire_1_male_018a3244:
-    audrey.say "Будь честен со мной – что ты думаешь о моей заднице?"
+    audrey.say "Будь честен со мной — что ты думаешь о моей заднице?"
 
 # ch/audrey/chat.rpy:21
 translate russian audrey_desire_1_male_a2526d07:
@@ -766,7 +766,7 @@ translate russian audrey_desire_3_male_56d5013f:
 
 # ch/audrey/chat.rpy:50
 translate russian audrey_desire_4_male_1a2161bc:
-    audrey.say "Подзатыльник – это как хлопок одними руками в знак восхищения великолепной задницей."
+    audrey.say "Подзатыльник — это как хлопок одними руками в знак восхищения великолепной задницей."
 
 # ch/audrey/chat.rpy:52
 translate russian audrey_desire_4_male_e604aaf0:
@@ -814,11 +814,11 @@ translate russian audrey_desire_5_male_bb687298:
 
 # ch/audrey/chat.rpy:70
 translate russian audrey_desire_5_male_aa6cf7c5:
-    audrey.say "Когда ты не можешь отказать ни в одной просьбе, когда иногда даже не можешь пошевелиться – тогда эти голоса наконец-то замолкают."
+    audrey.say "Когда ты не можешь отказать ни в одной просьбе, когда иногда даже не можешь пошевелиться — тогда эти голоса наконец-то замолкают."
 
 # ch/audrey/chat.rpy:71
 translate russian audrey_desire_5_male_2e1ba32d:
-    audrey.say "Все, что ты можешь делать, все, что тебе позволено делать, это просто чувствовать."
+    audrey.say "Всё, что ты можешь делать, всё, что тебе позволено делать, это просто чувствовать."
 
 # ch/audrey/chat.rpy:73
 translate russian audrey_desire_5_male_70171263:
@@ -830,7 +830,7 @@ translate russian audrey_desire_5_male_929f0087:
 
 # ch/audrey/chat.rpy:75
 translate russian audrey_desire_5_male_9b45eb49:
-    "Сейчас она смотрит на меня, ее темные глаза похожи на море в безлунную ночь."
+    "Сейчас она смотрит на меня, её тёмные глаза похожи на море в безлунную ночь."
 
 # ch/audrey/chat.rpy:76
 translate russian audrey_desire_5_male_39cf2c96:
@@ -838,15 +838,15 @@ translate russian audrey_desire_5_male_39cf2c96:
 
 # ch/audrey/chat.rpy:77
 translate russian audrey_desire_5_male_9ca7b837:
-    mike.say "Ты была бы моей пленницей, полностью в моей власти…"
+    mike.say "Ты была бы моей пленницей, полностью в моей власти..."
 
 # ch/audrey/chat.rpy:78
 translate russian audrey_desire_5_male_5276b668:
-    mike.say "Я был бы твоим Одиссеем, а ты – моей Цирцеей…"
+    mike.say "Я был бы твоим Одиссеем, а ты — моей Цирцеей..."
 
 # ch/audrey/chat.rpy:79
 translate russian audrey_desire_5_male_5fd7bd66:
-    "Она смеется и протягивает мне руку."
+    "Она смеётся и протягивает мне руку."
 
 # ch/audrey/chat.rpy:80
 translate russian audrey_desire_5_male_a540401a:
@@ -854,7 +854,7 @@ translate russian audrey_desire_5_male_a540401a:
 
 # ch/audrey/chat.rpy:87
 translate russian audrey_love_0_male_8dc79251:
-    audrey.say "Черт побери – Алетта такая стерва…"
+    audrey.say "Чёрт побери — Алетта такая стерва..."
 
 # ch/audrey/chat.rpy:90
 translate russian audrey_love_0_male_fb71c0bc:
@@ -902,11 +902,11 @@ translate russian audrey_love_1_male_e487a840:
 
 # ch/audrey/chat.rpy:116
 translate russian audrey_love_2_male_3cdc8359:
-    mike.say "Эй, малышка – когда у тебя день рождения?"
+    mike.say "Эй, малышка — когда у тебя день рождения?"
 
 # ch/audrey/chat.rpy:118
 translate russian audrey_love_2_male_ea1e85cf:
-    mike.say "Эй, Одри – скажи, когда у тебя день рождения?"
+    mike.say "Эй, Одри — скажи, когда у тебя день рождения?"
 
 # ch/audrey/chat.rpy:119
 translate russian audrey_love_2_male_838e563a:
@@ -918,7 +918,7 @@ translate russian audrey_love_2_male_5c8dc818:
 
 # ch/audrey/chat.rpy:121
 translate russian audrey_love_2_male_7afe60e0:
-    mike.say "Возможно… просто подожди и увидишь…"
+    mike.say "Возможно... просто подожди и увидишь..."
 
 # ch/audrey/chat.rpy:124
 translate russian audrey_love_2_male_aa779f7b:
@@ -934,7 +934,7 @@ translate russian audrey_love_2_male_38ef6b66:
 
 # ch/audrey/chat.rpy:131
 translate russian audrey_love_3_male_ac6c2ae6:
-    audrey.say "Я действительно ненавижу эту работу – без тебя она была бы невыносимой."
+    audrey.say "Я действительно ненавижу эту работу — без тебя она была бы невыносимой."
 
 # ch/audrey/chat.rpy:137
 translate russian audrey_love_4_male_c8a61d19:
@@ -950,7 +950,7 @@ translate russian audrey_good_sweet_talk_male_be9a68dc:
 
 # ch/audrey/chat.rpy:150
 translate russian audrey_good_sweet_talk_male_8c141d89:
-    mike.say "Ты прекрасно выглядишь, и ты еще очень хороша в постели!"
+    mike.say "Ты прекрасно выглядишь, и ты ещё очень хороша в постели!"
 
 # ch/audrey/chat.rpy:151
 translate russian audrey_good_sweet_talk_male_731c1e6a:
@@ -1142,7 +1142,7 @@ translate russian audrey_use_condom_cb030e41:
 
 # ch/audrey/condom.rpy:43
 translate russian audrey_use_condom_cf8152c8:
-    "Глаза Одри уже начинают светиться от предвкушения, пока она ждет, что будет дальше."
+    "Глаза Одри уже начинают светиться от предвкушения, пока она ждёт, что будет дальше."
 
 # ch/audrey/condom.rpy:44
 translate russian audrey_use_condom_ea3144fe:
@@ -1170,7 +1170,7 @@ translate russian audrey_use_condom_bff9135f:
 
 # ch/audrey/condom.rpy:50
 translate russian audrey_use_condom_0b7b91bb:
-    mike.say "Просто поверь мне, это займет всего секунду."
+    mike.say "Просто поверь мне, это займёт всего секунду."
 
 # ch/audrey/condom.rpy:51
 translate russian audrey_use_condom_a96c0d51:
@@ -1178,7 +1178,7 @@ translate russian audrey_use_condom_a96c0d51:
 
 # ch/audrey/condom.rpy:52
 translate russian audrey_use_condom_72465336:
-    "И когда я поворачиваюсь обратно, она отчетливо видит тот презерватив, который я держу в руке."
+    "И когда я поворачиваюсь обратно, она отчётливо видит тот презерватив, который я держу в руке."
 
 # ch/audrey/condom.rpy:53
 translate russian audrey_use_condom_fad5df26:
@@ -1198,11 +1198,11 @@ translate russian audrey_use_condom_dbce9f79:
 
 # ch/audrey/condom.rpy:57
 translate russian audrey_use_condom_3d763866:
-    "Вместе мы открываем упаковку и надеваем ее так быстро, как только можем."
+    "Вместе мы открываем упаковку и надеваем её так быстро, как только можем."
 
 # ch/audrey/condom.rpy:58
 translate russian audrey_use_condom_71e0a6fd:
-    "Тогда мы будем готовы начать всерьез."
+    "Тогда мы будем готовы начать всерьёз."
 
 # ch/audrey/condom.rpy:60
 translate russian audrey_use_condom_21f52097:
@@ -1218,7 +1218,7 @@ translate russian audrey_use_condom_c7b117db:
 
 # ch/audrey/condom.rpy:63
 translate russian audrey_use_condom_e7bcea93:
-    "Затем она откидывается назад и ждет, пока я надеваю его."
+    "Затем она откидывается назад и ждёт, пока я надеваю его."
 
 # ch/audrey/condom.rpy:65
 translate russian audrey_use_condom_e584899a:
@@ -1226,7 +1226,7 @@ translate russian audrey_use_condom_e584899a:
 
 # ch/audrey/condom.rpy:66
 translate russian audrey_use_condom_48ae95f1:
-    "Но это все равно не повод не предпринять необходимые меры предосторожности."
+    "Но это всё равно не повод не предпринять необходимые меры предосторожности."
 
 # ch/audrey/condom.rpy:67
 translate russian audrey_use_condom_17f2a614:
@@ -1246,7 +1246,7 @@ translate russian audrey_use_condom_fef3001b:
 
 # ch/audrey/condom.rpy:72
 translate russian audrey_use_condom_5c296f2e:
-    "Одри выглядит раздраженной из-за задержки, но все равно кивает."
+    "Одри выглядит раздражённой из-за задержки, но всё равно кивает."
 
 # ch/audrey/condom.rpy:73
 translate russian audrey_use_condom_efe0f8dc:
@@ -1266,7 +1266,7 @@ translate russian audrey_use_condom_0739ec1e:
 
 # ch/audrey/condom.rpy:78
 translate russian audrey_use_condom_759f03ae:
-    audrey.say "Черт побери!"
+    audrey.say "Чёрт побери!"
 
 # ch/audrey/condom.rpy:79
 translate russian audrey_use_condom_73686646:
@@ -1290,7 +1290,7 @@ translate russian audrey_use_condom_65d2b054:
 
 # ch/audrey/condom.rpy:84
 translate russian audrey_use_condom_849f1448:
-    "Затем она аккуратно расправляет его на моем члене."
+    "Затем она аккуратно расправляет его на моём члене."
 
 # ch/audrey/condom.rpy:85
 translate russian audrey_use_condom_40204364:
@@ -1298,7 +1298,7 @@ translate russian audrey_use_condom_40204364:
 
 # ch/audrey/condom.rpy:87
 translate russian audrey_use_condom_fca66c84:
-    "Но есть одна вещь, которую я всегда делаю – я стараюсь быть осторожным."
+    "Но есть одна вещь, которую я всегда делаю — я стараюсь быть осторожным."
 
 # ch/audrey/condom.rpy:88
 translate russian audrey_use_condom_c0b75d3b:
@@ -1306,11 +1306,11 @@ translate russian audrey_use_condom_c0b75d3b:
 
 # ch/audrey/condom.rpy:89
 translate russian audrey_use_condom_6c241d4b:
-    "Конечно же, она сразу выглядит немного раздраженной."
+    "Конечно же, она сразу выглядит немного раздражённой."
 
 # ch/audrey/condom.rpy:90
 translate russian audrey_use_condom_8d42f0f4:
-    "Но затем она видит, как я размахиваю презервативом перед ее лицом."
+    "Но затем она видит, как я размахиваю презервативом перед её лицом."
 
 # ch/audrey/condom.rpy:91
 translate russian audrey_use_condom_a48ef870:
@@ -1354,11 +1354,11 @@ translate russian audrey_intro_condom_6e738b61:
 
 # ch/audrey/condom.rpy:112
 translate russian audrey_intro_condom_74c30d86:
-    "Я резко двигаюсь вперед, с большей силой, чем она могла предположить."
+    "Я резко двигаюсь вперёд, с большей силой, чем она могла предположить."
 
 # ch/audrey/condom.rpy:113
 translate russian audrey_intro_condom_a869c0c0:
-    "Я признаю, что это сделано для того, чтобы заставить ее задуматься о другом."
+    "Я признаю, что это сделано для того, чтобы заставить её задуматься о другом."
 
 # ch/audrey/condom.rpy:114
 translate russian audrey_intro_condom_6efae879:
@@ -1374,11 +1374,11 @@ translate russian audrey_intro_condom_4f2f6742:
 
 # ch/audrey/condom.rpy:119
 translate russian audrey_intro_condom_091c4288:
-    "И, судя по ее лицу, у Одри тоже."
+    "И, судя по её лицу, у Одри тоже."
 
 # ch/audrey/condom.rpy:120
 translate russian audrey_intro_condom_d41849aa:
-    "Поэтому я сосредотачиваю свое внимание на том, что находится между ее ногами."
+    "Поэтому я сосредотачиваю своё внимание на том, что находится между её ногами."
 
 # ch/audrey/condom.rpy:121
 translate russian audrey_intro_condom_e9f876ca:
@@ -1386,7 +1386,7 @@ translate russian audrey_intro_condom_e9f876ca:
 
 # ch/audrey/condom.rpy:123
 translate russian audrey_intro_condom_94d914cf:
-    "Я чувствую, как Одри медленно двигается вперед, подталкивая свою влагалище к моему члену."
+    "Я чувствую, как Одри медленно двигается вперёд, подталкивая свою влагалище к моему члену."
 
 # ch/audrey/condom.rpy:124
 translate russian audrey_intro_condom_b3ad2d4e:
@@ -1478,11 +1478,11 @@ translate russian audrey_warn_condom_cdcc64ca:
 
 # ch/audrey/condom.rpy:160
 translate russian audrey_warn_condom_5a086b0a:
-    "Я замираю на месте, понимая, что Одри говорит серьезно."
+    "Я замираю на месте, понимая, что Одри говорит серьёзно."
 
 # ch/audrey/condom.rpy:161
 translate russian audrey_warn_condom_8bdd8c5d:
-    "Она не пойдет дальше, пока кто-нибудь не достанет... ну, вы поняли."
+    "Она не пойдёт дальше, пока кто-нибудь не достанет... ну, вы поняли."
 
 # ch/audrey/condom.rpy:163
 translate russian audrey_warn_condom_43622849:
@@ -1626,11 +1626,11 @@ translate russian audrey_force_condom_0e522808:
 
 # ch/audrey/condom.rpy:217
 translate russian audrey_force_condom_085bcafa:
-    "Прежде чем я успеваю отреагировать на ее приглашение, Одри ускользает от меня."
+    "Прежде чем я успеваю отреагировать на её приглашение, Одри ускользает от меня."
 
 # ch/audrey/condom.rpy:218
 translate russian audrey_force_condom_aa2fdc4b:
-    "Когда мое лицо искажается в раздраженном выражении, она поднимает презерватив, объясняя этим свой поступок."
+    "Когда моё лицо искажается в раздраженном выражении, она поднимает презерватив, объясняя этим свой поступок."
 
 # ch/audrey/condom.rpy:219
 translate russian audrey_force_condom_f2dbb151:
@@ -1638,7 +1638,7 @@ translate russian audrey_force_condom_f2dbb151:
 
 # ch/audrey/condom.rpy:220
 translate russian audrey_force_condom_bf1e8ea0:
-    "Я беру презерватив, а она ложится обратно и ждет, пока я надеваю его."
+    "Я беру презерватив, а она ложится обратно и ждёт, пока я надеваю его."
 
 # ch/audrey/condom.rpy:222
 translate russian audrey_force_condom_dcfc427f:
@@ -1682,7 +1682,7 @@ translate russian audrey_force_condom_8a27ef0b:
 
 # ch/audrey/condom.rpy:234
 translate russian audrey_force_condom_f679613d:
-    "Я быстро киваю, хватаю его у нее и открываю упаковку."
+    "Я быстро киваю, хватаю его у неё и открываю упаковку."
 
 # ch/audrey/condom.rpy:235
 translate russian audrey_force_condom_11cdb920:
@@ -1742,7 +1742,7 @@ translate russian audrey_force_condom_65d2b054:
 
 # ch/audrey/condom.rpy:251
 translate russian audrey_force_condom_849f1448:
-    "Затем она аккуратно расправляет его на моем члене."
+    "Затем она аккуратно расправляет его на моём члене."
 
 # ch/audrey/condom.rpy:252
 translate russian audrey_force_condom_40204364:
@@ -1870,7 +1870,7 @@ translate russian audrey_mad_condom_39b42a83:
 
 # ch/audrey/condom.rpy:294
 translate russian audrey_mad_condom_75327694:
-    "И как только мне удается надеть достаточно одежды, чтобы выглядеть прилично, я ухожу из ее квартиры."
+    "И как только мне удаётся надеть достаточно одежды, чтобы выглядеть прилично, я ухожу из её квартиры."
 
 # ch/audrey/condom.rpy:296
 translate russian audrey_mad_condom_fc652728:
@@ -1890,11 +1890,11 @@ translate russian audrey_mad_condom_e3e5bf80:
 
 # ch/audrey/condom.rpy:300
 translate russian audrey_mad_condom_861f0b16:
-    "Одри скрещивает руки на груди, на ее лице выражение возмущения."
+    "Одри скрещивает руки на груди, на её лице выражение возмущения."
 
 # ch/audrey/condom.rpy:301
 translate russian audrey_mad_condom_7cb05083:
-    audrey.say "Что ты думал – что я позволю тебе заставить меня забеременеть?"
+    audrey.say "Что ты думал — что я позволю тебе заставить меня забеременеть?"
 
 # ch/audrey/condom.rpy:302
 translate russian audrey_mad_condom_3a07fe5b:
@@ -1958,7 +1958,7 @@ translate russian audrey_mad_condom_90bacd76:
 
 # ch/audrey/condom.rpy:323
 translate russian audrey_mad_condom_03d92c71:
-    "И все, что я могу делать, это смотреть, как она собирается уйти."
+    "И всё, что я могу делать, это смотреть, как она собирается уйти."
 
 # ch/audrey/condom.rpy:324
 translate russian audrey_mad_condom_c1c83000:
@@ -1966,11 +1966,11 @@ translate russian audrey_mad_condom_c1c83000:
 
 # ch/audrey/condom.rpy:327
 translate russian audrey_mad_condom_d856f23d:
-    mike.say "Серьезно, Тои?"
+    mike.say "Серьёзно, Тои?"
 
 # ch/audrey/condom.rpy:329
 translate russian audrey_mad_condom_117bf027:
-    mike.say "Серьезно, Одри?"
+    mike.say "Серьёзно, Одри?"
 
 # ch/audrey/condom.rpy:330
 translate russian audrey_mad_condom_7d2cbf5f:
@@ -1982,7 +1982,7 @@ translate russian audrey_mad_condom_81ffa372:
 
 # ch/audrey/condom.rpy:332
 translate russian audrey_mad_condom_c718115f:
-    audrey.say "Что это, черт возьми, должно значить?"
+    audrey.say "Что это, чёрт возьми, должно значить?"
 
 # ch/audrey/condom.rpy:333
 translate russian audrey_mad_condom_9bbd0718:
@@ -2010,7 +2010,7 @@ translate russian audrey_mad_condom_6c707f1f:
 
 # ch/audrey/condom.rpy:341
 translate russian audrey_mad_condom_76e8bbf3:
-    "Она отталкивает меня и встает с дивана."
+    "Она отталкивает меня и встаёт с дивана."
 
 # ch/audrey/condom.rpy:342
 translate russian audrey_mad_condom_925da346:
@@ -2018,7 +2018,7 @@ translate russian audrey_mad_condom_925da346:
 
 # ch/audrey/condom.rpy:343
 translate russian audrey_mad_condom_19af987b:
-    "И вот я остаюсь один, чувствуя еще большее раздражение, чем раньше."
+    "И вот я остаюсь один, чувствуя ещё большее раздражение, чем раньше."
 
 # ch/audrey/condom.rpy:345
 translate russian audrey_mad_condom_509fa995_1:
@@ -2070,7 +2070,7 @@ translate russian audrey_mad_condom_a38cabe9:
 
 # ch/audrey/condom.rpy:357
 translate russian audrey_mad_condom_6d019730:
-    "Затем она начинает ее надевать, направляясь к двери моей спальни."
+    "Затем она начинает её надевать, направляясь к двери моей спальни."
 
 # ch/audrey/condom.rpy:358
 translate russian audrey_mad_condom_08fd22b9_1:
@@ -2090,7 +2090,7 @@ translate russian audrey_mad_condom_2d2a095a:
 
 # ch/audrey/condom.rpy:362
 translate russian audrey_mad_condom_8aec6498:
-    "Я собирался побежать за Одри, но потом понял, что все еще голый."
+    "Я собирался побежать за Одри, но потом понял, что всё ещё голый."
 
 # ch/audrey/condom.rpy:363
 translate russian audrey_mad_condom_dff17c25:
@@ -2154,7 +2154,7 @@ translate russian audrey_date_intro_valentine_male_8cff9fdf:
 
 # ch/audrey/date.rpy:32
 translate russian audrey_date_intro_valentine_male_a80f8f80:
-    audrey.say "Давай, пойдем повеселимся, пока я не передумала..."
+    audrey.say "Давай, пойдём повеселимся, пока я не передумала..."
 
 # ch/audrey/date.rpy:34
 translate russian audrey_date_intro_valentine_male_9ce203e9:
@@ -2322,7 +2322,7 @@ translate russian audrey_date_intro_christmas_male_98e792eb:
 
 # ch/audrey/date.rpy:95
 translate russian audrey_date_intro_birthday_male_7d125be5:
-    mike.say "С днем рождения, Одри!"
+    mike.say "С днём рождения, Одри!"
 
 # ch/audrey/date.rpy:96
 translate russian audrey_date_intro_birthday_male_df33906b:
@@ -2390,11 +2390,11 @@ translate russian audrey_date_intro_mc_birthday_male_b0efe4da:
 
 # ch/audrey/date.rpy:119
 translate russian audrey_date_intro_mc_birthday_male_bfb128d2:
-    mike.say "Сегодня еще есть кое-что особенное."
+    mike.say "Сегодня ещё есть кое-что особенное."
 
 # ch/audrey/date.rpy:120
 translate russian audrey_date_intro_mc_birthday_male_c3649924:
-    mike.say "Ты понимаешь, о чем я говорю, Одри?"
+    mike.say "Ты понимаешь, о чём я говорю, Одри?"
 
 # ch/audrey/date.rpy:121
 translate russian audrey_date_intro_mc_birthday_male_1a966d1e:
@@ -2410,7 +2410,7 @@ translate russian audrey_date_intro_mc_birthday_male_88a08954:
 
 # ch/audrey/date.rpy:124
 translate russian audrey_date_intro_mc_birthday_male_b3fb3e0f:
-    audrey.say "Посмотри на твое лицо!"
+    audrey.say "Посмотри на твоё лицо!"
 
 # ch/audrey/date.rpy:125
 translate russian audrey_date_intro_mc_birthday_male_407f9b7b:
@@ -2450,7 +2450,7 @@ translate russian audrey_date_eat_a_burger_d92add96:
 
 # ch/audrey/date.rpy:141
 translate russian audrey_date_eat_a_burger_d202e10b:
-    "Но при этом она также не издает никаких положительных звуков."
+    "Но при этом она также не издаёт никаких положительных звуков."
 
 # ch/audrey/date.rpy:142
 translate russian audrey_date_eat_a_burger_f979ad1c:
@@ -2474,11 +2474,11 @@ translate russian audrey_date_buy_drink_ababb583:
 
 # ch/audrey/date.rpy:156
 translate russian audrey_date_buy_drink_6e74864d:
-    audrey.say "Отличный способ получить звание \"Отец года\"!"
+    audrey.say "Отличный способ получить звание «Отец года»!"
 
 # ch/audrey/date.rpy:157
 translate russian audrey_date_buy_drink_01b4ef41:
-    audrey.say "Этот ребенок обречен еще до того, как он появится на свет!"
+    audrey.say "Этот ребёнок обречен ещё до того, как он появится на свет!"
 
 # ch/audrey/date.rpy:161
 translate russian audrey_date_buy_drink_ea213a87:
@@ -2494,7 +2494,7 @@ translate russian audrey_date_buy_drink_15f48580:
 
 # ch/audrey/date.rpy:167
 translate russian audrey_date_play_darts_9b081893:
-    "При этом она соглашается поиграть и выполняет все, что от нее требуется."
+    "При этом она соглашается поиграть и выполняет всё, что от неё требуется."
 
 # ch/audrey/date.rpy:168
 translate russian audrey_date_play_darts_28d0ee11:
@@ -2546,11 +2546,11 @@ translate russian audrey_date_buy_a_round_ababb583:
 
 # ch/audrey/date.rpy:195
 translate russian audrey_date_buy_a_round_6e74864d:
-    audrey.say "Отличный способ получить звание \"Отец года\"!"
+    audrey.say "Отличный способ получить звание «Отец года»!"
 
 # ch/audrey/date.rpy:196
 translate russian audrey_date_buy_a_round_01b4ef41:
-    audrey.say "Этот ребенок обречен еще до того, как он появится на свет!"
+    audrey.say "Этот ребёнок обречен ещё до того, как он появится на свет!"
 
 # ch/audrey/date.rpy:200
 translate russian audrey_date_buy_a_round_2ab1be50:
@@ -2630,7 +2630,7 @@ translate russian audrey_date_play_arcade_intro_male_9e6219ef:
 
 # ch/audrey/date.rpy:238
 translate russian audrey_date_play_arcade_intro_male_95213f0d:
-    "Поэтому пригласить Одри пойти со мной в игровой зал – это была отличная идея."
+    "Поэтому пригласить Одри пойти со мной в игровой зал — это была отличная идея."
 
 # ch/audrey/date.rpy:240
 translate russian audrey_date_play_arcade_intro_male_bbe5c12c:
@@ -2662,7 +2662,7 @@ translate russian audrey_date_play_arcade_intro_male_1cce8a09:
 
 # ch/audrey/date.rpy:248
 translate russian audrey_date_play_arcade_intro_male_9641c4a3:
-    "Поэтому я стараюсь спасти ее единственным способом, который у меня есть."
+    "Поэтому я стараюсь спасти её единственным способом, который у меня есть."
 
 # ch/audrey/date.rpy:250
 translate russian audrey_date_play_arcade_intro_male_47040cc2:
@@ -2702,7 +2702,7 @@ translate russian audrey_date_play_arcade_intro_male_30e74fc5:
 
 # ch/audrey/date.rpy:260
 translate russian audrey_date_play_arcade_intro_male_0d6c57eb:
-    mike.say "А как насчет \"Monkey Kong\"?"
+    mike.say "А как насчёт «Monkey Kong»?"
 
 # ch/audrey/date.rpy:261
 translate russian audrey_date_play_arcade_intro_male_bbbc52f9:
@@ -2762,7 +2762,7 @@ translate russian audrey_date_play_arcade_win_male_20704f4f:
 
 # ch/audrey/date.rpy:281
 translate russian audrey_date_play_arcade_win_male_0560d7b8:
-    "Несмотря на ее смелые заявления, у Одри не очень хорошо получается."
+    "Несмотря на её смелые заявления, у Одри не очень хорошо получается."
 
 # ch/audrey/date.rpy:282
 translate russian audrey_date_play_arcade_win_male_25488825:
@@ -2806,7 +2806,7 @@ translate russian audrey_date_play_arcade_win_male_054cea19:
 
 # ch/audrey/date.rpy:294
 translate russian audrey_date_play_arcade_win_male_b77ac363:
-    "Мой счет намного выше, чем у Одри."
+    "Мой счёт намного выше, чем у Одри."
 
 # ch/audrey/date.rpy:295
 translate russian audrey_date_play_arcade_win_male_e436f004:
@@ -2814,11 +2814,11 @@ translate russian audrey_date_play_arcade_win_male_e436f004:
 
 # ch/audrey/date.rpy:296
 translate russian audrey_date_play_arcade_win_male_eb643a81:
-    audrey.say "Ну и зачем это все было?"
+    audrey.say "Ну и зачем это всё было?"
 
 # ch/audrey/date.rpy:297
 translate russian audrey_date_play_arcade_win_male_e1b2e04b:
-    audrey.say "Мне было неинтересно, да еще и я проиграла!"
+    audrey.say "Мне было неинтересно, да ещё и я проиграла!"
 
 # ch/audrey/date.rpy:299
 translate russian audrey_date_play_arcade_win_male_1e324ab0:
@@ -2878,7 +2878,7 @@ translate russian audrey_date_play_arcade_lose_male_ab87ae5d:
 
 # ch/audrey/date.rpy:320
 translate russian audrey_date_play_arcade_lose_male_ec7438d3:
-    "Я наблюдаю за тем, как Одри играет, и все больше поражаюсь."
+    "Я наблюдаю за тем, как Одри играет, и всё больше поражаюсь."
 
 # ch/audrey/date.rpy:321
 translate russian audrey_date_play_arcade_lose_male_57b53198:
@@ -2886,7 +2886,7 @@ translate russian audrey_date_play_arcade_lose_male_57b53198:
 
 # ch/audrey/date.rpy:322
 translate russian audrey_date_play_arcade_lose_male_673afa14:
-    "Что делает ситуацию еще хуже для меня, когда приходит моя очередь."
+    "Что делает ситуацию ещё хуже для меня, когда приходит моя очередь."
 
 # ch/audrey/date.rpy:323
 translate russian audrey_date_play_arcade_lose_male_e46bb468:
@@ -2906,7 +2906,7 @@ translate russian audrey_date_play_arcade_lose_male_cf924978:
 
 # ch/audrey/date.rpy:327
 translate russian audrey_date_play_arcade_lose_male_c389a0e0:
-    audrey.say "Вау...ты совершенно безнадежен в этой игре!"
+    audrey.say "Вау...ты совершенно безнадёжен в этой игре!"
 
 # ch/audrey/date.rpy:328
 translate russian audrey_date_play_arcade_lose_male_054cea19:
@@ -2922,7 +2922,7 @@ translate russian audrey_date_play_arcade_lose_male_81434e8c:
 
 # ch/audrey/date.rpy:331
 translate russian audrey_date_play_arcade_lose_male_eb643a81:
-    audrey.say "Ну и зачем это все было?"
+    audrey.say "Ну и зачем это всё было?"
 
 # ch/audrey/date.rpy:332
 translate russian audrey_date_play_arcade_lose_male_e6355b03:
@@ -2930,7 +2930,7 @@ translate russian audrey_date_play_arcade_lose_male_e6355b03:
 
 # ch/audrey/date.rpy:334
 translate russian audrey_date_play_arcade_lose_male_c7f4a14d:
-    mike.say "Ну... не надо так, \"игрушка\"!"
+    mike.say "Ну... не надо так, «игрушка»!"
 
 # ch/audrey/date.rpy:336
 translate russian audrey_date_play_arcade_lose_male_7011ff35:
@@ -2938,7 +2938,7 @@ translate russian audrey_date_play_arcade_lose_male_7011ff35:
 
 # ch/audrey/date.rpy:337
 translate russian audrey_date_play_arcade_lose_male_f5384d7e:
-    mike.say "Мы в следующий раз пойдем туда, куда ты захочешь."
+    mike.say "Мы в следующий раз пойдём туда, куда ты захочешь."
 
 # ch/audrey/date.rpy:339
 translate russian audrey_date_play_arcade_lose_male_20b7c428:
@@ -3058,7 +3058,7 @@ translate russian audrey_dick_reactions_ff870037:
 
 # ch/audrey/date.rpy:401
 translate russian audrey_halloween_invitation_2f781dfb:
-    "Единственная девушка, которую я хочу пригласить на хэллоуинскую вечеринку, – это Одри."
+    "Единственная девушка, которую я хочу пригласить на хэллоуинскую вечеринку, — это Одри."
 
 # ch/audrey/date.rpy:402
 translate russian audrey_halloween_invitation_bfce29b1:
@@ -3074,7 +3074,7 @@ translate russian audrey_halloween_invitation_cde010d8:
 
 # ch/audrey/date.rpy:405
 translate russian audrey_halloween_invitation_4eb0b6fd:
-    "Думаю, единственный выход – просто решиться и спросить ее..."
+    "Думаю, единственный выход — просто решиться и спросить её..."
 
 # ch/audrey/date.rpy:407
 translate russian audrey_halloween_invitation_6da1e511:
@@ -3094,7 +3094,7 @@ translate russian audrey_halloween_invitation_b5fcd9d2:
 
 # ch/audrey/date.rpy:413
 translate russian audrey_halloween_invitation_a6304177:
-    "И я вижу, что на ее лице играет недоверчивая ухмылка."
+    "И я вижу, что на её лице играет недоверчивая ухмылка."
 
 # ch/audrey/date.rpy:414
 translate russian audrey_halloween_invitation_519bfce2:
@@ -3102,7 +3102,7 @@ translate russian audrey_halloween_invitation_519bfce2:
 
 # ch/audrey/date.rpy:415
 translate russian audrey_halloween_invitation_137ea0f8:
-    audrey.say "Но ты только что сказал \"Хэллоуин\"?"
+    audrey.say "Но ты только что сказал «Хэллоуин»?"
 
 # ch/audrey/date.rpy:417
 translate russian audrey_halloween_invitation_0dbef9ec:
@@ -3134,7 +3134,7 @@ translate russian audrey_halloween_invitation_0e44117f:
 
 # ch/audrey/date.rpy:426
 translate russian audrey_halloween_invitation_70748cb5:
-    "Я стараюсь изо всех сил ее игнорировать."
+    "Я стараюсь изо всех сил её игнорировать."
 
 # ch/audrey/date.rpy:427
 translate russian audrey_halloween_invitation_8950349f:
@@ -3142,19 +3142,19 @@ translate russian audrey_halloween_invitation_8950349f:
 
 # ch/audrey/date.rpy:428
 translate russian audrey_halloween_invitation_a8649d45:
-    "И поэтому лучшее, что я могу сделать, это проигнорировать ее."
+    "И поэтому лучшее, что я могу сделать, это проигнорировать её."
 
 # ch/audrey/date.rpy:429
 translate russian audrey_halloween_invitation_f7a71477:
-    "Просто игнорируй ее и продолжай упрямо."
+    "Просто игнорируй её и продолжай упрямо."
 
 # ch/audrey/date.rpy:431
 translate russian audrey_halloween_invitation_e4490fa8:
-    mike.say "Ха-ха, Тои – очень смешно."
+    mike.say "Ха-ха, Тои — очень смешно."
 
 # ch/audrey/date.rpy:433
 translate russian audrey_halloween_invitation_6686d511:
-    mike.say "Ха-ха, Одри – очень смешно."
+    mike.say "Ха-ха, Одри — очень смешно."
 
 # ch/audrey/date.rpy:434
 translate russian audrey_halloween_invitation_745a5c76:
@@ -3170,15 +3170,15 @@ translate russian audrey_halloween_invitation_75ec9ed5:
 
 # ch/audrey/date.rpy:438
 translate russian audrey_halloween_invitation_f023bde6:
-    "Наконец, Одри перестает смеяться надо мной."
+    "Наконец, Одри перестаёт смеяться надо мной."
 
 # ch/audrey/date.rpy:439
 translate russian audrey_halloween_invitation_cf19be52:
-    "Я вижу, как на ее лице появляется задумчивое выражение, пока она обдумывает приглашение."
+    "Я вижу, как на её лице появляется задумчивое выражение, пока она обдумывает приглашение."
 
 # ch/audrey/date.rpy:442
 translate russian audrey_halloween_invitation_2e1fccf9:
-    audrey.say "Знаешь что, [lssb_audrey.hero_name()] – кажется, я все-таки приду."
+    audrey.say "Знаешь что, [lssb_audrey.hero_name()] – кажется, я всё-таки приду."
 
 # ch/audrey/date.rpy:444
 translate russian audrey_halloween_invitation_e19d6027:
@@ -3194,7 +3194,7 @@ translate russian audrey_halloween_invitation_42df2688:
 
 # ch/audrey/date.rpy:448
 translate russian audrey_halloween_invitation_0a1a27f2:
-    mike.say "И это еще будет костюмированная вечеринка."
+    mike.say "И это ещё будет костюмированная вечеринка."
 
 # ch/audrey/date.rpy:449
 translate russian audrey_halloween_invitation_af55c0d0:
@@ -3202,7 +3202,7 @@ translate russian audrey_halloween_invitation_af55c0d0:
 
 # ch/audrey/date.rpy:451
 translate russian audrey_halloween_invitation_f5de73ac:
-    audrey.say "Ах, [lssb_audrey.hero_name()], я же уже сказала \"да\"!"
+    audrey.say "Ах, [lssb_audrey.hero_name()], я же уже сказала «да»!"
 
 # ch/audrey/date.rpy:452
 translate russian audrey_halloween_invitation_f55b0fbd:
@@ -3214,15 +3214,15 @@ translate russian audrey_halloween_invitation_27d97159:
 
 # ch/audrey/date.rpy:455
 translate russian audrey_halloween_invitation_bb6f9686:
-    mike.say "Конечно, малышка – конечно, ты это сделала!"
+    mike.say "Конечно, малышка — конечно, ты это сделала!"
 
 # ch/audrey/date.rpy:457
 translate russian audrey_halloween_invitation_fda57491:
-    mike.say "Конечно, Одри – конечно, ты это сделала!"
+    mike.say "Конечно, Одри — конечно, ты это сделала!"
 
 # ch/audrey/date.rpy:458
 translate russian audrey_halloween_invitation_0041e066:
-    mike.say "Я просто немного отвлечен сейчас."
+    mike.say "Я просто немного отвлечён сейчас."
 
 # ch/audrey/date.rpy:459
 translate russian audrey_halloween_invitation_fade0eea:
@@ -3254,7 +3254,7 @@ translate russian audrey_halloween_invitation_5ca2d445:
 
 # ch/audrey/date.rpy:468
 translate russian audrey_halloween_invitation_71961394:
-    "Но я рад, что она согласилась на мое приглашение."
+    "Но я рад, что она согласилась на моё приглашение."
 
 # ch/audrey/date.rpy:469
 translate russian audrey_halloween_invitation_b0e144a4:
@@ -3266,7 +3266,7 @@ translate russian audrey_halloween_invitation_af1a3646:
 
 # ch/audrey/date.rpy:471
 translate russian audrey_halloween_invitation_07a44d9a:
-    "В отличие от того, как она ведет себя на работе."
+    "В отличие от того, как она ведёт себя на работе."
 
 # ch/audrey/date.rpy:475
 translate russian audrey_halloween_invitation_23753c41:
@@ -3278,7 +3278,7 @@ translate russian audrey_halloween_invitation_d10eb720:
 
 # ch/audrey/date.rpy:477
 translate russian audrey_halloween_invitation_af5b369a:
-    audrey.say "И я думаю, что Хэллоуин – это идеальный вечер, чтобы наконец-то это сделать!"
+    audrey.say "И я думаю, что Хэллоуин — это идеальный вечер, чтобы наконец-то это сделать!"
 
 # ch/audrey/date.rpy:478
 translate russian audrey_halloween_invitation_c8b4d731:
@@ -3302,7 +3302,7 @@ translate russian audrey_halloween_invitation_42df2688_1:
 
 # ch/audrey/date.rpy:485
 translate russian audrey_halloween_invitation_0a1a27f2_1:
-    mike.say "И это еще будет костюмированная вечеринка."
+    mike.say "И это ещё будет костюмированная вечеринка."
 
 # ch/audrey/date.rpy:486
 translate russian audrey_halloween_invitation_af55c0d0_1:
@@ -3318,11 +3318,11 @@ translate russian audrey_halloween_invitation_f2929bfa:
 
 # ch/audrey/date.rpy:491
 translate russian audrey_halloween_invitation_925f46b3:
-    audrey.say "А как насчет батута?"
+    audrey.say "А как насчёт батута?"
 
 # ch/audrey/date.rpy:492
 translate russian audrey_halloween_invitation_6a9fbbb1:
-    "Я поднимаю руки, наконец признавая свое поражение."
+    "Я поднимаю руки, наконец признавая своё поражение."
 
 # ch/audrey/date.rpy:494
 translate russian audrey_halloween_invitation_092f2efb:
@@ -3350,7 +3350,7 @@ translate russian audrey_halloween_invitation_bf7712bb:
 
 # ch/audrey/date.rpy:502
 translate russian audrey_halloween_invitation_3d82cdb0:
-    "С таким отношением, может быть, на вечеринке лучше без нее!"
+    "С таким отношением, может быть, на вечеринке лучше без неё!"
 
 # ch/audrey/date.rpy:507
 translate russian audrey_halloween_arrival_26a0215a:
@@ -3366,7 +3366,7 @@ translate russian audrey_halloween_arrival_f664a4e3:
 
 # ch/audrey/date.rpy:510
 translate russian audrey_halloween_arrival_8e8f014e:
-    "Это кинжал – я смотрю прямо на лезвие чертового кинжала!"
+    "Это кинжал — я смотрю прямо на лезвие чертового кинжала!"
 
 # ch/audrey/date.rpy:511
 translate russian audrey_halloween_arrival_d5979dca:
@@ -3394,7 +3394,7 @@ translate russian audrey_halloween_arrival_c776c276:
 
 # ch/audrey/date.rpy:519
 translate russian audrey_halloween_arrival_a8daacb5:
-    "В каждой руке у нее одинаковый кинжал."
+    "В каждой руке у неё одинаковый кинжал."
 
 # ch/audrey/date.rpy:520
 translate russian audrey_halloween_arrival_4d1640ee:
@@ -3402,7 +3402,7 @@ translate russian audrey_halloween_arrival_4d1640ee:
 
 # ch/audrey/date.rpy:521
 translate russian audrey_halloween_arrival_ca992817:
-    "И еще тот факт, что она одета в обтягивающий красный костюм."
+    "И ещё тот факт, что она одета в обтягивающий красный костюм."
 
 # ch/audrey/date.rpy:522
 translate russian audrey_halloween_arrival_f1d8a63c:
@@ -3430,7 +3430,7 @@ translate russian audrey_halloween_arrival_90eb5e0b:
 
 # ch/audrey/date.rpy:532
 translate russian audrey_halloween_arrival_eeda74d0:
-    "Я все еще тер свою ушибленную задницу, когда она задает мне этот вопрос."
+    "Я всё ещё тер свою ушибленную задницу, когда она задаёт мне этот вопрос."
 
 # ch/audrey/date.rpy:533
 translate russian audrey_halloween_arrival_7a35d77b:
@@ -3446,7 +3446,7 @@ translate russian audrey_halloween_arrival_3ec8ebbd:
 
 # ch/audrey/date.rpy:537
 translate russian audrey_halloween_arrival_14480ee2:
-    mike.say "Да, игрушка – конечно, мне нравится!"
+    mike.say "Да, игрушка — конечно, мне нравится!"
 
 # ch/audrey/date.rpy:539
 translate russian audrey_halloween_arrival_75a62a2b:
@@ -3494,7 +3494,7 @@ translate russian audrey_halloween_arrival_f2cd8665:
 
 # ch/audrey/date.rpy:553
 translate russian audrey_halloween_arrival_2e469e27:
-    "Но это игнорируется, потому что большая часть меня все еще слюнки пускает от нее."
+    "Но это игнорируется, потому что большая часть меня всё ещё слюнки пускает от неё."
 
 # ch/audrey/date.rpy:555
 translate russian audrey_halloween_arrival_071aace8:
@@ -3514,7 +3514,7 @@ translate russian audrey_halloween_arrival_6e932b40:
 
 # ch/audrey/date.rpy:561
 translate russian audrey_halloween_arrival_eeda74d0_1:
-    "Я все еще тер свою ушибленную задницу, когда она задает мне этот вопрос."
+    "Я всё ещё тер свою ушибленную задницу, когда она задаёт мне этот вопрос."
 
 # ch/audrey/date.rpy:562
 translate russian audrey_halloween_arrival_ce504878:
@@ -3538,7 +3538,7 @@ translate russian audrey_halloween_arrival_c3441fff:
 
 # ch/audrey/date.rpy:573
 translate russian audrey_halloween_arrival_86b0f94c:
-    "Господи, она еще даже в дом толком не вошла."
+    "Господи, она ещё даже в дом толком не вошла."
 
 # ch/audrey/date.rpy:574
 translate russian audrey_halloween_arrival_78e7275c:
@@ -3574,11 +3574,11 @@ translate russian audrey_halloween_arrival_c4fc31fa:
 
 # ch/audrey/date.rpy:585
 translate russian audrey_halloween_arrival_910bb20d:
-    mike.say "Может, просто забудем об этом и хорошо проведем время?"
+    mike.say "Может, просто забудем об этом и хорошо проведём время?"
 
 # ch/audrey/date.rpy:586
 translate russian audrey_halloween_arrival_921998bb:
-    "Одри издает недовольный звук, как будто ей все еще что-то не нравится."
+    "Одри издаёт недовольный звук, как будто ей всё ещё что-то не нравится."
 
 # ch/audrey/date.rpy:587
 translate russian audrey_halloween_arrival_959c03cc:
@@ -3598,7 +3598,7 @@ translate russian audrey_halloween_party_43c9cec1:
 
 # ch/audrey/date.rpy:600
 translate russian audrey_halloween_party_568371f1:
-    audrey.say "Ты, наверное, потратил кучу денег в этом магазине \"все по доллару\"!"
+    audrey.say "Ты, наверное, потратил кучу денег в этом магазине «все по доллару»!"
 
 # ch/audrey/date.rpy:601
 translate russian audrey_halloween_party_e527d0b0:
@@ -3606,7 +3606,7 @@ translate russian audrey_halloween_party_e527d0b0:
 
 # ch/audrey/date.rpy:602
 translate russian audrey_halloween_party_23622167:
-    "На ее лице играет ироничная улыбка."
+    "На её лице играет ироничная улыбка."
 
 # ch/audrey/date.rpy:603
 translate russian audrey_halloween_party_1ccab2e1:
@@ -3630,7 +3630,7 @@ translate russian audrey_halloween_party_20fb0102:
 
 # ch/audrey/date.rpy:611
 translate russian audrey_halloween_party_119ead61:
-    "Одри смеется, когда произносит это."
+    "Одри смеётся, когда произносит это."
 
 # ch/audrey/date.rpy:612
 translate russian audrey_halloween_party_0cfe72cb:
@@ -3646,7 +3646,7 @@ translate russian audrey_halloween_party_c1ec1a56:
 
 # ch/audrey/date.rpy:618
 translate russian audrey_halloween_party_7792ed60:
-    audrey.say "Да – это именно то слово, которое я сейчас подумала!"
+    audrey.say "Да — это именно то слово, которое я сейчас подумала!"
 
 # ch/audrey/date.rpy:621
 translate russian audrey_halloween_party_03f17d09:
@@ -3654,7 +3654,7 @@ translate russian audrey_halloween_party_03f17d09:
 
 # ch/audrey/date.rpy:622
 translate russian audrey_halloween_party_d5497a82:
-    mike.say "Это ведь вечеринка на Хэллоуин – она должна быть веселой и немного дурацкой."
+    mike.say "Это ведь вечеринка на Хэллоуин — она должна быть весёлой и немного дурацкой."
 
 # ch/audrey/date.rpy:623
 translate russian audrey_halloween_party_fccd5a64:
@@ -3694,7 +3694,7 @@ translate russian audrey_halloween_party_5df7eb87:
 
 # ch/audrey/date.rpy:638
 translate russian audrey_halloween_party_d9a3c8c5:
-    audrey.say "Оставь ее в покое, [lssb_audrey.hero_name()]."
+    audrey.say "Оставь её в покое, [lssb_audrey.hero_name()]."
 
 # ch/audrey/date.rpy:640
 translate russian audrey_halloween_party_57a62fdd:
@@ -3706,7 +3706,7 @@ translate russian audrey_halloween_party_3beeaf9f:
 
 # ch/audrey/date.rpy:643
 translate russian audrey_halloween_party_c1dfeba6:
-    mike.say "Саша права – мы все много работали над этим."
+    mike.say "Саша права — мы все много работали над этим."
 
 # ch/audrey/date.rpy:644
 translate russian audrey_halloween_party_cb310865:
@@ -3734,7 +3734,7 @@ translate russian audrey_halloween_party_b834567f:
 
 # ch/audrey/date.rpy:654
 translate russian audrey_halloween_party_160d3225:
-    sasha.say "Не стоит, когда ты ведешь себя как стерва!"
+    sasha.say "Не стоит, когда ты ведёшь себя как стерва!"
 
 # ch/audrey/date.rpy:658
 translate russian audrey_halloween_party_2604b224:
@@ -3750,7 +3750,7 @@ translate russian audrey_halloween_party_5f400875:
 
 # ch/audrey/date.rpy:670
 translate russian audrey_halloween_dance_8464ab79:
-    audrey.say "Эй, [lssb_audrey.hero_name()], чего мы ждем?"
+    audrey.say "Эй, [lssb_audrey.hero_name()], чего мы ждём?"
 
 # ch/audrey/date.rpy:672
 translate russian audrey_halloween_dance_49800f57:
@@ -3766,7 +3766,7 @@ translate russian audrey_halloween_dance_badfa2c0:
 
 # ch/audrey/date.rpy:677
 translate russian audrey_halloween_dance_80561b7a:
-    mike.say "Пойдем..."
+    mike.say "Пойдём..."
 
 # ch/audrey/date.rpy:678
 translate russian audrey_halloween_dance_e642b239:
@@ -3822,7 +3822,7 @@ translate russian audrey_halloween_dance_7a626ec6:
 
 # ch/audrey/date.rpy:697
 translate russian audrey_halloween_dance_6e837b2e:
-    "Но потом мне приходит в голову – почему бы не ответить тем же?"
+    "Но потом мне приходит в голову — почему бы не ответить тем же?"
 
 # ch/audrey/date.rpy:698
 translate russian audrey_halloween_dance_9eec5a54:
@@ -3866,7 +3866,7 @@ translate russian audrey_halloween_dance_a4d330d0:
 
 # ch/audrey/date.rpy:710
 translate russian audrey_halloween_dance_ee5be8ca:
-    "И я жду, когда он начнет злиться на меня."
+    "И я жду, когда он начнёт злиться на меня."
 
 # ch/audrey/date.rpy:711
 translate russian audrey_halloween_dance_a5209ca6:
@@ -3886,7 +3886,7 @@ translate russian audrey_halloween_dance_27c6cade:
 
 # ch/audrey/date.rpy:715
 translate russian audrey_halloween_dance_41cb22dc:
-    "Все, что она может сделать, это натянуть улыбку на собственное лицо."
+    "Всё, что она может сделать, это натянуть улыбку на собственное лицо."
 
 # ch/audrey/date.rpy:717
 translate russian audrey_halloween_dance_1c2dc3a2:
@@ -3902,7 +3902,7 @@ translate russian audrey_halloween_dance_40dd9afc:
 
 # ch/audrey/date.rpy:721
 translate russian audrey_halloween_dance_4329c7ee:
-    "Она унижает меня в собственном доме, да еще и перед моими друзьями!"
+    "Она унижает меня в собственном доме, да ещё и перед моими друзьями!"
 
 # ch/audrey/date.rpy:722
 translate russian audrey_halloween_dance_65a1f323:
@@ -3926,7 +3926,7 @@ translate russian audrey_halloween_dance_01be4565:
 
 # ch/audrey/date.rpy:729
 translate russian audrey_halloween_dance_8adf9015:
-    "Я слышу, как Одри смеется, пока я ухожу."
+    "Я слышу, как Одри смеётся, пока я ухожу."
 
 # ch/audrey/date.rpy:730
 translate russian audrey_halloween_dance_fea3ebbc:
@@ -3946,7 +3946,7 @@ translate russian audrey_halloween_sex_d5ce9f95:
 
 # ch/audrey/date.rpy:740
 translate russian audrey_halloween_sex_ea7b4a4a:
-    "И все, что я слышу – это тихая музыка и приглушенные разговоры."
+    "И всё, что я слышу — это тихая музыка и приглушённые разговоры."
 
 # ch/audrey/date.rpy:741
 translate russian audrey_halloween_sex_5e36f896:
@@ -3982,11 +3982,11 @@ translate russian audrey_halloween_sex_47ad46d3:
 
 # ch/audrey/date.rpy:753
 translate russian audrey_halloween_sex_e426e24b:
-    "Одри смеется над этим."
+    "Одри смеётся над этим."
 
 # ch/audrey/date.rpy:754
 translate russian audrey_halloween_sex_b427609d:
-    "И она прижимается ко мне еще сильнее."
+    "И она прижимается ко мне ещё сильнее."
 
 # ch/audrey/date.rpy:755
 translate russian audrey_halloween_sex_cb6d5368:
@@ -3998,7 +3998,7 @@ translate russian audrey_halloween_sex_250618d2:
 
 # ch/audrey/date.rpy:758
 translate russian audrey_halloween_sex_444829d4:
-    audrey.say "И еще немного..."
+    audrey.say "И ещё немного..."
 
 # ch/audrey/date.rpy:761
 translate russian audrey_halloween_sex_4a6f17fc:
@@ -4006,7 +4006,7 @@ translate russian audrey_halloween_sex_4a6f17fc:
 
 # ch/audrey/date.rpy:762
 translate russian audrey_halloween_sex_01a687fa:
-    "Это медленный, чувственный поцелуй – все, о чем только можно мечтать."
+    "Это медленный, чувственный поцелуй — все, о чём только можно мечтать."
 
 # ch/audrey/date.rpy:763
 translate russian audrey_halloween_sex_d8585066:
@@ -4014,15 +4014,15 @@ translate russian audrey_halloween_sex_d8585066:
 
 # ch/audrey/date.rpy:764
 translate russian audrey_halloween_sex_cc1766d7:
-    "Но потом я чувствую, как ее рука проникает в мои штаны."
+    "Но потом я чувствую, как её рука проникает в мои штаны."
 
 # ch/audrey/date.rpy:767
 translate russian audrey_halloween_sex_49890769:
-    "От этого я отрываюсь от ее губ и улыбаюсь."
+    "От этого я отрываюсь от её губ и улыбаюсь."
 
 # ch/audrey/date.rpy:768
 translate russian audrey_halloween_sex_f4363a11:
-    "Все, что я могу сделать – это тихонько зашипеть."
+    "Всё, что я могу сделать — это тихонько зашипеть."
 
 # ch/audrey/date.rpy:770
 translate russian audrey_halloween_sex_7afe558d:
@@ -4074,7 +4074,7 @@ translate russian audrey_halloween_sex_662a5a52:
 
 # ch/audrey/date.rpy:784
 translate russian audrey_halloween_sex_30ef00c8:
-    audrey.say "Я собираюсь покататься на твоем члене."
+    audrey.say "Я собираюсь покататься на твоём члене."
 
 # ch/audrey/date.rpy:785
 translate russian audrey_halloween_sex_825faaf4:
@@ -4090,7 +4090,7 @@ translate russian audrey_halloween_sex_cf15f18b:
 
 # ch/audrey/date.rpy:792
 translate russian audrey_halloween_sex_b4acd5ae:
-    mike.say "Что, если кто-то войдет?"
+    mike.say "Что, если кто-то войдёт?"
 
 # ch/audrey/date.rpy:793
 translate russian audrey_halloween_sex_32ce22ac:
@@ -4114,7 +4114,7 @@ translate russian audrey_halloween_sex_29c421a0:
 
 # ch/audrey/date.rpy:801
 translate russian audrey_halloween_sex_7b7ad798:
-    "Как будто чтобы подчеркнуть свою точку зрения, Одри трет мой член между своими бедрами."
+    "Как будто чтобы подчеркнуть свою точку зрения, Одри трёт мой член между своими бёдрами."
 
 # ch/audrey/date.rpy:803
 translate russian audrey_halloween_sex_140076af:
@@ -4122,15 +4122,15 @@ translate russian audrey_halloween_sex_140076af:
 
 # ch/audrey/date.rpy:804
 translate russian audrey_halloween_sex_bba0ed22:
-    "И еще тот факт, что там у нее уже все очень скользкое."
+    "И ещё тот факт, что там у неё уже все очень скользкое."
 
 # ch/audrey/date.rpy:806
 translate russian audrey_halloween_sex_0d47522c:
-    "Я ни слова не говорю, но Одри все равно понимает, что я возбужден."
+    "Я ни слова не говорю, но Одри всё равно понимает, что я возбуждён."
 
 # ch/audrey/date.rpy:807
 translate russian audrey_halloween_sex_9753ebfe:
-    "Я знаю это по тому выражению в ее глазах, когда она садится на мой член."
+    "Я знаю это по тому выражению в её глазах, когда она садится на мой член."
 
 # ch/audrey/date.rpy:810
 translate russian audrey_halloween_sex_ec5f023e:
@@ -4162,11 +4162,11 @@ translate russian audrey_halloween_sex_317f4980:
 
 # ch/audrey/date.rpy:819
 translate russian audrey_halloween_sex_042ec7ed:
-    "Одри тихо стонет, когда я проникаю в нее."
+    "Одри тихо стонет, когда я проникаю в неё."
 
 # ch/audrey/date.rpy:820
 translate russian audrey_halloween_sex_b77b22f8:
-    "И я уже чувствую, как мое желание к ней берет верх."
+    "И я уже чувствую, как моё желание к ней берет верх."
 
 # ch/audrey/date.rpy:821
 translate russian audrey_halloween_sex_8e8d2dd7:
@@ -4186,7 +4186,7 @@ translate russian audrey_halloween_sex_c0d47842:
 
 # ch/audrey/date.rpy:825
 translate russian audrey_halloween_sex_b85de573:
-    "Но все равно это не мешает ей получать удовольствие."
+    "Но всё равно это не мешает ей получать удовольствие."
 
 # ch/audrey/date.rpy:827
 translate russian audrey_halloween_sex_6346a963:
@@ -4194,15 +4194,15 @@ translate russian audrey_halloween_sex_6346a963:
 
 # ch/audrey/date.rpy:828
 translate russian audrey_halloween_sex_4051d161:
-    "Ее костюм легкий и с тонкими бретельками, поэтому он легко снимается."
+    "Её костюм лёгкий и с тонкими бретельками, поэтому он легко снимается."
 
 # ch/audrey/date.rpy:829
 translate russian audrey_halloween_sex_9fb86308:
-    "Закончив это, я немедленно начинаю сжимать и щипать ее грудь."
+    "Закончив это, я немедленно начинаю сжимать и щипать её грудь."
 
 # ch/audrey/date.rpy:830
 translate russian audrey_halloween_sex_f5e6ac4a:
-    "И надавливание пальцами на ее соски еще больше усиливает ее возбуждение."
+    "И надавливание пальцами на её соски ещё больше усиливает её возбуждение."
 
 # ch/audrey/date.rpy:831
 translate russian audrey_halloween_sex_49c64dfb:
@@ -4210,7 +4210,7 @@ translate russian audrey_halloween_sex_49c64dfb:
 
 # ch/audrey/date.rpy:832
 translate russian audrey_halloween_sex_0ad6185e:
-    "Звук, который она издает, сначала тихий."
+    "Звук, который она издаёт, сначала тихий."
 
 # ch/audrey/date.rpy:833
 translate russian audrey_halloween_sex_4ff97471:
@@ -4218,11 +4218,11 @@ translate russian audrey_halloween_sex_4ff97471:
 
 # ch/audrey/date.rpy:834
 translate russian audrey_halloween_sex_38c7f648:
-    "Если она продолжит так, забудьте о том, что кто-то войдет к нам."
+    "Если она продолжит так, забудьте о том, что кто-то войдёт к нам."
 
 # ch/audrey/date.rpy:835
 translate russian audrey_halloween_sex_e5da46f4:
-    "Все в доме, возможно, даже соседи, услышат ее!"
+    "Все в доме, возможно, даже соседи, услышат её!"
 
 # ch/audrey/date.rpy:837
 translate russian audrey_halloween_sex_37a94287:
@@ -4258,7 +4258,7 @@ translate russian audrey_halloween_sex_0e414e51:
 
 # ch/audrey/date.rpy:845
 translate russian audrey_halloween_sex_859a2ef2:
-    "Я давли сильнее, проникая в нее изо всех сил."
+    "Я давли сильнее, проникая в неё изо всех сил."
 
 # ch/audrey/date.rpy:847
 translate russian audrey_halloween_sex_de4387d5:
@@ -4278,15 +4278,15 @@ translate russian audrey_halloween_sex_c2378ab0:
 
 # ch/audrey/date.rpy:853
 translate russian audrey_halloween_sex_3016b691:
-    "И я чувствую запах крови, когда изливаю свою сперму в нее."
+    "И я чувствую запах крови, когда изливаю свою сперму в неё."
 
 # ch/audrey/date.rpy:854
 translate russian audrey_halloween_sex_3599b215:
-    "Вскоре крики Одри стихают и переходят в тяжелое дыхание."
+    "Вскоре крики Одри стихают и переходят в тяжёлое дыхание."
 
 # ch/audrey/date.rpy:857
 translate russian audrey_halloween_sex_4b99b136:
-    "Только тогда я снимаю руку со ее рта."
+    "Только тогда я снимаю руку со её рта."
 
 # ch/audrey/date.rpy:858
 translate russian audrey_halloween_sex_acd141ea:
@@ -4294,7 +4294,7 @@ translate russian audrey_halloween_sex_acd141ea:
 
 # ch/audrey/date.rpy:859
 translate russian audrey_halloween_sex_001f6d8b:
-    "Она прижимает голову к моей груди, когда ее собственный оргазм охватывает ее."
+    "Она прижимает голову к моей груди, когда её собственный оргазм охватывает её."
 
 # ch/audrey/date.rpy:866
 translate russian audrey_date_try_the_waterslide_bc9e6196:
@@ -4306,7 +4306,7 @@ translate russian audrey_date_watch_the_movie_6c45eb38:
 
 # ch/audrey/date.rpy:879
 translate russian audrey_date_watch_the_movie_d6f9c145:
-    "\"Гоблины\" – это один из тех культовых фильмов восьмидесятых, которые со временем становятся только лучше."
+    "«Гоблины» — это один из тех культовых фильмов восьмидесятых, которые со временем становятся только лучше."
 
 # ch/audrey/date.rpy:881
 translate russian audrey_date_watch_the_movie_35b7ba88:
@@ -4318,7 +4318,7 @@ translate russian audrey_date_watch_the_movie_146d5e87:
 
 # ch/audrey/date.rpy:883
 translate russian audrey_date_watch_the_movie_41ccbd42:
-    "Вот я, полный энтузиазма, чтобы увидеть, что сценаристы придумали для этого сиквела, \"Гоблины [sequel]\"."
+    "Вот я, полный энтузиазма, чтобы увидеть, что сценаристы придумали для этого сиквела, «Гоблины [sequel]»."
 
 # ch/audrey/date.rpy:885
 translate russian audrey_date_watch_the_movie_7727e2b7:
@@ -4326,15 +4326,15 @@ translate russian audrey_date_watch_the_movie_7727e2b7:
 
 # ch/audrey/date.rpy:886
 translate russian audrey_date_watch_the_movie_705f6134:
-    "Вот я, жду, чтобы узнать, что сценаристы сделали для этого сиквела, \"Гоблины [sequel]\"."
+    "Вот я, жду, чтобы узнать, что сценаристы сделали для этого сиквела, «Гоблины [sequel]»."
 
 # ch/audrey/date.rpy:888
 translate russian audrey_date_watch_the_movie_f7800de7:
-    "Продюсеры нашли золотую жилу и выжимают из этой франшизы все, что могут."
+    "Продюсеры нашли золотую жилу и выжимают из этой франшизы всё, что могут."
 
 # ch/audrey/date.rpy:889
 translate russian audrey_date_watch_the_movie_a91849b3:
-    "У меня нет особых ожиданий от \"Гоблинов [sequel]\", но сиквелы иногда бывают лучше, помните \"Storminator 2\"."
+    "У меня нет особых ожиданий от «Гоблинов [sequel]», но сиквелы иногда бывают лучше, помните «Storminator 2»."
 
 # ch/audrey/date.rpy:891
 translate russian audrey_date_watch_the_movie_0386a907:
@@ -4342,7 +4342,7 @@ translate russian audrey_date_watch_the_movie_0386a907:
 
 # ch/audrey/date.rpy:893
 translate russian audrey_date_watch_the_movie_77ebbfa6:
-    "Даже когда заканчиваются трейлеры и начинается сам фильм, она все еще жалуется!"
+    "Даже когда заканчиваются трейлеры и начинается сам фильм, она всё ещё жалуется!"
 
 # ch/audrey/date.rpy:895
 translate russian audrey_date_watch_the_movie_202cfb14:
@@ -4378,7 +4378,7 @@ translate russian audrey_date_watch_the_movie_b435f0e8:
 
 # ch/audrey/date.rpy:907
 translate russian audrey_date_watch_the_movie_67c68d65:
-    audrey.say "Придется мне самой найти способ развлечься..."
+    audrey.say "Придётся мне самой найти способ развлечься..."
 
 # ch/audrey/date.rpy:908
 translate russian audrey_date_watch_the_movie_f8d43da7:
@@ -4390,15 +4390,15 @@ translate russian audrey_date_watch_the_movie_caed6ce8:
 
 # ch/audrey/date.rpy:911
 translate russian audrey_date_watch_the_movie_1642a622:
-    "А это значит, что мое внимание мгновенно отвлекается."
+    "А это значит, что моё внимание мгновенно отвлекается."
 
 # ch/audrey/date.rpy:913
 translate russian audrey_date_watch_the_movie_b565fb91:
-    "Вскоре я забываю обо всех ее расплывчатых обещаниях."
+    "Вскоре я забываю обо всех её расплывчатых обещаниях."
 
 # ch/audrey/date.rpy:914
 translate russian audrey_date_watch_the_movie_f2358822:
-    "Потому что я погружаюсь в теплое, уютное облако ностальгических воспоминаний!"
+    "Потому что я погружаюсь в тёплое, уютное облако ностальгических воспоминаний!"
 
 # ch/audrey/date.rpy:915
 translate russian audrey_date_watch_the_movie_e3bc530c:
@@ -4430,7 +4430,7 @@ translate russian audrey_date_watch_the_movie_b818da53:
 
 # ch/audrey/date.rpy:923
 translate russian audrey_date_watch_the_movie_f84f80b4:
-    "Я опускаю взгляд и вижу руку на моем паху, которая расстегивает мою молнию."
+    "Я опускаю взгляд и вижу руку на моём паху, которая расстёгивает мою молнию."
 
 # ch/audrey/date.rpy:925
 translate russian audrey_date_watch_the_movie_81b08c7a:
@@ -4462,7 +4462,7 @@ translate russian audrey_date_watch_the_movie_2e46f9d1:
 
 # ch/audrey/date.rpy:932
 translate russian audrey_date_watch_the_movie_058187ed:
-    "Похоже, она настроена серьезно!"
+    "Похоже, она настроена серьёзно!"
 
 # ch/audrey/date.rpy:933
 translate russian audrey_date_watch_the_movie_d07ec7d6:
@@ -4490,7 +4490,7 @@ translate russian audrey_date_watch_the_movie_01fc167e:
 
 # ch/audrey/date.rpy:941
 translate russian audrey_date_watch_the_movie_6d753c8f:
-    "Мгновение – и Одри вытаскивает мой член из штанов."
+    "Мгновение — и Одри вытаскивает мой член из штанов."
 
 # ch/audrey/date.rpy:942
 translate russian audrey_date_watch_the_movie_cc32a41a:
@@ -4502,7 +4502,7 @@ translate russian audrey_date_watch_the_movie_f20dfd80:
 
 # ch/audrey/date.rpy:944
 translate russian audrey_date_watch_the_movie_430acec2:
-    "Кажется, будто я передаю свое тело в ее руки, а мой разум занят чем-то другим."
+    "Кажется, будто я передаю своё тело в её руки, а мой разум занят чем-то другим."
 
 # ch/audrey/date.rpy:945
 translate russian audrey_date_watch_the_movie_36b60682:
@@ -4514,11 +4514,11 @@ translate russian audrey_date_watch_the_movie_925403a0:
 
 # ch/audrey/date.rpy:947
 translate russian audrey_date_watch_the_movie_e7185676:
-    "Это означает, что вскоре я стану твердым и напряженным."
+    "Это означает, что вскоре я стану твёрдым и напряжённым."
 
 # ch/audrey/date.rpy:949
 translate russian audrey_date_watch_the_movie_2594231b:
-    "Теперь ее внимание становится еще более интенсивным."
+    "Теперь её внимание становится ещё более интенсивным."
 
 # ch/audrey/date.rpy:950
 translate russian audrey_date_watch_the_movie_af65bc44:
@@ -4526,11 +4526,11 @@ translate russian audrey_date_watch_the_movie_af65bc44:
 
 # ch/audrey/date.rpy:951
 translate russian audrey_date_watch_the_movie_0069692c:
-    "К тому моменту, когда она доберется до кончика, я начинаю прикусывать губу."
+    "К тому моменту, когда она доберётся до кончика, я начинаю прикусывать губу."
 
 # ch/audrey/date.rpy:952
 translate russian audrey_date_watch_the_movie_fd13d043:
-    "И когда она берет его в рот, я чувствую, как мое сердце начинает бешено колотиться в груди."
+    "И когда она берет его в рот, я чувствую, как моё сердце начинает бешено колотиться в груди."
 
 # ch/audrey/date.rpy:953
 translate russian audrey_date_watch_the_movie_3cda0993:
@@ -4538,19 +4538,19 @@ translate russian audrey_date_watch_the_movie_3cda0993:
 
 # ch/audrey/date.rpy:954
 translate russian audrey_date_watch_the_movie_b48bf952:
-    "Ее голова плавно двигается вверх и вниз."
+    "Её голова плавно двигается вверх и вниз."
 
 # ch/audrey/date.rpy:955
 translate russian audrey_date_watch_the_movie_61231bcc:
-    "И она использует свои губы, язык, даже зубы – как настоящий профессионал."
+    "И она использует свои губы, язык, даже зубы — как настоящий профессионал."
 
 # ch/audrey/date.rpy:956
 translate russian audrey_date_watch_the_movie_adc6b292:
-    "Я все еще смотрю фильм, воспринимая все, что происходит на экране."
+    "Я всё ещё смотрю фильм, воспринимая всё, что происходит на экране."
 
 # ch/audrey/date.rpy:957
 translate russian audrey_date_watch_the_movie_52b5d318:
-    "Но при этом я чувствую абсолютно все, что она со мной делает."
+    "Но при этом я чувствую абсолютно всё, что она со мной делает."
 
 # ch/audrey/date.rpy:958
 translate russian audrey_date_watch_the_movie_806ecdf6:
@@ -4562,7 +4562,7 @@ translate russian audrey_date_watch_the_movie_3813d68a:
 
 # ch/audrey/date.rpy:960
 translate russian audrey_date_watch_the_movie_00766fac:
-    "Наверное, я больше дергаюсь и извиваюсь, чем осознаю."
+    "Наверное, я больше дёргаюсь и извиваюсь, чем осознаю."
 
 # ch/audrey/date.rpy:961
 translate russian audrey_date_watch_the_movie_1a61ee82:
@@ -4574,7 +4574,7 @@ translate russian audrey_date_watch_the_movie_89c188fd:
 
 # ch/audrey/date.rpy:964
 translate russian audrey_date_watch_the_movie_6b030ec3:
-    "Мои подозрения подтверждаются мгновение спустя, когда я слышу ее смех."
+    "Мои подозрения подтверждаются мгновение спустя, когда я слышу её смех."
 
 # ch/audrey/date.rpy:966
 translate russian audrey_date_watch_the_movie_1d7c42d6:
@@ -4582,7 +4582,7 @@ translate russian audrey_date_watch_the_movie_1d7c42d6:
 
 # ch/audrey/date.rpy:967
 translate russian audrey_date_watch_the_movie_333e0b45:
-    "Одри наверняка постарается оставаться как можно ниже, чтобы ее не видели."
+    "Одри наверняка постарается оставаться как можно ниже, чтобы её не видели."
 
 # ch/audrey/date.rpy:968
 translate russian audrey_date_watch_the_movie_6edaa4eb:
@@ -4590,7 +4590,7 @@ translate russian audrey_date_watch_the_movie_6edaa4eb:
 
 # ch/audrey/date.rpy:970
 translate russian audrey_date_watch_the_movie_d85045d9:
-    "Прежде чем я пойму, что она пытается сделать, Одри оказывается верхом на мне в моем сиденье."
+    "Прежде чем я пойму, что она пытается сделать, Одри оказывается верхом на мне в моём сиденье."
 
 # ch/audrey/date.rpy:971
 translate russian audrey_date_watch_the_movie_584751dc:
@@ -4598,27 +4598,27 @@ translate russian audrey_date_watch_the_movie_584751dc:
 
 # ch/audrey/date.rpy:974
 translate russian audrey_date_watch_the_movie_19bb1eea:
-    "Затем она сильно прижимает его к своей паховой области, и я понимаю, что она сняла свое нижнее белье!"
+    "Затем она сильно прижимает его к своей паховой области, и я понимаю, что она сняла своё нижнее белье!"
 
 # ch/audrey/date.rpy:975
 translate russian audrey_date_watch_the_movie_b7b3b7d7:
-    "Как ей удалось сделать такое – для меня это загадка."
+    "Как ей удалось сделать такое — для меня это загадка."
 
 # ch/audrey/date.rpy:976
 translate russian audrey_date_watch_the_movie_84a3b26a:
-    "Но это последнее, о чем я думаю сейчас, потому что чувствую, насколько она скользкая!"
+    "Но это последнее, о чём я думаю сейчас, потому что чувствую, насколько она скользкая!"
 
 # ch/audrey/date.rpy:978
 translate russian audrey_date_watch_the_movie_1b5a0809:
-    "Мне требуется всего несколько секунд, чтобы начать двигаться внутри нее."
+    "Мне требуется всего несколько секунд, чтобы начать двигаться внутри неё."
 
 # ch/audrey/date.rpy:979
 translate russian audrey_date_watch_the_movie_a704f217:
-    "Одри еще больше ускоряет процесс, прижимаясь всем своим весом."
+    "Одри ещё больше ускоряет процесс, прижимаясь всем своим весом."
 
 # ch/audrey/date.rpy:980
 translate russian audrey_date_watch_the_movie_8533131f:
-    "Теперь ее голова лежит у меня на плече."
+    "Теперь её голова лежит у меня на плече."
 
 # ch/audrey/date.rpy:981
 translate russian audrey_date_watch_the_movie_095291e9:
@@ -4650,15 +4650,15 @@ translate russian audrey_date_watch_the_movie_eb7ecd0f:
 
 # ch/audrey/date.rpy:991
 translate russian audrey_date_watch_the_movie_729c3e04:
-    "Мои руки тянутся к ней и сжимают ее бедра."
+    "Мои руки тянутся к ней и сжимают её бедра."
 
 # ch/audrey/date.rpy:992
 translate russian audrey_date_watch_the_movie_8bc84186:
-    "Я все еще смотрю на экран, но ничего не могу с собой поделать."
+    "Я всё ещё смотрю на экран, но ничего не могу с собой поделать."
 
 # ch/audrey/date.rpy:995
 translate russian audrey_date_watch_the_movie_4e76cc0d:
-    "Я крепко прижимаю Одри к себе и толкаю ее вниз, продолжая двигаться снизу."
+    "Я крепко прижимаю Одри к себе и толкаю её вниз, продолжая двигаться снизу."
 
 # ch/audrey/date.rpy:996
 translate russian audrey_date_watch_the_movie_521a4161:
@@ -4670,7 +4670,7 @@ translate russian audrey_date_watch_the_movie_f27eeecc:
 
 # ch/audrey/date.rpy:1000
 translate russian audrey_date_watch_the_movie_3ed9507b:
-    "Затем Одри использует свои губы, чтобы целовать мою шею, нежно покусывая и облизывая ее."
+    "Затем Одри использует свои губы, чтобы целовать мою шею, нежно покусывая и облизывая её."
 
 # ch/audrey/date.rpy:1001
 translate russian audrey_date_watch_the_movie_7d125976:
@@ -4678,11 +4678,11 @@ translate russian audrey_date_watch_the_movie_7d125976:
 
 # ch/audrey/date.rpy:1002
 translate russian audrey_date_watch_the_movie_ede86198:
-    "Это быстрый и грубый секс в общественном месте, который становится еще более возбуждающим из-за опасности быть пойманными!"
+    "Это быстрый и грубый секс в общественном месте, который становится ещё более возбуждающим из-за опасности быть пойманными!"
 
 # ch/audrey/date.rpy:1003
 translate russian audrey_date_watch_the_movie_fd7a0102:
-    "Я продолжаю грубо двигаться в Одри, отчаянно желая ее, несмотря ни на что."
+    "Я продолжаю грубо двигаться в Одри, отчаянно желая её, несмотря ни на что."
 
 # ch/audrey/date.rpy:1004
 translate russian audrey_date_watch_the_movie_67dfc006:
@@ -4702,7 +4702,7 @@ translate russian audrey_date_watch_the_movie_65d45986:
 
 # ch/audrey/date.rpy:1018
 translate russian audrey_date_watch_the_movie_317f4980:
-    audrey.say "\"Ммм...\" (используя обращение \"ты\")."
+    audrey.say "«Ммм...» (используя обращение «ты»)."
 
 # ch/audrey/date.rpy:1019
 translate russian audrey_date_watch_the_movie_ac1d8ada:
@@ -4714,7 +4714,7 @@ translate russian audrey_date_watch_the_movie_bc0d3c99:
 
 # ch/audrey/date.rpy:1021
 translate russian audrey_date_watch_the_movie_fd1cb3b7:
-    "Затем она соскальзывает с меня и плюхается на свое сиденье."
+    "Затем она соскальзывает с меня и плюхается на своё сиденье."
 
 # ch/audrey/date.rpy:1023
 translate russian audrey_date_watch_the_movie_25f051fc:
@@ -4738,7 +4738,7 @@ translate russian audrey_date_watch_the_movie_d1ae0d58:
 
 # ch/audrey/date.rpy:1029
 translate russian audrey_date_watch_the_movie_f869a2a5:
-    "И теперь я знаю, что мне нужно сделать, чтобы заставить ее заткнуться в будущем."
+    "И теперь я знаю, что мне нужно сделать, чтобы заставить её заткнуться в будущем."
 
 # ch/audrey/date.rpy:1030
 translate russian audrey_date_watch_the_movie_2526fa1e:
@@ -4750,7 +4750,7 @@ translate russian audrey_go_to_the_gym_8afa1f27:
 
 # ch/audrey/events.rpy:600
 translate russian audrey_go_to_the_gym_c44d6e0a:
-    "Кажется, у них что-то на уме, о чем они очень хотят рассказать, но им не хватает смелости."
+    "Кажется, у них что-то на уме, о чём они очень хотят рассказать, но им не хватает смелости."
 
 # ch/audrey/events.rpy:601
 translate russian audrey_go_to_the_gym_e2a6a3c5:
@@ -4778,7 +4778,7 @@ translate russian audrey_go_to_the_gym_259b0e84:
 
 # ch/audrey/events.rpy:611
 translate russian audrey_go_to_the_gym_0e16171c:
-    "Одри вдруг вздрагивает, вероятно, понимая, что я ее раскусил."
+    "Одри вдруг вздрагивает, вероятно, понимая, что я её раскусил."
 
 # ch/audrey/events.rpy:612
 translate russian audrey_go_to_the_gym_4779b80f:
@@ -4802,7 +4802,7 @@ translate russian audrey_go_to_the_gym_b018ee4a:
 
 # ch/audrey/events.rpy:620
 translate russian audrey_go_to_the_gym_dafff847:
-    audrey.say "Ладно, что угодно - если это заставит тебя оставить меня в покое!"
+    audrey.say "Ладно, что угодно — если это заставит тебя оставить меня в покое!"
 
 # ch/audrey/events.rpy:621
 translate russian audrey_go_to_the_gym_5cf27a67:
@@ -4862,7 +4862,7 @@ translate russian audrey_go_to_the_gym_03fa99be:
 
 # ch/audrey/events.rpy:637
 translate russian audrey_go_to_the_gym_c5c33472:
-    "И, конечно же, это делает все, что сказала Одри, вполне приемлемым, наверное!"
+    "И, конечно же, это делает всё, что сказала Одри, вполне приемлемым, наверное!"
 
 # ch/audrey/events.rpy:638
 translate russian audrey_go_to_the_gym_9b75e77a:
@@ -4874,11 +4874,11 @@ translate russian audrey_go_to_the_gym_8e44e997:
 
 # ch/audrey/events.rpy:640
 translate russian audrey_go_to_the_gym_92599496:
-    "Может быть, Одри все-таки права?"
+    "Может быть, Одри всё-таки права?"
 
 # ch/audrey/events.rpy:641
 translate russian audrey_go_to_the_gym_79ee7ea5:
-    "Но все равно, не стоило говорить об этом так прямо!"
+    "Но всё равно, не стоило говорить об этом так прямо!"
 
 # ch/audrey/events.rpy:642
 translate russian audrey_go_to_the_gym_1b5e3aa1:
@@ -4894,7 +4894,7 @@ translate russian audrey_go_to_the_gym_dfb1bee7:
 
 # ch/audrey/events.rpy:646
 translate russian audrey_go_to_the_gym_b618cf29:
-    "Я смотрю на нее с удивлением, поражаясь тому, что она добавляет еще один критический комментарий к первому."
+    "Я смотрю на неё с удивлением, поражаясь тому, что она добавляет ещё один критический комментарий к первому."
 
 # ch/audrey/events.rpy:647
 translate russian audrey_go_to_the_gym_51fd65b2:
@@ -4902,7 +4902,7 @@ translate russian audrey_go_to_the_gym_51fd65b2:
 
 # ch/audrey/events.rpy:648
 translate russian audrey_go_to_the_gym_1c1de5e2:
-    audrey.say "Ох, пожалуйста - я видела твой повседневный гардероб."
+    audrey.say "Ох, пожалуйста — я видела твой повседневный гардероб."
 
 # ch/audrey/events.rpy:649
 translate russian audrey_go_to_the_gym_443062d4:
@@ -4922,7 +4922,7 @@ translate russian audrey_go_to_the_gym_62da7860:
 
 # ch/audrey/events.rpy:654
 translate russian audrey_go_to_the_gym_8fdd3502:
-    audrey.say "Какой смысл владеть произведением искусства и ставить его в дешевую старую раму?"
+    audrey.say "Какой смысл владеть произведением искусства и ставить его в дешёвую старую раму?"
 
 # ch/audrey/events.rpy:656
 translate russian audrey_go_to_the_gym_52682cff:
@@ -4950,11 +4950,11 @@ translate russian audrey_date_at_home_b1b9e14a:
 
 # ch/audrey/events.rpy:670
 translate russian audrey_date_at_home_2c8c69ec:
-    "А Саша полностью сосредоточена на концерте, который ее группа даст в ближайшие недели."
+    "А Саша полностью сосредоточена на концерте, который её группа даст в ближайшие недели."
 
 # ch/audrey/events.rpy:671
 translate russian audrey_date_at_home_ee8d8067:
-    "Она репетирует в студии до тех пор, пока у нее не покроются пальцы кровью!"
+    "Она репетирует в студии до тех пор, пока у неё не покроются пальцы кровью!"
 
 # ch/audrey/events.rpy:672
 translate russian audrey_date_at_home_cafb529f:
@@ -4966,11 +4966,11 @@ translate russian audrey_date_at_home_a5af3300:
 
 # ch/audrey/events.rpy:674
 translate russian audrey_date_at_home_f9df6bb7:
-    "Но все равно в ней чувствуется некоторая доля недовольства."
+    "Но всё равно в ней чувствуется некоторая доля недовольства."
 
 # ch/audrey/events.rpy:675
 translate russian audrey_date_at_home_5e3fc8ab:
-    "Как будто она делает то, о чем я попросил, но ей это не нравится."
+    "Как будто она делает то, о чём я попросил, но ей это не нравится."
 
 # ch/audrey/events.rpy:676
 translate russian audrey_date_at_home_851cd624:
@@ -4978,7 +4978,7 @@ translate russian audrey_date_at_home_851cd624:
 
 # ch/audrey/events.rpy:677
 translate russian audrey_date_at_home_eefbfca4:
-    "Но я решаю рискнуть и бросить на нее взгляд."
+    "Но я решаю рискнуть и бросить на неё взгляд."
 
 # ch/audrey/events.rpy:679
 translate russian audrey_date_at_home_a01e2e24:
@@ -4986,7 +4986,7 @@ translate russian audrey_date_at_home_a01e2e24:
 
 # ch/audrey/events.rpy:680
 translate russian audrey_date_at_home_e5fda907:
-    "Черт, попался!"
+    "Чёрт, попался!"
 
 # ch/audrey/events.rpy:681
 translate russian audrey_date_at_home_30e74fc5:
@@ -5002,7 +5002,7 @@ translate russian audrey_date_at_home_12de5b37:
 
 # ch/audrey/events.rpy:684
 translate russian audrey_date_at_home_13d84adc:
-    mike.say "Ну...у тебя все хорошо?"
+    mike.say "Ну...у тебя всё хорошо?"
 
 # ch/audrey/events.rpy:685
 translate russian audrey_date_at_home_720bfb25:
@@ -5018,7 +5018,7 @@ translate russian audrey_date_at_home_0cf54e46:
 
 # ch/audrey/events.rpy:689
 translate russian audrey_date_at_home_6e3754ef:
-    audrey.say "Я в порядке – понятно?"
+    audrey.say "Я в порядке — понятно?"
 
 # ch/audrey/events.rpy:690
 translate russian audrey_date_at_home_6e154b71:
@@ -5030,7 +5030,7 @@ translate russian audrey_date_at_home_73071788:
 
 # ch/audrey/events.rpy:693
 translate russian audrey_date_at_home_b8c6bb3b:
-    "Даже если это просто чтобы не говорить \"всё хорошо\" ещё раз."
+    "Даже если это просто чтобы не говорить «всё хорошо» ещё раз."
 
 # ch/audrey/events.rpy:694
 translate russian audrey_date_at_home_0d55aed0:
@@ -5094,7 +5094,7 @@ translate russian audrey_date_at_home_97040067:
 
 # ch/audrey/events.rpy:710
 translate russian audrey_date_at_home_65abb8c5:
-    "И я действительно имею в виду \"наброситься\"!"
+    "И я действительно имею в виду «наброситься»!"
 
 # ch/audrey/events.rpy:711
 translate russian audrey_date_at_home_3faca412:
@@ -5102,7 +5102,7 @@ translate russian audrey_date_at_home_3faca412:
 
 # ch/audrey/events.rpy:713
 translate russian audrey_date_at_home_423e7c9e:
-    "А в следующий – она перекинула ноги через меня и придавила к себе."
+    "А в следующий — она перекинула ноги через меня и придавила к себе."
 
 # ch/audrey/events.rpy:714
 translate russian audrey_date_at_home_4dda1c6b:
@@ -5126,7 +5126,7 @@ translate russian audrey_date_at_home_28a32374:
 
 # ch/audrey/events.rpy:723
 translate russian audrey_date_at_home_3087cf85:
-    "Но это не значит, что я хочу от нее убежать!"
+    "Но это не значит, что я хочу от неё убежать!"
 
 # ch/audrey/events.rpy:724
 translate russian audrey_date_at_home_62337d48:
@@ -5158,7 +5158,7 @@ translate russian audrey_date_at_home_c289860e:
 
 # ch/audrey/events.rpy:733
 translate russian audrey_date_at_home_0d41c19d:
-    "Она расстегивает мою молнию и засовывает руку внутрь, даже не спрашивая разрешения."
+    "Она расстёгивает мою молнию и засовывает руку внутрь, даже не спрашивая разрешения."
 
 # ch/audrey/events.rpy:734
 translate russian audrey_date_at_home_30e8f2cb:
@@ -5174,7 +5174,7 @@ translate russian audrey_date_at_home_9065e255:
 
 # ch/audrey/events.rpy:739
 translate russian audrey_date_at_home_10ebe3ea:
-    mike.say "Черт побери!"
+    mike.say "Чёрт побери!"
 
 # ch/audrey/events.rpy:740
 translate russian audrey_date_at_home_3872c0df:
@@ -5194,7 +5194,7 @@ translate russian audrey_date_at_home_2a7ef1fc:
 
 # ch/audrey/events.rpy:744
 translate russian audrey_date_at_home_95d8f968:
-    "Одри передает мой член из одной руки в другую, двигаясь."
+    "Одри передаёт мой член из одной руки в другую, двигаясь."
 
 # ch/audrey/events.rpy:746
 translate russian audrey_date_at_home_aa7e9fd7:
@@ -5202,11 +5202,11 @@ translate russian audrey_date_at_home_aa7e9fd7:
 
 # ch/audrey/events.rpy:747
 translate russian audrey_date_at_home_e0809178:
-    "Мне кажется, эта поза называется \"обратная ковбойша\" или что-то вроде того."
+    "Мне кажется, эта поза называется «обратная ковбойша» или что-то вроде того."
 
 # ch/audrey/events.rpy:748
 translate russian audrey_date_at_home_7b8d45ec:
-    "Но я и близко не собираюсь ее остановить и расспросить об этом!"
+    "Но я и близко не собираюсь её остановить и расспросить об этом!"
 
 # ch/audrey/events.rpy:751
 translate russian audrey_date_at_home_3ca2f196:
@@ -5238,7 +5238,7 @@ translate russian audrey_date_at_home_d44d9674:
 
 # ch/audrey/events.rpy:762
 translate russian audrey_date_at_home_5dff9673:
-    audrey.say "Чего ты ждешь?"
+    audrey.say "Чего ты ждёшь?"
 
 # ch/audrey/events.rpy:763
 translate russian audrey_date_at_home_e8e63e93:
@@ -5262,7 +5262,7 @@ translate russian audrey_date_at_home_04035e1d:
 
 # ch/audrey/events.rpy:768
 translate russian audrey_date_at_home_f22049f3:
-    "Затем я грубо притягиваю ее вниз и на себя."
+    "Затем я грубо притягиваю её вниз и на себя."
 
 # ch/audrey/events.rpy:769
 translate russian audrey_date_at_home_fee8ceca:
@@ -5274,11 +5274,11 @@ translate russian audrey_date_at_home_c5970b61:
 
 # ch/audrey/events.rpy:773
 translate russian audrey_date_at_home_5e551664:
-    "Одри крепко держит мой член, и направляет его в определенном направлении."
+    "Одри крепко держит мой член, и направляет его в определённом направлении."
 
 # ch/audrey/events.rpy:774
 translate russian audrey_date_at_home_7c9e0b26:
-    "Что, как ни странно, оказывается прямо между ее ног и у нее во влагалище."
+    "Что, как ни странно, оказывается прямо между её ног и у неё во влагалище."
 
 # ch/audrey/events.rpy:775
 translate russian audrey_date_at_home_91d8f558:
@@ -5286,15 +5286,15 @@ translate russian audrey_date_at_home_91d8f558:
 
 # ch/audrey/events.rpy:776
 translate russian audrey_date_at_home_39989f83:
-    "Поэтому, когда я притягиваю Одри вниз, я также двигаюсь вперед."
+    "Поэтому, когда я притягиваю Одри вниз, я также двигаюсь вперёд."
 
 # ch/audrey/events.rpy:777
 translate russian audrey_date_at_home_9767e1f5:
-    "Это означает, что головка моего члена соприкасается с губами ее влагалища."
+    "Это означает, что головка моего члена соприкасается с губами её влагалища."
 
 # ch/audrey/events.rpy:778
 translate russian audrey_date_at_home_aedba66b:
-    "Я мгновенно чувствую, что там у нее все горячо и влажно."
+    "Я мгновенно чувствую, что там у неё все горячо и влажно."
 
 # ch/audrey/events.rpy:779
 translate russian audrey_date_at_home_4ee611aa:
@@ -5302,7 +5302,7 @@ translate russian audrey_date_at_home_4ee611aa:
 
 # ch/audrey/events.rpy:780
 translate russian audrey_date_at_home_4f5b33bc:
-    "(Я, Майк) Вместо этого головка моего члена скользит вверх и по ее губам."
+    "(Я, Майк) Вместо этого головка моего члена скользит вверх и по её губам."
 
 # ch/audrey/events.rpy:781
 translate russian audrey_date_at_home_91aff85c:
@@ -5314,7 +5314,7 @@ translate russian audrey_date_at_home_a63f272d:
 
 # ch/audrey/events.rpy:784
 translate russian audrey_date_at_home_73ab6cea:
-    "Но затем сопротивление исчезает, и я чувствую, как проникаю внутрь нее."
+    "Но затем сопротивление исчезает, и я чувствую, как проникаю внутрь неё."
 
 # ch/audrey/events.rpy:785
 translate russian audrey_date_at_home_e0fe50b7:
@@ -5326,19 +5326,19 @@ translate russian audrey_date_at_home_14a6191a:
 
 # ch/audrey/events.rpy:788
 translate russian audrey_date_at_home_54694b14:
-    audrey.say "Черт!"
+    audrey.say "Чёрт!"
 
 # ch/audrey/events.rpy:789
 translate russian audrey_date_at_home_358565bf:
-    "Сначала кажется, что Одри подталкивает меня так же, как и раньше, когда я еще не был внутри нее."
+    "Сначала кажется, что Одри подталкивает меня так же, как и раньше, когда я ещё не был внутри неё."
 
 # ch/audrey/events.rpy:790
 translate russian audrey_date_at_home_dc632f1f:
-    "(Я, Майк) Но с каждым движением, которое я делаю в ее влагалище, тон ее голоса немного меняется."
+    "(Я, Майк) Но с каждым движением, которое я делаю в её влагалище, тон её голоса немного меняется."
 
 # ch/audrey/events.rpy:791
 translate russian audrey_date_at_home_fb94a0ff:
-    "Вскоре она начинает звучать так, будто ощущения захлестывают ее."
+    "Вскоре она начинает звучать так, будто ощущения захлёстывают её."
 
 # ch/audrey/events.rpy:792
 translate russian audrey_date_at_home_b5bf4dea:
@@ -5382,7 +5382,7 @@ translate russian audrey_date_at_home_73f91373:
 
 # ch/audrey/events.rpy:802
 translate russian audrey_date_at_home_3ada0c29:
-    "Я не могу удержаться от улыбки, наблюдая за тем, как Одри просит еще."
+    "Я не могу удержаться от улыбки, наблюдая за тем, как Одри просит ещё."
 
 # ch/audrey/events.rpy:803
 translate russian audrey_date_at_home_77e04181:
@@ -5398,7 +5398,7 @@ translate russian audrey_date_at_home_1b0a09fb:
 
 # ch/audrey/events.rpy:806
 translate russian audrey_date_at_home_119fedad:
-    "Думаю, технически я все равно даю ей именно то, что она хочет."
+    "Думаю, технически я всё равно даю ей именно то, что она хочет."
 
 # ch/audrey/events.rpy:807
 translate russian audrey_date_at_home_3d027094:
@@ -5426,7 +5426,7 @@ translate russian audrey_date_at_home_4a4af249:
 
 # ch/audrey/events.rpy:814
 translate russian audrey_date_at_home_a330ad42:
-    "Но в то же время ощущения, которые она испытывает, просто слишком сильны для нее."
+    "Но в то же время ощущения, которые она испытывает, просто слишком сильны для неё."
 
 # ch/audrey/events.rpy:815
 translate russian audrey_date_at_home_24ca3cf0:
@@ -5446,7 +5446,7 @@ translate russian audrey_date_at_home_04d90bc8:
 
 # ch/audrey/events.rpy:819
 translate russian audrey_date_at_home_a75ed445:
-    "Сколько еще она будет требовать от меня, прежде чем у нее наступит оргазм?"
+    "Сколько ещё она будет требовать от меня, прежде чем у неё наступит оргазм?"
 
 # ch/audrey/events.rpy:820
 translate russian audrey_date_at_home_c319172f:
@@ -5458,7 +5458,7 @@ translate russian audrey_date_at_home_4bf60cf5:
 
 # ch/audrey/events.rpy:822
 translate russian audrey_date_at_home_50df3c95:
-    "Но через мгновение я понимаю, что ничего из этого не произойдет."
+    "Но через мгновение я понимаю, что ничего из этого не произойдёт."
 
 # ch/audrey/events.rpy:823
 translate russian audrey_date_at_home_8c963ca0:
@@ -5486,7 +5486,7 @@ translate russian audrey_date_at_home_6fbf1de6:
 
 # ch/audrey/events.rpy:834
 translate russian audrey_date_at_home_f684fb24:
-    "Это значит, что она получает все, что я могу ей дать."
+    "Это значит, что она получает всё, что я могу ей дать."
 
 # ch/audrey/events.rpy:835
 translate russian audrey_date_at_home_d45fad48:
@@ -5506,11 +5506,11 @@ translate russian audrey_date_at_home_de3742e8:
 
 # ch/audrey/events.rpy:841
 translate russian audrey_date_at_home_652e5463:
-    "Мне нужно лишь крепко потянуть вниз, а ей – оттолкнуться вверх."
+    "Мне нужно лишь крепко потянуть вниз, а ей — оттолкнуться вверх."
 
 # ch/audrey/events.rpy:843
 translate russian audrey_date_at_home_7c6fd5c6:
-    "В результате мой член вырывается из нее в самый подходящий момент."
+    "В результате мой член вырывается из неё в самый подходящий момент."
 
 # ch/audrey/events.rpy:844
 translate russian audrey_date_at_home_4b86b5a7:
@@ -5518,19 +5518,19 @@ translate russian audrey_date_at_home_4b86b5a7:
 
 # ch/audrey/events.rpy:850
 translate russian audrey_date_at_home_dfe7d524:
-    "Я кончаю, не сдерживаясь ни на йоту, извергая свою сперму на нее."
+    "Я кончаю, не сдерживаясь ни на йоту, извергая свою сперму на неё."
 
 # ch/audrey/events.rpy:852
 translate russian audrey_date_at_home_9f89c596:
-    "Она брызжет на живот Одри, стекая по изгибу ее бедер."
+    "Она брызжет на живот Одри, стекая по изгибу её бёдер."
 
 # ch/audrey/events.rpy:855
 translate russian audrey_date_at_home_5e551664_1:
-    "Одри крепко держит мой член, и направляет его в определенном направлении."
+    "Одри крепко держит мой член, и направляет его в определённом направлении."
 
 # ch/audrey/events.rpy:856
 translate russian audrey_date_at_home_7c9e0b26_1:
-    "Что, как ни странно, оказывается прямо между ее ног и у нее во влагалище."
+    "Что, как ни странно, оказывается прямо между её ног и у неё во влагалище."
 
 # ch/audrey/events.rpy:857
 translate russian audrey_date_at_home_82e497b6:
@@ -5542,7 +5542,7 @@ translate russian audrey_date_at_home_1bb3845b:
 
 # ch/audrey/events.rpy:859
 translate russian audrey_date_at_home_caadcf4a:
-    "Это означает, что головка моего члена плотно застряла между щеками ее ягодиц."
+    "Это означает, что головка моего члена плотно застряла между щеками её ягодиц."
 
 # ch/audrey/events.rpy:860
 translate russian audrey_date_at_home_c8faf0d1:
@@ -5550,11 +5550,11 @@ translate russian audrey_date_at_home_c8faf0d1:
 
 # ch/audrey/events.rpy:861
 translate russian audrey_date_at_home_0e4ad27e:
-    "Но все равно я крепко держу Одри и продолжаю двигаться дальше."
+    "Но всё равно я крепко держу Одри и продолжаю двигаться дальше."
 
 # ch/audrey/events.rpy:862
 translate russian audrey_date_at_home_24f1f0e1:
-    "Теперь я чувствую, как головка моего члена давит, чтобы проникнуть в ее задницу."
+    "Теперь я чувствую, как головка моего члена давит, чтобы проникнуть в её задницу."
 
 # ch/audrey/events.rpy:863
 translate russian audrey_date_at_home_91aff85c_1:
@@ -5578,7 +5578,7 @@ translate russian audrey_date_at_home_14a6191a_1:
 
 # ch/audrey/events.rpy:869
 translate russian audrey_date_at_home_54694b14_1:
-    audrey.say "Черт!"
+    audrey.say "Чёрт!"
 
 # ch/audrey/events.rpy:871
 translate russian audrey_date_at_home_d7db15e3:
@@ -5590,11 +5590,11 @@ translate russian audrey_date_at_home_00fdcf6e:
 
 # ch/audrey/events.rpy:874
 translate russian audrey_date_at_home_dd66a819:
-    "Но с каждым миллиметром, который я проникаю внутрь, ее голос становится немного другим."
+    "Но с каждым миллиметром, который я проникаю внутрь, её голос становится немного другим."
 
 # ch/audrey/events.rpy:875
 translate russian audrey_date_at_home_fb94a0ff_1:
-    "Вскоре она начинает звучать так, будто ощущения захлестывают ее."
+    "Вскоре она начинает звучать так, будто ощущения захлёстывают её."
 
 # ch/audrey/events.rpy:876
 translate russian audrey_date_at_home_b5bf4dea_1:
@@ -5630,7 +5630,7 @@ translate russian audrey_date_at_home_93ff8af4:
 
 # ch/audrey/events.rpy:885
 translate russian audrey_date_at_home_640c6a73_1:
-    audrey.say "Д… да!"
+    audrey.say "Д... да!"
 
 # ch/audrey/events.rpy:886
 translate russian audrey_date_at_home_60151292_1:
@@ -5638,11 +5638,11 @@ translate russian audrey_date_at_home_60151292_1:
 
 # ch/audrey/events.rpy:887
 translate russian audrey_date_at_home_73f91373_1:
-    audrey.say "П… пожалуйста…"
+    audrey.say "П... пожалуйста..."
 
 # ch/audrey/events.rpy:888
 translate russian audrey_date_at_home_3ada0c29_1:
-    "Я не могу удержаться от улыбки, наблюдая за тем, как Одри просит еще."
+    "Я не могу удержаться от улыбки, наблюдая за тем, как Одри просит ещё."
 
 # ch/audrey/events.rpy:889
 translate russian audrey_date_at_home_77e04181_1:
@@ -5658,7 +5658,7 @@ translate russian audrey_date_at_home_1b0a09fb_1:
 
 # ch/audrey/events.rpy:892
 translate russian audrey_date_at_home_119fedad_1:
-    "Думаю, технически я все равно даю ей именно то, что она хочет."
+    "Думаю, технически я всё равно даю ей именно то, что она хочет."
 
 # ch/audrey/events.rpy:893
 translate russian audrey_date_at_home_3d027094_1:
@@ -5686,7 +5686,7 @@ translate russian audrey_date_at_home_4a4af249_1:
 
 # ch/audrey/events.rpy:900
 translate russian audrey_date_at_home_a330ad42_1:
-    "Но в то же время ощущения, которые она испытывает, просто слишком сильны для нее."
+    "Но в то же время ощущения, которые она испытывает, просто слишком сильны для неё."
 
 # ch/audrey/events.rpy:901
 translate russian audrey_date_at_home_24ca3cf0_1:
@@ -5706,7 +5706,7 @@ translate russian audrey_date_at_home_04d90bc8_1:
 
 # ch/audrey/events.rpy:905
 translate russian audrey_date_at_home_a75ed445_1:
-    "Сколько еще она будет требовать от меня, прежде чем у нее наступит оргазм?"
+    "Сколько ещё она будет требовать от меня, прежде чем у неё наступит оргазм?"
 
 # ch/audrey/events.rpy:906
 translate russian audrey_date_at_home_c319172f_1:
@@ -5718,7 +5718,7 @@ translate russian audrey_date_at_home_4bf60cf5_1:
 
 # ch/audrey/events.rpy:908
 translate russian audrey_date_at_home_50df3c95_1:
-    "Но через мгновение я понимаю, что ничего из этого не произойдет."
+    "Но через мгновение я понимаю, что ничего из этого не произойдёт."
 
 # ch/audrey/events.rpy:909
 translate russian audrey_date_at_home_8c963ca0_1:
@@ -5746,7 +5746,7 @@ translate russian audrey_date_at_home_6fbf1de6_1:
 
 # ch/audrey/events.rpy:920
 translate russian audrey_date_at_home_f684fb24_1:
-    "Это значит, что она получает все, что я могу ей дать."
+    "Это значит, что она получает всё, что я могу ей дать."
 
 # ch/audrey/events.rpy:921
 translate russian audrey_date_at_home_d0da310d:
@@ -5766,11 +5766,11 @@ translate russian audrey_date_at_home_de3742e8_1:
 
 # ch/audrey/events.rpy:927
 translate russian audrey_date_at_home_652e5463_1:
-    "Мне нужно лишь крепко потянуть вниз, а ей – оттолкнуться вверх."
+    "Мне нужно лишь крепко потянуть вниз, а ей — оттолкнуться вверх."
 
 # ch/audrey/events.rpy:929
 translate russian audrey_date_at_home_7c6fd5c6_1:
-    "В результате мой член вырывается из нее в самый подходящий момент."
+    "В результате мой член вырывается из неё в самый подходящий момент."
 
 # ch/audrey/events.rpy:930
 translate russian audrey_date_at_home_4b86b5a7_1:
@@ -5778,11 +5778,11 @@ translate russian audrey_date_at_home_4b86b5a7_1:
 
 # ch/audrey/events.rpy:935
 translate russian audrey_date_at_home_dfe7d524_1:
-    "Я кончаю, не сдерживаясь ни на йоту, извергая свою сперму на нее."
+    "Я кончаю, не сдерживаясь ни на йоту, извергая свою сперму на неё."
 
 # ch/audrey/events.rpy:937
 translate russian audrey_date_at_home_9f89c596_1:
-    "Она брызжет на живот Одри, стекая по изгибу ее бедер."
+    "Она брызжет на живот Одри, стекая по изгибу её бёдер."
 
 # ch/audrey/events.rpy:941
 translate russian audrey_date_at_home_a53ae33d:
@@ -5794,7 +5794,7 @@ translate russian audrey_date_at_home_bd7d0441:
 
 # ch/audrey/events.rpy:943
 translate russian audrey_date_at_home_cfd37acf:
-    "Я знаю, что должен сказать ей надеть одежду, вдруг кто-нибудь войдет."
+    "Я знаю, что должен сказать ей надеть одежду, вдруг кто-нибудь войдёт."
 
 # ch/audrey/events.rpy:944
 translate russian audrey_date_at_home_fface287:
@@ -5818,7 +5818,7 @@ translate russian audrey_spanking_2_124b20f1:
 
 # ch/audrey/events.rpy:956
 translate russian audrey_spanking_2_00e564be:
-    "Но однажды её нигде не было видно, и мне пришлось прибегнуть к отчаянной мере – попросить Одри сделать это вместо неё."
+    "Но однажды её нигде не было видно, и мне пришлось прибегнуть к отчаянной мере — попросить Одри сделать это вместо неё."
 
 # ch/audrey/events.rpy:957
 translate russian audrey_spanking_2_ce2b0ab6:
@@ -5826,15 +5826,15 @@ translate russian audrey_spanking_2_ce2b0ab6:
 
 # ch/audrey/events.rpy:959
 translate russian audrey_spanking_2_9631afa9:
-    mike.say "ТОЙ – заходи в мой кабинет... СЕЙЧАС!"
+    mike.say "ТОЙ — заходи в мой кабинет... СЕЙЧАС!"
 
 # ch/audrey/events.rpy:961
 translate russian audrey_spanking_2_c8170798:
-    mike.say "ОДРИ – заходи в мой кабинет... СЕЙЧАС!"
+    mike.say "ОДРИ — заходи в мой кабинет... СЕЙЧАС!"
 
 # ch/audrey/events.rpy:963
 translate russian audrey_spanking_2_25d3dff9:
-    "Несмотря на то, что я кричу во весь голос и явно раздражен, Одри не спеша заходит в мой кабинет."
+    "Несмотря на то, что я кричу во весь голос и явно раздражён, Одри не спеша заходит в мой кабинет."
 
 # ch/audrey/events.rpy:964
 translate russian audrey_spanking_2_cec3f547:
@@ -5890,7 +5890,7 @@ translate russian audrey_spanking_2_ddc3f628:
 
 # ch/audrey/events.rpy:982
 translate russian audrey_spanking_2_36716acb:
-    mike.say "Например, я думаю, что клиент не будет слишком впечатлен этой частью."
+    mike.say "Например, я думаю, что клиент не будет слишком впечатлён этой частью."
 
 # ch/audrey/events.rpy:983
 translate russian audrey_spanking_2_99a0f045:
@@ -5910,11 +5910,11 @@ translate russian audrey_spanking_2_a5375d72:
 
 # ch/audrey/events.rpy:988
 translate russian audrey_spanking_2_a3be3ffd:
-    "В этот момент мне приходится сдерживаться, чтобы не сказать что-нибудь, о чем я потом пожалею."
+    "В этот момент мне приходится сдерживаться, чтобы не сказать что-нибудь, о чём я потом пожалею."
 
 # ch/audrey/events.rpy:989
 translate russian audrey_spanking_2_a4b42477:
-    "Не только она намеренно поставила меня в неловкое положение, но теперь еще и насмехается надо мной за то, что я попросил ее записать письмо!"
+    "Не только она намеренно поставила меня в неловкое положение, но теперь ещё и насмехается надо мной за то, что я попросил её записать письмо!"
 
 # ch/audrey/events.rpy:990
 translate russian audrey_spanking_2_ffde1530:
@@ -5922,7 +5922,7 @@ translate russian audrey_spanking_2_ffde1530:
 
 # ch/audrey/events.rpy:991
 translate russian audrey_spanking_2_e63563f1:
-    "Но когда я открываю глаза, Одри все еще стоит там, с тем же самым видом наивности, едва скрывающим самодовольство."
+    "Но когда я открываю глаза, Одри всё ещё стоит там, с тем же самым видом наивности, едва скрывающим самодовольство."
 
 # ch/audrey/events.rpy:992
 translate russian audrey_spanking_2_80827b6b:
@@ -5938,7 +5938,7 @@ translate russian audrey_spanking_2_74fcc669:
 
 # ch/audrey/events.rpy:996
 translate russian audrey_spanking_2_fd871fd4:
-    "Я должен был бы возвыситься над всей этой мелочью, просто отругать ее и затем сообщить об этом в отдел кадров."
+    "Я должен был бы возвыситься над всей этой мелочью, просто отругать её и затем сообщить об этом в отдел кадров."
 
 # ch/audrey/events.rpy:997
 translate russian audrey_spanking_2_41ec6f8e:
@@ -5946,7 +5946,7 @@ translate russian audrey_spanking_2_41ec6f8e:
 
 # ch/audrey/events.rpy:998
 translate russian audrey_spanking_2_1a84daf1:
-    "И я также знаю, что становлюсь все ближе к тому, чтобы сдаться и позволить ей сделать то же самое."
+    "И я также знаю, что становлюсь всё ближе к тому, чтобы сдаться и позволить ей сделать то же самое."
 
 # ch/audrey/events.rpy:999
 translate russian audrey_spanking_2_3b6fa4d6:
@@ -5970,7 +5970,7 @@ translate russian audrey_spanking_2_1b02b62a:
 
 # ch/audrey/events.rpy:1006
 translate russian audrey_spanking_2_b63d6d3d:
-    "Затем она ложится поперек моих бедер, поворачиваясь назад через плечо с тем же наигранным невинным видом."
+    "Затем она ложится поперёк моих бёдер, поворачиваясь назад через плечо с тем же наигранным невинным видом."
 
 # ch/audrey/events.rpy:1007
 translate russian audrey_spanking_2_e96a7ee9:
@@ -5978,11 +5978,11 @@ translate russian audrey_spanking_2_e96a7ee9:
 
 # ch/audrey/events.rpy:1008
 translate russian audrey_spanking_2_03cf7e3c:
-    audrey.say "Значит, тебе придется меня наказать... так, правда?"
+    audrey.say "Значит, тебе придётся меня наказать... так, правда?"
 
 # ch/audrey/events.rpy:1009
 translate russian audrey_spanking_2_71d208b8:
-    "Я делаю глубокий вдох, уже неспособный сосредоточиться ни на чем, кроме веса ее тела у меня на коленях."
+    "Я делаю глубокий вдох, уже неспособный сосредоточиться ни на чём, кроме веса её тела у меня на коленях."
 
 # ch/audrey/events.rpy:1010
 translate russian audrey_spanking_2_53f3fbb0:
@@ -6002,7 +6002,7 @@ translate russian audrey_spanking_2_5fde7f55:
 
 # ch/audrey/events.rpy:1016
 translate russian audrey_spanking_2_0e1bb855:
-    "Отодвинув юбку Одри, чтобы обнажить ее ягодицы, я быстро выполняю следующее действие: хватаю за пояс ее трусиков и резко стягиваю их вниз."
+    "Отодвинув юбку Одри, чтобы обнажить её ягодицы, я быстро выполняю следующее действие: хватаю за пояс её трусиков и резко стягиваю их вниз."
 
 # ch/audrey/events.rpy:1018
 translate russian audrey_spanking_2_7323484b:
@@ -6010,7 +6010,7 @@ translate russian audrey_spanking_2_7323484b:
 
 # ch/audrey/events.rpy:1019
 translate russian audrey_spanking_2_6d6a9f04:
-    "Это только усиливает мое желание воплотить эту идею в жизнь, и я быстро хлопаю ее обнаженную задницу, чтобы разогреть атмосферу."
+    "Это только усиливает моё желание воплотить эту идею в жизнь, и я быстро хлопаю её обнажённую задницу, чтобы разогреть атмосферу."
 
 # ch/audrey/events.rpy:1025
 translate russian audrey_spanking_2_5359dd39:
@@ -6018,19 +6018,19 @@ translate russian audrey_spanking_2_5359dd39:
 
 # ch/audrey/events.rpy:1031
 translate russian audrey_spanking_2_5e2411ec:
-    "Но все равно, щеки Одри вскоре краснеют так же сильно, как и ее ягодицы."
+    "Но всё равно, щеки Одри вскоре краснеют так же сильно, как и её ягодицы."
 
 # ch/audrey/events.rpy:1037
 translate russian audrey_spanking_2_6cef2a18:
-    "По мере того, как я увеличиваю интенсивность ударов, я слышу, как она начинает стонать от прикосновения моей руки к ее ягодицам."
+    "По мере того, как я увеличиваю интенсивность ударов, я слышу, как она начинает стонать от прикосновения моей руки к её ягодицам."
 
 # ch/audrey/events.rpy:1043
 translate russian audrey_spanking_2_51360c73:
-    "Одри извивается и корчится, пока я продолжаю ее шлепать, прижимаясь ко мне в пах."
+    "Одри извивается и корчится, пока я продолжаю её шлёпать, прижимаясь ко мне в пах."
 
 # ch/audrey/events.rpy:1044
 translate russian audrey_spanking_2_b69dbe7d:
-    "Это заставляет меня надеяться, что мне не придется срочно вставать и покидать офис."
+    "Это заставляет меня надеяться, что мне не придётся срочно вставать и покидать офис."
 
 # ch/audrey/events.rpy:1045
 translate russian audrey_spanking_2_17454bb3:
@@ -6054,7 +6054,7 @@ translate russian audrey_spanking_2_01160c6e:
 
 # ch/audrey/events.rpy:1052
 translate russian audrey_spanking_2_09afbb8a:
-    "Я поднимаю голову в ужасе и вижу, как Шиори стоит в дверях, ее лицо выражает крайнее удивление от того, что она увидела."
+    "Я поднимаю голову в ужасе и вижу, как Шиори стоит в дверях, её лицо выражает крайнее удивление от того, что она увидела."
 
 # ch/audrey/events.rpy:1053
 translate russian audrey_spanking_2_8a9830a3:
@@ -6066,7 +6066,7 @@ translate russian audrey_spanking_2_6a612c2e:
 
 # ch/audrey/events.rpy:1056
 translate russian audrey_spanking_2_5f641644:
-    "Что это может быть еще, кроме того, что мы видим?"
+    "Что это может быть ещё, кроме того, что мы видим?"
 
 # ch/audrey/events.rpy:1057
 translate russian audrey_spanking_2_a46dbe3f:
@@ -6082,7 +6082,7 @@ translate russian audrey_spanking_2_46b78477:
 
 # ch/audrey/events.rpy:1061
 translate russian audrey_spanking_2_302b2f3a:
-    "Но моя рука, которая оказалась на ягодицах Одри, чуть между ее щеками, вдруг делает любопытное открытие."
+    "Но моя рука, которая оказалась на ягодицах Одри, чуть между её щеками, вдруг делает любопытное открытие."
 
 # ch/audrey/events.rpy:1063
 translate russian audrey_spanking_2_2d881834:
@@ -6094,11 +6094,11 @@ translate russian audrey_spanking_2_671901bc:
 
 # ch/audrey/events.rpy:1067
 translate russian audrey_spanking_2_c314870b:
-    "До этого момента я был полностью сосредоточен на том, чтобы шлепать Одри по ягодицам, настолько, что игнорировал всё остальное."
+    "До этого момента я был полностью сосредоточен на том, чтобы шлёпать Одри по ягодицам, настолько, что игнорировал всё остальное."
 
 # ch/audrey/events.rpy:1068
 translate russian audrey_spanking_2_410adc6a:
-    "Но теперь я невольно провожу пальцем по краям ее влагалища, чувствуя, насколько соблазнительно оно стало влажным."
+    "Но теперь я невольно провожу пальцем по краям её влагалища, чувствуя, насколько соблазнительно оно стало влажным."
 
 # ch/audrey/events.rpy:1069
 translate russian audrey_spanking_2_28fccec9:
@@ -6106,11 +6106,11 @@ translate russian audrey_spanking_2_28fccec9:
 
 # ch/audrey/events.rpy:1071
 translate russian audrey_spanking_2_ff597342:
-    "Одри реагирует на этот неожиданный поворот событий, задыхаясь, а затем начинает дергаться и извиваться."
+    "Одри реагирует на этот неожиданный поворот событий, задыхаясь, а затем начинает дёргаться и извиваться."
 
 # ch/audrey/events.rpy:1072
 translate russian audrey_spanking_2_2c345747:
-    "То, что она делает это у меня на коленях, – это нечто особенное, и я просто не могу удержаться от того, чтобы медленно ввести палец внутрь."
+    "То, что она делает это у меня на коленях, — это нечто особенное, и я просто не могу удержаться от того, чтобы медленно ввести палец внутрь."
 
 # ch/audrey/events.rpy:1074
 translate russian audrey_spanking_2_15cf885c:
@@ -6118,15 +6118,15 @@ translate russian audrey_spanking_2_15cf885c:
 
 # ch/audrey/events.rpy:1075
 translate russian audrey_spanking_2_258dd887:
-    "Как будто сочетание того, что ее видели без трусиков, и теперь ее трогают пальцем, оказалось слишком сильным, она начинает подергиваться у меня на коленях."
+    "Как будто сочетание того, что её видели без трусиков, и теперь её трогают пальцем, оказалось слишком сильным, она начинает подёргиваться у меня на коленях."
 
 # ch/audrey/events.rpy:1077
 translate russian audrey_spanking_2_2288ba33:
-    "Когда кульминация наконец настигает ее, Одри тяжело дышит и стонет из-за спазмов в ее влагалище, которое выставлено напоказ и не может спрятаться ради сохранения ее достоинства."
+    "Когда кульминация наконец настигает её, Одри тяжело дышит и стонет из-за спазмов в её влагалище, которое выставлено напоказ и не может спрятаться ради сохранения её достоинства."
 
 # ch/audrey/events.rpy:1079
 translate russian audrey_spanking_2_8cf1d901:
-    "Я думаю, что Одри ожидает, что я либо продолжу шлепать ее по ягодицам, либо воспользуюсь ее обнаженным влагалищем."
+    "Я думаю, что Одри ожидает, что я либо продолжу шлёпать её по ягодицам, либо воспользуюсь её обнажённым влагалищем."
 
 # ch/audrey/events.rpy:1080
 translate russian audrey_spanking_2_b927239e:
@@ -6134,23 +6134,23 @@ translate russian audrey_spanking_2_b927239e:
 
 # ch/audrey/events.rpy:1082
 translate russian audrey_spanking_2_755a194b:
-    "Вместо этого я раздвигаю ее ягодицы и твердо ввожу палец в ее анус, наслаждаясь тем, как он дергается и пытается сопротивляться мне."
+    "Вместо этого я раздвигаю её ягодицы и твёрдо ввожу палец в её анус, наслаждаясь тем, как он дёргается и пытается сопротивляться мне."
 
 # ch/audrey/events.rpy:1083
 translate russian audrey_spanking_2_be479ee9:
-    "Отражая реакцию мышц ее сфинктера, Одри издает крик испуга и пытается понять, что я с ней делаю."
+    "Отражая реакцию мышц её сфинктера, Одри издаёт крик испуга и пытается понять, что я с ней делаю."
 
 # ch/audrey/events.rpy:1084
 translate russian audrey_spanking_2_9939618a:
-    "Но она не в состоянии оказать какое-либо сопротивление, и я легко удерживаю ее, продолжая вдавливать палец еще глубже."
+    "Но она не в состоянии оказать какое-либо сопротивление, и я легко удерживаю её, продолжая вдавливать палец ещё глубже."
 
 # ch/audrey/events.rpy:1085
 translate russian audrey_spanking_2_a8b0d643:
-    "Постепенно стоны боли, которые издает Одри, переходят в приглушенные звуки принятия и подчинения, когда она чувствует, как я проникаю настолько глубоко, насколько это возможно."
+    "Постепенно стоны боли, которые издаёт Одри, переходят в приглушённые звуки принятия и подчинения, когда она чувствует, как я проникаю настолько глубоко, насколько это возможно."
 
 # ch/audrey/events.rpy:1086
 translate russian audrey_spanking_2_b56e2cc9:
-    "Заинтригованный тем, насколько податлива ее задница, я ввожу еще один палец, а затем и третий, и каждый раз слышу усиление ее стонов."
+    "Заинтригованный тем, насколько податлива её задница, я ввожу ещё один палец, а затем и третий, и каждый раз слышу усиление её стонов."
 
 # ch/audrey/events.rpy:1088
 translate russian audrey_spanking_2_b465bd5b:
@@ -6158,11 +6158,11 @@ translate russian audrey_spanking_2_b465bd5b:
 
 # ch/audrey/events.rpy:1089
 translate russian audrey_spanking_2_3fc90b56:
-    "Затем, прежде чем я успеваю подумать о том, чтобы ввести еще один палец, она начинает дергаться и судорожно вздрагивать."
+    "Затем, прежде чем я успеваю подумать о том, чтобы ввести ещё один палец, она начинает дёргаться и судорожно вздрагивать."
 
 # ch/audrey/events.rpy:1091
 translate russian audrey_spanking_2_7897f7c0:
-    "Я не знаю точно, что заставляет ее так реагировать на этот раз, но она достигает оргазма, и большая часть моих пальцев глубоко находится внутри ее задницы."
+    "Я не знаю точно, что заставляет её так реагировать на этот раз, но она достигает оргазма, и большая часть моих пальцев глубоко находится внутри её задницы."
 
 # ch/audrey/events.rpy:1093
 translate russian audrey_spanking_2_97c6f313:
@@ -6170,19 +6170,19 @@ translate russian audrey_spanking_2_97c6f313:
 
 # ch/audrey/events.rpy:1099
 translate russian audrey_spanking_2_76efc787:
-    "Но одного мощного удара моей ладони по ее уже покрасневшей и опухшей ягодице достаточно, чтобы развеять любые подобные иллюзии."
+    "Но одного мощного удара моей ладони по её уже покрасневшей и опухшей ягодице достаточно, чтобы развеять любые подобные иллюзии."
 
 # ch/audrey/events.rpy:1100
 translate russian audrey_spanking_2_1020c788:
-    "Если говорить о том, Одри начинает еще громче визжать и стонать, чем раньше, теперь, когда шлепки возобновились."
+    "Если говорить о том, Одри начинает ещё громче визжать и стонать, чем раньше, теперь, когда шлепки возобновились."
 
 # ch/audrey/events.rpy:1101
 translate russian audrey_spanking_2_ee45fe78:
-    "Фактически, она становится настолько шумной, что я начинаю серьезно беспокоиться о том, что кто-нибудь услышит ее и придет проверить, что происходит."
+    "Фактически, она становится настолько шумной, что я начинаю серьёзно беспокоиться о том, что кто-нибудь услышит её и придёт проверить, что происходит."
 
 # ch/audrey/events.rpy:1102
 translate russian audrey_spanking_2_f29c18ee:
-    "Единственный выбор, который у меня кажется, есть между тем, чтобы полностью остановиться или продолжать с еще большей энергией."
+    "Единственный выбор, который у меня кажется, есть между тем, чтобы полностью остановиться или продолжать с ещё большей энергией."
 
 # ch/audrey/events.rpy:1108
 translate russian audrey_spanking_2_07221114:
@@ -6190,7 +6190,7 @@ translate russian audrey_spanking_2_07221114:
 
 # ch/audrey/events.rpy:1109
 translate russian audrey_spanking_2_6eb3932f:
-    "Клянусь, я почти могу видеть, как волны расходятся от каждого удара моей ладони в замедленной съемке."
+    "Клянусь, я почти могу видеть, как волны расходятся от каждого удара моей ладони в замедленной съёмке."
 
 # ch/audrey/events.rpy:1110
 translate russian audrey_spanking_2_75712e1d:
@@ -6202,27 +6202,27 @@ translate russian audrey_spanking_2_39f47d8e:
 
 # ch/audrey/events.rpy:1117
 translate russian audrey_spanking_2_e61d7075:
-    "С покрасневшим лицом и задыхаясь почти отчаянно, я не уверен, что она сможет выдержать еще это."
+    "С покрасневшим лицом и задыхаясь почти отчаянно, я не уверен, что она сможет выдержать ещё это."
 
 # ch/audrey/events.rpy:1123
 translate russian audrey_spanking_2_8167b16f:
-    "Я даю ей последний, эпический по силе шлепок, а затем оставляю ее, тяжело дышащую и вспотевшую на моих коленях."
+    "Я даю ей последний, эпический по силе шлепок, а затем оставляю её, тяжело дышащую и вспотевшую на моих коленях."
 
 # ch/audrey/events.rpy:1132
 translate russian audrey_spanking_1_76309610:
-    "Моя работа никогда не была самой легкой частью моей повседневной жизни, или той, которая вызывала у меня меньше всего стресса на регулярной основе."
+    "Моя работа никогда не была самой лёгкой частью моей повседневной жизни, или той, которая вызывала у меня меньше всего стресса на регулярной основе."
 
 # ch/audrey/events.rpy:1133
 translate russian audrey_spanking_1_407ed898:
-    "Но хотя бы она имеет одно хорошее качество – она позволяет мне зарабатывать достаточно денег, чтобы иметь крышу над головой и холодильник, полный еды."
+    "Но хотя бы она имеет одно хорошее качество — она позволяет мне зарабатывать достаточно денег, чтобы иметь крышу над головой и холодильник, полный еды."
 
 # ch/audrey/events.rpy:1134
 translate russian audrey_spanking_1_1d19775d:
-    "Просто в последнее время кажется, что все стало намного сложнее в офисе."
+    "Просто в последнее время кажется, что всё стало намного сложнее в офисе."
 
 # ch/audrey/events.rpy:1135
 translate russian audrey_spanking_1_b1f185b2:
-    "Как будто что-то активно работает против меня, делая мою повседневную рутину еще более трудной."
+    "Как будто что-то активно работает против меня, делая мою повседневную рутину ещё более трудной."
 
 # ch/audrey/events.rpy:1137
 translate russian audrey_spanking_1_d148fd5c:
@@ -6278,7 +6278,7 @@ translate russian audrey_spanking_1_ef606506:
 
 # ch/audrey/events.rpy:1152
 translate russian audrey_spanking_1_8739913d:
-    mike.say "Конечно, я помню! Каждое письмо, которое клиент утверждал, что отправил, словно исчезало в черной дыре!"
+    mike.say "Конечно, я помню! Каждое письмо, которое клиент утверждал, что отправил, словно исчезало в чёрной дыре!"
 
 # ch/audrey/events.rpy:1154
 translate russian audrey_spanking_1_ed456ca6:
@@ -6310,11 +6310,11 @@ translate russian audrey_spanking_1_6f14d5cf:
 
 # ch/audrey/events.rpy:1162
 translate russian audrey_spanking_1_edaf2cfe:
-    aletta.say "И я поймала ее с поличным – она выбрасывала всю корреспонденцию для этого дела в шредер."
+    aletta.say "И я поймала её с поличным — она выбрасывала всю корреспонденцию для этого дела в шредер."
 
 # ch/audrey/events.rpy:1164
 translate russian audrey_spanking_1_40dd3e01:
-    "Пытаясь взять себя в руки, я поднимаю трубку телефона на своем столе и набираю номер внутреннего номера Одри."
+    "Пытаясь взять себя в руки, я поднимаю трубку телефона на своём столе и набираю номер внутреннего номера Одри."
 
 # ch/audrey/events.rpy:1165
 translate russian audrey_spanking_1_13b46548:
@@ -6334,11 +6334,11 @@ translate russian audrey_spanking_1_588916eb:
 
 # ch/audrey/events.rpy:1169
 translate russian audrey_spanking_1_fff83ef5:
-    "Ей достаточно одного взгляда на мое сдержанное выражение лица и самодовольную улыбку Алетты, чтобы понять, что она попала в очень серьезную передрягу."
+    "Ей достаточно одного взгляда на моё сдержанное выражение лица и самодовольную улыбку Алетты, чтобы понять, что она попала в очень серьёзную передрягу."
 
 # ch/audrey/events.rpy:1172
 translate russian audrey_spanking_1_f6735557:
-    "Хотя, надо отдать ей должное, она все равно пытается казаться не знающей, что происходит."
+    "Хотя, надо отдать ей должное, она всё равно пытается казаться не знающей, что происходит."
 
 # ch/audrey/events.rpy:1173
 translate russian audrey_spanking_1_302c4983:
@@ -6346,7 +6346,7 @@ translate russian audrey_spanking_1_302c4983:
 
 # ch/audrey/events.rpy:1175
 translate russian audrey_spanking_1_ab68f668:
-    "Алетте просто невозможно удержаться и она внезапно смеется над показной наивностью другой девушки."
+    "Алетте просто невозможно удержаться и она внезапно смеётся над показной наивностью другой девушки."
 
 # ch/audrey/events.rpy:1176
 translate russian audrey_spanking_1_dad73ecf:
@@ -6354,7 +6354,7 @@ translate russian audrey_spanking_1_dad73ecf:
 
 # ch/audrey/events.rpy:1178
 translate russian audrey_spanking_1_5427ffce:
-    "Я быстро бросила взгляд на Алетту, поймав ее глаза."
+    "Я быстро бросила взгляд на Алетту, поймав её глаза."
 
 # ch/audrey/events.rpy:1182
 translate russian audrey_spanking_1_722236dc:
@@ -6362,7 +6362,7 @@ translate russian audrey_spanking_1_722236dc:
 
 # ch/audrey/events.rpy:1183
 translate russian audrey_spanking_1_2d2c34fd:
-    "Но что-то в этом самодовольном выражении на ее лице сейчас возбуждает меня так же сильно, как и мысль о том, чтобы шлепать Одри."
+    "Но что-то в этом самодовольном выражении на её лице сейчас возбуждает меня так же сильно, как и мысль о том, чтобы шлёпать Одри."
 
 # ch/audrey/events.rpy:1184
 translate russian audrey_spanking_1_8d4871b7:
@@ -6378,11 +6378,11 @@ translate russian audrey_spanking_1_69e74a6f:
 
 # ch/audrey/events.rpy:1187
 translate russian audrey_spanking_1_c42cc34a:
-    "Пока Одри крадется к указанному месту, Алетта выглядит шокированной."
+    "Пока Одри крадётся к указанному месту, Алетта выглядит шокированной."
 
 # ch/audrey/events.rpy:1188
 translate russian audrey_spanking_1_92312498:
-    "Но я не могу понять, больше ли она удивлена тем, что я собираюсь шлепать Одри, или тем, что я пригласила ее посмотреть."
+    "Но я не могу понять, больше ли она удивлена тем, что я собираюсь шлёпать Одри, или тем, что я пригласила её посмотреть."
 
 # ch/audrey/events.rpy:1189
 translate russian audrey_spanking_1_9139ac1c:
@@ -6398,7 +6398,7 @@ translate russian audrey_spanking_1_d96dd660:
 
 # ch/audrey/events.rpy:1194
 translate russian audrey_spanking_1_0c9274fe:
-    "Но проблема в том, что наказание, которое я задумал, немного более экстремальное и определенно более физическое."
+    "Но проблема в том, что наказание, которое я задумал, немного более экстремальное и определённо более физическое."
 
 # ch/audrey/events.rpy:1195
 translate russian audrey_spanking_1_75a78568:
@@ -6450,15 +6450,15 @@ translate russian audrey_spanking_1_f1398f50:
 
 # ch/audrey/events.rpy:1213
 translate russian audrey_spanking_1_9caa3acd:
-    "Удар достаточно сильный, чтобы раздаться звук шлепка, и я слышу, как она ахает от удивления – возможно, даже возбуждения."
+    "Удар достаточно сильный, чтобы раздаться звук шлепка, и я слышу, как она ахает от удивления — возможно, даже возбуждения."
 
 # ch/audrey/events.rpy:1214
 translate russian audrey_spanking_1_09f7ee0e:
-    "Не убирая руку, я использую ее, чтобы грубо подтянуть ее короткую юбку вверх, обнажив ее ягодицы."
+    "Не убирая руку, я использую её, чтобы грубо подтянуть её короткую юбку вверх, обнажив её ягодицы."
 
 # ch/audrey/events.rpy:1216
 translate russian audrey_spanking_1_f2376dea:
-    "Другой рукой, прижатой к ее затылку, я сжимаю одну из ее ягодиц изо всех сил, заставляя ее снова ахнуть."
+    "Другой рукой, прижатой к её затылку, я сжимаю одну из её ягодиц изо всех сил, заставляя её снова ахнуть."
 
 # ch/audrey/events.rpy:1217
 translate russian audrey_spanking_1_81ae0cf3:
@@ -6470,7 +6470,7 @@ translate russian audrey_spanking_1_2c4fd8cf:
 
 # ch/audrey/events.rpy:1219
 translate russian audrey_spanking_1_cd42cb0b:
-    "(Я, Майк) Я снова сильно сжимаю ее ягодицу, просто чтобы она сосредоточилась на том, что я говорю."
+    "(Я, Майк) Я снова сильно сжимаю её ягодицу, просто чтобы она сосредоточилась на том, что я говорю."
 
 # ch/audrey/events.rpy:1220
 translate russian audrey_spanking_1_2e506e2e:
@@ -6478,11 +6478,11 @@ translate russian audrey_spanking_1_2e506e2e:
 
 # ch/audrey/events.rpy:1221
 translate russian audrey_spanking_1_eb329d3f:
-    mike.say "Только ты не просто тупая сучка – ты злобная сучка!"
+    mike.say "Только ты не просто тупая сучка — ты злобная сучка!"
 
 # ch/audrey/events.rpy:1222
 translate russian audrey_spanking_1_17b99a49:
-    "На этот раз я почти сдавливаю ее ягодицу в своей руке, уверенный, что наверняка оставил на ней синяки."
+    "На этот раз я почти сдавливаю её ягодицу в своей руке, уверенный, что наверняка оставил на ней синяки."
 
 # ch/audrey/events.rpy:1223
 translate russian audrey_spanking_1_710fa9ca:
@@ -6502,11 +6502,11 @@ translate russian audrey_spanking_1_37343a9f:
 
 # ch/audrey/events.rpy:1232
 translate russian audrey_spanking_1_4e94ed54:
-    "Я наношу первый удар ладонью почти сразу после того, как произнес эти слова, не давая Одри времени подготовиться."
+    "Я наношу первый удар ладонью почти сразу после того, как произнёс эти слова, не давая Одри времени подготовиться."
 
 # ch/audrey/events.rpy:1233
 translate russian audrey_spanking_1_f828c768:
-    "Ее трусики ничуть не смягчают удар, и резкий звук, который моя рука издает при контакте с ее ягодицами, почти заглушает ее крик испуга."
+    "Её трусики ничуть не смягчают удар, и резкий звук, который моя рука издаёт при контакте с её ягодицами, почти заглушает её крик испуга."
 
 # ch/audrey/events.rpy:1234
 translate russian audrey_spanking_1_fea6b541:
@@ -6514,7 +6514,7 @@ translate russian audrey_spanking_1_fea6b541:
 
 # ch/audrey/events.rpy:1240
 translate russian audrey_spanking_1_f3a096f0:
-    "Судя по ее стонам и крикам боли, я понимаю, насколько Одри наслаждается тем, что я с ней делаю прямо сейчас."
+    "Судя по её стонам и крикам боли, я понимаю, насколько Одри наслаждается тем, что я с ней делаю прямо сейчас."
 
 # ch/audrey/events.rpy:1246
 translate russian audrey_spanking_1_21b67c9f:
@@ -6522,31 +6522,31 @@ translate russian audrey_spanking_1_21b67c9f:
 
 # ch/audrey/events.rpy:1247
 translate russian audrey_spanking_1_880fa515:
-    "Все, о чем я могу думать, – это вид ее пышной фигуры, согнутой и лежащей над моим столом."
+    "Все, о чём я могу думать, — это вид её пышной фигуры, согнутой и лежащей над моим столом."
 
 # ch/audrey/events.rpy:1248
 translate russian audrey_spanking_1_80d7f4fa:
-    "Звук ее прерывистого дыхания заставляет меня тоже тяжело дышать, словно в сочувствии."
+    "Звук её прерывистого дыхания заставляет меня тоже тяжело дышать, словно в сочувствии."
 
 # ch/audrey/events.rpy:1254
 translate russian audrey_spanking_1_c0e19286:
-    "Каждый раз, когда моя рука касается ее ягодиц, я не могу не удивляться тому, насколько это приятно."
+    "Каждый раз, когда моя рука касается её ягодиц, я не могу не удивляться тому, насколько это приятно."
 
 # ch/audrey/events.rpy:1255
 translate russian audrey_spanking_1_c8f76ddb:
-    "Сейчас мой член настолько твердый, что я чувствую, как он давит на резинку моих шорт."
+    "Сейчас мой член настолько твёрдый, что я чувствую, как он давит на резинку моих шорт."
 
 # ch/audrey/events.rpy:1261
 translate russian audrey_spanking_1_f0686552:
-    "Единственное, что прикрывает покрасневшие ягодицы Одри и то, что между ними, – это тонкий комплект трусиков."
+    "Единственное, что прикрывает покрасневшие ягодицы Одри и то, что между ними, — это тонкий комплект трусиков."
 
 # ch/audrey/events.rpy:1262
 translate russian audrey_spanking_1_b4d7cef3:
-    "Было бы так легко стянуть их вниз и наказать ее совсем другим способом."
+    "Было бы так легко стянуть их вниз и наказать её совсем другим способом."
 
 # ch/audrey/events.rpy:1263
 translate russian audrey_spanking_1_3024299d:
-    "Моя рука ненадолго зависает над моим \"упаковкой\"..."
+    "Моя рука ненадолго зависает над моим «упаковкой»..."
 
 # ch/audrey/events.rpy:1264
 translate russian audrey_spanking_1_37cb8828:
@@ -6554,15 +6554,15 @@ translate russian audrey_spanking_1_37cb8828:
 
 # ch/audrey/events.rpy:1265
 translate russian audrey_spanking_1_31305030:
-    "Качая головой, я наношу последний, мощный удар по ягодицам Одри, а затем снова затягиваю ее юбку."
+    "Качая головой, я наношу последний, мощный удар по ягодицам Одри, а затем снова затягиваю её юбку."
 
 # ch/audrey/events.rpy:1272
 translate russian audrey_spanking_1_43db0332:
-    "Прежде чем я успеваю что-то предпринять, чтобы избавить себя от присутствия Одри, Алетта грубо толкает ее в поясницу."
+    "Прежде чем я успеваю что-то предпринять, чтобы избавить себя от присутствия Одри, Алетта грубо толкает её в поясницу."
 
 # ch/audrey/events.rpy:1273
 translate russian audrey_spanking_1_b39e3840:
-    aletta.say "Ну же, б*ч, уходи – если не хочешь получить еще больше наказаний?"
+    aletta.say "Ну же, б*ч, уходи — если не хочешь получить ещё больше наказаний?"
 
 # ch/audrey/events.rpy:1274
 translate russian audrey_spanking_1_cfda0a4e:
@@ -6570,7 +6570,7 @@ translate russian audrey_spanking_1_cfda0a4e:
 
 # ch/audrey/events.rpy:1275
 translate russian audrey_spanking_1_082d05ca:
-    "Но затем она поворачивается и быстро направляется к двери, и я думаю, что вижу, как в ее глазах начинают появляться слезы."
+    "Но затем она поворачивается и быстро направляется к двери, и я думаю, что вижу, как в её глазах начинают появляться слезы."
 
 # ch/audrey/events.rpy:1276
 translate russian audrey_spanking_1_733c3e86:
@@ -6582,7 +6582,7 @@ translate russian audrey_spanking_1_6d46921d:
 
 # ch/audrey/events.rpy:1282
 translate russian audrey_spanking_1_74c090fa:
-    "Я грубо толкаю ее в поясницу, подталкивая к двери, чтобы дать ей понять, что я закончил с ней."
+    "Я грубо толкаю её в поясницу, подталкивая к двери, чтобы дать ей понять, что я закончил с ней."
 
 # ch/audrey/events.rpy:1283
 translate russian audrey_spanking_1_c1c67986:
@@ -6598,11 +6598,11 @@ translate russian audrey_spanking_1_75b7de94:
 
 # ch/audrey/events.rpy:1286
 translate russian audrey_spanking_1_d95d2a92:
-    "Как бы там ни было, я сомневаюсь, что это будет последний раз, когда мне придется прибегать к физическому воздействию, чтобы справиться с Одри на работе."
+    "Как бы там ни было, я сомневаюсь, что это будет последний раз, когда мне придётся прибегать к физическому воздействию, чтобы справиться с Одри на работе."
 
 # ch/audrey/events.rpy:1294
 translate russian audrey_spanking_start_daf200bb:
-    "Я настолько увлечен файлом, открытым на моем столе, что даже не поднимаю головы, услышав, как открывается дверь моего кабинета."
+    "Я настолько увлечён файлом, открытым на моём столе, что даже не поднимаю головы, услышав, как открывается дверь моего кабинета."
 
 # ch/audrey/events.rpy:1295
 translate russian audrey_spanking_start_6a0fddf2:
@@ -6610,15 +6610,15 @@ translate russian audrey_spanking_start_6a0fddf2:
 
 # ch/audrey/events.rpy:1296
 translate russian audrey_spanking_start_7d8703e8:
-    "Опыт подсказывает мне, что если они молчат, то, скорее всего, это Алета, которая сердито ждет, пока я обращу на нее внимание."
+    "Опыт подсказывает мне, что если они молчат, то, скорее всего, это Алета, которая сердито ждёт, пока я обращу на неё внимание."
 
 # ch/audrey/events.rpy:1297
 translate russian audrey_spanking_start_bc95b81e:
-    "Или, если человек начнет издавать извиняющиеся звуки в ближайшие несколько секунд, то это Шиори, скромно ожидающая, чтобы я, как обычно, удостоил ее своего внимания."
+    "Или, если человек начнёт издавать извиняющиеся звуки в ближайшие несколько секунд, то это Шиори, скромно ожидающая, чтобы я, как обычно, удостоил её своего внимания."
 
 # ch/audrey/events.rpy:1299
 translate russian audrey_spanking_start_cf707353:
-    audrey.say "Эй, проснись – у меня нет всего дня!"
+    audrey.say "Эй, проснись — у меня нет всего дня!"
 
 # ch/audrey/events.rpy:1300
 translate russian audrey_spanking_start_a5d1ea4d:
@@ -6626,11 +6626,11 @@ translate russian audrey_spanking_start_a5d1ea4d:
 
 # ch/audrey/events.rpy:1301
 translate russian audrey_spanking_start_b32b51bd:
-    "Я поднимаю голову и вижу, как Одри стоит перед моим столом, в ее руках ничего нет, что указывало бы на деловую цель визита."
+    "Я поднимаю голову и вижу, как Одри стоит перед моим столом, в её руках ничего нет, что указывало бы на деловую цель визита."
 
 # ch/audrey/events.rpy:1302
 translate russian audrey_spanking_start_0c27238c:
-    "Глубоко вздохнув, я откладываю ручку и пытаюсь изобразить хотя бы слабую улыбку, увидев ее нежданное появление."
+    "Глубоко вздохнув, я откладываю ручку и пытаюсь изобразить хотя бы слабую улыбку, увидев её нежданное появление."
 
 # ch/audrey/events.rpy:1303
 translate russian audrey_spanking_start_8b3f5773:
@@ -6638,23 +6638,23 @@ translate russian audrey_spanking_start_8b3f5773:
 
 # ch/audrey/events.rpy:1304
 translate russian audrey_spanking_start_d15bbcc2:
-    "На ее лице играет саркастическая, надменная улыбка, когда она смотрит на меня."
+    "На её лице играет саркастическая, надменная улыбка, когда она смотрит на меня."
 
 # ch/audrey/events.rpy:1305
 translate russian audrey_spanking_start_d38cab92:
-    "Но учитывая, что это, как правило, ее обычное выражение лица, это не помогает мне понять ее намерения."
+    "Но учитывая, что это, как правило, её обычное выражение лица, это не помогает мне понять её намерения."
 
 # ch/audrey/events.rpy:1306
 translate russian audrey_spanking_start_4f879471:
-    "Одри подходит вперед, чтобы сесть на край моего стола."
+    "Одри подходит вперёд, чтобы сесть на край моего стола."
 
 # ch/audrey/events.rpy:1307
 translate russian audrey_spanking_start_0ed1e28b:
-    "Она наверняка заметит, как юбка поднимается вверх, когда она скрещивает ноги, предоставляя мне прекрасный вид на то, как подол юбки приподнимается, открывая ее бедра."
+    "Она наверняка заметит, как юбка поднимается вверх, когда она скрещивает ноги, предоставляя мне прекрасный вид на то, как подол юбки приподнимается, открывая её бедра."
 
 # ch/audrey/events.rpy:1308
 translate russian audrey_spanking_start_9e1881e6:
-    "Наклонившись вперед, она опирается на один локоть, словно позирует для откровенной фотосессии."
+    "Наклонившись вперёд, она опирается на один локоть, словно позирует для откровенной фотосессии."
 
 # ch/audrey/events.rpy:1309
 translate russian audrey_spanking_start_5f404829:
@@ -6662,11 +6662,11 @@ translate russian audrey_spanking_start_5f404829:
 
 # ch/audrey/events.rpy:1310
 translate russian audrey_spanking_start_f31b78e3:
-    "Несмотря на то, как отвлекающе действует ее присутствие у меня на столе прямо сейчас, мне все же удается высказаться честно."
+    "Несмотря на то, как отвлекающе действует её присутствие у меня на столе прямо сейчас, мне все же удаётся высказаться честно."
 
 # ch/audrey/events.rpy:1311
 translate russian audrey_spanking_start_c3c37db2:
-    mike.say "Одри, я абсолютно не понимаю, о чем ты говоришь."
+    mike.say "Одри, я абсолютно не понимаю, о чём ты говоришь."
 
 # ch/audrey/events.rpy:1312
 translate russian audrey_spanking_start_81fd8419:
@@ -6674,15 +6674,15 @@ translate russian audrey_spanking_start_81fd8419:
 
 # ch/audrey/events.rpy:1313
 translate russian audrey_spanking_start_dbb3975e:
-    "Одри поднимает брови в ответ на мое отрицание."
+    "Одри поднимает брови в ответ на моё отрицание."
 
 # ch/audrey/events.rpy:1315
 translate russian audrey_spanking_start_f80aa605:
-    audrey.say "Ох, но я думаю, что ты все равно понимаешь, о чем я говорю."
+    audrey.say "Ох, но я думаю, что ты всё равно понимаешь, о чём я говорю."
 
 # ch/audrey/events.rpy:1316
 translate russian audrey_spanking_start_57eab50e:
-    audrey.say "Я немного пообщалась с Шиори во время ее перерывов."
+    audrey.say "Я немного пообщалась с Шиори во время её перерывов."
 
 # ch/audrey/events.rpy:1317
 translate russian audrey_spanking_start_e743d0ae:
@@ -6694,11 +6694,11 @@ translate russian audrey_spanking_start_41ca7946:
 
 # ch/audrey/events.rpy:1320
 translate russian audrey_spanking_start_ef4fc0fa:
-    "Черт возьми, теперь у меня есть к ней интерес!"
+    "Чёрт возьми, теперь у меня есть к ней интерес!"
 
 # ch/audrey/events.rpy:1321
 translate russian audrey_spanking_start_c925c32f:
-    mike.say "Одри, все, что происходит между мной и моими коллегами, не имеет к тебе никакого отношения!"
+    mike.say "Одри, всё, что происходит между мной и моими коллегами, не имеет к тебе никакого отношения!"
 
 # ch/audrey/events.rpy:1322
 translate russian audrey_spanking_start_916c1c02:
@@ -6710,7 +6710,7 @@ translate russian audrey_spanking_start_eb439bae:
 
 # ch/audrey/events.rpy:1325
 translate russian audrey_spanking_start_a88ff5a1:
-    audrey.say "И я уверена, это было прямо здесь, в твоем кабинете!"
+    audrey.say "И я уверена, это было прямо здесь, в твоём кабинете!"
 
 # ch/audrey/events.rpy:1326
 translate russian audrey_spanking_start_d06f0f40:
@@ -6722,7 +6722,7 @@ translate russian audrey_spanking_start_09958080:
 
 # ch/audrey/events.rpy:1328
 translate russian audrey_spanking_start_33794f2e:
-    mike.say "Я ни в чем таком не признавался!"
+    mike.say "Я ни в чём таком не признавался!"
 
 # ch/audrey/events.rpy:1330
 translate russian audrey_spanking_start_ddac9c0c:
@@ -6734,7 +6734,7 @@ translate russian audrey_spanking_start_07e2c724:
 
 # ch/audrey/events.rpy:1332
 translate russian audrey_spanking_start_c73628ea:
-    mike.say "Кто может это сказать – о чем ты вообще говоришь?"
+    mike.say "Кто может это сказать — о чём ты вообще говоришь?"
 
 # ch/audrey/events.rpy:1333
 translate russian audrey_spanking_start_df4b0b74:
@@ -6742,11 +6742,11 @@ translate russian audrey_spanking_start_df4b0b74:
 
 # ch/audrey/events.rpy:1334
 translate russian audrey_spanking_start_e3090761:
-    "Но внутри я уже предчувствую следующий вопрос, который мне придется задать, и куда он может привести."
+    "Но внутри я уже предчувствую следующий вопрос, который мне придётся задать, и куда он может привести."
 
 # ch/audrey/events.rpy:1335
 translate russian audrey_spanking_start_d04b02c8:
-    mike.say "Ладно, Одри – чего ты хочешь?"
+    mike.say "Ладно, Одри — чего ты хочешь?"
 
 # ch/audrey/events.rpy:1336
 translate russian audrey_spanking_start_5252acae:
@@ -6762,7 +6762,7 @@ translate russian audrey_spanking_start_47295c8d:
 
 # ch/audrey/events.rpy:1340
 translate russian audrey_spanking_start_3f323ade:
-    mike.say "Давай – мы оба знаем, что ты далеко не Мать Тереза, Одри!"
+    mike.say "Давай — мы оба знаем, что ты далеко не Мать Тереза, Одри!"
 
 # ch/audrey/events.rpy:1341
 translate russian audrey_spanking_start_3f167448:
@@ -6782,7 +6782,7 @@ translate russian audrey_spanking_start_9436e600:
 
 # ch/audrey/events.rpy:1345
 translate russian audrey_spanking_start_a71462e9:
-    audrey.say "И одно из тех вещей, которыми я увлечена на работе, – это равенство, независимо от пола, гендера или расы."
+    audrey.say "И одно из тех вещей, которыми я увлечена на работе, — это равенство, независимо от пола, гендера или расы."
 
 # ch/audrey/events.rpy:1347
 translate russian audrey_spanking_start_c8f9d708:
@@ -6862,7 +6862,7 @@ translate russian audrey_spanking_start_01550917:
 
 # ch/audrey/events.rpy:1370
 translate russian audrey_spanking_start_c8c1a50a:
-    mike.say "Черт возьми, Одри, я не вижу, как ты можешь оставить мне какой-либо другой выбор..."
+    mike.say "Чёрт возьми, Одри, я не вижу, как ты можешь оставить мне какой-либо другой выбор..."
 
 # ch/audrey/events.rpy:1375
 translate russian audrey_spanking_start_939a68b6:
@@ -6906,7 +6906,7 @@ translate russian audrey_spanking_start_a603fbec:
 
 # ch/audrey/events.rpy:1386
 translate russian audrey_spanking_start_e1075a47:
-    "Но я не могу не думать, что, ответив ей таким образом, я, возможно, начал заслужить ее неохотное уважение."
+    "Но я не могу не думать, что, ответив ей таким образом, я, возможно, начал заслужить её неохотное уважение."
 
 # ch/audrey/events.rpy:1391
 translate russian audrey_spanking_start_56fce2d1:
@@ -6914,15 +6914,15 @@ translate russian audrey_spanking_start_56fce2d1:
 
 # ch/audrey/events.rpy:1393
 translate russian audrey_spanking_start_7dbffcab:
-    "Я стараюсь не улыбаться, и думаю, что мне это удается, и Одри этого не замечает."
+    "Я стараюсь не улыбаться, и думаю, что мне это удаётся, и Одри этого не замечает."
 
 # ch/audrey/events.rpy:1394
 translate russian audrey_spanking_start_a10b8a7c:
-    mike.say "При условии, что ты даешь мне слово, что не пойдешь в отдел кадров, я согласен тебя отлупить, когда захочешь."
+    mike.say "При условии, что ты даёшь мне слово, что не пойдёшь в отдел кадров, я согласен тебя отлупить, когда захочешь."
 
 # ch/audrey/events.rpy:1395
 translate russian audrey_spanking_start_d60e8716:
-    "Одри смотрит на меня с победоносным видом, словно ей трудно поверить, что я так легко уступил ее требованиям."
+    "Одри смотрит на меня с победоносным видом, словно ей трудно поверить, что я так легко уступил её требованиям."
 
 # ch/audrey/events.rpy:1396
 translate russian audrey_spanking_start_84610fc9:
@@ -6942,7 +6942,7 @@ translate russian audrey_spanking_start_98383e0e:
 
 # ch/audrey/events.rpy:1400
 translate russian audrey_spanking_start_670a4715:
-    "Особенно, когда результатом этого является то, что она регулярно приходит в мой кабинет, чтобы я хорошенько ее отлупил."
+    "Особенно, когда результатом этого является то, что она регулярно приходит в мой кабинет, чтобы я хорошенько её отлупил."
 
 # ch/audrey/events.rpy:1401
 translate russian audrey_spanking_start_e4a8f965:
@@ -6950,7 +6950,7 @@ translate russian audrey_spanking_start_e4a8f965:
 
 # ch/audrey/events.rpy:1403
 translate russian audrey_spanking_start_5ac4b49e:
-    "Как только она уходит и я снова остаюсь один в своем кабинете, я качаю головой и возвращаюсь к своей работе над файлом перед собой."
+    "Как только она уходит и я снова остаюсь один в своём кабинете, я качаю головой и возвращаюсь к своей работе над файлом перед собой."
 
 # ch/audrey/events.rpy:1404
 translate russian audrey_spanking_start_26a4a2cf:
@@ -6958,7 +6958,7 @@ translate russian audrey_spanking_start_26a4a2cf:
 
 # ch/audrey/events.rpy:1405
 translate russian audrey_spanking_start_d47fad94:
-    "Я думаю, что если бы я снова встретил этого человека, у меня могло бы возникнуть желание дать ему пощечину."
+    "Я думаю, что если бы я снова встретил этого человека, у меня могло бы возникнуть желание дать ему пощёчину."
 
 # ch/audrey/events.rpy:1411
 translate russian audrey_sub_event_03_ccc76d88:
@@ -6970,19 +6970,19 @@ translate russian audrey_sub_event_03_7bcf3e84:
 
 # ch/audrey/events.rpy:1413
 translate russian audrey_sub_event_03_23a83d33:
-    "Но это не может быть правдой – я же пью кофе без остановки!"
+    "Но это не может быть правдой — я же пью кофе без остановки!"
 
 # ch/audrey/events.rpy:1414
 translate russian audrey_sub_event_03_324320be:
-    "Фу... вот часть проблемы – у меня еще и \"кофейный рот\"!"
+    "Фу... вот часть проблемы — у меня ещё и «кофейный рот»!"
 
 # ch/audrey/events.rpy:1415
 translate russian audrey_sub_event_03_afcd969e:
-    "Мне нужна холодная, чистая вода, и много ее."
+    "Мне нужна холодная, чистая вода, и много её."
 
 # ch/audrey/events.rpy:1416
 translate russian audrey_sub_event_03_24a7e3a7:
-    "И есть только одно место в офисе, где ее можно достать."
+    "И есть только одно место в офисе, где её можно достать."
 
 # ch/audrey/events.rpy:1417
 translate russian audrey_sub_event_03_98047b8a:
@@ -7026,7 +7026,7 @@ translate russian audrey_sub_event_03_b3e5303f:
 
 # ch/audrey/events.rpy:1429
 translate russian audrey_sub_event_03_6685f5b6:
-    "Я пытаюсь обойти ее, заглядывая через плечо в сторону кулера с водой."
+    "Я пытаюсь обойти её, заглядывая через плечо в сторону кулера с водой."
 
 # ch/audrey/events.rpy:1430
 translate russian audrey_sub_event_03_cc8a9b11:
@@ -7046,7 +7046,7 @@ translate russian audrey_sub_event_03_220a84e3:
 
 # ch/audrey/events.rpy:1436
 translate russian audrey_sub_event_03_ae63078e:
-    "Она следит за моими движениями, мешая мне обойти ее."
+    "Она следит за моими движениями, мешая мне обойти её."
 
 # ch/audrey/events.rpy:1438
 translate russian audrey_sub_event_03_b94fe214:
@@ -7082,7 +7082,7 @@ translate russian audrey_sub_event_03_aea66d01:
 
 # ch/audrey/events.rpy:1447
 translate russian audrey_sub_event_03_e2f4aa12:
-    "Поэтому вы можете понять, почему я не воспринимаю эту внезапную демонстрацию заботы всерьез."
+    "Поэтому вы можете понять, почему я не воспринимаю эту внезапную демонстрацию заботы всерьёз."
 
 # ch/audrey/events.rpy:1448
 translate russian audrey_sub_event_03_f1d8a63c:
@@ -7106,7 +7106,7 @@ translate russian audrey_sub_event_03_fe676317:
 
 # ch/audrey/events.rpy:1456
 translate russian audrey_sub_event_03_2fb14df2:
-    "А я пытаюсь обойти ее и добраться до фонтана одновременно."
+    "А я пытаюсь обойти её и добраться до фонтана одновременно."
 
 # ch/audrey/events.rpy:1459
 translate russian audrey_sub_event_03_e47cf9ac:
@@ -7126,19 +7126,19 @@ translate russian audrey_sub_event_03_53ee6162:
 
 # ch/audrey/events.rpy:1464
 translate russian audrey_sub_event_03_ca8ffa76:
-    "Одри подчеркивает свои слова, прижимая свою задницу ко мне."
+    "Одри подчёркивает свои слова, прижимая свою задницу ко мне."
 
 # ch/audrey/events.rpy:1465
 translate russian audrey_sub_event_03_166dd534:
-    "Я чувствую мягкие изгибы ее ягодиц, которые трутся о мой член."
+    "Я чувствую мягкие изгибы её ягодиц, которые трутся о мой член."
 
 # ch/audrey/events.rpy:1466
 translate russian audrey_sub_event_03_21c39a1a:
-    "И почти одновременно я начинаю ощущать, как у меня встает."
+    "И почти одновременно я начинаю ощущать, как у меня встаёт."
 
 # ch/audrey/events.rpy:1467
 translate russian audrey_sub_event_03_cca433b0:
-    "Одри, должно быть, тоже это чувствует, раз издает грязный смешок."
+    "Одри, должно быть, тоже это чувствует, раз издаёт грязный смешок."
 
 # ch/audrey/events.rpy:1469
 translate russian audrey_sub_event_03_077742f0:
@@ -7154,7 +7154,7 @@ translate russian audrey_sub_event_03_bf251d41:
 
 # ch/audrey/events.rpy:1473
 translate russian audrey_sub_event_03_29abb4d8:
-    "Одри снова смеется и грубо сжимает мой член рукой."
+    "Одри снова смеётся и грубо сжимает мой член рукой."
 
 # ch/audrey/events.rpy:1478
 translate russian audrey_sub_event_03_db1c5ec4:
@@ -7166,7 +7166,7 @@ translate russian audrey_sub_event_03_8018e93b:
 
 # ch/audrey/events.rpy:1480
 translate russian audrey_sub_event_03_61a5f3b5:
-    "Почти отчаянный голод – по Одри!"
+    "Почти отчаянный голод — по Одри!"
 
 # ch/audrey/events.rpy:1481
 translate russian audrey_sub_event_03_bdcf4c19:
@@ -7174,11 +7174,11 @@ translate russian audrey_sub_event_03_bdcf4c19:
 
 # ch/audrey/events.rpy:1484
 translate russian audrey_sub_event_03_441375ad:
-    "Я кладу одну руку ей на плечо, сильнее прижимая ее к фонтанчику."
+    "Я кладу одну руку ей на плечо, сильнее прижимая её к фонтанчику."
 
 # ch/audrey/events.rpy:1485
 translate russian audrey_sub_event_03_6daee584:
-    "Другой рукой я тянусь под ее юбку и грубо стягиваю ее трусы."
+    "Другой рукой я тянусь под её юбку и грубо стягиваю её трусы."
 
 # ch/audrey/events.rpy:1487
 translate russian audrey_sub_event_03_14a6191a_1:
@@ -7186,7 +7186,7 @@ translate russian audrey_sub_event_03_14a6191a_1:
 
 # ch/audrey/events.rpy:1488
 translate russian audrey_sub_event_03_4d0350d8:
-    audrey.say "Черт..."
+    audrey.say "Чёрт..."
 
 # ch/audrey/events.rpy:1489
 translate russian audrey_sub_event_03_88e3a519:
@@ -7242,11 +7242,11 @@ translate russian audrey_sub_event_03_1c7b8a83:
 
 # ch/audrey/events.rpy:1502
 translate russian audrey_sub_event_03_8d31ef6a:
-    "Но, черт возьми, она тоже сексуальная маленькая сучка!"
+    "Но, чёрт возьми, она тоже сексуальная маленькая сучка!"
 
 # ch/audrey/events.rpy:1503
 translate russian audrey_sub_event_03_0e142b9e:
-    "Я подстраиваюсь и двигаюсь вперед."
+    "Я подстраиваюсь и двигаюсь вперёд."
 
 # ch/audrey/events.rpy:1504
 translate russian audrey_sub_event_03_f8cb4291:
@@ -7258,7 +7258,7 @@ translate russian audrey_sub_event_03_80b9bf67:
 
 # ch/audrey/events.rpy:1506
 translate russian audrey_sub_event_03_4cf7e478:
-    "Она пищит, когда головка моего члена скользит по губам ее влагалища."
+    "Она пищит, когда головка моего члена скользит по губам её влагалища."
 
 # ch/audrey/events.rpy:1507
 translate russian audrey_sub_event_03_39c756e9:
@@ -7270,11 +7270,11 @@ translate russian audrey_sub_event_03_475e0ba4:
 
 # ch/audrey/events.rpy:1509
 translate russian audrey_sub_event_03_4dd51fb6:
-    "На этот раз я попал в цель, и я чувствую, как проникаю в нее."
+    "На этот раз я попал в цель, и я чувствую, как проникаю в неё."
 
 # ch/audrey/events.rpy:1510
 translate russian audrey_sub_event_03_af7f5692:
-    audrey.say "Черт..."
+    audrey.say "Чёрт..."
 
 # ch/audrey/events.rpy:1512
 translate russian audrey_sub_event_03_52d4b9a7:
@@ -7286,7 +7286,7 @@ translate russian audrey_sub_event_03_ce996df5:
 
 # ch/audrey/events.rpy:1514
 translate russian audrey_sub_event_03_baf567ad:
-    audrey.say "Затрахай меня хорошенько – ПОЖАЛУЙСТА?!"
+    audrey.say "Затрахай меня хорошенько — ПОЖАЛУЙСТА?!"
 
 # ch/audrey/events.rpy:1515
 translate russian audrey_sub_event_03_e6a6e5e4:
@@ -7294,15 +7294,15 @@ translate russian audrey_sub_event_03_e6a6e5e4:
 
 # ch/audrey/events.rpy:1516
 translate russian audrey_sub_event_03_dc8c894e:
-    "Я вкладываюсь в нее настолько глубоко, насколько только могу, чувствуя, как мой член наполняет ее."
+    "Я вкладываюсь в неё настолько глубоко, насколько только могу, чувствуя, как мой член наполняет её."
 
 # ch/audrey/events.rpy:1518
 translate russian audrey_sub_event_03_6663d2b3:
-    "А потом я начинаю двигаться вперед и назад так быстро, как только могу."
+    "А потом я начинаю двигаться вперёд и назад так быстро, как только могу."
 
 # ch/audrey/events.rpy:1519
 translate russian audrey_sub_event_03_66dc7626:
-    "Мне не хочется заслужить похвалу за то, что \"зашел далеко\" или был \"нежным\"."
+    "Мне не хочется заслужить похвалу за то, что «зашёл далеко» или был «нежным»."
 
 # ch/audrey/events.rpy:1520
 translate russian audrey_sub_event_03_15d2c8e2:
@@ -7318,19 +7318,19 @@ translate russian audrey_sub_event_03_73ee8651:
 
 # ch/audrey/events.rpy:1523
 translate russian audrey_sub_event_03_0a2ae8ef:
-    "Ее юбка задрапирована вокруг талии, язык высунут, как у собаки, жаждущей воды."
+    "Её юбка задрапирована вокруг талии, язык высунут, как у собаки, жаждущей воды."
 
 # ch/audrey/events.rpy:1524
 translate russian audrey_sub_event_03_d19ab8b8:
-    "Одри смотрит на меня через плечо, пока я трахаю ее."
+    "Одри смотрит на меня через плечо, пока я трахаю её."
 
 # ch/audrey/events.rpy:1525
 translate russian audrey_sub_event_03_c5430add:
-    "Но в ее глазах начинает появляться замутнение, а выражение лица – это чистейшее наслаждение."
+    "Но в её глазах начинает появляться замутнение, а выражение лица — это чистейшее наслаждение."
 
 # ch/audrey/events.rpy:1526
 translate russian audrey_sub_event_03_a49b6e42:
-    "Я буквально выплескиваю на нее всю свою злость прямо сейчас."
+    "Я буквально выплёскиваю на неё всю свою злость прямо сейчас."
 
 # ch/audrey/events.rpy:1527
 translate russian audrey_sub_event_03_2b0a27d4:
@@ -7354,19 +7354,19 @@ translate russian audrey_sub_event_03_6bdb9047:
 
 # ch/audrey/events.rpy:1532
 translate russian audrey_sub_event_03_75c38305:
-    "Состояние оцепенения, в котором находится Одри, становится еще хуже через мгновение."
+    "Состояние оцепенения, в котором находится Одри, становится ещё хуже через мгновение."
 
 # ch/audrey/events.rpy:1534
 translate russian audrey_sub_event_03_dedc5116:
-    "И это потому, что я кончил прямо у нее внутри."
+    "И это потому, что я кончил прямо у неё внутри."
 
 # ch/audrey/events.rpy:1537
 translate russian audrey_sub_event_03_0b724cbd:
-    "Завершение было таким же грубым, как и все остальное – один последний толчок."
+    "Завершение было таким же грубым, как и всё остальное — один последний толчок."
 
 # ch/audrey/events.rpy:1538
 translate russian audrey_sub_event_03_f172cca2:
-    "Когда все закончилось, Одри обмякла, как тряпичная кукла."
+    "Когда всё закончилось, Одри обмякла, как тряпичная кукла."
 
 # ch/audrey/events.rpy:1539
 translate russian audrey_sub_event_03_b3fbbde6:
@@ -7374,19 +7374,19 @@ translate russian audrey_sub_event_03_b3fbbde6:
 
 # ch/audrey/events.rpy:1543
 translate russian audrey_sub_event_03_51b9f539:
-    "Я поспешно вытаскиваю свой член из нее и засовываю обратно в штаны."
+    "Я поспешно вытаскиваю свой член из неё и засовываю обратно в штаны."
 
 # ch/audrey/events.rpy:1544
 translate russian audrey_sub_event_03_2201e2fe:
-    "Она приходит в себя настолько, чтобы начать возиться с нижним бельем."
+    "Она приходит в себя настолько, чтобы начать возиться с нижним бельём."
 
 # ch/audrey/events.rpy:1545
 translate russian audrey_sub_event_03_f768bddd:
-    "Но когда она пытается их затянуть, сперма уже начинает вытекать из нее."
+    "Но когда она пытается их затянуть, сперма уже начинает вытекать из неё."
 
 # ch/audrey/events.rpy:1546
 translate russian audrey_sub_event_03_6c498227:
-    "Она стекает по внутренней стороне ее ноги, пропитывая чулки."
+    "Она стекает по внутренней стороне её ноги, пропитывая чулки."
 
 # ch/audrey/events.rpy:1549
 translate russian audrey_sub_event_03_32bf8887:
@@ -7406,7 +7406,7 @@ translate russian audrey_sub_event_03_7209aaa9:
 
 # ch/audrey/events.rpy:1553
 translate russian audrey_sub_event_03_8b9ef7c8:
-    "И все, что я могу делать, это молча наблюдать."
+    "И всё, что я могу делать, это молча наблюдать."
 
 # ch/audrey/events.rpy:1554
 translate russian audrey_sub_event_03_ec393a83:
@@ -7430,7 +7430,7 @@ translate russian audrey_sub_event_03_ee9da558:
 
 # ch/audrey/events.rpy:1561
 translate russian audrey_sub_event_03_9f62dc4d:
-    mike.say "Размер моих половых органов – это не тема для обсуждения на работе, Одри."
+    mike.say "Размер моих половых органов — это не тема для обсуждения на работе, Одри."
 
 # ch/audrey/events.rpy:1562
 translate russian audrey_sub_event_03_030308e7:
@@ -7442,7 +7442,7 @@ translate russian audrey_sub_event_03_820ba84a:
 
 # ch/audrey/events.rpy:1565
 translate russian audrey_sub_event_03_02bbec7a:
-    "Она выглядит очень раздраженной моими действиями."
+    "Она выглядит очень раздражённой моими действиями."
 
 # ch/audrey/events.rpy:1566
 translate russian audrey_sub_event_03_a78bb9b9:
@@ -7494,7 +7494,7 @@ translate russian audrey_sub_event_02_6c45eb38:
 
 # ch/audrey/events.rpy:1589
 translate russian audrey_sub_event_02_d6f9c145:
-    "\"Гоблины\" – это один из тех культовых фильмов восьмидесятых, которые со временем становятся только лучше."
+    "«Гоблины» — это один из тех культовых фильмов восьмидесятых, которые со временем становятся только лучше."
 
 # ch/audrey/events.rpy:1590
 translate russian audrey_sub_event_02_53bb1e44:
@@ -7506,7 +7506,7 @@ translate russian audrey_sub_event_02_33fe3042:
 
 # ch/audrey/events.rpy:1592
 translate russian audrey_sub_event_02_4e34429b:
-    "Потому что он вот-вот взорвется от того, что боится мне все рассказать!"
+    "Потому что он вот-вот взорвётся от того, что боится мне все рассказать!"
 
 # ch/audrey/events.rpy:1593
 translate russian audrey_sub_event_02_146d5e87:
@@ -7518,7 +7518,7 @@ translate russian audrey_sub_event_02_0386a907:
 
 # ch/audrey/events.rpy:1596
 translate russian audrey_sub_event_02_77ebbfa6:
-    "Даже когда заканчиваются трейлеры и начинается фильм, она все еще жалуется!"
+    "Даже когда заканчиваются трейлеры и начинается фильм, она всё ещё жалуется!"
 
 # ch/audrey/events.rpy:1598
 translate russian audrey_sub_event_02_a5a647d5:
@@ -7546,7 +7546,7 @@ translate russian audrey_sub_event_02_b435f0e8:
 
 # ch/audrey/events.rpy:1606
 translate russian audrey_sub_event_02_67c68d65:
-    audrey.say "Придется мне самой найти способ развлечься..."
+    audrey.say "Придётся мне самой найти способ развлечься..."
 
 # ch/audrey/events.rpy:1607
 translate russian audrey_sub_event_02_f8d43da7:
@@ -7558,15 +7558,15 @@ translate russian audrey_sub_event_02_caed6ce8:
 
 # ch/audrey/events.rpy:1610
 translate russian audrey_sub_event_02_1642a622:
-    "И это означает, что мое внимание мгновенно переключается."
+    "И это означает, что моё внимание мгновенно переключается."
 
 # ch/audrey/events.rpy:1612
 translate russian audrey_sub_event_02_b565fb91:
-    "Вскоре я обнаруживаю, что забыл обо всех ее расплывчатых обещаниях."
+    "Вскоре я обнаруживаю, что забыл обо всех её расплывчатых обещаниях."
 
 # ch/audrey/events.rpy:1613
 translate russian audrey_sub_event_02_f2358822:
-    "Потому что я погружаюсь в теплое, уютное облако ностальгических воспоминаний!"
+    "Потому что я погружаюсь в тёплое, уютное облако ностальгических воспоминаний!"
 
 # ch/audrey/events.rpy:1614
 translate russian audrey_sub_event_02_e3bc530c:
@@ -7598,7 +7598,7 @@ translate russian audrey_sub_event_02_b818da53:
 
 # ch/audrey/events.rpy:1622
 translate russian audrey_sub_event_02_f84f80b4:
-    "Я смотрю вниз и вижу руку на моем паху, которая расстегивает мои штаны."
+    "Я смотрю вниз и вижу руку на моём паху, которая расстёгивает мои штаны."
 
 # ch/audrey/events.rpy:1624
 translate russian audrey_sub_event_02_81b08c7a:
@@ -7630,7 +7630,7 @@ translate russian audrey_sub_event_02_2e46f9d1:
 
 # ch/audrey/events.rpy:1631
 translate russian audrey_sub_event_02_058187ed:
-    "Похоже, она настроена серьезно!"
+    "Похоже, она настроена серьёзно!"
 
 # ch/audrey/events.rpy:1636
 translate russian audrey_sub_event_02_d07ec7d6:
@@ -7658,7 +7658,7 @@ translate russian audrey_sub_event_02_01fc167e:
 
 # ch/audrey/events.rpy:1643
 translate russian audrey_sub_event_02_6d753c8f:
-    "Мгновение – и Одри вытаскивает мой член из штанов."
+    "Мгновение — и Одри вытаскивает мой член из штанов."
 
 # ch/audrey/events.rpy:1644
 translate russian audrey_sub_event_02_cc32a41a:
@@ -7670,7 +7670,7 @@ translate russian audrey_sub_event_02_f20dfd80:
 
 # ch/audrey/events.rpy:1646
 translate russian audrey_sub_event_02_430acec2:
-    "Это как будто я отдаю свое тело в ее руки, а мои мысли заняты чем-то другим."
+    "Это как будто я отдаю своё тело в её руки, а мои мысли заняты чем-то другим."
 
 # ch/audrey/events.rpy:1647
 translate russian audrey_sub_event_02_36b60682:
@@ -7682,23 +7682,23 @@ translate russian audrey_sub_event_02_925403a0:
 
 # ch/audrey/events.rpy:1649
 translate russian audrey_sub_event_02_e7185676:
-    "Это значит, что я скоро стану твердым и напряженным."
+    "Это значит, что я скоро стану твёрдым и напряжённым."
 
 # ch/audrey/events.rpy:1651
 translate russian audrey_sub_event_02_2594231b:
-    "Теперь ее внимание становится еще более интенсивным."
+    "Теперь её внимание становится ещё более интенсивным."
 
 # ch/audrey/events.rpy:1652
 translate russian audrey_sub_event_02_af65bc44:
-    "Одри сжимает мои яички, пока облизывает меня все выше."
+    "Одри сжимает мои яички, пока облизывает меня всё выше."
 
 # ch/audrey/events.rpy:1653
 translate russian audrey_sub_event_02_0069692c:
-    "К тому моменту, когда она доберется до кончика, я начинаю прикусывать губу."
+    "К тому моменту, когда она доберётся до кончика, я начинаю прикусывать губу."
 
 # ch/audrey/events.rpy:1654
 translate russian audrey_sub_event_02_fd13d043:
-    "И когда она берет его в рот, я чувствую, как мое сердце начинает бешено колотиться в груди."
+    "И когда она берет его в рот, я чувствую, как моё сердце начинает бешено колотиться в груди."
 
 # ch/audrey/events.rpy:1655
 translate russian audrey_sub_event_02_3cda0993:
@@ -7706,7 +7706,7 @@ translate russian audrey_sub_event_02_3cda0993:
 
 # ch/audrey/events.rpy:1656
 translate russian audrey_sub_event_02_b48bf952:
-    "Ее голова плавно двигается вверх и вниз."
+    "Её голова плавно двигается вверх и вниз."
 
 # ch/audrey/events.rpy:1657
 translate russian audrey_sub_event_02_61231bcc:
@@ -7714,11 +7714,11 @@ translate russian audrey_sub_event_02_61231bcc:
 
 # ch/audrey/events.rpy:1658
 translate russian audrey_sub_event_02_adc6b292:
-    "Я все еще смотрю фильм, впитывая все, что происходит на экране."
+    "Я всё ещё смотрю фильм, впитывая всё, что происходит на экране."
 
 # ch/audrey/events.rpy:1659
 translate russian audrey_sub_event_02_52b5d318:
-    "Но при этом я чувствую абсолютно все, что она со мной делает."
+    "Но при этом я чувствую абсолютно всё, что она со мной делает."
 
 # ch/audrey/events.rpy:1660
 translate russian audrey_sub_event_02_806ecdf6:
@@ -7730,7 +7730,7 @@ translate russian audrey_sub_event_02_3813d68a:
 
 # ch/audrey/events.rpy:1662
 translate russian audrey_sub_event_02_00766fac:
-    "Наверное, я дергаюсь и извиваюсь больше, чем осознаю."
+    "Наверное, я дёргаюсь и извиваюсь больше, чем осознаю."
 
 # ch/audrey/events.rpy:1663
 translate russian audrey_sub_event_02_1a61ee82:
@@ -7742,7 +7742,7 @@ translate russian audrey_sub_event_02_89c188fd:
 
 # ch/audrey/events.rpy:1666
 translate russian audrey_sub_event_02_6b030ec3:
-    "Мои подозрения подтверждаются мгновение спустя, когда я слышу ее смех."
+    "Мои подозрения подтверждаются мгновение спустя, когда я слышу её смех."
 
 # ch/audrey/events.rpy:1668
 translate russian audrey_sub_event_02_1d7c42d6:
@@ -7750,7 +7750,7 @@ translate russian audrey_sub_event_02_1d7c42d6:
 
 # ch/audrey/events.rpy:1669
 translate russian audrey_sub_event_02_333e0b45:
-    "Одри старается оставаться как можно ниже, чтобы ее не заметили."
+    "Одри старается оставаться как можно ниже, чтобы её не заметили."
 
 # ch/audrey/events.rpy:1670
 translate russian audrey_sub_event_02_6edaa4eb:
@@ -7770,27 +7770,27 @@ translate russian audrey_sub_event_02_19bb1eea:
 
 # ch/audrey/events.rpy:1676
 translate russian audrey_sub_event_02_b7b3b7d7:
-    "Как ей удалось сделать такое – для меня это загадка."
+    "Как ей удалось сделать такое — для меня это загадка."
 
 # ch/audrey/events.rpy:1677
 translate russian audrey_sub_event_02_84a3b26a:
-    "Но сейчас это последнее, о чем я думаю, ведь я чувствую, насколько она скользкая!"
+    "Но сейчас это последнее, о чём я думаю, ведь я чувствую, насколько она скользкая!"
 
 # ch/audrey/events.rpy:1679
 translate russian audrey_sub_event_02_1b5a0809:
-    "Мне требуется всего несколько секунд, чтобы начать двигаться внутри нее."
+    "Мне требуется всего несколько секунд, чтобы начать двигаться внутри неё."
 
 # ch/audrey/events.rpy:1680
 translate russian audrey_sub_event_02_a704f217:
-    "Одри ускоряет этот процесс, еще сильнее прижимаясь всем своим весом."
+    "Одри ускоряет этот процесс, ещё сильнее прижимаясь всем своим весом."
 
 # ch/audrey/events.rpy:1681
 translate russian audrey_sub_event_02_8533131f:
-    "Теперь ее голова лежит на моем плече."
+    "Теперь её голова лежит на моём плече."
 
 # ch/audrey/events.rpy:1682
 translate russian audrey_sub_event_02_095291e9:
-    "И я слышу, как она задыхается и тяжело дышит, пока я наполняю ее."
+    "И я слышу, как она задыхается и тяжело дышит, пока я наполняю её."
 
 # ch/audrey/events.rpy:1683
 translate russian audrey_sub_event_02_eb7ecd0f:
@@ -7798,15 +7798,15 @@ translate russian audrey_sub_event_02_eb7ecd0f:
 
 # ch/audrey/events.rpy:1684
 translate russian audrey_sub_event_02_729c3e04:
-    "Мои руки тянутся и сжимают ее бедра."
+    "Мои руки тянутся и сжимают её бедра."
 
 # ch/audrey/events.rpy:1685
 translate russian audrey_sub_event_02_8bc84186:
-    "Я все еще смотрю на экран, но я не могу себя контролировать."
+    "Я всё ещё смотрю на экран, но я не могу себя контролировать."
 
 # ch/audrey/events.rpy:1687
 translate russian audrey_sub_event_02_4e76cc0d:
-    "Я крепко прижимаю Одри к себе и толкаю ее вниз, одновременно двигаясь вверх."
+    "Я крепко прижимаю Одри к себе и толкаю её вниз, одновременно двигаясь вверх."
 
 # ch/audrey/events.rpy:1688
 translate russian audrey_sub_event_02_521a4161:
@@ -7818,7 +7818,7 @@ translate russian audrey_sub_event_02_f27eeecc:
 
 # ch/audrey/events.rpy:1691
 translate russian audrey_sub_event_02_3ed9507b:
-    "Затем Одри использует свои губы, чтобы целовать мою шею, нежно покусывая и облизывая ее."
+    "Затем Одри использует свои губы, чтобы целовать мою шею, нежно покусывая и облизывая её."
 
 # ch/audrey/events.rpy:1692
 translate russian audrey_sub_event_02_7d125976:
@@ -7826,11 +7826,11 @@ translate russian audrey_sub_event_02_7d125976:
 
 # ch/audrey/events.rpy:1693
 translate russian audrey_sub_event_02_ede86198:
-    "Это быстрый и грубый секс в общественном месте, который становится еще более возбуждающим из-за опасности быть пойманными!"
+    "Это быстрый и грубый секс в общественном месте, который становится ещё более возбуждающим из-за опасности быть пойманными!"
 
 # ch/audrey/events.rpy:1694
 translate russian audrey_sub_event_02_fd7a0102:
-    "Я продолжаю грубо двигаться внутри Одри, отчаянно желая ее, несмотря ни на что."
+    "Я продолжаю грубо двигаться внутри Одри, отчаянно желая её, несмотря ни на что."
 
 # ch/audrey/events.rpy:1695
 translate russian audrey_sub_event_02_67dfc006:
@@ -7850,7 +7850,7 @@ translate russian audrey_sub_event_02_65d45986:
 
 # ch/audrey/events.rpy:1703
 translate russian audrey_sub_event_02_fd1cb3b7:
-    "Затем она соскальзывает с меня и падает обратно на свое сиденье."
+    "Затем она соскальзывает с меня и падает обратно на своё сиденье."
 
 # ch/audrey/events.rpy:1705
 translate russian audrey_sub_event_02_317f4980:
@@ -7874,11 +7874,11 @@ translate russian audrey_sub_event_02_d1ae0d58:
 
 # ch/audrey/events.rpy:1711
 translate russian audrey_sub_event_02_f869a2a5:
-    "И теперь я знаю, что мне нужно сделать, чтобы заставить ее заткнуться в будущем."
+    "И теперь я знаю, что мне нужно сделать, чтобы заставить её заткнуться в будущем."
 
 # ch/audrey/events.rpy:1712
 translate russian audrey_sub_event_02_2526fa1e:
-    "Просто заняться с ней на публике, и все будет хорошо!"
+    "Просто заняться с ней на публике, и всё будет хорошо!"
 
 # ch/audrey/events.rpy:1717
 translate russian audrey_sub_event_02_1238fce3:
@@ -7886,7 +7886,7 @@ translate russian audrey_sub_event_02_1238fce3:
 
 # ch/audrey/events.rpy:1719
 translate russian audrey_sub_event_02_3a572957:
-    "Мгновенно она поднимает голову, на ее лице появляется хмурое выражение."
+    "Мгновенно она поднимает голову, на её лице появляется хмурое выражение."
 
 # ch/audrey/events.rpy:1720
 translate russian audrey_sub_event_02_cc49dc06:
@@ -7902,7 +7902,7 @@ translate russian audrey_sub_event_02_1ac80e06:
 
 # ch/audrey/events.rpy:1724
 translate russian audrey_sub_event_02_e9c6edf0:
-    mike.say "У нас еще будет время для этого позже."
+    mike.say "У нас ещё будет время для этого позже."
 
 # ch/audrey/events.rpy:1725
 translate russian audrey_sub_event_02_472f4864:
@@ -7942,11 +7942,11 @@ translate russian audrey_sub_event_02_2e04717a:
 
 # ch/audrey/events.rpy:1747
 translate russian audrey_sub_event_01_1d330816:
-    "Одри и я прекрасно провели время вместе, это было отличное свидание, где все прошло хорошо."
+    "Одри и я прекрасно провели время вместе, это было отличное свидание, где всё прошло хорошо."
 
 # ch/audrey/events.rpy:1748
 translate russian audrey_sub_event_01_d4a7902f:
-    "Мы оба сияем от счастья, возвращаясь домой, болтая обо всем на свете, ни о чем не беспокоясь."
+    "Мы оба сияем от счастья, возвращаясь домой, болтая обо всём на свете, ни о чём не беспокоясь."
 
 # ch/audrey/events.rpy:1749
 translate russian audrey_sub_event_01_fd646a2a:
@@ -7974,7 +7974,7 @@ translate russian audrey_sub_event_01_ddcc7a02:
 
 # ch/audrey/events.rpy:1757
 translate russian audrey_sub_event_01_bdd3ac93:
-    "И будучи очень любопытным и желая узнать, что это, я спрашиваю ее, что это такое."
+    "И будучи очень любопытным и желая узнать, что это, я спрашиваю её, что это такое."
 
 # ch/audrey/events.rpy:1758
 translate russian audrey_sub_event_01_0f3f0dbd:
@@ -7982,11 +7982,11 @@ translate russian audrey_sub_event_01_0f3f0dbd:
 
 # ch/audrey/events.rpy:1759
 translate russian audrey_sub_event_01_6fcd36c4:
-    mike.say "Ты что-нибудь интересное увидела – например, лису или барсука?"
+    mike.say "Ты что-нибудь интересное увидела — например, лису или барсука?"
 
 # ch/audrey/events.rpy:1761
 translate russian audrey_sub_event_01_eb58e016:
-    "Одри поворачивается ко мне, на ее лице саркастическая улыбка."
+    "Одри поворачивается ко мне, на её лице саркастическая улыбка."
 
 # ch/audrey/events.rpy:1762
 translate russian audrey_sub_event_01_e4c14427:
@@ -8014,11 +8014,11 @@ translate russian audrey_sub_event_01_902b81aa:
 
 # ch/audrey/events.rpy:1770
 translate russian audrey_sub_event_01_ca06eb6b:
-    "Сначала я просто ошеломлен и иду за ней."
+    "Сначала я просто ошеломлён и иду за ней."
 
 # ch/audrey/events.rpy:1771
 translate russian audrey_sub_event_01_b13f3526:
-    "Ну, еще и потому, что она оказывается очень сильная!"
+    "Ну, ещё и потому, что она оказывается очень сильная!"
 
 # ch/audrey/events.rpy:1772
 translate russian audrey_sub_event_01_0a20cfd3:
@@ -8026,7 +8026,7 @@ translate russian audrey_sub_event_01_0a20cfd3:
 
 # ch/audrey/events.rpy:1775
 translate russian audrey_sub_event_01_d3fe63c0:
-    "И в чем, собственно, проблема?"
+    "И в чём, собственно, проблема?"
 
 # ch/audrey/events.rpy:1776
 translate russian audrey_sub_event_01_b9bbb6ca:
@@ -8058,7 +8058,7 @@ translate russian audrey_sub_event_01_3ac33b79:
 
 # ch/audrey/events.rpy:1784
 translate russian audrey_sub_event_01_b122f589:
-    "Я не могу быть уверен – но, кажется, это и есть идея!"
+    "Я не могу быть уверен — но, кажется, это и есть идея!"
 
 # ch/audrey/events.rpy:1786
 translate russian audrey_sub_event_01_90c48a57:
@@ -8086,7 +8086,7 @@ translate russian audrey_sub_event_01_bca26ed7:
 
 # ch/audrey/events.rpy:1793
 translate russian audrey_sub_event_01_ccae4800:
-    "Не знаю, что из этого заставляет мое сердце биться быстрее."
+    "Не знаю, что из этого заставляет моё сердце биться быстрее."
 
 # ch/audrey/events.rpy:1794
 translate russian audrey_sub_event_01_16ec4875:
@@ -8094,11 +8094,11 @@ translate russian audrey_sub_event_01_16ec4875:
 
 # ch/audrey/events.rpy:1795
 translate russian audrey_sub_event_01_adc46d9f:
-    "Но с другой – я боюсь, что нас кто-нибудь увидит!"
+    "Но с другой — я боюсь, что нас кто-нибудь увидит!"
 
 # ch/audrey/events.rpy:1797
 translate russian audrey_sub_event_01_3188e675:
-    "Именно когда я отвожу взгляд от нее, Одри достает мой член."
+    "Именно когда я отвожу взгляд от неё, Одри достаёт мой член."
 
 # ch/audrey/events.rpy:1798
 translate russian audrey_sub_event_01_461b2a6f:
@@ -8114,11 +8114,11 @@ translate russian audrey_sub_event_01_f7c61bab:
 
 # ch/audrey/events.rpy:1801
 translate russian audrey_sub_event_01_e074e575:
-    audrey.say "И уже достаточно твердый!"
+    audrey.say "И уже достаточно твёрдый!"
 
 # ch/audrey/events.rpy:1802
 translate russian audrey_sub_event_01_048cab29:
-    "Едва я собираюсь что-то сказать, Одри наклоняется вперед."
+    "Едва я собираюсь что-то сказать, Одри наклоняется вперёд."
 
 # ch/audrey/events.rpy:1803
 translate russian audrey_sub_event_01_dccbfba1:
@@ -8146,11 +8146,11 @@ translate russian audrey_sub_event_01_57a1c3b1:
 
 # ch/audrey/events.rpy:1810
 translate russian audrey_sub_event_01_2d1001ae:
-    "Но эта небрежность как-то усиливает ощущения, делая все еще более горячим!"
+    "Но эта небрежность как-то усиливает ощущения, делая всё ещё более горячим!"
 
 # ch/audrey/events.rpy:1812
 translate russian audrey_sub_event_01_7ae0fe23:
-    "Голова Одри двигается вперед и назад, все быстрее и быстрее."
+    "Голова Одри двигается вперёд и назад, всё быстрее и быстрее."
 
 # ch/audrey/events.rpy:1813
 translate russian audrey_sub_event_01_93f7c470:
@@ -8178,7 +8178,7 @@ translate russian audrey_sub_event_01_276158a1:
 
 # ch/audrey/events.rpy:1820
 translate russian audrey_sub_event_01_a040ae87:
-    "Но каким-то чудом мне удается удержаться."
+    "Но каким-то чудом мне удаётся удержаться."
 
 # ch/audrey/events.rpy:1821
 translate russian audrey_sub_event_01_b0448ba2:
@@ -8186,11 +8186,11 @@ translate russian audrey_sub_event_01_b0448ba2:
 
 # ch/audrey/events.rpy:1822
 translate russian audrey_sub_event_01_c971f396:
-    "Сомневаюсь, что кто-нибудь сможет услышать мое тяжелое дыхание отсюда."
+    "Сомневаюсь, что кто-нибудь сможет услышать моё тяжёлое дыхание отсюда."
 
 # ch/audrey/events.rpy:1823
 translate russian audrey_sub_event_01_e7199025:
-    "Независимо от того, что мне говорит логика, я все равно уверен, что они приближаются."
+    "Независимо от того, что мне говорит логика, я всё равно уверен, что они приближаются."
 
 # ch/audrey/events.rpy:1824
 translate russian audrey_sub_event_01_b16dfbf6:
@@ -8206,7 +8206,7 @@ translate russian audrey_sub_event_01_c68cc434:
 
 # ch/audrey/events.rpy:1827
 translate russian audrey_sub_event_01_3ff7a2d3:
-    mike.say "\"Одри!\" (Используется обращение \"ты\")."
+    mike.say "«Одри!» (Используется обращение «ты»)."
 
 # ch/audrey/events.rpy:1828
 translate russian audrey_sub_event_01_c902f19b:
@@ -8214,7 +8214,7 @@ translate russian audrey_sub_event_01_c902f19b:
 
 # ch/audrey/events.rpy:1830
 translate russian audrey_sub_event_01_f18a514d:
-    "Она вытаскивает мой член изо рта, но все еще крепко его удерживает."
+    "Она вытаскивает мой член изо рта, но всё ещё крепко его удерживает."
 
 # ch/audrey/events.rpy:1833
 translate russian audrey_sub_event_01_7c760c47:
@@ -8230,7 +8230,7 @@ translate russian audrey_sub_event_01_1ea9c70d:
 
 # ch/audrey/events.rpy:1839
 translate russian audrey_sub_event_01_8cdcea11:
-    "И значительное количество попадает в ее открытый рот."
+    "И значительное количество попадает в её открытый рот."
 
 # ch/audrey/events.rpy:1840
 translate russian audrey_sub_event_01_d8d6f426:
@@ -8242,7 +8242,7 @@ translate russian audrey_sub_event_01_b79968d4:
 
 # ch/audrey/events.rpy:1842
 translate russian audrey_sub_event_01_ff8c8868:
-    "И все, что я могу делать, это смотреть, как она облизывает себя и мой член, очищая их."
+    "И всё, что я могу делать, это смотреть, как она облизывает себя и мой член, очищая их."
 
 # ch/audrey/events.rpy:1844
 translate russian audrey_sub_event_01_49a67818:
@@ -8266,19 +8266,19 @@ translate russian audrey_sub_event_01_4a2f59cb:
 
 # ch/audrey/events.rpy:1849
 translate russian audrey_sub_event_01_8305f187:
-    mike.say "Это может подождать, пока мы не вернемся домой."
+    mike.say "Это может подождать, пока мы не вернёмся домой."
 
 # ch/audrey/events.rpy:1851
 translate russian audrey_sub_event_01_99431ec0:
-    "Я сопротивляюсь ее попыткам меня потянуть, когда говорю это."
+    "Я сопротивляюсь её попыткам меня потянуть, когда говорю это."
 
 # ch/audrey/events.rpy:1852
 translate russian audrey_sub_event_01_3ee2e8cb:
-    "И я вижу, как выражение ее лица меняется от этого."
+    "И я вижу, как выражение её лица меняется от этого."
 
 # ch/audrey/events.rpy:1853
 translate russian audrey_sub_event_01_f65cec3c:
-    "Вскоре она перестает тянуть и ставит кулаки на бедра."
+    "Вскоре она перестаёт тянуть и ставит кулаки на бедра."
 
 # ch/audrey/events.rpy:1854
 translate russian audrey_sub_event_01_a1b4fe61:
@@ -8306,7 +8306,7 @@ translate russian audrey_sub_event_01_758b9b0f:
 
 # ch/audrey/events.rpy:1861
 translate russian audrey_sub_event_01_7ae1c3ae:
-    "На самом деле, я почти ожидаю, что она начнет топать ногами."
+    "На самом деле, я почти ожидаю, что она начнёт топать ногами."
 
 # ch/audrey/events.rpy:1862
 translate russian audrey_sub_event_01_67adc938:
@@ -8334,7 +8334,7 @@ translate russian audrey_sub_event_01_1e2f1c92:
 
 # ch/audrey/events.rpy:1868
 translate russian audrey_sub_event_01_0431cd87:
-    "Одри стоит на месте, еще немного злясь."
+    "Одри стоит на месте, ещё немного злясь."
 
 # ch/audrey/events.rpy:1872
 translate russian audrey_sub_event_01_9f970f14:
@@ -8362,23 +8362,23 @@ translate russian audrey_event_10_6953efb6:
 
 # ch/audrey/events.rpy:1886
 translate russian audrey_event_10_aa95de32:
-    "Что для нее странно, ведь обычно она не упускает возможности мучить меня."
+    "Что для неё странно, ведь обычно она не упускает возможности мучить меня."
 
 # ch/audrey/events.rpy:1887
 translate russian audrey_event_10_68606920:
-    "А учитывая, что я ей прямо сказал, что люблю ее..."
+    "А учитывая, что я ей прямо сказал, что люблю её..."
 
 # ch/audrey/events.rpy:1888
 translate russian audrey_event_10_75e84914:
-    "Ну, я думал, у нее будет достаточно материала, чтобы мучить меня еще долго!"
+    "Ну, я думал, у неё будет достаточно материала, чтобы мучить меня ещё долго!"
 
 # ch/audrey/events.rpy:1889
 translate russian audrey_event_10_af0c565f:
-    "Но нет – даже когда я вижу ее через офис, Одри убегает."
+    "Но нет — даже когда я вижу её через офис, Одри убегает."
 
 # ch/audrey/events.rpy:1890
 translate russian audrey_event_10_d7c35ee2:
-    "И независимо от того, что я делаю, ее нигде нет, когда я пытаюсь с ней связаться."
+    "И независимо от того, что я делаю, её нигде нет, когда я пытаюсь с ней связаться."
 
 # ch/audrey/events.rpy:1891
 translate russian audrey_event_10_49005f5e:
@@ -8418,7 +8418,7 @@ translate russian audrey_event_10_84b26430:
 
 # ch/audrey/events.rpy:1901
 translate russian audrey_event_10_c2c807e4:
-    audrey.say "У меня все хорошо... ну, ты знаешь?"
+    audrey.say "У меня всё хорошо... ну, ты знаешь?"
 
 # ch/audrey/events.rpy:1902
 translate russian audrey_event_10_984d028c:
@@ -8450,7 +8450,7 @@ translate russian audrey_event_10_25014bd5:
 
 # ch/audrey/events.rpy:1910
 translate russian audrey_event_10_eccc2066:
-    audrey.say "Ты победил – мы поговорим об этом."
+    audrey.say "Ты победил — мы поговорим об этом."
 
 # ch/audrey/events.rpy:1911
 translate russian audrey_event_10_a7901de5:
@@ -8458,11 +8458,11 @@ translate russian audrey_event_10_a7901de5:
 
 # ch/audrey/events.rpy:1912
 translate russian audrey_event_10_9e23aff8:
-    "Я киваю в знак согласия, пытаясь показать Одри, что понимаю ее условия."
+    "Я киваю в знак согласия, пытаясь показать Одри, что понимаю её условия."
 
 # ch/audrey/events.rpy:1913
 translate russian audrey_event_10_010756fc:
-    "И тут я оказываюсь \"подгоняемым\" в более уединенное место."
+    "И тут я оказываюсь «подгоняемым» в более уединенное место."
 
 # ch/audrey/events.rpy:1914
 translate russian audrey_event_10_4ad9a98a:
@@ -8478,7 +8478,7 @@ translate russian audrey_event_10_0156b92a:
 
 # ch/audrey/events.rpy:1922
 translate russian audrey_event_10_1e849009:
-    audrey.say "Ты прав – я избегала тебя."
+    audrey.say "Ты прав — я избегала тебя."
 
 # ch/audrey/events.rpy:1923
 translate russian audrey_event_10_f2b1f897:
@@ -8494,7 +8494,7 @@ translate russian audrey_event_10_53828e7c:
 
 # ch/audrey/events.rpy:1926
 translate russian audrey_event_10_9c9c3666:
-    "И тут она громко смеется."
+    "И тут она громко смеётся."
 
 # ch/audrey/events.rpy:1928
 translate russian audrey_event_10_04bbe08e:
@@ -8506,7 +8506,7 @@ translate russian audrey_event_10_c2b5d05a:
 
 # ch/audrey/events.rpy:1930
 translate russian audrey_event_10_bba11d80:
-    mike.say "Как я уже сказал, Одри – прости."
+    mike.say "Как я уже сказал, Одри — прости."
 
 # ch/audrey/events.rpy:1931
 translate russian audrey_event_10_2c18f8f8:
@@ -8518,7 +8518,7 @@ translate russian audrey_event_10_d13d99f3:
 
 # ch/audrey/events.rpy:1933
 translate russian audrey_event_10_8483b1d7:
-    "Она снова смеется, но на этот раз в этом звучит больше сожаления."
+    "Она снова смеётся, но на этот раз в этом звучит больше сожаления."
 
 # ch/audrey/events.rpy:1934
 translate russian audrey_event_10_76351604:
@@ -8554,7 +8554,7 @@ translate russian audrey_event_10_c0ed8f98:
 
 # ch/audrey/events.rpy:1942
 translate russian audrey_event_10_895967be:
-    "Улыбка выглядит искренней и делает ее почти беззащитной."
+    "Улыбка выглядит искренней и делает её почти беззащитной."
 
 # ch/audrey/events.rpy:1944
 translate russian audrey_event_10_41b3c7cf:
@@ -8586,7 +8586,7 @@ translate russian audrey_event_10_3cda8bf5:
 
 # ch/audrey/events.rpy:1952
 translate russian audrey_event_10_8d01cdd9:
-    audrey.say "Если тебе это поможет понять – я дразню только тех, кто мне действительно нравится!"
+    audrey.say "Если тебе это поможет понять — я дразню только тех, кто мне действительно нравится!"
 
 # ch/audrey/events.rpy:1953
 translate russian audrey_event_10_ae464d35:
@@ -8594,7 +8594,7 @@ translate russian audrey_event_10_ae464d35:
 
 # ch/audrey/events.rpy:1955
 translate russian audrey_event_10_a90db27c:
-    "Одри снова смеется."
+    "Одри снова смеётся."
 
 # ch/audrey/events.rpy:1956
 translate russian audrey_event_10_05eb949d:
@@ -8618,11 +8618,11 @@ translate russian audrey_event_10_5f68bf12:
 
 # ch/audrey/events.rpy:1962
 translate russian audrey_event_10_9331a037:
-    audrey.say "Может, начнем с того, что признаемся друг другу в симпатии?"
+    audrey.say "Может, начнём с того, что признаемся друг другу в симпатии?"
 
 # ch/audrey/events.rpy:1963
 translate russian audrey_event_10_b6a3d772:
-    audrey.say "А потом посмотрим, куда это нас приведет?"
+    audrey.say "А потом посмотрим, куда это нас приведёт?"
 
 # ch/audrey/events.rpy:1964
 translate russian audrey_event_10_22f9805e:
@@ -8634,7 +8634,7 @@ translate russian audrey_event_10_168c1c39:
 
 # ch/audrey/events.rpy:1972
 translate russian audrey_event_09_intro_361c183a:
-    "Это не то, чего я ждал – совсем нет."
+    "Это не то, чего я ждал — совсем нет."
 
 # ch/audrey/events.rpy:1973
 translate russian audrey_event_09_intro_906b67ec:
@@ -8642,11 +8642,11 @@ translate russian audrey_event_09_intro_906b67ec:
 
 # ch/audrey/events.rpy:1974
 translate russian audrey_event_09_intro_a909843f:
-    "Точнее говоря, мои чувства к ней – вот что всегда занимает мои мысли."
+    "Точнее говоря, мои чувства к ней — вот что всегда занимает мои мысли."
 
 # ch/audrey/events.rpy:1975
 translate russian audrey_event_09_intro_862ef624:
-    "Я думал, что просто она меня раздражает, достает постоянно."
+    "Я думал, что просто она меня раздражает, достаёт постоянно."
 
 # ch/audrey/events.rpy:1976
 translate russian audrey_event_09_intro_9ceed9ae:
@@ -8654,7 +8654,7 @@ translate russian audrey_event_09_intro_9ceed9ae:
 
 # ch/audrey/events.rpy:1977
 translate russian audrey_event_09_intro_b883e7c5:
-    "На самом деле, с тех пор как мы безумно трахались прямо здесь, в моем кабинете, стало только хуже!"
+    "На самом деле, с тех пор как мы безумно трахались прямо здесь, в моём кабинете, стало только хуже!"
 
 # ch/audrey/events.rpy:1978
 translate russian audrey_event_09_intro_effc8bab:
@@ -8662,7 +8662,7 @@ translate russian audrey_event_09_intro_effc8bab:
 
 # ch/audrey/events.rpy:1979
 translate russian audrey_event_09_intro_8fbb7743:
-    "Я думаю, что я, возможно, влюбился в нее!"
+    "Я думаю, что я, возможно, влюбился в неё!"
 
 # ch/audrey/events.rpy:1980
 translate russian audrey_event_09_intro_2c6d959b:
@@ -8670,7 +8670,7 @@ translate russian audrey_event_09_intro_2c6d959b:
 
 # ch/audrey/events.rpy:1981
 translate russian audrey_event_09_intro_4080233e:
-    "Поэтому я собираюсь позвать ее сюда и рассказать о своих чувствах."
+    "Поэтому я собираюсь позвать её сюда и рассказать о своих чувствах."
 
 # ch/audrey/events.rpy:1982
 translate russian audrey_event_09_intro_eff833e2:
@@ -8686,7 +8686,7 @@ translate russian audrey_event_09_intro_c127944f:
 
 # ch/audrey/events.rpy:1985
 translate russian audrey_event_09_intro_06920b01:
-    "Когда она наконец удостаивает меня своим присутствием, Одри уже выглядит вполне раздраженной."
+    "Когда она наконец удостаивает меня своим присутствием, Одри уже выглядит вполне раздражённой."
 
 # ch/audrey/events.rpy:1993
 translate russian audrey_event_09_25862f24:
@@ -8726,7 +8726,7 @@ translate russian audrey_event_09_848c3e84:
 
 # ch/audrey/events.rpy:2005
 translate russian audrey_event_09_38f3eb9b:
-    "Я отмахиваюсь от этого и сосредотачиваюсь на том, о чем мне действительно нужно с ней поговорить."
+    "Я отмахиваюсь от этого и сосредотачиваюсь на том, о чём мне действительно нужно с ней поговорить."
 
 # ch/audrey/events.rpy:2006
 translate russian audrey_event_09_341ecfb4:
@@ -8750,11 +8750,11 @@ translate russian audrey_event_09_a85de22b:
 
 # ch/audrey/events.rpy:2012
 translate russian audrey_event_09_c9ca38fa:
-    "И, как я и ожидал, ее настроение начинает меняться одновременно."
+    "И, как я и ожидал, её настроение начинает меняться одновременно."
 
 # ch/audrey/events.rpy:2013
 translate russian audrey_event_09_5f797759:
-    "Если раньше она была угрюмой и раздраженной, то теперь она становится кокетливой и веселой."
+    "Если раньше она была угрюмой и раздражённой, то теперь она становится кокетливой и весёлой."
 
 # ch/audrey/events.rpy:2015
 translate russian audrey_event_09_82ea5f66:
@@ -8778,7 +8778,7 @@ translate russian audrey_event_09_5015d815:
 
 # ch/audrey/events.rpy:2020
 translate russian audrey_event_09_9115eeb6:
-    mike.say "Вот о чем это и идет речь."
+    mike.say "Вот о чём это и идёт речь."
 
 # ch/audrey/events.rpy:2023
 translate russian audrey_event_09_25087852:
@@ -8838,7 +8838,7 @@ translate russian audrey_event_09_06350015:
 
 # ch/audrey/events.rpy:2040
 translate russian audrey_event_09_ccc44af2:
-    mike.say "У меня перехватывает дыхание, когда я слышу твое имя."
+    mike.say "У меня перехватывает дыхание, когда я слышу твоё имя."
 
 # ch/audrey/events.rpy:2041
 translate russian audrey_event_09_43f8a7f1:
@@ -8866,15 +8866,15 @@ translate russian audrey_event_09_d76f9b13:
 
 # ch/audrey/events.rpy:2049
 translate russian audrey_event_09_e0f45a7f:
-    "На мгновение я не уверен, что вообще должен говорить, чтобы убедить ее."
+    "На мгновение я не уверен, что вообще должен говорить, чтобы убедить её."
 
 # ch/audrey/events.rpy:2050
 translate russian audrey_event_09_d943fd8f:
-    "Я был полностью готов к тому, что Одри рассмеется мне в лицо и назовет меня жалким."
+    "Я был полностью готов к тому, что Одри рассмеётся мне в лицо и назовёт меня жалким."
 
 # ch/audrey/events.rpy:2051
 translate russian audrey_event_09_b11be1f0:
-    "Я даже не представлял, что она отреагирует на мое признание таким образом!"
+    "Я даже не представлял, что она отреагирует на моё признание таким образом!"
 
 # ch/audrey/events.rpy:2052
 translate russian audrey_event_09_97373bf5:
@@ -8886,11 +8886,11 @@ translate russian audrey_event_09_c51e5ea4:
 
 # ch/audrey/events.rpy:2054
 translate russian audrey_event_09_e0fb050a:
-    mike.say "Потому что я не знаю, что еще мне делать!"
+    mike.say "Потому что я не знаю, что ещё мне делать!"
 
 # ch/audrey/events.rpy:2055
 translate russian audrey_event_09_6426ee1c:
-    "Одри все еще качает головой и начинает отступать к двери."
+    "Одри всё ещё качает головой и начинает отступать к двери."
 
 # ch/audrey/events.rpy:2056
 translate russian audrey_event_09_7aec8941:
@@ -8898,7 +8898,7 @@ translate russian audrey_event_09_7aec8941:
 
 # ch/audrey/events.rpy:2057
 translate russian audrey_event_09_26af3e2a:
-    "Что моя любовь к ней – это то, что она воспринимает как шутку."
+    "Что моя любовь к ней — это то, что она воспринимает как шутку."
 
 # ch/audrey/events.rpy:2058
 translate russian audrey_event_09_1d4c3ffb:
@@ -8914,11 +8914,11 @@ translate russian audrey_event_09_2b253537:
 
 # ch/audrey/events.rpy:2063
 translate russian audrey_event_09_e81dc840:
-    "Всё, что мне остается, – это наблюдать, как она это делает, и вздохнуть, провожая её взглядом."
+    "Всё, что мне остаётся, — это наблюдать, как она это делает, и вздохнуть, провожая её взглядом."
 
 # ch/audrey/events.rpy:2064
 translate russian audrey_event_09_8ccb4b73:
-    "Оставшись один в своем кабинете, я пытаюсь убедить себя, что результат был не таким уж плохим."
+    "Оставшись один в своём кабинете, я пытаюсь убедить себя, что результат был не таким уж плохим."
 
 # ch/audrey/events.rpy:2065
 translate russian audrey_event_09_47ea3a73:
@@ -8946,7 +8946,7 @@ translate russian audrey_event_08_dbeff5c2:
 
 # ch/audrey/events.rpy:2083
 translate russian audrey_event_08_ca8eaf33:
-    "Мне нужен перерыв, что-нибудь, чтобы снять напряжение, пока я не сошел с ума."
+    "Мне нужен перерыв, что-нибудь, чтобы снять напряжение, пока я не сошёл с ума."
 
 # ch/audrey/events.rpy:2084
 translate russian audrey_event_08_1bd5c12f:
@@ -8962,7 +8962,7 @@ translate russian audrey_event_08_e4823a4d:
 
 # ch/audrey/events.rpy:2087
 translate russian audrey_event_08_1ab07c8f:
-    "Я игнорирую вопиющее неуважение в ее тоне и выборе слов."
+    "Я игнорирую вопиющее неуважение в её тоне и выборе слов."
 
 # ch/audrey/events.rpy:2088
 translate russian audrey_event_08_35335eed:
@@ -9002,19 +9002,19 @@ translate russian audrey_event_08_fb95ed35:
 
 # ch/audrey/events.rpy:2098
 translate russian audrey_event_08_2edeaafd:
-    "Одри почти врывается внутрь, судя по всему, все еще раздраженная нашей короткой телефонной беседой."
+    "Одри почти врывается внутрь, судя по всему, всё ещё раздражённая нашей короткой телефонной беседой."
 
 # ch/audrey/events.rpy:2099
 translate russian audrey_event_08_138f5b5f:
-    audrey.say "– Ты можешь мне сказать, что, черт возьми, происходит?\""
+    audrey.say "– Ты можешь мне сказать, что, чёрт возьми, происходит?\""
 
 # ch/audrey/events.rpy:2100
 translate russian audrey_event_08_bb3ddb47:
-    mike.say "\"Заткнись, Одри\", – говорит мужчина (Майк) женщине (Одри), используя неформальное обращение \"ты\"."
+    mike.say "«Заткнись, Одри», — говорит мужчина (Майк) женщине (Одри), используя неформальное обращение «ты»."
 
 # ch/audrey/events.rpy:2101
 translate russian audrey_event_08_6d255b13:
-    "Я прерываю ее, не давая ей возможности требовать объяснений."
+    "Я прерываю её, не давая ей возможности требовать объяснений."
 
 # ch/audrey/events.rpy:2103
 translate russian audrey_event_08_b5d972d5:
@@ -9022,11 +9022,11 @@ translate russian audrey_event_08_b5d972d5:
 
 # ch/audrey/events.rpy:2104
 translate russian audrey_event_08_e7a8a2d2:
-    mike.say "\"Ты здесь не для того, чтобы говорить мне, что ты думаешь, хорошо?\" – говорит мужчина (Майк) женщине (Одри), используя неформальное обращение \"ты\"."
+    mike.say "«Ты здесь не для того, чтобы говорить мне, что ты думаешь, хорошо?» — говорит мужчина (Майк) женщине (Одри), используя неформальное обращение «ты»."
 
 # ch/audrey/events.rpy:2105
 translate russian audrey_event_08_8a6ba64f:
-    mike.say "\"У меня куча работы, это же очевидно\", – говорит мужчина (Майк) женщине (Одри), используя неформальное обращение \"ты\"."
+    mike.say "«У меня куча работы, это же очевидно», — говорит мужчина (Майк) женщине (Одри), используя неформальное обращение «ты»."
 
 # ch/audrey/events.rpy:2106
 translate russian audrey_event_08_9bbc1506:
@@ -9034,31 +9034,31 @@ translate russian audrey_event_08_9bbc1506:
 
 # ch/audrey/events.rpy:2108
 translate russian audrey_event_08_a29a6180:
-    audrey.say "\"Я... \", – говорит женщина (Одри) мужчине (Майку), используя неформальное обращение \"ты\"."
+    audrey.say "\"Я... \", — говорит женщина (Одри) мужчине (Майку), используя неформальное обращение \"ты\"."
 
 # ch/audrey/events.rpy:2109
 translate russian audrey_event_08_b1c17fe0:
-    audrey.say "\"Я вижу...\", – говорит женщина (Одри) мужчине (Майку), используя неформальное обращение \"ты\"."
+    audrey.say "«Я вижу...», — говорит женщина (Одри) мужчине (Майку), используя неформальное обращение «ты»."
 
 # ch/audrey/events.rpy:2110
 translate russian audrey_event_08_a5196a6a:
-    mike.say "\"Я же тебе сказал заткнуться?\", – говорит мужчина (Майк) женщине (Одри), используя неформальное обращение \"ты\"."
+    mike.say "«Я же тебе сказал заткнуться?», — говорит мужчина (Майк) женщине (Одри), используя неформальное обращение «ты»."
 
 # ch/audrey/events.rpy:2111
 translate russian audrey_event_08_196dc874:
-    mike.say "\"Мне просто нужно снять стресс, Одри\", – говорит мужчина (Майк) женщине (Одри), используя неформальное обращение \"ты\"."
+    mike.say "«Мне просто нужно снять стресс, Одри», — говорит мужчина (Майк) женщине (Одри), используя неформальное обращение «ты»."
 
 # ch/audrey/events.rpy:2112
 translate russian audrey_event_08_acb40c56:
-    mike.say "\"Короче говоря, мне нужен секс-игрушка, и ты – это она\", – говорит мужчина (Майк) женщине (Одри), используя неформальное обращение \"ты\", сохраняя все откровенные сексуальные термины без эвфемизмов."
+    mike.say "«Короче говоря, мне нужен секс-игрушка, и ты — это она», — говорит мужчина (Майк) женщине (Одри), используя неформальное обращение «ты», сохраняя все откровенные сексуальные термины без эвфемизмов."
 
 # ch/audrey/events.rpy:2114
 translate russian audrey_event_08_37099553:
-    "Глаза Одри расширяются настолько, что мне кажется, они выскочат из ее головы."
+    "Глаза Одри расширяются настолько, что мне кажется, они выскочат из её головы."
 
 # ch/audrey/events.rpy:2115
 translate russian audrey_event_08_e044def8:
-    "Ее рот молча двигается, пока она качает головой."
+    "Её рот молча двигается, пока она качает головой."
 
 # ch/audrey/events.rpy:2116
 translate russian audrey_event_08_c8180d9e:
@@ -9066,7 +9066,7 @@ translate russian audrey_event_08_c8180d9e:
 
 # ch/audrey/events.rpy:2117
 translate russian audrey_event_08_47fc51cd:
-    mike.say "Что ты ждешь, Одри?"
+    mike.say "Что ты ждёшь, Одри?"
 
 # ch/audrey/events.rpy:2118
 translate russian audrey_event_08_bfdd317f:
@@ -9082,7 +9082,7 @@ translate russian audrey_event_08_40a21e92:
 
 # ch/audrey/events.rpy:2122
 translate russian audrey_event_08_b6a971b7:
-    "На мгновение мне кажется, что она не собирается этого делать, что я зашел слишком далеко."
+    "На мгновение мне кажется, что она не собирается этого делать, что я зашёл слишком далеко."
 
 # ch/audrey/events.rpy:2123
 translate russian audrey_event_08_6afd4416:
@@ -9090,7 +9090,7 @@ translate russian audrey_event_08_6afd4416:
 
 # ch/audrey/events.rpy:2124
 translate russian audrey_event_08_9b2e1c17:
-    "Я встаю со стула, сдвигая еще больше бумаг, чтобы освободить место для нее."
+    "Я встаю со стула, сдвигая ещё больше бумаг, чтобы освободить место для неё."
 
 # ch/audrey/events.rpy:2125
 translate russian audrey_event_08_5feea06a:
@@ -9202,7 +9202,7 @@ translate russian audrey_event_08_dbeff5c2_2:
 
 # ch/audrey/events.rpy:2159
 translate russian audrey_event_08_7cf64372:
-    "Поэтому последнее, чего мне сейчас не хватает, – это услышать звук открывающейся двери моего кабинета."
+    "Поэтому последнее, чего мне сейчас не хватает, — это услышать звук открывающейся двери моего кабинета."
 
 # ch/audrey/events.rpy:2161
 translate russian audrey_event_08_f82a1d0e:
@@ -9226,7 +9226,7 @@ translate russian audrey_event_08_5c8e4660:
 
 # ch/audrey/events.rpy:2166
 translate russian audrey_event_08_4236971c:
-    "Но, кажется, ни то, что я говорю, ни мои действия не оказывают на нее желаемого эффекта."
+    "Но, кажется, ни то, что я говорю, ни мои действия не оказывают на неё желаемого эффекта."
 
 # ch/audrey/events.rpy:2167
 translate russian audrey_event_08_d20c8259:
@@ -9262,7 +9262,7 @@ translate russian audrey_event_08_92937fdc:
 
 # ch/audrey/events.rpy:2176
 translate russian audrey_event_08_1e8b727d:
-    mike.say "Что за черт, Одри!"
+    mike.say "Что за чёрт, Одри!"
 
 # ch/audrey/events.rpy:2177
 translate russian audrey_event_08_9f9d3560:
@@ -9270,7 +9270,7 @@ translate russian audrey_event_08_9f9d3560:
 
 # ch/audrey/events.rpy:2178
 translate russian audrey_event_08_816899b3:
-    "Я начинаю обходить стол в ее сторону."
+    "Я начинаю обходить стол в её сторону."
 
 # ch/audrey/events.rpy:2179
 translate russian audrey_event_08_591f81f7:
@@ -9282,7 +9282,7 @@ translate russian audrey_event_08_10aab31f:
 
 # ch/audrey/events.rpy:2181
 translate russian audrey_event_08_96c483cb:
-    "И она, несомненно, привлекла бы мое внимание, когда она бросает каждую стопку на пол."
+    "И она, несомненно, привлекла бы моё внимание, когда она бросает каждую стопку на пол."
 
 # ch/audrey/events.rpy:2183
 translate russian audrey_event_08_3ff7a2d3:
@@ -9298,11 +9298,11 @@ translate russian audrey_event_08_9bcb7ea3:
 
 # ch/audrey/events.rpy:2186
 translate russian audrey_event_08_6f5edadd:
-    "Только когда она сваливает последнюю стопку бумаг на пол, я ее догоняю."
+    "Только когда она сваливает последнюю стопку бумаг на пол, я её догоняю."
 
 # ch/audrey/events.rpy:2187
 translate russian audrey_event_08_2c0987dd:
-    "Наконец, я хватаю Одри и прижимаю ее спиной к столу."
+    "Наконец, я хватаю Одри и прижимаю её спиной к столу."
 
 # ch/audrey/events.rpy:2188
 translate russian audrey_event_08_06f8c938:
@@ -9310,7 +9310,7 @@ translate russian audrey_event_08_06f8c938:
 
 # ch/audrey/events.rpy:2189
 translate russian audrey_event_08_abbebdd0:
-    "Судя по выражению ее глаз и тому, как она тяжело дышит, я могу это понять."
+    "Судя по выражению её глаз и тому, как она тяжело дышит, я могу это понять."
 
 # ch/audrey/events.rpy:2190
 translate russian audrey_event_08_7d523236:
@@ -9318,7 +9318,7 @@ translate russian audrey_event_08_7d523236:
 
 # ch/audrey/events.rpy:2192
 translate russian audrey_event_08_d7d04a8d:
-    audrey.say "Ты... ты сошел с ума, [lssb_audrey.hero_name()]?"
+    audrey.say "Ты... ты сошёл с ума, [lssb_audrey.hero_name()]?"
 
 # ch/audrey/events.rpy:2193
 translate russian audrey_event_08_93e2027c:
@@ -9342,31 +9342,31 @@ translate russian audrey_event_08_9b05fc64:
 
 # ch/audrey/events.rpy:2198
 translate russian audrey_event_08_8b43ac6b:
-    "Одри громко выдыхает, когда я сильнее прижимаю ее к столу."
+    "Одри громко выдыхает, когда я сильнее прижимаю её к столу."
 
 # ch/audrey/events.rpy:2199
 translate russian audrey_event_08_58c0fd37:
-    "И она снова ахает, когда я стягиваю с нее трусики!"
+    "И она снова ахает, когда я стягиваю с неё трусики!"
 
 # ch/audrey/events.rpy:2212
 translate russian audrey_event_07_fc51390b:
-    "Сначала я не обратил особого внимания на копию, потому что она просто лежала сверху на моей уже и без того неустойчивой \"куче\" бумаг, когда я вошел в офис и сел за свой стол."
+    "Сначала я не обратил особого внимания на копию, потому что она просто лежала сверху на моей уже и без того неустойчивой «куче» бумаг, когда я вошёл в офис и сел за свой стол."
 
 # ch/audrey/events.rpy:2213
 translate russian audrey_event_07_4e596115:
-    "На самом деле, я включил свой компьютер, проверил голосовые сообщения и открыл большую часть писем, которые казались хоть сколько-нибудь интересными, прежде чем мой взгляд случайно упал на нее."
+    "На самом деле, я включил свой компьютер, проверил голосовые сообщения и открыл большую часть писем, которые казались хоть сколько-нибудь интересными, прежде чем мой взгляд случайно упал на неё."
 
 # ch/audrey/events.rpy:2214
 translate russian audrey_event_07_1e3e955b:
-    "Первое, что привлекло мое внимание, это то, что я смотрю на лист бумаги формата A3, который имел отчетливый блеск, выдающий, что он был сделан на копировальном аппарате."
+    "Первое, что привлекло моё внимание, это то, что я смотрю на лист бумаги формата A3, который имел отчётливый блеск, выдающий, что он был сделан на копировальном аппарате."
 
 # ch/audrey/events.rpy:2215
 translate russian audrey_event_07_1cf6ba10:
-    "В наши дни большинство вещей сканируют, поэтому особой необходимости использовать копир нет, а листы такого размера – еще большая редкость."
+    "В наши дни большинство вещей сканируют, поэтому особой необходимости использовать копир нет, а листы такого размера — ещё большая редкость."
 
 # ch/audrey/events.rpy:2216
 translate russian audrey_event_07_3b2fee9e:
-    "Но когда я действительно посмотрел вниз и обратил внимание на то, что изображено на глянцевой бумаге, я сразу же схватил ее, опасаясь, что кто-то войдет и увидит это."
+    "Но когда я действительно посмотрел вниз и обратил внимание на то, что изображено на глянцевой бумаге, я сразу же схватил её, опасаясь, что кто-то войдёт и увидит это."
 
 # ch/audrey/events.rpy:2217
 translate russian audrey_event_07_477ff210:
@@ -9394,11 +9394,11 @@ translate russian audrey_event_07_422e8151:
 
 # ch/audrey/events.rpy:2226
 translate russian audrey_event_07_75f5f957:
-    "В ее руке блокнот и карандаш, и я вспоминаю, что вчера вечером попросил ее сделать стенограмму письма, прежде чем я покинул офис."
+    "В её руке блокнот и карандаш, и я вспоминаю, что вчера вечером попросил её сделать стенограмму письма, прежде чем я покинул офис."
 
 # ch/audrey/events.rpy:2227
 translate russian audrey_event_07_ed293ea9:
-    "Выражение шока на ее лице ясно показывает, что она уже видела, что изображено на отпечатанном снимке."
+    "Выражение шока на её лице ясно показывает, что она уже видела, что изображено на отпечатанном снимке."
 
 # ch/audrey/events.rpy:2228
 translate russian audrey_event_07_c3ab1f06:
@@ -9410,11 +9410,11 @@ translate russian audrey_event_07_d36e955a:
 
 # ch/audrey/events.rpy:2230
 translate russian audrey_event_07_54a49ec6:
-    "Она бросает взгляд через плечо на копировальный аппарат в углу приемной и затем снова смотрит на изображение."
+    "Она бросает взгляд через плечо на копировальный аппарат в углу приёмной и затем снова смотрит на изображение."
 
 # ch/audrey/events.rpy:2231
 translate russian audrey_event_07_54c511f4:
-    "Неосознанно ее рука тянется к собственной ягодице."
+    "Неосознанно её рука тянется к собственной ягодице."
 
 # ch/audrey/events.rpy:2232
 translate russian audrey_event_07_1b84a0e8:
@@ -9426,7 +9426,7 @@ translate russian audrey_event_07_fef84153:
 
 # ch/audrey/events.rpy:2234
 translate russian audrey_event_07_2815bad1:
-    "Сейчас она смотрит на меня, явно начиная гадать, как такая вещь могла оказаться на моем столе, не говоря уже о том, чтобы быть адресованной мне с подписью помадой."
+    "Сейчас она смотрит на меня, явно начиная гадать, как такая вещь могла оказаться на моём столе, не говоря уже о том, чтобы быть адресованной мне с подписью помадой."
 
 # ch/audrey/events.rpy:2235
 translate russian audrey_event_07_c5ab6345:
@@ -9438,7 +9438,7 @@ translate russian audrey_event_07_c227f9db:
 
 # ch/audrey/events.rpy:2240
 translate russian audrey_event_07_1714bb6e:
-    mike.say "В руководстве отдела кадров есть строгие правила и положения, которые запрещают подобные вещи…"
+    mike.say "В руководстве отдела кадров есть строгие правила и положения, которые запрещают подобные вещи..."
 
 # ch/audrey/events.rpy:2241
 translate russian audrey_event_07_13d550ff:
@@ -9446,7 +9446,7 @@ translate russian audrey_event_07_13d550ff:
 
 # ch/audrey/events.rpy:2242
 translate russian audrey_event_07_dff505c9:
-    mike.say "…как я уверен, ты знаешь."
+    mike.say "...как я уверен, ты знаешь."
 
 # ch/audrey/events.rpy:2243
 translate russian audrey_event_07_ac1a559d:
@@ -9478,7 +9478,7 @@ translate russian audrey_event_07_032d08d1:
 
 # ch/audrey/events.rpy:2250
 translate russian audrey_event_07_9c4d19d7:
-    mike.say "Эм… может быть, не совсем так, Лавиш."
+    mike.say "Эм... может быть, не совсем так, Лавиш."
 
 # ch/audrey/events.rpy:2251
 translate russian audrey_event_07_23445c39:
@@ -9486,7 +9486,7 @@ translate russian audrey_event_07_23445c39:
 
 # ch/audrey/events.rpy:2252
 translate russian audrey_event_07_0c13bfa6:
-    lavish.say "Хорошо, я обязательно подниму тревогу, если увижу кого-то еще, кто фотографирует свои ягодицы, мистер [hero.family_name]."
+    lavish.say "Хорошо, я обязательно подниму тревогу, если увижу кого-то ещё, кто фотографирует свои ягодицы, мистер [hero.family_name]."
 
 # ch/audrey/events.rpy:2253
 translate russian audrey_event_07_9ef7433b:
@@ -9498,11 +9498,11 @@ translate russian audrey_event_07_00bfd235:
 
 # ch/audrey/events.rpy:2258
 translate russian audrey_event_07_78575839:
-    mike.say "Ну, Лавиш… я знаю, что ты молода и, вероятно, очень идеалистична."
+    mike.say "Ну, Лавиш... я знаю, что ты молода и, вероятно, очень идеалистична."
 
 # ch/audrey/events.rpy:2259
 translate russian audrey_event_07_e90c7d9f:
-    mike.say "И поверь мне, все эти прогрессивные идеи – это здорово, в мире социальных сетей и среди твоих однокурсников."
+    mike.say "И поверь мне, все эти прогрессивные идеи — это здорово, в мире социальных сетей и среди твоих однокурсников."
 
 # ch/audrey/events.rpy:2260
 translate russian audrey_event_07_9c1409fc:
@@ -9510,19 +9510,19 @@ translate russian audrey_event_07_9c1409fc:
 
 # ch/audrey/events.rpy:2261
 translate russian audrey_event_07_6d9c44e4:
-    mike.say "И рано или поздно тебе придется понять, что существуют определенные... \"услуги\", если хочешь так выразиться."
+    mike.say "И рано или поздно тебе придётся понять, что существуют определённые... «услуги», если хочешь так выразиться."
 
 # ch/audrey/events.rpy:2262
 translate russian audrey_event_07_ecd9dd4d:
-    mike.say "Эти \"услуги\" – это смазка, которая поддерживает работу бизнеса."
+    mike.say "Эти «услуги» — это смазка, которая поддерживает работу бизнеса."
 
 # ch/audrey/events.rpy:2263
 translate russian audrey_event_07_58896084:
-    mike.say "Ты понимаешь, о чем я?"
+    mike.say "Ты понимаешь, о чём я?"
 
 # ch/audrey/events.rpy:2264
 translate russian audrey_event_07_e57d71e5:
-    "Лэвиш нервно глотает, но все равно кивает."
+    "Лэвиш нервно глотает, но всё равно кивает."
 
 # ch/audrey/events.rpy:2265
 translate russian audrey_event_07_e94823e9:
@@ -9546,7 +9546,7 @@ translate russian audrey_event_07_0abd7755:
 
 # ch/audrey/events.rpy:2270
 translate russian audrey_event_07_add816e3:
-    mike.say "Я говорю тебе, что если ты, по собственному желанию и совершенно без какого-либо моего давления, захочешь сделать определенные вещи для моей выгоды..."
+    mike.say "Я говорю тебе, что если ты, по собственному желанию и совершенно без какого-либо моего давления, захочешь сделать определённые вещи для моей выгоды..."
 
 # ch/audrey/events.rpy:2271
 translate russian audrey_event_07_b384eebc:
@@ -9554,7 +9554,7 @@ translate russian audrey_event_07_b384eebc:
 
 # ch/audrey/events.rpy:2272
 translate russian audrey_event_07_452fd73f:
-    mike.say "...тогда я, в свою очередь, буду учитывать это, когда придет время принимать какие-либо решения относительно твоего будущего в этом отделе."
+    mike.say "...тогда я, в свою очередь, буду учитывать это, когда придёт время принимать какие-либо решения относительно твоего будущего в этом отделе."
 
 # ch/audrey/events.rpy:2273
 translate russian audrey_event_07_016fd05e:
@@ -9562,11 +9562,11 @@ translate russian audrey_event_07_016fd05e:
 
 # ch/audrey/events.rpy:2274
 translate russian audrey_event_07_53ea00d4:
-    "Она торопливо кивает, улыбаясь, но эта улыбка не отражается на других частях ее лица, когда она выходит из моего кабинета."
+    "Она торопливо кивает, улыбаясь, но эта улыбка не отражается на других частях её лица, когда она выходит из моего кабинета."
 
 # ch/audrey/events.rpy:2275
 translate russian audrey_event_07_6816a580:
-    "И вот, посеяв эту мысль, мне теперь остается только найти виновника, который спрятал это и кому принадлежат эти ягодицы."
+    "И вот, посеяв эту мысль, мне теперь остаётся только найти виновника, который спрятал это и кому принадлежат эти ягодицы."
 
 # ch/audrey/events.rpy:2278
 translate russian audrey_event_07_c293410a:
@@ -9574,11 +9574,11 @@ translate russian audrey_event_07_c293410a:
 
 # ch/audrey/events.rpy:2279
 translate russian audrey_event_07_aa2edf18:
-    "Кто мог это сделать и оставить здесь, чтобы я нашел?"
+    "Кто мог это сделать и оставить здесь, чтобы я нашёл?"
 
 # ch/audrey/events.rpy:2280
 translate russian audrey_event_07_30b60236:
-    "А что, если кто-то другой вошел сюда и обнаружил бы это, лежащее у меня на столе?!"
+    "А что, если кто-то другой вошёл сюда и обнаружил бы это, лежащее у меня на столе?!"
 
 # ch/audrey/events.rpy:2282
 translate russian audrey_event_07_b61e439b:
@@ -9586,19 +9586,19 @@ translate russian audrey_event_07_b61e439b:
 
 # ch/audrey/events.rpy:2283
 translate russian audrey_event_07_2722e438:
-    "Я вижу, как Але́тта проходит мимо, ее лицо уже хмурится, вероятно, она собирается отругать кого-нибудь."
+    "Я вижу, как Але́тта проходит мимо, её лицо уже хмурится, вероятно, она собирается отругать кого-нибудь."
 
 # ch/audrey/events.rpy:2284
 translate russian audrey_event_07_21f84f72:
-    "Одри просто сидит за своим столом, открыто проверяя свой телефон в рабочее время, казалось бы, совершенно не беспокоясь ни о чем."
+    "Одри просто сидит за своим столом, открыто проверяя свой телефон в рабочее время, казалось бы, совершенно не беспокоясь ни о чём."
 
 # ch/audrey/events.rpy:2286
 translate russian audrey_event_07_a1d241c4:
-    "А Шиори отчаянно складывает папки на своем столе, как будто пытается создать видимость занятости."
+    "А Шиори отчаянно складывает папки на своём столе, как будто пытается создать видимость занятости."
 
 # ch/audrey/events.rpy:2287
 translate russian audrey_event_07_ec9008e8:
-    "Я могу только предположить, что тот, кто оставил это здесь для меня, все еще носит то, что видно на изображении."
+    "Я могу только предположить, что тот, кто оставил это здесь для меня, всё ещё носит то, что видно на изображении."
 
 # ch/audrey/events.rpy:2288
 translate russian audrey_event_07_e4d664ad:
@@ -9614,11 +9614,11 @@ translate russian audrey_event_07_62eb18e9:
 
 # ch/audrey/events.rpy:2291
 translate russian audrey_event_07_88a33acb:
-    "Неверно – конечно, нет!"
+    "Неверно — конечно, нет!"
 
 # ch/audrey/events.rpy:2292
 translate russian audrey_event_07_34a5c127:
-    "Достаточно одного взгляда, чтобы убедиться в том, что именно сегодня эти трое решили надеть почти идентичные черные колготки на работу!"
+    "Достаточно одного взгляда, чтобы убедиться в том, что именно сегодня эти трое решили надеть почти идентичные чёрные колготки на работу!"
 
 # ch/audrey/events.rpy:2293
 translate russian audrey_event_07_4726c539:
@@ -9626,7 +9626,7 @@ translate russian audrey_event_07_4726c539:
 
 # ch/audrey/events.rpy:2294
 translate russian audrey_event_07_7152cd7b:
-    "Тот факт, что это прижато к стеклу копировального аппарата, означает, что оно вполне может принадлежать любому из трех потенциальных подозреваемых."
+    "Тот факт, что это прижато к стеклу копировального аппарата, означает, что оно вполне может принадлежать любому из трёх потенциальных подозреваемых."
 
 # ch/audrey/events.rpy:2295
 translate russian audrey_event_07_0c5c6b77:
@@ -9642,7 +9642,7 @@ translate russian audrey_event_07_b8cfb1a9:
 
 # ch/audrey/events.rpy:2298
 translate russian audrey_event_07_51483a93:
-    "Меня больше беспокоило то, что меня могут втянуть в чьи-то извращенные игры на работе, и какие последствия это может иметь для меня в будущем, если такое станет привычкой."
+    "Меня больше беспокоило то, что меня могут втянуть в чьи-то извращённые игры на работе, и какие последствия это может иметь для меня в будущем, если такое станет привычкой."
 
 # ch/audrey/events.rpy:2299
 translate russian audrey_event_07_1272ff26:
@@ -9650,7 +9650,7 @@ translate russian audrey_event_07_1272ff26:
 
 # ch/audrey/events.rpy:2307
 translate russian audrey_event_07_1b2c2c9d:
-    "Я отправляю короткое электронное письмо Алете, спрашивая, есть ли у нее минутка, чтобы обсудить кое-что в моем кабинете, и стараюсь быть достаточно уклончивым."
+    "Я отправляю короткое электронное письмо Алете, спрашивая, есть ли у неё минутка, чтобы обсудить кое-что в моём кабинете, и стараюсь быть достаточно уклончивым."
 
 # ch/audrey/events.rpy:2308
 translate russian audrey_event_07_5ea5fb6b:
@@ -9666,19 +9666,19 @@ translate russian audrey_event_07_2671df42:
 
 # ch/audrey/events.rpy:2311
 translate russian audrey_event_07_d067c29b:
-    "Через несколько минут Алета энергично входит в мой кабинет, на ее лице выражение ожидания."
+    "Через несколько минут Алета энергично входит в мой кабинет, на её лице выражение ожидания."
 
 # ch/audrey/events.rpy:2313
 translate russian audrey_event_07_a324f96b:
-    aletta.say "Неужели ты не могла просто объяснить, что хотела обсудить, в своем электронном письме?"
+    aletta.say "Неужели ты не могла просто объяснить, что хотела обсудить, в своём электронном письме?"
 
 # ch/audrey/events.rpy:2314
 translate russian audrey_event_07_e95ca418:
-    aletta.say "Возможно, тебе сегодня утром не очень занято, но я могу заверить тебя, что у меня все очень напряженно!"
+    aletta.say "Возможно, тебе сегодня утром не очень занято, но я могу заверить тебя, что у меня все очень напряжённо!"
 
 # ch/audrey/events.rpy:2315
 translate russian audrey_event_07_2aabb5d8:
-    mike.say "Ну, Алета... дело в том, что это не то, о чем можно говорить по электронной почте."
+    mike.say "Ну, Алета... дело в том, что это не то, о чём можно говорить по электронной почте."
 
 # ch/audrey/events.rpy:2316
 translate russian audrey_event_07_d1bf4585:
@@ -9686,7 +9686,7 @@ translate russian audrey_event_07_d1bf4585:
 
 # ch/audrey/events.rpy:2317
 translate russian audrey_event_07_b0c0e8c9:
-    mike.say "Видишь ли, я нашел это сегодня утром на своем столе."
+    mike.say "Видишь ли, я нашёл это сегодня утром на своём столе."
 
 # ch/audrey/events.rpy:2318
 translate russian audrey_event_07_b69b1f68:
@@ -9702,7 +9702,7 @@ translate russian audrey_event_07_936a6b0d:
 
 # ch/audrey/events.rpy:2321
 translate russian audrey_event_07_20512971:
-    aletta.say "\"Ну, я не могу сказать, что узнаю её...\"."
+    aletta.say "«Ну, я не могу сказать, что узнаю её...»."
 
 # ch/audrey/events.rpy:2322
 translate russian audrey_event_07_071a5eb7:
@@ -9710,7 +9710,7 @@ translate russian audrey_event_07_071a5eb7:
 
 # ch/audrey/events.rpy:2323
 translate russian audrey_event_07_85aa80c1:
-    aletta.say "\"[lssb_audrey.hero_name()]… ты серьезно предполагаешь, что это я...?\"."
+    aletta.say "«[lssb_audrey.hero_name()]... ты серьёзно предполагаешь, что это я...?»."
 
 # ch/audrey/events.rpy:2324
 translate russian audrey_event_07_1134e606:
@@ -9726,27 +9726,27 @@ translate russian audrey_event_07_df7e8f22:
 
 # ch/audrey/events.rpy:2327
 translate russian audrey_event_07_9bb4ea67:
-    aletta.say "\"Как ты посмел!\"."
+    aletta.say "«Как ты посмел!»."
 
 # ch/audrey/events.rpy:2328
 translate russian audrey_event_07_ba574319:
-    mike.say "\"Что я сделал, Алетта?\"."
+    mike.say "«Что я сделал, Алетта?»."
 
 # ch/audrey/events.rpy:2329
 translate russian audrey_event_07_f62029d1:
-    mike.say "\"Я ни в чем тебя не обвиняю – но на тебе черные колготки и красивая попа!\"."
+    mike.say "«Я ни в чём тебя не обвиняю — но на тебе чёрные колготки и красивая попа!»."
 
 # ch/audrey/events.rpy:2330
 translate russian audrey_event_07_543c7444:
-    mike.say "\"Как я должен был понять?\"."
+    mike.say "«Как я должен был понять?»."
 
 # ch/audrey/events.rpy:2331
 translate russian audrey_event_07_e06c53ed:
-    aletta.say "\"Этот разговор окончен!\"."
+    aletta.say "«Этот разговор окончен!»."
 
 # ch/audrey/events.rpy:2332
 translate russian audrey_event_07_71c99553:
-    aletta.say "\"И если у тебя есть какие-либо дальнейшие жалобы подобного характера, то я советую тебе обратиться по правильным каналам и связаться с отделом кадров!\"."
+    aletta.say "«И если у тебя есть какие-либо дальнейшие жалобы подобного характера, то я советую тебе обратиться по правильным каналам и связаться с отделом кадров!»."
 
 # ch/audrey/events.rpy:2335
 translate russian audrey_event_07_c280f399:
@@ -9762,7 +9762,7 @@ translate russian audrey_event_07_86058eb3:
 
 # ch/audrey/events.rpy:2342
 translate russian audrey_event_07_75e1496a:
-    shiori.say "Привет, [lssb_audrey.hero_name()], доброе утро – что тебе нужно?"
+    shiori.say "Привет, [lssb_audrey.hero_name()], доброе утро — что тебе нужно?"
 
 # ch/audrey/events.rpy:2343
 translate russian audrey_event_07_9820a759:
@@ -9770,11 +9770,11 @@ translate russian audrey_event_07_9820a759:
 
 # ch/audrey/events.rpy:2344
 translate russian audrey_event_07_30e0edcc:
-    "Но мне все равно нужно помнить, что за ее невинной внешностью Шиори по-прежнему любит манипулировать, но только по-своему."
+    "Но мне всё равно нужно помнить, что за её невинной внешностью Шиори по-прежнему любит манипулировать, но только по-своему."
 
 # ch/audrey/events.rpy:2345
 translate russian audrey_event_07_e7abb6b0:
-    "Я показываю ей фотографию, ожидая, что она поймет, что это значит."
+    "Я показываю ей фотографию, ожидая, что она поймёт, что это значит."
 
 # ch/audrey/events.rpy:2347
 translate russian audrey_event_07_34177927:
@@ -9782,7 +9782,7 @@ translate russian audrey_event_07_34177927:
 
 # ch/audrey/events.rpy:2348
 translate russian audrey_event_07_b31fcaea:
-    "Я киваю в знак согласия, думая, что Шиори легко поняла, в чем проблема."
+    "Я киваю в знак согласия, думая, что Шиори легко поняла, в чём проблема."
 
 # ch/audrey/events.rpy:2349
 translate russian audrey_event_07_64570809:
@@ -9802,7 +9802,7 @@ translate russian audrey_event_07_fa241134:
 
 # ch/audrey/events.rpy:2353
 translate russian audrey_event_07_633c0d1c:
-    "Она глотает и кивает, явно немного напуганная тем, что ее ждет."
+    "Она глотает и кивает, явно немного напуганная тем, что её ждёт."
 
 # ch/audrey/events.rpy:2354
 translate russian audrey_event_07_682f5e39:
@@ -9810,7 +9810,7 @@ translate russian audrey_event_07_682f5e39:
 
 # ch/audrey/events.rpy:2355
 translate russian audrey_event_07_e7c92fe2:
-    mike.say "Ну, чего же ты ждешь?"
+    mike.say "Ну, чего же ты ждёшь?"
 
 # ch/audrey/events.rpy:2356
 translate russian audrey_event_07_194939c7:
@@ -9850,7 +9850,7 @@ translate russian audrey_event_07_eb79c71f:
 
 # ch/audrey/events.rpy:2365
 translate russian audrey_event_07_9d0b353f:
-    shiori.say "О нет, это не может быть моя задница – у меня нет такого вызывающего нижнего белья!"
+    shiori.say "О нет, это не может быть моя задница — у меня нет такого вызывающего нижнего белья!"
 
 # ch/audrey/events.rpy:2366
 translate russian audrey_event_07_fd983198:
@@ -9866,19 +9866,19 @@ translate russian audrey_event_07_f077fdda:
 
 # ch/audrey/events.rpy:2374
 translate russian audrey_event_07_11068591:
-    "С нарастающим чувством тревоги я звоню по служебному телефону Одри и прошу ее подойти в мой кабинет."
+    "С нарастающим чувством тревоги я звоню по служебному телефону Одри и прошу её подойти в мой кабинет."
 
 # ch/audrey/events.rpy:2375
 translate russian audrey_event_07_cfaa6d50:
-    "Я вижу, как она привычно пожимает плечами и недовольно хмыкает из-за того, что ее отвлекли от работы работой."
+    "Я вижу, как она привычно пожимает плечами и недовольно хмыкает из-за того, что её отвлекли от работы работой."
 
 # ch/audrey/events.rpy:2376
 translate russian audrey_event_07_56064b39:
-    "Но она все равно встает и подходит ко мне."
+    "Но она всё равно встаёт и подходит ко мне."
 
 # ch/audrey/events.rpy:2377
 translate russian audrey_event_07_d011b544:
-    "Мне стоило сразу догадаться, что такой трюк – это однозначно работа рук Одри."
+    "Мне стоило сразу догадаться, что такой трюк — это однозначно работа рук Одри."
 
 # ch/audrey/events.rpy:2378
 translate russian audrey_event_07_c8a56ba8:
@@ -9886,15 +9886,15 @@ translate russian audrey_event_07_c8a56ba8:
 
 # ch/audrey/events.rpy:2379
 translate russian audrey_event_07_cc8ee9f9:
-    "Это связано с динамикой власти, или я просто боюсь признать, что во всем этом есть что-то невероятно сексуальное?"
+    "Это связано с динамикой власти, или я просто боюсь признать, что во всём этом есть что-то невероятно сексуальное?"
 
 # ch/audrey/events.rpy:2382
 translate russian audrey_event_07_ec8500bf:
-    "Там, где Алетта гордо вошла бы, а Шиори робко пряталась, как мышка, Одри ведет себя так, будто мы просто знакомые, а не начальница и подчиненная."
+    "Там, где Алетта гордо вошла бы, а Шиори робко пряталась, как мышка, Одри ведёт себя так, будто мы просто знакомые, а не начальница и подчиненная."
 
 # ch/audrey/events.rpy:2384
 translate russian audrey_event_07_afa4dac9:
-    "Там, где Алетта гордо вошла бы, Одри ведет себя так, будто мы просто знакомые, а не начальница и подчиненная."
+    "Там, где Алетта гордо вошла бы, Одри ведёт себя так, будто мы просто знакомые, а не начальница и подчиненная."
 
 # ch/audrey/events.rpy:2385
 translate russian audrey_event_07_cdd5ef57:
@@ -9930,7 +9930,7 @@ translate russian audrey_event_07_245a14bf:
 
 # ch/audrey/events.rpy:2393
 translate russian audrey_event_07_9a73323e:
-    "Оно повернуто так, что она может легко прочитать написанные на нем слова."
+    "Оно повернуто так, что она может легко прочитать написанные на нём слова."
 
 # ch/audrey/events.rpy:2394
 translate russian audrey_event_07_793c1d55:
@@ -9942,11 +9942,11 @@ translate russian audrey_event_07_82d5bff6:
 
 # ch/audrey/events.rpy:2397
 translate russian audrey_event_07_3ffbe2e3:
-    audrey.say "Если размер подходит - или, может быть, в этом случае, это...пробка для ануса!"
+    audrey.say "Если размер подходит — или, может быть, в этом случае, это...пробка для ануса!"
 
 # ch/audrey/events.rpy:2398
 translate russian audrey_event_07_d2a13282:
-    mike.say "Значит, это была ты – ты признаешь это!"
+    mike.say "Значит, это была ты — ты признаёшь это!"
 
 # ch/audrey/events.rpy:2399
 translate russian audrey_event_07_1dfdbfc0:
@@ -9986,7 +9986,7 @@ translate russian audrey_event_07_b9669e3e:
 
 # ch/audrey/events.rpy:2410
 translate russian audrey_event_07_228d27e9:
-    audrey.say "Не притворяйся невинным со мной - я видела, как ты на меня смотришь!"
+    audrey.say "Не притворяйся невинным со мной — я видела, как ты на меня смотришь!"
 
 # ch/audrey/events.rpy:2412
 translate russian audrey_event_07_d4f51cab:
@@ -9994,7 +9994,7 @@ translate russian audrey_event_07_d4f51cab:
 
 # ch/audrey/events.rpy:2414
 translate russian audrey_event_07_b6890eb2:
-    "С этими словами она выпрямляет ноги и встает со стола, при этом немного наклоняясь вперед."
+    "С этими словами она выпрямляет ноги и встаёт со стола, при этом немного наклоняясь вперёд."
 
 # ch/audrey/events.rpy:2415
 translate russian audrey_event_07_cef0b87d:
@@ -10002,7 +10002,7 @@ translate russian audrey_event_07_cef0b87d:
 
 # ch/audrey/events.rpy:2416
 translate russian audrey_event_07_3bf895e6:
-    "Через секунду ее уже нет рядом, оставив меня без слов, растерянным и довольно возбужденным."
+    "Через секунду её уже нет рядом, оставив меня без слов, растерянным и довольно возбуждённым."
 
 # ch/audrey/events.rpy:2420
 translate russian audrey_event_07_b9fce0a4:
@@ -10010,15 +10010,15 @@ translate russian audrey_event_07_b9fce0a4:
 
 # ch/audrey/events.rpy:2421
 translate russian audrey_event_07_64463726:
-    "Если у них окажется надежная алиби, то не только я буду выглядеть глупо, но и вся эта история станет достоянием общественности."
+    "Если у них окажется надёжная алиби, то не только я буду выглядеть глупо, но и вся эта история станет достоянием общественности."
 
 # ch/audrey/events.rpy:2422
 translate russian audrey_event_07_7d99ff00:
-    "Я выхожу из своей двери кабинета, стараясь выглядеть как можно более непринужденно."
+    "Я выхожу из своей двери кабинета, стараясь выглядеть как можно более непринуждённо."
 
 # ch/audrey/events.rpy:2425
 translate russian audrey_event_07_313f90f6:
-    "Первая девушка, которую я встречаю, – это Шиори, которая усердно разбирает бумаги на своем столе, проявляя ту же самую целеустремленность и одновременно некомпетентность, которой она обычно обладает."
+    "Первая девушка, которую я встречаю, — это Шиори, которая усердно разбирает бумаги на своём столе, проявляя ту же самую целеустремленность и одновременно некомпетентность, которой она обычно обладает."
 
 # ch/audrey/events.rpy:2426
 translate russian audrey_event_07_3815a6c4:
@@ -10026,7 +10026,7 @@ translate russian audrey_event_07_3815a6c4:
 
 # ch/audrey/events.rpy:2427
 translate russian audrey_event_07_7d99af38:
-    "Она поднимает голову и одаривает меня милой и воодушевленной улыбкой."
+    "Она поднимает голову и одаривает меня милой и воодушевлённой улыбкой."
 
 # ch/audrey/events.rpy:2428
 translate russian audrey_event_07_42623e4b:
@@ -10034,11 +10034,11 @@ translate russian audrey_event_07_42623e4b:
 
 # ch/audrey/events.rpy:2429
 translate russian audrey_event_07_2b786689:
-    mike.say "Мне нужен... файл Зиммермана... вот, это он – не могла бы ты найти для меня этот файл?"
+    mike.say "Мне нужен... файл Зиммермана... вот, это он — не могла бы ты найти для меня этот файл?"
 
 # ch/audrey/events.rpy:2430
 translate russian audrey_event_07_bf5dc7c6:
-    "Шиори кивает и тут же встает с места, направляясь к последнему нижнему ящику шкафа."
+    "Шиори кивает и тут же встаёт с места, направляясь к последнему нижнему ящику шкафа."
 
 # ch/audrey/events.rpy:2431
 translate russian audrey_event_07_5f664006:
@@ -10046,19 +10046,19 @@ translate russian audrey_event_07_5f664006:
 
 # ch/audrey/events.rpy:2432
 translate russian audrey_event_07_e91f6071:
-    "Ее юбка не очень-то длинная, но все же она недостаточно короткая, чтобы я мог увидеть ее трусики."
+    "Её юбка не очень-то длинная, но все же она недостаточно короткая, чтобы я мог увидеть её трусики."
 
 # ch/audrey/events.rpy:2433
 translate russian audrey_event_07_046fc8b2:
-    mike.say "Отлично, Шиори – продолжай копаться в глубине, пока не найдешь его!"
+    mike.say "Отлично, Шиори — продолжай копаться в глубине, пока не найдёшь его!"
 
 # ch/audrey/events.rpy:2434
 translate russian audrey_event_07_e16ab8a1:
-    "Наконец, она наклоняется еще немного, и я вижу..."
+    "Наконец, она наклоняется ещё немного, и я вижу..."
 
 # ch/audrey/events.rpy:2435
 translate russian audrey_event_07_7e28f02d:
-    "...самый край ее аккуратных, безупречных, белых трусиков."
+    "...самый край её аккуратных, безупречных, белых трусиков."
 
 # ch/audrey/events.rpy:2436
 translate russian audrey_event_07_cbd17b62:
@@ -10086,7 +10086,7 @@ translate russian audrey_event_07_ca45dc8d:
 
 # ch/audrey/events.rpy:2445
 translate russian audrey_event_07_3024cf7d:
-    aletta.say "Да, ничего особенного – я просто потеряла серьгу по дороге в офис этим утром."
+    aletta.say "Да, ничего особенного — я просто потеряла серьгу по дороге в офис этим утром."
 
 # ch/audrey/events.rpy:2446
 translate russian audrey_event_07_4081705f:
@@ -10094,7 +10094,7 @@ translate russian audrey_event_07_4081705f:
 
 # ch/audrey/events.rpy:2447
 translate russian audrey_event_07_10ce543b:
-    mike.say "Сентиментальное...? Серьезно?"
+    mike.say "Сентиментальное...? Серьёзно?"
 
 # ch/audrey/events.rpy:2448
 translate russian audrey_event_07_301de7c2:
@@ -10102,7 +10102,7 @@ translate russian audrey_event_07_301de7c2:
 
 # ch/audrey/events.rpy:2449
 translate russian audrey_event_07_5bd0727b:
-    aletta.say "Да, сентиментальное – я могу быть профессиональной, когда это уместно, но я же не ледышка!"
+    aletta.say "Да, сентиментальное — я могу быть профессиональной, когда это уместно, но я же не ледышка!"
 
 # ch/audrey/events.rpy:2450
 translate russian audrey_event_07_1d19a95d:
@@ -10126,11 +10126,11 @@ translate russian audrey_event_07_fb11ac99:
 
 # ch/audrey/events.rpy:2455
 translate russian audrey_event_07_e7553bca:
-    "Я иду за ней в угол, напрягаясь, чтобы увидеть хотя бы намек на ее нижнее белье, пока ее юбка начинает подниматься."
+    "Я иду за ней в угол, напрягаясь, чтобы увидеть хотя бы намёк на её нижнее белье, пока её юбка начинает подниматься."
 
 # ch/audrey/events.rpy:2456
 translate russian audrey_event_07_32c54efd:
-    "Сначала я не думаю, что смогу что-то разглядеть, но потом понимаю, что на ней трусики в тон черного цвета колготок."
+    "Сначала я не думаю, что смогу что-то разглядеть, но потом понимаю, что на ней трусики в тон чёрного цвета колготок."
 
 # ch/audrey/events.rpy:2457
 translate russian audrey_event_07_d795490e:
@@ -10138,11 +10138,11 @@ translate russian audrey_event_07_d795490e:
 
 # ch/audrey/events.rpy:2459
 translate russian audrey_event_07_f1d7bcee:
-    "Мне удается встать всего через секунду до того, как это делает Алетта, и она подозрительно смотрит на меня, но потом качает головой и возвращается, чтобы вызвать лифт."
+    "Мне удаётся встать всего через секунду до того, как это делает Алетта, и она подозрительно смотрит на меня, но потом качает головой и возвращается, чтобы вызвать лифт."
 
 # ch/audrey/events.rpy:2462
 translate russian audrey_event_07_ec383c43:
-    "Две уже проверены, и осталась только одна – значит, это должна быть Одри!"
+    "Две уже проверены, и осталась только одна — значит, это должна быть Одри!"
 
 # ch/audrey/events.rpy:2464
 translate russian audrey_event_07_a16f5f33:
@@ -10150,7 +10150,7 @@ translate russian audrey_event_07_a16f5f33:
 
 # ch/audrey/events.rpy:2465
 translate russian audrey_event_07_aadb1ae4:
-    "Расспросы в офисе показывают, что ее последний раз видели направляющейся к шкафчику с канцелярскими товарами."
+    "Расспросы в офисе показывают, что её последний раз видели направляющейся к шкафчику с канцелярскими товарами."
 
 # ch/audrey/events.rpy:2466
 translate russian audrey_event_07_aa6a677b:
@@ -10170,11 +10170,11 @@ translate russian audrey_event_07_16ba2e04:
 
 # ch/audrey/events.rpy:2471
 translate russian audrey_event_07_e50e8931:
-    "Одри наклоняется все дальше вперед, не обращая внимания на то, что ее юбка, которая уже и так едва прикрывает, почти доходит до верхней части ее бедер."
+    "Одри наклоняется всё дальше вперёд, не обращая внимания на то, что её юбка, которая уже и так едва прикрывает, почти доходит до верхней части её бёдер."
 
 # ch/audrey/events.rpy:2472
 translate russian audrey_event_07_4a63b5c3:
-    "Я тоже наклоняюсь вперед, наблюдая, как она начинает медленно сползать и переминаться через ягодицы."
+    "Я тоже наклоняюсь вперёд, наблюдая, как она начинает медленно сползать и переминаться через ягодицы."
 
 # ch/audrey/events.rpy:2473
 translate russian audrey_event_07_8307aea4:
@@ -10182,11 +10182,11 @@ translate russian audrey_event_07_8307aea4:
 
 # ch/audrey/events.rpy:2474
 translate russian audrey_event_07_725b1295:
-    "Ее ноги такие красивые и идеальные в этих черных колготках, что я почти забываю, зачем я здесь."
+    "Её ноги такие красивые и идеальные в этих чёрных колготках, что я почти забываю, зачем я здесь."
 
 # ch/audrey/events.rpy:2475
 translate russian audrey_event_07_4b93bf36:
-    "Наконец, я вижу красный цвет ее трусиков, что подтверждает, что она виновна."
+    "Наконец, я вижу красный цвет её трусиков, что подтверждает, что она виновна."
 
 # ch/audrey/events.rpy:2476
 translate russian audrey_event_07_2924bb98:
@@ -10194,23 +10194,23 @@ translate russian audrey_event_07_2924bb98:
 
 # ch/audrey/events.rpy:2477
 translate russian audrey_event_07_7e7697b7:
-    "Но вместо этого я остаюсь на месте, наблюдая, как ее юбка поднимается еще выше."
+    "Но вместо этого я остаюсь на месте, наблюдая, как её юбка поднимается ещё выше."
 
 # ch/audrey/events.rpy:2478
 translate russian audrey_event_07_6f33a223:
-    "К этому моменту юбка Одри полностью задрана до талии, обнажая ее ягодицы."
+    "К этому моменту юбка Одри полностью задрана до талии, обнажая её ягодицы."
 
 # ch/audrey/events.rpy:2479
 translate russian audrey_event_07_39fd914c:
-    "Она, должно быть, близка к тому, чтобы достать то, что ей нужно, потому что она начинает тянуться вперед, а затем снова отползать назад."
+    "Она, должно быть, близка к тому, чтобы достать то, что ей нужно, потому что она начинает тянуться вперёд, а затем снова отползать назад."
 
 # ch/audrey/events.rpy:2480
 translate russian audrey_event_07_db3392db:
-    "Она постоянно издает тихие, напряженные вздохи и стоны, как будто это требует от нее больших физических усилий."
+    "Она постоянно издаёт тихие, напряжённые вздохи и стоны, как будто это требует от неё больших физических усилий."
 
 # ch/audrey/events.rpy:2481
 translate russian audrey_event_07_7ecb02a5:
-    "На мой взгляд, мне требуется около пяти минут, чтобы посмотреть на это, потея, боясь быть обнаруженным и чувствуя, как мой член становится еще тверже, прежде чем я понимаю, что она вообще ни о чем не просит."
+    "На мой взгляд, мне требуется около пяти минут, чтобы посмотреть на это, потея, боясь быть обнаруженным и чувствуя, как мой член становится ещё тверже, прежде чем я понимаю, что она вообще ни о чём не просит."
 
 # ch/audrey/events.rpy:2483
 translate russian audrey_event_07_8da0151c:
@@ -10230,11 +10230,11 @@ translate russian audrey_event_07_669d0204:
 
 # ch/audrey/events.rpy:2487
 translate russian audrey_event_07_bd18d93b:
-    mike.say "Ты прекрасно знаешь, что я имею в виду – у меня в кабинете есть кое-что, что принадлежит тебе!"
+    mike.say "Ты прекрасно знаешь, что я имею в виду — у меня в кабинете есть кое-что, что принадлежит тебе!"
 
 # ch/audrey/events.rpy:2490
 translate russian audrey_event_07_4dea3fd8:
-    audrey.say "Ну, ты можешь смело это хранить – может быть, это поможет тебе сохранить этот образ в своей голове!"
+    audrey.say "Ну, ты можешь смело это хранить — может быть, это поможет тебе сохранить этот образ в своей голове!"
 
 # ch/audrey/events.rpy:2492
 translate russian audrey_event_07_816a869a:
@@ -10254,7 +10254,7 @@ translate russian audrey_event_06_266283e9:
 
 # ch/audrey/events.rpy:2503
 translate russian audrey_event_06_4d9d04e2:
-    "Ну, это уже другая история, и ее не стоит здесь повторять."
+    "Ну, это уже другая история, и её не стоит здесь повторять."
 
 # ch/audrey/events.rpy:2504
 translate russian audrey_event_06_552677f1:
@@ -10262,15 +10262,15 @@ translate russian audrey_event_06_552677f1:
 
 # ch/audrey/events.rpy:2505
 translate russian audrey_event_06_bf3c037a:
-    "Я планировал отправить ей строгое электронное письмо или оставить сообщение на ее телефоне, сказав, что хочу видеть ее в моем кабинете утром."
+    "Я планировал отправить ей строгое электронное письмо или оставить сообщение на её телефоне, сказав, что хочу видеть её в моём кабинете утром."
 
 # ch/audrey/events.rpy:2506
 translate russian audrey_event_06_f051751b:
-    "Но она почти выпрыгивает из-за своего стола, как только видит, как я зашел и закрыл дверь моего кабинета."
+    "Но она почти выпрыгивает из-за своего стола, как только видит, как я зашёл и закрыл дверь моего кабинета."
 
 # ch/audrey/events.rpy:2508
 translate russian audrey_event_06_168b666f:
-    "Я слышу, как она стучит в дверь, еще до того, как мне удалось сесть."
+    "Я слышу, как она стучит в дверь, ещё до того, как мне удалось сесть."
 
 # ch/audrey/events.rpy:2509
 translate russian audrey_event_06_e614464e:
@@ -10286,11 +10286,11 @@ translate russian audrey_event_06_425d4d5a:
 
 # ch/audrey/events.rpy:2513
 translate russian audrey_event_06_c4cad3cf:
-    audrey.say "Прежде чем ты что-нибудь скажешь – нет, я не знаю, как вывести пятна от спермы с дешевых штанов!"
+    audrey.say "Прежде чем ты что-нибудь скажешь — нет, я не знаю, как вывести пятна от спермы с дешёвых штанов!"
 
 # ch/audrey/events.rpy:2515
 translate russian audrey_event_06_72c1c91d:
-    "Она почти хихикает, когда это говорит, и не дает мне произнести ни слова, прежде чем ее оскорбления начнут сыпаться с ее уст."
+    "Она почти хихикает, когда это говорит, и не даёт мне произнести ни слова, прежде чем её оскорбления начнут сыпаться с её уст."
 
 # ch/audrey/events.rpy:2516
 translate russian audrey_event_06_e9821506:
@@ -10298,15 +10298,15 @@ translate russian audrey_event_06_e9821506:
 
 # ch/audrey/events.rpy:2518
 translate russian audrey_event_06_11353757:
-    audrey.say "Ой, прости – это была твоя любимая пара?"
+    audrey.say "Ой, прости — это была твоя любимая пара?"
 
 # ch/audrey/events.rpy:2519
 translate russian audrey_event_06_6e509c53:
-    audrey.say "Такие блестящие, что в них можно было увидеть свое отражение?"
+    audrey.say "Такие блестящие, что в них можно было увидеть своё отражение?"
 
 # ch/audrey/events.rpy:2520
 translate russian audrey_event_06_d7565612:
-    audrey.say "Не волнуйся, я уверена, что в комиссионном магазине однажды найдется еще одна такая же пара!"
+    audrey.say "Не волнуйся, я уверена, что в комиссионном магазине однажды найдётся ещё одна такая же пара!"
 
 # ch/audrey/events.rpy:2522
 translate russian audrey_event_06_1a5666c1:
@@ -10314,7 +10314,7 @@ translate russian audrey_event_06_1a5666c1:
 
 # ch/audrey/events.rpy:2523
 translate russian audrey_event_06_be219095:
-    "Но встреча с Одри довольно четко прояснила для меня этот момент."
+    "Но встреча с Одри довольно чётко прояснила для меня этот момент."
 
 # ch/audrey/events.rpy:2524
 translate russian audrey_event_06_3a34dea2:
@@ -10322,19 +10322,19 @@ translate russian audrey_event_06_3a34dea2:
 
 # ch/audrey/events.rpy:2525
 translate russian audrey_event_06_867360cf:
-    "Я вижу, как двигаются ее губы, и по тому, как она стоит, я знаю, что она все еще оскорбляет меня."
+    "Я вижу, как двигаются её губы, и по тому, как она стоит, я знаю, что она всё ещё оскорбляет меня."
 
 # ch/audrey/events.rpy:2526
 translate russian audrey_event_06_69d21a39:
-    "Остается только непреодолимое чувство, что я хочу, чтобы она замолчала."
+    "Остаётся только непреодолимое чувство, что я хочу, чтобы она замолчала."
 
 # ch/audrey/events.rpy:2527
 translate russian audrey_event_06_033f0652:
-    "Я просто знаю, что хочу, чтобы она заткнулась – и мне неважно, каким образом это произойдет."
+    "Я просто знаю, что хочу, чтобы она заткнулась — и мне неважно, каким образом это произойдёт."
 
 # ch/audrey/events.rpy:2528
 translate russian audrey_event_06_df8ae506:
-    "Я просто хочу, чтобы эти слова перестали вырываться из ее грязной, отвратительной пасти..."
+    "Я просто хочу, чтобы эти слова перестали вырываться из её грязной, отвратительной пасти..."
 
 # ch/audrey/events.rpy:2533
 translate russian audrey_event_06_24f2262f:
@@ -10346,11 +10346,11 @@ translate russian audrey_event_06_59431430:
 
 # ch/audrey/events.rpy:2535
 translate russian audrey_event_06_8fffdae2:
-    "Холодный пот проступает на затылке, когда я осознаю, насколько близко я был к тому, чтобы выплеснуть свой гнев на нее."
+    "Холодный пот проступает на затылке, когда я осознаю, насколько близко я был к тому, чтобы выплеснуть свой гнев на неё."
 
 # ch/audrey/events.rpy:2536
 translate russian audrey_event_06_405e9bda:
-    mike.say "Я... мне все равно, Одри."
+    mike.say "Я... мне всё равно, Одри."
 
 # ch/audrey/events.rpy:2537
 translate russian audrey_event_06_ced105d2:
@@ -10358,11 +10358,11 @@ translate russian audrey_event_06_ced105d2:
 
 # ch/audrey/events.rpy:2538
 translate russian audrey_event_06_61f9a3f9:
-    "Она наклоняет голову в сторону, искренне удивлена тем, что ее остановили."
+    "Она наклоняет голову в сторону, искренне удивлена тем, что её остановили."
 
 # ch/audrey/events.rpy:2539
 translate russian audrey_event_06_182b1f8d:
-    mike.say "Я сказал, что мне все равно, Одри – ни о том, что произошло на прошлой неделе, ни о том, что ты сейчас говоришь мне, ничего из этого."
+    mike.say "Я сказал, что мне всё равно, Одри — ни о том, что произошло на прошлой неделе, ни о том, что ты сейчас говоришь мне, ничего из этого."
 
 # ch/audrey/events.rpy:2540
 translate russian audrey_event_06_b815ca1b:
@@ -10382,7 +10382,7 @@ translate russian audrey_event_06_7cfe5aa4:
 
 # ch/audrey/events.rpy:2545
 translate russian audrey_event_06_748abeab:
-    "Возможно, она что-то сказала по дороге, но я игнорирую это и нарочно смотрю на стену, пока она не уйдет."
+    "Возможно, она что-то сказала по дороге, но я игнорирую это и нарочно смотрю на стену, пока она не уйдёт."
 
 # ch/audrey/events.rpy:2548
 translate russian audrey_event_06_0d354d86:
@@ -10390,7 +10390,7 @@ translate russian audrey_event_06_0d354d86:
 
 # ch/audrey/events.rpy:2550
 translate russian audrey_event_06_6329704f:
-    "Слова Одри обрываются хрипло, ее глаза вытаращены от шока и того, что выглядит как искренний страх."
+    "Слова Одри обрываются хрипло, её глаза вытаращены от шока и того, что выглядит как искренний страх."
 
 # ch/audrey/events.rpy:2551
 translate russian audrey_event_06_474a0cb3:
@@ -10410,23 +10410,23 @@ translate russian audrey_event_06_a468ac91:
 
 # ch/audrey/events.rpy:2556
 translate russian audrey_event_06_e6c71f0f:
-    "Я вижу, что под настоящим страхом в ее глазах мерцает что-то еще, выдающее более глубокое чувство."
+    "Я вижу, что под настоящим страхом в её глазах мерцает что-то ещё, выдающее более глубокое чувство."
 
 # ch/audrey/events.rpy:2557
 translate russian audrey_event_06_b4d4d126:
-    "Это начинает обретать смысл только тогда, когда я замечаю, что она не пытается сопротивляться мне всерьез."
+    "Это начинает обретать смысл только тогда, когда я замечаю, что она не пытается сопротивляться мне всерьёз."
 
 # ch/audrey/events.rpy:2558
 translate russian audrey_event_06_66b8fe66:
-    "Фактически, мой захват теперь кажется недостаточно сильным, чтобы задушить ее, поскольку я снова чувствую свои конечности."
+    "Фактически, мой захват теперь кажется недостаточно сильным, чтобы задушить её, поскольку я снова чувствую свои конечности."
 
 # ch/audrey/events.rpy:2559
 translate russian audrey_event_06_ff0e545c:
-    "Значит, покраснение на ее щеках и появление капель пота на ее висках должны быть вызваны чем-то совершенно другим."
+    "Значит, покраснение на её щеках и появление капель пота на её висках должны быть вызваны чем-то совершенно другим."
 
 # ch/audrey/events.rpy:2560
 translate russian audrey_event_06_6137bb51:
-    "Я отпускаю ее с немалыми усилиями, и она шатко подходит к моему столу."
+    "Я отпускаю её с немалыми усилиями, и она шатко подходит к моему столу."
 
 # ch/audrey/events.rpy:2561
 translate russian audrey_event_06_f80cae88:
@@ -10438,7 +10438,7 @@ translate russian audrey_event_06_5cedf146:
 
 # ch/audrey/events.rpy:2563
 translate russian audrey_event_06_2b0a6e36:
-    "Вместо этого, кажется, что ее глаза поглощают меня."
+    "Вместо этого, кажется, что её глаза поглощают меня."
 
 # ch/audrey/events.rpy:2564
 translate russian audrey_event_06_3932dd4c:
@@ -10446,7 +10446,7 @@ translate russian audrey_event_06_3932dd4c:
 
 # ch/audrey/events.rpy:2567
 translate russian audrey_event_06_efc6eb68:
-    "В ответ ее улыбка, если можно так выразиться, немного пугает."
+    "В ответ её улыбка, если можно так выразиться, немного пугает."
 
 # ch/audrey/events.rpy:2569
 translate russian audrey_event_06_d2439310:
@@ -10454,7 +10454,7 @@ translate russian audrey_event_06_d2439310:
 
 # ch/audrey/events.rpy:2570
 translate russian audrey_event_06_dcd637a3:
-    audrey.say "Ты просто случайно повел себя как настоящий мужик, чего давно не было..."
+    audrey.say "Ты просто случайно повёл себя как настоящий мужик, чего давно не было..."
 
 # ch/audrey/events.rpy:2571
 translate russian audrey_event_06_b0e05678:
@@ -10478,7 +10478,7 @@ translate russian audrey_event_06_4c8d7929:
 
 # ch/audrey/events.rpy:2580
 translate russian audrey_event_06_e5d2bf40:
-    "Или мне должно быть жаль Одри, потому что она хочет спровоцировать меня еще больше."
+    "Или мне должно быть жаль Одри, потому что она хочет спровоцировать меня ещё больше."
 
 # ch/audrey/events.rpy:2581
 translate russian audrey_event_06_1c149f19:
@@ -10502,7 +10502,7 @@ translate russian audrey_event_06_c018076c:
 
 # ch/audrey/events.rpy:2587
 translate russian audrey_event_06_46b60283:
-    "Она говорит еще кое-что, прежде чем выйти из двери, но я перестаю ее слушать и падаю на стул."
+    "Она говорит ещё кое-что, прежде чем выйти из двери, но я перестаю её слушать и падаю на стул."
 
 # ch/audrey/events.rpy:2588
 translate russian audrey_event_06_bcbff533:
@@ -10510,7 +10510,7 @@ translate russian audrey_event_06_bcbff533:
 
 # ch/audrey/events.rpy:2589
 translate russian audrey_event_06_027685c5:
-    "Или что ей действительно казалось важным спровоцировать меня еще больше!"
+    "Или что ей действительно казалось важным спровоцировать меня ещё больше!"
 
 # ch/audrey/events.rpy:2599
 translate russian audrey_event_05_3c2df118:
@@ -10570,7 +10570,7 @@ translate russian audrey_event_05_30cb0431:
 
 # ch/audrey/events.rpy:2625
 translate russian audrey_event_05_9ea968c1:
-    "Или просто еще одна ужасная ошибка, в которую вовлечена Одри."
+    "Или просто ещё одна ужасная ошибка, в которую вовлечена Одри."
 
 # ch/audrey/events.rpy:2630
 translate russian audrey_event_05_29080a14:
@@ -10578,19 +10578,19 @@ translate russian audrey_event_05_29080a14:
 
 # ch/audrey/events.rpy:2632
 translate russian audrey_event_05_f42c5e9d:
-    "Я ожидал, что будет душно и скучно, ведь она настояла на \"классном\" ресторане."
+    "Я ожидал, что будет душно и скучно, ведь она настояла на «классном» ресторане."
 
 # ch/audrey/events.rpy:2633
 translate russian audrey_event_05_a8784959:
-    "Не могу удержаться от улыбки, наблюдая за тем, как она читает меню десертов в своем потрясающем черном платье, которое ей так идет."
+    "Не могу удержаться от улыбки, наблюдая за тем, как она читает меню десертов в своём потрясающем чёрном платье, которое ей так идёт."
 
 # ch/audrey/events.rpy:2634
 translate russian audrey_event_05_96bd1c1b:
-    "Я представляю, как она стоит обнаженной, лежа на моем диване перед камином, когда мы занимаемся любовью, и вдруг она поднимает глаза и ловит мой взгляд."
+    "Я представляю, как она стоит обнажённой, лёжа на моём диване перед камином, когда мы занимаемся любовью, и вдруг она поднимает глаза и ловит мой взгляд."
 
 # ch/audrey/events.rpy:2635
 translate russian audrey_event_05_8bd216ce:
-    audrey.say "О чем ты думаешь?"
+    audrey.say "О чём ты думаешь?"
 
 # ch/audrey/events.rpy:2638
 translate russian audrey_event_05_b0aeecbc:
@@ -10606,19 +10606,19 @@ translate russian audrey_event_05_e779554e:
 
 # ch/audrey/events.rpy:2645
 translate russian audrey_event_05_b73ff0a9:
-    "Сначала она кладет голову мне на плечо и поднимает руку на мою ногу."
+    "Сначала она кладёт голову мне на плечо и поднимает руку на мою ногу."
 
 # ch/audrey/events.rpy:2647
 translate russian audrey_event_05_301524cc:
-    "Мне совершенно все равно, что у нее косметика может попасть на мою рубашку."
+    "Мне совершенно всё равно, что у неё косметика может попасть на мою рубашку."
 
 # ch/audrey/events.rpy:2648
 translate russian audrey_event_05_b551ceeb:
-    "Я просто наслаждаюсь тем, что она рядом со мной, и прислоняю свою голову к ее голове, закрывая глаза, когда вдруг чувствую, как ее рука скользит вверх по моей ноге под столом."
+    "Я просто наслаждаюсь тем, что она рядом со мной, и прислоняю свою голову к её голове, закрывая глаза, когда вдруг чувствую, как её рука скользит вверх по моей ноге под столом."
 
 # ch/audrey/events.rpy:2650
 translate russian audrey_event_05_895761c2:
-    "Мои глаза широко открываются, и я выпрямляюсь от удивления, когда ее рука обхватывает мой член и вытаскивает его из моих штанов."
+    "Мои глаза широко открываются, и я выпрямляюсь от удивления, когда её рука обхватывает мой член и вытаскивает его из моих штанов."
 
 # ch/audrey/events.rpy:2651
 translate russian audrey_event_05_f0451829:
@@ -10642,7 +10642,7 @@ translate russian audrey_event_05_2fa62f3a:
 
 # ch/audrey/events.rpy:2660
 translate russian audrey_event_05_18a07dfe:
-    "Я быстро хватаю ее руку и смотрю ей в глаза."
+    "Я быстро хватаю её руку и смотрю ей в глаза."
 
 # ch/audrey/events.rpy:2662
 translate russian audrey_event_05_97aa158c:
@@ -10654,7 +10654,7 @@ translate russian audrey_event_05_c7b873fb:
 
 # ch/audrey/events.rpy:2664
 translate russian audrey_event_05_80713220:
-    "Я снова хватаю ее за запястье и говорю ей."
+    "Я снова хватаю её за запястье и говорю ей."
 
 # ch/audrey/events.rpy:2665
 translate russian audrey_event_05_deb8d50d:
@@ -10662,7 +10662,7 @@ translate russian audrey_event_05_deb8d50d:
 
 # ch/audrey/events.rpy:2666
 translate russian audrey_event_05_4ac3b2d8:
-    "Она перестает пытаться и возвращается к своей еде, продолжая хмуриться."
+    "Она перестаёт пытаться и возвращается к своей еде, продолжая хмуриться."
 
 # ch/audrey/events.rpy:2668
 translate russian audrey_event_05_7e12ae1c:
@@ -10670,7 +10670,7 @@ translate russian audrey_event_05_7e12ae1c:
 
 # ch/audrey/events.rpy:2671
 translate russian audrey_event_05_ee9d4174:
-    "Я усмехаюсь и целую ее в шею."
+    "Я усмехаюсь и целую её в шею."
 
 # ch/audrey/events.rpy:2672
 translate russian audrey_event_05_49fa5003:
@@ -10682,11 +10682,11 @@ translate russian audrey_event_05_064568ac:
 
 # ch/audrey/events.rpy:2675
 translate russian audrey_event_05_87923760:
-    "Я стараюсь не показывать на своем лице, что она делает, и мне приходится притворяться, будто я откашливаюсь, чтобы скрыть стон."
+    "Я стараюсь не показывать на своём лице, что она делает, и мне приходится притворяться, будто я откашливаюсь, чтобы скрыть стон."
 
 # ch/audrey/events.rpy:2676
 translate russian audrey_event_05_6c0c4fd2:
-    "К счастью, все остальные настолько увлечены своими партнерами, что никто из нас не привлекает внимания, и наши занятия остаются незамеченными."
+    "К счастью, все остальные настолько увлечены своими партнёрами, что никто из нас не привлекает внимания, и наши занятия остаются незамеченными."
 
 # ch/audrey/events.rpy:2677
 translate russian audrey_event_05_4ec59bd0:
@@ -10694,19 +10694,19 @@ translate russian audrey_event_05_4ec59bd0:
 
 # ch/audrey/events.rpy:2678
 translate russian audrey_event_05_9b3b3f51:
-    "Мне трудно подбирать слова, потому что она ускоряется, и я должен хвататься за свое колено одной рукой, а за скатерть – другой."
+    "Мне трудно подбирать слова, потому что она ускоряется, и я должен хвататься за своё колено одной рукой, а за скатерть — другой."
 
 # ch/audrey/events.rpy:2679
 translate russian audrey_event_05_fa2aa779:
-    "Все сложнее контролировать мое дыхание, и я так сильно хочу, чтобы ее рука терла мой обнаженный член, но мы не можем этого делать здесь."
+    "Всё сложнее контролировать моё дыхание, и я так сильно хочу, чтобы её рука тёрла мой обнажённый член, но мы не можем этого делать здесь."
 
 # ch/audrey/events.rpy:2680
 translate russian audrey_event_05_49787e2c:
-    "Это придется отложить на потом."
+    "Это придётся отложить на потом."
 
 # ch/audrey/events.rpy:2683
 translate russian audrey_event_05_f164d1c2:
-    "Она наклоняется вперед и медленно целует мои губы, затем слегка прикусывает их, и я начинаю терять концентрацию."
+    "Она наклоняется вперёд и медленно целует мои губы, затем слегка прикусывает их, и я начинаю терять концентрацию."
 
 # ch/audrey/events.rpy:2684
 translate russian audrey_event_05_5ca67999:
@@ -10714,7 +10714,7 @@ translate russian audrey_event_05_5ca67999:
 
 # ch/audrey/events.rpy:2685
 translate russian audrey_event_05_4c52449e:
-    "Мне сейчас уже неважно, услышит ли кто-нибудь, но я слышу ее смех."
+    "Мне сейчас уже неважно, услышит ли кто-нибудь, но я слышу её смех."
 
 # ch/audrey/events.rpy:2687
 translate russian audrey_event_05_ca5f799e:
@@ -10722,7 +10722,7 @@ translate russian audrey_event_05_ca5f799e:
 
 # ch/audrey/events.rpy:2688
 translate russian audrey_event_05_e605e116:
-    "Я смотрю на нее, потому что в этот момент мне трудно подобрать слова."
+    "Я смотрю на неё, потому что в этот момент мне трудно подобрать слова."
 
 # ch/audrey/events.rpy:2690
 translate russian audrey_event_05_1c05c02c:
@@ -10730,11 +10730,11 @@ translate russian audrey_event_05_1c05c02c:
 
 # ch/audrey/events.rpy:2691
 translate russian audrey_event_05_761408a9:
-    "Она продолжает ласкать меня, непринужденно разговаривая с официантом, и я начинаю потеть."
+    "Она продолжает ласкать меня, непринуждённо разговаривая с официантом, и я начинаю потеть."
 
 # ch/audrey/events.rpy:2692
 translate russian audrey_event_05_1a6db30c:
-    "Я изо всех сил стараюсь не выдать себя, а Одри умело создает видимость того, что мы просто держимся за руки под столом."
+    "Я изо всех сил стараюсь не выдать себя, а Одри умело создаёт видимость того, что мы просто держимся за руки под столом."
 
 # ch/audrey/events.rpy:2694
 translate russian audrey_event_05_3a7979d8:
@@ -10750,11 +10750,11 @@ translate russian audrey_event_05_0ec44d0b:
 
 # ch/audrey/events.rpy:2697
 translate russian audrey_event_05_119fb6a2:
-    "Это меня возбуждает и заставляет еще больше желать ее."
+    "Это меня возбуждает и заставляет ещё больше желать её."
 
 # ch/audrey/events.rpy:2698
 translate russian audrey_event_05_99c32376:
-    audrey.say "Тебе лучше начать есть, иначе этот официант подойдет к нам и начнет спрашивать, что не так с твоей едой, а ты уже немного покраснел."
+    audrey.say "Тебе лучше начать есть, иначе этот официант подойдёт к нам и начнёт спрашивать, что не так с твоей едой, а ты уже немного покраснел."
 
 # ch/audrey/events.rpy:2699
 translate russian audrey_event_05_59ca7621:
@@ -10762,7 +10762,7 @@ translate russian audrey_event_05_59ca7621:
 
 # ch/audrey/events.rpy:2701
 translate russian audrey_event_05_30c0e76c:
-    "Я быстро беру вилку, но удается съесть всего пару кусочков."
+    "Я быстро беру вилку, но удаётся съесть всего пару кусочков."
 
 # ch/audrey/events.rpy:2702
 translate russian audrey_event_05_416a171f:
@@ -10778,7 +10778,7 @@ translate russian audrey_event_05_c8c8db7b:
 
 # ch/audrey/events.rpy:2705
 translate russian audrey_event_05_a0ac6bd2:
-    "Я прижался к ее шее, как будто шепчу ей что-то приятное на ухо, но на самом деле я скулил и умолял ее остановиться."
+    "Я прижался к её шее, как будто шепчу ей что-то приятное на ухо, но на самом деле я скулил и умолял её остановиться."
 
 # ch/audrey/events.rpy:2706
 translate russian audrey_event_05_d2bb79ac:
@@ -10810,7 +10810,7 @@ translate russian audrey_event_05_025b761a:
 
 # ch/audrey/events.rpy:2717
 translate russian audrey_event_05_134ff260:
-    mike.say "Куда ты идешь?"
+    mike.say "Куда ты идёшь?"
 
 # ch/audrey/events.rpy:2718
 translate russian audrey_event_05_0341cc6c:
@@ -10818,11 +10818,11 @@ translate russian audrey_event_05_0341cc6c:
 
 # ch/audrey/events.rpy:2719
 translate russian audrey_event_05_fdc6b568:
-    "С усмешкой она уходит, как раз в тот момент, когда приносит счет."
+    "С усмешкой она уходит, как раз в тот момент, когда приносит счёт."
 
 # ch/audrey/events.rpy:2720
 translate russian audrey_event_05_a67acf75:
-    "Я смотрю на счет, а потом вниз, на свои штаны, и вижу большое пятно спереди."
+    "Я смотрю на счёт, а потом вниз, на свои штаны, и вижу большое пятно спереди."
 
 # ch/audrey/events.rpy:2721
 translate russian audrey_event_05_5869558a:
@@ -10834,11 +10834,11 @@ translate russian audrey_event_05_3a823928:
 
 # ch/audrey/events.rpy:2723
 translate russian audrey_event_05_4f4cb1a0:
-    "Она не сможет избежать наказания, когда мы вернемся домой."
+    "Она не сможет избежать наказания, когда мы вернёмся домой."
 
 # ch/audrey/events.rpy:2734
 translate russian audrey_kiss_me_68cd2c18:
-    "Когда Одри начинает свою обычную рутину поддразниваний и вторжения в мое личное пространство, я позволяю ей это."
+    "Когда Одри начинает свою обычную рутину поддразниваний и вторжения в моё личное пространство, я позволяю ей это."
 
 # ch/audrey/events.rpy:2738
 translate russian audrey_kiss_me_1f539a2a:
@@ -10918,11 +10918,11 @@ translate russian audrey_kiss_me_3591f30d:
 
 # ch/audrey/events.rpy:2765
 translate russian audrey_kiss_me_4b00be2a:
-    "Кажется, Одри сейчас почти робеет, словно она почувствовала себя разоблаченной и смущенной тем, что получила то, чего всегда хотела от меня."
+    "Кажется, Одри сейчас почти робеет, словно она почувствовала себя разоблаченной и смущённой тем, что получила то, чего всегда хотела от меня."
 
 # ch/audrey/events.rpy:2766
 translate russian audrey_kiss_me_e4ab8cb4:
-    "Но вскоре она приходит в себя настолько, что поцелуй перестает быть неловким и неуверенным, становясь все более легким и приятным."
+    "Но вскоре она приходит в себя настолько, что поцелуй перестаёт быть неловким и неуверенным, становясь все более лёгким и приятным."
 
 # ch/audrey/events.rpy:2768
 translate russian audrey_kiss_me_541e7cb7:
@@ -10930,7 +10930,7 @@ translate russian audrey_kiss_me_541e7cb7:
 
 # ch/audrey/events.rpy:2775
 translate russian audrey_preg_talk_7ee971e5:
-    "Я не могу удержаться от того, чтобы украдкой посмотреть на Одри, внимательно изучая ее с искренним любопытством."
+    "Я не могу удержаться от того, чтобы украдкой посмотреть на Одри, внимательно изучая её с искренним любопытством."
 
 # ch/audrey/events.rpy:2776
 translate russian audrey_preg_talk_563b9341:
@@ -10938,11 +10938,11 @@ translate russian audrey_preg_talk_563b9341:
 
 # ch/audrey/events.rpy:2777
 translate russian audrey_preg_talk_c391b4bf:
-    "Я уверен, что у нее на уме что-то довольно серьезное."
+    "Я уверен, что у неё на уме что-то довольно серьёзное."
 
 # ch/audrey/events.rpy:2778
 translate russian audrey_preg_talk_9c4c50e6:
-    "Я так думаю, потому что она молчит, а это для нее необычно."
+    "Я так думаю, потому что она молчит, а это для неё необычно."
 
 # ch/audrey/events.rpy:2779
 translate russian audrey_preg_talk_2ac7dd92:
@@ -10954,7 +10954,7 @@ translate russian audrey_preg_talk_c633af0c:
 
 # ch/audrey/events.rpy:2781
 translate russian audrey_preg_talk_fb0678d5:
-    "Одри удивленно поднимает глаза, ее глаза широко раскрыты."
+    "Одри удивлённо поднимает глаза, её глаза широко раскрыты."
 
 # ch/audrey/events.rpy:2782
 translate russian audrey_preg_talk_0c16cb1f:
@@ -10970,7 +10970,7 @@ translate russian audrey_preg_talk_d2896a6b:
 
 # ch/audrey/events.rpy:2785
 translate russian audrey_preg_talk_c6bfabb0:
-    "Я приподнимаю брови, пытаясь вытянуть из нее больше информации."
+    "Я приподнимаю брови, пытаясь вытянуть из неё больше информации."
 
 # ch/audrey/events.rpy:2786
 translate russian audrey_preg_talk_9c0076c7:
@@ -11042,7 +11042,7 @@ translate russian audrey_preg_talk_457caa04:
 
 # ch/audrey/events.rpy:2805
 translate russian audrey_preg_talk_625f200c:
-    "Но когда она смотрит на меня, в ее глазах я вижу серьезную решимость."
+    "Но когда она смотрит на меня, в её глазах я вижу серьёзную решимость."
 
 # ch/audrey/events.rpy:2807
 translate russian audrey_preg_talk_28c32f11:
@@ -11050,15 +11050,15 @@ translate russian audrey_preg_talk_28c32f11:
 
 # ch/audrey/events.rpy:2808
 translate russian audrey_preg_talk_8fd811e0:
-    audrey.say "И это твой ребенок."
+    audrey.say "И это твой ребёнок."
 
 # ch/audrey/events.rpy:2809
 translate russian audrey_preg_talk_cd5b3681:
-    mike.say "Ты серьезно, Одри?!"
+    mike.say "Ты серьёзно, Одри?!"
 
 # ch/audrey/events.rpy:2810
 translate russian audrey_preg_talk_79eb4d77:
-    audrey.say "Конечно, серьезно!"
+    audrey.say "Конечно, серьёзно!"
 
 # ch/audrey/events.rpy:2811
 translate russian audrey_preg_talk_4b483e32:
@@ -11082,7 +11082,7 @@ translate russian audrey_preg_talk_b3096e4e:
 
 # ch/audrey/events.rpy:2818
 translate russian audrey_preg_talk_c76158c7:
-    "Но потом я отгоняю эту мысль, считая ее просто результатом моей излишней рефлексии."
+    "Но потом я отгоняю эту мысль, считая её просто результатом моей излишней рефлексии."
 
 # ch/audrey/events.rpy:2819
 translate russian audrey_preg_talk_0036900f:
@@ -11094,7 +11094,7 @@ translate russian audrey_preg_talk_cc8403fe:
 
 # ch/audrey/events.rpy:2821
 translate russian audrey_preg_talk_e53f3d6c:
-    mike.say "Это невероятно – мы будем родителями!"
+    mike.say "Это невероятно — мы будем родителями!"
 
 # ch/audrey/events.rpy:2822
 translate russian audrey_preg_talk_4f27c8dc:
@@ -11110,7 +11110,7 @@ translate russian audrey_preg_talk_59d62711:
 
 # ch/audrey/events.rpy:2826
 translate russian audrey_preg_talk_52e8b0da:
-    audrey.say "Ты обещаешь, что ты все равно будешь хотеть меня?"
+    audrey.say "Ты обещаешь, что ты всё равно будешь хотеть меня?"
 
 # ch/audrey/events.rpy:2827
 translate russian audrey_preg_talk_0bd4886b:
@@ -11122,7 +11122,7 @@ translate russian audrey_preg_talk_c5b0f4ac:
 
 # ch/audrey/events.rpy:2829
 translate russian audrey_preg_talk_062bf9a8:
-    mike.say "Ты же знаешь, что я безумно влюблен в тебя."
+    mike.say "Ты же знаешь, что я безумно влюблён в тебя."
 
 # ch/audrey/events.rpy:2830
 translate russian audrey_preg_talk_bb6d2955:
@@ -11134,7 +11134,7 @@ translate russian audrey_preg_talk_5e5096e9:
 
 # ch/audrey/events.rpy:2832
 translate russian audrey_preg_talk_f8c166df:
-    "Одри смеется, ее голова прижата к моей груди."
+    "Одри смеётся, её голова прижата к моей груди."
 
 # ch/audrey/events.rpy:2833
 translate russian audrey_preg_talk_390895bc:
@@ -11146,15 +11146,15 @@ translate russian audrey_preg_talk_765ec409:
 
 # ch/audrey/events.rpy:2839
 translate russian audrey_preg_talk_893f30a8:
-    "Мне приходит в голову мысль, даже пока я ошеломлен этой новостью."
+    "Мне приходит в голову мысль, даже пока я ошеломлён этой новостью."
 
 # ch/audrey/events.rpy:2840
 translate russian audrey_preg_talk_3edcf1fa:
-    "Почему черт возьми Одри только что спрашивала меня про беременные животики?"
+    "Почему чёрт возьми Одри только что спрашивала меня про беременные животики?"
 
 # ch/audrey/events.rpy:2841
 translate russian audrey_preg_talk_b8f0c15c:
-    "Неужели она сказала, что хочет оставить ребенка из-за моего ответа?"
+    "Неужели она сказала, что хочет оставить ребёнка из-за моего ответа?"
 
 # ch/audrey/events.rpy:2842
 translate russian audrey_preg_talk_b3758ced:
@@ -11166,7 +11166,7 @@ translate russian audrey_preg_talk_aada15cb:
 
 # ch/audrey/events.rpy:2844
 translate russian audrey_preg_talk_c8428f0a:
-    mike.say "Ты бы хотела оставить ребенка, если бы я сказал, что мне не нравятся беременные животики?"
+    mike.say "Ты бы хотела оставить ребёнка, если бы я сказал, что мне не нравятся беременные животики?"
 
 # ch/audrey/events.rpy:2845
 translate russian audrey_preg_talk_81a6e6ad:
@@ -11174,11 +11174,11 @@ translate russian audrey_preg_talk_81a6e6ad:
 
 # ch/audrey/events.rpy:2847
 translate russian audrey_preg_talk_ec42b208:
-    "Внезапно Одри выглядит уклончиво, как будто ей бы хотелось быть где-нибудь еще."
+    "Внезапно Одри выглядит уклончиво, как будто ей бы хотелось быть где-нибудь ещё."
 
 # ch/audrey/events.rpy:2848
 translate russian audrey_preg_talk_5b20208c:
-    audrey.say "Я… я не знаю…"
+    audrey.say "Я... я не знаю..."
 
 # ch/audrey/events.rpy:2849
 translate russian audrey_preg_talk_0219e576:
@@ -11198,15 +11198,15 @@ translate russian audrey_preg_talk_e124e3c8:
 
 # ch/audrey/events.rpy:2853
 translate russian audrey_preg_talk_368ce08d:
-    mike.say "Я… думаю, нам нужно пересмотреть вопрос о том, чтобы оставить ребенка."
+    mike.say "Я... думаю, нам нужно пересмотреть вопрос о том, чтобы оставить ребёнка."
 
 # ch/audrey/events.rpy:2854
 translate russian audrey_preg_talk_beca2e52:
-    audrey.say "Хорошо…"
+    audrey.say "Хорошо..."
 
 # ch/audrey/events.rpy:2855
 translate russian audrey_preg_talk_4931c3d0:
-    audrey.say "Наверное…"
+    audrey.say "Наверное..."
 
 # ch/audrey/events.rpy:2859
 translate russian audrey_preg_talk_67d5b96e:
@@ -11222,11 +11222,11 @@ translate russian audrey_preg_talk_cd8ada42:
 
 # ch/audrey/events.rpy:2865
 translate russian audrey_preg_talk_14a6191a:
-    audrey.say "Ох…"
+    audrey.say "Ох..."
 
 # ch/audrey/events.rpy:2866
 translate russian audrey_preg_talk_beca2e52_1:
-    audrey.say "Хорошо…"
+    audrey.say "Хорошо..."
 
 # ch/audrey/events.rpy:2867
 translate russian audrey_preg_talk_457caa04_1:
@@ -11234,7 +11234,7 @@ translate russian audrey_preg_talk_457caa04_1:
 
 # ch/audrey/events.rpy:2868
 translate russian audrey_preg_talk_625f200c_1:
-    "Но когда она смотрит на меня, в ее глазах я вижу серьезную решимость."
+    "Но когда она смотрит на меня, в её глазах я вижу серьёзную решимость."
 
 # ch/audrey/events.rpy:2870
 translate russian audrey_preg_talk_7abd6bf6:
@@ -11246,15 +11246,15 @@ translate russian audrey_preg_talk_28c32f11_1:
 
 # ch/audrey/events.rpy:2872
 translate russian audrey_preg_talk_2c4c0ad8:
-    audrey.say "И ты – отец!"
+    audrey.say "И ты — отец!"
 
 # ch/audrey/events.rpy:2873
 translate russian audrey_preg_talk_cd5b3681_1:
-    mike.say "Ты серьезно, Одри?!"
+    mike.say "Ты серьёзно, Одри?!"
 
 # ch/audrey/events.rpy:2874
 translate russian audrey_preg_talk_79eb4d77_1:
-    audrey.say "Конечно, серьезно!"
+    audrey.say "Конечно, серьёзно!"
 
 # ch/audrey/events.rpy:2875
 translate russian audrey_preg_talk_4b483e32_1:
@@ -11262,7 +11262,7 @@ translate russian audrey_preg_talk_4b483e32_1:
 
 # ch/audrey/events.rpy:2876
 translate russian audrey_preg_talk_c1cbf320:
-    audrey.say "И, чтобы ты не спросил, я тоже не хочу этого ребенка!"
+    audrey.say "И, чтобы ты не спросил, я тоже не хочу этого ребёнка!"
 
 # ch/audrey/events.rpy:2879
 translate russian audrey_preg_talk_2549e495:
@@ -11282,7 +11282,7 @@ translate russian audrey_preg_talk_65f05ae6:
 
 # ch/audrey/events.rpy:2883
 translate russian audrey_preg_talk_a700c47c:
-    mike.say "Черт побери, Одри!"
+    mike.say "Чёрт побери, Одри!"
 
 # ch/audrey/events.rpy:2884
 translate russian audrey_preg_talk_d460b5f1:
@@ -11306,7 +11306,7 @@ translate russian audrey_preg_talk_86c1b1e0:
 
 # ch/audrey/events.rpy:2889
 translate russian audrey_preg_talk_dc672368:
-    audrey.say "Хорошо - тогда решено."
+    audrey.say "Хорошо — тогда решено."
 
 # ch/audrey/events.rpy:2890
 translate russian audrey_preg_talk_5dc410a0:
@@ -11318,15 +11318,15 @@ translate russian audrey_preg_talk_b3431dc6:
 
 # ch/audrey/events.rpy:2895
 translate russian audrey_preg_talk_55189bf7:
-    "Заставляя меня осознать, что она говорит о моем ребенке."
+    "Заставляя меня осознать, что она говорит о моём ребёнке."
 
 # ch/audrey/events.rpy:2896
 translate russian audrey_preg_talk_5e0fd7cb:
-    "И еще тот факт, что она только что сказала, что хочет сделать аборт."
+    "И ещё тот факт, что она только что сказала, что хочет сделать аборт."
 
 # ch/audrey/events.rpy:2897
 translate russian audrey_preg_talk_94bcf0b4:
-    "Я тоже вовлечен в это дело, черт возьми!"
+    "Я тоже вовлечен в это дело, чёрт возьми!"
 
 # ch/audrey/events.rpy:2898
 translate russian audrey_preg_talk_e8e67fab:
@@ -11366,7 +11366,7 @@ translate russian audrey_preg_talk_02b1d95f:
 
 # ch/audrey/events.rpy:2907
 translate russian audrey_preg_talk_c4629522:
-    mike.say "Это не то же самое, что сказать, будто я не хочу заботиться о своем ребенке!"
+    mike.say "Это не то же самое, что сказать, будто я не хочу заботиться о своём ребёнке!"
 
 # ch/audrey/events.rpy:2908
 translate russian audrey_preg_talk_b9947669:
@@ -11378,7 +11378,7 @@ translate russian audrey_preg_talk_ff563fdb:
 
 # ch/audrey/events.rpy:2911
 translate russian audrey_preg_talk_ae6969b9:
-    "Одри смотрит на меня, ее глаза широко раскрыты от удивления."
+    "Одри смотрит на меня, её глаза широко раскрыты от удивления."
 
 # ch/audrey/events.rpy:2912
 translate russian audrey_preg_talk_99ee3e6d:
@@ -11390,7 +11390,7 @@ translate russian audrey_preg_talk_b983e740:
 
 # ch/audrey/events.rpy:2914
 translate russian audrey_preg_talk_7bc0ec7b:
-    mike.say "Хорошо, теперь мы это выяснили – можем ли мы поговорить об этом?"
+    mike.say "Хорошо, теперь мы это выяснили — можем ли мы поговорить об этом?"
 
 # ch/audrey/events.rpy:2915
 translate russian audrey_preg_talk_d7c7612b:
@@ -11406,7 +11406,7 @@ translate russian audrey_preg_talk_fc3a9e39:
 
 # ch/audrey/events.rpy:2922
 translate russian audrey_event_01b_1fc86d31:
-    "Все, чего я хотел, это просто зайти в паб, чтобы расслабиться после долгого и напряженного дня."
+    "Все, чего я хотел, это просто зайти в паб, чтобы расслабиться после долгого и напряжённого дня."
 
 # ch/audrey/events.rpy:2923
 translate russian audrey_event_01b_4215ca3b:
@@ -11422,7 +11422,7 @@ translate russian audrey_event_01b_73c24fa1:
 
 # ch/audrey/events.rpy:2927
 translate russian audrey_event_01b_4ecb8cf5:
-    "Я не очень хорошо ее знаю, и она всегда кажется мне немного колючей."
+    "Я не очень хорошо её знаю, и она всегда кажется мне немного колючей."
 
 # ch/audrey/events.rpy:2929
 translate russian audrey_event_01b_0e65ddf6:
@@ -11430,7 +11430,7 @@ translate russian audrey_event_01b_0e65ddf6:
 
 # ch/audrey/events.rpy:2932
 translate russian audrey_event_01b_7b4df693:
-    "Но через мгновение я вижу второго человека, которого знаю, и это еще более неловко."
+    "Но через мгновение я вижу второго человека, которого знаю, и это ещё более неловко."
 
 # ch/audrey/events.rpy:2933
 translate russian audrey_event_01b_ae61e278:
@@ -11442,15 +11442,15 @@ translate russian audrey_event_01b_37a87a31:
 
 # ch/audrey/events.rpy:2936
 translate russian audrey_event_01b_deb3ff95:
-    "Поэтому, с облегчением вздохнув, мне удается проскользнуть мимо него незамеченной."
+    "Поэтому, с облегчением вздохнув, мне удаётся проскользнуть мимо него незамеченной."
 
 # ch/audrey/events.rpy:2937
 translate russian audrey_event_01b_347b86d1:
-    "Насколько я знаю, он все еще очень зол на меня за то, что я рассказала Сэм о его изменах."
+    "Насколько я знаю, он всё ещё очень зол на меня за то, что я рассказала Сэм о его изменах."
 
 # ch/audrey/events.rpy:2938
 translate russian audrey_event_01b_3609be6c:
-    "И последнее, чего я хочу сейчас – это чтобы ко мне подошли и обвинили в разрушении его брака!"
+    "И последнее, чего я хочу сейчас — это чтобы ко мне подошли и обвинили в разрушении его брака!"
 
 # ch/audrey/events.rpy:2940
 translate russian audrey_event_01b_7eb7634d:
@@ -11474,7 +11474,7 @@ translate russian audrey_event_01b_a4d36075:
 
 # ch/audrey/events.rpy:2945
 translate russian audrey_event_01b_df66dc7f:
-    "Первое, что я замечаю, – это громкие голоса возле бара."
+    "Первое, что я замечаю, — это громкие голоса возле бара."
 
 # ch/audrey/events.rpy:2947
 translate russian audrey_event_01b_9279ef26:
@@ -11486,7 +11486,7 @@ translate russian audrey_event_01b_099c513c:
 
 # ch/audrey/events.rpy:2949
 translate russian audrey_event_01b_572e7fd1:
-    "Но голос Одри звучит более чем просто раздраженным."
+    "Но голос Одри звучит более чем просто раздражённым."
 
 # ch/audrey/events.rpy:2950
 translate russian audrey_event_01b_c6653756:
@@ -11502,7 +11502,7 @@ translate russian audrey_event_01b_64170bfb:
 
 # ch/audrey/events.rpy:2953
 translate russian audrey_event_01b_11cf6d94:
-    ryan.say "Я задал тебе, черт возьми, вопрос!"
+    ryan.say "Я задал тебе, чёрт возьми, вопрос!"
 
 # ch/audrey/events.rpy:2954
 translate russian audrey_event_01b_fb3a2895:
@@ -11554,7 +11554,7 @@ translate russian audrey_event_01b_2cf4fcd7:
 
 # ch/audrey/events.rpy:2966
 translate russian audrey_event_01b_8dbe8a0d:
-    "Я знаю, что Райан – придурок, но, должно быть, он не такой уж большой придурок?"
+    "Я знаю, что Райан — придурок, но, должно быть, он не такой уж большой придурок?"
 
 # ch/audrey/events.rpy:2977
 translate russian audrey_event_01b_c04bdf5a:
@@ -11578,7 +11578,7 @@ translate russian audrey_event_01b_a69a0c47:
 
 # ch/audrey/events.rpy:2982
 translate russian audrey_event_01b_a727ac54:
-    "Трудно сказать, кто из них больше удивлен."
+    "Трудно сказать, кто из них больше удивлён."
 
 # ch/audrey/events.rpy:2983
 translate russian audrey_event_01b_81d8614f:
@@ -11630,7 +11630,7 @@ translate russian audrey_event_01b_19be4829:
 
 # ch/audrey/events.rpy:2995
 translate russian audrey_event_01b_b741e9f5:
-    ryan.say "Даже такую дешевую шлюху, как эта?!"
+    ryan.say "Даже такую дешёвую шлюху, как эта?!"
 
 # ch/audrey/events.rpy:2996
 translate russian audrey_event_01b_1e559ec6:
@@ -11658,7 +11658,7 @@ translate russian audrey_event_01b_dc714926:
 
 # ch/audrey/events.rpy:3003
 translate russian audrey_event_01b_c578a177:
-    "Я чувствую, как он напрягается и сжимает кулак, еще до того, как вижу это."
+    "Я чувствую, как он напрягается и сжимает кулак, ещё до того, как вижу это."
 
 # ch/audrey/events.rpy:3004
 translate russian audrey_event_01b_a06dadf3:
@@ -11686,7 +11686,7 @@ translate russian audrey_event_01b_f780932c:
 
 # ch/audrey/events.rpy:3019
 translate russian audrey_event_01b_8c939137:
-    "Райан издает стон боли и оседает у барной стойки."
+    "Райан издаёт стон боли и оседает у барной стойки."
 
 # ch/audrey/events.rpy:3020
 translate russian audrey_event_01b_77078634:
@@ -11698,7 +11698,7 @@ translate russian audrey_event_01b_d55f75cd:
 
 # ch/audrey/events.rpy:3025
 translate russian audrey_event_01b_1d02e4eb:
-    ryan.say "Ты сломала мне чертову челюсть!"
+    ryan.say "Ты сломала мне чёртову челюсть!"
 
 # ch/audrey/events.rpy:3026
 translate russian audrey_event_01b_04116c4d:
@@ -11726,7 +11726,7 @@ translate russian audrey_event_01b_483b8b11:
 
 # ch/audrey/events.rpy:3033
 translate russian audrey_event_01b_134da823:
-    ryan.say "Чего ты ждешь?"
+    ryan.say "Чего ты ждёшь?"
 
 # ch/audrey/events.rpy:3034
 translate russian audrey_event_01b_0aab8f9c:
@@ -11738,7 +11738,7 @@ translate russian audrey_event_01b_ca2d90a0:
 
 # ch/audrey/events.rpy:3036
 translate russian audrey_event_01b_254b535b:
-    ryan.say "И он ударил меня – все это видели!"
+    ryan.say "И он ударил меня — все это видели!"
 
 # ch/audrey/events.rpy:3037
 translate russian audrey_event_01b_167e30e0:
@@ -11830,7 +11830,7 @@ translate russian audrey_event_01b_0953c1b1:
 
 # ch/audrey/events.rpy:3065
 translate russian audrey_event_01b_e541cf8a:
-    audrey.say "Это мой способ сказать \"спасибо\"!"
+    audrey.say "Это мой способ сказать «спасибо»!"
 
 # ch/audrey/events.rpy:3066
 translate russian audrey_event_01b_1e25d36d:
@@ -11838,7 +11838,7 @@ translate russian audrey_event_01b_1e25d36d:
 
 # ch/audrey/events.rpy:3068
 translate russian audrey_event_01b_e536b7f6:
-    "Она заказывает нам обоим еще по одному напитку, и мы болтаем, пока ждем."
+    "Она заказывает нам обоим ещё по одному напитку, и мы болтаем, пока ждём."
 
 # ch/audrey/events.rpy:3069
 translate russian audrey_event_01b_c940340c:
@@ -11846,7 +11846,7 @@ translate russian audrey_event_01b_c940340c:
 
 # ch/audrey/events.rpy:3070
 translate russian audrey_event_01b_98d57f0c:
-    "Но хотя бы я смог помочь Одри, когда у нее возникли проблемы."
+    "Но хотя бы я смог помочь Одри, когда у неё возникли проблемы."
 
 # ch/audrey/events.rpy:3071
 translate russian audrey_event_01b_76a1e89d:
@@ -11862,7 +11862,7 @@ translate russian audrey_event_01b_d9637efc:
 
 # ch/audrey/events.rpy:3083
 translate russian audrey_event_01b_45f557a2:
-    "Как-то мне удается удержаться за стойку, чтобы не упасть."
+    "Как-то мне удаётся удержаться за стойку, чтобы не упасть."
 
 # ch/audrey/events.rpy:3085
 translate russian audrey_event_01b_21564a6e:
@@ -11870,7 +11870,7 @@ translate russian audrey_event_01b_21564a6e:
 
 # ch/audrey/events.rpy:3086
 translate russian audrey_event_01b_b8703821:
-    "Они набрасываются на Райана, пока он не успел сделать что-нибудь, о чем пожалеет."
+    "Они набрасываются на Райана, пока он не успел сделать что-нибудь, о чём пожалеет."
 
 # ch/audrey/events.rpy:3089
 translate russian audrey_event_01b_105b4ed4_1:
@@ -11886,7 +11886,7 @@ translate russian audrey_event_01b_26f342a3_1:
 
 # ch/audrey/events.rpy:3092
 translate russian audrey_event_01b_696ddc85:
-    "Одри, наконец, обращает на меня свое внимание, пока я терплю боль в челюсти."
+    "Одри, наконец, обращает на меня своё внимание, пока я терплю боль в челюсти."
 
 # ch/audrey/events.rpy:3094
 translate russian audrey_event_01b_30b796e0_1:
@@ -11930,7 +11930,7 @@ translate russian audrey_event_01b_5a4cede7:
 
 # ch/audrey/events.rpy:3106
 translate russian audrey_event_01b_8395789d:
-    "Но тот факт, что моя челюсть все еще болит, делает это довольно сложной задачей."
+    "Но тот факт, что моя челюсть всё ещё болит, делает это довольно сложной задачей."
 
 # ch/audrey/events.rpy:3109
 translate russian audrey_event_01b_d6d21c7b:
@@ -11950,7 +11950,7 @@ translate russian audrey_event_01b_546bd429:
 
 # ch/audrey/events.rpy:3117
 translate russian audrey_event_01b_b8703821_1:
-    "Они набрасываются на Райана, пока он не успел сделать что-нибудь, о чем пожалеет."
+    "Они набрасываются на Райана, пока он не успел сделать что-нибудь, о чём пожалеет."
 
 # ch/audrey/events.rpy:3118
 translate russian audrey_event_01b_105b4ed4_2:
@@ -11966,7 +11966,7 @@ translate russian audrey_event_01b_26f342a3_2:
 
 # ch/audrey/events.rpy:3122
 translate russian audrey_event_01b_452fa8eb:
-    "И все, что я могу сделать, это покачать головой от изумления."
+    "И всё, что я могу сделать, это покачать головой от изумления."
 
 # ch/audrey/events.rpy:3124
 translate russian audrey_event_01b_93634522:
@@ -11986,7 +11986,7 @@ translate russian audrey_event_01_d5190b97:
 
 # ch/audrey/events.rpy:3135
 translate russian audrey_event_01_a5562f6a:
-    thug_say "Ты живешь на куриной ферме?"
+    thug_say "Ты живёшь на куриной ферме?"
 
 # ch/audrey/events.rpy:3136
 translate russian audrey_event_01_6bec6527:
@@ -11994,7 +11994,7 @@ translate russian audrey_event_01_6bec6527:
 
 # ch/audrey/events.rpy:3137
 translate russian audrey_event_01_4a035203:
-    audrey.say "\"Пожалуйста, уйди\"."
+    audrey.say "«Пожалуйста, уйди»."
 
 # ch/audrey/events.rpy:3138
 translate russian audrey_event_01_8ee9a090:
@@ -12002,7 +12002,7 @@ translate russian audrey_event_01_8ee9a090:
 
 # ch/audrey/events.rpy:3139
 translate russian audrey_event_01_a3c117a3:
-    thug_say "Тебе придется жить с этим телом всю жизнь, а я просто хочу обладать им одну ночь."
+    thug_say "Тебе придётся жить с этим телом всю жизнь, а я просто хочу обладать им одну ночь."
 
 # ch/audrey/events.rpy:3140
 translate russian audrey_event_01_dae11097:
@@ -12010,7 +12010,7 @@ translate russian audrey_event_01_dae11097:
 
 # ch/audrey/events.rpy:3151
 translate russian audrey_event_01_d16fd24b:
-    mike.say "Эй, парень, она сказала, чтобы ты оставил ее в покое и ушел своей дорогой."
+    mike.say "Эй, парень, она сказала, чтобы ты оставил её в покое и ушёл своей дорогой."
 
 # ch/audrey/events.rpy:3153
 translate russian audrey_event_01_3830cde4:
@@ -12018,7 +12018,7 @@ translate russian audrey_event_01_3830cde4:
 
 # ch/audrey/events.rpy:3154
 translate russian audrey_event_01_89786506:
-    mike.say "Я сказал тебе оставить ее в покое."
+    mike.say "Я сказал тебе оставить её в покое."
 
 # ch/audrey/events.rpy:3157
 translate russian audrey_event_01_a782f2ff:
@@ -12046,7 +12046,7 @@ translate russian audrey_event_01_2074a2c5:
 
 # ch/audrey/events.rpy:3166
 translate russian audrey_event_01_5cd12a36:
-    audrey.say "Значит, я твоя \"пизда\", и тебе не нравится, когда люди со мной \"играются\"?"
+    audrey.say "Значит, я твоя «пизда», и тебе не нравится, когда люди со мной «играются»?"
 
 # ch/audrey/events.rpy:3167
 translate russian audrey_event_01_1f588598:
@@ -12054,11 +12054,11 @@ translate russian audrey_event_01_1f588598:
 
 # ch/audrey/events.rpy:3168
 translate russian audrey_event_01_9384d38e:
-    audrey.say "О, и еще твой \"член\"..."
+    audrey.say "О, и ещё твой «член»..."
 
 # ch/audrey/events.rpy:3169
 translate russian audrey_event_01_0ab32769:
-    mike.say "Я сказал это, чтобы он ушел..."
+    mike.say "Я сказал это, чтобы он ушёл..."
 
 # ch/audrey/events.rpy:3170
 translate russian audrey_event_01_d7850223:
@@ -12078,7 +12078,7 @@ translate russian audrey_event_01_15edb6a7:
 
 # ch/audrey/events.rpy:3179
 translate russian audrey_event_01_2aa9b971:
-    mike.say "Если ты не пойдешь, я раздавлю твои яйца как грецкие орехи и заставлю тебя съесть то, что внутри."
+    mike.say "Если ты не пойдёшь, я раздавлю твои яйца как грецкие орехи и заставлю тебя съесть то, что внутри."
 
 # ch/audrey/events.rpy:3181
 translate russian audrey_event_01_6c4b2865:
@@ -12094,7 +12094,7 @@ translate russian audrey_event_01_1840de9d_2:
 
 # ch/audrey/events.rpy:3188
 translate russian audrey_event_01_88476f1e:
-    "Кажется, он не впечатлен."
+    "Кажется, он не впечатлён."
 
 # ch/audrey/events.rpy:3201
 translate russian audrey_event_01_462e2dec:
@@ -12110,7 +12110,7 @@ translate russian audrey_event_01_6d04c3f6:
 
 # ch/audrey/events.rpy:3206
 translate russian audrey_event_01_7b3b5903:
-    audrey.say "Все хорошо, [lssb_audrey.hero_name()], спасибо за помощь."
+    audrey.say "Всё хорошо, [lssb_audrey.hero_name()], спасибо за помощь."
 
 # ch/audrey/events.rpy:3215
 translate russian audrey_event_01_eb84f860:
@@ -12134,7 +12134,7 @@ translate russian audrey_event_01_abee832e:
 
 # ch/audrey/events.rpy:3225
 translate russian audrey_event_01_643d72c7:
-    mike.say "Я в порядке, по крайней мере, он ушел."
+    mike.say "Я в порядке, по крайней мере, он ушёл."
 
 # ch/audrey/events.rpy:3226
 translate russian audrey_event_01_5c1b4545_3:
@@ -12146,7 +12146,7 @@ translate russian audrey_event_01_1840de9d_3:
 
 # ch/audrey/events.rpy:3232
 translate russian audrey_event_01_0c90f9a8:
-    "Я оставляю ее одну разбираться."
+    "Я оставляю её одну разбираться."
 
 # ch/audrey/events.rpy:3240
 translate russian audrey_event_02_7e1d0365:
@@ -12166,7 +12166,7 @@ translate russian audrey_event_02_be4cc5ed:
 
 # ch/audrey/events.rpy:3244
 translate russian audrey_event_02_81b187c4:
-    "Она поворачивается ко мне, и по ее лицу видно, что она не в восторге."
+    "Она поворачивается ко мне, и по её лицу видно, что она не в восторге."
 
 # ch/audrey/events.rpy:3245
 translate russian audrey_event_02_149eb655:
@@ -12174,11 +12174,11 @@ translate russian audrey_event_02_149eb655:
 
 # ch/audrey/events.rpy:3246
 translate russian audrey_event_02_ac2a3b6e:
-    "Она снова поворачивается к кофеварке в комнате отдыха. Ее смена еще не началась."
+    "Она снова поворачивается к кофеварке в комнате отдыха. Её смена ещё не началась."
 
 # ch/audrey/events.rpy:3247
 translate russian audrey_event_02_9bb34b16:
-    "У нее такая красивая попа в этих джинсах."
+    "У неё такая красивая попа в этих джинсах."
 
 # ch/audrey/events.rpy:3248
 translate russian audrey_event_02_d2e5783d:
@@ -12194,7 +12194,7 @@ translate russian audrey_event_02_df1ddd88:
 
 # ch/audrey/events.rpy:3251
 translate russian audrey_event_02_8153b2c5:
-    audrey.say "Спроси меня о чем?"
+    audrey.say "Спроси меня о чём?"
 
 # ch/audrey/events.rpy:3252
 translate russian audrey_event_02_3cd7a5bd:
@@ -12234,11 +12234,11 @@ translate russian audrey_event_02_6be6b062:
 
 # ch/audrey/events.rpy:3261
 translate russian audrey_event_02_4a63300c:
-    audrey.say "Я не понимаю, о чем ты говоришь."
+    audrey.say "Я не понимаю, о чём ты говоришь."
 
 # ch/audrey/events.rpy:3262
 translate russian audrey_event_02_31d14ad6:
-    "Она поворачивается и уходит, но ее бедра все еще соблазнительно покачиваются."
+    "Она поворачивается и уходит, но её бедра всё ещё соблазнительно покачиваются."
 
 # ch/audrey/events.rpy:3264
 translate russian audrey_event_02_de672558:
@@ -12246,7 +12246,7 @@ translate russian audrey_event_02_de672558:
 
 # ch/audrey/events.rpy:3269
 translate russian audrey_event_02_4bdd3baf:
-    "Я вызвался на сверхурочную работу просто чтобы посмотреть, что произойдет с Одри."
+    "Я вызвался на сверхурочную работу просто чтобы посмотреть, что произойдёт с Одри."
 
 # ch/audrey/events.rpy:3270
 translate russian audrey_event_02_8d223a7c:
@@ -12302,7 +12302,7 @@ translate russian audrey_event_02_05a48179:
 
 # ch/audrey/events.rpy:3284
 translate russian audrey_event_02_2bd838db:
-    "Я заканчиваю свое предложение."
+    "Я заканчиваю своё предложение."
 
 # ch/audrey/events.rpy:3285
 translate russian audrey_event_02_7e6fc298:
@@ -12318,7 +12318,7 @@ translate russian audrey_event_02_dc08e258:
 
 # ch/audrey/events.rpy:3295
 translate russian audrey_event_03_436e4f74:
-    "Черт, кажется, я влюбился."
+    "Чёрт, кажется, я влюбился."
 
 # ch/audrey/events.rpy:3297
 translate russian audrey_event_03_8994606b:
@@ -12338,15 +12338,15 @@ translate russian audrey_event_03_27ec63ad:
 
 # ch/audrey/events.rpy:3301
 translate russian audrey_event_03_b6fc65f8:
-    "На ней короткие шорты и футболка, которая плотно облегает ее грудь."
+    "На ней короткие шорты и футболка, которая плотно облегает её грудь."
 
 # ch/audrey/events.rpy:3302
 translate russian audrey_event_03_0952ee4d:
-    "Она садится на один из велосипедов напротив меня, похоже, еще не заметив, что я здесь."
+    "Она садится на один из велосипедов напротив меня, похоже, ещё не заметив, что я здесь."
 
 # ch/audrey/events.rpy:3303
 translate russian audrey_event_03_c0cafdfb:
-    "Она начинает крутить педали, и мой взгляд падает на ее ягодицы."
+    "Она начинает крутить педали, и мой взгляд падает на её ягодицы."
 
 # ch/audrey/events.rpy:3304
 translate russian audrey_event_03_3fc7b772:
@@ -12362,11 +12362,11 @@ translate russian audrey_event_03_c9fc2f17:
 
 # ch/audrey/events.rpy:3307
 translate russian audrey_event_03_30d090f4:
-    "Я чувствую, как мое лицо краснеет, а пульс учащается от смущения."
+    "Я чувствую, как моё лицо краснеет, а пульс учащается от смущения."
 
 # ch/audrey/events.rpy:3308
 translate russian audrey_event_03_c0909e85:
-    "Как долго она знала, что я смотрю на нее?"
+    "Как долго она знала, что я смотрю на неё?"
 
 # ch/audrey/events.rpy:3309
 translate russian audrey_event_03_b52ea2a4:
@@ -12374,11 +12374,11 @@ translate russian audrey_event_03_b52ea2a4:
 
 # ch/audrey/events.rpy:3310
 translate russian audrey_event_03_742e3038:
-    "Я вижу часть ее живота, когда футболка задирается."
+    "Я вижу часть её живота, когда футболка задирается."
 
 # ch/audrey/events.rpy:3311
 translate russian audrey_event_03_1837063a:
-    "Потом она наклоняется вперед, касаясь пальцами носков, ноги при этом находятся на ширине плеч."
+    "Потом она наклоняется вперёд, касаясь пальцами носков, ноги при этом находятся на ширине плеч."
 
 # ch/audrey/events.rpy:3312
 translate russian audrey_event_03_60839350:
@@ -12394,7 +12394,7 @@ translate russian audrey_event_03_76252cf9:
 
 # ch/audrey/events.rpy:3319
 translate russian audrey_event_03_f49fed53:
-    "Я выключаю беговую дорожку и быстро спрыгиваю с нее."
+    "Я выключаю беговую дорожку и быстро спрыгиваю с неё."
 
 # ch/audrey/events.rpy:3320
 translate russian audrey_event_03_2c025e4c:
@@ -12406,7 +12406,7 @@ translate russian audrey_event_03_6798e490:
 
 # ch/audrey/events.rpy:3322
 translate russian audrey_event_03_caf59ab2:
-    "Она резко встает, словно не ожидала, что я здесь буду."
+    "Она резко встаёт, словно не ожидала, что я здесь буду."
 
 # ch/audrey/events.rpy:3323
 translate russian audrey_event_03_2081c4a4:
@@ -12426,11 +12426,11 @@ translate russian audrey_event_03_5715ca0f:
 
 # ch/audrey/events.rpy:3328
 translate russian audrey_event_03_16c106a7:
-    "Я чувствую себя растерянным и начинаю внимательно ее рассматривать."
+    "Я чувствую себя растерянным и начинаю внимательно её рассматривать."
 
 # ch/audrey/events.rpy:3329
 translate russian audrey_event_03_37ec615e:
-    "Я слышу, как она смеется."
+    "Я слышу, как она смеётся."
 
 # ch/audrey/events.rpy:3330
 translate russian audrey_event_03_d617b7d1:
@@ -12450,11 +12450,11 @@ translate russian audrey_event_03_b37fbfc8:
 
 # ch/audrey/events.rpy:3334
 translate russian audrey_event_03_e2cad3cd:
-    "Мои глаза расширяются, но потом я вижу, как она достает листок бумаги."
+    "Мои глаза расширяются, но потом я вижу, как она достаёт листок бумаги."
 
 # ch/audrey/events.rpy:3335
 translate russian audrey_event_03_891c606a:
-    "Я беру его, думая, что получил ее номер телефона, а она уходит."
+    "Я беру его, думая, что получил её номер телефона, а она уходит."
 
 # ch/audrey/events.rpy:3337
 translate russian audrey_event_03_27aee7c9:
@@ -12498,7 +12498,7 @@ translate russian audrey_event_03_a83308c1:
 
 # ch/audrey/events.rpy:3352
 translate russian audrey_event_03_e0029e7b:
-    "Я поворачиваю за угол к раздевалкам и пытаюсь вести себя непринужденно."
+    "Я поворачиваю за угол к раздевалкам и пытаюсь вести себя непринуждённо."
 
 # ch/audrey/events.rpy:3353
 translate russian audrey_event_03_6f536d84:
@@ -12506,7 +12506,7 @@ translate russian audrey_event_03_6f536d84:
 
 # ch/audrey/events.rpy:3355
 translate russian audrey_event_03_0df3f9fa:
-    "Держась за щеку, я оглядываюсь вокруг в ярости и вижу Одри в тени."
+    "Держась за щёку, я оглядываюсь вокруг в ярости и вижу Одри в тени."
 
 # ch/audrey/events.rpy:3356
 translate russian audrey_event_03_a32fdea6:
@@ -12534,7 +12534,7 @@ translate russian audrey_event_03_2b268562:
 
 # ch/audrey/events.rpy:3366
 translate russian audrey_event_03_c0653e4b:
-    "Я тер щеку, уже не так злясь, потому что понимаю, что это Одри."
+    "Я тер щёку, уже не так злясь, потому что понимаю, что это Одри."
 
 # ch/audrey/events.rpy:3367
 translate russian audrey_event_03_801fca3b:
@@ -12586,11 +12586,11 @@ translate russian audrey_event_03_d3ee5f77:
 
 # ch/audrey/events.rpy:3380
 translate russian audrey_event_03_d13b19b3:
-    "Я чувствую, как начинает учащаться мое сердце, и начинаю гадать, чего же она хочет добиться этим."
+    "Я чувствую, как начинает учащаться моё сердце, и начинаю гадать, чего же она хочет добиться этим."
 
 # ch/audrey/events.rpy:3381
 translate russian audrey_event_03_fe8b144d:
-    "Я знаю, что хочу, но сомневаюсь, есть ли у нее средства защиты, а я точно их не имею."
+    "Я знаю, что хочу, но сомневаюсь, есть ли у неё средства защиты, а я точно их не имею."
 
 # ch/audrey/events.rpy:3383
 translate russian audrey_event_03_8c600b92:
@@ -12602,7 +12602,7 @@ translate russian audrey_event_03_498369f3:
 
 # ch/audrey/events.rpy:3385
 translate russian audrey_event_03_a54f6a5c:
-    "Ее голос был соблазнительным, и я терял контроль над своими мыслями."
+    "Её голос был соблазнительным, и я терял контроль над своими мыслями."
 
 # ch/audrey/events.rpy:3386
 translate russian audrey_event_03_c70853db:
@@ -12634,7 +12634,7 @@ translate russian audrey_event_03_ab991e1d:
 
 # ch/audrey/events.rpy:3395
 translate russian audrey_event_03_4cf629b6:
-    "Я поднимаю ее на руки, и она обхватывает мои бедра ногами."
+    "Я поднимаю её на руки, и она обхватывает мои бедра ногами."
 
 # ch/audrey/events.rpy:3396
 translate russian audrey_event_03_ae463c7b:
@@ -12642,7 +12642,7 @@ translate russian audrey_event_03_ae463c7b:
 
 # ch/audrey/events.rpy:3399
 translate russian audrey_event_03_04596b3c:
-    "Я грубо провела пальцами по ее волосам и слышу ее стон прямо перед тем, как впервые опускаю свой язык в ее рот."
+    "Я грубо провела пальцами по её волосам и слышу её стон прямо перед тем, как впервые опускаю свой язык в её рот."
 
 # ch/audrey/events.rpy:3400
 translate russian audrey_event_03_5947749e:
@@ -12654,15 +12654,15 @@ translate russian audrey_event_03_4223aed7:
 
 # ch/audrey/events.rpy:3404
 translate russian audrey_event_03_026c04b1:
-    "Она толкает меня, пока я не оказываюсь прижатым спиной к скамейке у стены, а затем она с силой опускает меня на нее."
+    "Она толкает меня, пока я не оказываюсь прижатым спиной к скамейке у стены, а затем она с силой опускает меня на неё."
 
 # ch/audrey/events.rpy:3405
 translate russian audrey_event_03_90e40e11:
-    "Я с нетерпением наблюдаю, как она забирается на меня, ставя одну ногу по обе стороны от моих бедер."
+    "Я с нетерпением наблюдаю, как она забирается на меня, ставя одну ногу по обе стороны от моих бёдер."
 
 # ch/audrey/events.rpy:3408
 translate russian audrey_event_03_c9f70813:
-    "Она берет мое лицо в свои руки и медленно целует меня."
+    "Она берет моё лицо в свои руки и медленно целует меня."
 
 # ch/audrey/events.rpy:3409
 translate russian audrey_event_03_4ab9bb51:
@@ -12670,7 +12670,7 @@ translate russian audrey_event_03_4ab9bb51:
 
 # ch/audrey/events.rpy:3410
 translate russian audrey_event_03_926f7b51:
-    "Она проникает своим языком в мой рот, и я смущаюсь от того, как быстро у меня встает."
+    "Она проникает своим языком в мой рот, и я смущаюсь от того, как быстро у меня встаёт."
 
 # ch/audrey/events.rpy:3411
 translate russian audrey_event_03_72547d52:
@@ -12678,7 +12678,7 @@ translate russian audrey_event_03_72547d52:
 
 # ch/audrey/events.rpy:3416
 translate russian audrey_event_03_4581e646:
-    "Я слышу ее вздох, когда она отталкивается."
+    "Я слышу её вздох, когда она отталкивается."
 
 # ch/audrey/events.rpy:3419
 translate russian audrey_event_03_9016b5ea:
@@ -12742,7 +12742,7 @@ translate russian audrey_event_03_1b5fa964:
 
 # ch/audrey/events.rpy:3438
 translate russian audrey_event_03_0afdc5cf:
-    "Она слезает с меня, чтобы забрать свою рубашку, надевает ее через голову и уходит, оставляя меня гадать, что же только что произошло, и как мы снова оказались так близко, но ничего не случилось!"
+    "Она слезает с меня, чтобы забрать свою рубашку, надевает её через голову и уходит, оставляя меня гадать, что же только что произошло, и как мы снова оказались так близко, но ничего не случилось!"
 
 # ch/audrey/events.rpy:3445
 translate russian audrey_event_04b_99e20cf3:
@@ -12758,11 +12758,11 @@ translate russian audrey_event_04b_ae059e6d:
 
 # ch/audrey/events.rpy:3462
 translate russian audrey_event_04b_9bec3d52:
-    "Что, если это просто шутка, и она на самом деле не придет?"
+    "Что, если это просто шутка, и она на самом деле не придёт?"
 
 # ch/audrey/events.rpy:3463
 translate russian audrey_event_04b_5405fe2b:
-    "Я снова смотрю на часы, у нее еще есть несколько минут."
+    "Я снова смотрю на часы, у неё ещё есть несколько минут."
 
 # ch/audrey/events.rpy:3465
 translate russian audrey_event_04b_0752adf6:
@@ -12774,7 +12774,7 @@ translate russian audrey_event_04b_81ebb271:
 
 # ch/audrey/events.rpy:3467
 translate russian audrey_event_04b_6ba3e20d:
-    audrey.say "(обращаясь к Майку) Серьезно, я нашла тебя по твоему клубящемуся дыханию!"
+    audrey.say "(обращаясь к Майку) Серьёзно, я нашла тебя по твоему клубящемуся дыханию!"
 
 # ch/audrey/events.rpy:3468
 translate russian audrey_event_04b_f17a92d8:
@@ -12806,11 +12806,11 @@ translate russian audrey_event_04b_21087980:
 
 # ch/audrey/events.rpy:3476
 translate russian audrey_event_04b_bdaea277:
-    "И это странное чувство – испытывать такое возбуждение от того, что она одета тепло."
+    "И это странное чувство — испытывать такое возбуждение от того, что она одета тепло."
 
 # ch/audrey/events.rpy:3477
 translate russian audrey_event_04b_9b215b19:
-    "Но так уж сложилось – она выглядит такой изысканной и гламурной."
+    "Но так уж сложилось — она выглядит такой изысканной и гламурной."
 
 # ch/audrey/events.rpy:3478
 translate russian audrey_event_04b_e97da3ab:
@@ -12858,7 +12858,7 @@ translate russian audrey_event_04b_3cef437b:
 
 # ch/audrey/events.rpy:3492
 translate russian audrey_event_04b_86b1ec66:
-    "И вскоре мы уже идем вместе по дорожкам."
+    "И вскоре мы уже идём вместе по дорожкам."
 
 # ch/audrey/events.rpy:3493
 translate russian audrey_event_04b_21162fc9:
@@ -12866,7 +12866,7 @@ translate russian audrey_event_04b_21162fc9:
 
 # ch/audrey/events.rpy:3494
 translate russian audrey_event_04b_7271ac1f:
-    "Кажется, все идет по плану."
+    "Кажется, все идёт по плану."
 
 # ch/audrey/events.rpy:3496
 translate russian audrey_event_04b_a6d2aee5:
@@ -12874,7 +12874,7 @@ translate russian audrey_event_04b_a6d2aee5:
 
 # ch/audrey/events.rpy:3497
 translate russian audrey_event_04b_0464773a:
-    "Я сразу чувствую, как она тянет меня в ее сторону."
+    "Я сразу чувствую, как она тянет меня в её сторону."
 
 # ch/audrey/events.rpy:3498
 translate russian audrey_event_04b_037730d7:
@@ -12882,7 +12882,7 @@ translate russian audrey_event_04b_037730d7:
 
 # ch/audrey/events.rpy:3499
 translate russian audrey_event_04b_30df55e2:
-    mike.say "Это же детская площадка – там дети должны играть, да?"
+    mike.say "Это же детская площадка — там дети должны играть, да?"
 
 # ch/audrey/events.rpy:3500
 translate russian audrey_event_04b_52c7fe0c:
@@ -12894,7 +12894,7 @@ translate russian audrey_event_04b_0fea8c41:
 
 # ch/audrey/events.rpy:3502
 translate russian audrey_event_04b_65bb9fea:
-    "Одри качает головой и издает звук недовольства."
+    "Одри качает головой и издаёт звук недовольства."
 
 # ch/audrey/events.rpy:3503
 translate russian audrey_event_04b_afaf62c2:
@@ -12942,11 +12942,11 @@ translate russian audrey_event_04b_51f67172:
 
 # ch/audrey/events.rpy:3517
 translate russian audrey_event_04b_d899cc03:
-    "Поскольку я не слабак, а Одри не очень тяжелая, скорость набирается довольно быстро."
+    "Поскольку я не слабак, а Одри не очень тяжёлая, скорость набирается довольно быстро."
 
 # ch/audrey/events.rpy:3518
 translate russian audrey_event_04b_ae4aca6f:
-    "Вскоре она начинает взлетать все выше и выше с каждым движением."
+    "Вскоре она начинает взлетать всё выше и выше с каждым движением."
 
 # ch/audrey/events.rpy:3519
 translate russian audrey_event_04b_202cfd62:
@@ -12970,7 +12970,7 @@ translate russian audrey_event_04b_62e0756e:
 
 # ch/audrey/events.rpy:3524
 translate russian audrey_event_04b_55645432:
-    "Ее требования и то, как она задыхается от возбуждения."
+    "Её требования и то, как она задыхается от возбуждения."
 
 # ch/audrey/events.rpy:3525
 translate russian audrey_event_04b_f11c607b:
@@ -12986,7 +12986,7 @@ translate russian audrey_event_04b_8164214e:
 
 # ch/audrey/events.rpy:3528
 translate russian audrey_event_04b_fde3798e:
-    "В итоге я думаю только об одном – как бы дотронуться до нее."
+    "В итоге я думаю только об одном — как бы дотронуться до неё."
 
 # ch/audrey/events.rpy:3529
 translate russian audrey_event_04b_23a7a201:
@@ -13010,7 +13010,7 @@ translate russian audrey_event_04b_9ac2af8e:
 
 # ch/audrey/events.rpy:3537
 translate russian audrey_event_04b_4c7926bf:
-    "Как только она оказывается на твердой земле, кажется, что с Одри все в порядке."
+    "Как только она оказывается на твёрдой земле, кажется, что с Одри всё в порядке."
 
 # ch/audrey/events.rpy:3538
 translate russian audrey_event_04b_c17f87f1:
@@ -13022,11 +13022,11 @@ translate russian audrey_event_04b_887e1b8a:
 
 # ch/audrey/events.rpy:3541
 translate russian audrey_event_04b_82ad11ff:
-    mike.say "Хорошо, Одри – держись крепче!"
+    mike.say "Хорошо, Одри — держись крепче!"
 
 # ch/audrey/events.rpy:3542
 translate russian audrey_event_04b_fd5f3337:
-    "Я стараюсь говорить так, чтобы создать впечатление, что я собираюсь выполнить ее просьбу как можно быстрее."
+    "Я стараюсь говорить так, чтобы создать впечатление, что я собираюсь выполнить её просьбу как можно быстрее."
 
 # ch/audrey/events.rpy:3543
 translate russian audrey_event_04b_b3262107:
@@ -13042,7 +13042,7 @@ translate russian audrey_event_04b_ae564628:
 
 # ch/audrey/events.rpy:3547
 translate russian audrey_event_04b_e965d89a:
-    "Если повезет, я смогу представить это как забавную и романтичную сцену."
+    "Если повезёт, я смогу представить это как забавную и романтичную сцену."
 
 # ch/audrey/events.rpy:3548
 translate russian audrey_event_04b_175a6bfc:
@@ -13050,7 +13050,7 @@ translate russian audrey_event_04b_175a6bfc:
 
 # ch/audrey/events.rpy:3549
 translate russian audrey_event_04b_c23434d2:
-    "А не как смущенный парень, толкающий сумасшедшую выскочку на детской качели!"
+    "А не как смущённый парень, толкающий сумасшедшую выскочку на детской качели!"
 
 # ch/audrey/events.rpy:3550
 translate russian audrey_event_04b_0640aa99:
@@ -13078,19 +13078,19 @@ translate russian audrey_event_04b_8265db1f_1:
 
 # ch/audrey/events.rpy:3558
 translate russian audrey_event_04b_714b55b1:
-    "Как-то у нее получается, чтобы каждое слово звучало непристойно."
+    "Как-то у неё получается, чтобы каждое слово звучало непристойно."
 
 # ch/audrey/events.rpy:3559
 translate russian audrey_event_04b_6cfc3af6:
-    "Как будто она требует, чтобы я трахал ее сильнее, а не просто толкал на качели."
+    "Как будто она требует, чтобы я трахал её сильнее, а не просто толкал на качели."
 
 # ch/audrey/events.rpy:3560
 translate russian audrey_event_04b_0c4514e3:
-    "И я чувствую, как все больше смущаюсь."
+    "И я чувствую, как всё больше смущаюсь."
 
 # ch/audrey/events.rpy:3564
 translate russian audrey_event_04b_82fff1c7:
-    "К тому же, когда она наконец сдается и перестает качаться на качеле, Одри совсем не довольна моей \"работой\"."
+    "К тому же, когда она наконец сдаётся и перестаёт качаться на качеле, Одри совсем не довольна моей «работой»."
 
 # ch/audrey/events.rpy:3565
 translate russian audrey_event_04b_a3cb1210:
@@ -13146,7 +13146,7 @@ translate russian audrey_event_04b_acdfd62d:
 
 # ch/audrey/events.rpy:3579
 translate russian audrey_event_04b_d61d5bbf:
-    "Как будто она начинает всерьез задумываться о настоящей романтике."
+    "Как будто она начинает всерьёз задумываться о настоящей романтике."
 
 # ch/audrey/events.rpy:3580
 translate russian audrey_event_04b_5a621b1c:
@@ -13154,7 +13154,7 @@ translate russian audrey_event_04b_5a621b1c:
 
 # ch/audrey/events.rpy:3581
 translate russian audrey_event_04b_6aabeb48:
-    mike.say "Лебеди – это символ истинной любви, знаешь ли?"
+    mike.say "Лебеди — это символ истинной любви, знаешь ли?"
 
 # ch/audrey/events.rpy:3582
 translate russian audrey_event_04b_18d6cdd7:
@@ -13166,7 +13166,7 @@ translate russian audrey_event_04b_d3fde7ab:
 
 # ch/audrey/events.rpy:3585
 translate russian audrey_event_04b_6fca7ff9:
-    audrey.say "Или она увидит нового самца лебедя, который намного привлекательнее ее нынешнего?"
+    audrey.say "Или она увидит нового самца лебедя, который намного привлекательнее её нынешнего?"
 
 # ch/audrey/events.rpy:3586
 translate russian audrey_event_04b_31a225fe:
@@ -13194,7 +13194,7 @@ translate russian audrey_event_04b_a219fa8f:
 
 # ch/audrey/events.rpy:3595
 translate russian audrey_event_04b_216b3428:
-    "Я удивлен таким поступком, но отвечаю на поцелуй как можно быстрее."
+    "Я удивлён таким поступком, но отвечаю на поцелуй как можно быстрее."
 
 # ch/audrey/events.rpy:3598
 translate russian audrey_event_04b_5431407e:
@@ -13222,15 +13222,15 @@ translate russian audrey_event_04b_3b2f685c:
 
 # ch/audrey/events.rpy:3604
 translate russian audrey_event_04b_7924514f:
-    "Одри мгновенно отвечает, ее язык проникает в мой рот."
+    "Одри мгновенно отвечает, её язык проникает в мой рот."
 
 # ch/audrey/events.rpy:3605
 translate russian audrey_event_04b_916d7869:
-    "Одна моя рука обнимает ее за плечо, притягивая ближе."
+    "Одна моя рука обнимает её за плечо, притягивая ближе."
 
 # ch/audrey/events.rpy:3606
 translate russian audrey_event_04b_fae88cbe:
-    "А другая – на ее бедре, нежно сжимая его."
+    "А другая — на её бедре, нежно сжимая его."
 
 # ch/audrey/events.rpy:3607
 translate russian audrey_event_04b_a6e49f6f:
@@ -13246,15 +13246,15 @@ translate russian audrey_event_04b_bf924eda:
 
 # ch/audrey/events.rpy:3610
 translate russian audrey_event_04b_e3835dda:
-    "Одри стонет, когда мои пальцы приближаются к ее промежности."
+    "Одри стонет, когда мои пальцы приближаются к её промежности."
 
 # ch/audrey/events.rpy:3611
 translate russian audrey_event_04b_eb7e2ad5:
-    "Я подвожу их настолько близко, насколько осмеливаюсь, чувствуя тепло между ее ног."
+    "Я подвожу их настолько близко, насколько осмеливаюсь, чувствуя тепло между её ног."
 
 # ch/audrey/events.rpy:3612
 translate russian audrey_event_04b_b4c26a59:
-    "Я могу представить, что происходит прямо сейчас в ее трусиках."
+    "Я могу представить, что происходит прямо сейчас в её трусиках."
 
 # ch/audrey/events.rpy:3613
 translate russian audrey_event_04b_90131c20:
@@ -13326,7 +13326,7 @@ translate russian audrey_event_04b_8066cea9:
 
 # ch/audrey/events.rpy:3638
 translate russian audrey_event_04b_b7fec98c:
-    "Одри тоже встает и снова берет меня под руку."
+    "Одри тоже встаёт и снова берет меня под руку."
 
 # ch/audrey/events.rpy:3639
 translate russian audrey_event_04b_5ee4817a:
@@ -13342,7 +13342,7 @@ translate russian audrey_event_04b_67ecb138:
 
 # ch/audrey/events.rpy:3643
 translate russian audrey_event_04b_d66e0589:
-    audrey.say "\"Честно говоря, [lssb_audrey.hero_name()]\"."
+    audrey.say "«Честно говоря, [lssb_audrey.hero_name()]»."
 
 # ch/audrey/events.rpy:3644
 translate russian audrey_event_04b_644a3b95:
@@ -13350,7 +13350,7 @@ translate russian audrey_event_04b_644a3b95:
 
 # ch/audrey/events.rpy:3645
 translate russian audrey_event_04b_eff8e9c0:
-    mike.say "\"Эм...спасибо, Одри...наверное!\"."
+    mike.say "«Эм...спасибо, Одри...наверное!»."
 
 # ch/audrey/events.rpy:3646
 translate russian audrey_event_04b_e5c03102:
@@ -13366,7 +13366,7 @@ translate russian audrey_event_04b_45e70ad7:
 
 # ch/audrey/events.rpy:3649
 translate russian audrey_event_04b_4751a4f6:
-    "Может быть, это была хорошая идея все-таки."
+    "Может быть, это была хорошая идея всё-таки."
 
 # ch/audrey/events.rpy:3656
 translate russian audrey_event_04_99e20cf3:
@@ -13382,19 +13382,19 @@ translate russian audrey_event_04_a0fda17e:
 
 # ch/audrey/events.rpy:3673
 translate russian audrey_event_04_9bec3d52:
-    "Что, если это просто шутка, и она на самом деле не придет?"
+    "Что, если это просто шутка, и она на самом деле не придёт?"
 
 # ch/audrey/events.rpy:3674
 translate russian audrey_event_04_5405fe2b:
-    "Я снова смотрю на часы, у нее еще есть несколько минут."
+    "Я снова смотрю на часы, у неё ещё есть несколько минут."
 
 # ch/audrey/events.rpy:3676
 translate russian audrey_event_04_349c81d6:
-    "Я поднимаю голову и понимаю, что она идет ко мне."
+    "Я поднимаю голову и понимаю, что она идёт ко мне."
 
 # ch/audrey/events.rpy:3677
 translate russian audrey_event_04_d095ff6d:
-    "На ней купальник: верх – красный и черный в клетку, а низ, кажется, черные плавки."
+    "На ней купальник: верх — красный и чёрный в клетку, а низ, кажется, чёрные плавки."
 
 # ch/audrey/events.rpy:3678
 translate russian audrey_event_04_f9aa4401:
@@ -13402,7 +13402,7 @@ translate russian audrey_event_04_f9aa4401:
 
 # ch/audrey/events.rpy:3679
 translate russian audrey_event_04_1b23b3dd:
-    audrey.say "Привет, рада видеть, что ты пришел. Хочешь прокатиться на этом?"
+    audrey.say "Привет, рада видеть, что ты пришёл. Хочешь прокатиться на этом?"
 
 # ch/audrey/events.rpy:3680
 translate russian audrey_event_04_21eaeb9d:
@@ -13418,7 +13418,7 @@ translate russian audrey_event_04_586e2cf0:
 
 # ch/audrey/events.rpy:3683
 translate russian audrey_event_04_dad3eda9:
-    mike.say "Эм, да. Пойдем посмотрим, какая там очередь."
+    mike.say "Эм, да. Пойдём посмотрим, какая там очередь."
 
 # ch/audrey/events.rpy:3684
 translate russian audrey_event_04_cec4d8f6:
@@ -13434,7 +13434,7 @@ translate russian audrey_event_04_149648e4:
 
 # ch/audrey/events.rpy:3688
 translate russian audrey_event_04_ba0c10a1:
-    "К сожалению, очередь короткая, потому что еще рано."
+    "К сожалению, очередь короткая, потому что ещё рано."
 
 # ch/audrey/events.rpy:3689
 translate russian audrey_event_04_acb95134:
@@ -13442,7 +13442,7 @@ translate russian audrey_event_04_acb95134:
 
 # ch/audrey/events.rpy:3690
 translate russian audrey_event_04_44956228:
-    "Еще слишком рано покупать браслеты."
+    "Ещё слишком рано покупать браслеты."
 
 # ch/audrey/events.rpy:3691
 translate russian audrey_event_04_22828103:
@@ -13450,7 +13450,7 @@ translate russian audrey_event_04_22828103:
 
 # ch/audrey/events.rpy:3692
 translate russian audrey_event_04_3a0e5d76:
-    audrey.say "\"Это будет весело\"."
+    audrey.say "«Это будет весело»."
 
 # ch/audrey/events.rpy:3693
 translate russian audrey_event_04_a10ffd5c:
@@ -13462,15 +13462,15 @@ translate russian audrey_event_04_f1537507:
 
 # ch/audrey/events.rpy:3695
 translate russian audrey_event_04_10eed144:
-    "Я был в замешательстве, что именно ей показалось веселым."
+    "Я был в замешательстве, что именно ей показалось весёлым."
 
 # ch/audrey/events.rpy:3696
 translate russian audrey_event_04_8a9c7979:
-    "Может быть, она хочет, чтобы я ее трогал?"
+    "Может быть, она хочет, чтобы я её трогал?"
 
 # ch/audrey/events.rpy:3697
 translate russian audrey_event_04_2a16bc4f:
-    "Я оглядываюсь, но у меня нет такой смелости, как у нее. Поэтому я жду, пока аттракцион начнет движение."
+    "Я оглядываюсь, но у меня нет такой смелости, как у неё. Поэтому я жду, пока аттракцион начнёт движение."
 
 # ch/audrey/events.rpy:3699
 translate russian audrey_event_04_3b490be0:
@@ -13486,7 +13486,7 @@ translate russian audrey_event_04_01f76207:
 
 # ch/audrey/events.rpy:3704
 translate russian audrey_event_04_6c6651e9:
-    "Когда я поднимаюсь настолько высоко, насколько могу, я начинаю тереть большим пальцем верхнюю часть ее бедра, и она прижимает ногу к моей, чтобы подбодрить меня."
+    "Когда я поднимаюсь настолько высоко, насколько могу, я начинаю тереть большим пальцем верхнюю часть её бедра, и она прижимает ногу к моей, чтобы подбодрить меня."
 
 # ch/audrey/events.rpy:3705
 translate russian audrey_event_04_1847e302:
@@ -13498,7 +13498,7 @@ translate russian audrey_event_04_90b63f3e:
 
 # ch/audrey/events.rpy:3709
 translate russian audrey_event_04_4437e955:
-    "Я бросаю на неё взгляд, и кажется, она ждет чего-то."
+    "Я бросаю на неё взгляд, и кажется, она ждёт чего-то."
 
 # ch/audrey/events.rpy:3710
 translate russian audrey_event_04_41884ff3:
@@ -13562,7 +13562,7 @@ translate russian audrey_event_04_b1aa9a9f:
 
 # ch/audrey/events.rpy:3733
 translate russian audrey_event_04_81805ac4:
-    "У меня нет выбора, кроме как следовать за ней, и она ведет меня в тихое место позади одного из аттракционов, где нас никто не видит."
+    "У меня нет выбора, кроме как следовать за ней, и она ведёт меня в тихое место позади одного из аттракционов, где нас никто не видит."
 
 # ch/audrey/events.rpy:3734
 translate russian audrey_event_04_aa9e8b67:
@@ -13578,7 +13578,7 @@ translate russian audrey_event_04_a799cde8:
 
 # ch/audrey/events.rpy:3741
 translate russian audrey_event_04_0a80da58:
-    "Я начинаю медленно поднимать свою руку по ее ноге, но она отбивает ее."
+    "Я начинаю медленно поднимать свою руку по её ноге, но она отбивает её."
 
 # ch/audrey/events.rpy:3742
 translate russian audrey_event_04_2d040a52:
@@ -13590,7 +13590,7 @@ translate russian audrey_event_04_e06a23cf:
 
 # ch/audrey/events.rpy:3747
 translate russian audrey_event_04_46f9ccf4:
-    "Кажется, она решает, что я действительно могу делать все, что захочу, и позволяет мне это."
+    "Кажется, она решает, что я действительно могу делать всё, что захочу, и позволяет мне это."
 
 # ch/audrey/events.rpy:3750
 translate russian audrey_event_04_67ac5ecc:
@@ -13598,7 +13598,7 @@ translate russian audrey_event_04_67ac5ecc:
 
 # ch/audrey/events.rpy:3752
 translate russian audrey_event_04_b59176bd:
-    "Я решаю, что сейчас слишком опасно пытаться ощупать ее, кто-нибудь может нас увидеть и вызвать охрану."
+    "Я решаю, что сейчас слишком опасно пытаться ощупать её, кто-нибудь может нас увидеть и вызвать охрану."
 
 # ch/audrey/events.rpy:3753
 translate russian audrey_event_04_4c7b9242:
@@ -13610,7 +13610,7 @@ translate russian audrey_event_04_20325033:
 
 # ch/audrey/events.rpy:3758
 translate russian audrey_event_04_fb6d6048:
-    "Я слышу ее вздох."
+    "Я слышу её вздох."
 
 # ch/audrey/events.rpy:3759
 translate russian audrey_event_04_5f6055de:
@@ -13618,11 +13618,11 @@ translate russian audrey_event_04_5f6055de:
 
 # ch/audrey/events.rpy:3760
 translate russian audrey_event_04_bbf2c240:
-    audrey.say "Ты можешь попробовать пригласить меня на еще одно такое свидание."
+    audrey.say "Ты можешь попробовать пригласить меня на ещё одно такое свидание."
 
 # ch/audrey/events.rpy:3761
 translate russian audrey_event_04_6a96b04a:
-    "На моем лице сияла широкая улыбка, пока я не услышал, что она говорит."
+    "На моём лице сияла широкая улыбка, пока я не услышал, что она говорит."
 
 # ch/audrey/events.rpy:3762
 translate russian audrey_event_04_b6706cfc:
@@ -13654,7 +13654,7 @@ translate russian audrey_gay_mistake_5e174f48:
 
 # ch/audrey/events.rpy:3776
 translate russian audrey_gay_mistake_5185c961:
-    mike.say "Ну, \"идеальный\" – это может быть проблемой. Если бы ты сказала \"зависимый\" или \"саморазрушительный\"..."
+    mike.say "Ну, «идеальный» — это может быть проблемой. Если бы ты сказала «зависимый» или «саморазрушительный»..."
 
 # ch/audrey/events.rpy:3777
 translate russian audrey_gay_mistake_84da1f34:
@@ -13670,7 +13670,7 @@ translate russian audrey_gay_mistake_82c30301:
 
 # ch/audrey/events.rpy:3780
 translate russian audrey_gay_mistake_3482a209:
-    mike.say "Он – мужчина?"
+    mike.say "Он — мужчина?"
 
 # ch/audrey/events.rpy:3781
 translate russian audrey_gay_mistake_909a1661:
@@ -13678,7 +13678,7 @@ translate russian audrey_gay_mistake_909a1661:
 
 # ch/audrey/events.rpy:3782
 translate russian audrey_gay_mistake_6bbf023a:
-    audrey.say "...О, боже. Я… просто… я думала… Хорошо, Одри."
+    audrey.say "...О, боже. Я... просто... я думала... Хорошо, Одри."
 
 # ch/audrey/events.rpy:3783
 translate russian audrey_gay_mistake_e8484ae2:
@@ -13718,7 +13718,7 @@ translate russian audrey_talk_breakup_1c459230:
 
 # ch/audrey/events.rpy:3798
 translate russian audrey_talk_breakup_932af6cf:
-    "Судя по всему, она совсем не удивлена моей реакцией на ее присутствие."
+    "Судя по всему, она совсем не удивлена моей реакцией на её присутствие."
 
 # ch/audrey/events.rpy:3799
 translate russian audrey_talk_breakup_f58c9eb5:
@@ -13726,7 +13726,7 @@ translate russian audrey_talk_breakup_f58c9eb5:
 
 # ch/audrey/events.rpy:3800
 translate russian audrey_talk_breakup_e3490e20:
-    "Я кладу одну руку на стол, а другую – на сердце, чувствуя, как оно все еще бешено колотится."
+    "Я кладу одну руку на стол, а другую — на сердце, чувствуя, как оно всё ещё бешено колотится."
 
 # ch/audrey/events.rpy:3801
 translate russian audrey_talk_breakup_91e95b3a:
@@ -13762,15 +13762,15 @@ translate russian audrey_talk_breakup_9b511d0d:
 
 # ch/audrey/events.rpy:3809
 translate russian audrey_talk_breakup_dfd100ee:
-    audrey.say "Только если они – то, о чем я думаю."
+    audrey.say "Только если они — то, о чём я думаю."
 
 # ch/audrey/events.rpy:3810
 translate russian audrey_talk_breakup_a5462f95:
-    "Я все еще очень раздражен и чувствую себя неловко из-за действий Одри."
+    "Я всё ещё очень раздражён и чувствую себя неловко из-за действий Одри."
 
 # ch/audrey/events.rpy:3811
 translate russian audrey_talk_breakup_81874c46:
-    "Но, видимо, я был у нее в мыслях."
+    "Но, видимо, я был у неё в мыслях."
 
 # ch/audrey/events.rpy:3812
 translate russian audrey_talk_breakup_5b9a2e39:
@@ -13790,15 +13790,15 @@ translate russian audrey_talk_breakup_e15ba848:
 
 # ch/audrey/events.rpy:3816
 translate russian audrey_talk_breakup_93e4bf24:
-    mike.say "И о чем именно ты думала, когда смотрела на меня?"
+    mike.say "И о чём именно ты думала, когда смотрела на меня?"
 
 # ch/audrey/events.rpy:3817
 translate russian audrey_talk_breakup_5fb99ac5:
-    audrey.say "Я просто подумала – как давно у тебя был свидание?"
+    audrey.say "Я просто подумала — как давно у тебя был свидание?"
 
 # ch/audrey/events.rpy:3818
 translate russian audrey_talk_breakup_93fbe012:
-    "Ну вот – это звучит довольно многообещающе."
+    "Ну вот — это звучит довольно многообещающе."
 
 # ch/audrey/events.rpy:3819
 translate russian audrey_talk_breakup_cb38a32d:
@@ -13814,7 +13814,7 @@ translate russian audrey_talk_breakup_cfdbea69:
 
 # ch/audrey/events.rpy:3822
 translate russian audrey_talk_breakup_0d88f7a1:
-    mike.say "Просто сейчас на работе так много дел, это отнимает все мое время."
+    mike.say "Просто сейчас на работе так много дел, это отнимает все моё время."
 
 # ch/audrey/events.rpy:3823
 translate russian audrey_talk_breakup_af4e1e88:
@@ -13822,7 +13822,7 @@ translate russian audrey_talk_breakup_af4e1e88:
 
 # ch/audrey/events.rpy:3825
 translate russian audrey_talk_breakup_623b92b6:
-    "Одри качает головой, на ее лице выражение сочувствия."
+    "Одри качает головой, на её лице выражение сочувствия."
 
 # ch/audrey/events.rpy:3826
 translate russian audrey_talk_breakup_d4602d21:
@@ -13838,11 +13838,11 @@ translate russian audrey_talk_breakup_66a15c55:
 
 # ch/audrey/events.rpy:3829
 translate russian audrey_talk_breakup_0222cb83:
-    "Я не могу не быть польщен комплиментами Одри."
+    "Я не могу не быть польщён комплиментами Одри."
 
 # ch/audrey/events.rpy:3830
 translate russian audrey_talk_breakup_c4cb615a:
-    "Но она права – я действительно стараюсь выглядеть так каждый день."
+    "Но она права — я действительно стараюсь выглядеть так каждый день."
 
 # ch/audrey/events.rpy:3831
 translate russian audrey_talk_breakup_71adad72:
@@ -13858,15 +13858,15 @@ translate russian audrey_talk_breakup_2a23d872:
 
 # ch/audrey/events.rpy:3834
 translate russian audrey_talk_breakup_f1554623:
-    audrey.say "И это не остается незамеченным."
+    audrey.say "И это не остаётся незамеченным."
 
 # ch/audrey/events.rpy:3835
 translate russian audrey_talk_breakup_847897e4:
-    mike.say "Не остается?"
+    mike.say "Не остаётся?"
 
 # ch/audrey/events.rpy:3836
 translate russian audrey_talk_breakup_5760c0f1:
-    audrey.say "О нет – я вчера только разговаривала с Грегори из бухгалтерии об этом."
+    audrey.say "О нет — я вчера только разговаривала с Грегори из бухгалтерии об этом."
 
 # ch/audrey/events.rpy:3837
 translate russian audrey_talk_breakup_49f22fd3:
@@ -13886,7 +13886,7 @@ translate russian audrey_talk_breakup_194c86fc:
 
 # ch/audrey/events.rpy:3841
 translate russian audrey_talk_breakup_aac1025c:
-    "Вдруг я чувствую, как будто ковер выдернули из-под моих ног."
+    "Вдруг я чувствую, как будто ковёр выдернули из-под моих ног."
 
 # ch/audrey/events.rpy:3842
 translate russian audrey_talk_breakup_015bc053:
@@ -13906,19 +13906,19 @@ translate russian audrey_talk_breakup_d7558ba0:
 
 # ch/audrey/events.rpy:3846
 translate russian audrey_talk_breakup_81cef091:
-    mike.say "Единственная проблема в том, что я – гетеросексуал!"
+    mike.say "Единственная проблема в том, что я — гетеросексуал!"
 
 # ch/audrey/events.rpy:3848
 translate russian audrey_talk_breakup_3658fd54:
-    "Одри встает, словно то, что я только что сказал, стало для нее откровением."
+    "Одри встаёт, словно то, что я только что сказал, стало для неё откровением."
 
 # ch/audrey/events.rpy:3849
 translate russian audrey_talk_breakup_89ab6ae9:
-    audrey.say "Да ладно тебе – ну и что?!"
+    audrey.say "Да ладно тебе — ну и что?!"
 
 # ch/audrey/events.rpy:3850
 translate russian audrey_talk_breakup_3f682851:
-    mike.say "Серьезно – да!"
+    mike.say "Серьёзно — да!"
 
 # ch/audrey/events.rpy:3851
 translate russian audrey_talk_breakup_e0d46872:
@@ -13938,7 +13938,7 @@ translate russian audrey_talk_breakup_fada215e:
 
 # ch/audrey/events.rpy:3856
 translate russian audrey_talk_breakup_ebcc1c59:
-    mike.say "Ну я же говорю – да!"
+    mike.say "Ну я же говорю — да!"
 
 # ch/audrey/events.rpy:3857
 translate russian audrey_talk_breakup_0cb31da8:
@@ -13950,7 +13950,7 @@ translate russian audrey_talk_breakup_e72aa344:
 
 # ch/audrey/events.rpy:3859
 translate russian audrey_talk_breakup_0328da6d:
-    audrey.say "Хорошо, хорошо – что бы ты ни сказал..."
+    audrey.say "Хорошо, хорошо — что бы ты ни сказал..."
 
 # ch/audrey/events.rpy:3860
 translate russian audrey_talk_breakup_8a368d30:
@@ -13958,7 +13958,7 @@ translate russian audrey_talk_breakup_8a368d30:
 
 # ch/audrey/events.rpy:3861
 translate russian audrey_talk_breakup_98513a0e:
-    mike.say "Скажи ему то, что я только что тебе сказал: Я польщен, но не заинтересован."
+    mike.say "Скажи ему то, что я только что тебе сказал: Я польщён, но не заинтересован."
 
 # ch/audrey/events.rpy:3862
 translate russian audrey_talk_breakup_3b434466:
@@ -13966,7 +13966,7 @@ translate russian audrey_talk_breakup_3b434466:
 
 # ch/audrey/events.rpy:3863
 translate russian audrey_talk_breakup_afff6874:
-    "В идеальном мире это означало бы, что я высказал все, что хотел, и вопрос решен."
+    "В идеальном мире это означало бы, что я высказал всё, что хотел, и вопрос решён."
 
 # ch/audrey/events.rpy:3864
 translate russian audrey_talk_breakup_2c927581:
@@ -13982,7 +13982,7 @@ translate russian audrey_help_at_work_4d7cb482:
 
 # ch/audrey/events.rpy:3876
 translate russian audrey_help_at_work_1c95117e:
-    "Черт, это займет много времени..."
+    "Чёрт, это займёт много времени..."
 
 # ch/audrey/events.rpy:3877
 translate russian audrey_help_at_work_55d01cf2:
@@ -14034,7 +14034,7 @@ translate russian audrey_male_ending_9e4ce85b:
 
 # ch/audrey/events.rpy:3907
 translate russian audrey_male_ending_257e2846:
-    "Но оно все равно ей очень идет."
+    "Но оно всё равно ей очень идёт."
 
 # ch/audrey/events.rpy:3908
 translate russian audrey_male_ending_9c10dd15:
@@ -14062,11 +14062,11 @@ translate russian audrey_male_ending_f93f8e16:
 
 # ch/audrey/events.rpy:3916
 translate russian audrey_male_ending_2d9fd132:
-    "Но это просто означает, что она демонстрирует свою красоту еще ярче."
+    "Но это просто означает, что она демонстрирует свою красоту ещё ярче."
 
 # ch/audrey/events.rpy:3917
 translate russian audrey_male_ending_7027135b:
-    "И в ее глазах все тот же взгляд."
+    "И в её глазах все тот же взгляд."
 
 # ch/audrey/events.rpy:3918
 translate russian audrey_male_ending_be0573bf:
@@ -14082,7 +14082,7 @@ translate russian audrey_male_ending_3722cce3:
 
 # ch/audrey/events.rpy:3921
 translate russian audrey_male_ending_8f62f980:
-    "Про другие \"вещи\" и другие \"места\" можно подумать потом..."
+    "Про другие «вещи» и другие «места» можно подумать потом..."
 
 # ch/audrey/events.rpy:3923
 translate russian audrey_male_ending_d8a2157e:
@@ -14186,11 +14186,11 @@ translate russian audrey_male_ending_36a37d32:
 
 # ch/audrey/events.rpy:3952
 translate russian audrey_male_ending_77a34c3f:
-    "Я почти слишком ошеломлен, чтобы сделать то, что говорит священник."
+    "Я почти слишком ошеломлён, чтобы сделать то, что говорит священник."
 
 # ch/audrey/events.rpy:3958
 translate russian audrey_male_ending_6de6f268:
-    "И вот Одри целует меня, а я просто стою, как громом пораженный."
+    "И вот Одри целует меня, а я просто стою, как громом поражённый."
 
 # ch/audrey/events.rpy:3959
 translate russian audrey_male_ending_a55cef69:
@@ -14246,7 +14246,7 @@ translate russian audrey_male_ending_404ad2f7:
 
 # ch/audrey/events.rpy:3982
 translate russian audrey_male_ending_5c999177:
-    "Ее грудь обнажена, соски твердеют с каждой секундой."
+    "Её грудь обнажена, соски твердеют с каждой секундой."
 
 # ch/audrey/events.rpy:3983
 translate russian audrey_male_ending_c2d7cc03:
@@ -14282,7 +14282,7 @@ translate russian audrey_male_ending_57d128e3:
 
 # ch/audrey/events.rpy:3998
 translate russian audrey_male_ending_48c43a15:
-    "Практически все гости снимают на видео, как Одри сосет мой член."
+    "Практически все гости снимают на видео, как Одри сосёт мой член."
 
 # ch/audrey/events.rpy:3999
 translate russian audrey_male_ending_956bf114:
@@ -14290,7 +14290,7 @@ translate russian audrey_male_ending_956bf114:
 
 # ch/audrey/events.rpy:4001
 translate russian audrey_male_ending_1b7913c0:
-    "В любом случае, мой член на протяжении всего времени, пока Одри занимается этим, остается твердым, как камень."
+    "В любом случае, мой член на протяжении всего времени, пока Одри занимается этим, остаётся твёрдым, как камень."
 
 # ch/audrey/events.rpy:4002
 translate russian audrey_male_ending_cebce9b7:
@@ -14326,7 +14326,7 @@ translate russian audrey_male_ending_b3645748:
 
 # ch/audrey/events.rpy:4010
 translate russian audrey_male_ending_321177db:
-    "Но она моя жена, и мне кажется, что сейчас я должен быть на ее стороне!"
+    "Но она моя жена, и мне кажется, что сейчас я должен быть на её стороне!"
 
 # ch/audrey/events.rpy:4011
 translate russian audrey_male_ending_d579134a:
@@ -14342,7 +14342,7 @@ translate russian audrey_male_ending_4009a677:
 
 # ch/audrey/events.rpy:4019
 translate russian audrey_male_ending_015b61fe:
-    "Одри ахает, когда мои руки оказываются под её бедрами, поднимая её над землей."
+    "Одри ахает, когда мои руки оказываются под её бёдрами, поднимая её над землёй."
 
 # ch/audrey/events.rpy:4022
 translate russian audrey_male_ending_4ffac3bf:
@@ -14374,7 +14374,7 @@ translate russian audrey_male_ending_a9187ae9:
 
 # ch/audrey/events.rpy:4077
 translate russian audrey_male_ending_1c843c2b:
-    "Одри вскрикивает, когда я извергаю сперму в нее, она корчится и извивается в моих объятиях."
+    "Одри вскрикивает, когда я извергаю сперму в неё, она корчится и извивается в моих объятиях."
 
 # ch/audrey/events.rpy:4078
 translate russian audrey_male_ending_7dd57985:
@@ -14386,11 +14386,11 @@ translate russian audrey_male_ending_d97777ef:
 
 # ch/audrey/events.rpy:4080
 translate russian audrey_male_ending_ce6a6ce1:
-    "Черт... эти видео!"
+    "Чёрт... эти видео!"
 
 # ch/audrey/events.rpy:4081
 translate russian audrey_male_ending_95abe33f:
-    "Но это все, что я могу вспомнить о том, как мы совершили наш брак на публике!"
+    "Но это всё, что я могу вспомнить о том, как мы совершили наш брак на публике!"
 
 # ch/audrey/events.rpy:4086
 translate russian audrey_male_ending_2500a83f:
@@ -14410,7 +14410,7 @@ translate russian audrey_male_ending_8234a12e:
 
 # ch/audrey/events.rpy:4091
 translate russian audrey_male_ending_88da0f0c:
-    audrey.say "Но как можно меня винить, когда он делает все таким веселым?"
+    audrey.say "Но как можно меня винить, когда он делает все таким весёлым?"
 
 # ch/audrey/events.rpy:4092
 translate russian audrey_male_ending_9f69116e:
@@ -14422,7 +14422,7 @@ translate russian audrey_male_ending_f727f855:
 
 # ch/audrey/events.rpy:4094
 translate russian audrey_male_ending_5e88b3a5:
-    audrey.say "С самого момента, как я впервые увидела [lssb_audrey.hero_name()], я знала, что он – мой тип."
+    audrey.say "С самого момента, как я впервые увидела [lssb_audrey.hero_name()], я знала, что он — мой тип."
 
 # ch/audrey/events.rpy:4095
 translate russian audrey_male_ending_1a6d913c:
@@ -14478,7 +14478,7 @@ translate russian audrey_male_ending_9be6f887:
 
 # ch/audrey/events.rpy:4110
 translate russian audrey_male_ending_207ef298:
-    audrey.say "Но, возможно, это тоже настигло меня внезапно, пока я развлекалась за его счет."
+    audrey.say "Но, возможно, это тоже настигло меня внезапно, пока я развлекалась за его счёт."
 
 # ch/audrey/events.rpy:4111
 translate russian audrey_male_ending_7e6de317:
@@ -14490,7 +14490,7 @@ translate russian audrey_male_ending_ebfcbf75:
 
 # ch/audrey/events.rpy:4114
 translate russian audrey_male_ending_db034dff:
-    audrey.say "Кольцо на моем пальце это доказывает, правда?"
+    audrey.say "Кольцо на моём пальце это доказывает, правда?"
 
 # ch/audrey/events.rpy:4115
 translate russian audrey_male_ending_836304ef:
@@ -14498,11 +14498,11 @@ translate russian audrey_male_ending_836304ef:
 
 # ch/audrey/events.rpy:4116
 translate russian audrey_male_ending_ac32df4c:
-    audrey.say "То, что произошло на свадебном приеме, это подтвердило!"
+    audrey.say "То, что произошло на свадебном приёме, это подтвердило!"
 
 # ch/audrey/events.rpy:4117
 translate russian audrey_male_ending_9d44c5f7:
-    audrey.say "И теперь мы идем дальше, ведь мы же поженились."
+    audrey.say "И теперь мы идём дальше, ведь мы же поженились."
 
 # ch/audrey/events.rpy:4118
 translate russian audrey_male_ending_dfd7bee1:
@@ -14510,7 +14510,7 @@ translate russian audrey_male_ending_dfd7bee1:
 
 # ch/audrey/events.rpy:4119
 translate russian audrey_male_ending_1f0303a2:
-    audrey.say "Конечно, большая часть успеха – это благодаря тому, что я работаю твоим личным помощником, но ты тоже прикладываешь усилия."
+    audrey.say "Конечно, большая часть успеха — это благодаря тому, что я работаю твоим личным помощником, но ты тоже прикладываешь усилия."
 
 # ch/audrey/events.rpy:4120
 translate russian audrey_male_ending_85676d36:
@@ -14526,7 +14526,7 @@ translate russian audrey_male_ending_f80c4380:
 
 # ch/audrey/events.rpy:4124
 translate russian audrey_male_ending_080c6b1e:
-    audrey.say "Но в любом случае, мы очень ждем встречи с ним/ней, когда он/она появится!"
+    audrey.say "Но в любом случае, мы очень ждём встречи с ним/ней, когда он/она появится!"
 
 # ch/audrey/events.rpy:4126
 translate russian audrey_male_ending_dfe9c43a:
@@ -14542,7 +14542,7 @@ translate russian audrey_male_ending_a84a9c9f:
 
 # ch/audrey/events.rpy:4130
 translate russian audrey_male_ending_4a68c134:
-    audrey.say "Я все еще люблю мучить [lssb_audrey.hero_name()] всякий раз, когда есть такая возможность."
+    audrey.say "Я всё ещё люблю мучить [lssb_audrey.hero_name()] всякий раз, когда есть такая возможность."
 
 # ch/audrey/events.rpy:4131
 translate russian audrey_male_ending_9a8b5328:
@@ -14554,11 +14554,11 @@ translate russian audrey_male_ending_70d58819:
 
 # ch/audrey/events.rpy:4133
 translate russian audrey_male_ending_195098af:
-    audrey.say "Ты думаешь, что эти \"высокопоставленные\" люди в своих модных офисах постоянно работают?"
+    audrey.say "Ты думаешь, что эти «высокопоставленные» люди в своих модных офисах постоянно работают?"
 
 # ch/audrey/events.rpy:4134
 translate russian audrey_male_ending_6de1a5e6:
-    audrey.say "Ха-ха – вот что ты знаешь!"
+    audrey.say "Ха-ха — вот что ты знаешь!"
 
 # ch/audrey/events.rpy:4135
 translate russian audrey_male_ending_9c0afefa:
@@ -14566,7 +14566,7 @@ translate russian audrey_male_ending_9c0afefa:
 
 # ch/audrey/events.rpy:4136
 translate russian audrey_male_ending_39a557bc:
-    audrey.say "Ну, думаю, я оставлю это на твое воображение."
+    audrey.say "Ну, думаю, я оставлю это на твоё воображение."
 
 # ch/audrey/events.rpy:4137
 translate russian audrey_male_ending_b1e37a81:
@@ -14574,7 +14574,7 @@ translate russian audrey_male_ending_b1e37a81:
 
 # ch/audrey/events.rpy:4151
 translate russian audrey_birthday_date_male_bb1a6e3e:
-    "Обычно не так уж сложно узнать у девушки дату ее рождения."
+    "Обычно не так уж сложно узнать у девушки дату её рождения."
 
 # ch/audrey/events.rpy:4152
 translate russian audrey_birthday_date_male_a3ba9bf4:
@@ -14606,7 +14606,7 @@ translate russian audrey_birthday_date_male_f8184ae7:
 
 # ch/audrey/events.rpy:4159
 translate russian audrey_birthday_date_male_e284ca0e:
-    "И быть в центре внимания всякий раз, когда ей это удается."
+    "И быть в центре внимания всякий раз, когда ей это удаётся."
 
 # ch/audrey/events.rpy:4160
 translate russian audrey_birthday_date_male_29a00521:
@@ -14614,7 +14614,7 @@ translate russian audrey_birthday_date_male_29a00521:
 
 # ch/audrey/events.rpy:4161
 translate russian audrey_birthday_date_male_2e2f70a9:
-    "Возможно, сама идея свидания в ее день рождения выходит за рамки того, что комфортно для Одри."
+    "Возможно, сама идея свидания в её день рождения выходит за рамки того, что комфортно для Одри."
 
 # ch/audrey/events.rpy:4162
 translate russian audrey_birthday_date_male_6b965691:
@@ -14634,7 +14634,7 @@ translate russian audrey_birthday_date_male_e04364f6:
 
 # ch/audrey/events.rpy:4166
 translate russian audrey_birthday_date_male_d3481d3d:
-    "Но пока никаких признаков ее нет."
+    "Но пока никаких признаков её нет."
 
 # ch/audrey/events.rpy:4167
 translate russian audrey_birthday_date_male_e5353f7d:
@@ -14646,7 +14646,7 @@ translate russian audrey_birthday_date_male_aa55a496:
 
 # ch/audrey/events.rpy:4169
 translate russian audrey_birthday_date_male_0af5d7be:
-    "Но ни одно из этих лиц не принадлежит Одри, и время неумолимо идет вперед."
+    "Но ни одно из этих лиц не принадлежит Одри, и время неумолимо идёт вперёд."
 
 # ch/audrey/events.rpy:4170
 translate russian audrey_birthday_date_male_a60ac8e1:
@@ -14678,11 +14678,11 @@ translate russian audrey_birthday_date_male_2ecab335:
 
 # ch/audrey/events.rpy:4180
 translate russian audrey_birthday_date_male_0182bb8a:
-    "Я оборачиваюсь, все еще чувствуя легкую панику из-за того, что она меня напугала."
+    "Я оборачиваюсь, всё ещё чувствуя лёгкую панику из-за того, что она меня напугала."
 
 # ch/audrey/events.rpy:4181
 translate russian audrey_birthday_date_male_26e8f408:
-    "И первое, что я вижу – это огромная улыбка на лице Одри."
+    "И первое, что я вижу — это огромная улыбка на лице Одри."
 
 # ch/audrey/events.rpy:4183
 translate russian audrey_birthday_date_male_04e6c1d6:
@@ -14714,15 +14714,15 @@ translate russian audrey_birthday_date_male_b5d095d5:
 
 # ch/audrey/events.rpy:4194
 translate russian audrey_birthday_date_male_047a74b1:
-    "Одри кажется немного ошеломленной моей реакцией."
+    "Одри кажется немного ошеломлённой моей реакцией."
 
 # ch/audrey/events.rpy:4195
 translate russian audrey_birthday_date_male_129edb73:
-    "Я не думаю, что она ожидала, что я отмечу ее детское поведение."
+    "Я не думаю, что она ожидала, что я отмечу её детское поведение."
 
 # ch/audrey/events.rpy:4196
 translate russian audrey_birthday_date_male_a1eeb261:
-    "И мой спокойный тон, с которым я это сказал, похоже, поставил ее в неловкое положение."
+    "И мой спокойный тон, с которым я это сказал, похоже, поставил её в неловкое положение."
 
 # ch/audrey/events.rpy:4197
 translate russian audrey_birthday_date_male_c430bc24:
@@ -14746,7 +14746,7 @@ translate russian audrey_birthday_date_male_040aa059:
 
 # ch/audrey/events.rpy:4202
 translate russian audrey_birthday_date_male_09231572:
-    mike.say "А не тот \"глупый\" юмор, над которым я смеялся в детстве!"
+    mike.say "А не тот «глупый» юмор, над которым я смеялся в детстве!"
 
 # ch/audrey/events.rpy:4205
 translate russian audrey_birthday_date_male_2ca7c935:
@@ -14806,15 +14806,15 @@ translate russian audrey_birthday_date_male_2f82ee0f:
 
 # ch/audrey/events.rpy:4224
 translate russian audrey_birthday_date_male_481e6237:
-    "Я пытаюсь игнорировать ее легкомысленный настрой и просто продолжить свидание."
+    "Я пытаюсь игнорировать её легкомысленный настрой и просто продолжить свидание."
 
 # ch/audrey/events.rpy:4228
 translate russian audrey_birthday_date_male_df1fe1f4:
-    "Я беру Одри за руку и начинаю вести ее по улице."
+    "Я беру Одри за руку и начинаю вести её по улице."
 
 # ch/audrey/events.rpy:4229
 translate russian audrey_birthday_date_male_20af834e:
-    "Она идет охотно, но я все еще вижу в ее глазах тот самый знакомый блеск."
+    "Она идёт охотно, но я всё ещё вижу в её глазах тот самый знакомый блеск."
 
 # ch/audrey/events.rpy:4230
 translate russian audrey_birthday_date_male_6a02a18d:
@@ -14846,7 +14846,7 @@ translate russian audrey_birthday_date_male_1e9d43a3:
 
 # ch/audrey/events.rpy:4239
 translate russian audrey_birthday_date_male_d35deb7c:
-    mike.say "Ты от меня ничего не добьешься."
+    mike.say "Ты от меня ничего не добьёшься."
 
 # ch/audrey/events.rpy:4240
 translate russian audrey_birthday_date_male_e37a3743:
@@ -14874,7 +14874,7 @@ translate russian audrey_birthday_date_male_fd7b3e92:
 
 # ch/audrey/events.rpy:4251
 translate russian audrey_birthday_date_male_72bb524e:
-    audrey.say "И куда мы вообще идем?"
+    audrey.say "И куда мы вообще идём?"
 
 # ch/audrey/events.rpy:4255
 translate russian audrey_birthday_date_male_57378b09:
@@ -14898,7 +14898,7 @@ translate russian audrey_birthday_date_male_e7cffc05:
 
 # ch/audrey/events.rpy:4262
 translate russian audrey_birthday_date_male_528a65af:
-    "Затем я показываю рукой на лестницу пожарной лестницы неподалеку."
+    "Затем я показываю рукой на лестницу пожарной лестницы неподалёку."
 
 # ch/audrey/events.rpy:4263
 translate russian audrey_birthday_date_male_174b22d4:
@@ -14922,7 +14922,7 @@ translate russian audrey_birthday_date_male_9b262973:
 
 # ch/audrey/events.rpy:4272
 translate russian audrey_birthday_date_male_131bf4dc:
-    "И мне не приходится долго, чтобы привести ее на крышу здания."
+    "И мне не приходится долго, чтобы привести её на крышу здания."
 
 # ch/audrey/events.rpy:4273
 translate russian audrey_birthday_date_male_0f300106:
@@ -14934,15 +14934,15 @@ translate russian audrey_birthday_date_male_9e8badf9:
 
 # ch/audrey/events.rpy:4275
 translate russian audrey_birthday_date_male_f16c0676:
-    "И я еще разложил на коврике пикник с едой."
+    "И я ещё разложил на коврике пикник с едой."
 
 # ch/audrey/events.rpy:4276
 translate russian audrey_birthday_date_male_5eeab080:
-    "Одри осматривает все, что я подготовил."
+    "Одри осматривает всё, что я подготовил."
 
 # ch/audrey/events.rpy:4277
 translate russian audrey_birthday_date_male_417a5ffb:
-    "Это вызывает у нее странное выражение лица, которое мне не привычно видеть."
+    "Это вызывает у неё странное выражение лица, которое мне не привычно видеть."
 
 # ch/audrey/events.rpy:4278
 translate russian audrey_birthday_date_male_d52633c6:
@@ -14962,7 +14962,7 @@ translate russian audrey_birthday_date_male_856fbc22:
 
 # ch/audrey/events.rpy:4282
 translate russian audrey_birthday_date_male_042b458c:
-    "Но мне кажется, что у меня довольно хорошее чутье на людей."
+    "Но мне кажется, что у меня довольно хорошее чутьё на людей."
 
 # ch/audrey/events.rpy:4283
 translate russian audrey_birthday_date_male_d162c911:
@@ -15026,7 +15026,7 @@ translate russian audrey_birthday_date_male_59c99bd8:
 
 # ch/audrey/events.rpy:4304
 translate russian audrey_birthday_date_male_bd250e53:
-    mike.say "Я знал, что ты поймешь."
+    mike.say "Я знал, что ты поймёшь."
 
 # ch/audrey/events.rpy:4307
 translate russian audrey_birthday_date_male_073193a1:
@@ -15034,7 +15034,7 @@ translate russian audrey_birthday_date_male_073193a1:
 
 # ch/audrey/events.rpy:4308
 translate russian audrey_birthday_date_male_4fb122f8:
-    "Но, что еще важнее, похоже, она с нетерпением ждет продолжения нашего свидания."
+    "Но, что ещё важнее, похоже, она с нетерпением ждёт продолжения нашего свидания."
 
 # ch/audrey/events.rpy:4310
 translate russian audrey_birthday_date_male_e920eece:
@@ -15058,7 +15058,7 @@ translate russian audrey_birthday_date_male_2c9b5468:
 
 # ch/audrey/events.rpy:4317
 translate russian audrey_birthday_date_male_18254d08:
-    audrey.say "На какой же планете ты живешь, [lssb_audrey.hero_name()]?"
+    audrey.say "На какой же планете ты живёшь, [lssb_audrey.hero_name()]?"
 
 # ch/audrey/events.rpy:4318
 translate russian audrey_birthday_date_male_c8a1a9f0:
@@ -15066,7 +15066,7 @@ translate russian audrey_birthday_date_male_c8a1a9f0:
 
 # ch/audrey/events.rpy:4319
 translate russian audrey_birthday_date_male_17bf8b65:
-    audrey.say "Ну да, это довольно оригинально – я тебе это признаю."
+    audrey.say "Ну да, это довольно оригинально — я тебе это признаю."
 
 # ch/audrey/events.rpy:4320
 translate russian audrey_birthday_date_male_67aba146:
@@ -15086,7 +15086,7 @@ translate russian audrey_birthday_date_male_9f7878c2:
 
 # ch/audrey/events.rpy:4325
 translate russian audrey_birthday_date_male_b7df6ba2:
-    audrey.say "Все будет в порядке."
+    audrey.say "Всё будет в порядке."
 
 # ch/audrey/events.rpy:4326
 translate russian audrey_birthday_date_male_26f4428c:
@@ -15106,7 +15106,7 @@ translate russian audrey_birthday_date_male_2ce87e39:
 
 # ch/audrey/events.rpy:4333
 translate russian audrey_birthday_date_male_3aed69c3:
-    "И я хочу, чтобы все прошло именно так, как я себе представлял."
+    "И я хочу, чтобы всё прошло именно так, как я себе представлял."
 
 # ch/audrey/events.rpy:4335
 translate russian audrey_birthday_date_male_4383decf:
@@ -15134,7 +15134,7 @@ translate russian audrey_birthday_date_male_10c044e3:
 
 # ch/audrey/events.rpy:4342
 translate russian audrey_birthday_date_male_29350503:
-    "И этот интерес становится еще более очевидным, когда я начинаю доставать еду."
+    "И этот интерес становится ещё более очевидным, когда я начинаю доставать еду."
 
 # ch/audrey/events.rpy:4343
 translate russian audrey_birthday_date_male_29c346c3:
@@ -15142,7 +15142,7 @@ translate russian audrey_birthday_date_male_29c346c3:
 
 # ch/audrey/events.rpy:4345
 translate russian audrey_birthday_date_male_bdc7fff8:
-    "Когда большая часть содержимого уже извлечена, я жестом приглашаю ее начать есть."
+    "Когда большая часть содержимого уже извлечена, я жестом приглашаю её начать есть."
 
 # ch/audrey/events.rpy:4346
 translate russian audrey_birthday_date_male_13906e0f:
@@ -15150,11 +15150,11 @@ translate russian audrey_birthday_date_male_13906e0f:
 
 # ch/audrey/events.rpy:4349
 translate russian audrey_birthday_date_male_be576cfc:
-    "Но как только она проглатывает первый кусок, я вижу, как расширяются ее глаза."
+    "Но как только она проглатывает первый кусок, я вижу, как расширяются её глаза."
 
 # ch/audrey/events.rpy:4350
 translate russian audrey_birthday_date_male_226d79e4:
-    "И я сразу начинаю беспокоиться, что ей не нравится вкус того, что она жует."
+    "И я сразу начинаю беспокоиться, что ей не нравится вкус того, что она жуёт."
 
 # ch/audrey/events.rpy:4351
 translate russian audrey_birthday_date_male_2ac7dd92:
@@ -15170,7 +15170,7 @@ translate russian audrey_birthday_date_male_f464eb2a:
 
 # ch/audrey/events.rpy:4356
 translate russian audrey_birthday_date_male_9f7ed4f6:
-    "Одри качает головой и берет еще один кусок."
+    "Одри качает головой и берет ещё один кусок."
 
 # ch/audrey/events.rpy:4357
 translate russian audrey_birthday_date_male_988475d0:
@@ -15202,7 +15202,7 @@ translate russian audrey_birthday_date_male_e3a456f7:
 
 # ch/audrey/events.rpy:4366
 translate russian audrey_birthday_date_male_17b87301:
-    "И я смотрю на нее, испытывая гордость."
+    "И я смотрю на неё, испытывая гордость."
 
 # ch/audrey/events.rpy:4367
 translate russian audrey_birthday_date_male_78eb5dda:
@@ -15254,7 +15254,7 @@ translate russian audrey_birthday_date_male_23eb01d9:
 
 # ch/audrey/events.rpy:4384
 translate russian audrey_birthday_date_male_4cfdc80f:
-    "Я качаю головой и подношу цветы еще ближе."
+    "Я качаю головой и подношу цветы ещё ближе."
 
 # ch/audrey/events.rpy:4385
 translate russian audrey_birthday_date_male_88927362:
@@ -15350,19 +15350,19 @@ translate russian audrey_birthday_date_male_7fbdd01d:
 
 # ch/audrey/events.rpy:4414
 translate russian audrey_birthday_date_male_d83b48e0:
-    "И я продолжаю надеяться, что не услышу звук того, как он упадет на кого-нибудь внизу."
+    "И я продолжаю надеяться, что не услышу звук того, как он упадёт на кого-нибудь внизу."
 
 # ch/audrey/events.rpy:4415
 translate russian audrey_birthday_date_male_d8246c90:
-    "К тому же, мне еще и приходится иметь дело с тем, как Одри все это время на меня смотрит."
+    "К тому же, мне ещё и приходится иметь дело с тем, как Одри все это время на меня смотрит."
 
 # ch/audrey/events.rpy:4417
 translate russian audrey_birthday_date_male_cbd81aa8:
-    "Сейчас Одри все еще занята поеданием своей части еды для пикника."
+    "Сейчас Одри всё ещё занята поеданием своей части еды для пикника."
 
 # ch/audrey/events.rpy:4418
 translate russian audrey_birthday_date_male_9d9e3f12:
-    "Поэтому я пользуюсь ее отвлеченностью и тянусь к чему-то еще."
+    "Поэтому я пользуюсь её отвлеченностью и тянусь к чему-то ещё."
 
 # ch/audrey/events.rpy:4419
 translate russian audrey_birthday_date_male_d2fa29bf:
@@ -15370,7 +15370,7 @@ translate russian audrey_birthday_date_male_d2fa29bf:
 
 # ch/audrey/events.rpy:4420
 translate russian audrey_birthday_date_male_5e4e2b1f:
-    "И поскольку это особый случай, я принес с собой что-то немного более крепкое, чем обычно."
+    "И поскольку это особый случай, я принёс с собой что-то немного более крепкое, чем обычно."
 
 # ch/audrey/events.rpy:4421
 translate russian audrey_birthday_date_male_ba783a06:
@@ -15406,7 +15406,7 @@ translate russian audrey_birthday_date_male_54b9803b:
 
 # ch/audrey/events.rpy:4432
 translate russian audrey_birthday_date_male_b4bb45f9:
-    audrey.say "Если это все, что ты принес с собой."
+    audrey.say "Если это всё, что ты принёс с собой."
 
 # ch/audrey/events.rpy:4433
 translate russian audrey_birthday_date_male_e84ffc6f:
@@ -15418,7 +15418,7 @@ translate russian audrey_birthday_date_male_0fe93cce:
 
 # ch/audrey/events.rpy:4435
 translate russian audrey_birthday_date_male_b4fe1f5a:
-    mike.say "Ну, знаешь, то самое, что как бы \"жидкая романтика\"?"
+    mike.say "Ну, знаешь, то самое, что как бы «жидкая романтика»?"
 
 # ch/audrey/events.rpy:4436
 translate russian audrey_birthday_date_male_562e2e7f:
@@ -15426,7 +15426,7 @@ translate russian audrey_birthday_date_male_562e2e7f:
 
 # ch/audrey/events.rpy:4437
 translate russian audrey_birthday_date_male_e743eff9:
-    "Но я уже вижу, что на ее лице играет ироничная улыбка."
+    "Но я уже вижу, что на её лице играет ироничная улыбка."
 
 # ch/audrey/events.rpy:4440
 translate russian audrey_birthday_date_male_55f3b4f7:
@@ -15446,7 +15446,7 @@ translate russian audrey_birthday_date_male_bc3bd3a3:
 
 # ch/audrey/events.rpy:4445
 translate russian audrey_birthday_date_male_f8367211:
-    "Я киваю, стараясь скрыть свое разочарование."
+    "Я киваю, стараясь скрыть своё разочарование."
 
 # ch/audrey/events.rpy:4446
 translate russian audrey_birthday_date_male_1a91ab87:
@@ -15454,7 +15454,7 @@ translate russian audrey_birthday_date_male_1a91ab87:
 
 # ch/audrey/events.rpy:4448
 translate russian audrey_birthday_date_male_9f65a824:
-    "Я поднимаю одну из банок пива, которую принес с собой."
+    "Я поднимаю одну из банок пива, которую принёс с собой."
 
 # ch/audrey/events.rpy:4449
 translate russian audrey_birthday_date_male_67b6ccb4:
@@ -15462,7 +15462,7 @@ translate russian audrey_birthday_date_male_67b6ccb4:
 
 # ch/audrey/events.rpy:4451
 translate russian audrey_birthday_date_male_d309664c:
-    "Но ее глаза загораются, когда она видит это."
+    "Но её глаза загораются, когда она видит это."
 
 # ch/audrey/events.rpy:4452
 translate russian audrey_birthday_date_male_3d5f7f1d:
@@ -15538,7 +15538,7 @@ translate russian audrey_birthday_date_male_61f6e02d:
 
 # ch/audrey/events.rpy:4475
 translate russian audrey_birthday_date_male_af32489c:
-    "И как только я встречаю ее взгляд, она открывает рот, чтобы заговорить."
+    "И как только я встречаю её взгляд, она открывает рот, чтобы заговорить."
 
 # ch/audrey/events.rpy:4477
 translate russian audrey_birthday_date_male_e94e6695:
@@ -15558,7 +15558,7 @@ translate russian audrey_birthday_date_male_281fdba4:
 
 # ch/audrey/events.rpy:4482
 translate russian audrey_birthday_date_male_2d3e1313:
-    "Похоже, мне придется как-то выкрутиться из этой ситуации."
+    "Похоже, мне придётся как-то выкрутиться из этой ситуации."
 
 # ch/audrey/events.rpy:4483
 translate russian audrey_birthday_date_male_29baa4d4:
@@ -15678,7 +15678,7 @@ translate russian audrey_birthday_date_male_281fdba4_1:
 
 # ch/audrey/events.rpy:4531
 translate russian audrey_birthday_date_male_2d3e1313_1:
-    "Похоже, мне придется как-то выкрутиться из этой ситуации."
+    "Похоже, мне придётся как-то выкрутиться из этой ситуации."
 
 # ch/audrey/events.rpy:4532
 translate russian audrey_birthday_date_male_29baa4d4_1:
@@ -15766,7 +15766,7 @@ translate russian audrey_birthday_date_male_a51ca661:
 
 # ch/audrey/events.rpy:4563
 translate russian audrey_birthday_date_male_5573334d:
-    "А потом она больно толкает меня локтем в ребра."
+    "А потом она больно толкает меня локтем в рёбра."
 
 # ch/audrey/events.rpy:4564
 translate russian audrey_birthday_date_male_179944ed:
@@ -15782,7 +15782,7 @@ translate russian audrey_birthday_date_male_a5dcc328:
 
 # ch/audrey/events.rpy:4567
 translate russian audrey_birthday_date_male_75fac0df:
-    mike.say "Что за черт, Одри?"
+    mike.say "Что за чёрт, Одри?"
 
 # ch/audrey/events.rpy:4569
 translate russian audrey_birthday_date_male_9e1fd254:
@@ -15794,11 +15794,11 @@ translate russian audrey_birthday_date_male_0f2a5eba:
 
 # ch/audrey/events.rpy:4573
 translate russian audrey_birthday_date_male_4b4fe46c:
-    audrey.say "Но это все равно тот же самый шумный и вонючий старый город."
+    audrey.say "Но это всё равно тот же самый шумный и вонючий старый город."
 
 # ch/audrey/events.rpy:4574
 translate russian audrey_birthday_date_male_ef91ac00:
-    audrey.say "Наверняка в любую секунду над нами пролетит самолет."
+    audrey.say "Наверняка в любую секунду над нами пролетит самолёт."
 
 # ch/audrey/events.rpy:4575
 translate russian audrey_birthday_date_male_73ebd682:
@@ -15866,11 +15866,11 @@ translate russian audrey_birthday_date_male_48195577:
 
 # ch/audrey/events.rpy:4596
 translate russian audrey_birthday_date_male_d8bfb76c:
-    audrey.say "Любой другой человек сказал бы: \"Фу, фу... нельзя над этим смеяться!\"."
+    audrey.say "Любой другой человек сказал бы: «Фу, фу... нельзя над этим смеяться!»."
 
 # ch/audrey/events.rpy:4597
 translate russian audrey_birthday_date_male_6c66ec90:
-    audrey.say "\"Стрелять в людей на работе – это неправильно!\"."
+    audrey.say "«Стрелять в людей на работе — это неправильно!»."
 
 # ch/audrey/events.rpy:4600
 translate russian audrey_birthday_date_male_9ca8bad8:
@@ -15878,7 +15878,7 @@ translate russian audrey_birthday_date_male_9ca8bad8:
 
 # ch/audrey/events.rpy:4601
 translate russian audrey_birthday_date_male_7013f867:
-    "Думаю, по меркам Одри, это очень серьезный комплимент."
+    "Думаю, по меркам Одри, это очень серьёзный комплимент."
 
 # ch/audrey/events.rpy:4602
 translate russian audrey_birthday_date_male_33ab224b_1:
@@ -15894,7 +15894,7 @@ translate russian audrey_birthday_date_male_674fceee:
 
 # ch/audrey/events.rpy:4605
 translate russian audrey_birthday_date_male_60b6f659:
-    "Вид на город все еще впечатляет."
+    "Вид на город всё ещё впечатляет."
 
 # ch/audrey/events.rpy:4606
 translate russian audrey_birthday_date_male_9e2a5076:
@@ -16010,11 +16010,11 @@ translate russian audrey_birthday_date_male_41f8c17f:
 
 # ch/audrey/events.rpy:4646
 translate russian audrey_birthday_date_male_1aac0b2b:
-    "Я надеюсь, что она действительно устала, и что я достаточно постарался, чтобы произвести на нее впечатление."
+    "Я надеюсь, что она действительно устала, и что я достаточно постарался, чтобы произвести на неё впечатление."
 
 # ch/audrey/events.rpy:4650
 translate russian audrey_birthday_sex_b90fb883:
-    "Я ожидаю, что все пройдет примерно так же, как в романтическом фильме."
+    "Я ожидаю, что все пройдёт примерно так же, как в романтическом фильме."
 
 # ch/audrey/events.rpy:4654
 translate russian audrey_birthday_sex_5bb56511:
@@ -16046,7 +16046,7 @@ translate russian audrey_birthday_sex_27f175fc:
 
 # ch/audrey/events.rpy:4661
 translate russian audrey_birthday_sex_8f26f72c:
-    "И я чувствую, как ее руки рвут мою одежду!"
+    "И я чувствую, как её руки рвут мою одежду!"
 
 # ch/audrey/events.rpy:4662
 translate russian audrey_birthday_sex_6ac2c8d8:
@@ -16094,7 +16094,7 @@ translate russian audrey_birthday_sex_ec5ec078:
 
 # ch/audrey/events.rpy:4678
 translate russian audrey_birthday_sex_ef3df01d:
-    "И тогда я понимаю, зачем ей было так важно занять определенную позицию."
+    "И тогда я понимаю, зачем ей было так важно занять определённую позицию."
 
 # ch/audrey/events.rpy:4679
 translate russian audrey_birthday_sex_c06d39d7:
@@ -16102,11 +16102,11 @@ translate russian audrey_birthday_sex_c06d39d7:
 
 # ch/audrey/events.rpy:4680
 translate russian audrey_birthday_sex_f1de98a5:
-    "Поскольку весь вес Одри прижимает ее влагалище к моему члену."
+    "Поскольку весь вес Одри прижимает её влагалище к моему члену."
 
 # ch/audrey/events.rpy:4681
 translate russian audrey_birthday_sex_794b579d:
-    "Потому что именно столько времени требуется, чтобы ее губы начали приоткрываться."
+    "Потому что именно столько времени требуется, чтобы её губы начали приоткрываться."
 
 # ch/audrey/events.rpy:4682
 translate russian audrey_birthday_sex_86d07102:
@@ -16130,11 +16130,11 @@ translate russian audrey_birthday_sex_62bc9d8d:
 
 # ch/audrey/events.rpy:4689
 translate russian audrey_birthday_sex_9a784926:
-    "Я ожидал, что мне придется уговаривать ее, чтобы открыть рот и позволить мне войти."
+    "Я ожидал, что мне придётся уговаривать её, чтобы открыть рот и позволить мне войти."
 
 # ch/audrey/events.rpy:4690
 translate russian audrey_birthday_sex_ffddf87d:
-    "Но вместо этого я оказываюсь там, где мое тело полностью поглощается ее телом."
+    "Но вместо этого я оказываюсь там, где моё тело полностью поглощается её телом."
 
 # ch/audrey/events.rpy:4693
 translate russian audrey_birthday_sex_76babe31:
@@ -16194,11 +16194,11 @@ translate russian audrey_birthday_sex_aa2444fa:
 
 # ch/audrey/events.rpy:4712
 translate russian audrey_birthday_sex_c6316433:
-    "И на этот раз ей удается дойти до самой основы влагалища."
+    "И на этот раз ей удаётся дойти до самой основы влагалища."
 
 # ch/audrey/events.rpy:4713
 translate russian audrey_birthday_sex_ddd6cc2d:
-    "Несмотря на то, что она явно наслаждается тем, что прижимает меня к себе, это все равно влияет на нее."
+    "Несмотря на то, что она явно наслаждается тем, что прижимает меня к себе, это всё равно влияет на неё."
 
 # ch/audrey/events.rpy:4714
 translate russian audrey_birthday_sex_5f3b0bab:
@@ -16206,7 +16206,7 @@ translate russian audrey_birthday_sex_5f3b0bab:
 
 # ch/audrey/events.rpy:4715
 translate russian audrey_birthday_sex_7249f8b8:
-    "Но я также знаю, что она слишком упряма, чтобы позволить этому ее остановить."
+    "Но я также знаю, что она слишком упряма, чтобы позволить этому её остановить."
 
 # ch/audrey/events.rpy:4717
 translate russian audrey_birthday_sex_f9fbd85d:
@@ -16214,7 +16214,7 @@ translate russian audrey_birthday_sex_f9fbd85d:
 
 # ch/audrey/events.rpy:4719
 translate russian audrey_birthday_sex_c986848a:
-    "Ее груди тут же начинают подпрыгивать и покачиваться, всего в нескольких дюймах от моего лица."
+    "Её груди тут же начинают подпрыгивать и покачиваться, всего в нескольких дюймах от моего лица."
 
 # ch/audrey/events.rpy:4720
 translate russian audrey_birthday_sex_54e03d9d:
@@ -16226,7 +16226,7 @@ translate russian audrey_birthday_sex_91d30d46:
 
 # ch/audrey/events.rpy:4722
 translate russian audrey_birthday_sex_45a36148:
-    "Во мне нарастает желание проникнуть в нее настолько глубоко, насколько это возможно."
+    "Во мне нарастает желание проникнуть в неё настолько глубоко, насколько это возможно."
 
 # ch/audrey/events.rpy:4723
 translate russian audrey_birthday_sex_fbf00727:
@@ -16262,23 +16262,23 @@ translate russian audrey_birthday_sex_432582a3:
 
 # ch/audrey/events.rpy:4731
 translate russian audrey_birthday_sex_7d6578d9:
-    "Одри ахает, когда я сильнее сжимаю ее."
+    "Одри ахает, когда я сильнее сжимаю её."
 
 # ch/audrey/events.rpy:4732
 translate russian audrey_birthday_sex_dda74d04:
-    "Но она не ожидает того, что произойдет дальше."
+    "Но она не ожидает того, что произойдёт дальше."
 
 # ch/audrey/events.rpy:4734
 translate russian audrey_birthday_sex_cb371356:
-    "Ее глаза широко раскрыты от удивления, а зрачки расширены от удовольствия."
+    "Её глаза широко раскрыты от удивления, а зрачки расширены от удовольствия."
 
 # ch/audrey/events.rpy:4735
 translate russian audrey_birthday_sex_445eb345:
-    "Но еще лучше то, что я вижу, как она кивает, подталкивая меня к тому, чтобы я сделал больше."
+    "Но ещё лучше то, что я вижу, как она кивает, подталкивая меня к тому, чтобы я сделал больше."
 
 # ch/audrey/events.rpy:4736
 translate russian audrey_birthday_sex_735a5bc0:
-    "Я продолжаю двигаться вперед и назад."
+    "Я продолжаю двигаться вперёд и назад."
 
 # ch/audrey/events.rpy:4738
 translate russian audrey_birthday_sex_27203f92:
@@ -16290,11 +16290,11 @@ translate russian audrey_birthday_sex_aa99643c:
 
 # ch/audrey/events.rpy:4740
 translate russian audrey_birthday_sex_8d6d2821:
-    "Все ее тело раскачивается вперед и назад от моих усилий."
+    "Все её тело раскачивается вперёд и назад от моих усилий."
 
 # ch/audrey/events.rpy:4741
 translate russian audrey_birthday_sex_351b2cc8:
-    "Ее груди дрожат так сильно, это просто гипнотически."
+    "Её груди дрожат так сильно, это просто гипнотически."
 
 # ch/audrey/events.rpy:4742
 translate russian audrey_birthday_sex_78b1adeb:
@@ -16302,15 +16302,15 @@ translate russian audrey_birthday_sex_78b1adeb:
 
 # ch/audrey/events.rpy:4743
 translate russian audrey_birthday_sex_fd0c0e64:
-    "Я наблюдаю с удовлетворением, как они мутнеют и закатываются обратно в ее голову."
+    "Я наблюдаю с удовлетворением, как они мутнеют и закатываются обратно в её голову."
 
 # ch/audrey/events.rpy:4744
 translate russian audrey_birthday_sex_fb5db312:
-    "Но это все равно не заставляет меня хотеть замедлиться ни на секунду."
+    "Но это всё равно не заставляет меня хотеть замедлиться ни на секунду."
 
 # ch/audrey/events.rpy:4745
 translate russian audrey_birthday_sex_632da42d:
-    "На самом деле, это только усиливает мое желание делать больше, подталкивать Одри настолько далеко, насколько это возможно."
+    "На самом деле, это только усиливает моё желание делать больше, подталкивать Одри настолько далеко, насколько это возможно."
 
 # ch/audrey/events.rpy:4746
 translate russian audrey_birthday_sex_446fff62:
@@ -16322,11 +16322,11 @@ translate russian audrey_birthday_sex_7cd3fec8:
 
 # ch/audrey/events.rpy:4748
 translate russian audrey_birthday_sex_c3fa1f4b:
-    "Она воспринимает все, как губка, и, кажется, способна выдерживать еще больше."
+    "Она воспринимает все, как губка, и, кажется, способна выдерживать ещё больше."
 
 # ch/audrey/events.rpy:4750
 translate russian audrey_birthday_sex_5432e710:
-    "Но постепенно я замечаю изменения в ее движениях и звуках, которые она издает."
+    "Но постепенно я замечаю изменения в её движениях и звуках, которые она издаёт."
 
 # ch/audrey/events.rpy:4751
 translate russian audrey_birthday_sex_a67aa5d0:
@@ -16338,7 +16338,7 @@ translate russian audrey_birthday_sex_16975281:
 
 # ch/audrey/events.rpy:4753
 translate russian audrey_birthday_sex_ec81172c:
-    "И ее движения настолько интенсивные, что она..."
+    "И её движения настолько интенсивные, что она..."
 
 # ch/audrey/events.rpy:4754
 translate russian audrey_birthday_sex_514c0360:
@@ -16346,7 +16346,7 @@ translate russian audrey_birthday_sex_514c0360:
 
 # ch/audrey/events.rpy:4755
 translate russian audrey_birthday_sex_57e946c0:
-    "Я не могу ничего с собой поделать – я просто не в силах этому сопротивляться!"
+    "Я не могу ничего с собой поделать — я просто не в силах этому сопротивляться!"
 
 # ch/audrey/events.rpy:4758
 translate russian audrey_birthday_sex_a836b9b9:
@@ -16370,7 +16370,7 @@ translate russian audrey_birthday_sex_38bcb850:
 
 # ch/audrey/events.rpy:4769
 translate russian audrey_birthday_sex_f140f0cf:
-    "Мы просто лежим здесь, тяжело дыша и задыхаясь, пока пот высыхает на наших обнаженных телах."
+    "Мы просто лежим здесь, тяжело дыша и задыхаясь, пока пот высыхает на наших обнажённых телах."
 
 # ch/audrey/events.rpy:4771
 translate russian audrey_birthday_sex_3dcfc631:
@@ -16438,11 +16438,11 @@ translate russian audrey_give_address_9c4ba1f3:
 
 # ch/audrey/events.rpy:4797
 translate russian audrey_give_address_04ac1efe:
-    "Возвращаясь в реальность, я оглядываюсь и вижу, как Одри мягко трясет меня той же рукой."
+    "Возвращаясь в реальность, я оглядываюсь и вижу, как Одри мягко трясёт меня той же рукой."
 
 # ch/audrey/events.rpy:4801
 translate russian audrey_give_address_c989f0af:
-    audrey.say "О, [lssb_audrey.hero_name()]…"
+    audrey.say "О, [lssb_audrey.hero_name()]..."
 
 # ch/audrey/events.rpy:4802
 translate russian audrey_give_address_c89dd037:
@@ -16458,7 +16458,7 @@ translate russian audrey_give_address_482d374d:
 
 # ch/audrey/events.rpy:4813
 translate russian audrey_give_address_52d1b2b5:
-    audrey.say "Боже мой, [lssb_audrey.hero_name()]…"
+    audrey.say "Боже мой, [lssb_audrey.hero_name()]..."
 
 # ch/audrey/events.rpy:4814
 translate russian audrey_give_address_4909f034:
@@ -16478,7 +16478,7 @@ translate russian audrey_give_address_3736d5b3:
 
 # ch/audrey/events.rpy:4820
 translate russian audrey_give_address_6da15e70:
-    mike.say "Я просто немного отвлекся, вот и все."
+    mike.say "Я просто немного отвлёкся, вот и все."
 
 # ch/audrey/events.rpy:4821
 translate russian audrey_give_address_708722fa:
@@ -16546,11 +16546,11 @@ translate russian audrey_apartment_first_visit_8542d84e:
 
 # ch/audrey/events.rpy:4858
 translate russian audrey_apartment_first_visit_29651d40:
-    "Теперь мне нужно просто постучать в эту чертову дверь."
+    "Теперь мне нужно просто постучать в эту чёртову дверь."
 
 # ch/audrey/events.rpy:4859
 translate russian audrey_apartment_first_visit_a7215061:
-    "Я поднимаю руку и сжимаю ее в кулак."
+    "Я поднимаю руку и сжимаю её в кулак."
 
 # ch/audrey/events.rpy:4863
 translate russian audrey_apartment_first_visit_0155993b:
@@ -16574,7 +16574,7 @@ translate russian audrey_apartment_first_visit_465752d0:
 
 # ch/audrey/events.rpy:4868
 translate russian audrey_apartment_first_visit_23f94ec9:
-    "Или еще безумнее – что Одри внутри и намеренно игнорирует меня."
+    "Или ещё безумнее — что Одри внутри и намеренно игнорирует меня."
 
 # ch/audrey/events.rpy:4869
 translate russian audrey_apartment_first_visit_81464237:
@@ -16586,7 +16586,7 @@ translate russian audrey_apartment_first_visit_0260da87:
 
 # ch/audrey/events.rpy:4876
 translate russian audrey_apartment_first_visit_17065e5c:
-    "Затем дверь открывается, и передо мной появляется Одри в дверном проеме."
+    "Затем дверь открывается, и передо мной появляется Одри в дверном проёме."
 
 # ch/audrey/events.rpy:4880
 translate russian audrey_apartment_first_visit_4c3a050a:
@@ -16594,11 +16594,11 @@ translate russian audrey_apartment_first_visit_4c3a050a:
 
 # ch/audrey/events.rpy:4882
 translate russian audrey_apartment_first_visit_1db7fd8d:
-    audrey.say "Ты пришел!"
+    audrey.say "Ты пришёл!"
 
 # ch/audrey/events.rpy:4883
 translate russian audrey_apartment_first_visit_dd339e25:
-    audrey.say "Я так рада, что ты пришел."
+    audrey.say "Я так рада, что ты пришёл."
 
 # ch/audrey/events.rpy:4885
 translate russian audrey_apartment_first_visit_196a5ccd:
@@ -16622,7 +16622,7 @@ translate russian audrey_apartment_first_visit_d965dd7a:
 
 # ch/audrey/events.rpy:4891
 translate russian audrey_apartment_first_visit_bcd9f316:
-    "Одри смущенно кивает и жестом приглашает меня войти."
+    "Одри смущённо кивает и жестом приглашает меня войти."
 
 # ch/audrey/events.rpy:4893
 translate russian audrey_apartment_first_visit_67da6b99:
@@ -16658,7 +16658,7 @@ translate russian audrey_apartment_first_visit_a1e6d50a:
 
 # ch/audrey/events.rpy:4912
 translate russian audrey_apartment_first_visit_62f96ce5:
-    "Одри смеется над своей неудачной попыткой пошутить."
+    "Одри смеётся над своей неудачной попыткой пошутить."
 
 # ch/audrey/events.rpy:4914
 translate russian audrey_apartment_first_visit_8e885eb5:
@@ -16670,7 +16670,7 @@ translate russian audrey_apartment_first_visit_04db73ce:
 
 # ch/audrey/events.rpy:4916
 translate russian audrey_apartment_first_visit_d682a07e:
-    mike.say "Я бы и раньше пришел, если бы ты не написала инструкции цветными карандашами!"
+    mike.say "Я бы и раньше пришёл, если бы ты не написала инструкции цветными карандашами!"
 
 # ch/audrey/events.rpy:4918
 translate russian audrey_apartment_first_visit_d36b4c27:
@@ -16698,11 +16698,11 @@ translate russian audrey_hottub_sex_male_5c9ece9f:
 
 # ch/audrey/fuck.rpy:96
 translate russian audrey_hottub_sex_male_9c16f0a0:
-    "Ну, по крайней мере, до того момента, пока я не вижу ее в купальнике..."
+    "Ну, по крайней мере, до того момента, пока я не вижу её в купальнике..."
 
 # ch/audrey/fuck.rpy:97
 translate russian audrey_hottub_sex_male_a05e8b1f:
-    audrey.say "\"Привет, [lssb_audrey.hero_name()]\"."
+    audrey.say "«Привет, [lssb_audrey.hero_name()]»."
 
 # ch/audrey/fuck.rpy:98
 translate russian audrey_hottub_sex_male_da20f2c1:
@@ -16734,7 +16734,7 @@ translate russian audrey_hottub_sex_male_9fbf51b2:
 
 # ch/audrey/fuck.rpy:105
 translate russian audrey_hottub_sex_male_b4fe03f4:
-    "Я нервно смеюсь, решая, что то, что сказала Одри, – это шутка."
+    "Я нервно смеюсь, решая, что то, что сказала Одри, — это шутка."
 
 # ch/audrey/fuck.rpy:106
 translate russian audrey_hottub_sex_male_cfb9fd37:
@@ -16742,11 +16742,11 @@ translate russian audrey_hottub_sex_male_cfb9fd37:
 
 # ch/audrey/fuck.rpy:107
 translate russian audrey_hottub_sex_male_f82ef791:
-    "Серьезное выражение на ее лице заставляет меня начать нервничать."
+    "Серьёзное выражение на её лице заставляет меня начать нервничать."
 
 # ch/audrey/fuck.rpy:108
 translate russian audrey_hottub_sex_male_269cfaea:
-    "Я громко сглатываю, начиная думать, что она настроена серьезно."
+    "Я громко сглатываю, начиная думать, что она настроена серьёзно."
 
 # ch/audrey/fuck.rpy:111
 translate russian audrey_hottub_sex_male_469fb05a:
@@ -16754,11 +16754,11 @@ translate russian audrey_hottub_sex_male_469fb05a:
 
 # ch/audrey/fuck.rpy:112
 translate russian audrey_hottub_sex_male_42cea5b6:
-    audrey.say "Черт – какое выражение лица!"
+    audrey.say "Чёрт — какое выражение лица!"
 
 # ch/audrey/fuck.rpy:114
 translate russian audrey_hottub_sex_male_48aca4c6:
-    "Одри смеется так, будто это самое забавное, что она когда-либо слышала."
+    "Одри смеётся так, будто это самое забавное, что она когда-либо слышала."
 
 # ch/audrey/fuck.rpy:115
 translate russian audrey_hottub_sex_male_dec84a1b:
@@ -16774,7 +16774,7 @@ translate russian audrey_hottub_sex_male_6c275ff4:
 
 # ch/audrey/fuck.rpy:119
 translate russian audrey_hottub_sex_male_c05283b9:
-    audrey.say "Но серьезно, [lssb_audrey.hero_name()]."
+    audrey.say "Но серьёзно, [lssb_audrey.hero_name()]."
 
 # ch/audrey/fuck.rpy:120
 translate russian audrey_hottub_sex_male_716112b4:
@@ -16834,7 +16834,7 @@ translate russian audrey_hottub_sex_male_9a6891f4:
 
 # ch/audrey/fuck.rpy:136
 translate russian audrey_hottub_sex_male_96185884:
-    "Я уже чувствую, как мое замешательство превращается в гнев."
+    "Я уже чувствую, как моё замешательство превращается в гнев."
 
 # ch/audrey/fuck.rpy:137
 translate russian audrey_hottub_sex_male_af85d9aa:
@@ -16842,7 +16842,7 @@ translate russian audrey_hottub_sex_male_af85d9aa:
 
 # ch/audrey/fuck.rpy:138
 translate russian audrey_hottub_sex_male_376a2436:
-    "Почему она вообще села в эту гидромассажную ванну, если это заставляет ее так себя чувствовать?"
+    "Почему она вообще села в эту гидромассажную ванну, если это заставляет её так себя чувствовать?"
 
 # ch/audrey/fuck.rpy:139
 translate russian audrey_hottub_sex_male_84285969:
@@ -16858,11 +16858,11 @@ translate russian audrey_hottub_sex_male_a0280adb:
 
 # ch/audrey/fuck.rpy:142
 translate russian audrey_hottub_sex_male_7b380859:
-    "И сейчас этим \"кем-то\" являюсь я!"
+    "И сейчас этим «кем-то» являюсь я!"
 
 # ch/audrey/fuck.rpy:143
 translate russian audrey_hottub_sex_male_bd0f9672:
-    "Так что мне остается только играть по ее правилам в этой маленькой игре?"
+    "Так что мне остаётся только играть по её правилам в этой маленькой игре?"
 
 # ch/audrey/fuck.rpy:144
 translate russian audrey_hottub_sex_male_7c199902:
@@ -16874,11 +16874,11 @@ translate russian audrey_hottub_sex_male_92160764:
 
 # ch/audrey/fuck.rpy:146
 translate russian audrey_hottub_sex_male_069b351e:
-    "Я вижу, как в глазах Одри появляется огонек, когда я это говорю."
+    "Я вижу, как в глазах Одри появляется огонёк, когда я это говорю."
 
 # ch/audrey/fuck.rpy:147
 translate russian audrey_hottub_sex_male_958c84d9:
-    "Кажется, мой тон голоса тоже пробуждает ее интерес."
+    "Кажется, мой тон голоса тоже пробуждает её интерес."
 
 # ch/audrey/fuck.rpy:148
 translate russian audrey_hottub_sex_male_fb9e2895:
@@ -16906,7 +16906,7 @@ translate russian audrey_hottub_sex_male_78da77c6:
 
 # ch/audrey/fuck.rpy:154
 translate russian audrey_hottub_sex_male_5f04fc59:
-    "Это было недостаточно, чтобы даже назвать это попыткой шлепнуть ее."
+    "Это было недостаточно, чтобы даже назвать это попыткой шлёпнуть её."
 
 # ch/audrey/fuck.rpy:155
 translate russian audrey_hottub_sex_male_aff6e878:
@@ -16914,11 +16914,11 @@ translate russian audrey_hottub_sex_male_aff6e878:
 
 # ch/audrey/fuck.rpy:156
 translate russian audrey_hottub_sex_male_bdb95137:
-    "Она издает звук, который можно описать только как стон удовольствия."
+    "Она издаёт звук, который можно описать только как стон удовольствия."
 
 # ch/audrey/fuck.rpy:157
 translate russian audrey_hottub_sex_male_7b88deb5:
-    "Я вижу, как ее ягодицы поднимаются из воды и направляются в мою сторону."
+    "Я вижу, как её ягодицы поднимаются из воды и направляются в мою сторону."
 
 # ch/audrey/fuck.rpy:158
 translate russian audrey_hottub_sex_male_82ea5f66:
@@ -16938,7 +16938,7 @@ translate russian audrey_hottub_sex_male_fdd7833d:
 
 # ch/audrey/fuck.rpy:167
 translate russian audrey_hottub_sex_male_7f0326ea:
-    "Но вид ее, когда она поворачивается ко мне спиной и демонстрирует свою задницу..."
+    "Но вид её, когда она поворачивается ко мне спиной и демонстрирует свою задницу..."
 
 # ch/audrey/fuck.rpy:168
 translate russian audrey_hottub_sex_male_da1fcf1c:
@@ -16954,11 +16954,11 @@ translate russian audrey_hottub_sex_male_09fe6b70:
 
 # ch/audrey/fuck.rpy:171
 translate russian audrey_hottub_sex_male_84fde91e:
-    "Мой член уже достаточно твердый из-за дразнящего поведения Одри."
+    "Мой член уже достаточно твёрдый из-за дразнящего поведения Одри."
 
 # ch/audrey/fuck.rpy:172
 translate russian audrey_hottub_sex_male_731e6d5c:
-    "Поэтому мне требуется всего лишь мгновение, чтобы прижать его к ее ягодицам."
+    "Поэтому мне требуется всего лишь мгновение, чтобы прижать его к её ягодицам."
 
 # ch/audrey/fuck.rpy:174
 translate russian audrey_hottub_sex_male_01496e17:
@@ -16982,15 +16982,15 @@ translate russian audrey_hottub_sex_male_47f1a5f2:
 
 # ch/audrey/fuck.rpy:179
 translate russian audrey_hottub_sex_male_e6ffb93e:
-    "Я чувствую, как головка моего члена прижимается к ее влагалищу."
+    "Я чувствую, как головка моего члена прижимается к её влагалищу."
 
 # ch/audrey/fuck.rpy:183
 translate russian audrey_hottub_sex_male_4f64bebe:
-    "Затем я делаю уверенный толчок, легко раздвигая ее губы."
+    "Затем я делаю уверенный толчок, легко раздвигая её губы."
 
 # ch/audrey/fuck.rpy:184
 translate russian audrey_hottub_sex_male_47450406:
-    "Одри издает стон почти отчаянного облегчения, когда я вхожу в нее."
+    "Одри издаёт стон почти отчаянного облегчения, когда я вхожу в неё."
 
 # ch/audrey/fuck.rpy:185
 translate russian audrey_hottub_sex_male_39fd5090:
@@ -16998,7 +16998,7 @@ translate russian audrey_hottub_sex_male_39fd5090:
 
 # ch/audrey/fuck.rpy:188
 translate russian audrey_hottub_sex_male_3972f609:
-    "И даже тогда она продолжает тяжело дышать, когда я начинаю двигаться вперед и назад."
+    "И даже тогда она продолжает тяжело дышать, когда я начинаю двигаться вперёд и назад."
 
 # ch/audrey/fuck.rpy:189
 translate russian audrey_hottub_sex_male_d9fa273f:
@@ -17014,7 +17014,7 @@ translate russian audrey_hottub_sex_male_6da87e21:
 
 # ch/audrey/fuck.rpy:192
 translate russian audrey_hottub_sex_male_a7947280:
-    "Единственное, что меняется – это скорость, с которой я двигаюсь."
+    "Единственное, что меняется — это скорость, с которой я двигаюсь."
 
 # ch/audrey/fuck.rpy:193
 translate russian audrey_hottub_sex_male_468a8d9f:
@@ -17022,7 +17022,7 @@ translate russian audrey_hottub_sex_male_468a8d9f:
 
 # ch/audrey/fuck.rpy:196
 translate russian audrey_hottub_sex_male_eefac0ef:
-    "Но, надо отдать ей должное, Одри принимает все, что я ей даю."
+    "Но, надо отдать ей должное, Одри принимает всё, что я ей даю."
 
 # ch/audrey/fuck.rpy:197
 translate russian audrey_hottub_sex_male_a4ab1b64:
@@ -17102,7 +17102,7 @@ translate russian audrey_hottub_sex_male_57504ad9:
 
 # ch/audrey/fuck.rpy:231
 translate russian audrey_hottub_sex_male_7c35ed61:
-    "Незадолго до того, как я наконец извергну сперму, я резко вытаскиваю свой член из нее, не предупредив."
+    "Незадолго до того, как я наконец извергну сперму, я резко вытаскиваю свой член из неё, не предупредив."
 
 # ch/audrey/fuck.rpy:232
 translate russian audrey_hottub_sex_male_4a0e9fda:
@@ -17110,7 +17110,7 @@ translate russian audrey_hottub_sex_male_4a0e9fda:
 
 # ch/audrey/fuck.rpy:239
 translate russian audrey_hottub_sex_male_f92c9c08:
-    "И она удивленно оборачивается, когда я извергаю сперму на нее."
+    "И она удивлённо оборачивается, когда я извергаю сперму на неё."
 
 # ch/audrey/fuck.rpy:241
 translate russian audrey_hottub_sex_male_9c000e64:
@@ -17122,7 +17122,7 @@ translate russian audrey_hottub_sex_male_deb9b09d:
 
 # ch/audrey/fuck.rpy:243
 translate russian audrey_hottub_sex_male_d64b6ae2:
-    "Поэтому я продолжаю до самого конца, проникая в нее настолько глубоко, насколько это возможно."
+    "Поэтому я продолжаю до самого конца, проникая в неё настолько глубоко, насколько это возможно."
 
 # ch/audrey/fuck.rpy:254
 translate russian audrey_hottub_sex_male_97a2717e:
@@ -17134,11 +17134,11 @@ translate russian audrey_hottub_sex_male_3b3c269b:
 
 # ch/audrey/fuck.rpy:260
 translate russian audrey_hottub_sex_male_17d9a250:
-    "Но в ее глазах есть несомненный блеск, который говорит мне о том, что она злорадствует в тишине."
+    "Но в её глазах есть несомненный блеск, который говорит мне о том, что она злорадствует в тишине."
 
 # ch/audrey/fuck.rpy:261
 translate russian audrey_hottub_sex_male_0e03fea5:
-    "В конце концов, она получила именно то, чего хотела, заставляя меня плясать под ее дудку."
+    "В конце концов, она получила именно то, чего хотела, заставляя меня плясать под её дудку."
 
 # ch/audrey/fuck.rpy:262
 translate russian audrey_hottub_sex_male_b5ba7f00:
@@ -17146,19 +17146,19 @@ translate russian audrey_hottub_sex_male_b5ba7f00:
 
 # ch/audrey/fuck.rpy:279
 translate russian audrey_fuck_date_male_f349ca8e:
-    "Как только дверь закрывается, я поднимаю Одри, и она обвивает мои бедра ногами, пока я страстно целую ее."
+    "Как только дверь закрывается, я поднимаю Одри, и она обвивает мои бедра ногами, пока я страстно целую её."
 
 # ch/audrey/fuck.rpy:283
 translate russian audrey_fuck_date_male_5e637d3f:
-    "Я быстро переношу ее на диван и укладываю."
+    "Я быстро переношу её на диван и укладываю."
 
 # ch/audrey/fuck.rpy:284
 translate russian audrey_fuck_date_male_65055070:
-    "Я залезаю сверху и начинаю целовать ее еще глубже, оставляя следы от зубов на ее шее."
+    "Я залезаю сверху и начинаю целовать её ещё глубже, оставляя следы от зубов на её шее."
 
 # ch/audrey/fuck.rpy:286
 translate russian audrey_fuck_date_male_66c7c98a:
-    "Внезапно она кладет руки мне на грудь, чтобы остановить меня."
+    "Внезапно она кладёт руки мне на грудь, чтобы остановить меня."
 
 # ch/audrey/fuck.rpy:290
 translate russian audrey_fuck_date_male_dd325fae:
@@ -17174,7 +17174,7 @@ translate russian audrey_fuck_date_male_7fe46979:
 
 # ch/audrey/fuck.rpy:293
 translate russian audrey_fuck_date_male_cd1d0fb3:
-    "Если одна из девушек войдет, нам придется остановиться, и это испортит всю ночь."
+    "Если одна из девушек войдёт, нам придётся остановиться, и это испортит всю ночь."
 
 # ch/audrey/fuck.rpy:294
 translate russian audrey_fuck_date_male_31227c1c:
@@ -17182,15 +17182,15 @@ translate russian audrey_fuck_date_male_31227c1c:
 
 # ch/audrey/fuck.rpy:297
 translate russian audrey_fuck_date_male_3475a6ae:
-    "Я наклоняюсь и снова начинаю целовать ее."
+    "Я наклоняюсь и снова начинаю целовать её."
 
 # ch/audrey/fuck.rpy:298
 translate russian audrey_fuck_date_male_30a2d091:
-    "Когда она обнимает меня руками и ногами, я переношу ее в спальню."
+    "Когда она обнимает меня руками и ногами, я переношу её в спальню."
 
 # ch/audrey/fuck.rpy:300
 translate russian audrey_fuck_date_male_66c7c98a_1:
-    "Внезапно она кладет руки мне на грудь, чтобы остановить меня."
+    "Внезапно она кладёт руки мне на грудь, чтобы остановить меня."
 
 # ch/audrey/fuck.rpy:304
 translate russian audrey_fuck_date_male_3cf88b53:
@@ -17202,11 +17202,11 @@ translate russian audrey_fuck_date_male_8d4d1179:
 
 # ch/audrey/fuck.rpy:308
 translate russian audrey_fuck_date_male_38861d32:
-    "Я прижимаю свой язык к ее губам, а она проводит пальцами по моим волосам, пытаясь сделать поцелуй еще более страстным."
+    "Я прижимаю свой язык к её губам, а она проводит пальцами по моим волосам, пытаясь сделать поцелуй ещё более страстным."
 
 # ch/audrey/fuck.rpy:309
 translate russian audrey_fuck_date_male_120ae269:
-    "Едва различая, что я делаю, я переношу ее в спальню, чуть не врезавшись в стену."
+    "Едва различая, что я делаю, я переношу её в спальню, чуть не врезавшись в стену."
 
 # ch/audrey/fuck.rpy:351
 translate russian audrey_fuck_date_intro_male_d73ff729:
@@ -17226,11 +17226,11 @@ translate russian audrey_fuck_date_intro_male_51d02523:
 
 # ch/audrey/fuck.rpy:355
 translate russian audrey_fuck_date_intro_male_4cea8b91:
-    "И, оценивая обстановку в моей комнате, она определенно оправдывает это впечатление сегодня вечером."
+    "И, оценивая обстановку в моей комнате, она определённо оправдывает это впечатление сегодня вечером."
 
 # ch/audrey/fuck.rpy:357
 translate russian audrey_fuck_date_intro_male_a4dce7d1:
-    audrey.say "Вау – кто-то здесь цепляется за свою юность!"
+    audrey.say "Вау — кто-то здесь цепляется за свою юность!"
 
 # ch/audrey/fuck.rpy:358
 translate russian audrey_fuck_date_intro_male_d2d9ea40:
@@ -17250,7 +17250,7 @@ translate russian audrey_fuck_date_intro_male_d6fffac0:
 
 # ch/audrey/fuck.rpy:363
 translate russian audrey_fuck_date_intro_male_161d22f6:
-    "Улыбка появляется на ее лице в ответ на мой замечание."
+    "Улыбка появляется на её лице в ответ на мой замечание."
 
 # ch/audrey/fuck.rpy:364
 translate russian audrey_fuck_date_intro_male_4a1abc65:
@@ -17274,11 +17274,11 @@ translate russian audrey_fuck_date_intro_male_60a087d9:
 
 # ch/audrey/fuck.rpy:370
 translate russian audrey_fuck_date_intro_male_32a2712f:
-    "Боже мой – как она это делает?!"
+    "Боже мой — как она это делает?!"
 
 # ch/audrey/fuck.rpy:371
 translate russian audrey_fuck_date_intro_male_3ce43f42:
-    "Я не знаю, что доставит мне больше удовольствия сейчас – трахать ее или задушить?"
+    "Я не знаю, что доставит мне больше удовольствия сейчас — трахать её или задушить?"
 
 # ch/audrey/fuck.rpy:372
 translate russian audrey_fuck_date_intro_male_09120232:
@@ -17290,15 +17290,15 @@ translate russian audrey_fuck_date_intro_male_7393c3e6:
 
 # ch/audrey/fuck.rpy:377
 translate russian audrey_fuck_date_intro_male_6a92221c:
-    "К счастью, моя дверь была не заперта, и мы сразу же вошли внутрь, задержавшись достаточно долго, чтобы я успел закрыть ее на замок, чтобы нас никто не прервал."
+    "К счастью, моя дверь была не заперта, и мы сразу же вошли внутрь, задержавшись достаточно долго, чтобы я успел закрыть её на замок, чтобы нас никто не прервал."
 
 # ch/audrey/fuck.rpy:378
 translate russian audrey_fuck_date_intro_male_9eb58d9f:
-    "Я переношу ее на кровать и укладываю, пока мы продолжаем целоваться."
+    "Я переношу её на кровать и укладываю, пока мы продолжаем целоваться."
 
 # ch/audrey/fuck.rpy:379
 translate russian audrey_fuck_date_intro_male_c8c5e161:
-    "Я теряю счет всему вокруг, когда вдруг она отстраняется, чтобы перевести дух."
+    "Я теряю счёт всему вокруг, когда вдруг она отстраняется, чтобы перевести дух."
 
 # ch/audrey/fuck.rpy:408
 translate russian audrey_fuck_date_intro_male_4dcf6725:
@@ -17342,31 +17342,31 @@ translate russian audrey_fuck_date_intro_male_e8d85553:
 
 # ch/audrey/fuck.rpy:424
 translate russian audrey_fuck_date_intro_male_e72a1849:
-    "Возможно, там осталась вмятина или даже петли отвалились – я не знаю."
+    "Возможно, там осталась вмятина или даже петли отвалились — я не знаю."
 
 # ch/audrey/fuck.rpy:426
 translate russian audrey_fuck_date_intro_male_ff7a2fe9:
-    "Но мне все равно, потому что все мое внимание сосредоточено на Одри."
+    "Но мне всё равно, потому что все моё внимание сосредоточено на Одри."
 
 # ch/audrey/fuck.rpy:427
 translate russian audrey_fuck_date_intro_male_2129c8e8:
-    "Или, точнее говоря, на ее языке, когда она засовывает его мне в горло."
+    "Или, точнее говоря, на её языке, когда она засовывает его мне в горло."
 
 # ch/audrey/fuck.rpy:429
 translate russian audrey_fuck_date_intro_male_4303f2b6:
-    "И еще на ее руках, которые грубо тянут за мои трусы, пытаясь добраться до моего члена."
+    "И ещё на её руках, которые грубо тянут за мои трусы, пытаясь добраться до моего члена."
 
 # ch/audrey/fuck.rpy:430
 translate russian audrey_fuck_date_intro_male_a6b51a4e:
-    "Хотя это и не одностороннее действие, ведь мои руки тоже пытаются раздеть ее."
+    "Хотя это и не одностороннее действие, ведь мои руки тоже пытаются раздеть её."
 
 # ch/audrey/fuck.rpy:431
 translate russian audrey_fuck_date_intro_male_783e900a:
-    "Я всегда был возбужден видом тела Одри, и сейчас она полностью меня взволновала."
+    "Я всегда был возбуждён видом тела Одри, и сейчас она полностью меня взволновала."
 
 # ch/audrey/fuck.rpy:432
 translate russian audrey_fuck_date_intro_male_32ad32bf:
-    "Но знание того, что она так сильно хочет, чтобы я был внутри нее, – это больше мотивации, чем мне когда-либо было нужно!"
+    "Но знание того, что она так сильно хочет, чтобы я был внутри неё, — это больше мотивации, чем мне когда-либо было нужно!"
 
 # ch/audrey/fuck.rpy:433
 translate russian audrey_fuck_date_intro_male_1e2d2835:
@@ -17374,7 +17374,7 @@ translate russian audrey_fuck_date_intro_male_1e2d2835:
 
 # ch/audrey/fuck.rpy:438
 translate russian audrey_fuck_date_intro_male_a37fbea5:
-    "Одна из замечательных черт Одри – это то, как она общается в спальне."
+    "Одна из замечательных чёрт Одри — это то, как она общается в спальне."
 
 # ch/audrey/fuck.rpy:439
 translate russian audrey_fuck_date_intro_male_2b4e583f:
@@ -17386,7 +17386,7 @@ translate russian audrey_fuck_date_intro_male_7b66333f:
 
 # ch/audrey/fuck.rpy:442
 translate russian audrey_fuck_date_intro_male_50bf0324:
-    "И сегодня вечером все так же: она почти набрасывается на меня в тот момент, когда мы одни."
+    "И сегодня вечером всё так же: она почти набрасывается на меня в тот момент, когда мы одни."
 
 # ch/audrey/fuck.rpy:443
 translate russian audrey_fuck_date_intro_male_1309112a:
@@ -17398,7 +17398,7 @@ translate russian audrey_fuck_date_intro_male_d8e250fa:
 
 # ch/audrey/fuck.rpy:446
 translate russian audrey_fuck_date_intro_male_499d31e6:
-    "И я чувствую, как она прижимается ко мне все время, пока наши губы соприкасаются."
+    "И я чувствую, как она прижимается ко мне всё время, пока наши губы соприкасаются."
 
 # ch/audrey/fuck.rpy:447
 translate russian audrey_fuck_date_intro_male_45771bf0:
@@ -17418,7 +17418,7 @@ translate russian audrey_fuck_date_intro_male_8c233c66:
 
 # ch/audrey/fuck.rpy:454
 translate russian audrey_fuck_date_intro_male_7e87f593:
-    "А потом ее смех обрушивается на меня, как пощечина, почти ощутимая физическая боль."
+    "А потом её смех обрушивается на меня, как пощёчина, почти ощутимая физическая боль."
 
 # ch/audrey/fuck.rpy:455
 translate russian audrey_fuck_date_intro_male_a1e4805f:
@@ -17438,7 +17438,7 @@ translate russian audrey_fuck_date_intro_male_5f936394:
 
 # ch/audrey/fuck.rpy:460
 translate russian audrey_fuck_date_intro_male_bedad06f:
-    "Но потом она громко смеется, качая головой в ответ на мою реакцию."
+    "Но потом она громко смеётся, качая головой в ответ на мою реакцию."
 
 # ch/audrey/fuck.rpy:461
 translate russian audrey_fuck_date_intro_male_36e0673b:
@@ -17462,7 +17462,7 @@ translate russian audrey_fuck_date_intro_male_9e5ca77d:
 
 # ch/audrey/fuck.rpy:467
 translate russian audrey_fuck_date_intro_male_21a3a507:
-    "Она абсолютно права – черт возьми, чего я жду?"
+    "Она абсолютно права — чёрт возьми, чего я жду?"
 
 # ch/audrey/fuck.rpy:468
 translate russian audrey_fuck_date_intro_male_70fe22bf:
@@ -17470,7 +17470,7 @@ translate russian audrey_fuck_date_intro_male_70fe22bf:
 
 # ch/audrey/fuck.rpy:469
 translate russian audrey_fuck_date_intro_male_2d5f1811:
-    "И через мгновение я уже рядом с ней, почти опережая ее."
+    "И через мгновение я уже рядом с ней, почти опережая её."
 
 # ch/audrey/fuck.rpy:470
 translate russian audrey_fuck_date_intro_male_70de452b:
@@ -17478,7 +17478,7 @@ translate russian audrey_fuck_date_intro_male_70de452b:
 
 # ch/audrey/fuck.rpy:473
 translate russian audrey_fuck_date_intro_male_22b5ca07:
-    "Когда мы оказываемся внутри, мы не просто закрываем дверь, а буквально падаем на нее."
+    "Когда мы оказываемся внутри, мы не просто закрываем дверь, а буквально падаем на неё."
 
 # ch/audrey/fuck.rpy:474
 translate russian audrey_fuck_date_intro_male_579879fa:
@@ -17506,19 +17506,19 @@ translate russian audrey_fuck_date_intro_male_69fc87e5:
 
 # ch/audrey/fuck.rpy:481
 translate russian audrey_fuck_date_intro_male_3336adf1:
-    audrey.say "\"Нет...\", - говорит Одри Майку."
+    audrey.say "«Нет...», — говорит Одри Майку."
 
 # ch/audrey/fuck.rpy:482
 translate russian audrey_fuck_date_intro_male_7cfa29b4:
-    audrey.say "\"Пошли ты...\", - говорит Одри Майку."
+    audrey.say "«Пошли ты...», — говорит Одри Майку."
 
 # ch/audrey/fuck.rpy:483
 translate russian audrey_fuck_date_intro_male_f84c90d9:
-    audrey.say "\"Я хочу твой член... СЕЙЧАС!\", - говорит Одри Майку."
+    audrey.say "«Я хочу твой член... СЕЙЧАС!», — говорит Одри Майку."
 
 # ch/audrey/fuck.rpy:484
 translate russian audrey_fuck_date_intro_male_ab17d63c:
-    "Ну, когда она так это выражает – как я могу отказать?"
+    "Ну, когда она так это выражает — как я могу отказать?"
 
 # ch/audrey/fuck.rpy:487
 translate russian audrey_fuck_date_intro_male_212926da:
@@ -17558,15 +17558,15 @@ translate russian audrey_fuck_date_intro_male_fdbbb4b1:
 
 # ch/audrey/fuck.rpy:502
 translate russian audrey_fuck_date_intro_male_330600bd:
-    "Однозначно, Одри настроена на то, чтобы хорошо провести время, когда мы вернемся ко мне домой."
+    "Однозначно, Одри настроена на то, чтобы хорошо провести время, когда мы вернёмся ко мне домой."
 
 # ch/audrey/fuck.rpy:503
 translate russian audrey_fuck_date_intro_male_b6ffc244:
-    "Она ведет меня за руку в мою спальню, улыбаясь мне все это время."
+    "Она ведёт меня за руку в мою спальню, улыбаясь мне все это время."
 
 # ch/audrey/fuck.rpy:505
 translate russian audrey_fuck_date_intro_male_bb405ab5:
-    "И я чувствую, как моя собственная возбужденность растет с каждой секундой, пока мы идем к кровати."
+    "И я чувствую, как моя собственная возбужденность растёт с каждой секундой, пока мы идём к кровати."
 
 # ch/audrey/fuck.rpy:506
 translate russian audrey_fuck_date_intro_male_88779bf8:
@@ -17586,11 +17586,11 @@ translate russian audrey_fuck_date_intro_male_e10fd4e1:
 
 # ch/audrey/fuck.rpy:511
 translate russian audrey_fuck_date_intro_male_3cb6754f:
-    "Вопрос Одри застает меня врасплох, возвращая меня к реальности."
+    "Вопрос Одри застаёт меня врасплох, возвращая меня к реальности."
 
 # ch/audrey/fuck.rpy:512
 translate russian audrey_fuck_date_intro_male_27842144:
-    "Конечно, она все еще выглядит чертовски привлекательно прямо сейчас."
+    "Конечно, она всё ещё выглядит чертовски привлекательно прямо сейчас."
 
 # ch/audrey/fuck.rpy:513
 translate russian audrey_fuck_date_intro_male_1e9a9cc0:
@@ -17614,7 +17614,7 @@ translate russian audrey_fuck_date_intro_male_c423cee9:
 
 # ch/audrey/fuck.rpy:518
 translate russian audrey_fuck_date_intro_male_b3bc4722:
-    "Одри смеется и качает головой."
+    "Одри смеётся и качает головой."
 
 # ch/audrey/fuck.rpy:519
 translate russian audrey_fuck_date_intro_male_c41422b8:
@@ -17634,7 +17634,7 @@ translate russian audrey_fuck_date_intro_male_d9f7ed24:
 
 # ch/audrey/fuck.rpy:524
 translate russian audrey_fuck_date_intro_male_ea499e4b:
-    "Потому что она прижимает меня к кровати и все еще качает головой."
+    "Потому что она прижимает меня к кровати и всё ещё качает головой."
 
 # ch/audrey/fuck.rpy:526
 translate russian audrey_fuck_date_intro_male_5fc7e279:
@@ -17674,7 +17674,7 @@ translate russian audrey_fuck_date_intro_male_bd21b0ee:
 
 # ch/audrey/fuck.rpy:536
 translate russian audrey_fuck_date_intro_male_de49c2fe:
-    "С каждым снятым предметом я вижу все больше и больше ее тела."
+    "С каждым снятым предметом я вижу всё больше и больше её тела."
 
 # ch/audrey/fuck.rpy:537
 translate russian audrey_fuck_date_intro_male_0a82a2cf:
@@ -17738,7 +17738,7 @@ translate russian audrey_fuck_date_intro_male_cb16ecdd:
 
 # ch/audrey/fuck.rpy:556
 translate russian audrey_fuck_date_intro_male_9a446420:
-    "Как они подчеркивают форму её ног и изгиб её ягодиц!"
+    "Как они подчёркивают форму её ног и изгиб её ягодиц!"
 
 # ch/audrey/fuck.rpy:557
 translate russian audrey_fuck_date_intro_male_3681b2d4:
@@ -17746,7 +17746,7 @@ translate russian audrey_fuck_date_intro_male_3681b2d4:
 
 # ch/audrey/fuck.rpy:558
 translate russian audrey_fuck_date_intro_male_d32195d4:
-    "И каждый раз она обязательно хихикала и подмигивала мне, словно говоря: \"Ты попался\"."
+    "И каждый раз она обязательно хихикала и подмигивала мне, словно говоря: «Ты попался»."
 
 # ch/audrey/fuck.rpy:559
 translate russian audrey_fuck_date_intro_male_2c0e3828:
@@ -17754,7 +17754,7 @@ translate russian audrey_fuck_date_intro_male_2c0e3828:
 
 # ch/audrey/fuck.rpy:560
 translate russian audrey_fuck_date_intro_male_2bd10f5f:
-    "Когда я закрываю дверь своей спальни, я оборачиваюсь и вижу, как Одри ходит взад-вперед."
+    "Когда я закрываю дверь своей спальни, я оборачиваюсь и вижу, как Одри ходит взад-вперёд."
 
 # ch/audrey/fuck.rpy:563
 translate russian audrey_fuck_date_intro_male_efaeaee2:
@@ -17806,7 +17806,7 @@ translate russian audrey_fuck_date_intro_male_46227bed:
 
 # ch/audrey/fuck.rpy:577
 translate russian audrey_fuck_date_intro_male_e07005f5:
-    "Одри смеется и улыбается мне в ответ."
+    "Одри смеётся и улыбается мне в ответ."
 
 # ch/audrey/fuck.rpy:579
 translate russian audrey_fuck_date_intro_male_fa6eb853:
@@ -17814,7 +17814,7 @@ translate russian audrey_fuck_date_intro_male_fa6eb853:
 
 # ch/audrey/fuck.rpy:580
 translate russian audrey_fuck_date_intro_male_debe0e67:
-    "Это наконец-то заставляет меня отвести взгляд от ее ног."
+    "Это наконец-то заставляет меня отвести взгляд от её ног."
 
 # ch/audrey/fuck.rpy:581
 translate russian audrey_fuck_date_intro_male_845a0cd9:
@@ -17826,11 +17826,11 @@ translate russian audrey_fuck_date_intro_male_da1123e6:
 
 # ch/audrey/fuck.rpy:583
 translate russian audrey_fuck_date_intro_male_7d03f19f:
-    audrey.say "Нам нужно, чтобы ты видел их все время, пока трахаешься со мной!"
+    audrey.say "Нам нужно, чтобы ты видел их всё время, пока трахаешься со мной!"
 
 # ch/audrey/fuck.rpy:584
 translate russian audrey_fuck_date_intro_male_36fd9c6f:
-    "Я киваю головой, слушая ее слова."
+    "Я киваю головой, слушая её слова."
 
 # ch/audrey/fuck.rpy:585
 translate russian audrey_fuck_date_intro_male_1437fc95:
@@ -17846,7 +17846,7 @@ translate russian audrey_fuck_date_intro_male_2c80afc7:
 
 # ch/audrey/fuck.rpy:589
 translate russian audrey_fuck_date_intro_male_e0ecd1c4:
-    "Но каким-то образом она все равно успела снять больше одежды, чем я."
+    "Но каким-то образом она всё равно успела снять больше одежды, чем я."
 
 # ch/audrey/fuck.rpy:590
 translate russian audrey_fuck_date_intro_male_2c5129a1:
@@ -17854,11 +17854,11 @@ translate russian audrey_fuck_date_intro_male_2c5129a1:
 
 # ch/audrey/fuck.rpy:591
 translate russian audrey_fuck_date_intro_male_4bac59d1:
-    "Хотя это, кажется, не имеет значения – это ведь не соревнование."
+    "Хотя это, кажется, не имеет значения — это ведь не соревнование."
 
 # ch/audrey/fuck.rpy:593
 translate russian audrey_fuck_date_intro_male_ca857cd7:
-    "И тот факт, что Одри сначала осталась обнаженной, скоро станет для меня приятным бонусом."
+    "И тот факт, что Одри сначала осталась обнажённой, скоро станет для меня приятным бонусом."
 
 # ch/audrey/fuck.rpy:594
 translate russian audrey_fuck_date_intro_male_9e5e65f8:
@@ -17906,7 +17906,7 @@ translate russian audrey_sleep_date_fuck_a19d79f5:
 
 # ch/audrey/fuck.rpy:653
 translate russian audrey_sleep_date_fuck_d5db756a:
-    "Когда Одри прижимается ко мне под одеялом, это почти так же хорошо, как секс – почти..."
+    "Когда Одри прижимается ко мне под одеялом, это почти так же хорошо, как секс — почти..."
 
 # ch/audrey/fuck.rpy:654
 translate russian audrey_sleep_date_fuck_34b6cba2:
@@ -17922,7 +17922,7 @@ translate russian audrey_fuck_date_blowjob_1144c8be:
 
 # ch/audrey/fuck.rpy:669
 translate russian audrey_fuck_date_blowjob_f78ff62a:
-    "Одри снимает с себя последнюю одежду и стоит над мной обнаженной."
+    "Одри снимает с себя последнюю одежду и стоит над мной обнажённой."
 
 # ch/audrey/fuck.rpy:670
 translate russian audrey_fuck_date_blowjob_73d4745c:
@@ -17942,7 +17942,7 @@ translate russian audrey_fuck_date_blowjob_b0cc98aa:
 
 # ch/audrey/fuck.rpy:674
 translate russian audrey_fuck_date_blowjob_d95c34a0:
-    "Я морщусь, когда ее рука сжимает его основание крепко-крепко."
+    "Я морщусь, когда её рука сжимает его основание крепко-крепко."
 
 # ch/audrey/fuck.rpy:675
 translate russian audrey_fuck_date_blowjob_54fa47c3:
@@ -17958,15 +17958,15 @@ translate russian audrey_fuck_date_blowjob_ea312f92:
 
 # ch/audrey/fuck.rpy:678
 translate russian audrey_fuck_date_blowjob_2dd7b2e2:
-    "Ее глаза широко раскрыты и полны хищного инстинкта."
+    "Её глаза широко раскрыты и полны хищного инстинкта."
 
 # ch/audrey/fuck.rpy:679
 translate russian audrey_fuck_date_blowjob_ae159ea5:
-    "И она еще сильнее сжала мой член, просто чтобы доказать свою точку зрения."
+    "И она ещё сильнее сжала мой член, просто чтобы доказать свою точку зрения."
 
 # ch/audrey/fuck.rpy:680
 translate russian audrey_fuck_date_blowjob_00b9353d:
-    "Мой член уже начал твердеть, еще до того, как мы вошли в мою спальню."
+    "Мой член уже начал твердеть, ещё до того, как мы вошли в мою спальню."
 
 # ch/audrey/fuck.rpy:681
 translate russian audrey_fuck_date_blowjob_640815ae:
@@ -17990,11 +17990,11 @@ translate russian audrey_fuck_date_blowjob_c0141158:
 
 # ch/audrey/fuck.rpy:686
 translate russian audrey_fuck_date_blowjob_f040cde3:
-    "Ее рука двигается вниз, а ее губы раздвигаются."
+    "Её рука двигается вниз, а её губы раздвигаются."
 
 # ch/audrey/fuck.rpy:687
 translate russian audrey_fuck_date_blowjob_cc1ae2a0:
-    "Я наблюдаю, как язык Одри появляется между ее губами."
+    "Я наблюдаю, как язык Одри появляется между её губами."
 
 # ch/audrey/fuck.rpy:688
 translate russian audrey_fuck_date_blowjob_0b3caaa1:
@@ -18002,7 +18002,7 @@ translate russian audrey_fuck_date_blowjob_0b3caaa1:
 
 # ch/audrey/fuck.rpy:690
 translate russian audrey_fuck_date_blowjob_011ebd28:
-    "Одри перестает смотреть на меня в тот же момент, когда ее язык начинает действовать."
+    "Одри перестаёт смотреть на меня в тот же момент, когда её язык начинает действовать."
 
 # ch/audrey/fuck.rpy:691
 translate russian audrey_fuck_date_blowjob_abc008db:
@@ -18018,7 +18018,7 @@ translate russian audrey_fuck_date_blowjob_3b3a2972:
 
 # ch/audrey/fuck.rpy:694
 translate russian audrey_fuck_date_blowjob_0c5893ec:
-    "Скорее, у нее есть какая-то потребность, которую она удовлетворяет!"
+    "Скорее, у неё есть какая-то потребность, которую она удовлетворяет!"
 
 # ch/audrey/fuck.rpy:695
 translate russian audrey_fuck_date_blowjob_3b4237c3:
@@ -18038,7 +18038,7 @@ translate russian audrey_fuck_date_blowjob_3e4d1705:
 
 # ch/audrey/fuck.rpy:699
 translate russian audrey_fuck_date_blowjob_b7331b37:
-    "Затем она проводит ее между моих ног, лаская свою влагалище."
+    "Затем она проводит её между моих ног, лаская свою влагалище."
 
 # ch/audrey/fuck.rpy:700
 translate russian audrey_fuck_date_blowjob_b2ae3ab1:
@@ -18066,7 +18066,7 @@ translate russian audrey_fuck_date_blowjob_ff193ecd:
 
 # ch/audrey/fuck.rpy:712
 translate russian audrey_fuck_date_blowjob_86c8a612:
-    "Вместо этого она двигается еще быстрее, ее голова подпрыгивает вверх и вниз."
+    "Вместо этого она двигается ещё быстрее, её голова подпрыгивает вверх и вниз."
 
 # ch/audrey/fuck.rpy:713
 translate russian audrey_fuck_date_blowjob_0744b03d:
@@ -18074,11 +18074,11 @@ translate russian audrey_fuck_date_blowjob_0744b03d:
 
 # ch/audrey/fuck.rpy:714
 translate russian audrey_fuck_date_blowjob_6b71ca11:
-    "И ощущение от того, что я у нее во рту, просто невероятно приятно."
+    "И ощущение от того, что я у неё во рту, просто невероятно приятно."
 
 # ch/audrey/fuck.rpy:718
 translate russian audrey_fuck_date_blowjob_31a75879:
-    "Ее руки опускаются вниз, когда ее голова поднимается вверх."
+    "Её руки опускаются вниз, когда её голова поднимается вверх."
 
 # ch/audrey/fuck.rpy:719
 translate russian audrey_fuck_date_blowjob_599592b3:
@@ -18086,7 +18086,7 @@ translate russian audrey_fuck_date_blowjob_599592b3:
 
 # ch/audrey/fuck.rpy:720
 translate russian audrey_fuck_date_blowjob_f69206bd:
-    "Но каким-то образом мне все равно удается держаться, задыхаясь от напряжения."
+    "Но каким-то образом мне всё равно удаётся держаться, задыхаясь от напряжения."
 
 # ch/audrey/fuck.rpy:724
 translate russian audrey_fuck_date_blowjob_92ce967a:
@@ -18110,7 +18110,7 @@ translate russian audrey_fuck_date_blowjob_7737bd09:
 
 # ch/audrey/fuck.rpy:735
 translate russian audrey_fuck_date_blowjob_49831204:
-    "Затем она закрывает глаза, и на ее лице появляется лукавая улыбка."
+    "Затем она закрывает глаза, и на её лице появляется лукавая улыбка."
 
 # ch/audrey/fuck.rpy:737
 translate russian audrey_fuck_date_blowjob_365df643:
@@ -18142,11 +18142,11 @@ translate russian audrey_fuck_date_blowjob_a43bce8d:
 
 # ch/audrey/fuck.rpy:753
 translate russian audrey_fuck_date_blowjob_0f07ab10:
-    "Одри ахает, когда горячая, липкая сперма разбрызгивается по ее щекам."
+    "Одри ахает, когда горячая, липкая сперма разбрызгивается по её щекам."
 
 # ch/audrey/fuck.rpy:755
 translate russian audrey_fuck_date_blowjob_6d0498ed:
-    "Затем она смеется, когда это стекает и попадает ей на губы."
+    "Затем она смеётся, когда это стекает и попадает ей на губы."
 
 # ch/audrey/fuck.rpy:756
 translate russian audrey_fuck_date_blowjob_f6d5162f:
@@ -18158,7 +18158,7 @@ translate russian audrey_fuck_date_blowjob_3aaf0c3c:
 
 # ch/audrey/fuck.rpy:761
 translate russian audrey_fuck_date_blowjob_b6c63b1a:
-    "Она занимает удобное положение и готовится к тому, что произойдет дальше."
+    "Она занимает удобное положение и готовится к тому, что произойдёт дальше."
 
 # ch/audrey/fuck.rpy:764
 translate russian audrey_fuck_date_blowjob_9b78096a:
@@ -18198,7 +18198,7 @@ translate russian audrey_fuck_date_blowjob_830f4687:
 
 # ch/audrey/fuck.rpy:776
 translate russian audrey_fuck_date_blowjob_49831204_1:
-    "Затем она закрывает глаза, и на ее лице появляется лукавая улыбка."
+    "Затем она закрывает глаза, и на её лице появляется лукавая улыбка."
 
 # ch/audrey/fuck.rpy:781
 translate russian audrey_fuck_date_blowjob_951ef9fb:
@@ -18298,7 +18298,7 @@ translate russian audrey_fuck_date_blowjob_03ec53ad:
 
 # ch/audrey/fuck.rpy:828
 translate russian audrey_fuck_date_blowjob_39e40cdd:
-    audrey.say "Просто помни – я кусаюсь!"
+    audrey.say "Просто помни — я кусаюсь!"
 
 # ch/audrey/fuck.rpy:829
 translate russian audrey_fuck_date_blowjob_4cc170e1:
@@ -18306,7 +18306,7 @@ translate russian audrey_fuck_date_blowjob_4cc170e1:
 
 # ch/audrey/fuck.rpy:833
 translate russian audrey_fuck_date_oral_intro_478bf401:
-    "Одри – одна из тех девушек, которые просто не могут скрыть свои мысли."
+    "Одри — одна из тех девушек, которые просто не могут скрыть свои мысли."
 
 # ch/audrey/fuck.rpy:834
 translate russian audrey_fuck_date_oral_intro_6ebfc18f:
@@ -18314,7 +18314,7 @@ translate russian audrey_fuck_date_oral_intro_6ebfc18f:
 
 # ch/audrey/fuck.rpy:835
 translate russian audrey_fuck_date_oral_intro_05176209:
-    "Ты понимаешь, о чем я говорю, верно?"
+    "Ты понимаешь, о чём я говорю, верно?"
 
 # ch/audrey/fuck.rpy:836
 translate russian audrey_fuck_date_oral_intro_f0ef9cf7:
@@ -18322,11 +18322,11 @@ translate russian audrey_fuck_date_oral_intro_f0ef9cf7:
 
 # ch/audrey/fuck.rpy:837
 translate russian audrey_fuck_date_oral_intro_f6f6a553:
-    "Но она все равно не может удержаться от того, чтобы бросать на тебя короткие, мимолетные взгляды."
+    "Но она всё равно не может удержаться от того, чтобы бросать на тебя короткие, мимолетные взгляды."
 
 # ch/audrey/fuck.rpy:838
 translate russian audrey_fuck_date_oral_intro_193aca56:
-    "И еще у нее будет снисходительная улыбка на лице все это время."
+    "И ещё у неё будет снисходительная улыбка на лице все это время."
 
 # ch/audrey/fuck.rpy:839
 translate russian audrey_fuck_date_oral_intro_dd21bd82:
@@ -18334,7 +18334,7 @@ translate russian audrey_fuck_date_oral_intro_dd21bd82:
 
 # ch/audrey/fuck.rpy:840
 translate russian audrey_fuck_date_oral_intro_fb2e516a:
-    "Как и Одри, когда я пытаюсь разоблачить ее."
+    "Как и Одри, когда я пытаюсь разоблачить её."
 
 # ch/audrey/fuck.rpy:841
 translate russian audrey_fuck_date_oral_intro_47952bd4:
@@ -18358,7 +18358,7 @@ translate russian audrey_fuck_date_oral_intro_0264dfed:
 
 # ch/audrey/fuck.rpy:846
 translate russian audrey_fuck_date_oral_intro_f1795871:
-    "Я хотя бы надеялся, что этот вопрос ее удивит."
+    "Я хотя бы надеялся, что этот вопрос её удивит."
 
 # ch/audrey/fuck.rpy:848
 translate russian audrey_fuck_date_oral_intro_1ad97b26:
@@ -18382,7 +18382,7 @@ translate russian audrey_fuck_date_oral_intro_bb8ba6fe:
 
 # ch/audrey/fuck.rpy:856
 translate russian audrey_fuck_date_oral_intro_51a5c944:
-    "Одри снова смеется и начинает снимать с себя одежду."
+    "Одри снова смеётся и начинает снимать с себя одежду."
 
 # ch/audrey/fuck.rpy:857
 translate russian audrey_fuck_date_oral_intro_25014bd5:
@@ -18402,11 +18402,11 @@ translate russian audrey_fuck_date_oral_intro_3a069452:
 
 # ch/audrey/fuck.rpy:862
 translate russian audrey_fuck_date_oral_intro_baf3b2b4:
-    "И я спешу последовать ее примеру, снимая одежду по мере того, как иду к кровати."
+    "И я спешу последовать её примеру, снимая одежду по мере того, как иду к кровати."
 
 # ch/audrey/fuck.rpy:863
 translate russian audrey_fuck_date_oral_intro_db19ae96:
-    "Одри ухмыляется мне, прекрасно зная, что я попался на ее удочку."
+    "Одри ухмыляется мне, прекрасно зная, что я попался на её удочку."
 
 # ch/audrey/fuck.rpy:864
 translate russian audrey_fuck_date_oral_intro_9e247b90:
@@ -18422,27 +18422,27 @@ translate russian audrey_fuck_date_oral_intro_52876caa:
 
 # ch/audrey/fuck.rpy:867
 translate russian audrey_fuck_date_oral_intro_803edb1e:
-    "Ее груди свисают, когда она опускается на меня."
+    "Её груди свисают, когда она опускается на меня."
 
 # ch/audrey/fuck.rpy:868
 translate russian audrey_fuck_date_oral_intro_1b3b68ad:
-    "И ее соски почти касаются моего живота, когда она это делает."
+    "И её соски почти касаются моего живота, когда она это делает."
 
 # ch/audrey/fuck.rpy:869
 translate russian audrey_fuck_date_oral_intro_217e7b7d:
-    "Я глотаю, ожидая ощущения ее влагалища, прижавшегося к моему члену."
+    "Я глотаю, ожидая ощущения её влагалища, прижавшегося к моему члену."
 
 # ch/audrey/fuck.rpy:870
 translate russian audrey_fuck_date_oral_intro_c899b212:
-    "Но мы говорим об Одри – и она настоящая соблазнительница!"
+    "Но мы говорим об Одри — и она настоящая соблазнительница!"
 
 # ch/audrey/fuck.rpy:872
 translate russian audrey_fuck_date_oral_intro_dc7524c4:
-    "Злобно улыбаясь, она снова наклоняется вперед."
+    "Злобно улыбаясь, она снова наклоняется вперёд."
 
 # ch/audrey/fuck.rpy:873
 translate russian audrey_fuck_date_oral_intro_fd6d0d22:
-    "Каждый раз ее влагалище почти касается моих губ."
+    "Каждый раз её влагалище почти касается моих губ."
 
 # ch/audrey/fuck.rpy:874
 translate russian audrey_fuck_date_oral_intro_771847ca:
@@ -18606,7 +18606,7 @@ translate russian audrey_fuck_date_oral_17d3110d:
 
 # ch/audrey/fuck.rpy:925
 translate russian audrey_fuck_date_oral_85ad2477:
-    "А именно – сделать ей оральный секс."
+    "А именно — сделать ей оральный секс."
 
 # ch/audrey/fuck.rpy:926
 translate russian audrey_fuck_date_oral_d50b7c92:
@@ -18670,7 +18670,7 @@ translate russian audrey_fuck_date_oral_5783778e:
 
 # ch/audrey/fuck.rpy:941
 translate russian audrey_fuck_date_oral_777de80b:
-    "Я действую медленно и осторожно, в отличие от нее, которая была быстрой и прямолинейной."
+    "Я действую медленно и осторожно, в отличие от неё, которая была быстрой и прямолинейной."
 
 # ch/audrey/fuck.rpy:942
 translate russian audrey_fuck_date_oral_8cd54050:
@@ -18718,7 +18718,7 @@ translate russian audrey_fuck_date_oral_0cf023fa:
 
 # ch/audrey/fuck.rpy:953
 translate russian audrey_fuck_date_oral_f60f3b56:
-    "Я снова обращаю свое внимание на ее влагалище и начинаю двигаться внутрь."
+    "Я снова обращаю своё внимание на её влагалище и начинаю двигаться внутрь."
 
 # ch/audrey/fuck.rpy:954
 translate russian audrey_fuck_date_oral_d2427ce0:
@@ -18726,7 +18726,7 @@ translate russian audrey_fuck_date_oral_d2427ce0:
 
 # ch/audrey/fuck.rpy:955
 translate russian audrey_fuck_date_oral_f1f95ecc:
-    "Сейчас я чувствую только Одри – это единственный вкус и запах в воздухе."
+    "Сейчас я чувствую только Одри — это единственный вкус и запах в воздухе."
 
 # ch/audrey/fuck.rpy:958
 translate russian audrey_fuck_date_oral_2d3b9e62:
@@ -18734,19 +18734,19 @@ translate russian audrey_fuck_date_oral_2d3b9e62:
 
 # ch/audrey/fuck.rpy:959
 translate russian audrey_fuck_date_oral_8c0edd10:
-    "Когда я наконец погружаю свой язык в центр ее влагалища, эффект потрясающий."
+    "Когда я наконец погружаю свой язык в центр её влагалища, эффект потрясающий."
 
 # ch/audrey/fuck.rpy:962
 translate russian audrey_fuck_date_oral_bfb5784d:
-    "Одри кричит, и я чувствую, как ее рука хватает мой член."
+    "Одри кричит, и я чувствую, как её рука хватает мой член."
 
 # ch/audrey/fuck.rpy:964
 translate russian audrey_fuck_date_oral_7ae1850a:
-    "Она начинает двигать им, пока я еще больше проникаю внутрь."
+    "Она начинает двигать им, пока я ещё больше проникаю внутрь."
 
 # ch/audrey/fuck.rpy:965
 translate russian audrey_fuck_date_oral_17e5aa74:
-    "Кажется, что ее рука движется в такт с моим языком."
+    "Кажется, что её рука движется в такт с моим языком."
 
 # ch/audrey/fuck.rpy:967
 translate russian audrey_fuck_date_oral_76c09032:
@@ -18802,7 +18802,7 @@ translate russian audrey_fuck_date_oral_dfe0f9f4:
 
 # ch/audrey/fuck.rpy:985
 translate russian audrey_fuck_date_oral_5cb4780e:
-    "И это не только так, но и заставляет меня прикладывать еще больше усилий."
+    "И это не только так, но и заставляет меня прикладывать ещё больше усилий."
 
 # ch/audrey/fuck.rpy:986
 translate russian audrey_fuck_date_oral_08ab7198:
@@ -18810,7 +18810,7 @@ translate russian audrey_fuck_date_oral_08ab7198:
 
 # ch/audrey/fuck.rpy:988
 translate russian audrey_fuck_date_oral_3c05019d:
-    "В свою очередь, ее стоны удовольствия становятся все более интенсивными, и она двигает моим членом быстрее."
+    "В свою очередь, её стоны удовольствия становятся все более интенсивными, и она двигает моим членом быстрее."
 
 # ch/audrey/fuck.rpy:989
 translate russian audrey_fuck_date_oral_58ba276c:
@@ -18818,7 +18818,7 @@ translate russian audrey_fuck_date_oral_58ba276c:
 
 # ch/audrey/fuck.rpy:990
 translate russian audrey_fuck_date_oral_2834de25:
-    "Я лижу Одри еще глубже, она сжимает меня сильнее, из-за чего я лижу еще глубже, чем когда-либо."
+    "Я лижу Одри ещё глубже, она сжимает меня сильнее, из-за чего я лижу ещё глубже, чем когда-либо."
 
 # ch/audrey/fuck.rpy:991
 translate russian audrey_fuck_date_oral_63e45dd0:
@@ -18966,7 +18966,7 @@ translate russian audrey_fuck_date_missionary_e07739df:
 
 # ch/audrey/fuck.rpy:1049
 translate russian audrey_fuck_date_missionary_184bd4fe:
-    "Это означает, что когда я наконец-то разделся и забрался на кровать, мой член стал твердым, как камень."
+    "Это означает, что когда я наконец-то разделся и забрался на кровать, мой член стал твёрдым, как камень."
 
 # ch/audrey/fuck.rpy:1050
 translate russian audrey_fuck_date_missionary_77c89237:
@@ -18974,7 +18974,7 @@ translate russian audrey_fuck_date_missionary_77c89237:
 
 # ch/audrey/fuck.rpy:1051
 translate russian audrey_fuck_date_missionary_dff4e801:
-    "Она встречает меня буквально распростертыми объятиями, позволяя мне обнимать ее так сильно, как я захочу."
+    "Она встречает меня буквально распростертыми объятиями, позволяя мне обнимать её так сильно, как я захочу."
 
 # ch/audrey/fuck.rpy:1052
 translate russian audrey_fuck_date_missionary_6966344e:
@@ -19002,7 +19002,7 @@ translate russian audrey_fuck_date_missionary_5a9a301f:
 
 # ch/audrey/fuck.rpy:1060
 translate russian audrey_fuck_date_missionary_ef399281:
-    "Я целую ее жадно, чувствуя, будто по ее телу проходит электрический разряд."
+    "Я целую её жадно, чувствуя, будто по её телу проходит электрический разряд."
 
 # ch/audrey/fuck.rpy:1061
 translate russian audrey_fuck_date_missionary_be7d8989:
@@ -19018,15 +19018,15 @@ translate russian audrey_fuck_date_missionary_ba0b93eb:
 
 # ch/audrey/fuck.rpy:1064
 translate russian audrey_fuck_date_missionary_1472a110:
-    "Одри хочет, чтобы ее трахал."
+    "Одри хочет, чтобы её трахал."
 
 # ch/audrey/fuck.rpy:1065
 translate russian audrey_fuck_date_missionary_648ce9bd:
-    "И я хочу трахать ее."
+    "И я хочу трахать её."
 
 # ch/audrey/fuck.rpy:1066
 translate russian audrey_fuck_date_missionary_40615254:
-    "Все остальное – это просто ненужные усложнения."
+    "Всё остальное — это просто ненужные усложнения."
 
 # ch/audrey/fuck.rpy:1067
 translate russian audrey_fuck_date_missionary_9aa286fc:
@@ -19086,7 +19086,7 @@ translate russian audrey_fuck_date_missionary_b8bec404:
 
 # ch/audrey/fuck.rpy:1082
 translate russian audrey_fuck_date_missionary_1e215b63:
-    "Я буду внутри нее как можно скорее."
+    "Я буду внутри неё как можно скорее."
 
 # ch/audrey/fuck.rpy:1083
 translate russian audrey_fuck_date_missionary_23a2aa5b:
@@ -19098,11 +19098,11 @@ translate russian audrey_fuck_date_missionary_17018641:
 
 # ch/audrey/fuck.rpy:1089
 translate russian audrey_fuck_date_missionary_69a00e89:
-    "Я не садист, и я не пытаюсь \"разбить\" ее, как это делают с лошадью."
+    "Я не садист, и я не пытаюсь «разбить» её, как это делают с лошадью."
 
 # ch/audrey/fuck.rpy:1090
 translate russian audrey_fuck_date_missionary_0a0f6afa:
-    "Но есть часть меня, которая думает, что она заслуживает того, чтобы ее трахали в задницу."
+    "Но есть часть меня, которая думает, что она заслуживает того, чтобы её трахали в задницу."
 
 # ch/audrey/fuck.rpy:1091
 translate russian audrey_fuck_date_missionary_32fcd2af:
@@ -19130,7 +19130,7 @@ translate russian audrey_fuck_date_missionary_06bc90e3:
 
 # ch/audrey/fuck.rpy:1101
 translate russian audrey_fuck_date_missionary_3d661bdb:
-    "В то же время, ее ранее напряженные мышцы расслабляются."
+    "В то же время, её ранее напряжённые мышцы расслабляются."
 
 # ch/audrey/fuck.rpy:1103
 translate russian audrey_fuck_date_missionary_29aca4bc:
@@ -19138,11 +19138,11 @@ translate russian audrey_fuck_date_missionary_29aca4bc:
 
 # ch/audrey/fuck.rpy:1104
 translate russian audrey_fuck_date_missionary_94baf1aa:
-    "Кажется, Одри полностью отдается мне, откидываясь на спинку кровати, глаза закатываются."
+    "Кажется, Одри полностью отдаётся мне, откидываясь на спинку кровати, глаза закатываются."
 
 # ch/audrey/fuck.rpy:1105
 translate russian audrey_fuck_date_missionary_8bd89a45:
-    "Ее подбородок откинут назад, обнажая шею."
+    "Её подбородок откинут назад, обнажая шею."
 
 # ch/audrey/fuck.rpy:1110
 translate russian audrey_fuck_date_missionary_8070fbe8:
@@ -19150,7 +19150,7 @@ translate russian audrey_fuck_date_missionary_8070fbe8:
 
 # ch/audrey/fuck.rpy:1111
 translate russian audrey_fuck_date_missionary_f6b675d4:
-    "Осторожно я тянусь обеими руками и кладу их вокруг ее шеи."
+    "Осторожно я тянусь обеими руками и кладу их вокруг её шеи."
 
 # ch/audrey/fuck.rpy:1112
 translate russian audrey_fuck_date_missionary_a7ff5ce8:
@@ -19158,7 +19158,7 @@ translate russian audrey_fuck_date_missionary_a7ff5ce8:
 
 # ch/audrey/fuck.rpy:1113
 translate russian audrey_fuck_date_missionary_cc3c5f11:
-    "Ее глаза не открываются, но она кивает головой настолько, что я это замечаю."
+    "Её глаза не открываются, но она кивает головой настолько, что я это замечаю."
 
 # ch/audrey/fuck.rpy:1117
 translate russian audrey_fuck_date_missionary_5a3f5018:
@@ -19166,11 +19166,11 @@ translate russian audrey_fuck_date_missionary_5a3f5018:
 
 # ch/audrey/fuck.rpy:1119
 translate russian audrey_fuck_date_missionary_2bd8d706:
-    "Сохраняя ритм моих движений, когда мой член входит в ее задницу, я усиливаю хватку на ее шее."
+    "Сохраняя ритм моих движений, когда мой член входит в её задницу, я усиливаю хватку на её шее."
 
 # ch/audrey/fuck.rpy:1120
 translate russian audrey_fuck_date_missionary_67f0cdab:
-    "Я думаю, лучше постепенно наращивать давление, а не сразу душить ее."
+    "Я думаю, лучше постепенно наращивать давление, а не сразу душить её."
 
 # ch/audrey/fuck.rpy:1121
 translate russian audrey_fuck_date_missionary_bb027ef5:
@@ -19178,19 +19178,19 @@ translate russian audrey_fuck_date_missionary_bb027ef5:
 
 # ch/audrey/fuck.rpy:1122
 translate russian audrey_fuck_date_missionary_060c7333:
-    "Вскоре щеки Одри начинают краснеть, и она издает тихие, прерывистые звуки."
+    "Вскоре щеки Одри начинают краснеть, и она издаёт тихие, прерывистые звуки."
 
 # ch/audrey/fuck.rpy:1123
 translate russian audrey_fuck_date_missionary_c19b5db3:
-    "Они постоянно усиливаются, когда я оказываю на нее больше давления и одновременно бью ее по заднице."
+    "Они постоянно усиливаются, когда я оказываю на неё больше давления и одновременно бью её по заднице."
 
 # ch/audrey/fuck.rpy:1124
 translate russian audrey_fuck_date_missionary_996aaec4:
-    "Я чувствую, как ее тело дрожит от того, что я делаю."
+    "Я чувствую, как её тело дрожит от того, что я делаю."
 
 # ch/audrey/fuck.rpy:1125
 translate russian audrey_fuck_date_missionary_f6bf9e1e:
-    "И хотя я никогда не думал, что признаюсь в этом – видеть ее реакцию меня возбуждает!"
+    "И хотя я никогда не думал, что признаюсь в этом — видеть её реакцию меня возбуждает!"
 
 # ch/audrey/fuck.rpy:1126
 translate russian audrey_fuck_date_missionary_82cea7f6:
@@ -19202,15 +19202,15 @@ translate russian audrey_fuck_date_missionary_e14d6b87:
 
 # ch/audrey/fuck.rpy:1129
 translate russian audrey_fuck_date_missionary_70f21bf9:
-    "И я отвечаю на это, ускоряя темп и продолжая бить ее по заднице."
+    "И я отвечаю на это, ускоряя темп и продолжая бить её по заднице."
 
 # ch/audrey/fuck.rpy:1130
 translate russian audrey_fuck_date_missionary_e707b152:
-    "Ее тело принимает всю силу каждого движения."
+    "Её тело принимает всю силу каждого движения."
 
 # ch/audrey/fuck.rpy:1131
 translate russian audrey_fuck_date_missionary_45f2a2c8:
-    "И я наблюдаю, как ее груди подпрыгивают в такт, соски болезненно напряжены."
+    "И я наблюдаю, как её груди подпрыгивают в такт, соски болезненно напряжены."
 
 # ch/audrey/fuck.rpy:1132
 translate russian audrey_fuck_date_missionary_15355858:
@@ -19218,11 +19218,11 @@ translate russian audrey_fuck_date_missionary_15355858:
 
 # ch/audrey/fuck.rpy:1134
 translate russian audrey_fuck_date_missionary_c7824b2d:
-    "Не из какого-либо жестокого чувства мести или потребности унизить ее."
+    "Не из какого-либо жестокого чувства мести или потребности унизить её."
 
 # ch/audrey/fuck.rpy:1135
 translate russian audrey_fuck_date_missionary_620e55af:
-    "А скорее от осознания того, что она не такая уж и \"высшая\" раса, как пытается казаться."
+    "А скорее от осознания того, что она не такая уж и «высшая» раса, как пытается казаться."
 
 # ch/audrey/fuck.rpy:1136
 translate russian audrey_fuck_date_missionary_e8c46755:
@@ -19230,7 +19230,7 @@ translate russian audrey_fuck_date_missionary_e8c46755:
 
 # ch/audrey/fuck.rpy:1137
 translate russian audrey_fuck_date_missionary_fe43d46f:
-    "И похоже, что результат – это то, что ее основательно трахает кто-то, кого она сама спровоцировала."
+    "И похоже, что результат — это то, что её основательно трахает кто-то, кого она сама спровоцировала."
 
 # ch/audrey/fuck.rpy:1138
 translate russian audrey_fuck_date_missionary_72442e44:
@@ -19242,15 +19242,15 @@ translate russian audrey_fuck_date_missionary_521a6aca:
 
 # ch/audrey/fuck.rpy:1140
 translate russian audrey_fuck_date_missionary_81335c4b:
-    "Вместо этого, обо всем, о чем я могу думать, это ощущение моего члена в ее заднице."
+    "Вместо этого, обо всём, о чём я могу думать, это ощущение моего члена в её заднице."
 
 # ch/audrey/fuck.rpy:1141
 translate russian audrey_fuck_date_missionary_6ca9d511:
-    "И это, и то, как она принимает все, что я готов ей дать."
+    "И это, и то, как она принимает всё, что я готов ей дать."
 
 # ch/audrey/fuck.rpy:1142
 translate russian audrey_fuck_date_missionary_4fdc2090:
-    "Мои мысли сейчас очень сумбурны, но каким-то образом я все равно понимаю, что произойдет дальше."
+    "Мои мысли сейчас очень сумбурны, но каким-то образом я всё равно понимаю, что произойдёт дальше."
 
 # ch/audrey/fuck.rpy:1143
 translate russian audrey_fuck_date_missionary_263feafd:
@@ -19262,7 +19262,7 @@ translate russian audrey_fuck_date_missionary_7f8d742c:
 
 # ch/audrey/fuck.rpy:1147
 translate russian audrey_fuck_date_missionary_715f3796:
-    "Мой член настолько глубоко у нее внутри, что я не уверен, смогу ли я его вытащить обратно."
+    "Мой член настолько глубоко у неё внутри, что я не уверен, смогу ли я его вытащить обратно."
 
 # ch/audrey/fuck.rpy:1152
 translate russian audrey_fuck_date_missionary_67253501:
@@ -19270,19 +19270,19 @@ translate russian audrey_fuck_date_missionary_67253501:
 
 # ch/audrey/fuck.rpy:1154
 translate russian audrey_fuck_date_missionary_4b388e94:
-    "Одри дергается и крутится, и я надеюсь, что это признак удовольствия от того, что она получает."
+    "Одри дёргается и крутится, и я надеюсь, что это признак удовольствия от того, что она получает."
 
 # ch/audrey/fuck.rpy:1156
 translate russian audrey_fuck_date_missionary_1ea8b598:
-    "И я остаюсь у нее внутри до тех пор, пока этот момент не пройдет, и мой член снова станет вялым."
+    "И я остаюсь у неё внутри до тех пор, пока этот момент не пройдёт, и мой член снова станет вялым."
 
 # ch/audrey/fuck.rpy:1161
 translate russian audrey_fuck_date_missionary_2217f8e1:
-    "Назовите меня жестоким, но я хочу добавить еще немного унижения к тому, чего я уже добился."
+    "Назовите меня жестоким, но я хочу добавить ещё немного унижения к тому, чего я уже добился."
 
 # ch/audrey/fuck.rpy:1162
 translate russian audrey_fuck_date_missionary_d93bd5d3:
-    "Поэтому я кладу руки на бедра Одри и вытаскиваю свой член из ее ануса."
+    "Поэтому я кладу руки на бедра Одри и вытаскиваю свой член из её ануса."
 
 # ch/audrey/fuck.rpy:1167
 translate russian audrey_fuck_date_missionary_dd0e233f:
@@ -19290,11 +19290,11 @@ translate russian audrey_fuck_date_missionary_dd0e233f:
 
 # ch/audrey/fuck.rpy:1171
 translate russian audrey_fuck_date_missionary_6edd3771:
-    "Практически сразу после того, как он освобождается, мой член подпрыгивает вверх и переваливается через ее живот."
+    "Практически сразу после того, как он освобождается, мой член подпрыгивает вверх и переваливается через её живот."
 
 # ch/audrey/fuck.rpy:1174
 translate russian audrey_fuck_date_missionary_dbf984c3:
-    "Потоки горячей спермы мгновенно разлетаются по изогнутому животу Одри и вверх к ее груди."
+    "Потоки горячей спермы мгновенно разлетаются по изогнутому животу Одри и вверх к её груди."
 
 # ch/audrey/fuck.rpy:1176
 translate russian audrey_fuck_date_missionary_521397f3:
@@ -19306,11 +19306,11 @@ translate russian audrey_fuck_date_missionary_d3a14d9a:
 
 # ch/audrey/fuck.rpy:1183
 translate russian audrey_fuck_date_missionary_2becd251:
-    "Я не колеблюсь прижать головку своего члена к ее влагалищу."
+    "Я не колеблюсь прижать головку своего члена к её влагалищу."
 
 # ch/audrey/fuck.rpy:1185
 translate russian audrey_fuck_date_missionary_75cd8909:
-    "Она издает звук, выражающий одобрение моих усилий, давая мне понять, что она готова и желает этого."
+    "Она издаёт звук, выражающий одобрение моих усилий, давая мне понять, что она готова и желает этого."
 
 # ch/audrey/fuck.rpy:1186
 translate russian audrey_fuck_date_missionary_840bc602:
@@ -19330,7 +19330,7 @@ translate russian audrey_fuck_date_missionary_7106830e:
 
 # ch/audrey/fuck.rpy:1202
 translate russian audrey_fuck_date_missionary_4217251a:
-    "После всех этих уговоров, наконец-то прикоснуться к ней – это такое удовлетворение."
+    "После всех этих уговоров, наконец-то прикоснуться к ней — это такое удовлетворение."
 
 # ch/audrey/fuck.rpy:1203
 translate russian audrey_fuck_date_missionary_92a2ea3b:
@@ -19338,11 +19338,11 @@ translate russian audrey_fuck_date_missionary_92a2ea3b:
 
 # ch/audrey/fuck.rpy:1204
 translate russian audrey_fuck_date_missionary_7cafefde:
-    "Она откидывается на подушки, пока я проникаю в нее настолько глубоко, насколько могу."
+    "Она откидывается на подушки, пока я проникаю в неё настолько глубоко, насколько могу."
 
 # ch/audrey/fuck.rpy:1206
 translate russian audrey_fuck_date_missionary_e664e040:
-    "И наконец, ее колкие слова сменяются глубокими стонами чистого наслаждения."
+    "И наконец, её колкие слова сменяются глубокими стонами чистого наслаждения."
 
 # ch/audrey/fuck.rpy:1209
 translate russian audrey_fuck_date_missionary_237e1aa2:
@@ -19426,11 +19426,11 @@ translate russian audrey_fuck_date_missionary_8627857f:
 
 # ch/audrey/fuck.rpy:1241
 translate russian audrey_fuck_date_missionary_94baf1aa_1:
-    "Кажется, Одри полностью отдается мне, откидываясь на спинку кровати, глаза закатываются."
+    "Кажется, Одри полностью отдаётся мне, откидываясь на спинку кровати, глаза закатываются."
 
 # ch/audrey/fuck.rpy:1242
 translate russian audrey_fuck_date_missionary_8bd89a45_1:
-    "Ее подбородок откинут назад, обнажая шею."
+    "Её подбородок откинут назад, обнажая шею."
 
 # ch/audrey/fuck.rpy:1247
 translate russian audrey_fuck_date_missionary_8070fbe8_1:
@@ -19438,7 +19438,7 @@ translate russian audrey_fuck_date_missionary_8070fbe8_1:
 
 # ch/audrey/fuck.rpy:1248
 translate russian audrey_fuck_date_missionary_f6b675d4_1:
-    "Осторожно я тянусь обеими руками и кладу их вокруг ее шеи."
+    "Осторожно я тянусь обеими руками и кладу их вокруг её шеи."
 
 # ch/audrey/fuck.rpy:1249
 translate russian audrey_fuck_date_missionary_a7ff5ce8_1:
@@ -19446,7 +19446,7 @@ translate russian audrey_fuck_date_missionary_a7ff5ce8_1:
 
 # ch/audrey/fuck.rpy:1250
 translate russian audrey_fuck_date_missionary_cc3c5f11_1:
-    "Ее глаза не открываются, но она кивает головой настолько, что я это замечаю."
+    "Её глаза не открываются, но она кивает головой настолько, что я это замечаю."
 
 # ch/audrey/fuck.rpy:1252
 translate russian audrey_fuck_date_missionary_5a3f5018_1:
@@ -19454,11 +19454,11 @@ translate russian audrey_fuck_date_missionary_5a3f5018_1:
 
 # ch/audrey/fuck.rpy:1254
 translate russian audrey_fuck_date_missionary_c8bff42b:
-    "Я продолжаю двигаться, вталкивая свой член в ее влагалище, и сильнее сжимаю ее шею."
+    "Я продолжаю двигаться, вталкивая свой член в её влагалище, и сильнее сжимаю её шею."
 
 # ch/audrey/fuck.rpy:1255
 translate russian audrey_fuck_date_missionary_67f0cdab_1:
-    "Я думаю, лучше постепенно наращивать давление, а не сразу душить ее."
+    "Я думаю, лучше постепенно наращивать давление, а не сразу душить её."
 
 # ch/audrey/fuck.rpy:1256
 translate russian audrey_fuck_date_missionary_bb027ef5_1:
@@ -19466,7 +19466,7 @@ translate russian audrey_fuck_date_missionary_bb027ef5_1:
 
 # ch/audrey/fuck.rpy:1257
 translate russian audrey_fuck_date_missionary_060c7333_1:
-    "Вскоре щеки Одри начинают краснеть, и она издает тихие, прерывистые звуки."
+    "Вскоре щеки Одри начинают краснеть, и она издаёт тихие, прерывистые звуки."
 
 # ch/audrey/fuck.rpy:1258
 translate russian audrey_fuck_date_missionary_3b5327e3:
@@ -19474,11 +19474,11 @@ translate russian audrey_fuck_date_missionary_3b5327e3:
 
 # ch/audrey/fuck.rpy:1259
 translate russian audrey_fuck_date_missionary_996aaec4_1:
-    "Я чувствую, как ее тело дрожит от того, что я делаю."
+    "Я чувствую, как её тело дрожит от того, что я делаю."
 
 # ch/audrey/fuck.rpy:1260
 translate russian audrey_fuck_date_missionary_f6bf9e1e_1:
-    "И хотя я никогда не думал, что признаюсь в этом – видеть ее реакцию меня возбуждает!"
+    "И хотя я никогда не думал, что признаюсь в этом — видеть её реакцию меня возбуждает!"
 
 # ch/audrey/fuck.rpy:1261
 translate russian audrey_fuck_date_missionary_82cea7f6_1:
@@ -19494,11 +19494,11 @@ translate russian audrey_fuck_date_missionary_6bbee044:
 
 # ch/audrey/fuck.rpy:1267
 translate russian audrey_fuck_date_missionary_e707b152_1:
-    "Ее тело принимает всю силу каждого движения."
+    "Её тело принимает всю силу каждого движения."
 
 # ch/audrey/fuck.rpy:1268
 translate russian audrey_fuck_date_missionary_45f2a2c8_1:
-    "И я наблюдаю, как ее груди подпрыгивают в такт, соски болезненно напряжены."
+    "И я наблюдаю, как её груди подпрыгивают в такт, соски болезненно напряжены."
 
 # ch/audrey/fuck.rpy:1269
 translate russian audrey_fuck_date_missionary_15355858_1:
@@ -19506,11 +19506,11 @@ translate russian audrey_fuck_date_missionary_15355858_1:
 
 # ch/audrey/fuck.rpy:1270
 translate russian audrey_fuck_date_missionary_c7824b2d_1:
-    "Не из какого-либо жестокого чувства мести или потребности унизить ее."
+    "Не из какого-либо жестокого чувства мести или потребности унизить её."
 
 # ch/audrey/fuck.rpy:1273
 translate russian audrey_fuck_date_missionary_620e55af_1:
-    "А скорее от осознания того, что она не такая уж и \"высшая\" раса, как пытается казаться."
+    "А скорее от осознания того, что она не такая уж и «высшая» раса, как пытается казаться."
 
 # ch/audrey/fuck.rpy:1274
 translate russian audrey_fuck_date_missionary_e8c46755_1:
@@ -19518,7 +19518,7 @@ translate russian audrey_fuck_date_missionary_e8c46755_1:
 
 # ch/audrey/fuck.rpy:1275
 translate russian audrey_fuck_date_missionary_fe43d46f_1:
-    "И похоже, что результат – это то, что ее основательно трахает кто-то, кого она сама спровоцировала."
+    "И похоже, что результат — это то, что её основательно трахает кто-то, кого она сама спровоцировала."
 
 # ch/audrey/fuck.rpy:1276
 translate russian audrey_fuck_date_missionary_72442e44_1:
@@ -19534,11 +19534,11 @@ translate russian audrey_fuck_date_missionary_0c70810b:
 
 # ch/audrey/fuck.rpy:1279
 translate russian audrey_fuck_date_missionary_6ca9d511_1:
-    "И это, и то, как она принимает все, что я готов ей дать."
+    "И это, и то, как она принимает всё, что я готов ей дать."
 
 # ch/audrey/fuck.rpy:1280
 translate russian audrey_fuck_date_missionary_3761f998:
-    "И не пройдет много времени, прежде чем я это сделаю!"
+    "И не пройдёт много времени, прежде чем я это сделаю!"
 
 # ch/audrey/fuck.rpy:1281
 translate russian audrey_fuck_date_missionary_ac913df3:
@@ -19562,7 +19562,7 @@ translate russian audrey_fuck_date_missionary_80fca90e:
 
 # ch/audrey/fuck.rpy:1294
 translate russian audrey_fuck_date_missionary_ce58df41:
-    "И всё, что я могу сделать, это опуститься сверху на неё, будучи таким же измотанным и опустошенным."
+    "И всё, что я могу сделать, это опуститься сверху на неё, будучи таким же измотанным и опустошённым."
 
 # ch/audrey/fuck.rpy:1296
 translate russian audrey_fuck_date_missionary_9a599169:
@@ -19582,11 +19582,11 @@ translate russian audrey_fuck_date_missionary_9bcd85ac:
 
 # ch/audrey/fuck.rpy:1307
 translate russian audrey_fuck_date_missionary_433ea06d:
-    "Одри издает звук, полный чувственности и некоторой досады."
+    "Одри издаёт звук, полный чувственности и некоторой досады."
 
 # ch/audrey/fuck.rpy:1314
 translate russian audrey_fuck_date_missionary_433ea06d_1:
-    "Одри издает звук, полный чувственности и некоторой досады."
+    "Одри издаёт звук, полный чувственности и некоторой досады."
 
 # ch/audrey/fuck.rpy:1317
 translate russian audrey_fuck_date_missionary_5b7abb7f:
@@ -19614,15 +19614,15 @@ translate russian audrey_fuck_date_missionary_4963500b:
 
 # ch/audrey/fuck.rpy:1331
 translate russian audrey_fuck_date_missionary_e4e6be76:
-    "К тому моменту, как ее слова дошли до меня, она уже точно знала, чего хочет."
+    "К тому моменту, как её слова дошли до меня, она уже точно знала, чего хочет."
 
 # ch/audrey/fuck.rpy:1337
 translate russian audrey_fuck_date_missionary_d159acaf:
-    "Я полностью погружаюсь в Одри, заполняя ее собой."
+    "Я полностью погружаюсь в Одри, заполняя её собой."
 
 # ch/audrey/fuck.rpy:1339
 translate russian audrey_fuck_date_missionary_1794bc21:
-    "Она катается на мне до конца, выжимая из моего теперь уже безжизненного члена все, что может."
+    "Она катается на мне до конца, выжимая из моего теперь уже безжизненного члена всё, что может."
 
 # ch/audrey/fuck.rpy:1341
 translate russian audrey_fuck_date_missionary_e1024a3f:
@@ -19638,11 +19638,11 @@ translate russian audrey_fuck_date_missionary_3d080f88:
 
 # ch/audrey/fuck.rpy:1348
 translate russian audrey_fuck_date_missionary_d3e880fb:
-    "Это сейчас так же хорошо, как и тогда, когда я заставил ее забеременеть!"
+    "Это сейчас так же хорошо, как и тогда, когда я заставил её забеременеть!"
 
 # ch/audrey/fuck.rpy:1355
 translate russian audrey_fuck_date_missionary_02c29523:
-    audrey.say "Черт...черт!"
+    audrey.say "Чёрт...чёрт!"
 
 # ch/audrey/fuck.rpy:1356
 translate russian audrey_fuck_date_missionary_d6ebbe2b:
@@ -19662,11 +19662,11 @@ translate russian audrey_fuck_date_missionary_2c7344e0:
 
 # ch/audrey/fuck.rpy:1361
 translate russian audrey_fuck_date_missionary_91694bda:
-    "Мы смотрим друг на друга, широко раскрыв глаза, осознавая всю серьезность того, что только что произошло."
+    "Мы смотрим друг на друга, широко раскрыв глаза, осознавая всю серьёзность того, что только что произошло."
 
 # ch/audrey/fuck.rpy:1363
 translate russian audrey_fuck_date_missionary_d441a0af:
-    "Вспомнив, что я не надел презерватив, я пытаюсь выдернуть член, пока еще не поздно."
+    "Вспомнив, что я не надел презерватив, я пытаюсь выдернуть член, пока ещё не поздно."
 
 # ch/audrey/fuck.rpy:1364
 translate russian audrey_fuck_date_missionary_1aa01abe:
@@ -19674,7 +19674,7 @@ translate russian audrey_fuck_date_missionary_1aa01abe:
 
 # ch/audrey/fuck.rpy:1365
 translate russian audrey_fuck_date_missionary_82a7b8d0:
-    mike.say "Что за черт..."
+    mike.say "Что за чёрт..."
 
 # ch/audrey/fuck.rpy:1366
 translate russian audrey_fuck_date_missionary_08fd22b9:
@@ -19694,11 +19694,11 @@ translate russian audrey_fuck_date_missionary_27481c23:
 
 # ch/audrey/fuck.rpy:1376
 translate russian audrey_fuck_date_missionary_dfcce919:
-    "Через мгновение ее желание исполняется."
+    "Через мгновение её желание исполняется."
 
 # ch/audrey/fuck.rpy:1378
 translate russian audrey_fuck_date_missionary_669b1570:
-    "И выражение счастья на ее лице – это чистейший восторг."
+    "И выражение счастья на её лице — это чистейший восторг."
 
 # ch/audrey/fuck.rpy:1386
 translate russian audrey_fuck_date_spoon_0cbef987:
@@ -19706,7 +19706,7 @@ translate russian audrey_fuck_date_spoon_0cbef987:
 
 # ch/audrey/fuck.rpy:1387
 translate russian audrey_fuck_date_spoon_4605f808:
-    audrey.say "Почему ты все еще одет? Это выглядит довольно односторонне."
+    audrey.say "Почему ты всё ещё одет? Это выглядит довольно односторонне."
 
 # ch/audrey/fuck.rpy:1388
 translate russian audrey_fuck_date_spoon_355cd3df:
@@ -19718,7 +19718,7 @@ translate russian audrey_fuck_date_spoon_a841395b:
 
 # ch/audrey/fuck.rpy:1390
 translate russian audrey_fuck_date_spoon_8b88bcb8:
-    "Она кладет руки на мои бедра, а затем медленно поднимает их вверх по моей рубашке, пока не снимает ее с головы."
+    "Она кладёт руки на мои бедра, а затем медленно поднимает их вверх по моей рубашке, пока не снимает её с головы."
 
 # ch/audrey/fuck.rpy:1391
 translate russian audrey_fuck_date_spoon_4fd40d2c:
@@ -19726,7 +19726,7 @@ translate russian audrey_fuck_date_spoon_4fd40d2c:
 
 # ch/audrey/fuck.rpy:1392
 translate russian audrey_fuck_date_spoon_11cdbf93:
-    audrey.say "Ты отлично выглядишь, милый, спорт тебе пошел на пользу."
+    audrey.say "Ты отлично выглядишь, милый, спорт тебе пошёл на пользу."
 
 # ch/audrey/fuck.rpy:1393
 translate russian audrey_fuck_date_spoon_62a40f8f:
@@ -19746,11 +19746,11 @@ translate russian audrey_fuck_date_spoon_0ea45c81:
 
 # ch/audrey/fuck.rpy:1397
 translate russian audrey_fuck_date_spoon_d0d3246b:
-    "Этот комплимент заставляет меня еще больше захотеть продолжить."
+    "Этот комплимент заставляет меня ещё больше захотеть продолжить."
 
 # ch/audrey/fuck.rpy:1398
 translate russian audrey_fuck_date_spoon_d22afee5:
-    "Я снова хватаю ее и прижимаю обратно к кровати."
+    "Я снова хватаю её и прижимаю обратно к кровати."
 
 # ch/audrey/fuck.rpy:1399
 translate russian audrey_fuck_date_spoon_1acaca4a:
@@ -19758,7 +19758,7 @@ translate russian audrey_fuck_date_spoon_1acaca4a:
 
 # ch/audrey/fuck.rpy:1400
 translate russian audrey_fuck_date_spoon_6c5e1b8c:
-    "Как только ей это удается, я помогаю ей стянуть брюки вниз и снять их с моих ног."
+    "Как только ей это удаётся, я помогаю ей стянуть брюки вниз и снять их с моих ног."
 
 # ch/audrey/fuck.rpy:1401
 translate russian audrey_fuck_date_spoon_35ea29d6:
@@ -19806,7 +19806,7 @@ translate russian audrey_fuck_date_spoon_63cab3e6:
 
 # ch/audrey/fuck.rpy:1415
 translate russian audrey_fuck_date_spoon_90551546:
-    "Я продолжаю целовать ее, но пока ничего больше не делаю, потому что снова сомневаюсь."
+    "Я продолжаю целовать её, но пока ничего больше не делаю, потому что снова сомневаюсь."
 
 # ch/audrey/fuck.rpy:1416
 translate russian audrey_fuck_date_spoon_5f8d0b59:
@@ -19814,11 +19814,11 @@ translate russian audrey_fuck_date_spoon_5f8d0b59:
 
 # ch/audrey/fuck.rpy:1417
 translate russian audrey_fuck_date_spoon_b08c00c4:
-    "Она прижимается своими бедрами к моим и шепчет..."
+    "Она прижимается своими бёдрами к моим и шепчет..."
 
 # ch/audrey/fuck.rpy:1418
 translate russian audrey_fuck_date_spoon_f4165dd0:
-    audrey.say "Чего ты ждешь, трахни меня, идиот."
+    audrey.say "Чего ты ждёшь, трахни меня, идиот."
 
 # ch/audrey/fuck.rpy:1419
 translate russian audrey_fuck_date_spoon_e255e753:
@@ -19838,15 +19838,15 @@ translate russian audrey_fuck_date_spoon_4767d13f:
 
 # ch/audrey/fuck.rpy:1430
 translate russian audrey_fuck_date_spoon_dbfa3a47:
-    "Я прижимаю ее к кровати и залезаю сзади, моя рука ласкает ее грудь."
+    "Я прижимаю её к кровати и залезаю сзади, моя рука ласкает её грудь."
 
 # ch/audrey/fuck.rpy:1434
 translate russian audrey_fuck_date_spoon_961e5e7b:
-    "Я резко проникаю внутрь, и она издает крик."
+    "Я резко проникаю внутрь, и она издаёт крик."
 
 # ch/audrey/fuck.rpy:1436
 translate russian audrey_fuck_date_spoon_443a9cfa:
-    "Наконец-то, я понимаю, что именно заставляет ее кричать."
+    "Наконец-то, я понимаю, что именно заставляет её кричать."
 
 # ch/audrey/fuck.rpy:1437
 translate russian audrey_fuck_date_spoon_b2cc0c16:
@@ -19858,7 +19858,7 @@ translate russian audrey_fuck_date_spoon_a02c72ff:
 
 # ch/audrey/fuck.rpy:1440
 translate russian audrey_fuck_date_spoon_0e66e76f:
-    "В этой позиции я могу двигаться глубже и сильнее, ее рука начала тереть ее клитор."
+    "В этой позиции я могу двигаться глубже и сильнее, её рука начала тереть её клитор."
 
 # ch/audrey/fuck.rpy:1441
 translate russian audrey_fuck_date_spoon_1d0a4c3b:
@@ -19986,11 +19986,11 @@ translate russian audrey_fuck_date_spoon_23489d2a:
 
 # ch/audrey/fuck.rpy:1488
 translate russian audrey_fuck_date_spoon_6ec206a2:
-    "Моя рука поднимается от ее правой груди к ее шее, и я начинаю душить ее."
+    "Моя рука поднимается от её правой груди к её шее, и я начинаю душить её."
 
 # ch/audrey/fuck.rpy:1489
 translate russian audrey_fuck_date_spoon_8b8c1a66:
-    "Ее дыхание становится тяжелее, а стоны громче, когда я перекрываю ей доступ воздуха."
+    "Её дыхание становится тяжелее, а стоны громче, когда я перекрываю ей доступ воздуха."
 
 # ch/audrey/fuck.rpy:1490
 translate russian audrey_fuck_date_spoon_b511fa99:
@@ -20002,7 +20002,7 @@ translate russian audrey_fuck_date_spoon_234856b9:
 
 # ch/audrey/fuck.rpy:1494
 translate russian audrey_fuck_date_spoon_f0ebbe33:
-    "После этого моя рука возвращается к ее шее, не давая ей говорить, и я начинаю двигаться в ее влагалище еще сильнее."
+    "После этого моя рука возвращается к её шее, не давая ей говорить, и я начинаю двигаться в её влагалище ещё сильнее."
 
 # ch/audrey/fuck.rpy:1495
 translate russian audrey_fuck_date_spoon_18d2ca8e:
@@ -20050,11 +20050,11 @@ translate russian audrey_fuck_date_spoon_a6c32ae2:
 
 # ch/audrey/fuck.rpy:1506
 translate russian audrey_fuck_date_spoon_7cddd12e:
-    "Как раз когда я думаю, что вот-вот кончу, я поворачиваю ее обратно, чтобы видеть ее лицо, когда она достигнет оргазма."
+    "Как раз когда я думаю, что вот-вот кончу, я поворачиваю её обратно, чтобы видеть её лицо, когда она достигнет оргазма."
 
 # ch/audrey/fuck.rpy:1507
 translate russian audrey_fuck_date_spoon_a78d5f84:
-    "Я жду столько, сколько могу, и в тот момент, когда она изрыгает стон наслаждения, а я чувствую, как ее стенки сжимаются вокруг меня, я больше не могу это выдержать."
+    "Я жду столько, сколько могу, и в тот момент, когда она изрыгает стон наслаждения, а я чувствую, как её стенки сжимаются вокруг меня, я больше не могу это выдержать."
 
 # ch/audrey/fuck.rpy:1519
 translate russian audrey_fuck_date_spoon_eb5a8f98:
@@ -20078,7 +20078,7 @@ translate russian audrey_fuck_date_spoon_21980703:
 
 # ch/audrey/fuck.rpy:1559
 translate russian audrey_fuck_date_spoon_e6d242f3:
-    audrey.say "Нет - не внутрь, [lssb_audrey.hero_name()]!"
+    audrey.say "Нет — не внутрь, [lssb_audrey.hero_name()]!"
 
 # ch/audrey/fuck.rpy:1560
 translate russian audrey_fuck_date_spoon_500f14a8:
@@ -20110,7 +20110,7 @@ translate russian audrey_fuck_date_doggy_fd8b1cdb:
 
 # ch/audrey/fuck.rpy:1582
 translate russian audrey_fuck_date_doggy_b80d2fa0:
-    "Я чувствую ее пальцы, когда они смыкаются вокруг ствола моего члена."
+    "Я чувствую её пальцы, когда они смыкаются вокруг ствола моего члена."
 
 # ch/audrey/fuck.rpy:1583
 translate russian audrey_fuck_date_doggy_08d2d294:
@@ -20126,19 +20126,19 @@ translate russian audrey_fuck_date_doggy_8d15aaf2:
 
 # ch/audrey/fuck.rpy:1586
 translate russian audrey_fuck_date_doggy_69c505fc:
-    "Я хватаю Одри за плечи и переворачиваю ее так, чтобы она оказалась на животе."
+    "Я хватаю Одри за плечи и переворачиваю её так, чтобы она оказалась на животе."
 
 # ch/audrey/fuck.rpy:1587
 translate russian audrey_fuck_date_doggy_112698d2:
-    "Удивленная, она пытается выбраться из моей досягаемости."
+    "Удивлённая, она пытается выбраться из моей досягаемости."
 
 # ch/audrey/fuck.rpy:1588
 translate russian audrey_fuck_date_doggy_3af377c9:
-    "Но я успеваю до нее раньше, чем она сможет продвинуться более чем на пару сантиметров."
+    "Но я успеваю до неё раньше, чем она сможет продвинуться более чем на пару сантиметров."
 
 # ch/audrey/fuck.rpy:1593
 translate russian audrey_fuck_date_doggy_18b8b97a:
-    "Я хватаю ее волосы одной рукой, крепко обвивая их вокруг пальцев."
+    "Я хватаю её волосы одной рукой, крепко обвивая их вокруг пальцев."
 
 # ch/audrey/fuck.rpy:1594
 translate russian audrey_fuck_date_doggy_93c253aa:
@@ -20146,7 +20146,7 @@ translate russian audrey_fuck_date_doggy_93c253aa:
 
 # ch/audrey/fuck.rpy:1595
 translate russian audrey_fuck_date_doggy_66ed7c64:
-    "Я просто держусь, а все движение исходит от нее самой."
+    "Я просто держусь, а все движение исходит от неё самой."
 
 # ch/audrey/fuck.rpy:1596
 translate russian audrey_fuck_date_doggy_be5db2fa:
@@ -20154,11 +20154,11 @@ translate russian audrey_fuck_date_doggy_be5db2fa:
 
 # ch/audrey/fuck.rpy:1597
 translate russian audrey_fuck_date_doggy_ac11d698:
-    "Теперь, когда я контролирую ее, я тяну ее за волосы, чтобы подтолкнуть Одри на руки и колени."
+    "Теперь, когда я контролирую её, я тяну её за волосы, чтобы подтолкнуть Одри на руки и колени."
 
 # ch/audrey/fuck.rpy:1598
 translate russian audrey_fuck_date_doggy_1a22c74a:
-    "Она делает то, что ей говорят, без малейшего намека на неповиновение, бросая взгляд через плечо."
+    "Она делает то, что ей говорят, без малейшего намёка на неповиновение, бросая взгляд через плечо."
 
 # ch/audrey/fuck.rpy:1599
 translate russian audrey_fuck_date_doggy_bd60c8ae:
@@ -20166,11 +20166,11 @@ translate russian audrey_fuck_date_doggy_bd60c8ae:
 
 # ch/audrey/fuck.rpy:1600
 translate russian audrey_fuck_date_doggy_f0f7c976:
-    "Для нее такое наказание – это невероятный стимул."
+    "Для неё такое наказание — это невероятный стимул."
 
 # ch/audrey/fuck.rpy:1601
 translate russian audrey_fuck_date_doggy_9e3ff5b1:
-    "Но мне еще нужно к этому привыкнуть, пытаюсь понять, где проходят границы."
+    "Но мне ещё нужно к этому привыкнуть, пытаюсь понять, где проходят границы."
 
 # ch/audrey/fuck.rpy:1602
 translate russian audrey_fuck_date_doggy_5f35fa55:
@@ -20182,19 +20182,19 @@ translate russian audrey_fuck_date_doggy_191dbf1e:
 
 # ch/audrey/fuck.rpy:1604
 translate russian audrey_fuck_date_doggy_d23b9921:
-    "Единственный вопрос, который остается: где же она это получит..."
+    "Единственный вопрос, который остаётся: где же она это получит..."
 
 # ch/audrey/fuck.rpy:1607
 translate russian audrey_fuck_date_doggy_f4beb7bc:
-    "Все еще обдумывая, что делать дальше, я почти машинально хлопаю Одри по ягодицам."
+    "Всё ещё обдумывая, что делать дальше, я почти машинально хлопаю Одри по ягодицам."
 
 # ch/audrey/fuck.rpy:1608
 translate russian audrey_fuck_date_doggy_17a4d1b8:
-    "Это заставляет ее снова вскрикнуть и содрогнуться от предвкушения, так что ее задница начинает дрожать."
+    "Это заставляет её снова вскрикнуть и содрогнуться от предвкушения, так что её задница начинает дрожать."
 
 # ch/audrey/fuck.rpy:1609
 translate russian audrey_fuck_date_doggy_719e40f8:
-    "Тогда я замечаю ее анус, почти скрытый между этими округлыми щеками."
+    "Тогда я замечаю её анус, почти скрытый между этими округлыми щеками."
 
 # ch/audrey/fuck.rpy:1610
 translate russian audrey_fuck_date_doggy_53a9297e:
@@ -20258,7 +20258,7 @@ translate russian audrey_fuck_date_doggy_71236964:
 
 # ch/audrey/fuck.rpy:1633
 translate russian audrey_fuck_date_doggy_23c5e40c:
-    "Несомненно, слова Одри – это как музыка для моих ушей!"
+    "Несомненно, слова Одри — это как музыка для моих ушей!"
 
 # ch/audrey/fuck.rpy:1634
 translate russian audrey_fuck_date_doggy_4493a2df:
@@ -20266,7 +20266,7 @@ translate russian audrey_fuck_date_doggy_4493a2df:
 
 # ch/audrey/fuck.rpy:1635
 translate russian audrey_fuck_date_doggy_ec62299b:
-    "Может быть, это просто слова, сказанные во время близости, чтобы еще больше возбудить меня, чем я уже и так нахожусь."
+    "Может быть, это просто слова, сказанные во время близости, чтобы ещё больше возбудить меня, чем я уже и так нахожусь."
 
 # ch/audrey/fuck.rpy:1636
 translate russian audrey_fuck_date_doggy_52ce260e:
@@ -20278,15 +20278,15 @@ translate russian audrey_fuck_date_doggy_97801dcc:
 
 # ch/audrey/fuck.rpy:1640
 translate russian audrey_fuck_date_doggy_3df3ce74:
-    "Ее слова растворяются в новых стонах удовольствия."
+    "Её слова растворяются в новых стонах удовольствия."
 
 # ch/audrey/fuck.rpy:1641
 translate russian audrey_fuck_date_doggy_f0410412:
-    "И на этот раз ее глаза действительно закатываются обратно в голову."
+    "И на этот раз её глаза действительно закатываются обратно в голову."
 
 # ch/audrey/fuck.rpy:1642
 translate russian audrey_fuck_date_doggy_cc6dd18f:
-    "Но почти так же громко, как стоны Одри, звучит удар моей пахоти в ее ягодицы."
+    "Но почти так же громко, как стоны Одри, звучит удар моей пахоти в её ягодицы."
 
 # ch/audrey/fuck.rpy:1643
 translate russian audrey_fuck_date_doggy_665e9a88:
@@ -20294,43 +20294,43 @@ translate russian audrey_fuck_date_doggy_665e9a88:
 
 # ch/audrey/fuck.rpy:1646
 translate russian audrey_fuck_date_doggy_20b8c094:
-    "Поэтому очевидное решение – просто усилить то, что я сейчас делаю."
+    "Поэтому очевидное решение — просто усилить то, что я сейчас делаю."
 
 # ch/audrey/fuck.rpy:1647
 translate russian audrey_fuck_date_doggy_aa4dd43b:
-    "Я продолжаю двигаться как можно глубже в Одри, заставляя ее дрожать от каждого движения."
+    "Я продолжаю двигаться как можно глубже в Одри, заставляя её дрожать от каждого движения."
 
 # ch/audrey/fuck.rpy:1648
 translate russian audrey_fuck_date_doggy_c6a0d9fa:
-    "Уже сейчас я чувствую, как ее руки и ноги начинают трястись, словно она достигает пределов своей выносливости."
+    "Уже сейчас я чувствую, как её руки и ноги начинают трястись, словно она достигает пределов своей выносливости."
 
 # ch/audrey/fuck.rpy:1653
 translate russian audrey_fuck_date_doggy_00112bd6:
-    "Ее стоны превратились в прерывистое дыхание, почти идеально синхронизированное с моими движениями."
+    "Её стоны превратились в прерывистое дыхание, почти идеально синхронизированное с моими движениями."
 
 # ch/audrey/fuck.rpy:1655
 translate russian audrey_fuck_date_doggy_d75b3ac4:
-    "И вот, когда я наконец теряю себя внутри ее ануса и останавливаюсь, она продолжает двигаться так же."
+    "И вот, когда я наконец теряю себя внутри её ануса и останавливаюсь, она продолжает двигаться так же."
 
 # ch/audrey/fuck.rpy:1657
 translate russian audrey_fuck_date_doggy_52b14d71:
-    "Я наблюдаю, как Одри двигается на моем члене, продолжая до тех пор, пока ее выносливость не иссякнет."
+    "Я наблюдаю, как Одри двигается на моём члене, продолжая до тех пор, пока её выносливость не иссякнет."
 
 # ch/audrey/fuck.rpy:1658
 translate russian audrey_fuck_date_doggy_61ce9ac2:
-    "Затем ее голова падает на кровать, и она сминается в потный комок поверх постельного белья."
+    "Затем её голова падает на кровать, и она сминается в потный комок поверх постельного белья."
 
 # ch/audrey/fuck.rpy:1660
 translate russian audrey_fuck_date_doggy_0bbf271b:
-    "Я мог бы продолжать двигаться с ее ягодицами до самого конца."
+    "Я мог бы продолжать двигаться с её ягодицами до самого конца."
 
 # ch/audrey/fuck.rpy:1661
 translate russian audrey_fuck_date_doggy_3c13448e:
-    "Но мне кажется, ей нужно что-то еще, чтобы это было действительно идеально."
+    "Но мне кажется, ей нужно что-то ещё, чтобы это было действительно идеально."
 
 # ch/audrey/fuck.rpy:1665
 translate russian audrey_fuck_date_doggy_54f06ab3:
-    "И вот я вытаскиваю свой член из нее, прямо перед тем, как наконец-то кончить."
+    "И вот я вытаскиваю свой член из неё, прямо перед тем, как наконец-то кончить."
 
 # ch/audrey/fuck.rpy:1668
 translate russian audrey_fuck_date_doggy_7c22ef2e:
@@ -20338,7 +20338,7 @@ translate russian audrey_fuck_date_doggy_7c22ef2e:
 
 # ch/audrey/fuck.rpy:1670
 translate russian audrey_fuck_date_doggy_58ef578d:
-    "Затем она вздрагивает от неожиданности, когда теплая, липкая сперма брызгает на ее спину."
+    "Затем она вздрагивает от неожиданности, когда тёплая, липкая сперма брызгает на её спину."
 
 # ch/audrey/fuck.rpy:1672
 translate russian audrey_fuck_date_doggy_15b45a22:
@@ -20346,15 +20346,15 @@ translate russian audrey_fuck_date_doggy_15b45a22:
 
 # ch/audrey/fuck.rpy:1673
 translate russian audrey_fuck_date_doggy_c5999d18:
-    "Последние капли спермы стекают на нее, пока она не сжимается в мокрый комок прямо на простынях."
+    "Последние капли спермы стекают на неё, пока она не сжимается в мокрый комок прямо на простынях."
 
 # ch/audrey/fuck.rpy:1676
 translate russian audrey_fuck_date_doggy_995db20c:
-    "Внезапно мои мысли возвращаются к тому, как Одри пыталась подвести мой член в ее влагалище."
+    "Внезапно мои мысли возвращаются к тому, как Одри пыталась подвести мой член в её влагалище."
 
 # ch/audrey/fuck.rpy:1682
 translate russian audrey_fuck_date_doggy_40dfd46e:
-    "Убедившись, что мой член находится под правильным углом, я осторожно, но твердо дергаю ее за волосы."
+    "Убедившись, что мой член находится под правильным углом, я осторожно, но твёрдо дёргаю её за волосы."
 
 # ch/audrey/fuck.rpy:1683
 translate russian audrey_fuck_date_doggy_c9bb58c8:
@@ -20362,11 +20362,11 @@ translate russian audrey_fuck_date_doggy_c9bb58c8:
 
 # ch/audrey/fuck.rpy:1684
 translate russian audrey_fuck_date_doggy_16fb8f1a:
-    "Она останавливается только тогда, когда ее движение неизбежно приводит к тому, что головка моего члена бьет ее по ягодицам."
+    "Она останавливается только тогда, когда её движение неизбежно приводит к тому, что головка моего члена бьёт её по ягодицам."
 
 # ch/audrey/fuck.rpy:1685
 translate russian audrey_fuck_date_doggy_f58b4d92:
-    "Но, похоже, одного такого движения достаточно, чтобы Одри поняла, чего от нее ожидают дальше."
+    "Но, похоже, одного такого движения достаточно, чтобы Одри поняла, чего от неё ожидают дальше."
 
 # ch/audrey/fuck.rpy:1686
 translate russian audrey_fuck_date_doggy_5180fd84:
@@ -20374,11 +20374,11 @@ translate russian audrey_fuck_date_doggy_5180fd84:
 
 # ch/audrey/fuck.rpy:1688
 translate russian audrey_fuck_date_doggy_0d949b7f:
-    "Это движение раздвигает ее ягодицы и позволяет моему члену начать двигаться между ними."
+    "Это движение раздвигает её ягодицы и позволяет моему члену начать двигаться между ними."
 
 # ch/audrey/fuck.rpy:1689
 translate russian audrey_fuck_date_doggy_dc3ba8c1:
-    "Одри слышно вздыхает, когда головка трется о слизистую ее влагалища, уже готовая проскользнуть внутрь."
+    "Одри слышно вздыхает, когда головка трётся о слизистую её влагалища, уже готовая проскользнуть внутрь."
 
 # ch/audrey/fuck.rpy:1693
 translate russian audrey_fuck_date_doggy_0d67b568:
@@ -20386,15 +20386,15 @@ translate russian audrey_fuck_date_doggy_0d67b568:
 
 # ch/audrey/fuck.rpy:1697
 translate russian audrey_fuck_date_doggy_0bab396c:
-    "Одри испуганно взвизгивает, когда я резко притягиваю ее к себе на свой член."
+    "Одри испуганно взвизгивает, когда я резко притягиваю её к себе на свой член."
 
 # ch/audrey/fuck.rpy:1698
 translate russian audrey_fuck_date_doggy_1e13b6a4:
-    "Она более чем готова ко всему, что я могу ей предложить, и ее предвкушение об этом убеждает меня."
+    "Она более чем готова ко всему, что я могу ей предложить, и её предвкушение об этом убеждает меня."
 
 # ch/audrey/fuck.rpy:1699
 translate russian audrey_fuck_date_doggy_e985a422:
-    "И вот я проникаю в нее, не встречая почти никакого сопротивления."
+    "И вот я проникаю в неё, не встречая почти никакого сопротивления."
 
 # ch/audrey/fuck.rpy:1700
 translate russian audrey_fuck_date_doggy_83a51e62:
@@ -20406,7 +20406,7 @@ translate russian audrey_fuck_date_doggy_14a6191a_1:
 
 # ch/audrey/fuck.rpy:1704
 translate russian audrey_fuck_date_doggy_4d0350d8:
-    audrey.say "\"Черт...\"."
+    audrey.say "«Чёрт...»."
 
 # ch/audrey/fuck.rpy:1705
 translate russian audrey_fuck_date_doggy_c41422b8_1:
@@ -20418,7 +20418,7 @@ translate russian audrey_fuck_date_doggy_1fa3c0bb:
 
 # ch/audrey/fuck.rpy:1709
 translate russian audrey_fuck_date_doggy_54d04ede:
-    "Как будто мне и так было достаточно стимула, слова Одри лишь подталкивают меня вперед."
+    "Как будто мне и так было достаточно стимула, слова Одри лишь подталкивают меня вперёд."
 
 # ch/audrey/fuck.rpy:1710
 translate russian audrey_fuck_date_doggy_216180af:
@@ -20426,7 +20426,7 @@ translate russian audrey_fuck_date_doggy_216180af:
 
 # ch/audrey/fuck.rpy:1711
 translate russian audrey_fuck_date_doggy_f2d77942:
-    "Или это может быть ее способ убедиться, что я дам ей все, что у меня есть."
+    "Или это может быть её способ убедиться, что я дам ей всё, что у меня есть."
 
 # ch/audrey/fuck.rpy:1713
 translate russian audrey_fuck_date_doggy_01d90aad:
@@ -20506,7 +20506,7 @@ translate russian audrey_fuck_date_doggy_3c71d19c:
 
 # ch/audrey/fuck.rpy:1745
 translate russian audrey_fuck_date_doggy_9c0a5af6:
-    "Что бы ни было правдой, я мгновенно чувствую желание дать ей именно то, о чем она просит."
+    "Что бы ни было правдой, я мгновенно чувствую желание дать ей именно то, о чём она просит."
 
 # ch/audrey/fuck.rpy:1746
 translate russian audrey_fuck_date_doggy_d4f06d53:
@@ -20514,15 +20514,15 @@ translate russian audrey_fuck_date_doggy_d4f06d53:
 
 # ch/audrey/fuck.rpy:1747
 translate russian audrey_fuck_date_doggy_5344fed1:
-    "Мое крепкое сцепление с ее волосами усиливает эти движения, делая их еще более интенсивными."
+    "Моё крепкое сцепление с её волосами усиливает эти движения, делая их ещё более интенсивными."
 
 # ch/audrey/fuck.rpy:1751
 translate russian audrey_fuck_date_doggy_dafdae0f:
-    "А моей свободной рукой я, кажется, не могу удержаться от того, чтобы шлепать ее по ягодицам."
+    "А моей свободной рукой я, кажется, не могу удержаться от того, чтобы шлёпать её по ягодицам."
 
 # ch/audrey/fuck.rpy:1754
 translate russian audrey_fuck_date_doggy_72f25702:
-    "Одри дергается и судорожно вздрагивает под этим сочетанием секса и шлепков."
+    "Одри дёргается и судорожно вздрагивает под этим сочетанием секса и шлепков."
 
 # ch/audrey/fuck.rpy:1757
 translate russian audrey_fuck_date_doggy_a2528de3:
@@ -20546,11 +20546,11 @@ translate russian audrey_fuck_date_doggy_b30c40eb:
 
 # ch/audrey/fuck.rpy:1764
 translate russian audrey_fuck_date_doggy_8a3a7b58:
-    "Только тогда я наконец прекращаю ее шлепать и крепко хватаю за бедра."
+    "Только тогда я наконец прекращаю её шлёпать и крепко хватаю за бедра."
 
 # ch/audrey/fuck.rpy:1768
 translate russian audrey_fuck_date_doggy_e7bf993a:
-    "Вталкивая свой член как можно глубже внутрь нее, я наслаждаюсь каждой секундой этого ощущения."
+    "Вталкивая свой член как можно глубже внутрь неё, я наслаждаюсь каждой секундой этого ощущения."
 
 # ch/audrey/fuck.rpy:1769
 translate russian audrey_fuck_date_doggy_3da6735a:
@@ -20558,11 +20558,11 @@ translate russian audrey_fuck_date_doggy_3da6735a:
 
 # ch/audrey/fuck.rpy:1770
 translate russian audrey_fuck_date_doggy_c24b749b:
-    "И затем, измученная и покрытая потом, ее голова падает на кровать."
+    "И затем, измученная и покрытая потом, её голова падает на кровать."
 
 # ch/audrey/fuck.rpy:1772
 translate russian audrey_fuck_date_doggy_a55fba36:
-    "Хотя мне начинает нравиться эта склонность Одри к наказаниям, эякуляция внутри нее не совсем то, что нужно."
+    "Хотя мне начинает нравиться эта склонность Одри к наказаниям, эякуляция внутри неё не совсем то, что нужно."
 
 # ch/audrey/fuck.rpy:1773
 translate russian audrey_fuck_date_doggy_96ff8625:
@@ -20570,7 +20570,7 @@ translate russian audrey_fuck_date_doggy_96ff8625:
 
 # ch/audrey/fuck.rpy:1777
 translate russian audrey_fuck_date_doggy_9639978c:
-    "И поэтому я извлекаю ее из меня в тот самый момент, непосредственно перед тем, как у меня наступает оргазм."
+    "И поэтому я извлекаю её из меня в тот самый момент, непосредственно перед тем, как у меня наступает оргазм."
 
 # ch/audrey/fuck.rpy:1780
 translate russian audrey_fuck_date_doggy_761e2e4e:
@@ -20582,15 +20582,15 @@ translate russian audrey_fuck_date_doggy_9bcd85ac:
 
 # ch/audrey/fuck.rpy:1784
 translate russian audrey_fuck_date_doggy_fbfc904b:
-    "И она дрожит и стонет, лежа в мокрой куче на постельном белье."
+    "И она дрожит и стонет, лёжа в мокрой куче на постельном белье."
 
 # ch/audrey/fuck.rpy:1787
 translate russian audrey_fuck_date_doggy_427ae3d1:
-    "Но затем она дрожит и стонет, когда сперма брызжет на ее спину."
+    "Но затем она дрожит и стонет, когда сперма брызжет на её спину."
 
 # ch/audrey/fuck.rpy:1789
 translate russian audrey_fuck_date_doggy_a02c145e:
-    "Последние капли спермы падают на нее, пока она лежит в мокрой куче на постельном белье."
+    "Последние капли спермы падают на неё, пока она лежит в мокрой куче на постельном белье."
 
 # ch/audrey/fuck.rpy:1791
 translate russian audrey_fuck_date_doggy_d6fc2a68:
@@ -20602,7 +20602,7 @@ translate russian audrey_fuck_date_doggy_d3a86812:
 
 # ch/audrey/fuck.rpy:1796
 translate russian audrey_fuck_date_doggy_9639978c_1:
-    "И поэтому я извлекаю ее из меня в тот самый момент, непосредственно перед тем, как у меня наступает оргазм."
+    "И поэтому я извлекаю её из меня в тот самый момент, непосредственно перед тем, как у меня наступает оргазм."
 
 # ch/audrey/fuck.rpy:1799
 translate russian audrey_fuck_date_doggy_761e2e4e_1:
@@ -20610,11 +20610,11 @@ translate russian audrey_fuck_date_doggy_761e2e4e_1:
 
 # ch/audrey/fuck.rpy:1801
 translate russian audrey_fuck_date_doggy_427ae3d1_1:
-    "Но затем она дрожит и стонет, когда сперма брызжет на ее спину."
+    "Но затем она дрожит и стонет, когда сперма брызжет на её спину."
 
 # ch/audrey/fuck.rpy:1803
 translate russian audrey_fuck_date_doggy_a02c145e_1:
-    "Последние капли спермы падают на нее, пока она лежит в мокрой куче на постельном белье."
+    "Последние капли спермы падают на неё, пока она лежит в мокрой куче на постельном белье."
 
 # ch/audrey/fuck.rpy:1807
 translate russian audrey_fuck_date_doggy_be8c5eb8:
@@ -20638,7 +20638,7 @@ translate russian audrey_fuck_date_doggy_35dcb95d:
 
 # ch/audrey/fuck.rpy:1818
 translate russian audrey_fuck_date_doggy_669bdfe1:
-    "Одри издает последний стон удовольствия, и затем я чувствую, как начинают дрожать её ноги и руки."
+    "Одри издаёт последний стон удовольствия, и затем я чувствую, как начинают дрожать её ноги и руки."
 
 # ch/audrey/fuck.rpy:1820
 translate russian audrey_fuck_date_doggy_b298945a:
@@ -20662,7 +20662,7 @@ translate russian audrey_fuck_date_doggy_a7653d6e:
 
 # ch/audrey/fuck.rpy:1832
 translate russian audrey_fuck_date_doggy_f523f3a7:
-    "После этого она переворачивается на бок, обнимая руками свой все увеличивающийся животик – это защитный жест."
+    "После этого она переворачивается на бок, обнимая руками свой все увеличивающийся животик — это защитный жест."
 
 # ch/audrey/fuck.rpy:1836
 translate russian audrey_fuck_date_doggy_35595e33:
@@ -20678,7 +20678,7 @@ translate russian audrey_fuck_date_doggy_1609dedb:
 
 # ch/audrey/fuck.rpy:1844
 translate russian audrey_fuck_date_doggy_036583f2:
-    "Она оборачивается и смотрит на меня через плечо, на ее лице – незнакомое выражение страха."
+    "Она оборачивается и смотрит на меня через плечо, на её лице — незнакомое выражение страха."
 
 # ch/audrey/fuck.rpy:1845
 translate russian audrey_fuck_date_doggy_a5f391ed:
@@ -20686,7 +20686,7 @@ translate russian audrey_fuck_date_doggy_a5f391ed:
 
 # ch/audrey/fuck.rpy:1846
 translate russian audrey_fuck_date_doggy_4c235fd4:
-    audrey.say "Ты вошел в меня!"
+    audrey.say "Ты вошёл в меня!"
 
 # ch/audrey/fuck.rpy:1848
 translate russian audrey_fuck_date_doggy_75a7efd6:
@@ -20710,11 +20710,11 @@ translate russian audrey_fuck_date_doggy_1a2177bc:
 
 # ch/audrey/fuck.rpy:1862
 translate russian audrey_fuck_date_doggy_ac0d1c8e:
-    "Она застает меня врасплох, и через мгновение я снова теряюсь внутри нее."
+    "Она застаёт меня врасплох, и через мгновение я снова теряюсь внутри неё."
 
 # ch/audrey/fuck.rpy:1864
 translate russian audrey_fuck_date_doggy_df6e31e4:
-    "Одри катается на моем члене до самого конца, счастливо застоная."
+    "Одри катается на моём члене до самого конца, счастливо застоная."
 
 # ch/audrey/fuck.rpy:1865
 translate russian audrey_fuck_date_doggy_1ff25976:
@@ -20742,11 +20742,11 @@ translate russian audrey_fuck_date_cowgirl_7b37425d:
 
 # ch/audrey/fuck.rpy:1875
 translate russian audrey_fuck_date_cowgirl_3d614892:
-    "Прежде чем она успевает сказать еще слово, я хватаю ее руки."
+    "Прежде чем она успевает сказать ещё слово, я хватаю её руки."
 
 # ch/audrey/fuck.rpy:1876
 translate russian audrey_fuck_date_cowgirl_b39375a2:
-    "И затем я тащу ее на кровать."
+    "И затем я тащу её на кровать."
 
 # ch/audrey/fuck.rpy:1877
 translate russian audrey_fuck_date_cowgirl_0da7a904:
@@ -20766,7 +20766,7 @@ translate russian audrey_fuck_date_cowgirl_43a167cf:
 
 # ch/audrey/fuck.rpy:1884
 translate russian audrey_fuck_date_cowgirl_463bdc71:
-    "Она выглядит взволнованной и немного смущенной."
+    "Она выглядит взволнованной и немного смущённой."
 
 # ch/audrey/fuck.rpy:1885
 translate russian audrey_fuck_date_cowgirl_f1394ee4:
@@ -20846,11 +20846,11 @@ translate russian audrey_fuck_date_cowgirl_dd0a6bdf:
 
 # ch/audrey/fuck.rpy:1904
 translate russian audrey_fuck_date_cowgirl_5546f5c7:
-    "И вот я крепко хватаю Одри за бедра и тяну ее вниз..."
+    "И вот я крепко хватаю Одри за бедра и тяну её вниз..."
 
 # ch/audrey/fuck.rpy:1907
 translate russian audrey_fuck_date_cowgirl_efe9c3ff:
-    "Голова Одри запрокидывается назад, когда я двигаю ее."
+    "Голова Одри запрокидывается назад, когда я двигаю её."
 
 # ch/audrey/fuck.rpy:1908
 translate russian audrey_fuck_date_cowgirl_66ab8710:
@@ -20878,7 +20878,7 @@ translate russian audrey_fuck_date_cowgirl_9fef317f:
 
 # ch/audrey/fuck.rpy:1916
 translate russian audrey_fuck_date_cowgirl_1d804fe5:
-    "И это потому, что мой член уже погружается в ее задницу."
+    "И это потому, что мой член уже погружается в её задницу."
 
 # ch/audrey/fuck.rpy:1920
 translate russian audrey_fuck_date_cowgirl_13aa1c5e:
@@ -20886,11 +20886,11 @@ translate russian audrey_fuck_date_cowgirl_13aa1c5e:
 
 # ch/audrey/fuck.rpy:1921
 translate russian audrey_fuck_date_cowgirl_b7daaefd:
-    "Я чувствую, как она сдается, по изменению тона ее голоса."
+    "Я чувствую, как она сдаётся, по изменению тона её голоса."
 
 # ch/audrey/fuck.rpy:1922
 translate russian audrey_fuck_date_cowgirl_f7965d48:
-    "Но еще лучше – ощущение того, как сначала напрягаются ее мышцы."
+    "Но ещё лучше — ощущение того, как сначала напрягаются её мышцы."
 
 # ch/audrey/fuck.rpy:1923
 translate russian audrey_fuck_date_cowgirl_6ff26c06:
@@ -20922,7 +20922,7 @@ translate russian audrey_fuck_date_cowgirl_54718ef2:
 
 # ch/audrey/fuck.rpy:1935
 translate russian audrey_fuck_date_cowgirl_161056ba:
-    "Одри набирает скорость, пока едет на моем члене."
+    "Одри набирает скорость, пока едет на моём члене."
 
 # ch/audrey/fuck.rpy:1936
 translate russian audrey_fuck_date_cowgirl_e42d41e3:
@@ -20930,11 +20930,11 @@ translate russian audrey_fuck_date_cowgirl_e42d41e3:
 
 # ch/audrey/fuck.rpy:1937
 translate russian audrey_fuck_date_cowgirl_0d0297da:
-    "И я слышу только звук ее бедер, ударяющихся о мои."
+    "И я слышу только звук её бёдер, ударяющихся о мои."
 
 # ch/audrey/fuck.rpy:1938
 translate russian audrey_fuck_date_cowgirl_0a7e88e3:
-    "Ну, и еще ее прерывистое дыхание!"
+    "Ну, и ещё её прерывистое дыхание!"
 
 # ch/audrey/fuck.rpy:1939
 translate russian audrey_fuck_date_cowgirl_676fe9fd:
@@ -20942,11 +20942,11 @@ translate russian audrey_fuck_date_cowgirl_676fe9fd:
 
 # ch/audrey/fuck.rpy:1940
 translate russian audrey_fuck_date_cowgirl_c6068c07:
-    "Сейчас кажется, что она может делать только одно – держаться изо всех сил."
+    "Сейчас кажется, что она может делать только одно — держаться изо всех сил."
 
 # ch/audrey/fuck.rpy:1941
 translate russian audrey_fuck_date_cowgirl_e481bb2c:
-    "И я не думаю, что ей придется долго это делать."
+    "И я не думаю, что ей придётся долго это делать."
 
 # ch/audrey/fuck.rpy:1942
 translate russian audrey_fuck_date_cowgirl_11768d09:
@@ -20974,7 +20974,7 @@ translate russian audrey_fuck_date_cowgirl_916a428d:
 
 # ch/audrey/fuck.rpy:1957
 translate russian audrey_fuck_date_cowgirl_5cf0ec16:
-    "Но затем я чувствую, как все ее мышцы расслабляются."
+    "Но затем я чувствую, как все её мышцы расслабляются."
 
 # ch/audrey/fuck.rpy:1958
 translate russian audrey_fuck_date_cowgirl_0f0c836a:
@@ -20982,7 +20982,7 @@ translate russian audrey_fuck_date_cowgirl_0f0c836a:
 
 # ch/audrey/fuck.rpy:1959
 translate russian audrey_fuck_date_cowgirl_31d3b4df:
-    "Я сам настолько измотан, что мне едва удается удержать её от того, чтобы она не упала с кровати!"
+    "Я сам настолько измотан, что мне едва удаётся удержать её от того, чтобы она не упала с кровати!"
 
 # ch/audrey/fuck.rpy:1963
 translate russian audrey_fuck_date_cowgirl_4567cb33:
@@ -20990,11 +20990,11 @@ translate russian audrey_fuck_date_cowgirl_4567cb33:
 
 # ch/audrey/fuck.rpy:1967
 translate russian audrey_fuck_date_cowgirl_2a76af7b:
-    "Она давит на меня изо всех сил, и ее кожа блестит от пота."
+    "Она давит на меня изо всех сил, и её кожа блестит от пота."
 
 # ch/audrey/fuck.rpy:1968
 translate russian audrey_fuck_date_cowgirl_555f0db8:
-    "И тем не менее, каким-то образом я нахожу в себе силы выдернуть свой член из ее задницы, прежде чем у меня произойдет оргазм."
+    "И тем не менее, каким-то образом я нахожу в себе силы выдернуть свой член из её задницы, прежде чем у меня произойдёт оргазм."
 
 # ch/audrey/fuck.rpy:1969
 translate russian audrey_fuck_date_cowgirl_7e806d1b:
@@ -21002,7 +21002,7 @@ translate russian audrey_fuck_date_cowgirl_7e806d1b:
 
 # ch/audrey/fuck.rpy:1972
 translate russian audrey_fuck_date_cowgirl_2e96dffa:
-    "Но сейчас уже слишком поздно, и все, что ей удается сделать, – это идеально выровняться."
+    "Но сейчас уже слишком поздно, и всё, что ей удаётся сделать, — это идеально выровняться."
 
 # ch/audrey/fuck.rpy:1976
 translate russian audrey_fuck_date_cowgirl_81a75cef:
@@ -21010,7 +21010,7 @@ translate russian audrey_fuck_date_cowgirl_81a75cef:
 
 # ch/audrey/fuck.rpy:1980
 translate russian audrey_fuck_date_cowgirl_3b080967:
-    "Все, что у меня есть, растекается по ее груди и животу липкими белыми полосками."
+    "Всё, что у меня есть, растекается по её груди и животу липкими белыми полосками."
 
 # ch/audrey/fuck.rpy:1982
 translate russian audrey_fuck_date_cowgirl_83947ed1:
@@ -21022,11 +21022,11 @@ translate russian audrey_fuck_date_cowgirl_135523da:
 
 # ch/audrey/fuck.rpy:1988
 translate russian audrey_fuck_date_cowgirl_818815bd:
-    "И я слышу, как она ахает от этого ощущения, не в силах скрыть свое удовольствие."
+    "И я слышу, как она ахает от этого ощущения, не в силах скрыть своё удовольствие."
 
 # ch/audrey/fuck.rpy:1989
 translate russian audrey_fuck_date_cowgirl_66c97c6d:
-    "Но теперь улыбка появляется на моем собственном лице."
+    "Но теперь улыбка появляется на моём собственном лице."
 
 # ch/audrey/fuck.rpy:1990
 translate russian audrey_fuck_date_cowgirl_6da5226d:
@@ -21134,7 +21134,7 @@ translate russian audrey_fuck_date_cowgirl_e414c9b4:
 
 # ch/audrey/fuck.rpy:2030
 translate russian audrey_fuck_date_cowgirl_89f4b805:
-    "Или же возбуждение, которое она испытывает, – причина того, что ее лицо стало красным, как помидор."
+    "Или же возбуждение, которое она испытывает, — причина того, что её лицо стало красным, как помидор."
 
 # ch/audrey/fuck.rpy:2031
 translate russian audrey_fuck_date_cowgirl_52a90c53:
@@ -21142,7 +21142,7 @@ translate russian audrey_fuck_date_cowgirl_52a90c53:
 
 # ch/audrey/fuck.rpy:2032
 translate russian audrey_fuck_date_cowgirl_182d42a3:
-    "Вскоре звук ударов ее бедер о мои становится единственным, что я слышу."
+    "Вскоре звук ударов её бёдер о мои становится единственным, что я слышу."
 
 # ch/audrey/fuck.rpy:2033
 translate russian audrey_fuck_date_cowgirl_1ea36af8:
@@ -21150,11 +21150,11 @@ translate russian audrey_fuck_date_cowgirl_1ea36af8:
 
 # ch/audrey/fuck.rpy:2034
 translate russian audrey_fuck_date_cowgirl_f198219c:
-    "И он легко перекрывает звуки, которые издает моя измученная кровать."
+    "И он легко перекрывает звуки, которые издаёт моя измученная кровать."
 
 # ch/audrey/fuck.rpy:2035
 translate russian audrey_fuck_date_cowgirl_5b4684b8:
-    "В таком темпе я начинаю беспокоиться, что мы можем ее сломать!"
+    "В таком темпе я начинаю беспокоиться, что мы можем её сломать!"
 
 # ch/audrey/fuck.rpy:2037
 translate russian audrey_fuck_date_cowgirl_21df03ef:
@@ -21246,7 +21246,7 @@ translate russian audrey_fuck_date_cowgirl_5ec436c7:
 
 # ch/audrey/fuck.rpy:2077
 translate russian audrey_fuck_date_cowgirl_5ba92046:
-    "Это означает, что я могу насладиться каждой последней секундой этого ощущения, пока она находится на моем члене."
+    "Это означает, что я могу насладиться каждой последней секундой этого ощущения, пока она находится на моём члене."
 
 # ch/audrey/fuck.rpy:2079
 translate russian audrey_fuck_date_cowgirl_3b2d1b7f:
@@ -21266,7 +21266,7 @@ translate russian audrey_fuck_date_cowgirl_dc2d7d67:
 
 # ch/audrey/fuck.rpy:2087
 translate russian audrey_fuck_date_cowgirl_cb7c1784:
-    "Но, несмотря на это, мне удается освободиться до того, как я достигну оргазма."
+    "Но, несмотря на это, мне удаётся освободиться до того, как я достигну оргазма."
 
 # ch/audrey/fuck.rpy:2088
 translate russian audrey_fuck_date_cowgirl_a0a84de6:
@@ -21274,11 +21274,11 @@ translate russian audrey_fuck_date_cowgirl_a0a84de6:
 
 # ch/audrey/fuck.rpy:2089
 translate russian audrey_fuck_date_cowgirl_a5d71869:
-    "Но уже слишком поздно, и ей удается лишь принять идеальное положение."
+    "Но уже слишком поздно, и ей удаётся лишь принять идеальное положение."
 
 # ch/audrey/fuck.rpy:2093
 translate russian audrey_fuck_date_cowgirl_a7de1529:
-    "Но презерватив удерживает все, защищая ее от беспорядка."
+    "Но презерватив удерживает все, защищая её от беспорядка."
 
 # ch/audrey/fuck.rpy:2095
 translate russian audrey_fuck_date_cowgirl_e05bb20c:
@@ -21290,7 +21290,7 @@ translate russian audrey_fuck_date_cowgirl_70e0c1da:
 
 # ch/audrey/fuck.rpy:2104
 translate russian audrey_fuck_date_cowgirl_b18244fa:
-    "Она растекается по ее груди и животу липкими белыми полосками."
+    "Она растекается по её груди и животу липкими белыми полосками."
 
 # ch/audrey/fuck.rpy:2106
 translate russian audrey_fuck_date_cowgirl_e05bb20c_1:
@@ -21310,7 +21310,7 @@ translate russian audrey_fuck_date_cowgirl_4cb86ae7:
 
 # ch/audrey/fuck.rpy:2118
 translate russian audrey_fuck_date_cowgirl_beb92368:
-    "Все, что у меня есть, вырывается из меня мгновение спустя."
+    "Всё, что у меня есть, вырывается из меня мгновение спустя."
 
 # ch/audrey/fuck.rpy:2121
 translate russian audrey_fuck_date_cowgirl_963b3222:
@@ -21326,11 +21326,11 @@ translate russian audrey_fuck_date_cowgirl_bac54369:
 
 # ch/audrey/fuck.rpy:2132
 translate russian audrey_fuck_date_cowgirl_5e93b579:
-    "Она стонет и извивается сверху меня, принимая все, что я могу ей дать."
+    "Она стонет и извивается сверху меня, принимая всё, что я могу ей дать."
 
 # ch/audrey/fuck.rpy:2134
 translate russian audrey_fuck_date_cowgirl_42b6bd1d:
-    "Но все это время она обнимает свой живот, чтобы убедиться, что с ним все в порядке."
+    "Но все это время она обнимает свой живот, чтобы убедиться, что с ним всё в порядке."
 
 # ch/audrey/fuck.rpy:2138
 translate russian audrey_fuck_date_cowgirl_ab7bc066_2:
@@ -21350,7 +21350,7 @@ translate russian audrey_fuck_date_cowgirl_409e661a:
 
 # ch/audrey/fuck.rpy:2149
 translate russian audrey_fuck_date_cowgirl_0774b70c:
-    "Но уже слишком поздно, и через секунду я извергаю сперму глубоко внутрь нее."
+    "Но уже слишком поздно, и через секунду я извергаю сперму глубоко внутрь неё."
 
 # ch/audrey/fuck.rpy:2152
 translate russian audrey_fuck_date_cowgirl_e654213f:
@@ -21382,7 +21382,7 @@ translate russian audrey_fuck_date_cowgirl_a46f640f:
 
 # ch/audrey/fuck.rpy:2167
 translate russian audrey_fuck_date_cowgirl_231b91f9:
-    "Я смотрю на нее в ужасе, когда это происходит, ожидая увидеть то же самое у нее."
+    "Я смотрю на неё в ужасе, когда это происходит, ожидая увидеть то же самое у неё."
 
 # ch/audrey/fuck.rpy:2169
 translate russian audrey_fuck_date_cowgirl_6ce92663:
@@ -21414,11 +21414,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_3389ba2e:
 
 # ch/audrey/fuck.rpy:2182
 translate russian audrey_fuck_date_reverse_cowgirl_cf3a2d28:
-    "Я хмурюсь из-за требований Одри, но вижу блеск в ее глазах."
+    "Я хмурюсь из-за требований Одри, но вижу блеск в её глазах."
 
 # ch/audrey/fuck.rpy:2183
 translate russian audrey_fuck_date_reverse_cowgirl_a97d2b88:
-    "В них – обычный озорной огонек, который она обычно демонстрирует."
+    "В них — обычный озорной огонёк, который она обычно демонстрирует."
 
 # ch/audrey/fuck.rpy:2184
 translate russian audrey_fuck_date_reverse_cowgirl_9b4218c9:
@@ -21426,11 +21426,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_9b4218c9:
 
 # ch/audrey/fuck.rpy:2185
 translate russian audrey_fuck_date_reverse_cowgirl_e401958b:
-    "Если у нее есть какие-то планы, лучше позволить ей действовать по своему усмотрению."
+    "Если у неё есть какие-то планы, лучше позволить ей действовать по своему усмотрению."
 
 # ch/audrey/fuck.rpy:2186
 translate russian audrey_fuck_date_reverse_cowgirl_8d5708d3:
-    "Потому что награда за то, чтобы удовлетворить ее желания, почти всегда того стоит."
+    "Потому что награда за то, чтобы удовлетворить её желания, почти всегда того стоит."
 
 # ch/audrey/fuck.rpy:2187
 translate russian audrey_fuck_date_reverse_cowgirl_8799c863:
@@ -21466,11 +21466,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_a30fb25d:
 
 # ch/audrey/fuck.rpy:2198
 translate russian audrey_fuck_date_reverse_cowgirl_456d1a45:
-    "Одри не ждет ответа."
+    "Одри не ждёт ответа."
 
 # ch/audrey/fuck.rpy:2199
 translate russian audrey_fuck_date_reverse_cowgirl_5e76af90:
-    "Вместо этого она снова поворачивает свой взгляд вперед."
+    "Вместо этого она снова поворачивает свой взгляд вперёд."
 
 # ch/audrey/fuck.rpy:2200
 translate russian audrey_fuck_date_reverse_cowgirl_001d2203:
@@ -21506,7 +21506,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_a1525cba:
 
 # ch/audrey/fuck.rpy:2208
 translate russian audrey_fuck_date_reverse_cowgirl_3d298551:
-    audrey.say "Ты хочешь еще, верно?"
+    audrey.say "Ты хочешь ещё, верно?"
 
 # ch/audrey/fuck.rpy:2209
 translate russian audrey_fuck_date_reverse_cowgirl_c2410a69:
@@ -21518,7 +21518,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_c70b4548:
 
 # ch/audrey/fuck.rpy:2211
 translate russian audrey_fuck_date_reverse_cowgirl_17af574c:
-    "На этот раз смех Одри – это смесь непристойности и коварства."
+    "На этот раз смех Одри — это смесь непристойности и коварства."
 
 # ch/audrey/fuck.rpy:2212
 translate russian audrey_fuck_date_reverse_cowgirl_e2227dfb:
@@ -21530,11 +21530,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_971c68d2:
 
 # ch/audrey/fuck.rpy:2214
 translate russian audrey_fuck_date_reverse_cowgirl_7d5c0f75:
-    "Но она также трется им о свой живот и между бедрами."
+    "Но она также трётся им о свой живот и между бёдрами."
 
 # ch/audrey/fuck.rpy:2215
 translate russian audrey_fuck_date_reverse_cowgirl_76156c09:
-    "Это означает, что я также чувствую, насколько тепла ее кожа."
+    "Это означает, что я также чувствую, насколько тепла её кожа."
 
 # ch/audrey/fuck.rpy:2216
 translate russian audrey_fuck_date_reverse_cowgirl_1346d39b:
@@ -21550,11 +21550,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_5b6e4ad2:
 
 # ch/audrey/fuck.rpy:2221
 translate russian audrey_fuck_date_reverse_cowgirl_94d914cf:
-    "Я чувствую, как Одри медленно двигается вперед, подталкивая свою влагалище к моему члену."
+    "Я чувствую, как Одри медленно двигается вперёд, подталкивая свою влагалище к моему члену."
 
 # ch/audrey/fuck.rpy:2222
 translate russian audrey_fuck_date_reverse_cowgirl_23f04a4f:
-    "Это говорит мне о том, что она считает, что все будет довольно прямолинейно."
+    "Это говорит мне о том, что она считает, что всё будет довольно прямолинейно."
 
 # ch/audrey/fuck.rpy:2223
 translate russian audrey_fuck_date_reverse_cowgirl_cad3683c:
@@ -21562,7 +21562,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_cad3683c:
 
 # ch/audrey/fuck.rpy:2224
 translate russian audrey_fuck_date_reverse_cowgirl_592828ce:
-    "Просто скажем, что Одри – не единственная, кто может быть озорной."
+    "Просто скажем, что Одри — не единственная, кто может быть озорной."
 
 # ch/audrey/fuck.rpy:2225
 translate russian audrey_fuck_date_reverse_cowgirl_9861d579:
@@ -21582,11 +21582,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_bdf1c6d2:
 
 # ch/audrey/fuck.rpy:2229
 translate russian audrey_fuck_date_reverse_cowgirl_d4748cd9:
-    "Ровно настолько, чтобы головка моего члена коснулась ее влагалища."
+    "Ровно настолько, чтобы головка моего члена коснулась её влагалища."
 
 # ch/audrey/fuck.rpy:2230
 translate russian audrey_fuck_date_reverse_cowgirl_eabdc8ae:
-    "Я не могу удержаться от легкой дрожи от этого ощущения, это так хорошо."
+    "Я не могу удержаться от лёгкой дрожи от этого ощущения, это так хорошо."
 
 # ch/audrey/fuck.rpy:2231
 translate russian audrey_fuck_date_reverse_cowgirl_88c6d520:
@@ -21594,7 +21594,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_88c6d520:
 
 # ch/audrey/fuck.rpy:2232
 translate russian audrey_fuck_date_reverse_cowgirl_0bed61c9:
-    "Но я чувствую, как все ее тело содрогается одновременно."
+    "Но я чувствую, как все её тело содрогается одновременно."
 
 # ch/audrey/fuck.rpy:2233
 translate russian audrey_fuck_date_reverse_cowgirl_7ef55d7a:
@@ -21606,7 +21606,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_52a9e5fc:
 
 # ch/audrey/fuck.rpy:2235
 translate russian audrey_fuck_date_reverse_cowgirl_c8a93251:
-    "И затем притягиваю ее к себе, но под немного другим углом, чем она ожидает."
+    "И затем притягиваю её к себе, но под немного другим углом, чем она ожидает."
 
 # ch/audrey/fuck.rpy:2236
 translate russian audrey_fuck_date_reverse_cowgirl_cc49dc06:
@@ -21618,7 +21618,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_b9a2c34d:
 
 # ch/audrey/fuck.rpy:2238
 translate russian audrey_fuck_date_reverse_cowgirl_f8088db1:
-    audrey.say "Ты получишь пизду…"
+    audrey.say "Ты получишь пизду..."
 
 # ch/audrey/fuck.rpy:2239
 translate russian audrey_fuck_date_reverse_cowgirl_f49c4f50:
@@ -21626,11 +21626,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_f49c4f50:
 
 # ch/audrey/fuck.rpy:2242
 translate russian audrey_fuck_date_reverse_cowgirl_f2103841:
-    audrey.say "ЧЕРТ ВОЗЬМИ..."
+    audrey.say "ЧЁРТ ВОЗЬМИ..."
 
 # ch/audrey/fuck.rpy:2244
 translate russian audrey_fuck_date_reverse_cowgirl_1e47db17:
-    "Тон голоса Одри резко меняется, когда я тяну ее вниз."
+    "Тон голоса Одри резко меняется, когда я тяну её вниз."
 
 # ch/audrey/fuck.rpy:2245
 translate russian audrey_fuck_date_reverse_cowgirl_4acba8bd:
@@ -21638,7 +21638,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_4acba8bd:
 
 # ch/audrey/fuck.rpy:2246
 translate russian audrey_fuck_date_reverse_cowgirl_32f07cda:
-    "Если раньше она говорила связными предложениями, то теперь все, что ей удается – это стоны и вздохи удовольствия."
+    "Если раньше она говорила связными предложениями, то теперь всё, что ей удаётся — это стоны и вздохи удовольствия."
 
 # ch/audrey/fuck.rpy:2247
 translate russian audrey_fuck_date_reverse_cowgirl_b20030a2:
@@ -21650,7 +21650,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_2331576b:
 
 # ch/audrey/fuck.rpy:2249
 translate russian audrey_fuck_date_reverse_cowgirl_59911535:
-    "Но я вижу, что она все время кивает, без слов призывая меня продолжать."
+    "Но я вижу, что она всё время кивает, без слов призывая меня продолжать."
 
 # ch/audrey/fuck.rpy:2250
 translate russian audrey_fuck_date_reverse_cowgirl_4f97c510:
@@ -21658,11 +21658,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_4f97c510:
 
 # ch/audrey/fuck.rpy:2254
 translate russian audrey_fuck_date_reverse_cowgirl_0f70b48b:
-    "Если раньше ее конечности поддерживали ее, то теперь они становятся вялыми и безжизненными."
+    "Если раньше её конечности поддерживали её, то теперь они становятся вялыми и безжизненными."
 
 # ch/audrey/fuck.rpy:2255
 translate russian audrey_fuck_date_reverse_cowgirl_e7d2b979:
-    "Она откидывается назад ко мне, когда ее мышцы сдаются, и ей нужна моя поддержка."
+    "Она откидывается назад ко мне, когда её мышцы сдаются, и ей нужна моя поддержка."
 
 # ch/audrey/fuck.rpy:2256
 translate russian audrey_fuck_date_reverse_cowgirl_655e892e:
@@ -21670,7 +21670,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_655e892e:
 
 # ch/audrey/fuck.rpy:2257
 translate russian audrey_fuck_date_reverse_cowgirl_bd535dec:
-    "Почти, но не совсем – ничто не доставляет такого удовольствия, как быть настолько глубоко внутри нее!"
+    "Почти, но не совсем — ничто не доставляет такого удовольствия, как быть настолько глубоко внутри неё!"
 
 # ch/audrey/fuck.rpy:2258
 translate russian audrey_fuck_date_reverse_cowgirl_f00900dc:
@@ -21682,7 +21682,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_f4d06a1e:
 
 # ch/audrey/fuck.rpy:2260
 translate russian audrey_fuck_date_reverse_cowgirl_5fe27716:
-    "И еще цепляться за меня, когда я двигаюсь вверх и внутрь нее."
+    "И ещё цепляться за меня, когда я двигаюсь вверх и внутрь неё."
 
 # ch/audrey/fuck.rpy:2261
 translate russian audrey_fuck_date_reverse_cowgirl_58559c05:
@@ -21694,27 +21694,27 @@ translate russian audrey_fuck_date_reverse_cowgirl_f854f313:
 
 # ch/audrey/fuck.rpy:2263
 translate russian audrey_fuck_date_reverse_cowgirl_07eebe06:
-    "И как же это приятно, когда тебе удается сделать ее беспомощно зависимой от себя!"
+    "И как же это приятно, когда тебе удаётся сделать её беспомощно зависимой от себя!"
 
 # ch/audrey/fuck.rpy:2264
 translate russian audrey_fuck_date_reverse_cowgirl_86b5bb7c:
-    "Сейчас Одри почти тает в моих объятиях, совершенно потерянная в своем удовольствии."
+    "Сейчас Одри почти тает в моих объятиях, совершенно потерянная в своём удовольствии."
 
 # ch/audrey/fuck.rpy:2265
 translate russian audrey_fuck_date_reverse_cowgirl_846a795a:
-    "Ее голова покачивается на моем плече."
+    "Её голова покачивается на моём плече."
 
 # ch/audrey/fuck.rpy:2266
 translate russian audrey_fuck_date_reverse_cowgirl_8f5ba216:
-    "Ее груди подпрыгивают вверх и вниз."
+    "Её груди подпрыгивают вверх и вниз."
 
 # ch/audrey/fuck.rpy:2267
 translate russian audrey_fuck_date_reverse_cowgirl_2e877739:
-    "Ее дыхание становится прерывистым и хриплым."
+    "Её дыхание становится прерывистым и хриплым."
 
 # ch/audrey/fuck.rpy:2268
 translate russian audrey_fuck_date_reverse_cowgirl_75f0313d:
-    "На самом деле, я не уверен, что у нее осталось достаточно сил для речи."
+    "На самом деле, я не уверен, что у неё осталось достаточно сил для речи."
 
 # ch/audrey/fuck.rpy:2269
 translate russian audrey_fuck_date_reverse_cowgirl_38634461:
@@ -21734,7 +21734,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_5d1efa11:
 
 # ch/audrey/fuck.rpy:2277
 translate russian audrey_fuck_date_reverse_cowgirl_59a1500d:
-    "Одри, как и обещала, начинает дергаться и извиваться на моих руках."
+    "Одри, как и обещала, начинает дёргаться и извиваться на моих руках."
 
 # ch/audrey/fuck.rpy:2278
 translate russian audrey_fuck_date_reverse_cowgirl_fdba1475:
@@ -21762,11 +21762,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_6d06b628:
 
 # ch/audrey/fuck.rpy:2286
 translate russian audrey_fuck_date_reverse_cowgirl_d0b06c06:
-    "Потому что это значит, что я могу просто расслабиться и наслаждаться тем, что произойдет дальше."
+    "Потому что это значит, что я могу просто расслабиться и наслаждаться тем, что произойдёт дальше."
 
 # ch/audrey/fuck.rpy:2292
 translate russian audrey_fuck_date_reverse_cowgirl_ec74d987:
-    "И это ощущение – выброс моей спермы в Одри."
+    "И это ощущение — выброс моей спермы в Одри."
 
 # ch/audrey/fuck.rpy:2294
 translate russian audrey_fuck_date_reverse_cowgirl_fe0a7ea6:
@@ -21782,7 +21782,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_551deb7e:
 
 # ch/audrey/fuck.rpy:2298
 translate russian audrey_fuck_date_reverse_cowgirl_8a4efc58:
-    "Вместо этого она остается крепко прижатой ко мне на руках, почти без сознания."
+    "Вместо этого она остаётся крепко прижатой ко мне на руках, почти без сознания."
 
 # ch/audrey/fuck.rpy:2301
 translate russian audrey_fuck_date_reverse_cowgirl_b41084d6:
@@ -21814,7 +21814,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_551deb7e_1:
 
 # ch/audrey/fuck.rpy:2317
 translate russian audrey_fuck_date_reverse_cowgirl_8a4efc58_1:
-    "Вместо этого она остается крепко прижатой ко мне на руках, почти без сознания."
+    "Вместо этого она остаётся крепко прижатой ко мне на руках, почти без сознания."
 
 # ch/audrey/fuck.rpy:2318
 translate russian audrey_fuck_date_reverse_cowgirl_66eb318c:
@@ -21838,11 +21838,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_bdf1c6d2_1:
 
 # ch/audrey/fuck.rpy:2331
 translate russian audrey_fuck_date_reverse_cowgirl_d4748cd9_1:
-    "Ровно настолько, чтобы головка моего члена коснулась ее влагалища."
+    "Ровно настолько, чтобы головка моего члена коснулась её влагалища."
 
 # ch/audrey/fuck.rpy:2332
 translate russian audrey_fuck_date_reverse_cowgirl_eabdc8ae_1:
-    "Я не могу удержаться от легкой дрожи от этого ощущения, это так хорошо."
+    "Я не могу удержаться от лёгкой дрожи от этого ощущения, это так хорошо."
 
 # ch/audrey/fuck.rpy:2333
 translate russian audrey_fuck_date_reverse_cowgirl_88c6d520_1:
@@ -21850,7 +21850,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_88c6d520_1:
 
 # ch/audrey/fuck.rpy:2334
 translate russian audrey_fuck_date_reverse_cowgirl_0bed61c9_1:
-    "Но я чувствую, как все ее тело содрогается одновременно."
+    "Но я чувствую, как все её тело содрогается одновременно."
 
 # ch/audrey/fuck.rpy:2335
 translate russian audrey_fuck_date_reverse_cowgirl_7ef55d7a_1:
@@ -21862,7 +21862,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_52a9e5fc_1:
 
 # ch/audrey/fuck.rpy:2337
 translate russian audrey_fuck_date_reverse_cowgirl_c76f9b40:
-    "И затем я осторожно, но твердо притянул ее вниз, к своему члену."
+    "И затем я осторожно, но твёрдо притянул её вниз, к своему члену."
 
 # ch/audrey/fuck.rpy:2338
 translate russian audrey_fuck_date_reverse_cowgirl_cc49dc06_1:
@@ -21874,7 +21874,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_b9a2c34d_1:
 
 # ch/audrey/fuck.rpy:2340
 translate russian audrey_fuck_date_reverse_cowgirl_f8088db1_1:
-    audrey.say "Ты получишь пизду…"
+    audrey.say "Ты получишь пизду..."
 
 # ch/audrey/fuck.rpy:2341
 translate russian audrey_fuck_date_reverse_cowgirl_f49c4f50_1:
@@ -21882,11 +21882,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_f49c4f50_1:
 
 # ch/audrey/fuck.rpy:2344
 translate russian audrey_fuck_date_reverse_cowgirl_f2103841_1:
-    audrey.say "ЧЕРТ..."
+    audrey.say "ЧЁРТ..."
 
 # ch/audrey/fuck.rpy:2346
 translate russian audrey_fuck_date_reverse_cowgirl_1e47db17_1:
-    "Тон голоса Одри резко меняется, когда я тяну ее вниз."
+    "Тон голоса Одри резко меняется, когда я тяну её вниз."
 
 # ch/audrey/fuck.rpy:2347
 translate russian audrey_fuck_date_reverse_cowgirl_4acba8bd_1:
@@ -21894,7 +21894,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_4acba8bd_1:
 
 # ch/audrey/fuck.rpy:2348
 translate russian audrey_fuck_date_reverse_cowgirl_32f07cda_1:
-    "Если раньше она говорила связными предложениями, то теперь все, что ей удается – это стоны и вздохи удовольствия."
+    "Если раньше она говорила связными предложениями, то теперь всё, что ей удаётся — это стоны и вздохи удовольствия."
 
 # ch/audrey/fuck.rpy:2349
 translate russian audrey_fuck_date_reverse_cowgirl_b20030a2_1:
@@ -21902,7 +21902,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_b20030a2_1:
 
 # ch/audrey/fuck.rpy:2350
 translate russian audrey_fuck_date_reverse_cowgirl_59911535_1:
-    "Но я вижу, что она все время кивает, без слов призывая меня продолжать."
+    "Но я вижу, что она всё время кивает, без слов призывая меня продолжать."
 
 # ch/audrey/fuck.rpy:2351
 translate russian audrey_fuck_date_reverse_cowgirl_4f97c510_1:
@@ -21910,11 +21910,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_4f97c510_1:
 
 # ch/audrey/fuck.rpy:2355
 translate russian audrey_fuck_date_reverse_cowgirl_0f70b48b_1:
-    "Если раньше ее конечности поддерживали ее, то теперь они становятся вялыми и безжизненными."
+    "Если раньше её конечности поддерживали её, то теперь они становятся вялыми и безжизненными."
 
 # ch/audrey/fuck.rpy:2356
 translate russian audrey_fuck_date_reverse_cowgirl_e7d2b979_1:
-    "Она откидывается назад ко мне, когда ее мышцы сдаются, и ей нужна моя поддержка."
+    "Она откидывается назад ко мне, когда её мышцы сдаются, и ей нужна моя поддержка."
 
 # ch/audrey/fuck.rpy:2358
 translate russian audrey_fuck_date_reverse_cowgirl_d7295a4b:
@@ -21998,7 +21998,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_655e892e_1:
 
 # ch/audrey/fuck.rpy:2389
 translate russian audrey_fuck_date_reverse_cowgirl_bd535dec_1:
-    "Почти, но не совсем – ничто не доставляет такого удовольствия, как быть настолько глубоко внутри нее!"
+    "Почти, но не совсем — ничто не доставляет такого удовольствия, как быть настолько глубоко внутри неё!"
 
 # ch/audrey/fuck.rpy:2390
 translate russian audrey_fuck_date_reverse_cowgirl_f00900dc_1:
@@ -22010,7 +22010,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_f4d06a1e_1:
 
 # ch/audrey/fuck.rpy:2392
 translate russian audrey_fuck_date_reverse_cowgirl_5fe27716_1:
-    "И еще цепляться за меня, когда я двигаюсь вверх и внутрь нее."
+    "И ещё цепляться за меня, когда я двигаюсь вверх и внутрь неё."
 
 # ch/audrey/fuck.rpy:2393
 translate russian audrey_fuck_date_reverse_cowgirl_58559c05_1:
@@ -22022,27 +22022,27 @@ translate russian audrey_fuck_date_reverse_cowgirl_f854f313_1:
 
 # ch/audrey/fuck.rpy:2395
 translate russian audrey_fuck_date_reverse_cowgirl_07eebe06_1:
-    "И как же это приятно, когда тебе удается сделать ее беспомощно зависимой от себя!"
+    "И как же это приятно, когда тебе удаётся сделать её беспомощно зависимой от себя!"
 
 # ch/audrey/fuck.rpy:2396
 translate russian audrey_fuck_date_reverse_cowgirl_86b5bb7c_1:
-    "Сейчас Одри почти тает в моих объятиях, совершенно потерянная в своем удовольствии."
+    "Сейчас Одри почти тает в моих объятиях, совершенно потерянная в своём удовольствии."
 
 # ch/audrey/fuck.rpy:2397
 translate russian audrey_fuck_date_reverse_cowgirl_846a795a_1:
-    "Ее голова покачивается на моем плече."
+    "Её голова покачивается на моём плече."
 
 # ch/audrey/fuck.rpy:2398
 translate russian audrey_fuck_date_reverse_cowgirl_8f5ba216_1:
-    "Ее груди подпрыгивают вверх и вниз."
+    "Её груди подпрыгивают вверх и вниз."
 
 # ch/audrey/fuck.rpy:2399
 translate russian audrey_fuck_date_reverse_cowgirl_2e877739_1:
-    "Ее дыхание становится прерывистым и хриплым."
+    "Её дыхание становится прерывистым и хриплым."
 
 # ch/audrey/fuck.rpy:2400
 translate russian audrey_fuck_date_reverse_cowgirl_75f0313d_1:
-    "На самом деле, я не уверен, что у нее осталось достаточно сил для речи."
+    "На самом деле, я не уверен, что у неё осталось достаточно сил для речи."
 
 # ch/audrey/fuck.rpy:2401
 translate russian audrey_fuck_date_reverse_cowgirl_38634461_1:
@@ -22050,11 +22050,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_38634461_1:
 
 # ch/audrey/fuck.rpy:2402
 translate russian audrey_fuck_date_reverse_cowgirl_a29a6180_1:
-    audrey.say "Я…"
+    audrey.say "Я..."
 
 # ch/audrey/fuck.rpy:2403
 translate russian audrey_fuck_date_reverse_cowgirl_4a67658a_1:
-    audrey.say "Я собираюсь…"
+    audrey.say "Я собираюсь..."
 
 # ch/audrey/fuck.rpy:2404
 translate russian audrey_fuck_date_reverse_cowgirl_5d1efa11_1:
@@ -22062,7 +22062,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_5d1efa11_1:
 
 # ch/audrey/fuck.rpy:2407
 translate russian audrey_fuck_date_reverse_cowgirl_59a1500d_1:
-    "Одри, как и обещала, начинает дергаться и извиваться на моих руках."
+    "Одри, как и обещала, начинает дёргаться и извиваться на моих руках."
 
 # ch/audrey/fuck.rpy:2408
 translate russian audrey_fuck_date_reverse_cowgirl_fdba1475_1:
@@ -22078,7 +22078,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_78db441b_1:
 
 # ch/audrey/fuck.rpy:2411
 translate russian audrey_fuck_date_reverse_cowgirl_ba3758cf:
-    "(Я, Майк) И ее влагалище тоже сильно сжалось, сдавливая мой член!"
+    "(Я, Майк) И её влагалище тоже сильно сжалось, сдавливая мой член!"
 
 # ch/audrey/fuck.rpy:2412
 translate russian audrey_fuck_date_reverse_cowgirl_f3bb5135_1:
@@ -22090,7 +22090,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_8d83e177:
 
 # ch/audrey/fuck.rpy:2416
 translate russian audrey_fuck_date_reverse_cowgirl_d0b06c06_1:
-    "Потому что это значит, что я могу просто расслабиться и наслаждаться тем, что произойдет дальше."
+    "Потому что это значит, что я могу просто расслабиться и наслаждаться тем, что произойдёт дальше."
 
 # ch/audrey/fuck.rpy:2422
 translate russian audrey_fuck_date_reverse_cowgirl_75b686bb:
@@ -22110,7 +22110,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_551deb7e_2:
 
 # ch/audrey/fuck.rpy:2428
 translate russian audrey_fuck_date_reverse_cowgirl_8a4efc58_2:
-    "Вместо этого она остается крепко прижатой ко мне на руках, почти без сознания."
+    "Вместо этого она остаётся крепко прижатой ко мне на руках, почти без сознания."
 
 # ch/audrey/fuck.rpy:2430
 translate russian audrey_fuck_date_reverse_cowgirl_b41084d6_1:
@@ -22130,7 +22130,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_fe0a7ea6_3:
 
 # ch/audrey/fuck.rpy:2441
 translate russian audrey_fuck_date_reverse_cowgirl_a7de1529:
-    "Но презерватив удерживает все, защищая ее от беспорядка."
+    "Но презерватив удерживает все, защищая её от беспорядка."
 
 # ch/audrey/fuck.rpy:2443
 translate russian audrey_fuck_date_reverse_cowgirl_7b8e869e_3:
@@ -22142,7 +22142,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_551deb7e_3:
 
 # ch/audrey/fuck.rpy:2445
 translate russian audrey_fuck_date_reverse_cowgirl_8a4efc58_3:
-    "Вместо этого она остается крепко прижатой ко мне на руках, почти без сознания."
+    "Вместо этого она остаётся крепко прижатой ко мне на руках, почти без сознания."
 
 # ch/audrey/fuck.rpy:2451
 translate russian audrey_fuck_date_reverse_cowgirl_976f0a36_1:
@@ -22158,7 +22158,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_551deb7e_4:
 
 # ch/audrey/fuck.rpy:2456
 translate russian audrey_fuck_date_reverse_cowgirl_8a4efc58_4:
-    "Вместо этого она остается крепко прижатой ко мне на руках, почти без сознания."
+    "Вместо этого она остаётся крепко прижатой ко мне на руках, почти без сознания."
 
 # ch/audrey/fuck.rpy:2457
 translate russian audrey_fuck_date_reverse_cowgirl_66eb318c_1:
@@ -22174,11 +22174,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_ca98a510:
 
 # ch/audrey/fuck.rpy:2462
 translate russian audrey_fuck_date_reverse_cowgirl_42dbfc89:
-    "И это также означает, что я могу просто расслабиться и наслаждаться тем, что произойдет дальше."
+    "И это также означает, что я могу просто расслабиться и наслаждаться тем, что произойдёт дальше."
 
 # ch/audrey/fuck.rpy:2464
 translate russian audrey_fuck_date_reverse_cowgirl_ec74d987_1:
-    "И это ощущение – выброс моей спермы в Одри."
+    "И это ощущение — выброс моей спермы в Одри."
 
 # ch/audrey/fuck.rpy:2470
 translate russian audrey_fuck_date_reverse_cowgirl_fe0a7ea6_4:
@@ -22194,7 +22194,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_551deb7e_5:
 
 # ch/audrey/fuck.rpy:2475
 translate russian audrey_fuck_date_reverse_cowgirl_8a4efc58_5:
-    "Вместо этого она остается крепко прижатой ко мне на руках, почти без сознания."
+    "Вместо этого она остаётся крепко прижатой ко мне на руках, почти без сознания."
 
 # ch/audrey/fuck.rpy:2477
 translate russian audrey_fuck_date_reverse_cowgirl_8a7aa75c:
@@ -22206,11 +22206,11 @@ translate russian audrey_fuck_date_reverse_cowgirl_ca98a510_1:
 
 # ch/audrey/fuck.rpy:2479
 translate russian audrey_fuck_date_reverse_cowgirl_42dbfc89_1:
-    "И это также означает, что я могу просто расслабиться и наслаждаться тем, что произойдет дальше."
+    "И это также означает, что я могу просто расслабиться и наслаждаться тем, что произойдёт дальше."
 
 # ch/audrey/fuck.rpy:2481
 translate russian audrey_fuck_date_reverse_cowgirl_ec74d987_2:
-    "И это ощущение – выброс моей спермы в Одри."
+    "И это ощущение — выброс моей спермы в Одри."
 
 # ch/audrey/fuck.rpy:2487
 translate russian audrey_fuck_date_reverse_cowgirl_fe0a7ea6_5:
@@ -22226,7 +22226,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_551deb7e_6:
 
 # ch/audrey/fuck.rpy:2492
 translate russian audrey_fuck_date_reverse_cowgirl_8a4efc58_6:
-    "Вместо этого она остается крепко прижатой ко мне на руках, почти без сознания."
+    "Вместо этого она остаётся крепко прижатой ко мне на руках, почти без сознания."
 
 # ch/audrey/fuck.rpy:2494
 translate russian audrey_fuck_date_reverse_cowgirl_15a7d814:
@@ -22242,7 +22242,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_317f4980_2:
 
 # ch/audrey/fuck.rpy:2499
 translate russian audrey_fuck_date_reverse_cowgirl_af7f5692:
-    audrey.say "Черт..."
+    audrey.say "Чёрт..."
 
 # ch/audrey/fuck.rpy:2500
 translate russian audrey_fuck_date_reverse_cowgirl_3d686ba5:
@@ -22310,7 +22310,7 @@ translate russian audrey_fuck_date_reverse_cowgirl_278d4c2a_1:
 
 # ch/audrey/fuck.rpy:2531
 translate russian audrey_fuck_date_reverse_cowgirl_730641f9:
-    "Но кажется, ей это очень нравится, она все время прижимается ко мне."
+    "Но кажется, ей это очень нравится, она всё время прижимается ко мне."
 
 # ch/audrey/fuck.rpy:2533
 translate russian audrey_fuck_date_reverse_cowgirl_b0434e35:
@@ -22326,7 +22326,7 @@ translate russian audrey_fuck_date_stand_ae2070ca:
 
 # ch/audrey/fuck.rpy:2541
 translate russian audrey_fuck_date_stand_b0c13cb4:
-    "И когда она наконец доходит до стены, она останавливается и опирается рукой на нее."
+    "И когда она наконец доходит до стены, она останавливается и опирается рукой на неё."
 
 # ch/audrey/fuck.rpy:2542
 translate russian audrey_fuck_date_stand_7b36fd9e:
@@ -22354,7 +22354,7 @@ translate russian audrey_fuck_date_stand_d3928aba:
 
 # ch/audrey/fuck.rpy:2548
 translate russian audrey_fuck_date_stand_3de51fb3:
-    "Мне не нужно смотреть туда, потому что я уже чувствую, как мой член становится твердым."
+    "Мне не нужно смотреть туда, потому что я уже чувствую, как мой член становится твёрдым."
 
 # ch/audrey/fuck.rpy:2549
 translate russian audrey_fuck_date_stand_c466ea26:
@@ -22370,7 +22370,7 @@ translate russian audrey_fuck_date_stand_e3d8d72e:
 
 # ch/audrey/fuck.rpy:2552
 translate russian audrey_fuck_date_stand_5dff9673:
-    audrey.say "Что ты ждешь?"
+    audrey.say "Что ты ждёшь?"
 
 # ch/audrey/fuck.rpy:2553
 translate russian audrey_fuck_date_stand_e0b636ec:
@@ -22398,11 +22398,11 @@ translate russian audrey_fuck_date_stand_37f7ed6b:
 
 # ch/audrey/fuck.rpy:2559
 translate russian audrey_fuck_date_stand_9062b573:
-    "Но потом мне каким-то образом удается разобраться в этом хаосе, царящем в моей голове."
+    "Но потом мне каким-то образом удаётся разобраться в этом хаосе, царящем в моей голове."
 
 # ch/audrey/fuck.rpy:2560
 translate russian audrey_fuck_date_stand_c86b5896:
-    "И я качаю головой, смеясь над ее маленькой шуткой."
+    "И я качаю головой, смеясь над её маленькой шуткой."
 
 # ch/audrey/fuck.rpy:2561
 translate russian audrey_fuck_date_stand_3736d5b3:
@@ -22418,7 +22418,7 @@ translate russian audrey_fuck_date_stand_94e0cc54:
 
 # ch/audrey/fuck.rpy:2564
 translate russian audrey_fuck_date_stand_9b167f1a:
-    "Но в то же время она еще сильнее выставляет свою задницу."
+    "Но в то же время она ещё сильнее выставляет свою задницу."
 
 # ch/audrey/fuck.rpy:2565
 translate russian audrey_fuck_date_stand_53bec5f0:
@@ -22430,7 +22430,7 @@ translate russian audrey_fuck_date_stand_745ef347:
 
 # ch/audrey/fuck.rpy:2568
 translate russian audrey_fuck_date_stand_24204430:
-    "Затем я наклоняюсь ближе, позволяя ей почувствовать мой член, прижатый к ее ягодицам."
+    "Затем я наклоняюсь ближе, позволяя ей почувствовать мой член, прижатый к её ягодицам."
 
 # ch/audrey/fuck.rpy:2569
 translate russian audrey_fuck_date_stand_2fc71f01:
@@ -22446,11 +22446,11 @@ translate russian audrey_fuck_date_stand_fd40098a:
 
 # ch/audrey/fuck.rpy:2575
 translate russian audrey_fuck_date_stand_55985a8c:
-    "Я притягиваю Одри еще ближе."
+    "Я притягиваю Одри ещё ближе."
 
 # ch/audrey/fuck.rpy:2576
 translate russian audrey_fuck_date_stand_d69fe858:
-    "Уже думаю о том, какие ощущения меня ждут, когда я буду внутри нее."
+    "Уже думаю о том, какие ощущения меня ждут, когда я буду внутри неё."
 
 # ch/audrey/fuck.rpy:2580
 translate russian audrey_fuck_date_stand_45a8dc33:
@@ -22458,7 +22458,7 @@ translate russian audrey_fuck_date_stand_45a8dc33:
 
 # ch/audrey/fuck.rpy:2581
 translate russian audrey_fuck_date_stand_2675fbe8:
-    "Она не теряет ни секунды и хватает мой член, вставляя его между своими бедер."
+    "Она не теряет ни секунды и хватает мой член, вставляя его между своими бёдер."
 
 # ch/audrey/fuck.rpy:2582
 translate russian audrey_fuck_date_stand_8dd9baaa:
@@ -22474,7 +22474,7 @@ translate russian audrey_fuck_date_stand_6e152fa8:
 
 # ch/audrey/fuck.rpy:2585
 translate russian audrey_fuck_date_stand_3f7c9c85:
-    "Я использую лишь небольшую часть своей силы и не оказываю на нее давления."
+    "Я использую лишь небольшую часть своей силы и не оказываю на неё давления."
 
 # ch/audrey/fuck.rpy:2588
 translate russian audrey_fuck_date_stand_6f242c2c:
@@ -22482,31 +22482,31 @@ translate russian audrey_fuck_date_stand_6f242c2c:
 
 # ch/audrey/fuck.rpy:2589
 translate russian audrey_fuck_date_stand_4cc116a2:
-    "Она позволяет мне оттянуть ее руку назад, а затем использует ее почти для того, чтобы контролировать себя."
+    "Она позволяет мне оттянуть её руку назад, а затем использует её почти для того, чтобы контролировать себя."
 
 # ch/audrey/fuck.rpy:2590
 translate russian audrey_fuck_date_stand_a4feb7e9:
-    "В то же время я двигаюсь вперед, и мой член трется о ее влагалище."
+    "В то же время я двигаюсь вперёд, и мой член трётся о её влагалище."
 
 # ch/audrey/fuck.rpy:2592
 translate russian audrey_fuck_date_stand_c02ff948:
-    "Одри тихо стонет в предвкушении, когда я оказываю на нее все большее давление."
+    "Одри тихо стонет в предвкушении, когда я оказываю на неё все большее давление."
 
 # ch/audrey/fuck.rpy:2593
 translate russian audrey_fuck_date_stand_941058d3:
-    "И она начинает задыхаться, когда ее тело сдается неизбежному."
+    "И она начинает задыхаться, когда её тело сдаётся неизбежному."
 
 # ch/audrey/fuck.rpy:2597
 translate russian audrey_fuck_date_stand_fe289937:
-    "Мой член медленно входит в нее, позволяя мне наслаждаться каждой секундой."
+    "Мой член медленно входит в неё, позволяя мне наслаждаться каждой секундой."
 
 # ch/audrey/fuck.rpy:2598
 translate russian audrey_fuck_date_stand_44515fa2:
-    "Ее стоны только усиливают удовольствие."
+    "Её стоны только усиливают удовольствие."
 
 # ch/audrey/fuck.rpy:2599
 translate russian audrey_fuck_date_stand_dbe7e1e6:
-    "Кажется, что вся ее воля к сопротивлению тает, когда я проникаю внутрь нее."
+    "Кажется, что вся её воля к сопротивлению тает, когда я проникаю внутрь неё."
 
 # ch/audrey/fuck.rpy:2600
 translate russian audrey_fuck_date_stand_ac56b34c:
@@ -22518,7 +22518,7 @@ translate russian audrey_fuck_date_stand_2c58b45a:
 
 # ch/audrey/fuck.rpy:2602
 translate russian audrey_fuck_date_stand_1b667e01:
-    "Потому что в этот момент я вижу необычную черту подчинения в ее глазах."
+    "Потому что в этот момент я вижу необычную черту подчинения в её глазах."
 
 # ch/audrey/fuck.rpy:2603
 translate russian audrey_fuck_date_stand_33e41752:
@@ -22526,11 +22526,11 @@ translate russian audrey_fuck_date_stand_33e41752:
 
 # ch/audrey/fuck.rpy:2606
 translate russian audrey_fuck_date_stand_b7836ee4:
-    "Подстегнутый этим осознанием, я понимаю, что не могу сдерживаться ни секунды."
+    "Подстёгнутый этим осознанием, я понимаю, что не могу сдерживаться ни секунды."
 
 # ch/audrey/fuck.rpy:2607
 translate russian audrey_fuck_date_stand_51c28ef9:
-    "Обычно все с Одри – это борьба умов."
+    "Обычно все с Одри — это борьба умов."
 
 # ch/audrey/fuck.rpy:2608
 translate russian audrey_fuck_date_stand_6ac83fd7:
@@ -22550,19 +22550,19 @@ translate russian audrey_fuck_date_stand_bf82ddbf:
 
 # ch/audrey/fuck.rpy:2613
 translate russian audrey_fuck_date_stand_884d1783:
-    "Мои уши наполнены звуком моих бедер, ударяющих по ягодицам Одри."
+    "Мои уши наполнены звуком моих бёдер, ударяющих по ягодицам Одри."
 
 # ch/audrey/fuck.rpy:2614
 translate russian audrey_fuck_date_stand_dcc81cdd:
-    "Это и мое тяжелое дыхание, смешанное с ее отчаянными вздохами."
+    "Это и моё тяжёлое дыхание, смешанное с её отчаянными вздохами."
 
 # ch/audrey/fuck.rpy:2615
 translate russian audrey_fuck_date_stand_aba8aebb:
-    "Моя рука мнет ее, как будто она сделана из глины."
+    "Моя рука мнёт её, как будто она сделана из глины."
 
 # ch/audrey/fuck.rpy:2616
 translate russian audrey_fuck_date_stand_9b7503df:
-    "Но настоящее удовольствие я получаю от ощущения моего члена внутри нее."
+    "Но настоящее удовольствие я получаю от ощущения моего члена внутри неё."
 
 # ch/audrey/fuck.rpy:2620
 translate russian audrey_fuck_date_stand_23671859:
@@ -22654,7 +22654,7 @@ translate russian audrey_fuck_date_stand_ce164edb:
 
 # ch/audrey/fuck.rpy:2654
 translate russian audrey_fuck_date_stand_173bfa37:
-    "Но более рациональная часть меня уже понимает, к чему все идет."
+    "Но более рациональная часть меня уже понимает, к чему все идёт."
 
 # ch/audrey/fuck.rpy:2655
 translate russian audrey_fuck_date_stand_f8e3c425:
@@ -22678,11 +22678,11 @@ translate russian audrey_fuck_date_stand_6b975ff1:
 
 # ch/audrey/fuck.rpy:2664
 translate russian audrey_fuck_date_stand_078a0601:
-    "Как и обещала, Одри начинает дергаться и извиваться."
+    "Как и обещала, Одри начинает дёргаться и извиваться."
 
 # ch/audrey/fuck.rpy:2665
 translate russian audrey_fuck_date_stand_9d0b381d:
-    "Ее мышцы сдавливают мой член, заставляя меня следовать ее ритму."
+    "Её мышцы сдавливают мой член, заставляя меня следовать её ритму."
 
 # ch/audrey/fuck.rpy:2668
 translate russian audrey_fuck_date_stand_a0dc4207:
@@ -22690,7 +22690,7 @@ translate russian audrey_fuck_date_stand_a0dc4207:
 
 # ch/audrey/fuck.rpy:2669
 translate russian audrey_fuck_date_stand_b731ba3e:
-    "Мне остается только стоять в стороне и наслаждаться тем, что произойдет совсем скоро."
+    "Мне остаётся только стоять в стороне и наслаждаться тем, что произойдёт совсем скоро."
 
 # ch/audrey/fuck.rpy:2674
 translate russian audrey_fuck_date_stand_cbaae511:
@@ -22702,11 +22702,11 @@ translate russian audrey_fuck_date_stand_fece0ccc:
 
 # ch/audrey/fuck.rpy:2677
 translate russian audrey_fuck_date_stand_574a0411:
-    "И она почти падает к стене, ее удерживают и стена, и я."
+    "И она почти падает к стене, её удерживают и стена, и я."
 
 # ch/audrey/fuck.rpy:2680
 translate russian audrey_fuck_date_stand_96de4e1d:
-    "Даже с презервативом, я бы предпочел закончить по-своему."
+    "Даже с презервативом, я бы предпочёл закончить по-своему."
 
 # ch/audrey/fuck.rpy:2681
 translate russian audrey_fuck_date_stand_168d5301:
@@ -22726,15 +22726,15 @@ translate russian audrey_fuck_date_stand_ac922cd4:
 
 # ch/audrey/fuck.rpy:2695
 translate russian audrey_fuck_date_stand_17fa5c8b:
-    "Затем она начинает стонать тише, потому что презерватив защищает ее от беспорядка."
+    "Затем она начинает стонать тише, потому что презерватив защищает её от беспорядка."
 
 # ch/audrey/fuck.rpy:2697
 translate russian audrey_fuck_date_stand_f011c09d:
-    "Затем она стонет тише, когда я извергаю сперму на ее спину и ягодицы."
+    "Затем она стонет тише, когда я извергаю сперму на её спину и ягодицы."
 
 # ch/audrey/fuck.rpy:2698
 translate russian audrey_fuck_date_stand_574a0411_1:
-    "И она почти падает к стене, ее удерживают и стена, и я."
+    "И она почти падает к стене, её удерживают и стена, и я."
 
 # ch/audrey/fuck.rpy:2702
 translate russian audrey_fuck_date_stand_c4ace646:
@@ -22750,15 +22750,15 @@ translate russian audrey_fuck_date_stand_3cdc76af:
 
 # ch/audrey/fuck.rpy:2706
 translate russian audrey_fuck_date_stand_f61cb88c:
-    "Аккуратно поддерживая ее вздутый живот, я даю ей то, чего она хочет."
+    "Аккуратно поддерживая её вздутый живот, я даю ей то, чего она хочет."
 
 # ch/audrey/fuck.rpy:2707
 translate russian audrey_fuck_date_stand_b731ba3e_1:
-    "Мне остается только стоять в стороне и наслаждаться тем, что произойдет совсем скоро."
+    "Мне остаётся только стоять в стороне и наслаждаться тем, что произойдёт совсем скоро."
 
 # ch/audrey/fuck.rpy:2712
 translate russian audrey_fuck_date_stand_4c47a617:
-    "А именно – невероятное ощущение оргазма внутри Одри."
+    "А именно — невероятное ощущение оргазма внутри Одри."
 
 # ch/audrey/fuck.rpy:2714
 translate russian audrey_fuck_date_stand_fece0ccc_1:
@@ -22766,7 +22766,7 @@ translate russian audrey_fuck_date_stand_fece0ccc_1:
 
 # ch/audrey/fuck.rpy:2717
 translate russian audrey_fuck_date_stand_574a0411_2:
-    "И она почти падает к стене, ее удерживают и стена, и я."
+    "И она почти падает к стене, её удерживают и стена, и я."
 
 # ch/audrey/fuck.rpy:2721
 translate russian audrey_fuck_date_stand_c4ace646_1:
@@ -22782,11 +22782,11 @@ translate russian audrey_fuck_date_stand_c5d9258b:
 
 # ch/audrey/fuck.rpy:2725
 translate russian audrey_fuck_date_stand_b731ba3e_2:
-    "Мне остается только стоять в стороне и наслаждаться тем, что произойдет совсем скоро."
+    "Мне остаётся только стоять в стороне и наслаждаться тем, что произойдёт совсем скоро."
 
 # ch/audrey/fuck.rpy:2730
 translate russian audrey_fuck_date_stand_4c47a617_1:
-    "А именно – невероятное ощущение оргазма внутри Одри."
+    "А именно — невероятное ощущение оргазма внутри Одри."
 
 # ch/audrey/fuck.rpy:2732
 translate russian audrey_fuck_date_stand_fece0ccc_2:
@@ -22794,7 +22794,7 @@ translate russian audrey_fuck_date_stand_fece0ccc_2:
 
 # ch/audrey/fuck.rpy:2735
 translate russian audrey_fuck_date_stand_574a0411_3:
-    "И она почти падает к стене, ее удерживают и стена, и я."
+    "И она почти падает к стене, её удерживают и стена, и я."
 
 # ch/audrey/fuck.rpy:2739
 translate russian audrey_fuck_date_stand_c4ace646_2:
@@ -22802,7 +22802,7 @@ translate russian audrey_fuck_date_stand_c4ace646_2:
 
 # ch/audrey/fuck.rpy:2740
 translate russian audrey_fuck_date_stand_cb99b0ae_2:
-    audrey.say "- Сперма… во мне!"
+    audrey.say "- Сперма... во мне!"
 
 # ch/audrey/fuck.rpy:2742
 translate russian audrey_fuck_date_stand_b8cf604c:
@@ -22814,7 +22814,7 @@ translate russian audrey_fuck_date_stand_9409a91c:
 
 # ch/audrey/fuck.rpy:2750
 translate russian audrey_fuck_date_stand_b27ad68a:
-    "У меня нет возможности сдержаться и не кончить внутри нее."
+    "У меня нет возможности сдержаться и не кончить внутри неё."
 
 # ch/audrey/fuck.rpy:2752
 translate russian audrey_fuck_date_stand_145919ab:
@@ -22822,7 +22822,7 @@ translate russian audrey_fuck_date_stand_145919ab:
 
 # ch/audrey/fuck.rpy:2753
 translate russian audrey_fuck_date_stand_56a0d6d4:
-    "Клянусь, мне даже кажется, что я слышу ее смех, когда она почти теряет сознание и прислоняется к стене, которую поддерживают и она, и я."
+    "Клянусь, мне даже кажется, что я слышу её смех, когда она почти теряет сознание и прислоняется к стене, которую поддерживают и она, и я."
 
 # ch/audrey/fuck.rpy:2757
 translate russian audrey_fuck_date_stand_271e2098:
@@ -22842,7 +22842,7 @@ translate russian audrey_fuck_date_stand_746a86ab:
 
 # ch/audrey/fuck.rpy:2768
 translate russian audrey_fuck_date_stand_b27ad68a_1:
-    "У меня нет возможности сдержаться и не кончить внутри нее."
+    "У меня нет возможности сдержаться и не кончить внутри неё."
 
 # ch/audrey/fuck.rpy:2770
 translate russian audrey_fuck_date_stand_d1e31ef0:
@@ -22850,11 +22850,11 @@ translate russian audrey_fuck_date_stand_d1e31ef0:
 
 # ch/audrey/fuck.rpy:2772
 translate russian audrey_fuck_date_stand_55985a8c_1:
-    "Я притягиваю Одри еще ближе."
+    "Я притягиваю Одри ещё ближе."
 
 # ch/audrey/fuck.rpy:2773
 translate russian audrey_fuck_date_stand_d69fe858_1:
-    "Уже думаю о том, какие ощущения меня ждут, когда я буду внутри нее."
+    "Уже думаю о том, какие ощущения меня ждут, когда я буду внутри неё."
 
 # ch/audrey/fuck.rpy:2774
 translate russian audrey_fuck_date_stand_45a8dc33_1:
@@ -22862,7 +22862,7 @@ translate russian audrey_fuck_date_stand_45a8dc33_1:
 
 # ch/audrey/fuck.rpy:2775
 translate russian audrey_fuck_date_stand_2675fbe8_1:
-    "Она не теряет ни секунды и хватает мой член, вставляя его между своими бедер."
+    "Она не теряет ни секунды и хватает мой член, вставляя его между своими бёдер."
 
 # ch/audrey/fuck.rpy:2776
 translate russian audrey_fuck_date_stand_8dd9baaa_1:
@@ -22878,7 +22878,7 @@ translate russian audrey_fuck_date_stand_6e152fa8_1:
 
 # ch/audrey/fuck.rpy:2779
 translate russian audrey_fuck_date_stand_3f7c9c85_1:
-    "Я использую лишь небольшую часть своей силы и не оказываю на нее давления."
+    "Я использую лишь небольшую часть своей силы и не оказываю на неё давления."
 
 # ch/audrey/fuck.rpy:2782
 translate russian audrey_fuck_date_stand_6f242c2c_1:
@@ -22886,11 +22886,11 @@ translate russian audrey_fuck_date_stand_6f242c2c_1:
 
 # ch/audrey/fuck.rpy:2783
 translate russian audrey_fuck_date_stand_4cc116a2_1:
-    "Она позволяет мне оттянуть ее руку назад, а затем использует ее почти для того, чтобы контролировать себя."
+    "Она позволяет мне оттянуть её руку назад, а затем использует её почти для того, чтобы контролировать себя."
 
 # ch/audrey/fuck.rpy:2784
 translate russian audrey_fuck_date_stand_a4feb7e9_1:
-    "В то же время я двигаюсь вперед, и мой член трется о ее влагалище."
+    "В то же время я двигаюсь вперёд, и мой член трётся о её влагалище."
 
 # ch/audrey/fuck.rpy:2785
 translate russian audrey_fuck_date_stand_7c0164ad:
@@ -22914,23 +22914,23 @@ translate russian audrey_fuck_date_stand_a0c1c651:
 
 # ch/audrey/fuck.rpy:2791
 translate russian audrey_fuck_date_stand_c02ff948_1:
-    "Одри тихо стонет в предвкушении, когда я оказываю на нее все большее давление."
+    "Одри тихо стонет в предвкушении, когда я оказываю на неё все большее давление."
 
 # ch/audrey/fuck.rpy:2792
 translate russian audrey_fuck_date_stand_941058d3_1:
-    "И она начинает задыхаться, когда ее тело сдается неизбежному."
+    "И она начинает задыхаться, когда её тело сдаётся неизбежному."
 
 # ch/audrey/fuck.rpy:2796
 translate russian audrey_fuck_date_stand_fe289937_1:
-    "Мой член медленно входит в нее, позволяя мне наслаждаться каждой секундой."
+    "Мой член медленно входит в неё, позволяя мне наслаждаться каждой секундой."
 
 # ch/audrey/fuck.rpy:2797
 translate russian audrey_fuck_date_stand_44515fa2_1:
-    "Ее стоны только усиливают удовольствие."
+    "Её стоны только усиливают удовольствие."
 
 # ch/audrey/fuck.rpy:2798
 translate russian audrey_fuck_date_stand_dbe7e1e6_1:
-    "Кажется, что вся ее воля к сопротивлению тает, когда я проникаю внутрь нее."
+    "Кажется, что вся её воля к сопротивлению тает, когда я проникаю внутрь неё."
 
 # ch/audrey/fuck.rpy:2799
 translate russian audrey_fuck_date_stand_ac56b34c_1:
@@ -22942,7 +22942,7 @@ translate russian audrey_fuck_date_stand_2c58b45a_1:
 
 # ch/audrey/fuck.rpy:2801
 translate russian audrey_fuck_date_stand_1b667e01_1:
-    "Потому что в этот момент я вижу необычную черту подчинения в ее глазах."
+    "Потому что в этот момент я вижу необычную черту подчинения в её глазах."
 
 # ch/audrey/fuck.rpy:2802
 translate russian audrey_fuck_date_stand_33e41752_1:
@@ -22950,11 +22950,11 @@ translate russian audrey_fuck_date_stand_33e41752_1:
 
 # ch/audrey/fuck.rpy:2805
 translate russian audrey_fuck_date_stand_b7836ee4_1:
-    "Подстегнутый этим осознанием, я понимаю, что не могу сдерживаться ни секунды."
+    "Подстёгнутый этим осознанием, я понимаю, что не могу сдерживаться ни секунды."
 
 # ch/audrey/fuck.rpy:2806
 translate russian audrey_fuck_date_stand_51c28ef9_1:
-    "Обычно все с Одри – это борьба умов."
+    "Обычно все с Одри — это борьба умов."
 
 # ch/audrey/fuck.rpy:2807
 translate russian audrey_fuck_date_stand_6ac83fd7_1:
@@ -22974,19 +22974,19 @@ translate russian audrey_fuck_date_stand_bf82ddbf_1:
 
 # ch/audrey/fuck.rpy:2811
 translate russian audrey_fuck_date_stand_884d1783_1:
-    "Мои уши наполнены звуком моих бедер, ударяющих по ягодицам Одри."
+    "Мои уши наполнены звуком моих бёдер, ударяющих по ягодицам Одри."
 
 # ch/audrey/fuck.rpy:2812
 translate russian audrey_fuck_date_stand_dcc81cdd_1:
-    "Это и мое тяжелое дыхание, смешанное с ее отчаянными вздохами."
+    "Это и моё тяжёлое дыхание, смешанное с её отчаянными вздохами."
 
 # ch/audrey/fuck.rpy:2813
 translate russian audrey_fuck_date_stand_aba8aebb_1:
-    "Моя рука мнет ее, как будто она сделана из глины."
+    "Моя рука мнёт её, как будто она сделана из глины."
 
 # ch/audrey/fuck.rpy:2814
 translate russian audrey_fuck_date_stand_9b7503df_1:
-    "Но настоящее удовольствие я получаю от ощущения моего члена внутри нее."
+    "Но настоящее удовольствие я получаю от ощущения моего члена внутри неё."
 
 # ch/audrey/fuck.rpy:2818
 translate russian audrey_fuck_date_stand_23671859_1:
@@ -23002,7 +23002,7 @@ translate russian audrey_fuck_date_stand_ce164edb_1:
 
 # ch/audrey/fuck.rpy:2821
 translate russian audrey_fuck_date_stand_173bfa37_1:
-    "Но более рациональная часть меня уже понимает, к чему все идет."
+    "Но более рациональная часть меня уже понимает, к чему все идёт."
 
 # ch/audrey/fuck.rpy:2822
 translate russian audrey_fuck_date_stand_f8e3c425_1:
@@ -23010,11 +23010,11 @@ translate russian audrey_fuck_date_stand_f8e3c425_1:
 
 # ch/audrey/fuck.rpy:2823
 translate russian audrey_fuck_date_stand_261b586b_1:
-    audrey.say "Аа…"
+    audrey.say "Аа..."
 
 # ch/audrey/fuck.rpy:2824
 translate russian audrey_fuck_date_stand_317f4980_1:
-    audrey.say "Ммм…"
+    audrey.say "Ммм..."
 
 # ch/audrey/fuck.rpy:2826
 translate russian audrey_fuck_date_stand_a2702237_1:
@@ -23026,11 +23026,11 @@ translate russian audrey_fuck_date_stand_6b975ff1_1:
 
 # ch/audrey/fuck.rpy:2828
 translate russian audrey_fuck_date_stand_078a0601_1:
-    "Как и обещала, Одри начинает дергаться и извиваться."
+    "Как и обещала, Одри начинает дёргаться и извиваться."
 
 # ch/audrey/fuck.rpy:2829
 translate russian audrey_fuck_date_stand_9d0b381d_1:
-    "Ее мышцы сдавливают мой член, заставляя меня следовать ее ритму."
+    "Её мышцы сдавливают мой член, заставляя меня следовать её ритму."
 
 # ch/audrey/fuck.rpy:2832
 translate russian audrey_fuck_date_stand_774760d6:
@@ -23038,11 +23038,11 @@ translate russian audrey_fuck_date_stand_774760d6:
 
 # ch/audrey/fuck.rpy:2833
 translate russian audrey_fuck_date_stand_b731ba3e_3:
-    "Мне остается только стоять в стороне и наслаждаться тем, что произойдет совсем скоро."
+    "Мне остаётся только стоять в стороне и наслаждаться тем, что произойдёт совсем скоро."
 
 # ch/audrey/fuck.rpy:2838
 translate russian audrey_fuck_date_stand_4c47a617_2:
-    "А именно – невероятное ощущение оргазма внутри Одри."
+    "А именно — невероятное ощущение оргазма внутри Одри."
 
 # ch/audrey/fuck.rpy:2840
 translate russian audrey_fuck_date_stand_fece0ccc_3:
@@ -23050,7 +23050,7 @@ translate russian audrey_fuck_date_stand_fece0ccc_3:
 
 # ch/audrey/fuck.rpy:2841
 translate russian audrey_fuck_date_stand_574a0411_4:
-    "И она почти падает к стене, ее удерживают и стена, и я."
+    "И она почти падает к стене, её удерживают и стена, и я."
 
 # ch/audrey/fuck.rpy:2843
 translate russian audrey_fuck_date_stand_577a0042:
@@ -23070,11 +23070,11 @@ translate russian audrey_fuck_date_stand_ac922cd4_1:
 
 # ch/audrey/fuck.rpy:2855
 translate russian audrey_fuck_date_stand_f011c09d_1:
-    "Затем она стонет тише, когда я извергаю сперму на ее спину и ягодицы."
+    "Затем она стонет тише, когда я извергаю сперму на её спину и ягодицы."
 
 # ch/audrey/fuck.rpy:2856
 translate russian audrey_fuck_date_stand_574a0411_5:
-    "И она почти падает к стене, ее удерживают и стена, и я."
+    "И она почти падает к стене, её удерживают и стена, и я."
 
 # ch/audrey/fuck.rpy:2862
 translate russian audrey_fuck_mc_office_c756012b:
@@ -23110,7 +23110,7 @@ translate russian audrey_fuck_office_desk_2f49c869:
 
 # ch/audrey/fuck.rpy:2898
 translate russian audrey_fuck_office_desk_44179e06:
-    "Первый звук, который я слышу от Одри, – это сдавленный стон, когда я грубо вожу пальцами по её влагалищу."
+    "Первый звук, который я слышу от Одри, — это сдавленный стон, когда я грубо вожу пальцами по её влагалищу."
 
 # ch/audrey/fuck.rpy:2899
 translate russian audrey_fuck_office_desk_8a15c820:
@@ -23178,15 +23178,15 @@ translate russian audrey_fuck_office_desk_cc8be8fc:
 
 # ch/audrey/fuck.rpy:2924
 translate russian audrey_fuck_office_desk_468e0ca7:
-    "Я не хочу превращать это в какую-то извращенную игру для нее, поэтому я грубо вхожу внутрь."
+    "Я не хочу превращать это в какую-то извращенную игру для неё, поэтому я грубо вхожу внутрь."
 
 # ch/audrey/fuck.rpy:2925
 translate russian audrey_fuck_office_desk_027773d7:
-    "Она издает звук, больше похожий на звук животного, которого ударили ногой в живот, чем на человеческий."
+    "Она издаёт звук, больше похожий на звук животного, которого ударили ногой в живот, чем на человеческий."
 
 # ch/audrey/fuck.rpy:2926
 translate russian audrey_fuck_office_desk_23cce5e8:
-    "Если честно, мне доставляет больше удовольствия этот звук, чем само ощущение того, что я внутри нее."
+    "Если честно, мне доставляет больше удовольствия этот звук, чем само ощущение того, что я внутри неё."
 
 # ch/audrey/fuck.rpy:2927
 translate russian audrey_fuck_office_desk_b16b85c6:
@@ -23198,27 +23198,27 @@ translate russian audrey_fuck_office_desk_04fc443a:
 
 # ch/audrey/fuck.rpy:2929
 translate russian audrey_fuck_office_desk_0dc7f456:
-    mike.say "Что скажешь насчет того, чтобы отплатить мне тем же?"
+    mike.say "Что скажешь насчёт того, чтобы отплатить мне тем же?"
 
 # ch/audrey/fuck.rpy:2931
 translate russian audrey_fuck_office_desk_77748c0d:
-    "Я поднимаю ее за волосы, просто чтобы дотянуться и схватить переднюю часть ее блузки."
+    "Я поднимаю её за волосы, просто чтобы дотянуться и схватить переднюю часть её блузки."
 
 # ch/audrey/fuck.rpy:2954
 translate russian audrey_fuck_office_desk_15136f74:
-    "Ее руки сейчас ощупывают бумаги и всякие вещи на моем столе."
+    "Её руки сейчас ощупывают бумаги и всякие вещи на моём столе."
 
 # ch/audrey/fuck.rpy:2955
 translate russian audrey_fuck_office_desk_ac638418:
-    "Ее пальцы сжимают и мнутся в горстях бумаги, пока я продолжаю ритмично двигаться внутри нее."
+    "Её пальцы сжимают и мнутся в горстях бумаги, пока я продолжаю ритмично двигаться внутри неё."
 
 # ch/audrey/fuck.rpy:2956
 translate russian audrey_fuck_office_desk_9eded869:
-    "Внезапно у меня возникает момент ясности, я понимаю, что рядом есть несколько тяжелых предметов, до которых она легко может дотянуться."
+    "Внезапно у меня возникает момент ясности, я понимаю, что рядом есть несколько тяжёлых предметов, до которых она легко может дотянуться."
 
 # ch/audrey/fuck.rpy:2957
 translate russian audrey_fuck_office_desk_6eb74aab:
-    "Она могла бы схватить один из них и легко ударить им по мне, если бы такая мысль возникла в ее голове."
+    "Она могла бы схватить один из них и легко ударить им по мне, если бы такая мысль возникла в её голове."
 
 # ch/audrey/fuck.rpy:2958
 translate russian audrey_fuck_office_desk_ff55f26b:
@@ -23314,7 +23314,7 @@ translate russian audrey_fuck_office_doggy_79434a0c:
 
 # ch/audrey/fuck.rpy:3016
 translate russian audrey_fuck_office_doggy_ed95601b:
-    "Осознание того, что она ведет себя так, чтобы удовлетворить глубокую и всепоглощающую потребность..."
+    "Осознание того, что она ведёт себя так, чтобы удовлетворить глубокую и всепоглощающую потребность..."
 
 # ch/audrey/fuck.rpy:3017
 translate russian audrey_fuck_office_doggy_a5d2347d:
@@ -23322,7 +23322,7 @@ translate russian audrey_fuck_office_doggy_a5d2347d:
 
 # ch/audrey/fuck.rpy:3018
 translate russian audrey_fuck_office_doggy_273299ce:
-    "У меня непреодолимое желание видеть свой член внутри нее!"
+    "У меня непреодолимое желание видеть свой член внутри неё!"
 
 # ch/audrey/fuck.rpy:3019
 translate russian audrey_fuck_office_doggy_657ec869:
@@ -23350,7 +23350,7 @@ translate russian audrey_fuck_office_doggy_d0bd6a89:
 
 # ch/audrey/fuck.rpy:3025
 translate russian audrey_fuck_office_doggy_cc609a96:
-    "Я быстро снимаю с себя одежду, небрежно бросая ее в сторону."
+    "Я быстро снимаю с себя одежду, небрежно бросая её в сторону."
 
 # ch/audrey/fuck.rpy:3026
 translate russian audrey_fuck_office_doggy_1bb34e39:
@@ -23358,7 +23358,7 @@ translate russian audrey_fuck_office_doggy_1bb34e39:
 
 # ch/audrey/fuck.rpy:3027
 translate russian audrey_fuck_office_doggy_3bdcac57:
-    "Я крепко хватаю ее за бедра, используя свой вес, чтобы прижать ее к столу."
+    "Я крепко хватаю её за бедра, используя свой вес, чтобы прижать её к столу."
 
 # ch/audrey/fuck.rpy:3028
 translate russian audrey_fuck_office_doggy_e272a464:
@@ -23394,7 +23394,7 @@ translate russian audrey_fuck_office_doggy_bdcf7b13:
 
 # ch/audrey/fuck.rpy:3037
 translate russian audrey_fuck_office_doggy_1d8af3fc:
-    "И я чувствую, как она трет свою задницу о меня, словно в отчаянии!"
+    "И я чувствую, как она трёт свою задницу о меня, словно в отчаянии!"
 
 # ch/audrey/fuck.rpy:3038
 translate russian audrey_fuck_office_doggy_fee8ceca:
@@ -23410,7 +23410,7 @@ translate russian audrey_fuck_office_doggy_89baba97:
 
 # ch/audrey/fuck.rpy:3041
 translate russian audrey_fuck_office_doggy_090ee613:
-    audrey.say "Пожалуйста, сделай это со мной жестко!"
+    audrey.say "Пожалуйста, сделай это со мной жёстко!"
 
 # ch/audrey/fuck.rpy:3042
 translate russian audrey_fuck_office_doggy_983a28e5:
@@ -23502,7 +23502,7 @@ translate russian audrey_fuck_office_doggy_a3bd98b8:
 
 # ch/audrey/fuck.rpy:3072
 translate russian audrey_fuck_office_doggy_ee1a1c77:
-    "Одри выгибается, принимая все, что я ей предлагаю."
+    "Одри выгибается, принимая всё, что я ей предлагаю."
 
 # ch/audrey/fuck.rpy:3073
 translate russian audrey_fuck_office_doggy_0da26272:
@@ -23534,7 +23534,7 @@ translate russian audrey_fuck_office_doggy_4e23a809:
 
 # ch/audrey/fuck.rpy:3082
 translate russian audrey_fuck_office_doggy_269e2e44:
-    "Я одной рукой обнимаю ее грудь."
+    "Я одной рукой обнимаю её грудь."
 
 # ch/audrey/fuck.rpy:3083
 translate russian audrey_fuck_office_doggy_52585a80:
@@ -23770,7 +23770,7 @@ translate russian audrey_fuck_office_doggy_78043cad:
 
 # ch/audrey/fuck.rpy:3181
 translate russian audrey_fuck_office_doggy_76b7abd6:
-    "И через секунду я извергаю сперму глубоко внутри нее, крепко прижимая ее бедра к своим."
+    "И через секунду я извергаю сперму глубоко внутри неё, крепко прижимая её бедра к своим."
 
 # ch/audrey/fuck.rpy:3182
 translate russian audrey_fuck_office_doggy_b652086e:
@@ -23778,7 +23778,7 @@ translate russian audrey_fuck_office_doggy_b652086e:
 
 # ch/audrey/fuck.rpy:3184
 translate russian audrey_fuck_office_doggy_d870be08:
-    "Нет ничего плохого в том, что я закончу у нее, тем более, что она уже беременна."
+    "Нет ничего плохого в том, что я закончу у неё, тем более, что она уже беременна."
 
 # ch/audrey/fuck.rpy:3190
 translate russian audrey_fuck_office_doggy_23bb2c8b:
@@ -23786,7 +23786,7 @@ translate russian audrey_fuck_office_doggy_23bb2c8b:
 
 # ch/audrey/fuck.rpy:3191
 translate russian audrey_fuck_office_doggy_ef28061d:
-    "А Одри стонет под собой, будучи вполне удовлетворенной."
+    "А Одри стонет под собой, будучи вполне удовлетворённой."
 
 # ch/audrey/fuck.rpy:3195
 translate russian audrey_fuck_office_doggy_15f7dff5:
@@ -23798,7 +23798,7 @@ translate russian audrey_fuck_office_doggy_c3bd7ca9:
 
 # ch/audrey/fuck.rpy:3197
 translate russian audrey_fuck_office_doggy_f40fbc27:
-    "Ее слова – это все, что мне нужно, чтобы отвлечься, и уже слишком поздно останавливаться."
+    "Её слова — это всё, что мне нужно, чтобы отвлечься, и уже слишком поздно останавливаться."
 
 # ch/audrey/fuck.rpy:3204
 translate russian audrey_fuck_office_doggy_036d06b0:
@@ -23818,15 +23818,15 @@ translate russian audrey_fuck_office_doggy_be86e5dd:
 
 # ch/audrey/fuck.rpy:3211
 translate russian audrey_fuck_office_doggy_cdc3de08:
-    "Но сейчас животное во мне берет верх, и я уже перешел точку невозврата."
+    "Но сейчас животное во мне берет верх, и я уже перешёл точку невозврата."
 
 # ch/audrey/fuck.rpy:3217
 translate russian audrey_fuck_office_doggy_e720d3d7:
-    "Я кончу глубоко внутри нее, прежде чем она успеет вырваться."
+    "Я кончу глубоко внутри неё, прежде чем она успеет вырваться."
 
 # ch/audrey/fuck.rpy:3218
 translate russian audrey_fuck_office_doggy_0269a84d:
-    "Она оборачивается и смотрит на меня через плечо, на ее лице – незнакомое выражение страха."
+    "Она оборачивается и смотрит на меня через плечо, на её лице — незнакомое выражение страха."
 
 # ch/audrey/fuck.rpy:3224
 translate russian audrey_fuck_office_cowgirl_77c41e42:
@@ -23846,7 +23846,7 @@ translate russian audrey_fuck_office_cowgirl_5b88b5ce:
 
 # ch/audrey/fuck.rpy:3231
 translate russian audrey_fuck_office_cowgirl_f45950bf:
-    "Ее влагалище уже достаточно смазано, что выдает ее готовность."
+    "Её влагалище уже достаточно смазано, что выдаёт её готовность."
 
 # ch/audrey/fuck.rpy:3232
 translate russian audrey_fuck_office_cowgirl_227a4194:
@@ -23914,7 +23914,7 @@ translate russian audrey_fuck_office_cowgirl_78572117:
 
 # ch/audrey/fuck.rpy:3248
 translate russian audrey_fuck_office_cowgirl_84b4e50b:
-    "Она перекинулась через мои бедра и грубо трет его о вход своей влагалища."
+    "Она перекинулась через мои бедра и грубо трёт его о вход своей влагалища."
 
 # ch/audrey/fuck.rpy:3249
 translate russian audrey_fuck_office_cowgirl_317f4980:
@@ -23922,7 +23922,7 @@ translate russian audrey_fuck_office_cowgirl_317f4980:
 
 # ch/audrey/fuck.rpy:3250
 translate russian audrey_fuck_office_cowgirl_4d0350d8:
-    audrey.say "Черт..."
+    audrey.say "Чёрт..."
 
 # ch/audrey/fuck.rpy:3251
 translate russian audrey_fuck_office_cowgirl_bda6c418:
@@ -23946,7 +23946,7 @@ translate russian audrey_fuck_office_cowgirl_0245b593:
 
 # ch/audrey/fuck.rpy:3266
 translate russian audrey_fuck_office_cowgirl_bef8b0e9:
-    "Одри опускается настолько низко, насколько может, пытаясь еще сильнее проталкивать его внутрь."
+    "Одри опускается настолько низко, насколько может, пытаясь ещё сильнее проталкивать его внутрь."
 
 # ch/audrey/fuck.rpy:3267
 translate russian audrey_fuck_office_cowgirl_18cb9185:
@@ -23962,7 +23962,7 @@ translate russian audrey_fuck_office_cowgirl_9a2e46df:
 
 # ch/audrey/fuck.rpy:3270
 translate russian audrey_fuck_office_cowgirl_8a92ead5:
-    "Все, что я могу сделать, это лечь на спину, тяжело дыша, пока она находится у меня."
+    "Всё, что я могу сделать, это лечь на спину, тяжело дыша, пока она находится у меня."
 
 # ch/audrey/fuck.rpy:3271
 translate russian audrey_fuck_office_cowgirl_d4c9b6f4:
@@ -24034,7 +24034,7 @@ translate russian audrey_fuck_office_cowgirl_9281431d:
 
 # ch/audrey/fuck.rpy:3291
 translate russian audrey_fuck_office_cowgirl_f63ad1a0:
-    "И это потому, что у нее те же самые цели!"
+    "И это потому, что у неё те же самые цели!"
 
 # ch/audrey/fuck.rpy:3292
 translate russian audrey_fuck_office_cowgirl_db15d1f2:
@@ -24162,7 +24162,7 @@ translate russian audrey_fuck_office_cowgirl_9e365110:
 
 # ch/audrey/fuck.rpy:3334
 translate russian audrey_fuck_office_cowgirl_b4d504c9:
-    "К этому моменту ее бедра ударяются о мои с громким хлопком."
+    "К этому моменту её бедра ударяются о мои с громким хлопком."
 
 # ch/audrey/fuck.rpy:3335
 translate russian audrey_fuck_office_cowgirl_15f92965:
@@ -24210,7 +24210,7 @@ translate russian audrey_fuck_office_cowgirl_67b423e1:
 
 # ch/audrey/fuck.rpy:3355
 translate russian audrey_fuck_office_cowgirl_20321fc9:
-    "Одри все равно катается на мне до самого конца, вытягивая из меня кульминацию."
+    "Одри всё равно катается на мне до самого конца, вытягивая из меня кульминацию."
 
 # ch/audrey/fuck.rpy:3357
 translate russian audrey_fuck_office_cowgirl_d55fe775:
@@ -24218,7 +24218,7 @@ translate russian audrey_fuck_office_cowgirl_d55fe775:
 
 # ch/audrey/fuck.rpy:3363
 translate russian audrey_fuck_office_cowgirl_f2c55592:
-    "Она была застигнута врасплох и застонала, когда мой член выскочил у нее."
+    "Она была застигнута врасплох и застонала, когда мой член выскочил у неё."
 
 # ch/audrey/fuck.rpy:3365
 translate russian audrey_fuck_office_cowgirl_9bcd85ac:
@@ -24226,15 +24226,15 @@ translate russian audrey_fuck_office_cowgirl_9bcd85ac:
 
 # ch/audrey/fuck.rpy:3367
 translate russian audrey_fuck_office_cowgirl_52a71f22:
-    "Все, что она может делать, это смотреть на меня широко раскрытыми глазами, пытаясь отдышаться."
+    "Всё, что она может делать, это смотреть на меня широко раскрытыми глазами, пытаясь отдышаться."
 
 # ch/audrey/fuck.rpy:3371
 translate russian audrey_fuck_office_cowgirl_f2c55592_1:
-    "Она была застигнута врасплох и застонала, когда мой член выскочил у нее."
+    "Она была застигнута врасплох и застонала, когда мой член выскочил у неё."
 
 # ch/audrey/fuck.rpy:3373
 translate russian audrey_fuck_office_cowgirl_d8e3ef38:
-    "Это означает, что ее рот широко открыт, когда я извергаю свою сперму через мгновение!"
+    "Это означает, что её рот широко открыт, когда я извергаю свою сперму через мгновение!"
 
 # ch/audrey/fuck.rpy:3376
 translate russian audrey_fuck_office_cowgirl_234cb8f8:
@@ -24242,11 +24242,11 @@ translate russian audrey_fuck_office_cowgirl_234cb8f8:
 
 # ch/audrey/fuck.rpy:3380
 translate russian audrey_fuck_office_cowgirl_32f243c9:
-    "Но большая часть попадает прямо ей в грудь, пропитывая ее одежду."
+    "Но большая часть попадает прямо ей в грудь, пропитывая её одежду."
 
 # ch/audrey/fuck.rpy:3381
 translate russian audrey_fuck_office_cowgirl_52a71f22_1:
-    "Все, что она может делать, это смотреть на меня широко раскрытыми глазами, пытаясь отдышаться."
+    "Всё, что она может делать, это смотреть на меня широко раскрытыми глазами, пытаясь отдышаться."
 
 # ch/audrey/fuck.rpy:3387
 translate russian audrey_fuck_office_cowgirl_15f7dff5:
@@ -24262,7 +24262,7 @@ translate russian audrey_fuck_office_cowgirl_b776d895:
 
 # ch/audrey/fuck.rpy:3395
 translate russian audrey_fuck_office_cowgirl_98c5c4c3:
-    "А затем я извергаюсь, выпуская сперму как можно глубже внутрь нее."
+    "А затем я извергаюсь, выпуская сперму как можно глубже внутрь неё."
 
 # ch/audrey/fuck.rpy:3396
 translate russian audrey_fuck_office_cowgirl_58edcc42:
@@ -24270,7 +24270,7 @@ translate russian audrey_fuck_office_cowgirl_58edcc42:
 
 # ch/audrey/fuck.rpy:3398
 translate russian audrey_fuck_office_cowgirl_d870be08:
-    "Нет ничего плохого в том, что я закончу у нее, тем более, что она уже беременна."
+    "Нет ничего плохого в том, что я закончу у неё, тем более, что она уже беременна."
 
 # ch/audrey/fuck.rpy:3404
 translate russian audrey_fuck_office_cowgirl_18fa9454:
@@ -24278,7 +24278,7 @@ translate russian audrey_fuck_office_cowgirl_18fa9454:
 
 # ch/audrey/fuck.rpy:3405
 translate russian audrey_fuck_office_cowgirl_d43f28da:
-    "И Одри стонет, лежа надо мной, прижимая руки к своему животу."
+    "И Одри стонет, лёжа надо мной, прижимая руки к своему животу."
 
 # ch/audrey/fuck.rpy:3409
 translate russian audrey_fuck_office_cowgirl_3ee6b856:
@@ -24302,7 +24302,7 @@ translate russian audrey_fuck_office_cowgirl_da575d0e:
 
 # ch/audrey/fuck.rpy:3420
 translate russian audrey_fuck_office_cowgirl_7d66cd81:
-    "И вот я извергаю все внутри нее, и теперь уже ничего нельзя остановить."
+    "И вот я извергаю все внутри неё, и теперь уже ничего нельзя остановить."
 
 # ch/audrey/fuck.rpy:3421
 translate russian audrey_fuck_office_cowgirl_174e3b3a:
@@ -24322,7 +24322,7 @@ translate russian audrey_fuck_office_cowgirl_084e6705:
 
 # ch/audrey/fuck.rpy:3433
 translate russian audrey_fuck_office_cowgirl_d47071e4:
-    "Слишком поздно, и через секунду я извергаю сперму глубоко внутрь нее."
+    "Слишком поздно, и через секунду я извергаю сперму глубоко внутрь неё."
 
 # ch/audrey/fuck.rpy:3434
 translate russian audrey_fuck_office_cowgirl_696be67e:
@@ -24334,7 +24334,7 @@ translate russian audrey_fuck_office_missionary_fec67a3e:
 
 # ch/audrey/fuck.rpy:3444
 translate russian audrey_fuck_office_missionary_7b8c065f:
-    "Я тоже ложусь сверху на нее и делаю глубокий вдох."
+    "Я тоже ложусь сверху на неё и делаю глубокий вдох."
 
 # ch/audrey/fuck.rpy:3445
 translate russian audrey_fuck_office_missionary_1466150d:
@@ -24374,11 +24374,11 @@ translate russian audrey_fuck_office_missionary_cbe5af6c:
 
 # ch/audrey/fuck.rpy:3456
 translate russian audrey_fuck_office_missionary_a5500bde:
-    "И это потому, что я знаю, что у меня в голове, а Одри – нет."
+    "И это потому, что я знаю, что у меня в голове, а Одри — нет."
 
 # ch/audrey/fuck.rpy:3457
 translate russian audrey_fuck_office_missionary_58483a8c:
-    "Я не теряю времени и раздвигаю ее ноги еще шире."
+    "Я не теряю времени и раздвигаю её ноги ещё шире."
 
 # ch/audrey/fuck.rpy:3459
 translate russian audrey_fuck_office_missionary_b6b4a0dc:
@@ -24386,11 +24386,11 @@ translate russian audrey_fuck_office_missionary_b6b4a0dc:
 
 # ch/audrey/fuck.rpy:3460
 translate russian audrey_fuck_office_missionary_edf9beca:
-    "Не сильно, всего лишь настолько, чтобы приподнять ее на пару сантиметров от дивана."
+    "Не сильно, всего лишь настолько, чтобы приподнять её на пару сантиметров от дивана."
 
 # ch/audrey/fuck.rpy:3461
 translate russian audrey_fuck_office_missionary_4f23e102:
-    "Что обнажает ту часть ее тела, которую я ищу..."
+    "Что обнажает ту часть её тела, которую я ищу..."
 
 # ch/audrey/fuck.rpy:3462
 translate russian audrey_fuck_office_missionary_185ab310:
@@ -24406,7 +24406,7 @@ translate russian audrey_fuck_office_missionary_1cef8c70:
 
 # ch/audrey/fuck.rpy:3465
 translate russian audrey_fuck_office_missionary_36e28312:
-    "Поэтому я делаю резкий толчок вперед, и чувствую, как попадаю в цель."
+    "Поэтому я делаю резкий толчок вперёд, и чувствую, как попадаю в цель."
 
 # ch/audrey/fuck.rpy:3468
 translate russian audrey_fuck_office_missionary_80ea7439:
@@ -24414,7 +24414,7 @@ translate russian audrey_fuck_office_missionary_80ea7439:
 
 # ch/audrey/fuck.rpy:3469
 translate russian audrey_fuck_office_missionary_0bc31913:
-    audrey.say "Черт... моя задница!"
+    audrey.say "Чёрт... моя задница!"
 
 # ch/audrey/fuck.rpy:3470
 translate russian audrey_fuck_office_missionary_a4588a0f:
@@ -24422,7 +24422,7 @@ translate russian audrey_fuck_office_missionary_a4588a0f:
 
 # ch/audrey/fuck.rpy:3471
 translate russian audrey_fuck_office_missionary_e2c94a2e:
-    "Сначала ее мышцы напряжены и сопротивляются, неосознанно пытаясь не пустить меня внутрь."
+    "Сначала её мышцы напряжены и сопротивляются, неосознанно пытаясь не пустить меня внутрь."
 
 # ch/audrey/fuck.rpy:3472
 translate russian audrey_fuck_office_missionary_c60bbd9b:
@@ -24458,11 +24458,11 @@ translate russian audrey_fuck_office_missionary_f35e2814:
 
 # ch/audrey/fuck.rpy:3481
 translate russian audrey_fuck_office_missionary_7e9f8463:
-    "В ее теле не осталось ни грамма сопротивления."
+    "В её теле не осталось ни грамма сопротивления."
 
 # ch/audrey/fuck.rpy:3482
 translate russian audrey_fuck_office_missionary_9e5e35c1:
-    "Это означает, что я могу зайти в нее настолько глубоко, насколько это возможно."
+    "Это означает, что я могу зайти в неё настолько глубоко, насколько это возможно."
 
 # ch/audrey/fuck.rpy:3483
 translate russian audrey_fuck_office_missionary_6d954e13:
@@ -24486,11 +24486,11 @@ translate russian audrey_fuck_office_missionary_e2950094:
 
 # ch/audrey/fuck.rpy:3490
 translate russian audrey_fuck_office_missionary_5a4994f1:
-    "Она кивает головой, когда я двигаюсь внутри нее."
+    "Она кивает головой, когда я двигаюсь внутри неё."
 
 # ch/audrey/fuck.rpy:3491
 translate russian audrey_fuck_office_missionary_fa27353b:
-    "Это происходит быстрее, чем покачиваются ее груди."
+    "Это происходит быстрее, чем покачиваются её груди."
 
 # ch/audrey/fuck.rpy:3492
 translate russian audrey_fuck_office_missionary_60751868:
@@ -24498,11 +24498,11 @@ translate russian audrey_fuck_office_missionary_60751868:
 
 # ch/audrey/fuck.rpy:3493
 translate russian audrey_fuck_office_missionary_fb5e2649:
-    "Одри смотрит мне прямо в глаза все время."
+    "Одри смотрит мне прямо в глаза всё время."
 
 # ch/audrey/fuck.rpy:3494
 translate russian audrey_fuck_office_missionary_9b97d609:
-    "Ее дыхание становится коротким и прерывистым."
+    "Её дыхание становится коротким и прерывистым."
 
 # ch/audrey/fuck.rpy:3495
 translate russian audrey_fuck_office_missionary_983d534a:
@@ -24522,7 +24522,7 @@ translate russian audrey_fuck_office_missionary_c750a5f9:
 
 # ch/audrey/fuck.rpy:3502
 translate russian audrey_fuck_office_missionary_fb9fb13e:
-    "Я чувствую, как напрягаются ее мышцы и тело становится жестче."
+    "Я чувствую, как напрягаются её мышцы и тело становится жёстче."
 
 # ch/audrey/fuck.rpy:3503
 translate russian audrey_fuck_office_missionary_ff93a0da:
@@ -24534,11 +24534,11 @@ translate russian audrey_fuck_office_missionary_fb1e82dd:
 
 # ch/audrey/fuck.rpy:3505
 translate russian audrey_fuck_office_missionary_7bad8e59:
-    "Сейчас мой член глубоко внутри нее."
+    "Сейчас мой член глубоко внутри неё."
 
 # ch/audrey/fuck.rpy:3506
 translate russian audrey_fuck_office_missionary_69e9708c:
-    "Это значит, что я чувствую каждое сокращение и любое движение ее мышц."
+    "Это значит, что я чувствую каждое сокращение и любое движение её мышц."
 
 # ch/audrey/fuck.rpy:3507
 translate russian audrey_fuck_office_missionary_f933a0d6:
@@ -24546,7 +24546,7 @@ translate russian audrey_fuck_office_missionary_f933a0d6:
 
 # ch/audrey/fuck.rpy:3510
 translate russian audrey_fuck_office_missionary_f8f16315:
-    "Все мои усилия направлены на то, чтобы двигаться вперед."
+    "Все мои усилия направлены на то, чтобы двигаться вперёд."
 
 # ch/audrey/fuck.rpy:3511
 translate russian audrey_fuck_office_missionary_bc043589:
@@ -24554,7 +24554,7 @@ translate russian audrey_fuck_office_missionary_bc043589:
 
 # ch/audrey/fuck.rpy:3512
 translate russian audrey_fuck_office_missionary_a39bf758:
-    "Поэтому, естественно, лучшее решение – просто продолжать."
+    "Поэтому, естественно, лучшее решение — просто продолжать."
 
 # ch/audrey/fuck.rpy:3516
 translate russian audrey_fuck_office_missionary_3182bc3c:
@@ -24566,11 +24566,11 @@ translate russian audrey_fuck_office_missionary_97417162:
 
 # ch/audrey/fuck.rpy:3520
 translate russian audrey_fuck_office_missionary_ad1bdc84:
-    "Но, кажется, ощущение моего члена внутри нее снова вызывает у нее возбуждение."
+    "Но, кажется, ощущение моего члена внутри неё снова вызывает у неё возбуждение."
 
 # ch/audrey/fuck.rpy:3522
 translate russian audrey_fuck_office_missionary_782c42e6:
-    "И она стонет все время, пока я выпускаю сперму."
+    "И она стонет всё время, пока я выпускаю сперму."
 
 # ch/audrey/fuck.rpy:3526
 translate russian audrey_fuck_office_missionary_bf0072fe:
@@ -24578,11 +24578,11 @@ translate russian audrey_fuck_office_missionary_bf0072fe:
 
 # ch/audrey/fuck.rpy:3527
 translate russian audrey_fuck_office_missionary_fd4d4c20:
-    "А Одри еще больше усложняет это, пытаясь крепче держаться за меня!"
+    "А Одри ещё больше усложняет это, пытаясь крепче держаться за меня!"
 
 # ch/audrey/fuck.rpy:3531
 translate russian audrey_fuck_office_missionary_ae088e1d:
-    "Но каким-то образом мне все же удается извлечь свой член из нее вовремя."
+    "Но каким-то образом мне все же удаётся извлечь свой член из неё вовремя."
 
 # ch/audrey/fuck.rpy:3532
 translate russian audrey_fuck_office_missionary_0ce84c66:
@@ -24590,7 +24590,7 @@ translate russian audrey_fuck_office_missionary_0ce84c66:
 
 # ch/audrey/fuck.rpy:3536
 translate russian audrey_fuck_office_missionary_4580cebc:
-    "И я слышу, как Одри ахает, когда я обливаю ее живот спермой."
+    "И я слышу, как Одри ахает, когда я обливаю её живот спермой."
 
 # ch/audrey/fuck.rpy:3539
 translate russian audrey_fuck_office_missionary_d3176e79:
@@ -24606,15 +24606,15 @@ translate russian audrey_fuck_office_missionary_0ba863e9:
 
 # ch/audrey/fuck.rpy:3554
 translate russian audrey_fuck_office_missionary_03eb9c9a:
-    "Потому что для этого нужно всего лишь небольшое мое усилие."
+    "Потому что для этого нужно всего лишь небольшое моё усилие."
 
 # ch/audrey/fuck.rpy:3555
 translate russian audrey_fuck_office_missionary_daacb030:
-    "И вот, я чувствую, как мой член проникает внутрь нее."
+    "И вот, я чувствую, как мой член проникает внутрь неё."
 
 # ch/audrey/fuck.rpy:3558
 translate russian audrey_fuck_office_missionary_49e83c18:
-    "Я не останавливаюсь, пока он не войдет настолько глубоко, насколько это возможно."
+    "Я не останавливаюсь, пока он не войдёт настолько глубоко, насколько это возможно."
 
 # ch/audrey/fuck.rpy:3559
 translate russian audrey_fuck_office_missionary_affead8c:
@@ -24622,7 +24622,7 @@ translate russian audrey_fuck_office_missionary_affead8c:
 
 # ch/audrey/fuck.rpy:3560
 translate russian audrey_fuck_office_missionary_d35f8ea9:
-    "И я слышу, как Одри стонет, когда я погружаюсь в нее."
+    "И я слышу, как Одри стонет, когда я погружаюсь в неё."
 
 # ch/audrey/fuck.rpy:3561
 translate russian audrey_fuck_office_missionary_1660c825:
@@ -24638,7 +24638,7 @@ translate russian audrey_fuck_office_missionary_e000fdf6:
 
 # ch/audrey/fuck.rpy:3564
 translate russian audrey_fuck_office_missionary_c5970b61:
-    audrey.say "Вот о чем я говорю!"
+    audrey.say "Вот о чём я говорю!"
 
 # ch/audrey/fuck.rpy:3565
 translate russian audrey_fuck_office_missionary_7601f742:
@@ -24646,7 +24646,7 @@ translate russian audrey_fuck_office_missionary_7601f742:
 
 # ch/audrey/fuck.rpy:3566
 translate russian audrey_fuck_office_missionary_41d41d87:
-    "И я вижу этот лукавый блеск в ее глазах."
+    "И я вижу этот лукавый блеск в её глазах."
 
 # ch/audrey/fuck.rpy:3567
 translate russian audrey_fuck_office_missionary_83f906a3:
@@ -24662,7 +24662,7 @@ translate russian audrey_fuck_office_missionary_c15e7e6a:
 
 # ch/audrey/fuck.rpy:3573
 translate russian audrey_fuck_office_missionary_74ae8709:
-    "Я чувствую, как мое сердце начинает биться быстрее."
+    "Я чувствую, как моё сердце начинает биться быстрее."
 
 # ch/audrey/fuck.rpy:3574
 translate russian audrey_fuck_office_missionary_dda320f7:
@@ -24670,7 +24670,7 @@ translate russian audrey_fuck_office_missionary_dda320f7:
 
 # ch/audrey/fuck.rpy:3575
 translate russian audrey_fuck_office_missionary_8f246de4:
-    "И каждая секунда, которую я провожу внутри нее, делает это только сильнее."
+    "И каждая секунда, которую я провожу внутри неё, делает это только сильнее."
 
 # ch/audrey/fuck.rpy:3576
 translate russian audrey_fuck_office_missionary_4956fcef:
@@ -24690,7 +24690,7 @@ translate russian audrey_fuck_office_missionary_8bd6488c:
 
 # ch/audrey/fuck.rpy:3580
 translate russian audrey_fuck_office_missionary_808fd9b2:
-    audrey.say "Ты можешь трахать меня до изнеможения, и у нас все равно будет хватать денег на счета!"
+    audrey.say "Ты можешь трахать меня до изнеможения, и у нас всё равно будет хватать денег на счета!"
 
 # ch/audrey/fuck.rpy:3581
 translate russian audrey_fuck_office_missionary_0912262e:
@@ -24722,7 +24722,7 @@ translate russian audrey_fuck_office_missionary_c28af5e7:
 
 # ch/audrey/fuck.rpy:3588
 translate russian audrey_fuck_office_missionary_071fc361:
-    "Одри – это все плохое, что есть в этой работе, которую она выполняет здесь."
+    "Одри — это все плохое, что есть в этой работе, которую она выполняет здесь."
 
 # ch/audrey/fuck.rpy:3589
 translate russian audrey_fuck_office_missionary_6287fc94:
@@ -24730,7 +24730,7 @@ translate russian audrey_fuck_office_missionary_6287fc94:
 
 # ch/audrey/fuck.rpy:3590
 translate russian audrey_fuck_office_missionary_15672116:
-    "Но это только заставляет меня хотеть, чтобы она была рядом еще больше."
+    "Но это только заставляет меня хотеть, чтобы она была рядом ещё больше."
 
 # ch/audrey/fuck.rpy:3591
 translate russian audrey_fuck_office_missionary_49e6cc34:
@@ -24758,19 +24758,19 @@ translate russian audrey_fuck_office_missionary_502789a5:
 
 # ch/audrey/fuck.rpy:3599
 translate russian audrey_fuck_office_missionary_620a2773:
-    "Ее тело покачивается, когда я двигаюсь вверх и вниз внутри нее."
+    "Её тело покачивается, когда я двигаюсь вверх и вниз внутри неё."
 
 # ch/audrey/fuck.rpy:3600
 translate russian audrey_fuck_office_missionary_46f0117d:
-    "Мои бедра стукаются о ее, все громче и громче."
+    "Мои бедра стукаются о её, всё громче и громче."
 
 # ch/audrey/fuck.rpy:3601
 translate russian audrey_fuck_office_missionary_5fc3c27c:
-    "Ее груди подпрыгивают и дрожат на груди."
+    "Её груди подпрыгивают и дрожат на груди."
 
 # ch/audrey/fuck.rpy:3603
 translate russian audrey_fuck_office_missionary_0e690639:
-    "Ее стоны тоже становятся громче."
+    "Её стоны тоже становятся громче."
 
 # ch/audrey/fuck.rpy:3604
 translate russian audrey_fuck_office_missionary_f9fb6e44:
@@ -24942,19 +24942,19 @@ translate russian audrey_fuck_office_missionary_507a2537:
 
 # ch/audrey/fuck.rpy:3662
 translate russian audrey_fuck_office_missionary_aafe6b29:
-    "Одри реагирует почти мгновенно: ее мышцы напрягаются, и все тело становится жестким."
+    "Одри реагирует почти мгновенно: её мышцы напрягаются, и все тело становится жёстким."
 
 # ch/audrey/fuck.rpy:3663
 translate russian audrey_fuck_office_missionary_fd345d6d:
-    "Я чувствую, как что-то щелкает внутри нее, и она начинает достигать оргазма."
+    "Я чувствую, как что-то щёлкает внутри неё, и она начинает достигать оргазма."
 
 # ch/audrey/fuck.rpy:3664
 translate russian audrey_fuck_office_missionary_b9457437:
-    "В этот момент я настолько глубоко у нее внутри, насколько это вообще возможно."
+    "В этот момент я настолько глубоко у неё внутри, насколько это вообще возможно."
 
 # ch/audrey/fuck.rpy:3665
 translate russian audrey_fuck_office_missionary_69e9708c_1:
-    "Это значит, что я чувствую каждое сокращение и любое движение ее мышц."
+    "Это значит, что я чувствую каждое сокращение и любое движение её мышц."
 
 # ch/audrey/fuck.rpy:3666
 translate russian audrey_fuck_office_missionary_f933a0d6_1:
@@ -24962,7 +24962,7 @@ translate russian audrey_fuck_office_missionary_f933a0d6_1:
 
 # ch/audrey/fuck.rpy:3669
 translate russian audrey_fuck_office_missionary_f8f16315_1:
-    "Все мои усилия направлены на то, чтобы двигаться вперед."
+    "Все мои усилия направлены на то, чтобы двигаться вперёд."
 
 # ch/audrey/fuck.rpy:3670
 translate russian audrey_fuck_office_missionary_bc043589_1:
@@ -24970,7 +24970,7 @@ translate russian audrey_fuck_office_missionary_bc043589_1:
 
 # ch/audrey/fuck.rpy:3671
 translate russian audrey_fuck_office_missionary_a39bf758_1:
-    "Поэтому, естественно, лучшее решение – просто продолжать."
+    "Поэтому, естественно, лучшее решение — просто продолжать."
 
 # ch/audrey/fuck.rpy:3672
 translate russian audrey_fuck_office_missionary_a7680741:
@@ -24986,11 +24986,11 @@ translate russian audrey_fuck_office_missionary_97417162_1:
 
 # ch/audrey/fuck.rpy:3680
 translate russian audrey_fuck_office_missionary_637e32bf:
-    "Но, похоже, ощущение того, что я заканчиваю, снова возбуждает ее."
+    "Но, похоже, ощущение того, что я заканчиваю, снова возбуждает её."
 
 # ch/audrey/fuck.rpy:3682
 translate russian audrey_fuck_office_missionary_782c42e6_1:
-    "И она стонет все время, пока я выпускаю сперму."
+    "И она стонет всё время, пока я выпускаю сперму."
 
 # ch/audrey/fuck.rpy:3684
 translate russian audrey_fuck_office_missionary_bf0072fe_1:
@@ -24998,19 +24998,19 @@ translate russian audrey_fuck_office_missionary_bf0072fe_1:
 
 # ch/audrey/fuck.rpy:3685
 translate russian audrey_fuck_office_missionary_fd4d4c20_1:
-    "А Одри еще больше усложняет это, пытаясь крепче держаться за меня!"
+    "А Одри ещё больше усложняет это, пытаясь крепче держаться за меня!"
 
 # ch/audrey/fuck.rpy:3689
 translate russian audrey_fuck_office_missionary_ae088e1d_1:
-    "Но каким-то образом мне все же удается извлечь свой член из нее вовремя."
+    "Но каким-то образом мне все же удаётся извлечь свой член из неё вовремя."
 
 # ch/audrey/fuck.rpy:3693
 translate russian audrey_fuck_office_missionary_a7de1529:
-    "Но презерватив удерживает все, защищая ее от беспорядка."
+    "Но презерватив удерживает все, защищая её от беспорядка."
 
 # ch/audrey/fuck.rpy:3694
 translate russian audrey_fuck_office_missionary_985e8f2e:
-    "Она смотрит на это зрелище широко раскрытыми глазами и молчит все время, так и не находя слов."
+    "Она смотрит на это зрелище широко раскрытыми глазами и молчит всё время, так и не находя слов."
 
 # ch/audrey/fuck.rpy:3696
 translate russian audrey_fuck_office_missionary_0ce84c66_1:
@@ -25018,7 +25018,7 @@ translate russian audrey_fuck_office_missionary_0ce84c66_1:
 
 # ch/audrey/fuck.rpy:3700
 translate russian audrey_fuck_office_missionary_4580cebc_1:
-    "И я слышу, как Одри ахает, когда я обливаю ее живот спермой."
+    "И я слышу, как Одри ахает, когда я обливаю её живот спермой."
 
 # ch/audrey/fuck.rpy:3703
 translate russian audrey_fuck_office_missionary_d3176e79_1:
@@ -25030,7 +25030,7 @@ translate russian audrey_fuck_office_missionary_df9cb774_1:
 
 # ch/audrey/fuck.rpy:3709
 translate russian audrey_fuck_office_missionary_5dff9673:
-    audrey.say "Что ты ждешь?"
+    audrey.say "Что ты ждёшь?"
 
 # ch/audrey/fuck.rpy:3710
 translate russian audrey_fuck_office_missionary_f8cf2ef5:
@@ -25038,7 +25038,7 @@ translate russian audrey_fuck_office_missionary_f8cf2ef5:
 
 # ch/audrey/fuck.rpy:3711
 translate russian audrey_fuck_office_missionary_f8f16315_2:
-    "Все мои усилия направлены на то, чтобы двигаться вперед."
+    "Все мои усилия направлены на то, чтобы двигаться вперёд."
 
 # ch/audrey/fuck.rpy:3712
 translate russian audrey_fuck_office_missionary_bc043589_2:
@@ -25046,7 +25046,7 @@ translate russian audrey_fuck_office_missionary_bc043589_2:
 
 # ch/audrey/fuck.rpy:3713
 translate russian audrey_fuck_office_missionary_a39bf758_2:
-    "Поэтому, естественно, лучшее решение – просто продолжать."
+    "Поэтому, естественно, лучшее решение — просто продолжать."
 
 # ch/audrey/fuck.rpy:3714
 translate russian audrey_fuck_office_missionary_270a9b3d:
@@ -25062,15 +25062,15 @@ translate russian audrey_fuck_office_missionary_97417162_2:
 
 # ch/audrey/fuck.rpy:3723
 translate russian audrey_fuck_office_missionary_ad1bdc84_1:
-    "Но, кажется, ощущение моего члена внутри нее снова вызывает у нее возбуждение."
+    "Но, кажется, ощущение моего члена внутри неё снова вызывает у неё возбуждение."
 
 # ch/audrey/fuck.rpy:3725
 translate russian audrey_fuck_office_missionary_782c42e6_2:
-    "И она стонет все время, пока я выпускаю сперму."
+    "И она стонет всё время, пока я выпускаю сперму."
 
 # ch/audrey/fuck.rpy:3727
 translate russian audrey_fuck_office_missionary_5dff9673_1:
-    audrey.say "Что ты ждешь?"
+    audrey.say "Что ты ждёшь?"
 
 # ch/audrey/fuck.rpy:3728
 translate russian audrey_fuck_office_missionary_e203ac00:
@@ -25078,7 +25078,7 @@ translate russian audrey_fuck_office_missionary_e203ac00:
 
 # ch/audrey/fuck.rpy:3729
 translate russian audrey_fuck_office_missionary_f8f16315_3:
-    "Все мои усилия направлены на то, чтобы двигаться вперед."
+    "Все мои усилия направлены на то, чтобы двигаться вперёд."
 
 # ch/audrey/fuck.rpy:3730
 translate russian audrey_fuck_office_missionary_bc043589_3:
@@ -25086,7 +25086,7 @@ translate russian audrey_fuck_office_missionary_bc043589_3:
 
 # ch/audrey/fuck.rpy:3731
 translate russian audrey_fuck_office_missionary_a39bf758_3:
-    "Поэтому, естественно, лучшее решение – просто продолжать."
+    "Поэтому, естественно, лучшее решение — просто продолжать."
 
 # ch/audrey/fuck.rpy:3732
 translate russian audrey_fuck_office_missionary_270a9b3d_1:
@@ -25102,11 +25102,11 @@ translate russian audrey_fuck_office_missionary_97417162_3:
 
 # ch/audrey/fuck.rpy:3741
 translate russian audrey_fuck_office_missionary_ad1bdc84_2:
-    "Но, кажется, ощущение моего члена внутри нее снова вызывает у нее возбуждение."
+    "Но, кажется, ощущение моего члена внутри неё снова вызывает у неё возбуждение."
 
 # ch/audrey/fuck.rpy:3743
 translate russian audrey_fuck_office_missionary_782c42e6_3:
-    "И она стонет все время, пока я выпускаю сперму."
+    "И она стонет всё время, пока я выпускаю сперму."
 
 # ch/audrey/fuck.rpy:3745
 translate russian audrey_fuck_office_missionary_5fd8b122:
@@ -25118,7 +25118,7 @@ translate russian audrey_fuck_office_missionary_38614ddd:
 
 # ch/audrey/fuck.rpy:3747
 translate russian audrey_fuck_office_missionary_f8f16315_4:
-    "Все мои усилия направлены на то, чтобы двигаться вперед."
+    "Все мои усилия направлены на то, чтобы двигаться вперёд."
 
 # ch/audrey/fuck.rpy:3748
 translate russian audrey_fuck_office_missionary_bc043589_4:
@@ -25126,7 +25126,7 @@ translate russian audrey_fuck_office_missionary_bc043589_4:
 
 # ch/audrey/fuck.rpy:3749
 translate russian audrey_fuck_office_missionary_152543d6:
-    "Добавьте к этому еще эту сумасшедшую фразу, и у вас получится идеальное отвлечение."
+    "Добавьте к этому ещё эту сумасшедшую фразу, и у вас получится идеальное отвлечение."
 
 # ch/audrey/fuck.rpy:3750
 translate russian audrey_fuck_office_missionary_fa61f42b:
@@ -25142,15 +25142,15 @@ translate russian audrey_fuck_office_missionary_97417162_4:
 
 # ch/audrey/fuck.rpy:3760
 translate russian audrey_fuck_office_missionary_ad1bdc84_3:
-    "Но, кажется, ощущение моего члена внутри нее снова вызывает у нее возбуждение."
+    "Но, кажется, ощущение моего члена внутри неё снова вызывает у неё возбуждение."
 
 # ch/audrey/fuck.rpy:3762
 translate russian audrey_fuck_office_missionary_782c42e6_4:
-    "И она стонет все время, пока я выпускаю сперму."
+    "И она стонет всё время, пока я выпускаю сперму."
 
 # ch/audrey/fuck.rpy:3763
 translate russian audrey_fuck_office_missionary_84eef4b9:
-    "Оставив меня в панике из-за того, что я только что кончил внутри нее без презерватива!"
+    "Оставив меня в панике из-за того, что я только что кончил внутри неё без презерватива!"
 
 # ch/audrey/fuck.rpy:3765
 translate russian audrey_fuck_office_missionary_5fd8b122_1:
@@ -25158,11 +25158,11 @@ translate russian audrey_fuck_office_missionary_5fd8b122_1:
 
 # ch/audrey/fuck.rpy:3766
 translate russian audrey_fuck_office_missionary_94a267d2:
-    audrey.say "Ты должен вытащиться – прямо сейчас!"
+    audrey.say "Ты должен вытащиться — прямо сейчас!"
 
 # ch/audrey/fuck.rpy:3767
 translate russian audrey_fuck_office_missionary_5dff9673_2:
-    audrey.say "Что ты ждешь?"
+    audrey.say "Что ты ждёшь?"
 
 # ch/audrey/fuck.rpy:3768
 translate russian audrey_fuck_office_missionary_04963633:
@@ -25170,7 +25170,7 @@ translate russian audrey_fuck_office_missionary_04963633:
 
 # ch/audrey/fuck.rpy:3769
 translate russian audrey_fuck_office_missionary_f8f16315_5:
-    "Все мои усилия направлены на то, чтобы двигаться вперед."
+    "Все мои усилия направлены на то, чтобы двигаться вперёд."
 
 # ch/audrey/fuck.rpy:3770
 translate russian audrey_fuck_office_missionary_bc043589_5:
@@ -25190,15 +25190,15 @@ translate russian audrey_fuck_office_missionary_97417162_5:
 
 # ch/audrey/fuck.rpy:3781
 translate russian audrey_fuck_office_missionary_ad1bdc84_4:
-    "Но, кажется, ощущение моего члена внутри нее снова вызывает у нее возбуждение."
+    "Но, кажется, ощущение моего члена внутри неё снова вызывает у неё возбуждение."
 
 # ch/audrey/fuck.rpy:3782
 translate russian audrey_fuck_office_missionary_782c42e6_5:
-    "И она стонет все время, пока я выпускаю сперму."
+    "И она стонет всё время, пока я выпускаю сперму."
 
 # ch/audrey/fuck.rpy:3783
 translate russian audrey_fuck_office_missionary_84eef4b9_1:
-    "Оставив меня в панике из-за того, что я только что кончил внутри нее без презерватива!"
+    "Оставив меня в панике из-за того, что я только что кончил внутри неё без презерватива!"
 
 # ch/audrey/fuck.rpy:3789
 translate russian audrey_fuck_office_cunnilingus_798c68e8:
@@ -25206,7 +25206,7 @@ translate russian audrey_fuck_office_cunnilingus_798c68e8:
 
 # ch/audrey/fuck.rpy:3790
 translate russian audrey_fuck_office_cunnilingus_8170cc6d:
-    "И, возможно, я просто играю на ее стороне, делая это."
+    "И, возможно, я просто играю на её стороне, делая это."
 
 # ch/audrey/fuck.rpy:3791
 translate russian audrey_fuck_office_cunnilingus_81c1c334:
@@ -25286,15 +25286,15 @@ translate russian audrey_fuck_office_cunnilingus_f969946e:
 
 # ch/audrey/fuck.rpy:3812
 translate russian audrey_fuck_office_cunnilingus_5da469e0:
-    "Через мгновение моя голова оказывается между бедер Одри."
+    "Через мгновение моя голова оказывается между бёдер Одри."
 
 # ch/audrey/fuck.rpy:3813
 translate russian audrey_fuck_office_cunnilingus_f55cf562:
-    "И мой язык исследует область вокруг ее влагалища."
+    "И мой язык исследует область вокруг её влагалища."
 
 # ch/audrey/fuck.rpy:3814
 translate russian audrey_fuck_office_cunnilingus_4a8dc784:
-    "Все это, похоже, вызывает внезапную перемену в ее настроении."
+    "Все это, похоже, вызывает внезапную перемену в её настроении."
 
 # ch/audrey/fuck.rpy:3815
 translate russian audrey_fuck_office_cunnilingus_14a6191a:
@@ -25694,7 +25694,7 @@ translate russian audrey_fuck_office_cunnilingus_2de4abb6:
 
 # ch/audrey/fuck.rpy:3928
 translate russian audrey_fuck_office_cunnilingus_2982c70a:
-    "Но все, что я могу сделать, это перетерпеть и ждать, пока этот момент пройдет."
+    "Но всё, что я могу сделать, это перетерпеть и ждать, пока этот момент пройдёт."
 
 # ch/audrey/fuck.rpy:3929
 translate russian audrey_fuck_office_cunnilingus_acdd6e83:
@@ -25742,7 +25742,7 @@ translate russian audrey_fuck_office_spank_e7ce1092:
 
 # ch/audrey/fuck.rpy:3948
 translate russian audrey_fuck_office_spank_2638be96:
-    mike.say "Все в порядке?"
+    mike.say "Всё в порядке?"
 
 # ch/audrey/fuck.rpy:3949
 translate russian audrey_fuck_office_spank_a1046077:
@@ -25750,7 +25750,7 @@ translate russian audrey_fuck_office_spank_a1046077:
 
 # ch/audrey/fuck.rpy:3950
 translate russian audrey_fuck_office_spank_ef6ac23a:
-    "И на ее лице появляется выражение беззаботности."
+    "И на её лице появляется выражение беззаботности."
 
 # ch/audrey/fuck.rpy:3951
 translate russian audrey_fuck_office_spank_f5d020ec:
@@ -25786,7 +25786,7 @@ translate russian audrey_fuck_office_spank_b50382f1:
 
 # ch/audrey/fuck.rpy:3960
 translate russian audrey_fuck_office_spank_fa7e88f6:
-    "И ее глаза бродят то в одну сторону, то в другую, ни на чем конкретном не задерживаясь."
+    "И её глаза бродят то в одну сторону, то в другую, ни на чём конкретном не задерживаясь."
 
 # ch/audrey/fuck.rpy:3961
 translate russian audrey_fuck_office_spank_dd7800b6:
@@ -25906,11 +25906,11 @@ translate russian audrey_fuck_office_spank_96ac4e23:
 
 # ch/audrey/fuck.rpy:3996
 translate russian audrey_fuck_office_spank_84b3ba1f:
-    "Я вскакиваю со стула еще до того, как Одри закончит свое задание."
+    "Я вскакиваю со стула ещё до того, как Одри закончит своё задание."
 
 # ch/audrey/fuck.rpy:3997
 translate russian audrey_fuck_office_spank_b33f3a69:
-    "Я хватаю ее за талию, и она испуганно взвизгивает."
+    "Я хватаю её за талию, и она испуганно взвизгивает."
 
 # ch/audrey/fuck.rpy:3998
 translate russian audrey_fuck_office_spank_a9b3fc99:
@@ -25942,15 +25942,15 @@ translate russian audrey_fuck_office_spank_4a3ba2ef:
 
 # ch/audrey/fuck.rpy:4007
 translate russian audrey_fuck_office_spank_1805e21a:
-    "Теперь я действую автоматически, укладываю ее на колени."
+    "Теперь я действую автоматически, укладываю её на колени."
 
 # ch/audrey/fuck.rpy:4011
 translate russian audrey_fuck_office_spank_c2060f0b:
-    "Через мгновение Одри лежит у меня на бедрах, и ее ягодицы обнажены."
+    "Через мгновение Одри лежит у меня на бёдрах, и её ягодицы обнажены."
 
 # ch/audrey/fuck.rpy:4013
 translate russian audrey_fuck_office_spank_d82ce091:
-    "Через мгновение я опускаю юбку Одри и обнажаю ее ягодицы."
+    "Через мгновение я опускаю юбку Одри и обнажаю её ягодицы."
 
 # ch/audrey/fuck.rpy:4014
 translate russian audrey_fuck_office_spank_4ea660dd:
@@ -25958,7 +25958,7 @@ translate russian audrey_fuck_office_spank_4ea660dd:
 
 # ch/audrey/fuck.rpy:4015
 translate russian audrey_fuck_office_spank_ea224af0:
-    "Я не жду ни секунды, а просто начинаю ласкать ее задницу рукой."
+    "Я не жду ни секунды, а просто начинаю ласкать её задницу рукой."
 
 # ch/audrey/fuck.rpy:4021
 translate russian audrey_fuck_office_spank_42a15431:
@@ -25986,7 +25986,7 @@ translate russian audrey_fuck_office_spank_a0efb387:
 
 # ch/audrey/fuck.rpy:4032
 translate russian audrey_fuck_office_spank_c81d6321:
-    "Каждый удар заставляет ее задыхаться и извиваться на моих коленях."
+    "Каждый удар заставляет её задыхаться и извиваться на моих коленях."
 
 # ch/audrey/fuck.rpy:4033
 translate russian audrey_fuck_office_spank_317f4980:
@@ -26194,7 +26194,7 @@ translate russian audrey_boardgame_sex_60445daa:
 
 # ch/audrey/fuck.rpy:4119
 translate russian audrey_boardgame_sex_a03d6657:
-    "И мы уже довольно долго играем в \"Плутократию\"."
+    "И мы уже довольно долго играем в «Плутократию»."
 
 # ch/audrey/fuck.rpy:4120
 translate russian audrey_boardgame_sex_25862f24:
@@ -26202,7 +26202,7 @@ translate russian audrey_boardgame_sex_25862f24:
 
 # ch/audrey/fuck.rpy:4121
 translate russian audrey_boardgame_sex_f295ab76:
-    audrey.say "Как долго это еще продлится?"
+    audrey.say "Как долго это ещё продлится?"
 
 # ch/audrey/fuck.rpy:4122
 translate russian audrey_boardgame_sex_4c89cad4:
@@ -26254,7 +26254,7 @@ translate russian audrey_boardgame_sex_b549cbca:
 
 # ch/audrey/fuck.rpy:4140
 translate russian audrey_boardgame_sex_603baf26:
-    audrey.say "Черт побери!"
+    audrey.say "Чёрт побери!"
 
 # ch/audrey/fuck.rpy:4141
 translate russian audrey_boardgame_sex_3b93cc6d:
@@ -26262,7 +26262,7 @@ translate russian audrey_boardgame_sex_3b93cc6d:
 
 # ch/audrey/fuck.rpy:4142
 translate russian audrey_boardgame_sex_e8afb89a:
-    audrey.say "Что ты – домовладелец-паразит?"
+    audrey.say "Что ты — домовладелец-паразит?"
 
 # ch/audrey/fuck.rpy:4143
 translate russian audrey_boardgame_sex_12e1c7a5:
@@ -26286,7 +26286,7 @@ translate russian audrey_boardgame_sex_613b99da:
 
 # ch/audrey/fuck.rpy:4148
 translate russian audrey_boardgame_sex_6b652ceb:
-    audrey.say "Да ну – у меня нет этих денег."
+    audrey.say "Да ну — у меня нет этих денег."
 
 # ch/audrey/fuck.rpy:4149
 translate russian audrey_boardgame_sex_4cb16a4e:
@@ -26294,7 +26294,7 @@ translate russian audrey_boardgame_sex_4cb16a4e:
 
 # ch/audrey/fuck.rpy:4150
 translate russian audrey_boardgame_sex_5c6a684b:
-    mike.say "Ты же только что прошла \"Старт\" и получила двести долларов."
+    mike.say "Ты же только что прошла «Старт» и получила двести долларов."
 
 # ch/audrey/fuck.rpy:4151
 translate russian audrey_boardgame_sex_5b2982d1:
@@ -26330,7 +26330,7 @@ translate russian audrey_boardgame_sex_e493fa8e:
 
 # ch/audrey/fuck.rpy:4162
 translate russian audrey_boardgame_sex_6845becc:
-    "Но Одри резко отдергивает их и вырывает из моей досягаемости."
+    "Но Одри резко отдёргивает их и вырывает из моей досягаемости."
 
 # ch/audrey/fuck.rpy:4164
 translate russian audrey_boardgame_sex_02f638e1:
@@ -26398,7 +26398,7 @@ translate russian audrey_boardgame_sex_a762763d:
 
 # ch/audrey/fuck.rpy:4180
 translate russian audrey_boardgame_sex_8832dade:
-    "И я снимаю с нее одежду, готовясь к совершенно другой игре..."
+    "И я снимаю с неё одежду, готовясь к совершенно другой игре..."
 
 # ch/audrey/fuck.rpy:4186
 translate russian audrey_boardgame_sex_e9eff86f:
@@ -26410,7 +26410,7 @@ translate russian audrey_boardgame_sex_55d2dbd7:
 
 # ch/audrey/fuck.rpy:4188
 translate russian audrey_boardgame_sex_e8069940:
-    "Я чувствую, как головка моего члена трется о ее влагалище."
+    "Я чувствую, как головка моего члена трётся о её влагалище."
 
 # ch/audrey/fuck.rpy:4189
 translate russian audrey_boardgame_sex_f3170050:
@@ -26442,7 +26442,7 @@ translate russian audrey_boardgame_sex_93daddb0:
 
 # ch/audrey/fuck.rpy:4198
 translate russian audrey_boardgame_sex_ab689798:
-    "Я медленно проникаю внутрь Одри, несмотря на то, что ее мышцы пытаются сопротивляться."
+    "Я медленно проникаю внутрь Одри, несмотря на то, что её мышцы пытаются сопротивляться."
 
 # ch/audrey/fuck.rpy:4199
 translate russian audrey_boardgame_sex_47197c8a:
@@ -26450,15 +26450,15 @@ translate russian audrey_boardgame_sex_47197c8a:
 
 # ch/audrey/fuck.rpy:4200
 translate russian audrey_boardgame_sex_130746f4:
-    "Пока я не войду в нее настолько глубоко, насколько это вообще возможно."
+    "Пока я не войду в неё настолько глубоко, насколько это вообще возможно."
 
 # ch/audrey/fuck.rpy:4201
 translate russian audrey_boardgame_sex_6c61d0ef:
-    "Одри все еще кивает головой, как будто она здесь главная."
+    "Одри всё ещё кивает головой, как будто она здесь главная."
 
 # ch/audrey/fuck.rpy:4202
 translate russian audrey_boardgame_sex_d4112979:
-    "Но я уже глубоко внутри нее, и она серьезно меня возбудила."
+    "Но я уже глубоко внутри неё, и она серьёзно меня возбудила."
 
 # ch/audrey/fuck.rpy:4203
 translate russian audrey_boardgame_sex_67298f81:
@@ -26530,15 +26530,15 @@ translate russian audrey_boardgame_sex_600aff20:
 
 # ch/audrey/fuck.rpy:4229
 translate russian audrey_boardgame_sex_9970c713:
-    "Как дрожат и подергиваются ее мышцы."
+    "Как дрожат и подёргиваются её мышцы."
 
 # ch/audrey/fuck.rpy:4230
 translate russian audrey_boardgame_sex_71cd8872:
-    "Захлебывающиеся стоны, вырывающиеся из ее рта."
+    "Захлебывающиеся стоны, вырывающиеся из её рта."
 
 # ch/audrey/fuck.rpy:4231
 translate russian audrey_boardgame_sex_fa19015f:
-    "И то, как начинают мутнеть ее глаза!"
+    "И то, как начинают мутнеть её глаза!"
 
 # ch/audrey/fuck.rpy:4232
 translate russian audrey_boardgame_sex_554e41fb:
@@ -26546,11 +26546,11 @@ translate russian audrey_boardgame_sex_554e41fb:
 
 # ch/audrey/fuck.rpy:4233
 translate russian audrey_boardgame_sex_de305326:
-    "Но похоже, что я опережу ее!"
+    "Но похоже, что я опережу её!"
 
 # ch/audrey/fuck.rpy:4236
 translate russian audrey_boardgame_sex_1572dff2:
-    "Через мгновение мои слова подтверждаются: все мое тело напрягается."
+    "Через мгновение мои слова подтверждаются: все моё тело напрягается."
 
 # ch/audrey/fuck.rpy:4237
 translate russian audrey_boardgame_sex_2c4ab6d3:
@@ -26558,23 +26558,23 @@ translate russian audrey_boardgame_sex_2c4ab6d3:
 
 # ch/audrey/fuck.rpy:4241
 translate russian audrey_boardgame_sex_f479f0c8:
-    "Я извергаю сперму внутрь нее, насколько это возможно."
+    "Я извергаю сперму внутрь неё, насколько это возможно."
 
 # ch/audrey/fuck.rpy:4244
 translate russian audrey_boardgame_sex_591805eb:
-    "Это окончательно доводит ее до предела, отправляя в состояние экстаза."
+    "Это окончательно доводит её до предела, отправляя в состояние экстаза."
 
 # ch/audrey/fuck.rpy:4246
 translate russian audrey_boardgame_sex_8635acf3:
-    "Одри извивается и корчится от моего члена внутри нее."
+    "Одри извивается и корчится от моего члена внутри неё."
 
 # ch/audrey/fuck.rpy:4247
 translate russian audrey_boardgame_sex_6bf718ec:
-    "Она цепляется за меня так, будто от этого зависит ее жизнь."
+    "Она цепляется за меня так, будто от этого зависит её жизнь."
 
 # ch/audrey/fuck.rpy:4252
 translate russian audrey_boardgame_sex_1572dff2_1:
-    "Через мгновение мои слова подтверждаются: все мое тело напрягается."
+    "Через мгновение мои слова подтверждаются: все моё тело напрягается."
 
 # ch/audrey/fuck.rpy:4253
 translate russian audrey_boardgame_sex_baaf6b35:
@@ -26582,7 +26582,7 @@ translate russian audrey_boardgame_sex_baaf6b35:
 
 # ch/audrey/fuck.rpy:4257
 translate russian audrey_boardgame_sex_d33fc260:
-    "И тут же... я извергаю сперму на нее."
+    "И тут же... я извергаю сперму на неё."
 
 # ch/audrey/fuck.rpy:4259
 translate russian audrey_boardgame_sex_a0457b01:
@@ -26590,7 +26590,7 @@ translate russian audrey_boardgame_sex_a0457b01:
 
 # ch/audrey/fuck.rpy:4263
 translate russian audrey_boardgame_sex_d60e049e:
-    "Она извивается и корчится, пока я обдаю ее живот спермой."
+    "Она извивается и корчится, пока я обдаю её живот спермой."
 
 # ch/audrey/fuck.rpy:4265
 translate russian audrey_boardgame_sex_73ac15ec:
@@ -26606,7 +26606,7 @@ translate russian audrey_boardgame_sex_55d2dbd7_1:
 
 # ch/audrey/fuck.rpy:4272
 translate russian audrey_boardgame_sex_e8069940_1:
-    "Я чувствую, как головка моего члена трется о ее влагалище."
+    "Я чувствую, как головка моего члена трётся о её влагалище."
 
 # ch/audrey/fuck.rpy:4273
 translate russian audrey_boardgame_sex_f3170050_1:
@@ -26630,7 +26630,7 @@ translate russian audrey_boardgame_sex_fee8ceca:
 
 # ch/audrey/fuck.rpy:4279
 translate russian audrey_boardgame_sex_e0b0b56e:
-    "Я медленно проникаю внутрь Одри, пока ее губы приоткрываются."
+    "Я медленно проникаю внутрь Одри, пока её губы приоткрываются."
 
 # ch/audrey/fuck.rpy:4285
 translate russian audrey_boardgame_sex_47197c8a_1:
@@ -26638,15 +26638,15 @@ translate russian audrey_boardgame_sex_47197c8a_1:
 
 # ch/audrey/fuck.rpy:4286
 translate russian audrey_boardgame_sex_130746f4_1:
-    "Пока я не войду в нее настолько глубоко, насколько это вообще возможно."
+    "Пока я не войду в неё настолько глубоко, насколько это вообще возможно."
 
 # ch/audrey/fuck.rpy:4291
 translate russian audrey_boardgame_sex_6c61d0ef_1:
-    "Одри все еще кивает головой, как будто она здесь главная."
+    "Одри всё ещё кивает головой, как будто она здесь главная."
 
 # ch/audrey/fuck.rpy:4292
 translate russian audrey_boardgame_sex_d4112979_1:
-    "Но я уже глубоко внутри нее, и она серьезно меня возбудила."
+    "Но я уже глубоко внутри неё, и она серьёзно меня возбудила."
 
 # ch/audrey/fuck.rpy:4293
 translate russian audrey_boardgame_sex_67298f81_1:
@@ -26822,15 +26822,15 @@ translate russian audrey_boardgame_sex_600aff20_1:
 
 # ch/audrey/fuck.rpy:4356
 translate russian audrey_boardgame_sex_9970c713_1:
-    "Как дрожат и подергиваются ее мышцы."
+    "Как дрожат и подёргиваются её мышцы."
 
 # ch/audrey/fuck.rpy:4357
 translate russian audrey_boardgame_sex_71cd8872_1:
-    "Захлебывающиеся стоны, вырывающиеся из ее рта."
+    "Захлебывающиеся стоны, вырывающиеся из её рта."
 
 # ch/audrey/fuck.rpy:4358
 translate russian audrey_boardgame_sex_fa19015f_1:
-    "И то, как начинают мутнеть ее глаза!"
+    "И то, как начинают мутнеть её глаза!"
 
 # ch/audrey/fuck.rpy:4359
 translate russian audrey_boardgame_sex_554e41fb_1:
@@ -26838,11 +26838,11 @@ translate russian audrey_boardgame_sex_554e41fb_1:
 
 # ch/audrey/fuck.rpy:4360
 translate russian audrey_boardgame_sex_de305326_1:
-    "Но похоже, что я опережу ее!"
+    "Но похоже, что я опережу её!"
 
 # ch/audrey/fuck.rpy:4363
 translate russian audrey_boardgame_sex_1572dff2_2:
-    "Через мгновение мои слова подтверждаются: все мое тело напрягается."
+    "Через мгновение мои слова подтверждаются: все моё тело напрягается."
 
 # ch/audrey/fuck.rpy:4364
 translate russian audrey_boardgame_sex_baaf6b35_1:
@@ -26862,7 +26862,7 @@ translate russian audrey_boardgame_sex_346f0d7e:
 
 # ch/audrey/fuck.rpy:4375
 translate russian audrey_boardgame_sex_d33fc260_1:
-    "И тут же... я извергаю сперму на нее."
+    "И тут же... я извергаю сперму на неё."
 
 # ch/audrey/fuck.rpy:4377
 translate russian audrey_boardgame_sex_a0457b01_2:
@@ -26870,7 +26870,7 @@ translate russian audrey_boardgame_sex_a0457b01_2:
 
 # ch/audrey/fuck.rpy:4384
 translate russian audrey_boardgame_sex_d60e049e_1:
-    "Она извивается и корчится, пока я обдаю ее живот спермой."
+    "Она извивается и корчится, пока я обдаю её живот спермой."
 
 # ch/audrey/fuck.rpy:4386
 translate russian audrey_boardgame_sex_73ac15ec_1:
@@ -26878,7 +26878,7 @@ translate russian audrey_boardgame_sex_73ac15ec_1:
 
 # ch/audrey/fuck.rpy:4390
 translate russian audrey_boardgame_sex_1572dff2_3:
-    "Через мгновение мои слова подтверждаются: все мое тело напрягается."
+    "Через мгновение мои слова подтверждаются: все моё тело напрягается."
 
 # ch/audrey/fuck.rpy:4391
 translate russian audrey_boardgame_sex_039439f2:
@@ -26886,23 +26886,23 @@ translate russian audrey_boardgame_sex_039439f2:
 
 # ch/audrey/fuck.rpy:4393
 translate russian audrey_boardgame_sex_83475441:
-    "Я выпускаю сперму, презерватив удерживает все, что я должен был отдать."
+    "Я выпускаю сперму, презерватив удерживает всё, что я должен был отдать."
 
 # ch/audrey/fuck.rpy:4398
 translate russian audrey_boardgame_sex_591805eb_1:
-    "Это окончательно доводит ее до предела, отправляя в состояние экстаза."
+    "Это окончательно доводит её до предела, отправляя в состояние экстаза."
 
 # ch/audrey/fuck.rpy:4400
 translate russian audrey_boardgame_sex_bb71ea32:
-    "Одри извивается и корчится, мой член все еще внутри нее."
+    "Одри извивается и корчится, мой член всё ещё внутри неё."
 
 # ch/audrey/fuck.rpy:4401
 translate russian audrey_boardgame_sex_6bf718ec_1:
-    "Она цепляется за меня так, будто от этого зависит ее жизнь."
+    "Она цепляется за меня так, будто от этого зависит её жизнь."
 
 # ch/audrey/fuck.rpy:4403
 translate russian audrey_boardgame_sex_1572dff2_4:
-    "Через мгновение мои слова подтверждаются: все мое тело напрягается."
+    "Через мгновение мои слова подтверждаются: все моё тело напрягается."
 
 # ch/audrey/fuck.rpy:4404
 translate russian audrey_boardgame_sex_2c4ab6d3_1:
@@ -26910,23 +26910,23 @@ translate russian audrey_boardgame_sex_2c4ab6d3_1:
 
 # ch/audrey/fuck.rpy:4406
 translate russian audrey_boardgame_sex_f479f0c8_1:
-    "Я извергаю сперму внутрь нее, насколько это возможно."
+    "Я извергаю сперму внутрь неё, насколько это возможно."
 
 # ch/audrey/fuck.rpy:4414
 translate russian audrey_boardgame_sex_591805eb_2:
-    "Это окончательно доводит ее до предела, отправляя в состояние экстаза."
+    "Это окончательно доводит её до предела, отправляя в состояние экстаза."
 
 # ch/audrey/fuck.rpy:4416
 translate russian audrey_boardgame_sex_8635acf3_1:
-    "Одри извивается и корчится от моего члена внутри нее."
+    "Одри извивается и корчится от моего члена внутри неё."
 
 # ch/audrey/fuck.rpy:4417
 translate russian audrey_boardgame_sex_6bf718ec_2:
-    "Она цепляется за меня так, будто от этого зависит ее жизнь."
+    "Она цепляется за меня так, будто от этого зависит её жизнь."
 
 # ch/audrey/fuck.rpy:4423
 translate russian audrey_boardgame_sex_feafe913:
-    "После этого Одри ползет по полу, собирая свою одежду."
+    "После этого Одри ползёт по полу, собирая свою одежду."
 
 # ch/audrey/fuck.rpy:4424
 translate russian audrey_boardgame_sex_8664ade9:
@@ -26934,19 +26934,19 @@ translate russian audrey_boardgame_sex_8664ade9:
 
 # ch/audrey/fuck.rpy:4425
 translate russian audrey_boardgame_sex_7afdb506:
-    mike.say "Черт!"
+    mike.say "Чёрт!"
 
 # ch/audrey/fuck.rpy:4426
 translate russian audrey_boardgame_sex_ac45ee01:
-    mike.say "У меня эта игра была еще с детства."
+    mike.say "У меня эта игра была ещё с детства."
 
 # ch/audrey/fuck.rpy:4427
 translate russian audrey_boardgame_sex_72df1934:
-    "Одри останавливается и смотрит через мое плечо."
+    "Одри останавливается и смотрит через моё плечо."
 
 # ch/audrey/fuck.rpy:4428
 translate russian audrey_boardgame_sex_f71fa12a:
-    "Затем она издает хмыкающий звук и качает головой."
+    "Затем она издаёт хмыкающий звук и качает головой."
 
 # ch/audrey/fuck.rpy:4429
 translate russian audrey_boardgame_sex_c89d1d05:
@@ -26954,7 +26954,7 @@ translate russian audrey_boardgame_sex_c89d1d05:
 
 # ch/audrey/fuck.rpy:4431
 translate russian audrey_boardgame_sex_a9553131:
-    audrey.say "Сколько еще парней получили секс благодаря настольной игре?"
+    audrey.say "Сколько ещё парней получили секс благодаря настольной игре?"
 
 # ch/audrey/fuck.rpy:4432
 translate russian audrey_boardgame_sex_38b38b2a:
@@ -26970,7 +26970,7 @@ translate russian audrey_fuck_audreyhome_52e9b1ba:
 
 # ch/audrey/fuck.rpy:4447
 translate russian audrey_fuck_audreyhome_47604d1a:
-    "Потому что я хочу, чтобы у нее сложилось впечатление, что все это абсолютно нормально."
+    "Потому что я хочу, чтобы у неё сложилось впечатление, что все это абсолютно нормально."
 
 # ch/audrey/fuck.rpy:4448
 translate russian audrey_fuck_audreyhome_938af47a:
@@ -27098,11 +27098,11 @@ translate russian audrey_fuck_audreyhome_222ea4da:
 
 # ch/audrey/fuck.rpy:4490
 translate russian audrey_fuck_audreyhome_2a969398:
-    "И я вижу, что у нее на лице играет кривая улыбка."
+    "И я вижу, что у неё на лице играет кривая улыбка."
 
 # ch/audrey/fuck.rpy:4492
 translate russian audrey_fuck_audreyhome_52d1b2b5:
-    audrey.say "Боже мой, [lssb_audrey.hero_name()]…"
+    audrey.say "Боже мой, [lssb_audrey.hero_name()]..."
 
 # ch/audrey/fuck.rpy:4493
 translate russian audrey_fuck_audreyhome_5fbfe405:
@@ -27130,7 +27130,7 @@ translate russian audrey_fuck_audreyhome_45d204cb:
 
 # ch/audrey/fuck.rpy:4500
 translate russian audrey_fuck_audreyhome_70914f21:
-    "Затем она ведет меня к кровати, притягивая меня за собой, пока сама садится на матрас."
+    "Затем она ведёт меня к кровати, притягивая меня за собой, пока сама садится на матрас."
 
 # ch/audrey/fuck.rpy:4501
 translate russian audrey_fuck_audreyhome_398ff62a:
@@ -27158,7 +27158,7 @@ translate russian audrey_fuck_audreyhome_79db48be:
 
 # ch/audrey/fuck.rpy:4507
 translate russian audrey_fuck_audreyhome_ccffa443:
-    "Скорее потому, что сейчас я почти полностью под ее контролем, чем из-за чего-то еще."
+    "Скорее потому, что сейчас я почти полностью под её контролем, чем из-за чего-то ещё."
 
 # ch/audrey/fuck.rpy:4508
 translate russian audrey_fuck_audreyhome_cb535a3a:
@@ -27182,7 +27182,7 @@ translate russian audrey_fuck_audreyhome_eb7bb17f:
 
 # ch/audrey/fuck.rpy:4513
 translate russian audrey_fuck_audreyhome_ff58e597:
-    "И как только мы садимся рядом друг с другом, Одри не дает мне снова заговорить."
+    "И как только мы садимся рядом друг с другом, Одри не даёт мне снова заговорить."
 
 # ch/audrey/fuck.rpy:4517
 translate russian audrey_fuck_audreyhome_6729d1ce:
@@ -27222,7 +27222,7 @@ translate russian audrey_fuck_audreyhome_e0523c3e:
 
 # ch/audrey/fuck.rpy:4526
 translate russian audrey_fuck_audreyhome_aaad46a3:
-    "Вскоре я чувствую ее руки на себе, она гладит и ласкает мое тело."
+    "Вскоре я чувствую её руки на себе, она гладит и ласкает моё тело."
 
 # ch/audrey/fuck.rpy:4527
 translate russian audrey_fuck_audreyhome_c667f588:
@@ -27242,11 +27242,11 @@ translate russian audrey_fuck_audreyhome_766a29b4:
 
 # ch/audrey/fuck.rpy:4531
 translate russian audrey_fuck_audreyhome_1be5d9e6:
-    "Но мне требуется еще несколько мгновений, чтобы осознать, что она делает не только это."
+    "Но мне требуется ещё несколько мгновений, чтобы осознать, что она делает не только это."
 
 # ch/audrey/fuck.rpy:4532
 translate russian audrey_fuck_audreyhome_5eb61499:
-    "Каким-то образом Одри начинает расстегивать пуговицы и молнии на моей одежде."
+    "Каким-то образом Одри начинает расстёгивать пуговицы и молнии на моей одежде."
 
 # ch/audrey/fuck.rpy:4533
 translate russian audrey_fuck_audreyhome_65401e68:
@@ -27262,15 +27262,15 @@ translate russian audrey_fuck_audreyhome_1358d939:
 
 # ch/audrey/fuck.rpy:4536
 translate russian audrey_fuck_audreyhome_040e08df:
-    "Я пытаюсь сделать то же самое, чувствуя себя совершенно неуклюже и безнадежно."
+    "Я пытаюсь сделать то же самое, чувствуя себя совершенно неуклюже и безнадёжно."
 
 # ch/audrey/fuck.rpy:4538
 translate russian audrey_fuck_audreyhome_930997d2:
-    "Но каким-то образом мне удается хотя бы начать снимать часть одежды с Одри."
+    "Но каким-то образом мне удаётся хотя бы начать снимать часть одежды с Одри."
 
 # ch/audrey/fuck.rpy:4539
 translate russian audrey_fuck_audreyhome_0903e076:
-    "Хотя часть меня думает, что большая часть того, что я делаю, получается благодаря ее помощи."
+    "Хотя часть меня думает, что большая часть того, что я делаю, получается благодаря её помощи."
 
 # ch/audrey/fuck.rpy:4540
 translate russian audrey_fuck_audreyhome_5e0b6bc0:
@@ -27294,7 +27294,7 @@ translate russian audrey_fuck_audreyhome_14f8b31f:
 
 # ch/audrey/fuck.rpy:4545
 translate russian audrey_fuck_audreyhome_71a2524f:
-    "Поцелуй продолжается до тех пор, пока мы оба не останемся полностью обнаженными."
+    "Поцелуй продолжается до тех пор, пока мы оба не останемся полностью обнажёнными."
 
 # ch/audrey/fuck.rpy:4546
 translate russian audrey_fuck_audreyhome_0766bbc4:
@@ -27362,11 +27362,11 @@ translate russian audrey_fuck_audreybedroom_blowjob_24df29b3:
 
 # ch/audrey/fuck.rpy:4582
 translate russian audrey_fuck_audreybedroom_blowjob_6bc16fb6:
-    "Меня не удивляет, что я чувствую, как мое напряжение растет с каждой секундой."
+    "Меня не удивляет, что я чувствую, как моё напряжение растёт с каждой секундой."
 
 # ch/audrey/fuck.rpy:4583
 translate russian audrey_fuck_audreybedroom_blowjob_293ca148:
-    "Вскоре я уже не могу удержаться от того, чтобы посмотреть вниз на то, что поднимается между моими бедрами."
+    "Вскоре я уже не могу удержаться от того, чтобы посмотреть вниз на то, что поднимается между моими бёдрами."
 
 # ch/audrey/fuck.rpy:4584
 translate russian audrey_fuck_audreybedroom_blowjob_f0bde0bf:
@@ -27426,7 +27426,7 @@ translate russian audrey_fuck_audreybedroom_blowjob_a2d9a823:
 
 # ch/audrey/fuck.rpy:4606
 translate russian audrey_fuck_audreybedroom_blowjob_25e81830:
-    "Она дает мне понять, что готова сделать все, чтобы облегчить мое состояние."
+    "Она даёт мне понять, что готова сделать все, чтобы облегчить моё состояние."
 
 # ch/audrey/fuck.rpy:4609
 translate russian audrey_fuck_audreybedroom_blowjob_07f1205d:
@@ -27454,11 +27454,11 @@ translate russian audrey_fuck_audreybedroom_blowjob_ac945aef:
 
 # ch/audrey/fuck.rpy:4622
 translate russian audrey_fuck_audreybedroom_blowjob_64f5f679:
-    "Затем она опускается на колени, чтобы подобраться еще ближе."
+    "Затем она опускается на колени, чтобы подобраться ещё ближе."
 
 # ch/audrey/fuck.rpy:4623
 translate russian audrey_fuck_audreybedroom_blowjob_5c5a61a9:
-    "Все это время ее глаза сосредоточены исключительно на моей... э-э... \"части\"."
+    "Все это время её глаза сосредоточены исключительно на моей... э-э... «части»."
 
 # ch/audrey/fuck.rpy:4624
 translate russian audrey_fuck_audreybedroom_blowjob_cbea1c01:
@@ -27506,7 +27506,7 @@ translate russian audrey_fuck_audreybedroom_blowjob_0be62562:
 
 # ch/audrey/fuck.rpy:4636
 translate russian audrey_fuck_audreybedroom_blowjob_0321f8f7:
-    "И в тот момент, когда под ее рукой появляется достаточно места, она наклоняется вперед, добавляя свои губы к происходящему."
+    "И в тот момент, когда под её рукой появляется достаточно места, она наклоняется вперёд, добавляя свои губы к происходящему."
 
 # ch/audrey/fuck.rpy:4637
 translate russian audrey_fuck_audreybedroom_blowjob_30510529:
@@ -27518,7 +27518,7 @@ translate russian audrey_fuck_audreybedroom_blowjob_6404dfd1:
 
 # ch/audrey/fuck.rpy:4639
 translate russian audrey_fuck_audreybedroom_blowjob_af3d08f7:
-    "Но вскоре я начинаю чувствовать первые намеки на то, что ее язык и зубы тоже принимают участие."
+    "Но вскоре я начинаю чувствовать первые намёки на то, что её язык и зубы тоже принимают участие."
 
 # ch/audrey/fuck.rpy:4640
 translate russian audrey_fuck_audreybedroom_blowjob_86739aaa:
@@ -27526,7 +27526,7 @@ translate russian audrey_fuck_audreybedroom_blowjob_86739aaa:
 
 # ch/audrey/fuck.rpy:4641
 translate russian audrey_fuck_audreybedroom_blowjob_769d3238:
-    "Как будто дразнит меня и создает предвкушение момента, когда она достигнет вершины."
+    "Как будто дразнит меня и создаёт предвкушение момента, когда она достигнет вершины."
 
 # ch/audrey/fuck.rpy:4642
 translate russian audrey_fuck_audreybedroom_blowjob_e8f202ad:
@@ -27546,7 +27546,7 @@ translate russian audrey_fuck_audreybedroom_blowjob_04f168d5:
 
 # ch/audrey/fuck.rpy:4646
 translate russian audrey_fuck_audreybedroom_blowjob_86ab26a3:
-    "Потому что как только она там оказывается, ее рот открывается шире, чем когда-либо прежде."
+    "Потому что как только она там оказывается, её рот открывается шире, чем когда-либо прежде."
 
 # ch/audrey/fuck.rpy:4647
 translate russian audrey_fuck_audreybedroom_blowjob_6dca9a8a:
@@ -27554,11 +27554,11 @@ translate russian audrey_fuck_audreybedroom_blowjob_6dca9a8a:
 
 # ch/audrey/fuck.rpy:4648
 translate russian audrey_fuck_audreybedroom_blowjob_353236cf:
-    "Одри не дает мне времени подготовиться, она просто делает это."
+    "Одри не даёт мне времени подготовиться, она просто делает это."
 
 # ch/audrey/fuck.rpy:4651
 translate russian audrey_fuck_audreybedroom_blowjob_948caaef:
-    "Она обволакивает своим языком головку моего пениса, а затем, кажется, почти затягивает ее внутрь своего рта."
+    "Она обволакивает своим языком головку моего пениса, а затем, кажется, почти затягивает её внутрь своего рта."
 
 # ch/audrey/fuck.rpy:4652
 translate russian audrey_fuck_audreybedroom_blowjob_fb356abf:
@@ -27694,7 +27694,7 @@ translate russian audrey_fuck_audreybedroom_blowjob_98af0431:
 
 # ch/audrey/fuck.rpy:4716
 translate russian audrey_fuck_audreybedroom_blowjob_40e650ac:
-    "И когда наступает кульминация, она полностью готова к тому, как я вырвусь у нее изо рта."
+    "И когда наступает кульминация, она полностью готова к тому, как я вырвусь у неё изо рта."
 
 # ch/audrey/fuck.rpy:4718
 translate russian audrey_fuck_audreybedroom_blowjob_b3e4e205:
@@ -27770,7 +27770,7 @@ translate russian audrey_fuck_audreybedroom_blowjob_8ddff376:
 
 # ch/audrey/fuck.rpy:4755
 translate russian audrey_fuck_audreybedroom_blowjob_16eadb21:
-    "Это означает, что мой член плавно выскальзывает изо рта и покачивается перед ее лицом."
+    "Это означает, что мой член плавно выскальзывает изо рта и покачивается перед её лицом."
 
 # ch/audrey/fuck.rpy:4756
 translate russian audrey_fuck_audreybedroom_blowjob_089aacb8:
@@ -27778,11 +27778,11 @@ translate russian audrey_fuck_audreybedroom_blowjob_089aacb8:
 
 # ch/audrey/fuck.rpy:4761
 translate russian audrey_fuck_audreybedroom_blowjob_c6fe9a52:
-    "Что означает, что когда я вырвусь у нее через мгновение, она получит все это прямо в лицо."
+    "Что означает, что когда я вырвусь у неё через мгновение, она получит все это прямо в лицо."
 
 # ch/audrey/fuck.rpy:4763
 translate russian audrey_fuck_audreybedroom_blowjob_bf9bb825:
-    "И она даже улыбается, когда полоски липкой, белой спермы рисуют полосы на ее лице."
+    "И она даже улыбается, когда полоски липкой, белой спермы рисуют полосы на её лице."
 
 # ch/audrey/fuck.rpy:4771
 translate russian audrey_fuck_audreybedroom_blowjob_37c9f24c:
@@ -27878,7 +27878,7 @@ translate russian audrey_fuck_audreybedroom_fuck_323b663f:
 
 # ch/audrey/fuck.rpy:4828
 translate russian audrey_fuck_audreybedroom_fuck_5047d291:
-    mike.say "То, что сейчас произойдет, – это я, Одри..."
+    mike.say "То, что сейчас произойдёт, — это я, Одри..."
 
 # ch/audrey/fuck.rpy:4829
 translate russian audrey_fuck_audreybedroom_fuck_d825c8a8:
@@ -27918,11 +27918,11 @@ translate russian audrey_fuck_audreybedroom_fuck_daf92e8d:
 
 # ch/audrey/fuck.rpy:4843
 translate russian audrey_fuck_audreybedroom_fuck_7914cdfe:
-    "Поэтому очень легко подвести руку под ее бедра и приподнять их от матраса."
+    "Поэтому очень легко подвести руку под её бедра и приподнять их от матраса."
 
 # ch/audrey/fuck.rpy:4851
 translate russian audrey_fuck_audreybedroom_fuck_34cbfed3:
-    "Затем используй другую руку, чтобы нежно шлепнуть её по ягодицам."
+    "Затем используй другую руку, чтобы нежно шлёпнуть её по ягодицам."
 
 # ch/audrey/fuck.rpy:4852
 translate russian audrey_fuck_audreybedroom_fuck_f9189903:
@@ -27930,7 +27930,7 @@ translate russian audrey_fuck_audreybedroom_fuck_f9189903:
 
 # ch/audrey/fuck.rpy:4853
 translate russian audrey_fuck_audreybedroom_fuck_816c8ee3:
-    "И она издает самый восхитительный звук, какой только можно себе представить."
+    "И она издаёт самый восхитительный звук, какой только можно себе представить."
 
 # ch/audrey/fuck.rpy:4855
 translate russian audrey_fuck_audreybedroom_fuck_441815fd:
@@ -27946,7 +27946,7 @@ translate russian audrey_fuck_audreybedroom_fuck_a9a77059:
 
 # ch/audrey/fuck.rpy:4858
 translate russian audrey_fuck_audreybedroom_fuck_35af30b1:
-    "Я не могу удержаться от улыбки, когда даю Одри именно то, о чем она просит."
+    "Я не могу удержаться от улыбки, когда даю Одри именно то, о чём она просит."
 
 # ch/audrey/fuck.rpy:4867
 translate russian audrey_fuck_audreybedroom_fuck_45ea57ee:
@@ -27966,19 +27966,19 @@ translate russian audrey_fuck_audreybedroom_fuck_c26eb956:
 
 # ch/audrey/fuck.rpy:4887
 translate russian audrey_fuck_audreybedroom_fuck_6098132b:
-    "Третий и четвертый удары следуют один за другим."
+    "Третий и четвёртый удары следуют один за другим."
 
 # ch/audrey/fuck.rpy:4888
 translate russian audrey_fuck_audreybedroom_fuck_5e7fe488:
-    "И вскоре ее писк и извивающиеся движения начинают меня очень возбуждать."
+    "И вскоре её писк и извивающиеся движения начинают меня очень возбуждать."
 
 # ch/audrey/fuck.rpy:4889
 translate russian audrey_fuck_audreybedroom_fuck_489eb526:
-    "Я понимаю, что просто шлепать ей по заднице больше не поможет."
+    "Я понимаю, что просто шлёпать ей по заднице больше не поможет."
 
 # ch/audrey/fuck.rpy:4890
 translate russian audrey_fuck_audreybedroom_fuck_4f90586e:
-    "Особенно сейчас, когда мой член так тверд."
+    "Особенно сейчас, когда мой член так твёрд."
 
 # ch/audrey/fuck.rpy:4894
 translate russian audrey_fuck_audreybedroom_fuck_a7e35547:
@@ -27986,11 +27986,11 @@ translate russian audrey_fuck_audreybedroom_fuck_a7e35547:
 
 # ch/audrey/fuck.rpy:4897
 translate russian audrey_fuck_audreybedroom_fuck_777943e9:
-    "Поскольку ноги Одри подняты довольно высоко, я уже отчетливо вижу свою цель."
+    "Поскольку ноги Одри подняты довольно высоко, я уже отчётливо вижу свою цель."
 
 # ch/audrey/fuck.rpy:4898
 translate russian audrey_fuck_audreybedroom_fuck_de6a6be0:
-    "И каждый проблеск ее аккуратной маленькой влагалища убеждает меня еще больше в том, что я хочу этого."
+    "И каждый проблеск её аккуратной маленькой влагалища убеждает меня ещё больше в том, что я хочу этого."
 
 # ch/audrey/fuck.rpy:4899
 translate russian audrey_fuck_audreybedroom_fuck_0353f1d1:
@@ -27998,7 +27998,7 @@ translate russian audrey_fuck_audreybedroom_fuck_0353f1d1:
 
 # ch/audrey/fuck.rpy:4908
 translate russian audrey_fuck_audreybedroom_fuck_ea7b211f:
-    "Лежа на Одри, я слежу за тем, чтобы мой член был направлен прямо в выбранную мной точку."
+    "Лёжа на Одри, я слежу за тем, чтобы мой член был направлен прямо в выбранную мной точку."
 
 # ch/audrey/fuck.rpy:4909
 translate russian audrey_fuck_audreybedroom_fuck_fc79a98a:
@@ -28010,11 +28010,11 @@ translate russian audrey_fuck_audreybedroom_fuck_96b12c44:
 
 # ch/audrey/fuck.rpy:4911
 translate russian audrey_fuck_audreybedroom_fuck_79ad6221:
-    "Клянусь, я вижу определенный блеск в ее глазах, когда я начинаю ласкать ее влагалище головкой своего члена."
+    "Клянусь, я вижу определенный блеск в её глазах, когда я начинаю ласкать её влагалище головкой своего члена."
 
 # ch/audrey/fuck.rpy:4912
 translate russian audrey_fuck_audreybedroom_fuck_04e75468:
-    "Этот взгляд говорит мне о том, что, насколько это возможно тихо, она также взволнована тем, что я для нее приготовил."
+    "Этот взгляд говорит мне о том, что, насколько это возможно тихо, она также взволнована тем, что я для неё приготовил."
 
 # ch/audrey/fuck.rpy:4913
 translate russian audrey_fuck_audreybedroom_fuck_7810eda4:
@@ -28030,7 +28030,7 @@ translate russian audrey_fuck_audreybedroom_fuck_966ccb2c:
 
 # ch/audrey/fuck.rpy:4916
 translate russian audrey_fuck_audreybedroom_fuck_0110c822:
-    "И то, как она вздыхает и стонет, когда мы соприкасаемся ниже, – это музыка для моих ушей."
+    "И то, как она вздыхает и стонет, когда мы соприкасаемся ниже, — это музыка для моих ушей."
 
 # ch/audrey/fuck.rpy:4917
 translate russian audrey_fuck_audreybedroom_fuck_93c8003f:
@@ -28038,7 +28038,7 @@ translate russian audrey_fuck_audreybedroom_fuck_93c8003f:
 
 # ch/audrey/fuck.rpy:4921
 translate russian audrey_fuck_audreybedroom_fuck_4b44ef67:
-    "Но теперь я просто поражен ощущением того, как мой член просто скользит прямо в нее."
+    "Но теперь я просто поражён ощущением того, как мой член просто скользит прямо в неё."
 
 # ch/audrey/fuck.rpy:4922
 translate russian audrey_fuck_audreybedroom_fuck_52dd8cdc:
@@ -28050,11 +28050,11 @@ translate russian audrey_fuck_audreybedroom_fuck_fb701db1:
 
 # ch/audrey/fuck.rpy:4924
 translate russian audrey_fuck_audreybedroom_fuck_15b81142:
-    "Она кивает с энтузиазмом, когда головка исчезает внутри нее, а затем следует ствол."
+    "Она кивает с энтузиазмом, когда головка исчезает внутри неё, а затем следует ствол."
 
 # ch/audrey/fuck.rpy:4925
 translate russian audrey_fuck_audreybedroom_fuck_79bd6538:
-    "Все, что я могу делать, это продолжать двигаться вперед, поражаясь ощущениям, которые я испытываю."
+    "Всё, что я могу делать, это продолжать двигаться вперёд, поражаясь ощущениям, которые я испытываю."
 
 # ch/audrey/fuck.rpy:4926
 translate russian audrey_fuck_audreybedroom_fuck_4a2a982f:
@@ -28066,7 +28066,7 @@ translate russian audrey_fuck_audreybedroom_fuck_1dcb3a19:
 
 # ch/audrey/fuck.rpy:4928
 translate russian audrey_fuck_audreybedroom_fuck_b58b1a67:
-    "Внутри у нее плотно, почти туго вокруг основания моего члена."
+    "Внутри у неё плотно, почти туго вокруг основания моего члена."
 
 # ch/audrey/fuck.rpy:4929
 translate russian audrey_fuck_audreybedroom_fuck_8d46f88f:
@@ -28078,15 +28078,15 @@ translate russian audrey_fuck_audreybedroom_fuck_f85ca707:
 
 # ch/audrey/fuck.rpy:4931
 translate russian audrey_fuck_audreybedroom_fuck_d1219501:
-    "Ее тело выражает желание, которое она испытывает ко мне, и отказывается отпускать."
+    "Её тело выражает желание, которое она испытывает ко мне, и отказывается отпускать."
 
 # ch/audrey/fuck.rpy:4932
 translate russian audrey_fuck_audreybedroom_fuck_161a28b5:
-    "Тем не менее, я начинаю двигаться внутри нее, несмотря на все это."
+    "Тем не менее, я начинаю двигаться внутри неё, несмотря на все это."
 
 # ch/audrey/fuck.rpy:4934
 translate russian audrey_fuck_audreybedroom_fuck_8b56ad61:
-    "Медленно начинаю оттягиваться и затем двигаться вперед."
+    "Медленно начинаю оттягиваться и затем двигаться вперёд."
 
 # ch/audrey/fuck.rpy:4935
 translate russian audrey_fuck_audreybedroom_fuck_d3affe50:
@@ -28094,7 +28094,7 @@ translate russian audrey_fuck_audreybedroom_fuck_d3affe50:
 
 # ch/audrey/fuck.rpy:4937
 translate russian audrey_fuck_audreybedroom_fuck_823cba48:
-    "Но затем скорость увеличивается, как только начинается второе движение, поскольку моя уверенность растет."
+    "Но затем скорость увеличивается, как только начинается второе движение, поскольку моя уверенность растёт."
 
 # ch/audrey/fuck.rpy:4939
 translate russian audrey_fuck_audreybedroom_fuck_a4bf07e1:
@@ -28102,11 +28102,11 @@ translate russian audrey_fuck_audreybedroom_fuck_a4bf07e1:
 
 # ch/audrey/fuck.rpy:4940
 translate russian audrey_fuck_audreybedroom_fuck_312c75a4:
-    "Кажется, Одри вполне счастлива просто лежать и получать все, что я хочу ей дать."
+    "Кажется, Одри вполне счастлива просто лежать и получать всё, что я хочу ей дать."
 
 # ch/audrey/fuck.rpy:4945
 translate russian audrey_fuck_audreybedroom_fuck_5857230c:
-    "Ее тело покачивается под мной, когда я двигаюсь вперед и назад, проникая в нее и затем вытягиваясь обратно."
+    "Её тело покачивается под мной, когда я двигаюсь вперёд и назад, проникая в неё и затем вытягиваясь обратно."
 
 # ch/audrey/fuck.rpy:4946
 translate russian audrey_fuck_audreybedroom_fuck_47bfa009:
@@ -28114,11 +28114,11 @@ translate russian audrey_fuck_audreybedroom_fuck_47bfa009:
 
 # ch/audrey/fuck.rpy:4947
 translate russian audrey_fuck_audreybedroom_fuck_73565ece:
-    "Предложить мне свое тело сейчас и до тех пор, пока то, что мы делаем, не закончится."
+    "Предложить мне своё тело сейчас и до тех пор, пока то, что мы делаем, не закончится."
 
 # ch/audrey/fuck.rpy:4951
 translate russian audrey_fuck_audreybedroom_fuck_6129eae8:
-    "Поэтому это становится неожиданностью, когда ее руки начинают двигаться через некоторое время."
+    "Поэтому это становится неожиданностью, когда её руки начинают двигаться через некоторое время."
 
 # ch/audrey/fuck.rpy:4952
 translate russian audrey_fuck_audreybedroom_fuck_b656a010:
@@ -28130,7 +28130,7 @@ translate russian audrey_fuck_audreybedroom_fuck_a2e1e80a:
 
 # ch/audrey/fuck.rpy:4954
 translate russian audrey_fuck_audreybedroom_fuck_f870e813:
-    "Я настолько ошеломлен и не готов к этому движению, что ничего не предпринимаю, чтобы ее остановить."
+    "Я настолько ошеломлён и не готов к этому движению, что ничего не предпринимаю, чтобы её остановить."
 
 # ch/audrey/fuck.rpy:4957
 translate russian audrey_fuck_audreybedroom_fuck_874eb39f:
@@ -28138,15 +28138,15 @@ translate russian audrey_fuck_audreybedroom_fuck_874eb39f:
 
 # ch/audrey/fuck.rpy:4958
 translate russian audrey_fuck_audreybedroom_fuck_7ea7a1df:
-    "И похоже, это оказывается вокруг ее собственной шеи!"
+    "И похоже, это оказывается вокруг её собственной шеи!"
 
 # ch/audrey/fuck.rpy:4959
 translate russian audrey_fuck_audreybedroom_fuck_53b3b886:
-    "Часть меня хочет отдернуть руки сразу же, как только я понимаю, что делает Одри."
+    "Часть меня хочет отдёрнуть руки сразу же, как только я понимаю, что делает Одри."
 
 # ch/audrey/fuck.rpy:4960
 translate russian audrey_fuck_audreybedroom_fuck_0f9255c1:
-    "Но в тот момент, когда я пытаюсь это сделать, она энергично качает головой и сжимает хватку еще сильнее."
+    "Но в тот момент, когда я пытаюсь это сделать, она энергично качает головой и сжимает хватку ещё сильнее."
 
 # ch/audrey/fuck.rpy:4961
 translate russian audrey_fuck_audreybedroom_fuck_9b8cada9:
@@ -28162,23 +28162,23 @@ translate russian audrey_fuck_audreybedroom_fuck_3ce0b658:
 
 # ch/audrey/fuck.rpy:4964
 translate russian audrey_fuck_audreybedroom_fuck_3fd2f90b:
-    "Поэтому я киваю и начинаю сильнее сжимать ее шею."
+    "Поэтому я киваю и начинаю сильнее сжимать её шею."
 
 # ch/audrey/fuck.rpy:4965
 translate russian audrey_fuck_audreybedroom_fuck_118e7ca4:
-    "Практически одновременно мои пальцы смыкаются вокруг нее, Одри издает отчаянный стон."
+    "Практически одновременно мои пальцы смыкаются вокруг неё, Одри издаёт отчаянный стон."
 
 # ch/audrey/fuck.rpy:4966
 translate russian audrey_fuck_audreybedroom_fuck_4866ef88:
-    "Конечно же, я убеждаюсь, что на самом деле не собираюсь ее задушить."
+    "Конечно же, я убеждаюсь, что на самом деле не собираюсь её задушить."
 
 # ch/audrey/fuck.rpy:4967
 translate russian audrey_fuck_audreybedroom_fuck_eca2f1c2:
-    "Но я вижу, как даже самое незначительное давление, которое я оказываю, вызывает у нее трепет."
+    "Но я вижу, как даже самое незначительное давление, которое я оказываю, вызывает у неё трепет."
 
 # ch/audrey/fuck.rpy:4970
 translate russian audrey_fuck_audreybedroom_fuck_cadfee82:
-    "Лицо Одри краснеет, а ее глаза расширяются, когда она смотрит на меня."
+    "Лицо Одри краснеет, а её глаза расширяются, когда она смотрит на меня."
 
 # ch/audrey/fuck.rpy:4974
 translate russian audrey_fuck_audreybedroom_fuck_7be7e5cb:
@@ -28206,7 +28206,7 @@ translate russian audrey_fuck_audreybedroom_fuck_5d43a6d6:
 
 # ch/audrey/fuck.rpy:4991
 translate russian audrey_fuck_audreybedroom_fuck_d768cf47:
-    "Наблюдая за выражением ее лица и ощущая движения ее тела, становится понятно кое-что еще."
+    "Наблюдая за выражением её лица и ощущая движения её тела, становится понятно кое-что ещё."
 
 # ch/audrey/fuck.rpy:4992
 translate russian audrey_fuck_audreybedroom_fuck_59454c03:
@@ -28214,7 +28214,7 @@ translate russian audrey_fuck_audreybedroom_fuck_59454c03:
 
 # ch/audrey/fuck.rpy:4998
 translate russian audrey_fuck_audreybedroom_fuck_a56dd126:
-    "И с такой скоростью, как она сейчас, она заберет меня с собой, когда это произойдет!"
+    "И с такой скоростью, как она сейчас, она заберет меня с собой, когда это произойдёт!"
 
 # ch/audrey/fuck.rpy:5002
 translate russian audrey_fuck_audreybedroom_fuck_e9685a21:
@@ -28222,7 +28222,7 @@ translate russian audrey_fuck_audreybedroom_fuck_e9685a21:
 
 # ch/audrey/fuck.rpy:5003
 translate russian audrey_fuck_audreybedroom_fuck_c127cae7:
-    "Что означает, что я могу просто расслабиться и позволить природе взять свое."
+    "Что означает, что я могу просто расслабиться и позволить природе взять своё."
 
 # ch/audrey/fuck.rpy:5004
 translate russian audrey_fuck_audreybedroom_fuck_8d46a5ac:
@@ -28246,7 +28246,7 @@ translate russian audrey_fuck_audreybedroom_fuck_a31c2b72:
 
 # ch/audrey/fuck.rpy:5017
 translate russian audrey_fuck_audreybedroom_fuck_a1476b85:
-    "Но ощущение того, что я вытаскиваюсь, кажется, только усиливает все это, заставляя ее глаза закатываться."
+    "Но ощущение того, что я вытаскиваюсь, кажется, только усиливает все это, заставляя её глаза закатываться."
 
 # ch/audrey/fuck.rpy:5022
 translate russian audrey_fuck_audreybedroom_fuck_c2bb9649:
@@ -28258,7 +28258,7 @@ translate russian audrey_fuck_audreybedroom_fuck_f1011dba:
 
 # ch/audrey/fuck.rpy:5034
 translate russian audrey_fuck_audreybedroom_fuck_cac2c36b:
-    "Освободив хватку, я откидываюсь назад, радуясь возможности расслабиться и позволить природе взять свое."
+    "Освободив хватку, я откидываюсь назад, радуясь возможности расслабиться и позволить природе взять своё."
 
 # ch/audrey/fuck.rpy:5035
 translate russian audrey_fuck_audreybedroom_fuck_8d46a5ac_1:
@@ -28266,7 +28266,7 @@ translate russian audrey_fuck_audreybedroom_fuck_8d46a5ac_1:
 
 # ch/audrey/fuck.rpy:5039
 translate russian audrey_fuck_audreybedroom_fuck_8c73538d:
-    "Я кончаю, когда полностью оказываюсь внутри Одри, наполняя ее всем, что у меня есть."
+    "Я кончаю, когда полностью оказываюсь внутри Одри, наполняя её всем, что у меня есть."
 
 # ch/audrey/fuck.rpy:5042
 translate russian audrey_fuck_audreybedroom_fuck_3a3ac3a5_1:
@@ -28274,11 +28274,11 @@ translate russian audrey_fuck_audreybedroom_fuck_3a3ac3a5_1:
 
 # ch/audrey/fuck.rpy:5048
 translate russian audrey_fuck_audreybedroom_fuck_777943e9_1:
-    "Поскольку ноги Одри подняты довольно высоко, я уже отчетливо вижу свою цель."
+    "Поскольку ноги Одри подняты довольно высоко, я уже отчётливо вижу свою цель."
 
 # ch/audrey/fuck.rpy:5049
 translate russian audrey_fuck_audreybedroom_fuck_a547657d:
-    "Каждый раз, когда я вижу ее аккуратную маленькую задницу, я становлюсь еще более уверенным в том, что хочу ее."
+    "Каждый раз, когда я вижу её аккуратную маленькую задницу, я становлюсь ещё более уверенным в том, что хочу её."
 
 # ch/audrey/fuck.rpy:5050
 translate russian audrey_fuck_audreybedroom_fuck_0353f1d1_1:
@@ -28286,7 +28286,7 @@ translate russian audrey_fuck_audreybedroom_fuck_0353f1d1_1:
 
 # ch/audrey/fuck.rpy:5051
 translate russian audrey_fuck_audreybedroom_fuck_ea7b211f_1:
-    "Лежа на Одри, я слежу за тем, чтобы мой член был направлен прямо в выбранную мной точку."
+    "Лёжа на Одри, я слежу за тем, чтобы мой член был направлен прямо в выбранную мной точку."
 
 # ch/audrey/fuck.rpy:5052
 translate russian audrey_fuck_audreybedroom_fuck_fc79a98a_1:
@@ -28298,11 +28298,11 @@ translate russian audrey_fuck_audreybedroom_fuck_96b12c44_1:
 
 # ch/audrey/fuck.rpy:5054
 translate russian audrey_fuck_audreybedroom_fuck_d77a7fc7:
-    "Клянусь, я вижу определенный блеск в ее глазах, когда я начинаю ласкать край ее влагалища стержнем своего члена."
+    "Клянусь, я вижу определенный блеск в её глазах, когда я начинаю ласкать край её влагалища стержнем своего члена."
 
 # ch/audrey/fuck.rpy:5055
 translate russian audrey_fuck_audreybedroom_fuck_04e75468_1:
-    "Этот взгляд говорит мне о том, что, насколько это возможно тихо, она также взволнована тем, что я для нее приготовил."
+    "Этот взгляд говорит мне о том, что, насколько это возможно тихо, она также взволнована тем, что я для неё приготовил."
 
 # ch/audrey/fuck.rpy:5056
 translate russian audrey_fuck_audreybedroom_fuck_7810eda4_1:
@@ -28318,7 +28318,7 @@ translate russian audrey_fuck_audreybedroom_fuck_e84a0c51:
 
 # ch/audrey/fuck.rpy:5059
 translate russian audrey_fuck_audreybedroom_fuck_0110c822_1:
-    "И то, как она вздыхает и стонет, когда мы соприкасаемся ниже, – это музыка для моих ушей."
+    "И то, как она вздыхает и стонет, когда мы соприкасаемся ниже, — это музыка для моих ушей."
 
 # ch/audrey/fuck.rpy:5060
 translate russian audrey_fuck_audreybedroom_fuck_93c8003f_1:
@@ -28326,7 +28326,7 @@ translate russian audrey_fuck_audreybedroom_fuck_93c8003f_1:
 
 # ch/audrey/fuck.rpy:5064
 translate russian audrey_fuck_audreybedroom_fuck_4b44ef67_1:
-    "Но теперь я просто поражен ощущением того, как мой член просто скользит прямо в нее."
+    "Но теперь я просто поражён ощущением того, как мой член просто скользит прямо в неё."
 
 # ch/audrey/fuck.rpy:5065
 translate russian audrey_fuck_audreybedroom_fuck_52dd8cdc_1:
@@ -28338,11 +28338,11 @@ translate russian audrey_fuck_audreybedroom_fuck_fb701db1_1:
 
 # ch/audrey/fuck.rpy:5067
 translate russian audrey_fuck_audreybedroom_fuck_15b81142_1:
-    "Она кивает с энтузиазмом, когда головка исчезает внутри нее, а затем следует ствол."
+    "Она кивает с энтузиазмом, когда головка исчезает внутри неё, а затем следует ствол."
 
 # ch/audrey/fuck.rpy:5068
 translate russian audrey_fuck_audreybedroom_fuck_79bd6538_1:
-    "Все, что я могу делать, это продолжать двигаться вперед, поражаясь ощущениям, которые я испытываю."
+    "Всё, что я могу делать, это продолжать двигаться вперёд, поражаясь ощущениям, которые я испытываю."
 
 # ch/audrey/fuck.rpy:5069
 translate russian audrey_fuck_audreybedroom_fuck_4a2a982f_1:
@@ -28354,7 +28354,7 @@ translate russian audrey_fuck_audreybedroom_fuck_d8932df6:
 
 # ch/audrey/fuck.rpy:5071
 translate russian audrey_fuck_audreybedroom_fuck_b58b1a67_1:
-    "Внутри у нее плотно, почти туго вокруг основания моего члена."
+    "Внутри у неё плотно, почти туго вокруг основания моего члена."
 
 # ch/audrey/fuck.rpy:5072
 translate russian audrey_fuck_audreybedroom_fuck_8d46f88f_1:
@@ -28366,15 +28366,15 @@ translate russian audrey_fuck_audreybedroom_fuck_f85ca707_1:
 
 # ch/audrey/fuck.rpy:5074
 translate russian audrey_fuck_audreybedroom_fuck_d1219501_1:
-    "Ее тело выражает желание, которое она испытывает ко мне, и отказывается отпускать."
+    "Её тело выражает желание, которое она испытывает ко мне, и отказывается отпускать."
 
 # ch/audrey/fuck.rpy:5075
 translate russian audrey_fuck_audreybedroom_fuck_161a28b5_1:
-    "Тем не менее, я начинаю двигаться внутри нее, несмотря на все это."
+    "Тем не менее, я начинаю двигаться внутри неё, несмотря на все это."
 
 # ch/audrey/fuck.rpy:5077
 translate russian audrey_fuck_audreybedroom_fuck_8b56ad61_1:
-    "Медленно начинаю оттягиваться и затем двигаться вперед."
+    "Медленно начинаю оттягиваться и затем двигаться вперёд."
 
 # ch/audrey/fuck.rpy:5078
 translate russian audrey_fuck_audreybedroom_fuck_d3affe50_1:
@@ -28382,7 +28382,7 @@ translate russian audrey_fuck_audreybedroom_fuck_d3affe50_1:
 
 # ch/audrey/fuck.rpy:5080
 translate russian audrey_fuck_audreybedroom_fuck_823cba48_1:
-    "Но затем скорость увеличивается, как только начинается второе движение, поскольку моя уверенность растет."
+    "Но затем скорость увеличивается, как только начинается второе движение, поскольку моя уверенность растёт."
 
 # ch/audrey/fuck.rpy:5082
 translate russian audrey_fuck_audreybedroom_fuck_a4bf07e1_1:
@@ -28390,11 +28390,11 @@ translate russian audrey_fuck_audreybedroom_fuck_a4bf07e1_1:
 
 # ch/audrey/fuck.rpy:5083
 translate russian audrey_fuck_audreybedroom_fuck_312c75a4_1:
-    "Кажется, Одри вполне счастлива просто лежать и получать все, что я хочу ей дать."
+    "Кажется, Одри вполне счастлива просто лежать и получать всё, что я хочу ей дать."
 
 # ch/audrey/fuck.rpy:5087
 translate russian audrey_fuck_audreybedroom_fuck_5857230c_1:
-    "Ее тело покачивается под мной, когда я двигаюсь вперед и назад, проникая в нее и затем вытягиваясь обратно."
+    "Её тело покачивается под мной, когда я двигаюсь вперёд и назад, проникая в неё и затем вытягиваясь обратно."
 
 # ch/audrey/fuck.rpy:5088
 translate russian audrey_fuck_audreybedroom_fuck_47bfa009_1:
@@ -28402,11 +28402,11 @@ translate russian audrey_fuck_audreybedroom_fuck_47bfa009_1:
 
 # ch/audrey/fuck.rpy:5089
 translate russian audrey_fuck_audreybedroom_fuck_73565ece_1:
-    "Предложить мне свое тело сейчас и до тех пор, пока то, что мы делаем, не закончится."
+    "Предложить мне своё тело сейчас и до тех пор, пока то, что мы делаем, не закончится."
 
 # ch/audrey/fuck.rpy:5093
 translate russian audrey_fuck_audreybedroom_fuck_6129eae8_1:
-    "Поэтому это становится неожиданностью, когда ее руки начинают двигаться через некоторое время."
+    "Поэтому это становится неожиданностью, когда её руки начинают двигаться через некоторое время."
 
 # ch/audrey/fuck.rpy:5094
 translate russian audrey_fuck_audreybedroom_fuck_b656a010_1:
@@ -28418,7 +28418,7 @@ translate russian audrey_fuck_audreybedroom_fuck_a2e1e80a_1:
 
 # ch/audrey/fuck.rpy:5096
 translate russian audrey_fuck_audreybedroom_fuck_f870e813_1:
-    "Я настолько ошеломлен и не готов к этому движению, что ничего не предпринимаю, чтобы ее остановить."
+    "Я настолько ошеломлён и не готов к этому движению, что ничего не предпринимаю, чтобы её остановить."
 
 # ch/audrey/fuck.rpy:5099
 translate russian audrey_fuck_audreybedroom_fuck_874eb39f_1:
@@ -28426,15 +28426,15 @@ translate russian audrey_fuck_audreybedroom_fuck_874eb39f_1:
 
 # ch/audrey/fuck.rpy:5100
 translate russian audrey_fuck_audreybedroom_fuck_7ea7a1df_1:
-    "И похоже, это оказывается вокруг ее собственной шеи!"
+    "И похоже, это оказывается вокруг её собственной шеи!"
 
 # ch/audrey/fuck.rpy:5101
 translate russian audrey_fuck_audreybedroom_fuck_53b3b886_1:
-    "Часть меня хочет отдернуть руки сразу же, как только я понимаю, что делает Одри."
+    "Часть меня хочет отдёрнуть руки сразу же, как только я понимаю, что делает Одри."
 
 # ch/audrey/fuck.rpy:5102
 translate russian audrey_fuck_audreybedroom_fuck_0f9255c1_1:
-    "Но в тот момент, когда я пытаюсь это сделать, она энергично качает головой и сжимает хватку еще сильнее."
+    "Но в тот момент, когда я пытаюсь это сделать, она энергично качает головой и сжимает хватку ещё сильнее."
 
 # ch/audrey/fuck.rpy:5103
 translate russian audrey_fuck_audreybedroom_fuck_9b8cada9_1:
@@ -28450,23 +28450,23 @@ translate russian audrey_fuck_audreybedroom_fuck_3ce0b658_1:
 
 # ch/audrey/fuck.rpy:5106
 translate russian audrey_fuck_audreybedroom_fuck_3fd2f90b_1:
-    "Поэтому я киваю и начинаю сильнее сжимать ее шею."
+    "Поэтому я киваю и начинаю сильнее сжимать её шею."
 
 # ch/audrey/fuck.rpy:5107
 translate russian audrey_fuck_audreybedroom_fuck_118e7ca4_1:
-    "Практически одновременно мои пальцы смыкаются вокруг нее, Одри издает отчаянный стон."
+    "Практически одновременно мои пальцы смыкаются вокруг неё, Одри издаёт отчаянный стон."
 
 # ch/audrey/fuck.rpy:5108
 translate russian audrey_fuck_audreybedroom_fuck_4866ef88_1:
-    "Конечно же, я убеждаюсь, что на самом деле не собираюсь ее задушить."
+    "Конечно же, я убеждаюсь, что на самом деле не собираюсь её задушить."
 
 # ch/audrey/fuck.rpy:5109
 translate russian audrey_fuck_audreybedroom_fuck_eca2f1c2_1:
-    "Но я вижу, как даже самое незначительное давление, которое я оказываю, вызывает у нее трепет."
+    "Но я вижу, как даже самое незначительное давление, которое я оказываю, вызывает у неё трепет."
 
 # ch/audrey/fuck.rpy:5112
 translate russian audrey_fuck_audreybedroom_fuck_cadfee82_1:
-    "Лицо Одри краснеет, а ее глаза расширяются, когда она смотрит на меня."
+    "Лицо Одри краснеет, а её глаза расширяются, когда она смотрит на меня."
 
 # ch/audrey/fuck.rpy:5116
 translate russian audrey_fuck_audreybedroom_fuck_7be7e5cb_1:
@@ -28494,7 +28494,7 @@ translate russian audrey_fuck_audreybedroom_fuck_5d43a6d6_1:
 
 # ch/audrey/fuck.rpy:5133
 translate russian audrey_fuck_audreybedroom_fuck_d768cf47_1:
-    "Наблюдая за выражением ее лица и ощущая движения ее тела, становится понятно кое-что еще."
+    "Наблюдая за выражением её лица и ощущая движения её тела, становится понятно кое-что ещё."
 
 # ch/audrey/fuck.rpy:5134
 translate russian audrey_fuck_audreybedroom_fuck_59454c03_1:
@@ -28502,11 +28502,11 @@ translate russian audrey_fuck_audreybedroom_fuck_59454c03_1:
 
 # ch/audrey/fuck.rpy:5140
 translate russian audrey_fuck_audreybedroom_fuck_a56dd126_1:
-    "И с такой скоростью, как она сейчас, она заберет меня с собой, когда это произойдет!"
+    "И с такой скоростью, как она сейчас, она заберет меня с собой, когда это произойдёт!"
 
 # ch/audrey/fuck.rpy:5144
 translate russian audrey_fuck_audreybedroom_fuck_cac2c36b_1:
-    "Освободив хватку, я откидываюсь назад, радуясь возможности расслабиться и позволить природе взять свое."
+    "Освободив хватку, я откидываюсь назад, радуясь возможности расслабиться и позволить природе взять своё."
 
 # ch/audrey/fuck.rpy:5145
 translate russian audrey_fuck_audreybedroom_fuck_8d46a5ac_2:
@@ -28530,7 +28530,7 @@ translate russian audrey_fuck_audreybedroom_fuck_a31c2b72_1:
 
 # ch/audrey/fuck.rpy:5161
 translate russian audrey_fuck_audreybedroom_fuck_a1476b85_1:
-    "Но ощущение того, что я вытаскиваюсь, кажется, только усиливает все это, заставляя ее глаза закатываться."
+    "Но ощущение того, что я вытаскиваюсь, кажется, только усиливает все это, заставляя её глаза закатываться."
 
 # ch/audrey/fuck.rpy:5167
 translate russian audrey_fuck_audreybedroom_fuck_f1011dba_1:
@@ -28746,7 +28746,7 @@ translate russian audrey_fuck_audreybedroom_fuck_6e88c27c:
 
 # ch/audrey/fuck.rpy:5341
 translate russian audrey_fuck_audreybedroom_fuck_71b0170a:
-    "Даже когда она задает мне вопрос, Одри уже встает с кровати."
+    "Даже когда она задаёт мне вопрос, Одри уже встаёт с кровати."
 
 # ch/audrey/fuck.rpy:5342
 translate russian audrey_fuck_audreybedroom_fuck_336f54c3:
@@ -28774,7 +28774,7 @@ translate russian audrey_fuck_audreybedroom_fuck_c97a89ec:
 
 # ch/audrey/fuck.rpy:5350
 translate russian audrey_fuck_audreybedroom_fuck_71760002:
-    "Одри резко дергает мой член, заставляя меня сократить расстояние между нами."
+    "Одри резко дёргает мой член, заставляя меня сократить расстояние между нами."
 
 # ch/audrey/fuck.rpy:5351
 translate russian audrey_fuck_audreybedroom_fuck_223b50fd:
@@ -28794,7 +28794,7 @@ translate russian audrey_fuck_audreybedroom_fuck_47c2e6c8:
 
 # ch/audrey/fuck.rpy:5355
 translate russian audrey_fuck_audreybedroom_fuck_de4f6346:
-    "Только сейчас она сильно трет головку моего члена о свою влагалище!"
+    "Только сейчас она сильно трёт головку моего члена о свою влагалище!"
 
 # ch/audrey/fuck.rpy:5357
 translate russian audrey_fuck_audreybedroom_fuck_6fad658a:
@@ -28822,7 +28822,7 @@ translate russian audrey_fuck_audreybedroom_fuck_82edfe45:
 
 # ch/audrey/fuck.rpy:5366
 translate russian audrey_fuck_audreybedroom_fuck_756d7131:
-    "И с этой мыслью я обхватываю ее ягодицы руками, по одной в каждой руке."
+    "И с этой мыслью я обхватываю её ягодицы руками, по одной в каждой руке."
 
 # ch/audrey/fuck.rpy:5367
 translate russian audrey_fuck_audreybedroom_fuck_2693a159:
@@ -28838,7 +28838,7 @@ translate russian audrey_fuck_audreybedroom_fuck_31ce3f1a:
 
 # ch/audrey/fuck.rpy:5377
 translate russian audrey_fuck_audreybedroom_fuck_f8e5a1ce:
-    "Крепко прижав ее к себе, я убеждаюсь, что мой член находится между ее бедрами, и мы достаточно близко."
+    "Крепко прижав её к себе, я убеждаюсь, что мой член находится между её бёдрами, и мы достаточно близко."
 
 # ch/audrey/fuck.rpy:5378
 translate russian audrey_fuck_audreybedroom_fuck_7ead7e03:
@@ -28862,7 +28862,7 @@ translate russian audrey_fuck_audreybedroom_fuck_cdbe5ee7:
 
 # ch/audrey/fuck.rpy:5383
 translate russian audrey_fuck_audreybedroom_fuck_1091bc24:
-    "Что мне придется найти способ поддерживать ее все время, пока мы занимаемся любовью."
+    "Что мне придётся найти способ поддерживать её всё время, пока мы занимаемся любовью."
 
 # ch/audrey/fuck.rpy:5384
 translate russian audrey_fuck_audreybedroom_fuck_99de4da2:
@@ -28874,7 +28874,7 @@ translate russian audrey_fuck_audreybedroom_fuck_f0eeffce:
 
 # ch/audrey/fuck.rpy:5386
 translate russian audrey_fuck_audreybedroom_fuck_5fa1907f:
-    "И пока я продолжаю двигать головку против нее, она все время направляет ее внутрь."
+    "И пока я продолжаю двигать головку против неё, она всё время направляет её внутрь."
 
 # ch/audrey/fuck.rpy:5387
 translate russian audrey_fuck_audreybedroom_fuck_7c55e842:
@@ -28890,7 +28890,7 @@ translate russian audrey_fuck_audreybedroom_fuck_02842809:
 
 # ch/audrey/fuck.rpy:5390
 translate russian audrey_fuck_audreybedroom_fuck_e3e8800c:
-    "Эффект её руки на моем члене также быстро становится очевидным."
+    "Эффект её руки на моём члене также быстро становится очевидным."
 
 # ch/audrey/fuck.rpy:5391
 translate russian audrey_fuck_audreybedroom_fuck_5c9ece84:
@@ -28910,7 +28910,7 @@ translate russian audrey_fuck_audreybedroom_fuck_11df3949:
 
 # ch/audrey/fuck.rpy:5398
 translate russian audrey_fuck_audreybedroom_fuck_b222d820:
-    "И когда я начинаю погружаться в неё, мне кажется, что она сама погружается в теплую жидкость."
+    "И когда я начинаю погружаться в неё, мне кажется, что она сама погружается в тёплую жидкость."
 
 # ch/audrey/fuck.rpy:5399
 translate russian audrey_fuck_audreybedroom_fuck_10d87d76:
@@ -28934,7 +28934,7 @@ translate russian audrey_fuck_audreybedroom_fuck_59f4aa55:
 
 # ch/audrey/fuck.rpy:5405
 translate russian audrey_fuck_audreybedroom_fuck_3e6718e4:
-    "Единственная проблема – это сама Одри, у которой свои планы."
+    "Единственная проблема — это сама Одри, у которой свои планы."
 
 # ch/audrey/fuck.rpy:5406
 translate russian audrey_fuck_audreybedroom_fuck_f8d7984e:
@@ -28946,11 +28946,11 @@ translate russian audrey_fuck_audreybedroom_fuck_d56db6bf:
 
 # ch/audrey/fuck.rpy:5409
 translate russian audrey_fuck_audreybedroom_fuck_14fae4ad:
-    "Одри подчеркивает это, активно давя на меня по мере того, как я проникаю глубже."
+    "Одри подчёркивает это, активно давя на меня по мере того, как я проникаю глубже."
 
 # ch/audrey/fuck.rpy:5410
 translate russian audrey_fuck_audreybedroom_fuck_24b483f2:
-    "В то же время она пытается \"ехать\" надо мной, диктовать темп всему процессу."
+    "В то же время она пытается «ехать» надо мной, диктовать темп всему процессу."
 
 # ch/audrey/fuck.rpy:5411
 translate russian audrey_fuck_audreybedroom_fuck_727e1fef:
@@ -28982,7 +28982,7 @@ translate russian audrey_fuck_audreybedroom_fuck_be0fd882:
 
 # ch/audrey/fuck.rpy:5431
 translate russian audrey_fuck_audreybedroom_fuck_8455573e:
-    "Это означает, что я могу легко продолжать двигаться вперед и назад, проникая в нее."
+    "Это означает, что я могу легко продолжать двигаться вперёд и назад, проникая в неё."
 
 # ch/audrey/fuck.rpy:5432
 translate russian audrey_fuck_audreybedroom_fuck_c3189acd:
@@ -29006,7 +29006,7 @@ translate russian audrey_fuck_audreybedroom_fuck_46ac61ec:
 
 # ch/audrey/fuck.rpy:5444
 translate russian audrey_fuck_audreybedroom_fuck_5ea95065:
-    "Единственное, что существует для нас – это потребность продолжать делать то, что мы делаем."
+    "Единственное, что существует для нас — это потребность продолжать делать то, что мы делаем."
 
 # ch/audrey/fuck.rpy:5445
 translate russian audrey_fuck_audreybedroom_fuck_b20a8cf1:
@@ -29030,7 +29030,7 @@ translate russian audrey_fuck_audreybedroom_fuck_f1fbf6b8:
 
 # ch/audrey/fuck.rpy:5456
 translate russian audrey_fuck_audreybedroom_fuck_fade393c:
-    "Я почти чувствую, как Одри начинает провисать в моих руках, когда ее оргазм достигает пика."
+    "Я почти чувствую, как Одри начинает провисать в моих руках, когда её оргазм достигает пика."
 
 # ch/audrey/fuck.rpy:5457
 translate russian audrey_fuck_audreybedroom_fuck_a751153e:
@@ -29066,7 +29066,7 @@ translate russian audrey_fuck_audreybedroom_fuck_dfce2f86:
 
 # ch/audrey/fuck.rpy:5495
 translate russian audrey_fuck_audreybedroom_fuck_fade393c_1:
-    "Я почти чувствую, как Одри начинает провисать в моих руках, когда ее оргазм достигает пика."
+    "Я почти чувствую, как Одри начинает провисать в моих руках, когда её оргазм достигает пика."
 
 # ch/audrey/fuck.rpy:5496
 translate russian audrey_fuck_audreybedroom_fuck_07399986:
@@ -29098,11 +29098,11 @@ translate russian audrey_fuck_audreybedroom_fuck_82edfe45_1:
 
 # ch/audrey/fuck.rpy:5511
 translate russian audrey_fuck_audreybedroom_fuck_756d7131_1:
-    "И с этой мыслью я обхватываю ее ягодицы руками, по одной в каждой руке."
+    "И с этой мыслью я обхватываю её ягодицы руками, по одной в каждой руке."
 
 # ch/audrey/fuck.rpy:5512
 translate russian audrey_fuck_audreybedroom_fuck_2693a159_1:
-    mike.say "Хорошо, Одри…"
+    mike.say "Хорошо, Одри..."
 
 # ch/audrey/fuck.rpy:5513
 translate russian audrey_fuck_audreybedroom_fuck_f8cc9d30_1:
@@ -29114,7 +29114,7 @@ translate russian audrey_fuck_audreybedroom_fuck_31ce3f1a_1:
 
 # ch/audrey/fuck.rpy:5515
 translate russian audrey_fuck_audreybedroom_fuck_f8e5a1ce_1:
-    "Крепко прижав ее к себе, я убеждаюсь, что мой член находится между ее бедрами, и мы достаточно близко."
+    "Крепко прижав её к себе, я убеждаюсь, что мой член находится между её бёдрами, и мы достаточно близко."
 
 # ch/audrey/fuck.rpy:5516
 translate russian audrey_fuck_audreybedroom_fuck_7ead7e03_1:
@@ -29126,7 +29126,7 @@ translate russian audrey_fuck_audreybedroom_fuck_d6dd43da:
 
 # ch/audrey/fuck.rpy:5518
 translate russian audrey_fuck_audreybedroom_fuck_314098cf:
-    "И тогда я чувствую, как она давит на край ее влагалища."
+    "И тогда я чувствую, как она давит на край её влагалища."
 
 # ch/audrey/fuck.rpy:5519
 translate russian audrey_fuck_audreybedroom_fuck_ad493756_1:
@@ -29142,7 +29142,7 @@ translate russian audrey_fuck_audreybedroom_fuck_cdbe5ee7_1:
 
 # ch/audrey/fuck.rpy:5522
 translate russian audrey_fuck_audreybedroom_fuck_1091bc24_1:
-    "Что мне придется найти способ поддерживать ее все время, пока мы занимаемся любовью."
+    "Что мне придётся найти способ поддерживать её всё время, пока мы занимаемся любовью."
 
 # ch/audrey/fuck.rpy:5523
 translate russian audrey_fuck_audreybedroom_fuck_99de4da2_1:
@@ -29154,7 +29154,7 @@ translate russian audrey_fuck_audreybedroom_fuck_f0eeffce_1:
 
 # ch/audrey/fuck.rpy:5525
 translate russian audrey_fuck_audreybedroom_fuck_5fa1907f_1:
-    "И пока я продолжаю двигать головку против нее, она все время направляет ее внутрь."
+    "И пока я продолжаю двигать головку против неё, она всё время направляет её внутрь."
 
 # ch/audrey/fuck.rpy:5526
 translate russian audrey_fuck_audreybedroom_fuck_7c55e842_1:
@@ -29170,7 +29170,7 @@ translate russian audrey_fuck_audreybedroom_fuck_02842809_1:
 
 # ch/audrey/fuck.rpy:5529
 translate russian audrey_fuck_audreybedroom_fuck_e3e8800c_1:
-    "Эффект её руки на моем члене также быстро становится очевидным."
+    "Эффект её руки на моём члене также быстро становится очевидным."
 
 # ch/audrey/fuck.rpy:5530
 translate russian audrey_fuck_audreybedroom_fuck_5c9ece84_1:
@@ -29178,7 +29178,7 @@ translate russian audrey_fuck_audreybedroom_fuck_5c9ece84_1:
 
 # ch/audrey/fuck.rpy:5531
 translate russian audrey_fuck_audreybedroom_fuck_d71969b9:
-    "Вот так я чувствую, как ее влагалище перестает сопротивляться мне."
+    "Вот так я чувствую, как её влагалище перестаёт сопротивляться мне."
 
 # ch/audrey/fuck.rpy:5532
 translate russian audrey_fuck_audreybedroom_fuck_6e2a8876_1:
@@ -29186,11 +29186,11 @@ translate russian audrey_fuck_audreybedroom_fuck_6e2a8876_1:
 
 # ch/audrey/fuck.rpy:5533
 translate russian audrey_fuck_audreybedroom_fuck_25768364:
-    "Мне кажется, что ее влагалище просто тает от прикосновения моего члена."
+    "Мне кажется, что её влагалище просто тает от прикосновения моего члена."
 
 # ch/audrey/fuck.rpy:5537
 translate russian audrey_fuck_audreybedroom_fuck_b222d820_1:
-    "И когда я начинаю погружаться в неё, мне кажется, что она сама погружается в теплую жидкость."
+    "И когда я начинаю погружаться в неё, мне кажется, что она сама погружается в тёплую жидкость."
 
 # ch/audrey/fuck.rpy:5538
 translate russian audrey_fuck_audreybedroom_fuck_10d87d76_1:
@@ -29214,7 +29214,7 @@ translate russian audrey_fuck_audreybedroom_fuck_59f4aa55_1:
 
 # ch/audrey/fuck.rpy:5544
 translate russian audrey_fuck_audreybedroom_fuck_3e6718e4_1:
-    "Единственная проблема – это сама Одри, у которой свои планы."
+    "Единственная проблема — это сама Одри, у которой свои планы."
 
 # ch/audrey/fuck.rpy:5545
 translate russian audrey_fuck_audreybedroom_fuck_f8d7984e_1:
@@ -29226,11 +29226,11 @@ translate russian audrey_fuck_audreybedroom_fuck_d56db6bf_1:
 
 # ch/audrey/fuck.rpy:5548
 translate russian audrey_fuck_audreybedroom_fuck_14fae4ad_1:
-    "Одри подчеркивает это, активно давя на меня по мере того, как я проникаю глубже."
+    "Одри подчёркивает это, активно давя на меня по мере того, как я проникаю глубже."
 
 # ch/audrey/fuck.rpy:5549
 translate russian audrey_fuck_audreybedroom_fuck_24b483f2_1:
-    "В то же время она пытается \"ехать\" надо мной, диктовать темп всему процессу."
+    "В то же время она пытается «ехать» надо мной, диктовать темп всему процессу."
 
 # ch/audrey/fuck.rpy:5550
 translate russian audrey_fuck_audreybedroom_fuck_727e1fef_1:
@@ -29262,7 +29262,7 @@ translate russian audrey_fuck_audreybedroom_fuck_be0fd882_1:
 
 # ch/audrey/fuck.rpy:5570
 translate russian audrey_fuck_audreybedroom_fuck_8455573e_1:
-    "Это означает, что я могу легко продолжать двигаться вперед и назад, проникая в нее."
+    "Это означает, что я могу легко продолжать двигаться вперёд и назад, проникая в неё."
 
 # ch/audrey/fuck.rpy:5571
 translate russian audrey_fuck_audreybedroom_fuck_c3189acd_1:
@@ -29286,7 +29286,7 @@ translate russian audrey_fuck_audreybedroom_fuck_46ac61ec_1:
 
 # ch/audrey/fuck.rpy:5583
 translate russian audrey_fuck_audreybedroom_fuck_5ea95065_1:
-    "Единственное, что существует для нас – это потребность продолжать делать то, что мы делаем."
+    "Единственное, что существует для нас — это потребность продолжать делать то, что мы делаем."
 
 # ch/audrey/fuck.rpy:5584
 translate russian audrey_fuck_audreybedroom_fuck_b20a8cf1_1:
@@ -29310,7 +29310,7 @@ translate russian audrey_fuck_audreybedroom_fuck_f1fbf6b8_1:
 
 # ch/audrey/fuck.rpy:5596
 translate russian audrey_fuck_audreybedroom_fuck_fade393c_2:
-    "Я почти чувствую, как Одри начинает провисать в моих руках, когда ее оргазм достигает пика."
+    "Я почти чувствую, как Одри начинает провисать в моих руках, когда её оргазм достигает пика."
 
 # ch/audrey/fuck.rpy:5597
 translate russian audrey_fuck_audreybedroom_fuck_07399986_1:
@@ -29454,7 +29454,7 @@ translate russian audrey_give_male_ba89ed22:
 
 # ch/audrey/gift.rpy:65
 translate russian audrey_give_male_c1596ffc:
-    audrey.say "Что ты думаешь о моем подарке?"
+    audrey.say "Что ты думаешь о моём подарке?"
 
 # ch/audrey/gift.rpy:66
 translate russian audrey_give_male_554f357b_4:
@@ -29494,7 +29494,7 @@ translate russian audrey_give_birthday_male_7ce975cb:
 
 # ch/audrey/gift.rpy:86
 translate russian audrey_give_birthday_male_b29d398e:
-    audrey.say "С днем рождения, [lssb_audrey.hero_name()]!"
+    audrey.say "С днём рождения, [lssb_audrey.hero_name()]!"
 
 # ch/audrey/gift.rpy:91
 translate russian audrey_give_christmas_male_7ce975cb:
@@ -29506,7 +29506,7 @@ translate russian audrey_give_christmas_male_a3762b54:
 
 # ch/audrey/gift.rpy:101
 translate russian audrey_birthday_gift_male_b679f283:
-    mike.say "С днем рождения, Одри."
+    mike.say "С днём рождения, Одри."
 
 # ch/audrey/gift.rpy:102
 translate russian audrey_birthday_gift_male_c85dcdda:
@@ -29554,7 +29554,7 @@ translate russian audrey_gift_collar_male_c7608947:
 
 # ch/audrey/gift.rpy:130
 translate russian audrey_gift_collar_male_53fe29d1:
-    "Но я знаю, что все это – лишь то, что она выбирает показывать на поверхности."
+    "Но я знаю, что все это — лишь то, что она выбирает показывать на поверхности."
 
 # ch/audrey/gift.rpy:131
 translate russian audrey_gift_collar_male_e2f28c39:
@@ -29562,7 +29562,7 @@ translate russian audrey_gift_collar_male_e2f28c39:
 
 # ch/audrey/gift.rpy:132
 translate russian audrey_gift_collar_male_eed491a0:
-    "И я хочу, чтобы она поняла, что я понимаю ее – что я понимаю, кто она такая."
+    "И я хочу, чтобы она поняла, что я понимаю её — что я понимаю, кто она такая."
 
 # ch/audrey/gift.rpy:133
 translate russian audrey_gift_collar_male_9f25997d:
@@ -29578,11 +29578,11 @@ translate russian audrey_gift_collar_male_2f8df928:
 
 # ch/audrey/gift.rpy:136
 translate russian audrey_gift_collar_male_657ab266:
-    "Он покажет ей, насколько хорошо я ее понимаю."
+    "Он покажет ей, насколько хорошо я её понимаю."
 
 # ch/audrey/gift.rpy:137
 translate russian audrey_gift_collar_male_b21f2f84:
-    "Теперь мне остается только дождаться подходящего момента, чтобы подарить это ей."
+    "Теперь мне остаётся только дождаться подходящего момента, чтобы подарить это ей."
 
 # ch/audrey/gift.rpy:138
 translate russian audrey_gift_collar_male_0789204b:
@@ -29594,7 +29594,7 @@ translate russian audrey_gift_collar_male_97512740:
 
 # ch/audrey/gift.rpy:140
 translate russian audrey_gift_collar_male_b0538888:
-    "Брови Одри взлетают вверх, как только я упоминаю, что у меня есть что-то для нее."
+    "Брови Одри взлетают вверх, как только я упоминаю, что у меня есть что-то для неё."
 
 # ch/audrey/gift.rpy:141
 translate russian audrey_gift_collar_male_8976fea2:
@@ -29602,7 +29602,7 @@ translate russian audrey_gift_collar_male_8976fea2:
 
 # ch/audrey/gift.rpy:143
 translate russian audrey_gift_collar_male_b9fa085d:
-    "Но в ее глазах также читается любопытство, почти подозрение."
+    "Но в её глазах также читается любопытство, почти подозрение."
 
 # ch/audrey/gift.rpy:144
 translate russian audrey_gift_collar_male_cb6d5368:
@@ -29614,7 +29614,7 @@ translate russian audrey_gift_collar_male_4b485c33:
 
 # ch/audrey/gift.rpy:147
 translate russian audrey_gift_collar_male_ccf838fb:
-    audrey.say "Ведь у меня еще не день рождения!"
+    audrey.say "Ведь у меня ещё не день рождения!"
 
 # ch/audrey/gift.rpy:149
 translate russian audrey_gift_collar_male_f16f4a62:
@@ -29646,7 +29646,7 @@ translate russian audrey_gift_collar_male_07de93c1:
 
 # ch/audrey/gift.rpy:156
 translate russian audrey_gift_collar_male_4410fd7c:
-    "Одри тянется шеей, пытаясь разглядеть, что я от нее скрываю."
+    "Одри тянется шеей, пытаясь разглядеть, что я от неё скрываю."
 
 # ch/audrey/gift.rpy:157
 translate russian audrey_gift_collar_male_0640aa99:
@@ -29662,7 +29662,7 @@ translate russian audrey_gift_collar_male_29f35e1b:
 
 # ch/audrey/gift.rpy:160
 translate russian audrey_gift_collar_male_a9bd38e5:
-    "Я задерживаю момент еще несколько секунд, наслаждаясь разочарованием Одри."
+    "Я задерживаю момент ещё несколько секунд, наслаждаясь разочарованием Одри."
 
 # ch/audrey/gift.rpy:161
 translate russian audrey_gift_collar_male_0d7b7aa0:
@@ -29670,7 +29670,7 @@ translate russian audrey_gift_collar_male_0d7b7aa0:
 
 # ch/audrey/gift.rpy:162
 translate russian audrey_gift_collar_male_652e0b98:
-    "Это черный кожаный ошейник, шириной примерно дюйм."
+    "Это чёрный кожаный ошейник, шириной примерно дюйм."
 
 # ch/audrey/gift.rpy:163
 translate russian audrey_gift_collar_male_2f161146:
@@ -29678,7 +29678,7 @@ translate russian audrey_gift_collar_male_2f161146:
 
 # ch/audrey/gift.rpy:164
 translate russian audrey_gift_collar_male_f331af4d:
-    "И на металлической бирке спереди написано слово \"Toy\" большими буквами."
+    "И на металлической бирке спереди написано слово «Toy» большими буквами."
 
 # ch/audrey/gift.rpy:165
 translate russian audrey_gift_collar_male_89256eef:
@@ -29694,7 +29694,7 @@ translate russian audrey_gift_collar_male_e1c5eabf:
 
 # ch/audrey/gift.rpy:168
 translate russian audrey_gift_collar_male_bd1dd6e5:
-    "И ждать, пока она придет в себя и сможет говорить."
+    "И ждать, пока она придёт в себя и сможет говорить."
 
 # ch/audrey/gift.rpy:171
 translate russian audrey_gift_collar_male_a8d3c28e:
@@ -29702,7 +29702,7 @@ translate russian audrey_gift_collar_male_a8d3c28e:
 
 # ch/audrey/gift.rpy:172
 translate russian audrey_gift_collar_male_3f6da604:
-    "В ее глазах есть что-то, чего я не могу понять."
+    "В её глазах есть что-то, чего я не могу понять."
 
 # ch/audrey/gift.rpy:173
 translate russian audrey_gift_collar_male_8a9a0190:
@@ -29710,7 +29710,7 @@ translate russian audrey_gift_collar_male_8a9a0190:
 
 # ch/audrey/gift.rpy:174
 translate russian audrey_gift_collar_male_49df3137:
-    "Может быть, даже шлепнуть!"
+    "Может быть, даже шлёпнуть!"
 
 # ch/audrey/gift.rpy:175
 translate russian audrey_gift_collar_male_e73d0fe8:
@@ -29806,7 +29806,7 @@ translate russian audrey_gift_collar_male_92c82abe:
 
 # ch/audrey/gift.rpy:202
 translate russian audrey_gift_collar_male_45cbb941:
-    "Похоже, воротник на ее шее все говорит за нее."
+    "Похоже, воротник на её шее все говорит за неё."
 
 # ch/audrey/gift.rpy:206
 translate russian audrey_gift_collar_male_1f506423:
@@ -29818,7 +29818,7 @@ translate russian audrey_gift_collar_male_2944ec1d:
 
 # ch/audrey/gift.rpy:210
 translate russian audrey_gift_collar_male_d4fb39ac:
-    "Открытая ладонь Одри бьет меня по щеке, поворачивая мою голову в сторону."
+    "Открытая ладонь Одри бьёт меня по щеке, поворачивая мою голову в сторону."
 
 # ch/audrey/gift.rpy:211
 translate russian audrey_gift_collar_male_e20a384f:
@@ -29854,7 +29854,7 @@ translate russian audrey_gift_collar_male_0f9bdaf4:
 
 # ch/audrey/gift.rpy:219
 translate russian audrey_gift_collar_male_0d410900:
-    "Я все еще качаю головой, не в силах понять, что происходит."
+    "Я всё ещё качаю головой, не в силах понять, что происходит."
 
 # ch/audrey/gift.rpy:220
 translate russian audrey_gift_collar_male_934e3fa7:
@@ -29862,7 +29862,7 @@ translate russian audrey_gift_collar_male_934e3fa7:
 
 # ch/audrey/gift.rpy:221
 translate russian audrey_gift_collar_male_8a86b8d2:
-    "Неужели я так сильно неправильно интерпретировал ее намеки?"
+    "Неужели я так сильно неправильно интерпретировал её намёки?"
 
 # ch/audrey/gift.rpy:222
 translate russian audrey_gift_collar_male_6b78428b:
@@ -29878,7 +29878,7 @@ translate russian audrey_gift_collar_male_db43e51f:
 
 # ch/audrey/gift.rpy:225
 translate russian audrey_gift_collar_male_3e1cd243:
-    audrey.say "Я хочу быть одной из играющих – а не игрушкой!"
+    audrey.say "Я хочу быть одной из играющих — а не игрушкой!"
 
 # ch/audrey/gift.rpy:226
 translate russian audrey_gift_collar_male_6118da34:
@@ -29886,7 +29886,7 @@ translate russian audrey_gift_collar_male_6118da34:
 
 # ch/audrey/gift.rpy:227
 translate russian audrey_gift_collar_male_a8739b47:
-    "И она успевает это сделать до того, как я успеваю сказать еще одно слово."
+    "И она успевает это сделать до того, как я успеваю сказать ещё одно слово."
 
 # ch/audrey/gift.rpy:228
 translate russian audrey_gift_collar_male_982c1ffd:
@@ -29894,11 +29894,11 @@ translate russian audrey_gift_collar_male_982c1ffd:
 
 # ch/audrey/gift.rpy:229
 translate russian audrey_gift_collar_male_8070043b:
-    "Но потом я отбрасываю эту мысль, потому что не хочу получить еще одну порцию ругательств."
+    "Но потом я отбрасываю эту мысль, потому что не хочу получить ещё одну порцию ругательств."
 
 # ch/audrey/gift.rpy:230
 translate russian audrey_gift_collar_male_b98e3284:
-    "Все, что я могу сделать, это наклониться и поднять ошейник с того места, где он упал."
+    "Всё, что я могу сделать, это наклониться и поднять ошейник с того места, где он упал."
 
 # ch/audrey/gift.rpy:231
 translate russian audrey_gift_collar_male_d0b17cb8:
@@ -29910,7 +29910,7 @@ translate russian audrey_gift_slutty_dress_male_5b2444e3:
 
 # ch/audrey/gift.rpy:237
 translate russian audrey_gift_slutty_dress_male_0fa77622:
-    "Я знал, что должен был купить это для нее с того самого момента, когда впервые увидел его."
+    "Я знал, что должен был купить это для неё с того самого момента, когда впервые увидел его."
 
 # ch/audrey/gift.rpy:238
 translate russian audrey_gift_slutty_dress_male_9fd7fae3:
@@ -29918,7 +29918,7 @@ translate russian audrey_gift_slutty_dress_male_9fd7fae3:
 
 # ch/audrey/gift.rpy:239
 translate russian audrey_gift_slutty_dress_male_3c92227c:
-    "Я просто надеюсь, что этого будет достаточно, чтобы пробить ее обычную броню сарказма и апатии."
+    "Я просто надеюсь, что этого будет достаточно, чтобы пробить её обычную броню сарказма и апатии."
 
 # ch/audrey/gift.rpy:240
 translate russian audrey_gift_slutty_dress_male_c4c8cc35:
@@ -29930,7 +29930,7 @@ translate russian audrey_gift_slutty_dress_male_93b0466d:
 
 # ch/audrey/gift.rpy:242
 translate russian audrey_gift_slutty_dress_male_5d05168d:
-    mike.say "Я что-то тебе принес!"
+    mike.say "Я что-то тебе принёс!"
 
 # ch/audrey/gift.rpy:244
 translate russian audrey_gift_slutty_dress_male_3beb34cc:
@@ -29942,11 +29942,11 @@ translate russian audrey_gift_slutty_dress_male_a721a4b0:
 
 # ch/audrey/gift.rpy:247
 translate russian audrey_gift_slutty_dress_male_a8776e8b:
-    audrey.say "Да, я вижу, что ты мне принес, [lssb_audrey.hero_name()]."
+    audrey.say "Да, я вижу, что ты мне принёс, [lssb_audrey.hero_name()]."
 
 # ch/audrey/gift.rpy:248
 translate russian audrey_gift_slutty_dress_male_45460b7f:
-    audrey.say "Это написано на твоем лице!"
+    audrey.say "Это написано на твоём лице!"
 
 # ch/audrey/gift.rpy:250
 translate russian audrey_gift_slutty_dress_male_acccb577:
@@ -29962,7 +29962,7 @@ translate russian audrey_gift_slutty_dress_male_bf388556:
 
 # ch/audrey/gift.rpy:254
 translate russian audrey_gift_slutty_dress_male_0cae4b78:
-    "Ей не требуется много времени, чтобы разорвать оберточную бумагу и вытащить то, что внутри."
+    "Ей не требуется много времени, чтобы разорвать обёрточную бумагу и вытащить то, что внутри."
 
 # ch/audrey/gift.rpy:255
 translate russian audrey_gift_slutty_dress_male_44f27da7:
@@ -30022,11 +30022,11 @@ translate russian audrey_gift_slutty_dress_male_d11e6c57:
 
 # ch/audrey/gift.rpy:272
 translate russian audrey_gift_slutty_dress_male_283c42c7:
-    audrey.say "На самом деле, я уверена, что ты не можешь думать ни о чем другом, кроме меня в этом наряде!"
+    audrey.say "На самом деле, я уверена, что ты не можешь думать ни о чём другом, кроме меня в этом наряде!"
 
 # ch/audrey/gift.rpy:273
 translate russian audrey_gift_slutty_dress_male_f14757e0:
-    "Одри смеется от чистого восторга, когда я не могу ответить ей."
+    "Одри смеётся от чистого восторга, когда я не могу ответить ей."
 
 # ch/audrey/gift.rpy:274
 translate russian audrey_gift_slutty_dress_male_956027ab:
@@ -30054,11 +30054,11 @@ translate russian audrey_gift_slutty_dress_male_74503f68:
 
 # ch/audrey/gift.rpy:280
 translate russian audrey_gift_slutty_dress_male_562cffa2:
-    "Главное, чтобы я мог видеть ее в этом наряде!"
+    "Главное, чтобы я мог видеть её в этом наряде!"
 
 # ch/audrey/gift.rpy:284
 translate russian audrey_gift_slutty_dress_male_72cecea6:
-    "Одри издает презрительный смех и качает головой."
+    "Одри издаёт презрительный смех и качает головой."
 
 # ch/audrey/gift.rpy:285
 translate russian audrey_gift_slutty_dress_male_c8caf4d2:
@@ -30074,7 +30074,7 @@ translate russian audrey_gift_slutty_dress_male_6a13b842:
 
 # ch/audrey/gift.rpy:289
 translate russian audrey_gift_slutty_dress_male_acb746ed:
-    "Одри наклоняет голову набок, и ее улыбка становится жестокой."
+    "Одри наклоняет голову набок, и её улыбка становится жестокой."
 
 # ch/audrey/gift.rpy:290
 translate russian audrey_gift_slutty_dress_male_89f6d5fe:
@@ -30106,7 +30106,7 @@ translate russian audrey_gift_slutty_dress_male_6a57738e:
 
 # ch/audrey/gift.rpy:298
 translate russian audrey_gift_slutty_dress_male_970b8d98:
-    "И вот я стою там, один, и единственное, что у меня есть – это моё унижение."
+    "И вот я стою там, один, и единственное, что у меня есть — это моё унижение."
 
 # ch/audrey/gift.rpy:304
 translate russian audrey_gift_sexy_dress_male_3fe38429:
@@ -30138,7 +30138,7 @@ translate russian audrey_gift_sexy_dress_male_63d48e53:
 
 # ch/audrey/gift.rpy:312
 translate russian audrey_gift_sexy_dress_male_fc1ee87a:
-    "На её лице – знакомое выражение."
+    "На её лице — знакомое выражение."
 
 # ch/audrey/gift.rpy:313
 translate russian audrey_gift_sexy_dress_male_e28a4405:
@@ -30174,11 +30174,11 @@ translate russian audrey_gift_sexy_dress_male_5e3106cc:
 
 # ch/audrey/gift.rpy:323
 translate russian audrey_gift_sexy_dress_male_0eb66209:
-    "Она приподнимает одну бровь и смотрит на меня, а ее улыбка была просто ироничной."
+    "Она приподнимает одну бровь и смотрит на меня, а её улыбка была просто ироничной."
 
 # ch/audrey/gift.rpy:324
 translate russian audrey_gift_sexy_dress_male_71ded155:
-    "Но она все равно берет подарок и быстро срывает оберточную бумагу."
+    "Но она всё равно берет подарок и быстро срывает обёрточную бумагу."
 
 # ch/audrey/gift.rpy:325
 translate russian audrey_gift_sexy_dress_male_a557a9f9:
@@ -30198,7 +30198,7 @@ translate russian audrey_gift_sexy_dress_male_78c9cdec:
 
 # ch/audrey/gift.rpy:329
 translate russian audrey_gift_sexy_dress_male_b1bee2f9:
-    "Он черный, и то немногое, что в нем есть, очень обтягивает."
+    "Он чёрный, и то немногое, что в нём есть, очень обтягивает."
 
 # ch/audrey/gift.rpy:330
 translate russian audrey_gift_sexy_dress_male_6fc57d12:
@@ -30214,7 +30214,7 @@ translate russian audrey_gift_sexy_dress_male_b7e952c6:
 
 # ch/audrey/gift.rpy:336
 translate russian audrey_gift_sexy_dress_male_7323404c:
-    "Она тихо смеется все время, что заставляет меня чувствовать себя немного нервно."
+    "Она тихо смеётся всё время, что заставляет меня чувствовать себя немного нервно."
 
 # ch/audrey/gift.rpy:338
 translate russian audrey_gift_sexy_dress_male_81a4acb8:
@@ -30234,7 +30234,7 @@ translate russian audrey_gift_sexy_dress_male_8c675537:
 
 # ch/audrey/gift.rpy:342
 translate russian audrey_gift_sexy_dress_male_bc5f4cad:
-    audrey.say "Мне все равно, интересно тебе это или нет."
+    audrey.say "Мне всё равно, интересно тебе это или нет."
 
 # ch/audrey/gift.rpy:344
 translate russian audrey_gift_sexy_dress_male_892ccd90:
@@ -30266,7 +30266,7 @@ translate russian audrey_gift_sexy_dress_male_59a6cbf1:
 
 # ch/audrey/gift.rpy:352
 translate russian audrey_gift_sexy_dress_male_e639caf3:
-    audrey.say "Все в порядке, [lssb_audrey.hero_name()]."
+    audrey.say "Всё в порядке, [lssb_audrey.hero_name()]."
 
 # ch/audrey/gift.rpy:353
 translate russian audrey_gift_sexy_dress_male_62c1938f:
@@ -30278,7 +30278,7 @@ translate russian audrey_gift_sexy_dress_male_9d3c45e2:
 
 # ch/audrey/gift.rpy:355
 translate russian audrey_gift_sexy_dress_male_96164ea7:
-    "Все, что я могу сделать, это кивнуть и улыбнуться, пока Одри мучает меня."
+    "Всё, что я могу сделать, это кивнуть и улыбнуться, пока Одри мучает меня."
 
 # ch/audrey/gift.rpy:356
 translate russian audrey_gift_sexy_dress_male_de0a365c:
@@ -30286,15 +30286,15 @@ translate russian audrey_gift_sexy_dress_male_de0a365c:
 
 # ch/audrey/gift.rpy:357
 translate russian audrey_gift_sexy_dress_male_8f686061:
-    "Что я собираюсь увидеть ее в этом наяву!"
+    "Что я собираюсь увидеть её в этом наяву!"
 
 # ch/audrey/gift.rpy:359
 translate russian audrey_gift_sexy_dress_male_c19b23eb:
-    "Одри тихо смеется сама себе под нос, качая головой, когда оценивает наряд."
+    "Одри тихо смеётся сама себе под нос, качая головой, когда оценивает наряд."
 
 # ch/audrey/gift.rpy:360
 translate russian audrey_gift_sexy_dress_male_ec19f0fe:
-    "На мгновение мне кажется, что все идет хорошо, но потом она снова засовывает это в мои руки."
+    "На мгновение мне кажется, что все идёт хорошо, но потом она снова засовывает это в мои руки."
 
 # ch/audrey/gift.rpy:362
 translate russian audrey_gift_sexy_dress_male_81a4acb8_1:
@@ -30350,7 +30350,7 @@ translate russian audrey_gift_butt_plug_male_561fcfbb:
 
 # ch/audrey/gift.rpy:383
 translate russian audrey_gift_butt_plug_male_bb34ffe1:
-    audrey.say "Уверен, ты найдешь ему лучшее применение, чем я."
+    audrey.say "Уверен, ты найдёшь ему лучшее применение, чем я."
 
 # ch/audrey/gift.rpy:387
 translate russian audrey_gift_butt_plug_male_afb0cd5f:
@@ -30374,7 +30374,7 @@ translate russian audrey_gift_butt_plug_male_77c2a791:
 
 # ch/audrey/reactions.rpy:2
 translate russian audrey_ice_cream_reaction_male_1756ea33:
-    mike.say "Сегодня такая жара, Одри – пойдем купим мороженое!"
+    mike.say "Сегодня такая жара, Одри — пойдём купим мороженое!"
 
 # ch/audrey/reactions.rpy:3
 translate russian audrey_ice_cream_reaction_male_e7f84a5a:
@@ -30390,11 +30390,11 @@ translate russian audrey_ice_cream_reaction_male_35471568:
 
 # ch/audrey/reactions.rpy:6
 translate russian audrey_ice_cream_reaction_male_701e1e1d:
-    mike.say "Я не могу есть такие штуки, Одри – у меня от них голова болит!"
+    mike.say "Я не могу есть такие штуки, Одри — у меня от них голова болит!"
 
 # ch/audrey/reactions.rpy:7
 translate russian audrey_ice_cream_reaction_male_1d259690:
-    audrey.say "Ха-ха – а тебе-то что до этого?"
+    audrey.say "Ха-ха — а тебе-то что до этого?"
 
 # ch/audrey/reactions.rpy:8
 translate russian audrey_ice_cream_reaction_male_13d42e51:
@@ -30410,7 +30410,7 @@ translate russian audrey_ice_cream_reaction_male_f9f27758:
 
 # ch/audrey/reactions.rpy:11
 translate russian audrey_ice_cream_reaction_male_e53990dd:
-    "Я не знаю, делает ли она это намеренно – но это выглядит откровенно эротично!"
+    "Я не знаю, делает ли она это намеренно — но это выглядит откровенно эротично!"
 
 # ch/audrey/reactions.rpy:13
 translate russian audrey_ice_cream_reaction_male_0abd1def:
@@ -30562,7 +30562,7 @@ translate russian audrey_offer_a_drink_male_d0ee46bc:
 
 # ch/audrey/reactions.rpy:85
 translate russian audrey_offer_a_drink_male_c8e9f9c6:
-    mike.say "Что угодно – просто скажи, что тебе хочется."
+    mike.say "Что угодно — просто скажи, что тебе хочется."
 
 # ch/audrey/reactions.rpy:86
 translate russian audrey_offer_a_drink_male_3f04f020:
@@ -30574,11 +30574,11 @@ translate russian audrey_offer_a_drink_male_ababb583:
 
 # ch/audrey/reactions.rpy:91
 translate russian audrey_offer_a_drink_male_6e74864d:
-    audrey.say "Вот это ты молодец, \"Отец года\"!"
+    audrey.say "Вот это ты молодец, «Отец года»!"
 
 # ch/audrey/reactions.rpy:92
 translate russian audrey_offer_a_drink_male_01b4ef41:
-    audrey.say "Этот ребенок обречен еще до того, как родится!"
+    audrey.say "Этот ребёнок обречен ещё до того, как родится!"
 
 # ch/audrey/reactions.rpy:97
 translate russian audrey_offer_a_drink_male_13e5dce3:
@@ -30586,7 +30586,7 @@ translate russian audrey_offer_a_drink_male_13e5dce3:
 
 # ch/audrey/reactions.rpy:98
 translate russian audrey_offer_a_drink_male_3992cf53:
-    audrey.say "Водка с тоником – и побыстрее!"
+    audrey.say "Водка с тоником — и побыстрее!"
 
 # ch/audrey/reactions.rpy:100
 translate russian audrey_offer_a_drink_male_51d9c992:
@@ -30614,7 +30614,7 @@ translate russian audrey_slap_ass_intro_male_e0626da7:
 
 # ch/audrey/reactions.rpy:124
 translate russian audrey_slap_ass_intro_male_150aee13:
-    "Ее наряд и то, как она идет..."
+    "Её наряд и то, как она идёт..."
 
 # ch/audrey/reactions.rpy:125
 translate russian audrey_slap_ass_intro_male_1fb7e263:
@@ -30650,7 +30650,7 @@ translate russian audrey_slap_ass_intro_male_573993ee:
 
 # ch/audrey/reactions.rpy:136
 translate russian audrey_slap_ass_intro_male_62e216a0:
-    "А именно – дать ей твердый, но нежный подзатыльник."
+    "А именно — дать ей твёрдый, но нежный подзатыльник."
 
 # ch/audrey/reactions.rpy:140
 translate russian audrey_slap_ass_happy_male_931aabf4:
@@ -30718,7 +30718,7 @@ translate russian audrey_slap_ass_happy_male_83408c4d_1:
 
 # ch/audrey/reactions.rpy:161
 translate russian audrey_slap_ass_happy_male_a3ba9e15:
-    audrey.say "И когда придет время..."
+    audrey.say "И когда придёт время..."
 
 # ch/audrey/reactions.rpy:162
 translate russian audrey_slap_ass_happy_male_3ebc2c5e:
@@ -30790,11 +30790,11 @@ translate russian audrey_slap_ass_angry_male_e52d5882:
 
 # ch/audrey/reactions.rpy:189
 translate russian audrey_breakup_male_d8ffe2a9:
-    "Я ужасно боюсь момента, когда мне придется сказать Одри то, что у меня на уме."
+    "Я ужасно боюсь момента, когда мне придётся сказать Одри то, что у меня на уме."
 
 # ch/audrey/reactions.rpy:190
 translate russian audrey_breakup_male_b759ff3c:
-    "Она и так довольно вспыльчива, да еще и с быстрым темпераментом."
+    "Она и так довольно вспыльчива, да ещё и с быстрым темпераментом."
 
 # ch/audrey/reactions.rpy:191
 translate russian audrey_breakup_male_89e701c1:
@@ -30818,11 +30818,11 @@ translate russian audrey_breakup_male_bec69e12:
 
 # ch/audrey/reactions.rpy:197
 translate russian audrey_breakup_male_26c92a97:
-    "Я понятия не имею, что Одри собиралась сказать, прежде чем я прервал ее."
+    "Я понятия не имею, что Одри собиралась сказать, прежде чем я прервал её."
 
 # ch/audrey/reactions.rpy:198
 translate russian audrey_breakup_male_b9ab042e:
-    "Но похоже, этот удар оказался для нее неожиданным и заставил ее остановиться."
+    "Но похоже, этот удар оказался для неё неожиданным и заставил её остановиться."
 
 # ch/audrey/reactions.rpy:199
 translate russian audrey_breakup_male_a29a6180:
@@ -30838,7 +30838,7 @@ translate russian audrey_breakup_male_dc10a8d0:
 
 # ch/audrey/reactions.rpy:202
 translate russian audrey_breakup_male_eab3fe2f:
-    audrey.say "Я думала, ты только что сказал, что между нами все закончилось!"
+    audrey.say "Я думала, ты только что сказал, что между нами всё закончилось!"
 
 # ch/audrey/reactions.rpy:203
 translate russian audrey_breakup_male_7215f186:
@@ -30862,11 +30862,11 @@ translate russian audrey_breakup_male_695499c0:
 
 # ch/audrey/reactions.rpy:208
 translate russian audrey_breakup_male_88103bc3:
-    "Одри на мгновение выглядит явно потрясенной."
+    "Одри на мгновение выглядит явно потрясённой."
 
 # ch/audrey/reactions.rpy:209
 translate russian audrey_breakup_male_3e6469b2:
-    "Как будто ее обычно непоколебимая уверенность пострадала."
+    "Как будто её обычно непоколебимая уверенность пострадала."
 
 # ch/audrey/reactions.rpy:210
 translate russian audrey_breakup_male_dbdcd022:
@@ -30874,7 +30874,7 @@ translate russian audrey_breakup_male_dbdcd022:
 
 # ch/audrey/reactions.rpy:212
 translate russian audrey_breakup_male_18f3f3ee:
-    "И кажется, что ее уверенность возвращается."
+    "И кажется, что её уверенность возвращается."
 
 # ch/audrey/reactions.rpy:213
 translate russian audrey_breakup_male_e31f9f67:
@@ -30898,7 +30898,7 @@ translate russian audrey_breakup_male_f0016ba1:
 
 # ch/audrey/reactions.rpy:218
 translate russian audrey_breakup_male_54c83cce:
-    "Обычно такое поведение заставляет ее выглядеть как человек, который контролирует ситуацию."
+    "Обычно такое поведение заставляет её выглядеть как человек, который контролирует ситуацию."
 
 # ch/audrey/reactions.rpy:219
 translate russian audrey_breakup_male_a4980d76:
@@ -30918,7 +30918,7 @@ translate russian audrey_breakup_male_cc37fc6c:
 
 # ch/audrey/reactions.rpy:223
 translate russian audrey_breakup_male_5401331a:
-    audrey.say "Да, потому что я все равно собиралась с тобой расстаться."
+    audrey.say "Да, потому что я всё равно собиралась с тобой расстаться."
 
 # ch/audrey/reactions.rpy:224
 translate russian audrey_breakup_male_009f50d1:
@@ -30994,11 +30994,11 @@ translate russian audrey_go_steady_no_male_1af86a52:
 
 # ch/audrey/reactions.rpy:255
 translate russian audrey_go_steady_no_male_3cc92259:
-    audrey.say "Мне кажется, мы еще не там."
+    audrey.say "Мне кажется, мы ещё не там."
 
 # ch/audrey/reactions.rpy:256
 translate russian audrey_go_steady_no_male_58b680b3:
-    audrey.say "Тебе придется поработать усерднее, чтобы это заслужить!"
+    audrey.say "Тебе придётся поработать усерднее, чтобы это заслужить!"
 
 # ch/audrey/reactions.rpy:258
 translate russian audrey_go_steady_no_male_db2685b7:
@@ -31010,7 +31010,7 @@ translate russian audrey_pet_intro_male_eefbbb88:
 
 # ch/audrey/reactions.rpy:263
 translate russian audrey_pet_intro_male_148f25f4:
-    "Но другая часть меня не может устоять перед желанием увидеть, что произойдет."
+    "Но другая часть меня не может устоять перед желанием увидеть, что произойдёт."
 
 # ch/audrey/reactions.rpy:265
 translate russian audrey_pet_intro_male_80005f77:
@@ -31030,7 +31030,7 @@ translate russian audrey_pet_intro_male_5f641107:
 
 # ch/audrey/reactions.rpy:270
 translate russian audrey_pet_intro_male_0f69a915:
-    "Поэтому я погладил Одри по голове и жду ее реакции..."
+    "Поэтому я погладил Одри по голове и жду её реакции..."
 
 # ch/audrey/reactions.rpy:274
 translate russian audrey_pet_happy_male_1c94e7f1:
@@ -31098,7 +31098,7 @@ translate russian audrey_massage_accept_male_caf9d59b:
 
 # ch/audrey/reactions.rpy:304
 translate russian audrey_massage_accept_male_41d3ff55:
-    audrey.say "Так что клади руки мне на спину и не убирай, пока я не разрешу…"
+    audrey.say "Так что клади руки мне на спину и не убирай, пока я не разрешу..."
 
 # ch/audrey/reactions.rpy:306
 translate russian audrey_massage_accept_male_e2c09a6d:
@@ -31106,7 +31106,7 @@ translate russian audrey_massage_accept_male_e2c09a6d:
 
 # ch/audrey/reactions.rpy:307
 translate russian audrey_massage_accept_male_745d7228:
-    audrey.say "Черт...кажется, я и правда выкипала!"
+    audrey.say "Чёрт...кажется, я и правда выкипала!"
 
 # ch/audrey/reactions.rpy:308
 translate russian audrey_massage_accept_male_d39dae88:
@@ -31154,7 +31154,7 @@ translate russian audrey_piercing_nipples_reaction_male_6b881b4c:
 
 # ch/audrey/reactions.rpy:330
 translate russian audrey_piercing_nipples_reaction_male_a04f64fc:
-    audrey.say "Но проколоть мои соски – это была отличная идея, [lssb_audrey.hero_name()]!"
+    audrey.say "Но проколоть мои соски — это была отличная идея, [lssb_audrey.hero_name()]!"
 
 # ch/audrey/reactions.rpy:331
 translate russian audrey_piercing_nipples_reaction_male_90b18330:
@@ -31194,7 +31194,7 @@ translate russian audrey_piercing_clit_reaction_male_26966845:
 
 # ch/audrey/reactions.rpy:349
 translate russian audrey_piercing_clit_reaction_male_8a7991d4:
-    audrey.say "Ты превзошел себя на этот раз, [lssb_audrey.hero_name()]!"
+    audrey.say "Ты превзошёл себя на этот раз, [lssb_audrey.hero_name()]!"
 
 # ch/audrey/reactions.rpy:351
 translate russian audrey_piercing_clit_reaction_male_90021c71:
@@ -31214,7 +31214,7 @@ translate russian audrey_piercing_head_reaction_male_7877c1e3:
 
 # ch/audrey/reactions.rpy:359
 translate russian audrey_piercing_head_reaction_male_fcb0b84d:
-    audrey.say "Я все равно буду использовать свой язык, чтобы высказывать свое мнение."
+    audrey.say "Я всё равно буду использовать свой язык, чтобы высказывать своё мнение."
 
 # ch/audrey/reactions.rpy:360
 translate russian audrey_piercing_head_reaction_male_772f83ab:
@@ -31242,7 +31242,7 @@ translate russian audrey_piercing_nose_reaction_male_a3006985:
 
 # ch/audrey/reactions.rpy:371
 translate russian audrey_piercing_nose_reaction_male_c7522205:
-    audrey.say "На самом деле, о чем я вообще говорю – это чертовски здорово!"
+    audrey.say "На самом деле, о чём я вообще говорю — это чертовски здорово!"
 
 # ch/audrey/reactions.rpy:373
 translate russian audrey_piercing_nose_reaction_male_5a65790d:
@@ -31262,7 +31262,7 @@ translate russian audrey_call_in_a223cfdb:
 
 # ch/audrey/reactions.rpy:389
 translate russian audrey_movie_disliked_reaction_male_a3f3a151:
-    audrey.say "Ну, это последний раз, когда Я выбираю фильм – это была полная чушь!"
+    audrey.say "Ну, это последний раз, когда Я выбираю фильм — это была полная чушь!"
 
 # ch/audrey/reactions.rpy:391
 translate russian audrey_movie_disliked_reaction_male_088a9c28:
@@ -31270,7 +31270,7 @@ translate russian audrey_movie_disliked_reaction_male_088a9c28:
 
 # ch/audrey/reactions.rpy:395
 translate russian audrey_movie_indifferent_reaction_male_9c818baf:
-    audrey.say "Это было так скучно – даже очень плохой фильм был бы лучше!"
+    audrey.say "Это было так скучно — даже очень плохой фильм был бы лучше!"
 
 # ch/audrey/reactions.rpy:397
 translate russian audrey_movie_indifferent_reaction_male_a925f2e6:
@@ -31282,7 +31282,7 @@ translate russian audrey_movie_indifferent_reaction_male_b62707ee:
 
 # ch/audrey/reactions.rpy:403
 translate russian audrey_movie_liked_reaction_male_54c5bd13:
-    audrey.say "Не могу поверить, что ты выбрал такой хороший фильм – какие же у тебя шансы на это?!?"
+    audrey.say "Не могу поверить, что ты выбрал такой хороший фильм — какие же у тебя шансы на это?!?"
 
 # ch/audrey/reactions.rpy:405
 translate russian audrey_movie_liked_reaction_male_3cf6e9dc:
@@ -31306,7 +31306,7 @@ translate russian audrey_belly_kiss_male_333a1980:
 
 # ch/audrey/reactions.rpy:416
 translate russian audrey_belly_kiss_male_adcabc6c:
-    "Что может означать только одно – она хочет, чтобы ее поцеловали."
+    "Что может означать только одно — она хочет, чтобы её поцеловали."
 
 # ch/audrey/reactions.rpy:418
 translate russian audrey_belly_kiss_male_5485a749:
@@ -31314,7 +31314,7 @@ translate russian audrey_belly_kiss_male_5485a749:
 
 # ch/audrey/reactions.rpy:420
 translate russian audrey_belly_kiss_male_bab1a49c:
-    "Но прежде чем я успеваю до нее добраться, что-то оказывается у меня на пути."
+    "Но прежде чем я успеваю до неё добраться, что-то оказывается у меня на пути."
 
 # ch/audrey/reactions.rpy:421
 translate russian audrey_belly_kiss_male_ec4150dc:
@@ -31322,7 +31322,7 @@ translate russian audrey_belly_kiss_male_ec4150dc:
 
 # ch/audrey/reactions.rpy:423
 translate russian audrey_belly_kiss_male_44dc568a:
-    audrey.say "Черт!"
+    audrey.say "Чёрт!"
 
 # ch/audrey/reactions.rpy:425
 translate russian audrey_belly_kiss_male_7058c13b:
@@ -31346,7 +31346,7 @@ translate russian audrey_belly_kiss_male_c5100fd2:
 
 # ch/audrey/reactions.rpy:431
 translate russian audrey_belly_kiss_male_9a21a2c5:
-    "Одри хмурится, выражая свое недовольство ситуацией."
+    "Одри хмурится, выражая своё недовольство ситуацией."
 
 # ch/audrey/reactions.rpy:433
 translate russian audrey_belly_kiss_male_4ba581c0:
@@ -31378,7 +31378,7 @@ translate russian audrey_belly_kiss_male_43160b45:
 
 # ch/audrey/reactions.rpy:443
 translate russian audrey_belly_kiss_male_8d7919f5:
-    "Опустившись на одно колено, я наклоняю голову вперед."
+    "Опустившись на одно колено, я наклоняю голову вперёд."
 
 # ch/audrey/reactions.rpy:444
 translate russian audrey_belly_kiss_male_28b14d9e:
@@ -31386,11 +31386,11 @@ translate russian audrey_belly_kiss_male_28b14d9e:
 
 # ch/audrey/reactions.rpy:445
 translate russian audrey_belly_kiss_male_ae8b5f36:
-    "И я вижу, что ей интересно узнать, к чему я пришел."
+    "И я вижу, что ей интересно узнать, к чему я пришёл."
 
 # ch/audrey/reactions.rpy:446
 translate russian audrey_belly_kiss_male_b793f95f:
-    "Поэтому я не стесняюсь и начинаю целовать ее живот, прямо вокруг пупка."
+    "Поэтому я не стесняюсь и начинаю целовать её живот, прямо вокруг пупка."
 
 # ch/audrey/reactions.rpy:447
 translate russian audrey_belly_kiss_male_b8af57d0:
@@ -31398,7 +31398,7 @@ translate russian audrey_belly_kiss_male_b8af57d0:
 
 # ch/audrey/reactions.rpy:449
 translate russian audrey_belly_kiss_male_e738a96f:
-    "Но чем больше поцелуев я оставляю на ее животе, тем тише становятся эти звуки."
+    "Но чем больше поцелуев я оставляю на её животе, тем тише становятся эти звуки."
 
 # ch/audrey/reactions.rpy:450
 translate russian audrey_belly_kiss_male_4348dfe2:
@@ -31410,7 +31410,7 @@ translate russian audrey_belly_kiss_male_fe7a6c08:
 
 # ch/audrey/reactions.rpy:452
 translate russian audrey_belly_kiss_male_ef466004:
-    "Я воспринимаю это как приглашение целовать ее еще больше."
+    "Я воспринимаю это как приглашение целовать её ещё больше."
 
 # ch/audrey/reactions.rpy:455
 translate russian audrey_belly_kiss_male_9c82d65e:
@@ -31434,7 +31434,7 @@ translate russian audrey_belly_kiss_male_575e183b:
 
 # ch/audrey/reactions.rpy:470
 translate russian audrey_belly_caress_male_5289cd8d:
-    audrey.say "Эй, [lssb_audrey.hero_name()]…"
+    audrey.say "Эй, [lssb_audrey.hero_name()]..."
 
 # ch/audrey/reactions.rpy:471
 translate russian audrey_belly_caress_male_7fef7a61:
@@ -31446,11 +31446,11 @@ translate russian audrey_belly_caress_male_e27cdc74:
 
 # ch/audrey/reactions.rpy:474
 translate russian audrey_belly_caress_male_c2743004:
-    "Ситуацию усугубляет то, что я смотрел на нее в тот момент, когда она застала меня врасплох."
+    "Ситуацию усугубляет то, что я смотрел на неё в тот момент, когда она застала меня врасплох."
 
 # ch/audrey/reactions.rpy:475
 translate russian audrey_belly_caress_male_30dbf00d:
-    "Или, чтобы быть более точным, я воспользовался возможностью внимательно рассмотреть ее живот."
+    "Или, чтобы быть более точным, я воспользовался возможностью внимательно рассмотреть её живот."
 
 # ch/audrey/reactions.rpy:476
 translate russian audrey_belly_caress_male_30e74fc5:
@@ -31462,7 +31462,7 @@ translate russian audrey_belly_caress_male_297f62db:
 
 # ch/audrey/reactions.rpy:478
 translate russian audrey_belly_caress_male_7832f468:
-    mike.say "О чем ты говоришь, Одри?"
+    mike.say "О чём ты говоришь, Одри?"
 
 # ch/audrey/reactions.rpy:479
 translate russian audrey_belly_caress_male_4ca37ed2:
@@ -31474,7 +31474,7 @@ translate russian audrey_belly_caress_male_b3cbf0e0:
 
 # ch/audrey/reactions.rpy:482
 translate russian audrey_belly_caress_male_aed828be:
-    "И похоже, она настроена меня серьезно отругать."
+    "И похоже, она настроена меня серьёзно отругать."
 
 # ch/audrey/reactions.rpy:484
 translate russian audrey_belly_caress_male_a079646e:
@@ -31550,7 +31550,7 @@ translate russian audrey_belly_caress_male_7c32f854:
 
 # ch/audrey/reactions.rpy:510
 translate russian audrey_belly_caress_male_c989f0af:
-    audrey.say "О, [lssb_audrey.hero_name()]…"
+    audrey.say "О, [lssb_audrey.hero_name()]..."
 
 # ch/audrey/reactions.rpy:511
 translate russian audrey_belly_caress_male_5d6b781f:
@@ -31610,7 +31610,7 @@ translate russian audrey_belly_listen_male_72562996:
 
 # ch/audrey/reactions.rpy:538
 translate russian audrey_belly_listen_male_20fe5a7a:
-    mike.say "С малышом все в порядке, да?"
+    mike.say "С малышом всё в порядке, да?"
 
 # ch/audrey/reactions.rpy:539
 translate russian audrey_belly_listen_male_9b8d5040:
@@ -31662,7 +31662,7 @@ translate russian audrey_belly_listen_male_6f7944b9:
 
 # ch/audrey/reactions.rpy:556
 translate russian audrey_belly_listen_male_0af68e67:
-    "Я отмахиваюсь от указаний Одри и прикладываю ухо к ее животу."
+    "Я отмахиваюсь от указаний Одри и прикладываю ухо к её животу."
 
 # ch/audrey/reactions.rpy:557
 translate russian audrey_belly_listen_male_7606cc25:
@@ -31706,11 +31706,11 @@ translate russian audrey_belly_listen_male_25862f24:
 
 # ch/audrey/reactions.rpy:570
 translate russian audrey_belly_listen_male_8ca79006:
-    audrey.say "Этот ребенок не только сделал меня толстой..."
+    audrey.say "Этот ребёнок не только сделал меня толстой..."
 
 # ch/audrey/reactions.rpy:571
 translate russian audrey_belly_listen_male_eb643a47:
-    audrey.say "Он еще и превратил меня в какую-то звуковую систему для хиппи!"
+    audrey.say "Он ещё и превратил меня в какую-то звуковую систему для хиппи!"
 
 # ch/audrey/reactions.rpy:574
 translate russian audrey_belly_listen_male_d4ee98a4:
@@ -31734,7 +31734,7 @@ translate russian audrey_ask_hot_coffee_male_c5995ee7:
 
 # ch/audrey/reactions.rpy:586
 translate russian audrey_ask_hot_coffee_male_ebcea145:
-    audrey.say "Сэр… сегодня никаких игр. Только я, так, как ты меня учил."
+    audrey.say "Сэр... сегодня никаких игр. Только я, так, как ты меня учил."
 
 # ch/audrey/reactions.rpy:587
 translate russian audrey_ask_hot_coffee_male_9b85fd31:
@@ -31754,7 +31754,7 @@ translate russian audrey_ask_hot_coffee_male_6957227e:
 
 # ch/audrey/reactions.rpy:592
 translate russian audrey_ask_hot_coffee_male_4a28834a:
-    audrey.say "Ну… что касается этого горячего кофе... у тебя или у меня?"
+    audrey.say "Ну... что касается этого горячего кофе... у тебя или у меня?"
 
 # ch/audrey/reactions.rpy:593
 translate russian audrey_ask_hot_coffee_male_77b0cb8e:
@@ -31782,7 +31782,7 @@ translate russian audrey_ask_hot_coffee_male_67f79ff1:
 
 # ch/audrey/reactions.rpy:605
 translate russian audrey_ask_hot_coffee_male_4d495a09:
-    audrey.say "Так... мы будем пить этот \"горячий кофе\" у тебя или у меня?"
+    audrey.say "Так... мы будем пить этот «горячий кофе» у тебя или у меня?"
 
 # ch/audrey/reactions.rpy:606
 translate russian audrey_ask_hot_coffee_male_4998b4e2:
@@ -31798,7 +31798,7 @@ translate russian audrey_ask_hot_coffee_male_62cf74aa:
 
 # ch/audrey/reactions.rpy:609
 translate russian audrey_ask_hot_coffee_male_13d6c83f:
-    audrey.say "Думаю, тебе придется это выяснить, да?"
+    audrey.say "Думаю, тебе придётся это выяснить, да?"
 
 # ch/audrey/reactions.rpy:612
 translate russian audrey_ask_hot_coffee_male_8b9398b1:
@@ -31818,7 +31818,7 @@ translate russian audrey_ask_hot_coffee_male_ccc3be8f:
 
 # ch/audrey/reactions.rpy:620
 translate russian audrey_ask_hot_coffee_male_a21edfe7:
-    audrey.say "Только если тебе повезет."
+    audrey.say "Только если тебе повезёт."
 
 # ch/audrey/talk.rpy:3
 translate russian audrey_talk_love_male_14934d9e:
@@ -31826,7 +31826,7 @@ translate russian audrey_talk_love_male_14934d9e:
 
 # ch/audrey/talk.rpy:5
 translate russian audrey_talk_love_male_1c8f9872:
-    audrey.say "Я знаю, что мне нравится ощущать твоего ребенка внутри себя."
+    audrey.say "Я знаю, что мне нравится ощущать твоего ребёнка внутри себя."
 
 # ch/audrey/talk.rpy:7
 translate russian audrey_talk_love_male_a9390138:
@@ -31870,7 +31870,7 @@ translate russian audrey_talk_love_male_6dbfcdba:
 
 # ch/audrey/talk.rpy:30
 translate russian audrey_talk_love_male_9a0f82d0:
-    audrey.say "Ха-ха – это просто более длинное и скучное слово для секса..."
+    audrey.say "Ха-ха — это просто более длинное и скучное слово для секса..."
 
 # ch/audrey/talk.rpy:31
 translate russian audrey_talk_love_male_7f89f567:
@@ -31886,7 +31886,7 @@ translate russian audrey_talk_sex_male_f0d2dcee:
 
 # ch/audrey/talk.rpy:42
 translate russian audrey_talk_sex_male_f92b5770:
-    audrey.say "Я не могу сказать, что беременность повлияла на мое сексуальное влечение."
+    audrey.say "Я не могу сказать, что беременность повлияла на моё сексуальное влечение."
 
 # ch/audrey/talk.rpy:44
 translate russian audrey_talk_sex_male_e3c307c2:
@@ -31914,19 +31914,19 @@ translate russian audrey_talk_sex_male_60daad01:
 
 # ch/audrey/talk.rpy:59
 translate russian audrey_talk_sex_male_c83dc3e7:
-    audrey.say "Хм... Я всегда говорю, что секс – это лучший способ провести день."
+    audrey.say "Хм... Я всегда говорю, что секс — это лучший способ провести день."
 
 # ch/audrey/talk.rpy:61
 translate russian audrey_talk_sex_male_90d5cbff:
-    audrey.say "Но похотливый секс… это лучший способ провести целые выходные."
+    audrey.say "Но похотливый секс... это лучший способ провести целые выходные."
 
 # ch/audrey/talk.rpy:68
 translate russian audrey_talk_politics_male_f7ac20f8:
-    mike.say "А как насчет тебя, Одри? Какие у тебя политические взгляды?"
+    mike.say "А как насчёт тебя, Одри? Какие у тебя политические взгляды?"
 
 # ch/audrey/talk.rpy:71
 translate russian audrey_talk_politics_male_7fbbac79:
-    audrey.say "Мне совершенно все равно на политику, кроме случаев, когда речь идет о моих правах и моем теле."
+    audrey.say "Мне совершенно всё равно на политику, кроме случаев, когда речь идёт о моих правах и моем теле."
 
 # ch/audrey/talk.rpy:72
 translate russian audrey_talk_politics_male_c009f8bf:
@@ -31942,7 +31942,7 @@ translate russian audrey_talk_politics_male_578e6805:
 
 # ch/audrey/talk.rpy:83
 translate russian audrey_talk_food_male_128dc8e3:
-    mike.say "Я думаю, пойду поем чего-нибудь – что тебе больше нравится, Одри?"
+    mike.say "Я думаю, пойду поем чего-нибудь — что тебе больше нравится, Одри?"
 
 # ch/audrey/talk.rpy:85
 translate russian audrey_talk_food_male_5bd0a488:
@@ -31950,7 +31950,7 @@ translate russian audrey_talk_food_male_5bd0a488:
 
 # ch/audrey/talk.rpy:87
 translate russian audrey_talk_food_male_5bd2f6a3:
-    audrey.say "У меня жуткие тяги, и все, что я хочу есть – это хуй!"
+    audrey.say "У меня жуткие тяги, и всё, что я хочу есть — это хуй!"
 
 # ch/audrey/talk.rpy:91
 translate russian audrey_talk_food_male_b31f679f:
@@ -31982,15 +31982,15 @@ translate russian audrey_talk_food_male_a73d0ec0:
 
 # ch/audrey/talk.rpy:111
 translate russian audrey_talk_travels_male_b0870c6f:
-    mike.say "Куда ты планируешь поехать в свой идеальный отпуск, Одри – тот, о котором ты мечтала всю жизнь?"
+    mike.say "Куда ты планируешь поехать в свой идеальный отпуск, Одри — тот, о котором ты мечтала всю жизнь?"
 
 # ch/audrey/talk.rpy:113
 translate russian audrey_talk_travels_male_7c5fe0ce:
-    audrey.say "Тебе лучше заранее найти хорошую няню, когда этот ребенок появится."
+    audrey.say "Тебе лучше заранее найти хорошую няню, когда этот ребёнок появится."
 
 # ch/audrey/talk.rpy:115
 translate russian audrey_talk_travels_male_9a055c41:
-    audrey.say "Я все еще хочу осуществить свою мечту – побывать на каждом континенте..."
+    audrey.say "Я всё ещё хочу осуществить свою мечту — побывать на каждом континенте..."
 
 # ch/audrey/talk.rpy:119
 translate russian audrey_talk_travels_male_fc9abe8d:
@@ -31998,7 +31998,7 @@ translate russian audrey_talk_travels_male_fc9abe8d:
 
 # ch/audrey/talk.rpy:120
 translate russian audrey_talk_travels_male_2ef976f0:
-    audrey.say "Так я смогу, наконец, осуществить свою мечту – чтобы меня хотя бы один раз трахал на каждом континенте."
+    audrey.say "Так я смогу, наконец, осуществить свою мечту — чтобы меня хотя бы один раз трахал на каждом континенте."
 
 # ch/audrey/talk.rpy:127
 translate russian audrey_talk_tv_male_a42f71f4:
@@ -32006,7 +32006,7 @@ translate russian audrey_talk_tv_male_a42f71f4:
 
 # ch/audrey/talk.rpy:130
 translate russian audrey_talk_tv_male_91529aed:
-    audrey.say "Я постоянно засыпаю на диване по вечерам – может быть, ты сможешь мне помочь не заснуть?"
+    audrey.say "Я постоянно засыпаю на диване по вечерам — может быть, ты сможешь мне помочь не заснуть?"
 
 # ch/audrey/talk.rpy:134
 translate russian audrey_talk_tv_male_e45ad3ec:
@@ -32030,7 +32030,7 @@ translate russian audrey_talk_tv_male_de5c80f1:
 
 # ch/audrey/talk.rpy:145
 translate russian audrey_talk_tv_male_8e1c928c:
-    audrey.say "Мне, честно говоря, не очень интересно смотреть телевизор, особенно когда речь идет о реальном просмотре."
+    audrey.say "Мне, честно говоря, не очень интересно смотреть телевизор, особенно когда речь идёт о реальном просмотре."
 
 # ch/audrey/talk.rpy:146
 translate russian audrey_talk_tv_male_b63dc10e:
@@ -32046,7 +32046,7 @@ translate russian audrey_talk_sports_male_286ed711:
 
 # ch/audrey/talk.rpy:157
 translate russian audrey_talk_sports_male_04201b95:
-    audrey.say "Но я все еще могу делать много чего, когда лежу..."
+    audrey.say "Но я всё ещё могу делать много чего, когда лежу..."
 
 # ch/audrey/talk.rpy:162
 translate russian audrey_talk_sports_male_5d179937:
@@ -32058,7 +32058,7 @@ translate russian audrey_talk_sports_male_6a1d10cf:
 
 # ch/audrey/talk.rpy:165
 translate russian audrey_talk_sports_male_2effcebd:
-    audrey.say "Я всегда любила заниматься спортом – думаю, больше всего мне нравятся тренировки по боевым искусствам."
+    audrey.say "Я всегда любила заниматься спортом — думаю, больше всего мне нравятся тренировки по боевым искусствам."
 
 # ch/audrey/talk.rpy:172
 translate russian audrey_talk_fashion_male_a97ac546:
@@ -32074,7 +32074,7 @@ translate russian audrey_talk_fashion_male_748901c8:
 
 # ch/audrey/talk.rpy:182
 translate russian audrey_talk_fashion_male_89219852:
-    audrey.say "Фу, нет – эти девушки такие худые, это жутко."
+    audrey.say "Фу, нет — эти девушки такие худые, это жутко."
 
 # ch/audrey/talk.rpy:185
 translate russian audrey_talk_fashion_male_a1ce9c3a:
@@ -32086,7 +32086,7 @@ translate russian audrey_talk_books_male_6cf1a724:
 
 # ch/audrey/talk.rpy:195
 translate russian audrey_talk_books_male_b4df932b:
-    audrey.say "Ты читала эту книгу {i}\"Пятьдесят оттенков серого\"{/i}?"
+    audrey.say "Ты читала эту книгу {i}«Пятьдесят оттенков серого»{/i}?"
 
 # ch/audrey/talk.rpy:196
 translate russian audrey_talk_books_male_f4bb1d79:
@@ -32138,7 +32138,7 @@ translate russian audrey_talk_computers_male_88005ccc:
 
 # ch/audrey/talk.rpy:230
 translate russian audrey_talk_computers_male_085c9054:
-    audrey.say "Нет, ни капельки – мне это не интересно."
+    audrey.say "Нет, ни капельки — мне это не интересно."
 
 # ch/audrey/talk.rpy:238
 translate russian audrey_talk_music_male_898bd7a9:
@@ -32146,15 +32146,15 @@ translate russian audrey_talk_music_male_898bd7a9:
 
 # ch/audrey/talk.rpy:239
 translate russian audrey_talk_music_male_658acc2a:
-    audrey.say "У меня довольно эклектичный вкус – мне нравится и то, и другое."
+    audrey.say "У меня довольно эклектичный вкус — мне нравится и то, и другое."
 
 # ch/audrey/talk.rpy:245
 translate russian audrey_talk_birthday_male_eb6b3af3:
-    mike.say "С днем рождения, Одри! Надеюсь, у тебя все будет хорошо."
+    mike.say "С днём рождения, Одри! Надеюсь, у тебя всё будет хорошо."
 
 # ch/audrey/talk.rpy:247
 translate russian audrey_talk_birthday_male_c100ed39:
-    audrey.say "Спасибо – ты единственный в офисе, кто вспомнил."
+    audrey.say "Спасибо — ты единственный в офисе, кто вспомнил."
 
 # ch/audrey/talk.rpy:250
 translate russian audrey_talk_birthday_male_78779499:
@@ -32226,7 +32226,7 @@ translate russian audrey_talk_investigation_251c2f58:
 
 # ch/audrey/talk.rpy:311
 translate russian audrey_investigation_callback_252b20d5:
-    "Мой телефон вибрирует. Это Одри. Она сказала, что свяжется со мной, может быть, у нее есть хорошие новости?"
+    "Мой телефон вибрирует. Это Одри. Она сказала, что свяжется со мной, может быть, у неё есть хорошие новости?"
 
 # ch/audrey/talk.rpy:318
 translate russian audrey_investigation_callback_3ff7a2d3:
@@ -32242,7 +32242,7 @@ translate russian audrey_investigation_callback_4f081843:
 
 # ch/audrey/talk.rpy:321
 translate russian audrey_investigation_callback_a88e1fb1:
-    audrey.say "Все в порядке, [lssb_audrey.hero_name()]. Просто я хотела помочь, но... мне нужна эта работа."
+    audrey.say "Всё в порядке, [lssb_audrey.hero_name()]. Просто я хотела помочь, но... мне нужна эта работа."
 
 # ch/audrey/talk.rpy:322
 translate russian audrey_investigation_callback_464ae239:
@@ -32270,7 +32270,7 @@ translate russian submissive_interact_audrey_male_2c0ce2cc:
 
 # ch/audrey/talk.rpy:361
 translate russian submissive_interact_audrey_male_025a1dc7:
-    mike.say "Эй – я сейчас серьезно говорю!"
+    mike.say "Эй — я сейчас серьёзно говорю!"
 
 # ch/audrey/talk.rpy:362
 translate russian submissive_interact_audrey_male_09472a7d:
@@ -32374,11 +32374,11 @@ translate russian audrey_flirty_texts_b1f76afd:
 
 # ch/audrey/texts.rpy:34
 translate russian audrey_flirty_texts_846b2850:
-    audrey_nvl "Ты доводишь меня до отчаяния – ты не представляешь, на что я способна..."
+    audrey_nvl "Ты доводишь меня до отчаяния — ты не представляешь, на что я способна..."
 
 # ch/audrey/texts.rpy:42
 translate russian audrey_dirty_texts_77d58175:
-    audrey_nvl "Работа – это ужасно... это самое худшее, что может быть!"
+    audrey_nvl "Работа — это ужасно... это самое худшее, что может быть!"
 
 # ch/audrey/texts.rpy:43
 translate russian audrey_dirty_texts_a7975ca7:
@@ -32386,7 +32386,7 @@ translate russian audrey_dirty_texts_a7975ca7:
 
 # ch/audrey/texts.rpy:44
 translate russian audrey_dirty_texts_4fd76fb5:
-    audrey_nvl "Ну, это возможно – но это подразумевает, что я буду сосать твой член!"
+    audrey_nvl "Ну, это возможно — но это подразумевает, что я буду сосать твой член!"
 
 # ch/audrey/texts.rpy:47
 translate russian audrey_dirty_texts_5ed0c0ee:
@@ -32422,19 +32422,19 @@ translate russian audrey_dirty_texts_4e924560:
 
 # ch/audrey/texts.rpy:58
 translate russian audrey_dirty_texts_4121d178:
-    audrey_nvl "Иногда мне так хочется прийти на работу обнаженной."
+    audrey_nvl "Иногда мне так хочется прийти на работу обнажённой."
 
 # ch/audrey/texts.rpy:59
 translate russian audrey_dirty_texts_1507db42:
-    audrey_nvl "И чтобы ты шлепал меня по заднице, пока все смотрят!"
+    audrey_nvl "И чтобы ты шлёпал меня по заднице, пока все смотрят!"
 
 # ch/audrey/texts.rpy:60
 translate russian audrey_dirty_texts_c13af3ee:
-    audrey_nvl "Черт... теперь я сама этого хочу!"
+    audrey_nvl "Чёрт... теперь я сама этого хочу!"
 
 # ch/audrey/texts.rpy:61
 translate russian audrey_dirty_texts_483782bd:
-    audrey_nvl "Серьезно, где твой член, когда он мне нужен?!?"
+    audrey_nvl "Серьёзно, где твой член, когда он мне нужен?!?"
 
 # ch/audrey/texts.rpy:63
 translate russian audrey_dirty_texts_8fe1e9e1:
@@ -32442,11 +32442,11 @@ translate russian audrey_dirty_texts_8fe1e9e1:
 
 # ch/audrey/texts.rpy:64
 translate russian audrey_dirty_texts_9ecc7fe0:
-    audrey_nvl "Во что-то, в чем я знаю, что это заставит тебя встать, как палка, и захотеть меня."
+    audrey_nvl "Во что-то, в чём я знаю, что это заставит тебя встать, как палка, и захотеть меня."
 
 # ch/audrey/texts.rpy:65
 translate russian audrey_dirty_texts_aa2448e6:
-    audrey_nvl "Твоя задача – наброситься на меня в тот момент, когда у тебя появится возможность."
+    audrey_nvl "Твоя задача — наброситься на меня в тот момент, когда у тебя появится возможность."
 
 # ch/audrey/texts.rpy:66
 translate russian audrey_dirty_texts_946c8e89:
@@ -32486,7 +32486,7 @@ translate russian audrey_friendly_texts_male_87cf4aa9:
 
 # ch/audrey/texts.rpy:96
 translate russian audrey_friendly_texts_male_042c8b3b:
-    audrey_nvl "Да – устала от работы!"
+    audrey_nvl "Да — устала от работы!"
 
 # ch/audrey/texts.rpy:104
 translate russian audrey_friendly_texts_male_82053243:
@@ -32502,7 +32502,7 @@ translate russian audrey_friendly_texts_male_1269435e:
 
 # ch/audrey/texts.rpy:110
 translate russian audrey_friendly_texts_male_00125a6a:
-    audrey_nvl "На самом деле, я сейчас ее слушаю!"
+    audrey_nvl "На самом деле, я сейчас её слушаю!"
 
 # ch/audrey/texts.rpy:125
 translate russian audrey_flirty_texts_male_138acf7c:
@@ -32514,7 +32514,7 @@ translate russian audrey_flirty_texts_male_7e90f56f:
 
 # ch/audrey/texts.rpy:130
 translate russian audrey_flirty_texts_male_cf87b19e:
-    mchero_nvl "Мое сердце бешено колотилось в груди каждый раз, когда я видел, как ты проходишь мимо!"
+    mchero_nvl "Моё сердце бешено колотилось в груди каждый раз, когда я видел, как ты проходишь мимо!"
 
 # ch/audrey/texts.rpy:132
 translate russian audrey_flirty_texts_male_cd216a1b:
@@ -32550,7 +32550,7 @@ translate russian audrey_flirty_texts_male_c7d84bbb:
 
 # ch/audrey/texts.rpy:155
 translate russian audrey_flirty_texts_male_56a4aae9:
-    audrey_nvl "Ха-ха – как будто я тебе это скажу!"
+    audrey_nvl "Ха-ха — как будто я тебе это скажу!"
 
 # ch/audrey/texts.rpy:156
 translate russian audrey_flirty_texts_male_95a5cb80:
@@ -32578,7 +32578,7 @@ translate russian audrey_flirty_texts_male_7e90f56f_2:
 
 # ch/audrey/texts.rpy:176
 translate russian audrey_flirty_texts_male_4f1b93f1:
-    mchero_nvl "Я знаю одно тихое местечко, где мы сможем побыть вдвоем!"
+    mchero_nvl "Я знаю одно тихое местечко, где мы сможем побыть вдвоём!"
 
 # ch/audrey/texts.rpy:178
 translate russian audrey_flirty_texts_male_8d4dde35:
@@ -32642,7 +32642,7 @@ translate russian audrey_dirty_texts_male_b99d5160:
 
 # ch/audrey/texts.rpy:221
 translate russian audrey_dirty_texts_male_0ab2a690:
-    audrey_nvl "И мне еще не нужны твои мерзкие сообщения!"
+    audrey_nvl "И мне ещё не нужны твои мерзкие сообщения!"
 
 # ch/audrey/texts.rpy:224
 translate russian audrey_dirty_texts_male_e7d7772e:
@@ -32718,7 +32718,7 @@ translate russian audrey_dirty_texts_male_36b5b266:
 
 # ch/audrey/texts.rpy:276
 translate russian audrey_dirty_texts_male_45e895ff:
-    audrey_nvl "Не волнуйся – я буду это сосать, как только смогу!"
+    audrey_nvl "Не волнуйся — я буду это сосать, как только смогу!"
 
 # ch/audrey/texts.rpy:279
 translate russian audrey_dirty_texts_male_f4c5b968_2:

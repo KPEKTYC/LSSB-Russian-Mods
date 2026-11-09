@@ -22930,7 +22930,7 @@ translate russian harmony_fuck_blowjob_d2dedecc:
 
 # ch/harmony/fuck.rpy:363
 translate russian harmony_fuck_blowjob_4f535c52:
-    "И, честно говоря, это одна из черт, которые меня в ней так возбуждают!"
+    "И, честно говоря, это одна из чёрт, которые меня в ней так возбуждают!"
 
 # ch/harmony/fuck.rpy:366
 translate russian harmony_fuck_blowjob_da2d1154:
@@ -26702,7 +26702,7 @@ translate russian harmony_fuck_doggy_1823b732_1:
 
 # ch/harmony/fuck.rpy:1768
 translate russian harmony_fuck_doggy_0ee661c7:
-    "Но волноваться не о чем: мы предохранялись."
+    "Но волноваться не о чём: мы предохранялись."
 
 # ch/harmony/fuck.rpy:1770
 translate russian harmony_fuck_doggy_dc905e10_1:
@@ -26830,7 +26830,7 @@ translate russian harmony_fuck_doggy_1823b732_2:
 
 # ch/harmony/fuck.rpy:1828
 translate russian harmony_fuck_doggy_8a47b356:
-    "Но благодаря её округлившемуся беременному животу нам не о чем беспокоиться."
+    "Но благодаря её округлившемуся беременному животу нам не о чём беспокоиться."
 
 # ch/harmony/fuck.rpy:1830
 translate russian harmony_fuck_doggy_dc905e10_3:
@@ -30850,7 +30850,7 @@ translate russian harmony_belly_kiss_male_740e90cd:
 
 # ch/harmony/reactions.rpy:603
 translate russian harmony_belly_kiss_male_84a29df0:
-    harmony.say "Ладно, [lssb_harmony.hero_name()]…"
+    harmony.say "Ладно, [lssb_harmony.hero_name()]..."
 
 # ch/harmony/reactions.rpy:604
 translate russian harmony_belly_kiss_male_bf0b39b4:
@@ -30930,7 +30930,7 @@ translate russian harmony_belly_caress_male_96cff54e:
 
 # ch/harmony/reactions.rpy:631
 translate russian harmony_belly_caress_male_efc739e1:
-    harmony.say "Ох, [lssb_harmony.hero_name()]…"
+    harmony.say "Ох, [lssb_harmony.hero_name()]..."
 
 # ch/harmony/reactions.rpy:632
 translate russian harmony_belly_caress_male_109d075b:
@@ -30942,7 +30942,7 @@ translate russian harmony_belly_caress_male_5cdce9c8:
 
 # ch/harmony/reactions.rpy:635
 translate russian harmony_belly_caress_male_68d59e75:
-    harmony.say "Обожаю, когда ты так на меня смотришь, [lssb_harmony.hero_name()]…"
+    harmony.say "Обожаю, когда ты так на меня смотришь, [lssb_harmony.hero_name()]..."
 
 # ch/harmony/reactions.rpy:636
 translate russian harmony_belly_caress_male_44a0e94f:
@@ -30950,7 +30950,7 @@ translate russian harmony_belly_caress_male_44a0e94f:
 
 # ch/harmony/reactions.rpy:638
 translate russian harmony_belly_caress_male_079bc47e:
-    harmony.say "Я вижу, что ты делаешь, [lssb_harmony.hero_name()]…"
+    harmony.say "Я вижу, что ты делаешь, [lssb_harmony.hero_name()]..."
 
 # ch/harmony/reactions.rpy:639
 translate russian harmony_belly_caress_male_5e299786:
@@ -31042,7 +31042,7 @@ translate russian harmony_belly_listen_male_622f489c:
 
 # ch/harmony/reactions.rpy:673
 translate russian harmony_belly_listen_male_b756427f:
-    harmony.say "Эм, [lssb_harmony.hero_name()]…"
+    harmony.say "Эм, [lssb_harmony.hero_name()]..."
 
 # ch/harmony/reactions.rpy:674
 translate russian harmony_belly_listen_male_b4615829:

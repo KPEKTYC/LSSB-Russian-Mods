@@ -254,7 +254,7 @@ translate russian call_hire_PI_f76c1daf:
 
 # ch/gen/events.rpy:8
 translate russian call_hire_PI_6a5b9c71:
-    "Детектив" "Детективное агентство «Идем». С кем я говорю?"
+    "Детектив" "Детективное агентство «Идём». С кем я говорю?"
 
 # ch/gen/events.rpy:9
 translate russian call_hire_PI_495f1523:

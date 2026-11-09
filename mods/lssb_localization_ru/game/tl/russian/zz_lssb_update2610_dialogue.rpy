@@ -2618,7 +2618,7 @@ translate russian alexis_rape_talk_ff99230e_1:
 
 # ch/alexis/events.rpy:6544
 translate russian alexis_rape_talk_88a69a91_1:
-    alexis.say "И, возможно, ее следовало поместить туда гораздо раньше!"
+    alexis.say "И, возможно, её следовало поместить туда гораздо раньше!"
 
 # ch/alexis/fuck.rpy:339
 translate russian alexis_repeatable_beach_event_294bbf4d:
@@ -5286,7 +5286,7 @@ translate russian audrey_dirty_texts_male_38e84bd5:
 
 # ch/ayesha/date.rpy:1779
 translate russian ayesha_hottub_98916ddb:
-    "Аиша залезает в воду, не надев ничего, и безо всяких церемоний."
+    "Айша залезает в воду, не надев ничего, и безо всяких церемоний."
 
 # ch/ayesha/date.rpy:1780
 translate russian ayesha_hottub_56181f44:
@@ -5326,7 +5326,7 @@ translate russian ayesha_hottub_340221f0:
 
 # ch/ayesha/date.rpy:1790
 translate russian ayesha_hottub_2cd4df65:
-    "Аиша опускается в воду, и уровень заметно поднимается."
+    "Айша опускается в воду, и уровень заметно поднимается."
 
 # ch/ayesha/date.rpy:1791
 translate russian ayesha_hottub_beda53d8:
@@ -5362,7 +5362,7 @@ translate russian ayesha_hottub_7ab71ec1:
 
 # ch/ayesha/date.rpy:1799
 translate russian ayesha_hottub_fd05b4b5:
-    "А для Аиши это всё равно что позволить о себе позаботиться."
+    "А для Айши это всё равно что позволить о себе позаботиться."
 
 # ch/ayesha/events.rpy:949
 translate russian ayesha_event_03_b0aab824:
@@ -5442,7 +5442,7 @@ translate russian ayesha_fuck_date_first_93622c74:
 
 # ch/ayesha/fuck.rpy:483
 translate russian ayesha_fuck_date_first_2307cc92:
-    "Аиша стонет так громко, что дребезжит окно, и каждая мышца её живота перекатывается точно по сигналу."
+    "Айша стонет так громко, что дребезжит окно, и каждая мышца её живота перекатывается точно по сигналу."
 
 # ch/ayesha/fuck.rpy:484
 translate russian ayesha_fuck_date_first_152ad16c:
@@ -5470,7 +5470,7 @@ translate russian ayesha_fuck_date_first_edb0640b:
 
 # ch/ayesha/fuck.rpy:581
 translate russian ayesha_fuck_date_first_d4886be8:
-    "Спина Аиши выгибается, будто её только что сбросили с верхнего каната."
+    "Спина Айши выгибается, будто её только что сбросили с верхнего каната."
 
 # ch/ayesha/fuck.rpy:582
 translate russian ayesha_fuck_date_first_bb39c80e:
@@ -5494,7 +5494,7 @@ translate russian ayesha_fuck_date_cunnilingus_61fcfdfb:
 
 # ch/ayesha/fuck.rpy:1463
 translate russian ayesha_fuck_date_cunnilingus_14db6b08:
-    "Аиша стонет от удовольствия даже от такого лёгкого движения игрушки."
+    "Айша стонет от удовольствия даже от такого лёгкого движения игрушки."
 
 # ch/ayesha/fuck.rpy:1468
 translate russian ayesha_fuck_date_cunnilingus_d3a353ce:
@@ -5602,7 +5602,7 @@ translate russian ayesha_fuck_date_standing_497c9cac:
 
 # ch/ayesha/fuck.rpy:2057
 translate russian ayesha_fuck_date_reversecowgirl_4d4efb0c:
-    "Аиша перестаёт скакать. Она не может. Она просто опускается на меня до самого конца и замирает."
+    "Айша перестаёт скакать. Она не может. Она просто опускается на меня до самого конца и замирает."
 
 # ch/ayesha/fuck.rpy:2058
 translate russian ayesha_fuck_date_reversecowgirl_6e53dfee:
@@ -5614,7 +5614,7 @@ translate russian ayesha_fuck_date_reversecowgirl_2a1fdaa1:
 
 # ch/ayesha/fuck.rpy:2063
 translate russian ayesha_fuck_date_reversecowgirl_13d2e137:
-    "Аиша запрокидывает голову и выдаёт стон, в котором больше силы лёгких, чем чувства."
+    "Айша запрокидывает голову и выдаёт стон, в котором больше силы лёгких, чем чувства."
 
 # ch/ayesha/fuck.rpy:2064
 translate russian ayesha_fuck_date_reversecowgirl_b73a3a2c:
@@ -5694,7 +5694,7 @@ translate russian ayesha_fuck_date_reversecowgirl_5f9cc225:
 
 # ch/ayesha/fuck.rpy:2671
 translate russian ayesha_fuck_date_doggy_e5f763b9:
-    "Руки Аиши подо мной просто подламываются. Лицо утыкается в матрас и так и остаётся там: язык наружу, глаза закатились до белков."
+    "Руки Айши подо мной просто подламываются. Лицо утыкается в матрас и так и остаётся там: язык наружу, глаза закатились до белков."
 
 # ch/ayesha/fuck.rpy:2672
 translate russian ayesha_fuck_date_doggy_8dd1c0ba:
@@ -5706,7 +5706,7 @@ translate russian ayesha_fuck_date_doggy_a1ea4a83:
 
 # ch/ayesha/fuck.rpy:2677
 translate russian ayesha_fuck_date_doggy_d1004a8f:
-    "Аиша хлопает по матрасу, будто отсчитывает до трёх, и стонет в подушку."
+    "Айша хлопает по матрасу, будто отсчитывает до трёх, и стонет в подушку."
 
 # ch/ayesha/fuck.rpy:2678
 translate russian ayesha_fuck_date_doggy_312834b8:
@@ -5730,7 +5730,7 @@ translate russian ayesha_fuck_date_doggy_c7d0e1b9:
 
 # ch/ayesha/fuck.rpy:2813
 translate russian ayesha_fuck_date_doggy_400f58a5:
-    "Аиша выгибает спину и встряхивает волосами — каждое движение позаимствовано у выхода на ринг."
+    "Айша выгибает спину и встряхивает волосами — каждое движение позаимствовано у выхода на ринг."
 
 # ch/ayesha/fuck.rpy:2814
 translate russian ayesha_fuck_date_doggy_da854185:
@@ -5762,7 +5762,7 @@ translate russian ayesha_fuck_date_missionary_46ddda6e:
 
 # ch/ayesha/fuck.rpy:3019
 translate russian ayesha_fuck_date_missionary_c80b117d:
-    "Аиша вцепляется в простыни и издаёт долгий, дрожащий крик."
+    "Айша вцепляется в простыни и издаёт долгий, дрожащий крик."
 
 # ch/ayesha/fuck.rpy:3020
 translate russian ayesha_fuck_date_missionary_8ad51c67:
@@ -5810,7 +5810,7 @@ translate russian ayesha_fuck_date_cowgirl_34338cd8:
 
 # ch/ayesha/fuck.rpy:3341
 translate russian ayesha_fuck_date_cowgirl_d91b8a70:
-    "Аиша скачет на мне так, будто показывает новому клиенту правильную технику, а потом берёт высокую ноту и вскидывает обе руки, будто только что завоевала чемпионский пояс."
+    "Айша скачет на мне так, будто показывает новому клиенту правильную технику, а потом берёт высокую ноту и вскидывает обе руки, будто только что завоевала чемпионский пояс."
 
 # ch/ayesha/fuck.rpy:3342
 translate russian ayesha_fuck_date_cowgirl_bc1edb83:
@@ -5854,7 +5854,7 @@ translate russian ayesha_bdsm_choices_716cb920:
 
 # ch/ayesha/fuck.rpy:3868
 translate russian ayesha_bdsm_choices_8f5f4e0c:
-    "Я наклоняюсь вперёд и надеваю Аише на глаза повязку."
+    "Я наклоняюсь вперёд и надеваю Айше на глаза повязку."
 
 # ch/ayesha/fuck.rpy:3869
 translate russian ayesha_bdsm_choices_4513c256:
@@ -5882,7 +5882,7 @@ translate russian ayesha_bdsm_choices_a0d8699f:
 
 # ch/ayesha/fuck.rpy:3882
 translate russian ayesha_bdsm_choices_b4bd958d:
-    "Я слежу за тем, чтобы Аиша лишь мельком увидела его, когда я веду его между её бёдер."
+    "Я слежу за тем, чтобы Айша лишь мельком увидела его, когда я веду его между её бёдер."
 
 # ch/ayesha/fuck.rpy:3883
 translate russian ayesha_bdsm_choices_cb497f8d:
@@ -5906,7 +5906,7 @@ translate russian ayesha_bdsm_choices_019dfbf6:
 
 # ch/ayesha/fuck.rpy:3897
 translate russian ayesha_bdsm_choices_34178cee:
-    "Аиша смотрит на свечу, пока я стою над ней."
+    "Айша смотрит на свечу, пока я стою над ней."
 
 # ch/ayesha/fuck.rpy:3898
 translate russian ayesha_bdsm_choices_7830b9b3:
@@ -5914,7 +5914,7 @@ translate russian ayesha_bdsm_choices_7830b9b3:
 
 # ch/ayesha/fuck.rpy:3901
 translate russian ayesha_bdsm_choices_a0ced1c3:
-    "Аиша ахает, на мгновение уверенная, что её обжигает."
+    "Айша ахает, на мгновение уверенная, что её обжигает."
 
 # ch/ayesha/fuck.rpy:3902
 translate russian ayesha_bdsm_choices_1531bb30:
@@ -5946,7 +5946,7 @@ translate russian ayesha_fuck_date_handjob_a4134582:
 
 # ch/ayesha/petplay.rpy:59
 translate russian ayesha_sub_event_06_d753bec9:
-    "Аиша уже добрых пять минут теребит ошейник у себя на шее."
+    "Айша уже добрых пять минут теребит ошейник у себя на шее."
 
 # ch/ayesha/petplay.rpy:60
 translate russian ayesha_sub_event_06_049d68b2:
@@ -6050,7 +6050,7 @@ translate russian ayesha_sub_event_06_7c3bb691:
 
 # ch/ayesha/petplay.rpy:101
 translate russian ayesha_sub_event_06_3b40b648:
-    "Аиша делает долгий вдох."
+    "Айша делает долгий вдох."
 
 # ch/ayesha/petplay.rpy:103
 translate russian ayesha_sub_event_06_9bb38e79:
@@ -6146,7 +6146,7 @@ translate russian ayesha_sub_event_07_2e66112f:
 
 # ch/ayesha/petplay.rpy:155
 translate russian ayesha_sub_event_07_b28697d4:
-    "Аиша занимает почти весь дверной проём: капюшон натянут, руки засунуты в карман беговой толстовки."
+    "Айша занимает почти весь дверной проём: капюшон натянут, руки засунуты в карман беговой толстовки."
 
 # ch/ayesha/petplay.rpy:157
 translate russian ayesha_sub_event_07_51132c16:
@@ -6206,7 +6206,7 @@ translate russian ayesha_sub_event_07_ebf9c6da:
 
 # ch/ayesha/petplay.rpy:182
 translate russian ayesha_sub_event_07_d71ffb6f:
-    "И вот передо мной просто Аиша, вся целиком, в свете лампы в моей гостиной."
+    "И вот передо мной просто Айша, вся целиком, в свете лампы в моей гостиной."
 
 # ch/ayesha/petplay.rpy:183
 translate russian ayesha_sub_event_07_e1af1abd:
@@ -6266,7 +6266,7 @@ translate russian ayesha_sub_event_07_e053b91f:
 
 # ch/ayesha/petplay.rpy:205
 translate russian ayesha_sub_event_07_eccba1fc:
-    "Аиша спускается по ступенькам, держась вплотную к моей ноге — так близко, что её плечо задевает моё колено."
+    "Айша спускается по ступенькам, держась вплотную к моей ноге — так близко, что её плечо задевает моё колено."
 
 # ch/ayesha/petplay.rpy:206
 translate russian ayesha_sub_event_07_13fb455f:
@@ -6318,7 +6318,7 @@ translate russian ayesha_sub_event_07_6846816e:
 
 # ch/ayesha/petplay.rpy:225
 translate russian ayesha_sub_event_07_a6e5c3ca:
-    "Аиша срывается с места."
+    "Айша срывается с места."
 
 # ch/ayesha/petplay.rpy:226
 translate russian ayesha_sub_event_07_01a77961:
@@ -6450,7 +6450,7 @@ translate russian ayesha_sub_event_07b_007cc22d:
 
 # ch/ayesha/petplay.rpy:290
 translate russian ayesha_sub_event_07b_ab344f17:
-    "Аиша смотрит на свою начальницу — на четвереньках, голую, в ошейнике, на поводке, полный комплект."
+    "Айша смотрит на свою начальницу — на четвереньках, голую, в ошейнике, на поводке, полный комплект."
 
 # ch/ayesha/petplay.rpy:291
 translate russian ayesha_sub_event_07b_b7041641:
@@ -6466,7 +6466,7 @@ translate russian ayesha_sub_event_07b_f4cb96f3:
 
 # ch/ayesha/petplay.rpy:297
 translate russian ayesha_sub_event_07b_8b7cc733:
-    "Потом Аиша поворачивается ко мне, и её улыбка становится смущённой."
+    "Потом Айша поворачивается ко мне, и её улыбка становится смущённой."
 
 # ch/ayesha/petplay.rpy:299
 translate russian ayesha_sub_event_07b_acb4a7bf:
@@ -6510,7 +6510,7 @@ translate russian ayesha_sub_event_07b_2874c8e7:
 
 # ch/ayesha/petplay.rpy:317
 translate russian ayesha_sub_event_07b_79c73aef:
-    "Аиша оказывается рядом раньше, чем я договариваю, и склоняет голову, чтобы я пристегнул поводок."
+    "Айша оказывается рядом раньше, чем я договариваю, и склоняет голову, чтобы я пристегнул поводок."
 
 # ch/ayesha/petplay.rpy:318
 translate russian ayesha_sub_event_07b_d35e0e17:
@@ -6530,7 +6530,7 @@ translate russian ayesha_sub_event_07b_03e889dc:
 
 # ch/ayesha/petplay.rpy:325
 translate russian ayesha_sub_event_07b_b1050393:
-    "Аиша делу не помогает. Всю дорогу она старательно держится на полшага впереди своей начальницы."
+    "Айша делу не помогает. Всю дорогу она старательно держится на полшага впереди своей начальницы."
 
 # ch/ayesha/petplay.rpy:326
 translate russian ayesha_sub_event_07b_93bf48de:
@@ -6538,7 +6538,7 @@ translate russian ayesha_sub_event_07b_93bf48de:
 
 # ch/ayesha/petplay.rpy:327
 translate russian ayesha_sub_event_07b_0871c9cd:
-    "Аиша ускоряется."
+    "Айша ускоряется."
 
 # ch/ayesha/petplay.rpy:328
 translate russian ayesha_sub_event_07b_31001392:
@@ -6566,11 +6566,11 @@ translate russian ayesha_sub_event_07b_b6c22da1:
 
 # ch/ayesha/petplay.rpy:335
 translate russian ayesha_sub_event_07b_59a70950:
-    "У ворот она даже толкает Аишу плечом."
+    "У ворот она даже толкает Айшу плечом."
 
 # ch/ayesha/petplay.rpy:336
 translate russian ayesha_sub_event_07b_c116883e:
-    "Аиша толкает её в ответ. Ни одна из них ничего не говорит."
+    "Айша толкает её в ответ. Ни одна из них ничего не говорит."
 
 # ch/ayesha/petplay.rpy:346
 translate russian ayesha_sub_event_07b_cb53129f:
@@ -6702,7 +6702,7 @@ translate russian petwalk_ayesha_park_fe79d274:
 
 # ch/ayesha/petwalk.rpy:40
 translate russian petwalk_ayesha_park_bed9c64b:
-    "Аиша идёт у моей ноги, поводок свободно провисает между нами."
+    "Айша идёт у моей ноги, поводок свободно провисает между нами."
 
 # ch/ayesha/petwalk.rpy:41
 translate russian petwalk_ayesha_park_25c25f6f:
@@ -6742,7 +6742,7 @@ translate russian petwalk_ayesha_alley_60ff7ba6:
 
 # ch/ayesha/petwalk.rpy:55
 translate russian petwalk_ayesha_alley_6f7b3a0a:
-    "На полпути дребезжит задняя дверь. Аиша так сильно вжимается в мои ноги, что я чуть не валюсь в мусорные баки." with vpunch
+    "На полпути дребезжит задняя дверь. Айша так сильно вжимается в мои ноги, что я чуть не валюсь в мусорные баки." with vpunch
 
 # ch/ayesha/petwalk.rpy:56
 translate russian petwalk_ayesha_alley_55c64cc8:
@@ -6758,7 +6758,7 @@ translate russian petwalk_ayesha_alley_759600c5:
 
 # ch/ayesha/petwalk.rpy:60
 translate russian petwalk_ayesha_alley_58b31a7c:
-    "Теперь Аиша трусит по переулку, опустив нос, мимо мусорных баков."
+    "Теперь Айша трусит по переулку, опустив нос, мимо мусорных баков."
 
 # ch/ayesha/petwalk.rpy:61
 translate russian petwalk_ayesha_alley_ce213eb4:
@@ -6810,7 +6810,7 @@ translate russian petwalk_ayesha_street_82f77d5f:
 
 # ch/ayesha/petwalk.rpy:79
 translate russian petwalk_ayesha_street_10f24b2c:
-    "Рядом с нами притормаживает машина. Аиша даже не поворачивает головы."
+    "Рядом с нами притормаживает машина. Айша даже не поворачивает головы."
 
 # ch/ayesha/petwalk.rpy:80
 translate russian petwalk_ayesha_street_dc494498:
@@ -6878,7 +6878,7 @@ translate russian petwalk_ayesha_crowd_ef06ebbb:
 
 # ch/ayesha/petwalk.rpy:102
 translate russian petwalk_ayesha_crowd_8cc882df:
-    "Поднимаются телефоны. Аиша больше не вздрагивает. Она расправляет плечи и не спешит."
+    "Поднимаются телефоны. Айша больше не вздрагивает. Она расправляет плечи и не спешит."
 
 # ch/ayesha/petwalk.rpy:103
 translate russian petwalk_ayesha_crowd_6a302033:
@@ -6898,7 +6898,7 @@ translate russian petwalk_ayesha_dog_f9d52948:
 
 # ch/ayesha/petwalk.rpy:112
 translate russian petwalk_ayesha_dog_dc0b3463:
-    "Он замирает как вкопанный, увидев Аишу на четвереньках у двери."
+    "Он замирает как вкопанный, увидев Айшу на четвереньках у двери."
 
 # ch/ayesha/petwalk.rpy:113
 translate russian petwalk_ayesha_dog_4a983e73:
@@ -6934,7 +6934,7 @@ translate russian petwalk_ayesha_dog_0e06e0fb:
 
 # ch/ayesha/petwalk.rpy:122
 translate russian petwalk_ayesha_dog_da4e636d:
-    "[dog.name] прибегает, едва поводок снимается с крючка, и у двери тычется носом в нос Аиши."
+    "[dog.name] прибегает, едва поводок снимается с крючка, и у двери тычется носом в нос Айши."
 
 # ch/ayesha/petwalk.rpy:123
 translate russian petwalk_ayesha_dog_34e46f28:
@@ -6950,7 +6950,7 @@ translate russian petwalk_ayesha_call_811e16b4:
 
 # ch/ayesha/petwalk.rpy:133
 translate russian petwalk_ayesha_call_b0b3839a:
-    "Аиша смотрит, как я печатаю, и у неё разве что уши не прижимаются."
+    "Айша смотрит, как я печатаю, и у неё разве что уши не прижимаются."
 
 # ch/ayesha/petwalk.rpy:134
 translate russian petwalk_ayesha_call_5a96a86f:
@@ -6978,7 +6978,7 @@ translate russian petwalk_ayesha_call_356b1216:
 
 # ch/ayesha/petwalk.rpy:141
 translate russian petwalk_ayesha_call_65bd01b8:
-    "Я пишу в чат «[hanna.name]», и Аиша выпрямляется у двери."
+    "Я пишу в чат «[hanna.name]», и Айша выпрямляется у двери."
 
 # ch/ayesha/petwalk.rpy:142
 translate russian petwalk_ayesha_call_e466c9ab:
@@ -7018,11 +7018,11 @@ translate russian petwalk_ayesha_call_52b575d1:
 
 # ch/ayesha/petwalk.rpy:153
 translate russian petwalk_ayesha_call_49e322cf:
-    "Аиша шумно выдыхает через нос, расправляет плечи и поворачивается лицом к лестнице."
+    "Айша шумно выдыхает через нос, расправляет плечи и поворачивается лицом к лестнице."
 
 # ch/ayesha/petwalk.rpy:155
 translate russian petwalk_ayesha_call_535393b4:
-    "Я пишу в чат «[bree.name]», и Аиша сдвигается, освобождая место у двери."
+    "Я пишу в чат «[bree.name]», и Айша сдвигается, освобождая место у двери."
 
 # ch/ayesha/petwalk.rpy:156
 translate russian petwalk_ayesha_call_c00d3338:
@@ -7034,7 +7034,7 @@ translate russian petwalk_ayesha_call_e0040658:
 
 # ch/ayesha/petwalk.rpy:160
 translate russian petwalk_ayesha_call_193ac69d:
-    "Я пишу в чат «[other.girl.name]», и Аиша смотрит, как я это делаю."
+    "Я пишу в чат «[other.girl.name]», и Айша смотрит, как я это делаю."
 
 # ch/ayesha/petwalk.rpy:161
 translate russian petwalk_ayesha_call_eb292dbc:
@@ -7054,7 +7054,7 @@ translate russian petwalk_ayesha_call_b101778f:
 
 # ch/ayesha/petwalk.rpy:166
 translate russian petwalk_ayesha_call_2d66987d:
-    "Я пишу в чат «[other.girl.name]», и Аиша выпрямляется у двери."
+    "Я пишу в чат «[other.girl.name]», и Айша выпрямляется у двери."
 
 # ch/ayesha/petwalk.rpy:167
 translate russian petwalk_ayesha_call_248e9497:
@@ -7066,7 +7066,7 @@ translate russian petwalk_ayesha_joined_2e66112f:
 
 # ch/ayesha/petwalk.rpy:176
 translate russian petwalk_ayesha_joined_b28697d4:
-    "Аиша занимает почти весь дверной проём: капюшон натянут, руки засунуты в карман беговой толстовки."
+    "Айша занимает почти весь дверной проём: капюшон натянут, руки засунуты в карман беговой толстовки."
 
 # ch/ayesha/petwalk.rpy:177
 translate russian petwalk_ayesha_joined_4bb9be17:
@@ -7098,11 +7098,11 @@ translate russian petwalk_ayesha_joined_68bf947d:
 
 # ch/ayesha/petwalk.rpy:185
 translate russian petwalk_ayesha_joined_7cae9066:
-    "Аиша стоит у двери уже через десять минут после моего сообщения — ошейник уже надет под толстовкой."
+    "Айша стоит у двери уже через десять минут после моего сообщения — ошейник уже надет под толстовкой."
 
 # ch/ayesha/petwalk.rpy:186
 translate russian petwalk_ayesha_joined_e2e394f2:
-    "Толстовка летит на пол. Аиша опускается рядом, и [hanna.name] тут же получает толчок плечом."
+    "Толстовка летит на пол. Айша опускается рядом, и [hanna.name] тут же получает толчок плечом."
 
 # ch/ayesha/petwalk.rpy:187
 translate russian petwalk_ayesha_joined_7e667c9c:
@@ -7110,7 +7110,7 @@ translate russian petwalk_ayesha_joined_7e667c9c:
 
 # ch/ayesha/petwalk.rpy:191
 translate russian petwalk_ayesha_joined_c42fe1f4:
-    "Аиша пригибается под дверным косяком: капюшон натянут, руки засунуты в карман беговой толстовки."
+    "Айша пригибается под дверным косяком: капюшон натянут, руки засунуты в карман беговой толстовки."
 
 # ch/ayesha/petwalk.rpy:192
 translate russian petwalk_ayesha_joined_09df44a6:
@@ -7122,7 +7122,7 @@ translate russian petwalk_ayesha_joined_ff595a60:
 
 # ch/ayesha/petwalk.rpy:194
 translate russian petwalk_ayesha_joined_9a98ffd0:
-    "Челюсти Аиши сжимаются."
+    "Челюсти Айши сжимаются."
 
 # ch/ayesha/petwalk.rpy:195
 translate russian petwalk_ayesha_joined_c1eca9bd:
@@ -7130,7 +7130,7 @@ translate russian petwalk_ayesha_joined_c1eca9bd:
 
 # ch/ayesha/petwalk.rpy:196
 translate russian petwalk_ayesha_joined_4b282675:
-    "Что-то в плечах Аиши отпускает. Она фыркает."
+    "Что-то в плечах Айши отпускает. Она фыркает."
 
 # ch/ayesha/petwalk.rpy:197
 translate russian petwalk_ayesha_joined_ed997c78:
@@ -7146,7 +7146,7 @@ translate russian petwalk_ayesha_joined_520a3113:
 
 # ch/ayesha/petwalk.rpy:201
 translate russian petwalk_ayesha_joined_298df4a0:
-    "Аиша стоит у двери уже через десять минут после моего сообщения — ошейник уже надет под толстовкой."
+    "Айша стоит у двери уже через десять минут после моего сообщения — ошейник уже надет под толстовкой."
 
 # ch/ayesha/petwalk.rpy:202
 translate russian petwalk_ayesha_joined_e37b0b48:
@@ -7154,7 +7154,7 @@ translate russian petwalk_ayesha_joined_e37b0b48:
 
 # ch/ayesha/petwalk.rpy:203
 translate russian petwalk_ayesha_joined_3fe6a2b1:
-    "Аиша сбрасывает толстовку и складывается рядом с ней, стараясь её не опрокинуть."
+    "Айша сбрасывает толстовку и складывается рядом с ней, стараясь её не опрокинуть."
 
 # ch/ayesha/petwalk.rpy:204
 translate russian petwalk_ayesha_joined_239bbd15:
@@ -7166,7 +7166,7 @@ translate russian petwalk_ayesha_joined_2e66112f_1:
 
 # ch/ayesha/petwalk.rpy:209
 translate russian petwalk_ayesha_joined_b28697d4_1:
-    "Аиша занимает почти весь дверной проём: капюшон натянут, руки засунуты в карман беговой толстовки."
+    "Айша занимает почти весь дверной проём: капюшон натянут, руки засунуты в карман беговой толстовки."
 
 # ch/ayesha/petwalk.rpy:210
 translate russian petwalk_ayesha_joined_447ada7e:
@@ -7194,11 +7194,11 @@ translate russian petwalk_ayesha_joined_68bf947d_1:
 
 # ch/ayesha/petwalk.rpy:217
 translate russian petwalk_ayesha_joined_7cae9066_1:
-    "Аиша стоит у двери уже через десять минут после моего сообщения — ошейник уже надет под толстовкой."
+    "Айша стоит у двери уже через десять минут после моего сообщения — ошейник уже надет под толстовкой."
 
 # ch/ayesha/petwalk.rpy:218
 translate russian petwalk_ayesha_joined_305d460e:
-    "Толстовка летит на пол. Аиша опускается рядом, и [other.girl.name] тут же получает толчок плечом."
+    "Толстовка летит на пол. Айша опускается рядом, и [other.girl.name] тут же получает толчок плечом."
 
 # ch/ayesha/petwalk.rpy:219
 translate russian petwalk_ayesha_joined_289e78e5:
@@ -7246,7 +7246,7 @@ translate russian petwalk_ayesha_bark_4a1ccfc2:
 
 # ch/ayesha/petwalk.rpy:236
 translate russian petwalk_ayesha_bark_a0e5216c:
-    "Аиша выглядит такой гордой собой, что мне приходится почесать её за ухом."
+    "Айша выглядит такой гордой собой, что мне приходится почесать её за ухом."
 
 # ch/ayesha/petwalk.rpy:238
 translate russian petwalk_ayesha_bark_75d627f4_1:
@@ -7310,7 +7310,7 @@ translate russian petwalk_ayesha_growl_0ec4b9d0:
 
 # ch/ayesha/petwalk.rpy:264
 translate russian petwalk_ayesha_growl_ea962597:
-    "Аиша упирается всеми четырьмя конечностями, опускает голову и издаёт звук откуда-то из глубины груди."
+    "Айша упирается всеми четырьмя конечностями, опускает голову и издаёт звук откуда-то из глубины груди."
 
 # ch/ayesha/petwalk.rpy:265
 translate russian petwalk_ayesha_growl_6c1d0657:
@@ -7342,7 +7342,7 @@ translate russian petwalk_ayesha_growl_ee48a233:
 
 # ch/ayesha/petwalk.rpy:278
 translate russian petwalk_ayesha_pee_c5126b98:
-    "На полпути Аиша останавливается."
+    "На полпути Айша останавливается."
 
 # ch/ayesha/petwalk.rpy:279
 translate russian petwalk_ayesha_pee_8aa0d8ef:
@@ -7386,7 +7386,7 @@ translate russian petwalk_ayesha_pee_21f62a1f:
 
 # ch/ayesha/petwalk.rpy:292
 translate russian petwalk_ayesha_pee_7b03639e:
-    "Аиша сама трусит к дереву, задирает ногу и делает свои дела."
+    "Айша сама трусит к дереву, задирает ногу и делает свои дела."
 
 # ch/ayesha/petwalk.rpy:293
 translate russian petwalk_ayesha_pee_90525e13:
@@ -7438,7 +7438,7 @@ translate russian petwalk_ayesha_outro_4ec830c2:
 
 # ch/ayesha/petwalk.rpy:311
 translate russian petwalk_ayesha_outro_049ec037:
-    "Вернувшись в дом, Аиша растягивается на моём ковре, раскрасневшаяся и довольная собой."
+    "Вернувшись в дом, Айша растягивается на моём ковре, раскрасневшаяся и довольная собой."
 
 # ch/ayesha/petwalk.rpy:312
 translate russian petwalk_ayesha_outro_26f27b6e:
@@ -7450,7 +7450,7 @@ translate russian petwalk_ayesha_outro_c1ef1934:
 
 # ch/ayesha/petwalk.rpy:320
 translate russian petwalk_ayesha_ask_d753bec9:
-    "Аиша уже добрых пять минут теребит ошейник у себя на шее."
+    "Айша уже добрых пять минут теребит ошейник у себя на шее."
 
 # ch/ayesha/petwalk.rpy:321
 translate russian petwalk_ayesha_ask_049d68b2:
@@ -7490,7 +7490,7 @@ translate russian petwalk_ayesha_ask_747bd159:
 
 # ch/ayesha/petwalk.rpy:338
 translate russian petwalk_ayesha_ask_ae66288a:
-    "Аиша бросает поводок мне на колени и садится на пятки в ожидании."
+    "Айша бросает поводок мне на колени и садится на пятки в ожидании."
 
 # ch/ayesha/petwalk.rpy:340
 translate russian petwalk_ayesha_ask_5b23f6b1:
@@ -7502,7 +7502,7 @@ translate russian petwalk_ayesha_ask_cc81d43a:
 
 # ch/ayesha/petwalk.rpy:349
 translate russian petwalk_ayesha_bark_alley_20db78e4:
-    "Взгляд Аиши устремляется к освещённому окну над мусорными баками. За занавеской мелькает тень."
+    "Взгляд Айши устремляется к освещённому окну над мусорными баками. За занавеской мелькает тень."
 
 # ch/ayesha/petwalk.rpy:350
 translate russian petwalk_ayesha_bark_alley_75d627f4:
@@ -7538,7 +7538,7 @@ translate russian petwalk_ayesha_bark_alley_ee8368ac:
 
 # ch/ayesha/petwalk.rpy:359
 translate russian petwalk_ayesha_bark_alley_c9003c5c:
-    "Окно над мусорными баками снова горит. Аиша смотрит на него, потом на меня, ожидая команды."
+    "Окно над мусорными баками снова горит. Айша смотрит на него, потом на меня, ожидая команды."
 
 # ch/ayesha/petwalk.rpy:360
 translate russian petwalk_ayesha_bark_alley_75d627f4_1:
@@ -7586,7 +7586,7 @@ translate russian petwalk_ayesha_bark_street_28b8240c:
 
 # ch/ayesha/petwalk.rpy:376
 translate russian petwalk_ayesha_bark_street_10e0d07e:
-    "Загорается зелёный. Аиша посылает вслед их задним фарам ещё один гавк и поднимает на меня взгляд, ожидая, что я её почешу."
+    "Загорается зелёный. Айша посылает вслед их задним фарам ещё один гавк и поднимает на меня взгляд, ожидая, что я её почешу."
 
 # ch/ayesha/petwalk.rpy:378
 translate russian petwalk_ayesha_bark_street_5cf61223:
@@ -7614,7 +7614,7 @@ translate russian petwalk_ayesha_bark_crowd_75d627f4:
 
 # ch/ayesha/petwalk.rpy:389
 translate russian petwalk_ayesha_bark_crowd_5e47cf38:
-    "Вся спина Аиши каменеет. Тут человек двадцать, не меньше, и услышит каждый."
+    "Вся спина Айши каменеет. Тут человек двадцать, не меньше, и услышит каждый."
 
 # ch/ayesha/petwalk.rpy:390
 translate russian petwalk_ayesha_bark_crowd_a03e4a58:
@@ -7654,7 +7654,7 @@ translate russian petwalk_ayesha_bark_crowd_711140e9:
 
 # ch/ayesha/petwalk.rpy:401
 translate russian petwalk_ayesha_bark_crowd_791356d8:
-    "Поднимаются телефоны. Аиша лает прямо в ближайший объектив, а потом оглядывается проверить, понравилось ли мне."
+    "Поднимаются телефоны. Айша лает прямо в ближайший объектив, а потом оглядывается проверить, понравилось ли мне."
 
 # ch/ayesha/petwalk.rpy:407
 translate russian petwalk_ayesha_tummy_alley_bf40760f:
@@ -7662,7 +7662,7 @@ translate russian petwalk_ayesha_tummy_alley_bf40760f:
 
 # ch/ayesha/petwalk.rpy:408
 translate russian petwalk_ayesha_tummy_alley_90fe9888:
-    "Аиша смотрит на мокрый асфальт, потом на заднюю дверь рядом с мусорными баками. За стеклом горит свет."
+    "Айша смотрит на мокрый асфальт, потом на заднюю дверь рядом с мусорными баками. За стеклом горит свет."
 
 # ch/ayesha/petwalk.rpy:409
 translate russian petwalk_ayesha_tummy_alley_7f7dd39b:
@@ -7766,7 +7766,7 @@ translate russian petwalk_ayesha_tummy_crowd_d2499093:
 
 # ch/ayesha/petwalk.rpy:447
 translate russian petwalk_ayesha_tummy_crowd_6aec147e:
-    "Вокруг нас уже собираются люди. Аиша смотрит на кольцо из ботинок и телефонов."
+    "Вокруг нас уже собираются люди. Айша смотрит на кольцо из ботинок и телефонов."
 
 # ch/ayesha/petwalk.rpy:448
 translate russian petwalk_ayesha_tummy_crowd_cb9c83cc:
@@ -7790,7 +7790,7 @@ translate russian petwalk_ayesha_tummy_crowd_21e93cf1:
 
 # ch/ayesha/petwalk.rpy:453
 translate russian petwalk_ayesha_tummy_crowd_d167aba6:
-    "Аиша крепко зажмуривается, потом снова открывает глаза и смотрит прямо на меня."
+    "Айша крепко зажмуривается, потом снова открывает глаза и смотрит прямо на меня."
 
 # ch/ayesha/petwalk.rpy:454
 translate russian petwalk_ayesha_tummy_crowd_d27781ce:
@@ -7826,7 +7826,7 @@ translate russian petwalk_ayesha_growl_alley_e91a20d9:
 
 # ch/ayesha/petwalk.rpy:469
 translate russian petwalk_ayesha_growl_alley_aab4601d:
-    "Аиша упирается лапами, опускает голову и глухо рычит на него из глубины груди."
+    "Айша упирается лапами, опускает голову и глухо рычит на него из глубины груди."
 
 # ch/ayesha/petwalk.rpy:470
 translate russian petwalk_ayesha_growl_alley_40291b07:
@@ -7854,7 +7854,7 @@ translate russian petwalk_ayesha_growl_alley_e91a20d9_1:
 
 # ch/ayesha/petwalk.rpy:478
 translate russian petwalk_ayesha_growl_alley_00401738:
-    "Аиша выбирает заднюю дверь рядом с мусорными баками и рычит на неё, пока свет за стеклом не гаснет."
+    "Айша выбирает заднюю дверь рядом с мусорными баками и рычит на неё, пока свет за стеклом не гаснет."
 
 # ch/ayesha/petwalk.rpy:479
 translate russian petwalk_ayesha_growl_alley_4ed27578:
@@ -7902,7 +7902,7 @@ translate russian petwalk_ayesha_growl_street_e91a20d9_1:
 
 # ch/ayesha/petwalk.rpy:496
 translate russian petwalk_ayesha_growl_street_533ecc4e:
-    "Аиша рычит на окно, низко и ровно, пока его снова не поднимают."
+    "Айша рычит на окно, низко и ровно, пока его снова не поднимают."
 
 # ch/ayesha/petwalk.rpy:497
 translate russian petwalk_ayesha_growl_street_a222e32c:
@@ -7918,7 +7918,7 @@ translate russian petwalk_ayesha_growl_crowd_067609a8:
 
 # ch/ayesha/petwalk.rpy:505
 translate russian petwalk_ayesha_growl_crowd_ecd6f4d9:
-    "Аиша отшатывается, прижимаясь к моей ноге."
+    "Айша отшатывается, прижимаясь к моей ноге."
 
 # ch/ayesha/petwalk.rpy:506
 translate russian petwalk_ayesha_growl_crowd_a593320b:
@@ -7946,7 +7946,7 @@ translate russian petwalk_ayesha_growl_crowd_e91a20d9:
 
 # ch/ayesha/petwalk.rpy:514
 translate russian petwalk_ayesha_growl_crowd_b582708e:
-    "Аиша рычит на первый ряд телефонов, и вся толпа отступает на шаг."
+    "Айша рычит на первый ряд телефонов, и вся толпа отступает на шаг."
 
 # ch/ayesha/petwalk.rpy:515
 translate russian petwalk_ayesha_growl_crowd_739c91d7:
@@ -7958,7 +7958,7 @@ translate russian petwalk_ayesha_growl_crowd_7491e2a1:
 
 # ch/ayesha/petwalk.rpy:522
 translate russian petwalk_ayesha_pee_alley_b8bbd692:
-    "Аиша останавливается у мусорных баков и переминается, поглядывая на водосточную трубу."
+    "Айша останавливается у мусорных баков и переминается, поглядывая на водосточную трубу."
 
 # ch/ayesha/petwalk.rpy:523
 translate russian petwalk_ayesha_pee_alley_8f0aaf3e:
@@ -7986,7 +7986,7 @@ translate russian petwalk_ayesha_pee_alley_5c5474cd:
 
 # ch/ayesha/petwalk.rpy:530
 translate russian petwalk_ayesha_pee_alley_5b6470df:
-    "Аиша краснеет до самой поясницы. Но ногу не опускает и заканчивает, потому что я не велел ей остановиться."
+    "Айша краснеет до самой поясницы. Но ногу не опускает и заканчивает, потому что я не велел ей остановиться."
 
 # ch/ayesha/petwalk.rpy:532
 translate russian petwalk_ayesha_pee_alley_165bf121:
@@ -7994,7 +7994,7 @@ translate russian petwalk_ayesha_pee_alley_165bf121:
 
 # ch/ayesha/petwalk.rpy:535
 translate russian petwalk_ayesha_pee_alley_40426297:
-    "Аиша выбирает место прямо под освещённым окном, задирает ногу и делает свои дела."
+    "Айша выбирает место прямо под освещённым окном, задирает ногу и делает свои дела."
 
 # ch/ayesha/petwalk.rpy:536
 translate russian petwalk_ayesha_pee_alley_1390b8a1:
@@ -8006,7 +8006,7 @@ translate russian petwalk_ayesha_pee_alley_3d60f205:
 
 # ch/ayesha/petwalk.rpy:543
 translate russian petwalk_ayesha_pee_street_c1f3b446:
-    "Аиша останавливается у фонарного столба и бросает на меня тот самый взгляд."
+    "Айша останавливается у фонарного столба и бросает на меня тот самый взгляд."
 
 # ch/ayesha/petwalk.rpy:544
 translate russian petwalk_ayesha_pee_street_1e00ddca:
@@ -8034,7 +8034,7 @@ translate russian petwalk_ayesha_pee_street_8b91f245:
 
 # ch/ayesha/petwalk.rpy:551
 translate russian petwalk_ayesha_pee_street_f06b2c74:
-    "Аиша закрывает глаза и продолжает. А когда снова открывает их, смотрит через дорогу и выдерживает их взгляды."
+    "Айша закрывает глаза и продолжает. А когда снова открывает их, смотрит через дорогу и выдерживает их взгляды."
 
 # ch/ayesha/petwalk.rpy:552
 translate russian petwalk_ayesha_pee_street_e840275d:
@@ -8042,7 +8042,7 @@ translate russian petwalk_ayesha_pee_street_e840275d:
 
 # ch/ayesha/petwalk.rpy:554
 translate russian petwalk_ayesha_pee_street_b352fb81:
-    "У следующего фонарного столба Аиша сама останавливается и поднимает на меня взгляд, спрашивая разрешения."
+    "У следующего фонарного столба Айша сама останавливается и поднимает на меня взгляд, спрашивая разрешения."
 
 # ch/ayesha/petwalk.rpy:555
 translate russian petwalk_ayesha_pee_street_3b67d1b3:
@@ -8058,7 +8058,7 @@ translate russian petwalk_ayesha_pee_street_c16f531a:
 
 # ch/ayesha/petwalk.rpy:565
 translate russian petwalk_ayesha_pee_crowd_f884e099:
-    "Посреди толпы Аиша останавливается, и этот взгляд я уже знаю."
+    "Посреди толпы Айша останавливается, и этот взгляд я уже знаю."
 
 # ch/ayesha/petwalk.rpy:566
 translate russian petwalk_ayesha_pee_crowd_2cf7a946:
@@ -8094,7 +8094,7 @@ translate russian petwalk_ayesha_pee_crowd_22195949:
 
 # ch/ayesha/petwalk.rpy:577
 translate russian petwalk_ayesha_pee_crowd_2b13dbe0:
-    "Аиша идёт прямо к мусорке посреди толпы и ждёт моего кивка."
+    "Айша идёт прямо к мусорке посреди толпы и ждёт моего кивка."
 
 # ch/ayesha/petwalk.rpy:578
 translate russian petwalk_ayesha_pee_crowd_3b67d1b3:
@@ -8138,11 +8138,11 @@ translate russian ayesha_act_refuse_male_15ef540a:
 
 # ch/ayesha/reactions.rpy:441
 translate russian ayesha_act_refuse_hard_male_0051fe5e:
-    ayesha.say "Что за черт?"
+    ayesha.say "Что за чёрт?"
 
 # ch/ayesha/reactions.rpy:442
 translate russian ayesha_act_refuse_hard_male_16707ecf:
-    "Аиша отстраняется от меня, и не особо бережно."
+    "Айша отстраняется от меня, и не особо бережно."
 
 # ch/ayesha/reactions.rpy:443
 translate russian ayesha_act_refuse_hard_male_382c8ffe:
@@ -8166,7 +8166,7 @@ translate russian bree_greet_dialogues_male_1947a517:
 
 # ch/bree/base.rpy:521
 translate russian bree_ask_date_anna_bree_06d2929b:
-    mike.say "[bree.callname]... как насчет того, чтобы ты и Анна провели со мной еще один из ваших \"экспериментов\"?"
+    mike.say "[bree.callname]... как насчёт того, чтобы ты и Анна провели со мной ещё один из ваших «экспериментов»?"
 
 # ch/bree/base.rpy:535
 translate russian bree_ask_date_alone_male_eb5e58ef:
@@ -8218,11 +8218,11 @@ translate russian bree_mad_condom_8b5cf14b:
 
 # ch/bree/condom.rpy:99
 translate russian bree_mad_condom_d028409c:
-    mike.say "Что за черт, [bree.callname]?"
+    mike.say "Что за чёрт, [bree.callname]?"
 
 # ch/bree/condom.rpy:108
 translate russian bree_mad_condom_c9f6b3a2:
-    mike.say "Серьезно, [bree.callname]?"
+    mike.say "Серьёзно, [bree.callname]?"
 
 # ch/bree/date.rpy:2
 translate russian bree_date_intro_valentine_male_667daab7:
@@ -8230,7 +8230,7 @@ translate russian bree_date_intro_valentine_male_667daab7:
 
 # ch/bree/date.rpy:8
 translate russian bree_date_intro_valentine_male_c52b4395:
-    mike.say "Д… да, конечно, [bree.callname]."
+    mike.say "Д... да, конечно, [bree.callname]."
 
 # ch/bree/date.rpy:13
 translate russian bree_date_intro_halloween_male_03ecdf15:
@@ -8242,7 +8242,7 @@ translate russian bree_date_intro_christmas_male_5ae95e8e:
 
 # ch/bree/date.rpy:34
 translate russian bree_date_intro_birthday_male_713ff648:
-    mike.say "С днем рождения, [bree.callname]!"
+    mike.say "С днём рождения, [bree.callname]!"
 
 # ch/bree/date.rpy:45
 translate russian bree_date_intro_mc_birthday_male_24f65e57:
@@ -8482,7 +8482,7 @@ translate russian bree_rape_talk_88e8a85d:
 
 # ch/bree/events/events.rpy:940
 translate russian bree_rape_talk_e3233ba9:
-    mike.say "Я... я до сих пор немного потрясен, [bree.callname]."
+    mike.say "Я... я до сих пор немного потрясён, [bree.callname]."
 
 # ch/bree/events/events.rpy:961
 translate russian bree_rape_talk_ded8a4bb:
@@ -8606,7 +8606,7 @@ translate russian bree_event_03_7ba4ca7f:
 
 # ch/bree/events/events.rpy:2891
 translate russian bree_event_03_bfb1d50c:
-    mike.say "[bree.callname], все в порядке."
+    mike.say "[bree.callname], всё в порядке."
 
 # ch/bree/events/events.rpy:2918
 translate russian bree_pool_throat_9bb5de76:
@@ -8642,7 +8642,7 @@ translate russian bree_birthday_date_male_42bd49ed:
 
 # ch/bree/events/events.rpy:3543
 translate russian bree_birthday_date_male_02ecfd72:
-    mike.say "С днем рождения, [bree.callname]!"
+    mike.say "С днём рождения, [bree.callname]!"
 
 # ch/bree/events/events.rpy:3569
 translate russian bree_birthday_date_male_0f163fb8:
@@ -8666,7 +8666,7 @@ translate russian bree_birthday_date_male_3a9f1d85:
 
 # ch/bree/events/events.rpy:3651
 translate russian bree_birthday_date_male_f1009663:
-    mike.say "Все в порядке, [bree.callname]."
+    mike.say "Всё в порядке, [bree.callname]."
 
 # ch/bree/events/events.rpy:3663
 translate russian bree_birthday_date_male_27fbefd2:
@@ -8702,7 +8702,7 @@ translate russian bree_birthday_date_male_0bfe35b7:
 
 # ch/bree/events/events.rpy:3764
 translate russian bree_birthday_date_male_4b0b2f47:
-    mike.say "Это мое предложение, [bree.callname]."
+    mike.say "Это моё предложение, [bree.callname]."
 
 # ch/bree/events/events.rpy:3771
 translate russian bree_birthday_date_male_480d595f:
@@ -8738,7 +8738,7 @@ translate russian bree_pregnant_request_74d9fd78:
 
 # ch/bree/events/events.rpy:4013
 translate russian bree_pregnant_request_4b3bc3a0:
-    mike.say "Я хочу, чтобы все было так же, как сейчас, [bree.callname]."
+    mike.say "Я хочу, чтобы всё было так же, как сейчас, [bree.callname]."
 
 # ch/bree/events/events.rpy:4037
 translate russian bree_pregnant_request_433e3f04:
@@ -8834,7 +8834,7 @@ translate russian bree_stripclub_intro_e9037164:
 
 # ch/bree/events/events.rpy:5044
 translate russian bree_stripclub_intro_fa83fa54:
-    mike.say "Но, [bree.callname]…"
+    mike.say "Но, [bree.callname]..."
 
 # ch/bree/events/events_gamer.rpy:570
 translate russian bree_event_05_feb33c8e:
@@ -8898,7 +8898,7 @@ translate russian bree_event_08_11447b96:
 
 # ch/bree/events/events_gamer.rpy:1194
 translate russian bree_event_08_42bd49ed:
-    mike.say "А, [bree.callname]…"
+    mike.say "А, [bree.callname]..."
 
 # ch/bree/events/events_gamer.rpy:1202
 translate russian bree_event_08_19849a01:
@@ -9002,7 +9002,7 @@ translate russian bree_event_11_703990f6:
 
 # ch/bree/events/events_gamer.rpy:1704
 translate russian bree_event_11_e2dcd1ae:
-    mike.say "Не слушай ее, [bree.callname]."
+    mike.say "Не слушай её, [bree.callname]."
 
 # ch/bree/events/events_gamer.rpy:1734
 translate russian bree_event_11_bb1f7aad:
@@ -9246,7 +9246,7 @@ translate russian bree_event_09b_1cb10e2b:
 
 # ch/bree/events/events_maid.rpy:1999
 translate russian bree_event_09b_bed5a835:
-    mike.say "Это тебе очень идет, [bree.callname]!"
+    mike.say "Это тебе очень идёт, [bree.callname]!"
 
 # ch/bree/events/events_maid.rpy:2047
 translate russian bree_event_09b_94470927:
@@ -9410,7 +9410,7 @@ translate russian bree_fuck_bathroom_10c28480:
 
 # ch/bree/fuck.rpy:107
 translate russian bree_fuck_bathroom_9132cbfb:
-    mike.say "Прости, [bree.callname]...ты хочешь, чтобы я ушел?"
+    mike.say "Прости, [bree.callname]...ты хочешь, чтобы я ушёл?"
 
 # ch/bree/fuck.rpy:245
 translate russian bree_fuck_bathroom_b9f678c5:
@@ -10282,7 +10282,7 @@ translate russian bree_gift_slutty_dress_male_db7366e5:
 
 # ch/bree/gift.rpy:381
 translate russian bree_gift_slutty_dress_male_c9f6b3a2:
-    mike.say "Серьезно, [bree.callname]?"
+    mike.say "Серьёзно, [bree.callname]?"
 
 # ch/bree/petwalk.rpy:7
 translate russian petwalk_bree_intro_9058da6f:
@@ -10298,7 +10298,7 @@ translate russian petwalk_bree_intro_2f2f35a4:
 
 # ch/bree/petwalk.rpy:11
 translate russian petwalk_bree_intro_608d64f9:
-    "Я провожу ее к входной двери и широко открываю ее, затем жестом приглашаю ее выйти."
+    "Я провожу её к входной двери и широко открываю её, затем жестом приглашаю её выйти."
 
 # ch/bree/petwalk.rpy:12
 translate russian petwalk_bree_intro_4de60dcd:
@@ -10714,7 +10714,7 @@ translate russian petwalk_bree_call_c176fb7c:
 
 # ch/bree/petwalk.rpy:174
 translate russian petwalk_bree_call_0605a106:
-    "Я достаю телефон и пишу Аише."
+    "Я достаю телефон и пишу Айше."
 
 # ch/bree/petwalk.rpy:175
 translate russian petwalk_bree_call_44b5b33b:
@@ -10726,7 +10726,7 @@ translate russian petwalk_bree_call_75d627f4_1:
 
 # ch/bree/petwalk.rpy:177
 translate russian petwalk_bree_call_fc0b6275:
-    bree.say "Аиша? Серьёзно?"
+    bree.say "Айша? Серьёзно?"
 
 # ch/bree/petwalk.rpy:178
 translate russian petwalk_bree_call_c7995d3e:
@@ -10746,11 +10746,11 @@ translate russian petwalk_bree_call_ba7e83dd:
 
 # ch/bree/petwalk.rpy:183
 translate russian petwalk_bree_call_00cd0111:
-    "Я пишу Аише, и [bree.name] прижимается к моей ноге чуть плотнее."
+    "Я пишу Айше, и [bree.name] прижимается к моей ноге чуть плотнее."
 
 # ch/bree/petwalk.rpy:184
 translate russian petwalk_bree_call_7d1281b9:
-    "Она её больше не боится. Она просто хочет, чтобы Аиша знала, чья это прогулка."
+    "Она её больше не боится. Она просто хочет, чтобы Айша знала, чья это прогулка."
 
 # ch/bree/petwalk.rpy:187
 translate russian petwalk_bree_call_c70eacc4:
@@ -10906,7 +10906,7 @@ translate russian petwalk_bree_joined_c552bbfe:
 
 # ch/bree/petwalk.rpy:240
 translate russian petwalk_bree_joined_47778722:
-    "Она видит Аишу на четвереньках у двери, и у неё отвисает челюсть."
+    "Она видит Айшу на четвереньках у двери, и у неё отвисает челюсть."
 
 # ch/bree/petwalk.rpy:241
 translate russian petwalk_bree_joined_2baa2f9e:
@@ -10926,7 +10926,7 @@ translate russian petwalk_bree_joined_1bada737:
 
 # ch/bree/petwalk.rpy:245
 translate russian petwalk_bree_joined_d0afc3cc:
-    "Аиша открывает рот, чтобы огрызнуться, но ничего не выходит. Вместо этого она смотрит в пол."
+    "Айша открывает рот, чтобы огрызнуться, но ничего не выходит. Вместо этого она смотрит в пол."
 
 # ch/bree/petwalk.rpy:246
 translate russian petwalk_bree_joined_7cecc4f0:
@@ -10938,7 +10938,7 @@ translate russian petwalk_bree_joined_db78fb3f:
 
 # ch/bree/petwalk.rpy:249
 translate russian petwalk_bree_joined_bd672845:
-    "Она опускается рядом с Аишей и прижимается к её боку — крошечная рядом со всеми этими мышцами."
+    "Она опускается рядом с Айшей и прижимается к её боку — крошечная рядом со всеми этими мышцами."
 
 # ch/bree/petwalk.rpy:250
 translate russian petwalk_bree_joined_fcd99bd0:
@@ -19210,7 +19210,7 @@ translate russian bree_sasha_alternative_creation_f809254b:
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3550
 translate russian bree_sasha_alternative_creation_9f454152:
-    bree.say "О нет, [hero.name]…"
+    bree.say "О нет, [hero.name]..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3551
 translate russian bree_sasha_alternative_creation_1bd5f68a:
@@ -19246,7 +19246,7 @@ translate russian bree_sasha_alternative_creation_5881f8e0:
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3564
 translate russian bree_sasha_alternative_creation_58879229:
-    mike.say "Я просто…"
+    mike.say "Я просто..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3565
 translate russian bree_sasha_alternative_creation_57961a73:
@@ -19350,7 +19350,7 @@ translate russian bree_sasha_alternative_creation_e31c0de1:
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3602
 translate russian bree_sasha_alternative_creation_e9cd3301:
-    sasha.say "Ладно, [lssb_sasha.hero_name()]…"
+    sasha.say "Ладно, [lssb_sasha.hero_name()]..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3603
 translate russian bree_sasha_alternative_creation_f550358e:
@@ -19394,7 +19394,7 @@ translate russian bree_sasha_alternative_creation_5853de9f:
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3619
 translate russian bree_sasha_alternative_creation_1b056cdb:
-    sasha.say "Ой, ничего особенного, [lssb_sasha.hero_name()]…"
+    sasha.say "Ой, ничего особенного, [lssb_sasha.hero_name()]..."
 
 # ch/harems/home/events/home_harem_bree_sasha.rpy:3620
 translate russian bree_sasha_alternative_creation_b924df98:
@@ -24562,7 +24562,7 @@ translate russian kleio_morgan_male_ending_1ef0aefa:
 
 # ch/harems_full/taming/events.rpy:3218
 translate russian taming_event_04_e8681430:
-    "Я беру вибратор, который захватил с собой, и показываю его Аише."
+    "Я беру вибратор, который захватил с собой, и показываю его Айше."
 
 # ch/harems_full/taming/events.rpy:3221
 translate russian taming_event_04_6fbb66e0:
@@ -24578,7 +24578,7 @@ translate russian taming_event_04_ab1b5dc6:
 
 # ch/harems_full/taming/events.rpy:3226
 translate russian taming_event_04_2ba79150:
-    "Я выключаю его ровно в тот момент, когда её бёдра начинают тянуться за ним, и Аиша хихикает."
+    "Я выключаю его ровно в тот момент, когда её бёдра начинают тянуться за ним, и Айша хихикает."
 
 # ch/harmony/base.rpy:697
 translate russian harmony_ask_date_male_6dd6f6a4:
@@ -26042,7 +26042,7 @@ translate russian kleio_fuck_date_reverse_cowgirl_5573f707:
 
 # ch/kleio/fuck.rpy:845
 translate russian kleio_fuck_date_reverse_cowgirl_f6b45b96:
-    kleio.say "Мой прошлый был барменом с толстым членом, и поговорить с ним было не о чем. Оказывается, я по нему скучаю."
+    kleio.say "Мой прошлый был барменом с толстым членом, и поговорить с ним было не о чём. Оказывается, я по нему скучаю."
 
 # ch/kleio/fuck.rpy:847
 translate russian kleio_fuck_date_reverse_cowgirl_9ff0f54d:
@@ -29166,7 +29166,7 @@ translate russian kylie_sleep_date_fuck_6926087d:
 
 # ch/kylie/fuck.rpy:548
 translate russian kylie_sleep_date_fuck_be082968:
-    kylie.say "Так что больше не о чем волноваться. Никогда."
+    kylie.say "Так что больше не о чём волноваться. Никогда."
 
 # ch/kylie/fuck.rpy:549
 translate russian kylie_sleep_date_fuck_97ccd81d:
@@ -34510,7 +34510,7 @@ translate russian morgan_greet_cf8bc110:
 
 # ch/morgan/base.rpy:143
 translate russian morgan_greet_c808898d:
-    morgan.say "Я весь день ждала, чтобы сделать всё, о чём ты попросишь, [lssb_morgan.hero_name()]…"
+    morgan.say "Я весь день ждала, чтобы сделать всё, о чём ты попросишь, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/base.rpy:147
 translate russian morgan_greet_d7e39dce:
@@ -34530,7 +34530,7 @@ translate russian morgan_greet_43871c40:
 
 # ch/morgan/base.rpy:166
 translate russian morgan_greet_06c18ecc:
-    morgan.say "Я могла бы показать тебе, какая я женщина… если прикажешь."
+    morgan.say "Я могла бы показать тебе, какая я женщина... если прикажешь."
 
 # ch/morgan/base.rpy:170
 translate russian morgan_greet_ab8b4fb4:
@@ -36174,7 +36174,7 @@ translate russian morgan_hottub_c87bdefe:
 
 # ch/morgan/events.rpy:592
 translate russian morgan_murder_talk_c5d586d5:
-    morgan.say "Тьфу…"
+    morgan.say "Тьфу..."
 
 # ch/morgan/events.rpy:593
 translate russian morgan_murder_talk_0c457af0:
@@ -36182,7 +36182,7 @@ translate russian morgan_murder_talk_0c457af0:
 
 # ch/morgan/events.rpy:604
 translate russian morgan_murder_talk_f0b1d3b9:
-    morgan.say "Прости… я не хотела вот так раскиснуть у тебя на глазах."
+    morgan.say "Прости... я не хотела вот так раскиснуть у тебя на глазах."
 
 # ch/morgan/events.rpy:605
 translate russian morgan_murder_talk_d7c1caf0:
@@ -37802,7 +37802,7 @@ translate russian morgan_fuck_date_intro_male_4f325009_1:
 
 # ch/morgan/fuck.rpy:694
 translate russian morgan_fuck_date_intro_male_7915c993:
-    morgan.say "Боже, ты меня сейчас до слёз доведёшь, [lssb_morgan.hero_name()]…"
+    morgan.say "Боже, ты меня сейчас до слёз доведёшь, [lssb_morgan.hero_name()]..."
 
 # ch/morgan/fuck.rpy:695
 translate russian morgan_fuck_date_intro_male_cc48161c:
@@ -45194,7 +45194,7 @@ translate russian samantha_date_fuck_gag_655241cf:
 
 # ch/samantha/fuck.rpy:1673
 translate russian samantha_date_fuck_gag_e8b1b52b:
-    "Она ахает и стонет, когда он заполняет ее рот, и я чувствую мгновенное изменение в ней."
+    "Она ахает и стонет, когда он заполняет её рот, и я чувствую мгновенное изменение в ней."
 
 # ch/samantha/fuck.rpy:1674
 translate russian samantha_date_fuck_gag_958b1514:
@@ -49058,7 +49058,7 @@ translate russian shiori_fuck_office_spank_66bdc5d1:
 
 # ch/shiori/fuck.rpy:3431
 translate russian shiori_fuck_office_spank_e83a9ffe:
-    "Но даже я не готов к тому громкому звуку, который он издает."
+    "Но даже я не готов к тому громкому звуку, который он издаёт."
 
 # ch/shiori/fuck.rpy:3432
 translate russian shiori_fuck_office_spank_2ff76630:
@@ -55042,7 +55042,7 @@ translate russian cupid_lexi_danny_wedding_fuck_1598db3e:
 
 # dlc_cupid/ch/cupid/lexi_danny/wedding.rpy:143
 translate russian cupid_lexi_danny_wedding_fuck_6cf03f1c:
-    "Раз на мне презерватив, волноваться не о чем."
+    "Раз на мне презерватив, волноваться не о чём."
 
 # dlc_cupid/ch/cupid/lexi_danny/wedding.rpy:145
 translate russian cupid_lexi_danny_wedding_fuck_92c48608:

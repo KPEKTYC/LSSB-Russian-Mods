@@ -4510,7 +4510,7 @@ translate russian bitchy_harem_foursome_appointment_intro_16992c07:
 
 # ch/harems_full/bitchy/events.rpy:2059
 translate russian bitchy_harem_foursome_appointment_intro_2ffae80e:
-    "Кэссиди заверила, что на всё время встречи дом будет в нашем распоряжении и волноваться не о чем."
+    "Кэссиди заверила, что на всё время встречи дом будет в нашем распоряжении и волноваться не о чём."
 
 # ch/harems_full/bitchy/events.rpy:2060
 translate russian bitchy_harem_foursome_appointment_intro_47e23075:

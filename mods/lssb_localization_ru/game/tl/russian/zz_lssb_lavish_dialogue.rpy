@@ -13518,7 +13518,7 @@ translate russian lavish_fuck_date_blowjob_4708e0c7:
 
 # ch/lavish/fuck.rpy:850
 translate russian lavish_fuck_date_blowjob_c34e9402:
-    lavish.say "Скажи, что я хорошая девочка… мне нужно это услышать."
+    lavish.say "Скажи, что я хорошая девочка... мне нужно это услышать."
 
 # ch/lavish/fuck.rpy:851
 translate russian lavish_fuck_date_blowjob_d2db1efa:
@@ -13526,7 +13526,7 @@ translate russian lavish_fuck_date_blowjob_d2db1efa:
 
 # ch/lavish/fuck.rpy:852
 translate russian lavish_fuck_date_blowjob_8df09761:
-    lavish.say "М-м-м… да, я твоя. Можешь использовать меня так, когда захочешь."
+    lavish.say "М-м-м... да, я твоя. Можешь использовать меня так, когда захочешь."
 
 # ch/lavish/fuck.rpy:853
 translate russian lavish_fuck_date_blowjob_62d65058:
@@ -13750,7 +13750,7 @@ translate russian lavish_fuck_date_missionary_986e246f:
 
 # ch/lavish/fuck.rpy:941
 translate russian lavish_fuck_date_missionary_aee2885b:
-    lavish.say "Я столько об этом думала…"
+    lavish.say "Я столько об этом думала..."
 
 # ch/lavish/fuck.rpy:942
 translate russian lavish_fuck_date_missionary_eb38ca82:
@@ -13770,7 +13770,7 @@ translate russian lavish_fuck_date_missionary_7b6de797:
 
 # ch/lavish/fuck.rpy:947
 translate russian lavish_fuck_date_missionary_cc121659:
-    lavish.say "Скажи, что делать, [lssb_lavish.hero_name()]… я хочу быть для тебя хорошей."
+    lavish.say "Скажи, что делать, [lssb_lavish.hero_name()]... я хочу быть для тебя хорошей."
 
 # ch/lavish/fuck.rpy:948
 translate russian lavish_fuck_date_missionary_72adf475:
@@ -13834,7 +13834,7 @@ translate russian lavish_fuck_date_missionary_899ae922:
 
 # ch/lavish/fuck.rpy:977
 translate russian lavish_fuck_date_missionary_4f4743c1:
-    lavish.say "О… о, это… я не знала, что бывает так."
+    lavish.say "О... о, это... я не знала, что бывает так."
 
 # ch/lavish/fuck.rpy:978
 translate russian lavish_fuck_date_missionary_7a6dc920:
@@ -13846,7 +13846,7 @@ translate russian lavish_fuck_date_missionary_d25067d4:
 
 # ch/lavish/fuck.rpy:980
 translate russian lavish_fuck_date_missionary_1b2534ae:
-    lavish.say "Пожалуйста, [lssb_lavish.hero_name()]… больше не могу ждать. Хочу тебя внутри."
+    lavish.say "Пожалуйста, [lssb_lavish.hero_name()]... больше не могу ждать. Хочу тебя внутри."
 
 # ch/lavish/fuck.rpy:981
 translate russian lavish_fuck_date_missionary_ca357b97:
@@ -13906,7 +13906,7 @@ translate russian lavish_fuck_date_missionary_64894108:
 
 # ch/lavish/fuck.rpy:1000
 translate russian lavish_fuck_date_missionary_f39a0b2d:
-    lavish.say "Я никогда… никто ещё… о боже, не останавливайся, пожалуйста!"
+    lavish.say "Я никогда... никто ещё... о боже, не останавливайся, пожалуйста!"
 
 # ch/lavish/fuck.rpy:1001
 translate russian lavish_fuck_date_missionary_8b6ee834:
@@ -13914,7 +13914,7 @@ translate russian lavish_fuck_date_missionary_8b6ee834:
 
 # ch/lavish/fuck.rpy:1003
 translate russian lavish_fuck_date_missionary_0ee8c4f8:
-    lavish.say "Я такая похотливая малышка с тобой… скажи это, скажи, кто я!"
+    lavish.say "Я такая похотливая малышка с тобой... скажи это, скажи, кто я!"
 
 # ch/lavish/fuck.rpy:1004
 translate russian lavish_fuck_date_missionary_8e0f5615:
@@ -13922,7 +13922,7 @@ translate russian lavish_fuck_date_missionary_8e0f5615:
 
 # ch/lavish/fuck.rpy:1005
 translate russian lavish_fuck_date_missionary_582b3fe6:
-    lavish.say "Да… да, и мне это нравится! Обожаю быть твоей!"
+    lavish.say "Да... да, и мне это нравится! Обожаю быть твоей!"
 
 # ch/lavish/fuck.rpy:1009
 translate russian lavish_fuck_date_missionary_cbc45874:
@@ -13942,7 +13942,7 @@ translate russian lavish_fuck_date_missionary_a68f684a:
 
 # ch/lavish/fuck.rpy:1013
 translate russian lavish_fuck_date_missionary_c195a5f6:
-    lavish.say "Нет, не дразни, я не выдержу… пожалуйста, [lssb_lavish.hero_name()], мне нужно быстрее!"
+    lavish.say "Нет, не дразни, я не выдержу... пожалуйста, [lssb_lavish.hero_name()], мне нужно быстрее!"
 
 # ch/lavish/fuck.rpy:1014
 translate russian lavish_fuck_date_missionary_a2edd15c:
@@ -14050,7 +14050,7 @@ translate russian lavish_fuck_date_cowgirl_f68af082:
 
 # ch/lavish/fuck.rpy:1062
 translate russian lavish_fuck_date_cowgirl_cc280440:
-    lavish.say "Я всё твержу себе, что не должна хотеть этого так сильно…"
+    lavish.say "Я всё твержу себе, что не должна хотеть этого так сильно..."
 
 # ch/lavish/fuck.rpy:1063
 translate russian lavish_fuck_date_cowgirl_deac7bf4:
@@ -14374,7 +14374,7 @@ translate russian lavish_fuck_date_cowgirl_2e8f3832:
 
 # ch/lavish/fuck.rpy:1176
 translate russian lavish_fuck_date_cowgirl_3a9754ec:
-    lavish.say "О… чувствую тебя целиком. Ты так глубоко."
+    lavish.say "О... чувствую тебя целиком. Ты так глубоко."
 
 # ch/lavish/fuck.rpy:1177
 translate russian lavish_fuck_date_cowgirl_d5eb441a:
@@ -14414,7 +14414,7 @@ translate russian lavish_fuck_date_cowgirl_6db484a3:
 
 # ch/lavish/fuck.rpy:1186
 translate russian lavish_fuck_date_cowgirl_d79adcef:
-    lavish.say "Ты нарочно… заставляешь меня ждать."
+    lavish.say "Ты нарочно... заставляешь меня ждать."
 
 # ch/lavish/fuck.rpy:1187
 translate russian lavish_fuck_date_cowgirl_ad477f48:
@@ -14446,7 +14446,7 @@ translate russian lavish_fuck_date_cowgirl_843fb94f:
 
 # ch/lavish/fuck.rpy:1194
 translate russian lavish_fuck_date_cowgirl_b2051017:
-    lavish.say "Нечестно… ты нарочно не даёшь мне кончить!"
+    lavish.say "Нечестно... ты нарочно не даёшь мне кончить!"
 
 # ch/lavish/fuck.rpy:1195
 translate russian lavish_fuck_date_cowgirl_ea58214d:
@@ -14466,7 +14466,7 @@ translate russian lavish_fuck_date_cowgirl_2d2ebae3:
 
 # ch/lavish/fuck.rpy:1199
 translate russian lavish_fuck_date_cowgirl_c110b1c7:
-    lavish.say "Не давай мне остановиться… даже если буду умолять, не позволяй."
+    lavish.say "Не давай мне остановиться... даже если буду умолять, не позволяй."
 
 # ch/lavish/fuck.rpy:1201
 translate russian lavish_fuck_date_cowgirl_f930fa68:
@@ -14494,7 +14494,7 @@ translate russian lavish_fuck_date_cowgirl_aa7babd3:
 
 # ch/lavish/fuck.rpy:1207
 translate russian lavish_fuck_date_cowgirl_aa1f4fd5:
-    lavish.say "Вот так… о, вот так, ничего не меняй, пожалуйста!"
+    lavish.say "Вот так... о, вот так, ничего не меняй, пожалуйста!"
 
 # ch/lavish/fuck.rpy:1208
 translate russian lavish_fuck_date_cowgirl_4ee70835:
@@ -14742,7 +14742,7 @@ translate russian lavish_fuck_date_doggy_805391c9:
 
 # ch/lavish/fuck.rpy:1318
 translate russian lavish_fuck_date_doggy_a68c91a2:
-    lavish.say "Никому ещё не позволяла видеть меня такой…"
+    lavish.say "Никому ещё не позволяла видеть меня такой..."
 
 # ch/lavish/fuck.rpy:1319
 translate russian lavish_fuck_date_doggy_7c781f90:
@@ -15070,7 +15070,7 @@ translate russian lavish_fuck_date_doggy_7ad2720b:
 
 # ch/lavish/fuck.rpy:1432
 translate russian lavish_fuck_date_doggy_a283a2e9:
-    lavish.say "Да… да! Скажи ещё, я не могу без этих слов!"
+    lavish.say "Да... да! Скажи ещё, я не могу без этих слов!"
 
 # ch/lavish/fuck.rpy:1433
 translate russian lavish_fuck_date_doggy_3dc48e5e:
@@ -15474,7 +15474,7 @@ translate russian lavish_fuck_date_doggy_3d54ebdb:
 
 # ch/lavish/fuck.rpy:1577
 translate russian lavish_fuck_date_doggy_1e291dc2:
-    lavish.say "Ты нарочно заставляешь меня умолять…"
+    lavish.say "Ты нарочно заставляешь меня умолять..."
 
 # ch/lavish/fuck.rpy:1578
 translate russian lavish_fuck_date_doggy_3f97aa48:
@@ -15490,7 +15490,7 @@ translate russian lavish_fuck_date_doggy_351ef063:
 
 # ch/lavish/fuck.rpy:1582
 translate russian lavish_fuck_date_doggy_ad366a9d:
-    lavish.say "Буду твоей хорошей девочкой. Идеальной маленькой сотрудницей. Только, пожалуйста, [lssb_lavish.hero_name()]…"
+    lavish.say "Буду твоей хорошей девочкой. Идеальной маленькой сотрудницей. Только, пожалуйста, [lssb_lavish.hero_name()]..."
 
 # ch/lavish/fuck.rpy:1583
 translate russian lavish_fuck_date_doggy_4bfe15c4:
@@ -15746,7 +15746,7 @@ translate russian lavish_fuck_date_doggy_762d066d:
 
 # ch/lavish/fuck.rpy:1676
 translate russian lavish_fuck_date_doggy_df3b02f9:
-    lavish.say "Знаешь только ты… только ты. Обожаю, что это наш секрет!"
+    lavish.say "Знаешь только ты... только ты. Обожаю, что это наш секрет!"
 
 # ch/lavish/fuck.rpy:1677
 translate russian lavish_fuck_date_doggy_4bc3c30d:
@@ -15810,7 +15810,7 @@ translate russian lavish_fuck_date_doggy_f2391847:
 
 # ch/lavish/fuck.rpy:1693
 translate russian lavish_fuck_date_doggy_c1a19425:
-    lavish.say "Слишком сильно, слишком… но не останавливайся!"
+    lavish.say "Слишком сильно, слишком... но не останавливайся!"
 
 # ch/lavish/fuck.rpy:1694
 translate russian lavish_fuck_date_doggy_8bfedcb4:
@@ -18554,7 +18554,7 @@ translate russian lavish_belly_kiss_male_484df533:
 
 # ch/lavish/reactions.rpy:295
 translate russian lavish_belly_kiss_male_756c0f14:
-    lavish.say "Да, [lssb_lavish.hero_name()]…"
+    lavish.say "Да, [lssb_lavish.hero_name()]..."
 
 # ch/lavish/reactions.rpy:296
 translate russian lavish_belly_kiss_male_382607e9:

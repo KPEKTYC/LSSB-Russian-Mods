@@ -48,7 +48,7 @@ translate russian strings:
     new "Взять себя в руки"
 
     old "Ask Ayesha for a handjob"
-    new "Попросить Аишу подрочить"
+    new "Попросить Айшу подрочить"
 
     old "Slip the butt plug in her"
     new "Вставить ей анальную пробку"

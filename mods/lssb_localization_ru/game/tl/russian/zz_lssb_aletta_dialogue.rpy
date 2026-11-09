@@ -14618,7 +14618,7 @@ translate russian aletta_event_08_35fcb8fc:
 
 # ch/aletta/events.rpy:5147
 translate russian aletta_event_08_af3f3b3c:
-    "Детектив застает нервного подозреваемого врасплох дружелюбным отношением."
+    "Детектив застаёт нервного подозреваемого врасплох дружелюбным отношением."
 
 # ch/aletta/events.rpy:5148
 translate russian aletta_event_08_d905c104:

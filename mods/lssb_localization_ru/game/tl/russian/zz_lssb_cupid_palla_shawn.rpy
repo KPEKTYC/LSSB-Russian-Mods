@@ -1678,7 +1678,7 @@ translate russian cupid_palla_shawn_ending_108a1354:
     "Священник кивает, словно пытается вернуть себе контроль над происходящим."
 
 translate russian cupid_palla_shawn_ending_f8d2c90a:
-    "Priest" "А ты, Палла…"
+    "Priest" "А ты, Палла..."
 
 translate russian cupid_palla_shawn_ending_5e8f652a:
     "Priest" "Согласна ли взять Шона..."
@@ -2002,10 +2002,10 @@ translate russian cupid_palla_shawn_ending_2ee6fedc:
     "Шон стоит и кивает, пока Палла перечисляет требования."
 
 translate russian cupid_palla_shawn_ending_75902065:
-    shawn.say "Да, Палла…"
+    shawn.say "Да, Палла..."
 
 translate russian cupid_palla_shawn_ending_fedab5f3:
-    shawn.say "Конечно, Палла…"
+    shawn.say "Конечно, Палла..."
 
 translate russian cupid_palla_shawn_ending_42d500fc:
     "Закончив, Палла гордо удаляется в другую комнату."
@@ -2038,7 +2038,7 @@ translate russian cupid_palla_shawn_ending_7a49b98b:
     mike.say "Правда?"
 
 translate russian cupid_palla_shawn_ending_eea62c57:
-    shawn.say "Конечно, [hero.name]…"
+    shawn.say "Конечно, [hero.name]..."
 
 translate russian cupid_palla_shawn_ending_800fc4aa:
     shawn.say "Я убедил Паллу: раз могу управлять магазином электроники, справлюсь и с её карьерой."
@@ -2080,7 +2080,7 @@ translate russian cupid_palla_shawn_ending_597ce26c:
     mike.say "Но если за всем этим ничего нет..."
 
 translate russian cupid_palla_shawn_ending_50129665:
-    shawn.say "Ох, [hero.name]…"
+    shawn.say "Ох, [hero.name]..."
 
 translate russian cupid_palla_shawn_ending_8eeab621:
     shawn.say "Послушай себя! Ты так и застрял в двадцатом веке!"

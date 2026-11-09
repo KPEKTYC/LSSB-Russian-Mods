@@ -6094,7 +6094,7 @@ translate russian fivesome_breeminamisamsasha_55e81e05:
 
 # ch/harems/home/events/home_harem_samantha.rpy:2554
 translate russian fivesome_breeminamisamsasha_5e73ff51:
-    "Все ещё на взводе от восторга, и нечего ждать, пока он пройдёт."
+    "Всё ещё на взводе от восторга, и нечего ждать, пока он пройдёт."
 
 # ch/harems/home/events/home_harem_samantha.rpy:2555
 translate russian fivesome_breeminamisamsasha_a6ab64c2:

@@ -18386,7 +18386,7 @@ translate russian hanna_gift_slutty_dress_male_00a740cb:
 
 # ch/hanna/gift.rpy:135
 translate russian hanna_gift_slutty_dress_male_5ac86a30:
-    hanna.say "Ой, [lssb_hanna.hero_name()]…"
+    hanna.say "Ой, [lssb_hanna.hero_name()]..."
 
 # ch/hanna/gift.rpy:136
 translate russian hanna_gift_slutty_dress_male_9dcb4274:
@@ -18534,7 +18534,7 @@ translate russian hanna_gift_slutty_dress_male_01b908f3:
 
 # ch/hanna/gift.rpy:185
 translate russian hanna_gift_slutty_dress_male_5ac86a30_1:
-    hanna.say "Ой, [lssb_hanna.hero_name()]…"
+    hanna.say "Ой, [lssb_hanna.hero_name()]..."
 
 # ch/hanna/gift.rpy:186
 translate russian hanna_gift_slutty_dress_male_8d0d64a3:
@@ -18546,7 +18546,7 @@ translate russian hanna_gift_slutty_dress_male_30e74fc5_1:
 
 # ch/hanna/gift.rpy:189
 translate russian hanna_gift_slutty_dress_male_bec1d906:
-    mike.say "Ну, я думал, мы могли бы куда-нибудь сходить вместе…"
+    mike.say "Ну, я думал, мы могли бы куда-нибудь сходить вместе..."
 
 # ch/hanna/gift.rpy:190
 translate russian hanna_gift_slutty_dress_male_d9ffc118:
@@ -18558,7 +18558,7 @@ translate russian hanna_gift_slutty_dress_male_7b951154:
 
 # ch/hanna/gift.rpy:193
 translate russian hanna_gift_slutty_dress_male_74bcaa2c:
-    hanna.say "Серьёзно, [lssb_hanna.hero_name()]…"
+    hanna.say "Серьёзно, [lssb_hanna.hero_name()]..."
 
 # ch/hanna/gift.rpy:195
 translate russian hanna_gift_slutty_dress_male_2b092a4b:
