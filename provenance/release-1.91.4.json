@@ -1,0 +1,80 @@
+{
+  "tag": "v1.91.4-own",
+  "assets": {
+    "LSSB_1.91.4_Russian_HD_Lively.zip": {
+      "sha256": "87ccaed7ce9bb0e1e91a2bb9d44111d8db96196736e336ce2509c5cab7a792b2",
+      "bytes": 1572553204
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "a4fa7c0ce23d71760b2a64ee967d72f22386289697626f2dc0ab62c76e0d8e80",
+      "bytes": 100
+    }
+  },
+  "components": {
+    "lssb_localization_ru": {
+      "version": "1.91.4-own",
+      "archive": "zzzzzz_lssb_localization_ru.rpa",
+      "sha256": "ae8bc9c9fc1df31d8037bef3c90b6cbe19254617fbf38c09d967865977ba4d82",
+      "bytes": 1572451505
+    },
+    "lssb_startup_fix": {
+      "version": "1.3.0-own",
+      "archive": "zzzzzzz_lssb_startup_fast.rpa",
+      "sha256": "7ffe3f2e4e46f83d652caec0163f69581b4b655056e823650ca149140f206a4b",
+      "bytes": 9311
+    },
+    "lssb_mod_manager": {
+      "version": "1.5.1-own",
+      "archive": "zzzzzzzz_lssb_mod_manager.rpa",
+      "sha256": "f684b4dccd8fdae8e45350adca483cf84bf85ea352a698a0c584bc3e5903ba62",
+      "bytes": 42665
+    }
+  },
+  "validation": {
+    "status": "passed",
+    "game": "26.10.0e",
+    "minimum_game": "26.10.0e",
+    "renpy": "8.5.3.26051504",
+    "platform": "Windows",
+    "signed_archives_checked": true,
+    "startup_and_manager_bytes_equal_to": "v1.91.0-own",
+    "localization_bytes_equal_to_installed_and_audited": true,
+    "dialogue_blocks_native": 231844,
+    "translated_say_statements_checked": 231708,
+    "orphan_translations": 0,
+    "empty_nvl_clear_blocks": 133,
+    "new_or_changed_lines_translated": 105,
+    "orphans_removed": 18,
+    "untranslated_dialogue_lines_intentional": 3,
+    "menu_captions_new_missing": 0,
+    "story_tracker_new_missing": 0,
+    "stat_tooltip_kinds_translated": 12,
+    "compat_screens_disabled": 0,
+    "screens_ported": 4,
+    "trait_notifications_rendered_russian": true,
+    "renpy_lint_errors_added_by_mod": 0,
+    "random_play_actions_from_player_saves": 111222,
+    "random_play_exceptions": 0,
+    "manager_tests": {
+      "passed": 81,
+      "skipped": 1
+    },
+    "limitations": [
+      "Isolated headless runtime checks and random play from saves; not a complete story playthrough."
+    ]
+  },
+  "zip_members": [
+    "LICENSE",
+    "LICENSE_SCOPE.md",
+    "NOTICE",
+    "LICENSES/HISTORICAL.md",
+    "README_RU.md",
+    "INSTALL_RU.md",
+    "CHANGELOG.md",
+    "game/zzzzzzzz_lssb_mod_manager.rpa",
+    "game/zzzzzzz_lssb_startup_fast.rpa",
+    "game/zzzzzz_lssb_localization_ru.rpa",
+    "manifest.json",
+    "validation.json"
+  ]
+}
