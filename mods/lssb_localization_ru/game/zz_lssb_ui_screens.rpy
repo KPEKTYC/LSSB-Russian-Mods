@@ -11,7 +11,7 @@ screen smartphone(char=None, selected_screen="home"):
     default smartphone_screen = selected_screen
     default hide_back = False
 
-    $ hero_contacts = [k for k, v in sorted({i: _lssb_person_name(Person.find(i).name) for i in hero.smartphone_contacts if Person.find(i)}.items(), key=lambda x: x[1])]
+    $ hero_contacts = [k for k, v in sorted({i: _lssb_person_name(Person.find(i).name) for i in hero.smartphone_contacts if Person.find(i)}.items(), key=lambda x: x[1].casefold())]
 
     $ phone_busy = bool(renpy.get_screen("say") or renpy.get_screen("choice"))
     if not phone_busy:
@@ -461,10 +461,12 @@ screen smartphone(char=None, selected_screen="home"):
                                 textbutton "Dad" action [ToggleScreen("smartphone"), Call("angela_afterblow_dad_call")]
                                 if game.flags.bruceNumber:
                                     textbutton "Bruce (Bree's dad)" action [ToggleScreen("smartphone"), Call("angela_afterblow_bruce_call")]
-                            if smartphone_screen == "call" and JackRpg.can_call():
-                                textbutton "Jack" action [ToggleScreen("smartphone"), Call("jack_rpg_call")]
-                            for i in hero_contacts:
-                                if smartphone_screen == "call":
+                            $ call_jack = smartphone_screen == "call" and JackRpg.can_call()
+                            $ listed = sorted(hero_contacts + ["jack"], key=lambda i: _lssb_person_name(Person.find(i).name).casefold()) if call_jack else hero_contacts
+                            for i in listed:
+                                if call_jack and i == "jack":
+                                    textbutton "Jack" action [ToggleScreen("smartphone"), Call("jack_rpg_call")]
+                                elif smartphone_screen == "call":
                                     if i not in Room.find(game.room).get_present_girls() and Person.find(i):
                                         if (not Conditioned.done_today("smartphone_call_" + i)
                                             or not Conditioned.done_today("smartphone_booty_call_" + i)
@@ -552,7 +554,7 @@ screen smartphone(char=None, selected_screen="home"):
                                                     bar value n range 100 left_bar "gui/phone/bar_full.png" right_bar "gui/phone/bar_empty.png" ymaximum 21
                                                     bar value m range mr left_bar "gui/phone/bar_thru.png" right_bar "gui/phone/bar_locked.png" ymaximum 21
                                                     text "[n]%" align (0.5, 0.5) size 16 alt ""
-                                                    $ info_self_voicing += f". {replace_tags_alt(attr.get_icon())}: {n}% {' is Lock' if attr.is_max else ''}"
+                                                    $ info_self_voicing += f". {replace_tags_alt(attr.get_icon())}: {n}% {' is Lock' if attr.is_max and n < 100 else ''}"
                                                     if attr.is_max and n < 100:
                                                         add "gui/icons/icon_lock.png" align (0.87, 0.5)
                                 button:
@@ -1021,6 +1023,7 @@ screen shopping(items=[], clerk=None):
             background "gui/inv/inventory_box.png"
             label Room.find(game.room).display_name alt ""
             viewport id "inventory_vp":
+                yadjustment shopping_yadjustment
                 style_prefix "shopping_items"
                 xfill True
                 pos (10, 55)
@@ -1937,7 +1940,7 @@ screen preferences():
                         vbox:
                             xysize (230, 60)
                             use text_tooltip(_lssb_ui_resize(_("Animations"), 215, 22), _("Enable/Disable sprites animations"), "lspref_label_text")
-                            textbutton _("On") action SetField(persistent, 'live2d_on', True)
+                            textbutton _("On") action [SetField(persistent, 'live2d_on', True), If(live2d_declared, NullAction(), Notify(_("Animations will be on at the next launch")))]
                             textbutton _("Off") action SetField(persistent, 'live2d_on', False)
                     if 'lively' in DLCS:
                         vbox:

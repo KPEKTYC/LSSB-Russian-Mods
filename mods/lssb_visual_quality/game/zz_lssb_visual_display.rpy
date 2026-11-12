@@ -182,7 +182,7 @@ screen preferences():
                         vbox:
                             xysize (230, 60)
                             use text_tooltip(text_tag_resize(_("Animations"), 230, 30), _("Enable/Disable sprites animations"), "lspref_label_text")
-                            textbutton _("On") action SetField(persistent, 'live2d_on', True)
+                            textbutton _("On") action [SetField(persistent, 'live2d_on', True), If(live2d_declared, NullAction(), Notify(_("Animations will be on at the next launch")))]
                             textbutton _("Off") action SetField(persistent, 'live2d_on', False)
                     if 'lively' in DLCS:
                         vbox:
@@ -445,7 +445,7 @@ screen preferences():
                         vbox:
                             xysize (230, 60)
                             use text_tooltip(_lssb_ui_resize(_("Animations"), 215, 22), _("Enable/Disable sprites animations"), "lspref_label_text")
-                            textbutton _("On") action SetField(persistent, 'live2d_on', True)
+                            textbutton _("On") action [SetField(persistent, 'live2d_on', True), If(live2d_declared, NullAction(), Notify(_("Animations will be on at the next launch")))]
                             textbutton _("Off") action SetField(persistent, 'live2d_on', False)
                     if 'lively' in DLCS:
                         vbox:

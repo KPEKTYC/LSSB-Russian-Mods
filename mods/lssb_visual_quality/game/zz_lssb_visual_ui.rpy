@@ -685,7 +685,7 @@ screen overlay_ui():
 
                         align (0.5, 0.5)
 
-                        if renpy.get_screen(["room", "story_tracker", "map", "housemap"]):
+                        if renpy.get_screen(["room", "story_tracker", "map", "housemap", "mallmap"]):
 
                             action ToggleScreen("story_tracker")
 

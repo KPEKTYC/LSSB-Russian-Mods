@@ -68,6 +68,7 @@ screen shopping(items=[], clerk=None):
             background "gui/inv/inventory_box.png"
             label _lssb_ui_resize(Room.find(game.room).display_name, 280, 28) alt ""
             viewport id "inventory_vp":
+                yadjustment shopping_yadjustment
                 style_prefix "shopping_items"
                 xfill True
                 pos (10, 55)

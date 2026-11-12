@@ -40348,10 +40348,6 @@ translate russian morgan_fuck_date_cowgirl_1575b303:
 translate russian morgan_fuck_date_cowgirl_27b2db69:
     "А ещё — вид Морган, краснеющей до самых ушей при мысли о том, что я задумал."
 
-# ch/morgan/fuck.rpy:3413
-translate russian morgan_fuck_date_cowgirl_50323de6:
-    "Затем на её лице мелькает робкое удивление, когда она впервые чувствует, как к ней прижимается мой член."
-
 # ch/morgan/fuck.rpy:3414
 translate russian morgan_fuck_date_cowgirl_88b2ef82:
     "Я замечаю, как она прикусывает губу — вся такая милая, застенчивая и неуверенная, — представляя, что будет дальше."
@@ -43751,10 +43747,6 @@ translate russian palla_hottub_sex_male_863e7f71:
 # ch/palla/fuck.rpy:1764
 translate russian palla_hottub_sex_male_b6e030a2:
     palla.say "Потому что ты первый, кто видит меня такой!"
-
-# ch/palla/fuck.rpy:1766
-translate russian palla_hottub_sex_male_808d7bcf_1:
-    palla.say "Ты первый, кто увидит меня в новом купальнике!"
 
 # ch/palla/fuck.rpy:1789
 translate russian palla_hottub_sex_male_a4205a43:

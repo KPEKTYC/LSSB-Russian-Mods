@@ -196,10 +196,22 @@ init 1171 python:
     # config.replace_text only ever sees the text between tags, so the notification popup
     # translates its whole string here: "{size=20}Study{/size}", "{size=20}Cooking 60%{/size}",
     # "{size=20}+ Cooking{/size}", "{size=20}{image=gui/icons/icon_story_new.png} <story>{/size}".
+    # Trait ids of data/stat_traits.yml, as the traits are named on the character card.
+    _lssb_trait_names = {"dominant": "Доминирование", "exhibitionist": "Эксгибиционизм", "innocent": "Невинность",
+                         "kinky": "Любовь к экспериментам", "rebel": "Бунтарство", "shy": "Застенчивость",
+                         "slutty": "Распутность", "submissive": "Покорность"}
+
     def _lssb_notification_text(value):
         whole = _lssb_ui_translate(value)
         if whole != value or not isinstance(value, str) or _preferences.language != "russian":
             return whole
+        # cl/class_stat_affinity.rpy StatTrait._announce: "{image=notify <id>} <name> is now|is no longer <trait id>".
+        trait = _lssb_re.fullmatch(r"(\{image=notify [^}]+\} )(.+) is (now|no longer) ([a-z_ ]+)", value)
+        if trait and trait.group(4) in _lssb_trait_names:
+            icon, name, state, label = trait.groups()
+            name = getattr(store, "_lssb_person_name", lambda v: v)(name)
+            label = _lssb_trait_names[label]
+            return icon + name + (": новая черта — «%s»" % label if state == "now" else ": черта «%s» пропала" % label)
         story = _lssb_re.fullmatch(r"(.*\{image=gui/icons/icon_story_(?:new|update|complete)\.png\} )(.+?)((?:\{/size\})?)", value, _lssb_re.S)
         if story:
             return story.group(1) + _lssb_story_text(story.group(2)) + story.group(3)
@@ -236,7 +248,8 @@ init 1171 python:
 
     # Pets of 26.10.0 are Persons too: their default names and the names picked in ev/pets_extra.rpy.
     _lssb_pet_names = {"Dog": "Собака", "Cat": "Кошка", "Bunny": "Кролик", "Capybara": "Капибара", "Turtle": "Черепаха",
-                       "Pancake": "Блинчик", "Clover": "Клевер", "Angel": "Ангел", "Sheldon": "Шелдон", "Tank": "Танк"}
+                       "Pancake": "Блинчик", "Clover": "Клевер", "Angel": "Ангел", "Sheldon": "Шелдон", "Tank": "Танк",
+                       "Zack": "Зак", "Bruce": "Брюс", "François": "Франсуа", "Nicky": "Ники", "Lennie": "Ленни", "Joey": "Джои"}
 
     # On Easy, 26.10.0 appends a step's explicit hint to its name: "Step (date score 90+)".
     if callable(globals().get("_lssb_story_text")):

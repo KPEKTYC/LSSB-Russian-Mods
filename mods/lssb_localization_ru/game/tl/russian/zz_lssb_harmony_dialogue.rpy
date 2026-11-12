@@ -23248,10 +23248,6 @@ translate russian harmony_fuck_blowjob_a285f9f2:
 translate russian harmony_fuck_blowjob_01bc411c:
     "Но Хармони здесь только осваивается, и, похоже, у неё природный талант!"
 
-# ch/harmony/fuck.rpy:485
-translate russian harmony_fuck_blowjob_f758dc2d:
-    "Знание, что она делает это впервые, возбуждает ещё сильнее."
-
 # ch/harmony/fuck.rpy:486
 translate russian harmony_fuck_blowjob_b6633775:
     "Будто до встречи с моим членом она и не подозревала, как любит этот вкус."
@@ -24312,10 +24308,6 @@ translate russian harmony_fuck_cunnilingus_34bd0e31:
 translate russian harmony_fuck_cunnilingus_647e23d7:
     "Она мотает головой из стороны в сторону и с криком кончает."
 
-# ch/harmony/fuck.rpy:883
-translate russian harmony_fuck_cunnilingus_7bcb67fb:
-    "Пусть Хармони и лижут впервые."
-
 # ch/harmony/fuck.rpy:884
 translate russian harmony_fuck_cunnilingus_98ebdb3e:
     "Но, по-моему, я уже довольно хорошо её знаю."
@@ -24440,10 +24432,6 @@ translate russian harmony_fuck_cunnilingus_647e23d7_1:
 translate russian harmony_fuck_cunnilingus_06de2795:
     "Я тоже не выдерживаю: сперма стекает по её пальцам, обхватившим мой член."
 
-# ch/harmony/fuck.rpy:921
-translate russian harmony_fuck_cunnilingus_7bcb67fb_1:
-    "Пусть Хармони и лижут впервые."
-
 # ch/harmony/fuck.rpy:922
 translate russian harmony_fuck_cunnilingus_98ebdb3e_1:
     "Но, по-моему, я уже довольно хорошо её знаю."
@@ -24567,10 +24555,6 @@ translate russian harmony_fuck_cunnilingus_647e23d7_2:
 # ch/harmony/fuck.rpy:955
 translate russian harmony_fuck_cunnilingus_06de2795_1:
     "Я тоже не выдерживаю: сперма стекает по её пальцам, обхватившим мой член."
-
-# ch/harmony/fuck.rpy:958
-translate russian harmony_fuck_cunnilingus_7bcb67fb_2:
-    "Пусть Хармони и лижут впервые."
 
 # ch/harmony/fuck.rpy:959
 translate russian harmony_fuck_cunnilingus_98ebdb3e_2:
@@ -24735,10 +24719,6 @@ translate russian harmony_fuck_cunnilingus_647e23d7_3:
 # ch/harmony/fuck.rpy:1004
 translate russian harmony_fuck_cunnilingus_06de2795_2:
     "Я тоже не выдерживаю: сперма стекает по её пальцам, обхватившим мой член."
-
-# ch/harmony/fuck.rpy:1007
-translate russian harmony_fuck_cunnilingus_7bcb67fb_3:
-    "Пусть Хармони и лижут впервые."
 
 # ch/harmony/fuck.rpy:1008
 translate russian harmony_fuck_cunnilingus_98ebdb3e_3:
@@ -25099,10 +25079,6 @@ translate russian harmony_fuck_missionary_d722c8aa:
 # ch/harmony/fuck.rpy:1121
 translate russian harmony_fuck_missionary_6d79d118:
     harmony.say "Очень приятно..."
-
-# ch/harmony/fuck.rpy:1123
-translate russian harmony_fuck_missionary_a24c20d9:
-    "Помня, что для Хармони это первый раз, я решаю, что нужно успеть выйти."
 
 # ch/harmony/fuck.rpy:1125
 translate russian harmony_fuck_missionary_3fb18421:

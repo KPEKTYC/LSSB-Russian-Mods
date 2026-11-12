@@ -130,7 +130,7 @@ screen smartphone(char=None, selected_screen="home"):
     default smartphone_screen = selected_screen
     default hide_back = False
 
-    $ hero_contacts = [k for k, v in sorted({i: _lssb_person_name(Person.find(i).name) for i in hero.smartphone_contacts if Person.find(i)}.items(), key=lambda x: x[1])]
+    $ hero_contacts = [k for k, v in sorted({i: _lssb_person_name(Person.find(i).name) for i in hero.smartphone_contacts if Person.find(i)}.items(), key=lambda x: x[1].casefold())]
 
     $ phone_busy = bool(renpy.get_screen("say") or renpy.get_screen("choice"))
     if not phone_busy:
@@ -592,10 +592,12 @@ screen smartphone(char=None, selected_screen="home"):
                                 textbutton "Dad" action [ToggleScreen("smartphone"), Call("angela_afterblow_dad_call")]
                                 if game.flags.bruceNumber:
                                     textbutton "Bruce (Bree's dad)" action [ToggleScreen("smartphone"), Call("angela_afterblow_bruce_call")]
-                            if smartphone_screen == "call" and JackRpg.can_call():
-                                textbutton _lssb_person_name("Jack") action [ToggleScreen("smartphone"), Call("jack_rpg_call")]
-                            for i in hero_contacts:
-                                if smartphone_screen == "call":
+                            $ call_jack = smartphone_screen == "call" and JackRpg.can_call()
+                            $ listed = sorted(hero_contacts + ["jack"], key=lambda i: _lssb_person_name(Person.find(i).name).casefold()) if call_jack else hero_contacts
+                            for i in listed:
+                                if call_jack and i == "jack":
+                                    textbutton _lssb_person_name("Jack") action [ToggleScreen("smartphone"), Call("jack_rpg_call")]
+                                elif smartphone_screen == "call":
                                     if i not in Room.find(game.room).get_present_girls() and Person.find(i):
                                         if (not Conditioned.done_today("smartphone_call_" + i)
                                             or not Conditioned.done_today("smartphone_booty_call_" + i)
@@ -685,7 +687,7 @@ screen smartphone(char=None, selected_screen="home"):
                                             bar value n range 100 left_bar _lssb_phone_bar_image("full", 300) right_bar _lssb_phone_bar_image("empty", 300) xysize (300, 21) bar_resizing False
                                             bar value m range mr left_bar _lssb_phone_bar_image("thru", 300) right_bar _lssb_phone_bar_image("locked", 300) xysize (300, 21) bar_resizing False
                                             text "[n]%" align (0.5, 0.5) size 16 alt ""
-                                            $ info_self_voicing += f". {replace_tags_alt(attr.get_icon())}: {n}% {' is Lock' if attr.is_max else ''}"
+                                            $ info_self_voicing += f". {replace_tags_alt(attr.get_icon())}: {n}% {' is Lock' if attr.is_max and n < 100 else ''}"
                                             if attr.is_max and n < 100:
                                                 add "gui/icons/icon_lock.png" align (0.87, 0.5)
                         button:

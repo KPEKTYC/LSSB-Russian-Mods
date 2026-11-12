@@ -30064,17 +30064,9 @@ translate russian bree_fuck_date_intro_male_2747db4c:
 translate russian bree_fuck_date_intro_male_aea5f5c1:
     mike.say "Да, знаю..."
 
-# ch/bree/fuck.rpy:714
-translate russian bree_fuck_date_intro_male_63dcbbc2:
-    bree.say "Сидим тут, будто едва знакомы!"
-
 # ch/bree/fuck.rpy:715
 translate russian bree_fuck_date_intro_male_2afd1f16:
     "В ответ я пожимаю плечами."
-
-# ch/bree/fuck.rpy:716
-translate russian bree_fuck_date_intro_male_be68f889:
-    mike.say "Ну, вдвоём мы всё-таки впервые оказались в такой ситуации..."
 
 # ch/bree/fuck.rpy:717
 translate russian bree_fuck_date_intro_male_6b93c3df:
@@ -30087,10 +30079,6 @@ translate russian bree_fuck_date_intro_male_bf22c7a7:
 # ch/bree/fuck.rpy:721
 translate russian bree_fuck_date_intro_male_decc58f6:
     bree.say "Я думала ровно о том же!"
-
-# ch/bree/fuck.rpy:722
-translate russian bree_fuck_date_intro_male_28ed4558:
-    bree.say "Тебя смущает, что мы в твоей комнате?"
 
 # ch/bree/fuck.rpy:723
 translate russian bree_fuck_date_intro_male_a919e346:
@@ -30159,14 +30147,6 @@ translate russian bree_fuck_date_intro_male_a8cce64c:
 # ch/bree/fuck.rpy:747
 translate russian bree_fuck_date_intro_male_c7c5c06f:
     "Мы с [bree.name] видимся каждый день с тех пор, как живём под одной крышей."
-
-# ch/bree/fuck.rpy:748
-translate russian bree_fuck_date_intro_male_2d0a5481:
-    "Но голыми видим друг друга впервые."
-
-# ch/bree/fuck.rpy:750
-translate russian bree_fuck_date_intro_male_729e49a0:
-    "Никакая моя фантазия не могла передать, насколько прекрасно её обнажённое тело."
 
 # ch/bree/fuck.rpy:751
 translate russian bree_fuck_date_intro_male_f0e5b2d5:

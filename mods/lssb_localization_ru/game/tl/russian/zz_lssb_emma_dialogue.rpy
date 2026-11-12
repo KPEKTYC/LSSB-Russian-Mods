@@ -12004,10 +12004,6 @@ translate russian emma_fuck_date_bj_e8bc9a88:
 translate russian emma_fuck_date_bj_aa569c4a:
     "Одновременно двигая головой взад-вперёд."
 
-# ch/emma/fuck.rpy:1242
-translate russian emma_fuck_date_bj_35dbcee2:
-    "Для первого раза она справляется чертовски хорошо!"
-
 # ch/emma/fuck.rpy:1243
 translate russian emma_fuck_date_bj_998985e7:
     "Вообще-то, кажется..."
@@ -12535,10 +12531,6 @@ translate russian emma_fuck_date_missionary_01229459:
 # ch/emma/fuck.rpy:1469
 translate russian emma_fuck_date_missionary_111687e5:
     "Попка Эммы невероятно плотно обхватывает мой член."
-
-# ch/emma/fuck.rpy:1470
-translate russian emma_fuck_date_missionary_3deb889c:
-    "Это и её реакция подсказывают мне: раньше она такого не делала."
 
 # ch/emma/fuck.rpy:1471
 translate russian emma_fuck_date_missionary_fc798335:
@@ -15276,10 +15268,6 @@ translate russian emma_fuck_date_doggy_77bc79b9:
 translate russian emma_fuck_date_doggy_f9679dea:
     emma.say "Ох..."
 
-# ch/emma/fuck.rpy:2822
-translate russian emma_fuck_date_doggy_ef489327:
-    emma.say "Я... я никогда раньше так не делала!"
-
 # ch/emma/fuck.rpy:2823
 translate russian emma_fuck_date_doggy_96afe3ea:
     "Эмма оглядывается на меня через плечо."
@@ -16987,10 +16975,6 @@ translate russian emma_hottub_sex_male_a3aae515:
 # ch/emma/fuck.rpy:3463
 translate russian emma_hottub_sex_male_a1952828:
     emma.say "Всё хорошо, [lssb_emma.hero_name()]..."
-
-# ch/emma/fuck.rpy:3465
-translate russian emma_hottub_sex_male_fbba5df2:
-    "Показывая своё тело, Эмма обрывает фразу."
 
 # ch/emma/fuck.rpy:3466
 translate russian emma_hottub_sex_male_e637ff5f:

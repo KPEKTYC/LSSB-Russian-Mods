@@ -20948,10 +20948,6 @@ translate russian morgan_fuck_date_cowgirl_d6b09285:
 translate russian morgan_fuck_date_cowgirl_8320c701:
     "И вижу, как Морган краснеет от мысли о том, что я ей приготовил."
 
-# ch/morgan/fuck.rpy:1996
-translate russian morgan_fuck_date_cowgirl_6a1250b8:
-    "Но когда впервые чувствует прижавшийся к ней член, на лице появляется настоящее удивление, почти потрясение."
-
 # ch/morgan/fuck.rpy:1997
 translate russian morgan_fuck_date_cowgirl_795a8df9:
     "При всей своей девичьей невинности она прикусывает губу, представляя продолжение."
