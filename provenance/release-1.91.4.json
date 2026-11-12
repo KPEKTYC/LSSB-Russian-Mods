@@ -1,12 +1,13 @@
 {
   "tag": "v1.91.4-own",
+  "release_date": "2026-11-12",
   "assets": {
     "LSSB_1.91.4_Russian_HD_Lively.zip": {
-      "sha256": "87ccaed7ce9bb0e1e91a2bb9d44111d8db96196736e336ce2509c5cab7a792b2",
-      "bytes": 1572553204
+      "sha256": "40fd79634e98ced8d7316d66f1d0674e40c6b16c43e60fabb2e546f801af546b",
+      "bytes": 1572550045
     },
     "SHA256SUMS.txt": {
-      "sha256": "a4fa7c0ce23d71760b2a64ee967d72f22386289697626f2dc0ab62c76e0d8e80",
+      "sha256": "eb0298211cae4e0003442f80a479b6722bd0d311559bb4c4975b81472c7c7500",
       "bytes": 100
     }
   },
@@ -73,8 +74,6 @@
     "CHANGELOG.md",
     "game/zzzzzzzz_lssb_mod_manager.rpa",
     "game/zzzzzzz_lssb_startup_fast.rpa",
-    "game/zzzzzz_lssb_localization_ru.rpa",
-    "manifest.json",
-    "validation.json"
+    "game/zzzzzz_lssb_localization_ru.rpa"
   ]
 }
