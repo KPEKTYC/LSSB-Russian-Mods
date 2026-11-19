@@ -461,6 +461,8 @@ screen smartphone(char=None, selected_screen="home"):
                                 textbutton "Dad" action [ToggleScreen("smartphone"), Call("angela_afterblow_dad_call")]
                                 if game.flags.bruceNumber:
                                     textbutton "Bruce (Bree's dad)" action [ToggleScreen("smartphone"), Call("angela_afterblow_bruce_call")]
+                            if smartphone_screen == "call" and game.flags.hirePI:
+                                textbutton _lssb_phone_investigator() action [ToggleScreen("smartphone"), Call("call_hire_PI")]
                             $ call_jack = smartphone_screen == "call" and JackRpg.can_call()
                             $ listed = sorted(hero_contacts + ["jack"], key=lambda i: _lssb_person_name(Person.find(i).name).casefold()) if call_jack else hero_contacts
                             for i in listed:
@@ -506,6 +508,21 @@ screen smartphone(char=None, selected_screen="home"):
                                 label "Birthday:" text_size 21 align (0.5, 0.5)
                                 text _lssb_ui_birthday(selected_char) align (0.5, 0.6) alt ""
                             $ info_self_voicing += f". Birthday: {selected_char.birthday_display_name}"
+                    python:
+                        hub_reachable = selected_char not in Room.find(game.room).get_present_girls() and not selected_char.hidden
+                        hub_call = hub_reachable and ((not Conditioned.done_today("smartphone_call_" + selected_char.id)
+                            or not Conditioned.done_today("smartphone_booty_call_" + selected_char.id)
+                            and Room.has_tag(game.room, 'home'))
+                            and not bool(game.active_date))
+                        hub_buttons = []
+                        if hub_reachable and (((not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm.romantic >= 15
+                            or not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm.romantic >= 30
+                            or not Conditioned.done_today(f"smartphone_send_friendly_text_{selected_char.id}")
+                            and not bool(game.active_date)))):
+                            hub_buttons.append("text")
+                        hub_button_count = 1 + int(hub_call) + len(hub_buttons) + int(bool(selected_char.flags.managecareer))
+
+                        hub_stats_height = 500 - 4 - 39 * hub_button_count - 142
                     vbox:
                         yanchor "bottom"
                         ypos 500
@@ -514,49 +531,59 @@ screen smartphone(char=None, selected_screen="home"):
                             spacing 3
                             xpos 6
                             box_reverse True
-                            frame:
-                                style "invisible_frame"
-                                maximum (290, 370)
-                                vbox:
-                                    xpos 10
-                                    yalign 1.0
-                                    $ traits = ", ".join([_lssb_ui_translate(t.replace("_", " ").capitalize()) for t in sorted(selected_char.traits.known)])
-                                    if len(traits) > 0:
-                                        vbox:
-                                            xpos 10
-                                            xsize 220
-                                            spacing -7
-                                            label "Traits" text_size 21
-                                            text traits alt ""
-                                            $ info_self_voicing += f". Traits: {traits}"
-                                    null height 10
-                                    for attr in selected_char.get_attributes():
-                                        if attr.visible():
-                                            $ n = attr.scaled_val()
-                                            $ m = attr.max
-                                            $ mr = attr.scale
-                                            $ change_love_icon = isinstance(attr, Love) and bool(selected_char.get_attention_needed())
-                                            if change_love_icon:
-                                                text "A date or a hot coffee should soften them up." size 13 italic True alt ""
-                                            hbox:
-                                                yalign 1.0
-                                                spacing 4
-                                                frame:
-                                                    style "invisible_frame"
-                                                    xysize (30, 30)
-                                                    if change_love_icon:
-                                                        add "gui/icons/icon_love_angry.png" align (0.5, 0.5)
-                                                    else:
-                                                        add attr.get_icon() align (0.5, 0.5)
-                                                frame:
-                                                    style "invisible_frame"
-                                                    xysize (220, 28)
-                                                    bar value n range 100 left_bar "gui/phone/bar_full.png" right_bar "gui/phone/bar_empty.png" ymaximum 21
-                                                    bar value m range mr left_bar "gui/phone/bar_thru.png" right_bar "gui/phone/bar_locked.png" ymaximum 21
-                                                    text "[n]%" align (0.5, 0.5) size 16 alt ""
-                                                    $ info_self_voicing += f". {replace_tags_alt(attr.get_icon())}: {n}% {' is Lock' if attr.is_max and n < 100 else ''}"
-                                                    if attr.is_max and n < 100:
-                                                        add "gui/icons/icon_lock.png" align (0.87, 0.5)
+                            hbox:
+                                spacing 5
+                                ysize hub_stats_height
+                                viewport id "hub_stats":
+                                    xmaximum 274
+                                    ymaximum hub_stats_height
+                                    yinitial 1.0
+                                    mousewheel True
+                                    draggable True
+                                    has frame
+                                    style "invisible_frame"
+                                    yminimum hub_stats_height
+                                    vbox:
+                                        xpos 10
+                                        yalign 1.0
+                                        $ traits = ", ".join([_lssb_ui_translate(t.replace("_", " ").capitalize()) for t in sorted(selected_char.traits.known)])
+                                        if len(traits) > 0:
+                                            vbox:
+                                                xpos 10
+                                                xsize 220
+                                                spacing -7
+                                                label "Traits" text_size 21
+                                                text traits alt ""
+                                                $ info_self_voicing += f". Traits: {traits}"
+                                        null height 10
+                                        for attr in selected_char.get_attributes():
+                                            if attr.visible():
+                                                $ n = attr.scaled_val()
+                                                $ m = attr.max
+                                                $ mr = attr.scale
+                                                $ change_love_icon = isinstance(attr, Love) and bool(selected_char.get_attention_needed())
+                                                if change_love_icon:
+                                                    text "A date or a hot coffee should soften them up." size 13 italic True alt ""
+                                                hbox:
+                                                    yalign 1.0
+                                                    spacing 4
+                                                    frame:
+                                                        style "invisible_frame"
+                                                        xysize (30, 30)
+                                                        if change_love_icon:
+                                                            add "gui/icons/icon_love_angry.png" align (0.5, 0.5)
+                                                        else:
+                                                            add attr.get_icon() align (0.5, 0.5)
+                                                    frame:
+                                                        style "invisible_frame"
+                                                        xysize (220, 28)
+                                                        bar value n range 100 left_bar "gui/phone/bar_full.png" right_bar "gui/phone/bar_empty.png" ymaximum 21
+                                                        bar value m range mr left_bar "gui/phone/bar_thru.png" right_bar "gui/phone/bar_locked.png" ymaximum 21
+                                                        text "[n]%" align (0.5, 0.5) size 16 alt ""
+                                                        $ info_self_voicing += f". {replace_tags_alt(attr.get_icon())}: {n}% {' is Lock' if attr.is_max and n < 100 else ''}"
+                                                        if attr.is_max and n < 100:
+                                                            add "gui/icons/icon_lock.png" align (0.87, 0.5)
+                                vbar value YScrollValue("hub_stats") left_bar "gui/inv/vertical_idle_bar.png" thumb "gui/inv/vertical_idle_thumb.png" right_bar "gui/inv/vertical_idle_bar.png" xmaximum 11 ysize hub_stats_height thumb_offset 10 top_gutter 10.5 bottom_gutter 12.5 unscrollable "hide" alt "scroll "
                                 button:
                                     style "empty"
                                     action NullAction()
@@ -565,18 +592,8 @@ screen smartphone(char=None, selected_screen="home"):
                         vbox:
                             spacing 3
                             xpos 6
-                            $ hub_buttons = []
-                            if selected_char not in Room.find(game.room).get_present_girls() and not selected_char.hidden:
-                                if ((not Conditioned.done_today("smartphone_call_" + selected_char.id)
-                                or not Conditioned.done_today("smartphone_booty_call_" + selected_char.id)
-                                and Room.has_tag(game.room, 'home'))
-                                and not bool(game.active_date)):
-                                    textbutton "Call" action [SetScreenVariable("smartphone_screen", "call")] idle_background "gui/phone/empty_short_idle.png" hover_background "gui/phone/empty_short_hover.png" insensitive_background "gui/phone/empty_short_insensitive.png" xminimum 275
-                                if (((not Conditioned.done_today(f"smartphone_send_flirty_text_{selected_char.id}") and hero.charm.romantic >= 15
-                                or not Conditioned.done_today(f"smartphone_send_dirty_text_{selected_char.id}") and hero.charm.romantic >= 30
-                                or not Conditioned.done_today(f"smartphone_send_friendly_text_{selected_char.id}")
-                                and not bool(game.active_date)))):
-                                    $ hub_buttons.append("text")
+                            if hub_call:
+                                textbutton "Call" action [SetScreenVariable("smartphone_screen", "call")] idle_background "gui/phone/empty_short_idle.png" hover_background "gui/phone/empty_short_hover.png" insensitive_background "gui/phone/empty_short_insensitive.png" xminimum 275
                             for i in hub_buttons:
                                 textbutton i.capitalize() action [SetScreenVariable("smartphone_screen", i)]
                             if selected_char.flags.managecareer:
@@ -715,7 +732,7 @@ screen smartphone(char=None, selected_screen="home"):
                                     if selected_char.flags.job == job:
                                         textbutton j_line style "smartphone_tall_button"
                                     else:
-                                        textbutton j_line style "smartphone_tall_button" action [SetScreenVariable("smartphone_screen", "manage"), Call("smartphone_change_job", selected_char, job)]
+                                        textbutton j_line style "smartphone_tall_button" action [SetScreenVariable("smartphone_screen", "manage"), ToggleScreen("smartphone"), Call("smartphone_change_job", selected_char, job)]
 
                             use scrollbar_phone("job_change")
                         textbutton "Back" action [SetScreenVariable("smartphone_screen", "manage")] ypos 370 default_focus check_controller()
@@ -1333,7 +1350,7 @@ screen story_tracker():
 
     default tracker_story = None
 
-    default tracker_filter = "all"
+    default tracker_filter = story_tracker_start_filter()
 
     default enable_spoilers = False
 
@@ -1352,6 +1369,7 @@ screen story_tracker():
     $ npc_stories = {k:v for k,v in stories.items() if v._type == "npc"}
 
     $ cupid_stories = {k:v for k,v in stories.items() if v._type == "cupid"}
+    $ harem_links = storytracker.harem_links(tracker_filter, tracker_type, stories)
 
     $ filters = {"all": "All", "harem": "Harems", "generic": "Generic"}
 
@@ -1433,9 +1451,12 @@ screen story_tracker():
 
                             if generic_stories:
 
-                                textbutton "Generic"
+                                $ folded = "Generic" in persistent.story_folded
+                                textbutton ("+ " if folded else "- ") + "Generic":
+                                    action ToggleSetMembership(persistent.story_folded, "Generic")
+                                    alt (("Показать " if folded else "Скрыть ") if _preferences.language == "russian" else ("Show " if folded else "Hide ")) + "Generic"
 
-                                for key, story in generic_stories.items():
+                                for key, story in ({} if folded else generic_stories).items():
 
                                     button:
 
@@ -1455,9 +1476,12 @@ screen story_tracker():
 
                             if npc_stories:
 
-                                textbutton "Npc"
+                                $ folded = "Npc" in persistent.story_folded
+                                textbutton ("+ " if folded else "- ") + "Npc":
+                                    action ToggleSetMembership(persistent.story_folded, "Npc")
+                                    alt (("Показать " if folded else "Скрыть ") if _preferences.language == "russian" else ("Show " if folded else "Hide ")) + "Npc"
 
-                                for key, story in npc_stories.items():
+                                for key, story in ({} if folded else npc_stories).items():
 
                                     button:
 
@@ -1474,12 +1498,25 @@ screen story_tracker():
                                             text _lssb_ui_resize(story.name, 270)
 
                                         action [SelectedIf(tracker_story == key), SetScreenVariable("tracker_story", key)]
+                                    for harem_key, harem_story in harem_links.get(key, ()):
+                                        button:
+                                            hbox:
+                                                null width 30
+                                                if harem_story.complete and harem_story.status_icon != "None":
+                                                    add "gui/icons/icon_[harem_story.status_icon].png" xysize (25, 25) yalign 0.5
+                                                else:
+                                                    null width 30
+                                                text _lssb_ui_resize(harem_story.name, 230, 18)
+                                            action [SelectedIf(tracker_story == harem_key), SetScreenVariable("tracker_story", harem_key)]
 
                             if cupid_stories:
 
-                                textbutton "Cupid"
+                                $ folded = "Cupid" in persistent.story_folded
+                                textbutton ("+ " if folded else "- ") + "Cupid":
+                                    action ToggleSetMembership(persistent.story_folded, "Cupid")
+                                    alt (("Показать " if folded else "Скрыть ") if _preferences.language == "russian" else ("Show " if folded else "Hide ")) + "Cupid"
 
-                                for key, story in cupid_stories.items():
+                                for key, story in ({} if folded else cupid_stories).items():
 
                                     button:
 
@@ -1499,9 +1536,12 @@ screen story_tracker():
 
                             if harems_stories:
 
-                                textbutton "Harems"
+                                $ folded = "Harems" in persistent.story_folded
+                                textbutton ("+ " if folded else "- ") + "Harems":
+                                    action ToggleSetMembership(persistent.story_folded, "Harems")
+                                    alt (("Показать " if folded else "Скрыть ") if _preferences.language == "russian" else ("Show " if folded else "Hide ")) + "Harems"
 
-                                for key, story in harems_stories.items():
+                                for key, story in ({} if folded else harems_stories).items():
 
                                     button:
 
@@ -1619,19 +1659,18 @@ screen story_tracker():
 
                                             $ desc = f"👁️ {desc}"
 
+                                    $ progress = step.progress_for_ui if step.active else None
                                     hbox:
 
                                         fixed:
 
                                             style_prefix "story_description_icon"
+                                            xsize 160
 
-                                            if step.percentage and step.active:
-
-                                                bar value step.percentage_for_ui range 100 ysize 32 xsize 95
-
-                                                text f"{step.percentage_for_ui}%" alt ""
-
-                                                $ step_self_voicing = f"active: {step.percentage_for_ui}% {desc}"
+                                            if progress:
+                                                bar value progress[0] range 100 ysize 32 xsize 155
+                                                text _lssb_ui_resize(_lssb_progress_text(progress[1]), 150, 20) alt ""
+                                                $ step_self_voicing = f"active: {_lssb_progress_text(progress[1])} {desc}"
 
                                             elif step.status_icon != "None":
 
@@ -1970,6 +2009,11 @@ screen preferences():
                         textbutton _("Easy") action SetField(persistent, 'difficulty', -1)
                         textbutton _("Normal") action SetField(persistent, 'difficulty', 0)
                         textbutton _("Difficult") action SetField(persistent, 'difficulty', 1)
+                    vbox:
+                        xysize (230, 60)
+                        use text_tooltip(_lssb_ui_resize(_("Legacy stats"), 215, 22), _("One Sub/Dom stat that also counts horniness and exhibitionism, with no frustration.\nTheir own values are kept: turn it off to get them back."), "lspref_label_text")
+                        textbutton _("On") action SetField(persistent, 'legacy_stats', True)
+                        textbutton _("Off") action SetField(persistent, 'legacy_stats', False)
                     vbox:
                         xysize (230, 60)
                         use text_tooltip(_lssb_ui_resize(_("Random Needs"), 215, 22), _("The need's cost can fluctuate when performing actions"), "lspref_label_text")

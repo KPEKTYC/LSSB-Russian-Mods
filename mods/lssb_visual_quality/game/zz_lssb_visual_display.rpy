@@ -214,6 +214,11 @@ screen preferences():
                         textbutton _("Difficult") action SetField(persistent, 'difficulty', 1)
                     vbox:
                         xysize (230, 60)
+                        use text_tooltip(text_tag_resize(_("Legacy stats"), 230, 30), _("One Sub/Dom stat that also counts horniness and exhibitionism, with no frustration.\nTheir own values are kept: turn it off to get them back."), "lspref_label_text")
+                        textbutton _("On") action SetField(persistent, 'legacy_stats', True)
+                        textbutton _("Off") action SetField(persistent, 'legacy_stats', False)
+                    vbox:
+                        xysize (230, 60)
                         use text_tooltip(text_tag_resize(_("Random Needs"), 225, 30), _("The need's cost can fluctuate when performing actions"), "lspref_label_text")
                         textbutton _("On") action SetField(persistent, 'needs_randomness', True)
                         textbutton _("Off") action SetField(persistent, 'needs_randomness', False)
@@ -475,6 +480,11 @@ screen preferences():
                         textbutton _("Easy") action SetField(persistent, 'difficulty', -1)
                         textbutton _("Normal") action SetField(persistent, 'difficulty', 0)
                         textbutton _("Difficult") action SetField(persistent, 'difficulty', 1)
+                    vbox:
+                        xysize (230, 60)
+                        use text_tooltip(_lssb_ui_resize(_("Legacy stats"), 215, 22), _("One Sub/Dom stat that also counts horniness and exhibitionism, with no frustration.\nTheir own values are kept: turn it off to get them back."), "lspref_label_text")
+                        textbutton _("On") action SetField(persistent, 'legacy_stats', True)
+                        textbutton _("Off") action SetField(persistent, 'legacy_stats', False)
                     vbox:
                         xysize (230, 60)
                         use text_tooltip(_lssb_ui_resize(_("Random Needs"), 215, 22), _("The need's cost can fluctuate when performing actions"), "lspref_label_text")

@@ -31516,10 +31516,6 @@ translate russian sasha_talk_sex_male_7597d746:
 translate russian sasha_talk_sex_male_cd060917:
     sasha.say "Не знаю, в чём вопрос, но ответ точно — секс."
 
-# ch/sasha/talk.rpy:86
-translate russian sasha_talk_sex_male_53c1ae3d:
-    mike.say "Ты могла бы замутить с другой девушкой?"
-
 # ch/sasha/talk.rpy:88
 translate russian sasha_talk_sex_male_89a5847b:
     sasha.say "Я пою в женской группе, [lssb_sasha.hero_name()]. Знаю, что творится за кулисами."

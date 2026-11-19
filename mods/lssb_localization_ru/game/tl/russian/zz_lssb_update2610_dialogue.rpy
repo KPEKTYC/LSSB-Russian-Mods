@@ -42752,10 +42752,6 @@ translate russian morgan_talk_love_male_dccbabb9:
 translate russian morgan_talk_love_male_38161e63:
     morgan.say "Раньше я думала, что любовь — сказка для других девчонок. А теперь думаю, что шанс есть у каждого."
 
-# ch/morgan/talk.rpy:58
-translate russian morgan_talk_love_male_237947f1:
-    morgan.say "Мне понадобилось двадцать пять лет и мой самый старый друг, чтобы это понять."
-
 # ch/morgan/talk.rpy:64
 translate russian morgan_talk_love_male_68a5de49:
     morgan.say "Каждый должен постараться найти настоящую любовь! Я свою нашла, и теперь я принадлежу ему."

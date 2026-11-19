@@ -94,7 +94,7 @@ screen story_tracker():
 
     default tracker_story = None
 
-    default tracker_filter = "all"
+    default tracker_filter = story_tracker_start_filter()
 
     default enable_spoilers = False
 
@@ -113,6 +113,7 @@ screen story_tracker():
     $ npc_stories = {k:v for k,v in stories.items() if v._type == "npc"}
 
     $ cupid_stories = {k:v for k,v in stories.items() if v._type == "cupid"}
+    $ harem_links = storytracker.harem_links(tracker_filter, tracker_type, stories)
     $ filters = {"all": "All", "harem": "Гаремы", "generic": "Общие"}
 
     $ filters.update(participants)
@@ -195,9 +196,12 @@ screen story_tracker():
 
                             if generic_stories:
 
-                                textbutton "Общие"
+                                $ folded = "Generic" in persistent.story_folded
+                                textbutton ("+ " if folded else "- ") + "Общие":
+                                    action ToggleSetMembership(persistent.story_folded, "Generic")
+                                    alt (("Показать " if folded else "Скрыть ") if _preferences.language == "russian" else ("Show " if folded else "Hide ")) + "Общие"
 
-                                for key, story in generic_stories.items():
+                                for key, story in ({} if folded else generic_stories).items():
 
                                     button:
 
@@ -217,9 +221,47 @@ screen story_tracker():
 
                             if npc_stories:
 
-                                textbutton "Персонажи"
+                                $ folded = "Npc" in persistent.story_folded
+                                textbutton ("+ " if folded else "- ") + "Персонажи":
+                                    action ToggleSetMembership(persistent.story_folded, "Npc")
+                                    alt (("Показать " if folded else "Скрыть ") if _preferences.language == "russian" else ("Show " if folded else "Hide ")) + "Персонажи"
 
-                                for key, story in npc_stories.items():
+                                for key, story in ({} if folded else npc_stories).items():
+
+                                    button:
+
+                                        hbox:
+
+                                            if story.complete and story.status_icon != "None":
+
+                                                add "gui/icons/icon_[story.status_icon].png" xysize (25, 25) yalign 0.5
+
+                                            else:
+
+                                                null width 30
+
+                                            text _lssb_story_label(story)
+
+                                        action [SelectedIf(tracker_story == key), SetScreenVariable("tracker_story", key)]
+                                    for harem_key, harem_story in harem_links.get(key, ()):
+                                        button:
+                                            hbox:
+                                                null width 30
+                                                if harem_story.complete and harem_story.status_icon != "None":
+                                                    add "gui/icons/icon_[harem_story.status_icon].png" xysize (25, 25) yalign 0.5
+                                                else:
+                                                    null width 30
+                                                text _lssb_ui_resize(_lssb_story_name(harem_story), 178, 18)
+                                            action [SelectedIf(tracker_story == harem_key), SetScreenVariable("tracker_story", harem_key)]
+
+                            if cupid_stories:
+
+                                $ folded = "Cupid" in persistent.story_folded
+                                textbutton ("+ " if folded else "- ") + "Купидон":
+                                    action ToggleSetMembership(persistent.story_folded, "Cupid")
+                                    alt (("Показать " if folded else "Скрыть ") if _preferences.language == "russian" else ("Show " if folded else "Hide ")) + "Купидон"
+
+                                for key, story in ({} if folded else cupid_stories).items():
 
                                     button:
 
@@ -237,33 +279,14 @@ screen story_tracker():
 
                                         action [SelectedIf(tracker_story == key), SetScreenVariable("tracker_story", key)]
 
-                            if cupid_stories:
-
-                                textbutton "Купидон"
-
-                                for key, story in cupid_stories.items():
-
-                                    button:
-
-                                        hbox:
-
-                                            if story.complete and story.status_icon != "None":
-
-                                                add "gui/icons/icon_[story.status_icon].png" xysize (25, 25) yalign 0.5
-
-                                            else:
-
-                                                null width 30
-
-                                            text text_tag_resize(story.name, 270)
-
-                                        action [SelectedIf(tracker_story == key), SetScreenVariable("tracker_story", key)]
-
                             if harems_stories:
 
-                                textbutton "Гаремы"
+                                $ folded = "Harems" in persistent.story_folded
+                                textbutton ("+ " if folded else "- ") + "Гаремы":
+                                    action ToggleSetMembership(persistent.story_folded, "Harems")
+                                    alt (("Показать " if folded else "Скрыть ") if _preferences.language == "russian" else ("Show " if folded else "Hide ")) + "Гаремы"
 
-                                for key, story in harems_stories.items():
+                                for key, story in ({} if folded else harems_stories).items():
 
                                     button:
 
@@ -389,19 +412,18 @@ screen story_tracker():
 
                                             $ desc = f"👁️ {desc}"
 
+                                    $ progress = step.progress_for_ui if step.active else None
                                     hbox:
 
                                         fixed:
 
                                             style_prefix "story_description_icon"
+                                            xsize 160
 
-                                            if step.percentage and step.active:
-
-                                                bar value step.percentage_for_ui range 100 ysize 32 xsize 95
-
-                                                text f"{step.percentage_for_ui}%" alt ""
-
-                                                $ step_self_voicing = f"активно: {step.percentage_for_ui}% {desc}"
+                                            if progress:
+                                                bar value progress[0] range 100 ysize 32 xsize 155
+                                                text _lssb_ui_resize(_lssb_progress_text(progress[1]), 150, 20) alt ""
+                                                $ step_self_voicing = f"активно: {_lssb_progress_text(progress[1])} {desc}"
 
                                             elif step.status_icon != "None":
 

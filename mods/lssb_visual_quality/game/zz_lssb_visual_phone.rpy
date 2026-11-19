@@ -592,6 +592,8 @@ screen smartphone(char=None, selected_screen="home"):
                                 textbutton "Dad" action [ToggleScreen("smartphone"), Call("angela_afterblow_dad_call")]
                                 if game.flags.bruceNumber:
                                     textbutton "Bruce (Bree's dad)" action [ToggleScreen("smartphone"), Call("angela_afterblow_bruce_call")]
+                            if smartphone_screen == "call" and game.flags.hirePI:
+                                textbutton getattr(store, "_lssb_phone_investigator", lambda: "Investigator")() action [ToggleScreen("smartphone"), Call("call_hire_PI")]
                             $ call_jack = smartphone_screen == "call" and JackRpg.can_call()
                             $ listed = sorted(hero_contacts + ["jack"], key=lambda i: _lssb_person_name(Person.find(i).name).casefold()) if call_jack else hero_contacts
                             for i in listed:
@@ -852,7 +854,7 @@ screen smartphone(char=None, selected_screen="home"):
                                     if selected_char.flags.job == job:
                                         textbutton j_line style "smartphone_tall_button"
                                     else:
-                                        textbutton j_line style "smartphone_tall_button" action [SetScreenVariable("smartphone_screen", "manage"), Call("smartphone_change_job", selected_char, job)]
+                                        textbutton j_line style "smartphone_tall_button" action [SetScreenVariable("smartphone_screen", "manage"), ToggleScreen("smartphone"), Call("smartphone_change_job", selected_char, job)]
 
                             use scrollbar_phone("job_change")
                         textbutton "Back" action [SetScreenVariable("smartphone_screen", "manage")] ypos 410 default_focus check_controller()
