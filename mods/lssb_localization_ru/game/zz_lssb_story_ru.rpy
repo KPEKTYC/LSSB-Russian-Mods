@@ -505,7 +505,7 @@ screen story_tracker():
 
     $ tooltip = GetTooltip()
 
-    if tooltip:
+    if isinstance(tooltip, str) and tooltip:
 
         nearrect:
 

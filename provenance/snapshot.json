@@ -19,7 +19,7 @@
     "mods/lssb_localization_ru/game/zz_lssb_cherie_ru.rpy": "26ebfaf01cb3055bc030b51e85b56643d6d7406f677b588240d39ae56011c077",
     "mods/lssb_localization_ru/game/zz_lssb_college_ru.rpy": "e148ac993ec0692d971cc6d7346ec2da910f3a56d3458d0fbc2007322b958e3b",
     "mods/lssb_localization_ru/game/zz_lssb_common_ru.rpy": "4a6135b9f52566d81888fcb5b7e05ead8935c8934c9b2d14422c2f1e3c80c6ff",
-    "mods/lssb_localization_ru/game/zz_lssb_compat.rpy": "15d044d96c3963a3feea8aba1ebfa7a5b15b9a1cf4a5b87a69e494dc99e858cb",
+    "mods/lssb_localization_ru/game/zz_lssb_compat.rpy": "c46310392b99686a1920e2df45d6826ed04ed3765f9e50ae0e7715f9d8b65f3b",
     "mods/lssb_localization_ru/game/zz_lssb_completion_ru.rpy": "d2d15149cac50c7849a35d6a6c603841ef9017dc2f3ed1861208b4a1e1192267",
     "mods/lssb_localization_ru/game/zz_lssb_criminal_ru.rpy": "738fa47954a9bb9f8d047a8e6712b5124ba4e68c212ad6480708bfeddd599aca",
     "mods/lssb_localization_ru/game/zz_lssb_emma_ru.rpy": "11b4cd54bd4fcf307904e03d83be6a3590fc0501f3358a31a0303fb80d3fea68",
@@ -65,7 +65,7 @@
     "mods/lssb_localization_ru/game/zz_lssb_shiori_ru.rpy": "e6ac5a45a7e6443f3fe651b79c68fc0767252d4728337c1f465f13008ad6cfbb",
     "mods/lssb_localization_ru/game/zz_lssb_shop_ru.rpy": "feb80597ecce2523b315b85c464baa8a609848489173603ec2828bdb0a81af1a",
     "mods/lssb_localization_ru/game/zz_lssb_sporty_ru.rpy": "a9f0fabdbc143672b65b253f31945bfbf3e2f8a78cd1aea73e1df79ca551d46f",
-    "mods/lssb_localization_ru/game/zz_lssb_story_ru.rpy": "90da0ccf1b1fbce5bcd4b00eb86db28f088a06812cd8c77df786e4dd38094628",
+    "mods/lssb_localization_ru/game/zz_lssb_story_ru.rpy": "803f12d65d246cfe5af9779ccefd86c5a0c65ba77c4904d7804767eeb4eb6176",
     "mods/lssb_localization_ru/game/zz_lssb_taming_ru.rpy": "75e0809b6d09b833d5dcbc291c76446c20ca074b1cf50c7c434a348674bee2b5",
     "mods/lssb_localization_ru/game/zz_lssb_taphophile_ru.rpy": "c94df8f5ea345764fcfae8b0fed74cae8da7b8346fac93c1c58888c9c2f9b6f7",
     "mods/lssb_localization_ru/game/zz_lssb_textcompletion_ru.rpy": "ea19a5c3a6cbc2ae8a954d27d97af8f5a1c9d3b4d5d5d13507121e8655b4c963",
@@ -76,7 +76,7 @@
     "mods/lssb_localization_ru/game/zz_lssb_textphone_ru.rpy": "c52e1495f30958c4d25461062829e73ed70252eac86dbb004b0978ee89fd6188",
     "mods/lssb_localization_ru/game/zz_lssb_textstory_ru.rpy": "d3249606f12a51a79c8c1f37ac6e681ec16631b2c3ca2fb7b364ef7f1a5851f2",
     "mods/lssb_localization_ru/game/zz_lssb_ui_ru.rpy": "992dbc515d144d9157078949a55fec03301ad0fb54068b12f6f849bef6570439",
-    "mods/lssb_localization_ru/game/zz_lssb_ui_screens.rpy": "5dc53cd8aef32b389f469f97c6adcf56bce1786769b7939ea1cbc7f676f6e1a0",
+    "mods/lssb_localization_ru/game/zz_lssb_ui_screens.rpy": "5e510b04500a8c1c1b46a567f383c545bf5b350e404eb1781b8b121ed2db4986",
     "mods/lssb_localization_ru/game/zz_lssb_world_ru.rpy": "9d004ba7fe324f29969daf5f2d343e80cf93627aecc2d8cd7a101a9ca7d42019",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_aletta_dialogue.rpy": "2619fbad8eca92726805b8f3e358534fb1c02da3d26852c0613b7ba67ae22c8c",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_alexis_dialogue.rpy": "e551c625324da3471383f262aed8d6be27243f08c77d4d6adfc1a7fca3fdf99b",
@@ -141,7 +141,7 @@
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_world_dialogue.rpy": "736aa5e3b01d3acdf38812e42a2016ccbf5bc060fbb9656fbf1802079f623801",
     "mods/lssb_mod_manager/game/zz_lssb_mod_manager.rpy": "90ecee5861f2d1ac251350add2271c746e6adff8c434bb1d11c1adb003d61681",
     "mods/lssb_startup_fix/game/zz_lssb_startup_fast.rpy": "a244fd925176ae672ce8811e812decdc2140806933ac2bf90f08c42459174798",
-    "mods/lssb_visual_quality/game/zz_lssb_compat.rpy": "15d044d96c3963a3feea8aba1ebfa7a5b15b9a1cf4a5b87a69e494dc99e858cb",
+    "mods/lssb_visual_quality/game/zz_lssb_compat.rpy": "c46310392b99686a1920e2df45d6826ed04ed3765f9e50ae0e7715f9d8b65f3b",
     "mods/lssb_visual_quality/game/zz_lssb_visual_display.rpy": "5483e9054330a5272e8edc75cd0e3392f0a8523496e0971bf0dcce8b77c6f40a",
     "mods/lssb_visual_quality/game/zz_lssb_visual_inventory.rpy": "be6f205e33b64e3a1c8af9a225434074b414b999bdcc9dfc1e48d4f7d54489cb",
     "mods/lssb_visual_quality/game/zz_lssb_visual_mall.rpy": "8257f9f205b67a5d20d93a8eb7d5aa5aafe2f66b798ef9e631b1f788633b7d30",
@@ -5595,6 +5595,8 @@
     "mods/lssb_localization_ru/game/zz_lssb_update2610e_story_ru.rpy": "3d3e9cf9c5c0ef0b722e5b41ab2f04a78a6d7ad3b7be3f731fac254a30a0b05e",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_update2610i_dialogue.rpy": "e698ce28bae6b1c837ca4836dcb5b10273416ef121b8138f09d338c5ef0e3788",
     "mods/lssb_localization_ru/game/tl/russian/zz_lssb_update2610i_strings.rpy": "fb36d7c1fcec732da26bf5cf8b9b0698e46288270652b33aa9d03e9ada3bfd03",
-    "mods/lssb_localization_ru/game/zz_lssb_update2610i_ru.rpy": "7f228b485e549bcad76c698bd1dbfcf027e9d3a1dba6f4c0d2c2c9873c4e6593"
+    "mods/lssb_localization_ru/game/zz_lssb_update2610i_ru.rpy": "7f228b485e549bcad76c698bd1dbfcf027e9d3a1dba6f4c0d2c2c9873c4e6593",
+    "mods/lssb_localization_ru/game/tl/russian/zz_lssb_update2610k_dialogue.rpy": "2f2bee5fc91e3a613297964dcb03588f2fb6ff61ae069a58353b30153891e72a",
+    "mods/lssb_localization_ru/game/zz_lssb_update2610k_ru.rpy": "6feb83f95189e3d7edaf540c875ee177f975a85a44eb1110257344257818f0d7"
   }
 }

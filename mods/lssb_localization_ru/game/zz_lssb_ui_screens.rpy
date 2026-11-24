@@ -189,109 +189,125 @@ screen smartphone(char=None, selected_screen="home"):
                 text hero_birthday_display_name pos (30, 114) alt ""
                 $ character_self_voicing = f"{heroname_ui} . Status: {hero.status} . Birthday: {hero_birthday_display_name}"
                 $ character_self_voicing += f". luck: {luck_value}. stamina: {'ready' if hero.stamina else 'unready'}"
-                frame:
-                    style "invisible_frame"
-                    pos (1, 130)
-                    xysize (290, 370)
-                    has vbox
-                    yalign 1.0
-                    spacing 3
-                    vbox:
-                        box_reverse True
-                        spacing 3
-                        xpos 20
-                        xmaximum 270
-                        $ attr_bar_ui = None
-                        if hero.is_male and Person.is_not_hidden("minami"):
-                            $ attr_bar_ui = minami.siscon.for_ui(minami)
-                        elif hero.is_female:
-                            $ attr_bar_ui = hero.morality.for_ui()
-                        if attr_bar_ui is not None:
-                            hbox:
-                                align (0.0, 1.0)
-                                spacing 5
-                                add attr_bar_ui['icon']
-                                frame:
-                                    style "invisible_frame"
-                                    xysize (220, 28)
-                                    bar:
-                                        value attr_bar_ui['vbar']['value']
-                                        range attr_bar_ui['vbar']['range']
-                                        left_bar "gui/phone/bar_full.png"
-                                        right_bar "gui/phone/bar_empty.png"
-                                        ymaximum 21
-                                    bar:
-                                        value attr_bar_ui['lbar']['value']
-                                        range attr_bar_ui['lbar']['range']
-                                        left_bar f"gui/phone/bar_{attr_bar_ui['lbar']['left']}.png"
-                                        right_bar f"gui/phone/bar_{attr_bar_ui['lbar']['right']}.png"
-                                        ymaximum 21
-                                    text attr_bar_ui['text'] align (0.5, 0.5) size 16 alt ""
-                                    if attr_bar_ui['lock']:
-                                        add "gui/icons/icon_lock.png" align (0.87, 0.5)
-                                    $ character_self_voicing += f". {replace_tags_alt(attr_bar_ui['icon'])} {attr_bar_ui['text']} {' is Lock' if attr_bar_ui['lock'] else ''}"
+                fixed:
+                    pos (1, 146)
+                    xysize (290, 354)
+                    hbox:
+                        spacing 5
+                        ysize 354
+                        viewport id "hero_card":
+                            xmaximum 274
+                            ymaximum 354
+                            yinitial 1.0
+                            mousewheel True
+                            draggable True
 
-                        if any(hero.skills):
-                            $ t = ", ".join([_lssb_phone_skill(s.display_name) for s in hero.skills])
-                            text "{b}Skills:{/b} [t]" size 16 alt ""
-                            $ character_self_voicing += f". Skills: {t}"
+                            has frame
+                            style "invisible_frame"
+                            yminimum 354
+                            vbox:
+                                yalign 1.0
+                                spacing 3
+                                vbox:
+                                    box_reverse True
+                                    spacing 3
+                                    xpos 20
+                                    xmaximum 250
+                                    $ attr_bar_ui = None
+                                    if hero.is_male and Person.is_not_hidden("minami"):
+                                        $ attr_bar_ui = minami.siscon.for_ui(minami)
+                                    elif hero.is_female:
+                                        $ attr_bar_ui = hero.morality.for_ui()
+                                    if attr_bar_ui is not None:
+                                        hbox:
+                                            align (0.0, 1.0)
+                                            spacing 5
+                                            add attr_bar_ui['icon']
+                                            frame:
+                                                style "invisible_frame"
+                                                xysize (220, 28)
+                                                bar:
+                                                    value attr_bar_ui['vbar']['value']
+                                                    range attr_bar_ui['vbar']['range']
+                                                    left_bar "gui/phone/bar_full.png"
+                                                    right_bar "gui/phone/bar_empty.png"
+                                                    ymaximum 21
+                                                bar:
+                                                    value attr_bar_ui['lbar']['value']
+                                                    range attr_bar_ui['lbar']['range']
+                                                    left_bar f"gui/phone/bar_{attr_bar_ui['lbar']['left']}.png"
+                                                    right_bar f"gui/phone/bar_{attr_bar_ui['lbar']['right']}.png"
+                                                    ymaximum 21
+                                                text attr_bar_ui['text'] align (0.5, 0.5) size 16 alt ""
+                                                if attr_bar_ui['lock']:
+                                                    add "gui/icons/icon_lock.png" align (0.87, 0.5)
+                                                $ character_self_voicing += f". {replace_tags_alt(attr_bar_ui['icon'])} {attr_bar_ui['text']} {' is Lock' if attr_bar_ui['lock'] else ''}"
 
-                        if game.flags.ngplus and hero.min_sexperience < hero.sexperience:
-                            text "{b}Sexperience:{/b} [hero.sexperience] ([hero.min_sexperience])" alt ""
-                            $ character_self_voicing += f". Sexperience: {hero.sexperience} ({hero.min_sexperience})"
-                        else:
-                            text "{b}Sexperience:{/b} [hero.sexperience]" alt ""
-                            $ character_self_voicing += f". Sexperience: {hero.sexperience}"
+                                    if any(hero.skills):
+                                        $ t = ", ".join([_lssb_phone_skill(s.display_name) for s in hero.skills])
+                                        text "{b}Skills:{/b} [t]" size 16 alt ""
+                                        $ character_self_voicing += f". Skills: {t}"
 
-                        if hero.children:
-                            text "{b}Children:{/b} [hero.children]" alt ""
-                            $ character_self_voicing += f". Children: {hero.children}"
+                                    if game.flags.ngplus and hero.min_sexperience < hero.sexperience:
+                                        text "{b}Sexperience:{/b} [hero.sexperience] ([hero.min_sexperience])" alt ""
+                                        $ character_self_voicing += f". Sexperience: {hero.sexperience} ({hero.min_sexperience})"
+                                    else:
+                                        text "{b}Sexperience:{/b} [hero.sexperience]" alt ""
+                                        $ character_self_voicing += f". Sexperience: {hero.sexperience}"
+
+                                    if hero.children:
+                                        text "{b}Children:{/b} [hero.children]" alt ""
+                                        $ character_self_voicing += f". Children: {hero.children}"
 
 
-                        $ job_day = game.flags.job_day
-                        if not job_day:
-                            if hero.is_male and not game.flags.fired:
-                                if game.flags.isceo:
-                                    $ job_day = "CEO"
-                                elif game.flags.promoted:
-                                    $ job_day = "Manager"
-                                else:
-                                    $ job_day = "Code Monkey"
-                            else:
-                                $ job_day = "Unemployed"
-                        if Room.find(job_day) is not None:
-                            $ job_day = Room.find(job_day).display_name
-                        $ job_night = game.flags.job_night
-                        if hero.is_female:
-                            if not job_night:
-                                $ job_night = "Unemployed"
-                            if Room.find(job_night) is not None:
-                                $ job_night = Room.find(job_night).display_name
-                            text _lssb_phone_job_line("night", job_night) alt ""
-                        $ character_self_voicing += f". Job (night): {job_night}"
-                        text _lssb_phone_job_line("day", job_day) alt ""
-                        $ character_self_voicing += f". Job (day): {job_day}"
+                                    $ job_day = game.flags.job_day
+                                    if not job_day:
+                                        if hero.is_male and not game.flags.fired:
+                                            if game.flags.isceo:
+                                                $ job_day = "CEO"
+                                            elif game.flags.promoted:
+                                                $ job_day = "Manager"
+                                            else:
+                                                $ job_day = "Code Monkey"
+                                        else:
+                                            $ job_day = "Unemployed"
+                                    if Room.find(job_day) is not None:
+                                        $ job_day = Room.find(job_day).display_name
+                                    $ job_night = game.flags.job_night
+                                    if hero.is_female:
+                                        if not job_night:
+                                            $ job_night = "Unemployed"
+                                        if Room.find(job_night) is not None:
+                                            $ job_night = Room.find(job_night).display_name
+                                        text _lssb_phone_job_line("night", job_night) alt ""
+                                    $ character_self_voicing += f". Job (night): {job_night}"
+                                    text _lssb_phone_job_line("day", job_day) alt ""
+                                    $ character_self_voicing += f". Job (day): {job_day}"
 
-                        if hero.is_female:
-                            text "{b}Sex:{/b} Female" alt ""
-                            if hero.is_visibly_pregnant or [guy for guy in Guy.all() if guy.flags.toldpreg]:
-                                text "{b}Fertility:{/b} Pregnant" alt ""
-                                $ character_self_voicing += f". Fertility: Pregnant"
-                            else:
-                                text "{b}Fertility:{/b} [hero.fertility]%" alt ""
-                                $ character_self_voicing += f". Fertility: {hero.fertility}%"
-                        else:
-                            text "{b}Sex:{/b} Male" alt ""
+                                    if hero.is_female:
+                                        text "{b}Sex:{/b} Female" alt ""
+                                        if hero.is_visibly_pregnant or [guy for guy in Guy.all() if guy.flags.toldpreg]:
+                                            text "{b}Fertility:{/b} Pregnant" alt ""
+                                            $ character_self_voicing += f". Fertility: Pregnant"
+                                        else:
+                                            text "{b}Fertility:{/b} [hero.fertility]%" alt ""
+                                            $ character_self_voicing += f". Fertility: {hero.fertility}%"
+                                    else:
+                                        text "{b}Sex:{/b} Male" alt ""
 
-                        button:
-                            style "empty"
-                            action NullAction()
-                            keyboard_focus False
-                            alt character_self_voicing
-                    vbox:
-                        yalign 1.0
-                        text " "
-                        textbutton "Back" action [SetScreenVariable("selected_char", None), SetScreenVariable("smartphone_screen", "home")] default_focus check_controller()
+                                vbox:
+                                    yalign 1.0
+                                    text " "
+                                    textbutton "Back" action [SetScreenVariable("selected_char", None), SetScreenVariable("smartphone_screen", "home")] default_focus check_controller()
+                        vbar value YScrollValue("hero_card") left_bar "gui/inv/vertical_idle_bar.png" thumb "gui/inv/vertical_idle_thumb.png" right_bar "gui/inv/vertical_idle_bar.png" xmaximum 11 ysize 354 thumb_offset 10 top_gutter 10.5 bottom_gutter 12.5 unscrollable "hide" alt "scroll "
+
+                button:
+                    style "empty"
+                    pos (0, 20)
+                    xysize (290, 120)
+                    action NullAction()
+                    keyboard_focus False
+                    alt character_self_voicing
 
             elif smartphone_screen == "calendar":
                 $ hero_agenda = hero.calendar.get_agenda()
@@ -1746,7 +1762,7 @@ screen story_tracker():
 
     $ tooltip = GetTooltip()
 
-    if tooltip:
+    if isinstance(tooltip, str) and tooltip:
 
         nearrect:
 
